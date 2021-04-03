@@ -42,11 +42,11 @@
 
 |    | -p | -t | -h | -l | -w
 | -- | -- | -- | -- | -- | --
-| p- |    |    | ph | pl | 
+| p- |    |    | ph | pl |
 | t- |    |    | th |    | tw
-| s- | sp | st | sh | sl | 
-| c- |    |    | ch |    | 
-| w- |    |    | wh |    | 
+| s- | sp | st | sh | sl |
+| c- |    |    | ch |    |
+| w- |    |    | wh |    |
 
 ## orthography
 

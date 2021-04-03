@@ -26,7 +26,7 @@
 ## linking
 
 * verbs of the senses
-  * feel, look, smell, or taste 
+  * feel, look, smell, or taste
 
 ## passive verbs
 
@@ -34,42 +34,42 @@
 * they are all some form of "be"
   * the ball was thrown by me <- "was"
 
-| plath | ipa | english
-| ----- | --- | -------
-| phi   | []  | is
-| pha   | []  | am
-| phe   | []  | are
-| pho   | []  | was
-| phu   | []  | were
-| sha   | []  | be
-| she   | []  | being
-| shi   | []  | been
+| plath | ipa   | english
+| ----- | ---   | -------
+| phi   | `[]`  | is
+| pha   | `[]`  | am
+| phe   | `[]`  | are
+| pho   | `[]`  | was
+| phu   | `[]`  | were
+| sha   | `[]`  | be
+| she   | `[]`  | being
+| shi   | `[]`  | been
 
 ## miscellaneous
 
-| plath  | ipa        | english
-| -----  | ---        | -------
-|        | []         | go
-|        | []         | do
-|        | []         | eat
-|        | []         | give
-|        | []         | take
-|        | []         | sleep
-|        | []         | tell
-|        | []         | sit
-| lothea | [lo.ˈθe̞.a] | love
-| lephe  | [ˈle.ɸe̞]   | like
-|        | []         | add
-|        | []         | ask
-|        | []         | carry
-|        | []         | drop
-|        | []         | contain
-|        | []         | move
-|        | []         | push
-|        | []         | pull
-|        | []         | step
-|        | []         | walk
-|        | []         | run
-|        | []         | wait
-|        | []         | use
-|        | []         | talk
+| plath  | ipa          | english
+| -----  | ---          | -------
+|        | `[]`         | go
+|        | `[]`         | do
+|        | `[]`         | eat
+|        | `[]`         | give
+|        | `[]`         | take
+|        | `[]`         | sleep
+|        | `[]`         | tell
+|        | `[]`         | sit
+| lothea | `[lo.ˈθe̞.a]` | love
+| lephe  | `[ˈle.ɸe̞]`   | like
+|        | `[]`         | add
+|        | `[]`         | ask
+|        | `[]`         | carry
+|        | `[]`         | drop
+|        | `[]`         | contain
+|        | `[]`         | move
+|        | `[]`         | push
+|        | `[]`         | pull
+|        | `[]`         | step
+|        | `[]`         | walk
+|        | `[]`         | run
+|        | `[]`         | wait
+|        | `[]`         | use
+|        | `[]`         | talk

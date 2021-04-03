@@ -2,39 +2,36 @@
 
 ## coordinating
 
-| plath | ipa | english
-| ----- | --- | -------
-|       | []  | for
-|       | []  | and
-|       | []  | nor
-|       | []  | but
-|       | []  | or
-|       | []  | yet
-|       | []  | so
-
-| plath | ipa | english
-| ----- | --- | -------
+| plath | ipa   | english
+| ----- | ---   | -------
+|       | `[]`  | for
+|       | `[]`  | and
+|       | `[]`  | nor
+|       | `[]`  | but
+|       | `[]`  | or
+|       | `[]`  | yet
+|       | `[]`  | so
 
 ## subordinating
 
-| plath | ipa | english
-| ----- | --- | -------
-|       | []  | after
-|       | []  | although
-|       | []  | as
-|       | []  | because
-|       | []  | before
-|       | []  | how
-|       | []  | if
-|       | []  | once
-|       | []  | since
-|       | []  | than
-|       | []  | that
-|       | []  | when
-|       | []  | where
-|       | []  | whether
-|       | []  | while
-|       | []  | until
+| plath | ipa   | english
+| ----- | ---   | -------
+|       | `[]`  | after
+|       | `[]`  | although
+|       | `[]`  | as
+|       | `[]`  | because
+|       | `[]`  | before
+|       | `[]`  | how
+|       | `[]`  | if
+|       | `[]`  | once
+|       | `[]`  | since
+|       | `[]`  | than
+|       | `[]`  | that
+|       | `[]`  | when
+|       | `[]`  | where
+|       | `[]`  | whether
+|       | `[]`  | while
+|       | `[]`  | until
 
 ## correlative
 
@@ -46,8 +43,7 @@
   * not only/but also
   * whether/or
 
-* from [Torn Tongue: Correlative Conjunctions](
-https://conlangs.livejournal.com/503435.html)
+* from [Torn Tongue: Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 
 | english           | torn tongue
 | -------           | -----------
