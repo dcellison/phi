@@ -1,36 +1,29 @@
 # phonology
 
-## consonants
+## sound inventory
 
-* p t m n s h l w
-* four voiced consonants
-  * m n l w
-* the rest are fricatives and plosives
-  * p t s h
-  * ph th sh ch wh
+### consonants
 
-### pulomic
+#### pulomic
 
-|            | bilabial | dental | alveolar | postalveolar | palatal | glottal
-| ---------- | -------  | ------ | -------- | ------------ | ------- | -------
-| plosive    | p        |        | t        |              |         |
-| nasal      | m        |        | n        |              |         |
-| fricative  | ɸ        | θ      | s        | ʃ            | ç       | h
-| lat approx |          |        | l        |              |         |
+|            | bilabial | dental | alveolar | postalveolar |  glottal
+| ---------- | -------  | ------ | -------- | ------------ | -------
+| plosive    | p        |        | t        |              |
+| nasal      | m        |        | n        |              |
+| fricative  | ɸ        | θ      | s        | ʃ            | h
+| lat approx |          |        | l        |              |
 
-### co-articulated
+#### co-articulated
 
 |             | labial-velar
 | ----------- | ------------
 | fricative   | ʍ
 | approximant | w
 
-## vowels
+### vowels
 
-* i u e o a
-* standard spanish vowel pronunciation
-  * except for an open front [a]
-  * [ɒ] is acceptable as a preference
+standard spanish vowel pronunciation except for an open front [a].
+[ɒ] is acceptable as a personal preference.
 
 |       | front | back
 | ----- | ----- | ----
@@ -38,14 +31,13 @@
 | mid   | e̞     | o̞
 | open  | a     | ɒ
 
-## consonant blends
+### consonant blends
 
 |    | -p | -t | -h | -l | -w
 | -- | -- | -- | -- | -- | --
 | p- |    |    | ph | pl |
-| t- |    |    | th |    | tw
-| s- | sp | st | sh | sl |
-| c- |    |    | ch |    |
+| t- |    |    | th |    |
+| s- | sp | st | sh | sl | sw
 | w- |    |    | wh |    |
 
 ## orthography
@@ -62,7 +54,6 @@
 | `[θ]` | th
 | `[s]` | s
 | `[ʃ]` | sh
-| `[ç]` | ch
 | `[h]` | h
 | `[l]` | l
 | `[ʍ]` | wh
@@ -81,8 +72,8 @@
 
 ### diphthongs
 
-| ipa      | latin
-| ---      | -----
+| ipa     | latin
+| ---     | -----
 | `[a.i]` | ai
 | `[a.o̞]` | ao
 | `[a.e]` | ae
