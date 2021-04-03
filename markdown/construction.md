@@ -15,12 +15,9 @@
 | syllables | pattern
 | --------- | -------
 | four      | `[C/B/F][V][C/F][D][C/F][V]`
-|           |
 | three     | `[C/B/F][V][C/F][D]`
-|           |
 | two       | `[C/B/F][V][C/F][V]`
 | two       | `[C][D]`
 | two       | `[D]`
-|           |
 | one       | `[B/F][V]`
 | one       | `[CV]`
