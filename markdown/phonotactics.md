@@ -36,7 +36,7 @@ lupu pina leiso pluesu stioli pulu hinu slema niwa teina stusu
 
 ### parts of speech
 
-* these words will be used for everything else in the language, like particles, pronouns, or prepositions.
+these words are used for everything else in the language, like particles, pronouns, or prepositions.
 
 `[F][D]`
 ```
