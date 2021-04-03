@@ -10,6 +10,16 @@
 | V     | `a/e/i/o/u`
 | D     | `[VV]^aa^ee^ii^oo^uu`
 
+## syllable structure
+
+`(C)CV(V)`
+
+a syllable in plath can start with either one or two consonants. if two, the pair will be either a blend or a fricative. a syllable can end with either a single vowel or a diphthong.
+
+`V`
+
+because diphthongs in plath are always pronounced as separate letters, syllables are produced that are a single vowel. that is the only other syllable structure allowed. but because words in plath must start with a consonant and ent with a vowel, a single vowel cannot be a word. this syllable structure produces a more rhythmic language.
+
 ## word patterns
 
 ### nouns

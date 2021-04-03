@@ -1,5 +1,9 @@
 # phonology
 
+plath has 13 phonemes:
+
+/p/, /t/, /m/, /n/, /s/, /h/, /l/, /w/, /i/, /u/, /e/, /o/, /a/
+
 ## consonants
 
 this small set of consonants should be relatively easy for non-english speakers to pronounce. only the `l` could be slightly problematic.
