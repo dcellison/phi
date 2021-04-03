@@ -2,16 +2,16 @@
 
 ## general
 
-| plath  | ipa         | english
-| -----  | ---         | -------
-| tephia | `[te̞.ɸi.a]` | liquid
-| sashia | `[sa.ʃi.a]` | water
-| lache  | `[la.çe]`   | lake
-| melea  | `[me̞.le̞.a]` | friend
-| nosheo | `[no̞.ʃe.o̞]` | food
-| whusha | `[ʍu.ʃa]`   | wind
-| phosi  | `[ɸo̞.si]`   | tree
-| huwha  | `[hu.ʍa]`   | sky
+| plath   | ipa         | english
+| -----   | ---         | -------
+| liowha  | `[li.o̞.ʍa]` | liquid
+| sashia  | `[sa.ʃi.a]` | water
+| lewhi   | `[le̞.ʍi]`   | lake
+| methu   | `[me̞.θu]`   | friend
+| nosheo  | `[no̞.ʃe̞.o̞]` | food
+| whusha  | `[ʍu.ʃa]`   | wind
+| theupha | `[θe̞.u.ɸa]` | tree
+| huwha   | `[hu.ʍa]`   | sky
 
 ## colours
 
@@ -19,10 +19,10 @@
 | ----- | ---        | -------
 | lawha | `[la.ʍa]`  | red
 | sathe | `[sa.θe̞]`  | orange
-| preli | `[pre̞.li]` | yellow
+| philu | `[ɸi.lu]`  | yellow
 | hashe | `[ha.ʃe̞]`  | green
 | mipho | `[mi.ɸo̞]`  | blue
-| pecha | `[pe̞.ça]`  | indigo
+| pewhe | `[pe̞.ʍe̞]`  | indigo
 | nishu | `[ni.ʃu]`  | violet
 | sathi | `[sa.θi]`  | black
 | thasi | `[θ.asi]`  | white
@@ -31,13 +31,13 @@
 
 | plath | ipa  | english
 | ----- | ---  | -------
-| hiwi  | `[]` | zero
-| wheo  | `[]` | one
-| phau  | `[]` | two
-| thea  | `[]` | three
-| sheo  | `[]` | four
-| hone  | `[]` | five
-| latu  | `[]` | six
-| shei  | `[]` | seven
-| mepa  | `[]` | eight
-| wilo  | `[]` | nine
+| thoi  | `[θo̞.i]` | zero
+| wheo  | `[ʍe̞.o̞]` | one
+| phie  | `[ɸi.e̞]` | two
+| thea  | `[θe̞.a]` | three
+| sheo  | `[ʃe̞.o̞]` | four
+| whue  | `[ɸu.e̞]` | five
+| phao  | `[ɸa.o̞]` | six
+| shoi  | `[ʃo.i]` | seven
+| thua  | `[θu.a]` | eight
+| whio  | `[ɸi.o̞]` | nine

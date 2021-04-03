@@ -9,6 +9,6 @@
 | sho   | `[ʃo]`   | for
 | mae   | `[ma.e̞]` | with
 | pei   | `[pe̞.i]` | at
-| sta   | `[sta]`  | of
+| loa   | `[lo.a]` | of
 | neo   | `[ne̞o̞]`  | from
 | phu   | `[ɸu]`   | as

@@ -8,15 +8,15 @@
 | na | `[na]` | object
 | te | `[te̞]` | verb
 | lo | `[lo̞]` | plural
-| ne | `[ne̞]` | negate
+| ne | `[ne̞]` | negation
 
 ## tense
 
 | p  | ipa    | type                | example
 | -  | ---    | ----                | -------
-| li | `[ni]` | simple past         | did
+| li | `[li]` | simple past         | did
 | ta | `[ta]` | simple present      | do
 | se | `[se̞]` | simple future       | will do
 | wo | `[wo̞]` | simple future       | wants to do
 | lu | `[lu]` | present progressive | doing
-| ni | `[hi]` | present perfect     | has done
+| ni | `[ni]` | present perfect     | has done

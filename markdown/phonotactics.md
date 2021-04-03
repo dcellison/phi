@@ -34,9 +34,16 @@ examples:
 lupu pina leiso pluesu stioli pulu hinu slema niwa teina stusu
 ```
 
-### parts of speech
+### short words
 
-these words are used for everything else in the language, like particles, pronouns, or prepositions.
+these patterns produce words of one or two syllables. these words are used for everything else in the language, like particles, pronouns, or prepositions. they are also used for very common nouns, such as numbers and colours.
+
+`[C/F][V][C/F][V]`
+
+examples:
+```
+shopha whohu mithu hisha sothi tuso whunu mathu phine lophe thepi mewho phawha shashi thuwhi muli nopi nalo shisi huwha whethu wanu pohe thaphe phitho wholo hoshi theti hesha puta wehu whise phawho thuwo philo theli luhi theshe sashu shuho lowe phowhi sasha nuwhu shepha whawhu phimu phusho phithe thoshu tashi phewhu whasho whiho wihu neha mashu hewhu pheta shone soshe titho phawe sholu sotha shothe towhi hasha shime shimo waho thuti tashe hathi phepho phehi thotu whitha wena hihe newho wiwo newha sathi shawho thate pipa sopho miwho thawe sasho sisi thiwho hiwu poho phihi suli tili whuwhi
+```
 
 `[F][D]`
 ```
@@ -61,6 +68,10 @@ sae sai sao sau sea sei seo seu sia sie sio siu soa soe soi sou sua sue sui suo
 tae tai tao tau tea tei teo teu tia tie tio tiu toa toe toi tou tua tue tui tuo
 wae wai wao wau wea wei weo weu wia wie wio wiu woa woe woi wou wua wue wui wuo
 ```
+prepositions:
+`lao nea lia mae pei loa neo`
+pronouns:
+`mia`
 
 `[F][V]`
 ```
@@ -69,6 +80,10 @@ sha she shi sho shu
 tha the thi tho thu
 wha whe whi who whu
 ```
+prepositions:
+`thu sho sha phu`
+pronouns:
+`thi sha`
 
 `[C][V]`
 ```
@@ -81,3 +96,6 @@ sa se si so su
 ta te ti to tu
 wa we wi wo wu
 ```
+particles:
+`si na te lo ne`
+`li ta se wo lu ni`
