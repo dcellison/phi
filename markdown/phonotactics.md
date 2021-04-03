@@ -5,7 +5,7 @@
 | group | pattern
 | ----- | -------
 | C     | `h/l/m/n/p/s/t/w`
-| B     | `pl/tw/sp/st/sl/sw/`
+| B     | `pl/sp/st/sl/sw/`
 | F     | `ph/th/sh/wh`
 | V     | `a/e/i/o/u`
 | D     | `[VV]^aa^ee^ii^oo^uu`
@@ -14,33 +14,29 @@
 
 ### nouns
 
-* this pattern produces soft words of two to four syllables. it gives nouns a
-  more airy feel.
-* for words that extend an existing verb, half of this pattern can be combined
-  with the verb. so if we have a verb `tenu` it could be combined with a noun
-  segment: `shuotenu`. the first part retains the noun formatting.
+`[C/F][V/D][F][V/D]`
 
-`[F][V/D][F][V/D]`
+this pattern tends to produce soft words of two to four syllables. there are no consonant blends and can have two fricatives, giving nouns an airy feel.
+
 examples:
 ```
-thuwhio whowhe whoathi phushu thaphoi whiwhu phiathie whepheo thishui whusheo
+pushao theshu sheshoa sawhai mathe whithe shoawheu lipha
 ```
 
 ### verbs
 
-* this pattern produces words of two to three syllables. these words include
-  plosives and blends, reflecting that verbs are more utilitarian.
+`[C/B][V/D][C][V]`
 
-`[C/B/F][V/D][C/F][V]`
+this pattern produces words of two or three syllables. these words include consonant blends and have no fricatives, reflecting that verbs are more utilitarian in plath.
+
 examples:
 ```
-thishe tenu shiota shuso plewha pleosho phiule potha thunu phowhe plawhi suile
+lupu pina leiso pluesu stioli pulu hinu slema niwa teina stusu
 ```
 
 ### parts of speech
 
-* these words will be used for everything else in the language, like particles,
-  pronouns, or prepositions.
+* these words will be used for everything else in the language, like particles, pronouns, or prepositions.
 
 `[F][D]`
 ```
