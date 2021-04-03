@@ -42,7 +42,7 @@ these patterns produce words of one or two syllables. these words are used for e
 
 examples:
 ```
-shopha whohu mithu hisha sothi tuso whunu mathu phine lophe thepi mewho phawha shashi thuwhi muli nopi nalo shisi huwha whethu wanu pohe thaphe phitho wholo hoshi theti hesha puta wehu whise phawho thuwo philo theli luhi theshe sashu shuho lowe phowhi sasha nuwhu shepha whawhu phimu phusho phithe thoshu tashi phewhu whasho whiho wihu neha mashu hewhu pheta shone soshe titho phawe sholu sotha shothe towhi hasha shime shimo waho thuti tashe hathi phepho phehi thotu whitha wena hihe newho wiwo newha sathi shawho thate pipa sopho miwho thawe sasho sisi thiwho hiwu poho phihi suli tili whuwhi
+shopha whohu mithu hisha sothi tuso whunu mathu phine lophe thepi mewho
 ```
 
 `[F][D]`
