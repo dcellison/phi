@@ -4,6 +4,8 @@
 
 ### consonants
 
+this small set of consonants should be relatively easy for speakers of other languages to pronounce. only the `l` may give some people a problem.
+
 #### pulomic
 
 |            | bilabial | dental | alveolar | postalveolar |  glottal
@@ -22,8 +24,7 @@
 
 ### vowels
 
-standard spanish vowel pronunciation except for an open front [a].
-[ɒ] is acceptable as a personal preference.
+plath uses the standard spanish vowel pronunciation except for an open front [a], although [ɒ] is acceptable as a personal preference.
 
 |       | front | back
 | ----- | ----- | ----
@@ -42,7 +43,7 @@ standard spanish vowel pronunciation except for an open front [a].
 
 ## orthography
 
-### consonant
+### consonants
 
 | ipa   | latin
 | ---   | -----
@@ -59,7 +60,7 @@ standard spanish vowel pronunciation except for an open front [a].
 | `[ʍ]` | wh
 | `[w]` | w
 
-### vowel
+### vowels
 
 | ipa   | latin
 | ---   | -----
@@ -69,17 +70,3 @@ standard spanish vowel pronunciation except for an open front [a].
 | `[o̞]` | o
 | `[a]` | a
 | `[ɒ]` | a
-
-### diphthongs
-
-| ipa     | latin
-| ---     | -----
-| `[a.i]` | ai
-| `[a.o̞]` | ao
-| `[a.e]` | ae
-| `[e̞.a]` | ea
-| `[e̞.i]` | ei
-| `[e̞.o̞]` | eo
-| `[i.a]` | ia
-| `[i.e̞]` | ie
-| `[i.o̞]` | io
