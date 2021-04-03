@@ -16,7 +16,7 @@
 
 `[C/F][V/D][F][V/D]`
 
-this pattern tends to produce soft words of two to four syllables. there are no consonant blends and can have two fricatives, giving nouns an airy feel.
+this pattern tends to produce soft words of two to four syllables. there are no consonant blends and words can possibly have two fricatives, giving nouns an airy feel.
 
 examples:
 ```

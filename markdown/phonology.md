@@ -1,12 +1,10 @@
 # phonology
 
-## sound inventory
+## consonants
 
-### consonants
+this small set of consonants should be relatively easy for non-english speakers to pronounce. only the `l` could be slightly problematic.
 
-this small set of consonants should be relatively easy for speakers of other languages to pronounce. only the `l` may give some people a problem.
-
-#### pulomic
+### pulomic
 
 |            | bilabial | dental | alveolar | postalveolar |  glottal
 | ---------- | -------  | ------ | -------- | ------------ | -------
@@ -15,14 +13,14 @@ this small set of consonants should be relatively easy for speakers of other lan
 | fricative  | ɸ        | θ      | s        | ʃ            | h
 | lat approx |          |        | l        |              |
 
-#### co-articulated
+### co-articulated
 
 |             | labial-velar
 | ----------- | ------------
 | fricative   | ʍ
 | approximant | w
 
-### vowels
+## vowels
 
 plath uses the standard spanish vowel pronunciation except for an open front [a], although [ɒ] is acceptable as a personal preference.
 
@@ -32,7 +30,7 @@ plath uses the standard spanish vowel pronunciation except for an open front [a]
 | mid   | e̞     | o̞
 | open  | a     | ɒ
 
-### consonant blends
+## consonant blends
 
 |    | -p | -t | -h | -l | -w
 | -- | -- | -- | -- | -- | --
