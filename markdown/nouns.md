@@ -29,15 +29,15 @@
 
 ## numbers
 
-| plath | ipa       | english
-| ----- | ---       | -------
-| slia  | `[sli.a]` | zero
-| wheo  | `[ʍe̞.o̞]`  | one
-| tai   | `[ta.i]`  | two
-| thea  | `[θe̞.a]`  | three
-| lao   | `[la.o̞]`  | four     ****
-| phie  | `[ɸi.e̞]`  | five
-| hio   | `[hi.o̞]`  | six
-| shei  | `[ʃe̞.i]`  | seven
-| mea   | `[me̞.a]`  | eight
-| nio   | `[ni.o̞]`  | nine
+| plath | ipa  | english
+| ----- | ---  | -------
+| hiwi  | `[]` | zero
+| wheo  | `[]` | one
+| phau  | `[]` | two
+| thea  | `[]` | three
+| sheo  | `[]` | four
+| hone  | `[]` | five
+| latu  | `[]` | six
+| shei  | `[]` | seven
+| mepa  | `[]` | eight
+| wilo  | `[]` | nine

@@ -1,13 +1,13 @@
 ## two-syllable three-letter words
 ```
-hae hai hao hea hei heo hia hie hio
-lae lai lao lea lei leo lia lie lio
-mae mai mao mea mei meo mia mie mio
-nae nai nao nea nei neo nia nie nio
-pae pai pao pea pei peo pia pie pio
-sae sai sao sea sei seo sia sie sio
-tae tai tao tea tei teo tia tie tio
-wae wai wao wea wei weo wia wie wio
+hae hai hao hau hea hei heo heu hia hie hio hiu hoa hoe hoi hou hua hue hui huo
+lae lai lao lau lea lei leo leu lia lie lio liu loa loe loi lou lua lue lui luo
+mae mai mao mau mea mei meo meu mia mie mio miu moa moe moi mou mua mue mui muo
+nae nai nao nau nea nei neo neu nia nie nio niu noa noe noi nou nua nue nui nuo
+pae pai pao pau pea pei peo peu pia pie pio piu poa poe poi pou pua pue pui puo
+sae sai sao sau sea sei seo seu sia sie sio siu soa soe soi sou sua sue sui suo
+tae tai tao tau tea tei teo teu tia tie tio tiu toa toe toi tou tua tue tui tuo
+wae wai wao wau wea wei weo weu wia wie wio wiu woa woe woi wou wua wue wui wuo
 ```
 
 used:

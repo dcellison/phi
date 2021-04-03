@@ -4,11 +4,11 @@
 
 | group | pattern
 | ----- | -------
-| C     | `h/l*2/m/n/p/s/t*2/w`
-| F     | `ph*3/th*3/sh*2/ch/wh*3`
+| C     | `h/l/m/n/p/s/t/w`
+| F     | `ph/th/sh/ch/wh`
 | B     | `pl/tw/sp/st/sl/sw/`
-| V     | `a*3/e*3/i*3/o/u`
-| D     | `[VV]^aa^ee^ii^oo^uu^au^eu^iu^oa^oe^oi^ou^ua^ue^ui^uo`
+| V     | `a/e/i/o/u`
+| D     | `[VV]^aa^ee^ii^oo^uu`
 
 ## word patterns
 

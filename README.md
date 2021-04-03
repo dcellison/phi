@@ -1,6 +1,6 @@
 # plath
 
->dedicated to the poet sylvia plath; the sound of her name is beautiful
+>this language is dedicated to the poet sylvia plath; the sound of her name is beautiful
 
 ## language name
 
