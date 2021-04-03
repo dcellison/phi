@@ -1,7 +1,7 @@
 #awkwords version 1.2
 C:h/l/m/n/p/s/t/w
-F:ph/th/sh/ch/wh
 B:pl/tw/sp/st/sl/sw/
+F:ph/th/sh/wh
 V:a/e/i/o/u
 D:[VV]^aa^ee^ii^oo^uu
 r:
