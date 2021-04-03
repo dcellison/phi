@@ -1,0 +1,75 @@
+# verbs
+
+* in plath, verbs do not conjugate
+* tense particles are added instead
+
+* there are four types of verbs
+  * intransitive
+  * transitive
+  * linking
+  * passive
+* intransitive and transitive are in the active voice
+* passive verbs are in the passive voice
+
+## intransitive
+
+* express action
+* do not take an object
+  * i ran
+
+## transitive
+
+* express action
+* terminates in, or is received by, an object
+  * i threw the ball
+
+## linking
+
+* verbs of the senses
+  * feel, look, smell, or taste 
+
+## passive verbs
+
+* allow the subject to receive the action rather than do it
+* they are all some form of "be"
+  * the ball was thrown by me <- "was"
+
+| plath | ipa | english
+| ----- | --- | -------
+| phi   | []  | is
+| pha   | []  | am
+| phe   | []  | are
+| pho   | []  | was
+| phu   | []  | were
+| sha   | []  | be
+| she   | []  | being
+| shi   | []  | been
+
+## miscellaneous
+
+| plath  | ipa        | english
+| -----  | ---        | -------
+|        | []         | go
+|        | []         | do
+|        | []         | eat
+|        | []         | give
+|        | []         | take
+|        | []         | sleep
+|        | []         | tell
+|        | []         | sit
+| lothea | [lo.ˈθe̞.a] | love
+| lephe  | [ˈle.ɸe̞]   | like
+|        | []         | add
+|        | []         | ask
+|        | []         | carry
+|        | []         | drop
+|        | []         | contain
+|        | []         | move
+|        | []         | push
+|        | []         | pull
+|        | []         | step
+|        | []         | walk
+|        | []         | run
+|        | []         | wait
+|        | []         | use
+|        | []         | talk
