@@ -7,8 +7,17 @@
 | si | `[si]` | subject
 | na | `[na]` | object
 | te | `[te̞]` | verb
+
+
 | lo | `[lo̞]` | plural
-| ne | `[ne̞]` | not
+| hu | `[hu]` | question
+| me | `[ne̞]` | not
+
+t m n s l h
+p h w
+
+
+question particle appears at front of sentence
 
 ## tense
 
@@ -20,3 +29,6 @@
 | wo | `[wo̞]` | simple future       | wants to do
 | lu | `[lu]` | present progressive | doing
 | ni | `[wi]` | present perfect     | has done
+
+maybe no perfect tense
+south africa and southeast asia use already or finish

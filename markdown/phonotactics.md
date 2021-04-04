@@ -4,7 +4,7 @@
 
 | group | pattern
 | ----- | -------
-| C     | `h/l/m/n/p/s/t/w`
+| C     | `h/l/m/n/p/r/s/t/w`
 | B     | `pl/sp/st/sl/sw/`
 | F     | `ph/th/sh/wh`
 | V     | `a/e/i/o/u`
@@ -30,7 +30,7 @@ this pattern tends to produce soft words of two to four syllables. there are no 
 
 examples:
 ```
-pushao theshu sheshoa sawhai mathe whithe shoawheu lipha
+nouphu tawho whiphi paethe ruetha phowho riowhio luishe waiwhai
 ```
 
 ### verbs
@@ -41,7 +41,7 @@ this pattern produces words of two or three syllables. these words include conso
 
 examples:
 ```
-lupu pina leiso pluesu stioli pulu hinu slema niwa teina stusu
+weipi spiepu plasa spana moaro suowe ploho spaure pliru spuote riatu
 ```
 
 ### short words
@@ -52,7 +52,7 @@ these patterns produce words of one or two syllables. these words are used for e
 
 examples:
 ```
-shopha whohu mithu hisha sothi tuso whunu mathu phine lophe thepi mewho
+thele theshi lushe phati taphe rila whori whunu pewhe thira shopha rutho
 ```
 
 `[F][D]`
@@ -69,17 +69,27 @@ whio whiu whoa whoe whoi whou whua whue whui whuo
 
 `[C][D]`
 ```
-hae hai hao hau hea hei heo heu hia hie hio hiu hoa hoe hoi hou hua hue hui huo
-lae lai lao lau lea lei leo leu lia lie lio liu loa loe loi lou lua lue lui luo
-mae mai mao mau mea mei meo meu mia mie mio miu moa moe moi mou mua mue mui muo
-nae nai nao nau nea nei neo neu nia nie nio niu noa noe noi nou nua nue nui nuo
-pae pai pao pau pea pei peo peu pia pie pio piu poa poe poi pou pua pue pui puo
-sae sai sao sau sea sei seo seu sia sie sio siu soa soe soi sou sua sue sui suo
-tae tai tao tau tea tei teo teu tia tie tio tiu toa toe toi tou tua tue tui tuo
-wae wai wao wau wea wei weo weu wia wie wio wiu woa woe woi wou wua wue wui wuo
+hae hai hao hau hea hei heo heu hia hie
+hio hiu hoa hoe hoi hou hua hue hui huo
+lae lai lao lau lea lei leo leu lia lie
+lio liu loa loe loi lou lua lue lui luo
+mae mai mao mau mea mei meo meu mia mie
+mio miu moa moe moi mou mua mue mui muo
+nae nai nao nau nea nei neo neu nia nie
+nio niu noa noe noi nou nua nue nui nuo
+pae pai pao pau pea pei peo peu pia pie
+pio piu poa poe poi pou pua pue pui puo
+rae rai rao rau rea rei reo reu ria rie
+rio riu roa roe roi rou rua rue rui ruo
+sae sai sao sau sea sei seo seu sia sie
+sio siu soa soe soi sou sua sue sui suo
+tae tai tao tau tea tei teo teu tia tie
+tio tiu toa toe toi tou tua tue tui tuo
+wae wai wao wau wea wei weo weu wia wie
+wio wiu woa woe woi wou wua wue wui wuo
 ```
 prepositions:
-`lao nea lia mae pei loa neo`
+`hoi nea lia mae soa nio`
 pronouns:
 `mia`
 
@@ -103,6 +113,7 @@ ma me mi mo mu
 na ne ni no nu
 pa pe pi po pu
 sa se si so su
+ra re ri ro ru
 ta te ti to tu
 wa we wi wo wu
 ```

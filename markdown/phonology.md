@@ -1,20 +1,23 @@
 # phonology
 
-plath has 13 phonemes:
+plath has 14 phonemes; 9 consonants and 5 vowels:
 
-/p/, /t/, /m/, /n/, /s/, /h/, /l/, /w/, /i/, /u/, /e/, /o/, /a/
+`/p/`, `/t/`, `/m/`, `/n/`, `/s/`, `/h/`, `/r/`, `/l/`, `/w/`
+`/i/`, `/u/`, `/e/`, `/o/`, `/a/`
 
 ## consonants
 
-this small set of consonants should be relatively easy for non-english speakers to pronounce. only the `l` could be slightly problematic.
-
 ### pulomic
+
+plath has two variations of `/r/`. it is trilled `[r]` at the start of a word and tapped `[ɾ]` elsewhere.
 
 |            | bilabial | dental | alveolar | postalveolar | glottal
 | ---------- | -------  | ------ | -------- | ------------ | -------
 | plosive    | p        |        | t        |              |
 | nasal      | m        |        | n        |              |
 | fricative  | ɸ        | θ      | s        | ʃ            | h
+| tap/flap   |          |        | ɾ        |              |
+| trill      |          |        | r        |              |
 | lat approx |          |        | l        |              |
 
 ### co-articulated
@@ -26,7 +29,7 @@ this small set of consonants should be relatively easy for non-english speakers 
 
 ## vowels
 
-plath uses the standard spanish vowel pronunciation except for an open front [a], although [ɒ] is acceptable as a personal preference.
+plath uses spanish vowel pronunciation except for an open front `[a]`. an open back `[ɒ]` is acceptable as a personal preference.
 
 |       | front | back
 | ----- | ----- | ----
@@ -45,7 +48,7 @@ plath uses the standard spanish vowel pronunciation except for an open front [a]
 
 ## orthography
 
-### consonants
+### consonant sounds
 
 | ipa   | latin
 | ---   | -----
@@ -53,14 +56,17 @@ plath uses the standard spanish vowel pronunciation except for an open front [a]
 | `[t]` | t
 | `[m]` | m
 | `[n]` | n
+| `[s]` | s
+| `[h]` | h
+| `[ɾ]` | r
+| `[r]` | r
+| `[l]` | l
+| `[w]` | w
+|       |
 | `[ɸ]` | ph
 | `[θ]` | th
-| `[s]` | s
 | `[ʃ]` | sh
-| `[h]` | h
-| `[l]` | l
 | `[ʍ]` | wh
-| `[w]` | w
 
 ### vowels
 

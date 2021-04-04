@@ -21,7 +21,7 @@
 |       | `[]`  | as
 |       | `[]`  | because
 |       | `[]`  | before
-|       | `[]`  | how
+| haso  | `[]`  | how
 |       | `[]`  | if
 |       | `[]`  | once
 |       | `[]`  | since
