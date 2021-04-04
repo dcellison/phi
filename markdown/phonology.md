@@ -10,7 +10,7 @@ this small set of consonants should be relatively easy for non-english speakers 
 
 ### pulomic
 
-|            | bilabial | dental | alveolar | postalveolar |  glottal
+|            | bilabial | dental | alveolar | postalveolar | glottal
 | ---------- | -------  | ------ | -------- | ------------ | -------
 | plosive    | p        |        | t        |              |
 | nasal      | m        |        | n        |              |

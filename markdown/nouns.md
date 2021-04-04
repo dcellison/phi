@@ -10,7 +10,7 @@
 | methu   | `[me̞.θu]`   | friend
 | nosheo  | `[no̞.ʃe̞.o̞]` | food
 | whusha  | `[ʍu.ʃa]`   | wind
-| theupha | `[θe̞.u.ɸa]` | tree
+| lipha   | `[li.ɸa]`   | tree
 | huwha   | `[hu.ʍa]`   | sky
 
 ## colours

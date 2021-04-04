@@ -17,9 +17,12 @@
   * adverbs are "-ly" words
 * adjectives follow nouns
   * flower blue
+* numbers follow the object counted
 * relative clauses come before nouns?
 * only object pronouns
   * me, you, it
+  * possessive pronouns use "of me"
+    * nepali uses this system
 * verbs are two or three syllables
 * nouns are three or four syllables
 * no consecutive duplicate vowels
