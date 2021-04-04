@@ -14,4 +14,4 @@
 | language | name   | ipa
 | -------- | ----   | ---
 | english  | daniel | `[dæn.jəl]`
-| plath    | thanie | `[θan.i.e]`
+| plath    | thanie | `[θa.ni.e]`
