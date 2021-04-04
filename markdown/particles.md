@@ -13,12 +13,6 @@
 | hu | `[hu]` | question
 | me | `[ne̞]` | not
 
-t m n s l h
-p h w
-
-
-question particle appears at front of sentence
-
 ## tense
 
 | p  | ipa    | type                | example
@@ -31,4 +25,4 @@ question particle appears at front of sentence
 | ni | `[wi]` | present perfect     | has done
 
 maybe no perfect tense
-south africa and southeast asia use already or finish
+south africa and southeast asia use "already" or "finish"

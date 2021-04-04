@@ -60,8 +60,8 @@
 | ----    | --------
 | english | the food is ours
 | sov     | food ours is
-| encoded | (subject) food (object) of us (verb) is
-| plath   | (si noshea) (soa lo mia) (te phi)
+| encoded | (subject) food of (object/plural) us (verb) is
+| plath   | (si noshea) soa (lo mia) (te phi)
 
 
 | type    | sentence
