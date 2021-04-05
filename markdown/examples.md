@@ -46,19 +46,19 @@
 | ---- | --------
 | eng  | i liked my friend
 | lit  | (subject) me (object) friend of me (verb/past) like
-| phi  | (si mia) (na methu soa mia) (te li lephe)
+| phi  | (si mia) (na methu so mia) (te li lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | the food is ours
 | lit  | (subject) food (object/plural) of us (verb) is
-| phi  | (si noshea) (na soa lo mia) (te phi)
+| phi  | (si noshea) (na so lo mia) (te phi)
 
 | type | sentence
 | ---- | --------
 | eng  | our food is good
 | lit  | (subject/plural) food of us (object) good (verb) is
-| phi  | (si noshea soa lo mia) (na shishau) (te phi)
+| phi  | (si noshea so lo mia) (na shishau) (te phi)
 
 | type | sentence
 | ---- | --------
