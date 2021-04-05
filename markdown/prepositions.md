@@ -9,6 +9,6 @@
 | who | `[ʍo̞]`   | for
 | mae | `[ma.e̞]` | with
 | whi | `[ʍi]`   | at
-| soa | `[so̞.a]` | of
+| so  | `[so̞]`   | of
 | nio | `[nio̞]`  | from
 | phu | `[ɸu]`   | as
