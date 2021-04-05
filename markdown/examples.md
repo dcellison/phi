@@ -51,8 +51,8 @@
 | type | sentence
 | ---- | --------
 | eng  | the food is ours
-| lit  | (subject) food of (object/plural) us (verb) is
-| phi  | (si noshea) soa (na lo mia) (te phi)
+| lit  | (subject) food (object/plural) of us (verb) is
+| phi  | (si noshea) (na soa lo mia) (te phi)
 
 | type | sentence
 | ---- | --------
