@@ -1,9 +1,9 @@
 #awkwords version 1.2
 C:h/l/m/n/p/r/s/t/w
-B:pl/sp/st/sl/sw/
+B:sp/st/sl/sw/
 F:ph/th/sh/wh
 V:a/e/i/o/u
 D:[VV]^aa^ee^ii^oo^uu
 r:
-n:100
+n:0
 filterdup

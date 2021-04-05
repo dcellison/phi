@@ -1,8 +1,9 @@
 # rules
 
-* plath focuses on soft sounds
+* phi focuses on soft sounds
   * like wind or water
   * emphasis on unvoiced sounds
+  * "whushea" is phi for "wind"
 * written in lower case
 * all words
   * start with consonant
@@ -51,15 +52,15 @@
 * `/t/` is french [t]
   * voiceless plosive
   * pronounced with tongue against upper teeth
-  * not further back, as in english
-* plath makes heavy use of voiceless digraphs
+  * not further back, as in eng
+* phi makes heavy use of voiceless digraphs
   * [ɸ] a standard `/ph/` sound
     * voiceless bilabial fricative
   * [ʃ] a standard `/sh/` sound
     *voiceless postalveolar fricative
   * [θ] a standard unvoiced `/th/` sound
     * voiceless dental fricative
-    * voiced `/th/` [ð] never occurs in plath
+    * voiced `/th/` [ð] never occurs in phi
   * [ʍ] a standard /hw/` sound
     * voiceless labialized velar approximant
 

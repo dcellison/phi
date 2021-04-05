@@ -5,7 +5,7 @@
 | group | pattern
 | ----- | -------
 | C     | `h/l/m/n/p/r/s/t/w`
-| B     | `pl/sp/st/sl/sw/`
+| B     | `sp/st/sl/sw/`
 | F     | `ph/th/sh/wh`
 | V     | `a/e/i/o/u`
 | D     | `[VV]^aa^ee^ii^oo^uu`
@@ -14,11 +14,9 @@
 
 `(C)CV(V)`
 
-a syllable in plath can start with either one or two consonants. if two, the pair will be either a blend or a fricative. a syllable can end with either a single vowel or a diphthong.
+a syllable in phi can start with either one or two consonants. if two, the pair will be either a blend or a fricative. a syllable can end with either a single vowel or a diphthong.
 
-`V`
-
-because diphthongs in plath are always pronounced as separate letters, syllables are produced that are a single vowel. that is the only other syllable structure allowed. but because words in plath must start with a consonant and ent with a vowel, a single vowel cannot be a word. this syllable structure produces a more rhythmic language.
+because diphthongs in phi are always pronounced as separate letters, pseudo-syllables are produced consisting of a single vowel. but because words in phi must start with a consonant and end with a vowel, a single vowel can never be a word. this syllable structure produces a more rhythmic language.
 
 ## word patterns
 
@@ -37,11 +35,11 @@ nouphu tawho whiphi paethe ruetha phowho riowhio luishe waiwhai
 
 `[C/B][V/D][C][V]`
 
-this pattern produces words of two or three syllables. these words include consonant blends and have no fricatives, reflecting that verbs are more utilitarian in plath.
+this pattern produces words of two or three syllables. these words include consonant blends and have no fricatives, reflecting that verbs are more utilitarian in phi.
 
 examples:
 ```
-weipi spiepu plasa spana moaro suowe ploho spaure pliru spuote riatu
+mipa nora tumu wuesu stuahe pearu stene ripu swiapu nuipu hauni
 ```
 
 ### short words

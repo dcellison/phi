@@ -1,15 +1,8 @@
 # phonology
 
-plath has 14 phonemes; 9 consonants and 5 vowels:
-
-`/p/`, `/t/`, `/m/`, `/n/`, `/s/`, `/h/`, `/r/`, `/l/`, `/w/`
-`/i/`, `/u/`, `/e/`, `/o/`, `/a/`
-
 ## consonants
 
 ### pulomic
-
-plath has two variations of `/r/`. it is trilled `[r]` at the start of a word and tapped `[ɾ]` elsewhere.
 
 |            | bilabial | dental | alveolar | postalveolar | glottal
 | ---------- | -------  | ------ | -------- | ------------ | -------
@@ -29,19 +22,17 @@ plath has two variations of `/r/`. it is trilled `[r]` at the start of a word an
 
 ## vowels
 
-plath uses spanish vowel pronunciation except for an open front `[a]`. an open back `[ɒ]` is acceptable as a personal preference.
-
 |       | front | back
 | ----- | ----- | ----
 | close | i     | u
 | mid   | e̞     | o̞
-| open  | a     | ɒ
+| open  |       | ɒ
 
 ## consonant blends
 
 |    | -p | -t | -h | -l | -w
 | -- | -- | -- | -- | -- | --
-| p- |    |    | ph | pl |
+| p- |    |    | ph |    |
 | t- |    |    | th |    |
 | s- | sp | st | sh | sl | sw
 | w- |    |    | wh |    |
@@ -76,5 +67,4 @@ plath uses spanish vowel pronunciation except for an open front `[a]`. an open b
 | `[u]` | u
 | `[e̞]` | e
 | `[o̞]` | o
-| `[a]` | a
 | `[ɒ]` | a

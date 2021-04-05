@@ -2,31 +2,31 @@
 
 ## interrogatives
 
-| plath | ipa   | english
-| ----- | ---   | -------
-|       | `[]`  | whose
-|       | `[]`  | which
-|       | `[]`  | what
-|       | `[]`  | who
+| phi | ipa   | eng
+| --- | ---   | -------
+|     | `[]`  | whose
+|     | `[]`  | which
+|     | `[]`  | what
+|     | `[]`  | who
 
 ## demonstratives
 
-| plath | ipa   | english
-| ----- | ---   | -------
-|       | `[]`  | this
-|       | `[]`  | that
-|       | `[]`  | these
-|       | `[]`  | those
+| phi | ipa   | eng
+| --- | ---   | -------
+|     | `[]`  | this
+|     | `[]`  | that
+|     | `[]`  | these
+|     | `[]`  | those
 
 ## quantifiers
 
-| plath | ipa   | english
-| ----- | ---   | -------
-|       | `[]`  | all
-|       | `[]`  | few
-|       | `[]`  | many
-|       | `[]`  | some
-|       | `[]`  | any
-|       | `[]`  | more
-|       | `[]`  | each
-|       | `[]`  | every
+| phi | ipa   | eng
+| --- | ---   | -------
+|     | `[]`  | all
+|     | `[]`  | few
+|     | `[]`  | many
+|     | `[]`  | some
+|     | `[]`  | any
+|     | `[]`  | more
+|     | `[]`  | each
+|     | `[]`  | every

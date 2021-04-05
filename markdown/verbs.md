@@ -1,6 +1,6 @@
 # verbs
 
-* in plath, verbs do not conjugate
+* in phi, verbs do not conjugate
 * tense particles are added instead
 
 * there are four types of verbs
@@ -34,21 +34,21 @@
 * they are all some form of "be"
   * the ball was thrown by me <- "was"
 
-| plath | ipa   | english
-| ----- | ---   | -------
-| phi   | `[]`  | is
-| pha   | `[]`  | am
-| phe   | `[]`  | are
-| pho   | `[]`  | was
-| phu   | `[]`  | were
-| sha   | `[]`  | be
-| she   | `[]`  | being
-| shi   | `[]`  | been
+| phi | ipa   | eng
+| --- | ---   | ---
+| phi | `[]`  | is
+| pha | `[]`  | am
+| phe | `[]`  | are
+| pho | `[]`  | was
+| phu | `[]`  | were
+| sha | `[]`  | be
+| she | `[]`  | being
+| shi | `[]`  | been
 
 ## miscellaneous
 
-| plath  | ipa          | english
-| -----  | ---          | -------
+| phi    | ipa          | eng
+| ---    | ---          | -------
 |        | `[]`         | go
 |        | `[]`         | do
 |        | `[]`         | eat

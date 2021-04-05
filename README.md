@@ -1,17 +1,15 @@
-# plath
-
->this language is dedicated to the poet sylvia plath; the sound of her name, like her work, is beautiful.
+# φ
 
 ## language name
 
-| language | name   | ipa
-| -------- | ----   | ---
-| english  | plath  | `[plaθ]`
-| plath    | plathe | `[pla.θe]`
+|     | name | ipa
+| --- | ---- | ---
+| eng | phi  | `[ɸaɪ]`
+| phi | phai | `[ɸa.i]`
 
 ## author name
 
-| language | name   | ipa
-| -------- | ----   | ---
-| english  | daniel | `[dæn.jəl]`
-| plath    | thanie | `[θa.ni.e]`
+|     | name   | ipa
+| --- | ----   | ---
+| eng | daniel | `[dæn.jəl]`
+| phi | thanie | `[θa.ni.e]`

@@ -2,36 +2,36 @@
 
 ## coordinating
 
-| plath | ipa   | english
-| ----- | ---   | -------
-|       | `[]`  | for
-|       | `[]`  | and
-|       | `[]`  | nor
-|       | `[]`  | but
-|       | `[]`  | or
-|       | `[]`  | yet
-|       | `[]`  | so
+| phi | ipa   | eng
+| --- | ---   | ---
+|     | `[]`  | for
+|     | `[]`  | and
+|     | `[]`  | nor
+|     | `[]`  | but
+|     | `[]`  | or
+|     | `[]`  | yet
+|     | `[]`  | so
 
 ## subordinating
 
-| plath | ipa   | english
-| ----- | ---   | -------
-|       | `[]`  | after
-|       | `[]`  | although
-|       | `[]`  | as
-|       | `[]`  | because
-|       | `[]`  | before
-| haso  | `[]`  | how
-|       | `[]`  | if
-|       | `[]`  | once
-|       | `[]`  | since
-|       | `[]`  | than
-|       | `[]`  | that
-|       | `[]`  | when
-|       | `[]`  | where
-|       | `[]`  | whether
-|       | `[]`  | while
-|       | `[]`  | until
+| phi  | ipa   | eng
+| ---- | ---   | ---
+|      | `[]`  | after
+|      | `[]`  | although
+|      | `[]`  | as
+|      | `[]`  | because
+|      | `[]`  | before
+| haso | `[]`  | how
+|      | `[]`  | if
+|      | `[]`  | once
+|      | `[]`  | since
+|      | `[]`  | than
+|      | `[]`  | that
+|      | `[]`  | when
+|      | `[]`  | where
+|      | `[]`  | whether
+|      | `[]`  | while
+|      | `[]`  | until
 
 ## correlative
 
@@ -45,8 +45,8 @@
 
 * from [Torn Tongue: Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 
-| english           | torn tongue
-| -------           | -----------
+| eng               | torn tongue
+| ---               | -----------
 | both/and          | dath/tath
 | either/or         | del/tel
 | neither/nor       | nini/niin
@@ -55,8 +55,8 @@
 
 * usage
 
-| english                        | torn tongue
-| -------                        | -----------
+| eng                            | torn tongue
+| ---                            | -----------
 | both basin and basket          | dath boilr tath telt
 | either bag or bucket           | del ralb tel levolk
 | neither ball nor bar           | nini rolk niin melb
