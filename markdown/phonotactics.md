@@ -44,7 +44,7 @@ mipa nora tumu wuesu stuahe pearu stene ripu swiapu nuipu hauni
 
 ### short words
 
-these patterns produce words of one or two syllables. these words are used for everything else in the language, like particles, pronouns, or prepositions. they are also used for very common nouns, such as numbers and colours.
+these patterns produce words of two syllables.  they are also used for very common nouns, such as numbers and colours.
 
 `[C/F][V][C/F][V]`
 
@@ -52,6 +52,10 @@ examples:
 ```
 thele theshi lushe phati taphe rila whori whunu pewhe thira shopha rutho
 ```
+
+### utility words
+
+these words are used for everything else in the language, like particles, pronouns, prepositions, etc.
 
 `[F][D]`
 ```
