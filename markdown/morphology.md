@@ -1,4 +1,6 @@
-# rules
+# morphology
+
+(eventually)
 
 * phi focuses on soft sounds
   * like wind or water
