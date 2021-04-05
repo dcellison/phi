@@ -22,5 +22,5 @@
 | lu  | `[lu]` | present progressive | doing
 | ni  | `[wi]` | present perfect     | has done
 
-maybe no perfect tense
-south africa and southeast asia use "already" or "finish"
+* maybe no perfect tense
+* south africa and southeast asia use "already" or "finish"
