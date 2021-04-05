@@ -56,6 +56,12 @@
 
 | type | sentence
 | ---- | --------
+| eng  | our food is good
+| lit  | (subject/plural) food of us (object) good (verb) is
+| phi  | (si noshea soa lo mia) shishau (te phi)
+
+| type | sentence
+| ---- | --------
 | eng  | you are in good health?
 | lit  | (question (subject) you (object) health good (verb/happening) are)
 | phi  | (hu (si thi) (ropho shishau) (te lu phe))
