@@ -58,7 +58,7 @@
 | ---- | --------
 | eng  | our food is good
 | lit  | (subject/plural) food of us (object) good (verb) is
-| phi  | (si noshea soa lo mia) shishau (te phi)
+| phi  | (si noshea soa lo mia) (na shishau) (te phi)
 
 | type | sentence
 | ---- | --------
