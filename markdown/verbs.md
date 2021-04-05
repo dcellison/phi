@@ -36,14 +36,14 @@
 
 | phi | ipa   | eng
 | --- | ---   | ---
-| phi | `[]`  | is
-| pha | `[]`  | am
-| phe | `[]`  | are
-| pho | `[]`  | was
-| phu | `[]`  | were
-| sha | `[]`  | be
-| she | `[]`  | being
-| shi | `[]`  | been
+|     | `[]`  | is
+|     | `[]`  | am
+|     | `[]`  | are
+|     | `[]`  | was
+|     | `[]`  | were
+|     | `[]`  | be
+|     | `[]`  | being
+|     | `[]`  | been
 
 ## miscellaneous
 

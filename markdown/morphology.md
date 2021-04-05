@@ -41,16 +41,13 @@
 * no diacritics
 * no shwas
   * e.g. mel spidermn
-* all vowels except `/a/` are spanish pronunciation
-  * `/a/` is pronounced as an open front unrounded vowel [a]
-  * optionally use the open back unrounded vowel [ɑ]
-    * would function as a slight accent
 * phonemic diphthongs, e.g. `/ae/`, are pronounced as separate letters
   * they can be run together when speaking quickly
   * but they remain distinct sounds
   * maori does this
 * `/r/` is trilled `[r]` at the start of a word
   * tap `[ɾ]` anywhere else
+  * `[r]` is an allophone of /r/ that occurs at the beginning of a word
 * `/t/` is french [t]
   * voiceless plosive
   * pronounced with tongue against upper teeth
