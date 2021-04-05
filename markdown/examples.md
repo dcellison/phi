@@ -22,7 +22,7 @@
 | ---- | --------
 | eng  | the sky is blue
 | lit  | (subject) sky (object) blue (verb) is
-| phi  | (si huhwa) (na mipho) (te phi)
+| phi  | (si huwha) (na mipho) (te phi)
 
 | type | sentence
 | ---- | --------
