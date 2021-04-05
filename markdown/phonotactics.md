@@ -4,19 +4,21 @@
 
 | group | pattern
 | ----- | -------
-| C     | `h/l/m/n/p/r/s/t/w`
+| C     | `p/t/m/n/s/h/r/l/w`
 | B     | `sp/st/sl/sw/`
 | F     | `ph/th/sh/wh`
-| V     | `a/e/i/o/u`
-| D     | `[VV]^aa^ee^ii^oo^uu`
+| V     | `i/u/e/o/a`
+| D     | `[VV]^ii^uu^ee^oo^aa`
 
-## syllable structure
+## syllable structures
 
 `(C)CV(V)`
 
-a syllable in phi can start with either one or two consonants. if two, the pair will be either a blend or a fricative. a syllable can end with either a single vowel or a diphthong.
+a syllable in phi can start with one or two consonants. if two, the pair will be either a blend or a fricative digraph. a syllable can end with either a monophthong or a diphthong.
 
-because diphthongs in phi are always pronounced as separate letters, pseudo-syllables are produced consisting of a single vowel. but because words in phi must start with a consonant and end with a vowel, a single vowel can never be a word. this syllable structure produces a more rhythmic language.
+`(V)`
+
+because there are no digraphs in phi, syllables are sometimes produced consisting of a single vowel. but because words in phi must start with a consonant and end with a vowel, a monophthong can never be a word. this syllable structure produces a more rhythmic-sounding language.
 
 ## word patterns
 
