@@ -52,7 +52,7 @@
 | ---- | --------
 | eng  | the food is ours
 | lit  | (subject) food of (object/plural) us (verb) is
-| phi  | (si noshea) soa (lo mia) (te phi)
+| phi  | (si noshea) soa (na lo mia) (te phi)
 
 | type | sentence
 | ---- | --------
