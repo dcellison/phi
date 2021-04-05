@@ -13,7 +13,7 @@
 | lipha   | `[li.ɸa]`   | tree
 | huwha   | `[hu.ʍa]`   | sky
 | ropho   | `[ro̞.ɸo̞]`   | health
-| shishau | `[ʃi.ʃa.o̞]` | good
+| shishau | `[ʃi.ʃa.u]` | good
 
 ## colours
 
@@ -27,7 +27,7 @@
 | pewhe | `[pe̞.ʍe̞]`  | indigo
 | nishu | `[ni.ʃu]`  | violet
 | sathi | `[sa.θi]`  | black
-| thasi | `[θ.asi]`  | white
+| thasi | `[θa.si]`  | white
 
 ## numbers
 
