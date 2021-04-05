@@ -3,7 +3,7 @@
 | type | sentence
 | ---- | --------
 | eng  | we love the orange trees
-| sov  | orange trees we love
+| sov  | we orange trees love
 | lit  | (plural) me (object/plural) tree orange (verb) love
 | phi  | (lo mia) (na lo lipha sathe) (te lothea)
 
