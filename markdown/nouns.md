@@ -2,16 +2,18 @@
 
 ## general
 
-| phi    | ipa         | eng
-| ---    | ---         | -------
-| liowha | `[li.o̞.ʍa]` | liquid
-| sashia | `[sa.ʃi.a]` | water
-| lewhi  | `[le̞.ʍi]`   | lake
-| methu  | `[me̞.θu]`   | friend
-| nosheo | `[no̞.ʃe̞.o̞]` | food
-| whusha | `[ʍu.ʃa]`   | wind
-| lipha  | `[li.ɸa]`   | tree
-| huwha  | `[hu.ʍa]`   | sky
+| phi     | ipa         | eng
+| ---     | ---         | -------
+| liowha  | `[li.o̞.ʍa]` | liquid
+| sashia  | `[sa.ʃi.a]` | water
+| lewhi   | `[le̞.ʍi]`   | lake
+| methu   | `[me̞.θu]`   | friend
+| nosheo  | `[no̞.ʃe̞.o̞]` | food
+| whusha  | `[ʍu.ʃa]`   | wind
+| lipha   | `[li.ɸa]`   | tree
+| huwha   | `[hu.ʍa]`   | sky
+| ropho   | `[ro̞.ɸo̞]`   | health
+| shishau | `[ʃi.ʃa.o̞]` | good
 
 ## colours
 

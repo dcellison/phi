@@ -4,19 +4,19 @@
 | ---- | --------
 | eng  | we love the orange trees
 | lit  | (subject/plural) me (object/plural) tree orange (verb) love
-| phi  | (lo mia) (na lo lipha sathe) (te lothea)
+| phi  | (si lo mia) (na lo lipha sathe) (te lothea)
 
 | type | sentence
 | ---- | --------
 | eng  | i love you
 | lit  | (subject) me (object) you (verb) love
-| phi  | mia thi (te lothea)
+| phi  | (si mia) (na thi) (te lothea)
 
 | type | sentence
 | ---- | --------
 | eng  | i love you (plural)
 | lit  | (subject) me (object/plural) you (verb) love
-| phi  | mia (lo thi) (te lothea)
+| phi  | (si mia) (na lo thi) (te lothea)
 
 | type | sentence
 | ---- | --------
@@ -28,25 +28,25 @@
 | ---- | --------
 | eng  | they like food
 | lit  | (subject/plural) it (object) food (verb) like
-| phi  | (lo sha) (na nosheo) (te lephe)
+| phi  | (si lo sha) (na nosheo) (te lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | i like it
 | lit  | (subject) me (object) it (verb) like
-| phi  | mia sha (te lephe)
+| phi  | (si mia) (na sha) (te lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | i do not like green
 | lit  | (subject) me (object) green (verb/not) like
-| phi  | mia (na hashe) (te me lephe)
+| phi  | (si mia) (na hashe) (te me lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | i liked my friend
 | lit  | (subject) me (object) friend of me (verb/past) like
-| phi  | mia (si methu loa mia) (te li lephe)
+| phi  | (si mia) (na methu soa mia) (te li lephe)
 
 | type | sentence
 | ---- | --------
@@ -54,9 +54,8 @@
 | lit  | (subject) food of (object/plural) us (verb) is
 | phi  | (si noshea) soa (lo mia) (te phi)
 
-
 | type | sentence
 | ---- | --------
-| eng  | how are you?
-| lit  | (question) how you (verb/happening) are
-| phi  | hu haso thi (te lu phe)
+| eng  | you are in good health?
+| lit  | (question (subject) you (object) health good (verb/happening) are)
+| phi  | (hu (si thi) (ropho shishau) (te lu phe))
