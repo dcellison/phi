@@ -2,23 +2,15 @@
 
 ## consonants
 
-### pulomic
-
-|            | bilabial | dental | alveolar | postalveolar | glottal
-| ---------- | -------  | ------ | -------- | ------------ | -------
-| plosive    | p        |        | t        |              |
-| nasal      | m        |        | n        |              |
-| fricative  | ɸ        | θ      | s        | ʃ            | h
-| tap/flap   |          |        | ɾ        |              |
-| trill      |          |        | r        |              |
-| lat approx |          |        | l        |              |
-
-### co-articulated
-
-|             | labial-velar
-| ----------- | ------------
-| fricative   | ʍ
-| approximant | w
+|             | labial | dental | alveolar | postalveolar | velar | glottal
+| ----------- | ------ | ------ | -------- | ------------ | ----- | -------
+| plosive     | p      |        | t        |              |       |
+| nasal       | m      |        | n        |              |       |
+| fricative   | ɸ ʍ    | θ      | s        | ʃ            | ʍ     | h
+| tap/flap    |        |        | ɾ        |              |       |
+| trill       |        |        | r        |              |       |
+| approximate | w      |        |          |              | w     |
+| lat approx  |        |        | l        |              |       |
 
 ## vowels
 
@@ -59,7 +51,7 @@
 | `[ʃ]` | sh
 | `[ʍ]` | wh
 
-### vowels
+### vowel sounds
 
 | ipa   | latin
 | ---   | -----
