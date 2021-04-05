@@ -1,6 +1,8 @@
 # φ
 
-phi is the golden ratio, an irrational number with a value of approximately 1.618033988 which expresses the relationship that the sum of two quantities is to the larger quantity as the larger is to the smaller. it is beauty in nature and mathematics. the name also embodies the soft nature of the language.
+>the golden ratio, an irrational number with a value of approximately 1.618033988 which expresses the relationship that the sum of two quantities is to the larger quantity as the larger is to the smaller. - [wiktionary](https://en.wiktionary.org/wiki/%CF%86)
+
+phi is beauty in nature and mathematics. the name also embodies the soft nature of the language.
 
 ## language name
 
