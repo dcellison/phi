@@ -1,6 +1,6 @@
 ## prepositions
 
-| phi | ipa      | eng
+| phi | phoneme  | english
 | --- | ---      | ---
 | hoi | `/ho.i/` | on
 | nea | `/ne.a/` | in
