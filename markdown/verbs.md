@@ -36,40 +36,40 @@
 
 | phi | ipa   | eng
 | --- | ---   | ---
-| phi | `[]`  | is
-|     | `[]`  | am
-| phe | `[]`  | are
-|     | `[]`  | was
-|     | `[]`  | were
-|     | `[]`  | be
-|     | `[]`  | being
-|     | `[]`  | been
+| phi | `//`  | is
+|     | `//`  | am
+| phe | `//`  | are
+|     | `//`  | was
+|     | `//`  | were
+|     | `//`  | be
+|     | `//`  | being
+|     | `//`  | been
 
 ## miscellaneous
 
 | phi    | ipa          | eng
 | ---    | ---          | -------
-|        | `[]`         | go
-|        | `[]`         | do
-|        | `[]`         | eat
-|        | `[]`         | give
-|        | `[]`         | take
-|        | `[]`         | sleep
-|        | `[]`         | tell
-|        | `[]`         | sit
-| lothea | `[lo.ˈθe̞.a]` | love
-| lephe  | `[ˈle.ɸe̞]`   | like
-|        | `[]`         | add
-|        | `[]`         | ask
-|        | `[]`         | carry
-|        | `[]`         | drop
-|        | `[]`         | contain
-|        | `[]`         | move
-|        | `[]`         | push
-|        | `[]`         | pull
-|        | `[]`         | step
-|        | `[]`         | walk
-|        | `[]`         | run
-|        | `[]`         | wait
-|        | `[]`         | use
-|        | `[]`         | talk
+|        | `//`         | go
+|        | `//`         | do
+|        | `//`         | eat
+|        | `//`         | give
+|        | `//`         | take
+|        | `//`         | sleep
+|        | `//`         | tell
+|        | `//`         | sit
+| lothea | `/lo.ˈθe.a/` | love
+| lephe  | `/ˈle.ɸe/`   | like
+|        | `//`         | add
+|        | `//`         | ask
+|        | `//`         | carry
+|        | `//`         | drop
+|        | `//`         | contain
+|        | `//`         | move
+|        | `//`         | push
+|        | `//`         | pull
+|        | `//`         | step
+|        | `//`         | walk
+|        | `//`         | run
+|        | `//`         | wait
+|        | `//`         | use
+|        | `//`         | talk

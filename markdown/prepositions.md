@@ -2,13 +2,13 @@
 
 | phi | ipa      | eng
 | --- | ---      | ---
-| hoi | `[ho̞.i]` | on
-| nea | `[ne̞.a]` | in
-| thu | `[θu]`   | to
-| lia | `[li.a]` | by
-| who | `[ʍo̞]`   | for
-| mae | `[ma.e̞]` | with
-| whi | `[ʍi]`   | at
-| so  | `[so̞]`   | of
-| nio | `[nio̞]`  | from
-| phu | `[ɸu]`   | as
+| hoi | `/ho.i/` | on
+| nea | `/ne.a/` | in
+| thu | `/θu/`   | to
+| lia | `/li.a/` | by
+| who | `/ʍo/`   | for
+| mae | `/ma.e/` | with
+| whi | `/ʍi/`   | at
+| so  | `/so/`   | of
+| nio | `/nio/`  | from
+| phu | `/ɸu/`   | as

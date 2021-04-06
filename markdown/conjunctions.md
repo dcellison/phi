@@ -4,34 +4,34 @@
 
 | phi | ipa   | eng
 | --- | ---   | ---
-|     | `[]`  | for
-|     | `[]`  | and
-|     | `[]`  | nor
-|     | `[]`  | but
-|     | `[]`  | or
-|     | `[]`  | yet
-|     | `[]`  | so
+|     | `//`  | for
+|     | `//`  | and
+|     | `//`  | nor
+|     | `//`  | but
+|     | `//`  | or
+|     | `//`  | yet
+|     | `//`  | so
 
 ## subordinating
 
 | phi  | ipa   | eng
 | ---- | ---   | ---
-|      | `[]`  | after
-|      | `[]`  | although
-|      | `[]`  | as
-|      | `[]`  | because
-|      | `[]`  | before
-| haso | `[]`  | how
-|      | `[]`  | if
-|      | `[]`  | once
-|      | `[]`  | since
-|      | `[]`  | than
-|      | `[]`  | that
-|      | `[]`  | when
-|      | `[]`  | where
-|      | `[]`  | whether
-|      | `[]`  | while
-|      | `[]`  | until
+|      | `//`  | after
+|      | `//`  | although
+|      | `//`  | as
+|      | `//`  | because
+|      | `//`  | before
+| haso | `//`  | how
+|      | `//`  | if
+|      | `//`  | once
+|      | `//`  | since
+|      | `//`  | than
+|      | `//`  | that
+|      | `//`  | when
+|      | `//`  | where
+|      | `//`  | whether
+|      | `//`  | while
+|      | `//`  | until
 
 ## correlative
 
@@ -43,7 +43,7 @@
   * not only/but also
   * whether/or
 
-* from [Torn Tongue: Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
+* from /Torn Tongue: Correlative Conjunctions/(https://conlangs.livejournal.com/503435.html)
 
 | eng               | torn tongue
 | ---               | -----------
