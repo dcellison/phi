@@ -14,8 +14,8 @@
 
 ## vowels
 
-|       | front | back
-| ----- | ----- | ----
-| close | i     | u
-| mid   | e̞     | o̞
-| open  |       | ɑ
+|       | front | central | back
+| ----- | ----- | ------- | ----
+| close | i     |         | u
+| mid   | e̞     |         | o̞
+| open  |       | ä       |
