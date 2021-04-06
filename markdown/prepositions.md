@@ -12,3 +12,4 @@
 | so  | `/so/`   | of
 | nio | `/nio/`  | from
 | phu | `/ɸu/`   | as
+| hea | `/he.a/` | about
