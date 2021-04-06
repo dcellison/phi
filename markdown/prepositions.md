@@ -14,7 +14,6 @@
 | phu | `/ɸu/`   | as
 | hea | `/he.a/` | about
 
-about
 above
 across
 after
@@ -22,8 +21,6 @@ against
 along
 among
 around
-as
-at
 before
 behind
 below
@@ -31,29 +28,21 @@ beneath
 beside
 between
 but
-by
 down
 during
 except
-for
-from
-in
 into
 like
 near
-of
 off
-on
 out
 over
 past
 than
 through
-to
 toward
 under
 until
 up
 upon
-with
 without

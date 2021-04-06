@@ -13,6 +13,7 @@
 | nishu | `/ni.ʃu/`  | violet
 | sathi | `/sa.θi/`  | black
 | thasi | `/θa.si/`  | white
+|       | `//`       | grey
 
 | phi | ipa      | eng
 | --- | ---      | ---

@@ -4,9 +4,9 @@
 
 | phi     | ipa         | eng
 | ---     | ---         | -------
-| liowha  | `/li.o.ʍa/` | liquid
+| liowha  | `/li.o.ʍa/` | liquid *
 | sashia  | `/sa.ʃi.a/` | water
-| lewhi   | `/le.ʍi/`   | lake
+| lewhi   | `/le.ʍi/`   | lake *
 | methu   | `/me.θu/`   | friend
 | nosheo  | `/no.ʃe.o/` | food
 | whusha  | `/ʍu.ʃa/`   | wind
