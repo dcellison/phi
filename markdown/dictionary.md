@@ -9,11 +9,11 @@ te - verb
 lo - plural
 hu - question
 me - not
-'''
+```
 
 ## tense
 
-'''
+```
 li - simple past - did
 ta - simple present - do
 se - simple future - will do
