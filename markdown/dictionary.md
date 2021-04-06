@@ -7,12 +7,12 @@ lo - plural
 hu - question
 me - not
 
-| li - simple past - did
-| ta - simple present - do
-| se - simple future - will do
-| wo - simple future - wants to do
-| lu - present progressive - doing
-| ni - present perfect - has done
+li - simple past - did
+ta - simple present - do
+se - simple future - will do
+wo - simple future - wants to do
+lu - present progressive - doing
+ni - present perfect - has done
 
 # words
 
