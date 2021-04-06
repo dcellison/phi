@@ -1,5 +1,5 @@
 # particles
-
+```
 si - subject
 na - object
 te - verb
@@ -13,9 +13,9 @@ se - simple future - will do
 wo - simple future - wants to do
 lu - present progressive - doing
 ni - present perfect - has done
-
+```
 # words
-
+```
 a - n/a - indefinite article
 about - hea
 above
@@ -1032,3 +1032,4 @@ yours
 zero - thoi
 zoo
 zoom
+```
