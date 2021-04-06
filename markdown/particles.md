@@ -15,12 +15,12 @@
 
 | phi | ipa    | type                | example
 | --- | ---    | ----                | -------
-| li  | `[ti]` | simple past         | did
-| ta  | `[pa]` | simple present      | do
+| li  | `[li]` | simple past         | did
+| ta  | `[ta]` | simple present      | do
 | se  | `[se̞]` | simple future       | will do
 | wo  | `[wo̞]` | simple future       | wants to do
 | lu  | `[lu]` | present progressive | doing
-| ni  | `[wi]` | present perfect     | has done
+| ni  | `[ni]` | present perfect     | has done
 
 * maybe no perfect tense
 * south africa and southeast asia use "already" or "finish"

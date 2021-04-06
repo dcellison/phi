@@ -93,7 +93,7 @@ wae wai wao wau wea wei weo weu wia wie
 wio wiu woa woe woi wou wua wue wui wuo
 ```
 prepositions:
-`hoi nea lia mae soa nio`
+`hoi nea lia mae nio`
 pronouns:
 `mia`
 
@@ -105,7 +105,7 @@ tha the thi tho thu
 wha whe whi who whu
 ```
 prepositions:
-`thu sho sha phu`
+`thu phu who whi`
 pronouns:
 `thi sha`
 
@@ -121,6 +121,8 @@ ra re ri ro ru
 ta te ti to tu
 wa we wi wo wu
 ```
+prepositions:
+`so`
 particles:
 `si na te lo ne`
 `li ta se wo lu ni`
