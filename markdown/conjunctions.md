@@ -14,24 +14,24 @@
 
 ## subordinating
 
-| phi  | ipa   | eng
-| ---- | ---   | ---
-|      | `//`  | after
-|      | `//`  | although
-|      | `//`  | as
-|      | `//`  | because
-|      | `//`  | before
-| haso | `//`  | how
-|      | `//`  | if
-|      | `//`  | once
-|      | `//`  | since
-|      | `//`  | than
-|      | `//`  | that
-|      | `//`  | when
-|      | `//`  | where
-|      | `//`  | whether
-|      | `//`  | while
-|      | `//`  | until
+| phi  | ipa       | eng
+| ---- | ---       | ---
+|      | `//`      | after
+|      | `//`      | although
+|      | `//`      | as
+|      | `//`      | because
+|      | `//`      | before
+| haso | `/ha.so/` | how
+|      | `//`      | if
+|      | `//`      | once
+|      | `//`      | since
+|      | `//`      | than
+|      | `//`      | that
+|      | `//`      | when
+|      | `//`      | where
+|      | `//`      | whether
+|      | `//`      | while
+|      | `//`      | until
 
 ## correlative
 

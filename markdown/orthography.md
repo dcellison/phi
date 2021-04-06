@@ -2,51 +2,46 @@
 
 ### consonants
 
-| ipa   | latin
-| ---   | -----
-| `[p]` | p
-| `[t]` | t
-| `[m]` | m
-| `[n]` | n
-| `[s]` | s
-| `[h]` | h
-| `[ɾ]` | r
-| `[r]` | r
-| `[l]` | l
-| `[w]` | w
-
-### consonant digraphs
-
-| ipa   | latin
-| ---   | -----
-| `[ɸ]` | ph
-| `[θ]` | th
-| `[ʃ]` | sh
-| `[ʍ]` | wh
-
-### consonant blends
-
-| ipa   | latin
-| ---   | -----
-| `[ɸ]` | sp
-| `[θ]` | st
-| `[ʃ]` | sl
-| `[ʍ]` | sw
+| phoneme | grapheme | description
+| ------- | -------- | -----------
+| `[p]`   | p        | voiceless bilabial plosive
+| `[t]`   | t        | voiceless alveolar plosive
+| `[m]`   | m        | voiced bilabial nasal
+| `[n]`   | n        | voiced alveolar nasal
+| `[ɾ]`   | r        | voiced alveolar tap
+| `[r]`   | r        | voiced alveolar trill
+| `[ɸ]`   | ph       | voiceless bilabial fricative
+| `[θ]`   | th       | voiceless dental fricative
+| `[s]`   | s        | voiceless alveolar fricative
+| `[ʃ]`   | sh       | voiceless postalveolar fricative
+| `[h]`   | h        | voiceless glottal fricative
+| `[l]`   | l        | voiced alveolar lateral approximant
+| `[ʍ]`   | wh       | voiceless labialized velar approximant
+| `[w]`   | w        | voiced labialized velar approximant
 
 ### vowels
 
-| ipa   | latin
-| ---   | -----
-| `[i]` | i
-| `[u]` | u
-| `[e̞]` | e
-| `[o̞]` | o
-| `[ɒ]` | a
+| phoneme | grapheme | description
+| ------- | -------- | -----------
+| `[i]`   | i        | close front unrounded
+| `[u]`   | u        | close back rounded
+| `[e̞]`   | e        | mid front unrounded
+| `[o̞]`   | o        | mid back rounded
+| `[ɑ]`   | a        | open back unrounded
+
+### consonant blends
+
+| phoneme | grapheme
+| ------- | --------
+| `[sp]`  | sp
+| `[st]`  | st
+| `[sl]`  | sl
+| `[sw]`  | sw
 
 ### vowel diphthongs
 
-| ipa     | latin
-| ---     | -----
+| phoneme | grapheme
+| ------- | --------
 | `[i.u]` | iu
 | `[i.e̞]` | ie
 | `[i.o̞]` | io
