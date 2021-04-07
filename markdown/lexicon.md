@@ -28,7 +28,7 @@
 |              | ago           | adj adv                | 
 |              | agree         | verb                   | 
 |              | air           | noun verb              | 
-|              | all           | adj pro noun           | 
+|              | all           | adj prn noun           | 
 |              | alone         | adj adv                | 
 |              | along         | prep adv               | 
 |              | already       | adv                    | 
@@ -38,11 +38,11 @@
 | 🛇           | an            | article                | 
 |              | and           | conj noun              | 
 |              | angry         | adj                    | 
-|              | another       | adj pro                | 
+|              | another       | adj prn                | 
 |              | answer        | noun verb              | 
-|              | any           | adj pro adv            | 
-|              | anyone        | pro                    | 
-|              | anything      | pro noun adv           | 
+|              | any           | adj prn adv            | 
+|              | anyone        | prn                    | 
+|              | anything      | prn noun adv           | 
 |              | anytime       | adv                    | 
 |              | appear        | verb                   | 
 |              | apple         | noun                   | 
@@ -53,7 +53,7 @@
 |              | around        | adv prep               | 
 |              | arrive        | verb                   | 
 |              | art           | noun                   | 
-| phu          | as            | adv conj pro           | 
+| phu          | as            | adv conj prn           | 
 |              | ask           | verb noun              | 
 | whi          | at            | prep                   | 
 |              | attack        | verb noun              | 
@@ -76,7 +76,6 @@
 |              | beer          | noun                   | 
 |              | bed           | noun verb              | 
 |              | bedroom       | noun adj               | 
-|              | beer          | noun                   | 
 |              | behave        | verb                   | 
 |              | before        | prep adv conj          | 
 |              | begin         | verb                   | 
@@ -108,7 +107,7 @@
 |              | border        | noun verb              | 
 |              | born          | adj verb               | 
 |              | borrow        | verb                   | 
-|              | both          | adj pro conj           | 
+|              | both          | adj prn conj           | 
 |              | bottle        | noun verb              | 
 |              | bottom        | noun verb              | 
 |              | bowl          | noun verb              | 
@@ -150,7 +149,7 @@
 |              | catch         | verb noun              | 
 |              | central       | adj                    | 
 |              | century       | noun                   | 
-|              | certain       | adj pro                | 
+|              | certain       | adj prn                | 
 |              | chair         | noun verb              | 
 |              | chance        | noun verb              | 
 |              | change        | verb noun              | 
@@ -159,6 +158,7 @@
 |              | cheese        | noun verb              | 
 |              | chicken       | noun adj               | 
 |              | child         | noun                   | 
+|              | children      | noun                   | 
 |              | chocolate     | noun adj               | 
 |              | choice        | noun adj               | 
 |              | choose        | verb                   | 
@@ -247,7 +247,7 @@
 |              | duck          | noun verb              | 
 |              | dust          | noun verb              | 
 |              | duty          | noun                   | 
-|              | each          | adj pro adv            | 
+|              | each          | adj prn adv            | 
 |              | ear           | noun                   | 
 |              | early         | adv adj                | 
 |              | earn          | verb                   | 
@@ -259,7 +259,7 @@
 |              | effect        | noun verb              | 
 |              | egg           | noun                   | 
 | thuo         | eight         | noun adj               | 
-|              | either        | adj pro conj           | 
+|              | either        | adj prn conj           | 
 |              | electric      | adj noun               | 
 |              | elephant      | noun                   | 
 |              | else          | adj adv                | 
@@ -267,7 +267,7 @@
 |              | end           | noun verb              | 
 |              | enemy         | noun adj               | 
 |              | enjoy         | verb                   | 
-|              | enough        | adj pro adv            | 
+|              | enough        | adj prn adv            | 
 |              | enter         | verb                   | 
 |              | equal         | adj verb               | 
 |              | entrance      | noun                   | 
@@ -277,9 +277,9 @@
 |              | event         | noun                   | 
 |              | ever          | adv adj                | 
 |              | every         | adj                    | 
-|              | everyone      | pro                    | 
+|              | everyone      | prn                    | 
 |              | exact         | adj verb               | 
-|              | everybody     | pro                    | 
+|              | everybody     | prn                    | 
 |              | examination   | noun                   | 
 |              | example       | noun                   | 
 |              | except        | prep conj              | 
@@ -308,7 +308,7 @@
 |              | feel          | verb noun              | 
 |              | female        | noun adj               | 
 |              | fever         | noun verb              | 
-|              | few           | adj noun pro           | 
+|              | few           | adj noun prn           | 
 |              | fight         | noun verb              | 
 |              | fill          | verb noun              | 
 |              | film          | noun verb              | 
@@ -318,7 +318,7 @@
 |              | finish        | verb noun              | 
 |              | fire          | noun verb              | 
 |              | first         | adj adv noun           | 
-|              | fish          | noun verb              | 
+|              | fish*         | noun verb              | 
 |              | fit           | adj verb               | 
 | whue         | five          | noun adj               | 
 |              | fix           | verb noun              | 
@@ -374,6 +374,7 @@
 |              | god           | noun                   | 
 |              | gold          | noun adj               | 
 | shishau      | good          | adj noun               | 
+|              | goodbye       | int                    | 
 |              | grandfather   | noun                   | 
 |              | grandmother   | noun                   | 
 |              | grass         | noun verb              | 
@@ -396,7 +397,7 @@
 |              | hat           | noun                   | 
 |              | hate          | verb noun              | 
 |              | have          | verb                   | 
-|              | he            | pro                    | 
+|              | he            | prn                    | 
 |              | head          | noun adj verb          | 
 | ropho        | health        | noun                   | 
 |              | healthy       | adj                    | 
@@ -407,14 +408,14 @@
 |              | height        | noun                   | 
 |              | help          | verb noun              | 
 |              | hen           | noun                   | 
-|              | her           | pro                    | 
+|              | her           | prn                    | 
 |              | here          | adv noun               | 
-|              | hers          | pro                    | 
+|              | hers          | prn                    | 
 |              | hide          | verb                   | 
 |              | high          | adj adv                | 
 |              | hill          | noun                   | 
-|              | him           | pro                    | 
-|              | his           | pro                    | 
+|              | him           | prn                    | 
+|              | his           | prn                    | 
 |              | hit           | verb noun              | 
 |              | hobby         | noun                   | 
 |              | hold          | verb noun              | 
@@ -434,7 +435,7 @@
 |              | hurry         | verb noun              | 
 |              | husband       | noun                   | 
 |              | hurt          | verb noun              | 
-|              | i             | pro                    | 
+|              | i             | prn                    | 
 |              | ice           | noun verb              | 
 |              | idea          | noun                   | 
 |              | if            | conj                   | 
@@ -442,7 +443,7 @@
 | nea          | in            | prep adv               | 
 |              | increase      | verb noun              | 
 |              | inside        | prep adv noun          | 
-| pewhe        | indigo        | adj noun               | 
+| pewhe        | indigo*       | adj noun               | 
 |              | into          | prep                   | 
 |              | introduce     | verb                   | 
 |              | invent        | verb                   | 
@@ -450,8 +451,8 @@
 |              | invite        | verb                   | 
 | phi          | is            | verb                   | 
 |              | island        | noun                   | 
-| sha          | it            | pro                    | 
-|              | its           | pro                    | 
+| sha          | it            | prn                    | 
+|              | its           | prn                    | 
 |              | jelly         | noun                   | 
 |              | job           | noun verb              | 
 |              | join          | verb noun              | 
@@ -498,7 +499,7 @@
 | lephe        | like          | adj prep adv           | 
 |              | lion          | noun                   | 
 |              | lip           | noun adj               | 
-| liowha       | liquid        | noun adj               | 
+| liowha       | liquid*       | noun adj               | 
 |              | list          | adj noun               | 
 |              | listen        | verb                   | 
 |              | little        | adj adv noun           | 
@@ -518,14 +519,14 @@
 |              | make          | verb noun              | 
 |              | male          | noun adj               | 
 |              | man           | noun verb              | 
-|              | many          | adj noun pro           | 
+|              | many          | adj noun prn           | 
 |              | map           | noun verb              | 
 |              | mark          | noun verb              | 
 |              | market        | noun verb              | 
 |              | marry         | verb                   | 
 |              | matter        | noun verb              | 
 |              | may           | verb                   | 
-| mia          | me            | pro                    | 
+| mia          | me            | prn                    | 
 |              | meal          | noun                   | 
 |              | mean          | verb                   | 
 |              | measure       | noun verb              | 
@@ -540,7 +541,7 @@
 |              | mill          | noun verb              | 
 |              | million       | noun adj               | 
 |              | mind          | noun verb              | 
-|              | mine          | pro noun verb          | 
+|              | mine          | prn noun verb          | 
 |              | minute        | noun                   | 
 |              | miss          | verb noun              | 
 |              | mistake       | noun verb              | 
@@ -563,7 +564,7 @@
 |              | much          | adj noun adv           | 
 |              | music         | noun                   | 
 |              | must          | verb                   | 
-|              | my            | pro                    | 
+|              | my            | prn                    | 
 |              | name          |                        | 
 |              | narrow        |                        | 
 |              | nation        |                        | 
@@ -914,7 +915,7 @@
 |              | this          |                        | 
 |              | those         |                        | 
 |              | though        |                        | 
-|              | thousand      |                        | 
+|              | thousand*     |                        | 
 |              | threat        |                        | 
 | theu         | three         | number                 | 
 |              | tidy          |                        | 
@@ -937,16 +938,15 @@
 |              | tram          |                        | 
 |              | travel        |                        | 
 | lipha        | tree          |                        | 
-|              | trillion      |                        | 
+|              | trillion*     |                        | 
 |              | trouble       |                        | 
 |              | true          |                        | 
 |              | trust         |                        | 
 |              | twice         |                        | 
-| phie         | two           | number                 | 
+| phie         | two*          | number                 | 
 |              | try           |                        | 
 |              | turn          |                        | 
 |              | type          |                        | 
-|              | ugly          |                        | 
 |              | uncle         |                        | 
 |              | under         |                        | 
 |              | understand    |                        | 
@@ -960,7 +960,7 @@
 |              | vegetable     |                        | 
 |              | very          |                        | 
 |              | village       |                        | 
-| nishu        | violet        | adj noun               | 
+| nishu        | violet*       | adj noun               | 
 |              | voice         |                        | 
 |              | visit         |                        | 
 |              | wait          |                        | 
@@ -968,7 +968,7 @@
 |              | walk          |                        | 
 |              | want          |                        | 
 |              | warm          |                        | 
-|              | was           |                        | 
+|              | was*          |                        | 
 |              | wash          |                        | 
 |              | waste         |                        | 
 |              | watch         |                        | 
@@ -982,7 +982,7 @@
 |              | week          |                        | 
 |              | weight        |                        | 
 |              | welcome       |                        | 
-|              | were          |                        | 
+|              | were*         |                        | 
 |              | well          |                        | 
 |              | west          |                        | 
 |              | wet           |                        | 
@@ -1018,14 +1018,14 @@
 |              | worst         |                        | 
 |              | write         |                        | 
 |              | wrong         |                        | 
-|              | yard          |                        | 
+|              | yard*         |                        | 
 |              | year          |                        | 
-|              | yell          |                        | 
+|              | yell*         |                        | 
 | philu        | yellow        | adj noun               | 
 |              | yes           |                        | 
 |              | yesterday     |                        | 
 |              | yet           |                        | 
-| thi          | you           | pro                    | 
+| thi          | you           | prn                    | 
 |              | young         |                        | 
 |              | your          |                        | 
 |              | yours         |                        | 
