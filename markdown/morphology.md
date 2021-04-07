@@ -6,6 +6,12 @@
   * like wind or water
   * emphasis on unvoiced sounds
   * "whushea" is phi for "wind"
+* phi is an isolating language
+  * uses particles to modify and tag sentences
+* phi is also an analytic language
+  * sentence structure is rigorously specified
+  * sentence fragments can actually be mixed up
+    * sentence will still be understood
 * written in lower case
 * all words
   * start with consonant

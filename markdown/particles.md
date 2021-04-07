@@ -11,6 +11,10 @@
 | hu  | `/hu/` | question
 | me  | `/ne/` | not
 
+* try multiple plurals
+  * maybe for "several" or a few"
+* try particles for animals, human beings, for abstract nouns, etc. Many languages make a distinction based on animacy, between animate and inanimate objects (people and animals vs. plants and non-living objects, or the like)
+
 ## tense
 
 | phi | ipa    | type                | example

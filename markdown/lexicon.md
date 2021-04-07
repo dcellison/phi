@@ -1,24 +1,25 @@
 | phi          | english       | part of speech         | definition
 | ------------ | -------       | --------------         | ----------
-| si           | (n/a)         | art.                   | subject
-| na           | (n/a)         | art.                   | object
-| te           | (n/a)         | art.                   | verb
-| lo           | (n/a)         | art.                   | plural
-| hu           | (n/a)         | art.                   | question
-| me           | (n/a)         | art.                   | not
+| si           | (n/a)         | particle               | subject
+| na           | (n/a)         | particle               | object
+| te           | (n/a)         | particle               | verb
+| lo           | (n/a)         | particle               | plural
+| hu           | (n/a)         | particle               | question
+| me           | (n/a)         | particle               | not
 |              |               |                        | 
-| li           | (n/a)         | art.                   | simple past
-| ta           | (n/a)         | art.                   | simle present
-| se           | (n/a)         | art.                   | simple future
-| wo           | (n/a)         | art.                   | simple future
-| lu           | (n/a)         | art.                   | present progressive
-| ni           | (n/a)         | art.                   | present perfect
+| li           | (n/a)         | particle               | simple past
+| ta           | (n/a)         | particle               | simle present
+| se           | (n/a)         | particle               | simple future
+| wo           | (n/a)         | particle               | simple future
+| lu           | (n/a)         | particle               | present progressive
+| ni           | (n/a)         | particle               | present perfect
 |              |               |                        | 
-| (n/a)        | a             | art.                   | 
-| hea          | about         | prep.                  | 
+|              | a             | particle               | 
+| hea          | about         | preposition            | 
 |              | above         |                        | 
 |              | across        |                        | 
 |              | act           |                        | 
+|              | actor         |                        | 
 |              | active        |                        | 
 |              | activity      |                        | 
 |              | add           |                        | 
@@ -36,7 +37,7 @@
 |              | always        |                        | 
 |              | am            |                        | 
 |              | amount        |                        | 
-| (n/a)        | an            | art.                   | 
+|              | an            | particle               | 
 |              | and           |                        | 
 |              | angry         |                        | 
 |              | another       |                        | 
@@ -54,9 +55,9 @@
 |              | around        |                        | 
 |              | arrive        |                        | 
 |              | art           |                        | 
-| phu          | as            | prep.                  | 
+| phu          | as            | preposition            | 
 |              | ask           |                        | 
-| whi          | at            | prep.                  | 
+| whi          | at            | preposition            | 
 |              | attack        |                        | 
 |              | aunt          |                        | 
 |              | autumn        |                        | 
@@ -74,6 +75,7 @@
 |              | bean          |                        | 
 |              | bear          |                        | 
 |              | beautiful     |                        | 
+|              | beer          |                        | 
 |              | bed           |                        | 
 |              | bedroom       |                        | 
 |              | beer          |                        | 
@@ -93,12 +95,12 @@
 |              | birthday      |                        | 
 |              | bit           |                        | 
 |              | bite          |                        | 
-| sathi        | black         | adj. n.                | 
+| sathi        | black         | adjective noun         | 
 |              | bleed         |                        | 
 |              | block         |                        | 
 |              | blood         |                        | 
 |              | blow          |                        | 
-| mipho        | blue          | adj. n.                | 
+| mipho        | blue          | adjective noun         | 
 |              | board         |                        | 
 |              | boat          |                        | 
 |              | body          |                        | 
@@ -133,7 +135,7 @@
 |              | busy          |                        | 
 |              | but           |                        | 
 |              | buy           |                        | 
-| lia          | by            | prep.                  | 
+| lia          | by            | preposition            | 
 |              | cake          |                        | 
 |              | call          |                        | 
 |              | can           |                        | 
@@ -211,6 +213,7 @@
 |              | cupboard      |                        | 
 |              | cut           |                        | 
 |              | dance         |                        | 
+|              | danger        |                        | 
 |              | dangerous     |                        | 
 |              | dark          |                        | 
 |              | daughter      |                        | 
@@ -258,7 +261,7 @@
 |              | education     |                        | 
 |              | effect        |                        | 
 |              | egg           |                        | 
-| thuo         | eight         | num.                   | 
+| thuo         | eight         | number                 | 
 |              | either        |                        | 
 |              | electric      |                        | 
 |              | elephant      |                        | 
@@ -320,7 +323,7 @@
 |              | first         |                        | 
 |              | fish          |                        | 
 |              | fit           |                        | 
-| whue         | five          |  num.                  | 
+| whue         | five          |  number                | 
 |              | fix           |                        | 
 |              | flag          |                        | 
 |              | flat          |                        | 
@@ -330,11 +333,11 @@
 |              | flower        |                        | 
 |              | fly           |                        | 
 |              | fold          |                        | 
-| nosheo       | food          | n.                     | 
+| nosheo       | food          | noun                   | 
 |              | fool          |                        | 
 |              | foot          |                        | 
 |              | football      |                        | 
-| who          | for           | prep.                  | 
+| who          | for           | preposition            | 
 |              | force         |                        | 
 |              | foreign       |                        | 
 |              | forest        |                        | 
@@ -343,14 +346,14 @@
 |              | fork          |                        | 
 |              | form          |                        | 
 |              | fox           |                        | 
-| shea         | four          | num.                   | 
+| shea         | four          | number                 | 
 |              | free          |                        | 
 |              | freedom       |                        | 
 |              | freeze        |                        | 
 |              | fresh         |                        | 
-| methu        | friend        | n.                     | 
+| methu        | friend        | noun                   | 
 |              | friendly      |                        | 
-| nio          | from          | prep.                  | 
+| nio          | from          | preposition            | 
 |              | front         |                        | 
 |              | fruit         |                        | 
 |              | full          |                        | 
@@ -373,14 +376,14 @@
 |              | goat          |                        | 
 |              | god           |                        | 
 |              | gold          |                        | 
-| shishau      | good          | adj. n.                | 
+| shishau      | good          | adjective noun         | 
 |              | goodbye       |                        | 
 |              | grandfather   |                        | 
 |              | grandmother   |                        | 
 |              | grass         |                        | 
 |              | grave         |                        | 
 |              | great         |                        | 
-| hashe        | green         | adj. n.                | 
+| hashe        | green         | adjective noun         | 
 |              | gray          |                        | 
 |              | ground        |                        | 
 |              | group         |                        | 
@@ -399,7 +402,8 @@
 |              | have          |                        | 
 |              | he            |                        | 
 |              | head          |                        | 
-| ropho        | health        | n.                     | 
+| ropho        | health        | noun                   | 
+|              | healthy       |                        | 
 |              | hear          |                        | 
 |              | heavy         |                        | 
 |              | heart         |                        | 
@@ -428,7 +432,7 @@
 |              | hot           |                        | 
 |              | hotel         |                        | 
 |              | house         |                        | 
-| haso         | how           | conj.                  | 
+| haso         | how           | conjugation            | 
 |              | hundred       |                        | 
 |              | hungry        |                        | 
 |              | hour          |                        | 
@@ -440,7 +444,7 @@
 |              | idea          |                        | 
 |              | if            |                        | 
 |              | important     |                        | 
-| nea          | in            | prep.                  | 
+| nea          | in            | preposition            | 
 |              | increase      |                        | 
 |              | inside        |                        | 
 | pewhe        | indigo        |                        | 
@@ -451,7 +455,7 @@
 |              | invite        |                        | 
 | phi          | is            |                        | 
 |              | island        |                        | 
-| sha          | it            | pron.                  | 
+| sha          | it            | pronoun                | 
 |              | its           |                        | 
 |              | jelly         |                        | 
 |              | job           |                        | 
@@ -471,7 +475,7 @@
 |              | know          |                        | 
 |              | ladder        |                        | 
 |              | lady          |                        | 
-| lewhi        | lake          | n.                     | 
+| lewhi        | lake          | noun                   | 
 |              | lamp          |                        | 
 |              | land          |                        | 
 |              | large         |                        | 
@@ -496,10 +500,10 @@
 |              | lie           |                        | 
 |              | life          |                        | 
 |              | light         |                        | 
-| lephe        | like          | prep. v.               | 
+| lephe        | like          | preposition verb       | 
 |              | lion          |                        | 
 |              | lip           |                        | 
-| liowha       | liquid        | n. adj.                | 
+| liowha       | liquid        | noun adjective         | 
 |              | list          |                        | 
 |              | listen        |                        | 
 |              | little        |                        | 
@@ -510,7 +514,7 @@
 |              | look          |                        | 
 |              | lose          |                        | 
 |              | lot           |                        | 
-| lothea       | love          | v. n.                  | 
+| lothea       | love          | verb noun              | 
 |              | low           |                        | 
 |              | lower         |                        | 
 |              | luck          |                        | 
@@ -526,7 +530,7 @@
 |              | marry         |                        | 
 |              | matter        |                        | 
 |              | may           |                        | 
-| mia          | me            | pron.                  | 
+| mia          | me            | pronoun                | 
 |              | meal          |                        | 
 |              | mean          |                        | 
 |              | measure       |                        | 
@@ -538,8 +542,10 @@
 |              | method        |                        | 
 |              | middle        |                        | 
 |              | milk          |                        | 
+|              | mill          |                        | 
 |              | million       |                        | 
 |              | mind          |                        | 
+|              | mine          |                        | 
 |              | minute        |                        | 
 |              | miss          |                        | 
 |              | mistake       |                        | 
@@ -556,6 +562,7 @@
 |              | most          |                        | 
 |              | mother        |                        | 
 |              | mountain      |                        | 
+|              | mouse         |                        | 
 |              | mouth         |                        | 
 |              | move          |                        | 
 |              | much          |                        | 
@@ -581,7 +588,7 @@
 |              | next          |                        | 
 |              | nice          |                        | 
 |              | night         |                        | 
-| phoa         | nine          | num.                   | 
+| phoa         | nine          | number                 | 
 |              | no            |                        | 
 |              | noble         |                        | 
 |              | noise         |                        | 
@@ -597,20 +604,20 @@
 |              | obey          |                        | 
 |              | object        |                        | 
 |              | ocean         |                        | 
-| so           | of            | prep.                  | 
+| so           | of            | preposition            | 
 |              | off           |                        | 
 |              | offer         |                        | 
 |              | office        |                        | 
 |              | often         |                        | 
 |              | oil           |                        | 
 |              | old           |                        | 
-| hoi          | on            | prep.                  | 
-| wheo         | one           | num.                   | 
+| hoi          | on            | preposition            | 
+| wheo         | one           | number                 | 
 |              | only          |                        | 
 |              | open          |                        | 
 |              | opposite      |                        | 
 |              | or            |                        | 
-| sathe        | orange        | adj. n.                | 
+| sathe        | orange        | adjective noun         | 
 |              | order         |                        | 
 |              | other         |                        | 
 |              | our           |                        | 
@@ -650,6 +657,7 @@
 |              | piece         |                        | 
 |              | pig           |                        | 
 |              | pin           |                        | 
+|              | pill          |                        | 
 |              | pink          |                        | 
 |              | place         |                        | 
 |              | plane         |                        | 
@@ -711,7 +719,7 @@
 |              | really        |                        | 
 |              | receive       |                        | 
 |              | record        |                        | 
-| lawha        | red           | adj. n.                | 
+| lawha        | red           | adjective noun         | 
 |              | remember      |                        | 
 |              | remind        |                        | 
 |              | remove        |                        | 
@@ -761,7 +769,7 @@
 |              | send          |                        | 
 |              | sentence      |                        | 
 |              | serve         |                        | 
-| shae         | seven         | num.                   | 
+| shae         | seven         | number                 | 
 |              | several       |                        | 
 |              | sex           |                        | 
 |              | shade         |                        | 
@@ -799,12 +807,12 @@
 |              | sink          |                        | 
 |              | sister        |                        | 
 |              | sit           |                        | 
-| phau         | six           | num.                   | 
+| phau         | six           | number                 | 
 |              | size          |                        | 
 |              | skill         |                        | 
 |              | skin          |                        | 
 |              | skirt         |                        | 
-| huwha        | sky           | n.                     | 
+| huwha        | sky           | noun                   | 
 |              | sleep         |                        | 
 |              | slip          |                        | 
 |              | slow          |                        | 
@@ -896,8 +904,9 @@
 |              | test          |                        | 
 |              | than          |                        | 
 |              | that          |                        | 
-| (n/a)        | the           | art.                   | 
+|              | the           | particle               | 
 |              | their         |                        | 
+|              | theirs        |                        | 
 |              | then          |                        | 
 |              | there         |                        | 
 |              | therefore     |                        | 
@@ -908,13 +917,15 @@
 |              | think         |                        | 
 |              | third         |                        | 
 |              | this          |                        | 
+|              | those         |                        | 
 |              | though        |                        | 
+|              | thousand      |                        | 
 |              | threat        |                        | 
-| theu         | three         | num.                   | 
+| theu         | three         | number                 | 
 |              | tidy          |                        | 
 |              | tie           |                        | 
 |              | title         |                        | 
-| thu          | to            | prep.                  | 
+| thu          | to            | preposition            | 
 |              | today         |                        | 
 |              | toe           |                        | 
 |              | together      |                        | 
@@ -931,11 +942,12 @@
 |              | tram          |                        | 
 |              | travel        |                        | 
 | lipha        | tree          |n.                      | 
+|              | trillion      |                        | 
 |              | trouble       |                        | 
 |              | true          |                        | 
 |              | trust         |                        | 
 |              | twice         |                        | 
-| phie         | two           | num.                   | 
+| phie         | two           | number                 | 
 |              | try           |                        | 
 |              | turn          |                        | 
 |              | type          |                        | 
@@ -953,7 +965,7 @@
 |              | vegetable     |                        | 
 |              | very          |                        | 
 |              | village       |                        | 
-| nishu        | violet        | adj. n.                | 
+| nishu        | violet        | adjective noun         | 
 |              | voice         |                        | 
 |              | visit         |                        | 
 |              | wait          |                        | 
@@ -965,7 +977,7 @@
 |              | wash          |                        | 
 |              | waste         |                        | 
 |              | watch         |                        | 
-| sashia       | water         | n. v.                  | 
+| sashia       | water         | noun verb              | 
 |              | way           |                        | 
 |              | we            |                        | 
 |              | weak          |                        | 
@@ -985,7 +997,7 @@
 |              | where         |                        | 
 |              | which         |                        | 
 |              | while         |                        | 
-| thasi        | white         | adj. n.                | 
+| thasi        | white         | adjective noun         | 
 |              | who           |                        | 
 |              | why           |                        | 
 |              | wide          |                        | 
@@ -993,14 +1005,14 @@
 |              | wild          |                        | 
 |              | will          |                        | 
 |              | win           |                        | 
-| whusha       | wind          | n. v.                  | 
+| whusha       | wind          | noun verb              | 
 |              | window        |                        | 
 |              | wine          |                        | 
 |              | winter        |                        | 
 |              | wire          |                        | 
 |              | wise          |                        | 
 |              | wish          |                        | 
-| mae          | with          | prep.                  | 
+| mae          | with          | preposition            | 
 |              | without       |                        | 
 |              | woman         |                        | 
 |              | wonder        |                        | 
@@ -1008,13 +1020,20 @@
 |              | work          |                        | 
 |              | world         |                        | 
 |              | worry         |                        | 
+|              | worst         |                        | 
+|              | write         |                        | 
+|              | wrong         |                        | 
 |              | yard          |                        | 
+|              | year          |                        | 
 |              | yell          |                        | 
-| philu        | yellow        | adj. n.                | 
+| philu        | yellow        | adjective noun         | 
+|              | yes           |                        | 
 |              | yesterday     |                        | 
 |              | yet           |                        | 
-| thi          | you           | pron.                  | 
+| thi          | you           | pronoun                | 
 |              | young         |                        | 
 |              | your          |                        | 
-| thoi         | zero          | num.                   | 
+|              | yours         |                        | 
+| thoi         | zero          | number                 | 
 |              | zoo           |                        | 
+|              | zoom          |                        | 
