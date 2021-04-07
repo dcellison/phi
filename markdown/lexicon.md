@@ -1,19 +1,18 @@
 | phi          | english       | part of speech         | definition
 | ------------ | -------       | --------------         | ----------
-| si           |               | particle               | subject
-| na           |               | particle               | object
-| te           |               | particle               | verb
-| lo           |               | particle               | plural
-| hu           |               | particle               | question
-| me           |               | particle               | not
-|              |               |                        | 
-| li           |               | particle               | simple past
-| ta           |               | particle               | simle present
-| se           |               | particle               | simple future
-| wo           |               | particle               | simple future
-| lu           |               | particle               | present progressive
-| ni           |               | particle               | present perfect
-|              | a             | article                | 
+| si           | 🛇            | particle               | subject
+| na           | 🛇            | particle               | object
+| te           | 🛇            | particle               | verb
+| lo           | 🛇            | particle               | plural
+| hu           | 🛇            | particle               | question
+| me           | 🛇            | particle               | not
+| li           | 🛇            | particle               | simple past
+| ta           | 🛇            | particle               | simle present
+| se           | 🛇            | particle               | simple future
+| wo           | 🛇            | particle               | simple future
+| lu           | 🛇            | particle               | present progressive
+| ni           | 🛇            | particle               | present perfect
+| 🛇           | a             | article                | 
 | hea          | about         | prep adv               | 
 |              | above         | adv prep               | 
 |              | across        | prep adv               | 
@@ -36,7 +35,7 @@
 |              | always        | adv                    | 
 |              | am            | verb                   | 
 |              | amount        | noun verb              | 
-|              | an            | article                | 
+| 🛇           | an            | article                | 
 |              | and           | conj noun              | 
 |              | angry         | adj                    | 
 |              | another       | adj pro                | 
@@ -900,7 +899,7 @@
 |              | test          |                        | 
 |              | than          |                        | 
 |              | that          |                        | 
-|              | the           | article                | 
+| 🛇           | the           | article                | 
 |              | their         |                        | 
 |              | theirs        |                        | 
 |              | then          |                        | 
