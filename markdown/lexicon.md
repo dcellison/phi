@@ -437,29 +437,29 @@
 |              | husband       | noun                   | 
 |              | hurt          | verb noun              | 
 |              | i             | pro                    | 
-|              | ice           |                        | 
-|              | idea          |                        | 
-|              | if            |                        | 
-|              | important     |                        | 
-| nea          | in            | prep                   | 
-|              | increase      |                        | 
-|              | inside        |                        | 
-| pewhe        | indigo        |                        | 
-|              | into          |                        | 
-|              | introduce     |                        | 
-|              | invent        |                        | 
-|              | iron          |                        | 
-|              | invite        |                        | 
-| phi          | is            |                        | 
-|              | island        |                        | 
+|              | ice           | noun verb              | 
+|              | idea          | noun                   | 
+|              | if            | conj                   | 
+|              | important     | adj                    | 
+| nea          | in            | prep adv               | 
+|              | increase      | verb noun              | 
+|              | inside        | prep adv noun          | 
+| pewhe        | indigo        | adj noun               | 
+|              | into          | prep                   | 
+|              | introduce     | verb                   | 
+|              | invent        | verb                   | 
+|              | iron          | noun adj verb          | 
+|              | invite        | verb                   | 
+| phi          | is            | verb                   | 
+|              | island        | noun                   | 
 | sha          | it            | pro                    | 
-|              | its           |                        | 
-|              | jelly         |                        | 
-|              | job           |                        | 
-|              | join          |                        | 
-|              | juice         |                        | 
-|              | jump          |                        | 
-|              | just          |                        | 
+|              | its           | pro                    | 
+|              | jelly         | noun                   | 
+|              | job           | noun verb              | 
+|              | join          | verb noun              | 
+|              | juice         | noun verb              | 
+|              | jump          | verb noun              | 
+|              | just          | adj adv                | 
 |              | keep          |                        | 
 |              | key           |                        | 
 |              | kill          |                        | 
