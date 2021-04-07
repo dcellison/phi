@@ -1,19 +1,18 @@
 | phi          | english       | part of speech         | definition
 | ------------ | -------       | --------------         | ----------
-| si           | (n/a)         | particle               | subject
-| na           | (n/a)         | particle               | object
-| te           | (n/a)         | particle               | verb
-| lo           | (n/a)         | particle               | plural
-| hu           | (n/a)         | particle               | question
-| me           | (n/a)         | particle               | not
+| si           |               | particle               | subject
+| na           |               | particle               | object
+| te           |               | particle               | verb
+| lo           |               | particle               | plural
+| hu           |               | particle               | question
+| me           |               | particle               | not
 |              |               |                        | 
-| li           | (n/a)         | particle               | simple past
-| ta           | (n/a)         | particle               | simle present
-| se           | (n/a)         | particle               | simple future
-| wo           | (n/a)         | particle               | simple future
-| lu           | (n/a)         | particle               | present progressive
-| ni           | (n/a)         | particle               | present perfect
-|              |               |                        | 
+| li           |               | particle               | simple past
+| ta           |               | particle               | simle present
+| se           |               | particle               | simple future
+| wo           |               | particle               | simple future
+| lu           |               | particle               | present progressive
+| ni           |               | particle               | present perfect
 |              | a             | art                    | 
 | hea          | about         | prep adv               | 
 |              | above         | adv prep               | 
