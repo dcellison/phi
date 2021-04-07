@@ -100,7 +100,7 @@
 |              | block         | noun verb              | 
 |              | blood         | noun verb              | 
 |              | blow          | noun                   | 
-| mipho        | blue          | noun adj verb          | 
+| mipho        | blue          | adj noun verb          | 
 |              | board         | noun verb              | 
 |              | boat          | noun verb              | 
 |              | body          | noun verb adj          | 
@@ -361,89 +361,87 @@
 |              | furniture     | noun                   | 
 |              | further       | adv adj verb           | 
 |              | future        | noun adj               | 
-|              | game          |                        | 
-|              | garden        |                        | 
-|              | gate          |                        | 
-|              | general       |                        | 
-|              | gentleman     |                        | 
-|              | get           |                        | 
-|              | gift          |                        | 
-|              | give          |                        | 
-|              | glad          |                        | 
-|              | glass         |                        | 
-|              | go            |                        | 
-|              | goat          |                        | 
-|              | god           |                        | 
-|              | gold          |                        | 
-| shishau      | good          | adj noun         | 
-|              | goodbye       |                        | 
-|              | grandfather   |                        | 
-|              | grandmother   |                        | 
-|              | grass         |                        | 
-|              | grave         |                        | 
-|              | great         |                        | 
-| hashe        | green         | adj noun         | 
-|              | gray          |                        | 
-|              | ground        |                        | 
-|              | group         |                        | 
-|              | grow          |                        | 
-|              | gun           |                        | 
-|              | hair          |                        | 
-|              | half          |                        | 
-|              | hall          |                        | 
-|              | hammer        |                        | 
-|              | hand          |                        | 
-|              | happen        |                        | 
-|              | happy         |                        | 
-|              | hard          |                        | 
-|              | hat           |                        | 
-|              | hate          |                        | 
-|              | have          |                        | 
-|              | he            |                        | 
-|              | head          |                        | 
+|              | game          | noun adj verb          | 
+|              | garden        | noun adj verb          | 
+|              | gate          | noun verb              | 
+|              | general       | adj noun               | 
+|              | gentleman     | noun                   | 
+|              | get           | verb                   | 
+|              | gift          | noun verb              | 
+|              | give          | verb noun              | 
+|              | glad          | adj                    | 
+|              | glass         | noun adj verb          | 
+|              | go            | verb noun              | 
+|              | goat          | noun                   | 
+|              | god           | noun                   | 
+|              | gold          | noun adj               | 
+| shishau      | good          | adj noun               | 
+|              | grandfather   | noun                   | 
+|              | grandmother   | noun                   | 
+|              | grass         | noun verb              | 
+|              | grave         | noun adj               | 
+|              | great         | adj adv noun           | 
+| hashe        | green         | adj noun verb          | 
+|              | grey          | adj noun verb          | 
+|              | ground        | noun adj verb          | 
+|              | group         | noun verb              | 
+|              | grow          | verb                   | 
+|              | gun           | noun verb              | 
+|              | hair          | noun                   | 
+|              | half          | noun adj adv           | 
+|              | hall          | noun                   | 
+|              | hammer        | noun verb              | 
+|              | hand          | noun verb adj          | 
+|              | happen        | verb                   | 
+|              | happy         | adj                    | 
+|              | hard          | adj adv                | 
+|              | hat           | noun                   | 
+|              | hate          | verb noun              | 
+|              | have          | verb                   | 
+|              | he            | pro                    | 
+|              | head          | noun adj verb          | 
 | ropho        | health        | noun                   | 
-|              | healthy       |                        | 
-|              | hear          |                        | 
-|              | heavy         |                        | 
-|              | heart         |                        | 
-|              | heaven        |                        | 
-|              | height        |                        | 
-|              | hello         |                        | 
-|              | help          |                        | 
-|              | hen           |                        | 
-|              | her           |                        | 
-|              | here          |                        | 
-|              | hers          |                        | 
-|              | hide          |                        | 
-|              | high          |                        | 
-|              | hill          |                        | 
-|              | him           |                        | 
-|              | his           |                        | 
-|              | hit           |                        | 
-|              | hobby         |                        | 
-|              | hold          |                        | 
-|              | hole          |                        | 
-|              | holiday       |                        | 
-|              | home          |                        | 
-|              | hope          |                        | 
-|              | horse         |                        | 
-|              | hospital      |                        | 
-|              | hot           |                        | 
-|              | hotel         |                        | 
-|              | house         |                        | 
-| haso         | how           | conjunction            | 
-|              | hundred       |                        | 
-|              | hungry        |                        | 
-|              | hour          |                        | 
-|              | hurry         |                        | 
-|              | husband       |                        | 
-|              | hurt          |                        | 
-|              | I             |                        | 
+|              | healthy       | adj                    | 
+|              | hear          | verb                   | 
+|              | heavy         | adj                    | 
+|              | heart         | noun                   | 
+|              | heaven        | noun                   | 
+|              | height        | noun                   | 
+|              | help          | verb noun              | 
+|              | hen           | noun                   | 
+|              | her           | pro                    | 
+|              | here          | adv noun               | 
+|              | hers          | pro                    | 
+|              | hide          | verb                   | 
+|              | high          | adj adv                | 
+|              | hill          | noun                   | 
+|              | him           | pro                    | 
+|              | his           | pro                    | 
+|              | hit           | verb noun              | 
+|              | hobby         | noun                   | 
+|              | hold          | verb noun              | 
+|              | hole          | noun verb              | 
+|              | holiday       | noun adj verb          | 
+|              | home          | noun adj adv           | 
+|              | hope          | noun verb              | 
+|              | horse         | noun                   | 
+|              | hospital      | noun                   | 
+|              | hot           | adj adv                | 
+|              | hotel         | noun                   | 
+|              | house         | noun verb              | 
+| haso         | how           | adv conj               | 
+|              | hundred       | noun adj               | 
+|              | hungry        | adj                    | 
+|              | hour          | noun adj               | 
+|              | hurry         | verb noun              | 
+|              | husband       | noun                   | 
+|              | hurt          | verb noun              | 
+|              | i             | pro                    | 
 |              | ice           |                        | 
 |              | idea          |                        | 
 |              | if            |                        | 
 |              | important     |                        | 
-| nea          | in            | prep            | 
+| nea          | in            | prep                   | 
 |              | increase      |                        | 
 |              | inside        |                        | 
 | pewhe        | indigo        |                        | 
@@ -454,7 +452,7 @@
 |              | invite        |                        | 
 | phi          | is            |                        | 
 |              | island        |                        | 
-| sha          | it            | pronoun                | 
+| sha          | it            | pro                    | 
 |              | its           |                        | 
 |              | jelly         |                        | 
 |              | job           |                        | 
@@ -499,10 +497,10 @@
 |              | lie           |                        | 
 |              | life          |                        | 
 |              | light         |                        | 
-| lephe        | like          | prep verb       | 
+| lephe        | like          | prep verb              | 
 |              | lion          |                        | 
 |              | lip           |                        | 
-| liowha       | liquid        | noun adj         | 
+| liowha       | liquid        | noun adj               | 
 |              | list          |                        | 
 |              | listen        |                        | 
 |              | little        |                        | 
@@ -529,7 +527,7 @@
 |              | marry         |                        | 
 |              | matter        |                        | 
 |              | may           |                        | 
-| mia          | me            | pronoun                | 
+| mia          | me            | pro                    | 
 |              | meal          |                        | 
 |              | mean          |                        | 
 |              | measure       |                        | 
@@ -603,20 +601,20 @@
 |              | obey          |                        | 
 |              | object        |                        | 
 |              | ocean         |                        | 
-| so           | of            | prep            | 
+| so           | of            | prep                   | 
 |              | off           |                        | 
 |              | offer         |                        | 
 |              | office        |                        | 
 |              | often         |                        | 
 |              | oil           |                        | 
 |              | old           |                        | 
-| hoi          | on            | prep            | 
+| hoi          | on            | prep                   | 
 | wheo         | one           | number                 | 
 |              | only          |                        | 
 |              | open          |                        | 
 |              | opposite      |                        | 
 |              | or            |                        | 
-| sathe        | orange        | adj noun         | 
+| sathe        | orange        | adj noun               | 
 |              | order         |                        | 
 |              | other         |                        | 
 |              | our           |                        | 
@@ -718,7 +716,7 @@
 |              | really        |                        | 
 |              | receive       |                        | 
 |              | record        |                        | 
-| lawha        | red           | adj noun         | 
+| lawha        | red           | adj noun               | 
 |              | remember      |                        | 
 |              | remind        |                        | 
 |              | remove        |                        | 
@@ -924,7 +922,7 @@
 |              | tidy          |                        | 
 |              | tie           |                        | 
 |              | title         |                        | 
-| thu          | to            | prep            | 
+| thu          | to            | prep                   | 
 |              | today         |                        | 
 |              | toe           |                        | 
 |              | together      |                        | 
@@ -940,7 +938,7 @@
 |              | train         |                        | 
 |              | tram          |                        | 
 |              | travel        |                        | 
-| lipha        | tree          |n.                      | 
+| lipha        | tree          |                        | 
 |              | trillion      |                        | 
 |              | trouble       |                        | 
 |              | true          |                        | 
@@ -964,7 +962,7 @@
 |              | vegetable     |                        | 
 |              | very          |                        | 
 |              | village       |                        | 
-| nishu        | violet        | adj noun         | 
+| nishu        | violet        | adj noun               | 
 |              | voice         |                        | 
 |              | visit         |                        | 
 |              | wait          |                        | 
@@ -996,7 +994,7 @@
 |              | where         |                        | 
 |              | which         |                        | 
 |              | while         |                        | 
-| thasi        | white         | adj noun         | 
+| thasi        | white         | adj noun               | 
 |              | who           |                        | 
 |              | why           |                        | 
 |              | wide          |                        | 
@@ -1011,7 +1009,7 @@
 |              | wire          |                        | 
 |              | wise          |                        | 
 |              | wish          |                        | 
-| mae          | with          | prep            | 
+| mae          | with          | prep                   | 
 |              | without       |                        | 
 |              | woman         |                        | 
 |              | wonder        |                        | 
@@ -1025,11 +1023,11 @@
 |              | yard          |                        | 
 |              | year          |                        | 
 |              | yell          |                        | 
-| philu        | yellow        | adj noun         | 
+| philu        | yellow        | adj noun               | 
 |              | yes           |                        | 
 |              | yesterday     |                        | 
 |              | yet           |                        | 
-| thi          | you           | pronoun                | 
+| thi          | you           | pro                    | 
 |              | young         |                        | 
 |              | your          |                        | 
 |              | yours         |                        | 
