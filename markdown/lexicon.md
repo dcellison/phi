@@ -460,112 +460,112 @@
 |              | juice         | noun verb              | 
 |              | jump          | verb noun              | 
 |              | just          | adj adv                | 
-|              | keep          |                        | 
-|              | key           |                        | 
-|              | kill          |                        | 
-|              | kind          |                        | 
-|              | king          |                        | 
-|              | kitchen       |                        | 
-|              | knee          |                        | 
-|              | knife         |                        | 
-|              | knock         |                        | 
-|              | know          |                        | 
-|              | ladder        |                        | 
-|              | lady          |                        | 
+|              | keep          | verb                   | 
+|              | key           | noun adj verb          | 
+|              | kill          | verb noun              | 
+|              | kind          | adj noun               | 
+|              | king          | noun verb              | 
+|              | kitchen       | noun adj               | 
+|              | knee          | noun verb              | 
+|              | knife         | noun verb              | 
+|              | knock         | verb noun              | 
+|              | know          | verb                   | 
+|              | ladder        | noun                   | 
+|              | lady          | noun                   | 
 | lewhi        | lake          | noun                   | 
-|              | lamp          |                        | 
-|              | land          |                        | 
-|              | large         |                        | 
-|              | last          |                        | 
-|              | late          |                        | 
-|              | lately        |                        | 
-|              | laugh         |                        | 
-|              | lazy          |                        | 
-|              | lead          |                        | 
-|              | leaf          |                        | 
-|              | learn         |                        | 
-|              | leave         |                        | 
-|              | leg           |                        | 
-|              | left          |                        | 
-|              | lend          |                        | 
-|              | length        |                        | 
-|              | less          |                        | 
-|              | lesson        |                        | 
-|              | let           |                        | 
-|              | letter        |                        | 
-|              | library       |                        | 
-|              | lie           |                        | 
-|              | life          |                        | 
-|              | light         |                        | 
-| lephe        | like          | prep verb              | 
-|              | lion          |                        | 
-|              | lip           |                        | 
+|              | lamp          | noun                   | 
+|              | land          | noun verb              | 
+|              | large         | adj                    | 
+|              | last          | adj adv                | 
+|              | late          | adj adv                | 
+|              | lately        | adv                    | 
+|              | laugh         | verb noun              | 
+|              | lazy          | adj                    | 
+|              | lead          | verb noun              | 
+|              | leaf          | noun verb              | 
+|              | learn         | verb                   | 
+|              | leave         | verb                   | 
+|              | leg           | noun                   | 
+|              | left          | adj noun adv           | 
+|              | lend          | verb                   | 
+|              | length        | noun                   | 
+|              | less          | adv adj noun           | 
+|              | lesson        | noun                   | 
+|              | let           | verb                   | 
+|              | letter        | noun verb              | 
+|              | library       | noun                   | 
+|              | lie           | noun verb              | 
+|              | life          | noun adj               | 
+|              | light         | noun adj verb          | 
+| lephe        | like          | adj prep adv           | 
+|              | lion          | noun                   | 
+|              | lip           | noun adj               | 
 | liowha       | liquid        | noun adj               | 
-|              | list          |                        | 
-|              | listen        |                        | 
-|              | little        |                        | 
-|              | live          |                        | 
-|              | lock          |                        | 
-|              | lonely        |                        | 
-|              | long          |                        | 
-|              | look          |                        | 
-|              | lose          |                        | 
-|              | lot           |                        | 
-| lothea       | love          | verb noun              | 
-|              | low           |                        | 
-|              | lower         |                        | 
-|              | luck          |                        | 
-|              | machine       |                        | 
-|              | main          |                        | 
-|              | make          |                        | 
-|              | male          |                        | 
-|              | man           |                        | 
-|              | many          |                        | 
-|              | map           |                        | 
-|              | mark          |                        | 
-|              | market        |                        | 
-|              | marry         |                        | 
-|              | matter        |                        | 
-|              | may           |                        | 
+|              | list          | adj noun               | 
+|              | listen        | verb                   | 
+|              | little        | adj adv noun           | 
+|              | live          | verb                   | 
+|              | lock          | noun verb              | 
+|              | lonely        | adj                    | 
+|              | long          | adj noun adv           | 
+|              | look          | verb noun              | 
+|              | lose          | verb                   | 
+|              | lot           | noun                   | 
+| lothea       | love          | noun verb              | 
+|              | low           | adj adv noun           | 
+|              | lower         | verb                   | 
+|              | luck          | noun                   | 
+|              | machine       | noun verb              | 
+|              | main          | adj                    | 
+|              | make          | verb noun              | 
+|              | male          | noun adj               | 
+|              | man           | noun verb              | 
+|              | many          | adj noun pro           | 
+|              | map           | noun verb              | 
+|              | mark          | noun verb              | 
+|              | market        | noun verb              | 
+|              | marry         | verb                   | 
+|              | matter        | noun verb              | 
+|              | may           | verb                   | 
 | mia          | me            | pro                    | 
-|              | meal          |                        | 
-|              | mean          |                        | 
-|              | measure       |                        | 
-|              | meat          |                        | 
-|              | medicine      |                        | 
-|              | meet          |                        | 
-|              | member        |                        | 
-|              | mention       |                        | 
-|              | method        |                        | 
-|              | middle        |                        | 
-|              | milk          |                        | 
-|              | mill          |                        | 
-|              | million       |                        | 
-|              | mind          |                        | 
-|              | mine          |                        | 
-|              | minute        |                        | 
-|              | miss          |                        | 
-|              | mistake       |                        | 
-|              | mix           |                        | 
-|              | model         |                        | 
-|              | modern        |                        | 
-|              | moment        |                        | 
-|              | money         |                        | 
-|              | monkey        |                        | 
-|              | month         |                        | 
-|              | moon          |                        | 
-|              | more          |                        | 
-|              | morning       |                        | 
-|              | most          |                        | 
-|              | mother        |                        | 
-|              | mountain      |                        | 
-|              | mouse         |                        | 
-|              | mouth         |                        | 
-|              | move          |                        | 
-|              | much          |                        | 
-|              | music         |                        | 
-|              | must          |                        | 
-|              | my            |                        | 
+|              | meal          | noun                   | 
+|              | mean          | verb                   | 
+|              | measure       | noun verb              | 
+|              | meat          | noun                   | 
+|              | medicine      | noun                   | 
+|              | meet          | verb noun              | 
+|              | member        | noun adj               | 
+|              | mention       | verb noun              | 
+|              | method        | noun                   | 
+|              | middle        | adj noun               | 
+|              | milk          | noun verb              | 
+|              | mill          | noun verb              | 
+|              | million       | noun adj               | 
+|              | mind          | noun verb              | 
+|              | mine          | pro noun verb          | 
+|              | minute        | noun                   | 
+|              | miss          | verb noun              | 
+|              | mistake       | noun verb              | 
+|              | mix           | verb noun              | 
+|              | model         | noun adj verb          | 
+|              | modern        | adj                    | 
+|              | moment        | noun                   | 
+|              | money         | noun adj               | 
+|              | monkey        | noun                   | 
+|              | month         | noun                   | 
+|              | moon          | noun                   | 
+|              | more          | adj noun adv           | 
+|              | morning       | noun adj               | 
+|              | most          | adj noun adv           | 
+|              | mother        | noun adj verb          | 
+|              | mountain      | noun adj               | 
+|              | mouse         | noun                   | 
+|              | mouth         | noun verb              | 
+|              | move          | verb noun              | 
+|              | much          | adj noun adv           | 
+|              | music         | noun                   | 
+|              | must          | verb                   | 
+|              | my            | pro                    | 
 |              | name          |                        | 
 |              | narrow        |                        | 
 |              | nation        |                        | 
