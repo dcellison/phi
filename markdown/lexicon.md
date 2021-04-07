@@ -13,7 +13,6 @@
 | wo           |               | particle               | simple future
 | lu           |               | particle               | present progressive
 | ni           |               | particle               | present perfect
-|              |               |                        | 
 |              | a             | art                    | 
 | hea          | about         | prep adv               | 
 |              | above         | adv prep               | 
