@@ -6,8 +6,8 @@
 | ----------- | -------- | ------ | -------- | ------------ | ----- | -------
 | plosive     | p        |        | t        |              |       |
 | nasal       | m        |        | n        |              |       |
-| tap or flap |          |        | ɾ        |              |       |
 | trill       |          |        | r        |              |       |
+| tap or flap |          |        | ɾ        |              |       |
 | fricative   | ɸ ʍ      | θ      | s        | ʃ            | ʍ     | h
 | approximate | w        |        |          |              | w     |
 | lat approx  |          |        | l        |              |       |

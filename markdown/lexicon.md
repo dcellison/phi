@@ -14,173 +14,172 @@
 | lu           | (n/a)         | particle               | present progressive
 | ni           | (n/a)         | particle               | present perfect
 |              |               |                        | 
-|              | a             | particle               | 
-| hea          | about         | preposition            | 
-|              | above         |                        | 
-|              | across        |                        | 
-|              | act           |                        | 
-|              | actor         |                        | 
-|              | active        |                        | 
-|              | activity      |                        | 
-|              | add           |                        | 
-|              | afraid        |                        | 
-|              | after         |                        | 
-|              | again         |                        | 
-|              | age           |                        | 
-|              | ago           |                        | 
-|              | agree         |                        | 
-|              | air           |                        | 
-|              | all           |                        | 
-|              | alone         |                        | 
-|              | along         |                        | 
-|              | already       |                        | 
-|              | always        |                        | 
-|              | am            |                        | 
-|              | amount        |                        | 
-|              | an            | particle               | 
-|              | and           |                        | 
-|              | angry         |                        | 
-|              | another       |                        | 
-|              | answer        |                        | 
-|              | any           |                        | 
-|              | anyone        |                        | 
-|              | anything      |                        | 
-|              | anytime       |                        | 
-|              | appear        |                        | 
-|              | apple         |                        | 
-| phe          | are           |                        | 
-|              | area          |                        | 
-|              | arm           |                        | 
-|              | army          |                        | 
-|              | around        |                        | 
-|              | arrive        |                        | 
-|              | art           |                        | 
-| phu          | as            | preposition            | 
-|              | ask           |                        | 
-| whi          | at            | preposition            | 
-|              | attack        |                        | 
-|              | aunt          |                        | 
-|              | autumn        |                        | 
-|              | away          |                        | 
-|              | baby          |                        | 
-|              | back          |                        | 
-|              | bad           |                        | 
-|              | bag           |                        | 
-|              | ball          |                        | 
-|              | bank          |                        | 
-|              | base          |                        | 
-|              | basket        |                        | 
-|              | bath          |                        | 
-|              | be            |                        | 
-|              | bean          |                        | 
-|              | bear          |                        | 
-|              | beautiful     |                        | 
-|              | beer          |                        | 
-|              | bed           |                        | 
-|              | bedroom       |                        | 
-|              | beer          |                        | 
-|              | behave        |                        | 
-|              | before        |                        | 
-|              | begin         |                        | 
-|              | behind        |                        | 
-|              | bell          |                        | 
-|              | below         |                        | 
-|              | besides       |                        | 
-|              | best          |                        | 
-|              | better        |                        | 
-|              | between       |                        | 
-|              | big           |                        | 
-|              | bird          |                        | 
-|              | birth         |                        | 
-|              | birthday      |                        | 
-|              | bit           |                        | 
-|              | bite          |                        | 
-| sathi        | black         | adjective noun         | 
-|              | bleed         |                        | 
-|              | block         |                        | 
-|              | blood         |                        | 
-|              | blow          |                        | 
-| mipho        | blue          | adjective noun         | 
-|              | board         |                        | 
-|              | boat          |                        | 
-|              | body          |                        | 
-|              | boil          |                        | 
-|              | bone          |                        | 
-|              | book          |                        | 
-|              | border        |                        | 
-|              | born          |                        | 
-|              | borrow        |                        | 
-|              | both          |                        | 
-|              | bottle        |                        | 
-|              | bottom        |                        | 
-|              | bowl          |                        | 
-|              | box           |                        | 
-|              | boy           |                        | 
-|              | branch        |                        | 
-|              | brave         |                        | 
-|              | bread         |                        | 
-|              | break         |                        | 
-|              | breakfast     |                        | 
-|              | breathe       |                        | 
-|              | bridge        |                        | 
-|              | bright        |                        | 
-|              | bring         |                        | 
-|              | brother       |                        | 
-|              | brown         |                        | 
-|              | brush         |                        | 
-|              | build         |                        | 
-|              | burn          |                        | 
-|              | business      |                        | 
-|              | bus           |                        | 
-|              | busy          |                        | 
-|              | but           |                        | 
-|              | buy           |                        | 
-| lia          | by            | preposition            | 
-|              | cake          |                        | 
-|              | call          |                        | 
-|              | can           |                        | 
-|              | candle        |                        | 
-|              | cap           |                        | 
-|              | car           |                        | 
-|              | card          |                        | 
-|              | care          |                        | 
-|              | careful       |                        | 
-|              | careless      |                        | 
-|              | carry         |                        | 
-|              | case          |                        | 
-|              | cat           |                        | 
-|              | catch         |                        | 
-|              | central       |                        | 
-|              | century       |                        | 
-|              | certain       |                        | 
-|              | chair         |                        | 
-|              | chance        |                        | 
-|              | change        |                        | 
-|              | chase         |                        | 
-|              | cheap         |                        | 
-|              | cheese        |                        | 
-|              | chicken       |                        | 
-|              | child         |                        | 
-|              | children      |                        | 
-|              | chocolate     |                        | 
-|              | choice        |                        | 
-|              | choose        |                        | 
-|              | circle        |                        | 
-|              | city          |                        | 
-|              | class         |                        | 
-|              | clever        |                        | 
-|              | clean         |                        | 
-|              | clear         |                        | 
-|              | climb         |                        | 
-|              | clock         |                        | 
-|              | cloth         |                        | 
-|              | clothes       |                        | 
-|              | cloud         |                        | 
-|              | cloudy        |                        | 
-|              | close         |                        | 
-|              | coffee        |                        | 
-|              | coat          |                        | 
-|              | coin          |                        | 
+|              | a             | art                    | 
+| hea          | about         | prep adv               | 
+|              | above         | adv prep               | 
+|              | across        | prep adv               | 
+|              | act           | noun verb              | 
+|              | actor         | noun                   | 
+|              | active        | adj noun               | 
+|              | activity      | noun                   | 
+|              | add           | verb noun              | 
+|              | afraid        | adj                    | 
+|              | after         | prep adv adj conj      | 
+|              | again         | adv                    | 
+|              | age           | noun verb              | 
+|              | ago           | adj adv                | 
+|              | agree         | verb                   | 
+|              | air           | noun verb              | 
+|              | all           | adj pro noun           | 
+|              | alone         | adj adv                | 
+|              | along         | prep adv               | 
+|              | already       | adv                    | 
+|              | always        | adv                    | 
+|              | am            | verb                   | 
+|              | amount        | noun verb              | 
+|              | an            | art                    | 
+|              | and           | conj noun              | 
+|              | angry         | adj                    | 
+|              | another       | adj pro                | 
+|              | answer        | noun verb              | 
+|              | any           | adj pro adv            | 
+|              | anyone        | pro                    | 
+|              | anything      | pro noun adv           | 
+|              | anytime       | adv                    | 
+|              | appear        | verb                   | 
+|              | apple         | noun                   | 
+| phe          | are           | verb                   | 
+|              | area          | noun                   | 
+|              | arm           | noun                   | 
+|              | army          | noun                   | 
+|              | around        | adv prep               | 
+|              | arrive        | verb                   | 
+|              | art           | noun                   | 
+| phu          | as            | adv conj pro           | 
+|              | ask           | verb noun              | 
+| whi          | at            | prep                   | 
+|              | attack        | verb noun              | 
+|              | aunt          | noun                   | 
+|              | autumn        | noun                   | 
+|              | away          | adv adj                | 
+|              | baby          | noun adj verb          | 
+|              | back          | noun verb              | 
+|              | bad           | adj noun adv           | 
+|              | bag           | noun verb              | 
+|              | ball          | noun verb              | 
+|              | bank          | noun verb              | 
+|              | base          | noun adj verb          | 
+|              | basket        | noun                   | 
+|              | bath          | noun verb              | 
+|              | be            | verb                   | 
+|              | bean          | noun verb inj          | 
+|              | bear          | verb noun              | 
+|              | beautiful     | adj noun inj           | 
+|              | beer          | noun                   | 
+|              | bed           | noun verb              | 
+|              | bedroom       | noun adj               | 
+|              | beer          | noun                   | 
+|              | behave        | verb                   | 
+|              | before        | prep adv conj          | 
+|              | begin         | verb                   | 
+|              | behind        | prep adv adj           | 
+|              | bell          | noun verb              | 
+|              | below         | adv prep               | 
+|              | besides       | adv prep               | 
+|              | best          | adj adv noun verb      | 
+|              | better        | adj adv verb noun      | 
+|              | between       | prep noun adv          | 
+|              | big           | adj adv noun           | 
+|              | bird          | noun verb              | 
+|              | birth         | noun verb              | 
+|              | birthday      | noun                   | 
+|              | bit           | noun verb              | 
+|              | bite          | verb noun              | 
+| sathi        | black         | adj noun verb          | 
+|              | bleed         | verb noun adj          | 
+|              | block         | noun verb              | 
+|              | blood         | noun verb              | 
+|              | blow          | noun                   | 
+| mipho        | blue          | noun adj verb          | 
+|              | board         | noun verb              | 
+|              | boat          | noun verb              | 
+|              | body          | noun verb adj          | 
+|              | boil          | verb noun              | 
+|              | bone          | noun verb adv          | 
+|              | book          | noun verb              | 
+|              | border        | noun verb              | 
+|              | born          | adj verb               | 
+|              | borrow        | verb                   | 
+|              | both          | adj pro conj           | 
+|              | bottle        | noun verb              | 
+|              | bottom        | noun verb              | 
+|              | bowl          | noun verb              | 
+|              | box           | noun verb              | 
+|              | boy           | noun int               | 
+|              | branch        | noun verb              | 
+|              | brave         | adj noun verb          | 
+|              | bread         | noun verb              | 
+|              | break         | verb noun              | 
+|              | breakfast     | noun verb              | 
+|              | breathe       | verb                   | 
+|              | bridge        | noun verb              | 
+|              | bright        | adj noun               | 
+|              | bring         | verb                   | 
+|              | brother       | noun int               | 
+|              | brown         | noun adj verb          | 
+|              | brush         | noun verb              | 
+|              | build         | verb noun              | 
+|              | burn          | verb noun              | 
+|              | business      | noun adj               | 
+|              | bus           | noun verb              | 
+|              | busy          | adj verb               | 
+|              | but           | conj prep adv          | 
+|              | buy           | verb noun              | 
+| lia          | by            | prep adv adj           | 
+|              | cake          | noun verb              | 
+|              | call          | verb noun              | 
+|              | can           | verb noun              | 
+|              | candle        | noun verb              | 
+|              | cap           | noun verb              | 
+|              | car           | noun                   | 
+|              | card          | noun verb              | 
+|              | care          | noun verb              | 
+|              | careful       | adj                    | 
+|              | careless      | adj                    | 
+|              | carry         | verb noun              | 
+|              | case          | noun                   | 
+|              | cat           | noun verb              | 
+|              | catch         | verb noun              | 
+|              | central       | adj                    | 
+|              | century       | noun                   | 
+|              | certain       | adj pro                | 
+|              | chair         | noun verb              | 
+|              | chance        | noun verb              | 
+|              | change        | verb noun              | 
+|              | chase         | verb noun              | 
+|              | cheap         | adj adv                | 
+|              | cheese        | noun verb              | 
+|              | chicken       | noun adj               | 
+|              | child         | noun                   | 
+|              | chocolate     | noun adj               | 
+|              | choice        | noun adj               | 
+|              | choose        | verb                   | 
+|              | circle        | noun verb              | 
+|              | city          | noun                   | 
+|              | class         | noun adj verb          | 
+|              | clever        | adj                    | 
+|              | clean         | adj adv verb           | 
+|              | clear         | adj adv verb           | 
+|              | climb         | verb noun              | 
+|              | clock         | noun verb              | 
+|              | cloth         | noun adj               | 
+|              | clothing      | noun                   | 
+|              | cloud         | noun verb              | 
+|              | cloudy        | adj                    | 
+|              | close         | verb adj               | 
+|              | coffee        | noun                   | 
+|              | coat          | noun verb              | 
+|              | coin          | noun adj verb          | 
 |              | cold          |                        | 
 |              | collect       |                        | 
 |              | colour        |                        | 
@@ -337,7 +336,7 @@
 |              | fool          |                        | 
 |              | foot          |                        | 
 |              | football      |                        | 
-| who          | for           | preposition            | 
+| who          | for           | prep            | 
 |              | force         |                        | 
 |              | foreign       |                        | 
 |              | forest        |                        | 
@@ -353,7 +352,7 @@
 |              | fresh         |                        | 
 | methu        | friend        | noun                   | 
 |              | friendly      |                        | 
-| nio          | from          | preposition            | 
+| nio          | from          | prep            | 
 |              | front         |                        | 
 |              | fruit         |                        | 
 |              | full          |                        | 
@@ -376,14 +375,14 @@
 |              | goat          |                        | 
 |              | god           |                        | 
 |              | gold          |                        | 
-| shishau      | good          | adjective noun         | 
+| shishau      | good          | adj noun         | 
 |              | goodbye       |                        | 
 |              | grandfather   |                        | 
 |              | grandmother   |                        | 
 |              | grass         |                        | 
 |              | grave         |                        | 
 |              | great         |                        | 
-| hashe        | green         | adjective noun         | 
+| hashe        | green         | adj noun         | 
 |              | gray          |                        | 
 |              | ground        |                        | 
 |              | group         |                        | 
@@ -432,7 +431,7 @@
 |              | hot           |                        | 
 |              | hotel         |                        | 
 |              | house         |                        | 
-| haso         | how           | conjugation            | 
+| haso         | how           | conjunction            | 
 |              | hundred       |                        | 
 |              | hungry        |                        | 
 |              | hour          |                        | 
@@ -444,7 +443,7 @@
 |              | idea          |                        | 
 |              | if            |                        | 
 |              | important     |                        | 
-| nea          | in            | preposition            | 
+| nea          | in            | prep            | 
 |              | increase      |                        | 
 |              | inside        |                        | 
 | pewhe        | indigo        |                        | 
@@ -500,10 +499,10 @@
 |              | lie           |                        | 
 |              | life          |                        | 
 |              | light         |                        | 
-| lephe        | like          | preposition verb       | 
+| lephe        | like          | prep verb       | 
 |              | lion          |                        | 
 |              | lip           |                        | 
-| liowha       | liquid        | noun adjective         | 
+| liowha       | liquid        | noun adj         | 
 |              | list          |                        | 
 |              | listen        |                        | 
 |              | little        |                        | 
@@ -604,20 +603,20 @@
 |              | obey          |                        | 
 |              | object        |                        | 
 |              | ocean         |                        | 
-| so           | of            | preposition            | 
+| so           | of            | prep            | 
 |              | off           |                        | 
 |              | offer         |                        | 
 |              | office        |                        | 
 |              | often         |                        | 
 |              | oil           |                        | 
 |              | old           |                        | 
-| hoi          | on            | preposition            | 
+| hoi          | on            | prep            | 
 | wheo         | one           | number                 | 
 |              | only          |                        | 
 |              | open          |                        | 
 |              | opposite      |                        | 
 |              | or            |                        | 
-| sathe        | orange        | adjective noun         | 
+| sathe        | orange        | adj noun         | 
 |              | order         |                        | 
 |              | other         |                        | 
 |              | our           |                        | 
@@ -719,7 +718,7 @@
 |              | really        |                        | 
 |              | receive       |                        | 
 |              | record        |                        | 
-| lawha        | red           | adjective noun         | 
+| lawha        | red           | adj noun         | 
 |              | remember      |                        | 
 |              | remind        |                        | 
 |              | remove        |                        | 
@@ -904,7 +903,7 @@
 |              | test          |                        | 
 |              | than          |                        | 
 |              | that          |                        | 
-|              | the           | particle               | 
+|              | the           | article                | 
 |              | their         |                        | 
 |              | theirs        |                        | 
 |              | then          |                        | 
@@ -925,7 +924,7 @@
 |              | tidy          |                        | 
 |              | tie           |                        | 
 |              | title         |                        | 
-| thu          | to            | preposition            | 
+| thu          | to            | prep            | 
 |              | today         |                        | 
 |              | toe           |                        | 
 |              | together      |                        | 
@@ -965,7 +964,7 @@
 |              | vegetable     |                        | 
 |              | very          |                        | 
 |              | village       |                        | 
-| nishu        | violet        | adjective noun         | 
+| nishu        | violet        | adj noun         | 
 |              | voice         |                        | 
 |              | visit         |                        | 
 |              | wait          |                        | 
@@ -997,7 +996,7 @@
 |              | where         |                        | 
 |              | which         |                        | 
 |              | while         |                        | 
-| thasi        | white         | adjective noun         | 
+| thasi        | white         | adj noun         | 
 |              | who           |                        | 
 |              | why           |                        | 
 |              | wide          |                        | 
@@ -1012,7 +1011,7 @@
 |              | wire          |                        | 
 |              | wise          |                        | 
 |              | wish          |                        | 
-| mae          | with          | preposition            | 
+| mae          | with          | prep            | 
 |              | without       |                        | 
 |              | woman         |                        | 
 |              | wonder        |                        | 
@@ -1026,7 +1025,7 @@
 |              | yard          |                        | 
 |              | year          |                        | 
 |              | yell          |                        | 
-| philu        | yellow        | adjective noun         | 
+| philu        | yellow        | adj noun         | 
 |              | yes           |                        | 
 |              | yesterday     |                        | 
 |              | yet           |                        | 
