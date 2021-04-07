@@ -347,20 +347,20 @@
 |              | fox           | noun verb              | 
 | shea         | four          | noun adj               | 
 |              | free          | adj adv verb           | 
-|              | freedom       |                        | 
-|              | freeze        |                        | 
-|              | fresh         |                        | 
-| methu        | friend        | noun                   | 
-|              | friendly      |                        | 
-| nio          | from          | prep            | 
-|              | front         |                        | 
-|              | fruit         |                        | 
-|              | full          |                        | 
-|              | fun           |                        | 
-|              | funny         |                        | 
-|              | furniture     |                        | 
-|              | further       |                        | 
-|              | future        |                        | 
+|              | freedom       | noun                   | 
+|              | freeze        | verb noun              | 
+|              | fresh         | adj noun verb adv      | 
+| methu        | friend        | noun verb              | 
+|              | friendly      | adj adv                | 
+| nio          | from          | prep                   | 
+|              | front         | noun adj verb          | 
+|              | fruit         | noun verb              | 
+|              | full          | adj adv verb           | 
+|              | fun           | noun verb adj          | 
+|              | funny         | adj noun               | 
+|              | furniture     | noun                   | 
+|              | further       | adv adj verb           | 
+|              | future        | noun adj               | 
 |              | game          |                        | 
 |              | garden        |                        | 
 |              | gate          |                        | 
