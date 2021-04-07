@@ -13,7 +13,7 @@
 | wo           |               | particle               | simple future
 | lu           |               | particle               | present progressive
 | ni           |               | particle               | present perfect
-|              | a             | art                    | 
+|              | a             | article                | 
 | hea          | about         | prep adv               | 
 |              | above         | adv prep               | 
 |              | across        | prep adv               | 
@@ -36,7 +36,7 @@
 |              | always        | adv                    | 
 |              | am            | verb                   | 
 |              | amount        | noun verb              | 
-|              | an            | art                    | 
+|              | an            | article                | 
 |              | and           | conj noun              | 
 |              | angry         | adj                    | 
 |              | another       | adj pro                | 
