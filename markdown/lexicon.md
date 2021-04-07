@@ -180,173 +180,173 @@
 |              | coffee        | noun                   | 
 |              | coat          | noun verb              | 
 |              | coin          | noun adj verb          | 
-|              | cold          |                        | 
-|              | collect       |                        | 
-|              | colour        |                        | 
-|              | comb          |                        | 
-|              | comfortable   |                        | 
-|              | common        |                        | 
-|              | compare       |                        | 
-|              | come          |                        | 
-|              | complete      |                        | 
-|              | computer      |                        | 
-|              | condition     |                        | 
-|              | continue      |                        | 
-|              | control       |                        | 
-|              | cook          |                        | 
-|              | cool          |                        | 
-|              | copper        |                        | 
-|              | corn          |                        | 
-|              | corner        |                        | 
-|              | correct       |                        | 
-|              | cost          |                        | 
-|              | contain       |                        | 
-|              | count         |                        | 
-|              | country       |                        | 
-|              | course        |                        | 
-|              | cover         |                        | 
-|              | crash         |                        | 
-|              | cross         |                        | 
-|              | cry           |                        | 
-|              | cup           |                        | 
-|              | cupboard      |                        | 
-|              | cut           |                        | 
-|              | dance         |                        | 
-|              | danger        |                        | 
-|              | dangerous     |                        | 
-|              | dark          |                        | 
-|              | daughter      |                        | 
-|              | day           |                        | 
-|              | dead          |                        | 
-|              | decide        |                        | 
-|              | decrease      |                        | 
-|              | deep          |                        | 
-|              | deer          |                        | 
-|              | depend        |                        | 
-|              | desk          |                        | 
-|              | destroy       |                        | 
-|              | develop       |                        | 
-|              | die           |                        | 
-|              | different     |                        | 
-|              | difficult     |                        | 
-|              | dinner        |                        | 
-|              | direction     |                        | 
-|              | dirty         |                        | 
-|              | discover      |                        | 
-|              | dish          |                        | 
-|              | do            |                        | 
-|              | dog           |                        | 
-|              | door          |                        | 
-|              | double        |                        | 
-|              | down          |                        | 
-|              | draw          |                        | 
-|              | dream         |                        | 
-|              | dress         |                        | 
-|              | drink         |                        | 
-|              | drive         |                        | 
-|              | drop          |                        | 
-|              | dry           |                        | 
-|              | duck          |                        | 
-|              | dust          |                        | 
-|              | duty          |                        | 
-|              | each          |                        | 
-|              | ear           |                        | 
-|              | early         |                        | 
-|              | earn          |                        | 
-|              | earth         |                        | 
-|              | east          |                        | 
-|              | easy          |                        | 
-|              | eat           |                        | 
-|              | education     |                        | 
-|              | effect        |                        | 
-|              | egg           |                        | 
-| thuo         | eight         | number                 | 
-|              | either        |                        | 
-|              | electric      |                        | 
-|              | elephant      |                        | 
-|              | else          |                        | 
-|              | empty         |                        | 
-|              | end           |                        | 
-|              | enemy         |                        | 
-|              | enjoy         |                        | 
-|              | enough        |                        | 
-|              | enter         |                        | 
-|              | equal         |                        | 
-|              | entrance      |                        | 
-|              | escape        |                        | 
-|              | even          |                        | 
-|              | evening       |                        | 
-|              | event         |                        | 
-|              | ever          |                        | 
-|              | every         |                        | 
-|              | everyone      |                        | 
-|              | exact         |                        | 
-|              | everybody     |                        | 
-|              | examination   |                        | 
-|              | example       |                        | 
-|              | except        |                        | 
-|              | excited       |                        | 
-|              | exercise      |                        | 
-|              | expect        |                        | 
-|              | expensive     |                        | 
-|              | explain       |                        | 
-|              | extremely     |                        | 
-|              | eye           |                        | 
-|              | face          |                        | 
-|              | fact          |                        | 
-|              | fail          |                        | 
-|              | fall          |                        | 
-|              | false         |                        | 
-|              | family        |                        | 
-|              | famous        |                        | 
-|              | far           |                        | 
-|              | farm          |                        | 
-|              | father        |                        | 
-|              | fast          |                        | 
-|              | fat           |                        | 
-|              | fault         |                        | 
-|              | fear          |                        | 
-|              | feed          |                        | 
-|              | feel          |                        | 
-|              | female        |                        | 
-|              | fever         |                        | 
-|              | few           |                        | 
-|              | fight         |                        | 
-|              | fill          |                        | 
-|              | film          |                        | 
-|              | find          |                        | 
-|              | fine          |                        | 
-|              | finger        |                        | 
-|              | finish        |                        | 
-|              | fire          |                        | 
-|              | first         |                        | 
-|              | fish          |                        | 
-|              | fit           |                        | 
-| whue         | five          |  number                | 
-|              | fix           |                        | 
-|              | flag          |                        | 
-|              | flat          |                        | 
-|              | float         |                        | 
-|              | floor         |                        | 
-|              | flour         |                        | 
-|              | flower        |                        | 
-|              | fly           |                        | 
-|              | fold          |                        | 
+|              | cold          | adj noun adv           | 
+|              | collect       | verb adj adv           | 
+|              | colour        | noun adj verb          | 
+|              | comb          | noun verb              | 
+|              | comfortable   | adj                    | 
+|              | common        | adj                    | 
+|              | compare       | verb noun              | 
+|              | come          | verb                   | 
+|              | complete      | adj verb               | 
+|              | computer      | noun                   | 
+|              | condition     | noun verb              | 
+|              | continue      | verb                   | 
+|              | control       | verb noun              | 
+|              | cook          | verb noun              | 
+|              | cool          | adj adv                | 
+|              | copper        | noun adj verb          | 
+|              | corn          | noun verb              | 
+|              | corner        | noun adj verb          | 
+|              | correct       | verb adj               | 
+|              | cost          | noun verb              | 
+|              | contain       | verb                   | 
+|              | count         | verb noun              | 
+|              | country       | noun adj               | 
+|              | course        | noun verb              | 
+|              | cover         | verb noun              | 
+|              | crash         | verb noun              | 
+|              | cross         | noun verb              | 
+|              | cry           | verb noun              | 
+|              | cup           | noun verb              | 
+|              | cupboard      | noun                   | 
+|              | cut           | verb adj noun          | 
+|              | dance         | verb noun              | 
+|              | danger        | noun                   | 
+|              | dangerous     | adj                    | 
+|              | dark          | adj noun verb          | 
+|              | daughter      | noun adj               | 
+|              | day           | noun                   | 
+|              | dead          | adj noun adv           | 
+|              | decide        | verb                   | 
+|              | decrease      | verb noun              | 
+|              | deep          | adj noun adv           | 
+|              | deer          | noun                   | 
+|              | depend        | verb                   | 
+|              | desk          | noun adj               | 
+|              | destroy       | verb                   | 
+|              | develop       | verb                   | 
+|              | die           | verb                   | 
+|              | different     | adj                    | 
+|              | difficult     | adj                    | 
+|              | dinner        | noun                   | 
+|              | direction     | noun                   | 
+|              | dirty         | adj verb adv           | 
+|              | discover      | verb                   | 
+|              | dish          | noun verb              | 
+|              | do            | verb                   | 
+|              | dog           | noun                   | 
+|              | door          | noun                   | 
+|              | double        | adj noun verb          | 
+|              | down          | adv prep adj           | 
+|              | draw          | verb noun              | 
+|              | dream         | noun verb              | 
+|              | dress         | noun adj verb          | 
+|              | drink         | noun verb              | 
+|              | drive         | verb noun              | 
+|              | drop          | noun verb              | 
+|              | dry           | adj verb               | 
+|              | duck          | noun verb              | 
+|              | dust          | noun verb              | 
+|              | duty          | noun                   | 
+|              | each          | adj pro adv            | 
+|              | ear           | noun                   | 
+|              | early         | adv adj                | 
+|              | earn          | verb                   | 
+|              | earth         | noun verb              | 
+|              | east          | noun adj verb          | 
+|              | easy          | adj adv                | 
+|              | eat           | verb                   | 
+|              | education     | noun                   | 
+|              | effect        | noun verb              | 
+|              | egg           | noun                   | 
+| thuo         | eight         | noun adj               | 
+|              | either        | adj pro conj           | 
+|              | electric      | adj noun               | 
+|              | elephant      | noun                   | 
+|              | else          | adj adv                | 
+|              | empty         | adj verb               | 
+|              | end           | noun verb              | 
+|              | enemy         | noun adj               | 
+|              | enjoy         | verb                   | 
+|              | enough        | adj pro adv            | 
+|              | enter         | verb                   | 
+|              | equal         | adj verb               | 
+|              | entrance      | noun                   | 
+|              | escape        | verb noun              | 
+|              | even          | adj adv verb           | 
+|              | evening       | noun adj               | 
+|              | event         | noun                   | 
+|              | ever          | adv adj                | 
+|              | every         | adj                    | 
+|              | everyone      | pro                    | 
+|              | exact         | adj verb               | 
+|              | everybody     | pro                    | 
+|              | examination   | noun                   | 
+|              | example       | noun                   | 
+|              | except        | prep conj              | 
+|              | excited       | adj                    | 
+|              | exercise      | noun verb              | 
+|              | expect        | verb                   | 
+|              | expensive     | adj                    | 
+|              | explain       | verb                   | 
+|              | extremely     | adv                    | 
+|              | eye           | noun verb              | 
+|              | face          | noun verb              | 
+|              | fact          | noun                   | 
+|              | fail          | verb                   | 
+|              | fall          | verb noun              | 
+|              | false         | adj adv                | 
+|              | family        | noun adj               | 
+|              | famous        | adj                    | 
+|              | far           | adv adj                | 
+|              | farm          | noun verb              | 
+|              | father        | noun verb              | 
+|              | fast          | adv adj noun           | 
+|              | fat           | adj noun verb          | 
+|              | fault         | noun verb              | 
+|              | fear          | noun verb              | 
+|              | feed          | verb noun              | 
+|              | feel          | verb noun              | 
+|              | female        | noun adj               | 
+|              | fever         | noun verb              | 
+|              | few           | adj noun pro           | 
+|              | fight         | noun verb              | 
+|              | fill          | verb noun              | 
+|              | film          | noun verb              | 
+|              | find          | verb noun              | 
+|              | fine          | adv adj verb           | 
+|              | finger        | noun verb              | 
+|              | finish        | verb noun              | 
+|              | fire          | noun verb              | 
+|              | first         | adj adv noun           | 
+|              | fish          | noun verb              | 
+|              | fit           | adj verb               | 
+| whue         | five          | noun adj               | 
+|              | fix           | verb noun              | 
+|              | flag          | noun verb              | 
+|              | flat          | adj noun verb          | 
+|              | float         | verb noun              | 
+|              | floor         | noun verb              | 
+|              | flour         | noun verb              | 
+|              | flower        | noun verb              | 
+|              | fly           | noun verb              | 
+|              | fold          | verb noun              | 
 | nosheo       | food          | noun                   | 
-|              | fool          |                        | 
-|              | foot          |                        | 
-|              | football      |                        | 
-| who          | for           | prep            | 
-|              | force         |                        | 
-|              | foreign       |                        | 
-|              | forest        |                        | 
-|              | forget        |                        | 
-|              | forgive       |                        | 
-|              | fork          |                        | 
-|              | form          |                        | 
-|              | fox           |                        | 
-| shea         | four          | number                 | 
-|              | free          |                        | 
+|              | fool          | noun verb              | 
+|              | foot          | noun verb              | 
+|              | football      | noun                   | 
+| who          | for           | prep conj              | 
+|              | force         | noun verb              | 
+|              | foreign       | adj                    | 
+|              | forest        | noun verb              | 
+|              | forget        | verb                   | 
+|              | forgive       | verb                   | 
+|              | fork          | noun verb              | 
+|              | form          | noun verb              | 
+|              | fox           | noun verb              | 
+| shea         | four          | noun adj               | 
+|              | free          | adj adv verb           | 
 |              | freedom       |                        | 
 |              | freeze        |                        | 
 |              | fresh         |                        | 
