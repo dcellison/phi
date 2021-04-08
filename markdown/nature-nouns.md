@@ -1,110 +1,107 @@
-| nouns
-| -----
-| air
-| animal
-| arctic
-| autumn
-| bank
-| bay
-| beach
-| blizzard
-| branch
-| bush
-| cave
-| cliff
-| climate
-| cloud
-| coast
-| continent
-| desert
-| dune
-| earth
-| earthquake
-| environment
-| eruption
-| field
-| fire
-| flame
-| flood
-| flower
-| fog
-| forest
-| freeze
-| fungus
-| galaxy
-| glacier
-| grass
-| ground
-| hail
-| hill
-| hole
-| hurricane
-| ice
-| island
-| jungle
-| lake
-| land
-| leaf
-| lightning
-| meadow
-| mineral
-| mist
-| moon
-| moss
-| mountain
-| mud
-| mushroom
-| nature
-| ocean
-| path
-| pebble
-| planet
-| plant
-| pond
-| rain
-| rainbow
-| rainforest
-| range
-| river
-| rock
-| sand
-| scenery
-| sea
-| seashell
-| season
-| shade
-| shore
-| shrubs
-| sky
-| sleet
-| smoke
-| snow
-| soil
-| spring
-| star
-| stone
-| storm
-| stream
-| summer
-| sun
-| sunlight
-| sunrise
-| sunset
-| sunshine
-| temperature
-| thunder
-| tornado
-| tree
-| tsunami
-| tunnel
-| universe
-| valley
-| valley
-| vegetable
-| water
-| waterfall
-| wave
-| wild
-| wind
-| winter
-| 
+air
+animal
+arctic
+autumn
+bank
+bay
+beach
+blizzard
+branch
+bush
+cave
+cliff
+climate
+cloud
+coast
+continent
+desert
+dune
+earth
+earthquake
+environment
+eruption
+field
+fire
+flame
+flood
+flower
+fog
+forest
+freeze
+fungus
+galaxy
+glacier
+grass
+ground
+hail
+hill
+hole
+hurricane
+ice
+island
+jungle
+lake
+land
+leaf
+lightning
+meadow
+mineral
+mist
+moon
+moss
+mountain
+mud
+mushroom
+nature
+ocean
+path
+pebble
+planet
+plant
+pond
+rain
+rainbow
+rainforest
+range
+river
+rock
+sand
+scenery
+sea
+seashell
+season
+shade
+shore
+shrubs
+sky
+sleet
+smoke
+snow
+soil
+spring
+star
+stone
+storm
+stream
+summer
+sun
+sunlight
+sunrise
+sunset
+sunshine
+temperature
+thunder
+tornado
+tree
+tsunami
+tunnel
+universe
+valley
+valley
+vegetable
+water
+waterfall
+wave
+wild
+wind
+winter
