@@ -72,4 +72,14 @@
 |        | `//`         | run
 |        | `//`         | wait
 |        | `//`         | use
+
+## voice verbs
+
+|        | `//`         | whisper
 |        | `//`         | talk
+|        | `//`         | sing
+|        | `//`         | laugh
+|        | `//`         | cry
+|        | `//`         | scream
+|        | `//`         | shout
+|        | `//`         | yell
