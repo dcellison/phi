@@ -1,6 +1,6 @@
 # φ
 
-phi is a constructed language. the name _phi_ embodies the simplicity and softness of this language. Φ is also beauty in nature and mathematics. it is
+phi is a constructed language. its name embodies the simplicity and softness of this language. _phi_ (Φ) is also beauty in nature and mathematics. it is
 
 >the golden ratio, an irrational number with a value of approximately 1.618033988 which expresses the relationship that the sum of two quantities is to the larger quantity as the larger is to the smaller. - [wiktionary](https://en.wiktionary.org/wiki/%CF%86)
 
