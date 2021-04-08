@@ -1,0 +1,30 @@
+# particles
+
+## parts of speech
+
+| phi | ipa    | type
+| --  | ---    | ----
+| si  | `/si/` | subject
+| na  | `/na/` | object
+| te  | `/te/` | verb
+| lo  | `/lo/` | plural
+| hu  | `/hu/` | question
+| me  | `/ne/` | not
+
+* try multiple plurals
+  * maybe for "several" or a few"
+* try particles for animals, human beings, for abstract nouns, etc. Many languages make a distinction based on animacy, between animate and inanimate objects (people and animals vs. plants and non-living objects, or the like)
+
+## tense
+
+| phi | ipa    | type                | example
+| --- | ---    | ----                | -------
+| li  | `/li/` | simple past         | did
+| ta  | `/ta/` | simple present      | do
+| se  | `/se/` | simple future       | will do
+| wo  | `/wo/` | simple future       | wants to do
+| lu  | `/lu/` | present progressive | doing
+| ni  | `/ni/` | present perfect     | has done
+
+* maybe no perfect tense
+* south africa and southeast asia use "already" or "finish"
