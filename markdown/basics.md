@@ -2,6 +2,7 @@
 | -----
 | air
 | animal
+| animate
 | arctic
 | autumn
 | bank
@@ -48,6 +49,7 @@
 | hole
 | hurricane
 | ice
+| inanimate
 | insect
 | island
 | jungle
