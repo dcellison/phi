@@ -565,62 +565,62 @@
 |              | music         | noun                   | 
 |              | must          | verb                   | 
 |              | my            | prn                    | 
-|              | name          |                        | 
-|              | narrow        |                        | 
-|              | nation        |                        | 
-|              | nature        |                        | 
-|              | near          |                        | 
-|              | nearly        |                        | 
-|              | neck          |                        | 
-|              | need          |                        | 
-|              | needle        |                        | 
-|              | neighbour     |                        | 
-|              | neither       |                        | 
-|              | net           |                        | 
-|              | never         |                        | 
-|              | new           |                        | 
-|              | news          |                        | 
-|              | newspaper     |                        | 
-|              | next          |                        | 
-|              | nice          |                        | 
+|              | name          | noun verb              | 
+|              | narrow        | adj verb               | 
+|              | nation        | noun                   | 
+|              | nature        | noun                   | 
+|              | near          | adv adj prep           | 
+|              | nearly        | adv                    | 
+|              | neck          | noun                   | 
+|              | need          | noun verb              | 
+|              | needle        | noun verb              | 
+|              | neighbour     | noun                   | 
+|              | neither       | conj adv prn           | 
+|              | net           | noun verb              | 
+|              | never         | adv                    | 
+|              | new           | adj                    | 
+|              | news          | noun                   | 
+|              | newspaper     | noun                   | 
+|              | next          | adj adv                | 
+|              | nice          | adj                    | 
 |              | night         |                        | 
 | phoa         | nine          | number                 | 
-|              | no            |                        | 
-|              | noble         |                        | 
-|              | noise         |                        | 
-|              | none          |                        | 
-|              | nor           |                        | 
-|              | north         |                        | 
-|              | nose          |                        | 
-|              | not           |                        | 
-|              | nothing       |                        | 
-|              | notice        |                        | 
-|              | now           |                        | 
-|              | number        |                        | 
-|              | obey          |                        | 
-|              | object        |                        | 
-|              | ocean         |                        | 
+|              | no            | noun adj               | 
+|              | noble         | adj                    | 
+|              | noise         | noun                   | 
+|              | none          | prn                    | 
+|              | nor           | conj                   | 
+|              | north         | noun adj adv           | 
+|              | nose          | noun                   | 
+|              | not           | adv                    | 
+|              | nothing       | noun adv               | 
+|              | notice        | noun verb              | 
+|              | now           | adv conj noun          | 
+|              | number        | noun verb              | 
+|              | obey          | verb                   | 
+|              | object        | noun verb              | 
+|              | ocean         | noun                   | 
 | so           | of            | prep                   | 
-|              | off           |                        | 
-|              | offer         |                        | 
-|              | office        |                        | 
-|              | often         |                        | 
-|              | oil           |                        | 
-|              | old           |                        | 
-| hoi          | on            | prep                   | 
-| wheo         | one           | number                 | 
-|              | only          |                        | 
-|              | open          |                        | 
-|              | opposite      |                        | 
-|              | or            |                        | 
+|              | off           | adv prep adv           | 
+|              | offer         | verb noun              | 
+|              | office        | noun                   | 
+|              | often         | adv                    | 
+|              | oil           | noun verb adj          | 
+|              | old           | adj noun               | 
+| hoi          | on            | prep adv adj           | 
+| wheo         | one           | noun adj prn           | 
+|              | only          | adv adj                | 
+|              | open          | adj verb               | 
+|              | opposite      | adj noun prep          | 
+|              | or            | conj                   | 
 | sathe        | orange        | adj noun               | 
-|              | order         |                        | 
-|              | other         |                        | 
-|              | our           |                        | 
-|              | out           |                        | 
-|              | outside       |                        | 
-|              | over          |                        | 
-|              | own           |                        | 
+|              | order         | noun verb              | 
+|              | other         | adj noun prn           | 
+|              | our           | prn                    | 
+|              | out           | adj adv prep           | 
+|              | outside       | noun adj adv           | 
+|              | over          | prep adv adj           | 
+|              | own           | adj verb               | 
 |              | page          |                        | 
 |              | pain          |                        | 
 |              | paint         |                        | 
