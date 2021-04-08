@@ -1,6 +1,6 @@
-## orthography
+# orthography
 
-### consonants
+## consonants
 
 | allophone | grapheme | description
 | --------- | -------- | -----------
@@ -19,7 +19,7 @@
 | `[ʍ]`     | wh       | voiceless labialized velar approximant
 | `[w]`     | w        | voiced labialized velar approximant
 
-### vowels
+## vowels
 
 | allophone | grapheme | description
 | --------- | -------- | -----------
@@ -29,7 +29,7 @@
 | `[o̞]`     | o        | mid back rounded
 | `[ä]`     | a        | open central unrounded
 
-### consonant blends
+## consonant blends
 
 | allophone | grapheme
 | --------- | --------
@@ -38,7 +38,7 @@
 | `[sl]`    | sl
 | `[sw]`    | sw
 
-### vowel diphthongs
+## vowel diphthongs
 
 | allophone | grapheme
 | --------- | --------

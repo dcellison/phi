@@ -1,4 +1,4 @@
-## adverbs
+# adverbs
 
 | phi | ipa      | eng
 | --- | ---      | ---

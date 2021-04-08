@@ -1,4 +1,4 @@
-## adjectives
+# adjectives
 
 ## colours
 
