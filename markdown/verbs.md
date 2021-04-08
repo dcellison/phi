@@ -75,6 +75,8 @@
 
 ## voice verbs
 
+| phi    | ipa          | eng
+| ---    | ---          | -------
 |        | `//`         | whisper
 |        | `//`         | talk
 |        | `//`         | sing
