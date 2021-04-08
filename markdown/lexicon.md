@@ -621,20 +621,20 @@
 |              | outside       | noun adj adv           | 
 |              | over          | prep adv adj           | 
 |              | own           | adj verb               | 
-|              | page          |                        | 
-|              | pain          |                        | 
-|              | paint         |                        | 
-|              | pair          |                        | 
-|              | pan           |                        | 
-|              | paper         |                        | 
-|              | parent        |                        | 
-|              | park          |                        | 
-|              | part          |                        | 
-|              | partner       |                        | 
-|              | party         |                        | 
-|              | pass          |                        | 
-|              | past          |                        | 
-|              | path          |                        | 
+|              | page          | noun                   | 
+|              | pain          | noun                   | 
+|              | paint         | noun verb              | 
+|              | pair          | noun verb              | 
+|              | pan           | noun                   | 
+|              | paper         | noun                   | 
+|              | parent        | noun adj verb          | 
+|              | park          | noun verb              | 
+|              | part          | noun verb              | 
+|              | partner       | noun verb              | 
+|              | party         | noun adj               | 
+|              | pass          | verb noun              | 
+|              | past          | adj noun adv           | 
+|              | path          | noun                   | 
 |              | pay           |                        | 
 |              | peace         |                        | 
 |              | pen           |                        | 
