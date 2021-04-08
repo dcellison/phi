@@ -1,5 +1,5 @@
-| nature
-| ------
+| nouns
+| -----
 | air
 | animal
 | arctic
