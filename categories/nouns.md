@@ -1,19 +1,6 @@
 # nouns
 
-## general
-
-| phi     | ipa         | eng
-| ---     | ---         | -------
-| liowha  | `/li.o.ʍa/` | liquid *
-| sashia  | `/sa.ʃi.a/` | water
-| lewhi   | `/le.ʍi/`   | lake *
-| methu   | `/me.θu/`   | friend
-| nosheo  | `/no.ʃe.o/` | food
-| whusha  | `/ʍu.ʃa/`   | wind
-| lipha   | `/li.ɸa/`   | tree
-| huwha   | `/hu.ʍa/`   | sky
-| ropho   | `/ro.ɸo/`   | health
-| shishau | `/ʃi.ʃa.u/` | good
+## numbers
 
 | phi   | ipa      | eng
 | ---   | ---      | -------
@@ -27,6 +14,21 @@
 | shae  | `/ʃa.e/` | seven
 | thuo  | `/θu.o/` | eight
 | phoa  | `/ɸo.a/` | nine
+
+## general
+
+| phi     | ipa         | eng
+| ---     | ---         | -------
+| liowha  | `/li.o.ʍa/` | liquid
+| sashia  | `/sa.ʃi.a/` | water
+| lewhi   | `/le.ʍi/`   | lake
+| methu   | `/me.θu/`   | friend
+| nosheo  | `/no.ʃe.o/` | food
+| whusha  | `/ʍu.ʃa/`   | wind
+| lipha   | `/li.ɸa/`   | tree
+| huwha   | `/hu.ʍa/`   | sky
+| ropho   | `/ro.ɸo/`   | health
+| shishau | `/ʃi.ʃa.u/` | good
 
 matter
 energy
@@ -42,38 +44,37 @@ mass
 density
 volume
 
-solids:
-rock
-sand
-glass
-ice
-wood
+solids
+  rock
+  sand
+  glass
+  ice
+  wood
 
-liquids:
-blood
-honey
-water
-oil
-milk
-alcohol
+liquids
+  blood
+  honey
+  water
+  oil
+  milk
+  alcohol
 
-gases:
-air
-natural gas
-hydrogen
-carbon dioxide
-steam
+gases
+  air
+  natural gas
+  hydrogen
+  carbon dioxide
+  steam
 
-plasmas:
-lightning
-neon
-ionosphere
-sun’s corona
-aurora
-static electricity
-stars
-nebula
-
+plasmas
+  lightning
+  neon
+  ionosphere
+  sun’s corona
+  aurora
+  static electricity
+  stars
+  nebula
 
 air
 animal

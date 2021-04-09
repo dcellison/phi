@@ -2,6 +2,8 @@
 
 ## consonants
 
+### single
+
 | allophone | grapheme | description
 | --------- | -------- | -----------
 | `[p]`     | p        | voiceless bilabial plosive
@@ -10,16 +12,32 @@
 | `[n]`     | n        | voiced alveolar nasal
 | `[ɾ]`     | r        | voiced alveolar tap or flap
 | `[r]`     | r        | voiced alveolar trill
-| `[ɸ]`     | ph       | voiceless bilabial fricative
-| `[θ]`     | th       | voiceless dental fricative
 | `[s]`     | s        | voiceless alveolar fricative
-| `[ʃ]`     | sh       | voiceless postalveolar fricative
 | `[h]`     | h        | voiceless glottal fricative
 | `[l]`     | l        | voiced alveolar lateral approximant
-| `[ʍ]`     | wh       | voiceless labialized velar approximant
 | `[w]`     | w        | voiced labialized velar approximant
 
+### double
+
+| allophone | grapheme | description
+| --------- | -------- | -----------
+| `[ɸ]`     | ph       | voiceless bilabial fricative
+| `[θ]`     | th       | voiceless dental fricative
+| `[ʃ]`     | sh       | voiceless postalveolar fricative
+| `[ʍ]`     | wh       | voiceless labialized velar approximant
+
+### blends
+
+| allophone | grapheme
+| --------- | --------
+| `[sp]`    | sp
+| `[st]`    | st
+| `[sl]`    | sl
+| `[sw]`    | sw
+
 ## vowels
+
+### monophthongs
 
 | allophone | grapheme | description
 | --------- | -------- | -----------
@@ -29,16 +47,7 @@
 | `[o̞]`     | o        | mid back rounded
 | `[ä]`     | a        | open central unrounded
 
-## consonant blends
-
-| allophone | grapheme
-| --------- | --------
-| `[sp]`    | sp
-| `[st]`    | st
-| `[sl]`    | sl
-| `[sw]`    | sw
-
-## vowel diphthongs
+### diphthongs
 
 | allophone | grapheme
 | --------- | --------
