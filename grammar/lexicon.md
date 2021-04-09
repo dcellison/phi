@@ -258,7 +258,7 @@
 |              | education     | noun                   | 
 |              | effect        | noun verb              | 
 |              | egg           | noun                   | 
-| thuo         | eight         | noun adj               | 
+| thia         | eight         | noun adj               | 
 |              | either        | adj pron conj          | 
 |              | electric      | adj noun               | 
 |              | elephant      | noun                   | 
@@ -330,7 +330,7 @@
 |              | flower        | noun verb              | 
 |              | fly           | noun verb              | 
 |              | fold          | verb noun              | 
-| nosheo       | food          | noun                   | 
+| noshea       | food          | noun                   | 
 |              | fool          | noun verb              | 
 |              | foot          | noun verb              | 
 |              | football      | noun                   | 
@@ -350,7 +350,7 @@
 |              | fresh         | adj noun verb adv      | 
 | methu        | friend        | noun verb              | 
 |              | friendly      | adj adv                | 
-| nio          | from          | prep                   | 
+| nie          | from          | prep                   | 
 |              | front         | noun adj verb          | 
 |              | fruit         | noun verb              | 
 |              | full          | adj adv verb           | 
@@ -373,7 +373,7 @@
 |              | goat          | noun                   | 
 |              | god           | noun                   | 
 |              | gold          | noun adj               | 
-| shishau      | good          | adj noun               | 
+| shishoa      | good          | adj noun               | 
 |              | goodbye       | int                    | 
 | 🛇           | grandfather   | noun                   | 
 | 🛇           | grandmother   | noun                   | 
@@ -381,7 +381,7 @@
 |              | grave         | noun adj               | 
 |              | great         | adj adv noun           | 
 | hashe        | green         | adj noun verb          | 
-|              | grey          | adj noun verb          | 
+| ruwha        | grey          | adj noun verb          | 
 |              | ground        | noun adj verb          | 
 |              | group         | noun verb              | 
 |              | grow          | verb                   | 
@@ -499,7 +499,7 @@
 | lephe        | like          | adj prep adv           | 
 |              | lion          | noun                   | 
 |              | lip           | noun adj               | 
-| liowha       | liquid*       | noun adj               | 
+| liewha       | liquid*       | noun adj               | 
 |              | list          | adj noun               | 
 |              | listen        | verb                   | 
 |              | little        | adj adv noun           | 
@@ -600,7 +600,7 @@
 |              | obey          | verb                   | 
 |              | object        | noun verb              | 
 |              | ocean         | noun                   | 
-| so           | of            | prep                   | 
+| soa          | of            | prep                   | 
 |              | off           | adv prep adv           | 
 |              | offer         | verb noun              | 
 |              | office        | noun                   | 
@@ -608,7 +608,7 @@
 |              | oil           | noun verb adj          | 
 |              | old           | adj noun               | 
 | hoi          | on            | prep adv adj           | 
-| wheo         | one           | noun adj pron          | 
+| whea         | one           | noun adj pron          | 
 |              | only          | adv adj                | 
 |              | open          | adj verb               | 
 |              | opposite      | adj noun prep          | 
@@ -803,7 +803,7 @@
 |              | sink          |                        | 
 | 🛇           | sister        |                        | 
 |              | sit           |                        | 
-| phau         | six           | number                 | 
+| phui         | six           | number                 | 
 |              | size          |                        | 
 |              | skill         |                        | 
 |              | skin          |                        | 
@@ -917,7 +917,7 @@
 |              | though        |                        | 
 |              | thousand*     |                        | 
 |              | threat        |                        | 
-| theu         | three         | number                 | 
+| thoa         | three         | number                 | 
 |              | tidy          |                        | 
 |              | tie           |                        | 
 |              | title         |                        | 

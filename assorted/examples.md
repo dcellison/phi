@@ -28,7 +28,7 @@
 | ---- | --------
 | eng  | they like food
 | lit  | (subject/plural) it (object) food (verb) like
-| phi  | (si lo sha) (na nosheo) (te lephe)
+| phi  | (si lo sha) (na noshea) (te lephe)
 
 | type | sentence
 | ---- | --------
@@ -46,22 +46,22 @@
 | ---- | --------
 | eng  | i liked my friend
 | lit  | (subject) me (object) friend of me (verb/past) like
-| phi  | (si mia) (na methu so mia) (te li lephe)
+| phi  | (si mia) (na methu soa mia) (te li lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | the food is ours
 | lit  | (subject) food (object/plural) of us (verb) is
-| phi  | (si noshea) (na so lo mia) (te phi)
+| phi  | (si noshea) (na soa lo mia) (te phi)
 
 | type | sentence
 | ---- | --------
 | eng  | our food is good
 | lit  | (subject/plural) food of us (object) good (verb) is
-| phi  | (si noshea so lo mia) (na shishau) (te phi)
+| phi  | (si noshea soa lo mia) (na shishoa) (te phi)
 
 | type | sentence
 | ---- | --------
 | eng  | you are in good health?
 | lit  | (question (subject) you (object) health good (verb/happening) are)
-| phi  | (hu (si thi) (ropho shishau) (te lu phe))
+| phi  | (hu (si thi) (ropho shishoa) (te lu phe))

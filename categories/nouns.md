@@ -5,30 +5,30 @@
 | phi   | ipa      | eng
 | ---   | ---      | -------
 | thoi  | `/θo.i/` | zero
-| wheo  | `/ʍe.o/` | one
+| whea  | `/ʍe.o/` | one
 | phie  | `/ɸi.e/` | two
-| theu  | `/θe.u/` | three
+| thoa  | `/θe.u/` | three
 | shea  | `/ʃe.a/` | four
 | whue  | `/ʍu.e/` | five
-| phau  | `/ɸa.u/` | six
+| phui  | `/ɸa.u/` | six
 | shae  | `/ʃa.e/` | seven
-| thuo  | `/θu.o/` | eight
+| thia  | `/θu.o/` | eight
 | phoa  | `/ɸo.a/` | nine
 
 ## general
 
 | phi     | ipa         | eng
 | ---     | ---         | -------
-| liowha  | `/li.o.ʍa/` | liquid
+| liewha  | `/li.e.ʍa/` | liquid
 | sashia  | `/sa.ʃi.a/` | water
 | lewhi   | `/le.ʍi/`   | lake
 | methu   | `/me.θu/`   | friend
-| nosheo  | `/no.ʃe.o/` | food
+| noshea  | `/no.ʃe.o/` | food
 | whusha  | `/ʍu.ʃa/`   | wind
 | lipha   | `/li.ɸa/`   | tree
 | huwha   | `/hu.ʍa/`   | sky
 | ropho   | `/ro.ɸo/`   | health
-| shishau | `/ʃi.ʃa.u/` | good
+| shishoa | `/ʃi.ʃa.u/` | good
 
 matter
 energy

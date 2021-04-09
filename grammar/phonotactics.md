@@ -8,7 +8,7 @@
 | B     | `sp/st/sl/sw/`
 | F     | `ph/th/sh/wh`
 | V     | `i/u/e/o/a`
-| D     | `[VV]^ii^uu^ee^oo^aa`
+| D     | `[VV]^ii^uu^ee^oo^aa^iu^io^uo^eu^eo^ou^au^ao`
 
 ## syllable structures
 
@@ -30,7 +30,7 @@ this pattern tends to produce soft words of two to four syllables. there are no 
 
 examples:
 ```
-nouphu tawho whiphi paethe ruetha phowho riowhio luishe waiwhai
+thiwho weisha suphai phuwhei hoithi sathie laithia thasho ruwho teathua
 ```
 
 ### verbs
@@ -41,7 +41,7 @@ this pattern produces words of two or three syllables. these words include conso
 
 examples:
 ```
-mipa nora tumu wuesu stuahe pearu stene ripu swiapu nuipu hauni
+niwu sliti stoti sosa pusa sotu stuhu riepo spona sipa spaha swiri spowe
 ```
 
 ### short words
@@ -52,7 +52,7 @@ these patterns produce words of two syllables.  they are also used for very comm
 
 examples:
 ```
-thele theshi lushe phati taphe rila whori whunu pewhe thira shopha rutho
+lori phetho phote tewo rithi rusu shipha muma phipi repi ramu shiphi luno ratho
 ```
 
 ### utility words
@@ -61,36 +61,23 @@ these words are used for everything else in the language, like particles, pronou
 
 `[F][D]`
 ```
-phae phai phao phau phea phei pheo pheu phia phie
-phio phiu phoa phoe phoi phou phua phue phui phuo
-shae shai shao shau shea shei sheo sheu shia shie
-shio shiu shoa shoe shoi shou shua shue shui shuo
-thae thai thao thau thea thei theo theu thia thie
-thio thiu thoa thoe thoi thou thua thue thui thuo
-whae whai whao whau whea whei wheo wheu whia whie
-whio whiu whoa whoe whoi whou whua whue whui whuo
+phae phai phea phei phia phie phoa phoe phoi phua phue phui
+shae shai shea shei shia shie shoa shoe shoi shua shue shui
+thae thai thea thei thia thie thoa thoe thoi thua thue thui
+whae whai whea whei whia whie whoa whoe whoi whua whue whui
 ```
 
 `[C][D]`
 ```
-hae hai hao hau hea hei heo heu hia hie
-hio hiu hoa hoe hoi hou hua hue hui huo
-lae lai lao lau lea lei leo leu lia lie
-lio liu loa loe loi lou lua lue lui luo
-mae mai mao mau mea mei meo meu mia mie
-mio miu moa moe moi mou mua mue mui muo
-nae nai nao nau nea nei neo neu nia nie
-nio niu noa noe noi nou nua nue nui nuo
-pae pai pao pau pea pei peo peu pia pie
-pio piu poa poe poi pou pua pue pui puo
-rae rai rao rau rea rei reo reu ria rie
-rio riu roa roe roi rou rua rue rui ruo
-sae sai sao sau sea sei seo seu sia sie
-sio siu soa soe soi sou sua sue sui suo
-tae tai tao tau tea tei teo teu tia tie
-tio tiu toa toe toi tou tua tue tui tuo
-wae wai wao wau wea wei weo weu wia wie
-wio wiu woa woe woi wou wua wue wui wuo
+hae hai hea hei hia hie hoa hoe hoi hua hue hui
+lae lai lea lei lia lie loa loe loi lua lue lui
+mae mai mea mei mia mie moa moe moi mua mue mui
+nae nai nea nei nia nie noa noe noi nua nue nui
+pae pai pea pei pia pie poa poe poi pua pue pui
+rae rai rea rei ria rie roa roe roi rua rue rui
+sae sai sea sei sia sie soa soe soi sua sue sui
+tae tai tea tei tia tie toa toe toi tua tue tui
+wae wai wea wei wia wie woa woe woi wua wue wui
 ```
 prepositions:
 `hoi nea lia mae nio`

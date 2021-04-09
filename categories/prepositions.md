@@ -9,7 +9,7 @@
 | who | `/ʍo/`   | for
 | mae | `/ma.e/` | with
 | whi | `/ʍi/`   | at
-| so  | `/so/`   | of
-| nio | `/nio/`  | from
+| soa | `/so.a/` | of
+| nie | `/ni.e/` | from
 | phu | `/ɸu/`   | as
 | hea | `/he.a/` | about
