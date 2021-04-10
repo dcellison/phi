@@ -2,21 +2,9 @@
 
 | type | sentence
 | ---- | --------
-| eng  | we love the orange trees
-| lit  | (subject/plural) me (object/plural) tree orange (verb) love
-| phi  | (si lo mia) (na lo lipha sathe) (te lothea)
-
-| type | sentence
-| ---- | --------
 | eng  | i love you
 | lit  | (subject) me (object) you (verb) love
 | phi  | (si mia) (na thi) (te lothea)
-
-| type | sentence
-| ---- | --------
-| eng  | i love you (plural)
-| lit  | (subject) me (object/plural) you (verb) love
-| phi  | (si mia) (na lo thi) (te lothea)
 
 | type | sentence
 | ---- | --------
@@ -65,3 +53,9 @@
 | eng  | are you in good health?
 | lit  | (question (subject) you (object) health good (verb/happening) are)
 | phi  | (hu (si thi) (ropho shishoa) (te lu phe))
+
+| type | sentence
+| ---- | --------
+| eng  | we love the orange trees
+| lit  | (subject/plural) me (object/plural) tree orange (verb) love
+| phi  | (si lo mia) (na lo lipha sathe) (te lothea)
