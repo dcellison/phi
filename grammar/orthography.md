@@ -19,6 +19,8 @@
 
 ### double
 
+#### this is the complete set of consonant doubles that are alowed in φ
+
 | allophone | grapheme | description
 | --------- | -------- | -----------
 | `[ɸ]`     | ph       | voiceless bilabial fricative
@@ -27,6 +29,8 @@
 | `[ʍ]`     | wh       | voiceless labialized velar approximant
 
 ### blends
+
+#### this is the complete set of consonant blends that are alowed in φ
 
 | allophone | grapheme
 | --------- | --------
@@ -48,6 +52,8 @@
 | `[ä]`     | a        | open central unrounded
 
 ### diphthongs
+
+#### this is the complete set of consonant blends that are alowed in φ
 
 | allophone | grapheme
 | --------- | --------
