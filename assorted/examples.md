@@ -62,6 +62,6 @@
 
 | type | sentence
 | ---- | --------
-| eng  | you are in good health?
+| eng  | are you in good health?
 | lit  | (question (subject) you (object) health good (verb/happening) are)
 | phi  | (hu (si thi) (ropho shishoa) (te lu phe))
