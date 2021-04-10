@@ -30,7 +30,7 @@
 
 ### blends
 
-these are the valid consonant blends in φ.
+these are the only valid consonant blends in φ.
 
 | allophone | grapheme
 | --------- | --------
@@ -53,7 +53,7 @@ these are the valid consonant blends in φ.
 
 ### diphthongs
 
-these are the valid vowel diphthongs in φ.
+these are the only valid vowel diphthongs in φ.
 
 | allophone | grapheme
 | --------- | --------
