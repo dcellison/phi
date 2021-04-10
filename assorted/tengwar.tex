@@ -1,23 +1,35 @@
-\documentclass{minimal}
-\title{Examples of Phi rendered in Tengwar}
+\documentclass{article}
+\usepackage[annatar]{tengwarscript}
+\usepackage[utf8]{inputenc}
+
+\title{Examples of Phi sentences rendered in Tengwar}
 \author{Daniel Ellison}
 \date{\today}
-\usepackage[annatar]{tengwarscript}
+
 \begin{document}
-\tengwarannatar[4]
-{
-% we love you
+\maketitle
+\section{Examples}
+
+I love you -
+\emph{si mia na thi te lothea}:
 \Tsilmenuquerna\TTdot % si
-\Tlambe\TTrightcurl % lo
 \Tmalta\TTdot\TTthreedotsbelow % mia
 \Tnuumen\TTthreedots % na
 \Tthuule\TTdot % thi
 \Ttinco\TTacute % te
 \Tlambe\TTrightcurl\Tthuule\TTacute\TTthreedotsbelow % lothea
-}
 \\
-{
-% they like food
+The sky is blue -
+\emph{si huwha na mipho te phi}:
+\Tsilmenuquerna\TTdot % si
+\Thyarmen\TTleftcurl\Thwesta\TTthreedots % huwha
+\Tnuumen\TTthreedots % na
+\Tmalta\TTdot\Tformen\TTrightcurl % mipho
+\Ttinco\TTacute % te
+\Tformen\TTdot % phi
+\\
+They like food -
+\emph{si lo sha na noshea te lephe}:
 \Tsilmenuquerna\TTdot % si
 \Tlambe\TTrightcurl % lo
 \Taha\TTthreedots % sha
@@ -25,10 +37,74 @@
 \Tnuumen\TTrightcurl\Taha\TTacute\TTthreedotsbelow % noshea
 \Ttinco\TTacute % te
 \Tlambe\TTacute\Tformen\TTacute % lephe
-}
 \\
-{
-% we love the orange trees
+I like it -
+\emph{si mia na sha te lephe}:
+\Tsilmenuquerna\TTdot % si
+\Tmalta\TTdot\TTthreedotsbelow % mia
+\Tnuumen\TTthreedots % na
+\Taha\TTthreedots % sha
+\Ttinco\TTacute % te
+\Tlambe\TTacute\Tformen\TTacute % lephe
+\\
+I do not like green -
+\emph{si mia na hashe te me lephe}:
+\Tsilmenuquerna\TTdot % si
+\Tmalta\TTdot\TTthreedotsbelow % mia
+\Tnuumen\TTthreedots % na
+\Thyarmen\TTthreedots\Taha\TTacute % hashe
+\Ttinco\TTacute % te
+\Tmalta\TTacute % me
+\Tlambe\TTacute\Tformen\TTacute % lephe
+\\
+I liked my friend -
+\emph{si mia na methu soa mia te li lephe}:
+\Tsilmenuquerna\TTdot % si
+\Tmalta\TTdot\TTthreedotsbelow % mia
+\Tnuumen\TTthreedots % na
+\Tmalta\TTacute\Tthuule\TTleftcurl % methu
+\Taha\TTrightcurl\TTthreedotsbelow % soa
+\Tmalta\TTdot\TTthreedotsbelow % mia
+\Ttinco\TTacute % te
+\Tlambe\TTdot % li
+\Tlambe\TTacute\Tformen\TTacute % lephe
+\\
+The food is ours -
+\emph{si noshea na soa lo mia te phi}:
+\Tsilmenuquerna\TTdot % si
+\Tnuumen\TTrightcurl\Taha\TTacute\TTthreedotsbelow % noshea
+\Tnuumen\TTthreedots % na
+\Taha\TTrightcurl\TTthreedotsbelow % soa
+\Tlambe\TTrightcurl % lo
+\Tmalta\TTdot\TTthreedotsbelow % mia
+\Ttinco\TTacute % te
+\Tformen\TTdot % phi
+\\
+Our food is good -
+\emph{si noshea soa lo mia na shishoa te phi}:
+\Tsilmenuquerna\TTdot % si
+\Tnuumen\TTrightcurl\Taha\TTacute\TTthreedotsbelow % noshea
+\Tsilme\TTrightcurl\TTthreedotsbelow % soa
+\Tlambe\TTrightcurl % lo
+\Tmalta\TTdot\TTthreedotsbelow % mia
+\Tnuumen\TTthreedots % na
+\Taha\TTdot\Taha\TTrightcurl\TTthreedotsbelow % shishoa
+\Ttinco\TTacute % te
+\Tformen\TTdot % phi
+\\
+Are you in good health? -
+\emph{hu si thi ropho shishoa te lu phe}:
+\Thyarmen\TTleftcurl % hu
+\Tsilmenuquerna\TTdot % si
+\Tthuule\TTdot % thi
+\Toore\TTrightcurl\Tformen\TTrightcurl % ropho
+\Taha\TTdot\Taha\TTrightcurl\TTthreedotsbelow % shishoa
+\Ttinco\TTacute % te
+\Tlambe\TTleftcurl % lu
+\Tformen\TTacute % phe
+\\
+We love the orange trees -
+\emph{si lo mia na lo lipha sathe te lothea}:
 \Tsilmenuquerna\TTdot % si
 \Tlambe\TTrightcurl % lo
 \Tmalta\TTdot\TTthreedotsbelow % mia
@@ -38,18 +114,5 @@
 \Tsilmenuquerna\TTthreedots\Tthuule\TTacute % sathe
 \Ttinco\TTacute % te
 \Tlambe\TTrightcurl\Tthuule\TTacute\TTthreedotsbelow % lothea
-}
-\\
-{
-% are you in good health?
-\Thyarmen\TTleftcurl % hu
-\Tsilmenuquerna\TTdot % si
-\Tthuule\TTdot % thi
-\Toore\TTrightcurl\Tformen\TTrightcurl % ropho
-\Taha\TTdot\Taha\TTrightcurl\TTthreedotsbelow % shishoa
-\Ttinco\TTacute % te
-\Tlambe\TTleftcurl % lu
-\Tformen\TTacute % phe
-}
-\\
 \end{document}
+%\tengwarannatar[1]
