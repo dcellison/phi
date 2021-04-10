@@ -19,7 +19,7 @@
 
 ### double
 
-#### this is the complete set of consonant doubles that are alowed in φ
+these are the only valid consonant doubles in φ
 
 | allophone | grapheme | description
 | --------- | -------- | -----------
