@@ -35,6 +35,6 @@
 * maybe no perfect tense
 * south africa and southeast asia use "already" or "finish"
 
-* investigate mayan's lack of tenses altogether
+* investigate yucatec maya's lack of tenses altogether
   * read paper "temporal anaphora in a tenseless language"
   * represented partially by "present progressive" above
