@@ -16,6 +16,6 @@
 
 |       | front | central | back
 | ----- | ----- | ------- | ----
-| close | i     |         | u
+| close | i     |         |  
 | mid   | e̞     |         | o̞
 | open  |       | ä       |

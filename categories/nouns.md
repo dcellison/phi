@@ -9,8 +9,8 @@
 | phie  | `/ɸi.e/` | two
 | thoa  | `/θe.u/` | three
 | shea  | `/ʃe.a/` | four
-| whue  | `/ʍu.e/` | five
-| phui  | `/ɸa.u/` | six
+| whoe  | `/ʍo.e/` | five
+| phai  | `/ɸa.i/` | six
 | shae  | `/ʃa.e/` | seven
 | thia  | `/θu.o/` | eight
 | phoa  | `/ɸo.a/` | nine
@@ -22,11 +22,11 @@
 | liewha  | `/li.e.ʍa/` | liquid
 | sashia  | `/sa.ʃi.a/` | water
 | lewhi   | `/le.ʍi/`   | lake
-| methu   | `/me.θu/`   | friend
+| miwho   | `/mi.ʍo/`   | friend
 | noshea  | `/no.ʃe.o/` | food
-| whusha  | `/ʍu.ʃa/`   | wind
+| whasha  | `/ʍa.ʃa/`   | wind
 | lipha   | `/li.ɸa/`   | tree
-| huwha   | `/hu.ʍa/`   | sky
+| whetho  | `/ʍe.θo/`   | sky
 | ropho   | `/ro.ɸo/`   | health
 | shishoa | `/ʃi.ʃa.u/` | good
 

@@ -4,12 +4,12 @@
 | --- | ---      | ---
 | hoi | `/ho.i/` | on
 | nea | `/ne.a/` | in
-| thu | `/θu/`   | to
+| tho | `/θu/`   | to
 | lia | `/li.a/` | by
 | who | `/ʍo/`   | for
 | mae | `/ma.e/` | with
 | whi | `/ʍi/`   | at
 | soa | `/so.a/` | of
 | nie | `/ni.e/` | from
-| phu | `/ɸu/`   | as
+| pho | `/ɸo/`   | as
 | hea | `/he.a/` | about

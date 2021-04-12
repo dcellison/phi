@@ -3,14 +3,15 @@
 | si           | 🛇            | particle               | subject
 | na           | 🛇            | particle               | object
 | te           | 🛇            | particle               | verb
-| lo           | 🛇            | particle               | plural
-| hu           | 🛇            | particle               | question
 | me           | 🛇            | particle               | not
+| lo           | 🛇            | particle               | plural
+| wha          | 🛇            | particle               | question
+| ho           | 🛇            | particle               | exclamaton
 | li           | 🛇            | particle               | simple past
 | ta           | 🛇            | particle               | simle present
 | se           | 🛇            | particle               | simple future
 | wo           | 🛇            | particle               | simple future
-| lu           | 🛇            | particle               | present progressive
+| la           | 🛇            | particle               | present progressive
 | ni           | 🛇            | particle               | present perfect
 | 🛇           | a             | article                | 
 | hea          | about         | prep adv               | 
@@ -53,7 +54,7 @@
 |              | around        | adv prep               | 
 |              | arrive        | verb                   | 
 |              | art           | noun                   | 
-| phu          | as            | adv conj pron          | 
+| pho          | as            | adv conj pron          | 
 |              | ask           | verb noun              | 
 | whi          | at            | prep                   | 
 |              | attack        | verb noun              | 
@@ -320,7 +321,7 @@
 |              | first         | adj adv noun           | 
 |              | fish*         | noun verb              | 
 |              | fit           | adj verb               | 
-| whue         | five          | noun adj               | 
+| whoe         | five          | noun adj               | 
 |              | fix           | verb noun              | 
 |              | flag          | noun verb              | 
 |              | flat          | adj noun verb          | 
@@ -348,7 +349,7 @@
 |              | freedom       | noun                   | 
 |              | freeze        | verb noun              | 
 |              | fresh         | adj noun verb adv      | 
-| methu        | friend        | noun verb              | 
+| miwho        | friend        | noun verb              | 
 |              | friendly      | adj adv                | 
 | nie          | from          | prep                   | 
 |              | front         | noun adj verb          | 
@@ -381,7 +382,7 @@
 |              | grave         | noun adj               | 
 |              | great         | adj adv noun           | 
 | hashe        | green         | adj noun verb          | 
-| ruwha        | grey          | adj noun verb          | 
+| rawha        | grey          | adj noun verb          | 
 |              | ground        | noun adj verb          | 
 |              | group         | noun verb              | 
 |              | grow          | verb                   | 
@@ -803,12 +804,12 @@
 |              | sink          |                        | 
 | 🛇           | sister        |                        | 
 |              | sit           |                        | 
-| phui         | six           | number                 | 
+| phai         | six           | number                 | 
 |              | size          |                        | 
 |              | skill         |                        | 
 |              | skin          |                        | 
 |              | skirt         |                        | 
-| huwha        | sky           | noun                   | 
+| whetho       | sky           | noun                   | 
 |              | sleep         |                        | 
 |              | slip          |                        | 
 |              | slow          |                        | 
@@ -921,7 +922,7 @@
 |              | tidy          |                        | 
 |              | tie           |                        | 
 |              | title         |                        | 
-| thu          | to            | prep                   | 
+| tho          | to            | prep                   | 
 |              | today         |                        | 
 |              | toe           |                        | 
 |              | together      |                        | 
@@ -960,7 +961,7 @@
 |              | vegetable     |                        | 
 |              | very          |                        | 
 |              | village       |                        | 
-| nishu        | violet*       | adj noun               | 
+| nisha        | violet*       | adj noun               | 
 |              | voice         |                        | 
 |              | visit         |                        | 
 |              | wait          |                        | 
@@ -1000,7 +1001,7 @@
 |              | wild          |                        | 
 |              | will          |                        | 
 |              | win           |                        | 
-| whusha       | wind          | noun verb              | 
+| whasha       | wind          | noun verb              | 
 |              | window        |                        | 
 |              | wine          |                        | 
 |              | winter        |                        | 
@@ -1021,7 +1022,7 @@
 |              | yard*         |                        | 
 |              | year          |                        | 
 |              | yell*         |                        | 
-| philu        | yellow        | adj noun               | 
+| phili        | yellow        | adj noun               | 
 |              | yes           |                        | 
 |              | yesterday     |                        | 
 |              | yet           |                        | 

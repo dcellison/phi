@@ -7,8 +7,8 @@
 | C     | `p/t/m/n/s/h/r/l/w`
 | B     | `sp/st/sl/sw/`
 | F     | `ph/th/sh/wh`
-| V     | `i/u/e/o/a`
-| D     | `[VV]^ii^uu^ee^oo^aa^iu^io^uo^eu^eo^ou^au^ao`
+| V     | `i/e/o/a`
+| D     | `[VV]^ii^ee^oo^aa`
 
 ## syllable structures
 
@@ -30,7 +30,7 @@ this pattern tends to produce soft words of two to four syllables. there are no 
 
 examples:
 ```
-thiwho weisha suphai phuwhei hoithi sathie laithia thasho ruwho teathua
+mioshe riwhie whewhe teshe shoepha noathoi whaoshie whoisheo pheithe seshei
 ```
 
 ### verbs
@@ -41,18 +41,18 @@ this pattern produces words of two or three syllables. these words include conso
 
 examples:
 ```
-niwu sliti stoti sosa pusa sotu stuhu riepo spona sipa spaha swiri spowe
+sleme nepa sweho maepi slelo stise spaene spoare swawo paepo papo reali
 ```
 
 ### short words
 
-these patterns produce words of two syllables.  they are also used for very common nouns, such as numbers and colours.
+these patterns produce words of two syllables. they are also used for very common nouns, such as numbers and colours.
 
 `[C/F][V][C/F][V]`
 
 examples:
 ```
-lori phetho phote tewo rithi rusu shipha muma phipi repi ramu shiphi luno ratho
+whele lole thatha mewa thisho rewhe litha whathe ropha whethi showha
 ```
 
 ### utility words
@@ -61,55 +61,39 @@ these words are used for everything else in the language, like particles, pronou
 
 `[F][D]`
 ```
-phae phai phea phei phia phie phoa phoe phoi phua phue phui
-shae shai shea shei shia shie shoa shoe shoi shua shue shui
-thae thai thea thei thia thie thoa thoe thoi thua thue thui
-whae whai whea whei whia whie whoa whoe whoi whua whue whui
+phae phai phea phei phia phie phoa phoe phoi
+shae shai shea shei shia shie shoa shoe shoi
+thae thai thea thei thia thie thoa thoe thoi
+whae whai whea whei whia whie whoa whoe whoi
 ```
 
 `[C][D]`
 ```
-hae hai hea hei hia hie hoa hoe hoi hua hue hui
-lae lai lea lei lia lie loa loe loi lua lue lui
-mae mai mea mei mia mie moa moe moi mua mue mui
-nae nai nea nei nia nie noa noe noi nua nue nui
-pae pai pea pei pia pie poa poe poi pua pue pui
-rae rai rea rei ria rie roa roe roi rua rue rui
-sae sai sea sei sia sie soa soe soi sua sue sui
-tae tai tea tei tia tie toa toe toi tua tue tui
-wae wai wea wei wia wie woa woe woi wua wue wui
-```
-prepositions:
-`hoi nea lia mae nio`
-pronouns:
-`mia`
+hae hai hea hei hia hie hoa hoe hoi
+lae lai lea lei lia lie loa loe loi
+mae mai mea mei mia mie moa moe moi
+nae nai nea nei nia nie noa noe noi
+pae pai pea pei pia pie poa poe poi
+rae rai rea rei ria rie roa roe roi
+sae sai sea sei sia sie soa soe soi
+tae tai tea tei tia tie toa toe toi
+wae wai wea wei wia wie woa woe woi
 
 `[F][V]`
 ```
-pha phe phi pho phu
-sha she shi sho shu
-tha the thi tho thu
-wha whe whi who whu
-```
-prepositions:
-`thu phu who whi`
-pronouns:
-`thi sha`
+pha phe phi pho
+sha she shi sho
+tha the thi tho
+wha whe whi who
 
 `[C][V]`
 ```
-ha he hi ho hu
-la le li lo lu
-ma me mi mo mu
-na ne ni no nu
-pa pe pi po pu
-sa se si so su
-ra re ri ro ru
-ta te ti to tu
-wa we wi wo wu
-```
-prepositions:
-`so`
-particles:
-`si na te lo ne`
-`li ta se wo lu ni`
+ha he hi ho
+la le li lo
+ma me mi mo
+na ne ni no
+pa pe pi po
+sa se si so
+ra re ri ro
+ta te ti to
+wa we wi wo

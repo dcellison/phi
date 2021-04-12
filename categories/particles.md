@@ -7,10 +7,16 @@
 | si  | `/si/` | subject
 | na  | `/na/` | object
 | te  | `/te/` | verb
-| lo  | `/lo/` | plural
-| hu  | `/hu/` | question
-| me  | `/ne/` | not
 
+| phi | ipa    | type
+| --  | ---    | ----
+| me  | `/ne/` | not
+| lo  | `/lo/` | plural
+| wha | `/ʍa/` | question
+| ho  | `/ho/` | exclamation
+
+* subject marker _si_ is optional
+  * it always starts a sentence
 * try multiple plurals
   * maybe for "several" or a few"
 * try particles for animals, human beings, for abstract nouns, etc. Many languages make a distinction based on animacy, between animate and inanimate objects (people and animals vs. plants and non-living objects, or the like)
@@ -29,7 +35,7 @@
 | ta  | `/ta/` | simple present      | do
 | se  | `/se/` | simple future       | will do
 | wo  | `/wo/` | simple future       | wants to do
-| lu  | `/lu/` | present progressive | doing
+| la  | `/la/` | present progressive | doing
 | ni  | `/ni/` | present perfect     | has done
 
 * maybe no perfect tense

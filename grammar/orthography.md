@@ -46,26 +46,23 @@ these are the only valid consonant blends in φ.
 | allophone | grapheme | description
 | --------- | -------- | -----------
 | `[i]`     | i        | close front unrounded
-| `[u]`     | u        | close back rounded
 | `[e̞]`     | e        | mid front unrounded
 | `[o̞]`     | o        | mid back rounded
 | `[ä]`     | a        | open central unrounded
 
 ### diphthongs
 
-these are the only valid vowel diphthongs in φ.
-
 | allophone | grapheme
 | --------- | --------
 | `[i.e̞]`   | ie
+| `[i.o̞]`   | io
 | `[i.a]`   | ia
-| `[u.i]`   | ui
-| `[u.e̞]`   | ue
-| `[u.a]`   | ua
 | `[e̞.i]`   | ei
+| `[e̞.o]`   | eo
 | `[e̞.a]`   | ea
 | `[o̞.i]`   | oi
 | `[o̞.e̞]`   | oe
 | `[o̞.a]`   | oa
 | `[a.i]`   | ai
 | `[a.e̞]`   | ae
+| `[a.o̞]`   | ao

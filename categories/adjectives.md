@@ -6,11 +6,11 @@
 | ---   | ---        | -------
 | lawha | `/la.ʍa/`  | red
 | sathe | `/sa.θe/`  | orange
-| philu | `/ɸi.lu/`  | yellow
+| phili | `/ɸi.lu/`  | yellow
 | hashe | `/ha.ʃe/`  | green
 | mipho | `/mi.ɸo/`  | blue
 | pewhe | `/pe.ʍe/`  | indigo
-| nishu | `/ni.ʃu/`  | violet
+| nisha | `/ni.ʃu/`  | violet
 | sathi | `/sa.θi/`  | black
 | thasi | `/θa.si/`  | white
-| ruwha | `/ru./ʍa`  | grey
+| rawha | `/ru./ʍa`  | grey

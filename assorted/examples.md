@@ -10,7 +10,7 @@
 | ---- | --------
 | eng  | the sky is blue
 | lit  | (subject) sky (object) blue (verb) is
-| phi  | (si huwha) (na mipho) (te phi)
+| phi  | (si whetho) (na mipho) (te phi)
 
 | type | sentence
 | ---- | --------
@@ -34,7 +34,7 @@
 | ---- | --------
 | eng  | i liked my friend
 | lit  | (subject) me (object) friend of me (verb/past) like
-| phi  | (si mia) (na methu soa mia) (te li lephe)
+| phi  | (si mia) (na miwho soa mia) (te li lephe)
 
 | type | sentence
 | ---- | --------
@@ -52,7 +52,7 @@
 | ---- | --------
 | eng  | are you in good health?
 | lit  | (question (subject) you (object) health good (verb/happening) are)
-| phi  | (hu (si thi) (ropho shishoa) (te lu phe))
+| phi  | (hu (si thi) (na ropho shishoa) (te la phe))
 
 | type | sentence
 | ---- | --------
