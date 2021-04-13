@@ -566,7 +566,7 @@
 |              | music         | noun                   | 
 |              | must          | verb                   | 
 |              | my            | pron                   | 
-|              | name          | noun verb              | 
+| phiathe      | name          | noun verb              | 
 |              | narrow        | adj verb               | 
 |              | nation        | noun                   | 
 |              | nature        | noun                   | 

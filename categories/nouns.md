@@ -29,6 +29,7 @@
 | whetho  | `/ʍe.θo/`   | sky
 | ropho   | `/ro.ɸo/`   | health
 | shishoa | `/ʃi.ʃa.u/` | good
+| phiathe | `/ɸi.a.θe/` | name
 
 matter
 energy
