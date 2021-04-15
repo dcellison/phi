@@ -6,6 +6,5 @@ Phi is a constructed language. A constructed language is one whose phonology, gr
 
 &emsp;&ensp;It is thought that the value of _phi_ is one of the fundamental characteristics of nature; in the language Phi, nature is fundamental to its being. Listening to spoken Phi one is sometimes reminded of the sounds of the natural world. There is also a musicality and rhythm to sentences in the language.
 
-<a name="note1">[1]</a>: https://en.wikipedia.org/wiki/Constructed\_language
-
+<a name="note1">[1]</a>: https://en.wikipedia.org/wiki/Constructed\_language,/br>
 <a name="note2">[2]</a>: https://en.wiktionary.org/wiki/\%CF\%86
