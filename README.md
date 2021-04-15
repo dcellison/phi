@@ -9,4 +9,3 @@ Phi is a constructed language. A constructed language is one whose phonology, gr
 <br/>
 <sup><a name="note1">[1]</a>: https://en.wikipedia.org/wiki/Constructed_language</sup>  
 <sup><a name="note2">[2]</a>: https://en.wiktionary.org/wiki/%CF%86</sup>
-</pre>
