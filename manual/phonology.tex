@@ -1,43 +1,90 @@
-\newfontfamily{\ds}{Doulos SIL}
+\definecolor{greyhead}{gray}{0.8}
+\definecolor{greyrow}{gray}{0.95}
+\newfontfamily{\ds}{Doulos SIL}[Scale=1.2]
+\newcommand{\ec}{} % empty cell
 
 \section{Phonology}
+This is the \emph{Phonology} section.
+
+\noindent
 \begin{table}[h]
-  \caption{\label{consonants}Consonants}
-  \begin{tabular}
-    {|c|c|c|c|c|c|c|c|}
+  %\caption{\label{consonants}Consonants}
+  \renewcommand{\arraystretch}{1.5}
+  \begin{tabular}{|l|c|c|c|c|c|c|c|}
+
+    \hline \rowcolor{greyhead}
+    & Bilabial
+    & ~Labial~
+    & ~Dental~
+    & Alveolar
+    & Postalv.
+    & ~Velar~~
+    & Glottal~ \\
+
     \hline
-    & Bilabial & Labial & Dental & Alveolar & Postalveolar & Velar & Glottal \\
+    Plosive &
+    \ds p \hspace{1.5em} & \ec & \ec &
+    \ds t \hspace{1.5em} & \ec & \ec & \ec \\
+
+    \hline \rowcolor{greyrow}
+    Nasal &
+    \hspace{1.5em} \ds m & \ec & \ec &
+    \hspace{1.5em} \ds n & \ec & \ec & \ec \\
+
     \hline
-    Plosive & p & & & t & & & \\
+    Trill & \ec & \ec & \ec &
+    \hspace{1.5em} \ds r & \ec & \ec & \ec \\
+
+    \hline \rowcolor{greyrow}
+    Tap or flap & \ec & \ec & \ec &
+    \hspace{1.5em} \ds ɾ & \ec & \ec & \ec \\
+
     \hline
-    Nasal & m & & & n & & & \\
+    Fricative &
+    \ds ɸ \hspace{1.5em} &
+    \ds ʍ \hspace{1.5em} &
+    \ds θ \hspace{1.5em} &
+    \ds s \hspace{1.5em} &
+    \ds ʃ \hspace{1.5em} &
+    \ds ʍ \hspace{1.5em} &
+    \ds h \hspace{1.5em} \\
+
+    \hline \rowcolor{greyrow}
+    Approximate & &
+    \hspace{1.5em} \ds w & \ec & \ec & \ec &
+    \hspace{1.5em} \ds w & \ec \\
+
     \hline
-    Trill & & & & r & & & \\
-    \hline
-    Tap or flap & & & & ɾ & & & \\
-    \hline
-    Fricative & \ds ɸ & \ds ʍ & \ds θ & s & \ds ʃ & \ds ʍ & h \\
-    \hline
-    Approximate & & w & & & & w & \\
-    \hline
-    Lateral\\approximant & & & & l & & & \\
+    Lateral approx. & \ec & \ec & \ec &
+    \hspace{1.5em} \ds l & \ec & \ec & \ec \\
+
     \hline
   \end{tabular}
 \end{table}
 
 \noindent
 \begin{table}[h]
-  \caption{\label{vowels}Vowels}
-  \begin{tabular}
-    {|c|c|c|c|}
+  %\caption{\label{vowels}Vowels}
+  \renewcommand{\arraystretch}{1.5}
+  \begin{tabular}{|l|c|c|c|}
+
+    \hline \rowcolor{greyhead}
+    & ~Front~
+    & Central
+    & ~Back~~ \\
+
     \hline
-    & Front & Central & Back \\
+    Close~~ &
+    \ds i & \ec & \ec \\
+
+    \hline \rowcolor{greyrow}
+    Mid &
+    \ds e̞ & \ec & \ds o̞ \\
+
     \hline
-    Close & i & & \\
-    \hline
-    Mid & e & & o \\
-    \hline
-    Open & & a & \\
+    Open & \ec &
+    \ds ä & \ec \\
+
     \hline
   \end{tabular}
 \end{table}
