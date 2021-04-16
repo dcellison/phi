@@ -1,14 +1,20 @@
+\newfontfamily{\ds}{Doulos SIL}[Scale=1.2]
 \definecolor{greyhead}{gray}{0.8}
 \definecolor{greyrow}{gray}{0.95}
-\newfontfamily{\ds}{Doulos SIL}[Scale=1.2]
 \newcommand{\ec}{} % empty cell
+\captionsetup[table]
+{
+  font=small,
+  labelfont=bf,
+  textfont=normalfont,
+  singlelinecheck=off,
+  justification=raggedright
+}
 
 \section{Phonology}
-This is the \emph{Phonology} section.
-
 \noindent
 \begin{table}[h]
-  %\caption{\label{consonants}Consonants}
+  \caption{\label{consonants}Consonants}
   \renewcommand{\arraystretch}{1.5}
   \begin{tabular}{|l|c|c|c|c|c|c|c|}
 
@@ -61,10 +67,9 @@ This is the \emph{Phonology} section.
     \hline
   \end{tabular}
 \end{table}
-
 \noindent
 \begin{table}[h]
-  %\caption{\label{vowels}Vowels}
+  \caption{\label{vowels}Vowels}
   \renewcommand{\arraystretch}{1.5}
   \begin{tabular}{|l|c|c|c|}
 
