@@ -10,8 +10,8 @@
 | `[t]`     | t        | voiceless alveolar plosive
 | `[m]`     | m        | voiced bilabial nasal
 | `[n]`     | n        | voiced alveolar nasal
-| `[ɾ]`     | r        | voiced alveolar tap or flap
 | `[r]`     | r        | voiced alveolar trill
+| `[ɾ]`     | r        | voiced alveolar tap or flap
 | `[s]`     | s        | voiceless alveolar fricative
 | `[h]`     | h        | voiceless glottal fricative
 | `[l]`     | l        | voiced alveolar lateral approximant
