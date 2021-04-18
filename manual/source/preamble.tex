@@ -6,6 +6,7 @@
 \renewcommand{\headrulewidth}{0pt}
 \definecolor{greyhead}{gray}{0.8}
 \definecolor{greyrow}{gray}{0.95}
+\definecolor{footdate}{gray}{0.7}
 \setmainfont{Palatino Linotype}
 \setlength{\parskip}{1em}
 \setcounter{tocdepth}{3}
@@ -16,7 +17,7 @@
 \titleformat*{\section}{\sectionfont}
 \newcommand{\changefont}{\fontsize{10}{0}\selectfont}
 \fancyfoot[L]{\changefont Page \thepage \hspace{1pt} of \pageref{LastPage}}
-
+\fancyfoot[R]{\color{footdate} \changefont \DTMnow}
 \captionsetup[table]
 {
   labelfont={bf,it},
