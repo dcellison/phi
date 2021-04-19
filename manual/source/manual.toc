@@ -1,3 +1,4 @@
+\selectlanguage *{english}
 \vspace {-0.8cm}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.0.1}%
 \contentsline {section}{\numberline {2}Phonology}{2}{section.0.2}%
