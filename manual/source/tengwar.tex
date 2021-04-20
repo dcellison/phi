@@ -6,7 +6,7 @@ The look and feel of the Tengwar characters (\emph{tengwa}) and its diacritical 
 Tables \ref{tab:consonant-graphemes} and \ref{tab:vowel-graphemes} outline the mapping between the graphemes used in Phi and the corresponding Tengwar characters, as well as the keypresses necessary to produce the characters using the font and the keyboard layout mentioned previously. An application or utility that supports Graphite fonts\footnote{\hspace{0.1em}\url{https://scripts.sil.org/cms/scripts/page.php?site\_id=projects\&item\_id=graphite\_fonts}} is required for the font to render correctly. A link to details of this requirement can be found in the first footnote below.
 
 Written Phi uses the Tengwar’s Quenya mode. Vowel diacriticals are placed on the consonant that precedes the vowel. Since all Phi words start with a consonant, there is never a need to use an initial vowel carrier. Words in Phi often contain two consecutive vowels, but a vowel carrier is still unnecessary: the second vowel is placed below the same consonant. The letters would then be read as consonant, upper vowel, then lower vowel. This and the use of a single Tengwar character for consonant doubles such as ph or sh cause Phi script to be very compact and efficient.
-\clearpage
+
 The Phi word for \enquote{love} is \emph{lothea}. In the Tengwar script it looks like this:
 
 \bigskip
@@ -14,7 +14,7 @@ The Phi word for \enquote{love} is \emph{lothea}. In the Tengwar script it looks
 \ttlarge 
 \normalfont
 \bigskip
-
+\clearpage
 \leftskip=0in
 This six-letter word in latin characters requires only two \emph{tengwa} to represent it. Many words in Phi are two to three letters long. This occurs mainly in parts of speech such as particles, prepositions, or pronouns. These words are almost always a single \emph{tengwa} with diacriticals in Tengwar script. All of this results in a very concise writing system.
 
@@ -36,15 +36,15 @@ That is a beautiful sentiment rendered in a beautiful script. For more formal co
 \bigskip
 
 \leftskip=0in
-In the Phi consonants illustrated in Table~\ref{tab:consonant-graphemes} there are two \emph{tengwa} that represent the \dsil [s] \normalfont sound: \enquote{\ttcopy \normalfont} and \enquote{\ttcopy  \normalfont.} Which of the two is used in a sentence is at the writer's discretion. Most often it depends on which diacritical marks, if any, are attached to the character. If the /s/ \emph{tengwa} looks uncomfortable in one orientation, then the alternate might be more effective.
+In the Phi consonant mapping illustrated in Table~\ref{tab:consonant-graphemes} there are two \emph{tengwa} that represent the \dsil [s] \normalfont sound: \enquote{\ttcopy \normalfont} and \enquote{\ttcopy  \normalfont.} Which of the two is used in a word is at the writer's discretion. Most often it depends on which diacritical marks, if any, are attached to the character. If the \dsil ‹s›\normalfont\ \emph{tengwa} looks uncomfortable in one orientation, then the alternate might be more effective.
 
-As well, there are two \emph{tengwa} to represent /r/: \enquote{\ttcopy \normalfont} and \enquote{\ttcopy  \normalfont.} In this case, however, there is a specific usage for both forms. In Phi the initial /r/ in a word is always a trilled \dsil [r]\normalfont\ and is represented by \enquote{\ttcopy \normalfont}. Within a word /r/ is always a tapped \dsil [ɾ]\normalfont\ and is represented by \enquote{\ttcopy \normalfont}.
+As well, there are two \emph{tengwa} to represent \dsil /r/\normalfont: \enquote{\ttcopy \normalfont} and \enquote{\ttcopy  \normalfont.} In this case, however, there is a specific usage for both forms. In Phi the initial \dsil /r/\normalfont\ in a word is always a trilled \dsil [r]\normalfont\ and is represented by \enquote{\ttcopy \normalfont}. Within a word \dsil /r/\normalfont\ is always a tapped \dsil [ɾ]\normalfont\ and is represented by \enquote{\ttcopy \normalfont}.
 
 \leftskip=0in
 \clearpage
 \begin{table}[H]
   \caption {\label{tab:consonant-graphemes}
-    Phi consonant grapheme to Tengwar mapping}
+    Phi consonant grapheme to tengwa mapping}
   \renewcommand\arraystretch{2.5}
   \setlength\extrarowheight{-3pt}
   \begin{tabular}{|c|c|c|}
@@ -55,21 +55,21 @@ As well, there are two \emph{tengwa} to represent /r/: \enquote{\ttcopy \norm
     \hline \rowcolor{greyrow} \dsil ‹n› & \ttsmall  & n \\
     \hline \dsil ‹r› & \ttsmall  & r \\
     \hline \rowcolor{greyrow} \dsil ‹r› & \ttsmall  & shift-r \\
-    \hline \dsil ‹s› & \ttsmall  & s \\
-    \hline \rowcolor{greyrow} \dsil ‹s› & \ttsmall  & shift-s \\
+    \hline \dsil ‹ph› & \ttsmall  & shift-p \\
+    \hline \rowcolor{greyrow} \dsil ‹wh› & \ttsmall  & shift-k \\
+    \hline \dsil ‹th› & \ttsmall  & shift-t \\
+    \hline \rowcolor{greyrow} \dsil ‹s› & \ttsmall  & s \\
+    \hline \dsil ‹s› & \ttsmall  & shift-s \\
+    \hline \rowcolor{greyrow} \dsil ‹sh› & \ttsmall  & shift-c \\
     \hline \dsil ‹h› & \ttsmall  & h \\
     \hline \rowcolor{greyrow} \dsil ‹w› & \ttsmall  & w \\
     \hline \dsil ‹l› & \ttsmall  & l \\
-    \hline \rowcolor{greyrow} \dsil ‹ph› & \ttsmall  & shift-p \\
-    \hline \dsil ‹th› & \ttsmall  & shift-t \\
-    \hline \rowcolor{greyrow} \dsil ‹sh› & \ttsmall  & shift-c \\
-    \hline \dsil ‹wh› & \ttsmall  & shift-k \\
     \hline
   \end{tabular}
 \end{table}
 \begin{table}[H]
   \caption {\label{tab:vowel-graphemes}
-    Phi vowel grapheme to Tengwar mapping}
+    Phi vowel grapheme to tehta mapping}
   \renewcommand\arraystretch{2.5}
   \setlength\extrarowheight{-3pt}
   \begin{tabular}{|c|c|c|}
@@ -84,7 +84,7 @@ As well, there are two \emph{tengwa} to represent /r/: \enquote{\ttcopy \norm
 \footnotetext{\hspace{0.1em}Keypresses for the low diacriticals are given for macOS. Use \emph{ctrl-alt} on Windows instead of \emph{option}.}
 \begin{table}[H]
   \caption {\label{tab:punctuation}
-    Phi punctuation to Tengwar mapping}
+    Phi punctuation to tengwa mapping}
   \renewcommand\arraystretch{2.5}
   \setlength\extrarowheight{-3pt}
   \begin{tabular}{|c|c|c|}
