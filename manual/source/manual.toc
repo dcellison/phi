@@ -1,13 +1,13 @@
 \selectlanguage *{english}
-\vspace {-0.8cm}
+\vspace {-0.8cm} \thispagestyle {empty}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.0.1}%
 \contentsline {section}{\numberline {2}Phonology}{2}{section.0.2}%
 \contentsline {subsection}{\numberline {2.1}Consonants}{2}{subsection.0.2.1}%
 \contentsline {subsection}{\numberline {2.2}Vowels}{2}{subsection.0.2.2}%
 \contentsline {section}{\numberline {3}Orthography}{3}{section.0.3}%
-\contentsline {subsection}{\numberline {3.1}Consonants}{3}{subsection.0.3.1}%
-\contentsline {subsection}{\numberline {3.2}Consonant Blends}{4}{subsection.0.3.2}%
-\contentsline {subsection}{\numberline {3.3}Vowels}{4}{subsection.0.3.3}%
-\contentsline {subsection}{\numberline {3.4}Vowel Diphthongs}{5}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.1}Consonant Allophones}{3}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Consonant Allophone Blends}{4}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Vowel Allophones}{4}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Vowel Allophone Diphthongs}{5}{subsection.0.3.4}%
 \contentsline {section}{\numberline {4}The Tengwar}{6}{section.0.4}%
 \contentsline {section}{\numberline {5}Examples}{10}{section.0.5}%
