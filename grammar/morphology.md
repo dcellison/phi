@@ -2,6 +2,10 @@
 
 (eventually)
 
+what if humans were always always vegetarians
+hard to describe weapons, etc.
+peace-loving
+
 * phi focuses on soft sounds
   * like wind or water
   * emphasis on unvoiced sounds
