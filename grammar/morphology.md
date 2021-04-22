@@ -2,14 +2,13 @@
 
 (eventually)
 
-what if humans were always always vegetarians
+what if humans were always vegetarians
 hard to describe weapons, etc.
 peace-loving
 
 * phi focuses on soft sounds
   * like wind or water
   * emphasis on unvoiced sounds
-  * "whushea" is phi for "wind"
 * phi is an isolating language
   * uses particles to modify and tag sentences
 * phi is also an analytic language
@@ -20,6 +19,7 @@ peace-loving
 * all words
   * start with consonant
   * end with a vowel
+  * (C)CV(V)
 * emphasis is on the penultimate syllable
 * subject object verb sentence structure
   * e.g. i you love
@@ -29,6 +29,7 @@ peace-loving
   * possessive pronouns use "of me"
     * nepali uses this system
 * no s/o particles on personal pronouns
+  * except in formal phi
 * plural particle comes after s/o particles
   * (subject/plural) particles
 * adverbs follow verbs
