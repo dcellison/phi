@@ -17,9 +17,9 @@
 \fancyhf{}
 \frenchspacing
 \titleformat*{\section}{\sectionfont}
+\fancyfoot[R]{\color{footdate} \changefont \DTMnow}
 \newcommand{\changefont}{\fontsize{10}{0}\selectfont}
 \fancyfoot[L]{\changefont Page \thepage \hspace{1pt} of \pageref{LastPage}}
-\fancyfoot[R]{\color{footdate} \changefont \DTMnow}
 \captionsetup[table]
 {
   labelfont={bf,it},

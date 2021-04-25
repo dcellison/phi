@@ -10,10 +10,23 @@
 
 | phi | ipa    | type
 | --  | ---    | ----
-| me  | `/ne/` | not
+| me  | `/me/` | not
 | lo  | `/lo/` | plural
 | wha | `/ʍa/` | question
 | ho  | `/ho/` | exclamation
+
+* "us/we" is plural 1st person
+  * lo mia
+    * plural me
+    * us/we
+* plural exclusive would use
+  * lo mia na thi
+    * plural me not you
+    * us/we not you
+* this can work to exclude others as well
+  * lo mia na lo sha
+    * plural me not plural it
+    * us not them
 
 * subject marker _si_ is optional
   * it always starts a sentence
