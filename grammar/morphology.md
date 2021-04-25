@@ -6,6 +6,9 @@ what if humans were always vegetarians
 hard to describe weapons, etc.
 peace-loving
 
+consider adding deference
+consider evidentiality
+
 * phi focuses on soft sounds
   * like wind or water
   * emphasis on unvoiced sounds
@@ -71,7 +74,7 @@ peace-loving
   * [θ] a standard unvoiced `/th/` sound
     * voiceless dental fricative
     * voiced `/th/` [ð] never occurs in phi
-  * [ʍ] a standard /hw/` sound
+  * [ʍ] a standard `/hw/` sound
     * voiceless labialized velar approximant
 
 finnish has no articles and no gender
@@ -116,4 +119,3 @@ tougher than mine
 tough exceed mine
 tough from mine
 yours is tough, mine is easy
-

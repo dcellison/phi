@@ -1,19 +1,19 @@
 | phi          | english       | part of speech         | definition
 | ------------ | -------       | --------------         | ----------
-| si           | 🛇            | particle               | subject
-| na           | 🛇            | particle               | object
-| te           | 🛇            | particle               | verb
-| me           | 🛇            | particle               | not
-| lo           | 🛇            | particle               | plural
-| wha          | 🛇            | particle               | question
-| ho           | 🛇            | particle               | exclamaton
-| li           | 🛇            | particle               | simple past
-| ta           | 🛇            | particle               | simle present
-| se           | 🛇            | particle               | simple future
-| wo           | 🛇            | particle               | simple future
-| la           | 🛇            | particle               | present progressive
-| ni           | 🛇            | particle               | present perfect
-| 🛇           | a             | article                | 
+| si           |               | particle               | subject
+| na           |               | particle               | object
+| te           |               | particle               | verb
+| me           |               | particle               | not
+| lo           |               | particle               | plural
+| wha          |               | particle               | question
+| ho           |               | particle               | exclamaton
+| li           |               | particle               | simple past
+| ta           |               | particle               | simle present
+| se           |               | particle               | simple future
+| wo           |               | particle               | simple future
+| la           |               | particle               | present progressive
+| ni           |               | particle               | present perfect
+|              | a             | article                | 
 | hea          | about         | prep adv               | 
 |              | above         | adv prep               | 
 |              | across        | prep adv               | 
@@ -36,7 +36,7 @@
 |              | always        | adv                    | 
 |              | am            | verb                   | 
 |              | amount        | noun verb              | 
-| 🛇           | an            | article                | 
+|              | an            | article                | 
 |              | and           | conj noun              | 
 |              | angry         | adj                    | 
 |              | another       | adj pron               | 
@@ -58,7 +58,7 @@
 |              | ask           | verb noun              | 
 | whi          | at            | prep                   | 
 |              | attack        | verb noun              | 
-| 🛇           | aunt          | noun                   | 
+|              | aunt          | noun                   | 
 |              | autumn        | noun                   | 
 |              | away          | adv adj                | 
 |              | baby          | noun adj verb          | 
@@ -123,7 +123,7 @@
 |              | bridge        | noun verb              | 
 |              | bright        | adj noun               | 
 |              | bring         | verb                   | 
-| 🛇           | brother       | noun int               | 
+|              | brother       | noun int               | 
 |              | brown         | noun adj verb          | 
 |              | brush         | noun verb              | 
 |              | build         | verb noun              | 
@@ -214,7 +214,7 @@
 |              | danger        | noun                   | 
 |              | dangerous     | adj                    | 
 |              | dark          | adj noun verb          | 
-| 🛇           | daughter      | noun adj               | 
+|              | daughter      | noun adj               | 
 |              | day           | noun                   | 
 |              | dead          | adj noun adv           | 
 |              | decide        | verb                   | 
@@ -300,14 +300,14 @@
 |              | famous        | adj                    | 
 |              | far           | adv adj                | 
 |              | farm          | noun verb              | 
-| 🛇           | father        | noun verb              | 
+|              | father        | noun verb              | 
 |              | fast          | adv adj noun           | 
 |              | fat           | adj noun verb          | 
 |              | fault         | noun verb              | 
 |              | fear          | noun verb              | 
 |              | feed          | verb noun              | 
 |              | feel          | verb noun              | 
-| 🛇           | female        | noun adj               | 
+|              | female        | noun adj               | 
 |              | fever         | noun verb              | 
 |              | few           | adj noun pron          | 
 |              | fight         | noun verb              | 
@@ -364,7 +364,7 @@
 |              | garden        | noun adj verb          | 
 |              | gate          | noun verb              | 
 |              | general       | adj noun               | 
-| 🛇           | gentleman     | noun                   | 
+|              | gentleman     | noun                   | 
 |              | get           | verb                   | 
 |              | gift          | noun verb              | 
 |              | give          | verb noun              | 
@@ -376,8 +376,8 @@
 |              | gold          | noun adj               | 
 | shishoa      | good          | adj noun               | 
 |              | goodbye       | int                    | 
-| 🛇           | grandfather   | noun                   | 
-| 🛇           | grandmother   | noun                   | 
+|              | grandfather   | noun                   | 
+|              | grandmother   | noun                   | 
 |              | grass         | noun verb              | 
 |              | grave         | noun adj               | 
 |              | great         | adj adv noun           | 
@@ -409,14 +409,14 @@
 |              | height        | noun                   | 
 |              | help          | verb noun              | 
 |              | hen           | noun                   | 
-| 🛇           | her           | pron                   | 
+|              | her           | pron                   | 
 |              | here          | adv noun               | 
-| 🛇           | hers          | pron                   | 
+|              | hers          | pron                   | 
 |              | hide          | verb                   | 
 |              | high          | adj adv                | 
 |              | hill          | noun                   | 
-| 🛇           | him           | pron                   | 
-| 🛇           | his           | pron                   | 
+|              | him           | pron                   | 
+|              | his           | pron                   | 
 |              | hit           | verb noun              | 
 |              | hobby         | noun                   | 
 |              | hold          | verb noun              | 
@@ -434,7 +434,7 @@
 |              | hungry        | adj                    | 
 |              | hour          | noun adj               | 
 |              | hurry         | verb noun              | 
-| 🛇           | husband       | noun                   | 
+|              | husband       | noun                   | 
 |              | hurt          | verb noun              | 
 |              | i             | pron                   | 
 |              | ice           | noun verb              | 
@@ -471,7 +471,7 @@
 |              | knock         | verb noun              | 
 |              | know          | verb                   | 
 |              | ladder        | noun                   | 
-| 🛇           | lady          | noun                   | 
+|              | lady          | noun                   | 
 | lewhi        | lake          | noun                   | 
 |              | lamp          | noun                   | 
 |              | land          | noun verb              | 
@@ -518,9 +518,9 @@
 |              | machine       | noun verb              | 
 |              | main          | adj                    | 
 |              | make          | verb noun              | 
-| 🛇           | male          | noun adj               | 
-| 🛇           | man           | noun verb              | 
-| 🛇           | many          | adj noun pron          | 
+|              | male          | noun adj               | 
+|              | man           | noun verb              | 
+|              | many          | adj noun pron          | 
 |              | map           | noun verb              | 
 |              | mark          | noun verb              | 
 |              | market        | noun verb              | 
@@ -557,7 +557,7 @@
 |              | more          | adj noun adv           | 
 |              | morning       | noun adj               | 
 |              | most          | adj noun adv           | 
-| 🛇           | mother        | noun adj verb          | 
+|              | mother        | noun adj verb          | 
 |              | mountain      | noun adj               | 
 |              | mouse         | noun                   | 
 |              | mouth         | noun verb              | 
@@ -700,7 +700,7 @@
 |              | pupil         |                        | 
 |              | push          |                        | 
 |              | put           |                        | 
-| 🛇           | queen         |                        | 
+|              | queen         |                        | 
 |              | question      |                        | 
 |              | quick         |                        | 
 |              | quiet         |                        | 
@@ -775,7 +775,7 @@
 |              | shape         |                        | 
 |              | share         |                        | 
 |              | sharp         |                        | 
-| 🛇           | she           |                        | 
+|              | she           |                        | 
 |              | sheep         |                        | 
 |              | sheet         |                        | 
 |              | shelf         |                        | 
@@ -802,7 +802,7 @@
 |              | since         |                        | 
 |              | sing          |                        | 
 |              | sink          |                        | 
-| 🛇           | sister        |                        | 
+|              | sister        |                        | 
 |              | sit           |                        | 
 | phai         | six           | number                 | 
 |              | size          |                        | 
@@ -901,7 +901,7 @@
 |              | test          |                        | 
 |              | than          |                        | 
 |              | that          |                        | 
-| 🛇           | the           | article                | 
+|              | the           | article                | 
 |              | their         |                        | 
 |              | theirs        |                        | 
 |              | then          |                        | 
@@ -948,7 +948,7 @@
 |              | try           |                        | 
 |              | turn          |                        | 
 |              | type          |                        | 
-| 🛇           | uncle         |                        | 
+|              | uncle         |                        | 
 |              | under         |                        | 
 |              | understand    |                        | 
 |              | unit          |                        | 
@@ -997,7 +997,7 @@
 |              | who           |                        | 
 |              | why           |                        | 
 |              | wide          |                        | 
-| 🛇           | wife          |                        | 
+|              | wife          |                        | 
 |              | wild          |                        | 
 |              | will          |                        | 
 |              | win           |                        | 
@@ -1011,7 +1011,7 @@
 | mae          | with          | prep                   | 
 |              | without       |                        | 
 |              | woman         |                        | 
-| 🛇           | wonder        |                        | 
+|              | wonder        |                        | 
 |              | word          |                        | 
 |              | work          |                        | 
 |              | world         |                        | 

@@ -11,11 +11,12 @@
 | phi | ipa    | type
 | --  | ---    | ----
 | me  | `/me/` | not
+|     | `//`   | dual
 | lo  | `/lo/` | plural
 | wha | `/ʍa/` | question
 | ho  | `/ho/` | exclamation
 
-* "us/we" is plural 1st person
+* us/we is plural 1st person
   * lo mia
     * plural me
     * us/we
