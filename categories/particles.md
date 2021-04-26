@@ -32,7 +32,7 @@
 * subject marker _si_ is optional
   * it always starts a sentence
 * try multiple plurals
-  * maybe for "several" or a few"
+  * maybe for "several" or "a few"
 * try particles for animals, human beings, for abstract nouns, etc. Many languages make a distinction based on animacy, between animate and inanimate objects (people and animals vs. plants and non-living objects, or the like)
 * maybe use particles for punctuation
   * similar to the `hu` question particle
