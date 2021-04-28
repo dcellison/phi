@@ -77,8 +77,11 @@ plasmas
   stars
   nebula
 
+sati - animal
+mela - vegetable
+reso - mineral
+
 air
-animal
 arctic
 autumn
 bank
@@ -124,7 +127,6 @@ land
 leaf
 lightning
 meadow
-mineral
 mist
 moon
 moss
@@ -177,7 +179,6 @@ tunnel
 universe
 valley
 valley
-vegetable
 water
 waterfall
 wave
