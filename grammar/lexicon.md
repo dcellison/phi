@@ -1001,7 +1001,7 @@
 |              | wild          |                        | 
 |              | will          |                        | 
 |              | win           |                        | 
-| whasha       | wind          | noun verb              | 
+| whoshea      | wind          | noun verb              | 
 |              | window        |                        | 
 |              | wine          |                        | 
 |              | winter        |                        | 

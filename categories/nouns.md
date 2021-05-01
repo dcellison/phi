@@ -2,34 +2,50 @@
 
 ## numbers
 
-| phi   | ipa      | eng
-| ---   | ---      | -------
-| thoi  | `/θo.i/` | zero
-| whea  | `/ʍe.o/` | one
-| phie  | `/ɸi.e/` | two
-| thoa  | `/θe.u/` | three
-| shea  | `/ʃe.a/` | four
-| whoe  | `/ʍo.e/` | five
-| phai  | `/ɸa.i/` | six
-| shae  | `/ʃa.e/` | seven
-| thia  | `/θu.o/` | eight
-| phoa  | `/ɸo.a/` | nine
+thoi - zero
+whea - one
+phie - two
+thoa - three
+shea - four
+whoe - five
+phai - six
+shae - seven
+thia - eight
+phoa - nine
 
 ## general
 
-| phi     | ipa         | eng
-| ---     | ---         | -------
-| liewha  | `/li.e.ʍa/` | liquid
-| sashia  | `/sa.ʃi.a/` | water
-| lewhi   | `/le.ʍi/`   | lake
-| miwho   | `/mi.ʍo/`   | friend
-| noshea  | `/no.ʃe.o/` | food
-| whasha  | `/ʍa.ʃa/`   | wind
-| lipha   | `/li.ɸa/`   | tree
-| whetho  | `/ʍe.θo/`   | sky
-| ropho   | `/ro.ɸo/`   | health
-| shishoa | `/ʃi.ʃa.u/` | good
-| phiathe | `/ɸi.a.θe/` | name
+liewha - liquid
+sashia - water
+lewhi - lake
+miwho - friend
+noshea - food
+whasha - wind
+lipha - tree
+whetho - sky
+ropho - health
+shishoa - good
+phiathe - name
+whoshea - wind
+
+sathie - music
+
+ - animal
+mela - vegetable
+reso - mineral
+
+pharo
+whisa
+thime 
+
+ - earth
+ - air
+ - fire
+lipha - water
+
+liewha - liquid
+ - solid
+ - gas
 
 matter
 energy
@@ -76,10 +92,6 @@ plasmas
   static electricity
   stars
   nebula
-
-sati - animal
-mela - vegetable
-reso - mineral
 
 air
 arctic

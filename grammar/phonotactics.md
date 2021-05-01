@@ -11,11 +11,11 @@
 
 | group | pattern
 | ----- | -------
-| C     | `p/t/m/n/s/h/r/l/w`
-| B     | `sp/st/sl/sw`
-| F     | `ph/th/sh/wh`
-| V     | `i/e/o/a`
-| D     | `[VV]^ii^ee^oo^aa`
+| C     | `p/t/m/n/r/s/h/w/l`
+| F     | `ph/wh/th/sh`
+| B     | `sp/st/sw/sl`
+| V     | `i/u/e/o/a`
+| P     | `[VV]^ii^uu^ee^oo^aa`
 
 *http://akana.conlang.org/tools/awkwords/
 
@@ -36,7 +36,7 @@ rhythmic-sounding language.
 
 ### nouns
 
-`[C/F][V/D][F][V/D]`
+`[C/F][V/P][F][V/P]`
 
 this pattern tends to produce soft words of two to four syllables. there are no
 consonant blends and words can possibly have two fricatives, giving nouns an
@@ -44,12 +44,12 @@ airy feel.
 
 examples:
 ```
-mioshe riwhie whewhe teshe shoepha noathoi whaoshie whoisheo pheithe seshei
+wuiwhai shewhi wewho thuphe theathao tioshe mopho shuewhoe phowhoe whothae
 ```
 
 ### verbs
 
-`[C/B][V/D][C][V]`
+`[C/B][V/P][C][V]`
 
 this pattern produces words of two or three syllables. these words include
 consonant blends and have no fricatives, reflecting that verbs are more
@@ -57,7 +57,7 @@ utilitarian in phi.
 
 examples:
 ```
-sleme nepa sweho maepi slelo stise spaene spoare swawo paepo papo reali
+pahu sloite niewe woeni swimu spili rauwo loipe pieha piono peho stoupo
 ```
 
 ### short words
@@ -69,5 +69,5 @@ common nouns, such as numbers and colours.
 
 examples:
 ```
-whele lole thatha mewa thisho rewhe litha whathe ropha whethi showha
+thoshu tithi thowho popho wothi neni sawhu pephe shuwha thano thata
 ```

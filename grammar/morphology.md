@@ -2,6 +2,60 @@
 
 (eventually)
 
+Characteristics shared by most pidgins:
+
+Typologically most closely resemble isolating languages
+Uncomplicated clausal structure (e.g., no embedded clauses, etc.)
+Reduction or elimination of syllable codas
+Reduction of consonant clusters or breaking them with epenthesis
+Elimination of aspiration or sound changes
+Monophthongization is common, employment of as few basic vowels as possible, such as [a, e, i, o, u]
+Lack of morphophonemic variation
+Lack of tones, such as those found in Niger-Congo, Austroasiatic and Sino-Tibetan language families and in various families of the indigenous languages of the Americas
+Lack of grammatical tense; use of separate words to indicate tense, usually preceding the verb
+Lack of conjugation or declension
+Lack of grammatical gender or number, commonly supplanted by reduplication to represent plurals and superlatives, and other parts of speech that represent the concept being increased and clear indication of the gender or animated objects.
+Lack of clear parts of speech or word categorization; common use and derivation of new vocabulary through conversion, e.g. nominalization, verbification, adjectivization etc.
+
+
+
+
+
+
+
+
+
+
+
+pidgins:
+
+phi is an a priori conlang, not based on any other language.
+
+Sound system
+Most pidgins have relatively simple sound systems characterized by five vowels
+(/i/, /e/, /a/, /u/, /o/) and no consonant clusters.
+
+Grammar
+Pidgins usually have smaller vocabularies, a simpler structure, and more limited
+functions than natural languages. Some typical features include of pidgin
+languages are as follows:
+
+* Subject-Verb-Object word order
+* Absence of grammatical markers for gender, number, case, tense, aspect, mood,
+  etc.
+* Tenses are expressed lexically, i.e., by using temporal adverbs such as
+  tomorrow, yesterday, etc.
+* Grammatical relations are usually expressed through simple juxtaposition.
+* Use of reduplication to represent plurals and superlatives, e.g., Hawai’ian
+  Pidgin wiki-wiki ‘very quick’.
+
+Vocabulary
+
+Since vocabulary is restricted, words in a pidgin language have a wide range of
+meanings. For instance, in the Chinook Jargon, the word klahawaya meant ‘How are
+you?’, ‘Good day,’ or ‘Good bye’.
+
+
 what if humans were always vegetarians
 hard to describe weapons, etc.
 peace-loving
