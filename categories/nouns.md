@@ -15,36 +15,40 @@ phoa - nine
 
 ## general
 
-liewha - liquid
-sashia - water
-lewhi - lake
 miwho - friend
-noshea - food
-whasha - wind
 lipha - tree
 whetho - sky
 ropho - health
 shishoa - good
 phiathe - name
-whoshea - wind
+
+yes/no
+yin/yang
+matter/antimatter
+shade/sun
+dead/alive
+being/non-being
 
 sathie - music
+nosheo - food
+whushea - wind
+sashia - water
+liathi - lake
 
- - animal
+n-sh - earth-based
+li - liquid indicator
+
+thime - animal
 mela - vegetable
 reso - mineral
 
-pharo
-whisa
-thime 
-
- - earth
- - air
- - fire
-lipha - water
+nasho - earth
+whisa - air
+phoru - fire
+lithe - water
 
 liewha - liquid
- - solid
+tolipha - solid
  - gas
 
 matter
