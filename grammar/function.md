@@ -2,7 +2,7 @@
 
 the 208 words in this section are the complete set of words possible, given
 phi's syllable structures and the patterns in the following headings. these
-words are used in phi for parts of speech such as particles, pronouns, or
+words are used in phi for parts of speech such as particles, pronouns, and
 prepositions.
 
 ## `[F][D]`
