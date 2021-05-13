@@ -1,48 +1,53 @@
 # function words
 
-the 208 words in this section are the complete set of words possible, given
-phi's syllable structures and the patterns in the following headings. these
+the 325 words in this section are the complete set of words possible using the
+patterns in the following headings and given phi's syllable structures. these
 words are used in phi for parts of speech such as particles, pronouns, and
 prepositions.
 
-## `[F][D]`
+## `[F][P]`
 ```
-phae phai phao phea phei pheo phia phie phio phoa phoe phoi
-shae shai shao shea shei sheo shia shie shio shoa shoe shoi
-thae thai thao thea thei theo thia thie thio thoa thoe thoi
-whae whai whao whea whei wheo whia whie whio whoa whoe whoi
+phae phai phao phau phea phei pheo pheu phia phie
+phio phiu phoa phoe phoi phou phua phue phui phuo
+shae shai shao shau shea shei sheo sheu shia shie
+shio shiu shoa shoe shoi shou shua shue shui shuo
+thae thai thao thau thea thei theo theu thia thie
+thio thiu thoa thoe thoi thou thua thue thui thuo
+whae whai whao whau whea whei wheo wheu whia whie
+whio whiu whoa whoe whoi whou whua whue whui whuo
+
 ```
 
-## `[C][D]`
+## `[C][P]`
 ```
-hae hai hao hea hei heo hia hie hio hoa hoe hoi
-lae lai lao lea lei leo lia lie lio loa loe loi
-mae mai mao mea mei meo mia mie mio moa moe moi
-nae nai nao nea nei neo nia nie nio noa noe noi
-pae pai pao pea pei peo pia pie pio poa poe poi
-rae rai rao rea rei reo ria rie rio roa roe roi
-sae sai sao sea sei seo sia sie sio soa soe soi
-tae tai tao tea tei teo tia tie tio toa toe toi
-wae wai wao wea wei weo wia wie wio woa woe woi
+hae hai hao hau hea hei heo heu hia hie hio hiu hoa hoe hoi hou hua hue hui huo
+lae lai lao lau lea lei leo leu lia lie lio liu loa loe loi lou lua lue lui luo
+mae mai mao mau mea mei meo meu mia mie mio miu moa moe moi mou mua mue mui muo
+nae nai nao nau nea nei neo neu nia nie nio niu noa noe noi nou nua nue nui nuo
+pae pai pao pau pea pei peo peu pia pie pio piu poa poe poi pou pua pue pui puo
+rae rai rao rau rea rei reo reu ria rie rio riu roa roe roi rou rua rue rui ruo
+sae sai sao sau sea sei seo seu sia sie sio siu soa soe soi sou sua sue sui suo
+tae tai tao tau tea tei teo teu tia tie tio tiu toa toe toi tou tua tue tui tuo
+wae wai wao wau wea wei weo weu wia wie wio wiu woa woe woi wou wua wue wui wuo
 ```
 
 ## `[F][V]`
 ```
-pha phe phi pho
-sha she shi sho
-tha the thi tho
-wha whe whi who
+pha phe phi pho phu
+sha she shi sho shu
+tha the thi tho thu
+wha whe whi who whu
 ```
 
 ## `[C][V]`
 ```
-ha he hi ho
-la le li lo
-ma me mi mo
-na ne ni no
-pa pe pi po
-sa se si so
-ra re ri ro
-ta te ti to
-wa we wi wo
+ha he hi ho hu
+la le li lo lu
+ma me mi mo mu
+na ne ni no nu
+pa pe pi po pu
+ra re ri ro ru
+sa se si so su
+ta te ti to tu
+wa we wi wo wu
 ```

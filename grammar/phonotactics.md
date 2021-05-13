@@ -10,7 +10,7 @@
 | C     | `p/t/m/n/r/s/h/w/l`
 | F     | `ph/wh/th/sh`
 | V     | `i/u/e/o/a`
-| P     | `[VV]^ii^uu^ee^oo^aa^ou`
+| P     | `[VV]^ii^uu^ee^oo^aa`
 
 *http://akana.conlang.org/tools/awkwords/
 
@@ -33,7 +33,7 @@ syllables in the same word.
 `[C/F][V/P][F][V/P]`
 
 this pattern tends to produce soft words of two to four syllables. words can
-possibly have two fricatives, giving nouns an airy feel.
+have a possible two fricatives, giving nouns an airy feel.
 
 examples:
 ```
