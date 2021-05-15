@@ -76,7 +76,7 @@ consider evidentiality
 * all words
   * start with consonant
   * end with a vowel
-  * (C)CV(V)
+  * (C)CV or V
 * emphasis is on the penultimate syllable
 * subject object verb sentence structure
   * e.g. i you love
