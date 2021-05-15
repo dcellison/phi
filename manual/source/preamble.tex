@@ -1,12 +1,14 @@
 \geometry{left=1in,right=1in,top=1.15in,bottom=1.5in}
 
+\newcommand{\changefont}{\fontsize{10}{0}\selectfont}
+\newcommand{\ec}{}
+
 \renewcommand{\thefootnote}{\arabic{footnote}}
 \renewcommand{\thesection}{\arabic{section}}
 \renewcommand{\labelitemi}{\tiny$\bullet$}
 \renewcommand{\thetable}{\arabic{table}}
 \renewcommand{\baselinestretch}{1.12}
 \renewcommand{\headrulewidth}{0pt}
-\newcommand{\ec}{}
 
 \definecolor{greyhead}{gray}{0.8}
 \definecolor{greyrow}{gray}{0.95}
@@ -26,7 +28,6 @@
 \frenchspacing
 \titleformat*{\section}{\sectionfont}
 \fancyfoot[R]{\color{footdate} \changefont \DTMnow}
-\newcommand{\changefont}{\fontsize{10}{0}\selectfont}
 \fancyfoot[L]{\changefont Page \thepage \hspace{1pt} of \pageref{LastPage}}
 
 \captionsetup[table]
