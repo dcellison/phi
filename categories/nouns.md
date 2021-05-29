@@ -17,7 +17,7 @@ phoa - nine
 
 miwho - friend
 lipha - tree
-whetho - sky
+whethu - sky
 ropho - health
 shishoa - good
 phiathe - name
