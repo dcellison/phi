@@ -5,7 +5,7 @@
 thoi - zero
 whea - one
 phie - two
-thoa - three
+thou - three
 shea - four
 whoe - five
 phai - six
@@ -31,12 +31,9 @@ being/non-being
 
 sathie - music
 nosheo - food
-whushea - wind
+whuthea - wind
 sashia - water
 liathi - lake
-
-n-sh - earth-based
-li - liquid indicator
 
 thime - animal
 mela - vegetable

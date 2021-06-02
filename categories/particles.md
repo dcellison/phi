@@ -49,8 +49,7 @@
 | ni  | present perfect | has done
 
 * maybe no perfect tense
-* south africa and southeast asia use "already" or "finish"
-
+  * south africa and southeast asia use "already" or "finish"
 * investigate yucatec maya's lack of tenses altogether
   * read paper "temporal anaphora in a tenseless language"
   * represented partially by "present progressive" above
