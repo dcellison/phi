@@ -2,25 +2,25 @@
 
 ## parts of speech
 
-| phi | ipa    | type
-| --  | ---    | ----
-| si  | `/si/` | subject
-| na  | `/na/` | object
-| te  | `/te/` | verb
+| phi | type
+| --  | ----
+| si  | subject
+| na  | object
+| te  | verb
 
-| phi | ipa    | type
-| --  | ---    | ----
-| me  | `/me/` | not
-|     | `//`   | dual
-| lo  | `/lo/` | plural
-| wha | `/ʍa/` | question
-| ho  | `/ho/` | exclamation
+| phi | type
+| --  | ----
+| me  | not
+|     | dual
+| lo  | plural
+| wha | question
+| ho  | exclamation
 
 * us/we is plural 1st person
   * lo mia
     * plural me
     * us/we
-* plural exclusive would use
+* plural exclusive would use (clusivity)
   * lo mia na thi
     * plural me not you
     * us/we not you
@@ -33,24 +33,20 @@
   * it always starts a sentence
 * try multiple plurals
   * maybe for "several" or "a few"
-* try particles for animals, human beings, for abstract nouns, etc. Many languages make a distinction based on animacy, between animate and inanimate objects (people and animals vs. plants and non-living objects, or the like)
-* maybe use particles for punctuation
-  * similar to the `hu` question particle
-  * exclamation
-  * period
-  * colon
-  * semicolon
+* try particles for animals, human beings, for abstract nouns, etc. Many
+  languages make a distinction based on animacy, between animate and inanimate
+  objects (people and animals vs. plants and non-living objects, or the like)
 
 ## tense
 
-| phi | ipa    | type                | example
-| --- | ---    | ----                | -------
-| li  | `/li/` | simple past         | did
-| ta  | `/ta/` | simple present      | do
-| se  | `/se/` | simple future       | will do
-| wo  | `/wo/` | simple future       | wants to do
-| la  | `/la/` | present progressive | doing
-| ni  | `/ni/` | present perfect     | has done
+| phi | type            | example
+| --- | ----            | -------
+| li  | simple past     | did
+| ta  | simple present  | do
+| se  | simple future   | will do
+| wo  | simple future   | wants to do
+| la  | present prog    | doing
+| ni  | present perfect | has done
 
 * maybe no perfect tense
 * south africa and southeast asia use "already" or "finish"
