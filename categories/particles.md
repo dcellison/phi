@@ -9,11 +9,10 @@
 | te  | verb
 
 | phi | type
-| --  | ----
+| --- | ----
 | me  | not
-|     | dual
 | lo  | plural
-| wha | question
+| wa  | question
 | ho  | exclamation
 
 * us/we is plural 1st person
