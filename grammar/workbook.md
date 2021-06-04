@@ -137,53 +137,68 @@
 
 ## numbers
 
-thoi - zero
-whea - one
-phie - two
-thou - three
-shea - four
-whoe - five
-phai - six
-shae - seven
-thia - eight
-phoa - nine
+| phi  | eng
+| ---  | ---
+| thoi | zero
+| whea | one
+| phie | two
+| thou | three
+| shea | four
+| whoe | five
+| phai | six
+| shae | seven
+| thia | eight
+| phoa | nine
 
 ## general
 
-miwho - friend
-lipha - tree
-whethu - sky
-ropho - health
-shishoa - good
-phiathe - name
+| phi     | eng
+| ---     | ---
+| miwho   | friend
+| lipha   | tree
+| whethu  | sky
+| ropho   | health
+| shishoa | good
+| phiathe | name
 
-whi - yes
-pha - no
+| phi | eng
+| --- | ---
+| whi | yes
+| pha | no
 
-yin/yang
-matter/antimatter
-shade/sun
-dead/alive
-being/non-being
+* yin/yang
+* matter/antimatter
+* shade/sun
+* dead/alive
+* being/non-being
 
-sathie - music
-nosheo - food
-whuthea - wind
-sashia - water
-liathi - lake
+| phi     | eng
+| ---     | ---
+| sathie  | music
+| nosheo  | food
+| whuthea | wind
+| sashia  | water
+| liathi  | lake
 
-thime - animal
-mela - vegetable
-reso - mineral
+| phi   | eng
+| ---   | ---
+| thime | animal
+| mela  | vegetable
+| reso  | mineral
 
-nasho - earth
-whisa - air
-phoru - fire
-lithe - water
+| phi   | eng
+| ---   | ---
+| nasho | earth
+| whisa | air
+| phoru | fire
+| lithe | water
 
-liewha - liquid
-tolipha - solid
- - gas
+| phi     | eng
+| ---     | ---
+| liewha  | liquid
+| tolipha | solid
+|         | gas
+
 
 matter
 energy
@@ -403,7 +418,7 @@ winter
 | lia | by
 | who | for
 | mae | with
-| whi | at
+| wha | at
 | soa | of
 | nie | from
 | pho | as
