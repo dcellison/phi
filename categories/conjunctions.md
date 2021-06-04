@@ -2,36 +2,36 @@
 
 ## coordinating
 
-| phi | ipa   | eng
-| --- | ---   | ---
-|     | `//`  | for
-|     | `//`  | and
-|     | `//`  | nor
-|     | `//`  | but
-|     | `//`  | or
-|     | `//`  | yet
-|     | `//`  | so
+| phi | eng
+| --- | ---
+|     | for
+|     | and
+|     | nor
+|     | but
+|     | or
+|     | yet
+|     | so
 
 ## subordinating
 
-| phi  | ipa       | eng
-| ---- | ---       | ---
-|      | `//`      | after
-|      | `//`      | although
-|      | `//`      | as
-|      | `//`      | because
-|      | `//`      | before
-| haso | `/ha.so/` | how
-|      | `//`      | if
-|      | `//`      | once
-|      | `//`      | since
-|      | `//`      | than
-|      | `//`      | that
-|      | `//`      | when
-|      | `//`      | where
-|      | `//`      | whether
-|      | `//`      | while
-|      | `//`      | until
+| phi  | eng
+| ---- | ---
+|      | after
+|      | although
+|      | as
+|      | because
+|      | before
+| haso | how
+|      | if
+|      | once
+|      | since
+|      | than
+|      | that
+|      | when
+|      | where
+|      | whether
+|      | while
+|      | until
 
 ## correlative
 

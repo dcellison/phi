@@ -2,15 +2,15 @@
 
 ## colours
 
-| phi   | ipa        | eng
-| ---   | ---        | -------
-| lawha | `/la.ʍa/`  | red
-| sathe | `/sa.θe/`  | orange
-| phili | `/ɸi.lu/`  | yellow
-| hashe | `/ha.ʃe/`  | green
-| mipho | `/mi.ɸo/`  | blue
-| pewhe | `/pe.ʍe/`  | indigo
-| nisha | `/ni.ʃu/`  | violet
-| sathi | `/sa.θi/`  | black
-| thasi | `/θa.si/`  | white
-| rawha | `/ru./ʍa`  | grey
+| phi   | eng
+| ---   | ---
+| lawha | red
+| sathe | orange
+| phili | yellow
+| hashe | green
+| mipho | blue
+| pewhe | indigo
+| nisha | violet
+| sathi | black
+| thasi | white
+| rawha | grey

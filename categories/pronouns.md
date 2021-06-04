@@ -1,7 +1,7 @@
 # pronouns
 
-| phi | ipa      | eng | function
-| --- | ---      | --- | --------
-| mia | `/mi.a/` | me  | 1st person
-| thi | `/ɸi/`   | you | 2nd person
-| sha | `/ʃa/`   | it  | 3rd person
+| phi | eng | function
+| --- | --- | --------
+| mia | me  | 1st person
+| thi | you | 2nd person
+| sha | it  | 3rd person

@@ -1,15 +1,15 @@
 # prepositions
 
-| phi | phoneme  | english
-| --- | ---      | ---
-| hoi | `/ho.i/` | on
-| nea | `/ne.a/` | in
-| tho | `/θu/`   | to
-| lia | `/li.a/` | by
-| who | `/ʍo/`   | for
-| mae | `/ma.e/` | with
-| whi | `/ʍi/`   | at
-| soa | `/so.a/` | of
-| nie | `/ni.e/` | from
-| pho | `/ɸo/`   | as
-| hea | `/he.a/` | about
+| phi | english
+| --- | -------
+| hoi | on
+| nea | in
+| tho | to
+| lia | by
+| who | for
+| mae | with
+| whi | at
+| soa | of
+| nie | from
+| pho | as
+| hea | about

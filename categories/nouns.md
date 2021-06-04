@@ -22,7 +22,9 @@ ropho - health
 shishoa - good
 phiathe - name
 
-yes/no
+whi - yes
+pha - no
+
 yin/yang
 matter/antimatter
 shade/sun

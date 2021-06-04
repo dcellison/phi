@@ -34,54 +34,54 @@
 * they are all some form of "be"
   * the ball was thrown by me <- "was"
 
-| phi | ipa   | eng
-| --- | ---   | ---
-|     | `//`  | is
-|     | `//`  | am
-|     | `//`  | are
-|     | `//`  | was
-|     | `//`  | were
-|     | `//`  | be
-|     | `//`  | being
-|     | `//`  | been
+| phi | eng
+| --- | ---
+|     | is
+|     | am
+|     | are
+|     | was
+|     | were
+|     | be
+|     | being
+|     | been
 
 ## miscellaneous
 
-| phi    | ipa          | eng
-| ---    | ---          | -------
-|        | `//`         | go
-|        | `//`         | do
-|        | `//`         | eat
-|        | `//`         | give
-|        | `//`         | take
-|        | `//`         | sleep
-|        | `//`         | tell
-|        | `//`         | sit
-| lothea | `/lo.ˈθe.a/` | love
-| lephe  | `/ˈle.ɸe/`   | like
-|        | `//`         | add
-|        | `//`         | ask
-|        | `//`         | carry
-|        | `//`         | drop
-|        | `//`         | contain
-|        | `//`         | move
-|        | `//`         | push
-|        | `//`         | pull
-|        | `//`         | step
-|        | `//`         | walk
-|        | `//`         | run
-|        | `//`         | wait
-|        | `//`         | use
+| phi    | eng
+| ---    | ---
+|        | go
+|        | do
+|        | eat
+|        | give
+|        | take
+|        | sleep
+|        | tell
+|        | sit
+| lothea | love
+| lephe  | like
+|        | add
+|        | ask
+|        | carry
+|        | drop
+|        | contain
+|        | move
+|        | push
+|        | pull
+|        | step
+|        | walk
+|        | run
+|        | wait
+|        | use
 
 ## voice verbs
 
-| phi    | ipa          | eng
-| ---    | ---          | -------
-|        | `//`         | whisper
-|        | `//`         | talk
-|        | `//`         | sing
-|        | `//`         | laugh
-|        | `//`         | cry
-|        | `//`         | scream
-|        | `//`         | shout
-|        | `//`         | yell
+| phi    | eng
+| ---    | ---
+|        | whisper
+|        | talk
+|        | sing
+|        | laugh
+|        | cry
+|        | scream
+|        | shout
+|        | yell
