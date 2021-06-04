@@ -46,24 +46,24 @@
 
 ## subordinating
 
-| phi  | eng
-| ---- | ---
-|      | after
-|      | although
-|      | as
-|      | because
-|      | before
-| haso | how
-|      | if
-|      | once
-|      | since
-|      | than
-|      | that
-|      | when
-|      | where
-|      | whether
-|      | while
-|      | until
+| phi | eng
+| --- | ---
+|     | after
+|     | although
+|     | as
+|     | because
+|     | before
+|     | how
+|     | if
+|     | once
+|     | since
+|     | than
+|     | that
+|     | when
+|     | where
+|     | whether
+|     | while
+|     | until
 
 ## correlative
 
@@ -75,7 +75,8 @@
   * not only/but also
   * whether/or
 
-* from /Torn Tongue: Correlative Conjunctions/(https://conlangs.livejournal.com/503435.html)
+* from [Torn Tongue:
+Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 
 | eng               | torn tongue
 | ---               | -----------
