@@ -1,0 +1,10 @@
+.DS_Store
+manual/source/*.aux
+manual/source/*.fls
+manual/source/*.log
+manual/source/*.lot
+manual/source/*.out
+manual/source/*.pdf
+manual/source/*.toc
+manual/source/*.synctex.gz
+manual/source/*.fdb_latexmk
