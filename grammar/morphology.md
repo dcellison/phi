@@ -95,6 +95,7 @@ consider evidentiality
 * adjectives follow nouns
   * flower blue
 * numbers follow the object counted
+  * oranges 42
 * relative clauses come before nouns?
 * no passive voice
 * verbs are two or three syllables

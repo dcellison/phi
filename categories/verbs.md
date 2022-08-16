@@ -56,6 +56,7 @@
 |        | take
 |        | sleep
 |        | tell
+|        | see
 |        | sit
 | lothea | love
 | lephe  | like

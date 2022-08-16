@@ -7,7 +7,7 @@
 
 | group | pattern
 | ----- | -------
-| C     | `p/t/m/n/r/s/h/w/l`
+| C     | `p/b/t/d/m/n/r/s/h/w/l`
 | F     | `ph/wh/th/sh`
 | V     | `i/u/e/o/a`
 | P     | `[VV]^ii^uu^ee^oo^aa`
