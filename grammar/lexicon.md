@@ -5,7 +5,7 @@
 | te           |               | particle               | verb
 | me           |               | particle               | not
 | lo           |               | particle               | plural
-| wha          |               | particle               | question
+| wa           |               | particle               | question
 | ho           |               | particle               | exclamaton
 | li           |               | particle               | simple past
 | ta           |               | particle               | simle present
@@ -13,7 +13,7 @@
 | wo           |               | particle               | simple future
 | la           |               | particle               | present progressive
 | ni           |               | particle               | present perfect
-|              | a             | article                | 
+|              | a             | article                | indefinite
 | hea          | about         | prep adv               | 
 |              | above         | adv prep               | 
 |              | across        | prep adv               | 
@@ -36,7 +36,7 @@
 |              | always        | adv                    | 
 |              | am            | verb                   | 
 |              | amount        | noun verb              | 
-|              | an            | article                | 
+|              | an            | article                | indefinite
 |              | and           | conj noun              | 
 |              | angry         | adj                    | 
 |              | another       | adj pron               | 
@@ -901,7 +901,7 @@
 |              | test          |                        | 
 |              | than          |                        | 
 |              | that          |                        | 
-|              | the           | article                | 
+|              | the           | article                | definite
 |              | their         |                        | 
 |              | theirs        |                        | 
 |              | then          |                        | 

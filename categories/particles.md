@@ -13,7 +13,7 @@
 | me  | not
 | lo  | plural
 | wa  | question
-| hi  | exclamation
+| ho  | exclamation
 
 * us/we is plural 1st person
   * lo mia
