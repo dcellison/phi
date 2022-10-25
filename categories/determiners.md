@@ -1,6 +1,8 @@
 # determiners
 
-## interrogatives
+## pattern with nouns
+
+### interrogatives
 
 | phi | eng
 | --- | ---
@@ -9,7 +11,7 @@
 |     | what
 |     | who
 
-## demonstratives
+### demonstratives
 
 | phi | eng
 | --- | ---
@@ -18,12 +20,12 @@
 |     | these
 |     | those
 
-## quantifiers
+### quantifiers
 
 | phi | eng
 | --- | ---
 |     | all
-|     | one
+| lu  | one
 |     | few
 |     | many
 |     | some

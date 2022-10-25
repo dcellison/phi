@@ -1,7 +1,9 @@
 # verbs
 
 * in phi, verbs do not conjugate
-* tense particles are added instead
+  * verbs stay in infinitive, unchanged form
+  * no change to indicate tense, number, etc.
+  * tense particles are used instead
 
 * there are four types of verbs
   * intransitive

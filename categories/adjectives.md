@@ -1,5 +1,10 @@
 # adjectives
 
+## describe nouns
+
+p t m n r s h w l
+ph wh th sh
+
 ## colours
 
 | phi   | eng

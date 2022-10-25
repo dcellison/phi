@@ -1,5 +1,7 @@
 # prepositions
 
+## common words that show a noun's or pronoun’s position or location
+
 | phi | english
 | --- | -------
 | hoi | on
@@ -13,3 +15,6 @@
 | nie | from
 | pho | as
 | hea | about
+|     | before
+|     | under
+|     | over

@@ -60,6 +60,9 @@ what if humans were always vegetarians
 hard to describe weapons, etc.
 peace-loving
 
+no cases
+no conjugations
+
 consider adding deference
 consider evidentiality
 

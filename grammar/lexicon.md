@@ -3,10 +3,10 @@
 | si           |               | particle               | subject
 | na           |               | particle               | object
 | te           |               | particle               | verb
-| me           |               | particle               | not
+| ne           |               | particle               | not
 | lo           |               | particle               | plural
 | wa           |               | particle               | question
-| ho           |               | particle               | exclamaton
+| hi           |               | particle               | exclamaton
 | li           |               | particle               | simple past
 | ta           |               | particle               | simle present
 | se           |               | particle               | simple future
@@ -36,7 +36,6 @@
 |              | always        | adv                    | 
 |              | am            | verb                   | 
 |              | amount        | noun verb              | 
-|              | an            | article                | indefinite
 |              | and           | conj noun              | 
 |              | angry         | adj                    | 
 |              | another       | adj pron               | 
@@ -331,7 +330,7 @@
 |              | flower        | noun verb              | 
 |              | fly           | noun verb              | 
 |              | fold          | verb noun              | 
-| noshea       | food          | noun                   | 
+| noshe        | food          | noun                   | 
 |              | fool          | noun verb              | 
 |              | foot          | noun verb              | 
 |              | football      | noun                   | 
@@ -374,7 +373,7 @@
 |              | goat          | noun                   | 
 |              | god           | noun                   | 
 |              | gold          | noun adj               | 
-| shishoa      | good          | adj noun               | 
+| these        | good          | adj noun               | 
 |              | goodbye       | int                    | 
 |              | grandfather   | noun                   | 
 |              | grandmother   | noun                   | 
@@ -586,7 +585,7 @@
 |              | nice          | adj                    | 
 |              | night         |                        | 
 | phoa         | nine          | number                 | 
-|              | no            | noun adj               | 
+| pha          | no            | noun adj               | 
 |              | noble         | adj                    | 
 |              | noise         | noun                   | 
 |              | none          | pron                   | 
@@ -809,7 +808,7 @@
 |              | skill         |                        | 
 |              | skin          |                        | 
 |              | skirt         |                        | 
-| whetho       | sky           | noun                   | 
+| whethu       | sky           | noun                   | 
 |              | sleep         |                        | 
 |              | slip          |                        | 
 |              | slow          |                        | 
@@ -918,7 +917,7 @@
 |              | though        |                        | 
 |              | thousand*     |                        | 
 |              | threat        |                        | 
-| thoa         | three         | number                 | 
+| thou         | three         | number                 | 
 |              | tidy          |                        | 
 |              | tie           |                        | 
 |              | title         |                        | 

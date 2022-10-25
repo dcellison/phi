@@ -178,7 +178,6 @@ Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 | sathie  | music
 | nosheo  | food
 | whuthea | wind
-| sashia  | water
 | liathi  | lake
 
 | phi   | eng
@@ -189,7 +188,7 @@ Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 
 | phi   | eng
 | ---   | ---
-| nasho | earth
+| tosho | earth
 | whisa | air
 | phoru | fire
 | lithe | water
@@ -198,8 +197,16 @@ Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 | ---     | ---
 | liewha  | liquid
 | tolipha | solid
-|         | gas
+| whosha  | gas
 
+| phi | root
+| --- | -----
+| li  | liquid
+| to  | solid
+| wh  | gas
+
+these roots aren't exclusive to these states of matter. but words related to
+these states of matter should begin with these roots.
 
 matter
 energy
@@ -365,7 +372,7 @@ winter
 
 | phi | type
 | --- | ----
-| me  | not
+| ne  | not
 | lo  | plural
 | wa  | question
 | hi  | exclamation
@@ -375,15 +382,20 @@ winter
     * plural me
     * us/we
 * plural exclusive would use (clusivity)
-  * lo mia na thi
+  * lo mia ne thi
     * plural me not you
     * us/we not you
 * this can work to exclude others as well
-  * lo mia na lo sha
+  * lo mia ne lo sha
     * plural me not plural it
     * us not them
 
-* subject marker _si_ is optional
+* questions start with particle "wa"
+  * sentence structured as a statement
+  * e.g. "it is raining" instead of "is it raining"
+  * "wa" particle turns a statement into a question
+
+* subject marker "si" is optional
   * it always starts a sentence
 * try multiple plurals
   * maybe for "several" or "a few"

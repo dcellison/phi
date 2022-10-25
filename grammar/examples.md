@@ -3,59 +3,59 @@
 | type | sentence
 | ---- | --------
 | eng  | i love you
-| lit  | (subject) me (object) you (verb) love
-| phi  | (si mia) (na thi) (te lothea)
+| lit  | me you love
+| phi  | mia thi lothea
 
 | type | sentence
 | ---- | --------
 | eng  | the sky is blue
-| lit  | (subject) sky (object) blue (verb) is
-| phi  | (si whetho) (na mipho) (te phi)
+| lit  | sky blue is
+| phi  | whethu mipho phi
 
 | type | sentence
 | ---- | --------
 | eng  | they like food
-| lit  | (subject/plural) it (object) food (verb) like
-| phi  | (si lo sha) (na noshea) (te lephe)
+| lit  | (plural it) food like
+| phi  | (lo sha) noshe lephe
 
 | type | sentence
 | ---- | --------
 | eng  | i like it
-| lit  | (subject) me (object) it (verb) like
-| phi  | (si mia) (na sha) (te lephe)
+| lit  | me it like
+| phi  | mia sha lephe
 
 | type | sentence
 | ---- | --------
-| eng  | i do not like green
-| lit  | (subject) me (object) green (verb/not) like
-| phi  | (si mia) (na hashe) (te me lephe)
+| eng  | i do not like orange
+| lit  | me orange (not like)
+| phi  | mia sathe (ne lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | i liked my friend
-| lit  | (subject) me (object) friend of me (verb/past) like
-| phi  | (si mia) (na miwho soa mia) (te li lephe)
+| lit  | me (friend of me) (past like)
+| phi  | mia (miwho soa mia) (li lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | the food is ours
-| lit  | (subject) food (object/plural) of us (verb) is
-| phi  | (si noshea) (na soa lo mia) (te phi)
+| lit  | food (of plural me) is
+| phi  | noshe (soa lo mia) phi
 
 | type | sentence
 | ---- | --------
 | eng  | our food is good
-| lit  | (subject/plural) food of us (object) good (verb) is
-| phi  | (si noshea soa lo mia) (na shishoa) (te phi)
+| lit  | (food (of plural me)) good is
+| phi  | noshe (soa lo mia) these phi
 
 | type | sentence
 | ---- | --------
-| eng  | are you in good health?
-| lit  | (question (subject) you (object) health good (verb/happening) are)
-| phi  | (hu (si thi) (na ropho shishoa) (te la phe))
+| eng  | you are in good health?
+| lit  | question you (health good) (being are)
+| phi  | wa thi (ropho these) (la phe)
 
 | type | sentence
 | ---- | --------
-| eng  | we love the orange trees
-| lit  | (subject/plural) me (object/plural) tree orange (verb) love
-| phi  | (si lo mia) (na lo lipha sathe) (te lothea)
+| eng  | we love (the green trees)
+| lit  | (plural me) (plural tree green) love
+| phi  | (lo mia) (lo lipha hashe) lothea
