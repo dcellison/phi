@@ -1,6 +1,6 @@
 # prepositions
 
-## common words that show a noun's or pronoun’s position or location
+> prepositions show direction, time, place, location, spatial relationships, or to introduce an object. 
 
 | phi | english
 | --- | -------

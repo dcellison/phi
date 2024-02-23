@@ -1,5 +1,7 @@
 # particles
 
+> particles add context to the sentence, expressing a mood or indicating a specific action.
+
 ## parts of speech
 
 | phi | type
@@ -26,15 +28,11 @@
 | la  | present prog    | doing
 | ni  | present perfect | has done
 
-# ----------------------------------------
-
 * maybe no perfect tense
   * south africa and southeast asia use "already" or "finish"
 * investigate yucatec maya's lack of tenses altogether
   * read paper "temporal anaphora in a tenseless language"
   * represented partially by "present progressive" above
-
-# ----------------------------------------
 
 * us/we is plural 1st person
   * lo mia

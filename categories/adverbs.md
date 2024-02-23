@@ -1,6 +1,6 @@
 # adverbs
 
-## modify verbs
+> adverbs modify a verb, adjective, or another adverb.
 
 | phi | ipa      | eng
 | --- | ---      | ---

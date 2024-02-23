@@ -1,5 +1,7 @@
 # numbers
 
+> numbers are a feature of nouns, pronouns, adjectives and verb agreement that expresses count distinctions.
+
 no - zero
 lu - one
 mi - two

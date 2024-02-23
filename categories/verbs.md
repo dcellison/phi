@@ -1,10 +1,13 @@
 # verbs
 
+> verbs show what the subject is doing or feeling, even if they're just existing.
+
 * in phi, verbs do not conjugate
+  * conjugation refers to the act of changing the form of a verb and/or adding a helping verb to indicate person, number, and tense.
   * verbs stay in infinitive, unchanged form
   * no change to indicate tense, number, etc.
   * tense particles are used instead
-
+  
 * there are four types of verbs
   * intransitive
   * transitive

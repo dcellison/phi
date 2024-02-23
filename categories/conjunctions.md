@@ -1,5 +1,7 @@
 # conjunctions
 
+>  conjunctions connect words, phrases, and clauses.
+
 ## coordinating
 
 | phi | eng

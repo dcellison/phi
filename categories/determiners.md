@@ -1,6 +1,6 @@
 # determiners
 
-## pattern with nouns
+> determiners modify or describe a noun by clarifying what it refers to.
 
 ### interrogatives
 

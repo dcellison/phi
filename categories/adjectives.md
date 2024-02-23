@@ -1,9 +1,6 @@
 # adjectives
 
-## describe nouns
-
-p t m n r s h w l
-ph wh th sh
+> adjectives modify or describe a noun or pronoun.
 
 ## colours
 

@@ -6,7 +6,7 @@ words are used in phi for parts of speech such as particles, pronouns, and
 prepositions. As well, the shorter function words are used for very frequently
 used words, such as the number nouns.
 
-## [F][P]
+## [F] [P]
 
 | phi  | meaning    | type
 | ---  | -------    | ----
@@ -91,7 +91,7 @@ used words, such as the number nouns.
 | whui |            | 
 | whuo |            | 
 
-## [C][P]
+## [C] [P]
 
 | phi  | meaning    | type
 | ---  | -------    | ----
@@ -276,7 +276,7 @@ used words, such as the number nouns.
 | wui  |            | 
 | wuo  |            | 
 
-## [F][V]
+## [F] [V]
 
 | phi  | meaning    | type
 | ---  | -------    | ----
@@ -301,7 +301,7 @@ used words, such as the number nouns.
 | who  | for        | preposition
 | whu  |            | 
 
-## [C][V]
+## [C] [V]
 
 | phi | meaning     | type      | sub-type      | sub-sub-type
 | --- | -------     | ----      | -------       | -----------

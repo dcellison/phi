@@ -1,5 +1,7 @@
 # pronouns
 
+> pronouns replace nouns.
+
 | phi | eng | function
 | --- | --- | --------
 | mia | me  | 1st person
