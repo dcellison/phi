@@ -15,6 +15,6 @@
 | nie | from
 | pho | as
 | hea | about
-|     | before
-|     | under
-|     | over
+| tua | before
+| woe | under
+| mua | over

@@ -18,7 +18,7 @@ Lack of grammatical gender or number, commonly supplanted by reduplication to re
 Lack of clear parts of speech or word categorization; common use and derivation of new vocabulary through conversion, e.g. nominalization, verbification, adjectivization etc.
 
 
-
+person, tense, number, focus are generally missing.
 
 
 

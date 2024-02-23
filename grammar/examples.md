@@ -15,6 +15,7 @@
 | type | sentence
 | ---- | --------
 | eng  | they like food
+| int  | they food like
 | lit  | (plural it) food like
 | phi  | (lo sha) noshe lephe
 
@@ -33,18 +34,21 @@
 | type | sentence
 | ---- | --------
 | eng  | i liked my friend
+| int  | me my friend liked
 | lit  | me (friend of me) (past like)
 | phi  | mia (miwho soa mia) (li lephe)
 
 | type | sentence
 | ---- | --------
 | eng  | the food is ours
+| int  | food ours is
 | lit  | food (of plural me) is
 | phi  | noshe (soa lo mia) phi
 
 | type | sentence
 | ---- | --------
 | eng  | our food is good
+| int  | food our good is
 | lit  | (food (of plural me)) good is
 | phi  | noshe (soa lo mia) these phi
 

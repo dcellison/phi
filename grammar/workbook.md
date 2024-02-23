@@ -1,3 +1,12 @@
+# roots
+these roots aren't exclusive to these states of matter. but words related to these states of matter should begin with these roots.
+
+| phi | root
+| --- | -----
+| li  | liquid
+| to  | solid
+| wh  | gas
+
 # adjectives
 
 ## colours
@@ -122,7 +131,7 @@ Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 | phi | eng
 | --- | ---
 |     | all
-|     | one
+| lu  | one
 |     | few
 |     | many
 |     | some
@@ -135,21 +144,6 @@ Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 # interjections
 
 # nouns
-
-## numbers
-
-| phi  | eng
-| ---  | ---
-| thoi | zero
-| whea | one
-| phie | two
-| thou | three
-| shea | four
-| whoe | five
-| phai | six
-| shae | seven
-| thia | eight
-| phoa | nine
 
 ## general
 
@@ -198,15 +192,6 @@ Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 | liewha  | liquid
 | tolipha | solid
 | whosha  | gas
-
-| phi | root
-| --- | -----
-| li  | liquid
-| to  | solid
-| wh  | gas
-
-these roots aren't exclusive to these states of matter. but words related to
-these states of matter should begin with these roots.
 
 matter
 energy
@@ -377,6 +362,9 @@ winter
 | wa  | question
 | hi  | exclamation
 
+* use of sov particles is optional and rarely used
+* normally used to clarify part of speech
+
 * us/we is plural 1st person
   * lo mia
     * plural me
@@ -395,8 +383,6 @@ winter
   * e.g. "it is raining" instead of "is it raining"
   * "wa" particle turns a statement into a question
 
-* subject marker "si" is optional
-  * it always starts a sentence
 * try multiple plurals
   * maybe for "several" or "a few"
 * try particles for animals, human beings, for abstract nouns, etc. Many
@@ -449,7 +435,7 @@ winter
 
 # verbs
 
-* in phi, verbs do not conjugate
+* verbs do not conjugate in phi
 * tense particles are added instead
 
 * there are four types of verbs
@@ -534,3 +520,18 @@ winter
 |        | scream
 |        | shout
 |        | yell
+
+## These used to be the phi words for numbers but are now available to define other words.
+
+| phi    | eng
+| ---    | ---
+| thoi | zero
+| whea | one
+| phie | two
+| thou | three
+| shea | four
+| whoe | five
+| phai | six
+| shae | seven
+| thia | eight
+| phoa | nine
