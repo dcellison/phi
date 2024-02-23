@@ -93,188 +93,188 @@ used words, such as the number nouns.
 
 ## [C] [P]
 
-| phi  | meaning    | type
-| ---  | -------    | ----
-| hae  |            | 
-| hai  |            | 
-| hao  |            | 
-| hau  |            | 
-| hea  | about      | preposition
-| hei  |            | 
-| heo  |            | 
-| heu  |            | 
-| hia  |            | 
-| hie  |            | 
-| hio  |            | 
-| hiu  |            | 
-| hoa  |            | 
-| hoe  |            | 
-| hoi  | on         | preposition
-| hou  |            | 
-| hua  |            | 
-| hue  |            | 
-| hui  |            | 
-| huo  |            | 
-| lae  |            | 
-| lai  |            | 
-| lao  |            | 
-| lau  |            | 
-| lea  |            | 
-| lei  |            | 
-| leo  |            | 
-| leu  |            | 
-| lia  | by         | preposition
-| lie  |            | 
-| lio  |            | 
-| liu  |            | 
-| loa  |            | 
-| loe  |            | 
-| loi  |            | 
-| lou  |            | 
-| lua  |            | 
-| lue  |            | 
-| lui  |            | 
-| luo  |            | 
-| mae  | with       | preposition
-| mai  |            | 
-| mao  |            | 
-| mau  |            | 
-| mea  |            | 
-| mei  |            | 
-| meo  |            | 
-| meu  |            | 
-| mia  |            | 
-| mie  |            | 
-| mio  |            | 
-| miu  |            | 
-| moa  |            | 
-| moe  |            | 
-| moi  |            | 
-| mou  |            | 
-| mua  | over       | preposition
-| mue  |            | 
-| mui  |            | 
-| muo  |            | 
-| nae  |            | 
-| nai  |            | 
-| nao  |            | 
-| nau  |            | 
-| nea  | in         | preposition
-| nei  |            | 
-| neo  |            | 
-| neu  |            | 
-| nia  |            | 
-| nie  | from       | preposition
-| nio  |            | 
-| niu  |            | 
-| noa  |            | 
-| noe  |            | 
-| noi  |            | 
-| nou  |            | 
-| nua  |            | 
-| nue  |            | 
-| nui  |            | 
-| nuo  |            | 
-| pae  |            | 
-| pai  |            | 
-| pao  |            | 
-| pau  |            | 
-| pea  |            | 
-| pei  |            | 
-| peo  |            | 
-| peu  |            | 
-| pia  |            | 
-| pie  |            | 
-| pio  |            | 
-| piu  |            | 
-| poa  |            | 
-| poe  |            | 
-| poi  |            | 
-| pou  |            | 
-| pua  |            | 
-| pue  |            | 
-| pui  |            | 
-| puo  |            | 
-| rae  |            | 
-| rai  |            | 
-| rao  |            | 
-| rau  |            | 
-| rea  |            | 
-| rei  |            | 
-| reo  |            | 
-| reu  |            | 
-| ria  |            | 
-| rie  |            | 
-| rio  |            | 
-| riu  |            | 
-| roa  |            | 
-| roe  |            | 
-| roi  |            | 
-| rou  |            | 
-| rua  |            | 
-| rue  |            | 
-| rui  |            | 
-| ruo  |            | 
-| sae  |            | 
-| sai  |            | 
-| sao  |            | 
-| sau  |            | 
-| sea  |            | 
-| sei  |            | 
-| seo  |            | 
-| seu  |            | 
-| sia  |            | 
-| sie  |            | 
-| sio  |            | 
-| siu  |            | 
-| soa  | of         | preposition
-| soe  |            | 
-| soi  |            | 
-| sou  |            | 
-| sua  |            | 
-| sue  |            | 
-| sui  |            | 
-| suo  |            | 
-| tae  |            | 
-| tai  |            | 
-| tao  |            | 
-| tau  |            | 
-| tea  |            | 
-| tei  |            | 
-| teo  |            | 
-| teu  |            | 
-| tia  |            | 
-| tie  |            | 
-| tio  |            | 
-| tiu  |            | 
-| toa  |            | 
-| toe  |            | 
-| toi  |            | 
-| tou  |            | 
-| tua  | before     | preposition
-| tue  |            | 
-| tui  |            | 
-| tuo  |            | 
-| wae  |            | 
-| wai  |            | 
-| wao  |            | 
-| wau  |            | 
-| wea  |            | 
-| wei  |            | 
-| weo  |            | 
-| weu  |            | 
-| wia  |            | 
-| wie  |            | 
-| wio  |            | 
-| wiu  |            | 
-| woa  |            | 
-| woe  | under      | preposition
-| woi  |            | 
-| wou  |            | 
-| wua  |            | 
-| wue  |            | 
-| wui  |            | 
-| wuo  |            | 
+| phi  | meaning    | type|
+| ---  | -------    | ----|
+| hae  |            ||
+| hai  |            ||
+| hao  |            ||
+| hau  |            ||
+| hea  | about      | preposition|
+| hei  |            ||
+| heo  |            ||
+| heu  | trillion |number|
+| hia  |            ||
+| hie  |            ||
+| hio  |            ||
+| hiu  |            ||
+| hoa  |            ||
+| hoe  |            ||
+| hoi  | on         | preposition|
+| hou  |            ||
+| hua  |            ||
+| hue  |            ||
+| hui  |            ||
+| huo  |            ||
+| lae  | thousand |number|
+| lai  |            ||
+| lao  |            ||
+| lau  |            ||
+| lea  |            ||
+| lei  |            ||
+| leo  |            ||
+| leu  |            ||
+| lia  | by         | preposition|
+| lie  |            ||
+| lio  |            ||
+| liu  |            ||
+| loa  |            ||
+| loe  |            ||
+| loi  |            ||
+| lou  |            ||
+| lua  |            ||
+| lue  |            ||
+| lui  |            ||
+| luo  |            ||
+| mae  | with       | preposition|
+| mai  |            ||
+| mao  |            ||
+| mau  |            ||
+| mea  |            ||
+| mei  |            ||
+| meo  |            ||
+| meu  |            ||
+| mia  |            ||
+| mie  |            ||
+| mio  | million |number|
+| miu  |            ||
+| moa  |            ||
+| moe  |            ||
+| moi  |            ||
+| mou  |            ||
+| mua  | over       | preposition|
+| mue  |            ||
+| mui  |            ||
+| muo  |            ||
+| nae  |            ||
+| nai  |            ||
+| nao  |            ||
+| nau  |            ||
+| nea  | in         | preposition|
+| nei  |            ||
+| neo  |            ||
+| neu  |            ||
+| nia  |            ||
+| nie  | from       | preposition|
+| nio  |            ||
+| niu  |            ||
+| noa  |            ||
+| noe  |            ||
+| noi  |            ||
+| nou  |            ||
+| nua  |            ||
+| nue  |            ||
+| nui  | hundred |number|
+| nuo  |            ||
+| pae  |            ||
+| pai  |            ||
+| pao  |            ||
+| pau  |            ||
+| pea  |            ||
+| pei  | nonillion |number|
+| peo  |            ||
+| peu  |            ||
+| pia  |            ||
+| pie  |            ||
+| pio  |            ||
+| piu  |            ||
+| poa  |            ||
+| poe  |            ||
+| poi  |            ||
+| pou  |            ||
+| pua  |            ||
+| pue  |            ||
+| pui  |            ||
+| puo  |            ||
+| rae  |            ||
+| rai  |            ||
+| rao  |            ||
+| rau  |            ||
+| rea  |            ||
+| rei  |            ||
+| reo  |            ||
+| reu  |            ||
+| ria  |            ||
+| rie  |            ||
+| rio  |            ||
+| riu  |            ||
+| roa  |            ||
+| roe  |            ||
+| roi  |            ||
+| rou  |            ||
+| rua  |            ||
+| rue  |            ||
+| rui  |            ||
+| ruo  | quintillion |number|
+| sae  | quadrillion |number|
+| sai  |            ||
+| sao  |            ||
+| sau  |            ||
+| sea  |            ||
+| sei  |            ||
+| seo  |            ||
+| seu  |            ||
+| sia  |            ||
+| sie  |            ||
+| sio  |            ||
+| siu  |            ||
+| soa  | of         | preposition|
+| soe  |            ||
+| soi  |            ||
+| sou  |            ||
+| sua  |            ||
+| sue  |            ||
+| sui  |            ||
+| suo  |            ||
+| tae  |            ||
+| tai  |            ||
+| tao  |            ||
+| tau  |            ||
+| tea  |            ||
+| tei  |            ||
+| teo  |            ||
+| teu  |            ||
+| tia  |            ||
+| tie  |            ||
+| tio  |            ||
+| tiu  |            ||
+| toa  | ten |number|
+| toe  |            ||
+| toi  |            ||
+| tou  |            ||
+| tua  | before     | preposition|
+| tue  |            ||
+| tui  |            ||
+| tuo  |            ||
+| wae  |            ||
+| wai  |            ||
+| wao  |            ||
+| wau  |            ||
+| wea  |            ||
+| wei  |            ||
+| weo  |            ||
+| weu  |            ||
+| wia  |            ||
+| wie  |            ||
+| wio  |            ||
+| wiu  |            ||
+| woa  |            ||
+| woe  | under      | preposition|
+| woi  | billion |number|
+| wou  |            ||
+| wua  |            ||
+| wue  |            ||
+| wui  |            ||
+| wuo  |            ||
 
 ## [F] [V]
 
