@@ -1,6 +1,6 @@
 # numbers
 
-> numbers are a feature of nouns, pronouns, adjectives and verb agreement that expresses count distinctions.
+> numbers are a feature of nouns, pronouns, adjectives and verb agreement that expresses count distinctions. used alone numbers are nouns. if we use them to describe nouns, as in one apple, two apples, three apples, etc., then the numbers are adjectives.
 
 | phi  | english |
 | ---- | ------- |
