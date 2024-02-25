@@ -8,6 +8,5 @@ It is thought that the value of _phi_ is one of the fundamental characteristics 
 
 ------
 
-<sup><sup><a name="note1">1</a></sup> https://en.wikipedia.org/wiki/Constructed_language</sup> 
-
+<sup><sup><a name="note1">1</a></sup> https://en.wikipedia.org/wiki/Constructed_language</sup>  
 <sup><sup><a name="note2">2</a></sup> https://en.wiktionary.org/wiki/%CF%86</sup>
