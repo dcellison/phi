@@ -43,7 +43,7 @@ phoshiu ruwhai wowha poeshue nieshu mopho miupho woitho phawhu whuothu tuatheo
 ### short nouns
 
 these patterns produce words of two syllables. they are also used for more
-common nouns, such as colours.
+common and specific nouns, such as colours.
 
 `[C/F][V][C/F][V]`
 
