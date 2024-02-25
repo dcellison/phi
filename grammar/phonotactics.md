@@ -1,19 +1,18 @@
 # phonotactics
 
+> phonotactics is a branch of phonology that deals with restrictions in a language on the permissible combinations of phonemes. phonotactics defines permissible syllable structure, consonant clusters and vowel sequences by means of phonotactic constraints.
+
 ## groups
 
- the following groups are used to fill in the form at the awkwords* website in
+ the following groups are used to fill in the form at the [awkwords](http://akana.conlang.org/tools/awkwords/) website in
  order to generate sample words for a phi lexicon.
 
-| group | pattern
-| ----- | -------
-| C     | `h/l/m/n/p/r/s/t/w`
-| C     | `p/t/m/n/r/s/h/w/l`
-| F     | `ph/wh/th/sh`
-| V     | `i/u/e/o/a`
-| P     | `[VV]^ii^uu^ee^oo^aa`
-
-*http://akana.conlang.org/tools/awkwords/
+| group | pattern|
+| ----- | -------|
+| C     | `h/l/m/n/p/r/s/t/w`||       |                       |
+| F     | `ph/wh/th/sh`|
+| V     | `i/u/e/o/a`|
+| P     | `[VV]^ii^uu^ee^oo^aa`|
 
 ## syllable structures
 
@@ -44,7 +43,7 @@ phoshiu ruwhai wowha poeshue nieshu mopho miupho woitho phawhu whuothu tuatheo
 ### short nouns
 
 these patterns produce words of two syllables. they are also used for more
-common nouns, such as numbers and colours.
+common nouns, such as colours.
 
 `[C/F][V][C/F][V]`
 
