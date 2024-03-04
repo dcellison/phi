@@ -4,35 +4,29 @@
 
 ## parts of speech
 
-| phi | type
-| --  | ----
-| si  | subject
-| na  | object
-| te  | verb
-
-| phi | type
-| --- | ----
-| me  | not
-| lo  | plural
-| wa  | question
-| ho  | exclamation
+| phi | type|
+| --  | ----|
+| si  | subject|
+| na  | object|
+| te  | verb|
+| me | not |
+| lo | plural |
+| wa | question |
+| ho | exclamation |
 
 ## tense
 
-| phi | type            | example
-| --- | ----            | -------
-| li  | simple past     | did
-| ta  | simple present  | do
-| su  | simple future   | will do
-| we  | simple future   | wants to do
-| la  | present prog    | doing
-| ni  | present perfect | has done
+| phi | type            | example|
+| --- | ----            | -------|
+| li  | simple past     | did|
+| ta  | simple present  | do|
+| su  | simple future   | will do|
+| we  | simple future   | wants to do|
+| la  | present progressive | doing|
+| ni  | present perfect | has done|
 
-* maybe no perfect tense
-  * south africa and southeast asia use "already" or "finish"
-* investigate yucatec maya's lack of tenses altogether
-  * read paper "temporal anaphora in a tenseless language"
-  * represented partially by "present progressive" above
+* use of subject, object, verb particles is optional and rarely used
+* normally used to clarify part of speech
 
 * us/we is plural 1st person
   * lo mia
@@ -47,8 +41,10 @@
     * plural me not plural it
     * us not them
 
-* subject marker _si_ is optional
-  * it always starts a sentence
+* questions start with particle "wa"
+  * sentence structured as a statement
+  * e.g. "it is raining" instead of "is it raining"
+  * "wa" particle turns a statement into a question
 * try multiple plurals
   * maybe for "several" or "a few"
 * try particles for animals, human beings, for abstract nouns, etc. Many

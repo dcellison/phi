@@ -4,36 +4,36 @@
 
 ## coordinating
 
-| phi | eng
-| --- | ---
-|     | for
-|     | and
-|     | nor
-|     | but
-|     | or
-|     | yet
-|     | so
+| phi | english |
+| --- | ---|
+| ma | for|
+| ne | and|
+| po | nor|
+| tu | but|
+| wi | or|
+| re | yet|
+| hu | so|
 
 ## subordinating
 
-| phi  | eng
-| ---- | ---
-|      | after
-|      | although
-|      | as
-|      | because
-|      | before
-| haso | how
-|      | if
-|      | once
-|      | since
-|      | than
-|      | that
-|      | when
-|      | where
-|      | whether
-|      | while
-|      | until
+| phi  | english |
+| ---- | ---|
+|      | after|
+|      | although|
+|      | as|
+|      | because|
+|      | before|
+| haso | how|
+|      | if|
+|      | once|
+|      | since|
+|      | than|
+|      | that|
+|      | when|
+|      | where|
+|      | whether|
+|      | while|
+|      | until|
 
 ## correlative
 
@@ -47,20 +47,20 @@
 
 * from /Torn Tongue: Correlative Conjunctions/(https://conlangs.livejournal.com/503435.html)
 
-| eng               | torn tongue
-| ---               | -----------
-| both/and          | dath/tath
-| either/or         | del/tel
-| neither/nor       | nini/niin
-| not only/but also | eshi/esho
-| whether/or        | modo/mel
+| english           | torn tongue|
+| ---               | -----------|
+| both/and          | dath/tath|
+| either/or         | del/tel|
+| neither/nor       | nini/niin|
+| not only/but also | eshi/esho|
+| whether/or        | modo/mel|
 
 * usage
 
-| eng                            | torn tongue
-| ---                            | -----------
-| both basin and basket          | dath boilr tath telt
-| either bag or bucket           | del ralb tel levolk
-| neither ball nor bar           | nini rolk niin melb
-| not only bread but also butter | eshi lalth esho ols
-| whether brick or bottle        | modo aqalt mel amelb
+| english                        | torn tongue|
+| ---                            | -----------|
+| both basin and basket          | dath boilr tath telt|
+| either bag or bucket           | del ralb tel levolk|
+| neither ball nor bar           | nini rolk niin melb|
+| not only bread but also butter | eshi lalth esho ols|
+| whether brick or bottle        | modo aqalt mel amelb|

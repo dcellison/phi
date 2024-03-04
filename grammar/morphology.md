@@ -69,8 +69,13 @@ consider evidentiality
 * phi focuses on soft sounds
   * like wind or water
   * emphasis on unvoiced sounds
-* phi is an isolating language
+* phi is closest to an isolating language
+  * "Analytic languages cover languages with no inflectional morphology and a low morpheme-to-word ratio, while isolating languages have all that and no derivational morphology"
   * uses particles to modify and tag sentences
+  * in phi, nouns have the highest morpheme-to-word ratio
+  * verbs are lower in morpheme count
+  * almost all commonly-used words are single morphemes
+  
 * phi is also an analytic language
   * sentence structure is rigorously specified
   * sentence fragments can actually be mixed up
@@ -82,11 +87,16 @@ consider evidentiality
   * (C)CV or V
 * emphasis is on the penultimate syllable
 * subject object verb sentence structure
-  * e.g. i you love
+  * english: i love you
+  * intermediate: me you love
+  * phi: mia thi lothea
+
 * only object pronouns
   * me, you, it
   * e.g. "me sleep"
   * possessive pronouns use "of me"
+    * english: my book
+    * phi: book of me
     * nepali uses this system
 * no s/o particles on personal pronouns
   * except in formal phi

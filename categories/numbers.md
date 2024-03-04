@@ -2,21 +2,20 @@
 
 > numbers are a feature of nouns, pronouns, adjectives and verb agreement that expresses count distinctions. used alone numbers are nouns. if we use them to describe nouns, as in one apple, two apples, three apples, etc., then the numbers are adjectives.
 
-| phi  | english |
-| ---- | ------- |
-| no   | zero    |
-| lu   | one     |
-| mi   | two     |
-| ha   | three   |
-| pe   | four    |
-| ra   | five    |
-| se   | six     |
-| ti   | seven   |
-| wo   | eight   |
-| mu   | nine    |
+phi has a more regular number system than english. there is no concept of "teens". as well, phi uses phrases like "number one," "number two," etc., instead of traditional ordinal numbers like "first" or "second".
 
 | phi  | english     | number                        |
 | ---- | ----------- | ----------------------------- |
+| no   | zero        | 0                             |
+| lu   | one         | 1                             |
+| mi   | two         | 2                             |
+| ha   | three       | 3                             |
+| pe   | four        | 4                             |
+| ra   | five        | 5                             |
+| se   | six         | 6                             |
+| ti   | seven       | 7                             |
+| wo   | eight       | 8                             |
+| mu   | nine        | 9                             |
 | toa  | ten         | 10                            |
 | nui  | hundred     | 100                           |
 | lae  | thousand    | 1,000                         |
@@ -27,9 +26,15 @@
 | ruo  | quintillion | 1,000,000,000,000,000,000     |
 | pei  | nonillion   | 1,000,000,000,000,000,000,000 |
 
-# examples
+## examples
 
-following are some examples that demonstrate how numbers would be said and written in phi. The numbers 1 to 9 are each two characters and orders of magnitude are three. This makes for more variety when numbers are being spoken. one difference between phin and how other languages might handle longer numbers is that phi specifies all numbers, e.g. "zero hundred", and does not have words like "twenty" and "sixteen". Instead, phi uses "two ten" and "one ten six".
+following are some examples that demonstrate how numbers would be said and written in phi. The numbers 1 to 9 are each one syllable and two characters in length and orders of magnitude are two syllables and three characters. This makes for more variety when numbers are being spoken. one difference between phi and how other languages might handle longer numbers is that phi specifies all numbers, e.g. "zero hundred", and does not have words like "twenty" and "sixteen". Instead, phi uses "two ten" and "one ten six".
+
+### 42
+
+four ten two
+
+pe toa mi
 
 ### 1984
 
@@ -39,13 +44,13 @@ nine hundred eight ten four
 lu lae
 mu nui wo toa pe
 
-### 2022
+### 2023
 
 two thousand
-zero hundred two ten two
+zero hundred two ten three
 
 mi lae
-no nui mi toa mi
+no nui mi toa ha
 
 ### 1,073,741,824 - a gibibyte
 
