@@ -39,7 +39,7 @@
 * they are all some form of "be"
   * the ball was thrown by me <- "was"
 
-| phi | eng| particles |
+| phi | eng| details |
 | --- | ---| --- |
 | ta phe | is| simple present is |
 |  | am| (not necessary) |

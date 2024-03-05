@@ -18,6 +18,8 @@ in phi, particles usually precede words or sentences that they clarify, e.g.
 
 ## tense
 
+tenses always precede other particles, e.g.  were - li lo phe - simple past plural is
+
 | phi | type            | example|
 | --- | ----            | -------|
 | li  | simple past     | did|
