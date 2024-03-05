@@ -6,14 +6,14 @@
 | me          |               | particle               | not|
 | lo           |               | particle               | plural|
 | wa           |               | particle               | question|
-| hi           |               | particle               | exclamaton|
+| ho          |               | particle               | exclamation |
 | li           |               | particle               | simple past|
 | ta           |               | particle               | simle present|
-| se           |               | particle               | simple future|
-| wo           |               | particle               | simple future|
+| su          |               | particle               | simple future|
+| we          |               | particle               | simple future|
 | la           |               | particle               | present progressive|
 | ni           |               | particle               | present perfect|
-|              | a             | article                | indefinite|
+|              |              |                 |  |
 | hea          | about         | prep adv               ||
 |              | above         | adv prep               ||
 |              | across        | prep adv               ||
@@ -258,7 +258,7 @@
 |              | education     | noun                   ||
 |              | effect        | noun verb              ||
 |              | egg           | noun                   ||
-| thia         | eight         | noun adj               ||
+| wo        | eight         | noun adj               ||
 |              | either        | adj pron conj          ||
 |              | electric      | adj noun               ||
 |              | elephant      | noun                   ||
@@ -320,7 +320,7 @@
 |              | first         | adj adv noun           ||
 |              | fish*         | noun verb              ||
 |              | fit           | adj verb               ||
-| whoe         | five          | noun adj               ||
+| ra        | five          | noun adj               ||
 |              | fix           | verb noun              ||
 |              | flag          | noun verb              ||
 |              | flat          | adj noun verb          ||
@@ -343,7 +343,7 @@
 |              | fork          | noun verb              ||
 |              | form          | noun verb              ||
 |              | fox           | noun verb              ||
-| shea         | four          | noun adj               ||
+| pe       | four          | noun adj               ||
 |              | free          | adj adv verb           ||
 |              | freedom       | noun                   ||
 |              | freeze        | verb noun              ||
@@ -449,7 +449,7 @@
 |              | invent        | verb                   ||
 |              | iron          | noun adj verb          ||
 |              | invite        | verb                   ||
-| phi          | is            | verb                   ||
+| phe         | is            | verb                   ||
 |              | island        | noun                   ||
 | sha          | it            | pron                   ||
 |              | its           | pron                   ||
@@ -584,7 +584,7 @@
 |              | next          | adj adv                ||
 |              | nice          | adj                    ||
 |              | night         |                        ||
-| phoa         | nine          | number                 ||
+| mu       | nine          | number                 ||
 | pha          | no            | noun adj               ||
 |              | noble         | adj                    ||
 |              | noise         | noun                   ||
@@ -608,7 +608,7 @@
 |              | oil           | noun verb adj          ||
 |              | old           | adj noun               ||
 | hoi          | on            | prep adv adj           ||
-| whea         | one           | noun adj pron          ||
+| lu        | one           | noun adj pron          ||
 |              | only          | adv adj                ||
 |              | open          | adj verb               ||
 |              | opposite      | adj noun prep          ||
@@ -765,7 +765,7 @@
 |              | send          |                        ||
 |              | sentence      |                        ||
 |              | serve         |                        ||
-| shae         | seven         | number                 ||
+| ti        | seven         | number                 ||
 |              | several       |                        ||
 |              | sex           |                        ||
 |              | shade         |                        ||
@@ -803,7 +803,7 @@
 |              | sink          |                        ||
 |              | sister        |                        ||
 |              | sit           |                        ||
-| phai         | six           | number                 ||
+| se        | six           | number                 ||
 |              | size          |                        ||
 |              | skill         |                        ||
 |              | skin          |                        ||
@@ -900,7 +900,7 @@
 |              | test          |                        ||
 |              | than          |                        ||
 |              | that          |                        ||
-|              | the           | article                | definite|
+|              |             |                   |                     |
 |              | their         |                        ||
 |              | theirs        |                        ||
 |              | then          |                        ||
@@ -917,7 +917,7 @@
 |              | though        |                        ||
 |              | thousand*     |                        ||
 |              | threat        |                        ||
-| thou         | three         | number                 ||
+| ha        | three         | number                 ||
 |              | tidy          |                        ||
 |              | tie           |                        ||
 |              | title         |                        ||
@@ -943,7 +943,7 @@
 |              | true          |                        ||
 |              | trust         |                        ||
 |              | twice         |                        ||
-| phie         | two*          | number                 ||
+| mi        | two*          | number                 ||
 |              | try           |                        ||
 |              | turn          |                        ||
 |              | type          |                        ||
@@ -1029,6 +1029,6 @@
 |              | young         |                        ||
 |              | your          |                        ||
 |              | yours         |                        ||
-| thoi         | zero          | number                 ||
+| no        | zero          | number                 ||
 |              | zoo           |                        ||
 |              | zoom          |                        ||

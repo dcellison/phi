@@ -7,7 +7,7 @@
 |     | back     | adverb, noun|
 |     | far      | adverb|
 |     | here     | adverb|
-|     | how      | adverb|
+| haso | how      | adverb|
 |     | near     | adverb, preposition, adjective|
 |     | not      | adverb|
 |     | when     | adverb, conjunction|

@@ -39,16 +39,22 @@
 * they are all some form of "be"
   * the ball was thrown by me <- "was"
 
-| phi | eng
-| --- | ---
-|     | is
-|     | am
-|     | are
-|     | was
-|     | were
-|     | be
-|     | being
-|     | been
+| phi | eng| particles |
+| --- | ---| --- |
+| ta phe | is| simple present is |
+|  | am| (not necessary) |
+| ta lo phe | are| simple present plural is |
+| li phe    | was| simple past is |
+| li lo phe | were| simple past plural is |
+| ta she | be| simple present be |
+| la she | being| present progressive be |
+| li she | been| simple past be |
+
+being = be in present progressive = la she
+
+been = be in simple past = li she
+
+i am = me is = mia ta phe
 
 ## miscellaneous
 

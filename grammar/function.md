@@ -1,6 +1,6 @@
 # function words
 
-the 325 words in this section are the complete set of words possible using the patterns in the following headings and given phi's syllable structures. these words are used in phi for parts of speech such as particles, conjunctions, determiners, pronouns, and prepositions. As well, the shorter function words are used for very frequently used words, such as the number nouns.
+the 325 words in this section are the complete set of words possible using the patterns in the following headings and given phi's syllable structures. these short words are used in phi for parts of speech such as pronouns, prepositions, conjunctions, interjections, particles, and determiners. as well, the shorter function words are used for very frequently used words, such as the number nouns.
 
 ## `[F][P]`
 
@@ -276,13 +276,13 @@ the 325 words in this section are the complete set of words possible using the p
 
 | phi  | meaning    | type| sub-type |
 | ---  | -------    | ----| ---  |
-| pha  |            || |
-| phe  |            || |
-| phi  |            || |
-| pho  | as         | preposition| |
-| phu  |            || |
+| pha  |  ||  |
+| phe  |  ||  |
+| phi  | is |verb| passive |
+| pho  |     |  |  |
+| phu  |  ||  |
 | sha  | it |pronoun| third person |
-| she  |            || |
+| she  | be |verb| passive |
 | shi  |            || |
 | sho  |            || |
 | shu  |            || |

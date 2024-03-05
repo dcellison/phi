@@ -2,9 +2,9 @@
 
 > nouns name something, such as a person, place, thing, or idea.
 
-## noun roots
+## roots
 
-these roots aren't exclusive to these states of matter. but nouns related to these states of matter should begin with these roots.
+these noun roots aren't exclusive to these states of matter, but nouns related to these states of matter should begin with these roots.
 
 | phi  | root   |
 | ---- | ------ |
@@ -20,7 +20,7 @@ these roots aren't exclusive to these states of matter. but nouns related to the
 | lipha   | tree    |
 | whethu  | sky     |
 | ropho   | health  |
-| shishoa | good    |
+| these   | good    |
 | phiathe | name    |
 
 | phi  | english |

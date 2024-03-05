@@ -2,6 +2,8 @@
 
 > particles add context to the sentence, expressing a mood or indicating a specific action.
 
+in phi, particles usually precede words or sentences that they clarify, e.g.  
+
 ## parts of speech
 
 | phi | type|
