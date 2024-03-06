@@ -6,7 +6,7 @@
   * conjugation refers to the act of changing the form of a verb and/or adding a helping verb to indicate person, number, and tense.
   * verbs stay in infinitive, unchanged form
   * no change to indicate tense, number, etc.
-  * tense particles are used instead
+  * particles are used instead
   
 * there are four types of verbs
   * intransitive
@@ -41,14 +41,14 @@
 
 | phi | eng| details |
 | --- | ---| --- |
-| ta phe | is| simple present is |
+| ta phe | is| simple present "is" |
 |  | am| (not necessary) |
-| ta lo phe | are| simple present plural is |
-| li phe    | was| simple past is |
-| li lo phe | were| simple past plural is |
-| ta she | be| simple present be |
-| la she | being| present progressive be |
-| li she | been| simple past be |
+| ta lo phe | are| simple present plural "is" |
+| li phe    | was| simple past "is" |
+| li lo phe | were| simple past plural "is" |
+| ta she | be| simple present "be" |
+| la she | being| present progressive "be" |
+| li she | been| simple past "be" |
 
 being = be in present progressive = la she
 
@@ -56,7 +56,7 @@ been = be in simple past = li she
 
 i am = me is = mia ta phe
 
-## miscellaneous
+## miscellaneous verbs
 
 | phi    | eng
 | ---    | ---
