@@ -2,7 +2,7 @@
 
 > particles add context to the sentence, expressing a mood or indicating a specific action.
 
-in phi, particles precede words or sentences they modify or are associated with. for example, starting a sentence with the particle `wa` turns that sentence into a question. no change is made to the word structure. if you remove `wa` the sentence becomes a statement. This is similar to the particle か (ka) at the end of a sentence in japanese. similarly, using the particle `na` before a word indicates that the word is the object of the sentence. for example `na whethu` indicates that `whethu` (`sky` in english) is the object. requiring particles to occur before words or sentences they modify or are associated with is uncommon in natural languages, but it seems to fit phi.
+in phi, particles precede words or sentences they modify or are associated with. for example, starting a sentence with the particle `wa` turns that sentence into a question; no change is made to the word structure. if you remove `wa` the sentence becomes a statement. This is similar to the particle か (`ka`) at the end of a sentence in japanese. similarly, using the particle `na` before a word indicates that the word is the object of the sentence. for example `na whethu` indicates that `whethu` (`sky` in english) is the object. requiring particles to occur before words or sentences they modify or are associated with is uncommon in natural languages, but it seems to fit phi.
 
 ## parts of speech
 
@@ -18,7 +18,7 @@ in phi, particles precede words or sentences they modify or are associated with.
 
 ## tense
 
-tenses always precede other particles, e.g.  were - li lo phe - simple past plural `is`
+tenses always precede other particles, e.g. `li lo phe` - simple past plural of `is` - `were`
 
 | phi | type            | example|
 | --- | ----            | -------|
