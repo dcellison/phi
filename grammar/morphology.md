@@ -1,5 +1,7 @@
 # morphology
 
+> morphology is the branch of linguistics that studies the structure and formation of words. it examines how words are formed from morphemes, the smallest meaningful units of language, including roots, prefixes, and suffixes. morphology explores word formation processes such as derivation and inflection, the classification of word types (nouns, verbs, adjectives, etc.), and the rules governing the combination of morphemes. this field helps in understanding how words convey meaning, change form to express different grammatical categories, and create new words.
+
 (eventually)
 
 Characteristics shared by most pidgins:

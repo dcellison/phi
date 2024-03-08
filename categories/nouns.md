@@ -1,6 +1,6 @@
 # nouns
 
-> nouns name something, such as a person, place, thing, or idea.
+> nouns are words that name people, places, things, concepts, or ideas. they serve as the subject or object in sentences, indicating who or what is performing an action or receiving an action. examples of nouns include "dog," "city," "happiness," and "idea."
 
 ## roots
 
@@ -20,7 +20,6 @@ these noun roots aren't exclusive to these states of matter, but nouns related t
 | lipha   | tree    |
 | whethu  | sky     |
 | ropho   | health  |
-| these   | good    |
 | phiathe | name    |
 
 | phi  | english |

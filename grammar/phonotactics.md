@@ -1,6 +1,6 @@
 # phonotactics
 
-> phonotactics is a branch of phonology that deals with restrictions in a language on the permissible combinations of phonemes. phonotactics defines permissible syllable structure, consonant clusters and vowel sequences by means of phonotactic constraints.
+> phonotactics is the branch of linguistics that deals with the rules governing the allowed combinations of phonemes (basic units of sound) in a language. it defines the permissible arrangements of sounds within words, including constraints on which sounds can appear at the beginning, middle, or end of a syllable, and the sequences of sounds that are acceptable. phonotactic rules vary across languages and are essential for understanding the phonological structure and sound patterns of a language.
 
 ## groups
 

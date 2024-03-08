@@ -1,11 +1,29 @@
 # interjections
 
-> interjections add meaning to a sentence or context by expressing a feeling, making a demand, or emphasising a thought, e.g. phew! shoot, oh really?
->
-> An interjection is a word or phrase that is grammatically independent from the words around it, and mainly expresses feeling rather than meaning.
->
-> ahh, alas, alrighty, blah, dang, gee, nah, oops, phew, shucks, woops, and yikes
->
-> yes, no, oh, yeah, hi, hey, wow, hello, ah, ha, blah, eh, yep, o, alas, haha, cheers, huh, and hmm.
+> interjections are words or phrases that express strong emotion, surprise, or reaction and are often used independently from the main sentence structure. they can convey feelings of happiness, surprise, anger, or pain, among others, and are typically followed by an exclamation mark in writing.
 
 i'm not sure these are needed in phi. they may arise naturally as the language gains more widespread use.
+
+| phi  | english |
+| ---- | ------- |
+|      | oh      |
+|      | wow     |
+|      | hey     |
+|      | uh      |
+|      | huh     |
+|      | no      |
+|      | yes     |
+|      | ah      |
+|      | um      |
+|      | well    |
+|      | oops    |
+|      | yikes   |
+|      | eek     |
+|      | ouch    |
+|      | yay     |
+|      | whoa    |
+|      | hmm     |
+|      | alas    |
+|      | gee     |
+|      |         |
+

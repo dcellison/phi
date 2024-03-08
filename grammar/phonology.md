@@ -1,0 +1,3 @@
+# phonology
+
+> phonology is the branch of linguistics that studies the system of sounds within a particular language or languages. it examines how sounds function and are organized in speech, including the rules governing their distribution, patterning, and variation, as well as their psychological representation. phonology seeks to understand the abstract, mental aspects of sounds as elements of a linguistic system, distinguishing it from phonetics, which is concerned with the physical properties of speech sounds and their production and perception.

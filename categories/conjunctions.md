@@ -1,6 +1,6 @@
 # conjunctions
 
->  conjunctions connect words, phrases, and clauses.
+>  conjunctions are words that join together other words, phrases, or clauses in sentences. they can connect items of the same kind, such as two words, two phrases, or two clauses, indicating relationships like addition, contrast, choice, cause, and effect.
 
 ## coordinating
 

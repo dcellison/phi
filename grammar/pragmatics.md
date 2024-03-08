@@ -1,0 +1,3 @@
+# pragmatics
+
+> pragmatics is the branch of linguistics concerned with the study of how context influences the interpretation of meaning in communication. it examines how language users convey and interpret meanings beyond the literal definitions of words, considering factors such as the speaker's intentions, the relationship between speaker and listener, the circumstances of the utterance, and cultural norms. pragmatics explores the ways in which language is used to perform actions, convey politeness, imply suggestions, and manage conversation, focusing on the practical aspects of language use in social contexts.

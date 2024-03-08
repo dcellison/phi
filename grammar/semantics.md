@@ -1,0 +1,3 @@
+# semantics
+
+> semantics is the branch of linguistics that studies the meaning of words, phrases, sentences, and texts in language. it deals with how linguistic signs convey meanings, the relationships between words (such as synonyms, antonyms, and homonyms), the structure of sentences, and how language represents the world. semantics focuses on the interpretation of language in abstract and concrete contexts, distinguishing between literal and figurative language, and examining how meaning is constructed and understood.

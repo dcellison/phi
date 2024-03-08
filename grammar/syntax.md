@@ -1,0 +1,3 @@
+# syntax
+
+> syntax is the branch of linguistics that studies the rules and principles that govern the structure of sentences in a language. it examines how words combine to form phrases, clauses, and sentences, focusing on the order and arrangement of components within a sentence to convey meaning. syntax explores the patterns and systems that underlie sentence formation, including the roles of different types of words, the relationships between them, and how these elements contribute to sentence meaning and grammatical correctness.

@@ -1,0 +1,3 @@
+# phonetics
+
+> phonetics is the branch of linguistics that studies the physical aspects of human speech sounds. it examines the production, transmission, and perception of these sounds, encompassing articulatory phonetics (how sounds are made), acoustic phonetics (the physical properties of sound waves), and auditory phonetics (how sounds are heard and processed). phonetics provides the tools for analyzing and classifying the sounds used in spoken languages.

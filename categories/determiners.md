@@ -1,6 +1,6 @@
 # determiners
 
-> determiners modify or describe a noun by clarifying what it refers to. they determines the kind of reference a noun or noun group has, for example a, the, every.
+> determiners are words placed before nouns to specify quantity, possession, definiteness, or to introduce the noun. they help to clarify what the noun is referring to, whether it's something specific or general.
 
 in phi there are no definite or indefinite articles or possessive determiners. the latter is indicated with the "of x" formation, like "of me" in place of "mine", or "the house of us" instead of "our house".
 
@@ -35,9 +35,3 @@ in phi there are no definite or indefinite articles or possessive determiners. t
 |     | more|
 |     | each|
 |     | every|
-
-
-
-### ordinals
-
-indicate order: "first", "second", "third", etc.
