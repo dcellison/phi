@@ -7,12 +7,12 @@
  the following groups are used to fill in the form at the [awkwords](http://akana.conlang.org/tools/awkwords/) website in
  order to generate sample words for a phi lexicon.
 
-| group | pattern|
-| ----- | -------|
-| C     | `h/l/m/n/p/r/s/t/w`||       |                       |
-| F     | `ph/wh/th/sh`|
-| V     | `i/u/e/o/a`|
-| P     | `[VV]^ii^uu^ee^oo^aa`|
+| group | pattern |
+| ----- | ------- |
+| C     | `h/l/m/n/p/r/s/t/w` |
+| F     | `ph/wh/th/sh` |
+| V     | `i/u/e/o/a` |
+| P     | `[VV]^ii^uu^ee^oo^aa` |
 
 ## syllable structures
 

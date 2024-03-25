@@ -25,5 +25,4 @@ i'm not sure these are needed in phi. they may arise naturally as the language g
 |      | hmm     |
 |      | alas    |
 |      | gee     |
-|      |         |
 

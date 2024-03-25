@@ -12,6 +12,22 @@ pragmatics
 
 
 
+phonology
+
+orthography
+
+morphology
+
+syntax
+
+semantics
+
+pragmatics
+
+sociolinguistics
+
+
+
 1. **Nouns**
 2. **Pronouns**
 3. **Verbs**
