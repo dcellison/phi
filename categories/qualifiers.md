@@ -6,28 +6,28 @@
 
 these are the most common qualifiers in human communication. with these, basic conversations can take place. they are conceptually paired, i.e. good/bad, hot/cold.
 
-| phi  | english   |
-| ---- | --------- |
-|      | good      |
-|      | bad       |
-|      | big       |
-|      | small     |
-|      | many      |
-|      | few       |
-|      | beautiful |
-|      | ugly      |
-|      | old       |
-|      | new       |
-|      | fast      |
-|      | slow      |
-|      | easy      |
-|      | difficult |
-|      | hot       |
-|      | cold      |
-|      | happy     |
-|      | sad       |
-|      | tall      |
-|      | short     |
+| phi | english   |
+| --- | --------- |
+|     | good      |
+|     | bad       |
+|     | big       |
+|     | small     |
+|     | many      |
+|     | few       |
+|     | beautiful |
+|     | ugly      |
+|     | old       |
+|     | new       |
+|     | fast      |
+|     | slow      |
+|     | easy      |
+|     | difficult |
+|     | hot       |
+|     | cold      |
+|     | happy     |
+|     | sad       |
+|     | tall      |
+|     | short     |
 
 these are also common qualifiers.
 

@@ -45,7 +45,7 @@
   * not only/but also
   * whether/or
 
-* from /Torn Tongue: Correlative Conjunctions/(https://conlangs.livejournal.com/503435.html)
+* from [Torn Tongue: Correlative Conjunctions](https://conlangs.livejournal.com/503435.html)
 
 | english           | torn tongue|
 | ---               | -----------|

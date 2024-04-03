@@ -7,31 +7,31 @@ in phi there are no definite or indefinite articles or possessive determiners. t
 ### interrogatives
 
 | phi | english |
-| --- | ---|
-|     | whose|
-|     | which|
-|     | what|
-|     | who|
+| --- | ------- |
+|     | whose   |
+|     | which   |
+|     | what    |
+|     | who     |
 
 ### demonstratives
 
 | phi | english |
-| --- | ---|
-|     | this|
-|     | that|
-|     | these|
-|     | those|
+| --- | ------- |
+|     | this    |
+|     | that    |
+|     | these   |
+|     | those   |
 
 ### quantifiers
 
 | phi | english |
-| --- | ---|
-|     | all|
-| lu  | one|
-|     | few|
-|     | many|
-|     | some|
-|     | any|
-|     | more|
-|     | each|
-|     | every|
+| --- | ------- |
+|     | all     |
+| lu  | one     |
+|     | few     |
+|     | many    |
+|     | some    |
+|     | any     |
+|     | more    |
+|     | each    |
+|     | every   |

@@ -1,17 +1,14 @@
 # nouns
 
 > nouns are words that name people, places, things, concepts, or ideas. they serve as the subject or object in sentences, indicating who or what is performing an action or receiving an action.
-
 ## roots
-
 these noun roots aren't exclusive to these states of matter, but nouns related to these states of matter should begin with these roots.
 
-| phi  | root   |
-| ---- | ------ |
-| li   | liquid |
-| to   | solid  |
-| wh   | gas    |
-
+| phi | root   |
+| --- | ------ |
+| li  | liquid |
+| to  | solid  |
+| wh  | gas    |
 ## general
 
 | phi     | english |
