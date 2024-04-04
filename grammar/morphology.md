@@ -129,14 +129,14 @@ consider evidentiality
   * pronounced with tongue against upper teeth
   * not further back, as in eng
 * phi makes heavy use of voiceless digraphs
-  * [ɸ] a standard `/ph/` sound
+  * `[ɸ]` a standard `/ph/` sound
     * voiceless bilabial fricative
-  * [ʃ] a standard `/sh/` sound
-    *voiceless postalveolar fricative
-  * [θ] a standard unvoiced `/th/` sound
+  * `[ʃ]` a standard `/sh/` sound
+    * voiceless postalveolar fricative
+  * `[θ]` a standard unvoiced `/th/` sound
     * voiceless dental fricative
     * voiced `/th/` [ð] never occurs in phi
-  * [ʍ] a standard `/hw/` sound
+  * `[ʍ]` a standard `/hw/` sound
     * voiceless labialized velar approximant
 
 finnish has no articles and no gender
