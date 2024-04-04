@@ -11,18 +11,18 @@
 7. conjunctions
 8. interjections
 
-## longer word length categories
+## basic categories
 
 1. **nouns**: words that name people, places, things, or ideas. examples include "dog," "london," "beauty."
 2. **verbs**: words that express actions, occurrences, or states of being. examples include "run," "become," "exist."
 3. **adjectives**: words that describe or modify nouns and pronouns. examples include "blue," "tall," "happy."
 4. **adverbs**: words that modify verbs, adjectives, or other adverbs, often indicating manner, place, time, frequency, degree, level of certainty, etc. examples include "quickly," "very," "tomorrow."
 
-#### not in the traditional eight parts of speech
+### not in the traditional eight parts of speech
 
-1. **qualifiers** - words that modify or qualify the meaning of another word, often an adjective or an adverb, providing intensity or degree. examples include "very," more," so."
+1. **qualifiers** - adverbs, adverbial phrases, or adverbial clauses that modify or qualify the meaning of another word, often an adjective or an adverb, but possibly a verb or noun, providing intensity or degree. examples include "very," more," so."
 
-## shorter word length categories
+## grammatical categories
 
 1. **pronouns**: Words that take the place of nouns in a sentence. examples include "he," "they," "ours."
 2. **prepositions** - words that show the relationship between a noun (or pronoun) and other words in a sentence.
