@@ -4,88 +4,88 @@ the 325 words in this section are the complete set of words possible using the p
 
 ## `[F][P]`
 
-| phi  | meaning    | type| sub-type |
-| ---  | -------    | ----| ---  |
-| phae |            || |
-| phai |            || |
-| phao |            || |
-| phau |            || |
-| phea |            || |
-| phei |            || |
-| pheo |            || |
-| pheu |            || |
-| phia |            || |
-| phie |            || |
-| phio |            || |
-| phiu |            || |
-| phoa |            || |
-| phoe |            || |
-| phoi |            || |
-| phou |            || |
-| phua |            || |
-| phue |            || |
-| phui |            || |
-| phuo |            || |
-| shae |            || |
-| shai |            || |
-| shao |            || |
-| shau |            || |
-| shea |            || |
-| shei |            || |
-| sheo |            || |
-| sheu |            || |
-| shia |            || |
-| shie |            || |
-| shio |            || |
-| shiu |            || |
-| shoa |            || |
-| shoe |            || |
-| shoi |            || |
-| shou |            || |
-| shua |            || |
-| shue |            || |
-| shui |            || |
-| shuo |            || |
-| thae |            || |
-| thai |            || |
-| thao |            || |
-| thau |            || |
-| thea |            || |
-| thei |            || |
-| theo |            || |
-| theu |            || |
-| thia |            || |
-| thie |            || |
-| thio |            || |
-| thiu |            || |
-| thoa |            || |
-| thoe |            || |
-| thoi |            || |
-| thou |            || |
-| thua |            || |
-| thue |            || |
-| thui |            || |
-| thuo |            || |
-| whae |            || |
-| whai |            || |
-| whao |            || |
-| whau |            || |
-| whea |            || |
-| whei |            || |
-| wheo |            || |
-| wheu |            || |
-| whia |            || |
-| whie |            || |
-| whio |            || |
-| whiu |            || |
-| whoa |            || |
-| whoe |            || |
-| whoi |            || |
-| whou |            || |
-| whua |            || |
-| whue |            || |
-| whui |            || |
-| whuo |            || |
+| phi  | meaning | type | sub-type |
+| ---- | ------- | ---- | -------- |
+| phae |         |      |          |
+| phai |         |      |          |
+| phao |         |      |          |
+| phau |         |      |          |
+| phea |         |      |          |
+| phei |         |      |          |
+| pheo |         |      |          |
+| pheu |         |      |          |
+| phia |         |      |          |
+| phie |         |      |          |
+| phio |         |      |          |
+| phiu |         |      |          |
+| phoa |         |      |          |
+| phoe |         |      |          |
+| phoi |         |      |          |
+| phou |         |      |          |
+| phua |         |      |          |
+| phue |         |      |          |
+| phui |         |      |          |
+| phuo |         |      |          |
+| shae |         |      |          |
+| shai |         |      |          |
+| shao |         |      |          |
+| shau |         |      |          |
+| shea |         |      |          |
+| shei |         |      |          |
+| sheo |         |      |          |
+| sheu |         |      |          |
+| shia |         |      |          |
+| shie |         |      |          |
+| shio |         |      |          |
+| shiu |         |      |          |
+| shoa |         |      |          |
+| shoe |         |      |          |
+| shoi |         |      |          |
+| shou |         |      |          |
+| shua |         |      |          |
+| shue |         |      |          |
+| shui |         |      |          |
+| shuo |         |      |          |
+| thae |         |      |          |
+| thai |         |      |          |
+| thao |         |      |          |
+| thau |         |      |          |
+| thea |         |      |          |
+| thei |         |      |          |
+| theo |         |      |          |
+| theu |         |      |          |
+| thia |         |      |          |
+| thie |         |      |          |
+| thio |         |      |          |
+| thiu |         |      |          |
+| thoa |         |      |          |
+| thoe |         |      |          |
+| thoi |         |      |          |
+| thou |         |      |          |
+| thua |         |      |          |
+| thue |         |      |          |
+| thui |         |      |          |
+| thuo |         |      |          |
+| whae |         |      |          |
+| whai |         |      |          |
+| whao |         |      |          |
+| whau |         |      |          |
+| whea |         |      |          |
+| whei |         |      |          |
+| wheo |         |      |          |
+| wheu |         |      |          |
+| whia |         |      |          |
+| whie |         |      |          |
+| whio |         |      |          |
+| whiu |         |      |          |
+| whoa |         |      |          |
+| whoe |         |      |          |
+| whoi |         |      |          |
+| whou |         |      |          |
+| whua |         |      |          |
+| whue |         |      |          |
+| whui |         |      |          |
+| whuo |         |      |          |
 
 ## `[C][P]`
 
