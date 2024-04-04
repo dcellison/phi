@@ -1,2 +1,3 @@
 # sociolinguistics
->sociolinguistics is the study of how language serves and is shaped by the social nature of human beings. in its broadest conception, sociolinguistics analyses the many and diverse ways in which language and society entwine.
+
+> sociolinguistics is the study of how language serves and is shaped by the social nature of human beings. in its broadest conception, sociolinguistics analyses the many and diverse ways in which language and society entwine.

@@ -19,15 +19,7 @@ Lack of conjugation or declension
 Lack of grammatical gender or number, commonly supplanted by reduplication to represent plurals and superlatives, and other parts of speech that represent the concept being increased and clear indication of the gender or animated objects.
 Lack of clear parts of speech or word categorization; common use and derivation of new vocabulary through conversion, e.g. nominalization, verbification, adjectivization etc.
 
-
 person, tense, number, focus are generally missing.
-
-
-
-
-
-
-
 
 pidgins:
 
