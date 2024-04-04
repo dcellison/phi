@@ -6,11 +6,11 @@
 | literal | me you love|
 | phi  | mia thi lothea|
 
-| type | sentence|
-| ---- | --------|
-| english | the sky is blue|
-| literal | sky blue is|
-| phi  | whethu mipho phe |
+| type    | sentence         |
+| ------- | ---------------- |
+| english | the sky is blue  |
+| literal | sky blue is      |
+| phi     | whethu mipho phe |
 
 | type | sentence|
 | ---- | --------|
