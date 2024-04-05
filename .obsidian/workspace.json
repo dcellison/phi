@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c9f7d5ae82e5cbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43041e7898ccb787",
             "type": "leaf",
             "state": {
@@ -39,13 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/source/categories/interjections.md",
+                "file": "book/source/categories/outliers/colours.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/source/assorted/pos.md",
+                "file": "book/source/categories/outliers/colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/source/assorted/pos.md",
+                "file": "book/source/categories/outliers/colours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/source/assorted/pos.md"
+                "file": "book/source/categories/outliers/colours.md"
               }
             }
           },
@@ -172,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "book/source/assorted/pos.md"
+                "file": "book/source/categories/outliers/colours.md"
               }
             }
           }
@@ -190,36 +203,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aae1c1dcdcf60b61",
+  "active": "602bbe51fb5779b6",
   "lastOpenFiles": [
-    "book/source/assorted/function.md",
-    "book/source/assorted/examples.md",
-    "book/source/categories/particles.md",
-    "book/source/grammar/semantics.md",
-    "book/source/grammar/syntax.md",
-    "book/source/grammar/sociolinguistics.md",
-    "book/source/grammar/morphology.md",
     "book/source/grammar/orthography.md",
-    "book/source/grammar/phonetics.md",
-    "book/source/grammar/phonology.md",
-    "book/source/grammar/phonotactics.md",
-    "book/source/categories/interjections.md",
-    "manual/source/manual.pdf",
-    "book/source/categories/determiners.md",
-    "book/source/categories/colours.md",
-    "book/source/categories/Untitled.md",
-    "book/locker/templates",
-    "book/locker",
+    "book/source/categories/outliers/qualifiers.md",
+    "book/source/categories/outliers/particles.md",
+    "book/source/categories/outliers/numbers.md",
+    "book/source/categories/outliers/interjections.md",
+    "book/source/categories/outliers/determiners.md",
+    "book/source/categories/outliers/colours.md",
+    "book/source/categories/standard/conjunctions.md",
+    "book/source/categories/standard/nouns.md",
+    "book/source/categories/standard/prepositions.md",
+    "book/source/categories/standard/pronouns.md",
+    "book/source/categories/standard/verbs.md",
+    "book/source/categories/standard/adjectives.md",
+    "book/source/categories/standard/adverbs.md",
+    "README.md",
+    "book/source/categories/outliers",
+    "book/source/categories/standard/outliers",
+    "book/source/categories/standard/untitled folder",
+    "book/source/categories/standard",
     "book/source/assorted/pos.md",
-    "source/assorted/examples.md",
-    "categories/conjunctions.md",
-    "categories/colours.md",
-    "categories/adverbs.md",
-    "categories/adjectives.md",
-    "categories/pronouns.md",
-    "categories/particles.md",
-    "grammar/morphology.md",
-    "grammar/phonotactics.md",
-    "assorted/pos.md"
+    "book/source/categories/parts of speech/verbs.md",
+    "book/source/categories/parts of speech/pronouns.md",
+    "book/source/categories/parts of speech/prepositions.md",
+    "book/source/categories/parts of speech/nouns.md",
+    "book/source/categories/parts of speech/conjunctions.md",
+    "book/source/categories/parts of speech/adverbs.md",
+    "book/source/categories/parts of speech/adjectives.md",
+    "book/source/categories/parts of speech",
+    "book/source/categories/pos/verbs.md",
+    "book/source/categories/pos/pronouns.md",
+    "book/source/categories/pos/prepositions.md",
+    "book/source/categories/pos",
+    "manual/source/manual.pdf",
+    "book/locker/templates",
+    "book/locker"
   ]
 }
