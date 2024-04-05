@@ -1,3 +1,8 @@
+---
+tags:
+  - pos
+  - standard
+---
 # nouns
 
 > nouns are words that name people, places, things, concepts, or ideas. they serve as the subject or object in sentences, indicating who or what is performing an action or receiving an action.

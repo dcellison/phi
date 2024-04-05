@@ -1,10 +1,15 @@
+---
+tags:
+  - pos
+  - grammar
+---
 # determiners
 
 > determiners are words placed before nouns to specify quantity, possession, definiteness, or to introduce the noun. they help to clarify what the noun is referring to, whether it's something specific or general.
 
 in phi there are no definite or indefinite articles or possessive determiners. the latter is indicated with the "of x" formation, like "of me" in place of "mine", or "the house of us" instead of "our house".
 
-### interrogatives
+## interrogatives
 
 | phi | english |
 | --- | ------- |
@@ -13,7 +18,7 @@ in phi there are no definite or indefinite articles or possessive determiners. t
 |     | what    |
 |     | who     |
 
-### demonstratives
+## demonstratives
 
 | phi | english |
 | --- | ------- |
@@ -22,7 +27,7 @@ in phi there are no definite or indefinite articles or possessive determiners. t
 |     | these   |
 |     | those   |
 
-### quantifiers
+## quantifiers
 
 | phi | english |
 | --- | ------- |

@@ -1,3 +1,8 @@
+---
+tags:
+  - pos
+  - standard
+---
 # verbs
 
 > verbs are words that express actions, events, or states of being in a sentence. they convey what the subject of the sentence is doing, experiencing, or being. verbs can be classified into different categories based on their functions and forms, including action verbs (e.g., "run," "eat"), stative verbs (e.g., "be," "feel"), auxiliary verbs (e.g., "have," "will"), and modal verbs (e.g., "can," "must"). verbs are a fundamental element of sentence structure and play a crucial role in conveying meaning and indicating tense, aspect, and mood.

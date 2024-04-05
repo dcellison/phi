@@ -1,3 +1,9 @@
+---
+tags:
+  - pos
+  - standard
+  - grammar
+---
 # pronouns
 
 > pronouns are words used in place of nouns to avoid repetition or to refer back to nouns previously mentioned in a sentence or discourse. they represent persons, animals, things, or concepts and can function as subjects, objects, possessives, or reflexives in sentences. examples include "he," "she," "it," "they," "me," "you," "himself," "ourselves," and "whose." pronouns help to make sentences more concise and fluent by replacing specific nouns with more general terms.

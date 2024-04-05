@@ -51,9 +51,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/source/categories/outliers/colours.md",
+                "file": "book/source/assorted/pos.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pos",
+                "query": "tag:grammar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/source/categories/outliers/colours.md",
+                "file": "book/source/assorted/pos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/source/categories/outliers/colours.md",
+                "file": "book/source/assorted/pos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/source/categories/outliers/colours.md"
+                "file": "book/source/assorted/pos.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "book/source/categories/outliers/colours.md"
+                "file": "book/source/assorted/pos.md"
               }
             }
           }
@@ -205,20 +205,23 @@
   },
   "active": "602bbe51fb5779b6",
   "lastOpenFiles": [
-    "book/source/grammar/orthography.md",
-    "book/source/categories/outliers/qualifiers.md",
+    "book/source/assorted/lexicon.md",
+    "book/source/grammar/pragmatics.md",
+    "book/source/categories/outliers/determiners.md",
     "book/source/categories/outliers/particles.md",
     "book/source/categories/outliers/numbers.md",
-    "book/source/categories/outliers/interjections.md",
-    "book/source/categories/outliers/determiners.md",
     "book/source/categories/outliers/colours.md",
-    "book/source/categories/standard/conjunctions.md",
-    "book/source/categories/standard/nouns.md",
-    "book/source/categories/standard/prepositions.md",
-    "book/source/categories/standard/pronouns.md",
-    "book/source/categories/standard/verbs.md",
+    "book/source/categories/outliers/qualifiers.md",
+    "book/source/categories/outliers/interjections.md",
+    "book/source/assorted/examples.md",
     "book/source/categories/standard/adjectives.md",
+    "book/source/categories/standard/verbs.md",
+    "book/source/categories/standard/pronouns.md",
+    "book/source/categories/standard/prepositions.md",
+    "book/source/categories/standard/nouns.md",
+    "book/source/categories/standard/conjunctions.md",
     "book/source/categories/standard/adverbs.md",
+    "book/source/grammar/orthography.md",
     "README.md",
     "book/source/categories/outliers",
     "book/source/categories/standard/outliers",
@@ -233,9 +236,6 @@
     "book/source/categories/parts of speech/adverbs.md",
     "book/source/categories/parts of speech/adjectives.md",
     "book/source/categories/parts of speech",
-    "book/source/categories/pos/verbs.md",
-    "book/source/categories/pos/pronouns.md",
-    "book/source/categories/pos/prepositions.md",
     "book/source/categories/pos",
     "manual/source/manual.pdf",
     "book/locker/templates",

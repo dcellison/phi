@@ -1,3 +1,7 @@
+---
+tags:
+  - pos
+---
 # numbers
 
 > numbers are a feature of nouns, pronouns, adjectives and verb agreement that expresses count distinctions. used alone numbers are nouns. if we use them to describe nouns, as in one apple, two apples, three apples, etc., then the numbers are adjectives.
@@ -60,6 +64,6 @@ below are some examples that demonstrate how numbers would be said and written i
 
 ### 1,073,741,824 - a gibibyte
 
-| phi                                                               | literal                                                                                                         | english                                                                             |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| lu woi no nui ti toa ha mio ti nui pe toa lu lae wo nui mi toa pe | one billion zero hundred seven ten three million seven hundred four ten one thousand eight hundred two ten four | one billion seventy three million seven hundred forty one eight hundred twenty four |
+| phi                                                               | literal                                                                                                         | english                                                                                      |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| lu woi no nui ti toa ha mio ti nui pe toa lu lae wo nui mi toa pe | one billion zero hundred seven ten three million seven hundred four ten one thousand eight hundred two ten four | one billion seventy-three million seven hundred forty-one thousand eight hundred twenty-four |

@@ -1,3 +1,7 @@
+---
+tags:
+  - pos
+---
 # interjections
 
 > interjections are words or phrases that express strong emotion, surprise, or reaction and are often used independently from the main sentence structure. they can convey feelings of happiness, surprise, anger, or pain, among others, and are typically followed by an exclamation mark in writing.

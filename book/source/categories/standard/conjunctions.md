@@ -1,3 +1,9 @@
+---
+tags:
+  - pos
+  - standard
+  - grammar
+---
 # conjunctions
 
 >  conjunctions are words that join together other words, phrases, or clauses in sentences. they can connect items of the same kind, such as two words, two phrases, or two clauses, indicating relationships like addition, contrast, choice, cause, and effect.
