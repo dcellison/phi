@@ -1,0 +1,135 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": false,
+  "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
+  "focusOnNewInstance": true,
+  "hideStatusBar": "focused",
+  "language": "",
+  "newInstanceBehavior": "newTab",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": true,
+  "pinNewInstance": false,
+  "preferredRenderer": "webgl",
+  "profiles": {
+    "darwinExternalDefault": {
+      "args": [
+        "\"$PWD\""
+      ],
+      "executable": "/Applications/iTerm.app/Contents/MacOS/iTerm2",
+      "name": "iTerm",
+      "platforms": {
+        "darwin": true
+      },
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "external"
+    },
+    "darwinIntegratedDefault": {
+      "args": [],
+      "executable": "/bin/zsh",
+      "name": "",
+      "platforms": {
+        "darwin": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "fontFamily": "PragmataPro",
+        "fontSize": 20
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "developerConsole": {
+      "name": "",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "developerConsole"
+    },
+    "linuxExternalDefault": {
+      "args": [],
+      "executable": "xterm",
+      "name": "",
+      "platforms": {
+        "linux": true
+      },
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "external"
+    },
+    "linuxIntegratedDefault": {
+      "args": [],
+      "executable": "/bin/sh",
+      "name": "",
+      "platforms": {
+        "linux": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "win32ExternalDefault": {
+      "args": [],
+      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "external"
+    },
+    "win32IntegratedDefault": {
+      "args": [],
+      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "integrated",
+      "useWin32Conhost": true
+    }
+  }
+}

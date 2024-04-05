@@ -30,5 +30,11 @@
   "minimal-style@@table-text-size": "1em",
   "minimal-style@@row-hover": false,
   "minimal-style@@link-external-color@@dark": "#478BE6",
-  "minimal-style@@link-external-color-hover@@dark": "#478BE6"
+  "minimal-style@@link-external-color-hover@@dark": "#478BE6",
+  "minimal-style@@h1-color@@dark": "#B083F0",
+  "minimal-style@@h2-color@@dark": "#6BC46D",
+  "minimal-style@@h3-color@@dark": "#F69D50",
+  "minimal-style@@h4-color@@dark": "#539BF5",
+  "minimal-style@@h5-color@@dark": "#E275AD",
+  "minimal-style@@h6-color@@dark": "#EAC55F"
 }

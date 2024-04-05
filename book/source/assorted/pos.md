@@ -29,7 +29,7 @@
 3. **conjunctions** - words that connect words, phrases, clauses, or sentences.
 4. **interjections** - words or phrases that express strong emotion or sudden utterance.
 
-#### not in the traditional eight parts of speech
+### not in the traditional eight parts of speech
 
 1. **particles** - in english, particles are functional words that do not fit into the other categories and are used within phrasal verbs or to show the relationship between words.
 2. **determiners** - words that introduce nouns and can indicate quantity, possession, specificity, etc.
