@@ -1,0 +1,15 @@
+{
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "useTab": false,
+  "propertiesInDocument": "hidden",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

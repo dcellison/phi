@@ -5,35 +5,35 @@
 ## coordinating
 
 | phi | english |
-| --- | ---|
-| ma | for|
-| ne | and|
-| po | nor|
-| tu | but|
-| wi | or|
-| re | yet|
-| hu | so|
+| --- | ------- |
+| ma | for      |
+| ne | and      |
+| po | nor      |
+| tu | but      |
+| wi | or       |
+| re | yet      |
+| hu | so       |
 
 ## subordinating
 
-| phi  | english |
-| ---- | ---|
-|      | after|
-|      | although|
-|      | as|
-|      | because|
-|      | before|
-| haso | how|
-|      | if|
-|      | once|
-|      | since|
-|      | than|
-|      | that|
-|      | when|
-|      | where|
-|      | whether|
-|      | while|
-|      | until|
+| phi  | english  |
+| ---- | -------- |
+|      | after    |
+|      | although |
+|      | as       |
+|      | because  |
+|      | before   |
+| haso | how      |
+|      | if       |
+|      | once     |
+|      | since    |
+|      | than     |
+|      | that     |
+|      | when     |
+|      | where    |
+|      | whether  |
+|      | while    |
+|      | until    |
 
 ## correlative
 
@@ -55,10 +55,10 @@
 | not only/but also | eshi/esho   |
 | whether/or        | modo/mel    |
 
-* usage
+### usage
 
 | english                        | torn tongue          |
-| -------                        | -----------          |
+| ------------------------------ | -------------------- |
 | both basin and basket          | dath boilr tath telt |
 | either bag or bucket           | del ralb tel levolk  |
 | neither ball nor bar           | nini rolk niin melb  |

@@ -1,5 +1,4 @@
 .DS_Store
-.obsidian
 manual/source/*.aux
 manual/source/*.fls
 manual/source/*.log

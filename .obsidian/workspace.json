@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d15d5ff925018ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c99109e3586c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae1c1dcdcf60b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/source/grammar/phonotactics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602bbe51fb5779b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/source/categories/interjections.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea7e01863e4659e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b051b23e64db6bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb502589e4b5306e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0e8a996a26ffeb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.50260543823242
+  },
+  "right": {
+    "id": "8607e4d8aa690e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc70627d74ebcaa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "805e7c6eb1fdedad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book/source/categories/interjections.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca12d20d842c98ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book/source/categories/interjections.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c56f172aac1ddb51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book/source/categories/interjections.md"
+              }
+            }
+          },
+          {
+            "id": "74d75d4a91b33e41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98e3528abe995737",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "23ff93ad97ea0725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6396aeaac4d5ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "book/source/categories/interjections.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "602bbe51fb5779b6",
+  "lastOpenFiles": [
+    "book/source/grammar/orthography.md",
+    "book/source/grammar/phonetics.md",
+    "book/source/categories/interjections.md",
+    "manual/source/manual.pdf",
+    "book/source/categories/determiners.md",
+    "book/source/categories/colours.md",
+    "book/source/categories/Untitled.md",
+    "book/locker/templates",
+    "book/locker",
+    "book/source/grammar/phonotactics.md",
+    "book/source/assorted/pos.md",
+    "book/source/assorted/examples.md",
+    "source/assorted/examples.md",
+    "categories/conjunctions.md",
+    "categories/colours.md",
+    "categories/adverbs.md",
+    "categories/adjectives.md",
+    "categories/pronouns.md",
+    "categories/particles.md",
+    "grammar/morphology.md",
+    "grammar/phonotactics.md",
+    "assorted/pos.md",
+    "assorted/examples.md",
+    "grammar/phonology.md",
+    "grammar/phonetics.md",
+    "grammar/orthography.md",
+    "categories/qualifiers.md",
+    "README.md",
+    "assorted/function.md"
+  ]
+}

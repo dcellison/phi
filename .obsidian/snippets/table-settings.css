@@ -1,0 +1,19 @@
+table
+{
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+table td, th {
+  padding-left: 15px !important;
+  border: 1px solid #3e454d !important;
+}
+
+table th {
+  height: 35px;
+  padding-bottom: 8px !important;
+}
+
+table tr {
+  line-height: 35px;
+}
