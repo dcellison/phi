@@ -38,14 +38,14 @@
         "theme": {
           "background": "#22272e",
           "black": "#22272e",
-          "blue": "#c69025",
-          "cyan": "#39c5cf",
+          "blue": "#6db7ff",
+          "cyan": "#56d5dd",
           "foreground": "#acbac7",
-          "green": "#57ab5a",
-          "magenta": "#b083f0",
-          "red": "#f46f68",
-          "white": "#8f9daa",
-          "yellow": "#c69025"
+          "green": "#6ac36d",
+          "magenta": "#dcbefb",
+          "red": "#ff948a",
+          "white": "#cdd9e4",
+          "yellow": "#dbaa3f"
         }
       },
       "type": "integrated",

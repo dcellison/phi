@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8c99109e3586c81",
+        "id": "a3fd53f7a13686e8",
         "type": "tabs",
         "children": [
           {
-            "id": "602bbe51fb5779b6",
+            "id": "af072f3cdebc815b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d3ae01c1b6d8a018",
+            "id": "76001e60e3d18ac4",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -53,22 +53,22 @@
                       "theme": {
                         "background": "#22272e",
                         "black": "#22272e",
-                        "blue": "#c69025",
-                        "cyan": "#39c5cf",
+                        "blue": "#6db7ff",
+                        "cyan": "#56d5dd",
                         "foreground": "#acbac7",
-                        "green": "#57ab5a",
-                        "magenta": "#b083f0",
-                        "red": "#f46f68",
-                        "white": "#8f9daa",
-                        "yellow": "#c69025"
+                        "green": "#6ac36d",
+                        "magenta": "#dcbefb",
+                        "red": "#ff948a",
+                        "white": "#cdd9e4",
+                        "yellow": "#dbaa3f"
                       }
                     },
                     "type": "integrated",
                     "useWin32Conhost": false
                   },
                   "serial": {
-                    "columns": 88,
-                    "data": "On branch main\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/appearance.json\r\n\u001b[4Cmodified:   .obsidian/community-plugins.json\r\n\u001b[4Cmodified:   .obsidian/plugins/obsidian-style-settings/data.json\r\n\u001b[4Cmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[4Cmodified:   .obsidian/types.json\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\u001b[4Cmodified:   README.md\r\n\u001b[4Cdeleted:    book/source/assorted/examples.md\r\n\u001b[4Cdeleted:    book/source/assorted/function.md\r\n\u001b[4Cdeleted:    book/source/assorted/lexicon.md\r\n\u001b[4Cdeleted:    book/source/assorted/pos.md\r\n\u001b[4Cmodified:   book/source/grammar/phonotactics.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[4C\u001b[31m.obsidian/plugins/longform/\r\n\u001b[0mOn branch main\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/appearance.json\r\n\u001b[4Cmodified:   .obsidian/community-plugins.json\r\n\u001b[4Cmodified:   .obsidian/plugins/obsidian-style-settings/data.json\r\n\u001b[4Cmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[4Cmodified:   .obsidian/types.json\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\u001b[4Cmodified:   README.md\r\n\u001b[4Cdeleted:    book/source/assorted/examples.md\r\n\u001b[4Cdeleted:    book/source/assorted/function.md\r\n\u001b[4Cdeleted:    book/source/assorted/lexicon.md\r\n\u001b[4Cdeleted:    book/source/assorted/pos.md\r\n\u001b[4Cmodified:   book/source/grammar/phonotactics.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[4C\u001b[31m.obsidian/plugins/longform/\r\n\u001b[4C.obsidian/snippets/blockquote-left.css\r\n\u001b[4C.obsidian/snippets/head-underline.css\r\n\u001b[4C.obsidian/snippets/inline-code.css\r\n\u001b[4Cbook/locker/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m$ git add .\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[9A\u001b[11C",
+                    "columns": 84,
+                    "data": "On branch main\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[4Cmodified:   .obsidian/hotkeys.json\r\n\u001b[4Cmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m(reverse-i-search)`-am': git commit -am \"Edit lots of files.\"\u001b[25D",
                     "rows": 37
                   }
                 }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50260543823242
+    "width": 269.5026054382324
   },
   "right": {
     "id": "8607e4d8aa690e6e",
@@ -216,7 +216,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d3ae01c1b6d8a018",
+  "active": "76001e60e3d18ac4",
   "lastOpenFiles": [
     "book/source/categories/standard/pronouns.md",
     "book/source/categories/outliers/colours.md",

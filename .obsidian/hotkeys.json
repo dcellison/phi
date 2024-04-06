@@ -1,1 +1,10 @@
-{}
+{
+  "terminal:open-terminal.integrated.root": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}
