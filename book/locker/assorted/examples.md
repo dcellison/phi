@@ -1,10 +1,10 @@
 # example usage
 
-| type | sentence|
-| ---- | --------|
-| english | i love you|
-| literal | me you love|
-| phi  | mia thi lothea|
+| type    | sentence       |
+| ------- | -------------- |
+| english | i love you     |
+| literal | me you love    |
+| phi     | mia thi lothea |
 
 | type    | sentence         |
 | ------- | ---------------- |
@@ -12,7 +12,7 @@
 | literal | sky blue is      |
 | phi     | whethu mipho phe |
 
-| type | sentence|
+| type | sentence |
 | ---- | --------|
 | english | they like food|
 | intermediate | they food like|

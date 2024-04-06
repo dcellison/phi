@@ -1,5 +1,5 @@
 {
-  "accentColor": "#ec775c",
+  "accentColor": "#5db18d",
   "cssTheme": "Minimal",
   "baseFontSize": 20,
   "showViewHeader": true,
@@ -7,7 +7,10 @@
   "enabledCssSnippets": [
     "table-settings",
     "link-colour",
-    "link-decoration"
+    "link-decoration",
+    "head-underline",
+    "blockquote-left",
+    "inline-code"
   ],
-  "monospaceFontFamily": "PragmataPro"
+  "monospaceFontFamily": ""
 }

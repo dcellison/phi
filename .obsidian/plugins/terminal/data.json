@@ -13,6 +13,44 @@
   "pinNewInstance": false,
   "preferredRenderer": "webgl",
   "profiles": {
+    "darwinIntegratedDefault": {
+      "args": [],
+      "executable": "/bin/bash",
+      "name": "Terminal",
+      "platforms": {
+        "darwin": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "cursorBlink": true,
+        "drawBoldTextInBrightColors": false,
+        "fontFamily": "PragmataPro",
+        "fontSize": 18,
+        "fontWeight": "normal",
+        "fontWeightBold": "normal",
+        "tabStopWidth": 4,
+        "theme": {
+          "background": "#22272e",
+          "black": "#22272e",
+          "blue": "#c69025",
+          "cyan": "#39c5cf",
+          "foreground": "#acbac7",
+          "green": "#57ab5a",
+          "magenta": "#b083f0",
+          "red": "#f46f68",
+          "white": "#8f9daa",
+          "yellow": "#c69025"
+        }
+      },
+      "type": "integrated",
+      "useWin32Conhost": false
+    },
     "darwinExternalDefault": {
       "args": [
         "\"$PWD\""
@@ -30,27 +68,6 @@
       ],
       "terminalOptions": {},
       "type": "external"
-    },
-    "darwinIntegratedDefault": {
-      "args": [],
-      "executable": "/bin/zsh",
-      "name": "",
-      "platforms": {
-        "darwin": true
-      },
-      "pythonExecutable": "python3",
-      "restoreHistory": true,
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "fontFamily": "PragmataPro",
-        "fontSize": 20
-      },
-      "type": "integrated",
-      "useWin32Conhost": true
     },
     "developerConsole": {
       "name": "",

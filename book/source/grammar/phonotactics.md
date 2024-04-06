@@ -4,7 +4,7 @@
 
 ## groups
 
- the following groups are used to fill in the form at the [awkwords](http://akana.conlang.org/tools/awkwords/) website in  order to generate sample words for a phi lexicon.
+the following groups are used to fill in the form at the [awkwords](http://akana.conlang.org/tools/awkwords/) website in  order to generate sample words for a phi lexicon.
 
 | group | pattern               |
 | ----- | --------------------- |
