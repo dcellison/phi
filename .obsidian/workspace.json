@@ -8,19 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af072f3cdebc815b",
+            "id": "58778cdfcad21eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/source/categories/standard/pronouns.md",
+                "file": "book/locker/assorted/function.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "76001e60e3d18ac4",
+            "id": "906800c28000e29f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/locker/assorted/pos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "541c5898b9d014a1",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -67,8 +79,8 @@
                     "useWin32Conhost": false
                   },
                   "serial": {
-                    "columns": 84,
-                    "data": "On branch main\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[4Cmodified:   .obsidian/hotkeys.json\r\n\u001b[4Cmodified:   .obsidian/plugins/terminal/data.json\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m(reverse-i-search)`-am': git commit -am \"Edit lots of files.\"\u001b[25D",
+                    "columns": 92,
+                    "data": "On branch main\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\u001b[4Cmodified:   book/locker/assorted/function.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m$ git diff book/locker/assorted/function.md\r\n\u001b[1mdiff --git a/book/locker/assorted/function.md b/book/locker/assorted/function.md\r\nindex e3f2ece..20c9227 100644\r\n--- a/book/locker/assorted/function.md\r\n+++ b/book/locker/assorted/function.md\r\n\u001b[36;22m@@ -274,28 +274,28 @@\u001b[0m the 325 words in this section are the complete set of words possible using the p\r\n \r\n ## `[F][V]`\r\n \r\n\u001b[31m-| phi  | meaning    | type| sub-type |\r\n-| ---  | -------    | ----| ---  |\r\n-| pha  |  ||  |\r\n-| phe  |  ||  |\r\n-| phi  | is |verb| passive |\r\n-| pho  |     |  |  |\r\n-| phu  |  ||  |\r\n-| sha  | it |pronoun| third person |\r\n-| she  | be |verb| passive |\r\n-| shi  |            || |\r\n-| sho  |            || |\r\n-| shu  |            || |\r\n-| tha  |            || |\r\n-| the  |            || |\r\n-| thi  | you |pronoun| second person |\r\n-| tho  | to         | preposition| |\r\n-| thu  |            || |\r\n-| wha  |            || |\r\n-| whe  |            || |\r\n-| whi  | at         | preposition| |\r\n-| who  | for        | preposition| |\r\n-| whu  |            || |\r\n\u001b[32m+| phi | meaning  | type        | sub-type      |\r\n+| --- | -------- | ----------- | ------------- |\r\n+| pha |          |             |               |\r\n+| phe | is       | verb        | passive       |\r\n+| phi | reserved | reserved    | reserved      |\r\n+| pho |          |             |               |\r\n+| phu |          |             |               |\r\n+| sha | it       | pronoun     | third person  |\r\n+| she | be       | verb        | passive       |\r\n+| shi |          |             |               |\r\n+| sho |          |             |               |\r\n+| shu |          |             |               |\r\n+| tha |          |             |               |\r\n+| the |          |             |               |\r\n+| thi | you      | pronoun     | second person |\r\n+| tho | to       | preposition |               |\r\n+| thu |          |             |               |\r\n+| wha |          |             |               |\r\n+| whe |          |             |               |\r\n+| whi | at       | preposition |               |\r\n+| who | for      | preposition |               |\r\n+| whu |          |             |               |\r\n\u001b[0m \r\n ## `[C][V]`\r\n \r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m(reverse-i-search)`-am': git commit -am \"Edit lots of files.\"\u001b[25D",
                     "rows": 37
                   }
                 }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,56 +130,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5026054382324
+    "width": 200
   },
   "right": {
     "id": "8607e4d8aa690e6e",
     "type": "split",
     "children": [
       {
-        "id": "cc70627d74ebcaa2",
+        "id": "23ff93ad97ea0725",
         "type": "tabs",
         "children": [
           {
-            "id": "805e7c6eb1fdedad",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ca12d20d842c98ce",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c56f172aac1ddb51",
+            "id": "0b2d9408788bc863",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "23ff93ad97ea0725",
+        "id": "50263cc3c2818d7b",
         "type": "tabs",
         "children": [
           {
@@ -216,8 +200,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "76001e60e3d18ac4",
+  "active": "541c5898b9d014a1",
   "lastOpenFiles": [
+    "book/locker/assorted/pos.md",
+    "book/source/categories/outliers/particles.md",
+    "book/locker/assorted/function.md",
+    "book/source/categories/standard/verbs.md",
     "book/source/categories/standard/pronouns.md",
     "book/source/categories/outliers/colours.md",
     "book/source/grammar/orthography.md",
@@ -230,7 +218,6 @@
     "book/source/grammar/phonetics.md",
     "book/source/categories/outliers/qualifiers.md",
     "reallifecam.com.md",
-    "book/source/categories/outliers/particles.md",
     "lawha.md",
     "manual/source/manual.pdf",
     "book/source/categories/standard/conjunctions.md",
@@ -238,13 +225,10 @@
     "book/source/categories/outliers/determiners.md",
     "book/locker/assorted/examples.md",
     "README.md",
-    "book/locker/assorted/function.md",
     "book/locker/assorted/lexicon.md",
-    "book/locker/assorted/pos.md",
     "book/source/categories/outliers/numbers.md",
     "book/source/categories/outliers/interjections.md",
     "book/locker/new.md",
-    "book/source/categories/standard/verbs.md",
     "book/source/categories/outliers",
     "book/source/categories/standard/outliers",
     "book/source/categories/standard/untitled folder",
