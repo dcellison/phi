@@ -12,5 +12,7 @@
     "blockquote-left",
     "inline-code"
   ],
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

@@ -77,8 +77,8 @@ i am = me is = mia ta phe
 |        | tell
 |        | see
 |        | sit
-| lothea | love
-| lephe  | like
+| [[lothea]] | love
+| [[lephe]]  | like
 |        | add
 |        | ask
 |        | carry
