@@ -8,3 +8,5 @@ english: *love*
 
 phi: mia thi lothea
 english: i love you
+
+eventually we will have only phi sentences as examples, with translations into several languages.
