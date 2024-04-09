@@ -5,8 +5,8 @@ tags:
 ---
 # lothea
 
-`$= dv.current().tags `
-
 `[lo̞.'θe̞.ä]`
+
+`$= dv.current().tags `
 
 english: *love*
