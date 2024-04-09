@@ -10,7 +10,8 @@
     "link-decoration",
     "head-underline",
     "blockquote-left",
-    "inline-code"
+    "inline-code",
+    "shrink-pinned-tab"
   ],
   "monospaceFontFamily": "",
   "textFontFamily": "",
