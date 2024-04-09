@@ -1,5 +1,13 @@
+---
+tags:
+  - noun
+  - verb
+  - adverb
+  - adjective
+---
 # lephe
+`['le̞.ɸe̞]`
 
-v. like
+noun, verb, adverb, adjective
 
-in english, the word *like* has a very flexible range of uses, ranging from conventional to non-standard. it can be used as a noun, verb, adverb, adjective, preposition, particle, conjunction, hedge, filler, quotative, and semi-suffix.
+english: *like*
