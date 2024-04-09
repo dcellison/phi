@@ -11,16 +11,16 @@ regular: want, look, use, work, start, try, ask, need, talk, and help
 irregular: be, have, do, say, make, go, take, come, see, and get
 
 * in phi, verbs do not conjugate
-  * conjugation refers to the act of changing the form of a verb and/or adding a helping verb to indicate person, number, and tense.
-  * verbs stay in infinitive, unchanged form
-  * no change to indicate tense, number, etc.
-  * particles are used instead
+    * conjugation refers to the act of changing the form of a verb and/or adding a helping verb to indicate person, number, and tense.
+    * verbs stay in infinitive, unchanged form
+    * no change to indicate tense, number, etc.
+    * particles are used instead
   
 * there are four types of verbs
-  * intransitive
-  * transitive
-  * linking
-  * passive
+    * intransitive
+    * transitive
+    * linking
+    * passive
 * intransitive and transitive are in the active voice
 * passive verbs are in the passive voice
 
@@ -28,24 +28,24 @@ irregular: be, have, do, say, make, go, take, come, see, and get
 
 * express action
 * do not take an object
-  * i ran
+    * i ran
 
 ## transitive
 
 * express action
 * terminates in, or is received by, an object
-  * i threw the ball
+    * i threw the ball
 
 ## linking
 
 * verbs of the senses
-  * feel, look, smell, or taste
+    * feel, look, smell, or taste
 
 ## passive verbs
 
 * allow the subject to receive the action rather than do it
 * they are all some form of "be"
-  * the ball was thrown by me <- "was"
+    * the ball was thrown by me <- "was"
 
 | phi       | english | details                    |
 | --------- | ------- | -------------------------- |
