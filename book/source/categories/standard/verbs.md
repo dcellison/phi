@@ -47,16 +47,16 @@ irregular: be, have, do, say, make, go, take, come, see, and get
 * they are all some form of "be"
   * the ball was thrown by me <- "was"
 
-| phi | eng| details |
-| --- | ---| --- |
-| ta phe | is| simple present "is" |
-|  | am| (not necessary) |
-| ta lo phe | are| simple present plural "is" |
-| li phe    | was| simple past "is" |
-| li lo phe | were| simple past plural "is" |
-| ta she | be| simple present "be" |
-| la she | being| present progressive "be" |
-| li she | been| simple past "be" |
+| phi       | english | details                    |
+| --------- | ------- | -------------------------- |
+| ta phe    | is      | simple present "is"        |
+|           | am      | (not necessary)            |
+| ta lo phe | are     | simple present plural "is" |
+| li phe    | was     | simple past "is"           |
+| li lo phe | were    | simple past plural "is"    |
+| ta she    | be      | simple present "be"        |
+| la she    | being   | present progressive "be"   |
+| li she    | been    | simple past "be"           |
 
 being = be in present progressive = la she
 
@@ -66,42 +66,42 @@ i am = me is = mia ta phe
 
 ## miscellaneous verbs
 
-| phi    | eng
-| ---    | ---
-|        | go
-|        | do
-|        | eat
-|        | give
-|        | take
-|        | sleep
-|        | tell
-|        | see
-|        | sit
-| [[lothea]] | love
-| [[lephe]]  | like
-|        | add
-|        | ask
-|        | carry
-|        | drop
-|        | contain
-|        | move
-|        | push
-|        | pull
-|        | step
-|        | walk
-|        | run
-|        | wait
-|        | use
+| phi        | english |
+| ---------- | ------- |
+|            | go      |
+|            | do      |
+|            | eat     |
+|            | give    |
+|            | take    |
+|            | sleep   |
+|            | tell    |
+|            | see     |
+|            | sit     |
+| [[lothea]] | love    |
+| [[lephe]]  | like    |
+|            | add     |
+|            | ask     |
+|            | carry   |
+|            | drop    |
+|            | contain |
+|            | move    |
+|            | push    |
+|            | pull    |
+|            | step    |
+|            | walk    |
+|            | run     |
+|            | wait    |
+|            | use     |
 
 ## voice verbs
 
-| phi    | eng
-| ---    | ---
-|        | whisper
-|        | talk
-|        | sing
-|        | laugh
-|        | cry
-|        | scream
-|        | shout
-|        | yell
+| phi | eng     |
+| --- | ------- |
+|     | whisper |
+|     | talk    |
+|     | sing    |
+|     | laugh   |
+|     | cry     |
+|     | scream  |
+|     | shout   |
+|     | yell    |

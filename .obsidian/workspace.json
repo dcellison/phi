@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/source/lexicon/lothea.md",
-                "mode": "preview",
-                "source": true
+                "file": "book/locker/templates/tags.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "d6edf7b2bf9dd855",
+            "id": "4840a3acb88eebc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/source/lexicon/lephe.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6166c224af233c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/source/lexicon/lothea.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b385f81c3c12877d",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -67,28 +91,28 @@
                     "useWin32Conhost": false
                   },
                   "serial": {
-                    "columns": 118,
-                    "data": "On branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[4Cmodified:   book/source/lexicon/lothea.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1mdaniel@charcoal:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m(reverse-i-search)`-am': near call openesg-expert-council.sputnik-dao.near add_proposal '{\"proposal\": {\"description\": \"Remove de1b602e4fca6542cb5498a46091797f00206a25a568aa19d61bf3a1602441cc from council role\", \"kind\": {\"RemoveMemberFro\r\nmRole\": {\"member_id\": \"de1b602e4fca6542cb5498a46091797f00206a25a568aa19d61bf3a1602441cc\", \"role\": \"council\"}}}}' --amo\r\nunt 0.1 --account_id openesg.near\r\n\u001b[32;1mdaniel@charcoal:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m(reverse-i-search)`-m': cp ../incomplete/zurich-insurance-group-integrated-sustainability-disclosure-2022/zurich-insurance-group-integrated-sustainability-disclosure-2022.json lundin-mining-sustainability-report-2022.json\r\n\u001b[32;1mdaniel@charcoal:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m$ git commit -am \"Edit lots of files.\"",
-                    "rows": 61
+                    "columns": 85,
+                    "data": "On branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n\u001b[4C\u001b[32mmodified:   .obsidian/app.json\r\n\u001b[4Cmodified:   .obsidian/community-plugins.json\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/data.json\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/main.js\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/manifest.json\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/styles.css\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/data.json\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/main.js\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/manifest.json\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/styles.css\r\n\u001b[4Cmodified:   .obsidian/snippets/head-underline.css\r\n\u001b[4Cmodified:   .obsidian/snippets/inline-code.css\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\u001b[4Cmodified:   book/locker/assorted/intro.md\r\n\u001b[4Cnew file:   book/locker/templates/tags.md\r\n\u001b[4Cmodified:   book/source/categories/standard/verbs.md\r\n\u001b[4Cmodified:   book/source/lexicon/lephe.md\r\n\u001b[4Cmodified:   book/source/lexicon/lothea.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m$ vi .gitignore \r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m$ git diff .obsidian/workspace.json\r\n\u001b[1mdiff --git a/.obsidian/workspace.json b/.obsidian/workspace.json\r\nindex d3fbb41..ca8cfae 100644\r\n--- a/.obsidian/workspace.json\r\n+++ b/.obsidian/workspace.json\r\n\u001b[0mOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n\u001b[4C\u001b[32mmodified:   .obsidian/app.json\r\n\u001b[4Cmodified:   .obsidian/community-plugins.json\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/data.json\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/main.js\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/manifest.json\r\n\u001b[4Cnew file:   .obsidian/plugins/dataview/styles.css\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/data.json\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/main.js\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/manifest.json\r\n\u001b[4Cnew file:   .obsidian/plugins/templater-obsidian/styles.css\r\n\u001b[4Cmodified:   .obsidian/snippets/head-underline.css\r\n\u001b[4Cmodified:   .obsidian/snippets/inline-code.css\r\n\u001b[4Cmodified:   .obsidian/workspace.json\r\n\u001b[4Cmodified:   book/locker/assorted/intro.md\r\n\u001b[4Cnew file:   book/locker/templates/tags.md\r\n\u001b[4Cmodified:   book/source/categories/standard/verbs.md\r\n\u001b[4Cmodified:   book/source/lexicon/lephe.md\r\n\u001b[4Cmodified:   book/source/lexicon/lothea.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[4C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[32;1mdaniel@sapphire:\u001b[35mdarwin:\u001b[33mmain: \u001b[34m~/work/syrinx/phi \r\n\u001b[0m(reverse-i-search)`-am': git commit -am \"Edit lots of files.\"\r\n\r\n\r\n\r\n\r\n\r\n\u001b[6A\u001b[36C",
+                    "rows": 37
                   }
                 }
               }
             }
           },
           {
-            "id": "d2f9fd38af80ee19",
+            "id": "a41f6dc35ff29e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "book/source/categories/standard/verbs.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +173,7 @@
             }
           },
           {
-            "id": "7ce74a3177aefb38",
+            "id": "1dce4a970112a52f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -165,7 +189,7 @@
             }
           },
           {
-            "id": "5b1f364710cdf10d",
+            "id": "30662baefd8d011c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -227,19 +251,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d6edf7b2bf9dd855",
+  "active": "b385f81c3c12877d",
   "lastOpenFiles": [
     "book/source/lexicon/lothea.md",
-    "book/source/categories/standard/verbs.md",
-    "manual/source/manual.pdf",
     "book/source/lexicon/lephe.md",
+    "book/locker/templates/tags.md",
+    "book/source/categories/standard/verbs.md",
+    "book/locker/assorted/intro.md",
+    "book/source/categories/standard/pronouns.md",
+    "book/source/categories/standard/nouns.md",
+    "book/source/categories/standard/prepositions.md",
+    "manual/source/manual.pdf",
+    "README.md",
     "book/source/categories/standard/adjectives.md",
     "book/source/categories/standard/adverbs.md",
-    "book/source/categories/standard/nouns.md",
-    "book/source/categories/standard/pronouns.md",
-    "book/source/categories/standard/prepositions.md",
     "book/locker/assorted/lexicon.md",
-    "book/locker/assorted/intro.md",
     "book/source/categories/outliers/interjections.md",
     "book/source/lexicon",
     "book/source/categories/standard/conjunctions.md",
@@ -255,7 +281,6 @@
     "book/source/grammar/semantics.md",
     "book/source/grammar/pragmatics.md",
     "book/source/grammar/phonotactics.md",
-    "book/source/grammar/phonetics.md",
     "book/source/categories/outliers",
     "book/source/categories/standard/outliers",
     "book/source/categories/standard/untitled folder",
