@@ -6,7 +6,7 @@ tags:
   - adjective
 ---
 # lephe
-`['le̞.ɸe̞]`
+ `['le̞.ɸe̞]`
 
 noun, verb, adverb, adjective
 
