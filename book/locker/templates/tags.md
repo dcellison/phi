@@ -1,1 +1,0 @@
-<% tp.frontmatter.tags %>
