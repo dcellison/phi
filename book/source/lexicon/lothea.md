@@ -7,8 +7,8 @@ tags:
 
 `[lo̞.'θe̞.ä]`
 
-`$= dv.current().tags `
-
-*n. v.*
+```dataviewjs
+$= await dv.view("book/locker/scripts/abbreviate", dv.current().tags);
+```
 
 english: *love*

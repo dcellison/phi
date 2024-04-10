@@ -6,8 +6,11 @@ tags:
   - adjective
 ---
 # lephe
+
  `['le̞.ɸe̞]`
 
-noun, verb, adverb, adjective
+```dataviewjs
+$= await dv.view("book/locker/scripts/abbreviate", dv.current().tags);
+```
 
 english: *like*
