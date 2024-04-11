@@ -83,7 +83,7 @@ consider evidentiality
 * subject object verb sentence structure
   * english: i love you
   * intermediate: me you love
-  * phi: mia thi lothea
+  * phi: mia thi [[lothea]]
 
 * only object pronouns
   * me, you, it
