@@ -11,3 +11,5 @@ $= await dv.view("book/locker/scripts/abbreviate", dv.current().tags);
 ```
 
 english: *sky*
+
+![[whethu.png|100]]
