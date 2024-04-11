@@ -13,6 +13,4 @@ $= await dv.view("book/locker/scripts/abbreviate", dv.current().tags);
 
 english: *love*
 
-tengwar:
-
 ![[lothea.png|100]]
