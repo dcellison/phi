@@ -1,6 +1,7 @@
 ---
 tags:
   - pos
+  - outlier
 ---
 # qualifiers
 

@@ -19,13 +19,13 @@ these noun roots aren't exclusive to these states of matter, but nouns related t
 
 ## general
 
-| phi     | english |
-| ------- | ------- |
-| miwho   | friend  |
-| lipha   | tree    |
-| whethu  | sky     |
-| ropho   | health  |
-| phiathe | name    |
+| phi        | english |
+| ---------- | ------- |
+| miwho      | friend  |
+| [[lipha]]  | tree    |
+| [[whethu]] | sky     |
+| ropho      | health  |
+| phiathe    | name    |
 
 | phi  | english |
 | ---- | ------- |

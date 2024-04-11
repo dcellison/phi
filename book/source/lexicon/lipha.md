@@ -1,14 +1,13 @@
 ---
 tags:
   - noun
-  - verb
 ---
-# lothea
+# lipha
 
-`[lo̞.'θe̞.ä]`  [[lothea.m4a|:luc_speaker:]]
+`['li.ɸä]`
 
 ```dataviewjs
 $= await dv.view("book/locker/scripts/abbreviate", dv.current().tags);
 ```
 
-english: *love*
+english: *tree*
