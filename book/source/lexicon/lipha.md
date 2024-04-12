@@ -4,7 +4,7 @@ tags:
 ---
 # lipha
 
-`['li.ɸä]` [[lipha.m4a|:luc_volume_2:]]
+`['li.ɸä]` [[lipha.webm|:luc_volume_2:]]
 
 ```dataviewjs
 $= await dv.view("book/locker/scripts/abbreviate", dv.current().tags);
