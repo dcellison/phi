@@ -14,5 +14,10 @@
   },
   "defaultViewMode": "preview",
   "showLineNumber": false,
-  "livePreview": true
+  "livePreview": true,
+  "attachmentFolderPath": "book/locker/media",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "book/locker/staging"
 }
