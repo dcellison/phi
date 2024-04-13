@@ -1,8 +1,7 @@
 ---
 tags:
-  - pos
+  - pos/outlier
   - grammar
-  - outlier
 ---
 # particles
 

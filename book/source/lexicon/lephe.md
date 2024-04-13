@@ -4,6 +4,7 @@ tags:
   - verb
   - adverb
   - adjective
+  - lexicon
 ---
 # lephe
 

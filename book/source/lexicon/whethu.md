@@ -1,6 +1,7 @@
 ---
 tags:
   - noun
+  - lexicon
 ---
 # whethu
 

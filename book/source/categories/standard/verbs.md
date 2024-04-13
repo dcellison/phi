@@ -1,7 +1,6 @@
 ---
 tags:
-  - pos
-  - standard
+  - pos/standard
 ---
 # verbs
 

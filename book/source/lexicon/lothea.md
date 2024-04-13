@@ -2,6 +2,7 @@
 tags:
   - noun
   - verb
+  - lexicon
 ---
 # lothea
 

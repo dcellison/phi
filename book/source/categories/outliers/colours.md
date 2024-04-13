@@ -1,7 +1,6 @@
 ---
 tags:
-  - pos
-  - outlier
+  - pos/outlier
 ---
 # colours
 
