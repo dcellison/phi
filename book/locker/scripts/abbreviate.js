@@ -1,4 +1,4 @@
-let result = [];
+let result = "*";
 let swap = {
     "noun": "n.",
     "verb": "v.",
@@ -13,8 +13,10 @@ let swap = {
 for (entry in input) {
     let pos = input[entry];
     if (pos in swap) {
-        result.push(swap[pos]);
+        result += (swap[pos] + " ");
     }
 }
 
-return(result);
+if (result.length == 1) return "";
+
+return(result.slice(0, -1) + "*");

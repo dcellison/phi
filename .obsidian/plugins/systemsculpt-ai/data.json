@@ -1,0 +1,12 @@
+{
+  "whisperModel": "whisper-1",
+  "recordingsPath": "book/locker/media/audio",
+  "selectedMicrophone": "default",
+  "autoTranscriptionEnabled": true,
+  "saveAudioClips": false,
+  "pasteIntoActiveNote": true,
+  "copyToClipboard": true,
+  "saveTranscriptionToFile": true,
+  "transcriptionsPath": "book/locker/media/text",
+  "showRecorderButtonOnStatusBar": true
+}
