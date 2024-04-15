@@ -16,7 +16,7 @@
 3. **conjunctions** - words that connect words, phrases, clauses, or sentences.
 4. **interjections** - words or phrases that express strong emotion or sudden utterance.
 
-## not in the traditional eight parts of speech
+## part of speech outliers
 
 1. **qualifiers** - adverbs, adverbial phrases, or adverbial clauses that modify or qualify the meaning of another word, often an adjective or an adverb, but possibly a verb or noun, providing intensity or degree. examples include "very," more," so."
 3. **particles** - in english, particles are functional words that do not fit into the other categories and are used within phrasal verbs or to show the relationship between words.
