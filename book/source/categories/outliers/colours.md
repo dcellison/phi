@@ -35,13 +35,15 @@ these colours stand alone and cannot be derived from other colours.
 
 ### secondary colours
 
-These colours can be made from the primary colours.
+these colours can be made by combining two primary colours. for example, mixing blue and yellow produces green.
 
 - purple
 - orange
 - green
 
 ### tertiary colours
+
+these colours are produced by combining a primary and a secondary colour. for example, mixing red and orange produces vermillion.
 
 - vermillion
 - amber
