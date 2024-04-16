@@ -1,1 +1,3 @@
+# introduction
+
 Phi is an attempt to answer a few questions. What if humans evolved to cooperate with nature instead of trying to dominate it? What if language remained simple and straightforward instead of growing in complexity as society advanced? What if society naturally tended toward the positive instead of the negative? What would that language look and sound like? In this respect Phi can be seen as an engineered language, specifically a philosophical language.

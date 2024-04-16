@@ -1,3 +1,5 @@
+# lexicon
+
 | phi        | english     | part of speech    | definition          |
 | ---------- | ----------- | ----------------- | ------------------- |
 | si         |             | particle          | subject             |
