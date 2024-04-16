@@ -12,7 +12,8 @@
     "blockquote-left",
     "inline-code",
     "shrink-pinned-tab",
-    "tengwar-telcontar"
+    "tengwar-telcontar",
+    "notice-colours"
   ],
   "monospaceFontFamily": "",
   "textFontFamily": "",

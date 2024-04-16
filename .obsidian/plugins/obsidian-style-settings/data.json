@@ -36,5 +36,6 @@
   "minimal-style@@h3-color@@dark": "#FFB8B0",
   "minimal-style@@h4-color@@dark": "#DCBDFB",
   "minimal-style@@h5-color@@dark": "#FBE090",
-  "minimal-style@@h6-color@@dark": "#ADBAC7"
+  "minimal-style@@h6-color@@dark": "#ADBAC7",
+  "minimal-style@@metadata-heading-off": false
 }
