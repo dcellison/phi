@@ -2,7 +2,7 @@
 
 the 325 words in this section are the complete set of words possible using the patterns in the following headings and given phi's syllable structures. these short words are used in phi for parts of speech such as pronouns, prepositions, conjunctions, interjections, particles, and determiners. as well, the shorter function words are used for very frequently used words, such as the number nouns.
 
-## `[F][P]`
+## \[F]\[P]
 
 | phi  | meaning | type | sub-type |
 | ---- | ------- | ---- | -------- |
@@ -87,7 +87,7 @@ the 325 words in this section are the complete set of words possible using the p
 | whui |         |      |          |
 | whuo |         |      |          |
 
-## `[C][P]`
+## \[C]\[P]
 
 | phi  | meaning    | type| sub-type |
 | ---  | -------    | ----| ---  |
@@ -272,7 +272,7 @@ the 325 words in this section are the complete set of words possible using the p
 | wui  |            || |
 | wuo  |            || |
 
-## `[F][V]`
+## \[F]\[V]
 
 | phi | meaning  | type        | sub-type      |
 | --- | -------- | ----------- | ------------- |
@@ -297,52 +297,52 @@ the 325 words in this section are the complete set of words possible using the p
 | who | for      | preposition |               |
 | whu |          |             |               |
 
-## `[C][V]`
+## \[C]\[V]
 
-| phi | meaning     | type      | sub-type      | sub-sub-type|
-| --- | -------     | ----      | -------       | -----------|
-| ha  | three       | noun      | number        ||
-| he  |             |           |               ||
-| hi  |             |           |               ||
-| ho  |             | particle  | exclamation   ||
-| hu  | so | conjunction | coordinating ||
-| la  | doing       | particle  | tense         | present progressive|
-| le  |             |           |               ||
-| li  | did         | particle  | tense         | simple past|
-| lo  |             | particle  | plural        ||
-| lu  | one         | noun      | number        ||
-| ma  | for | conjunction | coordinating ||
-| me  |             | particle  | not           ||
-| mi  | two         | noun      | number        ||
-| mo  |             |           |               ||
-| mu  | nine        | noun      | number        ||
-| na  |             | particle  | object        ||
-| ne  | and | conjunction | coordinating ||
-| ni  | has done    | particle  | tense         | present perfect|
-| no  | zero        | noun      | number        ||
-| nu  |             |           |               ||
-| pa  |             |           |               ||
-| pe  | four        | noun      | number        ||
-| pi  |             |           |               ||
-| po  | nor | conjunction | coordinating ||
-| pu  |             |           |               ||
-| ra  | five        | noun      | number        ||
-| re  | yet | conjunction | coordinating ||
-| ri  |             |           |               ||
-| ro  |             |           |               ||
-| ru  |             |           |               ||
-| sa  |             |           |               ||
-| se  | six         | noun      | number        ||
-| si  |             | particle  | subject       ||
-| so  |             |           |               ||
-| su  | will do     | particle  | tense         | simple future|
-| ta  | do          | particle  | tense         | simple present|
-| te  |             | particle  | verb          ||
-| ti  | seven       | noun      | number        ||
-| to  |             |           |               ||
-| tu  | but | conjunction | coordinating ||
-| wa  |             | particle  | question      ||
-| we  | wants to do | particle  | tense         | simple future|
-| wi  | or | conjunction | coordinating ||
-| wo  |             |           |               ||
-| wu  | eight       | noun      | number        ||
+| phi | meaning     | type        | sub-type     | sub-sub-type        |
+| --- | ----------- | ----------- | ------------ | ------------------- |
+| ha  | three       | noun        | number       |                     |
+| he  |             |             |              |                     |
+| hi  |             |             |              |                     |
+| ho  |             | particle    | exclamation  |                     |
+| hu  | so          | conjunction | coordinating |                     |
+| la  | doing       | particle    | tense        | present progressive |
+| le  |             |             |              |                     |
+| li  | did         | particle    | tense        | simple past         |
+| lo  |             | particle    | plural       |                     |
+| lu  | one         | noun        | number       |                     |
+| ma  | for         | conjunction | coordinating |                     |
+| me  |             | particle    | not          |                     |
+| mi  | two         | noun        | number       |                     |
+| mo  |             |             |              |                     |
+| mu  | nine        | noun        | number       |                     |
+| na  |             | particle    | object       |                     |
+| ne  | and         | conjunction | coordinating |                     |
+| ni  | has done    | particle    | tense        | present perfect     |
+| no  | zero        | noun        | number       |                     |
+| nu  |             |             |              |                     |
+| pa  |             |             |              |                     |
+| pe  | four        | noun        | number       |                     |
+| pi  |             |             |              |                     |
+| po  | nor         | conjunction | coordinating |                     |
+| pu  |             |             |              |                     |
+| ra  | five        | noun        | number       |                     |
+| re  | yet         | conjunction | coordinating |                     |
+| ri  |             |             |              |                     |
+| ro  |             |             |              |                     |
+| ru  |             |             |              |                     |
+| sa  |             |             |              |                     |
+| se  | six         | noun        | number       |                     |
+| si  |             | particle    | subject      |                     |
+| so  |             |             |              |                     |
+| su  | will do     | particle    | tense        | simple future       |
+| ta  | do          | particle    | tense        | simple present      |
+| te  |             | particle    | verb         |                     |
+| ti  | seven       | noun        | number       |                     |
+| to  |             |             |              |                     |
+| tu  | but         | conjunction | coordinating |                     |
+| wa  |             | particle    | question     |                     |
+| we  | wants to do | particle    | tense        | simple future       |
+| wi  | or          | conjunction | coordinating |                     |
+| wo  |             |             |              |                     |
+| wu  | eight       | noun        | number       |                     |
