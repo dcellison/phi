@@ -5,7 +5,7 @@ tags:
 ---
 # whethu
 
-`['ʍe̞.θu]`  [[whethu.m4a|:luc_volume_2:]]
+`['ʍe̞.θu]`  [[whethu.webm|:luc_volume_2:]]
 
 ```dataviewjs
 $= await dv.view("locker/scripts/abbreviate", dv.current().tags);

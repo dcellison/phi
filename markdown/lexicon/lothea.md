@@ -6,7 +6,7 @@ tags:
 ---
 # lothea
 
-`[lo̞.'θe̞.ä]`  [[lothea.m4a|:luc_volume_2:]]
+`[lo̞.'θe̞.ä]`  [[lothea.webm|:luc_volume_2:]]
 
 ```dataviewjs
 $= await dv.view("locker/scripts/abbreviate", dv.current().tags);

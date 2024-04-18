@@ -41,7 +41,7 @@ these noun roots aren't exclusive to these states of matter, but nouns related t
 | phi     | english |
 | ------- | ------- |
 | sathie  | music   |
-| nosheo  | food    |
+| noshe   | food    |
 | whuthea | wind    |
 | liathi  | lake    |
 

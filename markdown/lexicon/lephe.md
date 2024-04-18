@@ -8,7 +8,7 @@ tags:
 ---
 # lephe
 
- `['le̞.ɸe̞]` [[lephe.m4a|:luc_volume_2:]]
+ `['le̞.ɸe̞]` [[lephe.webm|:luc_volume_2:]]
 
 ```dataviewjs
 $= await dv.view("locker/scripts/abbreviate", dv.current().tags);
