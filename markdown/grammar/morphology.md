@@ -2,32 +2,32 @@
 
 > morphology is the branch of linguistics that studies the structure and formation of words. it examines how words are formed from morphemes, the smallest meaningful units of language, including roots, prefixes, and suffixes. morphology explores word formation processes such as derivation and inflection, the classification of word types (nouns, verbs, adjectives, etc.), and the rules governing the combination of morphemes. this field helps in understanding how words convey meaning, change form to express different grammatical categories, and create new words.
 
-characteristics shared by most pidgins:
+## a priori
 
-typologically most closely resemble isolating languages
-uncomplicated clausal structure (e.g., no embedded clauses, etc.)
-reduction or elimination of syllable codas
-reduction of consonant clusters or breaking them with epenthesis
-elimination of aspiration or sound changes
-monophthongization is common, employment of as few basic vowels as possible, such as [a, e, i, o, u]
-lack of morphophonemic variation
-lack of tones, such as those found in niger-congo, austroasiatic and sino-tibetan language families and in various families of the indigenous languages of the americas
-lack of grammatical tense; use of separate words to indicate tense, usually preceding the verb
-lack of conjugation or declension
-lack of grammatical gender or number, commonly supplanted by reduplication to represent plurals and superlatives, and other parts of speech that represent the concept being increased and clear indication of the gender or animated objects.
-lack of clear parts of speech or word categorization; common use and derivation of new vocabulary through conversion, e.g. nominalization, verbification, adjectivization etc.
+phi is an a priori conlang, not based on any other language. it has many of the aspects of a pidgin language.
 
-person, tense, number, focus are generally missing.
+## characteristics shared by most pidgins
 
-pidgins:
+- typologically most closely resemble isolating languages
+- uncomplicated clausal structure (e.g., no embedded clauses, etc.)
+- reduction or elimination of syllable codas
+- reduction of consonant clusters or breaking them with epenthesis
+- elimination of aspiration or sound changes
+- monophthongization is common, employment of as few basic vowels as possible, such as \[a, e, i, o, u]
+- lack of morphophonemic variation
+- lack of tones, such as those found in niger-congo, austroasiatic and sino-tibetan language families and in various families of the indigenous languages of the americas
+- lack of grammatical tense; use of separate words to indicate tense, usually preceding the verb
+- lack of conjugation or declension
+- lack of grammatical gender or number, commonly supplanted by reduplication to represent plurals and superlatives, and other parts of speech that represent the concept being increased and clear indication of the gender or animated objects.
+- lack of clear parts of speech or word categorisation; common use and derivation of new vocabulary through conversion, e.g. nominalisation, verbification, adjectivisation etc.
+- person, tense, number, focus are generally missing.
 
-phi is an a priori conlang, not based on any other language.
+## pidgin sound system
 
-sound system
-most pidgins have relatively simple sound systems characterized by five vowels
-(/i/, /e/, /a/, /u/, /o/) and no consonant clusters.
+most pidgins have relatively simple sound systems characterised by five vowels (/i/, /e/, /a/, /u/, /o/) and no consonant clusters. phi follows this system.
 
-grammar
+## pidgin grammar
+
 pidgins usually have smaller vocabularies, a simpler structure, and more limited functions than natural languages. some typical features include of pidgin languages are as follows:
 
 * subject-verb-object word order
@@ -36,13 +36,17 @@ pidgins usually have smaller vocabularies, a simpler structure, and more limited
 * grammatical relations are usually expressed through simple juxtaposition.
 * use of reduplication to represent plurals and superlatives, e.g., hawai’ian pidgin wiki-wiki ‘very quick’.
 
-vocabulary
+## pidgin vocabulary
 
 since vocabulary is restricted, words in a pidgin language have a wide range of meanings. for instance, in the chinook jargon, the word klahawaya meant ‘how are you?’, ‘good day,’ or ‘good bye’.
+
+## philosophy
 
 what if humans were always vegetarians
 hard to describe weapons, etc.
 peace-loving
+
+## miscellaneous
 
 no cases
 no conjugations
