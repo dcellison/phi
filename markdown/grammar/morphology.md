@@ -34,11 +34,11 @@ pidgins usually have smaller vocabularies, a simpler structure, and more limited
 * absence of grammatical markers for gender, number, case, tense, aspect, mood, etc.
 * tenses are expressed lexically, i.e., by using temporal adverbs such as tomorrow, yesterday, etc.
 * grammatical relations are usually expressed through simple juxtaposition.
-* use of reduplication to represent plurals and superlatives, e.g., hawai’ian pidgin wiki-wiki ‘very quick’.
+* use of reduplication to represent plurals and superlatives, e.g., hawai'ian pidgin wiki-wiki 'very quick'.
 
 ## pidgin vocabulary
 
-since vocabulary is restricted, words in a pidgin language have a wide range of meanings. for instance, in the chinook jargon, the word klahawaya meant ‘how are you?’, ‘good day,’ or ‘good bye’.
+since vocabulary is restricted, words in a pidgin language have a wide range of meanings. for instance, in the chinook jargon, the word klahawaya meant 'how are you?', 'good day', or 'good bye'.
 
 ## philosophy
 
@@ -50,9 +50,24 @@ peace-loving
 
 no cases
 no conjugations
+* verbs remain unaltered
+* particles are used instead
 
 consider adding deference
 consider evidentiality
+* evidential systems of tibetan languages
+* use particles to indicate
+    * direct evidentials
+        * first hand visual
+        * first hand non-visual
+    * indirect evidentials
+        * inferential
+            * information was inferred
+            * events which were not directly observed
+        * quotative
+            * reporting what someone else said
+            * second-hand knowledge
+            * air quotes
 
 * phi focuses on soft sounds
     * like wind or water
@@ -113,8 +128,11 @@ consider evidentiality
 * no grammatical gender
 * no irregular verbs
 * no diacritics
+    * vowels are diacritics in the tengwar
+    * but none in the romanised version
 * no shwas
     * e.g. mel spidermn
+    * all letters pronounced fully
 * phonemic diphthongs, e.g. `/ae/`, are pronounced as separate letters
     * they can be run together when speaking quickly
     * but they remain distinct sounds
@@ -122,7 +140,7 @@ consider evidentiality
 * `/r/` is trilled `[r]` at the start of a word
     * tap `[ɾ]` anywhere else
     * `[r]` is an allophone of /r/ that occurs at the beginning of a word
-* `/t/` is french [t]
+* `/t/` is french `[t]`
     * voiceless plosive
     * pronounced with tongue against upper teeth
     * not further back, as in eng
@@ -140,10 +158,6 @@ consider evidentiality
         * voiceless labialized velar approximant
 
 finnish has no articles and no gender
-
-evidentials?
-maybe use particles
-evidential systems of tibetan languages
 
 two withs
 "with friends" vs "with hammers"

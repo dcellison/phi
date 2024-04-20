@@ -2,7 +2,7 @@
   "accentColor": "#8ddb8c",
   "cssTheme": "Minimal",
   "baseFontSize": 20,
-  "showViewHeader": false,
+  "showViewHeader": true,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "table-settings",

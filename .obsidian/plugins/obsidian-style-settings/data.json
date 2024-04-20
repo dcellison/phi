@@ -37,6 +37,8 @@
   "minimal-style@@h4-color@@dark": "#DCBDFB",
   "minimal-style@@h5-color@@dark": "#FBE090",
   "minimal-style@@h6-color@@dark": "#ADBAC7",
-  "minimal-style@@metadata-heading-off": false,
-  "minimal-style@@file-header-visibility": "minimal-tab-title-visible"
+  "minimal-style@@metadata-heading-off": true,
+  "minimal-style@@file-header-visibility": "minimal-tab-title-visible",
+  "minimal-style@@metadata-dividers": false,
+  "minimal-style@@metadata-icons-off": false
 }
