@@ -1,6 +1,6 @@
 {
   "readableLineLength": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "foldHeading": true,
   "strictLineBreaks": false,
   "promptDelete": false,
