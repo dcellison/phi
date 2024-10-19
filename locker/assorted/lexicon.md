@@ -74,7 +74,7 @@
 |            | be          | verb              |                     |
 |            | bean        | noun verb inj     |                     |
 |            | bear        | verb noun         |                     |
-|            | beautiful   | adj noun inj      |                     |
+| miphalu    | beautiful   | adj noun inj      |                     |
 |            | beer        | noun              |                     |
 |            | bed         | noun verb         |                     |
 |            | bedroom     | noun adj          |                     |
@@ -736,10 +736,10 @@
 |            | right       |                   |                     |
 |            | ring        |                   |                     |
 |            | rise        |                   |                     |
-|            | road        |                   |                     |
+|            | road        | noun              |                     |
 |            | rob         |                   |                     |
-|            | rock        |                   |                     |
-|            | room        |                   |                     |
+|            | rock        | noun              |                     |
+| phenu      | room        | noun verb         |                     |
 |            | round       |                   |                     |
 |            | rubber      |                   |                     |
 |            | rude        |                   |                     |
@@ -801,12 +801,12 @@
 |            | simple      |                   |                     |
 |            | single      |                   |                     |
 |            | since       |                   |                     |
-|            | sing        |                   |                     |
-|            | sink        |                   |                     |
-|            | sister      |                   |                     |
-|            | sit         |                   |                     |
+| shanu      | sing        | verb              |                     |
+|            | sink        | verb              |                     |
+|            | sister      | noun              |                     |
+|            | sit         | verb              |                     |
 | se         | six         | number            |                     |
-|            | size        |                   |                     |
+|            | size        | noun              |                     |
 |            | skill       |                   |                     |
 |            | skin        |                   |                     |
 |            | skirt       |                   |                     |
@@ -902,7 +902,6 @@
 |            | test        |                   |                     |
 |            | than        |                   |                     |
 |            | that        |                   |                     |
-|            |             |                   |                     |
 |            | their       |                   |                     |
 |            | theirs      |                   |                     |
 |            | then        |                   |                     |
@@ -922,6 +921,7 @@
 | ha         | three       | number            |                     |
 |            | tidy        |                   |                     |
 |            | tie         |                   |                     |
+| themu      | time        | noun              |                     |
 |            | title       |                   |                     |
 | tho        | to          | prep              |                     |
 |            | today       |                   |                     |
@@ -967,11 +967,11 @@
 |            | visit       |                   |                     |
 |            | wait        |                   |                     |
 |            | wake        |                   |                     |
-|            | walk        |                   |                     |
-|            | want        |                   |                     |
+| nawa       | walk        | noun verb         |                     |
+| whena      | want        | noun verb         |                     |
 |            | warm        |                   |                     |
 |            | was*        |                   |                     |
-|            | wash        |                   |                     |
+| litha      | wash        | noun verb         |                     |
 |            | waste       |                   |                     |
 |            | watch       |                   |                     |
 | sashia     | water       | noun verb         |                     |
@@ -1034,3 +1034,4 @@
 | no         | zero        | number            |                     |
 |            | zoo         |                   |                     |
 |            | zoom        |                   |                     |
+| wena       | want        | verb              |                     |
