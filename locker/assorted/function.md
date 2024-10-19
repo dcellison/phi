@@ -285,7 +285,7 @@ the 325 words in this section are the complete set of words possible using the p
 | she | be       | verb        | passive       |
 | shi |          |             |               |
 | sho |          |             |               |
-| shu |          |             |               |
+| shu | by       | preposition |               |
 | tha |          |             |               |
 | the |          |             |               |
 | thi | you      | pronoun     | second person |
