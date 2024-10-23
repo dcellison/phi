@@ -17,7 +17,7 @@ the 325 words in this section are the complete set of words possible using the p
 | phia |         |      |          |
 | phie |         |      |          |
 | phio |         |      |          |
-| phiu |         |      |          |
+| phiu | soft    |      |          |
 | phoa |         |      |          |
 | phoe |         |      |          |
 | phoi |         |      |          |
@@ -279,7 +279,7 @@ the 325 words in this section are the complete set of words possible using the p
 | pha |          |             |               |
 | phe | is       | verb        | passive       |
 | phi | reserved | reserved    | reserved      |
-| pho |          |             |               |
+| pho | as       | adjective   |               |
 | phu |          |             |               |
 | sha | it       | pronoun     | third person  |
 | she | be       | verb        | passive       |
@@ -291,7 +291,7 @@ the 325 words in this section are the complete set of words possible using the p
 | thi | you      | pronoun     | second person |
 | tho | to       | preposition |               |
 | thu |          |             |               |
-| wha |          |             |               |
+| wha | yes      | adjective   |               |
 | whe |          |             |               |
 | whi | at       | preposition |               |
 | who | for      | preposition |               |

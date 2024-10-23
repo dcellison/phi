@@ -30,7 +30,7 @@
 |            | age         | noun verb         |                     |
 |            | ago         | adj adv           |                     |
 |            | agree       | verb              |                     |
-|            | air         | noun verb         |                     |
+| whisa      | air         | noun verb         |                     |
 |            | all         | adj pron noun     |                     |
 |            | alone       | adj adv           |                     |
 |            | along       | prep adv          |                     |
@@ -40,6 +40,7 @@
 |            | amount      | noun verb         |                     |
 |            | and         | conj noun         |                     |
 |            | angry       | adj               |                     |
+| thime      | animal      | noun adj          |                     |
 |            | another     | adj pron          |                     |
 |            | answer      | noun verb         |                     |
 |            | any         | adj pron adv      |                     |
@@ -66,7 +67,7 @@
 |            | back        | noun verb         |                     |
 |            | bad         | adj noun adv      |                     |
 |            | bag         | noun verb         |                     |
-|            | ball        | noun verb         |                     |
+| mophu      | ball        | noun verb         |                     |
 |            | bank        | noun verb         |                     |
 |            | base        | noun adj verb     |                     |
 |            | basket      | noun              |                     |
@@ -74,7 +75,7 @@
 |            | be          | verb              |                     |
 |            | bean        | noun verb inj     |                     |
 |            | bear        | verb noun         |                     |
-| miphalu    | beautiful   | adj noun inj      |                     |
+| mipha      | beautiful   | adj noun inj      |                     |
 |            | beer        | noun              |                     |
 |            | bed         | noun verb         |                     |
 |            | bedroom     | noun adj          |                     |
@@ -94,10 +95,10 @@
 |            | birthday    | noun              |                     |
 |            | bit         | noun verb         |                     |
 |            | bite        | verb noun         |                     |
-| sathi      | black       | adj noun verb     |                     |
-|            | bleed       | verb noun adj     |                     |
+| thasi      | black       | adj noun verb     |                     |
+| lawa       | bleed       | verb noun adj     |                     |
 |            | block       | noun verb         |                     |
-|            | blood       | noun verb         |                     |
+| laru       | blood       | noun verb         |                     |
 |            | blow        | noun              |                     |
 | mipho      | blue        | adj noun verb     |                     |
 |            | board       | noun verb         |                     |
@@ -105,7 +106,7 @@
 |            | body        | noun verb adj     |                     |
 |            | boil        | verb noun         |                     |
 |            | bone        | noun verb adv     |                     |
-|            | book        | noun verb         |                     |
+| phoshe     | book        | noun verb         |                     |
 |            | border      | noun verb         |                     |
 |            | born        | adj verb          |                     |
 |            | borrow      | verb              |                     |
@@ -253,7 +254,7 @@
 |            | ear         | noun              |                     |
 |            | early       | adv adj           |                     |
 |            | earn        | verb              |                     |
-|            | earth       | noun verb         |                     |
+| tosho      | earth       | noun verb         |                     |
 |            | east        | noun adj verb     |                     |
 |            | easy        | adj adv           |                     |
 |            | eat         | verb              |                     |
@@ -318,7 +319,7 @@
 |            | fine        | adv adj verb      |                     |
 |            | finger      | noun verb         |                     |
 |            | finish      | verb noun         |                     |
-|            | fire        | noun verb         |                     |
+| phoru      | fire        | noun verb         |                     |
 |            | first       | adj adv noun      |                     |
 |            | fish*       | noun verb         |                     |
 |            | fit         | adj verb          |                     |
@@ -363,6 +364,7 @@
 |            | future      | noun adj          |                     |
 |            | game        | noun adj verb     |                     |
 |            | garden      | noun adj verb     |                     |
+| whosha     | gas         | noun adj          |                     |
 |            | gate        | noun verb         |                     |
 |            | general     | adj noun          |                     |
 |            | gentleman   | noun              |                     |
@@ -371,7 +373,7 @@
 |            | give        | verb noun         |                     |
 |            | glad        | adj               |                     |
 |            | glass       | noun adj verb     |                     |
-|            | go          | verb noun         |                     |
+| naro       | go          | verb noun         |                     |
 |            | goat        | noun              |                     |
 |            | god         | noun              |                     |
 |            | gold        | noun adj          |                     |
@@ -437,7 +439,6 @@
 |            | hurry       | verb noun         |                     |
 |            | husband     | noun              |                     |
 |            | hurt        | verb noun         |                     |
-|            | i           | pron              |                     |
 |            | ice         | noun verb         |                     |
 |            | idea        | noun              |                     |
 |            | if          | conj              |                     |
@@ -473,7 +474,7 @@
 |            | know        | verb              |                     |
 |            | ladder      | noun              |                     |
 |            | lady        | noun              |                     |
-| lewhi      | lake        | noun              |                     |
+| liathi     | lake        | noun              |                     |
 |            | lamp        | noun              |                     |
 |            | land        | noun verb         |                     |
 |            | large       | adj               |                     |
@@ -544,6 +545,7 @@
 |            | million     | noun adj          |                     |
 |            | mind        | noun verb         |                     |
 |            | mine        | pron noun verb    |                     |
+| reso       | mineral     | noun adj          |                     |
 |            | minute      | noun              |                     |
 |            | miss        | verb noun         |                     |
 |            | mistake     | noun verb         |                     |
@@ -559,12 +561,12 @@
 |            | morning     | noun adj          |                     |
 |            | most        | adj noun adv      |                     |
 |            | mother      | noun adj verb     |                     |
-|            | mountain    | noun adj          |                     |
+| phoshu     | mountain    | noun adj          |                     |
 |            | mouse       | noun              |                     |
 |            | mouth       | noun verb         |                     |
 |            | move        | verb noun         |                     |
 |            | much        | adj noun adv      |                     |
-|            | music       | noun              |                     |
+| sathie     | music       | noun              |                     |
 |            | must        | verb              |                     |
 |            | my          | pron              |                     |
 | phiathe    | name        | noun verb         |                     |
@@ -711,7 +713,7 @@
 |            | rainy       |                   |                     |
 |            | raise       |                   |                     |
 |            | reach       |                   |                     |
-|            | read        |                   |                     |
+| letu       | read        |                   |                     |
 |            | ready       |                   |                     |
 |            | real        |                   |                     |
 |            | really      |                   |                     |
@@ -736,10 +738,10 @@
 |            | right       |                   |                     |
 |            | ring        |                   |                     |
 |            | rise        |                   |                     |
-|            | road        | noun              |                     |
+|            | road        |                   |                     |
 |            | rob         |                   |                     |
-|            | rock        | noun              |                     |
-| phenu      | room        | noun verb         |                     |
+|            | rock        |                   |                     |
+| phenu      | room        |                   |                     |
 |            | round       |                   |                     |
 |            | rubber      |                   |                     |
 |            | rude        |                   |                     |
@@ -752,7 +754,7 @@
 |            | sail        |                   |                     |
 |            | salt        |                   |                     |
 |            | same        |                   |                     |
-|            | sand        |                   |                     |
+| toshue     | sand        |                   |                     |
 |            | save        |                   |                     |
 |            | say         |                   |                     |
 |            | school      |                   |                     |
@@ -780,7 +782,7 @@
 |            | sheep       |                   |                     |
 |            | sheet       |                   |                     |
 |            | shelf       |                   |                     |
-|            | shine       |                   |                     |
+| litha      | shine       |                   |                     |
 |            | ship        |                   |                     |
 |            | shirt       |                   |                     |
 |            | shoe        |                   |                     |
@@ -801,12 +803,12 @@
 |            | simple      |                   |                     |
 |            | single      |                   |                     |
 |            | since       |                   |                     |
-| shanu      | sing        | verb              |                     |
-|            | sink        | verb              |                     |
-|            | sister      | noun              |                     |
-|            | sit         | verb              |                     |
+| taru       | sing        |                   |                     |
+|            | sink        |                   |                     |
+|            | sister      |                   |                     |
+|            | sit         |                   |                     |
 | se         | six         | number            |                     |
-|            | size        | noun              |                     |
+|            | size        |                   |                     |
 |            | skill       |                   |                     |
 |            | skin        |                   |                     |
 |            | skirt       |                   |                     |
@@ -822,7 +824,8 @@
 |            | so          |                   |                     |
 |            | soap        |                   |                     |
 |            | sock        |                   |                     |
-|            | soft        |                   |                     |
+| phiu       | soft        |                   |                     |
+| tolipha    | solid       | noun adj          |                     |
 |            | some        |                   |                     |
 |            | someone     |                   |                     |
 |            | something   |                   |                     |
@@ -875,7 +878,7 @@
 |            | sugar       |                   |                     |
 |            | suitable    |                   |                     |
 |            | summer      |                   |                     |
-|            | sun         |                   |                     |
+| phitha     | sun         |                   |                     |
 |            | sunny       |                   |                     |
 |            | support     |                   |                     |
 |            | sure        |                   |                     |
@@ -902,6 +905,7 @@
 |            | test        |                   |                     |
 |            | than        |                   |                     |
 |            | that        |                   |                     |
+|            |             |                   |                     |
 |            | their       |                   |                     |
 |            | theirs      |                   |                     |
 |            | then        |                   |                     |
@@ -919,9 +923,9 @@
 |            | thousand*   |                   |                     |
 |            | threat      |                   |                     |
 | ha         | three       | number            |                     |
+| nuwa       | throw       | noun verb         |                     |
 |            | tidy        |                   |                     |
 |            | tie         |                   |                     |
-| themu      | time        | noun              |                     |
 |            | title       |                   |                     |
 | tho        | to          | prep              |                     |
 |            | today       |                   |                     |
@@ -950,7 +954,7 @@
 |            | turn        |                   |                     |
 |            | type        |                   |                     |
 |            | uncle       |                   |                     |
-|            | under       |                   |                     |
+| woe        | under       | preposition       |                     |
 |            | understand  |                   |                     |
 |            | unit        |                   |                     |
 |            | until       |                   |                     |
@@ -959,7 +963,7 @@
 |            | useful      |                   |                     |
 |            | usual       |                   |                     |
 |            | usually     |                   |                     |
-|            | vegetable   |                   |                     |
+| mela       | vegetable   |                   |                     |
 |            | very        |                   |                     |
 |            | village     |                   |                     |
 | nisha      | violet*     | adj noun          |                     |
@@ -967,14 +971,15 @@
 |            | visit       |                   |                     |
 |            | wait        |                   |                     |
 |            | wake        |                   |                     |
-| nawa       | walk        | noun verb         |                     |
-| whena      | want        | noun verb         |                     |
-|            | warm        |                   |                     |
+|            | walk        |                   |                     |
+| whena      | want        |                   |                     |
+| whuse      | warm        | adj               |                     |
 |            | was*        |                   |                     |
-| litha      | wash        | noun verb         |                     |
+|            | wash        |                   |                     |
 |            | waste       |                   |                     |
 |            | watch       |                   |                     |
-| sashia     | water       | noun verb         |                     |
+| lithe      | water       | noun verb         |                     |
+| lirashe    | waterfall   | noun              |                     |
 |            | way         |                   |                     |
 |            | we          |                   |                     |
 |            | weak        |                   |                     |
@@ -994,7 +999,7 @@
 |            | where       |                   |                     |
 |            | which       |                   |                     |
 |            | while       |                   |                     |
-| thasi      | white       | adj noun          |                     |
+| sathi      | white       | adj noun          |                     |
 |            | who         |                   |                     |
 |            | why         |                   |                     |
 |            | wide        |                   |                     |
@@ -1024,7 +1029,7 @@
 |            | year        |                   |                     |
 |            | yell*       |                   |                     |
 | phili      | yellow      | adj noun          |                     |
-|            | yes         |                   |                     |
+| wha        | yes         |                   |                     |
 |            | yesterday   |                   |                     |
 |            | yet         |                   |                     |
 | thi        | you         | pron              |                     |
@@ -1034,4 +1039,3 @@
 | no         | zero        | number            |                     |
 |            | zoo         |                   |                     |
 |            | zoom        |                   |                     |
-| wena       | want        | verb              |                     |

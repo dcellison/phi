@@ -18,13 +18,32 @@ colours in phi are based in nature, specifically in the colours of the rainbow. 
 | mipho | blue    |
 | pewhe | indigo  |
 | nisha | violet  |
-| sathi | black   |
-| thasi | white   |
+| thasi | black   |
+| sathi | white   |
 | rawha | grey    |
 
 ## consider using the colour wheel
 
 using the colours of the rainbow as colour names makes sense from the perspective of using nature in the language. but limiting the names of colours to just seven might be a bit restricting. if we use the standard colour wheel instead, we add five more colours. The colour wheel is just as "natural" as the rainbow, though perhaps a bit less romantic.
+
+| phi   | english    |
+| ----- | ---------- |
+| lawha | red        |
+| phili | yellow     |
+| mipho | blue       |
+| thuna | purple     |
+| sathe | orange     |
+| hashe | green      |
+| phora | vermillion |
+| wuphi | amber      |
+| shela | chartreuse |
+| themi | teal       |
+| nisha | violet     |
+| phewi | magenta    |
+| thasi | black      |
+| sathi | white      |
+| rawha | grey       |
+
 
 ### primary colours
 

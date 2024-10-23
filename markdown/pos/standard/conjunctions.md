@@ -11,34 +11,34 @@ tags:
 
 | phi | english |
 | --- | ------- |
-| ma | for      |
-| ne | and      |
-| po | nor      |
-| tu | but      |
-| wi | or       |
-| re | yet      |
-| hu | so       |
+| ma  | for     |
+| ne  | and     |
+| po  | nor     |
+| tu  | but     |
+| wi  | or      |
+| re  | yet     |
+| hu  | so      |
 
 ## subordinating
 
-| phi  | english  |
-| ---- | -------- |
-|      | after    |
-|      | although |
-|      | as       |
-|      | because  |
-|      | before   |
-| haso | how      |
-|      | if       |
-|      | once     |
-|      | since    |
-|      | than     |
-|      | that     |
-|      | when     |
-|      | where    |
-|      | whether  |
-|      | while    |
-|      | until    |
+| phi  	| english  |
+| ---- 	| -------- |
+| matu 	| after    |
+| lipea | although |
+| woma  | as       |
+| renuo | because  |
+| pimo  | before   |
+| haso  | how      |
+| wetu  | if       |
+| roni  | once     |
+| turae | since    |
+| rami  | than     |
+| telua | that     |
+| wane  | when     |
+| hewoi | where    |
+| supi  | whether  |
+| runa  | while    |
+| linao | until    |
 
 ## correlative
 

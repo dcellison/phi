@@ -28,8 +28,8 @@
 | type    | sentence             |
 | ------- | -------------------- |
 | english | i do not like orange |
-| literal | me orange (not like) |
-| phi     | mia sathe ne lephe   |
+| literal | me  orange not like) |
+| phi     | mia sathe  me  lephe |
 
 | type         | sentence                                                        |
 | ------------ | --------------------------------------------------------------- |
@@ -55,19 +55,78 @@
 | type         | sentence                         |
 | ------------ | -------------------------------- |
 | english      | are you in good health?          |
-| intermediate | ? your health is good            |
-| lit          | question (health of you) good is |
+| intermediate | your health is good?             |
+| literal      | question (health of you) good is |
 | phi          | wa ropho soa thi these phe       |
 
 | type    | sentence                             |
 | ------- | ------------------------------------ |
 | english | we love the green trees              |
 | literal | (plural me) (plural tree green) love |
-| phi     | (lo mia) (lo lipha hashe) [[lothea]] |
+| phi     | lo mia lo lipha hashe [[lothea]] |
 
 | type    | sentence                |
 | ------- | ----------------------- |
 | english | i threw the ball        |
-| literal | me ball (past throw)    |
-| phi     | mia [ball] (li [throw]) |
+| literal | me ball   past throw    |
+| phi     | mia mophu li   nuwa     |
 
+| type    | sentence                         |
+| ------- | -------------------------------- |
+| english | i walk by a beautiful waterfall  |
+| literal | me  waterfall beautiful by  walk |
+| phi     | mia lirashe   mipha     shu nawa |
+
+| type    | sentence       |
+| ------- | -------------- |
+| english | i want to sing |
+| literal | me  sing  want |
+| phi     | mia taru whena |
+
+| type    | sentence           |
+| ------- | ------------------ |
+| english | what is the time?  |
+| literal | question time  is  |
+| phi     | wa       themu phe |
+
+| type    | sentence                                        |
+| ------- | ----------------------------------------------- |
+| english | the white sand is soft and warm under my feet   |
+| literal | sand   white soft warm  under feet  of  me  is  |
+| phi     | toshue sathi phiu whuse woe   nophi soa mia phe |
+
+| type    | sentence                      |
+| ------- | ----------------------------- |
+| english | where is the room of washing? |
+| literal | question room  of  wash is   |
+| phi     | wa       phenu soa ranu phe  |
+
+| type    | sentence         |
+| ------- | ---------------- |
+| english | the sun shines   |
+| literal | sun shine        |
+| phi     | phiatha litha    |
+
+| type    | sentence           |
+| ------- | ------------------ |
+| english | the sun is shining |
+| literal | sun (now) shine    |
+| phi     | phiatha ta litha   |
+
+| type    | sentence          |
+| ------- | ----------------- |
+| english |  |
+| literal |  |
+| phi     |  |
+
+| type    | sentence          |
+| ------- | ----------------- |
+| english |   |
+| literal |   |
+| phi     |   |
+
+| type    | sentence          |
+| ------- | ----------------- |
+| english |   |
+| literal |   |
+| phi     |   |

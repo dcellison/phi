@@ -68,7 +68,7 @@ i am = me is = mia ta phe
 
 | phi        | english |
 | ---------- | ------- |
-|            | go      |
+| naro       | go      |
 |            | do      |
 |            | eat     |
 |            | give    |

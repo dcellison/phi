@@ -29,7 +29,7 @@ these noun roots aren't exclusive to these states of matter, but nouns related t
 
 | phi  | english |
 | ---- | ------- |
-| whi  | yes     |
+| wha  | yes     |
 | pha  | no      |
 
 * yin/yang
@@ -42,7 +42,7 @@ these noun roots aren't exclusive to these states of matter, but nouns related t
 | ------- | ------- |
 | sathie  | music   |
 | noshe   | food    |
-| whuthea | wind    |
+| whoshea | wind    |
 | liathi  | lake    |
 
 | phi   | english   |
