@@ -29,3 +29,4 @@ tags:
 | supa | too       |
 | ritu | very      |
 | wanu | well      |
+| naro | outside   |

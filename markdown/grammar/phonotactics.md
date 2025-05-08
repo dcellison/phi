@@ -21,7 +21,7 @@ a syllable in phi is either `(C)CV` or `V`. if a syllable starts with two conson
 
 ## word patterns
 
-### nouns
+### long nouns
 
 `[C/F][V/P][F][V/P]`
 

@@ -314,7 +314,7 @@ the 325 words in this section are the complete set of words possible using the p
 | ma  | for         | conjunction | coordinating |                     |
 | me  |             | particle    | not          |                     |
 | mi  | two         | noun        | number       |                     |
-| mo  |             |             |              |                     |
+| mo  |             | particle    | comparative  |                     |
 | mu  | nine        | noun        | number       |                     |
 | na  |             | particle    | object       |                     |
 | ne  | and         | conjunction | coordinating |                     |
@@ -331,7 +331,7 @@ the 325 words in this section are the complete set of words possible using the p
 | ri  |             |             |              |                     |
 | ro  |             |             |              |                     |
 | ru  |             |             |              |                     |
-| sa  |             |             |              |                     |
+| sa  |             | particle    | equality     |                     |
 | se  | six         | noun        | number       |                     |
 | si  |             | particle    | subject      |                     |
 | so  |             |             |              |                     |

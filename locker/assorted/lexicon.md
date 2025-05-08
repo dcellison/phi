@@ -2,20 +2,6 @@
 
 | phi        | english     | part of speech    | definition          |
 | ---------- | ----------- | ----------------- | ------------------- |
-| si         |             | particle          | subject             |
-| na         |             | particle          | object              |
-| te         |             | particle          | verb                |
-| me         |             | particle          | not                 |
-| lo         |             | particle          | plural              |
-| wa         |             | particle          | question            |
-| ho         |             | particle          | exclamation         |
-| li         |             | particle          | simple past         |
-| ta         |             | particle          | simle present       |
-| su         |             | particle          | simple future       |
-| we         |             | particle          | simple future       |
-| la         |             | particle          | present progressive |
-| ni         |             | particle          | present perfect     |
-|            |             |                   |                     |
 | hea        | about       | prep adv          |                     |
 |            | above       | adv prep          |                     |
 |            | across      | prep adv          |                     |
@@ -221,7 +207,7 @@
 |            | dead        | adj noun adv      |                     |
 |            | decide      | verb              |                     |
 |            | decrease    | verb noun         |                     |
-|            | deep        | adj noun adv      |                     |
+| phalu      | deep        | adj noun adv      |                     |
 |            | deer        | noun              |                     |
 |            | depend      | verb              |                     |
 |            | desk        | noun adj          |                     |
@@ -603,7 +589,7 @@
 |            | number      | noun verb         |                     |
 |            | obey        | verb              |                     |
 |            | object      | noun verb         |                     |
-|            | ocean       | noun              |                     |
+| loshea     | ocean       | noun              |                     |
 | soa        | of          | prep              |                     |
 |            | off         | adv prep adv      |                     |
 |            | offer       | verb noun         |                     |
@@ -760,6 +746,7 @@
 |            | school      |                   |                     |
 |            | science     |                   |                     |
 |            | scissors    |                   |                     |
+| latheo     | sea         |                   |                     |
 |            | search      |                   |                     |
 |            | seat        |                   |                     |
 |            | second      |                   |                     |

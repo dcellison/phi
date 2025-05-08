@@ -29,3 +29,4 @@ tags:
 | wenu  | weak      |
 | ritha | happy     |
 | samu  | sad       |
+| sura  | clear     |
