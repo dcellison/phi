@@ -9,37 +9,37 @@ tags:
 
 ## phi usage
 
-the phi number system prioritizes regularity and predictability over shortcuts found in many natural languages. it is built upon base words for digits 0-9 and specific words for powers of ten (ten, hundred, thousand, etc.).
+The phi number system prioritizes regularity and predictability. It is built upon base words for digits 0-9, and specific words for powers of ten (ten, hundred, thousand, etc.).
 
 ### construction
 
-numbers are constructed by stating the digit followed by its magnitude, proceeding from the highest magnitude to the lowest.
+Numbers are constructed by stating the digit followed by its magnitude, proceeding from the highest magnitude to the lowest.
 - **basic structure:** `digit magnitude digit magnitude ... digit`
-- **no special words:** there are no unique words for numbers 11-19 (like "eleven" or "thirteen") or for multiples of ten (like "twenty" or "fifty"). these are formed regularly:
-    - 18 is `lu toa wo` (one ten eight)
-    - 40 is `pe toa no` (four ten zero)
-    - 42 is `pe toa mi` (four ten two)
+- **no special words:** there are no unique words for numbers 11-19 or for multiples of ten. these are formed regularly:
+    - 18 is `phi toa who` (one ten eight)
+    - 40 is `pho toa sha` (four ten zero)
+    - 42 is `pho toa whu` (four ten two)
 
 ### implicit zero rule
 
-to reduce verbosity without sacrificing regularity, components representing zero (`no <magnitude>`) are generally omitted.
-- the component `no <magnitude>` is **only stated** if *all* lower magnitude components would also be zero.
+To reduce verbosity without sacrificing regularity, components representing zero (`sha <magnitude>`) are generally omitted.
+- the component `sha <magnitude>` is **only stated** if *all* lower magnitude components would also be zero.
 - **examples:**
-    - 2023: `mi lae mi toa ha` (two thousand two ten three). the "zero hundred" (`no nui`) is omitted because lower magnitudes (ten, one) are non-zero.
-    - 2003: `mi lae ha` (two thousand three). the "zero hundred" (`no nui`) and "zero ten" (`no toa`) are omitted.
-    - 2000: `mi lae` (two thousand). implies `no nui no toa no`.
-    - 101: `lu nui lu` (one hundred one). the "zero ten" (`no toa`) is omitted.
-    - 100: `lu nui` (one hundred). implies `no toa no`.
-    - 40: `pe toa no` (four ten zero). the `no` for the ones place must be stated because there are no lower magnitudes to omit.
+    - 2023: `whu lae whu toa the` (two thousand two ten three). the "zero hundred" (`sha nui`) is omitted.
+    - 2003: `whu lae the` (two thousand three). the "zero hundred" (`sha nui`) and "zero ten" (`sha toa`) are omitted.
+    - 2000: `whu lae` (two thousand). implies `sha nui sha toa sha`.
+    - 101: `phi nui phi` (one hundred one). the "zero ten" (`sha toa`) is omitted.
+    - 100: `phi nui` (one hundred). implies `sha toa sha`.
+    - 40: `pho toa sha` (four ten zero). the `sha` for the ones place must be stated.
 
 ### ordinal numbers
 
-phi does not use distinct ordinal words like "first", "second", "third". instead, it uses a descriptive phrase structure, conceptually similar to "number one", "number two", etc. the exact particle or structure for this is yet to be defined but might involve the word for number (`rewu`).
+phi does not use distinct ordinal words like "first", "second", "third". instead, it uses a descriptive phrase structure, conceptually similar to "number one", "number two", etc. the exact particle or structure for this has yet to be defined but might involve the word for number.
 
 ### characteristics summary
 
-- digits 1-9 are single syllable (cv).
-- magnitude words are two syllables (cv.v pattern).
+- digits 0-9 are single syllable, following a `[F][V]` pattern.
+- magnitude words are two syllables following a `[C][P]` pattern.
 - consistent `digit + magnitude` structure.
 - implicit zero rule for conciseness.
 - no irregular forms ("teens", "twenty", etc.).
@@ -51,16 +51,16 @@ phi does not use distinct ordinal words like "first", "second", "third". instead
 
 | phi | english | number |
 | --- | ------- | ------ |
-| no  | zero    | 0      |
-| lu  | one     | 1      |
-| mi  | two     | 2      |
-| ha  | three   | 3      |
-| pe  | four    | 4      |
-| ra  | five    | 5      |
-| se  | six     | 6      |
-| ti  | seven   | 7      |
-| wo  | eight   | 8      |
-| mu  | nine    | 9      |
+| sha | zero    | 0      |
+| phi | one     | 1      |
+| whu | two     | 2      |
+| the | three   | 3      |
+| pho | four    | 4      |
+| wha | five    | 5      |
+| thi | six     | 6      |
+| shu | seven   | 7      |
+| who | eight   | 8      |
+| pha | nine    | 9      |
 
 ### orders of magnitude
 
@@ -88,30 +88,30 @@ below are some examples that demonstrate how numbers would be said and written i
 
 ### 18
 
-| phi       | literal       | english  |
-| --------- | ------------- | -------- |
-| lu toa wo | one ten eight | eighteen |
+| phi         | literal       | english  |
+| ----------- | ------------- | -------- |
+| phi toa who | one ten eight | eighteen |
 
 ### 42
 
-| phi       | literal      | english   |
-| --------- | ------------ | --------- |
-| pe toa mi | four ten two | forty-two |
+| phi         | literal      | english   |
+| ----------- | ------------ | --------- |
+| pho toa whu | four ten two | forty-two |
 
 ### 2023
 
-| phi              | literal                    | english             |
-| ---------------- | -------------------------- | ------------------- |
-| mi lae mi toa ha | two thousand two ten three | twenty twenty-three |
+| phi                 | literal                    | english             |
+| ------------------- | -------------------------- | ------------------- |
+| whu lae whu toa the | two thousand two ten three | twenty twenty-three |
 
 ### 1024 - a kilobyte
 
-| phi              | literal                   | english                  |
-| ---------------- | ------------------------- | ------------------------ |
-| lu lae mi toa pe | one thousand two ten four | one thousand twenty-four |
+| phi                 | literal                   | english                  |
+| ------------------- | ------------------------- | ------------------------ |
+| phi lae whu toa pho | one thousand two ten four | one thousand twenty-four |
 
 ### 1,073,741,824 - a gibibyte
 
-| phi                                                   | literal                                                                          | english                                                                                      |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| lu woi ti toa ha mio ti nui pe toa lu lae wo nui mi toa pe | one billion seven ten three million seven hundred four ten one thousand eight hundred two ten four | one billion seventy-three million seven hundred forty-one thousand eight hundred twenty-four |
+| phi                                                                | literal                                                                          | english                                                                                      |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| phi woi thi toa the mio thi nui pho toa phi lae wha nui mi toa pho | one billion seven ten three million seven hundred four ten one thousand eight hundred two ten four | one billion seventy-three million seven hundred forty-one thousand eight hundred twenty-four |

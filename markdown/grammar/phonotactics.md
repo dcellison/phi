@@ -13,6 +13,32 @@ the following groups are used to fill in the form at the [awkwords](http://akana
 | V     | `i/u/e/o/a`           |
 | P     | `[VV]^ii^uu^ee^oo^aa` |
 
+## explanation of groups
+
+**consonants (C):**
+- single consonants: h, l, m, n, p, r, s, t, w
+
+**fricative digraphs (F):**
+- two-letter combinations: ph, wh, th, sh
+
+**vowels (V):**
+- single vowels: i, u, e, o, a
+
+**vowel pairs (P):**
+- any two vowels together, EXCEPT:
+  - ii (no double i)
+  - uu (no double u)
+  - ee (no double e)
+  - oo (no double o)
+  - aa (no double a)
+
+so valid vowel pairs would be combinations like:
+- ia, io, iu, ie
+- ua, ue, ui, uo
+- ea, ei, eu, eo
+- oa, oi, ou
+- ae, ai, au, ao
+
 ## syllable structures
 
 `(C)CV` or `V`
@@ -35,7 +61,7 @@ phoshiu ruwhai wowha poeshue nieshu mopho miupho woitho phawhu whuothu tuatheo
 
 ### short nouns
 
-these patterns produce words of two syllables. they are also used for more common and specific nouns, such as colours.
+these patterns produce words of two syllables. they are also used for more common and specific nouns, such as colours. each of these nouns must use a fricative in one of the two positions.
 
 `[C/F][V][C/F][V]`
 

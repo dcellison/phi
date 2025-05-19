@@ -19,4 +19,3 @@ there are only three pronouns in phi: first, second, and third person. the parti
 | -------- | ---------- | ---------- | ---------- |
 | singular | mia        | thi        | sha        |
 | plural   | lo mia     | lo thi     | lo sha     |
-

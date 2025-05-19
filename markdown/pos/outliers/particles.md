@@ -44,6 +44,8 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | LEAST   | least                             | `re`         |
 | LESS    | less                              | `le`         |
 | NEG     | negation                          | `me`         |
+| NVERB   | noun-to-verb derivation           | `se`         |
+| OBLG    | obligative                        | `ru`         |
 | OBJ     | object marker (*optional*)        | `na`         |
 | PFV     | perfective aspect                 | `pu`         |
 | PL      | plural                            | `lo`         |
@@ -56,6 +58,7 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | Q       | question/interrogative            | `wa`         |
 | SPRL    | superlative                       | `pa`         |
 | SUBJ    | subject marker (*optional*)       | `si`         |
+| VNOUN   | verb-to-noun derivation           | `ra`         |
 | VRB     | verb marker (*optional*)          | `te`         |
 
 ## particle categories and definitions
@@ -140,6 +143,7 @@ these particles precede the verb complex and indicate tense, aspect, mood, or ne
 | su  | tense/aspect      | simple future       | su nuwa       | `FUT throw`     | will throw                   |
 | we  | tense/aspect/mood | desiderative        | we nuwa       | `DES throw`     | wants to throw               |
 | to  | tense/aspect/mood | imperative          | to nuwa       | `IMP throw`     | (command to) throw           |
+| ru  | tense/aspect/mood | obligative          | ru nuwa       | `OBLG throw`    | should throw                 |
 | la  | tense/aspect      | present progressive | la nuwa       | `PROG throw`    | throwing                     |
 | ni  | tense/aspect      | present perfect     | ni nuwa       | `PRF throw`     | has thrown                   |
 | po  | tense/aspect      | habitual            | po nuwa       | `HAB throw`     | usually throws               |
@@ -286,6 +290,8 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | si  | pos marker | subject             | si mia        | `SUBJ 1sg`     | (subject marker) me    |
 | na  | pos marker | object              | na nuthu      | `OBJ pebble`   | (object marker) pebble |
 | te  | pos marker | verb                | te nuwa       | `VRB throw`    | (verb marker) throw    |
+| se  | derivation | noun-to-verb        | se lothea     | `NVERB love`   | (use noun as verb)     |
+| ra  | derivation | verb-to-noun        | ra lote       | `VNOUN love`   | (use verb as noun)     |
 | he  | animacy    | human               | he thelo      | `HUM person`   | (human) person         |
 | pi  | animacy    | animate (non-human) | pi wilo       | `ANIM dog`     | (animate) dog          |
 | ne  | animacy    | inanimate           | ne nuthu      | `INAN pebble`  | (inanimate) pebble     |
@@ -480,12 +486,103 @@ when multiple particles are used, they follow a strict order based on their scop
     *   example: `lo mia me thi su nuwa nuthu` (PL 1sg NEG 2sg FUT throw pebble) - "we (not you) will throw the pebble"
     *   example: `lo mia su phuli na lo phamo me lo thi` (PL 1sg FUT finish OBJ PL work NEG PL 2sg) - "we will finish the jobs without you all"
 
+*   **derivational particles:** these particles allow words from one part of speech to be used temporarily as another part of speech, providing flexibility while maintaining phi's phonological distinctions between word classes.
+    *   `se` - noun-to-verb derivation (NVERB): transforms a noun into a verb construct. example: `mia na thi se lothea` (1sg OBJ 2sg NVERB love) - "i love you" (using the noun "lothea" as a verb)
+    *   `ra` - verb-to-noun derivation (VNOUN): transforms a verb into a noun construct. example: `ra lote phe ritune these` (VNOUN love be very good) - "loving is very good" (using the verb "lote" as a noun)
+    *   these derivational particles follow the same precedence rules as other core word particles, appearing immediately before the word being transformed.
+    *   this is particularly useful for:
+        *   noun-to-verb: when a dedicated verb doesn't exist or for creative/metaphorical expressions
+        *   verb-to-noun: for abstract concepts or gerund-like constructions
+        *   note: these are distinct from the more permanent solutions created with full lexical entries and should be seen as flexible, contextual transformations
+
 *   **future considerations:** ideas like multiple plurals (for "several" vs "many") remain under consideration and are not yet defined.
 
-## available particles
+## future considerations
 
-these single-syllable particles are phonotactically valid in phi but currently unassigned:
+the following concepts represent potential extensions to the phi particle system. these are not currently implemented but represent areas for future growth that maintain phi's design principles.
 
-| phi | assignment |
-| --- | ---------- |
-| ru  |            |
+### multiple plurals
+
+phi could benefit from a more nuanced plural system distinguishing between different quantities:
+
+| phi | category | type          | example usage    | gloss           | english description         |
+| --- | -------- | ------------- | ---------------- | --------------- | --------------------------- |
+| lo  | number   | general plural| lo nuthu         | `PL pebble`     | pebbles (unspecified count) |
+| wo  | number   | paucal        | wo nuthu         | `PAUC pebble`   | a few pebbles (2-5)         |
+| mo  | number   | plural        | mo nuthu         | `PL pebble`     | several pebbles (6-20)      |
+| no  | number   | greater plural| no nuthu         | `GPL pebble`    | many pebbles (21+)          |
+
+this would create a four-way distinction in number:
+- singular (unmarked): `nuthu` - "a pebble"
+- paucal (few): `wo nuthu` - "a few pebbles"
+- plural (several): `mo nuthu` - "several pebbles"
+- greater plural (many): `no nuthu` - "many pebbles"
+
+implementation notes:
+- this would refine the current `lo` into more specific quantifiers
+- interaction with other slot 2 particles would follow the same precedence rules
+- this would give phi more expressive power for quantity distinctions common in some natural languages
+
+example sentences:
+- `mia wo nuthu li nuwa` - "i threw a few pebbles"
+- `mia mo nuthu li nuwa` - "i threw several pebbles"
+- `mia no nuthu li nuwa` - "i threw many pebbles"
+
+### evidentiality expansion
+
+phi's current evidentiality system (direct observation, inference, hearsay) could be expanded to include these additional distinctions:
+
+| phi | category      | type                | example usage    | gloss                | english                   |
+| --- | ------------- | ------------------- | ---------------- | -------------------- | ------------------------- |
+| hi  | evidentiality | direct observation  | hi [statement]   | `DIR.EV [statement]` | (I see/hear that...)      |
+| ro  | evidentiality | inference           | ro [statement]   | `INFR [statement]`   | (I infer that...)         |
+| nu  | evidentiality | hearsay             | nu [statement]   | `HRSY [statement]`   | (They say that...)        |
+| mu  | evidentiality | memory              | mu [statement]   | `MEM [statement]`    | (I remember that...)      |
+| su  | evidentiality | second-hand         | su [statement]   | `2H [statement]`     | (I was told directly...)  |
+| pu  | evidentiality | established fact    | pu [statement]   | `FACT [statement]`   | (It is known that...)     |
+
+this would create a more nuanced system for source-of-knowledge marking.
+
+### nominal classification
+
+a lightweight classifier system could be introduced, using slot 2 particles to mark semantic categories:
+
+| phi | category    | type                   | example usage | gloss            | english                    |
+| --- | ----------- | ---------------------- | ------------- | ---------------- | -------------------------- |
+| ha  | classifier  | humans                 | ha thelo      | `CL:HUM person`  | person (human class)       |
+| pa  | classifier  | tools/implements       | pa phime      | `CL:TOOL tool`   | tool (implement class)     |
+| ma  | classifier  | animals                | ma thime      | `CL:ANIM animal` | animal (animal class)      |
+| ta  | classifier  | flat/flexible objects  | ta whepha     | `CL:FLAT paper`  | paper (flat class)         |
+| sa  | classifier  | round objects          | sa mophu      | `CL:ROUND ball`  | ball (round class)         |
+| wa  | classifier  | long objects           | wa ropha      | `CL:LONG rope`   | rope (long class)          |
+| la  | classifier  | liquids                | la wheisha    | `CL:LIQ water`   | water (liquid class)       |
+
+these would be optional and could enhance semantic precision, particularly for counting expressions and demonstratives.
+
+### other potential extensions
+
+other particle categories that could be considered:
+- **mirativity markers**: indicating surprise or unexpectedness
+- **valency-changing particles**: applicatives, causatives, etc.
+- **register markers**: particles indicating formal, informal, poetic, or technical speech
+- **discourse markers**: particles for topic, focus, or discourse structure
+
+all extensions would adhere to phi's phonological and syntactic principles while enhancing expressive possibilities.
+
+## available [C][V] combinations
+
+the following consonant-vowel combinations are currently unused in the phi particle system and remain available for future particle assignments:
+
+| combination | status  |
+| ----------- | ------- |
+| ha          | unused  |
+| lu          | unused  |
+| mi          | unused  |
+| mu          | unused  |
+| ni          | unused  |
+| no          | unused  |
+| pe          | unused  |
+| ti          | unused  |
+| wo          | unused  |
+
+these combinations follow phi's particle pattern of a single consonant followed by a single vowel. when designing new particles, consideration should be given to phonological distinctiveness, mnemonic value, and systematic coherence with existing particles.
