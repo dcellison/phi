@@ -16,11 +16,58 @@ phi words follow strict phonotactic patterns based on their part of speech. thes
 
 each phonotactic pattern is built from these basic components:
 
-where:
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - F = fricative digraph (ph, wh, th, sh)
 - V = vowel (i, u, e, o, a)
 - P = vowel pair (ia, io, etc., excluding identical pairs)
+
+##### consonants
+
+the consonant inventory of phi consists of nine single consonants that provide a balance of sounds that are relatively common across human languages:
+
+- h, l, m, n, p, r, s, t, w
+
+##### fricative digraphs
+
+phi uses four two-letter fricative combinations that function as single phonological units:
+
+- ph, wh, th, sh
+
+##### vowels
+
+phi employs five basic vowels:
+
+- i, u, e, o, a
+
+##### vowel pairs
+
+vowel pairs in phi consist of any two vowels together, except for identical pairs:
+- ia, io, iu, ie
+- ua, ue, ui, uo
+- ea, ei, eu, eo
+- oa, oi, ou, oe
+- ae, ai, au, ao
+
+the following identical pairs are not allowed:
+- ii, uu, ee, oo, aa
+
+#### syllable structures
+
+phi syllables follow strict patterns that contribute to the language's distinctive sound. 
+a syllable in phi must be either:
+
+- `(C)CV`: a consonant or consonant cluster (only fricative digraphs allowed for clusters) followed by a vowel
+- `V`: a single vowel (can only occur directly after a `(C)CV` syllable)
+
+if a syllable starts with two consonants, the pair must be one of the fricative digraphs 
+(ph, wh, th, sh). all syllables must end with a vowel, creating the language's characteristic 
+open-syllable structure.
+
+because phi has no diphthongs but does have vowel pairs, vowel hiatus (two adjacent vowels 
+pronounced in sequence) can create `V` syllables. these only occur immediately after a 
+`(C)CV` syllable and are the only exception to the primary syllable structure.
+
+no word in phi may contain duplicate syllables, ensuring phonological diversity within each word.
 
 #### nouns: `[C/F][V/P][F][P]`
 
@@ -87,15 +134,17 @@ examples:
 - thiena (any): fricative `th` + vowel pair `ie` + consonant `n` + vowel `a`
 - pheapo (each): fricative `ph` + vowel pair `ea` + consonant `p` + vowel `o`
 
-#### classifiers: `[F][V][C][V]`
+#### classifiers: `[C][P]`
 
-classifiers in phi follow a distinct pattern that starts with a fricative, followed by a vowel, then a consonant, and ending with a vowel. this creates a two-syllable structure that is phonetically distinct from other parts of speech while maintaining phi's airy quality.
+classifiers in phi follow a distinct pattern with a single consonant followed by a vowel pair. this creates a concise structure that is perfect for their frequent use in counting contexts, while ensuring they are phonetically distinct from other parts of speech.
 
 examples:
-- phalo (classifier for long objects): fricative `ph` + vowel `a` + consonant `l` + vowel `o`
-- whomi (classifier for flat objects): fricative `wh` + vowel `o` + consonant `m` + vowel `i`
-- thimu (classifier for round objects): fricative `th` + vowel `i` + consonant `m` + vowel `u`
-- shapo (classifier for animals): fricative `sh` + vowel `a` + consonant `p` + vowel `o`
+- lea (long objects): consonant `l` + vowel pair `ea`
+- moi (flat objects): consonant `m` + vowel pair `oi`
+- teo (round objects): consonant `t` + vowel pair `eo`
+- rao (animals): consonant `r` + vowel pair `ao`
+- hau (humans): consonant `h` + vowel pair `au`
+- neo (buildings): consonant `n` + vowel pair `eo`
 
 #### conjunctions: `[C][V][C][V]`
 
