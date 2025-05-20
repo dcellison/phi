@@ -495,8 +495,6 @@ when multiple particles are used, they follow a strict order based on their scop
         *   verb-to-noun: for abstract concepts or gerund-like constructions
         *   note: these are distinct from the more permanent solutions created with full lexical entries and should be seen as flexible, contextual transformations
 
-*   **future considerations:** ideas like multiple plurals (for "several" vs "many") remain under consideration and are not yet defined.
-
 ## future considerations
 
 the following concepts represent potential extensions to the phi particle system. these are not currently implemented but represent areas for future growth that maintain phi's design principles.
@@ -542,22 +540,6 @@ phi's current evidentiality system (direct observation, inference, hearsay) coul
 | pu  | evidentiality | established fact    | pu [statement]   | `FACT [statement]`   | (It is known that...)     |
 
 this would create a more nuanced system for source-of-knowledge marking.
-
-### nominal classification
-
-a lightweight classifier system could be introduced, using slot 2 particles to mark semantic categories:
-
-| phi | category    | type                   | example usage | gloss            | english                    |
-| --- | ----------- | ---------------------- | ------------- | ---------------- | -------------------------- |
-| ha  | classifier  | humans                 | ha thephoa    | `CL:HUM person`  | person (human class)       |
-| pe  | classifier  | tools/implements       | pe phimea     | `CL:TOOL tool`   | tool (implement class)     |
-| mi  | classifier  | animals                | mi thiphea    | `CL:ANIM animal` | animal (animal class)      |
-| ti  | classifier  | flat/flexible objects  | ti whephai    | `CL:FLAT paper`  | paper (flat class)         |
-| no  | classifier  | round objects          | no mophui     | `CL:ROUND ball`  | ball (round class)         |
-| wo  | classifier  | long objects           | wo rophai     | `CL:LONG rope`   | rope (long class)          |
-| lu  | classifier  | liquids                | lu wheisha    | `CL:LIQ water`   | water (liquid class)       |
-
-these would be optional and could enhance semantic precision, particularly for counting expressions and demonstratives.
 
 ### other potential extensions
 
