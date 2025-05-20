@@ -1,6 +1,38 @@
-# phi adjectives
+---
+tags:
+  - pos
+  - standard
+---
+# adjectives
 
-## Color adjectives
+> adjectives are words that describe or modify nouns or pronouns, providing additional information about their qualities, quantities, or states. they can specify characteristics like size, color, shape, and many other attributes, helping to create more vivid and precise expressions in language.
+
+## introduction to phi adjectives
+
+phi adjectives follow a distinctive phonotactic pattern that makes them immediately 
+recognizable within the language. all adjectives in phi adhere to the structure 
+`[C][V][F][V]` where:
+
+- C = consonant (h, l, m, n, p, r, s, t, w)
+- V = vowel (i, u, e, o, a)
+- F = fricative digraph (ph, wh, th, sh)
+
+this pattern creates words like `mipho` (blue), `hashe` (green), and `pisha` (soft), 
+which always begin with a consonant followed by a vowel, then a fricative digraph, and 
+ending with a vowel. this structure gives adjectives a consistent two-syllable rhythm 
+with a characteristic "flowing" quality in the middle due to the fricative sound.
+
+adjectives in phi serve to modify nouns by describing their qualities, properties, 
+or attributes. they express color, size, shape, physical qualities, temporal aspects, 
+and evaluative or emotional characteristics. unlike in some languages, phi adjectives 
+do not change form to agree with the nouns they modify.
+
+the distinctive phonological pattern of adjectives helps listeners immediately identify 
+descriptive words in speech, even without explicit grammatical markers. this consistent 
+structure is part of phi's systematic approach to word formation, where each part of 
+speech has its own unique sound signature.
+
+## color adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -24,7 +56,7 @@
 | sathi    | white               |
 | liphi    | yellow              |
 
-## Size and shape adjectives
+## size and shape adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -50,7 +82,7 @@
 | tipha    | tall                |
 | nophe    | wide                |
 
-## Physical quality adjectives
+## physical quality adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -78,7 +110,7 @@
 | waphe    | warm                |
 | hetha    | wet                 |
 
-## Temporal adjectives
+## temporal adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -87,7 +119,7 @@
 | lotha    | old                 |
 | lupha    | young               |
 
-## Taste and flavor adjectives
+## taste and flavor adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -100,7 +132,7 @@
 | taphi    | spicy/hot           |
 | sitha    | sweet               |
 
-## Personality and character adjectives
+## personality and character adjectives
 
 | phi word | english translation     |
 | -------- | ----------------------- |
@@ -137,7 +169,7 @@
 | wapho    | tired/exhausted         |
 | lethu    | wise                    |
 
-## Evaluative adjectives
+## evaluative adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -153,7 +185,7 @@
 | wotha    | useless             |
 | nuphe    | valuable            |
 
-## Relational and perceptual adjectives
+## relational and perceptual adjectives
 
 | phi word | english translation |
 | -------- | ------------------- |

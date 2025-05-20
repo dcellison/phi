@@ -1,6 +1,37 @@
-# phi adverbs
+---
+tags:
+  - pos
+  - standard
+---
+# adverbs
 
-## Temporal adverbs (time-related)
+> adverbs are words that modify verbs, adjectives, other adverbs, or entire sentences, providing additional information about manner, time, place, frequency, degree, or cause. they often answer questions like how, when, where, how much, and why, and can be found in various positions within a sentence. adverbs can change or enhance the meaning of the words they modify, adding detail and nuance to expressions.
+
+## introduction to phi adverbs
+
+phi adverbs follow a distinctive phonotactic pattern that makes them immediately 
+recognizable within the language. all adverbs in phi adhere to the structure 
+`[C][V][C][V][C][V]` where:
+
+- C = consonant (h, l, m, n, p, r, s, t, w)
+- V = vowel (i, u, e, o, a)
+
+this pattern creates words like `hamite` (how), `napine` (quickly), and `walime` (outside), 
+which consist of three syllables with a consistent consonant-vowel alternation and no 
+fricative digraphs. this longer syllabic structure gives adverbs a rhythmic quality that 
+sets them apart from other parts of speech in phi.
+
+adverbs serve to modify verbs, adjectives, other adverbs, or entire clauses, providing 
+information about time, place, manner, degree, frequency, or logical relationships. 
+their distinctive three-syllable pattern creates an immediate phonological cue that 
+helps listeners identify adverbial functions in speech.
+
+unlike some natural languages where adverbs may be formed by adding suffixes to 
+adjectives, phi maintains complete lexical separation between parts of speech. this 
+approach enhances clarity and maintains the language's systematic phonological 
+distinctions while allowing for a rich and expressive adverbial vocabulary.
+
+## temporal adverbs (time-related)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -31,7 +62,7 @@
 | toline   | usually             |
 | netore   | yesterday           |
 
-## Spatial adverbs (location and direction)
+## spatial adverbs (location and direction)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -47,7 +78,7 @@
 | monite   | there               |
 | humate   | upward              |
 
-## Manner adverbs (how actions are performed)
+## manner adverbs (how actions are performed)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -73,7 +104,7 @@
 | tolime   | together            |
 | wanume   | well                |
 
-## Frequency adverbs (how often)
+## frequency adverbs (how often)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -84,7 +115,7 @@
 | mowate   | never               |
 | toline   | usually             |
 
-## Degree adverbs (intensity or extent)
+## degree adverbs (intensity or extent)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -103,7 +134,7 @@
 | supane   | too                 |
 | ritune   | very                |
 
-## Logical and epistemic adverbs (reasoning and certainty)
+## logical and epistemic adverbs (reasoning and certainty)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -129,7 +160,7 @@
 | posane   | thus                |
 | sarite   | unfortunately       |
 
-## Interrogative adverbs (questions)
+## interrogative adverbs (questions)
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -138,7 +169,7 @@
 | timane   | when                |
 | welime   | where               |
 
-## Other adverbs
+## other adverbs
 
 | phi word | english translation |
 | -------- | ------------------- |

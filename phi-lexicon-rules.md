@@ -1,32 +1,32 @@
 # phi lexicon
 
-## Introduction to the Phi Lexicon
+## introduction to the phi lexicon
 
-### Single Part of Speech Principle
+### single part of speech principle
 
-The phi language follows a unique and systematic approach where each word serves exactly one grammatical function. Unlike natural languages where words frequently shift between multiple parts of speech (like "light" as noun, verb, or adjective in English), phi maintains strict separation of grammatical functions. This design choice promotes clarity, reduces ambiguity, and makes the language more systematic.
+the phi language follows a unique and systematic approach where each word serves exactly one grammatical function. unlike natural languages where words frequently shift between multiple parts of speech (like "light" as noun, verb, or adjective in english), phi maintains strict separation of grammatical functions. this design choice promotes clarity, reduces ambiguity, and makes the language more systematic.
 
-Each word in phi has its own unique phonotactic pattern based on its grammatical function, with no derivational relationships between words of different parts of speech. Related concepts across different parts of speech are expressed through entirely distinct lexical items, each following the appropriate phonological pattern for its grammatical category.
+each word in phi has its own unique phonotactic pattern based on its grammatical function, with no derivational relationships between words of different parts of speech. related concepts across different parts of speech are expressed through entirely distinct lexical items, each following the appropriate phonological pattern for its grammatical category.
 
-### Phonotactic Word Patterns
+### phonotactic word patterns
 
-Phi words follow strict phonotactic patterns based on their part of speech. These patterns ensure that words are not only pronounceable but also carry subtle phonological cues about their grammatical function.
+phi words follow strict phonotactic patterns based on their part of speech. these patterns ensure that words are not only pronounceable but also carry subtle phonological cues about their grammatical function.
 
-#### Phonological Components
+#### phonological components
 
-Each phonotactic pattern is built from these basic components:
+each phonotactic pattern is built from these basic components:
 
-Where:
+where:
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - F = fricative digraph (ph, wh, th, sh)
 - V = vowel (i, u, e, o, a)
 - P = vowel pair (ia, io, etc., excluding identical pairs)
 
-#### Nouns: `[C/F][V/P][F][P]`
+#### nouns: `[C/F][V/P][F][P]`
 
-Nouns follow the pattern of consonant/fricative + vowel/vowel pair + fricative + vowel pair. This pattern produces words of two to four syllables with a soft, airy quality due to the fricatives.
+nouns follow the pattern of consonant/fricative + vowel/vowel pair + fricative + vowel pair. this pattern produces words of two to four syllables with a soft, airy quality due to the fricatives.
 
-Examples:
+examples:
 - haephui (dune): consonant + vowel pair + fricative + vowel pair
 - phuithui (mud): fricative + vowel pair + fricative + vowel pair
 - wheupha (tree): fricative + vowel pair + fricative + vowel pair
@@ -34,11 +34,11 @@ Examples:
 - nuthu (pebble): consonant + vowel + fricative + vowel pair
 - phenu (room): fricative + vowel + fricative + vowel pair
 
-#### Verbs: `[F][V][C][V]`
+#### verbs: `[F][V][C][V]`
 
-Verbs follow a pattern that always starts with a fricative, followed by a vowel, then a consonant, and ending with a vowel. This gives verbs a more utilitarian, direct sound while maintaining some of phi's airy quality.
+verbs follow a pattern that always starts with a fricative, followed by a vowel, then a consonant, and ending with a vowel. this gives verbs a more utilitarian, direct sound while maintaining some of phi's airy quality.
 
-Examples:
+examples:
 - phamu (spend): fricative + vowel + consonant + vowel
 - whami (rain): fricative + vowel + consonant + vowel
 - thunu (finish): fricative + vowel + consonant + vowel
@@ -46,108 +46,120 @@ Examples:
 - phimu (work): fricative + vowel + consonant + vowel
 - whanu (throw): fricative + vowel + consonant + vowel
 
-#### Adjectives: `[C][V][F][V]`
+#### adjectives: `[C][V][F][V]`
 
-Adjectives follow a pattern that starts with a consonant, followed by a vowel, then a fricative, and ending with a vowel. This creates a sound that is distinct from both nouns and verbs.
+adjectives follow a pattern that starts with a consonant, followed by a vowel, then a fricative, and ending with a vowel. this creates a sound that is distinct from both nouns and verbs.
 
-Examples:
+examples:
 - hashe (green): consonant + vowel + fricative + vowel
 - lophu (deep): consonant + vowel + fricative + vowel
 - mipha (beautiful): consonant + vowel + fricative + vowel
 - nophi (mountainous): consonant + vowel + fricative + vowel
 
-#### Adverbs: `[C][V][C][V][C][V]`
+#### adverbs: `[C][V][C][V][C][V]`
 
-Adverbs in phi follow a distinctive three-syllable pattern with no fricative digraphs. This longer syllabic structure creates an immediately recognizable rhythm that sets adverbs apart from other parts of speech.
+adverbs in phi follow a distinctive three-syllable pattern with no fricative digraphs. this longer syllabic structure creates an immediately recognizable rhythm that sets adverbs apart from other parts of speech.
 
-Examples:
+examples:
 - hamite (how): consonant + vowel + consonant + vowel + consonant + vowel
 - tapine (quickly): consonant + vowel + consonant + vowel + consonant + vowel
 - walime (outside): consonant + vowel + consonant + vowel + consonant + vowel
 
-#### Prepositions: `[F][P]`
+#### prepositions: `[F][P]`
 
-Prepositions in Phi typically consist of a Fricative digraph (F group: `ph, wh, th, sh`) followed by a Vowel Pair (P group: `ia, io, iu, ie, io, ua, ue, ui, uo, ea, ei, eu, eo, oa, oi, ou, ae, ai, au, ao`). This structure generally forms a two-syllable word and gives prepositions a distinct phonetic quality.
+prepositions in phi typically consist of a fricative digraph (F group: `ph, wh, th, sh`) followed by a vowel pair (P group: `ia, io, iu, ie, io, ua, ue, ui, uo, ea, ei, eu, eo, oa, oi, ou, ae, ai, au, ao`). this structure generally forms a two-syllable word and gives prepositions a distinct phonetic quality.
 
-Examples:
-- phae (about): Fricative `ph` + vowel pair `ae`
-- shio (from): Fricative `sh` + vowel pair `io`
-- thau (as if): Fricative `th` + vowel pair `au`
-- wheo (at): Fricative `wh` + vowel pair `eo`
+examples:
+- phae (about): fricative `ph` + vowel pair `ae`
+- shio (from): fricative `sh` + vowel pair `io`
+- thau (as if): fricative `th` + vowel pair `au`
+- wheo (at): fricative `wh` + vowel pair `eo`
 
-#### Classifiers: `[F][V][C][V]`
+#### determiners: `[F][P][C][V]`
 
-Classifiers in Phi follow a distinct pattern that starts with a fricative, followed by a vowel, then a consonant, and ending with a vowel. This creates a two-syllable structure that is phonetically distinct from other parts of speech while maintaining phi's airy quality.
+determiners in phi follow a pattern that begins with a fricative digraph, followed by a vowel pair, then a consonant, and ending with a vowel. this structure creates words that are phonologically distinct from verbs (despite similar initial sounds), and gives determiners a flowing quality that signals their function of introducing and specifying nouns.
 
-Examples:
-- phalo (classifier for long objects): Fricative `ph` + vowel `a` + consonant `l` + vowel `o`
-- whomi (classifier for flat objects): Fricative `wh` + vowel `o` + consonant `m` + vowel `i`
-- thimu (classifier for round objects): Fricative `th` + vowel `i` + consonant `m` + vowel `u`
-- shapo (classifier for animals): Fricative `sh` + vowel `a` + consonant `p` + vowel `o`
+examples:
+- phiato (this): fricative `ph` + vowel pair `ia` + consonant `t` + vowel `o`
+- thueta (that): fricative `th` + vowel pair `ue` + consonant `t` + vowel `a`
+- whieso (which): fricative `wh` + vowel pair `ie` + consonant `s` + vowel `o`
+- shoata (all): fricative `sh` + vowel pair `oa` + consonant `t` + vowel `a`
+- thiena (any): fricative `th` + vowel pair `ie` + consonant `n` + vowel `a`
+- pheapo (each): fricative `ph` + vowel pair `ea` + consonant `p` + vowel `o`
 
-#### Conjunctions: `[C][V][C][V]`
+#### classifiers: `[F][V][C][V]`
 
-Conjunctions in Phi follow a simple two-syllable pattern with no fricatives. This creates a clear, direct sound that distinguishes them from other parts of speech while maintaining phi's syllable structure rules.
+classifiers in phi follow a distinct pattern that starts with a fricative, followed by a vowel, then a consonant, and ending with a vowel. this creates a two-syllable structure that is phonetically distinct from other parts of speech while maintaining phi's airy quality.
 
-Examples:
-- maca (for): Consonant `m` + vowel `a` + consonant `c` + vowel `a`
-- nene (and): Consonant `n` + vowel `e` + consonant `n` + vowel `e`
-- woma (as): Consonant `w` + vowel `o` + consonant `m` + vowel `a`
-- turae (since): Consonant `t` + vowel `u` + consonant `r` + vowel `ae`
+examples:
+- phalo (classifier for long objects): fricative `ph` + vowel `a` + consonant `l` + vowel `o`
+- whomi (classifier for flat objects): fricative `wh` + vowel `o` + consonant `m` + vowel `i`
+- thimu (classifier for round objects): fricative `th` + vowel `i` + consonant `m` + vowel `u`
+- shapo (classifier for animals): fricative `sh` + vowel `a` + consonant `p` + vowel `o`
 
-#### Interjections: `[C][P]`
+#### conjunctions: `[C][V][C][V]`
 
-Interjections in Phi follow a distinctive pattern with a single consonant followed by a vowel pair, creating a more expressive sound that's suitable for emotional expressions. This pattern is unique among parts of speech and makes interjections immediately recognizable.
+conjunctions in phi follow a simple two-syllable pattern with no fricatives. this creates a clear, direct sound that distinguishes them from other parts of speech while maintaining phi's syllable structure rules.
 
-Examples:
-- mia (oh): Consonant `m` + vowel pair `ia`
-- wou (wow): Consonant `w` + vowel pair `ou`
-- hei (hey): Consonant `h` + vowel pair `ei`
-- tau (alas): Consonant `t` + vowel pair `au`
+examples:
+- maca (for): consonant `m` + vowel `a` + consonant `c` + vowel `a`
+- nene (and): consonant `n` + vowel `e` + consonant `n` + vowel `e`
+- woma (as): consonant `w` + vowel `o` + consonant `m` + vowel `a`
+- turae (since): consonant `t` + vowel `u` + consonant `r` + vowel `ae`
 
-#### Numbers
+#### interjections: `[C][P]`
 
-##### Digits: `[F][V]`
+interjections in phi follow a distinctive pattern with a single consonant followed by a vowel pair, creating a more expressive sound that's suitable for emotional expressions. this pattern is unique among parts of speech and makes interjections immediately recognizable.
 
-Numbers in Phi follow an `[F][V]` (Fricative digraph + Vowel) pattern for digits and a `[C][P]` (Consonant + Vowel pair) pattern for magnitudes. This ensures they are phonetically distinct, short, and easy to use for counting and quantification.
+examples:
+- mia (oh): consonant `m` + vowel pair `ia`
+- wou (wow): consonant `w` + vowel pair `ou`
+- hei (hey): consonant `h` + vowel pair `ei`
+- tau (alas): consonant `t` + vowel pair `au`
 
-Examples of digits:
+#### numbers
+
+##### digits: `[F][V]`
+
+numbers in phi follow an `[F][V]` (fricative digraph + vowel) pattern for digits and a `[C][P]` (consonant + vowel pair) pattern for magnitudes. this ensures they are phonetically distinct, short, and easy to use for counting and quantification.
+
+examples of digits:
 - `phi` (one)
 - `whu` (two)
 - `pho` (four)
 - `wha` (five)
 
-##### Magnitudes: `[C][P]`
+##### magnitudes: `[C][P]`
 
-Magnitude words follow the `[C][P]` pattern (Consonant + Vowel pair) and represent powers of ten in the decimal system. These are combined with digit words to form compound numbers following a consistent digit-magnitude sequence.
+magnitude words follow the `[C][P]` pattern (consonant + vowel pair) and represent powers of ten in the decimal system. these are combined with digit words to form compound numbers following a consistent digit-magnitude sequence.
 
-Examples of magnitudes:
+examples of magnitudes:
 - `toa` (ten)
 - `nui` (hundred)
 - `lae` (thousand)
 
-#### Particles: `[C][V]`
+#### particles: `[C][V]`
 
-Particles, serving essential grammatical functions, typically follow a simple Consonant-Vowel `[C][V]` structure. This makes them phonotactically minimal and distinct.
+particles, serving essential grammatical functions, typically follow a simple consonant-vowel `[C][V]` structure. this makes them phonotactically minimal and distinct.
 
-Examples:
+examples:
 - `li` (past)
 - `na` (object marker)
 - `he` (human animacy)
 
-### Functional Categories
+### functional categories
 
-The lexicon includes several functional categories:
+the lexicon includes several functional categories:
 
-1. **Content words**: nouns, verbs, adjectives, adverbs (lipha "tree", nuwa "throw", pela "is", mipho "blue", tapine "quickly")
+1. **content words**: nouns, verbs, adjectives, adverbs (lipha "tree", nuwa "throw", pela "is", mipho "blue", tapine "quickly")
 
-2. **Grammatical particles**: Functional words marking tense, aspect, mood, and relationships. These typically follow the `CV` pattern.
-   - Tense/aspect markers (li "past", ta "present", su "future")
-   - Part of speech markers (si "subject", na "object", te "verb")
-   - Comparison particles (pa "superlative", mo "comparative", sa "equality")
+2. **grammatical particles**: functional words marking tense, aspect, mood, and relationships. these typically follow the `CV` pattern.
+   - tense/aspect markers (li "past", ta "present", su "future")
+   - part of speech markers (si "subject", na "object", te "verb")
+   - comparison particles (pa "superlative", mo "comparative", sa "equality")
 
-3. **Numbers**: Foundational words for counting, following distinct phonotactic patterns.
-   - Digits: `phi` (one), `whu` (two), `pho` (four), `wha` (five), `shu` (seven), `who` (eight)
-   - Magnitudes: `toa` (ten), `nui` (hundred), `lae` (thousand)
+3. **numbers**: foundational words for counting, following distinct phonotactic patterns.
+   - digits: `phi` (one), `whu` (two), `pho` (four), `wha` (five), `shu` (seven), `who` (eight)
+   - magnitudes: `toa` (ten), `nui` (hundred), `lae` (thousand)
 
-This comprehensive lexicon represents phi's systematic approach to vocabulary, where form follows function and every word has its unique place in the language's grammatical ecosystem.
+this comprehensive lexicon represents phi's systematic approach to vocabulary, where form follows function and every word has its unique place in the language's grammatical ecosystem.

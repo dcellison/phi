@@ -1,6 +1,37 @@
-# phi prepositions
+---
+tags:
+  - pos
+  - standard
+---
+# prepositions
 
-## Spatial position prepositions
+> prepositions are words that show the relationship between a noun or pronoun and other words in a sentence. they typically indicate location, direction, time, or manner. examples include "in," "on," "at," "by," "with," and "from." prepositions are an essential part of constructing phrases and clauses, helping to clarify the spatial, temporal, or logical relationships between elements in a sentence.
+
+## introduction to phi prepositions
+
+phi prepositions follow a distinctive phonotactic pattern that makes them immediately 
+recognizable within the language. all prepositions in phi adhere to the structure 
+`[F][P]` where:
+
+- F = fricative digraph (ph, wh, th, sh)
+- P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii)
+
+this pattern creates words like `phia` (in), `thue` (of), and `whie` (to), which 
+always begin with a fricative digraph followed by a vowel pair. this compact structure 
+gives prepositions a flowing, breathy quality while keeping them phonologically 
+distinct from other parts of speech.
+
+prepositions serve as relational words that connect nouns, pronouns, or phrases to 
+other parts of the sentence, expressing spatial relationships, directions, time 
+concepts, and logical connections. they appear before the noun phrase they modify, 
+maintaining phi's consistent head-initial structure.
+
+unlike some natural languages, phi prepositions do not combine with articles or change 
+form based on the following word. this regularity, combined with their distinctive 
+phonological pattern, makes them easy to identify in speech and writing while 
+allowing for a rich vocabulary of relational concepts.
+
+## spatial position prepositions
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -20,7 +51,7 @@
 | shei     | opposite            |
 | thae     | across              |
 
-## Direction and movement prepositions
+## direction and movement prepositions
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -34,7 +65,7 @@
 | theu     | past                |
 | whuo     | beyond              |
 
-## Temporal prepositions
+## temporal prepositions
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -47,7 +78,7 @@
 | shoi     | within              |
 | shua     | throughout          |
 
-## Logical and relational prepositions
+## logical and relational prepositions
 
 | phi word | english translation |
 | -------- | ------------------- |

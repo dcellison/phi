@@ -1,6 +1,39 @@
-# phi verbs
+---
+tags:
+  - pos
+  - outlier
+---
+# verbs
 
-## Communication and language verbs
+> verbs are words that express actions, events, or states of being in a sentence. they convey what the subject of the sentence is doing, experiencing, or being. verbs can be classified into different categories based on their functions and forms, including action verbs (e.g., "run," "eat"), stative verbs (e.g., "be," "feel"), auxiliary verbs (e.g., "have," "will"), and modal verbs (e.g., "can," "must"). verbs are a fundamental element of sentence structure and play a crucial role in conveying meaning and indicating tense, aspect, and mood.
+
+## introduction to phi verbs
+
+phi verbs follow a distinctive phonotactic pattern that makes them immediately 
+recognizable within the language. all verbs in phi adhere to the structure 
+`[F][V][C][V]` where:
+
+- F = fricative digraph (ph, wh, th, sh)
+- V = vowel (i, u, e, o, a)
+- C = consonant (h, l, m, n, p, r, s, t, w)
+
+this pattern creates words like `phata` (answer), `thuri` (blow), and `whuna` (listen), 
+which always begin with a fricative digraph, followed by a vowel, then a consonant, 
+and ending with a vowel. this gives verbs a more utilitarian, direct sound while 
+maintaining phi's airy quality.
+
+unlike many natural languages, phi verbs do not conjugate for person, number, or tense. 
+instead, grammatical information is conveyed through particles that precede the verb. 
+for example, `li` indicates past tense, `la` marks the progressive aspect, and `me` 
+creates negation. these particles can be combined to express complex meanings while 
+keeping the verb form constant.
+
+phi's verb system is designed to be systematic and regular, reducing the learning 
+burden while maintaining expressive power. the distinct phonological pattern ensures 
+that verbs are easily distinguished from other parts of speech in both written and 
+spoken forms.
+
+## communication and language verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -20,7 +53,7 @@
 | phumo    | translate           |
 | phewu    | compose             |
 
-## Cognitive and mental verbs
+## cognitive and mental verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -45,7 +78,7 @@
 | phire    | want                |
 | shamo    | dream               |
 
-## Movement and position verbs
+## movement and position verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -79,7 +112,7 @@
 | whenu    | enter               |
 | phetu    | exit                |
 
-## Existence and state verbs
+## existence and state verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -97,7 +130,7 @@
 | phuwe    | sleep               |
 | thuma    | wake                |
 
-## Creation and destruction verbs
+## creation and destruction verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -116,7 +149,7 @@
 | thora    | open                |
 | phoru    | set fire            |
 
-## Acquisition and exchange verbs
+## acquisition and exchange verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -142,7 +175,7 @@
 | tharo    | steal               |
 | phita    | take                |
 
-## Sensory and perceptual verbs
+## sensory and perceptual verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -154,7 +187,7 @@
 | thena    | touch               |
 | phosa    | watch               |
 
-## Process and action verbs
+## process and action verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -177,7 +210,7 @@
 | shiri    | utilize             |
 | pheso    | wait                |
 
-## Learning and social verbs
+## learning and social verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -200,7 +233,7 @@
 | pheme    | teach               |
 | thaso    | thank               |
 
-## Transformation verbs
+## transformation verbs
 
 | phi word | english translation |
 | -------- | ------------------- |

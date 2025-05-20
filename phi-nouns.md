@@ -1,6 +1,43 @@
-# phi nouns
+---
+tags:
+  - pos
+  - standard
+---
+# nouns
 
-## Natural elements and phenomena
+> nouns are words that name people, places, things, concepts, or ideas. they serve as the subject or object in sentences, indicating who or what is performing an action or receiving an action.
+
+## introduction to phi nouns
+
+phi nouns follow a distinctive phonotactic pattern that makes them immediately 
+recognizable within the language. all nouns in phi adhere to the structure 
+`[C/F][V/P][F][P]` where:
+
+- C = consonant (h, l, m, n, p, r, s, t, w)
+- F = fricative digraph (ph, wh, th, sh)
+- V = vowel (i, u, e, o, a)
+- P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii)
+
+this pattern creates words like `lowhai` (answer), `riwhea` (wind), and `phithui` (lagoon), 
+which may begin with either a consonant or a fricative digraph, followed by either a 
+vowel or vowel pair, then a fricative digraph in the third position, and ending with 
+a vowel pair. this gives nouns a soft, airy quality with typically two to four syllables.
+
+unlike verbs, which have a more utilitarian sound, phi nouns often contain two 
+fricative elements that create their distinctive flowing character. this phonological 
+distinction helps listeners immediately identify nouns in speech, even without explicit 
+grammatical markers.
+
+phi nouns do not decline for case or gender. plurality can be indicated with the 
+particle `lo` placed before the noun. possession is typically shown through the 
+preposition `thue` ("of") rather than possessive pronouns, creating constructions like 
+"miwhoa thue mia" (friend of me) rather than "my friend".
+
+the consistent structure of phi nouns makes them easy to identify while still allowing 
+for a rich vocabulary that can express a wide range of concepts across many semantic 
+domains.
+
+## natural elements and phenomena
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -44,7 +81,7 @@
 | riwhea   | wind                |
 | phawhui  | zephyr              |
 
-## Landforms and geographical features
+## landforms and geographical features
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -84,7 +121,7 @@
 | hephai   | vicinity            |
 | noethua  | woodland            |
 
-## Plants and vegetation
+## plants and vegetation
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -106,11 +143,11 @@
 | whiphai  | vine                |
 | whuthau  | willow              |
 
-## Animal kingdom
+## animal kingdom
 
 | phi word | english translation |
 | -------- | ------------------- |
-| thimea   | animal              |
+| thiphea  | animal              |
 | naphia   | ant                 |
 | phiphui  | bee                 |
 | lophea   | bird                |
@@ -129,7 +166,7 @@
 | shuphea  | spider              |
 | whuloa   | wolf                |
 
-## Time and temporal concepts
+## time and temporal concepts
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -163,7 +200,7 @@
 | phoshea  | yesterday           |
 | shiphia  | year                |
 
-## Human body
+## human body
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -197,7 +234,7 @@
 | shawhea  | tongue              |
 | whephai  | vein/artery         |
 
-## People and relationships
+## people and relationships
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -228,7 +265,7 @@
 | waphia   | uncle               |
 | thaphea  | woman               |
 
-## Human artifacts and objects
+## human artifacts and objects
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -264,7 +301,7 @@
 | whelia   | wheel               |
 | shiwhea  | window              |
 
-## Food and sustenance
+## food and sustenance
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -275,7 +312,7 @@
 | saiphoa  | meat                |
 | muthoa   | mushroom/fungus     |
 
-## Places and buildings
+## places and buildings
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -289,12 +326,12 @@
 | theshai  | temple/shrine       |
 | whilia   | village             |
 
-## Abstract concepts
+## abstract concepts
 
 | phi word | english translation |
 | -------- | ------------------- |
 | towhai   | advice              |
-| thaphia  | age (duration)      |
+| thephoa  | age (duration)      |
 | rashia   | anger               |
 | lowhai   | answer              |
 | lophia   | art                 |
@@ -399,19 +436,19 @@
 | thuwhia  | work                |
 | thewhai  | writing system      |
 
-## Containers and locations
+## containers and locations
 
 | phi word | english translation |
 | -------- | ------------------- |
 | haphai   | area                |
 | luwhia   | container           |
-| whaphoa  | exterior            |
+| whaphoa  | boundary            |
 | neathia  | interior            |
-| ramphoa  | outside             |
+| ramphoa  | exterior            |
 | niphia   | point               |
 | hoshai   | surface             |
 
-## Cultural and artistic elements
+## cultural and artistic elements
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -422,7 +459,7 @@
 | shulai   | sculpture           |
 | thaphui  | song                |
 
-## Work and occupation
+## work and occupation
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -442,7 +479,7 @@
 | phimea   | tool                |
 | thophui  | trade/commerce      |
 
-## Colors and visual properties
+## colors and visual properties
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -464,7 +501,7 @@
 | sathia   | white               |
 | philia   | yellow              |
 
-## Substances and materials
+## substances and materials
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -476,20 +513,20 @@
 | nuphea   | timber              |
 | sowhia   | wood                |
 
-## Transportation and travel
+## transportation and travel
 
 | phi word | english translation |
 | -------- | ------------------- |
 | shaiphia | boat/ship           |
 | nashia   | journey             |
 
-## Sleeping and furniture
+## sleeping and furniture
 
 | phi word | english translation |
 | -------- | ------------------- |
 | lothia   | bed                 |
 
-## Celestial bodies and sky
+## celestial bodies and sky
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -498,7 +535,7 @@
 | shiphui  | star                |
 | shilai   | world               |
 
-## Intellectual and educational
+## intellectual and educational
 
 | phi word | english translation |
 | -------- | ------------------- |
