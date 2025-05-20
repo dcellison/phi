@@ -102,4 +102,18 @@ allowing for a rich vocabulary of relational concepts.
 | wheu     | like                |
 | phio     | unlike              |
 | whoa     | via                 |
-| shue     | by means of         | 
+| shue     | by means of         |
+
+## remaining preposition count
+
+phi prepositions follow the pattern `[F][P]` where:
+- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
+- P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
+  (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
+
+Total possible combinations = 4 × 20 = 80 prepositions
+
+Currently defined prepositions = 53 (15 spatial position + 9 direction and movement + 
+8 temporal + 21 logical and relational)
+
+Remaining available prepositions = 27 

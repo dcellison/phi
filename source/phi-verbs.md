@@ -253,3 +253,18 @@ spoken forms.
 | phima    | win                 |
 | phuri    | work                |
 | phota    | document            |
+
+## remaining verb count
+
+phi verbs follow the pattern `[F][V][C][V]` where:
+- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+
+Total possible combinations = 4 × 5 × 9 × 5 = 900 verbs
+
+Currently defined verbs = 171 (15 communication + 20 cognitive + 29 movement + 
+13 existence + 14 creation/destruction + 21 acquisition + 7 sensory + 
+18 process/action + 18 learning/social + 16 transformation)
+
+Remaining available verbs = 729

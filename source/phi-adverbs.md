@@ -175,3 +175,16 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | -------- | ------------------- |
 | rewase   | also                |
 | metane   | just                |
+
+## remaining adverb count
+
+phi adverbs follow the pattern `[C][V][C][V][C][V]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
+
+Total possible combinations = 9 × 5 × 9 × 5 × 9 × 5 = 91,125 adverbs
+
+Currently defined adverbs = 105 (26 temporal + 11 spatial + 21 manner + 
+6 frequency + 14 degree + 21 logical/epistemic + 4 interrogative + 2 other)
+
+Remaining available adverbs = 91,020

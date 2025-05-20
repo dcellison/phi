@@ -541,3 +541,27 @@ domains.
 | -------- | ------------------- |
 | mephui   | education           |
 | nothoa   | thought             |
+
+## remaining noun count
+
+phi nouns follow the pattern `[C/F][V/P][F][P]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
+- P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
+  (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
+
+First position: either C (9) or F (4) = 13 possibilities
+Second position: either V (5) or P (20) = 25 possibilities
+Third position: only F (4) possibilities
+Fourth position: only P (20) possibilities
+
+Total possible combinations = 13 × 25 × 4 × 20 = 26,000 nouns
+
+Currently defined nouns = 389 (39 natural elements + 35 landforms + 17 plants + 
+18 animals + 29 temporal + 29 body parts + 26 relationships + 31 artifacts + 
+6 food + 9 places + 101 abstract concepts + 7 containers + 6 cultural elements + 
+15 work-related + 17 colors + 7 substances + 2 transportation + 1 furniture + 
+4 celestial + 2 intellectual)
+
+Remaining available nouns = 25,611

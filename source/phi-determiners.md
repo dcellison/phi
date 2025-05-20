@@ -117,4 +117,21 @@ the most common number-determiners are:
 | sheame lo thashoa            | most days                     |
 | whaesa phimea                | what tool                     |
 | phi phala                    | one rain                      |
-| thoana loshea                | no ocean                      | 
+| thoana loshea                | no ocean                      |
+
+## remaining determiner count
+
+phi determiners follow the pattern `[F][P][C][V]` where:
+- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
+- P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
+  (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
+
+Total possible combinations = 4 × 20 × 9 × 5 = 3,600 determiners
+
+Currently defined determiners = 31 (7 demonstratives + 4 interrogatives + 
+4 universal quantifiers + 8 existential quantifiers + 2 negative quantifiers + 
+6 basic numbers)
+
+Remaining available determiners = 3,569 

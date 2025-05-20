@@ -82,4 +82,17 @@ writing.
 | either ball or cup             | miwa mophui lote tuphai      |
 | neither bag nor basket         | nopa pashia pisu pashui      |
 | not only bread but also butter | watu nophai tena pashia      |
-| whether brick or bottle        | moro mathe wete niphui       | 
+| whether brick or bottle        | moro mathe wete niphui       |
+
+## remaining conjunction count
+
+phi conjunctions follow the pattern `[C][V][C][V]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
+
+Total possible combinations = 9 × 5 × 9 × 5 = 2,025 conjunctions
+
+Currently defined conjunctions = 33 (7 coordinating + 16 subordinating + 
+10 correlative [5 pairs])
+
+Remaining available conjunctions = 1,992 

@@ -111,4 +111,19 @@ feeling or reaction.
 | lia      | like                |
 | tue      | so                  |
 | sei      | anyway              |
-| nai      | you know            | 
+| nai      | you know            |
+
+## remaining interjection count
+
+phi interjections follow the pattern `[C][P]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
+  (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
+
+Total possible combinations = 9 × 20 = 180 interjections
+
+Currently defined interjections = 53 (15 expressions of emotion + 7 attentional calls + 
+10 responses + 7 expressions of pain/discomfort + 7 expressions of joy/pleasure + 
+7 hesitation/filler)
+
+Remaining available interjections = 127 

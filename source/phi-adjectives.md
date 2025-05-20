@@ -203,3 +203,17 @@ speech has its own unique sound signature.
 | resho    | mineral-like        |
 | nisha    | taboo/forbidden     |
 | tethu    | terrible            |
+
+## remaining adjective count
+
+phi adjectives follow the pattern `[C][V][F][V]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
+- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
+
+Total possible combinations = 9 × 5 × 4 × 5 = 900 adjectives
+
+Currently defined adjectives = 132 (19 color + 21 size/shape + 23 physical + 
+4 temporal + 8 taste + 32 personality + 11 evaluative + 14 relational)
+
+Remaining available adjectives = 768

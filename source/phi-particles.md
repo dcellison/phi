@@ -550,12 +550,12 @@ a lightweight classifier system could be introduced, using slot 2 particles to m
 | phi | category    | type                   | example usage | gloss            | english                    |
 | --- | ----------- | ---------------------- | ------------- | ---------------- | -------------------------- |
 | ha  | classifier  | humans                 | ha thephoa    | `CL:HUM person`  | person (human class)       |
-| pa  | classifier  | tools/implements       | pa phimea     | `CL:TOOL tool`   | tool (implement class)     |
-| ma  | classifier  | animals                | ma thiphea    | `CL:ANIM animal` | animal (animal class)      |
-| ta  | classifier  | flat/flexible objects  | ta whephai    | `CL:FLAT paper`  | paper (flat class)         |
-| sa  | classifier  | round objects          | sa mophui     | `CL:ROUND ball`  | ball (round class)         |
-| wa  | classifier  | long objects           | wa rophai     | `CL:LONG rope`   | rope (long class)          |
-| la  | classifier  | liquids                | la wheisha    | `CL:LIQ water`   | water (liquid class)       |
+| pe  | classifier  | tools/implements       | pe phimea     | `CL:TOOL tool`   | tool (implement class)     |
+| mi  | classifier  | animals                | mi thiphea    | `CL:ANIM animal` | animal (animal class)      |
+| ti  | classifier  | flat/flexible objects  | ti whephai    | `CL:FLAT paper`  | paper (flat class)         |
+| no  | classifier  | round objects          | no mophui     | `CL:ROUND ball`  | ball (round class)         |
+| wo  | classifier  | long objects           | wo rophai     | `CL:LONG rope`   | rope (long class)          |
+| lu  | classifier  | liquids                | lu wheisha    | `CL:LIQ water`   | water (liquid class)       |
 
 these would be optional and could enhance semantic precision, particularly for counting expressions and demonstratives.
 
@@ -569,20 +569,20 @@ other particle categories that could be considered:
 
 all extensions would adhere to phi's phonological and syntactic principles while enhancing expressive possibilities.
 
-## available [C][V] combinations
+## remaining particle count
 
-the following consonant-vowel combinations are currently unused in the phi particle system and remain available for future particle assignments:
+phi particles follow the pattern `[C][V]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
 
-| combination | status  |
-| ----------- | ------- |
-| ha          | unused  |
-| lu          | unused  |
-| mi          | unused  |
-| mu          | unused  |
-| ni          | unused  |
-| no          | unused  |
-| pe          | unused  |
-| ti          | unused  |
-| wo          | unused  |
+Total possible combinations = 9 × 5 = 45 particles
 
-these combinations follow phi's particle pattern of a single consonant followed by a single vowel. when designing new particles, consideration should be given to phonological distinctiveness, mnemonic value, and systematic coherence with existing particles.
+Currently defined particles = 36 (slot 0: wa, ho, tu, hu, hi, ro, nu, so + 
+slot 1: li, ta, su, we, to, ru, la, ni, po, pu, ri, wi, wu, me + 
+slot 2: si, na, te, se, ra, he, pi, ne, pa, mo, sa, le, re, lo, ma)
+
+The currently unused combinations (available for future extensions) are:
+ha, lu, mi, mu, ni, no, pe, ti, wo
+
+Remaining available particles = 9
+
