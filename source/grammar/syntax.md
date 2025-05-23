@@ -136,21 +136,34 @@ verb complements follow the object and precede the main verb:
 
 ## questions
 
-questions in phi are formed by adding the question particle `wa` at the beginning of 
-the sentence:
+phi uses a systematic hybrid approach to questions with two distinct patterns:
+
+### yes/no questions
+
+yes/no questions are formed by adding the question particle `wa` at the beginning of 
+any declarative statement:
 
 | phi                   | literal translation    | english translation     |
 | --------------------- | ---------------------- | ----------------------- |
 | thephoa phola         | person walk            | The person walks        |
 | wa thephoa phola      | Q person walk          | Does the person walk?   |
+| mia nuthui phamo      | I pebble like          | I like the pebble       |
+| wa mia nuthui phamo   | Q I pebble like        | Do I like the pebble?   |
 
-wh-questions use interrogative pronouns or adverbs in their normal syntactic position:
+### wh-questions
+
+wh-questions use interrogative words alone, without the `wa` particle, in their 
+normal syntactic position:
 
 | phi                   | literal translation    | english translation     |
 | --------------------- | ---------------------- | ----------------------- |
-| wa thi welime phola   | Q you where walk       | Where do you walk?      |
-| wa thephoa hamite phola | Q person how walk    | How does the person walk? |
-| wa thephoa timane phola | Q person when walk   | When does the person walk? |
+| hamite thi phola      | how you walk           | How do you walk?        |
+| welime thi phola      | where you walk         | Where do you walk?      |
+| timane thephoa phola  | when person walk       | When does the person walk? |
+| whieso nuthui thi phamo | which pebble you like | Which pebble do you like? |
+
+this systematic distinction keeps each question type clean and predictable, 
+eliminating dependencies between question markers and interrogative words.
 
 ## complex sentences
 
@@ -220,13 +233,13 @@ the following examples demonstrate phi syntax in context:
 ### simple conversation
 
 **mia:**  
-mimia. wa hamite thi.  
-hello Q how you  
+mimia. hamite thi.  
+hello how you  
 "Hello! How are you?"  
 
 **thi:**  
-wanume. wa hamite thi.  
-well Q how you  
+wanume. hamite thi.  
+well how you  
 "Well. How are you?"  
 
 **mia:**  
@@ -235,8 +248,8 @@ I very happy
 "I am very happy."  
 
 **mia:**  
-wa thi welime sharo phira.  
-Q you where go want  
+welime thi sharo phira.  
+where you go want  
 "Where do you want to go?"  
 
 **thi:**  

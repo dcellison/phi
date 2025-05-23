@@ -68,7 +68,7 @@ phi employs a highly restricted set of punctuation marks:
 2. **space ( )**: separates words
 
 notably absent from phi orthography are:
-- Question marks (questions are marked with the particle `wa`)
+- Question marks (yes/no questions use the particle `wa`; wh-questions use interrogative words alone)
 - Exclamation points (emphasis is conveyed through particles like `ma` or `ho`)
 - Commas (phrase boundaries are indicated by word order and particles)
 - Semicolons, colons, quotation marks, etc.
@@ -153,7 +153,7 @@ the following examples demonstrate phi's orthographic principles in practice:
 ### example text
 
 ```
-thephoa nuthui phamo. thaphe lothia phuwe. wa thi welime sharo phira.
+thephoa nuthui phamo. thaphe lothia phuwe. welime thi sharo phira.
 mia siwhea na sharo phira. mia thi phiu sharo su. teshe. lo mia sharo.
 mia li phuwa phi teo nuthui phiu liphai. lu thaphe liphai phose hashe.
 ```
@@ -169,8 +169,8 @@ thaphe  lothia phuwe.
 woman   bed    sleep
 "The woman sleeps in the bed."
 
-wa thi welime sharo phira.
-Q  you where  go    want
+welime thi sharo phira.
+where  you go    want
 "Where do you want to go?"
 
 phi teo   nuthui

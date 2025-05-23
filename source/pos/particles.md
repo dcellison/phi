@@ -571,7 +571,7 @@ when multiple particles are used, they follow a strict order based on their scop
 
 *   **optional present tense (`ta`):** similarly, the simple present tense particle `ta` is formally required but often omitted in informal speech and writing when the present tense is implied by context (i.e., the absence of other tense/aspect markers). e.g., formal: `mia ta phuwa nuthui` (1sg PRS throw pebble), informal: `mia phuwa nuthui` (1sg throw pebble).
 
-*   **questions (`wa`):** questions start with `wa`, followed by the declarative sentence structure. e.g., `wa phera phala?` (is it raining?) vs. `phera phala` (it is raining).
+*   **questions (`wa`):** phi uses a hybrid question system. yes/no questions start with `wa`, followed by the declarative sentence structure (e.g., `wa phera phala?` - "is it raining?" vs. `phera phala` - "it is raining"). wh-questions use interrogative words alone without `wa` (e.g., `hamite thi phola?` - "how do you walk?" vs. `wa thi phola?` - "do you walk?").
 
 *   **plurals (`wo`, `lo`, `no`):** phi uses a three-way number distinction to provide precise quantity marking. `wo` indicates a few items (paucal, 2-5), `lo` indicates an unspecified plural quantity, and `no` indicates many items (6+). these particles precede the noun they quantify. if combined with other slot 2 particles, number particles come after optional `si`/`na` and after `ma` (`na ma wo nuthui` - "the few *pebbles*").
 

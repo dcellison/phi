@@ -20,6 +20,34 @@ from lessons 01-03, you now recognize these patterns:
 - **adverbs** (3 syllables, no fricatives): `hamite`, `welime`, `timane`, `tapine`, `walime`
 - **prepositions** (fricative + vowel pair): `thue`, `wheo`, `shio`, `phae`
 
+## phi's two question types
+
+phi uses a systematic approach to questions with two distinct patterns:
+
+### yes/no questions: wa + statement
+
+use `wa` before any statement to ask if it's true:
+
+```
+statement: mia nuthui phamo (I like the pebble)
+question:  wa mia nuthui phamo (Do I like the pebble?)
+
+statement: thi teshe siwhea phose (You see a good house)
+question:  wa thi teshe siwhea phose (Do you see a good house?)
+```
+
+### wh-questions: interrogative words alone
+
+use interrogative words without `wa` to ask for specific information:
+
+```
+hamite thi phola (How do you walk?)
+welime thi phola (Where do you walk?)
+whieso nuthui thi phamo (Which pebble do you like?)
+```
+
+this systematic distinction keeps each question type clean and predictable.
+
 ## new pattern: determiners
 
 determiners specify which things you mean and follow a **fricative + vowel pair + consonant + vowel** pattern:
@@ -126,9 +154,9 @@ whu hau thephoa
 two people person
 two people
 
-the lea siwhea
-three long house
-three houses (long buildings)
+the moi siwhea
+three flat house
+three houses
 ```
 
 ### larger numbers
@@ -150,22 +178,25 @@ use comparison particles to show relative qualities:
 ### comparison particles
 - `mo` - comparative (more)
 - `pa` - superlative (most)
-- `sa` - equality (as/equally)
+- `sa` - equality (as/equal)
+
+### question particles
+- `wa` - yes/no question marker
 
 ### making comparisons
 
 ```
-phiato mo pisha nuthui
-this   more soft pebble
-this pebble is softer
+phiato mo teshe nuthui
+this   more good pebble
+this pebble is better
 
 thueta pa teshe siwhea
 that   most good house
 that house is best
 
-mia sa hashe thephoa
-I   equal green person
-I am as green as the person
+mia sa teshe thephoa
+I   equal good person
+I am as good as the person
 ```
 
 ## complex noun phrases
@@ -186,9 +217,9 @@ thueta phi hau teshe thephoa
 that   one people good person
 that one good person
 
-shoata the lea pisha siwhea
-all    three long soft house
-all three soft long houses
+shoata the moi teshe siwhea
+all    three flat good house
+all three good flat houses
 ```
 
 ## advanced sentence building
@@ -196,9 +227,9 @@ all three soft long houses
 ### precise descriptions with possession
 
 ```
-mia phiato phi teo hashe nuthui thue mia wheo siwhea phose
-I   this   one round green pebble of   I   at   house  see
-I see this one green pebble of mine at the house
+mia phi teo hashe nuthui thue mia wheo siwhea phose
+I   one round green pebble of   I   at   house  see
+I see one green pebble of mine at the house
 
 thueta whu hau thephoa li shio walime tapine phola
 that   two people person PST from outside quickly walk
@@ -212,9 +243,9 @@ phiato mo teshe siwhea thueta siwhea
 this   more good house  that   house
 This house is better than that house
 
-lu mia phose thephoa pa hashe shoata thephoa
-REL I  see   person  most green all    person
-The person whom I see is the greenest of all people
+lu mia phose thephoa pa teshe shoata thephoa
+REL I  see   person  most good all    person
+The person whom I see is the best of all people
 ```
 
 ## practice conversations
@@ -223,8 +254,8 @@ The person whom I see is the greenest of all people
 
 **person a:**
 ```
-wa thi whieso nuthui phamo
-Q  you which  pebble like
+thi whieso nuthui phamo
+you which  pebble like
 Which pebble do you like?
 ```
 
@@ -237,39 +268,39 @@ I like this one green pebble
 
 **person a:**
 ```
-wa thueta nuthui hamite
-Q  that   pebble how
-How about that pebble?
+wa thi thueta nuthui phamo
+Q  you that   pebble like
+Do you like that pebble?
 ```
 
 **person b:**
 ```
-thueta nuthui mo pisha
-that   pebble more soft
-That pebble is softer
+thueta mo teshe nuthui
+that   more good pebble
+That pebble is better
 ```
 
 ### conversation 2: comparing
 
 **person a:**
 ```
-wa whieso pa teshe siwhea
-Q  which  most good house
+whieso pa teshe siwhea
+which  most good house
 Which house is best?
 ```
 
 **person b:**
 ```
-phiato mipho siwhea pa teshe shoata siwhea
-this   blue  house  most good all    house
-This blue house is best of all houses
+phiato mipho siwhea pa teshe
+this   blue  house  most good
+This blue house is best
 ```
 
 **person a:**
 ```
-wa hamite thi phemo
-Q  how    you think
-What do you think?
+wa thi phemo
+Q  you think
+Do you think so?
 ```
 
 **person b:**
@@ -303,9 +334,9 @@ I think the same
    those three people
    ```
 6. ```
-   phiato pa pisha wheisha
-   this   most soft water
-   this softest water
+   phiato pa teshe wheisha
+   this   most good water
+   this best water
    ```
 7. ```
    shoata wha teo nuthui
@@ -342,7 +373,8 @@ I think the same
 2. **number system**: systematic digit and magnitude patterns
 3. **classifier system**: groups objects by physical properties
 4. **comparison structure**: particles create relative relationships
-5. **precise specification**: combine all elements for exact description
+5. **hybrid questions**: wa for yes/no, interrogative words alone for wh-questions
+6. **precise specification**: combine all elements for exact description
 
 ## congratulations!
 

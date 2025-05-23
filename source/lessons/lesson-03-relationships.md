@@ -13,11 +13,15 @@ tags:
 ## review: your growing toolkit
 
 from lessons 01-02, you now recognize these patterns:
-- **particles** (shortest): `li`, `su`, `wa`, `me`, `ta`, `la`, `po`
-- **verbs** (start with fricative): `phola`, `phamo`, `phose`, `phuwe`, `pheru`, `phenu`
+- **particles** (shortest): `li`, `su`, `wa` (yes/no questions), `me`, `ta`, `la`, `po`
+- **verbs** (start with fricative): `phola`, `phamo`, `phose`, `phuwe`
 - **adjectives** (fricative inside): `hashe`, `mipho`, `teshe`, `pisha`
 - **nouns** (end fricative + vowel pair): `nuthui`, `thephoa`, `siwhea`, `wheisha`
 - **adverbs** (3 syllables, no fricatives): `hamite`, `welime`, `timane`, `tapine`, `walime`
+
+you also learned phi's systematic question types:
+- **yes/no questions**: `wa` + statement
+- **wh-questions**: interrogative adverbs alone (`hamite`, `welime`, `timane`)
 
 ## new pattern: prepositions
 
@@ -45,16 +49,16 @@ prepositions show relationships and have a **fricative + vowel pair** pattern:
 
 ```
 nuthui thue mia
-pebble of   I
+pebble of   me
 my pebble
 
 siwhea thue thephoa
 house  of   person
 the person's house
 
-wheisha thue teshe siwhea
-water   of   good house
-the good house's water
+wheisha thue tophe siwhea
+water   of   big house
+the big house's water
 ```
 
 ## spatial relationships
@@ -65,7 +69,7 @@ use prepositions to show where things are:
 
 ```
 mia wheo siwhea phuwe
-I   at   house  sleep
+me  at   house  sleep
 I sleep at the house
 
 thephoa wheo siwhea pheru
@@ -77,19 +81,19 @@ The person looks at the house
 
 ```
 mia shio siwhea phola
-I   from house  walk
+me  from house  walk
 I walk from the house
 
-wheisha shio hashe nuthui
-water   from green pebble
-water from the green pebble
+wheisha shio tophe siwhea
+water   from big house
+water from the big house
 ```
 
 ### topic with phae (about)
 
 ```
 mia phae thephoa phemo
-I   about person think
+me  about person think
 I think about the person
 
 thi phae wheisha phenu
@@ -105,7 +109,7 @@ now you can create detailed descriptions:
 
 ```
 hashe nuthui thue mia
-green pebble of   I
+green pebble of   me
 my green pebble
 
 teshe mipho siwhea thue thephoa
@@ -116,9 +120,9 @@ the person's good blue house
 ### prepositions + descriptions
 
 ```
-mia wheo teshe siwhea phuwe
-I   at   good house  sleep
-I sleep at the good house
+mia wheo tophe siwhea phuwe
+me   at   big house  sleep
+I sleep at the big house
 
 thephoa shio hashe siwhea pheru
 person  from green house  look
@@ -133,7 +137,7 @@ relative clauses let you describe which specific thing you mean. use `lu` at the
 
 ```
 lu mia phose thephoa
-REL I  see   person
+REL me  see   person
 the person whom I see
 
 lu thephoa nuthui phamo
@@ -149,11 +153,11 @@ the person who walked
 
 ```
 mia lu thephoa hashe siwhea phamo phose
-I   REL person green house  like  see
+me   REL person green house  like  see
 I see the person who likes the green house
 
 lu mia phae phemo wheisha teshe
-REL I  about think water  good
+REL me  about think water  good
 The water that I think about is good
 ```
 
@@ -165,7 +169,7 @@ combine all elements for detailed expression:
 
 ```
 mia li wheo siwhea thue mia hashe nuthui phose
-I   PST at  house  of   I  green pebble see
+me   PST at  house  of   me  green pebble see
 I saw a green pebble at my house
 
 thephoa su shio walime teshe wheisha phamo
@@ -177,11 +181,11 @@ The person will like good water from outside
 
 ```
 mia lu thephoa li tapine phola shio siwhea phose
-I   REL person PST quickly walk from house  see
+me   REL person PST quickly walk from house  see
 I see the person who walked quickly from the house
 
-lu thephoa mipho wheisha phamo siwhea teshe
-REL person blue  water   like  house  good
+siwhea lu thephoa mipho wheisha phamo teshe
+house  REL person blue  water   like  good
 The house where the person likes blue water is good
 ```
 
@@ -191,29 +195,29 @@ The house where the person likes blue water is good
 
 **person a:**
 ```
-wa thue thi hamite nuthui
-Q  of   you what   pebble
-What pebble of yours?
+hamite nuthui thue thi
+how    pebble of   you
+How is your pebble?
 ```
 
 **person b:**
 ```
-hashe pisha nuthui thue mia
-green soft  pebble of   I
-My green soft pebble
+hashe teshe nuthui thue mia
+green good  pebble of   me
+My pebble is green and good
 ```
 
 **person a:**
 ```
-wa thi welime nuthui thue thi phose
-Q  you where  pebble of   you see
+welime thi nuthui thue thi phose
+where  you pebble of   you see
 Where do you see your pebble?
 ```
 
 **person b:**
 ```
 mia wheo siwhea thue mia nuthui thue mia phose
-I   at   house  of   I  pebble of   I  see
+me   at   house  of   me  pebble of   me  see
 I see my pebble at my house
 ```
 
@@ -221,15 +225,15 @@ I see my pebble at my house
 
 **person a:**
 ```
-wa thi lu hamite thephoa phose
-Q  you REL how   person  see
+hamite thi lu thephoa phose
+how    you REL person  see
 How do you see the person?
 ```
 
 **person b:**
 ```
 mia lu walime phola thephoa wheo siwhea phose
-I   REL outside walk person at   house  see
+me   REL outside walk person at   house  see
 I see the person who walks outside at the house
 ```
 
@@ -260,7 +264,7 @@ Good, the person who likes green water
 4. preposition (fricative + vowel pair)
 5. ```
    teshe wheisha thue mia
-   good water    of   I
+   good water    of   me
    my good water
    ```
 6. ```
@@ -288,6 +292,10 @@ Good, the person who likes green water
 ### new verbs
 - `pheru` - look
 - `phenu` - talk
+- `phemo` - think
+
+### new adjectives
+- `tophe` - big/large
 
 ## key insights from this lesson
 
@@ -295,6 +303,7 @@ Good, the person who likes green water
 2. **possession structure**: thing + thue + owner
 3. **relative clauses**: lu + sentence describes which specific thing
 4. **complex building**: combine patterns for detailed, precise expression
+5. **consistent questions**: continue using hybrid approach from lessons 01-02
 
 ## next steps
 
@@ -312,4 +321,4 @@ in lesson 04, you'll learn:
 
 remember: phi's systematic patterns let you build increasingly complex ideas 
 while maintaining complete transparency. each new element follows the same 
-predictable sound-function relationships! 
+predictable sound-function relationships!

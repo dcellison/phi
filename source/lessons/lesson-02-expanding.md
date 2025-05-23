@@ -13,7 +13,7 @@ tags:
 ## review: the foundation
 
 from lesson 01, you learned that sound reveals function:
-- **particles** (shortest): `li`, `su`, `wa`, `me`
+- **particles** (shortest): `li`, `su`, `wa` (yes/no questions), `me`
 - **verbs** (start with fricative): `phola`, `phamo`, `phose`
 - **adjectives** (fricative inside): `hashe`, `mipho`, `teshe`
 - **nouns** (end fricative + vowel pair): `nuthui`, `thephoa`, `siwhea`
@@ -38,21 +38,46 @@ adverbs have a distinctive **three-syllable pattern with no fricatives**:
 
 adverbs modify verbs and come **before** the verb they modify:
 
-### asking questions with adverbs
+### asking questions with interrogative adverbs
+
+unlike the yes/no questions you learned in lesson 01 (which use `wa`), these interrogative adverbs create questions by themselves:
 
 ```
-wa thi hamite phola
-Q  you how    walk
+hamite thi phola
+how    you walk
 How do you walk?
 
-wa thi welime phola
-Q  you where  walk
+welime thi phola
+where  you walk
 Where do you walk?
 
-wa thi timane phola
-Q  you when   walk
+timane thi phola
+when   you walk
 When do you walk?
 ```
+
+*notice: no `wa` needed! the interrogative adverb alone makes it a question*
+
+## phi's systematic question types
+
+phi has two clean, systematic question patterns:
+
+### yes/no questions (from lesson 01)
+add `wa` to any statement:
+```
+wa thi phola (Do you walk?)
+wa mia nuthui phamo (Do I like the pebble?)
+```
+
+### wh-questions (new in this lesson)
+use interrogative adverbs alone:
+```
+hamite thi phola (How do you walk?)
+welime thi phola (Where do you walk?)
+timane thi phola (When do you walk?)
+```
+
+this systematic distinction keeps each question type clean and predictable!
 
 ### describing actions
 
@@ -161,8 +186,8 @@ mia tapine hashe siwhea phola
 I   quickly green house  walk
 I quickly walk to the green house
 
-wa thephoa timane teshe wheisha phose
-Q  person  when   good  water   see
+timane thephoa teshe wheisha phose
+when   person  good  water   see
 When does the person see good water?
 ```
 
@@ -184,8 +209,8 @@ I will see a good person outside
 
 **person a:**
 ```
-wa thi timane phola
-Q  you when   walk
+timane thi phola
+when   you walk
 When do you walk?
 ```
 
@@ -198,8 +223,8 @@ I walk quickly now
 
 **person a:**
 ```
-wa thi welime phola
-Q  you where  walk
+welime thi phola
+where  you walk
 Where do you walk?
 ```
 
@@ -214,8 +239,8 @@ I walk outside to the green house
 
 **person a:**
 ```
-wa thi hamite teshe wheisha phose
-Q  you how    good  water   see
+hamite thi teshe wheisha phose
+how    you good  water   see
 How do you see good water?
 ```
 
@@ -257,8 +282,8 @@ Good
    I usually walk quickly
    ```
 6. ```
-   wa thephoa timane hashe wheisha phose
-   Q  person  when   green water   see
+   timane thephoa hashe wheisha phose
+   when   person  green water   see
    When does the person see green water?
    ```
 7. ```
@@ -285,9 +310,10 @@ Good
 ## key insights from this lesson
 
 1. **adverb pattern**: three syllables, no fricatives, modify verbs
-2. **particle order**: tense > aspect > negation
-3. **adjective placement**: always before nouns
-4. **systematic building**: each new element follows predictable patterns
+2. **systematic questions**: `wa` for yes/no, interrogative adverbs alone for wh-questions
+3. **particle order**: tense > aspect > negation
+4. **adjective placement**: always before nouns
+5. **systematic building**: each new element follows predictable patterns
 
 ## next steps
 
@@ -305,4 +331,4 @@ in lesson 03, you'll learn:
 
 remember: phi patterns are systematic. once you recognize the adverb pattern, 
 you can identify any adverb immediately by its sound structure, even if you've 
-never heard it before! 
+never heard it before!

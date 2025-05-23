@@ -22,7 +22,7 @@ learn these four patterns first - they cover 80% of basic communication:
 
 | pattern | function | examples | recognition cue |
 |---------|----------|----------|-----------------|
-| **consonant + vowel** | particle (grammar words) | `li` (past), `wa` (question) | shortest words |
+| **consonant + vowel** | particle (grammar words) | `li` (past), `wa` (yes/no question) | shortest words |
 | **starts with fricative** | verb (action words) | `phola` (walk), `phamo` (like) | begins with ph/wh/th/sh |
 | **has fricative inside** | adjective (describing words) | `hashe` (green), `mipha` (beautiful) | fricative in middle |
 | **ends with fricative + vowel pair** | noun (thing words) | `nuthui` (pebble), `thephoa` (person) | ends like -thui, -phoa |
@@ -34,7 +34,7 @@ learn these four patterns first - they cover 80% of basic communication:
 ### core particles (grammar tools)
 - `li` - past tense ("did")
 - `su` - future tense ("will") 
-- `wa` - question marker
+- `wa` - yes/no question marker
 - `me` - negation ("not")
 
 ### pronouns
@@ -83,7 +83,9 @@ I   pebble FUT like
 I will like the pebble
 ```
 
-### questions start with wa
+### questions with wa (yes/no)
+
+for yes/no questions, add `wa` at the beginning:
 
 ```
 wa mia nuthui phamo
@@ -94,6 +96,8 @@ wa thi siwhea phose
 Q  you house  see
 Do you see the house?
 ```
+
+*note: other question types (like "where" and "how") use different patterns - you'll learn these in lesson 02*
 
 ### negation with me
 
@@ -225,8 +229,8 @@ Hello
 
 **person a:** 
 ```
-wa thi welime phola
-Q  you where  walk
+welime thi phola
+where  you walk
 Where do you walk?
 ```
 
@@ -246,8 +250,8 @@ Good
 
 **person b:** 
 ```
-wa thi hamite phola
-Q  you how    walk
+hamite thi phola
+how    you walk
 How do you walk?
 ```
 
@@ -257,7 +261,7 @@ How do you walk?
 
 1. **sound = function**: word patterns immediately tell you grammatical role
 2. **SOV order**: subject-object-verb, with particles before verbs
-3. **particles do grammar**: `li`, `su`, `wa`, `me` handle tense, questions, negation
+3. **particles do grammar**: `li`, `su` handle tense; `wa` handles yes/no questions; `me` handles negation
 4. **pattern recognition**: once you know the patterns, new words are immediately categorizable
 
 ## next steps
@@ -276,4 +280,4 @@ in lesson 02, you'll learn:
 
 remember: phi is systematic. every pattern you learn unlocks understanding of 
 hundreds of similar words. focus on recognizing the patterns rather than 
-memorizing individual words. 
+memorizing individual words.
