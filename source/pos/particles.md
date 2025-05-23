@@ -27,12 +27,14 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | CESS    | cessative aspect                  | `wu`         |
 | CMPR    | comparative                       | `mo`         |
 | COND    | conditional                       | `tu`         |
+| CNTR    | contrast                          | `mi`         |
 | DES     | desiderative                      | `we`         |
 | DIR.EV  | direct observation                | `hi`         |
 | EMPH    | emphasis                          | `ma`         |
 | EQ      | equality                          | `sa`         |
 | EXCL    | exclamation                       | `ho`         |
 | FUT     | future                            | `su`         |
+| GPL     | greater plural                    | `no`         |
 | HAB     | habitual aspect                   | `po`         |
 | HRSY    | hearsay                           | `nu`         |
 | HUM     | human animacy                     | `he`         |
@@ -43,13 +45,16 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | IPFV    | imperfective aspect               | `ri`         |
 | LEAST   | least                             | `re`         |
 | LESS    | less                              | `le`         |
+| MEM     | memory                            | `mu`         |
 | NEG     | negation                          | `me`         |
 | NVERB   | noun-to-verb derivation           | `se`         |
 | OBLG    | obligative                        | `ru`         |
 | OBJ     | object marker (*optional*)        | `na`         |
+| PAUC    | paucal                            | `wo`         |
 | PFV     | perfective aspect                 | `pu`         |
 | PL      | plural                            | `lo`         |
 | POL     | politeness                        | `so`         |
+| PRES    | presumption                       | `pe`         |
 | PRF     | present perfect                   | `ni`         |
 | PROG    | present progressive               | `la`         |
 | PRS     | present (*optional informally*)   | `ta`         |
@@ -57,8 +62,10 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | PST     | past                              | `li`         |
 | Q       | question/interrogative            | `wa`         |
 | REL     | relative clause                   | `lu`         |
+| REP     | reported speech                   | `ti`         |
 | SPRL    | superlative                       | `pa`         |
 | SUBJ    | subject marker (*optional*)       | `si`         |
+| TOP     | topic marker                      | `ha`         |
 | VNOUN   | verb-to-noun derivation           | `ra`         |
 | VRB     | verb marker (*optional*)          | `te`         |
 
@@ -79,6 +86,11 @@ these particles initiate a clause and define its overall mood, type, evidential 
 | hi  | evidentiality | direct observation  | hi [statement]   | `DIR.EV [statement]` | (I see/hear that...) |
 | ro  | evidentiality | inference           | ro [statement]   | `INFR [statement]`   | (I infer that...)    |
 | nu  | evidentiality | hearsay             | nu [statement]   | `HRSY [statement]`   | (They say that...)   |
+| ti  | evidentiality | direct reported     | ti [statement]   | `REP [statement]`    | (X told me that...)  |
+| mu  | evidentiality | memory              | mu [statement]   | `MEM [statement]`    | (I remember that...) |
+| pe  | evidentiality | presumption         | pe [statement]   | `PRES [statement]`   | (I assume that...)   |
+| ha  | discourse     | topic marker        | ha [statement]   | `TOP [statement]`    | (speaking of...)     |
+| mi  | discourse     | contrast            | mi [statement]   | `CNTR [statement]`   | (however...)         |
 | lu  | sentence type | relative clause     | lu [clause]      | `REL [clause]`       | (relative clause)    |
 | so  | politeness    | courtesy            | so [statement]   | `POL [statement]`    | (politeness marker)  |
 
@@ -112,7 +124,7 @@ the particle `so` precedes a statement or request to add a layer of politeness, 
 | phi     | so mia phemo whethui phera mipho                                  |
 | gloss   | POL 1sg think sky be blue                                         |
 
-##### evidentiality examples (`hi`, `ro`, `nu`)
+##### evidentiality examples (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`)
 
 these particles indicate the source of the speaker's knowledge and typically appear early in the clause, following sentence type markers but preceding politeness.
 
@@ -134,6 +146,52 @@ these particles indicate the source of the speaker's knowledge and typically app
 | phi     | nu phera phala        |
 | gloss   | HRSY be rain          |
 
+| type    | sentence (reported)           |
+| ------- | ------------------------------|
+| english | she told me it's raining      |
+| phi     | ti phera phala                |
+| gloss   | REP be rain                   |
+
+| type    | sentence (memory)               |
+| ------- | --------------------------------|
+| english | i remember it was raining       |
+| phi     | mu li phera phala               |
+| gloss   | MEM PST be rain                 |
+
+| type    | sentence (presumption)          |
+| ------- | --------------------------------|
+| english | i assume it's raining           |
+| phi     | pe phera phala                  |
+| gloss   | PRES be rain                    |
+
+##### discourse marker examples (`ha`, `mi`)
+
+these particles structure discourse and show relationships between topics and contrasting ideas.
+
+| type    | sentence (topic introduction)         |
+| ------- | --------------------------------------|
+| english | speaking of trees, i saw a tall one   |
+| phi     | ha liphai, mia li phose phi tophe     |
+| gloss   | TOP tree, 1sg PST see one tall       |
+
+| type    | sentence (topic shift)                |
+| ------- | --------------------------------------|
+| english | as for the weather, it's beautiful    |
+| phi     | ha whethui, phera mipha               |
+| gloss   | TOP weather, be beautiful             |
+
+| type    | sentence (contrast)                   |
+| ------- | --------------------------------------|
+| english | i think it's blue. however, you disagree |
+| phi     | mia mipho phemo. mi thi me phemo      |
+| gloss   | 1sg blue think. CNTR 2sg NEG think    |
+
+| type    | sentence (contrast)                      |
+| ------- | ----------------------------------------|
+| english | the day was warm. in contrast, the night was cold |
+| phi     | thashoa li waphe phera. mi thumea li thepo phera |
+| gloss   | day PST warm be. CNTR night PST cold be |
+
 ### slot 1 particles (verb phrase)
 
 these particles precede the verb complex and indicate tense, aspect, mood, or negation.
@@ -143,9 +201,9 @@ these particles precede the verb complex and indicate tense, aspect, mood, or ne
 | li  | tense/aspect      | simple past         | li phuwa      | `PST throw`     | did throw                    |
 | ta  | tense/aspect      | simple present      | ta phuwa      | `PRS throw`     | do throw                     |
 | su  | tense/aspect      | simple future       | su phuwa      | `FUT throw`     | will throw                   |
-| we  | tense/aspect/mood | desiderative        | we phuwa      | `DES throw`     | wants to throw               |
-| to  | tense/aspect/mood | imperative          | to phuwa      | `IMP throw`     | (command to) throw           |
-| ru  | tense/aspect/mood | obligative          | ru phuwa      | `OBLG throw`    | should throw                 |
+| we  | tense/aspect      | desiderative        | we phuwa      | `DES throw`     | wants to throw               |
+| to  | tense/aspect      | imperative          | to phuwa      | `IMP throw`     | (command to) throw           |
+| ru  | tense/aspect      | obligative          | ru phuwa      | `OBLG throw`    | should throw                 |
 | la  | tense/aspect      | present progressive | la phuwa      | `PROG throw`    | throwing                     |
 | ni  | tense/aspect      | present perfect     | ni phuwa      | `PRF throw`     | has thrown                   |
 | po  | tense/aspect      | habitual            | po phuwa      | `HAB throw`     | usually throws               |
@@ -302,7 +360,9 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | sa  | comparison | equality            | sa mipho      | `EQ blue`      | as blue                |
 | le  | comparison | less (comparative)  | le mipho      | `LESS blue`    | less blue              |
 | re  | comparison | least (superlative) | re mipho      | `LEAST blue`   | least blue             |
-| lo  | number     | plural              | lo nuthui     | `PL pebble`    | (plural) pebble        |
+| wo  | number     | paucal              | wo nuthui     | `PAUC pebble`  | a few pebbles          |
+| lo  | number     | plural              | lo nuthui     | `PL pebble`    | pebbles                |
+| no  | number     | greater plural      | no nuthui     | `GPL pebble`   | many pebbles           |
 | ma  | emphasis   | word emphasis       | ma [word]     | `EMPH [word]`  | (emphasis marker)      |
 
 #### slot 2 examples
@@ -409,6 +469,40 @@ these optional particles specify the animacy class of a noun.
 | phi     | lo ne nuthui me phera na mia            |
 | gloss   | PL INAN pebble NEG be OBJ 1sg           |
 
+##### number examples (`wo`, `lo`, `no`)
+
+these particles distinguish different quantities to provide precise number marking.
+
+| type    | sentence                                  |
+| ------- | ----------------------------------------- |
+| english | i threw a few pebbles                     |
+| phi     | mia li phuwa wo nuthui                    |
+| gloss   | 1sg PST throw PAUC pebble                 |
+
+| type    | sentence                                  |
+| ------- | ----------------------------------------- |
+| english | i threw pebbles                           |
+| phi     | mia li phuwa lo nuthui                    |
+| gloss   | 1sg PST throw PL pebble                   |
+
+| type    | sentence                                  |
+| ------- | ----------------------------------------- |
+| english | i threw many pebbles                      |
+| phi     | mia li phuwa no nuthui                    |
+| gloss   | 1sg PST throw GPL pebble                  |
+
+| type    | sentence                                     |
+| ------- | -------------------------------------------- |
+| english | the few trees in the yard are very tall     |
+| phi     | wo liphai na phenu phera ritune tophe        |
+| gloss   | PAUC tree OBJ yard be very tall             |
+
+| type    | sentence                                     |
+| ------- | -------------------------------------------- |
+| english | many birds fly over the mountains daily     |
+| phi     | no whiloa po phira shui na lo phiwhai lo thashoa |
+| gloss   | GPL bird HAB fly over OBJ PL mountain PL day |
+
 ## particle order rules
 
 when multiple particles are used, they follow a strict order based on their scope and category to ensure clarity. particles occupy defined "slots" relative to the core words (nouns, verbs, adjectives) they modify.
@@ -419,12 +513,14 @@ when multiple particles are used, they follow a strict order based on their scop
 
 1.  **slot 0: sentence frame particles**
     *   scope: entire clause/sentence.
-    *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`, `lu`) > evidentiality (`hi`, `ro`, `nu`) > politeness (`so`)**
+    *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`, `lu`) > evidentiality (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`) > discourse (`ha`, `mi`) > politeness (`so`)**
     *   position: clause initial.
     *   example: `tu so mia ta phuwa` (if politely I do throw...)
     *   additional examples:
         *   `wa hi phera phala` (Q DIR.EV be rain) - "is it actually raining? (I see it)"
         *   `hu nu thephoa su phema` (PSB HRSY person FUT come) - "perhaps they say the person will come"
+        *   `ti so mia li phose na thi` (REP POL 1sg PST see OBJ 2sg) - "politely, I was told I saw you"
+        *   `ha mi thi me phemo` (TOP CNTR 2sg NEG think) - "speaking of that, however, you disagree"
         *   `lu mia phemo nuthui phera raphe` (REL 1sg think pebble be grey) - "the pebble that I think is grey"
 
 2.  **slot 1: verb phrase grammatical particles**
@@ -440,9 +536,9 @@ when multiple particles are used, they follow a strict order based on their scop
     *   scope: the specific noun, verb, or adjective immediately following.
     *   position: directly precedes the core word, following any slot 0 or 1 particles.
     *   order within slot 2:
-        *   **before nouns:** `pos marker (si/na)` > `animacy (he/pi/ne)` > `emphasis (ma)` > `plural (lo)` > noun
+        *   **before nouns:** `pos marker (si/na)` > `animacy (he/pi/ne)` > `emphasis (ma)` > `plural (wo/lo/no)` > noun
             *   example: `na ne ma lo nuthui` (the *pebbles* (object, inanimate))
-            *   additional example: `si he lo ma raushai` (SUBJ HUM PL EMPH leader) - "the *leaders* (subject, human)"
+            *   additional example: `si he wo ma raushai` (SUBJ HUM PAUC EMPH leader) - "the few *leaders* (subject, human)"
         *   **before verbs:** `pos marker (te)` > `emphasis (ma)` > verb
             *   example: `te ma phuwa` ((verb) *throw*)
             *   additional example: `te ma phuri` (VRB EMPH work) - "*work* (verb)"
@@ -477,7 +573,12 @@ when multiple particles are used, they follow a strict order based on their scop
 
 *   **questions (`wa`):** questions start with `wa`, followed by the declarative sentence structure. e.g., `wa phera phala?` (is it raining?) vs. `phera phala` (it is raining).
 
-*   **plurals (`lo`):** `lo` precedes the noun it pluralizes (`lo nuthui` - pebbles). if combined with other slot 2 particles, `lo` comes after optional `si`/`na` and after `ma` (`na ma lo nuthui`).
+*   **plurals (`wo`, `lo`, `no`):** phi uses a three-way number distinction to provide precise quantity marking. `wo` indicates a few items (paucal, 2-5), `lo` indicates an unspecified plural quantity, and `no` indicates many items (6+). these particles precede the noun they quantify. if combined with other slot 2 particles, number particles come after optional `si`/`na` and after `ma` (`na ma wo nuthui` - "the few *pebbles*").
+
+*   examples:
+    *   `wo nuthui` - "a few pebbles"
+    *   `lo nuthui` - "pebbles" (general plural)
+    *   `no nuthui` - "many pebbles"
 
 *   **negation scope (`me`):** the placement of the negation particle determines its scope.
     *   verb phrase negation: `mia li me phuwa` (1sg PST NEG throw) - "I did not throw" (negates the action)
@@ -498,61 +599,10 @@ when multiple particles are used, they follow a strict order based on their scop
         *   verb-to-noun: for abstract concepts or gerund-like constructions
         *   note: these are distinct from the more permanent solutions created with full lexical entries and should be seen as flexible, contextual transformations
 
-## future considerations
-
-the following concepts represent potential extensions to the phi particle system. these are not currently implemented but represent areas for future growth that maintain phi's design principles.
-
-### multiple plurals
-
-phi could benefit from a more nuanced plural system distinguishing between different quantities:
-
-| phi | category | type          | example usage    | gloss           | english description         |
-| --- | -------- | ------------- | ---------------- | --------------- | --------------------------- |
-| lo  | number   | general plural| lo nuthui        | `PL pebble`     | pebbles (unspecified count) |
-| wo  | number   | paucal        | wo nuthui        | `PAUC pebble`   | a few pebbles (2-5)         |
-| mo  | number   | plural        | mo nuthui        | `PL pebble`     | several pebbles (6-20)      |
-| no  | number   | greater plural| no nuthui        | `GPL pebble`    | many pebbles (21+)          |
-
-this would create a four-way distinction in number:
-- singular (unmarked): `nuthui` - "a pebble"
-- paucal (few): `wo nuthui` - "a few pebbles"
-- plural (several): `mo nuthui` - "several pebbles"
-- greater plural (many): `no nuthui` - "many pebbles"
-
-implementation notes:
-- this would refine the current `lo` into more specific quantifiers
-- interaction with other slot 2 particles would follow the same precedence rules
-- this would give phi more expressive power for quantity distinctions common in some natural languages
-
-example sentences:
-- `mia wo nuthui li phuwa` - "i threw a few pebbles"
-- `mia mo nuthui li phuwa` - "i threw several pebbles"
-- `mia no nuthui li phuwa` - "i threw many pebbles"
-
-### evidentiality expansion
-
-phi's current evidentiality system (direct observation, inference, hearsay) could be expanded to include these additional distinctions:
-
-| phi | category      | type                | example usage    | gloss                | english                   |
-| --- | ------------- | ------------------- | ---------------- | -------------------- | ------------------------- |
-| hi  | evidentiality | direct observation  | hi [statement]   | `DIR.EV [statement]` | (I see/hear that...)      |
-| ro  | evidentiality | inference           | ro [statement]   | `INFR [statement]`   | (I infer that...)         |
-| nu  | evidentiality | hearsay             | nu [statement]   | `HRSY [statement]`   | (They say that...)        |
-| mu  | evidentiality | memory              | mu [statement]   | `MEM [statement]`    | (I remember that...)      |
-| su  | evidentiality | second-hand         | su [statement]   | `2H [statement]`     | (I was told directly...)  |
-| pu  | evidentiality | established fact    | pu [statement]   | `FACT [statement]`   | (It is known that...)     |
-
-this would create a more nuanced system for source-of-knowledge marking.
-
-### other potential extensions
-
-other particle categories that could be considered:
-- **mirativity markers**: indicating surprise or unexpectedness
-- **valency-changing particles**: applicatives, causatives, etc.
-- **register markers**: particles indicating formal, informal, poetic, or technical speech
-- **discourse markers**: particles for topic, focus, or discourse structure
-
-all extensions would adhere to phi's phonological and syntactic principles while enhancing expressive possibilities.
+*   **discourse markers (`ha`, `mi`):** these particles structure discourse and show relationships between different parts of conversation or text.
+    *   `ha` - topic marker: introduces or shifts to a new topic. example: `ha nuthui, mia phemo...` (TOP pebble, 1sg think...) - "speaking of pebbles, I think..."
+    *   `mi` - contrast marker: signals opposition or contrast with previous statements. example: `mia mipha phemo. mi thi...` (1sg beautiful think. CNTR 2sg...) - "I think it's beautiful. However, you..."
+    *   these follow the slot 0 particle order and help make discourse relationships explicit rather than implicit
 
 ## remaining particle count
 
@@ -562,12 +612,14 @@ phi particles follow the pattern `[C][V]` where:
 
 Total possible combinations = 9 × 5 = 45 particles
 
-Currently defined particles = 37 (slot 0: wa, ho, tu, hu, hi, ro, nu, lu, so + 
+Currently defined particles = 45 (slot 0: wa, ho, tu, hu, ro, nu, lu, so, ti, mu, pe, ha, mi + 
 slot 1: li, ta, su, we, to, ru, la, ni, po, pu, ri, wi, wu, me + 
-slot 2: si, na, te, se, ra, he, pi, ne, pa, mo, sa, le, re, lo, ma)
+slot 2: si, na, te, se, ra, he, pi, ne, pa, mo, sa, le, re, lo, ma, wo, no)
 
 The currently unused combinations (available for future extensions) are:
-ha, mi, mu, no, pe, ti, wo
+(none - all patterns used)
 
-Remaining available particles = 7
+Remaining available particles = 0
+
+note: phi has reached its maximum particle capacity using all possible `[C][V]` combinations. future expansion would require either repurposing existing particles or extending to new phonotactic patterns.
 
