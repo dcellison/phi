@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi adverbs
 
-phi adverbs follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all adverbs in phi adhere to the structure 
-`[C][V][C][V][C][V]` where:
+all adverbs in phi adhere to the structure `[C][V][C][V][C][V]` where:
 
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - V = vowel (i, u, e, o, a)
@@ -144,7 +142,7 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | sinite   | certainly           |
 | tosume   | consequently        |
 | renote   | evidently           |
-| forite   | fortunately         |
+| porite   | fortunately         |
 | molite   | furthermore         |
 | hotane   | however             |
 | lanite   | instead             |

@@ -159,7 +159,7 @@ spoken forms.
 | shano    | get                 |
 | thiwo    | give                |
 | phasi    | hold                |
-| share    | lend                |
+| thare    | lend                |
 | phimi    | let                 |
 | thonu    | lose                |
 | phuwo    | offer               |
@@ -180,7 +180,7 @@ spoken forms.
 | phi word | english translation |
 | -------- | ------------------- |
 | phusa    | hear                |
-| thuwa    | look                |
+| whona    | look                |
 | phose    | see                 |
 | sheta    | smell               |
 | phusi    | taste               |

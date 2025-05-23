@@ -56,6 +56,7 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | PSB     | possibility                       | `hu`         |
 | PST     | past                              | `li`         |
 | Q       | question/interrogative            | `wa`         |
+| REL     | relative clause                   | `lu`         |
 | SPRL    | superlative                       | `pa`         |
 | SUBJ    | subject marker (*optional*)       | `si`         |
 | VNOUN   | verb-to-noun derivation           | `ra`         |
@@ -78,6 +79,7 @@ these particles initiate a clause and define its overall mood, type, evidential 
 | hi  | evidentiality | direct observation  | hi [statement]   | `DIR.EV [statement]` | (I see/hear that...) |
 | ro  | evidentiality | inference           | ro [statement]   | `INFR [statement]`   | (I infer that...)    |
 | nu  | evidentiality | hearsay             | nu [statement]   | `HRSY [statement]`   | (They say that...)   |
+| lu  | sentence type | relative clause     | lu [clause]      | `REL [clause]`       | (relative clause)    |
 | so  | politeness    | courtesy            | so [statement]   | `POL [statement]`    | (politeness marker)  |
 
 #### slot 0 examples
@@ -417,12 +419,13 @@ when multiple particles are used, they follow a strict order based on their scop
 
 1.  **slot 0: sentence frame particles**
     *   scope: entire clause/sentence.
-    *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`) > evidentiality (`hi`, `ro`, `nu`) > politeness (`so`)**
+    *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`, `lu`) > evidentiality (`hi`, `ro`, `nu`) > politeness (`so`)**
     *   position: clause initial.
     *   example: `tu so mia ta phuwa` (if politely I do throw...)
     *   additional examples:
         *   `wa hi phera phala` (Q DIR.EV be rain) - "is it actually raining? (I see it)"
         *   `hu nu thephoa su phema` (PSB HRSY person FUT come) - "perhaps they say the person will come"
+        *   `lu mia phemo nuthui phera raphe` (REL 1sg think pebble be grey) - "the pebble that I think is grey"
 
 2.  **slot 1: verb phrase grammatical particles**
     *   scope: core verb phrase.
@@ -559,12 +562,12 @@ phi particles follow the pattern `[C][V]` where:
 
 Total possible combinations = 9 × 5 = 45 particles
 
-Currently defined particles = 36 (slot 0: wa, ho, tu, hu, hi, ro, nu, so + 
+Currently defined particles = 37 (slot 0: wa, ho, tu, hu, hi, ro, nu, lu, so + 
 slot 1: li, ta, su, we, to, ru, la, ni, po, pu, ri, wi, wu, me + 
 slot 2: si, na, te, se, ra, he, pi, ne, pa, mo, sa, le, re, lo, ma)
 
 The currently unused combinations (available for future extensions) are:
-ha, lu, mi, mu, ni, no, pe, ti, wo
+ha, mi, mu, no, pe, ti, wo
 
-Remaining available particles = 9
+Remaining available particles = 7
 

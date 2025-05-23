@@ -156,21 +156,21 @@ examples:
 - woma (as): consonant `w` + vowel `o` + consonant `m` + vowel `a`
 - turae (since): consonant `t` + vowel `u` + consonant `r` + vowel `ae`
 
-#### interjections: `[C][P]`
+#### interjections: `[C][V][C][P]`
 
-interjections in phi follow a distinctive pattern with a single consonant followed by a vowel pair, creating a more expressive sound that's suitable for emotional expressions. this pattern is unique among parts of speech and makes interjections immediately recognizable.
+interjections in phi follow a distinctive pattern with a consonant-vowel syllable followed by a consonant and vowel pair, creating a more expressive sound that's suitable for emotional expressions. this pattern is unique among parts of speech and makes interjections immediately recognizable.
 
 examples:
-- mia (oh): consonant `m` + vowel pair `ia`
-- wou (wow): consonant `w` + vowel pair `ou`
-- hei (hey): consonant `h` + vowel pair `ei`
-- tau (alas): consonant `t` + vowel pair `au`
+- mimia (oh): consonant `m` + vowel `i` + consonant `m` + vowel pair `ia`
+- wowou (wow): consonant `w` + vowel `o` + consonant `w` + vowel pair `ou`
+- hihei (hey): consonant `h` + vowel `i` + consonant `h` + vowel pair `ei`
+- tatau (alas): consonant `t` + vowel `a` + consonant `t` + vowel pair `au`
 
 #### numbers
 
 ##### digits: `[F][V]`
 
-numbers in phi follow an `[F][V]` (fricative digraph + vowel) pattern for digits and a `[C][P]` (consonant + vowel pair) pattern for magnitudes. this ensures they are phonetically distinct, short, and easy to use for counting and quantification.
+numbers in phi follow an `[F][V]` (fricative digraph + vowel) pattern for digits and a `[F][V][F][V]` (fricative + vowel + fricative + vowel) pattern for magnitudes. this ensures they are phonetically distinct, appropriate in length for their importance, and easy to use for counting and quantification.
 
 examples of digits:
 - `phi` (one)
@@ -178,14 +178,14 @@ examples of digits:
 - `pho` (four)
 - `wha` (five)
 
-##### magnitudes: `[C][P]`
+##### magnitudes: `[F][V][F][V]`
 
-magnitude words follow the `[C][P]` pattern (consonant + vowel pair) and represent powers of ten in the decimal system. these are combined with digit words to form compound numbers following a consistent digit-magnitude sequence.
+magnitude words follow a two-syllable `[F][V][F][V]` pattern (fricative + vowel + fricative + vowel) and represent powers of ten in the decimal system. these are combined with digit words to form compound numbers following a consistent digit-magnitude sequence.
 
 examples of magnitudes:
-- `toa` (ten)
-- `nui` (hundred)
-- `lae` (thousand)
+- `phitha` (ten)
+- `shupho` (hundred)
+- `thuphi` (thousand)
 
 #### particles: `[C][V]`
 
@@ -208,7 +208,7 @@ the lexicon includes several functional categories:
    - comparison particles (pa "superlative", mo "comparative", sa "equality")
 
 3. **numbers**: foundational words for counting, following distinct phonotactic patterns.
-   - digits: `phi` (one), `whu` (two), `pho` (four), `wha` (five), `shu` (seven), `who` (eight)
-   - magnitudes: `toa` (ten), `nui` (hundred), `lae` (thousand)
+   - digits: `phi` (one), `whu` (two), `the` (three), `pho` (four), `wha` (five) - follow `[F][V]` pattern
+   - magnitudes: `phitha` (ten), `shupho` (hundred), `thuphi` (thousand) - follow `[F][V][F][V]` pattern
 
 this comprehensive lexicon represents phi's systematic approach to vocabulary, where form follows function and every word has its unique place in the language's grammatical ecosystem.

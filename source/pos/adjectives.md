@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi adjectives
 
-phi adjectives follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all adjectives in phi adhere to the structure 
-`[C][V][F][V]` where:
+all adjectives in phi adhere to the structure `[C][V][F][V]` where:
 
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - V = vowel (i, u, e, o, a)
@@ -62,7 +60,7 @@ speech has its own unique sound signature.
 | -------- | ------------------- |
 | lopha    | bent/curved         |
 | tesho    | complete            |
-| tupha    | cylindrical         |
+| matha    | cylindrical         |
 | papha    | deep                |
 | sipho    | dense/thick         |
 | miphe    | empty               |

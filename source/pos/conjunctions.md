@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi conjunctions
 
-phi conjunctions follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all conjunctions in phi adhere to the structure 
-`[C][V][C][V]` where:
+all conjunctions in phi adhere to the structure `[C][V][C][V]` where:
 
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - V = vowel (i, u, e, o, a)

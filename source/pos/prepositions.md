@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi prepositions
 
-phi prepositions follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all prepositions in phi adhere to the structure 
-`[F][P]` where:
+all prepositions in phi adhere to the structure `[F][P]` where:
 
 - F = fricative digraph (ph, wh, th, sh)
 - P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii)

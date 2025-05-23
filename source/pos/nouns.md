@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi nouns
 
-phi nouns follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all nouns in phi adhere to the structure 
-`[C/F][V/P][F][P]` where:
+all nouns in phi adhere to the structure `[C/F][V/P][F][P]` where:
 
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - F = fricative digraph (ph, wh, th, sh)

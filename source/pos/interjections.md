@@ -9,17 +9,17 @@ tags:
 
 ## introduction to phi interjections
 
-phi interjections follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all interjections in phi adhere to the structure 
-`[C][P]` where:
+all interjections in phi adhere to the structure `[C][V][C][P]` where:
 
+- C = consonant (h, l, m, n, p, r, s, t, w)
+- V = vowel (i, u, e, o, a)
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii, uu, etc.)
 
-this pattern creates words like `mia` (oh), `wou` (wow), and `hei` (hey), 
-which consist of a single consonant followed by a vowel pair. this gives interjections 
-a more expressive sound that's suitable for emotional expressions and makes them 
-immediately recognizable in speech.
+this pattern creates words like `mimia` (oh), `wowou` (wow), and `hihei` (hey), 
+which consist of a consonant-vowel syllable followed by a consonant and vowel pair. 
+this gives interjections a more expressive sound that's suitable for emotional 
+expressions and makes them immediately recognizable in speech.
 
 interjections serve to express strong emotions, reactions, or calls for attention. 
 their distinctive pattern creates an immediate phonological cue that helps listeners 
@@ -27,103 +27,105 @@ identify exclamatory functions in speech, even without explicit grammatical mark
 
 unlike other parts of speech in phi, interjections can stand alone as complete 
 utterances and are often accompanied by distinctive intonation patterns when spoken. 
-their simple, emotive structure makes them perfect for spontaneous expressions of 
+their unique phonological structure makes them perfect for spontaneous expressions of 
 feeling or reaction.
 
 ## expressions of emotion
 
 | phi word | english translation |
 | -------- | ------------------- |
-| mia      | oh                  |
-| wou      | wow                 |
-| hei      | hey                 |
-| tau      | alas                |
-| pai      | yay                 |
-| hou      | hooray              |
-| wae      | whoa                |
-| siu      | sigh                |
-| lao      | aah                 |
-| hue      | huh                 |
-| muo      | hmm                 |
-| pie      | phew                |
-| riu      | yikes               |
-| nia      | oh dear             |
-| woi      | oops                |
+| mimia    | oh                  |
+| wowou    | wow                 |
+| hihei    | hey                 |
+| tatau    | alas                |
+| papai    | yay                 |
+| hohou    | hooray              |
+| wawae    | whoa                |
+| sisiu    | sigh                |
+| lalao    | aah                 |
+| huhue    | huh                 |
+| mumuo    | hmm                 |
+| pipie    | phew                |
+| ririu    | yikes               |
+| ninia    | oh dear             |
+| wowoi    | oops                |
 
 ## attentional calls
 
 | phi word | english translation |
 | -------- | ------------------- |
-| hoi      | hello               |
-| pao      | goodbye             |
-| nea      | hey (attention)     |
-| tei      | listen              |
-| lue      | look                |
-| wia      | watch out           |
-| hao      | stop                |
+| hihoi    | hello               |
+| papao    | goodbye             |
+| nanea    | hey (attention)     |
+| tetei    | listen              |
+| lalue    | look                |
+| wiwia    | watch out           |
+| neneo    | stop                |
 
 ## responses
 
 | phi word | english translation |
 | -------- | ------------------- |
-| noe      | yes                 |
-| meu      | no                  |
-| tao      | thanks              |
-| sua      | please              |
-| lie      | sorry               |
-| rao      | you're welcome      |
-| wea      | agreed              |
-| niu      | never               |
-| hai      | of course           |
-| pui      | maybe               |
+| nonoe    | yes                 |
+| memeu    | no                  |
+| tatao    | thanks              |
+| sasua    | please              |
+| lilie    | sorry               |
+| rarao    | you're welcome      |
+| wawea    | agreed              |
+| niniu    | never               |
+| hahai    | of course           |
+| pupui    | maybe               |
 
 ## expressions of pain/discomfort
 
 | phi word | english translation |
 | -------- | ------------------- |
-| wai      | ouch                |
-| tou      | ow                  |
-| mae      | argh                |
-| hia      | ugh                 |
-| pea      | brrr (cold)         |
-| soa      | ack                 |
-| rue      | eek                 |
+| wawai    | ouch                |
+| totou    | ow                  |
+| mamae    | argh                |
+| hihia    | ugh                 |
+| pepea    | brrr (cold)         |
+| sosoa    | ack                 |
+| rurue    | eek                 |
 
 ## expressions of joy/pleasure
 
 | phi word | english translation |
 | -------- | ------------------- |
-| moi      | yum                 |
-| lae      | mmm                 |
-| sau      | sweet               |
-| rie      | haha                |
-| tia      | woohoo              |
-| poe      | hurray              |
-| nuo      | delightful          |
+| momoi    | yum                 |
+| momoe    | mmm                 |
+| sasau    | sweet               |
+| ririe    | haha                |
+| titia    | woohoo              |
+| popoe    | hurray              |
+| nunuo    | delightful          |
 
 ## hesitation/filler
 
 | phi word | english translation |
 | -------- | ------------------- |
-| mue      | um                  |
-| hoe      | er                  |
-| weo      | well                |
-| lia      | like                |
-| tue      | so                  |
-| sei      | anyway              |
-| nai      | you know            |
+| mumue    | um                  |
+| hohoe    | er                  |
+| weweo    | well                |
+| lilia    | like                |
+| tutue    | so                  |
+| sesei    | anyway              |
+| nanai    | you know            |
 
 ## remaining interjection count
 
-phi interjections follow the pattern `[C][P]` where:
+phi interjections follow the pattern `[C][V][C][P]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
 - C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
 - P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
   (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
 
-Total possible combinations = 9 × 20 = 180 interjections
+Total possible combinations = 9 × 5 × 9 × 20 = 8,100 interjections
 
 Currently defined interjections = 53 (15 expressions of emotion + 7 attentional calls + 
 10 responses + 7 expressions of pain/discomfort + 7 expressions of joy/pleasure + 
 7 hesitation/filler)
 
-Remaining available interjections = 127 
+Remaining available interjections = 8,047

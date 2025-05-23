@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi classifiers
 
-phi classifiers follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all classifiers in phi adhere to the structure 
-`[C][P]` where:
+all classifiers in phi adhere to the structure `[C][P]` where:
 
 - C = consonant (h, l, m, n, p, r, s, t, w)
 - P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii)
@@ -43,7 +41,7 @@ in phi, classifiers are placed between numbers and nouns:
 | whu rao thiphea      | two + CL.animal + animal   | two animals                   |
 | pho teo mophui       | four + CL.round + ball     | four balls                    |
 | shu sae noshea       | seven + CL.food + food     | seven food items              |
-| wha peu whoshia      | five + CL.vehicle + car    | five cars                     |
+| wha heu whoshia      | five + CL.vehicle + car    | five cars                     |
 | phi hau thaphea      | one + CL.human + woman     | one woman                     |
 | toa wou methuwa      | ten + CL.electronic + phone| ten phones                    |
 | whu toa piu taothea  | twenty + CL.bundle + flower| twenty bundles of flowers     |
@@ -63,7 +61,7 @@ uses `pio` for the rectangular shape of the book.
 | siu      | small objects (grains, beads, seeds)       |
 | pao      | pointed objects (knives, needles, spears)  |
 | roi      | flexible objects (ropes, vines, snakes)    |
-| siu      | hollow objects (tubes, pipes, bottles)     |
+| hao      | hollow objects (tubes, pipes, bottles)     |
 | weu      | container objects (bowls, cups, baskets)   |
 | pio      | rectangular objects (books, bricks, boxes) |
 
@@ -83,7 +81,7 @@ uses `pio` for the rectangular shape of the book.
 | phi word | english translation |
 | -------- | ------------------- |
 | neo      | buildings and structures                   |
-| peu      | vehicles and transportation                |
+| heu      | vehicles and transportation                |
 | sio      | tools and instruments                      |
 | wae      | clothing and wearable items                |
 | tuo      | written works and documents                |
@@ -97,8 +95,8 @@ uses `pio` for the rectangular shape of the book.
 | -------- | ------------------- |
 | pea      | places and locations                       |
 | tea      | time periods (days, months, years)         |
-| sae      | distances and measurements                 |
-| wou      | events and occurrences                     |
+| lio      | distances and measurements                 |
+| rae      | events and occurrences                     |
 | pau      | areas and regions                          |
 | tia      | paths and routes                           |
 
@@ -107,8 +105,8 @@ uses `pio` for the rectangular shape of the book.
 | phi word | english translation |
 | -------- | ------------------- |
 | leu      | ideas and concepts                         |
-| pai      | emotions and feelings                      |
-| teo      | social groups and organizations            |
+| mie      | emotions and feelings                      |
+| nua      | social groups and organizations            |
 | wie      | disciplines and fields of study            |
 | nou      | systems and processes                      |
 | tiu      | sounds and utterances                      |
@@ -117,10 +115,10 @@ uses `pio` for the rectangular shape of the book.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| peu      | pairs and couples                          |
+| tio      | pairs and couples                          |
 | tau      | groups and collections                     |
 | sou      | masses and uncountable substances          |
-| wiu      | portions and servings                      |
+| rio      | portions and servings                      |
 | piu      | bundles and packages                       |
 | toa      | layers and levels                          |
 

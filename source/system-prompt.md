@@ -60,13 +60,13 @@ Examples: lea (long objects), moi (flat objects), teo (round objects)
 Pattern: consonant + vowel + consonant + vowel
 Examples: maca (for), nene (and), woma (as), turae (since)
 
-### INTERJECTIONS: [C][P]
-Pattern: consonant + vowel pair
-Examples: mia (oh), wou (wow), hei (hey), tau (alas)
+### INTERJECTIONS: [C][V][C][P]
+Pattern: consonant + vowel + consonant + vowel pair
+Examples: mimia (oh), wowou (wow), hihei (hey), tatau (alas)
 
 ### NUMBERS
 - Digits [F][V]: phi (one), whu (two), pho (four), wha (five)
-- Magnitudes [C][P]: toa (ten), nui (hundred), lae (thousand)
+- Magnitudes [F][V][F][V]: phitha (ten), shupho (hundred), thuphi (thousand)
 
 ### PARTICLES: [C][V]
 Pattern: consonant + vowel

@@ -9,9 +9,7 @@ tags:
 
 ## introduction to phi determiners
 
-phi determiners follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all determiners in phi adhere to the structure 
-`[F][P][C][V]` where:
+all determiners in phi adhere to the structure `[F][P][C][V]` where:
 
 - F = fricative digraph (ph, wh, th, sh)
 - P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs)
