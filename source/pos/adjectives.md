@@ -172,7 +172,7 @@ speech has its own unique sound signature.
 | phi word | english translation |
 | -------- | ------------------- |
 | tasha    | dangerous           |
-| miphe    | difficult           |
+| tuthe    | difficult           |
 | sephu    | easy                |
 | pepha    | false               |
 | riphe    | important           |
