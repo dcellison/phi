@@ -56,7 +56,7 @@ mia li  nuthui phamo nene su  siwhea phose
 me  PST pebble like  and  FUT house  see
 I liked pebbles and will see houses
 
-thi mo  teshe phola tupo mia me  tapine  pheru
+thi mo  teshe phola tupo mia me  napine  whona
 you more good walk  but  me  NEG quickly look
 You walk better but I don't look quickly
 

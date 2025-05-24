@@ -134,7 +134,7 @@ spoken forms.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phiso    | add                 |
+| shepu    | add                 |
 | thuno    | break               |
 | phuni    | build               |
 | shuwa    | change              |
@@ -199,7 +199,7 @@ spoken forms.
 | thisi    | expect              |
 | shepi    | fail                |
 | thuli    | finish/complete     |
-| phemo    | prepare             |
+| thewo    | prepare             |
 | thoho    | reach               |
 | shari    | search              |
 | pheta    | start               |

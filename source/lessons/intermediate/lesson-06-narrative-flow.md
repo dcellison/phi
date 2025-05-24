@@ -124,8 +124,8 @@ thephoa phire wheisha shio raethea phano renu    mipho siwhea thue thephoa whiot
 person  want  water   from river   get   because blue  house  of   person  earth    need
 The person wants to get water from the river because the person's blue house needs earth
 
-huwa thephoa li  phela wetu me  wheisha phano
-so   person  PST plan  if   NEG water   get
+huwa thephoa li  phiso wetu me  wheisha phano
+so   person  PST decide if   NEG water   get
 So the person planned what if they don't get water
 ```
 
@@ -180,7 +180,7 @@ shuthai mipho nene hashe  liphai thue whiethea
 forest  blue  and  green  tree   of   bay
 the blue and green forest of trees by the bay
 
-wheo shuthai riwhea mo   pisha nene thoshea pa   mipha
+wheo shuthai riwhea mo   pushe nene thoshea pa   miphe
 at   forest  wind   more soft  and  light   most beautiful
 In the forest, the wind is softer and the light most beautiful
 
@@ -192,7 +192,7 @@ Good water flows from the bay through the river
 ### atmospheric details
 
 ```
-wane thiphoa ta  thuphea shiophea mo   pisha nene phaishoa wheo shuthai pharu  renu    lashea li  phala
+wane thiphoa ta  thuphea shiophea mo   pushe nene phaishoa wheo shuthai pharu  renu    lashea li  phala
 when morning TA  come    air      more soft  and  rainbow  at   forest  appear because rain   PST fall
 When morning comes, the air becomes softer and rainbows appear in the forest because rain fell
 
@@ -206,7 +206,7 @@ After the day, wind blows and trees move
 ### building logical sequences
 
 ```
-renu    thephoa li  hashe  nuthui phamo mia li  siwhea shio phola huwa mia li  wheisha phome mia su  mo   teshe phela
+renu    thephoa li  hashe  nuthui phamo mia li  siwhea shio phola huwa mia li  wheisha phome mia su  mo   teshe phewa
 because person  PST green  pebble like  me  PST house  from walk  so   me  PST water   drink me  FUT more good  feel
 Because the person liked green pebbles, I walked from the house, so I drank water and I will feel better
 
@@ -222,7 +222,7 @@ pimo   thephoa li  nuthui phamo mia li  phemo ha  thi teshe
 before person  PST pebble like  me  PST think TOP you good
 Before the person liked pebbles, I thought that you were good
 
-matu  phemo mia li  phela wa thi nuthui phamo
+matu  phemo mia li  phiso wa thi nuthui phamo
 after think me  PST plan  Q  you pebble like
 After thinking, I planned whether you like pebbles
 
@@ -240,11 +240,11 @@ li  thashoa thephoa wheo mipho siwhea phuwe renu    siwhea wheisha me  phera nen
 PST day     person  at   blue  house  sleep because house  water   NEG have  and  person  good  water   want
 One day, a person slept at a blue house because the house had no water and the person wanted good water
 
-lutane  thephoa li  thiphoa phola nene raethea phano phela
+lutane  thephoa li  thiphoa phola nene raethea phano phiso
 firstly person  PST morning walk  and  river   find  plan
 First, the person planned to walk in the morning and find a river
 
-wane thephoa li  shuthai wheo phola riwhea mo  pisha pheru nene hashe  liphai wheo phaishoa phose huwa mo   mipha     phela
+wane thephoa li  shuthai wheo phola riwhea mo  pisha phewa nene hashe  liphai wheo phaishoa phose huwa mo   mipha     phewa
 when person  PST forest  at   walk  wind   more soft  feel  and  green  tree   at   rainbow  see   so   more beautiful feel
 When the person walked in the forest, they felt softer wind and saw rainbows at green trees so they felt more beautiful
 
@@ -252,8 +252,8 @@ matu  phola thephoa li  raethea wheo teshe wheisha phose nene mo   tapine  phano
 after walk  person  PST river   at   good  water   see   and  more quickly get   and  house  at   bring
 After walking, the person saw good water at the river and got it more quickly and brought it to the house
 
-tumane  thephoa li  siwhea wheo wheisha phiso nene mo  teshe phela renu    phiato mo  teshe thashoa
-finally person  PST house  at   water   put   and  more good feel  because this   more good day
+tumane  thephoa li  siwhea wheo wheisha phiso nene mo  teshe phewa renu    phiato mo  teshe thashoa
+finally person  PST house  at   water   put   and  more good  feel  because this   more good  day
 Finally, the person put water at the house and felt better because this was a better day
 ```
 
@@ -330,4 +330,4 @@ in lesson 07, you'll learn:
 4. practice environmental descriptions using systematic vocabulary
 
 remember: phi's narrative power comes from systematic combination of simple,
-transparent elements. complex stories emerge from clear, predictable patterns! 
+transparent elements. complex stories emerge from clear, predictable patterns!
