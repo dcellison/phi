@@ -35,7 +35,7 @@ of speech principle.
 
 in phi, classifiers are placed between numbers and nouns:
 
-| phi example          | structure                  | english translation           |
+| phi example          | htructure | english translation            |
 | -------------------- | -------------------------- | ----------------------------- |
 | phi lea liphai       | one + CL.long + tree       | one tree                      |
 | whu rao thiphea      | two + CL.animal + animal   | two animals                   |
@@ -115,7 +115,7 @@ uses `pio` for the rectangular shape of the book.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| tio      | pairs and couples                          |
+| rua      | pairs and couples                          |
 | tau      | groups and collections                     |
 | sou      | masses and uncountable substances          |
 | rio      | portions and servings                      |

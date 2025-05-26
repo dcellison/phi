@@ -17,7 +17,7 @@ recognizable within the language. all verbs in phi adhere to the structure
 - V = vowel (i, u, e, o, a)
 - C = consonant (h, l, m, n, p, r, s, t, w)
 
-this pattern creates words like `phata` (answer), `thuri` (blow), and `whuna` (listen), 
+this pattern creates words like `shata` (answer), `thuri` (blow), and `whuna` (listen), 
 which always begin with a fricative digraph, followed by a vowel, then a consonant, 
 and ending with a vowel. this gives verbs a more utilitarian, direct sound while 
 maintaining phi's airy quality.
@@ -37,21 +37,21 @@ spoken forms.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phata    | answer/reply        |
-| thisa    | ask                 |
+| shata    | answer/reply        |
+| whisa | ask |
 | shuna    | call                |
 | pheno    | explain             |
 | whuna    | listen              |
 | phelu    | read aloud          |
-| thupi    | read silently       |
-| phare    | report              |
+| whupi | read silently |
+| share    | report              |
 | shuso    | say                 |
-| phemi    | speak               |
+| whemi | speak |
 | thate    | suggest             |
 | showa    | tell                |
 | whisi    | talk                |
-| phumo    | translate           |
-| phewu    | compose             |
+| whumo | translate |
+| shewu    | compose             |
 
 ## cognitive and mental verbs
 
@@ -59,75 +59,91 @@ spoken forms.
 | -------- | ------------------- |
 | sheli    | believe             |
 | thira    | consider            |
-| phiso    | decide              |
+| shiso    | decide              |
 | shetu    | doubt               |
 | phewa    | feel                |
 | whina    | find                |
-| phime    | forget              |
+| shime    | forget              |
 | thumo    | imagine             |
 | whipu    | know                |
-| phomo    | like                |
-| shote    | love (person)       |
+| whomo | like |
+| shotu | love (person)        |
 | whelu    | love (activity)     |
-| phene    | mean                |
+| phune | mean                 |
 | thume    | remember            |
 | shine    | seem                |
-| phemo    | think               |
+| whemo | think |
 | thupa    | trust               |
 | shule    | understand          |
-| phire    | want                |
+| shire | want |
 | shamo    | dream               |
 
 ## movement and position verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| pharu    | appear              |
+| sharu    | appear              |
 | shuto    | arrive              |
 | thuri    | blow                |
-| phero    | carry               |
+| shero    | carry               |
 | shune    | climb               |
-| phema    | come                |
+| whema | come |
 | thamo    | depart              |
-| phali    | fall                |
+| shali    | fall                |
 | themu    | follow              |
-| phawi    | fly                 |
+| whawi | fly |
 | sharo    | go                  |
-| thepi    | jump                |
-| phewi    | leave               |
+| whepi | jump |
+| shewi    | leave               |
 | whowe    | move                |
 | thesa    | pass by             |
-| phuma    | push                |
-| phete    | put                 |
+| shuma    | push                |
+| shute | put                  |
 | shomo    | raise               |
-| thumi    | run                 |
-| phesi    | set                 |
+| whumi | run |
+| shesi    | set                 |
 | theti    | stand               |
 | phite    | stay                |
 | shopo    | sit                 |
 | shuwi    | swim                |
-| phuwa    | throw               |
+| whuwa    | throw               |
 | shenu    | turn                |
-| phola    | walk                |
+| shola    | walk                |
 | whenu    | enter               |
-| phetu    | exit                |
+| thetu    | exit                |
+| whale    | flow                |
+| whame    | bend                |
+| whane    | twist               |
+| whape    | fold                |
+| whare    | stretch             |
+| whase    | compress            |
+| whate    | expand              |
+| whawe    | contract            |
+| whule | slide                |
+| whume | roll                 |
+| whune | spin                 |
+| whupe | rotate               |
+| whure | pivot                |
+| whuse | tilt                 |
+| whute | balance              |
+| whewe    | stabilize           |
 
 ## existence and state verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phahi    | become              |
+| whahi | become |
 | thihi    | be (exist)          |
 | phela    | die                 |
 | showi    | grow old            |
 | phuho    | happen              |
-| thuni    | have/possess        |
+| whuni | have/possess |
 | phera    | is (state)          |
 | shanu    | keep                |
 | phoni    | live                |
 | thewa    | remain              |
 | shesa    | rest                |
-| phuwe    | sleep               |
+| whuwe | sleep |
 | thuma    | wake                |
 
 ## creation and destruction verbs
@@ -135,102 +151,127 @@ spoken forms.
 | phi word | english translation |
 | -------- | ------------------- |
 | shepu    | add                 |
-| thuno    | break               |
-| phuni    | build               |
+| whuno | break |
+| shuni    | build               |
 | shuwa    | change              |
-| thusa    | close               |
-| phesa    | create              |
+| whusa | close |
+| whesa    | create              |
 | thura    | cut                 |
-| phoro    | destroy             |
-| thepa    | fix/repair          |
-| phemi    | hide                |
+| shoro    | destroy             |
+| whupa | fix/repair  |
+| whuro | hide |
 | thima    | include             |
 | sheho    | kill                |
-| thora    | open                |
-| phoru    | set fire            |
+| whora | open |
+| shoru    | set fire            |
 
 ## acquisition and exchange verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phimo    | allow               |
+| shimo    | allow               |
 | thupo    | borrow              |
-| phiho    | buy                 |
+| shiho    | buy                 |
 | shano    | get                 |
-| thiwo    | give                |
-| phasi    | hold                |
+| whiwo | give |
+| shasi    | hold                |
 | thare    | lend                |
-| phimi    | let                 |
-| thonu    | lose                |
-| phuwo    | offer               |
+| shimi    | let                 |
+| whonu | lose |
+| shuwo    | offer               |
 | thewu    | pay                 |
-| phiwe    | pull                |
+| shiwe    | pull                |
 | thotu    | provide             |
 | sheno    | receive             |
-| phume    | return              |
+| shume    | return              |
 | thore    | sell                |
-| phele    | send                |
+| shele    | send                |
 | thite    | serve               |
-| phate    | share               |
+| shate    | share               |
 | tharo    | steal               |
-| phita    | take                |
+| shita    | take                |
 
 ## sensory and perceptual verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phusa    | hear                |
+| shusa    | hear                |
 | whona    | look                |
-| phose    | see                 |
+| shose    | see                 |
 | sheta    | smell               |
-| phusi    | taste               |
+| shusi    | taste               |
 | thena    | touch               |
-| phosa    | watch               |
+| shosa    | watch               |
+
+## wave and energy verbs
+
+| phi word | english translation |
+| -------- | ------------------- |
+| while    | vibrate             |
+| whime    | oscillate           |
+| whine    | resonate            |
+| whipe    | echo                |
+| whire    | reflect             |
+| whise    | absorb              |
+| white    | emit                |
+| whiwe    | radiate             |
+
+## perception and clarity verbs
+
+| phi word | english translation |
+| -------- | ------------------- |
+| whole    | focus               |
+| whome    | blur                |
+| whone    | clarify             |
+| whope    | obscure             |
+| whore    | reveal              |
+| whose    | conceal             |
+| whote    | expose              |
 
 ## process and action verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phisa    | air out             |
+| shiha | air out              |
 | shona    | begin               |
-| phure    | bring               |
+| shure    | bring               |
 | theta    | continue            |
-| phawu    | do                  |
+| whawu | do |
 | thisi    | expect              |
 | shepi    | fail                |
-| thuli    | finish/complete     |
+| whuli | finish/complete |
 | thewo    | prepare             |
 | thoho    | reach               |
 | shari    | search              |
-| pheta    | start               |
+| wheta    | start               |
 | thamu    | spend               |
 | shosu    | stop                |
 | theri    | succeed             |
-| phena    | try                 |
+| whena    | try                 |
 | shiri    | utilize             |
-| pheso    | wait                |
+| sheso    | wait                |
 
 ## learning and social verbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phiwo    | befriend            |
+| whiwo | befriend |
 | shawu    | be born             |
 | thuwa    | fight               |
 | phura    | greet               |
 | shone    | help                |
 | phasu    | lead                |
 | whera    | learn               |
-| thumo    | marry               |
-| pheno    | meet                |
+| whoso    | marry               |
+| shelu    | meet                |
 | thami    | name                |
-| photo    | need                |
+| whoto | need |
 | whoha    | play                |
-| phopu    | play ball           |
+| whopu | play ball |
 | thero    | require             |
-| phari    | sing                |
+| whari | sing |
 | shema    | study               |
-| pheme    | teach               |
+| sheme | teach |
 | thaso    | thank               |
 
 ## transformation verbs
@@ -246,13 +287,13 @@ spoken forms.
 | phepa    | heal                |
 | thulo    | improve             |
 | phiro    | increase            |
-| shari    | make                |
-| phala    | rain                |
-| thita    | shine               |
+| shite    | make                |
+| thali    | remember            |
+| shapu    | squeeze             |
 | shatu    | show                |
 | phima    | win                 |
-| phuri    | work                |
-| phota    | document            |
+| whuri | work |
+| shota    | document            |
 
 ## remaining verb count
 
@@ -263,8 +304,9 @@ phi verbs follow the pattern `[F][V][C][V]` where:
 
 Total possible combinations = 4 × 5 × 9 × 5 = 900 verbs
 
-Currently defined verbs = 171 (15 communication + 20 cognitive + 29 movement + 
+Currently defined verbs = 202 (15 communication + 20 cognitive + 45 movement + 
 13 existence + 14 creation/destruction + 21 acquisition + 7 sensory + 
-18 process/action + 18 learning/social + 16 transformation)
+8 wave/energy + 7 perception/clarity + 18 process/action + 18 learning/social + 
+16 transformation)
 
-Remaining available verbs = 729
+Remaining available verbs = 698

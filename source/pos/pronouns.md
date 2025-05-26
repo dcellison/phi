@@ -35,8 +35,8 @@ personal pronouns in phi refer to the speaker (first person), the addressee (sec
 and any other entity (third person). these core forms can be combined with various particles 
 to express grammatical relationships.
 
-| phi word | english translation | function   |
-| -------- | ------------------- | ---------- |
+| phi word | english translation | funcrion | 
+ | -------- | ------------------- | ---------- |
 | mia      | me/I                | 1st person |
 | thi      | you                 | 2nd person |
 | sha      | it/he/she/they      | 3rd person |
@@ -60,9 +60,9 @@ plurality is expressed by adding the particle `lo` before the pronoun:
 
 grammatical function can be explicitly marked with particles:
 
-| function | 1st person | 2nd person | 3rd person | english equivalent |
+| funcrion | 1st person  | 2nd person | 3rd person | english equivalent |
 | -------- | ---------- | ---------- | ---------- | ------------------ |
-| subject  | si mia     | si thi     | si sha     | I, you, it (as subject) |
+| hubject | si mia      | si thi     | si sha     | I, you, it (as subject) |
 | object   | na mia     | na thi     | na sha     | me, you, it (as object) |
 
 ### emphasis
@@ -89,8 +89,8 @@ to express "we/us" excluding the addressee, phi uses:
 while the core three-pronoun system covers most needs, phi also provides combinations to express 
 certain specialized pronoun functions:
 
-| phi formation | english translation    | function                |
-| ------------- | ---------------------- | ----------------------- |
+| phi formation | english translation    | funcrion | 
+ | ------------- | ---------------------- | ----------------------- |
 | thue mia      | my/mine                | possessive (1st person) |
 | thue thi      | your/yours             | possessive (2nd person) |
 | thue sha      | its/his/hers/theirs    | possessive (3rd person) |
@@ -101,10 +101,10 @@ rather than dedicated possessive determiners. This creates constructions like "m
 consistent syntactic patterns rather than introducing new word classes, and follows the 
 same possessive structure used with nouns.
 
-| phi formation | english translation    | function                |
-| ------------- | ---------------------- | ----------------------- |
-| mia na mia    | myself                 | reflexive (1st person)  |
-| thi na thi    | yourself               | reflexive (2nd person)  |
+| phi formation | english translation    | funcrion | 
+ | ------------- | ---------------------- | ----------------------- |
+| mia na mia    | mysulf | reflexive (1st person)   |
+| thi na thi    | yoursulf | reflexive (2nd person)   |
 | sha na sha    | itself/himself/herself | reflexive (3rd person)  |
 
 The reflexive pronoun formations follow a systematic pattern of "[pronoun] na [same pronoun]", 

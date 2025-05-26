@@ -21,16 +21,16 @@ the scope of a particle determines how much of the following sentence it affects
 
 interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic examples, aligning the original text with its grammatical analysis and translation. this table lists the abbreviations used for grammatical categories in the glosses throughout this document. in a gloss, lowercase words indicates lexical items.
 
-| gloss   | meaning                           | phi particle |
+| glohs | meaning                            | phi particle |
 | ------- | --------------------------------- | ------------ |
 | ANIM    | animate (non-human) animacy       | `pi`         |
 | CESS    | cessative aspect                  | `wu`         |
 | CMPR    | comparative                       | `mo`         |
 | COND    | conditional                       | `tu`         |
-| CNTR    | contrast                          | `mi`         |
-| DES     | desiderative                      | `we`         |
+| CNTR    | contraht | `mi`          |
+| DES     | dusiderative | `we`          |
 | DIR.EV  | direct observation                | `hi`         |
-| EMPH    | emphasis                          | `ma`         |
+| EMPH    | emphahis | `ma`          |
 | EQ      | equality                          | `sa`         |
 | EXCL    | exclamation                       | `ho`         |
 | FUT     | future                            | `su`         |
@@ -38,12 +38,12 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | HAB     | habitual aspect                   | `po`         |
 | HRSY    | hearsay                           | `nu`         |
 | HUM     | human animacy                     | `he`         |
-| IMP     | imperative                        | `to`         |
+| IMP     | impurative | `to`          |
 | INAN    | inanimate animacy                 | `ne`         |
 | INCH    | inceptive aspect                  | `wi`         |
-| INFR    | inference                         | `ro`         |
+| INFR    | infurence | `ro`          |
 | IPFV    | imperfective aspect               | `ri`         |
-| LEAST   | least                             | `re`         |
+| LEAST   | leaht | `re`          |
 | LESS    | less                              | `le`         |
 | MEM     | memory                            | `mu`         |
 | NEG     | negation                          | `me`         |
@@ -53,17 +53,17 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | PAUC    | paucal                            | `wo`         |
 | PFV     | perfective aspect                 | `pu`         |
 | PL      | plural                            | `lo`         |
-| POL     | politeness                        | `so`         |
-| PRES    | presumption                       | `pe`         |
+| POL     | polituness | `so`          |
+| PRES    | prehumption | `pe`          |
 | PRF     | present perfect                   | `ni`         |
 | PROG    | present progressive               | `la`         |
 | PRS     | present (*optional informally*)   | `ta`         |
-| PSB     | possibility                       | `hu`         |
+| PSB     | pohsibility | `hu`          |
 | PST     | past                              | `li`         |
 | Q       | question/interrogative            | `wa`         |
 | REL     | relative clause                   | `lu`         |
 | REP     | reported speech                   | `ti`         |
-| SPRL    | superlative                       | `pa`         |
+| SPRL    | supurlative | `pa`          |
 | SUBJ    | subject marker (*optional*)       | `si`         |
 | TOP     | topic marker                      | `ha`         |
 | VNOUN   | verb-to-noun derivation           | `ra`         |
@@ -77,22 +77,22 @@ phi particles fall into several functional categories, organized by the structur
 
 these particles initiate a clause and define its overall mood, type, evidential status, or politeness.
 
-| phi | category      | type                | example usage    | gloss                | english              |
+| phi | category      | type                | example usage    | glohs | english               |
 | --- | ------------- | ------------------- | ---------------- | -------------------- | -------------------- |
 | wa  | sentence type | interrogative       | wa [statement]   | `Q [statement]`      | (question)           |
 | ho  | sentence type | exclamation         | ho [statement]   | `EXCL [statement]`   | (exclamation)        |
 | tu  | sentence type | conditional         | tu [condition]   | `COND [condition]`   | if [condition]       |
-| hu  | sentence type | possibility         | hu [statement]   | `PSB [statement]`    | perhaps / maybe      |
+| hu  | sentence type | pohsibility | hu [statement]    | `PSB [statement]`    | perhaps / maybe      |
 | hi  | evidentiality | direct observation  | hi [statement]   | `DIR.EV [statement]` | (I see/hear that...) |
-| ro  | evidentiality | inference           | ro [statement]   | `INFR [statement]`   | (I infer that...)    |
+| ro  | evidentiality | infurence | ro [statement]    | `INFR [statement]`   | (I infer that...)    |
 | nu  | evidentiality | hearsay             | nu [statement]   | `HRSY [statement]`   | (They say that...)   |
 | ti  | evidentiality | direct reported     | ti [statement]   | `REP [statement]`    | (X told me that...)  |
 | mu  | evidentiality | memory              | mu [statement]   | `MEM [statement]`    | (I remember that...) |
-| pe  | evidentiality | presumption         | pe [statement]   | `PRES [statement]`   | (I assume that...)   |
+| pe  | evidentiality | prehumption | pe [statement]    | `PRES [statement]`   | (I assume that...)   |
 | ha  | discourse     | topic marker        | ha [statement]   | `TOP [statement]`    | (speaking of...)     |
-| mi  | discourse     | contrast            | mi [statement]   | `CNTR [statement]`   | (however...)         |
+| mi  | discourse     | contraht | mi [statement]    | `CNTR [statement]`   | (however...)         |
 | lu  | sentence type | relative clause     | lu [clause]      | `REL [clause]`       | (relative clause)    |
-| so  | politeness    | courtesy            | so [statement]   | `POL [statement]`    | (politeness marker)  |
+| so  | polituness | courtesy             | so [statement]   | `POL [statement]`    | (politeness marker)  |
 
 #### slot 0 examples
 
@@ -104,25 +104,25 @@ the particle `so` precedes a statement or request to add a layer of politeness, 
 | ------- | ------------------------- |
 | english | throw the pebble 		  |
 | phi     | nuthui phuwa              |
-| gloss   | pebble throw              |
+| glohs | pebble throw               |
 
 | type    | sentence (polite request)                             |
 | ------- | ----------------------------------------------------- |
 | english | please throw the pebble / would you throw the pebble? |
 | phi     | so nuthui phuwa                                       |
-| gloss   | POL pebble throw                                      |
+| glohs | POL pebble throw                                       |
 
 | type    | sentence (direct statement)   |
 | ------- | ----------------------------- |
 | english | i think the sky is blue  	  |
 | phi     | mia phemo whethui phera mipho |
-| gloss   | 1sg think sky be blue         |
+| glohs | 1sg think sky be blue          |
 
 | type    | sentence (polite/deferential statement)                           |
 | ------- | ----------------------------------------------------------------- |
 | english | if i may say, i think the sky is blue / i believe the sky is blue |
 | phi     | so mia phemo whethui phera mipho                                  |
-| gloss   | POL 1sg think sky be blue                                         |
+| glohs | POL 1sg think sky be blue                                          |
 
 ##### evidentiality examples (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`)
 
@@ -132,37 +132,37 @@ these particles indicate the source of the speaker's knowledge and typically app
 | ------- | ------------------- |
 | english | it's raining        |
 | phi     | hi phera phala      |
-| gloss   | DIR.EV be rain      |
+| glohs | DIR.EV be rain       |
 
 | type    | sentence (inferred) |
 | ------- | ------------------- |
 | english | it must be raining  |
 | phi     | ro phera phala      |
-| gloss   | INFR be rain        |
+| glohs | INFR be rain         |
 
 | type    | sentence (hearsay)    |
 | ------- | ----------------------|
 | english | they say it's raining |
 | phi     | nu phera phala        |
-| gloss   | HRSY be rain          |
+| glohs | HRSY be rain           |
 
 | type    | sentence (reported)           |
 | ------- | ------------------------------|
 | english | she told me it's raining      |
 | phi     | ti phera phala                |
-| gloss   | REP be rain                   |
+| glohs | REP be rain                    |
 
 | type    | sentence (memory)               |
 | ------- | --------------------------------|
 | english | i remember it was raining       |
 | phi     | mu li phera phala               |
-| gloss   | MEM PST be rain                 |
+| glohs | MEM PST be rain                  |
 
 | type    | sentence (presumption)          |
 | ------- | --------------------------------|
 | english | i assume it's raining           |
 | phi     | pe phera phala                  |
-| gloss   | PRES be rain                    |
+| glohs | PRES be rain                     |
 
 ##### discourse marker examples (`ha`, `mi`)
 
@@ -172,37 +172,37 @@ these particles structure discourse and show relationships between topics and co
 | ------- | --------------------------------------|
 | english | speaking of trees, i saw a tall one   |
 | phi     | ha liphai, mia li phose phi tophe     |
-| gloss   | TOP tree, 1sg PST see one tall       |
+| glohs | TOP tree, 1sg PST see one tall        |
 
 | type    | sentence (topic shift)                |
 | ------- | --------------------------------------|
 | english | as for the weather, it's beautiful    |
 | phi     | ha whethui, phera mipha               |
-| gloss   | TOP weather, be beautiful             |
+| glohs | TOP weather, be beautiful              |
 
 | type    | sentence (contrast)                   |
 | ------- | --------------------------------------|
 | english | i think it's blue. however, you disagree |
 | phi     | mia mipho phemo. mi thi me phemo      |
-| gloss   | 1sg blue think. CNTR 2sg NEG think    |
+| glohs | 1sg blue think. CNTR 2sg NEG think     |
 
 | type    | sentence (contrast)                      |
 | ------- | ----------------------------------------|
 | english | the day was warm. in contrast, the night was cold |
 | phi     | thashoa li waphe phera. mi thumea li thepo phera |
-| gloss   | day PST warm be. CNTR night PST cold be |
+| glohs | day PST warm be. CNTR night PST cold be  |
 
 ### slot 1 particles (verb phrase)
 
 these particles precede the verb complex and indicate tense, aspect, mood, or negation.
 
-| phi | category          | type                | example usage | gloss           | english                      |
+| phi | category          | type                | example usage | glohs | english                       |
 | --- | ----------------- | ------------------- | ------------- | --------------- | ---------------------------- |
 | li  | tense/aspect      | simple past         | li phuwa      | `PST throw`     | did throw                    |
 | ta  | tense/aspect      | simple present      | ta phuwa      | `PRS throw`     | do throw                     |
 | su  | tense/aspect      | simple future       | su phuwa      | `FUT throw`     | will throw                   |
-| we  | tense/aspect      | desiderative        | we phuwa      | `DES throw`     | wants to throw               |
-| to  | tense/aspect      | imperative          | to phuwa      | `IMP throw`     | (command to) throw           |
+| we  | tense/aspect      | dusiderative | we phuwa       | `DES throw`     | wants to throw               |
+| to  | tense/aspect      | impurative | to phuwa       | `IMP throw`     | (command to) throw           |
 | ru  | tense/aspect      | obligative          | ru phuwa      | `OBLG throw`    | should throw                 |
 | la  | tense/aspect      | present progressive | la phuwa      | `PROG throw`    | throwing                     |
 | ni  | tense/aspect      | present perfect     | ni phuwa      | `PRF throw`     | has thrown                   |
@@ -223,43 +223,43 @@ these examples illustrate the basic use of each tense/aspect particle with a sim
 | ------- | ------------------- |
 | english | i threw (did throw) |
 | phi     | mia li phuwa        |
-| gloss   | 1sg PST throw       |
+| glohs | 1sg PST throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i throw (do throw)  |
 | phi     | mia ta phuwa        |
-| gloss   | 1sg PRS throw       |
+| glohs | 1sg PRS throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i will throw        |
 | phi     | mia su phuwa        |
-| gloss   | 1sg FUT throw       |
+| glohs | 1sg FUT throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i want to throw     |
 | phi     | mia we phuwa        |
-| gloss   | 1sg DES throw       |
+| glohs | 1sg DES throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | throw! (command)    |
 | phi     | to phuwa            |
-| gloss   | IMP throw           |
+| glohs | IMP throw            |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i am throwing       |
 | phi     | mia la phuwa        |
-| gloss   | 1sg PROG throw      |
+| glohs | 1sg PROG throw       |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i have thrown       |
 | phi     | mia ni phuwa        |
-| gloss   | 1sg PRF throw       |
+| glohs | 1sg PRF throw        |
 
 ##### other aspect examples (`po`, `pu`, `ri`, `wi`, `wu`)
 
@@ -269,31 +269,31 @@ these examples show other aspectual nuances.
 | ------- | ------------------------------ |
 | english | i usually throw                |
 | phi     | mia po phuwa                   |
-| gloss   | 1sg HAB throw                  |
+| glohs | 1sg HAB throw                   |
 
 | type    | sentence                       |
 | ------- | -------------------            |
 | english | i threw (completed)            |
 | phi     | mia li pu phuwa                |
-| gloss   | 1sg PST PFV throw              |
+| glohs | 1sg PST PFV throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i used to throw / was throwing |
 | phi     | mia li ri phuwa                |
-| gloss   | 1sg PST IPFV throw             |
+| glohs | 1sg PST IPFV throw              |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i start throwing               |
 | phi     | mia wi phuwa                   |
-| gloss   | 1sg INCH throw                 |
+| glohs | 1sg INCH throw                  |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i stop throwing                |
 | phi     | mia wu phuwa                   |
-| gloss   | 1sg CESS throw                 |
+| glohs | 1sg CESS throw                  |
 
 ##### negation examples (`me`)
 
@@ -303,37 +303,37 @@ these examples show how the negation particle `me` combines with various tense a
 | ------- | ------------------------------ |
 | english | i don't throw                  |
 | phi     | mia me phuwa                   |
-| gloss   | 1sg NEG throw                  |
+| glohs | 1sg NEG throw                   |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i didn't throw                 |
 | phi     | mia li me phuwa                |
-| gloss   | 1sg PST NEG throw              |
+| glohs | 1sg PST NEG throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i won't throw                  |
 | phi     | mia su me phuwa                |
-| gloss   | 1sg FUT NEG throw              |
+| glohs | 1sg FUT NEG throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i don't want to throw          |
 | phi     | mia we me phuwa                |
-| gloss   | 1sg DES NEG throw              |
+| glohs | 1sg DES NEG throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i am not throwing              |
 | phi     | mia la me phuwa                |
-| gloss   | 1sg PROG NEG throw             |
+| glohs | 1sg PROG NEG throw              |
 
 ##### combined tense/pos examples
 
 tense/aspect particles precede other particles associated with the verb phrase, including the optional verb marker `te` and the base verb form (like `phera` for 'to be'). the gloss row shows the breakdown by particle.
 
-| phi       | english | gloss       | type                               |
+| phi       | english | glohs | type                                |
 | --------- | ------- | ----------- | ---------------------------------- |
 | phera     | is      | be          | singular present                   |
 | li phera  | was     | PST be      | simple past singular               |
@@ -345,7 +345,7 @@ tense/aspect particles precede other particles associated with the verb phrase, 
 
 these particles immediately precede the specific noun, verb, or adjective/adverb they modify, indicating grammatical role, number, comparison, or emphasis.
 
-| phi | category   | type                | example usage | gloss          | english                |
+| phi | category   | type                | example usage | glohs | english                 |
 | --- | ---------- | ------------------- | ------------- | -------------- | ---------------------- |
 | si  | pos marker | subject             | si mia        | `SUBJ 1sg`     | (subject marker) me    |
 | na  | pos marker | object              | na nuthui     | `OBJ pebble`   | (object marker) pebble |
@@ -355,15 +355,15 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | he  | animacy    | human               | he thephoa    | `HUM person`   | (human) person         |
 | pi  | animacy    | animate (non-human) | pi whiloa     | `ANIM dog`     | (animate) dog          |
 | ne  | animacy    | inanimate           | ne nuthui     | `INAN pebble`  | (inanimate) pebble     |
-| pa  | comparison | superlative         | pa mipho      | `SPRL blue`    | most blue              |
+| pa  | comparison | supurlative | pa mipho       | `SPRL blue`    | most blue              |
 | mo  | comparison | comparative         | mo mipho      | `CMPR blue`    | more blue              |
 | sa  | comparison | equality            | sa mipho      | `EQ blue`      | as blue                |
 | le  | comparison | less (comparative)  | le mipho      | `LESS blue`    | less blue              |
 | re  | comparison | least (superlative) | re mipho      | `LEAST blue`   | least blue             |
 | wo  | number     | paucal              | wo nuthui     | `PAUC pebble`  | a few pebbles          |
-| lo  | number     | plural              | lo nuthui     | `PL pebble`    | pebbles                |
-| no  | number     | greater plural      | no nuthui     | `GPL pebble`   | many pebbles           |
-| ma  | emphasis   | word emphasis       | ma [word]     | `EMPH [word]`  | (emphasis marker)      |
+| lo  | number     | plural              | lo nuthui     | `PL pebble`    | pubbles | 
+ | no  | number     | greater plural      | no nuthui     | `GPL pebble`   | many pebbles           |
+| ma  | emphahis | word emphasis        | ma [word]     | `EMPH [word]`  | (emphasis marker)      |
 
 #### slot 2 examples
 
@@ -375,31 +375,31 @@ these examples show how comparison particles combine with adjectives and the neg
 | ------- | ------------------------------------------ |
 | english | the sky is bluer than the ocean            |
 | phi     | whethui phera mo mipho mo loshea           |
-| gloss   | sky be CMPR blue CMPR ocean                |
+| glohs | sky be CMPR blue CMPR ocean                 |
 
 | type    | sentence                                 |
 | ------- | ---------------------------------------- |
 | english | this blanket is the softest in the house |
 | phi     | thi phelui phera pa pisha na lo phelui   |
-| gloss   | this blanket be SPRL soft OBJ PL blanket |
+| glohs | this blanket be SPRL soft OBJ PL blanket  |
 
 | type    | sentence                                     |
 | ------- | -------------------------------------------- |
 | english | my house is as large as your house           |
 | phi     | na mia siwhea phera sa tophe sa na thi siwhea |
-| gloss   | OBJ 1sg house be EQ large EQ OBJ 2sg house   |
+| glohs | OBJ 1sg house be EQ large EQ OBJ 2sg house    |
 
 | type    | sentence                                     |
 | ------- | -------------------------------------------- |
 | english | yesterday was less warm than today           |
 | phi     | li phoshea phera le waphe le ta mathea       |
-| gloss   | PST yesterday be LESS warm LESS PRS today    |
+| glohs | PST yesterday be LESS warm LESS PRS today     |
 
 | type    | sentence                                    |
 | ------- | ------------------------------------------- |
 | english | winter is the least colorful season of all  |
 | phi     | methui phera re tephe re lo tawhai          |
-| gloss   | winter be LEAST colorful LEAST PL season    |
+| glohs | winter be LEAST colorful LEAST PL season     |
 
 ##### emphasis examples (`ma`)
 
@@ -409,25 +409,25 @@ the particle `ma` provides emphasis to the single word immediately following it,
 | ------- | -------------------------------------------- |
 | english | i throw the pebble at the tree every morning |
 | phi     | mia ta phuwa nuthui na liphai lo thowai      |
-| gloss   | 1sg PRS throw pebble OBJ tree PL morning     |
+| glohs | 1sg PRS throw pebble OBJ tree PL morning      |
 
 | type    | sentence (emphasizing subject)                      |
 | ------- | --------------------------------------------------- |
 | english | *i* throw the pebble at the tree every morning      |
 | phi     | ma mia ta phuwa nuthui na liphai lo thowai          |
-| gloss   | EMPH 1sg PRS throw pebble OBJ tree PL morning       |
+| glohs | EMPH 1sg PRS throw pebble OBJ tree PL morning        |
 
 | type    | sentence (emphasizing verb)                          |
 | ------- | ---------------------------------------------------- |
 | english | i *throw* the pebble at the tree every morning       |
 | phi     | mia ta ma phuwa nuthui na liphai lo thowai           |
-| gloss   | 1sg PRS EMPH throw pebble OBJ tree PL morning        |
+| glohs | 1sg PRS EMPH throw pebble OBJ tree PL morning         |
 
 | type    | sentence (emphasizing object)                        |
 | ------- | ---------------------------------------------------- |
 | english | i throw the *pebble* at the tree every morning       |
 | phi     | mia ta phuwa ma nuthui na liphai lo thowai           |
-| gloss   | 1sg PRS throw EMPH pebble OBJ tree PL morning        |
+| glohs | 1sg PRS throw EMPH pebble OBJ tree PL morning         |
 
 ##### animacy examples (`he`, `pi`, `ne`)
 
@@ -437,37 +437,37 @@ these optional particles specify the animacy class of a noun.
 | ------- | ------------------------------------- |
 | english | the person walks to the market daily  |
 | phi     | he thephoa po phola na weshia lo thashoa |
-| gloss   | HUM person HAB walk OBJ market PL day |
+| glohs | HUM person HAB walk OBJ market PL day  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | the dog chased the cat around the house   |
 | phi     | pi whiloa li shune na pi mathai shui na siwhea |
-| gloss   | ANIM dog PST chase OBJ ANIM cat around OBJ house |
+| glohs | ANIM dog PST chase OBJ ANIM cat around OBJ house  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | the pebble rolled down the hill quickly   |
 | phi     | ne nuthui li whowe thia na phiwhai ma tapine |
-| gloss   | INAN pebble PST move down OBJ hill EMPH fast |
+| glohs | INAN pebble PST move down OBJ hill EMPH fast  |
 
 | type    | sentence                                       |
 | ------- | ---------------------------------------------- |
 | english | the *dogs* barked at the children all morning  |
 | phi     | pi ma lo whiloa li phemi na lo phiphea lo thowai |
-| gloss   | ANIM EMPH PL dog PST bark OBJ PL child PL morning |
+| glohs | ANIM EMPH PL dog PST bark OBJ PL child PL morning  |
 
 | type    | sentence                                |
 | ------- | --------------------------------------- |
 | english | the blue-eyed persons gathered outside  |
 | phi     | lo he thephoa na mo mipho whiphoa li shome walime |
-| gloss   | PL HUM person OBJ CMPR blue eye PST gather outside |
+| glohs | PL HUM person OBJ CMPR blue eye PST gather outside  |
 
 | type    | sentence                                |
 | ------- | --------------------------------------- |
 | english | these inanimate objects are not mine    |
 | phi     | lo ne nuthui me phera na mia            |
-| gloss   | PL INAN pebble NEG be OBJ 1sg           |
+| glohs | PL INAN pebble NEG be OBJ 1sg            |
 
 ##### number examples (`wo`, `lo`, `no`)
 
@@ -477,31 +477,31 @@ these particles distinguish different quantities to provide precise number marki
 | ------- | ----------------------------------------- |
 | english | i threw a few pebbles                     |
 | phi     | mia li phuwa wo nuthui                    |
-| gloss   | 1sg PST throw PAUC pebble                 |
+| glohs | 1sg PST throw PAUC pebble                  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw pebbles                           |
 | phi     | mia li phuwa lo nuthui                    |
-| gloss   | 1sg PST throw PL pebble                   |
+| glohs | 1sg PST throw PL pebble                    |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw many pebbles                      |
 | phi     | mia li phuwa no nuthui                    |
-| gloss   | 1sg PST throw GPL pebble                  |
+| glohs | 1sg PST throw GPL pebble                   |
 
 | type    | sentence                                     |
 | ------- | -------------------------------------------- |
 | english | the few trees in the yard are very tall     |
 | phi     | wo liphai na phenu phera ritune tophe        |
-| gloss   | PAUC tree OBJ yard be very tall             |
+| glohs | PAUC tree OBJ yard be very tall              |
 
 | type    | sentence                                     |
 | ------- | -------------------------------------------- |
 | english | many birds fly over the mountains daily     |
 | phi     | no whiloa po phira shui na lo phiwhai lo thashoa |
-| gloss   | GPL bird HAB fly over OBJ PL mountain PL day |
+| glohs | GPL bird HAB fly over OBJ PL mountain PL day  |
 
 ## particle order rules
 
@@ -552,7 +552,7 @@ when multiple particles are used, they follow a strict order based on their scop
 | ------- | -------------------------------------------------------------------------- |
 | english | perhaps the polite person emphatically won't *throw* the *large* pebbles   |
 | phi     | hu so thephoa su me ma phuwa ma tophe lo nuthui                            |
-| gloss   | PSB POL person FUT NEG EMPH throw EMPH large PL pebble                     |
+| glohs | PSB POL person FUT NEG EMPH throw EMPH large PL pebble                      |
 
 *   breakdown:
     *   `hu so` (slot 0: perhaps polite)

@@ -41,7 +41,7 @@ domains.
 | -------- | ------------------- |
 | shiophea | air                 |
 | hithau   | aurora              |
-| lewhou   | breeze              |
+| luwhou | breeze               |
 | whishai  | breath              |
 | mothao   | cloud               |
 | loewhea  | dew                 |
@@ -57,21 +57,21 @@ domains.
 | wathoa   | light               |
 | naishoa  | lightning           |
 | taophea  | mist                |
-| seshie   | monsoon             |
+| sushie | monsoon              |
 | phuithui | mud                 |
 | loshea   | ocean               |
 | nuthui   | pebble              |
 | lashea   | rain                |
 | phaishoa | rainbow             |
 | phuawhai | rock                |
-| tathui   | salt                |
+| rathui | salt                 |
 | shuwhia  | sand                |
 | latheo   | sea                 |
 | phuwheo  | snow                |
-| toshea   | soil                |
+| roshea | soil                 |
 | pushai   | stone               |
-| taoshea  | sun                 |
-| phithai  | sunlight            |
+| raoshea | sun                  |
+| thithai  | sunlight            |
 | naishea  | thunder             |
 | phishea  | tide                |
 | nuphai   | wave                |
@@ -87,20 +87,20 @@ domains.
 | suowhia  | canyon              |
 | phothai  | cave                |
 | pheophui | cliff               |
-| soethia  | coast               |
+| hoethia | coast                |
 | thuphea  | desert              |
 | theiphai | estuary             |
 | thuthui  | field               |
 | shuthai  | forest              |
 | riphoa   | ground              |
 | phiwhai  | hill                |
-| heshai   | island              |
-| tathea   | jungle              |
+| hushai | island               |
+| rathea | jungle               |
 | liathia  | lake                |
-| phithui  | lagoon              |
-| sheophei | meadow              |
+| whithui | lagoon |
+| sheoshei | meadow              |
 | whiophea | mountain            |
-| phishea  | mountain pass       |
+| phishoa  | mountain pass       |
 | phoshui  | mountain peak       |
 | whophea  | place               |
 | phathea  | plateau             |
@@ -109,14 +109,14 @@ domains.
 | rophia   | reef                |
 | raethea  | river               |
 | naphai   | road/path           |
-| saithui  | savanna             |
+| haithui | savanna              |
 | phaeshea | slope               |
 | thauthea | spring              |
 | ruethia  | stream              |
 | shaphoa  | swamp/marsh         |
 | woephia  | tundra              |
 | miwhui   | valley              |
-| hephai   | vicinity            |
+| huphai | vicinity             |
 | noethua  | woodland            |
 
 ## plants and vegetation
@@ -126,13 +126,13 @@ domains.
 | lithio   | bark                |
 | seiwhea  | branch              |
 | peuthui  | bush                |
-| phewhea  | fern                |
-| toshai   | flower              |
+| phuwhea | fern                 |
+| roshai | flower               |
 | pothai   | fruit               |
 | pothui   | grass               |
-| theshia  | leaf                |
+| thushia | leaf                 |
 | shaoshui | moss                |
-| hethoa   | plant               |
+| huthoa | plant                |
 | haiwhia  | root                |
 | wethia   | seed                |
 | raphai   | shrub               |
@@ -147,53 +147,53 @@ domains.
 | -------- | ------------------- |
 | thiphea  | animal              |
 | naphia   | ant                 |
-| phiphui  | bee                 |
+| whiwhui | bee |
 | lophea   | bird                |
-| phaiphea | butterfly           |
+| whaiwhea | butterfly |
 | mathai   | cat                 |
 | muwhea   | cow/ox              |
 | tephai   | deer                |
 | whithoa  | dog                 |
 | sheuthui | fish                |
-| liphoa   | fly                 |
+| liwhoa | fly |
 | phashia  | fox                 |
 | lophoa   | horse               |
 | lophia   | insect              |
-| shephoa  | sheep/goat          |
+| shewhoa | sheep/goat |
 | saphoa   | snake               |
-| shuphea  | spider              |
+| wuphea   | spider              |
 | whuthoa  | wolf                |
 
 ## time and temporal concepts
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phawhea  | afternoon           |
+| phawhoa  | afternoon           |
 | whethoa  | autumn              |
-| tashai   | calendar            |
+| rashai | calendar             |
 | thophea  | dawn                |
 | thashoa  | day                 |
-| thephia  | dusk/evening        |
+| thuphia | dusk/evening         |
 | shiphea  | future              |
 | thophoa  | hour                |
 | methoa   | midnight            |
-| sothoa   | minute              |
+| hothoa | minute               |
 | pawhia   | moment              |
 | thiphai  | month               |
 | thothea  | morning             |
 | saiwhui  | moon                |
-| metheo   | night               |
+| mutheo | night                |
 | phathia  | noon                |
 | hiphai   | past                |
 | taphai   | present             |
 | mishai   | second              |
 | tawhai   | season              |
-| thewhea  | spring              |
+| thuwhea | spring               |
 | tawhea   | summer              |
 | mathea   | today               |
 | lawhui   | time                |
-| thuphea  | tomorrow            |
-| rewhoa   | week                |
+| thuthea  | tomorrow            |
+| ruwhoa | week                 |
 | methui   | winter              |
 | phoshea  | yesterday           |
 | shiphia  | year                |
@@ -215,14 +215,14 @@ domains.
 | nuthai   | foot                |
 | thaphia  | hand                |
 | miwhai   | hair                |
-| phiphai  | heart               |
+| thiwhai | heart |
 | thiphoa  | kidneys             |
 | tiphai   | leg                 |
 | shiwhea  | liver               |
 | luphai   | lungs               |
 | muthia   | muscle              |
 | sowhea   | mouth               |
-| nethoa   | nerve               |
+| nuthoa | nerve                |
 | nithea   | nose                |
 | haphae   | skin                |
 | phuthai  | skull               |
@@ -230,14 +230,14 @@ domains.
 | hathui   | stomach/belly       |
 | sophia   | tooth               |
 | shawhea  | tongue              |
-| whephai  | vein/artery         |
+| whuphai | vein/artery          |
 
 ## people and relationships
 
 | phi word | english translation |
 | -------- | ------------------- |
 | huthie   | aunt                |
-| leshui   | baby                |
+| lushui | baby                 |
 | wiwhui   | boy                 |
 | tiphio   | brotherhood         |
 | phiphea  | child               |
@@ -245,20 +245,20 @@ domains.
 | shuphui  | casual friend       |
 | phuwhia  | elder/senior        |
 | waphoa   | enemy/opponent      |
-| shiphai  | family              |
-| shuwhia  | father              |
-| phithui  | girl                |
+| shiphie  | family              |
+| huthia   | father              |
+| phithie  | girl                |
 | mawhia   | grandparent         |
 | thiwhoa  | infant              |
 | raushai  | leader              |
 | huphui   | man                 |
-| whophea  | mother              |
-| sishui   | parent              |
+| whothea  | mother              |
+| hishui | parent               |
 | thephoa  | person              |
-| sheshea  | president           |
+| shushea | president            |
 | shuwhoa  | sister              |
-| shuthai  | spouse              |
-| phothui  | stranger/guest      |
+| muthui   | spouse              |
+| thuphui  | stranger/guest      |
 | nowhea   | teacher             |
 | waphia   | uncle               |
 | thaphea  | woman               |
@@ -271,43 +271,43 @@ domains.
 | pashia   | bag                 |
 | mophui   | ball                |
 | pashui   | basket              |
-| phethui  | blanket             |
+| phuthui | blanket              |
 | whethea  | book                |
 | powhia   | bow                 |
 | poshai   | bowl                |
 | whoshia  | car                 |
 | tuphai   | cup                 |
-| shophai  | door                |
-| teshai   | dress/robe          |
+| shoshai  | door                |
+| tushai | dress/robe           |
 | hashia   | hammer              |
 | hathia   | hat/cap             |
-| siwhea   | house               |
+| hiwhea | house                |
 | naiphia  | knife               |
-| lethia   | letter (missive)    |
+| luthia | letter (missive)     |
 | maphia   | map                 |
 | nethai   | net                 |
-| niphea   | needle              |
-| whephai  | paper               |
-| tewhai   | pen/pencil          |
+| niwhea | needle |
+| whuphui | paper                |
+| tuwhai | pen/pencil           |
 | pothia   | pot                 |
 | rophai   | rope                |
 | sowhia   | saw                 |
 | lithui   | shirt               |
-| shuthai  | shoe/sandal         |
-| tephia   | tent                |
-| sithea   | wall                |
-| whethia  | wheel               |
-| shiwhea  | window              |
+| puthea   | shoe/sandal         |
+| tuphia | tent                 |
+| hithea | wall                 |
+| whuthia | wheel                |
+| shiwhui  | window              |
 
 ## food and sustenance
 
 | phi word | english translation |
 | -------- | ------------------- |
-| nophai   | bread               |
+| nowhai | bread |
 | liwhai   | drink               |
 | noshea   | food                |
 | noshoa   | meal                |
-| saiphoa  | meat                |
+| saiwhoa | meat |
 | muthoa   | mushroom/fungus     |
 
 ## places and buildings
@@ -315,13 +315,13 @@ domains.
 | phi word | english translation |
 | -------- | ------------------- |
 | thuwhui  | city                |
-| phathia  | farm                |
-| weshia   | market              |
-| weshai   | marketplace         |
+| suthea   | farm                |
+| wushia | market               |
+| wushai | marketplace          |
 | nishea   | office              |
-| phethui  | room (enclosed)     |
-| phethoa  | room (space)        |
-| theshai  | temple/shrine       |
+| whuthie | room (enclosed)  |
+| huthea   | room (space)        |
+| thushai | temple/shrine        |
 | whithia  | village             |
 
 ## abstract concepts
@@ -329,51 +329,44 @@ domains.
 | phi word | english translation |
 | -------- | ------------------- |
 | towhai   | advice              |
-| thephoa  | age (duration)      |
+| thephui  | age (duration)      |
 | rashia   | anger               |
 | lowhai   | answer              |
-| lophia   | art                 |
-| mipheo   | beauty              |
+| lophui   | art                 |
+| miwheo | beauty |
 | mowhea   | beginning           |
-| liphia   | belief              |
+| liwhia | belief |
 | luwhea   | blessing            |
-| lawhai   | blueness            |
 | washai   | brightness          |
 | laphoa   | calm                |
-| meshoa   | business            |
-| tewhoa   | change              |
+| mushoa | business             |
+| tuwhoa | change               |
 | phophai  | community           |
-| whiwhai  | company             |
-| thoshea  | conscience          |
-| tuwhia   | curiosity           |
 | thaphoa  | darkness            |
-| phithoa  | death               |
-| phathea  | depth               |
-| thiphui  | distance            |
-| thaphui  | doubt               |
+| shithoa | death |
+| phathui  | depth               |
+| thashui  | doubt               |
 | loshui   | dream               |
 | muwhia   | eating              |
 | rushai   | end                 |
-| phewhui  | fear                |
-| phithoa  | freedom             |
-| phuphia  | fullness            |
+| phuwhui | fear                 |
+| shithao  | freedom             |
+| phuphao  | fullness            |
 | shiphoa  | game                |
-| phewhoa  | gift                |
-| theshoa  | goodness            |
-| hashoa   | greenness           |
-| rawhoa   | greyness            |
+| phuwhoa | gift                 |
+| thushoa | goodness             |
 | thiphia  | guilt               |
-| tishoa   | hardness            |
+| rishoa | hardness             |
 | suwhai   | happiness           |
-| mophea   | heat                |
+| moshea | heat |
 | showhia  | health              |
-| shethui  | history             |
+| shuthui | history              |
 | phithae  | hope                |
 | shuphia  | honour              |
-| wephui   | idea                |
+| wuphui | idea                 |
 | siphai   | information         |
 | mothea   | issue               |
-| tephui   | jealousy            |
+| tuphui | jealousy             |
 | tuphoa   | justice             |
 | muthea   | joy                 |
 | riwhai   | kind                |
@@ -386,40 +379,37 @@ domains.
 | hawhia   | manner (style)      |
 | phothei  | manner (method)     |
 | phuphai  | medicine            |
-| laphui   | mistake/error       |
+| lashui   | mistake/error       |
 | phuthia  | money               |
-| phathia  | negative response   |
+| ruthea | negative response    |
 | rawhea   | noise               |
-| reshui   | number              |
-| thiphoa  | peace               |
-| teshui   | policy              |
+| rushui | number               |
+| thiphie  | peace               |
+| tushui | policy               |
 | thithia  | power               |
-| phothui  | price               |
-| phothai  | pride               |
+| shuphea  | price               |
+| whuthui  | pride               |
 | huphea   | problem             |
 | phuphui  | process             |
-| shuphui  | purpose/goal        |
+| shushoa | purpose/goal |
 | puthai   | puzzle/riddle       |
 | thiwhea  | question            |
 | wuthia   | reason              |
-| lawhai   | redness             |
-| sethai   | secret              |
+| suthai | secret               |
 | hishoa   | sense               |
 | shothui  | service             |
 | shathai  | shame               |
 | nithoa   | silence             |
 | lephea   | similarity          |
-| phishui  | softness            |
+| shishui  | softness            |
 | lashia   | spirit              |
 | phuphoa  | soul                |
-| shothoa  | sorrow              |
 | saphai   | safety              |
 | lothui   | sleeping            |
-| thashoa  | blackness           |
 | rathia   | strength            |
 | thaphai  | story               |
-| meshea   | study               |
-| shethoa  | suffering           |
+| mushea | study                |
+| shuthoa | suffering            |
 | siphoa   | symbol              |
 | tophea   | thing               |
 | sophui   | truth               |
@@ -427,12 +417,12 @@ domains.
 | whothua  | volume              |
 | waphea   | war                 |
 | wethai   | weakness            |
-| wephai   | weight              |
-| lephui   | wisdom              |
+| wuphai | weight               |
+| luthui | wisdom               |
 | whothai  | wonder              |
 | phuthoa  | word                |
 | thuwhia  | work                |
-| thewhai  | writing system      |
+| thuwhai | writing system       |
 
 ## containers and locations
 
@@ -450,12 +440,12 @@ domains.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| thiphui  | dance               |
-| sathie   | music               |
-| sathai   | musician            |
+| thiwhao | dance |
+| hathie | music                |
+| hathai | musician             |
 | powhai   | poem                |
-| shuthai  | sculpture           |
-| thaphui  | song                |
+| nuthea   | sculpture           |
+| thaphao  | song                |
 
 ## work and occupation
 
@@ -466,13 +456,13 @@ domains.
 | shishai  | government          |
 | lushai   | group               |
 | lishai   | means               |
-| meshui   | measurement         |
+| mushui | measurement          |
 | wuthai   | part                |
-| tashoa   | research            |
+| rashoa | research             |
 | nuphoa   | result              |
-| tathai   | tax                 |
+| rathai | tax                  |
 | whuthea  | team                |
-| pewhia   | technology          |
+| puwhia | technology           |
 | thuthia  | lot                 |
 | phithea  | tool                |
 | thophui  | trade/commerce      |
@@ -481,20 +471,20 @@ domains.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| wuphia   | amber               |
+| wuwhia | amber |
 | thashia  | black               |
 | miphoa   | blue                |
 | shephui  | chartreuse          |
-| sephia   | colorful            |
+| suphia | colorful             |
 | hashea   | green               |
 | rawhai   | grey                |
-| pewhoa   | indigo              |
-| phethoa  | magenta             |
-| sathea   | orange              |
-| thuphui  | purple              |
+| puwhoa | indigo               |
+| wuthea   | magenta             |
+| hathea | orange               |
+| thuphoa  | purple              |
 | lawhai   | red                 |
 | thethia  | teal                |
-| phothai  | vermillion          |
+| luthea   | vermillion          |
 | nishai   | violet              |
 | sathia   | white               |
 | phithia  | yellow              |
@@ -505,11 +495,11 @@ domains.
 | -------- | ------------------- |
 | whoshai  | gas                 |
 | liewhea  | liquid              |
-| reshoa   | mineral             |
+| rushoa | mineral              |
 | tophui   | solid               |
-| toshea   | solidity            |
-| nuphea   | timber              |
-| sowhia   | wood                |
+| roshui | solidity             |
+| nuwhea | timber |
+| sowhui   | wood                |
 
 ## transportation and travel
 
@@ -537,7 +527,7 @@ domains.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| mephui   | education           |
+| muphui | education            |
 | nothoa   | thought             |
 
 ## remaining noun count

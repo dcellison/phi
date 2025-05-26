@@ -59,7 +59,7 @@ the determiner `phiato`, which precedes the noun `nuthui`.
 | -------- | ------------------- |
 | shoata   | all                 |
 | pheapo   | each                |
-| thiepe   | every               |
+| thiepu | every                |
 | phoitu   | both                |
 
 ## existential quantifiers
@@ -73,7 +73,7 @@ the determiner `phiato`, which precedes the noun `nuthui`.
 | sheari   | several             |
 | thuino   | enough              |
 | phaeto   | too many            |
-| sheame   | most                |
+| sheamu | most                 |
 
 ## negative quantifiers
 

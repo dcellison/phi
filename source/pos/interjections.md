@@ -57,17 +57,17 @@ feeling or reaction.
 | hihoi    | hello               |
 | papao    | goodbye             |
 | nanea    | hey (attention)     |
-| tetei    | listen              |
+| tutei | listen               |
 | lalue    | look                |
 | wiwia    | watch out           |
-| neneo    | stop                |
+| nuneo | stop                 |
 
 ## responses
 
 | phi word | english translation |
 | -------- | ------------------- |
 | nonoe    | yes                 |
-| memeu    | no                  |
+| mumeu | no                   |
 | tatao    | thanks              |
 | sasua    | please              |
 | lilie    | sorry               |
@@ -85,7 +85,7 @@ feeling or reaction.
 | totou    | ow                  |
 | mamae    | argh                |
 | hihia    | ugh                 |
-| pepea    | brrr (cold)         |
+| pupea | brrr (cold)          |
 | sosoa    | ack                 |
 | rurue    | eek                 |
 
@@ -107,10 +107,10 @@ feeling or reaction.
 | -------- | ------------------- |
 | mumue    | um                  |
 | hohoe    | er                  |
-| weweo    | well                |
+| wuweo | well                 |
 | lilia    | like                |
 | tutue    | so                  |
-| sesei    | anyway              |
+| susei | anyway               |
 | nanai    | you know            |
 
 ## remaining interjection count

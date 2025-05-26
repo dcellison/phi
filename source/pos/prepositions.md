@@ -72,7 +72,7 @@ allowing for a rich vocabulary of relational concepts.
 | thuo     | during              |
 | shao     | until               |
 | whai     | since               |
-| phoe     | ago                 |
+| whoe | ago |
 | shoi     | within              |
 | shua     | throughout          |
 
@@ -94,7 +94,7 @@ allowing for a rich vocabulary of relational concepts.
 | phuo     | regarding           |
 | phui     | concerning          |
 | thiu     | except              |
-| phea     | besides             |
+| whea | besides |
 | whau     | instead of          |
 | shau     | against             |
 | wheu     | like                |

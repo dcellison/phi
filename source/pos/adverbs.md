@@ -35,30 +35,26 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | -------- | ------------------- |
 | natume   | again               |
 | parote   | already             |
-| lirate   | always              |
 | norate   | continually         |
 | ralime   | cyclically          |
 | tumane   | finally             |
 | lutane   | firstly             |
-| sarote   | immediately         |
-| sotame   | instantly           |
-| nesupe   | lately              |
+| harote | immediately          |
+| hotame | instantly            |
+| nusupe | lately               |
 | nowate   | meanwhile           |
-| mowate   | never               |
 | sipane   | now                 |
-| letume   | permanently         |
-| pelime   | recently            |
-| setane   | seasonally          |
+| lutume | permanently          |
+| pulime | recently             |
+| sutane | seasonally           |
 | potame   | simultaneously      |
-| somite   | soon                |
-| lopate   | sometimes           |
+| somire | soon                 |
 | silane   | still               |
-| tapase   | suddenly            |
+| tapahe | suddenly             |
 | rotame   | temporarily         |
 | tuwame   | then                |
 | remowa   | tomorrow            |
-| toline   | usually             |
-| netore   | yesterday           |
+| nutore | yesterday            |
 
 ## spatial adverbs (location and direction)
 
@@ -80,23 +76,23 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| hetune   | badly               |
+| hutune | badly                |
 | sarume   | carefully           |
 | sanope   | carelessly          |
-| lemote   | completely          |
+| lumote | completely           |
 | pamite   | deeply              |
-| wemite   | eagerly             |
+| wumite | eagerly              |
 | lotane   | gradually           |
 | namite   | informally          |
 | torume   | loudly              |
-| sonate   | normally            |
+| honate | normally             |
 | tomile   | partially           |
 | polite   | politely            |
 | salime   | quietly             |
 | napine   | quickly             |
-| remite   | repeatedly          |
-| resane   | respectfully        |
-| relete   | reluctantly         |
+| rumite | repeatedly           |
+| rusane | respectfully         |
+| rulete | reluctantly          |
 | sorane   | regretfully         |
 | nirome   | slowly              |
 | tolime   | together            |
@@ -118,14 +114,14 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | phi word | english translation |
 | -------- | ------------------- |
 | matule   | absolutely          |
-| senupe   | almost              |
-| hesane   | approximately       |
+| sunupe | almost               |
+| husane | approximately        |
 | lunite   | barely              |
 | pirone   | enough              |
 | tamile   | entirely            |
 | patane   | especially          |
 | monute   | extremely           |
-| melute   | incredibly          |
+| mulute | incredibly           |
 | malipe   | mainly              |
 | solane   | only                |
 | linote   | slightly            |
@@ -139,9 +135,9 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | larime   | accordingly         |
 | piture   | actually            |
 | wilope   | allegedly           |
-| sinite   | certainly           |
-| tosume   | consequently        |
-| renote   | evidently           |
+| hinite | certainly            |
+| tohume | consequently         |
+| runote | evidently            |
 | porite   | fortunately         |
 | molite   | furthermore         |
 | hotane   | however             |
@@ -149,14 +145,14 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | lunape   | likely              |
 | natare   | nevertheless        |
 | palate   | no                  |
-| mesote   | obviously           |
+| musote | obviously            |
 | hapite   | perhaps             |
-| tenupe   | probably            |
-| petone   | really              |
-| lemite   | similar             |
-| metule   | supposedly          |
+| tunupe | probably             |
+| putone | really               |
+| lumite | similar              |
+| mutule | supposedly           |
 | posane   | thus                |
-| sarite   | unfortunately       |
+| harite | unfortunately        |
 
 ## interrogative adverbs (questions)
 
@@ -165,14 +161,14 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | hamite   | how                 |
 | wamine   | why                 |
 | timane   | when                |
-| welime   | where               |
+| wulime | where                |
 
 ## other adverbs
 
 | phi word | english translation |
 | -------- | ------------------- |
-| rewase   | also                |
-| metane   | just                |
+| ruwase | also                 |
+| mutane | just                 |
 
 ## remaining adverb count
 
@@ -182,7 +178,7 @@ phi adverbs follow the pattern `[C][V][C][V][C][V]` where:
 
 Total possible combinations = 9 × 5 × 9 × 5 × 9 × 5 = 91,125 adverbs
 
-Currently defined adverbs = 105 (26 temporal + 11 spatial + 21 manner + 
+Currently defined adverbs = 101 (22 temporal + 11 spatial + 21 manner + 
 6 frequency + 14 degree + 21 logical/epistemic + 4 interrogative + 2 other)
 
-Remaining available adverbs = 91,020
+Remaining available adverbs = 91,024
