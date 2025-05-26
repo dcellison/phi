@@ -38,6 +38,7 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | norate   | continually         |
 | ralime   | cyclically          |
 | tumane   | finally             |
+| walito   | forever/always      |
 | lutane   | firstly             |
 | harote | immediately          |
 | hotame | instantly            |
@@ -178,7 +179,7 @@ phi adverbs follow the pattern `[C][V][C][V][C][V]` where:
 
 Total possible combinations = 9 × 5 × 9 × 5 × 9 × 5 = 91,125 adverbs
 
-Currently defined adverbs = 101 (22 temporal + 11 spatial + 21 manner + 
+Currently defined adverbs = 102 (23 temporal + 11 spatial + 21 manner + 
 6 frequency + 14 degree + 21 logical/epistemic + 4 interrogative + 2 other)
 
-Remaining available adverbs = 91,024
+Remaining available adverbs = 91,023

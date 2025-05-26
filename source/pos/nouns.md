@@ -154,6 +154,7 @@ domains.
 | muwhea   | cow/ox              |
 | tephai   | deer                |
 | whithoa  | dog                 |
+| whithea  | dove                |
 | sheuthui | fish                |
 | liwhoa | fly |
 | phashia  | fox                 |
@@ -276,6 +277,7 @@ domains.
 | powhia   | bow                 |
 | poshai   | bowl                |
 | whoshia  | car                 |
+| phothea  | cannonball          |
 | tuphai   | cup                 |
 | shoshai  | door                |
 | tushai | dress/robe           |
@@ -421,7 +423,7 @@ domains.
 | luthui | wisdom               |
 | whothai  | wonder              |
 | phuthoa  | word                |
-| thuwhia  | work                |
+| thuwhia | work                |
 | thuwhai | writing system       |
 
 ## containers and locations
@@ -546,10 +548,10 @@ Fourth position: only P (20) possibilities
 
 Total possible combinations = 13 × 25 × 4 × 20 = 26,000 nouns
 
-Currently defined nouns = 389 (39 natural elements + 35 landforms + 17 plants + 
-18 animals + 29 temporal + 29 body parts + 26 relationships + 31 artifacts + 
+Currently defined nouns = 391 (39 natural elements + 35 landforms + 17 plants + 
+20 animals + 29 temporal + 29 body parts + 26 relationships + 32 artifacts + 
 6 food + 9 places + 101 abstract concepts + 7 containers + 6 cultural elements + 
 15 work-related + 17 colors + 7 substances + 2 transportation + 1 furniture + 
 4 celestial + 2 intellectual)
 
-Remaining available nouns = 25,611
+Remaining available nouns = 25,609

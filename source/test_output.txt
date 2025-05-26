@@ -1,0 +1,329 @@
+Loading lexicon from pos/...
+Found 12 POS files to process
+  Loading pos/adjectives.md...
+    → 166 words loaded from adjective
+  Loading pos/particles.md...
+    → 0 words loaded from particle
+  Loading pos/nouns.md...
+    → 397 words loaded from noun
+  Loading pos/determiners.md...
+    → 25 words loaded from determiner
+  Loading pos/classifiers.md...
+    → 41 words loaded from classifier
+  Loading pos/interjections.md...
+    → 53 words loaded from interjection
+  Loading pos/verbs.md...
+    → 204 words loaded from verb
+  Loading pos/pronouns.md...
+    → 3 words loaded from pronoun
+  Loading pos/numbers.md...
+    → 25 words loaded from digit
+  Loading pos/prepositions.md...
+    → 53 words loaded from preposition
+  Loading pos/adverbs.md...
+    → 102 words loaded from adverb
+  Loading pos/conjunctions.md...
+    → 23 words loaded from conjunction
+
+Lexicon loading complete: 1092 total words loaded
+==================================================
+🎯 COMPREHENSIVE EMPHASIS PARTICLE SCOPE VALIDATION TESTS
+======================================================================
+
+📋 BASIC EMPHASIS SCOPE TESTS
+---------------------------------------------
+✅ ma mia ta shola
+   Valid: emphasis on pronoun (I) → VALID
+
+✅ ma ne lowhai ta whuru
+   Valid: emphasis on noun (answer) → VALID
+
+✅ mia ta ma shola
+   Valid: emphasis on verb (walk) → VALID
+
+✅ ma hashe lowhai ta whuru
+   Valid: emphasis on adjective (green) → VALID
+
+✅ mia ma napine ta shola
+   Valid: emphasis on adverb (quickly) → VALID
+
+✅ ma
+   Invalid: ma without target → INVALID
+   ⚠️  Emphasis particle 'ma' at end of sentence without target. ma has immediate scope over the single following word
+
+✅ mia ta shola ma
+   Invalid: ma at end without target → INVALID
+   ⚠️  Emphasis particle 'ma' at end of sentence without target. ma has immediate scope over the single following word
+
+❌ ma ta shola
+   Invalid: ma targeting tense particle → VALID
+
+❌ ma na lowhai ta whuru
+   Invalid: ma targeting object marker → VALID
+
+✅ ma wetu mia ta shola
+   Invalid: ma targeting conjunction → INVALID
+   ⚠️  Emphasis particle 'ma' cannot target conjunction 'wetu'. ma can only emphasize content words and derived constructions
+
+✅ ma he thephoa ta shola
+   Valid: ma + animacy + noun → VALID
+
+✅ ma pi whithoa ta whumi
+   Valid: ma + animate + noun → VALID
+
+✅ ma ne lowhai ta whuru
+   Valid: ma + inanimate + noun → VALID
+
+❌ ma mo hashe lowhai
+   Valid: ma + comparative + adjective → INVALID
+
+❌ ma pa lophu phiwhai
+   Valid: ma + superlative + adjective → INVALID
+   ⚠️  Emphasis on comparison marker 'pa' not followed by adjective
+
+✅ ma wo nuthui ta whuru
+   Valid: ma + few + noun → VALID
+
+✅ ma lo thephoa ta shola
+   Valid: ma + plural + noun → VALID
+
+✅ ma se lathia ta whuru
+   Valid: ma + derivational + noun → VALID
+
+❌ ma ra shola phera hashe
+   Valid: ma + derivational + verb → INVALID
+
+✅ ma li shola
+   Valid: ma + past + verb → VALID
+
+✅ ma su whuru
+   Valid: ma + future + verb → VALID
+
+❌ ma ta phera hashe
+   Valid: ma + present + verb → INVALID
+
+✅ ma he
+   Invalid: ma + animacy without noun → INVALID
+   ⚠️  Emphasis particle 'ma' has no valid target word. ma has immediate scope over the single following word
+   ⚠️  Emphasis on animacy marker incomplete - missing target noun
+
+✅ ma mo
+   Invalid: ma + comparison without adjective → INVALID
+   ⚠️  Emphasis particle 'ma' has no valid target word. ma has immediate scope over the single following word
+   ⚠️  Emphasis on comparison marker incomplete - missing target adjective
+
+✅ ma se
+   Invalid: ma + derivational without target → INVALID
+   ⚠️  Emphasis particle 'ma' has no valid target word. ma has immediate scope over the single following word
+   ⚠️  Emphasis on derivational marker incomplete - missing target word
+
+✅ ma li
+   Invalid: ma + tense without verb → INVALID
+   ⚠️  Emphasis on tense marker incomplete - missing target verb
+
+✅ ma he shola
+   Invalid: ma + animacy + verb (wrong target) → INVALID
+   ⚠️  Emphasis on animacy marker 'he' not followed by noun
+
+✅ ma mo lowhai
+   Invalid: ma + comparison + noun (wrong target) → INVALID
+   ⚠️  Emphasis on comparison marker 'mo' not followed by adjective
+
+❌ ma mia ta shola, ma thi ta whumi
+   Valid: contrastive emphasis → INVALID
+
+❌ ma hashe lowhai, ma hathi whethea
+   Valid: multiple emphasis different targets → INVALID
+
+✅ ma ma mia ta shola
+   Invalid: double emphasis → INVALID
+   ⚠️  Double emphasis detected: 'ma ma' is prohibited. Certain emphasis patterns create semantic conflicts
+   ⚠️  Multiple emphasis on same word 'mia' creates redundancy
+
+✅ ma mia ta ma mia shola
+   Invalid: emphasis on same target → INVALID
+   ⚠️  Multiple emphasis on same word 'mia' creates redundancy
+
+✅ ma he thephoa na ne lowhai ta shero
+   Valid: complex SOV with emphasis → VALID
+
+✅ ne lowhai ma riwhea phia ta whuru
+   Valid: medial emphasis → VALID
+
+✅ he thephoa ta ma shola
+   Valid: final emphasis → VALID
+
+
+🎯 PARTICLE INTERACTION TESTS
+---------------------------------------------
+✅ VALID ma he thephoa ta shola
+   Animacy emphasis: human person
+   Effect: emphasizes human nature
+
+✅ VALID ma pi whithoa ta whumi
+   Animacy emphasis: animate dog
+   Effect: emphasizes animate nature
+
+✅ VALID ma ne lowhai ta whuru
+   Animacy emphasis: inanimate answer
+   Effect: emphasizes inanimate nature
+
+❌ INVALID ma mo hashe lowhai
+   Comparison emphasis: more green
+   Effect: emphasizes comparative degree
+
+❌ INVALID ma pa tophe phiwhai
+   Comparison emphasis: most large
+   Effect: emphasizes superlative degree
+
+❌ INVALID ma sa misha whethea
+   Comparison emphasis: equally beautiful
+   Effect: emphasizes equal degree
+
+✅ VALID ma wo nuthui ta whuru
+   Number emphasis: few pebbles
+   Effect: emphasizes small quantity
+
+✅ VALID ma lo thephoa ta shola
+   Number emphasis: many people
+   Effect: emphasizes plurality
+
+✅ VALID ma no whithoa ta whumi
+   Number emphasis: multitude dogs
+   Effect: emphasizes large quantity
+
+✅ VALID ma se lathia ta whuru
+   Derivational emphasis: axe-as-verb
+   Effect: emphasizes derived action
+
+❌ INVALID ma ra shola phera hashe
+   Derivational emphasis: walking-as-noun
+   Effect: emphasizes derived concept
+
+✅ VALID ma li shola
+   Tense emphasis: past walk
+   Effect: emphasizes temporal aspect
+
+✅ VALID ma su whuru
+   Tense emphasis: future blow
+   Effect: emphasizes temporal aspect
+
+❌ INVALID ma ta phera hashe
+   Tense emphasis: present be
+   Effect: emphasizes temporal aspect
+
+
+💬 DISCOURSE PATTERN TESTS
+---------------------------------------------
+❌ ma mia ta shola, ma thi ta whumi
+   Contrastive: I walk, YOU run → INVALID
+
+❌ ma hashe lowhai, ma hathi whethea
+   Contrastive: GREEN answer, WHITE book → INVALID
+
+❌ ma li shola, ma su whumi
+   Contrastive: WALKED, will RUN → INVALID
+
+❌ me, ma lathia
+   Corrective: no, an AXE → INVALID
+
+✅ ma phi whumi
+   Corrective: ONE run (not multiple) → VALID
+
+❌ ma ta, me li
+   Corrective: PRESENT, not past → INVALID
+   ⚠️  Emphasis on tense marker 'ta' not followed by verb
+
+❌ ma misha lowhai
+   Intensification: BEAUTIFUL answer → INVALID
+
+❌ ma tophe phiwhai
+   Intensification: LARGE mountain → INVALID
+
+✅ ma tushe whomo
+   Intensification: GOOD like → VALID
+
+✅ ma ma mia ta shola
+   Prohibited: double emphasis → INVALID
+   ⚠️  Double emphasis detected: 'ma ma' is prohibited. Certain emphasis patterns create semantic conflicts
+   ⚠️  Multiple emphasis on same word 'mia' creates redundancy
+
+✅ ma mia ta ma mia shola
+   Prohibited: same target emphasis → INVALID
+   ⚠️  Multiple emphasis on same word 'mia' creates redundancy
+
+✅ ma na ma lowhai ta whuru
+   Prohibited: particle emphasis → INVALID
+   ⚠️  Multiple emphasis on same word 'lowhai' creates redundancy
+
+
+🔧 COMPLEX CONSTRUCTION TESTS
+---------------------------------------------
+✅ VALID ma mia ta shola
+   Initial: I (specifically) walk
+   Pattern: topic_emphasis
+
+✅ VALID ma lowhai ta whuru
+   Initial: ANSWER is blowing
+   Pattern: topic_emphasis
+
+❌ INVALID mia ta shola, ma thi ta whumi
+   Medial: I walk, YOU run
+   Pattern: contrastive_focus
+
+✅ VALID ne lowhai ma riwhea phia whuru
+   Medial: answer in WIND blows
+   Pattern: contrastive_focus
+
+✅ VALID ne lowhai riwhea phia ma whuru
+   Final: answer in wind BLOWS
+   Pattern: climactic_emphasis
+
+✅ VALID he thephoa ta ma shola
+   Final: person WALKS
+   Pattern: climactic_emphasis
+
+✅ VALID ma he thephoa na ne lowhai ta shero
+   Complex: HUMAN person carries answer
+   Pattern: complex_sov
+
+✅ VALID he thephoa na ma ne lowhai ta shero
+   Complex: person carries ANSWER
+   Pattern: complex_sov
+
+✅ VALID he thephoa na ne lowhai ta ma shero
+   Complex: person carries answer CARRIES
+   Pattern: complex_sov
+
+
+📊 EMPHASIS SCOPE VALIDATION SUMMARY
+---------------------------------------------
+✅ Immediate scope validation (ma + target)
+✅ Target appropriateness checking
+✅ Particle interaction validation
+✅ Semantic pattern recognition
+✅ Discourse-level emphasis validation
+✅ Multiple emphasis pattern checking
+✅ Prohibited construction detection
+
+🎯 Coverage: Complete emphasis particle validation
+   • Immediate scope: ma must have valid target
+   • Target restrictions: content words only
+   • Particle interactions: animacy, comparison, number, derivational, tense
+   • Semantic patterns: contrastive, corrective, intensification, new info
+   • Discourse patterns: emphasis chains, positioning effects
+
+🔧 Validation Categories:
+   • Scope validation: immediate target requirement
+   • Target validation: content word restrictions
+   • Interaction validation: particle sequence checking
+   • Semantic validation: discourse function appropriateness
+   • Pattern validation: multiple emphasis coordination
+
+💡 Emphasis Functions Validated:
+   • Contrastive focus: highlighting differences
+   • Corrective emphasis: clarifying misunderstandings
+   • Intensification: strengthening meaning
+   • New information focus: drawing attention
+   • Topic emphasis: sentence-initial highlighting
+   • Climactic emphasis: sentence-final highlighting

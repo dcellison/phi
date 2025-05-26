@@ -172,3 +172,39 @@ Currently defined number words = 25 (10 digits + 15 magnitude words)
 
 For practical purposes, the digit space is considered closed at 10 words, while the 
 magnitude space remains open for potential expansion to larger powers as needed.
+
+## phi number vocabulary
+
+this section provides a comprehensive list of all phi number words with their basic english translations, organized alphabetically for quick reference.
+
+| phi word | english translation |
+| -------- | ------------------- |
+| pha | nine |
+| pho | four |
+| phi | one |
+| phitha | ten |
+| phusho | trillion |
+| phuthe | sextillion |
+| shapha | nonillion |
+| shathi | duodecillion |
+| shithu | billion |
+| sho | zero |
+| shu | seven |
+| shupho | hundred |
+| the | three |
+| thiphu | undecillion |
+| thoshi | octillion |
+| thuphi | thousand |
+| thupho | quadrillion |
+| thu | six |
+| wha | five |
+| whipho | septillion |
+| whisha | quintillion |
+| whitha | million |
+| who | eight |
+| whu | two |
+| whusho | decillion |
+
+---
+
+*for detailed usage examples, number construction rules, and mathematical operations, see the comprehensive sections above.*

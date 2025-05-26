@@ -35,7 +35,7 @@ personal pronouns in phi refer to the speaker (first person), the addressee (sec
 and any other entity (third person). these core forms can be combined with various particles 
 to express grammatical relationships.
 
-| phi word | english translation | funcrion | 
+| phi word | english translation | function | 
  | -------- | ------------------- | ---------- |
 | mia      | me/I                | 1st person |
 | thi      | you                 | 2nd person |
@@ -60,9 +60,9 @@ plurality is expressed by adding the particle `lo` before the pronoun:
 
 grammatical function can be explicitly marked with particles:
 
-| funcrion | 1st person  | 2nd person | 3rd person | english equivalent |
+| function | 1st person  | 2nd person | 3rd person | english equivalent |
 | -------- | ---------- | ---------- | ---------- | ------------------ |
-| hubject | si mia      | si thi     | si sha     | I, you, it (as subject) |
+| subject | si mia      | si thi     | si sha     | I, you, it (as subject) |
 | object   | na mia     | na thi     | na sha     | me, you, it (as object) |
 
 ### emphasis
@@ -89,7 +89,7 @@ to express "we/us" excluding the addressee, phi uses:
 while the core three-pronoun system covers most needs, phi also provides combinations to express 
 certain specialized pronoun functions:
 
-| phi formation | english translation    | funcrion | 
+| phi formation | english translation    | function | 
  | ------------- | ---------------------- | ----------------------- |
 | thue mia      | my/mine                | possessive (1st person) |
 | thue thi      | your/yours             | possessive (2nd person) |
@@ -101,7 +101,7 @@ rather than dedicated possessive determiners. This creates constructions like "m
 consistent syntactic patterns rather than introducing new word classes, and follows the 
 same possessive structure used with nouns.
 
-| phi formation | english translation    | funcrion | 
+| phi formation | english translation    | function | 
  | ------------- | ---------------------- | ----------------------- |
 | mia na mia    | mysulf | reflexive (1st person)   |
 | thi na thi    | yoursulf | reflexive (2nd person)   |
@@ -131,3 +131,17 @@ phi pronouns are one of the few closed classes in the language, with only three 
 there are no plans to expand this system, as it provides adequate expressive power when
 combined with the language's particle system. the simplicity of the pronoun system is
 a deliberate design choice that supports phi's goal of being systematic and easy to learn.
+
+## phi pronoun vocabulary
+
+this section provides a quick reference list of all core phi pronouns with their basic english translations.
+
+| phi word | english translation |
+| -------- | ------------------- |
+| mia | me/I |
+| sha | it/he/she/they |
+| thi | you |
+
+---
+
+*for detailed usage examples, particle combinations, and grammatical explanations, see the comprehensive sections above.*

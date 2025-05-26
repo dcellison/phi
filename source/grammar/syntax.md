@@ -152,18 +152,19 @@ any declarative statement:
 
 ### wh-questions
 
-wh-questions use interrogative words alone, without the `wa` particle, in their 
-normal syntactic position:
+wh-questions use interrogative words and can be combined with other particles except `wa`, in their normal syntactic position:
 
 | phi                   | literal translation    | english translation     |
 | --------------------- | ---------------------- | ----------------------- |
 | hamite thi phola      | how you walk           | How do you walk?        |
-| welime thi phola      | where you walk         | Where do you walk?      |
-| timane thephoa phola  | when person walk       | When does the person walk? |
-| whieso nuthui thi phamo | which pebble you like | Which pebble do you like? |
+| so wulime thi phola   | POL where you walk     | Where do you go? (polite) |
+| hi timane thephoa phola | DIR.EV when person walk | When does the person walk? (I see) |
+| ro whieso nuthui thi phamo | INFR which pebble you like | Which pebble do you like? (I infer) |
 
 this systematic distinction keeps each question type clean and predictable, 
-eliminating dependencies between question markers and interrogative words.
+while allowing wh-questions to be modified by politeness, evidentiality, and other 
+non-interrogative particles. the `wa` particle cannot be combined with wh-questions 
+as they represent different question systems.
 
 ## complex sentences
 

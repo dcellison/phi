@@ -108,6 +108,7 @@ spoken forms.
 | shuwi    | swim                |
 | whuwa    | throw               |
 | shenu    | turn                |
+| whuru    | blow (wind)         |
 | shola    | walk                |
 | whenu    | enter               |
 | thetu    | exit                |
@@ -151,6 +152,7 @@ spoken forms.
 | phi word | english translation |
 | -------- | ------------------- |
 | shepu    | add                 |
+| thunu    | ban/prohibit        |
 | whuno | break |
 | shuni    | build               |
 | shuwa    | change              |
@@ -304,9 +306,9 @@ phi verbs follow the pattern `[F][V][C][V]` where:
 
 Total possible combinations = 4 × 5 × 9 × 5 = 900 verbs
 
-Currently defined verbs = 202 (15 communication + 20 cognitive + 45 movement + 
-13 existence + 14 creation/destruction + 21 acquisition + 7 sensory + 
+Currently defined verbs = 204 (15 communication + 20 cognitive + 46 movement + 
+13 existence + 15 creation/destruction + 21 acquisition + 7 sensory + 
 8 wave/energy + 7 perception/clarity + 18 process/action + 18 learning/social + 
 16 transformation)
 
-Remaining available verbs = 698
+Remaining available verbs = 696
