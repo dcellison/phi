@@ -604,6 +604,154 @@ when multiple particles are used, they follow a strict order based on their scop
     *   `mi` - contrast marker: signals opposition or contrast with previous statements. example: `mia mipha phemo. mi thi...` (1sg beautiful think. CNTR 2sg...) - "I think it's beautiful. However, you..."
     *   these follow the slot 0 particle order and help make discourse relationships explicit rather than implicit
 
+## discourse particle sequences
+
+discourse particles `ha` (topic marker) and `mi` (contrast marker) are essential for structuring complex arguments, extended narratives, and sophisticated communication. understanding their interaction patterns and scope rules enables effective multi-sentence discourse management.
+
+### topic chains with `ha`
+
+topic chains use `ha` to maintain thematic coherence across multiple sentences, creating explicit topic continuity that guides listener attention through complex discussions.
+
+#### basic topic introduction and maintenance
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of the weather, it's been quite unpredictable. the rain comes suddenly. then the sun appears. but the wind remains constant. |
+| phi     | ha whethui, li phera ritune me phemo. lashea ta phema tapine. mi taoshea ta pharu. tupo riwhea ta thewa sa. |
+| gloss   | TOP weather, PST be very NEG predictable. rain PRS come quickly. CNTR sun PRS appear. but wind PRS remain same. |
+
+#### topic shift and subtopic development
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of trees, the old oak is magnificent. as for its branches, they reach toward the sky. regarding its roots, they extend deep underground. |
+| phi     | ha liphai, lotha whiophea phera mipha. ha na seiwhea, sha ta phiwe naho whethui. ha na haiwhia, sha ta phiwe thia na riphoa. |
+| gloss   | TOP tree, old oak be beautiful. TOP OBJ branch, 3sg PRS reach toward sky. TOP OBJ root, 3sg PRS reach down OBJ ground. |
+
+#### topic resumption after digression
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of the market, it's very busy today. (digression about crowds) anyway, back to the market - the prices have increased significantly. |
+| phi     | ha weshia, ta phera ritune thasha mathea. [...] ha mi weshia, lo phothui li phiro ritune tophe. |
+| gloss   | TOP market, PRS be very busy today. [...] TOP CNTR market, PL price PST increase very much. |
+
+#### nested topic structures
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of education, universities are important. regarding universities, their libraries are essential. as for libraries, their digital resources are expanding rapidly. |
+| phi     | ha muphui, lo thuwhui phera riphe. ha lo thuwhui, na lo whethea phera weshi. ha lo whethea, na lo pewhia phuroa ta phiro tapine ritune. |
+| gloss   | TOP education, PL university be important. TOP PL university, OBJ PL library be necessary. TOP PL library, OBJ PL digital resource PRS increase quickly very. |
+
+### contrast scope with `mi`
+
+the contrast marker `mi` operates at different levels of discourse structure, from simple sentence-level contrasts to complex argumentative sequences spanning multiple paragraphs.
+
+#### sentence-level contrast
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | the morning was peaceful. however, the afternoon became chaotic. |
+| phi     | thowai li phera tapha. mi phawhoa li phera tasha. |
+| gloss   | morning PST be peaceful. CNTR afternoon PST be chaotic. |
+
+#### paragraph-level contrast
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | the northern regions experience mild summers with gentle breezes and moderate temperatures. in contrast, the southern areas face intense heat with scorching winds and extreme conditions. |
+| phi     | lo huphe thauthea ta phewa supha tawhea nene luwhea riwhea nene waphe thephui. mi lo thia thauthea ta phewa notha tawhea nene rathu riwhea nene tasha thephui. |
+| gloss   | PL north region PRS experience mild summer and gentle wind and warm temperature. CNTR PL south region PRS experience hot summer and bright wind and dangerous temperature. |
+
+#### argumentative contrast sequences
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | supporters argue that technology improves education by providing access to information. however, critics contend that it creates distractions and reduces human interaction. furthermore, research suggests that balanced approaches work best. |
+| phi     | lo raushai ta phemo pewhia ta thulo muphui thotu siphai phose. mi lo thetu ta phemo sha ta phesa thiphui nene thuru he thephoa thiphui. nene tashoa ta phemo sa phola ta phuri pa teshe. |
+| gloss   | PL supporter PRS think technology PRS improve education provide information access. CNTR PL critic PRS think 3sg PRS create distraction and reduce HUM person interaction. and research PRS think balanced approach PRS work most good. |
+
+#### contrast with evidentiality
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | i see that the project is progressing well. however, i hear that there are significant challenges behind the scenes. |
+| phi     | hi phuphui ta phola teshe. mi nu no huphea phera na me phose thauthea. |
+| gloss   | DIR.EV project PRS progress good. CNTR HRSY many problem be OBJ NEG see area. |
+
+### topic-contrast interaction patterns
+
+when `ha` and `mi` appear together, they create sophisticated discourse structures that manage both thematic development and argumentative contrast simultaneously.
+
+#### contrast within topic maintenance
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of the new policy, most employees support it. however, within that same topic, senior staff have expressed concerns. |
+| phi     | ha papho tushui, lo phuri thephoa ta renu sha. ha mi thi tushui, lo phuwhia phuri ta phemi huphea. |
+| gloss   | TOP new policy, PL work person PRS support 3sg. TOP CNTR this policy, PL senior work PRS express concern. |
+
+#### topic shift with contrast
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of urban planning, cities need green spaces. as for rural development, however, the priorities are completely different. |
+| phi     | ha thuwhui phola, lo thuwhui ta photo hashe thauthea. ha mi rathea phola, tupo lo riphe phera ritune lepha. |
+| gloss   | TOP city planning, PL city PRS need green area. TOP CNTR rural development, but PL priority be very different. |
+
+#### complex argumentative structures
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | regarding economic policy, traditional approaches emphasize stability. however, speaking of innovation, modern strategies prioritize growth. nevertheless, concerning sustainability, both approaches must consider environmental impact. |
+| phi     | ha phuthia tushui, lotha phola ta ma thiphie. mi ha papho phola, papho phola ta ma phiro. tupo ha muwhui thewa, lo phola ru thira muwhui mothea. |
+| gloss   | TOP economic policy, traditional approach PRS EMPH stability. CNTR TOP new approach, new approach PRS EMPH growth. but TOP environmental sustainability, PL approach should consider environmental impact. |
+
+#### discourse repair and clarification
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of the meeting, it went well. actually, let me clarify - regarding the first part, it was productive. however, concerning the second half, there were some issues. |
+| phi     | ha thiphui, sha li phola teshe. ha mi thiphui, na phi wuthai, sha li phera phuri teshe. mi na whu wuthai, wo huphea li phera. |
+| gloss   | TOP meeting, 3sg PST go good. TOP CNTR meeting, OBJ one part, 3sg PST be work good. CNTR OBJ two part, few problem PST be. |
+
+### advanced discourse patterns
+
+#### parallel topic development
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of technology in education, it offers many benefits. speaking of technology in healthcare, it also provides significant advantages. however, speaking of technology in privacy, it raises serious concerns. |
+| phi     | ha pewhia na muphui, sha ta thotu no teshe. ha pewhia na showhia, sha ta thotu riphe teshe. mi ha pewhia na nithoa, sha ta phesa tasha huphea. |
+| gloss   | TOP technology OBJ education, 3sg PRS provide many good. TOP technology OBJ healthcare, 3sg PRS provide important good. CNTR TOP technology OBJ privacy, 3sg PRS create serious concern. |
+
+#### contrastive topic chains
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of morning routines, i prefer exercise first. however, regarding evening routines, i prioritize relaxation. in contrast, concerning weekend routines, i focus on social activities. |
+| phi     | ha thowai phola, mia ta phire phuri phi. mi ha phawhoa phola, mia ta riphe shesa. mi ha rewhoa phola, mia ta ma he thephoa thiphui. |
+| gloss   | TOP morning routine, 1sg PRS prefer work first. CNTR TOP evening routine, 1sg PRS prioritize rest. CNTR TOP weekend routine, 1sg PRS EMPH HUM person interaction. |
+
+#### meta-discourse management
+
+| type    | discourse sequence |
+| ------- | ------------------ |
+| english | speaking of our discussion, we've covered the main points. however, regarding time constraints, we should focus on conclusions. therefore, concerning next steps, let's establish clear actions. |
+| phi     | ha lo mia thiwhea, lo mia li phose na riphe niphia. mi ha lawhui huphea, lo mia ru ma rushai phemo. huwa ha su phola, lo mia ru phesa teshe phawu. |
+| gloss   | TOP PL 1sg discussion, PL 1sg PST see OBJ important point. CNTR TOP time problem, PL 1sg should EMPH conclusion think. so TOP future action, PL 1sg should create good action. |
+
+### discourse particle scope rules
+
+1. **topic scope (`ha`)**: extends until a new topic is introduced or the discourse unit ends
+2. **contrast scope (`mi`)**: applies to the immediately following clause or sentence
+3. **interaction scope**: when both particles appear, `ha` establishes the thematic frame while `mi` provides the contrastive relationship within that frame
+4. **reset conditions**: new `ha` markers reset topic scope; new `mi` markers reset contrast scope
+5. **embedding**: topic-contrast patterns can be embedded within larger discourse structures
+
+these patterns enable phi speakers to construct sophisticated arguments, maintain thematic coherence across extended discourse, and explicitly signal the logical relationships between ideas in complex communication.
+
 ## remaining particle count
 
 phi particles follow the pattern `[C][V]` where:

@@ -64,6 +64,10 @@ class SentenceError(Enum):
     POLITENESS_MISSING_REQUIRED = "politeness_missing_required"
     POLITENESS_DISCOURSE_MISMATCH = "politeness_discourse_mismatch"
     POLITENESS_PRAGMATIC_INAPPROPRIATE = "politeness_pragmatic_inappropriate"
+    DISCOURSE_SEQUENCE_ERROR = "discourse_sequence_error"
+    TOPIC_CHAIN_VIOLATION = "topic_chain_violation"
+    CONTRAST_SCOPE_ERROR = "contrast_scope_error"
+    TOPIC_CONTRAST_INTERACTION_ERROR = "topic_contrast_interaction_error"
 
 
 class SentenceValidationError:
@@ -2195,6 +2199,9 @@ class PhiSentenceValidator:
         # 14. Validate politeness particle context
         all_errors.extend(self.validate_politeness_particle_context(tokens))
         
+        # 15. Validate discourse particle sequences
+        all_errors.extend(self.validate_discourse_particle_sequences(tokens))
+        
         # Summarize errors by type
         error_summary = {}
         for error in all_errors:
@@ -4128,6 +4135,572 @@ VALIDATION STATUS: {'✅ VALID' if is_valid else '❌ INVALID'}
             formal_indicators.append('explicit_role_marking')
         
         return formal_indicators
+    
+    def validate_discourse_particle_sequences(self, tokens: List[str]) -> List[SentenceValidationError]:
+        """
+        Validate discourse particle sequences for topic chains, contrast scope,
+        and topic-contrast interaction patterns.
+        
+        This method handles:
+        1. Topic chains with 'ha' across multiple sentences/clauses
+        2. Contrast scope with 'mi' at different discourse levels
+        3. Topic-contrast interaction patterns
+        4. Discourse coherence and logical flow
+        """
+        errors = []
+        
+        # Find all discourse particles and their positions
+        discourse_particles = []
+        for i, token in enumerate(tokens):
+            if token in ['ha', 'mi']:
+                discourse_particles.append((token, i))
+        
+        if not discourse_particles:
+            return errors  # No discourse particles to validate
+        
+        # Validate topic chain coherence
+        errors.extend(self._validate_topic_chain_coherence(discourse_particles, tokens))
+        
+        # Validate contrast scope and logic
+        errors.extend(self._validate_contrast_scope_logic(discourse_particles, tokens))
+        
+        # Validate topic-contrast interactions
+        errors.extend(self._validate_topic_contrast_interactions(discourse_particles, tokens))
+        
+        # Validate discourse sequence patterns
+        errors.extend(self._validate_discourse_sequence_patterns(discourse_particles, tokens))
+        
+        return errors
+    
+    def _validate_topic_chain_coherence(self, discourse_particles: List[Tuple[str, int]], 
+                                       tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate topic chain coherence and proper topic management."""
+        errors = []
+        
+        # Find all topic markers
+        topic_markers = [(particle, pos) for particle, pos in discourse_particles if particle == 'ha']
+        
+        if not topic_markers:
+            return errors
+        
+        # Check for topic chain violations
+        for i, (particle, position) in enumerate(topic_markers):
+            # Validate topic introduction vs. topic shift
+            topic_context = self._analyze_topic_context(position, tokens)
+            
+            if topic_context['type'] == 'invalid_topic_shift':
+                errors.append(SentenceValidationError(
+                    SentenceError.TOPIC_CHAIN_VIOLATION,
+                    f"Invalid topic shift at position {position}: {topic_context['reason']}",
+                    position,
+                    'ha'
+                ))
+            
+            # Check for topic resumption patterns
+            if i > 0:  # Not the first topic marker
+                prev_position = topic_markers[i-1][1]
+                resumption_validity = self._check_topic_resumption_validity(
+                    prev_position, position, tokens
+                )
+                
+                if not resumption_validity['valid']:
+                    errors.append(SentenceValidationError(
+                        SentenceError.TOPIC_CHAIN_VIOLATION,
+                        f"Invalid topic resumption: {resumption_validity['reason']}",
+                        position,
+                        'ha'
+                    ))
+            
+            # Validate nested topic structures
+            nesting_errors = self._validate_topic_nesting(position, tokens)
+            errors.extend(nesting_errors)
+        
+        return errors
+    
+    def _validate_contrast_scope_logic(self, discourse_particles: List[Tuple[str, int]], 
+                                      tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate contrast scope and logical relationships."""
+        errors = []
+        
+        # Find all contrast markers
+        contrast_markers = [(particle, pos) for particle, pos in discourse_particles if particle == 'mi']
+        
+        if not contrast_markers:
+            return errors
+        
+        for particle, position in contrast_markers:
+            # Analyze contrast scope
+            scope_analysis = self._analyze_contrast_scope(position, tokens)
+            
+            if scope_analysis['scope_error']:
+                errors.append(SentenceValidationError(
+                    SentenceError.CONTRAST_SCOPE_ERROR,
+                    f"Contrast scope error: {scope_analysis['error_message']}",
+                    position,
+                    'mi'
+                ))
+            
+            # Check logical contrast relationships
+            logical_validity = self._check_contrast_logical_validity(position, tokens)
+            
+            if not logical_validity['valid']:
+                errors.append(SentenceValidationError(
+                    SentenceError.CONTRAST_SCOPE_ERROR,
+                    f"Illogical contrast relationship: {logical_validity['reason']}",
+                    position,
+                    'mi'
+                ))
+            
+            # Validate contrast with evidentiality
+            evidentiality_interaction = self._check_contrast_evidentiality_interaction(position, tokens)
+            
+            if evidentiality_interaction['conflict']:
+                errors.append(SentenceValidationError(
+                    SentenceError.DISCOURSE_SEQUENCE_ERROR,
+                    f"Contrast-evidentiality conflict: {evidentiality_interaction['message']}",
+                    position,
+                    'mi'
+                ))
+        
+        return errors
+    
+    def _validate_topic_contrast_interactions(self, discourse_particles: List[Tuple[str, int]], 
+                                            tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate complex topic-contrast interaction patterns."""
+        errors = []
+        
+        # Find ha-mi combinations
+        ha_positions = [pos for particle, pos in discourse_particles if particle == 'ha']
+        mi_positions = [pos for particle, pos in discourse_particles if particle == 'mi']
+        
+        # Check for ha-mi interaction patterns
+        for ha_pos in ha_positions:
+            for mi_pos in mi_positions:
+                interaction_analysis = self._analyze_ha_mi_interaction(ha_pos, mi_pos, tokens)
+                
+                if interaction_analysis['error']:
+                    errors.append(SentenceValidationError(
+                        SentenceError.TOPIC_CONTRAST_INTERACTION_ERROR,
+                        interaction_analysis['message'],
+                        min(ha_pos, mi_pos),
+                        f"ha-mi at {ha_pos}-{mi_pos}"
+                    ))
+        
+        # Validate complex argumentative structures
+        argumentative_errors = self._validate_argumentative_discourse_patterns(
+            discourse_particles, tokens
+        )
+        errors.extend(argumentative_errors)
+        
+        return errors
+    
+    def _validate_discourse_sequence_patterns(self, discourse_particles: List[Tuple[str, int]], 
+                                            tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate overall discourse sequence patterns and coherence."""
+        errors = []
+        
+        # Check for discourse repair patterns
+        repair_errors = self._validate_discourse_repair_patterns(discourse_particles, tokens)
+        errors.extend(repair_errors)
+        
+        # Validate meta-discourse management
+        meta_discourse_errors = self._validate_meta_discourse_patterns(discourse_particles, tokens)
+        errors.extend(meta_discourse_errors)
+        
+        # Check for parallel topic development
+        parallel_errors = self._validate_parallel_topic_development(discourse_particles, tokens)
+        errors.extend(parallel_errors)
+        
+        return errors
+    
+    def _analyze_topic_context(self, position: int, tokens: List[str]) -> Dict:
+        """Analyze the context of a topic marker to determine its function."""
+        context = {
+            'type': 'topic_introduction',
+            'reason': '',
+            'valid': True
+        }
+        
+        # Check what follows the topic marker
+        if position + 1 < len(tokens):
+            following_word = tokens[position + 1]
+            
+            # Check for proper topic noun or noun phrase
+            # Allow some particles like 'ma' (emphasis) or 'so' (politeness) after 'ha'
+            allowed_after_ha = {'ma', 'so'}
+            
+            if following_word in self.all_particles and following_word not in allowed_after_ha:
+                # Only flag as error if it's a problematic particle
+                problematic_particles = {'mi', 'wa', 'li', 'ta', 'su'}
+                if following_word in problematic_particles:
+                    context['type'] = 'invalid_topic_shift'
+                    context['reason'] = 'Topic marker followed by particle instead of topic noun'
+                    context['valid'] = False
+        
+        # Check for topic shift vs. topic introduction
+        # Look for previous topic markers in the discourse
+        prev_ha_positions = [i for i, token in enumerate(tokens[:position]) if token == 'ha']
+        
+        if prev_ha_positions:
+            # This is a topic shift, validate appropriateness
+            last_ha_pos = prev_ha_positions[-1]
+            distance = position - last_ha_pos
+            
+            # Only flag as error if extremely close (adjacent or one word apart)
+            if distance <= 2:  # Very close for meaningful topic shift
+                context['type'] = 'invalid_topic_shift'
+                context['reason'] = 'Topic shift too close to previous topic marker'
+                context['valid'] = False
+        
+        return context
+    
+    def _check_topic_resumption_validity(self, prev_position: int, current_position: int, 
+                                       tokens: List[str]) -> Dict:
+        """Check if topic resumption is valid."""
+        validity = {
+            'valid': True,
+            'reason': ''
+        }
+        
+        # Check for intervening contrast markers
+        intervening_mi = any(tokens[i] == 'mi' for i in range(prev_position + 1, current_position))
+        
+        if intervening_mi:
+            # Topic resumption after contrast is valid
+            validity['valid'] = True
+            validity['reason'] = 'Valid topic resumption after contrast'
+        else:
+            # Check distance and content
+            distance = current_position - prev_position
+            if distance < 5:  # Arbitrary threshold for meaningful topic development
+                validity['valid'] = False
+                validity['reason'] = 'Topic resumption too soon without sufficient development'
+        
+        return validity
+    
+    def _validate_topic_nesting(self, position: int, tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate nested topic structures."""
+        errors = []
+        
+        # Check for proper nesting depth (avoid too deep nesting)
+        ha_count_before = tokens[:position].count('ha')
+        
+        if ha_count_before > 3:  # Arbitrary limit for readability
+            errors.append(SentenceValidationError(
+                SentenceError.TOPIC_CHAIN_VIOLATION,
+                f"Topic nesting too deep (level {ha_count_before + 1}), may reduce clarity",
+                position,
+                'ha'
+            ))
+        
+        return errors
+    
+    def _analyze_contrast_scope(self, position: int, tokens: List[str]) -> Dict:
+        """Analyze the scope and appropriateness of a contrast marker."""
+        analysis = {
+            'scope_error': False,
+            'error_message': '',
+            'scope_type': 'sentence_level'
+        }
+        
+        # Check what the contrast is operating on
+        if position == 0:
+            analysis['scope_error'] = True
+            analysis['error_message'] = 'Contrast marker at sentence beginning with no prior context'
+            return analysis
+        
+        # Analyze the content being contrasted
+        preceding_content = tokens[:position]
+        following_content = tokens[position + 1:]
+        
+        # Check for meaningful contrast - be more permissive
+        if not preceding_content:
+            analysis['scope_error'] = True
+            analysis['error_message'] = 'Contrast marker without preceding content'
+        elif len(following_content) == 0:
+            analysis['scope_error'] = True
+            analysis['error_message'] = 'Contrast marker without following content'
+        
+        # Don't require logical contrast elements for now - too strict
+        # The presence of 'mi' itself indicates the speaker intends contrast
+        
+        return analysis
+    
+    def _check_contrast_logical_validity(self, position: int, tokens: List[str]) -> Dict:
+        """Check if the contrast relationship is logically valid."""
+        validity = {
+            'valid': True,
+            'reason': ''
+        }
+        
+        # Analyze semantic content for logical opposition
+        preceding_tokens = tokens[:position]
+        following_tokens = tokens[position + 1:]
+        
+        # Be more permissive - only flag obvious logical errors
+        # The speaker's use of 'mi' indicates they perceive a contrast
+        
+        # Only check for very basic content requirements
+        if len(preceding_tokens) == 0:
+            validity['valid'] = False
+            validity['reason'] = 'No content before contrast marker'
+        elif len(following_tokens) == 0:
+            validity['valid'] = False
+            validity['reason'] = 'No content after contrast marker'
+        
+        # Don't require semantic opposition detection - too restrictive
+        # Real discourse often has subtle contrasts not captured by simple word pairs
+        
+        return validity
+    
+    def _check_contrast_evidentiality_interaction(self, position: int, tokens: List[str]) -> Dict:
+        """Check for conflicts between contrast and evidentiality markers."""
+        interaction = {
+            'conflict': False,
+            'message': ''
+        }
+        
+        # Find evidentiality particles near the contrast
+        evidentiality_particles = ['hi', 'ro', 'nu', 'ti', 'mu', 'pe']
+        
+        # Check for evidentiality before contrast
+        for i in range(max(0, position - 3), position):
+            if tokens[i] in evidentiality_particles:
+                # Check if the evidentiality type conflicts with contrast logic
+                ev_particle = tokens[i]
+                conflict_check = self._check_evidentiality_contrast_compatibility(ev_particle, tokens)
+                
+                if conflict_check['conflict']:
+                    interaction['conflict'] = True
+                    interaction['message'] = conflict_check['message']
+        
+        return interaction
+    
+    def _analyze_ha_mi_interaction(self, ha_pos: int, mi_pos: int, tokens: List[str]) -> Dict:
+        """Analyze the interaction between ha and mi particles."""
+        analysis = {
+            'error': False,
+            'message': '',
+            'pattern_type': 'unknown'
+        }
+        
+        if ha_pos < mi_pos:
+            # ha before mi: topic then contrast
+            distance = mi_pos - ha_pos
+            
+            if distance == 1:  # Adjacent: "ha mi"
+                analysis['pattern_type'] = 'topic_contrast_combination'
+                # This is valid: "speaking of X, however..."
+                analysis['error'] = False
+            elif distance < 5:
+                analysis['pattern_type'] = 'topic_then_contrast'
+                # Check if there's sufficient content between them
+                intervening_content = tokens[ha_pos + 1:mi_pos]
+                if len(intervening_content) < 2:
+                    analysis['error'] = True
+                    analysis['message'] = 'Insufficient content between topic and contrast markers'
+            else:
+                analysis['pattern_type'] = 'distant_topic_contrast'
+                # Distant topic and contrast - generally acceptable
+        
+        elif mi_pos < ha_pos:
+            # mi before ha: contrast then topic
+            analysis['pattern_type'] = 'contrast_then_topic'
+            # This can be valid in discourse repair or topic shift after contrast
+            
+            distance = ha_pos - mi_pos
+            if distance < 3:
+                analysis['error'] = True
+                analysis['message'] = 'Topic marker too close after contrast without development'
+        
+        return analysis
+    
+    def _validate_argumentative_discourse_patterns(self, discourse_particles: List[Tuple[str, int]], 
+                                                 tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate complex argumentative discourse structures."""
+        errors = []
+        
+        # Check for proper argumentative flow
+        ha_positions = [pos for particle, pos in discourse_particles if particle == 'ha']
+        mi_positions = [pos for particle, pos in discourse_particles if particle == 'mi']
+        
+        # Validate argumentative sequences
+        if len(ha_positions) > 1 and len(mi_positions) > 0:
+            # Complex argumentative structure detected
+            structure_validity = self._check_argumentative_structure_validity(
+                ha_positions, mi_positions, tokens
+            )
+            
+            if not structure_validity['valid']:
+                errors.append(SentenceValidationError(
+                    SentenceError.DISCOURSE_SEQUENCE_ERROR,
+                    f"Invalid argumentative structure: {structure_validity['reason']}",
+                    structure_validity['position'],
+                    'discourse_structure'
+                ))
+        
+        return errors
+    
+    def _validate_discourse_repair_patterns(self, discourse_particles: List[Tuple[str, int]], 
+                                          tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate discourse repair and clarification patterns."""
+        errors = []
+        
+        # Look for repair patterns: "ha mi" (topic clarification)
+        for i in range(len(discourse_particles) - 1):
+            current_particle, current_pos = discourse_particles[i]
+            next_particle, next_pos = discourse_particles[i + 1]
+            
+            if current_particle == 'ha' and next_particle == 'mi' and next_pos - current_pos <= 2:
+                # Potential repair pattern
+                repair_validity = self._check_discourse_repair_validity(current_pos, next_pos, tokens)
+                
+                if not repair_validity['valid']:
+                    errors.append(SentenceValidationError(
+                        SentenceError.DISCOURSE_SEQUENCE_ERROR,
+                        f"Invalid discourse repair pattern: {repair_validity['reason']}",
+                        current_pos,
+                        'ha-mi'
+                    ))
+        
+        return errors
+    
+    def _validate_meta_discourse_patterns(self, discourse_particles: List[Tuple[str, int]], 
+                                        tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate meta-discourse management patterns."""
+        errors = []
+        
+        # Check for meta-discourse vocabulary
+        meta_discourse_words = {'thiwhea', 'lawhui', 'phola'}  # discussion, time, action
+        
+        has_meta_discourse = any(word in tokens for word in meta_discourse_words)
+        
+        if has_meta_discourse and len(discourse_particles) < 2:
+            errors.append(SentenceValidationError(
+                SentenceError.DISCOURSE_SEQUENCE_ERROR,
+                "Meta-discourse content should use explicit discourse structuring",
+                0,
+                'meta_discourse'
+            ))
+        
+        return errors
+    
+    def _validate_parallel_topic_development(self, discourse_particles: List[Tuple[str, int]], 
+                                           tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate parallel topic development patterns."""
+        errors = []
+        
+        # Find multiple topic markers for parallel development
+        ha_positions = [pos for particle, pos in discourse_particles if particle == 'ha']
+        
+        if len(ha_positions) >= 3:  # Potential parallel structure
+            parallel_validity = self._check_parallel_topic_validity(ha_positions, tokens)
+            
+            if not parallel_validity['valid']:
+                errors.append(SentenceValidationError(
+                    SentenceError.TOPIC_CHAIN_VIOLATION,
+                    f"Invalid parallel topic structure: {parallel_validity['reason']}",
+                    parallel_validity['position'],
+                    'parallel_topics'
+                ))
+        
+        return errors
+    
+    # Helper methods for discourse analysis
+    
+    def _check_contrastive_elements(self, preceding: List[str], following: List[str]) -> Dict:
+        """Check for contrastive elements in the content."""
+        validity = {'valid': True, 'reason': ''}
+        
+        # Simple heuristic: look for opposing concepts
+        # This could be expanded with semantic analysis
+        
+        if not preceding or not following:
+            validity['valid'] = False
+            validity['reason'] = 'Missing content for contrast'
+        
+        return validity
+    
+    def _detect_semantic_opposition(self, preceding: List[str], following: List[str]) -> bool:
+        """Detect semantic opposition between content segments."""
+        # Simple implementation - could be expanded
+        
+        # Look for explicit opposition markers
+        opposition_pairs = {
+            ('teshe', 'huphea'),  # good vs. problem
+            ('tophe', 'pisha'),   # large vs. small
+            ('waphe', 'thepo'),   # warm vs. cold
+        }
+        
+        for word1 in preceding:
+            for word2 in following:
+                if (word1, word2) in opposition_pairs or (word2, word1) in opposition_pairs:
+                    return True
+        
+        return False
+    
+    def _check_evidentiality_contrast_compatibility(self, ev_particle: str, tokens: List[str]) -> Dict:
+        """Check compatibility between evidentiality and contrast."""
+        compatibility = {'conflict': False, 'message': ''}
+        
+        # Some evidentiality types may conflict with certain contrasts
+        if ev_particle == 'hi' and 'me' in tokens:  # direct evidence + negation
+            compatibility['conflict'] = True
+            compatibility['message'] = 'Direct evidence conflicts with negated contrast'
+        
+        return compatibility
+    
+    def _check_argumentative_structure_validity(self, ha_positions: List[int], 
+                                              mi_positions: List[int], tokens: List[str]) -> Dict:
+        """Check validity of complex argumentative structures."""
+        validity = {'valid': True, 'reason': '', 'position': 0}
+        
+        # Check for proper argumentative flow
+        all_positions = sorted(ha_positions + mi_positions)
+        
+        # Simple check: ensure reasonable spacing
+        for i in range(len(all_positions) - 1):
+            distance = all_positions[i + 1] - all_positions[i]
+            if distance < 3:  # Too close
+                validity['valid'] = False
+                validity['reason'] = 'Discourse markers too close together'
+                validity['position'] = all_positions[i]
+                break
+        
+        return validity
+    
+    def _check_discourse_repair_validity(self, ha_pos: int, mi_pos: int, tokens: List[str]) -> Dict:
+        """Check validity of discourse repair patterns."""
+        validity = {'valid': True, 'reason': ''}
+        
+        # Check if there's appropriate content for repair
+        if mi_pos - ha_pos == 1:  # Adjacent ha mi
+            # This should be followed by clarification
+            if mi_pos + 1 >= len(tokens):
+                validity['valid'] = False
+                validity['reason'] = 'Discourse repair pattern incomplete'
+        
+        return validity
+    
+    def _check_parallel_topic_validity(self, ha_positions: List[int], tokens: List[str]) -> Dict:
+        """Check validity of parallel topic structures."""
+        validity = {'valid': True, 'reason': '', 'position': 0}
+        
+        # Check for consistent spacing and structure
+        if len(ha_positions) >= 3:
+            # Look for regular patterns
+            distances = [ha_positions[i + 1] - ha_positions[i] for i in range(len(ha_positions) - 1)]
+            
+            # Check if distances are reasonably consistent (parallel structure)
+            avg_distance = sum(distances) / len(distances)
+            for i, distance in enumerate(distances):
+                if abs(distance - avg_distance) > avg_distance * 0.5:  # 50% variance threshold
+                    validity['valid'] = False
+                    validity['reason'] = 'Inconsistent parallel topic structure'
+                    validity['position'] = ha_positions[i]
+                    break
+        
+        return validity
 
 
 def main():
