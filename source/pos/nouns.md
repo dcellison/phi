@@ -75,7 +75,7 @@ domains.
 | naishea  | thunder             |
 | phishea  | tide                |
 | nuphai   | wave                |
-| wheisha  | water               |
+| wheishea | water               |
 | riwhea   | wind                |
 | phawhui  | zephyr              |
 
@@ -103,7 +103,7 @@ domains.
 | phishea  | mountain pass       |
 | phoshui  | mountain peak       |
 | whophea  | place               |
-| phalai   | plateau             |
+| phathea  | plateau             |
 | pheoshoa | pond                |
 | thiawhia | prairie             |
 | rophia   | reef                |
@@ -153,7 +153,7 @@ domains.
 | mathai   | cat                 |
 | muwhea   | cow/ox              |
 | tephai   | deer                |
-| whiloa   | dog                 |
+| whithoa  | dog                 |
 | sheuthui | fish                |
 | liphoa   | fly                 |
 | phashia  | fox                 |
@@ -162,7 +162,7 @@ domains.
 | shephoa  | sheep/goat          |
 | saphoa   | snake               |
 | shuphea  | spider              |
-| whuloa   | wolf                |
+| whuthoa  | wolf                |
 
 ## time and temporal concepts
 
@@ -180,7 +180,7 @@ domains.
 | sothoa   | minute              |
 | pawhia   | moment              |
 | thiphai  | month               |
-| thowai   | morning             |
+| thothea  | morning             |
 | saiwhui  | moon                |
 | metheo   | night               |
 | phathia  | noon                |
@@ -247,7 +247,7 @@ domains.
 | waphoa   | enemy/opponent      |
 | shiphai  | family              |
 | shuwhia  | father              |
-| philui   | girl                |
+| phithui  | girl                |
 | mawhia   | grandparent         |
 | thiwhoa  | infant              |
 | raushai  | leader              |
@@ -257,8 +257,8 @@ domains.
 | thephoa  | person              |
 | sheshea  | president           |
 | shuwhoa  | sister              |
-| shupia   | spouse              |
-| photui   | stranger/guest      |
+| shuthai  | spouse              |
+| phothui  | stranger/guest      |
 | nowhea   | teacher             |
 | waphia   | uncle               |
 | thaphea  | woman               |
@@ -271,7 +271,7 @@ domains.
 | pashia   | bag                 |
 | mophui   | ball                |
 | pashui   | basket              |
-| phelui   | blanket             |
+| phethui  | blanket             |
 | whethea  | book                |
 | powhia   | bow                 |
 | poshai   | bowl                |
@@ -293,10 +293,10 @@ domains.
 | rophai   | rope                |
 | sowhia   | saw                 |
 | lithui   | shirt               |
-| shupia   | shoe/sandal         |
+| shuthai  | shoe/sandal         |
 | tephia   | tent                |
 | sithea   | wall                |
-| whelia   | wheel               |
+| whethia  | wheel               |
 | shiwhea  | window              |
 
 ## food and sustenance
@@ -315,14 +315,14 @@ domains.
 | phi word | english translation |
 | -------- | ------------------- |
 | thuwhui  | city                |
-| phamia   | farm                |
+| phathia  | farm                |
 | weshia   | market              |
 | weshai   | marketplace         |
 | nishea   | office              |
-| phenui   | room (enclosed)     |
-| phesoa   | room (space)        |
+| phethui  | room (enclosed)     |
+| phethoa  | room (space)        |
 | theshai  | temple/shrine       |
-| whilia   | village             |
+| whithia  | village             |
 
 ## abstract concepts
 
@@ -348,21 +348,21 @@ domains.
 | tuwhia   | curiosity           |
 | thaphoa  | darkness            |
 | phithoa  | death               |
-| phalea   | depth               |
+| phathea  | depth               |
 | thiphui  | distance            |
 | thaphui  | doubt               |
 | loshui   | dream               |
 | muwhia   | eating              |
 | rushai   | end                 |
 | phewhui  | fear                |
-| phiroa   | freedom             |
-| phulia   | fullness            |
+| phithoa  | freedom             |
+| phuphia  | fullness            |
 | shiphoa  | game                |
 | phewhoa  | gift                |
 | theshoa  | goodness            |
 | hashoa   | greenness           |
 | rawhoa   | greyness            |
-| thilia   | guilt               |
+| thiphia  | guilt               |
 | tishoa   | hardness            |
 | suwhai   | happiness           |
 | mophea   | heat                |
@@ -384,18 +384,18 @@ domains.
 | methea   | lie                 |
 | lothea   | love                |
 | hawhia   | manner (style)      |
-| phohai   | manner (method)     |
+| phothei  | manner (method)     |
 | phuphai  | medicine            |
 | laphui   | mistake/error       |
-| phumia   | money               |
-| phahia   | negative response   |
+| phuthia  | money               |
+| phathia  | negative response   |
 | rawhea   | noise               |
 | reshui   | number              |
 | thiphoa  | peace               |
 | teshui   | policy              |
 | thithia  | power               |
 | phothui  | price               |
-| phorai   | pride               |
+| phothai  | pride               |
 | huphea   | problem             |
 | phuphui  | process             |
 | shuphui  | purpose/goal        |
@@ -406,13 +406,13 @@ domains.
 | sethai   | secret              |
 | hishoa   | sense               |
 | shothui  | service             |
-| shamai   | shame               |
+| shathai  | shame               |
 | nithoa   | silence             |
 | lephea   | similarity          |
 | phishui  | softness            |
 | lashia   | spirit              |
 | phuphoa  | soul                |
-| shoroa   | sorrow              |
+| shothoa  | sorrow              |
 | saphai   | safety              |
 | lothui   | sleeping            |
 | thashoa  | blackness           |
@@ -429,8 +429,8 @@ domains.
 | wethai   | weakness            |
 | wephai   | weight              |
 | lephui   | wisdom              |
-| whonai   | wonder              |
-| phuroa   | word                |
+| whothai  | wonder              |
+| phuthoa  | word                |
 | thuwhia  | work                |
 | thewhai  | writing system      |
 
@@ -442,7 +442,7 @@ domains.
 | luwhia   | container           |
 | whaphoa  | boundary            |
 | neathia  | interior            |
-| ramphoa  | exterior            |
+| rathoa   | exterior            |
 | niphia   | point               |
 | hoshai   | surface             |
 
@@ -454,7 +454,7 @@ domains.
 | sathie   | music               |
 | sathai   | musician            |
 | powhai   | poem                |
-| shulai   | sculpture           |
+| shuthai  | sculpture           |
 | thaphui  | song                |
 
 ## work and occupation
@@ -474,7 +474,7 @@ domains.
 | whuthea  | team                |
 | pewhia   | technology          |
 | thuthia  | lot                 |
-| phimea   | tool                |
+| phithea  | tool                |
 | thophui  | trade/commerce      |
 
 ## colors and visual properties
@@ -482,22 +482,22 @@ domains.
 | phi word | english translation |
 | -------- | ------------------- |
 | wuphia   | amber               |
-| thasia   | black               |
+| thashia  | black               |
 | miphoa   | blue                |
 | shephui  | chartreuse          |
 | sephia   | colorful            |
 | hashea   | green               |
 | rawhai   | grey                |
 | pewhoa   | indigo              |
-| phewoa   | magenta             |
+| phethoa  | magenta             |
 | sathea   | orange              |
 | thuphui  | purple              |
 | lawhai   | red                 |
-| themia   | teal                |
-| phorai   | vermillion          |
+| thethia  | teal                |
+| phothai  | vermillion          |
 | nishai   | violet              |
 | sathia   | white               |
-| philia   | yellow              |
+| phithia  | yellow              |
 
 ## substances and materials
 
@@ -531,7 +531,7 @@ domains.
 | nawhia   | horizon             |
 | whethui  | sky                 |
 | shiphui  | star                |
-| shilai   | world               |
+| shithai  | world               |
 
 ## intellectual and educational
 

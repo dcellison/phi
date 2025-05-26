@@ -58,7 +58,7 @@ Examples: lea (long objects), moi (flat objects), teo (round objects)
 
 ### CONJUNCTIONS: [C][V][C][V]
 Pattern: consonant + vowel + consonant + vowel
-Examples: maca (for), nene (and), woma (as), turae (since)
+Examples: mata (for), nene (and), woma (as), turae (since)
 
 ### INTERJECTIONS: [C][V][C][P]
 Pattern: consonant + vowel + consonant + vowel pair

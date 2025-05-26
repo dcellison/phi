@@ -124,7 +124,7 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | pirone   | enough              |
 | tamile   | entirely            |
 | patane   | especially          |
-| monuke   | extremely           |
+| monute   | extremely           |
 | melute   | incredibly          |
 | malipe   | mainly              |
 | solane   | only                |
@@ -152,7 +152,7 @@ distinctions while allowing for a rich and expressive adverbial vocabulary.
 | mesote   | obviously           |
 | hapite   | perhaps             |
 | tenupe   | probably            |
-| pedone   | really              |
+| petone   | really              |
 | lemite   | similar             |
 | metule   | supposedly          |
 | posane   | thus                |

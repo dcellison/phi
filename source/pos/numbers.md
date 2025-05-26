@@ -35,25 +35,25 @@ regularly by combining digits with magnitude markers.
 
 examples:
 - 18 is `phi phitha who` (one ten eight)
-- 40 is `pho phitha sha` (four ten zero)
+- 40 is `pho phitha sho` (four ten zero)
 - 42 is `pho phitha whu` (four ten two)
 - 304 is `the shupho pho` (three hundred four)
 
 ### implicit zero rule
 
-to reduce verbosity without sacrificing regularity, components representing zero (`sha <magnitude>`) 
-are generally omitted. the component `sha <magnitude>` is only stated if all lower magnitude 
+to reduce verbosity without sacrificing regularity, components representing zero (`sho <magnitude>`) 
+are generally omitted. the component `sho <magnitude>` is only stated if all lower magnitude 
 components would also be zero.
 
 examples:
 - 2023: `whu thuphi whu phitha the` (two thousand two ten three). the "zero hundred" 
-(`sha shupho`) is omitted.
-- 2003: `whu thuphi the` (two thousand three). the "zero hundred" (`sha shupho`) and 
-"zero ten" (`sha phitha`) are omitted.
-- 2000: `whu thuphi` (two thousand). implies `sha shupho sha phitha sha`.
-- 101: `phi shupho phi` (one hundred one). the "zero ten" (`sha phitha`) is omitted.
-- 100: `phi shupho` (one hundred). implies `sha phitha sha`.
-- 40: `pho phitha sha` (four ten zero). the `sha` for the ones place must be stated.
+(`sho shupho`) is omitted.
+- 2003: `whu thuphi the` (two thousand three). the "zero hundred" (`sho shupho`) and 
+"zero ten" (`sho phitha`) are omitted.
+- 2000: `whu thuphi` (two thousand). implies `sho shupho sho phitha sho`.
+- 101: `phi shupho phi` (one hundred one). the "zero ten" (`sho phitha`) is omitted.
+- 100: `phi shupho` (one hundred). implies `sho phitha sho`.
+- 40: `pho phitha sho` (four ten zero). the `sho` for the ones place must be stated.
 
 ### ordinal formation
 
@@ -68,13 +68,13 @@ phonotactic pattern, creating single-syllable words that are easy to pronounce a
 
 | phi word | english translation | number |
 | -------- | ------------------- | ------ |
-| sha      | zero                | 0      |
+| sho      | zero                | 0      |
 | phi      | one                 | 1      |
 | whu      | two                 | 2      |
 | the      | three               | 3      |
 | pho      | four                | 4      |
 | wha      | five                | 5      |
-| thi      | six                 | 6      |
+| thu      | six                 | 6      |
 | shu      | seven               | 7      |
 | who      | eight               | 8      |
 | pha      | nine                | 9      |
@@ -94,7 +94,7 @@ to form larger numbers.
 | shithu   | billion             | 10^9       | 10^9  |
 | phusho   | trillion            | 10^12      | 10^12 |
 | thupho   | quadrillion         | 10^15      | 10^15 |
-| wishia   | quintillion         | 10^18      | 10^18 |
+| whisha   | quintillion         | 10^18      | 10^18 |
 | phuthe   | sextillion          | 10^21      | 10^21 |
 | whipho   | septillion          | 10^24      | 10^24 |
 | thoshi   | octillion           | 10^27      | 10^27 |
@@ -126,7 +126,7 @@ application of the implicit zero rule.
 | phi thuphi whu phitha pho                                                            | one thousand two ten four                                           | 1,024 (kilobyte)         |
 | phi whitha                                                                           | one million                                                         | 1,000,000 (megabyte)     |
 | phi shithu                                                                           | one billion                                                         | 1,000,000,000 (gigabyte) |
-| phi shithu thi phitha the whitha thi shupho pho phitha phi thuphi wha shupho whu phi | one billion seven ten three million seven hundred four ten one thousand eight hundred twenty-one | 1,073,741,821           |
+| phi shithu thu phitha the whitha thu shupho pho phitha phi thuphi wha shupho whu phi | one billion seven ten three million seven hundred four ten one thousand eight hundred twenty-one | 1,073,741,821           |
 
 ## numerical functions
 
@@ -152,7 +152,7 @@ operation verbs:
 | ------------------------- | --------------------------- | ------------------- |
 | phi thuwi whu phera the   | one add two be three        | one plus two equals three |
 | pho thale whu phera whu   | four divide two be two      | four divided by two equals two |
-| the thuno whu phera thi   | three multiply two be six   | three times two equals six |
+| the thuno whu phera thu   | three multiply two be six   | three times two equals six |
 
 ## remaining number word count
 

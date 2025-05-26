@@ -33,7 +33,7 @@ writing.
 
 | phi word | english translation |
 | -------- | ------------------- |
-| maca     | for                 |
+| mata     | for                 |
 | nene     | and                 |
 | poto     | nor                 |
 | tupo     | but                 |

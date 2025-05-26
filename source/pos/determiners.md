@@ -82,24 +82,23 @@ the determiner `phiato`, which precedes the noun `nuthui`.
 | thoana   | no/none             |
 | phiaro   | neither             |
 
-## numbers as determiners
+## numbers functioning as determiners
 
-numbers can also function as determiners in phi. these maintain their regular number 
-patterns as defined in the phi number system:
+while numbers are defined as their own part of speech, they frequently function as 
+determiners when specifying quantity before nouns. in this role, they follow the same 
+grammatical patterns as other quantifying determiners but maintain their identity as 
+numbers.
 
-- digit words follow the `[F][V]` pattern
-- magnitude words follow the `[C][P]` pattern
+| phi example          | english translation  | function        |
+| -------------------- | -------------------- | --------------- |
+| phi thephoa          | one person           | number as determiner |
+| whu teo mophui       | two balls            | number as determiner |
+| the neo siwhea       | three houses         | number as determiner |
+| pho whaea phuroa     | four words           | number as determiner |
 
-the most common number-determiners are:
-
-| phi word | english translation |
-| -------- | ------------------- |
-| sha      | zero                |
-| phi      | one                 |
-| whu      | two                 |
-| the      | three               |
-| pho      | four                |
-| wha      | five                |
+this dual functionality allows numbers to serve both as standalone nouns (when counting) 
+and as determiners (when quantifying other nouns), maintaining phi's principle of 
+systematic word usage without requiring separate determiner definitions for each number.
 
 ## examples of determiner usage
 
@@ -114,7 +113,6 @@ the most common number-determiners are:
 | thiena whethui               | any sky                       |
 | sheame lo thashoa            | most days                     |
 | whaesa phimea                | what tool                     |
-| phi phala                    | one rain                      |
 | thoana loshea                | no ocean                      |
 
 ## remaining determiner count
@@ -128,8 +126,7 @@ phi determiners follow the pattern `[F][P][C][V]` where:
 
 Total possible combinations = 4 × 20 × 9 × 5 = 3,600 determiners
 
-Currently defined determiners = 31 (7 demonstratives + 4 interrogatives + 
-4 universal quantifiers + 8 existential quantifiers + 2 negative quantifiers + 
-6 basic numbers)
+Currently defined determiners = 25 (7 demonstratives + 4 interrogatives + 
+4 universal quantifiers + 8 existential quantifiers + 2 negative quantifiers)
 
-Remaining available determiners = 3,569 
+Remaining available determiners = 3,575 

@@ -151,7 +151,7 @@ examples:
 conjunctions in phi follow a simple two-syllable pattern with no fricatives. this creates a clear, direct sound that distinguishes them from other parts of speech while maintaining phi's syllable structure rules.
 
 examples:
-- maca (for): consonant `m` + vowel `a` + consonant `c` + vowel `a`
+- mata (for): consonant `m` + vowel `a` + consonant `t` + vowel `a`
 - nene (and): consonant `n` + vowel `e` + consonant `n` + vowel `e`
 - woma (as): consonant `w` + vowel `o` + consonant `m` + vowel `a`
 - turae (since): consonant `t` + vowel `u` + consonant `r` + vowel `ae`
