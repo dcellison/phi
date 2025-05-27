@@ -71,25 +71,6 @@ class PhiSentenceValidator:
         self.derivational_validator.set_lexicon_validator(self.lexicon_validator)
         self.emphasis_validator.set_lexicon_validator(self.lexicon_validator)
         
-        # ✅ COMPLETED MODULES (13/13):
-        # - lexicon.py: Word existence validation (3.4KB)
-        # - particles.py: Particle validation (10KB) 
-        # - word_order.py: SOV validation (6.4KB)
-        # - temporal.py: Tense/aspect validation (12KB)
-        # - semantic_roles.py: Animacy/classifier validation (13KB)
-        # - modality.py: Modal logic validation (11KB)
-        # - evidentiality.py: Evidentiality validation (18KB)
-        # - discourse.py: Discourse validation (15KB)
-        # - derivational.py: Derivational validation (30KB)
-        # - emphasis.py: Emphasis particle scope validation (18KB)
-        # - politeness.py: Politeness context validation (20KB)
-        # - interrogative.py: Question structure validation (8KB)
-        # - narrative.py: Narrative sequence validation (10KB)
-        #
-        # 🎉 MODULAR SENTENCE VALIDATOR COMPLETE! 🎉
-        # Successfully refactored 4,767-line monolithic validator into 13 focused modules
-        # Total: ~180KB of clean, maintainable, well-documented validation logic
-    
     def tokenize_sentence(self, sentence: str) -> List[str]:
         """Tokenize a Phi sentence into words."""
         # Remove punctuation and split on whitespace
