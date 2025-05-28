@@ -152,6 +152,17 @@ class ParticleValidator:
             current_group = self._get_particle_order_index(current_particle, order_groups)
             next_group = self._get_particle_order_index(next_particle, order_groups)
             
+            # Special case for Slot 0: Allow flexible ordering between evidentiality and politeness
+            if slot_name == "Slot 0":
+                # Define evidentiality particles and politeness particle
+                evidentiality_particles = {'hi', 'ro', 'nu', 'ti', 'mu', 'pe'}
+                politeness_particle = {'so'}
+                
+                # Allow both "evidentiality + politeness" and "politeness + evidentiality"
+                if (current_particle in evidentiality_particles and next_particle in politeness_particle) or \
+                   (current_particle in politeness_particle and next_particle in evidentiality_particles):
+                    continue  # Skip validation for these flexible combinations
+            
             if current_group > next_group:
                 errors.append(SentenceValidationError(
                     SentenceError.PARTICLE_ORDER,
@@ -270,9 +281,26 @@ class ParticleValidator:
                             verb_found = True
                             break
                     
-                    # Hit a non-verb content word (but not derivational particles or adjectives)
-                    elif next_word_type and not next_word_type.endswith('_particle') and next_token not in ['se', 'ra'] and next_word_type != 'adjective':
-                        break
+                    # Allow slot 0 and slot 2 particles between slot 1 particles and verbs
+                    elif next_word_type and (next_word_type.endswith('_particle') or next_token in self.slot_0_particles or next_token in self.slot_2_particles):
+                        # Skip particles (including slot 2 particles like animacy markers)
+                        continue
+                    
+                    # Allow derivational particles
+                    elif next_token in ['se', 'ra']:
+                        continue
+                    
+                    # Allow adjectives (they might be part of predicate constructions)
+                    elif next_word_type == 'adjective':
+                        continue
+                    
+                    # Allow nouns (subjects and objects in SOV order)
+                    elif next_word_type == 'noun':
+                        continue
+                    
+                    # Allow other content words to continue searching for verb
+                    elif next_word_type and not next_word_type.endswith('_particle'):
+                        continue
                 
                 if not verb_found:
                     errors.append(SentenceValidationError(
@@ -291,10 +319,23 @@ class ParticleValidator:
                     ))
                 else:
                     next_word_type = self._identify_word_type(tokens[i + 1])
-                    if next_word_type and next_word_type.endswith('_particle'):
-                        # Next word is also a particle, which is okay for slot 2
+                    
+                    # Special case for animacy markers: they can precede verbs when marking the subject
+                    if token in ['he', 'pi', 'ne'] and next_word_type == 'verb':
+                        # This is valid: animacy marker + verb (marking the subject of the verb)
                         continue
-                    elif not next_word_type or next_word_type.endswith('_particle'):
+                    
+                    # Normal case: slot 2 particles should precede content words
+                    elif next_word_type and not next_word_type.endswith('_particle'):
+                        # Valid: particle followed by content word
+                        continue
+                    
+                    # Allow chaining of slot 2 particles
+                    elif next_word_type and next_word_type.endswith('_particle'):
+                        # Next word is also a particle, which is okay for slot 2 chaining
+                        continue
+                    
+                    else:
                         errors.append(SentenceValidationError(
                             SentenceError.PARTICLE_SCOPE,
                             f"Slot 2 particle '{token}' not followed by content word",
@@ -305,18 +346,34 @@ class ParticleValidator:
     
     def _identify_word_type(self, word: str) -> Optional[str]:
         """Identify the part of speech of a word."""
-        # Check if it's a particle first
-        if word in self.all_particles:
-            if word in self.slot_0_particles:
-                return "slot_0_particle"
-            elif word in self.slot_1_particles:
-                return "slot_1_particle"
-            elif word in self.slot_2_particles:
-                return "slot_2_particle"
+        # Check if it's a particle first - this takes precedence over lexicon
+        if word in self.slot_0_particles:
+            return "slot_0_particle"
+        elif word in self.slot_1_particles:
+            return "slot_1_particle"
+        elif word in self.slot_2_particles:
+            return "slot_2_particle"
         
         # Check lexicon for content words
         if self.lexicon_validator:
-            return self.lexicon_validator.identify_word_type(word)
+            pos = self.lexicon_validator.identify_word_type(word)
+            if pos:
+                # Convert plural POS forms to singular forms expected by validation logic
+                pos_mapping = {
+                    'nouns': 'noun',
+                    'verbs': 'verb',
+                    'adjectives': 'adjective',
+                    'adverbs': 'adverb',
+                    'particles': 'particle',
+                    'pronouns': 'pronoun',
+                    'prepositions': 'preposition',
+                    'conjunctions': 'conjunction',
+                    'determiners': 'determiner',
+                    'classifiers': 'classifier',
+                    'interjections': 'interjection',
+                    'numbers': 'number'
+                }
+                return pos_mapping.get(pos, pos)
         
         return None
     

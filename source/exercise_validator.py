@@ -242,7 +242,7 @@ class SentenceExerciser:
                 ("so ru whera", "politeness must learn", True),
                 ("hi so he thephoa ta phoni", "evidence politeness human person present live", True),
                 ("wa so he thephoa na ne phuphai ta whuni", "question politeness human person object inanimate medicine present have", True),
-                ("so hi mia ta whemo", "politeness evidence I present think", False),  # wrong order
+                ("so hi mia ta whemo", "politeness evidence I present think", True),  # now valid with flexible ordering
                 ("so he nowhea ta sheme", "politeness human teacher present teach", True),
                 ("so thi ru whera", "politeness you must learn", True),
                 ("so mia na ne whethea ta whupi", "politeness I object inanimate book present read", True),
@@ -425,7 +425,7 @@ class SentenceExerciser:
             # New category: Particle ordering violations
             "particle_ordering": [
                 ("hi so ma mia ta whemo", "evidence politeness emphasis I present think", True),
-                ("so hi ma mia ta whemo", "politeness evidence emphasis I present think", False),  # wrong order
+                ("so hi ma mia ta whemo", "politeness evidence emphasis I present think", True),  # now valid with flexible ordering
                 ("ma hi so mia ta whemo", "emphasis evidence politeness I present think", False),  # wrong order
                 ("hi ma so mia ta whemo", "evidence emphasis politeness I present think", False),  # wrong order
                 ("wa so mia ta whemo", "question politeness I present think", True),

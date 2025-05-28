@@ -1295,6 +1295,15 @@ class PhiSentenceValidator:
                 current_order = self._get_particle_order_index(current_particle, self.slot_0_order)
                 next_order = self._get_particle_order_index(next_particle, self.slot_0_order)
                 
+                # Special case: Allow flexible ordering between evidentiality and politeness
+                evidentiality_particles = {'hi', 'ro', 'nu', 'ti', 'mu', 'pe'}
+                politeness_particle = {'so'}
+                
+                # Allow both "evidentiality + politeness" and "politeness + evidentiality"
+                if (current_particle in evidentiality_particles and next_particle in politeness_particle) or \
+                   (current_particle in politeness_particle and next_particle in evidentiality_particles):
+                    continue  # Skip validation for these flexible combinations
+                
                 if current_order > next_order:
                     errors.append(SentenceValidationError(
                         SentenceError.PARTICLE_ORDER,

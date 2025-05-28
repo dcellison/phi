@@ -86,7 +86,13 @@ class TestParticleValidator(unittest.TestCase):
     
     def test_particle_order_violation(self):
         """Test particle order violations."""
-        tokens = ['so', 'hi', 'mia', 'shola']  # wrong order: politeness before evidentiality
+        tokens = ['hi', 'so', 'mia', 'shola']  # valid order: evidentiality before politeness
+        errors = self.validator.validate_particles(tokens)
+        order_errors = [e for e in errors if e.error_type == SentenceError.PARTICLE_ORDER]
+        self.assertEqual(len(order_errors), 0)  # Should be valid now
+        
+        # Test a different invalid ordering that should still fail
+        tokens = ['wa', 'so', 'mia', 'shola']  # invalid: sentence type should come before politeness
         errors = self.validator.validate_particles(tokens)
         order_errors = [e for e in errors if e.error_type == SentenceError.PARTICLE_ORDER]
         self.assertGreater(len(order_errors), 0)
