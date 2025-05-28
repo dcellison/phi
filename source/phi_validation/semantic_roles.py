@@ -86,6 +86,188 @@ class SemanticRoleValidator:
                     'lathia', 'hashia', 'naiphia', 'powhia'  # axe, hammer, knife, bow
                 },
                 'logic': 'Tool classifier for implements and instruments'
+            },
+            'hau': {  # humans
+                'compatible_nouns': {
+                    'thephoa', 'phiphea', 'nowhea', 'hathai', 'luphea', 'raushai',
+                    # Phase 3 expansion: remaining human nouns
+                    'luthea', 'phethoa', 'phethui', 'phethea', 'luthui', 'hishui'
+                    # person, child, teacher, musician, artist, leader, friend, family terms
+                },
+                'logic': 'Human classifier for people and individuals'
+            },
+            'rao': {  # animals
+                'compatible_nouns': {
+                    'mathai', 'lophea', 'whithea', 'thiphea', 'saphoa',
+                    # Phase 3 expansion: remaining animate nouns
+                    'naphia', 'whiwhui', 'whaiwhea', 'muwhea', 'whithoa', 
+                    'sheuthui', 'lophoa', 'lophia', 'wuphea', 'whuthoa'
+                    # cat, bird, dove, animal, snake + diverse animal types
+                },
+                'logic': 'Animal classifier for mammals, birds, and fish'
+            },
+            'peu': {  # plants
+                'compatible_nouns': {
+                    'liphai', 'roshai', 'lophui'  # tree, flower, art/plant
+                },
+                'logic': 'Plant classifier for all plant life'
+            },
+            'neo': {  # buildings
+                'compatible_nouns': {
+                    'hiwhea', 'wushia'  # house, market
+                },
+                'logic': 'Building classifier for structures'
+            },
+            'heu': {  # vehicles
+                'compatible_nouns': {
+                    'whoshia'  # car/vehicle
+                },
+                'logic': 'Vehicle classifier for transportation'
+            },
+            'wae': {  # clothing
+                'compatible_nouns': {
+                    'tushai', 'shoshai'  # dress, clothing
+                },
+                'logic': 'Clothing classifier for wearable items'
+            },
+            'sae': {  # food
+                'compatible_nouns': {
+                    'noshea', 'liwhai'  # food, drink
+                },
+                'logic': 'Food classifier for food items and dishes'
+            },
+            'tuo': {  # documents
+                'compatible_nouns': {
+                    'whethea', 'luthia', 'phuthui'  # book, letter, document
+                },
+                'logic': 'Document classifier for written works'
+            },
+            'pio': {  # rectangular objects
+                'compatible_nouns': {
+                    'whethea', 'phuthui'  # book, document
+                },
+                'logic': 'Rectangular objects classifier for books, bricks, boxes'
+            },
+            'sio': {  # tools and instruments
+                'compatible_nouns': {
+                    'lathia', 'hashia', 'naiphia', 'powhia'  # axe, hammer, knife, bow
+                },
+                'logic': 'Tool and instrument classifier'
+            },
+            # Phase 1 Physical Classifiers
+            'siu': {  # small objects
+                'compatible_nouns': {
+                    'riwhea', 'nethai', 'phothea'  # grain/seed, net, small round objects
+                },
+                'logic': 'Small objects classifier for grains, beads, seeds'
+            },
+            'pao': {  # pointed objects
+                'compatible_nouns': {
+                    'naiphia', 'lathia', 'powhia'  # knife, axe, bow (pointed/sharp tools)
+                },
+                'logic': 'Pointed objects classifier for knives, needles, spears'
+            },
+            'roi': {  # flexible objects
+                'compatible_nouns': {
+                    'saphoa', 'nethai'  # snake, net (flexible items)
+                },
+                'logic': 'Flexible objects classifier for ropes, vines, snakes'
+            },
+            'hao': {  # hollow objects
+                'compatible_nouns': {
+                    'tuphai', 'poshai'  # cup, bowl (hollow containers)
+                },
+                'logic': 'Hollow objects classifier for tubes, pipes, bottles'
+            },
+            # Phase 1 Specialized Animal Classifiers
+            'tio': {  # insects
+                'compatible_nouns': {
+                    'phashia', 'tephai'  # insect-type creatures
+                },
+                'logic': 'Insect classifier for ants, bees, flies'
+            },
+            'wiu': {  # birds specifically
+                'compatible_nouns': {
+                    'lophea', 'whithea'  # bird, dove (avian creatures)
+                },
+                'logic': 'Bird classifier for all avian creatures'
+            },
+            'seo': {  # aquatic animals
+                'compatible_nouns': {
+                    'liwhoa', 'shewhoa'  # aquatic creatures
+                },
+                'logic': 'Aquatic animal classifier for fish, aquatic mammals'
+            },
+            # Phase 2 Functional Classifiers
+            'pai': {  # artworks and decorative objects
+                'compatible_nouns': {
+                    'lophui', 'nuthea', 'thaphao'  # art, sculpture, song
+                },
+                'logic': 'Artwork classifier for decorative objects and artistic creations'
+            },
+            'wou': {  # electronic and technological devices
+                'compatible_nouns': {
+                    'methuwa', 'whoshia'  # phone/electronic device, car (modern vehicles)
+                },
+                'logic': 'Electronic device classifier for technological items'
+            },
+            'pea': {  # places and locations
+                'compatible_nouns': {
+                    'hiwhea', 'wushia', 'latheo'  # house, market, place/location
+                },
+                'logic': 'Place classifier for locations and geographical areas'
+            },
+            # Phase 2 Temporal/Spatial Classifiers
+            'tea': {  # time periods
+                'compatible_nouns': {
+                    'towhai', 'wethia'  # time-related concepts, periods
+                },
+                'logic': 'Time period classifier for days, months, years'
+            },
+            'lio': {  # distances and measurements
+                'compatible_nouns': {
+                    'huphui', 'shuwhia'  # road/distance, sand/measurement unit
+                },
+                'logic': 'Distance classifier for measurements and spatial extents'
+            },
+            'rae': {  # events and occurrences
+                'compatible_nouns': {
+                    'thaphao', 'lowhai'  # song/event, answer/occurrence
+                },
+                'logic': 'Event classifier for occurrences and happenings'
+            },
+            # Phase 2 Additional Container Classifier
+            'weu': {  # container objects (bowls, cups, baskets)
+                'compatible_nouns': {
+                    'tuphai', 'poshai', 'pashia', 'pashui'  # cup, bowl, bag, basket
+                },
+                'logic': 'Container object classifier for bowls, cups, baskets'
+            },
+            # Phase 3 Abstract Classifiers
+            'leu': {  # ideas and concepts
+                'compatible_nouns': {
+                    'lowhai', 'lophui'  # answer/idea, art/concept
+                },
+                'logic': 'Abstract concept classifier for ideas and thoughts'
+            },
+            'mie': {  # emotions and feelings
+                'compatible_nouns': {
+                    'thaphao'  # song (emotional expression)
+                },
+                'logic': 'Emotion classifier for feelings and emotional expressions'
+            },
+            'nua': {  # social groups and organizations
+                'compatible_nouns': {
+                    'wushia'  # market (social/economic organization)
+                },
+                'logic': 'Social group classifier for organizations and collectives'
+            },
+            # Phase 3 Natural Phenomena Classifier
+            'rau': {  # natural phenomena
+                'compatible_nouns': {
+                    'raoshea', 'hathia'  # sun, specialized natural terms
+                },
+                'logic': 'Natural phenomena classifier for celestial and natural objects'
             }
         }
         

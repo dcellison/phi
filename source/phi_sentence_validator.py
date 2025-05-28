@@ -141,20 +141,21 @@ class PhiSentenceValidator:
         self.slot_0_order = [
             ['wa', 'ho', 'tu', 'hu'],  # sentence type
             ['hi', 'ro', 'nu', 'ti', 'mu', 'pe'],  # evidentiality
-            ['ha', 'mi'],  # discourse
+            ['ha', 'mi', 'lu'],  # discourse and relative
             ['so']  # politeness
         ]
         
         self.slot_1_order = [
             ['li', 'ta', 'su'],  # tense
             ['we', 'la', 'ni', 'po', 'pu', 'ri', 'wi', 'wu'],  # aspect
+            ['to', 'ru'],  # mood (imperative, obligative)
             ['me']  # negation
         ]
         
         self.slot_2_order = [
             ['si', 'na', 'te'],  # POS markers
-            ['he', 'pi', 'ne'],  # animacy (MOVED UP - should come before derivation)
             ['se', 'ra'],  # derivation
+            ['he', 'pi', 'ne'],  # animacy
             ['pa', 'mo', 'sa', 'le', 're'],  # comparison
             ['wo', 'lo', 'no'],  # number
             ['ma']  # emphasis
