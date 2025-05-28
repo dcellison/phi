@@ -21,8 +21,9 @@ class SemanticRoleValidator:
             'human': {
                 'marker': 'he',
                 'nouns': {
-                    'thephoa', 'luthea', 'phethoa', 'phethui', 'lophui', 'phethea',
-                    'luthui', 'phethui', 'lophea', 'phethoa'  # person, friend, family terms
+                    'thephoa', 'luthea', 'phethoa', 'phethui', 'phethea',
+                    'luthui', 'phethui', 'phethoa', 'luphea', 'nowhea', 'hathai',
+                    'hishui', 'phiphea'  # person, friend, family terms, artist, teacher, musician, parent, child
                 },
                 'logic': 'Human animacy marker for people and human relationships'
             },
@@ -46,8 +47,9 @@ class SemanticRoleValidator:
                     'hiwhea', 'lathia', 'pashia', 'mophui', 'pashui', 'phuthui',
                     'whethea', 'powhia', 'poshai', 'whoshia', 'phothea', 'tuphai',
                     'shoshai', 'tushai', 'hashia', 'hathia', 'naiphia', 'luthia',
-                    'maphia', 'nethai', 'riwhea', 'latheo', 'shuwhia'
-                    # objects, tools, natural phenomena, abstract concepts
+                    'maphia', 'nethai', 'riwhea', 'latheo', 'shuwhia', 'lophui',
+                    'lowhai'  # answer - abstract concept
+                    # objects, tools, natural phenomena, abstract concepts, art
                 },
                 'logic': 'Inanimate marker for non-living entities'
             }
@@ -93,8 +95,10 @@ class SemanticRoleValidator:
             'animate_subject_verbs': {
                 'verbs': {
                     'shuna', 'whomo', 'shero', 'shola', 'whumi', 'whepi', 'whawi',
-                    'whuwe', 'phamu', 'whesa', 'shoro', 'sheho', 'thunu'
+                    'whuwe', 'phamu', 'whesa', 'shoro', 'sheho', 'thunu',
+                    'whemo', 'sheli', 'whipu', 'thume', 'shule', 'shire', 'phewa'
                     # call, like, carry, walk, run, jump, fly, sleep, spend, create, destroy, kill, ban
+                    # think, believe, know, remember, understand, want, feel - cognitive verbs
                 },
                 'logic': 'These verbs require animate (living) subjects'
             },
@@ -185,13 +189,30 @@ class SemanticRoleValidator:
                         break
                 
                 # Subject is before the object (or before verb if no object)
+                # Look for nouns with animacy markers to identify the true subject
                 search_end = object_start if object_start is not None else i
-                for j in range(search_end - 1, -1, -1):
-                    prev_word_type = self._identify_word_type(tokens[j])
-                    if prev_word_type == 'noun' and not subject_found:
-                        subjects.append((tokens[j], j, token))
-                        subject_found = True
-                        break
+                
+                # Find all noun phrases before the object/verb
+                noun_phrases = []
+                k = 0
+                while k < search_end:
+                    if tokens[k] in ['he', 'pi', 'ne']:
+                        # Found animacy marker, look for following noun
+                        for m in range(k + 1, min(k + 3, search_end)):
+                            if self._identify_word_type(tokens[m]) == 'noun':
+                                noun_phrases.append((tokens[m], m, tokens[k]))
+                                k = m + 1
+                                break
+                        else:
+                            k += 1
+                    else:
+                        k += 1
+                
+                # The subject is the first noun phrase (before any object)
+                if noun_phrases and not subject_found:
+                    subject_noun, subject_pos, animacy_marker = noun_phrases[0]
+                    subjects.append((subject_noun, subject_pos, token))
+                    subject_found = True
                 
                 # Find object (immediately after 'na')
                 for j in range(i):

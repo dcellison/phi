@@ -30,13 +30,13 @@ class NarrativeValidator:
                 'logical_sequences': {
                     # Main clause tense → subordinate clause tense → validity
                     ('li', 'li'): True,   # "I walked before I ran" (both past, sequence clear)
-                    ('li', 'ta'): False,  # "I walked before I walk" (illogical)
-                    ('li', 'su'): False,  # "I walked before I will walk" (impossible)
+                    ('li', 'ta'): False,  # "I walked before I walk" (past before present - illogical)
+                    ('li', 'su'): True,   # "I walked before I will walk" (past before future)
                     ('ta', 'li'): True,   # "I walk before I walked" (present habit, past event)
                     ('ta', 'ta'): True,   # "I walk before I walk" (habitual sequence)
                     ('ta', 'su'): True,   # "I walk before I will walk" (present leads to future)
-                    ('su', 'li'): False,  # "I will walk before I walked" (impossible)
-                    ('su', 'ta'): False,  # "I will walk before I walk" (illogical)
+                    ('su', 'li'): True,   # "I will walk before I walked" (future planned before past)
+                    ('su', 'ta'): True,   # "I will walk before I walk" (future before present)
                     ('su', 'su'): True,   # "I will walk before I will run" (future sequence)
                 },
                 'logic': 'Before-clauses establish temporal precedence relationships'
@@ -48,12 +48,12 @@ class NarrativeValidator:
                 'subordinate_clause_time': 'before_reference',
                 'logical_sequences': {
                     ('li', 'li'): True,   # "I walked after I ran" (both past, sequence clear)
-                    ('li', 'ta'): False,  # "I walked after I walk" (illogical)
-                    ('li', 'su'): False,  # "I walked after I will walk" (impossible)
+                    ('li', 'ta'): True,   # "I walked after I walk" (past after present)
+                    ('li', 'su'): False,  # "I walked after I will walk" (past after future - impossible)
                     ('ta', 'li'): True,   # "I walk after I walked" (present result of past)
                     ('ta', 'ta'): True,   # "I walk after I walk" (habitual sequence)
-                    ('ta', 'su'): False,  # "I walk after I will walk" (impossible)
-                    ('su', 'li'): True,   # "I will walk after I walked" (future after past)
+                    ('ta', 'su'): True,   # "I walk after I will walk" (present after future)
+                    ('su', 'li'): False,  # "I will walk after I walked" (future after past - impossible)
                     ('su', 'ta'): True,   # "I will walk after I walk" (future after present)
                     ('su', 'su'): True,   # "I will walk after I will run" (future sequence)
                 },

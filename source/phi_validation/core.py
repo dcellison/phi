@@ -85,19 +85,24 @@ class PhiSentenceValidator:
         - sentence: original sentence
         - tokens: tokenized words
         - errors: list of validation errors
+        - actual_errors: list of actual errors
+        - warnings: list of warnings
         - is_valid: boolean indicating overall validity
         - error_summary: count of errors by type
         """
         tokens = self.tokenize_sentence(sentence)
         
         if not tokens:
+            empty_error = SentenceValidationError(
+                SentenceError.INVALID_WORD,
+                "Empty sentence"
+            )
             return {
                 "sentence": sentence,
                 "tokens": tokens,
-                "errors": [SentenceValidationError(
-                    SentenceError.INVALID_WORD,
-                    "Empty sentence"
-                )],
+                "errors": [empty_error],
+                "actual_errors": [empty_error],
+                "warnings": [],
                 "is_valid": False,
                 "error_summary": {"Empty sentence": 1}
             }
@@ -145,15 +150,26 @@ class PhiSentenceValidator:
         
         # Summarize errors by type
         error_summary = {}
+        actual_errors = []
+        warnings = []
+        
         for error in all_errors:
             error_type = error.error_type.value
             error_summary[error_type] = error_summary.get(error_type, 0) + 1
+            
+            # Separate warnings from actual errors
+            if error_type.endswith('_warning'):
+                warnings.append(error)
+            else:
+                actual_errors.append(error)
         
         return {
             "sentence": sentence,
             "tokens": tokens,
             "errors": all_errors,
-            "is_valid": len(all_errors) == 0,
+            "actual_errors": actual_errors,
+            "warnings": warnings,
+            "is_valid": len(actual_errors) == 0,  # Only actual errors affect validity
             "error_summary": error_summary
         }
     
@@ -162,6 +178,8 @@ class PhiSentenceValidator:
         sentence = validation_result["sentence"]
         tokens = validation_result["tokens"]
         errors = validation_result["errors"]
+        actual_errors = validation_result["actual_errors"]
+        warnings = validation_result["warnings"]
         is_valid = validation_result["is_valid"]
         
         report = f"""
@@ -173,9 +191,9 @@ Tokens: {' | '.join(tokens)}
 VALIDATION STATUS: {'✅ VALID' if is_valid else '❌ INVALID'}
 """
         
-        if errors:
-            report += f"\nERRORS FOUND ({len(errors)}):\n"
-            for i, error in enumerate(errors, 1):
+        if actual_errors:
+            report += f"\nACTUAL ERRORS FOUND ({len(actual_errors)}):\n"
+            for i, error in enumerate(actual_errors, 1):
                 position_info = f" (position {error.position})" if error.position is not None else ""
                 word_info = f" [word: {error.word}]" if error.word else ""
                 report += f"  {i}. [{error.error_type.value.upper()}]{position_info} {error.message}{word_info}\n"
@@ -185,7 +203,22 @@ VALIDATION STATUS: {'✅ VALID' if is_valid else '❌ INVALID'}
             for error_type, count in validation_result["error_summary"].items():
                 report += f"  {error_type}: {count}\n"
         else:
-            report += "\n✅ No errors found - sentence follows all Phi grammar rules!\n"
+            report += "\n✅ No actual errors found - sentence follows all Phi grammar rules!\n"
+        
+        if warnings:
+            report += f"\nWARNINGS FOUND ({len(warnings)}):\n"
+            for i, warning in enumerate(warnings, 1):
+                position_info = f" (position {warning.position})" if warning.position is not None else ""
+                word_info = f" [word: {warning.word}]" if warning.word else ""
+                report += f"  {i}. [{warning.error_type.value.upper()}]{position_info} {warning.message}{word_info}\n"
+            
+            # Warning summary
+            report += f"\nWARNING SUMMARY:\n"
+            for error_type, count in validation_result["error_summary"].items():
+                if error_type.endswith('_warning'):
+                    report += f"  {error_type}: {count}\n"
+        else:
+            report += "\n✅ No warnings found - sentence follows all Phi grammar rules!\n"
         
         return report
 

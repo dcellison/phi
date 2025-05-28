@@ -589,9 +589,14 @@ class PolitenessValidator:
             'phemo'   # think (when used emotionally)
         }
         
-        # Emphasis particles indicating emotional intensity
+        # Only flag emphasis as emotional if combined with emotional vocabulary
+        # Emphasis alone is not necessarily emotional - it can be contrastive or formal
         if 'ma' in tokens:
-            emotional_markers.append('emphasis_particle')
+            # Check if emphasis is used with emotional words
+            has_emotional_words = any(word in emotional_words for word in tokens)
+            if has_emotional_words:
+                emotional_markers.append('emphasis_with_emotional_content')
+            # Otherwise, emphasis is considered neutral/formal and compatible with politeness
         
         for token in tokens:
             if token in emotional_words:

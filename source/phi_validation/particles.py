@@ -8,6 +8,7 @@ grammatical rules for Phi sentences.
 
 from typing import List, Dict, Set, Optional
 from .errors import SentenceError, SentenceValidationError
+from .clause_parser import get_clause_parser
 
 
 class ParticleValidator:
@@ -110,6 +111,9 @@ class ParticleValidator:
         # 2. Validate particle scope
         errors.extend(self.validate_particle_scope(tokens))
         
+        # 3. Validate no duplicate particles
+        errors.extend(self.validate_no_duplicates(tokens))
+        
         return errors
     
     def validate_particle_order(self, tokens: List[str]) -> List[SentenceValidationError]:
@@ -126,10 +130,8 @@ class ParticleValidator:
                            if token in self.slot_1_particles]
         errors.extend(self._validate_slot_order(slot_1_particles, self.slot_1_order, "Slot 1"))
         
-        # Check slot 2 ordering
-        slot_2_particles = [(i, token) for i, token in enumerate(tokens) 
-                           if token in self.slot_2_particles]
-        errors.extend(self._validate_slot_order(slot_2_particles, self.slot_2_order, "Slot 2"))
+        # Check slot 2 ordering (group by target words)
+        errors.extend(self._validate_slot_2_order(tokens))
         
         return errors
     
@@ -167,21 +169,108 @@ class ParticleValidator:
                 return i
         return len(order_groups)  # Unknown particles go last
     
+    def _validate_slot_2_order(self, tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate slot 2 particle ordering within groups that modify the same target word."""
+        errors = []
+        
+        # Group consecutive slot 2 particles with their target words
+        particle_groups = []
+        i = 0
+        while i < len(tokens):
+            if tokens[i] in self.slot_2_particles:
+                # Special handling for emphasis particle 'ma'
+                if tokens[i] == 'ma':
+                    # Check if 'ma' is followed by other slot 2 particles
+                    if i + 1 < len(tokens) and tokens[i + 1] in self.slot_2_particles:
+                        # 'ma' emphasizes the following phrase, treat as separate group
+                        particle_groups.append({
+                            'particles': [(i, tokens[i])],
+                            'target_word': f"phrase_starting_with_{tokens[i + 1]}",
+                            'target_pos': i + 1,
+                            'is_emphasis': True
+                        })
+                        i += 1
+                        continue
+                    else:
+                        # 'ma' followed by content word, normal processing
+                        pass
+                
+                # Start of a particle group (normal processing)
+                group_start = i
+                group_particles = []
+                
+                # Collect consecutive slot 2 particles (excluding emphasis that modifies phrases)
+                while i < len(tokens) and tokens[i] in self.slot_2_particles:
+                    # Skip 'ma' if it's emphasizing a phrase (already handled above)
+                    if tokens[i] == 'ma' and i > group_start:
+                        break
+                    group_particles.append((i, tokens[i]))
+                    i += 1
+                
+                # Find the target word (should be immediately after the particles)
+                target_word = None
+                target_pos = None
+                if i < len(tokens):
+                    target_word = tokens[i]
+                    target_pos = i
+                
+                if group_particles:  # Only add if we have particles
+                    particle_groups.append({
+                        'particles': group_particles,
+                        'target_word': target_word,
+                        'target_pos': target_pos,
+                        'is_emphasis': False
+                    })
+            else:
+                i += 1
+        
+        # Validate ordering within each group (skip emphasis groups)
+        for group in particle_groups:
+            if len(group['particles']) > 1 and not group.get('is_emphasis', False):
+                errors.extend(self._validate_slot_order(
+                    group['particles'], 
+                    self.slot_2_order, 
+                    f"Slot 2 (targeting '{group['target_word']}')"
+                ))
+        
+        return errors
+    
     def validate_particle_scope(self, tokens: List[str]) -> List[SentenceValidationError]:
         """Validate that particles are properly positioned relative to their targets."""
         errors = []
         
         for i, token in enumerate(tokens):
             if token in self.slot_1_particles:
-                # Slot 1 particles should precede a verb
+                # Slot 1 particles should precede a verb (including derived verbs and adjective predicates)
                 verb_found = False
                 for j in range(i + 1, len(tokens)):
-                    next_word_type = self._identify_word_type(tokens[j])
+                    next_token = tokens[j]
+                    next_word_type = self._identify_word_type(next_token)
+                    
+                    # Check for regular verbs
                     if next_word_type == 'verb':
                         verb_found = True
                         break
-                    elif next_word_type and not next_word_type.endswith('_particle'):
-                        # Hit a non-verb content word
+                    
+                    # Check for derivational constructions that create verbs
+                    elif next_token == 'se' and j + 1 < len(tokens):
+                        # se + noun = derived verb
+                        following_token = tokens[j + 1]
+                        following_word_type = self._identify_word_type(following_token)
+                        if following_word_type == 'noun':
+                            verb_found = True
+                            break
+                    
+                    # Check for adjective + copula constructions
+                    elif next_word_type == 'adjective' and j + 1 < len(tokens):
+                        # adjective + phera = adjective predicate
+                        following_token = tokens[j + 1]
+                        if following_token == 'phera':  # copula verb
+                            verb_found = True
+                            break
+                    
+                    # Hit a non-verb content word (but not derivational particles or adjectives)
+                    elif next_word_type and not next_word_type.endswith('_particle') and next_token not in ['se', 'ra'] and next_word_type != 'adjective':
                         break
                 
                 if not verb_found:
@@ -254,4 +343,94 @@ class ParticleValidator:
         elif particle in self.mood_particles:
             return "mood"
         else:
-            return "other" 
+            return "other"
+    
+    def validate_no_duplicates(self, tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate that particles are not duplicated inappropriately within each clause."""
+        errors = []
+        
+        # Split sentence into clauses using shared clause parser
+        clauses = get_clause_parser(self.lexicon_validator).split_into_clauses(tokens)
+        
+        # Validate each clause separately for particle duplicates
+        for clause_tokens, clause_start_idx in clauses:
+            if clause_tokens:  # Skip empty clauses
+                clause_errors = self._validate_clause_no_duplicates(clause_tokens, clause_start_idx)
+                errors.extend(clause_errors)
+        
+        return errors
+    
+    def _validate_clause_no_duplicates(self, tokens: List[str], start_idx: int) -> List[SentenceValidationError]:
+        """Validate that particles are not duplicated within a single clause."""
+        errors = []
+        
+        # Track particles we've seen by slot type within this clause
+        seen_slot_0_particles = {}  # Sentence-level particles (should not repeat)
+        seen_slot_1_particles = {}  # Verb-level particles (should not repeat)
+        seen_slot_2_with_targets = []  # Slot 2 particles with their targets
+        
+        i = 0
+        while i < len(tokens):
+            token = tokens[i]
+            
+            if token in self.all_particles:
+                if token in self.slot_0_particles:
+                    # Slot 0 particles should not be duplicated within a clause
+                    if token in seen_slot_0_particles:
+                        prev_pos = seen_slot_0_particles[token]
+                        errors.append(SentenceValidationError(
+                            SentenceError.PARTICLE_ORDER,
+                            f"Duplicate slot 0 particle '{token}' found at positions {start_idx + prev_pos} and {start_idx + i}. "
+                            f"Sentence-level particles should not be repeated within a clause",
+                            position=start_idx + i,
+                            word=token
+                        ))
+                    else:
+                        seen_slot_0_particles[token] = i
+                
+                elif token in self.slot_1_particles:
+                    # Slot 1 particles should not be duplicated within a clause
+                    if token in seen_slot_1_particles:
+                        prev_pos = seen_slot_1_particles[token]
+                        errors.append(SentenceValidationError(
+                            SentenceError.PARTICLE_ORDER,
+                            f"Duplicate slot 1 particle '{token}' found at positions {start_idx + prev_pos} and {start_idx + i}. "
+                            f"Verb-level particles should not be repeated within a clause",
+                            position=start_idx + i,
+                            word=token
+                        ))
+                    else:
+                        seen_slot_1_particles[token] = i
+                
+                elif token in self.slot_2_particles:
+                    # Slot 2 particles can be repeated if they modify different targets
+                    # Find the target word for this particle
+                    target_word = None
+                    target_pos = None
+                    
+                    # Look ahead to find the target (skip other slot 2 particles)
+                    j = i + 1
+                    while j < len(tokens) and tokens[j] in self.slot_2_particles:
+                        j += 1
+                    
+                    if j < len(tokens):
+                        target_word = tokens[j]
+                        target_pos = j
+                    
+                    # Check if this particle+target combination already exists within this clause
+                    for prev_particle, prev_target, prev_pos in seen_slot_2_with_targets:
+                        if prev_particle == token and prev_target == target_word:
+                            errors.append(SentenceValidationError(
+                                SentenceError.PARTICLE_ORDER,
+                                f"Duplicate slot 2 particle '{token}' modifying same target '{target_word}' "
+                                f"found at positions {start_idx + prev_pos} and {start_idx + i}",
+                                position=start_idx + i,
+                                word=token
+                            ))
+                            break
+                    
+                    seen_slot_2_with_targets.append((token, target_word, i))
+            
+            i += 1
+        
+        return errors 

@@ -54,9 +54,8 @@ class InterrogativeValidator:
                         'logic': 'Reason questions typically refer to past events or current states'
                     },
                     'timane': {  # when
-                        'preferred_tenses': ['li', 'su'],  # past events or future plans
-                        'avoid_tenses': ['ta'],  # "when do you walk?" is odd for habitual
-                        'logic': 'Time questions typically ask about specific events'
+                        'preferred_tenses': ['li', 'su', 'ta'],  # past events, future plans, or habitual
+                        'logic': 'Time questions can ask about past events, future plans, or habitual occurrences'
                     },
                     'wulime': {  # where
                         'preferred_tenses': ['ta', 'li', 'su'],  # location can be any time

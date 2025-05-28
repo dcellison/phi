@@ -256,6 +256,58 @@ class EmphasisValidator:
             ))
             return errors
         
+        # Get the immediate next word
+        immediate_target = tokens[position + 1]
+        immediate_target_type = self._identify_word_type(immediate_target)
+        
+        # Special handling for animacy particles - they're valid when followed by nouns
+        if immediate_target in ['he', 'pi', 'ne']:
+            if position + 2 < len(tokens):
+                following_word = tokens[position + 2]
+                following_type = self._identify_word_type(following_word)
+                if following_type == 'noun':
+                    # Valid: ma + animacy + noun (emphasizes the noun phrase)
+                    return errors
+                else:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EMPHASIS_SCOPE_ERROR,
+                        f"Emphasis on animacy marker '{immediate_target}' not followed by noun",
+                        position=position,
+                        word=f"ma+{immediate_target}"
+                    ))
+                    return errors
+            else:
+                errors.append(SentenceValidationError(
+                    SentenceError.EMPHASIS_SCOPE_ERROR,
+                    f"Emphasis on animacy marker '{immediate_target}' incomplete - missing target noun",
+                    position=position,
+                    word=f"ma+{immediate_target}"
+                ))
+                return errors
+        
+        # Special handling for derivational particles
+        if immediate_target in ['se', 'ra']:
+            if position + 2 < len(tokens):
+                following_word = tokens[position + 2]
+                following_type = self._identify_word_type(following_word)
+                expected_type = 'noun' if immediate_target == 'se' else 'verb'
+                if following_type == expected_type:
+                    # Valid derivational construction
+                    return errors
+                else:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EMPHASIS_SCOPE_ERROR,
+                        f"Emphasis on derivational particle '{immediate_target}' not followed by {expected_type}",
+                        position=position,
+                        word=f"ma+{immediate_target}"
+                    ))
+                    return errors
+        
+        # Special handling for tense particles - allow for temporal emphasis
+        if immediate_target in ['ta', 'li', 'su']:
+            # Valid: ma + tense for temporal contrast (NOW vs THEN vs WILL)
+            return errors
+        
         # Find the target word (skip intervening particles to find content word)
         target_position = None
         target_word = None
@@ -310,53 +362,63 @@ class EmphasisValidator:
         
         # Check if ma is directly targeting a tense particle
         if target_word == 'ta':
-            # Check if 'ta' is followed by a verb
-            verb_follows = False
-            if position + 2 < len(tokens):
-                next_word_type = self._identify_word_type(tokens[position + 2])
-                if next_word_type == 'verb':
-                    verb_follows = True
-            
-            # Special case: sentence-initial ma targeting ta is invalid
-            if position == 0 and verb_follows:
-                errors.append(SentenceValidationError(
-                    SentenceError.EMPHASIS_SCOPE_ERROR,
-                    f"Sentence-initial emphasis 'ma' cannot target present tense 'ta'. "
-                    f"Use 'ma' before the verb instead.",
-                    position=position,
-                    word=f"ma+{target_word}"
-                ))
-                return errors
-            elif not verb_follows:
-                errors.append(SentenceValidationError(
-                    SentenceError.EMPHASIS_SCOPE_ERROR,
-                    f"Emphasis particle 'ma' targeting 'ta' not followed by verb",
-                    position=position,
-                    word=f"ma+{target_word}"
-                ))
-                return errors
+            # Allow emphasis on present tense for temporal contrast
+            # This is valid for contrastive focus: "NOW they live" vs "THEN they lived"
+            return errors
         elif target_word in ['li', 'su']:
-            # Check if this tense particle is followed by a verb
-            verb_follows = False
+            # Allow emphasis on past/future tense for temporal contrast
+            return errors
+        
+        # Special handling for animacy particles - they're valid targets when followed by nouns
+        if target_word in ['he', 'pi', 'ne']:
+            # Check if animacy particle is followed by a noun
             if position + 2 < len(tokens):
-                next_word_type = self._identify_word_type(tokens[position + 2])
-                if next_word_type == 'verb':
-                    verb_follows = True
-            
-            if not verb_follows:
+                following_word = tokens[position + 2]
+                following_type = self._identify_word_type(following_word)
+                if following_type == 'noun':
+                    # Valid: ma + animacy + noun (emphasizes the noun phrase)
+                    return errors
+                else:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EMPHASIS_SCOPE_ERROR,
+                        f"Emphasis on animacy marker '{target_word}' not followed by noun",
+                        position=position,
+                        word=f"ma+{target_word}"
+                    ))
+                    return errors
+            else:
                 errors.append(SentenceValidationError(
                     SentenceError.EMPHASIS_SCOPE_ERROR,
-                    f"Emphasis on tense marker '{target_word}' not followed by verb",
+                    f"Emphasis on animacy marker '{target_word}' incomplete - missing target noun",
                     position=position,
                     word=f"ma+{target_word}"
                 ))
                 return errors
         
-        # Check for prohibited targets (direct targeting of particles)
-        if target_type in ['slot_0_particle', 'slot_1_particle'] and target_word not in ['he', 'pi', 'ne', 'mo', 'pa', 'sa', 'wo', 'lo', 'no', 'se', 'ra', 'li', 'ta', 'su']:
+        # Special handling for other slot 2 particles that can be emphasized
+        if target_word in ['se', 'ra']:
+            # Derivational particles - check if followed by appropriate word
+            if position + 2 < len(tokens):
+                following_word = tokens[position + 2]
+                following_type = self._identify_word_type(following_word)
+                if (target_word == 'se' and following_type == 'noun') or (target_word == 'ra' and following_type == 'verb'):
+                    # Valid derivational construction
+                    return errors
+                else:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EMPHASIS_SCOPE_ERROR,
+                        f"Emphasis on derivational particle '{target_word}' not followed by appropriate word",
+                        position=position,
+                        word=f"ma+{target_word}"
+                    ))
+                    return errors
+        
+        # Check for prohibited targets (other particles that shouldn't be emphasized)
+        prohibited_particles = ['wa', 'ho', 'tu', 'hu', 'hi', 'ro', 'nu', 'ti', 'mu', 'pe', 'ha', 'mi', 'lu', 'so', 'we', 'la', 'ni', 'po', 'pu', 'ri', 'wi', 'wu', 'to', 'ru', 'me', 'si', 'na', 'te']
+        if target_word in prohibited_particles:
             errors.append(SentenceValidationError(
                 SentenceError.EMPHASIS_SCOPE_ERROR,
-                f"Emphasis particle 'ma' cannot target {target_type} '{target_word}'. "
+                f"Emphasis particle 'ma' cannot target particle '{target_word}'. "
                 f"{self.emphasis_scope_rules['target_restrictions']['logic']}",
                 position=position,
                 word=f"ma+{target_word}"
@@ -381,15 +443,6 @@ class EmphasisValidator:
         
         if not content_target_word:
             return errors  # Already handled in immediate scope validation
-        
-        # Check for special cases
-        # 1. Derived words (se+noun, ra+verb) - these are allowed
-        if position + 1 < len(tokens) and tokens[position + 1] in ['se', 'ra']:
-            # This is emphasizing a derivational construction - allowed
-            return errors
-        
-        # 2. Check for compound constructions (not allowed)
-        # This would need more sophisticated analysis of phrase structure
         
         return errors
     

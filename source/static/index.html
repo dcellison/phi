@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phi Sentence Validator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .input-section {
+            margin-bottom: 30px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+            color: #34495e;
+        }
+        
+        input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        
+        input[type="text"]:focus {
+            border-color: #3498db;
+            outline: none;
+        }
+        
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        
+        button:hover {
+            background-color: #2980b9;
+        }
+        
+        button:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+        
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 5px;
+            border-left: 5px solid #3498db;
+        }
+        
+        .result.valid {
+            background-color: #d5f4e6;
+            border-left-color: #27ae60;
+        }
+        
+        .result.invalid {
+            background-color: #fdf2f2;
+            border-left-color: #e74c3c;
+        }
+        
+        .status {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        .status.valid {
+            color: #27ae60;
+        }
+        
+        .status.invalid {
+            color: #e74c3c;
+        }
+        
+        .tokens {
+            margin: 15px 0;
+            padding: 10px;
+            background-color: #ecf0f1;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        
+        .errors {
+            margin-top: 15px;
+        }
+        
+        .error-item {
+            background-color: #fff5f5;
+            border: 1px solid #fed7d7;
+            border-radius: 3px;
+            padding: 10px;
+            margin: 5px 0;
+        }
+        
+        .error-type {
+            font-weight: bold;
+            color: #c53030;
+        }
+        
+        .examples {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+        
+        .example-sentence {
+            background-color: #e9ecef;
+            padding: 8px 12px;
+            margin: 5px 0;
+            border-radius: 3px;
+            cursor: pointer;
+            font-family: monospace;
+        }
+        
+        .example-sentence:hover {
+            background-color: #dee2e6;
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            color: #7f8c8d;
+        }
+        
+        .tokens-analysis {
+            margin: 15px 0;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            border: 1px solid #e9ecef;
+        }
+        
+        .interlinear-gloss {
+            font-family: 'Courier New', monospace;
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            margin: 15px 0;
+            line-height: 1.8;
+        }
+        
+        .gloss-columns {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+            gap: 10px;
+            margin: 10px 0;
+        }
+        
+        .gloss-column {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            min-width: 60px;
+        }
+        
+        .word-cell {
+            font-weight: normal;
+            color: #2c3e50;
+            font-size: 16px;
+            margin-bottom: 4px;
+            word-break: break-word;
+        }
+        
+        .gloss-cell {
+            font-weight: bold;
+            color: #6c757d;
+            font-size: 14px;
+            word-break: break-word;
+        }
+        
+        .gloss-line {
+            margin: 8px 0;
+            white-space: pre-wrap;
+            word-spacing: 0.5em;
+        }
+        
+        .words-line {
+            font-weight: normal;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+        
+        .glosses-line {
+            font-weight: bold;
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        .translation-line {
+            font-style: italic;
+            color: #495057;
+            font-size: 15px;
+            border-top: 1px solid #e9ecef;
+            padding-top: 10px;
+            margin-top: 10px;
+        }
+        
+        .gloss-label {
+            font-weight: bold;
+            color: #6c757d;
+            font-size: 12px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+        
+        .tokens-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            margin: 10px 0;
+        }
+        
+        .token-item {
+            padding: 12px;
+            background-color: #fff;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .token-word {
+            font-weight: bold;
+            font-size: 16px;
+            color: #2c3e50;
+            margin-bottom: 4px;
+        }
+        
+        .token-gloss {
+            font-size: 12px;
+            color: #6c757d;
+            font-family: monospace;
+            background-color: #f8f9fa;
+            padding: 2px 4px;
+            border-radius: 3px;
+            margin-bottom: 2px;
+        }
+        
+        .token-translation {
+            font-size: 13px;
+            color: #495057;
+            font-style: italic;
+            margin-bottom: 4px;
+        }
+        
+        .token-pos {
+            font-size: 11px;
+            color: #868e96;
+            text-transform: uppercase;
+            font-weight: 500;
+        }
+        
+        .pos-verb { border-left: 4px solid #28a745; }
+        .pos-noun { border-left: 4px solid #007bff; }
+        .pos-adjective { border-left: 4px solid #ffc107; }
+        .pos-particle { border-left: 4px solid #6f42c1; }
+        .pos-pronoun { border-left: 4px solid #fd7e14; }
+        .pos-unknown { border-left: 4px solid #6c757d; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Phi Sentence Validator</h1>
+        
+        <div class="input-section">
+            <label for="sentence">Enter a Phi sentence to validate:</label>
+            <input type="text" id="sentence" placeholder="mia ta whemo" autocomplete="off">
+            <button onclick="validateSentence()" id="validateBtn">Validate</button>
+        </div>
+        
+        <div class="loading" id="loading">
+            Validating sentence...
+        </div>
+        
+        <div id="result" style="display: none;"></div>
+        
+        <div class="examples">
+            <h3>Example Sentences (click to try):</h3>
+            <div class="example-sentence" onclick="setSentence('mia ta whemo')">mia ta whemo</div>
+            <div class="example-sentence" onclick="setSentence('he thephoa na ne noshea ta theso')">he thephoa na ne noshea ta theso</div>
+            <div class="example-sentence" onclick="setSentence('pi mathai ta whuwe')">pi mathai ta whuwe</div>
+            <div class="example-sentence" onclick="setSentence('wa thi ta whera')">wa thi ta whera</div>
+            <div class="example-sentence" onclick="setSentence('so mia na ne lowhai to whesa')">so mia na ne lowhai to whesa</div>
+            <div class="example-sentence" onclick="setSentence('ma he thephoa ta phoni')">ma he thephoa ta phoni</div>
+            <div class="example-sentence" onclick="setSentence('invalidword ta whemo')">invalidword ta whemo (invalid)</div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8080';
+        
+        function setSentence(sentence) {
+            document.getElementById('sentence').value = sentence;
+        }
+        
+        async function validateSentence() {
+            const sentence = document.getElementById('sentence').value.trim();
+            
+            if (!sentence) {
+                alert('Please enter a sentence to validate');
+                return;
+            }
+            
+            const validateBtn = document.getElementById('validateBtn');
+            const loading = document.getElementById('loading');
+            const resultDiv = document.getElementById('result');
+            
+            // Show loading state
+            validateBtn.disabled = true;
+            loading.style.display = 'block';
+            resultDiv.style.display = 'none';
+            
+            try {
+                const response = await fetch(`${API_BASE}/validate`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ sentence: sentence })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    displayResult(data);
+                } else {
+                    displayError(data.error || 'Unknown error occurred');
+                }
+                
+            } catch (error) {
+                displayError(`Network error: ${error.message}. Make sure the API server is running on ${API_BASE}`);
+            } finally {
+                validateBtn.disabled = false;
+                loading.style.display = 'none';
+            }
+        }
+        
+        function displayResult(data) {
+            const resultDiv = document.getElementById('result');
+            const isValid = data.is_valid;
+            
+            let html = `
+                <div class="result ${isValid ? 'valid' : 'invalid'}">
+                    <div class="status ${isValid ? 'valid' : 'invalid'}">
+                        ${isValid ? '✅ Valid Sentence' : '❌ Invalid Sentence'}
+                    </div>
+                    
+                    <div><strong>Sentence:</strong> "${data.sentence}"</div>
+            `;
+            
+            // Add tokens with glosses and translations
+            if (data.tokens_with_glosses && data.tokens_with_glosses.length > 0) {
+                html += `
+                    <div class="tokens-analysis">
+                        <strong>Interlinear Gloss:</strong>
+                        <div class="interlinear-gloss">
+                            <div class="gloss-columns">
+                `;
+                
+                // Create aligned columns for each word-gloss pair
+                data.tokens_with_glosses.forEach(token => {
+                    html += `
+                        <div class="gloss-column">
+                            <div class="word-cell">${token.word}</div>
+                            <div class="gloss-cell">${token.gloss || token.word}</div>
+                        </div>
+                    `;
+                });
+                
+                html += `
+                            </div>
+                        </div>
+                    </div>
+                `;
+            } else {
+                // Fallback to simple tokens display
+                html += `<div class="tokens"><strong>Tokens:</strong> ${data.tokens.join(' | ')}</div>`;
+            }
+            
+            if (data.errors && data.errors.length > 0) {
+                html += `
+                    <div class="errors">
+                        <strong>Errors (${data.error_count}):</strong>
+                `;
+                
+                data.errors.forEach(error => {
+                    html += `
+                        <div class="error-item">
+                            <span class="error-type">${error.type}</span>
+                            ${error.position !== null ? ` (position ${error.position})` : ''}
+                            <br>
+                            ${error.message}
+                        </div>
+                    `;
+                });
+                
+                html += '</div>';
+            }
+            
+            if (data.warnings && data.warnings.length > 0) {
+                html += `
+                    <div class="errors">
+                        <strong>Warnings (${data.warning_count}):</strong>
+                `;
+                
+                data.warnings.forEach(warning => {
+                    html += `
+                        <div class="error-item" style="background-color: #fffbf0; border-color: #fbd38d;">
+                            <span class="error-type" style="color: #d69e2e;">${warning.type}</span>
+                            ${warning.position !== null ? ` (position ${warning.position})` : ''}
+                            <br>
+                            ${warning.message}
+                        </div>
+                    `;
+                });
+                
+                html += '</div>';
+            }
+            
+            html += '</div>';
+            
+            resultDiv.innerHTML = html;
+            resultDiv.style.display = 'block';
+        }
+        
+        function displayError(errorMessage) {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = `
+                <div class="result invalid">
+                    <div class="status invalid">❌ Error</div>
+                    <div>${errorMessage}</div>
+                </div>
+            `;
+            resultDiv.style.display = 'block';
+        }
+        
+        // Allow Enter key to validate
+        document.getElementById('sentence').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                validateSentence();
+            }
+        });
+        
+        // Focus on input when page loads
+        window.onload = function() {
+            document.getElementById('sentence').focus();
+        };
+    </script>
+</body>
+</html> 

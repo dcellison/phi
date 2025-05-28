@@ -103,13 +103,13 @@ the particle `so` precedes a statement or request to add a layer of politeness, 
 | type    | sentence (direct request) |
 | ------- | ------------------------- |
 | english | throw the pebble 		  |
-| phi     | nuthui phuwa              |
+| phi     | nuthui whuwa              |
 | gloss | pebble throw               |
 
 | type    | sentence (polite request)                             |
 | ------- | ----------------------------------------------------- |
 | english | please throw the pebble / would you throw the pebble? |
-| phi     | so nuthui phuwa                                       |
+| phi     | so nuthui whuwa                                       |
 | gloss | POL pebble throw                                       |
 
 | type    | sentence (direct statement)   |
@@ -198,19 +198,19 @@ these particles precede the verb complex and indicate tense, aspect, mood, or ne
 
 | phi | category          | type                | example usage | gloss | english                       |
 | --- | ----------------- | ------------------- | ------------- | --------------- | ---------------------------- |
-| li  | tense/aspect      | simple past         | li phuwa      | `PST throw`     | did throw                    |
-| ta  | tense/aspect      | simple present      | ta phuwa      | `PRS throw`     | do throw                     |
-| su  | tense/aspect      | simple future       | su phuwa      | `FUT throw`     | will throw                   |
-| we  | tense/aspect      | dusiderative | we phuwa       | `DES throw`     | wants to throw               |
-| to  | tense/aspect      | impurative | to phuwa       | `IMP throw`     | (command to) throw           |
-| ru  | tense/aspect      | obligative          | ru phuwa      | `OBLG throw`    | should throw                 |
-| la  | tense/aspect      | present progressive | la phuwa      | `PROG throw`    | throwing                     |
-| ni  | tense/aspect      | present perfect     | ni phuwa      | `PRF throw`     | has thrown                   |
-| po  | tense/aspect      | habitual            | po phuwa      | `HAB throw`     | usually throws               |
-| pu  | tense/aspect      | perfective          | pu phuwa      | `PFV throw`     | did throw (completed)        |
-| ri  | tense/aspect      | imperfective        | ri phuwa      | `IPFV throw`    | was throwing / used to throw |
-| wi  | tense/aspect      | inceptive           | wi phuwa      | `INCH throw`    | starts throwing              |
-| wu  | tense/aspect      | cessative           | wu phuwa      | `CESS throw`    | stops throwing               |
+| li  | tense/aspect      | simple past         | li whuwa      | `PST throw`     | did throw                    |
+| ta  | tense/aspect      | simple present      | ta whuwa      | `PRS throw`     | do throw                     |
+| su  | tense/aspect      | simple future       | su whuwa      | `FUT throw`     | will throw                   |
+| we  | tense/aspect      | dusiderative | we whuwa       | `DES throw`     | wants to throw               |
+| to  | tense/aspect      | impurative | to whuwa       | `IMP throw`     | (command to) throw           |
+| ru  | tense/aspect      | obligative          | ru whuwa      | `OBLG throw`    | should throw                 |
+| la  | tense/aspect      | present progressive | la whuwa      | `PROG throw`    | throwing                     |
+| ni  | tense/aspect      | present perfect     | ni whuwa      | `PRF throw`     | has thrown                   |
+| po  | tense/aspect      | habitual            | po whuwa      | `HAB throw`     | usually throws               |
+| pu  | tense/aspect      | perfective          | pu whuwa      | `PFV throw`     | did throw (completed)        |
+| ri  | tense/aspect      | imperfective        | ri whuwa      | `IPFV throw`    | was throwing / used to throw |
+| wi  | tense/aspect      | inceptive           | wi whuwa      | `INCH throw`    | starts throwing              |
+| wu  | tense/aspect      | cessative           | wu whuwa      | `CESS throw`    | stops throwing               |
 | me  | negation          | negative            | me phemo      | `NEG think`     | (not) think                  |
 
 #### slot 1 examples
@@ -222,43 +222,43 @@ these examples illustrate the basic use of each tense/aspect particle with a sim
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i threw (did throw) |
-| phi     | mia li phuwa        |
+| phi     | mia li whuwa        |
 | gloss | 1sg PST throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i throw (do throw)  |
-| phi     | mia ta phuwa        |
+| phi     | mia ta whuwa        |
 | gloss | 1sg PRS throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i will throw        |
-| phi     | mia su phuwa        |
+| phi     | mia su whuwa        |
 | gloss | 1sg FUT throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i want to throw     |
-| phi     | mia we phuwa        |
+| phi     | mia we whuwa        |
 | gloss | 1sg DES throw        |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | throw! (command)    |
-| phi     | to phuwa            |
+| phi     | to whuwa            |
 | gloss | IMP throw            |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i am throwing       |
-| phi     | mia la phuwa        |
+| phi     | mia la whuwa        |
 | gloss | 1sg PROG throw       |
 
 | type    | sentence            |
 | ------- | ------------------- |
 | english | i have thrown       |
-| phi     | mia ni phuwa        |
+| phi     | mia ni whuwa        |
 | gloss | 1sg PRF throw        |
 
 ##### other aspect examples (`po`, `pu`, `ri`, `wi`, `wu`)
@@ -268,31 +268,31 @@ these examples show other aspectual nuances.
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i usually throw                |
-| phi     | mia po phuwa                   |
+| phi     | mia po whuwa                   |
 | gloss | 1sg HAB throw                   |
 
 | type    | sentence                       |
 | ------- | -------------------            |
 | english | i threw (completed)            |
-| phi     | mia li pu phuwa                |
+| phi     | mia li pu whuwa                |
 | gloss | 1sg PST PFV throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i used to throw / was throwing |
-| phi     | mia li ri phuwa                |
+| phi     | mia li ri whuwa                |
 | gloss | 1sg PST IPFV throw              |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i start throwing               |
-| phi     | mia wi phuwa                   |
+| phi     | mia wi whuwa                   |
 | gloss | 1sg INCH throw                  |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i stop throwing                |
-| phi     | mia wu phuwa                   |
+| phi     | mia wu whuwa                   |
 | gloss | 1sg CESS throw                  |
 
 ##### negation examples (`me`)
@@ -302,31 +302,31 @@ these examples show how the negation particle `me` combines with various tense a
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i don't throw                  |
-| phi     | mia me phuwa                   |
+| phi     | mia me whuwa                   |
 | gloss | 1sg NEG throw                   |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i didn't throw                 |
-| phi     | mia li me phuwa                |
+| phi     | mia li me whuwa                |
 | gloss | 1sg PST NEG throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i won't throw                  |
-| phi     | mia su me phuwa                |
+| phi     | mia su me whuwa                |
 | gloss | 1sg FUT NEG throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i don't want to throw          |
-| phi     | mia we me phuwa                |
+| phi     | mia we me whuwa                |
 | gloss | 1sg DES NEG throw               |
 
 | type    | sentence                       |
 | ------- | ------------------------------ |
 | english | i am not throwing              |
-| phi     | mia la me phuwa                |
+| phi     | mia la me whuwa                |
 | gloss | 1sg PROG NEG throw              |
 
 ##### combined tense/pos examples
@@ -349,7 +349,7 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | --- | ---------- | ------------------- | ------------- | -------------- | ---------------------- |
 | si  | pos marker | subject             | si mia        | `SUBJ 1sg`     | (subject marker) me    |
 | na  | pos marker | object              | na nuthui     | `OBJ pebble`   | (object marker) pebble |
-| te  | pos marker | verb                | te phuwa      | `VRB throw`    | (verb marker) throw    |
+| te  | pos marker | verb                | te whuwa      | `VRB throw`    | (verb marker) throw    |
 | se  | derivation | noun-to-verb        | se lothea     | `NVERB love`   | (use noun as verb)     |
 | ra  | derivation | verb-to-noun        | ra shote      | `VNOUN love`   | (use verb as noun)     |
 | he  | animacy    | human               | he thephoa    | `HUM person`   | (human) person         |
@@ -408,25 +408,25 @@ the particle `ma` provides emphasis to the single word immediately following it,
 | type    | sentence  (neutral)                          |
 | ------- | -------------------------------------------- |
 | english | i throw the pebble at the tree every morning |
-| phi     | mia ta phuwa nuthui na liphai lo thowai      |
+| phi     | mia ta whuwa nuthui na liphai lo thowai      |
 | gloss | 1sg PRS throw pebble OBJ tree PL morning      |
 
 | type    | sentence (emphasizing subject)                      |
 | ------- | --------------------------------------------------- |
 | english | *i* throw the pebble at the tree every morning      |
-| phi     | ma mia ta phuwa nuthui na liphai lo thowai          |
+| phi     | ma mia ta whuwa nuthui na liphai lo thowai          |
 | gloss | EMPH 1sg PRS throw pebble OBJ tree PL morning        |
 
 | type    | sentence (emphasizing verb)                          |
 | ------- | ---------------------------------------------------- |
 | english | i *throw* the pebble at the tree every morning       |
-| phi     | mia ta ma phuwa nuthui na liphai lo thowai           |
+| phi     | mia ta ma whuwa nuthui na liphai lo thowai           |
 | gloss | 1sg PRS EMPH throw pebble OBJ tree PL morning         |
 
 | type    | sentence (emphasizing object)                        |
 | ------- | ---------------------------------------------------- |
 | english | i throw the *pebble* at the tree every morning       |
-| phi     | mia ta phuwa ma nuthui na liphai lo thowai           |
+| phi     | mia ta whuwa ma nuthui na liphai lo thowai           |
 | gloss | 1sg PRS throw EMPH pebble OBJ tree PL morning         |
 
 ##### animacy examples (`he`, `pi`, `ne`)
@@ -476,19 +476,19 @@ these particles distinguish different quantities to provide precise number marki
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw a few pebbles                     |
-| phi     | mia li phuwa wo nuthui                    |
+| phi     | mia li whuwa wo nuthui                    |
 | gloss | 1sg PST throw PAUC pebble                  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw pebbles                           |
-| phi     | mia li phuwa lo nuthui                    |
+| phi     | mia li whuwa lo nuthui                    |
 | gloss | 1sg PST throw PL pebble                    |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw many pebbles                      |
-| phi     | mia li phuwa no nuthui                    |
+| phi     | mia li whuwa no nuthui                    |
 | gloss | 1sg PST throw GPL pebble                   |
 
 | type    | sentence                                     |
@@ -515,7 +515,7 @@ when multiple particles are used, they follow a strict order based on their scop
     *   scope: entire clause/sentence.
     *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`, `lu`) > evidentiality (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`) > discourse (`ha`, `mi`) > politeness (`so`)**
     *   position: clause initial.
-    *   example: `tu so mia ta phuwa` (if politely I do throw...)
+    *   example: `tu so mia ta whuwa` (if politely I do throw...)
     *   additional examples:
         *   `wa hi phera phala` (Q DIR.EV be rain) - "is it actually raining? (I see it)"
         *   `hu nu thephoa su phema` (PSB HRSY person FUT come) - "perhaps they say the person will come"
@@ -527,7 +527,7 @@ when multiple particles are used, they follow a strict order based on their scop
     *   scope: core verb phrase.
     *   order: **tense (`li`, `ta`, `su`) > aspect (`we`, `la`, `ni`, `po`, `pu`, `ri`, `wi`, `wu`) > negation (`me`)**
     *   position: precedes the verb and any slot 2 verb particles.
-    *   example: `li pu me phuwa` (did not throw (completed action))
+    *   example: `li pu me whuwa` (did not throw (completed action))
     *   additional examples:
         *   `su la phuri` (FUT PROG work) - "will be working"
         *   `li ri me phera mipho` (PST IPFV NEG be blue) - "wasn't blue" / "used to not be blue"
@@ -540,7 +540,7 @@ when multiple particles are used, they follow a strict order based on their scop
             *   example: `na ne ma lo nuthui` (the *pebbles* (object, inanimate))
             *   additional example: `si he wo ma raushai` (SUBJ HUM PAUC EMPH leader) - "the few *leaders* (subject, human)"
         *   **before verbs:** `pos marker (te)` > `emphasis (ma)` > verb
-            *   example: `te ma phuwa` ((verb) *throw*)
+            *   example: `te ma whuwa` ((verb) *throw*)
             *   additional example: `te ma phuri` (VRB EMPH work) - "*work* (verb)"
         *   **before adjectives/adverbs:** `comparison (mo/pa/sa/le/re)` > `emphasis (ma)` > adjective/adverb
             *   example: `pa ma pisha` (most *soft*)
@@ -551,14 +551,14 @@ when multiple particles are used, they follow a strict order based on their scop
 | type    | sentence                                                                   |
 | ------- | -------------------------------------------------------------------------- |
 | english | perhaps the polite person emphatically won't *throw* the *large* pebbles   |
-| phi     | hu so thephoa su me ma phuwa ma tophe lo nuthui                            |
+| phi     | hu so thephoa su me ma whuwa ma tophe lo nuthui                            |
 | gloss | PSB POL person FUT NEG EMPH throw EMPH large PL pebble                      |
 
 *   breakdown:
     *   `hu so` (slot 0: perhaps polite)
     *   `thephoa` (subject noun)
     *   `su me` (slot 1: will not)
-    *   `ma phuwa` (slot 2: *throw*)
+    *   `ma whuwa` (slot 2: *throw*)
     *   `ma tophe` (slot 2: *large*)
     *   `lo nuthui` (slot 2: plural pebble - object noun phrase)
 
@@ -569,7 +569,7 @@ when multiple particles are used, they follow a strict order based on their scop
 
 *   **optional animacy markers:** the animacy markers (`he`, `pi`, `ne`) are also optional. they can be used to clarify the nature of a noun, especially if ambiguous, or omitted if the context or lexical meaning makes the animacy clear. they generally do not apply to pronouns (e.g., `mia`, `thi`, `sha`).
 
-*   **optional present tense (`ta`):** similarly, the simple present tense particle `ta` is formally required but often omitted in informal speech and writing when the present tense is implied by context (i.e., the absence of other tense/aspect markers). e.g., formal: `mia ta phuwa nuthui` (1sg PRS throw pebble), informal: `mia phuwa nuthui` (1sg throw pebble).
+*   **optional present tense (`ta`):** similarly, the simple present tense particle `ta` is formally required but often omitted in informal speech and writing when the present tense is implied by context (i.e., the absence of other tense/aspect markers). e.g., formal: `mia ta whuwa nuthui` (1sg PRS throw pebble), informal: `mia whuwa nuthui` (1sg throw pebble).
 
 *   **questions (`wa`):** phi uses a hybrid question system. yes/no questions start with `wa`, followed by the declarative sentence structure (e.g., `wa phera phala?` - "is it raining?" vs. `phera phala` - "it is raining"). wh-questions use interrogative words and can be combined with other particles except `wa` (e.g., `hamite thi phola?` - "how do you walk?", `so wulime thi ta shola?` - "politely, where do you go?", vs. `wa thi phola?` - "do you walk?"). The `wa` particle cannot be combined with wh-questions as they represent different question systems.
 
@@ -581,13 +581,13 @@ when multiple particles are used, they follow a strict order based on their scop
     *   `no nuthui` - "many pebbles"
 
 *   **negation scope (`me`):** the placement of the negation particle determines its scope.
-    *   verb phrase negation: `mia li me phuwa` (1sg PST NEG throw) - "I did not throw" (negates the action)
+    *   verb phrase negation: `mia li me whuwa` (1sg PST NEG throw) - "I did not throw" (negates the action)
     *   constituent negation: `me lo nuthui` (NEG PL pebble) - "not pebbles" (negates just the noun)
     *   total vs. partial negation: to express "none" use `me` with the appropriate noun (`me thephoa` - "no person"); to express "not all" use `me lo` with the noun (`me lo thephoa` - "not all people")
-    *   double negation: two negation particles cancel each other out, creating a positive assertion: `me me phuwa` (NEG NEG throw) - "not not throw" = "do throw"; typically, this is used for emphasis: `mia me me phemo` (1sg NEG NEG think) - "I definitely think so" / "I don't not think so"
+    *   double negation: two negation particles cancel each other out, creating a positive assertion: `me me whuwa` (NEG NEG throw) - "not not throw" = "do throw"; typically, this is used for emphasis: `mia me me phemo` (1sg NEG NEG think) - "I definitely think so" / "I don't not think so"
 
 *   **exclusive plurals:** to express "we/us (but not you)", use `lo mia me thi` (plural me not you). exclusion can target others: `lo mia me lo sha` (plural me not plural it -> us not them).
-    *   example: `lo mia me thi su phuwa nuthui` (PL 1sg NEG 2sg FUT throw pebble) - "we (not you) will throw the pebble"
+    *   example: `lo mia me thi su whuwa nuthui` (PL 1sg NEG 2sg FUT throw pebble) - "we (not you) will throw the pebble"
     *   example: `lo mia su thuli na lo thuwhia me lo thi` (PL 1sg FUT finish OBJ PL work NEG PL 2sg) - "we will finish the jobs without you all"
 
 *   **derivational particles:** these particles allow words from one part of speech to be used temporarily as another part of speech, providing flexibility while maintaining phi's phonological distinctions between word classes.
@@ -677,7 +677,7 @@ the contrast marker `mi` operates at different levels of discourse structure, fr
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | i see that the project is progressing well. however, i hear that there are significant challenges behind the scenes. |
-| phi     | hi phuphui ta phola teshe. mi nu no huphea phera na me phose thauthea. |
+| phi     | hi phuphui ta phola teshe. mi nu no huphea phera na me phemo thauthea. |
 | gloss   | DIR.EV project PRS progress good. CNTR HRSY many problem be OBJ NEG see area. |
 
 ### topic-contrast interaction patterns

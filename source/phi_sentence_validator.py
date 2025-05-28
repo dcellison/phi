@@ -153,8 +153,8 @@ class PhiSentenceValidator:
         
         self.slot_2_order = [
             ['si', 'na', 'te'],  # POS markers
+            ['he', 'pi', 'ne'],  # animacy (MOVED UP - should come before derivation)
             ['se', 'ra'],  # derivation
-            ['he', 'pi', 'ne'],  # animacy
             ['pa', 'mo', 'sa', 'le', 're'],  # comparison
             ['wo', 'lo', 'no'],  # number
             ['ma']  # emphasis

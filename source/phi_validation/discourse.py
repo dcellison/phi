@@ -190,7 +190,7 @@ class DiscourseValidator:
             
             if following_word in all_particles and following_word not in allowed_after_ha:
                 # Only flag as error if it's a problematic particle
-                problematic_particles = {'mi', 'wa', 'li', 'ta', 'su'}
+                problematic_particles = {'wa', 'li', 'ta', 'su'}  # removed 'mi' as it's valid in ha-mi combinations
                 if following_word in problematic_particles:
                     context['type'] = 'invalid_topic_shift'
                     context['reason'] = 'Topic marker followed by particle instead of topic noun'

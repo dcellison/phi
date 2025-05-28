@@ -8,6 +8,7 @@ in Phi sentences.
 
 from typing import List, Dict, Tuple, Optional
 from .errors import SentenceError, SentenceValidationError
+from .clause_parser import get_clause_parser
 
 
 class TemporalValidator:
@@ -27,12 +28,12 @@ class TemporalValidator:
         # Subordinate conjunctions with tense requirements
         self.subordinate_conjunctions = {
             'pimo': {
-                'expected_tenses': ['li'],
-                'logic': 'Past events that led to current state require past tense'
+                'expected_tenses': ['li', 'ta', 'su'],  # More flexible: before can reference any time
+                'logic': 'Before-clauses can reference past, present, or future events'
             },
             'matu': {
-                'expected_tenses': ['su'],
-                'logic': 'Future conditions require future tense'
+                'expected_tenses': ['li', 'ta', 'su'],  # More flexible: after can reference any time
+                'logic': 'After-clauses can reference past, present, or future events'
             },
             'wetu': {
                 'expected_tenses': ['ta', 'su'],
@@ -59,12 +60,12 @@ class TemporalValidator:
                 'logic': 'Inchoative aspect requires present or future tense'
             },
             'po': {
-                'compatible': ['li'],
-                'logic': 'Cessative aspect requires past tense'
+                'compatible': ['ta', 'su'],
+                'logic': 'Habitual aspect requires present or future tense'
             },
             'pu': {
-                'compatible': ['ta', 'su'],
-                'logic': 'Continuative aspect requires present or future tense'
+                'compatible': ['li', 'ta'],
+                'logic': 'Perfective aspect incompatible with future tense'
             },
             'ri': {
                 'compatible': ['li', 'ta'],
@@ -72,11 +73,11 @@ class TemporalValidator:
             },
             'wi': {
                 'compatible': ['ta', 'su'],
-                'logic': 'Prospective aspect requires present or future tense'
+                'logic': 'Inceptive aspect requires present or future tense'
             },
             'wu': {
                 'compatible': ['li', 'ta'],
-                'logic': 'Retrospective aspect incompatible with future tense'
+                'logic': 'Cessative aspect incompatible with future tense'
             }
         }
         
@@ -240,7 +241,22 @@ class TemporalValidator:
         """Comprehensive tense validation including all temporal relationships."""
         errors = []
         
-        # Find all temporal elements in the sentence
+        # Split sentence into clauses using shared clause parser
+        clauses = get_clause_parser(None).split_into_clauses(tokens)
+        
+        # Validate each clause separately for tense consistency
+        for clause_tokens, clause_start_idx in clauses:
+            if clause_tokens:  # Skip empty clauses
+                clause_errors = self._validate_clause_tense(clause_tokens, clause_start_idx)
+                errors.extend(clause_errors)
+        
+        return errors
+    
+    def _validate_clause_tense(self, tokens: List[str], start_idx: int) -> List[SentenceValidationError]:
+        """Validate tense consistency within a single clause."""
+        errors = []
+        
+        # Find all temporal elements in this clause
         tense_markers = []
         aspect_markers = []
         mood_markers = []
@@ -248,15 +264,15 @@ class TemporalValidator:
         
         for i, token in enumerate(tokens):
             if token in self.tense_particles:
-                tense_markers.append((token, i))
+                tense_markers.append((token, start_idx + i))
             elif token in self.aspect_particles:
-                aspect_markers.append((token, i))
+                aspect_markers.append((token, start_idx + i))
             elif token in self.mood_particles:
-                mood_markers.append((token, i))
+                mood_markers.append((token, start_idx + i))
             elif token in self.temporal_adverb_tense:
-                temporal_adverbs.append((token, i))
+                temporal_adverbs.append((token, start_idx + i))
         
-        # 1. Check for multiple tense markers
+        # 1. Check for multiple tense markers within this clause
         if len(tense_markers) > 1:
             errors.append(SentenceValidationError(
                 SentenceError.MULTIPLE_TENSE_MARKERS,
