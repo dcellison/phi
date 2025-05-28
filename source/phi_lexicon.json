@@ -1,0 +1,5972 @@
+{
+  "wuwhi": {
+    "pos": "adjectives",
+    "translation": "amber",
+    "file": "adjectives.md"
+  },
+  "taphi": {
+    "pos": "adjectives",
+    "translation": "black",
+    "file": "adjectives.md"
+  },
+  "mipho": {
+    "pos": "adjectives",
+    "translation": "blue",
+    "file": "adjectives.md"
+  },
+  "rathu": {
+    "pos": "adjectives",
+    "translation": "bright",
+    "file": "adjectives.md"
+  },
+  "tephe": {
+    "pos": "adjectives",
+    "translation": "colorful",
+    "file": "adjectives.md"
+  },
+  "luphe": {
+    "pos": "adjectives",
+    "translation": "chartreuse",
+    "file": "adjectives.md"
+  },
+  "tapho": {
+    "pos": "adjectives",
+    "translation": "dark",
+    "file": "adjectives.md"
+  },
+  "hashe": {
+    "pos": "adjectives",
+    "translation": "green",
+    "file": "adjectives.md"
+  },
+  "raphe": {
+    "pos": "adjectives",
+    "translation": "grey",
+    "file": "adjectives.md"
+  },
+  "puwhe": {
+    "pos": "adjectives",
+    "translation": "indigo",
+    "file": "adjectives.md"
+  },
+  "sephi": {
+    "pos": "adjectives",
+    "translation": "magenta",
+    "file": "adjectives.md"
+  },
+  "hathe": {
+    "pos": "adjectives",
+    "translation": "orange",
+    "file": "adjectives.md"
+  },
+  "tupha": {
+    "pos": "adjectives",
+    "translation": "purple",
+    "file": "adjectives.md"
+  },
+  "laphe": {
+    "pos": "adjectives",
+    "translation": "red",
+    "file": "adjectives.md"
+  },
+  "tephi": {
+    "pos": "adjectives",
+    "translation": "teal",
+    "file": "adjectives.md"
+  },
+  "sopha": {
+    "pos": "adjectives",
+    "translation": "vermillion",
+    "file": "adjectives.md"
+  },
+  "nisha": {
+    "pos": "adjectives",
+    "translation": "violet",
+    "file": "adjectives.md"
+  },
+  "hathi": {
+    "pos": "adjectives",
+    "translation": "white",
+    "file": "adjectives.md"
+  },
+  "liphi": {
+    "pos": "adjectives",
+    "translation": "yellow",
+    "file": "adjectives.md"
+  },
+  "lowha": {
+    "pos": "adjectives",
+    "translation": "bent/curved",
+    "file": "adjectives.md"
+  },
+  "tesho": {
+    "pos": "adjectives",
+    "translation": "complete",
+    "file": "adjectives.md"
+  },
+  "matha": {
+    "pos": "adjectives",
+    "translation": "cylindrical",
+    "file": "adjectives.md"
+  },
+  "papha": {
+    "pos": "adjectives",
+    "translation": "deep",
+    "file": "adjectives.md"
+  },
+  "sipho": {
+    "pos": "adjectives",
+    "translation": "dense/thick",
+    "file": "adjectives.md"
+  },
+  "miphe": {
+    "pos": "adjectives",
+    "translation": "empty",
+    "file": "adjectives.md"
+  },
+  "ripho": {
+    "pos": "adjectives",
+    "translation": "flat/planar",
+    "file": "adjectives.md"
+  },
+  "pupha": {
+    "pos": "adjectives",
+    "translation": "full",
+    "file": "adjectives.md"
+  },
+  "tophe": {
+    "pos": "adjectives",
+    "translation": "large",
+    "file": "adjectives.md"
+  },
+  "lepho": {
+    "pos": "adjectives",
+    "translation": "few",
+    "file": "adjectives.md"
+  },
+  "tuphe": {
+    "pos": "adjectives",
+    "translation": "many",
+    "file": "adjectives.md"
+  },
+  "pipha": {
+    "pos": "adjectives",
+    "translation": "narrow",
+    "file": "adjectives.md"
+  },
+  "nuphe": {
+    "pos": "adjectives",
+    "translation": "some",
+    "file": "adjectives.md"
+  },
+  "pepho": {
+    "pos": "adjectives",
+    "translation": "round/spherical",
+    "file": "adjectives.md"
+  },
+  "sophe": {
+    "pos": "adjectives",
+    "translation": "short",
+    "file": "adjectives.md"
+  },
+  "waphi": {
+    "pos": "adjectives",
+    "translation": "small",
+    "file": "adjectives.md"
+  },
+  "topha": {
+    "pos": "adjectives",
+    "translation": "solid",
+    "file": "adjectives.md"
+  },
+  "woshe": {
+    "pos": "adjectives",
+    "translation": "sparse/scattered",
+    "file": "adjectives.md"
+  },
+  "retha": {
+    "pos": "adjectives",
+    "translation": "straight",
+    "file": "adjectives.md"
+  },
+  "tipha": {
+    "pos": "adjectives",
+    "translation": "tall",
+    "file": "adjectives.md"
+  },
+  "nophe": {
+    "pos": "adjectives",
+    "translation": "wide",
+    "file": "adjectives.md"
+  },
+  "hiwhe": {
+    "pos": "adjectives",
+    "translation": "tall",
+    "file": "adjectives.md"
+  },
+  "liwhe": {
+    "pos": "adjectives",
+    "translation": "short",
+    "file": "adjectives.md"
+  },
+  "niwho": {
+    "pos": "adjectives",
+    "translation": "dense",
+    "file": "adjectives.md"
+  },
+  "tawhe": {
+    "pos": "adjectives",
+    "translation": "wide",
+    "file": "adjectives.md"
+  },
+  "wawhe": {
+    "pos": "adjectives",
+    "translation": "narrow",
+    "file": "adjectives.md"
+  },
+  "nethi": {
+    "pos": "adjectives",
+    "translation": "cold",
+    "file": "adjectives.md"
+  },
+  "supha": {
+    "pos": "adjectives",
+    "translation": "cool",
+    "file": "adjectives.md"
+  },
+  "napho": {
+    "pos": "adjectives",
+    "translation": "damp/humid",
+    "file": "adjectives.md"
+  },
+  "sipha": {
+    "pos": "adjectives",
+    "translation": "dirty",
+    "file": "adjectives.md"
+  },
+  "lusha": {
+    "pos": "adjectives",
+    "translation": "dry",
+    "file": "adjectives.md"
+  },
+  "mophi": {
+    "pos": "adjectives",
+    "translation": "elastic/springy",
+    "file": "adjectives.md"
+  },
+  "patho": {
+    "pos": "adjectives",
+    "translation": "fragrant",
+    "file": "adjectives.md"
+  },
+  "lisha": {
+    "pos": "adjectives",
+    "translation": "fluid",
+    "file": "adjectives.md"
+  },
+  "tusha": {
+    "pos": "adjectives",
+    "translation": "gaseous",
+    "file": "adjectives.md"
+  },
+  "risho": {
+    "pos": "adjectives",
+    "translation": "hard",
+    "file": "adjectives.md"
+  },
+  "pesha": {
+    "pos": "adjectives",
+    "translation": "heavy",
+    "file": "adjectives.md"
+  },
+  "notha": {
+    "pos": "adjectives",
+    "translation": "hot",
+    "file": "adjectives.md"
+  },
+  "nitha": {
+    "pos": "adjectives",
+    "translation": "light (weight)",
+    "file": "adjectives.md"
+  },
+  "muthe": {
+    "pos": "adjectives",
+    "translation": "sharp",
+    "file": "adjectives.md"
+  },
+  "letha": {
+    "pos": "adjectives",
+    "translation": "slippery",
+    "file": "adjectives.md"
+  },
+  "loshe": {
+    "pos": "adjectives",
+    "translation": "smooth",
+    "file": "adjectives.md"
+  },
+  "pisha": {
+    "pos": "adjectives",
+    "translation": "soft",
+    "file": "adjectives.md"
+  },
+  "pitha": {
+    "pos": "adjectives",
+    "translation": "sticky/glutinous",
+    "file": "adjectives.md"
+  },
+  "rusha": {
+    "pos": "adjectives",
+    "translation": "rough",
+    "file": "adjectives.md"
+  },
+  "luthe": {
+    "pos": "adjectives",
+    "translation": "dull",
+    "file": "adjectives.md"
+  },
+  "mathi": {
+    "pos": "adjectives",
+    "translation": "clean",
+    "file": "adjectives.md"
+  },
+  "waphe": {
+    "pos": "adjectives",
+    "translation": "warm",
+    "file": "adjectives.md"
+  },
+  "hetha": {
+    "pos": "adjectives",
+    "translation": "wet",
+    "file": "adjectives.md"
+  },
+  "hiwho": {
+    "pos": "adjectives",
+    "translation": "brittle",
+    "file": "adjectives.md"
+  },
+  "lawhe": {
+    "pos": "adjectives",
+    "translation": "smooth",
+    "file": "adjectives.md"
+  },
+  "liwha": {
+    "pos": "adjectives",
+    "translation": "heavy",
+    "file": "adjectives.md"
+  },
+  "liwho": {
+    "pos": "adjectives",
+    "translation": "durable",
+    "file": "adjectives.md"
+  },
+  "miwhe": {
+    "pos": "adjectives",
+    "translation": "soft",
+    "file": "adjectives.md"
+  },
+  "miwho": {
+    "pos": "adjectives",
+    "translation": "light",
+    "file": "adjectives.md"
+  },
+  "nawhe": {
+    "pos": "adjectives",
+    "translation": "warm",
+    "file": "adjectives.md"
+  },
+  "pawhe": {
+    "pos": "adjectives",
+    "translation": "cool",
+    "file": "adjectives.md"
+  },
+  "piwho": {
+    "pos": "adjectives",
+    "translation": "loose",
+    "file": "adjectives.md"
+  },
+  "rawhe": {
+    "pos": "adjectives",
+    "translation": "thick",
+    "file": "adjectives.md"
+  },
+  "riwho": {
+    "pos": "adjectives",
+    "translation": "tight",
+    "file": "adjectives.md"
+  },
+  "sawhe": {
+    "pos": "adjectives",
+    "translation": "thin",
+    "file": "adjectives.md"
+  },
+  "siwhi": {
+    "pos": "adjectives",
+    "translation": "clean",
+    "file": "adjectives.md"
+  },
+  "siwho": {
+    "pos": "adjectives",
+    "translation": "flexible",
+    "file": "adjectives.md"
+  },
+  "tiwho": {
+    "pos": "adjectives",
+    "translation": "rigid",
+    "file": "adjectives.md"
+  },
+  "wiwho": {
+    "pos": "adjectives",
+    "translation": "elastic",
+    "file": "adjectives.md"
+  },
+  "hapho": {
+    "pos": "adjectives",
+    "translation": "ancient",
+    "file": "adjectives.md"
+  },
+  "nathe": {
+    "pos": "adjectives",
+    "translation": "new",
+    "file": "adjectives.md"
+  },
+  "lotha": {
+    "pos": "adjectives",
+    "translation": "old",
+    "file": "adjectives.md"
+  },
+  "lupha": {
+    "pos": "adjectives",
+    "translation": "young",
+    "file": "adjectives.md"
+  },
+  "mesho": {
+    "pos": "adjectives",
+    "translation": "bland/tasteless",
+    "file": "adjectives.md"
+  },
+  "mithe": {
+    "pos": "adjectives",
+    "translation": "bitter",
+    "file": "adjectives.md"
+  },
+  "hesha": {
+    "pos": "adjectives",
+    "translation": "delicious/tasty",
+    "file": "adjectives.md"
+  },
+  "wuthe": {
+    "pos": "adjectives",
+    "translation": "spicy/hot",
+    "file": "adjectives.md"
+  },
+  "suphi": {
+    "pos": "adjectives",
+    "translation": "savory/umami",
+    "file": "adjectives.md"
+  },
+  "hutha": {
+    "pos": "adjectives",
+    "translation": "sour",
+    "file": "adjectives.md"
+  },
+  "wathi": {
+    "pos": "adjectives",
+    "translation": "disgusting",
+    "file": "adjectives.md"
+  },
+  "hitha": {
+    "pos": "adjectives",
+    "translation": "sweet",
+    "file": "adjectives.md"
+  },
+  "rapha": {
+    "pos": "adjectives",
+    "translation": "angry",
+    "file": "adjectives.md"
+  },
+  "rutha": {
+    "pos": "adjectives",
+    "translation": "anxious",
+    "file": "adjectives.md"
+  },
+  "pasho": {
+    "pos": "adjectives",
+    "translation": "auspicious",
+    "file": "adjectives.md"
+  },
+  "wathe": {
+    "pos": "adjectives",
+    "translation": "bad",
+    "file": "adjectives.md"
+  },
+  "misha": {
+    "pos": "adjectives",
+    "translation": "beautiful",
+    "file": "adjectives.md"
+  },
+  "rathe": {
+    "pos": "adjectives",
+    "translation": "brave",
+    "file": "adjectives.md"
+  },
+  "lapho": {
+    "pos": "adjectives",
+    "translation": "calm",
+    "file": "adjectives.md"
+  },
+  "tipho": {
+    "pos": "adjectives",
+    "translation": "certain",
+    "file": "adjectives.md"
+  },
+  "pipho": {
+    "pos": "adjectives",
+    "translation": "clever",
+    "file": "adjectives.md"
+  },
+  "hithe": {
+    "pos": "adjectives",
+    "translation": "confused",
+    "file": "adjectives.md"
+  },
+  "wipha": {
+    "pos": "adjectives",
+    "translation": "curious",
+    "file": "adjectives.md"
+  },
+  "hethi": {
+    "pos": "adjectives",
+    "translation": "excited",
+    "file": "adjectives.md"
+  },
+  "sepha": {
+    "pos": "adjectives",
+    "translation": "excellent",
+    "file": "adjectives.md"
+  },
+  "repho": {
+    "pos": "adjectives",
+    "translation": "familiar/intimate",
+    "file": "adjectives.md"
+  },
+  "rutho": {
+    "pos": "adjectives",
+    "translation": "fast",
+    "file": "adjectives.md"
+  },
+  "suthe": {
+    "pos": "adjectives",
+    "translation": "formal/distant",
+    "file": "adjectives.md"
+  },
+  "nasha": {
+    "pos": "adjectives",
+    "translation": "foolish",
+    "file": "adjectives.md"
+  },
+  "piphi": {
+    "pos": "adjectives",
+    "translation": "free",
+    "file": "adjectives.md"
+  },
+  "tushe": {
+    "pos": "adjectives",
+    "translation": "good",
+    "file": "adjectives.md"
+  },
+  "luphi": {
+    "pos": "adjectives",
+    "translation": "happy",
+    "file": "adjectives.md"
+  },
+  "mepha": {
+    "pos": "adjectives",
+    "translation": "honest",
+    "file": "adjectives.md"
+  },
+  "suphe": {
+    "pos": "adjectives",
+    "translation": "humble/modest",
+    "file": "adjectives.md"
+  },
+  "nuthe": {
+    "pos": "adjectives",
+    "translation": "kind",
+    "file": "adjectives.md"
+  },
+  "wisho": {
+    "pos": "adjectives",
+    "translation": "logical/rational",
+    "file": "adjectives.md"
+  },
+  "tapha": {
+    "pos": "adjectives",
+    "translation": "peaceful",
+    "file": "adjectives.md"
+  },
+  "lepha": {
+    "pos": "adjectives",
+    "translation": "sad",
+    "file": "adjectives.md"
+  },
+  "pethi": {
+    "pos": "adjectives",
+    "translation": "respectworthy/honorable",
+    "file": "adjectives.md"
+  },
+  "withe": {
+    "pos": "adjectives",
+    "translation": "scared/afraid",
+    "file": "adjectives.md"
+  },
+  "rashe": {
+    "pos": "adjectives",
+    "translation": "surprised",
+    "file": "adjectives.md"
+  },
+  "tewha": {
+    "pos": "adjectives",
+    "translation": "intelligent",
+    "file": "adjectives.md"
+  },
+  "wapho": {
+    "pos": "adjectives",
+    "translation": "tired/exhausted",
+    "file": "adjectives.md"
+  },
+  "lethu": {
+    "pos": "adjectives",
+    "translation": "wise",
+    "file": "adjectives.md"
+  },
+  "hiwha": {
+    "pos": "adjectives",
+    "translation": "weak",
+    "file": "adjectives.md"
+  },
+  "siwha": {
+    "pos": "adjectives",
+    "translation": "fast",
+    "file": "adjectives.md"
+  },
+  "tiwha": {
+    "pos": "adjectives",
+    "translation": "slow",
+    "file": "adjectives.md"
+  },
+  "wiwha": {
+    "pos": "adjectives",
+    "translation": "strong",
+    "file": "adjectives.md"
+  },
+  "miwha": {
+    "pos": "adjectives",
+    "translation": "bright",
+    "file": "adjectives.md"
+  },
+  "niwha": {
+    "pos": "adjectives",
+    "translation": "dark",
+    "file": "adjectives.md"
+  },
+  "piwha": {
+    "pos": "adjectives",
+    "translation": "loud",
+    "file": "adjectives.md"
+  },
+  "riwha": {
+    "pos": "adjectives",
+    "translation": "quiet",
+    "file": "adjectives.md"
+  },
+  "miwhi": {
+    "pos": "adjectives",
+    "translation": "fresh",
+    "file": "adjectives.md"
+  },
+  "niwhi": {
+    "pos": "adjectives",
+    "translation": "stale",
+    "file": "adjectives.md"
+  },
+  "piwhi": {
+    "pos": "adjectives",
+    "translation": "pure",
+    "file": "adjectives.md"
+  },
+  "riwhi": {
+    "pos": "adjectives",
+    "translation": "mixed",
+    "file": "adjectives.md"
+  },
+  "rasha": {
+    "pos": "adjectives",
+    "translation": "dangerous",
+    "file": "adjectives.md"
+  },
+  "tuthe": {
+    "pos": "adjectives",
+    "translation": "difficult",
+    "file": "adjectives.md"
+  },
+  "sephu": {
+    "pos": "adjectives",
+    "translation": "easy",
+    "file": "adjectives.md"
+  },
+  "pepha": {
+    "pos": "adjectives",
+    "translation": "false",
+    "file": "adjectives.md"
+  },
+  "riphe": {
+    "pos": "adjectives",
+    "translation": "important",
+    "file": "adjectives.md"
+  },
+  "rowhe": {
+    "pos": "adjectives",
+    "translation": "like (similar)",
+    "file": "adjectives.md"
+  },
+  "weshi": {
+    "pos": "adjectives",
+    "translation": "necessary",
+    "file": "adjectives.md"
+  },
+  "washe": {
+    "pos": "adjectives",
+    "translation": "safe",
+    "file": "adjectives.md"
+  },
+  "tophi": {
+    "pos": "adjectives",
+    "translation": "true",
+    "file": "adjectives.md"
+  },
+  "meshi": {
+    "pos": "adjectives",
+    "translation": "useful",
+    "file": "adjectives.md"
+  },
+  "wotha": {
+    "pos": "adjectives",
+    "translation": "useless",
+    "file": "adjectives.md"
+  },
+  "ruthe": {
+    "pos": "adjectives",
+    "translation": "valuable",
+    "file": "adjectives.md"
+  },
+  "tishi": {
+    "pos": "adjectives",
+    "translation": "animal-like",
+    "file": "adjectives.md"
+  },
+  "peshi": {
+    "pos": "adjectives",
+    "translation": "apparent",
+    "file": "adjectives.md"
+  },
+  "saphe": {
+    "pos": "adjectives",
+    "translation": "equal",
+    "file": "adjectives.md"
+  },
+  "laphi": {
+    "pos": "adjectives",
+    "translation": "profane/mundane",
+    "file": "adjectives.md"
+  },
+  "puthe": {
+    "pos": "adjectives",
+    "translation": "sacred/holy",
+    "file": "adjectives.md"
+  },
+  "wosha": {
+    "pos": "adjectives",
+    "translation": "visible/direct",
+    "file": "adjectives.md"
+  },
+  "poshe": {
+    "pos": "adjectives",
+    "translation": "mountainous",
+    "file": "adjectives.md"
+  },
+  "wishi": {
+    "pos": "adjectives",
+    "translation": "negatively",
+    "file": "adjectives.md"
+  },
+  "tithe": {
+    "pos": "adjectives",
+    "translation": "originating",
+    "file": "adjectives.md"
+  },
+  "nusha": {
+    "pos": "adjectives",
+    "translation": "reported/hearsay",
+    "file": "adjectives.md"
+  },
+  "resho": {
+    "pos": "adjectives",
+    "translation": "mineral-like",
+    "file": "adjectives.md"
+  },
+  "huthe": {
+    "pos": "adjectives",
+    "translation": "taboo/forbidden",
+    "file": "adjectives.md"
+  },
+  "tethu": {
+    "pos": "adjectives",
+    "translation": "terrible",
+    "file": "adjectives.md"
+  },
+  "nithe": {
+    "pos": "adjectives",
+    "translation": "near",
+    "file": "adjectives.md"
+  },
+  "natume": {
+    "pos": "adverbs",
+    "translation": "again",
+    "file": "adverbs.md"
+  },
+  "parote": {
+    "pos": "adverbs",
+    "translation": "already",
+    "file": "adverbs.md"
+  },
+  "norate": {
+    "pos": "adverbs",
+    "translation": "continually",
+    "file": "adverbs.md"
+  },
+  "ralime": {
+    "pos": "adverbs",
+    "translation": "cyclically",
+    "file": "adverbs.md"
+  },
+  "tumane": {
+    "pos": "adverbs",
+    "translation": "finally",
+    "file": "adverbs.md"
+  },
+  "walito": {
+    "pos": "adverbs",
+    "translation": "forever/always",
+    "file": "adverbs.md"
+  },
+  "lutane": {
+    "pos": "adverbs",
+    "translation": "firstly",
+    "file": "adverbs.md"
+  },
+  "harote": {
+    "pos": "adverbs",
+    "translation": "immediately",
+    "file": "adverbs.md"
+  },
+  "hotame": {
+    "pos": "adverbs",
+    "translation": "instantly",
+    "file": "adverbs.md"
+  },
+  "nusupe": {
+    "pos": "adverbs",
+    "translation": "lately",
+    "file": "adverbs.md"
+  },
+  "nowate": {
+    "pos": "adverbs",
+    "translation": "meanwhile",
+    "file": "adverbs.md"
+  },
+  "sipane": {
+    "pos": "adverbs",
+    "translation": "now",
+    "file": "adverbs.md"
+  },
+  "lutume": {
+    "pos": "adverbs",
+    "translation": "permanently",
+    "file": "adverbs.md"
+  },
+  "pulime": {
+    "pos": "adverbs",
+    "translation": "recently",
+    "file": "adverbs.md"
+  },
+  "sutane": {
+    "pos": "adverbs",
+    "translation": "seasonally",
+    "file": "adverbs.md"
+  },
+  "potame": {
+    "pos": "adverbs",
+    "translation": "simultaneously",
+    "file": "adverbs.md"
+  },
+  "somire": {
+    "pos": "adverbs",
+    "translation": "soon",
+    "file": "adverbs.md"
+  },
+  "silane": {
+    "pos": "adverbs",
+    "translation": "still",
+    "file": "adverbs.md"
+  },
+  "tapahe": {
+    "pos": "adverbs",
+    "translation": "suddenly",
+    "file": "adverbs.md"
+  },
+  "rotame": {
+    "pos": "adverbs",
+    "translation": "temporarily",
+    "file": "adverbs.md"
+  },
+  "tuwame": {
+    "pos": "adverbs",
+    "translation": "then",
+    "file": "adverbs.md"
+  },
+  "remowa": {
+    "pos": "adverbs",
+    "translation": "tomorrow",
+    "file": "adverbs.md"
+  },
+  "nutore": {
+    "pos": "adverbs",
+    "translation": "yesterday",
+    "file": "adverbs.md"
+  },
+  "lisane": {
+    "pos": "adverbs",
+    "translation": "along",
+    "file": "adverbs.md"
+  },
+  "hitama": {
+    "pos": "adverbs",
+    "translation": "atop",
+    "file": "adverbs.md"
+  },
+  "tomane": {
+    "pos": "adverbs",
+    "translation": "downward",
+    "file": "adverbs.md"
+  },
+  "tanume": {
+    "pos": "adverbs",
+    "translation": "here",
+    "file": "adverbs.md"
+  },
+  "homite": {
+    "pos": "adverbs",
+    "translation": "homeward",
+    "file": "adverbs.md"
+  },
+  "nimate": {
+    "pos": "adverbs",
+    "translation": "inward",
+    "file": "adverbs.md"
+  },
+  "nemita": {
+    "pos": "adverbs",
+    "translation": "inside",
+    "file": "adverbs.md"
+  },
+  "watame": {
+    "pos": "adverbs",
+    "translation": "outward",
+    "file": "adverbs.md"
+  },
+  "walime": {
+    "pos": "adverbs",
+    "translation": "outside",
+    "file": "adverbs.md"
+  },
+  "monite": {
+    "pos": "adverbs",
+    "translation": "there",
+    "file": "adverbs.md"
+  },
+  "humate": {
+    "pos": "adverbs",
+    "translation": "upward",
+    "file": "adverbs.md"
+  },
+  "hutune": {
+    "pos": "adverbs",
+    "translation": "badly",
+    "file": "adverbs.md"
+  },
+  "sarume": {
+    "pos": "adverbs",
+    "translation": "carefully",
+    "file": "adverbs.md"
+  },
+  "sanope": {
+    "pos": "adverbs",
+    "translation": "carelessly",
+    "file": "adverbs.md"
+  },
+  "lumote": {
+    "pos": "adverbs",
+    "translation": "completely",
+    "file": "adverbs.md"
+  },
+  "pamite": {
+    "pos": "adverbs",
+    "translation": "deeply",
+    "file": "adverbs.md"
+  },
+  "wumite": {
+    "pos": "adverbs",
+    "translation": "eagerly",
+    "file": "adverbs.md"
+  },
+  "lotane": {
+    "pos": "adverbs",
+    "translation": "gradually",
+    "file": "adverbs.md"
+  },
+  "namite": {
+    "pos": "adverbs",
+    "translation": "informally",
+    "file": "adverbs.md"
+  },
+  "torume": {
+    "pos": "adverbs",
+    "translation": "loudly",
+    "file": "adverbs.md"
+  },
+  "honate": {
+    "pos": "adverbs",
+    "translation": "normally",
+    "file": "adverbs.md"
+  },
+  "tomile": {
+    "pos": "adverbs",
+    "translation": "partially",
+    "file": "adverbs.md"
+  },
+  "polite": {
+    "pos": "adverbs",
+    "translation": "politely",
+    "file": "adverbs.md"
+  },
+  "salime": {
+    "pos": "adverbs",
+    "translation": "quietly",
+    "file": "adverbs.md"
+  },
+  "napine": {
+    "pos": "adverbs",
+    "translation": "quickly",
+    "file": "adverbs.md"
+  },
+  "rumite": {
+    "pos": "adverbs",
+    "translation": "repeatedly",
+    "file": "adverbs.md"
+  },
+  "rusane": {
+    "pos": "adverbs",
+    "translation": "respectfully",
+    "file": "adverbs.md"
+  },
+  "rulete": {
+    "pos": "adverbs",
+    "translation": "reluctantly",
+    "file": "adverbs.md"
+  },
+  "sorane": {
+    "pos": "adverbs",
+    "translation": "regretfully",
+    "file": "adverbs.md"
+  },
+  "nirome": {
+    "pos": "adverbs",
+    "translation": "slowly",
+    "file": "adverbs.md"
+  },
+  "tolime": {
+    "pos": "adverbs",
+    "translation": "together",
+    "file": "adverbs.md"
+  },
+  "wanume": {
+    "pos": "adverbs",
+    "translation": "well",
+    "file": "adverbs.md"
+  },
+  "ronute": {
+    "pos": "adverbs",
+    "translation": "often",
+    "file": "adverbs.md"
+  },
+  "lomite": {
+    "pos": "adverbs",
+    "translation": "rarely",
+    "file": "adverbs.md"
+  },
+  "lopate": {
+    "pos": "adverbs",
+    "translation": "sometimes",
+    "file": "adverbs.md"
+  },
+  "lirate": {
+    "pos": "adverbs",
+    "translation": "always",
+    "file": "adverbs.md"
+  },
+  "mowate": {
+    "pos": "adverbs",
+    "translation": "never",
+    "file": "adverbs.md"
+  },
+  "toline": {
+    "pos": "adverbs",
+    "translation": "usually",
+    "file": "adverbs.md"
+  },
+  "matule": {
+    "pos": "adverbs",
+    "translation": "absolutely",
+    "file": "adverbs.md"
+  },
+  "sunupe": {
+    "pos": "adverbs",
+    "translation": "almost",
+    "file": "adverbs.md"
+  },
+  "husane": {
+    "pos": "adverbs",
+    "translation": "approximately",
+    "file": "adverbs.md"
+  },
+  "lunite": {
+    "pos": "adverbs",
+    "translation": "barely",
+    "file": "adverbs.md"
+  },
+  "pirone": {
+    "pos": "adverbs",
+    "translation": "enough",
+    "file": "adverbs.md"
+  },
+  "tamile": {
+    "pos": "adverbs",
+    "translation": "entirely",
+    "file": "adverbs.md"
+  },
+  "patane": {
+    "pos": "adverbs",
+    "translation": "especially",
+    "file": "adverbs.md"
+  },
+  "monute": {
+    "pos": "adverbs",
+    "translation": "extremely",
+    "file": "adverbs.md"
+  },
+  "mulute": {
+    "pos": "adverbs",
+    "translation": "incredibly",
+    "file": "adverbs.md"
+  },
+  "malipe": {
+    "pos": "adverbs",
+    "translation": "mainly",
+    "file": "adverbs.md"
+  },
+  "solane": {
+    "pos": "adverbs",
+    "translation": "only",
+    "file": "adverbs.md"
+  },
+  "linote": {
+    "pos": "adverbs",
+    "translation": "slightly",
+    "file": "adverbs.md"
+  },
+  "supane": {
+    "pos": "adverbs",
+    "translation": "too",
+    "file": "adverbs.md"
+  },
+  "ritune": {
+    "pos": "adverbs",
+    "translation": "very",
+    "file": "adverbs.md"
+  },
+  "larime": {
+    "pos": "adverbs",
+    "translation": "accordingly",
+    "file": "adverbs.md"
+  },
+  "piture": {
+    "pos": "adverbs",
+    "translation": "actually",
+    "file": "adverbs.md"
+  },
+  "wilope": {
+    "pos": "adverbs",
+    "translation": "allegedly",
+    "file": "adverbs.md"
+  },
+  "hinite": {
+    "pos": "adverbs",
+    "translation": "certainly",
+    "file": "adverbs.md"
+  },
+  "tohume": {
+    "pos": "adverbs",
+    "translation": "consequently",
+    "file": "adverbs.md"
+  },
+  "runote": {
+    "pos": "adverbs",
+    "translation": "evidently",
+    "file": "adverbs.md"
+  },
+  "porite": {
+    "pos": "adverbs",
+    "translation": "fortunately",
+    "file": "adverbs.md"
+  },
+  "molite": {
+    "pos": "adverbs",
+    "translation": "furthermore",
+    "file": "adverbs.md"
+  },
+  "hotane": {
+    "pos": "adverbs",
+    "translation": "however",
+    "file": "adverbs.md"
+  },
+  "lanite": {
+    "pos": "adverbs",
+    "translation": "instead",
+    "file": "adverbs.md"
+  },
+  "lunape": {
+    "pos": "adverbs",
+    "translation": "likely",
+    "file": "adverbs.md"
+  },
+  "natare": {
+    "pos": "adverbs",
+    "translation": "nevertheless",
+    "file": "adverbs.md"
+  },
+  "palate": {
+    "pos": "adverbs",
+    "translation": "no",
+    "file": "adverbs.md"
+  },
+  "musote": {
+    "pos": "adverbs",
+    "translation": "obviously",
+    "file": "adverbs.md"
+  },
+  "hapite": {
+    "pos": "adverbs",
+    "translation": "perhaps",
+    "file": "adverbs.md"
+  },
+  "tunupe": {
+    "pos": "adverbs",
+    "translation": "probably",
+    "file": "adverbs.md"
+  },
+  "putone": {
+    "pos": "adverbs",
+    "translation": "really",
+    "file": "adverbs.md"
+  },
+  "lumite": {
+    "pos": "adverbs",
+    "translation": "similar",
+    "file": "adverbs.md"
+  },
+  "mutule": {
+    "pos": "adverbs",
+    "translation": "supposedly",
+    "file": "adverbs.md"
+  },
+  "posane": {
+    "pos": "adverbs",
+    "translation": "thus",
+    "file": "adverbs.md"
+  },
+  "harite": {
+    "pos": "adverbs",
+    "translation": "unfortunately",
+    "file": "adverbs.md"
+  },
+  "hamite": {
+    "pos": "adverbs",
+    "translation": "how",
+    "file": "adverbs.md"
+  },
+  "wamine": {
+    "pos": "adverbs",
+    "translation": "why",
+    "file": "adverbs.md"
+  },
+  "timane": {
+    "pos": "adverbs",
+    "translation": "when",
+    "file": "adverbs.md"
+  },
+  "wulime": {
+    "pos": "adverbs",
+    "translation": "where",
+    "file": "adverbs.md"
+  },
+  "ruwase": {
+    "pos": "adverbs",
+    "translation": "also",
+    "file": "adverbs.md"
+  },
+  "mutane": {
+    "pos": "adverbs",
+    "translation": "just",
+    "file": "adverbs.md"
+  },
+  "htructure": {
+    "pos": "classifiers",
+    "translation": "english translation",
+    "file": "classifiers.md"
+  },
+  "lea": {
+    "pos": "classifiers",
+    "translation": "long objects (poles, sticks, trees)",
+    "file": "classifiers.md"
+  },
+  "moi": {
+    "pos": "classifiers",
+    "translation": "flat objects (papers, leaves, fabrics)",
+    "file": "classifiers.md"
+  },
+  "teo": {
+    "pos": "classifiers",
+    "translation": "round objects (balls, fruits, planets)",
+    "file": "classifiers.md"
+  },
+  "siu": {
+    "pos": "classifiers",
+    "translation": "small objects (grains, beads, seeds)",
+    "file": "classifiers.md"
+  },
+  "pao": {
+    "pos": "classifiers",
+    "translation": "pointed objects (knives, needles, spears)",
+    "file": "classifiers.md"
+  },
+  "roi": {
+    "pos": "classifiers",
+    "translation": "flexible objects (ropes, vines, snakes)",
+    "file": "classifiers.md"
+  },
+  "hao": {
+    "pos": "classifiers",
+    "translation": "hollow objects (tubes, pipes, bottles)",
+    "file": "classifiers.md"
+  },
+  "weu": {
+    "pos": "classifiers",
+    "translation": "container objects (bowls, cups, baskets)",
+    "file": "classifiers.md"
+  },
+  "pio": {
+    "pos": "classifiers",
+    "translation": "rectangular objects (books, bricks, boxes)",
+    "file": "classifiers.md"
+  },
+  "rao": {
+    "pos": "classifiers",
+    "translation": "animals (mammals, birds, fish)",
+    "file": "classifiers.md"
+  },
+  "hau": {
+    "pos": "classifiers",
+    "translation": "humans (people, individuals)",
+    "file": "classifiers.md"
+  },
+  "tio": {
+    "pos": "classifiers",
+    "translation": "insects (ants, bees, flies)",
+    "file": "classifiers.md"
+  },
+  "wiu": {
+    "pos": "classifiers",
+    "translation": "birds (all avian creatures)",
+    "file": "classifiers.md"
+  },
+  "seo": {
+    "pos": "classifiers",
+    "translation": "aquatic animals (fish, aquatic mammals)",
+    "file": "classifiers.md"
+  },
+  "peu": {
+    "pos": "classifiers",
+    "translation": "plants (all plant life)",
+    "file": "classifiers.md"
+  },
+  "neo": {
+    "pos": "classifiers",
+    "translation": "buildings and structures",
+    "file": "classifiers.md"
+  },
+  "heu": {
+    "pos": "classifiers",
+    "translation": "vehicles and transportation",
+    "file": "classifiers.md"
+  },
+  "sio": {
+    "pos": "classifiers",
+    "translation": "tools and instruments",
+    "file": "classifiers.md"
+  },
+  "wae": {
+    "pos": "classifiers",
+    "translation": "clothing and wearable items",
+    "file": "classifiers.md"
+  },
+  "tuo": {
+    "pos": "classifiers",
+    "translation": "written works and documents",
+    "file": "classifiers.md"
+  },
+  "pai": {
+    "pos": "classifiers",
+    "translation": "artworks and decorative objects",
+    "file": "classifiers.md"
+  },
+  "sae": {
+    "pos": "classifiers",
+    "translation": "food items and dishes",
+    "file": "classifiers.md"
+  },
+  "wou": {
+    "pos": "classifiers",
+    "translation": "electronic and technological devices",
+    "file": "classifiers.md"
+  },
+  "pea": {
+    "pos": "classifiers",
+    "translation": "places and locations",
+    "file": "classifiers.md"
+  },
+  "tea": {
+    "pos": "classifiers",
+    "translation": "time periods (days, months, years)",
+    "file": "classifiers.md"
+  },
+  "lio": {
+    "pos": "classifiers",
+    "translation": "distances and measurements",
+    "file": "classifiers.md"
+  },
+  "rae": {
+    "pos": "classifiers",
+    "translation": "events and occurrences",
+    "file": "classifiers.md"
+  },
+  "pau": {
+    "pos": "classifiers",
+    "translation": "areas and regions",
+    "file": "classifiers.md"
+  },
+  "tia": {
+    "pos": "classifiers",
+    "translation": "paths and routes",
+    "file": "classifiers.md"
+  },
+  "leu": {
+    "pos": "classifiers",
+    "translation": "ideas and concepts",
+    "file": "classifiers.md"
+  },
+  "mie": {
+    "pos": "classifiers",
+    "translation": "emotions and feelings",
+    "file": "classifiers.md"
+  },
+  "nua": {
+    "pos": "classifiers",
+    "translation": "social groups and organizations",
+    "file": "classifiers.md"
+  },
+  "wie": {
+    "pos": "classifiers",
+    "translation": "disciplines and fields of study",
+    "file": "classifiers.md"
+  },
+  "nou": {
+    "pos": "classifiers",
+    "translation": "systems and processes",
+    "file": "classifiers.md"
+  },
+  "tiu": {
+    "pos": "classifiers",
+    "translation": "sounds and utterances",
+    "file": "classifiers.md"
+  },
+  "rua": {
+    "pos": "classifiers",
+    "translation": "pairs and couples",
+    "file": "classifiers.md"
+  },
+  "tau": {
+    "pos": "classifiers",
+    "translation": "groups and collections",
+    "file": "classifiers.md"
+  },
+  "sou": {
+    "pos": "classifiers",
+    "translation": "masses and uncountable substances",
+    "file": "classifiers.md"
+  },
+  "rio": {
+    "pos": "classifiers",
+    "translation": "portions and servings",
+    "file": "classifiers.md"
+  },
+  "piu": {
+    "pos": "classifiers",
+    "translation": "bundles and packages",
+    "file": "classifiers.md"
+  },
+  "toa": {
+    "pos": "classifiers",
+    "translation": "layers and levels",
+    "file": "classifiers.md"
+  },
+  "mata": {
+    "pos": "conjunctions",
+    "translation": "for",
+    "file": "conjunctions.md"
+  },
+  "nene": {
+    "pos": "conjunctions",
+    "translation": "and",
+    "file": "conjunctions.md"
+  },
+  "poto": {
+    "pos": "conjunctions",
+    "translation": "nor",
+    "file": "conjunctions.md"
+  },
+  "tupo": {
+    "pos": "conjunctions",
+    "translation": "but",
+    "file": "conjunctions.md"
+  },
+  "wiho": {
+    "pos": "conjunctions",
+    "translation": "or",
+    "file": "conjunctions.md"
+  },
+  "reta": {
+    "pos": "conjunctions",
+    "translation": "yet",
+    "file": "conjunctions.md"
+  },
+  "huwa": {
+    "pos": "conjunctions",
+    "translation": "so",
+    "file": "conjunctions.md"
+  },
+  "matu": {
+    "pos": "conjunctions",
+    "translation": "after",
+    "file": "conjunctions.md"
+  },
+  "lipi": {
+    "pos": "conjunctions",
+    "translation": "although",
+    "file": "conjunctions.md"
+  },
+  "woma": {
+    "pos": "conjunctions",
+    "translation": "as",
+    "file": "conjunctions.md"
+  },
+  "renu": {
+    "pos": "conjunctions",
+    "translation": "because",
+    "file": "conjunctions.md"
+  },
+  "pimo": {
+    "pos": "conjunctions",
+    "translation": "before",
+    "file": "conjunctions.md"
+  },
+  "haso": {
+    "pos": "conjunctions",
+    "translation": "how",
+    "file": "conjunctions.md"
+  },
+  "wetu": {
+    "pos": "conjunctions",
+    "translation": "if",
+    "file": "conjunctions.md"
+  },
+  "roni": {
+    "pos": "conjunctions",
+    "translation": "once",
+    "file": "conjunctions.md"
+  },
+  "tura": {
+    "pos": "conjunctions",
+    "translation": "since",
+    "file": "conjunctions.md"
+  },
+  "rami": {
+    "pos": "conjunctions",
+    "translation": "than",
+    "file": "conjunctions.md"
+  },
+  "tela": {
+    "pos": "conjunctions",
+    "translation": "that",
+    "file": "conjunctions.md"
+  },
+  "wane": {
+    "pos": "conjunctions",
+    "translation": "when",
+    "file": "conjunctions.md"
+  },
+  "hewo": {
+    "pos": "conjunctions",
+    "translation": "where",
+    "file": "conjunctions.md"
+  },
+  "supi": {
+    "pos": "conjunctions",
+    "translation": "whether",
+    "file": "conjunctions.md"
+  },
+  "runa": {
+    "pos": "conjunctions",
+    "translation": "while",
+    "file": "conjunctions.md"
+  },
+  "lina": {
+    "pos": "conjunctions",
+    "translation": "until",
+    "file": "conjunctions.md"
+  },
+  "phiato": {
+    "pos": "determiners",
+    "translation": "this",
+    "file": "determiners.md"
+  },
+  "thueta": {
+    "pos": "determiners",
+    "translation": "that",
+    "file": "determiners.md"
+  },
+  "phiome": {
+    "pos": "determiners",
+    "translation": "these",
+    "file": "determiners.md"
+  },
+  "phaeta": {
+    "pos": "determiners",
+    "translation": "those",
+    "file": "determiners.md"
+  },
+  "sheapo": {
+    "pos": "determiners",
+    "translation": "such",
+    "file": "determiners.md"
+  },
+  "thienu": {
+    "pos": "determiners",
+    "translation": "same",
+    "file": "determiners.md"
+  },
+  "thiawo": {
+    "pos": "determiners",
+    "translation": "other",
+    "file": "determiners.md"
+  },
+  "whieso": {
+    "pos": "determiners",
+    "translation": "which",
+    "file": "determiners.md"
+  },
+  "whaesa": {
+    "pos": "determiners",
+    "translation": "what (determiner)",
+    "file": "determiners.md"
+  },
+  "wheipa": {
+    "pos": "determiners",
+    "translation": "whose",
+    "file": "determiners.md"
+  },
+  "whoato": {
+    "pos": "determiners",
+    "translation": "who",
+    "file": "determiners.md"
+  },
+  "shoata": {
+    "pos": "determiners",
+    "translation": "all",
+    "file": "determiners.md"
+  },
+  "pheapo": {
+    "pos": "determiners",
+    "translation": "each",
+    "file": "determiners.md"
+  },
+  "thiepu": {
+    "pos": "determiners",
+    "translation": "every",
+    "file": "determiners.md"
+  },
+  "phoitu": {
+    "pos": "determiners",
+    "translation": "both",
+    "file": "determiners.md"
+  },
+  "sheapa": {
+    "pos": "determiners",
+    "translation": "some",
+    "file": "determiners.md"
+  },
+  "phuato": {
+    "pos": "determiners",
+    "translation": "many",
+    "file": "determiners.md"
+  },
+  "thiena": {
+    "pos": "determiners",
+    "translation": "any",
+    "file": "determiners.md"
+  },
+  "phielu": {
+    "pos": "determiners",
+    "translation": "few",
+    "file": "determiners.md"
+  },
+  "sheari": {
+    "pos": "determiners",
+    "translation": "several",
+    "file": "determiners.md"
+  },
+  "thuino": {
+    "pos": "determiners",
+    "translation": "enough",
+    "file": "determiners.md"
+  },
+  "phaeto": {
+    "pos": "determiners",
+    "translation": "too many",
+    "file": "determiners.md"
+  },
+  "sheamu": {
+    "pos": "determiners",
+    "translation": "most",
+    "file": "determiners.md"
+  },
+  "thoana": {
+    "pos": "determiners",
+    "translation": "no/none",
+    "file": "determiners.md"
+  },
+  "phiaro": {
+    "pos": "determiners",
+    "translation": "neither",
+    "file": "determiners.md"
+  },
+  "mimia": {
+    "pos": "interjections",
+    "translation": "oh",
+    "file": "interjections.md"
+  },
+  "wowou": {
+    "pos": "interjections",
+    "translation": "wow",
+    "file": "interjections.md"
+  },
+  "hihei": {
+    "pos": "interjections",
+    "translation": "hey",
+    "file": "interjections.md"
+  },
+  "tatau": {
+    "pos": "interjections",
+    "translation": "alas",
+    "file": "interjections.md"
+  },
+  "papai": {
+    "pos": "interjections",
+    "translation": "yay",
+    "file": "interjections.md"
+  },
+  "hohou": {
+    "pos": "interjections",
+    "translation": "hooray",
+    "file": "interjections.md"
+  },
+  "wawae": {
+    "pos": "interjections",
+    "translation": "whoa",
+    "file": "interjections.md"
+  },
+  "sisiu": {
+    "pos": "interjections",
+    "translation": "sigh",
+    "file": "interjections.md"
+  },
+  "lalao": {
+    "pos": "interjections",
+    "translation": "aah",
+    "file": "interjections.md"
+  },
+  "huhue": {
+    "pos": "interjections",
+    "translation": "huh",
+    "file": "interjections.md"
+  },
+  "mumuo": {
+    "pos": "interjections",
+    "translation": "hmm",
+    "file": "interjections.md"
+  },
+  "pipie": {
+    "pos": "interjections",
+    "translation": "phew",
+    "file": "interjections.md"
+  },
+  "ririu": {
+    "pos": "interjections",
+    "translation": "yikes",
+    "file": "interjections.md"
+  },
+  "ninia": {
+    "pos": "interjections",
+    "translation": "oh dear",
+    "file": "interjections.md"
+  },
+  "wowoi": {
+    "pos": "interjections",
+    "translation": "oops",
+    "file": "interjections.md"
+  },
+  "hihoi": {
+    "pos": "interjections",
+    "translation": "hello",
+    "file": "interjections.md"
+  },
+  "papao": {
+    "pos": "interjections",
+    "translation": "goodbye",
+    "file": "interjections.md"
+  },
+  "nanea": {
+    "pos": "interjections",
+    "translation": "hey (attention)",
+    "file": "interjections.md"
+  },
+  "tutei": {
+    "pos": "interjections",
+    "translation": "listen",
+    "file": "interjections.md"
+  },
+  "lalue": {
+    "pos": "interjections",
+    "translation": "look",
+    "file": "interjections.md"
+  },
+  "wiwia": {
+    "pos": "interjections",
+    "translation": "watch out",
+    "file": "interjections.md"
+  },
+  "nuneo": {
+    "pos": "interjections",
+    "translation": "stop",
+    "file": "interjections.md"
+  },
+  "nonoe": {
+    "pos": "interjections",
+    "translation": "yes",
+    "file": "interjections.md"
+  },
+  "mumeu": {
+    "pos": "interjections",
+    "translation": "no",
+    "file": "interjections.md"
+  },
+  "tatao": {
+    "pos": "interjections",
+    "translation": "thanks",
+    "file": "interjections.md"
+  },
+  "sasua": {
+    "pos": "interjections",
+    "translation": "please",
+    "file": "interjections.md"
+  },
+  "lilie": {
+    "pos": "interjections",
+    "translation": "sorry",
+    "file": "interjections.md"
+  },
+  "rarao": {
+    "pos": "interjections",
+    "translation": "you're welcome",
+    "file": "interjections.md"
+  },
+  "wawea": {
+    "pos": "interjections",
+    "translation": "agreed",
+    "file": "interjections.md"
+  },
+  "niniu": {
+    "pos": "interjections",
+    "translation": "never",
+    "file": "interjections.md"
+  },
+  "hahai": {
+    "pos": "interjections",
+    "translation": "of course",
+    "file": "interjections.md"
+  },
+  "pupui": {
+    "pos": "interjections",
+    "translation": "maybe",
+    "file": "interjections.md"
+  },
+  "wawai": {
+    "pos": "interjections",
+    "translation": "ouch",
+    "file": "interjections.md"
+  },
+  "totou": {
+    "pos": "interjections",
+    "translation": "ow",
+    "file": "interjections.md"
+  },
+  "mamae": {
+    "pos": "interjections",
+    "translation": "argh",
+    "file": "interjections.md"
+  },
+  "hihia": {
+    "pos": "interjections",
+    "translation": "ugh",
+    "file": "interjections.md"
+  },
+  "pupea": {
+    "pos": "interjections",
+    "translation": "brrr (cold)",
+    "file": "interjections.md"
+  },
+  "sosoa": {
+    "pos": "interjections",
+    "translation": "ack",
+    "file": "interjections.md"
+  },
+  "rurue": {
+    "pos": "interjections",
+    "translation": "eek",
+    "file": "interjections.md"
+  },
+  "momoi": {
+    "pos": "interjections",
+    "translation": "yum",
+    "file": "interjections.md"
+  },
+  "momoe": {
+    "pos": "interjections",
+    "translation": "mmm",
+    "file": "interjections.md"
+  },
+  "sasau": {
+    "pos": "interjections",
+    "translation": "sweet",
+    "file": "interjections.md"
+  },
+  "ririe": {
+    "pos": "interjections",
+    "translation": "haha",
+    "file": "interjections.md"
+  },
+  "titia": {
+    "pos": "interjections",
+    "translation": "woohoo",
+    "file": "interjections.md"
+  },
+  "popoe": {
+    "pos": "interjections",
+    "translation": "hurray",
+    "file": "interjections.md"
+  },
+  "nunuo": {
+    "pos": "interjections",
+    "translation": "delightful",
+    "file": "interjections.md"
+  },
+  "mumue": {
+    "pos": "interjections",
+    "translation": "um",
+    "file": "interjections.md"
+  },
+  "hohoe": {
+    "pos": "interjections",
+    "translation": "er",
+    "file": "interjections.md"
+  },
+  "wuweo": {
+    "pos": "interjections",
+    "translation": "well",
+    "file": "interjections.md"
+  },
+  "lilia": {
+    "pos": "interjections",
+    "translation": "like",
+    "file": "interjections.md"
+  },
+  "tutue": {
+    "pos": "interjections",
+    "translation": "so",
+    "file": "interjections.md"
+  },
+  "susei": {
+    "pos": "interjections",
+    "translation": "anyway",
+    "file": "interjections.md"
+  },
+  "nanai": {
+    "pos": "interjections",
+    "translation": "you know",
+    "file": "interjections.md"
+  },
+  "shiophea": {
+    "pos": "nouns",
+    "translation": "air",
+    "file": "nouns.md"
+  },
+  "hithau": {
+    "pos": "nouns",
+    "translation": "aurora",
+    "file": "nouns.md"
+  },
+  "luwhou": {
+    "pos": "nouns",
+    "translation": "breeze",
+    "file": "nouns.md"
+  },
+  "whishai": {
+    "pos": "nouns",
+    "translation": "breath",
+    "file": "nouns.md"
+  },
+  "mothao": {
+    "pos": "nouns",
+    "translation": "cloud",
+    "file": "nouns.md"
+  },
+  "loewhea": {
+    "pos": "nouns",
+    "translation": "dew",
+    "file": "nouns.md"
+  },
+  "tawheu": {
+    "pos": "nouns",
+    "translation": "dirt",
+    "file": "nouns.md"
+  },
+  "naishia": {
+    "pos": "nouns",
+    "translation": "drizzle",
+    "file": "nouns.md"
+  },
+  "saphui": {
+    "pos": "nouns",
+    "translation": "dune",
+    "file": "nouns.md"
+  },
+  "muwhui": {
+    "pos": "nouns",
+    "translation": "planet earth",
+    "file": "nouns.md"
+  },
+  "phophui": {
+    "pos": "nouns",
+    "translation": "earthquake",
+    "file": "nouns.md"
+  },
+  "phothui": {
+    "pos": "nouns",
+    "translation": "fire",
+    "file": "nouns.md"
+  },
+  "whoithea": {
+    "pos": "nouns",
+    "translation": "fog",
+    "file": "nouns.md"
+  },
+  "liophui": {
+    "pos": "nouns",
+    "translation": "gale",
+    "file": "nouns.md"
+  },
+  "hashui": {
+    "pos": "nouns",
+    "translation": "ice",
+    "file": "nouns.md"
+  },
+  "wathoa": {
+    "pos": "nouns",
+    "translation": "light",
+    "file": "nouns.md"
+  },
+  "naishoa": {
+    "pos": "nouns",
+    "translation": "lightning",
+    "file": "nouns.md"
+  },
+  "taophea": {
+    "pos": "nouns",
+    "translation": "mist",
+    "file": "nouns.md"
+  },
+  "sushie": {
+    "pos": "nouns",
+    "translation": "monsoon",
+    "file": "nouns.md"
+  },
+  "phuithui": {
+    "pos": "nouns",
+    "translation": "mud",
+    "file": "nouns.md"
+  },
+  "loshea": {
+    "pos": "nouns",
+    "translation": "ocean",
+    "file": "nouns.md"
+  },
+  "nuthui": {
+    "pos": "nouns",
+    "translation": "pebble",
+    "file": "nouns.md"
+  },
+  "lashea": {
+    "pos": "nouns",
+    "translation": "rain",
+    "file": "nouns.md"
+  },
+  "phaishoa": {
+    "pos": "nouns",
+    "translation": "rainbow",
+    "file": "nouns.md"
+  },
+  "phuawhai": {
+    "pos": "nouns",
+    "translation": "rock",
+    "file": "nouns.md"
+  },
+  "rathui": {
+    "pos": "nouns",
+    "translation": "salt",
+    "file": "nouns.md"
+  },
+  "shuwhia": {
+    "pos": "nouns",
+    "translation": "sand",
+    "file": "nouns.md"
+  },
+  "latheo": {
+    "pos": "nouns",
+    "translation": "sea",
+    "file": "nouns.md"
+  },
+  "phuwheo": {
+    "pos": "nouns",
+    "translation": "snow",
+    "file": "nouns.md"
+  },
+  "roshea": {
+    "pos": "nouns",
+    "translation": "soil",
+    "file": "nouns.md"
+  },
+  "pushai": {
+    "pos": "nouns",
+    "translation": "stone",
+    "file": "nouns.md"
+  },
+  "raoshea": {
+    "pos": "nouns",
+    "translation": "sun",
+    "file": "nouns.md"
+  },
+  "thithai": {
+    "pos": "nouns",
+    "translation": "sunlight",
+    "file": "nouns.md"
+  },
+  "naishea": {
+    "pos": "nouns",
+    "translation": "thunder",
+    "file": "nouns.md"
+  },
+  "phishea": {
+    "pos": "nouns",
+    "translation": "tide",
+    "file": "nouns.md"
+  },
+  "nuphai": {
+    "pos": "nouns",
+    "translation": "wave",
+    "file": "nouns.md"
+  },
+  "wheishea": {
+    "pos": "nouns",
+    "translation": "water",
+    "file": "nouns.md"
+  },
+  "riwhea": {
+    "pos": "nouns",
+    "translation": "wind",
+    "file": "nouns.md"
+  },
+  "phawhui": {
+    "pos": "nouns",
+    "translation": "zephyr",
+    "file": "nouns.md"
+  },
+  "whiethea": {
+    "pos": "nouns",
+    "translation": "bay",
+    "file": "nouns.md"
+  },
+  "suowhia": {
+    "pos": "nouns",
+    "translation": "canyon",
+    "file": "nouns.md"
+  },
+  "phothai": {
+    "pos": "nouns",
+    "translation": "cave",
+    "file": "nouns.md"
+  },
+  "pheophui": {
+    "pos": "nouns",
+    "translation": "cliff",
+    "file": "nouns.md"
+  },
+  "hoethia": {
+    "pos": "nouns",
+    "translation": "coast",
+    "file": "nouns.md"
+  },
+  "thuphea": {
+    "pos": "nouns",
+    "translation": "desert",
+    "file": "nouns.md"
+  },
+  "theiphai": {
+    "pos": "nouns",
+    "translation": "estuary",
+    "file": "nouns.md"
+  },
+  "thuthui": {
+    "pos": "nouns",
+    "translation": "field",
+    "file": "nouns.md"
+  },
+  "shuthai": {
+    "pos": "nouns",
+    "translation": "forest",
+    "file": "nouns.md"
+  },
+  "riphoa": {
+    "pos": "nouns",
+    "translation": "ground",
+    "file": "nouns.md"
+  },
+  "phiwhai": {
+    "pos": "nouns",
+    "translation": "hill",
+    "file": "nouns.md"
+  },
+  "hushai": {
+    "pos": "nouns",
+    "translation": "island",
+    "file": "nouns.md"
+  },
+  "rathea": {
+    "pos": "nouns",
+    "translation": "jungle",
+    "file": "nouns.md"
+  },
+  "liathia": {
+    "pos": "nouns",
+    "translation": "lake",
+    "file": "nouns.md"
+  },
+  "whithui": {
+    "pos": "nouns",
+    "translation": "lagoon",
+    "file": "nouns.md"
+  },
+  "sheoshei": {
+    "pos": "nouns",
+    "translation": "meadow",
+    "file": "nouns.md"
+  },
+  "whiophea": {
+    "pos": "nouns",
+    "translation": "mountain",
+    "file": "nouns.md"
+  },
+  "phishoa": {
+    "pos": "nouns",
+    "translation": "mountain pass",
+    "file": "nouns.md"
+  },
+  "phoshui": {
+    "pos": "nouns",
+    "translation": "mountain peak",
+    "file": "nouns.md"
+  },
+  "whophea": {
+    "pos": "nouns",
+    "translation": "place",
+    "file": "nouns.md"
+  },
+  "phathea": {
+    "pos": "nouns",
+    "translation": "plateau",
+    "file": "nouns.md"
+  },
+  "pheoshoa": {
+    "pos": "nouns",
+    "translation": "pond",
+    "file": "nouns.md"
+  },
+  "thiawhia": {
+    "pos": "nouns",
+    "translation": "prairie",
+    "file": "nouns.md"
+  },
+  "rophia": {
+    "pos": "nouns",
+    "translation": "reef",
+    "file": "nouns.md"
+  },
+  "raethea": {
+    "pos": "nouns",
+    "translation": "river",
+    "file": "nouns.md"
+  },
+  "naphai": {
+    "pos": "nouns",
+    "translation": "road/path",
+    "file": "nouns.md"
+  },
+  "haithui": {
+    "pos": "nouns",
+    "translation": "savanna",
+    "file": "nouns.md"
+  },
+  "phaeshea": {
+    "pos": "nouns",
+    "translation": "slope",
+    "file": "nouns.md"
+  },
+  "thauthea": {
+    "pos": "nouns",
+    "translation": "spring",
+    "file": "nouns.md"
+  },
+  "ruethia": {
+    "pos": "nouns",
+    "translation": "stream",
+    "file": "nouns.md"
+  },
+  "shaphoa": {
+    "pos": "nouns",
+    "translation": "swamp/marsh",
+    "file": "nouns.md"
+  },
+  "woephia": {
+    "pos": "nouns",
+    "translation": "tundra",
+    "file": "nouns.md"
+  },
+  "miwhui": {
+    "pos": "nouns",
+    "translation": "valley",
+    "file": "nouns.md"
+  },
+  "huphai": {
+    "pos": "nouns",
+    "translation": "vicinity",
+    "file": "nouns.md"
+  },
+  "noethua": {
+    "pos": "nouns",
+    "translation": "woodland",
+    "file": "nouns.md"
+  },
+  "lithio": {
+    "pos": "nouns",
+    "translation": "bark",
+    "file": "nouns.md"
+  },
+  "seiwhea": {
+    "pos": "nouns",
+    "translation": "branch",
+    "file": "nouns.md"
+  },
+  "peuthui": {
+    "pos": "nouns",
+    "translation": "bush",
+    "file": "nouns.md"
+  },
+  "phuwhea": {
+    "pos": "nouns",
+    "translation": "fern",
+    "file": "nouns.md"
+  },
+  "roshai": {
+    "pos": "nouns",
+    "translation": "flower",
+    "file": "nouns.md"
+  },
+  "pothai": {
+    "pos": "nouns",
+    "translation": "fruit",
+    "file": "nouns.md"
+  },
+  "pothui": {
+    "pos": "nouns",
+    "translation": "grass",
+    "file": "nouns.md"
+  },
+  "thushia": {
+    "pos": "nouns",
+    "translation": "leaf",
+    "file": "nouns.md"
+  },
+  "shaoshui": {
+    "pos": "nouns",
+    "translation": "moss",
+    "file": "nouns.md"
+  },
+  "huthoa": {
+    "pos": "nouns",
+    "translation": "plant",
+    "file": "nouns.md"
+  },
+  "haiwhia": {
+    "pos": "nouns",
+    "translation": "root",
+    "file": "nouns.md"
+  },
+  "wethia": {
+    "pos": "nouns",
+    "translation": "seed",
+    "file": "nouns.md"
+  },
+  "raphai": {
+    "pos": "nouns",
+    "translation": "shrub",
+    "file": "nouns.md"
+  },
+  "liphai": {
+    "pos": "nouns",
+    "translation": "tree",
+    "file": "nouns.md"
+  },
+  "phethoa": {
+    "pos": "nouns",
+    "translation": "vegetable",
+    "file": "nouns.md"
+  },
+  "whiphai": {
+    "pos": "nouns",
+    "translation": "vine",
+    "file": "nouns.md"
+  },
+  "whuthau": {
+    "pos": "nouns",
+    "translation": "willow",
+    "file": "nouns.md"
+  },
+  "thiphea": {
+    "pos": "nouns",
+    "translation": "animal",
+    "file": "nouns.md"
+  },
+  "naphia": {
+    "pos": "nouns",
+    "translation": "ant",
+    "file": "nouns.md"
+  },
+  "whiwhui": {
+    "pos": "nouns",
+    "translation": "bee",
+    "file": "nouns.md"
+  },
+  "lophea": {
+    "pos": "nouns",
+    "translation": "bird",
+    "file": "nouns.md"
+  },
+  "whaiwhea": {
+    "pos": "nouns",
+    "translation": "butterfly",
+    "file": "nouns.md"
+  },
+  "mathai": {
+    "pos": "nouns",
+    "translation": "cat",
+    "file": "nouns.md"
+  },
+  "muwhea": {
+    "pos": "nouns",
+    "translation": "cow/ox",
+    "file": "nouns.md"
+  },
+  "tephai": {
+    "pos": "nouns",
+    "translation": "deer",
+    "file": "nouns.md"
+  },
+  "whithoa": {
+    "pos": "nouns",
+    "translation": "dog",
+    "file": "nouns.md"
+  },
+  "whithea": {
+    "pos": "nouns",
+    "translation": "dove",
+    "file": "nouns.md"
+  },
+  "sheuthui": {
+    "pos": "nouns",
+    "translation": "fish",
+    "file": "nouns.md"
+  },
+  "liwhoa": {
+    "pos": "nouns",
+    "translation": "fly",
+    "file": "nouns.md"
+  },
+  "phashia": {
+    "pos": "nouns",
+    "translation": "fox",
+    "file": "nouns.md"
+  },
+  "lophoa": {
+    "pos": "nouns",
+    "translation": "horse",
+    "file": "nouns.md"
+  },
+  "lophia": {
+    "pos": "nouns",
+    "translation": "insect",
+    "file": "nouns.md"
+  },
+  "shewhoa": {
+    "pos": "nouns",
+    "translation": "sheep/goat",
+    "file": "nouns.md"
+  },
+  "saphoa": {
+    "pos": "nouns",
+    "translation": "snake",
+    "file": "nouns.md"
+  },
+  "wuphea": {
+    "pos": "nouns",
+    "translation": "spider",
+    "file": "nouns.md"
+  },
+  "whuthoa": {
+    "pos": "nouns",
+    "translation": "wolf",
+    "file": "nouns.md"
+  },
+  "phawhoa": {
+    "pos": "nouns",
+    "translation": "afternoon",
+    "file": "nouns.md"
+  },
+  "whethoa": {
+    "pos": "nouns",
+    "translation": "autumn",
+    "file": "nouns.md"
+  },
+  "rashai": {
+    "pos": "nouns",
+    "translation": "calendar",
+    "file": "nouns.md"
+  },
+  "thophea": {
+    "pos": "nouns",
+    "translation": "dawn",
+    "file": "nouns.md"
+  },
+  "thashoa": {
+    "pos": "nouns",
+    "translation": "day",
+    "file": "nouns.md"
+  },
+  "thuphia": {
+    "pos": "nouns",
+    "translation": "dusk/evening",
+    "file": "nouns.md"
+  },
+  "shiphea": {
+    "pos": "nouns",
+    "translation": "future",
+    "file": "nouns.md"
+  },
+  "thophoa": {
+    "pos": "nouns",
+    "translation": "hour",
+    "file": "nouns.md"
+  },
+  "methoa": {
+    "pos": "nouns",
+    "translation": "midnight",
+    "file": "nouns.md"
+  },
+  "hothoa": {
+    "pos": "nouns",
+    "translation": "minute",
+    "file": "nouns.md"
+  },
+  "pawhia": {
+    "pos": "nouns",
+    "translation": "moment",
+    "file": "nouns.md"
+  },
+  "thiphai": {
+    "pos": "nouns",
+    "translation": "month",
+    "file": "nouns.md"
+  },
+  "thothea": {
+    "pos": "nouns",
+    "translation": "morning",
+    "file": "nouns.md"
+  },
+  "saiwhui": {
+    "pos": "nouns",
+    "translation": "moon",
+    "file": "nouns.md"
+  },
+  "mutheo": {
+    "pos": "nouns",
+    "translation": "night",
+    "file": "nouns.md"
+  },
+  "phathia": {
+    "pos": "nouns",
+    "translation": "noon",
+    "file": "nouns.md"
+  },
+  "hiphai": {
+    "pos": "nouns",
+    "translation": "past",
+    "file": "nouns.md"
+  },
+  "taphai": {
+    "pos": "nouns",
+    "translation": "present",
+    "file": "nouns.md"
+  },
+  "mishai": {
+    "pos": "nouns",
+    "translation": "second",
+    "file": "nouns.md"
+  },
+  "tawhai": {
+    "pos": "nouns",
+    "translation": "season",
+    "file": "nouns.md"
+  },
+  "thuwhea": {
+    "pos": "nouns",
+    "translation": "spring",
+    "file": "nouns.md"
+  },
+  "tawhea": {
+    "pos": "nouns",
+    "translation": "summer",
+    "file": "nouns.md"
+  },
+  "mathea": {
+    "pos": "nouns",
+    "translation": "today",
+    "file": "nouns.md"
+  },
+  "lawhui": {
+    "pos": "nouns",
+    "translation": "time",
+    "file": "nouns.md"
+  },
+  "thuthea": {
+    "pos": "nouns",
+    "translation": "tomorrow",
+    "file": "nouns.md"
+  },
+  "ruwhoa": {
+    "pos": "nouns",
+    "translation": "week",
+    "file": "nouns.md"
+  },
+  "methui": {
+    "pos": "nouns",
+    "translation": "winter",
+    "file": "nouns.md"
+  },
+  "phoshea": {
+    "pos": "nouns",
+    "translation": "yesterday",
+    "file": "nouns.md"
+  },
+  "shiphia": {
+    "pos": "nouns",
+    "translation": "year",
+    "file": "nouns.md"
+  },
+  "haphoa": {
+    "pos": "nouns",
+    "translation": "arm",
+    "file": "nouns.md"
+  },
+  "phoshia": {
+    "pos": "nouns",
+    "translation": "back",
+    "file": "nouns.md"
+  },
+  "lathui": {
+    "pos": "nouns",
+    "translation": "blood",
+    "file": "nouns.md"
+  },
+  "haphia": {
+    "pos": "nouns",
+    "translation": "body",
+    "file": "nouns.md"
+  },
+  "mithia": {
+    "pos": "nouns",
+    "translation": "bone",
+    "file": "nouns.md"
+  },
+  "nophea": {
+    "pos": "nouns",
+    "translation": "brain",
+    "file": "nouns.md"
+  },
+  "phawhea": {
+    "pos": "nouns",
+    "translation": "ear",
+    "file": "nouns.md"
+  },
+  "whiphoa": {
+    "pos": "nouns",
+    "translation": "eye",
+    "file": "nouns.md"
+  },
+  "nothui": {
+    "pos": "nouns",
+    "translation": "face",
+    "file": "nouns.md"
+  },
+  "nathui": {
+    "pos": "nouns",
+    "translation": "finger",
+    "file": "nouns.md"
+  },
+  "nuthai": {
+    "pos": "nouns",
+    "translation": "foot",
+    "file": "nouns.md"
+  },
+  "thaphia": {
+    "pos": "nouns",
+    "translation": "hand",
+    "file": "nouns.md"
+  },
+  "miwhai": {
+    "pos": "nouns",
+    "translation": "hair",
+    "file": "nouns.md"
+  },
+  "thiwhai": {
+    "pos": "nouns",
+    "translation": "heart",
+    "file": "nouns.md"
+  },
+  "thiphoa": {
+    "pos": "nouns",
+    "translation": "kidneys",
+    "file": "nouns.md"
+  },
+  "tiphai": {
+    "pos": "nouns",
+    "translation": "leg",
+    "file": "nouns.md"
+  },
+  "shiwhea": {
+    "pos": "nouns",
+    "translation": "liver",
+    "file": "nouns.md"
+  },
+  "luphai": {
+    "pos": "nouns",
+    "translation": "lungs",
+    "file": "nouns.md"
+  },
+  "muthia": {
+    "pos": "nouns",
+    "translation": "muscle",
+    "file": "nouns.md"
+  },
+  "sowhea": {
+    "pos": "nouns",
+    "translation": "mouth",
+    "file": "nouns.md"
+  },
+  "nuthoa": {
+    "pos": "nouns",
+    "translation": "nerve",
+    "file": "nouns.md"
+  },
+  "nithea": {
+    "pos": "nouns",
+    "translation": "nose",
+    "file": "nouns.md"
+  },
+  "haphae": {
+    "pos": "nouns",
+    "translation": "skin",
+    "file": "nouns.md"
+  },
+  "phuthai": {
+    "pos": "nouns",
+    "translation": "skull",
+    "file": "nouns.md"
+  },
+  "shiphai": {
+    "pos": "nouns",
+    "translation": "spine",
+    "file": "nouns.md"
+  },
+  "hathui": {
+    "pos": "nouns",
+    "translation": "stomach/belly",
+    "file": "nouns.md"
+  },
+  "sophia": {
+    "pos": "nouns",
+    "translation": "tooth",
+    "file": "nouns.md"
+  },
+  "shawhea": {
+    "pos": "nouns",
+    "translation": "tongue",
+    "file": "nouns.md"
+  },
+  "whuphai": {
+    "pos": "nouns",
+    "translation": "vein/artery",
+    "file": "nouns.md"
+  },
+  "huthie": {
+    "pos": "nouns",
+    "translation": "aunt",
+    "file": "nouns.md"
+  },
+  "lushui": {
+    "pos": "nouns",
+    "translation": "baby",
+    "file": "nouns.md"
+  },
+  "wiwhui": {
+    "pos": "nouns",
+    "translation": "boy",
+    "file": "nouns.md"
+  },
+  "tiphio": {
+    "pos": "nouns",
+    "translation": "brotherhood",
+    "file": "nouns.md"
+  },
+  "phiphea": {
+    "pos": "nouns",
+    "translation": "child",
+    "file": "nouns.md"
+  },
+  "miwhoa": {
+    "pos": "nouns",
+    "translation": "close friend",
+    "file": "nouns.md"
+  },
+  "shuphui": {
+    "pos": "nouns",
+    "translation": "casual friend",
+    "file": "nouns.md"
+  },
+  "phuwhia": {
+    "pos": "nouns",
+    "translation": "elder/senior",
+    "file": "nouns.md"
+  },
+  "waphoa": {
+    "pos": "nouns",
+    "translation": "enemy/opponent",
+    "file": "nouns.md"
+  },
+  "shiphie": {
+    "pos": "nouns",
+    "translation": "family",
+    "file": "nouns.md"
+  },
+  "huthia": {
+    "pos": "nouns",
+    "translation": "father",
+    "file": "nouns.md"
+  },
+  "phithie": {
+    "pos": "nouns",
+    "translation": "girl",
+    "file": "nouns.md"
+  },
+  "mawhia": {
+    "pos": "nouns",
+    "translation": "grandparent",
+    "file": "nouns.md"
+  },
+  "thiwhoa": {
+    "pos": "nouns",
+    "translation": "infant",
+    "file": "nouns.md"
+  },
+  "raushai": {
+    "pos": "nouns",
+    "translation": "leader",
+    "file": "nouns.md"
+  },
+  "huphui": {
+    "pos": "nouns",
+    "translation": "man",
+    "file": "nouns.md"
+  },
+  "whothea": {
+    "pos": "nouns",
+    "translation": "mother",
+    "file": "nouns.md"
+  },
+  "hishui": {
+    "pos": "nouns",
+    "translation": "parent",
+    "file": "nouns.md"
+  },
+  "thephoa": {
+    "pos": "nouns",
+    "translation": "person",
+    "file": "nouns.md"
+  },
+  "shushea": {
+    "pos": "nouns",
+    "translation": "president",
+    "file": "nouns.md"
+  },
+  "shuwhoa": {
+    "pos": "nouns",
+    "translation": "sister",
+    "file": "nouns.md"
+  },
+  "muthui": {
+    "pos": "nouns",
+    "translation": "spouse",
+    "file": "nouns.md"
+  },
+  "thuphui": {
+    "pos": "nouns",
+    "translation": "stranger/guest",
+    "file": "nouns.md"
+  },
+  "nowhea": {
+    "pos": "nouns",
+    "translation": "teacher",
+    "file": "nouns.md"
+  },
+  "waphia": {
+    "pos": "nouns",
+    "translation": "uncle",
+    "file": "nouns.md"
+  },
+  "thaphea": {
+    "pos": "nouns",
+    "translation": "woman",
+    "file": "nouns.md"
+  },
+  "lathia": {
+    "pos": "nouns",
+    "translation": "axe",
+    "file": "nouns.md"
+  },
+  "pashia": {
+    "pos": "nouns",
+    "translation": "bag",
+    "file": "nouns.md"
+  },
+  "mophui": {
+    "pos": "nouns",
+    "translation": "ball",
+    "file": "nouns.md"
+  },
+  "pashui": {
+    "pos": "nouns",
+    "translation": "basket",
+    "file": "nouns.md"
+  },
+  "phuthui": {
+    "pos": "nouns",
+    "translation": "blanket",
+    "file": "nouns.md"
+  },
+  "whethea": {
+    "pos": "nouns",
+    "translation": "book",
+    "file": "nouns.md"
+  },
+  "powhia": {
+    "pos": "nouns",
+    "translation": "bow",
+    "file": "nouns.md"
+  },
+  "poshai": {
+    "pos": "nouns",
+    "translation": "bowl",
+    "file": "nouns.md"
+  },
+  "whoshia": {
+    "pos": "nouns",
+    "translation": "car",
+    "file": "nouns.md"
+  },
+  "phothea": {
+    "pos": "nouns",
+    "translation": "cannonball",
+    "file": "nouns.md"
+  },
+  "tuphai": {
+    "pos": "nouns",
+    "translation": "cup",
+    "file": "nouns.md"
+  },
+  "shoshai": {
+    "pos": "nouns",
+    "translation": "door",
+    "file": "nouns.md"
+  },
+  "tushai": {
+    "pos": "nouns",
+    "translation": "dress/robe",
+    "file": "nouns.md"
+  },
+  "hashia": {
+    "pos": "nouns",
+    "translation": "hammer",
+    "file": "nouns.md"
+  },
+  "hathia": {
+    "pos": "nouns",
+    "translation": "hat/cap",
+    "file": "nouns.md"
+  },
+  "hiwhea": {
+    "pos": "nouns",
+    "translation": "house",
+    "file": "nouns.md"
+  },
+  "naiphia": {
+    "pos": "nouns",
+    "translation": "knife",
+    "file": "nouns.md"
+  },
+  "luthia": {
+    "pos": "nouns",
+    "translation": "letter (missive)",
+    "file": "nouns.md"
+  },
+  "maphia": {
+    "pos": "nouns",
+    "translation": "map",
+    "file": "nouns.md"
+  },
+  "nethai": {
+    "pos": "nouns",
+    "translation": "net",
+    "file": "nouns.md"
+  },
+  "niwhea": {
+    "pos": "nouns",
+    "translation": "needle",
+    "file": "nouns.md"
+  },
+  "whuphui": {
+    "pos": "nouns",
+    "translation": "paper",
+    "file": "nouns.md"
+  },
+  "tuwhai": {
+    "pos": "nouns",
+    "translation": "pen/pencil",
+    "file": "nouns.md"
+  },
+  "pothia": {
+    "pos": "nouns",
+    "translation": "pot",
+    "file": "nouns.md"
+  },
+  "rophai": {
+    "pos": "nouns",
+    "translation": "rope",
+    "file": "nouns.md"
+  },
+  "sowhia": {
+    "pos": "nouns",
+    "translation": "saw",
+    "file": "nouns.md"
+  },
+  "lithui": {
+    "pos": "nouns",
+    "translation": "shirt",
+    "file": "nouns.md"
+  },
+  "puthea": {
+    "pos": "nouns",
+    "translation": "shoe/sandal",
+    "file": "nouns.md"
+  },
+  "tuphia": {
+    "pos": "nouns",
+    "translation": "tent",
+    "file": "nouns.md"
+  },
+  "hithea": {
+    "pos": "nouns",
+    "translation": "wall",
+    "file": "nouns.md"
+  },
+  "whuthia": {
+    "pos": "nouns",
+    "translation": "wheel",
+    "file": "nouns.md"
+  },
+  "shiwhui": {
+    "pos": "nouns",
+    "translation": "window",
+    "file": "nouns.md"
+  },
+  "nowhai": {
+    "pos": "nouns",
+    "translation": "bread",
+    "file": "nouns.md"
+  },
+  "liwhai": {
+    "pos": "nouns",
+    "translation": "drink",
+    "file": "nouns.md"
+  },
+  "noshea": {
+    "pos": "nouns",
+    "translation": "food",
+    "file": "nouns.md"
+  },
+  "noshoa": {
+    "pos": "nouns",
+    "translation": "meal",
+    "file": "nouns.md"
+  },
+  "saiwhoa": {
+    "pos": "nouns",
+    "translation": "meat",
+    "file": "nouns.md"
+  },
+  "muthoa": {
+    "pos": "nouns",
+    "translation": "mushroom/fungus",
+    "file": "nouns.md"
+  },
+  "thuwhui": {
+    "pos": "nouns",
+    "translation": "city",
+    "file": "nouns.md"
+  },
+  "suthea": {
+    "pos": "nouns",
+    "translation": "farm",
+    "file": "nouns.md"
+  },
+  "wushia": {
+    "pos": "nouns",
+    "translation": "market",
+    "file": "nouns.md"
+  },
+  "wushai": {
+    "pos": "nouns",
+    "translation": "marketplace",
+    "file": "nouns.md"
+  },
+  "nishea": {
+    "pos": "nouns",
+    "translation": "office",
+    "file": "nouns.md"
+  },
+  "whuthie": {
+    "pos": "nouns",
+    "translation": "room (enclosed)",
+    "file": "nouns.md"
+  },
+  "huthea": {
+    "pos": "nouns",
+    "translation": "room (space)",
+    "file": "nouns.md"
+  },
+  "thushai": {
+    "pos": "nouns",
+    "translation": "temple/shrine",
+    "file": "nouns.md"
+  },
+  "whithia": {
+    "pos": "nouns",
+    "translation": "village",
+    "file": "nouns.md"
+  },
+  "towhai": {
+    "pos": "nouns",
+    "translation": "advice",
+    "file": "nouns.md"
+  },
+  "thephui": {
+    "pos": "nouns",
+    "translation": "age (duration)",
+    "file": "nouns.md"
+  },
+  "rashia": {
+    "pos": "nouns",
+    "translation": "anger",
+    "file": "nouns.md"
+  },
+  "lowhai": {
+    "pos": "nouns",
+    "translation": "answer",
+    "file": "nouns.md"
+  },
+  "lophui": {
+    "pos": "nouns",
+    "translation": "art",
+    "file": "nouns.md"
+  },
+  "miwheo": {
+    "pos": "nouns",
+    "translation": "beauty",
+    "file": "nouns.md"
+  },
+  "mowhea": {
+    "pos": "nouns",
+    "translation": "beginning",
+    "file": "nouns.md"
+  },
+  "liwhia": {
+    "pos": "nouns",
+    "translation": "belief",
+    "file": "nouns.md"
+  },
+  "luwhea": {
+    "pos": "nouns",
+    "translation": "blessing",
+    "file": "nouns.md"
+  },
+  "washai": {
+    "pos": "nouns",
+    "translation": "brightness",
+    "file": "nouns.md"
+  },
+  "laphoa": {
+    "pos": "nouns",
+    "translation": "calm",
+    "file": "nouns.md"
+  },
+  "mushoa": {
+    "pos": "nouns",
+    "translation": "business",
+    "file": "nouns.md"
+  },
+  "tuwhoa": {
+    "pos": "nouns",
+    "translation": "change",
+    "file": "nouns.md"
+  },
+  "phophai": {
+    "pos": "nouns",
+    "translation": "community",
+    "file": "nouns.md"
+  },
+  "thaphoa": {
+    "pos": "nouns",
+    "translation": "darkness",
+    "file": "nouns.md"
+  },
+  "shithoa": {
+    "pos": "nouns",
+    "translation": "death",
+    "file": "nouns.md"
+  },
+  "phathui": {
+    "pos": "nouns",
+    "translation": "depth",
+    "file": "nouns.md"
+  },
+  "thashui": {
+    "pos": "nouns",
+    "translation": "doubt",
+    "file": "nouns.md"
+  },
+  "loshui": {
+    "pos": "nouns",
+    "translation": "dream",
+    "file": "nouns.md"
+  },
+  "muwhia": {
+    "pos": "nouns",
+    "translation": "eating",
+    "file": "nouns.md"
+  },
+  "rushai": {
+    "pos": "nouns",
+    "translation": "end",
+    "file": "nouns.md"
+  },
+  "phuwhui": {
+    "pos": "nouns",
+    "translation": "fear",
+    "file": "nouns.md"
+  },
+  "shithao": {
+    "pos": "nouns",
+    "translation": "freedom",
+    "file": "nouns.md"
+  },
+  "phuphao": {
+    "pos": "nouns",
+    "translation": "fullness",
+    "file": "nouns.md"
+  },
+  "shiphoa": {
+    "pos": "nouns",
+    "translation": "game",
+    "file": "nouns.md"
+  },
+  "phuwhoa": {
+    "pos": "nouns",
+    "translation": "gift",
+    "file": "nouns.md"
+  },
+  "thushoa": {
+    "pos": "nouns",
+    "translation": "goodness",
+    "file": "nouns.md"
+  },
+  "thiphia": {
+    "pos": "nouns",
+    "translation": "guilt",
+    "file": "nouns.md"
+  },
+  "rishoa": {
+    "pos": "nouns",
+    "translation": "hardness",
+    "file": "nouns.md"
+  },
+  "suwhai": {
+    "pos": "nouns",
+    "translation": "happiness",
+    "file": "nouns.md"
+  },
+  "moshea": {
+    "pos": "nouns",
+    "translation": "heat",
+    "file": "nouns.md"
+  },
+  "showhia": {
+    "pos": "nouns",
+    "translation": "health",
+    "file": "nouns.md"
+  },
+  "shuthui": {
+    "pos": "nouns",
+    "translation": "history",
+    "file": "nouns.md"
+  },
+  "phithae": {
+    "pos": "nouns",
+    "translation": "hope",
+    "file": "nouns.md"
+  },
+  "shuphia": {
+    "pos": "nouns",
+    "translation": "honour",
+    "file": "nouns.md"
+  },
+  "wuphui": {
+    "pos": "nouns",
+    "translation": "idea",
+    "file": "nouns.md"
+  },
+  "siphai": {
+    "pos": "nouns",
+    "translation": "information",
+    "file": "nouns.md"
+  },
+  "mothea": {
+    "pos": "nouns",
+    "translation": "issue",
+    "file": "nouns.md"
+  },
+  "tuphui": {
+    "pos": "nouns",
+    "translation": "jealousy",
+    "file": "nouns.md"
+  },
+  "tuphoa": {
+    "pos": "nouns",
+    "translation": "justice",
+    "file": "nouns.md"
+  },
+  "muthea": {
+    "pos": "nouns",
+    "translation": "joy",
+    "file": "nouns.md"
+  },
+  "riwhai": {
+    "pos": "nouns",
+    "translation": "kind",
+    "file": "nouns.md"
+  },
+  "tiphoa": {
+    "pos": "nouns",
+    "translation": "kinship",
+    "file": "nouns.md"
+  },
+  "nushui": {
+    "pos": "nouns",
+    "translation": "language",
+    "file": "nouns.md"
+  },
+  "wophai": {
+    "pos": "nouns",
+    "translation": "law",
+    "file": "nouns.md"
+  },
+  "phuphia": {
+    "pos": "nouns",
+    "translation": "life",
+    "file": "nouns.md"
+  },
+  "methea": {
+    "pos": "nouns",
+    "translation": "lie",
+    "file": "nouns.md"
+  },
+  "lothea": {
+    "pos": "nouns",
+    "translation": "love",
+    "file": "nouns.md"
+  },
+  "hawhia": {
+    "pos": "nouns",
+    "translation": "manner (style)",
+    "file": "nouns.md"
+  },
+  "phothei": {
+    "pos": "nouns",
+    "translation": "manner (method)",
+    "file": "nouns.md"
+  },
+  "phuphai": {
+    "pos": "nouns",
+    "translation": "medicine",
+    "file": "nouns.md"
+  },
+  "lashui": {
+    "pos": "nouns",
+    "translation": "mistake/error",
+    "file": "nouns.md"
+  },
+  "phuthia": {
+    "pos": "nouns",
+    "translation": "money",
+    "file": "nouns.md"
+  },
+  "ruthea": {
+    "pos": "nouns",
+    "translation": "negative response",
+    "file": "nouns.md"
+  },
+  "rawhea": {
+    "pos": "nouns",
+    "translation": "noise",
+    "file": "nouns.md"
+  },
+  "rushui": {
+    "pos": "nouns",
+    "translation": "number",
+    "file": "nouns.md"
+  },
+  "thiphie": {
+    "pos": "nouns",
+    "translation": "peace",
+    "file": "nouns.md"
+  },
+  "tushui": {
+    "pos": "nouns",
+    "translation": "policy",
+    "file": "nouns.md"
+  },
+  "thithia": {
+    "pos": "nouns",
+    "translation": "power",
+    "file": "nouns.md"
+  },
+  "shuphea": {
+    "pos": "nouns",
+    "translation": "price",
+    "file": "nouns.md"
+  },
+  "whuthui": {
+    "pos": "nouns",
+    "translation": "pride",
+    "file": "nouns.md"
+  },
+  "huphea": {
+    "pos": "nouns",
+    "translation": "problem",
+    "file": "nouns.md"
+  },
+  "phuphui": {
+    "pos": "nouns",
+    "translation": "process",
+    "file": "nouns.md"
+  },
+  "shushoa": {
+    "pos": "nouns",
+    "translation": "purpose/goal",
+    "file": "nouns.md"
+  },
+  "puthai": {
+    "pos": "nouns",
+    "translation": "puzzle/riddle",
+    "file": "nouns.md"
+  },
+  "thiwhea": {
+    "pos": "nouns",
+    "translation": "question",
+    "file": "nouns.md"
+  },
+  "wuthia": {
+    "pos": "nouns",
+    "translation": "reason",
+    "file": "nouns.md"
+  },
+  "suthai": {
+    "pos": "nouns",
+    "translation": "secret",
+    "file": "nouns.md"
+  },
+  "hishoa": {
+    "pos": "nouns",
+    "translation": "sense",
+    "file": "nouns.md"
+  },
+  "shothui": {
+    "pos": "nouns",
+    "translation": "service",
+    "file": "nouns.md"
+  },
+  "shathai": {
+    "pos": "nouns",
+    "translation": "shame",
+    "file": "nouns.md"
+  },
+  "nithoa": {
+    "pos": "nouns",
+    "translation": "silence",
+    "file": "nouns.md"
+  },
+  "lephea": {
+    "pos": "nouns",
+    "translation": "similarity",
+    "file": "nouns.md"
+  },
+  "shishui": {
+    "pos": "nouns",
+    "translation": "softness",
+    "file": "nouns.md"
+  },
+  "lashia": {
+    "pos": "nouns",
+    "translation": "spirit",
+    "file": "nouns.md"
+  },
+  "phuphoa": {
+    "pos": "nouns",
+    "translation": "soul",
+    "file": "nouns.md"
+  },
+  "saphai": {
+    "pos": "nouns",
+    "translation": "safety",
+    "file": "nouns.md"
+  },
+  "lothui": {
+    "pos": "nouns",
+    "translation": "sleeping",
+    "file": "nouns.md"
+  },
+  "rathia": {
+    "pos": "nouns",
+    "translation": "strength",
+    "file": "nouns.md"
+  },
+  "thaphai": {
+    "pos": "nouns",
+    "translation": "story",
+    "file": "nouns.md"
+  },
+  "mushea": {
+    "pos": "nouns",
+    "translation": "study",
+    "file": "nouns.md"
+  },
+  "shuthoa": {
+    "pos": "nouns",
+    "translation": "suffering",
+    "file": "nouns.md"
+  },
+  "siphoa": {
+    "pos": "nouns",
+    "translation": "symbol",
+    "file": "nouns.md"
+  },
+  "tophea": {
+    "pos": "nouns",
+    "translation": "thing",
+    "file": "nouns.md"
+  },
+  "sophui": {
+    "pos": "nouns",
+    "translation": "truth",
+    "file": "nouns.md"
+  },
+  "niphai": {
+    "pos": "nouns",
+    "translation": "unit",
+    "file": "nouns.md"
+  },
+  "whothua": {
+    "pos": "nouns",
+    "translation": "volume",
+    "file": "nouns.md"
+  },
+  "waphea": {
+    "pos": "nouns",
+    "translation": "war",
+    "file": "nouns.md"
+  },
+  "wethai": {
+    "pos": "nouns",
+    "translation": "weakness",
+    "file": "nouns.md"
+  },
+  "wuphai": {
+    "pos": "nouns",
+    "translation": "weight",
+    "file": "nouns.md"
+  },
+  "luthui": {
+    "pos": "nouns",
+    "translation": "wisdom",
+    "file": "nouns.md"
+  },
+  "whothai": {
+    "pos": "nouns",
+    "translation": "wonder",
+    "file": "nouns.md"
+  },
+  "phuthoa": {
+    "pos": "nouns",
+    "translation": "word",
+    "file": "nouns.md"
+  },
+  "thuwhia": {
+    "pos": "nouns",
+    "translation": "work",
+    "file": "nouns.md"
+  },
+  "thuwhai": {
+    "pos": "nouns",
+    "translation": "writing system",
+    "file": "nouns.md"
+  },
+  "haphai": {
+    "pos": "nouns",
+    "translation": "area",
+    "file": "nouns.md"
+  },
+  "luwhia": {
+    "pos": "nouns",
+    "translation": "container",
+    "file": "nouns.md"
+  },
+  "whaphoa": {
+    "pos": "nouns",
+    "translation": "boundary",
+    "file": "nouns.md"
+  },
+  "neathia": {
+    "pos": "nouns",
+    "translation": "interior",
+    "file": "nouns.md"
+  },
+  "rathoa": {
+    "pos": "nouns",
+    "translation": "exterior",
+    "file": "nouns.md"
+  },
+  "niphia": {
+    "pos": "nouns",
+    "translation": "point",
+    "file": "nouns.md"
+  },
+  "hoshai": {
+    "pos": "nouns",
+    "translation": "surface",
+    "file": "nouns.md"
+  },
+  "thiwhao": {
+    "pos": "nouns",
+    "translation": "dance",
+    "file": "nouns.md"
+  },
+  "hathie": {
+    "pos": "nouns",
+    "translation": "music",
+    "file": "nouns.md"
+  },
+  "hathai": {
+    "pos": "nouns",
+    "translation": "musician",
+    "file": "nouns.md"
+  },
+  "powhai": {
+    "pos": "nouns",
+    "translation": "poem",
+    "file": "nouns.md"
+  },
+  "nuthea": {
+    "pos": "nouns",
+    "translation": "sculpture",
+    "file": "nouns.md"
+  },
+  "thaphao": {
+    "pos": "nouns",
+    "translation": "song",
+    "file": "nouns.md"
+  },
+  "luphea": {
+    "pos": "nouns",
+    "translation": "artist",
+    "file": "nouns.md"
+  },
+  "shophui": {
+    "pos": "nouns",
+    "translation": "case",
+    "file": "nouns.md"
+  },
+  "shishai": {
+    "pos": "nouns",
+    "translation": "government",
+    "file": "nouns.md"
+  },
+  "lushai": {
+    "pos": "nouns",
+    "translation": "group",
+    "file": "nouns.md"
+  },
+  "lishai": {
+    "pos": "nouns",
+    "translation": "means",
+    "file": "nouns.md"
+  },
+  "mushui": {
+    "pos": "nouns",
+    "translation": "measurement",
+    "file": "nouns.md"
+  },
+  "wuthai": {
+    "pos": "nouns",
+    "translation": "part",
+    "file": "nouns.md"
+  },
+  "rashoa": {
+    "pos": "nouns",
+    "translation": "research",
+    "file": "nouns.md"
+  },
+  "nuphoa": {
+    "pos": "nouns",
+    "translation": "result",
+    "file": "nouns.md"
+  },
+  "rathai": {
+    "pos": "nouns",
+    "translation": "tax",
+    "file": "nouns.md"
+  },
+  "whuthea": {
+    "pos": "nouns",
+    "translation": "team",
+    "file": "nouns.md"
+  },
+  "puwhia": {
+    "pos": "nouns",
+    "translation": "technology",
+    "file": "nouns.md"
+  },
+  "thuthia": {
+    "pos": "nouns",
+    "translation": "lot",
+    "file": "nouns.md"
+  },
+  "phithea": {
+    "pos": "nouns",
+    "translation": "tool",
+    "file": "nouns.md"
+  },
+  "thophui": {
+    "pos": "nouns",
+    "translation": "trade/commerce",
+    "file": "nouns.md"
+  },
+  "wuwhia": {
+    "pos": "nouns",
+    "translation": "amber",
+    "file": "nouns.md"
+  },
+  "thashia": {
+    "pos": "nouns",
+    "translation": "black",
+    "file": "nouns.md"
+  },
+  "miphoa": {
+    "pos": "nouns",
+    "translation": "blue",
+    "file": "nouns.md"
+  },
+  "shephui": {
+    "pos": "nouns",
+    "translation": "chartreuse",
+    "file": "nouns.md"
+  },
+  "suphia": {
+    "pos": "nouns",
+    "translation": "colorful",
+    "file": "nouns.md"
+  },
+  "hashea": {
+    "pos": "nouns",
+    "translation": "green",
+    "file": "nouns.md"
+  },
+  "rawhai": {
+    "pos": "nouns",
+    "translation": "grey",
+    "file": "nouns.md"
+  },
+  "puwhoa": {
+    "pos": "nouns",
+    "translation": "indigo",
+    "file": "nouns.md"
+  },
+  "wuthea": {
+    "pos": "nouns",
+    "translation": "magenta",
+    "file": "nouns.md"
+  },
+  "hathea": {
+    "pos": "nouns",
+    "translation": "orange",
+    "file": "nouns.md"
+  },
+  "thuphoa": {
+    "pos": "nouns",
+    "translation": "purple",
+    "file": "nouns.md"
+  },
+  "lawhai": {
+    "pos": "nouns",
+    "translation": "red",
+    "file": "nouns.md"
+  },
+  "thethia": {
+    "pos": "nouns",
+    "translation": "teal",
+    "file": "nouns.md"
+  },
+  "luthea": {
+    "pos": "nouns",
+    "translation": "vermillion",
+    "file": "nouns.md"
+  },
+  "nishai": {
+    "pos": "nouns",
+    "translation": "violet",
+    "file": "nouns.md"
+  },
+  "sathia": {
+    "pos": "nouns",
+    "translation": "white",
+    "file": "nouns.md"
+  },
+  "phithia": {
+    "pos": "nouns",
+    "translation": "yellow",
+    "file": "nouns.md"
+  },
+  "whoshai": {
+    "pos": "nouns",
+    "translation": "gas",
+    "file": "nouns.md"
+  },
+  "liewhea": {
+    "pos": "nouns",
+    "translation": "liquid",
+    "file": "nouns.md"
+  },
+  "rushoa": {
+    "pos": "nouns",
+    "translation": "mineral",
+    "file": "nouns.md"
+  },
+  "tophui": {
+    "pos": "nouns",
+    "translation": "solid",
+    "file": "nouns.md"
+  },
+  "roshui": {
+    "pos": "nouns",
+    "translation": "solidity",
+    "file": "nouns.md"
+  },
+  "nuwhea": {
+    "pos": "nouns",
+    "translation": "timber",
+    "file": "nouns.md"
+  },
+  "sowhui": {
+    "pos": "nouns",
+    "translation": "wood",
+    "file": "nouns.md"
+  },
+  "shaiphia": {
+    "pos": "nouns",
+    "translation": "boat/ship",
+    "file": "nouns.md"
+  },
+  "nashia": {
+    "pos": "nouns",
+    "translation": "journey",
+    "file": "nouns.md"
+  },
+  "lothia": {
+    "pos": "nouns",
+    "translation": "bed",
+    "file": "nouns.md"
+  },
+  "nawhia": {
+    "pos": "nouns",
+    "translation": "horizon",
+    "file": "nouns.md"
+  },
+  "whethui": {
+    "pos": "nouns",
+    "translation": "sky",
+    "file": "nouns.md"
+  },
+  "shiphui": {
+    "pos": "nouns",
+    "translation": "star",
+    "file": "nouns.md"
+  },
+  "shithai": {
+    "pos": "nouns",
+    "translation": "world",
+    "file": "nouns.md"
+  },
+  "muphui": {
+    "pos": "nouns",
+    "translation": "education",
+    "file": "nouns.md"
+  },
+  "nothoa": {
+    "pos": "nouns",
+    "translation": "thought",
+    "file": "nouns.md"
+  },
+  "sho": {
+    "pos": "numbers",
+    "translation": "zero",
+    "file": "numbers.md"
+  },
+  "whu": {
+    "pos": "numbers",
+    "translation": "two",
+    "file": "numbers.md"
+  },
+  "the": {
+    "pos": "numbers",
+    "translation": "three",
+    "file": "numbers.md"
+  },
+  "pho": {
+    "pos": "numbers",
+    "translation": "four",
+    "file": "numbers.md"
+  },
+  "wha": {
+    "pos": "numbers",
+    "translation": "five",
+    "file": "numbers.md"
+  },
+  "thu": {
+    "pos": "numbers",
+    "translation": "six",
+    "file": "numbers.md"
+  },
+  "shu": {
+    "pos": "numbers",
+    "translation": "seven",
+    "file": "numbers.md"
+  },
+  "who": {
+    "pos": "numbers",
+    "translation": "eight",
+    "file": "numbers.md"
+  },
+  "pha": {
+    "pos": "numbers",
+    "translation": "nine",
+    "file": "numbers.md"
+  },
+  "number": {
+    "pos": "numbers",
+    "translation": "power",
+    "file": "numbers.md"
+  },
+  "phitha": {
+    "pos": "numbers",
+    "translation": "ten",
+    "file": "numbers.md"
+  },
+  "shupho": {
+    "pos": "numbers",
+    "translation": "hundred",
+    "file": "numbers.md"
+  },
+  "thuphi": {
+    "pos": "numbers",
+    "translation": "thousand",
+    "file": "numbers.md"
+  },
+  "whitha": {
+    "pos": "numbers",
+    "translation": "million",
+    "file": "numbers.md"
+  },
+  "shithu": {
+    "pos": "numbers",
+    "translation": "billion",
+    "file": "numbers.md"
+  },
+  "phusho": {
+    "pos": "numbers",
+    "translation": "trillion",
+    "file": "numbers.md"
+  },
+  "thupho": {
+    "pos": "numbers",
+    "translation": "quadrillion",
+    "file": "numbers.md"
+  },
+  "whisha": {
+    "pos": "numbers",
+    "translation": "quintillion",
+    "file": "numbers.md"
+  },
+  "phuthe": {
+    "pos": "numbers",
+    "translation": "sextillion",
+    "file": "numbers.md"
+  },
+  "whipho": {
+    "pos": "numbers",
+    "translation": "septillion",
+    "file": "numbers.md"
+  },
+  "thoshi": {
+    "pos": "numbers",
+    "translation": "octillion",
+    "file": "numbers.md"
+  },
+  "shapha": {
+    "pos": "numbers",
+    "translation": "nonillion",
+    "file": "numbers.md"
+  },
+  "whusho": {
+    "pos": "numbers",
+    "translation": "decillion",
+    "file": "numbers.md"
+  },
+  "thiphu": {
+    "pos": "numbers",
+    "translation": "undecillion",
+    "file": "numbers.md"
+  },
+  "shathi": {
+    "pos": "numbers",
+    "translation": "duodecillion",
+    "file": "numbers.md"
+  },
+  "anim": {
+    "pos": "particles",
+    "translation": "animate (non-human) animacy",
+    "file": "particles.md"
+  },
+  "cess": {
+    "pos": "particles",
+    "translation": "cessative aspect",
+    "file": "particles.md"
+  },
+  "cmpr": {
+    "pos": "particles",
+    "translation": "comparative",
+    "file": "particles.md"
+  },
+  "cond": {
+    "pos": "particles",
+    "translation": "conditional",
+    "file": "particles.md"
+  },
+  "cntr": {
+    "pos": "particles",
+    "translation": "contraht",
+    "file": "particles.md"
+  },
+  "des": {
+    "pos": "particles",
+    "translation": "dusiderative",
+    "file": "particles.md"
+  },
+  "emph": {
+    "pos": "particles",
+    "translation": "emphahis",
+    "file": "particles.md"
+  },
+  "eq": {
+    "pos": "particles",
+    "translation": "equality",
+    "file": "particles.md"
+  },
+  "excl": {
+    "pos": "particles",
+    "translation": "exclamation",
+    "file": "particles.md"
+  },
+  "fut": {
+    "pos": "particles",
+    "translation": "future",
+    "file": "particles.md"
+  },
+  "gpl": {
+    "pos": "particles",
+    "translation": "greater plural",
+    "file": "particles.md"
+  },
+  "hab": {
+    "pos": "particles",
+    "translation": "habitual aspect",
+    "file": "particles.md"
+  },
+  "hrsy": {
+    "pos": "particles",
+    "translation": "hearsay",
+    "file": "particles.md"
+  },
+  "hum": {
+    "pos": "particles",
+    "translation": "human animacy",
+    "file": "particles.md"
+  },
+  "imp": {
+    "pos": "particles",
+    "translation": "impurative",
+    "file": "particles.md"
+  },
+  "inan": {
+    "pos": "particles",
+    "translation": "inanimate animacy",
+    "file": "particles.md"
+  },
+  "inch": {
+    "pos": "particles",
+    "translation": "inceptive aspect",
+    "file": "particles.md"
+  },
+  "infr": {
+    "pos": "particles",
+    "translation": "infurence",
+    "file": "particles.md"
+  },
+  "ipfv": {
+    "pos": "particles",
+    "translation": "imperfective aspect",
+    "file": "particles.md"
+  },
+  "least": {
+    "pos": "particles",
+    "translation": "leaht",
+    "file": "particles.md"
+  },
+  "less": {
+    "pos": "particles",
+    "translation": "less",
+    "file": "particles.md"
+  },
+  "mem": {
+    "pos": "particles",
+    "translation": "memory",
+    "file": "particles.md"
+  },
+  "neg": {
+    "pos": "particles",
+    "translation": "negation",
+    "file": "particles.md"
+  },
+  "nverb": {
+    "pos": "particles",
+    "translation": "noun-to-verb derivation",
+    "file": "particles.md"
+  },
+  "oblg": {
+    "pos": "particles",
+    "translation": "obligative",
+    "file": "particles.md"
+  },
+  "obj": {
+    "pos": "particles",
+    "translation": "object marker (*optional*)",
+    "file": "particles.md"
+  },
+  "pauc": {
+    "pos": "particles",
+    "translation": "paucal",
+    "file": "particles.md"
+  },
+  "pfv": {
+    "pos": "particles",
+    "translation": "perfective aspect",
+    "file": "particles.md"
+  },
+  "pl": {
+    "pos": "particles",
+    "translation": "plural",
+    "file": "particles.md"
+  },
+  "pol": {
+    "pos": "particles",
+    "translation": "polituness",
+    "file": "particles.md"
+  },
+  "pres": {
+    "pos": "particles",
+    "translation": "prehumption",
+    "file": "particles.md"
+  },
+  "prf": {
+    "pos": "particles",
+    "translation": "present perfect",
+    "file": "particles.md"
+  },
+  "prog": {
+    "pos": "particles",
+    "translation": "present progressive",
+    "file": "particles.md"
+  },
+  "prs": {
+    "pos": "particles",
+    "translation": "present (*optional informally*)",
+    "file": "particles.md"
+  },
+  "psb": {
+    "pos": "particles",
+    "translation": "pohsibility",
+    "file": "particles.md"
+  },
+  "pst": {
+    "pos": "particles",
+    "translation": "past",
+    "file": "particles.md"
+  },
+  "q": {
+    "pos": "particles",
+    "translation": "question/interrogative",
+    "file": "particles.md"
+  },
+  "rel": {
+    "pos": "particles",
+    "translation": "relative clause",
+    "file": "particles.md"
+  },
+  "rep": {
+    "pos": "particles",
+    "translation": "reported speech",
+    "file": "particles.md"
+  },
+  "sprl": {
+    "pos": "particles",
+    "translation": "supurlative",
+    "file": "particles.md"
+  },
+  "subj": {
+    "pos": "particles",
+    "translation": "subject marker (*optional*)",
+    "file": "particles.md"
+  },
+  "top": {
+    "pos": "particles",
+    "translation": "topic marker",
+    "file": "particles.md"
+  },
+  "vnoun": {
+    "pos": "particles",
+    "translation": "verb-to-noun derivation",
+    "file": "particles.md"
+  },
+  "vrb": {
+    "pos": "particles",
+    "translation": "verb marker (*optional*)",
+    "file": "particles.md"
+  },
+  "wa": {
+    "pos": "particles",
+    "translation": "sentence type",
+    "file": "particles.md"
+  },
+  "ho": {
+    "pos": "particles",
+    "translation": "sentence type",
+    "file": "particles.md"
+  },
+  "tu": {
+    "pos": "particles",
+    "translation": "sentence type",
+    "file": "particles.md"
+  },
+  "hu": {
+    "pos": "particles",
+    "translation": "sentence type",
+    "file": "particles.md"
+  },
+  "hi": {
+    "pos": "particles",
+    "translation": "evidentiality",
+    "file": "particles.md"
+  },
+  "ro": {
+    "pos": "particles",
+    "translation": "evidentiality",
+    "file": "particles.md"
+  },
+  "nu": {
+    "pos": "particles",
+    "translation": "evidentiality",
+    "file": "particles.md"
+  },
+  "ti": {
+    "pos": "particles",
+    "translation": "evidentiality",
+    "file": "particles.md"
+  },
+  "mu": {
+    "pos": "particles",
+    "translation": "evidentiality",
+    "file": "particles.md"
+  },
+  "pe": {
+    "pos": "particles",
+    "translation": "evidentiality",
+    "file": "particles.md"
+  },
+  "ha": {
+    "pos": "particles",
+    "translation": "discourse",
+    "file": "particles.md"
+  },
+  "mi": {
+    "pos": "particles",
+    "translation": "discourse",
+    "file": "particles.md"
+  },
+  "lu": {
+    "pos": "particles",
+    "translation": "sentence type",
+    "file": "particles.md"
+  },
+  "so": {
+    "pos": "particles",
+    "translation": "polituness",
+    "file": "particles.md"
+  },
+  "type": {
+    "pos": "particles",
+    "translation": "sentence (direct request)",
+    "file": "particles.md"
+  },
+  "english": {
+    "pos": "particles",
+    "translation": "throw the pebble",
+    "file": "particles.md"
+  },
+  "gloss": {
+    "pos": "particles",
+    "translation": "pebble throw",
+    "file": "particles.md"
+  },
+  "li": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "ta": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "su": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "we": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "to": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "ru": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "la": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "po": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "pu": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "ri": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "wi": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "wu": {
+    "pos": "particles",
+    "translation": "tense/aspect",
+    "file": "particles.md"
+  },
+  "me": {
+    "pos": "particles",
+    "translation": "negation",
+    "file": "particles.md"
+  },
+  "phera": {
+    "pos": "particles",
+    "translation": "is",
+    "file": "particles.md"
+  },
+  "was": {
+    "pos": "particles",
+    "translation": "PST be",
+    "file": "particles.md"
+  },
+  "are": {
+    "pos": "particles",
+    "translation": "PL be",
+    "file": "particles.md"
+  },
+  "were": {
+    "pos": "particles",
+    "translation": "PST PL be",
+    "file": "particles.md"
+  },
+  "si": {
+    "pos": "particles",
+    "translation": "pos marker",
+    "file": "particles.md"
+  },
+  "na": {
+    "pos": "particles",
+    "translation": "pos marker",
+    "file": "particles.md"
+  },
+  "te": {
+    "pos": "particles",
+    "translation": "pos marker",
+    "file": "particles.md"
+  },
+  "se": {
+    "pos": "particles",
+    "translation": "derivation",
+    "file": "particles.md"
+  },
+  "ra": {
+    "pos": "particles",
+    "translation": "derivation",
+    "file": "particles.md"
+  },
+  "he": {
+    "pos": "particles",
+    "translation": "animacy",
+    "file": "particles.md"
+  },
+  "pi": {
+    "pos": "particles",
+    "translation": "animacy",
+    "file": "particles.md"
+  },
+  "ne": {
+    "pos": "particles",
+    "translation": "animacy",
+    "file": "particles.md"
+  },
+  "pa": {
+    "pos": "particles",
+    "translation": "comparison",
+    "file": "particles.md"
+  },
+  "mo": {
+    "pos": "particles",
+    "translation": "comparison",
+    "file": "particles.md"
+  },
+  "sa": {
+    "pos": "particles",
+    "translation": "comparison",
+    "file": "particles.md"
+  },
+  "le": {
+    "pos": "particles",
+    "translation": "comparison",
+    "file": "particles.md"
+  },
+  "re": {
+    "pos": "particles",
+    "translation": "comparison",
+    "file": "particles.md"
+  },
+  "wo": {
+    "pos": "particles",
+    "translation": "number",
+    "file": "particles.md"
+  },
+  "lo": {
+    "pos": "particles",
+    "translation": "number",
+    "file": "particles.md"
+  },
+  "ma": {
+    "pos": "particles",
+    "translation": "emphahis",
+    "file": "particles.md"
+  },
+  "ni": {
+    "pos": "particles",
+    "translation": "present perfect",
+    "file": "particles.md"
+  },
+  "no": {
+    "pos": "particles",
+    "translation": "greater plural",
+    "file": "particles.md"
+  },
+  "phia": {
+    "pos": "prepositions",
+    "translation": "in",
+    "file": "prepositions.md"
+  },
+  "thea": {
+    "pos": "prepositions",
+    "translation": "inside",
+    "file": "prepositions.md"
+  },
+  "phue": {
+    "pos": "prepositions",
+    "translation": "outside",
+    "file": "prepositions.md"
+  },
+  "phoi": {
+    "pos": "prepositions",
+    "translation": "on",
+    "file": "prepositions.md"
+  },
+  "wheo": {
+    "pos": "prepositions",
+    "translation": "at",
+    "file": "prepositions.md"
+  },
+  "shuo": {
+    "pos": "prepositions",
+    "translation": "under",
+    "file": "prepositions.md"
+  },
+  "whue": {
+    "pos": "prepositions",
+    "translation": "above",
+    "file": "prepositions.md"
+  },
+  "thei": {
+    "pos": "prepositions",
+    "translation": "between",
+    "file": "prepositions.md"
+  },
+  "shoe": {
+    "pos": "prepositions",
+    "translation": "among",
+    "file": "prepositions.md"
+  },
+  "shui": {
+    "pos": "prepositions",
+    "translation": "around",
+    "file": "prepositions.md"
+  },
+  "phoa": {
+    "pos": "prepositions",
+    "translation": "beside",
+    "file": "prepositions.md"
+  },
+  "thia": {
+    "pos": "prepositions",
+    "translation": "behind",
+    "file": "prepositions.md"
+  },
+  "whio": {
+    "pos": "prepositions",
+    "translation": "in front of",
+    "file": "prepositions.md"
+  },
+  "shei": {
+    "pos": "prepositions",
+    "translation": "opposite",
+    "file": "prepositions.md"
+  },
+  "thae": {
+    "pos": "prepositions",
+    "translation": "across",
+    "file": "prepositions.md"
+  },
+  "whie": {
+    "pos": "prepositions",
+    "translation": "to",
+    "file": "prepositions.md"
+  },
+  "thoa": {
+    "pos": "prepositions",
+    "translation": "towards",
+    "file": "prepositions.md"
+  },
+  "shio": {
+    "pos": "prepositions",
+    "translation": "from",
+    "file": "prepositions.md"
+  },
+  "phau": {
+    "pos": "prepositions",
+    "translation": "through",
+    "file": "prepositions.md"
+  },
+  "phie": {
+    "pos": "prepositions",
+    "translation": "into",
+    "file": "prepositions.md"
+  },
+  "shoa": {
+    "pos": "prepositions",
+    "translation": "out of",
+    "file": "prepositions.md"
+  },
+  "whui": {
+    "pos": "prepositions",
+    "translation": "along",
+    "file": "prepositions.md"
+  },
+  "theu": {
+    "pos": "prepositions",
+    "translation": "past",
+    "file": "prepositions.md"
+  },
+  "whuo": {
+    "pos": "prepositions",
+    "translation": "beyond",
+    "file": "prepositions.md"
+  },
+  "shea": {
+    "pos": "prepositions",
+    "translation": "before",
+    "file": "prepositions.md"
+  },
+  "whia": {
+    "pos": "prepositions",
+    "translation": "after",
+    "file": "prepositions.md"
+  },
+  "thuo": {
+    "pos": "prepositions",
+    "translation": "during",
+    "file": "prepositions.md"
+  },
+  "shao": {
+    "pos": "prepositions",
+    "translation": "until",
+    "file": "prepositions.md"
+  },
+  "whai": {
+    "pos": "prepositions",
+    "translation": "since",
+    "file": "prepositions.md"
+  },
+  "whoe": {
+    "pos": "prepositions",
+    "translation": "ago",
+    "file": "prepositions.md"
+  },
+  "shoi": {
+    "pos": "prepositions",
+    "translation": "within",
+    "file": "prepositions.md"
+  },
+  "shua": {
+    "pos": "prepositions",
+    "translation": "throughout",
+    "file": "prepositions.md"
+  },
+  "thue": {
+    "pos": "prepositions",
+    "translation": "of",
+    "file": "prepositions.md"
+  },
+  "thio": {
+    "pos": "prepositions",
+    "translation": "by",
+    "file": "prepositions.md"
+  },
+  "whoi": {
+    "pos": "prepositions",
+    "translation": "for",
+    "file": "prepositions.md"
+  },
+  "phiu": {
+    "pos": "prepositions",
+    "translation": "with",
+    "file": "prepositions.md"
+  },
+  "pheo": {
+    "pos": "prepositions",
+    "translation": "without",
+    "file": "prepositions.md"
+  },
+  "thoi": {
+    "pos": "prepositions",
+    "translation": "because of",
+    "file": "prepositions.md"
+  },
+  "shie": {
+    "pos": "prepositions",
+    "translation": "despite",
+    "file": "prepositions.md"
+  },
+  "phae": {
+    "pos": "prepositions",
+    "translation": "about",
+    "file": "prepositions.md"
+  },
+  "shae": {
+    "pos": "prepositions",
+    "translation": "as",
+    "file": "prepositions.md"
+  },
+  "thau": {
+    "pos": "prepositions",
+    "translation": "as if",
+    "file": "prepositions.md"
+  },
+  "whae": {
+    "pos": "prepositions",
+    "translation": "according to",
+    "file": "prepositions.md"
+  },
+  "phuo": {
+    "pos": "prepositions",
+    "translation": "regarding",
+    "file": "prepositions.md"
+  },
+  "phui": {
+    "pos": "prepositions",
+    "translation": "concerning",
+    "file": "prepositions.md"
+  },
+  "thiu": {
+    "pos": "prepositions",
+    "translation": "except",
+    "file": "prepositions.md"
+  },
+  "whea": {
+    "pos": "prepositions",
+    "translation": "besides",
+    "file": "prepositions.md"
+  },
+  "whau": {
+    "pos": "prepositions",
+    "translation": "instead of",
+    "file": "prepositions.md"
+  },
+  "shau": {
+    "pos": "prepositions",
+    "translation": "against",
+    "file": "prepositions.md"
+  },
+  "wheu": {
+    "pos": "prepositions",
+    "translation": "like",
+    "file": "prepositions.md"
+  },
+  "phio": {
+    "pos": "prepositions",
+    "translation": "unlike",
+    "file": "prepositions.md"
+  },
+  "whoa": {
+    "pos": "prepositions",
+    "translation": "via",
+    "file": "prepositions.md"
+  },
+  "shue": {
+    "pos": "prepositions",
+    "translation": "by means of",
+    "file": "prepositions.md"
+  },
+  "mia": {
+    "pos": "pronouns",
+    "translation": "me/I",
+    "file": "pronouns.md"
+  },
+  "thi": {
+    "pos": "pronouns",
+    "translation": "you",
+    "file": "pronouns.md"
+  },
+  "sha": {
+    "pos": "pronouns",
+    "translation": "it/he/she/they",
+    "file": "pronouns.md"
+  },
+  "form": {
+    "pos": "pronouns",
+    "translation": "1st person",
+    "file": "pronouns.md"
+  },
+  "singular": {
+    "pos": "pronouns",
+    "translation": "mia",
+    "file": "pronouns.md"
+  },
+  "function": {
+    "pos": "pronouns",
+    "translation": "1st person",
+    "file": "pronouns.md"
+  },
+  "subject": {
+    "pos": "pronouns",
+    "translation": "si mia",
+    "file": "pronouns.md"
+  },
+  "object": {
+    "pos": "pronouns",
+    "translation": "na mia",
+    "file": "pronouns.md"
+  },
+  "mysulf": {
+    "pos": "pronouns",
+    "translation": "reflexive (1st person)",
+    "file": "pronouns.md"
+  },
+  "yoursulf": {
+    "pos": "pronouns",
+    "translation": "reflexive (2nd person)",
+    "file": "pronouns.md"
+  },
+  "shata": {
+    "pos": "verbs",
+    "translation": "answer/reply",
+    "file": "verbs.md"
+  },
+  "whisa": {
+    "pos": "verbs",
+    "translation": "ask",
+    "file": "verbs.md"
+  },
+  "shuna": {
+    "pos": "verbs",
+    "translation": "call",
+    "file": "verbs.md"
+  },
+  "pheno": {
+    "pos": "verbs",
+    "translation": "explain",
+    "file": "verbs.md"
+  },
+  "whuna": {
+    "pos": "verbs",
+    "translation": "listen",
+    "file": "verbs.md"
+  },
+  "phelu": {
+    "pos": "verbs",
+    "translation": "read aloud",
+    "file": "verbs.md"
+  },
+  "whupi": {
+    "pos": "verbs",
+    "translation": "read silently",
+    "file": "verbs.md"
+  },
+  "share": {
+    "pos": "verbs",
+    "translation": "report",
+    "file": "verbs.md"
+  },
+  "shuso": {
+    "pos": "verbs",
+    "translation": "say",
+    "file": "verbs.md"
+  },
+  "whemi": {
+    "pos": "verbs",
+    "translation": "speak",
+    "file": "verbs.md"
+  },
+  "thate": {
+    "pos": "verbs",
+    "translation": "suggest",
+    "file": "verbs.md"
+  },
+  "showa": {
+    "pos": "verbs",
+    "translation": "tell",
+    "file": "verbs.md"
+  },
+  "whisi": {
+    "pos": "verbs",
+    "translation": "talk",
+    "file": "verbs.md"
+  },
+  "whumo": {
+    "pos": "verbs",
+    "translation": "translate",
+    "file": "verbs.md"
+  },
+  "shewu": {
+    "pos": "verbs",
+    "translation": "compose",
+    "file": "verbs.md"
+  },
+  "sheli": {
+    "pos": "verbs",
+    "translation": "believe",
+    "file": "verbs.md"
+  },
+  "thira": {
+    "pos": "verbs",
+    "translation": "consider",
+    "file": "verbs.md"
+  },
+  "shiso": {
+    "pos": "verbs",
+    "translation": "decide",
+    "file": "verbs.md"
+  },
+  "shetu": {
+    "pos": "verbs",
+    "translation": "doubt",
+    "file": "verbs.md"
+  },
+  "phewa": {
+    "pos": "verbs",
+    "translation": "feel",
+    "file": "verbs.md"
+  },
+  "whina": {
+    "pos": "verbs",
+    "translation": "find",
+    "file": "verbs.md"
+  },
+  "shime": {
+    "pos": "verbs",
+    "translation": "forget",
+    "file": "verbs.md"
+  },
+  "thumo": {
+    "pos": "verbs",
+    "translation": "imagine",
+    "file": "verbs.md"
+  },
+  "whipu": {
+    "pos": "verbs",
+    "translation": "know",
+    "file": "verbs.md"
+  },
+  "whomo": {
+    "pos": "verbs",
+    "translation": "like",
+    "file": "verbs.md"
+  },
+  "shotu": {
+    "pos": "verbs",
+    "translation": "love (person)",
+    "file": "verbs.md"
+  },
+  "whelu": {
+    "pos": "verbs",
+    "translation": "love (activity)",
+    "file": "verbs.md"
+  },
+  "phune": {
+    "pos": "verbs",
+    "translation": "mean",
+    "file": "verbs.md"
+  },
+  "thume": {
+    "pos": "verbs",
+    "translation": "remember",
+    "file": "verbs.md"
+  },
+  "shine": {
+    "pos": "verbs",
+    "translation": "seem",
+    "file": "verbs.md"
+  },
+  "whemo": {
+    "pos": "verbs",
+    "translation": "think",
+    "file": "verbs.md"
+  },
+  "thupa": {
+    "pos": "verbs",
+    "translation": "trust",
+    "file": "verbs.md"
+  },
+  "shule": {
+    "pos": "verbs",
+    "translation": "understand",
+    "file": "verbs.md"
+  },
+  "shire": {
+    "pos": "verbs",
+    "translation": "want",
+    "file": "verbs.md"
+  },
+  "shamo": {
+    "pos": "verbs",
+    "translation": "dream",
+    "file": "verbs.md"
+  },
+  "sharu": {
+    "pos": "verbs",
+    "translation": "appear",
+    "file": "verbs.md"
+  },
+  "shuto": {
+    "pos": "verbs",
+    "translation": "arrive",
+    "file": "verbs.md"
+  },
+  "thuri": {
+    "pos": "verbs",
+    "translation": "blow",
+    "file": "verbs.md"
+  },
+  "shero": {
+    "pos": "verbs",
+    "translation": "carry",
+    "file": "verbs.md"
+  },
+  "shune": {
+    "pos": "verbs",
+    "translation": "climb",
+    "file": "verbs.md"
+  },
+  "whema": {
+    "pos": "verbs",
+    "translation": "come",
+    "file": "verbs.md"
+  },
+  "thamo": {
+    "pos": "verbs",
+    "translation": "depart",
+    "file": "verbs.md"
+  },
+  "shali": {
+    "pos": "verbs",
+    "translation": "fall",
+    "file": "verbs.md"
+  },
+  "themu": {
+    "pos": "verbs",
+    "translation": "follow",
+    "file": "verbs.md"
+  },
+  "whawi": {
+    "pos": "verbs",
+    "translation": "fly",
+    "file": "verbs.md"
+  },
+  "sharo": {
+    "pos": "verbs",
+    "translation": "go",
+    "file": "verbs.md"
+  },
+  "whepi": {
+    "pos": "verbs",
+    "translation": "jump",
+    "file": "verbs.md"
+  },
+  "shewi": {
+    "pos": "verbs",
+    "translation": "leave",
+    "file": "verbs.md"
+  },
+  "whowe": {
+    "pos": "verbs",
+    "translation": "move",
+    "file": "verbs.md"
+  },
+  "thesa": {
+    "pos": "verbs",
+    "translation": "pass by",
+    "file": "verbs.md"
+  },
+  "shuma": {
+    "pos": "verbs",
+    "translation": "push",
+    "file": "verbs.md"
+  },
+  "shute": {
+    "pos": "verbs",
+    "translation": "put",
+    "file": "verbs.md"
+  },
+  "shomo": {
+    "pos": "verbs",
+    "translation": "raise",
+    "file": "verbs.md"
+  },
+  "whumi": {
+    "pos": "verbs",
+    "translation": "run",
+    "file": "verbs.md"
+  },
+  "shesi": {
+    "pos": "verbs",
+    "translation": "set",
+    "file": "verbs.md"
+  },
+  "theti": {
+    "pos": "verbs",
+    "translation": "stand",
+    "file": "verbs.md"
+  },
+  "phite": {
+    "pos": "verbs",
+    "translation": "stay",
+    "file": "verbs.md"
+  },
+  "shopo": {
+    "pos": "verbs",
+    "translation": "sit",
+    "file": "verbs.md"
+  },
+  "shuwi": {
+    "pos": "verbs",
+    "translation": "swim",
+    "file": "verbs.md"
+  },
+  "whuwa": {
+    "pos": "verbs",
+    "translation": "throw",
+    "file": "verbs.md"
+  },
+  "shenu": {
+    "pos": "verbs",
+    "translation": "turn",
+    "file": "verbs.md"
+  },
+  "whuru": {
+    "pos": "verbs",
+    "translation": "blow (wind)",
+    "file": "verbs.md"
+  },
+  "shola": {
+    "pos": "verbs",
+    "translation": "walk",
+    "file": "verbs.md"
+  },
+  "whenu": {
+    "pos": "verbs",
+    "translation": "enter",
+    "file": "verbs.md"
+  },
+  "thetu": {
+    "pos": "verbs",
+    "translation": "exit",
+    "file": "verbs.md"
+  },
+  "whale": {
+    "pos": "verbs",
+    "translation": "flow",
+    "file": "verbs.md"
+  },
+  "whame": {
+    "pos": "verbs",
+    "translation": "bend",
+    "file": "verbs.md"
+  },
+  "whane": {
+    "pos": "verbs",
+    "translation": "twist",
+    "file": "verbs.md"
+  },
+  "whape": {
+    "pos": "verbs",
+    "translation": "fold",
+    "file": "verbs.md"
+  },
+  "whare": {
+    "pos": "verbs",
+    "translation": "stretch",
+    "file": "verbs.md"
+  },
+  "whase": {
+    "pos": "verbs",
+    "translation": "compress",
+    "file": "verbs.md"
+  },
+  "whate": {
+    "pos": "verbs",
+    "translation": "expand",
+    "file": "verbs.md"
+  },
+  "whawe": {
+    "pos": "verbs",
+    "translation": "contract",
+    "file": "verbs.md"
+  },
+  "whule": {
+    "pos": "verbs",
+    "translation": "slide",
+    "file": "verbs.md"
+  },
+  "whume": {
+    "pos": "verbs",
+    "translation": "roll",
+    "file": "verbs.md"
+  },
+  "whune": {
+    "pos": "verbs",
+    "translation": "spin",
+    "file": "verbs.md"
+  },
+  "whupe": {
+    "pos": "verbs",
+    "translation": "rotate",
+    "file": "verbs.md"
+  },
+  "whure": {
+    "pos": "verbs",
+    "translation": "pivot",
+    "file": "verbs.md"
+  },
+  "whuse": {
+    "pos": "verbs",
+    "translation": "tilt",
+    "file": "verbs.md"
+  },
+  "whute": {
+    "pos": "verbs",
+    "translation": "balance",
+    "file": "verbs.md"
+  },
+  "whewe": {
+    "pos": "verbs",
+    "translation": "stabilize",
+    "file": "verbs.md"
+  },
+  "whahi": {
+    "pos": "verbs",
+    "translation": "become",
+    "file": "verbs.md"
+  },
+  "thilu": {
+    "pos": "verbs",
+    "translation": "be (exist)",
+    "file": "verbs.md"
+  },
+  "phela": {
+    "pos": "verbs",
+    "translation": "die",
+    "file": "verbs.md"
+  },
+  "showi": {
+    "pos": "verbs",
+    "translation": "grow old",
+    "file": "verbs.md"
+  },
+  "phuho": {
+    "pos": "verbs",
+    "translation": "happen",
+    "file": "verbs.md"
+  },
+  "whuni": {
+    "pos": "verbs",
+    "translation": "have/possess",
+    "file": "verbs.md"
+  },
+  "shanu": {
+    "pos": "verbs",
+    "translation": "keep",
+    "file": "verbs.md"
+  },
+  "phoni": {
+    "pos": "verbs",
+    "translation": "live",
+    "file": "verbs.md"
+  },
+  "thewa": {
+    "pos": "verbs",
+    "translation": "remain",
+    "file": "verbs.md"
+  },
+  "shesa": {
+    "pos": "verbs",
+    "translation": "rest",
+    "file": "verbs.md"
+  },
+  "whuwe": {
+    "pos": "verbs",
+    "translation": "sleep",
+    "file": "verbs.md"
+  },
+  "thuma": {
+    "pos": "verbs",
+    "translation": "wake",
+    "file": "verbs.md"
+  },
+  "shepu": {
+    "pos": "verbs",
+    "translation": "add",
+    "file": "verbs.md"
+  },
+  "thunu": {
+    "pos": "verbs",
+    "translation": "ban/prohibit",
+    "file": "verbs.md"
+  },
+  "whuno": {
+    "pos": "verbs",
+    "translation": "break",
+    "file": "verbs.md"
+  },
+  "shuni": {
+    "pos": "verbs",
+    "translation": "build",
+    "file": "verbs.md"
+  },
+  "shuwa": {
+    "pos": "verbs",
+    "translation": "change",
+    "file": "verbs.md"
+  },
+  "whusa": {
+    "pos": "verbs",
+    "translation": "close",
+    "file": "verbs.md"
+  },
+  "whesa": {
+    "pos": "verbs",
+    "translation": "create",
+    "file": "verbs.md"
+  },
+  "thura": {
+    "pos": "verbs",
+    "translation": "cut",
+    "file": "verbs.md"
+  },
+  "shoro": {
+    "pos": "verbs",
+    "translation": "destroy",
+    "file": "verbs.md"
+  },
+  "whupa": {
+    "pos": "verbs",
+    "translation": "fix/repair",
+    "file": "verbs.md"
+  },
+  "whuro": {
+    "pos": "verbs",
+    "translation": "hide",
+    "file": "verbs.md"
+  },
+  "thima": {
+    "pos": "verbs",
+    "translation": "include",
+    "file": "verbs.md"
+  },
+  "sheho": {
+    "pos": "verbs",
+    "translation": "kill",
+    "file": "verbs.md"
+  },
+  "whora": {
+    "pos": "verbs",
+    "translation": "open",
+    "file": "verbs.md"
+  },
+  "shoru": {
+    "pos": "verbs",
+    "translation": "set fire",
+    "file": "verbs.md"
+  },
+  "shimo": {
+    "pos": "verbs",
+    "translation": "allow",
+    "file": "verbs.md"
+  },
+  "thupo": {
+    "pos": "verbs",
+    "translation": "borrow",
+    "file": "verbs.md"
+  },
+  "shiho": {
+    "pos": "verbs",
+    "translation": "buy",
+    "file": "verbs.md"
+  },
+  "shano": {
+    "pos": "verbs",
+    "translation": "get",
+    "file": "verbs.md"
+  },
+  "whiwo": {
+    "pos": "verbs",
+    "translation": "give",
+    "file": "verbs.md"
+  },
+  "shasi": {
+    "pos": "verbs",
+    "translation": "hold",
+    "file": "verbs.md"
+  },
+  "thare": {
+    "pos": "verbs",
+    "translation": "lend",
+    "file": "verbs.md"
+  },
+  "shimi": {
+    "pos": "verbs",
+    "translation": "let",
+    "file": "verbs.md"
+  },
+  "whonu": {
+    "pos": "verbs",
+    "translation": "lose",
+    "file": "verbs.md"
+  },
+  "shuwo": {
+    "pos": "verbs",
+    "translation": "offer",
+    "file": "verbs.md"
+  },
+  "thewu": {
+    "pos": "verbs",
+    "translation": "pay",
+    "file": "verbs.md"
+  },
+  "shiwe": {
+    "pos": "verbs",
+    "translation": "pull",
+    "file": "verbs.md"
+  },
+  "thotu": {
+    "pos": "verbs",
+    "translation": "provide",
+    "file": "verbs.md"
+  },
+  "sheno": {
+    "pos": "verbs",
+    "translation": "receive",
+    "file": "verbs.md"
+  },
+  "shume": {
+    "pos": "verbs",
+    "translation": "return",
+    "file": "verbs.md"
+  },
+  "thore": {
+    "pos": "verbs",
+    "translation": "sell",
+    "file": "verbs.md"
+  },
+  "shele": {
+    "pos": "verbs",
+    "translation": "send",
+    "file": "verbs.md"
+  },
+  "thite": {
+    "pos": "verbs",
+    "translation": "serve",
+    "file": "verbs.md"
+  },
+  "shate": {
+    "pos": "verbs",
+    "translation": "share",
+    "file": "verbs.md"
+  },
+  "tharo": {
+    "pos": "verbs",
+    "translation": "steal",
+    "file": "verbs.md"
+  },
+  "shita": {
+    "pos": "verbs",
+    "translation": "take",
+    "file": "verbs.md"
+  },
+  "shusa": {
+    "pos": "verbs",
+    "translation": "hear",
+    "file": "verbs.md"
+  },
+  "whona": {
+    "pos": "verbs",
+    "translation": "look",
+    "file": "verbs.md"
+  },
+  "shose": {
+    "pos": "verbs",
+    "translation": "see",
+    "file": "verbs.md"
+  },
+  "sheta": {
+    "pos": "verbs",
+    "translation": "smell",
+    "file": "verbs.md"
+  },
+  "shusi": {
+    "pos": "verbs",
+    "translation": "taste",
+    "file": "verbs.md"
+  },
+  "thena": {
+    "pos": "verbs",
+    "translation": "touch",
+    "file": "verbs.md"
+  },
+  "shosa": {
+    "pos": "verbs",
+    "translation": "watch",
+    "file": "verbs.md"
+  },
+  "while": {
+    "pos": "verbs",
+    "translation": "vibrate",
+    "file": "verbs.md"
+  },
+  "whime": {
+    "pos": "verbs",
+    "translation": "oscillate",
+    "file": "verbs.md"
+  },
+  "whine": {
+    "pos": "verbs",
+    "translation": "resonate",
+    "file": "verbs.md"
+  },
+  "whipe": {
+    "pos": "verbs",
+    "translation": "echo",
+    "file": "verbs.md"
+  },
+  "whire": {
+    "pos": "verbs",
+    "translation": "reflect",
+    "file": "verbs.md"
+  },
+  "whise": {
+    "pos": "verbs",
+    "translation": "absorb",
+    "file": "verbs.md"
+  },
+  "white": {
+    "pos": "verbs",
+    "translation": "emit",
+    "file": "verbs.md"
+  },
+  "whiwe": {
+    "pos": "verbs",
+    "translation": "radiate",
+    "file": "verbs.md"
+  },
+  "whole": {
+    "pos": "verbs",
+    "translation": "focus",
+    "file": "verbs.md"
+  },
+  "whome": {
+    "pos": "verbs",
+    "translation": "blur",
+    "file": "verbs.md"
+  },
+  "whone": {
+    "pos": "verbs",
+    "translation": "clarify",
+    "file": "verbs.md"
+  },
+  "whope": {
+    "pos": "verbs",
+    "translation": "obscure",
+    "file": "verbs.md"
+  },
+  "whore": {
+    "pos": "verbs",
+    "translation": "reveal",
+    "file": "verbs.md"
+  },
+  "whose": {
+    "pos": "verbs",
+    "translation": "conceal",
+    "file": "verbs.md"
+  },
+  "whote": {
+    "pos": "verbs",
+    "translation": "expose",
+    "file": "verbs.md"
+  },
+  "shiha": {
+    "pos": "verbs",
+    "translation": "air out",
+    "file": "verbs.md"
+  },
+  "shona": {
+    "pos": "verbs",
+    "translation": "begin",
+    "file": "verbs.md"
+  },
+  "shure": {
+    "pos": "verbs",
+    "translation": "bring",
+    "file": "verbs.md"
+  },
+  "theta": {
+    "pos": "verbs",
+    "translation": "continue",
+    "file": "verbs.md"
+  },
+  "whawu": {
+    "pos": "verbs",
+    "translation": "do",
+    "file": "verbs.md"
+  },
+  "thisi": {
+    "pos": "verbs",
+    "translation": "expect",
+    "file": "verbs.md"
+  },
+  "shepi": {
+    "pos": "verbs",
+    "translation": "fail",
+    "file": "verbs.md"
+  },
+  "whuli": {
+    "pos": "verbs",
+    "translation": "finish/complete",
+    "file": "verbs.md"
+  },
+  "thewo": {
+    "pos": "verbs",
+    "translation": "prepare",
+    "file": "verbs.md"
+  },
+  "thoho": {
+    "pos": "verbs",
+    "translation": "reach",
+    "file": "verbs.md"
+  },
+  "shari": {
+    "pos": "verbs",
+    "translation": "search",
+    "file": "verbs.md"
+  },
+  "wheta": {
+    "pos": "verbs",
+    "translation": "start",
+    "file": "verbs.md"
+  },
+  "thamu": {
+    "pos": "verbs",
+    "translation": "spend",
+    "file": "verbs.md"
+  },
+  "shosu": {
+    "pos": "verbs",
+    "translation": "stop",
+    "file": "verbs.md"
+  },
+  "theri": {
+    "pos": "verbs",
+    "translation": "succeed",
+    "file": "verbs.md"
+  },
+  "whena": {
+    "pos": "verbs",
+    "translation": "try",
+    "file": "verbs.md"
+  },
+  "shiri": {
+    "pos": "verbs",
+    "translation": "utilize",
+    "file": "verbs.md"
+  },
+  "sheso": {
+    "pos": "verbs",
+    "translation": "wait",
+    "file": "verbs.md"
+  },
+  "shawu": {
+    "pos": "verbs",
+    "translation": "be born",
+    "file": "verbs.md"
+  },
+  "thuwa": {
+    "pos": "verbs",
+    "translation": "fight",
+    "file": "verbs.md"
+  },
+  "phura": {
+    "pos": "verbs",
+    "translation": "greet",
+    "file": "verbs.md"
+  },
+  "shone": {
+    "pos": "verbs",
+    "translation": "help",
+    "file": "verbs.md"
+  },
+  "phasu": {
+    "pos": "verbs",
+    "translation": "lead",
+    "file": "verbs.md"
+  },
+  "whera": {
+    "pos": "verbs",
+    "translation": "learn",
+    "file": "verbs.md"
+  },
+  "whoso": {
+    "pos": "verbs",
+    "translation": "marry",
+    "file": "verbs.md"
+  },
+  "shelu": {
+    "pos": "verbs",
+    "translation": "meet",
+    "file": "verbs.md"
+  },
+  "thami": {
+    "pos": "verbs",
+    "translation": "name",
+    "file": "verbs.md"
+  },
+  "whoto": {
+    "pos": "verbs",
+    "translation": "need",
+    "file": "verbs.md"
+  },
+  "whoha": {
+    "pos": "verbs",
+    "translation": "play",
+    "file": "verbs.md"
+  },
+  "whopu": {
+    "pos": "verbs",
+    "translation": "play ball",
+    "file": "verbs.md"
+  },
+  "thero": {
+    "pos": "verbs",
+    "translation": "require",
+    "file": "verbs.md"
+  },
+  "whari": {
+    "pos": "verbs",
+    "translation": "sing",
+    "file": "verbs.md"
+  },
+  "shema": {
+    "pos": "verbs",
+    "translation": "study",
+    "file": "verbs.md"
+  },
+  "sheme": {
+    "pos": "verbs",
+    "translation": "teach",
+    "file": "verbs.md"
+  },
+  "thaso": {
+    "pos": "verbs",
+    "translation": "thank",
+    "file": "verbs.md"
+  },
+  "phawa": {
+    "pos": "verbs",
+    "translation": "bleed",
+    "file": "verbs.md"
+  },
+  "theso": {
+    "pos": "verbs",
+    "translation": "cook",
+    "file": "verbs.md"
+  },
+  "phuru": {
+    "pos": "verbs",
+    "translation": "decrease",
+    "file": "verbs.md"
+  },
+  "thoso": {
+    "pos": "verbs",
+    "translation": "earth",
+    "file": "verbs.md"
+  },
+  "pholi": {
+    "pos": "verbs",
+    "translation": "grow",
+    "file": "verbs.md"
+  },
+  "shena": {
+    "pos": "verbs",
+    "translation": "harm/hurt",
+    "file": "verbs.md"
+  },
+  "phepa": {
+    "pos": "verbs",
+    "translation": "heal",
+    "file": "verbs.md"
+  },
+  "thulo": {
+    "pos": "verbs",
+    "translation": "improve",
+    "file": "verbs.md"
+  },
+  "phiro": {
+    "pos": "verbs",
+    "translation": "increase",
+    "file": "verbs.md"
+  },
+  "shite": {
+    "pos": "verbs",
+    "translation": "make",
+    "file": "verbs.md"
+  },
+  "thali": {
+    "pos": "verbs",
+    "translation": "remember",
+    "file": "verbs.md"
+  },
+  "shapu": {
+    "pos": "verbs",
+    "translation": "squeeze",
+    "file": "verbs.md"
+  },
+  "shatu": {
+    "pos": "verbs",
+    "translation": "show",
+    "file": "verbs.md"
+  },
+  "phima": {
+    "pos": "verbs",
+    "translation": "win",
+    "file": "verbs.md"
+  },
+  "whuri": {
+    "pos": "verbs",
+    "translation": "work",
+    "file": "verbs.md"
+  },
+  "shota": {
+    "pos": "verbs",
+    "translation": "document",
+    "file": "verbs.md"
+  }
+}

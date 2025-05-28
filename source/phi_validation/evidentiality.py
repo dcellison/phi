@@ -59,6 +59,51 @@ class EvidentialityValidator:
             }
         }
         
+        # Modal particles and their interaction with evidentiality
+        self.modal_particles = {
+            'hu': {  # possibility
+                'type': 'epistemic_modal',
+                'semantic_function': 'possibility_marking',
+                'epistemic_strength': 'moderate',  # between certain and uncertain
+                'compatible_evidentiality': ['ro', 'pe', 'nu', 'ti'],  # inference, presumption, reported
+                'incompatible_evidentiality': ['hi'],  # conflicts with direct observation
+                'marginal_evidentiality': ['mu'],  # memory + possibility is odd but not impossible
+                'logic': 'Possibility marking indicates epistemic uncertainty about propositions'
+            },
+            'ru': {  # obligative (must/should)
+                'type': 'deontic_modal',
+                'semantic_function': 'obligation_marking',
+                'compatible_evidentiality': ['hi', 'ro', 'pe'],  # can obligate based on evidence
+                'incompatible_evidentiality': ['nu', 'ti'],  # can't obligate based on hearsay
+                'marginal_evidentiality': ['mu'],  # memory-based obligations are marginal
+                'logic': 'Obligations require reliable evidential basis'
+            }
+        }
+        
+        # Modal-evidentiality interaction rules
+        self.modal_evidentiality_interactions = {
+            'hu_evidentiality_logic': {
+                # Possibility + evidentiality combinations
+                'hu_hi': 'invalid',  # "perhaps I see" is contradictory
+                'hu_ro': 'valid',    # "perhaps I infer" is coherent
+                'hu_nu': 'valid',    # "perhaps they say" is coherent
+                'hu_ti': 'valid',    # "perhaps X said" is coherent
+                'hu_mu': 'marginal', # "perhaps I remember" is odd but possible
+                'hu_pe': 'valid',    # "perhaps I assume" is coherent (double uncertainty)
+                'logic': 'Possibility marking conflicts with certainty claims but supports uncertain evidentiality'
+            },
+            'ru_evidentiality_logic': {
+                # Obligation + evidentiality combinations
+                'ru_hi': 'valid',    # "must (because I see)" is coherent
+                'ru_ro': 'valid',    # "must (because I infer)" is coherent
+                'ru_nu': 'invalid',  # "must (because they say)" lacks authority
+                'ru_ti': 'invalid',  # "must (because X said)" lacks authority
+                'ru_mu': 'marginal', # "must (because I remember)" is weak authority
+                'ru_pe': 'valid',    # "must (because I assume)" is coherent
+                'logic': 'Obligations require authoritative evidential basis'
+            }
+        }
+        
         # Evidentiality combination rules
         self.evidentiality_combinations = {
             'prohibited_combinations': [
@@ -143,6 +188,68 @@ class EvidentialityValidator:
         
         # Tense particles for validation
         self.tense_particles = {'li', 'ta', 'su'}
+        
+        # Discourse particles and their interaction with evidentiality
+        self.discourse_particles = {
+            'ha': {  # topic marker
+                'type': 'topic_marker',
+                'semantic_function': 'topic_introduction_and_management',
+                'scope': 'clause_or_sentence',
+                'compatible_evidentiality': ['hi', 'ro', 'nu', 'ti', 'mu', 'pe'],  # all evidentiality compatible
+                'interaction_logic': 'Topic markers can frame evidential statements',
+                'ordering_flexibility': True  # can appear before or after evidentiality
+            },
+            'mi': {  # contrast marker
+                'type': 'contrast_marker',
+                'semantic_function': 'contrast_and_opposition',
+                'scope': 'clause_or_sentence',
+                'compatible_evidentiality': ['hi', 'ro', 'nu', 'ti', 'mu', 'pe'],  # all evidentiality compatible
+                'interaction_logic': 'Contrast markers can introduce opposing evidential perspectives',
+                'ordering_flexibility': True  # can appear before or after evidentiality
+            }
+        }
+        
+        # Discourse-evidentiality interaction rules
+        self.discourse_evidentiality_interactions = {
+            'ha_evidentiality_logic': {
+                # Topic + evidentiality combinations
+                'ha_hi': 'valid',    # "speaking of X, I see..."
+                'ha_ro': 'valid',    # "speaking of X, I infer..."
+                'ha_nu': 'valid',    # "speaking of X, they say..."
+                'ha_ti': 'valid',    # "speaking of X, X said..."
+                'ha_mu': 'valid',    # "speaking of X, I remember..."
+                'ha_pe': 'valid',    # "speaking of X, I assume..."
+                'logic': 'Topic markers provide thematic frame for evidential statements'
+            },
+            'mi_evidentiality_logic': {
+                # Contrast + evidentiality combinations
+                'mi_hi': 'valid',    # "however, I see..."
+                'mi_ro': 'valid',    # "however, I infer..."
+                'mi_nu': 'valid',    # "however, they say..."
+                'mi_ti': 'valid',    # "however, X said..."
+                'mi_mu': 'valid',    # "however, I remember..."
+                'mi_pe': 'valid',    # "however, I assume..."
+                'logic': 'Contrast markers can introduce opposing evidential perspectives'
+            },
+            'evidentiality_discourse_scope': {
+                # How evidentiality interacts with discourse scope
+                'topic_scoped_evidentiality': {
+                    'pattern': 'ha [topic] [evidentiality] [statement]',
+                    'logic': 'Evidentiality applies to statement within topic scope',
+                    'example': 'ha whethui hi phera misha'  # "speaking of weather, I see it's beautiful"
+                },
+                'contrast_scoped_evidentiality': {
+                    'pattern': 'mi [evidentiality] [statement]',
+                    'logic': 'Evidentiality applies to contrasting statement',
+                    'example': 'mi ro phera wathe'  # "however, I infer it's bad"
+                },
+                'evidentiality_scoped_discourse': {
+                    'pattern': '[evidentiality] ha/mi [statement]',
+                    'logic': 'Discourse marker applies within evidential scope',
+                    'example': 'hi ha whethui phera misha'  # "I see that, speaking of weather, it's beautiful"
+                }
+            }
+        }
     
     def validate_evidentiality(self, tokens: List[str]) -> List[SentenceValidationError]:
         """Validate evidentiality particle usage including combinations and nesting."""
@@ -166,6 +273,12 @@ class EvidentialityValidator:
         # Validate reported speech nesting
         errors.extend(self._validate_reported_speech_nesting(evidentiality_particles, tokens))
         
+        # Validate modal-evidentiality interactions
+        errors.extend(self._validate_modal_evidentiality_interactions(evidentiality_particles, tokens))
+        
+        # Validate discourse-evidentiality interactions
+        errors.extend(self._validate_discourse_evidentiality_interactions(evidentiality_particles, tokens))
+        
         return errors
     
     def _validate_evidentiality_combinations(self, evidentiality_particles: List[Tuple[str, int]], 
@@ -185,6 +298,24 @@ class EvidentialityValidator:
                 combination = (particle1, particle2)
                 reverse_combination = (particle2, particle1)
                 
+                # Special handling for nu + ti: check if it's valid nesting
+                if combination == ('nu', 'ti') or reverse_combination == ('nu', 'ti'):
+                    # Check if this is valid nesting (nu before ti with proper structure)
+                    if pos1 < pos2 and particle1 == 'nu' and particle2 == 'ti':
+                        # This could be valid nesting, check structure
+                        if self._is_valid_nu_ti_nesting(tokens, pos1, pos2):
+                            continue  # Skip the prohibition check for valid nesting
+                    elif pos2 < pos1 and particle2 == 'nu' and particle1 == 'ti':
+                        # ti before nu is always invalid (ti cannot contain nu)
+                        errors.append(SentenceValidationError(
+                            SentenceError.REPORTED_SPEECH_NESTING_ERROR,
+                            f"Invalid nesting: direct reported speech 'ti' cannot contain hearsay 'nu' - "
+                            f"violates source specificity hierarchy",
+                            position=min(pos1, pos2),
+                            word="ti+nu"
+                        ))
+                        continue
+                
                 # Check if this combination is prohibited
                 if (combination in self.evidentiality_combinations['prohibited_combinations'] or
                     reverse_combination in self.evidentiality_combinations['prohibited_combinations']):
@@ -202,6 +333,23 @@ class EvidentialityValidator:
                         ))
         
         return errors
+    
+    def _is_valid_nu_ti_nesting(self, tokens: List[str], nu_pos: int, ti_pos: int) -> bool:
+        """Check if nu...ti represents valid nesting structure."""
+        # Valid nesting requires:
+        # 1. nu comes before ti
+        # 2. There's context between nu and ti (at least one word)
+        # 3. The structure follows: nu [context] ti [quoted_content]
+        
+        if ti_pos <= nu_pos:
+            return False  # nu must come before ti
+        
+        if ti_pos - nu_pos <= 1:
+            return False  # Must have context between nu and ti
+        
+        # Additional structural checks could be added here
+        # For now, if nu comes before ti with context, it's potentially valid nesting
+        return True
     
     def _validate_evidentiality_tense_interactions(self, evidentiality_particles: List[Tuple[str, int]], 
                                                  tokens: List[str]) -> List[SentenceValidationError]:
@@ -258,28 +406,27 @@ class EvidentialityValidator:
         nu_positions = [pos for particle, pos in evidentiality_particles if particle == 'nu']
         ti_positions = [pos for particle, pos in evidentiality_particles if particle == 'ti']
         
-        if not (nu_positions and ti_positions):
-            return errors  # No nesting to validate
-        
-        # Validate ti within nu nesting
-        for nu_pos in nu_positions:
-            for ti_pos in ti_positions:
-                if ti_pos > nu_pos:
-                    # Valid nesting: nu comes before ti
-                    # Check that the structure follows the expected pattern
-                    self._validate_ti_within_nu_structure(tokens, nu_pos, ti_pos, errors)
-                elif ti_pos < nu_pos:
-                    # Invalid: ti cannot contain nu
-                    errors.append(SentenceValidationError(
-                        SentenceError.REPORTED_SPEECH_NESTING_ERROR,
-                        f"Invalid nesting: direct reported speech 'ti' cannot contain hearsay 'nu' - "
-                        f"violates source specificity hierarchy",
-                        position=ti_pos,
-                        word="ti+nu"
-                    ))
-        
-        # Check for prohibited nestings
+        # Always check for prohibited nestings (like ti ti)
         self._validate_prohibited_evidentiality_nesting(evidentiality_particles, tokens, errors)
+        
+        # Only validate nu-ti nesting if both are present
+        if nu_positions and ti_positions:
+            # Validate ti within nu nesting
+            for nu_pos in nu_positions:
+                for ti_pos in ti_positions:
+                    if ti_pos > nu_pos:
+                        # Valid nesting: nu comes before ti
+                        # Check that the structure follows the expected pattern
+                        self._validate_ti_within_nu_structure(tokens, nu_pos, ti_pos, errors)
+                    elif ti_pos < nu_pos:
+                        # Invalid: ti cannot contain nu
+                        errors.append(SentenceValidationError(
+                            SentenceError.REPORTED_SPEECH_NESTING_ERROR,
+                            f"Invalid nesting: direct reported speech 'ti' cannot contain hearsay 'nu' - "
+                            f"violates source specificity hierarchy",
+                            position=ti_pos,
+                            word="ti+nu"
+                        ))
         
         return errors
     
@@ -354,4 +501,90 @@ class EvidentialityValidator:
                         f"inference should be speaker's own reasoning, not reported",
                         position=ro_pos,
                         word="ro_in_reported"
-                    )) 
+                    ))
+
+    def _validate_modal_evidentiality_interactions(self, evidentiality_particles: List[Tuple[str, int]], 
+                                                  tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate modal-evidentiality interaction combinations."""
+        errors = []
+        
+        # Find modal particles in the sentence
+        modal_particles = []
+        for i, token in enumerate(tokens):
+            if token in self.modal_particles:
+                modal_particles.append((token, i))
+        
+        # Validate each modal-evidentiality interaction
+        for modal_particle, modal_pos in modal_particles:
+            modal_info = self.modal_particles[modal_particle]
+            
+            for evid_particle, evid_pos in evidentiality_particles:
+                # Check specific interaction rules
+                interaction_key = f"{modal_particle}_{evid_particle}"
+                logic_group = f"{modal_particle}_evidentiality_logic"
+                
+                if logic_group in self.modal_evidentiality_interactions:
+                    validity = self.modal_evidentiality_interactions[logic_group].get(interaction_key, 'unknown')
+                    
+                    if validity == 'invalid':
+                        logic_explanation = self.modal_evidentiality_interactions[logic_group].get('logic', 'semantic contradiction')
+                        errors.append(SentenceValidationError(
+                            SentenceError.EVIDENTIALITY_MODAL_CONFLICT,
+                            f"Invalid modal-evidentiality combination: '{modal_particle}' + '{evid_particle}' "
+                            f"creates semantic contradiction - {logic_explanation}",
+                            position=min(modal_pos, evid_pos),
+                            word=f"{modal_particle}+{evid_particle}"
+                        ))
+                    elif validity == 'marginal':
+                        # Note: Could add warnings for marginal cases if desired
+                        pass
+                
+                # Also check general compatibility rules
+                elif evid_particle in modal_info['incompatible_evidentiality']:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EVIDENTIALITY_MODAL_CONFLICT,
+                        f"Evidentiality '{evid_particle}' is incompatible with modal '{modal_particle}': "
+                        f"{modal_info['logic']}",
+                        position=min(modal_pos, evid_pos),
+                        word=f"{evid_particle}+{modal_particle}"
+                    ))
+        
+        return errors
+    
+    def _validate_discourse_evidentiality_interactions(self, evidentiality_particles: List[Tuple[str, int]], 
+                                                     tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate discourse-evidentiality interaction combinations."""
+        errors = []
+        
+        # Find discourse particles in the sentence
+        discourse_particles = []
+        for i, token in enumerate(tokens):
+            if token in self.discourse_particles:
+                discourse_particles.append((token, i))
+        
+        # Validate each discourse-evidentiality interaction
+        for discourse_particle, discourse_pos in discourse_particles:
+            discourse_info = self.discourse_particles[discourse_particle]
+            
+            for evid_particle, evid_pos in evidentiality_particles:
+                # Check specific interaction rules
+                interaction_key = f"{discourse_particle}_{evid_particle}"
+                logic_group = f"{discourse_particle}_evidentiality_logic"
+                
+                if logic_group in self.discourse_evidentiality_interactions:
+                    validity = self.discourse_evidentiality_interactions[logic_group].get(interaction_key, 'unknown')
+                    
+                    if validity == 'invalid':
+                        logic_explanation = self.discourse_evidentiality_interactions[logic_group].get('logic', 'semantic contradiction')
+                        errors.append(SentenceValidationError(
+                            SentenceError.EVIDENTIALITY_DISCOURSE_CONFLICT,
+                            f"Invalid discourse-evidentiality combination: '{discourse_particle}' + '{evid_particle}' "
+                            f"creates semantic contradiction - {logic_explanation}",
+                            position=min(discourse_pos, evid_pos),
+                            word=f"{discourse_particle}+{evid_particle}"
+                        ))
+                    elif validity == 'marginal':
+                        # Note: Could add warnings for marginal cases if desired
+                        pass
+        
+        return errors 

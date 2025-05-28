@@ -8,6 +8,8 @@ Simple Flask API for validating Phi sentences online.
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
+import re
+from pathlib import Path
 from phi_validation.core import PhiSentenceValidator
 
 app = Flask(__name__)
@@ -15,6 +17,15 @@ CORS(app)  # Enable CORS for frontend integration
 
 # Initialize validator once at startup
 validator = PhiSentenceValidator()
+
+# Load lexicon for vocabulary lookup
+lexicon_data = {}
+try:
+    lexicon_path = Path(__file__).parent / 'phi_lexicon.json'
+    with open(lexicon_path, 'r', encoding='utf-8') as f:
+        lexicon_data = json.load(f)
+except Exception as e:
+    print(f"Warning: Could not load lexicon data: {e}")
 
 @app.route('/validate', methods=['POST'])
 def validate_sentence():
@@ -51,8 +62,8 @@ def validate_sentence():
             }
             
             # Look up word in lexicon
-            if hasattr(validator.lexicon_validator.word_validator, 'lexicon'):
-                lexicon = validator.lexicon_validator.word_validator.lexicon
+            if hasattr(validator, 'word_validator') and hasattr(validator.word_validator, 'lexicon'):
+                lexicon = validator.word_validator.lexicon
                 
                 # Handle particles and common words using proper linguistic glosses FIRST
                 particle_glosses = {
@@ -278,7 +289,7 @@ def health_check():
     return jsonify({
         'status': 'healthy',
         'validator_loaded': validator is not None,
-        'lexicon_size': len(validator.lexicon_validator.word_validator.lexicon) if validator else 0
+        'lexicon_size': len(validator.word_validator.lexicon) if validator else 0
     })
 
 @app.route('/info', methods=['GET'])
@@ -293,7 +304,7 @@ def validator_info():
             'derivational', 'emphasis', 'politeness', 
             'discourse', 'interrogative', 'narrative'
         ],
-        'lexicon_size': len(validator.lexicon_validator.word_validator.lexicon),
+        'lexicon_size': len(validator.word_validator.lexicon),
         'supported_features': [
             'SOV word order validation',
             'Particle ordering and scope',
@@ -326,6 +337,22 @@ def index():
                 'body': {'sentences': ['string']},
                 'example': {'sentences': ['mia ta whemo', 'thi ta whera']}
             },
+            'GET /vocabulary/search': {
+                'description': 'Search vocabulary by word or meaning',
+                'params': {
+                    'q': 'search query (required)',
+                    'pos': 'part of speech filter (optional)',
+                    'limit': 'max results (optional, default 50)'
+                },
+                'example': '/vocabulary/search?q=blue&pos=adjectives'
+            },
+            'GET /vocabulary/word/<word>': {
+                'description': 'Get detailed information about a specific word',
+                'example': '/vocabulary/word/mipho'
+            },
+            'GET /vocabulary/stats': {
+                'description': 'Get vocabulary statistics and POS breakdown'
+            },
             'GET /health': {
                 'description': 'Health check'
             },
@@ -334,9 +361,143 @@ def index():
             }
         },
         'example_usage': {
-            'curl': 'curl -X POST -H "Content-Type: application/json" -d \'{"sentence":"mia ta whemo"}\' http://localhost:8080/validate'
+            'curl_validate': 'curl -X POST -H "Content-Type: application/json" -d \'{"sentence":"mia ta whemo"}\' http://localhost:8080/validate',
+            'curl_search': 'curl "http://localhost:8080/vocabulary/search?q=blue"',
+            'curl_word': 'curl "http://localhost:8080/vocabulary/word/mipho"'
         }
     })
+
+@app.route('/vocabulary/search', methods=['GET'])
+def search_vocabulary():
+    """Search vocabulary by word or meaning."""
+    try:
+        query = request.args.get('q', '').strip().lower()
+        pos_filter = request.args.get('pos', '').strip().lower()
+        limit = min(int(request.args.get('limit', 50)), 200)  # Max 200 results
+        
+        if not query:
+            return jsonify({
+                'error': 'Missing search query parameter "q"',
+                'example': '/vocabulary/search?q=blue'
+            }), 400
+        
+        results = []
+        
+        for word, data in lexicon_data.items():
+            # Filter by POS if specified
+            if pos_filter and data['pos'].lower() != pos_filter:
+                continue
+            
+            # Search in word or translation
+            word_match = query in word.lower()
+            translation_match = query in data['translation'].lower()
+            
+            if word_match or translation_match:
+                results.append({
+                    'word': word,
+                    'translation': data['translation'],
+                    'pos': data['pos'],
+                    'match_type': 'word' if word_match else 'translation'
+                })
+        
+        # Sort results: exact word matches first, then translation matches
+        results.sort(key=lambda x: (
+            x['match_type'] != 'word',  # Word matches first
+            x['word'] != query,         # Exact matches first
+            x['word']                   # Alphabetical
+        ))
+        
+        return jsonify({
+            'query': query,
+            'pos_filter': pos_filter or None,
+            'total_results': len(results),
+            'results': results[:limit],
+            'truncated': len(results) > limit
+        })
+        
+    except Exception as e:
+        return jsonify({
+            'error': f'Search error: {str(e)}'
+        }), 500
+
+@app.route('/vocabulary/word/<word>', methods=['GET'])
+def get_word_details(word):
+    """Get detailed information about a specific word."""
+    try:
+        word = word.lower().strip()
+        
+        if word in lexicon_data:
+            word_data = lexicon_data[word]
+            
+            # Get related words (same POS)
+            related_words = []
+            for w, data in lexicon_data.items():
+                if (w != word and 
+                    data['pos'] == word_data['pos'] and 
+                    len(related_words) < 10):
+                    related_words.append({
+                        'word': w,
+                        'translation': data['translation']
+                    })
+            
+            return jsonify({
+                'word': word,
+                'translation': word_data['translation'],
+                'pos': word_data['pos'],
+                'file': word_data.get('file', ''),
+                'related_words': related_words,
+                'found': True
+            })
+        else:
+            return jsonify({
+                'word': word,
+                'found': False,
+                'suggestions': _get_word_suggestions(word)
+            }), 404
+            
+    except Exception as e:
+        return jsonify({
+            'error': f'Lookup error: {str(e)}'
+        }), 500
+
+@app.route('/vocabulary/stats', methods=['GET'])
+def vocabulary_stats():
+    """Get vocabulary statistics."""
+    try:
+        pos_counts = {}
+        total_words = len(lexicon_data)
+        
+        for word, data in lexicon_data.items():
+            pos = data['pos']
+            pos_counts[pos] = pos_counts.get(pos, 0) + 1
+        
+        return jsonify({
+            'total_words': total_words,
+            'pos_breakdown': pos_counts,
+            'pos_list': sorted(pos_counts.keys())
+        })
+        
+    except Exception as e:
+        return jsonify({
+            'error': f'Stats error: {str(e)}'
+        }), 500
+
+def _get_word_suggestions(word):
+    """Get word suggestions for misspelled words."""
+    suggestions = []
+    word_lower = word.lower()
+    
+    # Find words with similar length and starting letters
+    for w in lexicon_data.keys():
+        if (abs(len(w) - len(word_lower)) <= 2 and 
+            w.startswith(word_lower[:2]) and 
+            len(suggestions) < 5):
+            suggestions.append({
+                'word': w,
+                'translation': lexicon_data[w]['translation']
+            })
+    
+    return suggestions
 
 if __name__ == '__main__':
     print("Starting Phi Sentence Validator API...")

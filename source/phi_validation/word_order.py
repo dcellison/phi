@@ -176,11 +176,14 @@ class WordOrderValidator:
                 # Check if this is a bare imperative (just verb + optional tense/aspect)
                 non_verb_content = [w for w in content_words if w[1] != 'verb']
                 
+                # Check for subjects (nouns, pronouns, or proper nouns)
+                subjects = [w for w in content_words if w[1] in ['noun', 'pronoun', 'proper_noun']]
+                
                 # Also check for slot 1 particles (tense/aspect) that might be present
                 has_slot_1_particles = any(token in self.slot_1_particles for token in tokens)
                 
                 # If we have tense/aspect particles but no subject, it's likely missing a subject
-                if has_slot_1_particles and not non_verb_content:
+                if has_slot_1_particles and not subjects:
                     # Exception: copula 'thilu' can work without explicit subject
                     # Exception: imperative 'to' and obligation 'ru' can work without explicit subject
                     has_imperative_mood = any(token in ['to', 'ru'] for token in tokens)
@@ -276,6 +279,11 @@ class WordOrderValidator:
         
         # Check lexicon for content words
         if self.lexicon_validator:
-            return self.lexicon_validator.identify_word_type(word)
+            pos = self.lexicon_validator.identify_word_type(word)
+            if pos:
+                # Convert plural POS forms to singular for consistency
+                if pos.endswith('s'):
+                    return pos[:-1]  # Remove 's' from 'pronouns' -> 'pronoun'
+                return pos
         
         return None 

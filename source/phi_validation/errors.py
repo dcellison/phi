@@ -36,6 +36,8 @@ class SentenceError(Enum):
     QUESTION_CONTEXT_MISMATCH = "question_context_mismatch"
     EVIDENTIALITY_COMBINATION_ERROR = "evidentiality_combination_error"
     EVIDENTIALITY_TENSE_CONFLICT = "evidentiality_tense_conflict"
+    EVIDENTIALITY_MODAL_CONFLICT = "evidentiality_modal_conflict"
+    EVIDENTIALITY_DISCOURSE_CONFLICT = "evidentiality_discourse_conflict"
     REPORTED_SPEECH_NESTING_ERROR = "reported_speech_nesting_error"
     DERIVATIONAL_SCOPE_ERROR = "derivational_scope_error"
     DERIVATIONAL_SEMANTIC_ERROR = "derivational_semantic_error"

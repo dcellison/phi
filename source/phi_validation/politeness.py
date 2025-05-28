@@ -238,12 +238,9 @@ class PolitenessValidator:
                                              ev_particle: str, tokens: List[str]) -> Dict:
         """Validate specific so + evidentiality combinations."""
         
-        # Check particle ordering (evidentiality should precede politeness)
-        if ev_pos > so_pos:
-            return {
-                'valid': False,
-                'message': f"Evidentiality particle '{ev_particle}' must precede politeness 'so'"
-            }
+        # Allow flexible ordering between evidentiality and politeness particles
+        # Both "evidentiality + politeness" and "politeness + evidentiality" are valid
+        # This maintains consistency with the flexible ordering implemented in particles.py
         
         # Validate semantic compatibility
         compatibility_rules = {
