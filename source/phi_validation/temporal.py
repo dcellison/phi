@@ -48,12 +48,12 @@ class TemporalValidator:
         # Aspect-tense compatibility rules
         self.aspect_tense_compatibility = {
             'we': {
-                'compatible': ['li', 'ta'],
-                'logic': 'Perfective aspect incompatible with future tense'
+                'compatible': ['li', 'ta', 'su'],
+                'logic': 'Perfective aspect compatible with all tenses including future perfect'
             },
             'la': {
-                'compatible': ['li', 'ta', 'su'],
-                'logic': 'Imperfective aspect compatible with all tenses'
+                'compatible': ['ta', 'su'],
+                'logic': 'Progressive aspect incompatible with past tense'
             },
             'ni': {
                 'compatible': ['ta', 'su'],

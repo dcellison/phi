@@ -43,7 +43,14 @@ class ClauseParser:
         while i < len(tokens):
             token = tokens[i]
             
-            if token in self.clause_boundary_conjunctions:
+            # Special handling for ha-mi combinations
+            if token == 'ha' and i + 1 < len(tokens) and tokens[i + 1] == 'mi':
+                # ha mi should be treated as a single discourse unit, not split
+                current_clause.append(token)  # Add ha
+                current_clause.append(tokens[i + 1])  # Add mi
+                i += 2  # Skip both ha and mi
+                continue
+            elif token in self.clause_boundary_conjunctions:
                 # End current clause (before conjunction)
                 if current_clause:
                     clauses.append((current_clause, current_start_idx))

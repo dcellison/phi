@@ -62,7 +62,6 @@ class EvidentialityValidator:
         # Evidentiality combination rules
         self.evidentiality_combinations = {
             'prohibited_combinations': [
-                ('hi', 'ro'),  # can't have direct observation AND inference
                 ('hi', 'nu'),  # can't have direct observation AND hearsay
                 ('hi', 'ti'),  # can't have direct observation AND reported speech
                 ('hi', 'mu'),  # can't have direct observation AND memory
@@ -76,6 +75,7 @@ class EvidentialityValidator:
                 ('ti', 'nu'),  # direct quote can be followed by hearsay context
                 ('mu', 'ro'),  # memory can be followed by inference
                 ('pe', 'ro'),  # presumption can be followed by inference
+                ('hi', 'ro'),  # direct evidence can be followed by inference
             ],
             'logic': 'Multiple evidentiality markers create contradictory epistemic stances'
         }

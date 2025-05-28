@@ -129,17 +129,45 @@ class InterrogativeValidator:
         """Validate interrogative constructions and question-answer tense matching."""
         errors = []
         
-        # 1. Validate yes/no questions
+        # 1. Validate duplicate interrogative words
+        errors.extend(self._validate_duplicate_interrogatives(tokens))
+        
+        # 2. Validate yes/no questions
         errors.extend(self._validate_yes_no_questions(tokens))
         
-        # 2. Validate wh-questions
+        # 3. Validate wh-questions
         errors.extend(self._validate_wh_questions(tokens))
         
-        # 3. Validate rhetorical questions
+        # 4. Validate rhetorical questions
         errors.extend(self._validate_rhetorical_questions(tokens))
         
-        # 4. Validate question context appropriateness
+        # 5. Validate question context appropriateness
         errors.extend(self._validate_question_context(tokens))
+        
+        return errors
+    
+    def _validate_duplicate_interrogatives(self, tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate that interrogative words are not duplicated."""
+        errors = []
+        
+        # Track interrogative words we've seen
+        seen_interrogatives = {}
+        wh_markers = self.interrogative_rules['wh_questions']['markers']
+        
+        for i, token in enumerate(tokens):
+            if token in wh_markers:
+                if token in seen_interrogatives:
+                    # Found duplicate interrogative word
+                    prev_position = seen_interrogatives[token]
+                    errors.append(SentenceValidationError(
+                        SentenceError.QUESTION_CONTEXT_MISMATCH,
+                        f"Duplicate interrogative word '{token}' found at positions {prev_position} and {i}. "
+                        f"Interrogative words should not be repeated within the same question.",
+                        position=i,
+                        word=token
+                    ))
+                else:
+                    seen_interrogatives[token] = i
         
         return errors
     

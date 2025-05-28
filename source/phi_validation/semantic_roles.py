@@ -23,7 +23,7 @@ class SemanticRoleValidator:
                 'nouns': {
                     'thephoa', 'luthea', 'phethoa', 'phethui', 'phethea',
                     'luthui', 'phethui', 'phethoa', 'luphea', 'nowhea', 'hathai',
-                    'hishui', 'phiphea'  # person, friend, family terms, artist, teacher, musician, parent, child
+                    'hishui', 'phiphea', 'raushai'  # person, friend, family terms, artist, teacher, musician, parent, child, leader
                 },
                 'logic': 'Human animacy marker for people and human relationships'
             },
@@ -48,7 +48,7 @@ class SemanticRoleValidator:
                     'whethea', 'powhia', 'poshai', 'whoshia', 'phothea', 'tuphai',
                     'shoshai', 'tushai', 'hashia', 'hathia', 'naiphia', 'luthia',
                     'maphia', 'nethai', 'riwhea', 'latheo', 'shuwhia', 'lophui',
-                    'lowhai'  # answer - abstract concept
+                    'lowhai', 'raoshea'  # answer - abstract concept, sun
                     # objects, tools, natural phenomena, abstract concepts, art
                 },
                 'logic': 'Inanimate marker for non-living entities'
@@ -59,7 +59,7 @@ class SemanticRoleValidator:
         self.classifier_compatibility = {
             'lea': {  # long objects
                 'compatible_nouns': {
-                    'lathia', 'naiphia', 'powhia', 'huphui', 'saphoa'  # axe, knife, bow, road, snake
+                    'lathia', 'naiphia', 'powhia', 'huphui', 'saphoa', 'liphai'  # axe, knife, bow, road, snake, tree
                 },
                 'logic': 'Long objects classifier for elongated items'
             },
@@ -96,7 +96,8 @@ class SemanticRoleValidator:
                 'verbs': {
                     'shuna', 'whomo', 'shero', 'shola', 'whumi', 'whepi', 'whawi',
                     'whuwe', 'phamu', 'whesa', 'shoro', 'sheho', 'thunu',
-                    'whemo', 'sheli', 'whipu', 'thume', 'shule', 'shire', 'phewa'
+                    'whemo', 'sheli', 'whipu', 'thume', 'shule', 'shire', 'phewa',
+                    'sheme'  # teach - animals can be taught and can teach others
                     # call, like, carry, walk, run, jump, fly, sleep, spend, create, destroy, kill, ban
                     # think, believe, know, remember, understand, want, feel - cognitive verbs
                 },
@@ -108,6 +109,7 @@ class SemanticRoleValidator:
                 'verbs': {
                     'shuna', 'phamu', 'whesa', 'thunu', 'shuni', 'whupa'
                     # call, spend, create, ban, build, fix - typically human activities
+                    # NOTE: sheme (teach) moved to animate_subject_verbs for real-world usage
                 },
                 'logic': 'These verbs typically require human subjects'
             },

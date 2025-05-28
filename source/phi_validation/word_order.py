@@ -84,6 +84,9 @@ class WordOrderValidator:
             ))
             return errors
         
+        # Check for excessive pronoun repetition
+        errors.extend(self._validate_pronoun_repetition(tokens))
+        
         # Main SOV validation
         errors.extend(self.validate_sov_order(tokens))
         
@@ -107,6 +110,18 @@ class WordOrderValidator:
     def _validate_clause_sov_order(self, tokens: List[str], start_idx: int) -> List[SentenceValidationError]:
         """Validate SOV order for a single clause."""
         errors = []
+        
+        # Check for incomplete sentences (single particles without content)
+        if len(tokens) == 1:
+            token = tokens[0]
+            word_type = self.identify_word_type(token)
+            if word_type and word_type.endswith('_particle'):
+                errors.append(SentenceValidationError(
+                    SentenceError.MISSING_VERB,
+                    f"Incomplete sentence: single particle '{token}' without content",
+                    position=start_idx
+                ))
+                return errors  # No need to continue validation for single particle
         
         # Filter out particles to focus on content words, but handle derivational constructions
         content_words = []
@@ -153,6 +168,29 @@ class WordOrderValidator:
                     position=start_idx
                 ))
         else:
+            # Check for missing subject (except for imperatives)
+            # Imperatives are single verbs or verbs with only slot 1 particles
+            if len(verbs) == 1:
+                verb_word, verb_type, verb_idx = verbs[0]
+                
+                # Check if this is a bare imperative (just verb + optional tense/aspect)
+                non_verb_content = [w for w in content_words if w[1] != 'verb']
+                
+                # Also check for slot 1 particles (tense/aspect) that might be present
+                has_slot_1_particles = any(token in self.slot_1_particles for token in tokens)
+                
+                # If we have tense/aspect particles but no subject, it's likely missing a subject
+                if has_slot_1_particles and not non_verb_content:
+                    # Exception: copula 'thihi' can work without explicit subject
+                    # Exception: imperative 'to' and obligation 'ru' can work without explicit subject
+                    has_imperative_mood = any(token in ['to', 'ru'] for token in tokens)
+                    if verb_word != 'thihi' and not has_imperative_mood:
+                        errors.append(SentenceValidationError(
+                            SentenceError.MISSING_VERB,
+                            f"Missing subject: tense/aspect particles require explicit subject",
+                            position=start_idx
+                        ))
+            
             # Allow multiple verbs (serial verb constructions) within a single clause
             # But validate that slot 1 particles don't appear between verbs
             if len(verbs) > 1:
@@ -188,6 +226,40 @@ class WordOrderValidator:
                         f"SOV violation: content words after verb: {[w[0] for w in words_after_last_verb]}",
                         position=last_verb_idx
                     ))
+        
+        return errors
+    
+    def _validate_pronoun_repetition(self, tokens: List[str]) -> List[SentenceValidationError]:
+        """Validate that pronouns are not excessively repeated."""
+        errors = []
+        pronouns = {'mia', 'thi', 'sha'}
+        
+        # Track consecutive pronoun repetitions
+        consecutive_count = 0
+        current_pronoun = None
+        
+        for i, token in enumerate(tokens):
+            if token in pronouns:
+                if token == current_pronoun:
+                    consecutive_count += 1
+                else:
+                    # Reset count for new pronoun
+                    current_pronoun = token
+                    consecutive_count = 1
+                
+                # Flag excessive repetition (3 or more)
+                if consecutive_count >= 3:
+                    errors.append(SentenceValidationError(
+                        SentenceError.WORD_ORDER,
+                        f"Excessive pronoun repetition: '{token}' repeated {consecutive_count} times consecutively. "
+                        f"Maximum of 2 consecutive pronouns allowed for emphasis.",
+                        position=i,
+                        word=token
+                    ))
+            else:
+                # Reset when encountering non-pronoun
+                consecutive_count = 0
+                current_pronoun = None
         
         return errors
     

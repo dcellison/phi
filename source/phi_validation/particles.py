@@ -372,8 +372,9 @@ class ParticleValidator:
         i = 0
         while i < len(tokens):
             token = tokens[i]
+            is_classifier = self._is_classifier(token)
             
-            if token in self.all_particles:
+            if token in self.all_particles or is_classifier:
                 if token in self.slot_0_particles:
                     # Slot 0 particles should not be duplicated within a clause
                     if token in seen_slot_0_particles:
@@ -402,15 +403,15 @@ class ParticleValidator:
                     else:
                         seen_slot_1_particles[token] = i
                 
-                elif token in self.slot_2_particles:
-                    # Slot 2 particles can be repeated if they modify different targets
+                elif token in self.slot_2_particles or is_classifier:
+                    # Slot 2 particles and classifiers can be repeated if they modify different targets
                     # Find the target word for this particle
                     target_word = None
                     target_pos = None
                     
-                    # Look ahead to find the target (skip other slot 2 particles)
+                    # Look ahead to find the target (skip other slot 2 particles and classifiers)
                     j = i + 1
-                    while j < len(tokens) and tokens[j] in self.slot_2_particles:
+                    while j < len(tokens) and (tokens[j] in self.slot_2_particles or self._is_classifier(tokens[j])):
                         j += 1
                     
                     if j < len(tokens):
@@ -429,8 +430,97 @@ class ParticleValidator:
                             ))
                             break
                     
+                    # Check for conflicting number particles on the same target
+                    if token in ['wo', 'lo', 'no']:  # number particles
+                        for prev_particle, prev_target, prev_pos in seen_slot_2_with_targets:
+                            if (prev_particle in ['wo', 'lo', 'no'] and 
+                                prev_particle != token and 
+                                prev_target == target_word):
+                                errors.append(SentenceValidationError(
+                                    SentenceError.PARTICLE_ORDER,
+                                    f"Conflicting number particles '{prev_particle}' and '{token}' "
+                                    f"modifying same target '{target_word}'. "
+                                    f"Only one number particle allowed per target",
+                                    position=start_idx + i,
+                                    word=token
+                                ))
+                                break
+                    
+                    # Check for conflicting classifiers on the same target
+                    if is_classifier:
+                        for prev_particle, prev_target, prev_pos in seen_slot_2_with_targets:
+                            if (self._is_classifier(prev_particle) and 
+                                prev_particle != token and 
+                                prev_target == target_word):
+                                errors.append(SentenceValidationError(
+                                    SentenceError.PARTICLE_ORDER,
+                                    f"Conflicting classifiers '{prev_particle}' and '{token}' "
+                                    f"modifying same target '{target_word}'. "
+                                    f"Only one classifier allowed per target",
+                                    position=start_idx + i,
+                                    word=token
+                                ))
+                                break
+                    
+                    # Check for classifiers without target nouns
+                    if is_classifier and target_word is None:
+                        errors.append(SentenceValidationError(
+                            SentenceError.PARTICLE_SCOPE,
+                            f"Classifier '{token}' has no target noun to classify",
+                            position=start_idx + i,
+                            word=token
+                        ))
+                    
+                    # Check for classifiers with non-noun targets
+                    if is_classifier and target_word is not None:
+                        target_word_type = self._identify_word_type(target_word)
+                        if target_word_type != 'noun':
+                            errors.append(SentenceValidationError(
+                                SentenceError.PARTICLE_SCOPE,
+                                f"Classifier '{token}' must be followed by a noun, but found '{target_word}' ({target_word_type or 'unknown'})",
+                                position=start_idx + i,
+                                word=token
+                            ))
+                    
+                    # Check for conflicting comparison particles on the same target
+                    if token in ['pa', 'mo', 'sa', 'le', 're']:  # comparison particles
+                        for prev_particle, prev_target, prev_pos in seen_slot_2_with_targets:
+                            if (prev_particle in ['pa', 'mo', 'sa', 'le', 're'] and 
+                                prev_particle != token and 
+                                prev_target == target_word):
+                                errors.append(SentenceValidationError(
+                                    SentenceError.PARTICLE_ORDER,
+                                    f"Conflicting comparison particles '{prev_particle}' and '{token}' "
+                                    f"modifying same target '{target_word}'. "
+                                    f"Only one comparison particle allowed per target",
+                                    position=start_idx + i,
+                                    word=token
+                                ))
+                                break
+                    
+                    # Check for conflicting POS markers (si/na) - they are mutually exclusive
+                    if token in ['si', 'na']:  # POS markers
+                        for prev_particle, prev_target, prev_pos in seen_slot_2_with_targets:
+                            if (prev_particle in ['si', 'na'] and 
+                                prev_particle != token):
+                                errors.append(SentenceValidationError(
+                                    SentenceError.PARTICLE_ORDER,
+                                    f"Conflicting POS markers '{prev_particle}' and '{token}' "
+                                    f"cannot be used in the same sentence. "
+                                    f"A noun phrase cannot be both subject (si) and object (na)",
+                                    position=start_idx + i,
+                                    word=token
+                                ))
+                                break
+                    
                     seen_slot_2_with_targets.append((token, target_word, i))
             
             i += 1
         
-        return errors 
+        return errors
+    
+    def _is_classifier(self, word: str) -> bool:
+        """Check if a word is a classifier."""
+        if self.lexicon_validator:
+            return self.lexicon_validator.identify_word_type(word) == 'classifier'
+        return False 

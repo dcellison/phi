@@ -30,13 +30,13 @@ class NarrativeValidator:
                 'logical_sequences': {
                     # Main clause tense → subordinate clause tense → validity
                     ('li', 'li'): True,   # "I walked before I ran" (both past, sequence clear)
-                    ('li', 'ta'): False,  # "I walked before I walk" (past before present - illogical)
+                    ('li', 'ta'): True,   # "I walked before I walk" (past before present - logical!)
                     ('li', 'su'): True,   # "I walked before I will walk" (past before future)
-                    ('ta', 'li'): True,   # "I walk before I walked" (present habit, past event)
+                    ('ta', 'li'): False,  # "I walk before I walked" (present before past - illogical)
                     ('ta', 'ta'): True,   # "I walk before I walk" (habitual sequence)
                     ('ta', 'su'): True,   # "I walk before I will walk" (present leads to future)
-                    ('su', 'li'): True,   # "I will walk before I walked" (future planned before past)
-                    ('su', 'ta'): True,   # "I will walk before I walk" (future before present)
+                    ('su', 'li'): False,  # "I will walk before I walked" (future before past - illogical)
+                    ('su', 'ta'): True,   # "I will walk before I walk" (future before present - can be logical)
                     ('su', 'su'): True,   # "I will walk before I will run" (future sequence)
                 },
                 'logic': 'Before-clauses establish temporal precedence relationships'

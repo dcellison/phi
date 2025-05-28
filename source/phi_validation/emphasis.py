@@ -285,6 +285,47 @@ class EmphasisValidator:
                 ))
                 return errors
         
+        # Special handling for POS markers (na, si) - they're valid when followed by noun phrases
+        if immediate_target in ['na', 'si']:
+            if position + 2 < len(tokens):
+                # Check if followed by animacy + noun or just noun
+                following_word = tokens[position + 2]
+                following_type = self._identify_word_type(following_word)
+                if following_type == 'noun':
+                    # Valid: ma + na/si + noun (emphasizes the noun phrase)
+                    return errors
+                elif following_word in ['he', 'pi', 'ne'] and position + 3 < len(tokens):
+                    # Check for ma + na/si + animacy + noun pattern
+                    noun_word = tokens[position + 3]
+                    noun_type = self._identify_word_type(noun_word)
+                    if noun_type == 'noun':
+                        # Valid: ma + na/si + animacy + noun (emphasizes the noun phrase)
+                        return errors
+                    else:
+                        errors.append(SentenceValidationError(
+                            SentenceError.EMPHASIS_SCOPE_ERROR,
+                            f"Emphasis on POS marker '{immediate_target}' with animacy marker not followed by noun",
+                            position=position,
+                            word=f"ma+{immediate_target}"
+                        ))
+                        return errors
+                else:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EMPHASIS_SCOPE_ERROR,
+                        f"Emphasis on POS marker '{immediate_target}' not followed by noun phrase",
+                        position=position,
+                        word=f"ma+{immediate_target}"
+                    ))
+                    return errors
+            else:
+                errors.append(SentenceValidationError(
+                    SentenceError.EMPHASIS_SCOPE_ERROR,
+                    f"Emphasis on POS marker '{immediate_target}' incomplete - missing target noun phrase",
+                    position=position,
+                    word=f"ma+{immediate_target}"
+                ))
+                return errors
+        
         # Special handling for derivational particles
         if immediate_target in ['se', 'ra']:
             if position + 2 < len(tokens):
@@ -390,6 +431,47 @@ class EmphasisValidator:
                 errors.append(SentenceValidationError(
                     SentenceError.EMPHASIS_SCOPE_ERROR,
                     f"Emphasis on animacy marker '{target_word}' incomplete - missing target noun",
+                    position=position,
+                    word=f"ma+{target_word}"
+                ))
+                return errors
+        
+        # Special handling for POS markers (na, si) - they're valid targets when followed by noun phrases
+        if target_word in ['na', 'si']:
+            # Check if POS marker is followed by a noun phrase
+            if position + 2 < len(tokens):
+                following_word = tokens[position + 2]
+                following_type = self._identify_word_type(following_word)
+                if following_type == 'noun':
+                    # Valid: ma + na/si + noun (emphasizes the noun phrase)
+                    return errors
+                elif following_word in ['he', 'pi', 'ne'] and position + 3 < len(tokens):
+                    # Check for ma + na/si + animacy + noun pattern
+                    noun_word = tokens[position + 3]
+                    noun_type = self._identify_word_type(noun_word)
+                    if noun_type == 'noun':
+                        # Valid: ma + na/si + animacy + noun (emphasizes the noun phrase)
+                        return errors
+                    else:
+                        errors.append(SentenceValidationError(
+                            SentenceError.EMPHASIS_SCOPE_ERROR,
+                            f"Emphasis on POS marker '{target_word}' with animacy marker not followed by noun",
+                            position=position,
+                            word=f"ma+{target_word}"
+                        ))
+                        return errors
+                else:
+                    errors.append(SentenceValidationError(
+                        SentenceError.EMPHASIS_SCOPE_ERROR,
+                        f"Emphasis on POS marker '{target_word}' not followed by noun phrase",
+                        position=position,
+                        word=f"ma+{target_word}"
+                    ))
+                    return errors
+            else:
+                errors.append(SentenceValidationError(
+                    SentenceError.EMPHASIS_SCOPE_ERROR,
+                    f"Emphasis on POS marker '{target_word}' incomplete - missing target noun phrase",
                     position=position,
                     word=f"ma+{target_word}"
                 ))
