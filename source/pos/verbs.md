@@ -134,7 +134,7 @@ spoken forms.
 | phi word | english translation |
 | -------- | ------------------- |
 | whahi | become |
-| thihi    | be (exist)          |
+| thilu    | be (exist)          |
 | phela    | die                 |
 | showi    | grow old            |
 | phuho    | happen              |

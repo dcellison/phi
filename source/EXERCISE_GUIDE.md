@@ -137,13 +137,13 @@ Commands:
   !run all - run all test categories
   !help - show this help
 
-phi> mia ta thihi
-Sentence: 'mia ta thihi'
+phi> mia ta thilu
+Sentence: 'mia ta thilu'
 Valid: ✅ YES
 No errors detected!
 
-phi> ma ma mia ta thihi
-Sentence: 'ma ma mia ta thihi'
+phi> ma ma mia ta thilu
+Sentence: 'ma ma mia ta thilu'
 Valid: ❌ NO
 Errors (2):
   - emphasis_scope_error: Emphasis particle 'ma' cannot target particle 'ma'
@@ -175,11 +175,11 @@ python3 exercise_validator.py --all --save results.json
 
 ### Test Output Format
 ```
-✅ 'mia ta thihi'
+✅ 'mia ta thilu'
    Description: I present be
    Expected: VALID, Got: VALID
 
-❌ 'ma ma mia ta thihi'
+❌ 'ma ma mia ta thilu'
    Description: double emphasis I present walk
    Expected: INVALID, Got: INVALID
    Errors: 2
@@ -209,16 +209,16 @@ Overall accuracy: 96.7%
 
 **Level 1: Basic Sentences**
 ```
-mia ta thihi          # I present be
+mia ta thilu          # I present be
 thi ta shola          # you present walk
 sha ta whumi          # they present run
 ```
 
 **Level 2: Single Particles**
 ```
-so mia ta thihi       # politeness I present be
+so mia ta thilu       # politeness I present be
 hi mia ta shola       # direct-evidence I present walk
-ma mia ta thihi       # emphasis I present be
+ma mia ta thilu       # emphasis I present be
 ```
 
 **Level 3: Multiple Particles**
@@ -230,7 +230,7 @@ so ma he thephoa ta shola    # politeness emphasis human person present walk
 **Level 4: Complex Constructions**
 ```
 hi so ma he thephoa ta we shola    # evidence politeness emphasis human person present perfective walk
-nu so ha he thephoa mi ta shola ta thihi    # hearsay politeness topic human person contrast present walk present be
+nu so ha he thephoa mi ta shola ta thilu    # hearsay politeness topic human person contrast present walk present be
 ```
 
 ### Error Detection Testing
@@ -238,7 +238,7 @@ nu so ha he thephoa mi ta shola ta thihi    # hearsay politeness topic human per
 invalidword ta shola     # Unknown word
 mia ta ta shola         # Double tense
 hi nu mia ta shola      # Conflicting evidentiality
-ma ma mia ta thihi      # Double emphasis
+ma ma mia ta thilu      # Double emphasis
 ```
 
 ## Advanced Features

@@ -31,7 +31,7 @@ class SentenceExerciser:
         return {
             # Basic sentence structures with varied vocabulary
             "basic_sentences": [
-                ("mia ta thihi", "I present be", True),
+                ("mia ta thilu", "I present be", True),
                 ("thi ta whemo", "you present think", True),
                 ("sha ta whuni", "they present have", True),
                 ("he thephoa ta phoni", "human person present live", True),
@@ -39,12 +39,11 @@ class SentenceExerciser:
                 ("ne lowhai ta riphe phera", "inanimate answer present important is", True),
                 ("mia li whera", "I past learn", True),
                 ("thi su whesa", "you future create", True),
-                # Additional basic sentences
                 ("sha li phoni", "they past live", True),
                 ("he thephoa su whemo", "human person future think", True),
                 ("pi mathai ta phewa", "animate cat present feel", True),
                 ("ne whethea ta misha phera", "inanimate book present beautiful is", True),
-                ("mia su thihi", "I future be", True),
+                ("mia su thilu", "I future be", True),
                 ("thi li whuni", "you past have", True),
                 ("he nowhea ta whera", "human teacher present learn", True),
                 ("pi lophea ta phoni", "animate bird present live", True),
@@ -60,7 +59,6 @@ class SentenceExerciser:
                 ("sha na ne waphe ta phewa", "they object inanimate warm present feel", True),
                 ("he nowhea ta sheme", "human teacher present teach", True),
                 ("pi saphoa ta whale", "animate snake present flow", True),
-                # Additional vocabulary showcase
                 ("he luphea na ne nuthea ta whesa", "human artist object inanimate sculpture present create", True),
                 ("pi whithea na ne roshai ta whona", "animate dove object inanimate flower present look", True),
                 ("ne mothao ta tophe phera", "inanimate cloud present large is", True),
@@ -81,7 +79,6 @@ class SentenceExerciser:
                 ("ne liphai ta pholi", "inanimate tree present grow", True),
                 ("pi mathai na pi whithea ta shosa", "animate cat object animate dove present watch", True),
                 ("ne shuwhia ta miwhi phera", "inanimate sand present fresh is", True),
-                # Additional natural world
                 ("ne mothao ta whuru", "inanimate cloud present blow", True),
                 ("pi saphoa na ne loshea ta whale", "animate snake object inanimate ocean present flow", True),
                 ("ne roshai ta hesha phera", "inanimate flower present delicious is", True),
@@ -102,7 +99,6 @@ class SentenceExerciser:
                 ("he hathai na ne thaphao ta whari", "human musician object inanimate song present sing", True),
                 ("he luphea na ne nuthea ta whesa", "human artist object inanimate sculpture present create", True),
                 ("he thephoa na he luthea ta whoso", "human person object human friend present marry", True),
-                # Additional human activities
                 ("he nowhea na ne nushui ta sheme", "human teacher object inanimate language present teach", True),
                 ("he thephoa na ne luthia ta shele", "human person object inanimate letter present send", True),
                 ("he phiphea na ne mophui ta whuwa", "human child object inanimate ball present throw", True),
@@ -121,7 +117,6 @@ class SentenceExerciser:
                 ("hi ma mia na ne mipho lowhai ta whona", "evidence emphasis I object inanimate blue answer present look", True),
                 ("wa so he thephoa na ne phuphai ta whuni", "question politeness human person object inanimate medicine present have", True),
                 ("mu ma thi na ne nushui li whera", "memory emphasis you object inanimate language past learn", True),
-                # Additional complex particles
                 ("ti so ma he nowhea ta sheme", "reported politeness emphasis human teacher present teach", True),
                 ("pe ma sha na ne lophui su whesa", "presumption emphasis they object inanimate art future create", True),
                 ("hi ro ma mia ta whemo", "evidence inference emphasis I present think", True),
@@ -139,7 +134,6 @@ class SentenceExerciser:
                 ("he phiphea na ne mophui ta whuwa", "human child object inanimate ball present throw", True),
                 ("pi mathai na ne liwhai ta shire", "animate cat object inanimate drink present want", True),
                 ("he thephoa na ne tuphai ta shiho", "human person object inanimate cup present buy", True),
-                # Additional word order variations
                 ("sha na ne nuthea ta whesa", "they object inanimate sculpture present create", True),
                 ("mia na ne thaphao ta whari", "I object inanimate song present sing", True),
                 ("thi na ne hiwhea ta shuni", "you object inanimate house present build", True),
@@ -159,14 +153,13 @@ class SentenceExerciser:
                 ("ne raoshea su po shine", "inanimate sun future inchoative seem", True),
                 ("he nowhea ta wi sheme", "human teacher present iterative teach", True),
                 ("mia na ne raoshea li wu whona", "I object inanimate sun past experiential look", True),
-                # Additional temporal constructions
                 ("thi na ne whethea su we whupi", "you object inanimate book future perfective read", True),
                 ("he thephoa ta la phoni", "human person present progressive live", True),
                 ("sha na ne noshea li pu theso", "they object inanimate food past cessative cook", True),
                 ("pi mathai su po whuwe", "animate cat future inchoative sleep", True),
                 ("mia ta ri whemo", "I present imperfective think", True),
                 ("he nowhea na ne nushui li wu sheme", "human teacher object inanimate language past experiential teach", True),
-                ("thi su ni thihi", "you future perfect be", True),
+                ("thi su ni thilu", "you future perfect be", True),
                 ("pi lophea li we whari", "animate bird past perfective sing", True),
             ],
             
@@ -179,7 +172,6 @@ class SentenceExerciser:
                 ("wetu ne lashea ta whale thi su phite", "if inanimate rain present flow you future stay", True),
                 ("he nowhea na he phiphea ru sheme", "human teacher object human child must teach", True),
                 ("mia na ne noshea ru whuni", "I object inanimate food must have", True),
-                # Additional modal constructions
                 ("thi ru whemo", "you must think", True),
                 ("he thephoa na ne whethea we te whupi", "human person object inanimate book want to read", True),
                 ("sha to phoni", "they imperative live", True),
@@ -198,7 +190,6 @@ class SentenceExerciser:
                 ("mu mia na ne raoshea li whona", "memory I object inanimate sun past look", True),
                 ("pe ne lashea su whale", "presumption inanimate rain future flow", True),
                 ("hi ro ne lowhai ta riphe", "direct inference inanimate answer present important", False),  # conflict
-                # Additional evidentiality contexts
                 ("nu he thephoa ta whemo", "hearsay human person present think", True),
                 ("ti mia li shuso thi ta whera", "reported I past say you present learn", True),
                 ("mu he phiphea li whera", "memory human child past learn", True),
@@ -217,7 +208,6 @@ class SentenceExerciser:
                 ("he thephoa ta se hashia", "human person present use-as-hammer", True),
                 ("ra whemo ta riphe phera", "thinking present important is", True),
                 ("mia ta se ra whesa", "I present use-as creating", False),  # double derivation
-                # Additional derivational constructions
                 ("sha ta se mophui", "they present use-as-ball", True),
                 ("ra sheme ta riphe phera", "teaching present important is", True),
                 ("he nowhea ta se whethea", "human teacher present use-as-book", True),
@@ -236,25 +226,23 @@ class SentenceExerciser:
                 ("ma mipho lowhai ta riphe phera", "emphasis blue answer present important is", True),
                 ("ma ma mia ta whemo", "double emphasis I present think", False),  # double emphasis
                 ("ma", "emphasis alone", False),  # no target
-                # Additional emphasis constructions
                 ("ma thi ta whera", "emphasis you present learn", True),
                 ("sha na ne noshea ta ma theso", "they object inanimate food present emphasis cook", True),
                 ("ma ne raoshea ta shine", "emphasis inanimate sun present seem", True),
                 ("he nowhea ma na ne nushui ta sheme", "human teacher emphasis object inanimate language present teach", True),
                 ("ma pi mathai ta whuwe", "emphasis animate cat present sleep", True),
-                ("mia ta ma thihi", "I present emphasis be", True),
+                ("mia ta ma thilu", "I present emphasis be", True),
                 ("ma wetu mia ta whemo", "emphasis if I present think", False),  # emphasis on conjunction
             ],
             
             # Politeness in appropriate contexts
             "politeness_contexts": [
-                ("so mia ta thihi", "politeness I present be", True),
+                ("so mia ta thilu", "politeness I present be", True),
                 ("so thi na ne lowhai to whesa", "politeness you object inanimate answer imperative create", True),
                 ("so ru whera", "politeness must learn", True),
                 ("hi so he thephoa ta phoni", "evidence politeness human person present live", True),
                 ("wa so he thephoa na ne phuphai ta whuni", "question politeness human person object inanimate medicine present have", True),
                 ("so hi mia ta whemo", "politeness evidence I present think", False),  # wrong order
-                # Additional politeness contexts
                 ("so he nowhea ta sheme", "politeness human teacher present teach", True),
                 ("so thi ru whera", "politeness you must learn", True),
                 ("so mia na ne whethea ta whupi", "politeness I object inanimate book present read", True),
@@ -271,11 +259,10 @@ class SentenceExerciser:
                 ("ha ne lowhai ta riphe phera mi sha ta miphe phera", "topic inanimate answer present important is contrast they present empty are", True),
                 ("mi mia ta whemo", "contrast I present think", False),  # contrast without context
                 ("ha mi mia ta whemo", "topic contrast I present think", True),
-                # Additional discourse structures
                 ("ha thi ta whera", "topic you present learn", True),
                 ("he thephoa ta phoni mi sha ta whemo", "human person present live contrast they present think", True),
                 ("ha ne raoshea ta shine", "topic inanimate sun present seem", True),
-                ("mia ta thihi mi thi ta whuni", "I present be contrast you present have", True),
+                ("mia ta thilu mi thi ta whuni", "I present be contrast you present have", True),
                 ("ha pi mathai ta whuwe", "topic animate cat present sleep", True),
                 ("ha ha mia ta whemo", "topic topic I present think", False),  # double topic
             ],
@@ -289,7 +276,6 @@ class SentenceExerciser:
                 ("wulime he nowhea ta phoni", "where human teacher present live", True),
                 ("wa hamite mia ta whera", "question how I present learn", False),  # wa + wh conflict
                 ("wa he thephoa ru whera", "question human person must learn", True),  # rhetorical
-                # Additional interrogative structures
                 ("wa thi ta whemo", "question you present think", True),
                 ("hamite sha ta whesa", "how they present create", True),
                 ("wamine pi mathai ta whuwe", "why animate cat present sleep", True),
@@ -307,7 +293,6 @@ class SentenceExerciser:
                 ("he thephoa lu ta whemo riphe phera", "person who present think important is", True),
                 ("mia li whera pimo thi ta sheme", "I past learn before you present teach", True),  # learning before teaching is valid
                 ("he thephoa su whesa matu thi li whuni", "human person future create after you past have", False),  # temporal logic error
-                # Additional narrative sequences
                 ("thi li sheme pimo mia ta whera", "you past teach before I present learn", True),
                 ("he nowhea ta sheme wane pi lophea ta whari", "human teacher present teach when animate bird present sing", True),
                 ("mia su whesa matu ne raoshea ta shine", "I future create after inanimate sun present seem", True),
@@ -323,12 +308,11 @@ class SentenceExerciser:
                 ("nu ha so he nowhea na ne nushui ta sheme", "hearsay topic politeness human teacher object inanimate language present teach", True),
                 ("ro ma mia na ne lathia ta shero", "inference emphasis I object inanimate axe present carry", True),
                 ("wa hi so ma he thephoa ta ru whera", "question evidence politeness emphasis human person present must learn", True),
-                # Additional complex sentences
                 ("ti so ma thi na ne whethea li we whupi", "reported politeness emphasis you object inanimate book past perfective read", True),
                 ("mu ha so he phiphea ta la whera", "memory topic politeness human child present progressive learn", True),
                 ("pe so ma sha na ne noshea su ni theso", "presumption politeness emphasis they object inanimate food future perfect cook", True),
                 ("hi ma he nowhea ta ri sheme", "evidence emphasis human teacher present imperfective teach", True),
-                ("ro so ma mia ta we thihi", "inference politeness emphasis I present perfective be", True),
+                ("ro so ma mia ta we thilu", "inference politeness emphasis I present perfective be", True),
             ],
             
             # Semantic role validation
@@ -340,7 +324,6 @@ class SentenceExerciser:
                 ("pi lophea ne liwhai na ta shire", "animate bird inanimate drink object present want", True),
                 ("ne lowhai he thephoa na ta whemo", "inanimate answer human person object present think", False),  # animacy mismatch
                 ("pi mathai ta shuni", "animate cat present build", False),  # verb requires human subject
-                # Additional semantic role validation
                 ("he nowhea ta sheme", "human teacher present teach", True),
                 ("pi whithea ta whawi", "animate dove present fly", True),
                 ("ne raoshea ta shine", "inanimate sun present seem", True),
@@ -354,13 +337,12 @@ class SentenceExerciser:
             "error_cases": [
                 ("invalidword ta whemo", "unknown word", False),
                 ("mia ta ta whemo", "double tense", False),
-                ("mia whemo ta thihi", "verb not at end", False),
+                ("mia whemo ta thilu", "verb not at end", False),
                 ("ta whemo mia", "wrong word order", False),
                 ("mia li su whemo", "conflicting tenses", False),
                 ("hi nu mia ta whemo", "conflicting evidentiality", False),
                 ("ma wa mia ta whemo", "emphasis on question particle", False),
                 ("so hi mia ta whemo", "wrong particle order", False),
-                # Additional error cases
                 ("mia mia mia ta whemo", "triple pronoun", False),
                 ("he he he thephoa ta whemo", "triple animacy", False),
                 ("ta ta ta whemo", "triple tense", False),
@@ -381,8 +363,7 @@ class SentenceExerciser:
                 ("ma ma ma mia ta whemo", "triple emphasis", False),
                 ("so so mia ta whemo", "double politeness", False),
                 ("ne lowhai", "noun phrase only", False),  # incomplete sentence
-                ("ta thihi", "present be", True),  # valid existential
-                # Additional edge cases
+                ("ta thilu", "present be", True),  # valid existential
                 ("mia", "single pronoun", False),
                 ("he thephoa", "incomplete noun phrase", False),
                 ("na ne whethea", "object without verb", False),
@@ -401,7 +382,6 @@ class SentenceExerciser:
                 ("ne sathia mothao ta shine", "inanimate white cloud present seem", True),
                 ("pi mathai ne waphe na ta phewa", "animate cat inanimate warm object present feel", True),
                 ("ne tupha whethea ta hesha", "inanimate purple book present delicious", False),  # semantic mismatch
-                # Additional descriptive language
                 ("ne laphe raoshea ta waphe phera", "inanimate red sun present warm is", True),
                 ("he thephoa ne mipho tuphai na ta shiho", "human person inanimate blue cup object present buy", True),
                 ("pi mathai ne hashe na ta phewa", "animate cat inanimate green object present feel", True),
@@ -418,7 +398,6 @@ class SentenceExerciser:
                 ("he thephoa na ne wushia ta whuri", "human person object inanimate market present work", True),
                 ("he raushai na he lushai ta phasu", "human leader object human group present lead", True),
                 ("he thephoa na ne phuthui ta shota", "human person object inanimate document present document", True),
-                # Additional professional contexts
                 ("he luphea na ne whethea ta whesa", "human artist object inanimate book present create", True),
                 ("he hathai na ne nushui ta whera", "human musician object inanimate language present learn", True),
                 ("he nowhea na ne lophui ta sheme", "human teacher object inanimate art present teach", True),

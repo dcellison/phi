@@ -858,7 +858,7 @@ tags:
 | thiena | determiner | any |
 | thienu | determiner | same |
 | thiepu | determiner | every |
-| thihi | verb | be (exist) |
+| thilu | verb | be (exist) |
 | thima | verb | include |
 | thio | preposition | by |
 | thiphai | noun | month |
@@ -1261,7 +1261,7 @@ tags:
 | bark | lithio | noun |
 | basket | pashui | noun |
 | bay | whiethea | noun |
-| be (exist) | thihi | verb |
+| be (exist) | thilu | verb |
 | be born | shawu | verb |
 | beauty | miwheo | noun |
 | because | renu | conjunction |

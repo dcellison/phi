@@ -181,10 +181,10 @@ class WordOrderValidator:
                 
                 # If we have tense/aspect particles but no subject, it's likely missing a subject
                 if has_slot_1_particles and not non_verb_content:
-                    # Exception: copula 'thihi' can work without explicit subject
+                    # Exception: copula 'thilu' can work without explicit subject
                     # Exception: imperative 'to' and obligation 'ru' can work without explicit subject
                     has_imperative_mood = any(token in ['to', 'ru'] for token in tokens)
-                    if verb_word != 'thihi' and not has_imperative_mood:
+                    if verb_word != 'thilu' and not has_imperative_mood:
                         errors.append(SentenceValidationError(
                             SentenceError.MISSING_VERB,
                             f"Missing subject: tense/aspect particles require explicit subject",

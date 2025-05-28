@@ -92,10 +92,10 @@ The test suite covers:
 
 ### Valid Sentences
 ```python
-'mia ta thihi'                    # I present be
+'mia ta thilu'                    # I present be
 'hi so he thephoa ta shola'       # direct-evidence politeness human person present walk
 'wa mia ta shola'                 # question I present walk
-'ma mia ta thihi'                 # emphasis I present be
+'ma mia ta thilu'                 # emphasis I present be
 ```
 
 ### Invalid Constructions

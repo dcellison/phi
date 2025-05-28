@@ -11,18 +11,26 @@ from pathlib import Path
 from typing import Dict, List, Set, Tuple, Optional
 import shutil
 from datetime import datetime
+import random
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from phi_validator import PhiValidator
+from phi_lexicon_reader import PhiLexiconReader
 
 class PhiWordReplacer:
     """Systematic word replacement tool for Phi language files."""
     
     def __init__(self, backup_dir: str = "backups"):
         self.validator = PhiValidator()
+        self.lexicon_reader = PhiLexiconReader()
+        self.lexicon = {}
         self.backup_dir = Path(backup_dir)
         self.backup_dir.mkdir(exist_ok=True)
+        
+        # Load authoritative lexicon
+        print("📚 Loading authoritative lexicon...")
+        self.lexicon = self.lexicon_reader.read_lexicon()
         
         # Files to search and replace in
         self.target_directories = [
@@ -44,12 +52,12 @@ class PhiWordReplacer:
         """Validate that the new word follows Phi phonotactic rules."""
         errors = []
         
-        # Check if old word exists
-        if not self._word_exists_in_lexicon(old_word):
+        # Check if old word exists using authoritative lexicon
+        if not self.lexicon_reader.word_exists(old_word):
             errors.append(f"Warning: '{old_word}' not found in lexicon")
         
-        # Check if new word already exists
-        if self._word_exists_in_lexicon(new_word):
+        # Check if new word already exists using authoritative lexicon
+        if self.lexicon_reader.word_exists(new_word):
             errors.append(f"Error: '{new_word}' already exists in lexicon")
         
         # Validate phonotactics of new word
@@ -70,21 +78,6 @@ class PhiWordReplacer:
         
         return len([e for e in errors if e.startswith("Error:")]) == 0, errors
     
-    def _word_exists_in_lexicon(self, word: str) -> bool:
-        """Check if a word exists in the current lexicon."""
-        for pos_file in Path("pos").glob("*.md"):
-            try:
-                with open(pos_file, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                
-                # Look for word in table format
-                pattern = rf'\|\s*{re.escape(word)}\s*\|'
-                if re.search(pattern, content):
-                    return True
-            except Exception:
-                continue
-        return False
-    
     def create_backup(self) -> str:
         """Create a timestamped backup of all relevant files."""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -97,14 +90,18 @@ class PhiWordReplacer:
         for target_dir in self.target_directories:
             if target_dir.exists():
                 if target_dir.name == ".":
-                    # Backup specific files from current directory
+                    # Backup specific files from current directory, excluding backups
                     for pattern in self.file_patterns:
                         for file_path in Path(".").glob(pattern):
-                            if file_path.is_file() and not file_path.name.startswith('.'):
+                            if (file_path.is_file() and 
+                                not file_path.name.startswith('.') and
+                                not str(file_path).startswith('backups/')):
                                 dest = backup_path / file_path.name
                                 shutil.copy2(file_path, dest)
                 else:
-                    # Backup entire directory
+                    # Backup entire directory, but skip backups directory
+                    if target_dir.name == "backups":
+                        continue
                     dest = backup_path / target_dir.name
                     if target_dir.is_dir():
                         shutil.copytree(target_dir, dest, dirs_exist_ok=True)
@@ -121,11 +118,18 @@ class PhiWordReplacer:
             if not target_dir.exists():
                 continue
                 
+            # Skip backups directory entirely
+            if target_dir.name == "backups":
+                continue
+                
             if target_dir.name == ".":
                 # Search specific files in current directory
                 search_files = []
                 for pattern in self.file_patterns:
-                    search_files.extend(Path(".").glob(pattern))
+                    for file_path in Path(".").glob(pattern):
+                        # Exclude files in backups directory
+                        if not str(file_path).startswith('backups/'):
+                            search_files.append(file_path)
             else:
                 # Search all files in directory
                 search_files = []
@@ -134,6 +138,10 @@ class PhiWordReplacer:
         
             for file_path in search_files:
                 if not file_path.is_file():
+                    continue
+                    
+                # Double-check to exclude backup files
+                if str(file_path).startswith('backups/'):
                     continue
                     
                 try:
@@ -277,7 +285,7 @@ class PhiWordReplacer:
             'changes_made': self.changes_made
         }
     
-    def suggest_alternatives(self, pos: str, meaning: str = None) -> List[str]:
+    def suggest_alternatives(self, pos: str, meaning: str = None, count: int = 8) -> List[str]:
         """Suggest alternative words that follow phonotactic patterns."""
         suggestions = []
         
@@ -296,33 +304,102 @@ class PhiWordReplacer:
             'number': {'start': 'fricative', 'pattern': '[F][V] or [F][V][F][V]'},
         }
         
-        if pos in patterns:
-            pattern_info = patterns[pos]
-            print(f"\n💡 Suggestions for {pos} (pattern: {pattern_info['pattern']}):")
+        if pos not in patterns:
+            return suggestions
             
-            # Generate some example patterns
-            fricatives = ['ph', 'wh', 'th', 'sh']
-            consonants = ['h', 'l', 'm', 'n', 'p', 'r', 's', 't', 'w']
-            vowels = ['i', 'u', 'e', 'o', 'a']
-            
-            if pos == 'verb':
-                for f in fricatives[:2]:
-                    for v1 in vowels[:2]:
-                        for c in consonants[:2]:
-                            for v2 in vowels[:2]:
-                                suggestion = f + v1 + c + v2
-                                if not self._word_exists_in_lexicon(suggestion):
-                                    suggestions.append(suggestion)
-                                    if len(suggestions) >= 5:
-                                        break
-                            if len(suggestions) >= 5:
-                                break
-                        if len(suggestions) >= 5:
-                            break
-                    if len(suggestions) >= 5:
-                        break
+        pattern_info = patterns[pos]
         
-        return suggestions[:5]
+        # Define phoneme sets
+        fricatives = ['ph', 'wh', 'th', 'sh']
+        consonants = ['h', 'l', 'm', 'n', 'p', 'r', 's', 't', 'w']
+        vowels = ['i', 'u', 'e', 'o', 'a']
+        vowel_pairs = ['ai', 'au', 'ei', 'eu', 'io', 'iu', 'oa', 'oe', 'ua', 'ue']
+        
+        # Generate candidates based on POS pattern
+        candidates = []
+        
+        if pos == 'verb':  # [F][V][C][V]
+            for f in fricatives:
+                for v1 in vowels:
+                    for c in consonants:
+                        for v2 in vowels:
+                            candidate = f + v1 + c + v2
+                            if not self.lexicon_reader.word_exists(candidate):
+                                candidates.append(candidate)
+        
+        elif pos == 'adjective':  # [C][V][F][V]
+            for c in consonants:
+                for v1 in vowels:
+                    for f in fricatives:
+                        for v2 in vowels:
+                            candidate = c + v1 + f + v2
+                            if not self.lexicon_reader.word_exists(candidate):
+                                candidates.append(candidate)
+        
+        elif pos == 'noun':  # [C/F][V/P][F][P]
+            # Consonant start variants
+            for c in consonants:
+                for v in vowels + vowel_pairs:
+                    for f in fricatives:
+                        for p in vowel_pairs:
+                            candidate = c + v + f + p
+                            if not self.lexicon_reader.word_exists(candidate):
+                                candidates.append(candidate)
+            # Fricative start variants
+            for f1 in fricatives:
+                for v in vowels + vowel_pairs:
+                    for f2 in fricatives:
+                        for p in vowel_pairs:
+                            candidate = f1 + v + f2 + p
+                            if not self.lexicon_reader.word_exists(candidate):
+                                candidates.append(candidate)
+        
+        elif pos == 'particle':  # [C][V]
+            for c in consonants:
+                for v in vowels:
+                    candidate = c + v
+                    if not self.lexicon_reader.word_exists(candidate):
+                        candidates.append(candidate)
+        
+        elif pos == 'preposition':  # [F][P]
+            for f in fricatives:
+                for p in vowel_pairs:
+                    candidate = f + p
+                    if not self.lexicon_reader.word_exists(candidate):
+                        candidates.append(candidate)
+        
+        elif pos == 'adverb':  # [C][V][C][V][C][V]
+            for c1 in consonants[:3]:  # Limit to avoid too many combinations
+                for v1 in vowels[:3]:
+                    for c2 in consonants[:3]:
+                        for v2 in vowels[:3]:
+                            for c3 in consonants[:3]:
+                                for v3 in vowels[:3]:
+                                    candidate = c1 + v1 + c2 + v2 + c3 + v3
+                                    if not self.lexicon_reader.word_exists(candidate):
+                                        candidates.append(candidate)
+        
+        # Sample diverse suggestions from candidates
+        if candidates:
+            # Shuffle to get random distribution
+            random.shuffle(candidates)
+            
+            # Try to get diverse suggestions by sampling from different parts
+            if len(candidates) > count * 3:
+                # Sample from different sections to ensure diversity
+                section_size = len(candidates) // count
+                for i in range(count):
+                    start_idx = i * section_size
+                    end_idx = min(start_idx + section_size, len(candidates))
+                    if start_idx < len(candidates):
+                        section_candidates = candidates[start_idx:end_idx]
+                        if section_candidates:
+                            suggestions.append(random.choice(section_candidates))
+            else:
+                # Just take the first available candidates
+                suggestions = candidates[:count]
+        
+        return suggestions[:count]
     
     def generate_report(self, result: Dict) -> str:
         """Generate a detailed report of the replacement operation."""
@@ -366,15 +443,10 @@ def main():
     print("Replace words systematically across all Phi files")
     print()
     
-    # Get user input
+    # Get old word and POS first
     old_word = input("Enter the word to replace: ").strip().lower()
     if not old_word:
         print("❌ No word provided")
-        return
-    
-    new_word = input("Enter the new word: ").strip().lower()
-    if not new_word:
-        print("❌ No new word provided")
         return
     
     pos = input("Enter the part of speech (verb/noun/adjective/etc.): ").strip().lower()
@@ -382,15 +454,65 @@ def main():
         print("❌ No part of speech provided")
         return
     
-    # Show suggestions if requested
-    show_suggestions = input("Show alternative suggestions? (y/n): ").strip().lower()
-    if show_suggestions == 'y':
+    # Show current usage of the word
+    print(f"\n🔍 Finding current occurrences of '{old_word}'...")
+    occurrences = replacer.find_word_occurrences(old_word)
+    
+    if occurrences:
+        print(f"📍 Found '{old_word}' in {len(occurrences)} files:")
+        total_occurrences = sum(len(file_occurrences) for file_occurrences in occurrences.values())
+        print(f"📊 Total occurrences: {total_occurrences}")
+        
+        # Show a few examples
+        shown_files = 0
+        for file_path, file_occurrences in occurrences.items():
+            if shown_files >= 3:
+                remaining_files = len(occurrences) - shown_files
+                if remaining_files > 0:
+                    print(f"  ... and {remaining_files} more files")
+                break
+            print(f"  {file_path}: {len(file_occurrences)} occurrences")
+            for line_num, line in file_occurrences[:1]:  # Show just one example per file
+                print(f"    Line {line_num}: {line[:70]}{'...' if len(line) > 70 else ''}")
+            shown_files += 1
+    else:
+        print(f"❌ No occurrences of '{old_word}' found")
+        return
+    
+    # Show suggestions
+    print(f"\n💡 Suggestions for {pos} replacements:")
+    patterns = {
+        'verb': '[F][V][C][V]',
+        'noun': '[C/F][V/P][F][P]',
+        'adjective': '[C][V][F][V]',
+        'adverb': '[C][V][C][V][C][V]',
+        'particle': '[C][V]',
+        'preposition': '[F][P]',
+        'determiner': '[F][P][C][V]',
+        'classifier': '[C][P]',
+        'conjunction': '[C][V][C][V]',
+        'interjection': '[C][V][C][P]',
+        'number': '[F][V] or [F][V][F][V]',
+    }
+    
+    if pos in patterns:
+        print(f"Pattern: {patterns[pos]}")
         suggestions = replacer.suggest_alternatives(pos)
         if suggestions:
-            print(f"\n💡 Alternative suggestions for {pos}:")
             for i, suggestion in enumerate(suggestions, 1):
                 print(f"  {i}. {suggestion}")
-            print()
+        else:
+            print("  No available suggestions found")
+    else:
+        print(f"  Unknown POS '{pos}' - no pattern available")
+    
+    print()
+    
+    # Now ask for the new word
+    new_word = input("Enter the new word (or choose from suggestions above): ").strip().lower()
+    if not new_word:
+        print("❌ No new word provided")
+        return
     
     # Dry run first
     print("\n🔍 Running analysis (dry run)...")

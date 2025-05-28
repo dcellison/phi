@@ -533,7 +533,7 @@ tags:
 ### 12.3 existence and states
 
 **being and existence**
-- `thihi` (be/exist, verb), `phera` (is/state, verb), `phuho` (happen, verb)
+- `thilu` (be/exist, verb), `phera` (is/state, verb), `phuho` (happen, verb)
 - `phahi` (become, verb), `shine` (seem, verb)
 
 **possession and relationship**

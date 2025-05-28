@@ -13,18 +13,18 @@ def test_sov_validation():
     
     test_cases = [
         # Valid SOV sentences
-        ("mia ta thihi", "Valid: I am"),
+        ("mia ta thilu", "Valid: I am"),
         ("mia nuthui ta shata", "Valid: I throw stone (shata=throw)"),
         
         # Invalid SOV sentences  
-        ("thihi ta mia", "Invalid: verb before subject"),
+        ("thilu ta mia", "Invalid: verb before subject"),
         ("shata ta mia", "Invalid: verb before subject"),
         
         # Missing verb
         ("mia nuthui", "Invalid: missing verb"),
         
         # Multiple verbs
-        ("mia thihi shata", "Invalid: multiple verbs"),
+        ("mia thilu shata", "Invalid: multiple verbs"),
     ]
     
     for sentence, description in test_cases:

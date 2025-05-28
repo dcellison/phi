@@ -92,18 +92,18 @@ class TestPolitenessContext(unittest.TestCase):
     def test_politeness_with_direct_evidence(self):
         """Test politeness with direct evidence (hi)."""
         # Polite direct observation
-        result = self._validate_sentence("hi so lashea thihi")
+        result = self._validate_sentence("hi so lashea thilu")
         self.assertTrue(result['is_valid'], "Polite direct evidence should be valid")
         
         # Wrong order (so before hi)
-        result = self._validate_sentence("so hi lashea thihi")
+        result = self._validate_sentence("so hi lashea thilu")
         errors = self._get_errors_of_type(result, SentenceError.POLITENESS_EVIDENTIALITY_COMBINATION_ERROR)
         self.assertTrue(len(errors) > 0, "Should flag incorrect evidentiality-politeness order")
     
     def test_politeness_with_inference(self):
         """Test politeness with inference (ro)."""
         # Polite inference
-        result = self._validate_sentence("ro so lashea thihi")
+        result = self._validate_sentence("ro so lashea thilu")
         self.assertTrue(result['is_valid'], "Polite inference should be valid")
         
         # Deferential conclusion
@@ -117,7 +117,7 @@ class TestPolitenessContext(unittest.TestCase):
         self.assertTrue(result['is_valid'], "Polite hearsay should be valid")
         
         # Respectful transmission of information
-        result = self._validate_sentence("nu so misha thihi")
+        result = self._validate_sentence("nu so misha thilu")
         self.assertTrue(result['is_valid'], "Polite hearsay transmission should be valid")
     
     def test_politeness_with_reported_speech(self):
@@ -137,13 +137,13 @@ class TestPolitenessContext(unittest.TestCase):
         self.assertTrue(result['is_valid'], "Polite memory should be valid")
         
         # Respectful sharing of remembered information
-        result = self._validate_sentence("mu so misha li thihi")
+        result = self._validate_sentence("mu so misha li thilu")
         self.assertTrue(result['is_valid'], "Polite memory sharing should be valid")
     
     def test_politeness_with_presumption(self):
         """Test politeness with presumption (pe)."""
         # Polite presumption
-        result = self._validate_sentence("pe so mipho thihi")
+        result = self._validate_sentence("pe so mipho thilu")
         self.assertTrue(result['is_valid'], "Polite presumption should be valid")
         
         # Tentative suggestion
@@ -206,7 +206,7 @@ class TestPolitenessContext(unittest.TestCase):
     def test_politeness_showing_deference(self):
         """Test politeness for showing deference."""
         # Deferential statement
-        result = self._validate_sentence("so mia whemo whethui thihi misha")
+        result = self._validate_sentence("so mia whemo whethui thilu misha")
         self.assertTrue(result['is_valid'], "Politeness should show deference in statements")
         
         # Deferential question
@@ -261,7 +261,7 @@ class TestPolitenessContext(unittest.TestCase):
     def test_cultural_sensitivity_contexts(self):
         """Test politeness for cultural sensitivity."""
         # Cross-cultural communication
-        result = self._validate_sentence("so mia whemo thi thihi misha")
+        result = self._validate_sentence("so mia whemo thi thilu misha")
         self.assertTrue(result['is_valid'], "Politeness appropriate for cultural sensitivity")
         
         # International/neutral context
@@ -336,7 +336,7 @@ class TestPolitenessContext(unittest.TestCase):
     def test_politeness_without_main_content(self):
         """Test politeness particle without substantial content."""
         # Politeness with minimal content
-        result = self._validate_sentence("so thihi")
+        result = self._validate_sentence("so thilu")
         # Should be valid but minimal
         
         # Politeness with just particles
@@ -350,11 +350,11 @@ class TestPolitenessContext(unittest.TestCase):
     def test_evidentiality_pragmatic_nuances(self):
         """Test pragmatic nuances of evidentiality-politeness combinations."""
         # Direct evidence + politeness for obvious facts (may be inappropriate)
-        result = self._validate_sentence("hi so thihi lashea")
+        result = self._validate_sentence("hi so thilu lashea")
         # Might trigger pragmatic warning for obvious weather observation
         
         # Presumption + politeness for strong assumptions (inappropriate)
-        result = self._validate_sentence("pe so thihi mipho")
+        result = self._validate_sentence("pe so thilu mipho")
         # Might trigger warning for definitive statement with presumptive evidentiality
     
     def test_register_transition_validation(self):

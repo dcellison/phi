@@ -28,7 +28,7 @@ validator = PhiSentenceValidator()
 print("✅ Instantiation OK")
 
 print("3. Testing validation...")
-result = validator.validate_sentence("mia ta thihi")
+result = validator.validate_sentence("mia ta thilu")
 print(f"✅ Validation OK - Valid: {result['is_valid']}")
 
 print("4. Testing report generation...")

@@ -13,7 +13,7 @@ Usage:
     from phi_validation import PhiSentenceValidator
     
     validator = PhiSentenceValidator()
-    result = validator.validate_sentence("mia ta thihi")
+    result = validator.validate_sentence("mia ta thilu")
     print(validator.generate_report(result))
 """
 

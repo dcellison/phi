@@ -28,13 +28,13 @@ def demo_validation():
     
     # Test sentences
     test_sentences = [
-        "mia ta thihi",                    # Simple valid sentence
+        "mia ta thilu",                    # Simple valid sentence
         "hi so he thephoa ta shola",       # Complex valid sentence
         "wa mia ta shola",                 # Question
-        "ma mia ta thihi",                 # Emphasis
+        "ma mia ta thilu",                 # Emphasis
         "so ta to shola",                  # Polite command
         "invalidword ta shola",            # Unknown word
-        "ma ma mia ta thihi",              # Double emphasis error
+        "ma ma mia ta thilu",              # Double emphasis error
         "wa hamite mia ta shola"           # wa + wh conflict
     ]
     

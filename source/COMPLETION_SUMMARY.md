@@ -110,7 +110,7 @@ Successfully refactored the monolithic `phi_sentence_validator.py` (4,767 lines)
 from phi_validation.core import PhiSentenceValidator
 
 validator = PhiSentenceValidator()
-result = validator.validate_sentence('mia ta thihi')
+result = validator.validate_sentence('mia ta thilu')
 print(f"Valid: {result['is_valid']}")
 ```
 
@@ -121,7 +121,7 @@ result = validator.validate_sentence('hi so he thephoa ta shola')
 # → Valid: politeness + evidentiality + animacy + verb
 
 # Error detection
-result = validator.validate_sentence('ma ma mia ta thihi')
+result = validator.validate_sentence('ma ma mia ta thilu')
 # → Invalid: double emphasis error detected
 ```
 

@@ -26,33 +26,33 @@ def test_comprehensive_validation():
     # Test cases covering different validation aspects
     test_cases = [
         # Basic SOV validation
-        ("mia ta thihi", "Basic SOV: I am"),
+        ("mia ta thilu", "Basic SOV: I am"),
         ("mia nuthui ta shata", "SOV with object: I throw stone"),
         
         # Word order violations
-        ("thihi ta mia", "SOV violation: verb before subject"),
+        ("thilu ta mia", "SOV violation: verb before subject"),
         ("shata ta mia", "SOV violation: verb before subject"),
         
         # Missing/multiple verbs
         ("mia nuthui", "Missing verb"),
-        ("mia thihi shata", "Multiple verbs"),
+        ("mia thilu shata", "Multiple verbs"),
         
         # Particle ordering
-        ("mia li ta thihi", "Particle order: past before present"),
-        ("mia ta li thihi", "Correct particle order"),
+        ("mia li ta thilu", "Particle order: past before present"),
+        ("mia ta li thilu", "Correct particle order"),
         
         # Derivational particles
         ("mia ta se nuthui", "Derivational: se + noun"),
-        ("mia ta ra thihi", "Derivational: ra + verb"),
+        ("mia ta ra thilu", "Derivational: ra + verb"),
         
         # Emphasis particles
-        ("ma mia ta thihi", "Emphasis on subject"),
-        ("mia ma ta thihi", "Emphasis on tense"),
+        ("ma mia ta thilu", "Emphasis on subject"),
+        ("mia ma ta thilu", "Emphasis on tense"),
         
         # Complex sentences
         ("hi mia li shola", "Evidentiality + past tense"),
-        ("so mia ta thihi", "Politeness particle"),
-        ("ha mia mi thi ta thihi", "Discourse particles"),
+        ("so mia ta thilu", "Politeness particle"),
+        ("ha mia mi thi ta thilu", "Discourse particles"),
         
         # Unknown words
         ("mia ta invalidword", "Unknown word test"),

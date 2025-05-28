@@ -125,7 +125,7 @@ class TestWordOrderValidator(unittest.TestCase):
     
     def test_sov_violation(self):
         """Test SOV order violation."""
-        tokens = ['mia', 'shola', 'thihi']  # I walk be (multiple verbs, not proper SOV)
+        tokens = ['mia', 'shola', 'thilu']  # I walk be (multiple verbs, not proper SOV)
         errors = self.validator.validate_order(tokens)
         verb_errors = [e for e in errors if e.error_type in [SentenceError.WORD_ORDER, SentenceError.MULTIPLE_VERBS]]
         self.assertGreater(len(verb_errors), 0)
@@ -214,7 +214,7 @@ class TestSemanticRoleValidator(unittest.TestCase):
     
     def test_classifier_compatibility(self):
         """Test classifier compatibility."""
-        tokens = ['lea', 'lathia', 'ta', 'thihi']  # long-classifier axe present be
+        tokens = ['lea', 'lathia', 'ta', 'thilu']  # long-classifier axe present be
         errors = self.validator.validate_semantic_roles(tokens)
         classifier_errors = [e for e in errors if e.error_type == SentenceError.CLASSIFIER_INCOMPATIBILITY]
         self.assertEqual(len(classifier_errors), 0)
@@ -391,7 +391,7 @@ class TestPolitenessValidator(unittest.TestCase):
     
     def test_valid_politeness_context(self):
         """Test valid politeness context."""
-        tokens = ['so', 'mia', 'ta', 'thihi']  # politeness I present be
+        tokens = ['so', 'mia', 'ta', 'thilu']  # politeness I present be
         errors = self.validator.validate_politeness_context(tokens)
         politeness_errors = [e for e in errors if e.error_type.value.startswith('politeness')]
         self.assertEqual(len(politeness_errors), 0)
@@ -518,7 +518,7 @@ class TestNarrativeValidator(unittest.TestCase):
     
     def test_relative_clause_tense(self):
         """Test relative clause tense consistency."""
-        tokens = ['he', 'thephoa', 'mi', 'ta', 'shola', 'ta', 'thihi']  # person who present walk present be
+        tokens = ['he', 'thephoa', 'mi', 'ta', 'shola', 'ta', 'thilu']  # person who present walk present be
         errors = self.validator.validate_narrative_structure(tokens)
         relative_errors = [e for e in errors if e.error_type == SentenceError.RELATIVE_CLAUSE_TENSE_ERROR]
         self.assertEqual(len(relative_errors), 0)
@@ -542,10 +542,10 @@ class TestPhiSentenceValidatorIntegration(unittest.TestCase):
     
     def test_simple_valid_sentence(self):
         """Test a simple valid sentence."""
-        result = self.validator.validate_sentence('mia ta thihi')  # I present be
+        result = self.validator.validate_sentence('mia ta thilu')  # I present be
         self.assertTrue(result['is_valid'])
         self.assertEqual(len(result['errors']), 0)
-        self.assertEqual(result['tokens'], ['mia', 'ta', 'thihi'])
+        self.assertEqual(result['tokens'], ['mia', 'ta', 'thilu'])
     
     def test_complex_valid_sentence(self):
         """Test a complex valid sentence."""
@@ -582,7 +582,7 @@ class TestPhiSentenceValidatorIntegration(unittest.TestCase):
     
     def test_sentence_with_emphasis(self):
         """Test sentence with emphasis particle."""
-        result = self.validator.validate_sentence('ma mia ta thihi')  # emphasis I present be
+        result = self.validator.validate_sentence('ma mia ta thilu')  # emphasis I present be
         self.assertTrue(result['is_valid'])
         self.assertEqual(len(result['errors']), 0)
     
@@ -619,7 +619,7 @@ class TestPhiSentenceValidatorIntegration(unittest.TestCase):
     
     def test_report_generation(self):
         """Test validation report generation."""
-        result = self.validator.validate_sentence('mia ta thihi')
+        result = self.validator.validate_sentence('mia ta thilu')
         report = self.validator.generate_report(result)
         self.assertIsInstance(report, str)
         self.assertIn('PHI SENTENCE VALIDATION REPORT', report)
@@ -641,21 +641,21 @@ class TestErrorHandling(unittest.TestCase):
     
     def test_whitespace_handling(self):
         """Test handling of various whitespace patterns."""
-        result1 = self.validator.validate_sentence('  mia   ta   thihi  ')
-        result2 = self.validator.validate_sentence('mia ta thihi')
+        result1 = self.validator.validate_sentence('  mia   ta   thilu  ')
+        result2 = self.validator.validate_sentence('mia ta thilu')
         self.assertEqual(result1['tokens'], result2['tokens'])
         self.assertEqual(result1['is_valid'], result2['is_valid'])
     
     def test_punctuation_handling(self):
         """Test handling of punctuation."""
-        result = self.validator.validate_sentence('mia ta thihi.')
-        self.assertEqual(result['tokens'], ['mia', 'ta', 'thihi'])
+        result = self.validator.validate_sentence('mia ta thilu.')
+        self.assertEqual(result['tokens'], ['mia', 'ta', 'thilu'])
         self.assertTrue(result['is_valid'])
     
     def test_case_insensitivity(self):
         """Test case insensitive processing."""
-        result1 = self.validator.validate_sentence('MIA TA THIHI')
-        result2 = self.validator.validate_sentence('mia ta thihi')
+        result1 = self.validator.validate_sentence('MIA TA thilu')
+        result2 = self.validator.validate_sentence('mia ta thilu')
         self.assertEqual(result1['tokens'], result2['tokens'])
         self.assertEqual(result1['is_valid'], result2['is_valid'])
     
@@ -669,7 +669,7 @@ class TestErrorHandling(unittest.TestCase):
     
     def test_very_long_sentence(self):
         """Test handling of very long sentences."""
-        long_sentence = ' '.join(['mia', 'ta'] + ['ma'] * 10 + ['thihi'])
+        long_sentence = ' '.join(['mia', 'ta'] + ['ma'] * 10 + ['thilu'])
         result = self.validator.validate_sentence(long_sentence)
         # Should handle gracefully, though may have emphasis errors
         self.assertIsInstance(result, dict)
