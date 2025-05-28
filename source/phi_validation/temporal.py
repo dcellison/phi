@@ -99,7 +99,7 @@ class TemporalValidator:
         
         # Temporal adverb-tense compatibility
         self.temporal_adverb_tense = {
-            'hamite': ['ta'],  # now
+            'hamite': ['li', 'ta', 'su'],  # how (works with all tenses)
             'tapine': ['su'],  # soon
             'walime': ['li'],  # before
             'nolute': ['li'],  # already

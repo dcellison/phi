@@ -82,11 +82,37 @@ phi accomplishes pragmatic functions through systematic, explicit mechanisms:
 particles express functions often handled by pragmatic inference:
 
 - politeness: `so` (politeness marker)
-- uncertainty: `pe` (epistemic uncertainty)
 - emphasis: `ma` (emphatic marker)
-- evidentiality: `re` (reported speech), `se` (direct evidence)
+- evidentiality: comprehensive 6-particle system for knowledge source marking
+  - `hi` (direct evidence): speaker has direct sensory evidence
+  - `ro` (inferential evidence): speaker infers from available evidence
+  - `nu` (hearsay evidence): speaker learned from others
+  - `ti` (quotative evidence): speaker quotes specific speech
+  - `mu` (assumptive evidence): speaker assumes based on general knowledge
+  - `pe` (mirative evidence): speaker expresses surprise at new information
 
 these particles make pragmatic intentions explicit rather than contextual.
+
+### evidentiality system details
+
+phi's evidentiality system allows speakers to explicitly mark their relationship 
+to information, reducing pragmatic ambiguity about knowledge claims:
+
+| particle | function | example usage | english equivalent |
+|----------|----------|--------------|--------------------|
+| `hi` | direct evidence | `hi mia nuthui phose` | "I see the pebble (directly)" |
+| `ro` | inferential | `ro nuthui mipho` | "The pebble is blue (I infer)" |
+| `nu` | hearsay | `nu thephoa li sharo` | "The person left (I heard)" |
+| `ti` | quotative | `ti mia su phola` | "I will walk (as quoted)" |
+| `mu` | assumptive | `mu siwhea raphe` | "The house is grey (I assume)" |
+| `pe` | mirative | `pe nuthui tophe` | "The pebble is big (surprising!)" |
+
+### flexible evidentiality combinations
+
+evidentiality particles can combine with other particles in flexible order:
+- `so hi` or `hi so` (polite + direct evidence)
+- `ma ro` (emphatic + inferential evidence)
+- `hi ta` (direct evidence + present tense)
 
 ### 2. direct lexical expression
 
@@ -100,8 +126,8 @@ phi uses specific words rather than pragmatic implication:
 
 discourse structure is marked explicitly:
 
-- topic shifts: `nu` (topic marker)
-- contrast: `tupo` (but/however)
+- topic shifts: `ha` (topic marker)
+- contrast: `mi` (contrast marker), `tupo` (but/however)
 - sequence: temporal and logical connectors
 - conclusion: `wepi` (therefore/conclusion)
 
@@ -143,6 +169,8 @@ the minimal pragmatic approach in phi has several consequences:
 - reduced misunderstanding from pragmatic misinterpretation
 - systematic rather than arbitrary pragmatic patterns
 - easier learning curve for cross-cultural communication
+- explicit evidentiality system eliminates ambiguity about knowledge sources
+- clear discourse marking reduces reliance on cultural communication styles
 
 ### trade-offs
 
@@ -159,8 +187,35 @@ phi pragmatics prioritizes:
 3. universal accessibility over cultural specificity
 4. transparency over subtlety
 
+the comprehensive 6-particle evidentiality system represents a key achievement in 
+phi's pragmatic design, providing speakers with precise tools for marking knowledge 
+sources without relying on cultural assumptions about information reliability.
+
 this approach makes phi particularly suitable for cross-cultural communication, 
 technical discourse, and contexts where precision and clarity are valued over 
 pragmatic sophistication. the systematic approach to pragmatic functions supports 
 phi's overall design goal of being a clear, learnable, and culturally neutral 
-communication system. 
+communication system.
+
+### evidentiality and cross-cultural clarity
+
+phi's evidentiality system exemplifies the language's approach to making pragmatic 
+information explicit rather than culturally dependent:
+
+**traditional pragmatic approach**: speakers rely on cultural context and inference 
+to understand the speaker's relationship to information. for example, in english, 
+"john left" provides no explicit information about how the speaker knows this.
+
+**phi's explicit approach**: speakers must mark their evidence source, eliminating 
+ambiguity about knowledge claims:
+- `hi thephoa li sharo` - "the person left (I saw them)"
+- `nu thephoa li sharo` - "the person left (someone told me)"
+- `ro thephoa li sharo` - "the person left (I infer from evidence)"
+
+this explicit marking serves several pragmatic functions:
+1. **reduces misunderstanding** across cultural boundaries
+2. **clarifies reliability** of information without cultural assumptions
+3. **makes speaker commitment** to claims transparent
+4. **supports precise communication** in technical contexts
+
+## minimal context dependence 

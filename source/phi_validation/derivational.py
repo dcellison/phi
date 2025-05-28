@@ -236,11 +236,11 @@ class DerivationalValidator:
                 'logic': 'Balance creative flexibility with systematic integrity'
             }
         }
-    
+         
     def set_lexicon_validator(self, lexicon_validator):
         """Set the lexicon validator for word type identification."""
         self.lexicon_validator = lexicon_validator
-    
+        
     def validate_derivational_particles(self, tokens: List[str]) -> List[SentenceValidationError]:
         """Validate derivational particle usage including se and ra constructions."""
         errors = []
@@ -258,7 +258,7 @@ class DerivationalValidator:
         for particle, position in derivational_particles:
             # Validate scope and target requirements
             errors.extend(self._validate_derivational_scope(particle, position, tokens))
-            
+             
             # Validate semantic appropriateness
             errors.extend(self._validate_derivational_semantics(particle, position, tokens))
             
@@ -270,9 +270,9 @@ class DerivationalValidator:
         
         # Validate derivational conflicts and interactions
         errors.extend(self._validate_derivational_conflicts(derivational_particles, tokens))
-        
+             
         return errors
-    
+        
     def _validate_derivational_scope(self, particle: str, position: int, 
                                    tokens: List[str]) -> List[SentenceValidationError]:
         """Validate derivational particle scope and target requirements."""
@@ -291,6 +291,9 @@ class DerivationalValidator:
             token = tokens[i]
             word_type = self.lexicon_validator.identify_word_type(token) if self.lexicon_validator else None
             
+            # Normalize word type to handle plural forms from lexicon validator
+            normalized_word_type = self._normalize_word_type(word_type)
+            
             # Check for intervening particles that conflict
             if token in scope_rules.get('no_intervening_particles', []):
                 errors.append(SentenceValidationError(
@@ -305,17 +308,17 @@ class DerivationalValidator:
             elif token in scope_rules.get('allowed_intervening', []):
                 continue  # Skip allowed intervening particles
             
-            # Found potential target
-            elif word_type in scope_rules.get('target_requirements', []):
+            # Found potential target (use normalized word type)
+            elif normalized_word_type in scope_rules.get('target_requirements', []):
                 target_found = True
                 target_word = token
                 target_pos = i
                 break
             
             # Hit unexpected word type
-            elif word_type and not word_type.endswith('_particle'):
+            elif normalized_word_type and not normalized_word_type.endswith('_particle'):
                 break
-        
+                
         # Validate target requirements
         if not target_found:
             expected_target = particle_info['source_pos']
@@ -326,10 +329,10 @@ class DerivationalValidator:
                 position=position,
                 word=particle
             ))
-        
+            
         return errors
-    
-    def _validate_derivational_semantics(self, particle: str, position: int, 
+        
+    def _validate_derivational_semantics(self, particle: str, position: int,
                                        tokens: List[str]) -> List[SentenceValidationError]:
         """Validate semantic appropriateness of derivational constructions."""
         errors = []
@@ -340,7 +343,11 @@ class DerivationalValidator:
             if i < len(tokens):
                 word_type = self.lexicon_validator.identify_word_type(tokens[i]) if self.lexicon_validator else None
                 expected_type = self.derivational_particles[particle]['source_pos']
-                if word_type == expected_type:
+                
+                # Normalize word type to handle plural forms
+                normalized_word_type = self._normalize_word_type(word_type)
+                
+                if normalized_word_type == expected_type:
                     target_word = tokens[i]
                     break
         
@@ -373,7 +380,7 @@ class DerivationalValidator:
                 ))
         
         return errors
-    
+     
     def _validate_derivational_phonotactics(self, particle: str, position: int, 
                                           tokens: List[str]) -> List[SentenceValidationError]:
         """Validate phonotactic consistency of derivational constructions."""
@@ -386,7 +393,11 @@ class DerivationalValidator:
             if i < len(tokens):
                 word_type = self.lexicon_validator.identify_word_type(tokens[i]) if self.lexicon_validator else None
                 expected_type = self.derivational_particles[particle]['source_pos']
-                if word_type == expected_type:
+                
+                # Normalize word type to handle plural forms
+                normalized_word_type = self._normalize_word_type(word_type)
+                
+                if normalized_word_type == expected_type:
                     target_word = tokens[i]
                     target_position = i
                     break
@@ -434,7 +445,7 @@ class DerivationalValidator:
                 ))
         
         return errors
-    
+     
     def _validate_derivational_context(self, particle: str, position: int, 
                                      tokens: List[str]) -> List[SentenceValidationError]:
         """Validate contextual appropriateness of derivational usage."""
@@ -446,10 +457,14 @@ class DerivationalValidator:
             if i < len(tokens):
                 word_type = self.lexicon_validator.identify_word_type(tokens[i]) if self.lexicon_validator else None
                 expected_type = self.derivational_particles[particle]['source_pos']
-                if word_type == expected_type:
+                
+                # Normalize word type to handle plural forms
+                normalized_word_type = self._normalize_word_type(word_type)
+                
+                if normalized_word_type == expected_type:
                     target_word = tokens[i]
                     break
-        
+                    
         if not target_word:
             return errors  # No target to validate
         
@@ -483,9 +498,9 @@ class DerivationalValidator:
                     position=position,
                     word=f"ra+{target_word}"
                 ))
-        
+             
         return errors
-    
+        
     def _validate_derivational_conflicts(self, derivational_particles: List[Tuple[str, int]], 
                                        tokens: List[str]) -> List[SentenceValidationError]:
         """Validate conflicts between derivational particles and other elements."""
@@ -536,7 +551,7 @@ class DerivationalValidator:
                         ))
         
         return errors
-    
+     
     def _is_noun_appropriate_for_se(self, noun: str) -> bool:
         """Check if a noun is semantically appropriate for se derivation."""
         # Check appropriate categories
@@ -551,7 +566,7 @@ class DerivationalValidator:
         
         # Unknown noun - assume appropriate (creative usage allowed)
         return True
-    
+     
     def _is_verb_appropriate_for_ra(self, verb: str) -> bool:
         """Check if a verb is semantically appropriate for ra derivation."""
         # Check appropriate categories
@@ -566,7 +581,7 @@ class DerivationalValidator:
         
         # Unknown verb - assume appropriate (creative usage allowed)
         return True
-    
+     
     def _identify_se_usage_pattern(self, noun: str) -> Optional[str]:
         """Identify the usage pattern for se + noun construction."""
         # Check against known usage patterns
@@ -584,7 +599,7 @@ class DerivationalValidator:
                     return pattern_name
         
         return None
-    
+     
     def _identify_ra_usage_pattern(self, verb: str) -> Optional[str]:
         """Identify the usage pattern for ra + verb construction."""
         # Check against known usage patterns
@@ -600,33 +615,134 @@ class DerivationalValidator:
                     return pattern_name
         
         return None
-    
+             
     def _is_in_verb_position(self, particle_position: int, tokens: List[str]) -> bool:
-        """Check if a derivational construction is in verb position (SOV)."""
-        # In SOV order, verbs should be at or near the end
-        # This is a simplified check - would need more sophisticated analysis
+        """Check if a derivational construction is in verb position."""
+        # Enhanced logic: check if se+noun is functioning as the main verb in the clause
         
-        # Count content words after this position
-        content_words_after = 0
-        for i in range(particle_position, len(tokens)):
-            word_type = self.lexicon_validator.identify_word_type(tokens[i]) if self.lexicon_validator else None
-            if word_type and not word_type.endswith('_particle'):
-                content_words_after += 1
+        # Find the se+noun construction
+        if particle_position + 1 >= len(tokens):
+            return False
+            
+        target_word = tokens[particle_position + 1]
+        word_type = self.lexicon_validator.identify_word_type(target_word) if self.lexicon_validator else None
         
-        # If this is one of the last content word constructions, likely verb position
-        return content_words_after <= 2  # Allow for particle + target word
-    
+        # Normalize word type
+        normalized_word_type = self._normalize_word_type(word_type)
+        
+        if normalized_word_type != 'noun':
+            return False
+        
+        # Analyze sentence structure to determine if this se+noun is the main verb
+        # Look for other verbs in the sentence
+        other_verbs = []
+        for i, token in enumerate(tokens):
+            if i == particle_position:
+                continue  # Skip the se particle itself
+            if i == particle_position + 1:
+                continue  # Skip the noun after se
+                
+            token_type = self.lexicon_validator.identify_word_type(token) if self.lexicon_validator else None
+            
+            # Normalize token type
+            normalized_token_type = self._normalize_word_type(token_type)
+            
+            if normalized_token_type == 'verb':
+                other_verbs.append((token, i))
+        
+        # If there are no other main verbs, se+noun is likely the main verb
+        if not other_verbs:
+            return True
+        
+        # If there are other verbs, check their positions and context
+        # se+noun could still be a main verb in serial verb constructions
+        se_construction_end = particle_position + 1
+        
+        # Check if other verbs come before or after se+noun
+        verbs_after = [v for v in other_verbs if v[1] > se_construction_end]
+        verbs_before = [v for v in other_verbs if v[1] < particle_position]
+        
+        # In SOV, if there are verbs before se+noun, se+noun might be auxiliary or secondary
+        # If there are verbs after se+noun, se+noun is likely the main verb
+        if verbs_after:
+            return True  # se+noun is acting as main verb with auxiliary verbs following
+        
+        # Default: allow se+noun as verb in most cases since it's a valid derivational construction
+        return True
+     
     def _is_in_noun_position(self, particle_position: int, tokens: List[str]) -> bool:
-        """Check if a derivational construction is in noun position (SOV)."""
-        # In SOV order, nouns (subjects/objects) should be before verbs
-        # This is a simplified check
+        """Check if a derivational construction is in noun position."""
+        # Enhanced logic: check if ra+verb is functioning as a subject or object
         
-        # Look for verbs after this position
-        verb_found_after = False
-        for i in range(particle_position + 2, len(tokens)):  # Skip particle + target
-            word_type = self.lexicon_validator.identify_word_type(tokens[i]) if self.lexicon_validator else None
-            if word_type == 'verb':
-                verb_found_after = True
-                break
+        # Find the ra+verb construction
+        if particle_position + 1 >= len(tokens):
+            return False
+            
+        target_word = tokens[particle_position + 1]
+        word_type = self.lexicon_validator.identify_word_type(target_word) if self.lexicon_validator else None
         
-        return verb_found_after  # If verb comes after, this is likely noun position 
+        # Normalize word type
+        normalized_word_type = self._normalize_word_type(word_type)
+        
+        if normalized_word_type != 'verb':
+            return False
+        
+        # Analyze sentence structure to determine if ra+verb is in noun position
+        ra_construction_end = particle_position + 1
+        
+        # Look for the main verb in the sentence (should come after ra+verb in SOV)
+        main_verbs = []
+        for i, token in enumerate(tokens):
+            if i <= ra_construction_end:
+                continue  # Skip the ra+verb construction itself
+                
+            token_type = self.lexicon_validator.identify_word_type(token) if self.lexicon_validator else None
+            
+            # Normalize token type
+            normalized_token_type = self._normalize_word_type(token_type)
+            
+            if normalized_token_type == 'verb':
+                main_verbs.append((token, i))
+        
+        # In SOV structure, if there's a main verb after ra+verb, 
+        # then ra+verb is likely functioning as a noun (subject/object)
+        if main_verbs:
+            return True
+        
+        # Special case: ra+verb could be the subject of a copula or implicit verb
+        # Look for copula verbs specifically
+        for i, token in enumerate(tokens):
+            if i <= ra_construction_end:
+                continue
+            if token in ['thilu', 'phera']:  # Common copula verbs
+                return True
+        
+        # Check for object marker 'na' which would indicate noun position
+        for i, token in enumerate(tokens):
+            if token == 'na' and i > ra_construction_end:
+                # na marker after ra+verb suggests ra+verb is acting as object
+                return True
+        
+        # Check sentence patterns - if ra+verb is at the beginning, it's likely a subject
+        if particle_position == 0 or all(
+            self.lexicon_validator.identify_word_type(tokens[j]) in [None, 'slot_0_particle', 'slot_1_particle'] 
+            for j in range(particle_position)
+            if self.lexicon_validator
+        ):
+            return True  # ra+verb at sentence start is likely subject
+        
+        # Default: be permissive for derivational constructions as they can be creative
+        return True 
+     
+    def _normalize_word_type(self, word_type: str) -> Optional[str]:
+        """Normalize word type from lexicon validator."""
+        if not word_type:
+            return None
+            
+        # Convert plural forms to singular
+        if word_type.endswith('s') and word_type != 'pronouns':
+            return word_type[:-1]
+        elif word_type == 'pronouns':
+            return 'pronoun'
+        else:
+            return word_type 

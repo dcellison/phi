@@ -51,6 +51,34 @@ this approach maintains phonological distinctiveness while creating systematic
 semantic families where conceptual relationships are clear but morphologically 
 independent.
 
+### evidentiality and epistemic semantics
+
+phi incorporates a comprehensive 6-particle evidentiality system that makes speakers' 
+relationship to information semantically explicit. this system represents a core 
+semantic principle: knowledge source distinctions that are often implicit in natural 
+languages are made explicit through systematic particles.
+
+**evidential semantic categories:**
+
+| particle | semantic domain | epistemic commitment | example context |
+|----------|-----------------|---------------------|-----------------|
+| `hi` | direct observation | high certainty | speaker witnessed event |
+| `ro` | inference | moderate certainty | speaker deduces from evidence |
+| `nu` | hearsay | variable certainty | speaker heard from others |
+| `ti` | quotation | dependent on source | speaker reports specific speech |
+| `mu` | memory | dependent on recollection | speaker recalls past knowledge |
+| `pe` | presumption | low to moderate certainty | speaker assumes based on general knowledge |
+
+**semantic functions:**
+- **eliminates ambiguity** about information reliability
+- **clarifies speaker commitment** to truth claims
+- **enables precise epistemological distinctions** across cultural boundaries
+- **supports systematic truth-conditional semantics** through explicit source marking
+
+this evidentiality system exemplifies phi's approach to making semantic relationships 
+explicit rather than culturally dependent, ensuring that meaning is accessible 
+without specialized cultural knowledge.
+
 ### explicit semantic marking
 
 phi uses particles and systematic structures to make semantic relationships explicit 
@@ -58,9 +86,32 @@ rather than relying on implication or inference:
 
 ```
 comparison: mo mipho (more blue) vs. pa mipho (most blue)
-evidentiality: mia hi mipho phera (I see it's blue) vs. mia ro mipho phera (I infer it's blue)
 animacy: he thephoa (human person) vs. ne nuthui (inanimate pebble)
 ```
+
+**evidentiality system:** phi's 6-particle evidentiality system provides explicit semantic marking of knowledge sources:
+
+```
+hi mia nuthui whemo          (I think about the pebble [direct evidence])
+ro mia nuthui whemo          (I think about the pebble [inferential])
+nu thephoa li sharo          (the person left [hearsay])
+ti mia su nuthui whemo       (I will think about the pebble [quoted speech])
+mu mia nuthui li whemo       (I thought about the pebble [memory])
+pe mia nuthui whemo          (I think about the pebble [presumption])
+```
+
+this systematic evidentiality marking eliminates semantic ambiguity about speakers' 
+relationship to information, creating precise epistemic distinctions that support 
+cross-cultural communication.
+
+### minimal presupposition
+
+phi reduces semantic presuppositions by making background assumptions explicit:
+
+instead of presupposition-heavy constructions, phi uses explicit particles:
+- evidentiality particles specify knowledge source
+- temporal particles specify time relationships
+- animacy particles specify entity types
 
 ## semantic fields and organization
 
@@ -102,7 +153,7 @@ past action: mia nuthui li phuwa (I pebble threw)
 
 **syntactic composition:**
 ```
-subject-object-verb: mia nuthui phola (I pebble walk = I walk carrying the pebble)
+subject-object-verb: mia nuthui shero (I pebble carry = I carry the pebble)
 modifier-head: mipho nuthui (blue pebble)
 possessive: nuthui thue mia (pebble of me = my pebble)
 ```
@@ -167,6 +218,36 @@ truth conditions: true if and only if:
 3. that tree was blue
 4. the seeing occurred in the past
 ```
+
+**evidentiality and truth conditions:**
+
+evidentiality particles modify truth conditions by specifying the epistemic basis 
+for claims, creating layered semantic interpretations:
+
+```
+hi mia nuthui whemo
+DIR.EV 1sg pebble think
+"I think about the pebble [direct evidence]"
+
+truth conditions: 
+- primary claim: speaker thinks about the pebble
+- evidential claim: speaker has direct sensory evidence for this mental state
+- combined: true if speaker thinks about the pebble AND has direct evidence of this
+```
+
+```
+ro mia nuthui whemo  
+INFR 1sg pebble think
+"I think about the pebble [inferential]"
+
+truth conditions:
+- primary claim: speaker thinks about the pebble  
+- evidential claim: speaker infers this mental state from available evidence
+- combined: true if speaker thinks about the pebble AND inference is evidence-based
+```
+
+this systematic integration of evidentiality into truth conditions creates precise 
+semantic distinctions that support reliable cross-linguistic communication.
 
 ### minimal presupposition
 
@@ -257,8 +338,12 @@ phi semantics prioritizes:
 3. universal concepts over cultural specificity
 4. compositional clarity over idiomatic expression
 
+the comprehensive evidentiality system represents a significant achievement in phi's 
+semantic design, providing systematic epistemic marking that eliminates ambiguity 
+about knowledge sources while maintaining cross-cultural accessibility.
+
 this approach makes phi particularly suitable for cross-cultural communication, 
 technical discourse, and contexts where semantic precision and clarity are valued 
 over stylistic variety or cultural resonance. the systematic approach to meaning 
 supports phi's overall design goal of being a transparent, learnable, and 
-semantically unambiguous communication system. 
+semantically unambiguous communication system.

@@ -351,7 +351,7 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | na  | pos marker | object              | na nuthui     | `OBJ pebble`   | (object marker) pebble |
 | te  | pos marker | verb                | te whuwa      | `VRB throw`    | (verb marker) throw    |
 | se  | derivation | noun-to-verb        | se lothea     | `NVERB love`   | (use noun as verb)     |
-| ra  | derivation | verb-to-noun        | ra shote      | `VNOUN love`   | (use verb as noun)     |
+| ra  | derivation | verb-to-noun        | ra shotu      | `VNOUN love`   | (use verb as noun)     |
 | he  | animacy    | human               | he thephoa    | `HUM person`   | (human) person         |
 | pi  | animacy    | animate (non-human) | pi whiloa     | `ANIM dog`     | (animate) dog          |
 | ne  | animacy    | inanimate           | ne nuthui     | `INAN pebble`  | (inanimate) pebble     |
@@ -361,8 +361,8 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | le  | comparison | less (comparative)  | le mipho      | `LESS blue`    | less blue              |
 | re  | comparison | least (superlative) | re mipho      | `LEAST blue`   | least blue             |
 | wo  | number     | paucal              | wo nuthui     | `PAUC pebble`  | a few pebbles          |
-| lo  | number     | plural              | lo nuthui     | `PL pebble`    | pubbles | 
- | no  | number     | greater plural      | no nuthui     | `GPL pebble`   | many pebbles           |
+| lo  | number     | plural              | lo nuthui     | `PL pebble`    | pebbles           |
+| no  | number     | greater plural      | no nuthui     | `GPL pebble`   | many pebbles           |
 | ma  | emphahis | word emphasis        | ma [word]     | `EMPH [word]`  | (emphasis marker)      |
 
 #### slot 2 examples
@@ -592,7 +592,7 @@ when multiple particles are used, they follow a strict order based on their scop
 
 *   **derivational particles:** these particles allow words from one part of speech to be used temporarily as another part of speech, providing flexibility while maintaining phi's phonological distinctions between word classes.
     *   `se` - noun-to-verb derivation (NVERB): transforms a noun into a verb construct. example: `mia na thi se lothea` (1sg OBJ 2sg NVERB love) - "i love you" (using the noun "lothea" as a verb)
-    *   `ra` - verb-to-noun derivation (VNOUN): transforms a verb into a noun construct. example: `ra shote phera ritune teshe` (VNOUN love be very good) - "loving is very good" (using the verb "shote" as a noun)
+    *   `ra` - verb-to-noun derivation (VNOUN): transforms a verb into a noun construct. example: `ra shotu phera ritune tushe` (VNOUN love be very good) - "loving is very good" (using the verb "shotu" as a noun)
     *   these derivational particles follow the same precedence rules as other core word particles, appearing immediately before the word being transformed.
     *   this is particularly useful for:
         *   noun-to-verb: when a dedicated verb doesn't exist or for creative/metaphorical expressions

@@ -20,6 +20,9 @@ from dataclasses import dataclass
 from enum import Enum
 import glob
 import os
+from pathlib import Path
+from collections import defaultdict
+from phi_lexicon_reader import PhiLexiconReader
 
 
 class ValidationResult(Enum):
@@ -94,74 +97,36 @@ class PhiValidator:
         return pos_mapping.get(pos_name, pos_name)
     
     def _load_lexicon(self) -> Dict[str, List[WordEntry]]:
-        """Load all words from pos/ files into memory."""
-        lexicon = {}
+        """Load all words from pos/ files into memory using PhiLexiconReader."""
         
-        if not os.path.exists(self.pos_directory):
-            print(f"Warning: POS directory '{self.pos_directory}' not found")
-            return lexicon
+        # Use the authoritative PhiLexiconReader instead of duplicating parsing logic
+        reader = PhiLexiconReader(self.pos_directory)
+        lexicon_data = reader.read_lexicon()
         
-        print(f"Loading lexicon from {self.pos_directory}...")
-        pos_files = glob.glob(f"{self.pos_directory}*.md")
-        print(f"Found {len(pos_files)} POS files to process")
+        # Convert to the expected format: Dict[pos_name, List[WordEntry]]
+        lexicon = defaultdict(list)
+        
+        for word, info in lexicon_data.items():
+            pos = info['pos']
+            translation = info['translation']
+            file_name = info['file']
             
-        for pos_file in pos_files:
-            pos_name = os.path.basename(pos_file).replace('.md', '')
-            normalized_pos = self._normalize_pos_name(pos_name)
-            lexicon[normalized_pos] = self._parse_pos_file(pos_file, normalized_pos)
+            # Normalize POS name to match existing expectations
+            normalized_pos = self._normalize_pos_name(pos)
+            
+            # Create WordEntry (line_number not available from PhiLexiconReader)
+            entry = WordEntry(word, normalized_pos, translation, line_number=None)
+            lexicon[normalized_pos].append(entry)
         
+        # Convert defaultdict back to regular dict
+        lexicon = dict(lexicon)
+        
+        # Print summary (PhiLexiconReader already prints detailed info)
         total_words = sum(len(entries) for entries in lexicon.values())
-        print(f"\nLexicon loading complete: {total_words} total words loaded")
+        print(f"Converted to validator format: {total_words} total words")
         print("=" * 50)
         
         return lexicon
-    
-    def _parse_pos_file(self, filename: str, pos: str) -> List[WordEntry]:
-        """Parse a POS markdown file to extract word entries."""
-        entries = []
-        
-        try:
-            print(f"  Loading {filename}...")
-            with open(filename, 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-                
-            in_table = False
-            for line_num, line in enumerate(lines, 1):
-                line = line.strip()
-                
-                # Detect table start - handle multiple possible formats
-                if (line.startswith("| word | meaning") or 
-                    line.startswith("| phi word | english translation") or
-                    line.startswith("| phi word | meaning")):
-                    in_table = True
-                    continue
-                
-                # Skip table separator
-                if in_table and line.startswith("| ---"):
-                    continue
-                
-                # Parse table rows
-                if in_table and line.startswith("| "):
-                    parts = [p.strip() for p in line.split("|")[1:-1]]
-                    if len(parts) >= 2 and parts[0] and parts[1]:
-                        word = parts[0].replace('`', '').strip()
-                        meaning = parts[1].strip()
-                        
-                        if word and not word.startswith('word') and not word.startswith('phi word'):
-                            entries.append(WordEntry(word, pos, meaning, line_num))
-                
-                # Stop at next section
-                elif in_table and (line.startswith("#") or line == ""):
-                    in_table = False
-                    
-            print(f"    → {len(entries)} words loaded from {pos}")
-                    
-        except FileNotFoundError:
-            print(f"Warning: Could not find file {filename}")
-        except Exception as e:
-            print(f"Error parsing {filename}: {e}")
-            
-        return entries
     
     def _syllabify(self, word: str) -> List[str]:
         """Break word into syllables following phi rules."""

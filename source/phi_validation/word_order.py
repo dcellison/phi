@@ -16,274 +16,91 @@ class WordOrderValidator:
     
     def __init__(self):
         """Initialize word order validation rules."""
-        # Import lexicon validator for word type identification
-        self.lexicon_validator = None  # Will be set by core
+        # Import lexicon validator for word type checking
+        from .lexicon import LexiconValidator
+        self.lexicon_validator = None
         
-        # Manually define all particles since particles.md uses different format
-        self.all_particles = {
-            # Slot 0 particles (sentence frame)
-            'wa', 'ho', 'tu', 'hu',  # sentence type
-            'hi', 'ro', 'nu', 'ti', 'mu', 'pe',  # evidentiality
-            'ha', 'mi', 'lu',  # discourse and relative
-            'so',  # politeness
-            
-            # Slot 1 particles (verb phrase)
-            'li', 'ta', 'su',  # tense
-            'we', 'la', 'ni', 'po', 'pu', 'ri', 'wi', 'wu',  # aspect
-            'to', 'ru',  # mood (imperative, obligative)
-            'me',  # negation
-            
-            # Slot 2 particles (core word)
-            'si', 'na', 'te',  # POS markers
-            'se', 'ra',  # derivation
-            'he', 'pi', 'ne',  # animacy
-            'pa', 'mo', 'sa', 'le', 're',  # comparison
-            'wo', 'lo', 'no',  # number
-            'ma'  # emphasis
-        }
-        
-        # Particle categories and their ordering rules
-        self.slot_0_particles = {
-            # Sentence frame particles
-            'wa', 'ho', 'tu', 'hu',  # sentence type
-            'hi', 'ro', 'nu', 'ti', 'mu', 'pe',  # evidentiality
-            'ha', 'mi', 'lu',  # discourse and relative
-            'so'  # politeness
-        }
-        
-        self.slot_1_particles = {
-            # Verb phrase particles
-            'li', 'ta', 'su',  # tense
-            'we', 'la', 'ni', 'po', 'pu', 'ri', 'wi', 'wu',  # aspect
-            'to', 'ru',  # mood
-            'me'  # negation
-        }
-        
-        self.slot_2_particles = {
-            # Core word particles
-            'si', 'na', 'te',  # POS markers
-            'se', 'ra',  # derivation
-            'he', 'pi', 'ne',  # animacy
-            'pa', 'mo', 'sa', 'le', 're',  # comparison
-            'wo', 'lo', 'no',  # number
-            'ma'  # emphasis
-        }
-    
     def set_lexicon_validator(self, lexicon_validator):
-        """Set the lexicon validator for word type identification."""
+        """Set the lexicon validator for word type checking."""
         self.lexicon_validator = lexicon_validator
-    
+        
     def validate_order(self, tokens: List[str]) -> List[SentenceValidationError]:
-        """Validate SOV word order compliance."""
+        """Validate SOV word order requirements."""
         errors = []
         
-        if len(tokens) == 0:
-            errors.append(SentenceValidationError(
-                SentenceError.WORD_ORDER,
-                "Empty sentence has no word order"
-            ))
+        # Skip if sentence is too short to have order violations
+        if len(tokens) < 2:
             return errors
+            
+        # Find the main verb (rightmost verb in basic SOV)
+        main_verb_pos = self._find_main_verb(tokens)
+        if main_verb_pos is None:
+            return errors  # No verb found, other validators will catch this
+            
+        # Check for content words after the main verb
+        content_words_after_verb = self._find_content_words_after_verb(
+            tokens, main_verb_pos
+        )
         
-        # Check for excessive pronoun repetition
-        errors.extend(self._validate_pronoun_repetition(tokens))
-        
-        # Main SOV validation
-        errors.extend(self.validate_sov_order(tokens))
-        
+        if content_words_after_verb:
+            error = SentenceValidationError(
+                error_type=SentenceError.WORD_ORDER,
+                message=f"SOV violation: content words after verb: {content_words_after_verb}",
+                position=main_verb_pos
+            )
+            errors.append(error)
+            
         return errors
-    
-    def validate_sov_order(self, tokens: List[str]) -> List[SentenceValidationError]:
-        """Validate Subject-Object-Verb word order."""
-        errors = []
         
-        # Split sentence into clauses using shared clause parser
-        clauses = get_clause_parser(self.lexicon_validator).split_into_clauses(tokens)
-        
-        # Validate each clause separately
-        for clause_tokens, clause_start_idx in clauses:
-            if clause_tokens:  # Skip empty clauses
-                clause_errors = self._validate_clause_sov_order(clause_tokens, clause_start_idx)
-                errors.extend(clause_errors)
-        
-        return errors
-    
-    def _validate_clause_sov_order(self, tokens: List[str], start_idx: int) -> List[SentenceValidationError]:
-        """Validate SOV order for a single clause."""
-        errors = []
-        
-        # Check for incomplete sentences (single particles without content)
-        if len(tokens) == 1:
-            token = tokens[0]
-            word_type = self.identify_word_type(token)
-            if word_type and word_type.endswith('_particle'):
-                errors.append(SentenceValidationError(
-                    SentenceError.MISSING_VERB,
-                    f"Incomplete sentence: single particle '{token}' without content",
-                    position=start_idx
-                ))
-                return errors  # No need to continue validation for single particle
-        
-        # Filter out particles to focus on content words, but handle derivational constructions
-        content_words = []
-        i = 0
-        while i < len(tokens):
+    def _find_main_verb(self, tokens: List[str]) -> Optional[int]:
+        """Find the position of the main verb in the sentence."""
+        if not self.lexicon_validator:
+            return None
+            
+        # Look for verbs from right to left (SOV pattern)
+        for i in range(len(tokens) - 1, -1, -1):
             token = tokens[i]
-            word_type = self.identify_word_type(token)
+            word_type = self.lexicon_validator.identify_word_type(token)
             
-            # Handle derivational constructions
-            if token == 'ra' and i + 1 < len(tokens):
-                # ra + verb = derived noun
-                next_token = tokens[i + 1]
-                next_word_type = self.identify_word_type(next_token)
-                if next_word_type == 'verb':
-                    # Treat ra+verb as a noun
-                    content_words.append((f"ra {next_token}", 'noun', start_idx + i))
-                    i += 2  # Skip both ra and the verb
-                    continue
-            elif token == 'se' and i + 1 < len(tokens):
-                # se + noun = derived verb
-                next_token = tokens[i + 1]
-                next_word_type = self.identify_word_type(next_token)
-                if next_word_type == 'noun':
-                    # Treat se+noun as a verb
-                    content_words.append((f"se {next_token}", 'verb', start_idx + i))
-                    i += 2  # Skip both se and the noun
-                    continue
+            # Normalize word type to handle plural forms
+            normalized_word_type = self._normalize_word_type(word_type)
             
-            # Regular content words
-            if word_type and not word_type.endswith('_particle'):
-                content_words.append((token, word_type, start_idx + i))
-            
-            i += 1
+            if normalized_word_type == 'verb':
+                return i
+                
+        return None
         
-        # Find verbs (including derived verbs)
-        verbs = [(word, pos, idx) for word, pos, idx in content_words if pos == 'verb']
+    def _find_content_words_after_verb(self, tokens: List[str], 
+                                     verb_pos: int) -> List[str]:
+        """Find content words that appear after the main verb."""
+        if not self.lexicon_validator:
+            return []
+            
+        content_words = []
         
-        if len(verbs) == 0:
-            # Only report missing verb if this clause has content words
-            if content_words:
-                errors.append(SentenceValidationError(
-                    SentenceError.MISSING_VERB,
-                    "Clause missing main verb",
-                    position=start_idx
-                ))
+        # Check all tokens after the verb
+        for i in range(verb_pos + 1, len(tokens)):
+            token = tokens[i]
+            word_type = self.lexicon_validator.identify_word_type(token)
+            
+            # Normalize word type
+            normalized_word_type = self._normalize_word_type(word_type)
+            
+            # Content words that shouldn't appear after verb in SOV
+            if normalized_word_type in ['noun', 'verb', 'adjective', 'adverb']:
+                content_words.append(token)
+                
+        return content_words
+        
+    def _normalize_word_type(self, word_type: str) -> Optional[str]:
+        """Normalize word type from lexicon validator."""
+        if not word_type:
+            return None
+            
+        # Convert plural forms to singular
+        if word_type.endswith('s') and word_type != 'pronouns':
+            return word_type[:-1]
+        elif word_type == 'pronouns':
+            return 'pronoun'
         else:
-            # Check for missing subject (except for imperatives)
-            # Imperatives are single verbs or verbs with only slot 1 particles
-            if len(verbs) == 1:
-                verb_word, verb_type, verb_idx = verbs[0]
-                
-                # Check if this is a bare imperative (just verb + optional tense/aspect)
-                non_verb_content = [w for w in content_words if w[1] != 'verb']
-                
-                # Check for subjects (nouns, pronouns, or proper nouns)
-                subjects = [w for w in content_words if w[1] in ['noun', 'pronoun', 'proper_noun']]
-                
-                # Also check for slot 1 particles (tense/aspect) that might be present
-                has_slot_1_particles = any(token in self.slot_1_particles for token in tokens)
-                
-                # If we have tense/aspect particles but no subject, it's likely missing a subject
-                if has_slot_1_particles and not subjects:
-                    # Exception: copula 'thilu' can work without explicit subject
-                    # Exception: imperative 'to' and obligation 'ru' can work without explicit subject
-                    has_imperative_mood = any(token in ['to', 'ru'] for token in tokens)
-                    if verb_word != 'thilu' and not has_imperative_mood:
-                        errors.append(SentenceValidationError(
-                            SentenceError.MISSING_VERB,
-                            f"Missing subject: tense/aspect particles require explicit subject",
-                            position=start_idx
-                        ))
-            
-            # Allow multiple verbs (serial verb constructions) within a single clause
-            # But validate that slot 1 particles don't appear between verbs
-            if len(verbs) > 1:
-                # Check for slot 1 particles between verbs
-                first_verb_idx = min(verb[2] for verb in verbs)
-                last_verb_idx = max(verb[2] for verb in verbs)
-                
-                # Look for slot 1 particles between first and last verb
-                for i in range(first_verb_idx + 1, last_verb_idx):
-                    if i < len(tokens) + start_idx:
-                        # Adjust index for original token list
-                        token_idx = i - start_idx
-                        if 0 <= token_idx < len(tokens):
-                            token = tokens[token_idx]
-                            if token in self.slot_1_particles:
-                                errors.append(SentenceValidationError(
-                                    SentenceError.WORD_ORDER,
-                                    f"Slot 1 particle '{token}' cannot appear between verbs. "
-                                    f"Tense/aspect/mood particles must precede all verbs.",
-                                    position=i
-                                ))
-            
-            # Check that all verbs follow SOV order (no content words after the last verb)
-            if verbs:
-                last_verb_idx = max(verb[2] for verb in verbs)
-                
-                # Find content words after the last verb
-                words_after_last_verb = [w for w in content_words if w[2] > last_verb_idx]
-                
-                if words_after_last_verb:
-                    errors.append(SentenceValidationError(
-                        SentenceError.WORD_ORDER,
-                        f"SOV violation: content words after verb: {[w[0] for w in words_after_last_verb]}",
-                        position=last_verb_idx
-                    ))
-        
-        return errors
-    
-    def _validate_pronoun_repetition(self, tokens: List[str]) -> List[SentenceValidationError]:
-        """Validate that pronouns are not excessively repeated."""
-        errors = []
-        pronouns = {'mia', 'thi', 'sha'}
-        
-        # Track consecutive pronoun repetitions
-        consecutive_count = 0
-        current_pronoun = None
-        
-        for i, token in enumerate(tokens):
-            if token in pronouns:
-                if token == current_pronoun:
-                    consecutive_count += 1
-                else:
-                    # Reset count for new pronoun
-                    current_pronoun = token
-                    consecutive_count = 1
-                
-                # Flag excessive repetition (3 or more)
-                if consecutive_count >= 3:
-                    errors.append(SentenceValidationError(
-                        SentenceError.WORD_ORDER,
-                        f"Excessive pronoun repetition: '{token}' repeated {consecutive_count} times consecutively. "
-                        f"Maximum of 2 consecutive pronouns allowed for emphasis.",
-                        position=i,
-                        word=token
-                    ))
-            else:
-                # Reset when encountering non-pronoun
-                consecutive_count = 0
-                current_pronoun = None
-        
-        return errors
-    
-    def identify_word_type(self, word: str) -> Optional[str]:
-        """Identify the part of speech of a word."""
-        # Check if it's a particle first
-        if word in self.all_particles:
-            if word in self.slot_0_particles:
-                return "slot_0_particle"
-            elif word in self.slot_1_particles:
-                return "slot_1_particle"
-            elif word in self.slot_2_particles:
-                return "slot_2_particle"
-        
-        # Check lexicon for content words
-        if self.lexicon_validator:
-            pos = self.lexicon_validator.identify_word_type(word)
-            if pos:
-                # Convert plural POS forms to singular for consistency
-                if pos.endswith('s'):
-                    return pos[:-1]  # Remove 's' from 'pronouns' -> 'pronoun'
-                return pos
-        
-        return None 
+            return word_type 

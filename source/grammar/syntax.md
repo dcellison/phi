@@ -134,6 +134,41 @@ verb complements follow the object and precede the main verb:
 | mia phema phire        | I come want            | I want to come        |
 | he mia li phola phare  | he I PST walk report   | He reported that I walked |
 
+## evidentiality system
+
+phi incorporates a comprehensive evidentiality system that allows speakers to explicitly mark their relationship to information. evidentiality particles are syntactically positioned at the sentence level and can flexibly order with politeness markers.
+
+### evidentiality particles
+
+| particle | evidence type | function | example |
+|----------|---------------|----------|---------|
+| `hi` | direct | speaker has direct sensory evidence | `hi nuthui mipho phera` (I see the pebble is blue) |
+| `ro` | inferential | speaker infers from available evidence | `ro thephoa li sharo` (the person left, I infer) |
+| `nu` | hearsay | speaker learned from others | `nu thephoa li sharo` (the person left, I heard) |
+| `ti` | quotative | speaker quotes specific speech | `ti mia su sharo` (I will go, as quoted) |
+| `mu` | memory | speaker recalls from memory | `mu mia nuthui whemo` (I think about the pebble, I remember) |
+| `pe` | presumptive | speaker presumes based on assumptions | `pe mia nuthui whemo` (I think about the pebble, I presume) |
+
+### evidentiality syntax
+
+evidentiality particles appear at the sentence level and can combine with other particles:
+
+**basic evidentiality marking:**
+- `hi mia nuthui phamo` (I like the pebble [direct evidence])
+- `ro thaphe li phuwe` (the woman slept [inferential])
+
+**evidentiality with tense:**
+- `hi ta mia nuthui phamo` (I like the pebble [direct evidence, present])
+- `ro li thaphe phuwe` (the woman slept [inferential, past])
+
+**evidentiality with politeness (flexible ordering):**
+- `so hi mia ta whemo` (I think [polite, direct evidence])
+- `hi so mia ta whemo` (I think [direct evidence, polite])
+
+**evidentiality in questions:**
+- `hi timane thephoa sharo` (when does the person go? [I see])
+- `nu welime thephoa sharo` (where did the person go? [I heard])
+
 ## questions
 
 phi uses a systematic hybrid approach to questions with two distinct patterns:
@@ -158,8 +193,19 @@ wh-questions use interrogative words and can be combined with other particles ex
 | --------------------- | ---------------------- | ----------------------- |
 | hamite thi phola      | how you walk           | How do you walk?        |
 | so wulime thi phola   | POL where you walk     | Where do you go? (polite) |
-| hi timane thephoa phola | DIR.EV when person walk | When does the person walk? (I see) |
-| ro whieso nuthui thi phamo | INFR which pebble you like | Which pebble do you like? (I infer) |
+
+### wh-questions with evidentiality
+
+evidentiality particles can combine with wh-questions to mark the speaker's knowledge source:
+
+| phi                       | literal translation          | english translation               |
+| ------------------------- | ---------------------------- | --------------------------------- |
+| hi timane thephoa phola   | DIR.EV when person walk      | When does the person walk? (I see) |
+| ro whieso nuthui thi phamo | INFR which pebble you like   | Which pebble do you like? (I infer) |
+| nu hamite thephoa li sharo | HEAR how person PST go       | How did the person leave? (I heard) |
+| ti welime mia su phola    | QUOT where I FUT walk        | Where will I walk? (as quoted) |
+| mu wuthi thephoa phera    | MEM what person be          | What is the person? (I remember) |
+| pe hamite nuthui tophe    | PRES how pebble big           | How is the pebble big? (I presume) |
 
 this systematic distinction keeps each question type clean and predictable, 
 while allowing wh-questions to be modified by politeness, evidentiality, and other 
@@ -191,11 +237,15 @@ subordinating conjunctions create dependent relationships between clauses:
 
 ## particle ordering
 
-when multiple particles are used, they follow a strict order based on their scope and category:
+when multiple particles are used, they follow these ordering principles:
 
-1. **Sentence particles** (sentence mood/type > evidentiality > politeness)
-   - Example: `tu so mia ta phuwa` (if politely I do throw)
-   - Includes: `wa` (question), `lu` (relative), `tu` (conditional), `so` (politeness)
+1. **Sentence particles** (flexible ordering for evidentiality and politeness)
+   - **Evidentiality particles**: `hi` (direct), `ro` (inferential), `nu` (hearsay), `ti` (quotative), `mu` (memory), `pe` (presumptive)
+   - **Politeness particle**: `so` (politeness marker)
+   - **Flexible ordering**: evidentiality and politeness can appear in either order
+     - `so hi mia ta whemo` (polite + direct evidence)
+     - `hi so mia ta whemo` (direct evidence + polite)
+   - **Other sentence particles**: `wa` (question), `lu` (relative), `tu` (conditional)
 
 2. **Verb phrase particles** (tense > aspect > negation)
    - Example: `li ni me phuwa` (did not throw [completed action])
@@ -273,6 +323,11 @@ good HORT we go
 phi syntax is designed to be learnable and logical while still allowing for natural
 expression. the syntax prioritizes regularity over idiomaticity, meaning that grammatical
 patterns are consistent even when they might differ from common natural language patterns.
+
+the comprehensive evidentiality system represents a significant achievement in phi's 
+syntactic design, providing systematic marking of knowledge sources through dedicated 
+particles with flexible ordering capabilities. this feature supports phi's goal of 
+explicit rather than implicit communication.
 
 future development of phi syntax should maintain these principles of regularity,
 clarity, and semantic transparency, while expanding to accommodate more complex

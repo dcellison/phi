@@ -46,12 +46,12 @@ class InterrogativeValidator:
                 'markers': ['hamite', 'wamine', 'timane', 'wulime'],  # how, why, when, where
                 'tense_constraints': {
                     'hamite': {  # how
-                        'preferred_tenses': ['ta', 'su'],  # manner questions
-                        'logic': 'Manner questions ask about methods or future plans'
+                        'preferred_tenses': ['li', 'ta', 'su'],  # manner questions work with all tenses
+                        'logic': 'Manner questions can ask about past methods, current processes, or future plans'
                     },
                     'wamine': {  # why
-                        'preferred_tenses': ['li', 'ta'],  # reason questions
-                        'logic': 'Reason questions typically refer to past events or current states'
+                        'preferred_tenses': ['li', 'ta', 'su'],  # reason questions work with all tenses
+                        'logic': 'Reason questions can ask about past events, current states, or future intentions'
                     },
                     'timane': {  # when
                         'preferred_tenses': ['li', 'su', 'ta'],  # past events, future plans, or habitual

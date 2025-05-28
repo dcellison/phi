@@ -58,14 +58,60 @@ class PhiLexiconReader:
             self.errors.append(f"Could not read {pos_file}: {e}")
             return
         
-        # Find table entries with pattern: | phi_word | english_translation |
-        # Allow for various whitespace and formatting
-        table_pattern = r'\|\s*([a-z]+)\s*\|\s*([^|]+?)\s*\|'
+        # Find vocabulary tables by their headers first
+        # Look for table headers with "phi word" and "english translation" (or similar)
+        lines = content.split('\n')
+        vocabulary_tables = []
         
-        matches = re.findall(table_pattern, content, re.MULTILINE | re.IGNORECASE)
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            
+            # Check if this line looks like a table header
+            if '|' in line and ('phi' in line.lower() or 'word' in line.lower()):
+                # Check if next line is a separator (|---|---|)
+                if i + 1 < len(lines) and '|' in lines[i + 1] and '-' in lines[i + 1]:
+                    # Extract header columns
+                    headers = [col.strip().lower() for col in line.split('|') if col.strip()]
+                    
+                    # Check if this is a vocabulary table (has phi/word and english/translation columns)
+                    has_phi_column = any('phi' in h or 'word' in h or 'formation' in h for h in headers)
+                    has_translation_column = any('english' in h or 'translation' in h for h in headers)
+                    
+                    # Must be 2-3 columns for vocabulary (phi word + translation + optional function)
+                    # Exclude grammar example tables (4+ columns with 'gloss', 'type', etc.)
+                    is_grammar_example = any(keyword in h for h in headers 
+                                           for keyword in ['gloss', 'type', 'sentence', 'discourse'])
+                    
+                    if (has_phi_column and has_translation_column and 
+                        len(headers) >= 2 and len(headers) <= 3 and 
+                        not is_grammar_example):
+                        
+                        # This is a vocabulary table - collect all its rows
+                        table_start = i + 2  # Skip header and separator
+                        table_rows = []
+                        
+                        j = table_start
+                        while j < len(lines):
+                            row_line = lines[j].strip()
+                            if not row_line or not row_line.startswith('|'):
+                                break  # End of table
+                            
+                            # Extract row data
+                            row_data = [col.strip() for col in row_line.split('|') if col.strip()]
+                            if len(row_data) >= 2:  # Must have at least phi word and translation
+                                table_rows.append((row_data[0], row_data[1]))
+                            j += 1
+                        
+                        vocabulary_tables.extend(table_rows)
+                        i = j  # Skip past this table
+                        continue
+            
+            i += 1
         
+        # Process the vocabulary table entries
         words_found = 0
-        for phi_word, translation in matches:
+        for phi_word, translation in vocabulary_tables:
             phi_word = phi_word.strip().lower()
             translation = translation.strip()
             
@@ -78,8 +124,12 @@ class PhiLexiconReader:
             # Check for duplicates
             if phi_word in self.lexicon:
                 existing = self.lexicon[phi_word]
-                self.duplicates[phi_word].append((existing['pos'], existing['file']))
-                self.duplicates[phi_word].append((pos_name, pos_file.name))
+                # Only flag as duplicate if it's a different POS or different file
+                if existing['pos'] != pos_name or existing['file'] != pos_file.name:
+                    if phi_word not in self.duplicates:
+                        self.duplicates[phi_word].append((existing['pos'], existing['file']))
+                    self.duplicates[phi_word].append((pos_name, pos_file.name))
+                # If it's the same word, same POS, same file - just ignore the duplicate entry
             else:
                 self.lexicon[phi_word] = {
                     'pos': pos_name,
