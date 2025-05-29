@@ -514,20 +514,10 @@ class ParticleValidator:
                                 ))
                                 break
                     
-                    # Check for conflicting POS markers (si/na) - they are mutually exclusive
-                    if token in ['si', 'na']:  # POS markers
-                        for prev_particle, prev_target, prev_pos in seen_slot_2_with_targets:
-                            if (prev_particle in ['si', 'na'] and 
-                                prev_particle != token):
-                                errors.append(SentenceValidationError(
-                                    SentenceError.PARTICLE_ORDER,
-                                    f"Conflicting POS markers '{prev_particle}' and '{token}' "
-                                    f"cannot be used in the same sentence. "
-                                    f"A noun phrase cannot be both subject (si) and object (na)",
-                                    position=start_idx + i,
-                                    word=token
-                                ))
-                                break
+                    # POS markers (si/na/te) are designed to work together
+                    # si marks the subject, na marks the object, te marks the verb
+                    # These are complementary markers for different grammatical roles - basic phi grammar
+                    # No validation needed here as they serve different grammatical functions
                     
                     seen_slot_2_with_targets.append((token, target_word, i))
             
