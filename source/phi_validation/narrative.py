@@ -8,6 +8,7 @@ Handles temporal conjunctions, relative clause tense consistency, and narrative 
 
 from typing import List, Dict, Tuple, Optional
 from .errors import SentenceError, SentenceValidationError
+from .clause_parser import get_clause_parser
 
 
 class NarrativeValidator:
@@ -164,26 +165,36 @@ class NarrativeValidator:
         """Validate relative clause tense consistency."""
         errors = []
         
+        # Use clause parser to properly handle relative clause boundaries
+        clause_parser = get_clause_parser(self.lexicon_validator)
+        clauses = clause_parser.split_into_clauses(tokens)
+        
         for i, token in enumerate(tokens):
             if token in self.relative_clause_rules['markers']:
-                # Find the main clause tense (before relative marker)
-                main_tense = self._find_clause_tense(tokens, 0, i)
+                # Find the relative clause end using the clause parser
+                rel_clause_end = clause_parser.find_relative_clause_end(tokens, i + 1)
                 
-                # Find the relative clause tense (after relative marker)
-                relative_tense = self._find_clause_tense(tokens, i + 1, len(tokens))
+                # Extract relative clause
+                relative_clause = tokens[i + 1:rel_clause_end] if rel_clause_end > i + 1 else []
+                main_clause = tokens[rel_clause_end:] if rel_clause_end < len(tokens) else []
                 
-                if main_tense and relative_tense:
-                    tense_pair = (main_tense, relative_tense)
+                if relative_clause and main_clause:
+                    # Find tenses in each clause
+                    relative_tense = self._find_clause_tense_in_tokens(relative_clause)
+                    main_tense = self._find_clause_tense_in_tokens(main_clause)
                     
-                    # Check tense compatibility
-                    is_compatible = self._check_relative_tense_compatibility(tense_pair)
-                    
-                    if not is_compatible:
-                        errors.append(SentenceValidationError(
-                            SentenceError.RELATIVE_CLAUSE_TENSE_ERROR,
-                            f"Relative clause tense '{relative_tense}' incompatible with main clause tense '{main_tense}' after marker '{token}'",
-                            position=i
-                        ))
+                    if main_tense and relative_tense:
+                        tense_pair = (main_tense, relative_tense)
+                        
+                        # Check tense compatibility
+                        is_compatible = self._check_relative_tense_compatibility(tense_pair)
+                        
+                        if not is_compatible:
+                            errors.append(SentenceValidationError(
+                                SentenceError.RELATIVE_CLAUSE_TENSE_ERROR,
+                                f"Relative clause tense '{relative_tense}' incompatible with main clause tense '{main_tense}' after marker '{token}'",
+                                position=i
+                            ))
         
         return errors
     
@@ -255,6 +266,19 @@ class NarrativeValidator:
         # But only if there's a verb in this segment
         for i in range(start, end):
             if i < len(tokens) and self._identify_word_type(tokens[i]) == 'verb':
+                return 'ta'  # unmarked present
+        
+        return None
+    
+    def _find_clause_tense_in_tokens(self, clause_tokens: List[str]) -> Optional[str]:
+        """Find the tense marker in a list of tokens."""
+        for token in clause_tokens:
+            if token in self.tense_particles:
+                return token
+        
+        # If no explicit tense found, check if there's a verb (default present)
+        for token in clause_tokens:
+            if self._identify_word_type(token) == 'verb':
                 return 'ta'  # unmarked present
         
         return None

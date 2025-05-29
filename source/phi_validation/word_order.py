@@ -146,15 +146,6 @@ class WordOrderValidator:
             if token in subject_pronouns:
                 return True
             
-            # Check for derived noun subjects (ra + verb)
-            if token == 'ra' and i + 1 < len(tokens):
-                next_token = tokens[i + 1]
-                next_word_type = self.lexicon_validator.identify_word_type(next_token)
-                next_normalized_type = self._normalize_word_type(next_word_type)
-                if next_normalized_type == 'verb':
-                    # ra + verb creates a derived noun that can be a subject
-                    return True
-            
             # Check for regular nouns (which can be subjects)
             word_type = self.lexicon_validator.identify_word_type(token)
             normalized_type = self._normalize_word_type(word_type)
@@ -183,7 +174,7 @@ class WordOrderValidator:
         return False
         
     def _find_main_verb(self, tokens: List[str]) -> Optional[int]:
-        """Find the position of the main verb in the sentence, including derivational verbs."""
+        """Find the position of the main verb in the sentence."""
         if not self.lexicon_validator:
             return None
             
@@ -195,20 +186,9 @@ class WordOrderValidator:
             # Normalize word type to handle plural forms
             normalized_word_type = self._normalize_word_type(word_type)
             
-            # 1. Check for regular verbs
+            # Check for regular verbs
             if normalized_word_type == 'verb':
                 return i
-            
-            # 2. Check for derivational verb constructions (se + noun)
-            if token == 'se' and i + 1 < len(tokens):
-                # Check if followed by a noun (making it a derivational verb)
-                next_token = tokens[i + 1]
-                next_word_type = self.lexicon_validator.identify_word_type(next_token)
-                next_normalized_type = self._normalize_word_type(next_word_type)
-                
-                if next_normalized_type == 'noun':
-                    # se + noun functions as a verb, return the position of 'se'
-                    return i
                     
         return None
         
@@ -220,22 +200,8 @@ class WordOrderValidator:
             
         content_words = []
         
-        # Determine the actual end position of the verb construction
-        verb_end_pos = verb_pos
-        
-        # Check if this is a derivational verb construction (se + noun)
-        if verb_pos < len(tokens) and tokens[verb_pos] == 'se':
-            if verb_pos + 1 < len(tokens):
-                next_token = tokens[verb_pos + 1]
-                next_word_type = self.lexicon_validator.identify_word_type(next_token)
-                next_normalized_type = self._normalize_word_type(next_word_type)
-                
-                if next_normalized_type == 'noun':
-                    # se + noun construction spans two positions
-                    verb_end_pos = verb_pos + 1
-        
-        # Check all tokens after the complete verb construction
-        for i in range(verb_end_pos + 1, len(tokens)):
+        # Check all tokens after the verb
+        for i in range(verb_pos + 1, len(tokens)):
             token = tokens[i]
             word_type = self.lexicon_validator.identify_word_type(token)
             
@@ -286,11 +252,6 @@ class WordOrderValidator:
             
             # Skip particles and functional words
             if normalized_type == 'verb' and i != verb_pos:
-                # Check if this verb is part of a ra + verb (derived noun) construction
-                if i > 0 and tokens[i - 1] == 'ra':
-                    # This is ra + verb = derived noun, not a verb violation
-                    continue
-                    
                 # Found another verb before the main verb in the same clause
                 errors.append(SentenceValidationError(
                     error_type=SentenceError.WORD_ORDER,

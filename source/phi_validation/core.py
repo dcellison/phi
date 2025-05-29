@@ -27,12 +27,12 @@ from .temporal import TemporalValidator
 from .semantic_roles import SemanticRoleValidator
 from .modality import ModalityValidator
 from .evidentiality import EvidentialityValidator
-from .derivational import DerivationalValidator
 from .emphasis import EmphasisValidator
 from .politeness import PolitenessValidator
 from .discourse import DiscourseValidator
 from .interrogative import InterrogativeValidator
 from .narrative import NarrativeValidator
+from .punctuation import PunctuationValidator
 
 
 class PhiSentenceValidator:
@@ -56,25 +56,27 @@ class PhiSentenceValidator:
         self.semantic_role_validator = SemanticRoleValidator()
         self.modality_validator = ModalityValidator()
         self.evidentiality_validator = EvidentialityValidator()
-        self.derivational_validator = DerivationalValidator()
         self.emphasis_validator = EmphasisValidator()
         self.politeness_validator = PolitenessValidator()
         self.discourse_validator = DiscourseValidator()
         self.interrogative_validator = InterrogativeValidator()
         self.narrative_validator = NarrativeValidator()
+        self.punctuation_validator = PunctuationValidator()
         
         # Set up cross-module dependencies
         self.word_order_validator.set_lexicon_validator(self.lexicon_validator)
         self.particle_validator.set_lexicon_validator(self.lexicon_validator)
+        self.temporal_validator.set_lexicon_validator(self.lexicon_validator)
         self.semantic_role_validator.set_lexicon_validator(self.lexicon_validator)
         self.modality_validator.set_lexicon_validator(self.lexicon_validator)
-        self.derivational_validator.set_lexicon_validator(self.lexicon_validator)
         self.emphasis_validator.set_lexicon_validator(self.lexicon_validator)
+        self.narrative_validator.set_lexicon_validator(self.lexicon_validator)
+        self.punctuation_validator.set_lexicon_validator(self.lexicon_validator)
         
     def tokenize_sentence(self, sentence: str) -> List[str]:
         """Tokenize a Phi sentence into words."""
-        # Remove punctuation and split on whitespace
-        cleaned = re.sub(r'[^\w\s]', '', sentence.lower())
+        # Use the punctuation validator to clean the text properly
+        cleaned = self.punctuation_validator.clean_text_for_tokenization(sentence)
         return cleaned.split()
     
     def validate_sentence(self, sentence: str) -> Dict:
@@ -90,6 +92,11 @@ class PhiSentenceValidator:
         - is_valid: boolean indicating overall validity
         - error_summary: count of errors by type
         """
+        # First, validate punctuation on the raw text
+        all_errors = []
+        all_errors.extend(self.punctuation_validator.validate_punctuation(sentence, []))
+        
+        # Then tokenize for grammar validation
         tokens = self.tokenize_sentence(sentence)
         
         if not tokens:
@@ -100,15 +107,14 @@ class PhiSentenceValidator:
             return {
                 "sentence": sentence,
                 "tokens": tokens,
-                "errors": [empty_error],
-                "actual_errors": [empty_error],
+                "errors": [empty_error] + all_errors,
+                "actual_errors": [empty_error] + all_errors,
                 "warnings": [],
                 "is_valid": False,
                 "error_summary": {"Empty sentence": 1}
             }
         
-        all_errors = []
-        
+        # Continue with grammar validation
         # 1. Lexicon validation (word existence and types)
         all_errors.extend(self.lexicon_validator.validate_words(tokens))
         
@@ -130,22 +136,19 @@ class PhiSentenceValidator:
         # 7. Evidentiality validation (evidential particles and combinations)
         all_errors.extend(self.evidentiality_validator.validate_evidentiality(tokens))
         
-        # 8. Derivational validation (se/ra constructions)
-        all_errors.extend(self.derivational_validator.validate_derivational_particles(tokens))
-        
-        # 9. Emphasis validation (ma particle scope)
+        # 8. Emphasis validation (ma particle scope)
         all_errors.extend(self.emphasis_validator.validate_emphasis_scope(tokens))
         
-        # 10. Politeness validation (so particle context)
+        # 9. Politeness validation (so particle context)
         all_errors.extend(self.politeness_validator.validate_politeness_context(tokens))
         
-        # 11. Discourse validation (ha/mi sequences)
+        # 10. Discourse validation (ha/mi sequences)
         all_errors.extend(self.discourse_validator.validate_discourse_sequences(tokens))
         
-        # 12. Interrogative validation (question structures)
+        # 11. Interrogative validation (question structures)
         all_errors.extend(self.interrogative_validator.validate_interrogatives(tokens))
         
-        # 13. Narrative validation (relative clauses, sequences)
+        # 12. Narrative validation (relative clauses, sequences)
         all_errors.extend(self.narrative_validator.validate_narrative_structure(tokens))
         
         # Summarize errors by type

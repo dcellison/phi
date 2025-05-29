@@ -16,6 +16,9 @@ class TemporalValidator:
     
     def __init__(self):
         """Initialize temporal validation rules."""
+        # Lexicon validator for word type identification
+        self.lexicon_validator = None  # Will be set by core
+        
         # Tense particles
         self.tense_particles = {'li', 'ta', 'su'}
         
@@ -171,6 +174,10 @@ class TemporalValidator:
             'logic': 'Desiderative constructions require complement verb with te marker'
         }
     
+    def set_lexicon_validator(self, lexicon_validator):
+        """Set the lexicon validator for word type identification."""
+        self.lexicon_validator = lexicon_validator
+    
     def validate_temporal_structure(self, tokens: List[str]) -> List[SentenceValidationError]:
         """Validate all temporal aspects of the sentence."""
         errors = []
@@ -242,7 +249,7 @@ class TemporalValidator:
         errors = []
         
         # Split sentence into clauses using shared clause parser
-        clauses = get_clause_parser(None).split_into_clauses(tokens)
+        clauses = get_clause_parser(self.lexicon_validator).split_into_clauses(tokens)
         
         # Validate each clause separately for tense consistency
         for clause_tokens, clause_start_idx in clauses:

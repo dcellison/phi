@@ -72,9 +72,9 @@ class ParticleValidator:
         # Particle ordering within slots
         self.slot_0_order = [
             ['wa', 'ho', 'tu', 'hu'],  # sentence type
+            ['so'],  # politeness (moved before evidentiality)
             ['hi', 'ro', 'nu', 'ti', 'mu', 'pe'],  # evidentiality
             ['ha', 'mi', 'lu'],  # discourse and relative
-            ['so']  # politeness
         ]
         
         self.slot_1_order = [
@@ -86,7 +86,6 @@ class ParticleValidator:
         
         self.slot_2_order = [
             ['si', 'na', 'te'],  # POS markers
-            ['se', 'ra'],  # derivation
             ['he', 'pi', 'ne'],  # animacy
             ['pa', 'mo', 'sa', 'le', 're'],  # comparison
             ['wo', 'lo', 'no'],  # number
@@ -151,17 +150,6 @@ class ParticleValidator:
             
             current_group = self._get_particle_order_index(current_particle, order_groups)
             next_group = self._get_particle_order_index(next_particle, order_groups)
-            
-            # Special case for Slot 0: Allow flexible ordering between evidentiality and politeness
-            if slot_name == "Slot 0":
-                # Define evidentiality particles and politeness particle
-                evidentiality_particles = {'hi', 'ro', 'nu', 'ti', 'mu', 'pe'}
-                politeness_particle = {'so'}
-                
-                # Allow both "evidentiality + politeness" and "politeness + evidentiality"
-                if (current_particle in evidentiality_particles and next_particle in politeness_particle) or \
-                   (current_particle in politeness_particle and next_particle in evidentiality_particles):
-                    continue  # Skip validation for these flexible combinations
             
             if current_group > next_group:
                 errors.append(SentenceValidationError(
@@ -264,15 +252,6 @@ class ParticleValidator:
                         verb_found = True
                         break
                     
-                    # Check for derivational constructions that create verbs
-                    elif next_token == 'se' and j + 1 < len(tokens):
-                        # se + noun = derived verb
-                        following_token = tokens[j + 1]
-                        following_word_type = self._identify_word_type(following_token)
-                        if following_word_type == 'noun':
-                            verb_found = True
-                            break
-                    
                     # Check for adjective + copula constructions
                     elif next_word_type == 'adjective' and j + 1 < len(tokens):
                         # adjective + phera = adjective predicate
@@ -284,10 +263,6 @@ class ParticleValidator:
                     # Allow slot 0 and slot 2 particles between slot 1 particles and verbs
                     elif next_word_type and (next_word_type.endswith('_particle') or next_token in self.slot_0_particles or next_token in self.slot_2_particles):
                         # Skip particles (including slot 2 particles like animacy markers)
-                        continue
-                    
-                    # Allow derivational particles
-                    elif next_token in ['se', 'ra']:
                         continue
                     
                     # Allow adjectives (they might be part of predicate constructions)
