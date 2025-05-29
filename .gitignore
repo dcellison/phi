@@ -9,3 +9,11 @@ latex/source/*.lot
 latex/source/*.out
 latex/source/*.pdf
 latex/source/*.toc
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
