@@ -39,11 +39,6 @@ class SentenceError(Enum):
     EVIDENTIALITY_MODAL_CONFLICT = "evidentiality_modal_conflict"
     EVIDENTIALITY_DISCOURSE_CONFLICT = "evidentiality_discourse_conflict"
     REPORTED_SPEECH_NESTING_ERROR = "reported_speech_nesting_error"
-    DERIVATIONAL_SCOPE_ERROR = "derivational_scope_error"
-    DERIVATIONAL_SEMANTIC_ERROR = "derivational_semantic_error"
-    DERIVATIONAL_PHONOTACTIC_ERROR = "derivational_phonotactic_error"
-    DERIVATIONAL_CONTEXT_WARNING = "derivational_context_warning"
-    DERIVATIONAL_CONFLICT_ERROR = "derivational_conflict_error"
     EMPHASIS_SCOPE_ERROR = "emphasis_scope_error"
     POLITENESS_CONTEXT_MISMATCH = "politeness_context_mismatch"
     POLITENESS_EVIDENTIALITY_COMBINATION_ERROR = "politeness_evidentiality_combination_error"
@@ -57,6 +52,12 @@ class SentenceError(Enum):
     TOPIC_CHAIN_VIOLATION = "topic_chain_violation"
     CONTRAST_SCOPE_ERROR = "contrast_scope_error"
     TOPIC_CONTRAST_INTERACTION_ERROR = "topic_contrast_interaction_error"
+    MODALITY_ERROR = "modality_error"
+    EVIDENTIALITY_ERROR = "evidentiality_error"
+    POLITENESS_CONTEXT_ERROR = "politeness_context_error"
+    INTERROGATIVE_STRUCTURE_ERROR = "interrogative_structure_error"
+    NARRATIVE_STRUCTURE_ERROR = "narrative_structure_error"
+    PUNCTUATION_ERROR = "punctuation_error"
 
 
 class SentenceValidationError:

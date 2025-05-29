@@ -154,6 +154,13 @@ class PhiValidator:
                     syllable += word[i]
                     i += 1
             
+            # CRITICAL FIX: Handle invalid characters to prevent infinite loop
+            if syllable == "" and i < len(word):
+                # If we haven't processed anything, advance to avoid infinite loop
+                # This handles invalid characters that aren't consonants or vowels
+                i += 1
+                continue
+            
             if syllable:
                 syllables.append(syllable)
                 

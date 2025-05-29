@@ -8,6 +8,7 @@ constructions in Phi sentences.
 
 from typing import List, Dict, Tuple, Optional
 from .errors import SentenceError, SentenceValidationError
+from .clause_parser import get_clause_parser
 
 
 class ModalityValidator:
@@ -135,52 +136,48 @@ class ModalityValidator:
         """Validate conditional wetu clause structures."""
         errors = []
         
+        # Use clause parser to properly split conditional sentences
+        clause_parser = get_clause_parser(self.lexicon_validator)
+        clauses = clause_parser.split_into_clauses(tokens)
+        
         for i, token in enumerate(tokens):
             if token == 'wetu':
-                # Parse the conditional structure
-                protasis_tense = None  # if-clause tense
-                apodosis_tense = None  # then-clause tense
+                # Use clause parser to get proper conditional structure
+                if_clause, then_clause, _ = clause_parser.parse_conditional_clauses(tokens, i + 1)
                 
-                # Find tense in protasis (if-clause) - after wetu
-                for j in range(i + 1, len(tokens)):
-                    if tokens[j] in self.conditional_rules['protasis_tenses'] + ['li']:
-                        protasis_tense = tokens[j]
-                        break
-                    elif self._identify_word_type(tokens[j]) == 'verb':
-                        # Reached verb without explicit tense (default present)
-                        protasis_tense = 'ta'
-                        break
-                
-                # Find tense in apodosis (main clause) - before wetu
-                for j in range(i - 1, -1, -1):
-                    if tokens[j] in self.conditional_rules['apodosis_tenses'] + ['li', 'ta']:
-                        apodosis_tense = tokens[j]
-                        break
-                    elif self._identify_word_type(tokens[j]) == 'verb':
-                        # Reached verb without explicit tense (default present)
-                        apodosis_tense = 'ta'
-                        break
-                
-                # Validate tense combinations
-                if protasis_tense and apodosis_tense:
-                    # Check for prohibited combinations
-                    combination = (protasis_tense, apodosis_tense)
-                    if combination in self.conditional_rules['prohibited_combinations']:
-                        errors.append(SentenceValidationError(
-                            SentenceError.CONDITIONAL_STRUCTURE_ERROR,
-                            f"Illogical conditional: if-clause '{protasis_tense}' with then-clause '{apodosis_tense}'. {self.conditional_rules['logic']}",
-                            position=i
-                        ))
+                if if_clause and then_clause:
+                    # Find tenses in each clause
+                    protasis_tense = self._find_clause_tense(if_clause)
+                    apodosis_tense = self._find_clause_tense(then_clause)
                     
-                    # Check if protasis uses appropriate tense
-                    if protasis_tense not in self.conditional_rules['protasis_tenses'] and protasis_tense != 'ta':
-                        errors.append(SentenceValidationError(
-                            SentenceError.CONDITIONAL_STRUCTURE_ERROR,
-                            f"Conditional if-clause should use present or future tense, not '{protasis_tense}'",
-                            position=i
-                        ))
+                    # Validate tense combinations
+                    if protasis_tense and apodosis_tense:
+                        # Check for prohibited combinations
+                        combination = (protasis_tense, apodosis_tense)
+                        if combination in self.conditional_rules['prohibited_combinations']:
+                            errors.append(SentenceValidationError(
+                                SentenceError.CONDITIONAL_STRUCTURE_ERROR,
+                                f"Illogical conditional: if-clause '{protasis_tense}' with then-clause '{apodosis_tense}'. {self.conditional_rules['logic']}",
+                                position=i
+                            ))
+                        
+                        # Check if protasis uses appropriate tense
+                        if protasis_tense not in self.conditional_rules['protasis_tenses'] and protasis_tense != 'ta':
+                            errors.append(SentenceValidationError(
+                                SentenceError.CONDITIONAL_STRUCTURE_ERROR,
+                                f"Conditional if-clause should use present or future tense, not '{protasis_tense}'",
+                                position=i
+                            ))
         
         return errors
+    
+    def _find_clause_tense(self, clause_tokens: List[str]) -> Optional[str]:
+        """Find the tense marker in a clause."""
+        for token in clause_tokens:
+            if token in ['li', 'ta', 'su', 'ru']:
+                return token
+        # Default to present if no explicit tense
+        return 'ta'
     
     def _validate_desiderative_constructions(self, tokens: List[str]) -> List[SentenceValidationError]:
         """Validate desiderative we constructions."""

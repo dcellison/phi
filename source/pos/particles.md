@@ -13,7 +13,7 @@ particles are a cornerstone of phi grammar. because verbs do not conjugate, part
 
 ## core principle: precedence
 
-in phi, particles strictly precede the word, phrase, or clause they modify or are associated with. for example, the particle `na` marks the following noun phrase as the object (`na nuthui` - 'the pebble' as object), and the particle `wa` turns the following statement into a question (`wa phera phala` - 'is it raining?'). this consistent pre-positioning is a defining feature of phi syntax.
+in phi, particles strictly precede the word, phrase, or clause they modify or are associated with. for example, the particle `na` marks the following noun phrase as the object (`na nuthui` - 'the pebble' as object), and the particle `wa` turns the following statement into a question (`wa phera lashea` - 'is it raining?'). this consistent pre-positioning is a defining feature of phi syntax.
 
 the scope of a particle determines how much of the following sentence it affects. sentence frame particles (slot 0) typically apply to the entire clause. verb phrase particles (slot 1) modify the verb complex (tense, aspect, negation). core word particles (slot 2) generally modify only the immediately following word; the emphasis particle `ma` specifically targets only the single word after it.
 
@@ -47,7 +47,6 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | LESS    | less                              | `le`         |
 | MEM     | memory                            | `mu`         |
 | NEG     | negation                          | `me`         |
-| NVERB   | noun-to-verb derivation           | `se`         |
 | OBLG    | obligative                        | `ru`         |
 | OBJ     | object marker (*optional*)        | `na`         |
 | PAUC    | paucal                            | `wo`         |
@@ -66,7 +65,6 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | SPRL    | supurlative | `pa`          |
 | SUBJ    | subject marker (*optional*)       | `si`         |
 | TOP     | topic marker                      | `ha`         |
-| VNOUN   | verb-to-noun derivation           | `ra`         |
 | VRB     | verb marker (*optional*)          | `te`         |
 
 ## particle categories and definitions
@@ -90,7 +88,7 @@ these particles initiate a clause and define its overall mood, type, evidential 
 | mu  | evidentiality | memory              | mu [statement]   | `MEM [statement]`    | (I remember that...) |
 | pe  | evidentiality | prehumption | pe [statement]    | `PRES [statement]`   | (I assume that...)   |
 | ha  | discourse     | topic marker        | ha [statement]   | `TOP [statement]`    | (speaking of...)     |
-| mi  | discourse     | contraht | mi [statement]    | `CNTR [statement]`   | (however...)         |
+| mi  | discourse     | contrast | mi [statement]    | `CNTR [statement]`   | (however...)         |
 | lu  | sentence type | relative clause     | lu [clause]      | `REL [clause]`       | (relative clause)    |
 | so  | polituness | courtesy             | so [statement]   | `POL [statement]`    | (politeness marker)  |
 
@@ -115,13 +113,13 @@ the particle `so` precedes a statement or request to add a layer of politeness, 
 | type    | sentence (direct statement)   |
 | ------- | ----------------------------- |
 | english | i think the sky is blue  	  |
-| phi     | mia phemo whethui phera mipho |
+| phi     | mia whemo whethui phera mipho |
 | gloss | 1sg think sky be blue          |
 
 | type    | sentence (polite/deferential statement)                           |
 | ------- | ----------------------------------------------------------------- |
 | english | if i may say, i think the sky is blue / i believe the sky is blue |
-| phi     | so mia phemo whethui phera mipho                                  |
+| phi     | so mia whemo whethui phera mipho                                  |
 | gloss | POL 1sg think sky be blue                                          |
 
 ##### evidentiality examples (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`)
@@ -131,37 +129,37 @@ these particles indicate the source of the speaker's knowledge and typically app
 | type    | sentence (i see it) |
 | ------- | ------------------- |
 | english | it's raining        |
-| phi     | hi phera phala      |
+| phi     | hi phera lashea      |
 | gloss | DIR.EV be rain       |
 
 | type    | sentence (inferred) |
 | ------- | ------------------- |
 | english | it must be raining  |
-| phi     | ro phera phala      |
+| phi     | ro phera lashea      |
 | gloss | INFR be rain         |
 
 | type    | sentence (hearsay)    |
 | ------- | ----------------------|
 | english | they say it's raining |
-| phi     | nu phera phala        |
+| phi     | nu phera lashea        |
 | gloss | HRSY be rain           |
 
 | type    | sentence (reported)           |
 | ------- | ------------------------------|
 | english | she told me it's raining      |
-| phi     | ti phera phala                |
+| phi     | ti phera lashea                |
 | gloss | REP be rain                    |
 
 | type    | sentence (memory)               |
 | ------- | --------------------------------|
 | english | i remember it was raining       |
-| phi     | mu li phera phala               |
+| phi     | mu li phera lashea               |
 | gloss | MEM PST be rain                  |
 
 | type    | sentence (presumption)          |
 | ------- | --------------------------------|
 | english | i assume it's raining           |
-| phi     | pe phera phala                  |
+| phi     | pe phera lashea                  |
 | gloss | PRES be rain                     |
 
 ##### discourse marker examples (`ha`, `mi`)
@@ -170,26 +168,26 @@ these particles structure discourse and show relationships between topics and co
 
 | type    | sentence (topic introduction)         |
 | ------- | --------------------------------------|
-| english | speaking of trees, i saw a tall one   |
-| phi     | ha liphai, mia li phose phi tophe     |
-| gloss | TOP tree, 1sg PST see one tall        |
+| english | speaking of trees, i saw a tall tree   |
+| phi     | ha liphai, mia li lalue tophe liphai     |
+| gloss | TOP tree, 1sg PST see tall tree        |
 
 | type    | sentence (topic shift)                |
 | ------- | --------------------------------------|
 | english | as for the weather, it's beautiful    |
-| phi     | ha whethui, phera mipha               |
+| phi     | ha whethui, phera misha               |
 | gloss | TOP weather, be beautiful              |
 
 | type    | sentence (contrast)                   |
 | ------- | --------------------------------------|
 | english | i think it's blue. however, you disagree |
-| phi     | mia mipho phemo. mi thi me phemo      |
+| phi     | mia mipho whemo. mi thi me whemo      |
 | gloss | 1sg blue think. CNTR 2sg NEG think     |
 
 | type    | sentence (contrast)                      |
 | ------- | ----------------------------------------|
 | english | the day was warm. in contrast, the night was cold |
-| phi     | thashoa li waphe phera. mi thumea li thepo phera |
+| phi     | thashoa li waphe phera. mi mutheo li nethi phera |
 | gloss | day PST warm be. CNTR night PST cold be  |
 
 ### slot 1 particles (verb phrase)
@@ -211,7 +209,7 @@ these particles precede the verb complex and indicate tense, aspect, mood, or ne
 | ri  | tense/aspect      | imperfective        | ri whuwa      | `IPFV throw`    | was throwing / used to throw |
 | wi  | tense/aspect      | inceptive           | wi whuwa      | `INCH throw`    | starts throwing              |
 | wu  | tense/aspect      | cessative           | wu whuwa      | `CESS throw`    | stops throwing               |
-| me  | negation          | negative            | me phemo      | `NEG think`     | (not) think                  |
+| me  | negation          | negative            | me whemo      | `NEG think`     | (not) think                  |
 
 #### slot 1 examples
 
@@ -350,10 +348,8 @@ these particles immediately precede the specific noun, verb, or adjective/adverb
 | si  | pos marker | subject             | si mia        | `SUBJ 1sg`     | (subject marker) me    |
 | na  | pos marker | object              | na nuthui     | `OBJ pebble`   | (object marker) pebble |
 | te  | pos marker | verb                | te whuwa      | `VRB throw`    | (verb marker) throw    |
-| se  | derivation | noun-to-verb        | se lothea     | `NVERB love`   | (use noun as verb)     |
-| ra  | derivation | verb-to-noun        | ra shotu      | `VNOUN love`   | (use verb as noun)     |
 | he  | animacy    | human               | he thephoa    | `HUM person`   | (human) person         |
-| pi  | animacy    | animate (non-human) | pi whiloa     | `ANIM dog`     | (animate) dog          |
+| pi  | animacy    | animate (non-human) | pi whithoa    | `ANIM dog`     | (animate) dog          |
 | ne  | animacy    | inanimate           | ne nuthui     | `INAN pebble`  | (inanimate) pebble     |
 | pa  | comparison | supurlative | pa mipho       | `SPRL blue`    | most blue              |
 | mo  | comparison | comparative         | mo mipho      | `CMPR blue`    | more blue              |
@@ -380,7 +376,7 @@ these examples show how comparison particles combine with adjectives and the neg
 | type    | sentence                                 |
 | ------- | ---------------------------------------- |
 | english | this blanket is the softest in the house |
-| phi     | thi phelui phera pa pisha na lo phelui   |
+| phi     | phiato phelui phera pa pisha na lo phelui   |
 | gloss | this blanket be SPRL soft OBJ PL blanket  |
 
 | type    | sentence                                     |
@@ -408,26 +404,26 @@ the particle `ma` provides emphasis to the single word immediately following it,
 | type    | sentence  (neutral)                          |
 | ------- | -------------------------------------------- |
 | english | i throw the pebble at the tree every morning |
-| phi     | mia ta whuwa nuthui na liphai lo thowai      |
-| gloss | 1sg PRS throw pebble OBJ tree PL morning      |
+| phi     | mia ta nuthui na liphai whuwa lo thowai      |
+| gloss | 1sg PRS pebble OBJ tree throw PL morning      |
 
 | type    | sentence (emphasizing subject)                      |
 | ------- | --------------------------------------------------- |
 | english | *i* throw the pebble at the tree every morning      |
-| phi     | ma mia ta whuwa nuthui na liphai lo thowai          |
-| gloss | EMPH 1sg PRS throw pebble OBJ tree PL morning        |
+| phi     | ma mia ta nuthui na liphai whuwa lo thowai          |
+| gloss | EMPH 1sg PRS pebble OBJ tree throw PL morning        |
 
 | type    | sentence (emphasizing verb)                          |
 | ------- | ---------------------------------------------------- |
 | english | i *throw* the pebble at the tree every morning       |
-| phi     | mia ta ma whuwa nuthui na liphai lo thowai           |
-| gloss | 1sg PRS EMPH throw pebble OBJ tree PL morning         |
+| phi     | mia ta nuthui na liphai ma whuwa lo thowai           |
+| gloss | 1sg PRS pebble OBJ tree EMPH throw PL morning         |
 
 | type    | sentence (emphasizing object)                        |
 | ------- | ---------------------------------------------------- |
 | english | i throw the *pebble* at the tree every morning       |
-| phi     | mia ta whuwa ma nuthui na liphai lo thowai           |
-| gloss | 1sg PRS throw EMPH pebble OBJ tree PL morning         |
+| phi     | mia ta ma nuthui na liphai whuwa lo thowai           |
+| gloss | 1sg PRS EMPH pebble OBJ tree throw PL morning         |
 
 ##### animacy examples (`he`, `pi`, `ne`)
 
@@ -435,39 +431,39 @@ these optional particles specify the animacy class of a noun.
 
 | type    | sentence                              |
 | ------- | ------------------------------------- |
-| english | the person walks to the market daily  |
-| phi     | he thephoa po phola na weshia lo thashoa |
-| gloss | HUM person HAB walk OBJ market PL day  |
+| english | the person goes to the house daily  |
+| phi     | he thephoa po na hiwhea sharo lo thashoa |
+| gloss | HUM person HAB OBJ house go PL day  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
-| english | the dog chased the cat around the house   |
-| phi     | pi whiloa li shune na pi mathai shui na siwhea |
-| gloss | ANIM dog PST chase OBJ ANIM cat around OBJ house  |
+| english | the bird chased the cat around the house   |
+| phi     | pi lophea li na pi mathai shui na hiwhea shune |
+| gloss | ANIM bird PST OBJ ANIM cat around OBJ house chase  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | the pebble rolled down the hill quickly   |
-| phi     | ne nuthui li whowe thia na phiwhai ma tapine |
-| gloss | INAN pebble PST move down OBJ hill EMPH fast  |
+| phi     | ne nuthui li thia na phiwhai whowe ma tapine |
+| gloss | INAN pebble PST down OBJ hill move EMPH fast  |
 
 | type    | sentence                                       |
 | ------- | ---------------------------------------------- |
-| english | the *dogs* barked at the children all morning  |
-| phi     | pi ma lo whiloa li phemi na lo phiphea lo thowai |
-| gloss | ANIM EMPH PL dog PST bark OBJ PL child PL morning  |
+| english | the *birds* sang at the children all morning  |
+| phi     | pi ma lo lophea li na lo phiphea lo thothea whari |
+| gloss | ANIM EMPH PL bird PST OBJ PL child PL morning sing  |
 
 | type    | sentence                                |
 | ------- | --------------------------------------- |
 | english | the blue-eyed persons gathered outside  |
-| phi     | lo he thephoa na mo mipho whiphoa li shome walime |
-| gloss | PL HUM person OBJ CMPR blue eye PST gather outside  |
+| phi     | lo he thephoa na mo mipho whiphoa li walime shome |
+| gloss | PL HUM person OBJ CMPR blue eye PST outside gather  |
 
 | type    | sentence                                |
 | ------- | --------------------------------------- |
 | english | these inanimate objects are not mine    |
-| phi     | lo ne nuthui me phera na mia            |
-| gloss | PL INAN pebble NEG be OBJ 1sg            |
+| phi     | lo ne nuthui me na mia phera            |
+| gloss | PL INAN pebble NEG OBJ 1sg be            |
 
 ##### number examples (`wo`, `lo`, `no`)
 
@@ -476,20 +472,20 @@ these particles distinguish different quantities to provide precise number marki
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw a few pebbles                     |
-| phi     | mia li whuwa wo nuthui                    |
-| gloss | 1sg PST throw PAUC pebble                  |
+| phi     | mia li wo nuthui whuwa                    |
+| gloss | 1sg PST PAUC pebble throw                  |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw pebbles                           |
-| phi     | mia li whuwa lo nuthui                    |
-| gloss | 1sg PST throw PL pebble                    |
+| phi     | mia li lo nuthui whuwa                    |
+| gloss | 1sg PST PL pebble throw                    |
 
 | type    | sentence                                  |
 | ------- | ----------------------------------------- |
 | english | i threw many pebbles                      |
-| phi     | mia li whuwa no nuthui                    |
-| gloss | 1sg PST throw GPL pebble                   |
+| phi     | mia li no nuthui whuwa                    |
+| gloss | 1sg PST GPL pebble throw                   |
 
 | type    | sentence                                     |
 | ------- | -------------------------------------------- |
@@ -500,8 +496,8 @@ these particles distinguish different quantities to provide precise number marki
 | type    | sentence                                     |
 | ------- | -------------------------------------------- |
 | english | many birds fly over the mountains daily     |
-| phi     | no whiloa po phira shui na lo phiwhai lo thashoa |
-| gloss | GPL bird HAB fly over OBJ PL mountain PL day  |
+| phi     | no whithoa po shui na lo phiwhai phira lo thashoa |
+| gloss | GPL bird HAB over OBJ PL mountain fly PL day  |
 
 ## particle order rules
 
@@ -517,11 +513,11 @@ when multiple particles are used, they follow a strict order based on their scop
     *   position: clause initial.
     *   example: `tu so mia ta whuwa` (if politely I do throw...)
     *   additional examples:
-        *   `wa hi phera phala` (Q DIR.EV be rain) - "is it actually raining? (I see it)"
+        *   `wa hi phera lashea` (Q DIR.EV be rain) - "is it actually raining? (I see it)"
         *   `hu nu thephoa su phema` (PSB HRSY person FUT come) - "perhaps they say the person will come"
-        *   `ti so mia li phose na thi` (REP POL 1sg PST see OBJ 2sg) - "politely, I was told I saw you"
-        *   `ha mi thi me phemo` (TOP CNTR 2sg NEG think) - "speaking of that, however, you disagree"
-        *   `lu mia phemo nuthui phera raphe` (REL 1sg think pebble be grey) - "the pebble that I think is grey"
+        *   `ti so mia li lalue na thi` (REP POL 1sg PST see OBJ 2sg) - "politely, I was told I saw you"
+        *   `ha mi thi me whemo` (TOP CNTR 2sg NEG think) - "speaking of that, however, you disagree"
+        *   `lu mia whemo nuthui phera raphe` (REL 1sg think pebble be grey) - "the pebble that I think is grey"
 
 2.  **slot 1: verb phrase grammatical particles**
     *   scope: core verb phrase.
@@ -551,16 +547,15 @@ when multiple particles are used, they follow a strict order based on their scop
 | type    | sentence                                                                   |
 | ------- | -------------------------------------------------------------------------- |
 | english | perhaps the polite person emphatically won't *throw* the *large* pebbles   |
-| phi     | hu so thephoa su me ma whuwa ma tophe lo nuthui                            |
-| gloss | PSB POL person FUT NEG EMPH throw EMPH large PL pebble                      |
+| phi     | hu so thephoa su me ma tophe lo nuthui ma whuwa                            |
+| gloss | PSB POL person FUT NEG EMPH large PL pebble EMPH throw                      |
 
 *   breakdown:
     *   `hu so` (slot 0: perhaps polite)
     *   `thephoa` (subject noun)
     *   `su me` (slot 1: will not)
+    *   `ma tophe lo nuthui` (slot 2: *large* plural pebbles - object noun phrase)
     *   `ma whuwa` (slot 2: *throw*)
-    *   `ma tophe` (slot 2: *large*)
-    *   `lo nuthui` (slot 2: plural pebble - object noun phrase)
 
 ## usage notes
 
@@ -569,9 +564,9 @@ when multiple particles are used, they follow a strict order based on their scop
 
 *   **optional animacy markers:** the animacy markers (`he`, `pi`, `ne`) are also optional. they can be used to clarify the nature of a noun, especially if ambiguous, or omitted if the context or lexical meaning makes the animacy clear. they generally do not apply to pronouns (e.g., `mia`, `thi`, `sha`).
 
-*   **optional present tense (`ta`):** similarly, the simple present tense particle `ta` is formally required but often omitted in informal speech and writing when the present tense is implied by context (i.e., the absence of other tense/aspect markers). e.g., formal: `mia ta whuwa nuthui` (1sg PRS throw pebble), informal: `mia whuwa nuthui` (1sg throw pebble).
+*   **optional present tense (`ta`):** similarly, the simple present tense particle `ta` is formally required but often omitted in informal speech and writing when the present tense is implied by context (i.e., the absence of other tense/aspect markers). e.g., formal: `mia ta nuthui whuwa` (1sg PRS pebble throw), informal: `mia nuthui whuwa` (1sg pebble throw).
 
-*   **questions (`wa`):** phi uses a hybrid question system. yes/no questions start with `wa`, followed by the declarative sentence structure (e.g., `wa phera phala?` - "is it raining?" vs. `phera phala` - "it is raining"). wh-questions use interrogative words and can be combined with other particles except `wa` (e.g., `hamite thi phola?` - "how do you walk?", `so wulime thi ta shola?` - "politely, where do you go?", vs. `wa thi phola?` - "do you walk?"). The `wa` particle cannot be combined with wh-questions as they represent different question systems.
+*   **questions (`wa`):** phi uses a hybrid question system. yes/no questions start with `wa`, followed by the declarative sentence structure (e.g., `wa phera lashea?` - "is it raining?" vs. `phera lashea` - "it is raining"). wh-questions use interrogative words and can be combined with other particles except `wa` (e.g., `hamite thi phola?` - "how do you walk?", `so wulime thi ta sharo?` - "politely, where do you go?", vs. `wa thi phola?` - "do you walk?"). The `wa` particle cannot be combined with wh-questions as they represent different question systems.
 
 *   **plurals (`wo`, `lo`, `no`):** phi uses a three-way number distinction to provide precise quantity marking. `wo` indicates a few items (paucal, 2-5), `lo` indicates an unspecified plural quantity, and `no` indicates many items (6+). these particles precede the noun they quantify. if combined with other slot 2 particles, number particles come after optional `si`/`na` and after `ma` (`na ma wo nuthui` - "the few *pebbles*").
 
@@ -584,24 +579,15 @@ when multiple particles are used, they follow a strict order based on their scop
     *   verb phrase negation: `mia li me whuwa` (1sg PST NEG throw) - "I did not throw" (negates the action)
     *   constituent negation: `me lo nuthui` (NEG PL pebble) - "not pebbles" (negates just the noun)
     *   total vs. partial negation: to express "none" use `me` with the appropriate noun (`me thephoa` - "no person"); to express "not all" use `me lo` with the noun (`me lo thephoa` - "not all people")
-    *   double negation: two negation particles cancel each other out, creating a positive assertion: `me me whuwa` (NEG NEG throw) - "not not throw" = "do throw"; typically, this is used for emphasis: `mia me me phemo` (1sg NEG NEG think) - "I definitely think so" / "I don't not think so"
+    *   double negation: two negation particles cancel each other out, creating a positive assertion: `me me whuwa` (NEG NEG throw) - "not not throw" = "do throw"; typically, this is used for emphasis: `mia me me whemo` (1sg NEG NEG think) - "I definitely think so" / "I don't not think so"
 
-*   **exclusive plurals:** to express "we/us (but not you)", use `lo mia me thi` (plural me not you). exclusion can target others: `lo mia me lo sha` (plural me not plural it -> us not them).
-    *   example: `lo mia me thi su whuwa nuthui` (PL 1sg NEG 2sg FUT throw pebble) - "we (not you) will throw the pebble"
-    *   example: `lo mia su thuli na lo thuwhia me lo thi` (PL 1sg FUT finish OBJ PL work NEG PL 2sg) - "we will finish the jobs without you all"
-
-*   **derivational particles:** these particles allow words from one part of speech to be used temporarily as another part of speech, providing flexibility while maintaining phi's phonological distinctions between word classes.
-    *   `se` - noun-to-verb derivation (NVERB): transforms a noun into a verb construct. example: `mia na thi se lothea` (1sg OBJ 2sg NVERB love) - "i love you" (using the noun "lothea" as a verb)
-    *   `ra` - verb-to-noun derivation (VNOUN): transforms a verb into a noun construct. example: `ra shotu phera ritune tushe` (VNOUN love be very good) - "loving is very good" (using the verb "shotu" as a noun)
-    *   these derivational particles follow the same precedence rules as other core word particles, appearing immediately before the word being transformed.
-    *   this is particularly useful for:
-        *   noun-to-verb: when a dedicated verb doesn't exist or for creative/metaphorical expressions
-        *   verb-to-noun: for abstract concepts or gerund-like constructions
-        *   note: these are distinct from the more permanent solutions created with full lexical entries and should be seen as flexible, contextual transformations
+*   **exclusive plurals:** to express "we/us (but not you)", use `lo mia me thi` (plural me not you). exclusion can target others: `lo mia me lo sha` (plural me not them).
+    *   example: `lo mia me thi su nuthui whuwa` (PL 1sg NEG 2sg FUT pebble throw) - "we (not you) will throw the pebble"
+    *   example: `lo mia su na lo thuwhia thuli me lo thi` (PL 1sg FUT OBJ PL work finish NEG PL 2sg) - "we will finish the jobs without you all"
 
 *   **discourse markers (`ha`, `mi`):** these particles structure discourse and show relationships between different parts of conversation or text.
-    *   `ha` - topic marker: introduces or shifts to a new topic. example: `ha nuthui, mia phemo...` (TOP pebble, 1sg think...) - "speaking of pebbles, I think..."
-    *   `mi` - contrast marker: signals opposition or contrast with previous statements. example: `mia mipha phemo. mi thi...` (1sg beautiful think. CNTR 2sg...) - "I think it's beautiful. However, you..."
+    *   `ha` - topic marker: introduces or shifts to a new topic. example: `ha nuthui, mia whemo...` (TOP pebble, 1sg think...) - "speaking of pebbles, I think..."
+    *   `mi` - contrast marker: signals opposition or contrast with previous statements. example: `mia misha whemo. mi thi...` (1sg beautiful think. CNTR 2sg...) - "I think it's beautiful. However, you..."
     *   these follow the slot 0 particle order and help make discourse relationships explicit rather than implicit
 
 ## discourse particle sequences
@@ -617,35 +603,34 @@ topic chains use `ha` to maintain thematic coherence across multiple sentences, 
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of the weather, it's been quite unpredictable. the rain comes suddenly. then the sun appears. but the wind remains constant. |
-| phi     | ha whethui, li phera ritune me phemo. lashea ta phema tapine. mi taoshea ta pharu. tupo riwhea ta thewa sa. |
-| gloss   | TOP weather, PST be very NEG predictable. rain PRS come quickly. CNTR sun PRS appear. but wind PRS remain same. |
+| phi     | ha whethui, li phera ritune me whemo. lashea ta tapine phema. mi taoshea ta pharu. tupo riwhea ta sa thewa. |
+| gloss   | TOP weather, PST be very NEG predictable. rain PRS quickly come. CNTR sun PRS appear. but wind PRS same remain. |
 
 #### topic shift and subtopic development
 
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of trees, the old oak is magnificent. as for its branches, they reach toward the sky. regarding its roots, they extend deep underground. |
-| phi     | ha liphai, lotha whiophea phera mipha. ha na seiwhea, sha ta phiwe naho whethui. ha na haiwhia, sha ta phiwe thia na riphoa. |
-| gloss   | TOP tree, old oak be beautiful. TOP OBJ branch, 3sg PRS reach toward sky. TOP OBJ root, 3sg PRS reach down OBJ ground. |
+| phi     | ha liphai, lotha whiophea phera misha. ha na seiwhea, sha ta naho whethui phiwe. ha na haiwhia, sha ta thia na riphoa phiwe. |
+| gloss   | TOP tree, old oak be beautiful. TOP OBJ branch, 3sg PRS toward sky reach. TOP OBJ root, 3sg PRS down OBJ ground reach. |
 
 #### topic resumption after digression
 
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of the market, it's very busy today. (digression about crowds) anyway, back to the market - the prices have increased significantly. |
-| phi     | ha weshia, ta phera ritune thasha mathea. [...] ha mi weshia, lo phothui li phiro ritune tophe. |
-| gloss   | TOP market, PRS be very busy today. [...] TOP CNTR market, PL price PST increase very much. |
+| phi     | ha weshia, ta phera ritune thasha mathea. [...] ha mi weshia, lo phothui li ritune tophe phiro. |
+| gloss   | TOP market, PRS be very busy today. [...] TOP CNTR market, PL price PST very much increase. |
 
 #### nested topic structures
 
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of education, universities are important. regarding universities, their libraries are essential. as for libraries, their digital resources are expanding rapidly. |
-| phi     | ha muphui, lo thuwhui phera riphe. ha lo thuwhui, na lo whethea phera weshi. ha lo whethea, na lo pewhia phuroa ta phiro tapine ritune. |
-| gloss   | TOP education, PL university be important. TOP PL university, OBJ PL library be necessary. TOP PL library, OBJ PL digital resource PRS increase quickly very. |
+| phi     | ha muphui, lo thuwhui phera riphe. ha lo thuwhui, na lo whethea phera weshi. ha lo whethea, na lo pewhia phuroa ta tapine ritune phiro. |
+| gloss   | TOP education, PL university be important. TOP PL university, OBJ PL library be necessary. TOP PL library, OBJ PL digital resource PRS quickly very increase. |
 
 ### contrast scope with `mi`
-
 the contrast marker `mi` operates at different levels of discourse structure, from simple sentence-level contrasts to complex argumentative sequences spanning multiple paragraphs.
 
 #### sentence-level contrast
@@ -669,15 +654,15 @@ the contrast marker `mi` operates at different levels of discourse structure, fr
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | supporters argue that technology improves education by providing access to information. however, critics contend that it creates distractions and reduces human interaction. furthermore, research suggests that balanced approaches work best. |
-| phi     | lo raushai ta phemo pewhia ta thulo muphui thotu siphai phose. mi lo thetu ta phemo sha ta phesa thiphui nene thuru he thephoa thiphui. nene tashoa ta phemo sa phola ta phuri pa teshe. |
-| gloss   | PL supporter PRS think technology PRS improve education provide information access. CNTR PL critic PRS think 3sg PRS create distraction and reduce HUM person interaction. and research PRS think balanced approach PRS work most good. |
+| phi     | lo raushai ta whemo pewhia ta muphui thulo siphai lalue thotu. mi lo thetu ta whemo sha ta thiphui phesa nene he thephoa thiphui thuru. nene tashoa ta whemo sa phola ta pa teshe phuri. |
+| gloss   | PL supporter PRS think technology PRS education improve information access provide. CNTR PL critic PRS think 3sg PRS distraction create and HUM person interaction reduce. and research PRS think balanced approach PRS most good work. |
 
 #### contrast with evidentiality
 
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | i see that the project is progressing well. however, i hear that there are significant challenges behind the scenes. |
-| phi     | hi phuphui ta phola teshe. mi nu no huphea phera na me phemo thauthea. |
+| phi     | hi phuphui ta phola teshe. mi nu no huphea phera na me whemo thauthea. |
 | gloss   | DIR.EV project PRS progress good. CNTR HRSY many problem be OBJ NEG see area. |
 
 ### topic-contrast interaction patterns
@@ -689,16 +674,16 @@ when `ha` and `mi` appear together, they create sophisticated discourse structur
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of the new policy, most employees support it. however, within that same topic, senior staff have expressed concerns. |
-| phi     | ha papho tushui, lo phuri thephoa ta renu sha. ha mi thi tushui, lo phuwhia phuri ta phemi huphea. |
-| gloss   | TOP new policy, PL work person PRS support 3sg. TOP CNTR this policy, PL senior work PRS express concern. |
+| phi     | ha papho tushui, lo phuri thephoa ta sha renu. ha mi phiato tushui, lo phuwhia phuri ta huphea whemo. |
+| gloss   | TOP new policy, PL work person PRS 3sg support. TOP CNTR this policy, PL senior work PRS concern express. |
 
 #### topic shift with contrast
 
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of urban planning, cities need green spaces. as for rural development, however, the priorities are completely different. |
-| phi     | ha thuwhui phola, lo thuwhui ta photo hashe thauthea. ha mi rathea phola, tupo lo riphe phera ritune lepha. |
-| gloss   | TOP city planning, PL city PRS need green area. TOP CNTR rural development, but PL priority be very different. |
+| phi     | ha thuwhui phola, lo thuwhui ta hashe thauthea photo. ha mi rathea phola, tupo lo riphe phera ritune lepha. |
+| gloss   | TOP city planning, PL city PRS green area need. TOP CNTR rural development, but PL priority be very different. |
 
 #### complex argumentative structures
 
@@ -723,8 +708,8 @@ when `ha` and `mi` appear together, they create sophisticated discourse structur
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of technology in education, it offers many benefits. speaking of technology in healthcare, it also provides significant advantages. however, speaking of technology in privacy, it raises serious concerns. |
-| phi     | ha pewhia na muphui, sha ta thotu no teshe. ha pewhia na showhia, sha ta thotu riphe teshe. mi ha pewhia na nithoa, sha ta phesa tasha huphea. |
-| gloss   | TOP technology OBJ education, 3sg PRS provide many good. TOP technology OBJ healthcare, 3sg PRS provide important good. CNTR TOP technology OBJ privacy, 3sg PRS create serious concern. |
+| phi     | ha pewhia na muphui, sha ta no teshe thotu. ha pewhia na showhia, sha ta riphe teshe thotu. mi ha pewhia na nithoa, sha ta tasha huphea phesa. |
+| gloss   | TOP technology OBJ education, 3sg PRS many good provide. TOP technology OBJ healthcare, 3sg PRS important good provide. CNTR TOP technology OBJ privacy, 3sg PRS serious concern create. |
 
 #### contrastive topic chains
 
@@ -739,7 +724,7 @@ when `ha` and `mi` appear together, they create sophisticated discourse structur
 | type    | discourse sequence |
 | ------- | ------------------ |
 | english | speaking of our discussion, we've covered the main points. however, regarding time constraints, we should focus on conclusions. therefore, concerning next steps, let's establish clear actions. |
-| phi     | ha lo mia thiwhea, lo mia li phose na riphe niphia. mi ha lawhui huphea, lo mia ru ma rushai phemo. huwa ha su phola, lo mia ru phesa teshe phawu. |
+| phi     | ha lo mia thiwhea, lo mia li lalue na riphe niphia. mi ha lawhui huphea, lo mia ru ma rushai whemo. huwa ha su phola, lo mia ru phesa teshe phawu. |
 | gloss   | TOP PL 1sg discussion, PL 1sg PST see OBJ important point. CNTR TOP time problem, PL 1sg should EMPH conclusion think. so TOP future action, PL 1sg should create good action. |
 
 ### discourse particle scope rules
@@ -760,16 +745,16 @@ phi particles follow the pattern `[C][V]` where:
 
 Total possible combinations = 9 × 5 = 45 particles
 
-Currently defined particles = 45 (slot 0: wa, ho, tu, hu, ro, nu, lu, so, ti, mu, pe, ha, mi + 
+Currently defined particles = 43 (slot 0: wa, ho, tu, hu, ro, nu, lu, so, ti, mu, pe, ha, mi + 
 slot 1: li, ta, su, we, to, ru, la, ni, po, pu, ri, wi, wu, me + 
-slot 2: si, na, te, se, ra, he, pi, ne, pa, mo, sa, le, re, lo, ma, wo, no)
+slot 2: si, na, te, he, pi, ne, pa, mo, sa, le, re, lo, ma, wo, no)
 
 The currently unused combinations (available for future extensions) are:
-(none - all patterns used)
+ra, se
 
-Remaining available particles = 0
+Remaining available particles = 2
 
-note: phi has reached its maximum particle capacity using all possible `[C][V]` combinations. future expansion would require either repurposing existing particles or extending to new phonotactic patterns.
+note: phi has 2 available particle slots (ra, se) for future expansion if needed. these were previously reserved for derivational morphology, which has been removed from phi in favor of lexical specificity. The current particle system provides comprehensive grammatical coverage without derivational complexity.
 
 ## phi particle vocabulary
 
@@ -802,13 +787,11 @@ this section provides a comprehensive list of all phi particles with their basic
 | pi | animate animacy marker |
 | po | habitual aspect |
 | pu | perfective aspect |
-| ra | verb-to-noun derivation |
 | re | least (superlative) |
 | ri | imperfective aspect |
 | ro | inference evidentiality |
 | ru | obligative |
 | sa | equality |
-| se | noun-to-verb derivation |
 | si | subject marker |
 | so | politeness marker |
 | su | future tense |
@@ -826,4 +809,5 @@ this section provides a comprehensive list of all phi particles with their basic
 ---
 
 *for detailed usage examples and grammatical explanations of each particle, see the comprehensive sections above.*
+
 

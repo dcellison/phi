@@ -29,9 +29,9 @@ class PolitenessValidator:
         # Slot 0 ordering for position validation
         self.slot_0_order = [
             ['wa', 'ho', 'tu', 'hu'],  # sentence type
+            ['so'],  # politeness (comes before evidentiality as decided)
             ['hi', 'ro', 'nu', 'ti', 'mu', 'pe'],  # evidentiality
             ['ha', 'mi', 'lu'],  # discourse and relative
-            ['so']  # politeness
         ]
     
     def set_lexicon_validator(self, lexicon_validator):

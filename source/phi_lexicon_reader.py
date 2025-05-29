@@ -48,7 +48,25 @@ class PhiLexiconReader:
     
     def _process_pos_file(self, pos_file: Path) -> None:
         """Process a single POS file."""
-        pos_name = pos_file.stem  # filename without .md extension
+        raw_pos_name = pos_file.stem  # filename without .md extension
+        
+        # Convert plural filenames to singular POS names for consistency
+        pos_name_mapping = {
+            'pronouns': 'pronoun',
+            'nouns': 'noun',
+            'verbs': 'verb', 
+            'adjectives': 'adjective',
+            'adverbs': 'adverb',
+            'particles': 'particle',
+            'prepositions': 'preposition',
+            'determiners': 'determiner',
+            'classifiers': 'classifier',
+            'conjunctions': 'conjunction',
+            'interjections': 'interjection',
+            'numbers': 'number'
+        }
+        
+        pos_name = pos_name_mapping.get(raw_pos_name, raw_pos_name)
         print(f"  Processing {pos_file.name}...")
         
         try:

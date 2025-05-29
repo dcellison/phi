@@ -78,16 +78,6 @@ class EmphasisValidator:
                 ],
                 'logic': 'ma can emphasize quantity distinctions for contrast'
             },
-            'ma_with_derivational': {
-                'pattern': 'ma + derivational + word',
-                'validity': 'valid',
-                'semantic_effect': 'emphasizes_derived_meaning',
-                'examples': [
-                    ('ma se lathia', 'emphasizes using-as-axe action'),
-                    ('ma ra shola', 'emphasizes walking-as-concept')
-                ],
-                'logic': 'ma can emphasize the derived meaning of derivational constructions'
-            },
             'ma_with_tense': {
                 'pattern': 'ma + tense + verb',
                 'validity': 'valid',
@@ -201,6 +191,40 @@ class EmphasisValidator:
                 'complex_constructions': 'first_content_word',
                 'particle_sequences': 'skip_particles_to_content',
                 'logic': 'Emphasis scope resolution follows immediate content word principle'
+            }
+        }
+        
+        # Emphasis patterns - systematic targeting rules
+        self.emphasis_patterns = {
+            'ma_with_content_words': {
+                'pattern': 'ma + word',
+                'targets': ['noun', 'verb', 'adjective', 'adverb', 'pronoun'],
+                'examples': [
+                    ('ma mia', 'emphasizes subject pronoun'),
+                    ('ma nuthui', 'emphasizes object noun'),
+                    ('ma whuwa', 'emphasizes action verb'),
+                    ('ma mipho', 'emphasizes color adjective')
+                ],
+                'logic': 'ma emphasizes the semantic content of core words'
+            },
+            'ma_with_particles': {
+                'pattern': 'ma + particle',
+                'targets': ['tense', 'aspect', 'animacy', 'comparison', 'number'],
+                'examples': [
+                    ('ma li', 'emphasizes past tense'),
+                    ('ma lo', 'emphasizes plural number'),
+                    ('ma pa', 'emphasizes superlative degree')
+                ],
+                'logic': 'ma can emphasize the grammatical meaning of certain particles'
+            },
+            'ma_with_classifiers': {
+                'pattern': 'ma + classifier + noun',
+                'targets': ['classifier_constructions'],
+                'examples': [
+                    ('ma teo nuthui', 'emphasizes round classification'),
+                    ('ma lea liphai', 'emphasizes long classification')
+                ],
+                'logic': 'ma can emphasize the semantic precision of classifier constructions'
             }
         }
     
@@ -325,24 +349,6 @@ class EmphasisValidator:
                     word=f"ma+{immediate_target}"
                 ))
                 return errors
-        
-        # Special handling for derivational particles
-        if immediate_target in ['se', 'ra']:
-            if position + 2 < len(tokens):
-                following_word = tokens[position + 2]
-                following_type = self._identify_word_type(following_word)
-                expected_type = 'noun' if immediate_target == 'se' else 'verb'
-                if following_type == expected_type:
-                    # Valid derivational construction
-                    return errors
-                else:
-                    errors.append(SentenceValidationError(
-                        SentenceError.EMPHASIS_SCOPE_ERROR,
-                        f"Emphasis on derivational particle '{immediate_target}' not followed by {expected_type}",
-                        position=position,
-                        word=f"ma+{immediate_target}"
-                    ))
-                    return errors
         
         # Special handling for tense particles - allow for temporal emphasis
         if immediate_target in ['ta', 'li', 'su']:
@@ -477,24 +483,6 @@ class EmphasisValidator:
                 ))
                 return errors
         
-        # Special handling for other slot 2 particles that can be emphasized
-        if target_word in ['se', 'ra']:
-            # Derivational particles - check if followed by appropriate word
-            if position + 2 < len(tokens):
-                following_word = tokens[position + 2]
-                following_type = self._identify_word_type(following_word)
-                if (target_word == 'se' and following_type == 'noun') or (target_word == 'ra' and following_type == 'verb'):
-                    # Valid derivational construction
-                    return errors
-                else:
-                    errors.append(SentenceValidationError(
-                        SentenceError.EMPHASIS_SCOPE_ERROR,
-                        f"Emphasis on derivational particle '{target_word}' not followed by appropriate word",
-                        position=position,
-                        word=f"ma+{target_word}"
-                    ))
-                    return errors
-        
         # Check for prohibited targets (other particles that shouldn't be emphasized)
         prohibited_particles = ['wa', 'ho', 'tu', 'hu', 'hi', 'ro', 'nu', 'ti', 'mu', 'pe', 'ha', 'mi', 'lu', 'so', 'we', 'la', 'ni', 'po', 'pu', 'ri', 'wi', 'wu', 'to', 'ru', 'me', 'si', 'na', 'te']
         if target_word in prohibited_particles:
@@ -550,10 +538,7 @@ class EmphasisValidator:
         elif next_token in ['wo', 'lo', 'no']:
             # ma + number pattern
             self._validate_ma_number_interaction(position, tokens, errors)
-        elif next_token in ['se', 'ra']:
-            # ma + derivational pattern
-            self._validate_ma_derivational_interaction(position, tokens, errors)
-        elif next_token in ['li', 'ta', 'su']:
+        elif next_token in ['ta', 'li', 'su']:
             # ma + tense pattern
             self._validate_ma_tense_interaction(position, tokens, errors)
         elif next_word_type == 'slot_1_particle':
@@ -638,33 +623,6 @@ class EmphasisValidator:
                 f"Emphasis on number marker '{tokens[position + 1]}' not followed by noun",
                 position=position,
                 word=f"ma+{tokens[position + 1]}+{noun_word}"
-            ))
-    
-    def _validate_ma_derivational_interaction(self, position: int, tokens: List[str], 
-                                            errors: List[SentenceValidationError]):
-        """Validate ma + derivational particle interaction."""
-        if position + 2 >= len(tokens):
-            errors.append(SentenceValidationError(
-                SentenceError.EMPHASIS_SCOPE_ERROR,
-                f"Emphasis on derivational marker incomplete - missing target word",
-                position=position,
-                word=f"ma+{tokens[position + 1]}"
-            ))
-            return
-        
-        # Check if there's appropriate word after derivational marker
-        target_word = tokens[position + 2]
-        target_type = self._identify_word_type(target_word)
-        derivational_particle = tokens[position + 1]
-        
-        expected_type = 'noun' if derivational_particle == 'se' else 'verb'
-        
-        if target_type != expected_type:
-            errors.append(SentenceValidationError(
-                SentenceError.EMPHASIS_SCOPE_ERROR,
-                f"Emphasis on derivational marker '{derivational_particle}' not followed by {expected_type}",
-                position=position,
-                word=f"ma+{derivational_particle}+{target_word}"
             ))
     
     def _validate_ma_tense_interaction(self, position: int, tokens: List[str], 
