@@ -89,16 +89,17 @@ determiners when specifying quantity before nouns. in this role, they follow the
 grammatical patterns as other quantifying determiners but maintain their identity as 
 numbers.
 
-| phi example          | english translation  | function        |
-| -------------------- | -------------------- | --------------- |
-| phi thephoa          | one person           | number as determiner |
-| whu teo mophui       | two balls            | number as determiner |
-| the neo siwhea       | three houses         | number as determiner |
-| pho whaea phuroa     | four words           | number as determiner |
+numbers can serve as determiners in two ways:
+- **simple constructions**: number directly modifying a noun (e.g., basic counting)
+- **complex constructions**: number + classifier + noun combinations for semantic precision
 
 this dual functionality allows numbers to serve both as standalone nouns (when counting) 
 and as determiners (when quantifying other nouns), maintaining phi's principle of 
 systematic word usage without requiring separate determiner definitions for each number.
+
+for comprehensive examples of number constructions functioning as determiners, including 
+both simple and classifier-based forms, see the complete documentation in the numbers 
+section.
 
 ## examples of determiner usage
 

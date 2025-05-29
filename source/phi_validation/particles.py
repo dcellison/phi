@@ -354,26 +354,9 @@ class ParticleValidator:
         elif word in self.slot_2_particles:
             return "slot_2_particle"
         
-        # Check lexicon for content words
+        # Check lexicon for content words (now returns normalized singular forms)
         if self.lexicon_validator:
-            pos = self.lexicon_validator.identify_word_type(word)
-            if pos:
-                # Convert plural POS forms to singular forms expected by validation logic
-                pos_mapping = {
-                    'nouns': 'noun',
-                    'verbs': 'verb',
-                    'adjectives': 'adjective',
-                    'adverbs': 'adverb',
-                    'particles': 'particle',
-                    'pronouns': 'pronoun',
-                    'prepositions': 'preposition',
-                    'conjunctions': 'conjunction',
-                    'determiners': 'determiner',
-                    'classifiers': 'classifier',
-                    'interjections': 'interjection',
-                    'numbers': 'number'
-                }
-                return pos_mapping.get(pos, pos)
+            return self.lexicon_validator.identify_word_type(word)
         
         return None
     
@@ -579,6 +562,4 @@ class ParticleValidator:
     
     def _is_classifier(self, word: str) -> bool:
         """Check if a word is a classifier."""
-        if self.lexicon_validator:
-            return self.lexicon_validator.identify_word_type(word) == 'classifier'
-        return False 
+        return self._identify_word_type(word) == 'classifier' 

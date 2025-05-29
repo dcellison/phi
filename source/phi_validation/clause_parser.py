@@ -27,6 +27,11 @@ class ClauseParser:
             'mi'     # contrast (creates discourse boundary)
         }
         
+        # Relative pronouns that create relative clauses
+        self.relative_pronouns = {
+            'lu'     # who/that/which
+        }
+        
         # Reported speech verbs that introduce separate clauses
         self.reported_speech_verbs = {
             'shuso',  # say
@@ -34,7 +39,7 @@ class ClauseParser:
         }
     
     def split_into_clauses(self, tokens: List[str]) -> List[Tuple[List[str], int]]:
-        """Split tokens into clauses at clause boundary conjunctions and reported speech verbs."""
+        """Split tokens into clauses at clause boundary conjunctions, relative pronouns, and reported speech verbs."""
         clauses = []
         current_clause = []
         current_start_idx = 0
@@ -50,6 +55,26 @@ class ClauseParser:
                 current_clause.append(tokens[i + 1])  # Add mi
                 i += 2  # Skip both ha and mi
                 continue
+            elif token in self.relative_pronouns:
+                # Handle relative clauses: [head noun] [relative pronoun] [relative clause] [main clause]
+                current_clause.append(token)  # Include relative pronoun in current clause
+                
+                # Find the end of the relative clause
+                rel_clause_end = self.find_relative_clause_end(tokens, i + 1)
+                
+                # Add the relative clause content to current clause
+                for j in range(i + 1, rel_clause_end):
+                    if j < len(tokens):
+                        current_clause.append(tokens[j])
+                
+                # End the current clause (which now includes head noun + relative clause)
+                if current_clause:
+                    clauses.append((current_clause, current_start_idx))
+                
+                # Start new clause for the main predicate
+                current_clause = []
+                current_start_idx = rel_clause_end
+                i = rel_clause_end
             elif token in self.clause_boundary_conjunctions:
                 # End current clause (before conjunction)
                 if current_clause:
@@ -93,6 +118,48 @@ class ClauseParser:
             clauses.append((current_clause, current_start_idx))
         
         return clauses
+    
+    def find_relative_clause_end(self, tokens: List[str], start_idx: int) -> int:
+        """Find the end position of a relative clause starting at start_idx."""
+        if start_idx >= len(tokens):
+            return len(tokens)
+        
+        # Look for the pattern that indicates the relative clause has ended
+        # Typically this happens when we find the start of the main predicate
+        
+        i = start_idx
+        found_verb = False
+        
+        while i < len(tokens):
+            token = tokens[i]
+            word_type = self.identify_word_type(token)
+            
+            # Track if we've found a verb in the relative clause
+            if word_type == 'verb':
+                found_verb = True
+                i += 1
+                continue
+            
+            # After finding a verb, look for signs of main clause starting
+            if found_verb:
+                # Check for adjectives that might start predicate phrases
+                if word_type == 'adjective':
+                    # This likely starts the main predicate (e.g., "riphe phera" = "important is")
+                    return i
+                
+                # Check for new subjects (pronouns or nouns with animacy markers)
+                if (token in ['mia', 'thi', 'sha'] or  # pronouns
+                    token in ['he', 'pi', 'ne']):      # animacy markers
+                    return i
+                
+                # Check for clause boundary conjunctions
+                if token in self.clause_boundary_conjunctions:
+                    return i
+            
+            i += 1
+        
+        # If no clear boundary found, assume relative clause goes to end
+        return len(tokens)
     
     def parse_conditional_clauses(self, tokens: List[str], start_idx: int) -> Tuple[List[str], List[str], int]:
         """Parse wetu conditional into if-clause and then-clause."""

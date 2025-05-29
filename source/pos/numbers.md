@@ -135,13 +135,37 @@ in addition to basic counting, phi numbers can serve various grammatical and fun
 ### as adjectives
 
 numbers can function as adjectives when they modify nouns. in phi, this involves placing 
-the number before a classifier (if applicable) and then the noun:
+the number before a classifier (if applicable) and then the noun. these compound 
+constructions are fundamentally number expressions that can also function as determiners 
+in sentences.
+
+#### simple number + noun constructions
 
 | phi example           | literal translation     | english translation |
 | --------------------- | ----------------------- | ------------------- |
-| phi hau thephoa       | one human person        | one person          |
-| whu teo mophui        | two round ball          | two balls           |
-| the neo siwhea        | three building house    | three houses        |
+| phi thephoa           | one person              | one person          |
+| whu mophui            | two balls               | two balls           |
+| the siwhea            | three houses            | three houses        |
+
+#### complex number + classifier + noun constructions
+
+when precision about object shape, size, or category is important, phi uses classifiers 
+between the number and noun. these create compound number expressions that specify both 
+quantity and categorical information:
+
+| phi example           | literal translation     | english translation | classifier used |
+| --------------------- | ----------------------- | ------------------- | --------------- |
+| phi hau thephoa       | one human person        | one person          | hau (human)     |
+| whu teo mophui        | two round ball          | two balls           | teo (round)     |
+| the neo siwhea        | three building house    | three houses        | neo (building)  |
+
+these compound constructions maintain their identity as number expressions while 
+functioning grammatically as determiners when they precede nouns. the classifier 
+provides semantic precision about the type or shape of objects being counted.
+
+note: simple constructions (number + noun) are preferred in most contexts, with 
+classifier constructions used when the additional categorical information is 
+communicatively relevant.
 
 ### in calculations
 

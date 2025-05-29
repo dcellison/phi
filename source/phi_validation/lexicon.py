@@ -60,10 +60,26 @@ class LexiconValidator:
         return errors
     
     def identify_word_type(self, word: str) -> Optional[str]:
-        """Identify the part of speech of a word."""
+        """Identify the part of speech of a word (returns normalized singular form)."""
         word_info = self.lexicon_reader.get_word_info(word)
         if word_info:
-            return word_info['pos']
+            pos = word_info['pos']
+            # Normalize plural POS forms to singular forms expected by validation logic
+            pos_mapping = {
+                'nouns': 'noun',
+                'verbs': 'verb', 
+                'adjectives': 'adjective',
+                'adverbs': 'adverb',
+                'particles': 'particle',
+                'pronouns': 'pronoun',
+                'prepositions': 'preposition',
+                'conjunctions': 'conjunction',
+                'determiners': 'determiner',
+                'classifiers': 'classifier',
+                'interjections': 'interjection',
+                'numbers': 'number'
+            }
+            return pos_mapping.get(pos, pos)
         return None
     
     def get_word_meanings(self, word: str) -> List[str]:
@@ -76,27 +92,27 @@ class LexiconValidator:
     def is_particle(self, word: str) -> bool:
         """Check if a word is a particle."""
         word_type = self.identify_word_type(word)
-        return word_type == 'particles'
+        return word_type == 'particle'
     
     def is_noun(self, word: str) -> bool:
         """Check if a word is a noun."""
         word_type = self.identify_word_type(word)
-        return word_type == 'nouns'
+        return word_type == 'noun'
     
     def is_verb(self, word: str) -> bool:
         """Check if a word is a verb."""
         word_type = self.identify_word_type(word)
-        return word_type == 'verbs'
+        return word_type == 'verb'
     
     def is_adjective(self, word: str) -> bool:
         """Check if a word is an adjective."""
         word_type = self.identify_word_type(word)
-        return word_type == 'adjectives'
+        return word_type == 'adjective'
     
     def is_adverb(self, word: str) -> bool:
         """Check if a word is an adverb."""
         word_type = self.identify_word_type(word)
-        return word_type == 'adverbs'
+        return word_type == 'adverb'
     
     def get_all_parts_of_speech(self, word: str) -> List[str]:
         """Get all parts of speech for a word."""

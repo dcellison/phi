@@ -342,7 +342,7 @@ class SentenceExerciser:
                 ("mia li su whemo", "conflicting tenses", False),
                 ("hi nu mia ta whemo", "conflicting evidentiality", False),
                 ("ma wa mia ta whemo", "emphasis on question particle", False),
-                ("so hi mia ta whemo", "wrong particle order", False),
+                ("ma hi so mia ta whemo", "wrong particle order", False),
                 ("mia mia mia ta whemo", "triple pronoun", False),
                 ("he he he thephoa ta whemo", "triple animacy", False),
                 ("ta ta ta whemo", "triple tense", False),
