@@ -26,8 +26,8 @@ POL DIR SUB I OBJ inanimate book PRES VERB learn
 "I politely learn about the book." (I see this directly)
 
 Simplified (informal):
-mia ta whera ne whethea.
-I PRES learn inanimate book
+mia na ne whethea ta whera.
+I OBJ inanimate book PRES learn
 "I learn about the book."
 ```
 
@@ -81,13 +81,13 @@ Phi requires precision in contexts where ambiguity is costly, but allows efficie
 
 ```
 High-stakes context (formal writing):
-so hi si he nowhea na he phiphea ta te whemo thueta ne whethea riphe phera.
-POL DIR SUB human teacher OBJ human student PRES VERB think this inanimate book important is
+so hi si he nowhea na thueta ne whethea riphe ta te whemo.
+POL DIR SUB human teacher OBJ this inanimate book important PRES VERB think
 "The teacher thinks this book is important." (I witnessed this directly, speaking politely)
 
 Low-stakes context (casual conversation):
-he nowhea whemo thueta ne whethea riphe phera.
-human teacher think this inanimate book important is
+he nowhea na thueta ne whethea riphe ta whemo.
+human teacher OBJ this inanimate book important PRES think
 "The teacher thinks this book is important."
 ```
 
