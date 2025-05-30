@@ -157,4 +157,9 @@ Choose evidentials based on your actual knowledge source:
 
 ---
 
-*These validated examples form the foundation for understanding phi's evidentiality system in practice.* 
+*This completes the comprehensive library of validated evidentiality examples. All constructions have been tested and verified using phi's grammar validation system.*
+
+**Navigation:**
+- *Previous: [Phi's Evidential Particles](3-phi-evidential-particles.md)*
+- *Up: [Section 9 Overview](1-overview.md)*
+- *Next: [Section 10: Tense and Aspect](../../10-tense-and-aspect/)* 

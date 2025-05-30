@@ -17,7 +17,10 @@ Understanding the conceptual basis of phi's particle system
   - [1.3 The role of particles in phi](part1-theoretical-foundation/1-introduction-to-particle-systems/3-role-of-particles-in-phi.md)
   
 - **[2. Cross-Linguistic Perspective](part1-theoretical-foundation/2-cross-linguistic-perspective/)**
-  - Universal patterns and language-specific implementations
+  - [2.1 Overview](part1-theoretical-foundation/2-cross-linguistic-perspective/1-overview.md)
+  - [2.2 Universal patterns](part1-theoretical-foundation/2-cross-linguistic-perspective/2-universal-patterns.md)
+  - [2.3 Language-specific implementations](part1-theoretical-foundation/2-cross-linguistic-perspective/3-language-specific-implementations.md)
+  - [2.4 Phi's synthetic approach](part1-theoretical-foundation/2-cross-linguistic-perspective/4-phi-synthetic-approach.md)
   
 - **[3. Phi Particle Design Philosophy](part1-theoretical-foundation/3-phi-particle-design-philosophy/)**
   - Rational and design principles

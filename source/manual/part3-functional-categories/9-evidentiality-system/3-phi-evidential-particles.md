@@ -187,4 +187,9 @@ From most to least reliable in typical contexts:
 
 ---
 
-*Next: [Evidential Usage Patterns](evidential-usage-patterns.md)* 
+*This comprehensive analysis of phi's evidential particles provides the foundation for understanding their usage in context.*
+
+**Navigation:**
+- *Previous: [Introduction to Evidentiality](2-introduction-to-evidentiality.md)*
+- *Up: [Section 9 Overview](1-overview.md)*
+- *Next: [Validated Examples](4-validated-examples.md)* 

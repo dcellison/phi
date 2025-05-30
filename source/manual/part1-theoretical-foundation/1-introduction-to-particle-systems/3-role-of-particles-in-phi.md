@@ -290,4 +290,9 @@ Phi's particle system reflects deeper design values:
 
 ---
 
-*This completes the foundational understanding of particles in phi. Next, explore the detailed structural system in [Part II: The Three-Slot System](../../part2-three-slot-system/).* 
+*This completes the foundational understanding of particles in phi. Next, explore the detailed structural system in [Part II: The Three-Slot System](../../part2-three-slot-system/).*
+
+**Navigation:**
+- *Previous: [What Are Particles?](2-what-are-particles.md)*
+- *Up: [Section 1 Overview](1-overview.md)*
+- *Next: [Part II: The Three-Slot System](../../part2-three-slot-system/)* 

@@ -8,12 +8,12 @@ This section provides the foundational understanding of what particles are, how 
 
 ## Contents
 
-- **[What Are Particles?](what-are-particles.md)**
+- **[What Are Particles?](2-what-are-particles.md)**
   - Definition and characteristics
   - Universal features of particles
   - Particles vs. other grammatical elements
 
-- **[The Role of Particles in Phi](role-of-particles-in-phi.md)**
+- **[The Role of Particles in Phi](3-role-of-particles-in-phi.md)**
   - Phi's analytical approach
   - Core functions particles serve
   - Design advantages
@@ -45,4 +45,6 @@ Particle systems exist across many human languages, making phi's approach cross-
 
 ---
 
-*This section establishes the conceptual foundation for understanding phi's entire particle system.* 
+**Navigation:**
+- *Up: [Part I: Theoretical Foundation](../)*
+- *Next: [What Are Particles?](2-what-are-particles.md)* 

@@ -76,4 +76,7 @@ This detailed system reflects phi's design philosophy of promoting:
 
 ---
 
-*Next: [Phi's Evidential Particles](phi-evidential-particles.md)* 
+**Navigation:**
+- *Previous: [Section 9 Overview](1-overview.md)*
+- *Up: [Section 9 Overview](1-overview.md)*
+- *Next: [Phi's Evidential Particles](3-phi-evidential-particles.md)* 

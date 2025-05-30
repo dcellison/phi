@@ -8,28 +8,27 @@ Evidentiality is a grammatical system that indicates **how the speaker knows** t
 
 ## Contents
 
-- **[Introduction to Evidentiality](introduction-to-evidentiality.md)**
+- **[Introduction to Evidentiality](2-introduction-to-evidentiality.md)**
   - What is evidentiality?
   - Cross-linguistic context
   - Why evidentiality matters
 
-- **[Phi's Evidential Particles](phi-evidential-particles.md)**
+- **[Phi's Evidential Particles](3-phi-evidential-particles.md)**
   - Six-way evidential distinction
   - Detailed analysis of each particle
   - Semantic distinctions
 
 - **[Evidential Usage Patterns](evidential-usage-patterns.md)**
-  - Positioning in sentence structure
-  - Advanced usage rules
-  - Register sensitivity
+  - Common combinations
+  - Register variations
+  - Discourse functions
 
 - **[Cross-Linguistic Comparisons](cross-linguistic-comparisons.md)**
-  - Comparison with human language evidential systems
-  - Unique features of phi's system
+  - Comparison with natural language systems
 
-- **[Validated Examples](validated-examples.md)**
-  - Complete example library with translations
-  - Context-specific usage demonstrations
+- **[Validated Examples](4-validated-examples.md)**
+  - Complete example library
+  - All examples tested and verified
 
 ## Quick Reference
 
@@ -57,4 +56,6 @@ Evidentiality is a grammatical system that indicates **how the speaker knows** t
 
 ---
 
-*This section provides complete coverage of phi's evidentiality system, from theoretical foundations to practical application.* 
+**Navigation:**
+- *Up: [Part III: Functional Categories](../)*
+- *Next: [Introduction to Evidentiality](2-introduction-to-evidentiality.md)* 

@@ -155,4 +155,7 @@ Phi builds upon the universal properties of particles while addressing common ch
 
 ---
 
-*Next: [The Role of Particles in Phi](role-of-particles-in-phi.md)* 
+**Navigation:**
+- *Previous: [Section 1 Overview](1-overview.md)*
+- *Up: [Section 1 Overview](1-overview.md)*
+- *Next: [The Role of Particles in Phi](3-role-of-particles-in-phi.md)* 
