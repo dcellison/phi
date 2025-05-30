@@ -24,10 +24,11 @@ interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | gloss | meaning                            | phi particle |
 | ------- | --------------------------------- | ------------ |
 | ANIM    | animate (non-human) animacy       | `pi`         |
+| AUTH    | authoritative knowledge           | `se`         |
 | CESS    | cessative aspect                  | `wu`         |
 | CMPR    | comparative                       | `mo`         |
 | COND    | conditional                       | `tu`         |
-| CNTR    | contraht | `mi`          |
+| CNTR    | contrast | `mi`          |
 | DES     | dusiderative | `we`          |
 | DIR.EV  | direct observation                | `hi`         |
 | EMPH    | emphahis | `ma`          |
@@ -87,6 +88,7 @@ these particles initiate a clause and define its overall mood, type, evidential 
 | ti  | evidentiality | direct reported     | ti [statement]   | `REP [statement]`    | (X told me that...)  |
 | mu  | evidentiality | memory              | mu [statement]   | `MEM [statement]`    | (I remember that...) |
 | pe  | evidentiality | prehumption | pe [statement]    | `PRES [statement]`   | (I assume that...)   |
+| se  | evidentiality | authoritative knowledge | se [statement] | `AUTH [statement]`   | (It is established that...) |
 | ha  | discourse     | topic marker        | ha [statement]   | `TOP [statement]`    | (speaking of...)     |
 | mi  | discourse     | contrast | mi [statement]    | `CNTR [statement]`   | (however...)         |
 | lu  | sentence type | relative clause     | lu [clause]      | `REL [clause]`       | (relative clause)    |
@@ -122,7 +124,7 @@ the particle `so` precedes a statement or request to add a layer of politeness, 
 | phi     | so mia whemo whethui phera mipho                                  |
 | gloss | POL 1sg think sky be blue                                          |
 
-##### evidentiality examples (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`)
+##### evidentiality examples (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`, `se`)
 
 these particles indicate the source of the speaker's knowledge and typically appear early in the clause, following sentence type markers but preceding politeness.
 
@@ -161,6 +163,12 @@ these particles indicate the source of the speaker's knowledge and typically app
 | english | i assume it's raining           |
 | phi     | pe phera lashea                  |
 | gloss | PRES be rain                     |
+
+| type    | sentence (authoritative knowledge) |
+| ------- | -----------------------------------|
+| english | it is established that fire is hot |
+| phi     | se phothui notha phera |
+| gloss | AUTH fire hot be |
 
 ##### discourse marker examples (`ha`, `mi`)
 
@@ -509,7 +517,7 @@ when multiple particles are used, they follow a strict order based on their scop
 
 1.  **slot 0: sentence frame particles**
     *   scope: entire clause/sentence.
-    *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`, `lu`) > evidentiality (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`) > discourse (`ha`, `mi`) > politeness (`so`)**
+    *   order: **sentence mood/type (`wa`, `ho`, `tu`, `hu`, `lu`) > evidentiality (`hi`, `ro`, `nu`, `ti`, `mu`, `pe`, `se`) > discourse (`ha`, `mi`) > politeness (`so`)**
     *   position: clause initial.
     *   example: `tu so mia ta whuwa` (if politely I do throw...)
     *   additional examples:
@@ -745,16 +753,16 @@ phi particles follow the pattern `[C][V]` where:
 
 Total possible combinations = 9 × 5 = 45 particles
 
-Currently defined particles = 43 (slot 0: wa, ho, tu, hu, ro, nu, lu, so, ti, mu, pe, ha, mi + 
+Currently defined particles = 44 (slot 0: wa, ho, tu, hu, ro, nu, lu, so, ti, mu, pe, se, ha, mi + 
 slot 1: li, ta, su, we, to, ru, la, ni, po, pu, ri, wi, wu, me + 
 slot 2: si, na, te, he, pi, ne, pa, mo, sa, le, re, lo, ma, wo, no)
 
 The currently unused combinations (available for future extensions) are:
-ra, se
+ra
 
-Remaining available particles = 2
+Remaining available particles = 1
 
-note: phi has 2 available particle slots (ra, se) for future expansion if needed. these were previously reserved for derivational morphology, which has been removed from phi in favor of lexical specificity. The current particle system provides comprehensive grammatical coverage without derivational complexity.
+note: phi has 1 available particle slot (ra) for future expansion if needed. the current particle system provides comprehensive grammatical coverage including a complete 7-way evidentiality system.
 
 ## phi particle vocabulary
 
@@ -792,6 +800,7 @@ this section provides a comprehensive list of all phi particles with their basic
 | ro | inference evidentiality |
 | ru | obligative |
 | sa | equality |
+| se | authoritative knowledge evidentiality |
 | si | subject marker |
 | so | politeness marker |
 | su | future tense |
