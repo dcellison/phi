@@ -30,7 +30,11 @@ Understanding the conceptual basis of phi's particle system
   - [3.5 User-centered design approach](part1-theoretical-foundation/3-phi-particle-design-philosophy/5-user-centered-design.md)
   
 - **[4. Typological Classification](part1-theoretical-foundation/4-typological-classification/)**
-  - Where phi fits in linguistic typology
+  - [4.1 Overview](part1-theoretical-foundation/4-typological-classification/1-overview.md)
+  - [4.2 Word order and constituent structure](part1-theoretical-foundation/4-typological-classification/2-word-order-and-constituent-structure.md)
+  - [4.3 Morphological typology](part1-theoretical-foundation/4-typological-classification/3-morphological-typology.md)
+  - [4.4 Alignment and case systems](part1-theoretical-foundation/4-typological-classification/4-alignment-and-case-systems.md)
+  - [4.5 Information structure typology](part1-theoretical-foundation/4-typological-classification/5-information-structure-typology.md)
 
 ### Part II: The Three-Slot System
 Detailed analysis of phi's structural hierarchy

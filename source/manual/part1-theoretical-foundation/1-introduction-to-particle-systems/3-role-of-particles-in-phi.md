@@ -169,6 +169,7 @@ Phi organizes all particles into three hierarchical slots based on scope:
 ### Basic Sentence Construction
 
 **Simple statement**:
+
 ```
 si mia ta whera.
 SUBJ I PRES learn
@@ -241,10 +242,17 @@ so hi si mia na ne whethea ta te whera.
 ```
 
 **Stage 3**: Complex combinations and discourse particles
+
 ```
-so ha ne whethea hi si mia ta te whera mi ro sha su te whona na ne lophui.
-POL TOP inanimate book DIR SUBJ I PRES VERB learn CONTR INF they FUT VERB look OBJ inanimate art
-"As for the book, I politely learn about it (direct evidence), but they will look at art (I infer)."
+(All sentences on two lines to make viewing simpler)
+
+so    ha    ne    whethea  ro     si    mia   ta     te    whera  
+POL   TOP   INAN  book     INFER  SUBJ  1SG   PRES   VERB  learn 
+"As for the book, I politely learn about it (I infer),
+
+mi    sha   na    ne    lophui  su    te    whona
+CONTR 3SG   OBJ   INAN  art     FUT   VERB  look
+but they will look at art (I infer)."
 ```
 
 ## Comparison with Natural Language Particles
