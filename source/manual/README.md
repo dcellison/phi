@@ -23,7 +23,11 @@ Understanding the conceptual basis of phi's particle system
   - [2.4 Phi's synthetic approach](part1-theoretical-foundation/2-cross-linguistic-perspective/4-phi-synthetic-approach.md)
   
 - **[3. Phi Particle Design Philosophy](part1-theoretical-foundation/3-phi-particle-design-philosophy/)**
-  - Rational and design principles
+  - [3.1 Overview](part1-theoretical-foundation/3-phi-particle-design-philosophy/1-overview.md)
+  - [3.2 Core design principles](part1-theoretical-foundation/3-phi-particle-design-philosophy/2-core-design-principles.md)
+  - [3.3 Philosophical commitments](part1-theoretical-foundation/3-phi-particle-design-philosophy/3-philosophical-commitments.md)
+  - [3.4 Design trade-offs and resolutions](part1-theoretical-foundation/3-phi-particle-design-philosophy/4-design-trade-offs.md)
+  - [3.5 User-centered design approach](part1-theoretical-foundation/3-phi-particle-design-philosophy/5-user-centered-design.md)
   
 - **[4. Typological Classification](part1-theoretical-foundation/4-typological-classification/)**
   - Where phi fits in linguistic typology
