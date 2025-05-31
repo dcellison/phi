@@ -1,55 +1,51 @@
----
-tags:
-  - pos
-  - standard
----
 # prepositions
 
-> prepositions are words that show the relationship between a noun or pronoun and other words in a sentence. they typically indicate location, direction, time, or manner. examples include "in," "on," "at," "by," "with," and "from." prepositions are an essential part of constructing phrases and clauses, helping to clarify the spatial, temporal, or logical relationships between elements in a sentence.
+> prepositions are words that show the relationship between a noun or pronoun and other words in a sentence. they typically indicate location, direction, time, or manner. examples include "in," "on," "at," "by," "with," and "from." prepositions are essential for constructing phrases and clauses, helping to clarify spatial, temporal, or logical relationships between elements in a sentence.
 
 ## introduction to phi prepositions
 
-all prepositions in phi adhere to the structure `[F][P]` where:
+prepositions in phi establish relational connections between entities, expressing spatial position, temporal sequence, directional movement, and logical associations. following the strict `[F][P]` phonotactic pattern (fricative digraph + vowel pair), they create a systematic and recognizable class of relationship words.
 
-- F = fricative digraph (ph, wh, th, sh)
-- P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii)
+## design philosophy
 
-this pattern creates words like `phia` (in), `thue` (of), and `whie` (to), which 
-always begin with a fricative digraph followed by a vowel pair. this compact structure 
-gives prepositions a flowing, breathy quality while keeping them phonologically 
-distinct from other parts of speech.
+phi's prepositional system reflects cross-linguistic research showing enormous diversity in how languages categorize spatial and relational concepts. rather than assuming universal categories like "in" or "on," phi's design recognizes that successful prepositional systems organize around functional clusters: spatial positioning, directional movement, temporal relationships, and logical connections.
 
-prepositions serve as relational words that connect nouns, pronouns, or phrases to 
-other parts of the sentence, expressing spatial relationships, directions, time 
-concepts, and logical connections. they appear before the noun phrase they modify, 
-maintaining phi's consistent head-initial structure.
+research by levinson and meira demonstrates that languages group spatial concepts very differently, with no universal agreement on basic categories. phi's system provides comprehensive coverage while maintaining phonotactic consistency and semantic precision.
 
-unlike some natural languages, phi prepositions do not combine with articles or change 
-form based on the following word. this regularity, combined with their distinctive 
-phonological pattern, makes them easy to identify in speech and writing while 
-allowing for a rich vocabulary of relational concepts.
+## core prepositional categories
 
-## spatial position prepositions
+### essential spatial prepositions (15 prepositions)
+*basic positioning and containment relationships*
 
+**containment and proximity**:
 | phi word | english translation |
 | -------- | ------------------- |
 | phia     | in                  |
 | thea     | inside              |
 | phue     | outside             |
-| phoi     | on                  |
 | wheo     | at                  |
-| shuo     | under               |
-| whue     | above               |
-| thei     | between             |
 | shoe     | among               |
 | shui     | around              |
+
+**support and adjacency**:
+| phi word | english translation |
+| -------- | ------------------- |
+| phoi     | on                  |
+| whue     | above               |
+| shuo     | under               |
 | phoa     | beside              |
+| thei     | between             |
+
+**relative position**:
+| phi word | english translation |
+| -------- | ------------------- |
 | thia     | behind              |
 | whio     | in front of         |
 | shei     | opposite            |
 | thae     | across              |
 
-## direction and movement prepositions
+### essential directional prepositions (8 prepositions)
+*movement and orientation relationships*
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -60,10 +56,10 @@ allowing for a rich vocabulary of relational concepts.
 | phie     | into                |
 | shoa     | out of              |
 | whui     | along               |
-| theu     | past                |
 | whuo     | beyond              |
 
-## temporal prepositions
+### essential temporal prepositions (6 prepositions)
+*time and sequence relationships*
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -72,11 +68,10 @@ allowing for a rich vocabulary of relational concepts.
 | thuo     | during              |
 | shao     | until               |
 | whai     | since               |
-| whoe | ago |
-| shoi     | within              |
 | shua     | throughout          |
 
-## logical and relational prepositions
+### essential logical prepositions (10 prepositions)
+*conceptual and causal relationships*
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -86,32 +81,119 @@ allowing for a rich vocabulary of relational concepts.
 | phiu     | with                |
 | pheo     | without             |
 | thoi     | because of          |
-| shie     | despite             |
 | phae     | about               |
-| shae     | as                  |
 | thau     | as if               |
-| whae     | according to        |
-| phuo     | regarding           |
-| phui     | concerning          |
-| thiu     | except              |
-| whea | besides |
-| whau     | instead of          |
-| shau     | against             |
 | wheu     | like                |
-| phio     | unlike              |
-| whoa     | via                 |
 | shue     | by means of         |
 
-## remaining preposition count
+## usage examples
 
-phi prepositions follow the pattern `[F][P]` where:
-- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
-- P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
-  (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
+### spatial positioning
+```
+mophui phia siwhea phera
+ball in house be
+"the ball is in the house"
+```
 
-Total possible combinations = 4 × 20 = 80 prepositions
+```
+whethea thia metuwa phose
+book behind chair see
+"see the book behind the chair"
+```
 
-Currently defined prepositions = 53 (15 spatial position + 9 direction and movement + 
-8 temporal + 21 logical and relational)
+### directional movement
+```
+mia na shupho whie thera
+I OBJ shop to go
+"I go to the shop"
+```
 
-Remaining available prepositions = 27 
+```
+sha na whothea phau shinu
+it OBJ food through chew
+"it chews through the food"
+```
+
+### temporal relationships
+```
+lo miphui shea mia thera
+PL evening before I arrive
+"I arrive before evening"
+```
+
+```
+whu phitha thuo mia whera
+two hour during I work
+"I work during two hours"
+```
+
+### logical connections
+```
+mia thio whethea phina
+I by book find
+"I find by book" / "I find through the book"
+```
+
+```
+sha phiu mia whemo
+it with I think
+"I think with it" / "I think about it"
+```
+
+## cross-linguistic validation
+
+phi's prepositional system aligns with cross-linguistic research by levinson, meira, and bowerman showing that successful prepositional systems organize around functional clusters rather than assumed universal categories. 
+
+key findings reflected in phi:
+- **spatial diversity**: no universal agreement on "in/on/under" categories across languages
+- **functional clustering**: languages group concepts around attachment, containment, support, and proximity
+- **hierarchical structure**: systems often have general and specific terms with taxonomic relationships
+- **cultural adaptation**: spatial categories reflect functional needs rather than innate concepts
+- **systematic phonotactics**: closed-class prepositions maintain distinct sound patterns
+
+phi's `[F][P]` pattern ensures immediate recognition while providing 80 possible combinations for comprehensive relational expression. the four-way functional division (spatial/directional/temporal/logical) follows universal patterns documented across language families.
+
+## natural usage principles
+
+**functional precision over universal assumptions**: phi's categories reflect empirically-documented crosslinguistic patterns rather than assumed universal primitives. each preposition serves specific relational functions without semantic overlap.
+
+**systematic predictability**: every preposition follows the `[F][P]` phonotactic pattern, ensuring immediate recognition and systematic learnability. speakers can reliably identify prepositional phrases in connected speech.
+
+**contextual efficiency**: phi prepositions combine naturally with phi's particle system to specify precise relationships without requiring complex constructions. context often clarifies specific spatial or temporal interpretations.
+
+**examples with natural simplification**:
+```
+Full form: mia na whethea phia siwhea phose
+Natural:   whethea phia siwhea phose (subject obvious from context)
+"book in house see" → "(I) see book in house"
+```
+
+```
+Full form: sha shio thueta tiera
+Natural:   shio thueta tiera (subject obvious from context)
+"from that place come" → "come from that place"
+```
+
+**beginner-friendly usage**: 
+- Start with basic spatial prepositions: `phia` (in), `phoi` (on), `wheo` (at)
+- Add directional expressions: `whie` (to), `shio` (from)
+- Practice temporal relationships: `shea` (before), `whia` (after)
+- Combine with particles for precise specification
+
+**relational clarity**: each preposition specifies one type of relationship without ambiguity. systematic formation enables precise expression of spatial, temporal, and logical connections while maintaining phonotactic integrity.
+
+## statistics and capacity
+
+- **current prepositions**: 39 total
+- **spatial**: 15 (38% - core positioning relationships)
+- **directional**: 8 (21% - movement and orientation)
+- **temporal**: 6 (15% - essential time relationships)
+- **logical**: 10 (26% - conceptual connections)
+
+- **phonotactic capacity**: `[F][P]` pattern
+  - **fricatives**: 4 options (ph, wh, th, sh)
+  - **vowel pairs**: 20 valid combinations (5×5 minus 5 identical pairs)
+  - **total combinations**: 4 × 20 = 80 possible prepositions
+- **current usage**: 39 combinations (49% utilization)
+- **remaining capacity**: 41 combinations available for specialized or emerging relationships
+- **functional completeness**: core relational needs covered while maintaining expansion potential 

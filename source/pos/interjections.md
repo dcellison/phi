@@ -1,131 +1,153 @@
----
-tags:
-  - pos
-  - standard
----
 # interjections
 
-> interjections are words or expressions that convey strong emotion or surprise. they are typically used as exclamations and can stand alone as a complete utterance. interjections are often followed by an exclamation mark in writing and are characteristic of informal speech and dialogue. examples include "oh!", "wow!", "ouch!", and "hooray!".
+> interjections are words that express strong feelings, emotions, or reactions spontaneously. they are typically used as standalone utterances to convey surprise, pain, joy, disgust, or other immediate emotional responses. examples include "oh," "wow," "ouch," "alas," and "hooray." interjections are often followed by exclamation points and can function independently of grammatical sentence structure.
 
 ## introduction to phi interjections
 
-all interjections in phi adhere to the structure `[C][V][C][P]` where:
+interjections in phi represent spontaneous vocal expressions of the speaker's mental state or immediate reaction to situations. unlike formulaic expressions that are socially expected responses, phi interjections are genuine mental acts that emerge naturally from internal experiences.
 
-- C = consonant (h, l, m, n, p, r, s, t, w)
-- V = vowel (i, u, e, o, a)
-- C = consonant (h, l, m, n, p, r, s, t, w)
-- P = vowel pair (ia, io, iu, ie, etc., excluding identical pairs like ii, uu, etc.)
+## design philosophy
 
-this pattern creates words like `mimia` (oh), `wowou` (wow), and `hihei` (hey), 
-which consist of a consonant-vowel syllable followed by a consonant and vowel pair. 
-this gives interjections a more expressive sound that's suitable for emotional 
-expressions and makes them immediately recognizable in speech.
+phi interjections follow cross-linguistic patterns found in world languages while maintaining phonotactic integrity. the system recognizes three universal functional categories: expressive interjections (speaker's mental state), conative interjections (directed at others for attention or action), and phatic interjections (maintaining communication contact).
 
-interjections serve to express strong emotions, reactions, or calls for attention. 
-their distinctive pattern creates an immediate phonological cue that helps listeners 
-identify exclamatory functions in speech, even without explicit grammatical markers.
+## core interjection categories
 
-unlike other parts of speech in phi, interjections can stand alone as complete 
-utterances and are often accompanied by distinctive intonation patterns when spoken. 
-their unique phonological structure makes them perfect for spontaneous expressions of 
-feeling or reaction.
+### essential expressive interjections (8 interjections)
+*spontaneous expressions of mental/emotional states*
 
-## expressions of emotion
+**emotive expressions**:
+| phi word | english translation |
+| -------- | ------------------- |
+| mimia    | oh (surprise)       |
+| wowou    | wow (amazement)     |
+| hihei    | hey (attention)     |
+| tatau    | alas (sorrow)       |
+
+**cognitive expressions**:
+| phi word | english translation |
+| -------- | ------------------- |
+| pupai    | aha (realization)   |
+| rurua    | hmm (thinking)      |
+| seseo    | huh (confusion)     |
+| lelei    | ooh (understanding) |
+
+### essential conative interjections (4 interjections)
+*directed at others for attention or response*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| mimia    | oh                  |
-| wowou    | wow                 |
-| hihei    | hey                 |
-| tatau    | alas                |
-| papai    | yay                 |
-| hohou    | hooray              |
-| wawae    | whoa                |
-| sisiu    | sigh                |
-| lalao    | aah                 |
-| huhue    | huh                 |
-| mumuo    | hmm                 |
-| pipie    | phew                |
-| ririu    | yikes               |
-| ninia    | oh dear             |
-| wowoi    | oops                |
+| pishe    | psst (getting attention) |
+| thasha   | shh (requesting silence) |
+| wheira   | hey (calling out)   |
+| phoire   | oi (demanding attention) |
 
-## attentional calls
+### essential phatic interjections (4 interjections)
+*maintaining communicative contact*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| hihoi    | hello               |
-| papao    | goodbye             |
-| nanea    | hey (attention)     |
-| tutei | listen               |
-| lalue    | look                |
-| wiwia    | watch out           |
-| nuneo | stop                 |
+| thumai   | mhm (acknowledgment) |
+| wheino   | uh-huh (agreement)  |
+| phailu   | yeah (affirmation)  |
+| sholau   | well (transitioning) |
 
-## responses
+## usage examples
 
-| phi word | english translation |
-| -------- | ------------------- |
-| nonoe    | yes                 |
-| mumeu | no                   |
-| tatao    | thanks              |
-| sasua    | please              |
-| lilie    | sorry               |
-| rarao    | you're welcome      |
-| wawea    | agreed              |
-| niniu    | never               |
-| hahai    | of course           |
-| pupui    | maybe               |
+### expressive interjections
+```
+mimia me mipho phera
+oh it blue be
+"oh it's blue"
+```
 
-## expressions of pain/discomfort
+```
+wowou thi na sha phina
+wow you OBJ it find
+"wow you found it"
+```
 
-| phi word | english translation |
-| -------- | ------------------- |
-| wawai    | ouch                |
-| totou    | ow                  |
-| mamae    | argh                |
-| hihia    | ugh                 |
-| pupea | brrr (cold)          |
-| sosoa    | ack                 |
-| rurue    | eek                 |
+```
+tatau li thunu
+alas PST finish
+"alas it's finished"
+```
 
-## expressions of joy/pleasure
+### conative interjections
+```
+pishe
+psst
+"psst"
+```
 
-| phi word | english translation |
-| -------- | ------------------- |
-| momoi    | yum                 |
-| momoe    | mmm                 |
-| sasau    | sweet               |
-| ririe    | haha                |
-| titia    | woohoo              |
-| popoe    | hurray              |
-| nunuo    | delightful          |
+```
+thasha mia whemo
+shh I think
+"shh i'm thinking"
+```
 
-## hesitation/filler
+### phatic interjections
+```
+thumai mia phose
+mhm I see
+"mhm i see"
+```
 
-| phi word | english translation |
-| -------- | ------------------- |
-| mumue    | um                  |
-| hohoe    | er                  |
-| wuweo | well                 |
-| lilia    | like                |
-| tutue    | so                  |
-| susei | anyway               |
-| nanai    | you know            |
+```
+sholau wetu sha thera
+well if it true
+"well if it's true"
+```
 
-## remaining interjection count
+## cross-linguistic validation
 
-phi interjections follow the pattern `[C][V][C][P]` where:
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- P = vowel pair (ia, io, iu, ie, ea, eo, etc., excluding identical pairs) - 20 possibilities
-  (5 vowels can form 5×5=25 pairs, minus 5 identical pairs = 20 pairs)
+phi's interjection system aligns with universal patterns documented across world languages. the three-way functional distinction (expressive/conative/phatic) appears in languages from diverse families including english, polish, russian, thai, swahili, and australian aboriginal languages.
 
-Total possible combinations = 9 × 5 × 9 × 20 = 8,100 interjections
+research shows interjections share common properties globally:
+- syntactic independence (can stand alone as utterances)
+- expression of speaker mental states
+- often phonologically distinct from main vocabulary
+- spontaneous rather than formulaic nature
+- context-dependent interpretation
 
-Currently defined interjections = 53 (15 expressions of emotion + 7 attentional calls + 
-10 responses + 7 expressions of pain/discomfort + 7 expressions of joy/pleasure + 
-7 hesitation/filler)
+phi's phonotactic patterns for interjections ([C][V][C][P]) maintain both universality and language-specific identity while ensuring systematic predictability.
 
-Remaining available interjections = 8,047
+## natural usage principles
+
+**spontaneity over formality**: interjections emerge naturally from genuine reactions rather than social obligations. context determines when explicit emotional expression enhances communication versus when silence suffices.
+
+**mental acts not speech acts**: phi interjections express internal states rather than performing social actions. they reveal speaker psychology without creating interpersonal obligations like formulaic expressions do.
+
+**standalone sufficiency**: each interjection can constitute a complete utterance. combinations with other elements add context but aren't required for semantic completeness.
+
+**examples with natural simplification**:
+```
+Full context: mimia mia na thueta phose
+Natural:      mimia thueta (when surprise is the main point)
+"oh that" → "oh that"
+```
+
+```
+Full context: wowou sha li mipho phera
+Natural:      wowou mipho (when amazement at beauty is clear)
+"wow it was blue" → "wow blue"
+```
+
+**beginner-friendly usage**: 
+- Start with basic emotive interjections: `mimia` (oh), `wowou` (wow)
+- Add cognitive expressions: `pupai` (aha), `rurua` (hmm)
+- Practice conative forms: `pishe` (psst), `thasha` (shh)
+- Context often makes complex constructions unnecessary
+
+**semantic precision**: each interjection covers one specific type of mental state or communicative function without overlap. speakers choose based on genuine internal experience rather than social expectation.
+
+## statistics and capacity
+
+- **current interjections**: 16 total
+- **expressive**: 8 (50% - largest category for mental state expression)
+- **conative**: 4 (25% - focused on essential attention-getting)
+- **phatic**: 4 (25% - core communicative maintenance)
+
+- **phonotactic capacity**: [C][V][C][P] pattern
+- **theoretical maximum**: 9 × 5 × 9 × 20 = 8,100 combinations
+- **current usage**: 16 combinations (0.2% utilization)
+- **remaining capacity**: 8,084 combinations available for future interjections 

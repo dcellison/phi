@@ -1,234 +1,159 @@
----
-tags:
-  - pos
-  - outlier
----
 # numbers
 
-> numbers are a feature of nouns, pronouns, adjectives and verb agreement that expresses count distinctions. used alone numbers are nouns. if we use them to describe nouns, as in one apple, two apples, three apples, etc., then the numbers are adjectives.
+> numbers are words that express exact quantities of items or objects. they represent specific amounts that can be counted or calculated. in natural languages, numbers serve as the foundation for arithmetic operations, quantification, and precise measurement. examples include "one," "twenty-three," "hundred," and "thousand." numbers can function as determiners, adjectives, or standalone nouns depending on their syntactic role.
 
 ## introduction to phi numbers
 
-phi numbers follow a highly regular and predictable system, built upon base words for 
-digits 0-9 and specific words for powers of ten (ten, hundred, thousand, etc.). this 
-approach ensures systematic number formation without irregular constructions like those 
-found in many natural languages.
+numbers in phi form the mathematical foundation of the language's quantification system. unlike many natural languages that show irregularities and historical accumulations, phi numbers maintain strict phonotactic consistency while providing systematic expandability for all mathematical needs.
 
-digits (0-9) follow the `[F][V]` pattern (fricative digraph + vowel), creating compact 
-single-syllable words like `phi` (one) and `whu` (two). magnitude words follow the 
-`[F][V][F][V]` pattern (fricative + vowel + fricative + vowel), producing two-syllable 
-words like `phitha` (ten) and `shupho` (hundred).
+## design philosophy
 
-all number words in phi maintain consistent phonotactic patterns, distinguishing them 
-from other parts of speech while making them easy to recognize in speech and writing.
+phi's number system reflects cross-linguistic research showing decimal systems as the most successful and widespread pattern globally. the design prioritizes systematic regularity over brevity, ensuring every number formation follows predictable phonotactic rules. this approach eliminates the irregularities found in most natural number systems while maintaining cognitive accessibility.
 
-## number construction
+the system distinguishes between basic digits (0-9) and magnitude words (powers of ten), allowing for unlimited mathematical expression through systematic combination. each number word maintains its categorical phonotactic pattern, making number recognition reliable in connected speech.
 
-numbers are constructed by stating the digit followed by its magnitude, proceeding from the 
-highest magnitude to the lowest.
+## core number categories
 
-### basic structure
+### essential digits (10 numbers)
+*basic numerical building blocks following `[F][V]` pattern*
 
-the basic structure is `digit magnitude digit magnitude ... digit`, with no dedicated words 
-for specific number combinations like "teens" or multiples of ten. all numbers are formed 
-regularly by combining digits with magnitude markers.
+| phi word | english translation | value |
+| -------- | ------------------- | ----- |
+| sho      | zero                | 0     |
+| phi      | one                 | 1     |
+| whu      | two                 | 2     |
+| the      | three               | 3     |
+| pho      | four                | 4     |
+| wha      | five                | 5     |
+| thu      | six                 | 6     |
+| shu      | seven               | 7     |
+| who      | eight               | 8     |
+| pha      | nine                | 9     |
 
-examples:
-- 18 is `phi phitha who` (one ten eight)
-- 40 is `pho phitha sho` (four ten zero)
-- 42 is `pho phitha whu` (four ten two)
-- 304 is `the shupho pho` (three hundred four)
+### essential magnitude words (13 numbers)
+*powers of ten following `[F][V][F][V]` pattern*
 
-### implicit zero rule
+| phi word | english translation | power |
+| -------- | ------------------- | ----- |
+| phitha   | ten                 | 10¹   |
+| shupho   | hundred             | 10²   |
+| thuphi   | thousand            | 10³   |
+| whitha   | million             | 10⁶   |
+| shithu   | billion             | 10⁹   |
+| phusho   | trillion            | 10¹²  |
+| thupho   | quadrillion         | 10¹⁵  |
+| whisha   | quintillion         | 10¹⁸  |
+| phuthe   | sextillion          | 10²¹  |
+| whipho   | septillion          | 10²⁴  |
+| thoshi   | octillion           | 10²⁷  |
+| shapha   | nonillion           | 10³⁰  |
+| whusho   | decillion           | 10³³  |
 
-to reduce verbosity without sacrificing regularity, components representing zero (`sho <magnitude>`) 
-are generally omitted. the component `sho <magnitude>` is only stated if all lower magnitude 
-components would also be zero.
+## usage examples
 
-examples:
-- 2023: `whu thuphi whu phitha the` (two thousand two ten three). the "zero hundred" 
-(`sho shupho`) is omitted.
-- 2003: `whu thuphi the` (two thousand three). the "zero hundred" (`sho shupho`) and 
-"zero ten" (`sho phitha`) are omitted.
-- 2000: `whu thuphi` (two thousand). implies `sho shupho sho phitha sho`.
-- 101: `phi shupho phi` (one hundred one). the "zero ten" (`sho phitha`) is omitted.
-- 100: `phi shupho` (one hundred). implies `sho phitha sho`.
-- 40: `pho phitha sho` (four ten zero). the `sho` for the ones place must be stated.
+### basic counting
+```
+phi thephoa li thera
+one person PST arrive
+"one person arrived"
+```
 
-### ordinal formation
+```
+whu mophui na phi thephoa li whera
+two ball OBJ one person PST give
+"one person gave two balls"
+```
 
-phi does not use distinct ordinal words like "first", "second", "third". instead, it uses 
-a descriptive phrase structure, conceptually similar to "number one", "number two", etc. 
-this approach maintains the language's commitment to regularity and pattern consistency.
+### complex number formation
+```
+phi shupho whu phitha the mophui phera
+one hundred two ten three ball be
+"there are one hundred twenty-three balls"
+```
 
-## digits
+```
+phi thuphi whu phitha pho moi teo phose
+one thousand two ten four CL round see
+"see one thousand twenty-four round objects"
+```
 
-digits in phi are the basic building blocks of the number system. each follows the `[F][V]` 
-phonotactic pattern, creating single-syllable words that are easy to pronounce and combine.
+### mathematical operations
+```
+phi na whu thuwi the phera
+one OBJ two add three be
+"one plus two equals three"
+```
 
-| phi word | english translation | number |
-| -------- | ------------------- | ------ |
-| sho      | zero                | 0      |
-| phi      | one                 | 1      |
-| whu      | two                 | 2      |
-| the      | three               | 3      |
-| pho      | four                | 4      |
-| wha      | five                | 5      |
-| thu      | six                 | 6      |
-| shu      | seven               | 7      |
-| who      | eight               | 8      |
-| pha      | nine                | 9      |
+```
+pho na whu thale whu phera
+four OBJ two divide two be
+"four divided by two equals two"
+```
 
-## magnitude words
+### number construction principles
+```
+Full structure: phi thuphi sho shupho sho phitha phi
+Natural form:   phi thuphi phi (implicit zero rule)
+"one thousand one" → "one thousand one"
+```
 
-magnitude words in phi represent powers of ten in the decimal system. each follows the 
-`[F][V][F][V]` phonotactic pattern, creating two-syllable words that combine with digits 
-to form larger numbers.
+```
+Explicit form: pho phitha sho
+Natural form:  pho phitha sho (zero must be stated)
+"four ten zero" → "forty"
+```
 
-| phi word | english translation | number     | power |
-| -------- | ------------------- | ---------- | ----- |
-| phitha   | ten                 | 10         | 10^1  |
-| shupho   | hundred             | 100        | 10^2  |
-| thuphi   | thousand            | 1,000      | 10^3  |
-| whitha   | million             | 10^6       | 10^6  |
-| shithu   | billion             | 10^9       | 10^9  |
-| phusho   | trillion            | 10^12      | 10^12 |
-| thupho   | quadrillion         | 10^15      | 10^15 |
-| whisha   | quintillion         | 10^18      | 10^18 |
-| phuthe   | sextillion          | 10^21      | 10^21 |
-| whipho   | septillion          | 10^24      | 10^24 |
-| thoshi   | octillion           | 10^27      | 10^27 |
-| shapha   | nonillion           | 10^30      | 10^30 |
-| whusho   | decillion           | 10^33      | 10^33 |
-| thiphu   | undecillion         | 10^36      | 10^36 |
-| shathi   | duodecillion        | 10^39      | 10^39 |
+## cross-linguistic validation
 
-## number examples
+phi's decimal number system aligns with global patterns documented in WALS data, where decimal systems appear in 125 of 196 languages surveyed worldwide. research by comrie and greenberg confirms decimal systems as the most successful and widespread pattern across language families.
 
-below are some examples that demonstrate how numbers would be said and written in phi. 
-these examples illustrate phi's systematic approach to number formation and the 
-application of the implicit zero rule.
+key universal principles reflected in phi:
+- **base consistency**: single arithmetic base (10) throughout system
+- **additive structure**: systematic digit + magnitude + digit formation  
+- **phonotactic regularity**: each number category maintains distinct sound patterns
+- **implicit zero rule**: zero components omitted except when necessary for disambiguation
+- **unlimited expandability**: recursive combination allows expression of any finite number
 
-### standard examples
+phi's distinction between digit and magnitude phonotactic patterns (`[F][V]` vs `[F][V][F][V]`) follows cross-linguistic research showing successful number systems maintain categorical distinctions between basic numerals and their mathematical operations.
 
-| phi number                  | literal translation        | english number |
-| --------------------------- | -------------------------- | -------------- |
-| phi phitha who              | one ten eight              | 18             |
-| pho phitha whu              | four ten two               | 42             |
-| phi shupho whu phitha the   | one hundred two ten three  | 123            |
-| phi thuphi                  | one thousand               | 1,000          |
-| whu thuphi whu phitha the   | two thousand two ten three | 2,023          |
+## natural usage principles
 
-### computational examples
+**systematic regularity over brevity**: phi prioritizes predictable formation over shortened forms. every number follows its phonotactic pattern without exceptions, ensuring reliable communication in mathematical contexts.
 
-| phi number                                                                           | literal translation                                                 | english number           |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------ |
-| phi thuphi whu phitha pho                                                            | one thousand two ten four                                           | 1,024 (kilobyte)         |
-| phi whitha                                                                           | one million                                                         | 1,000,000 (megabyte)     |
-| phi shithu                                                                           | one billion                                                         | 1,000,000,000 (gigabyte) |
-| phi shithu thu phitha the whitha thu shupho pho phitha phi thuphi wha shupho whu phi | one billion seven ten three million seven hundred four ten one thousand eight hundred twenty-one | 1,073,741,821           |
+**implicit zero optimization**: zero components are omitted when all lower magnitudes would also be zero, reducing verbosity without sacrificing precision. this reflects universal cognitive preference for economical expression.
 
-## numerical functions
+**contextual number marking**: numbers combine naturally with classifiers and particles to specify quantity, shape, and grammatical role without requiring special numeral syntax.
 
-in addition to basic counting, phi numbers can serve various grammatical and functional roles.
+**examples with natural simplification**:
+```
+Full form: whu thuphi sho shupho whu phitha the
+Natural:   whu thuphi whu phitha the (zero components omitted)
+"two thousand two ten three" → "two thousand twenty-three"
+```
 
-### as adjectives
+```
+Full form: phi shupho sho phitha sho
+Natural:   phi shupho (trailing zeros omitted)
+"one hundred zero ten zero" → "one hundred"
+```
 
-numbers can function as adjectives when they modify nouns. in phi, this involves placing 
-the number before a classifier (if applicable) and then the noun. these compound 
-constructions are fundamentally number expressions that can also function as determiners 
-in sentences.
+**beginner-friendly usage**: 
+- Start with basic digits: `phi` (one), `whu` (two), `the` (three)
+- Add simple combinations: `phi phitha` (ten), `whu phitha` (twenty)
+- Practice magnitude words: `phi shupho` (hundred), `phi thuphi` (thousand)
+- Apply implicit zero rule for natural expression
 
-#### simple number + noun constructions
+**mathematical precision**: each number represents exact quantity without ambiguity. systematic formation enables clear expression of any mathematical concept while maintaining phonotactic integrity.
 
-| phi example           | literal translation     | english translation |
-| --------------------- | ----------------------- | ------------------- |
-| phi thephoa           | one person              | one person          |
-| whu mophui            | two balls               | two balls           |
-| the siwhea            | three houses            | three houses        |
+## statistics and capacity
 
-#### complex number + classifier + noun constructions
+- **current numbers**: 23 total
+- **digits**: 10 (complete 0-9 set for decimal base)
+- **magnitudes**: 13 (powers 10¹ through 10³³)
 
-when precision about object shape, size, or category is important, phi uses classifiers 
-between the number and noun. these create compound number expressions that specify both 
-quantity and categorical information:
-
-| phi example           | literal translation     | english translation | classifier used |
-| --------------------- | ----------------------- | ------------------- | --------------- |
-| phi hau thephoa       | one human person        | one person          | hau (human)     |
-| whu teo mophui        | two round ball          | two balls           | teo (round)     |
-| the neo siwhea        | three building house    | three houses        | neo (building)  |
-
-these compound constructions maintain their identity as number expressions while 
-functioning grammatically as determiners when they precede nouns. the classifier 
-provides semantic precision about the type or shape of objects being counted.
-
-note: simple constructions (number + noun) are preferred in most contexts, with 
-classifier constructions used when the additional categorical information is 
-communicatively relevant.
-
-### in calculations
-
-when expressing mathematical operations, phi uses its number words in combination with 
-operation verbs:
-
-| phi example               | literal translation         | english translation |
-| ------------------------- | --------------------------- | ------------------- |
-| phi thuwi whu phera the   | one add two be three        | one plus two equals three |
-| pho thale whu phera whu   | four divide two be two      | four divided by two equals two |
-| the thuno whu phera thu   | three multiply two be six   | three times two equals six |
-
-## remaining number word count
-
-phi digits follow the pattern `[F][V]` where:
-- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-
-Total possible combinations for digits = 4 × 5 = 20 combinations
-
-phi magnitude words follow the pattern `[F][V][F][V]` where:
-- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-
-Total possible combinations for magnitude words = 4 × 5 × 4 × 5 = 400 combinations
-
-Currently defined number words = 25 (10 digits + 15 magnitude words)
-
-For practical purposes, the digit space is considered closed at 10 words, while the 
-magnitude space remains open for potential expansion to larger powers as needed.
-
-## phi number vocabulary
-
-this section provides a comprehensive list of all phi number words with their basic english translations, organized alphabetically for quick reference.
-
-| phi word | english translation |
-| -------- | ------------------- |
-| pha | nine |
-| pho | four |
-| phi | one |
-| phitha | ten |
-| phusho | trillion |
-| phuthe | sextillion |
-| shapha | nonillion |
-| shathi | duodecillion |
-| shithu | billion |
-| sho | zero |
-| shu | seven |
-| shupho | hundred |
-| the | three |
-| thiphu | undecillion |
-| thoshi | octillion |
-| thuphi | thousand |
-| thupho | quadrillion |
-| thu | six |
-| wha | five |
-| whipho | septillion |
-| whisha | quintillion |
-| whitha | million |
-| who | eight |
-| whu | two |
-| whusho | decillion |
-
----
-
-*for detailed usage examples, number construction rules, and mathematical operations, see the comprehensive sections above.*
+- **phonotactic capacity**: 
+  - **digits `[F][V]`**: 4 × 5 = 20 combinations (10 used, 10 available)
+  - **magnitudes `[F][V][F][V]`**: 4 × 5 × 4 × 5 = 400 combinations (13 used, 387 available)
+- **current usage**: 23 combinations (1.2% of total capacity)
+- **remaining capacity**: 397 combinations available for future mathematical expansion
+- **system completeness**: digits space functionally complete; magnitude space open for unlimited expansion as needed 

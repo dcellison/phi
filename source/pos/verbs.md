@@ -1,173 +1,120 @@
----
-tags:
-  - pos
-  - outlier
----
 # verbs
 
 > verbs are words that express actions, events, or states of being in a sentence. they convey what the subject of the sentence is doing, experiencing, or being. verbs can be classified into different categories based on their functions and forms, including action verbs (e.g., "run," "eat"), stative verbs (e.g., "be," "feel"), auxiliary verbs (e.g., "have," "will"), and modal verbs (e.g., "can," "must"). verbs are a fundamental element of sentence structure and play a crucial role in conveying meaning and indicating tense, aspect, and mood.
 
 ## introduction to phi verbs
 
-phi verbs follow a distinctive phonotactic pattern that makes them immediately 
-recognizable within the language. all verbs in phi adhere to the structure 
-`[F][V][C][V]` where:
+verbs in phi form the dynamic core of the language's event and state description system. following the strict `[F][V][C][V]` phonotactic pattern (fricative digraph + vowel + consonant + vowel), they create immediately recognizable action and state predicates that integrate seamlessly with phi's particle-based grammar.
 
-- F = fricative digraph (ph, wh, th, sh)
-- V = vowel (i, u, e, o, a)
-- C = consonant (h, l, m, n, p, r, s, t, w)
+this pattern ensures that every verb begins with a fricative digraph (ph, wh, th, sh), continues with a vowel, adds a consonant, and ends with a vowel, producing words like `shata` (answer), `whera` (learn), and `phera` (be/exist). the fricative-initial pattern gives verbs a distinctive airy quality while maintaining systematic regularity.
 
-this pattern creates words like `shata` (answer), `thuri` (blow), and `whuna` (listen), 
-which always begin with a fricative digraph, followed by a vowel, then a consonant, 
-and ending with a vowel. this gives verbs a more utilitarian, direct sound while 
-maintaining phi's airy quality.
+## design philosophy
 
-unlike many natural languages, phi verbs do not conjugate for person, number, or tense. 
-instead, grammatical information is conveyed through particles that precede the verb. 
-for example, `li` indicates past tense, `la` marks the progressive aspect, and `me` 
-creates negation. these particles can be combined to express complex meanings while 
-keeping the verb form constant.
+phi's verb system reflects cross-linguistic research on semantic verb categories by beth levin, leonard talmy, and others showing that successful verbal systems organize around functional clusters rather than arbitrary categories. research demonstrates that languages systematically distinguish manner verbs (how an action is done) from result verbs (what outcome is achieved), and that basic event types like motion, change of state, and causation appear universally.
 
-phi's verb system is designed to be systematic and regular, reducing the learning 
-burden while maintaining expressive power. the distinct phonological pattern ensures 
-that verbs are easily distinguished from other parts of speech in both written and 
-spoken forms.
+rather than replicating the morphological complexity found in many natural languages, phi adopts a lexically rich but morphologically simple approach. each verb maintains constant form while particles handle tense, aspect, mood, and argument marking. this design maximizes expressive power while minimizing learning burden.
 
-## communication and language verbs
+the verb inventory provides comprehensive coverage of essential human experiences: communication, cognition, movement, existence, creation, acquisition, perception, and social interaction. these categories reflect universal patterns documented across language families.
+
+## core verb categories
+
+### essential communication verbs (12 verbs)
+*expressing and receiving linguistic information*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| shata    | answer/reply        |
-| whisa | ask |
-| shuna    | call                |
+| shata    | answer              |
+| whisa    | ask                 |
 | pheno    | explain             |
 | whuna    | listen              |
 | phelu    | read aloud          |
-| whupi | read silently |
-| share    | report              |
+| whupi    | read silently       |
 | shuso    | say                 |
-| whemi | speak |
-| thate    | suggest             |
+| whemi    | speak               |
 | showa    | tell                |
 | whisi    | talk                |
-| whumo | translate |
-| shewu    | compose             |
+| whumo    | translate           |
+| shewu    | write               |
 
-## cognitive and mental verbs
+### essential cognitive verbs (15 verbs)
+*mental processes and states*
 
 | phi word | english translation |
 | -------- | ------------------- |
 | sheli    | believe             |
-| thira    | consider            |
 | shiso    | decide              |
-| shetu    | doubt               |
 | phewa    | feel                |
 | whina    | find                |
 | shime    | forget              |
 | thumo    | imagine             |
 | whipu    | know                |
-| whomo | like |
-| shotu | love (person)        |
+| whomo    | like                |
+| shotu    | love (person)       |
 | whelu    | love (activity)     |
-| phune | mean                 |
 | thume    | remember            |
-| shine    | seem                |
-| whemo | think |
-| thupa    | trust               |
+| whemo    | think               |
 | shule    | understand          |
-| shire | want |
+| shire    | want                |
 | shamo    | dream               |
 
-## movement and position verbs
+### essential motion verbs (18 verbs)
+*movement and position*
 
 | phi word | english translation |
 | -------- | ------------------- |
 | sharu    | appear              |
 | shuto    | arrive              |
-| thuri    | blow                |
 | shero    | carry               |
-| shune    | climb               |
-| whema | come |
-| thamo    | depart              |
+| whema    | come                |
+| thamu    | depart              |
 | shali    | fall                |
-| themu    | follow              |
-| whawi | fly |
+| whawi    | fly                 |
 | sharo    | go                  |
-| whepi | jump |
+| whepi    | jump                |
 | shewi    | leave               |
 | whowe    | move                |
-| thesa    | pass by             |
-| shuma    | push                |
-| shute | put                  |
+| whumi    | run                 |
 | shomo    | raise               |
-| whumi | run |
-| shesi    | set                 |
+| shute    | put                 |
+| shopo    | sit                 |
 | theti    | stand               |
 | phite    | stay                |
-| shopo    | sit                 |
-| shuwi    | swim                |
-| whuwa    | throw               |
-| shenu    | turn                |
-| whuru    | blow (wind)         |
 | shola    | walk                |
-| whenu    | enter               |
-| thetu    | exit                |
-| whale    | flow                |
-| whame    | bend                |
-| whane    | twist               |
-| whape    | fold                |
-| whare    | stretch             |
-| whase    | compress            |
-| whate    | expand              |
-| whawe    | contract            |
-| whule | slide                |
-| whume | roll                 |
-| whune | spin                 |
-| whupe | rotate               |
-| whure | pivot                |
-| whuse | tilt                 |
-| whute | balance              |
-| whewe    | stabilize           |
 
-## existence and state verbs
+### essential existence verbs (8 verbs)
+*being and becoming*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| whahi | become |
-| thilu    | be (exist)          |
+| whahi    | become              |
+| thilu    | exist               |
 | phela    | die                 |
-| showi    | grow old            |
 | phuho    | happen              |
-| whuni | have/possess |
-| phera    | is (state)          |
-| shanu    | keep                |
+| whuni    | have                |
+| phera    | be (state)          |
 | phoni    | live                |
-| thewa    | remain              |
-| shesa    | rest                |
-| whuwe | sleep |
-| thuma    | wake                |
+| whuwe    | sleep               |
 
-## creation and destruction verbs
+### essential creation and change verbs (12 verbs)
+*making and transforming*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| shepu    | add                 |
-| thunu    | ban/prohibit        |
-| whuno | break |
+| whesa    | create              |
+| whuno    | break               |
 | shuni    | build               |
 | shuwa    | change              |
-| whusa | close |
-| whesa    | create              |
+| whusa    | close               |
 | thura    | cut                 |
 | shoro    | destroy             |
-| whupa | fix/repair  |
-| whuro | hide |
-| thima    | include             |
-| sheho    | kill                |
-| whora | open |
-| shoru    | set fire            |
+| whupa    | fix                 |
+| whora    | open                |
+| shite    | make                |
+| pholi    | grow                |
+| shoru    | burn                |
 
-## acquisition and exchange verbs
+### essential acquisition verbs (15 verbs)
+*getting and giving*
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -175,25 +122,20 @@ spoken forms.
 | thupo    | borrow              |
 | shiho    | buy                 |
 | shano    | get                 |
-| whiwo | give |
-| shasi    | hold                |
-| thare    | lend                |
-| shimi    | let                 |
-| whonu | lose |
+| whiwo    | give                |
 | shuwo    | offer               |
 | thewu    | pay                 |
-| shiwe    | pull                |
 | thotu    | provide             |
 | sheno    | receive             |
 | shume    | return              |
 | thore    | sell                |
 | shele    | send                |
-| thite    | serve               |
 | shate    | share               |
 | tharo    | steal               |
 | shita    | take                |
 
-## sensory and perceptual verbs
+### essential perception verbs (6 verbs)
+*sensory experience*
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -203,112 +145,179 @@ spoken forms.
 | sheta    | smell               |
 | shusi    | taste               |
 | thena    | touch               |
-| shosa    | watch               |
 
-## wave and energy verbs
-
-| phi word | english translation |
-| -------- | ------------------- |
-| while    | vibrate             |
-| whime    | oscillate           |
-| whine    | resonate            |
-| whipe    | echo                |
-| whire    | reflect             |
-| whise    | absorb              |
-| white    | emit                |
-| whiwe    | radiate             |
-
-## perception and clarity verbs
+### essential social verbs (12 verbs)
+*interpersonal interaction*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| whole    | focus               |
-| whome    | blur                |
-| whone    | clarify             |
-| whope    | obscure             |
-| whore    | reveal              |
-| whose    | conceal             |
-| whote    | expose              |
-
-## process and action verbs
-
-| phi word | english translation |
-| -------- | ------------------- |
-| shiha | air out              |
-| shona    | begin               |
-| shure    | bring               |
-| theta    | continue            |
-| whawu | do |
-| thisi    | expect              |
-| shepi    | fail                |
-| whuli | finish/complete |
-| thewo    | prepare             |
-| thoho    | reach               |
-| shari    | search              |
-| wheta    | start               |
-| thamu    | spend               |
-| shosu    | stop                |
-| theri    | succeed             |
-| whena    | try                 |
-| shiri    | utilize             |
-| sheso    | wait                |
-
-## learning and social verbs
-
-| phi word | english translation |
-| -------- | ------------------- |
-| whiwo | befriend |
-| shawu    | be born             |
+| whiwo    | befriend            |
 | thuwa    | fight               |
 | phura    | greet               |
 | shone    | help                |
 | phasu    | lead                |
 | whera    | learn               |
-| whoso    | marry               |
 | shelu    | meet                |
 | thami    | name                |
-| whoto | need |
-| whoha    | play                |
-| whopu | play ball |
-| thero    | require             |
-| whari | sing |
+| whoto    | need                |
 | shema    | study               |
-| sheme | teach |
+| sheme    | teach               |
 | thaso    | thank               |
 
-## transformation verbs
+### essential process verbs (10 verbs)
+*activities and procedures*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| phawa    | bleed               |
-| theso    | cook                |
-| phuru    | decrease            |
-| thoso    | earth               |
-| pholi    | grow                |
-| shena    | harm/hurt           |
-| phepa    | heal                |
-| thulo    | improve             |
-| phiro    | increase            |
-| shite    | make                |
-| thali    | remember            |
-| shapu    | squeeze             |
-| shatu    | show                |
-| phima    | win                 |
-| whuri | work |
-| shota    | document            |
+| shona    | begin               |
+| theta    | continue            |
+| whawu    | do                  |
+| whepi    | fail                |
+| whuli    | finish              |
+| thewo    | prepare             |
+| shosu    | stop                |
+| wheta    | start               |
+| whena    | try                 |
+| whuri    | work                |
 
-## remaining verb count
+## usage examples
 
-phi verbs follow the pattern `[F][V][C][V]` where:
-- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+### communication and cognition
+```
+mia na thi whisa
+I OBJ you ask
+"I ask you"
+```
 
-Total possible combinations = 4 × 5 × 9 × 5 = 900 verbs
+```
+sha na whethea thume
+he/she OBJ book remember
+"he/she remembers the book"
+```
 
-Currently defined verbs = 204 (15 communication + 20 cognitive + 46 movement + 
-13 existence + 15 creation/destruction + 21 acquisition + 7 sensory + 
-8 wave/energy + 7 perception/clarity + 18 process/action + 18 learning/social + 
-16 transformation)
+```
+lo thuilo na mia shuso
+PL people OBJ me say
+"people say to me"
+```
 
-Remaining available verbs = 696
+### motion and position
+```
+mia na siwhea sharo
+I OBJ house go
+"I go to the house"
+```
+
+```
+whothea phia metuwa shute
+food in container put
+"put food in container"
+```
+
+```
+sha li shali
+it PST fall
+"it fell"
+```
+
+### existence and change
+```
+mipho phera
+blue be
+"is blue"
+```
+
+```
+thuilo phoni
+person live
+"person lives"
+```
+
+```
+siathu whesa
+artist create
+"artist creates"
+```
+
+### acquisition and social interaction
+```
+mia na whethea shiho
+I OBJ book buy
+"I buy book"
+```
+
+```
+sha na mia whiwo
+he/she OBJ me give
+"he/she gives to me"
+```
+
+```
+lo thuilo whera
+PL people learn
+"people learn"
+```
+
+## cross-linguistic validation
+
+phi's verb system aligns with cross-linguistic research on semantic verb categorization showing universal patterns in how languages organize event and state concepts.
+
+key findings reflected in phi:
+- **manner vs result distinction**: phi maintains clear semantic boundaries between how actions are performed and what outcomes they achieve
+- **event structure hierarchy**: basic events (motion, change, causation) receive comprehensive lexical coverage
+- **semantic clustering**: related verbs group naturally around functional domains (communication, cognition, motion, etc.)
+- **universal semantic roles**: all major participant roles (agent, patient, experiencer, theme) receive systematic expression
+- **aspectual sensitivity**: verb meanings work naturally with phi's particle-based aspect system
+
+research by beth levin, leonard talmy, and others demonstrates that successful verb systems organize around functional semantic clusters rather than arbitrary formal categories. phi's nine-category organization (communication, cognition, motion, existence, creation, acquisition, perception, social, process) reflects these universal patterns while maintaining systematic phonotactic integrity.
+
+## natural usage principles
+
+**semantic precision over morphological complexity**: each verb expresses one clear meaning without derivational relationships to other parts of speech. speakers can predict verb behavior from semantic category membership rather than memorizing irregular forms.
+
+**systematic predictability**: every verb follows the `[F][V][C][V]` phonotactic pattern, enabling immediate recognition in connected speech. fricative-initial patterns distinguish verbs from all other parts of speech.
+
+**particle integration**: verbs combine systematically with phi's particle system to express complex temporal, aspectual, and modal meanings without requiring morphological inflection.
+
+**examples with natural simplification**:
+```
+Full form: si mia ta na whethea whemo
+Natural:   mia whethea whemo (when agency is clear from context)
+"book think" → "I think about book"
+```
+
+```
+Full form: sha li na thueto whiwo
+Natural:   thueto whiwo (when past tense is understood)
+"give money" → "gave money"
+```
+
+**beginner-friendly usage**: 
+- Start with basic existence verbs: `phera` (be), `thilu` (exist), `phoni` (live)
+- Add essential motion: `sharo` (go), `whema` (come), `shute` (put)
+- Practice communication: `shuso` (say), `whisa` (ask), `shata` (answer)
+- Combine with particles for precise temporal and aspectual specification
+
+**functional coverage**: the nine semantic categories provide comprehensive coverage of essential human experiences while maintaining clear boundaries between related concepts. each category serves distinct communicative functions without semantic overlap.
+
+## statistics and capacity
+
+- **current verbs**: 108 total
+- **communication**: 12 (11% - language and information exchange)
+- **cognition**: 15 (14% - mental processes and states)
+- **motion**: 18 (17% - movement and position)
+- **existence**: 8 (7% - being and becoming)
+- **creation/change**: 12 (11% - making and transforming)
+- **acquisition**: 15 (14% - getting and giving)
+- **perception**: 6 (6% - sensory experience)
+- **social**: 12 (11% - interpersonal interaction)
+- **process**: 10 (9% - activities and procedures)
+
+- **phonotactic capacity**: `[F][V][C][V]` pattern
+  - **fricatives**: 4 options (ph, wh, th, sh)
+  - **vowels**: 5 options (i, u, e, o, a)
+  - **consonants**: 9 options (h, l, m, n, p, r, s, t, w)
+  - **total combinations**: 4 × 5 × 9 × 5 = 900 possible verbs
+- **current usage**: 108 combinations (12% utilization)
+- **remaining capacity**: 792 combinations available for specialized domains or emerging concepts
+- **functional completeness**: core semantic categories covered comprehensively while maintaining substantial expansion potential 
