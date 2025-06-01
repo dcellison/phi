@@ -5,206 +5,219 @@ tags:
 ---
 # orthography
 
-> orthography refers to the conventional spelling system of a language. it encompasses 
-> the standardized way of using a writing system to represent the spoken form of a 
-> language, including the specific letters or symbols used, capitalization rules, 
-> punctuation conventions, and other writing norms.
+> orthography refers to the conventional spelling system of a language, encompassing the standardized way of using a writing system to represent the spoken form of a language. this includes the specific letters or symbols used, capitalization rules, punctuation conventions, and other writing norms that ensure consistent and recognizable written communication within a language community.
 
 ## introduction to phi orthography
 
-phi uses a simplified variant of the Latin alphabet designed for maximum clarity and 
-consistency. the writing system directly mirrors the phonological structure of the 
-language, with a nearly perfect one-to-one correspondence between sounds and written 
-symbols. this transparency between pronunciation and spelling creates a highly 
-predictable orthography, where words are written exactly as they sound.
+phi orthography achieves complete spelling predictability through systematic one-to-one correspondence between sounds and written symbols. every sound in phi maps to exactly one written representation, and every written symbol represents exactly one sound, eliminating the irregular spellings that characterize many natural language writing systems.
 
-phi's orthographic system follows these fundamental principles:
-1. **Phonological transparency**: spelling directly represents pronunciation
-2. **Visual simplicity**: minimal use of diacritics, capitals, and punctuation
-3. **Consistent application**: rules are applied uniformly without exceptions
-4. **Structural clarity**: orthographic conventions help identify word functions
+the writing system directly supports phi's grammatical transparency by encoding phonotactic patterns visually, enabling readers to identify word functions through consistent spelling patterns that reflect underlying grammatical categories. this integration creates an orthography where spelling itself provides immediate grammatical information.
 
-## character set
+## design philosophy
 
-phi uses a subset of the Latin alphabet consisting of 14 characters (9 consonants and 5 vowels):
+### perfect spelling predictability
+phi orthography maintains absolute correspondence between phonemes and graphemes, ensuring that knowledge of pronunciation enables perfect spelling competence and knowledge of spelling enables perfect pronunciation accuracy.
 
-| category   | characters                |
-| ---------- | ------------------------- |
-| consonants | h, l, m, n, p, r, s, t, w |
-| vowels     | a, e, i, o, u             |
+### visual grammatical encoding
+the writing system makes phonotactic patterns visible through systematic spelling conventions, allowing readers to recognize grammatical categories through visual pattern recognition rather than memorization of arbitrary word classes.
 
-the language also employs four standard digraphs that function as single consonants:
+### minimal character complexity
+phi employs standard latin alphabet characters without diacritical marks, special symbols, or complex punctuation, reducing visual processing demands while maintaining complete functional coverage of the phonological system.
 
-| digraph | sound representation                    |
-| ------- | --------------------------------------- |
-| ph      | /f/ as in English "fan"                 |
-| wh      | /ʍ/ voiceless "w" as in careful "which" |
-| th      | /θ/ as in English "thin"                |
-| sh      | /ʃ/ as in English "ship"                |
+## character inventory and spelling conventions
 
-critically, these four digraphs are treated as single consonantal units, not as 
-sequences of two separate consonants. they appear only in the initial position of 
-syllables and are essential for distinguishing certain parts of speech (e.g., all 
-verbs begin with a fricative digraph).
+### orthographic foundation
+phi's writing system maintains clear distinctions between three levels of analysis:
 
-## capitalization
+**individual letters**: phi uses exactly 14 standard latin alphabet characters with no diacritics, special symbols, or modified letters, ensuring maximum cross-linguistic accessibility and compatibility with existing writing systems.
 
-phi employs a minimalist approach to capitalization:
+**functional spelling units**: phi treats certain letter combinations as indivisible units that represent single sounds, creating 18 total spelling units (9 single consonants + 4 digraph combinations + 5 vowels).
 
-1. **lowercase as default**: all standard phi text is written entirely in lowercase
-2. **no sentence capitalization**: unlike english, sentences do not begin with capital letters
-3. **no proper noun capitalization**: names, places, and titles remain lowercase
-4. **metalinguistic exception**: when discussing phi as a language (in texts about phi 
-    written in other languages), "Phi" may be capitalized as a proper noun
+**phonological representation**: each spelling unit corresponds to exactly one sound in phi's phonological system, maintaining perfect spelling predictability through systematic sound-symbol correspondence.
 
-this approach to capitalization creates a visually uniform text that reinforces phi's 
-emphasis on clarity and pattern recognition without the distraction of variable casing.
+### basic character set
+phi uses 14 standard latin alphabet characters for its writing system:
 
-## punctuation
+**consonant letters (9)**: h, l, m, n, p, r, s, t, w
+**vowel letters (5)**: a, e, i, o, u
 
-phi employs a highly restricted set of punctuation marks:
+### digraph spelling system
+phi treats four consonant combinations as single spelling units representing single sounds:
 
-1. **period (.)**: marks the end of sentences
-2. **space ( )**: separates words
+**fricative digraphs**: ph, wh, th, sh
 
-notably absent from phi orthography are:
-- Question marks (yes/no questions use the particle `wa`; wh-questions use interrogative words alone)
-- Exclamation points (emphasis is conveyed through particles like `ma` or `ho`)
-- Commas (phrase boundaries are indicated by word order and particles)
-- Semicolons, colons, quotation marks, etc.
+these digraphs function as indivisible spelling units - they cannot be separated by syllable boundaries or word formation processes. importantly, these are combinations of existing letters, not special characters, maintaining phi's commitment to standard latin alphabet usage.
 
-this simplified punctuation system emphasizes phi's structural clarity, relying on 
-grammatical particles rather than punctuation to convey meaning distinctions.
+### vowel sequence spelling
+phi writes vowel sequences as adjacent vowel letters without separation markers:
 
-## syllable representation
+**allowed patterns**: any two different vowel letters (ia, ue, ao, ei, etc.)
+**prohibited patterns**: identical vowel repetitions (ii, uu, ee, oo, aa)
 
-phi syllables are represented orthographically according to these principles:
+vowel sequences represent two distinct sounds pronounced separately, not merged diphthongs.
 
-1. **CV structure**: most syllables follow a consonant-vowel pattern
-   - Single consonants: `ha`, `li`, `me`, `no`, `pu`
-   - Digraph consonants: `pha`, `whi`, `the`, `sho`
+## spelling pattern system
 
-2. **V structure**: vowel-only syllables appear only after CV syllables
-   - As part of vowel pairs: `phi.a`, `whu.e`, `tho.i`
-   - Written without separation markers (no hyphens or apostrophes)
+### phonotactic visual encoding
+phi spelling visually represents grammatical categories through systematic letter patterns:
 
-3. **no consonant clusters**: apart from the four standard digraphs, no other 
-   consonant clusters appear in phi
+**noun spelling pattern**: consonant/digraph + vowel(s) + digraph + vowel sequence
+- visual characteristics: ends with digraph + vowel sequence
+- spelling examples: words ending in "-phui", "-thea", "-shio"
 
-4. **no diacritics**: phi uses no accent marks, umlauts, or other diacritical symbols
+**verb spelling pattern**: digraph + vowel + consonant + vowel  
+- visual characteristics: begins with digraph, ends with single vowel
+- spelling examples: words beginning with "ph-", "wh-", "th-", "sh-"
+
+**adjective spelling pattern**: consonant + vowel + digraph + vowel
+- visual characteristics: single consonant start, digraph before final vowel
+- spelling examples: consonant + vowel + "ph/wh/th/sh" + vowel
+
+**adverb spelling pattern**: consonant + vowel + consonant + vowel + consonant + vowel
+- visual characteristics: three syllables, no digraphs, longest content words
+- spelling examples: six-letter words like "hamite", "tapine", "walime"
+
+**preposition spelling pattern**: digraph + vowel sequence
+- visual characteristics: digraph start, vowel sequence end, no consonants
+- spelling examples: words like "phae", "shio", "thau", "wheo"
+
+**determiner spelling pattern**: digraph + vowel sequence + consonant + vowel
+- visual characteristics: digraph + vowel sequence + consonant ending
+- spelling examples: words like "phiato", "thueta", "whieso", "shoata"
+
+**classifier spelling pattern**: consonant + vowel sequence
+- visual characteristics: single consonant + vowel sequence only
+- spelling examples: words like "lea", "moi", "teo", "hua"
+
+**conjunction spelling pattern**: consonant + vowel + consonant + vowel
+- visual characteristics: four letters, alternating consonant-vowel, no digraphs
+- spelling examples: words like "maca", "nene", "woma", "turae"
+
+**interjection spelling pattern**: consonant + vowel + consonant + vowel sequence
+- visual characteristics: consonant start, vowel sequence end, four letters total
+- spelling examples: words like "mimia", "wowou", "hihei", "tatau"
+
+**number spelling patterns**:
+- digits: digraph + vowel (two letters)
+- magnitudes: digraph + vowel + digraph + vowel (four letters)
+- visual characteristics: digits shortest, magnitudes have internal digraph
+- spelling examples: "phi", "whu" (digits) vs "phitha", "shupho" (magnitudes)
+
+**particle spelling pattern**: consonant + vowel
+- visual characteristics: shortest possible words, no digraphs
+- spelling examples: two-letter words like "li", "na", "te"
+
+### spelling predictability rules
+
+**syllable writing conventions**:
+- all written syllables end with vowel letters (open syllable spelling)
+- consonant clusters limited to digraphs only
+- no duplicate syllable sequences within words
+
+**word boundary spelling**:
+- spaces separate all words without exception
+- no capitalization differences within sentences
+- periods mark sentence boundaries only
+
+## grammatical category recognition through spelling
+
+### immediate visual recognition
+phi spelling enables instant grammatical category identification through pattern recognition:
+
+**length patterns**: particles (2 letters) vs. content words (4+ letters)
+**digraph positions**: word-initial digraphs signal verbs, word-internal signal nouns/adjectives
+**ending patterns**: vowel sequences mark nouns, single vowels mark verbs/adjectives
+
+### systematic spell-checking
+phi's predictable spelling enables algorithmic validation:
+
+**pattern verification**: check letter sequences against phonotactic rules
+**category consistency**: verify word patterns match grammatical usage
+**sequence validation**: confirm no prohibited letter combinations occur
+
+## writing system examples
+
+### basic spelling demonstration
+
+```
+written: mia na whethea phose
+pattern: CCV CV CVCVCVV CVCV
+"i see book"
+```
+
+### phonotactic pattern spelling
+
+```
+written: hashe whethea siwhea phera
+pattern: CVCV CVCVCVV CVCVCV CVCV  
+"green book house be"
+```
+
+### vowel sequence writing
+
+```
+written: haephui mipho
+pattern: CVVCVV CVCV
+"dune blue"
+```
+
+### digraph spelling consistency
+
+```
+written: phamu thunu shoru
+pattern: CVCV CVCV CVCV
+"spend finish burn"
+```
 
 ## writing conventions
 
-### word separation
+### spacing rules
+phi uses single spaces between all words without exception. no additional spacing for emphasis or grammatical marking.
 
-words in phi are separated by spaces, with no special joining conventions or 
-contractions. each word stands as a distinct orthographic unit.
+### punctuation system
+phi employs minimal punctuation:
+- **periods (.)**: mark sentence boundaries only
+- **no commas**: phi syntax eliminates comma necessity
+- **no capitals**: uniform letter size throughout
 
-### vowel pairs
+### text formatting
+phi writing maintains consistent visual presentation:
+- uniform character sizing throughout texts
+- left-to-right writing direction
+- standard line spacing without special formatting
 
-vowel pairs are written as consecutive vowel letters without intervening marks:
-- Regular vowel pairs: `ia`, `ue`, `ao`, `ei`, etc.
-- No identical vowel pairs: `ii`, `uu`, `ee`, `oo`, `aa` do not occur
+## spelling learning advantages
 
-### hyphenation and line breaks
+### complete predictability
+phi spelling eliminates irregular forms, silent letters, and arbitrary conventions, enabling perfect spelling competence through phonological knowledge alone.
 
-phi does not use hyphens for word breaks at line ends. when text must continue to a 
-new line, words are kept intact and never split across lines.
+### pattern-based mastery
+learners acquire spelling competence through systematic pattern recognition rather than word-by-word memorization, dramatically reducing learning time and cognitive load.
 
-### numbers
+### grammatical transparency
+visual spelling patterns provide immediate grammatical information, supporting both spelling accuracy and grammatical comprehension simultaneously.
 
-numerals can be written either using phi number words or using arabic numerals (1, 2, 3):
-- phi words: `phi` (one), `whu` (two), `the` (three), `pho` (four), `wha` (five)
-- arabic numerals are acceptable in technical contexts
+### cross-linguistic accessibility
+phi's latin-based character system and systematic spelling patterns enable rapid literacy development for speakers from diverse linguistic backgrounds.
 
-### loanwords and foreign terms
+## orthographic statistics
 
-phi has a strict policy for incorporating foreign terms:
-1. foreign terms must be adapted to fit phi phonotactics
-2. adapted terms must follow the appropriate pattern for their grammatical function
-3. no "foreign spelling" exceptions are permitted
+**character efficiency**:
+- individual letters used: 14 (minimal latin subset, no special characters)
+- functional spelling units: 18 (perfect sound-symbol correspondence)
+- spelling irregularities: 0 (complete predictability)
+- punctuation marks: 1 (period only)
 
-## orthographic representation of word classes
+**pattern regularity**:
+- phonotactic encoding: 100% systematic visual representation
+- grammatical transparency: complete category identification through spelling
+- spelling predictability: perfect correspondence with pronunciation
+- learning curve: minimal (pattern mastery vs. word memorization)
 
-phi's orthography visually reinforces the phonotactic patterns that distinguish different parts of speech:
+**writing system optimization**:
+- letter inventory: maximally efficient (essential standard letters only)
+- visual processing: streamlined (no diacritics or complex symbols)
+- spelling competence: achievable through systematic pattern learning
+- cross-linguistic transfer: optimized for diverse linguistic backgrounds
 
-| word class    | pattern              | orthographic characteristics               | example      |
-| ------------- | -------------------- | ------------------------------------------ | ------------ |
-| nouns         | [C/F][V/P][F][P]     | often end with vowel pairs                 | `liphai`     |
-| verbs         | [F][V][C][V]         | always begin with a digraph                | `phamo`      |
-| adjectives    | [C][V][F][V]         | start with simple consonant, contain digraph| `hashe`      |
-| adverbs       | [C][V][C][V][C][V]   | three-syllable pattern, no digraphs        | `hamite`     |
-| prepositions  | [F][P]               | digraph + vowel pair                       | `thue`       |
-| determiners   | [F][P][C][V]         | begin like prepositions but longer         | `thueta`     |
-| classifiers   | [C][P]               | single consonant + vowel pair              | `teo`        |
-| conjunctions  | [C][V][C][V]         | two syllables, no digraphs                 | `nene`       |
-| interjections | [C][V][C][P]         | end with vowel pair after consonant        | `mimia`      |
-| particles     | [C][V]               | minimal single consonant + vowel           | `li`, `wa`   |
-| numbers (digits) | [F][V]            | digraph + single vowel                     | `phi`        |
-| numbers (magnitudes) | [F][V][F][V]  | two syllables, both start with digraph     | `phitha`     |
-
-this orthographic encoding of grammatical function adds another layer of clarity to phi texts, 
-allowing readers to quickly identify the role of each word in a sentence.
-
-## examples of phi orthography
-
-the following examples demonstrate phi's orthographic principles in practice:
-
-### example text
-
-```
-thephoa nuthui phamo. thaphe lothia phuwe. welime thi sharo phira.
-mia siwhea na sharo phira. mia thi phiu sharo su. teshe. lo mia sharo.
-mia li phuwa phi teo nuthui phiu liphai. lu thaphe liphai phose hashe.
-```
-
-### with interlinear gloss
-
-```
-thephoa nuthui phamo.
-person  pebble like
-"The person likes the pebble."
-
-thaphe  lothia phuwe.
-woman   bed    sleep
-"The woman sleeps in the bed."
-
-welime thi sharo phira.
-where  you go    want
-"Where do you want to go?"
-
-phi teo   nuthui
-one round pebble
-"one pebble"
-
-lu  thaphe liphai phose hashe.
-REL woman tree   see   tall
-"The tree that the woman sees is tall."
-```
-
-## differences from english orthography
-
-phi orthography differs from english in several fundamental ways:
-
-1. **consistent spelling**: no silent letters, irregular spellings, or homographs
-2. **no capitalization**: all text is lowercase, even at sentence beginnings
-3. **minimal punctuation**: only periods and spaces are used
-4. **no syllable-final consonants**: all syllables end in vowels
-5. **digraphs as single units**: `ph`, `wh`, `th`, and `sh` function as indivisible consonants
-6. **direct sound-symbol correspondence**: spelling always reflects pronunciation
-7. **grammatical function encoded**: word patterns visually signal part of speech
-
-## practical implications
-
-phi's orthographic system is designed for:
-
-1. **learnability**: minimal rules with no exceptions make the system easy to master
-2. **consistency**: regular patterns aid recognition and production
-3. **clarity**: distinct patterns help identify grammatical functions
-4. **efficiency**: reduced punctuation and capitalization streamline writing
-5. **technology-friendly**: simple character set works with basic text systems
-6. **cross-linguistic accessibility**: familiar latin-based characters with predictable values
-
-this orthographic simplicity aligns with phi's overall design principles of clarity,
-regularity, and functionality, making the written form of the language as systematic
-as its grammatical and phonological structures. 
+phi's orthographic system demonstrates that complete spelling predictability and systematic grammatical encoding can coexist within a minimal character inventory, providing a model for optimized written communication that prioritizes visual clarity and systematic regularity over traditional orthographic complexity. 
