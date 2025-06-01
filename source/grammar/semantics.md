@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # semantics
 
 > semantics refers to the study of meaning in language, encompassing how words, phrases, and sentences convey meaning, how meanings are composed systematically from component parts, and how meaning relates to truth conditions, reference, and conceptual representation across different linguistic and cultural contexts.

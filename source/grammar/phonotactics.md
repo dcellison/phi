@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # phonotactics
 
 > phonotactics refers to the rules governing the permissible combinations of phonemes in a language. it defines which sound sequences are allowed to form syllables and words, and which combinations are prohibited. these patterns are often unconsciously followed by native speakers and give each language its distinctive sound.

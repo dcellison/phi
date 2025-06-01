@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # syntax
 
 > syntax refers to the rules governing how words and phrases are arranged to form sentences in a language. it defines the structural relationships between different elements, determining word order, agreement patterns, and hierarchical organization of phrases and clauses across different linguistic contexts and communicative functions.

@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # phonology
 
 > phonology refers to the system of sounds in a language and the rules governing how these sounds are organized and combined. it studies the abstract sound units (phonemes) that distinguish meaning, their patterns of distribution, and the processes that affect them in different contexts.

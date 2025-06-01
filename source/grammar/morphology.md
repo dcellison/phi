@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # morphology
 
 > morphology refers to the study of word structure and formation in a language. it examines how words are built from smaller meaningful units called morphemes and the processes by which words are inflected, derived, or otherwise modified to express different grammatical functions and semantic relationships.

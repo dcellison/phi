@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # sociolinguistics
 
 > sociolinguistics refers to the study of the relationship between language and society, examining how social factors influence linguistic variation and change, how language reflects and constructs social identity, and how linguistic diversity emerges from and responds to cultural, economic, and political forces across different communities and contexts.

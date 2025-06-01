@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # phonetics
 
 > phonetics is the study of speech sounds and their physical production, acoustic properties, and perception. it examines how sounds are articulated by the vocal tract, how they travel through air as sound waves, and how they are perceived by listeners, providing precise descriptions of pronunciation and acoustic characteristics of human speech.

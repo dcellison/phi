@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # pragmatics
 
 > pragmatics refers to the study of how context contributes to meaning in language use, examining how speakers employ context, shared knowledge, and social conventions to convey meaning beyond literal content. this includes speech acts, implicature, presupposition, and politeness strategies that govern effective communication in social interaction.

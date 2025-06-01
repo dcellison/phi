@@ -1,8 +1,3 @@
----
-tags:
-  - grammar
-  - standard
----
 # orthography
 
 > orthography refers to the conventional spelling system of a language, encompassing the standardized way of using a writing system to represent the spoken form of a language. this includes the specific letters or symbols used, capitalization rules, punctuation conventions, and other writing norms that ensure consistent and recognizable written communication within a language community.
