@@ -116,7 +116,7 @@ the phi noun system reflects four core principles validated through cross-lingui
 | shuthai  | forest              |
 | lathea   | river               |
 | whithui  | lake                |
-| naphai   | road               |
+| naphai   | road                |
 | whethui  | sky                 |
 | huphai   | vicinity            |
 
@@ -174,7 +174,6 @@ the phi noun system reflects four core principles validated through cross-lingui
 | phuthoa  | word                |
 | thuwhia  | work                |
 | luthui   | wisdom              |
-| sophu    | truth               |
 | sophui   | truth               |
 
 ## usage examples
