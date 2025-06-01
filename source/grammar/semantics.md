@@ -82,4 +82,5 @@ if i learn after i understand
 ```
 
 ## conclusion
+
 phi semantics is characterized by its directness and transparency, achieved through a unique synergy of phonotactically distinct word classes and an explicit particle system. this design ensures that the meaning of complex expressions is systematically derivable from the meanings of individual words and the clear semantic functions of grammatical markers. by minimizing reliance on contextual inference for core semantic relations, phi offers a robust framework for precise conceptual representation and logical consistency.
