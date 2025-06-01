@@ -8,17 +8,6 @@ phi orthography achieves complete spelling predictability through systematic one
 
 the writing system directly supports phi's grammatical transparency by encoding phonotactic patterns visually, enabling readers to identify word functions through consistent spelling patterns that reflect underlying grammatical categories. this integration creates an orthography where spelling itself provides immediate grammatical information.
 
-## design philosophy
-
-### perfect spelling predictability
-phi orthography maintains absolute correspondence between phonemes and graphemes, ensuring that knowledge of pronunciation enables perfect spelling competence and knowledge of spelling enables perfect pronunciation accuracy.
-
-### visual grammatical encoding
-the writing system makes phonotactic patterns visible through systematic spelling conventions, allowing readers to recognize grammatical categories through visual pattern recognition rather than memorization of arbitrary word classes.
-
-### minimal character complexity
-phi employs standard latin alphabet characters without diacritical marks, special symbols, or complex punctuation, reducing visual processing demands while maintaining complete functional coverage of the phonological system.
-
 ## character inventory and spelling conventions
 
 ### orthographic foundation
@@ -181,38 +170,6 @@ phi writing maintains consistent visual presentation:
 - left-to-right writing direction
 - standard line spacing without special formatting
 
-## spelling learning advantages
+## conclusion
 
-### complete predictability
-phi spelling eliminates irregular forms, silent letters, and arbitrary conventions, enabling perfect spelling competence through phonological knowledge alone.
-
-### pattern-based mastery
-learners acquire spelling competence through systematic pattern recognition rather than word-by-word memorization, dramatically reducing learning time and cognitive load.
-
-### grammatical transparency
-visual spelling patterns provide immediate grammatical information, supporting both spelling accuracy and grammatical comprehension simultaneously.
-
-### cross-linguistic accessibility
-phi's latin-based character system and systematic spelling patterns enable rapid literacy development for speakers from diverse linguistic backgrounds.
-
-## orthographic statistics
-
-**character efficiency**:
-- individual letters used: 14 (minimal latin subset, no special characters)
-- functional spelling units: 18 (perfect sound-symbol correspondence)
-- spelling irregularities: 0 (complete predictability)
-- punctuation marks: 1 (period only)
-
-**pattern regularity**:
-- phonotactic encoding: 100% systematic visual representation
-- grammatical transparency: complete category identification through spelling
-- spelling predictability: perfect correspondence with pronunciation
-- learning curve: minimal (pattern mastery vs. word memorization)
-
-**writing system optimization**:
-- letter inventory: maximally efficient (essential standard letters only)
-- visual processing: streamlined (no diacritics or complex symbols)
-- spelling competence: achievable through systematic pattern learning
-- cross-linguistic transfer: optimized for diverse linguistic backgrounds
-
-phi's orthographic system demonstrates that complete spelling predictability and systematic grammatical encoding can coexist within a minimal character inventory, providing a model for optimized written communication that prioritizes visual clarity and systematic regularity over traditional orthographic complexity. 
+phi's orthography is meticulously designed for clarity, predictability, and grammatical transparency. by employing a minimal set of standard latin characters, a perfectly phonetic spelling system, and visual encoding of phonotactic patterns, it ensures that the written form of the language is both easy to learn and directly informative about grammatical structure. the system's consistency in spelling rules, spacing, and minimal punctuation further supports its goal of efficient and unambiguous written communication. 
