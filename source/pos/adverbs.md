@@ -13,7 +13,7 @@ this pattern creates words like `hamite` (how), `napine` (quickly), and `walime`
 
 adverbs serve to modify verbs, adjectives, other adverbs, or entire clauses, providing information about time, place, manner, degree, frequency, or logical relationships. their distinctive three-syllable pattern creates an immediate phonological cue that helps listeners identify adverbial functions in speech.
 
-in phi's SOV (subject-object-verb) word order, adverbs typically appear at the beginning of clauses or immediately before the elements they modify: `napine mia whunara` (quickly I run), `walime thephoa phera` (outside person be).
+in phi's SOV (subject-object-verb) word order, adverbs typically appear at the beginning of clauses or immediately before the elements they modify: `napine mia whumi` (quickly I run), `walime thephoa phera` (outside person be).
 
 unlike some natural languages where adverbs may be formed by adding suffixes to adjectives, phi maintains complete lexical separation between parts of speech. this approach enhances clarity and maintains the language's systematic phonological distinctions while allowing for precise adverbial expression.
 
@@ -167,26 +167,48 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use basic adverbs; advanced speakers add nuanced modification only when communicatively valuable.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: napine mia harote thea
-Natural:   mia harote thea (speed obvious from "immediately")
-"I (quickly) go immediately"
+napine mia harote sharo
+quickly 1SG immediately go
+I quickly go immediately
 ```
 
+**Natural form:**
 ```
-Full form: ritune tushe whothea phusu
-Natural:   tushe whothea phusu (intensity clear from context)
-"cook (very) good food"
+mia harote sharo
+1SG immediately go
+I go immediately
+```
+
+**Full form:**
+```
+mia ritune tushe noshea thewo
+1SG very good food prepare
+I prepare very good food
+```
+
+**Natural form:**
+```
+mia tushe noshea thewo
+1SG good food prepare
+I prepare good food
 ```
 
 **beginner-friendly usage**: 
-- Start with essential adverbs: `wanume whera` (learn well)
-- Add complexity gradually: `ritune wanume napine whera` (learn very well quickly)
+- Start with essential adverbs: `mia wanume whera` (I learn well)
+- Add complexity gradually: 
+```
+mia ritune wanume napine whera
+1SG very well quickly learn
+I learn very well quickly
+```
 - Context often eliminates need for obvious modification
 
 **semantic precision**: each adverb covers one clear semantic domain without overlap. related concepts are distinguished by separate lexical items rather than contextual interpretation.
 
-**SOV positioning**: adverbs typically appear clause-initially or immediately before the elements they modify. examples: `napine mia whunara` (quickly I run), `ritune tushe whothea` (very good food), `hamite mia whera` (how I learn).
+**SOV positioning**: adverbs typically appear clause-initially or immediately before the elements they modify. examples: `napine mia sharo` (quickly I go), `ritune tushe noshea` (very good food), `hamite mia whera` (how I learn).
 
 **no derivational morphology**: phi adverbs are not derived from other parts of speech. each maintains its distinct phonotactic pattern and semantic independence.
 
@@ -223,4 +245,4 @@ this substantial remaining capacity allows for future expansion into specialized
 
 ---
 
-*this streamlined system provides complete modification capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.* 
+*this streamlined system provides complete modification capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*

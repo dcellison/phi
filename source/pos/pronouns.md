@@ -48,45 +48,45 @@ cross-linguistic research shows that all languages require personal pronouns for
 ### personal pronoun reference
 ```
 mia whera
+1SG learn
 I learn
-"I learn"
 ```
 
 ```
-mia na sha phose
-I OBJ it/him/her see
-"I see it/him/her"
+mia na sha shose
+1SG OBJ 3SG see
+I see it/him/her
 ```
 
 ```
 sha mipho phera
-it/he/she blue be
-"it/he/she is blue"
+3SG blue be
+It/he/she is blue
 ```
 
 ### interrogative pronoun questions
 ```
 lua li whera
 who PST learn
-"who learned?"
+Who learned?
 ```
 
 ```
-nua li thunu
+nua li phuho
 what PST happen
-"what happened?"
+What happened?
 ```
 
 ```
-thi na lua phose
-you OBJ who see
-"who do you see?"
+thi na lua shose
+2SG OBJ who see
+Who do you see?
 ```
 
 ```
 thueta nua phera
 that what be
-"what is that?"
+What is that?
 ```
 
 ### pronoun particle combinations
@@ -94,48 +94,48 @@ that what be
 **plurality marking**:
 ```
 lo mia whera
-PL I learn
-"we learn"
+PL 1SG learn
+We learn
 ```
 
 ```
-lo sha na lua phose
-PL they OBJ who see
-"who do they see?"
+lo sha na lua shose
+PL 3SG OBJ who see
+Who do they see?
 ```
 
 **explicit grammatical marking**:
 ```
 si mia na nua whemo
-SBJ I OBJ what think
-"what do I think?"
+SBJ 1SG OBJ what think
+What do I think?
 ```
 
 **emphasis marking**:
 ```
 ma lua li thea
 EMPH who PST come
-"who actually came?"
+Who actually came?
 ```
 
 **possessive construction**:
 ```
 whethea thue mia
-book of I
-"my book"
+book of 1SG
+My book
 ```
 
 ```
 whethea thue lua
 book of who
-"whose book"
+Whose book
 ```
 
 **reflexive construction**:
 ```
-mia na mia phemo
-I OBJ I think
-"I think about myself"
+mia na mia whemo
+1SG OBJ 1SG think
+I think about myself
 ```
 
 ## cross-linguistic validation
@@ -169,27 +169,44 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use basic pronouns; advanced speakers add particle modifications only when communicatively necessary.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: si mia na thueta whemo
-Natural:   mia thueta whemo (when subject marking is clear)
-"I think that" → "I think that"
+si mia na thueta whemo
+SBJ 1SG OBJ that think
+I think that
 ```
 
+**Natural form:**
 ```
-Full form: lua li na whethea phina
-Natural:   lua whethea phina (when object marking is obvious)
-"who found the book" → "who found book"
+mia thueta whemo
+1SG that think
+I think that
+```
+
+**Full form:**
+```
+lua li na whethea whina
+who PST OBJ book find
+Who found the book
+```
+
+**Natural form:**
+```
+lua whethea whina
+who book find
+Who found book
 ```
 
 **beginner-friendly usage**: 
-- Start with basic pronouns: `mia whera` (I learn), `thi phose` (you see)
-- Add interrogatives gradually: `lua thea` (who came), `nua thunu` (what happened)
+- Start with basic pronouns: `mia whera` (I learn), `thi shose` (you see)
+- Add interrogatives gradually: `lua thea` (who came), `nua phuho` (what happened)
 - Use particles for clarity: `na lua` (who-object), `lo mia` (we)
 - Context often eliminates need for explicit marking
 
 **semantic precision**: each pronoun covers one clear reference domain without overlap. personal pronouns refer to known discourse entities; interrogative pronouns ask about unknown entities.
 
-**SOV integration**: pronouns follow phi's subject-object-verb positioning and integrate seamlessly with the particle system. examples: `mia na lua phose` (I see who), `nua thue thi phera` (what is yours), `lua li whera` (who learned).
+**SOV integration**: pronouns follow phi's subject-object-verb positioning and integrate seamlessly with the particle system. examples: `mia na lua shose` (I see who), `nua thue thi phera` (what is yours), `lua li whera` (who learned).
 
 **particle compatibility**: all pronouns work with the complete particle system including plurality (lo), emphasis (ma), grammatical marking (si/na), and discourse particles (ha/mi).
 

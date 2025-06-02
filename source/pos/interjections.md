@@ -36,66 +36,66 @@ phi interjections follow cross-linguistic patterns found in world languages whil
 
 | phi word | english translation |
 | -------- | ------------------- |
-| pishe    | psst (getting attention) |
-| thasha   | shh (requesting silence) |
-| wheira   | hey (calling out)   |
-| phoire   | oi (demanding attention) |
+| pisau    | psst (getting attention) |
+| hasou    | shh (requesting silence) |
+| wepau    | hey (calling out)   |
+| pohoi    | oi (demanding attention) |
 
 ### essential phatic interjections (4 interjections)
 *maintaining communicative contact*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| thumai   | mhm (acknowledgment) |
-| wheino   | uh-huh (agreement)  |
-| phailu   | yeah (affirmation)  |
-| sholau   | well (transitioning) |
+| tumea    | mhm (acknowledgment) |
+| nehiu    | uh-huh (agreement)  |
+| papou    | yeah (affirmation)  |
+| lohau    | well (transitioning) |
 
 ## usage examples
 
 ### expressive interjections
 ```
 mimia me mipho phera
-oh it blue be
-"oh it's blue"
+oh NEG blue be
+Oh it's not blue
 ```
 
 ```
-wowou thi na sha phina
-wow you OBJ it find
-"wow you found it"
+wowou thi na sha whuni
+wow you OBJ it have
+Wow you have it
 ```
 
 ```
-tatau li thunu
-alas PST finish
-"alas it's finished"
+tatau li shule
+alas PST complete
+Alas it's completed
 ```
 
 ### conative interjections
 ```
-pishe
+pisau
 psst
-"psst"
+Psst
 ```
 
 ```
-thasha mia whemo
-shh I think
-"shh i'm thinking"
+hasou mia whemo
+shh 1SG think
+Shh I'm thinking
 ```
 
 ### phatic interjections
 ```
-thumai mia phose
-mhm I see
-"mhm i see"
+tumea mia shose
+mhm 1SG see
+Mhm I see
 ```
 
 ```
-sholau wetu sha thera
-well if it true
-"well if it's true"
+lohau wetu sha tophi phera
+well if 3SG true be
+Well if it's true
 ```
 
 ## cross-linguistic validation
@@ -109,7 +109,7 @@ research shows interjections share common properties globally:
 - spontaneous rather than formulaic nature
 - context-dependent interpretation
 
-phi's phonotactic patterns for interjections ([C][V][C][P]) maintain both universality and language-specific identity while ensuring systematic predictability.
+phi's phonotactic patterns for interjections (`[C][V][C][P]`) maintain both universality and language-specific identity while ensuring systematic predictability.
 
 ## natural usage principles
 
@@ -121,21 +121,33 @@ phi's phonotactic patterns for interjections ([C][V][C][P]) maintain both univer
 
 **examples with natural simplification**:
 ```
-Full context: mimia mia na thueta phose
-Natural:      mimia thueta (when surprise is the main point)
-"oh that" → "oh that"
+mimia mia na thueta shose
+oh 1SG OBJ that see
+Oh I see that
 ```
 
 ```
-Full context: wowou sha li mipho phera
-Natural:      wowou mipho (when amazement at beauty is clear)
-"wow it was blue" → "wow blue"
+mimia thueta
+oh that
+Oh that
+```
+
+```
+wowou sha li mipho phera
+wow 3SG PST blue be
+Wow it was blue
+```
+
+```
+wowou mipho
+wow blue
+Wow blue
 ```
 
 **beginner-friendly usage**: 
 - Start with basic emotive interjections: `mimia` (oh), `wowou` (wow)
 - Add cognitive expressions: `pupai` (aha), `rurua` (hmm)
-- Practice conative forms: `pishe` (psst), `thasha` (shh)
+- Practice conative forms: `pisau` (psst), `hasou` (shh)
 - Context often makes complex constructions unnecessary
 
 **semantic precision**: each interjection covers one specific type of mental state or communicative function without overlap. speakers choose based on genuine internal experience rather than social expectation.

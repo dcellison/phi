@@ -15,7 +15,7 @@ this pattern creates words like `phiato` (this), `thueta` (that), and `whieso` (
 
 unlike many natural languages, phi does not use definite or indefinite articles (equivalent to "the" and "a/an"). definite or indefinite meaning is typically inferred from context. possessive relationships are expressed using the preposition `thue` (of) rather than possessive determiners.
 
-in phi's SOV word order, determiners precede the nouns they modify and follow any applicable particles: `lo phiato nuthui` (these pebbles), where the plural particle `lo` precedes the determiner `phiato`, which precedes the noun `nuthui`.
+in phi's SOV word order, determiners precede the nouns they modify and follow any applicable particles: `lo phiato phuawhai` (these stones), where the plural particle `lo` precedes the determiner `phiato`, which precedes the noun `phuawhai`.
 
 ## design philosophy
 
@@ -78,59 +78,59 @@ research into determiner typology shows that certain specification concepts are 
 
 ### demonstrative reference
 ```
-phiato nuthui
-this pebble
-"this pebble"
+phiato phuawhai
+this stone
+This stone
 ```
 
 ```
-lo phiato nuthui
-PL this pebble
-"these pebbles"
+lo phiato phuawhai
+PL this stone
+These stones
 ```
 
 ```
-thueta siwhea
+thueta hiwhea
 that house
-"that house"
+That house
 ```
 
 ```
-lo thueta siwhea
+lo thueta hiwhea
 PL that house
-"those houses"
+Those houses
 ```
 
 ### interrogative specification
 ```
-whieso siwhea
+whieso hiwhea
 which house
-"which house"
+Which house
 ```
 
 ```
-wheipa whothea
+wheipa noshea
 whose food
-"whose food"
+Whose food
 ```
 
 ### quantification
 ```
 shoata lo thephoa
 all PL person
-"all people"
+All people
 ```
 
 ```
 pheapo thephoa
 each person
-"each person"
+Each person
 ```
 
 ```
-thoana whothea
+thoana noshea
 no food
-"no food"
+No food
 ```
 
 ## cross-linguistic validation
@@ -162,27 +162,44 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use basic determiners; advanced speakers add precise specification only when communicatively valuable.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: phiato mipho whothea
-Natural:   mipho whothea (when "this blue food" context is clear)
-"(this) blue food"
+phiato mipho noshea
+this blue food
+This blue food
 ```
 
+**Natural form:**
 ```
-Full form: shoata lo thephoa
-Natural:   lo thephoa (when universality is understood)
-"(all) people"
+mipho noshea
+blue food
+Blue food
+```
+
+**Full form:**
+```
+shoata lo thephoa
+all PL person
+All people
+```
+
+**Natural form:**
+```
+lo thephoa
+PL person
+People
 ```
 
 **beginner-friendly usage**: 
-- Start with basic demonstratives: `phiato whothea` (this food), `thueta siwhea` (that house)
-- Add quantifiers gradually: `sheapa whothea` (some food)
-- Use particles for plurality: `lo phiato whothea` (these foods)
+- Start with basic demonstratives: `phiato noshea` (this food), `thueta hiwhea` (that house)
+- Add quantifiers gradually: `sheapa noshea` (some food)
+- Use particles for plurality: `lo phiato noshea` (these foods)
 - Context often eliminates need for explicit specification
 
 **semantic precision**: each determiner covers one clear specification domain without overlap. speakers choose determiners based on the specific reference or quantification they want to express.
 
-**SOV positioning**: determiners appear between particles and nouns in phi's subject-object-verb word order. examples: `lo phiato nuthui` (these pebbles), `whieso siwhea` (which house), `thueta whothea` (that food).
+**SOV positioning**: determiners appear between particles and nouns in phi's subject-object-verb word order. examples: `lo phiato phuawhai` (these stones), `whieso hiwhea` (which house), `thueta noshea` (that food).
 
 **demonstrative distance system**: phi follows the universal two-way proximal/distal distinction. spatial reference beyond this basic contrast is handled through prepositions and adverbs rather than additional demonstrative lexemes.
 
@@ -219,4 +236,4 @@ this substantial remaining capacity allows for future expansion into specialized
 
 ---
 
-*this streamlined system provides complete specification capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.* 
+*this streamlined system provides complete specification capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*

@@ -82,8 +82,8 @@ Interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | particle | function | usage | gloss |
 |----------|----------|-------|-------|
 | si | subject marker | si thephoa | `SBJ person` |
-| na | object marker | na whothea | `OBJ food` |
-| te | verb marker | te whunara | `VRB run` |
+| na | object marker | na noshea | `OBJ food` |
+| te | verb marker | te whumi | `VRB run` |
 
 *Note: These clarify grammatical roles but phi's SOV word order usually makes them unnecessary.*
 
@@ -118,14 +118,14 @@ Interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 | particle | function | usage | gloss | necessity |
 |----------|----------|-------|-------|-----------|
 | hi | direct evidence | hi mia sha whilana | `DIR 1SG 3SG see` | *advanced feature* |
-| ro | inference | ro sha whothea phusu | `INFER 3SG food cook` | *advanced feature* |
+| ro | inference | ro sha noshea thewo | `INFER 3SG food prepare` | *advanced feature* |
 
 **deontic modality (4 particles)** - *use when expressing modality*
 | particle | function | usage | gloss | necessity |
 |----------|----------|-------|-------|-----------|
 | ra | necessity/obligation | ra mia thea | `NEC 1SG go` | **for "must/should"** |
 | se | possibility/permission | se mia thea | `POS 1SG go` | **for "can/may"** |
-| we | ability | we mia phusu | `ABIL 1SG cook` | **for "able to"** |
+| we | ability | we mia thewo | `ABIL 1SG prepare` | **for "able to"** |
 | wo | prohibition | wo mia thea | `PRH 1SG go` | **for "cannot/forbidden"** |
 
 **rationale**: Modal concepts are essential for daily communication. Evidentiality is sophisticated but optional.
@@ -136,29 +136,29 @@ Interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 **topic/focus** - *advanced discourse*
 | particle | function | usage | gloss |
 |----------|----------|-------|-------|
-| ha | topic marker | ha whothea mia phusu | `TOP food 1SG cook` |
-| mi | contrast | mia whothea phusu mi sha me phusu | `1SG food cook CNT 3SG NEG cook` |
+| ha | topic marker | ha noshea mia thewo | `TOP food 1SG prepare` |
+| mi | contrast | mia noshea thewo mi sha me thewo | `1SG food prepare CNT 3SG NEG prepare` |
 
 **emphasis** - *when emphasis needed*
 | particle | function | usage | gloss |
 |----------|----------|-------|-------|
-| ma | emphasis | ma riphe whothea | `EMPH important food` |
+| ma | emphasis | ma riphe noshea | `EMPH important food` |
 | nu | focus | nu mia whera | `FOC 1SG learn` |
 
 **discourse flow** - *advanced features*
 | particle | function | usage | gloss |
 |----------|----------|-------|-------|
 | ho | topic shift | ho whethui mipho phera | `SHIFT sky blue be` |
-| po | attention | po whothea phusu phera | `ATT food cook be` |
+| po | attention | po noshea thewo phera | `ATT food prepare be` |
 
 ### comparison/quantification (5 particles)
 *Essential comparison and polarity*
 
 | particle | function | usage | gloss | necessity |
 |----------|----------|-------|-------|-----------|
-| pa | superlative | pa riphe whothea | `SPRL important food` | **for "most"** |
-| mo | comparative | mo riphe whothea | `COMP important food` | **for "more"** |
-| sa | equality | sa riphe whothea | `EQL important food` | **for "as...as"** |
+| pa | superlative | pa riphe noshea | `SPRL important food` | **for "most"** |
+| mo | comparative | mo riphe noshea | `CMPR important food` | **for "more"** |
+| sa | equality | sa riphe noshea | `EQL important food` | **for "as...as"** |
 | me | negation | me mia whera | `NEG 1SG learn` | **for "not"** |
 | to | affirmation | to mia whera | `AFF 1SG learn` | **for "yes/indeed"** |
 
@@ -192,116 +192,119 @@ The phi particle system enables clear pedagogical stages:
 
 ### absolute beginner level
 ```
-lo thephoa whothea phusu
-PL person food cook
-"People cook food"
+lo thephoa noshea thewo
+PL person food prepare
+People prepare food
 ```
 
 ```
 wa mia whera
 Q 1SG learn
-"Do I learn?"
+Do I learn?
 ```
 
 ```
 me mia whera
 NEG 1SG learn
-"I don't learn"
+I don't learn
 ```
 
 ### basic temporal reference
 ```
-li mia whothea phusu
-PST 1SG food cook
-"I cooked food"
+li mia noshea thewo
+PST 1SG food prepare
+I prepared food
 ```
 
 ```
-su ra mia whothea phusu
-FUT NEC 1SG food cook
-"I will have to cook food"
+su ra mia noshea thewo
+FUT NEC 1SG food prepare
+I will have to prepare food
 ```
 
 ### modal expression
 ```
-se mia whothea phusu
-POS 1SG food cook
-"I can cook food"
+se mia noshea thewo
+POS 1SG food prepare
+I can prepare food
 ```
 
 ```
-wo mia whothea phusu
-PRH 1SG food cook
-"I cannot/must not cook food"
+wo mia noshea thewo
+PRH 1SG food prepare
+I cannot prepare food
 ```
 
 ### comparison (still simple)
 ```
-mo riphe whothea
-COMP important food
-"More important food"
+mo riphe noshea
+CMPR important food
+More important food
 ```
 
 ### advanced but accessible
 ```
-li ra mia ma riphe whothea phusu
-PST NEC 1SG EMPH important food cook
-"I had to cook *important* food"
+li ra mia ma riphe noshea thewo
+PST NEC 1SG EMPH important food prepare
+I had to prepare important food
 ```
 
 ### expanded temporal examples
 ```
-ri mia whothea phusu
-IPFV 1SG food cook
-"I was cooking food / I used to cook food"
-```
-```
-ni mia whothea phusu
-PFV 1SG food cook
-"I cooked food (completed)"
-```### hypothetical/conditional expressions
-```
-lu mia thea
-COND 1SG go
-"I would go"
+ri mia noshea thewo
+IPFV 1SG food prepare
+I was preparing food
 ```
 
 ```
-lu ra mia whothea phusu
-COND NEC 1SG food cook
-"I would have to cook food"
+ni mia noshea thewo
+PFV 1SG food prepare
+I prepared food
+```
+
+### hypothetical/conditional expressions
+```
+lu mia thea
+COND 1SG go
+I would go
+```
+
+```
+lu ra mia noshea thewo
+COND NEC 1SG food prepare
+I would have to prepare food
 ```
 
 ### number distinctions
 ```
-pu he thephoa whothea phusu
-PAUC HUM person food cook
-"A few people cook food"
+pu thephoa noshea thewo
+PAUC person food prepare
+A few people prepare food
 ```
 
 ```
-tu he thephoa whothea phusu
-DU HUM person food cook
-"Two people cook food"
+tu thephoa noshea thewo
+DU person food prepare
+Two people prepare food
 ```
 
 ### complete comparison system
 ```
-mo riphe whothea
-COMP important food
-"More important food"
+mo riphe noshea
+CMPR important food
+More important food
 ```
 
 ```
-sa riphe whothea
+sa riphe noshea
 EQL important food
-"Equally important food"
+Equally important food
 ```
 
 ```
-pa riphe whothea
+pa riphe noshea
 SPRL important food
-"Most important food"
+Most important food
 ```
 
 ## cross-linguistic validation
@@ -336,16 +339,33 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use simple forms; advanced speakers add sophistication only when communicatively valuable.
 
 **examples with natural dropping**:
+
+**Full form:**
 ```
-Full form: mia whothea phusu nene mia whothei thilu
-Natural:   mia whothea phusu nene whothei thilu
-"I cook food and (I) prepare drinks"
+mia noshea thewo nene mia wheishea thewo
+1SG food prepare and 1SG water prepare
+I prepare food and I prepare water
 ```
 
+**Natural form:**
 ```
-Full form: si mia na whothea te phusu
-Natural:   mia whothea phusu
-"I cook food"
+mia noshea thewo nene wheishea thewo
+1SG food prepare and water prepare
+I prepare food and water
+```
+
+**Full form:**
+```
+si mia na noshea te thewo
+SBJ 1SG OBJ food VRB prepare
+I prepare food
+```
+
+**Natural form:**
+```
+mia noshea thewo
+1SG food prepare
+I prepare food
 ```
 
 **optional markers**: 

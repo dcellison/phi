@@ -11,7 +11,7 @@ classifiers in phi adhere to the structure `[C][P]` where:
 
 this pattern creates words like `lea` (long objects), `moi` (flat objects), and `teo` (round objects), which always begin with a consonant followed by a vowel pair. this gives classifiers a concise, expressive sound that is perfect for their frequent use in counting and categorization contexts.
 
-classifiers in phi are used immediately after numbers and quantifiers, but before the noun they classify. in phi's SOV word order, the structure follows: number + classifier + noun. examples: `phi lea wheupha` (one [long] tree), `whu rao whithoa` (two [animal] dogs), `pho teo nuthui` (four [round] stones).
+classifiers in phi are used immediately after numbers and quantifiers, but before the noun they classify. in phi's SOV word order, the structure follows: number + classifier + noun. examples: `phi lea liphai` (one [long] tree), `whu rao whithoa` (two [animal] dogs), `pho teo phuawhai` (four [round] stones).
 
 while classifiers share the same phonotactic pattern as interjections, phi maintains a strict lexical distinction where no classifier ever overlaps with an interjection. this upholds phi's single part of speech principle while providing systematic categorization capabilities.
 
@@ -89,40 +89,40 @@ in phi, classifiers follow the pattern: number + classifier + noun
 
 ### basic counting
 ```
-phi lea wheupha
+phi lea liphai
 one CL.long tree
-"one tree"
+One tree
 ```
 
 ```
 whu rao whithoa
 two CL.animal dog
-"two dogs"
+Two dogs
 ```
 
 ```
-pho teo nuthui
+pho teo phuawhai
 four CL.round stone
-"four stones"
+Four stones
 ```
 
 ### with different numbers
 ```
 shu hau thephoa
 seven CL.human person
-"seven people"
+Seven people
 ```
 
 ```
-thuphi moi whephea
+thuphi moi whethea
 thousand CL.flat paper
-"one thousand sheets of paper"
+One thousand sheets of paper
 ```
 
 ### contextual usage
 the same noun may take different classifiers based on context:
-- `phi lea wheupha` (one [long] tree) - standing tree
-- `phi moi wheupha` (one [flat] tree) - fallen/cut tree viewed as flat object
+- `phi lea liphai` (one [long] tree) - standing tree
+- `phi moi liphai` (one [flat] tree) - fallen/cut tree viewed as flat object
 
 ## cross-linguistic validation
 
@@ -151,26 +151,48 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use basic counting; advanced speakers add precise categorization only when communicatively valuable.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: whu hau thephoa
-Natural:   whu thephoa (animacy obvious from "people")
-"two (human) people"
+whu hau thephoa
+two CL.human person
+Two human people
 ```
 
+**Natural form:**
 ```
-Full form: phi teo nuthui  
-Natural:   phi nuthui (roundness obvious from "stone")
-"one (round) stone"
+whu thephoa
+two person
+Two people
+```
+
+**Full form:**
+```
+phi teo phuawhai
+one CL.round stone
+One round stone
+```
+
+**Natural form:**
+```
+phi phuawhai
+one stone
+One stone
 ```
 
 **beginner-friendly usage**: 
-- Start with simple counting: `phi whothea` (one food)
-- Add classifiers gradually: `phi sae whothea` (one [food-item] food)
+- Start with simple counting: `phi noshea` (one food)
+- Add classifiers gradually: 
+```
+phi sae noshea
+one CL.food food
+One food item
+```
 - Context often eliminates need for obvious categorization
 
 **semantic precision**: each classifier covers one clear categorization domain without overlap. objects are classified by their most salient feature in context.
 
-**SOV positioning**: classifiers appear between numbers and nouns in phi's subject-object-verb word order. examples: `whu tau thephoa` (two [group] people), `phi sou whothea` (one [mass] food).
+**SOV positioning**: classifiers appear between numbers and nouns in phi's subject-object-verb word order. examples: `whu tau thephoa` (two [group] people), `phi sou noshea` (one [mass] food).
 
 **contextual flexibility**: the same object may take different classifiers depending on how it's perceived or used in context, allowing speakers to highlight different aspects of categorization.
 

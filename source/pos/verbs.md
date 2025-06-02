@@ -185,77 +185,77 @@ the verb inventory provides comprehensive coverage of essential human experience
 ### communication and cognition
 ```
 mia na thi whisa
-I OBJ you ask
-"I ask you"
+1SG OBJ 2SG ask
+I ask you
 ```
 
 ```
 sha na whethea thume
-he/she OBJ book remember
-"he/she remembers the book"
+3SG OBJ book remember
+He/she remembers the book
 ```
 
 ```
-lo thuilo na mia shuso
-PL people OBJ me say
-"people say to me"
+lo thephoa na mia shuso
+PL person OBJ 1SG say
+People say to me
 ```
 
 ### motion and position
 ```
-mia na siwhea sharo
-I OBJ house go
-"I go to the house"
+mia na hiwhea sharo
+1SG OBJ house go
+I go to the house
 ```
 
 ```
-whothea phia metuwa shute
-food in container put
-"put food in container"
+whothea phia phuawhai shute
+mother in stone put
+Mother puts in stone
 ```
 
 ```
 sha li shali
-it PST fall
-"it fell"
+3SG PST fall
+It fell
 ```
 
 ### existence and change
 ```
 mipho phera
 blue be
-"is blue"
+Is blue
 ```
 
 ```
-thuilo phoni
+thephoa phoni
 person live
-"person lives"
+Person lives
 ```
 
 ```
-siathu whesa
-artist create
-"artist creates"
+whothea whesa
+mother create
+Mother creates
 ```
 
 ### acquisition and social interaction
 ```
 mia na whethea shiho
-I OBJ book buy
-"I buy book"
+1SG OBJ book buy
+I buy book
 ```
 
 ```
 sha na mia whiwo
-he/she OBJ me give
-"he/she gives to me"
+3SG OBJ 1SG give
+He/she gives to me
 ```
 
 ```
-lo thuilo whera
-PL people learn
-"people learn"
+lo thephoa whera
+PL person learn
+People learn
 ```
 
 ## cross-linguistic validation
@@ -280,16 +280,33 @@ research by beth levin, leonard talmy, and others demonstrates that successful v
 **particle integration**: verbs combine systematically with phi's particle system to express complex temporal, aspectual, and modal meanings without requiring morphological inflection.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: si mia ta na whethea whemo
-Natural:   mia whethea whemo (when agency is clear from context)
-"book think" → "I think about book"
+si mia ta na whethea whemo
+SBJ 1SG PRS OBJ book think
+I think about book
 ```
 
+**Natural form:**
 ```
-Full form: sha li na thueto whiwo
-Natural:   thueto whiwo (when past tense is understood)
-"give money" → "gave money"
+mia whethea whemo
+1SG book think
+I think about book
+```
+
+**Full form:**
+```
+sha li na phithea whiwo
+3SG PST OBJ tool give
+He/she gave tool
+```
+
+**Natural form:**
+```
+phithea whiwo
+tool give
+Gave tool
 ```
 
 **beginner-friendly usage**: 

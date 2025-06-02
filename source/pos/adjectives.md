@@ -14,7 +14,7 @@ this pattern creates words like `mipho` (blue), `hashe` (green), and `pisha` (so
 
 adjectives in phi serve to modify nouns by describing their qualities, properties, or attributes. they express color, size, shape, physical qualities, temporal aspects, and evaluative or emotional characteristics. unlike in some languages, phi adjectives do not change form to agree with the nouns they modify.
 
-in phi's SOV (subject-object-verb) word order, adjectives typically precede the nouns they modify: `mipho whothea` (blue food), `tophe thephoa` (big person). this consistent placement makes adjective identification straightforward in context.
+in phi's SOV (subject-object-verb) word order, adjectives typically precede the nouns they modify: `mipho noshea` (blue food), `tophe thephoa` (big person). this consistent placement makes adjective identification straightforward in context.
 
 the distinctive phonological pattern of adjectives helps listeners immediately identify descriptive words in speech, even without explicit grammatical markers. this consistent structure is part of phi's systematic approach to word formation, where each part of speech has its own unique sound signature.
 
@@ -193,26 +193,48 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use basic adjectives; advanced speakers add nuanced description only when communicatively valuable.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: mipho hashe wheupha
-Natural:   wheupha (when context makes "blue-green tree" obvious)
-"(blue-green) tree"
+mipho hashe liphai
+blue green tree
+Blue green tree
 ```
 
+**Natural form:**
 ```
-Full form: tophe pesha thupho  
-Natural:   pesha thupho (size obvious from "heavy")
-"(big) heavy stone"
+liphai
+tree
+Tree
+```
+
+**Full form:**
+```
+tophe pesha phuawhai
+big heavy stone
+Big heavy stone
+```
+
+**Natural form:**
+```
+pesha phuawhai
+heavy stone
+Heavy stone
 ```
 
 **beginner-friendly usage**: 
-- Start with single adjectives: `tushe whothea` (good food)
-- Add complexity gradually: `ma tushe miwhi whothea` (very good fresh food)
+- Start with single adjectives: `tushe noshea` (good food)
+- Add complexity gradually: 
+```
+ma tushe miwhi noshea
+EMPH good fresh food
+Very good fresh food
+```
 - Context often eliminates need for obvious descriptors
 
 **semantic precision**: each adjective covers one clear semantic domain without overlap. related concepts are distinguished by separate lexical items rather than contextual interpretation.
 
-**SOV positioning**: adjectives precede their nouns in phi's subject-object-verb word order. examples: `hashe wheupha` (green tree), `waphi thupho` (small stone), `tushe whothea` (good food).
+**SOV positioning**: adjectives precede their nouns in phi's subject-object-verb word order. examples: `hashe liphai` (green tree), `waphi phuawhai` (small stone), `tushe noshea` (good food).
 
 **no derivational morphology**: phi adjectives are not derived from other parts of speech. each maintains its distinct phonotactic pattern and semantic independence.
 

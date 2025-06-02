@@ -4,18 +4,21 @@
 
 ## introduction to phi conjunctions
 
-conjunctions in phi adhere to the structure `[C][V][C][V]` where:
+phi conjunctions follow the pattern `[C][V][C][V]` where:
+- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
+- V = vowel (i, u, e, o, a) - 5 possibilities
 
-- C = consonant (h, l, m, n, p, r, s, t, w)
-- V = vowel (i, u, e, o, a)
+total possible combinations = 9 × 5 × 9 × 5 = 2,025 conjunctions
 
-this pattern creates words like `nene` (and), `wetu` (if), and `matu` (after), which consist of two syllables with consistent consonant-vowel alternation and no fricative digraphs. this gives conjunctions a clear, direct sound that distinguishes them from other parts of speech while maintaining phi's syllable structure rules.
+currently defined conjunctions = 18 (essential core vocabulary)
 
-conjunctions serve as connectors between words, phrases, or clauses, expressing essential logical relationships. their distinctive two-syllable pattern creates an immediate phonological cue that helps listeners identify connecting functions in speech.
+remaining available conjunctions = 2,007
 
-in phi's SOV word order, conjunctions typically appear at the beginning of the clause or phrase they introduce. examples: `wetu mia thea` (if I go), `nene sha whera` (and s/he learns). this consistent positioning makes conjunction usage predictable and learnable.
+this substantial remaining capacity allows for future expansion into specialized domains (technical, literary, academic) while maintaining the essential core for general logical expression needs.
 
-conjunctions maintain consistent forms regardless of context, providing reliable connection markers that enhance discourse coherence without morphological complexity.
+---
+
+*this streamlined system provides complete logical connection capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*
 
 ## design philosophy
 
@@ -83,60 +86,60 @@ research into conjunction typology shows that certain connection concepts are un
 
 ### basic coordination
 ```
-mia whothea phusu nene whothei thilu
-1SG food cook and drink prepare
-"I cook food and prepare drinks"
+mia noshea nene wheishea thewo
+1SG food and water prepare
+I prepare food and water
 ```
 
 ```
-mia thea wiho tilu
+mia sharo wiho phite
 1SG go or stay
-"I go or stay"
+I go or stay
 ```
 
 ```
-mia whera tupo me thophu
+mia whera tupo me shule
 1SG learn but NEG understand
-"I learn but don't understand"
+I learn but don't understand
 ```
 
 ### temporal relationships
 ```
-wane mia thea, sha phusu
-when 1SG go, 3SG cook
-"When I go, s/he cooks"
+wane mia sharo sha thewo
+when 1SG go 3SG prepare
+When I go, s/he prepares
 ```
 
 ```
-matu mia whera, thophu
-after 1SG learn, understand
-"After I learn, (I) understand"
+matu mia whera mia shule
+after 1SG learn 1SG understand
+After I learn, I understand
 ```
 
 ### logical relationships
 ```
-wetu lame, me thea
-if rain, NEG go
-"If (it) rains, (I) don't go"
+wetu lashea mia me sharo
+if rain 1SG NEG go
+If it rains, I don't go
 ```
 
 ```
-renu whothea riphe phusu
-because food important, cook
-"Because food (is) important, (I) cook"
+renu noshea riphe mia thewo
+because food important 1SG prepare
+Because food is important, I prepare
 ```
 
 ### correlative pairs
 ```
-toha whothea sipa whothei riphe
-both food and drink important
-"Both food and drink (are) important"
+toha noshea sipa wheishea riphe
+both food and water important
+Both food and water are important
 ```
 
 ```
-miwa thea lote tilu
+miwa sharo lote phite
 either go or stay
-"Either go or stay"
+Either go or stay
 ```
 
 ## cross-linguistic validation
@@ -169,26 +172,43 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 **progressive complexity**: beginners use simple coordination; advanced speakers add sophisticated logical connections only when communicatively valuable.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: mia whothea phusu nene whothei thilu
-Natural:   mia whothea phusu whothei thilu
-"I cook food (and) prepare drinks"
+mia noshea nene wheishea thewo
+1SG food and water prepare
+I prepare food and water
 ```
 
+**Natural form:**
 ```
-Full form: renu whothea riphe phusu
-Natural:   whothea riphe phusu (causation clear from context)
-"(because) food important, cook"
+mia noshea wheishea thewo
+1SG food water prepare
+I prepare food and water
+```
+
+**Full form:**
+```
+renu noshea riphe mia thewo
+because food important 1SG prepare
+Because food is important, I prepare
+```
+
+**Natural form:**
+```
+noshea riphe mia thewo
+food important 1SG prepare
+Food is important, I prepare
 ```
 
 **beginner-friendly usage**: 
-- Start with simple coordination: `whothea whothei` (food drinks)
-- Add conjunctions gradually: `whothea nene whothei` (food and drinks)
+- Start with simple coordination: `noshea wheishea` (food water)
+- Add conjunctions gradually: `noshea nene wheishea` (food and water)
 - Context often eliminates need for explicit logical marking
 
 **semantic precision**: each conjunction covers one clear logical relationship without overlap. speakers choose conjunctions based on the specific logical connection they want to express.
 
-**SOV positioning**: conjunctions typically introduce the clause or phrase they connect. examples: `wetu mia thea` (if I go), `renu riphe` (because important).
+**SOV positioning**: conjunctions typically introduce the clause or phrase they connect. examples: `wetu mia sharo` (if I go), `renu noshea riphe` (because food important).
 
 **no morphological complexity**: conjunctions maintain consistent forms regardless of what they connect, making them reliable discourse markers.
 
@@ -223,4 +243,4 @@ this substantial remaining capacity allows for future expansion into specialized
 
 ---
 
-*this streamlined system provides complete logical connection capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.* 
+*this streamlined system provides complete logical connection capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*

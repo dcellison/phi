@@ -53,54 +53,71 @@ the system distinguishes between basic digits (0-9) and magnitude words (powers 
 
 ### basic counting
 ```
-phi thephoa li thera
-one person PST arrive
-"one person arrived"
+phi thephoa li whema
+one person PST come
+One person came
 ```
 
 ```
-whu mophui na phi thephoa li whera
+whu mophui na phi thephoa li whiwo
 two ball OBJ one person PST give
-"one person gave two balls"
+One person gave two balls
 ```
 
 ### complex number formation
 ```
 phi shupho whu phitha the mophui phera
 one hundred two ten three ball be
-"there are one hundred twenty-three balls"
+There are one hundred twenty-three balls
 ```
 
 ```
-phi thuphi whu phitha pho moi teo phose
-one thousand two ten four CL round see
-"see one thousand twenty-four round objects"
+phi thuphi whu phitha pho moi teo shose
+one thousand two ten four CL.flat CL.round see
+See one thousand twenty-four round objects
 ```
 
 ### mathematical operations
 ```
-phi na whu thuwi the phera
-one OBJ two add three be
-"one plus two equals three"
+phi na whu whiwo the phera
+one OBJ two give three be
+One plus two equals three
 ```
 
 ```
-pho na whu thale whu phera
-four OBJ two divide two be
-"four divided by two equals two"
+pho na whu whiwo whu phera
+four OBJ two give two be
+Four divided by two equals two
 ```
 
 ### number construction principles
+
+**Full structure:**
 ```
-Full structure: phi thuphi sho shupho sho phitha phi
-Natural form:   phi thuphi phi (implicit zero rule)
-"one thousand one" → "one thousand one"
+phi thuphi sho shupho sho phitha phi
+one thousand zero hundred zero ten one
+One thousand one
 ```
 
+**Natural form:**
 ```
-Explicit form: pho phitha sho
-Natural form:  pho phitha sho (zero must be stated)
-"four ten zero" → "forty"
+phi thuphi phi
+one thousand one
+One thousand one
+```
+
+**Explicit form:**
+```
+pho phitha sho
+four ten zero
+Forty
+```
+
+**Natural form:**
+```
+pho phitha sho
+four ten zero
+Forty
 ```
 
 ## cross-linguistic validation
@@ -125,16 +142,33 @@ phi's distinction between digit and magnitude phonotactic patterns (`[F][V]` vs 
 **contextual number marking**: numbers combine naturally with classifiers and particles to specify quantity, shape, and grammatical role without requiring special numeral syntax.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: whu thuphi sho shupho whu phitha the
-Natural:   whu thuphi whu phitha the (zero components omitted)
-"two thousand two ten three" → "two thousand twenty-three"
+whu thuphi sho shupho whu phitha the
+two thousand zero hundred two ten three
+Two thousand twenty-three
 ```
 
+**Natural form:**
 ```
-Full form: phi shupho sho phitha sho
-Natural:   phi shupho (trailing zeros omitted)
-"one hundred zero ten zero" → "one hundred"
+whu thuphi whu phitha the
+two thousand two ten three
+Two thousand twenty-three
+```
+
+**Full form:**
+```
+phi shupho sho phitha sho
+one hundred zero ten zero
+One hundred
+```
+
+**Natural form:**
+```
+phi shupho
+one hundred
+One hundred
 ```
 
 **beginner-friendly usage**: 

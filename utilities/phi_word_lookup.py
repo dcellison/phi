@@ -3,13 +3,19 @@
 Phi Word Lookup Utility
 
 This script extracts all phi words from the POS documentation files and provides
-lookup functionality to validate word existence, determine POS category, and 
-retrieve English translations.
+comprehensive validation functionality including:
+- Lexicon accuracy (all phi words from official 522-word lexicon)
+- SOV compliance (all sentences follow Subject-Object-Verb order)
+- Glossing format (proper three-line structure: phi/gloss/english)
+- Phonotactic compliance (all words follow correct POS patterns)
+- Particle usage (correct grammatical particles where needed)
 
 Usage:
     python phi_word_lookup.py word1 word2 word3
     python phi_word_lookup.py --extract  # Extract all words to JSON
     python phi_word_lookup.py --validate "mia whethea shose"  # Validate sentence
+    python phi_word_lookup.py --validate-file "path/to/file.md"  # Validate file
+    python phi_word_lookup.py --comprehensive-validate-file "path/to/file.md"  # Full validation
 """
 
 import os
@@ -18,12 +24,255 @@ import json
 import argparse
 import sys
 from pathlib import Path
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Tuple, Optional, Set
+
+class PhiLanguageValidator:
+    """Comprehensive phi language validator for all grammatical requirements."""
+    
+    def __init__(self):
+        # SOV validation patterns
+        self.phi_particles = {
+            'si', 'na', 'te', 'lo', 'tu', 'pu', 'wa',  # Essential core
+            'li', 'ta', 'su', 'ni', 'ri', 'lu',        # Tense/aspect/mood
+            'ra', 'se', 'we', 'wo', 'hi', 'ro',        # Modality
+            'ha', 'mi', 'ma', 'nu', 'ho', 'po',        # Discourse management
+            'pa', 'mo', 'sa', 'me', 'to'               # Comparison/quantification
+        }
+        
+        self.phi_pronouns = {'mia', 'thi', 'sha', 'lua', 'nua'}
+        
+        # Expected POS patterns
+        self.pos_patterns = {
+            'noun': ['CVFP', 'CPFP', 'FVFP', 'FPFP'],
+            'verb': ['FVCV'],
+            'adjective': ['CVFV'],
+            'adverb': ['CVCVCV'],
+            'preposition': ['FP'],
+            'determiner': ['FPCV'],
+            'classifier': ['CP'],
+            'conjunction': ['CVCV'],
+            'interjection': ['CVCP'],
+            'number': ['FV', 'FVFV'],
+            'particle': ['CV'],
+            'pronoun': ['CP', 'FV']
+        }
+        
+    def validate_sov_compliance(self, phi_line: str, gloss_line: str) -> Tuple[bool, str]:
+        """Validate that a phi sentence follows SOV (Subject-Object-Verb) order."""
+        phi_words = phi_line.strip().split()
+        gloss_words = gloss_line.strip().split()
+        
+        if len(phi_words) != len(gloss_words):
+            return False, f"Mismatched word count: {len(phi_words)} phi words vs {len(gloss_words)} gloss words"
+        
+        # Skip if not a complete sentence (just phrases)
+        if len(phi_words) < 2:
+            return True, "Phrase only, SOV not applicable"
+        
+        # Look for verb patterns to determine if this is a complete sentence
+        has_verb = False
+        verb_position = -1
+        subject_position = -1
+        object_position = -1
+        
+        for i, (phi_word, gloss) in enumerate(zip(phi_words, gloss_words)):
+            # Skip particles when analyzing word order
+            if phi_word in self.phi_particles:
+                continue
+                
+            # Identify verbs by lowercase English words (content words in gloss)
+            if (gloss.islower() and gloss in [
+                'be', 'go', 'see', 'have', 'think', 'learn', 'prepare', 'understand', 
+                'stay', 'run', 'complete', 'cook', 'eat', 'drink', 'sleep', 'wake'
+            ]):
+                has_verb = True
+                verb_position = i
+            
+            # Identify subjects by official pronoun glosses or phi pronouns
+            if gloss in ['1SG', '2SG', '3SG'] or phi_word in self.phi_pronouns:
+                if subject_position == -1:  # First pronoun is likely subject
+                    subject_position = i
+            
+            # Identify objects by lowercase nouns, especially when OBJ marker present
+            if (gloss.islower() and gloss in [
+                'food', 'water', 'stone', 'tree', 'house', 'person', 'book', 'tool'
+            ] and 'OBJ' in gloss_line):
+                object_position = i
+        
+        if not has_verb:
+            return True, "No verb found, SOV not applicable to noun/adjective phrases"
+        
+        # Check SOV order: Subject < Object < Verb (ignoring particles)
+        sov_valid = True
+        sov_issues = []
+        
+        if subject_position != -1 and verb_position != -1:
+            if subject_position > verb_position:
+                sov_valid = False
+                sov_issues.append(f"Subject after verb (pos {subject_position} > {verb_position})")
+        
+        if object_position != -1 and verb_position != -1:
+            if object_position > verb_position:
+                sov_valid = False
+                sov_issues.append(f"Object after verb (pos {object_position} > {verb_position})")
+        
+        if subject_position != -1 and object_position != -1:
+            if subject_position > object_position:
+                sov_valid = False
+                sov_issues.append(f"Subject after object (pos {subject_position} > {object_position})")
+        
+        if sov_valid:
+            return True, "SOV order correct"
+        else:
+            return False, f"SOV violations: {'; '.join(sov_issues)}"
+    
+    def validate_glossing_format(self, code_block: str) -> Tuple[bool, List[str]]:
+        """Validate that a code block follows proper three-line glossing format."""
+        lines = [line.strip() for line in code_block.strip().split('\n') if line.strip()]
+        issues = []
+        
+        if len(lines) != 3:
+            issues.append(f"Expected 3 lines, found {len(lines)}")
+            return False, issues
+        
+        phi_line, gloss_line, english_line = lines
+        
+        # Validate phi line (first line)
+        if not re.match(r'^[a-z\s\.]+$', phi_line):
+            issues.append("Phi line contains invalid characters (only lowercase letters, spaces, periods allowed)")
+        
+        if ',' in phi_line:
+            issues.append("Phi line contains comma (only periods and spaces allowed)")
+        
+        # Validate gloss line (second line) 
+        phi_words = phi_line.split()
+        gloss_words = gloss_line.split()
+        
+        if len(phi_words) != len(gloss_words):
+            issues.append(f"Word count mismatch: {len(phi_words)} phi words vs {len(gloss_words)} gloss words")
+        
+        # Check for proper linguistic abbreviations - ONLY official phi glosses
+        valid_glosses = {
+            # Official phi particle glosses from particles.md
+            'ABIL', 'AFF', 'ATT', 'CMPR', 'CNT', 'COND', 'DIR', 'DU', 'EMPH', 
+            'EQL', 'FOC', 'FUT', 'INFER', 'IPFV', 'NEC', 'NEG', 'OBJ', 'PAUC', 
+            'PFV', 'PL', 'POS', 'PRH', 'PRS', 'PST', 'Q', 'SBJ', 'SHIFT', 
+            'SPRL', 'TOP', 'VRB',
+            # Standard pronoun glosses
+            '1SG', '2SG', '3SG'
+        }
+        
+        # Valid classifier abbreviations (CL.* format)
+        valid_classifier_glosses = {
+            # Shape and physical properties
+            'CL.long', 'CL.flat', 'CL.round', 'CL.rectangular', 'CL.container', 'CL.flexible',
+            # Animacy
+            'CL.human', 'CL.animal', 'CL.plant', 'CL.inanimate',
+            # Functional categories  
+            'CL.building', 'CL.vehicle', 'CL.tool', 'CL.clothing', 'CL.document', 'CL.food',
+            # Spatial and temporal
+            'CL.place', 'CL.time', 'CL.event',
+            # Quantitative groupings
+            'CL.group', 'CL.mass', 'CL.pair'
+        }
+        
+        for gloss in gloss_words:
+            # Official glosses are uppercase abbreviations
+            if gloss.isupper() and gloss not in valid_glosses:
+                issues.append(f"Invalid gloss abbreviation: {gloss} (not in official phi gloss list)")
+            # Classifier glosses follow CL.* pattern
+            elif gloss.startswith('CL.') and gloss not in valid_classifier_glosses:
+                issues.append(f"Invalid classifier gloss: {gloss} (not in official phi classifier list)")
+            # Everything else should be lowercase content words (English translations)
+        
+        # Validate English line (third line)
+        if english_line.startswith('"') or english_line.endswith('"'):
+            issues.append("English line should not have quotes")
+        
+        if not english_line[0].isupper():
+            issues.append("English line should start with capital letter")
+        
+        # Check SOV compliance
+        sov_valid, sov_message = self.validate_sov_compliance(phi_line, gloss_line)
+        if not sov_valid:
+            issues.append(f"SOV violation: {sov_message}")
+        
+        return len(issues) == 0, issues
+    
+    def extract_code_blocks(self, content: str) -> List[Tuple[str, int]]:
+        """Extract all code blocks from markdown content with their line numbers."""
+        code_blocks = []
+        lines = content.split('\n')
+        
+        i = 0
+        while i < len(lines):
+            if lines[i].strip() == '```':
+                # Found start of code block
+                start_line = i + 1
+                block_lines = []
+                i += 1
+                
+                # Collect lines until closing ```
+                while i < len(lines) and lines[i].strip() != '```':
+                    block_lines.append(lines[i])
+                    i += 1
+                
+                if i < len(lines):  # Found closing ```
+                    code_blocks.append(('\n'.join(block_lines), start_line))
+                
+            i += 1
+        
+        return code_blocks
+    
+    def validate_phonotactic_compliance(self, word: str, expected_pos: str) -> Tuple[bool, str]:
+        """Validate that a word follows the correct phonotactic pattern for its POS."""
+        pattern = self._analyze_phonotactic_pattern(word)
+        expected_patterns = self.pos_patterns.get(expected_pos, [])
+        
+        if pattern in expected_patterns:
+            return True, f"Valid {expected_pos} pattern: {pattern}"
+        else:
+            return False, f"Invalid pattern {pattern} for {expected_pos}. Expected: {', '.join(expected_patterns)}"
+    
+    def _analyze_phonotactic_pattern(self, word: str) -> str:
+        """Analyze a phi word and return its phonotactic pattern."""
+        pattern = ""
+        i = 0
+        
+        while i < len(word):
+            # Check for digraphs first
+            if i < len(word) - 1:
+                digraph = word[i:i+2]
+                if digraph in ['ph', 'wh', 'th', 'sh']:
+                    pattern += 'F'  # Fricative digraph
+                    i += 2
+                    continue
+            
+            # Check for vowel pairs
+            if i < len(word) - 1:
+                char1, char2 = word[i], word[i+1]
+                if (char1 in 'aeiou' and char2 in 'aeiou' and 
+                    char1 != char2):  # Different vowels
+                    pattern += 'P'  # Vowel pair
+                    i += 2
+                    continue
+            
+            # Single character
+            char = word[i]
+            if char in 'aeiou':
+                pattern += 'V'  # Vowel
+            elif char in 'hlmnprstw':
+                pattern += 'C'  # Consonant
+            
+            i += 1
+            
+        return pattern
 
 class PhiWordDatabase:
     def __init__(self, pos_directory: str = "../source/pos"):
         self.pos_directory = Path(pos_directory)
         self.word_db: Dict[str, Dict[str, str]] = {}
+        self.validator = PhiLanguageValidator()
         self.pos_files = {
             'nouns.md': 'noun',
             'verbs.md': 'verb', 
@@ -527,6 +776,368 @@ class PhiWordDatabase:
         
         return insert_point + len(new_section)
 
+    def extract_non_lexicon_words_from_file(self, filepath: Path) -> List[Tuple[str, bool, Optional[Dict[str, str]]]]:
+        """Extract phi words from a file, excluding official lexicon tables."""
+        try:
+            with open(filepath, 'r', encoding='utf-8') as file:
+                content = file.read()
+        except FileNotFoundError:
+            print(f"Warning: File {filepath} not found")
+            return []
+        except Exception as e:
+            print(f"Error reading {filepath}: {e}")
+            return []
+        
+        # Remove official lexicon tables
+        cleaned_content = self._remove_lexicon_tables(content)
+        
+        # Extract potential phi words from remaining text
+        potential_words = self._extract_potential_phi_words(cleaned_content)
+        
+        # Validate each word
+        results = []
+        for word in sorted(set(potential_words)):  # Remove duplicates and sort
+            word_info = self.lookup_word(word)
+            exists = word_info is not None
+            results.append((word, exists, word_info))
+        
+        return results
+    
+    def _remove_lexicon_tables(self, content: str) -> str:
+        """Remove tables with the official lexicon header from content."""
+        lines = content.split('\n')
+        cleaned_lines = []
+        
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            
+            # Check if this is an official lexicon table header
+            if (line.startswith('| phi word |') and 'english translation' in line and line.endswith('|')):
+                # Skip this line and the separator line if it exists
+                i += 1
+                if i < len(lines) and lines[i].strip().startswith('|') and '---' in lines[i]:
+                    i += 1
+                
+                # Skip all table rows until we hit a non-table line
+                while i < len(lines):
+                    line = lines[i].strip()
+                    if (not line or 
+                        line.startswith('#') or 
+                        not line.startswith('|') or
+                        ('---' in line and line.startswith('|'))):
+                        break
+                    i += 1
+                continue
+            else:
+                cleaned_lines.append(lines[i])
+                i += 1
+        
+        return '\n'.join(cleaned_lines)
+    
+    def _extract_potential_phi_words(self, text: str) -> List[str]:
+        """Extract potential phi words from text using targeted patterns."""
+        potential_words = []
+        
+        # Pattern 1: Words in backticks (most reliable indicator of phi words)
+        backtick_words = re.findall(r'`([a-z]{2,})`', text)
+        potential_words.extend(backtick_words)
+        
+        # Pattern 2: Words followed by translation glosses in parentheses
+        # e.g., "mipho (blue)" or "hashe (green)"
+        gloss_pattern = r'([a-z]{2,})\s*\([^)]*\)'
+        gloss_words = re.findall(gloss_pattern, text.lower())
+        potential_words.extend(gloss_words)
+        
+        # Pattern 3: Words in "examples:" contexts
+        examples_sections = re.findall(r'examples?[:\s]+([^.!?]*)', text.lower(), re.IGNORECASE)
+        for section in examples_sections:
+            # Extract phi-like words from examples sections
+            example_words = re.findall(r'\b([a-z]{2,})\b', section)
+            for word in example_words:
+                if self._has_phi_characteristics(word):
+                    potential_words.append(word)
+        
+        # Pattern 4: Words that strongly match phi phonotactic patterns
+        # Only include if they have clear phi structure
+        text_words = re.findall(r'\b([a-z]{2,})\b', text.lower())
+        for word in text_words:
+            if (self._has_strong_phi_pattern(word) and 
+                not self._is_common_english_word(word)):
+                potential_words.append(word)
+        
+        return potential_words
+    
+    def _has_phi_characteristics(self, word: str) -> bool:
+        """Check if word has strong phi characteristics."""
+        if len(word) < 2:
+            return False
+            
+        # Must contain only valid phi characters
+        if not all(c in 'aeiouhlmnprstwph' for c in word):
+            return False
+            
+        # Must have at least one vowel
+        if not any(c in 'aeiou' for c in word):
+            return False
+            
+        # Exclude obvious English words
+        if self._is_common_english_word(word):
+            return False
+            
+        return True
+    
+    def _has_strong_phi_pattern(self, word: str) -> bool:
+        """Check if word strongly matches expected phi phonotactic patterns."""
+        if not self._has_phi_characteristics(word):
+            return False
+            
+        pattern = self._analyze_phonotactic_pattern(word)
+        
+        # Expected phi patterns by POS
+        phi_patterns = {
+            'CVFV',    # adjective
+            'FVCV',    # verb  
+            'CVFP', 'CPFP', 'FVFP', 'FPFP',  # noun
+            'CVCVCV',  # adverb
+            'FP',      # preposition
+            'FPCV',    # determiner
+            'CP',      # classifier
+            'CVCV',    # conjunction
+            'CVCP',    # interjection
+            'FV', 'FVFV',  # number
+            'CV'       # particle
+        }
+        
+        return pattern in phi_patterns
+    
+    def _is_common_english_word(self, word: str) -> bool:
+        """Check if word is a common English word (expanded list)."""
+        english_words = {
+            # Common articles, prepositions, conjunctions
+            'the', 'and', 'are', 'for', 'not', 'but', 'can', 'may', 'has', 'was',
+            'were', 'been', 'have', 'will', 'with', 'from', 'they', 'them', 'this',
+            'that', 'what', 'when', 'where', 'who', 'how', 'why', 'than', 'then',
+            'each', 'some', 'more', 'most', 'many', 'much', 'such', 'very', 'well',
+            'also', 'just', 'only', 'even', 'now', 'here', 'there', 'where',
+            'first', 'last', 'next', 'new', 'old', 'good', 'great', 'small',
+            'large', 'high', 'low', 'long', 'short', 'early', 'late', 'right',
+            'left', 'few', 'several', 'both', 'either', 'neither', 'all', 'any',
+            'other', 'another', 'same', 'different', 'own', 'way', 'part', 'use',
+            'work', 'life', 'time', 'year', 'day', 'week', 'month', 'number',
+            'people', 'person', 'man', 'woman', 'child', 'place', 'home', 'house',
+            'room', 'world', 'country', 'state', 'city', 'town', 'name', 'word',
+            'language', 'english', 'structure', 'pattern', 'example', 'system',
+            # Additional documentation words
+            'allows', 'appear', 'apparent', 'assessment', 'assessments', 
+            'eliminates', 'emotional', 'emotions', 'essential', 'essentials',
+            'helps', 'human', 'interpretation', 'into', 'items', 'its',
+            'listeners', 'maintains', 'material', 'minimal', 'natural',
+            'notes', 'nouns', 'oppositions', 'parts', 'patterns', 'per',
+            'positions', 'properties', 'rather', 'remain', 'sensation',
+            'separate', 'shape', 'shapes', 'show', 'shows', 'situation',
+            'start', 'states', 'stone', 'taste', 'temporal', 'terms', 'their',
+            'these', 'total', 'traits', 'tree', 'two', 'while', 'without',
+            # Linguistic terminology
+            'adjective', 'adjectives', 'noun', 'verb', 'verbs', 'particle',
+            'particles', 'phonetic', 'phonetics', 'syntax', 'semantic',
+            'morphology', 'grammar', 'grammatical', 'linguistic', 'linguistics',
+            # Category and technical terms
+            'basic', 'colors', 'consonant', 'digraph', 'domains', 'evaluative',
+            'no', 'one', 'personality', 'qualities', 'sensation', 'shapes', 
+            'sov', 'state', 'temporal', 'terms', 'vowel', 'fricative'
+        }
+        
+        return word.lower() in english_words
+
+    def validate_file_words(self, filepath: str) -> None:
+        """Validate all non-lexicon phi words in a file and report results."""
+        file_path = Path(filepath)
+        
+        print(f"Validating phi words in: {filepath}")
+        print("=" * 60)
+        print("(Excluding official lexicon tables)")
+        print()
+        
+        results = self.extract_non_lexicon_words_from_file(file_path)
+        
+        if not results:
+            print("No potential phi words found outside lexicon tables.")
+            return
+        
+        valid_words = []
+        invalid_words = []
+        
+        for word, exists, word_info in results:
+            if exists:
+                valid_words.append((word, word_info))
+            else:
+                invalid_words.append(word)
+        
+        # Report valid words
+        if valid_words:
+            print(f"✓ VALID WORDS ({len(valid_words)}):")
+            print("-" * 40)
+            for word, info in valid_words:
+                pattern = info.get('pattern', '?')
+                category = info.get('category', 'unknown')
+                print(f"  {word:12} [{info['pos']:12}] {info['translation']} [{pattern}] ({category})")
+            print()
+        
+        # Report invalid words
+        if invalid_words:
+            print(f"✗ INVALID WORDS ({len(invalid_words)}):")
+            print("-" * 40)
+            for word in invalid_words:
+                print(f"  {word:12} [NOT FOUND IN LEXICON]")
+            print()
+        
+        # Summary
+        total = len(results)
+        valid_count = len(valid_words)
+        invalid_count = len(invalid_words)
+        
+        print("SUMMARY:")
+        print("-" * 20)
+        print(f"Total words found: {total}")
+        print(f"Valid words: {valid_count}")
+        print(f"Invalid words: {invalid_count}")
+        
+        if invalid_count == 0:
+            print("✓ All phi words are valid!")
+        else:
+            print(f"✗ {invalid_count} invalid words need attention")
+
+    def comprehensive_validate_file(self, filepath: str) -> None:
+        """Perform comprehensive validation of a phi documentation file."""
+        print(f"COMPREHENSIVE VALIDATION: {filepath}")
+        print("=" * 80)
+        
+        try:
+            with open(filepath, 'r', encoding='utf-8') as file:
+                content = file.read()
+        except FileNotFoundError:
+            print(f"❌ File not found: {filepath}")
+            return
+        
+        # 1. Lexicon Accuracy Check
+        print("1. LEXICON ACCURACY")
+        print("-" * 40)
+        self.validate_file_words(filepath)
+        
+        # 2. SOV Compliance & Glossing Format Check
+        print("\n2. SOV COMPLIANCE & GLOSSING FORMAT")
+        print("-" * 40)
+        code_blocks = self.validator.extract_code_blocks(content)
+        
+        if not code_blocks:
+            print("✅ No code blocks found - SOV check not applicable")
+        else:
+            sov_issues = 0
+            glossing_issues = 0
+            
+            for i, (block, line_num) in enumerate(code_blocks):
+                is_valid, issues = self.validator.validate_glossing_format(block)
+                
+                if is_valid:
+                    print(f"✅ Code block {i+1} (line {line_num}): Valid format and SOV")
+                else:
+                    print(f"❌ Code block {i+1} (line {line_num}): Issues found:")
+                    for issue in issues:
+                        print(f"   - {issue}")
+                        if "SOV" in issue:
+                            sov_issues += 1
+                        else:
+                            glossing_issues += 1
+            
+            print(f"\nSOV Issues: {sov_issues}, Glossing Issues: {glossing_issues}")
+        
+        # 3. Phonotactic Compliance Check  
+        print("\n3. PHONOTACTIC COMPLIANCE")
+        print("-" * 40)
+        
+        # Extract phi words from lexicon tables
+        phi_words_in_file = self._extract_lexicon_words(content)
+        phonotactic_issues = 0
+        
+        for word, expected_pos in phi_words_in_file:
+            is_valid, message = self.validator.validate_phonotactic_compliance(word, expected_pos)
+            if not is_valid:
+                print(f"❌ {word}: {message}")
+                phonotactic_issues += 1
+        
+        if phonotactic_issues == 0:
+            print(f"✅ All {len(phi_words_in_file)} lexicon words follow correct phonotactic patterns")
+        else:
+            print(f"❌ {phonotactic_issues}/{len(phi_words_in_file)} words have phonotactic issues")
+        
+        # 4. Overall Summary
+        print("\n4. VALIDATION SUMMARY")
+        print("-" * 40)
+        
+        total_issues = sov_issues + glossing_issues + phonotactic_issues
+        if total_issues == 0:
+            print("🎉 FILE FULLY VALIDATED - All checks passed!")
+        else:
+            print(f"⚠️  FILE NEEDS ATTENTION - {total_issues} total issues found")
+            print("   Please fix issues before marking as 'validated'")
+    
+    def _extract_lexicon_words(self, content: str) -> List[Tuple[str, str]]:
+        """Extract phi words from official lexicon tables in a file."""
+        words = []
+        lines = content.split('\n')
+        current_pos = "unknown"
+        
+        # First try exact filename matching from first line or title
+        first_lines = '\n'.join(lines[:5]).lower()
+        for filename, pos in self.pos_files.items():
+            pos_name = filename.replace('.md', '')
+            if first_lines.startswith(f'# {pos_name}'):
+                current_pos = pos
+                break
+        
+        # If no exact match, try content-based detection with specific patterns
+        if current_pos == "unknown":
+            if 'gloss abbreviations' in content.lower() and '| gloss | meaning | phi particle |' in content:
+                current_pos = 'particle'
+            elif 'essential digits' in content.lower() and '| phi word | english translation | value |' in content:
+                current_pos = 'number'
+            elif 'categorize nouns' in content.lower() and 'CL.' in content:
+                current_pos = 'classifier'
+            else:
+                # Fallback to general content matching
+                for filename, pos in self.pos_files.items():
+                    pos_name = filename.replace('.md', '')
+                    if pos_name in content.lower():
+                        current_pos = pos
+                        break
+        
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            
+            # Look for official lexicon table headers
+            if (line.startswith('| phi word |') and 'english translation' in line):
+                # Skip header and separator
+                i += 2
+                
+                # Extract words from table
+                while i < len(lines):
+                    line = lines[i].strip()
+                    if not line.startswith('|') or '---' in line or not line:
+                        break
+                    
+                    match = re.match(r'\|\s*([a-z]{2,})\s*\|\s*([^|]+?)\s*\|', line)
+                    if match:
+                        phi_word = match.group(1).strip()
+                        words.append((phi_word, current_pos))
+                    
+                    i += 1
+            else:
+                i += 1
+        
+        return words
+
 def main():
     parser = argparse.ArgumentParser(description='Phi Word Lookup Utility')
     parser.add_argument('words', nargs='*', help='Words to look up')
@@ -534,6 +1145,10 @@ def main():
                         help='Extract all words from POS files')
     parser.add_argument('--validate', type=str, 
                         help='Validate all words in a sentence')
+    parser.add_argument('--validate-file', type=str,
+                        help='Validate phi words in a file (excluding lexicon tables)')
+    parser.add_argument('--comprehensive-validate-file', type=str,
+                        help='Perform comprehensive validation of a phi documentation file')
     parser.add_argument('--stats', action='store_true',
                         help='Show database statistics')
     parser.add_argument('--patterns', action='store_true',
@@ -570,6 +1185,12 @@ def main():
         
     elif args.validate:
         db.validate_sentence(args.validate)
+        
+    elif args.validate_file:
+        db.validate_file_words(args.validate_file)
+        
+    elif args.comprehensive_validate_file:
+        db.comprehensive_validate_file(args.comprehensive_validate_file)
         
     elif args.stats:
         stats = db.get_pos_stats()

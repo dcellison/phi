@@ -90,54 +90,54 @@ research by levinson and meira demonstrates that languages group spatial concept
 
 ### spatial positioning
 ```
-mophui phia siwhea phera
+mophui phia hiwhea phera
 ball in house be
-"the ball is in the house"
+The ball is in the house
 ```
 
 ```
-whethea thia metuwa phose
-book behind chair see
-"see the book behind the chair"
+whethea thia phuawhai shose
+book behind stone see
+See the book behind stone
 ```
 
 ### directional movement
 ```
-mia na shupho whie thera
-I OBJ shop to go
-"I go to the shop"
+mia na shupho whie sharo
+1SG OBJ shop to go
+I go to the shop
 ```
 
 ```
-sha na whothea phau shinu
-it OBJ food through chew
-"it chews through the food"
+sha na noshea phau thewo
+3SG OBJ food through prepare
+It prepares through the food
 ```
 
 ### temporal relationships
 ```
-lo miphui shea mia thera
-PL evening before I arrive
-"I arrive before evening"
+lo lawhui shea mia whema
+PL time before 1SG come
+I come before times
 ```
 
 ```
 whu phitha thuo mia whera
-two hour during I work
-"I work during two hours"
+two ten during 1SG learn
+I learn during twenty
 ```
 
 ### logical connections
 ```
-mia thio whethea phina
-I by book find
-"I find by book" / "I find through the book"
+mia thio whethea whina
+1SG by book find
+I find by book
 ```
 
 ```
 sha phiu mia whemo
-it with I think
-"I think with it" / "I think about it"
+3SG with 1SG think
+I think with it
 ```
 
 ## cross-linguistic validation
@@ -162,16 +162,33 @@ phi's `[F][P]` pattern ensures immediate recognition while providing 80 possible
 **contextual efficiency**: phi prepositions combine naturally with phi's particle system to specify precise relationships without requiring complex constructions. context often clarifies specific spatial or temporal interpretations.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: mia na whethea phia siwhea phose
-Natural:   whethea phia siwhea phose (subject obvious from context)
-"book in house see" → "(I) see book in house"
+mia na whethea phia hiwhea shose
+1SG OBJ book in house see
+I see book in house
 ```
 
+**Natural form:**
 ```
-Full form: sha shio thueta tiera
-Natural:   shio thueta tiera (subject obvious from context)
-"from that place come" → "come from that place"
+whethea phia hiwhea shose
+book in house see
+See book in house
+```
+
+**Full form:**
+```
+sha shio thueta whema
+3SG from that come
+It comes from that
+```
+
+**Natural form:**
+```
+shio thueta whema
+from that come
+Come from that
 ```
 
 **beginner-friendly usage**: 

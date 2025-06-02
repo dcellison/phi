@@ -183,45 +183,45 @@ the phi noun system reflects four core principles validated through cross-lingui
 ```
 mipho whethea
 blue book
-"blue book"
+Blue book
 ```
 
 ```
-whothea si lushui phose
-mother SBJ baby see
-"mother sees baby"
+whothea si phiphea shose
+mother SBJ child see
+Mother sees child
 ```
 
 ```
 lo whethea mipho phera
 PL book blue be
-"books are blue"
+Books are blue
 ```
 
 ### possessive constructions
 ```
 hiwhea thue huthia
 house of father
-"father's house"
+Father's house
 ```
 
 ```
 miwhoa thue mia
 friend of me
-"my friend"
+My friend
 ```
 
 ### complex noun phrases with classifiers
 ```
 phi lea naiphia
-one CLF:long knife
-"one knife"
+one CL.long knife
+One knife
 ```
 
 ```
 whu moi whethea
-two CLF:flat book
-"two books"
+two CL.flat book
+Two books
 ```
 
 ## cross-linguistic validation
@@ -249,16 +249,33 @@ the design specifically avoids culture-specific concepts while maintaining unive
 **systematic expansion**: the phonotactic pattern supports thousands of additional nouns while maintaining recognizable word structure and phonological distinctiveness.
 
 **examples with natural simplification**:
+
+**Full form:**
 ```
-Full form: si mia na whethea phose
-Natural:   mia whethea phose (when subject marking obvious)
-"I book see" → "I see book"
+si mia na whethea shose
+SBJ 1SG OBJ book see
+I see book
 ```
 
+**Natural form:**
 ```
-Full form: lo whethea mipho phera
-Natural:   whethea mipho phera (when plurality context-clear)
-"books blue be" → "books are blue"
+mia whethea shose
+1SG book see
+I see book
+```
+
+**Full form:**
+```
+lo whethea mipho phera
+PL book blue be
+Books are blue
+```
+
+**Natural form:**
+```
+whethea mipho phera
+book blue be
+Books are blue
 ```
 
 **beginner-friendly usage**: 
