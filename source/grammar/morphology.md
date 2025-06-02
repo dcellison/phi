@@ -49,39 +49,60 @@ phi systematically avoids inflectional processes that modify word forms to expre
 **temporal marking**:
 ```
 traditional inflectional: whera-li (learn-past)
-phi analytical:          li whera (past learn)
+phi analytical:           li  whera (past learn)
+                          PST learn
 "learned"
 ```
 
 **number marking**:
 ```
 traditional inflectional: whethea-lo (book-plural)  
-phi analytical:          lo whethea (plural book)
+phi analytical:           lo  whethea (plural book)
+                          PL  book
 "books"
 ```
 
 **case marking**:
 ```
 traditional inflectional: mia-na (i-accusative)
-phi analytical:          na mia (object i)  
+phi analytical:          na  mia (object i)
+                         OBJ 1SG
 "me" (as object)
+```
+
+**agreement marking**:
+```
+traditional inflectional: whera-m (learn-1sg)
+phi analytical:          mia whera (i learn)
+                         1SG learn
+"i learn"
 ```
 
 ### absence of derivational processes
 
-phi maintains categorical integrity by using entirely distinct lexical items rather than derivational morphology:
+phi maintains categorical integrity by using entirely distinct lexical items rather than derivational morphology. each part of speech maintains its unique phonotactic pattern and semantic independence:
 
-**concept: beauty**
-- noun: `miphui` (beauty)
-- verb: `phime` (beautify) 
-- adjective: `mipha` (beautiful)
-- adverb: `wanume` (beautifully)
+**noun patterns [CFVFP] / [FVFP] / [CVFP]**:
+- `thephoa` (person) - [F][V][F][P] pattern
+- `whethea` (book) - [F][V][F][P] pattern
+- `hiwhea` (house) - [C][V][F][P] pattern
 
-**concept: strength**
-- noun: `suthea` (strength)
-- verb: `thasu` (strengthen)
-- adjective: `sutha` (strong)  
-- adverb: `sutine` (strongly)
+**verb patterns [FVCV]**:
+- `shose` (see) - [F][V][C][V] pattern
+- `whera` (learn) - [F][V][C][V] pattern
+- `shite` (make) - [F][V][C][V] pattern
+
+**adjective patterns [CVFV]**:
+- `tushe` (good) - [C][V][F][V] pattern
+- `hashe` (green) - [C][V][F][V] pattern
+- `wiwha` (strong) - [C][V][F][V] pattern
+
+**adverb patterns [CVCVCV]**:
+- `wanume` (well) - [C][V][C][V][C][V] pattern
+- `napine` (quickly) - [C][V][C][V][C][V] pattern
+- `walime` (outside) - [C][V][C][V][C][V] pattern
+
+this systematic separation ensures that related semantic concepts receive expression through completely unrelated phonological forms, eliminating morphological complexity while maintaining clear categorical distinctions.
 
 ### particle-based grammatical expression
 
@@ -89,23 +110,32 @@ phi accomplishes morphological work through systematic particle placement:
 
 **tense and aspect**:
 ```
-mia li na whethea phose
-i past object book see
+mia li  na  whethea shose
+1SG PST OBJ book    see
 "i saw the book"
 ```
-
 **modality**:
 ```
-sha wi na thueta phemo
-it might object that think
+sha se  na  thueta whemo
+3SG may OBJ that   think
 "it might think that"
 ```
 
 **comparison**:
 ```
-whethea mo thuira mipha phera
-book comparative house beautiful be
-"the book is more beautiful than the house"
+whethea mo  hiwhea  tushe    phera
+book    CMP house   good be
+"the book is more good than the house"
+```
+**negation and emphasis**:
+```
+mia me  whothea shite
+1SG NEG food    make
+"i don't make food"
+
+mia ma   whothea shite
+1SG EMPH food    make
+"i really do make food"
 ```
 
 ## usage examples
@@ -113,45 +143,110 @@ book comparative house beautiful be
 ### basic analytical constructions
 
 ```
-lo thephoa hiwhea phera
-plural person house be
+lo  thephoa hiwhea  phera
+PL  person  house   be
 "people are at house"
 ```
 
 ```
-mia ta na whethea hashe phose
-i present object book green see
+mia ta  na  whethea hashe shose
+1SG PRS OBJ book    green see
 "i see the green book"
 ```
 
 ```
-lo sha su na thueta whemo
-plural they future object that think
+lo  sha su  na  thueta whemo
+PL  3SG FUT OBJ that   think
 "they will think that"
 ```
 
 ### complex particle combinations
 
 ```
-li na sha mo mipha phera wetu
-past object it comparative beautiful be conditional
-"if it had been more beautiful"
+mia li  lu  na  sha mo  tushe    phera
+1SG PST if  OBJ 3SG CMP good be
+"if i had been more good than it"
+
+sha li  ni  na  thueta whemo
+3SG PST PFV OBJ that   think
+"it had thought that"
 ```
 
 ```
-lo thephoa whethea phina
-plural person book find
+lo  thephoa whethea whina
+PL  person  book    find
 "people find book"
 ```
 
 ### morphological transparency
 
 ```
-Full explicit marking: si lo thephoa na whethea mipha ta te phose
-Natural streamlined:   lo thephoa whethea mipha phose
-"people see beautiful book"
+Full explicit marking: si  lo  thephoa na  whethea tushe    ta  te   shose
+                       SUBJ PL  person  OBJ book good PRS VERB see
+Natural streamlined:   lo  thephoa whethea tushe shose
+                       PL  person  book    good  see
+"people see good book"
+```
+
+### categorical integrity examples
+
+**maintaining phonotactic patterns across contexts**:
+```
+base word: whera (learn) - [F][V][C][V] verb pattern
+1SG PST learn
+
+with particles: mia li  whera
+                1SG PST learn
+"i learned" 
+
+with multiple particles: mia li  ni  ma   whera
+                         1SG PST PFV EMPH learn
+"i had really learned"
+```
+
+**no morphological fusion**:
+```
+contrast with fusional languages:
+fusional: cantabam (sing-1sg.pst.ipfv)
+phi:      mia li  ri   whemi
+          1SG PST IPFV speak
+"i was speaking"
+```
+
+### paradigmatic transparency
+
+**pronoun + particle combinations**:
+```
+mia whera = "i learn"
+1SG learn
+
+thi whera = "you learn" 
+2SG learn
+
+sha whera = "it learns"
+3SG learn
+
+lo  mia whera = "we learn"
+PL  1SG learn
+
+lo  thi whera = "you all learn"
+PL  2SG learn
+
+lo  sha whera = "they learn"
+PL  3SG learn
+```
+
+**tense paradigms without inflection**:
+```
+present: mia whera
+         1SG learn
+past:    mia li  whera
+         1SG PST learn
+future:  mia su  whera
+         1SG FUT learn
 ```
 
 ## conclusion
 
 phi's morphology is characterized by its commitment to an isolating and analytical structure. by eschewing traditional inflection and derivation in favor of a systematic particle system and consistent phonotactic integrity for word classes, phi achieves a high degree of transparency and predictability. this approach ensures that grammatical meaning is conveyed through clear, distinct units, making the language's word structures accessible and their functions unambiguous. 
+

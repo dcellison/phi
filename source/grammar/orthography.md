@@ -59,7 +59,7 @@ phi spelling visually represents grammatical categories through systematic lette
 
 **adverb spelling pattern**: consonant + vowel + consonant + vowel + consonant + vowel
 - visual characteristics: three syllables, no digraphs, longest content words
-- spelling examples: six-letter words like "hamite", "tapine", "walime"
+- spelling examples: six-letter words like "hamite", "napine", "walime"
 
 **preposition spelling pattern**: digraph + vowel sequence
 - visual characteristics: digraph start, vowel sequence end, no consonants
@@ -71,11 +71,11 @@ phi spelling visually represents grammatical categories through systematic lette
 
 **classifier spelling pattern**: consonant + vowel sequence
 - visual characteristics: single consonant + vowel sequence only
-- spelling examples: words like "lea", "moi", "teo", "hua"
+- spelling examples: words like "lea", "moi", "teo", "rua"
 
 **conjunction spelling pattern**: consonant + vowel + consonant + vowel
 - visual characteristics: four letters, alternating consonant-vowel, no digraphs
-- spelling examples: words like "maca", "nene", "woma", "turae"
+- spelling examples: words like "renu", "nene", "woma", "wane"
 
 **interjection spelling pattern**: consonant + vowel + consonant + vowel sequence
 - visual characteristics: consonant start, vowel sequence end, four letters total
@@ -124,33 +124,131 @@ phi's predictable spelling enables algorithmic validation:
 ### basic spelling demonstration
 
 ```
-written: mia na whethea phose
-pattern: CCV CV CVCVCVV CVCV
-"i see book"
+written: mia na  whethea shose
+pattern: CP  CV  FVFP    FVCV
+gloss:   1SG OBJ book    see
+"i see the book"
 ```
 
 ### phonotactic pattern spelling
 
 ```
-written: hashe whethea siwhea phera
-pattern: CVCV CVCVCVV CVCVCV CVCV  
-"green book house be"
+written: hashe whethea hiwhea  phera
+pattern: CVFV  FVFP    CVFP    FVCV  
+gloss:   green book    house   be
+"the green book is at the house"
 ```
 
 ### vowel sequence writing
 
 ```
-written: haephui mipho
-pattern: CVVCVV CVCV
-"dune blue"
+written: wheishea tuphe    phera
+pattern: FPFP     CVFV    FVCV
+gloss:   water    many    be
+"the water is abundant"
 ```
 
 ### digraph spelling consistency
 
 ```
-written: phamu thunu shoru
-pattern: CVCV CVCV CVCV
-"spend finish burn"
+written: mia shiho whuli shoru
+pattern: CP  FVCV  FVCV  FVCV
+gloss:   1SG buy   finish burn
+"i buy, finish, burn"
+```
+
+### particle-based orthography
+
+```
+written: mia li  na  thueta tushe    whethea shose
+pattern: CP  CV  CV  FPCV   CVFV     FVFP    FVCV
+gloss:   1SG PST OBJ that   good     book    see
+"i saw that good book"
+```
+
+### complex sentence orthography
+
+```
+written: lo  thephoa na  whethea hashe ta  shose nene sha li  whemo
+pattern: CV  FVFP   CV  FVFP    CVFV  CV  FVCV  CVCV CP  CV  FVCV
+gloss:   PL  person  OBJ book    green PRS see   and  3SG PST think
+"people see green books and it thought"
+```
+
+### visual pattern recognition examples
+
+**immediate grammatical identification**:
+```
+particle recognition (CV pattern):
+li (PST), na (OBJ), te (VERB), wa (Q)
+
+verb recognition (digraph-initial):
+shose (see), whera (learn), whuli (finish), shoru (burn)
+
+noun recognition (vowel sequence ending):
+whethea (book), hiwhea (house), wheishea (water), thephoa (person)
+
+adjective recognition (digraph-medial):
+tushe (good), hashe (green), wiwha (strong), tuphe (many)
+```
+
+### orthographic transparency in different contexts
+
+**same word in different syntactic contexts**:
+```
+base form: whethea (book) - maintains FVFP pattern
+with determiner: thueta whethea
+                 FPCV  FVFP
+
+with particles: na  whethea
+                CV  FVFP
+
+complex phrase: thueta tushe    whethea
+                FPCV  CVFV     FVFP
+"that good book"
+```
+
+**systematic particle combinations**:
+```
+minimal: mia whethea shose
+         CP  FVFP    FVCV
+
+explicit: si   mia na  whethea te   shose
+          CV   CP  CV  FVFP    CV   FVCV
+
+temporal: mia li  whethea shose
+          CP  CV  FVFP    FVCV
+
+modal: mia ra   whethea shose
+       CP  CV   FVFP    FVCV
+"i must see the book"
+```
+
+### orthographic support for learning
+
+**pattern-based acquisition**:
+```
+step 1 - recognize particles: li, na, te, wa (CV pattern)
+step 2 - identify verbs: ph/wh/th/sh + vowel + consonant + vowel (FVCV)
+step 3 - spot nouns: end with vowel sequences (ending P)
+step 4 - find adjectives: single consonant + vowel + digraph + vowel (CVFV)
+```
+
+**spelling consistency across grammatical contexts**:
+```
+verb whera (learn) in different tenses:
+present: mia whera
+         CP  FVCV
+
+past: mia li  whera  
+      CP  CV  FVCV
+
+future: mia su  whera
+        CP  CV  FVCV
+
+conditional: mia lu  whera
+             CP  CV  FVCV
+"i learn/learned/will learn/would learn"
 ```
 
 ## writing conventions
@@ -169,6 +267,26 @@ phi writing maintains consistent visual presentation:
 - uniform character sizing throughout texts
 - left-to-right writing direction
 - standard line spacing without special formatting
+
+### orthographic efficiency examples
+
+**contrast with irregular spelling systems**:
+```
+english irregular: "through" = /θru/ (7 letters, 3 sounds)
+phi systematic:    "thume" = /θume/ (5 letters, 5 sounds)
+
+english irregular: "enough" = /ɪnʌf/ (6 letters, 4 sounds)  
+phi systematic:    "tushe" = /tushe/ (5 letters, 5 sounds)
+```
+
+**visual grammatical cueing**:
+```
+sentence: mia li  na  thueta tushe    whethea shose.
+pattern:  CP  CV  CV  FPCV  CVFV     FVFP    FVCV
+visual:   pro prt prt det   adj      noun    verb
+function: 1SG PST OBJ that  good     book    see
+"i saw that good book."
+```
 
 ## conclusion
 

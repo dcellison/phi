@@ -4,145 +4,502 @@
 
 ## introduction to phi syntax
 
-phi implements a **compositional transparency principle** that transforms traditional syntactic complexity into explicit structural organization. unlike natural languages where syntactic relationships often require contextual inference or morphological complexity, phi employs principled head-final organization with particle-based marking that makes grammatical relationships transparent through consistent structural patterns.
+phi employs a systematic subject-object-verb (SOV) word order with explicit particle-based marking for grammatical relationships. where natural languages often rely on morphological inflection or positional inference for grammatical roles, phi uses dedicated particles that explicitly mark syntactic functions, creating transparent structural relationships through consistent head-final organization.
 
-this approach represents a fundamental departure from conventional syntactic organization, where phi achieves compositional clarity through **explicit encoding**, with sov organization providing the **structural framework** that supports this transparency, creating a syntactic system optimized for cross-linguistic accessibility through principled structural regularity.
+this approach provides a syntactic system where grammatical relationships remain explicit and consistent across all constructions, achieved through systematic particle placement and predictable constituent ordering that supports phi's analytical morphological structure.
 
-## theoretical framework: syntactic universals vs. explicit transparency
+## word order and basic structure
 
-### cross-linguistic syntactic patterns
-comparative research demonstrates that while **certain syntactic universals appear cross-linguistically**, their structural implementations and processing requirements vary dramatically across linguistic boundaries:
+### sov organization
+phi maintains consistent subject-object-verb ordering across all sentence types:
 
-**word order correlations**: research by dryer and hammarström demonstrates that approximately 41% of world languages employ subject-object-verb organization, with correlations between basic word order and modifier positioning, adpositional patterns, and question formation strategies.
+```
+mia whothea phusu
+1SG food    cook
+"i cook food"
+```
 
-**head-final universals**: evidence suggests that sov languages employ head-final patterns across multiple syntactic domains, creating consistent processing expectations through modifier-before-head organization and postpositional rather than prepositional systems.
+**basic pattern**: subject + object + verb, with particles added when role clarification is needed through explicit grammatical marking.
 
-**particle-based marking**: research demonstrates that head-final languages frequently employ particle systems for grammatical marking rather than inflectional morphology, supporting transparency through explicit marking rather than complex morphological computation.
+```
+si   mia na  whothea te   phusu
+SUBJ 1SG OBJ food    VERB cook
+"i cook food" (with explicit marking)
+```
 
-### phi's transparency approach
-phi addresses cross-linguistic syntactic variation through **explicit structural transparency** rather than morphological complexity:
+**modifier positioning**: adjectives precede nouns, determiners precede noun phrases, and adverbials precede verbs, maintaining consistent head-final organization across all constituent types.
 
-**morphological elimination**: functions typically achieved through complex inflectional systems receive particle-based encoding, removing dependency on morphological paradigm mastery and complex agreement computation.
+```
+thueta mipha    whothea tapine  phusu
+that   beautiful food    quickly cook
+"quickly cook that beautiful food"
+```
 
-**structural transparency**: information traditionally conveyed through word order variation or morphological marking gains explicit particle-based encoding.
+**complement organization**: verbal complements position before main predicates, with subordinate clauses following explicit particle marking for transparent structural relationships.
 
-**processing optimization**: syntactic relationships expressed through implicit structural relationships in natural languages receive explicit particle-based marking.
+```
+mia na  whothea phusu whemo
+1SG OBJ food    cook  think
+"i think (that i) cook food"
+```
 
-## structural principles and particle systems
+### head-final consistency
+phi extends head-final organization across all phrasal types:
 
-### head-final organization through explicit encoding
-phi's syntactic system exemplifies structural transparency through **consistent head-final organization** rather than morphologically-dependent interpretation:
+**noun phrases**: (determiner) (quantifier) (adjective) noun pattern with consistent modifier-before-head organization.
 
-**theoretical foundation**: cross-linguistic syntactic research by greenberg and dryer demonstrates that head-final languages typically employ correlations between basic word order and modifier positioning, creating predictable structural patterns across syntactic domains.
+```
+thueta whu mipha    whothea
+that   two beautiful food
+"those two beautiful foods"
+```
 
-**transparency distinction**: phi syntactic systems explicitly encode structural relationships that typically require morphological marking or positional interpretation:
+**verb phrases**: auxiliary and modal particles precede main verbs, maintaining head-final patterns throughout verbal constructions.
 
-- consistent subject-object-verb organization across all clause types
-- modifier-before-head organization in noun phrases and adjectival constructions
-- explicit particle-based marking for grammatical relationships rather than positional or morphological inference
-- postpositional organization for locational and temporal relationships
+```
+mia ra   se  na  whothea phusu
+1SG must can OBJ food    cook
+"i must be able to cook food"
+```
 
-### structural decomposition and particle functions
+**prepositional phrases**: phi uses postpositions rather than prepositions, following the head-final pattern where the relational element follows its complement.
 
-**phrase structure transparency**: phi employs organization for structural relationships achieved through morphological complexity in natural languages:
+```
+wheupha wheo = "at tree" (tree + at)
+thuira  thau = "like house" (house + like)
+```
 
-- noun phrase organization: (determiner) (quantifier) (adjective) noun patterns
-- explicit modifier positioning through consistent head-final organization
-- complement-before-head organization in verbal constructions
-- transparent hierarchical organization through constituent ordering
+## particle-based marking
 
-**grammatical role particles**: explicit encoding of structural relationships traditionally conveyed through morphological marking:
+### grammatical role particles
+phi employs explicit particles for core grammatical relationships:
 
-- `si` (subject marking): explicit grammatical role identification for subject constituents
-- `na` (object marking): object relationship encoding for direct object identification
-- `te` (verb marking): explicit verbal constituent identification for predicate marking
+**subject marking**: `si` explicitly identifies subject constituents when context requires clarification.
 
-**discourse organization particles**: encoding of information structural relationships traditionally conveyed through word order variation:
+```
+basic:    mia whothea phusu
+          1SG food    cook
+explicit: si   mia na  whothea te   phusu
+          SUBJ 1SG OBJ food    VERB cook
+"i cook food"
+```
 
-- `ha` (topic marking): explicit topic-comment boundary identification
-- `ho` (topic shift marking): discourse transition identification
-- `nu` (focus marking): explicit focus identification and highlighting
-- `ma` (emphasis marking): prominence relationship encoding
+**object marking**: `na` marks direct objects to eliminate ambiguity in complex sentences.
 
-**functional advantages**: particles mark grammatical relationships rather than relying on morphological agreement computation, replace complex case marking systems, and provide temporal-aspectual relationships through explicit encoding rather than verbal inflection paradigms.
+```
+ambiguous context: mia thephoa whothea phanu
+                   1SG person  food    give
+explicit marking:  mia na  thephoa whothea phanu
+                   1SG OBJ person  food    give
+"i give food to the person"
+```
 
-## clause structure and complex constructions
+**verb marking**: `te` identifies verbal constituents in contexts where multiple verbs might create structural confusion.
 
-### basic clause architecture
-phi clause organization follows consistent head-final patterns with explicit particle-based marking:
+```
+mia na  whothea te   phusu te   whemo
+1SG OBJ food    VERB cook  VERB think
+"i think about cooking food"
+```
 
-**fundamental pattern**: subject - object - verb with particle enhancement when role clarification required through `si`, `na`, and `te` particles for explicit grammatical identification.
+### discourse organization particles
+systematic particles manage information structure and discourse flow:
 
-**modifier integration**: head-final organization across constituent types with adjective-noun, determiner-noun, and adverbial-verbal relationships maintaining consistent modifier-before-head organization.
+**topic marking**: `ha` explicitly identifies topic constituents, enabling clear topic-comment structure organization.
 
-**complement organization**: explicit complement-before-head organization with verbal complement positioning before main predicates and transparent subordinate clause organization through explicit marking particles.
+```
+whothea ha  mia li  phusu
+food    TOP 1SG PST cook
+"as for food, i cooked (it)"
+```
 
-### complex sentence organization
-phi employs structural organization for complex syntactic relationships:
+**focus marking**: `nu` highlights focused information, providing explicit prominence marking independent of word order variation.
 
-**coordination transparency**: explicit conjunction-based coordination with `nene` (conjunction) providing additive relationship coordination between clauses through transparent relationship marking.
+```
+nu  mia whothea phusu
+FOC 1SG food    cook
+"*i* cook food" (emphasis on subject)
 
-**subordination transparency**: particle-based subordination marking with explicit subordinate clause identification and transparent temporal-causal relationship marking through dedicated particles.
+mia nu  whothea phusu
+1SG FOC food    cook
+"i cook *food*" (emphasis on object)
+```
 
-**question formation**: interrogative organization maintaining sov patterns with `wa` particle for yes-no questions and consistent wh-question organization maintaining basic head-final patterns.
+**emphasis marking**: `ma` intensifies speaker commitment to particular constituents or propositions.
 
-## modification and complementation patterns
+```
+mia ma   whothea phusu
+1SG EMPH food    cook
+"i really do cook food"
+```
+
+**topic shift marking**: `ho` signals transitions between discourse topics, supporting coherent information flow.
+
+```
+whothea ha  mia phusu. ho    whethea ha  sha phose
+food    TOP 1SG cook.  SHIFT book    TOP 3SG see
+"i cook food. speaking of books, he sees (it)"
+```
+
+### temporal and modal particles
+explicit marking for temporal and modal relationships:
+
+**tense particles**: `li` (past), `ta` (present), `su` (future) provide systematic temporal marking.
+
+```
+mia li  whothea phusu = "i cooked food"
+1SG PST food    cook
+
+mia ta  whothea phusu = "i cook food"
+1SG PRS food    cook
+
+mia su  whothea phusu = "i will cook food"
+1SG FUT food    cook
+```
+
+**modal particles**: `ra` (necessity), `se` (possibility), `we` (ability), `wo` (prohibition) mark modal relationships.
+
+```
+mia ra   whothea phusu = "i must cook food"
+1SG must food    cook
+
+mia se  whothea phusu = "i may cook food"
+1SG may food    cook
+
+mia we  whothea phusu = "i can cook food"
+1SG can food    cook
+
+mia wo   whothea phusu = "i must not cook food"
+1SG PROH food    cook
+```
+
+**aspect particles**: `ni` (perfective), `ri` (imperfective) indicate aspectual distinctions when needed.
+
+```
+mia ni  whothea phusu = "i have cooked food" (completed)
+1SG PFV food    cook
+
+mia ri   whothea phusu = "i am cooking food" (ongoing)
+1SG IPFV food    cook
+```
+
+## phrase structure
 
 ### noun phrase organization
-phi employs consistent head-final organization in nominal constructions:
+phi noun phrases follow systematic head-final patterns:
 
-**modifier ordering transparency**: pre-head modifier placement with determiner - quantifier - adjective - noun sequences and consistent modifier hierarchy organization across construction types.
+**basic structure**: (determiner) (classifier) (quantifier) (adjective) noun
 
-**classifier integration**: classifier placement in quantified constructions with consistent number - classifier - noun organization patterns and explicit categorical marking through phonotactically-distinctive classifier systems.
+**example constituents**:
+```
+thueta mipha    wheupha
+that   beautiful tree
+"that beautiful tree"
 
-### verbal construction organization
-phi maintains head-final patterns in verbal constructions:
+lo  phi hashe whethea
+PL  one green book
+"the green books"
 
-**auxiliary organization**: consistent auxiliary-main verb organization with modal particle placement before main verbal constituents and explicit aspectual marking through particle systems maintaining head-final organization.
+whieso teo   whu riphe     thuira
+which  round two important house
+"which two important round houses"
+```
 
-**complement organization**: complement-before-head organization with explicit verbal complement positioning before main predicates and consistent subordinate clause integration maintaining head-final patterns.
+**modification patterns**: all modifiers precede the head noun, with determiners in initial position and adjectives in immediate pre-head position.
 
-## cross-linguistic validation: transparency vs. morphological complexity
+```
+complex noun phrase:
+shoata lea  the mipha    ruphe     whethea
+all    long three beautiful important book
+"all three beautiful important long books"
+```
 
-### natural language syntactic challenges
-comparative analysis reveals problems with morphologically-dependent syntactic organization:
+### verb phrase organization
+phi verb phrases maintain consistent head-final organization:
 
-**morphological complexity barriers**: heavy reliance on inflectional paradigms creates learning barriers between different morphological types through complex agreement and case marking requirements.
+**auxiliary structure**: modal/auxiliary + main verb pattern
 
-**processing asymmetry**: morphological agreement generates computational complexity requiring paradigm mastery for appropriate structural interpretation through contextual morphological analysis mechanisms.
+**example constructions**:
+```
+ra   whera = "must learn"
+must learn
 
-**variation complexity**: different morphological systems create misunderstanding between speakers of different morphological types through divergent agreement and case marking patterns.
+se  we  whera = "might be able to learn"
+may can learn
 
-**acquisition dependency**: morphology-specific structural systems prevent cross-linguistic transfer protocols through divergent inflectional and agreement strategies.
+li  ni  whera = "had learned" (past perfective)
+PST PFV learn
 
-### phi's transparency solution advantages
-phi's explicit particle-based approach addresses these challenges through principled structural transparency mechanisms:
+su  ri   whera = "will be learning" (future imperfective)
+FUT IPFV learn
+```
 
-**morphological neutrality**: particle-based encoding eliminates dependency on morphological paradigm mastery while maintaining structural precision and grammatical relationships.
+**complement patterns**: object and complement constituents precede the main verb in all constructions.
 
-**processing transparency**: explicit particle marking reduces structural ambiguity by encoding grammatical relationships directly rather than through morphological computation requirements.
+```
+mia na  thephoa whothea phanu whemo
+1SG OBJ person  food    give  think
+"i think (that i) give food to person"
 
-**accessibility**: principled particle systems enable acquisition of structural relationships through grammatical rule mastery rather than morphological paradigm development.
+sha na  thueta mipha    phera whemo
+3SG OBJ that   beautiful be    think
+"it thinks that (it) is beautiful"
+```
 
-**cross-linguistic effectiveness**: explicit encoding mechanisms function effectively across diverse morphological backgrounds without requiring shared inflectional conventions or complex paradigm knowledge systems.
+### complex phrase formation
+phi enables systematic embedding and coordination:
 
-## processing optimization and validation
+**embedding**: subordinate clauses and relative constructions follow explicit particle marking for structural clarity.
 
-**structural processing advantages**: phi's approach supports efficient sov processing through particle placement enabling grammatical relationship recognition before sentence-final verbs, providing constituent relationship cues during left-to-right processing, and enabling expectation formation about upcoming structural content through particle patterns.
+```
+simple:   mia whothea phusu
+          1SG food    cook
+embedded: mia na  thueta li  whothea phusu thephoa phose
+          1SG OBJ that   PST food    cook  person  see
+"i see the person who cooked food"
+```
 
-**phonotactic integration**: explicit structural marking coordinates with phonotactic categorical identification through template recognition for rapid grammatical identification and categorical processing coordination, reducing cognitive demands in complex syntactic processing.
+**coordination**: `nene` (and) connects constituents of the same type, maintaining parallel structure across coordinated elements.
 
-**structural coverage validation**:
-- traditional syntactic functions: 100% explicit encoding through particle systems and structural transparency
-- morphological dependency elimination: replacement of inflectional complexity with particle-based marking
-- cross-linguistic accessibility: universal structural function availability through explicit encoding
-- learnability: principled rule-based structural competence development through grammatical mastery rather than morphological acquisition
+```
+noun coordination:
+whothea nene whethea
+food    and  book
+"food and books"
 
-**cross-linguistic validation**:
-- universal principle respect: phi approach maintains structural functionality through explicit encoding while preserving cross-linguistic syntactic tendencies
-- morphological neutrality achievement: explicit marking eliminates morphology-specific syntactic dependency while maintaining structural effectiveness and cross-linguistic accessibility
-- accessibility optimization: principled structural encoding optimizes cross-linguistic syntactic understanding through grammatical transparency rather than morphological complexity
+verb coordination:
+mia whothea phusu nene phose
+1SG food    cook  and  see
+"i cook and see food"
+
+clause coordination:
+mia whothea phusu nene sha whethea phose
+1SG food    cook  and  3SG book    see
+"i cook food and it sees books"
+```
+
+**subordination**: explicit subordinating particles mark dependent clauses and their relationships to main clauses.
+
+```
+temporal subordination:
+thueta li  whera woma sha li  whemo
+that   PST learn when 3SG PST think
+"when that learned, it thought"
+
+causal subordination:
+whothea mipha    maca    mia phusu
+food    beautiful because 1SG cook
+"because food (is) beautiful, i cook"
+```
+
+## question formation
+
+### interrogative patterns
+phi maintains SOV order in questions while using systematic marking:
+
+**yes-no questions**: `wa` particle marks interrogative force while preserving basic word order.
+```
+statement: mia whothea phusu
+           1SG food    cook
+question:  wa mia whothea phusu
+           Q  1SG food    cook
+"do i cook food?"
+
+complex:   wa mia li  na  whothea te   phusu
+           Q  1SG PST OBJ food    VERB cook
+"did i cook the food?"
+```
+
+**wh-questions**: interrogative words maintain SOV pattern with question particles.
+```
+lua li  whothea phusu = "who cooked food?"
+who PST food    cook
+
+nua  mia li  phusu = "what did i cook?"
+what 1SG PST cook
+
+hamite mia whothea phusu = "how do i cook food?"
+how    1SG food    cook
+```
+
+### echo questions and focus
+systematic patterns for information-seeking and confirmation:
+
+**echo patterns**: question particles can emphasize specific constituents for clarification.
+
+```
+original: mia whothea phusu
+          1SG food    cook
+echo:     wa mia nua  phusu
+          Q  1SG what cook
+"i cook what?" (seeking clarification)
+
+echo:     nua  mia whothea phusu
+          what 1SG food    cook
+"what, i cook food?" (disbelief)
+```
+
+**focus questions**: `nu` focus particle combines with interrogatives for specific information targeting.
+
+```
+nu  lua li  whothea phusu
+FOC who PST food    cook
+"who specifically cooked food?"
+
+lua nu  li  whothea phusu
+who FOC PST food    cook
+"who was it that cooked food?"
+```
+
+## complex constructions
+
+### relative clauses
+phi uses systematic relative clause formation:
+
+**head-final relatives**: relative clauses precede their head nouns, following consistent head-final organization.
+
+```
+basic relative:
+li  whothea phusu thephoa
+PST food    cook  person
+"person who cooked food"
+
+complex relative:
+li  na  thueta mipha    whothea te   phusu thephoa
+PST OBJ that   beautiful food    VERB cook  person
+"person who cooked that beautiful food"
+
+embedded relative:
+mia na  li  whothea phusu thephoa phose
+1SG OBJ PST food    cook  person  see
+"i see the person who cooked food"
+```
+
+**explicit marking**: relative clause boundaries receive clear particle marking to eliminate structural ambiguity.
+
+```
+marked relative:
+mia na  woma li  whothea phusu thephoa phose
+1SG OBJ when PST food    cook  person  see
+"i see the person when (they) cooked food"
+```
+
+### conditional structures
+systematic conditional marking through particles:
+
+**conditional patterns**: `lu` conditional particle marks hypothetical constructions.
+
+```
+simple conditional:
+whothea mipha    lu mia phusu
+food    beautiful if 1SG cook
+"if food (is) beautiful, i cook"
+
+complex conditional:
+mia lu na  thueta whothea te   phusu sha su  mipha    phera
+1SG if OBJ that   food    VERB cook  3SG FUT beautiful be
+"if i cook that food, it will be beautiful"
+```
+
+**temporal conditionals**: combination of temporal and conditional particles for complex temporal relationships.
+
+```
+past conditional:
+mia li  lu whothea phusu sha li  mipha    phera
+1SG PST if food    cook  3SG PST beautiful be
+"if i had cooked food, it would have been beautiful"
+
+future conditional:
+sha su  lu whera mia su  we  whothea phusu
+3SG FUT if learn 1SG FUT can food    cook
+"if it learns, i will be able to cook food"
+```
+
+### coordination patterns
+explicit coordination through systematic particle usage:
+
+**constituent coordination**: `nene` connects parallel constituents while maintaining structural consistency.
+
+```
+adjective coordination:
+mipha    nene hashe whothea
+beautiful and  green food
+"beautiful and green food"
+
+adverb coordination:
+tapine  nene walime  whothea phusu
+quickly and  outside food    cook
+"cook food quickly and outside"
+```
+
+**clause coordination**: sentence-level coordination maintains explicit marking for discourse relationships.
+
+```
+sequential coordination:
+mia whothea phusu nene sha whethea phose nene lo  thephoa whemo
+1SG food    cook  and  3SG book    see   and  PL  person  think
+"i cook food and it sees books and people think"
+
+contrastive coordination:
+mia whothea phusu mi  sha me  whethea phose
+1SG food    cook  but 3SG NEG book    see
+"i cook food but it doesn't see books"
+```
+
+## processing advantages
+
+phi's syntactic design supports systematic processing:
+
+**predictive parsing**: consistent head-final organization enables systematic expectation formation during sentence processing.
+
+```
+processing advantage example:
+mia na  thueta mipha    hashe...
+1SG OBJ that   beautiful green...
+→ listener expects noun to complete phrase
+
+...whothea te...
+...food    VERB...
+→ listener expects verb to complete clause
+
+...phusu
+...cook
+→ complete interpretation: "i cook that beautiful green food"
+```
+
+**explicit relationship marking**: particle-based marking eliminates structural ambiguity and reduces processing load through transparent grammatical relationships.
+
+```
+ambiguous without particles:
+mia thephoa whothea phanu
+1SG person  food    give
+→ could be "i give person food" or "i give food person"
+
+unambiguous with particles:
+mia na  thephoa whothea phanu = "i give food to person"
+1SG OBJ person  food    give
+
+mia thephoa na  whothea phanu = "i give person food"
+1SG person  OBJ food    give
+```
+
+**incremental interpretation**: SOV order with explicit marking supports incremental semantic interpretation as sentences unfold.
+
+```
+incremental processing:
+mia → "i" (subject established)
+1SG
+
+mia na → "i...object" (object role marked)
+1SG OBJ
+
+mia na  whothea → "i...food" (object identified)
+1SG OBJ food
+
+mia na  whothea phusu → "i cook food" (complete interpretation)
+1SG OBJ food    cook
+```
 
 ## conclusion
 
-phi's syntactic system demonstrates that explicit encoding can achieve traditional structural communicative functions while eliminating morphological dependency barriers, providing a model for optimized cross-linguistic syntactic communication through principled structural transparency. 
+phi's syntactic system demonstrates systematic organization through consistent SOV word order, head-final phrase structure, and explicit particle-based marking for grammatical relationships. this approach provides transparent structural organization where syntactic roles and relationships receive systematic encoding, supporting both precise expression and systematic acquisition through predictable patterns and explicit marking systems. 
