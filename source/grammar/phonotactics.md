@@ -22,10 +22,10 @@ phi phonotactics operates through hierarchical constraint systems that interact 
 phi employs systematic template constraints that generate grammatical category patterns through principled rule interactions:
 
 **content word constraints**: 
-- nouns: require fricative-final and vowel-sequence complexity to signal referential importance
-- verbs: demand fricative-initial patterns to mark predicate function systematically  
-- adjectives: employ fricative-medial templates to distinguish property attribution
-- adverbs: utilize three-syllable patterns to encode systematic modification scope
+- nouns: require fricative-final and vowel-sequence complexity to signal referential importance (e.g., `whethea` `FVFP` with final fricative `th` and vowel pair `ea`).
+- verbs: demand fricative-initial patterns to mark predicate function systematically (e.g., `shose` `FVCV` with initial fricative `sh`).
+- adjectives: employ fricative-medial templates to distinguish property attribution (e.g., `hashe` `CVFV` with medial fricative `sh`).
+- adverbs: utilize three-syllable patterns to encode systematic modification scope (e.g., `napine` `CVCVCV` with three CV syllables and no fricatives).
 
 **function word constraints**:
 - particles: receive minimal CV templates to reflect grammatical simplicity
@@ -46,6 +46,7 @@ phi implements systematic boundary constraints that maintain template integrity:
 phi employs hierarchical sequence constraints that control segment combination possibilities:
 
 **fricative distribution constraints**: systematic restrictions on fricative placement create template-specific positions that enable categorical identification through sound pattern location.
+For example, an initial fricative as in `shose` (see) strongly signals a verb (`FVCV`), whereas a medial fricative often indicates an adjective (e.g., `hashe` - `CVFV`) and a final fricative before a vowel pair is characteristic of nouns (e.g. `whethea` - `FVFP`).
 
 **vowel sequence constraints**: prohibition of identical vowel pairs maintains systematic template clarity while permitting maximal vowel sequence exploitation for categorical encoding.
 
@@ -57,6 +58,7 @@ phi employs hierarchical sequence constraints that control segment combination p
 phi phonotactics enables immediate grammatical category identification through systematic constraint satisfaction patterns:
 
 **pattern-based parsing**: listeners identify word categories through template recognition before accessing lexical content, enabling rapid grammatical processing in SOV structures.
+For instance, the template `FVCV` immediately flags a word like `whera` (learn) as a verb, distinct from the `FVFP` template of a noun like `thephoa` (person).
 
 **constraint satisfaction evaluation**: systematic template matching operates through hierarchical constraint checking rather than lexical category memorization.
 

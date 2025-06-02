@@ -340,7 +340,7 @@ class PhiWordDatabase:
     def get_expected_pattern_for_pos(self, pos: str) -> str:
         """Get the expected phonotactic pattern for a given POS."""
         patterns = {
-            'noun': ['CFVFP', 'FVFP', 'FPFP', 'CFPFP'],  # Various noun patterns
+            'noun': ['CVFP', 'CPFP', 'FVFP', 'FPFP'],  # Corrected based on [C/F][V/P][F][P]
             'verb': ['FVCV'],  # digraph + vowel + consonant + vowel
             'adjective': ['CVFV'],  # consonant + vowel + digraph + vowel
             'adverb': ['CVCVCV'],  # three syllables, no digraphs

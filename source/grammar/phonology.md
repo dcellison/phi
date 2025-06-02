@@ -16,6 +16,7 @@ phi's phoneme inventory is identical to its phonetic inventory, detailed in the 
 phi organizes its phonological system through systematic templates that define the sound structure for each grammatical category:
 
 **content word templates**: nouns, verbs, adjectives, and adverbs each follow distinct multi-syllable patterns with specific fricative placement and vowel sequence requirements.
+For instance, a noun like `whethea` (book) adheres to the `FVFP` template, while a verb like `shose` (see) follows the `FVCV` template, clearly distinguishing their grammatical categories by their sound structure.
 
 **function word templates**: particles, prepositions, determiners, and conjunctions use simpler patterns that maintain distinctiveness while reflecting their grammatical simplicity.
 
@@ -39,6 +40,7 @@ phi phonology enforces strict syllable structure requirements:
 **open syllable requirement**: all syllables must end with vowels, creating consistent rhythmic patterns and eliminating consonant cluster complexity at syllable boundaries.
 
 **vowel hiatus preservation**: vowel sequences maintain distinct pronunciation without gliding or coalescence, preserving syllable count and maintaining phonological transparency.
+For example, in `phiato` (this), the sequence `ia` is pronounced as two distinct syllables /`i.a`/, not as a diphthong, ensuring both vowels are fully articulated.
 
 **consonant cluster restrictions**: only fricative digraphs function as onset clusters, preventing complex articulations while maintaining phonological distinctiveness.
 
@@ -57,6 +59,7 @@ phi phonology prevents template violations through systematic restrictions:
 phi phonology serves as a primary grammatical marking system:
 
 **immediate identification**: speakers recognize word functions through phonological pattern recognition before accessing semantic content.
+Thus, hearing a word like `shose` (see) immediately signals a verb due to its initial fricative and `FVCV` pattern, distinguishing it from a noun like `whethea` (book) with its `FVFP` structure and final vowel pair, even before full semantic processing.
 
 **systematic processing**: grammatical parsing operates through phonological template matching rather than lexical memorization.
 

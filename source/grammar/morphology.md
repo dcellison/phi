@@ -82,25 +82,25 @@ phi analytical:          mia whera (i learn)
 
 phi maintains categorical integrity by using entirely distinct lexical items rather than derivational morphology. each part of speech maintains its unique phonotactic pattern and semantic independence:
 
-**noun patterns [CFVFP] / [FVFP] / [CVFP]**:
-- `thephoa` (person) - [F][V][F][P] pattern
-- `whethea` (book) - [F][V][F][P] pattern
-- `hiwhea` (house) - [C][V][F][P] pattern
+**noun patterns `[CFVFP]` / `[FVFP]` / `[CVFP]`**:
+- `thephoa` (person) - `[F][V][F][P]` pattern
+- `whethea` (book) - `[F][V][F][P]` pattern
+- `hiwhea` (house) - `[C][V][F][P]` pattern
 
-**verb patterns [FVCV]**:
-- `shose` (see) - [F][V][C][V] pattern
-- `whera` (learn) - [F][V][C][V] pattern
-- `shite` (make) - [F][V][C][V] pattern
+**verb patterns `[FVCV]`**:
+- `shose` (see) - `[F][V][C][V]` pattern
+- `whera` (learn) - `[F][V][C][V]` pattern
+- `shite` (make) - `[F][V][C][V]` pattern
 
-**adjective patterns [CVFV]**:
-- `tushe` (good) - [C][V][F][V] pattern
-- `hashe` (green) - [C][V][F][V] pattern
-- `wiwha` (strong) - [C][V][F][V] pattern
+**adjective patterns `[CVFV]`**:
+- `tushe` (good) - `[C][V][F][V]` pattern
+- `hashe` (green) - `[C][V][F][V]` pattern
+- `wiwha` (strong) - `[C][V][F][V]` pattern
 
-**adverb patterns [CVCVCV]**:
-- `wanume` (well) - [C][V][C][V][C][V] pattern
-- `napine` (quickly) - [C][V][C][V][C][V] pattern
-- `walime` (outside) - [C][V][C][V][C][V] pattern
+**adverb patterns `[CVCVCV]`**:
+- `wanume` (well) - `[C][V][C][V][C][V]` pattern
+- `napine` (quickly) - `[C][V][C][V][C][V]` pattern
+- `walime` (outside) - `[C][V][C][V][C][V]` pattern
 
 this systematic separation ensures that related semantic concepts receive expression through completely unrelated phonological forms, eliminating morphological complexity while maintaining clear categorical distinctions.
 
@@ -126,14 +126,13 @@ sha se  na  thueta whemo
 whethea mo  hiwhea  tushe    phera
 book    CMP house   good be
 "the book is more good than the house"
+```**negation and emphasis**:
 ```
-**negation and emphasis**:
-```
-mia me  whothea shite
+mia me  noshea shite
 1SG NEG food    make
 "i don't make food"
 
-mia ma   whothea shite
+mia ma   noshea shite
 1SG EMPH food    make
 "i really do make food"
 ```
@@ -192,7 +191,7 @@ Natural streamlined:   lo  thephoa whethea tushe shose
 
 **maintaining phonotactic patterns across contexts**:
 ```
-base word: whera (learn) - [F][V][C][V] verb pattern
+base word: whera (learn) - `[F][V][C][V]` verb pattern
 1SG PST learn
 
 with particles: mia li  whera
@@ -207,7 +206,7 @@ with multiple particles: mia li  ni  ma   whera
 **no morphological fusion**:
 ```
 contrast with fusional languages:
-fusional: cantabam (sing-1sg.pst.ipfv)
+fusional: loquebar (speak-1sg.pst.ipfv)
 phi:      mia li  ri   whemi
           1SG PST IPFV speak
 "i was speaking"
@@ -249,4 +248,5 @@ future:  mia su  whera
 ## conclusion
 
 phi's morphology is characterized by its commitment to an isolating and analytical structure. by eschewing traditional inflection and derivation in favor of a systematic particle system and consistent phonotactic integrity for word classes, phi achieves a high degree of transparency and predictability. this approach ensures that grammatical meaning is conveyed through clear, distinct units, making the language's word structures accessible and their functions unambiguous. 
+
 

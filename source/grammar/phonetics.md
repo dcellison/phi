@@ -16,13 +16,13 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - articulatory specification: complete bilabial closure with oral airstream release
 - acoustic characteristics: sharp burst with 20-40ms voice onset time
 - cross-linguistic status: found in 93% of world languages
-- phi examples: phuithui (mud), phamu (spend)
+- phi examples: pothia (pot), pipha (narrow)
 
 **t** /t̪/ - voiceless dental stop  
 - articulatory specification: tongue tip contact with upper teeth (not alveolar ridge)
 - acoustic characteristics: dental burst with higher frequency energy than alveolar
 - cross-linguistic status: dental stops occur in 45% of languages globally
-- phi examples: thunu (finish), thueta (that)
+- phi examples: tophe (big), tushe (good)
 
 ### nasal consonants
 
@@ -30,13 +30,13 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - articulatory specification: bilabial closure with nasal airstream
 - acoustic characteristics: low-frequency formant structure around 250Hz
 - cross-linguistic status: universal across human languages (99%+)
-- phi examples: mipha (beautiful), phamu (spend)
+- phi examples: mipho (blue), whemo (think)
 
 **n** /n̪/ - dental nasal
 - articulatory specification: tongue tip contact with upper teeth, nasal airstream
 - acoustic characteristics: higher frequency formants than bilabial nasal
 - cross-linguistic status: dental nasals occur in 40% of languages globally
-- phi examples: nophi (mountainous), thunu (finish)
+- phi examples: nene (and), napine (quickly)
 
 ### fricative consonants
 
@@ -44,7 +44,7 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - articulatory specification: tongue tip near alveolar ridge, narrow channel
 - acoustic characteristics: high-frequency energy concentration 4000-8000Hz
 - cross-linguistic status: found in 78% of world languages
-- phi examples: shoru (set fire), phose (see)
+- phi examples: shose (see), shusa (hear)
 
 **h** /h/ - voiceless glottal fricative
 - articulatory specification: open glottis with voiceless airstream
@@ -58,19 +58,19 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - articulatory specification: tongue tip vibration (trill) or single contact (tap)
 - acoustic characteristics: periodic energy with rapid formant transitions
 - cross-linguistic status: trill/tap distinction occurs in 35% of languages
-- phi examples: pheru (trust), shoru (set fire)
+- phi examples: whera (learn), shoru (set fire)
 
 **l** /l/ - alveolar lateral approximant
 - articulatory specification: tongue tip contact, lateral airstream
 - acoustic characteristics: steady formant structure with lateral resonance
 - cross-linguistic status: found in 75% of world languages  
-- phi examples: lophu (deep), li (past)
+- phi examples: walime (outside), li (past)
 
 **w** /w/ - labial-velar approximant
 - articulatory specification: simultaneous lip rounding and velar approximation
 - acoustic characteristics: rapid formant transitions, especially F2/F3
 - cross-linguistic status: found in 70% of world languages
-- phi examples: whami (rain), whera (learn)
+- phi examples: wanume (well), wathe (bad)
 
 ## fricative digraph articulation
 
@@ -81,7 +81,7 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - acoustic characteristics: low-frequency turbulence 1000-3000Hz
 - cross-linguistic status: occurs in 15% of languages, marked but learnable
 - production note: distinct from labiodental /f/ in most languages
-- phi examples: phamu (spend), phuithui (mud)
+- phi examples: pheno (explain), phera (be)
 
 ### dental fricative system
 
@@ -90,7 +90,7 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - acoustic characteristics: mid-frequency turbulence 2000-5000Hz
 - cross-linguistic status: occurs in 8% of languages, marked articulation
 - production note: identical to english "thin" (not "this")
-- phi examples: thunu (finish), thueta (that)
+- phi examples: thephoa (person), thueta (that)
 
 ### postalveolar fricative system
 
@@ -108,7 +108,7 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - acoustic characteristics: voiceless approximant with turbulence
 - cross-linguistic status: occurs in 5% of languages, highly marked
 - production note: preserved in some english dialects ("which" vs "witch")
-- phi examples: whami (rain), wheupha (tree)
+- phi examples: whera (learn), whethea (book)
 
 ## vowel articulation system
 
@@ -124,7 +124,7 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - articulatory specification: tongue high-back, lips rounded
 - acoustic characteristics: F1 ~300Hz, F2 ~800Hz
 - cross-linguistic status: found in 88% of world languages
-- phi examples: haephui (dune), thunu (finish)
+- phi examples: shoru (burn), tushe (good)
 
 ### mid vowel subsystem
 
@@ -133,14 +133,14 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - acoustic characteristics: F1 ~500Hz, F2 ~1800Hz
 - cross-linguistic status: true mid vowels in 45% of languages
 - production note: avoid english /eɪ/ diphthong
-- phi examples: wheupha (tree), thephoa (person)
+- phi examples: whera (learn), thephoa (person)
 
 **o** /o̞/ - mid back rounded vowel
 - articulatory specification: tongue mid-back, lips rounded
 - acoustic characteristics: F1 ~500Hz, F2 ~1000Hz
 - cross-linguistic status: true mid vowels in 45% of languages
 - production note: avoid english /oʊ/ diphthong
-- phi examples: lophu (deep), mipho (blue)
+- phi examples: shose (see), mipho (blue)
 
 ### open vowel subsystem
 
@@ -149,7 +149,7 @@ phi's phonetic design integrates universal articulatory principles with systemat
 - acoustic characteristics: F1 ~700Hz, F2 ~1300Hz
 - cross-linguistic status: found in 95% of world languages
 - production note: central not front, avoid english /æ/
-- phi examples: phamu (spend), hashe (green)
+- phi examples: shata (answer), hashe (green)
 
 ## vowel sequence articulation
 
@@ -166,17 +166,17 @@ phi vowel pairs maintain distinct articulatory specifications without gliding tr
 **ia** /i.a/ - close front to open central
 - articulation: full /i/ followed by full /a/ with articulatory reset
 - acoustic pattern: distinct F1/F2 patterns without transitional formants
-- phi examples: phiato (this), whaesa (what)
+- phi examples: phiato (this), mia (me/I)
 
 **ue** /u.e/ - close back to mid front
 - articulation: rounded to unrounded with complete articulatory change
 - acoustic pattern: F2 rise without gliding intermediate frequencies
-- phi examples: thueta (that), nueshe (which)
+- phi examples: thueta (that), phue (seven)
 
 **ao** /a.o/ - open central to mid back
 - articulation: unrounded to rounded with maintained tongue position
 - acoustic pattern: F2 lowering with distinct vowel qualities
-- phi examples: shoata (all), phaome (consider)
+- phi examples: rao (animals), shao (until)
 
 ## prosodic articulation system
 
@@ -196,11 +196,13 @@ phi stress patterns follow systematic articulatory specifications:
 
 ## usage examples
 
+Note: The examples below showcase phonetic transcription and may not represent typical or meaningful phi sentences.
+
 ### basic phonetic transcription
 
 ```
-mia whethea phose
-/ˈmi.a ʍe.ˈθe.a ˈpho.se/
+mia whethea shose
+/ˈmi.a ʍe.ˈθe.a ˈʃo.se/
 "i see book"
 ```
 
@@ -213,23 +215,23 @@ sha li whera
 ### fricative digraph demonstration
 
 ```
-phamu wheupha thunu
-/ˈpʰa.mu ˈʍeu.pʰa ˈθu.nu/
-"spend tree finish"
+pheno whera whuli
+/ˈɸe.no ˈʍe.ra ˈʍu.li/
+"explain learn finish"
 ```
 
 ```
-shoru na thanu phose
-/ˈʃo.ru ˈna ˈθa.nu ˈpho.se/
-"set.fire object mountain see"
+shoru na whethea shose
+/ˈʃo.ru ˈna ʍe.ˈθe.a ˈʃo.se/
+"burn object book see"
 ```
 
 ### vowel hiatus articulation
 
 ```
-haephui thuirae phera
-/ha.ˈeph.ui θu.ˈi.rae ˈpʰe.ra/
-"dune house be"
+hiwhea phiato phera
+/hi.ˈʍe.a ɸi.ˈa.to ˈpʰe.ra/
+"house this be"
 ```
 
 ```

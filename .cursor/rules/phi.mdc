@@ -24,6 +24,7 @@ when generating, analyzing, or discussing phi:
 - F = fricative digraphs: ph, wh, th, sh
 - V = vowels: i, u, e, o, a
 - P = vowel pairs: any combination of two vowels except identical pairs (ii, uu, etc.)
+     *Note: Vowel pairs MUST occur in adjacent pairs, e.g. `ao`, not `atero`*
 
 ## SYLLABLE STRUCTURE
 

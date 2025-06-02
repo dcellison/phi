@@ -20,7 +20,7 @@ phi uses systematic particles to explicitly mark semantic relationships, ensurin
 - **aspectual distinctions**: `ni` (perfective) and `ri` (imperfective) particles clearly delineate the internal temporal structure of situations.
 - **modal meanings**: particles like `ra` (necessity), `se` (possibility), `we` (ability), `wo` (prohibition), and `lu` (conditional) explicitly encode modal concepts.
 - **spatial relations**: prepositions (e.g., `phia` - in, `wheo` - at, `shio` - from) systematically define locative and directional relationships.
-- **logical connections**: conjunctions (e.g., `nene` - and, `woma` - or, `matu` - after) explicitly mark the logical relationships between clauses and phrases.
+- **logical connections**: conjunctions (e.g., `nene` - and, `wiho` - or, `matu` - after) explicitly mark the logical relationships between clauses and phrases.
 - **quantificational scope**: particles and determiners (e.g., `shoata` - all, `sheapa` - some, `lo` - plural) clearly define the scope and quantity of nominal referents.
 
 ### syntactic-semantic interface
@@ -30,7 +30,7 @@ phi's SOV (subject-object-verb) word order and phonotactic cues for grammatical 
 phi addresses core lexical semantic relationships through its design:
 
 - **synonymy**: achieved through distinct lexical items that share core conceptual features, with subtle differences often tied to specific phonotactic nuances within a word class if desired, or through pragmatic context.
-- **antonymy**: expressed by separate lexical items with opposing core meanings (e.g., `tophe` - big, `sesu` - small [hypothetical]).
+- **antonymy**: expressed by separate lexical items with opposing core meanings (e.g., `tophe` - big, `waphi` - small).
 - **hyponymy/hypernymy**: managed through lexical specificity; a general term (hypernym) and more specific terms (hyponyms) are distinct nouns.
 - **meronymy**: part-whole relationships are expressed through possessive constructions or specific relational nouns if needed.
 
@@ -52,7 +52,7 @@ phi's design principles aim to minimize semantic ambiguity:
 
 ### basic semantic composition
 ```
-mia li na whethea phose
+mia li na whethea shose
 i past OBJ book see
 "i saw the book"
 (composition: past(see(i, book)))
@@ -60,7 +60,7 @@ i past OBJ book see
 
 ### modal and temporal interaction
 ```
-sha su ra whethea phina
+sha su ra whethea whina
 it/he/she future NEC book find
 "s/he will have to find the book"
 (composition: future(must(find(s/he, book))))
@@ -68,15 +68,15 @@ it/he/she future NEC book find
 
 ### quantification and negation
 ```
-lo thephoa me na whethea phose
+lo thephoa me na whethea shose
 PL person NEG OBJ book see
 "people do not see the book" / "no people see the book"
 (composition: not(see(people, book)) or for-all(x) if person(x) then not(see(x,book)))
 ```
 
-### complex semantic relationships (hypothetical)
+### complex semantic relationships
 ```
-wetu mia whera matu mia thophu
+wetu mia whera matu mia shule
 if i learn after i understand
 "if i learn, then i understand" (lit: if i learn, after i understand)
 ```

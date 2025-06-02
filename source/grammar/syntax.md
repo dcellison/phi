@@ -14,33 +14,33 @@ this approach provides a syntactic system where grammatical relationships remain
 phi maintains consistent subject-object-verb ordering across all sentence types:
 
 ```
-mia whothea phusu
-1SG food    cook
-"i cook food"
+mia noshea thewo
+1SG food   prepare
+"i prepare food"
 ```
 
 **basic pattern**: subject + object + verb, with particles added when role clarification is needed through explicit grammatical marking.
 
 ```
-si   mia na  whothea te   phusu
-SUBJ 1SG OBJ food    VERB cook
-"i cook food" (with explicit marking)
+si   mia na  noshea te   thewo
+SUBJ 1SG OBJ food   VERB prepare
+"i prepare food" (with explicit marking)
 ```
 
 **modifier positioning**: adjectives precede nouns, determiners precede noun phrases, and adverbials precede verbs, maintaining consistent head-final organization across all constituent types.
 
 ```
-thueta mipha    whothea tapine  phusu
-that   beautiful food    quickly cook
-"quickly cook that beautiful food"
+thueta tushe    noshea napine  thewo
+that   good     food   quickly prepare
+"quickly prepare that good food"
 ```
 
 **complement organization**: verbal complements position before main predicates, with subordinate clauses following explicit particle marking for transparent structural relationships.
 
 ```
-mia na  whothea phusu whemo
-1SG OBJ food    cook  think
-"i think (that i) cook food"
+mia na  noshea thewo whemo
+1SG OBJ food   prepare think
+"i think (that i) prepare food"
 ```
 
 ### head-final consistency
@@ -49,24 +49,24 @@ phi extends head-final organization across all phrasal types:
 **noun phrases**: (determiner) (quantifier) (adjective) noun pattern with consistent modifier-before-head organization.
 
 ```
-thueta whu mipha    whothea
-that   two beautiful food
-"those two beautiful foods"
+thueta whu tushe    noshea
+that   two good     food
+"those two good foods"
 ```
 
 **verb phrases**: auxiliary and modal particles precede main verbs, maintaining head-final patterns throughout verbal constructions.
 
 ```
-mia ra   se  na  whothea phusu
-1SG must can OBJ food    cook
-"i must be able to cook food"
+mia ra   se  na  noshea thewo
+1SG must can OBJ food   prepare
+"i must be able to prepare food"
 ```
 
 **prepositional phrases**: phi uses postpositions rather than prepositions, following the head-final pattern where the relational element follows its complement.
 
 ```
-wheupha wheo = "at tree" (tree + at)
-thuira  thau = "like house" (house + like)
+liphai wheo = "at tree" (tree + at)
+hiwhea thau = "like house" (house + like)
 ```
 
 ## particle-based marking
@@ -77,29 +77,29 @@ phi employs explicit particles for core grammatical relationships:
 **subject marking**: `si` explicitly identifies subject constituents when context requires clarification.
 
 ```
-basic:    mia whothea phusu
-          1SG food    cook
-explicit: si   mia na  whothea te   phusu
-          SUBJ 1SG OBJ food    VERB cook
-"i cook food"
+basic:    mia noshea thewo
+          1SG food   prepare
+explicit: si   mia na  noshea te   thewo
+          SUBJ 1SG OBJ food   VERB prepare
+"i prepare food"
 ```
 
 **object marking**: `na` marks direct objects to eliminate ambiguity in complex sentences.
 
 ```
-ambiguous context: mia thephoa whothea phanu
-                   1SG person  food    give
-explicit marking:  mia na  thephoa whothea phanu
-                   1SG OBJ person  food    give
+ambiguous context: mia thephoa noshea whiwo
+                   1SG person  food   give
+explicit marking:  mia na  thephoa noshea whiwo
+                   1SG OBJ person  food   give
 "i give food to the person"
 ```
 
 **verb marking**: `te` identifies verbal constituents in contexts where multiple verbs might create structural confusion.
 
 ```
-mia na  whothea te   phusu te   whemo
-1SG OBJ food    VERB cook  VERB think
-"i think about cooking food"
+mia na  noshea te   thewo te   whemo
+1SG OBJ food   VERB prepare VERB think
+"i think about preparing food"
 ```
 
 ### discourse organization particles
@@ -108,37 +108,37 @@ systematic particles manage information structure and discourse flow:
 **topic marking**: `ha` explicitly identifies topic constituents, enabling clear topic-comment structure organization.
 
 ```
-whothea ha  mia li  phusu
-food    TOP 1SG PST cook
-"as for food, i cooked (it)"
+noshea  ha  mia li  thewo
+food    TOP 1SG PST prepare
+"as for food, i prepared (it)"
 ```
 
 **focus marking**: `nu` highlights focused information, providing explicit prominence marking independent of word order variation.
 
 ```
-nu  mia whothea phusu
-FOC 1SG food    cook
-"*i* cook food" (emphasis on subject)
+nu  mia noshea thewo
+FOC 1SG food   prepare
+"*i* prepare food" (emphasis on subject)
 
-mia nu  whothea phusu
-1SG FOC food    cook
-"i cook *food*" (emphasis on object)
+mia nu  noshea thewo
+1SG FOC food   prepare
+"i prepare *food*" (emphasis on object)
 ```
 
 **emphasis marking**: `ma` intensifies speaker commitment to particular constituents or propositions.
 
 ```
-mia ma   whothea phusu
-1SG EMPH food    cook
-"i really do cook food"
+mia ma   noshea thewo
+1SG EMPH food   prepare
+"i really do prepare food"
 ```
 
 **topic shift marking**: `ho` signals transitions between discourse topics, supporting coherent information flow.
 
 ```
-whothea ha  mia phusu. ho    whethea ha  sha phose
-food    TOP 1SG cook.  SHIFT book    TOP 3SG see
-"i cook food. speaking of books, he sees (it)"
+noshea  ha  mia thewo. ho    whethea ha  sha shose
+food    TOP 1SG prepare. SHIFT book    TOP 3SG see
+"i prepare food. speaking of books, he sees (it)"
 ```
 
 ### temporal and modal particles
@@ -147,40 +147,40 @@ explicit marking for temporal and modal relationships:
 **tense particles**: `li` (past), `ta` (present), `su` (future) provide systematic temporal marking.
 
 ```
-mia li  whothea phusu = "i cooked food"
-1SG PST food    cook
+mia li  noshea thewo = "i prepared food"
+1SG PST food   prepare
 
-mia ta  whothea phusu = "i cook food"
-1SG PRS food    cook
+mia ta  noshea thewo = "i prepare food"
+1SG PRS food   prepare
 
-mia su  whothea phusu = "i will cook food"
-1SG FUT food    cook
+mia su  noshea thewo = "i will prepare food"
+1SG FUT food   prepare
 ```
 
 **modal particles**: `ra` (necessity), `se` (possibility), `we` (ability), `wo` (prohibition) mark modal relationships.
 
 ```
-mia ra   whothea phusu = "i must cook food"
-1SG must food    cook
+mia ra   noshea thewo = "i must prepare food"
+1SG must food   prepare
 
-mia se  whothea phusu = "i may cook food"
-1SG may food    cook
+mia se  noshea thewo = "i may prepare food"
+1SG may food   prepare
 
-mia we  whothea phusu = "i can cook food"
-1SG can food    cook
+mia we  noshea thewo = "i can prepare food"
+1SG can food   prepare
 
-mia wo   whothea phusu = "i must not cook food"
-1SG PROH food    cook
+mia wo   noshea thewo = "i must not prepare food"
+1SG PROH food   prepare
 ```
 
 **aspect particles**: `ni` (perfective), `ri` (imperfective) indicate aspectual distinctions when needed.
 
 ```
-mia ni  whothea phusu = "i have cooked food" (completed)
-1SG PFV food    cook
+mia ni  noshea thewo = "i have prepared food" (completed)
+1SG PFV food   prepare
 
-mia ri   whothea phusu = "i am cooking food" (ongoing)
-1SG IPFV food    cook
+mia ri   noshea thewo = "i am preparing food" (ongoing)
+1SG IPFV food   prepare
 ```
 
 ## phrase structure
@@ -192,26 +192,26 @@ phi noun phrases follow systematic head-final patterns:
 
 **example constituents**:
 ```
-thueta mipha    wheupha
-that   beautiful tree
-"that beautiful tree"
+thueta tushe    liphai
+that   good     tree
+"that good tree"
 
 lo  phi hashe whethea
 PL  one green book
 "the green books"
 
-whieso teo   whu riphe     thuira
+whieso teo   whu riphe     hiwhea
 which  round two important house
 "which two important round houses"
 ```
 
 **modification patterns**: all modifiers precede the head noun, with determiners in initial position and adjectives in immediate pre-head position.
 
+**complex noun phrase**:
 ```
-complex noun phrase:
-shoata lea  the mipha    ruphe     whethea
-all    long three beautiful important book
-"all three beautiful important long books"
+shoata lea  the tushe    riphe     whethea
+all    long three good     important book
+"all three good important long books"
 ```
 
 ### verb phrase organization
@@ -237,13 +237,13 @@ FUT IPFV learn
 **complement patterns**: object and complement constituents precede the main verb in all constructions.
 
 ```
-mia na  thephoa whothea phanu whemo
-1SG OBJ person  food    give  think
+mia na  thephoa noshea whiwo whemo
+1SG OBJ person  food   give  think
 "i think (that i) give food to person"
 
-sha na  thueta mipha    phera whemo
-3SG OBJ that   beautiful be    think
-"it thinks that (it) is beautiful"
+sha na  thueta tushe phera whemo
+3SG OBJ that   good  be    think
+"it thinks that (it) is good"
 ```
 
 ### complex phrase formation
@@ -252,44 +252,44 @@ phi enables systematic embedding and coordination:
 **embedding**: subordinate clauses and relative constructions follow explicit particle marking for structural clarity.
 
 ```
-simple:   mia whothea phusu
-          1SG food    cook
-embedded: mia na  thueta li  whothea phusu thephoa phose
-          1SG OBJ that   PST food    cook  person  see
-"i see the person who cooked food"
+simple:   mia noshea thewo
+          1SG food   prepare
+embedded: mia na  thueta li  noshea thewo thephoa shose
+          1SG OBJ that   PST food   prepare person  see
+"i see the person who prepared food"
 ```
 
 **coordination**: `nene` (and) connects constituents of the same type, maintaining parallel structure across coordinated elements.
 
 ```
 noun coordination:
-whothea nene whethea
+noshea  nene whethea
 food    and  book
 "food and books"
 
 verb coordination:
-mia whothea phusu nene phose
-1SG food    cook  and  see
-"i cook and see food"
+mia noshea thewo nene shose
+1SG food   prepare and  see
+"i prepare and see food"
 
 clause coordination:
-mia whothea phusu nene sha whethea phose
-1SG food    cook  and  3SG book    see
-"i cook food and it sees books"
+mia noshea thewo nene sha whethea shose
+1SG food   prepare and  3SG book    see
+"i prepare food and it sees books"
 ```
 
 **subordination**: explicit subordinating particles mark dependent clauses and their relationships to main clauses.
 
 ```
 temporal subordination:
-thueta li  whera woma sha li  whemo
+thueta li  whera wane sha li  whemo
 that   PST learn when 3SG PST think
 "when that learned, it thought"
 
 causal subordination:
-whothea mipha    maca    mia phusu
-food    beautiful because 1SG cook
-"because food (is) beautiful, i cook"
+noshea tushe renu    mia thewo
+food   good  because 1SG prepare
+"because food (is) good, i prepare"
 ```
 
 ## question formation
@@ -299,27 +299,27 @@ phi maintains SOV order in questions while using systematic marking:
 
 **yes-no questions**: `wa` particle marks interrogative force while preserving basic word order.
 ```
-statement: mia whothea phusu
-           1SG food    cook
-question:  wa mia whothea phusu
-           Q  1SG food    cook
-"do i cook food?"
+statement: mia noshea thewo
+           1SG food   prepare
+question:  wa mia noshea thewo
+           Q  1SG food   prepare
+"do i prepare food?"
 
-complex:   wa mia li  na  whothea te   phusu
-           Q  1SG PST OBJ food    VERB cook
-"did i cook the food?"
+complex:   wa mia li  na  noshea te   thewo
+           Q  1SG PST OBJ food   VERB prepare
+"did i prepare the food?"
 ```
 
 **wh-questions**: interrogative words maintain SOV pattern with question particles.
 ```
-lua li  whothea phusu = "who cooked food?"
-who PST food    cook
+lua li  noshea thewo = "who prepared food?"
+who PST food   prepare
 
-nua  mia li  phusu = "what did i cook?"
-what 1SG PST cook
+nua  mia li  thewo = "what did i prepare?"
+what 1SG PST prepare
 
-hamite mia whothea phusu = "how do i cook food?"
-how    1SG food    cook
+hamite mia noshea thewo = "how do i prepare food?"
+how    1SG food   prepare
 ```
 
 ### echo questions and focus
@@ -328,27 +328,27 @@ systematic patterns for information-seeking and confirmation:
 **echo patterns**: question particles can emphasize specific constituents for clarification.
 
 ```
-original: mia whothea phusu
-          1SG food    cook
-echo:     wa mia nua  phusu
-          Q  1SG what cook
-"i cook what?" (seeking clarification)
+original: mia noshea thewo
+          1SG food    prepare
+echo:     mia nua  thewo
+          1SG what prepare
+"i prepare what?" (seeking clarification)
 
-echo:     nua  mia whothea phusu
-          what 1SG food    cook
-"what, i cook food?" (disbelief)
+echo:     nua  mia noshea thewo
+          what 1SG food    prepare
+"what, i prepare food?" (disbelief)
 ```
 
 **focus questions**: `nu` focus particle combines with interrogatives for specific information targeting.
 
 ```
-nu  lua li  whothea phusu
-FOC who PST food    cook
-"who specifically cooked food?"
+nu  lua li  noshea thewo
+FOC who PST food    prepare
+"who specifically prepared food?"
 
-lua nu  li  whothea phusu
-who FOC PST food    cook
-"who was it that cooked food?"
+lua nu  li  noshea thewo
+who FOC PST food    prepare
+"who was it that prepared food?"
 ```
 
 ## complex constructions
@@ -360,28 +360,28 @@ phi uses systematic relative clause formation:
 
 ```
 basic relative:
-li  whothea phusu thephoa
-PST food    cook  person
-"person who cooked food"
+li  noshea thewo thephoa
+PST food    prepare  person
+"person who prepared food"
 
 complex relative:
-li  na  thueta mipha    whothea te   phusu thephoa
-PST OBJ that   beautiful food    VERB cook  person
-"person who cooked that beautiful food"
+li  na  thueta tushe    noshea te   thewo thephoa
+PST OBJ that   good food    VERB prepare person
+"person who prepared that good food"
 
 embedded relative:
-mia na  li  whothea phusu thephoa phose
-1SG OBJ PST food    cook  person  see
-"i see the person who cooked food"
+mia na  li  noshea thewo thephoa shose
+1SG OBJ PST food    prepare  person  see
+"i see the person who prepared food"
 ```
 
 **explicit marking**: relative clause boundaries receive clear particle marking to eliminate structural ambiguity.
 
 ```
 marked relative:
-mia na  woma li  whothea phusu thephoa phose
-1SG OBJ when PST food    cook  person  see
-"i see the person when (they) cooked food"
+mia na  woma li  noshea thewo thephoa shose
+1SG OBJ when PST food    prepare  person  see
+"i see the person when (they) prepared food"
 ```
 
 ### conditional structures
@@ -391,28 +391,28 @@ systematic conditional marking through particles:
 
 ```
 simple conditional:
-whothea mipha    lu mia phusu
-food    beautiful if 1SG cook
-"if food (is) beautiful, i cook"
+noshea tushe    lu mia thewo
+food    good if 1SG prepare
+"if food (is) good, i prepare"
 
 complex conditional:
-mia lu na  thueta whothea te   phusu sha su  mipha    phera
-1SG if OBJ that   food    VERB cook  3SG FUT beautiful be
-"if i cook that food, it will be beautiful"
+mia lu na  thueta noshea te   thewo sha su  tushe    phera
+1SG if OBJ that   food    VERB prepare 3SG FUT good be
+"if i prepare that food, it will be good"
 ```
 
 **temporal conditionals**: combination of temporal and conditional particles for complex temporal relationships.
 
 ```
 past conditional:
-mia li  lu whothea phusu sha li  mipha    phera
-1SG PST if food    cook  3SG PST beautiful be
-"if i had cooked food, it would have been beautiful"
+mia li  lu noshea thewo sha li  tushe    phera
+1SG PST if food    prepare  3SG PST good be
+"if i had prepared food, it would have been good"
 
 future conditional:
-sha su  lu whera mia su  we  whothea phusu
-3SG FUT if learn 1SG FUT can food    cook
-"if it learns, i will be able to cook food"
+sha su  lu whera mia su  we  noshea thewo
+3SG FUT if learn 1SG FUT can food    prepare
+"if it learns, i will be able to prepare food"
 ```
 
 ### coordination patterns
@@ -422,28 +422,28 @@ explicit coordination through systematic particle usage:
 
 ```
 adjective coordination:
-mipha    nene hashe whothea
-beautiful and  green food
-"beautiful and green food"
+tushe    nene hashe noshea
+good and  green food
+"good and green food"
 
 adverb coordination:
-tapine  nene walime  whothea phusu
-quickly and  outside food    cook
-"cook food quickly and outside"
+napine  nene walime  noshea thewo
+quickly and  outside food    prepare
+"prepare food quickly and outside"
 ```
 
 **clause coordination**: sentence-level coordination maintains explicit marking for discourse relationships.
 
 ```
 sequential coordination:
-mia whothea phusu nene sha whethea phose nene lo  thephoa whemo
-1SG food    cook  and  3SG book    see   and  PL  person  think
-"i cook food and it sees books and people think"
+mia noshea thewo nene sha whethea shose nene lo  thephoa whemo
+1SG food    prepare  and  3SG book    see   and  PL  person  think
+"i prepare food and it sees books and people think"
 
 contrastive coordination:
-mia whothea phusu mi  sha me  whethea phose
-1SG food    cook  but 3SG NEG book    see
-"i cook food but it doesn't see books"
+mia noshea thewo mi  sha me  whethea shose
+1SG food    prepare  but 3SG NEG book    see
+"i prepare food but it doesn't see books"
 ```
 
 ## processing advantages
@@ -454,32 +454,32 @@ phi's syntactic design supports systematic processing:
 
 ```
 processing advantage example:
-mia na  thueta mipha    hashe...
-1SG OBJ that   beautiful green...
+mia na  thueta tushe    hashe...
+1SG OBJ that   good green...
 → listener expects noun to complete phrase
 
-...whothea te...
+...noshea te...
 ...food    VERB...
 → listener expects verb to complete clause
 
-...phusu
-...cook
-→ complete interpretation: "i cook that beautiful green food"
+...thewo
+...prepare
+→ complete interpretation: "i prepare that good green food"
 ```
 
 **explicit relationship marking**: particle-based marking eliminates structural ambiguity and reduces processing load through transparent grammatical relationships.
 
 ```
 ambiguous without particles:
-mia thephoa whothea phanu
+mia thephoa noshea whiwo
 1SG person  food    give
 → could be "i give person food" or "i give food person"
 
 unambiguous with particles:
-mia na  thephoa whothea phanu = "i give food to person"
+mia na  thephoa noshea whiwo = "i give food to person"
 1SG OBJ person  food    give
 
-mia thephoa na  whothea phanu = "i give person food"
+mia thephoa na  noshea whiwo = "i give person food"
 1SG person  OBJ food    give
 ```
 
@@ -493,11 +493,11 @@ mia → "i" (subject established)
 mia na → "i...object" (object role marked)
 1SG OBJ
 
-mia na  whothea → "i...food" (object identified)
+mia na  noshea → "i...food" (object identified)
 1SG OBJ food
 
-mia na  whothea phusu → "i cook food" (complete interpretation)
-1SG OBJ food    cook
+mia na  noshea thewo → "i prepare food" (complete interpretation)
+1SG OBJ food    prepare
 ```
 
 ## conclusion

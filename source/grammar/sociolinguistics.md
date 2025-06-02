@@ -13,17 +13,21 @@ this approach creates a sociolinguistic system where social meaning is transpare
 ### explicit social marking
 phi encodes social functions through dedicated particles that provide systematic marking for relationships traditionally conveyed through sociolinguistic variation:
 
-**politeness marking**: the particle `so` explicitly encodes social consideration and respect, providing systematic politeness marking independent of cultural hierarchy assumptions.
+**politeness marking**: phi achieves politeness functions through explicit adverbial modification rather than particles, providing systematic social consideration encoding independent of cultural hierarchy assumptions.
+  *e.g., `mia polite na whethea shose.` (I politely OBJ book see) - "I politely see the book."*
+  *e.g., `mia rusane na whethea shose.` (I respectfully OBJ book see) - "I respectfully see the book."*
 
 **discourse management**: systematic particles organize social aspects of communication:
 - `ha` (topic marking): explicit identification of discourse topics
 - `mi` (contrast marking): systematic marking of oppositional relationships
 - `ho` (topic shift marking): explicit transitions between discourse topics  
 - `po` (attention marking): systematic direction of interlocutor attention
+  *e.g., `po mia whethea shose.` (ATTN I book see) - "Hey! / Listen! I see the book."*
 
 **emphasis and focus**: particles provide explicit marking for social prominence:
 - `ma` (emphasis marking): systematic intensification of speaker commitment
 - `nu` (focus marking): explicit identification and highlighting of important information
+  *e.g., `mia whethea nu shose.` (I book FOCUS see) - "It's the _book_ that I see."*
 
 **evidentiality and authority**: phi particles explicitly mark epistemic relationships between speakers:
 - `hi` (direct evidence): marks information based on direct speaker experience

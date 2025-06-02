@@ -171,6 +171,12 @@ the phi noun system reflects four core principles validated through cross-lingui
 | luthui   | wisdom              |
 | sophui   | truth               |
 
+### essential consumables (1 noun)
+
+| phi word | english translation |
+| -------- | ------------------- |
+| noshea | food |
+
 ## usage examples
 
 ### basic noun phrases

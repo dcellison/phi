@@ -6402,5 +6402,19 @@
       "sh"
     ],
     "vowel_pairs": []
+  },
+  "noshea": {
+    "pos": "noun",
+    "translation": "food",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential consumables",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
   }
 }

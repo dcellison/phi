@@ -18,7 +18,9 @@ phi's evidentiality system exemplifies systematic pragmatic explicitness through
 **systematic authority distinction**: phi evidentiality particles explicitly mark knowledge authority relationships between speech participants, eliminating cultural assumptions about information reliability:
 
 - `hi` (direct evidence): speaker claims primary epistemic access through direct experience
+  *e.g., `mia hi whethea shose` (I DIR.EVID book see) - "I (saw it myself and know I) see the book."*
 - `ro` (inferential evidence): speaker claims secondary epistemic access through systematic reasoning
+  *e.g., `mia ro whethea shose` (I INFER book see) - "I (deduce that I) see the book."*
 
 phi's minimal evidentiality system focuses on the most fundamental epistemic distinction found cross-linguistically: direct versus inferential access to information. this binary system provides essential evidential marking while maintaining systematic simplicity and learnability. This may be expanded in future.
 
@@ -27,6 +29,7 @@ phi's minimal evidentiality system focuses on the most fundamental epistemic dis
 **discourse organization particles**: phi employs systematic markers for functions achieved through pragmatic inference in natural languages:
 
 - `ha` (topic marking): explicit topic-comment boundary identification
+  *e.g., `mia ha whethea shose` (I TOP book see) - "As for me, I see the book."*
 - `mi` (contrastive marking): systematic contrast relationship encoding
 - `ho` (topic shift marking): explicit discourse transition identification
 - `po` (attention marking): systematic attention direction encoding
@@ -34,6 +37,7 @@ phi's minimal evidentiality system focuses on the most fundamental epistemic dis
 **emphasis and focus particles**: systematic encoding of discourse prominence traditionally conveyed through prosodic or positional marking:
 
 - `ma` (emphasis marking): systematic speaker commitment intensification
+  *e.g., `mia ma whethea shose` (I EMPH book see) - "I *do* see the book."*
 - `nu` (focus marking): explicit focus identification and highlighting
 
 **comparison particles**: systematic encoding of degree relationships traditionally conveyed through morphological or syntactic means:
@@ -47,9 +51,19 @@ phi's minimal evidentiality system focuses on the most fundamental epistemic dis
 - `me` (negation marking): explicit negative polarity encoding
 - `to` (affirmation marking): systematic positive stance reinforcement
 
-**additional pragmatic particles**: systematic encoding of social and epistemic relationships:
+### adverbial politeness system
+phi achieves politeness functions through explicit adverbial modification rather than pragmatic particles, following the systematic explicitness principle:
 
-- `so` (politeness marking): explicit social consideration encoding (documented in other phi materials)
+**manner-based politeness encoding**: social consideration receives explicit grammatical expression through dedicated adverbs:
+
+- `polite` (politely): explicit polite manner marking
+  *e.g., `mia polite whethea shose` (I politely book see) - "I politely see the book."*
+- `rusane` (respectfully): systematic respectful manner encoding  
+  *e.g., `mia rusane whethea shose` (I respectfully book see) - "I respectfully see the book."*
+- `namite` (informally): explicit informal manner identification
+  *e.g., `mia namite whethea shose` (I informally book see) - "I informally see the book."*
+
+this adverbial approach eliminates cultural assumptions about appropriate social distance by requiring speakers to explicitly encode their intended social stance through manner modification rather than relying on contextual inference or cultural politeness conventions.
 
 ### explicit interaction management
 phi systematic approach extends to conversational organization traditionally governed by pragmatic inference:
