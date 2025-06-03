@@ -187,8 +187,8 @@ Blue book
 ```
 
 ```
-whothea si phiphea shose
-mother SBJ child see
+si whothea phiphea shose
+SBJ mother child see
 Mother sees child
 ```
 

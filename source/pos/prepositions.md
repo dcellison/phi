@@ -109,35 +109,35 @@ I go to the shop
 ```
 
 ```
-sha na noshea phau thewo
-3SG OBJ food through prepare
-It prepares through the food
+mia phau shuthai sharo
+1SG through forest go
+I go through the forest
 ```
 
 ### temporal relationships
 ```
-lo lawhui shea mia whema
-PL time before 1SG come
-I come before times
+mia shea sha whema
+1SG before 3SG come
+I come before him/her
 ```
 
 ```
-whu phitha thuo mia whera
-two ten during 1SG learn
-I learn during twenty
+mia thuo thashoa whera
+1SG during day learn
+I learn during the day
 ```
 
 ### logical connections
 ```
-mia thio whethea whina
-1SG by book find
-I find by book
+mia thio whethea whera
+1SG by book learn
+I learn by book
 ```
 
 ```
-sha phiu mia whemo
-3SG with 1SG think
-I think with it
+mia phiu sha thuwhia
+1SG with 3SG work
+I work with him/her
 ```
 
 ## cross-linguistic validation
@@ -167,28 +167,28 @@ phi's `[F][P]` pattern ensures immediate recognition while providing 80 possible
 ```
 mia na whethea phia hiwhea shose
 1SG OBJ book in house see
-I see book in house
+I see the book in the house
 ```
 
 **Natural form:**
 ```
 whethea phia hiwhea shose
 book in house see
-See book in house
+See the book in the house
 ```
 
 **Full form:**
 ```
-sha shio thueta whema
-3SG from that come
-It comes from that
+sha shio monite whema
+3SG from there come
+It comes from there
 ```
 
 **Natural form:**
 ```
-shio thueta whema
-from that come
-Come from that
+shio monite whema
+from there come
+Come from there
 ```
 
 **beginner-friendly usage**: 
