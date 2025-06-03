@@ -22,6 +22,10 @@ phi interjections follow cross-linguistic patterns found in world languages whil
 | wowou    | wow (amazement)     |
 | hihei    | hey (attention)     |
 | tatau    | alas (sorrow)       |
+| hapai | Ouch! (pain/discomfort) |
+| lalae | Yay! (joy/delight) |
+| piwai | Phew! (relief) |
+| tutio | Ugh! (disgust/revulsion) |
 
 **cognitive expressions**:
 | phi word | english translation |
@@ -30,6 +34,9 @@ phi interjections follow cross-linguistic patterns found in world languages whil
 | rurua    | hmm (thinking)      |
 | seseo    | huh (confusion)     |
 | lelei    | ooh (understanding) |
+| rawae | Really? (doubt/skepticism) |
+| nanio | Um.../Er... (hesitation) |
+| hipuo | Oops! / Whoops! (minor error) |
 
 ### essential conative interjections (4 interjections)
 *directed at others for attention or response*
@@ -40,6 +47,9 @@ phi interjections follow cross-linguistic patterns found in world languages whil
 | hasou    | shh (requesting silence) |
 | wepau    | hey (calling out)   |
 | pohoi    | oi (demanding attention) |
+| hotai | Watch out! / Look out! (warning) |
+| tuwai | Go on! / Proceed! |
+| sapai | Stop! / Wait! / Hold on! |
 
 ### essential phatic interjections (4 interjections)
 *maintaining communicative contact*
@@ -50,6 +60,11 @@ phi interjections follow cross-linguistic patterns found in world languages whil
 | nehiu    | uh-huh (agreement)  |
 | papou    | yeah (affirmation)  |
 | lohau    | well (transitioning) |
+| welai | Hello / Hi (greeting) |
+| lowai | Bye / Goodbye (farewell) |
+| tamio | Thanks / Thank you (gratitude) |
+| pilei | Please (polite request) |
+| satua | Excuse me / Pardon me |
 
 ## usage examples
 

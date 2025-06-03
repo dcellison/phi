@@ -801,21 +801,6 @@
       "ui"
     ]
   },
-  "shuthai": {
-    "pos": "noun",
-    "translation": "forest",
-    "source_file": "nouns.md",
-    "pattern": "FVFP",
-    "syllables": 3,
-    "category": "essential places and landforms",
-    "digraphs": [
-      "sh",
-      "th"
-    ],
-    "vowel_pairs": [
-      "ai"
-    ]
-  },
   "lathea": {
     "pos": "noun",
     "translation": "river",
@@ -857,21 +842,6 @@
     ],
     "vowel_pairs": [
       "ai"
-    ]
-  },
-  "whethui": {
-    "pos": "noun",
-    "translation": "sky",
-    "source_file": "nouns.md",
-    "pattern": "FVFP",
-    "syllables": 3,
-    "category": "essential places and landforms",
-    "digraphs": [
-      "wh",
-      "th"
-    ],
-    "vowel_pairs": [
-      "ui"
     ]
   },
   "huphai": {
@@ -6415,6 +6385,3167 @@
     ],
     "vowel_pairs": [
       "ea"
+    ]
+  },
+  "hisha": {
+    "pos": "adjective",
+    "translation": "different",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "pisau": {
+    "pos": "interjection",
+    "translation": "psst (getting attention)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "au"
+    ]
+  },
+  "hasou": {
+    "pos": "interjection",
+    "translation": "shh (requesting silence)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ou"
+    ]
+  },
+  "wepau": {
+    "pos": "interjection",
+    "translation": "hey (calling out)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "au"
+    ]
+  },
+  "pohoi": {
+    "pos": "interjection",
+    "translation": "oi (demanding attention)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "oi"
+    ]
+  },
+  "tumea": {
+    "pos": "interjection",
+    "translation": "mhm (acknowledgment)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "nehiu": {
+    "pos": "interjection",
+    "translation": "uh-huh (agreement)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "iu"
+    ]
+  },
+  "papou": {
+    "pos": "interjection",
+    "translation": "yeah (affirmation)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ou"
+    ]
+  },
+  "lohau": {
+    "pos": "interjection",
+    "translation": "well (transitioning)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "au"
+    ]
+  },
+  "tusha": {
+    "pos": "adjective",
+    "translation": "fragrant / good-smelling",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "Essential Sensory Qualities",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "washa": {
+    "pos": "adjective",
+    "translation": "foul / bad-smelling",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "Essential Sensory Qualities",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "lewha": {
+    "pos": "adjective",
+    "translation": "clear",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "sethe": {
+    "pos": "adjective",
+    "translation": "possible",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "hotha": {
+    "pos": "adjective",
+    "translation": "open",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "mapha": {
+    "pos": "adjective",
+    "translation": "ready",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "tothe": {
+    "pos": "adjective",
+    "translation": "wrong / incorrect",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "moshe": {
+    "pos": "adjective",
+    "translation": "common / prevalent",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "nushe": {
+    "pos": "adjective",
+    "translation": "natural / not artificial",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "metha": {
+    "pos": "adjective",
+    "translation": "dead / not alive",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "letha": {
+    "pos": "adjective",
+    "translation": "alive / living",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "lutha": {
+    "pos": "adjective",
+    "translation": "unclear / obscure",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "hophu": {
+    "pos": "adjective",
+    "translation": "closed / shut",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "mewha": {
+    "pos": "adjective",
+    "translation": "uncommon / rare",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "nushi": {
+    "pos": "adjective",
+    "translation": "artificial / man-made",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "teshu": {
+    "pos": "adjective",
+    "translation": "incomplete",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "rosha": {
+    "pos": "adjective",
+    "translation": "pink",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential colors",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "suwhe": {
+    "pos": "adjective",
+    "translation": "surprised",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "susha": {
+    "pos": "adjective",
+    "translation": "disgusted",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "lowhe": {
+    "pos": "adjective",
+    "translation": "curious",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "posha": {
+    "pos": "adjective",
+    "translation": "patient",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "poshi": {
+    "pos": "adjective",
+    "translation": "impatient",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "lipha": {
+    "pos": "adjective",
+    "translation": "interested / engaged",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "mushe": {
+    "pos": "adjective",
+    "translation": "bored",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "wathu": {
+    "pos": "adjective",
+    "translation": "alert / energetic / rested",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential emotional and personality",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "lophe": {
+    "pos": "adjective",
+    "translation": "long",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sizes and shapes",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "lophu": {
+    "pos": "adjective",
+    "translation": "deep",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sizes and shapes",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "lophi": {
+    "pos": "adjective",
+    "translation": "shallow",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sizes and shapes",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "hoshe": {
+    "pos": "adjective",
+    "translation": "hollow",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sizes and shapes",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "sothe": {
+    "pos": "adjective",
+    "translation": "solid",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sizes and shapes",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "tiphe": {
+    "pos": "adjective",
+    "translation": "tight",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "tipho": {
+    "pos": "adjective",
+    "translation": "loose",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "wipha": {
+    "pos": "adjective",
+    "translation": "strong (physical)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "hipha": {
+    "pos": "adjective",
+    "translation": "weak (physical)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "sitha": {
+    "pos": "adjective",
+    "translation": "fast (physical speed)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "titho": {
+    "pos": "adjective",
+    "translation": "slow (physical speed)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential physical qualities",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "sutha": {
+    "pos": "adjective",
+    "translation": "certain / sure",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "suthi": {
+    "pos": "adjective",
+    "translation": "uncertain / doubtful",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "resha": {
+    "pos": "adjective",
+    "translation": "necessary / essential",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "mipha": {
+    "pos": "adjective",
+    "translation": "beautiful / pretty",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "miphi": {
+    "pos": "adjective",
+    "translation": "ugly",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "lishe": {
+    "pos": "adjective",
+    "translation": "interesting (quality)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "lisho": {
+    "pos": "adjective",
+    "translation": "boring / uninteresting (quality)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential evaluative",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "hiphe": {
+    "pos": "adjective",
+    "translation": "early",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "hipho": {
+    "pos": "adjective",
+    "translation": "late",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "rithe": {
+    "pos": "adjective",
+    "translation": "recent",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "sisha": {
+    "pos": "adjective",
+    "translation": "quick / immediate (temporal)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "soshi": {
+    "pos": "adjective",
+    "translation": "brief (short time)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "peshe": {
+    "pos": "adjective",
+    "translation": "permanent",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "pesho": {
+    "pos": "adjective",
+    "translation": "temporary",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "mutha": {
+    "pos": "adjective",
+    "translation": "earthy (smell/taste)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sensory qualities",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "sopha": {
+    "pos": "adjective",
+    "translation": "burnt (smell/taste)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential sensory qualities",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "hopha": {
+    "pos": "adjective",
+    "translation": "whole / entire",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "pitha": {
+    "pos": "adjective",
+    "translation": "single (sole/only one)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "tasha": {
+    "pos": "adjective",
+    "translation": "present (not absent)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "tashi": {
+    "pos": "adjective",
+    "translation": "absent (not present)",
+    "source_file": "adjectives.md",
+    "pattern": "CVFV",
+    "syllables": 2,
+    "category": "essential quantity and state",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "mateno": {
+    "pos": "adverb",
+    "translation": "today",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "mateni": {
+    "pos": "adverb",
+    "translation": "tonight",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "lowane": {
+    "pos": "adverb",
+    "translation": "later",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "pinate": {
+    "pos": "adverb",
+    "translation": "first (in sequence)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "minate": {
+    "pos": "adverb",
+    "translation": "last (in sequence)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "hipeto": {
+    "pos": "adverb",
+    "translation": "early (adverbial)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "hipoto": {
+    "pos": "adverb",
+    "translation": "late (adverbial)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "riteno": {
+    "pos": "adverb",
+    "translation": "recently",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "honume": {
+    "pos": "adverb",
+    "translation": "forward(s)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "honupi": {
+    "pos": "adverb",
+    "translation": "backward(s)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "netore": {
+    "pos": "adverb",
+    "translation": "near / close by",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "netori": {
+    "pos": "adverb",
+    "translation": "far / far away",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "lawine": {
+    "pos": "adverb",
+    "translation": "left (direction/side)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "rawine": {
+    "pos": "adverb",
+    "translation": "right (direction/side)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "sunite": {
+    "pos": "adverb",
+    "translation": "around (adverbial)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "wanome": {
+    "pos": "adverb",
+    "translation": "away (from a place)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential spatial",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "selumo": {
+    "pos": "adverb",
+    "translation": "easily",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "tuleno": {
+    "pos": "adverb",
+    "translation": "difficultly / with difficulty",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "miweno": {
+    "pos": "adverb",
+    "translation": "secretly",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "miwepo": {
+    "pos": "adverb",
+    "translation": "openly / publicly (manner)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "hapone": {
+    "pos": "adverb",
+    "translation": "accidentally / by chance",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "haponi": {
+    "pos": "adverb",
+    "translation": "intentionally / on purpose",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "tolino": {
+    "pos": "adverb",
+    "translation": "alone / separately (manner)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "namito": {
+    "pos": "adverb",
+    "translation": "formally",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential manner",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "pinome": {
+    "pos": "adverb",
+    "translation": "once",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential frequency",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "wunome": {
+    "pos": "adverb",
+    "translation": "twice",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential frequency",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "tupeno": {
+    "pos": "adverb",
+    "translation": "too (excessively)",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential degree",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "netumo": {
+    "pos": "adverb",
+    "translation": "quite / rather / fairly",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential degree",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "wituno": {
+    "pos": "adverb",
+    "translation": "otherwise",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential logical",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "solito": {
+    "pos": "adverb",
+    "translation": "specifically / particularly",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential logical",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "hineto": {
+    "pos": "adverb",
+    "translation": "indeed",
+    "source_file": "adverbs.md",
+    "pattern": "CVCVCV",
+    "syllables": 3,
+    "category": "essential logical",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "nie": {
+    "pos": "classifier",
+    "translation": "pointed objects",
+    "source_file": "classifiers.md",
+    "pattern": "CP",
+    "syllables": 2,
+    "category": "essential shape and physical properties",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ie"
+    ]
+  },
+  "hio": {
+    "pos": "classifier",
+    "translation": "furniture",
+    "source_file": "classifiers.md",
+    "pattern": "CP",
+    "syllables": 2,
+    "category": "essential functional categories",
+    "digraphs": [],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "mue": {
+    "pos": "classifier",
+    "translation": "medicine / substances",
+    "source_file": "classifiers.md",
+    "pattern": "CP",
+    "syllables": 2,
+    "category": "essential functional categories",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ue"
+    ]
+  },
+  "sie": {
+    "pos": "classifier",
+    "translation": "kinds / types / sorts",
+    "source_file": "classifiers.md",
+    "pattern": "CP",
+    "syllables": 2,
+    "category": "essential quantitative groupings",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ie"
+    ]
+  },
+  "runa": {
+    "pos": "conjunction",
+    "translation": "until",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "wanu": {
+    "pos": "conjunction",
+    "translation": "as soon as",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential temporal",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "mosa": {
+    "pos": "conjunction",
+    "translation": "so that / in order to",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential logical",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "meha": {
+    "pos": "conjunction",
+    "translation": "neither (of pair)",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential paired coordination",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "mesi": {
+    "pos": "conjunction",
+    "translation": "nor (of pair)",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential paired coordination",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "nola": {
+    "pos": "conjunction",
+    "translation": "not only (of pair)",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential paired coordination",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "toma": {
+    "pos": "conjunction",
+    "translation": "but also (of pair)",
+    "source_file": "conjunctions.md",
+    "pattern": "CVCV",
+    "syllables": 2,
+    "category": "essential paired coordination",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "sheano": {
+    "pos": "determiner",
+    "translation": "several",
+    "source_file": "determiners.md",
+    "pattern": "FPCV",
+    "syllables": 3,
+    "category": "essential existential quantifiers",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "phoini": {
+    "pos": "determiner",
+    "translation": "neither (of two)",
+    "source_file": "determiners.md",
+    "pattern": "FPCV",
+    "syllables": 3,
+    "category": "essential negative quantifiers",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oi"
+    ]
+  },
+  "hapai": {
+    "pos": "interjection",
+    "translation": "Ouch! (pain/discomfort)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "lalae": {
+    "pos": "interjection",
+    "translation": "Yay! (joy/delight)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ae"
+    ]
+  },
+  "piwai": {
+    "pos": "interjection",
+    "translation": "Phew! (relief)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "tutio": {
+    "pos": "interjection",
+    "translation": "Ugh! (disgust/revulsion)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "rawae": {
+    "pos": "interjection",
+    "translation": "Really? (doubt/skepticism)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ae"
+    ]
+  },
+  "nanio": {
+    "pos": "interjection",
+    "translation": "Um.../Er... (hesitation)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "hipuo": {
+    "pos": "interjection",
+    "translation": "Oops! / Whoops! (minor error)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential expressive interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "uo"
+    ]
+  },
+  "hotai": {
+    "pos": "interjection",
+    "translation": "Watch out! / Look out! (warning)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "tuwai": {
+    "pos": "interjection",
+    "translation": "Proceed",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "sapai": {
+    "pos": "interjection",
+    "translation": "stop",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential conative interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "welai": {
+    "pos": "interjection",
+    "translation": "Hello / Hi (greeting)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "lowai": {
+    "pos": "interjection",
+    "translation": "Bye / Goodbye (farewell)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "tamio": {
+    "pos": "interjection",
+    "translation": "Thanks / Thank you (gratitude)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "pilei": {
+    "pos": "interjection",
+    "translation": "Please (polite request)",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ei"
+    ]
+  },
+  "satua": {
+    "pos": "interjection",
+    "translation": "Excuse me / Pardon me",
+    "source_file": "interjections.md",
+    "pattern": "CVCP",
+    "syllables": 3,
+    "category": "essential phatic interjections",
+    "digraphs": [],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "no": {
+    "pos": "particle",
+    "translation": "imperative mood",
+    "source_file": "particles.md",
+    "pattern": "CV",
+    "syllables": 1,
+    "category": "Tense/Aspect/Mood",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "ne": {
+    "pos": "particle",
+    "translation": "passive voice",
+    "source_file": "particles.md",
+    "pattern": "CV",
+    "syllables": 1,
+    "category": "Tense/Aspect/Mood",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "so": {
+    "pos": "particle",
+    "translation": "hortative mood (let's)",
+    "source_file": "particles.md",
+    "pattern": "CV",
+    "syllables": 1,
+    "category": "phi particle vocabulary",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "le": {
+    "pos": "particle",
+    "translation": "hedge / softener / approximator",
+    "source_file": "particles.md",
+    "pattern": "CV",
+    "syllables": 1,
+    "category": "phi particle vocabulary",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "re": {
+    "pos": "particle",
+    "translation": "even (scalar/additive focus)",
+    "source_file": "particles.md",
+    "pattern": "CV",
+    "syllables": 1,
+    "category": "phi particle vocabulary",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "ti": {
+    "pos": "particle",
+    "translation": "only/just (limitative)",
+    "source_file": "particles.md",
+    "pattern": "CV",
+    "syllables": 1,
+    "category": "phi particle vocabulary",
+    "digraphs": [],
+    "vowel_pairs": []
+  },
+  "whau": {
+    "pos": "preposition",
+    "translation": "near / close to",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential spatial prepositions",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": [
+      "au"
+    ]
+  },
+  "thao": {
+    "pos": "preposition",
+    "translation": "against (for support)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential spatial prepositions",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ao"
+    ]
+  },
+  "whei": {
+    "pos": "preposition",
+    "translation": "left of",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential spatial prepositions",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": [
+      "ei"
+    ]
+  },
+  "shai": {
+    "pos": "preposition",
+    "translation": "right of",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential spatial prepositions",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "phio": {
+    "pos": "preposition",
+    "translation": "up (directional)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential directional prepositions",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "shae": {
+    "pos": "preposition",
+    "translation": "down (directional)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential directional prepositions",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ae"
+    ]
+  },
+  "whao": {
+    "pos": "preposition",
+    "translation": "past (movement by)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential directional prepositions",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": [
+      "ao"
+    ]
+  },
+  "sheo": {
+    "pos": "preposition",
+    "translation": "for (duration)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential temporal prepositions",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "eo"
+    ]
+  },
+  "thui": {
+    "pos": "preposition",
+    "translation": "at / on (specific time)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential temporal prepositions",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ui"
+    ]
+  },
+  "whae": {
+    "pos": "preposition",
+    "translation": "instead of / in place of",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential logical prepositions",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": [
+      "ae"
+    ]
+  },
+  "phai": {
+    "pos": "preposition",
+    "translation": "according to",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential logical prepositions",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "thiu": {
+    "pos": "preposition",
+    "translation": "against (logical opposition)",
+    "source_file": "prepositions.md",
+    "pattern": "FP",
+    "syllables": 2,
+    "category": "essential logical prepositions",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "iu"
+    ]
+  },
+  "phona": {
+    "pos": "verb",
+    "translation": "call / shout / yell",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential communication verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "phinu": {
+    "pos": "verb",
+    "translation": "whisper",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential communication verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whola": {
+    "pos": "verb",
+    "translation": "sing",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential communication verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "pheni": {
+    "pos": "verb",
+    "translation": "request (politely ask)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential communication verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "thona": {
+    "pos": "verb",
+    "translation": "inform / notify",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential communication verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "whosa": {
+    "pos": "verb",
+    "translation": "describe",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential communication verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "phowe": {
+    "pos": "verb",
+    "translation": "hope",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential cognitive verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "sheto": {
+    "pos": "verb",
+    "translation": "mean / signify",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential cognitive verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "whito": {
+    "pos": "verb",
+    "translation": "notice / recognize",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential cognitive verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "thesu": {
+    "pos": "verb",
+    "translation": "expect / anticipate",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential cognitive verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "whoni": {
+    "pos": "verb",
+    "translation": "wonder (be curious to know)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential cognitive verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "phero": {
+    "pos": "verb",
+    "translation": "climb",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential motion verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whima": {
+    "pos": "verb",
+    "translation": "swim",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential motion verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "thuni": {
+    "pos": "verb",
+    "translation": "turn (change direction)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential motion verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "shepo": {
+    "pos": "verb",
+    "translation": "throw",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential motion verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "phuwi": {
+    "pos": "verb",
+    "translation": "pull",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential motion verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "phuwo": {
+    "pos": "verb",
+    "translation": "push",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential motion verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whilu": {
+    "pos": "verb",
+    "translation": "seem / appear to be (stative)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential existence verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "phino": {
+    "pos": "verb",
+    "translation": "remain (in a state)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential existence verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "thino": {
+    "pos": "verb",
+    "translation": "add",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential creation and change verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "theno": {
+    "pos": "verb",
+    "translation": "remove",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential creation and change verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "phito": {
+    "pos": "verb",
+    "translation": "join / connect / link",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential creation and change verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "phitu": {
+    "pos": "verb",
+    "translation": "split / divide / separate",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential creation and change verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "shupo": {
+    "pos": "verb",
+    "translation": "increase",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential creation and change verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "shupi": {
+    "pos": "verb",
+    "translation": "decrease",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential creation and change verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "thupi": {
+    "pos": "verb",
+    "translation": "lend",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential acquisition verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "whinu": {
+    "pos": "verb",
+    "translation": "lose (misplace/be deprived of)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential acquisition verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "philo": {
+    "pos": "verb",
+    "translation": "keep (retain possession)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential acquisition verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "shemo": {
+    "pos": "verb",
+    "translation": "use / utilize",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential acquisition verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "whilo": {
+    "pos": "verb",
+    "translation": "win",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential acquisition verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "whono": {
+    "pos": "verb",
+    "translation": "watch (observe)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential perception verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "phiso": {
+    "pos": "verb",
+    "translation": "befriend",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "phosa": {
+    "pos": "verb",
+    "translation": "forgive",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whita": {
+    "pos": "verb",
+    "translation": "invite",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "shewa": {
+    "pos": "verb",
+    "translation": "visit",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "phuto": {
+    "pos": "verb",
+    "translation": "promise",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whupo": {
+    "pos": "verb",
+    "translation": "obey",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "thuri": {
+    "pos": "verb",
+    "translation": "argue (verbally)",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "phale": {
+    "pos": "verb",
+    "translation": "praise",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whate": {
+    "pos": "verb",
+    "translation": "blame / criticize",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential social verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "phelo": {
+    "pos": "verb",
+    "translation": "fail",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential process verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "phesu": {
+    "pos": "verb",
+    "translation": "succeed",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential process verbs",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": []
+  },
+  "whanu": {
+    "pos": "verb",
+    "translation": "repeat / do again",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential process verbs",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": []
+  },
+  "thalo": {
+    "pos": "verb",
+    "translation": "wait / await",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential process verbs",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": []
+  },
+  "shuro": {
+    "pos": "verb",
+    "translation": "hurry / rush",
+    "source_file": "verbs.md",
+    "pattern": "FVCV",
+    "syllables": 2,
+    "category": "essential process verbs",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": []
+  },
+  "hethua": {
+    "pos": "noun",
+    "translation": "head",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "tiphoa": {
+    "pos": "noun",
+    "translation": "tooth",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "taphea": {
+    "pos": "noun",
+    "translation": "tongue",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "phithia": {
+    "pos": "noun",
+    "translation": "fingernail",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph",
+      "th"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "niphia": {
+    "pos": "noun",
+    "translation": "knee",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "nephoa": {
+    "pos": "noun",
+    "translation": "neck",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "shaphoa": {
+    "pos": "noun",
+    "translation": "belly/abdomen",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "hothea": {
+    "pos": "noun",
+    "translation": "back (human)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "sothea": {
+    "pos": "noun",
+    "translation": "breast (female)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "siphia": {
+    "pos": "noun",
+    "translation": "skin",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "pophea": {
+    "pos": "noun",
+    "translation": "bone",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "phuphai": {
+    "pos": "noun",
+    "translation": "blood",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "mushia": {
+    "pos": "noun",
+    "translation": "flesh/muscle",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "phothea": {
+    "pos": "noun",
+    "translation": "fat (body tissue)",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential body parts",
+    "digraphs": [
+      "ph",
+      "th"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "shuphio": {
+    "pos": "noun",
+    "translation": "brother",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential people and relationships",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "phiphia": {
+    "pos": "noun",
+    "translation": "baby / infant",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential people and relationships",
+    "digraphs": [
+      "ph",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "thiaphea": {
+    "pos": "noun",
+    "translation": "name (person's)",
+    "source_file": "nouns.md",
+    "pattern": "FPFP",
+    "syllables": 4,
+    "category": "essential people and relationships",
+    "digraphs": [
+      "th",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia",
+      "ea"
+    ]
+  },
+  "hiphua": {
+    "pos": "noun",
+    "translation": "neighbor",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential people and relationships",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "shephoa": {
+    "pos": "noun",
+    "translation": "teacher",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential people and relationships",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "whephai": {
+    "pos": "noun",
+    "translation": "student",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential people and relationships",
+    "digraphs": [
+      "wh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "whuphoa": {
+    "pos": "noun",
+    "translation": "cloud",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "wh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "whethua": {
+    "pos": "noun",
+    "translation": "sky (phenomenon)",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "wh",
+      "th"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "shiphai": {
+    "pos": "noun",
+    "translation": "snow",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "phiphio": {
+    "pos": "noun",
+    "translation": "ice",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "phauwhea": {
+    "pos": "noun",
+    "translation": "fog / mist",
+    "source_file": "nouns.md",
+    "pattern": "FPFP",
+    "syllables": 4,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph",
+      "wh"
+    ],
+    "vowel_pairs": [
+      "au",
+      "ea"
+    ]
+  },
+  "shauphoa": {
+    "pos": "noun",
+    "translation": "storm",
+    "source_file": "nouns.md",
+    "pattern": "FPFP",
+    "syllables": 4,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "au",
+      "oa"
+    ]
+  },
+  "thephue": {
+    "pos": "noun",
+    "translation": "thunder",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "th",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ue"
+    ]
+  },
+  "laphea": {
+    "pos": "noun",
+    "translation": "lightning",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "siphua": {
+    "pos": "noun",
+    "translation": "dawn / sunrise",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "rauphea": {
+    "pos": "noun",
+    "translation": "dusk / sunset",
+    "source_file": "nouns.md",
+    "pattern": "CPFP",
+    "syllables": 4,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "au",
+      "ea"
+    ]
+  },
+  "miphua": {
+    "pos": "noun",
+    "translation": "darkness (natural)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "saphea": {
+    "pos": "noun",
+    "translation": "sand",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "tupheo": {
+    "pos": "noun",
+    "translation": "dust",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "eo"
+    ]
+  },
+  "hapheo": {
+    "pos": "noun",
+    "translation": "ash/es",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "eo"
+    ]
+  },
+  "phuithui": {
+    "pos": "noun",
+    "translation": "mud",
+    "source_file": "nouns.md",
+    "pattern": "FPFP",
+    "syllables": 4,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph",
+      "th"
+    ],
+    "vowel_pairs": [
+      "ui",
+      "ui"
+    ]
+  },
+  "hophia": {
+    "pos": "noun",
+    "translation": "hill",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "wiphia": {
+    "pos": "noun",
+    "translation": "valley",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "shuphai": {
+    "pos": "noun",
+    "translation": "cave",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "lathia": {
+    "pos": "noun",
+    "translation": "island",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "phoshua": {
+    "pos": "noun",
+    "translation": "volcano",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph",
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "liephai": {
+    "pos": "noun",
+    "translation": "leaf",
+    "source_file": "nouns.md",
+    "pattern": "CPFP",
+    "syllables": 4,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ie",
+      "ai"
+    ]
+  },
+  "riphoa": {
+    "pos": "noun",
+    "translation": "root (botanical)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "siphai": {
+    "pos": "noun",
+    "translation": "seed (botanical)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "paphea": {
+    "pos": "noun",
+    "translation": "bark (of tree)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "laphoi": {
+    "pos": "noun",
+    "translation": "branch / bough",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oi"
+    ]
+  },
+  "thiphoi": {
+    "pos": "noun",
+    "translation": "thorn / prickle",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "th",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "oi"
+    ]
+  },
+  "lipheo": {
+    "pos": "noun",
+    "translation": "wood (substance)",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "eo"
+    ]
+  },
+  "phuthai": {
+    "pos": "noun",
+    "translation": "forest (phenomenon/biome)",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "ph",
+      "th"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "shophea": {
+    "pos": "noun",
+    "translation": "smoke (from fire)",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "whephea": {
+    "pos": "noun",
+    "translation": "wave (ocean/water)",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "wh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "lathui": {
+    "pos": "noun",
+    "translation": "stream / brook",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential natural phenomena",
+    "digraphs": [
+      "th"
+    ],
+    "vowel_pairs": [
+      "ui"
+    ]
+  },
+  "loushea": {
+    "pos": "noun",
+    "translation": "louse",
+    "source_file": "nouns.md",
+    "pattern": "CPFP",
+    "syllables": 4,
+    "category": "essential animals",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ou",
+      "ea"
+    ]
+  },
+  "whophai": {
+    "pos": "noun",
+    "translation": "worm",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "wh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "phuwhia": {
+    "pos": "noun",
+    "translation": "pig / swine",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph",
+      "wh"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "shothea": {
+    "pos": "noun",
+    "translation": "goat",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "sh",
+      "th"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "siphea": {
+    "pos": "noun",
+    "translation": "chicken / fowl",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "miphia": {
+    "pos": "noun",
+    "translation": "mouse / rat",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "phuphio": {
+    "pos": "noun",
+    "translation": "fly (insect)",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "io"
+    ]
+  },
+  "mewhai": {
+    "pos": "noun",
+    "translation": "mosquito",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "wh"
+    ],
+    "vowel_pairs": [
+      "ai"
+    ]
+  },
+  "siphui": {
+    "pos": "noun",
+    "translation": "spider",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ui"
+    ]
+  },
+  "piphea": {
+    "pos": "noun",
+    "translation": "bee",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "whushoa": {
+    "pos": "noun",
+    "translation": "wolf",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "wh",
+      "sh"
+    ],
+    "vowel_pairs": [
+      "oa"
+    ]
+  },
+  "phophia": {
+    "pos": "noun",
+    "translation": "frog",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ia"
+    ]
+  },
+  "shaphea": {
+    "pos": "noun",
+    "translation": "deer / antelope",
+    "source_file": "nouns.md",
+    "pattern": "FVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "sh",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "ea"
+    ]
+  },
+  "phauphai": {
+    "pos": "noun",
+    "translation": "bear",
+    "source_file": "nouns.md",
+    "pattern": "FPFP",
+    "syllables": 4,
+    "category": "essential animals",
+    "digraphs": [
+      "ph",
+      "ph"
+    ],
+    "vowel_pairs": [
+      "au",
+      "ai"
+    ]
+  },
+  "mishua": {
+    "pos": "noun",
+    "translation": "monkey / ape",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "sh"
+    ],
+    "vowel_pairs": [
+      "ua"
+    ]
+  },
+  "raphio": {
+    "pos": "noun",
+    "translation": "rabbit / hare",
+    "source_file": "nouns.md",
+    "pattern": "CVFP",
+    "syllables": 3,
+    "category": "essential animals",
+    "digraphs": [
+      "ph"
+    ],
+    "vowel_pairs": [
+      "io"
     ]
   }
 }

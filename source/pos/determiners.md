@@ -66,6 +66,7 @@ research into determiner typology shows that certain specification concepts are 
 | phuato   | many                |
 | thiena   | any                 |
 | phielu   | few                 |
+| sheano | several |
 
 ### essential negative quantifiers (1 determiner)
 *Basic negative quantification*
@@ -73,6 +74,7 @@ research into determiner typology shows that certain specification concepts are 
 | phi word | english translation |
 | -------- | ------------------- |
 | thoana   | no/none             |
+| phoini | neither (of two) |
 
 ## usage examples
 

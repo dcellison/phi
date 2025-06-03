@@ -40,38 +40,44 @@ This approach allows complete beginners to communicate effectively with as few a
 
 Interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic examples, aligning the original text with its grammatical analysis and translation. This table lists the abbreviations used for grammatical categories in the glosses throughout this document. In a gloss, lowercase words indicate lexical items.
 
-| gloss | meaning | phi particle |
-|-------|---------|--------------|
-| ABIL | ability modal | `we` |
-| AFF | affirmation | `to` |
-| ATT | attention marker | `po` |
-| CMPR | comparative | `mo` |
-| CNT | contrast | `mi` |
-| COND | conditional mood | `lu` |
-| DIR | direct evidence (*optional*) | `hi` |
-| DU | dual number | `tu` |
-| EMPH | emphasis | `ma` |
-| EQL | equality comparison | `sa` |
-| FOC | focus marker | `nu` |
-| FUT | future tense | `su` |
-| INFER | inference evidential (*optional*) | `ro` |
-| IPFV | imperfective aspect | `ri` |
-| NEC | necessity/obligation modal | `ra` |
-| NEG | negation | `me` |
-| OBJ | object marker (*optional*) | `na` |
-| PAUC | paucal number | `pu` |
-| PFV | perfective aspect | `ni` |
-| PL | plural | `lo` |
-| POS | possibility/permission modal | `se` |
-| PRH | prohibition modal | `wo` |
-| PRS | present tense (*optional*) | `ta` |
-| PST | past tense | `li` |
-| Q | question/interrogative | `wa` |
-| SBJ | subject marker (*optional*) | `si` |
-| SHIFT | topic shift | `ho` |
-| SPRL | superlative | `pa` |
-| TOP | topic marker | `ha` |
-| VRB | verb marker (*optional*) | `te` |
+| gloss | meaning                             | phi particle |
+|-------|-------------------------------------|--------------|
+| ABIL  | ability modal                       | `we`         |
+| AFF   | affirmation                         | `to`         |
+| ATT   | attention marker                    | `po`         |
+| CMPR  | comparative                         | `mo`         |
+| CNT   | contrast                            | `mi`         |
+| COND  | conditional mood                    | `lu`         |
+| DIR   | direct evidence (*optional*)        | `hi`         |
+| DU    | dual number                         | `tu`         |
+| EMPH  | emphasis                            | `ma`         |
+| EQL   | equality comparison                 | `sa`         |
+| EVEN  | even (scalar/additive focus)        | `re`         |
+| FOC   | focus marker                        | `nu`         |
+| FUT   | future tense                        | `su`         |
+| HEDGE | hedge / softener / approximator     | `le`         |
+| HORT  | hortative mood ("let's")            | `so`         |
+| IMP   | imperative mood                     | `no`         |
+| INFER | inference evidential (*optional*)   | `ro`         |
+| IPFV  | imperfective aspect                 | `ri`         |
+| LIM   | limitative ('only', 'just')         | `ti`         |
+| NEC   | necessity/obligation modal          | `ra`         |
+| NEG   | negation                            | `me`         |
+| OBJ   | object marker (*optional*)          | `na`         |
+| PASS  | passive voice                       | `ne`         |
+| PAUC  | paucal number                       | `pu`         |
+| PFV   | perfective aspect                   | `ni`         |
+| PL    | plural                              | `lo`         |
+| POS   | possibility/permission modal        | `se`         |
+| PRH   | prohibition modal                   | `wo`         |
+| PRS   | present tense (*optional*)          | `ta`         |
+| PST   | past tense                          | `li`         |
+| Q     | question/interrogative              | `wa`         |
+| SBJ   | subject marker (*optional*)         | `si`         |
+| SHIFT | topic shift                         | `ho`         |
+| SPRL  | superlative                         | `pa`         |
+| TOP   | topic marker                        | `ha`         |
+| VRB   | verb marker (*optional*)            | `te`         |
 
 ## particle categories
 
@@ -79,90 +85,96 @@ Interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic exa
 *Fundamental grammatical particles*
 
 **role particles** - *optional for beginners*
-| particle | function | usage | gloss |
-|----------|----------|-------|-------|
-| si | subject marker | si thephoa | `SBJ person` |
-| na | object marker | na noshea | `OBJ food` |
-| te | verb marker | te whumi | `VRB run` |
+| particle | function       | usage        | gloss          |
+|:---------|:---------------|:-------------|:---------------|
+| si       | subject marker | si thephoa   | `SBJ person`   |
+| na       | object marker  | na noshea    | `OBJ food`     |
+| te       | verb marker    | te whumi     | `VRB run`      |
 
 *Note: These clarify grammatical roles but phi's SOV word order usually makes them unnecessary.*
 
 **core grammar** - *use when needed*
-| particle | function | usage | gloss |
-|----------|----------|-------|-------|
-| lo | plural marker | lo thephoa | `PL person` |
-| tu | dual marker | tu thephoa | `DU person` |
-| pu | paucal marker | pu thephoa | `PAUC person` |
-| wa | question marker | wa mia whera | `Q 1SG learn` |
+| particle | function        | usage        | gloss          |
+|:---------|:----------------|:-------------|:---------------|
+| lo       | plural marker   | lo thephoa   | `PL person`    |
+| tu       | dual marker     | tu thephoa   | `DU person`    |
+| pu       | paucal marker   | pu thephoa   | `PAUC person`  |
+| wa       | question marker | wa mia whera | `Q 1SG learn`  |
 
 *Note: Animacy distinctions are handled through the classifier system during counting and quantification. For general reference, lexical meaning typically makes animacy clear.*
 
-### tense/aspect (6 particles)
-*Essential temporal marking*
+### tense/aspect/mood (8 particles)
+*Essential temporal, aspectual, and modal distinctions*
 
-| particle | function | usage | gloss | necessity |
-|----------|----------|-------|-------|-----------|
-| li | past tense | li mia whera | `PST 1SG learn` | **when past unclear** |
-| ta | present tense | ta mia whera | `PRS 1SG learn` | *optional - default* |
-| su | future tense | su mia whera | `FUT 1SG learn` | **when future unclear** |
-| ni | perfective aspect | ni mia whera | `PFV 1SG learn` | *advanced usage* |
-| ri | imperfective aspect | ri mia whera | `IPFV 1SG learn` | *advanced usage* |
-| lu | conditional mood | lu mia whera | `COND 1SG learn` | *advanced hypotheticals* |
+| particle | function            | usage         | gloss              | necessity                     |
+|:---------|:--------------------|:--------------|:-------------------|:------------------------------|
+| li       | past tense          | li mia whera  | `PST 1SG learn`    | **when past unclear**         |
+| ta       | present tense       | ta mia whera  | `PRS 1SG learn`    | *optional - default*          |
+| su       | future tense        | su mia whera  | `FUT 1SG learn`    | **when future unclear**       |
+| ni       | perfective aspect   | ni mia whera  | `PFV 1SG learn`    | *advanced usage*              |
+| ri       | imperfective aspect | ri mia whera  | `IPFV 1SG learn`   | *advanced usage*              |
+| lu       | conditional mood    | lu mia whera  | `COND 1SG learn`   | *advanced hypotheticals*      |
+| no       | imperative mood     | no mia sharo  | `IMP 1SG go`       | **essential for commands**    |
+| ne       | passive voice       | ne noshea wu   | `PASS food eat`     | **when needed for focus shift**|
 
-**rationale**: Present tense is default (unmarked). Past and future only needed when time reference isn't obvious from context. Perfective/imperfective distinction is the most fundamental aspectual opposition cross-linguistically. Conditional mood essential for hypothetical expressions.
+**rationale**: Present tense is default (unmarked). Past and future only needed when time reference isn't obvious from context. Perfective/imperfective distinction is the most fundamental aspectual opposition cross-linguistically. Conditional mood essential for hypothetical expressions. Imperative mood is vital for commands and requests. Passive voice allows for shifting focus from agent to patient.
 
-### modality (6 particles) 
+### modality (7 particles)
 *Essential modal expression*
 
 **evidentiality (2 particles)** - *optional for beginners*
-| particle | function | usage | gloss | necessity |
-|----------|----------|-------|-------|-----------|
-| hi | direct evidence | hi mia sha whilana | `DIR 1SG 3SG see` | *advanced feature* |
-| ro | inference | ro sha noshea thewo | `INFER 3SG food prepare` | *advanced feature* |
+| particle | function          | usage                 | gloss                    | necessity          |
+|:---------|:------------------|:----------------------|:-------------------------|:-------------------|
+| hi       | direct evidence   | hi mia sha whilana    | `DIR 1SG 3SG see`        | *advanced feature* |
+| ro       | inference         | ro sha noshea thewo   | `INFER 3SG food prepare` | *advanced feature* |
 
-**deontic modality (4 particles)** - *use when expressing modality*
-| particle | function | usage | gloss | necessity |
-|----------|----------|-------|-------|-----------|
-| ra | necessity/obligation | ra mia thea | `NEC 1SG go` | **for "must/should"** |
-| se | possibility/permission | se mia thea | `POS 1SG go` | **for "can/may"** |
-| we | ability | we mia thewo | `ABIL 1SG prepare` | **for "able to"** |
-| wo | prohibition | wo mia thea | `PRH 1SG go` | **for "cannot/forbidden"** |
+**deontic & other modality (5 particles)** - *use when expressing modality*
+| particle | function                 | usage                  | gloss                        | necessity                             |
+|:---------|:-------------------------|:-----------------------|:-----------------------------|:--------------------------------------|
+| ra       | necessity/obligation     | ra mia thea            | `NEC 1SG go`                 | **for "must/should"**                 |
+| se       | possibility/permission   | se mia thea            | `POS 1SG go`                 | **for "can/may"**                     |
+| we       | ability                  | we mia thewo           | `ABIL 1SG prepare`           | **for "able to"**                     |
+| wo       | prohibition              | wo mia thea            | `PRH 1SG go`                 | **for "cannot/forbidden"**            |
+| so       | hortative mood (let's)  | so mia whethea shose   | `HORT 1SG book read`         | **essential for "let's..." expressions** |
 
-**rationale**: Modal concepts are essential for daily communication. Evidentiality is sophisticated but optional.
+**rationale**: Modal concepts are essential for daily communication. Evidentiality is sophisticated but optional. Hortative mood is crucial for collaborative suggestions.
 
-### discourse management (6 particles)
-*For advanced communication*
+### discourse management (7 particles)
+*For advanced communication & stance*
 
 **topic/focus** - *advanced discourse*
-| particle | function | usage | gloss |
-|----------|----------|-------|-------|
-| ha | topic marker | ha noshea mia thewo | `TOP food 1SG prepare` |
-| mi | contrast | mia noshea thewo mi sha me thewo | `1SG food prepare CNT 3SG NEG prepare` |
+| particle | function   | usage                            | gloss                                  |
+|:---------|:-----------|:---------------------------------|:---------------------------------------|
+| ha       | topic marker | ha noshea mia thewo              | `TOP food 1SG prepare`                 |
+| mi       | contrast   | mia noshea thewo mi sha me thewo | `1SG food prepare CNT 3SG NEG prepare` |
 
 **emphasis** - *when emphasis needed*
-| particle | function | usage | gloss |
-|----------|----------|-------|-------|
-| ma | emphasis | ma riphe noshea | `EMPH important food` |
-| nu | focus | nu mia whera | `FOC 1SG learn` |
+| particle | function | usage           | gloss                 |
+|:---------|:---------|:----------------|:----------------------|
+| ma       | emphasis | ma riphe noshea | `EMPH important food` |
+| nu       | focus    | nu mia whera    | `FOC 1SG learn`       |
 
-**discourse flow** - *advanced features*
-| particle | function | usage | gloss |
-|----------|----------|-------|-------|
-| ho | topic shift | ho whethui mipho phera | `SHIFT sky blue be` |
-| po | attention | po noshea thewo phera | `ATT food prepare be` |
+**discourse flow & stance** - *advanced features*
+| particle | function                        | usage                  | gloss                 |
+|:---------|:--------------------------------|:-----------------------|:----------------------|
+| ho       | topic shift                     | ho whethui mipho phera | `SHIFT sky blue be`   |
+| po       | attention                       | po noshea thewo phera  | `ATT food prepare be` |
+| le       | hedge / softener / approximator | le tushe phera         | `HEDGE good be`       |
 
-### comparison/quantification (5 particles)
-*Essential comparison and polarity*
+### comparison/quantification (7 particles)
+*Essential comparison, polarity, and scope*
 
-| particle | function | usage | gloss | necessity |
-|----------|----------|-------|-------|-----------|
-| pa | superlative | pa riphe noshea | `SPRL important food` | **for "most"** |
-| mo | comparative | mo riphe noshea | `CMPR important food` | **for "more"** |
-| sa | equality | sa riphe noshea | `EQL important food` | **for "as...as"** |
-| me | negation | me mia whera | `NEG 1SG learn` | **for "not"** |
-| to | affirmation | to mia whera | `AFF 1SG learn` | **for "yes/indeed"** |
+| particle | function                     | usage                   | gloss                         | necessity                 |
+|:---------|:-----------------------------|:------------------------|:------------------------------|:--------------------------|
+| pa       | superlative                  | pa riphe noshea         | `SPRL important food`         | **for "most"**          |
+| mo       | comparative                  | mo riphe noshea         | `CMPR important food`         | **for "more"**          |
+| sa       | equality comparison          | sa riphe noshea         | `EQL important food`          | **for "as...as"**       |
+| me       | negation                     | me mia whera            | `NEG 1SG learn`               | **for "not"**           |
+| to       | affirmation                  | to mia whera            | `AFF 1SG learn`               | **for "yes/indeed"**    |
+| re       | even (scalar/additive focus) | re mia noshea thewo     | `EVEN 1SG food prepare`       | *advanced usage*          |
+| ti       | only/just (limitative)       | mia ti noshea thewo     | `1SG LIM food prepare`        | *advanced usage*          |
 
-**rationale**: Negation is essential. Complete comparison system (more/most/equal) found in most languages with comparison. Affirmation for emphasis or confirmation.
+**rationale**: Negation is essential. Complete comparison system (more/most/equal) found in most languages with comparison. Affirmation for emphasis or confirmation. Scalar focus and limitative particles add important nuance for advanced expression.
 
 ## learning progression
 
@@ -176,17 +188,17 @@ The phi particle system enables clear pedagogical stages:
 - Add temporal: `li` (past), `su` (future), `ra` (must), `se` (can)
 - Can express: past events, future plans, obligations, permissions
 
-**stage 3: expanded modality (2 particles)** 
-- Add: `we` (able), `wo` (forbidden)
+**stage 3: expanded modality (3 particles)** 
+- Add: `we` (able), `wo` (forbidden), `so` (let's)
 - Full modal expression capability
 
 **stage 4: comparison and emphasis (4 particles)**
 - Add: `pa` (most), `mo` (more), `ma` (emphasis), `to` (affirmation)
 - Enhanced expression and comparison
 
-**stage 5: advanced discourse (remaining particles)**
+**stage 5: advanced discourse & grammar (remaining particles)**
 - All remaining particles for sophisticated communication
-- Optional markers (`si`, `na`, `te`, `hi`, `ro`)
+- Optional markers (`si`, `na`, `te`, `hi`, `ro`, `ne`, `le`, `re`, `ti`)
 
 ## examples
 
@@ -233,6 +245,25 @@ I can prepare food
 wo mia noshea thewo
 PRH 1SG food prepare
 I cannot prepare food
+```
+
+```
+so mia thea
+HORT 1SG go
+Let's (me) go / I suggest I go
+```
+
+### imperative and passive
+```
+no sha thea
+IMP 3SG go
+Let him/her go! / S/he must go!
+```
+
+```
+ne noshea wu
+PASS food eat
+The food is eaten
 ```
 
 ### comparison (still simple)
@@ -312,7 +343,7 @@ Most important food
 This enhanced system aligns with universal patterns:
 
 - **Negation**: Universal (100% of languages) ✓
-- **Question marking**: Near-universal (99%) ✓  
+- **Question marking**: Near-universal (99%) ✓
 - **Plural marking**: Very common (95%) ✓
 - **Perfective/Imperfective**: Most fundamental aspectual distinction (90%) ✓
 - **Basic modality**: Very common (90%) ✓
@@ -322,6 +353,9 @@ This enhanced system aligns with universal patterns:
 - **Paucal number**: Common for animates (80%) ✓
 - **Tense marking**: Common (80%) ✓
 - **Conditional mood**: Common for hypotheticals (75%) ✓
+- **Imperative mood**: Universal ✓
+- **Passive voice**: Very common ✓
+- **Hortative mood**: Common ✓
 
 The particle selection emphasizes categories that are either:
 - Universal (found in all or nearly all languages)
@@ -368,7 +402,7 @@ mia noshea thewo
 I prepare food
 ```
 
-**optional markers**: 
+**optional markers**:
 - POS markers (`si`, `na`, `te`) optional by default
 - Present tense (`ta`) optional (unmarked default)
 - Evidentiality (`hi`, `ro`) advanced-level feature
@@ -382,18 +416,18 @@ I prepare food
 This approach maintains phi's systematic integrity while creating an ultra-beginner-friendly entry point with sophisticated expressive capabilities for advanced users.
 ## system statistics
 
-| category | particles | required level |
-|----------|-----------|----------------|
-| tense/aspect/mood | 6 | basic to advanced |
-| evidentiality | 2 | advanced only |
-| modality | 6 | basic to intermediate |
-| discourse | 6 | intermediate to advanced |
-| comparison | 5 | basic to intermediate |
-| core grammar | 7 | basic (mostly optional) |
-| **total** | **30** | **3-5 essential, 25-27 optional** |
+| category                 | particles | required level          |
+|:-------------------------|:----------|:------------------------|
+| tense/aspect/mood        | 8         | basic to advanced       |
+| evidentiality            | 2         | advanced only           |
+| modality                 | 7         | basic to intermediate   |
+| discourse management     | 7         | intermediate to advanced|
+| comparison/quantification| 7         | basic to advanced       |
+| core grammar             | 7         | basic (mostly optional) |
+| **total**                | **36**    | **3-5 essential, 31-33 optional** |
 
 **Required for beginners**: 3-5 particles
-**Optional enhancements**: 25-27 particles
+**Optional enhancements**: 31-33 particles
 
 The enhanced system provides an ultra-beginner-friendly entry point with only 3-5 essential particles needed for basic communication while offering sophisticated expressive capabilities for advanced users, now with complete cross-linguistic coverage of fundamental grammatical categories including a robust four-way number system.
 
@@ -401,38 +435,44 @@ The enhanced system provides an ultra-beginner-friendly entry point with only 3-
 
 This section provides a comprehensive list of all phi particles with their basic english translations, organized alphabetically for quick reference.
 
-| phi word | english translation | necessity level |
-| -------- | ------------------- | --------------- |
-| ha | topic marker | advanced |
-| hi | direct evidence marker | optional |
-| ho | topic shift marker | advanced |
-| li | past tense | when needed |
-| lo | plural marker | when needed |
-| lu | conditional mood | advanced |
-| ma | emphasis marker | when needed |
-| me | negation | essential |
-| mi | contrast marker | advanced |
-| mo | comparative | when needed |
-| na | object marker | optional |
-| ni | perfective aspect | advanced |
-| nu | focus marker | advanced |
-| pa | superlative | when needed |
-| po | attention marker | advanced |
-| pu | paucal marker | when needed |
-| ra | necessity modal | when needed |
-| ri | imperfective aspect | advanced |
-| ro | inference evidential | optional |
-| sa | equality comparison | when needed |
-| se | possibility modal | when needed |
-| si | subject marker | optional |
-| su | future tense | when needed |
-| ta | present tense | optional |
-| te | verb marker | optional |
-| to | affirmation | when needed |
-| tu | dual marker | when needed |
-| wa | question marker | essential |
-| we | ability modal | when needed |
-| wo | prohibition modal | when needed |
+| phi word | english translation                 | necessity level                        |
+| :------- | :---------------------------------- | :------------------------------------- |
+| ha       | topic marker                        | advanced                               |
+| hi       | direct evidence marker              | optional                               |
+| ho       | topic shift marker                  | advanced                               |
+| le       | hedge / softener / approximator   | advanced                               |
+| li       | past tense                          | when needed                            |
+| lo       | plural marker                       | when needed                            |
+| lu       | conditional mood                    | advanced                               |
+| ma       | emphasis marker                     | when needed                            |
+| me       | negation                            | essential                              |
+| mi       | contrast marker                     | advanced                               |
+| mo       | comparative                         | when needed                            |
+| na       | object marker                       | optional                               |
+| ne       | passive voice                       | when needed for focus shift          |
+| ni       | perfective aspect                   | advanced                               |
+| no       | imperative mood                     | essential for commands                 |
+| nu       | focus marker                        | advanced                               |
+| pa       | superlative                         | when needed                            |
+| po       | attention marker                    | advanced                               |
+| pu       | paucal marker                       | when needed                            |
+| ra       | necessity modal                     | when needed                            |
+| re       | even (scalar/additive focus)        | advanced                               |
+| ri       | imperfective aspect                 | advanced                               |
+| ro       | inference evidential                | optional                               |
+| sa       | equality comparison                 | when needed                            |
+| se       | possibility modal                   | when needed                            |
+| si       | subject marker                      | optional                               |
+| so       | hortative mood (let's)            | essential for "let's..." expressions  |
+| su       | future tense                        | when needed                            |
+| ta       | present tense                       | optional                               |
+| te       | verb marker                         | optional                               |
+| ti       | only/just (limitative)              | advanced                               |
+| to       | affirmation                         | when needed                            |
+| tu       | dual marker                         | when needed                            |
+| wa       | question marker                     | essential                              |
+| we       | ability modal                       | when needed                            |
+| wo       | prohibition modal                   | when needed                            |
 
 ## remaining particle count
 
@@ -442,15 +482,10 @@ phi particles follow the pattern `[C][V]` where:
 
 Total possible combinations = 9 × 5 = 45 particles
 
-Currently defined particles = 30 (7 essential core + 6 tense/aspect/mood + 6 modality + 6 discourse management + 5 comparison/quantification)
+Currently defined particles = 36 (7 essential core + 8 tense/aspect/mood + 7 modality + 7 discourse management + 7 comparison/quantification)
 
-Remaining available particles = 15
-
-Available unused particles: `hu`, `la`, `le`, `no`, `pe`, `re`, `ti`, `wi`, `wu`, `ru`, `so`, `he`, `mu`, `pi`, `ne`.
+Available unused particles: `hu`, `la`, `pe`, `wi`, `wu`, `ru`, `he`, `mu`, `pi`.
 
 ---
 
-*For detailed usage examples and learning progression, see the comprehensive sections above.*
-
-
-
+*For detailed usage examples and learning progression, see the comprehensive sections above.* 

@@ -42,6 +42,7 @@ research into classifier typology shows that certain categorization concepts are
 | pio      | rectangular objects |
 | weu      | container objects   |
 | hou      | flexible objects    |
+| nie | pointed objects |
 
 ### essential animacy (4 classifiers)
 *Basic life form distinctions*
@@ -64,6 +65,8 @@ research into classifier typology shows that certain categorization concepts are
 | wae      | clothing            |
 | tuo      | documents           |
 | sae      | food items          |
+| hio | furniture |
+| mue | medicine / substances |
 
 ### essential spatial and temporal (3 classifiers)
 *Basic space and time concepts*
@@ -82,6 +85,7 @@ research into classifier typology shows that certain categorization concepts are
 | tau      | groups              |
 | sou      | masses              |
 | rua      | pairs               |
+| sie | kinds / types / sorts |
 
 ## usage examples
 

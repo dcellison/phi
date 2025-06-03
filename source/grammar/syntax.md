@@ -79,18 +79,18 @@ mia ra   se  na  noshea thewo
 I must be able to prepare food
 ```
 
-**prepositional phrases**: phi uses postpositions rather than prepositions, following the head-final pattern where the relational element follows its complement.
+**prepositional phrases**: Phi uses prepositions, which precede their complements to form prepositional phrases. The preposition is the head of such a phrase. These phrases then integrate into the overall SOV structure of the clause.
 
 ```
-liphai wheo
-tree   at
-At tree
+wheo liphai
+at   tree
+At the tree
 ```
 
 ```
-hiwhea thau
-house  like
-Like house
+thau hiwhea
+like house
+Like the house
 ```
 
 ## particle-based marking

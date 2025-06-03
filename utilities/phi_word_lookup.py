@@ -350,9 +350,9 @@ class PhiLanguageValidator:
         valid_glosses = {
             # Official phi particle glosses from particles.md
             'ABIL', 'AFF', 'ATT', 'CMPR', 'CNT', 'COND', 'DIR', 'DU', 'EMPH', 
-            'EQL', 'FOC', 'FUT', 'INFER', 'IPFV', 'NEC', 'NEG', 'OBJ', 'PAUC', 
-            'PFV', 'PL', 'POS', 'PRH', 'PRS', 'PST', 'Q', 'SBJ', 'SHIFT', 
-            'SPRL', 'TOP', 'VRB',
+            'EQL', 'EVEN', 'FOC', 'FUT', 'HEDGE', 'HORT', 'IMP', 'INFER', 'IPFV', 
+            'LIM', 'NEC', 'NEG', 'OBJ', 'PASS', 'PAUC', 'PFV', 'PL', 'POS', 
+            'PRH', 'PRS', 'PST', 'Q', 'SBJ', 'SHIFT', 'SPRL', 'TOP', 'VRB',
             # Standard pronoun glosses
             '1SG', '2SG', '3SG'
         }

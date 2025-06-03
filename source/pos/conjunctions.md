@@ -52,8 +52,10 @@ research into conjunction typology shows that certain connection concepts are un
 | matu     | after               |
 | pimo     | before              |
 | lina     | while               |
+| runa | until |
+| wanu | as soon as |
 
-### essential logical (4 conjunctions)
+### essential logical (6 conjunctions)
 *Basic logical relationships*
 
 | phi word | english translation |
@@ -62,6 +64,8 @@ research into conjunction typology shows that certain connection concepts are un
 | renu     | because             |
 | lipi     | although            |
 | tela     | that                |
+| mosa     | so that / in order to |
+| huwa     | so (consequence)    |
 
 ### essential comparison (2 conjunctions)
 *Basic comparison relationships*
@@ -71,16 +75,19 @@ research into conjunction typology shows that certain connection concepts are un
 | woma     | as                  |
 | rami     | than                |
 
-### essential paired coordination (5 conjunctions)
+### essential paired coordination (8 conjunctions)
 *Essential correlative pairs*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| toha     | both (of pair)      |
-| sipa     | and (of pair)       |
-| miwa     | either (of pair)    |
-| lote     | or (of pair)        |
-| huwa     | so (consequence)    |
+| phi word | english translation        |
+| -------- | -------------------------- |
+| toha     | both (of pair)             |
+| sipa     | and (of pair)              |
+| miwa     | either (of pair)           |
+| lote     | or (of pair)               |
+| meha     | neither (of pair)          |
+| mesi     | nor (of pair)              |
+| nola     | not only (of pair)         |
+| toma     | but also (of pair)         |
 
 ## usage examples
 
@@ -220,9 +227,9 @@ Food is important, I prepare
 |----------|-------------|----------|
 | coordination | 3 | basic logical connection |
 | temporal | 4 | fundamental time relationships |
-| logical | 4 | essential reasoning patterns |
+| logical | 6 | essential reasoning patterns |
 | comparison | 2 | basic comparison operations |
-| correlative | 5 | essential paired coordination |
+| correlative | 8 | essential paired coordination |
 | **total** | **18** | **streamlined essentials** |
 
 **design achievement**: reduced from 33 conjunctions to 18 essential terms (45% reduction) while maintaining complete coverage of universal logical relationship concepts.

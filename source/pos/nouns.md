@@ -41,6 +41,20 @@ the phi noun system reflects four core principles validated through cross-lingui
 | luphai   | lungs               |
 | sowhea   | mouth               |
 | nithea   | nose                |
+| hethua | head |
+| tiphoa | tooth |
+| taphea | tongue |
+| phithia | fingernail |
+| niphia | knee |
+| nephoa | neck |
+| shaphoa | belly/abdomen |
+| hothea | back (human) |
+| sothea | breast (female) |
+| siphia | skin |
+| pophea | bone |
+| phuphai | blood |
+| mushia | flesh/muscle |
+| phothea | fat (body tissue) |
 
 ### essential people and relationships (12 nouns)
 *core human social connections*
@@ -59,6 +73,12 @@ the phi noun system reflects four core principles validated through cross-lingui
 | waphoa   | enemy               |
 | raushai  | leader              |
 | thuphui  | stranger            |
+| shuphio | brother |
+| phiphia | baby / infant |
+| thiaphea | name (person's) |
+| hiphua | neighbor |
+| shephoa | teacher |
+| whephai | student |
 
 ### essential natural phenomena (15 nouns)
 *fundamental environmental experiences*
@@ -80,6 +100,41 @@ the phi noun system reflects four core principles validated through cross-lingui
 | roshai   | flower              |
 | pothai   | fruit               |
 | pothui   | grass               |
+| whuphoa | cloud |
+| whethua | sky (phenomenon) |
+| shiphai | snow |
+| phiphio | ice |
+| phauwhea | fog / mist |
+| shauphoa | storm |
+| thephue | thunder |
+| laphea | lightning |
+| siphua | dawn / sunrise |
+| rauphea | dusk / sunset |
+| miphua | darkness (natural) |
+| saphea | sand |
+| tupheo | dust |
+| hapheo | ash/es |
+| phuithui | mud |
+| hophia | hill |
+| wiphia | valley |
+| shuphai | cave |
+| lathia | island |
+| phoshua | volcano |
+| liephai | leaf |
+| riphoa | root (botanical) |
+| siphai | seed (botanical) |
+| paphea | bark (of tree) |
+| laphoi | branch / bough |
+| thiphoi | thorn / prickle |
+| lipheo | wood (substance) |
+| phuthai | forest (phenomenon/biome) |
+| shophea | smoke (from fire) |
+| whephea | wave (ocean/water) |
+| lathui | stream / brook |
+| whiophea | mountain            |
+| thuthui  | field               |
+| lathea   | river               |
+| whithui  | lake                |
 
 ### essential animals (10 nouns)
 *core animal concepts for human interaction*
@@ -96,8 +151,24 @@ the phi noun system reflects four core principles validated through cross-lingui
 | lophoa   | horse               |
 | saphoa   | snake               |
 | naphia   | ant                 |
+| loushea | louse |
+| whophai | worm |
+| phuwhia | pig / swine |
+| shothea | goat |
+| siphea | chicken / fowl |
+| miphia | mouse / rat |
+| phuphio | fly (insect) |
+| mewhai | mosquito |
+| siphui | spider |
+| piphea | bee |
+| whushoa | wolf |
+| phophia | frog |
+| shaphea | deer / antelope |
+| phauphai | bear |
+| mishua | monkey / ape |
+| raphio | rabbit / hare |
 
-### essential places and landforms (12 nouns)
+### essential places
 *fundamental spatial and geographical concepts*
 
 | phi word | english translation |
@@ -106,13 +177,7 @@ the phi noun system reflects four core principles validated through cross-lingui
 | hiwhea   | house               |
 | thuwhui  | city                |
 | whithia  | village             |
-| whiophea | mountain            |
-| thuthui  | field               |
-| shuthai  | forest              |
-| lathea   | river               |
-| whithui  | lake                |
 | naphai   | road                |
-| whethui  | sky                 |
 | huphai   | vicinity            |
 
 ### essential time concepts (8 nouns)

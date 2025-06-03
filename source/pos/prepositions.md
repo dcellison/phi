@@ -26,6 +26,7 @@ research by levinson and meira demonstrates that languages group spatial concept
 | wheo     | at                  |
 | shoe     | among               |
 | shui     | around              |
+| whau | near / close to |
 
 **support and adjacency**:
 | phi word | english translation |
@@ -35,6 +36,7 @@ research by levinson and meira demonstrates that languages group spatial concept
 | shuo     | under               |
 | phoa     | beside              |
 | thei     | between             |
+| thao | against (for support) |
 
 **relative position**:
 | phi word | english translation |
@@ -43,6 +45,8 @@ research by levinson and meira demonstrates that languages group spatial concept
 | whio     | in front of         |
 | shei     | opposite            |
 | thae     | across              |
+| whei | left of |
+| shai | right of |
 
 ### essential directional prepositions (8 prepositions)
 *movement and orientation relationships*
@@ -57,6 +61,9 @@ research by levinson and meira demonstrates that languages group spatial concept
 | shoa     | out of              |
 | whui     | along               |
 | whuo     | beyond              |
+| phio | up (directional) |
+| shae | down (directional) |
+| whao | past (movement by) |
 
 ### essential temporal prepositions (6 prepositions)
 *time and sequence relationships*
@@ -69,6 +76,8 @@ research by levinson and meira demonstrates that languages group spatial concept
 | shao     | until               |
 | whai     | since               |
 | shua     | throughout          |
+| sheo | for (duration) |
+| thui | at / on (specific time) |
 
 ### essential logical prepositions (10 prepositions)
 *conceptual and causal relationships*
@@ -85,6 +94,9 @@ research by levinson and meira demonstrates that languages group spatial concept
 | thau     | as if               |
 | wheu     | like                |
 | shue     | by means of         |
+| whae | instead of / in place of |
+| phai | according to |
+| thiu | against (logical opposition) |
 
 ## usage examples
 

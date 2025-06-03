@@ -47,6 +47,7 @@ research into basic-level categorization shows that certain descriptive concepts
 | hathi    | white               |
 | liphi    | yellow              |
 | mupha    | brown               |
+| rosha | pink |
 
 ### essential sizes and shapes (12 adjectives)
 *Basic dimensional and geometric concepts*
@@ -65,6 +66,11 @@ research into basic-level categorization shows that certain descriptive concepts
 | ripho    | flat                |
 | retha    | straight            |
 | lowha    | curved              |
+| lophe | long |
+| lophu | deep |
+| lophi | shallow |
+| hoshe | hollow |
+| sothe | solid |
 
 ### essential physical qualities (18 adjectives)
 *Basic sensory and material properties*
@@ -89,6 +95,16 @@ research into basic-level categorization shows that certain descriptive concepts
 | sipha    | dirty               |
 | miwha    | bright              |
 | niwha    | dark                |
+| hotha | open |
+| nushe | natural / not artificial |
+| hophu | closed / shut |
+| nushi | artificial / man-made |
+| tiphe | tight |
+| tipho | loose |
+| wipha | strong (physical) |
+| hipha | weak (physical) |
+| sitha | fast (physical speed) |
+| titho | slow (physical speed) |
 
 ### essential evaluative (10 adjectives)
 *Basic value judgments and assessments*
@@ -105,6 +121,17 @@ research into basic-level categorization shows that certain descriptive concepts
 | washe    | safe                |
 | rasha    | dangerous           |
 | tophi    | true                |
+| lewha | clear |
+| sethe | possible |
+| tothe | wrong / incorrect |
+| lutha | unclear / obscure |
+| sutha | certain / sure |
+| suthi | uncertain / doubtful |
+| resha | necessary / essential |
+| mipha | beautiful / pretty |
+| miphi | ugly |
+| lishe | interesting (quality) |
+| lisho | boring / uninteresting (quality) |
 
 ### essential emotional and personality (15 adjectives)
 *Basic emotional states and character traits*
@@ -126,6 +153,14 @@ research into basic-level categorization shows that certain descriptive concepts
 | siwha    | fast                |
 | tiwha    | slow                |
 | wapho    | tired               |
+| suwhe | surprised |
+| susha | disgusted |
+| lowhe | curious |
+| posha | patient |
+| poshi | impatient |
+| lipha | interested / engaged |
+| mushe | bored |
+| wathu | alert / energetic / rested |
 
 ### essential temporal (4 adjectives)
 *Basic time-related concepts*
@@ -136,9 +171,16 @@ research into basic-level categorization shows that certain descriptive concepts
 | lotha    | old                 |
 | lupha    | young               |
 | hapho    | ancient             |
+| hiphe | early |
+| hipho | late |
+| rithe | recent |
+| sisha | quick / immediate (temporal) |
+| soshi | brief (short time) |
+| peshe | permanent |
+| pesho | temporary |
 
-### essential taste and sensation (8 adjectives)
-*Basic gustatory and sensory experiences*
+### essential sensory qualities (8 adjectives)
+*Basic gustatory, olfactory, and auditory experiences*
 
 | phi word | english translation |
 | -------- | ------------------- |
@@ -150,6 +192,10 @@ research into basic-level categorization shows that certain descriptive concepts
 | mesho    | bland               |
 | piwha    | loud                |
 | riwha    | quiet               |
+| tusha | fragrant / good-smelling |
+| washa | foul / bad-smelling |
+| mutha | earthy (smell/taste) |
+| sopha | burnt (smell/taste) |
 
 ### essential quantity and state (8 adjectives)
 *Basic quantitative and conditional concepts*
@@ -164,6 +210,17 @@ research into basic-level categorization shows that certain descriptive concepts
 | miwhi    | fresh               |
 | niwhi    | stale               |
 | saphe    | equal               |
+| hisha | different |
+| mapha | ready |
+| moshe | common / prevalent |
+| metha | dead / not alive |
+| letha | alive / living |
+| mewha | uncommon / rare |
+| teshu | incomplete |
+| hopha | whole / entire |
+| pitha | single (sole/only one) |
+| tasha | present (not absent) |
+| tashi | absent (not present) |
 
 ## cross-linguistic validation
 

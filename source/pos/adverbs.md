@@ -48,6 +48,14 @@ research into adverbial typology shows that certain modification concepts are un
 | tuwame   | then                |
 | remowa   | tomorrow            |
 | nutore   | yesterday           |
+| mateno | today |
+| mateni | tonight |
+| lowane | later |
+| pinate | first (in sequence) |
+| minate | last (in sequence) |
+| hipeto | early (adverbial) |
+| hipoto | late (adverbial) |
+| riteno | recently |
 
 ### essential spatial (8 adverbs)
 *Basic location and direction concepts*
@@ -62,6 +70,14 @@ research into adverbial typology shows that certain modification concepts are un
 | humate   | up                  |
 | nimate   | in                  |
 | watame   | out                 |
+| honume | forward(s) |
+| honupi | backward(s) |
+| netore | near / close by |
+| netori | far / far away |
+| lawine | left (direction/side) |
+| rawine | right (direction/side) |
+| sunite | around (adverbial) |
+| wanome | away (from a place) |
 
 ### essential manner (15 adverbs)
 *Basic ways of performing actions*
@@ -83,6 +99,14 @@ research into adverbial typology shows that certain modification concepts are un
 | tolime   | together            |
 | tomile   | partially           |
 | rusane   | respectfully        |
+| selumo | easily |
+| tuleno | difficultly / with difficulty |
+| miweno | secretly |
+| miwepo | openly / publicly (manner) |
+| hapone | accidentally / by chance |
+| haponi | intentionally / on purpose |
+| tolino | alone / separately (manner) |
+| namito | formally |
 
 ### essential frequency (6 adverbs)
 *Basic frequency concepts*
@@ -95,6 +119,8 @@ research into adverbial typology shows that certain modification concepts are un
 | lomite   | rarely              |
 | mowate   | never               |
 | toline   | usually             |
+| pinome | once |
+| wunome | twice |
 
 ### essential degree (8 adverbs)
 *Basic intensity and extent*
@@ -109,6 +135,8 @@ research into adverbial typology shows that certain modification concepts are un
 | solane   | only                |
 | linote   | slightly            |
 | pirone   | enough              |
+| tupeno | too (excessively) |
+| netumo | quite / rather / fairly |
 
 ### essential logical (12 adverbs)
 *Basic reasoning and connection*
@@ -127,6 +155,9 @@ research into adverbial typology shows that certain modification concepts are un
 | tunupe   | probably            |
 | posane   | thus                |
 | ruwase   | also                |
+| wituno | otherwise |
+| solito | specifically / particularly |
+| hineto | indeed |
 
 ### essential interrogative (4 adverbs)
 *Basic question words*

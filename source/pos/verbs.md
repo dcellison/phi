@@ -35,6 +35,12 @@ the verb inventory provides comprehensive coverage of essential human experience
 | whisi    | talk                |
 | whumo    | translate           |
 | shewu    | write               |
+| phona | call / shout / yell |
+| phinu | whisper |
+| whola | sing |
+| pheni | request (politely ask) |
+| thona | inform / notify |
+| whosa | describe |
 
 ### essential cognitive verbs (15 verbs)
 *mental processes and states*
@@ -56,6 +62,11 @@ the verb inventory provides comprehensive coverage of essential human experience
 | shule    | understand          |
 | shire    | want                |
 | shamo    | dream               |
+| phowe | hope |
+| sheto | mean / signify |
+| whito | notice / recognize |
+| thesu | expect / anticipate |
+| whoni | wonder (be curious to know) |
 
 ### essential motion verbs (18 verbs)
 *movement and position*
@@ -80,6 +91,12 @@ the verb inventory provides comprehensive coverage of essential human experience
 | theti    | stand               |
 | phite    | stay                |
 | shola    | walk                |
+| phero | climb |
+| whima | swim |
+| thuni | turn (change direction) |
+| shepo | throw |
+| phuwi | pull |
+| phuwo | push |
 
 ### essential existence verbs (8 verbs)
 *being and becoming*
@@ -94,6 +111,8 @@ the verb inventory provides comprehensive coverage of essential human experience
 | phera    | be (state)          |
 | phoni    | live                |
 | whuwe    | sleep               |
+| whilu | seem / appear to be (stative) |
+| phino | remain (in a state) |
 
 ### essential creation and change verbs (12 verbs)
 *making and transforming*
@@ -112,6 +131,12 @@ the verb inventory provides comprehensive coverage of essential human experience
 | shite    | make                |
 | pholi    | grow                |
 | shoru    | burn                |
+| thino | add |
+| theno | remove |
+| phito | join / connect / link |
+| phitu | split / divide / separate |
+| shupo | increase |
+| shupi | decrease |
 
 ### essential acquisition verbs (15 verbs)
 *getting and giving*
@@ -133,6 +158,11 @@ the verb inventory provides comprehensive coverage of essential human experience
 | shate    | share               |
 | tharo    | steal               |
 | shita    | take                |
+| thupi | lend |
+| whinu | lose (misplace/be deprived of) |
+| philo | keep (retain possession) |
+| shemo | use / utilize |
+| whilo | win |
 
 ### essential perception verbs (6 verbs)
 *sensory experience*
@@ -145,13 +175,13 @@ the verb inventory provides comprehensive coverage of essential human experience
 | sheta    | smell               |
 | shusi    | taste               |
 | thena    | touch               |
+| whono | watch (observe) |
 
-### essential social verbs (12 verbs)
+### essential social verbs (11 verbs)
 *interpersonal interaction*
 
 | phi word | english translation |
 | -------- | ------------------- |
-| whiwo    | befriend            |
 | thuwa    | fight               |
 | phura    | greet               |
 | shone    | help                |
@@ -163,8 +193,17 @@ the verb inventory provides comprehensive coverage of essential human experience
 | shema    | study               |
 | sheme    | teach               |
 | thaso    | thank               |
+| phiso | befriend |
+| phosa | forgive |
+| whita | invite |
+| shewa | visit |
+| phuto | promise |
+| whupo | obey |
+| thuri | argue (verbally) |
+| phale | praise |
+| whate | blame / criticize |
 
-### essential process verbs (10 verbs)
+### essential process verbs (14 verbs)
 *activities and procedures*
 
 | phi word | english translation |
@@ -172,13 +211,17 @@ the verb inventory provides comprehensive coverage of essential human experience
 | shona    | begin               |
 | theta    | continue            |
 | whawu    | do                  |
-| whepi    | fail                |
 | whuli    | finish              |
 | thewo    | prepare             |
 | shosu    | stop                |
 | wheta    | start               |
 | whena    | try                 |
 | whuri    | work                |
+| phelo    | fail                |
+| phesu    | succeed             |
+| whanu | repeat / do again |
+| thalo | wait / await |
+| shuro | hurry / rush |
 
 ## usage examples
 
@@ -319,7 +362,7 @@ Gave tool
 
 ## statistics and capacity
 
-- **current verbs**: 108 total
+- **current verbs**: 107 total
 - **communication**: 12 (11% - language and information exchange)
 - **cognition**: 15 (14% - mental processes and states)
 - **motion**: 18 (17% - movement and position)
@@ -327,7 +370,7 @@ Gave tool
 - **creation/change**: 12 (11% - making and transforming)
 - **acquisition**: 15 (14% - getting and giving)
 - **perception**: 6 (6% - sensory experience)
-- **social**: 12 (11% - interpersonal interaction)
+- **social**: 11 (10% - interpersonal interaction)
 - **process**: 10 (9% - activities and procedures)
 
 - **phonotactic capacity**: `[F][V][C][V]` pattern
@@ -335,6 +378,6 @@ Gave tool
   - **vowels**: 5 options (i, u, e, o, a)
   - **consonants**: 9 options (h, l, m, n, p, r, s, t, w)
   - **total combinations**: 4 × 5 × 9 × 5 = 900 possible verbs
-- **current usage**: 108 combinations (12% utilization)
-- **remaining capacity**: 792 combinations available for specialized domains or emerging concepts
+- **current usage**: 107 combinations (11.9% utilization)
+- **remaining capacity**: 793 combinations available for specialized domains or emerging concepts
 - **functional completeness**: core semantic categories covered comprehensively while maintaining substantial expansion potential 
