@@ -127,7 +127,7 @@ phi's predictable spelling enables algorithmic validation:
 written: mia na  whethea shose
 pattern: CP  CV  FVFP    FVCV
 gloss:   1SG OBJ book    see
-"i see the book"
+english: I see the book
 ```
 
 ### phonotactic pattern spelling
@@ -136,7 +136,7 @@ gloss:   1SG OBJ book    see
 written: hashe whethea hiwhea  phera
 pattern: CVFV  FVFP    CVFP    FVCV  
 gloss:   green book    house   be
-"the green book is at the house"
+english: the green book is at the house
 ```
 
 ### vowel sequence writing
@@ -145,7 +145,7 @@ gloss:   green book    house   be
 written: wheishea tuphe    phera
 pattern: FPFP     CVFV    FVCV
 gloss:   water    many    be
-"the water is abundant"
+english: the water is abundant
 ```
 
 ### digraph spelling consistency
@@ -154,7 +154,7 @@ gloss:   water    many    be
 written: mia shiho whuli shoru
 pattern: CP  FVCV  FVCV  FVCV
 gloss:   1SG buy   finish burn
-"i buy, finish, burn"
+english: I buy, finish, and burn
 ```
 
 ### particle-based orthography
@@ -163,7 +163,7 @@ gloss:   1SG buy   finish burn
 written: mia li  na  thueta tushe    whethea shose
 pattern: CP  CV  CV  FPCV   CVFV     FVFP    FVCV
 gloss:   1SG PST OBJ that   good     book    see
-"i saw that good book"
+english: I saw that good book
 ```
 
 ### complex sentence orthography
@@ -172,83 +172,183 @@ gloss:   1SG PST OBJ that   good     book    see
 written: lo  thephoa na  whethea hashe ta  shose nene sha li  whemo
 pattern: CV  FVFP   CV  FVFP    CVFV  CV  FVCV  CVCV CP  CV  FVCV
 gloss:   PL  person  OBJ book    green PRS see   and  3SG PST think
-"people see green books and it thought"
+english: People see green books and they think
 ```
 
 ### visual pattern recognition examples
 
 **immediate grammatical identification**:
+
+Particle recognition (CV pattern):
 ```
-particle recognition (CV pattern):
-li (PST), na (OBJ), te (VERB), wa (Q)
+written: li na te wa
+pattern: CV CV CV CV
+gloss:   PST OBJ VRB Q
+english: These are past, object, verb, and question particles
+```
 
-verb recognition (digraph-initial):
-shose (see), whera (learn), whuli (finish), shoru (burn)
+Verb recognition (digraph-initial):
+```
+written: shose whera whuli shoru
+pattern: FVCV  FVCV  FVCV  FVCV
+gloss:   see   learn finish burn
+english: These are see, learn, finish, and burn verbs
+```
 
-noun recognition (vowel sequence ending):
-whethea (book), hiwhea (house), wheishea (water), thephoa (person)
+Noun recognition (vowel sequence ending):
+```
+written: whethea hiwhea wheishea thephoa
+pattern: FVFP    CVFP   FPFP     FVFP
+gloss:   book    house  water    person
+english: These are book, house, water, and person nouns
+```
 
-adjective recognition (digraph-medial):
-tushe (good), hashe (green), wiwha (strong), tuphe (many)
+Adjective recognition (digraph-medial):
+```
+written: tushe hashe wiwha tuphe
+pattern: CVFV  CVFV  CVFV  CVFV
+gloss:   good  green strong many
+english: These are good, green, strong, and many adjectives
 ```
 
 ### orthographic transparency in different contexts
 
 **same word in different syntactic contexts**:
+
+Base form:
 ```
-base form: whethea (book) - maintains FVFP pattern
-with determiner: thueta whethea
-                 FPCV  FVFP
+written: whethea
+pattern: FVFP  
+gloss:   book
+english: book
+```
 
-with particles: na  whethea
-                CV  FVFP
+With determiner:
+```
+written: thueta whethea
+pattern: FPCV  FVFP
+gloss:   that  book
+english: that book
+```
 
-complex phrase: thueta tushe    whethea
-                FPCV  CVFV     FVFP
-"that good book"
+With particles:
+```
+written: na whethea
+pattern: CV FVFP
+gloss:   OBJ book
+english: book as object
+```
+
+Complex phrase:
+```
+written: thueta tushe whethea
+pattern: FPCV  CVFV  FVFP
+gloss:   that  good  book
+english: that good book
 ```
 
 **systematic particle combinations**:
+
+Minimal:
 ```
-minimal: mia whethea shose
-         CP  FVFP    FVCV
+written: mia whethea shose
+pattern: CP  FVFP    FVCV
+gloss:   1SG book    see
+english: I see a book
+```
 
-explicit: si   mia na  whethea te   shose
-          CV   CP  CV  FVFP    CV   FVCV
+Explicit:
+```
+written: si mia na whethea te shose
+pattern: CV CP  CV FVFP    CV FVCV
+gloss:   SBJ 1SG OBJ book  VRB see
+english: I see the book
+```
 
-temporal: mia li  whethea shose
-          CP  CV  FVFP    FVCV
+Temporal:
+```
+written: mia li whethea shose
+pattern: CP  CV FVFP    FVCV
+gloss:   1SG PST book   see
+english: I saw a book
+```
 
-modal: mia ra   whethea shose
-       CP  CV   FVFP    FVCV
-"i must see the book"
+Modal:
+```
+written: mia ra whethea shose
+pattern: CP  CV FVFP    FVCV
+gloss:   1SG NEC book   see
+english: I must see a book
 ```
 
 ### orthographic support for learning
 
 **pattern-based acquisition**:
+
+Step 1 - recognize particles:
 ```
-step 1 - recognize particles: li, na, te, wa (CV pattern)
-step 2 - identify verbs: ph/wh/th/sh + vowel + consonant + vowel (FVCV)
-step 3 - spot nouns: end with vowel sequences (ending P)
-step 4 - find adjectives: single consonant + vowel + digraph + vowel (CVFV)
+written: li na te wa
+pattern: CV CV CV CV
+gloss:   PST OBJ VRB Q
+english: These are past, object, verb, and question markers
+```
+
+Step 2 - identify verbs:
+```
+written: shose whera whuli
+pattern: FVCV  FVCV  FVCV
+gloss:   see   learn finish
+english: These are see, learn, and finish
+```
+
+Step 3 - spot nouns:
+```
+written: whethea hiwhea wheishea
+pattern: FVFP    CVFP   FPFP
+gloss:   book    house  water
+english: These are book, house, and water
+```
+
+Step 4 - find adjectives:
+```
+written: tushe hashe wiwha
+pattern: CVFV  CVFV  CVFV
+gloss:   good  green strong
+english: These are good, green, and strong
 ```
 
 **spelling consistency across grammatical contexts**:
+
+Present:
 ```
-verb whera (learn) in different tenses:
-present: mia whera
-         CP  FVCV
+written: mia whera
+pattern: CP  FVCV
+gloss:   1SG learn
+english: I learn
+```
 
-past: mia li  whera  
-      CP  CV  FVCV
+Past:
+```
+written: mia li whera
+pattern: CP  CV FVCV
+gloss:   1SG PST learn
+english: I learned
+```
 
-future: mia su  whera
-        CP  CV  FVCV
+Future:
+```
+written: mia su whera
+pattern: CP  CV FVCV
+gloss:   1SG FUT learn
+english: I will learn
+```
 
-conditional: mia lu  whera
-             CP  CV  FVCV
-"i learn/learned/will learn/would learn"
+Conditional:
+```
+written: mia lu whera
+pattern: CP  CV FVCV
+gloss:   1SG COND learn
+english: I would learn
 ```
 
 ## writing conventions
@@ -285,7 +385,7 @@ sentence: mia li  na  thueta tushe    whethea shose.
 pattern:  CP  CV  CV  FPCV  CVFV     FVFP    FVCV
 visual:   pro prt prt det   adj      noun    verb
 function: 1SG PST OBJ that  good     book    see
-"i saw that good book."
+english: I saw that good book.
 ```
 
 ## conclusion

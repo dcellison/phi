@@ -48,34 +48,30 @@ phi systematically avoids inflectional processes that modify word forms to expre
 
 **temporal marking**:
 ```
-traditional inflectional: whera-li (learn-past)
-phi analytical:           li  whera (past learn)
-                          PST learn
-"learned"
+li whera
+PST learn
+Learned
 ```
 
 **number marking**:
 ```
-traditional inflectional: whethea-lo (book-plural)  
-phi analytical:           lo  whethea (plural book)
-                          PL  book
-"books"
+lo whethea
+PL book
+Books
 ```
 
 **case marking**:
 ```
-traditional inflectional: mia-na (i-accusative)
-phi analytical:          na  mia (object i)
-                         OBJ 1SG
-"me" (as object)
+na mia
+OBJ 1SG
+Me (as object)
 ```
 
 **agreement marking**:
 ```
-traditional inflectional: whera-m (learn-1sg)
-phi analytical:          mia whera (i learn)
-                         1SG learn
-"i learn"
+mia whera
+1SG learn
+I learn
 ```
 
 ### absence of derivational processes
@@ -110,31 +106,36 @@ phi accomplishes morphological work through systematic particle placement:
 
 **tense and aspect**:
 ```
-mia li  na  whethea shose
-1SG PST OBJ book    see
-"i saw the book"
+mia li na whethea shose
+1SG PST OBJ book see
+I saw the book
 ```
+
 **modality**:
 ```
-sha se  na  thueta whemo
-3SG may OBJ that   think
-"it might think that"
+sha se na thueta whemo
+3SG may OBJ that think
+It might think that
 ```
 
 **comparison**:
 ```
-whethea mo  hiwhea  tushe    phera
-book    CMP house   good be
-"the book is more good than the house"
-```**negation and emphasis**:
+whethea mo hiwhea tushe phera
+book CMPR house good be
+The book is more good than the house
 ```
-mia me  noshea shite
-1SG NEG food    make
-"i don't make food"
 
-mia ma   noshea shite
-1SG EMPH food    make
-"i really do make food"
+**negation and emphasis**:
+```
+mia me noshea shite
+1SG NEG food make
+I don't make food
+```
+
+```
+mia ma noshea shite
+1SG EMPH food make
+I really do make food
 ```
 
 ## usage examples
@@ -142,107 +143,111 @@ mia ma   noshea shite
 ### basic analytical constructions
 
 ```
-lo  thephoa hiwhea  phera
-PL  person  house   be
-"people are at house"
+lo thephoa hiwhea phera
+PL person house be
+People are at house
 ```
 
 ```
-mia ta  na  whethea hashe shose
-1SG PRS OBJ book    green see
-"i see the green book"
+mia ta na whethea hashe shose
+1SG PRS OBJ book green see
+I see the green book
 ```
 
 ```
-lo  sha su  na  thueta whemo
-PL  3SG FUT OBJ that   think
-"they will think that"
+lo sha su na thueta whemo
+PL 3SG FUT OBJ that think
+They will think that
 ```
 
 ### complex particle combinations
 
 ```
-mia li  lu  na  sha mo  tushe    phera
-1SG PST if  OBJ 3SG CMP good be
-"if i had been more good than it"
-
-sha li  ni  na  thueta whemo
-3SG PST PFV OBJ that   think
-"it had thought that"
+mia li lu na sha mo tushe phera
+1SG PST if OBJ 3SG CMPR good be
+If I had been more good than it
 ```
 
 ```
-lo  thephoa whethea whina
-PL  person  book    find
-"people find book"
+sha li ni na thueta whemo
+3SG PST PFV OBJ that think
+It had thought that
+```
+
+```
+lo thephoa whethea whina
+PL person book find
+People find book
 ```
 
 ### morphological transparency
 
 ```
-Full explicit marking: si  lo  thephoa na  whethea tushe    ta  te   shose
-                       SUBJ PL  person  OBJ book good PRS VERB see
-Natural streamlined:   lo  thephoa whethea tushe shose
-                       PL  person  book    good  see
-"people see good book"
+lo thephoa whethea tushe shose
+PL person book good see
+People see good book
 ```
 
 ### categorical integrity examples
 
 **maintaining phonotactic patterns across contexts**:
 ```
-base word: whera (learn) - `[F][V][C][V]` verb pattern
+mia li whera
 1SG PST learn
+I learned
+```
 
-with particles: mia li  whera
-                1SG PST learn
-"i learned" 
-
-with multiple particles: mia li  ni  ma   whera
-                         1SG PST PFV EMPH learn
-"i had really learned"
+```
+mia li ni ma whera
+1SG PST PFV EMPH learn
+I had really learned
 ```
 
 **no morphological fusion**:
 ```
-contrast with fusional languages:
-fusional: loquebar (speak-1sg.pst.ipfv)
-phi:      mia li  ri   whemi
-          1SG PST IPFV speak
-"i was speaking"
+mia li ri whemi
+1SG PST IPFV speak
+I was speaking
 ```
 
 ### paradigmatic transparency
 
 **pronoun + particle combinations**:
 ```
-mia whera = "i learn"
+mia whera
 1SG learn
+I learn
+```
 
-thi whera = "you learn" 
+```
+thi whera
 2SG learn
+You learn
+```
 
-sha whera = "it learns"
+```
+sha whera
 3SG learn
-
-lo  mia whera = "we learn"
-PL  1SG learn
-
-lo  thi whera = "you all learn"
-PL  2SG learn
-
-lo  sha whera = "they learn"
-PL  3SG learn
+It learns
 ```
 
 **tense paradigms without inflection**:
 ```
-present: mia whera
-         1SG learn
-past:    mia li  whera
-         1SG PST learn
-future:  mia su  whera
-         1SG FUT learn
+mia whera
+1SG learn
+Present: I learn
+```
+
+```
+mia li whera
+1SG PST learn
+Past: I learned
+```
+
+```
+mia su whera
+1SG FUT learn
+Future: I will learn
 ```
 
 ## conclusion

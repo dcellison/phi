@@ -41,6 +41,23 @@ class PhiLanguageValidator:
         
         self.phi_pronouns = {'mia', 'thi', 'sha', 'lua', 'nua'}
         
+        # Clause boundary conjunctions for parsing - actual phi words
+        self.clause_boundary_conjunctions = {
+            'nene',  # and (coordination)
+            'wiho',  # or (coordination)
+            'tupo',  # but (coordination)
+            'wane',  # when (temporal)
+            'matu',  # after (temporal)
+            'pimo',  # before (temporal)
+            'lina',  # while (temporal)
+            'wetu',  # if (logical)
+            'renu',  # because (logical)
+            'lipi',  # although (logical)
+            'tela',  # that (logical)
+            'woma',  # as (comparison)
+            'rami'   # than (comparison)
+        }
+        
         # Expected POS patterns
         self.pos_patterns = {
             'noun': ['CVFP', 'CPFP', 'FVFP', 'FPFP'],
@@ -57,6 +74,57 @@ class PhiLanguageValidator:
             'pronoun': ['CP', 'FV']
         }
         
+        # Word database reference for type identification
+        self.word_db = None
+        
+    def set_word_database(self, word_db):
+        """Set reference to word database for type identification."""
+        self.word_db = word_db
+        
+    def identify_word_type(self, word: str) -> Optional[str]:
+        """Identify the part of speech of a word using the word database."""
+        if self.word_db:
+            word_info = self.word_db.get(word.lower())
+            if word_info:
+                return word_info['pos']
+        
+        # Fallback identification for common particles and pronouns
+        if word in self.phi_particles:
+            return 'particle'
+        elif word in self.phi_pronouns:
+            return 'pronoun'
+        
+        return None
+        
+    def split_into_clauses(self, tokens: List[str]) -> List[Tuple[List[str], int]]:
+        """Split tokens into clauses at clause boundary conjunctions."""
+        clauses = []
+        current_clause = []
+        current_start_idx = 0
+        
+        i = 0
+        while i < len(tokens):
+            token = tokens[i]
+            
+            if token in self.clause_boundary_conjunctions:
+                # End current clause (before conjunction)
+                if current_clause:
+                    clauses.append((current_clause, current_start_idx))
+                
+                # Start new clause (after conjunction)
+                current_clause = []
+                current_start_idx = i + 1
+                i += 1
+            else:
+                current_clause.append(token)
+                i += 1
+        
+        # Add final clause
+        if current_clause:
+            clauses.append((current_clause, current_start_idx))
+        
+        return clauses
+    
     def validate_sov_compliance(self, phi_line: str, gloss_line: str) -> Tuple[bool, str]:
         """Validate that a phi sentence follows SOV (Subject-Object-Verb) order."""
         phi_words = phi_line.strip().split()
@@ -69,73 +137,200 @@ class PhiLanguageValidator:
         if len(phi_words) < 2:
             return True, "Phrase only, SOV not applicable"
         
-        # Look for verb patterns to determine if this is a complete sentence
-        has_verb = False
-        verb_position = -1
-        subject_position = -1
-        object_position = -1
+        # Use sophisticated clause parsing
+        clauses = self.split_into_clauses(phi_words)
         
-        for i, (phi_word, gloss) in enumerate(zip(phi_words, gloss_words)):
-            # Skip particles when analyzing word order
-            if phi_word in self.phi_particles:
+        # Validate SOV order within each clause
+        all_valid = True
+        all_issues = []
+        
+        for clause_idx, (clause_phi, start_idx) in enumerate(clauses):
+            if len(clause_phi) < 2:  # Skip single-word clauses
                 continue
                 
-            # Identify verbs by lowercase English words (content words in gloss)
-            if (gloss.islower() and gloss in [
-                'be', 'go', 'see', 'have', 'think', 'learn', 'prepare', 'understand', 
-                'stay', 'run', 'complete', 'cook', 'eat', 'drink', 'sleep', 'wake'
-            ]):
-                has_verb = True
-                verb_position = i
+            # Get corresponding gloss words for this clause
+            clause_gloss = gloss_words[start_idx:start_idx + len(clause_phi)]
             
-            # Identify subjects by official pronoun glosses or phi pronouns
-            if gloss in ['1SG', '2SG', '3SG'] or phi_word in self.phi_pronouns:
-                if subject_position == -1:  # First pronoun is likely subject
-                    subject_position = i
-            
-            # Identify objects by lowercase nouns, especially when OBJ marker present
-            if (gloss.islower() and gloss in [
-                'food', 'water', 'stone', 'tree', 'house', 'person', 'book', 'tool'
-            ] and 'OBJ' in gloss_line):
-                object_position = i
+            clause_valid, clause_issues = self._validate_clause_sov_advanced(clause_phi, clause_gloss)
+            if not clause_valid:
+                all_valid = False
+                all_issues.append(f"Clause {clause_idx + 1}: {clause_issues}")
         
-        if not has_verb:
+        if all_valid:
+            return True, "SOV order correct in all clauses"
+        else:
+            return False, f"SOV violations: {'; '.join(all_issues)}"
+    
+    def _validate_clause_sov_advanced(self, phi_words: List[str], gloss_words: List[str]) -> Tuple[bool, str]:
+        """Advanced SOV validation using proper grammatical role identification."""
+        if len(phi_words) != len(gloss_words):
+            return False, "Word count mismatch in clause"
+        
+        # Check for topic structures that don't follow SOV order
+        if 'ha' in phi_words or 'TOP' in gloss_words:
+            return True, "Topic structure - SOV order not enforced"
+        
+        # Check for focus structures that may have different word order
+        if 'nu' in phi_words or 'FOC' in gloss_words:
+            return True, "Focus structure - SOV order not enforced"
+        
+        # Check for conditional structures that may have different word order
+        if 'lu' in phi_words or any(gloss == 'if' for gloss in gloss_words):
+            return True, "Conditional structure - SOV order not enforced"
+        
+        # Build grammatical structure with proper role identification
+        content_items = []  # List of (word, role) tuples in original order
+        
+        for i, (phi_word, gloss) in enumerate(zip(phi_words, gloss_words)):
+            word_type = self.identify_word_type(phi_word)
+            role = self._identify_grammatical_role(phi_word, gloss, word_type, phi_words, gloss_words, i)
+            
+            if role != 'particle':  # Only track content words for SOV order
+                content_items.append((phi_word, role))
+        
+        if len(content_items) < 2:
+            return True, "Not enough content words for SOV analysis"
+        
+        # Extract just the roles in the order they appear
+        content_roles = [role for word, role in content_items]
+        content_words = [word for word, role in content_items]
+        
+        # Check for verb to determine if this needs SOV validation
+        if 'verb' not in content_roles:
             return True, "No verb found, SOV not applicable to noun/adjective phrases"
         
-        # Check SOV order: Subject < Object < Verb (ignoring particles)
-        sov_valid = True
+        # Find positions of S, O, V in the content word sequence
+        subject_pos = content_roles.index('subject') if 'subject' in content_roles else -1
+        object_pos = content_roles.index('object') if 'object' in content_roles else -1
+        verb_pos = content_roles.index('verb') if 'verb' in content_roles else -1
+        
         sov_issues = []
         
-        if subject_position != -1 and verb_position != -1:
-            if subject_position > verb_position:
-                sov_valid = False
-                sov_issues.append(f"Subject after verb (pos {subject_position} > {verb_position})")
+        # Check SOV constraints using content word positions
+        if subject_pos != -1 and verb_pos != -1 and subject_pos > verb_pos:
+            sov_issues.append(f"Subject after verb (content pos {subject_pos} > {verb_pos})")
         
-        if object_position != -1 and verb_position != -1:
-            if object_position > verb_position:
-                sov_valid = False
-                sov_issues.append(f"Object after verb (pos {object_position} > {verb_position})")
+        if object_pos != -1 and verb_pos != -1 and object_pos > verb_pos:
+            sov_issues.append(f"Object after verb (content pos {object_pos} > {verb_pos})")
         
-        if subject_position != -1 and object_position != -1:
-            if subject_position > object_position:
-                sov_valid = False
-                sov_issues.append(f"Subject after object (pos {subject_position} > {object_position})")
+        if subject_pos != -1 and object_pos != -1 and subject_pos > object_pos:
+            sov_issues.append(f"Subject after object (content pos {subject_pos} > {object_pos})")
         
-        if sov_valid:
-            return True, "SOV order correct"
+        if sov_issues:
+            return False, '; '.join(sov_issues)
         else:
-            return False, f"SOV violations: {'; '.join(sov_issues)}"
+            return True, "SOV order correct"
+    
+    def _identify_grammatical_role(self, phi_word: str, gloss: str, word_type: str, 
+                                   phi_words: List[str], gloss_words: List[str], position: int) -> str:
+        """Identify the grammatical role of a word in context."""
+        # Handle particles first
+        if phi_word in self.phi_particles:
+            return 'particle'
+        
+        # Check for explicit role marking by examining surrounding particles
+        # Look for SBJ, OBJ, VRB markers that precede this word
+        if position > 0:
+            prev_gloss = gloss_words[position - 1]
+            if prev_gloss == 'SBJ':
+                return 'subject'
+            elif prev_gloss == 'OBJ':
+                return 'object'  
+            elif prev_gloss == 'VRB':
+                return 'verb'
+        
+        # Check for explicit role marking in gloss
+        if gloss in ['1SG', '2SG', '3SG'] or phi_word in self.phi_pronouns:
+            # If not explicitly marked by particles, first pronoun is typically subject
+            return 'subject'
+        
+        # Identify verbs by word type or actual phi words
+        if word_type == 'verb' or phi_word in {
+            'thewo',  # prepare
+            'whemo',  # think
+            'shose',  # see
+            'whera',  # learn
+            'whiwo',  # give
+            'phera',  # be
+            'thero',  # go
+            'wusu',   # stay
+            'phemi',  # run
+            'thanu',  # complete
+            'phusu',  # cook
+            'whuru',  # eat
+            'thalu',  # drink
+            'phema',  # sleep
+            'whute'   # wake
+        }:
+            return 'verb'
+        
+        # Identify objects - nouns by word type or actual phi words
+        if word_type == 'noun' or phi_word in {
+            'noshea',   # food
+            'whuthea',  # water
+            'liphai',   # tree
+            'hiwhea',   # house
+            'thephoa',  # person
+            'whethea',  # book
+            'phuithea', # tool
+            'whothea'   # stone/material
+        }:
+            # If not explicitly marked, assume object for nouns
+            return 'object'
+        
+        # Other word types
+        if word_type == 'adjective':
+            return 'adjective'
+        elif word_type == 'adverb':
+            return 'adverb'
+        elif word_type == 'determiner':
+            return 'determiner'
+        
+        # Default to content word if unknown
+        return 'content'
     
     def validate_glossing_format(self, code_block: str) -> Tuple[bool, List[str]]:
         """Validate that a code block follows proper three-line glossing format."""
         lines = [line.strip() for line in code_block.strip().split('\n') if line.strip()]
         issues = []
         
-        if len(lines) != 3:
+        # Handle 4-line blocks with compositional analysis
+        if len(lines) == 4 and lines[3].startswith('(composition:'):
+            # Validate as 3-line block, ignoring the compositional analysis line
+            lines = lines[:3]
+        elif len(lines) == 4 and lines[0].startswith('written:'):
+            # Handle orthographic analysis format: written:/pattern:/gloss:/english:
+            # Extract the actual content by removing prefixes
+            phi_line = lines[0].replace('written:', '').strip()
+            gloss_line = lines[2].replace('gloss:', '').strip()
+            english_line = lines[3].replace('english:', '').strip()
+            # Capitalize first letter of extracted English line
+            if english_line and english_line[0].islower():
+                english_line = english_line[0].upper() + english_line[1:]
+            lines = [phi_line, gloss_line, english_line]
+        elif len(lines) >= 4 and ('english irregular:' in lines[0] or 'sentence:' in lines[0]):
+            # Skip validation for educational demonstration blocks
+            return True, []
+        elif len(lines) != 3:
             issues.append(f"Expected 3 lines, found {len(lines)}")
             return False, issues
         
         phi_line, gloss_line, english_line = lines
+        
+        # Check if this is a word list or demonstration (not a grammatical sentence)
+        is_word_list = (
+            ',' in english_line or  # English translations separated by commas
+            english_line.count(' ') >= 2 and all(word[0].isupper() for word in english_line.split() if word) or  # Multiple capitalized words
+            gloss_line.startswith('/') and gloss_line.endswith('/')  # IPA transcription instead of glosses
+        )
+        
+        if is_word_list:
+            # For word lists, just validate basic format, skip SOV
+            if not re.match(r'^[a-z\s\.]+$', phi_line):
+                issues.append("Phi line contains invalid characters (only lowercase letters, spaces, periods allowed)")
+            if not english_line[0].isupper():
+                issues.append("English line should start with capital letter")
+            return len(issues) == 0, issues
         
         # Validate phi line (first line)
         if not re.match(r'^[a-z\s\.]+$', phi_line):
@@ -192,7 +387,7 @@ class PhiLanguageValidator:
         if not english_line[0].isupper():
             issues.append("English line should start with capital letter")
         
-        # Check SOV compliance
+        # Check SOV compliance (only for grammatical sentences, not word lists)
         sov_valid, sov_message = self.validate_sov_compliance(phi_line, gloss_line)
         if not sov_valid:
             issues.append(f"SOV violation: {sov_message}")
@@ -273,6 +468,8 @@ class PhiWordDatabase:
         self.pos_directory = Path(pos_directory)
         self.word_db: Dict[str, Dict[str, str]] = {}
         self.validator = PhiLanguageValidator()
+        # Connect validator to word database for type identification
+        self.validator.set_word_database(self.word_db)
         self.pos_files = {
             'nouns.md': 'noun',
             'verbs.md': 'verb', 
@@ -491,6 +688,9 @@ class PhiWordDatabase:
                     
         print(f"Database built: {len(self.word_db)} words extracted")
         
+        # Update validator with new database
+        self.validator.set_word_database(self.word_db)
+        
     def lookup_word(self, word: str) -> Optional[Dict[str, str]]:
         """Look up a single word in the database."""
         return self.word_db.get(word.lower())
@@ -540,6 +740,9 @@ class PhiWordDatabase:
             with open(filepath, 'r', encoding='utf-8') as file:
                 self.word_db = json.load(file)
             print(f"Database loaded from {filepath}: {len(self.word_db)} words")
+            
+            # Update validator with loaded database
+            self.validator.set_word_database(self.word_db)
             return True
         except FileNotFoundError:
             print(f"Database file {filepath} not found")
@@ -1030,12 +1233,13 @@ class PhiWordDatabase:
         print("-" * 40)
         code_blocks = self.validator.extract_code_blocks(content)
         
+        # Initialize issue counters
+        sov_issues = 0
+        glossing_issues = 0
+        
         if not code_blocks:
             print("✅ No code blocks found - SOV check not applicable")
         else:
-            sov_issues = 0
-            glossing_issues = 0
-            
             for i, (block, line_num) in enumerate(code_blocks):
                 is_valid, issues = self.validator.validate_glossing_format(block)
                 

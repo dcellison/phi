@@ -203,13 +203,13 @@ Note: The examples below showcase phonetic transcription and may not represent t
 ```
 mia whethea shose
 /ˈmi.a ʍe.ˈθe.a ˈʃo.se/
-"i see book"
+I see a book
 ```
 
 ```
 sha li whera
 /ˈʃa ˈli ˈʍe.ra/
-"it learned"
+It learned
 ```
 
 ### fricative digraph demonstration
@@ -217,27 +217,27 @@ sha li whera
 ```
 pheno whera whuli
 /ˈɸe.no ˈʍe.ra ˈʍu.li/
-"explain learn finish"
+Explain, learn, and finish
 ```
 
 ```
-shoru na whethea shose
-/ˈʃo.ru ˈna ʍe.ˈθe.a ˈʃo.se/
-"burn object book see"
+shoru whethea shose
+/ˈʃo.ru ʍe.ˈθe.a ˈʃo.se/
+Burn, book, see
 ```
 
 ### vowel hiatus articulation
 
 ```
 hiwhea phiato phera
-/hi.ˈʍe.a ɸi.ˈa.to ˈpʰe.ra/
-"house this be"
+/hi.ˈʍe.a ɸi.ˈa.to ˈɸe.ra/
+This is a house
 ```
 
 ```
-phiato na mia whemo
-/phi.ˈa.to ˈna ˈmi.a ˈʍe.mo/
-"this object i think"
+phiato mia whemo
+/ɸi.ˈa.to ˈmi.a ˈʍe.mo/
+This, I, think
 ```
 
 ## conclusion

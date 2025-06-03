@@ -54,7 +54,7 @@ phi's design principles aim to minimize semantic ambiguity:
 ```
 mia li na whethea shose
 i past OBJ book see
-"i saw the book"
+I saw the book
 (composition: past(see(i, book)))
 ```
 
@@ -62,7 +62,7 @@ i past OBJ book see
 ```
 sha su ra whethea whina
 it/he/she future NEC book find
-"s/he will have to find the book"
+S/he will have to find the book
 (composition: future(must(find(s/he, book))))
 ```
 
@@ -70,7 +70,7 @@ it/he/she future NEC book find
 ```
 lo thephoa me na whethea shose
 PL person NEG OBJ book see
-"people do not see the book" / "no people see the book"
+People do not see the book / No people see the book
 (composition: not(see(people, book)) or for-all(x) if person(x) then not(see(x,book)))
 ```
 
@@ -78,7 +78,7 @@ PL person NEG OBJ book see
 ```
 wetu mia whera matu mia shule
 if i learn after i understand
-"if i learn, then i understand" (lit: if i learn, after i understand)
+If I learn, then I understand
 ```
 
 ## conclusion
