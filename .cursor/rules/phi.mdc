@@ -85,7 +85,7 @@ Examples: mimia (oh), wowou (wow), hihei (hey), tatau (alas)
 Pattern: consonant + vowel
 Examples: li (past), na (object marker), me (negation), wa (question)
 
-## COMPLETE PARTICLE SYSTEM (30 particles)
+## COMPLETE PARTICLE SYSTEM (36 particles)
 
 ### ESSENTIAL CORE (7 particles) - mostly optional for beginners
 - si (subject marker) - *optional*
@@ -96,36 +96,42 @@ Examples: li (past), na (object marker), me (negation), wa (question)
 - pu (paucal marker) - *when needed*
 - wa (question marker) - **essential**
 
-### TENSE/ASPECT/MOOD (6 particles)
+### TENSE/ASPECT/MOOD (8 particles)
 - li (past tense) - **when past unclear**
 - ta (present tense) - *optional, default*
 - su (future tense) - **when future unclear**
 - ni (perfective aspect) - *advanced*
 - ri (imperfective aspect) - *advanced*
 - lu (conditional mood) - *advanced*
+- no (imperative mood) - **essential for commands**
+- ne (passive voice) - **when needed for focus shift**
 
-### MODALITY (6 particles)
+### MODALITY (7 particles)
 - ra (necessity/obligation) - **for "must/should"**
 - se (possibility/permission) - **for "can/may"**
 - we (ability) - **for "able to"**
 - wo (prohibition) - **for "cannot/forbidden"**
+- so (hortative mood "let's") - **essential for "let's..." expressions**
 - hi (direct evidence) - *optional, advanced*
 - ro (inference) - *optional, advanced*
 
-### DISCOURSE MANAGEMENT (6 particles)
+### DISCOURSE MANAGEMENT (7 particles)
 - ha (topic marker) - *advanced*
 - mi (contrast) - *advanced*
 - ma (emphasis) - **when emphasis needed**
 - nu (focus) - *advanced*
 - ho (topic shift) - *advanced*
 - po (attention) - *advanced*
+- le (hedge/softener/approximator) - *advanced*
 
-### COMPARISON/QUANTIFICATION (5 particles)
+### COMPARISON/QUANTIFICATION (7 particles)
 - pa (superlative) - **for "most"**
 - mo (comparative) - **for "more"**
 - sa (equality) - **for "as...as"**
 - me (negation) - **essential**
 - to (affirmation) - **for "yes/indeed"**
+- re (even - scalar/additive focus) - *advanced*
+- ti (only/just - limitative) - *advanced*
 
 ## SYNTAX PRINCIPLES
 
@@ -181,3 +187,5 @@ Can express: sophisticated communication, formal registers, complex relationship
 - Future: `su` + clause
 
 When working with phi, strictly adhere to these phonotactic patterns, SOV word order, and grammatical principles. Each word must conform to its part-of-speech pattern, maintain phonological distinctiveness, and serve exactly one grammatical function. Use particles systematically to express grammatical relationships while following the beginner-first principle - use only what's needed for clear communication.
+
+When creating new Phi words, mwake *very* sure that they follow their POS pattern and that you vary the use of fricative digraphs and vowel pairs as you generate multiple Phi words. Do not repeat use of the same vowel pair or fricative. Vary your usage as much as possible.

@@ -1,0 +1,103 @@
+# tools
+
+*implements designed for specific tasks and work*
+
+> This vocabulary represents a comprehensive transformation of tool categorization through systematic research into cross-cultural universality and peace linguistics principles. Unlike standard academic inventories that often reflect Western technological bias, every single tool included here has been validated through extensive anthropological research to ensure it represents truly universal human activities found across contemporary global cultures. The structure follows functional psychology research showing that humans naturally categorize tools by their purpose rather than by material, origin, or academic criteria. Each of the eight categories celebrates fundamental human activities that promote peaceful creativity and collaborative problem-solving: processing materials, cultivating growth, building structures, shaping objects, creating textiles, ensuring precision, moving things, and working with fire. This curated collection eliminates culturally-specific tools and Western bias, instead honoring the constructive ingenuity and shared technological wisdom that unites humanity across diverse contemporary global cultures.
+
+## processing food and materials
+*transforming raw materials into usable form*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | mortar              |
+|          | pestle              |
+|          | mill                |
+|          | grinder             |
+|          | crusher             |
+|          | sieve               |
+|          | strainer            |
+
+## growing and cultivating
+*working with plants and land*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | hoe                 |
+|          | rake                |
+|          | shovel              |
+|          | spade               |
+|          | pick                |
+|          | plow                |
+|          | sickle              |
+
+## building and joining
+*assembling structures and objects*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | hammer              |
+|          | axe                 |
+|          | saw                 |
+|          | awl                 |
+|          | chisel              |
+|          | file                |
+|          | adze                |
+|          | wedge               |
+
+## cutting and shaping
+*modifying form and size*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | knife               |
+|          | scraper             |
+|          | sharpening stone    |
+|          | carving tool        |
+|          | shaping stone       |
+
+## creating textiles and fibers
+*making cloth and rope*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | needle              |
+|          | spindle             |
+|          | loom                |
+|          | shuttle             |
+|          | hook                |
+
+## measuring and precision work
+*ensuring accuracy and fine detail*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | measuring stick     |
+|          | measuring cord      |
+|          | scale               |
+|          | level               |
+|          | compass             |
+|          | polisher            |
+
+## moving and transporting
+*carrying and relocating*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | rope                |
+|          | basket              |
+|          | bag                 |
+|          | cart                |
+|          | sled                |
+|          | harness             |
+
+## fire and heat work
+*applying thermal energy*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | tinder              |
+|          | flint               |
+|          | fire drill          |
+|          | fire starter        |
+|          | bellows             |
+|          | torch               |

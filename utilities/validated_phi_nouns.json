@@ -1,0 +1,5395 @@
+{
+  "total_count": 489,
+  "excluded_count": 19,
+  "patterns": {
+    "CVFP": [
+      {
+        "word": "haphea",
+        "translation": "lever",
+        "category": "tools"
+      },
+      {
+        "word": "haphei",
+        "translation": "chest",
+        "category": "body parts"
+      },
+      {
+        "word": "hapheo",
+        "translation": "ash/es",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "haphoa",
+        "translation": "arm",
+        "category": "body parts"
+      },
+      {
+        "word": "haphuo",
+        "translation": "evil",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "hashea",
+        "translation": "green",
+        "category": "colors"
+      },
+      {
+        "word": "hathea",
+        "translation": "orange",
+        "category": "colors"
+      },
+      {
+        "word": "hatheo",
+        "translation": "rice",
+        "category": "consumables"
+      },
+      {
+        "word": "hathoa",
+        "translation": "white",
+        "category": "colors"
+      },
+      {
+        "word": "hephai",
+        "translation": "bay",
+        "category": "natural places"
+      },
+      {
+        "word": "hephoi",
+        "translation": "forehead",
+        "category": "body parts"
+      },
+      {
+        "word": "hephuo",
+        "translation": "ash",
+        "category": "materials and substances"
+      },
+      {
+        "word": "hethua",
+        "translation": "head",
+        "category": "body parts"
+      },
+      {
+        "word": "hethuo",
+        "translation": "wall",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "hiphai",
+        "translation": "plateau",
+        "category": "natural places"
+      },
+      {
+        "word": "hiphao",
+        "translation": "scraper",
+        "category": "tools"
+      },
+      {
+        "word": "hiphea",
+        "translation": "meat",
+        "category": "consumables"
+      },
+      {
+        "word": "hipheu",
+        "translation": "dew",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "hiphoe",
+        "translation": "rubber",
+        "category": "materials and substances"
+      },
+      {
+        "word": "hiphua",
+        "translation": "neighbor",
+        "category": "people and relationships"
+      },
+      {
+        "word": "hiphuo",
+        "translation": "tuber",
+        "category": "consumables"
+      },
+      {
+        "word": "hithea",
+        "translation": "hope",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "hiwhai",
+        "translation": "bridge",
+        "category": "places"
+      },
+      {
+        "word": "hiwhea",
+        "translation": "house",
+        "category": "places"
+      },
+      {
+        "word": "hiwhou",
+        "translation": "wheel",
+        "category": "tools"
+      },
+      {
+        "word": "hiwhui",
+        "translation": "factory",
+        "category": "places"
+      },
+      {
+        "word": "hophae",
+        "translation": "resin",
+        "category": "materials and substances"
+      },
+      {
+        "word": "hophai",
+        "translation": "judge",
+        "category": "people and relationships"
+      },
+      {
+        "word": "hophei",
+        "translation": "bronze",
+        "category": "materials and substances"
+      },
+      {
+        "word": "hopheu",
+        "translation": "fish",
+        "category": "consumables"
+      },
+      {
+        "word": "hophia",
+        "translation": "hill",
+        "category": "natural places"
+      },
+      {
+        "word": "hothao",
+        "translation": "rope",
+        "category": "tools"
+      },
+      {
+        "word": "hothea",
+        "translation": "back (human)",
+        "category": "body parts"
+      },
+      {
+        "word": "hotheu",
+        "translation": "bird",
+        "category": "consumables"
+      },
+      {
+        "word": "hothio",
+        "translation": "soup",
+        "category": "consumables"
+      },
+      {
+        "word": "howhai",
+        "translation": "farm",
+        "category": "places"
+      },
+      {
+        "word": "huphae",
+        "translation": "frost",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "huphai",
+        "translation": "vicinity",
+        "category": "places"
+      },
+      {
+        "word": "huphea",
+        "translation": "problem",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "hupheo",
+        "translation": "power",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "huphoi",
+        "translation": "elbow",
+        "category": "body parts"
+      },
+      {
+        "word": "huphui",
+        "translation": "man",
+        "category": "people and relationships"
+      },
+      {
+        "word": "huphuo",
+        "translation": "freedom",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "hushoa",
+        "translation": "evening",
+        "category": "time concepts"
+      },
+      {
+        "word": "huthae",
+        "translation": "preserved",
+        "category": "consumables"
+      },
+      {
+        "word": "huthao",
+        "translation": "friendship",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "huthau",
+        "translation": "axe",
+        "category": "tools"
+      },
+      {
+        "word": "huthea",
+        "translation": "grandfather",
+        "category": "people and relationships"
+      },
+      {
+        "word": "huthei",
+        "translation": "nail",
+        "category": "tools"
+      },
+      {
+        "word": "hutheo",
+        "translation": "guilt",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "huthia",
+        "translation": "father",
+        "category": "people and relationships"
+      },
+      {
+        "word": "huthie",
+        "translation": "sword",
+        "category": "tools"
+      },
+      {
+        "word": "huthui",
+        "translation": "rival",
+        "category": "people and relationships"
+      },
+      {
+        "word": "huthuo",
+        "translation": "egg",
+        "category": "consumables"
+      },
+      {
+        "word": "huwhai",
+        "translation": "square / plaza",
+        "category": "places"
+      },
+      {
+        "word": "laphae",
+        "translation": "yarn",
+        "category": "materials and substances"
+      },
+      {
+        "word": "laphea",
+        "translation": "lightning",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "laphia",
+        "translation": "red",
+        "category": "colors"
+      },
+      {
+        "word": "laphoi",
+        "translation": "branch / bough",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "laphui",
+        "translation": "market",
+        "category": "places"
+      },
+      {
+        "word": "lashea",
+        "translation": "rain",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "lathea",
+        "translation": "river",
+        "category": "natural places"
+      },
+      {
+        "word": "latheu",
+        "translation": "jar",
+        "category": "containers and storage"
+      },
+      {
+        "word": "lathia",
+        "translation": "island",
+        "category": "natural places"
+      },
+      {
+        "word": "lathui",
+        "translation": "stream / brook",
+        "category": "natural places"
+      },
+      {
+        "word": "lathuo",
+        "translation": "bean",
+        "category": "consumables"
+      },
+      {
+        "word": "lawhui",
+        "translation": "time",
+        "category": "time concepts"
+      },
+      {
+        "word": "leshai",
+        "translation": "button",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "liphai",
+        "translation": "tree",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "liphao",
+        "translation": "chopper",
+        "category": "tools"
+      },
+      {
+        "word": "liphea",
+        "translation": "stick",
+        "category": "tools"
+      },
+      {
+        "word": "liphei",
+        "translation": "slope",
+        "category": "natural places"
+      },
+      {
+        "word": "lipheo",
+        "translation": "wood (substance)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "liphia",
+        "translation": "ear",
+        "category": "body parts"
+      },
+      {
+        "word": "liphoa",
+        "translation": "yellow",
+        "category": "colors"
+      },
+      {
+        "word": "liphoe",
+        "translation": "silver",
+        "category": "materials and substances"
+      },
+      {
+        "word": "liphuo",
+        "translation": "pride",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "liwhea",
+        "translation": "hour",
+        "category": "time concepts"
+      },
+      {
+        "word": "liwhui",
+        "translation": "restaurant",
+        "category": "places"
+      },
+      {
+        "word": "lophae",
+        "translation": "iron",
+        "category": "materials and substances"
+      },
+      {
+        "word": "lophai",
+        "translation": "coast / shore",
+        "category": "natural places"
+      },
+      {
+        "word": "lophau",
+        "translation": "dried",
+        "category": "consumables"
+      },
+      {
+        "word": "lophea",
+        "translation": "bird",
+        "category": "essential animals"
+      },
+      {
+        "word": "lopheo",
+        "translation": "eagle / hawk",
+        "category": "essential animals"
+      },
+      {
+        "word": "lophoa",
+        "translation": "horse",
+        "category": "essential animals"
+      },
+      {
+        "word": "lophua",
+        "translation": "port / harbor",
+        "category": "places"
+      },
+      {
+        "word": "lophui",
+        "translation": "duck / goose",
+        "category": "essential animals"
+      },
+      {
+        "word": "lophuo",
+        "translation": "dye",
+        "category": "materials and substances"
+      },
+      {
+        "word": "loshea",
+        "translation": "ocean",
+        "category": "natural places"
+      },
+      {
+        "word": "lothao",
+        "translation": "cord",
+        "category": "tools"
+      },
+      {
+        "word": "lothau",
+        "translation": "cheese",
+        "category": "consumables"
+      },
+      {
+        "word": "lothea",
+        "translation": "love",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "lotheu",
+        "translation": "sugar",
+        "category": "consumables"
+      },
+      {
+        "word": "lowhai",
+        "translation": "answer",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "luphai",
+        "translation": "lungs",
+        "category": "body parts"
+      },
+      {
+        "word": "luphei",
+        "translation": "afternoon",
+        "category": "time concepts"
+      },
+      {
+        "word": "lupheo",
+        "translation": "strength",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "lupheu",
+        "translation": "cotton",
+        "category": "materials and substances"
+      },
+      {
+        "word": "luphuo",
+        "translation": "purpose",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "luthai",
+        "translation": "chair",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "luthao",
+        "translation": "loyalty",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "luthau",
+        "translation": "grain",
+        "category": "consumables"
+      },
+      {
+        "word": "luthea",
+        "translation": "uncle",
+        "category": "people and relationships"
+      },
+      {
+        "word": "lutheo",
+        "translation": "spirit",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "luthie",
+        "translation": "bow",
+        "category": "tools"
+      },
+      {
+        "word": "luthui",
+        "translation": "wisdom",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "luwhai",
+        "translation": "street",
+        "category": "places"
+      },
+      {
+        "word": "mathai",
+        "translation": "cat",
+        "category": "essential animals"
+      },
+      {
+        "word": "mathea",
+        "translation": "today",
+        "category": "time concepts"
+      },
+      {
+        "word": "mathuo",
+        "translation": "shirt",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "meshie",
+        "translation": "drawer",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "mewhai",
+        "translation": "mosquito",
+        "category": "essential animals"
+      },
+      {
+        "word": "miphao",
+        "translation": "adze",
+        "category": "tools"
+      },
+      {
+        "word": "miphea",
+        "translation": "hammer",
+        "category": "tools"
+      },
+      {
+        "word": "miphia",
+        "translation": "mouse / rat",
+        "category": "essential animals"
+      },
+      {
+        "word": "miphoa",
+        "translation": "blue",
+        "category": "colors"
+      },
+      {
+        "word": "miphoi",
+        "translation": "hip",
+        "category": "body parts"
+      },
+      {
+        "word": "miphua",
+        "translation": "darkness (natural)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "miphuo",
+        "translation": "kindness",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "mishua",
+        "translation": "monkey / ape",
+        "category": "essential animals"
+      },
+      {
+        "word": "mithea",
+        "translation": "midnight",
+        "category": "time concepts"
+      },
+      {
+        "word": "mitheo",
+        "translation": "belief",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "miwhai",
+        "translation": "hair",
+        "category": "body parts"
+      },
+      {
+        "word": "miwhea",
+        "translation": "doctor / healer",
+        "category": "people and relationships"
+      },
+      {
+        "word": "miwheo",
+        "translation": "sadness",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "miwhoa",
+        "translation": "friend",
+        "category": "people and relationships"
+      },
+      {
+        "word": "miwhui",
+        "translation": "shop / store",
+        "category": "places"
+      },
+      {
+        "word": "mophai",
+        "translation": "priest / religious leader",
+        "category": "people and relationships"
+      },
+      {
+        "word": "mophea",
+        "translation": "squid / octopus",
+        "category": "essential animals"
+      },
+      {
+        "word": "mopheu",
+        "translation": "wine",
+        "category": "consumables"
+      },
+      {
+        "word": "mophoe",
+        "translation": "copper",
+        "category": "materials and substances"
+      },
+      {
+        "word": "mophou",
+        "translation": "tar",
+        "category": "materials and substances"
+      },
+      {
+        "word": "mothao",
+        "translation": "twine",
+        "category": "tools"
+      },
+      {
+        "word": "mowhai",
+        "translation": "tunnel",
+        "category": "places"
+      },
+      {
+        "word": "muphai",
+        "translation": "avenue",
+        "category": "places"
+      },
+      {
+        "word": "muphea",
+        "translation": "brown",
+        "category": "colors"
+      },
+      {
+        "word": "mushia",
+        "translation": "flesh/muscle",
+        "category": "body parts"
+      },
+      {
+        "word": "muthae",
+        "translation": "paddle",
+        "category": "tools"
+      },
+      {
+        "word": "muthao",
+        "translation": "betrayal",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "muthea",
+        "translation": "aunt",
+        "category": "people and relationships"
+      },
+      {
+        "word": "mutheo",
+        "translation": "night",
+        "category": "time concepts"
+      },
+      {
+        "word": "mutheu",
+        "translation": "arrow",
+        "category": "tools"
+      },
+      {
+        "word": "muthoe",
+        "translation": "milk",
+        "category": "consumables"
+      },
+      {
+        "word": "muthoi",
+        "translation": "thought",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "muthui",
+        "translation": "spouse",
+        "category": "people and relationships"
+      },
+      {
+        "word": "muwhea",
+        "translation": "cow",
+        "category": "essential animals"
+      },
+      {
+        "word": "muwhui",
+        "translation": "earth",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "naphai",
+        "translation": "road",
+        "category": "places"
+      },
+      {
+        "word": "napheo",
+        "translation": "good",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "naphia",
+        "translation": "ant",
+        "category": "essential animals"
+      },
+      {
+        "word": "nasheo",
+        "translation": "sack",
+        "category": "containers and storage"
+      },
+      {
+        "word": "nathio",
+        "translation": "cooked",
+        "category": "consumables"
+      },
+      {
+        "word": "nathui",
+        "translation": "morning",
+        "category": "time concepts"
+      },
+      {
+        "word": "nawhea",
+        "translation": "snail / slug",
+        "category": "essential animals"
+      },
+      {
+        "word": "nephie",
+        "translation": "spindle",
+        "category": "tools"
+      },
+      {
+        "word": "nephoa",
+        "translation": "neck",
+        "category": "body parts"
+      },
+      {
+        "word": "neshui",
+        "translation": "jacket",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "nethai",
+        "translation": "net",
+        "category": "tools"
+      },
+      {
+        "word": "niphai",
+        "translation": "gorge / canyon",
+        "category": "natural places"
+      },
+      {
+        "word": "niphao",
+        "translation": "gouge",
+        "category": "tools"
+      },
+      {
+        "word": "niphei",
+        "translation": "bloom",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "nipheo",
+        "translation": "mind",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "nipheu",
+        "translation": "fur",
+        "category": "materials and substances"
+      },
+      {
+        "word": "niphia",
+        "translation": "knee",
+        "category": "body parts"
+      },
+      {
+        "word": "niphie",
+        "translation": "sleet",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "nisheo",
+        "translation": "shelf",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "nithea",
+        "translation": "nose",
+        "category": "body parts"
+      },
+      {
+        "word": "niwhui",
+        "translation": "museum",
+        "category": "places"
+      },
+      {
+        "word": "nophau",
+        "translation": "tea",
+        "category": "consumables"
+      },
+      {
+        "word": "nophea",
+        "translation": "owl",
+        "category": "essential animals"
+      },
+      {
+        "word": "nophie",
+        "translation": "metal",
+        "category": "materials and substances"
+      },
+      {
+        "word": "nophoe",
+        "translation": "plow",
+        "category": "tools"
+      },
+      {
+        "word": "nophoi",
+        "translation": "ankle",
+        "category": "body parts"
+      },
+      {
+        "word": "noshea",
+        "translation": "food",
+        "category": "consumables"
+      },
+      {
+        "word": "nothao",
+        "translation": "string",
+        "category": "tools"
+      },
+      {
+        "word": "notheu",
+        "translation": "juice",
+        "category": "consumables"
+      },
+      {
+        "word": "nothui",
+        "translation": "face",
+        "category": "body parts"
+      },
+      {
+        "word": "nowhai",
+        "translation": "gate",
+        "category": "places"
+      },
+      {
+        "word": "nuphai",
+        "translation": "adult",
+        "category": "people and relationships"
+      },
+      {
+        "word": "nuphei",
+        "translation": "hail",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "nuphie",
+        "translation": "amber",
+        "category": "materials and substances"
+      },
+      {
+        "word": "nuphuo",
+        "translation": "meaning",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "nuthai",
+        "translation": "foot",
+        "category": "body parts"
+      },
+      {
+        "word": "nuthao",
+        "translation": "understanding",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "nuthau",
+        "translation": "shield",
+        "category": "tools"
+      },
+      {
+        "word": "nuthei",
+        "translation": "needle",
+        "category": "tools"
+      },
+      {
+        "word": "nutheo",
+        "translation": "doubt",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "nuwhai",
+        "translation": "waterfall",
+        "category": "natural places"
+      },
+      {
+        "word": "paphea",
+        "translation": "bark (of tree)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "papheu",
+        "translation": "horn",
+        "category": "materials and substances"
+      },
+      {
+        "word": "paphie",
+        "translation": "wool",
+        "category": "materials and substances"
+      },
+      {
+        "word": "pawhia",
+        "translation": "moment",
+        "category": "time concepts"
+      },
+      {
+        "word": "pepheu",
+        "translation": "fabric",
+        "category": "materials and substances"
+      },
+      {
+        "word": "pephie",
+        "translation": "pearl",
+        "category": "materials and substances"
+      },
+      {
+        "word": "piphai",
+        "translation": "swamp / marsh",
+        "category": "natural places"
+      },
+      {
+        "word": "piphao",
+        "translation": "wedge",
+        "category": "tools"
+      },
+      {
+        "word": "piphea",
+        "translation": "bee",
+        "category": "essential animals"
+      },
+      {
+        "word": "pishau",
+        "translation": "box",
+        "category": "containers and storage"
+      },
+      {
+        "word": "pithau",
+        "translation": "raw",
+        "category": "consumables"
+      },
+      {
+        "word": "pitheo",
+        "translation": "memory",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "piwhea",
+        "translation": "worker",
+        "category": "people and relationships"
+      },
+      {
+        "word": "piwhui",
+        "translation": "office",
+        "category": "places"
+      },
+      {
+        "word": "pophea",
+        "translation": "bone",
+        "category": "body parts"
+      },
+      {
+        "word": "pophia",
+        "translation": "berry",
+        "category": "consumables"
+      },
+      {
+        "word": "poshio",
+        "translation": "grasshopper / cricket",
+        "category": "essential animals"
+      },
+      {
+        "word": "pothae",
+        "translation": "underwear",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "pothai",
+        "translation": "fruit",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "pothao",
+        "translation": "line",
+        "category": "tools"
+      },
+      {
+        "word": "pothui",
+        "translation": "grass",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "powhai",
+        "translation": "wall",
+        "category": "places"
+      },
+      {
+        "word": "pupheu",
+        "translation": "crystal",
+        "category": "materials and substances"
+      },
+      {
+        "word": "puphoi",
+        "translation": "cheek",
+        "category": "body parts"
+      },
+      {
+        "word": "puphuo",
+        "translation": "pain",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "puthei",
+        "translation": "chisel",
+        "category": "tools"
+      },
+      {
+        "word": "puthia",
+        "translation": "honey",
+        "category": "consumables"
+      },
+      {
+        "word": "puthoi",
+        "translation": "dream",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "puwhai",
+        "translation": "spring (water source)",
+        "category": "natural places"
+      },
+      {
+        "word": "raphea",
+        "translation": "gray",
+        "category": "colors"
+      },
+      {
+        "word": "rapheo",
+        "translation": "crab / lobster / shrimp",
+        "category": "essential animals"
+      },
+      {
+        "word": "raphio",
+        "translation": "rabbit / hare",
+        "category": "essential animals"
+      },
+      {
+        "word": "raphiu",
+        "translation": "bone",
+        "category": "materials and substances"
+      },
+      {
+        "word": "rashia",
+        "translation": "anger",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "rathea",
+        "translation": "shame",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "rephuo",
+        "translation": "leather",
+        "category": "materials and substances"
+      },
+      {
+        "word": "riphai",
+        "translation": "desert",
+        "category": "natural places"
+      },
+      {
+        "word": "riphao",
+        "translation": "splitter",
+        "category": "tools"
+      },
+      {
+        "word": "riphea",
+        "translation": "autumn",
+        "category": "time concepts"
+      },
+      {
+        "word": "ripheo",
+        "translation": "courage",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "riphoa",
+        "translation": "root (botanical)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "riphoi",
+        "translation": "chin",
+        "category": "body parts"
+      },
+      {
+        "word": "riphui",
+        "translation": "seal",
+        "category": "essential animals"
+      },
+      {
+        "word": "riphuo",
+        "translation": "oil",
+        "category": "consumables"
+      },
+      {
+        "word": "rithau",
+        "translation": "gloves",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "rithea",
+        "translation": "toe",
+        "category": "body parts"
+      },
+      {
+        "word": "ritheo",
+        "translation": "knowledge",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "riwhea",
+        "translation": "wind",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "riwhui",
+        "translation": "library",
+        "category": "places"
+      },
+      {
+        "word": "rophae",
+        "translation": "clay",
+        "category": "materials and substances"
+      },
+      {
+        "word": "roshai",
+        "translation": "flower",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "roshea",
+        "translation": "pink",
+        "category": "colors"
+      },
+      {
+        "word": "rothao",
+        "translation": "thread",
+        "category": "tools"
+      },
+      {
+        "word": "rowhai",
+        "translation": "tower",
+        "category": "places"
+      },
+      {
+        "word": "ruphai",
+        "translation": "bank (of river)",
+        "category": "natural places"
+      },
+      {
+        "word": "ruphiu",
+        "translation": "pitch",
+        "category": "materials and substances"
+      },
+      {
+        "word": "ruthao",
+        "translation": "forgiveness",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "ruthea",
+        "translation": "daughter",
+        "category": "people and relationships"
+      },
+      {
+        "word": "ruwhai",
+        "translation": "pond",
+        "category": "natural places"
+      },
+      {
+        "word": "ruwhoa",
+        "translation": "week",
+        "category": "time concepts"
+      },
+      {
+        "word": "ruwhui",
+        "translation": "hotel",
+        "category": "places"
+      },
+      {
+        "word": "saphea",
+        "translation": "sand",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "saphoa",
+        "translation": "snake",
+        "category": "essential animals"
+      },
+      {
+        "word": "saphoe",
+        "translation": "glass",
+        "category": "materials and substances"
+      },
+      {
+        "word": "sathue",
+        "translation": "vegetable",
+        "category": "consumables"
+      },
+      {
+        "word": "sephie",
+        "translation": "gold",
+        "category": "materials and substances"
+      },
+      {
+        "word": "siphai",
+        "translation": "seed (botanical)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "siphao",
+        "translation": "cleaver",
+        "category": "tools"
+      },
+      {
+        "word": "siphea",
+        "translation": "chicken / fowl",
+        "category": "essential animals"
+      },
+      {
+        "word": "sipheo",
+        "translation": "respect",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "siphia",
+        "translation": "skin",
+        "category": "body parts"
+      },
+      {
+        "word": "siphoe",
+        "translation": "lime",
+        "category": "materials and substances"
+      },
+      {
+        "word": "siphou",
+        "translation": "salt",
+        "category": "consumables"
+      },
+      {
+        "word": "siphua",
+        "translation": "dawn / sunrise",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "siphui",
+        "translation": "spider",
+        "category": "essential animals"
+      },
+      {
+        "word": "siphuo",
+        "translation": "root",
+        "category": "consumables"
+      },
+      {
+        "word": "sithue",
+        "translation": "drink",
+        "category": "consumables"
+      },
+      {
+        "word": "siwhui",
+        "translation": "theater",
+        "category": "places"
+      },
+      {
+        "word": "sophio",
+        "translation": "herb",
+        "category": "consumables"
+      },
+      {
+        "word": "sophui",
+        "translation": "truth",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "sothao",
+        "translation": "fiber",
+        "category": "tools"
+      },
+      {
+        "word": "sothau",
+        "translation": "fresh",
+        "category": "consumables"
+      },
+      {
+        "word": "sothea",
+        "translation": "breast (female)",
+        "category": "body parts"
+      },
+      {
+        "word": "sowhai",
+        "translation": "fence",
+        "category": "places"
+      },
+      {
+        "word": "sowhea",
+        "translation": "mouth",
+        "category": "body parts"
+      },
+      {
+        "word": "suphai",
+        "translation": "ridge",
+        "category": "natural places"
+      },
+      {
+        "word": "suphea",
+        "translation": "shoulder",
+        "category": "body parts"
+      },
+      {
+        "word": "suphoi",
+        "translation": "jaw",
+        "category": "body parts"
+      },
+      {
+        "word": "suphui",
+        "translation": "noon",
+        "category": "time concepts"
+      },
+      {
+        "word": "suphuo",
+        "translation": "reality",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "suthai",
+        "translation": "minute",
+        "category": "time concepts"
+      },
+      {
+        "word": "suthao",
+        "translation": "envy",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "suthea",
+        "translation": "cousin",
+        "category": "people and relationships"
+      },
+      {
+        "word": "sutheo",
+        "translation": "faith",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "suwhai",
+        "translation": "happiness",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "taphea",
+        "translation": "tongue",
+        "category": "body parts"
+      },
+      {
+        "word": "tapheo",
+        "translation": "joy",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "taphia",
+        "translation": "black",
+        "category": "colors"
+      },
+      {
+        "word": "tephea",
+        "translation": "rake",
+        "category": "tools"
+      },
+      {
+        "word": "tephie",
+        "translation": "sickle",
+        "category": "tools"
+      },
+      {
+        "word": "tephiu",
+        "translation": "shell",
+        "category": "materials and substances"
+      },
+      {
+        "word": "tephou",
+        "translation": "ruler",
+        "category": "tools"
+      },
+      {
+        "word": "tiphai",
+        "translation": "leg",
+        "category": "body parts"
+      },
+      {
+        "word": "tiphao",
+        "translation": "hatchet",
+        "category": "tools"
+      },
+      {
+        "word": "tiphau",
+        "translation": "fat",
+        "category": "consumables"
+      },
+      {
+        "word": "tiphei",
+        "translation": "peak / summit",
+        "category": "natural places"
+      },
+      {
+        "word": "tipheu",
+        "translation": "harvest",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "tiphio",
+        "translation": "maize",
+        "category": "consumables"
+      },
+      {
+        "word": "tiphoa",
+        "translation": "tooth",
+        "category": "body parts"
+      },
+      {
+        "word": "tiphuo",
+        "translation": "honor",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "tiwhea",
+        "translation": "artist",
+        "category": "people and relationships"
+      },
+      {
+        "word": "tiwhui",
+        "translation": "church / temple",
+        "category": "places"
+      },
+      {
+        "word": "tophoe",
+        "translation": "hoe",
+        "category": "tools"
+      },
+      {
+        "word": "tophou",
+        "translation": "pestle",
+        "category": "tools"
+      },
+      {
+        "word": "tophuo",
+        "translation": "poker",
+        "category": "tools"
+      },
+      {
+        "word": "tothao",
+        "translation": "strand",
+        "category": "tools"
+      },
+      {
+        "word": "tothau",
+        "translation": "meal",
+        "category": "consumables"
+      },
+      {
+        "word": "towhai",
+        "translation": "yard / courtyard",
+        "category": "places"
+      },
+      {
+        "word": "tuphea",
+        "translation": "summer",
+        "category": "time concepts"
+      },
+      {
+        "word": "tuphei",
+        "translation": "meadow",
+        "category": "natural places"
+      },
+      {
+        "word": "tupheo",
+        "translation": "dust",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "tupheu",
+        "translation": "drought",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "tuphia",
+        "translation": "purple",
+        "category": "colors"
+      },
+      {
+        "word": "tuphie",
+        "translation": "flood",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "tuphoa",
+        "translation": "justice",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "tuphuo",
+        "translation": "fate",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "tuthao",
+        "translation": "jealousy",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "tuthea",
+        "translation": "son",
+        "category": "people and relationships"
+      },
+      {
+        "word": "waphea",
+        "translation": "war",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "waphoa",
+        "translation": "enemy",
+        "category": "people and relationships"
+      },
+      {
+        "word": "wathuo",
+        "translation": "spice",
+        "category": "consumables"
+      },
+      {
+        "word": "wepheu",
+        "translation": "shovel",
+        "category": "tools"
+      },
+      {
+        "word": "wephiu",
+        "translation": "compass",
+        "category": "tools"
+      },
+      {
+        "word": "wiphai",
+        "translation": "cliff",
+        "category": "natural places"
+      },
+      {
+        "word": "wiphao",
+        "translation": "mattock",
+        "category": "tools"
+      },
+      {
+        "word": "wiphei",
+        "translation": "canyon",
+        "category": "natural places"
+      },
+      {
+        "word": "wipheo",
+        "translation": "mercy",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "wiphia",
+        "translation": "valley",
+        "category": "natural places"
+      },
+      {
+        "word": "wiphoi",
+        "translation": "wrist",
+        "category": "body parts"
+      },
+      {
+        "word": "wiphui",
+        "translation": "winter",
+        "category": "time concepts"
+      },
+      {
+        "word": "wiphuo",
+        "translation": "bread",
+        "category": "consumables"
+      },
+      {
+        "word": "witheu",
+        "translation": "bag",
+        "category": "containers and storage"
+      },
+      {
+        "word": "wiwhou",
+        "translation": "saw",
+        "category": "tools"
+      },
+      {
+        "word": "wiwhui",
+        "translation": "park",
+        "category": "places"
+      },
+      {
+        "word": "wophai",
+        "translation": "host",
+        "category": "people and relationships"
+      },
+      {
+        "word": "wophea",
+        "translation": "loom",
+        "category": "tools"
+      },
+      {
+        "word": "wopheu",
+        "translation": "mortar",
+        "category": "tools"
+      },
+      {
+        "word": "wophia",
+        "translation": "bellows",
+        "category": "tools"
+      },
+      {
+        "word": "wophiu",
+        "translation": "scale",
+        "category": "tools"
+      },
+      {
+        "word": "wothao",
+        "translation": "cable",
+        "category": "tools"
+      },
+      {
+        "word": "wothau",
+        "translation": "nut",
+        "category": "consumables"
+      },
+      {
+        "word": "wotheo",
+        "translation": "wild",
+        "category": "consumables"
+      },
+      {
+        "word": "wowhai",
+        "translation": "garden",
+        "category": "places"
+      },
+      {
+        "word": "wuphai",
+        "translation": "path / trail",
+        "category": "places"
+      },
+      {
+        "word": "wuphie",
+        "translation": "glue",
+        "category": "materials and substances"
+      },
+      {
+        "word": "wuphuo",
+        "translation": "beauty",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "wutheo",
+        "translation": "trust",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "wuthua",
+        "translation": "weekend",
+        "category": "time concepts"
+      }
+    ],
+    "CPFP": [
+      {
+        "word": "heishoa",
+        "translation": "bowl",
+        "category": "containers and storage"
+      },
+      {
+        "word": "houthia",
+        "translation": "flour",
+        "category": "consumables"
+      },
+      {
+        "word": "leishoa",
+        "translation": "table",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "liephai",
+        "translation": "leaf",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "loaphae",
+        "translation": "ceramic",
+        "category": "materials and substances"
+      },
+      {
+        "word": "loushae",
+        "translation": "pants",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "loushea",
+        "translation": "louse",
+        "category": "essential animals"
+      },
+      {
+        "word": "meishao",
+        "translation": "pot",
+        "category": "containers and storage"
+      },
+      {
+        "word": "miewhau",
+        "translation": "vest",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "miuthio",
+        "translation": "broth",
+        "category": "consumables"
+      },
+      {
+        "word": "moawhoe",
+        "translation": "dough",
+        "category": "consumables"
+      },
+      {
+        "word": "moephuo",
+        "translation": "sauce",
+        "category": "consumables"
+      },
+      {
+        "word": "moiphua",
+        "translation": "paste",
+        "category": "consumables"
+      },
+      {
+        "word": "moithoe",
+        "translation": "seasoning",
+        "category": "consumables"
+      },
+      {
+        "word": "muewhoa",
+        "translation": "marinade",
+        "category": "consumables"
+      },
+      {
+        "word": "naiphia",
+        "translation": "knife",
+        "category": "tools"
+      },
+      {
+        "word": "naothue",
+        "translation": "zipper",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "pouwhie",
+        "translation": "roof",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "raoshea",
+        "translation": "sun",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "rauphea",
+        "translation": "dusk / sunset",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "raushai",
+        "translation": "leader",
+        "category": "people and relationships"
+      },
+      {
+        "word": "saipheo",
+        "translation": "belt",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "saiwhui",
+        "translation": "moon",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "siuphoe",
+        "translation": "curd",
+        "category": "consumables"
+      },
+      {
+        "word": "soephuo",
+        "translation": "starch",
+        "category": "consumables"
+      },
+      {
+        "word": "teophau",
+        "translation": "closet",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "tuashoe",
+        "translation": "shoes",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "wiuwhua",
+        "translation": "stew",
+        "category": "consumables"
+      },
+      {
+        "word": "woewhoa",
+        "translation": "syrup",
+        "category": "consumables"
+      },
+      {
+        "word": "woiphai",
+        "translation": "grain",
+        "category": "consumables"
+      },
+      {
+        "word": "wuethue",
+        "translation": "desk",
+        "category": "furniture and shelter"
+      }
+    ],
+    "FVFP": [
+      {
+        "word": "phawhai",
+        "translation": "butterfly / moth",
+        "category": "essential animals"
+      },
+      {
+        "word": "phiphea",
+        "translation": "child",
+        "category": "people and relationships"
+      },
+      {
+        "word": "phiphia",
+        "translation": "baby / infant",
+        "category": "people and relationships"
+      },
+      {
+        "word": "phiphio",
+        "translation": "ice",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "phithea",
+        "translation": "tool",
+        "category": "tools"
+      },
+      {
+        "word": "phithia",
+        "translation": "fingernail",
+        "category": "body parts"
+      },
+      {
+        "word": "phithio",
+        "translation": "scorpion",
+        "category": "essential animals"
+      },
+      {
+        "word": "phophai",
+        "translation": "guest",
+        "category": "people and relationships"
+      },
+      {
+        "word": "phophia",
+        "translation": "frog",
+        "category": "essential animals"
+      },
+      {
+        "word": "phothea",
+        "translation": "fat (body tissue)",
+        "category": "body parts"
+      },
+      {
+        "word": "phothui",
+        "translation": "fire",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "phowhai",
+        "translation": "station (train/bus)",
+        "category": "places"
+      },
+      {
+        "word": "phuphai",
+        "translation": "blood",
+        "category": "body parts"
+      },
+      {
+        "word": "phuphia",
+        "translation": "life",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "phuphio",
+        "translation": "fly (insect)",
+        "category": "essential animals"
+      },
+      {
+        "word": "phuthai",
+        "translation": "forest (phenomenon/biome)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "phuthea",
+        "translation": "finger",
+        "category": "body parts"
+      },
+      {
+        "word": "phuthoa",
+        "translation": "word",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "phuwhia",
+        "translation": "pig / swine",
+        "category": "essential animals"
+      },
+      {
+        "word": "phuwhui",
+        "translation": "fear",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "shaphea",
+        "translation": "deer / antelope",
+        "category": "essential animals"
+      },
+      {
+        "word": "shaphoa",
+        "translation": "belly/abdomen",
+        "category": "body parts"
+      },
+      {
+        "word": "shephoa",
+        "translation": "teacher",
+        "category": "people and relationships"
+      },
+      {
+        "word": "shewhoa",
+        "translation": "sheep",
+        "category": "essential animals"
+      },
+      {
+        "word": "shiphai",
+        "translation": "snow",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "shiphia",
+        "translation": "year",
+        "category": "time concepts"
+      },
+      {
+        "word": "shiphoi",
+        "translation": "archipelago",
+        "category": "natural places"
+      },
+      {
+        "word": "shiphui",
+        "translation": "star",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "shitheu",
+        "translation": "bottle",
+        "category": "containers and storage"
+      },
+      {
+        "word": "shithoa",
+        "translation": "death",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "shiwhea",
+        "translation": "liver",
+        "category": "body parts"
+      },
+      {
+        "word": "shiwhui",
+        "translation": "hospital",
+        "category": "places"
+      },
+      {
+        "word": "shiwhuo",
+        "translation": "shark",
+        "category": "essential animals"
+      },
+      {
+        "word": "shophai",
+        "translation": "elder",
+        "category": "people and relationships"
+      },
+      {
+        "word": "shophea",
+        "translation": "smoke (from fire)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "shothea",
+        "translation": "goat",
+        "category": "essential animals"
+      },
+      {
+        "word": "shuphai",
+        "translation": "cave",
+        "category": "natural places"
+      },
+      {
+        "word": "shuphio",
+        "translation": "brother",
+        "category": "people and relationships"
+      },
+      {
+        "word": "shuthui",
+        "translation": "partner",
+        "category": "people and relationships"
+      },
+      {
+        "word": "shuwhoa",
+        "translation": "sister",
+        "category": "people and relationships"
+      },
+      {
+        "word": "thaphea",
+        "translation": "woman",
+        "category": "people and relationships"
+      },
+      {
+        "word": "thaphia",
+        "translation": "hand",
+        "category": "body parts"
+      },
+      {
+        "word": "thashoa",
+        "translation": "day",
+        "category": "time concepts"
+      },
+      {
+        "word": "thephoa",
+        "translation": "person",
+        "category": "people and relationships"
+      },
+      {
+        "word": "thephue",
+        "translation": "thunder",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "thethea",
+        "translation": "soul",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "thiphai",
+        "translation": "month",
+        "category": "time concepts"
+      },
+      {
+        "word": "thiphea",
+        "translation": "animal",
+        "category": "essential animals"
+      },
+      {
+        "word": "thiphie",
+        "translation": "peace",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "thiphoi",
+        "translation": "thorn / prickle",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "thiwhai",
+        "translation": "heart",
+        "category": "body parts"
+      },
+      {
+        "word": "thophai",
+        "translation": "school",
+        "category": "places"
+      },
+      {
+        "word": "thophua",
+        "translation": "airport",
+        "category": "places"
+      },
+      {
+        "word": "thuphai",
+        "translation": "boots",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "thuphei",
+        "translation": "spring",
+        "category": "time concepts"
+      },
+      {
+        "word": "thuphui",
+        "translation": "stranger",
+        "category": "people and relationships"
+      },
+      {
+        "word": "thuthui",
+        "translation": "field",
+        "category": "natural places"
+      },
+      {
+        "word": "thuwhia",
+        "translation": "work",
+        "category": "abstract concepts"
+      },
+      {
+        "word": "thuwhui",
+        "translation": "city",
+        "category": "places"
+      },
+      {
+        "word": "whasheo",
+        "translation": "sleeve",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "whephai",
+        "translation": "student",
+        "category": "people and relationships"
+      },
+      {
+        "word": "whephea",
+        "translation": "wave (ocean/water)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "whephua",
+        "translation": "turtle / tortoise",
+        "category": "essential animals"
+      },
+      {
+        "word": "whethea",
+        "translation": "book",
+        "category": "recreation and leisure"
+      },
+      {
+        "word": "whethua",
+        "translation": "sky (phenomenon)",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "whiphoa",
+        "translation": "eye",
+        "category": "body parts"
+      },
+      {
+        "word": "whitheo",
+        "translation": "dress",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "whithia",
+        "translation": "village",
+        "category": "places"
+      },
+      {
+        "word": "whithoa",
+        "translation": "dog",
+        "category": "essential animals"
+      },
+      {
+        "word": "whithui",
+        "translation": "lake",
+        "category": "natural places"
+      },
+      {
+        "word": "whophai",
+        "translation": "worm",
+        "category": "essential animals"
+      },
+      {
+        "word": "whophea",
+        "translation": "place",
+        "category": "places"
+      },
+      {
+        "word": "whothae",
+        "translation": "scarf",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "whothea",
+        "translation": "mother",
+        "category": "people and relationships"
+      },
+      {
+        "word": "whotheo",
+        "translation": "crocodile / alligator",
+        "category": "essential animals"
+      },
+      {
+        "word": "whuphoa",
+        "translation": "cloud",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "whushoa",
+        "translation": "wolf",
+        "category": "essential animals"
+      },
+      {
+        "word": "whuthea",
+        "translation": "grandmother",
+        "category": "people and relationships"
+      }
+    ],
+    "FPFP": [
+      {
+        "word": "phaewhoi",
+        "translation": "humidity",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "phaotheu",
+        "translation": "floor",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "phaowheu",
+        "translation": "couch",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "phauphai",
+        "translation": "bear",
+        "category": "essential animals"
+      },
+      {
+        "word": "phauwhai",
+        "translation": "lizard",
+        "category": "essential animals"
+      },
+      {
+        "word": "phauwhea",
+        "translation": "fog / mist",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "phieshou",
+        "translation": "hat",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "phuawhai",
+        "translation": "stone",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "phuethoi",
+        "translation": "container",
+        "category": "containers and storage"
+      },
+      {
+        "word": "phuithui",
+        "translation": "mud",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "shaewhoi",
+        "translation": "cabinet",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "shauphie",
+        "translation": "window",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "shauphoa",
+        "translation": "storm",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "sheowhui",
+        "translation": "socks",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "sheuthui",
+        "translation": "fish",
+        "category": "essential animals"
+      },
+      {
+        "word": "shiewhoe",
+        "translation": "wax",
+        "category": "materials and substances"
+      },
+      {
+        "word": "shiophea",
+        "translation": "air",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "shoiphiu",
+        "translation": "vinegar",
+        "category": "consumables"
+      },
+      {
+        "word": "shouphie",
+        "translation": "basket",
+        "category": "containers and storage"
+      },
+      {
+        "word": "shuewhei",
+        "translation": "awl",
+        "category": "tools"
+      },
+      {
+        "word": "shuewhou",
+        "translation": "scythe",
+        "category": "tools"
+      },
+      {
+        "word": "thauphie",
+        "translation": "coat",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "theawhuo",
+        "translation": "chest",
+        "category": "containers and storage"
+      },
+      {
+        "word": "thiaphea",
+        "translation": "name (person's)",
+        "category": "people and relationships"
+      },
+      {
+        "word": "thoaphue",
+        "translation": "collar",
+        "category": "clothing and personal items"
+      },
+      {
+        "word": "thuephei",
+        "translation": "cup",
+        "category": "containers and storage"
+      },
+      {
+        "word": "thuewhai",
+        "translation": "tongs",
+        "category": "tools"
+      },
+      {
+        "word": "thuishae",
+        "translation": "door",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "whaotheu",
+        "translation": "bucket",
+        "category": "containers and storage"
+      },
+      {
+        "word": "wheishea",
+        "translation": "water",
+        "category": "natural phenomena"
+      },
+      {
+        "word": "whiethau",
+        "translation": "bed",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "whiophea",
+        "translation": "mountain",
+        "category": "natural places"
+      },
+      {
+        "word": "whoiphae",
+        "translation": "wardrobe",
+        "category": "furniture and shelter"
+      },
+      {
+        "word": "whuethao",
+        "translation": "ceiling",
+        "category": "furniture and shelter"
+      }
+    ]
+  },
+  "alphabetical": [
+    {
+      "word": "haphea",
+      "translation": "lever",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "haphei",
+      "translation": "chest",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hapheo",
+      "translation": "ash/es",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "haphoa",
+      "translation": "arm",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "haphuo",
+      "translation": "evil",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hashea",
+      "translation": "green",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hathea",
+      "translation": "orange",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hatheo",
+      "translation": "rice",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hathoa",
+      "translation": "white",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "heishoa",
+      "translation": "bowl",
+      "category": "containers and storage",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "hephai",
+      "translation": "bay",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hephoi",
+      "translation": "forehead",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hephuo",
+      "translation": "ash",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hethua",
+      "translation": "head",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hethuo",
+      "translation": "wall",
+      "category": "furniture and shelter",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiphai",
+      "translation": "plateau",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiphao",
+      "translation": "scraper",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiphea",
+      "translation": "meat",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hipheu",
+      "translation": "dew",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiphoe",
+      "translation": "rubber",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiphua",
+      "translation": "neighbor",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiphuo",
+      "translation": "tuber",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hithea",
+      "translation": "hope",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiwhai",
+      "translation": "bridge",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiwhea",
+      "translation": "house",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiwhou",
+      "translation": "wheel",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hiwhui",
+      "translation": "factory",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hophae",
+      "translation": "resin",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hophai",
+      "translation": "judge",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hophei",
+      "translation": "bronze",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hopheu",
+      "translation": "fish",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hophia",
+      "translation": "hill",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hothao",
+      "translation": "rope",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hothea",
+      "translation": "back (human)",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hotheu",
+      "translation": "bird",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hothio",
+      "translation": "soup",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "houthia",
+      "translation": "flour",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "howhai",
+      "translation": "farm",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huphae",
+      "translation": "frost",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huphai",
+      "translation": "vicinity",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huphea",
+      "translation": "problem",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hupheo",
+      "translation": "power",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huphoi",
+      "translation": "elbow",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huphui",
+      "translation": "man",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huphuo",
+      "translation": "freedom",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hushoa",
+      "translation": "evening",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthae",
+      "translation": "preserved",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthao",
+      "translation": "friendship",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthau",
+      "translation": "axe",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthea",
+      "translation": "grandfather",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthei",
+      "translation": "nail",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "hutheo",
+      "translation": "guilt",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthia",
+      "translation": "father",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthie",
+      "translation": "sword",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthui",
+      "translation": "rival",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huthuo",
+      "translation": "egg",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "huwhai",
+      "translation": "square / plaza",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "laphae",
+      "translation": "yarn",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "laphea",
+      "translation": "lightning",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "laphia",
+      "translation": "red",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "laphoi",
+      "translation": "branch / bough",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "laphui",
+      "translation": "market",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lashea",
+      "translation": "rain",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lathea",
+      "translation": "river",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "latheu",
+      "translation": "jar",
+      "category": "containers and storage",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lathia",
+      "translation": "island",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lathui",
+      "translation": "stream / brook",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lathuo",
+      "translation": "bean",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lawhui",
+      "translation": "time",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "leishoa",
+      "translation": "table",
+      "category": "furniture and shelter",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "leshai",
+      "translation": "button",
+      "category": "clothing and personal items",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liephai",
+      "translation": "leaf",
+      "category": "natural phenomena",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "liphai",
+      "translation": "tree",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphao",
+      "translation": "chopper",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphea",
+      "translation": "stick",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphei",
+      "translation": "slope",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lipheo",
+      "translation": "wood (substance)",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphia",
+      "translation": "ear",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphoa",
+      "translation": "yellow",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphoe",
+      "translation": "silver",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liphuo",
+      "translation": "pride",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liwhea",
+      "translation": "hour",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "liwhui",
+      "translation": "restaurant",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "loaphae",
+      "translation": "ceramic",
+      "category": "materials and substances",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "lophae",
+      "translation": "iron",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophai",
+      "translation": "coast / shore",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophau",
+      "translation": "dried",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophea",
+      "translation": "bird",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lopheo",
+      "translation": "eagle / hawk",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophoa",
+      "translation": "horse",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophua",
+      "translation": "port / harbor",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophui",
+      "translation": "duck / goose",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lophuo",
+      "translation": "dye",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "loshea",
+      "translation": "ocean",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lothao",
+      "translation": "cord",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lothau",
+      "translation": "cheese",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lothea",
+      "translation": "love",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lotheu",
+      "translation": "sugar",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "loushae",
+      "translation": "pants",
+      "category": "clothing and personal items",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "loushea",
+      "translation": "louse",
+      "category": "essential animals",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "lowhai",
+      "translation": "answer",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luphai",
+      "translation": "lungs",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luphei",
+      "translation": "afternoon",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lupheo",
+      "translation": "strength",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lupheu",
+      "translation": "cotton",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luphuo",
+      "translation": "purpose",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luthai",
+      "translation": "chair",
+      "category": "furniture and shelter",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luthao",
+      "translation": "loyalty",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luthau",
+      "translation": "grain",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luthea",
+      "translation": "uncle",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "lutheo",
+      "translation": "spirit",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luthie",
+      "translation": "bow",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luthui",
+      "translation": "wisdom",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "luwhai",
+      "translation": "street",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mathai",
+      "translation": "cat",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mathea",
+      "translation": "today",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mathuo",
+      "translation": "shirt",
+      "category": "clothing and personal items",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "meishao",
+      "translation": "pot",
+      "category": "containers and storage",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "meshie",
+      "translation": "drawer",
+      "category": "furniture and shelter",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mewhai",
+      "translation": "mosquito",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miewhau",
+      "translation": "vest",
+      "category": "clothing and personal items",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "miphao",
+      "translation": "adze",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miphea",
+      "translation": "hammer",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miphia",
+      "translation": "mouse / rat",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miphoa",
+      "translation": "blue",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miphoi",
+      "translation": "hip",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miphua",
+      "translation": "darkness (natural)",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miphuo",
+      "translation": "kindness",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mishua",
+      "translation": "monkey / ape",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mithea",
+      "translation": "midnight",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mitheo",
+      "translation": "belief",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miuthio",
+      "translation": "broth",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "miwhai",
+      "translation": "hair",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miwhea",
+      "translation": "doctor / healer",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miwheo",
+      "translation": "sadness",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miwhoa",
+      "translation": "friend",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "miwhui",
+      "translation": "shop / store",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "moawhoe",
+      "translation": "dough",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "moephuo",
+      "translation": "sauce",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "moiphua",
+      "translation": "paste",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "moithoe",
+      "translation": "seasoning",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "mophai",
+      "translation": "priest / religious leader",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mophea",
+      "translation": "squid / octopus",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mopheu",
+      "translation": "wine",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mophoe",
+      "translation": "copper",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mophou",
+      "translation": "tar",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mothao",
+      "translation": "twine",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mowhai",
+      "translation": "tunnel",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muewhoa",
+      "translation": "marinade",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "muphai",
+      "translation": "avenue",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muphea",
+      "translation": "brown",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mushia",
+      "translation": "flesh/muscle",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muthae",
+      "translation": "paddle",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muthao",
+      "translation": "betrayal",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muthea",
+      "translation": "aunt",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mutheo",
+      "translation": "night",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "mutheu",
+      "translation": "arrow",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muthoe",
+      "translation": "milk",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muthoi",
+      "translation": "thought",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muthui",
+      "translation": "spouse",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muwhea",
+      "translation": "cow",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "muwhui",
+      "translation": "earth",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "naiphia",
+      "translation": "knife",
+      "category": "tools",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "naothue",
+      "translation": "zipper",
+      "category": "clothing and personal items",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "naphai",
+      "translation": "road",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "napheo",
+      "translation": "good",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "naphia",
+      "translation": "ant",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nasheo",
+      "translation": "sack",
+      "category": "containers and storage",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nathio",
+      "translation": "cooked",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nathui",
+      "translation": "morning",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nawhea",
+      "translation": "snail / slug",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nephie",
+      "translation": "spindle",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nephoa",
+      "translation": "neck",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "neshui",
+      "translation": "jacket",
+      "category": "clothing and personal items",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nethai",
+      "translation": "net",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "niphai",
+      "translation": "gorge / canyon",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "niphao",
+      "translation": "gouge",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "niphei",
+      "translation": "bloom",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nipheo",
+      "translation": "mind",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nipheu",
+      "translation": "fur",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "niphia",
+      "translation": "knee",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "niphie",
+      "translation": "sleet",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nisheo",
+      "translation": "shelf",
+      "category": "furniture and shelter",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nithea",
+      "translation": "nose",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "niwhui",
+      "translation": "museum",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nophau",
+      "translation": "tea",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nophea",
+      "translation": "owl",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nophie",
+      "translation": "metal",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nophoe",
+      "translation": "plow",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nophoi",
+      "translation": "ankle",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "noshea",
+      "translation": "food",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nothao",
+      "translation": "string",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "notheu",
+      "translation": "juice",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nothui",
+      "translation": "face",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nowhai",
+      "translation": "gate",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuphai",
+      "translation": "adult",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuphei",
+      "translation": "hail",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuphie",
+      "translation": "amber",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuphuo",
+      "translation": "meaning",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuthai",
+      "translation": "foot",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuthao",
+      "translation": "understanding",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuthau",
+      "translation": "shield",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuthei",
+      "translation": "needle",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nutheo",
+      "translation": "doubt",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "nuwhai",
+      "translation": "waterfall",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "paphea",
+      "translation": "bark (of tree)",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "papheu",
+      "translation": "horn",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "paphie",
+      "translation": "wool",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pawhia",
+      "translation": "moment",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pepheu",
+      "translation": "fabric",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pephie",
+      "translation": "pearl",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "phaewhoi",
+      "translation": "humidity",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phaotheu",
+      "translation": "floor",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phaowheu",
+      "translation": "couch",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phauphai",
+      "translation": "bear",
+      "category": "essential animals",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phauwhai",
+      "translation": "lizard",
+      "category": "essential animals",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phauwhea",
+      "translation": "fog / mist",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phawhai",
+      "translation": "butterfly / moth",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phieshou",
+      "translation": "hat",
+      "category": "clothing and personal items",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phiphea",
+      "translation": "child",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phiphia",
+      "translation": "baby / infant",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phiphio",
+      "translation": "ice",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phithea",
+      "translation": "tool",
+      "category": "tools",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phithia",
+      "translation": "fingernail",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phithio",
+      "translation": "scorpion",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phophai",
+      "translation": "guest",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phophia",
+      "translation": "frog",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phothea",
+      "translation": "fat (body tissue)",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phothui",
+      "translation": "fire",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phowhai",
+      "translation": "station (train/bus)",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuawhai",
+      "translation": "stone",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phuethoi",
+      "translation": "container",
+      "category": "containers and storage",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phuithui",
+      "translation": "mud",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "phuphai",
+      "translation": "blood",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuphia",
+      "translation": "life",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuphio",
+      "translation": "fly (insect)",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuthai",
+      "translation": "forest (phenomenon/biome)",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuthea",
+      "translation": "finger",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuthoa",
+      "translation": "word",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuwhia",
+      "translation": "pig / swine",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "phuwhui",
+      "translation": "fear",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "piphai",
+      "translation": "swamp / marsh",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "piphao",
+      "translation": "wedge",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "piphea",
+      "translation": "bee",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pishau",
+      "translation": "box",
+      "category": "containers and storage",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pithau",
+      "translation": "raw",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pitheo",
+      "translation": "memory",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "piwhea",
+      "translation": "worker",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "piwhui",
+      "translation": "office",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pophea",
+      "translation": "bone",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pophia",
+      "translation": "berry",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "poshio",
+      "translation": "grasshopper / cricket",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pothae",
+      "translation": "underwear",
+      "category": "clothing and personal items",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pothai",
+      "translation": "fruit",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pothao",
+      "translation": "line",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pothui",
+      "translation": "grass",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pouwhie",
+      "translation": "roof",
+      "category": "furniture and shelter",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "powhai",
+      "translation": "wall",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "pupheu",
+      "translation": "crystal",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "puphoi",
+      "translation": "cheek",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "puphuo",
+      "translation": "pain",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "puthei",
+      "translation": "chisel",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "puthia",
+      "translation": "honey",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "puthoi",
+      "translation": "dream",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "puwhai",
+      "translation": "spring (water source)",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "raoshea",
+      "translation": "sun",
+      "category": "natural phenomena",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "raphea",
+      "translation": "gray",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rapheo",
+      "translation": "crab / lobster / shrimp",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "raphio",
+      "translation": "rabbit / hare",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "raphiu",
+      "translation": "bone",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rashia",
+      "translation": "anger",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rathea",
+      "translation": "shame",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rauphea",
+      "translation": "dusk / sunset",
+      "category": "natural phenomena",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "raushai",
+      "translation": "leader",
+      "category": "people and relationships",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "rephuo",
+      "translation": "leather",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphai",
+      "translation": "desert",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphao",
+      "translation": "splitter",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphea",
+      "translation": "autumn",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ripheo",
+      "translation": "courage",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphoa",
+      "translation": "root (botanical)",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphoi",
+      "translation": "chin",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphui",
+      "translation": "seal",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riphuo",
+      "translation": "oil",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rithau",
+      "translation": "gloves",
+      "category": "clothing and personal items",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rithea",
+      "translation": "toe",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ritheo",
+      "translation": "knowledge",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riwhea",
+      "translation": "wind",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "riwhui",
+      "translation": "library",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rophae",
+      "translation": "clay",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "roshai",
+      "translation": "flower",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "roshea",
+      "translation": "pink",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rothao",
+      "translation": "thread",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "rowhai",
+      "translation": "tower",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruphai",
+      "translation": "bank (of river)",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruphiu",
+      "translation": "pitch",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruthao",
+      "translation": "forgiveness",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruthea",
+      "translation": "daughter",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruwhai",
+      "translation": "pond",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruwhoa",
+      "translation": "week",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "ruwhui",
+      "translation": "hotel",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "saipheo",
+      "translation": "belt",
+      "category": "clothing and personal items",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "saiwhui",
+      "translation": "moon",
+      "category": "natural phenomena",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "saphea",
+      "translation": "sand",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "saphoa",
+      "translation": "snake",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "saphoe",
+      "translation": "glass",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sathue",
+      "translation": "vegetable",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sephie",
+      "translation": "gold",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "shaewhoi",
+      "translation": "cabinet",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shaphea",
+      "translation": "deer / antelope",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shaphoa",
+      "translation": "belly/abdomen",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shauphie",
+      "translation": "window",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shauphoa",
+      "translation": "storm",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "sheowhui",
+      "translation": "socks",
+      "category": "clothing and personal items",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shephoa",
+      "translation": "teacher",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "sheuthui",
+      "translation": "fish",
+      "category": "essential animals",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shewhoa",
+      "translation": "sheep",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiewhoe",
+      "translation": "wax",
+      "category": "materials and substances",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shiophea",
+      "translation": "air",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shiphai",
+      "translation": "snow",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiphia",
+      "translation": "year",
+      "category": "time concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiphoi",
+      "translation": "archipelago",
+      "category": "natural places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiphui",
+      "translation": "star",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shitheu",
+      "translation": "bottle",
+      "category": "containers and storage",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shithoa",
+      "translation": "death",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiwhea",
+      "translation": "liver",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiwhui",
+      "translation": "hospital",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shiwhuo",
+      "translation": "shark",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shoiphiu",
+      "translation": "vinegar",
+      "category": "consumables",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shophai",
+      "translation": "elder",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shophea",
+      "translation": "smoke (from fire)",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shothea",
+      "translation": "goat",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shouphie",
+      "translation": "basket",
+      "category": "containers and storage",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shuewhei",
+      "translation": "awl",
+      "category": "tools",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shuewhou",
+      "translation": "scythe",
+      "category": "tools",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "shuphai",
+      "translation": "cave",
+      "category": "natural places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shuphio",
+      "translation": "brother",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shuthui",
+      "translation": "partner",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "shuwhoa",
+      "translation": "sister",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "siphai",
+      "translation": "seed (botanical)",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphao",
+      "translation": "cleaver",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphea",
+      "translation": "chicken / fowl",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sipheo",
+      "translation": "respect",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphia",
+      "translation": "skin",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphoe",
+      "translation": "lime",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphou",
+      "translation": "salt",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphua",
+      "translation": "dawn / sunrise",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphui",
+      "translation": "spider",
+      "category": "essential animals",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siphuo",
+      "translation": "root",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sithue",
+      "translation": "drink",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "siuphoe",
+      "translation": "curd",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "siwhui",
+      "translation": "theater",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "soephuo",
+      "translation": "starch",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "sophio",
+      "translation": "herb",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sophui",
+      "translation": "truth",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sothao",
+      "translation": "fiber",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sothau",
+      "translation": "fresh",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sothea",
+      "translation": "breast (female)",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sowhai",
+      "translation": "fence",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sowhea",
+      "translation": "mouth",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suphai",
+      "translation": "ridge",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suphea",
+      "translation": "shoulder",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suphoi",
+      "translation": "jaw",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suphui",
+      "translation": "noon",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suphuo",
+      "translation": "reality",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suthai",
+      "translation": "minute",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suthao",
+      "translation": "envy",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suthea",
+      "translation": "cousin",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "sutheo",
+      "translation": "faith",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "suwhai",
+      "translation": "happiness",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "taphea",
+      "translation": "tongue",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tapheo",
+      "translation": "joy",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "taphia",
+      "translation": "black",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "teophau",
+      "translation": "closet",
+      "category": "furniture and shelter",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "tephea",
+      "translation": "rake",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tephie",
+      "translation": "sickle",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tephiu",
+      "translation": "shell",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tephou",
+      "translation": "ruler",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "thaphea",
+      "translation": "woman",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thaphia",
+      "translation": "hand",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thashoa",
+      "translation": "day",
+      "category": "time concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thauphie",
+      "translation": "coat",
+      "category": "clothing and personal items",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "theawhuo",
+      "translation": "chest",
+      "category": "containers and storage",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "thephoa",
+      "translation": "person",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thephue",
+      "translation": "thunder",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thethea",
+      "translation": "soul",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thiaphea",
+      "translation": "name (person's)",
+      "category": "people and relationships",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "thiphai",
+      "translation": "month",
+      "category": "time concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thiphea",
+      "translation": "animal",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thiphie",
+      "translation": "peace",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thiphoi",
+      "translation": "thorn / prickle",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thiwhai",
+      "translation": "heart",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thoaphue",
+      "translation": "collar",
+      "category": "clothing and personal items",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "thophai",
+      "translation": "school",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thophua",
+      "translation": "airport",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thuephei",
+      "translation": "cup",
+      "category": "containers and storage",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "thuewhai",
+      "translation": "tongs",
+      "category": "tools",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "thuishae",
+      "translation": "door",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "thuphai",
+      "translation": "boots",
+      "category": "clothing and personal items",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thuphei",
+      "translation": "spring",
+      "category": "time concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thuphui",
+      "translation": "stranger",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thuthui",
+      "translation": "field",
+      "category": "natural places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thuwhia",
+      "translation": "work",
+      "category": "abstract concepts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "thuwhui",
+      "translation": "city",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "tiphai",
+      "translation": "leg",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiphao",
+      "translation": "hatchet",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiphau",
+      "translation": "fat",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiphei",
+      "translation": "peak / summit",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tipheu",
+      "translation": "harvest",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiphio",
+      "translation": "maize",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiphoa",
+      "translation": "tooth",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiphuo",
+      "translation": "honor",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiwhea",
+      "translation": "artist",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tiwhui",
+      "translation": "church / temple",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tophoe",
+      "translation": "hoe",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tophou",
+      "translation": "pestle",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tophuo",
+      "translation": "poker",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tothao",
+      "translation": "strand",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tothau",
+      "translation": "meal",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "towhai",
+      "translation": "yard / courtyard",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuashoe",
+      "translation": "shoes",
+      "category": "clothing and personal items",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "tuphea",
+      "translation": "summer",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuphei",
+      "translation": "meadow",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tupheo",
+      "translation": "dust",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tupheu",
+      "translation": "drought",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuphia",
+      "translation": "purple",
+      "category": "colors",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuphie",
+      "translation": "flood",
+      "category": "natural phenomena",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuphoa",
+      "translation": "justice",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuphuo",
+      "translation": "fate",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuthao",
+      "translation": "jealousy",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "tuthea",
+      "translation": "son",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "waphea",
+      "translation": "war",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "waphoa",
+      "translation": "enemy",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wathuo",
+      "translation": "spice",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wepheu",
+      "translation": "shovel",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wephiu",
+      "translation": "compass",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "whaotheu",
+      "translation": "bucket",
+      "category": "containers and storage",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "whasheo",
+      "translation": "sleeve",
+      "category": "clothing and personal items",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "wheishea",
+      "translation": "water",
+      "category": "natural phenomena",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "whephai",
+      "translation": "student",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whephea",
+      "translation": "wave (ocean/water)",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whephua",
+      "translation": "turtle / tortoise",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whethea",
+      "translation": "book",
+      "category": "recreation and leisure",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whethua",
+      "translation": "sky (phenomenon)",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whiethau",
+      "translation": "bed",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "whiophea",
+      "translation": "mountain",
+      "category": "natural places",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "whiphoa",
+      "translation": "eye",
+      "category": "body parts",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whitheo",
+      "translation": "dress",
+      "category": "clothing and personal items",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whithia",
+      "translation": "village",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whithoa",
+      "translation": "dog",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whithui",
+      "translation": "lake",
+      "category": "natural places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whoiphae",
+      "translation": "wardrobe",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "whophai",
+      "translation": "worm",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whophea",
+      "translation": "place",
+      "category": "places",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whothae",
+      "translation": "scarf",
+      "category": "clothing and personal items",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whothea",
+      "translation": "mother",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whotheo",
+      "translation": "crocodile / alligator",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whuethao",
+      "translation": "ceiling",
+      "category": "furniture and shelter",
+      "pattern": "FPFP"
+    },
+    {
+      "word": "whuphoa",
+      "translation": "cloud",
+      "category": "natural phenomena",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whushoa",
+      "translation": "wolf",
+      "category": "essential animals",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "whuthea",
+      "translation": "grandmother",
+      "category": "people and relationships",
+      "pattern": "FVFP"
+    },
+    {
+      "word": "wiphai",
+      "translation": "cliff",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiphao",
+      "translation": "mattock",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiphei",
+      "translation": "canyon",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wipheo",
+      "translation": "mercy",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiphia",
+      "translation": "valley",
+      "category": "natural places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiphoi",
+      "translation": "wrist",
+      "category": "body parts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiphui",
+      "translation": "winter",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiphuo",
+      "translation": "bread",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "witheu",
+      "translation": "bag",
+      "category": "containers and storage",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiuwhua",
+      "translation": "stew",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "wiwhou",
+      "translation": "saw",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wiwhui",
+      "translation": "park",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "woewhoa",
+      "translation": "syrup",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "woiphai",
+      "translation": "grain",
+      "category": "consumables",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "wophai",
+      "translation": "host",
+      "category": "people and relationships",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wophea",
+      "translation": "loom",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wopheu",
+      "translation": "mortar",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wophia",
+      "translation": "bellows",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wophiu",
+      "translation": "scale",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wothao",
+      "translation": "cable",
+      "category": "tools",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wothau",
+      "translation": "nut",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wotheo",
+      "translation": "wild",
+      "category": "consumables",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wowhai",
+      "translation": "garden",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wuethue",
+      "translation": "desk",
+      "category": "furniture and shelter",
+      "pattern": "CPFP"
+    },
+    {
+      "word": "wuphai",
+      "translation": "path / trail",
+      "category": "places",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wuphie",
+      "translation": "glue",
+      "category": "materials and substances",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wuphuo",
+      "translation": "beauty",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wutheo",
+      "translation": "trust",
+      "category": "abstract concepts",
+      "pattern": "CVFP"
+    },
+    {
+      "word": "wuthua",
+      "translation": "weekend",
+      "category": "time concepts",
+      "pattern": "CVFP"
+    }
+  ]
+}

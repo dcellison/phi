@@ -4,15 +4,17 @@ Phi Word Lookup Utility
 
 This script extracts all phi words from the POS documentation files and provides
 comprehensive validation functionality including:
-- Lexicon accuracy (all phi words from official 522-word lexicon)
+- Lexicon accuracy (all phi words from official lexicon)
 - SOV compliance (all sentences follow Subject-Object-Verb order)
 - Glossing format (proper three-line structure: phi/gloss/english)
 - Phonotactic compliance (all words follow correct POS patterns)
 - Particle usage (correct grammatical particles where needed)
 
+All data is read directly from source files for maximum reliability.
+
 Usage:
     python phi_word_lookup.py word1 word2 word3
-    python phi_word_lookup.py --extract  # Extract all words to JSON
+    python phi_word_lookup.py --extract  # Extract all words from POS files
     python phi_word_lookup.py --validate "mia whethea shose"  # Validate sentence
     python phi_word_lookup.py --validate-file "path/to/file.md"  # Validate file
     python phi_word_lookup.py --comprehensive-validate-file "path/to/file.md"  # Full validation
@@ -470,21 +472,61 @@ class PhiWordDatabase:
         self.validator = PhiLanguageValidator()
         # Connect validator to word database for type identification
         self.validator.set_word_database(self.word_db)
-        self.pos_files = {
-            'nouns.md': 'noun',
-            'verbs.md': 'verb', 
-            'adjectives.md': 'adjective',
-            'adverbs.md': 'adverb',
-            'particles.md': 'particle',
-            'pronouns.md': 'pronoun',
-            'prepositions.md': 'preposition',
-            'determiners.md': 'determiner',
-            'conjunctions.md': 'conjunction',
-            'classifiers.md': 'classifier',
-            'interjections.md': 'interjection',
-            'numbers.md': 'number'
-        }
+        self.pos_files = self._discover_pos_files()
         
+    def _discover_pos_files(self) -> Dict[str, str]:
+        """Automatically discover all POS files in the directory structure."""
+        pos_files = {}
+        
+        if not self.pos_directory.exists():
+            print(f"Warning: POS directory {self.pos_directory} does not exist")
+            return pos_files
+        
+        # Find all .md files recursively
+        for md_file in self.pos_directory.rglob("*.md"):
+            # Skip certain files
+            if md_file.name.lower() in ['.ds_store', 'readme.md', 'index.md']:
+                continue
+                
+            # Get relative path from pos_directory
+            relative_path = md_file.relative_to(self.pos_directory)
+            
+            # Determine POS type from directory structure
+            if len(relative_path.parts) > 1:
+                # File is in a subdirectory - use directory name as POS type
+                # e.g., nouns/objects.md -> POS = "noun"
+                pos_type = relative_path.parts[0].rstrip('s')  # Remove plural 's'
+                if pos_type == 'noun':  # Handle special case
+                    pos_type = 'noun'
+                elif pos_type in ['verb', 'adjective', 'adverb', 'particle', 
+                                'pronoun', 'preposition', 'determiner', 
+                                'conjunction', 'classifier', 'interjection']:
+                    pos_type = pos_type
+                else:
+                    # Default to using directory name as-is
+                    pos_type = relative_path.parts[0].rstrip('s')
+            else:
+                # File is in root POS directory - use filename as POS type
+                # e.g., verbs.md -> POS = "verb"
+                filename_without_ext = md_file.stem
+                if filename_without_ext.endswith('s'):
+                    pos_type = filename_without_ext.rstrip('s')
+                else:
+                    pos_type = filename_without_ext
+            
+            # Store the relative path as key and POS type as value
+            pos_files[str(relative_path)] = pos_type
+            
+        return pos_files
+    
+    def show_discovered_files(self) -> None:
+        """Display all discovered POS files for debugging."""
+        print("Discovered POS files:")
+        print("=" * 50)
+        for filepath, pos_type in sorted(self.pos_files.items()):
+            print(f"{filepath:30} -> {pos_type}")
+        print(f"\nTotal: {len(self.pos_files)} files discovered")
+    
     def _analyze_phonotactic_pattern(self, word: str) -> str:
         """Analyze a phi word and return its phonotactic pattern."""
         pattern = ""
@@ -862,7 +904,6 @@ class PhiWordDatabase:
             print(f"Successfully added '{phi_word}' ({translation}) as {pos} to {filename}")
             # Rebuild database to include new word
             self.build_database()
-            self.save_database()
             return True
         else:
             print(f"Failed to add word to {filename}")
@@ -1292,15 +1333,37 @@ class PhiWordDatabase:
         lines = content.split('\n')
         current_pos = "unknown"
         
-        # First try exact filename matching from first line or title
+        # Get the filepath being processed (if available) from pos_files mapping
+        # This is more reliable than trying to guess from content
         first_lines = '\n'.join(lines[:5]).lower()
+        
+        # Try exact filename matching first
         for filename, pos in self.pos_files.items():
             pos_name = filename.replace('.md', '')
             if first_lines.startswith(f'# {pos_name}'):
                 current_pos = pos
                 break
         
-        # If no exact match, try content-based detection with specific patterns
+        # If no exact match, try partial matches for compound filenames
+        if current_pos == "unknown":
+            for filename, pos in self.pos_files.items():
+                # Handle cases like "objects-overhaul.md" with header "# objects"
+                if '/' in filename:  # It's in a subdirectory
+                    base_name = filename.split('/')[-1].replace('.md', '')
+                    # Try the base word (e.g., "objects" from "objects-overhaul")
+                    base_word = base_name.split('-')[0]
+                    if first_lines.startswith(f'# {base_word}'):
+                        current_pos = pos
+                        break
+                else:
+                    # Try the base word for root-level files too
+                    base_name = filename.replace('.md', '')
+                    base_word = base_name.split('-')[0]
+                    if first_lines.startswith(f'# {base_word}'):
+                        current_pos = pos
+                        break
+        
+        # If still no match, try content-based detection with specific patterns
         if current_pos == "unknown":
             if 'gloss abbreviations' in content.lower() and '| gloss | meaning | phi particle |' in content:
                 current_pos = 'particle'
@@ -1355,6 +1418,8 @@ def main():
                         help='Perform comprehensive validation of a phi documentation file')
     parser.add_argument('--stats', action='store_true',
                         help='Show database statistics')
+    parser.add_argument('--show-files', action='store_true',
+                        help='Show all discovered POS files')
     parser.add_argument('--patterns', action='store_true',
                         help='Show phonotactic pattern statistics')
     parser.add_argument('--search', type=str,
@@ -1367,25 +1432,20 @@ def main():
                         help='Semantic category for new word (used with --add-word)')
     parser.add_argument('--pos-dir', type=str, default='../source/pos',
                         help='Path to POS directory (default: ../source/pos)')
-    parser.add_argument('--db-file', type=str, default='phi_words.json',
-                        help='Database file path (default: phi_words.json)')
     
     args = parser.parse_args()
     
     # Initialize database
     db = PhiWordDatabase(args.pos_dir)
     
-    # Try to load existing database, otherwise build new one
-    if not db.load_database(args.db_file):
-        print("Building new database from POS files...")
-        db.build_database()
-        db.save_database(args.db_file)
+    # Always build database from source files (no caching)
+    print("Building database from source files...")
+    db.build_database()
     
     # Handle different operations
     if args.extract:
         print("Re-extracting words from POS files...")
         db.build_database()
-        db.save_database(args.db_file)
         
     elif args.validate:
         db.validate_sentence(args.validate)
@@ -1406,6 +1466,9 @@ def main():
             total += count
         print("-" * 30)
         print(f"{'TOTAL':12}: {total:4} words")
+        
+        if args.show_files:
+            db.show_discovered_files()
         
     elif args.patterns:
         stats = db.get_pattern_stats()
