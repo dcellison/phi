@@ -33,12 +33,12 @@ Phi particles are organized into a sophisticated three-slot hierarchy that gover
 
 These particles have scope over the entire clause or sentence and appear clause-initially. They define the overall mood, type, evidential status, or politeness of the entire statement.
 
-| Category | Function | Particles |
-| :-- | :-- | :-- |
-| Sentence Type | Define clause type | `wae` (Q), `nou` (IMP), `luo` (COND), `soi` (HORT) |
+| Category      | Function              | Particles                                              |
+| :------------ | :-------------------- | :----------------------------------------------------- |
+| Sentence Type | Define clause type    | `wae` (Q), `nou` (IMP), `luo` (COND), `soi` (HORT)     |
 | Evidentiality | Source of information | `hie` (DIR), `roe` (INFER), `lau` (REP), `heu` (ASSUM) |
-| Discourse | Structure discourse | `hao` (TOP), `mui` (CNT), `nue` (FOC), `reo` (EVEN) |
-| Politeness | Social register | `piu` (POL), `tua` (HON), `pui` (APOL), `ruo` (GRAT) |
+| Discourse     | Structure discourse   | `hao` (TOP), `mui` (CNT), `nue` (FOC), `reo` (EVEN)    |
+| Politeness    | Social register       | `piu` (POL), `tua` (HON), `pui` (APOL), `ruo` (GRAT)   |
 
 **Ordering within Slot 0**: Sentence type → Evidentiality → Discourse → Politeness
 
@@ -59,12 +59,12 @@ These particles have scope over the entire clause or sentence and appear clause-
 
 These particles precede the verb complex and indicate tense, aspect, mood, or negation. They have scope over the core verb phrase.
 
-| Category | Function | Particles |
-| :-- | :-- | :-- |
-| Tense | Temporal reference | `liu` (PST), `tae` (PRS), `sua` (FUT), `wio` (NOW), `toi` (THEN) |
-| Aspect | Event structure | `nia` (PFV), `riu` (IPFV), `poi` (INCH), `peo` (CESS) |
-| Modality | Possibility/necessity | `rae` (NEC), `seo` (POS), `wea` (ABIL), `wou` (PRH) |
-| Negation | Negative polarity | `meu` (NEG) |
+| Category | Function              | Particles                                                        |
+| :------- | :-------------------- | :--------------------------------------------------------------- |
+| Tense    | Temporal reference    | `liu` (PST), `tae` (PRS), `sua` (FUT), `wio` (NOW), `toi` (THEN) |
+| Aspect   | Event structure       | `nia` (PFV), `riu` (IPFV), `poi` (INCH), `peo` (CESS)            |
+| Modality | Possibility/necessity | `rae` (NEC), `seo` (POS), `wea` (ABIL), `wou` (PRH)              |
+| Negation | Negative polarity     | `meu` (NEG)                                                      |
 
 **Ordering within Slot 1**: Tense → Aspect → Modality → Negation
 
@@ -85,13 +85,13 @@ These particles precede the verb complex and indicate tense, aspect, mood, or ne
 
 These particles immediately precede specific nouns, verbs, or adjectives they modify. They indicate grammatical role, number, comparison, or emphasis.
 
-| Category | Function | Particles |
-| :-- | :-- | :-- |
-| POS Markers | Grammatical role | `sia` (SBJ), `nae` (OBJ), `tei` (VRB), `neu` (PASS) |
-| Number | Quantity | `tui` (DU), `pue` (PAU), `loi` (PL), `noa` (GPL) |
-| Comparison | Degree | `moe` (CMPR), `pau` (SUP), `sao` (EQL), `lea` (HEDGE) |
-| Focus/Emphasis | Prominence | `mao` (EMPH), `tio` (LIM), `tou` (AFF), `wia` (MIR) |
-| Spatial Deixis | Location reference | `tai` (PROX), `wui` (DIST) |
+| Category       | Function             | Particles                                                        |
+| :------------- | :------------------- | :--------------------------------------------------------------- |
+| POS Markers    | Grammatical role     | `sia` (SBJ), `nae` (OBJ), `tei` (VRB), `neu` (PASS)              |
+| Number         | Quantity             | `tui` (DU), `pue` (PAU), `loi` (PL), `noa` (GPL)                 |
+| Comparison     | Degree               | `moe` (CMPR), `pau` (SUP), `sao` (EQL), `lea` (HEDGE)            |
+| Focus/Emphasis | Prominence           | `mao` (EMPH), `tio` (LIM), `tou` (AFF), `wia` (MIR)              |
+| Spatial Deixis | Location reference   | `tai` (PROX), `wui` (DIST)                                       |
 
 **Ordering within Slot 2**:
 
@@ -325,53 +325,53 @@ The omissibility principle demonstrates that grammatical complexity need not be 
 
 ## Complete Particle Lexicon
 
-| phi word | gloss | english translation        |
-| :------- | :---- | :------------------------- |
-| hao      | TOP   | topic marker               |
-| heu      | ASSUM | assumptive evidential      |
-| hie      | DIR   | direct evidence            |
-| lau      | REP   | reportative evidential     |
-| lea      | HEDGE | hedge / softener           |
-| liu      | PST   | past tense                 |
-| loi      | PL    | plural                     |
-| luo      | COND  | conditional mood           |
-| mao      | EMPH  | emphasis                   |
-| meu      | NEG   | negation                   |
-| moe      | CMPR  | comparative                |
-| mui      | CNT   | contrast                   |
-| nae      | OBJ   | object marker              |
-| neu      | PASS  | passive voice              |
-| nia      | PFV   | perfective aspect          |
-| noa      | GPL   | greater plural (6+)        |
-| nou      | IMP   | imperative mood            |
-| nue      | FOC   | focus marker               |
-| pau      | SUP   | superlative                |
-| peo      | CESS  | cessative aspect           |
-| piu      | POL   | politeness                 |
-| poi      | INCH  | inchoative aspect          |
-| pue      | PAU   | paucal number (3-5)        |
-| pui      | APOL  | apologetic                 |
-| rae      | NEC   | necessity/obligation modal |
-| reo      | EVEN  | even (scalar/additive focus)|
-| riu      | IPFV  | imperfective aspect        |
-| roe      | INFER | inference evidential       |
-| ruo      | GRAT  | gratitude                  |
-| sao      | EQL   | equality comparison        |
-| seo      | POS   | possibility/permission modal|
-| sia      | SBJ   | subject marker             |
-| soi      | HORT  | hortative mood             |
-| sua      | FUT   | future tense               |
-| tae      | PRS   | present tense              |
-| tai      | PROX  | proximal deixis            |
-| tei      | VRB   | verb marker                |
-| tio      | LIM   | limitative ('only', 'just')|
-| toi      | THEN  | then (temporal)            |
-| tou      | AFF   | affirmation                |
-| tua      | HON   | honorific                  |
-| tui      | DU    | dual number (2)            |
-| wae      | Q     | question marker            |
-| wea      | ABIL  | ability modal              |
-| wia      | MIR   | mirative                   |
-| wio      | NOW   | now (temporal)             |
-| wou      | PRH   | prohibition modal          |
-| wui      | DIST  | distal deixis              |
+| phi word | gloss | english translation          |
+| :------- | :---- | :--------------------------- |
+| hao      | TOP   | topic marker                 |
+| heu      | ASSUM | assumptive evidential        |
+| hie      | DIR   | direct evidence              |
+| lau      | REP   | reportative evidential       |
+| lea      | HEDGE | hedge / softener             |
+| liu      | PST   | past tense                   |
+| loi      | PL    | plural                       |
+| luo      | COND  | conditional mood             |
+| mao      | EMPH  | emphasis                     |
+| meu      | NEG   | negation                     |
+| moe      | CMPR  | comparative                  |
+| mui      | CNT   | contrast                     |
+| nae      | OBJ   | object marker                |
+| neu      | PASS  | passive voice                |
+| nia      | PFV   | perfective aspect            |
+| noa      | GPL   | greater plural (6+)          |
+| nou      | IMP   | imperative mood              |
+| nue      | FOC   | focus marker                 |
+| pau      | SUP   | superlative                  |
+| peo      | CESS  | cessative aspect             |
+| piu      | POL   | politeness                   |
+| poi      | INCH  | inchoative aspect            |
+| pue      | PAU   | paucal number (3-5)          |
+| pui      | APOL  | apologetic                   |
+| rae      | NEC   | necessity/obligation modal   |
+| reo      | EVEN  | even (scalar/additive focus) |
+| riu      | IPFV  | imperfective aspect          |
+| roe      | INFER | inference evidential         |
+| ruo      | GRAT  | gratitude                    |
+| sao      | EQL   | equality comparison          |
+| seo      | POS   | possibility/permission modal |
+| sia      | SBJ   | subject marker               |
+| soi      | HORT  | hortative mood               |
+| sua      | FUT   | future tense                 |
+| tae      | PRS   | present tense                |
+| tai      | PROX  | proximal deixis              |
+| tei      | VRB   | verb marker                  |
+| tio      | LIM   | limitative ('only', 'just')  |
+| toi      | THEN  | then (temporal)              |
+| tou      | AFF   | affirmation                  |
+| tua      | HON   | honorific                    |
+| tui      | DU    | dual number (2)              |
+| wae      | Q     | question marker              |
+| wea      | ABIL  | ability modal                |
+| wia      | MIR   | mirative                     |
+| wio      | NOW   | now (temporal)               |
+| wou      | PRH   | prohibition modal            |
+| wui      | DIST  | distal deixis                |

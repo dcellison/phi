@@ -14,7 +14,7 @@ research by levinson and meira demonstrates that languages group spatial concept
 
 ## core prepositional categories
 
-### essential spatial prepositions (15 prepositions)
+### essential spatial prepositions 
 *basic positioning and containment relationships*
 
 **containment and proximity**:
@@ -26,17 +26,17 @@ research by levinson and meira demonstrates that languages group spatial concept
 | wheo     | at                  |
 | shoe     | among               |
 | shui     | around              |
-| whau | near / close to |
+| whau     | near / close to     |
 
 **support and adjacency**:
-| phi word | english translation |
-| -------- | ------------------- |
-| phoi     | on                  |
-| whue     | above               |
-| shuo     | under               |
-| phoa     | beside              |
-| thei     | between             |
-| thao | against (for support) |
+| phi word | english translation   |
+| -------- | --------------------- |
+| phoi     | on                    |
+| whue     | above                 |
+| shuo     | under                 |
+| phoa     | beside                |
+| thei     | between               |
+| thao     | against (for support) |
 
 **relative position**:
 | phi word | english translation |
@@ -45,10 +45,10 @@ research by levinson and meira demonstrates that languages group spatial concept
 | whio     | in front of         |
 | shei     | opposite            |
 | thae     | across              |
-| whei | left of |
-| shai | right of |
+| whei     | left of             |
+| shai     | right of            |
 
-### essential directional prepositions (8 prepositions)
+### essential directional prepositions
 *movement and orientation relationships*
 
 | phi word | english translation |
@@ -61,42 +61,42 @@ research by levinson and meira demonstrates that languages group spatial concept
 | shoa     | out of              |
 | whui     | along               |
 | whuo     | beyond              |
-| phio | up (directional) |
-| shae | down (directional) |
-| whao | past (movement by) |
+| phio     | up (directional)    |
+| shae     | down (directional)  |
+| whao     | past (movement by)  |
 
-### essential temporal prepositions (6 prepositions)
+### essential temporal prepositions
 *time and sequence relationships*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| shea     | before              |
-| whia     | after               |
-| thuo     | during              |
-| shao     | until               |
-| whai     | since               |
-| shua     | throughout          |
-| sheo | for (duration) |
-| thui | at / on (specific time) |
+| phi word | english translation     |
+| -------- | ----------------------- |
+| shea     | before                  |
+| whia     | after                   |
+| thuo     | during                  |
+| shao     | until                   |
+| whai     | since                   |
+| shua     | throughout              |
+| sheo     | for (duration)          |
+| thui     | at / on (specific time) |
 
-### essential logical prepositions (10 prepositions)
+### essential logical prepositions
 *conceptual and causal relationships*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| thue     | of                  |
-| thio     | by                  |
-| whoi     | for                 |
-| phiu     | with                |
-| pheo     | without             |
-| thoi     | because of          |
-| phae     | about               |
-| thau     | as if               |
-| wheu     | like                |
-| shue     | by means of         |
-| whae | instead of / in place of |
-| phai | according to |
-| thiu | against (logical opposition) |
+| phi word | english translation          |
+| -------- | ---------------------------- |
+| thue     | of                           |
+| thio     | by                           |
+| whoi     | for                          |
+| phiu     | with                         |
+| pheo     | without                      |
+| thoi     | because of                   |
+| phae     | about                        |
+| thau     | as if                        |
+| wheu     | like                         |
+| shue     | by means of                  |
+| whae     | instead of / in place of     |
+| phai     | according to                 |
+| thiu     | against (logical opposition) |
 
 ## usage examples
 
@@ -115,7 +115,7 @@ See the book behind stone
 
 ### directional movement
 ```
-mia na shupho whie sharo
+mia nae shupho whie sharo
 1SG OBJ shop to go
 I go to the shop
 ```
@@ -128,7 +128,7 @@ I go through the forest
 
 ### temporal relationships
 ```
-mia shea sha whema
+mia shea sea whema
 1SG before 3SG come
 I come before him/her
 ```
@@ -147,7 +147,7 @@ I learn by book
 ```
 
 ```
-mia phiu sha thuwhia
+mia phiu sea thuwhia
 1SG with 3SG work
 I work with him/her
 ```
@@ -177,7 +177,7 @@ phi's `[F][P]` pattern ensures immediate recognition while providing 80 possible
 
 **Full form:**
 ```
-mia na whethea phia hiwhea shose
+mia nae whethea phia hiwhea shose
 1SG OBJ book in house see
 I see the book in the house
 ```
@@ -191,7 +191,7 @@ See the book in the house
 
 **Full form:**
 ```
-sha shio monite whema
+sea shio monite whema
 3SG from there come
 It comes from there
 ```
@@ -210,19 +210,3 @@ Come from there
 - Combine with particles for precise specification
 
 **relational clarity**: each preposition specifies one type of relationship without ambiguity. systematic formation enables precise expression of spatial, temporal, and logical connections while maintaining phonotactic integrity.
-
-## statistics and capacity
-
-- **current prepositions**: 39 total
-- **spatial**: 15 (38% - core positioning relationships)
-- **directional**: 8 (21% - movement and orientation)
-- **temporal**: 6 (15% - essential time relationships)
-- **logical**: 10 (26% - conceptual connections)
-
-- **phonotactic capacity**: `[F][P]` pattern
-  - **fricatives**: 4 options (ph, wh, th, sh)
-  - **vowel pairs**: 20 valid combinations (5×5 minus 5 identical pairs)
-  - **total combinations**: 4 × 20 = 80 possible prepositions
-- **current usage**: 39 combinations (49% utilization)
-- **remaining capacity**: 41 combinations available for specialized or emerging relationships
-- **functional completeness**: core relational needs covered while maintaining expansion potential 

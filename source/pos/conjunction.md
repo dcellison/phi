@@ -34,52 +34,52 @@ research into conjunction typology shows that certain connection concepts are un
 
 ## core conjunction categories
 
-### essential coordination (3 conjunctions)
+### essential coordination
 *Basic coordination relationships*
 
 | phi word | english translation |
-| -------- | ------------------- |
+| :------- | :------------------ |
 | nene     | and                 |
 | wiho     | or                  |
 | tupo     | but                 |
 
-### essential temporal (4 conjunctions)
+### essential temporal
 *Basic temporal relationships*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| wane     | when                |
-| matu     | after               |
-| pimo     | before              |
-| lina     | while               |
-| runa | until |
-| wanu | as soon as |
+| phi word | english translation   |
+| :------- | :-------------------- |
+| wane     | when                  |
+| matu     | after                 |
+| pimo     | before                |
+| lina     | while                 |
+| runa     | until                 |
+| wanu     | as soon as            |
 
-### essential logical (6 conjunctions)
+### essential logical
 *Basic logical relationships*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| wetu     | if                  |
-| renu     | because             |
-| lipi     | although            |
-| tela     | that                |
-| mosa     | so that / in order to |
-| huwa     | so (consequence)    |
+| phi word | english translation     |
+| :------- | :---------------------- |
+| wetu     | if                      |
+| renu     | because                 |
+| lipi     | although                |
+| tela     | that                    |
+| mosa     | so that / in order to   |
+| huwa     | so (consequence)        |
 
-### essential comparison (2 conjunctions)
+### essential comparison
 *Basic comparison relationships*
 
 | phi word | english translation |
-| -------- | ------------------- |
+| :------- | :------------------ |
 | woma     | as                  |
 | rami     | than                |
 
-### essential paired coordination (8 conjunctions)
+### essential paired coordination
 *Essential correlative pairs*
 
 | phi word | english translation        |
-| -------- | -------------------------- |
+| :------- | :------------------------- |
 | toha     | both (of pair)             |
 | sipa     | and (of pair)              |
 | miwa     | either (of pair)           |
@@ -105,7 +105,7 @@ I go or stay
 ```
 
 ```
-mia whera tupo me shule
+mia whera tupo meu shule
 1SG learn but NEG understand
 I learn but don't understand
 ```
@@ -125,7 +125,7 @@ After I learn, I understand
 
 ### logical relationships
 ```
-wetu lashea mia me sharo
+wetu lashea mia meu sharo
 if rain 1SG NEG go
 If it rains, I don't go
 ```
@@ -220,30 +220,3 @@ Food is important, I prepare
 **no morphological complexity**: conjunctions maintain consistent forms regardless of what they connect, making them reliable discourse markers.
 
 **discourse coherence**: conjunctions create clear logical flow between ideas, essential for coherent communication beyond simple sentences.
-
-## system statistics
-
-| category | conjunctions | coverage |
-|----------|-------------|----------|
-| coordination | 3 | basic logical connection |
-| temporal | 4 | fundamental time relationships |
-| logical | 6 | essential reasoning patterns |
-| comparison | 2 | basic comparison operations |
-| correlative | 8 | essential paired coordination |
-| **total** | **18** | **streamlined essentials** |
-
-**design achievement**: reduced from 33 conjunctions to 18 essential terms (45% reduction) while maintaining complete coverage of universal logical relationship concepts.
-
-## remaining conjunction capacity
-
-phi conjunctions follow the pattern `[C][V][C][V]` where:
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-
-total possible combinations = 9 × 5 × 9 × 5 = 2,025 conjunctions
-
-currently defined conjunctions = 18 (essential core vocabulary)
-
-remaining available conjunctions = 2,007
-
-this substantial remaining capacity allows for future expansion into specialized domains (technical, literary, academic) while maintaining the essential core for general logical expression needs.

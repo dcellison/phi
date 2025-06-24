@@ -24,7 +24,7 @@ cross-linguistic research shows that all languages require personal pronouns for
 
 ## core pronoun categories
 
-### essential personal pronouns (3 pronouns)
+### essential personal pronouns
 *Basic discourse participant reference*
 
 | phi word | english translation |
@@ -33,7 +33,7 @@ cross-linguistic research shows that all languages require personal pronouns for
 | tue      | you                 |
 | sea      | it/he/she/they      |
 
-### essential interrogative pronouns (2 pronouns)
+### essential interrogative pronouns
 *Basic question formation for unknown entities*
 
 | phi word | english translation |
@@ -51,7 +51,7 @@ I learn
 ```
 
 ```
-mia na sea shose
+mia nae sea shose
 1SG OBJ 3SG see
 I see it/him/her
 ```
@@ -64,19 +64,19 @@ It/he/she is blue
 
 ### interrogative pronoun questions
 ```
-lua li whera
+lua liu whera
 who PST learn
 Who learned?
 ```
 
 ```
-hio li phuho
+hio liu phuho
 what PST happen
 What happened?
 ```
 
 ```
-tue na lua shose
+tue nae lua shose
 2SG OBJ who see
 Who do you see?
 ```
@@ -91,27 +91,27 @@ What is that?
 
 **plurality marking**:
 ```
-lo mia whera
+loi mia whera
 PL 1SG learn
 We learn
 ```
 
 ```
-lo sea na lua shose
+loi sea nae lua shose
 PL 3SG OBJ who see
 Who do they see?
 ```
 
 **explicit grammatical marking**:
 ```
-si mia na hio whemo
+sia mia nae hio whemo
 SBJ 1SG OBJ what think
 What do I think?
 ```
 
 **emphasis marking**:
 ```
-ma lua li thea
+mao lua liu thea
 EMPH who PST come
 Who actually came?
 ```
@@ -131,7 +131,7 @@ Whose book
 
 **reflexive construction**:
 ```
-mia na mia whemo
+mia nae mia whemo
 1SG OBJ 1SG think
 I think about myself
 ```
@@ -170,7 +170,7 @@ phi embodies the **minimal marking principle** - use only what's needed for clea
 
 **Full form:**
 ```
-si mia na thueta whemo
+sia mia nae thueta whemo
 SBJ 1SG OBJ that think
 I think that
 ```
@@ -184,7 +184,7 @@ I think that
 
 **Full form:**
 ```
-lua li na whethea whina
+lua liu nae whethea whina
 who PST OBJ book find
 Who found the book
 ```
@@ -199,34 +199,13 @@ Who found book
 **beginner-friendly usage**: 
 - Start with basic pronouns: `mia whera` (I learn), `tue shose` (you see)
 - Add interrogatives gradually: `lua thea` (who came), `hio phuho` (what happened)
-- Use particles for clarity: `na lua` (who-object), `lo mia` (we)
+- Use particles for clarity: `nae lua` (who-object), `loi mia` (we)
 - Context often eliminates need for explicit marking
 
 **semantic precision**: each pronoun covers one clear reference domain without overlap. personal pronouns refer to known discourse entities; interrogative pronouns ask about unknown entities.
 
-**SOV integration**: pronouns follow phi's subject-object-verb positioning and integrate seamlessly with the particle system. examples: `mia na lua shose` (I see who), `hio thue tue phera` (what is yours), `lua li whera` (who learned).
+**SOV integration**: pronouns follow phi's subject-object-verb positioning and integrate seamlessly with the particle system. examples: `mia nae lua shose` (I see who), `hio thue tue phera` (what is yours), `lua liu whera` (who learned).
 
-**particle compatibility**: all pronouns work with the complete particle system including plurality (lo), emphasis (ma), grammatical marking (si/na), and discourse particles (ha/mi).
+**particle compatibility**: all pronouns work with the complete particle system including plurality (loi), emphasis (mao), grammatical marking (sia/nae), and discourse particles (ha/mi).
 
 **frequency optimization**: pronoun forms prioritize brevity and ease of articulation due to their extremely high frequency in natural speech, justifying their phonological patterns.
-
-## system statistics
-
-| category | pronouns | coverage |
-|----------|----------|----------|
-| personal | 3 | complete discourse participant reference |
-| interrogative | 2 | essential unknown entity questioning |
-| **total** | **5** | **complete pronominal system** |
-
-**design achievement**: phi's 5-pronoun system provides complete pronominal functionality while maintaining maximum simplicity and systematic integration with the particle system.
-
-## remaining pronoun capacity
-
-phi pronouns form a closed class with no planned expansion. the current five-pronoun system provides complete coverage of universal pronominal functions:
-
-- **discourse participants**: first person (mia), second person (tue), third person (sea)
-- **unknown entities**: people (lua), things (hio)
-
-additional pronominal meanings (reflexive, possessive, emphatic, plural) are expressed through systematic particle combinations rather than dedicated pronoun forms. this approach maintains lexical simplicity while providing unlimited expressive power through compositional grammar.
-
-the simple phonological status of pronouns is justified by their extremely high frequency and fundamental role in discourse structure. no additional core pronouns are needed, as the current system combined with phi's particle system covers all essential pronominal functions found across human languages.

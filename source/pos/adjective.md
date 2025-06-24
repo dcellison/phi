@@ -32,11 +32,11 @@ research into basic-level categorization shows that certain descriptive concepts
 
 ## core adjective categories
 
-### essential colors (10 adjectives)
+### essential colors
 *Universal basic color terms*
 
 | phi word | english translation |
-| -------- | ------------------- |
+| :------- | :------------------ |
 | taphi    | black               |
 | mipho    | blue                |
 | hashe    | green               |
@@ -47,13 +47,13 @@ research into basic-level categorization shows that certain descriptive concepts
 | hathi    | white               |
 | liphi    | yellow              |
 | mupha    | brown               |
-| rosha | pink |
+| rosha    | pink                |
 
-### essential sizes and shapes (12 adjectives)
+### essential sizes and shapes
 *Basic dimensional and geometric concepts*
 
 | phi word | english translation |
-| -------- | ------------------- |
+| :------- | :------------------ |
 | tophe    | big                 |
 | waphi    | small               |
 | tipha    | tall                |
@@ -66,161 +66,161 @@ research into basic-level categorization shows that certain descriptive concepts
 | ripho    | flat                |
 | retha    | straight            |
 | lowha    | curved              |
-| lophe | long |
-| lophu | deep |
-| lophi | shallow |
-| hoshe | hollow |
-| sothe | solid |
+| lophe    | long                |
+| lophu    | deep                |
+| lophi    | shallow             |
+| hoshe    | hollow              |
+| sothe    | solid               |
 
-### essential physical qualities (18 adjectives)
+### essential physical qualities
 *Basic sensory and material properties*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| notha    | hot                 |
-| nethi    | cold                |
-| waphe    | warm                |
-| supha    | cool                |
-| risho    | hard                |
-| pisha    | soft                |
-| pesha    | heavy               |
-| nitha    | light (weight)      |
-| hetha    | wet                 |
-| lusha    | dry                 |
-| loshe    | smooth              |
-| rusha    | rough               |
-| muthe    | sharp               |
-| luthe    | dull                |
-| mathi    | clean               |
-| sipha    | dirty               |
-| miwha    | bright              |
-| niwha    | dark                |
-| hotha | open |
-| nushe | natural / not artificial |
-| hophu | closed / shut |
-| nushi | artificial / man-made |
-| tiphe | tight |
-| tipho | loose |
-| wipha | strong (physical) |
-| hipha | weak (physical) |
-| sitha | fast (physical speed) |
-| titho | slow (physical speed) |
+| phi word | english translation        |
+| :------- | :------------------------- |
+| notha    | hot                        |
+| nethi    | cold                       |
+| waphe    | warm                       |
+| supha    | cool                       |
+| risho    | hard                       |
+| pisha    | soft                       |
+| pesha    | heavy                      |
+| nitha    | light (weight)             |
+| hetha    | wet                        |
+| lusha    | dry                        |
+| loshe    | smooth                     |
+| rusha    | rough                      |
+| muthe    | sharp                      |
+| luthe    | dull                       |
+| mathi    | clean                      |
+| sipha    | dirty                      |
+| miwha    | bright                     |
+| niwha    | dark                       |
+| hotha    | open                       |
+| nushe    | natural / not artificial   |
+| hophu    | closed / shut              |
+| nushi    | artificial / man-made      |
+| tiphe    | tight                      |
+| tipho    | loose                      |
+| wipha    | strong (physical)          |
+| hipha    | weak (physical)            |
+| sitha    | fast (physical speed)      |
+| titho    | slow (physical speed)      |
 
-### essential evaluative (10 adjectives)
+### essential evaluative
 *Basic value judgments and assessments*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| tushe    | good                |
-| wathe    | bad                 |
-| riphe    | important           |
-| sephu    | easy                |
-| tuthe    | difficult           |
-| meshi    | useful              |
-| wotha    | useless             |
-| washe    | safe                |
-| rasha    | dangerous           |
-| tophi    | true                |
-| lewha | clear |
-| sethe | possible |
-| tothe | wrong / incorrect |
-| lutha | unclear / obscure |
-| sutha | certain / sure |
-| suthi | uncertain / doubtful |
-| resha | necessary / essential |
-| mipha | beautiful / pretty |
-| miphi | ugly |
-| lishe | interesting (quality) |
-| lisho | boring / uninteresting (quality) |
+| phi word | english translation                |
+| :------- | :--------------------------------- |
+| tushe    | good                               |
+| wathe    | bad                                |
+| riphe    | important                          |
+| sephu    | easy                               |
+| tuthe    | difficult                          |
+| meshi    | useful                             |
+| wotha    | useless                            |
+| washe    | safe                               |
+| rasha    | dangerous                          |
+| tophi    | true                               |
+| lewha    | clear                              |
+| sethe    | possible                           |
+| tothe    | wrong / incorrect                  |
+| lutha    | unclear / obscure                  |
+| sutha    | certain / sure                     |
+| suthi    | uncertain / doubtful               |
+| resha    | necessary / essential              |
+| mipha    | beautiful / pretty                 |
+| miphi    | ugly                               |
+| lishe    | interesting (quality)              |
+| lisho    | boring / uninteresting (quality)   |
 
-### essential emotional and personality (15 adjectives)
+### essential emotional and personality
 *Basic emotional states and character traits*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| luphi    | happy               |
-| lepha    | sad                 |
-| rapha    | angry               |
-| lapho    | calm                |
-| withe    | scared              |
-| rathe    | brave               |
-| nuthe    | kind                |
-| pipho    | clever              |
-| nasha    | foolish             |
-| mepha    | honest              |
-| wiwha    | strong              |
-| hiwha    | weak                |
-| siwha    | fast                |
-| tiwha    | slow                |
-| wapho    | tired               |
-| suwhe | surprised |
-| susha | disgusted |
-| lowhe | curious |
-| posha | patient |
-| poshi | impatient |
-| lipha | interested / engaged |
-| mushe | bored |
-| wathu | alert / energetic / rested |
+| phi word | english translation          |
+| :------- | :--------------------------- |
+| luphi    | happy                        |
+| lepha    | sad                          |
+| rapha    | angry                        |
+| lapho    | calm                         |
+| withe    | scared                       |
+| rathe    | brave                        |
+| nuthe    | kind                         |
+| pipho    | clever                       |
+| nasha    | foolish                      |
+| mepha    | honest                       |
+| wiwha    | strong                       |
+| hiwha    | weak                         |
+| siwha    | fast                         |
+| tiwha    | slow                         |
+| wapho    | tired                        |
+| suwhe    | surprised                    |
+| susha    | disgusted                    |
+| lowhe    | curious                      |
+| posha    | patient                      |
+| poshi    | impatient                    |
+| lipha    | interested / engaged         |
+| mushe    | bored                        |
+| wathu    | alert / energetic / rested   |
 
-### essential temporal (4 adjectives)
+### essential temporal
 *Basic time-related concepts*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| nathe    | new                 |
-| lotha    | old                 |
-| lupha    | young               |
-| hapho    | ancient             |
-| hiphe | early |
-| hipho | late |
-| rithe | recent |
-| sisha | quick / immediate (temporal) |
-| soshi | brief (short time) |
-| peshe | permanent |
-| pesho | temporary |
+| phi word | english translation          |
+| :------- | :--------------------------- |
+| nathe    | new                          |
+| lotha    | old                          |
+| lupha    | young                        |
+| hapho    | ancient                      |
+| hiphe    | early                        |
+| hipho    | late                         |
+| rithe    | recent                       |
+| sisha    | quick / immediate (temporal) |
+| soshi    | brief (short time)           |
+| peshe    | permanent                    |
+| pesho    | temporary                    |
 
-### essential sensory qualities (8 adjectives)
+### essential sensory qualities
 *Basic gustatory, olfactory, and auditory experiences*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| hitha    | sweet               |
-| hutha    | sour                |
-| mithe    | bitter              |
-| wuthe    | spicy               |
-| hesha    | delicious           |
-| mesho    | bland               |
-| piwha    | loud                |
-| riwha    | quiet               |
-| tusha | fragrant / good-smelling |
-| washa | foul / bad-smelling |
-| mutha | earthy (smell/taste) |
-| sopha | burnt (smell/taste) |
+| phi word | english translation        |
+| :------- | :------------------------- |
+| hitha    | sweet                      |
+| hutha    | sour                       |
+| mithe    | bitter                     |
+| wuthe    | spicy                      |
+| hesha    | delicious                  |
+| mesho    | bland                      |
+| piwha    | loud                       |
+| riwha    | quiet                      |
+| tusha    | fragrant / good-smelling   |
+| washa    | foul / bad-smelling        |
+| mutha    | earthy (smell/taste)       |
+| sopha    | burnt (smell/taste)        |
 
-### essential quantity and state (8 adjectives)
+### essential quantity and state
 *Basic quantitative and conditional concepts*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| tuphe    | many                |
-| lepho    | few                 |
-| pupha    | full                |
-| miphe    | empty               |
-| tesho    | complete            |
-| miwhi    | fresh               |
-| niwhi    | stale               |
-| saphe    | equal               |
-| hisha | different |
-| mapha | ready |
-| moshe | common / prevalent |
-| metha | dead / not alive |
-| letha | alive / living |
-| mewha | uncommon / rare |
-| teshu | incomplete |
-| hopha | whole / entire |
-| pitha | single (sole/only one) |
-| tasha | present (not absent) |
-| tashi | absent (not present) |
+| phi word | english translation      |
+| :------- | :----------------------- |
+| tuphe    | many                     |
+| lepho    | few                      |
+| pupha    | full                     |
+| miphe    | empty                    |
+| tesho    | complete                 |
+| miwhi    | fresh                    |
+| niwhi    | stale                    |
+| saphe    | equal                    |
+| hisha    | different                |
+| mapha    | ready                    |
+| moshe    | common / prevalent       |
+| metha    | dead / not alive         |
+| letha    | alive / living           |
+| mewha    | uncommon / rare          |
+| teshu    | incomplete               |
+| hopha    | whole / entire           |
+| pitha    | single (sole/only one)   |
+| tasha    | present (not absent)     |
+| tashi    | absent (not present)     |
 
 ## cross-linguistic validation
 
@@ -283,7 +283,7 @@ Heavy stone
 - Start with single adjectives: `tushe noshea` (good food)
 - Add complexity gradually: 
 ```
-ma tushe miwhi noshea
+mao tushe miwhi noshea
 EMPH good fresh food
 Very good fresh food
 ```
@@ -296,38 +296,3 @@ Very good fresh food
 **no derivational morphology**: phi adjectives are not derived from other parts of speech. each maintains its distinct phonotactic pattern and semantic independence.
 
 **systematic coverage**: the eight core categories provide comprehensive descriptive capability for essential human communication needs.
-
-## system statistics
-
-| category | adjectives | coverage |
-|----------|------------|----------|
-| colors | 10 | universal basic colors |
-| size/shape | 12 | essential dimensions |
-| physical | 18 | core material properties |
-| evaluative | 10 | basic value judgments |
-| emotional | 15 | fundamental states/traits |
-| temporal | 4 | basic time concepts |
-| taste/sensation | 8 | core sensory experiences |
-| quantity/state | 8 | essential conditions |
-| **total** | **85** | **streamlined essentials** |
-
-**design achievement**: reduced from 166 adjectives to 85 essential terms (49% reduction) while maintaining complete coverage of universal descriptive concepts.
-
-## remaining adjective capacity
-
-phi adjectives follow the pattern `[C][V][F][V]` where:
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities  
-- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
-
-total possible combinations = 9 × 5 × 4 × 5 = 900 adjectives
-
-currently defined adjectives = 85 (essential core vocabulary)
-
-remaining available adjectives = 815
-
-this substantial remaining capacity allows for future expansion into specialized domains (technical, scientific, literary) while maintaining the essential core for general communication.
-
----
-
-*This streamlined system provides complete descriptive capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.* 

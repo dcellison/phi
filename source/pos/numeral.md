@@ -14,7 +14,7 @@ the system distinguishes between basic digits (0-9) and magnitude words (powers 
 
 ## core number categories
 
-### essential digits (10 numbers)
+### essential digits
 *basic numerical building blocks following `[F][V]` pattern*
 
 | phi word | english translation | value |
@@ -30,7 +30,7 @@ the system distinguishes between basic digits (0-9) and magnitude words (powers 
 | who      | eight               | 8     |
 | pha      | nine                | 9     |
 
-### essential magnitude words (13 numbers)
+### essential magnitude words
 *powers of ten following `[F][V][F][V]` pattern*
 
 | phi word | english translation | power |
@@ -53,13 +53,13 @@ the system distinguishes between basic digits (0-9) and magnitude words (powers 
 
 ### basic counting
 ```
-phi thephoa li whema
+phi thephoa liu whema
 one person PST come
 One person came
 ```
 
 ```
-whu mophui na phi thephoa li whiwo
+whu mophui nae phi thephoa liu whiwo
 two ball OBJ one person PST give
 One person gave two balls
 ```
@@ -72,20 +72,20 @@ There are one hundred twenty-three balls
 ```
 
 ```
-phi thuphi whu phitha pho moi teo shose
-one thousand two ten four CL.flat CL.round see
-See one thousand twenty-four round objects
+phi thuphi whu phitha pho shose
+one thousand two ten four see
+See one thousand twenty-four
 ```
 
 ### mathematical operations
 ```
-phi na whu whiwo the phera
+phi nae whu whiwo the phera
 one OBJ two give three be
 One plus two equals three
 ```
 
 ```
-pho na whu whiwo whu phera
+pho nae whu whiwo whu phera
 four OBJ two give two be
 Four divided by two equals two
 ```
@@ -139,7 +139,7 @@ phi's distinction between digit and magnitude phonotactic patterns (`[F][V]` vs 
 
 **implicit zero optimization**: zero components are omitted when all lower magnitudes would also be zero, reducing verbosity without sacrificing precision. this reflects universal cognitive preference for economical expression.
 
-**contextual number marking**: numbers combine naturally with particles to specify quantity, shape, and grammatical role without requiring special numeral syntax.
+**contextual number marking**: numbers combine naturally with particles to specify quantity and grammatical role without requiring special numeral syntax.
 
 **examples with natural simplification**:
 

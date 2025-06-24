@@ -31,7 +31,7 @@ research into determiner typology shows that certain specification concepts are 
 
 ## core determiner categories
 
-### essential demonstratives (2 determiners)
+### essential demonstratives
 *Basic spatial and discourse reference*
 
 | phi word | english translation |
@@ -39,7 +39,7 @@ research into determiner typology shows that certain specification concepts are 
 | phiato   | this                |
 | thueta   | that                |
 
-### essential interrogatives (3 determiners)
+### essential interrogatives 
 *Basic question formation*
 
 | phi word | english translation |
@@ -48,7 +48,7 @@ research into determiner typology shows that certain specification concepts are 
 | whaesa   | what (determiner)   |
 | wheipa   | whose               |
 
-### essential universal quantifiers (3 determiners)
+### essential universal quantifiers
 *Basic universal quantification*
 
 | phi word | english translation |
@@ -57,7 +57,7 @@ research into determiner typology shows that certain specification concepts are 
 | pheapo   | each                |
 | phoitu   | both                |
 
-### essential existential quantifiers (4 determiners)
+### essential existential quantifiers
 *Basic existential quantification*
 
 | phi word | english translation |
@@ -66,15 +66,15 @@ research into determiner typology shows that certain specification concepts are 
 | phuato   | many                |
 | thiena   | any                 |
 | phielu   | few                 |
-| sheano | several |
+| sheano | several               |
 
-### essential negative quantifiers (1 determiner)
+### essential negative quantifiers 
 *Basic negative quantification*
 
 | phi word | english translation |
 | -------- | ------------------- |
 | thoana   | no/none             |
-| phoini | neither (of two) |
+| phoini | neither (of two)      |
 
 ## usage examples
 
@@ -86,7 +86,7 @@ This stone
 ```
 
 ```
-lo phiato phuawhai
+loi phiato phuawhai
 PL this stone
 These stones
 ```
@@ -98,7 +98,7 @@ That house
 ```
 
 ```
-lo thueta hiwhea
+loi thueta hiwhea
 PL that house
 Those houses
 ```
@@ -118,7 +118,7 @@ Whose food
 
 ### quantification
 ```
-shoata lo thephoa
+shoata loi thephoa
 all PL person
 All people
 ```
@@ -181,14 +181,14 @@ Blue food
 
 **Full form:**
 ```
-shoata lo thephoa
+shoata loi thephoa
 all PL person
 All people
 ```
 
 **Natural form:**
 ```
-lo thephoa
+loi thephoa
 PL person
 People
 ```
@@ -196,46 +196,13 @@ People
 **beginner-friendly usage**: 
 - Start with basic demonstratives: `phiato noshea` (this food), `thueta hiwhea` (that house)
 - Add quantifiers gradually: `sheapa noshea` (some food)
-- Use particles for plurality: `lo phiato noshea` (these foods)
+- Use particles for plurality: `loi phiato noshea` (these foods)
 - Context often eliminates need for explicit specification
 
 **semantic precision**: each determiner covers one clear specification domain without overlap. speakers choose determiners based on the specific reference or quantification they want to express.
 
-**SOV positioning**: determiners appear between particles and nouns in phi's subject-object-verb word order. examples: `lo phiato phuawhai` (these stones), `whieso hiwhea` (which house), `thueta noshea` (that food).
+**SOV positioning**: determiners appear between particles and nouns in phi's subject-object-verb word order. examples: `loi phiato phuawhai` (these stones), `whieso hiwhea` (which house), `thueta noshea` (that food).
 
 **demonstrative distance system**: phi follows the universal two-way proximal/distal distinction. spatial reference beyond this basic contrast is handled through prepositions and adverbs rather than additional demonstrative lexemes.
 
 **number marking integration**: phi handles demonstrative plurality through the existing particle system rather than separate lexical items. this follows the pattern found in the majority of world languages where distance is the primary demonstrative distinction.
-
-## system statistics
-
-| category | determiners | coverage |
-|----------|-------------|----------|
-| demonstratives | 2 | basic spatial/discourse reference |
-| interrogatives | 3 | essential question formation |
-| universal quantifiers | 3 | fundamental universal quantification |
-| existential quantifiers | 4 | basic existential quantification |
-| negative quantifiers | 1 | essential negative quantification |
-| **total** | **12** | **streamlined essentials** |
-
-**design achievement**: reduced from 25 determiners to 12 essential terms (32% reduction) while maintaining complete coverage of universal determiner concepts.
-
-## remaining determiner capacity
-
-phi determiners follow the pattern `[F][P][C][V]` where:
-- F = fricative digraph (ph, wh, th, sh) - 4 possibilities
-- P = vowel pair (20 valid combinations) - 20 possibilities
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-
-total possible combinations = 4 × 20 × 9 × 5 = 3,600 determiners
-
-currently defined determiners = 12 (essential core vocabulary)
-
-remaining available determiners = 3,588
-
-this substantial remaining capacity allows for future expansion into specialized domains (technical, literary, academic) while maintaining the essential core for general specification needs.
-
----
-
-*this streamlined system provides complete specification capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*

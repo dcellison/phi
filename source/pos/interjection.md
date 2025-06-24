@@ -12,77 +12,77 @@ phi interjections follow cross-linguistic patterns found in world languages whil
 
 ## core interjection categories
 
-### essential expressive interjections (8 interjections)
+### essential expressive interjections
 *spontaneous expressions of mental/emotional states*
 
 **emotive expressions**:
-| phi word | english translation |
-| -------- | ------------------- |
-| mimia    | oh (surprise)       |
-| wowou    | wow (amazement)     |
-| hihei    | hey (attention)     |
-| tatau    | alas (sorrow)       |
-| hapai | Ouch! (pain/discomfort) |
-| lalae | Yay! (joy/delight) |
-| piwai | Phew! (relief) |
-| tutio | Ugh! (disgust/revulsion) |
+| phi word | english translation        |
+| :------- | :------------------------- |
+| mimia    | oh (surprise)              |
+| wowou    | wow (amazement)            |
+| hihei    | hey (attention)            |
+| tatau    | alas (sorrow)              |
+| hapai    | Ouch! (pain/discomfort)    |
+| lalae    | Yay! (joy/delight)         |
+| piwai    | Phew! (relief)             |
+| tutio    | Ugh! (disgust/revulsion)   |
 
 **cognitive expressions**:
-| phi word | english translation |
-| -------- | ------------------- |
-| pupai    | aha (realization)   |
-| rurua    | hmm (thinking)      |
-| seseo    | huh (confusion)     |
-| lelei    | ooh (understanding) |
-| rawae | Really? (doubt/skepticism) |
-| nanio | Um.../Er... (hesitation) |
-| hipuo | Oops! / Whoops! (minor error) |
+| phi word | english translation            |
+| :------- | :----------------------------- |
+| pupai    | aha (realization)              |
+| rurua    | hmm (thinking)                 |
+| seseo    | huh (confusion)                |
+| lelei    | ooh (understanding)            |
+| rawae    | Really? (doubt/skepticism)     |
+| nanio    | Um.../Er... (hesitation)       |
+| hipuo    | Oops! / Whoops! (minor error)  |
 
-### essential conative interjections (4 interjections)
+### essential conative interjections
 *directed at others for attention or response*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| pisau    | psst (getting attention) |
-| hasou    | shh (requesting silence) |
-| wepau    | hey (calling out)   |
-| pohoi    | oi (demanding attention) |
-| hotai | Watch out! / Look out! (warning) |
-| tuwai | Go on! / Proceed! |
-| sapai | Stop! / Wait! / Hold on! |
+| phi word | english translation                |
+| :------- | :--------------------------------- |
+| pisau    | psst (getting attention)           |
+| hasou    | shh (requesting silence)           |
+| wepau    | hey (calling out)                  |
+| pohoi    | oi (demanding attention)           |
+| hotai    | Watch out! / Look out! (warning)   |
+| tuwai    | Go on! / Proceed!                  |
+| sapai    | Stop! / Wait! / Hold on!           |
 
-### essential phatic interjections (4 interjections)
+### essential phatic interjections
 *maintaining communicative contact*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| tumea    | mhm (acknowledgment) |
-| nehiu    | uh-huh (agreement)  |
-| papou    | yeah (affirmation)  |
-| lohau    | well (transitioning) |
-| welai | Hello / Hi (greeting) |
-| lowai | Bye / Goodbye (farewell) |
-| tamio | Thanks / Thank you (gratitude) |
-| pilei | Please (polite request) |
-| satua | Excuse me / Pardon me |
+| phi word | english translation              |
+| :------- | :------------------------------- |
+| tumea    | mhm (acknowledgment)             |
+| nehiu    | uh-huh (agreement)               |
+| papou    | yeah (affirmation)               |
+| lohau    | well (transitioning)             |
+| welai    | Hello / Hi (greeting)            |
+| lowai    | Bye / Goodbye (farewell)         |
+| tamio    | Thanks / Thank you (gratitude)   |
+| pilei    | Please (polite request)          |
+| satua    | Excuse me / Pardon me            |
 
 ## usage examples
 
 ### expressive interjections
 ```
-mimia me mipho phera
+mimia meu mipho phera
 oh NEG blue be
 Oh it's not blue
 ```
 
 ```
-wowou tue na sea whuni
+wowou tue nae sea whuni
 wow you OBJ it have
 Wow you have it
 ```
 
 ```
-tatau li shule
+tatau liu shule
 alas PST complete
 Alas it's completed
 ```
@@ -136,7 +136,7 @@ phi's phonotactic patterns for interjections (`[C][V][C][P]`) maintain both univ
 
 **examples with natural simplification**:
 ```
-mimia mia na thueta shose
+mimia mia nae thueta shose
 oh 1SG OBJ that see
 Oh I see that
 ```
@@ -148,7 +148,7 @@ Oh that
 ```
 
 ```
-wowou sea li mipho phera
+wowou sea liu mipho phera
 wow 3SG PST blue be
 Wow it was blue
 ```
@@ -166,15 +166,3 @@ Wow blue
 - Context often makes complex constructions unnecessary
 
 **semantic precision**: each interjection covers one specific type of mental state or communicative function without overlap. speakers choose based on genuine internal experience rather than social expectation.
-
-## statistics and capacity
-
-- **current interjections**: 16 total
-- **expressive**: 8 (50% - largest category for mental state expression)
-- **conative**: 4 (25% - focused on essential attention-getting)
-- **phatic**: 4 (25% - core communicative maintenance)
-
-- **phonotactic capacity**: [C][V][C][P] pattern
-- **theoretical maximum**: 9 × 5 × 9 × 20 = 8,100 combinations
-- **current usage**: 16 combinations (0.2% utilization)
-- **remaining capacity**: 8,084 combinations available for future interjections 

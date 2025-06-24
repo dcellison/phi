@@ -31,139 +31,139 @@ research into adverbial typology shows that certain modification concepts are un
 
 ## core adverb categories
 
-### essential temporal (12 adverbs)
+### essential temporal
 *Basic time-related concepts*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| natume   | again               |
-| parote   | already             |
-| tumane   | finally             |
-| walito   | always              |
-| harote   | immediately         |
-| sipane   | now                 |
-| somire   | soon                |
-| silane   | still               |
-| tapahe   | suddenly            |
-| tuwame   | then                |
-| remowa   | tomorrow            |
-| nutore   | yesterday           |
-| mateno | today |
-| mateni | tonight |
-| lowane | later |
-| pinate | first (in sequence) |
-| minate | last (in sequence) |
-| hipeto | early (adverbial) |
-| hipoto | late (adverbial) |
-| riteno | recently |
+| phi word | english translation   |
+| :------- | :-------------------- |
+| natume   | again                 |
+| parote   | already               |
+| tumane   | finally               |
+| walito   | always                |
+| harote   | immediately           |
+| sipane   | now                   |
+| somire   | soon                  |
+| silane   | still                 |
+| tapahe   | suddenly              |
+| tuwame   | then                  |
+| remowa   | tomorrow              |
+| nutore   | yesterday             |
+| mateno   | today                 |
+| mateni   | tonight               |
+| lowane   | later                 |
+| pinate   | first (in sequence)   |
+| minate   | last (in sequence)    |
+| hipeto   | early (adverbial)     |
+| hipoto   | late (adverbial)      |
+| riteno   | recently              |
 
-### essential spatial (8 adverbs)
+### essential spatial
 *Basic location and direction concepts*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| tanume   | here                |
-| monite   | there               |
-| nemita   | inside              |
-| walime   | outside             |
-| tomane   | down                |
-| humate   | up                  |
-| nimate   | in                  |
-| watame   | out                 |
-| honume | forward(s) |
-| honupi | backward(s) |
-| netore | near / close by |
-| netori | far / far away |
-| lawine | left (direction/side) |
-| rawine | right (direction/side) |
-| sunite | around (adverbial) |
-| wanome | away (from a place) |
+| phi word | english translation      |
+| :------- | :----------------------- |
+| tanume   | here                     |
+| monite   | there                    |
+| nemita   | inside                   |
+| walime   | outside                  |
+| tomane   | down                     |
+| humate   | up                       |
+| nimate   | in                       |
+| watame   | out                      |
+| honume   | forward(s)               |
+| honupi   | backward(s)              |
+| netore   | near / close by          |
+| netori   | far / far away           |
+| lawine   | left (direction/side)    |
+| rawine   | right (direction/side)   |
+| sunite   | around (adverbial)       |
+| wanome   | away (from a place)      |
 
-### essential manner (15 adverbs)
+### essential manner
 *Basic ways of performing actions*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| wanume   | well                |
-| hutune   | badly               |
-| sarume   | carefully           |
-| lumote   | completely          |
-| lotane   | gradually           |
-| namite   | informally          |
-| torume   | loudly              |
-| honate   | normally            |
-| polite   | politely            |
-| salime   | quietly             |
-| napine   | quickly             |
-| nirome   | slowly              |
-| tolime   | together            |
-| tomile   | partially           |
-| rusane   | respectfully        |
-| selumo | easily |
-| tuleno | difficultly / with difficulty |
-| miweno | secretly |
-| miwepo | openly / publicly (manner) |
-| hapone | accidentally / by chance |
-| haponi | intentionally / on purpose |
-| tolino | alone / separately (manner) |
-| namito | formally |
+| phi word | english translation           |
+| :------- | :---------------------------- |
+| wanume   | well                          |
+| hutune   | badly                         |
+| sarume   | carefully                     |
+| lumote   | completely                    |
+| lotane   | gradually                     |
+| namite   | informally                    |
+| torume   | loudly                        |
+| honate   | normally                      |
+| polite   | politely                      |
+| salime   | quietly                       |
+| napine   | quickly                       |
+| nirome   | slowly                        |
+| tolime   | together                      |
+| tomile   | partially                     |
+| rusane   | respectfully                  |
+| selumo   | easily                        |
+| tuleno   | difficultly / with difficulty |
+| miweno   | secretly                      |
+| miwepo   | openly / publicly (manner)    |
+| hapone   | accidentally / by chance      |
+| haponi   | intentionally / on purpose    |
+| tolino   | alone / separately (manner)   |
+| namito   | formally                      |
 
-### essential frequency (6 adverbs)
+### essential frequency
 *Basic frequency concepts*
 
 | phi word | english translation |
-| -------- | ------------------- |
+| :------- | :------------------ |
 | lirate   | always              |
 | ronute   | often               |
 | lopate   | sometimes           |
 | lomite   | rarely              |
 | mowate   | never               |
 | toline   | usually             |
-| pinome | once |
-| wunome | twice |
+| pinome   | once                |
+| wunome   | twice               |
 
-### essential degree (8 adverbs)
+### essential degree
 *Basic intensity and extent*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| ritune   | very                |
-| monute   | extremely           |
-| sunupe   | almost              |
-| lunite   | barely              |
-| tamile   | entirely            |
-| solane   | only                |
-| linote   | slightly            |
-| pirone   | enough              |
-| tupeno | too (excessively) |
-| netumo | quite / rather / fairly |
+| phi word | english translation       |
+| :------- | :------------------------ |
+| ritune   | very                      |
+| monute   | extremely                 |
+| sunupe   | almost                    |
+| lunite   | barely                    |
+| tamile   | entirely                  |
+| solane   | only                      |
+| linote   | slightly                  |
+| pirone   | enough                    |
+| tupeno   | too (excessively)         |
+| netumo   | quite / rather / fairly   |
 
-### essential logical (12 adverbs)
+### essential logical
 *Basic reasoning and connection*
 
-| phi word | english translation |
-| -------- | ------------------- |
-| piture   | actually            |
-| hinite   | certainly           |
-| tohume   | consequently        |
-| hotane   | however             |
-| lanite   | instead             |
-| lunape   | likely              |
-| natare   | nevertheless        |
-| musote   | obviously           |
-| hapite   | perhaps             |
-| tunupe   | probably            |
-| posane   | thus                |
-| ruwase   | also                |
-| wituno | otherwise |
-| solito | specifically / particularly |
-| hineto | indeed |
+| phi word | english translation         |
+| :------- | :-------------------------- |
+| piture   | actually                    |
+| hinite   | certainly                   |
+| tohume   | consequently                |
+| hotane   | however                     |
+| lanite   | instead                     |
+| lunape   | likely                      |
+| natare   | nevertheless                |
+| musote   | obviously                   |
+| hapite   | perhaps                     |
+| tunupe   | probably                    |
+| posane   | thus                        |
+| ruwase   | also                        |
+| wituno   | otherwise                   |
+| solito   | specifically / particularly |
+| hineto   | indeed                      |
 
-### essential interrogative (4 adverbs)
+### essential interrogative
 *Basic question words*
 
 | phi word | english translation |
-| -------- | ------------------- |
+| :------- | :------------------ |
 | hamite   | how                 |
 | wamine   | why                 |
 | timane   | when                |
@@ -244,36 +244,3 @@ I learn very well quickly
 **no derivational morphology**: phi adverbs are not derived from other parts of speech. each maintains its distinct phonotactic pattern and semantic independence.
 
 **systematic coverage**: the seven core categories provide comprehensive modification capability for essential human communication needs.
-
-## system statistics
-
-| category | adverbs | coverage |
-|----------|---------|----------|
-| temporal | 12 | essential time concepts |
-| spatial | 8 | basic location/direction |
-| manner | 15 | fundamental action modification |
-| frequency | 6 | basic repetition quantification |
-| degree | 8 | essential intensity/extent |
-| logical | 12 | fundamental reasoning |
-| interrogative | 4 | basic question formation |
-| **total** | **65** | **streamlined essentials** |
-
-**design achievement**: reduced from 102 adverbs to 65 essential terms (36% reduction) while maintaining complete coverage of universal modification concepts.
-
-## remaining adverb capacity
-
-phi adverbs follow the pattern `[C][V][C][V][C][V]` where:
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
-
-total possible combinations = 9 × 5 × 9 × 5 × 9 × 5 = 91,125 adverbs
-
-currently defined adverbs = 65 (essential core vocabulary)
-
-remaining available adverbs = 91,060
-
-this substantial remaining capacity allows for future expansion into specialized domains (technical, scientific, literary) while maintaining the essential core for general communication.
-
----
-
-*this streamlined system provides complete modification capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*
