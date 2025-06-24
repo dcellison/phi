@@ -359,7 +359,9 @@ phi uses single spaces between all words without exception. no additional spacin
 ### punctuation system
 phi employs minimal punctuation:
 - **periods (.)**: mark sentence boundaries only
+- **spaces ( )**: mark word boundaries only
 - **no commas**: phi syntax eliminates comma necessity
+- **no question marks**: phi syntax eliminates question mark necessity
 - **no capitals**: uniform letter size throughout
 
 ### text formatting

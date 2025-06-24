@@ -4,11 +4,9 @@
 
 ## introduction to phi pronouns
 
-pronouns in phi represent a deliberate exception to the language's otherwise strict phonotactic patterns. unlike other parts of speech that follow specific consonant-vowel structures, pronouns maintain simpler, more compact forms due to their extremely high frequency in everyday speech and their fundamental role in discourse structure.
+pronouns in phi are a special class of high-frequency words that uniformly follow the `[C][P]` (consonant + vowel pair) phonotactic pattern. this deliberate design choice provides a consistent phonological signature for all pronouns, reflecting their fundamental role in discourse while maintaining systematicity.
 
-the phi pronoun system consists of two essential categories: **personal pronouns** that refer to known entities in discourse, and **interrogative pronouns** that ask about unknown entities. this binary distinction covers the full spectrum of pronominal reference needs while maintaining systematic simplicity.
-
-all phi pronouns are phonologically exceptional, using compact forms that prioritize frequency and ease of articulation over systematic phonotactic compliance. this approach reflects cross-linguistic universals where pronouns often display irregular morphology due to their central role in human communication.
+the phi pronoun system consists of two essential categories: **personal pronouns** that refer to known entities in discourse, and **interrogative pronouns** that ask about unknown entities. this binary distinction covers the full spectrum of pronominal reference needs.
 
 unlike many natural languages, phi pronouns avoid gender distinctions and complex case systems. plurality and grammatical relationships are expressed through the standard particle system, maintaining consistency with phi's agglutinative design while keeping pronominal forms maximally simple.
 
@@ -32,8 +30,8 @@ cross-linguistic research shows that all languages require personal pronouns for
 | phi word | english translation |
 | -------- | ------------------- |
 | mia      | me/I                |
-| thi      | you                 |
-| sha      | it/he/she/they      |
+| tue      | you                 |
+| sea      | it/he/she/they      |
 
 ### essential interrogative pronouns (2 pronouns)
 *Basic question formation for unknown entities*
@@ -41,7 +39,7 @@ cross-linguistic research shows that all languages require personal pronouns for
 | phi word | english translation |
 | -------- | ------------------- |
 | lua      | who                 |
-| nua      | what                |
+| hio      | what                |
 
 ## usage examples
 
@@ -53,13 +51,13 @@ I learn
 ```
 
 ```
-mia na sha shose
+mia na sea shose
 1SG OBJ 3SG see
 I see it/him/her
 ```
 
 ```
-sha mipho phera
+sea mipho phera
 3SG blue be
 It/he/she is blue
 ```
@@ -72,19 +70,19 @@ Who learned?
 ```
 
 ```
-nua li phuho
+hio li phuho
 what PST happen
 What happened?
 ```
 
 ```
-thi na lua shose
+tue na lua shose
 2SG OBJ who see
 Who do you see?
 ```
 
 ```
-thueta nua phera
+thueta hio phera
 that what be
 What is that?
 ```
@@ -99,14 +97,14 @@ We learn
 ```
 
 ```
-lo sha na lua shose
+lo sea na lua shose
 PL 3SG OBJ who see
 Who do they see?
 ```
 
 **explicit grammatical marking**:
 ```
-si mia na nua whemo
+si mia na hio whemo
 SBJ 1SG OBJ what think
 What do I think?
 ```
@@ -199,18 +197,18 @@ Who found book
 ```
 
 **beginner-friendly usage**: 
-- Start with basic pronouns: `mia whera` (I learn), `thi shose` (you see)
-- Add interrogatives gradually: `lua thea` (who came), `nua phuho` (what happened)
+- Start with basic pronouns: `mia whera` (I learn), `tue shose` (you see)
+- Add interrogatives gradually: `lua thea` (who came), `hio phuho` (what happened)
 - Use particles for clarity: `na lua` (who-object), `lo mia` (we)
 - Context often eliminates need for explicit marking
 
 **semantic precision**: each pronoun covers one clear reference domain without overlap. personal pronouns refer to known discourse entities; interrogative pronouns ask about unknown entities.
 
-**SOV integration**: pronouns follow phi's subject-object-verb positioning and integrate seamlessly with the particle system. examples: `mia na lua shose` (I see who), `nua thue thi phera` (what is yours), `lua li whera` (who learned).
+**SOV integration**: pronouns follow phi's subject-object-verb positioning and integrate seamlessly with the particle system. examples: `mia na lua shose` (I see who), `hio thue tue phera` (what is yours), `lua li whera` (who learned).
 
 **particle compatibility**: all pronouns work with the complete particle system including plurality (lo), emphasis (ma), grammatical marking (si/na), and discourse particles (ha/mi).
 
-**frequency optimization**: pronoun forms prioritize brevity and ease of articulation due to their extremely high frequency in natural speech, justifying their exceptional phonological status.
+**frequency optimization**: pronoun forms prioritize brevity and ease of articulation due to their extremely high frequency in natural speech, justifying their phonological patterns.
 
 ## system statistics
 
@@ -226,13 +224,9 @@ Who found book
 
 phi pronouns form a closed class with no planned expansion. the current five-pronoun system provides complete coverage of universal pronominal functions:
 
-- **discourse participants**: first person (mia), second person (thi), third person (sha)
-- **unknown entities**: people (lua), things (nua)
+- **discourse participants**: first person (mia), second person (tue), third person (sea)
+- **unknown entities**: people (lua), things (hio)
 
 additional pronominal meanings (reflexive, possessive, emphatic, plural) are expressed through systematic particle combinations rather than dedicated pronoun forms. this approach maintains lexical simplicity while providing unlimited expressive power through compositional grammar.
 
-the exceptional phonological status of pronouns is justified by their extremely high frequency and fundamental role in discourse structure. no additional core pronouns are needed, as the current system combined with phi's particle system covers all essential pronominal functions found across human languages.
-
----
-
-*this complete system provides full pronominal reference capability for all communication needs while maintaining phi's principles of systematic simplicity and compositional expressiveness.* 
+the simple phonological status of pronouns is justified by their extremely high frequency and fundamental role in discourse structure. no additional core pronouns are needed, as the current system combined with phi's particle system covers all essential pronominal functions found across human languages.

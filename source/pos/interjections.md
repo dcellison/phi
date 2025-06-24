@@ -76,7 +76,7 @@ Oh it's not blue
 ```
 
 ```
-wowou thi na sha whuni
+wowou tue na sea whuni
 wow you OBJ it have
 Wow you have it
 ```
@@ -108,7 +108,7 @@ Mhm I see
 ```
 
 ```
-lohau wetu sha tophi phera
+lohau wetu sea tophi phera
 well if 3SG true be
 Well if it's true
 ```
@@ -148,7 +148,7 @@ Oh that
 ```
 
 ```
-wowou sha li mipho phera
+wowou sea li mipho phera
 wow 3SG PST blue be
 Wow it was blue
 ```

@@ -1,491 +1,377 @@
-# particles
+# Phi Language Particle System: A Complete Guide with Slot Framework
 
-> particles are small, invariable words that do not fit neatly into the standard categories of nouns, verbs, adjectives, etc. they are used to express grammatical relationships, modify meanings, or convey nuances in a sentence. particles often accompany verbs to form phrasal verbs, indicating a special meaning different from the original verb alone. their meaning and function can vary significantly across different languages.
+## Introduction
 
-## introduction to phi particles
+The Phi language particle system represents a revolutionary approach to grammatical expression that prioritizes learner accessibility and systematic progression. Unlike traditional languages where complex grammar must be mastered before meaningful communication can occur, Phi's particle system allows speakers to begin communicating with just a handful of essential particles, gradually building complexity as their confidence and proficiency develop.
 
-Particles are a cornerstone of phi grammar. Because verbs do not conjugate, particles are essential for indicating grammatical information such as tense, mood, aspect, number, comparison, and emphasis. They can also optionally mark the grammatical role (subject, object, verb) of core words, enhancing clarity, particularly in more formal registers. The phi particle system is designed with a beginner-first philosophy: only 3-5 particles are essential for basic communication, while the full system of 30 particles provides sophisticated expressive capabilities for advanced users. All particles consistently precede the word, phrase, or clause they modify, creating predictable and learnable grammatical patterns.
+This pedagogical design reflects research showing that effective second language acquisition occurs in stages, with learners initially focusing on core vocabulary and basic structures before advancing to more sophisticated grammatical elements. The particle system in Phi enables this natural progression while maintaining the analytical transparency that makes the language accessible to speakers from diverse linguistic backgrounds.
 
-## design philosophy
+## Core Principles of Phi Particles
 
-The phi particle system prioritizes **essential communication** over academic completeness. This design:
+### The Precedence Rule
 
-- Minimizes cognitive load with 30 carefully selected particles
-- Eliminates redundancy across functional categories
-- Strengthens essential modality for daily communication
-- Maintains discourse coherence capabilities
-- Creates clear learning progression for beginners
-- Aligns with cross-linguistic universal patterns
+All Phi particles follow a fundamental precedence rule: particles strictly precede the words, phrases, or clauses they modify. This consistent positioning creates predictable syntactic patterns that support analytical transparency and systematic learning. For example, the particle `lo` (plural) always precedes the noun it marks as plural, creating clear, unambiguous grammatical relationships.
 
-Research shows that certain grammatical categories appear in 85-100% of world languages, while others are more specialized. Phi's particle system focuses on the essential core while preserving expressiveness.
+### Functional Categories
 
-## beginner-first approach
+Phi particles are organized into several functional categories that reflect universal grammatical distinctions found across languages:
 
-**Core principle**: Only absolutely necessary particles are required. All others are optional enhancements.
+- **Tense and temporal relations** (when things happen)
+- **Modality and necessity** (possibility, obligation, ability)
+- **Number and quantity** (how many)
+- **Polarity and negation** (positive or negative)
+- **Discourse and interaction** (emphasis, focus, questions)
+- **Case and role marking** (subject, object, verb - optional)
+- **Evidentiality and source** (how we know something)
+- **Aspect and phase** (how actions unfold over time)
 
-**Always optional for beginners:**
-- **POS markers** (`si`, `na`, `te`) - grammatical roles clear from context/word order
-- **Present tense** (`ta`) - present is default when no other tense specified  
-- **Evidentiality** (`hi`, `ro`) - advanced feature for sophisticated communication
+## The Three-Slot System Framework
 
-**Required only when needed:**
-- **Plural** (`lo`) - when quantity distinction is communicatively important
-- **Past/Future** (`li`, `su`) - when time reference isn't clear from context
-- **Negation** (`me`) - to negate statements
-- **Questions** (`wa`) - to form yes/no questions
+Phi particles are organized into a sophisticated three-slot hierarchy that governs particle placement and interaction patterns. This system ensures systematic organization and functional clarity by organizing particles into functional categories based on their scope and syntactic position.
 
-This approach allows complete beginners to communicate effectively with as few as 3-5 particles while gradually adding complexity as their proficiency grows.
+### Slot 0: Sentence Frame Particles
 
-## gloss abbreviations
+These particles have scope over the entire clause or sentence and appear clause-initially. They define the overall mood, type, evidential status, or politeness of the entire statement.
 
-Interlinear glossing provides a morpheme-by-morpheme breakdown of linguistic examples, aligning the original text with its grammatical analysis and translation. This table lists the abbreviations used for grammatical categories in the glosses throughout this document. In a gloss, lowercase words indicate lexical items.
+| Category | Function | Particles |
+| :-- | :-- | :-- |
+| Sentence Type | Define clause type | `wae` (Q), `nou` (IMP), `luo` (COND), `soi` (HORT) |
+| Evidentiality | Source of information | `hie` (DIR), `roe` (INFER), `lau` (REP), `heu` (ASSUM) |
+| Discourse | Structure discourse | `hao` (TOP), `mui` (CNT), `nue` (FOC), `reo` (EVEN) |
+| Politeness | Social register | `piu` (POL), `tua` (HON), `pui` (APOL), `ruo` (GRAT) |
 
-| gloss | meaning                             | phi particle |
-|-------|-------------------------------------|--------------|
-| ABIL  | ability modal                       | `we`         |
-| AFF   | affirmation                         | `to`         |
-| ATT   | attention marker                    | `po`         |
-| CMPR  | comparative                         | `mo`         |
-| CNT   | contrast                            | `mi`         |
-| COND  | conditional mood                    | `lu`         |
-| DIR   | direct evidence (*optional*)        | `hi`         |
-| DU    | dual number                         | `tu`         |
-| EMPH  | emphasis                            | `ma`         |
-| EQL   | equality comparison                 | `sa`         |
-| EVEN  | even (scalar/additive focus)        | `re`         |
-| FOC   | focus marker                        | `nu`         |
-| FUT   | future tense                        | `su`         |
-| HEDGE | hedge / softener / approximator     | `le`         |
-| HORT  | hortative mood ("let's")            | `so`         |
-| IMP   | imperative mood                     | `no`         |
-| INFER | inference evidential (*optional*)   | `ro`         |
-| IPFV  | imperfective aspect                 | `ri`         |
-| LIM   | limitative ('only', 'just')         | `ti`         |
-| NEC   | necessity/obligation modal          | `ra`         |
-| NEG   | negation                            | `me`         |
-| OBJ   | object marker (*optional*)          | `na`         |
-| PASS  | passive voice                       | `ne`         |
-| PAUC  | paucal number                       | `pu`         |
-| PFV   | perfective aspect                   | `ni`         |
-| PL    | plural                              | `lo`         |
-| POS   | possibility/permission modal        | `se`         |
-| PRH   | prohibition modal                   | `wo`         |
-| PRS   | present tense (*optional*)          | `ta`         |
-| PST   | past tense                          | `li`         |
-| Q     | question/interrogative              | `wa`         |
-| SBJ   | subject marker (*optional*)         | `si`         |
-| SHIFT | topic shift                         | `ho`         |
-| SPRL  | superlative                         | `pa`         |
-| TOP   | topic marker                        | `ha`         |
-| VRB   | verb marker (*optional*)            | `te`         |
+**Ordering within Slot 0**: Sentence type → Evidentiality → Discourse → Politeness
 
-## particle categories
+#### Examples of Slot 0 Particles
 
-### essential core (7 particles)
-*Fundamental grammatical particles*
+**Politeness Examples (`piu`)**
 
-**role particles** - *optional for beginners*
-| particle | function       | usage        | gloss          |
-|:---------|:---------------|:-------------|:---------------|
-| si       | subject marker | si thephoa   | `SBJ person`   |
-| na       | object marker  | na noshea    | `OBJ food`     |
-| te       | verb marker    | te whumi     | `VRB run`      |
+- Direct request: `nuthui whuwa` (pebble throw) → "throw the pebble"
+- Polite request: `piu nuthui whuwa` (POL pebble throw) → "please throw the pebble"
 
-*Note: These clarify grammatical roles but phi's SOV word order usually makes them unnecessary.*
+**Evidentiality Examples**
 
-**core grammar** - *use when needed*
-| particle | function        | usage        | gloss          |
-|:---------|:----------------|:-------------|:---------------|
-| lo       | plural marker   | lo thephoa   | `PL person`    |
-| tu       | dual marker     | tu thephoa   | `DU person`    |
-| pu       | paucal marker   | pu thephoa   | `PAUC person`  |
-| wa       | question marker | wa mia whera | `Q 1SG learn`  |
+- `hie phera lashea` (DIR be rain) → "it's raining" (I see it)
+- `roe phera lashea` (INFER be rain) → "it must be raining" (inferred)
+- `lau phera lashea` (REP be rain) → "they say it's raining" (reported)
 
-*Note: Animacy distinctions are handled through the classifier system during counting and quantification. For general reference, lexical meaning typically makes animacy clear.*
+### Slot 1: Verb Phrase Particles
 
-### tense/aspect/mood (8 particles)
-*Essential temporal, aspectual, and modal distinctions*
+These particles precede the verb complex and indicate tense, aspect, mood, or negation. They have scope over the core verb phrase.
 
-| particle | function            | usage         | gloss              | necessity                     |
-|:---------|:--------------------|:--------------|:-------------------|:------------------------------|
-| li       | past tense          | li mia whera  | `PST 1SG learn`    | **when past unclear**         |
-| ta       | present tense       | ta mia whera  | `PRS 1SG learn`    | *optional - default*          |
-| su       | future tense        | su mia whera  | `FUT 1SG learn`    | **when future unclear**       |
-| ni       | perfective aspect   | ni mia whera  | `PFV 1SG learn`    | *advanced usage*              |
-| ri       | imperfective aspect | ri mia whera  | `IPFV 1SG learn`   | *advanced usage*              |
-| lu       | conditional mood    | lu mia whera  | `COND 1SG learn`   | *advanced hypotheticals*      |
-| no       | imperative mood     | no mia sharo  | `IMP 1SG go`       | **essential for commands**    |
-| ne       | passive voice       | ne noshea wu   | `PASS food eat`     | **when needed for focus shift**|
+| Category | Function | Particles |
+| :-- | :-- | :-- |
+| Tense | Temporal reference | `liu` (PST), `tae` (PRS), `sua` (FUT), `wio` (NOW), `toi` (THEN) |
+| Aspect | Event structure | `nia` (PFV), `riu` (IPFV), `poi` (INCH), `peo` (CESS) |
+| Modality | Possibility/necessity | `rae` (NEC), `seo` (POS), `wea` (ABIL), `wou` (PRH) |
+| Negation | Negative polarity | `meu` (NEG) |
 
-**rationale**: Present tense is default (unmarked). Past and future only needed when time reference isn't obvious from context. Perfective/imperfective distinction is the most fundamental aspectual opposition cross-linguistically. Conditional mood essential for hypothetical expressions. Imperative mood is vital for commands and requests. Passive voice allows for shifting focus from agent to patient.
+**Ordering within Slot 1**: Tense → Aspect → Modality → Negation
 
-### modality (7 particles)
-*Essential modal expression*
+#### Examples of Slot 1 Particles
 
-**evidentiality (2 particles)** - *optional for beginners*
-| particle | function          | usage                 | gloss                    | necessity          |
-|:---------|:------------------|:----------------------|:-------------------------|:-------------------|
-| hi       | direct evidence   | hi mia sha whilana    | `DIR 1SG 3SG see`        | *advanced feature* |
-| ro       | inference         | ro sha noshea thewo   | `INFER 3SG food prepare` | *advanced feature* |
+**Basic Tense Examples**
 
-**deontic & other modality (5 particles)** - *use when expressing modality*
-| particle | function                 | usage                  | gloss                        | necessity                             |
-|:---------|:-------------------------|:-----------------------|:-----------------------------|:--------------------------------------|
-| ra       | necessity/obligation     | ra mia thea            | `NEC 1SG go`                 | **for "must/should"**                 |
-| se       | possibility/permission   | se mia thea            | `POS 1SG go`                 | **for "can/may"**                     |
-| we       | ability                  | we mia thewo           | `ABIL 1SG prepare`           | **for "able to"**                     |
-| wo       | prohibition              | wo mia thea            | `PRH 1SG go`                 | **for "cannot/forbidden"**            |
-| so       | hortative mood (let's)  | so mia whethea shose   | `HORT 1SG book read`         | **essential for "let's..." expressions** |
+- `mia liu whuwa` (1SG PST throw) → "I threw"
+- `mia tae whuwa` (1SG PRS throw) → "I throw"
+- `mia sua whuwa` (1SG FUT throw) → "I will throw"
 
-**rationale**: Modal concepts are essential for daily communication. Evidentiality is sophisticated but optional. Hortative mood is crucial for collaborative suggestions.
+**Negation Examples**
 
-### discourse management (7 particles)
-*For advanced communication & stance*
+- `mia meu whuwa` (1SG NEG throw) → "I don't throw"
+- `mia liu meu whuwa` (1SG PST NEG throw) → "I didn't throw"
 
-**topic/focus** - *advanced discourse*
-| particle | function   | usage                            | gloss                                  |
-|:---------|:-----------|:---------------------------------|:---------------------------------------|
-| ha       | topic marker | ha noshea mia thewo              | `TOP food 1SG prepare`                 |
-| mi       | contrast   | mia noshea thewo mi sha me thewo | `1SG food prepare CNT 3SG NEG prepare` |
+### Slot 2: Core Word Particles
 
-**emphasis** - *when emphasis needed*
-| particle | function | usage           | gloss                 |
-|:---------|:---------|:----------------|:----------------------|
-| ma       | emphasis | ma riphe noshea | `EMPH important food` |
-| nu       | focus    | nu mia whera    | `FOC 1SG learn`       |
+These particles immediately precede specific nouns, verbs, or adjectives they modify. They indicate grammatical role, number, comparison, or emphasis.
 
-**discourse flow & stance** - *advanced features*
-| particle | function                        | usage                  | gloss                 |
-|:---------|:--------------------------------|:-----------------------|:----------------------|
-| ho       | topic shift                     | ho whethui mipho phera | `SHIFT sky blue be`   |
-| po       | attention                       | po noshea thewo phera  | `ATT food prepare be` |
-| le       | hedge / softener / approximator | le tushe phera         | `HEDGE good be`       |
+| Category | Function | Particles |
+| :-- | :-- | :-- |
+| POS Markers | Grammatical role | `sia` (SBJ), `nae` (OBJ), `tei` (VRB), `neu` (PASS) |
+| Number | Quantity | `tui` (DU), `pue` (PAU), `loi` (PL), `noa` (GPL) |
+| Comparison | Degree | `moe` (CMPR), `pau` (SUP), `sao` (EQL), `lea` (HEDGE) |
+| Focus/Emphasis | Prominence | `mao` (EMPH), `tio` (LIM), `tou` (AFF), `wia` (MIR) |
+| Spatial Deixis | Location reference | `tai` (PROX), `wui` (DIST) |
 
-### comparison/quantification (7 particles)
-*Essential comparison, polarity, and scope*
+**Ordering within Slot 2**:
 
-| particle | function                     | usage                   | gloss                         | necessity                 |
-|:---------|:-----------------------------|:------------------------|:------------------------------|:--------------------------|
-| pa       | superlative                  | pa riphe noshea         | `SPRL important food`         | **for "most"**          |
-| mo       | comparative                  | mo riphe noshea         | `CMPR important food`         | **for "more"**          |
-| sa       | equality comparison          | sa riphe noshea         | `EQL important food`          | **for "as...as"**       |
-| me       | negation                     | me mia whera            | `NEG 1SG learn`               | **for "not"**           |
-| to       | affirmation                  | to mia whera            | `AFF 1SG learn`               | **for "yes/indeed"**    |
-| re       | even (scalar/additive focus) | re mia noshea thewo     | `EVEN 1SG food prepare`       | *advanced usage*          |
-| ti       | only/just (limitative)       | mia ti noshea thewo     | `1SG LIM food prepare`        | *advanced usage*          |
+- **Before nouns**: POS marker → Number → Comparison → Focus → Deixis
+- **Before verbs**: POS marker → Focus → verb
+- **Before adjectives**: Comparison → Focus → adjective
 
-**rationale**: Negation is essential. Complete comparison system (more/most/equal) found in most languages with comparison. Affirmation for emphasis or confirmation. Scalar focus and limitative particles add important nuance for advanced expression.
+#### Examples of Slot 2 Particles
 
-## learning progression
+**Emphasis Examples (`mao`)**
 
-The phi particle system enables clear pedagogical stages:
+- Neutral: `mia tae nuthui whuwa` (1SG PRS pebble throw) → "I throw the pebble"
+- Subject emphasis: `mao mia tae nuthui whuwa` (EMPH 1SG PRS pebble throw) → "*I* throw the pebble"
+- Object emphasis: `mia tae mao nuthui whuwa` (1SG PRS EMPH pebble throw) → "I throw the *pebble*"
 
-**stage 1: absolute basics (3 particles)**
-- Essential only: `lo` (plural), `me` (not), `wa` (question)
-- Can form: "lo thephoa" (people), "me whera" (not learn), "wa phera?" (is it?)
+**Four-Way Number Examples**
 
-**stage 2: time and necessity (4 particles)**
-- Add temporal: `li` (past), `su` (future), `ra` (must), `se` (can)
-- Can express: past events, future plans, obligations, permissions
+- `tui nuthui` (DU pebble) → "two pebbles"
+- `pue nuthui` (PAU pebble) → "a few pebbles"
+- `loi nuthui` (PL pebble) → "pebbles"
+- `noa nuthui` (GPL pebble) → "many pebbles"
 
-**stage 3: expanded modality (3 particles)** 
-- Add: `we` (able), `wo` (forbidden), `so` (let's)
-- Full modal expression capability
+## Particle Order Rules
 
-**stage 4: comparison and emphasis (4 particles)**
-- Add: `pa` (most), `mo` (more), `ma` (emphasis), `to` (affirmation)
-- Enhanced expression and comparison
+When multiple particles are used, they follow strict ordering based on their scope and category to ensure clarity:
 
-**stage 5: advanced discourse & grammar (remaining particles)**
-- All remaining particles for sophisticated communication
-- Optional markers (`si`, `na`, `te`, `hi`, `ro`, `ne`, `le`, `re`, `ti`)
+1. **Between-slot ordering**: Slot 0 → Slot 1 → Slot 2 → Core word
+2. **Within-slot ordering**: As specified for each slot above
+3. **Scope principle**: Particles with wider scope precede those with narrower scope
 
-## examples
-
-### absolute beginner level
-```
-lo thephoa noshea thewo
-PL person food prepare
-People prepare food
-```
+### Complex Example
 
 ```
-wa mia whera
-Q 1SG learn
-Do I learn?
+luo piu roe liu meu rae mao tapine phola
+COND POL INFER PST NEG NEC EMPH quickly go
+"If, politely, I infer it was not necessarily going *quickly*"
 ```
 
-```
-me mia whera
-NEG 1SG learn
-I don't learn
-```
+Breakdown:
 
-### basic temporal reference
-```
-li mia noshea thewo
-PST 1SG food prepare
-I prepared food
-```
+- **Slot 0**: `luo piu roe` (conditional, politeness, evidentiality)
+- **Slot 1**: `liu meu rae` (past, negation, necessity)
+- **Slot 2**: `mao` (emphasis)
+- **Core words**: `tapine phola` (quickly go)
 
-```
-su ra mia noshea thewo
-FUT NEC 1SG food prepare
-I will have to prepare food
-```
+## The Revolutionary Omissibility Principle
 
-### modal expression
-```
-se mia noshea thewo
-POS 1SG food prepare
-I can prepare food
-```
+### Communication Without Complexity
 
-```
-wo mia noshea thewo
-PRH 1SG food prepare
-I cannot prepare food
-```
+The most remarkable feature of Phi's particle system is that nearly all particles can be omitted initially while still maintaining meaningful communication. This principle aligns with research on minimal language approaches, which demonstrate that effective communication can occur with dramatically reduced grammatical complexity. Beginners can express complete thoughts using only content words (nouns, verbs, adjectives) and a minimal set of essential particles.
 
-```
-so mia thea
-HORT 1SG go
-Let's (me) go / I suggest I go
-```
+### Natural Language Parallels
 
-### imperative and passive
-```
-no sha thea
-IMP 3SG go
-Let him/her go! / S/he must go!
-```
+This approach mirrors how children acquire their first language and how adults learn second languages in natural settings. Research shows that early language learners focus on essential vocabulary and basic word order before mastering complex grammatical markers. Similarly, isolating languages like Chinese demonstrate that meaningful communication can occur with minimal morphological complexity.
 
-```
-ne noshea wu
-PASS food eat
-The food is eaten
-```
+## Five-Stage Learning Progression
 
-### comparison (still simple)
-```
-mo riphe noshea
-CMPR important food
-More important food
-```
+### Stage 1: Absolute Basics (3 particles)
 
-### advanced but accessible
-```
-li ra mia ma riphe noshea thewo
-PST NEC 1SG EMPH important food prepare
-I had to prepare important food
-```
+The foundational stage introduces only the most essential particles needed for basic communication:
 
-### expanded temporal examples
-```
-ri mia noshea thewo
-IPFV 1SG food prepare
-I was preparing food
-```
+- `loi` (PL) - plural marker
+- `meu` (NEG) - negation
+- `wae` (Q) - question marker
 
-```
-ni mia noshea thewo
-PFV 1SG food prepare
-I prepared food
-```
+**Examples:**
 
-### hypothetical/conditional expressions
-```
-lu mia thea
-COND 1SG go
-I would go
-```
+- `loi thephoa` → "people" (marking plurality)
+- `meu whera` → "not learn" (expressing negation)
+- `wae phera` → "is it?" (forming questions)
 
-```
-lu ra mia noshea thewo
-COND NEC 1SG food prepare
-I would have to prepare food
-```
+At this stage, learners can express basic statements, ask simple questions, and indicate when something is plural or negative. The minimal particle set ensures that cognitive load remains manageable while establishing fundamental communication patterns.
 
-### number distinctions
-```
-pu thephoa noshea thewo
-PAUC person food prepare
-A few people prepare food
-```
+### Stage 2: Time and Necessity (4 particles)
 
-```
-tu thephoa noshea thewo
-DU person food prepare
-Two people prepare food
-```
+Building on the foundation, Stage 2 introduces temporal and modal concepts:
 
-### complete comparison system
-```
-mo riphe noshea
-CMPR important food
-More important food
-```
+- `liu` (PST) - past tense
+- `sua` (FUT) - future tense
+- `rae` (NEC) - necessity modal
+- `seo` (POS) - possibility modal
 
-```
-sa riphe noshea
-EQL important food
-Equally important food
-```
+**Examples:**
 
-```
-pa riphe noshea
-SPRL important food
-Most important food
-```
+- `liu whera` → "learned" (past action)
+- `sua phema` → "will come" (future action)
+- `rae tomae` → "must work" (obligation)
+- `seo lalue` → "can see" (possibility)
 
-## cross-linguistic validation
+This stage enables learners to situate events in time and express basic modal relationships, significantly expanding communicative capacity while maintaining systematic simplicity.
 
-This enhanced system aligns with universal patterns:
+### Stage 3: Expanded Modality (3 particles)
 
-- **Negation**: Universal (100% of languages) ✓
-- **Question marking**: Near-universal (99%) ✓
-- **Plural marking**: Very common (95%) ✓
-- **Perfective/Imperfective**: Most fundamental aspectual distinction (90%) ✓
-- **Basic modality**: Very common (90%) ✓
-- **Complete comparison**: Common three-way system (85%) ✓
-- **Topic/focus**: Common (85%) ✓
-- **Dual number**: Very common number distinction (80%) ✓
-- **Paucal number**: Common for animates (80%) ✓
-- **Tense marking**: Common (80%) ✓
-- **Conditional mood**: Common for hypotheticals (75%) ✓
-- **Imperative mood**: Universal ✓
-- **Passive voice**: Very common ✓
-- **Hortative mood**: Common ✓
+Stage 3 completes the core modal system:
 
-The particle selection emphasizes categories that are either:
-- Universal (found in all or nearly all languages)
-- Communicatively essential (needed for daily interaction)
-- Pedagogically accessible (learnable without advanced grammar knowledge)
+- `wea` (ABIL) - ability modal
+- `wou` (PRH) - prohibition modal
+- `soi` (HORT) - hortative mood
 
-## usage notes
+**Examples:**
 
-**natural usage principles**:
+- `wea tomae` → "able to work" (capability)
+- `wou phola` → "must not go" (prohibition)
+- `soi phema` → "let's come" (suggestion)
 
-phi embodies the **minimal marking principle** - use only what's needed for clear communication. this creates authentic, flowing speech patterns rather than rigid grammatical structures.
+These additions provide full modal expression capability, allowing speakers to discuss abilities, prohibitions, and collaborative suggestions.
 
-**context sensitivity**: elements can be omitted when reference is unambiguous from context. this includes pronoun dropping, omitting obvious particles, and streamlined marking.
+### Stage 4: Number Precision and Comparison (6 particles)
 
-**progressive complexity**: beginners use simple forms; advanced speakers add sophistication only when communicatively valuable.
+Stage 4 introduces expressive enhancement tools and precise number marking:
 
-**examples with natural dropping**:
+- `tui` (DU) - dual marker (exactly two)
+- `pue` (PAU) - paucal marker (a few, 3-5)
+- `noa` (GPL) - greater plural (many, 6+)
+- `pau` (SUP) - superlative
+- `moe` (CMPR) - comparative
+- `mao` (EMPH) - emphasis marker
 
-**Full form:**
-```
-mia noshea thewo nene mia wheishea thewo
-1SG food prepare and 1SG water prepare
-I prepare food and I prepare water
-```
+**Examples:**
 
-**Natural form:**
-```
-mia noshea thewo nene wheishea thewo
-1SG food prepare and water prepare
-I prepare food and water
-```
+- `tui nuthui` → "two pebbles" (dual)
+- `pue nuthui` → "a few pebbles" (paucal)
+- `noa nuthui` → "many pebbles" (greater plural)
+- `pau misha` → "most beautiful" (superlative)
+- `moe tophe` → "bigger" (comparative)
+- `mao importante` → "*important*" (emphasis)
 
-**Full form:**
-```
-si mia na noshea te thewo
-SBJ 1SG OBJ food VRB prepare
-I prepare food
-```
+This stage enables nuanced expression, precise quantity specification, and comparison, essential for sophisticated communication.
 
-**Natural form:**
-```
-mia noshea thewo
-1SG food prepare
-I prepare food
-```
+### Stage 5: Advanced Discourse and Grammar
 
-**optional markers**:
-- POS markers (`si`, `na`, `te`) optional by default
-- Present tense (`ta`) optional (unmarked default)
-- Evidentiality (`hi`, `ro`) advanced-level feature
+The final stage introduces all remaining particles for sophisticated communication:
 
-**core principles**:
-- Minimal required particles for maximum accessibility
-- Clear learning progression from basic to sophisticated
-- Context and word order eliminate need for many grammatical markers
-- Advanced features available but not required for effective communication
+**Evidentiality and Source:**
 
-This approach maintains phi's systematic integrity while creating an ultra-beginner-friendly entry point with sophisticated expressive capabilities for advanced users.
-## system statistics
+- `hie` (DIR) - direct evidence
+- `roe` (INFER) - inference
+- `lau` (REP) - reportative
 
-| category                 | particles | required level          |
-|:-------------------------|:----------|:------------------------|
-| tense/aspect/mood        | 8         | basic to advanced       |
-| evidentiality            | 2         | advanced only           |
-| modality                 | 7         | basic to intermediate   |
-| discourse management     | 7         | intermediate to advanced|
-| comparison/quantification| 7         | basic to advanced       |
-| core grammar             | 7         | basic (mostly optional) |
-| **total**                | **36**    | **3-5 essential, 31-33 optional** |
+**Optional Grammatical Markers:**
 
-**Required for beginners**: 3-5 particles
-**Optional enhancements**: 31-33 particles
+- `sia` (SBJ) - subject marker
+- `nae` (OBJ) - object marker
+- `tei` (VRB) - verb marker
+- `neu` (PASS) - passive voice
 
-The enhanced system provides an ultra-beginner-friendly entry point with only 3-5 essential particles needed for basic communication while offering sophisticated expressive capabilities for advanced users, now with complete cross-linguistic coverage of fundamental grammatical categories including a robust four-way number system.
+**Advanced Discourse:**
 
-## phi particle vocabulary
+- `nue` (FOC) - focus marker
+- `reo` (EVEN) - scalar focus
+- `tio` (LIM) - limitative
+- `lea` (HEDGE) - hedge/softener
 
-This section provides a comprehensive list of all phi particles with their basic english translations, organized alphabetically for quick reference.
+**Remaining Number Marker:**
 
-| phi word | english translation                 | necessity level                        |
-| :------- | :---------------------------------- | :------------------------------------- |
-| ha       | topic marker                        | advanced                               |
-| hi       | direct evidence marker              | optional                               |
-| ho       | topic shift marker                  | advanced                               |
-| le       | hedge / softener / approximator   | advanced                               |
-| li       | past tense                          | when needed                            |
-| lo       | plural marker                       | when needed                            |
-| lu       | conditional mood                    | advanced                               |
-| ma       | emphasis marker                     | when needed                            |
-| me       | negation                            | essential                              |
-| mi       | contrast marker                     | advanced                               |
-| mo       | comparative                         | when needed                            |
-| na       | object marker                       | optional                               |
-| ne       | passive voice                       | when needed for focus shift          |
-| ni       | perfective aspect                   | advanced                               |
-| no       | imperative mood                     | essential for commands                 |
-| nu       | focus marker                        | advanced                               |
-| pa       | superlative                         | when needed                            |
-| po       | attention marker                    | advanced                               |
-| pu       | paucal marker                       | when needed                            |
-| ra       | necessity modal                     | when needed                            |
-| re       | even (scalar/additive focus)        | advanced                               |
-| ri       | imperfective aspect                 | advanced                               |
-| ro       | inference evidential                | optional                               |
-| sa       | equality comparison                 | when needed                            |
-| se       | possibility modal                   | when needed                            |
-| si       | subject marker                      | optional                               |
-| so       | hortative mood (let's)            | essential for "let's..." expressions  |
-| su       | future tense                        | when needed                            |
-| ta       | present tense                       | optional                               |
-| te       | verb marker                         | optional                               |
-| ti       | only/just (limitative)              | advanced                               |
-| to       | affirmation                         | when needed                            |
-| tu       | dual marker                         | when needed                            |
-| wa       | question marker                     | essential                              |
-| we       | ability modal                       | when needed                            |
-| wo       | prohibition modal                   | when needed                            |
+- `loi` (PL) - general plural (indefinite quantity)
 
-## remaining particle count
+These particles enable academic-level discourse, formal communication, and sophisticated narrative construction.
 
-phi particles follow the pattern `[C][V]` where:
-- C = consonant (h, l, m, n, p, r, s, t, w) - 9 possibilities
-- V = vowel (i, u, e, o, a) - 5 possibilities
+## Pedagogical Advantages
 
-Total possible combinations = 9 × 5 = 45 particles
+### Reduced Cognitive Load
 
-Currently defined particles = 36 (7 essential core + 8 tense/aspect/mood + 7 modality + 7 discourse management + 7 comparison/quantification)
+The staged progression aligns with second language acquisition research showing that learners benefit from gradual complexity introduction. By starting with minimal particle sets, learners avoid the overwhelming cognitive load that often accompanies traditional grammar instruction.
 
-Available unused particles: `hu`, `la`, `pe`, `wi`, `wu`, `ru`, `he`, `mu`, `pi`.
+### Immediate Communication Success
 
----
+Unlike traditional language learning where students must master extensive grammar before meaningful communication, Phi learners can express complete thoughts from the first lesson. This immediate success builds confidence and motivation, crucial factors in language acquisition.
 
-*For detailed usage examples and learning progression, see the comprehensive sections above.* 
+### Systematic Expansion
+
+Each stage builds logically on previous knowledge, creating systematic expansion rather than arbitrary rule accumulation. This approach reflects research on effective language pedagogy that emphasizes meaningful progression and functional communication.
+
+### Cross-Linguistic Accessibility
+
+The particle system's universality makes it accessible to speakers from diverse linguistic backgrounds. The functional categories reflect grammatical distinctions found across world languages, ensuring intuitive acquisition regardless of learners' native language.
+
+## Advanced Usage Notes
+
+### Optional Markers
+
+The subject (`sia`), object (`nae`), and verb (`tei`) markers are optional. They are typically used for disambiguation or in formal contexts to ensure maximum clarity.
+
+### Four-Way Number System
+
+Phi uses a precise four-way number distinction that provides superior expressive power:
+
+- `tui` (DU) - Exactly two items
+- `pue` (PAU) - Paucal (3-5 items)
+- `loi` (PL) - General plural (indefinite quantity)
+- `noa` (GPL) - Greater plural (6+ items)
+
+**Examples:**
+
+- `tui nuthui` → "two pebbles"
+- `pue nuthui` → "a few pebbles"
+- `loi nuthui` → "pebbles"
+- `noa nuthui` → "many pebbles"
+
+This system enables speakers to express precise quantity relationships while maintaining analytical clarity.
+
+### Negation Scope
+
+The placement of the negation particle determines its scope:
+
+- Verb phrase negation: `mia liu meu whuwa` → "I did not throw"
+- Constituent negation: `meu tui nuthui` → "not two pebbles"
+- Number-specific negation: `meu pue nuthui` → "not a few pebbles"
+
+## Implementation Strategies
+
+### Natural Progression
+
+Teachers can implement the five-stage system by introducing particles only when communicative needs arise. This natural progression mirrors how children acquire language and how adults learn in immersion settings.
+
+### Functional Focus
+
+Rather than teaching particles as abstract grammatical rules, instruction should focus on their communicative functions. Learners understand `meu` not as "negation marker" but as the tool for saying "not" in any context.
+
+### Meaningful Context
+
+All particle instruction should occur within meaningful communicative contexts rather than isolated grammatical exercises. This approach ensures that learners understand both form and function from the beginning.
+
+## Conclusion
+
+The Phi particle system represents a breakthrough in auxiliary language design, combining systematic grammatical organization with learner-centered pedagogy. By enabling communication from the earliest stages while providing clear progression pathways, the system addresses fundamental challenges in language learning and international communication.
+
+The three-slot framework provides the structural foundation that ensures systematic organization and functional clarity, while the five-stage progression ensures that learners can begin communicating immediately while systematically building toward sophisticated expression. The four-way number distinction adds precision to quantity expression while maintaining the analytical transparency that makes Phi accessible to speakers worldwide.
+
+The omissibility principle demonstrates that grammatical complexity need not be a barrier to communication, offering a model for how auxiliary languages can serve their intended purpose of facilitating international understanding and cooperation. This approach reflects best practices in second language acquisition research while maintaining the peace linguistics framework that promotes dignified, non-confrontational communication across cultures.
+
+## Complete Particle Lexicon
+
+| phi word | gloss | english translation        |
+| :------- | :---- | :------------------------- |
+| hao      | TOP   | topic marker               |
+| heu      | ASSUM | assumptive evidential      |
+| hie      | DIR   | direct evidence            |
+| lau      | REP   | reportative evidential     |
+| lea      | HEDGE | hedge / softener           |
+| liu      | PST   | past tense                 |
+| loi      | PL    | plural                     |
+| luo      | COND  | conditional mood           |
+| mao      | EMPH  | emphasis                   |
+| meu      | NEG   | negation                   |
+| moe      | CMPR  | comparative                |
+| mui      | CNT   | contrast                   |
+| nae      | OBJ   | object marker              |
+| neu      | PASS  | passive voice              |
+| nia      | PFV   | perfective aspect          |
+| noa      | GPL   | greater plural (6+)        |
+| nou      | IMP   | imperative mood            |
+| nue      | FOC   | focus marker               |
+| pau      | SUP   | superlative                |
+| peo      | CESS  | cessative aspect           |
+| piu      | POL   | politeness                 |
+| poi      | INCH  | inchoative aspect          |
+| pue      | PAU   | paucal number (3-5)        |
+| pui      | APOL  | apologetic                 |
+| rae      | NEC   | necessity/obligation modal |
+| reo      | EVEN  | even (scalar/additive focus)|
+| riu      | IPFV  | imperfective aspect        |
+| roe      | INFER | inference evidential       |
+| ruo      | GRAT  | gratitude                  |
+| sao      | EQL   | equality comparison        |
+| seo      | POS   | possibility/permission modal|
+| sia      | SBJ   | subject marker             |
+| soi      | HORT  | hortative mood             |
+| sua      | FUT   | future tense               |
+| tae      | PRS   | present tense              |
+| tai      | PROX  | proximal deixis            |
+| tei      | VRB   | verb marker                |
+| tio      | LIM   | limitative ('only', 'just')|
+| toi      | THEN  | then (temporal)            |
+| tou      | AFF   | affirmation                |
+| tua      | HON   | honorific                  |
+| tui      | DU    | dual number (2)            |
+| wae      | Q     | question marker            |
+| wea      | ABIL  | ability modal              |
+| wia      | MIR   | mirative                   |
+| wio      | NOW   | now (temporal)             |
+| wou      | PRH   | prohibition modal          |
+| wui      | DIST  | distal deixis              |

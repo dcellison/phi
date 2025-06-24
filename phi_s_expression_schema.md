@@ -62,17 +62,16 @@ If not present, these attributes are omitted.
 
 ## 3. Noun Phrases (NPs)
 
-Phi NP structure: `(Opt. Particles) (Opt. Determiner) (Opt. Number) (Opt. Classifier) (Adj*) Noun (Opt. Post-Nominal-PPs*)`
-S-expression format: `(Noun_Root :det Determiner :num Number_Atom_Or_List :clf Classifier :adj (Adj1 Adj2 ...) :pp (PP_S_Expr1 ...))`
+Phi NP structure: `(Opt. Particles) (Opt. Determiner) (Opt. Number) (Adj*) Noun (Opt. Post-Nominal-PPs*)`
+S-expression format: `(Noun_Root :det Determiner :num Number_Atom_Or_List :adj (Adj1 Adj2 ...) :pp (PP_S_Expr1 ...))`
 Number-marking particles like `lo` wrap the NP s-expression (see 2.2).
 
 Examples:
 *   `whethea` (book): `(whethea)`
 *   `tushe whethea` (good book): `(whethea :adj (tushe))`
 *   `phiato tushe whethea` (this good book): `(whethea :det phiato :adj (tushe))`
-*   `phi lea liphai` (one CL.long tree): `(liphai :num phi :clf lea)`
-*   `shoata lea the tushe riphe whethea` (all CL.long three good important book):
-    `(whethea :det shoata :num the :clf lea :adj (tushe riphe))`
+*   `shoata the tushe riphe whethea` (all three good important book):
+    `(whethea :det shoata :num the :adj (tushe riphe))`
 
 ## 4. Numbers
 
@@ -154,7 +153,6 @@ This is not exhaustive but covers primary types:
 
 *   `:det` (Determiner)
 *   `:num` (Number - value is an atom or a list of number atoms)
-*   `:clf` (Classifier)
 *   `:adj` (Adjective(s) - value is a list of adjective atoms or modified adjective s-expressions)
 *   `:pp` (Post-nominal Prepositional Phrase(s) - value is a list of PP s-expressions)
 *   Optional markers (on verb clause): `:s-marker`, `:o-marker`, `:v-marker`

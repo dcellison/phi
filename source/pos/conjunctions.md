@@ -112,7 +112,7 @@ I learn but don't understand
 
 ### temporal relationships
 ```
-wane mia sharo sha thewo
+wane mia sharo sea thewo
 when 1SG go 3SG prepare
 When I go, s/he prepares
 ```
@@ -247,7 +247,3 @@ currently defined conjunctions = 18 (essential core vocabulary)
 remaining available conjunctions = 2,007
 
 this substantial remaining capacity allows for future expansion into specialized domains (technical, literary, academic) while maintaining the essential core for general logical expression needs.
-
----
-
-*this streamlined system provides complete logical connection capability for daily communication while eliminating redundancy and maintaining phi's systematic phonotactic integrity.*

@@ -139,7 +139,7 @@ phi's distinction between digit and magnitude phonotactic patterns (`[F][V]` vs 
 
 **implicit zero optimization**: zero components are omitted when all lower magnitudes would also be zero, reducing verbosity without sacrificing precision. this reflects universal cognitive preference for economical expression.
 
-**contextual number marking**: numbers combine naturally with classifiers and particles to specify quantity, shape, and grammatical role without requiring special numeral syntax.
+**contextual number marking**: numbers combine naturally with particles to specify quantity, shape, and grammatical role without requiring special numeral syntax.
 
 **examples with natural simplification**:
 
