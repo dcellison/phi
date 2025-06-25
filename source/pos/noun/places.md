@@ -21,6 +21,12 @@
 | liwhoi   | wetland             |
 | lushie   | spring              |
 | phophui  | grove               |
+|          | hillside            |
+|          | plateau             |
+|          | canyon              |
+|          | forest              |
+|          | grassland           |
+|          | oasis               |
 
 ## living spaces and gathering places
 *community connection and shared life*
@@ -45,6 +51,12 @@
 | sethui   | workshop            |
 | lasheu   | kitchen             |
 | mephai   | hearth              |
+|          | dormitory           |
+|          | sanctuary           |
+|          | pavilion            |
+|          | plaza               |
+|          | courtyard           |
+|          | commons             |
 
 ## pathways and connections
 *movement and relationship between places*
@@ -65,4 +77,80 @@
 | thaphau  | connection          |
 | nathou   | junction            |
 | wawhuo   | threshold           |
+|          | gateway             |
+|          | entrance            |
+|          | portal              |
+|          | corridor            |
+
+## sacred and ceremonial spaces
+*spiritual connection and reverence*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | temple              |
+|          | shrine              |
+|          | altar               |
+|          | meditation space    |
+|          | prayer ground       |
+|          | pilgrimage site     |
+|          | ritual circle       |
+|          | holy mountain       |
+|          | sacred grove        |
+|          | blessing pool       |
+|          | vision quest place  |
+|          | ancestor ground     |
+
+## working and productive spaces
+*collaborative labor and creation*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | field               |
+|          | orchard             |
+|          | vineyard            |
+|          | pasture             |
+|          | barn                |
+|          | granary             |
+|          | mill                |
+|          | forge               |
+|          | pottery shed        |
+|          | weaving house       |
+|          | market square       |
+|          | trading post        |
+
+## water places and shores
+*flowing connections and life sources*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | river               |
+|          | stream              |
+|          | lake                |
+|          | pond                |
+|          | well                |
+|          | fountain            |
+|          | waterfall           |
+|          | estuary             |
+|          | bay                 |
+|          | shore               |
+|          | beach               |
+|          | harbor              |
+
+## elevated and protected places
+*refuge and perspective*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | mountain            |
+|          | peak                |
+|          | ridge               |
+|          | cliff               |
+|          | cave                |
+|          | shelter             |
+|          | hideaway            |
+|          | lookout             |
+|          | tower               |
+|          | fortress            |
+|          | refuge              |
+|          | sanctuary           |
 

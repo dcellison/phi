@@ -18,6 +18,11 @@
 | phethoi  | youth               |
 | lithea   | adult               |
 | tewhae   | elder               |
+|          | adolescent          |
+|          | teenager            |
+|          | middle-aged person  |
+|          | senior              |
+|          | ancestor            |
 
 ## private relationships
 *intimate family and personal bonds*
@@ -35,6 +40,15 @@
 | woshui   | friend              |
 | sophie   | beloved             |
 | phuwhoi  | companion           |
+|          | relative            |
+|          | family member       |
+|          | kinfolk             |
+|          | housemate           |
+|          | roommate            |
+|          | confidant           |
+|          | intimate            |
+|          | lover               |
+|          | soulmate            |
 
 ## public relationships
 *formal community and social connections*
@@ -51,6 +65,16 @@
 | phiphie  | leader              |
 | neshoi   | member              |
 | sishea   | representative      |
+|          | citizen             |
+|          | stranger            |
+|          | acquaintance        |
+|          | colleague           |
+|          | peer                |
+|          | associate           |
+|          | contact             |
+|          | connection          |
+|          | participant         |
+|          | volunteer           |
 
 ## exchange relationships
 *teaching, learning, and mutual support*
@@ -70,4 +94,77 @@
 | wowhia   | artist              |
 | pophoe   | mediator            |
 | hithai   | advisor             |
+|          | student             |
+|          | teacher             |
+|          | instructor          |
+|          | facilitator         |
+|          | counselor           |
+|          | therapist           |
+|          | helper              |
+|          | supporter           |
+|          | benefactor          |
+|          | recipient           |
+
+## social and community roles
+*organizing and serving community needs*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | organizer           |
+|          | coordinator         |
+|          | administrator       |
+|          | manager             |
+|          | supervisor          |
+|          | director            |
+|          | chairperson         |
+|          | moderator           |
+|          | facilitator         |
+|          | spokesperson        |
+|          | ambassador          |
+|          | delegate            |
+|          | captain             |
+|          | coordinator         |
+|          | secretary           |
+
+## knowledge and wisdom roles
+*sharing and preserving understanding*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | scholar             |
+|          | researcher          |
+|          | investigator        |
+|          | expert              |
+|          | specialist          |
+|          | consultant          |
+|          | advisor             |
+|          | wise person         |
+|          | keeper              |
+|          | guardian            |
+|          | recorder            |
+|          | chronicler          |
+|          | storyteller         |
+|          | philosopher         |
+|          | thinker             |
+
+## care and service roles
+*nurturing and supporting others*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | caregiver           |
+|          | nurturer            |
+|          | protector           |
+|          | guardian            |
+|          | attendant           |
+|          | aide                |
+|          | assistant           |
+|          | companion           |
+|          | servant             |
+|          | server              |
+|          | provider            |
+|          | supplier            |
+|          | contributor         |
+|          | benefactor          |
+|          | patron              |
 

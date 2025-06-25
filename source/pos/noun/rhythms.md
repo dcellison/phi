@@ -26,6 +26,18 @@
 | phithia  | lifetime            |
 | nithoa   | memory              |
 | whewheu  | future              |
+|          | birth               |
+|          | childhood           |
+|          | adolescence         |
+|          | adulthood           |
+|          | old age             |
+|          | death               |
+|          | beginning           |
+|          | middle              |
+|          | end                 |
+|          | development         |
+|          | maturation          |
+|          | decline             |
 
 ## environmental cycles and seasonal awareness
 *natural rhythms and ecological relationships*
@@ -52,6 +64,16 @@
 | piphiu   | seasonal change     |
 | whuphau  | harvest time        |
 | phephai  | planting time       |
+|          | spring              |
+|          | summer              |
+|          | autumn              |
+|          | winter              |
+|          | sunrise             |
+|          | midday              |
+|          | twilight            |
+|          | midnight            |
+|          | tide                |
+|          | flow                |
 
 ## community time and ceremonial rhythms
 *social bonds, celebration, and shared meaning*
@@ -75,4 +97,63 @@
 | phithoe  | cultural rhythm     |
 | thothue  | rest period         |
 | nawhoi   | renewal time        |
+|          | birthday            |
+|          | wedding             |
+|          | graduation          |
+|          | initiation          |
+|          | mourning            |
+|          | reunion             |
+|          | pilgrimage          |
+
+## work and productivity rhythms
+*labor cycles and productive activities*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | workday             |
+|          | break               |
+|          | shift               |
+|          | schedule            |
+|          | deadline            |
+|          | project             |
+|          | task                |
+|          | meeting             |
+|          | appointment         |
+|          | commute             |
+|          | overtime            |
+|          | vacation            |
+|          | retirement          |
+|          | productivity        |
+|          | efficiency          |
+|          | rush hour           |
+|          | peak time           |
+|          | slow period         |
+|          | busy season         |
+|          | downtime            |
+
+## temporal measurements and divisions
+*ways of organizing and counting time*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | second              |
+|          | minute              |
+|          | hour                |
+|          | week                |
+|          | month               |
+|          | year                |
+|          | decade              |
+|          | century             |
+|          | millennium          |
+|          | era                 |
+|          | age                 |
+|          | period              |
+|          | epoch               |
+|          | calendar            |
+|          | clock               |
+|          | timer               |
+|          | schedule            |
+|          | timetable           |
+|          | chronology          |
+|          | sequence            |
 

@@ -2,7 +2,7 @@
 
 *implements designed for specific tasks and work*
 
-> This vocabulary represents a comprehensive transformation of tool categorization through systematic research into cross-cultural universality and peace linguistics principles. Unlike standard academic inventories that often reflect Western technological bias, every single tool included here has been validated through extensive anthropological research to ensure it represents truly universal human activities found across contemporary global cultures. The structure follows functional psychology research showing that humans naturally categorize tools by their purpose rather than by material, origin, or academic criteria. Each of the eight categories celebrates fundamental human activities that promote peaceful creativity and collaborative problem-solving: processing materials, cultivating growth, building structures, shaping objects, creating textiles, ensuring precision, moving things, and working with fire. This curated collection eliminates culturally-specific tools and Western bias, instead honoring the constructive ingenuity and shared technological wisdom that unites humanity across diverse contemporary global cultures.
+> This vocabulary represents a comprehensive transformation of tool categorization through systematic research into cross-cultural universality and peace linguistics principles. Unlike standard academic inventories that often reflect Western technological bias, every single tool included here has been validated through extensive anthropological research to ensure it represents truly universal human activities found across contemporary global cultures. The structure follows functional psychology research showing that humans naturally categorize tools by their purpose rather than by material, origin, or academic criteria. Each of the twelve categories celebrates fundamental human activities that promote peaceful creativity and collaborative problem-solving: processing materials, cultivating growth, building structures, shaping objects, creating textiles, ensuring precision, moving things, working with fire, cutting and scraping, making containers, securing and binding, and extracting resources. This curated collection eliminates culturally-specific tools and Western bias, instead honoring the constructive ingenuity and shared technological wisdom that unites humanity across diverse contemporary global cultures.
 
 ## processing food and materials
 *transforming raw materials into usable form*
@@ -16,6 +16,11 @@
 | thaphao  | crusher             |
 | rushai   | sieve               |
 | nutheo   | strainer            |
+|          | mallet              |
+|          | pounder             |
+|          | stone anvil         |
+|          | pounding stone      |
+|          | grinding bowl       |
 
 ## growing and cultivating
 *working with plants and land*
@@ -29,6 +34,10 @@
 | phuphoe  | pick                |
 | phoshao  | plow                |
 | mothio   | sickle              |
+|          | digging stick       |
+|          | weeding tool        |
+|          | planting stick      |
+|          | harvesting basket   |
 
 ## building and joining
 *assembling structures and objects*
@@ -43,6 +52,10 @@
 | nephau   | file                |
 | roshia   | adze                |
 | thiwhiu  | wedge               |
+|          | mallet              |
+|          | punch               |
+|          | hand drill          |
+|          | bore                |
 
 ## cutting and shaping
 *modifying form and size*
@@ -54,6 +67,11 @@
 | sephia   | sharpening stone    |
 | pithae   | carving tool        |
 | whiphai  | shaping stone       |
+|          | blade               |
+|          | cutter              |
+|          | chopper             |
+|          | slicer              |
+|          | trimmer             |
 
 ## creating textiles and fibers
 *making cloth and rope*
@@ -65,6 +83,10 @@
 | hithui   | loom                |
 | waphiu   | shuttle             |
 | piphoa   | hook                |
+|          | weaving frame       |
+|          | spinning wheel      |
+|          | bobbin              |
+|          | thread guide        |
 
 ## measuring and precision work
 *ensuring accuracy and fine detail*
@@ -75,8 +97,11 @@
 | phiwhuo  | measuring cord      |
 | rophio   | scale               |
 | shothue  | level               |
-| nothau   | compass             |
+|          | plumb line          |
 | rushue   | polisher            |
+|          | straightedge        |
+|          | gauge               |
+|          | marker              |
 
 ## moving and transporting
 *carrying and relocating*
@@ -89,6 +114,10 @@
 | rusheu   | cart                |
 | wushea   | sled                |
 | lushuo   | harness             |
+|          | carrier             |
+|          | pack                |
+|          | strap               |
+|          | pole                |
 
 ## fire and heat work
 *applying thermal energy*
@@ -101,3 +130,71 @@
 | tisheu   | fire starter        |
 | shathoe  | bellows             |
 | wuphau   | torch               |
+|          | ember               |
+|          | fuel                |
+|          | fire pit            |
+|          | hearth              |
+
+## extracting and gathering
+*obtaining resources from nature*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | picker              |
+|          | gatherer            |
+|          | probe               |
+|          | scoop               |
+|          | extractor           |
+|          | collector           |
+|          | trap                |
+|          | snare               |
+|          | net                 |
+|          | hook                |
+
+## making containers
+*creating vessels for storage and transport*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | pot                 |
+|          | bowl                |
+|          | jar                 |
+|          | vessel              |
+|          | cup                 |
+|          | gourd               |
+|          | pouch               |
+|          | water carrier       |
+|          | storage container   |
+|          | mold                |
+
+## securing and binding
+*fastening and connecting materials*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | cord                |
+|          | tie                 |
+|          | binding             |
+|          | fastener            |
+|          | clamp               |
+|          | clip                |
+|          | pin                 |
+|          | clasp               |
+|          | buckle              |
+|          | knot                |
+
+## personal and body tools
+*tools for personal care and adornment*
+
+| phi word | english translation |
+| -------- | ------------------- |
+|          | comb                |
+|          | brush               |
+|          | mirror              |
+|          | razor               |
+|          | tweezers            |
+|          | cleaner             |
+|          | ornament            |
+|          | jewelry tool        |
+|          | body paint          |
+|          | applicator          |
