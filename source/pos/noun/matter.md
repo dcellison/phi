@@ -9,75 +9,75 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | stone               |
-|          | clay                |
-|          | salt                |
-|          | sand                |
-|          | gravel              |
-|          | concrete            |
+| tephio   | stone               |
+| shethie  | clay                |
+| reshui   | salt                |
+| phawhui  | sand                |
+| tiphae   | gravel              |
+| shathie  | concrete            |
 
 ## metal materials
 *pure metals and alloys developed through metallurgy*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | copper              |
-|          | iron                |
-|          | steel               |
-|          | aluminum            |
-|          | gold                |
-|          | silver              |
-|          | tin                 |
-|          | zinc                |
-|          | mercury             |
-|          | lead                |
-|          | bronze              |
-|          | brass               |
+| waphua   | copper              |
+| puthae   | iron                |
+| tuthao   | steel               |
+| teshue   | aluminum            |
+| mashoe   | gold                |
+| lowhiu   | silver              |
+| whuthiu  | tin                 |
+| puthoi   | zinc                |
+| hethei   | mercury             |
+| rashio   | lead                |
+| sitheu   | bronze              |
+| pathao   | brass               |
 
 ## animal-derived materials
 *organic materials obtained from animals across cultures*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | leather             |
-|          | fur                 |
-|          | wool                |
-|          | feather             |
+| puwhua   | leather             |
+| tiphai   | fur                 |
+| phushoe  | wool                |
+| lewhae   | feather             |
 
 ## plant-derived materials
 *organic materials obtained from plants and trees*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | wood                |
-|          | bamboo              |
-|          | fiber               |
-|          | cotton              |
-|          | hemp                |
-|          | rubber              |
-|          | rope                |
+| tapheu   | wood                |
+| suwhua   | bamboo              |
+| muphae   | fiber               |
+| shawhie  | cotton              |
+| phawhuo  | hemp                |
+| thuphoi  | rubber              |
+| hiwhae   | rope                |
 
 ## processed materials
 *materials transformed through human technological processes*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | ceramic             |
-|          | glass               |
-|          | plastic             |
-|          | paper               |
-|          | glue                |
-|          | paint               |
-|          | ink                 |
-|          | soap                |
-|          | mortar              |
-|          | plaster             |
+| wewhie   | ceramic             |
+| phophoi  | glass               |
+| riwhue   | plastic             |
+| weshui   | paper               |
+| lephau   | glue                |
+| roshiu   | paint               |
+| shuwhui  | ink                 |
+| ruwhia   | soap                |
+| seshiu   | mortar              |
+| hiphui   | plaster             |
 
 ## composite materials
 *materials created by combining multiple base materials*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | fabric              |
-|          | thread              |
-|          | yarn                |
+| luwhua   | fabric              |
+| sothou   | thread              |
+| shoshau  | yarn                |

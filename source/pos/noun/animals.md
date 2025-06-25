@@ -9,154 +9,154 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | animal              |
-|          | bird                |
-|          | fish                |
-|          | insect              |
-|          | beast               |
+| weshau   | animal              |
+| tophio   | bird                |
+| reshia   | fish                |
+| lethoi   | insect              |
+| hushae   | beast               |
 
 ## domestic and farm animals
 *animals commonly domesticated and kept by humans across cultures*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | cat                 |
-|          | dog                 |
-|          | cow                 |
-|          | sheep               |
-|          | horse               |
-|          | pig                 |
-|          | goat                |
-|          | chicken             |
+| shathea  | cat                 |
+| whithoi  | dog                 |
+| mishou   | cow                 |
+| taphoe   | sheep               |
+| pethua   | horse               |
+| wiphai   | pig                 |
+| nushau   | goat                |
+| hotheu   | chicken             |
 
 ## wild mammals
 *undomesticated mammalian animals found across various habitats*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | wolf                |
-|          | deer                |
-|          | antelope            |
-|          | bear                |
-|          | monkey              |
-|          | ape                 |
-|          | rabbit              |
-|          | hare                |
-|          | mouse               |
-|          | rat                 |
-|          | lion                |
-|          | tiger               |
-|          | elephant            |
-|          | fox                 |
-|          | squirrel            |
-|          | bat                 |
-|          | hedgehog            |
-|          | badger              |
+| whushae  | wolf                |
+| lothua   | deer                |
+| hiphae   | antelope            |
+| wathei   | bear                |
+| maphio   | monkey              |
+| sethia   | ape                 |
+| rushia   | rabbit              |
+| nipheo   | hare                |
+| tewhai   | mouse               |
+| sishoe   | rat                 |
+| phathia  | lion                |
+| shotheo  | tiger               |
+| whaphua  | elephant            |
+| nithai   | fox                 |
+| weshua   | squirrel            |
+| hophai   | bat                 |
+| reshou   | hedgehog            |
+| shethea  | badger              |
 
 ## birds
 *flying animals and avian species beyond basic domesticated fowl*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | duck                |
-|          | goose               |
-|          | eagle               |
-|          | hawk                |
-|          | owl                 |
-|          | crow                |
-|          | robin               |
-|          | sparrow             |
-|          | pigeon              |
-|          | swan                |
-|          | parrot              |
-|          | penguin             |
-|          | peacock             |
-|          | vulture             |
-|          | seagull             |
+| tishua   | duck                |
+| wophui   | goose               |
+| hephoa   | eagle               |
+| lathiu   | hawk                |
+| nuwhoa   | owl                 |
+| phishae  | crow                |
+| sowhoa   | robin               |
+| rowhia   | sparrow             |
+| powheu   | pigeon              |
+| nasheo   | swan                |
+| wathoa   | parrot              |
+| shithoa  | penguin             |
+| hishau   | peacock             |
+| phothei  | vulture             |
+| whithua  | seagull             |
 
 ## reptiles and amphibians
 *cold-blooded vertebrates including snakes, lizards, and amphibians*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | snake               |
-|          | frog                |
-|          | turtle              |
-|          | tortoise            |
-|          | lizard              |
-|          | crocodile           |
-|          | alligator           |
-|          | toad                |
-|          | salamander          |
-|          | newt                |
-|          | gecko               |
-|          | chameleon           |
-|          | iguana              |
+| shathio  | snake               |
+| hewhua   | frog                |
+| tathoa   | turtle              |
+| wothei   | tortoise            |
+| mowhai   | lizard              |
+| pishau   | crocodile           |
+| shethua  | alligator           |
+| huthoi   | toad                |
+| lowhio   | salamander          |
+| riphou   | newt                |
+| nawhao   | gecko               |
+| tewhio   | chameleon           |
+| phishoa  | iguana              |
 
 ## insects and arthropods
 *small invertebrates with segmented bodies and jointed legs*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | ant                 |
-|          | fly                 |
-|          | mosquito            |
-|          | spider              |
-|          | bee                 |
-|          | butterfly           |
-|          | moth                |
-|          | grasshopper         |
-|          | cricket             |
-|          | scorpion            |
-|          | louse               |
-|          | wasp                |
-|          | beetle              |
-|          | cockroach           |
-|          | dragonfly           |
-|          | ladybug             |
-|          | caterpillar         |
-|          | aphid               |
-|          | locust              |
-|          | tick                |
-|          | centipede           |
-|          | millipede           |
-|          | termite             |
+| wusheo   | ant                 |
+| sethai   | fly                 |
+| nophei   | mosquito            |
+| raphua   | spider              |
+| hasheo   | bee                 |
+| lowhai   | butterfly           |
+| meshoi   | moth                |
+| shephou  | grasshopper         |
+| tishoi   | cricket             |
+| hatheu   | scorpion            |
+| hiphio   | louse               |
+| whoshoi  | wasp                |
+| raphai   | beetle              |
+| nithua   | cockroach           |
+| towhau   | dragonfly           |
+| suthai   | ladybug             |
+| weshai   | caterpillar         |
+| phetheu  | aphid               |
+| shoshea  | locust              |
+| withei   | tick                |
+| hushio   | centipede           |
+| phoshoi  | millipede           |
+| shathai   | termite             |
 
 ## aquatic and marine animals
 *water-dwelling creatures including fish, marine mammals, and mollusks*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | shark               |
-|          | seal                |
-|          | crab                |
-|          | lobster             |
-|          | shrimp              |
-|          | squid               |
-|          | octopus             |
-|          | snail               |
-|          | slug                |
-|          | whale               |
-|          | dolphin             |
-|          | walrus              |
-|          | tuna                |
-|          | salmon              |
-|          | eel                 |
-|          | goldfish            |
-|          | clam                |
-|          | oyster              |
-|          | mussel              |
-|          | jellyfish           |
-|          | starfish            |
-|          | sea urchin          |
-|          | coral               |
+| whoshua  | shark               |
+| taphai   | seal                |
+| lephoi   | crab                |
+| nusheo   | lobster             |
+| pethae   | shrimp              |
+| riphua   | squid               |
+| hawhea   | octopus             |
+| shupheu  | snail               |
+| mowhoi   | slug                |
+| phithoa  | whale               |
+| sathua   | dolphin             |
+| reshua   | walrus              |
+| hophou   | tuna                |
+| wushoa   | salmon              |
+| naphoi   | eel                 |
+| lethea   | goldfish            |
+| seshai   | clam                |
+| wiphua   | oyster              |
+| hephua   | mussel              |
+| roshae   | jellyfish           |
+| nophai   | starfish            |
+| tewhoi   | sea urchin          |
+| shiphai  | coral               |
 
 ## other invertebrates
 *simple invertebrate animals including worms and basic organisms*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | worm                |
-|          | leech               |
-|          | earthworm           |
-|          | sponge              |
+| liphau   | worm                |
+| sothui   | leech               |
+| nethio   | earthworm           |
+| wophua   | sponge              |

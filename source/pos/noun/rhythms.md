@@ -9,69 +9,70 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | time                |
-|          | moment              |
-|          | now                 |
-|          | today               |
-|          | yesterday           |
-|          | tomorrow            |
-|          | duration            |
-|          | interval            |
-|          | completion          |
-|          | accomplishment      |
-|          | transition          |
-|          | growth              |
-|          | change              |
-|          | generation          |
-|          | lifetime            |
-|          | memory              |
-|          | future              |
+| hoshou   | time                |
+| hawhie   | moment              |
+| moshuo   | now                 |
+| muphio   | today               |
+| nuphuo   | yesterday           |
+| poshau   | tomorrow            |
+| nawhoe   | duration            |
+| shophoi  | interval            |
+| mephia   | completion          |
+| nawhia   | accomplishment      |
+| mithio   | transition          |
+| mawheo   | growth              |
+| laphue   | change              |
+| suthou   | generation          |
+| phithia  | lifetime            |
+| nithoa   | memory              |
+| whewheu  | future              |
 
 ## environmental cycles and seasonal awareness
 *natural rhythms and ecological relationships*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | day                 |
-|          | night               |
-|          | morning             |
-|          | noon                |
-|          | evening             |
-|          | dawn                |
-|          | sunset              |
-|          | cycle               |
-|          | season              |
-|          | warm period         |
-|          | cool period         |
-|          | wet period          |
-|          | dry period          |
-|          | solstice            |
-|          | equinox             |
-|          | moon cycle          |
-|          | natural rhythm      |
-|          | seasonal change     |
-|          | harvest time        |
-|          | planting time       |
+| sushei   | day                 |
+| phewhiu  | night               |
+| piwhiu   | morning             |
+| nathoa   | noon                |
+| noshia   | evening             |
+| nashai   | dawn                |
+| shaphue  | sunset              |
+| riphae   | cycle               |
+| phewhia  | season              |
+| shiphio  | warm period         |
+| pushoi   | cool period         |
+| whishui  | wet period          |
+| siphae   | dry period          |
+| mephea   | solstice            |
+| seshue   | equinox             |
+| mushuo   | moon cycle          |
+| raphio   | natural rhythm      |
+| piphiu   | seasonal change     |
+| whuphau  | harvest time        |
+| phephai  | planting time       |
 
 ## community time and ceremonial rhythms
 *social bonds, celebration, and shared meaning*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | festival            |
-|          | ceremony            |
-|          | celebration         |
-|          | ritual              |
-|          | gathering           |
-|          | feast               |
-|          | commemoration       |
-|          | holiday             |
-|          | tradition           |
-|          | anniversary         |
-|          | milestone           |
-|          | coming together     |
-|          | shared time         |
-|          | collective memory   |
-|          | cultural rhythm     |
-|          | rest period         |
-|          | renewal time        |
+| huwhao   | festival            |
+| rewhua   | ceremony            |
+| phushue  | celebration         |
+| hoshau   | ritual              |
+| muthui   | gathering           |
+| wuwhoa   | feast               |
+| nuthae   | commemoration       |
+| wawhoi   | holiday             |
+| pothua   | tradition           |
+| luwhea   | anniversary         |
+| wathie   | milestone           |
+| thashua  | coming together     |
+| hiwhiu   | shared time         |
+| puwhuo   | collective memory   |
+| phithoe  | cultural rhythm     |
+| thothue  | rest period         |
+| nawhoi   | renewal time        |
+

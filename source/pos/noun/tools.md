@@ -9,95 +9,95 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | mortar              |
-|          | pestle              |
-|          | mill                |
-|          | grinder             |
-|          | crusher             |
-|          | sieve               |
-|          | strainer            |
+| meshuo   | mortar              |
+| puphao   | pestle              |
+| rashoe   | mill                |
+| resheo   | grinder             |
+| thaphao  | crusher             |
+| rushai   | sieve               |
+| nutheo   | strainer            |
 
 ## growing and cultivating
 *working with plants and land*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | hoe                 |
-|          | rake                |
-|          | shovel              |
-|          | spade               |
-|          | pick                |
-|          | plow                |
-|          | sickle              |
+| shothou  | hoe                 |
+| tiwhua   | rake                |
+| pothei   | shovel              |
+| muthau   | spade               |
+| phuphoe  | pick                |
+| phoshao  | plow                |
+| mothio   | sickle              |
 
 ## building and joining
 *assembling structures and objects*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | hammer              |
-|          | axe                 |
-|          | saw                 |
-|          | awl                 |
-|          | chisel              |
-|          | file                |
-|          | adze                |
-|          | wedge               |
+| pewhoa   | hammer              |
+| siphuo   | axe                 |
+| wephia   | saw                 |
+| thashao  | awl                 |
+| whethei  | chisel              |
+| nephau   | file                |
+| roshia   | adze                |
+| thiwhiu  | wedge               |
 
 ## cutting and shaping
 *modifying form and size*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | knife               |
-|          | scraper             |
-|          | sharpening stone    |
-|          | carving tool        |
-|          | shaping stone       |
+| thaphea  | knife               |
+| shitheu  | scraper             |
+| sephia   | sharpening stone    |
+| pithae   | carving tool        |
+| whiphai  | shaping stone       |
 
 ## creating textiles and fibers
 *making cloth and rope*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | needle              |
-|          | spindle             |
-|          | loom                |
-|          | shuttle             |
-|          | hook                |
+| pasheu   | needle              |
+| nathiu   | spindle             |
+| hithui   | loom                |
+| waphiu   | shuttle             |
+| piphoa   | hook                |
 
 ## measuring and precision work
 *ensuring accuracy and fine detail*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | measuring stick     |
-|          | measuring cord      |
-|          | scale               |
-|          | level               |
-|          | compass             |
-|          | polisher            |
+| sothio   | measuring stick     |
+| phiwhuo  | measuring cord      |
+| rophio   | scale               |
+| shothue  | level               |
+| nothau   | compass             |
+| rushue   | polisher            |
 
 ## moving and transporting
 *carrying and relocating*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | rope                |
-|          | basket              |
-|          | bag                 |
-|          | cart                |
-|          | sled                |
-|          | harness             |
+| nowhua   | rope                |
+| phiwhau  | basket              |
+| niwhoi   | bag                 |
+| rusheu   | cart                |
+| wushea   | sled                |
+| lushuo   | harness             |
 
 ## fire and heat work
 *applying thermal energy*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | tinder              |
-|          | flint               |
-|          | fire drill          |
-|          | fire starter        |
-|          | bellows             |
-|          | torch               |
+| sashao   | tinder              |
+| nitheu   | flint               |
+| wushoe   | fire drill          |
+| tisheu   | fire starter        |
+| shathoe  | bellows             |
+| wuphau   | torch               |

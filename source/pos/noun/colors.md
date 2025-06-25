@@ -2,21 +2,25 @@
 
 *abstract color concepts as distinct from color adjectives*
 
-> this category represents universal color concepts documented across human cultures through research in color anthropology, cross-linguistic color studies, and cognitive color science. these 11 basic colors are organized according to berlin & kay's seminal research on color term universals, representing the fundamental color categories that appear consistently across world languages and visual perception systems.
+> This category represents the standard 12-color artist's wheel, supplemented with neutral colors. This system provides a comprehensive and perceptually uniform set of terms for universal communication about color, based on primary, secondary, and tertiary hues.
 
 ## basic colors
 *universal color categories based on human visual perception*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | black               |
-|          | blue                |
-|          | brown               |
-|          | gray                |
-|          | green               |
-|          | orange              |
-|          | pink                |
-|          | purple              |
-|          | red                 |
-|          | white               |
-|          | yellow              |
+| hathoi   | black               |
+| wiphou   | white               |
+| reshau   | gray                |
+| phithiu  | red                 |
+| sowhoi   | orange              |
+| nuthea   | yellow              |
+| maphoe   | green               |
+| tushoi   | blue                |
+| lowhau   | violet              |
+| shithae  | vermilion           |
+| whephoi  | amber               |
+| raphia   | chartreuse          |
+| lethae   | teal                |
+| phoshia  | indigo              |
+| shephau  | magenta             |

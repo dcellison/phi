@@ -9,85 +9,85 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | happiness           |
-|          | sadness             |
-|          | anger               |
-|          | fear                |
-|          | surprise            |
-|          | grief               |
-|          | shame               |
-|          | guilt               |
-|          | pride               |
-|          | pain                |
+| hoshoi   | happiness           |
+| riwhae   | sadness             |
+| shushoi  | anger               |
+| laphae   | fear                |
+| nithou   | surprise            |
+| sothea   | grief               |
+| whethao  | shame               |
+| woshau   | guilt               |
+| toshoi   | pride               |
+| hiphai   | pain                |
 
 ## mental and cognitive
 *thought processes and states of consciousness*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | thought             |
-|          | mind                |
-|          | memory              |
-|          | dream               |
-|          | knowledge           |
-|          | understanding       |
-|          | consciousness       |
-|          | imagination         |
-|          | perception          |
+| shephoi  | thought             |
+| wothea   | mind                |
+| rishio   | memory              |
+| shethoi  | dream               |
+| hophio   | knowledge           |
+| whothei  | understanding       |
+| shathua  | consciousness       |
+| nothoi   | imagination         |
+| phoshea  | perception          |
 
 ## moral and ethical
 *fundamental principles of right conduct and character*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | good                |
-|          | honor               |
-|          | respect             |
-|          | mercy               |
-|          | kindness            |
-|          | courage             |
-|          | justice             |
-|          | forgiveness         |
-|          | wisdom              |
-|          | truth               |
-|          | compassion          |
-|          | harmony             |
-|          | integrity           |
+| thoshoi  | good                |
+| husheo   | honor               |
+| pishae   | respect             |
+| sithoi   | mercy               |
+| rophoi   | kindness            |
+| thiphai  | courage             |
+| nishae   | justice             |
+| tophua   | forgiveness         |
+| wheshoi  | wisdom              |
+| hashoi   | truth               |
+| moshua   | compassion          |
+| pethio   | harmony             |
+| shiphoi  | integrity           |
 
 ## existential and spiritual
 *fundamental questions of existence and meaning*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | life                |
-|          | soul                |
-|          | spirit              |
-|          | faith               |
-|          | purpose             |
-|          | meaning             |
-|          | reality             |
-|          | belief              |
-|          | beauty              |
-|          | love                |
-|          | peace               |
-|          | sacred              |
-|          | wisdom              |
-|          | hope                |
+| thaphoe  | life                |
+| shephai  | soul                |
+| whishai  | spirit              |
+| sishua   | faith               |
+| washoi   | purpose             |
+| hethea   | meaning             |
+| rothae   | reality             |
+| liphio   | belief              |
+| phithui  | beauty              |
+| heshia   | love                |
+| reshiae  | peace               |
+| whethae  | sacred              |
+| wheshea  | wisdom              |
+| hishoi   | hope                |
 
 ## social and relational
 *concepts governing human relationships and social bonds*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | friendship          |
-|          | loyalty             |
-|          | trust               |
-|          | peace               |
-|          | cooperation         |
-|          | community           |
-|          | empathy             |
-|          | support             |
-|          | understanding       |
-|          | connection          |
-|          | dignity             |
-|          | equality            |
+| shathae  | friendship          |
+| niphua   | loyalty             |
+| wotheo   | trust               |
+| reshio   | peace               |
+| noshua   | cooperation         |
+| heshoe   | community           |
+| shethei  | empathy             |
+| phowhai  | support             |
+| whotheo  | understanding       |
+| sothao   | connection          |
+| miphai   | dignity             |
+| shethao  | equality            |

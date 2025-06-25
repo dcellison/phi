@@ -9,64 +9,65 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | person              |
-|          | human being         |
-|          | individual          |
-|          | community member    |
-|          | infant              |
-|          | child               |
-|          | youth               |
-|          | adult               |
-|          | elder               |
+| ritheu   | person              |
+| huthao   | human being         |
+| whithia  | individual          |
+| thishoa  | community member    |
+| shophio  | infant              |
+| loshio   | child               |
+| phethoi  | youth               |
+| lithea   | adult               |
+| tewhae   | elder               |
 
 ## private relationships
 *intimate family and personal bonds*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | parent              |
-|          | child               |
-|          | sibling             |
-|          | grandparent         |
-|          | grandchild          |
-|          | cousin              |
-|          | spouse              |
-|          | partner             |
-|          | friend              |
-|          | beloved             |
-|          | companion           |
+| hoshui   | parent              |
+| loshio   | child               |
+| peshou   | sibling             |
+| thiphae  | grandparent         |
+| shuwhie  | grandchild          |
+| shithiu  | cousin              |
+| howheu   | spouse              |
+| whushio  | partner             |
+| woshui   | friend              |
+| sophie   | beloved             |
+| phuwhoi  | companion           |
 
 ## public relationships
 *formal community and social connections*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | neighbor            |
-|          | newcomer            |
-|          | visitor             |
-|          | guest               |
-|          | host                |
-|          | ally                |
-|          | collaborator        |
-|          | leader              |
-|          | member              |
-|          | representative      |
+| leshei   | neighbor            |
+| siwheu   | newcomer            |
+| showhuo  | visitor             |
+| thesheu  | guest               |
+| sheshiu  | host                |
+| suwhei   | ally                |
+| tishoe   | collaborator        |
+| phiphie  | leader              |
+| neshoi   | member              |
+| sishea   | representative      |
 
 ## exchange relationships
 *teaching, learning, and mutual support*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | learning partner    |
-|          | co-learner          |
-|          | mentor              |
-|          | guide               |
-|          | apprentice          |
-|          | peer                |
-|          | partner             |
-|          | healer              |
-|          | caregiver           |
-|          | craftsperson        |
-|          | artist              |
-|          | mediator            |
-|          | advisor             |
+| mashie   | learning partner    |
+| lotheo   | co-learner          |
+| lepheo   | mentor              |
+| theshae  | guide               |
+| miphau   | apprentice          |
+| mewhea   | peer                |
+| whushio  | partner             |
+| phuwheu  | healer              |
+| mathoi   | caregiver           |
+| sithei   | craftsperson        |
+| wowhia   | artist              |
+| pophoe   | mediator            |
+| hithai   | advisor             |
+

@@ -9,138 +9,141 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | sun                 |
-|          | moon                |
-|          | star                |
-|          | planet              |
-|          | sky                 |
-|          | horizon             |
-|          | dawn                |
-|          | sunrise             |
-|          | sunset              |
-|          | dusk                |
-|          | twilight            |
-|          | night               |
-|          | daylight            |
-|          | moonlight           |
-|          | starlight           |
-|          | light               |
-|          | shadow              |
-|          | darkness            |
-|          | eclipse             |
-|          | lunar phases        |
-|          | new moon            |
-|          | full moon           |
-|          | crescent            |
-|          | solstice            |
-|          | equinox             |
+| suthai   | sun                 |
+| mopheo   | moon                |
+| lewhai   | star                |
+| nithio   | planet              |
+| hushia   | sky                 |
+| rophei   | horizon             |
+| whishou  | dawn                |
+| suthoa   | sunrise             |
+| hephue   | sunset              |
+| shathoi  | dusk                |
+| tephoa   | twilight            |
+| lishua   | night               |
+| pashea   | daylight            |
+| mopheu   | moonlight           |
+| lewhoi   | starlight           |
+| weshio   | light               |
+| hushoi   | shadow              |
+| tophoi   | darkness            |
+| rishua   | eclipse             |
+| mophai   | lunar phases        |
+| moshai   | new moon            |
+| moshia   | full moon           |
+| shephua  | crescent            |
+| sotheu   | solstice            |
+| pashua   | equinox             |
 
 ## weather and atmospheric
 *universal weather experiences shared across all climates*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | rain                |
-|          | drizzle             |
-|          | wind                |
-|          | breeze              |
-|          | calm                |
-|          | cloud               |
-|          | clear               |
-|          | mist                |
-|          | thunder             |
-|          | lightning           |
-|          | dew                 |
-|          | heat                |
-|          | hot                 |
-|          | warm                |
-|          | cold                |
-|          | cool                |
-|          | sunshine            |
-|          | rainbow             |
-|          | humidity            |
-|          | fresh air           |
-|          | stillness           |
-|          | gentle rain         |
-|          | morning dew         |
-|          | evening breeze      |
+| whiphia  | rain                |
+| shethiu  | drizzle             |
+| huthio   | wind                |
+| wushae   | breeze              |
+| nopheo   | calm                |
+| rothau   | cloud               |
+| shethai  | clear               |
+| maphoi   | mist                |
+| shusheo  | thunder             |
+| whithiu  | lightning           |
+| lishae   | dew                 |
+| heshoi   | heat                |
+| heshou   | hot                 |
+| heshai   | warm                |
+| coshea   | cold                |
+| coshoi   | cool                |
+| suthae   | sunshine            |
+| pethae   | rainbow             |
+| huthae   | humidity            |
+| sheshoi  | fresh air           |
+| nopheu   | stillness           |
+| whiphoi  | gentle rain         |
+| lishou   | morning dew         |
+| wushoi   | evening breeze      |
 
 ## earth and elements
 *life-sustaining substances and natural materials*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | water               |
-|          | fresh water         |
-|          | stream              |
-|          | river               |
-|          | lake                |
-|          | ocean               |
-|          | fire                |
-|          | air                 |
-|          | earth               |
-|          | soil                |
-|          | fertile ground      |
-|          | stone               |
-|          | rock                |
-|          | sand                |
-|          | clay                |
-|          | crystal             |
-|          | mineral             |
-|          | spring              |
-|          | pure air            |
-|          | clean earth         |
+| wheshia  | water               |
+| wheshua  | fresh water         |
+| tophai   | stream              |
+| tophua   | river               |
+| lephua   | lake                |
+| whuphoi  | ocean               |
+| shophai  | fire                |
+| sheshua  | air                 |
+| wathai   | earth               |
+| wathoi   | soil                |
+| wathiu   | fertile ground      |
+| hithio   | stone               |
+| hithia   | rock                |
+| saphoi   | sand                |
+| mishoi   | clay                |
+| phoshoi  | crystal             |
+| nushio   | mineral             |
+| riphoa   | spring              |
+| sheshia  | pure air            |
+| wathia   | clean earth         |
 
 ## plant and vegetation
 *life-giving botanical growth and natural beauty*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | tree                |
-|          | shrub               |
-|          | grass               |
-|          | vine                |
-|          | flower              |
-|          | blossom             |
-|          | fruit               |
-|          | leaf                |
-|          | stem                |
-|          | branch              |
-|          | root                |
-|          | seed                |
-|          | bark                |
-|          | wood                |
-|          | forest              |
-|          | garden              |
-|          | shade               |
-|          | fragrance           |
-|          | fresh growth        |
-|          | new shoots          |
-|          | canopy              |
-|          | grove               |
-|          | meadow              |
-|          | herb                |
+| whephai  | tree                |
+| shawhai  | shrub               |
+| rashua   | grass               |
+| hephoi   | vine                |
+| thowhai  | flower              |
+| thowhoi  | blossom             |
+| shethea  | fruit               |
+| lephio   | leaf                |
+| sishua   | stem                |
+| shashua  | branch              |
+| rophua   | root                |
+| phophea  | seed                |
+| shophia  | bark                |
+| shophua  | wood                |
+| whephou  | forest              |
+| hashoi   | garden              |
+| hushou   | shade               |
+| thowhoa  | fragrance           |
+| shetheu  | fresh growth        |
+| shethoi  | new shoots          |
+| nithae   | canopy              |
+| shashia  | grove               |
+| mashea   | meadow              |
+| hethoi   | herb                |
 
 ## natural processes
 *life-affirming natural cycles and transformations*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | growth              |
-|          | bloom               |
-|          | flowering           |
-|          | ripening            |
-|          | harvest             |
-|          | renewal             |
-|          | regeneration        |
-|          | flow                |
-|          | wave                |
-|          | cycle               |
-|          | rhythm              |
-|          | balance             |
-|          | change              |
-|          | transformation      |
-|          | healing             |
-|          | nourishment         |
-|          | abundance           |
-|          | flourishing         |
+| shoshoi  | growth              |
+| thowhoi  | bloom               |
+| thowhai  | flowering           |
+| shethea  | ripening            |
+| hashoi   | harvest             |
+| rishae   | renewal             |
+| rishoi   | regeneration        |
+| thophoi  | flow                |
+| sheshae  | wave                |
+| hashua   | cycle               |
+| hashae   | rhythm              |
+| poshoi   | balance             |
+| sheshia  | change              |
+| sheshua  | transformation      |
+| wusheo   | healing             |
+| nushua   | nourishment         |
+| pishoi   | abundance           |
+| shoshea  | flourishing         |
+
+
+

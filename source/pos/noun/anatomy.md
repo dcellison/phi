@@ -8,123 +8,124 @@
 *head region and sensory organs*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | head                |
-|          | face                |
-|          | hair                |
-|          | eye                 |
-|          | nose                |
-|          | ear                 |
-|          | forehead            |
-|          | cheek               |
-|          | chin                |
-|          | lips                |
-|          | eyebrow             |
-|          | eyelash             |
+| :------- | :------------------ |
+| hathia   | head                |
+| pishua   | face                |
+| lethui   | hair                |
+| weshia   | eye                 |
+| nophou   | nose                |
+| mashoi   | ear                 |
+| tusheo   | forehead            |
+| saphia   | cheek               |
+| huthoa   | chin                |
+| riphue   | lips                |
+| towheu   | eyebrow             |
+| wiphio   | eyelash             |
 
 ## mouth and oral cavity
 *mouth parts and speech organs*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | mouth               |
-|          | tooth               |
-|          | tongue              |
-|          | jaw                 |
-|          | gums                |
-|          | throat              |
-|          | palate              |
+| :------- | :------------------ |
+| mishua   | mouth               |
+| tathiu   | tooth               |
+| lushae   | tongue              |
+| whethoa  | jaw                 |
+| roshua   | gums                |
+| phithae  | throat              |
+| peshoi   | palate              |
 
 ## upper extremities
 *arms, hands, and their parts*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | shoulder            |
-|          | arm                 |
-|          | upper arm           |
-|          | forearm             |
-|          | elbow               |
-|          | wrist               |
-|          | hand                |
-|          | palm                |
-|          | finger              |
-|          | thumb               |
-|          | knuckle             |
-|          | fingernail          |
+| :------- | :------------------ |
+| sowhai   | shoulder            |
+| thephua  | arm                 |
+| shiwau   | upper arm           |
+| rithoi   | forearm             |
+| haphoe   | elbow               |
+| nuthai   | wrist               |
+| laphio   | hand                |
+| whuphua  | palm                |
+| teshoi   | finger              |
+| shuthae  | thumb               |
+| miwhio   | knuckle             |
+| toshae   | fingernail          |
 
 ## lower extremities
 *legs, feet, and their parts*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | hip                 |
-|          | leg                 |
-|          | thigh               |
-|          | knee                |
-|          | calf                |
-|          | shin                |
-|          | ankle               |
-|          | foot                |
-|          | heel                |
-|          | sole                |
-|          | toe                 |
-|          | big toe             |
+| :------- | :------------------ |
+| phowhoi  | hip                 |
+| rathua   | leg                 |
+| hethae   | thigh               |
+| washia   | knee                |
+| suthoi   | calf                |
+| poshua   | shin                |
+| nuphai   | ankle               |
+| saphio   | foot                |
+| shiwhau  | heel                |
+| lawheo   | sole                |
+| hitheu   | toe                 |
+| rewhao   | big toe             |
 
 ## torso and trunk
 *main body without extremities*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | neck                |
-|          | chest               |
-|          | back                |
-|          | spine               |
-|          | abdomen             |
-|          | waist               |
-|          | ribs                |
-|          | breast              |
-|          | buttocks            |
+| :------- | :------------------ |
+| tewhoa   | neck                |
+| sawhau   | chest               |
+| shewhai  | back                |
+| lophua   | spine               |
+| waphai   | abdomen             |
+| miphoi   | waist               |
+| whaphoi  | ribs                |
+| lishoi   | breast              |
+| ruthae   | buttocks            |
+| sothoe   | stomach             |
 
 ## internal organs
 *vital internal body parts*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | heart               |
-|          | liver               |
-|          | lungs               |
-|          | stomach             |
-|          | kidneys             |
-|          | brain               |
-|          | intestines          |
-|          | bladder             |
-|          | pancreas            |
-|          | spleen              |
+| :------- | :------------------ |
+| hephai   | heart               |
+| pishoi   | liver               |
+| thiwhai  | lungs               |
+| sothoi   | stomach             |
+| mithea   | kidneys             |
+| lephae   | brain               |
+| shewhia  | intestines          |
+| rophae   | bladder             |
+| nushai   | pancreas            |
+| tewhoe   | spleen              |
 
 ## reproductive organs
 *male and female reproductive anatomy*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | penis               |
-|          | testicles           |
-|          | scrotum             |
-|          | vagina              |
-|          | uterus              |
-|          | ovaries             |
+| :------- | :------------------ |
+| poshai   | penis               |
+| sishoi   | testicles           |
+| riwhoi   | scrotum             |
+| hothai   | vagina              |
+| towhai   | uterus              |
+| saphae   | ovaries             |
 
 ## body materials and substances
 *tissues and body matter*
 
 | phi word | english translation |
-| -------- | ------------------- |
-|          | skin                |
-|          | bone                |
-|          | blood               |
-|          | flesh/muscle        |
-|          | fat                 |
-|          | saliva              |
-|          | sweat               |
-|          | urine               |
-|          | cartilage           |
+| :------- | :------------------ |
+| whothea  | skin                |
+| hoshua   | bone                |
+| shuphai  | blood               |
+| lathio   | flesh/muscle        |
+| weshoa   | fat                 |
+| sothei   | saliva              |
+| tishai   | sweat               |
+| ruthoa   | urine               |
+| leshea   | cartilage           |

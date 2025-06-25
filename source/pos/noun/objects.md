@@ -9,132 +9,133 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | robe                |
-|          | wrap                |
-|          | sandals             |
-|          | shoes               |
-|          | boots               |
-|          | hat                 |
-|          | scarf               |
-|          | shawl               |
-|          | belt                |
-|          | sash                |
-|          | gloves              |
-|          | socks               |
-|          | underwear           |
-|          | cloak               |
-|          | veil                |
+| moshio   | robe                |
+| thethou  | wrap                |
+| phothao  | sandals             |
+| shushei  | shoes               |
+| phothoa  | boots               |
+| pishui   | hat                 |
+| wathae   | scarf               |
+| tophoe   | shawl               |
+| tephai   | belt                |
+| naphoa   | sash                |
+| phuwhui  | gloves              |
+| shishoa  | socks               |
+| lawhue   | underwear           |
+| whophoe  | cloak               |
+| shawhoe  | veil                |
 
 ## furniture
 *universal items for rest, work, and storage*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | bed                 |
-|          | sleeping mat        |
-|          | cushion             |
-|          | stool               |
-|          | bench               |
-|          | shelf               |
-|          | chest               |
-|          | basket              |
-|          | platform            |
-|          | work surface        |
+| nothui   | bed                 |
+| luwhie   | sleeping mat        |
+| lishea   | cushion             |
+| tiphua   | stool               |
+| hiphua   | bench               |
+| thutheu  | shelf               |
+| phaphou  | chest               |
+| maphei   | basket              |
+| shawhea  | platform            |
+| thiwhou  | work surface        |
 
 ## shelter
 *universal elements for protection, warmth, and gathering*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | roof                |
-|          | wall                |
-|          | floor               |
-|          | ceiling             |
-|          | entrance            |
-|          | window              |
-|          | opening             |
-|          | threshold           |
-|          | hearth              |
-|          | foundation          |
-|          | room                |
-|          | space               |
+| tawhie   | roof                |
+| mitheu   | wall                |
+| wetheu   | floor               |
+| phophei  | ceiling             |
+| phophue  | entrance            |
+| weshuo   | window              |
+| tophao   | opening             |
+| loshie   | threshold           |
+| lawhui   | hearth              |
+| wishei   | foundation          |
+| wewhoe   | room                |
+| haphie   | space               |
 
 ## containers
 *universal items for holding and organizing*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | basket              |
-|          | bowl                |
-|          | jar                 |
-|          | pot                 |
-|          | bag                 |
-|          | box                 |
-|          | chest               |
-|          | bucket              |
-|          | bottle              |
-|          | sack                |
-|          | pouch               |
+| maphei   | basket              |
+| pothou   | bowl                |
+| phuphao  | jar                 |
+| shashiu  | pot                 |
+| ruwhae   | bag                 |
+| paphao   | box                 |
+| phaphou  | chest               |
+| wewhou   | bucket              |
+| noshiu   | bottle              |
+| phithei  | sack                |
+| shewheu  | pouch               |
 
 ## eating and drinking
 *vessels and utensils for consuming food*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | plate               |
-|          | bowl                |
-|          | cup                 |
-|          | glass               |
-|          | spoon               |
-|          | chopsticks          |
+| shewhea  | plate               |
+| pothou   | bowl                |
+| withue   | cup                 |
+| hetheo   | glass               |
+| shephue  | spoon               |
+| nethei   | chopsticks          |
 
 ## cooking tools
 *implements for food preparation*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | pot                 |
-|          | pan                 |
-|          | knife               |
-|          | cutting board       |
-|          | ladle               |
-|          | spatula             |
-|          | strainer            |
-|          | grater              |
-|          | mortar              |
-|          | pestle              |
+| shashiu  | pot                 |
+| pheshio  | pan                 |
+| nithie   | knife               |
+| luthae   | cutting board       |
+| puthio   | ladle               |
+| thuwhie  | spatula             |
+| wophuo   | strainer            |
+| phushei  | grater              |
+| wethui   | mortar              |
+| suphui   | pestle              |
 
 ## household tools
 *universal implements for cleaning, grooming, and daily care*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | broom               |
-|          | brush               |
-|          | cloth               |
-|          | towel               |
-|          | soap                |
-|          | bucket              |
-|          | lamp                |
-|          | mirror              |
-|          | comb                |
-|          | needle              |
-|          | thread              |
+| thuwhao  | broom               |
+| thushai  | brush               |
+| whowheu  | cloth               |
+| newheu   | towel               |
+| wheshui  | soap                |
+| wewhou   | bucket              |
+| roshao   | lamp                |
+| reshei   | mirror              |
+| shawhae  | comb                |
+| rawhue   | needle              |
+| thiphia  | thread              |
 
 ## recreation and leisure
 *universal objects for play, creativity, and joy*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | game                |
-|          | ball                |
-|          | toy                 |
-|          | doll                |
-|          | musical instrument  |
-|          | drum                |
-|          | flute               |
-|          | bell                |
-|          | rattle              |
-|          | whistle             |
-|          | stone               |
-|          | shell               |
+| tithio   | game                |
+| puphio   | ball                |
+| lowhao   | toy                 |
+| ruthoi   | doll                |
+| wothiu   | musical instrument  |
+| saphua   | drum                |
+| luthoa   | flute               |
+| pepheu   | bell                |
+| phoshae  | rattle              |
+| withau   | whistle             |
+| sithoe   | stone               |
+| taphou   | shell               |
+

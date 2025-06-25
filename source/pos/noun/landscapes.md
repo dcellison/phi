@@ -9,123 +9,125 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | mountain            |
-|          | hill                |
-|          | peak                |
-|          | ridge               |
-|          | plateau             |
-|          | cliff               |
-|          | slope               |
-|          | summit              |
-|          | viewpoint           |
-|          | overlook            |
-|          | vista               |
-|          | trail               |
-|          | pass                |
-|          | refuge              |
-|          | retreat             |
-|          | highlands           |
+| hosheo   | mountain            |
+| ratheu   | hill                |
+| teshou   | peak                |
+| pheshie  | ridge               |
+| sithao   | plateau             |
+| wishoe   | cliff               |
+| puwheo   | slope               |
+| phuthuo  | summit              |
+| tishao   | viewpoint           |
+| phiphua  | overlook            |
+| whoshui  | vista               |
+| thophoa  | trail               |
+| wiphea   | pass                |
+| wewhoi   | refuge              |
+| rowhui   | retreat             |
+| phushua  | highlands           |
 
 ## water bodies
 *life-sustaining waters and peaceful refuges*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | ocean               |
-|          | lake                |
-|          | river               |
-|          | stream              |
-|          | pond                |
-|          | spring              |
-|          | waterfall           |
-|          | freshwater          |
-|          | clear water         |
-|          | calm water          |
-|          | hot spring          |
-|          | swimming hole       |
-|          | shoreline           |
-|          | inlet               |
+| teshia   | ocean               |
+| mowhiu   | lake                |
+| pishoa   | river               |
+| naphie   | stream              |
+| tawhia   | pond                |
+| puphei   | spring              |
+| wisheo   | waterfall           |
+| lethoe   | freshwater          |
+| miwhie   | clear water         |
+| thuthoe  | calm water          |
+| thewhea  | hot spring          |
+| tithoe   | swimming hole       |
+| pithoi   | shoreline           |
+| rethoi   | inlet               |
 
 ## coastal areas
 *inspiring shores and oceanic refuges*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | coast               |
-|          | beach               |
-|          | bay                 |
-|          | bank                |
-|          | island              |
-|          | peninsula           |
-|          | cove                |
-|          | harbor              |
-|          | lagoon              |
-|          | estuary             |
-|          | headland            |
-|          | reef                |
-|          | tide pools          |
-|          | fjord               |
+| sithua   | coast               |
+| soshao   | beach               |
+| sushui   | bay                 |
+| phisheo  | bank                |
+| nithui   | island              |
+| pheshai  | peninsula           |
+| rephuo   | cove                |
+| mashue   | harbor              |
+| whothui  | lagoon              |
+| lothie   | estuary             |
+| pathoe   | headland            |
+| wuthai   | reef                |
+| mithui   | tide pools          |
+| thiwheu  | fjord               |
 
 ## valleys and depressions
 *sheltered landscapes and geological wonders*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | valley              |
-|          | basin               |
-|          | canyon              |
-|          | gorge               |
-|          | ravine              |
-|          | hollow              |
-|          | cave                |
-|          | swamp               |
-|          | glen                |
-|          | dell                |
-|          | wetland             |
-|          | marsh               |
-|          | oasis               |
-|          | crater              |
+| phashei  | valley              |
+| matheo   | basin               |
+| mishei   | canyon              |
+| nishue   | gorge               |
+| lewheo   | ravine              |
+| thiwhoi  | hollow              |
+| loshai   | cave                |
+| soshuo   | swamp               |
+| wishua   | glen                |
+| phewhoa  | dell                |
+| wethua   | wetland             |
+| powhai   | marsh               |
+| hashau   | oasis               |
+| riwhia   | crater              |
 
 ## plains and open areas
 *vast horizons and peaceful open spaces*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | plain               |
-|          | grassland           |
-|          | prairie             |
-|          | steppe              |
-|          | field               |
-|          | meadow              |
-|          | savanna             |
-|          | desert              |
-|          | pasture             |
-|          | farmland            |
-|          | rangeland           |
-|          | parkland            |
-|          | commons             |
-|          | expanse             |
-|          | horizon             |
-|          | tundra              |
+| huwhea   | plain               |
+| sawhou   | grassland           |
+| rothue   | prairie             |
+| netheo   | steppe              |
+| wewhai   | field               |
+| sishei   | meadow              |
+| nowhia   | savanna             |
+| ruphuo   | desert              |
+| hiphoa   | pasture             |
+| waphao   | farmland            |
+| miwhoi   | rangeland           |
+| theshio  | parkland            |
+| nasheu   | commons             |
+| sashau   | expanse             |
+| whethuo  | horizon             |
+| huphie   | tundra              |
 
 ## forests and woodlands
 *natural sanctuaries and ancient wilderness*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | forest              |
-|          | woodland            |
-|          | grove               |
-|          | thicket             |
-|          | jungle              |
-|          | rainforest          |
-|          | wilderness          |
-|          | canopy              |
-|          | glade               |
-|          | clearing            |
-|          | sanctuary           |
-|          | old growth          |
-|          | preserve            |
-|          | copse               |
-|          | boreal forest       |
-|          | temperate forest    |
+| niphia   | forest              |
+| miwhuo   | woodland            |
+| rothai   | grove               |
+| shishau  | thicket             |
+| raphao   | jungle              |
+| mophao   | rainforest          |
+| pashae   | wilderness          |
+| whephau  | canopy              |
+| whaphou  | glade               |
+| whashio  | clearing            |
+| thoshie  | sanctuary           |
+| mephui   | old growth          |
+| nithoe   | preserve            |
+| phuwhou  | copse               |
+| washea   | boreal forest       |
+| nethuo   | temperate forest    |
+
+

@@ -6,286 +6,286 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | say                 |
-|          | tell                |
-|          | state               |
-|          | express             |
-|          | articulate          |
-|          | mention             |
-|          | declare             |
-|          | announce            |
-|          | share               |
-|          | reveal              |
-|          | affirm              |
-|          | note                |
-|          | describe            |
-|          | communicate         |
-|          | report              |
-|          | present             |
-|          | convey              |
+| whuni    | say                 |
+| shane    | tell                |
+| shima    | state               |
+| whupu    | express             |
+| phani    | articulate          |
+| whota    | mention             |
+| whowo    | declare             |
+| phumu    | announce            |
+| shaha    | share               |
+| phapo    | reveal              |
+| shilo    | affirm              |
+| phota    | note                |
+| thuwu    | describe            |
+| showo    | communicate         |
+| shule    | report              |
+| thewi    | present             |
+| phala    | convey              |
 
 ## asking and inquiring
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | ask                 |
-|          | inquire             |
-|          | question            |
-|          | request             |
-|          | seek                |
-|          | query               |
-|          | wonder              |
-|          | probe               |
-|          | investigate         |
-|          | consult             |
-|          | check               |
-|          | clarify             |
-|          | explore             |
-|          | solicit             |
-|          | examine             |
+| thero    | ask                 |
+| whiro    | inquire             |
+| while    | question            |
+| whuto    | request             |
+| wheti    | seek                |
+| thusa    | query               |
+| shone    | wonder              |
+| whare    | probe               |
+| thahe    | investigate         |
+| phema    | consult             |
+| thimo    | check               |
+| shuwo    | clarify             |
+| phowu    | explore             |
+| whowe    | solicit             |
+| shele    | examine             |
 
 ## responding and replying
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | answer              |
-|          | reply               |
-|          | respond             |
-|          | acknowledge         |
-|          | return              |
-|          | rejoin              |
-|          | react               |
-|          | thank               |
-|          | affirm              |
-|          | clarify             |
-|          | counter             |
-|          | address             |
-|          | follow up           |
-|          | confirm             |
-|          | greet               |
+| shena    | answer              |
+| phona    | reply               |
+| whiwe    | respond             |
+| sharu    | acknowledge         |
+| shosu    | return              |
+| whapi    | rejoin              |
+| phite    | react               |
+| phune    | thank               |
+| shilo    | affirm              |
+| shuwo    | clarify             |
+| whuwu    | counter             |
+| shuhu    | address             |
+| thewo    | follow up           |
+| thepa    | confirm             |
+| shoro    | greet               |
 
 ## describing and explaining
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | describe            |
-|          | explain             |
-|          | clarify             |
-|          | illustrate          |
-|          | define              |
-|          | summarize           |
-|          | elaborate           |
-|          | specify             |
-|          | exemplify           |
-|          | interpret           |
-|          | outline             |
-|          | detail              |
-|          | characterize        |
-|          | narrate             |
-|          | demonstrate         |
+| thuwu    | describe            |
+| phope    | explain             |
+| shuwo    | clarify             |
+| thawi    | illustrate          |
+| pheto    | define              |
+| shapo    | summarize           |
+| thupi    | elaborate           |
+| phame    | specify             |
+| sheho    | exemplify           |
+| shime    | interpret           |
+| thuso    | outline             |
+| thato    | detail              |
+| shori    | characterize        |
+| pheri    | narrate             |
+| whani    | demonstrate         |
 
 ## informing and reporting
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | inform              |
-|          | report              |
-|          | notify              |
-|          | announce            |
-|          | state               |
-|          | declare             |
-|          | communicate         |
-|          | present             |
-|          | reveal              |
-|          | convey              |
-|          | document            |
-|          | share               |
-|          | brief               |
-|          | outline             |
-|          | describe            |
-|          | remark              |
-|          | mention             |
-|          | summarize           |
+| whusa    | inform              |
+| shule    | report              |
+| thine    | notify              |
+| phumu    | announce            |
+| shima    | state               |
+| whowo    | declare             |
+| showo    | communicate         |
+| thewi    | present             |
+| phapo    | reveal              |
+| phala    | convey              |
+| whuso    | document            |
+| shaha    | share               |
+| thumi    | brief               |
+| thuso    | outline             |
+| thuwu    | describe            |
+| shesa    | remark              |
+| whota    | mention             |
+| shapo    | summarize           |
 
 ## persuading and convincing
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | persuade            |
-|          | convince            |
-|          | encourage           |
-|          | inspire             |
-|          | motivate            |
-|          | influence           |
-|          | recommend           |
-|          | advise              |
-|          | suggest             |
-|          | propose             |
-|          | prompt              |
-|          | urge                |
-|          | appeal              |
-|          | invite              |
-|          | guide               |
-|          | support             |
-|          | rally               |
-|          | foster              |
+| shine    | persuade            |
+| phupi    | convince            |
+| thata    | encourage           |
+| whahe    | inspire             |
+| thohe    | motivate            |
+| thamu    | influence           |
+| phunu    | recommend           |
+| shepe    | advise              |
+| theho    | suggest             |
+| whiho    | propose             |
+| phumo    | prompt              |
+| thilo    | urge                |
+| whipi    | appeal              |
+| phahe    | invite              |
+| whepo    | guide               |
+| phasa    | support             |
+| thama    | rally               |
+| phinu    | foster              |
 
 ## discussing and debating
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | discuss             |
-|          | debate              |
-|          | deliberate          |
-|          | argue               |
-|          | reason              |
-|          | consider            |
-|          | exchange (views)    |
-|          | negotiate           |
-|          | mediate             |
-|          | consult             |
-|          | converse            |
-|          | dialogue            |
-|          | question            |
-|          | challenge           |
-|          | clarify             |
-|          | reflect             |
-|          | resolve             |
-|          | respond             |
+| thusi    | discuss             |
+| thaha    | debate              |
+| thiho    | deliberate          |
+| whipe    | argue               |
+| whita    | reason              |
+| thoro    | consider            |
+| thota    | exchange (views)    |
+| whesu    | negotiate           |
+| whime    | mediate             |
+| phema    | consult             |
+| thawa    | converse            |
+| sharo    | dialogue            |
+| while    | question            |
+| shaho    | challenge           |
+| shuwo    | clarify             |
+| phume    | reflect             |
+| shupo    | resolve             |
+| whiwe    | respond             |
 
 ## greeting and parting
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | greet               |
-|          | welcome             |
-|          | meet                |
-|          | introduce           |
-|          | acknowledge         |
-|          | embrace             |
-|          | salute              |
-|          | address             |
-|          | bid farewell        |
-|          | say goodbye         |
-|          | part                |
-|          | leave               |
-|          | take leave          |
-|          | wish (well)         |
-|          | thank               |
-|          | reunite             |
+| shoro    | greet               |
+| whupa    | welcome             |
+| pheru    | meet                |
+| whape    | introduce           |
+| sharu    | acknowledge         |
+| whipu    | embrace             |
+| whuna    | salute              |
+| shuhu    | address             |
+| whuwe    | bid farewell        |
+| whiwo    | say goodbye         |
+| shame    | part                |
+| thalo    | leave               |
+| whumo    | take leave          |
+| phupa    | wish (well)         |
+| phune    | thank               |
+| phemi    | reunite             |
 
 ## requesting and commanding
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | request             |
-|          | ask                 |
-|          | invite              |
-|          | suggest             |
-|          | propose             |
-|          | encourage           |
-|          | seek (help)         |
-|          | offer               |
-|          | urge                |
-|          | recommend           |
-|          | wish                |
-|          | hope                |
-|          | prefer              |
-|          | allow               |
-|          | permit              |
-|          | authorize           |
-|          | agree               |
-|          | accept              |
+| whuto    | request             |
+| thero    | ask                 |
+| phahe    | invite              |
+| theho    | suggest             |
+| whiho    | propose             |
+| thata    | encourage           |
+| phihu    | seek (help)         |
+| whano    | offer               |
+| thilo    | urge                |
+| phunu    | recommend           |
+| whela    | wish                |
+| thelo    | hope                |
+| shape    | prefer              |
+| phasi    | allow               |
+| thawe    | permit              |
+| shuli    | authorize           |
+| wheta    | agree               |
+| thape    | accept              |
 
 ## sharing and distributing
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | share               |
-|          | distribute          |
-|          | give                |
-|          | allot               |
-|          | apportion           |
-|          | assign              |
-|          | offer               |
-|          | donate              |
-|          | provide             |
-|          | supply              |
-|          | deliver             |
-|          | hand out            |
-|          | pass                |
-|          | circulate           |
-|          | bestow              |
-|          | present             |
-|          | grant               |
-|          | allocate            |
+| shaha    | share               |
+| phimo    | distribute          |
+| wheni    | give                |
+| themi    | allot               |
+| whonu    | apportion           |
+| thowo    | assign              |
+| whano    | offer               |
+| thuli    | donate              |
+| shahe    | provide             |
+| phihe    | supply              |
+| pheno    | deliver             |
+| thomo    | hand out            |
+| shetu    | pass                |
+| thupe    | circulate           |
+| shipi    | bestow              |
+| thewi    | present             |
+| shapu    | grant               |
+| thepe    | allocate            |
 
 ## listening and receiving
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | listen              |
-|          | hear                |
-|          | receive             |
-|          | attend              |
-|          | notice              |
-|          | acknowledge         |
-|          | accept              |
-|          | observe             |
-|          | tune in             |
-|          | empathize           |
-|          | understand          |
-|          | be open             |
-|          | reflect             |
+| phiru    | listen              |
+| thuwa    | hear                |
+| whase    | receive             |
+| thuhu    | attend              |
+| shute    | notice              |
+| sharu    | acknowledge         |
+| thape    | accept              |
+| themu    | observe             |
+| phiri    | tune in             |
+| shiti    | empathize           |
+| shimo    | understand          |
+| thahu    | be open             |
+| phume    | reflect             |
 
 ## writing and recording
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | write               |
-|          | record              |
-|          | note                |
-|          | document            |
-|          | inscribe            |
-|          | compose             |
-|          | transcribe          |
-|          | mark                |
-|          | copy                |
-|          | register            |
-|          | log                 |
-|          | draft               |
-|          | archive             |
-|          | report              |
-|          | chronicle           |
-|          | list                |
-|          | publish             |
-|          | annotate            |
+| shiro    | write               |
+| shoru    | record              |
+| phota    | note                |
+| whuso    | document            |
+| phanu    | inscribe            |
+| phesi    | compose             |
+| thamo    | transcribe          |
+| phomo    | mark                |
+| whoto    | copy                |
+| phiwo    | register            |
+| thala    | log                 |
+| shenu    | draft               |
+| whiwu    | archive             |
+| shule    | report              |
+| whuhu    | chronicle           |
+| theso    | list                |
+| phoni    | publish             |
+| thumo    | annotate            |
 
 ## nonverbal and paralinguistic communication
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | gesture             |
-|          | signal              |
-|          | nod                 |
-|          | shake (head)        |
-|          | wave                |
-|          | smile               |
-|          | frown               |
-|          | gaze                |
-|          | glance              |
-|          | touch               |
-|          | point               |
-|          | bow                 |
-|          | hug                 |
-|          | clap                |
-|          | laugh               |
-|          | sigh                |
-|          | pause               |
-|          | emphasize           |
-|          | intone              |
-|          | modulate (voice)    |
-|          | stress (word)       |
-|          | vary (tone)         |
-|          | soften (voice)      |
-|          | raise (eyebrows)    |
+| shehi    | gesture             |
+| whame    | signal              |
+| tharu    | nod                 |
+| phumi    | shake (head)        |
+| wholu    | wave                |
+| phohu    | smile               |
+| phuhi    | frown               |
+| shomu    | gaze                |
+| wharo    | glance              |
+| phihi    | touch               |
+| phaso    | point               |
+| thowu    | bow                 |
+| whomo    | hug                 |
+| whune    | clap                |
+| phini    | laugh               |
+| whato    | sigh                |
+| thomu    | pause               |
+| phese    | emphasize           |
+| phiti    | intone              |
+| shoho    | modulate (voice)    |
+| shire    | stress (word)       |
+| shure    | vary (tone)         |
+| shola    | soften (voice)      |
+| thalu    | raise (eyebrows)    |

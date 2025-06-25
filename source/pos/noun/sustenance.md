@@ -9,127 +9,128 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | food                |
-|          | meat                |
-|          | fish                |
-|          | bird                |
-|          | egg                 |
-|          | grain               |
-|          | wheat               |
-|          | rice                |
-|          | maize               |
-|          | bean                |
-|          | vegetable           |
-|          | potato              |
-|          | tuber               |
-|          | root                |
-|          | nut                 |
-|          | berry               |
-|          | fruit               |
-|          | seeds               |
-|          | fungi               |
-|          | leafy greens        |
-|          | pasta               |
-|          | honey               |
+| piphio   | food                |
+| hopheu   | meat                |
+| shashui  | fish                |
+| rashoi   | bird                |
+| whushuo  | egg                 |
+| lushao   | grain               |
+| phoshua  | wheat               |
+| sothuo   | rice                |
+| sithui   | maize               |
+| showhoa  | bean                |
+| whathei  | vegetable           |
+| shashea  | potato              |
+| muwheu   | tuber               |
+| suthiu   | root                |
+| wiphei   | nut                 |
+| sewhoa   | berry               |
+| nupheo   | fruit               |
+| wephoi   | seeds               |
+| thethoi  | fungi               |
+| thapheu  | leafy greens        |
+| phishao  | pasta               |
+| nushei   | honey               |
 
 ## dairy products
 *processed milk-derived foods from domesticated animals*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | milk                |
-|          | cheese              |
-|          | butter              |
-|          | yogurt              |
-|          | cream               |
-|          | ice cream           |
+| lishei   | milk                |
+| phoshie  | cheese              |
+| woshia   | butter              |
+| shishei  | yogurt              |
+| thuwhoi  | cream               |
+| liphou   | ice cream           |
 
 ## animal products
 *non-dairy animal-derived foods and materials*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | gelatin             |
-|          | broth               |
-|          | stock               |
+| nashou   | gelatin             |
+| lowhou   | broth               |
+| lathei   | stock               |
 
 ## processed foods and ingredients
 *manufactured and prepared food components*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | bread               |
-|          | flour               |
-|          | dough               |
-|          | oil                 |
-|          | fat                 |
-|          | starch              |
-|          | paste               |
-|          | yeast               |
-|          | vinegar             |
-|          | extract             |
-|          | preserve            |
+| thophua  | bread               |
+| pophui   | flour               |
+| thothio  | dough               |
+| losheo   | oil                 |
+| thophui  | fat                 |
+| puwhui   | starch              |
+| wethou   | paste               |
+| nephie   | yeast               |
+| whuphiu  | vinegar             |
+| tithei   | extract             |
+| thathoe  | preserve            |
 
 ## seasonings and flavorings
 *taste enhancement and preservation agents*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | salt                |
-|          | spice               |
-|          | herb                |
-|          | seasoning           |
-|          | sugar               |
-|          | syrup               |
-|          | marinade            |
-|          | sauce               |
-|          | mustard             |
-|          | pickle              |
-|          | condiment           |
+| thuthie  | salt                |
+| shetheo  | spice               |
+| hawhoi   | herb                |
+| taphie   | seasoning           |
+| phophua  | sugar               |
+| watheu   | syrup               |
+| pathue   | marinade            |
+| nawhai   | sauce               |
+| wiphau   | mustard             |
+| pothiu   | pickle              |
+| tishoa   | condiment           |
 
 ## beverages
 *liquid consumables and drinks*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | drink               |
-|          | water               |
-|          | coffee              |
-|          | tea                 |
-|          | juice               |
-|          | soda                |
+| shithui  | drink               |
+| mowhio   | water               |
+| theshia  | coffee              |
+| puthua   | tea                 |
+| thishie  | juice               |
+| reshuo   | soda                |
 
 ## prepared foods
 *cooked and assembled dishes*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | meal                |
-|          | soup                |
-|          | stew                |
-|          | grilled             |
-|          | roasted             |
-|          | boiled              |
-|          | steamed             |
-|          | fried               |
-|          | baked               |
-|          | dumpling            |
-|          | porridge            |
+| shotheu  | meal                |
+| shaphua  | soup                |
+| noshue   | stew                |
+| lewhea   | grilled             |
+| pushai   | roasted             |
+| shushia  | boiled              |
+| mipheo   | steamed             |
+| paphoa   | fried               |
+| whiwhei  | baked               |
+| whaphao  | dumpling            |
+| wothoi   | porridge            |
 
 ## preparation states
 *universal food preservation and processing conditions*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | cooked              |
-|          | raw                 |
-|          | fresh               |
-|          | dried               |
-|          | preserved           |
-|          | fermented           |
-|          | smoked              |
-|          | salted              |
-|          | cured               |
-|          | pickled             |
-|          | frozen              |
-|          | aged                |
+| tathou   | cooked              |
+| ruphia   | raw                 |
+| loshou   | fresh               |
+| riwhuo   | dried               |
+| suthoe   | preserved           |
+| thawhea  | fermented           |
+| paphae   | smoked              |
+| tashao   | salted              |
+| wiwhui   | cured               |
+| newhei   | pickled             |
+| wiphao   | frozen              |
+| tothou   | aged                |
+

@@ -9,59 +9,60 @@
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | place               |
-|          | vicinity            |
-|          | space               |
-|          | bioregion           |
-|          | watershed           |
-|          | valley              |
-|          | meadow              |
-|          | grove               |
-|          | clearing            |
-|          | wetland             |
-|          | spring              |
-|          | grove               |
+| thoshue  | place               |
+| whiphei  | vicinity            |
+| shothio  | space               |
+| tiphio   | bioregion           |
+| tiwhoi   | watershed           |
+| hawhue   | valley              |
+| shiphao  | meadow              |
+| phophui  | grove               |
+| luthoi   | clearing            |
+| liwhoi   | wetland             |
+| lushie   | spring              |
+| phophui  | grove               |
 
 ## living spaces and gathering places
 *community connection and shared life*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | home                |
-|          | shelter             |
-|          | dwelling            |
-|          | neighborhood        |
-|          | community           |
-|          | yard                |
-|          | court               |
-|          | garden              |
-|          | gathering place     |
-|          | ceremonial ground   |
-|          | sacred place        |
-|          | healing center      |
-|          | learning space      |
-|          | meeting place       |
-|          | celebration ground  |
-|          | workshop            |
-|          | kitchen             |
-|          | hearth              |
+| tawhai   | home                |
+| pothuo   | shelter             |
+| rewhoa   | dwelling            |
+| shothiu  | neighborhood        |
+| hewhue   | community           |
+| tewhue   | yard                |
+| luthou   | court               |
+| showhae  | garden              |
+| mowhuo   | gathering place     |
+| phisheu  | ceremonial ground   |
+| tesheu   | sacred place        |
+| whathue  | healing center      |
+| pewhio   | learning space      |
+| thuwhua  | meeting place       |
+| rowhae   | celebration ground  |
+| sethui   | workshop            |
+| lasheu   | kitchen             |
+| mephai   | hearth              |
 
 ## pathways and connections
 *movement and relationship between places*
 
 | phi word | english translation |
 | -------- | ------------------- |
-|          | path                |
-|          | trail               |
-|          | route               |
-|          | passage             |
-|          | crossing            |
-|          | bridge              |
-|          | ferry               |
-|          | landing             |
-|          | ford                |
-|          | direction           |
-|          | distance            |
-|          | connection          |
-|          | junction            |
-|          | threshold           |
+| nuthia   | path                |
+| whishae  | trail               |
+| whusheo  | route               |
+| thiphou  | passage             |
+| hushua   | crossing            |
+| pewhie   | bridge              |
+| withio   | ferry               |
+| howhau   | landing             |
+| puwhoa   | ford                |
+| phuwhuo  | direction           |
+| thewhao  | distance            |
+| thaphau  | connection          |
+| nathou   | junction            |
+| wawhuo   | threshold           |
+
