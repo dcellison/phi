@@ -10,38 +10,24 @@
     "tags": [ "conjunction", "coordination", "logic" ]
   },
   {
-    "word": "thoa",
-    "ipa": "/'θo.a/",
+    "word": "thona",
+    "ipa": "/ˈθo.na/",
     "gloss": "BUT",
-    "pos": [
-      "conjunction"
-    ],
+    "pos": [ "conjunction" ],
     "concept": "But / However (Adversative)",
     "description": "A coordinating conjunction used to connect two contrasting clauses.",
-    "rationale": "The thoughtful fricative 'th' introduces the contrast. The vowel pair 'oa' represents a pivot from one idea ('o') to another ('a').",
-    "tags": [
-      "conjunction",
-      "coordination",
-      "adversative",
-      "logic"
-    ]
+    "rationale": "The thoughtful fricative 'tho' introduces the contrast. The 'na' ending provides a solid, grounding sound to the contrasting idea.",
+    "tags": [ "conjunction", "coordination", "adversative", "logic" ]
   },
   {
-    "word": "soa",
-    "ipa": "/'so.a/",
+    "word": "sola",
+    "ipa": "/ˈso.la/",
     "gloss": "OR",
-    "pos": [
-      "conjunction"
-    ],
+    "pos": [ "conjunction" ],
     "concept": "Or (Disjunctive)",
     "description": "A coordinating conjunction used to connect two or more alternative possibilities.",
-    "rationale": "The 's' sound has an inquisitive quality. The vowel pair 'oa' represents a pivot between two distinct options ('o' and 'a').",
-    "tags": [
-      "conjunction",
-      "coordination",
-      "disjunctive",
-      "logic"
-    ]
+    "rationale": "The 'so' sound has an inquisitive quality. The flowing 'la' ending gives it a lighter feel than the adversative 'thona', suitable for presenting alternatives.",
+    "tags": [ "conjunction", "coordination", "disjunctive", "logic" ]
   },
   {
     "word": "pheo",

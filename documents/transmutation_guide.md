@@ -57,7 +57,7 @@ Again, a direct list would be awkward. The Phi transmutation breaks the sentence
 
 ### Final Transmutation (Sentence 2)
 
-*   **Phi:** `solapano sheale po sio. solapano sinoa po sio. solapano [sheale thekoa lila] wothe po sio. thoa solapano phalo phele.`
+*   **Phi:** `solapano sheale po sio. solapano sinoa po sio. solapano [sheale thekoa lila] wothe po sio. thona solapano phalo phele.`
 *   **Gloss:** `solarpunk utopia can be. solarpunk hope can be. solarpunk [utopia build PURP] struggle can be. but solarpunk dystopia reject.`
 *   **Translation:** Solarpunk can be a utopia. Solarpunk can be hope. Solarpunk can be the struggle to build a utopia. But Solarpunk rejects dystopia.
 
@@ -82,7 +82,7 @@ The best way to express the "not only" idea in Phi is to state both parts of the
 
 ### Final Transmutation (Sentence 3)
 
-*   **Phi:** `[mako phaloa hisu] silo ketho thopa wela sio. thoa shilela mo na sio.`
+*   **Phi:** `[mako phaloa hisu] silo ketho thopa wela sio. thona shilela mo na sio.`
 *   **Gloss:** `[earth calamity feel] DUR alertness-speech good be. but solution COMP NEC be.`
 *   **Translation:** While the world feels calamity, warnings are good, but solutions are more necessary.
 

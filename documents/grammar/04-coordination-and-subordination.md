@@ -12,16 +12,16 @@ mia sela nela weola lothea
 (I love peace and community.)
 ```
 
-**Adversative (`thoa`):** Used for "but."
+**Adversative (`thona`):** Used for "but."
 ```
-mia lothea kela thoa sha ma kela
+mia lothea kela thona sha ma kela
 1SG love understand BUT 3SG NEG understand
 (I understand love, but the other does not.)
 ```
 
-**Alternative (`soa`):** Used for "or."
+**Alternative (`sola`):** Used for "or."
 ```
-wa [sha miro] soa [philo]
+wa [sha miro] sola [philo]
 Q [3SG beautiful] OR [calm]
 (Is it beautiful or calm?)
 ```
@@ -35,15 +35,15 @@ To add emphasis to a coordinated phrase, a logical adverb may be placed before t
   1SG [peace and community] together love
   (I love both peace and community.)
   ```
-- **Either... or...:** Use `soa` to link the items and add the adverb `sona` (as a choice).
+- **Either... or...:** Use `sola` to link the items and add the adverb `sona` (as a choice).
   ```
-  thi [thola soa sela] sona po shele
+  thi [thola sola sela] sona po shele
   2SG [story or peace] as-a-choice POSS receive
   (You can have either the story or the peace.)
   ```
-- **Neither... nor...:** Use `soa` and `sona`, and negate the main verb with `ma`.
+- **Neither... nor...:** Use `sola` and `sona`, and negate the main verb with `ma`.
   ```
-  mia [thola soa sela] sona ma kela
+  mia [thola sola sela] sona ma kela
   1SG [story or peace] as-a-choice NEG understand
   (I understand neither the story nor the peace.)
   ```
@@ -58,26 +58,6 @@ To connect sentences and signal the logical relationship between them, Phi uses 
 - `kewai` (however, on the other hand)
 - `sheno` (in addition, furthermore)
 - `phisu` (for example, for instance)
-
-**Examples:**
-- **`thelao`**:
-  ```
-  sha to wepu. thelao mia nolou hisu.
-  3SG PST leave. therefore 1SG sadness feel.
-  (They left. Therefore, I feel sad.)
-  ```
-- **`kewai` with a Slot 0 particle**:
-  ```
-  wa kewai thi lothea kela
-  Q however 2SG love understand
-  (However, do you understand love?)
-  ```
-- **`sheno` with a Slot 0 particle**:
-  ```
-  pi sheno no minu shele
-  POL in-addition IMP family help
-  (In addition, please help the family.)
-  ```
 
 ## 4.2. Subordination
 Subordination makes one clause dependent on another.
@@ -99,6 +79,7 @@ sha sho "thino wela" thopa
 ```
 
 ### 4.2.3. Temporal Clauses (head-final)
+A temporal clause is formed by stating the clause and then marking it with a preposition that functions as a temporal subordinator.
 ```
 [mia pholea] pheo mia sela hisu
 [1SG create] AFTER 1SG peace feel
@@ -109,31 +90,25 @@ sha sho "thino wela" thopa
 (Before I help, I think.)
 ```
 
-### 4.2.4. Purpose Clauses
-A purpose clause ("in order to...") is formed by stating the subordinate clause of purpose and then marking it with the conjunction `lila`.
+### 4.2.4. Causal and Concessive Clauses
+Causal ("because") and concessive ("although") clauses are formed by using the prepositions `lao` and `shai` respectively, followed by a nominalized clause (using `nai`).
 
-**Structure:** `[Purpose Clause] lila, [Main Clause]`
+**Structure:** `[Preposition [Clause] nai], [Main Clause]`
 
-**Example:**
-```
-[hauno thekoa] lila, weo nosa thekoa
-[house build] PURP, 1PL mindful build
-(In order to build the house, we build mindfully.)
-```
+- **Causal:**
+  ```
+  [sha to wepu] nai lao, mia nolou hisu
+  [3SG PST leave] NOM BECAUSE, 1SG sadness feel
+  (Because she left, I feel sad.)
+  ```
+- **Concessive:**
+  ```
+  [shiro to wela ma sio] nai shai, mia ketho ma hisu
+  [forest PST beautiful NEG be] NOM ALTHOUGH, 1SG fear NEG feel
+  (Although the forest was not beautiful, I felt no fear.)
+  ```
 
-### 4.2.5. Concessive Clauses
-A concessive clause ("although...") is formed by stating the subordinate clause and then marking it with the postposition `thowa`.
-
-**Structure:** `[Subordinate Clause] thowa, [Main Clause]`
-
-**Example:**
-```
-[shiro to wela ma sio] thowa, mia ketho ma hisu
-[forest PST beautiful NEG be] ALTHOUGH, 1SG fear NEG feel
-(Although the forest was not beautiful, I felt no fear.)
-```
-
-### 4.2.6. Indirect Questions
+### 4.2.5. Indirect Questions
 An indirect question is formed by using a clause containing an interrogative pronoun (e.g., `sua`, `kua`) as the direct object of a verb like `kela` (to know) or `kewha` (to ask). The main sentence remains a statement.
 
 **Structure:** `S [S-interrogative O V] V`

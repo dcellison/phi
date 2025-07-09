@@ -20,27 +20,27 @@ Here's an example connecting two full sentences:
 
 ---
 
-### `thoa` (but)
+### `thona` (but)
 
-To connect two contrasting ideas, we use the conjunction `thoa`, which means "but."
+To connect two contrasting ideas, we use the conjunction `thona`, which means "but."
 
-*   **Phi:** `mia lothea kela thoa sha ma kela.`
+*   **Phi:** `mia lothea kela thona sha ma kela.`
 *   **Gloss:** `1SG love understand but 3SG NEG understand.`
-*   **Translation:** I understand love, but the other does not understand.
+*   **Translation:** I understand love, but the other does not.
 
-### `soa` (or)
+---
 
-To present an alternative or a choice, we use the conjunction `soa`, which means "or."
+### `sola` (or)
 
-*   **Phi:** `wa thi miro sio soa philo sio.`
+To connect two alternatives, we use the conjunction `sola`.
+
+*   **Phi:** `wa thi miro sio sola philo sio.`
 *   **Gloss:** `Q 2SG beautiful be or calm be.`
-*   **Translation:** Are you beautiful or are you calm?
-    *   (A more natural translation might be "Are you the beautiful one or the calm one?", but the structure is a choice between two states of being).
+*   **Translation:** Are you beautiful or calm?
 
 ### Lesson 9 Summary
-
-*   Use `ne` to connect two similar ideas, like "and."
-*   Use `thoa` to connect two contrasting ideas, like "but."
-*   Use `soa` to present a choice between two ideas, like "or."
+*   Use `nela` to connect two similar ideas, like "and."
+*   Use `thona` to connect two contrasting ideas, like "but."
+*   Use `sola` to connect two alternative ideas, like "or."
 
 You can now weave simple sentences together to form more complex and nuanced expressions. In the final lessons, we will explore the most advanced topic: creating complex sentences with multiple clauses. 
