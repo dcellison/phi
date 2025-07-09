@@ -1,0 +1,227 @@
+[
+  {
+    "word": "nia",
+    "ipa": "/ˈni.a/",
+    "gloss": "ON",
+    "pos": [ "preposition" ],
+    "concept": "On / Upon (Superessive)",
+    "description": "Indicates location on a surface.",
+    "rationale": "The grounding 'n' sound combined with the vowel pair 'ia' suggests a broad, flat surface area."
+  },
+  {
+    "word": "wei",
+    "ipa": "/ˈwe.i/",
+    "gloss": "DAT",
+    "pos": [ "preposition" ],
+    "concept": "To / For (Dative)",
+    "description": "Indicates the recipient of an action (the indirect object).",
+    "rationale": "The welcoming `w` sound is combined with the `ei` vowel pair, suggesting a directed connection from one person (`e`) to a specific other (`i`)."
+  },
+  {
+    "word": "lao",
+    "ipa": "/ˈla.o/",
+    "gloss": "CAUS",
+    "pos": [ "preposition" ],
+    "concept": "Because of / Due to (Causal)",
+    "description": "A preposition that precedes a noun or nominalized clause, indicating it is the reason for the main clause.",
+    "rationale": "The `l` suggests a logical flow, and the vowel pair `ao` creates a sense of moving from an open cause to a specific result."
+  },
+  {
+    "word": "roe",
+    "ipa": "/ˈro.e/",
+    "gloss": "INS",
+    "pos": [ "preposition" ],
+    "concept": "With / By means of (Instrumental)",
+    "description": "Indicates the tool or instrument used to perform an action.",
+    "rationale": "The energetic `r` suggests an action, and the `oe` vowel pair gives it a quality of being a specific tool or method directed at a goal."
+  },
+  {
+    "word": "mua",
+    "ipa": "/ˈmu.a/",
+    "gloss": "IN",
+    "pos": [ "preposition" ],
+    "concept": "In / Inside (Inessive)",
+    "description": "Indicates location within a space.",
+    "rationale": "The enclosed `m` sound is combined with the `ua` vowel pair, which phonetically moves from an inner space (`u`) to an open state (`a`), capturing the idea of being located 'within' a space."
+  },
+  {
+    "word": "leo",
+    "ipa": "/ˈle.o/",
+    "gloss": "ABOVE",
+    "pos": [ "preposition" ],
+    "concept": "Above / Over",
+    "description": "Indicates location higher than a reference point.",
+    "rationale": "'le' suggests lightness and the 'eo' vowel pair creates a sense of open space above."
+  },
+  {
+    "word": "phou",
+    "ipa": "/ˈɸo.u/",
+    "gloss": "BELOW",
+    "pos": [ "preposition" ],
+    "concept": "Under / Below",
+    "description": "Indicates location lower than a reference point.",
+    "rationale": "The soft fricative 'ph' suggests passing beneath something, and the vowel pair 'ou' moves from a round 'o' to a deep 'u', creating a feeling of downward motion."
+  },
+  {
+    "word": "sio",
+    "ipa": "/ˈsi.o/",
+    "gloss": "BESIDE",
+    "pos": [ "preposition" ],
+    "concept": "Beside / Next to",
+    "description": "Indicates location adjacent to a reference point.",
+    "rationale": "'si' provides a sense of proximity, while the 'io' vowel pair gives a feeling of two distinct things in relation."
+  },
+  {
+    "word": "thei",
+    "ipa": "/ˈθe.i/",
+    "gloss": "BETWEEN",
+    "pos": [ "preposition" ],
+    "concept": "Between",
+    "description": "Indicates location in the space separating two points.",
+    "rationale": "The fricative 'th' delineates space. The vowel pair 'ei' suggests a relationship between two distinct points."
+  },
+  {
+    "word": "pai",
+    "ipa": "/ˈpa.i/",
+    "gloss": "NEAR",
+    "pos": [ "preposition" ],
+    "concept": "Near",
+    "description": "Indicates close proximity to a reference point.",
+    "rationale": "The plosive 'p' defines a point, and the bright vowel pair 'ai' gives a sense of immediacy and closeness."
+  },
+  {
+    "word": "woe",
+    "ipa": "/ˈwo.e/",
+    "gloss": "FAR",
+    "pos": [ "preposition" ],
+    "concept": "Far from",
+    "description": "Indicates a significant distance from a reference point.",
+    "rationale": "The long 'o' sound stretches out, and the `oe` vowel pair enhances the feeling of distance and separation."
+  },
+  {
+    "word": "phoi",
+    "ipa": "/ˈɸo.i/",
+    "gloss": "FROM",
+    "pos": [ "preposition" ],
+    "concept": "From (Ablative)",
+    "description": "Indicates the origin or starting point of motion.",
+    "rationale": "The `ph` suggests movement, and the `oi` vowel pair can represent moving from a general location (`o`) to a specific point of departure (`i`)."
+  },
+  {
+    "word": "phei",
+    "ipa": "/ˈɸe.i/",
+    "gloss": "AWAY",
+    "pos": [ "preposition" ],
+    "concept": "Away from (Elative)",
+    "description": "Indicates movement away from a reference point.",
+    "rationale": "The `ph` suggests movement, and the `ei` vowel pair suggests moving from one state (e.g., near) to another (e.g., away)."
+  },
+  {
+    "word": "wea",
+    "ipa": "/ˈwe.a/",
+    "gloss": "TOWARD",
+    "pos": [ "preposition" ],
+    "concept": "Toward (Allative)",
+    "description": "Indicates movement in the direction of a reference point.",
+    "rationale": "The welcoming 'w' sound combined with the 'ea' vowel pair creates a sense of moving into an open space or destination."
+  },
+  {
+    "word": "phoe",
+    "ipa": "/ˈɸo.e/",
+    "gloss": "BEFORE",
+    "pos": [ "preposition" ],
+    "concept": "Before (Temporal)",
+    "description": "Indicates a time preceding a reference point.",
+    "rationale": "The 'ph' sound relates to passage, and the 'oe' vowel sequence feels like moving from a broader state to a specific point, as in 'the time before the event.'"
+  },
+  {
+    "word": "pheo",
+    "ipa": "/ˈɸe.o/",
+    "gloss": "AFTER",
+    "pos": [ "preposition" ],
+    "concept": "After (Temporal)",
+    "description": "Indicates a time following a reference point.",
+    "rationale": "The counterpart to 'phoe'. The 'eo' vowel sequence feels like moving away from a specific point to a broader state, as in 'the time after the event.'"
+  },
+  {
+    "word": "sui",
+    "ipa": "/ˈsu.i/",
+    "gloss": "DUR",
+    "pos": [ "preposition" ],
+    "concept": "During / Throughout",
+    "description": "Indicates something that happens within a specific period of time.",
+    "rationale": "The initial 'su' is fluid, and the 'ui' vowel pair creates a sense of continuous duration within a defined period."
+  },
+  {
+    "word": "nua",
+    "ipa": "/ˈnu.a/",
+    "gloss": "WITH",
+    "pos": [ "preposition" ],
+    "concept": "With (Accompaniment)",
+    "description": "Indicates being together with someone or something.",
+    "rationale": "The nasal 'n' suggests connection, and the 'ua' vowel pair moves from an intimate space ('u') to a shared one ('a')."
+  },
+  {
+    "word": "sheo",
+    "ipa": "/ˈʃe.o/",
+    "gloss": "THAN",
+    "pos": [ "preposition" ],
+    "concept": "Than (Comparative)",
+    "description": "A preposition that marks the standard of comparison in a comparative sentence.",
+    "rationale": "The `sh` sound provides a soft, comparative hiss. The `eo` vowel pair can represent comparing one thing (`e`) to a standard (`o`)."
+  },
+  {
+    "word": "whia",
+    "ipa": "/ˈʍi.a/",
+    "gloss": "WITHOUT",
+    "pos": [ "preposition" ],
+    "concept": "Without / Lacking",
+    "description": "Indicates the absence of someone or something.",
+    "rationale": "The airy `wh` sound suggests absence. The `ia` vowel pair creates an open, definitive sound for 'without.'"
+  },
+  {
+    "word": "noa",
+    "ipa": "/ˈno.a/",
+    "gloss": "ORD",
+    "pos": [ "preposition" ],
+    "concept": "Ordinal Marker",
+    "description": "A preposition that follows a cardinal number to turn it into an ordinal number.",
+    "rationale": "'no' relates to 'nolu' (to know), suggesting a known or specific position in a sequence. The vowel pair 'oa' gives it a formal quality."
+  },
+  {
+    "word": "phea",
+    "ipa": "/ˈɸe.a/",
+    "gloss": "AS",
+    "pos": [ "preposition" ],
+    "concept": "As / Like (Equative)",
+    "description": "A preposition that marks the standard of comparison in an equative sentence.",
+    "rationale": "The soft, breathy fricative 'ph' combined with the open 'ea' vowel pair gives the word a sense of balance and likeness."
+  },
+  {
+    "word": "thue",
+    "ipa": "/ˈθu.e/",
+    "gloss": "THROUGH",
+    "pos": [ "preposition" ],
+    "concept": "Through (Perlative)",
+    "description": "Indicates movement that passes through a space, medium, or period of time.",
+    "rationale": "The `th` suggests movement, and the `ue` vowel pair represents passing from an inner/enclosed state (`u`) to an outer/open one (`e`)."
+  },
+  {
+    "word": "shai",
+    "ipa": "/ˈʃa.i/",
+    "gloss": "CONC",
+    "pos": [ "preposition" ],
+    "concept": "Although / Despite (Concessive)",
+    "description": "A preposition that follows a noun or nominalized clause, marking it as a concession against the main clause.",
+    "rationale": "The soft `sh` sound introduces the concessive idea. The vowel pair `ai` can represent moving from a general, accepted state (`a`) to a specific, contrasting point (`i`)."
+  },
+  {
+    "word": "nai",
+    "ipa": "/ˈna.i/",
+    "gloss": "NOM",
+    "pos": [ "preposition" ],
+    "concept": "Nominalizer",
+    "description": "A preposition that follows a verb or verb phrase, transforming the entire phrase into a noun concept.",
+    "rationale": "The grounding nasal 'na' gives it a sense of substance and 'noun-ness.' The vowel pair 'ai' creates a sharp, distinct conceptual boundary."
+  }
+] 

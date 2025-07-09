@@ -1,0 +1,67 @@
+[
+  {
+    "word": "mia",
+    "ipa": "/ˈmi.a/",
+    "gloss": "1SG",
+    "pos": [
+      "pronoun"
+    ],
+    "concept": "Self / I",
+    "description": "The first-person singular pronoun, referring to the speaker.",
+    "rationale": "A core aesthetic pronoun. The two-syllable structure gives it a pleasing flow and substance.",
+    "tags": [
+      "core_referent",
+      "pronoun",
+      "self"
+    ]
+  },
+  {
+    "word": "thi",
+    "ipa": "/θi/",
+    "gloss": "2SG",
+    "pos": [
+      "pronoun"
+    ],
+    "concept": "You",
+    "description": "The second-person singular pronoun, referring to the person being addressed.",
+    "rationale": "A core aesthetic pronoun. The thoughtful 'th' fricative addresses the other with gentle precision.",
+    "tags": [
+      "core_referent",
+      "pronoun",
+      "other_addressed"
+    ]
+  },
+  {
+    "word": "sha",
+    "ipa": "/ʃa/",
+    "gloss": "3SG",
+    "pos": [
+      "pronoun"
+    ],
+    "concept": "Other",
+    "description": "The third-person singular pronoun, referring to a person or entity not the speaker or addressee.",
+    "rationale": "A core aesthetic pronoun. The soft 'sh' sound acknowledges an external being with respect and non-intrusiveness.",
+    "tags": [
+      "core_referent",
+      "pronoun",
+      "other_unaddressed"
+    ]
+  },
+  {
+    "word": "weo",
+    "ipa": "/ˈwe.o/",
+    "gloss": "1PL",
+    "pos": [
+      "pronoun",
+      "noun"
+    ],
+    "concept": "Community / We",
+    "description": "The first-person plural pronoun; also the noun for the concept of a community as a single entity.",
+    "rationale": "The welcoming 'w' sound followed by the 'eo' pair represents distinct individuals ('e', 'o') coming together into a harmonious whole.",
+    "tags": [
+      "core_referent",
+      "collective",
+      "community"
+    ]
+  }
+] 

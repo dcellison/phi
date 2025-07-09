@@ -1,0 +1,146 @@
+[
+  {
+    "word": "miro",
+    "ipa": "/ˈmi.ro/",
+    "pos": [ "adjective", "noun" ],
+    "concept": "Beautiful / Beauty",
+    "description": "Pleasing the senses or mind aesthetically.",
+    "rationale": "The appreciative 'm' and focused 'i' combine with a warm, resonant 'o'. The 'r' adds a flowing admiration. A warmer, more substantial sound than the old form.",
+    "tags": [ "quality", "positive", "aesthetic" ]
+  },
+  {
+    "word": "pila",
+    "ipa": "/ˈpi.la/",
+    "pos": [ "adjective" ],
+    "concept": "Small / Little",
+    "description": "Of a size that is less than normal or average.",
+    "rationale": "The gentle plosive 'p' and high vowel 'i' are cross-linguistically associated with smallness. The soft 'la' ending makes it descriptive.",
+    "tags": [ "quality", "size", "modifier" ]
+  },
+  {
+    "word": "sholi",
+    "ipa": "/ˈʃo.li/",
+    "pos": [ "adjective" ],
+    "concept": "Simple / Uncomplicated",
+    "description": "Easily understood or done; presenting no difficulty.",
+    "rationale": "The soft, smooth 'sh' sound suggests ease and a lack of friction. The word flows effortlessly, mirroring the concept.",
+    "tags": [ "quality", "complexity", "modifier" ]
+  },
+  {
+    "word": "lona",
+    "ipa": "/ˈlo.na/",
+    "pos": [ "adjective" ],
+    "concept": "Slow / Slowly",
+    "description": "Moving or operating at a low speed; with no great hurry.",
+    "rationale": "The long, liquid 'l' sound feels inherently slow and drawn out. The '-ona' ending gives it a stable, descriptive quality.",
+    "tags": [ "quality", "speed", "manner", "modifier" ]
+  },
+  {
+    "word": "whilane",
+    "ipa": "/ʍi.ˈla.ne/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Flowing Pattern / Continuous Design",
+    "description": "Decorative patterns that flow continuously without breaks, like water or wind made visible in art.",
+    "rationale": "The aspirated 'wh' whispers like wind through leaves, 'la' flows continuously, 'ne' connects and coordinates the pattern. Sounds like endless flowing.",
+    "tags": [ "art_nouveau", "pattern", "flow", "continuous" ]
+  },
+  {
+    "word": "miralo",
+    "ipa": "/mi.ˈra.lo/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Handcrafted Beauty / Artisan Work",
+    "description": "Beauty that comes from skilled hands working with natural materials, where the maker's touch is visible and valued.",
+    "rationale": "The 'mi' connects personally to the maker, 'ra' flows with tools and skill, 'lo' gathers the beautiful result. Sounds like hands creating beauty.",
+    "tags": [ "art_nouveau", "craft", "handmade", "artisan" ]
+  },
+  {
+    "word": "phelu",
+    "ipa": "/ˈɸe.lu/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Tendril / Spiral Growth",
+    "description": "The spiral, reaching growth pattern of vines and climbing plants; graceful curves that seek and grasp.",
+    "rationale": "The first syllable, 'phe', is a soft, breath-like fricative. This sound evokes the gentle, delicate emergence of new life and the unfurling of a leaf or vine. The second syllable, 'lu', is the conditional particle ('if'). This represents the searching, tentative, and responsive movement of a tendril as it navigates its environment, changing its path based on what it encounters. Together, 'phelu' phonetically suggests 'a gentle, conditional unfolding.' This captures the essence of a tendril's growth—not forceful, but a graceful, responsive spiral seeking connection.",
+    "tags": [ "art_nouveau", "spiral", "growth", "vine" ]
+  },
+  {
+    "word": "lawhina",
+    "ipa": "/la.ˈʍi.na/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Asymmetrical Balance / Natural Harmony",
+    "description": "Balance achieved through natural, organic asymmetry rather than rigid symmetry, like a tree's branches.",
+    "rationale": "The 'la' flows in one direction, 'whi' whispers a different direction, 'na' grounds them in natural harmony. Sounds balanced but free.",
+    "tags": [ "art_nouveau", "balance", "asymmetry", "harmony" ]
+  },
+  {
+    "word": "wilu",
+    "ipa": "/ˈwi.lu/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Graceful Curve / Elegant Line",
+    "description": "A line that moves with natural grace and elegance, neither forced nor random but following organic logic.",
+    "rationale": "The 'wi' gives graceful movement, 'lu' flows conditionally with natural logic. Simple and elegant like the concept itself.",
+    "tags": [ "art_nouveau", "grace", "curve", "elegance" ]
+  },
+  {
+    "word": "nalu",
+    "ipa": "/ˈna.lu/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Petal Form / Delicate Shape",
+    "description": "The soft, curved forms inspired by flower petals; delicate but strong, simple but perfect.",
+    "rationale": "The 'na' grounds in natural necessity, 'lu' flows with delicate conditional beauty. Sounds soft and perfect like a petal.",
+    "tags": [ "art_nouveau", "petal", "delicate", "flower" ]
+  },
+  {
+    "word": "shiroe",
+    "ipa": "/ʃi.ˈro.e/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Sinuous Flow / Organic Line",
+    "description": "A dynamic, flowing, and organic line, often inspired by natural forms like plants and flowers (e.g., the Art Nouveau 'whiplash' curve).",
+    "rationale": "The soft 'sh' evokes a brushstroke. The 'r' adds movement, and the 'oe' vowel pair creates a feeling of turning back on itself, like a spiral or a tendril. Embodies the Art Nouveau 'whiplash' curve.",
+    "tags": [ "art_nouveau", "aesthetic", "quality", "shape" ]
+  },
+  {
+    "word": "thewa",
+    "ipa": "/ˈθe.wa/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Integrated Wholeness / Unified Art",
+    "description": "The principle that all parts of a creation—art, craft, and function—are unified into a single, harmonious work (Gesamtkunstwerk).",
+    "rationale": "The thoughtful 'th' suggests intentional design. The 'ewa' sound feels like a single, unified gesture, representing the integration of many parts into one harmonious work.",
+    "tags": [ "art_nouveau", "aesthetic", "principle", "harmony" ]
+  },
+  {
+    "word": "hio",
+    "ipa": "/ˈhi.o/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Stylized Form / Essence-Shape",
+    "description": "The representation of a natural form's essence or symbolic meaning rather than a photorealistic copy.",
+    "rationale": "The breathy 'h' suggests something ethereal and essential. The 'io' vowel pair moves from a specific, detailed point ('i') to a more universal, abstract form ('o'). Capturing the soul of a thing, not its literal form.",
+    "tags": [ "art_nouveau", "aesthetic", "principle", "abstraction" ]
+  },
+  {
+    "word": "whileto",
+    "ipa": "/ʍi.ˈle.to/",
+    "pos": [ "noun", "verb" ],
+    "concept": "Whiplash Line / Dynamic Curve",
+    "description": "The characteristic sinuous, energetic line that moves like a whip or lash, creating dynamic rhythm and movement in design.",
+    "rationale": "The 'whi' whispers with sudden energy like a whip's crack, 'le' flows with the line's movement, 'to' stops at the peak of tension. Captures the iconic Art Nouveau whiplash curve.",
+    "tags": [ "art_nouveau", "line", "movement", "dynamic" ]
+  },
+  {
+    "word": "phosa",
+    "ipa": "/ˈɸo.sa/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Iridescence / Color Play",
+    "description": "The quality of surfaces that shimmer and change color depending on light and viewing angle, like peacock feathers or oil on water.",
+    "rationale": "The soft 'ph' breathes with gentle light, 'o' opens like a bubble of color, 'sa' shimmers with surface reflection. Simple and luminous like the effect itself.",
+    "tags": [ "art_nouveau", "color", "light", "surface" ]
+  },
+  {
+    "word": "lumira",
+    "ipa": "/lu.ˈmi.ra/",
+    "pos": [ "noun", "adjective" ],
+    "concept": "Luxurious Simplicity / Refined Elegance",
+    "description": "The Art Nouveau principle of achieving luxury and sophistication through refined simplicity rather than excessive ornamentation.",
+    "rationale": "The 'lu' flows with luxury and beauty, 'mi' connects personally to refined taste, 'ra' flows with elegant restraint. Sounds rich yet understated.",
+    "tags": [ "art_nouveau", "luxury", "simplicity", "elegance" ]
+  }
+] 

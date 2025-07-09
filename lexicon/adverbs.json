@@ -1,0 +1,74 @@
+[
+  {
+    "word": "sila",
+    "ipa": "/ˈsi.la/",
+    "pos": [ "adjective", "adverb" ],
+    "concept": "Together / As a Pair (Conjunctive)",
+    "description": "A logical adverb used to emphasize that two items, linked by 'ne' (and), are being treated as a single, unified set. Used for the 'both...and' construction.",
+    "rationale": "A simple, flowing word that creates a phonetic parallel with its disjunctive counterpart, 'sona'.",
+    "tags": [ "logic", "conjunction", "adverb" ]
+  },
+  {
+    "word": "sona",
+    "ipa": "/ˈso.na/",
+    "pos": [ "adjective", "adverb" ],
+    "concept": "As a Choice / As an Alternative (Disjunctive)",
+    "description": "A logical adverb used to emphasize that two items, linked by 'soa' (or), are being presented as a distinct choice. Used for 'either...or' and 'neither...nor' constructions.",
+    "rationale": "A compositional word where the 'so' sound is shared with 'soa' (or), grounding it in the concept of alternatives. The final nasal 'na' adds a sense of deliberation, framing the linked items as a grounded choice.",
+    "tags": [ "logic", "conjunction", "adverb" ]
+  },
+  {
+    "word": "thelao",
+    "ipa": "/θe.ˈla.o/",
+    "pos": [ "adverb" ],
+    "concept": "Therefore / For this reason",
+    "description": "A discourse adverb that connects a sentence to the previous one as a logical consequence.",
+    "rationale": "This word feels logical and conclusive. The initial fricative 'the' suggests a logical path or manner. 'la' is a sound associated with causality. The final vowel pair 'ao' (as /a.o/) provides a sense of open conclusion.",
+    "tags": [ "discourse", "adverb", "logic", "consequence" ]
+  },
+  {
+    "word": "kewai",
+    "ipa": "/ke.ˈwa.i/",
+    "pos": [ "adverb" ],
+    "concept": "However / On the other hand",
+    "description": "A discourse adverb that introduces a statement that contrasts with or seems to contradict the previous one.",
+    "rationale": "The word creates a sharp pivot in thought. The hard plosive 'ke' marks a firm, definite point. The vowel pair 'wai' (as /a.i/) feels like it's shifting from a broad base ('a') to a new, different point ('i'), phonetically mirroring a change in direction.",
+    "tags": [ "discourse", "adverb", "logic", "contrast" ]
+  },
+  {
+    "word": "sheno",
+    "ipa": "/ˈʃe.no/",
+    "pos": [ "adverb" ],
+    "concept": "In addition / Furthermore",
+    "description": "A discourse adverb that introduces a piece of information that adds to the previous statement.",
+    "rationale": "The soft, rustling fricative 'she' has an additive, gentle quality (as in 'shele', to give/receive). The syllable 'no' grounds the new information in the context of what is already known or being considered.",
+    "tags": [ "discourse", "adverb", "logic", "addition" ]
+  },
+  {
+    "word": "phisu",
+    "ipa": "/ˈɸi.su/",
+    "pos": [ "adverb" ],
+    "concept": "For example / For instance",
+    "description": "A discourse adverb that introduces a specific case or example to illustrate the preceding statement.",
+    "rationale": "This word feels like a gentle offering of a specific case. The soft fricative 'phi' suggests presenting something with care. The syllable 'su' shares a sound with 'sua' (who/what), giving it a quality of pointing to a specific thing.",
+    "tags": [ "discourse", "adverb", "logic", "example" ]
+  },
+  {
+    "word": "miso",
+    "ipa": "/ˈmi.so/",
+    "pos": [ "adverb" ],
+    "concept": "Self-directed (Reflexive)",
+    "description": "An adverb that modifies a verb, indicating the action is directed back at the subject.",
+    "rationale": "The word is a composition of sounds suggesting its meaning. 'mi' is from 'mia' (I/self), establishing the concept of self. The 'so' sound provides a flowing, directional quality. Together, they mean 'toward the self.'",
+    "tags": [ "adverb", "reflexive", "direction" ]
+  },
+  {
+    "word": "wiso",
+    "ipa": "/ˈwi.so/",
+    "pos": [ "adverb" ],
+    "concept": "Mutually-directed (Reciprocal)",
+    "description": "An adverb that modifies a verb, indicating the action is exchanged between members of a plural subject.",
+    "rationale": "The word composition parallels the reflexive. 'wi' is from 'weo' (we/us), establishing the concept of the group. The 'so' sound provides the same directional quality. Together, they mean 'amongst the group' or 'toward each other.'",
+    "tags": [ "adverb", "reciprocal", "direction", "social" ]
+  }
+] 

@@ -1,0 +1,63 @@
+[
+  {
+    "word": "shui",
+    "ipa": "/ˈʃu.i/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Cloud / Vapor",
+    "description": "A visible mass of condensed water vapor floating in the sky, often bringing rain or shade.",
+    "rationale": "The 'sh' breathes softness, 'u' suggests depth, 'i' rises into mist. Two syllables for floating moisture.",
+    "tags": [
+      "element",
+      "nature",
+      "weather"
+    ]
+  },
+  {
+    "word": "phea",
+    "ipa": "/ˈɸe.a/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Rain / Precipitation",
+    "description": "Liquid water falling from clouds, essential for nourishing land and sustaining life.",
+    "rationale": "The 'ph' breathes with weather, 'e' opens to sky, 'a' resonates with the falling drop. Two syllables for life-giving water.",
+    "tags": [
+      "element",
+      "nature",
+      "weather"
+    ]
+  },
+  {
+    "word": "whea",
+    "ipa": "/ˈʍe.a/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Breeze / Wind",
+    "description": "The perceptible natural movement of the air, especially in the form of a gentle current.",
+    "rationale": "The 'wh' digraph is the literal sound of rushing air. The vowel pair 'ea' gives it a sense of movement and direction.",
+    "tags": [
+      "element",
+      "nature",
+      "process"
+    ]
+  },
+  {
+    "word": "wira",
+    "ipa": "/ˈwi.ra/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Wind Reading / Atmospheric Knowledge",
+    "description": "The traditional ability to read wind patterns, weather signs, and atmospheric changes to predict weather and navigate by natural signs.",
+    "rationale": "The 'wi' moves with wind, 'ra' flows with reading. Simple and airy sounds.",
+    "tags": [
+      "pre_industrial",
+      "wind",
+      "weather",
+      "navigation"
+    ]
+  }
+] 

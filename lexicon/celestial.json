@@ -1,0 +1,96 @@
+[
+  {
+    "word": "saule",
+    "ipa": "/sa.ˈu.le/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Star",
+    "description": "A celestial body of incandescent gas. The formal term for the sun is 'mako saule' (Earth's Star).",
+    "rationale": "The 's' evokes a shimmering light, flowing into the vowel pair 'au' (/a.u/), which creates a sense of wonder and depth. The word resolves with the liquid, flowing 'le' sound, making it sonorous and beautiful.",
+    "tags": [
+      "celestial",
+      "nature",
+      "light"
+    ]
+  },
+  {
+    "word": "whitu",
+    "ipa": "/ˈʍi.tu/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Sky / Heavens",
+    "description": "The expanse of air over Earth; the region where clouds form and birds fly, encompassing day and night skies.",
+    "rationale": "The 'wh' whispers upward like wind, 'i' opens vision, 'tu' carries a sense of vast space. Two syllables for boundless height.",
+    "tags": [
+      "element",
+      "nature",
+      "space"
+    ]
+  },
+  {
+    "word": "sati",
+    "ipa": "/ˈsa.ti/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Star / Celestial Light",
+    "description": "A luminous point of plasma in the night sky; a visible sun beyond our solar system.",
+    "rationale": "The 's' sparks light, 'a' opens brightness, 'ti' ends with a clear, distant glow. Two syllables for distant brilliance.",
+    "tags": [
+      "element",
+      "nature",
+      "celestial"
+    ]
+  },
+  {
+    "word": "lune",
+    "ipa": "/ˈlu.ne/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Moon Teaching / Lunar Wisdom",
+    "description": "The traditional knowledge of lunar cycles and their influence on planting, healing, ceremony, and the rhythms of life.",
+    "rationale": "The 'lu' flows conditionally with lunar cycles, 'ne' connects to natural teaching. Simple and rhythmic.",
+    "tags": [
+      "pre_industrial",
+      "moon",
+      "cycles",
+      "wisdom"
+    ]
+  },
+  {
+    "word": "notheu",
+    "ipa": "/no.ˈθe.u/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Star Knowledge / Celestial Navigation",
+    "description": "The traditional understanding of star patterns, celestial movements, and their use for navigation, timekeeping, and spiritual guidance.",
+    "rationale": "The 'no' grounds in knowing, 'th' thinks carefully about patterns, 'e' opens to understanding, 'u' reaches upward. Three syllables for celestial complexity.",
+    "tags": [
+      "pre_industrial",
+      "stars",
+      "navigation",
+      "knowledge"
+    ]
+  },
+  {
+    "word": "sunai",
+    "ipa": "/su.ˈna.i/",
+    "pos": [
+      "adjective"
+    ],
+    "concept": "Solar / Of the sun / Sunny",
+    "description": "Of, relating to, or characterized by the sun and its light.",
+    "rationale": "The word's composition evokes the qualities of the sun. The root sound 'su' is shared with 'suno' (sun), grounding it in that concept. The vowel pair 'ai' creates a bright, intense phonetic quality, suggesting radiant light. The word signifies 'of the sun's intense quality.'",
+    "tags": [
+      "element",
+      "nature",
+      "quality",
+      "celestial"
+    ]
+  }
+] 

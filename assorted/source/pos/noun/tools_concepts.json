@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "category": "tools",
+    "description": "Community-centered tools and implements for making and working",
+    "total_concepts": 20,
+    "sections": [
+      "Personal Craft Tools",
+      "Community Shared Equipment", 
+      "Heritage and Teaching Tools",
+      "Cooperative Work Tools",
+      "Maintenance and Repair Tools",
+      "Specialized Community Tools"
+    ],
+    "cultural_focus": "Tools that embody cooperative values through their making, use, and cultural relationships, balancing personal ownership of daily tools with community sharing of expensive or specialized equipment",
+    "research_sources": [
+      "Traditional blacksmithing cooperatives and guilds",
+      "Indigenous tool-making practices and knowledge systems", 
+      "Renaissance workshop collaboration models",
+      "Modern maker spaces and community workshops",
+      "Apprenticeship systems and skill transmission",
+      "Cooperative craftsmanship movements"
+    ]
+  },
+  "concepts": [
+    {
+      "id": "personal_hammer",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "individually owned hammer crafted by community blacksmith for lifetime use",
+      "cultural_meaning": "represents personal craftsmanship supported by community expertise, valuing quality and durability over cheap replacement",
+      "translations": {
+        "en": "personal hammer"
+      },
+      "tags": ["personal_tools", "lifetime_use", "community_crafted", "quality"],
+      "related_concepts": ["inherited_chisel", "community_anvil", "repair_kit"],
+      "usage_contexts": ["daily metalwork", "personal craftsmanship", "individual projects"],
+      "section": "Personal Craft Tools"
+    },
+    {
+      "id": "inherited_chisel",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "carving tool passed down through family or guild generations",
+      "cultural_meaning": "embodies continuity of craft knowledge and techniques, connecting present makers with ancestral wisdom through personal tools",
+      "translations": {
+        "en": "inherited chisel"
+      },
+      "tags": ["heritage_tools", "family_tradition", "ancestral_knowledge", "continuity"],
+      "related_concepts": ["guild_plane", "master_awl", "teaching_square"],
+      "usage_contexts": ["traditional woodworking", "family crafts", "heritage techniques"],
+      "section": "Heritage and Teaching Tools"
+    },
+    {
+      "id": "community_anvil",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "heavy iron block shared by multiple metalworkers due to high cost",
+      "cultural_meaning": "represents practical cooperation for expensive tools, ensuring everyone can access quality equipment regardless of individual wealth",
+      "translations": {
+        "en": "community anvil"
+      },
+      "tags": ["shared_equipment", "expensive_tools", "practical_cooperation", "accessibility"],
+      "related_concepts": ["shared_forge", "personal_hammer", "community_bellows"],
+      "usage_contexts": ["community metalworking", "shared workshops", "cooperative craftsmanship"],
+      "section": "Community Shared Equipment"
+    },
+    {
+      "id": "repair_needle",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "strong personal needle for mending fabric and leather goods",
+      "cultural_meaning": "prioritizes repair and restoration over disposal, supporting community sustainability through individual responsibility for maintenance",
+      "translations": {
+        "en": "repair needle"
+      },
+      "tags": ["personal_tools", "repair", "sustainability", "individual_responsibility"],
+      "related_concepts": ["mending_thread", "patch_kit", "darning_tool"],
+      "usage_contexts": ["personal repair work", "household maintenance", "sustainable practices"],
+      "section": "Maintenance and Repair Tools"
+    },
+    {
+      "id": "apprentice_hammer",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "lighter hammer designed for students learning metalworking techniques",
+      "cultural_meaning": "honors the learning process by providing appropriate tools for skill development, emphasizing patient progression over rushing to master tools",
+      "translations": {
+        "en": "apprentice hammer"
+      },
+      "tags": ["learning_tools", "apprenticeship", "appropriate_sizing", "skill_progression"],
+      "related_concepts": ["teaching_tongs", "practice_anvil", "student_file"],
+      "usage_contexts": ["apprentice training", "skill development", "traditional learning"],
+      "section": "Heritage and Teaching Tools"
+    },
+    {
+      "id": "shared_forge",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "fire hearth for heating metal shared due to fuel costs and safety",
+      "cultural_meaning": "emphasizes practical resource sharing for expensive infrastructure while allowing individual craftsmanship at shared facilities",
+      "translations": {
+        "en": "shared forge"
+      },
+      "tags": ["shared_infrastructure", "resource_efficiency", "safety", "practical_cooperation"],
+      "related_concepts": ["community_anvil", "personal_hammer", "shared_bellows"],
+      "usage_contexts": ["community metalworking", "shared workshops", "resource conservation"],
+      "section": "Community Shared Equipment"
+    },
+    {
+      "id": "cooperation_saw",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "two-person crosscut saw designed for collaborative timber cutting",
+      "cultural_meaning": "demonstrates tools designed for teamwork rather than individual efficiency, requiring coordination and mutual rhythm",
+      "translations": {
+        "en": "two-person saw"
+      },
+      "tags": ["cooperative_tools", "teamwork", "coordination", "collaborative_design"],
+      "related_concepts": ["team_lever", "group_rope", "shared_ladder"],
+      "usage_contexts": ["timber cutting", "cooperative work", "team projects"],
+      "section": "Cooperative Work Tools"
+    },
+    {
+      "id": "personal_tongs",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "gripping tool individually owned and fitted to user's hand and work style",
+      "cultural_meaning": "represents intimate relationship between craftsperson and tools, emphasizing personal skill development within community tradition",
+      "translations": {
+        "en": "personal tongs"
+      },
+      "tags": ["personal_tools", "individual_fit", "skill_development", "intimate_relationship"],
+      "related_concepts": ["personal_hammer", "fitted_handle", "custom_grip"],
+      "usage_contexts": ["individual metalwork", "personal craftsmanship", "skilled work"],
+      "section": "Personal Craft Tools"
+    },
+    {
+      "id": "guild_plane",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "precision woodworking tool representing mastery within craft tradition",
+      "cultural_meaning": "embodies the culmination of traditional knowledge and technique, inspiring apprentices while honoring community craft standards",
+      "translations": {
+        "en": "master plane"
+      },
+      "tags": ["master_tools", "precision_work", "craft_mastery", "community_standards"],
+      "related_concepts": ["inherited_chisel", "teaching_square", "guild_tradition"],
+      "usage_contexts": ["master craftsmanship", "precision work", "skill demonstration"],
+      "section": "Heritage and Teaching Tools"
+    },
+    {
+      "id": "community_bellows",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "air-pumping device shared at community forge for maintaining fire",
+      "cultural_meaning": "represents shared infrastructure that enables individual craftsmanship, demonstrating practical cooperation for expensive equipment",
+      "translations": {
+        "en": "community bellows"
+      },
+      "tags": ["shared_infrastructure", "forge_equipment", "practical_cooperation", "enabling_tools"],
+      "related_concepts": ["shared_forge", "community_anvil", "forge_coal"],
+      "usage_contexts": ["community forging", "shared metalwork", "forge operation"],
+      "section": "Community Shared Equipment"
+    },
+    {
+      "id": "patch_kit",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "personal collection of materials and tools for repairing household items",
+      "cultural_meaning": "values individual responsibility for maintenance and repair, supporting community sustainability through personal stewardship",
+      "translations": {
+        "en": "patch kit"
+      },
+      "tags": ["personal_tools", "repair_materials", "individual_responsibility", "sustainability"],
+      "related_concepts": ["repair_needle", "mending_thread", "leather_patches"],
+      "usage_contexts": ["household repair", "personal maintenance", "sustainable living"],
+      "section": "Maintenance and Repair Tools"
+    },
+    {
+      "id": "barn_beam",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "heavy wooden beam prepared for community construction projects",
+      "cultural_meaning": "reflects cooperative building traditions where materials are prepared individually but used collectively for community benefit",
+      "translations": {
+        "en": "barn beam"
+      },
+      "tags": ["construction_materials", "cooperative_building", "community_projects", "collective_effort"],
+      "related_concepts": ["raising_rope", "shared_pulley", "community_ladder"],
+      "usage_contexts": ["barn raising", "community construction", "cooperative building"],
+      "section": "Cooperative Work Tools"
+    },
+    {
+      "id": "sharpening_stone",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "personal abrasive stone for maintaining cutting edges on individual tools",
+      "cultural_meaning": "emphasizes individual responsibility for tool maintenance while preserving community knowledge of proper sharpening techniques",
+      "translations": {
+        "en": "sharpening stone"
+      },
+      "tags": ["personal_tools", "tool_maintenance", "individual_responsibility", "traditional_knowledge"],
+      "related_concepts": ["honing_oil", "grinding_wheel", "edge_guide"],
+      "usage_contexts": ["tool maintenance", "personal upkeep", "skill preservation"],
+      "section": "Maintenance and Repair Tools"
+    },
+    {
+      "id": "teaching_square",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "measuring tool designed for students learning precise woodworking",
+      "cultural_meaning": "emphasizes accuracy and patience in learning traditional measurement techniques, honoring the gradual development of skill",
+      "translations": {
+        "en": "teaching square"
+      },
+      "tags": ["learning_tools", "precision", "traditional_techniques", "skill_development"],
+      "related_concepts": ["apprentice_hammer", "student_ruler", "practice_gauge"],
+      "usage_contexts": ["apprentice training", "precision learning", "traditional measurement"],
+      "section": "Heritage and Teaching Tools"
+    },
+    {
+      "id": "shared_pulley",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "mechanical device owned collectively for lifting heavy materials",
+      "cultural_meaning": "enables collective accomplishment of tasks impossible for individuals, demonstrating practical cooperation for specialized equipment",
+      "translations": {
+        "en": "shared pulley"
+      },
+      "tags": ["shared_equipment", "heavy_lifting", "specialized_tools", "collective_capability"],
+      "related_concepts": ["barn_beam", "raising_rope", "community_ladder"],
+      "usage_contexts": ["community construction", "heavy lifting", "cooperative projects"],
+      "section": "Specialized Community Tools"
+    },
+    {
+      "id": "personal_awl",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "pointed tool for making holes, individually owned and maintained",
+      "cultural_meaning": "represents personal skill in leatherworking while honoring traditional techniques passed down through community knowledge",
+      "translations": {
+        "en": "personal awl"
+      },
+      "tags": ["personal_tools", "leatherworking", "individual_skill", "traditional_techniques"],
+      "related_concepts": ["leather_needle", "cutting_knife", "edge_tool"],
+      "usage_contexts": ["personal leatherwork", "individual crafts", "skilled work"],
+      "section": "Personal Craft Tools"
+    },
+    {
+      "id": "shared_workbench",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "sturdy work surface shared in community workshop due to size and cost",
+      "cultural_meaning": "provides stable workspace for individual projects while recognizing practical limits of personal workshop space",
+      "translations": {
+        "en": "shared workbench"
+      },
+      "tags": ["shared_infrastructure", "workspace", "practical_cooperation", "individual_projects"],
+      "related_concepts": ["shared_vise", "tool_storage", "community_workshop"],
+      "usage_contexts": ["community workshops", "shared workspace", "individual craftsmanship"],
+      "section": "Community Shared Equipment"
+    },
+    {
+      "id": "fitted_handle",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "tool handle shaped to fit individual craftsperson's hand and grip",
+      "cultural_meaning": "honors the intimate relationship between maker and tool, emphasizing personal adaptation within traditional tool forms",
+      "translations": {
+        "en": "fitted handle"
+      },
+      "tags": ["personal_adaptation", "individual_fit", "traditional_forms", "intimate_relationship"],
+      "related_concepts": ["personal_tongs", "custom_grip", "shaped_tool"],
+      "usage_contexts": ["personal tool modification", "individual comfort", "skilled craftsmanship"],
+      "section": "Personal Craft Tools"
+    },
+    {
+      "id": "mill_stone",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "large grinding stone shared by community for processing grain",
+      "cultural_meaning": "represents essential community infrastructure too expensive for individual ownership, enabling food security through cooperation",
+      "translations": {
+        "en": "mill stone"
+      },
+      "tags": ["community_infrastructure", "food_processing", "expensive_equipment", "essential_service"],
+      "related_concepts": ["grain_processing", "community_mill", "shared_resources"],
+      "usage_contexts": ["grain grinding", "food processing", "community services"],
+      "section": "Specialized Community Tools"
+    },
+    {
+      "id": "mending_thread",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "strong thread kept for repairing torn fabric and clothing",
+      "cultural_meaning": "supports individual responsibility for maintaining possessions while preserving traditional repair skills and sustainability values",
+      "translations": {
+        "en": "mending thread"
+      },
+      "tags": ["repair_materials", "individual_responsibility", "traditional_skills", "sustainability"],
+      "related_concepts": ["repair_needle", "patch_kit", "darning_wool"],
+      "usage_contexts": ["clothing repair", "household maintenance", "sustainable practices"],
+      "section": "Maintenance and Repair Tools"
+    }
+  ]
+} 

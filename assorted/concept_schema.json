@@ -1,0 +1,144 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Phi Concept Collection",
+  "description": "Schema for Phi language concept collections organized by part of speech and semantic category",
+  "type": "object",
+  "required": ["metadata", "concepts"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["category", "description", "total_concepts", "sections", "cultural_focus"],
+      "properties": {
+        "category": {
+          "type": "string",
+          "description": "The semantic category of concepts (e.g., 'tools', 'sustenance', 'society')"
+        },
+        "description": {
+          "type": "string",
+          "description": "Brief description of the concept collection"
+        },
+        "total_concepts": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Total number of concepts in this collection"
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "description": "List of section names organizing the concepts"
+        },
+        "cultural_focus": {
+          "type": "string",
+          "description": "Statement of the cultural values and approach embodied in these concepts"
+        },
+        "research_sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Optional list of research sources used to develop these concepts"
+        }
+      }
+    },
+    "concepts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "phi_word", "phonotactics", "concept_description", "cultural_meaning", "translations", "tags", "related_concepts", "usage_contexts", "section"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z_]+$",
+            "description": "Unique identifier for the concept using lowercase letters and underscores"
+          },
+          "phi_word": {
+            "type": "string",
+            "description": "The Phi word for this concept (empty string if not yet generated)"
+          },
+          "phonotactics": {
+            "type": "object",
+            "required": ["pattern", "pos"],
+            "properties": {
+              "pattern": {
+                "type": "string",
+                "description": "Phonotactic pattern for this word type (e.g., '[C/F][V/P][F][P]' for nouns)"
+              },
+              "pos": {
+                "type": "string",
+                "enum": ["noun", "verb", "adjective", "adverb", "preposition", "determiner", "classifier", "conjunction", "interjection", "pronoun", "number", "particle"],
+                "description": "Part of speech for this concept"
+              },
+              "validation": {
+                "type": "string",
+                "enum": ["pending", "valid", "invalid"],
+                "description": "Optional validation status of the generated Phi word"
+              }
+            }
+          },
+          "concept_description": {
+            "type": "string",
+            "minLength": 10,
+            "description": "Concise description of what this concept refers to - should describe a concrete, nameable thing for nouns"
+          },
+          "cultural_meaning": {
+            "type": "string",
+            "minLength": 20,
+            "description": "How this concept reflects Phi's cultural values and worldview, often contrasting with mainstream approaches"
+          },
+          "translations": {
+            "type": "object",
+            "required": ["en"],
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1,
+                "description": "English translation or equivalent"
+              }
+            },
+            "additionalProperties": {
+              "type": "string",
+              "description": "Translations in other languages (language code as key)"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z_]+$"
+            },
+            "minItems": 2,
+            "maxItems": 8,
+            "description": "Descriptive tags using lowercase letters and underscores"
+          },
+          "related_concepts": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z_]+$"
+            },
+            "minItems": 2,
+            "maxItems": 6,
+            "description": "IDs of related concepts within this collection or others"
+          },
+          "usage_contexts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 2,
+            "maxItems": 5,
+            "description": "Contexts or situations where this concept would be used"
+          },
+          "section": {
+            "type": "string",
+            "description": "Which section this concept belongs to (must match one of the sections in metadata)"
+          }
+        }
+      }
+    }
+  }
+} 

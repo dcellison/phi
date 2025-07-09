@@ -1,0 +1,20 @@
+[
+  {
+    "word": "wepu",
+    "ipa": "/ˈwe.pu/",
+    "pos": [ "verb" ],
+    "concept": "Move / Go",
+    "description": "To change position or location.",
+    "rationale": "The 'w' opens path; 'e' releases; 'pu' propels motion. Two syllables for movement.",
+    "tags": [ "core", "action", "movement" ]
+  },
+  {
+    "word": "whapo",
+    "ipa": "/ˈʍa.po/",
+    "pos": [ "verb" ],
+    "concept": "To Gather / To Collect",
+    "description": "To bring multiple items into one group or place with intention.",
+    "rationale": "The phonetics suggest a 'scooping' motion. The initial fricative 'wha' is the sound of moving air, like sweeping things together. The final plosive 'po' provides a sense of bringing those items to a single, contained point.",
+    "tags": [ "action", "organization", "community" ]
+  }
+] 

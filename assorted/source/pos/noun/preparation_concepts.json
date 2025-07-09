@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "category": "preparation",
+    "description": "Tools and implements for processing, preserving, and collecting food",
+    "total_concepts": 3,
+    "sections": [
+      "Processing Tools",
+      "Preservation Tools",
+      "Collection Tools"
+    ],
+    "cultural_focus": "Food preparation tools that embody cooperative values through traditional techniques, sustainable practices, and community-centered food processing",
+    "research_sources": [
+      "Traditional food processing techniques",
+      "Indigenous food preparation methods",
+      "Community food processing systems",
+      "Traditional preservation techniques",
+      "Sustainable harvesting tools",
+      "Hand-powered food processing"
+    ]
+  },
+  "concepts": [
+    {
+      "id": "grinding_stone",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "heavy stone tool for crushing grains and seeds into flour",
+      "cultural_meaning": "represents human-powered food processing over industrial machinery, maintaining community control over food preparation",
+      "translations": {
+        "en": "grinding stone"
+      },
+      "tags": ["food_processing", "traditional_tools", "grain_preparation", "human_powered"],
+      "related_concepts": ["heritage_grain", "flour_basket", "community_mill"],
+      "usage_contexts": ["grain processing", "flour making", "traditional food preparation"],
+      "section": "Processing Tools"
+    },
+    {
+      "id": "drying_rack",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "wooden frame for air-drying fruits, vegetables, and meat for preservation",
+      "cultural_meaning": "enables food preservation through natural air and sun power, extending seasonal abundance without artificial energy or chemicals",
+      "translations": {
+        "en": "drying rack"
+      },
+      "tags": ["food_preservation", "natural_drying", "seasonal_preservation", "traditional_technique"],
+      "related_concepts": ["dried_meat", "dried_berries", "preservation_methods"],
+      "usage_contexts": ["food preservation", "seasonal storage", "natural drying"],
+      "section": "Preservation Tools"
+    },
+    {
+      "id": "gathering_basket",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "woven container for collecting wild foods and garden produce",
+      "cultural_meaning": "enables sustainable foraging and harvesting through traditional weaving skills, connecting food gathering with community craft knowledge",
+      "translations": {
+        "en": "gathering basket"
+      },
+      "tags": ["food_collection", "traditional_weaving", "foraging_tool", "harvest_container"],
+      "related_concepts": ["wild_berries", "foraged_greens", "seasonal_harvest"],
+      "usage_contexts": ["food gathering", "foraging", "harvest collection"],
+      "section": "Collection Tools"
+    }
+  ]
+} 

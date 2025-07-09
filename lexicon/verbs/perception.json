@@ -1,0 +1,56 @@
+[
+  {
+    "word": "shipe",
+    "ipa": "/ˈʃi.pe/",
+    "pos": [ "verb" ],
+    "concept": "See / Observe (Direct Evidence)",
+    "description": "To perceive with the eyes; to pay visual attention. Can also be used as an evidential verb to express direct sensory evidence ('I see that...').",
+    "rationale": "The 'sh' softens vision; 'i' sharpens focus; 'pe' extends perspective. Two syllables for clear seeing.",
+    "tags": [ "core", "action", "sense" ]
+  },
+  {
+    "word": "whipi",
+    "ipa": "/ˈʍi.pi/",
+    "pos": [ "verb" ],
+    "concept": "Hear / Listen (Reported Evidence)",
+    "description": "To perceive with the ears; to attend to sounds. Can also be used as an evidential verb to express reported/hearsay evidence ('I hear that...').",
+    "rationale": "The 'wh' resonates with sound; 'i' tunes attention; 'pi' receives message. Two syllables for listening.",
+    "tags": [ "core", "action", "sense" ]
+  },
+  {
+    "word": "hisu",
+    "ipa": "/ˈhi.su/",
+    "pos": [ "verb" ],
+    "concept": "To Feel / To Experience",
+    "description": "To register an internal, subjective state; to undergo an experience.",
+    "rationale": "The word 'hisu' combines the breathy, personal sound of 'h' with the soft sensory 's'. The vowels 'i' and 'u' phonetically move from a high, sharp point of perception to a deeper, more resonant internal state, mirroring the act of sensing something and having it become part of one's inner experience. It aligns with the Buddhist-inspired pillar of mindfulness.",
+    "tags": [ "core", "action", "sense", "state" ]
+  },
+  {
+    "word": "hisule",
+    "ipa": "/hi.ˈsu.le/",
+    "pos": [ "verb" ],
+    "concept": "To Touch / To Feel with the Skin",
+    "description": "To perceive something through physical contact; to feel the texture or presence of something with the skin.",
+    "rationale": "A compositional verb combining 'hisu' (to feel) with the connective syllable '-le'. This composition extends the internal concept of 'feeling' outward to the world, creating the meaning 'to feel outwardly, with connection.'",
+    "tags": [ "action", "sense", "perception", "body" ]
+  },
+  {
+    "word": "whina",
+    "ipa": "/ˈʍi.na/",
+    "pos": [ "verb" ],
+    "concept": "To Smell / To Perceive with the Breath",
+    "description": "To perceive an odor or scent by means of the olfactory sense.",
+    "rationale": "'whi' is from 'whio' (air/breath), grounding the sense in the act of breathing. The nasal consonant 'n' is directly related to the nose and the act of inhaling a scent.",
+    "tags": [ "action", "sense", "perception", "body" ]
+  },
+  {
+    "word": "mula",
+    "ipa": "/ˈmu.la/",
+    "pos": [ "verb" ],
+    "concept": "To Taste / To Perceive with the Mouth",
+    "description": "To perceive the flavor of something by taking it into the mouth.",
+    "rationale": "A compound of 'mu' (in/inside) and 'la' (causal 'because of'). It can be poetically understood as 'the reason from within,' capturing the idea that the essential quality of a food is discovered when it is taken inside.",
+    "tags": [ "action", "sense", "perception", "body" ]
+  }
+] 

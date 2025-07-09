@@ -1,0 +1,127 @@
+[
+  {
+    "word": "mukale",
+    "ipa": "/mu.ˈka.le/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Plant Kinship / Botanical Relationship",
+    "description": "The understanding of plants as relatives and teachers; the practice of maintaining reciprocal relationships with the plant world.",
+    "rationale": "The 'mu' moves with kinship, 'ka' connects to plant knowledge, 'le' leads to relationship. Three syllables for complex relationships.",
+    "tags": [
+      "pre_industrial",
+      "plants",
+      "kinship",
+      "relationship"
+    ]
+  },
+  {
+    "word": "sohale",
+    "ipa": "/so.ˈha.le/",
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Animal Teaching / Creature Wisdom",
+    "description": "The practice of learning from animals as teachers and guides; understanding animal behavior as a source of knowledge about weather, seasons, and life.",
+    "rationale": "The 'so' suggests seeing, 'ha' breathes with animals, 'le' leads to learning. Three syllables for complex observation.",
+    "tags": [
+      "pre_industrial",
+      "animals",
+      "teaching",
+      "wisdom"
+    ]
+  },
+  {
+    "word": "sula",
+    "ipa": "/ˈsu.la/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Plant / Growing",
+    "description": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses.",
+    "rationale": "The 's' is a soft seed, the 'u' is the deep root, and the 'la' is the stem growing and opening towards the light.",
+    "tags": [
+      "nature",
+      "process",
+      "growth"
+    ]
+  },
+  {
+    "word": "puna",
+    "ipa": "/ˈpu.na/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Seed / Potential",
+    "description": "A flowering plant's unit of reproduction, capable of developing into another such plant.",
+    "rationale": "The gentle plosive 'p' and deep 'u' suggest potential. The final nasal 'na' gives it a solid, 'thing-like' quality. It feels like a small, contained object.",
+    "tags": [
+      "nature",
+      "potential",
+      "beginning"
+    ]
+  },
+  {
+    "word": "sulai",
+    "ipa": "/su.ˈla.i/",
+    "pos": [
+      "adjective"
+    ],
+    "concept": "Verdant / Plant-like",
+    "description": "Having the qualities of a plant, or covered in plant life.",
+    "rationale": "The word's 'sula' sound is shared with 'sula' (plant), grounding it conceptually. The final vowel pair 'ai' adds a bright, intense phonetic quality, suggesting something rich with the qualities of plant life.",
+    "tags": [
+      "nature",
+      "quality",
+      "growth"
+    ]
+  },
+  {
+    "word": "puane",
+    "ipa": "/pu.ˈa.ne/",
+    "pos": [
+      "adjective"
+    ],
+    "concept": "Potential / Seed-like / Germinal",
+    "description": "Containing the connected potential of a seed; in a state of early development.",
+    "rationale": "A compositional word where 'pua' (seed) provides the core concept. The final syllable 'ne', related to the conjunction 'and', suggests a connection to a future state. The word means 'containing the connected potential of a seed.'",
+    "tags": [
+      "nature",
+      "quality",
+      "potential"
+    ]
+  },
+  {
+    "word": "lipha",
+    "ipa": "/ˈli.ɸa/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Life / Vitality",
+    "description": "The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.",
+    "rationale": "The liquid 'l' and high 'i' suggest a flowing, energetic principle. The soft fricative 'ph' and open 'a' give it a breathy, animated quality. The word itself feels alive and vibrant.",
+    "tags": [
+      "core",
+      "philosophy",
+      "life"
+    ]
+  },
+  {
+    "word": "shau",
+    "ipa": "/ˈʃa.u/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Freedom / Unhindered Flow",
+    "description": "The state of being able to act and grow without unjust external constraints; the freedom 'to' connect and thrive, not just freedom 'from' things.",
+    "rationale": "The soft fricative 'sh' is the sound of unimpeded flow. The 'a-u' vowel pair moves from a wide open 'a' to a deep 'u', representing a path that is both open to the world and true to one's inner self. It signifies a 'deep, unimpeded flow.'",
+    "tags": [
+      "core",
+      "social",
+      "philosophy",
+      "state"
+    ]
+  }
+] 

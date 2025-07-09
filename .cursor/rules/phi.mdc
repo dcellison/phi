@@ -3,189 +3,31 @@ description:
 globs: 
 alwaysApply: true
 ---
-# PHI LANGUAGE SYSTEM PROMPT
+PHI WORD CREATION CONSTRAINTS - NON-NEGOTIABLE:
+ONLY consonants: h,k,l,m,n,p,r,s,t,w + fricatives: ph,th,sh,wh
+ALL syllables: CV structure (consonant+vowel, open syllables only)
+ALL initial syllables MUST start with consonant/fricative
+NO duplicate syllables in same word
 
-You are an assistant specialized in the constructed language phi. Follow these guidelines
-when generating, analyzing, or discussing phi:
+PHI VOWEL HIATUS RULES:
+Vowel pairs (like au, ei, oa) are ALWAYS pronounced in hiatus (separate syllables)
+au = /a.u/ with syllables ["a", "u"] - NOT ["au"]
+noukai = /no.u.ka.i/ with syllables ["no", "u", "ka", "i"] - NOT ["nou", "kai"]
+The second vowel in a vowel pair forms its own syllable with explicit syllable boundary
+If a word contains a vowel pair, the syllable that contains the first vowel of the pair must have either a consonant or fricative digraph onset only. 
 
-## FUNDAMENTAL PRINCIPLES
+STRESS / SYLLABLE EMPHASIS RULE:
+- By default, stress falls on the penultimate (second-to-last) syllable of a word.
+- Exception: in disyllabic (two-syllable) words, stress falls on the initial (first) syllable.
 
-- Each word in phi serves EXACTLY ONE grammatical function
-- Words are phonologically distinct based on part of speech
-- No derivational relationships exist between words of different parts of speech
-- Related concepts across parts of speech use entirely distinct lexical items
-- **ALL phi sentences follow SOV (Subject-Object-Verb) word order**
-- Particle-based marking provides explicit grammatical relationships
-- Compositional transparency principle: grammar is explicit, not morphologically complex
+IMPORTANT:
+Build from Phi sounds first, concept second. Show your work: list sounds chosen, verify syllable pattern, check all rules before declaring valid.
 
-## PHONOLOGICAL COMPONENTS
+Ensure a variety of consonant, vowel, fricative digraph and vowel pair usage. ROTATE the use of each of these. Never create a set of words all ending in the same vowel. As well, when generating content words, vary between two-syllable and three-syllable words, favouring two-syllable words.
 
-- C = consonants: h, l, m, n, p, r, s, t, w
-- F = fricative digraphs: ph, wh, th, sh
-- V = vowels: i, u, e, o, a
-- P = vowel pairs: any combination of two vowels except identical pairs (ii, uu, etc.)
-     *Note: Vowel pairs MUST occur in adjacent pairs, e.g. `ao`, not `atero`*
-
-## SYLLABLE STRUCTURE
-
-- Primary structure: (C)CV (consonant/cluster + vowel)
-- Secondary structure: V (single vowel only after a (C)CV syllable)
-- All syllables end with vowels (open syllables)
-- No word may contain duplicate syllables
-
-## PHONOTACTIC WORD PATTERNS
-
-Apply these strict patterns when creating or validating phi words:
-
-### NOUNS: [C/F][V/P][F][P]
-Pattern: consonant/fricative + vowel/vowel pair + fricative + vowel pair
-Examples: haephui (dune), phuithui (mud), wheupha (tree), whothea (food)
-
-### VERBS: [F][V][C][V]
-Pattern: fricative + vowel + consonant + vowel
-Examples: phamu (spend), whami (rain), thunu (finish), whera (learn)
-
-### ADJECTIVES: [C][V][F][V]
-Pattern: consonant + vowel + fricative + vowel
-Examples: hashe (green), lophu (deep), mipha (beautiful), riphe (important)
-
-### ADVERBS: [C][V][C][V][C][V]
-Pattern: three-syllable pattern with no fricative digraphs
-Examples: hamite (how), tapine (quickly), walime (outside)
-
-### PREPOSITIONS: [F][P]
-Pattern: fricative digraph + vowel pair
-Examples: phae (about), shio (from), thau (as if), wheo (at)
-
-### DETERMINERS: [F][P][C][V]
-Pattern: fricative digraph + vowel pair + consonant + vowel
-Examples: phiato (this), thueta (that), whieso (which), shoata (all)
-
-### CLASSIFIERS: [C][P]
-Pattern: consonant + vowel pair
-Examples: lea (long objects), moi (flat objects), teo (round objects)
-
-### CONJUNCTIONS: [C][V][C][V]
-Pattern: consonant + vowel + consonant + vowel
-Examples: maca (for), nene (and), woma (as), turae (since)
-
-### INTERJECTIONS: [C][V][C][P]
-Pattern: consonant + vowel + consonant + vowel pair
-Examples: mimia (oh), wowou (wow), hihei (hey), tatau (alas)
-
-### PRONOUNS: EXCEPTION - Simple forms due to high frequency
-- Personal: mia (I/me), thi (you), sha (it/he/she/they)
-- Interrogative: lua (who), nua (what)
-
-### NUMBERS
-- Digits [F][V]: phi (one), whu (two), the (three), pho (four), wha (five), thu (six), shu (seven), who (eight), pha (nine), sho (zero)
-- Magnitudes [F][V][F][V]: phitha (ten), shupho (hundred), thuphi (thousand), whitha (million)
-
-### PARTICLES: [C][V]
-Pattern: consonant + vowel
-Examples: li (past), na (object marker), me (negation), wa (question)
-
-## COMPLETE PARTICLE SYSTEM (36 particles)
-
-### ESSENTIAL CORE (7 particles) - mostly optional for beginners
-- si (subject marker) - *optional*
-- na (object marker) - *optional*  
-- te (verb marker) - *optional*
-- lo (plural marker) - *when needed*
-- tu (dual marker) - *when needed*
-- pu (paucal marker) - *when needed*
-- wa (question marker) - **essential**
-
-### TENSE/ASPECT/MOOD (8 particles)
-- li (past tense) - **when past unclear**
-- ta (present tense) - *optional, default*
-- su (future tense) - **when future unclear**
-- ni (perfective aspect) - *advanced*
-- ri (imperfective aspect) - *advanced*
-- lu (conditional mood) - *advanced*
-- no (imperative mood) - **essential for commands**
-- ne (passive voice) - **when needed for focus shift**
-
-### MODALITY (7 particles)
-- ra (necessity/obligation) - **for "must/should"**
-- se (possibility/permission) - **for "can/may"**
-- we (ability) - **for "able to"**
-- wo (prohibition) - **for "cannot/forbidden"**
-- so (hortative mood "let's") - **essential for "let's..." expressions**
-- hi (direct evidence) - *optional, advanced*
-- ro (inference) - *optional, advanced*
-
-### DISCOURSE MANAGEMENT (7 particles)
-- ha (topic marker) - *advanced*
-- mi (contrast) - *advanced*
-- ma (emphasis) - **when emphasis needed**
-- nu (focus) - *advanced*
-- ho (topic shift) - *advanced*
-- po (attention) - *advanced*
-- le (hedge/softener/approximator) - *advanced*
-
-### COMPARISON/QUANTIFICATION (7 particles)
-- pa (superlative) - **for "most"**
-- mo (comparative) - **for "more"**
-- sa (equality) - **for "as...as"**
-- me (negation) - **essential**
-- to (affirmation) - **for "yes/indeed"**
-- re (even - scalar/additive focus) - *advanced*
-- ti (only/just - limitative) - *advanced*
-
-## SYNTAX PRINCIPLES
-
-### Basic Word Order: SOV (Subject-Object-Verb)
-- Standard pattern: Subject + Object + Verb
-- Modifiers precede heads (head-final)
-- Particles precede the words they modify
-- Example: `mia whothea phusu` (I food cook) = "I cook food"
-
-### Particle Usage
-- Use particles ONLY when needed for clarity
-- Context often eliminates need for explicit marking
-- Beginners need only 3-5 essential particles
-- Advanced users can add sophistication through additional particles
-
-### Question Formation
-- Yes/no questions: `wa` + statement
-- Wh-questions: interrogative pronoun + SOV order
-- Examples: `wa mia whera` (Q I learn) = "Do I learn?"
-- `lua li whera` (who PST learn) = "Who learned?"
-
-## LEARNING PROGRESSION
-
-### Stage 1: Absolute Basics (3-5 particles)
-Essential: `me` (not), `wa` (question), `lo` (plural), optionally `li` (past), `su` (future)
-Can express: basic statements, questions, negation, simple time reference
-
-### Stage 2: Core Communication (add 4-6 particles)
-Add: `ra` (must), `se` (can), `we` (able), `mo` (more), `pa` (most), `ma` (emphasis)
-Can express: obligations, abilities, comparisons, emphasis
-
-### Stage 3: Advanced Expression (remaining particles)
-Add: discourse particles, evidentiality, aspect markers, optional role markers
-Can express: sophisticated communication, formal registers, complex relationships
-
-## VOCABULARY OVERVIEW
-
-### Core Vocabulary Categories:
-- **Pronouns**: 5 total (mia, thi, sha, lua, nua)
-- **Particles**: 30 total (beginner-first design)
-- **Numbers**: Decimal system with digits (0-9) and magnitudes
-- **Content Words**: Follow strict phonotactic patterns by part of speech
-
-### Number Examples:
-- Basic: phi (1), whu (2), the (3), pho (4), wha (5)
-- Compound: whu phitha the (23), phi shupho (100), phi thuphi (1000)
-
-### Common Patterns:
-- Negation: `me` + statement
-- Questions: `wa` + statement OR interrogative + SOV
-- Plural: `lo` + noun
-- Past: `li` + clause
-- Future: `su` + clause
-
-When working with phi, strictly adhere to these phonotactic patterns, SOV word order, and grammatical principles. Each word must conform to its part-of-speech pattern, maintain phonological distinctiveness, and serve exactly one grammatical function. Use particles systematically to express grammatical relationships while following the beginner-first principle - use only what's needed for clear communication.
-
-When creating new Phi words, mwake *very* sure that they follow their POS pattern and that you vary the use of fricative digraphs and vowel pairs as you generate multiple Phi words. Do not repeat use of the same vowel pair or fricative. Vary your usage as much as possible.
+PHILOSOPHICAL PILLARS:
+1. Solarpunk Values - Sustainability, community cooperation, green technology, optimistic futures, harmony between nature and human innovation
+2. Buddhist-inspired Concepts - Mindfulness, compassion, interconnectedness, non-attachment, Right Speech, the Middle Way
+3. Art Nouveau Aesthetics - Organic flowing forms, natural patterns, sinuous lines, beauty integrated with function, botanical motifs
+4. Peace Linguistics Practices - Nonviolent communication, conflict transformation, restorative justice, inclusive dialogue
+5. Pre-industrial Wisdom - Traditional ecological knowledge, animacy concepts, cyclical thinking, oral tradition values, community-centered living

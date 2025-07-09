@@ -1,0 +1,290 @@
+[
+  {
+    "word": "phi",
+    "ipa": "/ɸi/",
+    "pos": [ "noun" ],
+    "concept": "Zero",
+    "description": "The digit 0.",
+    "rationale": "A fundamental, breathy sound for the foundational concept of zero/nothingness.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "shu",
+    "ipa": "/ʃu/",
+    "pos": [ "noun" ],
+    "concept": "One",
+    "description": "The digit 1.",
+    "rationale": "A soft, distinct FV syllable for the first counting number.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "wha",
+    "ipa": "/ʍa/",
+    "pos": [ "noun" ],
+    "concept": "Two",
+    "description": "The digit 2.",
+    "rationale": "An open, breathy FV syllable, phonetically distinct from other digits.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "tho",
+    "ipa": "/θo/",
+    "pos": [ "noun" ],
+    "concept": "Three",
+    "description": "The digit 3.",
+    "rationale": "A clear dental fricative, providing a unique sound in the number sequence.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "shi",
+    "ipa": "/ʃi/",
+    "pos": [ "noun" ],
+    "concept": "Four",
+    "description": "The digit 4.",
+    "rationale": "A soft sibilant FV syllable, easy to pronounce and distinguish.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "phu",
+    "ipa": "/ɸu/",
+    "pos": [ "noun" ],
+    "concept": "Five",
+    "description": "The digit 5.",
+    "rationale": "A distinct bilabial fricative, phonetically contrasting with 'phi'.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "who",
+    "ipa": "/ʍo/",
+    "pos": [ "noun" ],
+    "concept": "Six",
+    "description": "The digit 6.",
+    "rationale": "A rounded, breathy FV syllable, distinct from 'wha' and 'whi'.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "thu",
+    "ipa": "/θu/",
+    "pos": [ "noun" ],
+    "concept": "Seven",
+    "description": "The digit 7.",
+    "rationale": "A dental fricative with a back vowel, contrasting with 'tho'.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "pho",
+    "ipa": "/ɸo/",
+    "pos": [ "noun" ],
+    "concept": "Eight",
+    "description": "The digit 8.",
+    "rationale": "A bilabial fricative with a back vowel, providing clear phonetic space.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "whi",
+    "ipa": "/ʍi/",
+    "pos": [ "noun" ],
+    "concept": "Nine",
+    "description": "The digit 9.",
+    "rationale": "A high, breathy FV syllable, rounding out the digit set.",
+    "tags": [ "number", "digit" ]
+  },
+  {
+    "word": "toa",
+    "ipa": "/to.a/",
+    "pos": [ "noun" ],
+    "concept": "Ten",
+    "description": "The magnitude 10^1.",
+    "rationale": "A two-syllable CP word to distinguish magnitudes from digits. Open and clear.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "nui",
+    "ipa": "/nu.i/",
+    "pos": [ "noun" ],
+    "concept": "Hundred",
+    "description": "The magnitude 10^2.",
+    "rationale": "A two-syllable CP word. The nasal 'n' provides a distinct sound.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "lae",
+    "ipa": "/la.e/",
+    "pos": [ "noun" ],
+    "concept": "Thousand",
+    "description": "The magnitude 10^3.",
+    "rationale": "A two-syllable CP word. The liquid 'l' gives it a flowing quality.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "mio",
+    "ipa": "/mi.o/",
+    "pos": [ "noun" ],
+    "concept": "Million",
+    "description": "The magnitude 10^6.",
+    "rationale": "A two-syllable CP word. Echoes the cross-linguistic root for 'million' while fitting Phi phonology.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "rua",
+    "ipa": "/ru.a/",
+    "pos": [ "noun" ],
+    "concept": "Billion",
+    "description": "The magnitude 10^9.",
+    "rationale": "A two-syllable CP word. The 'r' provides a strong, rolling sound for a large number.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "pei",
+    "ipa": "/pe.i/",
+    "pos": [ "noun" ],
+    "concept": "Trillion",
+    "description": "The magnitude 10^12.",
+    "rationale": "A two-syllable CP word. The plosive 'p' gives it a distinct start.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "sao",
+    "ipa": "/sa.o/",
+    "pos": [ "noun" ],
+    "concept": "Quadrillion",
+    "description": "The magnitude 10^15.",
+    "rationale": "A two-syllable CP word. The sibilant 's' provides a different texture.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "ria",
+    "ipa": "/ri.a/",
+    "pos": [ "noun" ],
+    "concept": "Quintillion",
+    "description": "The magnitude 10^18.",
+    "rationale": "A two-syllable CP word. The tapped 'r' and high 'i' make it bright.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "wue",
+    "ipa": "/wu.e/",
+    "pos": [ "noun" ],
+    "concept": "Sextillion",
+    "description": "The magnitude 10^21.",
+    "rationale": "A two-syllable CP word. The 'w' provides a soft, rounded opening.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "reo",
+    "ipa": "/re.o/",
+    "pos": [ "noun" ],
+    "concept": "Septillion",
+    "description": "The magnitude 10^24.",
+    "rationale": "A two-syllable CP word. The mid-vowels provide a solid, resonant sound.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "hui",
+    "ipa": "/hu.i/",
+    "pos": [ "noun" ],
+    "concept": "Octillion",
+    "description": "The magnitude 10^27.",
+    "rationale": "A two-syllable CP word. The 'h' provides a breathy, vast quality.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "roa",
+    "ipa": "/ro.a/",
+    "pos": [ "noun" ],
+    "concept": "Nonillion",
+    "description": "The magnitude 10^30.",
+    "rationale": "A two-syllable CP word. Strong 'r' and open vowels for a very large concept.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "seo",
+    "ipa": "/se.o/",
+    "pos": [ "noun" ],
+    "concept": "Decillion",
+    "description": "The magnitude 10^33.",
+    "rationale": "A two-syllable CP word. The sibilant 's' and mid-vowels are clear and distinct.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "mae",
+    "ipa": "/ma.e/",
+    "pos": [ "noun" ],
+    "concept": "Undecillion",
+    "description": "The magnitude 10^36.",
+    "rationale": "A two-syllable CP word. The nasal 'm' provides a different phonetic flavor.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "rai",
+    "ipa": "/ra.i/",
+    "pos": [ "noun" ],
+    "concept": "Duodecillion",
+    "description": "The magnitude 10^39.",
+    "rationale": "A two-syllable CP word. The bright 'a' and 'i' give a sense of immense scale.",
+    "tags": [ "number", "magnitude" ]
+  },
+  {
+    "word": "sheko",
+    "ipa": "/ˈʃe.ko/",
+    "pos": [ "noun" ],
+    "concept": "Instance / Occurrence / Time",
+    "description": "A noun used with a number to express frequency.",
+    "rationale": "The soft fricative 'she' suggests a specific, focused event, while the hard plosive 'ko' gives it a sense of a discrete, countable instance.",
+    "tags": [ "number", "frequency", "classifier" ]
+  },
+  {
+    "word": "thepo",
+    "ipa": "/ˈθe.po/",
+    "pos": [ "noun" ],
+    "concept": "Part / Division",
+    "description": "A generic noun for a part of a whole, used in constructing uncommon fractions.",
+    "rationale": "The thoughtful fricative 'the' suggests a division or a 'way' of splitting something. The plosive 'po' gives it the feeling of a distinct piece.",
+    "tags": [ "number", "fraction", "classifier" ]
+  },
+  {
+    "word": "hapo",
+    "ipa": "/ˈha.po/",
+    "pos": [ "noun" ],
+    "concept": "A half-part",
+    "description": "A specific noun for one of two equal parts of a whole.",
+    "rationale": "The breathy 'ha' sound suggests splitting something in two. The 'po' gives it a sense of being a distinct piece. It's short, quick, and easy to say.",
+    "tags": [ "number", "fraction", "common" ]
+  },
+  {
+    "word": "thopi",
+    "ipa": "/ˈθo.pi/",
+    "pos": [ "noun" ],
+    "concept": "A third-part",
+    "description": "A specific noun for one of three equal parts of a whole.",
+    "rationale": "The 'tho' sound is shared with 'tho' (three), providing a mnemonic link. The 'pi' syllable makes it feel like a small, distinct piece.",
+    "tags": [ "number", "fraction", "common" ]
+  },
+  {
+    "word": "shipo",
+    "ipa": "/ˈʃi.po/",
+    "pos": [ "noun" ],
+    "concept": "A fourth-part / A quarter",
+    "description": "A specific noun for one of four equal parts of a whole.",
+    "rationale": "The 'shi' sound is shared with 'shi' (four), providing a mnemonic link. The 'po' syllable again signifies a distinct piece.",
+    "tags": [ "number", "fraction", "common" ]
+  },
+  {
+    "word": "pheli",
+    "ipa": "/ˈɸe.li/",
+    "pos": [ "noun" ],
+    "concept": "A fifth-part",
+    "description": "A specific noun for one of five equal parts of a whole.",
+    "rationale": "The 'phe' sound is shared with 'phe' (five), providing a mnemonic link. The 'li' syllable gives it a light, distinct sound.",
+    "tags": [ "number", "fraction", "common" ]
+  },
+  {
+    "word": "phoso",
+    "ipa": "/ˈɸo.so/",
+    "pos": [ "noun" ],
+    "concept": "An eighth-part",
+    "description": "A specific noun for one of eight equal parts of a whole.",
+    "rationale": "The 'pho' sound is shared with 'pho' (eight), providing a mnemonic link. The 'so' syllable provides a soft, clear ending.",
+    "tags": [ "number", "fraction", "common" ]
+  }
+] 

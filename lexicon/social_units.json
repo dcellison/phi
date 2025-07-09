@@ -1,0 +1,282 @@
+[
+  {
+    "word": "minu",
+    "ipa": "/ˈmi.nu/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Family / Kin",
+    "description": "A group of beings connected by deep bonds of affection, shared history, or choice.",
+    "rationale": "Built from two intimate nasal sounds ('m', 'n'). The 'i' suggests closeness, while the 'u' provides a sense of warmth and embrace.",
+    "tags": [
+      "relationship",
+      "family",
+      "social"
+    ]
+  },
+  {
+    "word": "whelea",
+    "ipa": "/ʍe.ˈle.a/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Friend / Soul-Sibling",
+    "description": "A person with whom one shares a deep, chosen bond of mutual respect, love, and understanding.",
+    "rationale": "A compound of 'whe' (from 'whio', air/breath) and 'le' (flow/connection), ending in the open vowel 'a'. It signifies 'one with whom I share a connected breath,' reframing friendship as a deep, vital connection rather than a social label. It aligns with the pillars of interconnectedness and community cooperation.",
+    "tags": [
+      "social",
+      "community",
+      "connection",
+      "chosen_family"
+    ]
+  },
+  {
+    "word": "saha",
+    "ipa": "/ˈsa.ha/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Spiritual Community / Noble Friendship",
+    "description": "The community of practitioners who support each other on the spiritual path; noble friendship in dharma.",
+    "rationale": "The 'sa' sees clearly together, 'ha' breathes with harmony. Sounds like gathering in shared breath/purpose.",
+    "tags": [
+      "buddhist_concept",
+      "community",
+      "friendship",
+      "support"
+    ]
+  },
+  {
+    "word": "shaweno",
+    "ipa": "/ʃa.ˈwe.no/",
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "concept": "Community Harmony / Social Balance",
+    "description": "The traditional understanding of how to maintain harmony within the community; the practices that ensure social cohesion and mutual support.",
+    "rationale": "The soft 'sh' shapes gently, 'a' opens to all, 'we' includes community, 'no' grounds in natural order. Three syllables for social complexity.",
+    "tags": [
+      "pre_industrial",
+      "community",
+      "harmony",
+      "balance"
+    ]
+  },
+  {
+    "word": "himo",
+    "ipa": "/ˈhi.mo/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Person / Human Being",
+    "description": "A self-aware, individual being, typically human.",
+    "rationale": "The word combines 'hi' (the sound of breath, life) with 'mo' (a particle for comparison and relation). Together, they create the meaning 'a breathing being in relation to others.' This grounds the concept of personhood not just in life, but in social connection, which aligns well with our philosophical pillars.",
+    "tags": [
+      "social",
+      "being",
+      "person"
+    ]
+  },
+  {
+    "word": "mathea",
+    "ipa": "/ma.ˈθe.a/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Parent / One who raises",
+    "description": "A being who provides the foundational impulse for another's growth and life.",
+    "rationale": "Combines 'ma' (foundational, nurturing sound) with 'thea' (a thoughtful, outward-flowing sound). The meaning constructed is 'one from whom thoughtful, foundational life flows.'",
+    "tags": [
+      "social",
+      "kinship",
+      "family"
+    ]
+  },
+  {
+    "word": "phio",
+    "ipa": "/ˈɸi.o/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Child / Offspring",
+    "description": "A being who is in the process of growing from a specific source.",
+    "rationale": "This word combines 'phi' (a sound related to life and being, from 'phila') with the 'io' vowel pair, which often suggests a movement from a specific point to a broader one. The meaning is thus 'a life that moves out from a specific source.'",
+    "tags": [
+      "social",
+      "kinship",
+      "family"
+    ]
+  },
+  {
+    "word": "neloha",
+    "ipa": "/ne.ˈlo.ha/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Sibling / One of a shared origin",
+    "description": "One who is connected to another by a shared flow or origin.",
+    "rationale": "Built from three core particles: 'ne' (and/connection) + 'lo' (plural/collective) + 'ha' (breath/harmony). The word's meaning is 'a shared breath of connection within a group,' a beautiful and non-gendered way to describe the sibling relationship.",
+    "tags": [
+      "social",
+      "kinship",
+      "family"
+    ]
+  },
+  {
+    "word": "weola",
+    "ipa": "/we.ˈo.la/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Friend / Ally",
+    "description": "A chosen companion with whom one shares trust, affection, and mutual support.",
+    "rationale": "The gentle 'w' opens to a bright 'e', suggesting an open-hearted relationship. The 'e' and 'o' together suggest a warm, embracing relationship. The 'la' ending flows with connection and ease.",
+    "tags": [
+      "relationship",
+      "social"
+    ]
+  },
+  {
+    "word": "thea",
+    "ipa": "/ˈθe.a/",
+    "pos": [
+      "noun",
+      "adverb"
+    ],
+    "concept": "Today / The Present Day",
+    "description": "The current day; the present time.",
+    "rationale": "A short, emphatic word for the present. The fricative 'th' has a 'present moment' feel, which opens into the bright 'e-a' vowel pair. This is the common word for 'today,' while the formal, poetic term is 'pha mako saule' (this Earth's Star).",
+    "tags": [
+      "core",
+      "time",
+      "temporal"
+    ]
+  },
+  {
+    "word": "thophu",
+    "ipa": "/ˈθo.ɸu/",
+    "pos": [
+      "noun",
+      "adverb"
+    ],
+    "concept": "Yesterday / The Previous Day",
+    "description": "The day before today.",
+    "rationale": "The fricatives 'th' and 'ph' give the word a breathy, 'past' quality. The back vowels 'o' and 'u' provide a deeper, more conclusive sound. This is the common word for 'yesterday,' while the formal, poetic term is '[to wepu] mako saule' (the Earth's Star that went).",
+    "tags": [
+      "core",
+      "time",
+      "temporal"
+    ]
+  },
+  {
+    "word": "whisho",
+    "ipa": "/ˈʍi.ʃo/",
+    "pos": [
+      "noun",
+      "adverb"
+    ],
+    "concept": "Tomorrow / The Next Day",
+    "description": "The day after today.",
+    "rationale": "The two fricatives 'wh' and 'sh' create a rushing or whispering sound, suggesting forward movement into the future. This is the common word for 'tomorrow,' while the formal, poetic term is '[so wepu] mako saule' (the Earth's Star that will go).",
+    "tags": [
+      "core",
+      "time",
+      "temporal"
+    ]
+  },
+  {
+    "word": "shilei",
+    "ipa": "/ʃi.ˈle.i/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Justice / Restorative Harmony",
+    "description": "The process of restoring harmony and balance within a community when it has been broken; a focus on healing, not punishment.",
+    "rationale": "A compound of 'shi' (peace/stillness), 'le' (flow), and 'i' (a point of integrity). It means 'a gentle flow back to a point of integrity,' framing justice as a process of healing and restoring balance.",
+    "tags": [
+      "core",
+      "social",
+      "philosophy",
+      "community"
+    ]
+  },
+  {
+    "word": "weothe",
+    "ipa": "/ˈwe.o.θe/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Law / A Shared Path",
+    "description": "A set of shared agreements or understandings that guide a community's actions to maintain harmony, seen as a path, not a rigid cage.",
+    "rationale": "A compound of 'weo' (we/us) and 'the' (from 'thela', a way/path). It means 'our shared path,' reframing law as community agreements, not restrictions.",
+    "tags": [
+      "core",
+      "social",
+      "philosophy",
+      "community"
+    ]
+  },
+  {
+    "word": "sheale",
+    "ipa": "/ʃe.ˈa.le/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Utopia / A State of Perfect Harmony",
+    "description": "The ultimate state of societal flourishing, where all beings exist in a state of restorative harmony, creative capacity, and unhindered flow.",
+    "rationale": "'she' is a sound of connection and gentleness. The 'e-a-l' sequence is open and flowing, and 'le' is connective. It means 'a state of gentle, open connection,' the ultimate goal of Phi's philosophy.",
+    "tags": [
+      "core",
+      "philosophy",
+      "social",
+      "future"
+    ]
+  },
+  {
+    "word": "phalo",
+    "ipa": "/ˈɸa.lo/",
+    "pos": [
+      "noun"
+    ],
+    "concept": "Dystopia / A State of Broken Harmony",
+    "description": "The opposite of utopia; a state of profound societal disharmony, disconnection, and suffering.",
+    "rationale": "'ph' suggests friction or being broken. 'lo' suggests a disordered, fragmented mass. The word means 'a state of fragmented friction,' a strong negative concept.",
+    "tags": [
+      "core",
+      "philosophy",
+      "social",
+      "future"
+    ]
+  },
+  {
+    "word": "weola",
+    "ipa": "/we.ˈo.la/",
+    "pos": [
+      "noun"
+    ],
+    "gloss": "community; family; interconnected group",
+    "description": "A fundamental concept representing a group of individuals bound by shared purpose, mutual support, and interconnectedness. It applies equally to a family, a neighborhood, or a global collective. It emphasizes relationship over structure.",
+    "rationale": "The sound 'weo' (we/us) is at the core, signifying collective identity. The flowing 'la' ending gives it a sense of breadth and belonging. The vowels are open and inclusive.",
+    "tags": [
+      "core",
+      "social",
+      "philosophy"
+    ]
+  },
+  {
+    "word": "whelea",
+    "ipa": "/ʍe.ˈle.a/",
+    "pos": [
+      "noun"
+    ],
+    "gloss": "friend; trusted companion",
+    "description": "A person with whom one has a bond of mutual affection and trust, independent of family or transactional relationships. Emphasizes the chosen, reciprocal nature of the bond.",
+    "rationale": "The initial 'wh' sound is soft and breathy, suggesting warmth and closeness. 'lea' is a simple, open ending, reflecting the uncomplicated nature of true friendship.",
+    "tags": [
+      "core",
+      "social",
+      "interpersonal"
+    ]
+  }
+]

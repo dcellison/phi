@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft/2020-12/schema#",
+  "title": "Phi Lexicon Entry",
+  "type": "object",
+  "properties": {
+    "word": { "type": "string" },
+    "ipa": { "type": "string" },
+    "gloss": { "type": "string" },
+    "slot": { "type": "integer" },
+    "pos": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "concept": { "type": "string" },
+    "description": { "type": "string" },
+    "rationale": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": [
+    "word",
+    "ipa",
+    "pos",
+    "concept",
+    "description",
+    "rationale",
+    "tags"
+  ],
+  "additionalProperties": false
+}

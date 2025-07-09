@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "category": "dining",
+    "description": "Personal eating implements and vessels for individual dining",
+    "total_concepts": 12,
+    "sections": [
+      "Wooden Dining Vessels",
+      "Ceramic Dining Ware",
+      "Metal Eating Utensils",
+      "Specialized Serving Pieces",
+      "Drinking Vessels",
+      "Personal Dining Accessories"
+    ],
+    "cultural_focus": "Personal dining items that embody cooperative values through individual responsibility within community dining, where personal care for possessions supports collective meal sharing",
+    "research_sources": [
+      "Traditional pottery and ceramics",
+      "Pre-industrial metalwork and utensils",
+      "Turned wooden bowls and plates",
+      "Pewter and bronze dining ware",
+      "Traditional cooperage and woodworking",
+      "Individual craftsmanship in dining implements"
+    ]
+  },
+  "concepts": [
+    {
+      "id": "turned_bowl",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "wooden eating bowl shaped on a lathe for smooth, even walls",
+      "cultural_meaning": "represents skilled craftsmanship in personal dining vessels, where individual artisan skill creates beautiful, functional items for community use",
+      "translations": {
+        "en": "turned bowl"
+      },
+      "tags": ["wooden_vessel", "lathe_work", "skilled_craftsmanship", "personal_dining"],
+      "related_concepts": ["wooden_plate", "lathe_turning", "dining_crafts"],
+      "usage_contexts": ["personal dining", "skilled woodworking", "individual vessels"],
+      "section": "Wooden Dining Vessels"
+    },
+    {
+      "id": "ceramic_plate",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "fired clay dish with smooth glazed surface for serving individual meals",
+      "cultural_meaning": "honors potter's skill in creating durable, beautiful dining ware that serves both practical and aesthetic needs in community meals",
+      "translations": {
+        "en": "ceramic plate"
+      },
+      "tags": ["ceramic_ware", "glazed_pottery", "individual_serving", "potter_craft"],
+      "related_concepts": ["pottery_glazing", "ceramic_bowl", "fired_clay"],
+      "usage_contexts": ["individual dining", "pottery craft", "glazed ceramics"],
+      "section": "Ceramic Dining Ware"
+    },
+    {
+      "id": "iron_knife",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "forged steel blade with wooden handle for cutting food at meals",
+      "cultural_meaning": "represents blacksmith's skill in creating essential dining tools, where metal craft serves daily community nourishment needs",
+      "translations": {
+        "en": "iron knife"
+      },
+      "tags": ["metal_utensil", "forged_steel", "cutting_tool", "blacksmith_craft"],
+      "related_concepts": ["steel_forging", "wooden_handle", "metal_craft"],
+      "usage_contexts": ["food cutting", "metal forging", "dining utensils"],
+      "section": "Metal Eating Utensils"
+    },
+    {
+      "id": "pewter_cup",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "metal drinking vessel cast from tin and lead alloy",
+      "cultural_meaning": "represents community investment in quality dining ware, where durable metal vessels serve generations of shared meals",
+      "translations": {
+        "en": "pewter cup"
+      },
+      "tags": ["metal_vessel", "cast_pewter", "drinking_cup", "durable_ware"],
+      "related_concepts": ["metal_casting", "tin_alloy", "drinking_vessels"],
+      "usage_contexts": ["drinking", "metal casting", "durable vessels"],
+      "section": "Drinking Vessels"
+    },
+    {
+      "id": "wooden_trencher",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "flat wooden plate carved from single piece of hardwood",
+      "cultural_meaning": "values traditional wood craft in creating simple, durable dining surfaces that connect eaters with natural materials",
+      "translations": {
+        "en": "wooden trencher"
+      },
+      "tags": ["wooden_plate", "carved_wood", "hardwood_craft", "traditional_dining"],
+      "related_concepts": ["wood_carving", "hardwood_selection", "dining_surfaces"],
+      "usage_contexts": ["traditional dining", "wood carving", "natural materials"],
+      "section": "Wooden Dining Vessels"
+    },
+    {
+      "id": "horn_spoon",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "eating utensil carved from animal horn with smooth, curved bowl",
+      "cultural_meaning": "honors complete use of animals through crafting useful items from horn, connecting dining with respectful animal relationships",
+      "translations": {
+        "en": "horn spoon"
+      },
+      "tags": ["horn_craft", "animal_materials", "curved_utensil", "complete_use"],
+      "related_concepts": ["horn_carving", "animal_respect", "natural_utensils"],
+      "usage_contexts": ["eating utensils", "horn crafting", "animal materials"],
+      "section": "Personal Dining Accessories"
+    },
+    {
+      "id": "glazed_bowl",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "ceramic bowl with glossy fired coating for easy cleaning and beauty",
+      "cultural_meaning": "celebrates potter's mastery of glazing techniques, creating vessels that serve both practical cleanliness and aesthetic pleasure",
+      "translations": {
+        "en": "glazed bowl"
+      },
+      "tags": ["glazed_ceramic", "pottery_mastery", "easy_cleaning", "aesthetic_craft"],
+      "related_concepts": ["ceramic_glazing", "pottery_firing", "decorative_ware"],
+      "usage_contexts": ["ceramic craft", "glazed pottery", "decorative dining"],
+      "section": "Ceramic Dining Ware"
+    },
+    {
+      "id": "copper_mug",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "drinking vessel hammered from copper sheet with handle",
+      "cultural_meaning": "represents metalworker's skill in shaping copper for drinking vessels, where metal craft creates durable, beautiful drinking containers",
+      "translations": {
+        "en": "copper mug"
+      },
+      "tags": ["copper_vessel", "hammered_metal", "drinking_container", "metal_shaping"],
+      "related_concepts": ["copper_work", "metal_hammering", "drinking_craft"],
+      "usage_contexts": ["metal crafting", "drinking vessels", "copper work"],
+      "section": "Drinking Vessels"
+    },
+    {
+      "id": "bread_board",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "flat wooden surface for cutting and serving bread at meals",
+      "cultural_meaning": "honors bread as central to community nourishment, providing dedicated surface that treats bread preparation with proper respect",
+      "translations": {
+        "en": "bread board"
+      },
+      "tags": ["bread_service", "cutting_surface", "wooden_board", "bread_respect"],
+      "related_concepts": ["bread_cutting", "wooden_surfaces", "food_preparation"],
+      "usage_contexts": ["bread service", "food cutting", "meal preparation"],
+      "section": "Specialized Serving Pieces"
+    },
+    {
+      "id": "bone_handle_knife",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "eating knife with steel blade and carved bone handle",
+      "cultural_meaning": "combines metalworker and bone carver skills, creating personal dining tools that honor both crafts and complete animal use",
+      "translations": {
+        "en": "bone handle knife"
+      },
+      "tags": ["composite_craft", "bone_carving", "steel_blade", "personal_knife"],
+      "related_concepts": ["bone_craft", "metal_blade", "handle_carving"],
+      "usage_contexts": ["personal dining", "bone carving", "composite tools"],
+      "section": "Metal Eating Utensils"
+    },
+    {
+      "id": "salt_cellar",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "small lidded container for holding salt at the dining table",
+      "cultural_meaning": "honors salt as precious seasoning requiring special container, where careful salt storage reflects community value of flavor and preservation",
+      "translations": {
+        "en": "salt cellar"
+      },
+      "tags": ["salt_storage", "precious_seasoning", "lidded_container", "table_service"],
+      "related_concepts": ["salt_preservation", "seasoning_storage", "table_accessories"],
+      "usage_contexts": ["salt storage", "table service", "seasoning containers"],
+      "section": "Personal Dining Accessories"
+    },
+    {
+      "id": "eating_bowl",
+      "phi_word": "",
+      "phonotactics": {
+        "pattern": "[C/F][V/P][F][P]",
+        "pos": "noun"
+      },
+      "concept_description": "personal ceramic bowl with wide rim for soups and stews",
+      "cultural_meaning": "provides individual vessel for liquid foods while maintaining connection to communal cooking, balancing personal dining with shared preparation",
+      "translations": {
+        "en": "eating bowl"
+      },
+      "tags": ["ceramic_bowl", "liquid_foods", "wide_rim", "personal_vessel"],
+      "related_concepts": ["soup_service", "ceramic_craft", "liquid_dining"],
+      "usage_contexts": ["soup eating", "ceramic dining", "liquid foods"],
+      "section": "Ceramic Dining Ware"
+    }
+  ]
+} 

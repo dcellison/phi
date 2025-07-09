@@ -1,0 +1,92 @@
+[
+  {
+    "word": "nolu",
+    "ipa": "/ˈno.lu/",
+    "pos": [ "verb", "noun" ],
+    "concept": "To Think / To Know / A Thought (Inferential Evidence)",
+    "description": "The process of using one's mind to consider or reason about something. Can also be used as an evidential verb to express inference ('I think/infer that...').",
+    "rationale": "It begins with 'no', a sound associated with the mind and interiority. The liquid 'l' and soft 'u' give it a flowing, gentle quality, suggesting thought as a calm, natural process.",
+    "tags": [ "core", "mind", "action" ]
+  },
+  {
+    "word": "kela",
+    "ipa": "/ˈke.la/",
+    "pos": [ "verb" ],
+    "concept": "To Understand / To See",
+    "description": "To perceive the intended meaning of something.",
+    "rationale": "The hard 'k' sound suggests a breakthrough or a click of realization. The 'ela' ending is open and clear, representing the clarity that comes with understanding.",
+    "tags": [ "core", "mind", "action" ]
+  },
+  {
+    "word": "whau",
+    "ipa": "/ˈʍa.u/",
+    "pos": [ "verb", "noun" ],
+    "concept": "To Learn / To Study / A Learning",
+    "description": "The act of acquiring new knowledge or skill.",
+    "rationale": "It combines 'wha' (the sound of breath and inquiry) with 'u' (a vowel associated with depth and internalization). The word phonetically represents 'the process of inquiry entering one's personal depth.'",
+    "tags": [ "core", "action", "knowledge" ]
+  },
+  {
+    "word": "tole",
+    "ipa": "/ˈto.le/",
+    "pos": [ "verb" ],
+    "concept": "To Remember / To Hold a Trace",
+    "description": "The act of bringing a memory into conscious thought; to hold an inner trace from the past.",
+    "rationale": "A compositional verb. It combines 'to' (the past tense particle) and 'le' (a sound of flow and connection). The word means 'to flow with the past,' an active engagement with the inner traces of experience.",
+    "tags": [ "action", "mind", "memory", "cognition" ]
+  },
+  {
+    "word": "tolema",
+    "ipa": "/to.ˈle.ma/",
+    "pos": [ "verb" ],
+    "concept": "To Forget / To Release a Trace",
+    "description": "To be unable to recall a memory; framed as a process of release, not a failure.",
+    "rationale": "A grammatical compound of 'tole' (to remember) + 'ma' (negation particle). It literally means 'to not-remember,' defining the concept in direct, logical opposition to its counterpart.",
+    "tags": [ "action", "mind", "memory", "cognition" ]
+  },
+  {
+    "word": "nothe",
+    "ipa": "/ˈno.θe/",
+    "pos": [ "verb" ],
+    "concept": "To Decide / To Choose a Path",
+    "description": "The process of resolving uncertainty by choosing a single path of action or thought forward.",
+    "rationale": "Means 'a decisive thought' or 'a clarifying thought-path.' It is built from 'no' (mind) and 'the' (path/way), capturing the idea of choosing a mental path forward.",
+    "tags": [ "action", "mind", "cognition", "choice" ]
+  },
+  {
+    "word": "shuna",
+    "ipa": "/ˈʃu.na/",
+    "pos": [ "verb" ],
+    "concept": "To simplify / To clarify",
+    "description": "The act of shaping something towards a clear and simple state.",
+    "rationale": "The soft, shaping 'shu' sound initiates the action. The final nasal 'na' gives it a sense of bringing something to a clear, known, and definite state.",
+    "tags": [ "action", "process", "cognition" ]
+  },
+  {
+    "word": "linowa",
+    "ipa": "/li.ˈno.wa/",
+    "pos": [ "verb" ],
+    "concept": "To act wisely / To apply wisdom",
+    "description": "The act of applying wisdom in a way that is open and beneficial to others.",
+    "rationale": "This verb extends 'lino' (wisdom). Adding the final syllable 'wa'—the particle for open invitations—transforms the static concept into an active, outward-moving application. It suggests applying wisdom in a way that is open and beneficial to others.",
+    "tags": [ "action", "social", "process" ]
+  },
+  {
+    "word": "selu",
+    "ipa": "/ˈse.lu/",
+    "pos": [ "verb" ],
+    "concept": "To Seem / To Appear (Indirect Evidence)",
+    "description": "The verb for expressing general indirect evidence. Used as an evidential verb where the object is the clause that seems to be true (e.g., 'It seems that...').",
+    "rationale": "'se' provides continuity with the older, more general evidential particle. 'lu' is the conditional particle, suggesting a degree of uncertainty or non-factuality appropriate for indirect knowledge.",
+    "tags": [ "action", "cognition", "evidential" ]
+  },
+  {
+    "word": "nolea",
+    "ipa": "/no.ˈle.a/",
+    "pos": [ "verb" ],
+    "concept": "To Read / To Interpret",
+    "description": "The act of interpreting written or printed matter; to cause knowledge to flow from a text into the mind.",
+    "rationale": "A compositional verb. It combines 'no' (the root for mind and knowledge) with '-lea', a suffix suggesting a flowing, active process. Together, 'nolea' means 'to engage in a flow of knowledge.'",
+    "tags": [ "action", "cognition", "knowledge" ]
+  }
+] 
