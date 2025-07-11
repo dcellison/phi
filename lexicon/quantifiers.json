@@ -52,5 +52,14 @@
     "description": "A quantifying descriptor representing the complete absence of quantity.",
     "rationale": "This word is built to sound like an absence. It begins with a sound shared with the negation particle 'ma', immediately establishing a lack. It is followed by 'wha', a voiceless, breathy fricative that sounds like an empty exhalation—the sound of nothing.",
     "tags": [ "quantifier", "modifier", "absence" ]
+  },
+  {
+    "word": "soli",
+    "ipa": "/ˈso.li/",
+    "pos": [ "descriptor", "quantifier" ],
+    "concept": "Several",
+    "description": "A quantifying descriptor for a small, countable number of items, more than a few but not many.",
+    "rationale": "The word is designed to feel like a small, distinct group. The initial 's' gives it a soft plurality, while the 'o' and 'li' syllables feel like a sequence of countable units. It is phonetically balanced and distinct from 'sheloi' (many) and 'phina' (few).",
+    "tags": [ "quantifier", "modifier", "countable" ]
   }
 ] 
