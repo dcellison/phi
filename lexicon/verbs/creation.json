@@ -70,5 +70,14 @@
     "description": "The active state of being beautiful or radiant, like light on water.",
     "rationale": "The airy 'wh' suggests something ethereal and light. The vowel pair 'oi' moves from a full, round shape ('o') to a fine, delicate point ('i'), evoking the play of light on a beautiful surface. It describes the active state of being beautiful, not beauty as a concept.",
     "tags": [ "action", "state", "aesthetic" ]
+  },
+  {
+    "word": "phela",
+    "ipa": "/ˈɸe.la/",
+    "pos": [ "verb" ],
+    "concept": "To sprout / To grow / To emerge",
+    "description": "The act of new life emerging and beginning to grow, especially from seeds or buds.",
+    "rationale": "The fricative 'phe' suggests the gentle breaking through of new life, like a sprout emerging from soil. The flowing 'la' represents the continuing process of growth and opening toward light. Together they create the sense of gentle, natural emergence and growth.",
+    "tags": [ "action", "nature", "growth", "beginning" ]
   }
 ] 

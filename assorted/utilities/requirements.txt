@@ -1,8 +1,0 @@
-# Phi Word Lookup Utility Requirements
-# This utility primarily uses Python standard library modules
-# No external dependencies required for basic functionality
-
-# For future enhancements (optional):
-# requests>=2.28.0    # for web-based lookups
-# pandas>=1.5.0       # for data analysis features  
-# click>=8.0.0        # for enhanced CLI interface 
