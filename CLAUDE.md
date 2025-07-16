@@ -30,6 +30,19 @@ The book follows a strict **paragraph-by-paragraph collaborative workflow**:
 - **Verbs**: Complex phonotactic patterns, often multi-syllabic
 - **Magnitudes**: Exception class allowed to use `CV.V` structure
 
+**Phonological Variety Guidelines for Content Words:**
+- **Syllable Count**: Maintain approximately 3:1 ratio of two-syllable to three-syllable words
+- **Sound Distribution**: Consciously rotate between:
+  - Simple consonants (h, k, l, m, n, p, r, s, t, w)
+  - Fricative digraphs (ph, th, sh, wh) - these create the "feel" of Phi
+  - Vowel pairs/hiatus (e.g., ao, ea, oa, ie) - essential for Phi's character
+- **Syllable Patterns**: Avoid defaulting to CV.CV structure. Liberal use of:
+  - FV patterns (fricative + vowel)
+  - CV.V patterns (vowel hiatus)
+  - FV.CV, CV.FV combinations
+  - Three-syllable words with varied patterns
+- **Phonological Diversity**: Each new word should sound distinct from existing vocabulary
+
 ### 4. Compositional Vocabulary
 - **Holistic Concepts**: Single words encompass interconnected meanings (e.g., `wela` = good/beautiful/harmonious)
 - **Compositional Building**: Complex ideas built from simple core concepts (e.g., `nima thola` = "sleep-story" = dream)
@@ -85,15 +98,20 @@ Systematic grammatical elements in `/grammar/`:
 All lexicon entries follow the schema defined in `schema.json`:
 ```json
 {
-  "word": "string",
-  "ipa": "string", 
-  "pos": ["array"],
-  "concept": "string",
-  "description": "string",
-  "rationale": "string",
-  "tags": ["array"]
+  "word": "string",          // The Phi word
+  "gloss": "string",         // 1-2 word English gloss or Leipzig abbreviation
+  "ipa": "string",           // IPA transcription with stress marks and syllable breaks
+  "syllables": ["array"],    // Word broken into CV syllables for validation
+  "slot": integer/null,      // Particle slot position (null for content words)
+  "pos": ["array"],          // Parts of speech (e.g., "noun", "verb", "particle")
+  "concept": "string",       // Full concept name from unified concepts document
+  "description": "string",   // Detailed meaning and nuance
+  "rationale": "string",     // Phonetic construction reasoning
+  "pillars": ["array"],      // Philosophical pillars (enum: solarpunk, buddhist, art-nouveau, peace-linguistics, pre-industrial)
+  "tags": ["array"]          // Categorical tags (e.g., "Being & Becoming")
 }
 ```
+All fields except `slot` are required. The `slot` field is only used for grammatical particles.
 
 ## Development Guidelines
 

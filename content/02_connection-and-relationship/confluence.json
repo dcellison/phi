@@ -1,0 +1,29 @@
+[
+  {
+    "word": "polou",
+    "gloss": "confluence",
+    "ipa": "/po.'lo.u/",
+    "syllables": [
+      "po",
+      "lo",
+      "u"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Confluence / Confluence-Point",
+    "description": "A point in space or time where separate streams of movement, energy, or ideas meet and merge into a single, more powerful flow. It represents synergy, union, and the emergence of a new whole from disparate parts.",
+    "rationale": "The word 'polou' is a physical metaphor. The initial syllable 'po-' establishes a specific point or place (Pre-industrial). The central syllable '-lo-' uses the liquid 'l' to represent the multiple streams flowing toward this point (Solarpunk). The vowel hiatus 'o-u' creates the core meaning: the gathering ('o') merges into a single, deep, unified state ('u'), reflecting an Art Nouveau principle of unified flow.",
+    "pillars": [
+      "art_nouveau",
+      "pre-industrial",
+      "solarpunk"
+    ],
+    "tags": [
+      "Connection & Relationship",
+      "Relational Dynamics",
+      "Union",
+      "Synergy"
+    ]
+  }
+] 

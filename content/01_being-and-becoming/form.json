@@ -1,0 +1,30 @@
+[
+  {
+    "word": "whanoli",
+    "gloss": "form",
+    "ipa": "/ʍa.'no.li/",
+    "syllables": [
+      "wha",
+      "no",
+      "li"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Form / Becoming-Form",
+    "description": "The dynamic, continuous process by which coherent patterns and structures emerge from the undifferentiated flow of existence. It represents the universe's tendency to create temporary, stable forms from chaos, not as static objects, but as persistent eddies in a constant stream.",
+    "rationale": "The word 'whanoli' embodies its concept through its phonetic structure. It begins with the breathy fricative 'wh-', suggesting the unformed, flowing energy of potential (Art Nouveau). The first syllable, 'wha', uses the open vowel 'a' to represent the moment of manifestation (Buddhist). The stressed middle syllable, 'no', brings in the concept of mind, order, and pattern (Buddhist). The final syllable, 'li', connects the process to life and dynamic activity (Pre-industrial). The progression from 'wha' (flow) to 'no' (pattern) to 'li' (life-process) mirrors the emergence of form.",
+    "pillars": [
+      "buddhist",
+      "art_nouveau",
+      "pre-industrial"
+    ],
+    "tags": [
+      "Being & Becoming",
+      "Process",
+      "Transformation",
+      "Emergence"
+    ]
+  }
+] 

@@ -1,0 +1,27 @@
+[
+  {
+    "word": "minu",
+    "gloss": "kin",
+    "ipa": "/'mi.nu/",
+    "syllables": [
+      "mi",
+      "nu"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Kin / Family",
+    "description": "The foundational social unit defined by bonds of origin, care, and mutual responsibility. It extends beyond immediate blood relations to include all those with whom one shares a deep, nurturing, and lasting connection.",
+    "rationale": "The word 'minu' is designed to feel foundational and intimate. The initial syllable 'mi-' grounds the concept in the self (Pre-industrial), connecting to one's personal origin. The second syllable, '-nu', with its deep 'u' vowel and resonant 'n', evokes a sense of profound, stable connection and nurturing (Buddhist). The overall sound is soft and warm, reflecting the bonds of care central to the Peace Linguistics framing of family.",
+    "pillars": [
+      "pre-industrial",
+      "peace_linguistics",
+      "buddhist"
+    ],
+    "tags": [
+      "Connection & Relationship",
+      "Kinship",
+      "Social Unit"
+    ]
+  }
+] 

@@ -1,0 +1,28 @@
+[
+  {
+    "word": "hora",
+    "gloss": "sibling",
+    "ipa": "/'ho.ra/",
+    "syllables": [
+      "ho",
+      "ra"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Sibling / One of a shared origin",
+    "description": "A person who shares a common origin, viewed as a parallel relationship of shared experience and mutual support. The role is defined by shared roots rather than hierarchy or age.",
+    "rationale": "The word 'hora' is designed to feel balanced and parallel. The initial syllable 'ho-' uses the harmonious vowel 'o' to represent the shared origin or circle (Art Nouveau). The second syllable '-ra' uses the flowing 'r' and open 'a' to suggest a continuous, parallel relationship of mutual presence (Peace Linguistics, Buddhist).",
+    "pillars": [
+      "art_nouveau",
+      "peace_linguistics",
+      "buddhist"
+    ],
+    "tags": [
+      "Connection & Relationship",
+      "Kinship",
+      "Social Unit",
+      "Role"
+    ]
+  }
+] 

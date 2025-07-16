@@ -1,0 +1,30 @@
+[
+  {
+    "word": "lanoa",
+    "gloss": "weave",
+    "ipa": "/la.'no.a/",
+    "syllables": [
+      "la",
+      "no",
+      "a"
+    ],
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "concept": "Weave / Consensus-Weaving",
+    "description": "The patient, collaborative process of creating agreement by skillfully interlacing diverse perspectives and concerns into a unified, resilient whole. It emphasizes process over outcome and understanding over voting.",
+    "rationale": "The word 'lanoa' sonically mirrors the act of weaving. 'la' represents the open, flowing start of conversation (Peace Linguistics). 'no' signifies the mindful pattern-making of integrating different threads (Art Nouveau). The final hiatus 'o-a' represents the unified, shared agreement ('a') emerging from the harmonious pattern ('o'), reflecting a Solarpunk ideal of consensus.",
+    "pillars": [
+      "peace_linguistics",
+      "art_nouveau",
+      "solarpunk"
+    ],
+    "tags": [
+      "Connection & Relationship",
+      "Social Actions",
+      "Consensus",
+      "Process"
+    ]
+  }
+] 

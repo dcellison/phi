@@ -1,0 +1,29 @@
+[
+  {
+    "word": "phaloa",
+    "gloss": "calamity",
+    "ipa": "/'ɸa.lo.a/",
+    "syllables": [
+      "pha",
+      "lo",
+      "a"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Calamity / Disaster",
+    "description": "A profound, large-scale disruption of harmony that affects an entire system or community. It is framed as an impersonal, systemic event rather than an act of malice, allowing for a communal, restorative response.",
+    "rationale": "The word 'phaloa' is carefully framed to align with Peace Linguistics. The abstract fricative 'ph-' marks it as a large-scale, impersonal process (Buddhist). The core is the hiatus from 'o' (Art Nouveau harmony) to 'a' (stark presence), sonically representing a system breaking. By describing a state of disharmony rather than a violent act, the word avoids blame and focuses on the situation to be addressed, inviting a restorative Solarpunk response.",
+    "pillars": [
+      "peace_linguistics",
+      "buddhist",
+      "solarpunk"
+    ],
+    "tags": [
+      "Being & Becoming",
+      "State of Being",
+      "Disruption",
+      "Harmony"
+    ]
+  }
+] 

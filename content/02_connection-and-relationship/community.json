@@ -1,0 +1,29 @@
+[
+  {
+    "word": "weola",
+    "gloss": "community",
+    "ipa": "/we.'o.la/",
+    "syllables": [
+      "we",
+      "o",
+      "la"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Community / Spiritual Community",
+    "description": "A community that gathers for shared spiritual practice, mutual support, and the cultivation of wisdom. It represents a 'noble friendship' dedicated to collective growth and enlightenment.",
+    "rationale": "The word 'weola' is built from the concept of the collective 'we'. The first syllable, 'we', is the core of the first-person plural pronoun, grounding the community in a shared identity (Solarpunk, Peace Linguistics). The hiatus leads to the lone vowel 'o', representing the harmony and wholeness of the assembled group (Art Nouveau). The final syllable 'la' suggests a shared path of presence, reflecting the community's shared journey of practice (Buddhist).",
+    "pillars": [
+      "buddhist",
+      "solarpunk",
+      "peace_linguistics"
+    ],
+    "tags": [
+      "Connection & Relationship",
+      "Community",
+      "Social Unit",
+      "Spirituality"
+    ]
+  }
+] 

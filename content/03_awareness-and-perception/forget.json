@@ -1,0 +1,28 @@
+[
+  {
+    "word": "sheule",
+    "gloss": "forget",
+    "ipa": "/'ʃe.u.le/",
+    "syllables": [
+      "she",
+      "u",
+      "le"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Forget / To Release a Trace",
+    "description": "The cognitive act of intentionally or unintentionally releasing a trace of a past experience from present awareness. It is framed as a natural and often healthy process of letting go.",
+    "rationale": "A direct counterpart to 'theule' (remember), 'sheule' frames forgetting as a mindful release. 'she' uses the social/contemplative fricative to suggest a gentle letting go (Buddhist). The core vowel hiatus 'e-u' is reversed from 'theule', sonically representing moving from present awareness ('e') back into the deep, un-manifest ('u'). The final '-le' represents the flowing trace being released (Art Nouveau).",
+    "pillars": [
+      "buddhist",
+      "art_nouveau"
+    ],
+    "tags": [
+      "Awareness & Perception",
+      "Cognitive Processes",
+      "Memory",
+      "Release"
+    ]
+  }
+] 
