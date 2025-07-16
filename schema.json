@@ -3,29 +3,68 @@
   "title": "Phi Lexicon Entry",
   "type": "object",
   "properties": {
-    "word": { "type": "string" },
-    "ipa": { "type": "string" },
-    "gloss": { "type": "string" },
-    "slot": { "type": "integer" },
+    "word": {
+      "type": "string",
+      "description": "The Phi word."
+    },
+    "gloss": {
+      "type": "string",
+      "description": "A concise, 1-2 word English gloss or a Leipzig abbreviation for grammatical particles."
+    },
+    "ipa": {
+      "type": "string",
+      "description": "The International Phonetic Alphabet transcription, including stress marks and syllable breaks."
+    },
+    "syllables": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "The word broken down into its constituent CV syllables for rule validation."
+    },
+    "slot": {
+      "type": ["integer", "null"],
+      "description": "For grammatical particles, defines their position in the sentence structure. Null for content words."
+    },
     "pos": {
       "type": "array",
-      "items": { "type": "string" }
+      "items": { "type": "string" },
+      "description": "The possible parts of speech (e.g., 'noun', 'verb', 'particle')."
     },
-    "concept": { "type": "string" },
-    "description": { "type": "string" },
-    "rationale": { "type": "string" },
+    "concept": {
+      "type": "string",
+      "description": "The full concept name from the unified concepts document or grammar role."
+    },
+    "description": {
+      "type": "string",
+      "description": "The detailed description of the concept's meaning and nuance."
+    },
+    "rationale": {
+      "type": "string",
+      "description": "The reasoning behind the word's phonetic construction and its link to the concept."
+    },
+    "pillars": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["solarpunk", "buddhist", "art-nouveau", "peace-linguistics", "pre-industrial"]
+      },
+      "description": "The philosophical pillars this concept primarily embodies."
+    },
     "tags": {
       "type": "array",
-      "items": { "type": "string" }
+      "items": { "type": "string" },
+      "description": "Categorical tags (e.g., 'Being & Becoming', 'slot_1', 'verb_phrase')."
     }
   },
   "required": [
     "word",
+    "gloss",
     "ipa",
+    "syllables",
     "pos",
     "concept",
     "description",
     "rationale",
+    "pillars",
     "tags"
   ],
   "additionalProperties": false
