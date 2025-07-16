@@ -1,0 +1,27 @@
+[
+  {
+    "word": "pena",
+    "gloss": "four",
+    "ipa": "/ˈpe.na/",
+    "syllables": [
+      "pe",
+      "na"
+    ],
+    "pos": [
+      "noun",
+      "quantifier"
+    ],
+    "concept": "Four / Stability",
+    "description": "The number of groundedness and material stability - four directions, four seasons, four elements. It represents the solid foundation upon which complexity can be built.",
+    "rationale": "The word 'pena' uses the firm plosive 'pe' to establish solidity, while 'na' grounds it in natural law. This simple CV.CV pattern creates a stable, balanced word reflecting four's association with the material world and cardinal completeness.",
+    "pillars": [
+      "pre-industrial",
+      "solarpunk"
+    ],
+    "tags": [
+      "Time & Rhythm",
+      "Numerical & Quantitative",
+      "Stability"
+    ]
+  }
+]

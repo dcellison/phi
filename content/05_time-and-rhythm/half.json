@@ -1,0 +1,27 @@
+[
+  {
+    "word": "halu",
+    "gloss": "half",
+    "ipa": "/ˈha.lu/",
+    "syllables": [
+      "ha",
+      "lu"
+    ],
+    "pos": [
+      "noun",
+      "quantifier"
+    ],
+    "concept": "Half / Equal Division",
+    "description": "One of two equal parts, the most fundamental division. It represents balance, sharing, and the recognition that division can create equality rather than inequality.",
+    "rationale": "The word 'halu' begins with the breath 'ha', suggesting the gentle act of dividing. The liquid 'lu' represents the flowing equality between the two parts. This CV.CV pattern creates a balanced word perfect for expressing equal division.",
+    "pillars": [
+      "peace-linguistics",
+      "solarpunk"
+    ],
+    "tags": [
+      "Time & Rhythm",
+      "Numerical & Quantitative",
+      "Fractions"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "word": "pesho",
+    "gloss": "quarter",
+    "ipa": "/ˈpe.ʃo/",
+    "syllables": [
+      "pe",
+      "sho"
+    ],
+    "pos": [
+      "noun",
+      "quantifier"
+    ],
+    "concept": "Quarter / Fourth Part",
+    "description": "One of four equal parts, reflecting the cardinal divisions of space and time. It represents the practical wisdom of quartering for fair distribution and directional orientation.",
+    "rationale": "The word 'pesho' begins with 'pe' from 'pena' (four), maintaining the connection. The soft fricative 'sho' suggests the careful nature of fourfold division. This CV.FV pattern combines stability with mindful distribution.",
+    "pillars": [
+      "pre-industrial",
+      "solarpunk"
+    ],
+    "tags": [
+      "Time & Rhythm",
+      "Numerical & Quantitative",
+      "Fractions"
+    ]
+  }
+]
