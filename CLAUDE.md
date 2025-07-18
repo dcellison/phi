@@ -113,6 +113,15 @@ All lexicon entries follow the schema defined in `schema.json`:
 ```
 All fields except `slot` are required. The `slot` field is only used for grammatical particles.
 
+### Lexicon Creation Guidelines (for 1000-word core vocabulary)
+When creating new Phi words:
+1. **Original Words Only**: Do not pull from previous versions of Phi - create completely fresh words
+2. **Syllable Ratio**: Maintain a 3:1 ratio of two-syllable to three-syllable words
+3. **Rhotic 'r' Usage**: Use sparingly, only for special flair - it's challenging for many speakers
+4. **Pillar Flexibility**: Re-evaluate and assign pillars based on the word's actual philosophical connections
+5. **Specific Tags**: Use multiple, specific tags that capture different dimensions of the concept (e.g., "Aesthetic Experience", "Visual Harmony", "Natural Forms")
+6. **Parts of Speech**: List ALL possible parts of speech the word could serve in Phi's analytical structure
+
 ## Development Guidelines
 
 ### Language Consistency
