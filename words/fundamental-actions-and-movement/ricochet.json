@@ -1,0 +1,31 @@
+[
+  {
+    "word": "toleki",
+    "gloss": "ricochet",
+    "ipa": "/to.ˈle.ki/",
+    "syllables": [
+      "to",
+      "le",
+      "ki"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Ricochet / Bounce Angle",
+    "description": "To bounce off a surface at an angle. Ricocheting encompasses angled rebound, deflected motion, bouncing redirection, angular reflection.",
+    "rationale": "The word 'toleki' combines tool 'to' with active 'le' and vital 'ki'. This tool-action-vitality pattern captures ricochet as instrumental action creating vital redirection.",
+    "pillars": [
+      "solarpunk"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Bounce Angle",
+      "Off Surface",
+      "Surface Angle",
+      "Angled Rebound",
+      "Deflected Motion",
+      "Bouncing Redirection",
+      "Angular Reflection"
+    ]
+  }
+]

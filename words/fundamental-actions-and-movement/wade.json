@@ -1,0 +1,30 @@
+[
+  {
+    "word": "wui",
+    "gloss": "wade",
+    "ipa": "/ˈwu.i/",
+    "syllables": [
+      "wu",
+      "i"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Wade / Walk Water",
+    "description": "To walk through water or similar medium. Wading encompasses resistance movement, slow progress, pushing through, deliberate steps.",
+    "rationale": "The word 'wui' combines rooted 'wu' with thin 'i', creating vowel hiatus. This grounding-to-thin structure captures wading as rooted movement becoming precise progress.",
+    "pillars": [
+      "pre-industrial"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Walk Water",
+      "Through Water",
+      "Similar Medium",
+      "Resistance Movement",
+      "Slow Progress",
+      "Pushing Through",
+      "Deliberate Steps"
+    ]
+  }
+]

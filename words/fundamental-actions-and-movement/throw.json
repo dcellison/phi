@@ -1,0 +1,30 @@
+[
+  {
+    "word": "neka",
+    "gloss": "throw",
+    "ipa": "/ˈne.ka/",
+    "syllables": [
+      "ne",
+      "ka"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Throw / Propel Away",
+    "description": "To propel something through the air with force. Throwing encompasses releasing energy, arc through space, letting go with purpose, distance created.",
+    "rationale": "The word 'neka' combines firm 'ne' with questioning 'ka'. This firmness-to-inquiry structure captures throwing as solid force exploring space.",
+    "pillars": [
+      "solarpunk"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Propel Away",
+      "Propel Something",
+      "Through Air",
+      "Releasing Energy",
+      "Arc Space",
+      "Purpose Letting",
+      "Distance Created"
+    ]
+  }
+]

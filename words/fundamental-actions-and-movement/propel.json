@@ -1,0 +1,30 @@
+[
+  {
+    "word": "poa",
+    "gloss": "propel",
+    "ipa": "/ˈpo.a/",
+    "syllables": [
+      "po",
+      "a"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Propel / Drive Forward",
+    "description": "To drive or push something forward. Propelling encompasses forward thrust, driving force, momentum creation, pushing motion.",
+    "rationale": "The word 'poa' combines potential 'po' with open 'a', creating vowel hiatus. This potential-to-openness structure captures propelling as stored energy releasing into motion.",
+    "pillars": [
+      "solarpunk"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Drive Forward",
+      "Push Something",
+      "Something Forward",
+      "Forward Thrust",
+      "Driving Force",
+      "Momentum Creation",
+      "Pushing Motion"
+    ]
+  }
+]

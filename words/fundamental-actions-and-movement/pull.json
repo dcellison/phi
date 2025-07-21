@@ -1,0 +1,30 @@
+[
+  {
+    "word": "heku",
+    "gloss": "pull",
+    "ipa": "/ˈhe.ku/",
+    "syllables": [
+      "he",
+      "ku"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Pull / Draw Toward",
+    "description": "To draw something toward oneself with force. Pulling encompasses gathering energy, drawing close, effort inward, connection through tension.",
+    "rationale": "The word 'heku' combines open 'he' with solid 'ku'. This openness-to-solidity structure captures pulling as receptive space drawing objects to rest.",
+    "pillars": [
+      "solarpunk"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Draw Toward",
+      "Draw Something",
+      "With Force",
+      "Gathering Energy",
+      "Drawing Close",
+      "Effort Inward",
+      "Tension Connection"
+    ]
+  }
+]

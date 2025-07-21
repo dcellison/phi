@@ -1,0 +1,30 @@
+[
+  {
+    "word": "tie",
+    "gloss": "tilt",
+    "ipa": "/ˈti.e/",
+    "syllables": [
+      "ti",
+      "e"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Tilt / Lean Angle",
+    "description": "To lean at an angle from vertical. Tilting encompasses angled positioning, balance shifting, diagonal orientation, inclined stance.",
+    "rationale": "The word 'tie' combines precise 'ti' with open 'e', creating vowel hiatus. This precision-to-openness structure captures tilting as exact positioning opening to new angles.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Lean Angle",
+      "Angle Vertical",
+      "From Vertical",
+      "Angled Positioning",
+      "Balance Shifting",
+      "Diagonal Orientation",
+      "Inclined Stance"
+    ]
+  }
+]

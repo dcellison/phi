@@ -1,0 +1,31 @@
+[
+  {
+    "word": "keloma",
+    "gloss": "commute",
+    "ipa": "/ke.ˈlo.ma/",
+    "syllables": [
+      "ke",
+      "lo",
+      "ma"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Commute / Travel Regularly",
+    "description": "To travel regularly between places. Commuting encompasses regular journey, repeated travel, cyclic movement, routine passage.",
+    "rationale": "The word 'keloma' combines kinetic 'ke' with place 'lo' and flowing 'ma'. This motion-place-flow pattern captures commuting as energetic movement between flowing locations.",
+    "pillars": [
+      "solarpunk"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Travel Regularly",
+      "Regularly Between",
+      "Between Places",
+      "Regular Journey",
+      "Repeated Travel",
+      "Cyclic Movement",
+      "Routine Passage"
+    ]
+  }
+]

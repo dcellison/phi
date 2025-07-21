@@ -1,0 +1,30 @@
+[
+  {
+    "word": "seku",
+    "gloss": "hold",
+    "ipa": "/ˈse.ku/",
+    "syllables": [
+      "se",
+      "ku"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Hold / Keep Secure",
+    "description": "To have and keep in one's grasp. Holding encompasses secure embrace, protective custody, maintained connection, treasured keeping.",
+    "rationale": "The word 'seku' combines soft 'se' with solid 'ku'. This softness-with-solidity structure captures holding as gentle strength maintaining grip.",
+    "pillars": [
+      "solarpunk"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Keep Secure",
+      "Have Keep",
+      "One's Grasp",
+      "Secure Embrace",
+      "Protective Custody",
+      "Maintained Connection",
+      "Treasured Keeping"
+    ]
+  }
+]

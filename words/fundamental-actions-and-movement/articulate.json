@@ -1,0 +1,31 @@
+[
+  {
+    "word": "pekari",
+    "gloss": "articulate",
+    "ipa": "/pe.ˈka.ri/",
+    "syllables": [
+      "pe",
+      "ka",
+      "ri"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Articulate / Joint Move",
+    "description": "To move at a joint or connection point. Articulating encompasses hinged motion, connected movement, segmented flow, jointed action.",
+    "rationale": "The word 'pekari' combines forceful 'pe' with questioning 'ka' and process 'ri'. This force-inquiry-process pattern captures articulation as powerful questioning creating movement process.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Fundamental Actions & Movement",
+      "Joint Move",
+      "At Joint",
+      "Connection Point",
+      "Hinged Motion",
+      "Connected Movement",
+      "Segmented Flow",
+      "Jointed Action"
+    ]
+  }
+]
