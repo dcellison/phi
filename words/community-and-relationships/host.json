@@ -1,0 +1,33 @@
+[
+  {
+    "word": "hoa",
+    "gloss": "host",
+    "ipa": "/ˈho.a/",
+    "syllables": [
+      "ho",
+      "a"
+    ],
+    "pos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "concept": "Host / Space Holder",
+    "description": "One who creates welcoming space and provides for others' needs. Host encompasses generous provision, creating safety, the art of welcome, and the understanding that good hosting builds community bonds.",
+    "rationale": "The word 'hoa' combines warm 'ho' with open 'a', creating vowel hiatus only. This structure captures hosting as warm presence opening into spacious welcome.",
+    "pillars": [
+      "pre-industrial",
+      "solarpunk"
+    ],
+    "tags": [
+      "Community & Relationships",
+      "Space Holder",
+      "Generous Provision",
+      "Creating Safety",
+      "Art of Welcome",
+      "Community Building",
+      "Sacred Duty",
+      "Open Door"
+    ]
+  }
+]

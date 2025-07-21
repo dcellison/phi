@@ -1,0 +1,31 @@
+[
+  {
+    "word": "walo",
+    "gloss": "tribe",
+    "ipa": "/ˈwa.lo/",
+    "syllables": [
+      "wa",
+      "lo"
+    ],
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "concept": "Tribe / Larger Kinship",
+    "description": "A larger kinship group sharing language, customs, and territory, bound by common heritage and mutual protection. Tribe encompasses multiple clans united, shared ceremonial life, collective identity through generations, and the understanding that tribal bonds create both belonging and responsibility.",
+    "rationale": "The word 'walo' combines the embracing 'wa' with the continuous 'lo'. This pairing suggests wide embrace flowing through time - a tribe as an expansive circle of belonging that maintains its identity across generations.",
+    "pillars": [
+      "pre-industrial"
+    ],
+    "tags": [
+      "Community & Relationships",
+      "Larger Kinship",
+      "Cultural Unity",
+      "Shared Territory",
+      "Common Heritage",
+      "Ceremonial Life",
+      "Collective Identity",
+      "Generational Bond"
+    ]
+  }
+]

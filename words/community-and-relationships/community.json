@@ -1,0 +1,32 @@
+[
+  {
+    "word": "wenu",
+    "gloss": "community",
+    "ipa": "/ˈwe.nu/",
+    "syllables": [
+      "we",
+      "nu"
+    ],
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "concept": "Community / Living Together",
+    "description": "A group of beings bound by shared place, purpose, or practice, creating collective identity through mutual support. Community encompasses the web of relationships that sustain life, the commons that all tend together, and the understanding that individual and collective wellbeing are inseparable.",
+    "rationale": "The word 'wenu' begins with the welcoming sound 'w', creating openness. The grounding 'nu' provides stability and rootedness. Together they create a word that feels both inviting and solid - community as a stable gathering place for all.",
+    "pillars": [
+      "solarpunk",
+      "pre-industrial"
+    ],
+    "tags": [
+      "Community & Relationships",
+      "Collective Identity",
+      "Mutual Support",
+      "Shared Purpose",
+      "Living Together",
+      "Commons",
+      "Social Web",
+      "Collective Wellbeing"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "word": "philo",
+    "gloss": "nurture",
+    "ipa": "/ˈɸi.lo/",
+    "syllables": [
+      "phi",
+      "lo"
+    ],
+    "pos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "concept": "Nurture / Growth Tending",
+    "description": "The gentle art of fostering development and potential in living beings. Nurture encompasses patient cultivation, creating conditions for flourishing, tender encouragement, and the understanding that growth cannot be rushed.",
+    "rationale": "The word 'philo' combines aspirated 'phi' with flowing 'lo'. Using only a fricative digraph, this pairing suggests nurture as life-breath flowing into continuous support.",
+    "pillars": [
+      "pre-industrial",
+      "solarpunk"
+    ],
+    "tags": [
+      "Community & Relationships",
+      "Growth Tending",
+      "Patient Cultivation",
+      "Fostering Potential",
+      "Creating Conditions",
+      "Tender Encouragement",
+      "Development Support",
+      "Gentle Art"
+    ]
+  }
+]

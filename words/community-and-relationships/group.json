@@ -1,0 +1,33 @@
+[
+  {
+    "word": "leko",
+    "gloss": "group",
+    "ipa": "/ˈle.ko/",
+    "syllables": [
+      "le",
+      "ko"
+    ],
+    "pos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "concept": "Group / Gathered Circle",
+    "description": "A collection of individuals who come together for shared purpose or activity. Group encompasses temporary or permanent gatherings, the dynamic energy of collective action, circles of collaboration, and the understanding that groups form naturally around common needs or interests.",
+    "rationale": "The word 'leko' combines the gentle, gathering sound 'le' with the structured 'ko'. This pairing suggests both fluidity and form - a group as something that gathers naturally but takes shape through shared purpose.",
+    "pillars": [
+      "peace-linguistics",
+      "solarpunk"
+    ],
+    "tags": [
+      "Community & Relationships",
+      "Gathered Circle",
+      "Collective Action",
+      "Shared Purpose",
+      "Collaboration",
+      "Dynamic Gathering",
+      "Common Interest",
+      "Social Formation"
+    ]
+  }
+]
