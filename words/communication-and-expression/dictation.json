@@ -1,0 +1,32 @@
+[
+  {
+    "word": "thoe",
+    "gloss": "dictation",
+    "ipa": "/ˈtho.e/",
+    "syllables": [
+      "tho",
+      "e"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Dictation / Spoken Writing",
+    "description": "The process of speaking words for another to write down. Dictation encompasses the bridge between oral and written, collaborative documentation, the preservation of spoken thought, and the understanding that dictation requires clear articulation and patient pace.",
+    "rationale": "The word 'thoe' combines deliberate 'tho' with precise 'e', creating vowel hiatus with fricative digraph. This deliberate-to-precise structure captures dictation as careful speech becoming exact record.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Spoken Writing",
+      "Oral-Written Bridge",
+      "Collaborative Documentation",
+      "Thought Preservation",
+      "Clear Articulation",
+      "Patient Pace",
+      "Exact Recording",
+      "Speech Transcription"
+    ]
+  }
+]

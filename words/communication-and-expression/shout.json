@@ -1,0 +1,32 @@
+[
+  {
+    "word": "whou",
+    "gloss": "shout",
+    "ipa": "/ˈʍo.u/",
+    "syllables": [
+      "who",
+      "u"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Shout / Urgent Voice",
+    "description": "The raised voice that carries urgency across distance. Shout encompasses necessary volume, the call for attention, emotional intensity, and the understanding that shouting should serve communication, not domination.",
+    "rationale": "The word 'whou' combines aspirated 'who' with complete 'u', creating vowel hiatus with fricative digraph. This breath-to-fullness structure captures shout as powerful breath reaching completion.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Urgent Voice",
+      "Raised Volume",
+      "Distance Carrying",
+      "Necessary Loudness",
+      "Attention Call",
+      "Emotional Intensity",
+      "Serving Communication",
+      "Not Domination"
+    ]
+  }
+]

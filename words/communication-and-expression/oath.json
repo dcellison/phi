@@ -1,0 +1,33 @@
+[
+  {
+    "word": "kae",
+    "gloss": "oath",
+    "ipa": "/ˈka.e/",
+    "syllables": [
+      "ka",
+      "e"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Oath / Sacred Promise",
+    "description": "A solemn vow that binds the speaker to truth and action through sacred witness. Oath encompasses the weight of sworn words, commitment before community, the invoking of higher powers, and the understanding that oaths create unbreakable bonds.",
+    "rationale": "The word 'kae' combines firm 'ka' with elevated 'e', creating vowel hiatus only. This grounding-to-elevation structure captures oath as earthly commitment rising to sacred bond.",
+    "pillars": [
+      "peace-linguistics",
+      "pre-industrial"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Sacred Promise",
+      "Solemn Vow",
+      "Truth Binding",
+      "Sworn Words",
+      "Community Witness",
+      "Higher Powers",
+      "Unbreakable Bond",
+      "Sacred Commitment"
+    ]
+  }
+]

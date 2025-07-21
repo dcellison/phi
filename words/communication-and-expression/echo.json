@@ -1,0 +1,32 @@
+[
+  {
+    "word": "meo",
+    "gloss": "echo",
+    "ipa": "/ˈme.o/",
+    "syllables": [
+      "me",
+      "o"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Echo / Return Voice",
+    "description": "The reflection of sound that returns transformed, carrying memory and distance. Echo encompasses resonance through time, the way words ripple outward, nature's response to human voice, and the understanding that what we express returns to us changed.",
+    "rationale": "The word 'meo' combines reflective 'me' with round 'o', creating vowel hiatus only. This self-to-wholeness structure captures echo as sound returning to completeness.",
+    "pillars": [
+      "pre-industrial"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Return Voice",
+      "Sound Reflection",
+      "Transformed Return",
+      "Time Resonance",
+      "Rippling Words",
+      "Nature Response",
+      "Changed Return",
+      "Memory Sound"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "word": "meu",
+    "gloss": "stutter",
+    "ipa": "/ˈme.u/",
+    "syllables": [
+      "me",
+      "u"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Stutter / Repeated Sound",
+    "description": "The repetition of sounds that occurs when speech flow is interrupted. Stutter encompasses the struggle for fluency, patience in communication, the humanity in imperfect speech, and the understanding that stuttering requires compassionate listening.",
+    "rationale": "The word 'meu' combines repeating 'me' with complete 'u', creating vowel hiatus only. This repetition-to-completion structure captures stutter as repeated effort reaching wholeness.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Repeated Sound",
+      "Speech Interruption",
+      "Fluency Struggle",
+      "Patient Communication",
+      "Imperfect Humanity",
+      "Compassionate Listening",
+      "Effort Wholeness",
+      "Understanding Need"
+    ]
+  }
+]

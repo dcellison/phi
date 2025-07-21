@@ -1,0 +1,31 @@
+[
+  {
+    "word": "hei",
+    "gloss": "intonation",
+    "ipa": "/ˈhe.i/",
+    "syllables": [
+      "he",
+      "i"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Intonation / Voice Music",
+    "description": "The rise and fall of pitch that gives melody to speech. Intonation encompasses emotional coloring, the music beneath words, cultural patterns of expression, and the understanding that intonation often carries more meaning than words themselves.",
+    "rationale": "The word 'hei' combines aspirated 'he' with rising 'i', creating vowel hiatus only. This breath-to-height structure captures intonation as breath rising into melodic expression.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Voice Music",
+      "Pitch Pattern",
+      "Speech Melody",
+      "Emotional Coloring",
+      "Word Music",
+      "Cultural Pattern",
+      "Meaning Carrier",
+      "Melodic Expression"
+    ]
+  }
+]

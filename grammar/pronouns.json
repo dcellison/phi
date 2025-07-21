@@ -16,15 +16,15 @@
     ]
   },
   {
-    "word": "thi",
-    "ipa": "/θi/",
+    "word": "thia",
+    "ipa": "/ˈθi.a/",
     "gloss": "2SG",
     "pos": [
       "pronoun"
     ],
     "concept": "You",
     "description": "The second-person singular pronoun, referring to the person being addressed.",
-    "rationale": "A core aesthetic pronoun. The thoughtful 'th' fricative addresses the other with gentle precision.",
+    "rationale": "A core aesthetic pronoun. The thoughtful 'th' fricative with vowel hiatus addresses the other with gentle precision, paralleling the structure of 'mia'.",
     "tags": [
       "core_referent",
       "pronoun",
@@ -32,15 +32,15 @@
     ]
   },
   {
-    "word": "sha",
-    "ipa": "/ʃa/",
+    "word": "shae",
+    "ipa": "/ˈʃa.e/",
     "gloss": "3SG",
     "pos": [
       "pronoun"
     ],
-    "concept": "Other",
+    "concept": "They/Other",
     "description": "The third-person singular pronoun, referring to a person or entity not the speaker or addressee.",
-    "rationale": "A core aesthetic pronoun. The soft 'sh' sound acknowledges an external being with respect and non-intrusiveness.",
+    "rationale": "A core aesthetic pronoun. The soft 'sh' sound with vowel hiatus acknowledges an external being with respect and non-intrusiveness, maintaining the two-syllable pattern of core pronouns.",
     "tags": [
       "core_referent",
       "pronoun",

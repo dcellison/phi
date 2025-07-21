@@ -1,0 +1,32 @@
+[
+  {
+    "word": "kau",
+    "gloss": "greeting",
+    "ipa": "/ˈka.u/",
+    "syllables": [
+      "ka",
+      "u"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Greeting / Welcome Word",
+    "description": "The sacred act of acknowledging another's presence with respect and warmth. Greeting encompasses recognition of shared humanity, the opening of communication channels, blessing through words, and the understanding that how we greet sets the tone for all that follows.",
+    "rationale": "The word 'kau' combines opening 'ka' with complete 'u', creating vowel hiatus only. This opening-to-wholeness structure captures greeting as the opening that completes human connection.",
+    "pillars": [
+      "peace-linguistics"
+    ],
+    "tags": [
+      "Communication & Expression",
+      "Welcome Word",
+      "Presence Acknowledgment",
+      "Respectful Recognition",
+      "Humanity Sharing",
+      "Channel Opening",
+      "Word Blessing",
+      "Tone Setting",
+      "Sacred Hello"
+    ]
+  }
+]
