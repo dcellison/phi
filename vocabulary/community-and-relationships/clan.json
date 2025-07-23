@@ -1,0 +1,25 @@
+[
+  {
+    "word": "kanu",
+    "gloss": "clan",
+    "ipa": "/ˈka.nu/",
+    "syllables": [
+      "ka",
+      "nu"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Clan / A Kinship Group with Shared Purpose",
+    "description": "An extended family or kinship group, whether of blood or choice, bound by shared ancestry, traditions, and mutual responsibility. It is a community with a deep, shared purpose.",
+    "rationale": "Composed from the established roots 'ka' (to stand with strength) and 'nu' (deep purpose). The word's structure literally means 'standing with deep purpose.' This tempers the concept of 'clan' away from purely bloodline definitions and towards a group defined by its strong, shared commitments and identity.",
+    "pillars": [
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "core-unit",
+      "kinship",
+      "social-structure"
+    ]
+  }
+]

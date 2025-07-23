@@ -17,16 +17,23 @@
     },
     "syllables": {
       "type": "array",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "description": "The word broken down into its constituent CV syllables for rule validation."
     },
     "slot": {
-      "type": ["integer", "null"],
+      "type": [
+        "integer",
+        "null"
+      ],
       "description": "For grammatical particles, defines their position in the sentence structure. Null for content words."
     },
     "pos": {
       "type": "array",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "description": "The possible parts of speech (e.g., 'noun', 'verb', 'particle')."
     },
     "concept": {
@@ -45,13 +52,21 @@
       "type": "array",
       "items": {
         "type": "string",
-        "enum": ["solarpunk", "buddhist", "art-nouveau", "peace-linguistics", "pre-industrial"]
+        "enum": [
+          "solarpunk-values",
+          "secular-buddhist-philosophy",
+          "art-nouveau-aesthetics",
+          "peace-linguistics-practices",
+          "pre-industrial-wisdom"
+        ]
       },
       "description": "The philosophical pillars this concept primarily embodies."
     },
     "tags": {
       "type": "array",
-      "items": { "type": "string" },
+      "items": {
+        "type": "string"
+      },
       "description": "Categorical tags (e.g., 'Being & Becoming', 'slot_1', 'verb_phrase')."
     }
   },

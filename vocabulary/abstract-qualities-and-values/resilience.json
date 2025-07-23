@@ -1,0 +1,27 @@
+[
+  {
+    "word": "thuni",
+    "gloss": "resilience",
+    "ipa": "/ˈθu.ni/",
+    "syllables": [
+      "thu",
+      "ni"
+    ],
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "concept": "Resilience / Adaptive Strength",
+    "description": "The capacity to recover, adapt, and grow stronger through challenges. It is the quality of being flexible and yielding, like a bamboo that bends in the wind, rather than rigid and brittle.",
+    "rationale": "Composed from the established root 'ni' (a state of being) and a new proposed root 'thu' (endurance, flexible strength). The word's structure means 'a state of flexible strength.' The fricative 'th' gives it a feeling of enduring through friction, while the grounded 'n' provides a sense of inner stability.",
+    "pillars": [
+      "solarpunk-values",
+      "secular-buddhist-philosophy"
+    ],
+    "tags": [
+      "inner-strength",
+      "adaptation",
+      "dynamic-quality"
+    ]
+  }
+]

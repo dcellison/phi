@@ -1,0 +1,28 @@
+[
+  {
+    "word": "naloa",
+    "gloss": "sustainability",
+    "ipa": "/na.ˈlo.a/",
+    "syllables": [
+      "na",
+      "lo",
+      "a"
+    ],
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "concept": "Sustainability / The Path of Perpetual Balance",
+    "description": "The practice of creating systems that can continue indefinitely without depleting resources or causing harm, ensuring future abundance by meeting present needs wisely.",
+    "rationale": "Composed from the established roots 'na' (grounded, present), 'lo' (connection), and 'a' (openness). The word's structure suggests 'a grounded connection to an open future.' This beautifully captures the essence of sustainability as a practice rooted in the present that ensures future possibility.",
+    "pillars": [
+      "solarpunk-values",
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "ecological-practice",
+      "long-term-thinking",
+      "holistic-concept"
+    ]
+  }
+]

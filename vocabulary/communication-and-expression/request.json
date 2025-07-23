@@ -1,0 +1,26 @@
+[
+  {
+    "word": "nola",
+    "gloss": "request",
+    "ipa": "/ˈno.la/",
+    "syllables": [
+      "no",
+      "la"
+    ],
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "concept": "Request / To Ask for a Path of Mindful Action",
+    "description": "The act of respectfully asking for something. In Phi, a request is an invitation for collaboration, made with full respect for the other's autonomy to decline.",
+    "rationale": "Composed from the established roots 'no' (mind, thought) and 'la' (path). The word's structure suggests 'asking for a path of thought' or 'a path for the mind.' This tempers the concept, framing a request as an appeal to another's mindful consideration rather than a demand for a resource. The sound is simple and non-imposing.",
+    "pillars": [
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "social-act",
+      "collaboration",
+      "autonomy"
+    ]
+  }
+]

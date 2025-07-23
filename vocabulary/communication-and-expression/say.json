@@ -1,0 +1,25 @@
+[
+  {
+    "word": "keo",
+    "gloss": "say",
+    "ipa": "/ˈke.o/",
+    "syllables": [
+      "ke",
+      "o"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Say / To Utter a Specific Point",
+    "description": "The act of uttering a specific word, phrase, or statement. It is more focused and discrete than the general act of speaking.",
+    "rationale": "Composed from the established roots 'ke' (a point of creation, a spark) and 'o' (wholeness, context). The word's structure suggests 'to make a point whole' or 'to offer a spark into the whole.' This distinguishes it from 'mio' (speak) by focusing on the specific utterance ('the spark') rather than the general act.",
+    "pillars": [
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "utterance",
+      "communication-act",
+      "linguistics"
+    ]
+  }
+]

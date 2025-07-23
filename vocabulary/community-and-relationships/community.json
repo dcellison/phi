@@ -1,0 +1,26 @@
+[
+  {
+    "word": "wenu",
+    "gloss": "community",
+    "ipa": "/ˈwe.nu/",
+    "syllables": [
+      "we",
+      "nu"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Community / The Grounded Collective",
+    "description": "A group of beings bound by shared place, purpose, or practice. It is the web of relationships that sustain life, understood as a grounded, supportive whole.",
+    "rationale": "Composed from the established roots 'we' (the collective) and 'nu' (deep purpose, grounding). The word's structure literally means 'our grounding' or 'the collective purpose.' This defines community as the foundational, purposeful unit to which individuals belong. The sound is simple, warm, and stable.",
+    "pillars": [
+      "solarpunk-values",
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "core-unit",
+      "social-structure",
+      "collective"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "word": "mea",
+    "gloss": "youth",
+    "ipa": "/ˈme.a/",
+    "syllables": [
+      "me",
+      "a"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Youth / The Feeling of Openness",
+    "description": "The state or period of being young; a time of growth, potential, and open feeling. It represents the vital, generative energy that renews a community.",
+    "rationale": "Composed from the established roots 'me' (feeling, emotion) and 'a' (openness). The word's structure suggests 'open feeling' or 'the state of emotional openness.' This frames youth not by age, but by its characteristic quality of open, vibrant emotional energy and potential.",
+    "pillars": [
+      "solarpunk-values"
+    ],
+    "tags": [
+      "social-role",
+      "life-stage",
+      "potential"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "word": "phola",
+    "gloss": "offer",
+    "ipa": "/ˈɸo.la/",
+    "syllables": [
+      "pho",
+      "la"
+    ],
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "concept": "Offer / To Present a Path",
+    "description": "The act of presenting something for someone to accept or reject. It is a gesture made without attachment to the outcome, respecting the autonomy of the other.",
+    "rationale": "Composed from the established roots 'pho' (a generative offering) and 'la' (path). The word's structure literally means 'to present a path.' This frames an offer not as a transaction, but as the creation of a new possibility or pathway for another, which they are free to take or not.",
+    "pillars": [
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "social-act",
+      "offering",
+      "autonomy"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "word": "thomala",
+    "gloss": "narrate",
+    "ipa": "/θo.ˈma.la/",
+    "syllables": [
+      "tho",
+      "ma",
+      "la"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Narrate / To Give a Path to a Story",
+    "description": "The act of telling a story, especially in a detailed and structured way. It is the process of guiding a listener along the path of a narrative.",
+    "rationale": "Composed from the established roots 'thoma' (story) and 'la' (path). The word's structure literally means 'the path of a story.' This is a perfect example of Phi's compositional transparency, where the word for the action is built directly from the word for the object, clearly defining narration as the act of laying out the story's path.",
+    "pillars": [
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "artistic-act",
+      "storytelling",
+      "guidance"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "word": "homa",
+    "gloss": "household",
+    "ipa": "/ˈho.ma/",
+    "syllables": [
+      "ho",
+      "ma"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Household / A Grounded, Receptive Space",
+    "description": "The physical and social unit of those living together in a shared space. It is the immediate sphere of domestic life and mutual support.",
+    "rationale": "Composed from the established roots 'ho' (a warm, receptive greeting) and 'ma' (grounded presence). The word's structure suggests 'a grounded, receptive space.' This frames the household as a place of welcome and stability. It is phonetically related to 'homi' (welcome), reinforcing the idea of a household as the primary place of welcome.",
+    "pillars": [
+      "pre-industrial-wisdom",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "core-unit",
+      "domestic-space",
+      "cohabitation"
+    ]
+  }
+]

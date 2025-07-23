@@ -1,0 +1,25 @@
+[
+  {
+    "word": "shie",
+    "gloss": "mention",
+    "ipa": "/ˈʃi.e/",
+    "syllables": [
+      "shi",
+      "e"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Mention / To Touch Upon Lightly",
+    "description": "To refer to something briefly and without going into detail. It is a light touch in conversation, bringing something into awareness without making it the central focus.",
+    "rationale": "Composed from the established root 'she' (gentle focus, with the 'i' vowel for a lighter feel -> 'shi') and a new proposed root 'e' (to touch upon, to reference). The word's structure suggests 'a gentle touch.' The soft fricative and the vowel hiatus 'i.e' create a very light, brief, and gentle sound, perfectly mirroring the act of a passing mention.",
+    "pillars": [
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "utterance",
+      "communication-act",
+      "subtlety"
+    ]
+  }
+]

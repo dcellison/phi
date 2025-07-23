@@ -1,0 +1,27 @@
+[
+  {
+    "word": "wesoka",
+    "gloss": "demonstrate",
+    "ipa": "/we.ˈso.ka/",
+    "syllables": [
+      "we",
+      "so",
+      "ka"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Demonstrate / To Make Clear for the Collective",
+    "description": "The act of showing something by example or action. It is the process of making a truth or a process tangible and present for a group to understand.",
+    "rationale": "Composed from the established roots 'we' (the collective), 'so' (clarity, light), and 'ka' (to be present with strength). The word's structure means 'to make clarity present for the collective.' This frames demonstration as a powerful act of communal clarification and teaching.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "artistic-act",
+      "teaching",
+      "clarification"
+    ]
+  }
+]

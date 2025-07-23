@@ -1,0 +1,25 @@
+[
+  {
+    "word": "thoma",
+    "gloss": "tell",
+    "ipa": "/ˈθo.ma/",
+    "syllables": [
+      "tho",
+      "ma"
+    ],
+    "pos": [
+      "verb"
+    ],
+    "concept": "Tell / To Narrate a Whole Story",
+    "description": "The act of narrating a story or conveying a sequence of information. It implies a more structured and complete form of communication than simply saying something.",
+    "rationale": "Composed from the established roots 'tho' (a whole system, a context) and 'ma' (grounded presence). The word's structure means 'to make a whole system present' or 'to ground a complete context.' This perfectly captures the act of telling a story, which involves bringing a whole narrative world into the present moment for the listener.",
+    "pillars": [
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "utterance",
+      "narrative-act",
+      "storytelling"
+    ]
+  }
+]

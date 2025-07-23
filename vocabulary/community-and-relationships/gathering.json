@@ -1,0 +1,27 @@
+[
+  {
+    "word": "tholu",
+    "gloss": "gathering",
+    "ipa": "/ˈθo.lu/",
+    "syllables": [
+      "tho",
+      "lu"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Gathering / A Deep Flow of the Whole",
+    "description": "The act of people coming together in a shared space and time. It is the creation of a temporary community, generating a collective energy and presence.",
+    "rationale": "Composed from the established roots 'tho' (a whole system, the collective) and 'lu' (deep flow). The word's structure literally means 'a deep flow of the whole.' This frames a gathering not just as a meeting, but as a profound merging of presence and energy.",
+    "pillars": [
+      "solarpunk-values",
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "core-unit",
+      "social-act",
+      "community-event"
+    ]
+  }
+]

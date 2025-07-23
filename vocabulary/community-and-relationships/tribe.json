@@ -1,0 +1,25 @@
+[
+  {
+    "word": "walo",
+    "gloss": "tribe",
+    "ipa": "/ˈwa.lo/",
+    "syllables": [
+      "wa",
+      "lo"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Tribe / A Wider Kinship",
+    "description": "A large kinship group, whether of blood or choice, sharing language, customs, and territory. It represents a wider circle of belonging and mutual responsibility beyond the clan.",
+    "rationale": "Composed from the established root 'lo' (connection) and a new proposed root 'wa' (wide, encompassing). The word's structure literally means 'a wide connection.' This tempers the term to represent a large, chosen affiliation, emphasizing its scale and the bonds within it.",
+    "pillars": [
+      "pre-industrial-wisdom"
+    ],
+    "tags": [
+      "core-unit",
+      "kinship",
+      "social-structure"
+    ]
+  }
+]
