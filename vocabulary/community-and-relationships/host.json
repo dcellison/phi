@@ -1,0 +1,27 @@
+[
+  {
+    "word": "hoa",
+    "gloss": "host",
+    "ipa": "/ˈho.a/",
+    "syllables": [
+      "ho",
+      "a"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Host / One Who Creates Open Space",
+    "description": "One who creates a warm, receptive space for others. The role is defined by the act of providing welcome, safety, and nourishment.",
+    "rationale": "Composed from the established roots 'ho' (a warm, receptive greeting) and 'a' (openness, space). The word's structure literally means 'a warm, open space.' This defines the host by their primary function: the creation of a welcoming environment. The sound is open and inviting.",
+    "pillars": [
+      "pre-industrial-wisdom",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "social-role",
+      "hospitality",
+      "space-holder"
+    ]
+  }
+]

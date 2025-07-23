@@ -14,6 +14,7 @@ This document is the single source of truth for the foundational semantic seeds 
 | `ke` | sharp, energetic | a spark, a point of creation | `kepha` | Solarpunk values |
 | `ki` | sharp, precise | a point of insight, precision | `kia` | Secular Buddhist philosophy |
 | `ko` | core, centered | core, center, a firm stance | `koa` | Peace Linguistics practices |
+| `ku` | ground, foundation | the ground, a foundation | `phaku` | Solarpunk values |
 | `la` | flowing, bright | path, flow, a way (component of `loa`) | `shelao` | Art Nouveau aesthetics |
 | `le` | gentle, connecting | a gentle flow, connection | `lei` | Peace Linguistics practices |
 | `li` | light, clarifying | light, clarity, illumination | `phelio` | Art Nouveau aesthetics |
@@ -23,6 +24,7 @@ This document is the single source of truth for the foundational semantic seeds 
 | `ma` | grounded, stable | grounded presence, stability | `shiluma` | Pre-industrial wisdom |
 | `me` | emotive, feeling | feeling, emotion | `melua` | Secular Buddhist philosophy |
 | `mi` | inner, personal | inner world, the self, personal | `miloa` | Secular Buddhist philosophy |
+| `mo` | mutual, reciprocal | mutual, reciprocal | `molu` | Peace Linguistics practices |
 | `nao` | valuable, worthy | worth, value | `thenao` | Pre-industrial wisdom |
 | `ne` | gentle, present | gentle presence, being-with | `nea` | Peace Linguistics practices |
 | `ni` | present, being | a state of being, presence | `solani` | Secular Buddhist philosophy |
@@ -45,4 +47,5 @@ This document is the single source of truth for the foundational semantic seeds 
 | `thu` | enduring, flexible | endurance, flexible strength | `thuni` | Secular Buddhist philosophy |
 | `wa` | wide, encompassing | wide, encompassing, a broad scope | `walo` | Pre-industrial wisdom |
 | `we` | inclusive, collective | we, our, the collective | `wea` | Peace Linguistics practices |
+| `wo` | binding, committed | a bond, an oath, a commitment | `wothea` | Peace Linguistics practices |
 | `who` | encompassing, vast | a great breath, vast space | `whoa` | Pre-industrial wisdom |

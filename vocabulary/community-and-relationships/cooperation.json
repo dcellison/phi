@@ -1,0 +1,27 @@
+[
+  {
+    "word": "molu",
+    "gloss": "cooperation",
+    "ipa": "/ˈmo.lu/",
+    "syllables": [
+      "mo",
+      "lu"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Cooperation / A Mutual Flow",
+    "description": "The practice of working together toward shared goals with coordinated, harmonious effort. It is the smooth interplay of different roles for a common purpose.",
+    "rationale": "Composed from the established root 'lu' (deep flow) and a new proposed root 'mo' (mutual, reciprocal). The word's structure means 'a mutual flow.' This defines cooperation as a fluid, reciprocal exchange of energy and action. The sound is simple and harmonious.",
+    "pillars": [
+      "peace-linguistics-practices",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "social-act",
+      "harmony",
+      "reciprocity"
+    ]
+  }
+]

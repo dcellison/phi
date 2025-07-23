@@ -1,0 +1,27 @@
+[
+  {
+    "word": "thomai",
+    "gloss": "unity",
+    "ipa": "/θo.ˈma.i/",
+    "syllables": [
+      "tho",
+      "ma",
+      "i"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Unity / The Grounded Essence of the Whole",
+    "description": "The state of being undivided and interconnected. It is not uniformity, but the coming together of diverse elements into a coherent whole while maintaining their unique essence.",
+    "rationale": "Composed from the established roots 'tho' (a whole system), 'ma' (grounded presence), and 'i' (essence). The word's structure suggests 'the essence of a grounded whole.' This frames unity as a tangible, grounded state where individual essences (`i`) contribute to a larger system (`tho`).",
+    "pillars": [
+      "solarpunk-values",
+      "secular-buddhist-philosophy"
+    ],
+    "tags": [
+      "foundational-quality",
+      "interconnection",
+      "holistic-concept"
+    ]
+  }
+]

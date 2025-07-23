@@ -1,18 +1,19 @@
 [
   {
-    "word": "thoma",
+    "word": "relao",
     "gloss": "tell",
-    "ipa": "/ˈθo.ma/",
+    "ipa": "/re.ˈla.o/",
     "syllables": [
-      "tho",
-      "ma"
+      "re",
+      "la",
+      "o"
     ],
     "pos": [
       "verb"
     ],
-    "concept": "Tell / To Narrate a Whole Story",
-    "description": "The act of narrating a story or conveying a sequence of information. It implies a more structured and complete form of communication than simply saying something.",
-    "rationale": "Composed from the established roots 'tho' (a whole system, a context) and 'ma' (grounded presence). The word's structure means 'to make a whole system present' or 'to ground a complete context.' This perfectly captures the act of telling a story, which involves bringing a whole narrative world into the present moment for the listener.",
+    "concept": "Tell / To Open a Path of Relation",
+    "description": "The act of narrating a story or conveying a sequence of information. It is the process of building a bridge from the teller's mind to the listener's, opening a shared understanding.",
+    "rationale": "Composed from the established roots 're' (a bridge, a relation), 'la' (path), and 'o' (wholeness). The word's structure suggests 'a whole path of relation.' This holistically captures the act of telling as creating a complete narrative path for another to follow, distinct from the object being told ('thoma' - story).",
     "pillars": [
       "pre-industrial-wisdom"
     ],

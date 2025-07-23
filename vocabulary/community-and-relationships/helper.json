@@ -1,18 +1,19 @@
 [
   {
-    "word": "noa",
+    "word": "wesoa",
     "gloss": "helper",
-    "ipa": "/ˈno.a/",
+    "ipa": "/we.ˈso.a/",
     "syllables": [
-      "no",
+      "we",
+      "so",
       "a"
     ],
     "pos": [
       "noun"
     ],
-    "concept": "Helper / One Who Offers an Open Mind",
-    "description": "One who offers assistance freely when need arises. A helper contributes to a task or effort with an open and willing mind.",
-    "rationale": "Composed from the established roots 'no' (mind) and 'a' (openness). The word's structure literally means 'an open mind.' This defines a helper by their willing and open mental state, ready to contribute their thought and energy to a task. It is phonetically identical to 'talk', creating a poetic link: to talk is often to help.",
+    "concept": "Helper / One Who Brings Clarity to the Collective",
+    "description": "One who offers assistance freely when need arises. A helper contributes to a task or effort, bringing clarity and support to the collective endeavor.",
+    "rationale": "Composed from the established roots 'we' (the collective), 'so' (clarity, light), and 'a' (openness). The word's structure suggests 'one who brings open clarity to the collective.' This frames a helper not as a subordinate, but as an active contributor who illuminates the path forward for the group.",
     "pillars": [
       "solarpunk-values",
       "peace-linguistics-practices"

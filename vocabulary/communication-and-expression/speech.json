@@ -1,18 +1,19 @@
 [
   {
-    "word": "thelo",
+    "word": "themia",
     "gloss": "speech",
-    "ipa": "/ˈθe.lo/",
+    "ipa": "/θe.ˈmi.a/",
     "syllables": [
       "the",
-      "lo"
+      "mi",
+      "a"
     ],
     "pos": [
       "noun"
     ],
-    "concept": "Speech / The Flow of Deliberate Connection",
+    "concept": "Speech / The Deliberate Expression of Self",
     "description": "The act of forming words to express thoughts and feelings. It is considered a mindful practice of creating connection through considered, articulated sound.",
-    "rationale": "Composed from the established roots 'the' (deliberate consideration) and 'lo' (connection, flow). The word's structure means 'deliberate connection' or 'considered flow.' This frames speech not just as noise, but as a mindful act of building relational bridges. The sound is both thoughtful and flowing.",
+    "rationale": "Composed from the established roots 'the' (deliberate consideration), 'mi' (the inner self), and 'a' (openness). The word's structure suggests 'a deliberate and open expression of the self.' This frames speech as the mindful act of externalizing one's inner world, distinguishing it from the more relational 'thelo' (promise).",
     "pillars": [
       "peace-linguistics-practices"
     ],

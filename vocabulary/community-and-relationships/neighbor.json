@@ -1,0 +1,26 @@
+[
+  {
+    "word": "theko",
+    "gloss": "neighbor",
+    "ipa": "/ˈθe.ko/",
+    "syllables": [
+      "the",
+      "ko"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Neighbor / One Who Shares a Core Space",
+    "description": "Those who share an immediate, core space and the daily rhythms of life. The relationship is defined by proximity and the potential for mutual, everyday support.",
+    "rationale": "Composed from the established roots 'the' (deliberate consideration) and 'ko' (core, center). The word's structure suggests 'one who is in the core of consideration.' This frames the relationship with a neighbor as one that requires mindful, deliberate awareness due to shared space and interdependence.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "social-role",
+      "proximity",
+      "mutual-support"
+    ]
+  }
+]
