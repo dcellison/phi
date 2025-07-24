@@ -91,11 +91,87 @@ def main():
     delete_parser.add_argument("word", help="The word of the entry to delete.")
     delete_parser.set_defaults(func=delete_entry)
 
+    # --- Status Command ---
+    status_parser = subparsers.add_parser(
+        "status",
+        help="Check the status of the vocabulary against the master list."
+    )
+    status_parser.set_defaults(func=get_status)
+
 
     args = parser.parse_args()
     args.func(args)
 
 # --- Command Functions ---
+
+def get_status(args):
+    """Audits the vocabulary against the global master list."""
+    import re
+
+    master_list_path = VOCABULARY_DIR / "VOCABULARY.md"
+    
+    if not master_list_path.exists():
+        print(f"Error: Master list not found at {master_list_path.relative_to(PROJECT_ROOT)}", file=sys.stderr)
+        sys.exit(1)
+
+    # 1. Parse the master list to get all approved glosses
+    approved_glosses = set()
+    try:
+        with open(master_list_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                if '|' in line: # Only process lines that look like table rows
+                    match = re.match(r"\|\s*([^|]+?)\s*\|", line)
+                    if match:
+                        gloss = match.group(1).strip().lower()
+                        if gloss and '---' not in gloss and 'word' not in gloss:
+                            approved_glosses.add(gloss)
+    except IOError as e:
+        print(f"Error reading master list: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"Found {len(approved_glosses)} approved concepts in the master list.")
+
+    # 2. Get the actual state from the filesystem
+    existing_files = {p.stem.lower() for p in VOCABULARY_DIR.glob("*.json")}
+
+    # 3. Compare and categorize
+    ok, missing, orphaned = [], [], []
+    
+    # Check master list against filesystem
+    for gloss in sorted(list(approved_glosses)):
+        if gloss in existing_files:
+            ok.append(gloss)
+        else:
+            missing.append(gloss)
+
+    # Check filesystem for orphaned files
+    for gloss in existing_files:
+        if gloss not in approved_glosses:
+            orphaned.append(gloss)
+
+    # 4. Generate Report
+    print(f"\n--- Audit Report ---")
+        
+    if missing:
+        print(f"\n[!] MISSING ({len(missing)}):")
+        for item in missing: print(f"  - {item}")
+
+    if orphaned:
+        print(f"\n[!] ORPHANED ({len(orphaned)}):")
+        for item in orphaned: print(f"  - {item}")
+
+    print(f"\n--- Summary ---")
+    print(f"Total Planned: {len(approved_glosses)}")
+    print(f"Existing: {len(ok)}")
+    print(f"Missing: {len(missing)}")
+    print(f"Orphaned: {len(orphaned)}")
+    print("---------------")
+
+    if not missing and not orphaned:
+        print("\nVocabulary is fully aligned. No action needed.")
+    else:
+        print("\nVocabulary needs attention.")
+
 
 def update_entry(args):
     """Updates an existing entry in the database and its JSON file."""

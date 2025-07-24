@@ -1,0 +1,27 @@
+[
+  {
+    "word": "shewe",
+    "gloss": "sharing",
+    "ipa": "/\u02c8\u0283e.we/",
+    "syllables": [
+      "she",
+      "we"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Sharing / A Gentle Focus on the Collective",
+    "description": "The act of dividing something and distributing it in shares, or having a portion of something with another or others. It is a foundational act of community and generosity.",
+    "rationale": "A composition of the established roots 'she' (gentle focus) and 'we' (the collective). The word's structure suggests 'a gentle focus on the collective,' defining sharing as a mindful act of considering and providing for the group.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "social-act",
+      "generosity",
+      "community-building"
+    ]
+  }
+]
