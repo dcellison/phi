@@ -1,21 +1,8 @@
 .DS_Store
-.obsidian/workspace.json
-latex/source/*.synctex.gz
-latex/source/*.fdb_latexmk
-latex/source/*.aux
-latex/source/*.fls
-latex/source/*.log
-latex/source/*.lot
-latex/source/*.out
-latex/source/*.pdf
-latex/source/*.toc
-
-# Python bytecode
+.env
 *.pyc
 *.pyo
 *.pyd
 __pycache__/
 *.py[cod]
 *$py.class
-
-.env
