@@ -1,0 +1,26 @@
+[
+  {
+    "word": "paka",
+    "gloss": "participant",
+    "ipa": "/\u02c8pa.ka/",
+    "syllables": [
+      "pa",
+      "ka"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Participant / One Who Stands as a Part",
+    "description": "An individual who actively takes part in an event, activity, or process. Their role is defined by active engagement and contribution.",
+    "rationale": "A composition of the established roots 'pa' (a part, a piece) and 'ka' (to stand, to be present with strength). The word's structure literally means 'one who stands as a part,' defining a participant by their active engagement.",
+    "pillars": [
+      "peace-linguistics-practices",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "support-role",
+      "social-role",
+      "action"
+    ]
+  }
+]

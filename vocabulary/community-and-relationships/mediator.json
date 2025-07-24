@@ -1,0 +1,27 @@
+[
+  {
+    "word": "thereo",
+    "gloss": "mediator",
+    "ipa": "/\u03b8e.\u02c8re.o/",
+    "syllables": [
+      "the",
+      "re",
+      "o"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Mediator / One Who is a Deliberate Bridge",
+    "description": "A neutral third party who facilitates dialogue between conflicting parties to help them reach a mutual understanding and agreement. Their role is to build a bridge of communication, not to impose a solution.",
+    "rationale": "A composition of the established roots 'the' (deliberate consideration), 're' (a bridge, a structured relation), and 'o' (wholeness, or one who embodies a quality for the whole). The word's structure literally means 'one who is a deliberate bridge for the whole,' perfectly capturing the mediator's function.",
+    "pillars": [
+      "peace-linguistics-practices",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "support-role",
+      "conflict-resolution",
+      "peacemaking"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "word": "wema",
+    "gloss": "belonging",
+    "ipa": "/\u02c8we.ma/",
+    "syllables": [
+      "we",
+      "ma"
+    ],
+    "slot": null,
+    "pos": [
+      "noun"
+    ],
+    "concept": "Belonging / A Grounded Place in the Collective",
+    "description": "The deep, internal feeling of being an integral and accepted part of a community or place. It is the sense of being 'at home' and grounded within the collective.",
+    "rationale": "A composition of the established roots 'we' (the collective, we) and 'ma' (grounded presence). The word's structure literally means 'our grounded place' or 'a grounded collective,' defining belonging as the stable, secure feeling of having a place within the group.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "foundational-quality",
+      "social-state",
+      "inclusion"
+    ]
+  }
+]

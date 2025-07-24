@@ -1,0 +1,26 @@
+[
+  {
+    "word": "mola",
+    "gloss": "collaborator",
+    "ipa": "/\u02c8mo.la/",
+    "syllables": [
+      "mo",
+      "la"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Collaborator / One on a Mutual Path",
+    "description": "A person who works jointly on an activity or project with others. They are an active co-creator in a shared process.",
+    "rationale": "A composition of the established roots 'mo' (mutual, reciprocal) and 'la' (path, flow). The word's structure literally means 'one who is on a mutual path,' defining a collaborator by their shared journey and effort with others. This avoids derivational morphology by building the concept from fundamental roots.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "support-role",
+      "social-role",
+      "creative-process"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "word": "thanoa",
+    "gloss": "heritage",
+    "ipa": "/\u03b8a.\u02c8no.a/",
+    "syllables": [
+      "tha",
+      "no",
+      "a"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Heritage / The Knowledge That Remains Present",
+    "description": "The cultural practices, traditions, and knowledge passed down from preceding generations that remain alive and present in a community.",
+    "rationale": "A composition of the roots 'tha' (that, suggesting from the past), 'no' (mind, knowledge), and 'a' (presence). The word's structure suggests 'the knowledge from the past that is present now,' defining heritage as a living, active inheritance. The fricative 'th' and vowel pair 'o.a' give it a sense of historical depth.",
+    "pillars": [
+      "pre-industrial-wisdom",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "support-role",
+      "legacy",
+      "tradition"
+    ]
+  }
+]

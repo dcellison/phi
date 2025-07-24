@@ -1,0 +1,27 @@
+[
+  {
+    "word": "sheama",
+    "gloss": "peacemaker",
+    "ipa": "/\u02c8\u0283e.a.ma/",
+    "syllables": [
+      "she",
+      "a",
+      "ma"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Peacemaker / One Who Embodies Grounded Peace",
+    "description": "A person who actively brings about peace by their presence and actions. They work to end conflict, soothe tensions, and restore harmony within the community.",
+    "rationale": "A composition of the established word 'shea' (peace) and the root 'ma' (grounded presence). The word's structure literally means 'one who brings a grounded presence of peace,' defining a peacemaker by their ability to embody and manifest peace in a tangible way.",
+    "pillars": [
+      "peace-linguistics-practices",
+      "secular-buddhist-philosophy"
+    ],
+    "tags": [
+      "support-role",
+      "conflict-resolution",
+      "social-role"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "word": "wenoa",
+    "gloss": "consensus",
+    "ipa": "/we.\u02c8no.a/",
+    "syllables": [
+      "we",
+      "no",
+      "a"
+    ],
+    "pos": [
+      "noun"
+    ],
+    "concept": "Consensus / The Presence of a Shared Mind",
+    "description": "A general agreement arrived at by a group. It is not a simple majority, but a collective decision that all members consent to and support, reached through inclusive and participatory dialogue.",
+    "rationale": "A composition of the roots 'we' (the collective), 'no' (mind), and 'a' (presence). The word's structure suggests 'the presence of a shared mind,' defining consensus as a state where the group thinks and feels as one. The vowel pair 'o.a' gives it a harmonious, unified sound.",
+    "pillars": [
+      "peace-linguistics-practices",
+      "solarpunk-values"
+    ],
+    "tags": [
+      "support-role",
+      "governance",
+      "agreement"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "word": "wetho",
+    "gloss": "inclusion",
+    "ipa": "/\u02c8we.\u03b8o/",
+    "syllables": [
+      "we",
+      "tho"
+    ],
+    "slot": null,
+    "pos": [
+      "noun"
+    ],
+    "concept": "Inclusion / A Complete Collective",
+    "description": "The practice of creating an environment where all individuals are welcomed, respected, supported, and valued to fully participate. It is the active process of making the whole accessible to all its parts.",
+    "rationale": "A composition of the established roots 'we' (the collective) and 'tho' (a whole system). The word's structure literally means 'a whole collective,' defining inclusion as the state where the community is complete and whole because all members are valued participants.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "foundational-quality",
+      "social-act",
+      "community-building"
+    ]
+  }
+]

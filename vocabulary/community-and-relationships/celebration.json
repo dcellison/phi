@@ -1,0 +1,28 @@
+[
+  {
+    "word": "welia",
+    "gloss": "celebration",
+    "ipa": "/we.\u02c8li.a/",
+    "syllables": [
+      "we",
+      "li",
+      "a"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Celebration / An Open Light for the Collective",
+    "description": "A joyful social gathering to mark a special occasion or honor an achievement. It is an expression of collective happiness and appreciation.",
+    "rationale": "A composition of the established roots 'we' (the collective), 'li' (light, illumination), and 'a' (openness). The word's structure suggests 'an open light for the collective,' framing celebration as a moment of shared joy and radiance for the community. The vowel pair 'i.a' creates a bright, uplifting sound.",
+    "pillars": [
+      "solarpunk-values",
+      "peace-linguistics-practices"
+    ],
+    "tags": [
+      "support-role",
+      "social-act",
+      "joy"
+    ]
+  }
+]
