@@ -1,20 +1,19 @@
 [
   {
-    "word": "luami",
+    "word": "lorami",
     "gloss": "connection",
-    "ipa": "/lu.ˈa.mi/",
+    "ipa": "/lo.ˈra.mi/",
     "syllables": [
-      "lu",
-      "a",
+      "lo",
+      "ra",
       "mi"
     ],
     "pos": [
-      "noun",
-      "verb"
+      "noun"
     ],
     "concept": "Connection / An Open Flow Between Selves",
     "description": "The active joining of separate beings into relationship. It is the spark of recognition and the creation of pathways for exchange and mutual flourishing.",
-    "rationale": "Composed from the established roots 'lu' (deep flow), 'a' (openness), and 'mi' (the inner self). The word's structure suggests 'a deep, open flow between selves.' This captures the essence of connection as a dynamic, vulnerable, and profound linking of inner worlds.",
+    "rationale": "This word echoes its verbal sibling 'lorea' (to connect), sharing the opening 'lo' that reaches and embraces. But where 'lorea' emphasizes the bridging process ('re'), 'lorami' transforms this into the vibrant 'ra' and adds 'mi'—bringing the connection into personal, intimate space. The progression from embracing outward ('lo') through vibrant energy ('ra') to personal holding ('mi') captures how connections live: they begin in reaching, spark with recognition, and settle into our inner landscape. The three syllables give weight to what has been created—not just a link, but a living bond.",
     "pillars": [
       "solarpunk-values",
       "secular-buddhist-philosophy"
@@ -22,7 +21,7 @@
     "tags": [
       "bond",
       "interconnection",
-      "dynamic-process"
+      "state"
     ]
   }
 ]

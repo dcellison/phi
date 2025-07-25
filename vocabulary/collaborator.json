@@ -1,18 +1,19 @@
 [
   {
-    "word": "mola",
+    "word": "welani",
     "gloss": "collaborator",
-    "ipa": "/\u02c8mo.la/",
+    "ipa": "/we.ˈla.ni/",
     "syllables": [
-      "mo",
-      "la"
+      "we",
+      "la",
+      "ni"
     ],
     "pos": [
       "noun"
     ],
     "concept": "Collaborator / One on a Mutual Path",
     "description": "A person who works jointly on an activity or project with others. They are an active co-creator in a shared process.",
-    "rationale": "A composition of the established roots 'mo' (mutual, reciprocal) and 'la' (path, flow). The word's structure literally means 'one who is on a mutual path,' defining a collaborator by their shared journey and effort with others. This avoids derivational morphology by building the concept from fundamental roots.",
+    "rationale": "This word echoes its sibling 'wenola' (collaboration), sharing the opening 'we' that establishes collective identity and the flowing 'la' that represents shared work. But where 'wenola' emphasizes the collective mind ('no'), 'welani' brings in 'ni'—a sound of individual presence within the whole. This creates a word for the person who maintains their unique contribution while flowing in harmony with others. The sonic relationship to 'wenola' is immediately apparent, yet 'welani' stands as its own word, just as each collaborator brings their distinct gifts to the shared endeavor.",
     "pillars": [
       "solarpunk-values",
       "peace-linguistics-practices"

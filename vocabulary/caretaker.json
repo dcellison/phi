@@ -1,18 +1,19 @@
 [
   {
-    "word": "phaku",
+    "word": "phalomi",
     "gloss": "caretaker",
-    "ipa": "/ˈɸa.ku/",
+    "ipa": "/ɸa.ˈlo.mi/",
     "syllables": [
       "pha",
-      "ku"
+      "lo",
+      "mi"
     ],
     "pos": [
       "noun"
     ],
     "concept": "Caretaker / One Who Provides Generative Grounding",
     "description": "One who attends to the daily needs of others or a place, providing a foundation of care and support.",
-    "rationale": "A composition of the roots 'pha' (generative, growing) and 'ku' (ground). The word's structure suggests 'one who provides a generative foundation,' framing caretaking as a vital, foundational act that allows others to flourish.",
+    "rationale": "The word begins with the gentle bilabial fricative 'ph', breathing life and careful attention into the role. This flows through the liquid 'lo', suggesting the continuous, flowing nature of care work—never ending, always adapting. The final 'mi' brings personal dedication, marking this as a role taken into one's very identity. This three-syllable progression—from gentle attention through flowing service to personal commitment—embodies the caretaker as one who sustains life through patient, devoted presence. The soft sounds mirror the quiet strength of those who nurture.",
     "pillars": [
       "solarpunk-values",
       "peace-linguistics-practices"
