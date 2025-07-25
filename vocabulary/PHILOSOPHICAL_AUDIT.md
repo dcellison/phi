@@ -55,10 +55,10 @@
 - Could be more distinctive
 
 ### 7. agreement - shia /ˈʃi.a/
-**Category: REVISE**
-- Nice soft beginning
-- But too close to "agree" (shao)
-- Could better embody "coming together"
+**Category: REMOVED**
+- Redundant with "agree" (nomila)
+- Phi's analytical structure allows using verbs as nouns
+- Can express through composition when needed
 
 ### 8. aid - phelia /ɸe.ˈli.a/
 **Category: KEEP**
