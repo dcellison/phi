@@ -1,27 +1,28 @@
 [
   {
-    "word": "pawea",
+    "word": "pawela",
     "gloss": "participate",
-    "ipa": "/pa.ˈwe.a/",
+    "ipa": "/pa.ˈwe.la/",
     "syllables": [
       "pa",
       "we",
-      "a"
+      "la"
     ],
     "pos": [
-      "verb"
+      "verb",
+      "noun"
     ],
-    "concept": "Participate / To Be an Open Part of the Collective",
-    "description": "The act of taking part in a collective activity. It is the expression of belonging and co-creation within a group, contributing one's part to the whole.",
-    "rationale": "Composed from the established roots 'we' (the collective) and 'a' (openness), and a new proposed root 'pa' (a part, a piece). The word's structure means 'to be an open part of the collective.' This beautifully defines participation as the act of contributing one's individual part to the open, shared space of the group.",
+    "concept": "Participate / To Join the Flow",
+    "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
+    "rationale": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
     "pillars": [
-      "solarpunk-values",
-      "peace-linguistics-practices"
+      "peace-linguistics-practices",
+      "solarpunk-values"
     ],
     "tags": [
-      "dialogue",
-      "collective-action",
-      "community-building"
+      "support-role",
+      "social-role",
+      "action"
     ]
   }
 ]

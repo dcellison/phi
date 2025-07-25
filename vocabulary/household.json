@@ -1,18 +1,19 @@
 [
   {
-    "word": "homa",
+    "word": "shelumi",
     "gloss": "household",
-    "ipa": "/ˈho.ma/",
+    "ipa": "/ʃe.ˈlu.mi/",
     "syllables": [
-      "ho",
-      "ma"
+      "she",
+      "lu",
+      "mi"
     ],
     "pos": [
       "noun"
     ],
     "concept": "Household / A Grounded, Receptive Space",
     "description": "The physical and social unit of those living together in a shared space. It is the immediate sphere of domestic life and mutual support.",
-    "rationale": "Composed from the established roots 'ho' (a warm, receptive greeting) and 'ma' (grounded presence). The word's structure suggests 'a grounded, receptive space.' This frames the household as a place of welcome and stability. It is phonetically related to 'homi' (welcome), reinforcing the idea of a household as the primary place of welcome.",
+    "rationale": "The soft 'sh' creates a sense of shelter and containment, like walls that protect without imprisoning. The flowing 'lu' suggests the continuous circulation of life within - conversations, meals, daily rhythms. The personal 'mi' at the end grounds this flow in intimate connection. Together, the sounds paint a picture of a living space where protection, flow, and personal bonds create the foundation of daily life.",
     "pillars": [
       "pre-industrial-wisdom",
       "solarpunk-values"
