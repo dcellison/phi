@@ -1,0 +1,27 @@
+[
+  {
+    "word": "phaliso",
+    "gloss": "network",
+    "ipa": "/ɸa.ˈli.so/",
+    "syllables": [
+      "pha",
+      "li",
+      "so"
+    ],
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "concept": "Network / A Web of Generative Light",
+    "description": "An interconnected, often decentralized, system of relationships and resources that sustain collective flourishing. It is a living web of mutual aid and information flow.",
+    "rationale": "The breathing 'pha' generates connections like spores on wind, each contact seeding new possibilities. These seeds illuminate through 'li', clarity spreading node to node like dawn touching mountaintops. The radiant 'so' completes the web, each point becoming its own sun in a constellation of mutual support. Three syllables weave the network's nature: generating connections, clarifying purpose, radiating benefit - the living architecture of interdependence.",
+    "pillars": [
+      "solarpunk-values"
+    ],
+    "tags": [
+      "core-unit",
+      "social-structure",
+      "interconnection"
+    ]
+  }
+]
