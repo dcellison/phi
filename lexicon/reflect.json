@@ -15,13 +15,9 @@
   "description": "The act of deep, quiet, and careful consideration of one's own inner state, thoughts, or experiences. It is a turning of the mind inward to understand the self.",
   "sound_symbolism": "The contemplative 'the' establishes the slow breath needed for turning inward - reflection cannot be rushed. This careful attention meets 'mi', the intimate self usually hidden beneath daily noise. The encompassing 'o' completes the circuit, gathering all fragments of self into wholeness for examination. Three syllables mirror reflection's journey: pausing to breathe, meeting the self, embracing the whole - like still water finally clear enough to show what lies beneath.",
   "grammatical_notes": "Functions as both verb (to reflect) and noun (reflection) without morphological change, similar to Mandarin fǎnsī (反思) and Arabic ta'ammul (تأمل). The noun usage expresses the act or process of reflection.",
-  "pillars": [
-    "secular-buddhist-philosophy",
-    "peace-linguistics-practices"
-  ],
-  "tags": [
-    "cognition",
-    "mindful-practice",
-    "self-awareness"
-  ]
+  "pillars": {
+    "secular-buddhist-philosophy": "Reflection as mindfulness practice involves observing the mind's patterns without judgment - watching thoughts and emotions arise and pass like clouds across sky. This contemplative awareness reveals how our habitual reactions create suffering, opening space for wiser responses. Through patient self-observation, we discover the impermanent nature of all mental states.",
+    "peace-linguistics-practices": "Self-reflection enables peaceful communication by helping us recognize our own triggers, biases, and reactive patterns before they harm relationships. When we understand our inner landscape, we can speak from awareness rather than unconscious emotion, taking responsibility for our impact on others. This inner work is essential for breaking cycles of verbal violence.",
+    "art-nouveau-aesthetics": "Reflection mirrors nature's own patterns - the lake reflecting sky, the eye reflecting soul, consciousness reflecting upon itself in endless recursion. This aesthetic of mirroring and doubling appears throughout Art Nouveau's symmetric botanicals and flowing water motifs, suggesting that self-knowledge follows natural laws of reflection and return."
+  }
 }

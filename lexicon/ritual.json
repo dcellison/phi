@@ -12,13 +12,8 @@
   "concept": "Ritual / A Deliberate Path",
   "description": "A sequence of actions or gestures regularly followed by a person or group, often imbued with symbolic value. It is a practice of mindful, repeated action.",
   "sound_symbolism": "The thoughtful 'the' brings consciousness to repetition - ritual requires presence, not mere habit. This deliberation flows into 'la', the path worn smooth by countless footsteps yet fresh each time it's walked. Together they capture ritual's paradox: ancient yet immediate, repeated yet renewed. The simple two-syllable structure mirrors ritual's essence - not elaborate performance but mindful practice, the sacred found in deliberate simplicity.",
-  "pillars": [
-    "pre-industrial-wisdom",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "support-role",
-    "mindful-practice",
-    "tradition"
-  ]
+  "pillars": {
+    "pre-industrial-wisdom": "Rituals served as the heartbeat of traditional communities - marking seasons, transitions, and shared values through embodied practice. These ceremonies created collective meaning without written doctrine, teaching through repetition what words alone couldn't convey. Ritual knowledge lived in bodies and actions, preserving wisdom through practice rather than text.",
+    "secular-buddhist-philosophy": "Ritual as mindfulness practice transforms routine into presence - each repeated action becomes an opportunity for awakening. Whether lighting incense, walking meditation, or tea ceremony, rituals create containers for attention, using familiar forms to encounter each moment freshly. The practice isn't about belief but about using structure to cultivate awareness."
+  }
 }

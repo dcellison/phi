@@ -15,13 +15,8 @@
   "description": "The confident reliance on the integrity and goodwill of another. It is a courageous and considered choice to make one's inner self vulnerable and whole in relation to another.",
   "sound_symbolism": "The thoughtful 'the' makes trust a choice, not naivety - wisdom deciding when vulnerability serves connection. This deliberation opens to 'o', the wholeness that refuses to hide parts of self in shadow. Finally 'mi' brings the intimate core forward, offering what is usually protected. Three syllables trace trust's brave journey: careful consideration, complete presence, personal revelation - the courage to be known.",
   "grammatical_notes": "Functions as both noun (trust) and verb (to trust) without morphological change, similar to Mandarin xìnrèn (信任) and Hindi vishvās (विश्वास). The noun expresses the state of trust, while the verb expresses the act of trusting.",
-  "pillars": [
-    "peace-linguistics-practices",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "foundational-quality",
-    "relational-state",
-    "vulnerability"
-  ]
+  "pillars": {
+    "peace-linguistics-practices": "Trust forms the foundation upon which peaceful communication stands - without basic faith in others' humanity and good intentions, dialogue becomes impossible. This practice requires vulnerability and courage, choosing to believe in the possibility of understanding even when past experience counsels caution. Trust given often creates trust returned.",
+    "secular-buddhist-philosophy": "Trust as spiritual practice means releasing the illusion of control - recognizing that clinging to suspicion creates its own suffering. This isn't blind faith but wise trust based on clear seeing of others' actions over time. The practice teaches that vulnerability, paradoxically, can be a source of strength when grounded in wisdom."
+  }
 }
