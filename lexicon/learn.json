@@ -15,13 +15,9 @@
   "description": "The process of acquiring knowledge, skills, or understanding through study, experience, or teaching. It is an active state of receptive growth.",
   "sound_symbolism": "The soft 'sh' creates the receptive space where learning begins. The gentle 'ne' acknowledges the vulnerability and openness required, while the flowing 'la' allows new understanding to stream in naturally. This creates a word that feels like opening to rain - gentle, nourishing, transformative.",
   "grammatical_notes": "Functions as both verb (to learn) and noun (learning/the process of learning) without morphological change, similar to Mandarin xué (学) and Arabic ta'allum (تعلم). The noun usage expresses the ongoing process or state of acquiring knowledge.",
-  "pillars": [
-    "secular-buddhist-philosophy",
-    "solarpunk-values"
-  ],
-  "tags": [
-    "social-role",
-    "learning",
-    "receptivity"
-  ]
+  "pillars": {
+    "secular-buddhist-philosophy": "Learning embodies beginner's mind - approaching each moment with fresh curiosity regardless of prior knowledge. This practice requires setting aside the ego that thinks it already knows, creating space for new understanding to arise. True learning transforms not just what we know but who we are, requiring the courage to let fixed views dissolve.",
+    "solarpunk-values": "Learning in solarpunk culture is continuous adaptation - communities that survive are those that keep learning from both successes and failures. Knowledge is shared freely through skill-shares, documentation, and mentorship, understanding that collective intelligence emerges when everyone both teaches and learns.",
+    "peace-linguistics-practices": "Learning from others - especially those we might consider adversaries - is fundamental to peace-building. When we position ourselves as learners, we create equality and respect that allows genuine dialogue. The willingness to learn another's perspective, language, or worldview builds bridges that conflict cannot easily destroy."
+  }
 }

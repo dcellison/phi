@@ -12,13 +12,9 @@
   "concept": "Listen / To Receive with a Mindful Focus",
   "description": "The active, mindful process of receiving sound with focused attention. It is a conscious act of creating inner space to truly hear what is being communicated, distinct from the passive sense of hearing.",
   "sound_symbolism": "The soft 'sh' creates immediate quiet, like the hush that falls when we truly attend to another's words. This quieting flows into 'no', engaging the full mind - not just ears but understanding, empathy, wisdom. The combination forms a word that must be spoken gently, mirroring the act itself: creating inner stillness where another's truth can resonate. The sound embodies receptive presence, teaching us how to listen through its very pronunciation.",
-  "pillars": [
-    "peace-linguistics-practices",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "cognition",
-    "mindful-practice",
-    "perception"
-  ]
+  "pillars": {
+    "peace-linguistics-practices": "Deep listening is the foundation of nonviolent communication - when we truly hear another's needs and feelings beneath their words, compassionate response becomes natural. This practice transforms potential conflict by ensuring all parties feel heard and understood before seeking solutions. Listening itself becomes an act of peace.",
+    "secular-buddhist-philosophy": "Listening as mindfulness practice requires releasing our internal commentary to be fully present with what is arising. This isn't passive reception but active awareness - noticing not just words but tone, silence, and the spaces between. True listening dissolves the barrier between self and other in moments of pure receptive presence.",
+    "pre-industrial-wisdom": "In oral traditions, listening is sacred skill - the primary means of receiving wisdom, stories, and teachings. Deep listening preserves cultural knowledge across generations and creates the communal bonds through shared narrative. Elders teach that we have two ears and one mouth for good reason."
+  }
 }
