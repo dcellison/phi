@@ -8,13 +8,16 @@
       "a"
     ],
     "pos": [
-      "noun"
+      "noun",
+      "adjective"
     ],
     "concept": "Youth / The Feeling of Openness",
     "description": "The state or period of being young; a time of growth, potential, and open feeling. It represents the vital, generative energy that renews a community.",
-    "rationale": "The vibrant 'me' pulses with feeling unguarded by experience - that quality of heart that hasn't yet learned to close. This emotional aliveness opens through 'a', creating endless space for becoming. The vowel hiatus captures youth's essence: feeling flowing into possibility without barrier. Two syllables hold springtime's secret - not counted in years but in the willingness to feel fully and remain open to what might be.",
+    "sound_symbolism": "The vibrant 'me' pulses with feeling unguarded by experience - that quality of heart that hasn't yet learned to close. This emotional aliveness opens through 'a', creating endless space for becoming. The vowel hiatus captures youth's essence: feeling flowing into possibility without barrier. Two syllables hold springtime's secret - not counted in years but in the willingness to feel fully and remain open to what might be.",
+    "grammatical_notes": "Functions as both noun (youth/young person) and adjective (youthful) without morphological change. The adjectival usage expresses the quality of being young or having youthful characteristics.",
     "pillars": [
-      "solarpunk-values"
+      "solarpunk-values",
+      "art-nouveau-aesthetics"
     ],
     "tags": [
       "social-role",
