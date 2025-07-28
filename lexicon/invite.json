@@ -8,13 +8,16 @@
       "la"
     ],
     "pos": [
-      "verb"
+      "verb",
+      "noun"
     ],
     "concept": "Invite / To Open a Path into a Space",
     "description": "The act of creating an opening for another to join a space, activity, or community. It is a gesture of inclusion and welcome.",
-    "rationale": "The breathy 'wh' opens expansively, creating immediate space where none existed before - the generous gesture that makes room for another. This spaciousness flows into 'la', forming the path that guides entry, making approach both possible and welcoming. In just two syllables, the word performs its meaning: opening space, creating passage. The breath and flow together embody invitation's dual nature - both the space made and the path offered.",
+    "sound_symbolism": "The breathy 'wh' opens expansively, creating immediate space where none existed before - the generous gesture that makes room for another. This spaciousness flows into 'la', forming the path that guides entry, making approach both possible and welcoming. In just two syllables, the word performs its meaning: opening space, creating passage. The breath and flow together embody invitation's dual nature - both the space made and the path offered.",
+    "grammatical_notes": "Functions as both verb (to invite) and noun (an invitation) without morphological change, similar to Mandarin yāoqǐng (邀请) and Arabic da'wa (دعوة). The same form expresses both the act of inviting and the invitation itself.",
     "pillars": [
-      "peace-linguistics-practices"
+      "peace-linguistics-practices",
+      "secular-buddhist-philosophy"
     ],
     "tags": [
       "social-act",
