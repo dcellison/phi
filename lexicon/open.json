@@ -14,13 +14,9 @@
   "description": "The quality of being receptive, unguarded, and welcoming to new experiences, ideas, and connections. Openness encompasses transparency, vulnerability, and the creation of space for others to be themselves.",
   "sound_symbolism": "The generative breath 'pha' creates space rather than filling it - the exhale that makes room for what wishes to enter. This spaciousness extends through 'e', the most minimal vowel, barely there yet fully present. The vowel hiatus between 'a' and 'e' embodies openness itself: no consonant barrier, just breath flowing into breath. The sound teaches its meaning - to be open is to breathe space into being.",
   "grammatical_notes": "Functions as both adjective (open/receptive) and verb (to open/to become open) without morphological change, similar to Mandarin kāi (开). The verbal usage expresses both the act of opening and the state of being open.",
-  "pillars": [
-    "peace-linguistics-practices",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "core-state",
-    "receptivity",
-    "relational-virtue"
-  ]
+  "pillars": {
+    "peace-linguistics-practices": "Openness in communication creates the conditions for genuine dialogue - when we approach conversations without predetermined outcomes, authentic understanding becomes possible. This receptivity to others' perspectives, especially those that challenge our own, transforms potential conflict into opportunities for growth and connection.",
+    "secular-buddhist-philosophy": "Open awareness accepts what arises without clinging or aversion, recognizing that resistance to experience creates suffering. This isn't passive acceptance but active receptivity - meeting each moment freshly without the burden of expectation. Openness allows the fluid nature of reality to flow without obstruction.",
+    "solarpunk-values": "Open-source philosophy drives solarpunk innovation - sharing designs, data, and discoveries freely accelerates collective problem-solving. This transparency extends beyond technology to governance, economics, and social structures, proving that openness creates abundance while secrecy breeds scarcity."
+  }
 }

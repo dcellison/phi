@@ -15,13 +15,9 @@
   "description": "An interconnected, often decentralized, system of relationships and resources that sustain collective flourishing. It is a living web of mutual aid and information flow.",
   "sound_symbolism": "The breathing 'pha' generates connections like spores on wind, each contact seeding new possibilities. These seeds illuminate through 'li', clarity spreading node to node like dawn touching mountaintops. The radiant 'so' completes the web, each point becoming its own sun in a constellation of mutual support. Three syllables weave the network's nature: generating connections, clarifying purpose, radiating benefit - the living architecture of interdependence.",
   "grammatical_notes": "Functions as both noun (a network) and verb (to network/to form networks) without morphological change. The verbal usage expresses the active creation and maintenance of interconnected relationships.",
-  "pillars": [
-    "solarpunk-values",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "core-unit",
-    "social-structure",
-    "interconnection"
-  ]
+  "pillars": {
+    "solarpunk-values": "Networks embody the distributed, resilient systems at the heart of solarpunk futures - mesh networks sharing internet access, seed libraries preserving biodiversity, skill-sharing webs spreading knowledge. These horizontal structures prove that power shared is power multiplied, creating abundance through interconnection rather than hoarding through hierarchy.",
+    "secular-buddhist-philosophy": "Networks manifest the teaching of interdependence in visible form - each node existing through its connections, the whole emerging from relationships rather than entities. This understanding sees individual wellbeing as inseparable from network health, recognizing that what strengthens connections strengthens all participants.",
+    "pre-industrial-wisdom": "Traditional societies understood networks as the invisible infrastructure of survival - kinship networks, trading routes, knowledge lineages passed through generations. These webs of reciprocity ensured no one fell through cracks, creating resilience through redundancy and care through connection."
+  }
 }

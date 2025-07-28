@@ -15,13 +15,9 @@
   "description": "The quality of being unmixed and true to one's essential nature, free from harmful intent or unnecessary complexity. It is not a moralistic state, but one of clear intention and pristine, uncomplicated being.",
   "sound_symbolism": "The whispering 'sh' suggests something refined and distilled to its essence. The open 'lo' creates spaciousness where only truth can exist, while the final 'a' releases into complete openness. This progression from refinement through spaciousness to openness mirrors the journey to purity - removing what is unnecessary, creating space for essence, then resting in simple truth.",
   "grammatical_notes": "Functions as both adjective (pure) and noun (purity) without morphological change, similar to Sanskrit śuddha (शुद्ध) and Japanese jun (純). The noun usage expresses the state or quality of being pure.",
-  "pillars": [
-    "secular-buddhist-philosophy",
-    "pre-industrial-wisdom"
-  ],
-  "tags": [
-    "core-state",
-    "aesthetic-virtue",
-    "essential-nature"
-  ]
+  "pillars": {
+    "secular-buddhist-philosophy": "Purity in Buddhist understanding isn't moral perfection but clarity of intention and freedom from the three poisons - greed, hatred, and delusion. This purity emerges through practice, gradually clearing the mind's habitual distortions to perceive reality without the overlay of craving or aversion.",
+    "pre-industrial-wisdom": "Traditional cultures understood purity through natural metaphors - clear springs, unmixed seeds, virgin forests. This wisdom recognized that purity meant allowing things to express their true nature without forcing artificial change. Pure water, pure intention, pure heart - all sharing the quality of being undivided and whole.",
+    "art-nouveau-aesthetics": "Purity of form follows nature's own design principles - the unfurling fern, the spiraling shell, the branching river. This aesthetic purity strips away artificial ornament to reveal essential structure, finding beauty in the honest expression of material and purpose. Nothing added, nothing hidden, only truth made visible."
+  }
 }
