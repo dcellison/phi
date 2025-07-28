@@ -14,13 +14,8 @@
   "description": "A more formal and intentional conversation aimed at co-creating meaning and deeper understanding. It is a structured, respectful exchange of perspectives with the goal of reaching a new, shared insight.",
   "sound_symbolism": "The word opens with the thoughtful 'th', establishing the deliberate attention that distinguishes dialogue from casual talk. This flows into the deep current of 'lu', suggesting exchange that moves beneath surface pleasantries into meaningful depths. In just two syllables, the word captures dialogue's sacred purpose: not merely to speak and listen, but to create a flowing channel where understanding can deepen and transform. The sound itself invites pause and depth—you cannot rush 'thelu' any more than you can rush true dialogue. It asks us to breathe, consider, and let meaning flow.",
   "grammatical_notes": "Functions as both noun and verb without morphological change, similar to Arabic ḥiwār (حوار) and Thai sǒn-tʰá-naa (สนทนา). Many languages allow dialogue concepts to serve both as the exchange itself and the act of engaging in it.",
-  "pillars": [
-    "peace-linguistics-practices",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "dialogue",
-    "co-creation",
-    "meaning-making"
-  ]
+  "pillars": {
+    "peace-linguistics-practices": "Dialogue represents the highest form of peaceful communication - moving beyond debate or discussion to co-create understanding. In true dialogue, participants suspend judgment, listen deeply, and allow new meanings to emerge between them. This practice transforms potential conflict into collaborative exploration, recognizing that truth often lies not in one position or another but in the wisdom that emerges through respectful exchange.",
+    "secular-buddhist-philosophy": "Dialogue embodies the practice of non-attachment to views - entering conversation willing to be changed by what we hear. It requires the humility to recognize our perspective as partial and the courage to let go of being right. Through dialogue, we practice seeing through another's eyes, understanding that multiple truths can coexist without contradiction."
+  }
 }
