@@ -14,14 +14,9 @@
   "description": "A tempered quality of mindful trust in the unfolding of a process, whether in oneself, in others, or in life itself. It is not blind belief, but a courageous confidence rooted in observation and experience.",
   "sound_symbolism": "The word begins with 'phe', a gentle fricative that breathes possibility into being—faith as the breath before the leap, soft yet certain. This flows into 'o', the round vowel of wholeness and completion, trusting that what begins will find its way to fullness. The vowel progression from 'e' to 'o' creates an opening movement, like hands releasing a bird to flight, knowing it will find its path. This brief two-syllable word captures faith's essence: not forcing or grasping, but breathing trust into the world and letting it unfold. The sound itself requires a gentle exhalation, making each utterance an act of release and confidence.",
   "grammatical_notes": "Functions as both noun (faith/trust) and verb (to have faith in, to trust) without morphological change. While the verbal usage is rare in English, it captures the active process of 'faithing' - consciously placing trust, similar to how Buddhist shraddha (श्रद्धा) implies both the quality and the practice.",
-  "pillars": [
-    "secular-buddhist-philosophy",
-    "peace-linguistics-practices",
-    "pre-industrial-wisdom"
-  ],
-  "tags": [
-    "inner-state",
-    "mindful-practice",
-    "trust"
-  ]
+  "pillars": {
+    "secular-buddhist-philosophy": "Faith as confidence in the path represents the quality of trust that emerges from direct experience and observation. This is not blind belief but the courage to continue practicing even when results aren't immediately visible, understanding that transformation unfolds in its own time. It's the trust that allows us to sit with uncertainty without grasping for false certainties.",
+    "peace-linguistics-practices": "Faith in peace processes means trusting that nonviolent approaches can transform even deep conflicts, despite evidence of past failures. This practice requires holding space for possibility when others see only impasse, maintaining confidence that human connection can bridge seemingly unbridgeable divides when given patient, skillful support.",
+    "solarpunk-values": "Faith in solarpunk context means trust in collective human creativity to build regenerative futures despite current crises. It's the confidence that distributed networks of care and innovation can create abundance where extraction created scarcity - not naive optimism but grounded hope based on emerging practices already showing success."
+  }
 }

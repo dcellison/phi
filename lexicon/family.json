@@ -15,14 +15,9 @@
   "description": "The inner circle of belonging, whether formed by blood, choice, or circumstance. It is the first community, defined by deep, open-hearted, and supportive bonds.",
   "sound_symbolism": "The word begins with 'lu', a liquid sound that flows like the bloodlines and heart-lines connecting family members across generations. This deepens through 'ma', the universal syllable of nurturing—the first sound many babies make, calling for care. The final 'ni' grounds this flowing connection in presence, in being together here and now. This progression—from ancestral flow through nurturing care to present belonging—captures family as both inheritance and choice. The gentle liquids and nasals create a sound that feels like being held, safe and seen, while the three syllables give weight to this most fundamental of bonds.",
   "grammatical_notes": "Functions as both noun and adjective without morphological change. The adjective usage (as in 'family gathering' or 'family bond') emphasizes the quality of familial relationship, similar to how Indonesian keluarga and Tagalog pamilya can modify other nouns directly.",
-  "pillars": [
-    "pre-industrial-wisdom",
-    "peace-linguistics-practices",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "core-unit",
-    "kinship",
-    "bond"
-  ]
+  "pillars": {
+    "pre-industrial-wisdom": "Family in traditional understanding extends beyond nuclear units to encompass extended kin networks that provide mutual support across generations. This wisdom recognizes family as the fundamental economic and social safety net, where resources, knowledge, and care circulate based on relationship rather than transaction.",
+    "peace-linguistics-practices": "Family serves as the first training ground for peaceful relationship - where we learn to navigate conflict with those we cannot simply leave. The practice of maintaining family bonds despite differences teaches the skills of patient dialogue, forgiveness, and finding common ground that extend into all relationships.",
+    "secular-buddhist-philosophy": "Family embodies the teaching of interdependence in its most intimate form - recognizing that our wellbeing is inseparable from those closest to us. This includes both given and chosen family, understanding that the bonds of care and mutual support can transcend blood relationship to encompass all who commit to each other's flourishing."
+  }
 }
