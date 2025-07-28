@@ -1,29 +1,27 @@
-[
-  {
-    "word": "pawela",
-    "gloss": "participate",
-    "ipa": "/pa.ˈwe.la/",
-    "syllables": [
-      "pa",
-      "we",
-      "la"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Participate / To Join the Flow",
-    "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
-    "sound_symbolism": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
-    "grammatical_notes": "Functions as both verb (to participate) and noun (participation) without morphological change, similar to Mandarin cānyù (参与). The noun usage expresses the act or state of participating.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "solarpunk-values"
-    ],
-    "tags": [
-      "support-role",
-      "social-role",
-      "action"
-    ]
-  }
-]
+{
+  "word": "pawela",
+  "gloss": "participate",
+  "ipa": "/pa.ˈwe.la/",
+  "syllables": [
+    "pa",
+    "we",
+    "la"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Participate / To Join the Flow",
+  "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
+  "sound_symbolism": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
+  "grammatical_notes": "Functions as both verb (to participate) and noun (participation) without morphological change, similar to Mandarin cānyù (参与). The noun usage expresses the act or state of participating.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "solarpunk-values"
+  ],
+  "tags": [
+    "support-role",
+    "social-role",
+    "action"
+  ]
+}

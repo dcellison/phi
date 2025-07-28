@@ -1,29 +1,27 @@
-[
-  {
-    "word": "molawi",
-    "gloss": "cooperate",
-    "ipa": "/mo.ˈla.wi/",
-    "syllables": [
-      "mo",
-      "la",
-      "wi"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Cooperate / To Flow Together",
-    "description": "The practice of working together toward shared goals with coordinated, harmonious effort. It is the smooth interplay of different roles for a common purpose.",
-    "sound_symbolism": "The word begins with 'mo', a sound of mutual exchange—lips coming together just as people come together. This flows through the liquid 'la', creating the smooth coordination of shared effort. The final 'wi' adds a sense of collective energy, like many hands working as one. This three-syllable dance—from mutual recognition through flowing action to unified purpose—embodies cooperation as both a practice and a joy. The sound rolls easily off the tongue, just as true cooperation makes difficult tasks feel effortless when shared.",
-    "grammatical_notes": "Functions as both verb and noun without morphological change, common in languages like Korean (hyeomnyeok 협력), Vietnamese (hợp tác), and Tagalog (pakikipagtulungan) where cooperative action and the concept of cooperation share the same form.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "solarpunk-values"
-    ],
-    "tags": [
-      "social-act",
-      "harmony",
-      "reciprocity"
-    ]
-  }
-]
+{
+  "word": "molawi",
+  "gloss": "cooperate",
+  "ipa": "/mo.ˈla.wi/",
+  "syllables": [
+    "mo",
+    "la",
+    "wi"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Cooperate / To Flow Together",
+  "description": "The practice of working together toward shared goals with coordinated, harmonious effort. It is the smooth interplay of different roles for a common purpose.",
+  "sound_symbolism": "The word begins with 'mo', a sound of mutual exchange—lips coming together just as people come together. This flows through the liquid 'la', creating the smooth coordination of shared effort. The final 'wi' adds a sense of collective energy, like many hands working as one. This three-syllable dance—from mutual recognition through flowing action to unified purpose—embodies cooperation as both a practice and a joy. The sound rolls easily off the tongue, just as true cooperation makes difficult tasks feel effortless when shared.",
+  "grammatical_notes": "Functions as both verb and noun without morphological change, common in languages like Korean (hyeomnyeok 협력), Vietnamese (hợp tác), and Tagalog (pakikipagtulungan) where cooperative action and the concept of cooperation share the same form.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "solarpunk-values"
+  ],
+  "tags": [
+    "social-act",
+    "harmony",
+    "reciprocity"
+  ]
+}

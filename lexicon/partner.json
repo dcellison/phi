@@ -1,28 +1,26 @@
-[
-  {
-    "word": "weo",
-    "gloss": "partner",
-    "ipa": "/ˈwe.o/",
-    "syllables": [
-      "we",
-      "o"
-    ],
-    "pos": [
-      "noun",
-      "verb"
-    ],
-    "concept": "Partner / One Who Completes a We",
-    "description": "An individual who joins with another in equal measure to create a whole unit ('we'). This can apply to romantic, creative, or other forms of close, collaborative relationships.",
-    "sound_symbolism": "The gathering 'we' draws two into unity, separate streams converging into shared current. This convergence completes in 'o', the circle that holds both without erasing either - wholeness through joining, not absorption. The vowel hiatus between 'e' and 'o' creates a breathing space, honoring that true partnership maintains individual essence within collective harmony. Simple as two hands clasping, profound as lives intertwining.",
-    "grammatical_notes": "Functions as both noun (a partner) and verb (to partner/to form a partnership) without morphological change. The verbal usage expresses the act of joining in partnership or collaboration.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "bond",
-      "kinship",
-      "collaboration"
-    ]
-  }
-]
+{
+  "word": "weo",
+  "gloss": "partner",
+  "ipa": "/ˈwe.o/",
+  "syllables": [
+    "we",
+    "o"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "concept": "Partner / One Who Completes a We",
+  "description": "An individual who joins with another in equal measure to create a whole unit ('we'). This can apply to romantic, creative, or other forms of close, collaborative relationships.",
+  "sound_symbolism": "The gathering 'we' draws two into unity, separate streams converging into shared current. This convergence completes in 'o', the circle that holds both without erasing either - wholeness through joining, not absorption. The vowel hiatus between 'e' and 'o' creates a breathing space, honoring that true partnership maintains individual essence within collective harmony. Simple as two hands clasping, profound as lives intertwining.",
+  "grammatical_notes": "Functions as both noun (a partner) and verb (to partner/to form a partnership) without morphological change. The verbal usage expresses the act of joining in partnership or collaboration.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "bond",
+    "kinship",
+    "collaboration"
+  ]
+}

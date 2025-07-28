@@ -1,27 +1,25 @@
-[
-  {
-    "word": "thorea",
-    "gloss": "ceremony",
-    "ipa": "/θo.ˈre.a/",
-    "syllables": [
-      "tho",
-      "re",
-      "a"
-    ],
-    "pos": [
-      "noun"
-    ],
-    "concept": "Ceremony / A Structured Collective Presence",
-    "description": "A formal event of a religious or public nature, involving a series of actions performed in a prescribed order to mark a specific occasion or affirm collective values.",
-    "sound_symbolism": "The word opens with the reverent fricative 'th', requiring the same deliberate breath we take when entering sacred space. The rounded 'o' creates a sense of containment and wholeness, like a circle of participants. The rolling 'r' introduces movement and ritual flow, before opening into the expansive vowel sequence 'e.a' that releases the ceremony's energy into the world. This phonetic journey—from reverent breath through contained wholeness to flowing release—mirrors the very structure of ceremony itself: we gather with intention, hold space together, and send our collective energy outward. The word carries dignity without stiffness, formality with grace.",
-    "pillars": [
-      "pre-industrial-wisdom",
-      "peace-linguistics-practices"
-    ],
-    "tags": [
-      "support-role",
-      "social-act",
-      "tradition"
-    ]
-  }
-]
+{
+  "word": "thorea",
+  "gloss": "ceremony",
+  "ipa": "/θo.ˈre.a/",
+  "syllables": [
+    "tho",
+    "re",
+    "a"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Ceremony / A Structured Collective Presence",
+  "description": "A formal event of a religious or public nature, involving a series of actions performed in a prescribed order to mark a specific occasion or affirm collective values.",
+  "sound_symbolism": "The word opens with the reverent fricative 'th', requiring the same deliberate breath we take when entering sacred space. The rounded 'o' creates a sense of containment and wholeness, like a circle of participants. The rolling 'r' introduces movement and ritual flow, before opening into the expansive vowel sequence 'e.a' that releases the ceremony's energy into the world. This phonetic journey—from reverent breath through contained wholeness to flowing release—mirrors the very structure of ceremony itself: we gather with intention, hold space together, and send our collective energy outward. The word carries dignity without stiffness, formality with grace.",
+  "pillars": [
+    "pre-industrial-wisdom",
+    "peace-linguistics-practices"
+  ],
+  "tags": [
+    "support-role",
+    "social-act",
+    "tradition"
+  ]
+}

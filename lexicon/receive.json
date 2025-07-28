@@ -1,29 +1,27 @@
-[
-  {
-    "word": "howela",
-    "gloss": "receive",
-    "ipa": "/ho.ˈwe.la/",
-    "syllables": [
-      "ho",
-      "we",
-      "la"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Receive / To Welcome What Flows",
-    "description": "The act of accepting what is offered with grace and presence. It is the equally important counterpart to giving that completes a cycle of generosity, and is done with dignity, not subservience.",
-    "sound_symbolism": "The warm, open 'ho' creates receptive space like cupped hands. The communal 'we' acknowledges that receiving connects us to others, while the flowing 'la' allows what is given to arrive naturally. This creates a word that feels like opening to rain - not grasping but simply allowing the gift to flow into welcoming space.",
-    "grammatical_notes": "Functions as both verb (to receive) and noun (reception/the act of receiving) without morphological change, similar to Mandarin jiēshòu (接受). The noun usage expresses the act or state of receiving.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "social-act",
-      "gratitude",
-      "reciprocity"
-    ]
-  }
-]
+{
+  "word": "howela",
+  "gloss": "receive",
+  "ipa": "/ho.ˈwe.la/",
+  "syllables": [
+    "ho",
+    "we",
+    "la"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Receive / To Welcome What Flows",
+  "description": "The act of accepting what is offered with grace and presence. It is the equally important counterpart to giving that completes a cycle of generosity, and is done with dignity, not subservience.",
+  "sound_symbolism": "The warm, open 'ho' creates receptive space like cupped hands. The communal 'we' acknowledges that receiving connects us to others, while the flowing 'la' allows what is given to arrive naturally. This creates a word that feels like opening to rain - not grasping but simply allowing the gift to flow into welcoming space.",
+  "grammatical_notes": "Functions as both verb (to receive) and noun (reception/the act of receiving) without morphological change, similar to Mandarin jiēshòu (接受). The noun usage expresses the act or state of receiving.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "social-act",
+    "gratitude",
+    "reciprocity"
+  ]
+}

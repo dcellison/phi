@@ -1,27 +1,25 @@
-[
-  {
-    "word": "kowela",
-    "gloss": "council",
-    "ipa": "/ko.ˈwe.la/",
-    "syllables": [
-      "ko",
-      "we",
-      "la"
-    ],
-    "pos": [
-      "noun"
-    ],
-    "concept": "Council / The Path of the Collective Core",
-    "description": "A non-hierarchical group gathered for mindful deliberation and consensus-based decision-making for the good of the whole community.",
-    "sound_symbolism": "The word opens with the formal 'ko', a sound that calls attention and creates sacred space—like a bell marking the beginning of deliberation. This flows into 'we', immediately establishing collective identity and shared purpose. The liquid 'la' carries this gathering forward into action and decision. This progression—from formal opening through collective gathering to flowing wisdom—mirrors how councils function: first the calling together, then the recognition of shared responsibility, finally the emergence of collective wisdom. The sound carries both dignity and warmth, formal without being rigid.",
-    "pillars": [
-      "pre-industrial-wisdom",
-      "peace-linguistics-practices"
-    ],
-    "tags": [
-      "core-unit",
-      "governance",
-      "deliberation"
-    ]
-  }
-]
+{
+  "word": "kowela",
+  "gloss": "council",
+  "ipa": "/ko.ˈwe.la/",
+  "syllables": [
+    "ko",
+    "we",
+    "la"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Council / The Path of the Collective Core",
+  "description": "A non-hierarchical group gathered for mindful deliberation and consensus-based decision-making for the good of the whole community.",
+  "sound_symbolism": "The word opens with the formal 'ko', a sound that calls attention and creates sacred space—like a bell marking the beginning of deliberation. This flows into 'we', immediately establishing collective identity and shared purpose. The liquid 'la' carries this gathering forward into action and decision. This progression—from formal opening through collective gathering to flowing wisdom—mirrors how councils function: first the calling together, then the recognition of shared responsibility, finally the emergence of collective wisdom. The sound carries both dignity and warmth, formal without being rigid.",
+  "pillars": [
+    "pre-industrial-wisdom",
+    "peace-linguistics-practices"
+  ],
+  "tags": [
+    "core-unit",
+    "governance",
+    "deliberation"
+  ]
+}

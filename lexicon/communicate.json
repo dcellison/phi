@@ -1,28 +1,26 @@
-[
-  {
-    "word": "sheo",
-    "gloss": "communicate",
-    "ipa": "/ˈʃe.o/",
-    "syllables": [
-      "she",
-      "o"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Communicate / To Bridge Understanding",
-    "description": "The art of creating a bridge of understanding between minds and hearts. It is a two-way, collaborative process of sharing and receiving meaning that transforms all participants.",
-    "sound_symbolism": "The word begins with the soft fricative 'sh', creating the gentle, receptive space that true communication requires—like the hush before deep listening. This breath flows into the open vowel sequence 'e.o', a sonic bridge that spans from one openness to another, embodying how communication connects separate beings. The word itself is brief yet complete, simple yet profound—just as the best communication carries maximum meaning with minimum friction. When spoken, it creates the very quality it names: a soft opening between souls.",
-    "grammatical_notes": "Functions as both verb and noun without morphological change, common in languages like Hindi (sanchaar संचार), Swahili (mawasiliano), and Finnish where verbal nouns express both action and concept.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "foundational-concept",
-      "interactive-process",
-      "connection"
-    ]
-  }
-]
+{
+  "word": "sheo",
+  "gloss": "communicate",
+  "ipa": "/ˈʃe.o/",
+  "syllables": [
+    "she",
+    "o"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Communicate / To Bridge Understanding",
+  "description": "The art of creating a bridge of understanding between minds and hearts. It is a two-way, collaborative process of sharing and receiving meaning that transforms all participants.",
+  "sound_symbolism": "The word begins with the soft fricative 'sh', creating the gentle, receptive space that true communication requires—like the hush before deep listening. This breath flows into the open vowel sequence 'e.o', a sonic bridge that spans from one openness to another, embodying how communication connects separate beings. The word itself is brief yet complete, simple yet profound—just as the best communication carries maximum meaning with minimum friction. When spoken, it creates the very quality it names: a soft opening between souls.",
+  "grammatical_notes": "Functions as both verb and noun without morphological change, common in languages like Hindi (sanchaar संचार), Swahili (mawasiliano), and Finnish where verbal nouns express both action and concept.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "foundational-concept",
+    "interactive-process",
+    "connection"
+  ]
+}

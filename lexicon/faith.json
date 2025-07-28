@@ -1,29 +1,27 @@
-[
-  {
-    "word": "pheo",
-    "gloss": "faith",
-    "ipa": "/ˈɸe.o/",
-    "syllables": [
-      "phe",
-      "o"
-    ],
-    "pos": [
-      "noun",
-      "verb"
-    ],
-    "concept": "Faith / Mindful Trust in Process",
-    "description": "A tempered quality of mindful trust in the unfolding of a process, whether in oneself, in others, or in life itself. It is not blind belief, but a courageous confidence rooted in observation and experience.",
-    "sound_symbolism": "The word begins with 'phe', a gentle fricative that breathes possibility into being—faith as the breath before the leap, soft yet certain. This flows into 'o', the round vowel of wholeness and completion, trusting that what begins will find its way to fullness. The vowel progression from 'e' to 'o' creates an opening movement, like hands releasing a bird to flight, knowing it will find its path. This brief two-syllable word captures faith's essence: not forcing or grasping, but breathing trust into the world and letting it unfold. The sound itself requires a gentle exhalation, making each utterance an act of release and confidence.",
-    "grammatical_notes": "Functions as both noun (faith/trust) and verb (to have faith in, to trust) without morphological change. While the verbal usage is rare in English, it captures the active process of 'faithing' - consciously placing trust, similar to how Buddhist shraddha (श्रद्धा) implies both the quality and the practice.",
-    "pillars": [
-      "secular-buddhist-philosophy",
-      "peace-linguistics-practices",
-      "pre-industrial-wisdom"
-    ],
-    "tags": [
-      "inner-state",
-      "mindful-practice",
-      "trust"
-    ]
-  }
-]
+{
+  "word": "pheo",
+  "gloss": "faith",
+  "ipa": "/ˈɸe.o/",
+  "syllables": [
+    "phe",
+    "o"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
+  "concept": "Faith / Mindful Trust in Process",
+  "description": "A tempered quality of mindful trust in the unfolding of a process, whether in oneself, in others, or in life itself. It is not blind belief, but a courageous confidence rooted in observation and experience.",
+  "sound_symbolism": "The word begins with 'phe', a gentle fricative that breathes possibility into being—faith as the breath before the leap, soft yet certain. This flows into 'o', the round vowel of wholeness and completion, trusting that what begins will find its way to fullness. The vowel progression from 'e' to 'o' creates an opening movement, like hands releasing a bird to flight, knowing it will find its path. This brief two-syllable word captures faith's essence: not forcing or grasping, but breathing trust into the world and letting it unfold. The sound itself requires a gentle exhalation, making each utterance an act of release and confidence.",
+  "grammatical_notes": "Functions as both noun (faith/trust) and verb (to have faith in, to trust) without morphological change. While the verbal usage is rare in English, it captures the active process of 'faithing' - consciously placing trust, similar to how Buddhist shraddha (श्रद्धा) implies both the quality and the practice.",
+  "pillars": [
+    "secular-buddhist-philosophy",
+    "peace-linguistics-practices",
+    "pre-industrial-wisdom"
+  ],
+  "tags": [
+    "inner-state",
+    "mindful-practice",
+    "trust"
+  ]
+}

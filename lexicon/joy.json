@@ -1,31 +1,29 @@
-[
-  {
-    "word": "siora",
-    "gloss": "joy",
-    "ipa": "/si.ˈo.ra/",
-    "syllables": [
-      "si",
-      "o",
-      "ra"
-    ],
-    "pos": [
-      "noun",
-      "adjective",
-      "verb"
-    ],
-    "concept": "Joy / Radiant Happiness",
-    "description": "The state of radiant happiness that arises from connection, appreciation, and aliveness. It encompasses both quiet contentment and exuberant celebration, and is understood to multiply when shared.",
-    "sound_symbolism": "The word begins with 'si', a bright sibilant that sparkles like laughter bubbling up from within. This flows through 'o', the round vowel of wonder and wholeness, capturing joy's fullness. The final 'ra' radiates this feeling outward, sharing the warmth with all around. This three-part journey—from inner sparkle through embodied fullness to radiant sharing—mirrors how joy works: arising spontaneously within, filling our whole being, then naturally overflowing to brighten the world. The ascending vowel pattern (i-o-a) lifts like a bird taking flight, while the consonants dance lightly, impossible to speak without a hint of smile.",
-    "grammatical_notes": "Functions as noun (joy), adjective (joyful), and verb (to feel joy/to be joyful) without morphological change, similar to Mandarin kuàilè (快乐) and Indonesian gembira. The verbal usage expresses both the experience of joy and the act of rejoicing.",
-    "pillars": [
-      "solarpunk-values",
-      "secular-buddhist-philosophy",
-      "art-nouveau-aesthetics"
-    ],
-    "tags": [
-      "core-state",
-      "emotional-resonance",
-      "wellbeing"
-    ]
-  }
-]
+{
+  "word": "siora",
+  "gloss": "joy",
+  "ipa": "/si.ˈo.ra/",
+  "syllables": [
+    "si",
+    "o",
+    "ra"
+  ],
+  "pos": [
+    "noun",
+    "adjective",
+    "verb"
+  ],
+  "concept": "Joy / Radiant Happiness",
+  "description": "The state of radiant happiness that arises from connection, appreciation, and aliveness. It encompasses both quiet contentment and exuberant celebration, and is understood to multiply when shared.",
+  "sound_symbolism": "The word begins with 'si', a bright sibilant that sparkles like laughter bubbling up from within. This flows through 'o', the round vowel of wonder and wholeness, capturing joy's fullness. The final 'ra' radiates this feeling outward, sharing the warmth with all around. This three-part journey—from inner sparkle through embodied fullness to radiant sharing—mirrors how joy works: arising spontaneously within, filling our whole being, then naturally overflowing to brighten the world. The ascending vowel pattern (i-o-a) lifts like a bird taking flight, while the consonants dance lightly, impossible to speak without a hint of smile.",
+  "grammatical_notes": "Functions as noun (joy), adjective (joyful), and verb (to feel joy/to be joyful) without morphological change, similar to Mandarin kuàilè (快乐) and Indonesian gembira. The verbal usage expresses both the experience of joy and the act of rejoicing.",
+  "pillars": [
+    "solarpunk-values",
+    "secular-buddhist-philosophy",
+    "art-nouveau-aesthetics"
+  ],
+  "tags": [
+    "core-state",
+    "emotional-resonance",
+    "wellbeing"
+  ]
+}

@@ -1,28 +1,26 @@
-[
-  {
-    "word": "wema",
-    "gloss": "belong",
-    "ipa": "/ˈwe.ma/",
-    "syllables": [
-      "we",
-      "ma"
-    ],
-    "slot": null,
-    "pos": [
-      "verb"
-    ],
-    "concept": "Belong / To Have Roots in Community",
-    "description": "To be an integral and accepted part of a community, place, or relationship. It expresses the active state of having deep roots and connection within a collective.",
-    "sound_symbolism": "This two-syllable word speaks its meaning clearly: 'we' announces collective identity while 'ma' grounds it in place and presence. The nasal 'm' creates a hum of connection between the collective and the earth, embodying how true belonging roots us both in community and in place. When spoken, the word moves from open collective recognition to grounded stability, mirroring the journey from seeking connection to finding home. It is both an acknowledgment and an affirmation—yes, we are here together, held.",
-    "pillars": [
-      "solarpunk-values",
-      "peace-linguistics-practices",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "social-verb",
-      "connection",
-      "inclusion"
-    ]
-  }
-]
+{
+  "word": "wema",
+  "gloss": "belong",
+  "ipa": "/ˈwe.ma/",
+  "syllables": [
+    "we",
+    "ma"
+  ],
+  "slot": null,
+  "pos": [
+    "verb"
+  ],
+  "concept": "Belong / To Have Roots in Community",
+  "description": "To be an integral and accepted part of a community, place, or relationship. It expresses the active state of having deep roots and connection within a collective.",
+  "sound_symbolism": "This two-syllable word speaks its meaning clearly: 'we' announces collective identity while 'ma' grounds it in place and presence. The nasal 'm' creates a hum of connection between the collective and the earth, embodying how true belonging roots us both in community and in place. When spoken, the word moves from open collective recognition to grounded stability, mirroring the journey from seeking connection to finding home. It is both an acknowledgment and an affirmation—yes, we are here together, held.",
+  "pillars": [
+    "solarpunk-values",
+    "peace-linguistics-practices",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "social-verb",
+    "connection",
+    "inclusion"
+  ]
+}

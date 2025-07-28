@@ -1,28 +1,26 @@
-[
-  {
-    "word": "wheo",
-    "gloss": "elder",
-    "ipa": "/ˈʍe.o/",
-    "syllables": [
-      "whe",
-      "o"
-    ],
-    "pos": [
-      "noun",
-      "adjective"
-    ],
-    "concept": "Elder / One Who Breathes Wholeness",
-    "description": "A respected member of the community who holds wisdom from long experience. The role is defined by the ability to guide, to hold memory, and to offer a connection to the larger context of the community's story.",
-    "sound_symbolism": "The word begins with the rare and sacred 'wh', a breathy fricative that requires the fullness of breath—just as elders carry the full breath of community memory. This special sound, used sparingly in Phi, marks the reverence we hold for those who have gathered seasons of wisdom. The vowel sequence 'e.o' moves from the particular to the whole, mirroring how elders help us see our individual stories within the larger pattern. In just two syllables, the word creates a feeling of both intimacy and expansiveness—the elder as both specific person and living repository of collective wisdom.",
-    "grammatical_notes": "Functions as both noun and adjective without morphological change. Like Indonesian tetua or English 'elder' in 'elder brother,' the word can directly modify other nouns to indicate seniority or wisdom-bearing status within a relationship or role.",
-    "pillars": [
-      "pre-industrial-wisdom",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "social-role",
-      "wisdom-keeper",
-      "guidance"
-    ]
-  }
-]
+{
+  "word": "wheo",
+  "gloss": "elder",
+  "ipa": "/ˈʍe.o/",
+  "syllables": [
+    "whe",
+    "o"
+  ],
+  "pos": [
+    "noun",
+    "adjective"
+  ],
+  "concept": "Elder / One Who Breathes Wholeness",
+  "description": "A respected member of the community who holds wisdom from long experience. The role is defined by the ability to guide, to hold memory, and to offer a connection to the larger context of the community's story.",
+  "sound_symbolism": "The word begins with the rare and sacred 'wh', a breathy fricative that requires the fullness of breath—just as elders carry the full breath of community memory. This special sound, used sparingly in Phi, marks the reverence we hold for those who have gathered seasons of wisdom. The vowel sequence 'e.o' moves from the particular to the whole, mirroring how elders help us see our individual stories within the larger pattern. In just two syllables, the word creates a feeling of both intimacy and expansiveness—the elder as both specific person and living repository of collective wisdom.",
+  "grammatical_notes": "Functions as both noun and adjective without morphological change. Like Indonesian tetua or English 'elder' in 'elder brother,' the word can directly modify other nouns to indicate seniority or wisdom-bearing status within a relationship or role.",
+  "pillars": [
+    "pre-industrial-wisdom",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "social-role",
+    "wisdom-keeper",
+    "guidance"
+  ]
+}

@@ -1,28 +1,26 @@
-[
-  {
-    "word": "phena",
-    "gloss": "kind",
-    "ipa": "/ˈɸe.na/",
-    "syllables": [
-      "phe",
-      "na"
-    ],
-    "pos": [
-      "adjective",
-      "noun"
-    ],
-    "concept": "Kind / Gentle-Hearted Nature",
-    "description": "The quality of being gentle, considerate, and benevolent. Kindness is compassion in action, often expressed through small, mindful gestures that affirm connection and ease suffering.",
-    "sound_symbolism": "The soft breath of 'ph' releases gentleness into the world like a warm sigh. The grounding 'na' anchors this gentleness in consistent presence, creating a word that feels like a gentle hand resting on a shoulder - soft yet substantial, caring yet grounded.",
-    "grammatical_notes": "Functions as both adjective (kind/gentle) and noun (kindness) without morphological change, similar to the relationship between German gütig/Güte. The noun usage expresses the quality or state of being kind.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "interpersonal-virtue",
-      "social-act",
-      "compassion-in-action"
-    ]
-  }
-]
+{
+  "word": "phena",
+  "gloss": "kind",
+  "ipa": "/ˈɸe.na/",
+  "syllables": [
+    "phe",
+    "na"
+  ],
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "concept": "Kind / Gentle-Hearted Nature",
+  "description": "The quality of being gentle, considerate, and benevolent. Kindness is compassion in action, often expressed through small, mindful gestures that affirm connection and ease suffering.",
+  "sound_symbolism": "The soft breath of 'ph' releases gentleness into the world like a warm sigh. The grounding 'na' anchors this gentleness in consistent presence, creating a word that feels like a gentle hand resting on a shoulder - soft yet substantial, caring yet grounded.",
+  "grammatical_notes": "Functions as both adjective (kind/gentle) and noun (kindness) without morphological change, similar to the relationship between German gütig/Güte. The noun usage expresses the quality or state of being kind.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "interpersonal-virtue",
+    "social-act",
+    "compassion-in-action"
+  ]
+}

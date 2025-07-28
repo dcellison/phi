@@ -1,29 +1,27 @@
-[
-  {
-    "word": "komela",
-    "gloss": "encourage",
-    "ipa": "/ko.ˈme.la/",
-    "syllables": [
-      "ko",
-      "me",
-      "la"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Encourage / To Build a Bridge to the Heart",
-    "description": "The act of giving support, confidence, or hope to someone. It is the process of building a bridge to another's core to help them find their own strength.",
-    "sound_symbolism": "The word begins with 'ko', a sound of strength and presence that offers solid ground to stand upon. This flows through 'me', acknowledging the personal, heartfelt nature of true encouragement. The final 'la' carries this support forward as a path opening ahead. This three-part movement—from offered strength through personal connection to flowing path—captures how encouragement works: not pushing from behind but walking alongside, offering both strength and heart to help another find their way. The sound itself feels supportive yet gentle, firm yet flowing.",
-    "grammatical_notes": "Functions as both verb (to encourage) and noun (encouragement) without morphological change, similar to Mandarin gǔlì (鼓励) and Hindi protsahan (प्रोत्साहन). Avoids the English distinction between the act and the support itself.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "solarpunk-values"
-    ],
-    "tags": [
-      "social-act",
-      "support",
-      "empowerment"
-    ]
-  }
-]
+{
+  "word": "komela",
+  "gloss": "encourage",
+  "ipa": "/ko.ˈme.la/",
+  "syllables": [
+    "ko",
+    "me",
+    "la"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Encourage / To Build a Bridge to the Heart",
+  "description": "The act of giving support, confidence, or hope to someone. It is the process of building a bridge to another's core to help them find their own strength.",
+  "sound_symbolism": "The word begins with 'ko', a sound of strength and presence that offers solid ground to stand upon. This flows through 'me', acknowledging the personal, heartfelt nature of true encouragement. The final 'la' carries this support forward as a path opening ahead. This three-part movement—from offered strength through personal connection to flowing path—captures how encouragement works: not pushing from behind but walking alongside, offering both strength and heart to help another find their way. The sound itself feels supportive yet gentle, firm yet flowing.",
+  "grammatical_notes": "Functions as both verb (to encourage) and noun (encouragement) without morphological change, similar to Mandarin gǔlì (鼓励) and Hindi protsahan (प्रोत्साहन). Avoids the English distinction between the act and the support itself.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "solarpunk-values"
+  ],
+  "tags": [
+    "social-act",
+    "support",
+    "empowerment"
+  ]
+}

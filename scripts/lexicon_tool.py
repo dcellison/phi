@@ -18,7 +18,7 @@ import sys
 # --- Database Configuration ---
 DB_FILE = "lexicon.db"
 PROJECT_ROOT = Path(__file__).parent.parent
-VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
+LEXICON_DIR = PROJECT_ROOT / "lexicon"  # Changed from vocabulary
 DB_PATH = PROJECT_ROOT / DB_FILE
 
 # --- Main Application ---
@@ -51,17 +51,17 @@ def main():
         "add",
         help="Add a new lexicon entry."
     )
-    add_parser.add_argument("--category", required=True, help="The vocabulary subdirectory (e.g., 'natural-world-and-environment').")
     add_parser.add_argument("--word", required=True)
     add_parser.add_argument("--gloss", required=True)
     add_parser.add_argument("--ipa", required=True)
     add_parser.add_argument("--concept", required=True)
     add_parser.add_argument("--description", required=True)
-    add_parser.add_argument("--rationale", required=True)
+    add_parser.add_argument("--sound_symbolism", required=True)  # Changed from rationale
     add_parser.add_argument("--syllables", required=True, nargs='+', help="Space-separated list of syllables.")
     add_parser.add_argument("--pos", required=True, nargs='+', help="Space-separated list of parts of speech.")
     add_parser.add_argument("--pillars", required=True, nargs='+', help="Space-separated list of philosophical pillars.")
     add_parser.add_argument("--tags", required=True, nargs='+', help="Space-separated list of tags.")
+    add_parser.add_argument("--grammatical_notes", help="Cross-linguistic context (optional).")
     add_parser.add_argument("--slot", type=int, help="The grammatical slot number (optional).")
     add_parser.set_defaults(func=add_entry)
 
@@ -75,7 +75,8 @@ def main():
     update_parser.add_argument("--ipa", help="New IPA.")
     update_parser.add_argument("--concept", help="New concept.")
     update_parser.add_argument("--description", help="New description.")
-    update_parser.add_argument("--rationale", help="New rationale.")
+    update_parser.add_argument("--sound_symbolism", help="New sound symbolism.")  # Changed from rationale
+    update_parser.add_argument("--grammatical_notes", help="New grammatical notes.")
     update_parser.add_argument("--syllables", nargs='+', help="New space-separated list of syllables.")
     update_parser.add_argument("--pos", nargs='+', help="New space-separated list of parts of speech.")
     update_parser.add_argument("--pillars", nargs='+', help="New space-separated list of pillars.")
@@ -108,7 +109,7 @@ def get_status(args):
     """Audits the vocabulary against the global master list."""
     import re
 
-    master_list_path = VOCABULARY_DIR / "VOCABULARY.md"
+    master_list_path = LEXICON_DIR / "PHI_CORE_VOCABULARY.md"  # Changed filename
     
     if not master_list_path.exists():
         print(f"Error: Master list not found at {master_list_path.relative_to(PROJECT_ROOT)}", file=sys.stderr)
@@ -132,7 +133,7 @@ def get_status(args):
     print(f"Found {len(approved_glosses)} approved concepts in the master list.")
 
     # 2. Get the actual state from the filesystem
-    existing_files = {p.stem.lower() for p in VOCABULARY_DIR.glob("*.json")}
+    existing_files = {p.stem.lower() for p in LEXICON_DIR.glob("*.json")}
 
     # 3. Compare and categorize
     ok, missing, orphaned = [], [], []
@@ -207,21 +208,25 @@ def update_entry(args):
         "pos": updated_fields.get('pos', json.loads(entry['pos'])),
         "concept": updated_fields.get('concept', entry['concept']),
         "description": updated_fields.get('description', entry['description']),
-        "rationale": updated_fields.get('rationale', entry['rationale']),
+        "sound_symbolism": updated_fields.get('sound_symbolism', entry['sound_symbolism']),  # Changed
         "pillars": updated_fields.get('pillars', json.loads(entry['pillars'])),
         "tags": updated_fields.get('tags', json.loads(entry['tags'])),
     }
     
-    # Conditionally add slot
+    # Conditionally add optional fields
     slot_val = updated_fields.get('slot', entry['slot'])
     if slot_val is not None:
         json_output_entry['slot'] = slot_val
+    
+    grammatical_notes = updated_fields.get('grammatical_notes', entry.get('grammatical_notes'))
+    if grammatical_notes:
+        json_output_entry['grammatical_notes'] = grammatical_notes
 
-    # 3. Update the JSON file
+    # 3. Update the JSON file (no array wrapper)
     file_path = PROJECT_ROOT / entry['source_file']
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump([json_output_entry], f, indent=2)
+            json.dump(json_output_entry, f, indent=2, ensure_ascii=False)  # Changed: no array
         print(f"Successfully updated JSON file: {file_path.relative_to(PROJECT_ROOT)}")
     except IOError as e:
         print(f"Error writing JSON file: {e}", file=sys.stderr)
@@ -233,14 +238,15 @@ def update_entry(args):
         cursor.execute("""
         UPDATE lexicon SET
             gloss = ?, ipa = ?, syllables = ?, slot = ?, pos = ?, concept = ?,
-            description = ?, rationale = ?, pillars = ?, tags = ?
+            description = ?, sound_symbolism = ?, grammatical_notes = ?, pillars = ?, tags = ?
         WHERE word = ?
         """, (
             json_output_entry.get('gloss'), json_output_entry.get('ipa'), 
             json.dumps(json_output_entry.get('syllables')), json_output_entry.get('slot'),
             json.dumps(json_output_entry.get('pos')), json_output_entry.get('concept'), 
-            json_output_entry.get('description'), json_output_entry.get('rationale'), 
-            json.dumps(json_output_entry.get('pillars')), json_output_entry.get('tags'),
+            json_output_entry.get('description'), json_output_entry.get('sound_symbolism'), 
+            json_output_entry.get('grammatical_notes'),
+            json.dumps(json_output_entry.get('pillars')), json.dumps(json_output_entry.get('tags')),
             args.word
         ))
         conn.commit()
@@ -326,27 +332,27 @@ def add_entry(args):
         "pos": args.pos,
         "concept": args.concept,
         "description": args.description,
-        "rationale": args.rationale,
+        "sound_symbolism": args.sound_symbolism,  # Changed
         "pillars": args.pillars,
         "tags": args.tags
     }
     if args.slot is not None:
         new_entry['slot'] = args.slot
+    if args.grammatical_notes:
+        new_entry['grammatical_notes'] = args.grammatical_notes
     
-    category_path = VOCABULARY_DIR / args.category
-    category_path.mkdir(parents=True, exist_ok=True)
-    # Use the gloss for the filename, per project convention.
-    file_path = category_path / f"{args.gloss}.json"
+    # Use the gloss for the filename, directly in lexicon/
+    file_path = LEXICON_DIR / f"{args.gloss}.json"
 
     if file_path.exists():
         print(f"Error: JSON file already exists at {file_path}. Aborting.", file=sys.stderr)
         conn.close()
         sys.exit(1)
 
-    # 3. Write JSON file first (as the source of truth)
+    # 3. Write JSON file first (as the source of truth) - no array wrapper
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump([new_entry], f, indent=2)
+            json.dump(new_entry, f, indent=2, ensure_ascii=False)  # Changed: no array
         print(f"Successfully created JSON file: {file_path.relative_to(PROJECT_ROOT)}")
     except IOError as e:
         print(f"Error writing JSON file: {e}", file=sys.stderr)
@@ -358,8 +364,8 @@ def add_entry(args):
         cursor.execute("""
         INSERT INTO lexicon (
             word, gloss, ipa, syllables, slot, pos, concept, 
-            description, rationale, pillars, tags, source_file
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            description, sound_symbolism, grammatical_notes, pillars, tags, source_file
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             new_entry.get('word'),
             new_entry.get('gloss'),
@@ -369,7 +375,8 @@ def add_entry(args):
             json.dumps(new_entry.get('pos')),
             new_entry.get('concept'),
             new_entry.get('description'),
-            new_entry.get('rationale'),
+            new_entry.get('sound_symbolism'),  # Changed
+            new_entry.get('grammatical_notes'),
             json.dumps(new_entry.get('pillars')),
             json.dumps(new_entry.get('tags')),
             str(file_path.relative_to(PROJECT_ROOT))
@@ -420,7 +427,7 @@ def find_entry(args):
                 'word': entry[0],
                 'gloss': entry[1],
                 'concept': entry[6],
-                'source_file': entry[11]
+                'source_file': entry[12]  # Adjusted index for new column
             }
             print(json.dumps(entry_dict, indent=2))
         sys.exit(1)
@@ -428,15 +435,15 @@ def find_entry(args):
 
 def init_db(args):
     """
-    Scans the vocabulary directory, creates a new SQLite database,
+    Scans the lexicon directory, creates a new SQLite database,
     and populates it with all lexicon entries from the JSON files.
     """
     print("Initializing lexicon database...")
     
     # 1. Find all JSON files
-    json_files = sorted(list(VOCABULARY_DIR.glob("**/*.json")))
+    json_files = sorted(list(LEXICON_DIR.glob("*.json")))  # Changed: no subdirs
     if not json_files:
-        print("Error: No .json files found in the vocabulary directory.", file=sys.stderr)
+        print("Error: No .json files found in the lexicon directory.", file=sys.stderr)
         sys.exit(1)
         
     print(f"Found {len(json_files)} JSON files to process.")
@@ -452,9 +459,7 @@ def init_db(args):
         print(f"Database error: {e}", file=sys.stderr)
         sys.exit(1)
 
-    # 3. Create Table
-    # Based on schema.json, but simplified for DB storage.
-    # Arrays will be stored as JSON strings.
+    # 3. Create Table with updated schema
     cursor.execute("""
     CREATE TABLE lexicon (
         word TEXT PRIMARY KEY,
@@ -465,7 +470,8 @@ def init_db(args):
         pos TEXT,
         concept TEXT,
         description TEXT,
-        rationale TEXT,
+        sound_symbolism TEXT,
+        grammatical_notes TEXT,
         pillars TEXT,
         tags TEXT,
         source_file TEXT NOT NULL
@@ -478,32 +484,33 @@ def init_db(args):
     for file_path in json_files:
         with open(file_path, 'r', encoding='utf-8') as f:
             try:
-                data = json.load(f)
-                for entry in data:
-                    # Ensure all required keys are present
-                    if not all(k in entry for k in ['word', 'gloss']):
-                        continue
+                entry = json.load(f)  # Changed: expect single object, not array
+                
+                # Ensure all required keys are present
+                if not all(k in entry for k in ['word', 'gloss']):
+                    continue
 
-                    cursor.execute("""
-                    INSERT INTO lexicon (
-                        word, gloss, ipa, syllables, slot, pos, concept, 
-                        description, rationale, pillars, tags, source_file
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    """, (
-                        entry.get('word'),
-                        entry.get('gloss'),
-                        entry.get('ipa'),
-                        json.dumps(entry.get('syllables')),
-                        entry.get('slot'),
-                        json.dumps(entry.get('pos')),
-                        entry.get('concept'),
-                        entry.get('description'),
-                        entry.get('rationale'),
-                        json.dumps(entry.get('pillars')),
-                        json.dumps(entry.get('tags')),
-                        str(file_path.relative_to(PROJECT_ROOT))
-                    ))
-                    entries_added += 1
+                cursor.execute("""
+                INSERT INTO lexicon (
+                    word, gloss, ipa, syllables, slot, pos, concept, 
+                    description, sound_symbolism, grammatical_notes, pillars, tags, source_file
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, (
+                    entry.get('word'),
+                    entry.get('gloss'),
+                    entry.get('ipa'),
+                    json.dumps(entry.get('syllables')),
+                    entry.get('slot'),
+                    json.dumps(entry.get('pos')),
+                    entry.get('concept'),
+                    entry.get('description'),
+                    entry.get('sound_symbolism'),  # Changed from rationale
+                    entry.get('grammatical_notes'),  # New field
+                    json.dumps(entry.get('pillars')),
+                    json.dumps(entry.get('tags')),
+                    str(file_path.relative_to(PROJECT_ROOT))
+                ))
+                entries_added += 1
             except json.JSONDecodeError:
                 print(f"Warning: Could not parse {file_path}", file=sys.stderr)
             except sqlite3.IntegrityError as e:

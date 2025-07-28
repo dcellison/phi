@@ -1,29 +1,27 @@
-[
-  {
-    "word": "whelani",
-    "gloss": "welcome",
-    "ipa": "/ˈʍe.la.ni/",
-    "syllables": [
-      "whe",
-      "la",
-      "ni"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Welcome / To Receive the Self of Another",
-    "description": "The warm, heartfelt reception of another into one's presence or space. It is the act that confirms and validates an invitation.",
-    "sound_symbolism": "The breathy 'wh' opens like a door swinging wide, creating immediate space for the other. The flowing 'la' extends this openness outward like arms reaching in embrace, while the intimate 'ni' draws close with personal warmth. This progression from spatial opening through extending movement to intimate connection captures the full arc of welcome - from the first gesture of invitation to the final moment of heartfelt reception.",
-    "grammatical_notes": "Functions as both verb (to welcome) and noun (a welcome) without morphological change, similar to Mandarin huānyíng (欢迎). The noun usage expresses the act or gesture of welcoming.",
-    "pillars": [
-      "peace-linguistics-practices",
-      "secular-buddhist-philosophy"
-    ],
-    "tags": [
-      "social-act",
-      "reception",
-      "hospitality"
-    ]
-  }
-]
+{
+  "word": "whelani",
+  "gloss": "welcome",
+  "ipa": "/ˈʍe.la.ni/",
+  "syllables": [
+    "whe",
+    "la",
+    "ni"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Welcome / To Receive the Self of Another",
+  "description": "The warm, heartfelt reception of another into one's presence or space. It is the act that confirms and validates an invitation.",
+  "sound_symbolism": "The breathy 'wh' opens like a door swinging wide, creating immediate space for the other. The flowing 'la' extends this openness outward like arms reaching in embrace, while the intimate 'ni' draws close with personal warmth. This progression from spatial opening through extending movement to intimate connection captures the full arc of welcome - from the first gesture of invitation to the final moment of heartfelt reception.",
+  "grammatical_notes": "Functions as both verb (to welcome) and noun (a welcome) without morphological change, similar to Mandarin huānyíng (欢迎). The noun usage expresses the act or gesture of welcoming.",
+  "pillars": [
+    "peace-linguistics-practices",
+    "secular-buddhist-philosophy"
+  ],
+  "tags": [
+    "social-act",
+    "reception",
+    "hospitality"
+  ]
+}

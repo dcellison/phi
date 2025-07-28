@@ -1,30 +1,28 @@
-[
-  {
-    "word": "pheloma",
-    "gloss": "serve",
-    "ipa": "/ɸe.ˈlo.ma/",
-    "syllables": [
-      "phe",
-      "lo",
-      "ma"
-    ],
-    "pos": [
-      "verb",
-      "noun"
-    ],
-    "concept": "Serve / To Give with Grounded Joy",
-    "description": "The act of contributing one's gifts and energy to the collective wellbeing with joy and purpose. It is the understanding that individual and collective thriving are inseparable, expressed through action.",
-    "sound_symbolism": "The giving breath of 'ph' initiates the act of service. The connecting 'lo' links giver to receiver in flowing exchange, while the grounding 'ma' ensures this service comes from a place of stability and truth. Together they create a word that feels like a well giving water - naturally, continuously, from a deep source of abundance.",
-    "grammatical_notes": "Functions as both verb (to serve) and noun (service) without morphological change, similar to Hindi sevā (सेवा) and Mandarin fúwù (服务). The noun usage expresses the act or practice of serving.",
-    "pillars": [
-      "secular-buddhist-philosophy",
-      "peace-linguistics-practices",
-      "solarpunk-values"
-    ],
-    "tags": [
-      "social-act",
-      "joyful-action",
-      "community-building"
-    ]
-  }
-]
+{
+  "word": "pheloma",
+  "gloss": "serve",
+  "ipa": "/ɸe.ˈlo.ma/",
+  "syllables": [
+    "phe",
+    "lo",
+    "ma"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
+  "concept": "Serve / To Give with Grounded Joy",
+  "description": "The act of contributing one's gifts and energy to the collective wellbeing with joy and purpose. It is the understanding that individual and collective thriving are inseparable, expressed through action.",
+  "sound_symbolism": "The giving breath of 'ph' initiates the act of service. The connecting 'lo' links giver to receiver in flowing exchange, while the grounding 'ma' ensures this service comes from a place of stability and truth. Together they create a word that feels like a well giving water - naturally, continuously, from a deep source of abundance.",
+  "grammatical_notes": "Functions as both verb (to serve) and noun (service) without morphological change, similar to Hindi sevā (सेवा) and Mandarin fúwù (服务). The noun usage expresses the act or practice of serving.",
+  "pillars": [
+    "secular-buddhist-philosophy",
+    "peace-linguistics-practices",
+    "solarpunk-values"
+  ],
+  "tags": [
+    "social-act",
+    "joyful-action",
+    "community-building"
+  ]
+}
