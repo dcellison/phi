@@ -13,13 +13,8 @@
   "concept": "Acknowledge / To Make a Presence Whole",
   "description": "The act of seeing and validating the presence or truth of another being or situation. It is a gift of recognition that confirms reality and makes the other feel seen.",
   "sound_symbolism": "The word begins with the thoughtful fricative 'th', a sound that requires deliberate breath and tongue placement—mirroring the mindful attention that true acknowledgment demands. The sharp clarity of 'k' cuts through inattention, creating a moment of crisp recognition, before opening into the rounded fullness of 'a.o'. This phonetic journey from careful attention through decisive recognition to expansive embrace embodies the Peace Linguistics practice of making another's presence truly felt and valued.",
-  "pillars": [
-    "peace-linguistics-practices",
-    "secular-buddhist-philosophy"
-  ],
-  "tags": [
-    "cognition",
-    "validation",
-    "mindful-practice"
-  ]
+  "pillars": {
+    "peace-linguistics-practices": "Acknowledgment is fundamental to nonviolent communication - the practice of truly seeing and validating another's presence or truth creates the foundation for peaceful dialogue. This act of recognition prevents the violence of invisibility and dismissal.",
+    "secular-buddhist-philosophy": "The concept embodies mindful awareness and the practice of being fully present with another being. It reflects the Buddhist understanding that true acknowledgment requires setting aside ego to genuinely witness another's reality without judgment."
+  }
 }

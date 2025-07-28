@@ -11,15 +11,10 @@
     "noun"
   ],
   "concept": "Ceremony / A Structured Collective Presence",
-  "description": "A formal event of a religious or public nature, involving a series of actions performed in a prescribed order to mark a specific occasion or affirm collective values.",
+  "description": "A formal event of communal significance, involving a series of actions performed in a prescribed order to mark transitions, celebrate milestones, or affirm collective values and bonds.",
   "sound_symbolism": "The word opens with the reverent fricative 'th', requiring the same deliberate breath we take when entering sacred space. The rounded 'o' creates a sense of containment and wholeness, like a circle of participants. The rolling 'r' introduces movement and ritual flow, before opening into the expansive vowel sequence 'e.a' that releases the ceremony's energy into the world. This phonetic journey—from reverent breath through contained wholeness to flowing release—mirrors the very structure of ceremony itself: we gather with intention, hold space together, and send our collective energy outward. The word carries dignity without stiffness, formality with grace.",
-  "pillars": [
-    "pre-industrial-wisdom",
-    "peace-linguistics-practices"
-  ],
-  "tags": [
-    "support-role",
-    "social-act",
-    "tradition"
-  ]
+  "pillars": {
+    "pre-industrial-wisdom": "Ceremonies represent humanity's ancient technology for marking time, transitions, and collective meaning. Traditional societies understand that formal rituals create containers for community transformation - whether celebrating harvest, mourning loss, or welcoming new members. These structured gatherings weave individual experiences into the larger fabric of communal life.",
+    "peace-linguistics-practices": "Ceremony creates peaceful space through agreed-upon structures that allow diverse participants to gather safely. By establishing clear forms and shared intentions, ceremonies prevent conflict through inclusion and mutual recognition. They transform potential sites of tension (transitions, losses, celebrations) into opportunities for collective healing and affirmation."
+  }
 }

@@ -53,18 +53,31 @@
       "description": "Cross-linguistic context explaining the word's grammatical flexibility and syntactic patterns."
     },
     "pillars": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "enum": [
-          "solarpunk-values",
-          "secular-buddhist-philosophy",
-          "art-nouveau-aesthetics",
-          "peace-linguistics-practices",
-          "pre-industrial-wisdom"
-        ]
+      "type": "object",
+      "properties": {
+        "solarpunk-values": {
+          "type": "string",
+          "description": "Rationale for how this concept embodies solarpunk values."
+        },
+        "secular-buddhist-philosophy": {
+          "type": "string",
+          "description": "Rationale for how this concept embodies secular Buddhist philosophy."
+        },
+        "art-nouveau-aesthetics": {
+          "type": "string",
+          "description": "Rationale for how this concept embodies Art Nouveau aesthetics."
+        },
+        "peace-linguistics-practices": {
+          "type": "string",
+          "description": "Rationale for how this concept embodies peace linguistics practices."
+        },
+        "pre-industrial-wisdom": {
+          "type": "string",
+          "description": "Rationale for how this concept embodies pre-industrial wisdom."
+        }
       },
-      "description": "The philosophical pillars this concept primarily embodies."
+      "additionalProperties": false,
+      "description": "The philosophical pillars this concept primarily embodies, with rationales for each."
     },
     "tags": {
       "type": "array",
@@ -83,8 +96,7 @@
     "concept",
     "description",
     "sound_symbolism",
-    "pillars",
-    "tags"
+    "pillars"
   ],
   "additionalProperties": false
 }
