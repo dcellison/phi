@@ -9,13 +9,16 @@
       "la"
     ],
     "pos": [
-      "verb"
+      "verb",
+      "noun"
     ],
     "concept": "Observe / To See with Mindful Presence",
     "description": "The act of watching something carefully and with attention, noticing details and patterns without judgment. It is a mindful seeing that leads to insight.",
-    "rationale": "The clear 'so' brings the light of awareness to what is being observed. The personal 'me' acknowledges that observation is never purely objective but involves the observer's presence. The flowing 'la' allows perception to move naturally, following what emerges rather than forcing interpretation. This creates a word that embodies contemplative observation - clear, present, and flowing with what is.",
+    "sound_symbolism": "The clear 'so' brings the light of awareness to what is being observed. The personal 'me' acknowledges that observation is never purely objective but involves the observer's presence. The flowing 'la' allows perception to move naturally, following what emerges rather than forcing interpretation. This creates a word that embodies contemplative observation - clear, present, and flowing with what is.",
+    "grammatical_notes": "Functions as both verb (to observe) and noun (observation) without morphological change, similar to Mandarin guānchá (观察). The noun usage expresses both the act and result of observing.",
     "pillars": [
-      "secular-buddhist-philosophy"
+      "secular-buddhist-philosophy",
+      "solarpunk-values"
     ],
     "tags": [
       "cognition",
