@@ -1,0 +1,21 @@
+{
+  "word": "su",
+  "gloss": "OPT",
+  "ipa": "/su/",
+  "syllables": [
+    "su"
+  ],
+  "pos": [
+    "particle"
+  ],
+  "slot": 0,
+  "concept": "Wish / Hope / Prayer",
+  "description": "A clause-initial particle that frames statements as hopes, wishes, or prayers. Unlike commands that impose will or questions that seek information, 'su' releases desires into the world with open hands, acknowledging that the deepest hopes require receptivity rather than force.",
+  "sound_symbolism": "The particle begins with 's', the soft sibilant that flows like a whispered prayer or gentle aspiration. This breath of hope meets 'u', the deep back vowel that resonates in the chest where hopes are held. Together, 'su' creates a sound like a sigh of longing—neither demanding nor grasping, but releasing desire with trust. The acoustic gentleness ensures that even the strongest wishes avoid becoming desperate claims, maintaining the spiritual quality of hope that knows how to wait.",
+  "grammatical_notes": "Occupies Slot 0, transforming entire clauses into optative expressions. Unlike 'whe' which marks unreality, 'su' marks desired reality—what the speaker hopes might come to be. Can express wishes for oneself, others, or situations. Often used in blessings, ceremonial language, and expressions of goodwill. The particle maintains its hopeful quality regardless of whether the wish seems likely or unlikely to be fulfilled.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The particle embodies the practice of aspiration without attachment—expressing hopes while maintaining equanimity about outcomes. Like the bodhisattva vow that aspires to impossible compassion, 'su' enables wishes that inspire action without demanding results.",
+    "pre-industrial-wisdom": "Traditional prayers and blessings understand that speaking hopes aloud has power—not to compel but to align community intention. 'Su' carries this understanding that collective wishes, gently held, can shape reality through patient cultivation rather than force.",
+    "solarpunk-values": "Building better futures requires the ability to imagine and wish for what doesn't yet exist. 'Su' creates grammatical space for aspirational thinking, for expressing the hopes that guide action toward regenerative possibilities."
+  }
+}

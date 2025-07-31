@@ -1,0 +1,21 @@
+{
+  "word": "sho",
+  "gloss": "QUOT",
+  "ipa": "/ʃo/",
+  "syllables": [
+    "sho"
+  ],
+  "pos": [
+    "particle"
+  ],
+  "slot": 2,
+  "concept": "Quote / Direct Speech / Verbatim",
+  "description": "A word-level particle that marks the following words as direct quotation, preserving another's speech in its original form. More than grammatical marking, 'sho' acknowledges the sacred responsibility of carrying another's words, the trust required when we become vessels for voices not our own.",
+  "sound_symbolism": "The particle begins with 'ʃ', the soft fricative that sounds like whispered speech itself—the rustle of words passing from one person to another. This speech-like consonant meets 'o', the round vowel of containment and wholeness. Together, 'sho' creates a sound of careful carrying: the 'ʃ' evokes speech while the 'o' holds it whole and unbroken. The acoustic gentleness ensures that quoted words are cradled rather than captured, honored rather than appropriated.",
+  "grammatical_notes": "Occupies Slot 2, appearing at the beginning of direct quotations. Scope extends until the end of the quoted material, which may be marked by intonation, pause, or context. Unlike many languages, does not require closing quotation marker—'sho' opens the quote and natural speech boundaries close it. Can quote words, phrases, or entire discourses. Maintains the grammatical structure of the original utterance within the quote.",
+  "pillars": {
+    "peace-linguistics-practices": "By marking quotes explicitly, 'sho' prevents the violence of misrepresentation. It creates clear boundaries between our words and others', reducing the harm that comes from twisted quotations or words taken out of context. The soft sound reminds us to handle others' words gently.",
+    "secular-buddhist-philosophy": "The particle embodies Right Speech in its most literal form—accurately transmitting what was said. Like the Buddhist emphasis on precise transmission of teachings, 'sho' creates grammatical mindfulness about the difference between interpretation and quotation.",
+    "pre-industrial-wisdom": "Oral traditions understand the sacred trust of carrying others' words—stories, teachings, and messages passed verbatim across generations. 'Sho' carries this reverence for exact transmission, acknowledging that some words must be preserved unchanged."
+  }
+}
