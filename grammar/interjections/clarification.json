@@ -1,0 +1,21 @@
+{
+  "word": "hao",
+  "gloss": "CLAR",
+  "ipa": "/ha.o/",
+  "syllables": [
+    "ha",
+    "o"
+  ],
+  "pos": [
+    "interjection"
+  ],
+  "concept": "What? / Pardon? / Clarification Request",
+  "description": "An interjection requesting clarification or repetition when something was not heard or understood. More than mechanical repetition request, 'hao' acknowledges the collaborative nature of communication—that understanding requires both speaker and listener to work together across the gaps that naturally arise.",
+  "sound_symbolism": "The interjection begins with 'h', the gentlest consonant—pure breath without obstruction, like a soft exhalation of confusion. This meets 'a', the most open vowel, creating space for the unknown. The hiatus between 'a' and 'o' creates a natural pause—a breath between not-knowing and seeking-to-know. The final 'o' rounds into receptivity, opening space for clarification. The CVV structure with vowel hiatus makes the word feel like a gentle opening rather than a sharp demand.",
+  "grammatical_notes": "Functions as a complete utterance, typically with rising intonation to signal its interrogative nature. Stands alone without requiring syntactic integration. The same form serves whether the issue is acoustic (didn't hear), linguistic (didn't understand the words), or conceptual (didn't grasp the meaning). Tone and context disambiguate the specific type of clarification needed. The vowel hiatus allows for natural prosodic variation.",
+  "pillars": {
+    "peace-linguistics-practices": "By using the softest possible sounds for clarification requests, 'hao' prevents the potential violence of sharp 'WHAT?' demands. It transforms moments of non-understanding from confrontation into collaboration, making it safe to admit when we haven't understood.",
+    "secular-buddhist-philosophy": "The interjection embodies beginner's mind—the willingness to acknowledge not-knowing without shame. Like the practice of inquiry in meditation, 'hao' creates space for patient clarification rather than pretending to understand.",
+    "pre-industrial-wisdom": "Oral cultures understand that knowledge transmission requires active checking and re-checking. 'Hao' carries this wisdom that understanding is iterative, that asking for clarification honors both the message and the messenger."
+  }
+}
