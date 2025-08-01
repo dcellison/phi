@@ -1,0 +1,20 @@
+{
+  "word": "hamo",
+  "gloss": "SIX",
+  "ipa": "/ha.mo/",
+  "syllables": [
+    "ha",
+    "mo"
+  ],
+  "pos": [
+    "numeral"
+  ],
+  "concept": "Six / Beyond Hand / First Extension",
+  "description": "The numeral representing the first step beyond the hand, requiring a shift in counting strategy. More than simple addition, 'hamo' acknowledges the cognitive leap when embodied counting must become systematic—the moment mathematics begins to abstract from pure physicality.",
+  "sound_symbolism": "The word begins with 'h', the breathy consonant of reaching beyond, like an exhalation when extending past comfort. This meets 'a', the open vowel of expansion. The transition through 'm', the closing nasal, to 'o', the round vowel of completion, creates a journey from extension to new wholeness. The progression from breathy reach ('ha') to rounded completion ('mo') mirrors how six works—stretching beyond the familiar into new completeness.",
+  "grammatical_notes": "Functions as the sixth cardinal numeral, marking the beginning of compound counting in many traditional systems. Requires the plural particle 'lo' when modifying nouns. Often conceptualized as 'hand plus one' in gesture or thought, though the word itself is atomic. May appear in expressions related to going beyond, exceeding limits, or systematic organization.",
+  "pillars": {
+    "pre-industrial-wisdom": "Traditional counting systems often show special treatment at six—the point where fingers alone aren't enough. 'Hamo' carries this recognition of the threshold where simple becomes systematic.",
+    "solarpunk-values": "Working groups often function best at around six members—large enough for diversity, small enough for consensus. 'Hamo' represents the sweet spot for collaborative decision-making in regenerative communities."
+  }
+}
