@@ -1,0 +1,14 @@
+{
+  "word": "phisu",
+  "gloss": "EXMP",
+  "ipa": "/ɸi.su/",
+  "syllables": ["phi", "su"],
+  "pos": ["discourse"],
+  "english": "for example",
+  "pillars": {
+    "peace-linguistics-practices": "provides gentle illustration to support understanding without imposing interpretation",
+    "linguistic-minimalism": "marks illustrative examples with minimal morphological machinery"
+  },
+  "description": "Discourse marker introducing concrete examples or specific illustrations of abstract concepts. The breathy initial /ɸ/ suggests gentle offering rather than forceful demonstration.",
+  "grammatical_notes": "As a discourse marker, appears sentence-initially to introduce specific examples or concrete illustrations. When sentence-initial, follows Slot 0 particles but precedes the subject. Transitions from abstract or general statements to concrete instances."
+}
