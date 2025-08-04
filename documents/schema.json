@@ -80,11 +80,11 @@
       "description": "The philosophical pillars this concept primarily embodies, with rationales for each."
     },
     "tags": {
-      "type": "array",
-      "items": {
+      "type": "object",
+      "additionalProperties": {
         "type": "string"
       },
-      "description": "Categorical tags."
+      "description": "Semantic domain tags with brief rationales explaining how this word relates to each domain."
     }
   },
   "required": [

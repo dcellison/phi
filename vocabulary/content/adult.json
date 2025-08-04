@@ -17,5 +17,9 @@
   "grammatical_notes": "Functions as both noun and adjective across languages without morphological change. Similar to English 'adult/adult', Mandarin chéngrén (成人 'become-person'), Japanese otona (大人 'big-person'), Indonesian dewasa, and Hindi vayask (वयस्क). The adjectival use describes mature qualities or characteristics suited for adults.",
   "pillars": {
     "pre-industrial-wisdom": "The concept of adulthood as a recognized life stage with specific responsibilities and wisdom is fundamental to traditional societies. The metaphor of 'ripening' and the emphasis on giving back to community reflect pre-industrial understanding of maturity as integration into the cycles of communal life, not just individual achievement."
+  },
+  "tags": {
+    "community": "embodies responsibility and contribution to collective wellbeing",
+    "temporal": "represents ripened maturity as a life stage"
   }
 }
