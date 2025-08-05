@@ -2,14 +2,8 @@
   "word": "lopia",
   "gloss": "child",
   "ipa": "/lo.ˈpi.a/",
-  "syllables": [
-    "lo",
-    "pi",
-    "a"
-  ],
-  "pos": [
-    "noun"
-  ],
+  "syllables": ["lo", "pi", "a"],
+  "pos": ["noun"],
   "concept": "Child / A Being of Gentle Purpose",
   "description": "A new being in the process of becoming, held as a sacred trust by the community. The focus is on their inherent potential and the gentle purpose unfolding within them.",
   "sound_symbolism": "The word bubbles with life: 'lo' rolls playfully like a ball bouncing, while 'pi' adds a light, popping quality—the sound of discovery and delight. The final 'a' opens into wonder, that wide-eyed amazement children bring to every moment. The liquid and plosive sounds dance together, creating a word that feels like laughter and movement. Yet within this playfulness lies depth—the three syllables give weight to the sacred responsibility of nurturing young life. This is a word that smiles when spoken, embodying both the joy and the profound trust of childhood.",
@@ -17,5 +11,10 @@
     "pre-industrial-wisdom": "Traditional societies understand children as held in trust by the entire community, not owned by individual parents. This collective responsibility for nurturing the young reflects deep wisdom about how human potential unfolds through relationship and that a child's wellbeing is inseparable from the community's future vitality.",
     "solarpunk-values": "Children embody the living future that solarpunk works to create - they are why we build sustainable systems and regenerative cultures. The movement recognizes that true sustainability means creating conditions where all children can thrive, inheriting a world of abundance rather than scarcity, possibility rather than limitation.",
     "secular-buddhist-philosophy": "Children exemplify beginner's mind - approaching each moment with fresh curiosity and wonder. They remind us of our fundamental interconnectedness, as their wellbeing depends entirely on the care of others. In nurturing children, we practice compassion and recognize that their becoming is inseparable from our own continued growth."
+  },
+  "tags": {
+    "community": "held as sacred trust by collective responsibility",
+    "temporal": "embodies process of becoming and living future",
+    "nature": "unfolds inherent potential through organic growth"
   }
 }

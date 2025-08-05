@@ -2,15 +2,8 @@
   "word": "thomari",
   "gloss": "courage",
   "ipa": "/θo.ˈma.ri/",
-  "syllables": [
-    "tho",
-    "ma",
-    "ri"
-  ],
-  "pos": [
-    "noun",
-    "adjective"
-  ],
+  "syllables": ["tho", "ma", "ri"],
+  "pos": ["noun", "adjective"],
   "concept": "Courage / Peaceful Strength",
   "description": "The strength to act with integrity despite fear. This is not the courage of aggression, but the moral bravery to be vulnerable, to speak compassionate truth, and to act for the collective good even when it is difficult.",
   "sound_symbolism": "The word begins with the thoughtful 'th', requiring the same deliberate breath that true courage demands—not impulsive bravery but considered action. The rounded 'o' creates wholeness and centeredness. The grounding 'ma' roots this strength in the earth, in the body, in presence. Finally, 'ri' rises with quiet determination, like a flame that cannot be extinguished. This three-syllable journey—from thoughtful preparation through grounded presence to rising action—embodies courage as both an inner state and outer expression. It sounds like a heart beating steadily in the face of fear.",
@@ -18,5 +11,10 @@
   "pillars": {
     "peace-linguistics-practices": "Courage in peace linguistics is the strength to remain nonviolent when provoked, to speak truth when silence would be easier, and to show vulnerability when armor seems safer. This courage transforms conflict by refusing to meet aggression with aggression, instead responding with the greater strength of compassionate presence and moral clarity.",
     "secular-buddhist-philosophy": "True courage emerges from facing reality as it is - the bravery to sit with discomfort, acknowledge suffering, and act from compassion rather than fear. This reflects the practice of turning toward difficulty with an open heart, understanding that running from fear only strengthens it, while meeting it with mindful awareness transforms it into wisdom."
+  },
+  "tags": {
+    "emotion": "transforms fear through compassionate presence",
+    "wisdom": "faces reality with mindful awareness and integrity",
+    "physical": "grounds strength in steady heartbeat and breath"
   }
 }

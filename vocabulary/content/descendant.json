@@ -2,19 +2,18 @@
   "word": "lumira",
   "gloss": "descendant",
   "ipa": "/lu.ˈmi.ra/",
-  "syllables": [
-    "lu",
-    "mi",
-    "ra"
-  ],
-  "pos": [
-    "noun"
-  ],
+  "syllables": ["lu", "mi", "ra"],
+  "pos": ["noun"],
   "concept": "Descendant / A Generative, Standing Being",
   "description": "Those who come after, for whom a path is cleared and a legacy is left. They are the future beings who will stand on the foundation created by the present.",
   "sound_symbolism": "This word echoes its elder 'thalume' (ancestor) through the flowing 'lum' that carries lineage forward like a river carrying life. But where 'thalume' begins with reverent breath and ends in grounding, 'lumira' starts with that ancestral flow and brightens into 'mi.ra'—the personal spark rising into future radiance. The progression from flowing heritage through individual presence to bright possibility captures how descendants are both continuations and new beginnings. They carry the stream forward while adding their own light to the flow.",
   "pillars": {
     "solarpunk-values": "Descendants embody the future we build for - they are why solarpunk insists on regenerative systems and long-term thinking. Every design choice, every technology, every social structure must consider its impact seven generations forward. Our descendants are not abstract future beings but present responsibilities that shape every decision toward creating conditions for their flourishing.",
     "pre-industrial-wisdom": "Traditional societies understand descendants as sacred responsibilities - we are temporary caretakers preparing the world for those who come after. This wisdom teaches that our actions ripple forward through generations, and that true wealth lies not in what we accumulate but in what we leave behind for our descendants to build upon."
+  },
+  "tags": {
+    "community": "continues lineage as future bearers of collective legacy",
+    "temporal": "embodies future generations receiving present foundations",
+    "nature": "flows forward like rivers carrying ancestral streams"
   }
 }
