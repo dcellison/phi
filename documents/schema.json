@@ -52,6 +52,10 @@
       "type": "string",
       "description": "Cross-linguistic context explaining the word's grammatical flexibility and syntactic patterns."
     },
+    "image_prompt": {
+      "type": "string",
+      "description": "A detailed prompt for generating a visual representation of the word's essence, incorporating its sound symbolism, philosophical connections, and conceptual meaning."
+    },
     "pillars": {
       "type": "object",
       "properties": {
