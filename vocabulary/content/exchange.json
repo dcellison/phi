@@ -7,9 +7,13 @@
   "concept": "Exchange / An Open Breath",
   "description": "The dynamic, reciprocal flow of giving and receiving that creates relationship and value. It is the breath of a community's economic and social life.",
   "sound_symbolism": "The word begins with 'no', a sound of thoughtful intention, the pause before offering that ensures the gift is right. This flows through 'we', the collective sound that acknowledges exchange as fundamentally communal—never just between two but rippling through relationships. The final 'la' carries this reciprocity forward in continuous flow. This progression—from mindful intention through collective awareness to flowing continuation—captures exchange as conscious community practice rather than mere transaction. The alternating consonants (n-w-l) create a weaving pattern, like hands passing gifts back and forth, while the vowel journey (o-e-a) moves from internal consideration to external connection.",
+  "image_prompt": "Art Nouveau watercolor: Flowing figure-eight of rose and sage streams passing through each other's paths. Where they cross, new colors bloom - coral-sage greens, rose-touched grays. Mucha's infinity curves suggest endless reciprocity. Golden droplets transfer between flows marking moments of giving. Wet-on-wet technique allows colors to share essence while maintaining identity. Pearl spirals show value multiplying through circulation. White space breathes between exchanges. Style: Gift economy flows meet Art Nouveau infinite exchange.",
   "pillars": {
     "pre-industrial-wisdom": "Exchange in traditional societies operates through gift economies and reciprocal relationships that build social bonds rather than accumulate individual wealth. This wisdom understands that true abundance comes from circulation, not hoarding - that gifts create obligations that weave communities together in webs of mutual support.",
     "peace-linguistics-practices": "Exchange as reciprocal flow creates conditions for peace by establishing interdependence and shared investment in each other's wellbeing. When we exchange rather than take, we acknowledge the other as equal partner in creating value, preventing the violence of exploitation and building relationships based on mutual benefit.",
     "solarpunk-values": "Exchange in solarpunk vision moves beyond market transaction to regenerative circulation - sharing economies, tool libraries, seed swaps, and skill shares that multiply abundance through distribution. This practice recognizes that many forms of wealth grow rather than diminish when exchanged."
+  },
+  "tags": {
+    "community": "weaves relationships through reciprocal giving and receiving"
   }
 }
