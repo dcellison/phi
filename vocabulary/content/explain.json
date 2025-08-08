@@ -7,9 +7,14 @@
   "concept": "Explain / To Make a Path Clear",
   "description": "The act of making an idea or situation clear to someone by describing it in more detail. It is the process of illuminating a path of understanding.",
   "sound_symbolism": "The word begins with 'so', a sound of patient unfolding, like laying out threads one by one to reveal a pattern. This flows through 'la', creating movement along the path of understanding, guiding another's mind step by step. The final 'e' reaches out gently, touching the listener's comprehension without forcing. This three-syllable journey mirrors the act of explanation itself: starting with patient clarity, moving through guided progression, ending with gentle connection. The vowel sequence (o-a-e) creates an opening movement, like doors opening one after another to reveal what lies within. The sound feels unhurried and generous, giving understanding the time it needs to bloom.",
+  "image_prompt": "Art Nouveau watercolor: Tangled lavender confusion at left gradually separates into clear streams - rose, mint, gold - each finding its own path. Mucha's guiding curves lead eye from complexity to clarity. Soft yellow light washes illuminate each strand as it untangles. Wet-on-wet allows natural revelation as colors distinguish themselves. Pearl droplets mark moments of understanding. Patient white space between streams lets each concept breathe. Rightward flow shows progression to comprehension. Style: Unraveling understanding meets Art Nouveau illumination.",
   "grammatical_notes": "Functions as both verb (to explain) and noun (an explanation) without morphological change, similar to Mandarin jiěshì (解释) and Arabic sharḥ (شرح). The same form expresses both the act of clarifying and the clarification itself.",
   "pillars": {
     "peace-linguistics-practices": "Explanation serves peace by transforming confusion into clarity, preventing the conflicts that arise from misunderstanding. Patient explanation acknowledges the dignity of the learner, creating conditions where questions are welcomed and understanding can grow without shame or pressure. This practice builds bridges across differences in knowledge without creating hierarchies of worth.",
     "secular-buddhist-philosophy": "To explain skillfully embodies the principle of skillful means - adapting our communication to meet others where they are, using metaphors and examples that resonate with their experience. It requires the patience to let understanding unfold naturally and the wisdom to know that true comprehension cannot be forced but must arise from within the learner's own insight."
+  },
+  "tags": {
+    "dialogue": "illuminates understanding through detailed communication",
+    "cognition": "guides minds along paths of comprehension"
   }
 }

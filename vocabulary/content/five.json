@@ -7,9 +7,14 @@
   "concept": "Five / Hand / Human Scale",
   "description": "The numeral representing the human hand, the most basic counting tool, the scale at which we naturally work. More than quantity, 'penu' acknowledges the grounding of mathematics in embodied experience—we count on fingers, grasp with five, create at hand scale.",
   "sound_symbolism": "The word begins with 'p', the gentle plosive of touch and contact—lips meeting like fingers coming together. This meets 'e', the clear mid vowel of conscious action. The flow through 'n', the grounding nasal, to 'u', the deep back vowel, creates a journey from contact to depth. The progression from gentle touch ('pe') to grounded depth ('nu') mirrors how five connects the tangible to the profound.",
+  "image_prompt": "Art Nouveau watercolor: Soft sky blue morphs into palest apricot, forming five delicate rays that bloom outward like opening petals. Mucha's flowing lines create organic star pattern, each ray distinct yet unified.  Transparent washes of lavender and mint overlap where forms meet, creating luminous intersections. Center glows with pearl and blush, radiating gentle energy. Wet-on-wet bleeds create natural gradients from core to tips.  Whispers of rose gold define edges without constraining. White space dances between forms like breath. Style: Five-fold harmony meets Art Nouveau's ethereal touch.",
   "grammatical_notes": "Functions as the fifth cardinal numeral, often associated with human-scale quantities and hand-based counting systems. Requires the plural particle 'lo' when modifying nouns. May appear in expressions related to manual work, human cooperation, and embodied knowledge. Sometimes used as a base unit for larger counting (fives and tens).",
   "pillars": {
     "pre-industrial-wisdom": "Traditional counting begins with the body—five fingers, five toes. 'Penu' carries this embodied mathematics where numbers are not abstract but lived through hands that work, create, and communicate.",
     "solarpunk-values": "Human-scale technology and solutions work at the level of five—small teams, hand tools, community gardens. 'Penu' represents the appropriate scale for regenerative action."
+  },
+  "tags": {
+    "physical": "embodies counting through hands and human-scale tangibility",
+    "cognition": "grounds mathematical thinking in bodily experience"
   }
 }
