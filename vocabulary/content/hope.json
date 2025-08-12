@@ -7,9 +7,16 @@
   "concept": "Hope / The Path of Light",
   "description": "The confident expectation that positive change is possible, coupled with the commitment to help create it. It is the light that guides through darkness, seen not as a passive wish but as an illuminated path forward.",
   "sound_symbolism": "The bright 'so' rises like dawn breaking darkness, that first moment when light returns and possibilities become visible again. This luminosity flows into 'la', creating movement and direction - hope not as static wishing but as dynamic force flowing toward change. The combination creates a word that sounds like lifting: the upward brightness of 'so' carried forward by the liquid 'la', embodying hope's essential nature as both illumination and momentum.",
+  "image_prompt": "Art Nouveau watercolor: Ascending spirals of dawn colors - palest yellow, soft coral, and gentle gold - rise from darker bases of lavender and sage. Mucha's upward-flowing curves suggest lifting without depicting forms. Transparent washes create luminous pathways where light breaks through shadow zones. Delicate threads of rose gold weave upward like possibilities emerging. Pearl and cream dominate the upper spaces where hope opens into brightness. Organic patterns evoke sunrise without literal sun - just the feeling of light returning. Wet-on-wet technique allows colors to bloom naturally upward, darker tones giving way to illumination. Style: Abstract Mucha expressing hope as rising light through gentle color transitions.",
   "pillars": {
     "solarpunk-values": "Hope in solarpunk is not naive optimism but active engagement with possibility - the understanding that futures are built, not awaited. This hope sees crises as opportunities for transformation, believing in humanity's capacity to create regenerative systems even amid collapse. It's hope with dirt under its fingernails, building the world it envisions.",
     "peace-linguistics-practices": "Hope creates the conditions for peace by maintaining belief in transformation even when evidence suggests impossibility. This practice recognizes that without hope, parties cannot engage in the vulnerable work of reconciliation. Speaking hope into situations of despair opens pathways that cynicism would close, making space for unexpected breakthroughs.",
     "secular-buddhist-philosophy": "Skillful hope arises from understanding causes and conditions - not wishful thinking but clear seeing of how positive change happens. This hope is grounded in impermanence, knowing that even the most entrenched suffering can shift when the right conditions emerge. It combines acceptance of present reality with commitment to creating conditions for transformation."
+  },
+  "tags": {
+    "emotion": "embodies confident expectation and positive feeling about possibilities",
+    "temporal": "orients toward future transformation and change",
+    "wisdom": "requires understanding causes and conditions for change",
+    "creation": "actively builds and creates envisioned futures"
   }
 }

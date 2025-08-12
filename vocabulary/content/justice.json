@@ -7,11 +7,16 @@
   "concept": "Justice / Balanced Truth",
   "description": "The process of restoring balance and mending relationships within a community after a disharmony has occurred. It focuses on healing and reintegration rather than punishment.",
   "sound_symbolism": "The thoughtful 'th' requires deliberation - justice cannot be rushed. The resonant 'lo' creates the balanced center where all perspectives can be heard and weighed. The grounding 'ma' anchors justice in immutable truth and practical wisdom. Together they form a word that feels both gentle and strong, like scales finding their perfect balance through patient adjustment rather than force.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Balanced circular forms in soft sage greens and pale golds suggesting equilibrium without depicting scales. Interweaving organic lines create harmonious patterns where no element dominates. Pastel blues and lavenders flow together forming zones of reconciliation. Delicate botanical spirals represent restoration and growth. Transparent layers blend peachy corals with mint, showing integration rather than separation. Decorative Art Nouveau borders contain without confining. The composition centers on symmetrical but organic patterns suggesting balance through flexibility rather than rigidity. Wet-on-wet technique creates gentle transitions between all elements.",
   "grammatical_notes": "Functions as both noun (justice) and verb (to do justice/to bring justice) without morphological change, similar to Arabic 'adala (عدل) and Hebrew tzedek (צדק). The verbal usage expresses the active restoration of balance and the practice of justice.",
   "pillars": {
     "peace-linguistics-practices": "Justice as restoration rather than retribution transforms conflict into opportunity for deeper understanding and stronger relationships. This approach focuses on healing harm, addressing root causes, and reintegrating all parties into community wholeness. True justice creates peace not through punishment but through accountability, understanding, and systemic change.",
     "secular-buddhist-philosophy": "Justice embodies the understanding that harm arises from causes and conditions that can be addressed skillfully. Rather than seeking revenge, this approach works to transform the conditions that created harm, recognizing that punitive responses often perpetuate cycles of suffering. Balance is restored through addressing needs, not through inflicting equivalent pain.",
-    "solarpunk-values": "Justice in solarpunk frameworks addresses both social and ecological harm as interconnected wounds requiring systemic healing. This isn't individual blame but collective responsibility to transform extractive systems into regenerative ones. True justice means ensuring all beings - human and more-than-human - have access to conditions for thriving.",
     "pre-industrial-wisdom": "Traditional justice systems often emphasized restoration of community harmony over individual punishment. Through practices like peace circles, talking circles, and community reconciliation, these systems understood that lasting justice comes from healing relationships and addressing root causes, not from isolation or retribution."
+  },
+  "tags": {
+    "community": "focuses on wholeness and reintegration of all parties",
+    "wisdom": "requires understanding root causes and skillful responses",
+    "dialogue": "involves hearing all perspectives and facilitating reconciliation"
   }
 }
