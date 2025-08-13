@@ -7,10 +7,13 @@
   "concept": "Learn / To Receive Flowing Clarity",
   "description": "The process of acquiring knowledge, skills, or understanding through study, experience, or teaching. It is an active state of receptive growth.",
   "sound_symbolism": "The soft 'sh' creates the receptive space where learning begins. The gentle 'ne' acknowledges the vulnerability and openness required, while the flowing 'la' allows new understanding to stream in naturally. This creates a word that feels like opening to rain - gentle, nourishing, transformative.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Flowing streams of knowledge in soft blues and lavenders suggesting receptive clarity. Organic spirals open upward like unfurling understanding in pastel greens and golds. Transparent layers show transformation through overlapping mint and peach washes. Decorative botanical patterns suggest growth without literal plants. Circular motifs expand outward from centers of curiosity in cream and coral. Delicate threads of wisdom weave through composition in pale yellow. The overall movement flows inward and upward simultaneously, suggesting both receiving and integrating. Wet-on-wet technique creates fluid boundaries between knowing and discovering.",
   "grammatical_notes": "Functions as both verb (to learn) and noun (learning/the process of learning) without morphological change, similar to Mandarin xué (学) and Arabic ta'allum (تعلم). The noun usage expresses the ongoing process or state of acquiring knowledge.",
   "pillars": {
-    "secular-buddhist-philosophy": "Learning embodies beginner's mind - approaching each moment with fresh curiosity regardless of prior knowledge. This practice requires setting aside the ego that thinks it already knows, creating space for new understanding to arise. True learning transforms not just what we know but who we are, requiring the courage to let fixed views dissolve.",
-    "solarpunk-values": "Learning in solarpunk culture is continuous adaptation - communities that survive are those that keep learning from both successes and failures. Knowledge is shared freely through skill-shares, documentation, and mentorship, understanding that collective intelligence emerges when everyone both teaches and learns.",
-    "peace-linguistics-practices": "Learning from others - especially those we might consider adversaries - is fundamental to peace-building. When we position ourselves as learners, we create equality and respect that allows genuine dialogue. The willingness to learn another's perspective, language, or worldview builds bridges that conflict cannot easily destroy."
+    "secular-buddhist-philosophy": "Learning embodies beginner's mind - approaching each moment with fresh curiosity regardless of prior knowledge. This practice requires setting aside the ego that thinks it already knows, creating space for new understanding to arise. True learning transforms not just what we know but who we are, requiring the courage to let fixed views dissolve."
+  },
+  "tags": {
+    "cognition": "fundamental process of acquiring and integrating knowledge",
+    "wisdom": "involves understanding and transformation of perspective"
   }
 }

@@ -7,10 +7,14 @@
   "concept": "Kind / Gentle-Hearted Nature",
   "description": "The quality of being gentle, considerate, and benevolent. Kindness is compassion in action, often expressed through small, mindful gestures that affirm connection and ease suffering.",
   "sound_symbolism": "The soft breath of 'ph' releases gentleness into the world like a warm sigh. The grounding 'na' anchors this gentleness in consistent presence, creating a word that feels like a gentle hand resting on a shoulder - soft yet substantial, caring yet grounded.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Soft radiating warmth in pastel peach and rose suggesting gentleness through color alone. Curved organic lines flow outward in caring gestures without depicting forms. Transparent washes of lavender and mint create soothing overlapping zones. Decorative botanical patterns suggest tender growth and nurturing. Circular motifs in cream and coral nest gently within each other. Golden threads weave delicately through composition suggesting connection. The overall feeling is one of gentle embrace rendered abstract through flowing pastels. Wet-on-wet technique ensures all edges remain soft and welcoming.",
   "grammatical_notes": "Functions as both adjective (kind/gentle) and noun (kindness) without morphological change, similar to the relationship between German gütig/Güte. The noun usage expresses the quality or state of being kind.",
   "pillars": {
     "peace-linguistics-practices": "Kindness disrupts cycles of harm through unexpected gentleness, creating openings where defensiveness might otherwise arise. Each act of kindness, however small, builds the social fabric that makes violence less likely. This practice recognizes that peace is constructed through countless daily choices to respond with care rather than harshness.",
-    "secular-buddhist-philosophy": "Kindness embodies metta (loving-kindness) in action - the practice of wishing well for all beings expressed through concrete gestures. This isn't mere sentiment but trained response, cultivating the habit of meeting whatever arises with gentleness. True kindness includes being kind to ourselves, recognizing that we cannot sustainably offer what we don't possess.",
-    "solarpunk-values": "Kindness in solarpunk context becomes radical care - the small acts of mutual aid that weave resilient communities. This kindness extends beyond human relationships to how we interact with ecosystems, technologies, and resources. It's the practice of asking 'how can I help?' rather than 'what can I get?' - proving that generosity creates abundance."
+    "secular-buddhist-philosophy": "Kindness embodies metta (loving-kindness) in action - the practice of wishing well for all beings expressed through concrete gestures. This isn't mere sentiment but trained response, cultivating the habit of meeting whatever arises with gentleness. True kindness includes being kind to ourselves, recognizing that we cannot sustainably offer what we don't possess."
+  },
+  "tags": {
+    "emotion": "expresses care and compassion through feeling and action",
+    "wisdom": "requires mindful awareness and cultivated response"
   }
 }
