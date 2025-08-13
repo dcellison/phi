@@ -7,10 +7,13 @@
   "concept": "Observe / To See with Mindful Presence",
   "description": "The act of watching something carefully and with attention, noticing details and patterns without judgment. It is a mindful seeing that leads to insight.",
   "sound_symbolism": "The clear 'so' brings the light of awareness to what is being observed. The personal 'me' acknowledges that observation is never purely objective but involves the observer's presence. The flowing 'la' allows perception to move naturally, following what emerges rather than forcing interpretation. This creates a word that embodies contemplative observation - clear, present, and flowing with what is.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Gentle focus points in palest lavender and soft gold suggesting attentive awareness without depicting eyes. Abstract ripples expand outward in powder blue and barely-there mint showing perception radiating. Transparent overlapping circles in cream and blush create layers of seeing. Delicate organic patterns pause in contemplative stillness. Whispers of coral and pale peach suggest patient watching. All extremely soft pastels. Wet-on-wet technique creates dreamy clarity through abstract forms of mindful attention.",
   "grammatical_notes": "Functions as both verb (to observe) and noun (observation) without morphological change, similar to Mandarin guānchá (观察). The noun usage expresses both the act and result of observing.",
   "pillars": {
-    "secular-buddhist-philosophy": "Observation as mindfulness practice means seeing clearly without the distortion of judgment or expectation. This witnessing awareness notices what arises - thoughts, sensations, phenomena - without grasping or rejecting. Through patient observation, we discover the patterns of change and interconnection that underlie all experience.",
-    "solarpunk-values": "Careful observation grounds solarpunk science and design in reality rather than ideology. Whether tracking seasonal patterns for permaculture, monitoring community energy use, or noticing social dynamics in collective spaces, observation provides the data for adaptive, responsive systems. This empirical approach ensures solutions fit actual contexts.",
-    "pre-industrial-wisdom": "Traditional knowledge systems were built on generations of careful observation - watching weather patterns, animal behaviors, plant cycles. This accumulated observational wisdom, passed through stories and practices, created sophisticated understanding without laboratories or instruments. Patient watching taught what no book could convey."
+    "secular-buddhist-philosophy": "Observation as mindfulness practice means seeing clearly without the distortion of judgment or expectation. This witnessing awareness notices what arises - thoughts, sensations, phenomena - without grasping or rejecting. Through patient observation, we discover the patterns of change and interconnection that underlie all experience."
+  },
+  "tags": {
+    "cognition": "involves mental processing and focused awareness",
+    "wisdom": "leads to insight through mindful seeing"
   }
 }
