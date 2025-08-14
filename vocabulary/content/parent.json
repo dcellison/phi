@@ -7,10 +7,13 @@
   "concept": "Parent / A Generative Source of Wholeness",
   "description": "One who nurtures new life into being, whether through biological, adoptive, or community bonds. The role is defined by the act of providing a generative, whole, and open space for another to grow.",
   "sound_symbolism": "The breathing 'pha' exhales life itself - that first breath given to another, the continuous breath that sustains growing beings. This life-giving force completes in 'o', the circle of protection and wholeness that parents create around their young. Together they speak parenthood's essence: not ownership but stewardship, not molding but nurturing wholeness. The sounds flow like the parent's role - breathing life, holding safe.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Protective circular forms in palest peach and soft lavender suggesting nurturing embrace without depicting figures. Abstract curves cradle smaller forms in powder blue and barely-there gold. Transparent overlapping zones in mint and cream show generations of care. Delicate organic patterns suggest growth under shelter. Whispers of coral and rose create warm, safe spaces. All extremely soft pastels. Wet-on-wet technique creates seamless flow between protection and freedom.",
   "grammatical_notes": "Functions as both noun (a parent) and verb (to parent/to nurture as a parent) without morphological change. The verbal usage expresses the active practice of parenting and nurturing.",
   "pillars": {
-    "pre-industrial-wisdom": "Traditional parenting was a communal practice where biological parents were supported by extended family, neighbors, and elders in raising children. This distributed care system ensured no parent bore the burden alone and children learned from multiple wisdom keepers. The village that raises the child also sustains the parent.",
-    "secular-buddhist-philosophy": "Parenting as practice requires letting go of attachment to outcomes while maintaining loving commitment to the process. This paradox - caring deeply while holding lightly - teaches that children are not possessions but beings passing through our care. True parenting nurtures independence, not dependence.",
-    "solarpunk-values": "Regenerative parenting sees children not as resources to be consumed by society but as seeds of future possibility to be nurtured. This approach values emotional intelligence, ecological awareness, and cooperative skills over competitive achievement. Parents become gardeners of human potential, creating conditions for unique gifts to flourish."
+    "pre-industrial-wisdom": "Traditional parenting was a communal practice where biological parents were supported by extended family, neighbors, and elders in raising children. This distributed care system ensured no parent bore the burden alone and children learned from multiple wisdom keepers. The village that raises the child also sustains the parent."
+  },
+  "tags": {
+    "community": "fundamental to family bonds and social structure",
+    "creation": "literally creates and nurtures new life"
   }
 }

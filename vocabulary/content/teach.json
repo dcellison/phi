@@ -7,10 +7,14 @@
   "concept": "Teach / To Nurture Understanding",
   "description": "The act of awakening understanding and nurturing growth in others through patient guidance and clear communication.",
   "sound_symbolism": "The soft 'sh' creates a gentle, nurturing environment for learning. The personal 'me' at the center acknowledges the deeply relational nature of teaching, while the flowing 'la' extends knowledge outward like a gift. This progression from gentle opening through personal connection to flowing transmission captures the essence of teaching as a caring, relational act.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Gentle awakening forms in palest gold and soft lavender unfolding outward without depicting figures. Abstract flowing knowledge in powder blue and barely-there coral passing between connected spaces. Transparent overlapping circles in cream and mint showing wisdom arising naturally. Delicate organic patterns nurture growth from within. Whispers of peach and rose create patient guidance spaces. All extremely soft pastels. Wet-on-wet technique emphasizes conditions for understanding to bloom.",
   "grammatical_notes": "Functions as both verb (to teach) and noun (teaching) without morphological change, similar to Mandarin jiào (教). The noun usage expresses the act or practice of teaching.",
   "pillars": {
-    "secular-buddhist-philosophy": "Teaching as awakening recognizes that wisdom cannot be given, only pointed toward - the teacher creates conditions for insight to arise naturally within the student. This practice requires patience with different paces of understanding and faith that each being carries their own seed of wisdom waiting to unfold.",
-    "peace-linguistics-practices": "Teaching for peace means modeling non-violent communication in every interaction - using encouragement rather than criticism, questions rather than commands, and creating safe spaces where mistakes become opportunities for growth. This practice transforms hierarchical knowledge transfer into collaborative discovery.",
-    "pre-industrial-wisdom": "Traditional teaching happened through apprenticeship and storytelling - knowledge passed hand to hand, mouth to ear, in relationship over time. This wisdom understood that true learning requires not just information but transformation, achieved through patient mentorship and embodied practice rather than abstract instruction."
+    "secular-buddhist-philosophy": "Teaching as awakening recognizes that wisdom cannot be given, only pointed toward - the teacher creates conditions for insight to arise naturally within the student. This practice requires patience with different paces of understanding and faith that each being carries their own seed of wisdom waiting to unfold."
+  },
+  "tags": {
+    "wisdom": "awakening understanding and nurturing growth",
+    "dialogue": "knowledge transfer through communication",
+    "community": "deeply relational act between teacher and student"
   }
 }

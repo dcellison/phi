@@ -7,10 +7,13 @@
   "concept": "Seven / Sacred Number / Mystery",
   "description": "The numeral carrying deep cultural resonance across many traditions, often associated with completeness, sacred cycles, and mystery. More than quantity, 'wile' acknowledges the strange power of seven—neither purely practical nor purely symbolic, but somehow significant beyond its mathematical properties.",
   "sound_symbolism": "The word begins with 'w', the most open consonant, lips rounded in wonder at seven's persistent mystery. This meets 'i', the high bright vowel of insight. The flow through 'l', the liquid connector, to 'e', the clear focused vowel, creates a journey from wonder to clarity. The progression from open mystery ('wi') to flowing focus ('le') mirrors how seven operates—mysterious yet precise.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Seven-fold circular pattern in palest silver and soft lavender suggesting sacred completeness without depicting objects. Abstract flowing forms repeat in powder blue and barely-there gold creating mysterious rhythm. Transparent overlapping cycles in cream and mint show recurring significance. Delicate organic patterns spiral in groups of seven. Whispers of coral and rose mark points of convergence. All extremely soft pastels. Wet-on-wet technique emphasizes the strange beauty of seven-fold symmetry.",
   "grammatical_notes": "Functions as the seventh cardinal numeral. Requires the plural particle 'lo' when modifying nouns. May carry special significance in ritual contexts, time cycles (seven-day weeks), or traditional stories. Unlike other numbers which are purely quantitative, seven often appears in contexts suggesting qualitative completeness.",
   "pillars": {
-    "pre-industrial-wisdom": "Traditional cultures worldwide mark seven as significant—phases of the moon, stellar clusters, musical notes. 'Wile' carries this cross-cultural recognition of seven's recurring importance in natural and cultural patterns.",
-    "art-nouveau-aesthetics": "Natural forms often organize in sevens—seven-petaled flowers, seven-branched forms. Like Art Nouveau's attention to these natural patterns, 'wile' acknowledges the aesthetic completeness found in seven-fold symmetry.",
-    "secular-buddhist-philosophy": "Seven appears in Buddhist cosmology—seven weeks of Buddha's enlightenment, seven factors of awakening. 'Wile' represents the recurring significance of this number in contemplative traditions."
+    "pre-industrial-wisdom": "Traditional cultures worldwide mark seven as significant—phases of the moon, stellar clusters, musical notes. 'Wile' carries this cross-cultural recognition of seven's recurring importance in natural and cultural patterns. Note: While numbers have symbolic significance across cultures, the connection to this specific pillar is more about cultural patterns than core philosophical alignment."
+  },
+  "tags": {
+    "cognition": "numbers are fundamentally cognitive concepts",
+    "temporal": "seven often marks time cycles like weeks"
   }
 }

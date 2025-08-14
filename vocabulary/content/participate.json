@@ -7,10 +7,14 @@
   "concept": "Participate / To Join the Flow",
   "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
   "sound_symbolism": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Converging streams of palest blue and soft mint flowing together without losing individual currents. Abstract forms merge and separate in powder gold and barely-there coral suggesting collective movement. Transparent overlapping circles in cream and lavender show shared spaces of action. Delicate organic patterns weave between forms creating unity. Whispers of peach and rose indicate energy exchange. All extremely soft pastels. Wet-on-wet technique emphasizes fluid joining while maintaining distinct presence.",
   "grammatical_notes": "Functions as both verb (to participate) and noun (participation) without morphological change, similar to Mandarin cānyù (参与). The noun usage expresses the act or state of participating.",
   "pillars": {
-    "peace-linguistics-practices": "Participation transforms passive presence into active peacemaking - by engaging rather than withdrawing, we help shape outcomes toward harmony. This practice recognizes that silence in the face of harm is complicity, while thoughtful participation can redirect energy toward constructive ends.",
-    "solarpunk-values": "Participatory design and governance lie at the heart of solarpunk organizing - decisions made with those affected, not for them. This active engagement breaks the consumer mindset, transforming people from users to co-creators of their communities. Participation distributes both power and responsibility.",
-    "secular-buddhist-philosophy": "Right participation requires discernment - engaging where our efforts serve wholesome purposes while withdrawing energy from harmful systems. This isn't about perfection but conscious choice, recognizing that even small acts of participation ripple outward through the web of interdependence."
+    "solarpunk-values": "Participatory design and governance lie at the heart of solarpunk organizing - decisions made with those affected, not for them. This active engagement breaks the consumer mindset, transforming people from users to co-creators of their communities. Participation distributes both power and responsibility."
+  },
+  "tags": {
+    "community": "participation is inherently social and collective",
+    "creation": "actively contributing implies co-creation",
+    "dialogue": "engaging in collective processes and exchange"
   }
 }

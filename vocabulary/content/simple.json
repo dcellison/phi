@@ -7,9 +7,13 @@
   "concept": "Simple / Essential Nature",
   "description": "The quality of being uncomplicated, essential, and free from unnecessary complexity. Simplicity encompasses the elegance of minimal forms, the clarity that comes from removing excess, and the wisdom of knowing what is enough.",
   "sound_symbolism": "The clear 'si' cuts through complexity like a blade finding the essential core. The open 'lo' creates spaciousness where only what matters can exist, while the grounding 'ma' provides the stable foundation of truth. This progression from clarity through spaciousness to groundedness mirrors the journey to simplicity - first seeing clearly, then creating space by removing excess, finally resting in essential truth.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Single essential form in palest silver and soft white suggesting clarity without depicting objects. Abstract minimal curves in powder blue and barely-there gold showing only what matters. Transparent wash in cream with whispers of mint creating spacious emptiness. Delicate organic line reduced to its essence. Gentle lavender and rose exist as mere breath of color. All extremely soft pastels. Wet-on-wet technique emphasizes purity through absence of excess.",
   "grammatical_notes": "Functions as both adjective (simple) and noun (simplicity) without morphological change, similar to Mandarin jiǎndān (简单) and Hindi saral (सरल). The noun usage expresses the quality or state of being simple.",
   "pillars": {
-    "secular-buddhist-philosophy": "Simplicity as spiritual practice means releasing attachment to complexity, status, and accumulation. This isn't about deprivation but discovering that suffering often comes from unnecessary elaboration - in possessions, thoughts, and relationships. The simple life allows clear seeing of what truly matters: awareness, compassion, and liberation from the burden of excess.",
-    "pre-industrial-wisdom": "Traditional life required elegant simplicity - tools that served multiple purposes, stories that carried layered wisdom, rituals that marked essential transitions. This wasn't poverty but refined understanding of sufficiency, knowing that complexity often weakens while simplicity endures. The wisdom of enough, passed through generations."
+    "secular-buddhist-philosophy": "Simplicity as spiritual practice means releasing attachment to complexity, status, and accumulation. This isn't about deprivation but discovering that suffering often comes from unnecessary elaboration - in possessions, thoughts, and relationships. The simple life allows clear seeing of what truly matters: awareness, compassion, and liberation from the burden of excess."
+  },
+  "tags": {
+    "wisdom": "knowing what is enough and seeing clearly",
+    "aesthetic": "elegance and beauty of minimal forms"
   }
 }
