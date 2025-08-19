@@ -1,0 +1,20 @@
+{
+  "word": "nai",
+  "gloss": "be",
+  "ipa": "/na.i/",
+  "syllables": ["na", "i"],
+  "pos": ["verb"],
+  "concept": "Be / Existence / Presence",
+  "description": "The fundamental verb of existence and state, expressing that something exists, has a quality, or occupies a role. More than mere existence, 'nai' acknowledges the profound act of being present in the world, grounded in this moment.",
+  "sound_symbolism": "The grounding consonant 'na' roots existence in the here and now - not floating in abstraction but connected to this moment, this place. This foundation opens into 'i', the bright vowel of immediate presence and awareness. Together they create the simplest affirmation: 'na' grounds us while 'i' declares 'here I am.' The hiatus between the vowels creates a gentle pause, like the space between breaths where being simply is.",
+  "image_prompt": "Abstract Art Nouveau watercolor: Very wet washes of palest gold and soft lavender creating grounding pools at base, flowing upward into diluted sky blue presence. Spontaneous bleeds where colors meet form organic spirals. Wet-on-wet rose and mint drops bloom into halos of awareness. Natural whiplash curves emerge from tilted paper runs. Extensive white space surrounds concentrated center where subtle peach and pearl suggest the pause between breaths. Happy backruns create cells of being. Overall feel: morning light revealing itself through mist.",
+  "grammatical_notes": "Functions as both copula (linking subject to predicate) and existential verb. Unlike English, does not conjugate for person or number - maintaining Phi's analytical structure. Can be omitted in simple present equative statements where context is clear, making its presence a conscious choice for emphasis. Cross-linguistically similar to: Mandarin 'shì' (是) for equation and 'yǒu' (有) for existence; Japanese copula 'da/desu' (だ/です) and existence verb 'aru/iru' (ある/いる); Arabic 'kāna' (كان) which can be omitted in present tense; Hindi 'hai' (है) serving both copular and existential functions. Takes complements directly without additional particles: 'mia nai melu' (I am ocean/I am oceanic).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Being embodies the first noble truth - the simple acknowledgment of what is. Not grasping at becoming something else, not denying current reality, but residing fully in this moment's existence. 'Nai' grammaticalizes the practice of presence and mindfulness.",
+    "pre-industrial-wisdom": "Traditional understanding recognizes being as participation in the great web of existence - to be is to be in relationship. One exists not in isolation but as part of the living whole, connected to land, community, and ancestors."
+  },
+  "tags": {
+    "wisdom": "recognizing and accepting what is",
+    "cognition": "establishing identity and predication"
+  }
+}

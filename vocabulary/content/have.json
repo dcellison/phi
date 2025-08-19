@@ -1,0 +1,21 @@
+{
+  "word": "tai",
+  "gloss": "have",
+  "ipa": "/ta.i/",
+  "syllables": ["ta", "i"],
+  "pos": ["verb"],
+  "concept": "Have / Possession / Holding",
+  "description": "The fundamental verb of possession and relationship, expressing that something is held, maintained, or exists in connection with someone. More than mere ownership, 'have' acknowledges the web of relationships between beings and things - we hold responsibilities, relationships, experiences, and qualities as much as objects. It speaks to both temporary custody and enduring connection, recognizing that true possession is always a form of stewardship.",
+  "sound_symbolism": "The consonant 'ta' begins with touch - the tongue tapping against the teeth like fingers grasping, establishing contact and connection. This physical gesture of holding opens into 'i', the bright vowel of immediate presence and awareness. Together they create the act of conscious holding: 'ta' makes contact while 'i' maintains awareness of what is held. The word moves from the physical act of grasping to the brightness of mindful possession, suggesting that to truly have something is to hold it in conscious relationship.",
+  "image_prompt": "Abstract Art Nouveau watercolor: Gentle hands formed by flowing amber and rose washes cradle pools of soft turquoise. Wet-on-wet technique creates organic holding shapes where colors embrace without constraining. Delicate gold bleeds suggest treasured objects dissolving into pure light. Whiplash curves of pale green and lavender interweave, showing connection without grasping. Spontaneous backruns in warm ochre create pockets of space within the holding. White paper breathes between forms, honoring the emptiness that allows true possession. Overall feeling: open palms receiving morning dew.",
+  "grammatical_notes": "Functions as a transitive verb expressing possession, existence, relationship, and experiential states. Unlike English 'have', does not serve as an auxiliary for perfect aspect - Phi uses particles for such grammatical functions. Cross-linguistically similar to: Mandarin 'yǒu' (有) which expresses both possession and existence; Spanish 'tener' which covers possession, obligation, and states; Japanese 'motsu' (持つ) for physical possession and 'aru' (ある) for abstract possession; Hindi 'ke pās honā' (के पास होना) literally 'to be near/with'; Swahili '-na' which affixes to 'to be' for possession. Takes direct objects without additional particles: 'mia tai velu' (I have knowledge). Can express experiential states: 'tai palo' (have hunger/be hungry), and relationships: 'tai kinu' (have children).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Having embodies the Buddhist understanding of impermanence and non-attachment - we hold things temporarily as stewards rather than owners. True possession recognizes the flowing nature of all relationships, understanding that what we have shapes us as much as we shape it. 'Tai' grammaticalizes the Middle Way between grasping and rejection.",
+    "pre-industrial-wisdom": "Traditional cultures understand having as relationship rather than ownership - one has responsibilities to land, community, and resources as much as rights over them. This reciprocal understanding sees possession as participation in cycles of giving and receiving, where having creates obligation to share and tend."
+  },
+  "tags": {
+    "physical": "holding tangible objects and possessions",
+    "community": "maintaining relationships and responsibilities",
+    "cognition": "possessing knowledge and understanding"
+  }
+}

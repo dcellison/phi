@@ -18,7 +18,9 @@ import sys
 # --- Database Configuration ---
 DB_FILE = "lexicon.db"
 PROJECT_ROOT = Path(__file__).parent.parent
-LEXICON_DIR = PROJECT_ROOT / "lexicon"  # Changed from vocabulary
+VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"  # Changed to vocabulary
+CONTENT_DIR = VOCABULARY_DIR / "content"
+FUNCTION_DIR = VOCABULARY_DIR / "function"
 DB_PATH = PROJECT_ROOT / DB_FILE
 
 # --- Main Application ---
@@ -109,7 +111,7 @@ def get_status(args):
     """Audits the vocabulary against the global master list."""
     import re
 
-    master_list_path = LEXICON_DIR / "PHI_CORE_VOCABULARY.md"  # Changed filename
+    master_list_path = CONTENT_DIR / "PHI_CORE_VOCABULARY.md"  # Updated path
     
     if not master_list_path.exists():
         print(f"Error: Master list not found at {master_list_path.relative_to(PROJECT_ROOT)}", file=sys.stderr)
@@ -124,7 +126,11 @@ def get_status(args):
                     match = re.match(r"\|\s*([^|]+?)\s*\|", line)
                     if match:
                         gloss = match.group(1).strip().lower()
-                        if gloss and '---' not in gloss and 'word' not in gloss:
+                        # Handle entries with slashes (e.g., "parent/guardian")
+                        if '/' in gloss:
+                            for part in gloss.split('/'):
+                                approved_glosses.add(part.strip())
+                        elif gloss and '---' not in gloss and 'word' not in gloss:
                             approved_glosses.add(gloss)
     except IOError as e:
         print(f"Error reading master list: {e}", file=sys.stderr)
@@ -132,8 +138,8 @@ def get_status(args):
 
     print(f"Found {len(approved_glosses)} approved concepts in the master list.")
 
-    # 2. Get the actual state from the filesystem
-    existing_files = {p.stem.lower() for p in LEXICON_DIR.glob("*.json")}
+    # 2. Get the actual state from the filesystem (content directory only)
+    existing_files = {p.stem.lower() for p in CONTENT_DIR.glob("*.json")}
 
     # 3. Compare and categorize
     ok, missing, orphaned = [], [], []
@@ -222,6 +228,11 @@ def update_entry(args):
     if grammatical_notes:
         json_output_entry['grammatical_notes'] = grammatical_notes
 
+    # Add image_prompt if it exists
+    image_prompt = updated_fields.get('image_prompt', entry.get('image_prompt'))
+    if image_prompt:
+        json_output_entry['image_prompt'] = image_prompt
+
     # 3. Update the JSON file (no array wrapper)
     file_path = PROJECT_ROOT / entry['source_file']
     try:
@@ -238,14 +249,15 @@ def update_entry(args):
         cursor.execute("""
         UPDATE lexicon SET
             gloss = ?, ipa = ?, syllables = ?, slot = ?, pos = ?, concept = ?,
-            description = ?, sound_symbolism = ?, grammatical_notes = ?, pillars = ?, tags = ?
+            description = ?, sound_symbolism = ?, grammatical_notes = ?, 
+            image_prompt = ?, pillars = ?, tags = ?
         WHERE word = ?
         """, (
             json_output_entry.get('gloss'), json_output_entry.get('ipa'), 
             json.dumps(json_output_entry.get('syllables')), json_output_entry.get('slot'),
             json.dumps(json_output_entry.get('pos')), json_output_entry.get('concept'), 
             json_output_entry.get('description'), json_output_entry.get('sound_symbolism'), 
-            json_output_entry.get('grammatical_notes'),
+            json_output_entry.get('grammatical_notes'), json_output_entry.get('image_prompt'),
             json.dumps(json_output_entry.get('pillars')), json.dumps(json_output_entry.get('tags')),
             args.word
         ))
@@ -341,8 +353,8 @@ def add_entry(args):
     if args.grammatical_notes:
         new_entry['grammatical_notes'] = args.grammatical_notes
     
-    # Use the gloss for the filename, directly in lexicon/
-    file_path = LEXICON_DIR / f"{args.gloss}.json"
+    # Use the gloss for the filename, in content directory
+    file_path = CONTENT_DIR / f"{args.gloss}.json"
 
     if file_path.exists():
         print(f"Error: JSON file already exists at {file_path}. Aborting.", file=sys.stderr)
@@ -364,8 +376,9 @@ def add_entry(args):
         cursor.execute("""
         INSERT INTO lexicon (
             word, gloss, ipa, syllables, slot, pos, concept, 
-            description, sound_symbolism, grammatical_notes, pillars, tags, source_file
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            description, sound_symbolism, grammatical_notes, image_prompt, 
+            pillars, tags, source_file
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             new_entry.get('word'),
             new_entry.get('gloss'),
@@ -377,6 +390,7 @@ def add_entry(args):
             new_entry.get('description'),
             new_entry.get('sound_symbolism'),  # Changed
             new_entry.get('grammatical_notes'),
+            new_entry.get('image_prompt'),
             json.dumps(new_entry.get('pillars')),
             json.dumps(new_entry.get('tags')),
             str(file_path.relative_to(PROJECT_ROOT))
@@ -427,7 +441,7 @@ def find_entry(args):
                 'word': entry[0],
                 'gloss': entry[1],
                 'concept': entry[6],
-                'source_file': entry[12]  # Adjusted index for new column
+                'source_file': entry[13]  # Adjusted index for new column
             }
             print(json.dumps(entry_dict, indent=2))
         sys.exit(1)
@@ -435,15 +449,25 @@ def find_entry(args):
 
 def init_db(args):
     """
-    Scans the lexicon directory, creates a new SQLite database,
-    and populates it with all lexicon entries from the JSON files.
+    Scans the vocabulary directories (content and function subdirs),
+    creates a new SQLite database, and populates it with all lexicon entries
+    from the JSON files.
     """
     print("Initializing lexicon database...")
     
-    # 1. Find all JSON files
-    json_files = sorted(list(LEXICON_DIR.glob("*.json")))  # Changed: no subdirs
+    # 1. Find all JSON files in both content and function directories
+    json_files = []
+    
+    # Content directory
+    if CONTENT_DIR.exists():
+        json_files.extend(sorted(list(CONTENT_DIR.glob("*.json"))))
+    
+    # Function directory and all subdirectories
+    if FUNCTION_DIR.exists():
+        json_files.extend(sorted(list(FUNCTION_DIR.rglob("*.json"))))
+    
     if not json_files:
-        print("Error: No .json files found in the lexicon directory.", file=sys.stderr)
+        print("Error: No .json files found in the vocabulary directories.", file=sys.stderr)
         sys.exit(1)
         
     print(f"Found {len(json_files)} JSON files to process.")
@@ -459,7 +483,7 @@ def init_db(args):
         print(f"Database error: {e}", file=sys.stderr)
         sys.exit(1)
 
-    # 3. Create Table with updated schema
+    # 3. Create Table with updated schema (added image_prompt)
     cursor.execute("""
     CREATE TABLE lexicon (
         word TEXT PRIMARY KEY,
@@ -472,6 +496,7 @@ def init_db(args):
         description TEXT,
         sound_symbolism TEXT,
         grammatical_notes TEXT,
+        image_prompt TEXT,
         pillars TEXT,
         tags TEXT,
         source_file TEXT NOT NULL
@@ -493,8 +518,9 @@ def init_db(args):
                 cursor.execute("""
                 INSERT INTO lexicon (
                     word, gloss, ipa, syllables, slot, pos, concept, 
-                    description, sound_symbolism, grammatical_notes, pillars, tags, source_file
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    description, sound_symbolism, grammatical_notes, image_prompt,
+                    pillars, tags, source_file
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (
                     entry.get('word'),
                     entry.get('gloss'),
@@ -505,9 +531,10 @@ def init_db(args):
                     entry.get('concept'),
                     entry.get('description'),
                     entry.get('sound_symbolism'),  # Changed from rationale
-                    entry.get('grammatical_notes'),  # New field
-                    json.dumps(entry.get('pillars')),
-                    json.dumps(entry.get('tags')),
+                    entry.get('grammatical_notes'),
+                    entry.get('image_prompt'),  # New field
+                    json.dumps(entry.get('pillars')) if entry.get('pillars') else None,
+                    json.dumps(entry.get('tags')) if entry.get('tags') else None,
                     str(file_path.relative_to(PROJECT_ROOT))
                 ))
                 entries_added += 1
