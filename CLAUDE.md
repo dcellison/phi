@@ -139,11 +139,14 @@ All vocabulary entries must include:
 - `description`: Detailed semantic explanation
 - `sound_symbolism`: How phonetics embody meaning
 - `pillars`: Explicit connections to Five Pillars
+- `tags`: Add tags after deep assessment
 
 ### File Organization
-- Function words → `/vocabulary/function/`
 - Content words → `/vocabulary/content/`
+- Function words → `/vocabulary/function/`
+- Interjection words → `/vocabulary/interjection/`
 - Grammar documentation → `/documents/grammar/`
+- Python scripts → `/scripts/`
 - Book content → `/book/`
 - DO NOT access files from any other directory
 

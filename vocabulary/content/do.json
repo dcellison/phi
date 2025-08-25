@@ -1,0 +1,19 @@
+{
+  "word": "phoa",
+  "gloss": "do",
+  "ipa": "/ɸo.a/",
+  "syllables": ["pho", "a"],
+  "pos": ["verb"],
+  "concept": "Do / Act / Perform",
+  "description": "The fundamental verb of general action and performance, expressing the act of carrying out, executing, or engaging in activity. Unlike 'make' which creates something new, 'do' encompasses the performance of tasks, the execution of plans, and the carrying out of activities. It speaks to human agency in its most basic form - the ability to act intentionally in the world. In Phi, doing is understood as mindful action, where even routine tasks become opportunities for present awareness. The word acknowledges that through our actions, however small, we participate in the ongoing dance of cause and effect, each deed contributing to the larger pattern of existence.",
+  "sound_symbolism": "The word begins with 'pho', where the aspirated 'ph' releases breath into action - the exhale that accompanies effort, the breath that powers movement. This energetic release flows into the open 'o', creating space for action to unfold. The hiatus between 'o' and 'a' creates a moment of conscious transition, like the pause between intention and execution. The final 'a' opens wide, embracing the full scope of possible actions. The whole word breathes with the rhythm of doing: 'pho' initiates with purposeful breath, the vowel sequence 'o.a' maintains the flow of continuous action. It sounds like someone beginning a task - first the gathering breath, then the sustained engagement.",
+  "image_prompt": "Abstract Art Nouveau watercolor: Gentle washes of pale peach and soft lavender flow in rhythmic curves suggesting movement and breath. Wet-on-wet technique allows delicate rose and mint to bloom into action patterns. Whispers of buttercup yellow spiral through, creating pathways of intention. Translucent sky blue creates lifting moments where effort becomes ease. Spontaneous bleeds of lilac and coral suggest the pulse of engaged activity. White paper breathes between flowing forms like pauses in purposeful work. Overall feeling: morning light through moving curtains, the gentle energy of mindful action.",
+  "grammatical_notes": "Functions as a general action verb expressing performance, execution, and engagement in activity. As a light verb, can combine with nouns to form verbal expressions. Unlike English, does not serve auxiliary functions (questions/negations use particles). Cross-linguistically similar to: Japanese 'suru' (する) and Korean 'hada' (하다) as light verbs forming compounds; Russian 'delat'' (делать) for general action distinct from creation; Indonesian 'melakukan' for formal actions; Mandarin 'zuò' (做) requiring objects or complements. Distinguished from 'make' (creative action) in Phi, maintaining the semantic distinction found in Russian, German, and other languages. Takes direct objects: 'mia phoa welu' (I do work), or forms serial verb constructions: 'phoa melu' (do think = contemplate), similar to serial verb patterns in West African and Southeast Asian languages.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Doing embodies Right Action (sammā-kammanta), one of the Noble Eightfold Path components. Every action creates karma, rippling outward in chains of cause and effect. 'Phoa' grammaticalizes the understanding that action should be mindful, intentional, and aware of consequences - transforming even routine tasks into opportunities for present awareness and ethical engagement.",
+    "solarpunk-values": "Doing embodies the solarpunk ethos of active engagement rather than passive hope. It represents the practical work of building regenerative systems, the daily actions that accumulate into systemic change. 'Phoa' carries the understanding that sustainable futures are built through countless intentional actions, each deed contributing to collective transformation."
+  },
+  "tags": {
+    "physical": "performing actions and activities"
+  }
+}

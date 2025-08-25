@@ -1,0 +1,16 @@
+{
+  "word": "kua",
+  "gloss": "INT.LOC",
+  "ipa": "/ˈku.a/",
+  "syllables": ["ku", "a"],
+  "pos": ["interrogative"],
+  "concept": "Where / Which Place",
+  "description": "The interrogative for inquiring about location, position, or place in both physical and metaphorical senses. More than seeking coordinates, 'kua' asks about relationship to space, about where something belongs in the geography of existence.",
+  "sound_symbolism": "The word begins with 'ku', where the velar stop 'k' creates a precise point of contact in the mouth—the tongue touching the soft palate like a finger pointing to a map. This pointing gesture made audible shifts from the focused 'u' (suggesting a specific but unknown point) to the open 'a', which expands into all possible directions and distances. The acoustic journey from pointed specificity to spatial openness mirrors how 'where' questions begin with particular concern but open into understanding of place, position, and relationship within larger wholes.",
+  "grammatical_notes": "Functions as an interrogative adverb of place, though can be nominalized with appropriate markers. Covers both static location ('where is?') and directional movement ('where to?', 'where from?')—context and prepositional phrases clarify specific spatial relationships. Does not distinguish between literal physical location and metaphorical position. Can function alone as a complete utterance in context.",
+  "pillars": {
+    "pre-industrial-wisdom": "Place is never mere coordinates but a web of relationships—to land, to community, to history. 'Kua' honors this indigenous understanding that 'where' includes the stories a place holds, the connections it enables, the life it supports.",
+    "solarpunk-values": "In designing sustainable futures, 'where' becomes crucial—where does our food grow, where does our water flow, where do our materials originate? 'Kua' serves this placed-based thinking that grounds abstract systems in actual locations.",
+    "peace-linguistics-practices": "Understanding where others come from—their physical, cultural, and emotional landscapes—builds bridges of empathy. 'Kua' enables inquiry about origins and contexts that helps prevent conflicts born from assuming everyone shares the same 'where.'"
+  }
+}

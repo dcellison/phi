@@ -1,0 +1,17 @@
+{
+  "word": "si",
+  "gloss": "IPFV",
+  "ipa": "/si/",
+  "syllables": ["si"],
+  "pos": ["particle"],
+  "slot": 1,
+  "concept": "Imperfective / Ongoing / Continuous Process",
+  "description": "An aspect particle that marks actions as ongoing processes, viewed from within their flow rather than as bounded events. More than indicating duration, 'si' acknowledges the river-nature of experience—that much of life consists not of discrete events but of continuous becomings.",
+  "sound_symbolism": "The particle begins with 's', the continuous sibilant that flows without interruption—air streaming through a narrow channel like time through the present moment. This flowing consonant meets 'i', the high front vowel that maintains focus within the stream. Together, 'si' creates sustained acoustic presence: the 's' establishes flow while the 'i' keeps attention within it. The sound itself cannot be rushed—it requires continuous breath, training speakers to recognize and honor ongoing processes.",
+  "grammatical_notes": "Occupies Slot 1, following tense markers but preceding voice/modality particles. Creates explicit marking for ongoing aspect where unmarked verbs remain aspectually neutral. Combines with tenses for specific meanings: 'to si' (was doing), 'so si' (will be doing). Views events from inside their temporal flow—contrasting with perfective 'ki' which views events as complete wholes. Used for activities, states, habits, and any action conceived as process rather than achievement.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The particle embodies the Buddhist understanding of process philosophy—that reality consists more of becomings than beings. Like observing the breath without trying to segment it, 'si' enables speakers to acknowledge continuous flow without imposing false boundaries.",
+    "pre-industrial-wisdom": "Traditional ways of being understand most of life as ongoing cycles rather than discrete events—seasons flowing into seasons, daily rhythms of care. 'Si' carries this process-orientation that sees duration as the norm rather than exception.",
+    "art-nouveau-aesthetics": "Like the flowing lines that characterize Art Nouveau—never beginning or ending but always in motion—'si' creates linguistic flow. It captures the aesthetic of movement and growth, the beauty of the unfinished and evolving."
+  }
+}

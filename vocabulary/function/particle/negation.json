@@ -1,0 +1,17 @@
+{
+  "word": "ma",
+  "gloss": "NEG",
+  "ipa": "/ma/",
+  "syllables": ["ma"],
+  "pos": ["particle"],
+  "slot": 1,
+  "concept": "Not / Negation / Absence of Action",
+  "description": "A particle that negates verbs and verb phrases, transforming affirmation into denial. More than simple opposition, 'ma' acknowledges the profound reality of what doesn't happen—the paths not taken, the words not spoken, the harm not done.",
+  "sound_symbolism": "The particle consists of 'm', the labial nasal that requires complete closure—lips sealed like refusing entry. This closing meets 'a', paradoxically the most open vowel, creating a sound that closes then opens. This acoustic paradox mirrors negation itself: we must conceive something to deny it, must open conceptual space for what we then mark as absent. The nasal resonance makes negation felt in the body rather than merely thought, grounding 'not' in physical experience.",
+  "grammatical_notes": "Occupies Slot 1, appearing after tense but before or after aspect depending on scope. Position relative to other particles determines what exactly is negated: 'ma si work' (not currently working) vs 'si ma work' (currently not-working, i.e., resting). Can negate entire verb phrases or combine with modals for complex meanings: 'ma po' (cannot), 'ma na' (need not). Maintains verbal negation—constituent negation uses other strategies.",
+  "pillars": {
+    "peace-linguistics-practices": "By providing clear negation without harsh sounds, 'ma' enables refusal without aggression. The soft nasal makes it possible to say 'no' while maintaining connection, to establish boundaries without building walls.",
+    "secular-buddhist-philosophy": "The particle embodies the via negativa—sometimes truth is reached by negating what is false. Like the teaching of 'not this, not that' (neti neti), 'ma' creates grammatical space for approaching reality through conscious negation.",
+    "pre-industrial-wisdom": "Traditional wisdom includes knowing what not to do—plants not to eat, seasons not to travel, words not to speak. 'Ma' carries this protective knowledge that survival sometimes depends more on wise restraint than bold action."
+  }
+}

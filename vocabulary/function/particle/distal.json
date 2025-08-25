@@ -1,0 +1,16 @@
+{
+  "word": "tha",
+  "gloss": "DIST",
+  "ipa": "/θa/",
+  "syllables": ["tha"],
+  "pos": ["particle"],
+  "slot": 2,
+  "concept": "That / There / Far from Speaker",
+  "description": "A word-level particle that marks spatial or conceptual distance from the speaker, creating the deictic space of 'there-ness'. More than indicating remoteness, 'tha' acknowledges the realm beyond immediate reach, where recognition requires effort and connection spans distance.",
+  "sound_symbolism": "The particle begins with 'θ', the interdental fricative that requires the tongue to reach forward between teeth—physically extending toward what is distant. This reaching consonant meets 'a', the open vowel that acknowledges space. Together, 'tha' sounds like distance made audible: the effortful 'θ' suggests the work of indicating what is far while the open 'a' creates the acoustic space that separation requires. The friction in 'θ' mirrors the slight difficulty of connecting with what is not immediately present.",
+  "grammatical_notes": "Occupies Slot 2, appearing immediately before nouns to create distal demonstrative expressions. Functions as a deictic particle marking distance in space ('that mountain'), time ('that day'), or discourse ('that idea mentioned earlier'). Maintains the same form for singular and plural referents. Forms a minimal pair with proximal 'pha', distinguished only by the initial consonant. Can combine with other particles: 'tha lo' (those, plural). The distance marked is relative to context—'that' star versus 'that' book.",
+  "pillars": {
+    "peace-linguistics-practices": "By requiring slight effort to pronounce (the 'θ'), 'tha' makes pointing at distant things a conscious act. This prevents the casual othering that comes from too easily marking things as 'over there,' separate from us.",
+    "pre-industrial-wisdom": "Traditional awareness includes knowing what is beyond immediate reach—distant weather approaching, far communities connected by trade routes. 'tha' carries this expanded awareness that acknowledges the distant as still relevant, still part of our larger world."
+  }
+}

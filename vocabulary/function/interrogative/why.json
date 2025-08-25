@@ -1,0 +1,17 @@
+{
+  "word": "misa",
+  "gloss": "INT.REASON",
+  "ipa": "/ˈmi.sa/",
+  "syllables": ["mi", "sa"],
+  "pos": ["interrogative"],
+  "concept": "Why / For What Reason",
+  "description": "The interrogative for inquiring about reasons, causes, motivations, and purposes. Unlike accusatory 'why' that demands justification, 'misa' seeks understanding of the forces—internal and external—that give rise to phenomena, acknowledging that reasons are often multiple and layered.",
+  "sound_symbolism": "The word begins with 'mi', echoing the first-person pronoun and suggesting that all inquiry into reasons begins with self-understanding—we ask 'why' from our own position of seeking meaning. The labial nasal 'm' resonates inward, appropriate for questions that probe beneath surface appearances. This personal beginning opens into 'sa', with its soft sibilant suggesting the subtle, sometimes hidden nature of causation. Together, the sounds journey from internal questioning to external seeking, acknowledging that understanding 'why' requires both introspection and investigation.",
+  "grammatical_notes": "Functions as an interrogative adverb of reason, but given Phi's philosophical framework, often implies multiple types of causation: efficient cause (what made this happen?), final cause (what purpose does this serve?), and conditional cause (what circumstances enabled this?). Can introduce both questions and rhetorical wonderings. Often appears with evidential markers to acknowledge the provisional nature of causal understanding.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The word embodies the search for understanding within dependent origination—nothing arises without causes, yet causes themselves are contingent. Starting with 'mi' reminds us that our position shapes what reasons we can perceive, encouraging epistemic humility.",
+    "peace-linguistics-practices": "By beginning with the self-referential 'mi' rather than pointing outward, 'misa' transforms potentially aggressive 'why did you?' into reflective 'what are the reasons?' This linguistic choice reduces blame while increasing understanding.",
+    "solarpunk-values": "Understanding why systems work or fail is essential for designing resilient alternatives. 'Misa' serves the solarpunk practice of root cause analysis that looks beyond symptoms to underlying patterns, seeking leverage points for positive change.",
+    "pre-industrial-wisdom": "Traditional knowledge recognizes multiple, interwoven causation—why harvests fail involves weather, soil, timing, and community harmony. 'Misa' carries this holistic understanding that reasons are rarely singular, that wisdom requires seeing the web of causes rather than isolated factors."
+  }
+}

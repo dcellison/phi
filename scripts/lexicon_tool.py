@@ -51,20 +51,9 @@ def main():
     # --- Add Command ---
     add_parser = subparsers.add_parser(
         "add",
-        help="Add a new lexicon entry."
+        help="Add a new lexicon entry from a JSON file."
     )
-    add_parser.add_argument("--word", required=True)
-    add_parser.add_argument("--gloss", required=True)
-    add_parser.add_argument("--ipa", required=True)
-    add_parser.add_argument("--concept", required=True)
-    add_parser.add_argument("--description", required=True)
-    add_parser.add_argument("--sound_symbolism", required=True)  # Changed from rationale
-    add_parser.add_argument("--syllables", required=True, nargs='+', help="Space-separated list of syllables.")
-    add_parser.add_argument("--pos", required=True, nargs='+', help="Space-separated list of parts of speech.")
-    add_parser.add_argument("--pillars", required=True, nargs='+', help="Space-separated list of philosophical pillars.")
-    add_parser.add_argument("--tags", required=True, nargs='+', help="Space-separated list of tags.")
-    add_parser.add_argument("--grammatical_notes", help="Cross-linguistic context (optional).")
-    add_parser.add_argument("--slot", type=int, help="The grammatical slot number (optional).")
+    add_parser.add_argument("json_file", help="Path to the JSON file containing the word definition.")
     add_parser.set_defaults(func=add_entry)
 
     # --- Update Command ---
@@ -316,16 +305,38 @@ def delete_entry(args):
 
 
 def add_entry(args):
-    """Adds a new entry to the lexicon and creates the corresponding JSON file."""
+    """Adds a new entry to the lexicon from a JSON file."""
     if not DB_PATH.exists():
         print("Database not found. Please run 'init' first.", file=sys.stderr)
         sys.exit(1)
 
-    # 1. Uniqueness Check
+    # 1. Read the JSON file
+    json_path = Path(args.json_file)
+    if not json_path.exists():
+        print(f"Error: JSON file not found: {json_path}", file=sys.stderr)
+        sys.exit(1)
+    
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            entry = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"Error parsing JSON file: {e}", file=sys.stderr)
+        sys.exit(1)
+    except IOError as e:
+        print(f"Error reading JSON file: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    # 2. Validate required fields
+    if not all(k in entry for k in ['word', 'gloss']):
+        print("Error: JSON must contain at least 'word' and 'gloss' fields.", file=sys.stderr)
+        sys.exit(1)
+
+    # 3. Uniqueness Check
     try:
         conn = sqlite3.connect(DB_PATH)
         cursor = conn.cursor()
-        cursor.execute("SELECT word FROM lexicon WHERE LOWER(word) = ? OR LOWER(gloss) = ?", (args.word.lower(), args.gloss.lower()))
+        cursor.execute("SELECT word FROM lexicon WHERE LOWER(word) = ? OR LOWER(gloss) = ?", 
+                      (entry['word'].lower(), entry['gloss'].lower()))
         existing = cursor.fetchone()
         if existing:
             print(f"Error: An entry with a similar word or gloss already exists: '{existing[0]}'. Aborting.", file=sys.stderr)
@@ -335,43 +346,13 @@ def add_entry(args):
         print(f"Database error during uniqueness check: {e}", file=sys.stderr)
         sys.exit(1)
 
-    # 2. Prepare data and file path
-    new_entry = {
-        "word": args.word,
-        "gloss": args.gloss,
-        "ipa": args.ipa,
-        "syllables": args.syllables,
-        "pos": args.pos,
-        "concept": args.concept,
-        "description": args.description,
-        "sound_symbolism": args.sound_symbolism,  # Changed
-        "pillars": args.pillars,
-        "tags": args.tags
-    }
-    if args.slot is not None:
-        new_entry['slot'] = args.slot
-    if args.grammatical_notes:
-        new_entry['grammatical_notes'] = args.grammatical_notes
-    
-    # Use the gloss for the filename, in content directory
-    file_path = CONTENT_DIR / f"{args.gloss}.json"
+    # 4. Determine source file path (relative to project root)
+    if json_path.is_absolute():
+        source_file = str(json_path.relative_to(PROJECT_ROOT))
+    else:
+        source_file = str(json_path)
 
-    if file_path.exists():
-        print(f"Error: JSON file already exists at {file_path}. Aborting.", file=sys.stderr)
-        conn.close()
-        sys.exit(1)
-
-    # 3. Write JSON file first (as the source of truth) - no array wrapper
-    try:
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(new_entry, f, indent=2, ensure_ascii=False)  # Changed: no array
-        print(f"Successfully created JSON file: {file_path.relative_to(PROJECT_ROOT)}")
-    except IOError as e:
-        print(f"Error writing JSON file: {e}", file=sys.stderr)
-        conn.close()
-        sys.exit(1)
-
-    # 4. Insert into database
+    # 5. Insert into database
     try:
         cursor.execute("""
         INSERT INTO lexicon (
@@ -380,32 +361,30 @@ def add_entry(args):
             pillars, tags, source_file
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
-            new_entry.get('word'),
-            new_entry.get('gloss'),
-            new_entry.get('ipa'),
-            json.dumps(new_entry.get('syllables')),
-            new_entry.get('slot'),
-            json.dumps(new_entry.get('pos')),
-            new_entry.get('concept'),
-            new_entry.get('description'),
-            new_entry.get('sound_symbolism'),  # Changed
-            new_entry.get('grammatical_notes'),
-            new_entry.get('image_prompt'),
-            json.dumps(new_entry.get('pillars')),
-            json.dumps(new_entry.get('tags')),
-            str(file_path.relative_to(PROJECT_ROOT))
+            entry.get('word'),
+            entry.get('gloss'),
+            entry.get('ipa'),
+            json.dumps(entry.get('syllables')) if entry.get('syllables') else None,
+            entry.get('slot'),
+            json.dumps(entry.get('pos')) if entry.get('pos') else None,
+            entry.get('concept'),
+            entry.get('description'),
+            entry.get('sound_symbolism'),
+            entry.get('grammatical_notes'),
+            entry.get('image_prompt'),
+            json.dumps(entry.get('pillars')) if entry.get('pillars') else None,
+            json.dumps(entry.get('tags')) if entry.get('tags') else None,
+            source_file
         ))
         conn.commit()
-        print(f"Successfully added entry for '{args.word}' to the database.")
+        print(f"Successfully added entry for '{entry['word']}' ({entry['gloss']}) to the database.")
     except sqlite3.Error as e:
         print(f"Database error during insert: {e}", file=sys.stderr)
-        print("Rolling back file creation...")
-        file_path.unlink() # Attempt to clean up the created file
         sys.exit(1)
     finally:
         conn.close()
 
-    print("\nNew lexicon entry added successfully!")
+    print("\nLexicon entry added successfully!")
 
 
 
