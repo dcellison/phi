@@ -1,0 +1,24 @@
+{
+  "word": "meilo",
+  "gloss": "sit",
+  "ipa": "/ˈme.i.lo/",
+  "syllables": ["mei", "lo"],
+  "pos": ["verb"],
+  "concept": "Sit / Rest in Seated Position",
+  "description": "The fundamental act of lowering oneself into a supported resting position, where the body's weight transfers from feet to seat. More than mere physical rest, sitting represents the conscious choice to cease movement, to establish presence in a place, and to open oneself to what might unfold in stillness. It is the posture of councils and circles, of students and teachers, of meditation and contemplation. Sitting transforms space into place - wherever we sit becomes, temporarily, a center of awareness and potential connection.",
+  "sound_symbolism": "The word begins with 'mei', where the labial nasal 'm' creates the most grounded consonant - lips together, sound resonating through bone, the body's weight settling into earth. This grounding flows into the vowel pair 'ei' pronounced in hiatus as /e.i/, creating Phi's distinctive two-beat rhythm within a single written syllable. The 'e' begins the lowering motion, then 'i' represents the slight adjustment as we find our center. The final syllable 'lo' flows liquid and continuous, the 'l' rolling into settled stability while 'o' rounds out in complete rest, whole and centered. 'Meilo' captures the full journey of sitting - grounding, adjusting, settling into supported stillness.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Concentric circles of deepening color suggest settling into stillness. Pale lavender outer rings gradually deepen to soft amethyst at center. Translucent washes of powder blue pool and gather like fabric settling into folds. Golden spirals curve inward and downward, suggesting gentle lowering motion. Rose-tinted curves nestle into each other, creating sense of supported rest. Mint green tendrils root downward while coral blooms open in balanced stillness. Circular medallions contain dots that grow more concentrated toward base. All extremely soft pastels with emphasis on horizontal, grounding elements. Vertical format with visual weight settling toward bottom. Style: Abstract representation of settling into centered stillness.",
+  "grammatical_notes": "Functions as an intransitive verb describing the state or action of being seated ('mia meilo' - I sit/I am sitting). Can indicate the action of sitting down when combined with inchoative aspect marker 'pa' ('mia pa meilo' - I begin to sit/I sit down). Takes locative complements with prepositions (sitting on/in/at something). Unlike some languages, does not require reflexive construction. The verb encompasses both the dynamic action of sitting down and the stative condition of being seated.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Sitting meditation (zazen) is perhaps the most fundamental Buddhist practice - the Buddha himself attained enlightenment while sitting beneath the Bodhi tree. The act of sitting still cultivates mindfulness, allowing practitioners to observe the arising and passing of thoughts without attachment. In sitting, we practice being present without doing.",
+    "pre-industrial-wisdom": "Traditional cultures worldwide recognize sitting in circles as essential for council, storytelling, and decision-making. The equality of the circle, where no position dominates, emerges naturally when people sit together. Sitting connects us to ancestral practices of gathering around fires, sharing wisdom, and building community through patient presence.",
+    "peace-linguistics-practices": "Sitting together is a universal gesture of peace - we sit to show we come without aggression, to indicate readiness for dialogue, to demonstrate commitment to remaining present through difficult conversations. The seated position naturally slows speech and encourages thoughtful response rather than reactive confrontation."
+  },
+  "tags": {
+    "physical": "fundamental bodily position and experience of supported rest",
+    "spatial": "establishes presence in a specific location, transforming space into place",
+    "community": "essential posture for gatherings, councils, and shared activities",
+    "wisdom": "sitting meditation as practice for cultivating mindful awareness",
+    "ritual": "ceremonial significance in meditation, councils, and traditional gatherings"
+  }
+}

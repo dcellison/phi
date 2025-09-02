@@ -1,6 +1,6 @@
 ## Multi-pass Phi word creation process:
 
-Pass 1: Check that the gloss is not already in the lexicon
+Pass 1: Check that the gloss we are considering is not already in the lexicon
   a. Confirm with user
 
 Pass 2: Create the gloss, the concept, and a detailed description
@@ -54,9 +54,3 @@ Pass 9: Check that the JSON formtting is in the preferred format
   - [ ] Concept clearly defined
   - [ ] Description captures nuance
   - [ ] Image prompt captures visual aspects
-
-## Create a tracking system to monitor:
-
-    - Which glosses have been completed
-    - Phonological patterns used (to ensure variety)
-    - Pillar distribution (to maintain balance)

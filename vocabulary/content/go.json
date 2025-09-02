@@ -1,0 +1,22 @@
+{
+  "word": "wepu",
+  "gloss": "go",
+  "ipa": "/ˈwe.pu/",
+  "syllables": ["we", "pu"],
+  "pos": ["verb"],
+  "concept": "Go / Depart / Move Away",
+  "description": "The fundamental act of movement away from one's current position, initiating a journey toward elsewhere. More than simple locomotion, going embodies the courage of departure, the acceptance of change, and the trust required to leave the known behind. It represents both physical movement through space and the metaphorical passages we make through life's transitions - from one state to another, from here to there, from now to next. Going is simultaneously an ending and a beginning, a gentle release of where we are to embrace where we might be.",
+  "sound_symbolism": "The word begins with 'we', where the welcoming 'w' paradoxically opens the mouth in the shape of departure - lips rounded as if releasing a breath, letting something precious float away. The 'e' rises slightly, a gentle lift like the first step of a journey. The second syllable 'pu' creates a soft plosive release - the 'p' is a quiet parting, like a seedpod opening, while 'u' draws back into the distance, the sound itself receding like a figure walking into the horizon. Together, 'wepu' embodies the acoustic shape of leaving - an opening that becomes a release, a presence that becomes an absence, the sound of footsteps growing quieter with distance.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Dissolving forms suggest departure through fading washes. Pale rose and lavender spiral outward from center, growing lighter toward edges. Whisper-blue ribbons fragment and disperse like paths diverging. Soft peach circles fade to transparency, suggesting receding presence. Mint green tendrils reach toward frame edges, never quite arriving. Circular medallions contain dots that gradually vanish. All extremely soft pastels bleeding away from center. Vertical format emphasizing upward release. Style: Abstract dissolution through liquid, vanishing patterns.",
+  "grammatical_notes": "Functions as an intransitive verb of motion requiring no direct object ('mia wepu' - I go), typically taking directional complements with prepositions ('mia wei hauno wepu' - I go to the house) or source markers ('mia phio hauno wepu' - I go from the house). Can express future intent when unmarked ('mia wepu' - I'm going/I'll go). Unlike English, does not function as a noun - separate words would be used for concepts like 'departure' or 'turn'.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Going embodies the fundamental Buddhist practice of letting go - the ability to leave without clinging, to move forward without attachment. The Buddha's own 'going forth' (pabbajjā) from palace life exemplifies how departure can be a spiritual act. Each going is a small practice of non-attachment, teaching us that we can release our grip on where we are.",
+    "pre-industrial-wisdom": "Before modern transport, going was a consequential act requiring preparation, ritual, and often ceremony. Traditional cultures understood departure as significant - whether for pilgrimage, seasonal migration, or nomadic movement. Going connected people to ancestral paths, trade routes worn by generations, and the deep knowledge that movement is survival."
+  },
+  "tags": {
+    "movement": "fundamental verb of departure and motion away",
+    "action": "basic act of leaving one's current position",
+    "space": "involves transition from one location to another",
+    "change": "embodies transition from presence to absence"
+  }
+}

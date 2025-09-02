@@ -1,0 +1,23 @@
+{
+  "word": "thalo",
+  "gloss": "walk",
+  "ipa": "/ˈθa.lo/",
+  "syllables": ["tha", "lo"],
+  "pos": ["verb", "noun"],
+  "concept": "Walk / Mindful Journey on Foot",
+  "description": "The fundamental human act of bipedal locomotion, where alternating steps create forward movement through space. More than mere transportation, walking represents humanity's most ancient and sustainable form of travel - a rhythmic dialogue between body and earth where each footfall connects us to the ground beneath. It is simultaneously meditation in motion, gentle exploration of the world, and the peaceful assertion of our freedom to move through space at our own chosen pace.",
+  "sound_symbolism": "The word begins with 'tha', where the dental fricative 'th' creates a soft, continuous flow like feet brushing against earth - neither harsh impact nor complete separation, but the gentle friction of movement. This whispered beginning meets 'a', open and grounded like the stable stance between steps. The second syllable 'lo' flows liquid and continuous, the 'l' rolling forward like the perpetual motion of walking, while 'o' rounds out each step's completion. Together, 'thalo' creates a two-beat rhythm that mirrors the alternating footfalls of walking itself - soft contact, flowing continuation, the endless rhythm of human locomotion.",
+  "image_prompt": "Art Nouveau watercolor in Mucha style: Flowing S-curves in pale lavender and soft peach suggest rhythmic movement. Translucent washes of powder blue and blush pink rise and fall in alternating waves. Delicate ribbons in whisper-gold dissolve and reappear through wet-on-wet blooms. Mint green spirals drift alongside flowing pathways. Circular medallions hold abstract dot patterns in palest coral. Organic borders flow in liquid rose and cream. All extremely soft pastels bleeding into each other. Vertical format emphasizing forward motion. Style: Pure abstract rhythm through liquid, dreamlike patterns.",
+  "grammatical_notes": "Functions primarily as an intransitive verb requiring no object ('mia thalo' - I walk), but can take directional complements with prepositions ('mia wei shiko thalo' - I walk to the building). As a noun, describes the activity or instance of walking ('thalo wela sio' - walking is good/beautiful). The same form serves both functions without morphological change, determined by syntactic position.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Walking meditation (kinhin) is a fundamental Buddhist practice where each step becomes an opportunity for mindfulness. The rhythm of walking naturally synchronizes with breath, creating a moving meditation that grounds us in the present moment. Each footfall teaches impermanence - the constant arising and passing of contact with earth. Walking shows us that the path itself is the destination.",
+    "pre-industrial-wisdom": "Walking is humanity's original and most essential form of transportation, predating all technology and requiring nothing but the body. Traditional cultures measure distance in walking days, understand landscape through footpaths worn by generations, and transmit knowledge through walking songs that map the land. Walking connects us directly to ancestral ways of moving through and knowing the world.",
+    "solarpunk-values": "Walking as sustainable transportation aligns with solarpunk's vision of human-scale, car-free cities, though the connection is somewhat general - walking predates and transcends any specific environmental movement. Still, choosing to walk in our modern context is indeed a small act of resistance against fossil fuel dependence and a vote for walkable, community-oriented urban design."
+  },
+  "tags": {
+    "movement": "walking is the fundamental form of human locomotion",
+    "body": "requires coordinated use of legs, feet, and balance",
+    "action": "one of the most basic human activities",
+    "space": "enables traversal of distance and exploration of place"
+  }
+}

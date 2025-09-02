@@ -7,6 +7,7 @@ Phi is a constructed auxiliary language designed to promote mindful, peaceful co
 
 ### Phonological Requirements
 - [ ] **Uses only permitted sounds**: C={h,k,l,m,n,p,r,s,t,w}, F={ph,th,sh,wh}, V={a,e,i,o,u}
+- [ ] **The fricative digraphs (F) are**: ph=/φ/, th=/θ/, sh=/ʃ/, wh=/ʍ/
 - [ ] **Follows (C)CV structure**: Single consonants OR fricative digraphs only
 - [ ] **Maintains vowel hiatus**: Each vowel = separate syllable (no diphthongs)
 - [ ] **Respects three-vowel constraint**: Never VVV+ sequences
