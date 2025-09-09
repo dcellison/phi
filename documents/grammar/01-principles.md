@@ -40,18 +40,18 @@ Phi is a zero-article language. It does not use particles equivalent to English 
 *   **Contextual Definiteness:** A noun like `whelea` (friend) can be interpreted as definite ("the friend") or indefinite ("a friend") based on the ongoing discourse. This requires speakers to be mindfully present in the conversation.
 *   **Explicit Specificity:** When specificity is required and cannot be inferred from context, the deictic (pointing) particles `pha` (proximal, "this") and `tha` (distal, "that") are used. These are considered modifiers, not articles.
 
-### 1.4. Prepositions and Case Markers
-To define a noun's grammatical or spatial relationship to the rest of the sentence, Phi uses a special class of words called **Prepositions** or **Case Markers**.
+### 1.4. Postpositions and Case Markers
+To define a noun's grammatical or spatial relationship to the rest of the sentence, Phi uses a special class of words called **Postpositions** or **Case Markers**.
 
 These words are unique in two ways:
-1.  **Placement:** They are placed **before** the noun they modify, forming a prepositional phrase (e.g., `mua hauno` - "in the house").
-2.  **Phonetic Signature:** All prepositions have a consistent `CV.V` (Consonant-Vowel Pair) structure, which makes them instantly recognizable to the listener.
+1.  **Placement:** They are placed **after** the noun they modify, forming a postpositional phrase (e.g., `hauno mua` - "house-in" = "in the house").
+2.  **Phonetic Signature:** All postpositions have a consistent `CV.V` (Consonant-Vowel Pair) structure, which makes them instantly recognizable to the listener.
 
-This system is perfectly consistent with the head-final rule, as the noun remains the head of the phrase: `[modifier] [head]`.
+This system is perfectly consistent with the head-final rule, as the postposition follows its head noun: `[head] [postposition]`.
 
-- **Correct:** `mua hauno` (in house)
-- **Correct:** `thue shiro` (through forest)
-- **Incorrect:** `hauno mua`
+- **Correct:** `hauno mua` (house in = in the house)
+- **Correct:** `shiro thue` (forest through = through the forest)
+- **Incorrect:** `mua hauno`
 
 ## 2. The Vocative Case (Direct Address)
 To address someone directly, the vocative particle `ko` is placed before the noun or name being addressed. This construction typically stands at the beginning of an utterance and is considered separate from the main clause's grammar.

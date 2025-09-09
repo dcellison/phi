@@ -3,14 +3,14 @@
   "gloss": "ON",
   "ipa": "/ˈni.a/",
   "syllables": ["ni", "a"],
-  "pos": ["preposition"],
+  "pos": ["postposition"],
   "concept": "On / Upon / Surface Contact",
   "description": "Marks the superessive case, indicating location on a surface with the implication of contact and support. Unlike mere position, 'nia' acknowledges the relationship between supporter and supported, the interface where distinct entities meet and interact.",
   "sound_symbolism": "The word begins with 'ni', where the nasal 'n' creates firm contact—the tongue pressed against the alveolar ridge mirrors the physical contact that 'on' describes. This grounding touch opens into 'a', the most open vowel, suggesting the broad expanse of surface that extends from the point of contact. The sound journey from firm touch to open space captures the dual nature of surfaces: specific in contact, expansive in extent. Speaking 'nia' requires the mouth to enact the very relationship it describes.",
-  "grammatical_notes": "Functions as a pure locative preposition marking static position on surfaces. Does not distinguish between horizontal surfaces ('on the table') and vertical surfaces ('on the wall')—both involve surface contact. Cannot be used for abstract relationships that English 'on' permits (e.g., 'on Tuesday' requires temporal prepositions). Combines with motion verbs to indicate movement across surfaces rather than movement to end up on surfaces.",
+  "grammatical_notes": "Functions as a pure locative postposition marking static position on surfaces. Follows the noun it modifies: 'table nia' (table-on = on the table), 'wall nia' (wall-on = on the wall). Does not distinguish between horizontal and vertical surfaces—both involve surface contact. Cannot be used for abstract relationships that English 'on' permits (e.g., 'on Tuesday' requires temporal postpositions). Combines with motion verbs to indicate movement across surfaces rather than movement to end up on surfaces.",
   "pillars": {
     "pre-industrial-wisdom": "Traditional building and craft knowledge centers on understanding how things rest upon each other—stones on earth, beams on posts, roofs on walls. 'Nia' honors this fundamental relationship of support that creates shelter and stability without domination.",
-    "secular-buddhist-philosophy": "The preposition embodies the teaching of support without attachment—things can rest upon each other while maintaining their distinct nature. Like the lotus on water, 'nia' acknowledges contact without conflation, relationship without loss of identity.",
+    "secular-buddhist-philosophy": "The postposition embodies the teaching of support without attachment—things can rest upon each other while maintaining their distinct nature. Like the lotus on water, 'nia' acknowledges contact without conflation, relationship without loss of identity.",
     "solarpunk-values": "Regenerative design layers functions—solar collectors on roofs, gardens on buildings, living systems on structures. 'Nia' serves the practice of stacking functions where surfaces become productive interfaces rather than mere boundaries."
   }
 }

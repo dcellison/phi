@@ -79,7 +79,7 @@ sha sho "thino wela" thopa
 ```
 
 ### 4.2.3. Temporal Clauses (head-final)
-A temporal clause is formed by stating the clause and then marking it with a preposition that functions as a temporal subordinator.
+A temporal clause is formed by stating the clause and then marking it with a postposition that functions as a temporal subordinator.
 ```
 [mia pholea] pheo mia sela hisu
 [1SG create] AFTER 1SG peace feel
@@ -91,20 +91,20 @@ A temporal clause is formed by stating the clause and then marking it with a pre
 ```
 
 ### 4.2.4. Causal and Concessive Clauses
-Causal ("because") and concessive ("although") clauses are formed by using the prepositions `lao` and `shai` respectively, followed by a nominalized clause (using `nai`).
+Causal ("because") and concessive ("although") clauses are formed by using the postpositions `lao` and `shai` respectively, after a nominalized clause (using `nai`).
 
-**Structure:** `[Preposition [Clause] nai], [Main Clause]`
+**Structure:** `[[Clause] nai Postposition], [Main Clause]`
 
 - **Causal:**
   ```
-  [sha to wepu] nai lao, mia nolou hisu
-  [3SG PST leave] NOM BECAUSE, 1SG sadness feel
+  [[sha to wepu] nai] lao, mia nolou hisu
+  [[3SG PST leave] NOM] BECAUSE, 1SG sadness feel
   (Because she left, I feel sad.)
   ```
 - **Concessive:**
   ```
-  [shiro to wela ma sio] nai shai, mia ketho ma hisu
-  [forest PST beautiful NEG be] NOM ALTHOUGH, 1SG fear NEG feel
+  [[shiro to wela ma sio] nai] shai, mia ketho ma hisu
+  [[forest PST beautiful NEG be] NOM] ALTHOUGH, 1SG fear NEG feel
   (Although the forest was not beautiful, I felt no fear.)
   ```
 
