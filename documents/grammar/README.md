@@ -6,8 +6,8 @@ This collection of documents provides the complete technical specification of Ph
 
 1.  **[Fundamental Syntactic Principles](./01-principles.md)**
     -   Word Order
-    -   Head-Final Consistency
-    -   Postpositions
+    -   Announce Then Deliver Philosophy
+    -   Prepositions
     -   The Vocative Case
 
 2.  **[The Three-Slot Particle System](./02-particles.md)**

@@ -2,8 +2,23 @@
 
 This document covers the most foundational rules that govern the structure of all Phi sentences.
 
-### 1.1. Verb-Final Word Order
-Phi is a strict **verb-final** language. The verb always appears at the end of its clause. While this most commonly results in a Subject-Object-Verb (SOV) pattern, the full structure allows for adverbial phrases to be placed before the object and verb.
+## 1.1. The Modifier-First Principle
+
+Phi is organized by a single, exceptionless principle: **every element that modifies, specifies, or relates another element comes BEFORE what it affects**. This creates a consistent "announce then deliver" grammar where all grammatical relationships are declared before their content.
+
+This principle applies universally:
+- **Objects** precede the **verbs** they complete
+- **Adjectives** precede the **nouns** they describe
+- **Possessors** precede what they **possess**
+- **Prepositions** precede the **nouns** they relate
+- **Particles** precede the **words** they modify
+- **Quantifiers** precede what they **enumerate**
+
+Unlike traditional head-initial or head-final languages, Phi transcends typological categories through this philosophically coherent organizing principle.
+
+## 1.2. Word Order: Context Before Action
+
+Following the modifier-first principle, Phi places verbs at the end of clauses, creating a word order where all context is established before the action is revealed:
 
 **Core Patterns:**
 - **S-V (Intransitive):** `mia nima.` (I sleep.)
@@ -16,45 +31,55 @@ Phi is a strict **verb-final** language. The verb always appears at the end of i
   (I feel well in the garden.)
   ```
 
-### 1.2. Head-Final Consistency
-All modifiers precede their heads:
-- **Adjectives (modifying nouns):** `miro phino` (beautiful book)
-- **Adjectives (modifying verbs):** `nosa pholea` (mindfully create)
+This verb-final order isn't arbitrary—it embodies the philosophical commitment to establishing full context before declaring action, promoting mindful rather than reactive speech.
 
-#### 1.2.1. Genitive Case (Possession)
-Possession is indicated by placing the possessor noun or noun phrase directly before the possessed noun. The possessor functions as a modifier.
+## 1.3. Universal Application of Modifier-First
 
-- **Noun as modifier:** `weola thola` (the community's story)
-- **Noun phrase as modifier:** `thea thola` (today's story)
+### 1.3.1. Descriptive Modifiers
+All descriptive elements precede what they describe:
+- **Adjectives before nouns:** `miro phino` (beautiful book)
+- **Adverbs before verbs:** `nosa pholea` (mindfully create)
+- **Demonstratives before nouns:** `pha whelea` (this friend)
 
-#### 1.2.2. Quantifying Descriptors
-Words that express quantity (e.g., "all," "some," "many") function as a class of **descriptors**. Consistent with the head-final rule, they precede the noun they modify. They can be used with or without the plural particle `lo`, depending on context.
+### 1.3.2. Possession as Modification
+Possession is expressed through the modifier-first principle—the possessor precedes the possessed:
+- **Simple possession:** `weola thola` (the community's story)
+- **Complex possession:** `[miro whelea] hauno` ([beautiful friend] house = the beautiful friend's house)
 
+### 1.3.3. Quantification as Modification
+Quantifiers precede what they count:
 - `theula lo whelea` (all of the friends)
 - `sheloi thola` (many stories)
 - `mawha whelea` (no friend)
 
-### 1.3. Zero-Article System
-Phi is a zero-article language. It does not use particles equivalent to English "the" or "a/an." Noun definiteness is inferred from context.
+## 1.4. Prepositions: Announcing Relationships
 
-*   **Contextual Definiteness:** A noun like `whelea` (friend) can be interpreted as definite ("the friend") or indefinite ("a friend") based on the ongoing discourse. This requires speakers to be mindfully present in the conversation.
-*   **Explicit Specificity:** When specificity is required and cannot be inferred from context, the deictic (pointing) particles `pha` (proximal, "this") and `tha` (distal, "that") are used. These are considered modifiers, not articles.
+Prepositions in Phi follow the modifier-first principle, announcing spatial, temporal, or logical relationships before their objects:
 
-### 1.4. Postpositions and Case Markers
-To define a noun's grammatical or spatial relationship to the rest of the sentence, Phi uses a special class of words called **Postpositions** or **Case Markers**.
+**Key characteristics:**
+1. **Position:** Always BEFORE the noun phrase they relate
+2. **Phonetic signature:** Consistent `CV.V` structure for instant recognition
+3. **Function:** Announce the relationship before delivering the content
 
-These words are unique in two ways:
-1.  **Placement:** They are placed **after** the noun they modify, forming a postpositional phrase (e.g., `hauno mua` - "house-in" = "in the house").
-2.  **Phonetic Signature:** All postpositions have a consistent `CV.V` (Consonant-Vowel Pair) structure, which makes them instantly recognizable to the listener.
+Examples:
+- `mua hauno` (in house = in the house)
+- `wei mia` (to me)
+- `thue shiro` (through forest = through the forest)
 
-This system is perfectly consistent with the head-final rule, as the postposition follows its head noun: `[head] [postposition]`.
+This prepositional system makes every spatial or temporal relationship explicit and transparent before the listener encounters the noun, preventing ambiguity and promoting conscious communication.
 
-- **Correct:** `hauno mua` (house in = in the house)
-- **Correct:** `shiro thue` (forest through = through the forest)
-- **Incorrect:** `mua hauno`
+## 1.5. The Zero-Article System
 
-## 2. The Vocative Case (Direct Address)
-To address someone directly, the vocative particle `ko` is placed before the noun or name being addressed. This construction typically stands at the beginning of an utterance and is considered separate from the main clause's grammar.
+Phi uses no articles (the/a/an), maintaining simplicity while requiring mindful attention to context:
+
+- **Contextual definiteness:** `whelea` can mean "friend," "a friend," or "the friend" based on discourse context
+- **Explicit specification:** When needed, demonstratives (`pha` = this, `tha` = that) provide specificity
+
+This system requires speakers and listeners to remain present and engaged with the conversation's context, promoting mindful communication.
+
+## 1.6. The Vocative: Announcing Address
+
+Even direct address follows the announce-then-deliver principle. The vocative particle `ko` announces that someone is being addressed before their name or title is spoken:
 
 **Structure:** `ko [Noun], [Sentence]`
 
@@ -63,4 +88,15 @@ To address someone directly, the vocative particle `ko` is placed before the nou
 ko whelea, mia pha sio
 VOC friend, 1SG here am
 (Friend, I am here.)
-``` 
+```
+
+## 1.7. Philosophical Implications
+
+The modifier-first principle creates more than grammatical consistency—it instantiates a worldview where:
+
+- **Intentions are declared** before actions
+- **Context precedes** content
+- **Relationships are acknowledged** before entities
+- **Transparency** is grammatically required
+
+Every sentence in Phi becomes a practice in conscious structuring, where speakers must announce their grammatical intentions before delivering semantic content. This makes the language itself a meditation practice, a tool for peace, and an embodiment of mindful communication.

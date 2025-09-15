@@ -18,31 +18,31 @@ To say "I understand love," we follow the `S-O-V` pattern precisely:
 
 This structure requires you to state both the subject and the object—the entire context—before the final action is revealed.
 
-### Adding Location with Postpositions
+### Adding Location with Prepositions
 
-What if we want to say *where* an action happens? Phi does this using **postpositions**. These are small words that come *after* a noun to describe its relationship to the sentence (like location or time).
+What if we want to say *where* an action happens? Phi does this using **prepositions**. These are small words that come *before* a noun to describe its relationship to the sentence (like location or time).
 
-Let's learn a noun and our first postposition:
+Let's learn a noun and our first preposition:
 *   `noshale`: a garden
 *   `mu`: in / inside
 
-The postposition always follows the noun it describes. So, "in the garden" is `noshale mu`.
+The preposition always precedes the noun it describes. So, "in the garden" is `mu noshale`.
 
 Now, let's build a full sentence: "I feel peace in the garden."
 We'll need our words `mia` (I), `sela` (peace), and `hisu` (to feel).
 
 The word order is: Subject - [Location Phrase] - Object - Verb.
 
-*   **Phi:** `mia noshale mu sela hisu.`
-*   **Gloss:** `1SG garden INESS peace feel.`
+*   **Phi:** `mia mu noshale sela hisu.`
+*   **Gloss:** `1SG in garden peace feel.`
 *   **Translation:** I feel peace in the garden.
 
-Notice how the location phrase, `noshale mu`, comes before the object (`sela`). All the descriptive details come first, and the verb comes last.
+Notice how the location phrase, `mu noshale`, comes before the object (`sela`). All the descriptive details come first, and the verb comes last.
 
 ### Lesson 2 Summary
 
 *   The most common sentence structure is **Subject-Object-Verb**.
-*   **Postpositions** are used to describe relationships, and they always come **after** the noun they modify.
+*   **Prepositions** are used to describe relationships, and they always come **before** the noun they modify.
 *   Adverbial phrases (like location) are placed before the object and verb.
 
 With these rules, you can now describe who does what, and where they do it. In the next lesson, we will explore how to ask questions. 

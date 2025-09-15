@@ -33,7 +33,7 @@ You build a number from the highest magnitude to the lowest, saying the digit th
 
 ### Ordinal Numbers (first, second, third...)
 
-To turn a regular number into an ordinal number, you add the postposition `noa`. The resulting phrase acts as an adjective and comes before a noun.
+To turn a regular number into an ordinal number, you add the particle `noa`. The resulting phrase acts as an adjective and comes before a noun.
 
 *   **The third house:** `tho noa hauno`
 *   **The 42nd story:** `shi toa wha noa thola`
@@ -42,6 +42,6 @@ To turn a regular number into an ordinal number, you add the postposition `noa`.
 
 *   Phi uses a regular, base-10 system.
 *   You build numbers from largest to smallest parts (`digit magnitude`).
-*   The postposition `noa` changes a cardinal number ("three") into an ordinal number ("third").
+*   The particle `noa` changes a cardinal number ("three") into an ordinal number ("third").
 
 You can now count and specify order, a crucial skill for communication. In the next lesson, we will move on to more complex sentences. 

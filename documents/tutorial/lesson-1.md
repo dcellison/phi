@@ -44,4 +44,4 @@ This `Subject-Adjective-Verb` structure is a core pattern built on the verb-fina
 *   The simplest sentence pattern is `Subject-Verb`.
 *   To describe something, use the pattern `Subject-Adjective-sio`.
 
-Congratulations! You can now form basic, complete sentences in Phi. In the next lesson, we will introduce objects and postpositions. 
+Congratulations! You can now form basic, complete sentences in Phi. In the next lesson, we will introduce objects and prepositions. 

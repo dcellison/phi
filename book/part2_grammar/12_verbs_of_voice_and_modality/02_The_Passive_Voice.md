@@ -38,7 +38,7 @@ This choice to foreground the affected rather than the actor reflects Phi's deep
 
 Understanding how `se` functions within Phi's grammatical architecture helps us use it with precision and grace. As a Slot 1 particle, `se` takes its place in the ordered sequence of verbal information, working seamlessly with the temporal particles we've already mastered.
 
-The basic transformation is straightforward: where an active sentence places the actor in subject position, a passive sentence with `se` places the affected party in subject position. `mia shako thiko` (I destroy the building) becomes `shako se thiko` (the building is destroyed). The original subject can be omitted entirely, or it can be preserved using appropriate postpositions when the agent remains relevant.
+The basic transformation is straightforward: where an active sentence places the actor in subject position, a passive sentence with `se` places the affected party in subject position. `mia shako thiko` (I destroy the building) becomes `shako se thiko` (the building is destroyed). The original subject can be omitted entirely, or it can be preserved using appropriate prepositions when the agent remains relevant.
 
 When `se` combines with tense and aspect particles, it creates rich possibilities for temporal and perspective layering. `shako to se ki thiko` (the building was being destroyed) combines past tense, passive voice, and progressive aspect to create a complex temporal-perspective portrait. `shako so se si thiko` (the building will have been destroyed) projects completed passive action into the future.
 

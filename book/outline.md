@@ -28,7 +28,7 @@
 
 - Chapter 12: Relative Clauses (A deep dive into both headless and headed relative clauses using the re particle)
 
-- Chapter 13: Nominalization (The art of turning actions into concepts with the nai postposition)
+- Chapter 13: Nominalization (The art of turning actions into concepts with the nai particle)
 
 ### Part IV: The Art of Speaking Phi - Nuance and Practice
 

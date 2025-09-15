@@ -91,11 +91,15 @@ Rather than precise numbers, Phi speakers would typically use quantity bands:
 This creates natural cognitive categories aligned with human perception rather than abstract precision.
 
 #### Ordinal Formation
-Use the postposition `noa` (as in current Phi) for ordinal numbers:
-- `ta noa` = first
-- `wi noa` = second
-- `ta sha noa` = third (literally "of three-group")
-- `pho noa` = later (beyond several)
+Use the particle `nu` for ordinal numbers (following modifier-first principle):
+- `nu ta` = first
+- `nu wi` = second  
+- `nu ta sha` = third
+- `nu ta pho` = ninth
+
+For discussing position conceptually, use the noun `noa` (position):
+- `ta noa` = first position
+- `wi noa nela` = in second position
 
 #### Mathematical Concepts
 Arithmetic operations use metaphorical verbs:

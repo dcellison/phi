@@ -1,9 +1,12 @@
-# 3. Question Formation
+# 3. Question Formation: Announcing Inquiry
 
-This document outlines the rules for forming both yes/no and content-based questions in Phi.
+Questions in Phi follow the modifier-first principle by announcing the interrogative nature of an utterance before its content, ensuring transparent communication of the speaker's intent to inquire rather than assert.
 
-## 3.1. Yes/No Questions
-Use the Slot 0 particle `wa` at the beginning of a sentence to turn it into a yes/no question.
+## 3.1. Yes/No Questions: Announcing Uncertainty
+
+The Slot 0 particle `wa` announces that what follows is a question, not a statement. This appears at the very beginning, preparing the listener for inquiry:
+
+**Structure:** `wa [Statement Structure]`
 
 **Example:**
 ```
@@ -12,20 +15,19 @@ Q 2SG family love
 (Do you love your family?)
 ```
 
-## 3.2. Content Questions (Wh-Questions)
-Content questions are formed by placing the appropriate interrogative pronoun in the natural subject or object position within a standard, verb-final sentence. The sentence does not require the `wa` particle.
+By announcing the interrogative intent first, `wa` transforms the entire utterance into a space of inquiry, inviting the listener's participation rather than imposing information.
 
-**Patterns:**
-- **S hina V?** (Subject does what?)
-- **hina O V?** (Who does verb to Object?)
+## 3.2. Content Questions: Focused Inquiry
 
-**Interrogative Pronouns:**
-- `sua` (who)
-- `hina` (what)
-- `weno` (when)
-- `kua` (where)
-- `misa` (why)
-- `thela` (how)
+Content questions use interrogative pronouns that occupy the position of the unknown information. The absence of `wa` indicates that the question's nature is already clear from the interrogative pronoun itself.
+
+**Interrogative Pronouns (Announcing What Is Unknown):**
+- `sua` (who) - announces inquiry about a person
+- `hina` (what) - announces inquiry about a thing or action
+- `weno` (when) - announces inquiry about time
+- `kua` (where) - announces inquiry about place
+- `misa` (why) - announces inquiry about reason
+- `thela` (how) - announces inquiry about manner
 
 **Examples:**
 ```
@@ -40,4 +42,34 @@ mia hina kela
 thi thela pholea
 2SG how create
 (How do you create?)
-``` 
+```
+
+## 3.3. The Philosophy of Interrogative Announcement
+
+Phi's question formation embodies several philosophical principles:
+
+### 3.3.1. Transparency of Intent
+By announcing questions with `wa` or using clear interrogative pronouns, speakers make their uncertainty explicit. This prevents the manipulation possible when statements masquerade as questions or vice versa.
+
+### 3.3.2. Invitation Rather Than Demand
+The announcement of a question creates a space for response rather than demanding information. The listener knows from the first particle that they are being invited to share knowledge, not being tested or challenged.
+
+### 3.3.3. Mindful Inquiry
+The requirement to announce interrogative intent forces speakers to be conscious of when they are asserting versus when they are inquiring. This distinction is grammatically encoded, making the difference between knowing and asking explicit.
+
+## 3.4. Question Particles in Context
+
+Questions can combine with other particles while maintaining the modifier-first principle:
+
+```
+wa pi thi minu shele po
+Q POL 2SG family help POSS
+(Could you please help the family?)
+```
+
+Here, each particle announces its function in sequence:
+- `wa` announces a question
+- `pi` announces politeness
+- `po` announces possibility
+
+This layered announcement creates transparent, conscious communication where every grammatical choice is explicit and intentional.

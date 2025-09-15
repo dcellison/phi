@@ -1,21 +1,21 @@
 # Phi Language Development TODO
 
-## URGENT: Fix Typological Inconsistency - Convert Prepositions to Postpositions
+## COMPLETED: Fix Postposition References in Documentation
 
-### The Problem
-Phi is documented as head-final (SOV) but uses prepositions instead of postpositions. This is typologically inconsistent. Head-final languages should have postpositions for consistency.
+### Background
+Previously, Phi experimented with postpositions for typological consistency with SOV order, but ultimately returned to prepositions for philosophical and practical reasons. However, some outdated postposition references remained in the codebase.
 
-### Required Changes
-- [x] Convert all vocabulary/function/preposition/*.json files to postpositions
-- [x] Update all POS tags from "preposition" to "postposition"
-- [x] Fix all example sentences from "wei mia" to "mia wei" pattern
-- [x] Update grammar documentation to reflect postposition usage
+### Completed Changes
+- [x] Convert all vocabulary/function/preposition/*.json files to use "preposition" terminology
+- [x] Update all POS tags to "preposition" 
+- [x] Fix all example sentences to use preposition patterns
+- [x] Update grammar documentation to reflect preposition usage
 - [x] Update book chapters discussing prepositions
-- [x] Ensure `noa` (ordinal marker) is consistently documented as postposition
-- [ ] Check all other function words for typological consistency
+- [x] Rework ordinal system: `nu` as particle, `noa` as position noun
+- [x] Check all other function words for consistent terminology
 
 ### Impact
-This affects every example sentence using spatial/temporal/relational markers. But fixing it now prevents learners from having to memorize exceptions.
+All documentation now consistently reflects that Phi uses prepositions, maintaining clarity for learners.
 
 ## Critical: Ternary Number System Conversion
 

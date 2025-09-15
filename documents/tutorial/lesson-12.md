@@ -60,7 +60,7 @@ This is the "Story of the First Garden," which we created during our vocabulary-
 *   **Phi:** `thea phoe weola liso sitha si nima. keto weola leshoa sio. mako wela ma sio.`
 *   **Gloss:** `today before community water beside IPFV sleep. mountain community above be. earth good/beautiful NEG be.`
 *   **Translation:** Long ago, the community was sleeping beside the water. The mountain was above the community. The land was not beautiful.
-*   **Analysis:** This sets the scene using postpositions (`sitha`, `leshoa`), the imperfective aspect (`si`), and a negated description (`wela ma sio`).
+*   **Analysis:** This sets the scene using prepositions (`sitha`, `leshoa`), the imperfective aspect (`si`), and a negated description (`wela ma sio`).
 
 **Part 2: The Idea**
 
@@ -81,7 +81,7 @@ This is the "Story of the First Garden," which we created during our vocabulary-
 *   **Phi:** `lo whelea keto whao. weo keto ro noshale thekoa. weo liso sitha nosa shele.`
 *   **Gloss:** `PL friend stone gather. 1PL stone with garden build. 1PL water beside mindful give/receive.`
 *   **Translation:** The friends gathered stones. We built the garden with stone. We mindfully shared by the water.
-*   **Analysis:** This passage uses the plural particle `lo`, our new vocabulary for `whao` (gather) and `thekoa` (build), and the instrumental postposition `ro` (with). Note that `keto` is treated as an uncountable substance ("stone"), not individual "stones." This is common for materials in Phi.
+*   **Analysis:** This passage uses the plural particle `lo`, our new vocabulary for `whao` (gather) and `thekoa` (build), and the instrumental preposition `ro` (with). Note that `keto` is treated as an uncountable substance ("stone"), not individual "stones." This is common for materials in Phi.
 
 **Part 5: The Result**
 

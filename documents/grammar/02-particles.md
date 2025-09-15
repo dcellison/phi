@@ -1,9 +1,10 @@
-# 2. Three-Slot Particle System
+# 2. The Three-Slot Particle System: Announcing Grammatical Intent
 
-Phi's grammar is expressed through a three-slot particle system: `Slot 0` → `Slot 1` → `Slot 2`. This system provides a clear and logical structure for modifying the meaning of sentences, verbs, and individual words.
+Phi's particle system perfectly embodies the modifier-first principle through three ordered slots: `Slot 0` → `Slot 1` → `Slot 2`. Each particle announces a specific type of grammatical modification BEFORE the content it affects, creating transparent and conscious communication.
 
-## 2.1. Slot 0: Sentence Frame Particles
-These appear at the very beginning of a sentence (after the vocative `ko`, if present) and shape its entire context.
+## 2.1. Slot 0: Sentence Frame Particles (Announcing Discourse Intent)
+
+These particles appear at the very beginning of a sentence, announcing the speaker's communicative intention before any content is delivered. They frame the entire utterance, preparing listeners for what type of speech act follows.
 
 **Question (`wa`):**
 ```
@@ -49,8 +50,9 @@ POL IMP family help
 (Please help the family.)
 ```
 
-## 2.2. Slot 1: Verb Phrase Particles
-These particles modify verbs and are placed immediately before the verb they affect. They are organized by their function.
+## 2.2. Slot 1: Verb Phrase Particles (Announcing Temporal and Modal Context)
+
+Following the modifier-first principle, these particles announce temporal, aspectual, and modal information BEFORE the verb. This allows listeners to understand the context of an action before learning what the action is.
 
 ### 2.2.1. Tense
 - `to` (PST): `mia to kela` (I understood)
@@ -74,8 +76,9 @@ These particles modify verbs and are placed immediately before the verb they aff
 ### 2.2.5. Negation
 - `ma` (NEG): `sha ma kela` (The other does not understand)
 
-### 2.2.6. Particle Stacking
-Slot 1 particles can be combined in a specific order: `Tense` > `Aspect` > `Voice` > `Modality`.
+### 2.2.6. Particle Stacking: Layered Announcement
+
+When multiple Slot 1 particles combine, they follow a specific order: `Tense` > `Aspect` > `Voice` > `Modality`. This creates layers of announcement, each adding context before the verb is revealed.
 ```
 pi thi so pa po kela
 POL 2SG FUT INCH POSS understand
@@ -100,11 +103,15 @@ The voice particle `se` is used to form the passive voice. This construction pro
 - **Active:** `mia thola pholea` (I create the story.)
 - **Passive:** `thola se pholea` (The story is created.)
 
-## 2.3. Slot 2: Word-Level Particles
-These precede and modify individual words:
+## 2.3. Slot 2: Word-Level Particles (Announcing Word-Specific Modifications)
+
+These particles announce specific modifications at the word level, always appearing BEFORE the word they affect. This maintains the modifier-first principle even at the smallest grammatical scale:
 
 **Number:**
 - `lo` (PL): `lo whelea` (friends)
+
+**Ordinal:**
+- `nu` (ORD): `nu ta pilo` (first child)
 
 **Focus:**
 - `she` (FOC): `mia she lothea kela` (I understand *love*)
@@ -112,25 +119,30 @@ These precede and modify individual words:
 **Comparison:**
 - `mo` (COMP): Forms the comparative.
 - `mo she` (SUPER): Forms the superlative.
-- In a comparative sentence, the standard of comparison is marked with the postposition `thele` (than).
+- In a comparative sentence, the standard of comparison is marked with the preposition `sheo` (than).
   ```
-  noshale shiro thele mo wela sio
-  garden forest than COMP good/beautiful be
+  [garden] sheo [forest] mo [beautiful] sio
+  garden than forest COMP beautiful be
   (The garden is more beautiful than the forest.)
-  ```
-- The equative ("as...as") is formed with the postposition `phea`.
-  ```
-  noshale shiro phea wela sio
-  garden forest as good/beautiful be
-  (The garden is as beautiful as the forest.)
   ```
 
 **Deixis:**
 - `pha` (PROX): `pha whelea` (this friend)
 - `tha` (DIST): `that whelea` (that friend)
 
-**Honorifics:**
-Phi uses Slot 2 particles before a name or title to express social context and respect. This system is based on relationship, not hierarchy.
+**Honorifics (Announcing Social Relationships):**
+Honorific particles announce the speaker's relationship to the person being named, appearing BEFORE the name. This announcement of social context demonstrates respect through transparency:
 - `sa` (HON.RESPECT): Marks respect for a mentor or elder. `sa Thala`
 - `ni` (HON.INTIM): Marks intimacy with a close friend or family. `ni Hino`
-- `le` (HON.ROLE): Marks respect for a community role. `le Mako` 
+- `le` (HON.ROLE): Marks respect for a community role. `le Mako`
+
+## 2.4. The Philosophy of Particle Precedence
+
+The three-slot particle system is not merely a grammatical mechanism—it's a manifestation of Phi's core philosophy of conscious announcement. By requiring all particles to precede what they modify, the language ensures that:
+
+1. **Speakers must be conscious** of their grammatical choices before expressing content
+2. **Listeners receive context** before processing meaning
+3. **Communication becomes transparent** with no hidden grammatical machinery
+4. **Every utterance practices** the principle of announcing intent before action
+
+This system transforms grammar from an unconscious process into a mindful practice, making every sentence an exercise in conscious communication. 

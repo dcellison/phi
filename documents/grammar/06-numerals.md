@@ -1,86 +1,144 @@
-# 6. Numerals
+# 6. Numerals: Announcing Quantity Mindfully
 
-This document covers the complete system for expressing numerical concepts in Phi.
+Phi's number system embodies the modifier-first principle while resisting the psychological violence of precise measurement through its ternary (base-3) structure.
 
-## 6.1. Cardinal Numbers
-Phi uses a regular, base-10 positional system. Numbers are constructed by stating the digit followed by its magnitude, from highest to lowest. The component for the ones place is a digit by itself.
+## 6.1. The Ternary Foundation
 
-- **18:** `shu toa pho` (one ten eight)
-- **42:** `shi toa wha` (four ten two)
-- **101:** `shu nui shu` (one hundred one)
+Phi uses only three base numerals, making precise counting difficult beyond human-scale quantities:
 
-### 6.1.1. Implicit Zero Rule
-Components representing zero magnitude (e.g., `phi nui` for "zero hundred") are omitted for brevity, unless all lower magnitudes are also zero.
+- **`mu`** (0) - void, emptiness, absence
+- **`ta`** (1) - singularity, unity, individual
+- **`wi`** (2) - duality, pair, relationship
 
-- **2023:** `wha lae wha toa tho` (two thousand two ten three). The `phi nui` is omitted.
-- **2003:** `wha lae tho` (two thousand three). `phi nui` and `phi toa` are omitted.
-- **2000:** `wha lae` (two thousand).
-- **40:** `shi toa phi` (four ten zero). The final `phi` must be stated.
+## 6.2. Scale Units: Counting by Groups
 
-## 6.2. Ordinal Numbers
-Ordinal numbers ("first", "second", etc.) are formed by adding the postposition `noa` to a cardinal number. The resulting phrase functions as an adjective and precedes the noun it modifies.
+For quantities beyond 2, Phi uses scale units—countable nouns representing groups:
 
-- **The third friend:** `tho noa whelea`
-- **The 18th story:** `shu toa pho noa thola`
+- **`sha`** - a three-group (3¹ = 3)
+- **`pho`** - a nine-group (3² = 9)  
+- **`lau`** - a twenty-seven-group (3³ = 27)
+- **`rei`** - an eighty-one-group (3⁴ = 81)
 
-## 6.3. Advanced Numerical Concepts
-Phi handles concepts like frequency and fractions compositionally, by combining numbers with specific classifier nouns.
+These are not classifiers but quantitative nouns—units that can be counted. Following the modifier-first principle, base numerals precede and modify these units:
 
-### 6.3.1. Frequency
-Frequency (e.g., "once," "twice") is expressed by using a cardinal number followed by the noun `sheko` (instance/occurrence).
+**Structure:** `[Base Numeral] [Scale Unit]`
 
-- **Once:** `shu sheko`
-- **Twice:** `wha sheko`
-- **Ten times:** `shu toa sheko`
+**Examples:**
+- **3:** `ta sha` (one three-unit)
+- **4:** `ta sha ta` (one three-unit [plus] one)
+- **5:** `ta sha wi` (one three-unit [plus] two)
+- **6:** `wi sha` (two three-units)
+- **9:** `ta pho` (one nine-unit)
+- **14:** `ta pho ta sha wi` (one nine-unit [plus] one three-unit [plus] two)
 
-### 6.3.2. Fractions
-Phi uses a hybrid system for fractions, with unique nouns for common denominators and a logical genitive structure for all others.
+This maintains perfect modifier-first ordering: numbers modify units, just as adjectives modify nouns.
 
-**Common Fractions:**
-Common fractions are formed by using a cardinal number with a "fraction-base" noun (e.g., `hapo` for a half-part, `shipo` for a quarter-part).
+## 6.3. The Philosophy of Imprecise Counting
 
-- **A half (1/2):** `shu hapo`
-- **A third (1/3):** `shu thopi`
-- **Three quarters (3/4):** `tho lo shipo`
-- **Five eighths (5/8):** `phe lo phoso`
+Beyond 27 (`ta lau`), exact counting becomes increasingly difficult and unnatural. This is intentional:
 
-**Uncommon Fractions:**
-Less common fractions are expressed using a genitive (possessive) structure with the generic noun `thepo` (part). The structure is `[Denominator Phrase] [Numerator Phrase]`, which translates to "[Numerator Part(s)] of [the Denominator's Parts]."
+- **`lau`** quantities (27-80) encourage thinking in terms of "many"
+- **`rei`** quantities (81+) essentially mean "countless"
 
-- **A seventh (1/7):** `[she lo thepo] shu thepo` (Of the seven parts, one part)
-- **Two sevenths (2/7):** `[she lo thepo] wha lo thepo` (Of the seven parts, the two parts)
+**Common approximations:**
+Scale units can stand alone to indicate approximate quantities:
+- `sha [days]` - "a three-group of days" (roughly 3)
+- `pho [people]` - "a nine-group of people" (roughly 9)
+- `lau [trees]` - "a twenty-seven-group of trees" (many)
+- `rei [stars]` - "an eighty-one-group of stars" (countless)
 
-## 6.4. Noun Classifiers (Optional)
-To add a layer of mindfulness and specificity when counting, Phi uses an optional system of noun classifiers. While not grammatically mandatory, using a classifier is considered more precise and respectful. The classifier, a noun itself, is placed between the number and the noun being counted.
+## 6.4. Ordinal Numbers: Announcing Position
+
+Phi offers two complementary approaches to ordinal numbers, each serving different communicative needs:
+
+### 6.4.1. The Ordinal Particle `nu`
+
+The Slot 2 particle `nu` announces that a number indicates position rather than quantity. As a true CV particle, it maintains Phi's systematic grammar:
+
+**Structure:** `nu [Cardinal Number] [Noun]`
+
+**Examples:**
+- **First:** `nu ta` 
+- **Second:** `nu wi`
+- **Third:** `nu ta sha`
+- **Ninth:** `nu ta pho`
+- **First child:** `nu ta pilo`
+- **Third day:** `nu ta sha nila`
+
+The particle precedes the number, announcing the ordinal transformation before the quantity is stated—perfect modifier-first ordering.
+
+### 6.4.2. The Position Noun `noa`
+
+For more complex positional expressions, the noun `noa` (position) can be used compositionally:
+
+**Structure:** `[Cardinal Number] noa`
+
+**Examples:**
+- **In first position:** `ta noa nela`
+- **After second position:** `wi noa pheo`
+- **The concept of third place:** `ta sha noa`
+
+This approach enables philosophical discussion about position itself, not just grammatical marking.
+
+## 6.5. Noun Classifiers: Announcing What Is Counted
+
+Phi uses classifiers to announce the nature of what's being counted, placed between numbers and nouns:
 
 **Structure:** `[Number] [Classifier] [Noun]`
 
-### 6.4.1. Core Classifiers
-Phi uses a minimal set of four core classifiers for broad categories:
+### 6.5.1. Nature Classifiers
 
-- **`himo`**: For people.
-- **`lipha`**: For other living things (plants, animals).
-- **`themo`**: For inanimate objects.
-- **`nophe`**: For abstract concepts (ideas, stories).
+These announce the essential nature of what's counted:
 
-### 6.4.2. Examples
-- **Standard Counting:**
-  ```
-  tho lo whelea
-  three PL friend
-  (three friends)
-  ```
-- **Counting with a Classifier:**
-  ```
-  tho himo whelea
-  three person-classifier friend
-  (three (esteemed) friends)
-  ```
-- **Other Examples:**
-  - `shi lipha shiro` (four life-classifier tree -> four trees)
-  - `wha themo pota` (two thing-classifier table -> two tables)
-  - `shu nophe thola` (one concept-classifier story -> one story)
+- **`himo`** - announces counting of people
+- **`lipha`** - announces counting of living things
+- **`themo`** - announces counting of inanimate objects
+- **`nophe`** - announces counting of abstract concepts
 
----
-**Complete particle inventory:** See `grammar/particles.json`
-**Complete conjunction inventory:** See `grammar/conjunctions.json` 
+**Examples:**
+```
+wi himo whelea
+two PERSON.CLF friend
+(two friends - acknowledging their humanity)
+
+ta sha lipha shiro
+one three-unit LIFE.CLF tree  
+(three trees - acknowledging their aliveness)
+```
+
+Note how the full number (`ta sha` = three) precedes the nature classifier (`lipha`), which precedes the noun (`shiro`). This creates layered announcement: quantity, then nature, then entity.
+
+### 6.5.2. Dual Awareness: Scale and Nature
+
+The combination of scale units and nature classifiers creates dual consciousness:
+- Scale units (`sha`, `pho`, `lau`, `rei`) make us aware of magnitude
+- Nature classifiers (`himo`, `lipha`, `themo`, `nophe`) make us aware of essence
+
+Together they ensure that counting remains a mindful acknowledgment rather than mechanical enumeration.
+
+## 6.6. Mathematical Operations: Conscious Calculation
+
+When mathematical precision is needed (rare in Phi), operations are announced explicitly:
+
+- **Addition:** `ta [plus] wi [equals] ta sha` (1 + 2 = 3)
+- **Subtraction:** `ta sha [minus] ta [equals] wi` (3 - 1 = 2)
+
+The words for mathematical operations don't exist in core Phi, requiring conscious borrowing or circumlocution—another barrier to unconscious quantification.
+
+## 6.7. The Philosophy of Ternary Counting
+
+Phi's number system embodies several philosophical principles:
+
+### 6.7.1. Resistance to Quantification
+By making counting difficult beyond 27, the language resists the reduction of quality to quantity, of beings to numbers.
+
+### 6.7.2. Human-Scale Awareness
+The scale units (3, 9, 27) align with human cognitive limits—we can truly comprehend these quantities, unlike millions or billions. They are groups we can visualize, not abstractions.
+
+### 6.7.3. Mindful Enumeration
+Every act of counting requires conscious choice about precision. One cannot unconsciously rattle off large numbers.
+
+### 6.7.4. Relationship Over Accumulation
+The system makes it easier to express relationships (wi = pair) than large accumulations, prioritizing connection over collection.
+
+This number system transforms counting from mechanical enumeration into mindful acknowledgment of quantity, always announcing both the scale and nature of what we count.

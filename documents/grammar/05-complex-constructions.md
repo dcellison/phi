@@ -1,9 +1,10 @@
-# 5. Nominalization and Complex Constructions
+# 5. Nominalization and Complex Constructions: Announcing Conceptual Transformations
 
-This document covers advanced grammatical structures that allow for more sophisticated sentence building, including turning verbs into nouns and creating complex modifiers.
+Complex constructions in Phi follow the modifier-first principle by announcing grammatical transformations before delivering content, making even sophisticated structures transparent and conscious.
 
-## 5.1. Nominalization
-Phi can transform a verb or an entire clause into a noun concept by using the nominalizing postposition `nai`. This allows actions and ideas to be treated as the subject or object of another sentence.
+## 5.1. Nominalization: Announcing Actions as Concepts
+
+The nominalizing particle `nai` announces that what precedes it should be understood as a noun concept rather than an action. This transformation is explicitly marked, maintaining transparency:
 
 **Structure:** `[Verb Phrase] nai`
 
@@ -14,18 +15,23 @@ Phi can transform a verb or an entire clause into a noun concept by using the no
   [create] NOM good be
   (Creating is good.)
   ```
+  Here, `nai` announces that "create" is being treated as a concept, not an action.
+
 - **Nominalizing a clause:**
   ```
   mia [weola thola pholea] nai lothea
   1SG [community story create] NOM love
   (I love the community's creation of the story.)
   ```
+  The entire clause is announced as a single conceptual unit through `nai`.
 
-## 5.2. Relative Clauses
-Phi uses relative clauses to provide more information about a noun. These clauses function as complex adjectives. There are two types: headless and headed.
+## 5.2. Relative Clauses: Announcing Descriptive Relationships
+
+Relative clauses in Phi announce their modifying function before the noun they describe, maintaining the principle that all modification precedes what it modifies.
 
 ### 5.2.1. Headless Relative Clauses
-A headless relative clause is used when the thing being described (the "head") is not explicitly named. The entire clause functions as a noun phrase.
+
+When the modified noun is implicit, the relative clause itself functions as a complete noun phrase:
 
 **Example:**
 ```
@@ -33,67 +39,92 @@ A headless relative clause is used when the thing being described (the "head") i
 [love understand] 3SG
 (The one who understands love.)
 ```
-Here, `lothea kela` acts as the noun being described.
+
+The clause announces the characteristic before any specific entity is mentioned.
 
 ### 5.2.2. Headed Relative Clauses
-A headed relative clause is used to modify a specific, named noun (the "head"). This is the most common form of relative clause. It is introduced by the relativizer particle `re` and placed directly before the noun it modifies, following the head-final rule.
 
-**Structure:** `[re S O V] Noun`
+The relativizer particle `re` announces that what follows is a descriptive clause, appearing before both the clause and the noun it modifies:
+
+**Structure:** `[re CLAUSE] NOUN`
 
 **Examples:**
-- **Modifying the subject:**
-  ```
-  [re lothea kela] whelea to wepu
-  [REL love understand] friend PST leave
-  (The friend who understands love has left.)
-  ```
-- **Modifying the object:**
-  ```
-  mia [re weola pholea] thola kela
-  1SG [REL community create] story understand
-  (I understand the story that the community created.)
-  ```
-
-## 5.3. Conditional Sentences
-The conditional particle `lu` introduces a realis condition. The irrealis particle `whe` can be added to mark a counterfactual condition.
-
-**Realis Conditional:**
 ```
-lu mia whelea shele thi sela hisu
-COND 1SG friend help 2SG peace feel
-(If I help a friend, you feel peace.)
+[re thola pholea] miona
+[REL story create] person
+(The person who creates stories.)
+
+[re mia to nila] phino
+[REL 1SG PST see] book
+(The book that I saw.)
 ```
 
-**Irrealis/Counterfactual Conditional:**
+The `re` particle announces the relative relationship, the clause provides the description, and finally the noun is delivered—perfect modifier-first ordering.
+
+## 5.3. Conditional Sentences: Announcing Hypothetical Relationships
+
+Conditional sentences announce their hypothetical nature from the start using the Slot 0 particle `lu`:
+
+### 5.3.1. Real Conditions (Likely Possibilities)
+
+**Structure:** `lu [CONDITION], [CONSEQUENCE]`
+
 ```
-lu whe mia to whelea shele thi to sela hisu
-COND IRR 1SG PST friend help 2SG PST peace feel
-(If I had helped a friend, you would have felt peace.)
+lu thi shele, mia wela hisu
+COND 2SG help, 1SG good feel
+(If you help, I will feel good.)
 ```
 
-## 5.4. Reflexive and Reciprocal Constructions
-Phi uses adverbs to indicate that an action is directed back at the subject (reflexive) or exchanged between members of a subject group (reciprocal). These adverbs precede the verb.
+### 5.3.2. Unreal Conditions (Counterfactuals)
 
-### 5.4.1. Reflexive Construction (`miso`)
-The adverb `miso` indicates a self-directed action. The object of the verb is understood to be the subject itself and is therefore omitted.
+The combination `lu whe` announces counterfactual conditions:
 
-**Structure:** `S miso V`
-
-**Example:**
 ```
-mia miso shipe
-1SG self-directed see
+lu whe mia to shele, sha ma to wepu
+COND IRR 1SG PST help, 3SG NEG PST leave
+(If I had helped, she would not have left.)
+```
+
+The double announcement (`lu` + `whe`) makes the counterfactual nature explicit from the start.
+
+## 5.4. Reflexive and Reciprocal Constructions: Announcing Self-Reference
+
+### 5.4.1. Reflexive Construction
+
+The reflexive pronoun `miso` announces that the action refers back to the subject:
+
+```
+mia miso nila
+1SG REFL see
 (I see myself.)
 ```
 
-### 5.4.2. Reciprocal Construction (`wiso`)
-The adverb `wiso` indicates a mutual, reciprocal action between members of a plural subject.
+### 5.4.2. Reciprocal Construction
 
-**Structure:** `S(pl) wiso V`
+The reciprocal pronoun `wiso` announces mutual action:
 
-**Example:**
 ```
-lo whelea wiso shele
-PL friend mutually-directed help
-(The friends help each other.)
-``` 
+sio wiso lothea
+1PL RECIP love
+(We love each other.)
+```
+
+Both constructions announce the self-referential or mutual nature before the verb, maintaining transparency.
+
+## 5.5. The Philosophy of Complex Construction
+
+These complex constructions demonstrate how the modifier-first principle scales to sophisticated grammar:
+
+### 5.5.1. Transparency at Every Level
+From simple particles to complex relative clauses, every grammatical transformation is announced before its content. This prevents ambiguity and confusion even in complex sentences.
+
+### 5.5.2. Conscious Complexity
+Speakers must consciously decide to nominalize, relativize, or conditionalize before expressing content. This makes complex grammar a mindful practice rather than an unconscious habit.
+
+### 5.5.3. Learner-Friendly Sophistication
+Because every transformation is explicitly announced, learners can recognize complex structures immediately. The consistent modifier-first principle means that complexity doesn't require new rules—just layered application of the same principle.
+
+### 5.5.4. Collaborative Construction
+When complex relationships are announced upfront, listeners can actively build understanding alongside the speaker. They're never surprised by retroactive grammatical reinterpretation.
+
+This approach transforms grammatical complexity from a potential barrier into an opportunity for deeper, more transparent communication.
