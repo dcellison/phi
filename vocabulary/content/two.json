@@ -1,19 +1,20 @@
 {
-  "word": "nilo",
+  "word": "wi",
   "gloss": "two",
-  "ipa": "/ni.lo/",
-  "syllables": ["ni", "lo"],
-  "pos": ["numeral"],
+  "ipa": "/wi/",
+  "syllables": ["wi"],
+  "pos": ["numeral", "determiner"],
   "concept": "Two / Balance / Relationship",
-  "description": "The numeral representing duality, the first meeting, the birth of relationship. More than simple doubling, 'nilo' acknowledges the profound shift when unity becomes dialogue—the moment when 'I' meets 'you', when silence becomes conversation, when one becomes the minimum for love.",
-  "sound_symbolism": "The word begins with 'n', the nasal consonant of connection and internal resonance—already suggesting relationship. This meets 'i', the high bright vowel of recognition and awareness. The flow through 'l', the liquid connector, to 'o', the round vowel of completion, creates a sound-journey of meeting. The progression from internal recognition ('ni') to flowing wholeness ('lo') mirrors how two-ness works—first seeing the other, then creating something complete together.",
-  "image_prompt": "Art Nouveau watercolor in Mucha style: Dual flowing forms in palest gold and soft lavender meeting without merging, never depicting figures. Abstract parallel streams in powder blue and barely-there coral creating dialogue through proximity. Transparent overlapping circles in cream and mint showing unity within duality. Delicate organic patterns mirror each other with subtle variations. Whispers of peach and rose mark the space where one becomes two. All extremely soft pastels. Wet-on-wet technique emphasizes the dance of relationship and balance.",
-  "grammatical_notes": "Functions as the second cardinal numeral, marking the first plural quantity. When used with nouns, typically appears with the plural particle 'lo', though may stand alone in poetic usage to emphasize duality over mere plurality. Has special significance in expressions of relationship, balance, and dialogue. May have a collective form for 'pair' or 'couple' emphasizing unity-in-duality.",
+  "description": "The numeral representing duality, the first meeting, the birth of relationship. More than simple doubling, 'wi' acknowledges the profound shift when unity becomes dialogue—the moment when 'I' meets 'you', when silence becomes conversation, when one becomes the minimum for love.",
+  "sound_symbolism": "The single syllable 'wi' embodies duality through its very articulation. The approximant 'w' is inherently transitional—a sound that exists in movement between positions, never quite one thing or another. It suggests flow, connection, the space between. The high front vowel 'i' that follows is focused yet reaching, the vowel of recognition and meeting. Together, 'wi' creates the sound of relationship itself: flowing connection meeting focused awareness.",
+  "grammatical_notes": "Functions dually as a numeral (the second counting number) and as a determiner (specifying dual quantity). When functioning as a determiner, directly precedes nouns to indicate a pair: 'wi miona' (two people). Marks the first plural quantity and the maximum value in the ternary base system. Unlike 'ta' (one), 'wi' inherently implies relationship and pairing. Essential for building larger numbers when combined with scale unit nouns (e.g., 'wi sha' = two three-groups = 6). Has special significance in expressions of balance, dialogue, and reciprocity.",
   "pillars": {
-    "secular-buddhist-philosophy": "Two represents the first arising of apparent duality from unity—self and other, form and emptiness. Yet 'nilo' also suggests their interdependence, the teaching that opposites arise together and define each other. Note: While numbers have symbolic significance in Buddhist texts, the connection to this specific pillar is more about numerical patterns than core philosophical alignment."
+    "secular-buddhist-philosophy": "Two represents the first arising of apparent duality from unity—self and other, form and emptiness. Yet 'wi' also suggests their interdependence, the teaching that opposites arise together and define each other.",
+    "pre-industrial-wisdom": "Traditional understanding of pairing and balance—day and night, sun and moon, planting and harvest. 'Wi' carries the wisdom that completeness often requires relationship."
   },
   "tags": {
-    "cognition": "numbers are fundamentally cognitive concepts",
-    "dialogue": "minimum number for conversation and exchange"
+    "cognition": "fundamental concept for understanding plurality and relationship",
+    "dialogue": "the minimum number for conversation, exchange, and reciprocity",
+    "community": "the beginning of social connection, the first 'we'"
   }
 }

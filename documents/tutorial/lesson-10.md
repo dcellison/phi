@@ -1,47 +1,72 @@
-## Lesson 10: Working with Numbers
+## Lesson 10: Numbers and the Philosophy of Counting
 
-Phi's number system is designed to be completely regular and predictable. Once you learn the basic components, you can construct any number.
+Phi's number system embodies a profound philosophical stance: beyond small quantities, precise counting becomes both difficult and unnecessary. This isn't a limitation—it's a teaching about the nature of quantity and human relationship with abundance.
 
-### The Digits (0-9)
+### The Base Numbers (0-2)
 
-These are the foundational single-syllable words for the digits.
-*   `phi` (0)
-*   `shu` (1)
-*   `wha` (2)
-*   `tho` (3)
-*   `shi` (4)
-*   `phu` (5)
-*   `who` (6)
-*   `thu` (7)
-*   `pho` (8)
-*   `whi` (9)
+Phi uses only three fundamental numbers:
+*   `mu` (0) - emptiness, void, potential
+*   `ta` (1) - unity, singularity, one
+*   `wi` (2) - duality, pair, relationship
 
-### Magnitudes (10, 100, 1000)
+These are the only numbers that can be easily and precisely expressed as single units.
 
-These are the words for the powers of ten.
-*   `toa` (ten)
-*   `nui` (hundred)
-*   `lae` (thousand)
+### Scale Units: Counting by Groups
 
-### Building Cardinal Numbers
+For quantities beyond two, Phi uses scale nouns that represent groups:
+*   `sha` - a three-group (3)
+*   `pho` - a nine-group (9)
+*   `lau` - a twenty-seven-group (27)
+*   `rei` - an eighty-one-group (countless)
 
-You build a number from the highest magnitude to the lowest, saying the digit then its magnitude.
+### Building Quantities
 
-*   **42** is "four-ten-two": `shi toa wha`
-*   **101** is "one-hundred-one": `shu nui shu`
-*   **350** is "three-hundred-five-ten-zero": `tho nui phu toa phi`
+Numbers are built by combining base numbers with scale units, following the modifier-first principle:
 
-### Ordinal Numbers (first, second, third...)
+*   **3:** `ta sha` (one three-group)
+*   **4:** `ta sha ta` (one three-group and one)
+*   **5:** `ta sha wi` (one three-group and two)
+*   **6:** `wi sha` (two three-groups)
+*   **10:** `ta pho ta` (one nine-group and one)
+*   **15:** `ta pho wi sha` (one nine-group and two three-groups)
 
-To turn a regular number into an ordinal number, you add the particle `noa`. The resulting phrase acts as an adjective and comes before a noun.
+### Approximate Expression
 
-*   **The third house:** `tho noa hauno`
-*   **The 42nd story:** `shi toa wha noa thola`
+Beyond 9 (pho), speakers typically use approximations:
+*   `pho [miona]` - many people (roughly 9)
+*   `lau [nila]` - abundant days (roughly a month)
+*   `rei [themo]` - countless stars
+
+This reflects Phi's philosophy that exact quantities beyond human scale serve little purpose.
+
+### Ordinal Numbers
+
+To indicate position or order, use the particle `nu` before numbers:
+
+*   **First:** `nu ta [noun]`
+*   **Second:** `nu wi [noun]`
+*   **Third:** `nu ta sha [noun]`
+
+Examples:
+*   `nu ta pilo` - first child
+*   `nu wi nila` - second day
+*   `nu ta sha hauno` - third house
+
+### The Philosophy of Ternary Counting
+
+Phi's number system teaches several principles:
+
+1. **Sufficiency over precision** - Beyond small quantities, "enough" matters more than "exactly how many"
+2. **Natural grouping** - Humans naturally think in small groups (3s, 9s) rather than precise large numbers
+3. **Resistance to accumulation** - Making large numbers difficult to express discourages hoarding and competition
+4. **Mindful enumeration** - Every act of counting requires conscious thought about whether precision is needed
 
 ### Lesson 10 Summary
 
-*   Phi uses a regular, base-10 system.
-*   You build numbers from largest to smallest parts (`digit magnitude`).
-*   The particle `noa` changes a cardinal number ("three") into an ordinal number ("third").
+*   Phi uses a ternary (base-3) system with only three base numbers
+*   Larger quantities use scale units (sha, pho, lau, rei)
+*   The system deliberately makes precise counting difficult beyond 27
+*   The particle `nu` creates ordinal numbers
+*   This design promotes mindful, approximate thinking about quantity
 
-You can now count and specify order, a crucial skill for communication. In the next lesson, we will move on to more complex sentences. 
+Rather than enabling precise calculation, Phi encourages speakers to ask: "Is there enough?" "Can this be shared?" "Does the exact number truly matter?" In the next lesson, we will explore how this philosophy extends to other aspects of Phi grammar.
