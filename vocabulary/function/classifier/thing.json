@@ -1,0 +1,22 @@
+{
+  "word": "themo",
+  "gloss": "THING.CLF",
+  "ipa": "/θe.mo/",
+  "syllables": ["the", "mo"],
+  "pos": ["classifier"],
+  "concept": "Inanimate object classifier / Tool acknowledger / Created-thing marker",
+  "description": "The classifier used for inanimate objects, particularly human-made tools, artifacts, and utilized materials. When 'themo' appears between a number and an object noun, it acknowledges these items as extensions of human creativity and purpose—tools that serve life rather than life itself. This classifier embodies a mindful relationship with the material world, recognizing objects as partners in human activity while maintaining the distinction between the living and the crafted.",
+  "sound_symbolism": "The word begins with 'the', where the thoughtful fricative 'θ' suggests the careful consideration that goes into crafting and using tools—the deliberate breath of creation—meeting 'e', the balanced mid vowel of purposeful action. This flows into 'mo', where the solid nasal 'm' grounds us in the material world, embracing the round 'o' of wholeness and completion. Together, 'themo' creates the sound of human interaction with matter: thoughtful creation ('the') settling into material form ('mo')—consciousness shaping the physical world.",
+  "image_prompt": "Art Nouveau watercolor: Mucha-style arrangement of stylized tools and objects in bronze and copper tones. Hammers, vessels, and wheels flow into decorative pattern. Each object outlined in gold suggesting human touch and purpose. Transparent sienna washes connect items showing their relationships. Geometric Art Nouveau borders contain organic tool forms. Muted metallics and earth browns honor craftsmanship. Soft shadows ground objects in material reality.",
+  "grammatical_notes": "Functions as a classifier placed between numerals and nouns denoting inanimate objects, especially tools and human-made items. Optional but encouraged for mindful acknowledgment of material culture. Example: 'wi themo lo pota' (two thing-classifier tables). Never used with living beings. Emphasizes the role of objects as tools and extensions of human purpose.",
+  "pillars": {
+    "solarpunk-values": "Using 'themo' encourages mindful consumption by making speakers consciously acknowledge each object counted. This linguistic awareness supports the solarpunk ethic of valuing tools and materials, promoting repair over replacement, and recognizing the energy and resources embedded in every human-made item.",
+    "pre-industrial-wisdom": "Traditional crafts cultures deeply respect tools and materials, often naming individual implements and passing them through generations. 'Themo' carries this understanding that objects, especially tools, are partners in human work deserving acknowledgment, not disposable commodities.",
+    "art-nouveau": "The movement's emphasis on craftsmanship and the marriage of function with beauty aligns with 'themo's' role in acknowledging human-made objects. Just as Art Nouveau elevated everyday objects to art, this classifier elevates counting objects to an act of aesthetic recognition."
+  },
+  "tags": {
+    "physical": "classifier for tangible, material objects that can be touched and manipulated",
+    "cognition": "requires categorizing entities as inanimate versus animate",
+    "grammar": "functions as a classifier that structures enumeration"
+  }
+}
