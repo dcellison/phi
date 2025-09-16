@@ -76,6 +76,8 @@ This is the "Story of the First Garden," which we created during our vocabulary-
 *   **Translation:** The community believed in a purpose. We mindfully decided [in order] to build a beautiful garden.
 *   **Analysis:** This uses a purpose clause (`...lila`) to state the goal. It also uses our new abstract nouns (`shalai`, `hishe`) and the verb `nothe` (to decide). Notice the adjective `nosa` modifying `nothe`.
 
+This sentence is a pure expression of the Solarpunk value system: a community acting with mindful, shared purpose to create a better world.
+
 **Part 4: The Work**
 
 *   **Phi:** `lo whelea keto whao. weo keto ro noshale thekoa. weo liso sitha nosa shele.`

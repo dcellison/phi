@@ -1,4 +1,4 @@
-## Lesson 2: Adding Objects & Introducing Postpositions
+## Lesson 2: Adding Objects & Introducing Prepositions
 
 In Lesson 1, we learned how to form simple `Subject-Verb` sentences. Now, let's add another core element: the **Object**. The object is the person or thing that the verb's action is directed at.
 
