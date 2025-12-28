@@ -18,9 +18,6 @@ Track the replacement of improvised Phi words with properly created vocabulary f
 
 | English | Old (Improvised) | Priority | Notes |
 |---------|-----------------|----------|-------|
-| sleep | nima | HIGH | Basic verb |
-| read | nolea/shima | HIGH | Two versions need consolidation |
-| mindful | nosa | HIGH | Core philosophical concept |
 | create | pholea | HIGH | Fundamental action |
 
 ## Pending Tier 2 Replacements

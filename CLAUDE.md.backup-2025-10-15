@@ -3,23 +3,6 @@
 ## Overview
 Phi is a constructed auxiliary language designed to promote mindful, peaceful communication through its phonological, grammatical, and philosophical structure. Every aspect—from individual sounds to sentence patterns—serves to slow speech, encourage reflection, and embody non-violence.
 
-## The Organizing Principle: Modifier-First
-
-Phi is governed by a single, exceptionless principle that supersedes traditional grammatical categories:
-
-**Every element that modifies, specifies, or relates another element comes BEFORE what it affects.**
-
-This "announce then deliver" principle creates transparent communication where all grammatical relationships are declared before their content. It applies universally to:
-- Verbs after objects (SOV word order)
-- Particles before words
-- Adjectives before nouns
-- Possessors before possessed
-- Prepositions before objects
-- Quantifiers before nouns
-- Dependent clauses before main clauses
-
-**This is not just syntax—it's embodied philosophy.** Every sentence becomes practice in announcing intent before action, fostering conscious communication.
-
 ## Core Constraints Checklist
 
 ### Phonological Requirements
@@ -27,7 +10,6 @@ This "announce then deliver" principle creates transparent communication where a
 - [ ] **The fricative digraphs (F) are**: ph=/φ/, th=/θ/, sh=/ʃ/, wh=/ʍ/
 - [ ] **Follows (C)CV structure**: Single consonants OR fricative digraphs only
 - [ ] **Maintains vowel hiatus**: Each vowel = separate syllable (no diphthongs)
-- [ ] **Vowel hiatus transcription**: Always show syllable breaks with dots: au=/a.u/, not /au/
 - [ ] **Respects three-vowel constraint**: Never VVV+ sequences
 - [ ] **No duplicate syllables**: Cannot repeat same CV unit within word
 - [ ] **Begins with consonant**: All words start with C or F
@@ -37,7 +19,7 @@ This "announce then deliver" principle creates transparent communication where a
 ### Structural Hierarchy
 - [ ] **Single syllable (CV/FV)**: Reserved for particles, pronouns, numerals
 - [ ] **Multi-syllable**: Required for content words
-- [ ] **Prepositions**: Must follow CV.V pattern (e.g., mua, thue, wei) for instant recognition
+- [ ] **Prepositions**: Must follow CV.V pattern (e.g., mua, thue)
 - [ ] **Particles**: Simple CV structure for instant recognition
 
 ### Sound Symbolism Alignment
@@ -61,9 +43,8 @@ Each new word must explicitly connect to at least one pillar:
 - [ ] **Avoid violence**: No direct words for weapons, war, harm
 - [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., wela = good+beautiful)
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
-- [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
+- [ ] **Enable transmutation**: Concepts should reframe, not just translate
 - [ ] **Maintain value neutrality**: Let speakers map to their own cultural understanding
-- [ ] **Create semantic families**: Build interconnected word networks where shared roots illuminate meanings (mycelial approach)
 
 ## Word Creation Protocol
 
@@ -82,12 +63,10 @@ Each new word must explicitly connect to at least one pillar:
 - Verify no VVV sequences
 - Confirm pronunciation maintains pure vowels
 
-### Step 4: Philosophical and Relational Alignment
+### Step 4: Philosophical Alignment
 - Write explicit connections to relevant pillars
 - Craft sound_symbolism description
 - Ensure grammatical_notes explain usage
-- **Identify semantic family**: What roots does this share? What words does it illuminate?
-- **Check transmutation quality**: Does this enable reframing concepts, not just renaming?
 
 ### Step 5: Compositional Testing
 - Can this word combine with others meaningfully?
@@ -99,19 +78,14 @@ Each new word must explicitly connect to at least one pillar:
 ### When Adding Particles
 - [ ] Assign to correct slot (0, 1, or 2)
 - [ ] Maintain CV structure for recognizability
-- [ ] Respect **Slot 1 stacking order**: Tense > Aspect > Voice > Modality > Negation
 - [ ] Ensure particle ordering remains logical
 - [ ] Document interaction with existing particles
-- [ ] **See `documents/grammar/PARTICLE_REFERENCE.md` for complete particle inventory**
 
 ### When Creating Constructions
-- [ ] Preserve strict SOV order (modifier-first principle)
+- [ ] Preserve strict SOV order
 - [ ] Maintain head-final principle
 - [ ] Support compositional transparency
 - [ ] Enable mindful sentence building
-- [ ] Document how causative `ka` changes structure (agent→subject, subject→object)
-- [ ] Document how passive `se` promotes object to subject
-- [ ] Verify discourse adverbs position: after Slot 0, before subject
 
 ## Quality Checks
 
@@ -142,20 +116,14 @@ Each new word must explicitly connect to at least one pillar:
 - ❌ Breaking vowel hiatus for any reason
 - ❌ Using consonant clusters beyond F digraphs
 - ❌ Creating words that encourage rapid speech
-- ❌ Creating words that don't fit into semantic families
-- ❌ Enabling word-for-word translation rather than transmutation
-- ❌ Creating particles that violate slot positioning rules
 
 ## Core Philosophy Reminder
 Every addition to Phi should make speakers:
 - Speak more slowly and deliberately
 - Think more carefully about word choice
-- Feel the physical practice of peace in articulation (embodied/somatic practice)
+- Feel the physical practice of peace in articulation
 - Experience communication as collaborative art
 - Connect with the natural world's patterns
-- Transform through repetition of gentle, mindful sounds
-- Discover semantic families that teach through interconnection
-- Practice "transmutation" rather than mere translation
 
 **The constraints ARE the teaching. The difficulty IS the practice.**
 
@@ -182,14 +150,6 @@ All vocabulary entries must include:
 - Python scripts → `/scripts/`
 - Book content → `/book/`
 - DO NOT access files from any other directory
-
-### Reference Documentation
-For detailed information, consult:
-- **Sound system**: `documents/phonology_rules.md`, `documents/phonetics.md`
-- **Complete grammar**: `documents/grammar/01-principles.md` through `06-numerals.md`
-- **Particle inventory**: `documents/grammar/PARTICLE_REFERENCE.md`
-- **Numeral system**: `documents/grammar/NUMERAL_REFERENCE.md`
-- **Philosophy**: `documents/language_guide.md`
 
 ## Final Reminder
 Phi is not merely a language but a practice of conscious communication. Every design decision should support the transformation of speakers toward greater mindfulness, compassion, and connection with all beings. The language itself is the teaching.
