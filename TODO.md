@@ -6,7 +6,7 @@
 Previously, Phi experimented with postpositions for typological consistency with SOV order, but ultimately returned to prepositions for philosophical and practical reasons. However, some outdated postposition references remained in the codebase.
 
 ### Completed Changes
-- [x] Convert all vocabulary/function/preposition/*.json files to use "preposition" terminology
+- [x] Convert all vocabulary/function/preposition/\*.json files to use "preposition" terminology
 - [x] Update all POS tags to "preposition" 
 - [x] Fix all example sentences to use preposition patterns
 - [x] Update grammar documentation to reflect preposition usage
