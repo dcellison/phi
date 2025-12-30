@@ -73,19 +73,29 @@ Following the modifier-first principle, these particles announce temporal, aspec
 - `na` (NEC): `mia na sio` (I must exist)
 - `ka` (CAUS): `mia pilo ka nima` (I make the child sleep)
 
-### 2.2.5. Negation
+### 2.2.5. Evidentiality
+Evidential particles mark the source of the speaker's knowledge. They are optional—direct experience is the unmarked default—but provide explicit epistemic transparency when needed.
+
+- `hi` (DIR): `mia hi nila` (I see [I directly witness this])
+- `ke` (INF): `sha to ke wepu` (She left [I infer from evidence])
+- `whi` (REP): `lo miona whi shele` (People helped [I was told])
+- `ho` (ASM): `thi ho kela` (You understand [I assume])
+
+Note: The reportative `whi` marks knowledge source ("someone told me"), while the quotative `sho` marks direct quotation ("she said '...'").
+
+### 2.2.6. Negation
 - `ma` (NEG): `sha ma kela` (The other does not understand)
 
-### 2.2.6. Particle Stacking: Layered Announcement
+### 2.2.7. Particle Stacking: Layered Announcement
 
-When multiple Slot 1 particles combine, they follow a specific order: `Tense` > `Aspect` > `Voice` > `Modality`. This creates layers of announcement, each adding context before the verb is revealed.
+When multiple Slot 1 particles combine, they follow a specific order: `Tense` > `Aspect` > `Voice` > `Evidentiality` > `Modality` > `Negation`. This creates layers of announcement, each adding context before the verb is revealed.
 ```
 pi thi so pa po kela
 POL 2SG FUT INCH POSS understand
 (Politely, you will be able to begin to understand.)
 ```
 
-### 2.2.7. The Causative Construction
+### 2.2.8. The Causative Construction
 The causative particle `ka` is a special modal used to indicate that the subject (the Agent) causes the object (the Patient) to perform an action. This changes the sentence structure slightly.
 
 - **With an intransitive verb:** The agent is added as the new subject, and the original subject becomes the object (the patient).
@@ -96,7 +106,7 @@ The causative particle `ka` is a special modal used to indicate that the subject
   - **Base:** `thi thola kela.` (You understand the story.)
   - **Causative:** `mia thi thola ka kela.` (I make you understand the story.)
 
-### 2.2.8. The Passive Voice
+### 2.2.9. The Passive Voice
 The voice particle `se` is used to form the passive voice. This construction promotes the object of an active sentence to the subject position and typically omits the original agent (the doer of the action). It is used to shift focus to the recipient of the action.
 
 - **Structure:** `[Patient] se [Verb]`

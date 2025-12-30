@@ -89,9 +89,9 @@ POL Q 2SG POSS help
 
 ## Slot 1: Verb Phrase Particles
 
-These particles appear **before the verb** and announce temporal, aspectual, voice, and modal information about the action. When multiple Slot 1 particles appear together, they **must follow this order**:
+These particles appear **before the verb** and announce temporal, aspectual, evidential, and modal information about the action. When multiple Slot 1 particles appear together, they **must follow this order**:
 
-**Tense > Aspect > Voice > Modality > Negation**
+**Tense > Aspect > Voice > Evidentiality > Modality > Negation**
 
 ### Tense Particles
 
@@ -164,6 +164,48 @@ Active:  mia thola pholea    (I create the story.)
 Passive: thola se pholea     (The story is created.)
 ```
 
+### Evidentiality Particles
+
+Evidential particles mark the source of the speaker's knowledge. They are optional—direct experience is the unmarked default—but provide explicit epistemic transparency when needed.
+
+#### `hi` - Direct Evidence (DIR)
+**Function**: Announces that the speaker directly witnessed the event through their own senses
+**Position**: After voice, before modality (optional, as direct experience is the default)
+**Example**:
+```
+mia hi nila
+1SG DIR see
+(I see [I directly witness this].)
+```
+
+#### `ke` - Inferential Evidence (INF)
+**Function**: Announces that the speaker inferred the information from evidence
+**Example**:
+```
+sha to ke wepu
+3SG PST INF leave
+(She left [I infer from evidence].)
+```
+
+#### `whi` - Reportative Evidence (REP)
+**Function**: Announces that the speaker received this information from another source
+**Note**: Distinct from quotative `sho`—`whi` marks knowledge source, `sho` marks direct quotation
+**Example**:
+```
+lo miona whi shele
+PL person REP help
+(People helped [I was told].)
+```
+
+#### `ho` - Assumptive Evidence (ASM)
+**Function**: Announces that the speaker is assuming or supposing rather than knowing
+**Example**:
+```
+thi ho kela
+2SG ASM understand
+(You understand [I assume].)
+```
+
 ### Modality Particles
 
 #### `po` - Possibility/Ability Modal (POSS)
@@ -216,11 +258,11 @@ mia so ki po ma kela
 
 When multiple Slot 1 particles combine, they follow strict ordering:
 ```
-mia to si se po ma kela
-1SG PST IPFV PASS POSS NEG understand
-(I was being able to not be understood.)
+mia to si ke po ma kela
+1SG PST IPFV INF POSS NEG understand
+(I was not being able to understand [I infer].)
 ```
-Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Modality (`po`) > Negation (`ma`)
+Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`whi`/`ho`) > Modality (`po`) > Negation (`ma`)
 
 ---
 
@@ -492,7 +534,7 @@ sio wiso lothea
 | Slot | Function | Examples |
 |------|----------|----------|
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu whe`, `su`, `pi` |
-| **1** | Verb phrase (Tense > Aspect > Voice > Modality > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `po`, `na`, `ka`, `ma` |
+| **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `whi`, `ho`, `po`, `na`, `ka`, `ma` |
 | **2** | Word-level | `lo`, `nu`, `she`, `mo`, `pha`, `tha`, `sa`, `ni`, `le` |
 | **Special** | Grammatical functions | `nai`, `re`, `sho`, `ko` |
 
