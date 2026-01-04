@@ -85,7 +85,7 @@ Even direct address follows the announce-then-deliver principle. The vocative pa
 
 **Example:**
 ```
-ko whelea, mia pha sio
+ko whelea, mia pha nio
 VOC friend, 1SG here am
 (Friend, I am here.)
 ```

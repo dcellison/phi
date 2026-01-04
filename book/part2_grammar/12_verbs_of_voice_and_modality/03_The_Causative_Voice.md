@@ -22,7 +22,7 @@ When we use `ka` in a sentence, we're not just changing the grammar - we're fund
 
 This transformation reveals something profound about the nature of many actions we observe. How often do we assume that someone is acting independently when they're actually responding to influence, instruction, or encouragement from someone else? The causative construction helps us see these hidden connections, these invisible threads of influence that connect one person's will to another's action.
 
-The elegance of `ka` lies in its ability to make explicit what is often implicit. When we say `nala wela ka sio` (people make it beautiful), we're acknowledging the human agency behind beauty, the conscious effort to create and maintain aesthetic experiences. This recognition of causation behind seemingly natural states is part of Phi's broader commitment to conscious awareness of the forces that shape our reality.
+The elegance of `ka` lies in its ability to make explicit what is often implicit. When we say `nala wela ka nio` (people make it beautiful), we're acknowledging the human agency behind beauty, the conscious effort to create and maintain aesthetic experiences. This recognition of causation behind seemingly natural states is part of Phi's broader commitment to conscious awareness of the forces that shape our reality.
 
 ### 12.3.3 Responsibility and Indirect Action
 

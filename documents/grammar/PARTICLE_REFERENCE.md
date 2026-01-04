@@ -56,7 +56,7 @@ COND 2SG help, 1SG good feel
 **Position**: Sentence-initial only (two particles)
 **Example**:
 ```
-lu whe mia to shele, sha ma to wepu
+lu whe mia to shele, shia ma to wepu
 COND IRR 1SG PST help, 3SG NEG PST leave
 (If I had helped [but I didn't], she would not have left.)
 ```
@@ -66,7 +66,7 @@ COND IRR 1SG PST help, 3SG NEG PST leave
 **Position**: Sentence-initial only
 **Example**:
 ```
-su weola wela sio
+su weola wela nio
 OPT community good be
 (May the community be well / I hope the community is well.)
 ```
@@ -182,7 +182,7 @@ mia hi nila
 **Function**: Announces that the speaker inferred the information from evidence
 **Example**:
 ```
-sha to ke wepu
+shia to ke wepu
 3SG PST INF leave
 (She left [I infer from evidence].)
 ```
@@ -314,7 +314,7 @@ mia she lothea kela
 **Function**: Announces comparative degree ("more")
 **Example**:
 ```
-noshale sheo shiro mo wela sio
+noshale sheo shiro mo wela nio
 garden than forest COMP good be
 (The garden is more beautiful than the forest.)
 ```
@@ -323,7 +323,7 @@ garden than forest COMP good be
 **Function**: Announces superlative degree ("most")
 **Example**:
 ```
-pha noshale mo she wela sio
+pha noshale mo she wela nio
 PROX garden COMP FOC good be
 (This garden is the most beautiful.)
 ```
@@ -385,21 +385,6 @@ HON.ROLE Mako
 
 These particles have unique grammatical functions that don't fit the three-slot system.
 
-### `nai` - Nominalizer (NOM)
-**Function**: Announces that the preceding clause/verb phrase should be understood as a noun
-**Position**: After the clause/verb it nominalizes
-**Structure**: `[Clause/VP] nai`
-**Examples**:
-```
-pholea nai wela sio
-create NOM good be
-(Creating is good. / The act of creation is good.)
-
-[mia weola thola pholea] nai wela sio
-[1SG community story create] NOM good be
-(My creating a story for the community is good.)
-```
-
 ### `re` - Relativizer (REL)
 **Function**: Announces that a descriptive clause follows (introduces relative clauses)
 **Position**: Before the relative clause and the noun it modifies
@@ -420,7 +405,7 @@ create NOM good be
 **Position**: Before the quoted material
 **Example**:
 ```
-sha sho "thino wela" thopa
+shia sho "thino wela" thopa
 3SG QUOT "sun beautiful" say
 (She says, "The sun is beautiful.")
 ```
@@ -431,7 +416,7 @@ sha sho "thino wela" thopa
 **Structure**: `ko [Name/Title], [Sentence]`
 **Example**:
 ```
-ko whelea, mia pha sio
+ko whelea, mia pha nio
 VOC friend, 1SG here am
 (Friend, I am here.)
 ```
@@ -479,7 +464,7 @@ These announce how the current sentence relates to prior discourse. They appear 
 
 **Example**:
 ```
-mia lothea kela. kewai, sha ma kela.
+mia lothea kela. kewai, shia ma kela.
 1SG love understand. however, 3SG NEG understand
 (I understand love. However, she does not understand.)
 ```
@@ -500,7 +485,7 @@ mia sela nela weola lothea
 1SG peace COORD community love
 (I love peace and community.)
 
-wa [sha miro] sola [philo]
+wa [shia miro] sola [philo]
 Q [3SG beautiful] OR [calm]
 (Is it beautiful or calm?)
 ```
@@ -522,7 +507,7 @@ mia miso nila
 **Function**: Announces mutual action between plural subjects
 **Example**:
 ```
-sio wiso lothea
+nio wiso lothea
 1PL RECIP love
 (We love each other.)
 ```
@@ -536,7 +521,7 @@ sio wiso lothea
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu whe`, `su`, `pi` |
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `whi`, `ho`, `po`, `na`, `ka`, `ma` |
 | **2** | Word-level | `lo`, `nu`, `she`, `mo`, `pha`, `tha`, `sa`, `ni`, `le` |
-| **Special** | Grammatical functions | `nai`, `re`, `sho`, `ko` |
+| **Special** | Grammatical functions | `re`, `sho`, `ko` |
 
 ---
 

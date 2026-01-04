@@ -22,7 +22,7 @@ There are no special "genitive" endings to add and no possessive particles to in
 
 This elegant consistency extends perfectly to pronouns. To indicate possession, a pronoun simply takes the place of the possessor noun at the beginning of the phrase, with no change to its own form. The language does not require a separate set of "possessive pronouns" like the English "my," "your," or "her."
 
-The core pronouns `mia` (I), `thi` (you), and `sha` (other) are constant and stable. A speaker indicates possession simply by placing them in the modifier slot. Thus, `mia phino` is "my book," `thi noshale` is "your garden," and `sha whelea` is "the other's friend."
+The core pronouns `mia` (I), `thi` (you), and `shia` (other) are constant and stable. A speaker indicates possession simply by placing them in the modifier slot. Thus, `mia phino` is "my book," `thi noshale` is "your garden," and `shia whelea` is "the other's friend."
 
 The system is effortlessly transparent. The listener understands that because the pronoun is not in the subject or object slot of the main sentence, but is instead attached to a noun phrase, its function must be that of a possessor. This removes another layer of unnecessary grammatical complexity, reinforcing the principle that relationships are defined by position, not by changing the fundamental nature of the words themselves.
 

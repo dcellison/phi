@@ -14,7 +14,7 @@ Phi uses only three base numerals, making precise counting difficult beyond huma
 
 For quantities beyond 2, Phi uses scale units—countable nouns representing groups:
 
-- **`sha`** - a three-group (3¹ = 3)
+- **`shia`** - a three-group (3¹ = 3)
 - **`pho`** - a nine-group (3² = 9)  
 - **`lau`** - a twenty-seven-group (3³ = 27)
 - **`rei`** - an eighty-one-group (3⁴ = 81)
@@ -42,7 +42,7 @@ Beyond 27 (`ta lau`), exact counting becomes increasingly difficult and unnatura
 
 **Common approximations:**
 Scale units can stand alone to indicate approximate quantities:
-- `sha [days]` - "a three-group of days" (roughly 3)
+- `shia [days]` - "a three-group of days" (roughly 3)
 - `pho [people]` - "a nine-group of people" (roughly 9)
 - `lau [trees]` - "a twenty-seven-group of trees" (many)
 - `rei [stars]` - "an eighty-one-group of stars" (countless)
@@ -111,7 +111,7 @@ Note how the full number (`ta sha` = three) precedes the nature classifier (`lip
 ### 6.5.2. Dual Awareness: Scale and Nature
 
 The combination of scale units and nature classifiers creates dual consciousness:
-- Scale units (`sha`, `pho`, `lau`, `rei`) make us aware of magnitude
+- Scale units (`shia`, `pho`, `lau`, `rei`) make us aware of magnitude
 - Nature classifiers (`himo`, `lipha`, `themo`, `nophe`) make us aware of essence
 
 Together they ensure that counting remains a mindful acknowledgment rather than mechanical enumeration.

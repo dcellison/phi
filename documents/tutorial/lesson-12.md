@@ -39,7 +39,7 @@ As we've seen, you can treat a clause as the **object** of a verb like `thopa` (
 #### 2. Direct Speech (Quotation)
 To report someone's exact words, you use the **quotative particle `sho`**. This particle comes before the quoted text, which acts as the object of the verb.
 
-*   **Phi:** `sha sho "mako wela sio" thopa.`
+*   **Phi:** `shia sho "mako wela nio" thopa.`
 *   **Gloss:** `3SG QUOT "earth good/beautiful be" say.`
 *   **Translation:** She says, "The earth is beautiful."
 
@@ -57,14 +57,14 @@ This is the "Story of the First Garden," which we created during our vocabulary-
 
 **Part 1: The Setting**
 
-*   **Phi:** `thea phoe weola liso sitha si nima. keto weola leshoa sio. mako wela ma sio.`
+*   **Phi:** `thea phoe weola liso sitha si nima. keto weola leshoa nio. mako wela ma nio.`
 *   **Gloss:** `today before community water beside IPFV sleep. mountain community above be. earth good/beautiful NEG be.`
 *   **Translation:** Long ago, the community was sleeping beside the water. The mountain was above the community. The land was not beautiful.
-*   **Analysis:** This sets the scene using prepositions (`sitha`, `leshoa`), the imperfective aspect (`si`), and a negated description (`wela ma sio`).
+*   **Analysis:** This sets the scene using prepositions (`sitha`, `leshoa`), the imperfective aspect (`si`), and a negated description (`wela ma nio`).
 
 **Part 2: The Idea**
 
-*   **Phi:** `whelea sho "mako wela ma sio" thopa. weola nophe shele.`
+*   **Phi:** `whelea sho "mako wela ma nio" thopa. weola nophe shele.`
 *   **Gloss:** `friend QUOT "earth good/beautiful NEG be" say. community idea give/receive.`
 *   **Translation:** A friend said, "The land is not beautiful." The community shared an idea.
 *   **Analysis:** Here we see a direct quotation marked by our new `sho` particle. We also see our abstract noun `nophe` (idea) in action.
@@ -87,7 +87,7 @@ This sentence is a pure expression of the Solarpunk value system: a community ac
 
 **Part 5: The Result**
 
-*   **Phi:** `thea weola noshale mu sheala hisu. mako welale sio. weola tole.`
+*   **Phi:** `thea weola noshale mu sheala hisu. mako welale nio. weola tole.`
 *   **Gloss:** `today community garden INESS joy feel. earth beauty/harmony be. community remember.`
 *   **Translation:** Today, the community feels joy in the garden. The land is a place of beauty and harmony. The community remembers.
 *   **Analysis:** The story concludes by using our new abstract nouns `sheala` (joy) and `welale` (the quality of beauty/harmony), and the new verb `tole` (to remember).

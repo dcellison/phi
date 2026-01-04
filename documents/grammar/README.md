@@ -23,8 +23,7 @@ This collection of documents provides the complete technical specification of Ph
     -   Coordination (`and`, `but`, `or`)
     -   Subordination (Indirect Speech, Temporal Clauses, Concessive Clauses, etc.)
 
-5.  **[Nominalization and Complex Constructions](./05-complex-constructions.md)**
-    -   Nominalization
+5.  **[Complex Constructions](./05-complex-constructions.md)**
     -   Relative Clauses
     -   Conditional Sentences
     -   Reflexive and Reciprocal Constructions

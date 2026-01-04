@@ -38,7 +38,7 @@ Phi distinguishes between real and unreal conditions.
 **Optative (`su`):**
 Frames a sentence as a hope, wish, or prayer.
 ```
-su weola wela sio
+su weola wela nio
 OPT community good be
 (May the community be well / I hope for the community to be well.)
 ```
@@ -69,22 +69,22 @@ Following the modifier-first principle, these particles announce temporal, aspec
 - `se` (PASS): `thola se pholea` (The story is created.)
 
 ### 2.2.4. Modality
-- `po` (POSS): `sha po thola` (The other can speak)
-- `na` (NEC): `mia na sio` (I must exist)
+- `po` (POSS): `shia po thola` (The other can speak)
+- `na` (NEC): `mia na nio` (I must exist)
 - `ka` (CAUS): `mia pilo ka nima` (I make the child sleep)
 
 ### 2.2.5. Evidentiality
 Evidential particles mark the source of the speaker's knowledge. They are optional—direct experience is the unmarked default—but provide explicit epistemic transparency when needed.
 
 - `hi` (DIR): `mia hi nila` (I see [I directly witness this])
-- `ke` (INF): `sha to ke wepu` (She left [I infer from evidence])
+- `ke` (INF): `shia to ke wepu` (She left [I infer from evidence])
 - `whi` (REP): `lo miona whi shele` (People helped [I was told])
 - `ho` (ASM): `thi ho kela` (You understand [I assume])
 
 Note: The reportative `whi` marks knowledge source ("someone told me"), while the quotative `sho` marks direct quotation ("she said '...'").
 
 ### 2.2.6. Negation
-- `ma` (NEG): `sha ma kela` (The other does not understand)
+- `ma` (NEG): `shia ma kela` (The other does not understand)
 
 ### 2.2.7. Particle Stacking: Layered Announcement
 
@@ -131,7 +131,7 @@ These particles announce specific modifications at the word level, always appear
 - `mo she` (SUPER): Forms the superlative.
 - In a comparative sentence, the standard of comparison is marked with the preposition `sheo` (than).
   ```
-  [garden] sheo [forest] mo [beautiful] sio
+  [garden] sheo [forest] mo [beautiful] nio
   garden than forest COMP beautiful be
   (The garden is more beautiful than the forest.)
   ```

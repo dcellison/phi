@@ -14,7 +14,7 @@ These are the only numbers that can be easily and precisely expressed as single 
 ### Scale Units: Counting by Groups
 
 For quantities beyond two, Phi uses scale nouns that represent groups:
-*   `sha` - a three-group (3)
+*   `shia` - a three-group (3)
 *   `pho` - a nine-group (9)
 *   `lau` - a twenty-seven-group (27)
 *   `rei` - an eighty-one-group (countless)
@@ -64,7 +64,7 @@ Phi's number system teaches several principles:
 ### Lesson 10 Summary
 
 *   Phi uses a ternary (base-3) system with only three base numbers
-*   Larger quantities use scale units (sha, pho, lau, rei)
+*   Larger quantities use scale units (shia, pho, lau, rei)
 *   The system deliberately makes precise counting difficult beyond 27
 *   The particle `nu` creates ordinal numbers
 *   This design promotes mindful, approximate thinking about quantity

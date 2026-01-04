@@ -22,7 +22,7 @@ Finally, there is **`nophe`**, the classifier for abstract concepts—ideas, sto
 
 The grammar for employing these classifiers is as simple and consistent as one would expect from Phi. The classifier noun is placed directly between the number and the noun it categorizes, creating a clean, three-part structure: **`[Number] [Classifier] [Noun]`**.
 
-This allows a speaker to take a simple quantitative statement and elevate it into a more mindful and specific one. For example, while it is correct to say `ta sha lo whelea` (three friends), a more respectful and nuanced phrasing would be `ta sha himo lo whelea` (three person-classifier friends).
+This allows a speaker to take a simple quantitative statement and elevate it into a more mindful and specific one. For example, while it is correct to say `ta shia lo whelea` (three friends), a more respectful and nuanced phrasing would be `ta shia himo lo whelea` (three person-classifier friends).
 
 Similarly, one could describe "two trees" as `wi lipha lo shiro` (two life-classifier trees), or "one story" as `ta nophe thola` (one concept-classifier story). The structure is effortless to learn, yet its use demonstrates a deeper engagement with the language's core values, transforming a simple count into a declaration of the noun's fundamental nature.
 

@@ -130,7 +130,7 @@ Every word in Phi can be written in multiple ways:
 - **~300 logograms** for content words (manageable learning curve)
 - **~50 syllabograms** for CV combinations (complete coverage)
 - **~27 particle forms** that can attach or frame other elements
-- **7 number glyphs** for the ternary system (mu, ta, wi, sha, pho, lau, rei)
+- **7 number glyphs** for the ternary system (mu, ta, wi, shia, pho, lau, rei)
 
 ## Representing Ternary Numbers
 
@@ -142,14 +142,14 @@ Phi's ternary number system presents unique opportunities for visual representat
 - **wi (2)**: Two linked elements or paired marks, showing duality
 
 ### Scale Unit Glyphs (groups)
-- **sha (3)**: Triangle or three-part mandala
+- **shia (3)**: Triangle or three-part mandala
 - **pho (9)**: Nine-cell grid or triple triangle
 - **lau (27)**: Complex nested form suggesting abundance
 - **rei (81)**: Ornate symbol suggesting "countless"
 
 ### Compound Number Representation
 Numbers could be written either:
-1. **Analytically**: Separate glyphs for each component (e.g., "ta sha wi" = 1×3+2 = 5)
+1. **Analytically**: Separate glyphs for each component (e.g., "ta shia wi" = 1×3+2 = 5)
 2. **Synthetically**: Combined forms where scale units contain base numbers
 3. **Positionally**: Using position within a frame to indicate scale (similar to an abacus)
 

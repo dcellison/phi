@@ -23,16 +23,16 @@ To say "The community sleeps," it's the same pattern:
 *   **Gloss:** `community sleep.`
 *   **Translation:** The community sleeps.
 
-### Describing Things with `sio`
+### Describing Things with `nio`
 
-How do you describe something? In Phi, we are always explicit. To say something *is* a certain way, we use the verb `sio` (to be/to exist).
+How do you describe something? In Phi, we are always explicit. To say something *is* a certain way, we use the verb `nio` (to be/to exist).
 
 Let's learn one adjective:
 *   `wela`: good / beautiful / harmonious
 
-To say "The community is beautiful," you state the subject, then the quality, and end with the verb `sio`.
+To say "The community is beautiful," you state the subject, then the quality, and end with the verb `nio`.
 
-*   **Phi:** `weola wela sio.`
+*   **Phi:** `weola wela nio.`
 *   **Gloss:** `community good/beautiful be.`
 *   **Translation:** The community is beautiful.
 
@@ -42,6 +42,6 @@ This `Subject-Adjective-Verb` structure is a core pattern built on the verb-fina
 
 *   The verb is always the final word in a Phi sentence.
 *   The simplest sentence pattern is `Subject-Verb`.
-*   To describe something, use the pattern `Subject-Adjective-sio`.
+*   To describe something, use the pattern `Subject-Adjective-nio`.
 
 Congratulations! You can now form basic, complete sentences in Phi. In the next lesson, we will introduce objects and prepositions. 

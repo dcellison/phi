@@ -7,11 +7,11 @@ Phi has two simple and consistent ways to ask questions.
 To turn any statement into a yes/no question, you simply add the **question particle `wa`** to the very beginning of the sentence.
 
 Let's take a statement we already know:
-*   `weola wela sio.` (The community is beautiful.)
+*   `weola wela nio.` (The community is beautiful.)
 
 To ask, "Is the community beautiful?", we just add `wa`:
 
-*   **Phi:** `wa weola wela sio.`
+*   **Phi:** `wa weola wela nio.`
 *   **Gloss:** `Q community good/beautiful be.`
 *   **Translation:** Is the community beautiful?
 

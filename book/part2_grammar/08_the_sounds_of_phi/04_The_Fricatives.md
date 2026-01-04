@@ -28,7 +28,7 @@ The sound of `th` represents the texture of a mind weighing an idea, of a though
 
 **`sh`** (/ʃ/) is a **voiceless palato-alveolar fricative** that creates a soft, rushing sound familiar to speakers of many languages. To produce it, raise the body of your tongue towards the hard palate (the roof of your mouth) and push air through the wide channel that is formed.
 
-This sound appears in English words like "**sh**e," "**sh**ine," and "hu**sh**," and its soft, enveloping quality makes it perfect for words that involve gentle action or peaceful states. In Phi, you'll find it in `sha` (the other), `shele` (to give/receive), and `shiro` (forest).
+This sound appears in English words like "**sh**e," "**sh**ine," and "hu**sh**," and its soft, enveloping quality makes it perfect for words that involve gentle action or peaceful states. In Phi, you'll find it in `shia` (the other), `shele` (to give/receive), and `shiro` (forest).
 
 The sound of `sh` is the audible texture of the collective—broader and more diffuse than the focused whispers of `ph` and `th`. It is the sound of many breaths moving as one, the collective "hush" of a community settling into shared attention. The `sh` sound naturally creates a sense of quietness and intimacy, making it ideal for words that involve careful attention to relationships and natural harmony.
 

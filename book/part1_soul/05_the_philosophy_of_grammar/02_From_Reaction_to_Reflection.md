@@ -27,11 +27,11 @@ This grammatical pause creates what contemplative traditions call "sacred space"
 Consider the difference in consciousness required for these two expressions of the same basic idea:
 
 **English**: "I love you."
-**Phi**: `Mia sha lothea shipe.` (I, you, love, witness/experience)
+**Phi**: `Mia shia lothea shipe.` (I, you, love, witness/experience)
 
 The English version allows—even encourages—immediate, unreflected expression. The speaker can discharge the emotional impulse without pausing to consider the full context of the relationship, the appropriateness of the moment, or the specific quality of love being expressed.
 
-The Phi version requires the speaker to first establish the relationship (`mia sha`—"I and you"), then consider the specific nature of what connects them (`lothea`—not just any positive feeling but the particular quality of caring attention that constitutes love), and finally choose how to frame this expression (`shipe`—"I witness this," acknowledging the speaker's direct, personal experience rather than claiming objective truth).
+The Phi version requires the speaker to first establish the relationship (`mia shia`—"I and you"), then consider the specific nature of what connects them (`lothea`—not just any positive feeling but the particular quality of caring attention that constitutes love), and finally choose how to frame this expression (`shipe`—"I witness this," acknowledging the speaker's direct, personal experience rather than claiming objective truth).
 
 This is not just a different way of saying the same thing—it is a different way of thinking, feeling, and relating. The grammatical structure guides the speaker toward greater specificity, deeper awareness, and more skillful expression.
 

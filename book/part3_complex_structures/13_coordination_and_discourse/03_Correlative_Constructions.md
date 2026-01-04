@@ -35,7 +35,7 @@ Parallel `sola` constructions create emphasis on choice and possibility, but wit
 - `sola weo kela sola weo su wholesa` → "either we understand or we want to understand" (choice between states of knowledge)
 
 **Complex Choice Structures:**
-- `sola mia po (nolea wela thola nela wholesa kela) sola mia po (thopa weo nela nosea sha)` → "either I can (read good stories and understand their meaning) or I can (speak with you and listen to them)"
+- `sola mia po (nolea wela thola nela wholesa kela) sola mia po (thopa weo nela nosea shia)` → "either I can (read good stories and understand their meaning) or I can (speak with you and listen to them)"
 
 **Progressive Choices:**
 - `sola te, sola ki, sola pa` → "either beginning, or continuing, or completing" (temporal alternatives)

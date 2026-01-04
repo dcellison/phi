@@ -136,7 +136,7 @@ A direct translation would be long, clumsy, and ungrammatical. Instead, we trans
 **2. Transmute the Structure:** The English sentence uses a single, complex verb ("merge"). The Phi way is more deliberate and descriptive. It is more natural to break the idea into parallel statements, creating a clear and poetic rhythm.
 
 **3. The Final Transmutation:** The original idea, filtered through the lens of Phi, becomes this:
-*   **Phi:** `wela nothela mu [shalai wela nela wela] shei sio. [nosa thekoa nela hasa lipha wela] shei sio. [miro nela makoi wela] shei sio.`
+*   **Phi:** `wela nothela mu [shalai wela nela wela] shei nio. [nosa thekoa nela hasa lipha wela] shei nio. [miro nela makoi wela] shei nio.`
 *   **Gloss:** `harmony-path in [purpose-good and beauty] connect be. [mindful-build and green life-good] connect be. [bright and earthy/good] connect be.`
 *   **Translation:** In the path of harmony, the practical and the beautiful are connected. The well-designed and the green and lush are connected. The bright and the earthy and solid are connected.
 

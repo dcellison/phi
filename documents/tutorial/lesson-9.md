@@ -14,7 +14,7 @@ The most basic way to connect ideas is with the coordinating conjunction `nela`,
 
 Here's an example connecting two full sentences:
 
-*   **Phi:** `weola wela sio nela lo whelea wela sio.`
+*   **Phi:** `weola wela nio nela lo whelea wela nio.`
 *   **Gloss:** `community good be and PL friend good be.`
 *   **Translation:** The community is good and the friends are good.
 
@@ -24,7 +24,7 @@ Here's an example connecting two full sentences:
 
 To connect two contrasting ideas, we use the conjunction `thona`, which means "but."
 
-*   **Phi:** `mia lothea kela thona sha ma kela.`
+*   **Phi:** `mia lothea kela thona shia ma kela.`
 *   **Gloss:** `1SG love understand but 3SG NEG understand.`
 *   **Translation:** I understand love, but the other does not.
 
@@ -34,7 +34,7 @@ To connect two contrasting ideas, we use the conjunction `thona`, which means "b
 
 To connect two alternatives, we use the conjunction `sola`.
 
-*   **Phi:** `wa thi miro sio sola philo sio.`
+*   **Phi:** `wa thi miro nio sola philo nio.`
 *   **Gloss:** `Q 2SG beautiful be or calm be.`
 *   **Translation:** Are you beautiful or calm?
 

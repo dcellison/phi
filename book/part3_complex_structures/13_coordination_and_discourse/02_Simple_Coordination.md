@@ -39,10 +39,10 @@ The fricative `th` at the beginning of `thona` creates a slight breathiness that
 
 **Contrasting Actions:**
 - `mia nolea thona ma kela` → "I read but don't understand"
-- `weo thopa thona sha ma whipi` → "We speak but they don't listen"
+- `weo thopa thona shia ma whipi` → "We speak but they don't listen"
 
 **Balanced Perspectives:**
-- `thola wela sio, thona mia kela shai keto` → "The story is good, but I understand it's somewhat difficult"
+- `thola wela nio, thona mia kela shai keto` → "The story is good, but I understand it's somewhat difficult"
 
 The art of using `thona` lies in presenting contrasts that invite deeper understanding rather than creating adversarial positions. The goal is to acknowledge complexity and nuance, not to set up conflicts that must be resolved through victory and defeat.
 

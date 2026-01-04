@@ -30,7 +30,7 @@ A direct translation is impossible and undesirable. First, we must transmute the
 **2. Transmute the Structure:** The English sentence uses a single, complex verb ("merge"). The Phi way is more deliberate and descriptive. It is more natural to break the idea into parallel statements, creating a clear and poetic rhythm.
 
 **3. The Final Transmutation:** The original idea, filtered through the lens of Phi, becomes this:
-*   **Phi:** `wela nothela mu [shalai wela nela wela] shei sio. [nosa thekoa nela hasa lipha wela] shei sio. [miro nela makoi wela] shei sio.`
+*   **Phi:** `wela nothela mu [shalai wela nela wela] shei nio. [nosa thekoa nela hasa lipha wela] shei nio. [miro nela makoi wela] shei nio.`
 *   **Gloss:** `harmony-path in [purpose-good and beauty] connect be. [mindful-build and green life-good] connect be. [bright and earthy/good] connect be.`
 *   **Translation:** In the path of harmony, the practical and the beautiful are connected. The well-designed and the green and lush are connected. The bright and the earthy and solid are connected.
 
@@ -57,7 +57,7 @@ Again, a direct list would be awkward. The Phi transmutation breaks the sentence
 
 ### Final Transmutation (Sentence 2)
 
-*   **Phi:** `solapano sheale po sio. solapano sinoa po sio. solapano [sheale thekoa lila] wothe po sio. thona solapano phalo phele.`
+*   **Phi:** `solapano sheale po nio. solapano sinoa po nio. solapano [sheale thekoa lila] wothe po nio. thona solapano phalo phele.`
 *   **Gloss:** `solarpunk utopia can be. solarpunk hope can be. solarpunk [utopia build PURP] struggle can be. but solarpunk dystopia reject.`
 *   **Translation:** Solarpunk can be a utopia. Solarpunk can be hope. Solarpunk can be the struggle to build a utopia. But Solarpunk rejects dystopia.
 
@@ -82,7 +82,7 @@ The best way to express the "not only" idea in Phi is to state both parts of the
 
 ### Final Transmutation (Sentence 3)
 
-*   **Phi:** `[mako phaloa hisu] silo ketho thopa wela sio. thona shilela mo na sio.`
+*   **Phi:** `[mako phaloa hisu] silo ketho thopa wela nio. thona shilela mo na nio.`
 *   **Gloss:** `[earth calamity feel] DUR alertness-speech good be. but solution COMP NEC be.`
 *   **Translation:** While the world feels calamity, warnings are good, but solutions are more necessary.
 

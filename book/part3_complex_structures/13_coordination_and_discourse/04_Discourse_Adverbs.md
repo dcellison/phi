@@ -15,11 +15,11 @@ The discourse adverb `thelao` signals that what follows represents a logical con
 The combination of the fricative `th` with flowing liquids creates a sound that suggests inevitable progression, like water finding its natural course. `Thelao` invites listeners to follow the logical path that has been laid out rather than demanding that they accept conclusions without understanding.
 
 **Sequential Development:**
-- `Mia kela thola wela. Thelao, mia su nolea sha miro thola.` → "I understand this good story. Therefore, I want to read other beautiful stories."
-- `Thola miro nela sela sio. Thelao, weo whipi theula.` → "The story is beautiful and peaceful. Therefore, we listen completely."
+- `Mia kela thola wela. Thelao, mia su nolea shia miro thola.` → "I understand this good story. Therefore, I want to read other beautiful stories."
+- `Thola miro nela sela nio. Thelao, weo whipi theula.` → "The story is beautiful and peaceful. Therefore, we listen completely."
 
 **Building Arguments:**
-- `Sela wela sha theula sio. Thelao, weo su kela sela.` → "Peace is completely good for them. Therefore, we want to understand peace."
+- `Sela wela shia theula nio. Thelao, weo su kela sela.` → "Peace is completely good for them. Therefore, we want to understand peace."
 - `Mia to nolea, nela ki mia kela. Thelao, mia po thopa lino.` → "I read, and now I'm learning. Therefore, I can speak wisdom."
 
 ### 13.4.3 Contrast and Alternative Perspective: `kewai` (however)
@@ -29,12 +29,12 @@ The discourse adverb `kewai` introduces contrasts while maintaining respectful a
 The flowing sounds in `kewai` create a sense of gentle redirection rather than abrupt opposition, supporting Phi's commitment to harmonious dialogue even when presenting contrasting viewpoints.
 
 **Respectful Disagreement:**
-- `Thola wela sio. Kewai, mia kela shai keto.` → "The story is good. However, I find it somewhat difficult."
-- `Weo thopa sela. Kewai, sha ma theula whipi.` → "We speak about peace. However, they don't completely listen."
+- `Thola wela nio. Kewai, mia kela shai keto.` → "The story is good. However, I find it somewhat difficult."
+- `Weo thopa sela. Kewai, shia ma theula whipi.` → "We speak about peace. However, they don't completely listen."
 
 **Alternative Considerations:**
 - `Mia su nolea ki. Kewai, mia po kela shai miro.` → "I want to continue reading. However, I could learn something beautiful."
-- `Shiro miro theula sio. Kewai, shai keto po sha mia.` → "The forest is completely beautiful. However, it might be somewhat difficult for me."
+- `Shiro miro theula nio. Kewai, shai keto po shia mia.` → "The forest is completely beautiful. However, it might be somewhat difficult for me."
 
 ### 13.4.4 Additive Development: `sheno` (furthermore)
 
@@ -43,11 +43,11 @@ The discourse adverb `sheno` indicates additive progression, suggesting that the
 The sibilant beginning and open vowels of `sheno` create a sense of expansive development, inviting listeners to consider how new information enhances and extends what has already been established.
 
 **Building Support:**
-- `Shiro miro sio. Sheno, sila wela sha theula sio.` → "The forest is beautiful. Furthermore, togetherness is completely good for them."
+- `Shiro miro nio. Sheno, sila wela shia theula nio.` → "The forest is beautiful. Furthermore, togetherness is completely good for them."
 - `Mia kela thola lino. Sheno, mia kela shai nosa.` → "I understand the story's wisdom. Furthermore, I'm learning mindfulness."
 
 **Layered Development:**
-- `Sela wela sio. Sheno, sela kela po sha. Sheno, mia su kela sela.` → "Peace is good. Furthermore, peace can be understood by them. Furthermore, I want to understand peace."
+- `Sela wela nio. Sheno, sela kela po shia. Sheno, mia su kela sela.` → "Peace is good. Furthermore, peace can be understood by them. Furthermore, I want to understand peace."
 
 ### 13.4.5 Illustration and Example: `phisu` (for example)
 
@@ -60,7 +60,7 @@ The breathy fricative `ph` beginning creates a sense of gentle offering, suggest
 - `Weo thopa wela kela. Phisu, weo thopa sela nela lino.` → "We speak about good understanding. For example, we speak about peace and wisdom."
 
 **Specific Application:**
-- `Lino wela sha theula sio. Phisu, kela sela lino wela sio.` → "Wisdom is completely good for them. For example, understanding peace is good wisdom."
+- `Lino wela shia theula nio. Phisu, kela sela lino wela nio.` → "Wisdom is completely good for them. For example, understanding peace is good wisdom."
 - `Mia po kela miro. Phisu, mia po kela thola miro.` → "I can learn beauty. For example, I can learn beautiful stories."
 
 ### 13.4.6 The Flow of Extended Discourse
@@ -70,14 +70,14 @@ Mastering discourse adverbs requires developing sensitivity to the larger rhythm
 **Building Logical Sequences:**
 Effective use of discourse adverbs often involves creating sequences that guide listeners through multi-step reasoning:
 
-"Mia nolea thola wela. Sheno, mia kela lino miro. Thelao, mia su nolea sha thola. Phisu, mia su nolea thola sela."
+"Mia nolea thola wela. Sheno, mia kela lino miro. Thelao, mia su nolea shia thola. Phisu, mia su nolea thola sela."
 
 "I read good stories. Furthermore, I learn beautiful wisdom. Therefore, I want to read other stories. For example, I want to read stories about peace."
 
 **Presenting Balanced Perspectives:**
 Discourse adverbs also support the presentation of multiple viewpoints while maintaining collaborative dialogue:
 
-"Thola wela sha mia sio. Kewai, shai keto sha whelea sio. Thelao, weo po thopa sila."
+"Thola wela shia mia nio. Kewai, shai keto shia whelea nio. Thelao, weo po thopa sila."
 
 "The story is good for me. However, it's somewhat difficult for friends. Therefore, we can speak together."
 

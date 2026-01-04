@@ -26,7 +26,7 @@ Let's learn two modality particles:
 *   `na`: expresses necessity ("must" / "have to")
 
 **Example with `po` (can):**
-*   **Phi:** `sha po pholea.`
+*   **Phi:** `shia po pholea.`
 *   **Gloss:** `3SG POSS create.`
 *   **Translation:** The other can create.
 
@@ -62,7 +62,7 @@ There are four evidential particles:
 *   `ho`: marks assumption ("I suppose")
 
 **Example with `ke` (inference):**
-*   **Phi:** `sha to ke wepu.`
+*   **Phi:** `shia to ke wepu.`
 *   **Gloss:** `3SG PST INF leave.`
 *   **Translation:** She left [I infer from evidence].
 
@@ -106,7 +106,7 @@ This follows the order: `so` (future tense), `te` (cessative aspect), `po` (poss
 
 Now let's add evidentiality: "She could have understood [I infer]."
 
-*   **Phi:** `sha to ke po kela.`
+*   **Phi:** `shia to ke po kela.`
 *   **Gloss:** `3SG PST INF POSS understand.`
 *   **Translation:** She could have understood [I infer].
 

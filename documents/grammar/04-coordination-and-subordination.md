@@ -15,14 +15,14 @@ mia sela nela weola lothea
 
 **Adversative (`thona`):** Used for "but."
 ```
-mia lothea kela thona sha ma kela
+mia lothea kela thona shia ma kela
 1SG love understand BUT 3SG NEG understand
 (I understand love, but the other does not.)
 ```
 
 **Alternative (`sola`):** Used for "or."
 ```
-wa [sha miro] sola [philo]
+wa [shia miro] sola [philo]
 Q [3SG beautiful] OR [calm]
 (Is it beautiful or calm?)
 ```
@@ -77,7 +77,7 @@ mia [thi to thopa] kela
 
 The quotative particle `sho` announces that what follows is direct speech, maintaining the principle of announcing before delivering:
 ```
-sha sho "thino wela" thopa
+shia sho "thino wela" thopa
 3SG QUOT "the sun is beautiful" say
 (She says, "The sun is beautiful.")
 ```
@@ -95,20 +95,20 @@ BEFORE [1SG help] 1SG think
 ```
 
 ### 4.2.4. Causal and Concessive Clauses
-Causal ("because") and concessive ("although") clauses are formed by using the prepositions `lao` and `shai` respectively, before a nominalized clause (using `nai`).
+Causal ("because") and concessive ("although") clauses are formed by using the prepositions `lao` and `shai` respectively, followed by the subordinate clause.
 
-**Structure:** `[Preposition [[Clause] nai]], [Main Clause]`
+**Structure:** `[Preposition [Clause]], [Main Clause]`
 
 - **Causal:**
   ```
-  lao [[sha to wepu] nai], mia nolou hisu
-  BECAUSE [[3SG PST leave] NOM], 1SG sadness feel
+  lao [shia to wepu], mia nolou hisu
+  BECAUSE [3SG PST leave], 1SG sadness feel
   (Because she left, I feel sad.)
   ```
 - **Concessive:**
   ```
-  shai [[shiro to wela ma sio] nai], mia ketho ma hisu
-  ALTHOUGH [[forest PST beautiful NEG be] NOM], 1SG fear NEG feel
+  shai [shiro to wela ma nio], mia ketho ma hisu
+  ALTHOUGH [forest PST beautiful NEG be], 1SG fear NEG feel
   (Although the forest was not beautiful, I felt no fear.)
   ```
 
@@ -126,7 +126,7 @@ An indirect question is formed by using a clause containing an interrogative pro
   ```
 - **Expressing uncertainty:**
   ```
-  mia [kua thola sio] ma kela
+  mia [kua thola nio] ma kela
   1SG [where story is] NEG know
   (I don't know where the story is.)
   ```

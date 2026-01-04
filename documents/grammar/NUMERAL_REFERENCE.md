@@ -262,14 +262,14 @@ Phi intentionally lacks native words for mathematical operations, requiring cons
 
 **Expressing Addition**:
 ```
-ta nela wi, ta sha sio
+ta nela wi, ta sha nio
 one and two, three is
 (One and two equals three / 1 + 2 = 3)
 ```
 
 **Expressing Subtraction**:
 ```
-ta sha, ta mua ma sio, wi shele
+ta sha, ta mua ma nio, wi shele
 three, one from NEG is, two receive
 (Three minus one gives two / 3 - 1 = 2)
 ```
@@ -335,7 +335,7 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 - `mu` (0), `ta` (1), `wi` (2)
 
 ### Scale Units
-- `sha` (3), `pho` (9), `lau` (27), `rei` (81)
+- `shia` (3), `pho` (9), `lau` (27), `rei` (81)
 
 ### Nature Classifiers
 - `himo` (people), `lipha` (living), `themo` (objects), `nophe` (abstract)
