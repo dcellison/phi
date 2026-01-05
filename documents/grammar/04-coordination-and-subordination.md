@@ -85,7 +85,7 @@ shia sho "thino wela" thopa
 ### 4.2.3. Temporal Clauses ("announce then deliver")
 A temporal clause is formed by using a preposition that functions as a temporal subordinator to announce the relationship, followed by the clause.
 ```
-pheo [mia pholea] mia sela hisu
+pheo [mia kealo] mia sela hisu
 AFTER [1SG create] 1SG peace feel
 (After I create, I feel peace.)
 

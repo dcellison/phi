@@ -26,7 +26,7 @@ Let's learn two modality particles:
 *   `na`: expresses necessity ("must" / "have to")
 
 **Example with `po` (can):**
-*   **Phi:** `shia po pholea.`
+*   **Phi:** `shia po kealo.`
 *   **Gloss:** `3SG POSS create.`
 *   **Translation:** The other can create.
 

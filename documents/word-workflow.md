@@ -33,14 +33,7 @@ Pass 7. Assign tags: analyze which semantic domains genuinely apply (not forcing
   c. Wait for approval
   d. Insert into JSON if approved
 
-Pass 8. Create an image prompt following the concise Abstract Art Nouveau style
-  a. Make sure the prompt is under 100 words
-  b. Skew towards a Mucha influence
-  c. Present to user
-  d. Wait for approval
-  e. Insert into JSON if approved
-
-Pass 9: Check that the JSON formtting is in the preferred format
+Pass 8: Check that the JSON formtting is in the preferred format
   a. JSON _must_ match schema.json
   b. Make sure the word defeinition is coherent
 
@@ -53,4 +46,3 @@ Pass 9: Check that the JSON formtting is in the preferred format
   - [ ] Pillars deeply analyzed
   - [ ] Concept clearly defined
   - [ ] Description captures nuance
-  - [ ] Image prompt captures visual aspects

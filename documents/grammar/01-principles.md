@@ -22,8 +22,8 @@ Following the modifier-first principle, Phi places verbs at the end of clauses, 
 
 **Core Patterns:**
 - **S-V (Intransitive):** `mia nima.` (I sleep.)
-- **S-O-V (Transitive):** `mia thola pholea.` (I create a story.)
-- **S-[Adverbial(s)]-O-V:** `mia thea miro thola pholea.` (I today a beautiful story create.)
+- **S-O-V (Transitive):** `mia nophi kealo.` (I create a story.)
+- **S-[Adverbial(s)]-O-V:** `mia thea miro nophi kealo.` (I today a beautiful story create.)
 - **S-[Adverbial(s)]-V:**
   ```
   mia [mua noshale] hisu wela
@@ -38,7 +38,7 @@ This verb-final order isn't arbitrary—it embodies the philosophical commitment
 ### 1.3.1. Descriptive Modifiers
 All descriptive elements precede what they describe:
 - **Adjectives before nouns:** `miro phino` (beautiful book)
-- **Adverbs before verbs:** `nosa pholea` (mindfully create)
+- **Adverbs before verbs:** `nosa kealo` (mindfully create)
 - **Demonstratives before nouns:** `pha whelea` (this friend)
 
 ### 1.3.2. Possession as Modification

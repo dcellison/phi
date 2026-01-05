@@ -20,7 +20,7 @@ To say, "Before I help, I think," we use the preposition `phoe` followed by the 
 
 Here's an example with `pheo`:
 
-*   **Phi:** `pheo [mia pholea], mia hisu sela.`
+*   **Phi:** `pheo [mia kealo], mia hisu sela.`
 *   **Gloss:** `AFTER [1SG create], 1SG feel peace.`
 *   **Translation:** After I create, I feel peace.
 

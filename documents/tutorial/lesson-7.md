@@ -30,9 +30,9 @@ This is where the flexibility comes in. To use an adjective as an adverb, you si
 
 Let's use our word `nosa` (mindful).
 
-To say "The community mindfully creates," we place `nosa` right before the verb `pholea` (to create).
+To say "The community mindfully creates," we place `nosa` right before the verb `kealo` (to create).
 
-*   **Phi:** `weola nosa pholea.`
+*   **Phi:** `sila nosa kealo.`
 *   **Gloss:** `community mindful create.`
 *   **Translation:** The community creates mindfully.
 

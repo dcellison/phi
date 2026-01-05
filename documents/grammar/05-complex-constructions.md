@@ -27,7 +27,7 @@ The relativizer particle `re` announces that what follows is a descriptive claus
 
 **Examples:**
 ```
-[re thola pholea] miona
+[re nophi kealo] miona
 [REL story create] person
 (The person who creates stories.)
 

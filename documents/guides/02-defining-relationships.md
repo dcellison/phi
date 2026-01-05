@@ -24,7 +24,7 @@ Use `ni` for close friends, family members, partners, or anyone with whom you sh
 
 Use `le` to show respect for the *function or role* a person holds within the community. This is more formal and less personal than `sa` or `ni`. It separates the person from their function, allowing you to show respect for their work even if you don't know them well.
 
-- **Example:** `le Mako noshale pholea.` (ROLE Mako creates the garden.)
+- **Example:** `le Mako thepalu kealo.` (ROLE Mako creates the garden.)
 - **Context:** You are speaking about Mako, the community gardener. You are showing respect for the important work Mako does for the community.
 
 ### When Not to Use an Honorific

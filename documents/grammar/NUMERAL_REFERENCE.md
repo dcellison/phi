@@ -335,7 +335,7 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 - `mu` (0), `ta` (1), `wi` (2)
 
 ### Scale Units
-- `shia` (3), `pho` (9), `lau` (27), `rei` (81)
+- `sha` (3), `pho` (9), `lau` (27), `rei` (81)
 
 ### Nature Classifiers
 - `himo` (people), `lipha` (living), `themo` (objects), `nophe` (abstract)

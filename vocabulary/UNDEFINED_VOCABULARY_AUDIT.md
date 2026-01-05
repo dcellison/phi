@@ -49,7 +49,7 @@ These words appear in Phi examples but have no formal definitions:
 18. **whao** - used as "gather"
 19. **thekoa** - used as "build"
 20. **tole** - used as "remember"
-21. **pholea** - used as "create"
+21. **pholea** - ✅ REPLACED with **kealo** (create)
 22. **phera** - used as "rain" (verb)
 
 ### Adjectives/Descriptors (3)
@@ -160,7 +160,7 @@ These English words appear in square brackets in grammatical examples:
 7. sleep/nima
 8. read/nolea/shima
 9. mindful/nosa
-10. create/pholea
+10. create/kealo ✅
 
 ### Tier 2: Essential for Basic Communication
 11. house/home

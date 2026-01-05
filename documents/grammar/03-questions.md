@@ -39,7 +39,7 @@ mia hina kela
 1SG what understand
 (What do I understand?)
 
-thi thela pholea
+thi thela kealo
 2SG how create
 (How do you create?)
 ```

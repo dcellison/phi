@@ -66,7 +66,7 @@ Following the modifier-first principle, these particles announce temporal, aspec
 - `te` (CESS): `mia te kela` (I stop understanding)
 
 ### 2.2.3. Voice
-- `se` (PASS): `thola se pholea` (The story is created.)
+- `se` (PASS): `nophi se kealo` (The story is created.)
 
 ### 2.2.4. Modality
 - `po` (POSS): `shia po thola` (The other can speak)
@@ -110,8 +110,8 @@ The causative particle `ka` is a special modal used to indicate that the subject
 The voice particle `se` is used to form the passive voice. This construction promotes the object of an active sentence to the subject position and typically omits the original agent (the doer of the action). It is used to shift focus to the recipient of the action.
 
 - **Structure:** `[Patient] se [Verb]`
-- **Active:** `mia thola pholea` (I create the story.)
-- **Passive:** `thola se pholea` (The story is created.)
+- **Active:** `mia nophi kealo` (I create the story.)
+- **Passive:** `nophi se kealo` (The story is created.)
 
 ## 2.3. Slot 2: Word-Level Particles (Announcing Word-Specific Modifications)
 

@@ -160,8 +160,8 @@ mia te kela
 **Structure**: `[Patient] se [Verb]`
 **Example**:
 ```
-Active:  mia thola pholea    (I create the story.)
-Passive: thola se pholea     (The story is created.)
+Active:  mia nophi kealo    (I create the story.)
+Passive: nophi se kealo     (The story is created.)
 ```
 
 ### Evidentiality Particles
@@ -391,7 +391,7 @@ These particles have unique grammatical functions that don't fit the three-slot 
 **Structure**: `[re CLAUSE] NOUN`
 **Examples**:
 ```
-[re thola pholea] miona
+[re nophi kealo] miona
 [REL story create] person
 (the person who creates stories)
 

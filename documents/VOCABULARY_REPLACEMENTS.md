@@ -1,7 +1,7 @@
 # Vocabulary Replacement Tracking
 
 ## Purpose
-Track the replacement of improvised Phi words with properly created vocabulary following the 9-pass workflow.
+Track the replacement of improvised Phi words with properly created vocabulary following the 8-pass workflow.
 
 ## Completed Replacements
 
@@ -13,12 +13,7 @@ Track the replacement of improvised Phi words with properly created vocabulary f
 | book | phino | **shelu** | ✅ Created | Whispered knowledge, wisdom vessel |
 | garden | noshale | **thepalu** | ✅ Created | Cultivated sanctuary, co-creation |
 | story | thola | **nophi** | ✅ Created | Inner knowing, narrative wisdom |
-
-## Pending Tier 1 Replacements
-
-| English | Old (Improvised) | Priority | Notes |
-|---------|-----------------|----------|-------|
-| create | pholea | HIGH | Fundamental action |
+| create | pholea | **kealo** | ✅ Created | Open spark, bringing forth |
 
 ## Pending Tier 2 Replacements
 
