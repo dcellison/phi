@@ -273,13 +273,28 @@ These particles appear **immediately before** the specific word they modify (nou
 ### Number
 
 #### `lo` - Plural Marker (PL)
-**Function**: Announces plurality
-**Example**:
+**Function**: Announces plurality for unquantified nouns
+**Usage**: Use `lo` when indicating plurality WITHOUT a number or quantifier. When a numeral or quantifier is present, the number itself indicates plurality, making `lo` redundant.
+
+**With `lo` (unquantified plural)**:
 ```
 lo whelea
 PL friend
-(friends)
+(friends - plural, no specific quantity)
+
+mia lo whelea hisu
+1SG PL friend feel
+(I feel my friends - multiple, uncounted)
 ```
+
+**Without `lo` (number implies plurality)**:
+```
+wi whelea          (two friends - 'wi' already implies plural)
+ta sha lipha shiro (three trees - number implies plural)
+sheloi whelea      (many friends - quantifier implies plural)
+```
+
+**Rule**: Never combine `lo` with numerals or quantifiers—this would be redundant.
 
 ### Ordinality
 

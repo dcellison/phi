@@ -256,25 +256,122 @@ Order breakdown:
 
 ---
 
-## Mathematical Operations (Rare Usage)
+## Plural Marker and Numbers
 
-Phi intentionally lacks native words for mathematical operations, requiring conscious effort to express precise calculations. When needed, operations must be borrowed or circumlocuted:
+The plural particle `lo` is **not used** when a numeral or quantifier is present. Numbers and quantifiers already indicate plurality, making `lo` redundant.
 
-**Expressing Addition**:
+**With numbers (no `lo` needed)**:
 ```
-ta nela wi, ta sha nio
-one and two, three is
-(One and two equals three / 1 + 2 = 3)
-```
-
-**Expressing Subtraction**:
-```
-ta sha, ta mua ma nio, wi shele
-three, one from NEG is, two receive
-(Three minus one gives two / 3 - 1 = 2)
+wi whelea              (two friends - number implies plural)
+ta sha lipha shiro     (three trees - number implies plural)
+ta pho himo miona      (nine people - number implies plural)
 ```
 
-This difficulty is intentional—it resists unconscious quantification and mathematical abstraction that can dehumanize.
+**With quantifiers (no `lo` needed)**:
+```
+sheloi whelea          (many friends - quantifier implies plural)
+soli nila              (several days - quantifier implies plural)
+theula miona           (all people - quantifier implies plural)
+```
+
+**Use `lo` only for unquantified plurals**:
+```
+lo whelea              (friends - plural, no specific quantity)
+mia lo whelea hisu     (I feel my friends - multiple, uncounted)
+lo shiro miro nio      (Trees are beautiful - trees in general)
+```
+
+This follows the pattern of classifier languages where numerals encode plurality, preventing redundant marking.
+
+---
+
+## Mathematical Operations
+
+Phi provides a mindful arithmetic system through five operation verbs that reframe mathematics through the language's philosophical principles.
+
+### Operation Vocabulary
+
+| Operation | Word | IPA | Concept |
+|-----------|------|-----|---------|
+| Addition | **`sholei`** | /ʃo.le.i/ | gather together |
+| Subtraction | **`leiro`** | /le.i.ro/ | release from |
+| Multiplication | **`welura`** | /we.lu.ra/ | spread/grow by |
+| Division | **`phanoi`** | /ɸa.no.i/ | portion among |
+| Equals/Result | **`kelai`** | /ke.la.i/ | becomes (result) |
+
+### Sentence Structure
+
+Following the modifier-first principle, arithmetic statements place operands before operations:
+
+**Pattern**: `[Operand1] [Operand2] [Operation], [Result] kelai`
+
+### Basic Examples
+
+**Addition (2 + 3 = 5)**:
+```
+wi ta sha sholei, ta sha wi kelai
+two three gather, five becomes
+(Two and three gather together, becoming five)
+```
+
+**Subtraction (9 - 3 = 6)**:
+```
+ta pho ta sha leiro, wi sha kelai
+nine three release, six becomes
+(Nine releases three, becoming six)
+```
+
+**Multiplication (3 × 2 = 6)**:
+```
+ta sha wi welura, wi sha kelai
+three two spread, six becomes
+(Three spreads by two, becoming six)
+```
+
+**Division (9 ÷ 3 = 3)**:
+```
+ta pho ta sha phanoi, ta sha kelai
+nine three portion, three becomes
+(Nine portions among three, becoming three each)
+```
+
+**Equality Statement**:
+```
+ta sha ta kelai ta sha ta
+four equals four
+```
+
+### Classifier Integration
+
+Arithmetic with real-world quantities respects the classifier system.
+
+**Classifier Harmony Required**: Both operands should share the same classifier:
+```
+wi himo miona ta sha himo miona sholei, ta sha wi himo miona kelai
+two PERSON.CLF person three PERSON.CLF person gather, five PERSON.CLF person becomes
+(Two people + three people = five people)
+```
+
+**Pure Mathematics** (no classifiers for abstract calculation):
+```
+ta sha wi sholei, ta sha wi kelai
+three two gather, five becomes
+(3 + 2 = 5)
+```
+
+**Mixed Categories**: When combining different types, either use the superordinate classifier or explicitly mark with `nophe` (abstract).
+
+### Philosophical Framing
+
+Each operation is reframed through Phi's values:
+
+- **Addition (`sholei`)**: Gathering embodies interdependence and collective abundance
+- **Subtraction (`leiro`)**: Releasing embodies non-grasping and generous sharing
+- **Multiplication (`welura`)**: Spreading embodies regenerative growth like seeds
+- **Division (`phanoi`)**: Portioning embodies fair distribution and equity
+- **Equals (`kelai`)**: Becoming embodies transformation and present awareness
+
+The multi-syllable operation words prevent rapid, unconscious calculation—the deliberate articulation IS the practice of mindful mathematics.
 
 ---
 

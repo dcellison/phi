@@ -1,0 +1,21 @@
+{
+  "word": "leiro",
+  "gloss": "release",
+  "ipa": "/le.i.ro/",
+  "syllables": ["le", "i", "ro"],
+  "pos": ["verb"],
+  "concept": "Release / Let Go / Subtract (Mathematical)",
+  "description": "The verb of releasing a portion from a whole, embodying the mathematical operation of subtraction through the lens of generosity and non-attachment. Rather than framing subtraction as loss or diminishment, 'leiro' presents it as a flowing away—water released from a vessel, gifts shared from abundance, seeds scattered for future growth. It carries the understanding that what we release with open hands transforms rather than vanishes, that the whole remains complete even as portions flow elsewhere. In arithmetic, 'leiro' announces that a quantity is being released from another to reveal what remains.",
+  "sound_symbolism": "The word begins with 'le', where the liquid 'l' initiates the releasing flow—smooth, continuous, the sound of letting go. The high 'e' rises toward brightness, the lightening that comes from release. The hiatus into 'i' creates a moment of separation, the space where what was held begins to flow away. The final 'ro' continues the liquid flow with 'r' while grounding in 'o', suggesting that what remains is still whole, still complete. The overall sound echoes 'loa' (give), connecting subtraction to the generosity of sharing.",
+  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the whole and the portion released. Structure: '[whole] [portion] leiro, [remainder] kelai'. Example: 'ta pho ta sha leiro, wi sha kelai' (nine releases three, becoming six). The first argument is what we start with; the second is what flows away. Can be nominalized for abstract discussion. Requires classifier harmony when used with classified quantities.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Subtraction as 'release' embodies the Buddhist practice of non-grasping. What we let go of with equanimity does not diminish us—clinging is the source of suffering, not the releasing. 'Leiro' transforms subtraction from loss into liberation, from taking to offering.",
+    "pre-industrial-wisdom": "Traditional cultures understand that releasing is part of natural cycles—seeds scattered become next year's harvest, grain shared feeds community, stories given multiply rather than diminish. 'Leiro' carries the wisdom that generosity strengthens rather than depletes.",
+    "peace-linguistics-practices": "By framing subtraction as 'releasing' rather than 'taking away,' 'leiro' removes the aggression implicit in many mathematical terms. The word suggests cooperative redistribution rather than deprivation.",
+    "solarpunk-values": "Resources that flow outward don't disappear but circulate. 'Leiro' embodies the gift economy understanding that what we release returns transformed, that abundance comes through circulation rather than hoarding."
+  },
+  "tags": {
+    "cognition": "Mathematical operation requiring deliberate mental processing",
+    "wisdom": "Embodies non-grasping and acceptance of release"
+  }
+}

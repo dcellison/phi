@@ -14,7 +14,7 @@ Phi uses only three base numerals, making precise counting difficult beyond huma
 
 For quantities beyond 2, Phi uses scale units—countable nouns representing groups:
 
-- **`shia`** - a three-group (3¹ = 3)
+- **`sha`** - a three-group (3¹ = 3)
 - **`pho`** - a nine-group (3² = 9)  
 - **`lau`** - a twenty-seven-group (3³ = 27)
 - **`rei`** - an eighty-one-group (3⁴ = 81)
@@ -42,7 +42,7 @@ Beyond 27 (`ta lau`), exact counting becomes increasingly difficult and unnatura
 
 **Common approximations:**
 Scale units can stand alone to indicate approximate quantities:
-- `shia [days]` - "a three-group of days" (roughly 3)
+- `sha [days]` - "a three-group of days" (roughly 3)
 - `pho [people]` - "a nine-group of people" (roughly 9)
 - `lau [trees]` - "a twenty-seven-group of trees" (many)
 - `rei [stars]` - "an eighty-one-group of stars" (countless)
@@ -111,19 +111,53 @@ Note how the full number (`ta sha` = three) precedes the nature classifier (`lip
 ### 6.5.2. Dual Awareness: Scale and Nature
 
 The combination of scale units and nature classifiers creates dual consciousness:
-- Scale units (`shia`, `pho`, `lau`, `rei`) make us aware of magnitude
+- Scale units (`sha`, `pho`, `lau`, `rei`) make us aware of magnitude
 - Nature classifiers (`himo`, `lipha`, `themo`, `nophe`) make us aware of essence
 
 Together they ensure that counting remains a mindful acknowledgment rather than mechanical enumeration.
 
 ## 6.6. Mathematical Operations: Conscious Calculation
 
-When mathematical precision is needed (rare in Phi), operations are announced explicitly:
+Phi provides five operation verbs that reframe mathematics through the language's philosophical principles:
 
-- **Addition:** `ta [plus] wi [equals] ta sha` (1 + 2 = 3)
-- **Subtraction:** `ta sha [minus] ta [equals] wi` (3 - 1 = 2)
+| Operation | Word | IPA | Concept |
+|-----------|------|-----|---------|
+| Addition | **`sholei`** | /ʃo.le.i/ | gather together |
+| Subtraction | **`leiro`** | /le.i.ro/ | release from |
+| Multiplication | **`welura`** | /we.lu.ra/ | spread/grow by |
+| Division | **`phanoi`** | /ɸa.no.i/ | portion among |
+| Equals | **`kelai`** | /ke.la.i/ | becomes (result) |
 
-The words for mathematical operations don't exist in core Phi, requiring conscious borrowing or circumlocution—another barrier to unconscious quantification.
+### Sentence Structure
+
+Following modifier-first, operands precede operations:
+
+**Pattern:** `[Operand1] [Operand2] [Operation], [Result] kelai`
+
+**Examples:**
+```
+wi ta sha sholei, ta sha wi kelai
+two three gather, five becomes
+(2 + 3 = 5)
+
+ta pho ta sha leiro, wi sha kelai
+nine three release, six becomes
+(9 - 3 = 6)
+
+ta sha wi welura, wi sha kelai
+three two spread, six becomes
+(3 × 2 = 6)
+
+ta pho ta sha phanoi, ta sha kelai
+nine three portion, three becomes
+(9 ÷ 3 = 3)
+```
+
+### Classifier Harmony
+
+When counting real-world quantities, classifier harmony is required—both operands share the same classifier. For pure mathematics, classifiers are omitted.
+
+The multi-syllable operation words prevent rapid, unconscious calculation—the deliberate articulation IS the practice of mindful mathematics.
 
 ## 6.7. The Philosophy of Ternary Counting
 
