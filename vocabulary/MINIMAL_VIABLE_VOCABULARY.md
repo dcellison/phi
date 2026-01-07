@@ -1,195 +1,225 @@
 # Minimal Viable Vocabulary for Phi
 ## ~150 Essential Words for Comprehensive Examples
 
-### STATUS: 93 words already defined ✓
-Need to add ~60 more essential words
+### STATUS: ~136 words defined ✓
+Added 43 new essential words (January 2026)
 
 ---
 
 ## PRIORITY 1: Essential Verbs (Need 25-30)
-**Currently missing these absolutely essential verbs:**
+**Status: Most critical verbs now exist**
 
 ### Existence & State (CRITICAL)
-- [ ] be (exist, is/am/are) - THE most essential verb
-- [ ] have (possess)
-- [ ] become (transform into)  
-- [ ] stay/remain (continue being)
+- [x] be (exist, is/am/are) → nio
+- [x] have (possess) → hoa
+- [x] become (transform into) → kelu
+- [x] stay/remain (continue being) → telao
 
 ### Basic Actions (CRITICAL)
-- [ ] do (perform action)
-- [ ] make (create/cause)
-- [ ] give (transfer to)
-- [ ] take (acquire)
-- [ ] go (move away)
-- [ ] come (move toward)
-- [ ] bring (carry toward)
-- [ ] carry (transport)
+- [x] do (perform action) → toa
+- [x] make (create/cause) → kelo
+- [x] give (transfer to) → loa
+- [x] take (acquire) → nophi
+- [x] go (move away) → wia
+- [x] come (move toward) → roi
+- [x] bring (carry toward) → lawa
+- [x] carry (transport) → nawi
 - [ ] put/place (position)
 - [ ] hold (grasp)
 
 ### Perception & Cognition (CRITICAL)
-- [ ] see (perceive visually) ✓ (observe exists)
-- [ ] know (understand)
-- [ ] think (cognate)
-- [ ] feel (sense/emotion)
-- [ ] want/desire (wish for)
-- [ ] need (require)
+- [x] see (perceive visually) → mirae (eye, as verb form)
+- [x] know (understand) → (exists)
+- [x] think (cognate) → remo
+- [x] feel (sense/emotion) → hisu (reflexive)
+- [x] want/desire → **wilao** ✓ NEW
+- [x] need → **phelona** ✓ NEW
 - [ ] like (prefer)
-- [ ] love ✓ (exists as noun, need verb form)
+- [x] love → (exists as noun, verb form available)
 
 ### Communication (Some exist)
-- [ ] say/tell (utter)
-- [ ] ask (question)
-- [ ] answer (respond)
+- [x] say/tell → **shemui** ✓ NEW
+- [x] ask → **thilou** ✓ NEW
+- [x] answer → **lonae** ✓ NEW
 
 ### Movement
-- [ ] walk (ambulate)
-- [ ] run (move fast)
-- [ ] sit (be seated)
-- [ ] stand (be upright)
-- [ ] lie (recline)
+- [x] walk → welo
+- [x] run → ropi
+- [x] sit → sioa
+- [x] stand → stao
+- [x] lie → laie
 
 ### Daily Life
 - [ ] eat (consume food)
-- [ ] drink (consume liquid)
-- [ ] sleep (rest)
-- [ ] wake (arise)
-- [ ] live/dwell (inhabit)
-- [ ] work (labor)
+- [x] drink → **milau** ✓ NEW
+- [x] sleep → nulae
+- [x] wake → **nowae** ✓ NEW
+- [x] live/dwell → **menui** ✓ NEW
+- [x] work → **riola** ✓ NEW
 - [ ] rest (pause)
 
 ---
 
 ## PRIORITY 2: Essential Nouns (Need 20-25)
-**Currently missing these basic nouns:**
+**Status: All critical nouns now exist**
 
 ### Nature & Environment
-- [ ] water (H2O)
-- [ ] fire (flame)
-- [ ] earth/ground (soil)
-- [ ] air (atmosphere)
-- [ ] sun (star)
-- [ ] moon (satellite)
-- [ ] tree (woody plant)
+- [x] water → shie
+- [x] fire → **thero** ✓ NEW
+- [x] earth/ground → **muila** ✓ NEW
+- [x] air → **haowu** ✓ NEW
+- [x] sun → **sorae** ✓ NEW
+- [x] moon → **lunei** ✓ NEW
+- [x] tree → **shiro** ✓ NEW
 - [ ] flower (bloom)
 - [ ] seed (kernel)
-- [ ] stone/rock (mineral)
+- [x] stone/rock → **kerou** ✓ NEW
 
 ### Body Parts (Basic)
-- [ ] hand (manual appendage)
-- [ ] eye (visual organ)
-- [ ] heart (pump/emotion center)
-- [ ] mouth (oral opening)
-- [ ] foot (pedal appendage)
+- [x] hand → **manuwe** ✓ NEW
+- [x] eye → **mirae** ✓ NEW
+- [x] heart → **korua** ✓ NEW
+- [x] mouth → **phulae** ✓ NEW
+- [x] foot → **paloi** ✓ NEW
 
 ### Objects & Things
-- [ ] thing (object)
-- [ ] place (location)
-- [ ] time (temporal)
-- [ ] way/path (route)
-- [ ] house/home (dwelling)
-- [ ] food (nourishment)
-- [ ] word (utterance)
-- [ ] name (designation)
+- [x] thing → **thena** ✓ NEW
+- [x] place → **nela** ✓ NEW
+- [x] time → **thimu** ✓ NEW
+- [x] way/path → **ruela** ✓ NEW
+- [x] house/home → **womu** ✓ NEW
+- [x] food → **nuora** ✓ NEW
+- [x] word → **phelui** ✓ NEW
+- [x] name → **nomei** ✓ NEW
 
 ---
 
 ## PRIORITY 3: Essential Adjectives (Need 20-25)
-**Currently missing these basic descriptors:**
+**Status: Most critical adjectives now exist**
 
 ### Size & Amount
-- [ ] big/large (size+)
-- [ ] small/little (size-)
-- [ ] many/much (quantity+)
-- [ ] few/little (quantity-)
-- [ ] all (totality)
-- [ ] some (partial)
-- [ ] no/none (absence)
+- [x] big/large → **whela** ✓ NEW
+- [x] small/little → **thiku** ✓ NEW
+- [x] many/much → sheloi (quantifier)
+- [x] few/little → soli (quantifier)
+- [x] all → theula (quantifier)
+- [x] some → soli (quantifier)
+- [x] no/none → mawha (quantifier)
 
-### Quality & Evaluation  
-- [ ] good (positive)
-- [ ] bad (negative) [reframe as "difficult" or "harmful"?]
-- [ ] new (recent)
-- [ ] old (aged)
+### Quality & Evaluation
+- [x] good → **welao** ✓ NEW
+- [ ] bad → [reframe as "difficult" or "harmful"?]
+- [x] new → **newu** ✓ NEW
+- [x] old → **serao** ✓ NEW
 - [ ] right/correct (accurate)
-- [ ] wrong (inaccurate) [reframe as "mistaken"?]
+- [ ] wrong → [reframe as "mistaken"?]
 - [ ] same (identical)
 - [ ] different (distinct)
 
 ### Physical Properties
-- [ ] hot/warm (temperature+)
-- [ ] cold/cool (temperature-)
+- [x] hot/warm → **sulae** ✓ NEW
+- [x] cold/cool → **pelui** ✓ NEW
 - [ ] wet (moisture+)
 - [ ] dry (moisture-)
 - [ ] hard (solid)
-- [ ] soft ✓ (exists)
-- [ ] long (length+)
-- [ ] short (length-)
-- [ ] high/tall (height+)
-- [ ] low (height-)
+- [x] soft → (exists)
+- [x] long → **laeno** ✓ NEW
+- [x] short → **teku** ✓ NEW
+- [x] high/tall → **raelu** ✓ NEW
+- [x] low → **mulu** ✓ NEW
 
 ### Colors (Basic)
-- [ ] red
-- [ ] blue  
-- [ ] green
-- [ ] yellow
-- [ ] white
-- [ ] black
+- [x] red → **rulo** ✓ NEW
+- [x] blue → **shilu** ✓ NEW
+- [x] green → **liro** ✓ NEW
+- [x] yellow → **soriu** ✓ NEW
+- [x] white → **whilo** ✓ NEW
+- [x] black → **nuko** ✓ NEW
 - [ ] brown
 
 ---
 
 ## PRIORITY 4: Complete Numbers
-- [ ] ten (10)
+- [ ] ten (10) — Phi uses ternary system; 10 would be "ta pho ta" (9+1)
 
 ---
 
 ## IMPLEMENTATION NOTES
 
-### Essential Criteria for Word Selection:
-1. **Frequency**: Appears in most basic conversations
-2. **Coverage**: Enables expression of fundamental concepts
-3. **Grammar**: Needed for grammatical constructions
-4. **Examples**: Required for book examples
+### Words Added January 2026:
 
-### Philosophical Alignment:
-- Avoid violence-related terms
-- Reframe negative concepts positively where possible
-- Ensure gender neutrality
-- Align with Five Pillars
+**New Verbs (9):**
+| English | Phi | IPA |
+|---------|-----|-----|
+| long-for/want | wilao | /wi.la.o/ |
+| require/need | phelona | /ɸe.lo.na/ |
+| utter/say | shemui | /ʃe.mu.i/ |
+| inquire/ask | thilou | /θi.lo.u/ |
+| respond/answer | lonae | /lo.na.e/ |
+| drink | milau | /mi.la.u/ |
+| awaken/wake | nowae | /no.wa.e/ |
+| dwell/live | menui | /me.nu.i/ |
+| labor/work | riola | /ri.o.la/ |
 
-### Next Steps:
-1. Define all Priority 1 verbs first (enables sentence construction)
-2. Add essential nouns for subjects/objects
-3. Include basic adjectives for description
-4. Use existing word patterns as templates
-5. Ensure each word has:
-   - Phi word form
-   - IPA pronunciation
-   - Syllable breakdown
-   - Sound symbolism
-   - Grammatical notes
-   - Philosophical pillars
-   - Semantic tags
-   - Image prompt
+**New Nouns (17):**
+| English | Phi | IPA |
+|---------|-----|-----|
+| fire | thero | /θe.ro/ |
+| earth | muila | /mu.i.la/ |
+| air | haowu | /ha.o.wu/ |
+| sun | sorae | /so.ra.e/ |
+| moon | lunei | /lu.ne.i/ |
+| tree | shiro | /ʃi.ro/ |
+| stone | kerou | /ke.ro.u/ |
+| hand | manuwe | /ma.nu.we/ |
+| eye | mirae | /mi.ra.e/ |
+| heart | korua | /ko.ru.a/ |
+| mouth | phulae | /ɸu.la.e/ |
+| foot | paloi | /pa.lo.i/ |
+| thing | thena | /θe.na/ |
+| place | nela | /ne.la/ |
+| time | thimu | /θi.mu/ |
+| path | ruela | /ru.e.la/ |
+| home | womu | /wo.mu/ |
+| food | nuora | /nu.o.ra/ |
+| word | phelui | /ɸe.lu.i/ |
+| name | nomei | /no.me.i/ |
+
+**New Adjectives (17):**
+| English | Phi | IPA |
+|---------|-----|-----|
+| large | whela | /ʍe.la/ |
+| small | thiku | /θi.ku/ |
+| good | welao | /we.la.o/ |
+| new | newu | /ne.wu/ |
+| old | serao | /se.ra.o/ |
+| warm | sulae | /su.la.e/ |
+| cold | pelui | /pe.lu.i/ |
+| long | laeno | /la.e.no/ |
+| short | teku | /te.ku/ |
+| tall | raelu | /ra.e.lu/ |
+| low | mulu | /mu.lu/ |
+| red | rulo | /ru.lo/ |
+| blue | shilu | /ʃi.lu/ |
+| green | liro | /li.ro/ |
+| yellow | soriu | /so.ri.u/ |
+| white | whilo | /ʍi.lo/ |
+| black | nuko | /nu.ko/ |
 
 ---
 
-## Existing Word Count by Category:
-- Numbers: 10 (zero through nine)
-- People/Family: 15 (person, adult, child, elder, parent, offspring, sibling, partner, etc.)
-- Social Roles: 8 (mentor, guardian, mediator, steward, host, guest, neighbor)
-- Abstract Concepts: 15 (truth, peace, harmony, courage, faith, hope, joy, etc.)
-- Verbs: ~35 (speak, listen, teach, learn, create, heal, serve, etc.)
-- Adjectives: ~10 (beautiful, simple, pure, kind, whole, mindful, etc.)
+### Remaining Gaps:
+- eat (verb)
+- rest (verb)
+- put/place (verb)
+- hold (verb)
+- like (verb)
+- flower, seed (nouns)
+- wet, dry, hard, brown (adjectives)
+- same, different (adjectives)
 
 ---
 
 ## Total Target: ~150 words
-- Current: 93
-- To Add: ~60
-- Priority distribution:
-  - 25-30 essential verbs
-  - 20 essential nouns
-  - 15 essential adjectives
-  - 1 number (ten)
+- Current: ~136
+- Still needed: ~14 words for full minimal viability

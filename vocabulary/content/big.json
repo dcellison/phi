@@ -1,0 +1,19 @@
+{
+  "word": "whela",
+  "gloss": "large",
+  "ipa": "/ʍe.la/",
+  "syllables": ["whe", "la"],
+  "pos": ["adjective"],
+  "concept": "Large / Big / Expansive",
+  "description": "The adjective naming greatness of size, extent, or scope. In Phi, largeness is observed without implicit superiority—to be large is simply to occupy more space, require more resources, have wider reach. This word names the quality of spatial extent without conflating size with value, importance, or worth.",
+  "sound_symbolism": "The word opens with 'whe', where the breathy labiovelar fricative 'wh' creates expansive breath—the sound of space opening, of air filling. The clear 'e' brings awareness to extent. This flows into 'la', where the liquid carries the expansion outward, spreading and extending. Two syllables create accessible description for common use while the breath-filled opening embodies the concept.",
+  "grammatical_notes": "Functions as an adjective preceding nouns in modifier-first position: 'whela shiro' (large tree). Can be used predicatively with 'nio' (be): 'shiro nio whela' (the tree is large). Distinguished from words of quality or importance—largeness is observation, not evaluation.",
+  "pillars": {
+    "peace-linguistics-practices": "Separating size from value enables clear observation. 'Whela' describes extent without implying that larger is better or more important.",
+    "secular-buddhist-philosophy": "All sizes arise and pass; large and small are relative. 'Whela' names the quality without attachment to size as identity or worth."
+  },
+  "tags": {
+    "physical": "spatial extent and size",
+    "spatial": "relationship of scale and dimension"
+  }
+}

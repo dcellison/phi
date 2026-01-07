@@ -1,0 +1,19 @@
+{
+  "word": "newu",
+  "gloss": "new",
+  "ipa": "/ne.wu/",
+  "syllables": ["ne", "wu"],
+  "pos": ["adjective"],
+  "concept": "New / Fresh / Recently Arisen",
+  "description": "The adjective naming recent emergence, freshness, the quality of having just come into being. In Phi, newness is observed as temporal relationship—something new exists relative to what came before, not as inherent quality. This word names the freshness of recent arising without implying that new is better than old, honoring both emergence and endurance.",
+  "sound_symbolism": "The word opens with 'ne', where the grounding nasal 'n' meets clear 'e'—new things emerge from what exists, grounded in prior reality. This flows into 'wu', where the outward glide 'w' reaches toward becoming and the deep 'u' suggests potential not yet unfolded. Two syllables keep the word fresh and accessible.",
+  "grammatical_notes": "Functions as an adjective preceding nouns: 'newu nila' (new day). Can be used predicatively. Distinguished from 'serao' (old) as temporal opposite, without implying new is superior.",
+  "pillars": {
+    "secular-buddhist-philosophy": "All things are new in each moment—impermanence means continuous arising. 'Newu' names the quality of recent emergence while reminding us that newness is always relative and temporary.",
+    "solarpunk-values": "Innovation and fresh approaches matter for positive futures. 'Newu' supports valuing emergence while staying grounded in what endures."
+  },
+  "tags": {
+    "temporal": "recent arising in time",
+    "creation": "fresh emergence into being"
+  }
+}

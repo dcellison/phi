@@ -1,0 +1,19 @@
+{
+  "word": "laeno",
+  "gloss": "long",
+  "ipa": "/la.e.no/",
+  "syllables": ["la", "e", "no"],
+  "pos": ["adjective"],
+  "concept": "Long / Extended / Stretched Out",
+  "description": "The adjective naming spatial extension in one dimension, the quality of reaching far from beginning to end. In Phi, length is observed as relationship—long relative to something, extended in comparison. This word names the quality of stretched-out existence in space or, metaphorically, in time.",
+  "sound_symbolism": "The word opens with 'la', where the liquid 'l' immediately begins extending—the sound of reaching, of flowing outward, of continuing. The standalone 'e' creates space in the middle, the extension happening. The final 'no' grounds the far end, the destination of length reached. Three syllables themselves extend the word, embodying length.",
+  "grammatical_notes": "Functions as an adjective preceding nouns: 'laeno ruela' (long path). Can describe physical objects, durations, or distances. Distinguished from 'teku' (short) as dimensional opposite.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Long and short are relative—the same duration seems long or short depending on experience. 'Laeno' names extension while reminding us of perspective's role.",
+    "pre-industrial-wisdom": "Traditional journeys were often long by modern standards, teaching patience and presence through extended travel. 'Laeno' preserves awareness of extent."
+  },
+  "tags": {
+    "spatial": "dimensional extent in space",
+    "temporal": "duration and extended time"
+  }
+}
