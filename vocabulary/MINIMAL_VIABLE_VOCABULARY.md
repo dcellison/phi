@@ -1,8 +1,8 @@
 # Minimal Viable Vocabulary for Phi
 ## ~150 Essential Words for Comprehensive Examples
 
-### STATUS: ~136 words defined ✓
-Added 43 new essential words (January 2026)
+### STATUS: ~150 words defined ✓ COMPLETE
+Added 54 essential words (January 2026)
 
 ---
 
@@ -24,8 +24,8 @@ Added 43 new essential words (January 2026)
 - [x] come (move toward) → roi
 - [x] bring (carry toward) → lawa
 - [x] carry (transport) → nawi
-- [ ] put/place (position)
-- [ ] hold (grasp)
+- [x] put/place (position) → thinu
+- [x] hold (grasp) → phelu
 
 ### Perception & Cognition (CRITICAL)
 - [x] see (perceive visually) → mirae (eye, as verb form)
@@ -34,7 +34,7 @@ Added 43 new essential words (January 2026)
 - [x] feel (sense/emotion) → hisu (reflexive)
 - [x] want/desire → **wilao** ✓ NEW
 - [x] need → **phelona** ✓ NEW
-- [ ] like (prefer)
+- [x] like (prefer) → **kaeli** ✓ NEW
 - [x] love → (exists as noun, verb form available)
 
 ### Communication (Some exist)
@@ -50,13 +50,13 @@ Added 43 new essential words (January 2026)
 - [x] lie → laie
 
 ### Daily Life
-- [ ] eat (consume food)
+- [x] eat (consume food) → **nuola** ✓ NEW
 - [x] drink → **milau** ✓ NEW
 - [x] sleep → nulae
 - [x] wake → **nowae** ✓ NEW
 - [x] live/dwell → **menui** ✓ NEW
 - [x] work → **riola** ✓ NEW
-- [ ] rest (pause)
+- [x] rest (pause) → **therilu** ✓ NEW
 
 ---
 
@@ -71,8 +71,8 @@ Added 43 new essential words (January 2026)
 - [x] sun → **sorae** ✓ NEW
 - [x] moon → **lunei** ✓ NEW
 - [x] tree → **shiro** ✓ NEW
-- [ ] flower (bloom)
-- [ ] seed (kernel)
+- [x] flower (bloom) → **peloru** ✓ NEW
+- [x] seed (kernel) → **thinoe** ✓ NEW
 - [x] stone/rock → **kerou** ✓ NEW
 
 ### Body Parts (Basic)
@@ -113,15 +113,15 @@ Added 43 new essential words (January 2026)
 - [x] old → **serao** ✓ NEW
 - [ ] right/correct (accurate)
 - [ ] wrong → [reframe as "mistaken"?]
-- [ ] same (identical)
-- [ ] different (distinct)
+- [x] same (identical) → **senao** ✓ NEW
+- [x] different (distinct) → **phirae** ✓ NEW
 
 ### Physical Properties
 - [x] hot/warm → **sulae** ✓ NEW
 - [x] cold/cool → **pelui** ✓ NEW
-- [ ] wet (moisture+)
-- [ ] dry (moisture-)
-- [ ] hard (solid)
+- [x] wet (moisture+) → **wirua** ✓ NEW
+- [x] dry (moisture-) → **kurathi** ✓ NEW
+- [x] hard (solid) → **kethua** ✓ NEW
 - [x] soft → (exists)
 - [x] long → **laeno** ✓ NEW
 - [x] short → **teku** ✓ NEW
@@ -135,7 +135,7 @@ Added 43 new essential words (January 2026)
 - [x] yellow → **soriu** ✓ NEW
 - [x] white → **whilo** ✓ NEW
 - [x] black → **nuko** ✓ NEW
-- [ ] brown
+- [x] brown → **mureli** ✓ NEW
 
 ---
 
@@ -206,20 +206,31 @@ Added 43 new essential words (January 2026)
 | white | whilo | /ʍi.lo/ |
 | black | nuko | /nu.ko/ |
 
+**Additional Words (January 2026 - Phase 2):**
+
+| English | Phi | IPA |
+|---------|-----|-----|
+| eat | nuola | /nu.o.la/ |
+| rest | therilu | /θe.ri.lu/ |
+| like | kaeli | /ka.e.li/ |
+| flower | peloru | /pe.lo.ru/ |
+| seed | thinoe | /θi.no.e/ |
+| wet | wirua | /wi.ru.a/ |
+| dry | kurathi | /ku.ra.θi/ |
+| hard | kethua | /ke.θu.a/ |
+| brown | mureli | /mu.re.li/ |
+| same | senao | /se.na.o/ |
+| different | phirae | /ɸi.ra.e/ |
+
 ---
 
 ### Remaining Gaps:
-- eat (verb)
-- rest (verb)
-- put/place (verb)
-- hold (verb)
-- like (verb)
-- flower, seed (nouns)
-- wet, dry, hard, brown (adjectives)
-- same, different (adjectives)
+- bad (reframe as "difficult" or "harmful"?)
+- right/correct (accurate)
+- wrong (reframe as "mistaken"?)
 
 ---
 
 ## Total Target: ~150 words
-- Current: ~136
-- Still needed: ~14 words for full minimal viability
+- Current: ~150 ✓ COMPLETE
+- Minimal viable vocabulary achieved!
