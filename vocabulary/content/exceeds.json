@@ -1,0 +1,20 @@
+{
+  "word": "theloi",
+  "gloss": "exceeds",
+  "ipa": "/θe.lo.i/",
+  "syllables": ["the", "lo", "i"],
+  "pos": ["verb"],
+  "concept": "Exceeds / Greater Than / Surpasses in Magnitude",
+  "description": "The verb of magnitude comparison announcing that one quantity surpasses another in sheer numerousness, without any judgment of value or quality. Unlike comparative forms that conflate size with worth ('more good'), 'theloi' maintains strict quantitative neutrality—nine exceeds three as a simple fact of magnitude, implying nothing about which quantity is preferable. This separation of measurement from evaluation embodies mindful arithmetic, where we observe relative magnitudes without importing judgments. The verb takes two arguments: the larger quantity as subject, the reference quantity as object.",
+  "sound_symbolism": "The word opens with 'the', the gentle dental fricative 'θ' breathing abstract assessment—the sound of careful philosophical judgment found in 'thela' (truthful speech). The 'e' maintains clarity and precision. The liquid 'lo' flows outward, suggesting extension beyond a boundary, echoing the plural marker's sense of going beyond one. The final 'i' crystallizes into definite conclusion, the bright vowel of clear determination. Three syllables ensure deliberate articulation, preventing unconscious comparison. The progression from abstract assessment through flowing extension to crystallized conclusion traces the mental act of recognizing that one quantity has gone past another.",
+  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the larger quantity as subject and the reference quantity as object. Structure: '[larger] [smaller] theloi'. Example: 'ta pho ta sha theloi' (nine exceeds three / 9 > 3). Can be negated with 'ne' to express 'does not exceed' (less than or equal). When used with classifiers, both quantities should share the same classifier for meaningful comparison. Can be nominalized to discuss the concept of exceeding or surplus. Questions use 'wa': 'wa ta sha wi sha theloi?' (Does three exceed six? / Is 3 > 6?).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Right speech requires clarity about what we are actually saying. By separating magnitude comparison from value judgment, 'theloi' enables precise communication about quantities without the subtle violence of implied hierarchy. Nine is not 'better than' three—it simply exceeds it in count.",
+    "peace-linguistics-practices": "Many conflicts arise from confusing 'more' with 'better.' By providing a purely quantitative comparison verb, 'theloi' supports clear communication that distinguishes factual observations about magnitude from evaluative claims about worth.",
+    "pre-industrial-wisdom": "Traditional measurement often remained descriptive rather than evaluative—this basket holds more grain than that one, without implying one basket is superior. 'Theloi' preserves this practical, non-hierarchical approach to comparison."
+  },
+  "tags": {
+    "cognition": "Announces magnitude relationship requiring mental comparison",
+    "spatial": "Frames relative position in numerical space—one quantity extends beyond another"
+  }
+}

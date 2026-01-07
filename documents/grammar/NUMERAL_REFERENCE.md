@@ -375,6 +375,85 @@ The multi-syllable operation words prevent rapid, unconscious calculation—the 
 
 ---
 
+## Magnitude Comparison
+
+Phi provides two verbs for comparing quantities that maintain strict value neutrality—comparing magnitude without implying that larger is better or smaller is inadequate.
+
+### Comparison Vocabulary
+
+| Comparison | Word | IPA | Concept |
+|------------|------|-----|---------|
+| Greater than | **`theloi`** | /θe.lo.i/ | exceeds in magnitude |
+| Less than | **`phenoi`** | /ɸe.no.i/ | falls short in magnitude |
+
+### Sentence Structure
+
+Following modifier-first, the quantity being evaluated comes first:
+
+**Pattern**: `[Quantity1] [Quantity2] [Comparison Verb]`
+
+### Basic Examples
+
+**Greater Than (9 > 3)**:
+```
+ta pho ta sha theloi
+nine three exceeds
+(Nine exceeds three in magnitude)
+```
+
+**Less Than (3 < 9)**:
+```
+ta sha ta pho phenoi
+three nine falls-short
+(Three falls short of nine in magnitude)
+```
+
+**Questions**:
+```
+wa ta sha wi sha theloi?
+Q three six exceeds
+(Does three exceed six? / Is 3 > 6?)
+
+wa wi sha ta pho phenoi?
+Q six nine falls-short
+(Does six fall short of nine? / Is 6 < 9?)
+```
+
+### Negation for Inclusive Comparisons
+
+Use `ne` (negation) for "greater than or equal" / "less than or equal":
+
+```
+ta sha ta sha ne phenoi
+three three NEG falls-short
+(Three does not fall short of three / 3 ≥ 3)
+
+wi sha ta pho ne theloi
+six nine NEG exceeds
+(Six does not exceed nine / 6 ≤ 9)
+```
+
+### Classifier Integration
+
+When comparing real-world quantities, both should share the same classifier:
+
+```
+ta pho himo miona wi sha himo miona theloi
+nine PERSON.CLF person six PERSON.CLF person exceeds
+(Nine people exceed six people in number)
+```
+
+### Philosophical Framing
+
+These verbs embody Phi's commitment to separating observation from judgment:
+
+- **`theloi` (exceeds)**: States that one quantity surpasses another—a fact of magnitude, not a claim of superiority
+- **`phenoi` (falls-short)**: States that one quantity does not reach another—a fact of magnitude, not a claim of inadequacy
+
+This separation prevents the subtle violence of conflating "more" with "better" or "less" with "worse." Nine exceeds three; three falls short of nine. Neither statement implies value judgment.
+
+---
+
 ## Philosophical Principles of the Ternary System
 
 ### 1. Resistance to Quantification
@@ -440,6 +519,12 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 ### Ordinal Formation
 - Particle: `nu [cardinal]`
 - Noun: `[cardinal] noa`
+
+### Arithmetic Operations
+- `sholei` (add), `leiro` (subtract), `welura` (multiply), `phanoi` (divide), `kelai` (equals)
+
+### Magnitude Comparison
+- `theloi` (exceeds / greater than), `phenoi` (falls-short / less than)
 
 ### Structure
 - Basic: `[number] [noun]`
