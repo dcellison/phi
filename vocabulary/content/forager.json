@@ -1,0 +1,19 @@
+{
+  "word": "hunoa",
+  "gloss": "forager",
+  "ipa": "/hu.no.a/",
+  "syllables": ["hu", "no", "a"],
+  "pos": ["noun"],
+  "concept": "Forager / Gatherer / Wild Harvester",
+  "description": "One who gathers wild food; a person who harvests what nature provides. 'Hunoa' names who finds abundance—knowing where the wild feeds.",
+  "sound_symbolism": "The word seeks with knowledge. 'Hu' breathes with seeking presence, searching aware. 'No' settles with found nourishment, harvest gathered. Then 'a' opens to abundance received.",
+  "grammatical_notes": "Functions as noun: 'lo hunoa' (the forager). Gathers from 'shima' (forest) and 'wira' (meadow). Related to 'telo' (farmer) as gatherer to cultivator.",
+  "pillars": {
+    "pre-industrial-wisdom": "Forager as knower—deep knowledge of what the land offers freely.",
+    "solarpunk-values": "Wild harvest—sustainable gathering that supports rather than depletes."
+  },
+  "tags": {
+    "community": "Gathering role",
+    "nature": "Wild harvesting"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "word": "sorui",
+  "gloss": "circle",
+  "ipa": "/so.ru.i/",
+  "syllables": ["so", "ru", "i"],
+  "pos": ["noun", "verb"],
+  "concept": "Circle / Round Form / Gathering Shape",
+  "description": "A round shape where all points are equal distance from center; a group arranged in this form. 'Sorui' names the shape of equality—where no one sits at the head.",
+  "sound_symbolism": "The word curves complete. 'So' sweeps with enclosing motion, circle forming. 'Ru' runs around the perimeter, form continuing. Then 'i' rises to completion, the circle closed.",
+  "grammatical_notes": "Functions as noun: 'lo sorui' (the circle). As verb: 'mi sorui' (I circle/encircle). The shape of 'lona' (meeting) and 'senura' (council).",
+  "pillars": {
+    "pre-industrial-wisdom": "Circle as equality—the ancient form where all can see each other, none elevated.",
+    "secular-buddhist-philosophy": "Circle as wholeness—the mandala form, complete and containing."
+  },
+  "tags": {
+    "spatial": "Round form",
+    "community": "Equal arrangement"
+  }
+}
