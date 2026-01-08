@@ -1,0 +1,19 @@
+{
+  "word": "phaeli",
+  "gloss": "sign",
+  "ipa": "/ɸa.e.li/",
+  "syllables": ["pha", "e", "li"],
+  "pos": ["noun", "verb"],
+  "concept": "Sign / Communicating Marker / To Indicate",
+  "description": "An object conveying information or instruction; to make known through gesture or mark. 'Phaeli' names what speaks without voice—the visible communication.",
+  "sound_symbolism": "The word speaks visible. 'Pha' /ɸa/ breathes with communicative intent. The vowel 'e' opens to meaning. Then 'li' flows into reading, message received.",
+  "grammatical_notes": "Functions as noun: 'lo phaeli' (the sign). As verb: 'mi phaeli' (I sign/indicate). More communicative than 'siru' (marker)—conveys message, not just location.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Signs point to meaning—the sign is not the thing itself but indication toward understanding.",
+    "peace-linguistics-practices": "Signs enable communication—shared symbols allowing understanding across languages."
+  },
+  "tags": {
+    "creation": "Communication object",
+    "dialogue": "Visual message"
+  }
+}

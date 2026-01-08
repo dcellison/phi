@@ -1,0 +1,19 @@
+{
+  "word": "shoru",
+  "gloss": "tool",
+  "ipa": "/ʃo.ru/",
+  "syllables": ["sho", "ru"],
+  "pos": ["noun", "verb"],
+  "concept": "Tool / Implement / To Use as Instrument",
+  "description": "An implement used to carry out a particular function; to use something as an instrument. 'Shoru' names what extends human capability—the shaped object that amplifies intention into action.",
+  "sound_symbolism": "The word shapes purpose. 'Sho' /ʃo/ focuses intent with directed energy. Then 'ru' rolls into action, tool becoming extension of hand.",
+  "grammatical_notes": "Functions as noun: 'lo shoru' (the tool). As verb: 'mi shoru' (I tool/use as tool). Related to 'shoruka' (workshop)—where tools live and work happens.",
+  "pillars": {
+    "solarpunk-values": "Appropriate technology—tools scaled to human needs, repairable, understandable.",
+    "pre-industrial-wisdom": "Tools as craft—each tool learned through apprenticeship, becoming extension of maker's skill."
+  },
+  "tags": {
+    "creation": "Implement",
+    "wisdom": "Appropriate technology"
+  }
+}

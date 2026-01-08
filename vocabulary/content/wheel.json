@@ -1,0 +1,19 @@
+{
+  "word": "rolu",
+  "gloss": "wheel",
+  "ipa": "/ro.lu/",
+  "syllables": ["ro", "lu"],
+  "pos": ["noun"],
+  "concept": "Wheel / Spinning Wheel / Potter's Wheel",
+  "description": "A circular object that revolves on an axis; specifically the spinning wheel or potter's wheel. 'Rolu' names what turns in cycles—rotation enabling transformation.",
+  "sound_symbolism": "The word rotates round. 'Ro' rolls in continuous motion, wheel turning. Then 'lu' flows onward, cycle unending.",
+  "grammatical_notes": "Functions as noun: 'lo rolu' (the wheel). Primarily craft wheels (spinning, pottery) rather than transport. Related to cyclical motion.",
+  "pillars": {
+    "pre-industrial-wisdom": "The wheel as transformation—spinning fiber to thread, clay to vessel, through patient rotation.",
+    "secular-buddhist-philosophy": "Cycles of change—the wheel turns, nothing remains fixed, transformation is constant."
+  },
+  "tags": {
+    "creation": "Rotating tool",
+    "temporal": "Cyclical motion"
+  }
+}

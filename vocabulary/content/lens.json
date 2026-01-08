@@ -1,0 +1,19 @@
+{
+  "word": "phoka",
+  "gloss": "lens",
+  "ipa": "/ɸo.ka/",
+  "syllables": ["pho", "ka"],
+  "pos": ["noun"],
+  "concept": "Lens / Focusing Glass / Clarity Device",
+  "description": "A piece of glass or other transparent substance that bends light; what brings into focus. 'Phoka' names what clarifies—the shaped glass that reveals detail.",
+  "sound_symbolism": "The word focuses clear. 'Pho' /ɸo/ breathes with concentrated intent, light bending. Then 'ka' marks with sharp clarity, focus achieved.",
+  "grammatical_notes": "Functions as noun: 'lo phoka' (the lens). For eyeglasses, magnifying glass, camera—any focusing optic.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Focus as practice—the lens teaches concentration, bringing clarity to what was blurred.",
+    "solarpunk-values": "Clarity for understanding—lenses extend vision, enabling study of small and distant."
+  },
+  "tags": {
+    "creation": "Optical device",
+    "cognition": "Focusing clarity"
+  }
+}

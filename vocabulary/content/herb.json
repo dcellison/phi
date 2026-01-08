@@ -1,0 +1,19 @@
+{
+  "word": "heru",
+  "gloss": "herb",
+  "ipa": "/he.ru/",
+  "syllables": ["he", "ru"],
+  "pos": ["noun"],
+  "concept": "Herb / Medicinal Plant / Useful Green",
+  "description": "A plant used for flavoring, medicine, or fragrance; the useful green that heals and seasons. 'Heru' names what grows for use—nature's gift for health and taste.",
+  "sound_symbolism": "The word breathes green. 'He' exhales with living breath, plant essence. Then 'ru' roots with growing presence, herb thriving.",
+  "grammatical_notes": "Functions as noun: 'lo heru' (the herb). Source of 'nepha' (medicine), 'moli' (balm), 'wenu' (tonic). The plant before preparation.",
+  "pillars": {
+    "pre-industrial-wisdom": "Herbs sustained communities—kitchen gardens, healing gardens, knowledge of useful plants passed through generations.",
+    "solarpunk-values": "Natural medicine—local herbs for local ailments, sustainable healing from what grows nearby."
+  },
+  "tags": {
+    "nature": "Useful plant",
+    "creation": "Healing source"
+  }
+}

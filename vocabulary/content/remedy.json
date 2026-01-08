@@ -1,0 +1,19 @@
+{
+  "word": "heloa",
+  "gloss": "remedy",
+  "ipa": "/he.lo.a/",
+  "syllables": ["he", "lo", "a"],
+  "pos": ["noun"],
+  "concept": "Remedy / Cure / Solution to Ailment",
+  "description": "A treatment or medicine that cures disease or relieves pain; the answer to what ails. 'Heloa' names what resolves—the specific cure for specific suffering.",
+  "sound_symbolism": "The word exhales ease. 'He' breathes out relief, pain releasing. 'Lo' opens to healing. Then 'a' completes with open release, ailment resolving.",
+  "grammatical_notes": "Functions as noun: 'lo heloa' (the remedy). More specific than 'nepha' (medicine)—a remedy addresses particular problem.",
+  "pillars": {
+    "pre-industrial-wisdom": "Remedies matched ailments—specific treatments for specific conditions, knowledge of correspondences.",
+    "secular-buddhist-philosophy": "Right remedy for right problem—skillful means matching treatment to condition."
+  },
+  "tags": {
+    "creation": "Specific cure",
+    "wisdom": "Problem solving"
+  }
+}

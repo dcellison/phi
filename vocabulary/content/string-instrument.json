@@ -1,0 +1,19 @@
+{
+  "word": "lina",
+  "gloss": "string (instrument)",
+  "ipa": "/li.na/",
+  "syllables": ["li", "na"],
+  "pos": ["noun"],
+  "concept": "String (Instrument) / Vibrating Cord / Musical Wire",
+  "description": "A stretched cord that produces sound when plucked or bowed; the vibrating line of stringed instruments. 'Lina' names what sings when touched—tension becoming tone.",
+  "sound_symbolism": "The word vibrates. 'Li' hums with vibrating line, string responding. Then 'na' resonates in sustained note, sound continuing.",
+  "grammatical_notes": "Functions as noun: 'lo lina' (the string). For instruments—guitar, violin, harp. Different from 'sima' (thread) which is for sewing.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Resonance as beauty—the string transforms touch into tone, mathematics becoming music.",
+    "pre-industrial-wisdom": "Strings connected cultures—lyre, sitar, koto, each culture finding music in stretched cord."
+  },
+  "tags": {
+    "creation": "Vibrating element",
+    "aesthetic": "Musical tone"
+  }
+}

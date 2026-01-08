@@ -1,0 +1,19 @@
+{
+  "word": "wiru",
+  "gloss": "basket",
+  "ipa": "/wi.ru/",
+  "syllables": ["wi", "ru"],
+  "pos": ["noun"],
+  "concept": "Basket / Woven Container / Natural Vessel",
+  "description": "A container made of woven material; a receptacle of interlaced fibers. 'Wiru' names what hands weave—plant becoming pattern, pattern becoming purpose.",
+  "sound_symbolism": "The word weaves connection. 'Wi' pairs in relationship, strands meeting. Then 'ru' curves around, basket taking shape through repetition.",
+  "grammatical_notes": "Functions as noun: 'lo wiru' (the basket). Implies woven material—reed, willow, palm. Related to weaving as fundamental craft.",
+  "pillars": {
+    "pre-industrial-wisdom": "Basketry as first technology—weaving predates pottery, creating form from found materials.",
+    "solarpunk-values": "Natural materials—baskets from local plants, biodegradable, infinitely renewable."
+  },
+  "tags": {
+    "creation": "Woven craft",
+    "nature": "Natural materials"
+  }
+}
