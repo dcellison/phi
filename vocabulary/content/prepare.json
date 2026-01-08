@@ -1,0 +1,19 @@
+{
+  "word": "wilonu",
+  "gloss": "prepare",
+  "ipa": "/wi.lo.nu/",
+  "syllables": ["wi", "lo", "nu"],
+  "pos": ["verb"],
+  "concept": "Prepare / Make Ready / Arrange for Purpose",
+  "description": "To make something ready for use or for what is coming—arranging conditions, gathering materials, creating readiness. 'Wilonu' names the work that precedes action: the mise en place before cooking, the training before performance, the planning before building.",
+  "sound_symbolism": "The word arranges itself like preparation does. 'Wi' begins with soft glide, surveying what must be done. Then 'lo' flows with liquid organization, elements finding their places. Finally 'nu' settles with nasal completion, readiness achieved.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo wilonu' (I prepare something). Can specify purpose: 'mi sipho na thophe wilonu' (I prepare the garden for sowing). Can be reflexive: preparation of self for coming event.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Preparation is mindfulness extended into future—attending to what conditions are needed, what must be in place for skillful action.",
+    "pre-industrial-wisdom": "Traditional life required constant preparation—preserving for winter, maintaining tools, training apprentices. Readiness enabled survival."
+  },
+  "tags": {
+    "temporal": "Creating conditions for future action",
+    "wisdom": "Foresight and planning"
+  }
+}

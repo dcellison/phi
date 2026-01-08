@@ -1,0 +1,19 @@
+{
+  "word": "thenoki",
+  "gloss": "sustain",
+  "ipa": "/θe.no.ki/",
+  "syllables": ["the", "no", "ki"],
+  "pos": ["verb"],
+  "concept": "Sustain / Maintain / Keep Going",
+  "description": "To keep something going over time, maintaining its existence or function through ongoing support. 'Thenoki' names the continuous effort that prevents decline—the maintenance that keeps systems running, the care that keeps beings alive, the attention that keeps relationships vital.",
+  "sound_symbolism": "The word endures like sustaining itself. 'The' /θe/ begins with dental breath, gentle but persistent. Then 'no' continues with nasal steadiness, the ongoing nature of maintenance. Finally 'ki' keeps with velar firmness, the sustained thing held in being.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo thenoki' (I sustain something). Can specify duration: 'mi lau nila themo thenoki' (I sustain something for many days). Related to lumera (nourish) but emphasizes continuity over time rather than immediate provision.",
+  "pillars": {
+    "solarpunk-values": "Sustainability is the capacity to sustain—systems that can maintain themselves over time, practices that don't deplete their own foundations.",
+    "pre-industrial-wisdom": "Traditional life required sustaining attention—fires kept burning, stores maintained, relationships tended. Sustainability was daily practice."
+  },
+  "tags": {
+    "temporal": "Maintaining through time",
+    "wisdom": "Understanding what keeps things alive"
+  }
+}

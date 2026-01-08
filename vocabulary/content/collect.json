@@ -1,0 +1,19 @@
+{
+  "word": "nomira",
+  "gloss": "collect",
+  "ipa": "/no.mi.ra/",
+  "syllables": ["no", "mi", "ra"],
+  "pos": ["verb"],
+  "concept": "Collect / Gather Objects / Accumulate Things",
+  "description": "To bring together and accumulate objects, specimens, or items over time. 'Nomira' names the deliberate gathering of physical things—whether foraging finds, curated objects, or resources assembled for purpose. Unlike sholei (mathematical gathering), nomira emphasizes tangible accumulation.",
+  "sound_symbolism": "The word draws inward like collecting itself. 'No' begins with nasal inwardness, reaching toward what will be gathered. Then 'mi' brings with careful handling, each item selected. Finally 'ra' stores with flowing continuity, the collection growing.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo nomira' (I collect things). Can specify what is collected: 'mi nepha nomira' (I collect stones). Distinct from sholei (mathematical addition) and muraki (harvest); nomira implies selective, ongoing accumulation.",
+  "pillars": {
+    "pre-industrial-wisdom": "Foraging and collecting sustained communities—knowledge of what to gather, when, and where was survival wisdom passed through generations.",
+    "secular-buddhist-philosophy": "Mindful collecting attends to what is truly needed versus what is grasped from craving. The collector asks: does this serve?"
+  },
+  "tags": {
+    "physical": "Gathering tangible objects",
+    "wisdom": "Selective accumulation over time"
+  }
+}

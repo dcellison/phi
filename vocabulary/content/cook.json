@@ -1,0 +1,19 @@
+{
+  "word": "pharelo",
+  "gloss": "cook",
+  "ipa": "/ɸa.re.lo/",
+  "syllables": ["pha", "re", "lo"],
+  "pos": ["verb"],
+  "concept": "Cook / Prepare Food with Heat / Transform by Fire",
+  "description": "To prepare food by applying heat—transforming raw into cooked, combining ingredients into dishes, making nourishment from materials. 'Pharelo' names the ancient alchemy of the hearth, where fire transforms what the earth provides into sustenance the body can use.",
+  "sound_symbolism": "The word warms like cooking itself. 'Pha' /ɸa/ breathes with the fire's heat, the transforming element. The open 'a' receives what will be changed. Then 're' works with active transformation. Finally 'lo' flows into completion, the cooked dish ready.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo pharelo' (I cook something). Can specify method or instrument: 'mi phira nua themo pharelo' (I cook something with fire). Distinct from wilonu (prepare); pharelo specifically involves heat transformation.",
+  "pillars": {
+    "pre-industrial-wisdom": "Cooking is humanity's oldest transformation technology—fire applied to food, enabling nutrition otherwise inaccessible. Kitchen knowledge passes through lineages.",
+    "peace-linguistics-practices": "Cooking for others is care made tangible—nourishment prepared with attention becomes gift and connection."
+  },
+  "tags": {
+    "creation": "Transforming food through heat",
+    "community": "Nourishing others through preparation"
+  }
+}
