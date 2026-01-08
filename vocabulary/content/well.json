@@ -1,0 +1,19 @@
+{
+  "word": "towe",
+  "gloss": "well",
+  "ipa": "/to.we/",
+  "syllables": ["to", "we"],
+  "pos": ["noun", "adjective"],
+  "concept": "Well / Wellness / Good State",
+  "description": "A state of being good, healthy, or satisfactory; wellness in its fullness. 'Towe' names the good state—when things are as they should be.",
+  "sound_symbolism": "The word flows with wellness. 'To' touches with grounded stability, foundation sound. 'We' flows with gentle goodness, wellness spreading.",
+  "grammatical_notes": "Functions as noun: 'lo towe' (the wellness). As adjective: 'towe miona' (well person). Related to 'sunai' (health) as state to condition.",
+  "pillars": {
+    "solarpunk-values": "Wellbeing for all—communities organized around collective flourishing.",
+    "secular-buddhist-philosophy": "Well-being as balance—the state arising from harmony of body, mind, and community."
+  },
+  "tags": {
+    "physical": "Good state",
+    "emotion": "Wellness"
+  }
+}

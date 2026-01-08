@@ -1,0 +1,19 @@
+{
+  "word": "sunai",
+  "gloss": "health",
+  "ipa": "/su.na.i/",
+  "syllables": ["su", "na", "i"],
+  "pos": ["noun"],
+  "concept": "Health / Wholeness of Body / Vital Condition",
+  "description": "The state of being free from illness; the wholeness of body and mind functioning well. 'Sunai' names the condition of vitality—systems in harmony, life flowing freely.",
+  "sound_symbolism": "The word sustains with vitality. 'Su' flows with sustaining force, life maintained. 'Na' nurtures with inner care, body tended. Then 'i' rises to vital brightness.",
+  "grammatical_notes": "Functions as noun: 'lo sunai' (the health). The condition underlying 'towe' (well). Supported by 'nepha' (medicine).",
+  "pillars": {
+    "solarpunk-values": "Health as commons—wellbeing supported by community and environment.",
+    "secular-buddhist-philosophy": "Health as interdependent—body wellness connected to mind, community, and world."
+  },
+  "tags": {
+    "physical": "Vital condition",
+    "nature": "Body wholeness"
+  }
+}

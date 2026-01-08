@@ -1,0 +1,19 @@
+{
+  "word": "pelu",
+  "gloss": "growth",
+  "ipa": "/pe.lu/",
+  "syllables": ["pe", "lu"],
+  "pos": ["noun"],
+  "concept": "Growth / Increase / Development Over Time",
+  "description": "The process of increasing in size, number, or maturity; development toward fullness. 'Pelu' names what living things do—the expansion that is life expressing itself.",
+  "sound_symbolism": "The word expands with life. 'Pe' pushes with expanding force, growth pressing outward. 'Lu' flows with increasing life, development continuing.",
+  "grammatical_notes": "Functions as noun: 'lo pelu' (the growth). What 'molei' (evolve) produces over time. Related to 'lioru' (life) as expression to essence.",
+  "pillars": {
+    "solarpunk-values": "Regenerative growth—development that enriches rather than depletes.",
+    "secular-buddhist-philosophy": "Growth as natural—the unfolding that happens when conditions support flourishing."
+  },
+  "tags": {
+    "temporal": "Development process",
+    "nature": "Living increase"
+  }
+}

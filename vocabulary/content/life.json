@@ -1,0 +1,19 @@
+{
+  "word": "lioru",
+  "gloss": "life",
+  "ipa": "/li.o.ru/",
+  "syllables": ["li", "o", "ru"],
+  "pos": ["noun"],
+  "concept": "Life / Living Force / Vital Existence",
+  "description": "The animate quality that distinguishes living beings from inanimate matter; the vital force that flows through all creatures. 'Lioru' names what quickens—the difference between breathing and still.",
+  "sound_symbolism": "The word flows with vitality. 'Li' lifts with light energy, life rising. 'O' opens with breathing fullness. Then 'ru' runs with continuing movement, life persisting.",
+  "grammatical_notes": "Functions as noun: 'lo lioru' (the life). The force animating 'miona' (person), 'thenu' (animal). Opposite of death/stillness.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Life as precious—this human birth, rare and fleeting, to be honored.",
+    "solarpunk-values": "Life as interconnected web—all beings part of living systems, none separate."
+  },
+  "tags": {
+    "nature": "Vital force",
+    "temporal": "Living duration"
+  }
+}

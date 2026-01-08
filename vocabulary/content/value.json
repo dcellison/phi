@@ -1,0 +1,19 @@
+{
+  "word": "wone",
+  "gloss": "value",
+  "ipa": "/wo.ne/",
+  "syllables": ["wo", "ne"],
+  "pos": ["noun", "verb"],
+  "concept": "Value / Worth / Importance",
+  "description": "The importance or worth attributed to something; what matters. 'Wone' names what we hold precious—the recognition of significance.",
+  "sound_symbolism": "The word weighs warmly. 'Wo' wonders with appreciative opening, worth recognized. 'Ne' settles with grounded acknowledgment.",
+  "grammatical_notes": "Functions as noun: 'lo wone' (the value). As verb: 'mi wone' (I value). Related to 'rolia' (worth) as attributed versus inherent.",
+  "pillars": {
+    "solarpunk-values": "Values as compass—what we value shapes what futures we build.",
+    "secular-buddhist-philosophy": "Examining values—investigating what we hold dear and why."
+  },
+  "tags": {
+    "cognition": "Attributed importance",
+    "wisdom": "Worth recognition"
+  }
+}
