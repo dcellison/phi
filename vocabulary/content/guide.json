@@ -1,0 +1,19 @@
+{
+  "word": "kulo",
+  "gloss": "guide",
+  "ipa": "/ku.lo/",
+  "syllables": ["ku", "lo"],
+  "pos": ["verb", "noun"],
+  "concept": "Guide / Lead / Show the Way",
+  "description": "To lead another along a path, showing the way through terrain physical or conceptual. 'Kulo' implies knowledge of the territory and responsibility for the guided one's safe passage. The guide goes with, not merely points the direction—presence and companionship are inherent to true guidance.",
+  "sound_symbolism": "The word is compact and purposeful. 'Ku' begins with velar certainty—the guide knows where to go. The deep 'u' holds steady direction. Then 'lo' flows forward with liquid ease, the path unfolding, movement continuing.",
+  "grammatical_notes": "As verb: 'mi thu kulo' (I guide you). As noun: 'ta kulo' (a guide). Can take locative: 'mi thu mua sipho kulo' (I guide you through the garden). Related to but distinct from teach (phela); guiding is about paths, teaching about knowledge.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The spiritual friend (kalyana-mitta) guides not by commanding but by walking alongside, showing through example.",
+    "pre-industrial-wisdom": "Guides carry ancestral knowledge of terrain—safe passages, seasonal dangers, hidden resources. Guidance is transmitted presence."
+  },
+  "tags": {
+    "community": "Leading others along paths",
+    "wisdom": "Sharing knowledge of the way"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "word": "welira",
+  "gloss": "thrive",
+  "ipa": "/we.li.ra/",
+  "syllables": ["we", "li", "ra"],
+  "pos": ["verb"],
+  "concept": "Thrive / Prosper / Succeed in Living Well",
+  "description": "To prosper and grow strong, to succeed in developing healthily. 'Welira' emphasizes wellness and successful development—not just growth but growth toward health and wholeness. It carries the sense of doing well, of conditions being right for full expression of potential.",
+  "sound_symbolism": "The word begins with 'w', the soft glide of wellness—smooth, unobstructed, flowing easily. The 'e' engages with purpose. Then 'li' brings life itself, the liquid of vitality. Finally 'ra' continues forward, thriving sustained over time.",
+  "grammatical_notes": "Functions as an intransitive verb: 'lopia welira' (the child thrives). Can take conditional phrases: 'mua wela themo lopia welira' (in good conditions the child thrives). Related to but distinct from ruloa (flourish); welira emphasizes health, ruloa emphasizes abundance.",
+  "pillars": {
+    "solarpunk-values": "Thriving communities are the vision—not survival but genuine wellness, people and ecosystems succeeding together.",
+    "secular-buddhist-philosophy": "Thriving arises from right conditions—not forced but cultivated. Understanding conditions for thriving is wisdom."
+  },
+  "tags": {
+    "physical": "Healthy, successful development",
+    "community": "Collective wellness"
+  }
+}

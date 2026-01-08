@@ -1,0 +1,19 @@
+{
+  "word": "halemu",
+  "gloss": "remember",
+  "ipa": "/ha.le.mu/",
+  "syllables": ["ha", "le", "mu"],
+  "pos": ["verb"],
+  "concept": "Remember / Recall / Bring to Mind",
+  "description": "To bring past experience or knowledge back into present awareness—reaching into memory and retrieving what was stored. 'Halemu' implies the active work of recollection, the mind traveling backward to gather what time has moved away from immediate access.",
+  "sound_symbolism": "The word begins with 'ha', the lightest consonant breathing like the faint trace of the past. The open 'a' reaches back into time. Then 'le' lifts with liquid motion, memory rising from depths. Finally 'mu' brings into mind with nasal resonance, the remembered thing now present.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo halemu' (I remember something). Can take clausal objects: 'mi halemu [past event]' (I remember that...). Opposite of forget (to be created).",
+  "pillars": {
+    "pre-industrial-wisdom": "Memory carries ancestors forward—their knowledge, their stories, their ways. To remember is to honor those who came before.",
+    "secular-buddhist-philosophy": "Mindfulness includes remembering to be present—the recollection that returns us to awareness when we've wandered."
+  },
+  "tags": {
+    "cognition": "Retrieval of past experience",
+    "temporal": "Connecting present to past"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "word": "phuro",
+  "gloss": "renew",
+  "ipa": "/ɸu.ro/",
+  "syllables": ["phu", "ro"],
+  "pos": ["verb"],
+  "concept": "Renew / Make New Again / Refresh",
+  "description": "To make fresh or new again—restoring vitality, replacing what is worn, refreshing what has faded. 'Phuro' carries the sense of new life breathed into old form, the cycle turning toward spring again after winter's depletion.",
+  "sound_symbolism": "The word begins with 'phu' /ɸu/, breath itself renewing—fresh air entering, life returning. The deep 'u' holds potential. Then 'ro' rises with rolling emergence, the renewed thing rising fresh.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo phuro' (I renew something). Can be used reflexively with appropriate markers: renewal of self. Related to talome (restore) but emphasizes freshness and vitality rather than return to original state.",
+  "pillars": {
+    "solarpunk-values": "Renewable systems are central to sustainable futures—energy, materials, and practices that can be renewed rather than depleted.",
+    "secular-buddhist-philosophy": "Each moment offers renewal—the breath just taken is new, the present instant fresh. Renewal is always available."
+  },
+  "tags": {
+    "temporal": "Cycling from depleted to fresh",
+    "nature": "Following natural patterns of renewal"
+  }
+}
