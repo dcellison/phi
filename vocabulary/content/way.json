@@ -1,0 +1,19 @@
+{
+  "word": "keiro",
+  "gloss": "way",
+  "ipa": "/ke.i.ro/",
+  "syllables": ["ke", "i", "ro"],
+  "pos": ["noun"],
+  "concept": "Way / Method / Manner of Doing",
+  "description": "A method, style, or manner of doing something; a road or path. 'Keiro' names both physical routes and methods—the how of movement, the manner of approach.",
+  "sound_symbolism": "The word finds its course. 'Ke' begins with clear direction, way chosen. The vowel 'i' focuses the approach. Then 'ro' rolls forward, the way followed.",
+  "grammatical_notes": "Functions as a noun: 'lo keiro' (the way). Related to 'ruela' (path) but emphasizes method/manner as much as physical route. Echoes the Tao—the way of being.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The way is the practice—not destination but manner of traveling, not goal but path itself.",
+    "pre-industrial-wisdom": "Traditional ways encoded knowledge—methods passed down that worked with rather than against natural patterns."
+  },
+  "tags": {
+    "spatial": "Route or method",
+    "wisdom": "Manner of approach"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "word": "muwi",
+  "gloss": "interior",
+  "ipa": "/mu.wi/",
+  "syllables": ["mu", "wi"],
+  "pos": ["noun"],
+  "concept": "Interior / Inside Space / Inner Part",
+  "description": "The inner part or inside of something; the space within. 'Muwi' names the enclosed within—what is surrounded, protected, contained by outer layers.",
+  "sound_symbolism": "The word turns inward. 'Mu' grounds with contained presence, inside established. Then 'wi' opens gently within, interior space.",
+  "grammatical_notes": "Functions as a noun: 'lo muwi' (the interior). Opposite of 'lerua' (exterior). The protected inner space.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Interior design unified spaces—creating harmonious inner environments where every element related.",
+    "secular-buddhist-philosophy": "The interior life matters—inner experience shapes outer action, inner peace enables outer presence."
+  },
+  "tags": {
+    "spatial": "Inner space",
+    "aesthetic": "Within"
+  }
+}

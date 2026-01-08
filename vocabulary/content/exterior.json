@@ -1,0 +1,19 @@
+{
+  "word": "lerua",
+  "gloss": "exterior",
+  "ipa": "/le.ru.a/",
+  "syllables": ["le", "ru", "a"],
+  "pos": ["noun"],
+  "concept": "Exterior / Outside Surface / Outer Part",
+  "description": "The outer part or surface of something; what faces outward. 'Lerua' names the outer face—what meets the world, what is seen from outside.",
+  "sound_symbolism": "The word faces outward. 'Le' begins with light exposure, outer reached. 'Ru' rolls across the surface. Finally 'a' opens to the world, exterior presented.",
+  "grammatical_notes": "Functions as a noun: 'lo lerua' (the exterior). Opposite of 'muwi' (interior). What presents to the world.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Exterior design shaped buildings—facades that integrated ornament with structure, beauty with function.",
+    "secular-buddhist-philosophy": "Exterior and interior are not separate—what shows outward reflects what lives within."
+  },
+  "tags": {
+    "spatial": "Outer surface",
+    "aesthetic": "Facing out"
+  }
+}

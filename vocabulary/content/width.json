@@ -1,0 +1,19 @@
+{
+  "word": "tholua",
+  "gloss": "width",
+  "ipa": "/θo.lu.a/",
+  "syllables": ["tho", "lu", "a"],
+  "pos": ["noun"],
+  "concept": "Width / Distance Across / Horizontal Extent",
+  "description": "The measurement from side to side; the quality of being wide. 'Tholua' names horizontal extent—how far something spans, how broad something stretches.",
+  "sound_symbolism": "The word spreads. 'Tho' /θo/ begins with breath extending, span starting. 'Lu' flows across. Finally 'a' opens to full extent, width measured.",
+  "grammatical_notes": "Functions as a noun: 'lo tholua' (the width). Related to adjective 'losha' (wide). The third dimension alongside height and depth.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Width created flow—horizontal designs that guided the eye across surfaces.",
+    "secular-buddhist-philosophy": "Width of view sees more—broad perspective recognizes connection and context."
+  },
+  "tags": {
+    "spatial": "Horizontal extent",
+    "aesthetic": "Breadth"
+  }
+}

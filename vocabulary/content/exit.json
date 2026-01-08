@@ -1,0 +1,19 @@
+{
+  "word": "phiru",
+  "gloss": "exit",
+  "ipa": "/ɸi.ru/",
+  "syllables": ["phi", "ru"],
+  "pos": ["verb", "noun"],
+  "concept": "Exit / Go Out / Leave a Space",
+  "description": "To go out of or leave a place; the way out. 'Phiru' names the outward crossing—moving from inside to outside, departure from enclosed space.",
+  "sound_symbolism": "The word moves out. 'Phi' /ɸi/ begins with breath releasing, departure starting. Then 'ru' rolls outward, exit continuing.",
+  "grammatical_notes": "Functions as verb or noun: 'mi phiru' (I exit), 'lo phiru' (the exit). Opposite of 'koema' (enter).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Exiting is also beginning—leaving one space opens another, departure enables new arrival.",
+    "peace-linguistics-practices": "Exiting gracefully matters—how we leave shapes what we leave behind."
+  },
+  "tags": {
+    "spatial": "Outward movement",
+    "community": "Departing"
+  }
+}

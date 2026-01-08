@@ -1,0 +1,19 @@
+{
+  "word": "koema",
+  "gloss": "enter",
+  "ipa": "/ko.e.ma/",
+  "syllables": ["ko", "e", "ma"],
+  "pos": ["verb"],
+  "concept": "Enter / Go Into / Cross Inward",
+  "description": "To come or go into a place or space; to begin participation in. 'Koema' names the inward crossing—moving from outside to inside, from excluded to included.",
+  "sound_symbolism": "The word crosses in. 'Ko' marks the threshold, entrance approached. The vowel 'e' opens to welcome. Then 'ma' grounds inside, entry complete.",
+  "grammatical_notes": "Functions as a verb: 'mi koema' (I enter). Opposite of 'phiru' (exit). Related to 'maewo' (threshold)—the place where entering happens.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Entering is beginning—each entry a fresh start, a new engagement, a choice to participate.",
+    "peace-linguistics-practices": "Entering conversation requires care—how we come in shapes what becomes possible."
+  },
+  "tags": {
+    "spatial": "Inward movement",
+    "community": "Joining"
+  }
+}

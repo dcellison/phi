@@ -1,0 +1,19 @@
+{
+  "word": "kosha",
+  "gloss": "field",
+  "ipa": "/ko.ʃa/",
+  "syllables": ["ko", "sha"],
+  "pos": ["noun"],
+  "concept": "Field / Open Cultivated Land / Area of Activity",
+  "description": "An area of open land, especially one used for cultivation or pasture; a domain of activity. 'Kosha' names the working expanse—land prepared for growing, space dedicated to purpose.",
+  "sound_symbolism": "The word spreads openly. 'Ko' marks with definition, field bounded. Then 'sha' /ʃa/ extends across, open space continuing.",
+  "grammatical_notes": "Functions as a noun: 'lo kosha' (the field). Can refer to agricultural land or metaphorical domains of work or study.",
+  "pillars": {
+    "solarpunk-values": "Fields feed communities—cultivated land that produces food through careful tending.",
+    "pre-industrial-wisdom": "Fields represented collective work—land that required community effort to prepare and maintain."
+  },
+  "tags": {
+    "spatial": "Open land",
+    "nature": "Cultivation area"
+  }
+}
