@@ -1,0 +1,18 @@
+{
+  "word": "phuwai",
+  "gloss": "lung",
+  "ipa": "/ɸu.wa.i/",
+  "syllables": ["phu", "wa", "i"],
+  "pos": ["noun"],
+  "concept": "Lung / Breathing Organ / Air Sac",
+  "description": "The paired organs within the chest that exchange air with blood, enabling breath and life. Lungs are the body's bellows—expanding to draw in the world, contracting to release what is no longer needed. They work ceaselessly without conscious direction, yet respond immediately to awareness when we choose to breathe deliberately.",
+  "sound_symbolism": "The word begins with 'phu' /ɸu/, pure breath itself—the bilabial fricative that is more air than sound, embodying what lungs process. The deep 'u' suggests the organs' depth within the chest. Then 'wa' flows with the breath's movement, air traveling through passages. Finally 'i' rises with vitality, oxygen reaching the blood.",
+  "grammatical_notes": "Typically appears in pairs: 'wi phuwai' (two lungs / both lungs). Closely associated with breath words and chest vocabulary. In contexts of breathing practice, may be referenced alongside pharoe (chest).",
+  "pillars": {
+    "secular-buddhist-philosophy": "The lungs serve as anchor for breath meditation—their expansion and contraction becoming the primary object of mindfulness. Life enters and leaves through their work.",
+    "solarpunk-values": "Clean air is the lung's requirement—the breath organ connects us directly to atmospheric health. Caring for air is caring for lungs across all beings."
+  },
+  "tags": {
+    "physical": "Respiratory organs within the chest"
+  }
+}
