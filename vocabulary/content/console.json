@@ -1,0 +1,19 @@
+{
+  "word": "phamo",
+  "gloss": "console",
+  "ipa": "/ɸa.mo/",
+  "syllables": ["pha", "mo"],
+  "pos": ["verb"],
+  "concept": "Console / Give Solace / Comfort in Grief",
+  "description": "To offer solace to one who grieves or mourns, being present with them in their sorrow. 'Phamo' names the specific comfort given to loss—not attempting to dispel grief but accompanying the grieving one, honoring their pain while offering presence.",
+  "sound_symbolism": "The word is gentle and close. 'Pha' /ɸa/ breathes with soft presence, simply being there. Then 'mo' stays with nasal constancy, not leaving, holding space for grief.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi thu phamo' (I console you). Specifically for grief and mourning; for general distress use thuleni (comfort). Can specify the loss: 'mi thu lo lau kalu phamo' (I console you in great loss).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Consoling practices presence with suffering rather than aversion to it. We sit with grief rather than fleeing from it.",
+    "pre-industrial-wisdom": "Traditional mourning practices include community consolation—the grieving one not left alone, others bearing witness to loss."
+  },
+  "tags": {
+    "emotion": "Accompanying grief",
+    "community": "Supporting the bereaved"
+  }
+}

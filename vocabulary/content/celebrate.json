@@ -1,0 +1,19 @@
+{
+  "word": "pharuki",
+  "gloss": "celebrate",
+  "ipa": "/ɸa.ru.ki/",
+  "syllables": ["pha", "ru", "ki"],
+  "pos": ["verb"],
+  "concept": "Celebrate / Honor with Festivity / Mark with Joy",
+  "description": "To mark an occasion with festivities, honoring what deserves recognition through gathering, feasting, music, and shared joy. 'Pharuki' names the communal acknowledgment that certain moments—harvests, births, achievements, seasons—call us to pause ordinary life and rejoice together.",
+  "sound_symbolism": "The word rises in festivity. 'Pha' /ɸa/ breathes with festive warmth, the gathering energy. Then 'ru' rises with rolling joy, spirits lifting. Finally 'ki' comes together with velar community, celebration as shared act.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo pharuki' (I celebrate something). Can specify occasion: 'mi muraki pharuki' (I celebrate the harvest). Often implies communal activity; solitary celebration is marked.",
+  "pillars": {
+    "pre-industrial-wisdom": "Festivals structure traditional calendars—moments when communities pause to honor cycles, ancestors, achievements. Celebration is cultural memory.",
+    "solarpunk-values": "Celebrating together builds community resilience—shared joy strengthens bonds that sustain through difficult times."
+  },
+  "tags": {
+    "community": "Communal honoring of occasions",
+    "ritual": "Marking significant moments"
+  }
+}

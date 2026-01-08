@@ -1,0 +1,19 @@
+{
+  "word": "nohero",
+  "gloss": "believe",
+  "ipa": "/no.he.ro/",
+  "syllables": ["no", "he", "ro"],
+  "pos": ["verb"],
+  "concept": "Believe / Hold as True / Trust in Understanding",
+  "description": "To hold something as true or trustworthy, to place confidence in an understanding or a person. 'Nohero' names the inner stance of trust—not blind faith but the settled sense that something can be relied upon, whether knowledge, person, or possibility.",
+  "sound_symbolism": "The word grounds belief in the body. 'No' begins with nasal steadiness, the self settling. Then 'he' breathes with open aspiration, space made for trust. Finally 'ro' rolls with warm certainty, belief held securely.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi lo themo nohero' (I believe something). Can take clause complements: 'mi nohero [clause]' (I believe that...). Can express trust in persons: 'mi thu nohero' (I believe in you/trust you). Related to understanding but distinct—shelomui is comprehension, nohero is acceptance as true.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Belief examined becomes wisdom—we hold views provisionally, testing them against experience rather than grasping them absolutely.",
+    "peace-linguistics-practices": "Expressing belief without absolute certainty creates space for dialogue—'I believe' rather than 'it is' invites conversation."
+  },
+  "tags": {
+    "cognition": "Holding something as true",
+    "dialogue": "Expressing conviction with openness"
+  }
+}

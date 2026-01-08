@@ -1,0 +1,19 @@
+{
+  "word": "pula",
+  "gloss": "wish",
+  "ipa": "/pu.la/",
+  "syllables": ["pu", "la"],
+  "pos": ["verb", "noun"],
+  "concept": "Wish / Hope For / Desire Outcome",
+  "description": "To hold hope for a particular outcome, to want something to come to pass. 'Pula' names the space between present and desired future—the heart's orientation toward what might be, held gently without grasping.",
+  "sound_symbolism": "The word is brief like a wish sent forth. 'Pu' pushes gently with labial release, desire emerging. Then 'la' flows with liquid ease, the wish traveling toward its hoped-for destination.",
+  "grammatical_notes": "As verb: 'mi lo wela pula' (I wish for good). As noun: 'lo wela pula' (a good wish). Can take clause complements: 'mi pula [clause]' (I wish that...). Distinct from wanting (which implies lack)—pula holds hope lightly.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Wishing practiced skillfully avoids attachment—we can hope for outcomes while accepting whatever arises.",
+    "peace-linguistics-practices": "Expressing wishes shares inner hopes without demanding—it invites rather than commands."
+  },
+  "tags": {
+    "emotion": "Holding hope for outcomes",
+    "cognition": "Orientation toward desired futures"
+  }
+}

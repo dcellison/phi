@@ -1,0 +1,19 @@
+{
+  "word": "koluma",
+  "gloss": "unite",
+  "ipa": "/ko.lu.ma/",
+  "syllables": ["ko", "lu", "ma"],
+  "pos": ["verb"],
+  "concept": "Unite / Join Together / Make One from Many",
+  "description": "To bring separate elements together into a unified whole, joining what was apart. 'Koluma' names the act of creating oneness—whether joining hands, communities, or efforts—transforming multiplicity into coherent unity while strengthening rather than diminishing the parts.",
+  "sound_symbolism": "The word joins as it speaks. 'Ko' begins with velar contact, elements meeting. Then 'lu' flows with liquid connection, joining becoming continuous. Finally 'ma' grounds with nasal stability, unity established and held.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi lo miona koluma' (I unite the people). Can be reflexive with communities: 'lo miona koluma' (the people unite). Related to nolami (bond) but emphasizes the act of bringing together rather than the connection itself.",
+  "pillars": {
+    "peace-linguistics-practices": "Unity in diversity—joining without erasing difference—is the foundation of peaceful coexistence.",
+    "solarpunk-values": "United action enables transformation—communities joining together can accomplish what individuals cannot."
+  },
+  "tags": {
+    "community": "Bringing together into wholeness",
+    "physical": "Joining separate elements"
+  }
+}

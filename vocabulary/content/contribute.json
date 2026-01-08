@@ -1,0 +1,19 @@
+{
+  "word": "shorema",
+  "gloss": "contribute",
+  "ipa": "/ʃo.re.ma/",
+  "syllables": ["sho", "re", "ma"],
+  "pos": ["verb"],
+  "concept": "Contribute / Give to Shared Effort / Add to Common Good",
+  "description": "To give something—effort, resources, ideas—to a shared endeavor or common pool. 'Shorema' names the act of adding one's part to what is collectively built or held. It recognizes that communities flourish through many contributions, each gift strengthening the whole.",
+  "sound_symbolism": "The word moves outward like contribution itself. 'Sho' /ʃo/ shares with soft fricative, the offering beginning. Then 're' reaches toward the collective, gift extending. Finally 'ma' makes together with nasal warmth, individual contribution joining common good.",
+  "grammatical_notes": "Functions as a transitive verb: 'mi themo shorema' (I contribute something). Can specify recipient: 'mi themo thue phomila shorema' (I contribute something to the community). Related to give but emphasizes collective purpose.",
+  "pillars": {
+    "solarpunk-values": "Contribution to commons builds resilient communities—each giving what they can, all benefiting from the whole.",
+    "secular-buddhist-philosophy": "Contributing practices generosity without attachment—the gift given freely, the giver not grasping for recognition."
+  },
+  "tags": {
+    "community": "Adding to shared endeavors",
+    "creation": "Building collective goods"
+  }
+}
