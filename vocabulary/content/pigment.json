@@ -1,0 +1,19 @@
+{
+  "word": "kolai",
+  "gloss": "pigment",
+  "ipa": "/ko.la.i/",
+  "syllables": ["ko", "la", "i"],
+  "pos": ["noun"],
+  "concept": "Pigment / Coloring Substance / Color Source",
+  "description": "A substance used for coloring; the material source of color before it becomes paint or dye. 'Kolai' names what holds color—earth, plant, or mineral ground to release hue.",
+  "sound_symbolism": "The word colors bold. 'Ko' concentrates with intense presence, color gathered. 'La' spreads with radiating hue. Then 'i' rises to vivid staining.",
+  "grammatical_notes": "Functions as noun: 'lo kolai' (the pigment). Raw color material. Ground for paint, mixed for 'tinoa' (dye).",
+  "pillars": {
+    "art-nouveau-aesthetics": "Color from earth—natural pigments creating the organic palette of Art Nouveau.",
+    "pre-industrial-wisdom": "Pigments from nature—ochre, indigo, cochineal, colors gathered from the world."
+  },
+  "tags": {
+    "nature": "Color source",
+    "aesthetic": "Visual material"
+  }
+}

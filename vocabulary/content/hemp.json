@@ -1,0 +1,19 @@
+{
+  "word": "henoa",
+  "gloss": "hemp",
+  "ipa": "/he.no.a/",
+  "syllables": ["he", "no", "a"],
+  "pos": ["noun"],
+  "concept": "Hemp / Strong Plant Fiber / Durable Textile",
+  "description": "A tall plant with strong fibers used for rope and cloth; the workhorse fiber. 'Henoa' names what holds—the plant that gives strength without breaking.",
+  "sound_symbolism": "The word holds hardy. 'He' breathes with living vitality, plant growing. 'No' knots with binding strength, fiber tough. Then 'a' opens to versatile use.",
+  "grammatical_notes": "Functions as noun: 'lo henoa' (the hemp). Strongest plant fiber. For rope, canvas, durable cloth.",
+  "pillars": {
+    "solarpunk-values": "Sustainable strength—fast-growing, needs little water, replaces petroleum products.",
+    "pre-industrial-wisdom": "Hemp built ships—sails and ropes of the age of exploration."
+  },
+  "tags": {
+    "nature": "Strong plant",
+    "creation": "Durable fiber"
+  }
+}

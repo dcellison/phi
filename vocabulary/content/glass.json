@@ -1,0 +1,19 @@
+{
+  "word": "phielo",
+  "gloss": "glass",
+  "ipa": "/ɸi.e.lo/",
+  "syllables": ["phi", "e", "lo"],
+  "pos": ["noun"],
+  "concept": "Glass / Transparent Solid / See-Through Material",
+  "description": "A hard brittle transparent substance made by fusing sand; what reveals while protecting. 'Phielo' names what shows through—solid yet invisible, barrier yet window.",
+  "sound_symbolism": "The word breathes transparent. 'Phi' /ɸi/ whispers with fragile delicacy, glass thin. The vowel 'e' opens to light. Then 'lo' looks through to the other side.",
+  "grammatical_notes": "Functions as noun: 'lo phielo' (the glass). For windows, vessels, lenses. Transforms sand through fire.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Glass as art—stained windows, flowing forms, Tiffany and Lalique's flowing designs.",
+    "solarpunk-values": "Infinitely recyclable—glass melts and reforms without degradation, truly circular material."
+  },
+  "tags": {
+    "creation": "Transparent material",
+    "aesthetic": "Light-bearer"
+  }
+}

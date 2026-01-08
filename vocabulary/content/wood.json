@@ -1,0 +1,19 @@
+{
+  "word": "wolea",
+  "gloss": "wood",
+  "ipa": "/wo.le.a/",
+  "syllables": ["wo", "le", "a"],
+  "pos": ["noun"],
+  "concept": "Wood / Timber / Tree Material",
+  "description": "The hard fibrous material forming trunk and branches of trees; living material transformed for building. 'Wolea' names what trees give—the warm, working material of shelter and craft.",
+  "sound_symbolism": "The word warms with life. 'Wo' opens with organic warmth, tree essence. 'Le' lives with cellular structure. Then 'a' opens to grain and growth rings.",
+  "grammatical_notes": "Functions as noun: 'lo wolea' (the wood). Material from trees for building, carving, burning. Related to 'lipha' (tree classifier).",
+  "pillars": {
+    "pre-industrial-wisdom": "Wood built civilization—homes, tools, ships, the renewable material of human shelter.",
+    "solarpunk-values": "Renewable resource—sustainably harvested wood as carbon-storing building material."
+  },
+  "tags": {
+    "nature": "Tree material",
+    "creation": "Building resource"
+  }
+}
