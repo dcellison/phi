@@ -1,0 +1,20 @@
+{
+  "word": "phelira",
+  "gloss": "mistaken",
+  "ipa": "/ɸe.li.ra/",
+  "syllables": ["phe", "li", "ra"],
+  "pos": ["adjective"],
+  "concept": "Mistaken / In-Error / Off-Course",
+  "description": "The adjective naming the quality of being in error, of having departed from accuracy or appropriate alignment. Unlike moral 'wrong,' this word describes a state that can be corrected rather than a fault to be punished. In Phi, being mistaken is understood as a natural part of learning and navigation—we correct course, we don't condemn the traveler. Something phelira invites adjustment, not judgment.",
+  "sound_symbolism": "The word opens with 'phe', where the bilabial fricative breathes softly—errors are named gently in Phi. This flows through 'li', the liquid suggesting movement that has drifted. The final 'ra' rolls with the quality of being off-course, still in motion but needing redirection. The arc traces: gentle recognition, flowing state, rolling adjustment. The sound itself models how to acknowledge error: softly, without harshness.",
+  "grammatical_notes": "Functions as an adjective describing statements, beliefs, actions, or directions that have departed from accuracy or appropriateness. Does not imply moral fault—only factual or relational error. Often used in self-reflection ('mia phelira nio' - I am mistaken) without shame. Contrasted with theali (fitting). Can take degree markers for severity of error.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Recognizing our errors without self-condemnation is essential practice. 'Phelira' names the state that requires correction while honoring the being who errs as still worthy of compassion.",
+    "peace-linguistics-practices": "By framing error as 'mistaken' rather than 'wrong,' 'phelira' enables accountability without attack. We can acknowledge mistakes—our own and others'—without triggering defensive reactions.",
+    "solarpunk-values": "Adaptive systems require honest error recognition. 'Phelira' supports the feedback loops that sustainable communities need—acknowledging what isn't working so it can be adjusted."
+  },
+  "tags": {
+    "cognition": "recognition of error state",
+    "wisdom": "awareness that invites correction"
+  }
+}

@@ -84,7 +84,7 @@ Added 54 essential words (January 2026)
 
 ### Objects & Things
 - [x] thing → **thena** ✓ NEW
-- [x] place → **nela** ✓ NEW
+- [x] place → **lokue** ✓ NEW
 - [x] time → **thimu** ✓ NEW
 - [x] way/path → **ruela** ✓ NEW
 - [x] house/home → **womu** ✓ NEW
@@ -108,11 +108,11 @@ Added 54 essential words (January 2026)
 
 ### Quality & Evaluation
 - [x] good → **welao** ✓ NEW
-- [ ] bad → [reframe as "difficult" or "harmful"?]
+- [x] harmful (reframed from "bad") → **peloma** ✓ NEW
 - [x] new → **newu** ✓ NEW
 - [x] old → **serao** ✓ NEW
-- [ ] right/correct (accurate)
-- [ ] wrong → [reframe as "mistaken"?]
+- [x] fitting/accurate (reframed from "right") → **theali** ✓ NEW
+- [x] mistaken (reframed from "wrong") → **phelira** ✓ NEW
 - [x] same (identical) → **senao** ✓ NEW
 - [x] different (distinct) → **phirae** ✓ NEW
 
@@ -177,7 +177,7 @@ Added 54 essential words (January 2026)
 | mouth | phulae | /ɸu.la.e/ |
 | foot | paloi | /pa.lo.i/ |
 | thing | thena | /θe.na/ |
-| place | nela | /ne.la/ |
+| place | lokue | /lo.ku.e/ |
 | time | thimu | /θi.mu/ |
 | path | ruela | /ru.e.la/ |
 | home | womu | /wo.mu/ |
@@ -221,16 +221,20 @@ Added 54 essential words (January 2026)
 | brown | mureli | /mu.re.li/ |
 | same | senao | /se.na.o/ |
 | different | phirae | /ɸi.ra.e/ |
+| harmful | peloma | /pe.lo.ma/ |
+| fitting | theali | /θe.a.li/ |
+| mistaken | phelira | /ɸe.li.ra/ |
 
 ---
 
 ### Remaining Gaps:
-- bad (reframe as "difficult" or "harmful"?)
-- right/correct (accurate)
-- wrong (reframe as "mistaken"?)
+All philosophical gaps resolved through reframing:
+- "bad" → harmful (peloma) - focuses on effect, not moral judgment
+- "right/correct" → fitting (theali) - emphasizes contextual alignment
+- "wrong" → mistaken (phelira) - describes correctable error, not fault
 
 ---
 
 ## Total Target: ~150 words
-- Current: ~150 ✓ COMPLETE
-- Minimal viable vocabulary achieved!
+- Current: ~156 ✓ COMPLETE
+- Minimal viable vocabulary achieved plus philosophical refinements!
