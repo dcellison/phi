@@ -1,0 +1,19 @@
+{
+  "word": "wuko",
+  "gloss": "careless",
+  "ipa": "/wu.ko/",
+  "syllables": ["wu", "ko"],
+  "pos": ["adjective"],
+  "concept": "Careless / Not Giving Attention / Lacking Care",
+  "description": "Not giving sufficient attention or thought to avoiding harm or errors. 'Wuko' names the quality of carelessness—attention absent, care neglected.",
+  "sound_symbolism": "The word slips past. 'Wu' begins with inattentive glide, awareness drifting. Then 'ko' catches briefly, but without holding—carelessness embodied.",
+  "grammatical_notes": "Functions as an adjective: 'wuko telo' (careless work). Opposite of 'thesa' (careful). Names state requiring correction—carelessness causes harm.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Carelessness is absent mindfulness—the unaware mind that acts without seeing consequences.",
+    "pre-industrial-wisdom": "Careless work wasted precious materials—attention was essential when resources were hard-won."
+  },
+  "tags": {
+    "cognition": "Inattentive",
+    "wisdom": "Lacking care"
+  }
+}

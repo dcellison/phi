@@ -1,0 +1,19 @@
+{
+  "word": "hiso",
+  "gloss": "clean",
+  "ipa": "/hi.so/",
+  "syllables": ["hi", "so"],
+  "pos": ["adjective", "verb"],
+  "concept": "Clean / Free from Dirt / Purified",
+  "description": "Free from dirt, marks, or unwanted matter; having been washed or purified. 'Hiso' names the quality of cleanliness—surfaces without soil, water without pollution, states of being without contamination.",
+  "sound_symbolism": "The word clears and refreshes. 'Hi' begins with open breath, air clean. Then 'so' sweeps smoothly, dirt removed.",
+  "grammatical_notes": "Functions as adjective: 'hiso phialu' (clean water). As verb: 'hiso' (to clean). Related to 'shiloa' (pure) but more practical—about physical cleanliness rather than essential purity.",
+  "pillars": {
+    "solarpunk-values": "Clean water, clean air, clean soil—the foundations of healthy ecosystems and communities.",
+    "secular-buddhist-philosophy": "Clean surroundings support clean mind—environment and awareness influence each other."
+  },
+  "tags": {
+    "physical": "Free from dirt",
+    "wisdom": "Clarity of state"
+  }
+}

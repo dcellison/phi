@@ -1,0 +1,19 @@
+{
+  "word": "newai",
+  "gloss": "fresh",
+  "ipa": "/ne.wa.i/",
+  "syllables": ["ne", "wa", "i"],
+  "pos": ["adjective"],
+  "concept": "Fresh / Recently Made / Vital and New",
+  "description": "Recently made, produced, or harvested; not stale, spoiled, or faded. 'Newai' names the quality of recent vitality—bread just baked, air after rain, energy not yet depleted.",
+  "sound_symbolism": "The word wakes to newness. 'Ne' begins with gentle opening, something new. Then 'wa' flows with waking life. Finally 'i' rises with vital energy, freshness complete.",
+  "grammatical_notes": "Functions as an adjective: 'newai purekoi' (fresh fruit). Related to 'newu' (new) but emphasizes vitality and recent origin rather than novelty.",
+  "pillars": {
+    "pre-industrial-wisdom": "Fresh food, fresh water—traditional life depended on knowing freshness, preserving what could be preserved, using what must be used.",
+    "solarpunk-values": "Fresh local food reduces transport and storage—freshness as both quality and sustainable practice."
+  },
+  "tags": {
+    "temporal": "Recently vital",
+    "physical": "Not depleted"
+  }
+}

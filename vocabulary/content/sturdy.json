@@ -1,0 +1,19 @@
+{
+  "word": "shuko",
+  "gloss": "sturdy",
+  "ipa": "/ʃu.ko/",
+  "syllables": ["shu", "ko"],
+  "pos": ["adjective"],
+  "concept": "Sturdy / Strongly Built / Robust",
+  "description": "Strongly and solidly built; able to withstand rough use. 'Shuko' names the quality of sturdiness—construction that endures, form that resists damage.",
+  "sound_symbolism": "The word stands firm. 'Shu' /ʃu/ begins with solid presence, strength established. Then 'ko' completes with clear definition, sturdiness confirmed.",
+  "grammatical_notes": "Functions as an adjective: 'shuko thae' (sturdy vessel). Opposite of 'welua' (fragile). Related to 'kema' (strong) but emphasizes resistance to damage rather than power.",
+  "pillars": {
+    "pre-industrial-wisdom": "Sturdy construction served generations—well-built tools and structures passed from parent to child.",
+    "solarpunk-values": "Sturdy design reduces waste—things built to last don't need constant replacement."
+  },
+  "tags": {
+    "physical": "Strongly built",
+    "creation": "Durable quality"
+  }
+}

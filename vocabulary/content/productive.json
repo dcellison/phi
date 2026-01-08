@@ -1,0 +1,19 @@
+{
+  "word": "poru",
+  "gloss": "productive",
+  "ipa": "/po.ru/",
+  "syllables": ["po", "ru"],
+  "pos": ["adjective"],
+  "concept": "Productive / Yielding Results / Creating Output",
+  "description": "Producing or able to produce large amounts of goods, crops, or results. 'Poru' names the quality of effective output—work that yields results, processes that generate goods, efforts that bear fruit.",
+  "sound_symbolism": "The word produces steadily. 'Po' begins with purposeful release, output initiated. Then 'ru' rolls with continuous yield, production flowing.",
+  "grammatical_notes": "Functions as an adjective: 'poru thiloma' (productive garden). Related to 'muroa' (fertile) but emphasizes actual output rather than potential—productive work has already yielded results.",
+  "pillars": {
+    "solarpunk-values": "Productive systems create what communities need—production aligned with genuine needs rather than artificial demand.",
+    "pre-industrial-wisdom": "Productive seasons determined survival—the rhythm of productive and fallow times structured traditional life."
+  },
+  "tags": {
+    "creation": "Yielding results",
+    "physical": "Generating output"
+  }
+}

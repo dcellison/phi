@@ -1,0 +1,19 @@
+{
+  "word": "shaemu",
+  "gloss": "organic",
+  "ipa": "/ʃa.e.mu/",
+  "syllables": ["sha", "e", "mu"],
+  "pos": ["adjective"],
+  "concept": "Organic / Living-Formed / Growth-Shaped",
+  "description": "Relating to or derived from living matter; having the characteristics of living organisms. 'Shaemu' names the quality of life-shaped form—curves that grow rather than are constructed, patterns that emerge rather than are imposed.",
+  "sound_symbolism": "The word grows like living things. 'Sha' /ʃa/ begins with spreading growth, life extending. The vowel hiatus 'a.e' opens to becoming, the organic process. Then 'mu' grounds in earth, where organic life roots.",
+  "grammatical_notes": "Functions as an adjective: 'shaemu lowi' (organic vine). Related to 'woeli' (natural) but emphasizes life-process and growth-form rather than nature generally.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Organic form was Art Nouveau's signature—designs that grew like plants, structures that curved like living things.",
+    "solarpunk-values": "Organic agriculture and organic design both work with living processes rather than against them."
+  },
+  "tags": {
+    "nature": "Life-derived quality",
+    "aesthetic": "Growth-shaped form"
+  }
+}

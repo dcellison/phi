@@ -1,0 +1,19 @@
+{
+  "word": "woeli",
+  "gloss": "natural",
+  "ipa": "/wo.e.li/",
+  "syllables": ["wo", "e", "li"],
+  "pos": ["adjective"],
+  "concept": "Natural / Of Nature / Unartificial",
+  "description": "Existing in or derived from nature; not made or caused by humankind. 'Woeli' names the quality of belonging to the living world—authentic, unforced, arising from the patterns of nature rather than human imposition.",
+  "sound_symbolism": "The word grows from earth. 'Wo' begins with organic roundness, nature's curves. The vowel hiatus 'o.e' opens to authenticity, nothing hidden. Then 'li' lives with liquid aliveness, the natural state.",
+  "grammatical_notes": "Functions as an adjective: 'woeli pelowa' (natural meadow). Related to 'shaemu' (organic) but broader—includes all that belongs to nature's patterns.",
+  "pillars": {
+    "pre-industrial-wisdom": "Traditional life aligned with natural patterns—natural materials, natural rhythms, natural relationships.",
+    "solarpunk-values": "Natural systems provide models for sustainable design—biomimicry learns from nature's solutions."
+  },
+  "tags": {
+    "nature": "Of the living world",
+    "wisdom": "Authentic quality"
+  }
+}

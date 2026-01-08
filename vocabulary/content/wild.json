@@ -1,0 +1,19 @@
+{
+  "word": "waeshi",
+  "gloss": "wild",
+  "ipa": "/wa.e.ʃi/",
+  "syllables": ["wa", "e", "shi"],
+  "pos": ["adjective"],
+  "concept": "Wild / Untamed / In Natural State",
+  "description": "Living or growing in natural conditions; not domesticated or cultivated. 'Waeshi' names the quality of wildness—the untamed, the free-growing, nature uncontrolled.",
+  "sound_symbolism": "The word runs free. 'Wa' opens with expansive energy, freedom present. The vowel 'e' moves without constraint. Then 'shi' /ʃi/ releases into open space, wildness embodied.",
+  "grammatical_notes": "Functions as an adjective: 'waeshi thiloma' (wild garden). Related to 'ralu' (free) but emphasizes natural state rather than liberation from constraint.",
+  "pillars": {
+    "solarpunk-values": "Wild spaces sustain biodiversity—untamed nature provides ecosystem services that cultivation cannot.",
+    "pre-industrial-wisdom": "Wild foods supplemented cultivation—foraging from wild places complemented farming."
+  },
+  "tags": {
+    "nature": "Untamed state",
+    "wisdom": "Natural freedom"
+  }
+}

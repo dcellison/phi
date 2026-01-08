@@ -1,0 +1,19 @@
+{
+  "word": "limu",
+  "gloss": "young",
+  "ipa": "/li.mu/",
+  "syllables": ["li", "mu"],
+  "pos": ["adjective"],
+  "concept": "Young / Early in Life / Not Yet Mature",
+  "description": "Having lived or existed for only a short time; in an early stage of life or development. 'Limu' names the quality of being near the beginning—full of potential, not yet formed by time, carrying the energy of new life.",
+  "sound_symbolism": "The word springs with new life. 'Li' begins with liquid aliveness, life starting. Then 'mu' holds new form, being not yet hardened.",
+  "grammatical_notes": "Functions as an adjective: 'limu shiro' (young tree). Opposite of 'serao' (old). Related to potential, growth, and early stages of any development.",
+  "pillars": {
+    "solarpunk-values": "Young people inherit the future we create—their perspective and energy essential to building sustainable worlds.",
+    "pre-industrial-wisdom": "Youth was both protected and prepared—the young carried forward the knowledge and practices of their people."
+  },
+  "tags": {
+    "temporal": "Early in life",
+    "physical": "Not yet mature"
+  }
+}
