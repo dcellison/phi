@@ -1,0 +1,19 @@
+{
+  "word": "leru",
+  "gloss": "beach",
+  "ipa": "/le.ru/",
+  "syllables": ["le", "ru"],
+  "pos": ["noun"],
+  "concept": "Beach / Sandy Shore / Wave-Touched Sand",
+  "description": "A pebbly or sandy shore, especially by the sea. 'Leru' names where sand meets wave—the soft landing where water touches land, shaped and reshaped by every tide.",
+  "sound_symbolism": "The word lays sand for waves. 'Le' begins low, the sand laid flat. Then 'ru' rolls with the incoming wave, water meeting shore.",
+  "grammatical_notes": "Functions as a noun: 'lo leru' (the beach). Takes the elemental classifier 'themo' when counted. More specific than 'kerime' (shore)—beach implies sand or pebbles. Associated with leisure, tides, and liminal space.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Beaches offer endless texture—sand patterns, wave marks, shells and stones, the art of water on earth.",
+    "pre-industrial-wisdom": "Beaches were landing places and gathering grounds—where boats came ashore and the sea offered its gifts."
+  },
+  "tags": {
+    "nature": "Sandy shoreline",
+    "spatial": "Wave-shaped land edge"
+  }
+}

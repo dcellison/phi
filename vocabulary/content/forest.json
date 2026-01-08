@@ -1,0 +1,20 @@
+{
+  "word": "shelira",
+  "gloss": "forest",
+  "ipa": "/ʃe.li.ra/",
+  "syllables": ["she", "li", "ra"],
+  "pos": ["noun"],
+  "concept": "Forest / Woodland / Tree Community",
+  "description": "A large area densely covered with trees and undergrowth, forming an interconnected ecosystem. 'Shelira' names the living cathedral where trees gather in community—not merely a collection of wood, but a breathing network where canopy shelters countless beings and roots share nutrients through fungal threads.",
+  "sound_symbolism": "The word rustles through the trees. 'She' /ʃe/ begins with the whisper of wind through leaves. Then 'li' flows with the liquid life within, sap and streams. Finally 'ra' reaches upward, the canopy opening to light.",
+  "grammatical_notes": "Functions as a noun: 'lo shelira' (the forest). Takes the vegetal classifier 'lipha' when counted, treating the forest as a single living entity. Related to 'shiro' (tree) through initial fricative. Encompasses all woodland types from dense jungle to open woodland.",
+  "pillars": {
+    "solarpunk-values": "Forests are the lungs of the planet—carbon sinks, biodiversity havens, and models for sustainable community living.",
+    "pre-industrial-wisdom": "Traditional cultures recognized forests as sacred homes, sources of medicine, food, and spiritual connection.",
+    "secular-buddhist-philosophy": "The forest teaches interconnection—no tree stands alone, each depends on and supports the whole community."
+  },
+  "tags": {
+    "nature": "Woodland ecosystem",
+    "community": "Tree community gathering"
+  }
+}

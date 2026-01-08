@@ -1,0 +1,19 @@
+{
+  "word": "horathe",
+  "gloss": "dawn",
+  "ipa": "/ho.ra.θe/",
+  "syllables": ["ho", "ra", "the"],
+  "pos": ["noun"],
+  "concept": "Dawn / Daybreak / Light's Emergence",
+  "description": "The first light of day, when darkness gives way to growing brightness before sunrise. 'Horathe' names the threshold time when night releases its hold—the gradual awakening of light that precedes the sun, promising renewal.",
+  "sound_symbolism": "The word emerges from darkness. 'Ho' begins with open breath, the first stirring. Then 'ra' reaches outward, light extending across the sky. Finally 'the' /θe/ softens into emergence, the gentle arrival of day.",
+  "grammatical_notes": "Functions as a noun: 'lo horathe' (the dawn). Takes the elemental classifier 'themo' when counted as events or phenomena. Paired with 'dusk' as day's threshold times. Associated with awakening, hope, and new beginnings.",
+  "pillars": {
+    "solarpunk-values": "Dawn represents renewable hope—each day offers fresh possibility, as reliable as the sun's return.",
+    "secular-buddhist-philosophy": "Dawn is awakening made visible—the transition from sleep to awareness that practitioners honor through early morning practice."
+  },
+  "tags": {
+    "temporal": "Day's beginning",
+    "nature": "Light emergence"
+  }
+}

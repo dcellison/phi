@@ -1,0 +1,19 @@
+{
+  "word": "pelowa",
+  "gloss": "meadow",
+  "ipa": "/pe.lo.wa/",
+  "syllables": ["pe", "lo", "wa"],
+  "pos": ["noun"],
+  "concept": "Meadow / Grassland / Open Field",
+  "description": "An open field of grass and wildflowers, especially one used for hay or grazing. 'Pelowa' names the sunlit openings in the landscape—where grasses wave, wildflowers bloom, and the sky reaches down to touch the earth unobstructed.",
+  "sound_symbolism": "The word opens to sunny expanse. 'Pe' begins with gentle stop, a clearing. Then 'lo' lies low, the level ground. Finally 'wa' widens outward, the open field stretching to meet the sky.",
+  "grammatical_notes": "Functions as a noun: 'lo pelowa' (the meadow). Takes the elemental classifier 'themo' when counted as landscape features. Distinguished from forest by openness, from garden by wildness. Associated with biodiversity, grazing, and natural beauty.",
+  "pillars": {
+    "solarpunk-values": "Meadows are biodiversity hotspots—wildflower meadows support pollinators and countless species in harmonious community.",
+    "art-nouveau-aesthetics": "Meadows offered Art Nouveau artists endless inspiration—flowing grasses, delicate wildflowers, the interplay of wind and growth."
+  },
+  "tags": {
+    "nature": "Open grassland",
+    "aesthetic": "Pastoral beauty"
+  }
+}

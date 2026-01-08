@@ -1,0 +1,19 @@
+{
+  "word": "waero",
+  "gloss": "sky",
+  "ipa": "/ʍa.e.ro/",
+  "syllables": ["wha", "e", "ro"],
+  "pos": ["noun"],
+  "concept": "Sky / Heavens / Atmospheric Expanse",
+  "description": "The region of atmosphere and space visible from earth, stretching from horizon to horizon. 'Waero' names the great openness above—the canvas of clouds and stars, the blue vastness that holds weather and wonder, connecting all who stand beneath it in shared witness.",
+  "sound_symbolism": "The word opens to infinite space. 'Wha' /ʍa/ begins with breathy wonder, the gasp of looking upward. The vowel hiatus 'a.e' stretches like the sky itself, unhurried and vast. Finally 'ro' holds the space, the dome that contains all above.",
+  "grammatical_notes": "Functions as a noun: 'lo waero' (the sky). Takes the elemental classifier 'themo' when counted (as in 'different skies' of different places or times). Related to weather phenomena and celestial bodies. Often used in expressions of openness, possibility, and shared perspective.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The sky teaches spaciousness—vast, unchanging awareness that holds all weather without being disturbed by it.",
+    "pre-industrial-wisdom": "Traditional peoples read the sky for weather, navigation, and seasonal timing—the original calendar and compass."
+  },
+  "tags": {
+    "nature": "Atmospheric expanse",
+    "spatial": "The great above"
+  }
+}

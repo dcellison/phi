@@ -1,0 +1,19 @@
+{
+  "word": "phirenu",
+  "gloss": "snow",
+  "ipa": "/ɸi.re.nu/",
+  "syllables": ["phi", "re", "nu"],
+  "pos": ["noun", "verb"],
+  "concept": "Snow / Frozen Precipitation / Winter's Blanket",
+  "description": "Atmospheric water vapor frozen into ice crystals that fall as soft white flakes. 'Phirenu' names the quiet transformation of rain into white silence—the blanket that covers and protects, the season's rest made visible.",
+  "sound_symbolism": "The word falls softly. 'Phi' /ɸi/ begins with soft breath, crystals forming. Then 're' descends gently, the quiet falling. Finally 'nu' settles and stays, the ground covered in nasal stillness.",
+  "grammatical_notes": "Functions as noun: 'lo phirenu' (the snow). As verb: 'phirenu' (to snow). Takes the elemental classifier 'themo' when counted as events. Associated with winter, silence, purity, and transformation. Related to 'pheralu' (rain) as frozen counterpart.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Snow teaches equanimity—it covers all equally, high and low, beautiful and plain, without discrimination.",
+    "art-nouveau-aesthetics": "Snow creates crystalline beauty in endless unique patterns—each flake a masterwork of natural geometry."
+  },
+  "tags": {
+    "nature": "Frozen precipitation",
+    "temporal": "Winter's presence"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "word": "mola",
+  "gloss": "island",
+  "ipa": "/mo.la/",
+  "syllables": ["mo", "la"],
+  "pos": ["noun"],
+  "concept": "Island / Surrounded Land / Water-Held Earth",
+  "description": "A piece of land surrounded by water. 'Mola' names the land that stands alone—complete in itself, defined by the waters that embrace it, a world unto itself.",
+  "sound_symbolism": "The word holds land in water. 'Mo' begins in the midst, surrounded by sea. Then 'la' lands firmly, the earth standing despite the water.",
+  "grammatical_notes": "Functions as a noun: 'lo mola' (the island). Takes the elemental classifier 'themo' when counted. Associated with isolation, completeness, and self-contained ecosystems.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Islands teach self-reliance and completeness—the Buddha spoke of being 'an island unto oneself,' finding refuge within.",
+    "pre-industrial-wisdom": "Island peoples developed unique cultures through isolation—completeness within limits, adaptation to bounded resources."
+  },
+  "tags": {
+    "nature": "Water-surrounded land",
+    "spatial": "Isolated land mass"
+  }
+}

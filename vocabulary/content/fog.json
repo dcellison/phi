@@ -1,0 +1,19 @@
+{
+  "word": "nuphari",
+  "gloss": "fog",
+  "ipa": "/nu.ɸa.ri/",
+  "syllables": ["nu", "pha", "ri"],
+  "pos": ["noun"],
+  "concept": "Fog / Dense Mist / Thick Atmospheric Moisture",
+  "description": "A thick cloud of water droplets at ground level that significantly reduces visibility. 'Nuphari' names the enveloping obscurity—when air becomes visible and the world contracts to arm's reach, when familiar paths become mysterious.",
+  "sound_symbolism": "The word wraps and surrounds. 'Nu' begins with nasal thickness, density forming. Then 'pha' /ɸa/ softens into the veil, visibility dissolving. Finally 'ri' surrounds on all sides, the fog enclosing.",
+  "grammatical_notes": "Functions as a noun: 'lo nuphari' (the fog). Takes the elemental classifier 'themo' when counted. Distinguished from 'wheiluro' (mist) by density and reduced visibility. Associated with uncertainty, disorientation, and hidden presence.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Fog teaches navigating uncertainty—when the path ahead is hidden, each step becomes mindful, present, attentive.",
+    "pre-industrial-wisdom": "Fog demanded respect from sailors and travelers—a reminder that nature sets limits on human perception and plans."
+  },
+  "tags": {
+    "nature": "Dense ground-level cloud",
+    "cognition": "Perception limited"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "word": "koashira",
+  "gloss": "grove",
+  "ipa": "/ko.a.ʃi.ra/",
+  "syllables": ["ko", "a", "shi", "ra"],
+  "pos": ["noun"],
+  "concept": "Grove / Small Wood / Tree Gathering",
+  "description": "A small group of trees without thick undergrowth, often planted or naturally clustered. 'Koashira' names the intimate gatherings of trees—sacred circles, orchard clusters, the smaller woodlands where one can walk among trunks and see the sky.",
+  "sound_symbolism": "The word gathers trees together. 'Ko' begins with velar clustering, trees grouped. The vowel hiatus 'o.a' opens space between trunks, light filtering through. Then 'shira' echoes 'shelira' (forest), connecting to the larger tree-family of words.",
+  "grammatical_notes": "Functions as a noun: 'lo koashira' (the grove). Takes the vegetal classifier 'lipha' when counted. Distinguished from 'shelira' (forest) by intimacy and scale—groves are walkable, often sacred or cultivated. Shares the -shira element with forest, marking the semantic family.",
+  "pillars": {
+    "pre-industrial-wisdom": "Groves were sacred spaces in many traditions—places where humans met the divine among trees, neither wild forest nor tamed field.",
+    "art-nouveau-aesthetics": "The grove represents nature at human scale—trees as companions rather than wilderness, beauty one can walk within."
+  },
+  "tags": {
+    "nature": "Small woodland",
+    "ritual": "Sacred tree-space"
+  }
+}
