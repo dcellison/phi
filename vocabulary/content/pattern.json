@@ -1,0 +1,19 @@
+{
+  "word": "hena",
+  "gloss": "pattern",
+  "ipa": "/he.na/",
+  "syllables": ["he", "na"],
+  "pos": ["noun"],
+  "concept": "Pattern / Repeated Design / Recurring Structure",
+  "description": "A repeated decorative design; a regular and intelligible form or sequence. 'Hena' names the recognizable structure—what repeats, what can be expected, the order beneath apparent chaos.",
+  "sound_symbolism": "The word repeats clearly. 'He' breathes with open recognition, pattern seen. Then 'na' settles with familiar certainty, structure confirmed.",
+  "grammatical_notes": "Functions as a noun: 'lo hena' (the pattern). Related to 'telui' (rhythm) but emphasizes spatial or logical repetition rather than temporal beat.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Pattern was central—organic forms repeated and varied, creating designs that flowed while maintaining structure.",
+    "pre-industrial-wisdom": "Patterns taught prediction—recognizing weather patterns, animal behavior patterns, seasonal patterns enabled survival."
+  },
+  "tags": {
+    "aesthetic": "Repeated design",
+    "cognition": "Recognizable structure"
+  }
+}

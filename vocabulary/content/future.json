@@ -1,0 +1,19 @@
+{
+  "word": "wireo",
+  "gloss": "future",
+  "ipa": "/wi.re.o/",
+  "syllables": ["wi", "re", "o"],
+  "pos": ["noun"],
+  "concept": "Future / Time Yet to Come / What Will Happen",
+  "description": "The time after the present; events that have not yet occurred. 'Wireo' names time that approaches—possibility's domain, hope's realm, what we can still shape.",
+  "sound_symbolism": "The word reaches forward. 'Wi' opens with expectant energy, possibility present. 'Re' extends toward what comes. Finally 'o' opens to the unknown, the future arriving.",
+  "grammatical_notes": "Functions as a noun: 'lo wireo' (the future). Opposite of 'luera' (past). Related to the tense particle 'sha' which marks future time.",
+  "pillars": {
+    "solarpunk-values": "The future is not fixed—it can be shaped by present choices, built by collective action.",
+    "secular-buddhist-philosophy": "The future exists only in present imagination—anxious grasping causes suffering, wise preparation brings peace."
+  },
+  "tags": {
+    "temporal": "After now",
+    "wisdom": "Possibility's domain"
+  }
+}

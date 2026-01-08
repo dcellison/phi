@@ -1,0 +1,19 @@
+{
+  "word": "phaero",
+  "gloss": "transit",
+  "ipa": "/ɸa.e.ro/",
+  "syllables": ["pha", "e", "ro"],
+  "pos": ["noun"],
+  "concept": "Transit / Passage / Crossing Through",
+  "description": "The act of passing through or across; a journey from one place or state to another. 'Phaero' names the crossing—the passage between, the journey through, the movement from here to there.",
+  "sound_symbolism": "The word moves through. 'Pha' /ɸa/ begins with breath in motion, passage starting. The vowel 'e' opens to the between-space. Then 'ro' rolls onward, transit continuing.",
+  "grammatical_notes": "Functions as a noun: 'lo phaero' (the transit). Can describe physical travel or metaphorical transition between states.",
+  "pillars": {
+    "secular-buddhist-philosophy": "All existence is transit—nothing remains fixed, everything is in passage from one state to another.",
+    "pre-industrial-wisdom": "Transit times were vulnerable—the journey between safe places required vigilance and preparation."
+  },
+  "tags": {
+    "temporal": "Passage time",
+    "spatial": "Crossing through"
+  }
+}
