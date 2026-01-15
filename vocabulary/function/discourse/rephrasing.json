@@ -1,0 +1,19 @@
+{
+  "word": "shorela",
+  "gloss": "REPH",
+  "ipa": "/ʃo.re.la/",
+  "syllables": ["sho", "re", "la"],
+  "pos": ["discourse"],
+  "concept": "In Other Words / That Is / To Put It Another Way",
+  "description": "A discourse marker signaling that what follows restates the previous thought in different form. 'Shorela' acknowledges that understanding often requires multiple approaches—the same truth viewed from different angles, the same meaning clothed in different words. It marks not repetition but reformulation, the generous act of offering another path to the same destination.",
+  "sound_symbolism": "The word opens with 'sho' /ʃo/, connecting to the quotative particle and the realm of expressed meaning—what is being re-expressed. The central 're' carries the sense of return, revisiting, circling back to say again. Finally, 'la' flows with liquid connection, linking the new formulation to the old. The acoustic journey from expression through return to connection mirrors the act of rephrasing: we return to what was said and connect it anew. The three syllables create a deliberate pace, giving listeners time to prepare for reformulation rather than new information.",
+  "grammatical_notes": "As a discourse marker, appears sentence-initially to signal that what follows is a reformulation of the preceding statement, not new information. Positioned after Slot 0 particles but before the subject. Useful for clarification, emphasis, or offering simpler/more complex versions of the same idea. Does not imply the first formulation was wrong—rather that multiple expressions illuminate meaning from different angles.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Truth is approached through many doors; no single formulation captures all. 'Shorela' embodies this understanding that skillful teaching requires multiple framings, meeting different minds where they are.",
+    "peace-linguistics-practices": "Misunderstanding often stems from different interpretive frames. By explicitly marking rephrasing, 'shorela' supports clarification without blame—not 'you didn't understand' but 'let me say it another way.' This preserves face while pursuing mutual understanding.",
+    "pre-industrial-wisdom": "Traditional teaching often circles back, approaching the same wisdom through stories, metaphors, and direct statements. 'Shorela' honors this pedagogical pattern of saying the same truth many ways until it takes root."
+  },
+  "tags": {
+    "dialogue": "structures discourse flow and signals reformulation"
+  }
+}
