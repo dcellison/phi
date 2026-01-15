@@ -39,7 +39,7 @@ To say something is "more" of a quality, you place the particle `mo` before the 
 Let's compare the `noshale` (garden) and the `shiro` (forest).
 
 *   **Phi:** `noshale mo wela nio.`
-*   **Gloss:** `garden COMP good/beautiful be.`
+*   **Gloss:** `garden CMPR good/beautiful be.`
 *   **Translation:** The garden is more beautiful.
 
 #### Superlative (`mo she` - "most")
@@ -47,7 +47,7 @@ Let's compare the `noshale` (garden) and the `shiro` (forest).
 To say something is the "most" of a quality, you use a combination of two particles: `mo` followed by our new focus particle, `she`.
 
 *   **Phi:** `noshale mo she wela nio.`
-*   **Gloss:** `garden COMP FOC good/beautiful be.`
+*   **Gloss:** `garden CMPR FOC good/beautiful be.`
 *   **Translation:** The garden is the most beautiful.
 
 The `mo she` combination creates the superlative degree.

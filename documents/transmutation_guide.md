@@ -83,7 +83,7 @@ The best way to express the "not only" idea in Phi is to state both parts of the
 ### Final Transmutation (Sentence 3)
 
 *   **Phi:** `[mako phaloa hisu] silo ketho thopa wela nio. thona shilela mo na nio.`
-*   **Gloss:** `[earth calamity feel] DUR alertness-speech good be. but solution COMP NEC be.`
+*   **Gloss:** `[earth calamity feel] DUR alertness-speech good be. but solution CMPR NEC be.`
 *   **Translation:** While the world feels calamity, warnings are good, but solutions are more necessary.
 
 ---

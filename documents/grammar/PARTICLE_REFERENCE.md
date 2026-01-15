@@ -178,12 +178,12 @@ mia hi nila
 (I see [I directly witness this].)
 ```
 
-#### `ke` - Inferential Evidence (INF)
+#### `ke` - Inferential Evidence (INFER)
 **Function**: Announces that the speaker inferred the information from evidence
 **Example**:
 ```
 shia to ke wepu
-3SG PST INF leave
+3SG PST INFER leave
 (She left [I infer from evidence].)
 ```
 
@@ -259,7 +259,7 @@ mia so ki po ma kela
 When multiple Slot 1 particles combine, they follow strict ordering:
 ```
 mia to si ke po ma kela
-1SG PST IPFV INF POSS NEG understand
+1SG PST IPFV INFER POSS NEG understand
 (I was not being able to understand [I infer].)
 ```
 Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`whi`/`ho`) > Modality (`po`) > Negation (`ma`)
@@ -325,21 +325,21 @@ mia she lothea kela
 
 ### Comparison
 
-#### `mo` - Comparative Marker (COMP)
+#### `mo` - Comparative Marker (CMPR)
 **Function**: Announces comparative degree ("more")
 **Example**:
 ```
 noshale sheo shiro mo wela nio
-garden than forest COMP good be
+garden than forest CMPR good be
 (The garden is more beautiful than the forest.)
 ```
 
-#### `mo she` - Superlative Marker (SUPER)
+#### `mo she` - Superlative Marker (SUPL)
 **Function**: Announces superlative degree ("most")
 **Example**:
 ```
 pha noshale mo she wela nio
-PROX garden COMP FOC good be
+PROX garden CMPR FOC good be
 (This garden is the most beautiful.)
 ```
 
@@ -518,12 +518,12 @@ mia miso nila
 (I see myself.)
 ```
 
-### `wiso` - Reciprocal Pronoun (RECIP)
+### `wiso` - Reciprocal Pronoun (RECP)
 **Function**: Announces mutual action between plural subjects
 **Example**:
 ```
 nio wiso lothea
-1PL RECIP love
+1PL RECP love
 (We love each other.)
 ```
 

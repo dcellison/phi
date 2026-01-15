@@ -63,7 +63,7 @@ There are four evidential particles:
 
 **Example with `ke` (inference):**
 *   **Phi:** `shia to ke wepu.`
-*   **Gloss:** `3SG PST INF leave.`
+*   **Gloss:** `3SG PST INFER leave.`
 *   **Translation:** She left [I infer from evidence].
 
 Perhaps you found an empty room and a note. You didn't see her leave, but the evidence tells you she did.
@@ -107,7 +107,7 @@ This follows the order: `so` (future tense), `te` (cessative aspect), `po` (poss
 Now let's add evidentiality: "She could have understood [I infer]."
 
 *   **Phi:** `shia to ke po kela.`
-*   **Gloss:** `3SG PST INF POSS understand.`
+*   **Gloss:** `3SG PST INFER POSS understand.`
 *   **Translation:** She could have understood [I infer].
 
 Here we have `to` (past tense), `ke` (inferential evidential), `po` (possibility), and the verb `kela`. The evidential `ke` tells the listener you're drawing a conclusion from evidence, not reporting something you witnessed directly.

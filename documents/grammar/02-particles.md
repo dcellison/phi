@@ -77,7 +77,7 @@ Following the modifier-first principle, these particles announce temporal, aspec
 Evidential particles mark the source of the speaker's knowledge. They are optional—direct experience is the unmarked default—but provide explicit epistemic transparency when needed.
 
 - `hi` (DIR): `mia hi nila` (I see [I directly witness this])
-- `ke` (INF): `shia to ke wepu` (She left [I infer from evidence])
+- `ke` (INFER): `shia to ke wepu` (She left [I infer from evidence])
 - `whi` (REP): `lo miona whi shele` (People helped [I was told])
 - `ho` (ASM): `thi ho kela` (You understand [I assume])
 
@@ -127,12 +127,12 @@ These particles announce specific modifications at the word level, always appear
 - `she` (FOC): `mia she lothea kela` (I understand *love*)
 
 **Comparison:**
-- `mo` (COMP): Forms the comparative.
-- `mo she` (SUPER): Forms the superlative.
+- `mo` (CMPR): Forms the comparative.
+- `mo she` (SUPL): Forms the superlative.
 - In a comparative sentence, the standard of comparison is marked with the preposition `sheo` (than).
   ```
   [garden] sheo [forest] mo [beautiful] nio
-  garden than forest COMP beautiful be
+  garden than forest CMPR beautiful be
   (The garden is more beautiful than the forest.)
   ```
 

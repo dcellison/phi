@@ -82,7 +82,7 @@ The reciprocal pronoun `wiso` announces mutual action:
 
 ```
 nio wiso lothea
-1PL RECIP love
+1PL RECP love
 (We love each other.)
 ```
 
