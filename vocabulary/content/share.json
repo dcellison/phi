@@ -2,12 +2,17 @@
   "word": "phowe",
   "gloss": "share",
   "ipa": "/ˈɸo.we/",
-  "syllables": ["pho", "we"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "pho",
+    "we"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Sharing / A Generative Offering to the Collective",
   "description": "The act of making what is one's own available for the use and benefit of others. It is a foundational act of community building, based on abundance rather than scarcity.",
   "sound_symbolism": "The breath of 'pho' releases rather than holds - that generous exhalation when hands open to give. This offering flows directly into 'we', acknowledging that sharing creates community, transforms 'mine' into 'ours'. The vowel flow from 'o' to 'we' creates sonic generosity, no barriers between giver and receivers. The word teaches its own lesson: sharing happens when breath meets collective, when individual abundance overflows into communal wealth.",
-  "image_prompt": "Art Nouveau watercolor in Mucha style: Radiating forms in palest gold and soft lavender flowing outward from generous center without depicting hands. Abstract circular exchanges in powder blue and barely-there coral showing reciprocal abundance. Transparent overlapping streams in cream and mint connecting individual to collective. Delicate organic patterns multiply through distribution. Whispers of peach and rose create expanding wealth. All extremely soft pastels. Wet-on-wet technique emphasizes overflow from abundance into community.",
   "grammatical_notes": "Functions as both verb (to share) and noun (a share/sharing) without morphological change, similar to Mandarin fēnxiǎng (分享) and Japanese kyōyū (共有). The noun usage can express both the act of sharing and the portion shared.",
   "pillars": {
     "solarpunk-values": "Sharing forms the economic foundation of solarpunk futures - from open-source designs to community land trusts to gift economies. This practice proves that abundance emerges not through hoarding but through circulation, that wealth shared multiplies rather than diminishes. Sharing transforms scarcity mindset into recognition of collective plenty."

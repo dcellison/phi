@@ -2,12 +2,18 @@
   "word": "shareo",
   "gloss": "discuss",
   "ipa": "/ʃa.ˈre.o/",
-  "syllables": ["sha", "re", "o"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "sha",
+    "re",
+    "o"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Discuss / To Build a Shared Bridge",
   "description": "The act of talking about something in detail, exploring it from multiple perspectives to build a more complete and shared understanding of the whole.",
   "sound_symbolism": "The word opens with the soft 'sha', creating shared space from the first breath—discussion as invitation, not debate. The bridging 're' in the middle creates the back-and-forth movement, the gentle volley of ideas passing between minds. The final 'o' opens into wholeness, suggesting that discussion aims not to win but to arrive somewhere together. This progression—from shared beginning through reciprocal exchange to unified understanding—transforms discussion from intellectual combat into collaborative exploration. The sound itself encourages the kind of open, flowing exchange it names.",
-  "image_prompt": "Art Nouveau watercolor: Multiple conversation streams - coral, sage, lavender - weave back and forth in gentle exchange patterns. Colors blend at crossing points creating new hues of understanding. Mucha's flowing hair motifs suggest ideas passing between minds. Central space breathes with listening pauses. Golden blooms mark moments of shared insight. Wet-on-wet technique allows perspectives to merge naturally. White space honors the openness needed for true exchange. Style: Alphonse Mucha's decorative dialogue meets collaborative watercolor.",
   "grammatical_notes": "Functions as both verb (to discuss) and noun (a discussion) without morphological change. Many languages like Indonesian and Chinese use the same form for both the act of discussing and the discussion itself, avoiding the English distinction between discuss/discussion.",
   "pillars": {
     "peace-linguistics-practices": "Discussion as collaborative exploration transforms potential conflict into shared inquiry. Rather than defending positions, participants build understanding together, using differences in perspective as resources for creating more complete pictures. This practice prevents the violence of silencing or dismissing viewpoints, creating space where all contributions can enrich collective understanding.",

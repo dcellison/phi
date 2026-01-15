@@ -2,12 +2,18 @@
   "word": "phelora",
   "gloss": "beautiful",
   "ipa": "/ɸe.ˈlo.ra/",
-  "syllables": ["phe", "lo", "ra"],
-  "pos": ["adjective", "verb"],
+  "syllables": [
+    "phe",
+    "lo",
+    "ra"
+  ],
+  "pos": [
+    "adjective",
+    "verb"
+  ],
   "concept": "Beautiful / Aesthetic Harmony",
   "description": "The holistic quality that evokes deep appreciation through form, pattern, or presence. In Phi, this is not merely superficial, but is understood as the result of harmonious integration, aligning with the concept of 'wela' (goodness/harmony).",
   "sound_symbolism": "The word begins with the breathy 'ph', like the soft gasp we make when beauty catches us unaware. This flows into the liquid curve of 'lo', mimicking the sinuous lines of Art Nouveau—the curve of a vine, the arc of a swan's neck. The vibrant 'ra' adds flourish and movement, like the final stroke of an artist's brush. Together, these sounds create the very experience of encountering beauty: first the breath of recognition, then the flowing appreciation, finally the resonant joy. The word itself becomes a small artwork, embodying the organic elegance it names.",
-  "image_prompt": "Art Nouveau watercolor: Multiple streams - rose quartz, jade mist, champagne - flow in organic rhythms creating visual music. Intersections bloom with opal and pearl in breathtaking harmony. Natural golden spirals and Klimt-inspired decorative elements draw endless satisfying loops. Layers vary from luminous buildup to whisper-thin veils. Moonlight splatters dance like visible joy. Style: Aesthetic perfection meets Art Nouveau botanical forms.",
   "grammatical_notes": "Functions as stative verb ('to be beautiful') in addition to adjective, common in languages like Japanese (utsukushii), Indonesian (cantik), and Korean (areumdapda) where quality states are expressed verbally without copula.",
   "pillars": {
     "art-nouveau-aesthetics": "Beauty in the Art Nouveau tradition celebrates organic forms, flowing lines, and the integration of art into everyday life. This movement understood beauty not as decoration but as essential to human flourishing - that surroundings shaped by natural curves and botanical motifs could elevate the spirit and create harmony between human life and nature.",

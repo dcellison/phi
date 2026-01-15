@@ -2,12 +2,18 @@
   "word": "whelani",
   "gloss": "welcome",
   "ipa": "/ˈʍe.la.ni/",
-  "syllables": ["whe", "la", "ni"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "whe",
+    "la",
+    "ni"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Welcome / To Receive the Self of Another",
   "description": "The warm, heartfelt reception of another into one's presence or space. It is the act that confirms and validates an invitation.",
   "sound_symbolism": "The breathy 'wh' opens like a door swinging wide, creating immediate space for the other. The flowing 'la' extends this openness outward like arms reaching in embrace, while the intimate 'ni' draws close with personal warmth. This progression from spatial opening through extending movement to intimate connection captures the full arc of welcome - from the first gesture of invitation to the final moment of heartfelt reception.",
-  "image_prompt": "Art Nouveau watercolor in Mucha style: Opening doorway forms in palest gold and soft lavender creating expansive space without depicting figures. Abstract threshold patterns in powder blue and barely-there coral showing passage from outside to inside. Transparent overlapping embrace-shapes in cream and mint extending outward in reception. Delicate organic patterns suggest arms opening and hearts warming. Whispers of peach and rose mark the moment of crossing into belonging. All extremely soft pastels. Wet-on-wet technique emphasizes the flowing transformation from stranger to guest.",
   "grammatical_notes": "Functions as both verb (to welcome) and noun (a welcome) without morphological change, similar to Mandarin huānyíng (欢迎). The noun usage expresses the act or gesture of welcoming.",
   "pillars": {
     "peace-linguistics-practices": "Welcome creates peace by dissolving the boundary between insider and outsider - each genuine welcome transforms a stranger into a guest, a potential threat into a potential friend. This practice recognizes that most conflicts arise from exclusion and fear of the other. By welcoming generously, we create expanding circles of belonging that leave no room for enmity.",

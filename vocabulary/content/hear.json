@@ -2,12 +2,17 @@
   "word": "hea",
   "gloss": "hear",
   "ipa": "/ˈhe.a/",
-  "syllables": ["he", "a"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "he",
+    "a"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Hear / The Passive Reception of Sound",
   "description": "The passive, physical sense of perceiving sound. It is the simple reception of auditory vibration, without the necessary layer of mindful attention that defines listening.",
   "sound_symbolism": "The breathy 'h' opens the word like ears opening to sound, creating immediate receptivity. The vowel sequence 'e.a' forms an acoustic chamber - the focused 'e' channeling sound inward, expanding into the open 'a' where vibrations resonate. This two-syllable simplicity mirrors hearing's fundamental nature: not active listening but the basic physiological gift of perceiving sound waves as they wash over us.",
-  "image_prompt": "Art Nouveau watercolor: Concentric ripples in palest lavender and soft mint emanate from invisible sources, suggesting sound waves in abstract form. Mucha's flowing curves create acoustic chambers in peachy rose and powder blue, spaces where vibration gathers. Transparent washes overlap creating interference patterns in cream and pearl. Delicate gold threads spiral outward like frequencies traveling through space. No defined center, just gentle reception zones in sage and apricot. Organic patterns suggest ear-like spirals without literal representation. Wet-on-wet bleeding creates the sense of sounds merging and fading. Style: Abstract Mucha capturing passive reception through expanding circles of awareness.",
   "grammatical_notes": "Functions as both verb (to hear) and noun (hearing/the sense of hearing) without morphological change, similar to Arabic sam' (سمع). The noun usage can refer to both the faculty of hearing and the act itself.",
   "pillars": {
     "secular-buddhist-philosophy": "Hearing represents the foundational awareness that precedes deeper listening - the simple acknowledgment that sounds arise and pass away in consciousness. This basic receptivity teaches us about the nature of experience itself: how phenomena appear in awareness without our choosing, inviting us to notice what is present before we add interpretation or judgment."

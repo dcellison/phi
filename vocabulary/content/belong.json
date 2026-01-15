@@ -2,12 +2,16 @@
   "word": "wema",
   "gloss": "belong",
   "ipa": "/ˈwe.ma/",
-  "syllables": ["we", "ma"],
-  "pos": ["verb"],
+  "syllables": [
+    "we",
+    "ma"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Belong / To Have Roots in Community",
   "description": "To be an integral and accepted part of a community, place, or relationship. It expresses the active state of having deep roots and connection within a collective.",
   "sound_symbolism": "This two-syllable word speaks its meaning clearly: 'we' announces collective identity while 'ma' grounds it in place and presence. The nasal 'm' creates a hum of connection between the collective and the earth, embodying how true belonging roots us both in community and in place. When spoken, the word moves from open collective recognition to grounded stability, mirroring the journey from seeking connection to finding home. It is both an acknowledgment and an affirmation—yes, we are here together, held.",
-  "image_prompt": "Art Nouveau watercolor: Scattered droplets - coral, mint, lavender, gold - flow from edges toward center, forming luminous mycelial network. Junction points bloom with apricot recognition. Root tendrils reach down while connecting outward in Mucha's organic patterns. Central hearth pools deeply while threads welcome newcomers. Champagne constellation marks strengthen the web. Style: Social mycorrhizal networks meets Art Nouveau community.",
   "pillars": {
     "solarpunk-values": "Belonging is foundational to solarpunk's vision of resilient communities where everyone has a place. It represents the antithesis of alienation under late capitalism - instead imagining futures where mutual aid networks, community gardens, and collective ownership create genuine spaces of inclusion where all can contribute and thrive.",
     "peace-linguistics-practices": "The practice of affirming belonging prevents the violence of exclusion and othering. By actively recognizing and voicing that someone belongs, we create linguistic space for their full humanity and participation, countering narratives that marginalize or invisibilize. True peace requires that all feel they have a rightful place.",

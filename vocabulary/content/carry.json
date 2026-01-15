@@ -2,12 +2,17 @@
   "word": "kolua",
   "gloss": "carry",
   "ipa": "/ko.lu.a/",
-  "syllables": ["ko", "lu", "a"],
-  "pos": ["verb"],
+  "syllables": [
+    "ko",
+    "lu",
+    "a"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Carry / Transport / Bear",
   "description": "The fundamental act of bearing and transporting something while maintaining continuous support throughout movement. More than simple transport, carrying embodies the sustained responsibility of bearing a load - whether physical objects, messages, or metaphorical burdens. It represents the human capacity to support and transport what is needed, combining strength with careful attention to maintain what is carried safely through the journey. In Phi's framework, carrying emphasizes the supportive, nurturing aspect of bearing loads rather than focusing on burden or difficulty. It is the practice of taking responsibility for safe transport, of maintaining what is precious through movement.",
   "sound_symbolism": "The word holds with movement. 'Ko' keeps with complete grasp, secure hold established. 'Lu' lifts with flowing motion, carrying in progress. Then 'a' opens along the journey, transport sustained. Together, 'kolua' embodies the complete experience of carrying—the secure grip combined with continuous movement, creating a sound portrait of sustained, careful transport.",
-  "image_prompt": "Art Nouveau watercolor in Mucha style: Continuous flowing ribbons suggest sustained movement while cradling invisible forms. Pale amber curves create supportive channels that flow horizontally, never dropping their gentle embrace. Translucent washes of powder blue and rose maintain consistent height as they travel across the composition, suggesting steady bearing without faltering. Mint green spirals wrap protectively around central pathways, creating a sense of secure holding throughout movement. Lavender tendrils provide underlying support, weaving beneath the main flows. Soft coral dots maintain regular spacing along the path, like footsteps in sustained journey. Circular forms nestle within flowing lines, held but not confined. All extremely soft pastels with strong horizontal continuity and supportive undertones. Horizontal format emphasizing sustained movement. Style: Abstract representation of continuous bearing through supportive, unbroken flowing patterns.",
   "grammatical_notes": "Functions as a transitive verb requiring a direct object - the thing being carried ('mia [object] kolua' - I carry [object]). Word order follows Phi's SOV pattern. Unlike 'phola' (bring), which implies movement toward a destination, 'kolua' emphasizes the sustained act of bearing throughout movement, regardless of direction. Can take directional complements with prepositions to indicate path or destination. The verb extends naturally to metaphorical uses - carrying memories, traditions, or responsibilities.",
   "pillars": {
     "secular-buddhist-philosophy": "Carrying teaches the practice of sustained mindfulness - maintaining awareness of our burden without becoming attached to setting it down. The continuous nature of carrying develops patience and presence, teaching us to be with what we bear rather than rushing toward relief. Each step while carrying becomes a meditation on acceptance and appropriate effort.",

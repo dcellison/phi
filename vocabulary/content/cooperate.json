@@ -2,12 +2,18 @@
   "word": "molawi",
   "gloss": "cooperate",
   "ipa": "/mo.ˈla.wi/",
-  "syllables": ["mo", "la", "wi"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "mo",
+    "la",
+    "wi"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Cooperate / To Flow Together",
   "description": "The practice of working together toward shared goals with coordinated, harmonious effort. It is the smooth interplay of different roles for a common purpose.",
   "sound_symbolism": "The word begins with 'mo', a sound of mutual exchange—lips coming together just as people come together. This flows through the liquid 'la', creating the smooth coordination of shared effort. The final 'wi' adds a sense of collective energy, like many hands working as one. This three-syllable dance—from mutual recognition through flowing action to unified purpose—embodies cooperation as both a practice and a joy. The sound rolls easily off the tongue, just as true cooperation makes difficult tasks feel effortless when shared.",
-  "image_prompt": "Art Nouveau watercolor: Distinct streams - coral, sage, apricot, sky blue - coordinate movements in synchronized dance. Streams adjust flows complementarily, creating stronger central current. Golden blooms mark perfect tandem. Spirals show support, parallel flows share load. All adjust as one body when paper tilts. Pearl splatters suggest harmonic joy. Style: Choreographed water ballet meets Art Nouveau flow patterns.",
   "grammatical_notes": "Functions as both verb and noun without morphological change, common in languages like Korean (hyeomnyeok 협력), Vietnamese (hợp tác), and Tagalog (pakikipagtulungan) where cooperative action and the concept of cooperation share the same form.",
   "pillars": {
     "peace-linguistics-practices": "Cooperation transforms potential competition into collaborative strength, creating conditions where diverse parties work together rather than against each other. This practice of finding common ground and coordinating efforts is fundamental to building peace - when we cooperate, we invest in shared success rather than zero-sum victories.",

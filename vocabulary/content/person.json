@@ -2,12 +2,17 @@
   "word": "miona",
   "gloss": "person",
   "ipa": "/mi.ˈo.na/",
-  "syllables": ["mi", "o", "na"],
-  "pos": ["noun"],
+  "syllables": [
+    "mi",
+    "o",
+    "na"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Person / A Centered, Grounded Whole",
   "description": "An individual human being, understood as a complete whole with inherent dignity and interconnection to all life. The term emphasizes personhood as both unique individuality and universal humanity.",
   "sound_symbolism": "The word begins with 'mi', the sound of individual identity resonating from within - a personal vibration that declares 'I am'. This opens through 'o' into the rounded wholeness of being, acknowledging the complete sphere of personhood. The final 'na' grounds this wholeness in connection, linking the individual to the web of all existence. Together, these sounds journey from inner self through complete being to interconnected presence, capturing the Buddhist understanding of personhood as both uniquely individual and universally connected.",
-  "image_prompt": "Art Nouveau watercolor in Mucha style: Centered form in palest gold radiating outward into soft lavender connections. Abstract spherical wholeness in powder blue and barely-there coral suggesting complete being without depicting figures. Transparent overlapping circles in cream and mint show individual essence within universal patterns. Delicate organic networks extend from center in whispers of peach. Gentle rose and silver create grounding presence. All extremely soft pastels. Wet-on-wet technique emphasizes both uniqueness and interconnection.",
   "grammatical_notes": "Functions exclusively as a noun across languages. Unlike English where 'person' can form compounds that seem verbal (e.g., 'to person the desk'), most languages maintain clear nominal status: Mandarin rén (人), Japanese hito (人), Hindi vyakti (व्यक्ति), Arabic shakhṣ (शخص). In Phi's analytical structure, verbal concepts of personhood would use separate verbs with 'miona' as subject or object.",
   "pillars": {
     "secular-buddhist-philosophy": "Personhood embodies the paradox of anatman (non-self) and individual experience - each person is a unique pattern of causes and conditions while lacking fixed, separate essence. This understanding cultivates both self-respect and humility, recognizing our temporary manifestation as conscious beings within the flowing river of existence.",

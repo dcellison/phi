@@ -2,12 +2,16 @@
   "word": "thinu",
   "gloss": "put",
   "ipa": "/ˈθi.nu/",
-  "syllables": ["thi", "nu"],
-  "pos": ["verb"],
+  "syllables": [
+    "thi",
+    "nu"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Put / Place / Position",
   "description": "The fundamental act of deliberately positioning something in a specific location, completing the transfer from hand to place. More than mere release or dropping, putting embodies intentional placement - the careful selection of where something belongs and the controlled action of establishing it there. It represents the completion of carrying or holding, the moment when objects find their rest through conscious positioning. In Phi's framework, putting emphasizes mindful arrangement and the creation of harmony through deliberate placement, where each act of putting is an opportunity to establish right relationship between object and space.",
   "sound_symbolism": "The word begins with 'thi', where the soft dental fricative 'th' creates a gentle, controlled sound like the careful approach of hand to surface, the whispered precision of deliberate placement. This soft fricative captures the care required in putting things where they belong. The high, tense 'i' that follows suggests the focused attention of precise positioning. The second syllable 'nu' provides completion through the nasal 'n', a sound that settles and grounds, while 'u' closes gently, suggesting the finality of release and the object coming to rest. Together, 'thinu' embodies the complete action of putting - the careful approach, the precise positioning, and the grounded completion of placement.",
-  "image_prompt": "Art Nouveau watercolor in Mucha style: Descending curves suggest gentle placement from above to resting position. Pale golden arcs flow downward, settling into horizontal pools of amber light. Translucent washes of powder blue and rose transition from vertical movement to horizontal rest, showing the journey from hand to surface. Mint green tendrils guide objects into nested positions, creating pockets of belonging. Lavender spirals slow and settle, their motion calming as they approach designated spots. Soft coral dots mark specific points of placement, like chosen locations waiting to receive. Circular forms find their places within organic borders, each settling into perfect fit. All extremely soft pastels with downward-to-horizontal movement patterns. Vertical format emphasizing the descent into position. Style: Abstract representation of deliberate placement through settling, nestling patterns.",
   "grammatical_notes": "Functions as a transitive verb requiring a direct object - the thing being placed ('mia [object] thinu' - I put [object]). Word order follows Phi's SOV pattern, with locative complements typically appearing before the verb. Frequently takes locative prepositions to specify where something is placed ('on', 'in', 'under', etc.). Unlike 'whenu' (carry) which describes sustained transport, 'thinu' describes the completed action of positioning. The verb doesn't distinguish between horizontal/vertical placement as some languages do, maintaining Phi's principle of essential simplicity.",
   "pillars": {
     "secular-buddhist-philosophy": "Each act of placing is a practice in mindfulness and right action. The deliberate positioning requires full attention to the present moment - where does this belong? how does it relate to its surroundings? The completion of placement also teaches letting go, as we release objects from our hands into their proper positions. This simple action becomes meditation on intention, attention, and non-attachment.",

@@ -2,12 +2,16 @@
   "word": "kelu",
   "gloss": "become",
   "ipa": "/ke.lu/",
-  "syllables": ["ke", "lu"],
-  "pos": ["verb"],
+  "syllables": [
+    "ke",
+    "lu"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Become / Transformation / Change",
   "description": "The fundamental verb of transformation and emergence, expressing the process of changing from one state to another. More than mere alteration, 'become' acknowledges the profound journey of transformation - the chrysalis moment where what was gives way to what is emerging. It speaks to both sudden revelations and gradual unfoldings, recognizing that becoming is not just reaching a destination but embracing the sacred process of change itself. In Phi, becoming is understood as the natural flow of existence, where all things continuously unfold into new forms.",
   "sound_symbolism": "The word begins with 'ke', where the crisp consonant 'k' creates a moment of opening - like a seed cracking or a door unlatching, the decisive moment when transformation begins. This opens into 'e', the bright vowel of expansion and possibility. Together 'ke' captures the precise instant of change initiating. This flows into 'lu', where the liquid 'l' suggests the fluidity of transformation itself - the graceful flow between what was and what emerges - while 'u' grounds this change in depth and wholeness. The progression from the sharp clarity of 'k' to the flowing 'l' mirrors the journey of becoming: first the decisive break with what was, then the fluid emergence into new form.",
-  "image_prompt": "Abstract Art Nouveau watercolor: Chrysalis forms emerge through wet-on-wet washes of jade melting into gold. A spiral of transformation unfolds from cool violet depths to warm coral heights, suggesting metamorphosis without depicting literal forms. Spontaneous bleeds create organic transitions where one color becomes another. Delicate veining in metallic copper traces the path of change. White paper remains visible as spaces of potential between states. Soft backruns in ochre and teal suggest the fluidity of transformation. Overall feeling: morning mist revealing new forms, the moment between caterpillar and butterfly.",
   "grammatical_notes": "Functions as an inchoative verb expressing change of state, transformation, and emergence into new forms. Unlike English, does not require a copular structure - takes complements directly. Cross-linguistically similar to: Japanese 'naru' (なる) which marks transformation with the ni particle; Mandarin 'biànchéng' (變成) combining change + accomplish; Spanish's tripartite system distinguishing permanent (volverse), achieved (hacerse), and temporary (ponerse) becoming; German 'werden' serving both transformation and future marking; Arabic 'aṣbaḥa' (أصبح) using morning as metaphor for emergence. Takes result states as direct complements: 'mia kelu tenu' (I become tree/tree-like), capturing both literal and metaphorical transformations.",
   "pillars": {
     "secular-buddhist-philosophy": "Becoming embodies the Buddhist principle of anicca (impermanence) - the recognition that all phenomena are in constant flux. Nothing remains static; existence is process, not stasis. 'Kelu' grammaticalizes the understanding that we are not fixed beings but continuous becomings, arising through dependent origination and transforming moment by moment.",
