@@ -1,0 +1,19 @@
+{
+  "word": "shekoi",
+  "gloss": "SPEC",
+  "ipa": "/ʃe.ko.i/",
+  "syllables": ["she", "ko", "i"],
+  "pos": ["discourse"],
+  "concept": "Specifically / In Particular / To Be Precise",
+  "description": "A discourse marker that narrows focus from general to particular, signaling that what follows specifies, clarifies, or singles out one instance from a broader category. 'Shekoi' is the grammar of zooming in—moving from the wide view to the telling detail, from principle to example, from category to member.",
+  "sound_symbolism": "The word begins with 'sh' /ʃ/, the signifying fricative shared with other discourse markers, establishing its role in structuring meaning. This soft opening moves through 'e' to 'ko', where the velar stop 'k' creates a clear pointing gesture—the tongue touching the back of the mouth to indicate direction. Finally, 'i' focuses to the highest, narrowest vowel, the acoustic equivalent of pointing to a single spot. Speaking 'shekoi' enacts narrowing: from soft signification through clear pointing to precise focus.",
+  "grammatical_notes": "As a discourse marker, appears sentence-initially to signal that what follows narrows or specifies the preceding general statement. Positioned after Slot 0 particles but before the subject. Often used after broad claims to provide the particular instance that illustrates or qualifies them. Distinguished from 'phisu' (for example) which introduces illustrations without necessarily narrowing—'shekoi' implies 'this one in particular' while 'phisu' implies 'such as this among others.'",
+  "pillars": {
+    "secular-buddhist-philosophy": "Wisdom requires both the general and the particular—principles mean nothing without specific application. 'Shekoi' supports this practice of grounding abstraction in concrete instance, preventing understanding from floating free of reality.",
+    "peace-linguistics-practices": "Vague accusations harm; specific observations help. 'Shekoi' supports constructive dialogue by providing language for moving from general concern to particular instance, enabling addressable rather than diffuse communication.",
+    "pre-industrial-wisdom": "Traditional knowledge moves constantly between general principle and specific application—the general shape of the season, the specific field to plant today. 'Shekoi' serves this practice of particularizing general wisdom."
+  },
+  "tags": {
+    "dialogue": "structures discourse by narrowing focus to particulars"
+  }
+}
