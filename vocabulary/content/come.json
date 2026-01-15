@@ -2,8 +2,13 @@
   "word": "shua",
   "gloss": "come",
   "ipa": "/ˈʃu.a/",
-  "syllables": ["shu", "a"],
-  "pos": ["verb"],
+  "syllables": [
+    "shu",
+    "a"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Come / Arrive / Move Toward",
   "description": "The fundamental act of movement toward a reference point, whether toward the speaker, the home, or a destination. More than simple approach, coming embodies the sacred act of arrival - the closing of distance, the establishment of presence, and the fulfillment of journey. It represents both the physical drawing near and the metaphorical convergence of paths, possibilities, and people. Coming is the answer to invitation, the response to welcome, the completion of separation through the courage to approach and arrive.",
   "sound_symbolism": "The word begins with 'shu', where the fricative 'sh' creates a soft rushing sound like something approaching - wind through grass announcing arrival, fabric rustling as someone draws near. The 'u' keeps the sound contained and forward-moving, focused like the path of approach. This focused movement then opens into 'a' through vowel hiatus, the mouth and breath opening in welcome, in recognition, in the moment of arrival. The two-syllable structure keeps the word fundamental and quick, while the fricative beginning and vowel hiatus ending give it Phi's distinctive flowing rhythm. 'Shua' is approach made audible - the whisper becoming presence.",
@@ -14,9 +19,8 @@
     "pre-industrial-wisdom": "Traditional cultures understand arrival as sacred, with elaborate customs of hospitality defining the relationship between those who come and those who receive. The one who comes accepts vulnerability; the one who receives accepts responsibility. This guest-host reciprocity, found across cultures, recognizes that coming creates bonds that outlast the visit itself."
   },
   "tags": {
-    "movement": "fundamental verb of approach and arrival",
-    "action": "basic act of moving toward a reference point",
-    "space": "involves closing distance and establishing presence",
-    "connection": "creates proximity and enables interaction"
+    "spatial": "fundamental verb of approach and arrival, closing distance",
+    "activity": "basic human action of moving toward a reference point",
+    "community": "creates proximity and enables interaction and connection"
   }
 }

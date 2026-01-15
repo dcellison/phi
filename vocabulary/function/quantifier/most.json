@@ -2,8 +2,14 @@
   "word": "shelami",
   "gloss": "MOST",
   "ipa": "/ʃe.la.mi/",
-  "syllables": ["she", "la", "mi"],
-  "pos": ["quantifier"],
+  "syllables": [
+    "she",
+    "la",
+    "mi"
+  ],
+  "pos": [
+    "quantifier"
+  ],
   "concept": "Most / Majority / Greater Part",
   "description": "The quantifier expressing the larger portion of a whole—more than half but explicitly not all. 'Shelami' acknowledges that majorities matter for collective decisions and practical planning, while its distinction from 'theula' (all) preserves space for dissent and exception. This is the grammar of democratic thinking: the greater part speaks, but does not erase the remainder.",
   "sound_symbolism": "The word begins with 'she' /ʃe/, the same soft fricative opening as its sibling 'sheloi' (many), establishing kinship in the realm of large quantities. The liquid 'la' follows, gathering and flowing as portions accumulate past the halfway mark. Finally, 'mi' closes with the same sound as the superlative particle—not coincidentally, for 'most' names the greater portion, the superlative share. Speaking 'shelami' enacts the gathering of majority: spreading abundance, flowing together, arriving at predominance.",
@@ -13,9 +19,5 @@
     "peace-linguistics-practices": "By distinguishing 'most' from 'all,' Phi builds grammatical protection for minorities. 'Shelami' acknowledges predominant views while linguistically preserving space for those who differ—the language itself resists the tyranny of unanimity.",
     "pre-industrial-wisdom": "Traditional councils often sought consensus but recognized that perfect agreement is rare. 'Shelami' serves the practical wisdom of acting on majority understanding while remaining open to dissenting voices that may prove prophetic.",
     "solarpunk-values": "Collective decision-making requires acknowledging majorities without erasing minorities. 'Shelami' supports the democratic processes that regenerative communities need—honoring what most want while protecting space for alternative visions."
-  },
-  "tags": {
-    "cognition": "expresses proportional quantity relative to a whole",
-    "community": "relates to collective decision-making and group dynamics"
   }
 }

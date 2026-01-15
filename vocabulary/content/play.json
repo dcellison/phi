@@ -2,8 +2,14 @@
   "word": "wile",
   "gloss": "play",
   "ipa": "/wi.le/",
-  "syllables": ["wi", "le"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "wi",
+    "le"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Play / Engage in Recreation / Act Without Serious Purpose",
   "description": "To engage in activity for enjoyment rather than necessity—games, make-believe, spontaneous movement, creative exploration without stakes. 'Wile' names the essential lightness that balances serious effort, the space where learning happens through pleasure and where spirit refreshes itself.",
   "sound_symbolism": "The word is light and quick like play itself. 'Wi' begins with soft glide, movement easy and free. Then 'le' lifts with liquid release, the weight of seriousness set aside.",
@@ -14,6 +20,7 @@
   },
   "tags": {
     "emotion": "Experiencing lightness and joy",
-    "creation": "Exploring without stakes"
+    "creation": "Exploring without stakes",
+    "activity": "fundamental human activity of playing"
   }
 }

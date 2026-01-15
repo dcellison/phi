@@ -2,8 +2,14 @@
   "word": "meliho",
   "gloss": "sing",
   "ipa": "/me.li.ho/",
-  "syllables": ["me", "li", "ho"],
-  "pos": ["verb"],
+  "syllables": [
+    "me",
+    "li",
+    "ho"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Sing / Produce Melody with Voice / Express Through Song",
   "description": "To produce musical sounds with the voice—melody, harmony, rhythm shaped by breath and vocal cords into beauty that enters the ear and touches the heart. 'Meliho' names the transformation of breath into song, the voice's capacity to carry emotion beyond speech.",
   "sound_symbolism": "The word rises like song itself. 'Me' begins with nasal melody, the humming that precedes words. Then 'li' lifts with liquid brightness, the voice ascending. Finally 'ho' breathes out with open release, song given to the air.",
@@ -14,6 +20,7 @@
   },
   "tags": {
     "creation": "Musical vocal expression",
-    "community": "Shared singing traditions"
+    "community": "Shared singing traditions",
+    "activity": "fundamental human activity of singing"
   }
 }

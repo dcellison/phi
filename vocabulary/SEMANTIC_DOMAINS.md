@@ -20,6 +20,7 @@ Each content word in Phi can be tagged with one or more semantic domains. These 
 10. **ritual** - ceremony, tradition, sacred practices
 11. **cognition** - mental processes, thinking, reasoning
 12. **spatial** - location, movement, direction
+13. **activity** - actions, verbs of doing, basic human activities
 
 ## Detailed Domain Descriptions
 
@@ -37,9 +38,9 @@ This domain encompasses words related to the natural world, including landscapes
 This domain encompasses words related to social bonds, kinship, collective activities, and the web of relationships that form human communities.
 
 **Philosophical Connections:**
-- **Ubuntu Philosophy**: Community words in Phi embody the Ubuntu principle of "I am because we are." These terms recognize that individual identity emerges through relationships and that personhood is inherently relational rather than individualistic.
 - **Peace Linguistics Practices**: This domain supports non-violent communication by providing vocabulary that emphasizes connection, mutual support, and collaborative problem-solving rather than hierarchy or conflict.
-- **Linguistic Minimalism**: Rather than elaborate kinship systems or social hierarchies, Phi's community vocabulary focuses on essential relationships and roles that foster genuine connection.
+- **Pre-Industrial Wisdom**: Traditional societies understood community as the essential context for human flourishing—not optional association but the natural unit of survival and meaning-making.
+- **Solarpunk Values**: Community forms the foundation of resilient futures—networks of mutual aid, collective decision-making, and shared resources that create alternatives to extractive individualism.
 
 **Worldview**: In Phi, community is the foundation of human experience. These words reflect a worldview where relationships are primary and individual achievement is meaningful only within the context of collective wellbeing. The vocabulary emphasizes reciprocity, interdependence, and the joy found in shared experience.
 
@@ -68,10 +69,9 @@ This domain encompasses words related to speaking, listening, understanding, and
 
 **Philosophical Connections:**
 - **Peace Linguistics Practices**: Dialogue words in Phi embody principles of non-violent communication, active listening, and expression that seeks understanding rather than dominance. These terms support genuine dialogue across differences.
-- **Linguistic Minimalism**: This domain demonstrates that rich communication emerges not from elaborate vocabulary but from mindful use of essential expressions that honor both speaker and listener.
-- **Ubuntu Philosophy**: Communication in Phi recognizes that meaning emerges between people, not within individuals. These words support the co-creation of understanding through respectful exchange.
+- **Pre-Industrial Wisdom**: Oral traditions preserved knowledge through careful speech and attentive listening. This domain honors the understanding that words carry weight and that communication is a sacred responsibility.
 
-**Worldview**: In Phi, communication is a collaborative art where meaning is woven between participants. These words reflect a worldview where listening is as valued as speaking, silence carries meaning, and true dialogue transforms all participants. The vocabulary emphasizes connection over correctness, understanding over agreement.
+**Worldview**: In Phi, communication is a collaborative art where meaning is woven between participants. These words reflect a worldview where listening is as valued as speaking, silence carries meaning, and true dialogue transforms all participants.
 
 ### Temporal
 This domain encompasses words related to temporal concepts, transformation, cycles, and the dynamic nature of existence.
@@ -82,6 +82,72 @@ This domain encompasses words related to temporal concepts, transformation, cycl
 - **Solarpunk Values**: Change vocabulary supports adaptive resilience and the understanding that transformation can be regenerative rather than destructive when approached mindfully.
 
 **Worldview**: In Phi, time is experienced as flow rather than segmentation, and change is the constant that connects all experience. These words reflect a worldview where transformation is natural and necessary, where endings enable beginnings, and where the present moment contains both memory and possibility.
+
+### Activity
+This domain encompasses words related to actions, doing, and the fundamental activities that make up human life—walking, eating, sleeping, working, playing.
+
+**Philosophical Connections:**
+- **Secular Buddhist Philosophy**: Activity words in Phi reflect the Buddhist understanding that mindful action is itself a form of practice. Every activity, from walking to breathing, can become an opportunity for presence and awareness.
+- **Pre-Industrial Wisdom**: This domain honors the rhythms of daily life that have characterized human existence across cultures—the universal activities of sustenance, rest, movement, and labor that connect us to our ancestors.
+- **Solarpunk Values**: Activity vocabulary supports a vision of meaningful work and sustainable living, where human activities are integrated with natural rhythms rather than alienated from them.
+
+**Worldview**: In Phi, activities are not merely instrumental means to ends but meaningful practices in themselves. These words reflect a worldview where how we do things matters as much as what we accomplish, where daily activities are opportunities for mindfulness, and where the rhythms of human life deserve linguistic recognition.
+
+### Aesthetic
+This domain encompasses words related to beauty, harmony, sensory appreciation, and the qualities that evoke feelings of wonder, pleasure, and artistic response.
+
+**Philosophical Connections:**
+- **Art Nouveau Aesthetics**: Aesthetic words in Phi embody the movement's belief that beauty is essential to human flourishing, not mere luxury. These terms reflect the principle that beautiful objects and experiences nourish the spirit and should be accessible to all.
+- **Pre-Industrial Wisdom**: This domain preserves traditional understandings of beauty as harmony with natural patterns, proportion found in organic forms, and the aesthetic satisfaction of well-crafted things made to last.
+
+**Worldview**: In Phi, aesthetic experience is not separate from practical life but woven through it. These words reflect a worldview where beauty serves function, where sensory delight is a form of knowledge, and where cultivating aesthetic sensitivity is part of living well.
+
+### Emotion
+This domain encompasses words related to feeling states, emotional experiences, and the inner landscape of affective response that colors all human experience.
+
+**Philosophical Connections:**
+- **Secular Buddhist Philosophy**: Emotion words in Phi reflect the Buddhist approach of observing feeling states with equanimity—neither suppressing nor being overwhelmed by them. These terms support emotional literacy and the skillful navigation of inner experience.
+- **Peace Linguistics Practices**: This domain supports non-violent communication by providing vocabulary for expressing needs and feelings clearly, enabling speakers to communicate vulnerability without aggression.
+
+**Worldview**: In Phi, emotions are neither problems to be solved nor indulgences to be pursued, but natural aspects of conscious experience that deserve acknowledgment and skillful engagement. These words reflect a worldview where emotional expression is valued and where feeling states provide important information.
+
+### Physical
+This domain encompasses words related to bodily experiences, tangible qualities, material properties, and the embodied dimension of human existence.
+
+**Philosophical Connections:**
+- **Pre-Industrial Wisdom**: Physical words in Phi honor embodied knowledge—the wisdom held in skilled hands, the understanding that comes through physical practice, and the material world as teacher.
+- **Secular Buddhist Philosophy**: This domain reflects the Buddhist emphasis on the body as a site of mindfulness practice. Physical sensations anchor awareness in present experience, and bodily wisdom complements conceptual understanding.
+- **Solarpunk Values**: Physical vocabulary supports connection to material reality—understanding where things come from, how they are made, and the tangible qualities that make sustainable living possible.
+
+**Worldview**: In Phi, the physical world is not inferior to the mental or spiritual but is the ground of all experience. These words reflect a worldview where embodiment is honored, where material qualities deserve careful attention, and where wisdom includes knowing how to work with physical reality. The vocabulary emphasizes presence to bodily experience and respect for the material world.
+
+### Ritual
+This domain encompasses words related to ceremony, tradition, sacred practices, and the meaningful patterns that mark transitions and create shared experience.
+
+**Philosophical Connections:**
+- **Pre-Industrial Wisdom**: Ritual words in Phi preserve understanding of how ceremonies create meaning, how repeated practices transmit values across generations, and how sacred time differs from ordinary time.
+- **Secular Buddhist Philosophy**: This domain reflects the understanding that ritual practice can support mindfulness—repeated forms create containers for attention and can transform ordinary actions into sacred ones.
+
+**Worldview**: In Phi, rituals are not empty formalities but technologies of meaning-making that humans have developed across cultures. These words reflect a worldview where marking transitions matters, where repeated practices carry wisdom, and where sacred time creates space for reflection and renewal.
+
+### Cognition
+This domain encompasses words related to mental processes, thinking, reasoning, perception, and the activities of consciousness that enable understanding.
+
+**Philosophical Connections:**
+- **Secular Buddhist Philosophy**: Cognition words in Phi reflect the Buddhist analysis of mental states and processes—not as fixed properties but as arising phenomena that can be observed and understood through mindful attention.
+- **Pre-Industrial Wisdom**: This domain honors diverse ways of knowing beyond abstract reasoning, including intuition, pattern recognition, and the cognitive capacities developed through practical engagement with the world.
+
+**Worldview**: In Phi, cognition is understood as one mode of knowing among many, valuable but not superior to embodied or emotional intelligence. These words reflect a worldview where thinking is a tool to be used skillfully and where different cognitive styles are respected.
+
+### Spatial
+This domain encompasses words related to location, movement, direction, place, and the experience of navigating through and relating to space.
+
+**Philosophical Connections:**
+- **Pre-Industrial Wisdom**: Spatial words in Phi reflect traditional understandings of place as meaningful—landscapes that carry stories, directions that hold significance, and locations that anchor identity and belonging.
+- **Solarpunk Values**: This domain supports ecological awareness by providing vocabulary for understanding how humans inhabit, move through, and relate to the spaces they occupy—essential for sustainable land use and conscious dwelling.
+- **Art Nouveau Aesthetics**: Spatial vocabulary reflects the movement's attention to how spaces feel, how movement flows through environments, and how the organization of space affects human experience.
+
+**Worldview**: In Phi, space is not neutral emptiness but a dimension of experience rich with meaning. These words reflect a worldview where places matter, where movement is purposeful, and where the relationship between beings and their environments is one of mutual shaping. The vocabulary emphasizes presence to place and mindful movement through the world.
 
 ## Usage Guidelines
 

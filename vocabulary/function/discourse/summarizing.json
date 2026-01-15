@@ -2,8 +2,14 @@
   "word": "shelao",
   "gloss": "SUMM",
   "ipa": "/ʃe.la.o/",
-  "syllables": ["she", "la", "o"],
-  "pos": ["discourse"],
+  "syllables": [
+    "she",
+    "la",
+    "o"
+  ],
+  "pos": [
+    "discourse"
+  ],
   "concept": "In Summary / To Conclude / In Short",
   "description": "A discourse marker signaling that what follows gathers and distills what has come before. 'Shelao' announces the transition from elaboration to essence, from many threads to their weaving together. It prepares the listener for synthesis rather than new information, for the crystallization of understanding from the solution of prior discourse.",
   "sound_symbolism": "The word begins with 'sh' /ʃ/, the fricative of signification that appears in words of meaning-making and expression. This hush-like opening calls attention, preparing listeners for something essential. The liquid 'la' follows, gathering and flowing like streams converging—the many becoming one. Finally, 'o' completes with its round fullness, the sound of wholeness and completion. Speaking 'shelao' enacts the very gesture of summarizing: drawing attention, gathering together, arriving at completeness. The word echoes its sibling 'thelao' (consequently), marking them both as discourse connectors through shared CV.la.o structure.",
@@ -12,8 +18,5 @@
     "secular-buddhist-philosophy": "Summarizing is a practice of discernment—separating the essential from the elaborative, the heart from the flourishes. 'Shelao' marks this mindful act of distillation, recognizing that wisdom often lies in condensation rather than expansion.",
     "peace-linguistics-practices": "By explicitly marking transitions to summary, 'shelao' supports clear communication and shared understanding. Listeners know to shift from detail-gathering to synthesis, reducing misunderstanding about whether new information or consolidation follows.",
     "pre-industrial-wisdom": "Oral traditions require skilled summarizing—the elder who can distill a long teaching into its memorable essence. 'Shelao' serves this practice of crystallizing wisdom for transmission across generations."
-  },
-  "tags": {
-    "dialogue": "structures discourse flow and signals consolidation"
   }
 }

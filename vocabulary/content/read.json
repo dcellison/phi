@@ -2,8 +2,13 @@
   "word": "theo",
   "gloss": "read",
   "ipa": "/θe.o/",
-  "syllables": ["the", "o"],
-  "pos": ["verb"],
+  "syllables": [
+    "the",
+    "o"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Read / Decode wisdom / Receive written voice",
   "description": "The act of transforming written symbols into meaning, bridging the gap between another's thoughts and one's own understanding. More than mechanical decoding, 'read' in Phi encompasses the sacred reception of knowledge preserved across time and space—hearing the silent voice of absent teachers, entering communion with minds separated by distance or death. It represents literacy as liberation, the democratic access to wisdom that was once guarded by elites, and the profound intimacy of receiving another's carefully chosen words directly into consciousness.",
   "sound_symbolism": "The word begins with 'the', where the thoughtful fricative 'θ' captures the contemplative act of decoding meaning—the careful consideration required to transform symbols into understanding—meeting 'e', the balanced vowel of measured comprehension. This flows through hiatus into 'o', the round vowel of wholeness and completed understanding. Together, 'theo' creates reading's essence: thoughtful decoding ('the'), complete reception ('o')—the mind's gentle transformation of written marks into living wisdom.",
@@ -16,6 +21,6 @@
   },
   "tags": {
     "cognition": "fundamentally a cognitive process of decoding and comprehension",
-    "communication": "receptive communication receiving encoded messages from another consciousness"
+    "dialogue": "receptive communication receiving encoded messages from another consciousness"
   }
 }

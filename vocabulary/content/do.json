@@ -2,8 +2,13 @@
   "word": "phoa",
   "gloss": "do",
   "ipa": "/ɸo.a/",
-  "syllables": ["pho", "a"],
-  "pos": ["verb"],
+  "syllables": [
+    "pho",
+    "a"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Do / Act / Perform",
   "description": "The fundamental verb of general action and performance, expressing the act of carrying out, executing, or engaging in activity. Unlike 'make' which creates something new, 'do' encompasses the performance of tasks, the execution of plans, and the carrying out of activities. It speaks to human agency in its most basic form - the ability to act intentionally in the world. In Phi, doing is understood as mindful action, where even routine tasks become opportunities for present awareness. The word acknowledges that through our actions, however small, we participate in the ongoing dance of cause and effect, each deed contributing to the larger pattern of existence.",
   "sound_symbolism": "The word begins with 'pho', where the aspirated 'ph' releases breath into action - the exhale that accompanies effort, the breath that powers movement. This energetic release flows into the open 'o', creating space for action to unfold. The hiatus between 'o' and 'a' creates a moment of conscious transition, like the pause between intention and execution. The final 'a' opens wide, embracing the full scope of possible actions. The whole word breathes with the rhythm of doing: 'pho' initiates with purposeful breath, the vowel sequence 'o.a' maintains the flow of continuous action. It sounds like someone beginning a task - first the gathering breath, then the sustained engagement.",
@@ -14,6 +19,7 @@
     "solarpunk-values": "Doing embodies the solarpunk ethos of active engagement rather than passive hope. It represents the practical work of building regenerative systems, the daily actions that accumulate into systemic change. 'Phoa' carries the understanding that sustainable futures are built through countless intentional actions, each deed contributing to collective transformation."
   },
   "tags": {
-    "physical": "performing actions and activities"
+    "physical": "performing actions and activities",
+    "activity": "fundamental human activity of doing"
   }
 }

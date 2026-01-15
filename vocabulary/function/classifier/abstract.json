@@ -2,8 +2,13 @@
   "word": "nophe",
   "gloss": "ABST.CLF",
   "ipa": "/no.φe/",
-  "syllables": ["no", "phe"],
-  "pos": ["classifier"],
+  "syllables": [
+    "no",
+    "phe"
+  ],
+  "pos": [
+    "classifier"
+  ],
   "concept": "Abstract concept classifier / Idea acknowledger / Intangible marker",
   "description": "The classifier used for abstract concepts—ideas, stories, emotions, principles, and other intangible phenomena. When 'nophe' appears between a number and an abstract noun, it acknowledges these mental and conceptual entities as real and worthy of enumeration, despite lacking physical form. This classifier embodies Phi's recognition that the world of ideas and feelings is as significant as the material world, deserving equal linguistic acknowledgment.",
   "sound_symbolism": "The word begins with 'no', where the grounding nasal 'n' represents the mind's inner resonance—thoughts vibrating within consciousness—opening to 'o', the round vowel of wholeness and contemplation. This transitions to 'phe', where the breathy fricative 'φ' captures the ethereal nature of ideas, like thoughts exhaled into shared space, meeting 'e', the clear vowel of focused awareness. Together, 'nophe' creates the sound of abstraction itself: internal contemplation ('no') breathed into conceptual existence ('phe')—the mind giving form to the formless.",
@@ -13,10 +18,5 @@
     "secular-buddhist-philosophy": "The recognition of abstract concepts as countable entities reflects the Buddhist understanding that mental phenomena are as real as physical ones. 'Nophe' embodies the principle that thoughts, emotions, and concepts arise, persist, and pass away just like material objects—making the impermanence of mental states linguistically visible.",
     "peace-linguistics": "By providing a classifier for abstract concepts, Phi validates emotional and intellectual experiences as legitimate subjects of discussion. This supports non-violent communication by encouraging speakers to acknowledge and enumerate feelings, ideas, and principles rather than dismissing them as 'just thoughts.'",
     "art-nouveau": "The movement's synthesis of idea and form, where abstract concepts manifest in flowing visual patterns, aligns with 'nophe's' role in giving linguistic form to the formless. Just as Art Nouveau made visible the invisible forces of nature, this classifier makes countable the uncountable realm of thought."
-  },
-  "tags": {
-    "cognition": "fundamentally about the cognitive realm and conceptualization of abstract entities",
-    "emotion": "applies to emotional states and feelings as abstract concepts",
-    "grammar": "functions as a classifier structuring enumeration of abstract concepts"
   }
 }

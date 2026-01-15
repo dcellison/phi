@@ -2,8 +2,14 @@
   "word": "thalo",
   "gloss": "walk",
   "ipa": "/ˈθa.lo/",
-  "syllables": ["tha", "lo"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "tha",
+    "lo"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Walk / Mindful Journey on Foot",
   "description": "The fundamental human act of bipedal locomotion, where alternating steps create forward movement through space. More than mere transportation, walking represents humanity's most ancient and sustainable form of travel - a rhythmic dialogue between body and earth where each footfall connects us to the ground beneath. It is simultaneously meditation in motion, gentle exploration of the world, and the peaceful assertion of our freedom to move through space at our own chosen pace.",
   "sound_symbolism": "The word begins with 'tha', where the dental fricative 'th' creates a soft, continuous flow like feet brushing against earth - neither harsh impact nor complete separation, but the gentle friction of movement. This whispered beginning meets 'a', open and grounded like the stable stance between steps. The second syllable 'lo' flows liquid and continuous, the 'l' rolling forward like the perpetual motion of walking, while 'o' rounds out each step's completion. Together, 'thalo' creates a two-beat rhythm that mirrors the alternating footfalls of walking itself - soft contact, flowing continuation, the endless rhythm of human locomotion.",
@@ -15,9 +21,8 @@
     "solarpunk-values": "Walking as sustainable transportation aligns with solarpunk's vision of human-scale, car-free cities, though the connection is somewhat general - walking predates and transcends any specific environmental movement. Still, choosing to walk in our modern context is indeed a small act of resistance against fossil fuel dependence and a vote for walkable, community-oriented urban design."
   },
   "tags": {
-    "movement": "walking is the fundamental form of human locomotion",
-    "body": "requires coordinated use of legs, feet, and balance",
-    "action": "one of the most basic human activities",
-    "space": "enables traversal of distance and exploration of place"
+    "spatial": "enables traversal of distance and exploration of place",
+    "activity": "fundamental form of human locomotion",
+    "physical": "requires coordinated use of legs, feet, and balance"
   }
 }

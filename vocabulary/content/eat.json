@@ -2,8 +2,14 @@
   "word": "nuola",
   "gloss": "eat",
   "ipa": "/nu.o.la/",
-  "syllables": ["nu", "o", "la"],
-  "pos": ["verb"],
+  "syllables": [
+    "nu",
+    "o",
+    "la"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Eat / Nourish-Receive / The Taking-In",
   "description": "The verb naming the act of receiving nourishment into the body, the transformation of outer world into inner sustenance. In Phi, eating is understood as a sacred exchange between self and world—we become what we consume, and what we consume becomes us. This word carries awareness of the gift of nourishment and the responsibility of mindful consumption.",
   "sound_symbolism": "The word opens with 'nu', where the nasal grounds in bodily presence while 'u' creates the cupping, receiving shape of mouth and belly. This opens through 'o', the round fullness of satisfaction, before settling into 'la', where the liquid flows nourishment throughout the body. The arc traces eating's essence: grounded receiving, fullness, distribution.",
@@ -14,6 +20,7 @@
   },
   "tags": {
     "physical": "the bodily act of taking nourishment",
-    "ritual": "the mindful practice of receiving food"
+    "ritual": "the mindful practice of receiving food",
+    "activity": "fundamental human activity of eating"
   }
 }

@@ -2,8 +2,13 @@
   "word": "melu",
   "gloss": "friend",
   "ipa": "/me.lu/",
-  "syllables": ["me", "lu"],
-  "pos": ["noun"],
+  "syllables": [
+    "me",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Friend / Companion / Heart-connected other",
   "description": "A person with whom one shares mutual affection, trust, and chosen connection beyond mere acquaintance. More than proximity or shared activity, 'friend' in Phi emphasizes the voluntary nature of the bond—a relationship maintained through mutual care rather than obligation or circumstance. This concept bridges the individual and collective, representing how autonomous beings choose to weave their paths together, creating intimate community at the smallest scale.",
   "sound_symbolism": "The word begins with 'me', where the nurturing nasal 'm' suggests the warmth of human connection—like arms embracing—meeting 'e', the balanced mid vowel of equality and mutual regard between peers. This flows into 'lu', where the liquid 'l' creates a bridge of connection, opening to 'u', the deep vowel of grounding and lasting bonds. Together, 'melu' creates the sound of friendship itself: warm equality ('me') flowing into deep connection ('lu')—two beings choosing to root their lives together while maintaining their individual wholeness.",
@@ -15,8 +20,7 @@
     "solarpunk-values": "Friendship forms the foundation of resilient communities—networks of mutual aid that exist outside institutional structures. In solarpunk futures, friendships create the informal support systems that help communities thrive. 'Melu' represents these chosen bonds that weave the social fabric of regenerative culture."
   },
   "tags": {
-    "social": "fundamentally a social relationship of voluntary interpersonal connection",
-    "emotion": "inherently involves emotional bonds of affection, care, and concern",
-    "person": "specifically human relationships distinct from other connections"
+    "community": "fundamentally a social relationship of voluntary interpersonal connection",
+    "emotion": "inherently involves emotional bonds of affection, care, and concern"
   }
 }

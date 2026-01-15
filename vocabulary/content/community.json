@@ -2,8 +2,13 @@
   "word": "sila",
   "gloss": "community",
   "ipa": "/si.la/",
-  "syllables": ["si", "la"],
-  "pos": ["noun"],
+  "syllables": [
+    "si",
+    "la"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Community / Living collective / Interwoven whole",
   "description": "A group of beings bound together by shared place, purpose, values, or circumstance, forming a living system greater than its individual members. More than mere proximity or association, 'community' in Phi emphasizes the web of reciprocal relationships where individual wellbeing and collective flourishing are inseparable. This concept represents the middle scale of human organization—larger than family, smaller than society—where face-to-face relationships create mutual responsibility and shared identity.",
   "sound_symbolism": "The word begins with 'si', where the soft sibilant 's' suggests the continuous flow of social energy—like streams converging—meeting 'i', the bright vowel of collective awareness and shared vision. This flows into 'la', where the liquid 'l' creates pathways of connection, opening to 'a', the most fundamental vowel of existence and presence. Together, 'sila' creates the sound of community itself: flowing awareness ('si') becoming shared paths ('la')—individual streams joining to form a river of collective life.",
@@ -15,7 +20,6 @@
     "secular-buddhist-philosophy": "The Sangha (community) forms one of Buddhism's Three Jewels, recognizing that awakening happens in relationship, not isolation. 'Sila' reflects the understanding that spiritual development requires the mirror of community—others who challenge, support, and witness our growth toward wisdom and compassion."
   },
   "tags": {
-    "social": "fundamentally about social relationships and collective organization",
-    "collective": "by definition a collective entity transcending individual members"
+    "community": "fundamentally about social relationships and collective organization"
   }
 }

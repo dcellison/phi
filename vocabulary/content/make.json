@@ -2,8 +2,13 @@
   "word": "whea",
   "gloss": "make",
   "ipa": "/ʍe.a/",
-  "syllables": ["whe", "a"],
-  "pos": ["verb"],
+  "syllables": [
+    "whe",
+    "a"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Make / Create / Craft",
   "description": "The fundamental verb of creation and crafting, expressing the act of bringing something new into existence through intentional effort and skill. Unlike 'do' which performs actions, 'make' transforms materials, ideas, or situations into new forms. It encompasses both physical crafting and abstract creation - making objects, making peace, making meaning. In Phi, making is understood as participation in the ongoing creation of the world, where human creativity works in harmony with natural patterns. The word acknowledges that to make is to take responsibility for what we bring into being, understanding that our creations outlive the moment of their making and become part of the world's fabric.",
   "sound_symbolism": "The word begins with 'whe', where the breathy fricative 'wh' whispers into being like the first breath of inspiration, the gentle force that sets creation in motion. This soft whoosh of creative energy meets 'e', the bright vowel of emergence and possibility. The hiatus between 'e' and 'a' creates a moment of transformation - the pause where potential becomes actual, where idea becomes form. The final 'a' opens fully to receive what has been made, embracing the completed creation. The whole word flows like the creative process itself: 'whe' breathes life into material, the vowel sequence 'e.a' sustains the transformation from vision to reality. It sounds like wind shaping sand, breath becoming song.",
@@ -16,6 +21,7 @@
   },
   "tags": {
     "creation": "bringing new forms into existence",
-    "physical": "transforming materials through action"
+    "physical": "transforming materials through action",
+    "activity": "fundamental human activity of makeing"
   }
 }

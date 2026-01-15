@@ -2,8 +2,13 @@
   "word": "mawha",
   "gloss": "NONE",
   "ipa": "/ma.ʍa/",
-  "syllables": ["ma", "wha"],
-  "pos": ["quantifier"],
+  "syllables": [
+    "ma",
+    "wha"
+  ],
+  "pos": [
+    "quantifier"
+  ],
   "concept": "None / Zero Quantity / Absence of Countable Things",
   "description": "The quantifier expressing complete absence of quantity—not one, not any. 'Mawha' marks the boundary where counting becomes meaningless because there is nothing to count. Yet this is not mere negation; it is the positive recognition of emptiness, the acknowledgment that absence itself is a state worthy of naming. 'Mawha' speaks to the space where things could be but are not, making visible the shape of what is missing.",
   "sound_symbolism": "The word begins with 'ma', grounding in the nasal that often suggests inwardness and containment—but here containing nothing. The open 'a' creates space, an empty vessel. Then 'wha' /ʍa/ breathes out in the softest fricative, the voiceless labial-velar that is more breath than sound, almost silence made audible. The final 'a' opens again into emptiness. Together, 'mawha' sounds like a gentle exhalation into space—the acoustic form of zero.",
@@ -12,9 +17,5 @@
     "secular-buddhist-philosophy": "Sunyata (emptiness) teaches that absence is not mere nothing but a profound state of potentiality. 'Mawha' names zero not as lack but as presence of emptiness—the space from which things arise and to which they return.",
     "pre-industrial-wisdom": "Traditional knowledge recognizes fallow fields, empty seasons, quiet times as necessary parts of cycles. 'Mawha' carries the wisdom that zero is a natural state, not a failure.",
     "peace-linguistics-practices": "Having a gentle, non-aggressive word for absence reduces the anxiety around emptiness. 'Mawha' allows speakers to acknowledge 'none' without the sharp negation that can feel like rejection."
-  },
-  "tags": {
-    "cognition": "Marks the conceptual boundary where quantity becomes absence",
-    "wisdom": "Recognizes emptiness as meaningful state rather than mere negation"
   }
 }

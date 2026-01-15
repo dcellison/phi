@@ -2,8 +2,15 @@
   "word": "selomi",
   "gloss": "weave",
   "ipa": "/se.lo.mi/",
-  "syllables": ["se", "lo", "mi"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "se",
+    "lo",
+    "mi"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Weave / Interlace / Create by Intertwining",
   "description": "To create fabric or structure by interlacing threads, strands, or elements—passing over and under, building coherent whole from separate parts. 'Selomi' names both the physical craft and the metaphorical act of weaving together ideas, stories, or relationships into unified fabric.",
   "sound_symbolism": "The word enacts weaving's rhythm. 'Se' begins with the sibilant of strands sliding past each other. Then 'lo' loops with liquid over-under motion. Finally 'mi' meshes with nasal joining, the interlaced whole emerging.",
@@ -14,6 +21,7 @@
   },
   "tags": {
     "creation": "Interlacing into coherent whole",
-    "wisdom": "Understanding interconnection through making"
+    "wisdom": "Understanding interconnection through making",
+    "activity": "fundamental human activity of weaveing"
   }
 }

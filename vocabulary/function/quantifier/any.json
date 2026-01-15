@@ -2,8 +2,13 @@
   "word": "wheli",
   "gloss": "ANY",
   "ipa": "/ʍe.li/",
-  "syllables": ["whe", "li"],
-  "pos": ["quantifier"],
+  "syllables": [
+    "whe",
+    "li"
+  ],
+  "pos": [
+    "quantifier"
+  ],
   "concept": "Any / Unrestricted Choice / Open Selection",
   "description": "The quantifier expressing unrestricted selection from a set—no preference, no exclusion, complete openness to whatever arises. 'Wheli' marks the absence of constraint in choosing, the freedom that comes when any member of a category will serve equally well. Unlike 'soli' which gestures toward a specific (though unnamed) subset, 'wheli' holds all possibilities open, making no selection while accepting any.",
   "sound_symbolism": "The word begins with 'wh' /ʍ/, the voiceless labial-velar fricative—pure breath shaped without voice, the most open of all Phi's sounds. This unrestricted airflow embodies the quantifier's meaning: nothing is blocked, all paths remain available. The balanced mid vowel 'e' follows, equidistant from all extremes, showing no preference. Finally, the liquid 'l' flows into 'i', together suggesting ease of movement toward whichever option emerges. 'Wheli' sounds like open possibility—breath finding its own way.",
@@ -12,8 +17,5 @@
     "secular-buddhist-philosophy": "Non-attachment to outcome finds expression in 'wheli'—the acceptance that any path may serve, any choice may unfold. This quantifier embodies equanimity toward selection, the wisdom that grasping at specific outcomes creates suffering while openness creates freedom.",
     "peace-linguistics-practices": "By providing language for genuine openness, 'wheli' supports non-coercive communication. Saying 'any will do' releases the hearer from the burden of guessing the speaker's hidden preference, creating transparency about true flexibility.",
     "pre-industrial-wisdom": "Traditional hospitality often expresses 'whatever you have is welcome'—the guest accepting any offering, the host providing whatever is available. 'Wheli' carries this wisdom that flexibility and gratitude transcend preference."
-  },
-  "tags": {
-    "cognition": "Expresses unrestricted selection without preference or exclusion"
   }
 }

@@ -2,8 +2,13 @@
   "word": "pina",
   "gloss": "sew",
   "ipa": "/pi.na/",
-  "syllables": ["pi", "na"],
-  "pos": ["verb"],
+  "syllables": [
+    "pi",
+    "na"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Sew / Stitch / Join with Needle and Thread",
   "description": "To join materials by passing thread through them with a needle—the fundamental act of creating garments, repairing tears, and connecting separate pieces into unified cloth. 'Pina' is precise, repetitive, meditative work that transforms fragments into whole.",
   "sound_symbolism": "The word is small and pointed like the needle itself. 'Pi' pierces with bilabial precision, the needle entering. The high 'i' is the thread's fine line. Then 'na' draws through with nasal continuity, stitch following stitch.",
@@ -14,6 +19,7 @@
   },
   "tags": {
     "creation": "Joining through needle and thread",
-    "wisdom": "Patience in small, repeated acts"
+    "wisdom": "Patience in small, repeated acts",
+    "activity": "fundamental human activity of sewing"
   }
 }

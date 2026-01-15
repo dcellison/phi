@@ -2,8 +2,14 @@
   "word": "thepalu",
   "gloss": "garden",
   "ipa": "/θe.pa.lu/",
-  "syllables": ["the", "pa", "lu"],
-  "pos": ["noun"],
+  "syllables": [
+    "the",
+    "pa",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Garden / Cultivated sanctuary / Co-created paradise",
   "description": "A space where human intention and natural growth collaborate to create beauty, sustenance, and sanctuary. More than mere cultivation, 'garden' in Phi represents the sacred partnership between human creativity and earth's abundance—a living artwork where soil, seed, and tender care transform into nourishment for body and spirit. It embodies the practice of paradise-making at human scale, where wildness and cultivation dance in conscious harmony.",
   "sound_symbolism": "The word begins with 'the', where the thoughtful fricative 'θ' suggests careful planning and conscious design—the gardener's deliberate breath—meeting 'e', the balanced vowel of harmonious cultivation. This flows into 'pa', the soft plosive of planting, seeds being pressed into soil with gentle certainty, opening to 'a', the vowel of growth and expansion. Finally, 'lu' completes the word, where the liquid 'l' flows like water nurturing roots, settling into 'u', the deep vowel of grounded fruition. Together, 'thepalu' creates the garden's full cycle: thoughtful design ('the'), active planting ('pa'), flowing abundance ('lu')—human intention partnering with natural growth.",
@@ -16,7 +22,7 @@
   },
   "tags": {
     "nature": "spaces where human culture and natural processes interweave",
-    "place": "defined location transformed through intentional relationship with land",
+    "spatial": "defined location transformed through intentional relationship with land",
     "physical": "tangible spaces involving soil, plants, and physical cultivation"
   }
 }

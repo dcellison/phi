@@ -2,8 +2,13 @@
   "word": "tei",
   "gloss": "UNTIL",
   "ipa": "/ˈte.i/",
-  "syllables": ["te", "i"],
-  "pos": ["preposition"],
+  "syllables": [
+    "te",
+    "i"
+  ],
+  "pos": [
+    "preposition"
+  ],
   "concept": "Until / Up To / Reaching The Point Of",
   "description": "Marks a temporal or conceptual endpoint—the boundary at which continuation ceases or transformation occurs. 'Tei' indicates duration or extent that reaches but does not cross a limit. This preposition acknowledges that endpoints matter, that knowing when something ends is as important as knowing when it begins.",
   "sound_symbolism": "The word begins with 't', the dental stop that creates clear acoustic boundaries—the tongue touching the ridge to mark a definite point. This precise consonant meets 'e', the balanced mid vowel of measured approach, neither rushing toward nor retreating from the endpoint. Finally, 'i' focuses to the highest, thinnest vowel, pointing precisely at the terminus. Speaking 'tei' creates the acoustic shape of reaching a limit: clear beginning, measured progress, focused arrival at the boundary.",
@@ -12,8 +17,5 @@
     "secular-buddhist-philosophy": "Understanding endpoints supports practice—sitting until the bell, practicing until insight, persisting until liberation. 'Tei' grammaticalizes this recognition that limits are not failures but necessary boundaries that give shape to effort.",
     "peace-linguistics-practices": "Clear communication about limits prevents misunderstanding and resentment. 'Tei' provides precise language for boundaries, supporting agreements that are kept because they are understood.",
     "pre-industrial-wisdom": "Traditional knowledge is full of 'untils'—working until dusk, waiting until the season turns, keeping watch until relief comes. 'Tei' carries this understanding that sustainable effort requires clear endpoints."
-  },
-  "tags": {
-    "temporal": "marks temporal or extent endpoint"
   }
 }

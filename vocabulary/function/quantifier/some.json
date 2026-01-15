@@ -2,8 +2,13 @@
   "word": "soli",
   "gloss": "SOME",
   "ipa": "/so.li/",
-  "syllables": ["so", "li"],
-  "pos": ["quantifier"],
+  "syllables": [
+    "so",
+    "li"
+  ],
+  "pos": [
+    "quantifier"
+  ],
   "concept": "Some / Several / A Few / Indefinite Small Quantity",
   "description": "The quantifier expressing an indefinite but modest quantity—more than one or two, fewer than many. 'Soli' occupies the comfortable middle ground of quantity, acknowledging plurality without claiming abundance. It serves speakers who wish to indicate 'enough to matter' without the precision of counting or the weight of 'many.' This word embodies practical imprecision, the honest acknowledgment that exact quantity is often neither known nor relevant.",
   "sound_symbolism": "The word begins with 's', the soft sibilant that suggests scattering—not the rush of 'sh' but a gentler distribution, like seeds placed deliberately rather than broadcast. The round 'o' opens to contain what's gathered, a modest vessel. The liquid 'l' flows into 'i', the bright high vowel, together suggesting that even small quantities have their own completeness. 'Soli' sounds like sufficiency—not scarcity, not abundance, but the comfortable space between.",
@@ -12,8 +17,5 @@
     "pre-industrial-wisdom": "Traditional life operates comfortably with 'some' and 'enough' rather than demanding exact counts. 'Soli' carries the wisdom that sufficiency matters more than enumeration.",
     "secular-buddhist-philosophy": "The acceptance of 'some' without anxiety about 'exactly how many' reflects non-grasping awareness. 'Soli' supports presence with modest quantity rather than the suffering of needing to know precisely.",
     "peace-linguistics-practices": "By providing language for comfortable approximation, 'soli' reduces the competitive precision that exact numbers enable. 'Some' is enough; ranking is unnecessary."
-  },
-  "tags": {
-    "cognition": "Expresses small plurality without requiring precise enumeration"
   }
 }

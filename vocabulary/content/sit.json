@@ -2,8 +2,13 @@
   "word": "meilo",
   "gloss": "sit",
   "ipa": "/ˈme.i.lo/",
-  "syllables": ["mei", "lo"],
-  "pos": ["verb"],
+  "syllables": [
+    "mei",
+    "lo"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Sit / Rest in Seated Position",
   "description": "The fundamental act of lowering oneself into a supported resting position, where the body's weight transfers from feet to seat. More than mere physical rest, sitting represents the conscious choice to cease movement, to establish presence in a place, and to open oneself to what might unfold in stillness. It is the posture of councils and circles, of students and teachers, of meditation and contemplation. Sitting transforms space into place - wherever we sit becomes, temporarily, a center of awareness and potential connection.",
   "sound_symbolism": "The word begins with 'mei', where the labial nasal 'm' creates the most grounded consonant - lips together, sound resonating through bone, the body's weight settling into earth. This grounding flows into the vowel pair 'ei' pronounced in hiatus as /e.i/, creating Phi's distinctive two-beat rhythm within a single written syllable. The 'e' begins the lowering motion, then 'i' represents the slight adjustment as we find our center. The final syllable 'lo' flows liquid and continuous, the 'l' rolling into settled stability while 'o' rounds out in complete rest, whole and centered. 'Meilo' captures the full journey of sitting - grounding, adjusting, settling into supported stillness.",
@@ -19,6 +24,7 @@
     "spatial": "establishes presence in a specific location, transforming space into place",
     "community": "essential posture for gatherings, councils, and shared activities",
     "wisdom": "sitting meditation as practice for cultivating mindful awareness",
-    "ritual": "ceremonial significance in meditation, councils, and traditional gatherings"
+    "ritual": "ceremonial significance in meditation, councils, and traditional gatherings",
+    "activity": "fundamental human activity of siting"
   }
 }

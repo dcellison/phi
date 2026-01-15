@@ -2,8 +2,13 @@
   "word": "neo",
   "gloss": "FRONT",
   "ipa": "/ˈne.o/",
-  "syllables": ["ne", "o"],
-  "pos": ["preposition"],
+  "syllables": [
+    "ne",
+    "o"
+  ],
+  "pos": [
+    "preposition"
+  ],
   "concept": "In Front Of / Before (spatial) / Facing",
   "description": "Marks spatial position on the forward-facing side of a reference point. Unlike temporal 'phoe' which precedes in sequence, 'neo' precedes in orientation—the side that faces outward, meets the gaze, presents itself to the world. This preposition acknowledges that objects have fronts and backs, that position carries meaning beyond mere location.",
   "sound_symbolism": "The word begins with 'n', the grounding nasal that anchors spatial relationship in physical reality, the tongue touching the dental ridge to establish firm position. This stable opening flows into 'e', the balanced mid-vowel that faces forward without strain, representing the equanimity of looking ahead. Finally, 'o' opens wide, suggesting the spaciousness that lies before us, the open field of what we face. The acoustic progression from grounded 'n' through balanced 'e' to open 'o' mirrors standing firmly while facing forward into possibility. Forms a minimal pair with 'noe' (behind) through vowel reversal, making the front/back axis audibly symmetric.",
@@ -12,8 +17,5 @@
     "secular-buddhist-philosophy": "To stand in front of something is to be present and visible, to not hide behind. 'Neo' marks the position of direct encounter, where we face what is before us rather than turning away—the spatial embodiment of meeting experience openly.",
     "peace-linguistics-practices": "By distinguishing front from back, 'neo' enables precise spatial description without value judgment. Neither position is inherently better; front simply indicates orientation. This neutral precision supports clear communication about arrangement without hierarchy.",
     "pre-industrial-wisdom": "Traditional spatial knowledge distinguishes front from back for practical purposes—the front of a dwelling faces the path, the front of a boat meets the water. 'Neo' carries this understanding that orientation matters, that fronts and backs serve different purposes in human dwelling."
-  },
-  "tags": {
-    "spatial": "marks position relative to inherent front-back axis"
   }
 }

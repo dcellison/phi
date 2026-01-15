@@ -2,8 +2,13 @@
   "word": "roke",
   "gloss": "move",
   "ipa": "/ro.ke/",
-  "syllables": ["ro", "ke"],
-  "pos": ["verb"],
+  "syllables": [
+    "ro",
+    "ke"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Move / Change Position / Be in Motion",
   "description": "To change position in space, to be in motion rather than at rest. 'Roke' is the fundamental verb of locomotion and spatial change—whether walking across a room, shifting weight, or relocating across distances. It names the basic fact of bodies in motion.",
   "sound_symbolism": "The word is brief and kinetic. 'Ro' rolls forward with the liquid consonant, motion already underway. The open 'o' carries momentum. Then 'ke' steps with velar precision, each movement defined yet continuous.",
@@ -14,6 +19,7 @@
   },
   "tags": {
     "physical": "Bodily change of position",
-    "spatial": "Movement through space"
+    "spatial": "Movement through space",
+    "activity": "fundamental human activity of moveing"
   }
 }

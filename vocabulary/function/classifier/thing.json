@@ -2,8 +2,13 @@
   "word": "themo",
   "gloss": "THING.CLF",
   "ipa": "/θe.mo/",
-  "syllables": ["the", "mo"],
-  "pos": ["classifier"],
+  "syllables": [
+    "the",
+    "mo"
+  ],
+  "pos": [
+    "classifier"
+  ],
   "concept": "Physical matter classifier / Inanimate world marker / Material thing acknowledger",
   "description": "The classifier used for inanimate physical things—both natural (rocks, water, clouds, mountains) and crafted (tools, vessels, structures). When 'themo' appears between a number and a noun, it acknowledges these entities as part of the material world that exists alongside but distinct from living beings. This classifier embodies a mindful relationship with physical reality, recognizing matter as worthy of attention whether shaped by human hands or by natural forces.",
   "sound_symbolism": "The word begins with 'the', where the thoughtful fricative 'θ' suggests careful attention to the material world—the deliberate breath of awareness meeting 'e', the balanced mid vowel of clear perception. This flows into 'mo', where the solid nasal 'm' grounds us in materiality itself, embracing the round 'o' of substance and presence. Together, 'themo' creates the sound of conscious engagement with matter: thoughtful attention ('the') settling into physical reality ('mo')—awareness meeting the tangible world.",
@@ -14,10 +19,5 @@
     "pre-industrial-wisdom": "Traditional cultures maintain deep respect for both natural materials and crafted tools, recognizing stone, water, and wood as partners in human life alongside the objects shaped from them. 'Themo' carries this understanding that the material world deserves acknowledgment, not exploitation.",
     "art-nouveau-aesthetics": "The movement found beauty in both natural forms and crafted objects, seeing no sharp boundary between nature's creations and human artistry. 'Themo' reflects this unified appreciation of the material world in all its manifestations.",
     "secular-buddhist-philosophy": "Mindful attention to the material world—whether a river or a bowl—grounds awareness in the present moment. 'Themo' supports the practice of seeing physical things clearly, neither grasping nor dismissing the inanimate world that surrounds and sustains us."
-  },
-  "tags": {
-    "physical": "classifier for tangible, material entities that exist in physical space",
-    "cognition": "requires categorizing entities as inanimate versus animate",
-    "grammar": "functions as a classifier that structures enumeration"
   }
 }

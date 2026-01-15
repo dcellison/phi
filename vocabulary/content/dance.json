@@ -2,8 +2,15 @@
   "word": "rotiku",
   "gloss": "dance",
   "ipa": "/ro.ti.ku/",
-  "syllables": ["ro", "ti", "ku"],
-  "pos": ["verb", "noun"],
+  "syllables": [
+    "ro",
+    "ti",
+    "ku"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Dance / Move Rhythmically / Express Through Body Movement",
   "description": "To move the body in rhythm, whether to music or inner impulse—expressing through gesture what words cannot hold, celebrating through motion, communicating through the oldest language of bodies in space. 'Rotiku' is movement become meaning.",
   "sound_symbolism": "The word moves in rhythm. 'Ro' rolls into motion, the dance beginning. Then 'ti' steps with dental precision, feet finding beat. Finally 'ku' grounds with velar embodiment, the whole body engaged in movement.",
@@ -14,6 +21,7 @@
   },
   "tags": {
     "physical": "Rhythmic body movement",
-    "ritual": "Expression through motion"
+    "ritual": "Expression through motion",
+    "activity": "fundamental human activity of danceing"
   }
 }

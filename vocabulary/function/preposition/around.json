@@ -2,8 +2,13 @@
   "word": "roa",
   "gloss": "AROUND",
   "ipa": "/ˈro.a/",
-  "syllables": ["ro", "a"],
-  "pos": ["preposition"],
+  "syllables": [
+    "ro",
+    "a"
+  ],
+  "pos": [
+    "preposition"
+  ],
   "concept": "Around / Surrounding / Encircling",
   "description": "Marks spatial relationship of surrounding or encircling a reference point. 'Roa' indicates position or motion that encompasses without entering—the path that circles, the arrangement that embraces, the attention that considers all sides. This preposition acknowledges that some relationships require going around rather than through.",
   "sound_symbolism": "The word begins with 'r', the liquid consonant whose articulation involves the tongue rolling or tapping repeatedly—a natural acoustic circle, the sound of return and recurrence. This circular consonant meets 'o', the roundest vowel, whose shape in the mouth mirrors the encircling motion it describes. Finally, 'a' opens to the most spacious vowel, suggesting the full circumference that surrounds on all sides. Speaking 'roa' creates a small acoustic orbit: rolling motion, round enclosure, open encompassing.",
@@ -12,8 +17,5 @@
     "secular-buddhist-philosophy": "Circumambulation—walking around sacred objects—is a meditative practice in many Buddhist traditions. 'Roa' grammaticalizes this understanding that surrounding attention honors what it encircles, that going around can be reverence rather than avoidance.",
     "peace-linguistics-practices": "Some obstacles cannot be confronted directly but must be approached from multiple angles. 'Roa' supports this wisdom of indirect engagement, providing language for strategies that encompass rather than collide.",
     "pre-industrial-wisdom": "Traditional knowledge includes understanding circular paths—seasonal rounds, patrol routes, the circling that protects and surveys. 'Roa' carries this understanding that going around serves purposes that going through cannot."
-  },
-  "tags": {
-    "spatial": "marks surrounding or circumlocative spatial relationship"
   }
 }

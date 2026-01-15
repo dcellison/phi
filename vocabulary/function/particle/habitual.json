@@ -2,8 +2,12 @@
   "word": "ro",
   "gloss": "HAB",
   "ipa": "/ro/",
-  "syllables": ["ro"],
-  "pos": ["particle"],
+  "syllables": [
+    "ro"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Habitual / Customary / Regular Action",
   "description": "An aspect particle marking actions that occur regularly, repeatedly, or as established custom. 'Ro' indicates not a single event but a pattern—the rhythm of practice, the reliability of routine, the comfort of what recurs. It transforms isolated actions into woven threads of habit, acknowledging that much of human life consists not of unique moments but of meaningful repetitions.",
@@ -13,8 +17,5 @@
     "secular-buddhist-philosophy": "Practice is built through repetition; wisdom emerges from returning again and again to the same ground. 'Ro' grammaticalizes the understanding that transformation comes not from single insights but from habitual cultivation—the daily return to meditation, the repeated choice of compassion.",
     "pre-industrial-wisdom": "Traditional life was structured by recurring rhythms—daily tasks, seasonal work, annual ceremonies. 'Ro' carries this understanding that habit is not mindless routine but the meaningful pattern that gives shape to time and sustains communities across generations.",
     "peace-linguistics-practices": "By marking habitual action with soft, rolling sounds, 'ro' frames routine as gentle rhythm rather than grinding repetition. This supports a peaceful relationship with the recurring aspects of life, finding comfort rather than tedium in what returns."
-  },
-  "tags": {
-    "temporal": "marks recurring time patterns and cyclical action"
   }
 }
