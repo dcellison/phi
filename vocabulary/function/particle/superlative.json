@@ -1,0 +1,20 @@
+{
+  "word": "mi",
+  "gloss": "SUPL",
+  "ipa": "/mi/",
+  "syllables": ["mi"],
+  "pos": ["particle"],
+  "slot": 2,
+  "concept": "Most / Superlative Degree / -est",
+  "description": "A word-level particle that creates superlative forms of adjectives, marking the extreme or ultimate degree within a reference set. While 'mo' compares, 'mi' culminates—identifying the endpoint rather than a point along the scale. This particle acknowledges that sometimes we need language not just for 'more' but for 'most,' while remaining mindful that extremes are always relative to their context.",
+  "sound_symbolism": "The particle begins with 'm', the same measuring consonant as its comparative sibling 'mo'—lips coming together to weigh and assess. But where 'mo' opens into encompassing 'o', 'mi' focuses into 'i', the highest front vowel that points upward toward the pinnacle. The acoustic height of 'i' embodies reaching the extreme, while the nasal 'm' keeps even superlatives grounded in relationship rather than absolute judgment. Together, 'mi' sounds like arriving at a summit—measurement that has found its peak.",
+  "grammatical_notes": "Occupies Slot 2, appearing immediately before the adjective it modifies. Creates regular superlatives: 'mi wela' (most beautiful), 'mi nophi' (wisest). The reference set is typically implied by context or specified with a prepositional phrase. Forms a systematic pair with 'mo' (comparative): 'mo wela' (more beautiful) vs 'mi wela' (most beautiful). Like 'mo', remains evaluatively neutral—'mi' marks extremity without inherent praise or criticism.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Even at extremes, qualities remain relational and contextual. 'Mi' allows naming the 'most' within a reference frame while carrying the wisdom that no superlative is absolute—the tallest tree in one forest may be modest in another. This particle enables practical speech while undermining attachment to fixed hierarchies.",
+    "peace-linguistics-practices": "By sharing the gentle nasal 'm' with its comparative sibling, 'mi' keeps superlatives soft. It allows us to acknowledge extremes without aggression, to name peaks without creating competition. The focused 'i' points to the summit without conquering it.",
+    "pre-industrial-wisdom": "Traditional knowledge recognizes superlatives in context—the eldest of the village, the deepest well, the sweetest fruit of the season. 'Mi' serves this practical need to identify extremes within bounded sets, supporting the community knowledge that guides decisions."
+  },
+  "tags": {
+    "cognition": "requires evaluating and ranking within a reference set"
+  }
+}
