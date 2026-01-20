@@ -79,13 +79,13 @@ This system requires speakers and listeners to remain present and engaged with t
 
 ## 1.6. The Vocative: Announcing Address
 
-Even direct address follows the announce-then-deliver principle. The vocative particle `ko` announces that someone is being addressed before their name or title is spoken:
+Even direct address follows the announce-then-deliver principle. The vocative marker `kona` announces that someone is being addressed before their name or title is spoken:
 
-**Structure:** `ko [Noun], [Sentence]`
+**Structure:** `kona [Noun], [Sentence]`
 
 **Example:**
 ```
-ko whelea, mia pha nio
+kona whelea, mia pha nio
 VOC friend, 1SG here am
 (Friend, I am here.)
 ```

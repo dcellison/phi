@@ -21,22 +21,22 @@ The clause announces the characteristic before any specific entity is mentioned.
 
 ### 5.1.2. Headed Relative Clauses
 
-The relativizer particle `re` announces that what follows is a descriptive clause, appearing before both the clause and the noun it modifies:
+The relativizer `rena` announces that what follows is a descriptive clause, appearing before both the clause and the noun it modifies:
 
-**Structure:** `[re CLAUSE] NOUN`
+**Structure:** `[rena CLAUSE] NOUN`
 
 **Examples:**
 ```
-[re nophi kealo] miona
+[rena nophi kealo] miona
 [REL story create] person
 (The person who creates stories.)
 
-[re mia to nila] phino
+[rena mia to nila] phino
 [REL 1SG PST see] book
 (The book that I saw.)
 ```
 
-The `re` particle announces the relative relationship, the clause provides the description, and finally the noun is delivered—perfect modifier-first ordering.
+The complementizer `rena` announces the relative relationship, the clause provides the description, and finally the noun is delivered—perfect modifier-first ordering.
 
 ## 5.2. Conditional Sentences: Announcing Hypothetical Relationships
 

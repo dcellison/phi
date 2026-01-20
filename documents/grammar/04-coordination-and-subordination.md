@@ -75,9 +75,9 @@ mia [thi to thopa] kela
 
 ### 4.2.2. Direct Speech (Quotation)
 
-The quotative particle `sho` announces that what follows is direct speech, maintaining the principle of announcing before delivering:
+The quotative complementizer `shola` announces that what follows is direct speech, maintaining the principle of announcing before delivering:
 ```
-shia sho "thino wela" thopa
+shia shola "thino wela" thopa
 3SG QUOT "the sun is beautiful" say
 (She says, "The sun is beautiful.")
 ```

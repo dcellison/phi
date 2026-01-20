@@ -81,7 +81,7 @@ Evidential particles mark the source of the speaker's knowledge. They are option
 - `whi` (REP): `lo miona whi shele` (People helped [I was told])
 - `ho` (ASM): `thi ho kela` (You understand [I assume])
 
-Note: The reportative `whi` marks knowledge source ("someone told me"), while the quotative `sho` marks direct quotation ("she said '...'").
+Note: The reportative `whi` marks knowledge source ("someone told me"), while the quotative complementizer `shola` marks direct quotation ("she said '...'").
 
 ### 2.2.6. Negation
 - `ma` (NEG): `shia ma kela` (The other does not understand)

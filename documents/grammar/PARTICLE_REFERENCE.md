@@ -189,7 +189,6 @@ shia to ke wepu
 
 #### `whi` - Reportative Evidence (REP)
 **Function**: Announces that the speaker received this information from another source
-**Note**: Distinct from quotative `sho`—`whi` marks knowledge source, `sho` marks direct quotation
 **Example**:
 ```
 lo miona whi shele
@@ -396,48 +395,6 @@ HON.ROLE Mako
 
 ---
 
-## Special Function Particles
-
-These particles have unique grammatical functions that don't fit the three-slot system.
-
-### `re` - Relativizer (REL)
-**Function**: Announces that a descriptive clause follows (introduces relative clauses)
-**Position**: Before the relative clause and the noun it modifies
-**Structure**: `[re CLAUSE] NOUN`
-**Examples**:
-```
-[re nophi kealo] miona
-[REL story create] person
-(the person who creates stories)
-
-[re mia to nila] phino
-[REL 1SG PST see] book
-(the book that I saw)
-```
-
-### `sho` - Quotative (QUOT)
-**Function**: Announces direct speech/quotation
-**Position**: Before the quoted material
-**Example**:
-```
-shia sho "thino wela" thopa
-3SG QUOT "sun beautiful" say
-(She says, "The sun is beautiful.")
-```
-
-### `ko` - Vocative (VOC)
-**Function**: Announces that someone is being directly addressed
-**Position**: Before the name/title of the addressee
-**Structure**: `ko [Name/Title], [Sentence]`
-**Example**:
-```
-ko whelea, mia pha nio
-VOC friend, 1SG here am
-(Friend, I am here.)
-```
-
----
-
 ## Interrogative Pronouns
 
 While not technically particles, these function words occupy argument positions and announce what information is being sought.
@@ -536,7 +493,8 @@ nio wiso lothea
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu whe`, `su`, `pi` |
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `whi`, `ho`, `po`, `na`, `ka`, `ma` |
 | **2** | Word-level | `lo`, `nu`, `she`, `mo`, `pha`, `tha`, `sa`, `ni`, `le` |
-| **Special** | Grammatical functions | `re`, `sho`, `ko` |
+
+**Note**: Complementizers (`rena`, `shola`, `mena`, `wena`) and vocative (`kona`) are not particles—see `COMPLEMENTIZER_REFERENCE.md`.
 
 ---
 
