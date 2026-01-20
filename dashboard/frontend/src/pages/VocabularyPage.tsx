@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ChevronLeft, ChevronRight, Pencil, Save, X } from 'lucide-react'
+import { Search, ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight, Pencil, Save, X } from 'lucide-react'
 import { Input } from '@/components/ui/input'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -237,6 +237,7 @@ export default function VocabularyPage() {
   const [loading, setLoading] = useState(true)
   const [search, setSearch] = useState('')
   const [pos, setPos] = useState('')
+  const [sortBy, setSortBy] = useState<'gloss' | 'word'>('gloss')
   const [offset, setOffset] = useState(0)
   const [selectedWord, setSelectedWord] = useState<WordDetail | null>(null)
   const [dialogOpen, setDialogOpen] = useState(false)
@@ -255,6 +256,7 @@ export default function VocabularyPage() {
       const params = new URLSearchParams({
         limit: String(limit),
         offset: String(offset),
+        sort: sortBy,
       })
       if (search) params.set('search', search)
       if (pos) params.set('pos', pos)
@@ -266,7 +268,7 @@ export default function VocabularyPage() {
       console.error('Failed to load words:', e)
     }
     setLoading(false)
-  }, [search, pos, offset])
+  }, [search, pos, sortBy, offset])
 
   useEffect(() => {
     loadWords()
@@ -274,7 +276,7 @@ export default function VocabularyPage() {
 
   useEffect(() => {
     setOffset(0)
-  }, [search, pos])
+  }, [search, pos, sortBy])
 
   const loadWordDetail = async (word: string) => {
     try {
@@ -406,16 +408,26 @@ export default function VocabularyPage() {
           />
         </div>
 
-        <Select value={pos} onValueChange={setPos}>
+        <Select value={pos || "all"} onValueChange={(v) => setPos(v === "all" ? "" : v)}>
           <SelectTrigger className="w-[200px]">
             <SelectValue placeholder="All Parts of Speech" />
           </SelectTrigger>
           <SelectContent>
             {POS_OPTIONS.map((opt) => (
-              <SelectItem key={opt.value} value={opt.value || "all"}>
+              <SelectItem key={opt.value || "all"} value={opt.value || "all"}>
                 {opt.label}
               </SelectItem>
             ))}
+          </SelectContent>
+        </Select>
+
+        <Select value={sortBy} onValueChange={(v) => setSortBy(v as 'gloss' | 'word')}>
+          <SelectTrigger className="w-[160px]">
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="gloss">Sort by Gloss</SelectItem>
+            <SelectItem value="word">Sort by Phi Word</SelectItem>
           </SelectContent>
         </Select>
       </div>
@@ -466,27 +478,87 @@ export default function VocabularyPage() {
 
       {/* Pagination */}
       {totalPages > 1 && (
-        <div className="flex items-center justify-center gap-4 mt-6">
+        <div className="flex items-center justify-center gap-1 mt-6">
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => setOffset(0)}
+            disabled={currentPage === 1}
+            title="First page"
+          >
+            <ChevronsLeft className="h-4 w-4" />
+          </Button>
           <Button
             variant="outline"
             size="sm"
             onClick={() => setOffset(Math.max(0, offset - limit))}
-            disabled={offset === 0}
+            disabled={currentPage === 1}
+            title="Previous page"
           >
-            <ChevronLeft className="h-4 w-4 mr-1" />
-            Previous
+            <ChevronLeft className="h-4 w-4" />
           </Button>
-          <span className="text-sm text-muted-foreground">
-            Page {currentPage} of {totalPages}
-          </span>
+
+          {/* Page numbers */}
+          <div className="flex items-center gap-1 mx-2">
+            {(() => {
+              const pages: (number | string)[] = []
+              const maxVisible = 6 // Show up to 6 page numbers (plus ellipsis)
+
+              if (totalPages <= maxVisible + 1) {
+                // Show all pages if 7 or fewer
+                for (let i = 1; i <= totalPages; i++) pages.push(i)
+              } else if (currentPage <= maxVisible - 1) {
+                // Near the start: show first pages + ellipsis + last
+                for (let i = 1; i <= maxVisible; i++) pages.push(i)
+                pages.push('...')
+                pages.push(totalPages)
+              } else {
+                // Past the start: show first + ellipsis + pages ending at current + 1
+                pages.push(1)
+                pages.push('...')
+                const startPage = Math.min(currentPage - 1, totalPages - maxVisible + 1)
+                for (let i = startPage; i <= Math.min(startPage + maxVisible - 1, totalPages); i++) {
+                  pages.push(i)
+                }
+              }
+
+              return pages.map((page, idx) =>
+                typeof page === 'string' ? (
+                  <span key={`ellipsis-${idx}`} className="px-2 text-muted-foreground">
+                    {page}
+                  </span>
+                ) : (
+                  <Button
+                    key={page}
+                    variant={page === currentPage ? 'default' : 'outline'}
+                    size="sm"
+                    className="w-9"
+                    onClick={() => setOffset((page - 1) * limit)}
+                  >
+                    {page}
+                  </Button>
+                )
+              )
+            })()}
+          </div>
+
           <Button
             variant="outline"
             size="sm"
             onClick={() => setOffset(offset + limit)}
-            disabled={offset + limit >= total}
+            disabled={currentPage === totalPages}
+            title="Next page"
           >
-            Next
-            <ChevronRight className="h-4 w-4 ml-1" />
+            <ChevronRight className="h-4 w-4" />
+          </Button>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => setOffset((totalPages - 1) * limit)}
+            disabled={currentPage === totalPages}
+            title="Last page"
+          >
+            <ChevronsRight className="h-4 w-4" />
           </Button>
         </div>
       )}

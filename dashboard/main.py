@@ -350,6 +350,7 @@ async def get_words(
     category: str = "",
     subcategory: str = "",
     pos: str = "",
+    sort: str = "gloss",
     limit: int = Query(default=50, le=500),
     offset: int = 0
 ):
@@ -378,6 +379,9 @@ async def get_words(
 
     where_clause = " AND ".join(conditions) if conditions else "1=1"
 
+    # Validate sort field to prevent SQL injection
+    order_by = "word" if sort == "word" else "gloss"
+
     cursor.execute(f"SELECT COUNT(*) FROM words WHERE {where_clause}", params)
     total = cursor.fetchone()[0]
 
@@ -385,7 +389,7 @@ async def get_words(
         SELECT id, word, gloss, ipa, pos, concept, category, subcategory
         FROM words
         WHERE {where_clause}
-        ORDER BY gloss
+        ORDER BY {order_by}
         LIMIT ? OFFSET ?
     """, params + [limit, offset])
 
