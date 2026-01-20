@@ -96,6 +96,7 @@
     "concept",
     "description",
     "sound_symbolism",
+    "grammatical_notes",
     "pillars"
   ],
   "additionalProperties": false
