@@ -1,0 +1,181 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 142 76% 36%;
+    --primary-foreground: 355.7 100% 97.3%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 142 76% 36%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 142 76% 36%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    /* Atom One Dark inspired palette */
+    /* Main bg: #282c34, Card bg: #21252b, Gutter: #2c313a */
+    --background: 220 13% 18%;
+    --foreground: 219 14% 76%;
+    --card: 220 14% 14%;
+    --card-foreground: 219 14% 76%;
+    --popover: 220 14% 14%;
+    --popover-foreground: 219 14% 76%;
+    --primary: 142 70% 45%;
+    --primary-foreground: 144 100% 10%;
+    --secondary: 220 13% 22%;
+    --secondary-foreground: 219 14% 76%;
+    --muted: 220 13% 22%;
+    --muted-foreground: 219 10% 53%;
+    --accent: 142 70% 45%;
+    --accent-foreground: 144 100% 10%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 219 14% 76%;
+    --border: 220 13% 26%;
+    --input: 220 13% 26%;
+    --ring: 142 70% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}
+
+/* IPA font */
+.ipa {
+  font-family: "Doulos SIL", "Charis SIL", "Gentium", serif;
+}
+
+/* Markdown content styles */
+.prose {
+  @apply text-foreground leading-relaxed;
+}
+
+.prose h1 {
+  @apply text-3xl font-semibold mt-8 mb-4 text-foreground;
+}
+
+.prose h2 {
+  @apply text-2xl font-semibold mt-8 mb-3 text-foreground;
+}
+
+.prose h3 {
+  @apply text-xl font-semibold mt-6 mb-3 text-foreground;
+}
+
+.prose h4 {
+  @apply text-lg font-semibold mt-4 mb-2 text-foreground;
+}
+
+.prose h5 {
+  @apply text-base font-semibold mt-4 mb-2 text-foreground;
+}
+
+.prose h6 {
+  @apply text-sm font-semibold mt-4 mb-2 text-muted-foreground;
+}
+
+.prose p {
+  @apply mb-4;
+}
+
+.prose ul {
+  @apply list-disc list-inside mb-4 space-y-1;
+}
+
+.prose ol {
+  @apply list-decimal list-inside mb-4 space-y-1;
+}
+
+.prose li {
+  @apply pl-1;
+}
+
+.prose a {
+  @apply text-primary underline hover:text-primary/80;
+}
+
+.prose strong {
+  @apply font-semibold;
+}
+
+.prose em {
+  @apply italic;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-primary/50 pl-4 italic text-muted-foreground my-4;
+}
+
+.prose hr {
+  @apply border-border my-8;
+}
+
+.prose pre {
+  @apply bg-muted rounded-md p-4 overflow-x-auto mb-4;
+}
+
+.prose code {
+  @apply bg-muted px-1.5 py-0.5 rounded text-sm font-mono;
+}
+
+.prose pre code {
+  @apply bg-transparent p-0;
+}
+
+.prose table {
+  @apply w-full border-collapse mb-4;
+}
+
+.prose th,
+.prose td {
+  @apply border border-border px-3 py-2 text-left;
+}
+
+.prose th {
+  @apply bg-muted font-medium;
+}
+
+.prose img {
+  @apply max-w-full h-auto rounded-md my-4;
+}
