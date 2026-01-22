@@ -21,11 +21,11 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 [REL story create] person
 (the person who creates stories)
 
-[rena mia to nila] phino
+[rena mia to nila] shelu
 [REL 1SG PST see] book
 (the book that I saw)
 
-[rena shiro mue nio] tewa
+[rena shiro mue nai] thimu
 [REL forest in be] path
 (the path that is in the forest)
 ```
@@ -48,7 +48,7 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 
 **Examples**:
 ```
-shia shola "thino wela" thopa
+shia shola "remo wela" shemui
 3SG QUOT "sun beautiful" say
 (She says, "The sun is beautiful.")
 
@@ -74,25 +74,25 @@ mia kela mena shia wepu
 1SG understand DECL 3SG leave
 (I understand that ko left.)
 
-shia nophi mena thi wepu
+shia nophi mena thia wepu
 3SG say DECL 2SG leave
 (She said that you left.)
 
-nio hisu mena thino wela
+nai phaelo mena remo wela
 1PL feel DECL sun beautiful
 (We feel that the sun is beautiful.)
 ```
 
 **Nesting**: `mena` clauses can nest:
 ```
-mia kela mena thi hisu mena shia wepu
+mia kela mena thia phaelo mena shia wepu
 1SG understand DECL 2SG feel DECL 3SG leave
 (I understand that you feel that ko left.)
 ```
 
 **Comparison with `shola`**:
 - `shia shola "mia wepu" nophi` = She said: "I'm leaving." (exact words)
-- `shia nophi mena thi wepu` = She said that you left. (reported content)
+- `shia nophi mena thia wepu` = She said that you left. (reported content)
 
 ---
 
@@ -105,15 +105,15 @@ mia kela mena thi hisu mena shia wepu
 
 **Examples**:
 ```
-mia wena shia wepu hisu
+mia wena shia wepu phaelo
 1SG INT.COMP 3SG leave wonder
 (I wonder whether ko left.)
 
-shia wena mia to nila teni
+shia wena mia to nila nomei
 3SG INT.COMP 1SG PST see ask
 (She asked whether I had seen.)
 
-nio wena thino wela ma kela
+nai wena remo wela ma kela
 1PL INT.COMP sun beautiful NEG know
 (We don't know whether the sun is beautiful.)
 ```
@@ -124,9 +124,9 @@ nio wena thino wela ma kela
 - `wena` (interrogative complementizer): Embeds questions as content
 
 **Comparison**:
-- `wa thi wepu` = Are you leaving? (direct question)
-- `thoe thi wepu, mia sola nio` = If you leave, I'll be alone. (conditional)
-- `mia wena thi wepu hisu` = I wonder whether you're leaving. (embedded question)
+- `wa thia wepu` = Are you leaving? (direct question)
+- `thoe thia wepu, mia sola nai` = If you leave, I'll be alone. (conditional)
+- `mia wena thia wepu phaelo` = I wonder whether you're leaving. (embedded question)
 
 ---
 
@@ -143,15 +143,15 @@ The vocative is a separate part of speech for direct address, existing outside t
 
 **Examples**:
 ```
-kona whelea, mia ha nio
+kona melu, mia ha nai
 VOC friend, 1SG here be
 (Friend, I am here.)
 
-kona sa Thala, wa thi wela nio
+kona sa Thala, wa thia wela nai
 VOC HON.RESPECT Thala, Q 2SG well be
 (Honored Thala, are you well?)
 
-kona ni Hino, mia thi lothea
+kona ni Hino, mia thia lothea
 VOC HON.INTIM Hino, 1SG 2SG love
 (Dear Hino, I love you.)
 ```

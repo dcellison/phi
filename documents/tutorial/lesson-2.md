@@ -23,21 +23,21 @@ This structure requires you to state both the subject and the object—the entir
 What if we want to say *where* an action happens? Phi does this using **prepositions**. These are small words that come *before* a noun to describe its relationship to the sentence (like location or time).
 
 Let's learn a noun and our first preposition:
-*   `noshale`: a garden
+*   `thepalu`: a garden
 *   `mu`: in / inside
 
-The preposition always precedes the noun it describes. So, "in the garden" is `mu noshale`.
+The preposition always precedes the noun it describes. So, "in the garden" is `mu thepalu`.
 
 Now, let's build a full sentence: "I feel peace in the garden."
-We'll need our words `mia` (I), `sela` (peace), and `hisu` (to feel).
+We'll need our words `mia` (I), `kelu` (peace), and `phaelo` (to feel).
 
 The word order is: Subject - [Location Phrase] - Object - Verb.
 
-*   **Phi:** `mia mu noshale sela hisu.`
+*   **Phi:** `mia mu thepalu kelu phaelo.`
 *   **Gloss:** `1SG in garden peace feel.`
 *   **Translation:** I feel peace in the garden.
 
-Notice how the location phrase, `mu noshale`, comes before the object (`sela`). All the descriptive details come first, and the verb comes last.
+Notice how the location phrase, `mu thepalu`, comes before the object (`kelu`). All the descriptive details come first, and the verb comes last.
 
 ### Lesson 2 Summary
 

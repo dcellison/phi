@@ -26,7 +26,7 @@ These particles appear at the **very beginning** of a sentence and announce the 
 **Position**: Sentence-initial only
 **Example**:
 ```
-wa thi minu lothea
+wa thia hurao lothea
 Q 2SG family love
 (Do you love your family?)
 ```
@@ -36,7 +36,7 @@ Q 2SG family love
 **Position**: Sentence-initial only
 **Example**:
 ```
-no minu shele
+no hurao kofe
 IMP family help
 (Help the family.)
 ```
@@ -46,7 +46,7 @@ IMP family help
 **Position**: Sentence-initial only
 **Example**:
 ```
-lu thi shele, mia wela hisu
+lu thia kofe, mia wela phaelo
 COND 2SG help, 1SG good feel
 (If you help, I will feel good.)
 ```
@@ -56,7 +56,7 @@ COND 2SG help, 1SG good feel
 **Position**: Sentence-initial only (two particles)
 **Example**:
 ```
-lu he mia to shele, shia ma to wepu
+lu he mia to kofe, shia ma to wepu
 COND IRR 1SG PST help, 3SG NEG PST leave
 (If I had helped [but I didn't], ko would not have left.)
 ```
@@ -66,7 +66,7 @@ COND IRR 1SG PST help, 3SG NEG PST leave
 **Position**: Sentence-initial only
 **Example**:
 ```
-su weola wela nio
+su sila wela nai
 OPT community good be
 (May the community be well / I hope the community is well.)
 ```
@@ -76,11 +76,11 @@ OPT community good be
 **Position**: Sentence-initial only (can combine with other Slot 0 particles)
 **Example**:
 ```
-pi no minu shele
+pi no hurao kofe
 POL IMP family help
 (Please help the family.)
 
-pi wa thi po shele
+pi wa thia po kofe
 POL Q 2SG POSS help
 (Could you please help?)
 ```
@@ -191,7 +191,7 @@ shia to ke wepu
 **Function**: Announces that the speaker received this information from another source
 **Example**:
 ```
-lo miona ti shele
+lo miona ti kofe
 PL person REP help
 (People helped [I was told].)
 ```
@@ -200,7 +200,7 @@ PL person REP help
 **Function**: Announces that the speaker is assuming or supposing rather than knowing
 **Example**:
 ```
-thi ho kela
+thia ho kela
 2SG ASM understand
 (You understand [I assume].)
 ```
@@ -220,7 +220,7 @@ mia po kela
 **Function**: Announces that the action is necessary or obligatory
 **Example**:
 ```
-mia na shele
+mia na kofe
 1SG NEC help
 (I must help / I have to help.)
 ```
@@ -230,11 +230,11 @@ mia na shele
 **Structure**: Changes sentence structure - the causer becomes subject, original subject becomes object
 **Examples**:
 ```
-Base:      pilo nima           (The child sleeps.)
-Causative: mia pilo ka nima    (I make the child sleep.)
+Base:      wiru nima           (The child sleeps.)
+Causative: mia wiru ka nima    (I make the child sleep.)
 
-Base:      thi thola kela      (You understand the story.)
-Causative: mia thi thola ka kela (I make you understand the story.)
+Base:      thia toremoa kela      (You understand the story.)
+Causative: mia thia toremoa ka kela (I make you understand the story.)
 ```
 
 ### Negation
@@ -277,20 +277,20 @@ These particles appear **immediately before** the specific word they modify (nou
 
 **With `lo` (unquantified plural)**:
 ```
-lo whelea
+lo melu
 PL friend
 (friends - plural, no specific quantity)
 
-mia lo whelea hisu
+mia lo melu phaelo
 1SG PL friend feel
 (I feel my friends - multiple, uncounted)
 ```
 
 **Without `lo` (number implies plurality)**:
 ```
-wi whelea          (two friends - 'wi' already implies plural)
+wi melu          (two friends - 'wi' already implies plural)
 ta shao lipha shiro (three trees - number implies plural)
-sheloi whelea      (many friends - quantifier implies plural)
+sheloi melu      (many friends - quantifier implies plural)
 ```
 
 **Rule**: Never combine `lo` with numerals or quantifiers—this would be redundant.
@@ -302,7 +302,7 @@ sheloi whelea      (many friends - quantifier implies plural)
 **Structure**: `nu [cardinal number] [noun]`
 **Example**:
 ```
-nu ta pilo
+nu ta wiru
 ORD one child
 (first child)
 
@@ -328,7 +328,7 @@ mia ko lothea kela
 **Function**: Announces comparative degree ("more")
 **Example**:
 ```
-noshale sheo shiro mo wela nio
+thepalu sheo shiro mo wela nai
 garden than forest CMPR good be
 (The garden is more beautiful than the forest.)
 ```
@@ -337,7 +337,7 @@ garden than forest CMPR good be
 **Function**: Announces superlative degree ("most")
 **Example**:
 ```
-ha noshale mo ko wela nio
+ha thepalu mo ko wela nai
 PROX garden CMPR FOC good be
 (This garden is the most beautiful.)
 ```
@@ -348,7 +348,7 @@ PROX garden CMPR FOC good be
 **Function**: Announces proximity ("this/these")
 **Example**:
 ```
-ha whelea
+ha melu
 PROX friend
 (this friend)
 ```
@@ -357,7 +357,7 @@ PROX friend
 **Function**: Announces distance ("that/those")
 **Example**:
 ```
-ra whelea
+ra melu
 DIST friend
 (that friend)
 ```
@@ -416,7 +416,7 @@ mia hina kela
 1SG what understand
 (What do I understand?)
 
-thi weno wepu
+thia weno wepu
 2SG when leave
 (When do you leave?)
 ```
@@ -453,11 +453,11 @@ These announce relationships between equal elements (words, phrases, or clauses)
 
 **Examples**:
 ```
-mia sela nela weola lothea
+mia kelu nela sila lothea
 1SG peace COORD community love
 (I love peace and community.)
 
-wa [shia miro] sola [philo]
+wa [shia lopia] sola [philo]
 Q [3SG beautiful] OR [calm]
 (Is it beautiful or calm?)
 ```
@@ -479,7 +479,7 @@ mia miso nila
 **Function**: Announces mutual action between plural subjects
 **Example**:
 ```
-nio wiso lothea
+nai wiso lothea
 1PL RECP love
 (We love each other.)
 ```

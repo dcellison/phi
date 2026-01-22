@@ -14,7 +14,7 @@ At the very heart of this pillar is the concept of **mindfulness**, known in Phi
 
 This principle is not merely a word in the lexicon; it is woven directly into the foundational grammar of the language. The strict Subject-Object-Verb word order, for example, is a direct application of this philosophy. By requiring the speaker to build the entire context of a situation—the actors and the objects involved—before stating the action that connects them, the grammar enforces a moment of deliberate observation.
 
-It interrupts the instantaneous, reactive patterns of Subject-Verb-Object languages and encourages a more considered, thoughtful pace of communication. This "grammatical mindfulness" is further supported by the evidential verb system, which gently prompts the speaker to consider the source of their knowledge: Did I see it (`shipe`)? Did I infer it (`nolu`)? Or did I hear it from another (`whipi`)? This constant, subtle encouragement to observe the world and one's own mind before speaking is Phi's primary tool for training the muscle of attention.
+It interrupts the instantaneous, reactive patterns of Subject-Verb-Object languages and encourages a more considered, thoughtful pace of communication. This "grammatical mindfulness" is further supported by the evidential verb system, which gently prompts the speaker to consider the source of their knowledge: Did I see it (`shipe`)? Did I infer it (`pheralu`)? Or did I hear it from another (`whipi`)? This constant, subtle encouragement to observe the world and one's own mind before speaking is Phi's primary tool for training the muscle of attention.
 
 ### 2.2.3 Right Speech and Compassionate Expression
 
@@ -22,7 +22,7 @@ Flowing naturally from the practice of mindfulness is a deep commitment to **com
 
 Phi is designed to make Right Speech the path of least resistance. It does this not by forbidding "wrong" speech, but by subtly redirecting the speaker's expression of potentially harmful emotions. The lexicon is intentionally structured to re-frame volatile feelings, transforming them from destructive impulses into mindful signals for constructive action.
 
-The Phi word for anger, `phale`, does not mean "rage"; its compositional parts suggest a "forceful call for a boundary," a signal that one's values have been crossed and that restorative action is needed. Similarly, the word for fear, `ketho`, is not "terror," but an "alertness to disharmony," a signal to pay careful attention to one's surroundings. By providing a vocabulary that encourages this kind of mindful reframing, the language itself becomes a guide, helping the speaker to navigate their own inner world with greater compassion and wisdom.
+The Phi word for anger, `phale`, does not mean "rage"; its compositional parts suggest a "forceful call for a boundary," a signal that one's values have been crossed and that restorative action is needed. Similarly, the word for fear, `sui`, is not "terror," but an "alertness to disharmony," a signal to pay careful attention to one's surroundings. By providing a vocabulary that encourages this kind of mindful reframing, the language itself becomes a guide, helping the speaker to navigate their own inner world with greater compassion and wisdom.
 
 ### 2.2.4 The Web of Interconnectedness
 
@@ -30,7 +30,7 @@ Perhaps the most profound philosophical concept Phi draws from the Buddhist trad
 
 A flower cannot exist without the sun, the soil, the rain, and the seed from which it sprang. In this view, the world is not a collection of discrete, separate things, but a single, flowing, and indivisible process.
 
-This deep ecological and philosophical insight is the direct inspiration for Phi's **compositional lexicon**. Rather than assigning arbitrary, standalone words to complex ideas, Phi builds them from simpler, related concepts. A "dream" is not an isolated phenomenon; it is a `nima thola`, a "sleep-story," inextricably linking it to the states of sleeping and storytelling. "Reason" is not an abstract faculty; it is `nothela`, the "mind-path," which beautifully illustrates the process of moving from one thought to the next.
+This deep ecological and philosophical insight is the direct inspiration for Phi's **compositional lexicon**. Rather than assigning arbitrary, standalone words to complex ideas, Phi builds them from simpler, related concepts. A "dream" is not an isolated phenomenon; it is a `nima toremoa`, a "sleep-story," inextricably linking it to the states of sleeping and storytelling. "Reason" is not an abstract faculty; it is `thela`, the "mind-path," which beautifully illustrates the process of moving from one thought to the next.
 
 ### 2.2.5 The Natural Path to Wisdom
 

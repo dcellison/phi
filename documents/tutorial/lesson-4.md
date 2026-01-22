@@ -25,7 +25,7 @@ The particle for the future tense is `so`. It works exactly the same way.
 
 Let's say "The community will sleep":
 
-*   **Phi:** `weola so nima.`
+*   **Phi:** `sila so nima.`
 *   **Gloss:** `community FUT sleep.`
 *   **Translation:** The community will sleep.
 
@@ -35,7 +35,7 @@ Tense particles work perfectly with questions. The question particle `wa` still 
 
 Let's ask, "Did you see the friend?":
 
-*   **Phi:** `wa thi whelea to shipe.`
+*   **Phi:** `wa thia melu to shipe.`
 *   **Gloss:** `Q 2SG friend PST see.`
 *   **Translation:** Did you see the friend?
 

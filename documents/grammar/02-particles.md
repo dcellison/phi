@@ -8,14 +8,14 @@ These particles appear at the very beginning of a sentence, announcing the speak
 
 **Question (`wa`):**
 ```
-wa thi lothea kela
+wa thia lothea kela
 Q 2SG love understand
 (Do you understand love?)
 ```
 
 **Imperative (`no`):**
 ```
-no minu shele
+no hurao kofe
 IMP family help
 (Help the family.)
 ```
@@ -24,13 +24,13 @@ IMP family help
 Phi distinguishes between real and unreal conditions.
 - **Realis Conditional (`lu`):** Used for real or likely possibilities ("if").
   ```
-  lu mia shele...
+  lu mia kofe...
   COND 1SG help...
   (If I help...)
   ```
 - **Irrealis Conditional (`lu he`):** Used for unreal, hypothetical, or counterfactual situations ("if only...", "if it were that..."). It combines `lu` with the irrealis particle `he`.
   ```
-  lu he mia to shele...
+  lu he mia to kofe...
   COND IRR 1SG PST help...
   (If I had helped [but I didn't]...)
   ```
@@ -38,14 +38,14 @@ Phi distinguishes between real and unreal conditions.
 **Optative (`su`):**
 Frames a sentence as a hope, wish, or prayer.
 ```
-su weola wela nio
+su sila wela nai
 OPT community good be
 (May the community be well / I hope for the community to be well.)
 ```
 
 **Politeness (`pi`):**
 ```
-pi no minu shele
+pi no hurao kofe
 POL IMP family help
 (Please help the family.)
 ```
@@ -69,17 +69,17 @@ Following the modifier-first principle, these particles announce temporal, aspec
 - `se` (PASS): `nophi se kealo` (The story is created.)
 
 ### 2.2.4. Modality
-- `po` (POSS): `shia po thola` (The other can speak)
-- `na` (NEC): `mia na nio` (I must exist)
-- `ka` (CAUS): `mia pilo ka nima` (I make the child sleep)
+- `po` (POSS): `shia po toremoa` (The other can speak)
+- `na` (NEC): `mia na nai` (I must exist)
+- `ka` (CAUS): `mia wiru ka nima` (I make the child sleep)
 
 ### 2.2.5. Evidentiality
 Evidential particles mark the source of the speaker's knowledge. They are optional—direct experience is the unmarked default—but provide explicit epistemic transparency when needed.
 
 - `hi` (DIR): `mia hi nila` (I see [I directly witness this])
 - `ke` (INFER): `shia to ke wepu` (She left [I infer from evidence])
-- `ti` (REP): `lo miona ti shele` (People helped [I was told])
-- `ho` (ASM): `thi ho kela` (You understand [I assume])
+- `ti` (REP): `lo miona ti kofe` (People helped [I was told])
+- `ho` (ASM): `thia ho kela` (You understand [I assume])
 
 Note: The reportative `ti` marks knowledge source ("someone told me"), while the quotative complementizer `shola` marks direct quotation ("ko said '...'").
 
@@ -90,7 +90,7 @@ Note: The reportative `ti` marks knowledge source ("someone told me"), while the
 
 When multiple Slot 1 particles combine, they follow a specific order: `Tense` > `Aspect` > `Voice` > `Evidentiality` > `Modality` > `Negation`. This creates layers of announcement, each adding context before the verb is revealed.
 ```
-pi thi so pa po kela
+pi thia so pa po kela
 POL 2SG FUT INCH POSS understand
 (Politely, you will be able to begin to understand.)
 ```
@@ -99,12 +99,12 @@ POL 2SG FUT INCH POSS understand
 The causative particle `ka` is a special modal used to indicate that the subject (the Agent) causes the object (the Patient) to perform an action. This changes the sentence structure slightly.
 
 - **With an intransitive verb:** The agent is added as the new subject, and the original subject becomes the object (the patient).
-  - **Base:** `pilo nima.` (The child sleeps.)
-  - **Causative:** `mia pilo ka nima.` (I make the child sleep.)
+  - **Base:** `wiru nima.` (The child sleeps.)
+  - **Causative:** `mia wiru ka nima.` (I make the child sleep.)
 
 - **With a transitive verb:** The agent is added as the new subject, and the original subject becomes the primary object (the patient).
-  - **Base:** `thi thola kela.` (You understand the story.)
-  - **Causative:** `mia thi thola ka kela.` (I make you understand the story.)
+  - **Base:** `thia toremoa kela.` (You understand the story.)
+  - **Causative:** `mia thia toremoa ka kela.` (I make you understand the story.)
 
 ### 2.2.9. The Passive Voice
 The voice particle `se` is used to form the passive voice. This construction promotes the object of an active sentence to the subject position and typically omits the original agent (the doer of the action). It is used to shift focus to the recipient of the action.
@@ -118,10 +118,10 @@ The voice particle `se` is used to form the passive voice. This construction pro
 These particles announce specific modifications at the word level, always appearing BEFORE the word they affect. This maintains the modifier-first principle even at the smallest grammatical scale:
 
 **Number:**
-- `lo` (PL): `lo whelea` (friends)
+- `lo` (PL): `lo melu` (friends)
 
 **Ordinal:**
-- `nu` (ORD): `nu ta pilo` (first child)
+- `nu` (ORD): `nu ta wiru` (first child)
 
 **Focus:**
 - `ko` (FOC): `mia ko lothea kela` (I understand *love*)
@@ -131,14 +131,14 @@ These particles announce specific modifications at the word level, always appear
 - `mo ko` (SUPL): Forms the superlative.
 - In a comparative sentence, the standard of comparison is marked with the preposition `sheo` (than).
   ```
-  [garden] sheo [forest] mo [beautiful] nio
+  [garden] sheo [forest] mo [beautiful] nai
   garden than forest CMPR beautiful be
   (The garden is more beautiful than the forest.)
   ```
 
 **Deixis:**
-- `ha` (PROX): `ha whelea` (this friend)
-- `ra` (DIST): `that whelea` (that friend)
+- `ha` (PROX): `ha melu` (this friend)
+- `ra` (DIST): `that melu` (that friend)
 
 **Honorifics (Announcing Social Relationships):**
 Honorific particles announce the speaker's relationship to the person being named, appearing BEFORE the name. This announcement of social context demonstrates respect through transparency:

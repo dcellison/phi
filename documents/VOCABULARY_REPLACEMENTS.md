@@ -7,12 +7,12 @@ Track the replacement of improvised Phi words with properly created vocabulary f
 
 | English | Old (Improvised) | New (Proper) | Status | Notes |
 |---------|-----------------|--------------|---------|-------|
-| friend | whelea | **melu** | ✅ Created | Warm connection, mutual bonds |
-| community | weola | **sila** | ✅ Created | Flowing collective, shared paths |
+| friend | melu | **melu** | ✅ Created | Warm connection, mutual bonds |
+| community | sila | **sila** | ✅ Created | Flowing collective, shared paths |
 | water | liso | **phialu** | ✅ Created | Philosophical depth, life-flow |
-| book | phino | **shelu** | ✅ Created | Whispered knowledge, wisdom vessel |
-| garden | noshale | **thepalu** | ✅ Created | Cultivated sanctuary, co-creation |
-| story | thola | **nophi** | ✅ Created | Inner knowing, narrative wisdom |
+| book | shelu | **shelu** | ✅ Created | Whispered knowledge, wisdom vessel |
+| garden | thepalu | **thepalu** | ✅ Created | Cultivated sanctuary, co-creation |
+| story | toremoa | **nophi** | ✅ Created | Inner knowing, narrative wisdom |
 | create | pholea | **kealo** | ✅ Created | Open spark, bringing forth |
 
 ## Pending Tier 2 Replacements
@@ -21,7 +21,7 @@ Track the replacement of improvised Phi words with properly created vocabulary f
 |---------|-----------------|----------|-------|
 | tree/forest | shiro | MEDIUM | Nature concept |
 | parent | mathea | MEDIUM | Family relationship |
-| stone | keto | MEDIUM | Material |
+| stone | toremoa | MEDIUM | Material |
 | table | pota | MEDIUM | Common object |
 | grow | phela | MEDIUM | Natural process |
 | leave/depart | wepu | MEDIUM | Movement verb |
@@ -31,7 +31,7 @@ Track the replacement of improvised Phi words with properly created vocabulary f
 | build | thekoa | MEDIUM | Creative action |
 | remember | tole | MEDIUM | Mental process |
 | calm | philo | MEDIUM | State/quality |
-| beautiful | miro | MEDIUM | Quality |
+| beautiful | lopia | MEDIUM | Quality |
 | purpose | shalai | MEDIUM | Abstract concept |
 | joy | sheala | MEDIUM | Emotion |
 | beauty/harmony | welale | MEDIUM | Abstract quality |
@@ -40,12 +40,12 @@ Track the replacement of improvised Phi words with properly created vocabulary f
 
 ## Documentation Update Locations
 
-### Files with "whelea" (friend) - Need updating to "melu":
+### Files with "melu" (friend) - Need updating to "melu":
 - `/documents/tutorial/lesson-*.md` - Multiple lessons
 - `/book/part2_grammar/*/` - Multiple chapters
 - Various example sentences
 
-### Files with "weola" (community) - Need updating to "sila":
+### Files with "sila" (community) - Need updating to "sila":
 - `/documents/tutorial/lesson-*.md` - Multiple lessons
 - `/book/part2_grammar/*/` - Multiple chapters
 - Story examples

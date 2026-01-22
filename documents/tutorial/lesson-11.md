@@ -12,15 +12,15 @@ Let's learn two temporal prepositions:
 *   `phoe`: before
 *   `pheo`: after
 
-To say, "Before I help, I think," we use the preposition `phoe` followed by the clause "I help" (`mia shele`). This whole phrase then comes before the main clause, "I think" (`mia nolu`).
+To say, "Before I help, I think," we use the preposition `phoe` followed by the clause "I help" (`mia kofe`). This whole phrase then comes before the main clause, "I think" (`mia pheralu`).
 
-*   **Phi:** `phoe [mia shele], mia nolu.`
+*   **Phi:** `phoe [mia kofe], mia pheralu.`
 *   **Gloss:** `BEFORE [1SG help], 1SG think.`
 *   **Translation:** Before I help, I think.
 
 Here's an example with `pheo`:
 
-*   **Phi:** `pheo [mia kealo], mia hisu sela.`
+*   **Phi:** `pheo [mia kealo], mia phaelo kelu.`
 *   **Gloss:** `AFTER [1SG create], 1SG feel peace.`
 *   **Translation:** After I create, I feel peace.
 
@@ -32,11 +32,11 @@ Let's break down: "Because ko left, I feel sad."
 
 1.  **The "Reason" Clause:** `shia to wepu` (She left.)
 2.  **Add the Causal Preposition:** `lao [shia to wepu]` (Because ko left)
-3.  **Add the Main Clause:** `...mia nolou hisu.` (...I feel sad.)
+3.  **Add the Main Clause:** `...mia pheralu phaelo.` (...I feel sad.)
 
 Putting it all together:
 
-*   **Phi:** `lao [shia to wepu], mia nolou hisu.`
+*   **Phi:** `lao [shia to wepu], mia pheralu phaelo.`
 *   **Gloss:** `BECAUSE [3SG PST leave], 1SG sadness feel.`
 *   **Translation:** Because ko left, I feel sad.
 

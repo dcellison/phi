@@ -17,7 +17,7 @@ This vowel appears in languages across the world with remarkable consistency, ma
 **Practice Words:**
 - `ma` (not) - Notice how the openness supports the negation
 - `nosa` (mindful) - Feel the breath flowing freely  
-- `thola` (story) - Let the sound resonate fully
+- `toremoa` (story) - Let the sound resonate fully
 
 ### 8.2.3 The Front Vowels: `e` and `i` 
 

@@ -22,9 +22,9 @@ These are the only "pure" numbers in Phi. All other quantities are expressed thr
 
 **Examples**:
 ```
-ta whelea    (one friend)
-wi whelea    (two friends)
-mu whelea    (no friends / zero friends)
+ta melu    (one friend)
+wi melu    (two friends)
+mu melu    (no friends / zero friends)
 ```
 
 ---
@@ -85,7 +85,7 @@ Scale units can stand alone to indicate approximate quantities, encouraging thin
 shao nila         (roughly 3 days / a few days)
 phoi miona        (roughly 9 people / several people)
 lau shiro         (roughly 27 trees / many trees)
-rei thino         (roughly 81 stars / countless stars)
+rei remo         (roughly 81 stars / countless stars)
 ```
 
 This usage is preferred in Phi for most everyday contexts, as it resists the psychological violence of precise measurement.
@@ -117,7 +117,7 @@ This creates layered announcement: quantity → nature → entity
 
 **People**:
 ```
-wi himo whelea
+wi himo melu
 two PERSON.CLF friend
 (two friends - acknowledging their humanity)
 
@@ -132,29 +132,29 @@ ta shao lipha shiro
 one three-group LIFE.CLF tree
 (three trees - acknowledging their aliveness)
 
-wi lipha kepha
+wi lipha phue
 two LIFE.CLF cat
 (two cats - honoring them as living beings)
 ```
 
 **Inanimate Objects**:
 ```
-ta themo phino
+ta themo shelu
 one OBJECT.CLF book
 (one book - a thing, not alive)
 
-wi shao themo keto
+wi shao themo toremoa
 two three-groups OBJECT.CLF stone
 (six stones - inanimate objects)
 ```
 
 **Abstract Concepts**:
 ```
-wi nophe thola
+wi nophe toremoa
 two ABSTRACT.CLF story
 (two stories - conceptual entities)
 
-ta shao nophe nothela
+ta shao nophe thela
 one three-group ABSTRACT.CLF idea
 (three ideas)
 ```
@@ -164,8 +164,8 @@ one three-group ABSTRACT.CLF idea
 Classifiers are **optional** in Phi, but their use demonstrates mindfulness about the nature of what is being counted. Compare:
 
 ```
-wi whelea         (two friends - neutral)
-wi himo whelea    (two friends - explicitly honoring their humanity)
+wi melu         (two friends - neutral)
+wi himo melu    (two friends - explicitly honoring their humanity)
 ```
 
 The classifier version is more aligned with Phi's philosophy of conscious communication.
@@ -189,9 +189,9 @@ nu wi           (second / in second position)
 nu ta shao       (third)
 nu ta phoi       (ninth)
 
-nu ta pilo      (first child)
+nu ta wiru      (first child)
 nu wi nila      (second day)
-nu ta shao thola (third story)
+nu ta shao toremoa (third story)
 ```
 
 **Usage**: This is the standard grammatical way to form ordinals for most contexts.
@@ -226,10 +226,10 @@ Following modifier-first, quantifiers precede what they enumerate:
 
 **Examples**:
 ```
-theula whelea      (all friends)
-sheloi thola       (many stories)
+theula melu      (all friends)
+sheloi toremoa       (many stories)
 soli nila          (several days)
-mawha whelea       (no friends)
+mawha melu       (no friends)
 ```
 
 ---
@@ -242,7 +242,7 @@ When all elements combine, they follow strict modifier-first ordering:
 
 **Example**:
 ```
-ha wi himo miro whelea
+ha wi himo lopia melu
 PROX two PERSON.CLF beautiful friend
 (these two beautiful friends - acknowledging their humanity)
 ```
@@ -251,8 +251,8 @@ Order breakdown:
 1. `ha` - announces proximity (this/these)
 2. `wi` - announces quantity (two)
 3. `himo` - announces nature (people)
-4. `miro` - announces quality (beautiful)
-5. `whelea` - the entity itself (friend)
+4. `lopia` - announces quality (beautiful)
+5. `melu` - the entity itself (friend)
 
 ---
 
@@ -262,23 +262,23 @@ The plural particle `lo` is **not used** when a numeral or quantifier is present
 
 **With numbers (no `lo` needed)**:
 ```
-wi whelea              (two friends - number implies plural)
+wi melu              (two friends - number implies plural)
 ta shao lipha shiro     (three trees - number implies plural)
 ta phoi himo miona      (nine people - number implies plural)
 ```
 
 **With quantifiers (no `lo` needed)**:
 ```
-sheloi whelea          (many friends - quantifier implies plural)
+sheloi melu          (many friends - quantifier implies plural)
 soli nila              (several days - quantifier implies plural)
 theula miona           (all people - quantifier implies plural)
 ```
 
 **Use `lo` only for unquantified plurals**:
 ```
-lo whelea              (friends - plural, no specific quantity)
-mia lo whelea hisu     (I feel my friends - multiple, uncounted)
-lo shiro miro nio      (Trees are beautiful - trees in general)
+lo melu              (friends - plural, no specific quantity)
+mia lo melu phaelo     (I feel my friends - multiple, uncounted)
+lo shiro lopia nai      (Trees are beautiful - trees in general)
 ```
 
 This follows the pattern of classifier languages where numerals encode plurality, preventing redundant marking.
@@ -482,14 +482,14 @@ Together they ensure counting remains a mindful acknowledgment rather than mecha
 ### Small Quantities (Exact)
 For everyday small quantities, use base numerals with optional classifiers:
 ```
-ta himo pilo         (one child)
-wi lipha kepha       (two cats)
+ta himo wiru         (one child)
+wi lipha phue       (two cats)
 ```
 
 ### Medium Quantities (Approximate)
 For quantities that aren't critical to specify exactly, use scale units alone:
 ```
-shao whelea           (a few friends / roughly 3)
+shao melu           (a few friends / roughly 3)
 phoi nila             (several days / roughly 9)
 ```
 
@@ -497,7 +497,7 @@ phoi nila             (several days / roughly 9)
 For large quantities, embrace approximation:
 ```
 lau shiro            (many trees / a grove)
-rei thino            (countless stars / the heavens)
+rei remo            (countless stars / the heavens)
 sheloi miona         (many people / a crowd)
 ```
 

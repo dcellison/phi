@@ -22,13 +22,13 @@ The sound of `ph` represents a thought being released into the world—a delicat
 
 To produce this sound, place the tip of your tongue either lightly between your teeth or just behind your upper front teeth, then push air through the narrow gap. The resulting sound has a clean, flowing quality that appears in English words like "**th**in," "**th**ought," and "**th**ree."
 
-The sound of `th` represents the texture of a mind weighing an idea, of a thought held just behind the threshold of speech—a physical posture of pause and careful consideration. In Phi, this sound creates the foundation for words like `thola` (story), `thopa` (to speak), and `thelao` (therefore). The continuous, flowing quality of the fricative naturally supports the narrative and communicative functions of these words.
+The sound of `th` represents the texture of a mind weighing an idea, of a thought held just behind the threshold of speech—a physical posture of pause and careful consideration. In Phi, this sound creates the foundation for words like `toremoa` (story), `shemui` (to speak), and `thelao` (therefore). The continuous, flowing quality of the fricative naturally supports the narrative and communicative functions of these words.
 
 ### 8.4.4 The Palatal Rush: `sh`
 
 **`sh`** (/ʃ/) is a **voiceless palato-alveolar fricative** that creates a soft, rushing sound familiar to speakers of many languages. To produce it, raise the body of your tongue towards the hard palate (the roof of your mouth) and push air through the wide channel that is formed.
 
-This sound appears in English words like "**sh**e," "**sh**ine," and "hu**sh**," and its soft, enveloping quality makes it perfect for words that involve gentle action or peaceful states. In Phi, you'll find it in `shia` (the other), `shele` (to give/receive), and `shiro` (forest).
+This sound appears in English words like "**sh**e," "**sh**ine," and "hu**sh**," and its soft, enveloping quality makes it perfect for words that involve gentle action or peaceful states. In Phi, you'll find it in `shia` (the other), `kofe` (to give/receive), and `shiro` (forest).
 
 The sound of `sh` is the audible texture of the collective—broader and more diffuse than the focused whispers of `ph` and `th`. It is the sound of many breaths moving as one, the collective "hush" of a community settling into shared attention. The `sh` sound naturally creates a sense of quietness and intimacy, making it ideal for words that involve careful attention to relationships and natural harmony.
 
@@ -38,7 +38,7 @@ The sound of `sh` is the audible texture of the collective—broader and more di
 
 To produce this sound, round your lips as if to say the word "who," but before voicing the vowel, push a distinct, audible puff of breath through your rounded lips. It should feel like a whispered 'h' right before a 'w' sound. Some English dialects still preserve this sound in words like "**wh**ich" and "**wh**ales."
 
-The sound of `wh` represents the vast, open space that holds community—the sound of stillness, of wind moving through tall grasses, of the world breathing all around us. If `sh` is the voice of the village, `wh` is the voice of the vast natural environment that embraces it. This distinctive sound appears in Phi words like `whio` (air/breath), `whelea` (friend), and `whiso` (to be reciprocal). The breathy, rounded quality of the consonant naturally supports concepts related to breath, relationships, and mutual exchange.
+The sound of `wh` represents the vast, open space that holds community—the sound of stillness, of wind moving through tall grasses, of the world breathing all around us. If `sh` is the voice of the village, `wh` is the voice of the vast natural environment that embraces it. This distinctive sound appears in Phi words like `whio` (air/breath), `melu` (friend), and `whiso` (to be reciprocal). The breathy, rounded quality of the consonant naturally supports concepts related to breath, relationships, and mutual exchange.
 
 ### 8.4.6 The Harmony of Controlled Flow
 

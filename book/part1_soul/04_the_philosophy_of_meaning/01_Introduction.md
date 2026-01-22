@@ -16,7 +16,7 @@ This is not mere efficiency, though it certainly makes the language easier to le
 
 ### 4.1.3 The Compositional Heart
 
-At the core of Phi's approach to meaning lies the principle of **compositional transparency**. Complex ideas are not assigned random sound-shapes but are built systematically from combinations of simpler, foundational concepts. A dream is not an arbitrary word like "oneiros" or "rêve," but `nima thola`—literally "sleep-story," revealing the fundamental relationship between the state of rest and the narrative mind.
+At the core of Phi's approach to meaning lies the principle of **compositional transparency**. Complex ideas are not assigned random sound-shapes but are built systematically from combinations of simpler, foundational concepts. A dream is not an arbitrary word like "oneiros" or "rêve," but `nima toremoa`—literally "sleep-story," revealing the fundamental relationship between the state of rest and the narrative mind.
 
 This compositional approach creates what we might call a "semantic ecosystem," where words exist in meaningful relationship to one another, where learning one concept opens pathways to understanding many others, and where the vocabulary itself becomes a living map of how ideas connect and influence each other.
 

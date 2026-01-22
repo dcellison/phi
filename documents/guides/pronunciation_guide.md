@@ -28,7 +28,7 @@ Read the following words aloud, consciously placing a very slight pause or glott
 | `hauno`  | "how-no"                  | `ha - u - no`         |
 | `sheala` | "shay-la" or "ko-ala"    | `ko - a - la`        |
 | `kewai`  | "kay-why"                 | `ke - wa - i`         |
-| `nolou`  | "no-loo"                  | `no - lo - u`         |
+| `pheralu`  | "no-loo"                  | `no - lo - u`         |
 | `pheo`   | "fee-oh"                  | `phe - o`             |
 
 ## 2. Mastering the Fricatives
@@ -47,7 +47,7 @@ This is **not** the English 'f' sound. Do not let your teeth touch your bottom l
 This sound is common in English, but it's important to be consistent.
 
 *   **How to do it:** Place the tip of your tongue just behind your top teeth, or lightly between your teeth. Push air through. It's the sound in "**th**in" or "**th**ought."
-*   **Practice:** `ra`, `the`, `thi`, `tho`, `ru`
+*   **Practice:** `ra`, `the`, `thia`, `tho`, `ru`
 
 ### `wh` /ʍ/ - The Voiceless 'W'
 
@@ -62,4 +62,4 @@ Many English speakers no longer use this sound, but it's crucial in Phi. It's th
 
 Every sound in Phi has a purpose. Speaking slowly, deliberately, and with attention to these rules is a form of mindfulness. By focusing on the physical act of creating these sounds, you are practicing the core philosophy of the language itself.
 
-`nosa thopa!` (Speak mindfully!) 
+`nosa shemui!` (Speak mindfully!) 

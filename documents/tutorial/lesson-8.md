@@ -8,23 +8,23 @@ Phi has a very simple and elegant way to show possession. Instead of using a spe
 
 The possessor acts just like an adjective.
 
-Let's see this with our words `weola` (community) and `thola` (story).
+Let's see this with our words `sila` (community) and `toremoa` (story).
 
 To say "the community's story," you just say:
 
-*   **Phi:** `weola thola`
+*   **Phi:** `sila toremoa`
 *   **Gloss:** `community story`
 *   **Translation:** the community's story
 
 Let's use it in a full sentence:
 
-*   **Phi:** `mia weola thola whipi.`
+*   **Phi:** `mia sila toremoa whipi.`
 *   **Gloss:** `1SG community story hear.`
 *   **Translation:** I hear the community's story.
 
-This works for pronouns, too. To say "my friend," you place `mia` (I) before `whelea` (friend).
+This works for pronouns, too. To say "my friend," you place `mia` (I) before `melu` (friend).
 
-*   **Phi:** `mia whelea`
+*   **Phi:** `mia melu`
 *   **Gloss:** `1SG friend`
 *   **Translation:** my friend
 
@@ -36,9 +36,9 @@ Phi uses **Slot 2 particles** to make comparisons. These particles come before t
 
 To say something is "more" of a quality, you place the particle `mo` before the adjective.
 
-Let's compare the `noshale` (garden) and the `shiro` (forest).
+Let's compare the `thepalu` (garden) and the `shiro` (forest).
 
-*   **Phi:** `noshale mo wela nio.`
+*   **Phi:** `thepalu mo wela nai.`
 *   **Gloss:** `garden CMPR good/beautiful be.`
 *   **Translation:** The garden is more beautiful.
 
@@ -46,7 +46,7 @@ Let's compare the `noshale` (garden) and the `shiro` (forest).
 
 To say something is the "most" of a quality, you use a combination of two particles: `mo` followed by our new focus particle, `ko`.
 
-*   **Phi:** `noshale mo ko wela nio.`
+*   **Phi:** `thepalu mo ko wela nai.`
 *   **Gloss:** `garden CMPR FOC good/beautiful be.`
 *   **Translation:** The garden is the most beautiful.
 
@@ -54,7 +54,7 @@ The `mo ko` combination creates the superlative degree.
 
 ### Lesson 8 Summary
 
-*   To show **possession**, place the possessor before the thing that is possessed (e.g., `mia phino`, "my book").
+*   To show **possession**, place the possessor before the thing that is possessed (e.g., `mia shelu`, "my book").
 *   To make a **comparative**, place the particle `mo` before an adjective (e.g., `mo wela`, "more beautiful").
 *   To make a **superlative**, place the particle combination `mo ko` before an adjective (e.g., `mo ko wela`, "most beautiful").
 

@@ -31,7 +31,7 @@ The relativizer `rena` announces that what follows is a descriptive clause, appe
 [REL story create] person
 (The person who creates stories.)
 
-[rena mia to nila] phino
+[rena mia to nila] shelu
 [REL 1SG PST see] book
 (The book that I saw.)
 ```
@@ -47,7 +47,7 @@ Conditional sentences announce their hypothetical nature from the start using th
 **Structure:** `lu [CONDITION], [CONSEQUENCE]`
 
 ```
-lu thi shele, mia wela hisu
+lu thia kofe, mia wela phaelo
 COND 2SG help, 1SG good feel
 (If you help, I will feel good.)
 ```
@@ -57,7 +57,7 @@ COND 2SG help, 1SG good feel
 The combination `lu he` announces counterfactual conditions:
 
 ```
-lu he mia to shele, shia ma to wepu
+lu he mia to kofe, shia ma to wepu
 COND IRR 1SG PST help, 3SG NEG PST leave
 (If I had helped, ko would not have left.)
 ```
@@ -81,7 +81,7 @@ mia miso nila
 The reciprocal pronoun `wiso` announces mutual action:
 
 ```
-nio wiso lothea
+nai wiso lothea
 1PL RECP love
 (We love each other.)
 ```

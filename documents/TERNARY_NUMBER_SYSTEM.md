@@ -163,18 +163,18 @@ mia thalo ta shao wi [day] to
 1SG walk one three.group two [day] PST
 "I walked five days ago"
 
-pi no thi phowe wi [fruit]?
+pi no thia phowe wi [fruit]?
 POL IMP 2SG share two [fruit]
 "Would you please share two fruits?"
 
-nio tai phoi [friend]
+nai tai phoi [friend]
 1PL have many [friend]
 "We have many friends" (9-26 friends)
 ```
 
 ### Community Planning
 ```
-pi no nio [distribute] lau [food] wei ta phoi miona
+pi no nai [distribute] lau [food] wei ta phoi miona
 POL IMP 1PL [distribute] abundant [food] to one nine.group person
 "Please let us distribute abundant food to nine people"
 ```

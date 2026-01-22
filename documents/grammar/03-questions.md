@@ -10,7 +10,7 @@ The Slot 0 particle `wa` announces that what follows is a question, not a statem
 
 **Example:**
 ```
-wa thi minu lothea
+wa thia hurao lothea
 Q 2SG family love
 (Do you love your family?)
 ```
@@ -39,7 +39,7 @@ mia hina kela
 1SG what understand
 (What do I understand?)
 
-thi thela kealo
+thia thela kealo
 2SG how create
 (How do you create?)
 ```
@@ -62,7 +62,7 @@ The requirement to announce interrogative intent forces speakers to be conscious
 Questions can combine with other particles while maintaining the modifier-first principle:
 
 ```
-wa pi thi minu shele po
+wa pi thia hurao kofe po
 Q POL 2SG family help POSS
 (Could you please help the family?)
 ```

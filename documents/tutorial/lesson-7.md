@@ -9,18 +9,18 @@ This is a core principle of Phi's elegance: one word class does the work of two.
 As we've seen in previous lessons, an adjective comes **before the noun** it describes. This follows the universal head-final rule.
 
 Let's learn a new adjective and a new noun:
-*   `miro`: beautiful (this is an alternative to `wela`, focusing more on aesthetic beauty)
-*   `phino`: a book / a text
+*   `lopia`: beautiful (this is an alternative to `wela`, focusing more on aesthetic beauty)
+*   `shelu`: a book / a text
 
 To say "a beautiful book," the adjective comes first:
 
-*   **Phi:** `miro phino`
+*   **Phi:** `lopia shelu`
 *   **Gloss:** `beautiful book`
 *   **Translation:** a beautiful book
 
 Let's put this in a full sentence:
 
-*   **Phi:** `mia miro phino shipe.`
+*   **Phi:** `mia lopia shelu shipe.`
 *   **Gloss:** `1SG beautiful book see.`
 *   **Translation:** I see a beautiful book.
 

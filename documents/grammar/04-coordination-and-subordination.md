@@ -8,7 +8,7 @@ Coordinating conjunctions announce the type of connection between equal elements
 
 **Basic (`nela`):** Used for "and."
 ```
-mia sela nela weola lothea
+mia kelu nela sila lothea
 1SG peace COORD community love
 (I love peace and community.)
 ```
@@ -22,7 +22,7 @@ mia lothea kela thona shia ma kela
 
 **Alternative (`sola`):** Used for "or."
 ```
-wa [shia miro] sola [philo]
+wa [shia lopia] sola [philo]
 Q [3SG beautiful] OR [calm]
 (Is it beautiful or calm?)
 ```
@@ -32,19 +32,19 @@ To add emphasis to a coordinated phrase, a logical adverb may be placed before t
 
 - **Both... and...:** Use `nela` to link the items and add the adverb `sila` (together).
   ```
-  mia [sela nela weola] sila lothea
+  mia [kelu nela sila] sila lothea
   1SG [peace and community] together love
   (I love both peace and community.)
   ```
-- **Either... or...:** Use `sola` to link the items and add the adverb `sona` (as a choice).
+- **Either... or...:** Use `sola` to link the items and add the adverb `haoni` (as a choice).
   ```
-  thi [thola sola sela] sona po shele
+  thia [toremoa sola kelu] haoni po kofe
   2SG [story or peace] as-a-choice POSS receive
   (You can have either the story or the peace.)
   ```
-- **Neither... nor...:** Use `sola` and `sona`, and negate the main verb with `ma`.
+- **Neither... nor...:** Use `sola` and `haoni`, and negate the main verb with `ma`.
   ```
-  mia [thola sola sela] sona ma kela
+  mia [toremoa sola kelu] haoni ma kela
   1SG [story or peace] as-a-choice NEG understand
   (I understand neither the story nor the peace.)
   ```
@@ -68,7 +68,7 @@ Subordination in Phi follows the modifier-first principle—dependent clauses an
 ### 4.2.1. Indirect Speech (Clause as Object)
 To report the content of speech indirectly, the reported statement is treated as the direct object of a verb of speech or thought.
 ```
-mia [thi to thopa] kela
+mia [thia to shemui] kela
 1SG [2SG PST speak] understand
 (I understand what you said.)
 ```
@@ -77,7 +77,7 @@ mia [thi to thopa] kela
 
 The quotative complementizer `shola` announces that what follows is direct speech, maintaining the principle of announcing before delivering:
 ```
-shia shola "thino wela" thopa
+shia shola "remo wela" shemui
 3SG QUOT "the sun is beautiful" say
 (She says, "The sun is beautiful.")
 ```
@@ -85,11 +85,11 @@ shia shola "thino wela" thopa
 ### 4.2.3. Temporal Clauses ("announce then deliver")
 A temporal clause is formed by using a preposition that functions as a temporal subordinator to announce the relationship, followed by the clause.
 ```
-pheo [mia kealo] mia sela hisu
+pheo [mia kealo] mia kelu phaelo
 AFTER [1SG create] 1SG peace feel
 (After I create, I feel peace.)
 
-phoe [mia shele] mia nolu
+phoe [mia kofe] mia pheralu
 BEFORE [1SG help] 1SG think
 (Before I help, I think.)
 ```
@@ -101,13 +101,13 @@ Causal ("because") and concessive ("although") clauses are formed by using the p
 
 - **Causal:**
   ```
-  lao [shia to wepu], mia nolou hisu
+  lao [shia to wepu], mia pheralu phaelo
   BECAUSE [3SG PST leave], 1SG sadness feel
   (Because ko left, I feel sad.)
   ```
 - **Concessive:**
   ```
-  shai [shiro to wela ma nio], mia ketho ma hisu
+  shai [shiro to wela ma nai], mia sui ma phaelo
   ALTHOUGH [forest PST beautiful NEG be], 1SG fear NEG feel
   (Although the forest was not beautiful, I felt no fear.)
   ```
@@ -126,7 +126,7 @@ An indirect question is formed by using a clause containing an interrogative pro
   ```
 - **Expressing uncertainty:**
   ```
-  mia [kua thola nio] ma kela
+  mia [kua toremoa nai] ma kela
   1SG [where story is] NEG know
   (I don't know where the story is.)
   ```

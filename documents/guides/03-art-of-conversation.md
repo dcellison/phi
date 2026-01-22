@@ -10,12 +10,12 @@ When you wish to get someone's attention or make it clear you are speaking *to* 
 
 - **Example:**
   ```
-  ko whelea, wa thi wepu?
+  ko melu, wa thia wepu?
   VOC friend, Q 2SG go?
   (Friend, are you going?)
   ```
 
-- **Without the vocative:** `wa thi wepu?` (Are you going?)
+- **Without the vocative:** `wa thia wepu?` (Are you going?)
 
 Using `ko` is not always mandatory if the context is clear, but it is a polite and direct way to initiate conversation or single someone out in a group.
 
@@ -27,21 +27,21 @@ It is absolutely essential for making polite requests.
 
 - **A Direct Command (can sound forceful):**
   ```
-  no minu shele
+  no hurao kofe
   IMP family help
   (Help the family.)
   ```
 
 - **A Polite Request:**
   ```
-  pi no minu shele
+  pi no hurao kofe
   POL IMP family help
   (Please, help the family.)
   ```
 
 You can also use `pi` to soften a statement or question, especially when discussing a sensitive topic or asking for a personal opinion. It signals that you are trying to be mindful of the other person's feelings.
 
-- **A direct question:** `wa thi nolou hisu?` (Are you feeling sad?)
-- **A more gentle, respectful question:** `pi wa thi nolou hisu?` (If you don't mind my asking, are you feeling sad?)
+- **A direct question:** `wa thia pheralu phaelo?` (Are you feeling sad?)
+- **A more gentle, respectful question:** `pi wa thia pheralu phaelo?` (If you don't mind my asking, are you feeling sad?)
 
 Mastering `ko` and `pi` will allow you to navigate conversations with the grace and respect that are central to the Phi worldview. 

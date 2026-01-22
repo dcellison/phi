@@ -8,13 +8,13 @@ Conjunctions are words that link other words, phrases, or clauses together.
 
 The most basic way to connect ideas is with the coordinating conjunction `nela`, which means "and." You can use it to connect two nouns, or even two full sentences.
 
-*   **Phi:** `mia sela nela weola lothea.`
+*   **Phi:** `mia kelu nela sila lothea.`
 *   **Gloss:** `1SG peace and community love.`
 *   **Translation:** I love peace and community.
 
 Here's an example connecting two full sentences:
 
-*   **Phi:** `weola wela nio nela lo whelea wela nio.`
+*   **Phi:** `sila wela nai nela lo melu wela nai.`
 *   **Gloss:** `community good be and PL friend good be.`
 *   **Translation:** The community is good and the friends are good.
 
@@ -34,7 +34,7 @@ To connect two contrasting ideas, we use the conjunction `thona`, which means "b
 
 To connect two alternatives, we use the conjunction `sola`.
 
-*   **Phi:** `wa thi miro nio sola philo nio.`
+*   **Phi:** `wa thia lopia nai sola philo nai.`
 *   **Gloss:** `Q 2SG beautiful be or calm be.`
 *   **Translation:** Are you beautiful or calm?
 

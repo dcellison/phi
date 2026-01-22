@@ -34,7 +34,7 @@ Similarly, in `phaino` (`ha.i.no`), speakers must navigate from the open `a` to 
 
 The best way to internalize this rule is through deliberate practice. Begin by reading words with vowel sequences aloud, deliberately exaggerating the separation between vowels. As you become comfortable with the principle, the separation will feel more natural, but the two sounds must never blend.
 
-Practice words like `nolou` (`no.lo.u`), ensuring that the final `o` and `u` maintain their distinct characters rather than merging into an "oo" sound. Work with `whio` (`ti.o`), feeling the movement from the high `i` to the rounded `o` as two complete, separate gestures.
+Practice words like `pheralu` (`no.lo.u`), ensuring that the final `o` and `u` maintain their distinct characters rather than merging into an "oo" sound. Work with `whio` (`ti.o`), feeling the movement from the high `i` to the rounded `o` as two complete, separate gestures.
 
 The key is to think of each vowel as having its own brief moment of completion before the next vowel begins. This creates a subtle but crucial rhythm that is fundamental to Phi's sound pattern.
 

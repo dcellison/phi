@@ -20,11 +20,11 @@ The possibility particle `po` begins with a gentle plosive that suggests a door 
 
 This phonetic quality perfectly captures the essence of possibility - not the aggressive assertion of certainty, but the humble acknowledgment that multiple outcomes remain available. When we use `po` in a sentence, we're not hedging or showing weakness; we're demonstrating epistemic humility, the wisdom of recognizing the limits of our knowledge.
 
-The transformation that `po` creates is subtle but profound. The definitive statement `phera nio` (it is raining) becomes `phera po nio` (it might be raining), shifting from a claim of direct knowledge to an acknowledgment of inference or uncertainty. This shift doesn't make the statement less valuable - it makes it more honest and therefore more trustworthy.
+The transformation that `po` creates is subtle but profound. The definitive statement `phera nai` (it is raining) becomes `phera po nai` (it might be raining), shifting from a claim of direct knowledge to an acknowledgment of inference or uncertainty. This shift doesn't make the statement less valuable - it makes it more honest and therefore more trustworthy.
 
 What makes `po` particularly elegant is how it preserves the core meaning while adding a layer of epistemic qualification. We're still talking about rain, still engaging with the same basic proposition, but we're being transparent about our relationship to that information. This transparency creates space for dialogue rather than debate, for collaborative truth-seeking rather than competitive assertion.
 
-The particle `po` also allows for graceful speculation and hypothesis formation. When we say `weo po welaki nela` (we might grow together), we're not making a commitment or prediction - we're opening a space for shared imagination, for considering possibilities that might emerge from our collaboration. This kind of tentative, exploratory language is essential for creative thinking and relationship building.
+The particle `po` also allows for graceful speculation and hypothesis formation. When we say `miona po welaki nela` (we might grow together), we're not making a commitment or prediction - we're opening a space for shared imagination, for considering possibilities that might emerge from our collaboration. This kind of tentative, exploratory language is essential for creative thinking and relationship building.
 
 ### 12.4.3 The Sound of Necessity (`na`)
 
@@ -32,9 +32,9 @@ If `po` is the sound of gentle possibility, `na` is the sound of inevitable conc
 
 The phonetic character of `na` reflects its logical function: it marks statements where the speaker has moved beyond mere possibility into the realm of necessity, obligation, or strong inference. When we use `na`, we're not simply offering one option among many - we're indicating that given the available evidence, circumstances, or logical constraints, a particular conclusion becomes unavoidable.
 
-This transformation creates a different kind of certainty than unmarked statements. Where an unmarked statement like `thi phela` (you grow) presents direct observation or simple assertion, `thi na phela` (you must grow) indicates logical necessity or obligation. The necessity particle reveals the reasoning process behind the statement - it shows that the speaker has considered the evidence and concluded that this outcome is required or inevitable.
+This transformation creates a different kind of certainty than unmarked statements. Where an unmarked statement like `thia phela` (you grow) presents direct observation or simple assertion, `thia na phela` (you must grow) indicates logical necessity or obligation. The necessity particle reveals the reasoning process behind the statement - it shows that the speaker has considered the evidence and concluded that this outcome is required or inevitable.
 
-The particle `na` serves several related but distinct functions. It can express logical necessity based on evidence: `lo puna na si phela` (the seeds must have sprouted) when we see new growth in the garden. It can express practical necessity or obligation: `weo na wela nothela` (we must walk peacefully) when discussing community agreements. It can also express strong inference: `mia na so wepu` (I must be going) when circumstances make departure inevitable.
+The particle `na` serves several related but distinct functions. It can express logical necessity based on evidence: `lo puna na si phela` (the seeds must have sprouted) when we see new growth in the garden. It can express practical necessity or obligation: `miona na wela thela` (we must walk peacefully) when discussing community agreements. It can also express strong inference: `mia na so wepu` (I must be going) when circumstances make departure inevitable.
 
 What makes `na` particularly powerful is how it reveals the speaker's confidence in their reasoning while still maintaining transparency about the inferential nature of their statement. Unlike unmarked assertions that might seem to claim direct knowledge, `na` explicitly acknowledges that the speaker is drawing conclusions from available evidence or recognizing obligations arising from circumstances.
 
@@ -46,7 +46,7 @@ The decision to use modal particles in Phi reflects a deeper philosophical commi
 
 When we use `po` or `na`, we're making a conscious choice about how to present our relationship to knowledge. This choice affects not just the information we convey, but the quality of the dialogue we create. Modal particles invite collaboration rather than confrontation, exploration rather than dogmatism.
 
-Consider how different conversations become when speakers are explicit about their level of certainty. A statement like `po wela nio` (it might be good) opens space for others to share their perspectives, to add nuance, to explore alternatives. It acknowledges that the speaker's view is one among many possible interpretations. This humility creates psychological safety for others to contribute their own insights.
+Consider how different conversations become when speakers are explicit about their level of certainty. A statement like `po wela nai` (it might be good) opens space for others to share their perspectives, to add nuance, to explore alternatives. It acknowledges that the speaker's view is one among many possible interpretations. This humility creates psychological safety for others to contribute their own insights.
 
 Conversely, the necessity particle `na` signals that the speaker has engaged in careful reasoning and arrived at a conclusion they consider inevitable given the available evidence. This doesn't shut down dialogue, but it does shift the conversation toward examining the reasoning process itself rather than simply offering alternative opinions.
 

@@ -42,15 +42,15 @@ Phi's vocabulary is designed to reflect an interconnected worldview. Rather than
 
 - **Example: The word `wela`**
   - In English, a garden can be "good" (healthy, productive) or "beautiful" (aesthetically pleasing). These are two different qualities.
-  - In Phi, `noshale wela` ("the garden is `wela`") is a single statement of positive harmony. `wela` implies that the garden is simultaneously beautiful *because* it is healthy, and good *because* it is in a state of aesthetic harmony.
+  - In Phi, `thepalu wela` ("the garden is `wela`") is a single statement of positive harmony. `wela` implies that the garden is simultaneously beautiful *because* it is healthy, and good *because* it is in a state of aesthetic harmony.
   - This design choice encourages speakers to see the interconnectedness of function, aesthetics, and ethics, a core principle of the language.
 
 ### 2.5. Compositional Elegance
 Phi is designed to build complex ideas from simple, core concepts. Rather than creating a unique word for every possible noun, the language encourages the creation of intuitive compounds that are instantly understandable.
 
 - **Example: The concept of a "Dream"**
-  - Instead of having a separate, arbitrary word for a dream, Phi combines two existing words: `nima` (to sleep) and `thola` (story).
-  - A dream is therefore expressed as `nima thola`, or a **"sleep-story."**
+  - Instead of having a separate, arbitrary word for a dream, Phi combines two existing words: `nima` (to sleep) and `toremoa` (story).
+  - A dream is therefore expressed as `nima toremoa`, or a **"sleep-story."**
   - This compositional approach makes the vocabulary easier to learn and encourages a poetic, relational understanding of the world. It reflects the principle of building beautiful, complex systems from simple, elegant parts.
 
 ### 2.6. Analytical and Compositional by Design
@@ -81,21 +81,21 @@ Use Phi to discuss sustainability, mindfulness, community, and connection - the 
 
 **Basic Greeting:**
 ```
-mia thi lothea
+mia thia lothea
 1SG 2SG love
 (I love you / I greet you with love)
 ```
 
 **Mindful Intention:**
 ```
-weo nosa weola shiko
+miona nosa sila thole
 1PL mindful community build
 (We build community mindfully)
 ```
 
 **Peaceful Communication:**
 ```
-pi mia thi kela
+pi mia thia kela
 POL 1SG 2SG understand
 (I seek to understand you with respect)
 ```
@@ -128,7 +128,7 @@ Let's take a complex English sentence that describes the Solarpunk aesthetic:
 A direct translation would be long, clumsy, and ungrammatical. Instead, we transmute it.
 
 **1. Transmute the Concepts:** First, we find the Phi way of thinking about the key terms.
-*   "Aesthetics" becomes `wela nothela` (the path of harmony).
+*   "Aesthetics" becomes `wela thela` (the path of harmony).
 *   "Practical" becomes `shalai wela` (good for its purpose).
 *   "Lush" becomes `lipha wela` (good with life).
 *   "Well-designed" becomes `nosa thekoa` (mindful building).
@@ -136,7 +136,7 @@ A direct translation would be long, clumsy, and ungrammatical. Instead, we trans
 **2. Transmute the Structure:** The English sentence uses a single, complex verb ("merge"). The Phi way is more deliberate and descriptive. It is more natural to break the idea into parallel statements, creating a clear and poetic rhythm.
 
 **3. The Final Transmutation:** The original idea, filtered through the lens of Phi, becomes this:
-*   **Phi:** `wela nothela mu [shalai wela nela wela] shei nio. [nosa thekoa nela hasa lipha wela] shei nio. [miro nela makoi wela] shei nio.`
+*   **Phi:** `wela thela mu [shalai wela nela wela] shei nai. [nosa thekoa nela hasa lipha wela] shei nai. [lopia nela makoi wela] shei nai.`
 *   **Gloss:** `harmony-path in [purpose-good and beauty] connect be. [mindful-build and green life-good] connect be. [bright and earthy/good] connect be.`
 *   **Translation:** In the path of harmony, the practical and the beautiful are connected. The well-designed and the green and lush are connected. The bright and the earthy and solid are connected.
 

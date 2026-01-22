@@ -91,15 +91,15 @@ The key challenge is representing particles that affect different scopes (word, 
 
 ### Visual Example
 
-For the sentence: `wa pi mia lo whelea so ko shele`
+For the sentence: `wa pi mia lo melu so ko kofe`
 (Q POL 1SG PL friend FUT FOC help)
 "Will I please help the friends (emphasized)?"
 
 - "wa" creates question arc over everything
 - "pi" adds politeness marker in margin
 - "mia" is a single glyph block
-- "whelea" has "lo" attached as small affix
-- "shele" has "so" as medium affix (verb modifier) and "ko" as small affix (focus)
+- "melu" has "lo" attached as small affix
+- "kofe" has "so" as medium affix (verb modifier) and "ko" as small affix (focus)
 
 ## Logographic vs. Syllabic Writing
 
@@ -173,7 +173,7 @@ Compound words should optionally reveal their components:
 
 ### Visual Strategies
 1. **Nested blocks**: Component words appear as sub-blocks within a larger frame
-   - Example: "nothela" could show [no][the][la] within a unified border
+   - Example: "thela" could show [no][the][la] within a unified border
 2. **Shared elements**: Overlapping glyphs where components share visual features
 3. **Gradient complexity**: Simple compounds use touching blocks, complex ones use fusion
 4. **Etymology markers**: Small indicators showing word boundaries for learners
@@ -198,7 +198,7 @@ This allows readers to choose their level of analysis—seeing either the whole 
 
 ## Managing Visual Complexity
 
-The interaction of multiple particle scopes poses a significant design challenge. Consider the sentence `wa pi mia lo whelea so ko shele` with 7 grammatical elements affecting different scopes.
+The interaction of multiple particle scopes poses a significant design challenge. Consider the sentence `wa pi mia lo melu so ko kofe` with 7 grammatical elements affecting different scopes.
 
 ### Strategies for Clarity
 

@@ -28,7 +28,7 @@ This grammatical design reflects a philosophical choice: that requests should fe
 
 Another dimension of Phi's approach to respectful communication lies in its evidential system—the grammatical requirement to indicate the source and quality of one's knowledge. While this system serves practical functions of clarity and accuracy, it also serves important social functions related to intellectual humility and respectful dialogue.
 
-By requiring speakers to distinguish between direct experience (`shipe`), logical inference (`nolu`), and received information (`whipi`), the evidential system creates constant opportunities for epistemic humility—the recognition that different kinds of knowledge have different kinds of authority and that no individual has direct access to all relevant information.
+By requiring speakers to distinguish between direct experience (`shipe`), logical inference (`pheralu`), and received information (`whipi`), the evidential system creates constant opportunities for epistemic humility—the recognition that different kinds of knowledge have different kinds of authority and that no individual has direct access to all relevant information.
 
 This systematic cultivation of intellectual humility serves respectful communication by reducing the tendency toward dogmatic assertion, encouraging genuine curiosity about others' perspectives, and creating conversational space for multiple viewpoints to coexist without immediate pressure toward consensus or dominance.
 

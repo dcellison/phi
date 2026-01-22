@@ -13,16 +13,16 @@ The key to understanding correlatives is recognizing that they serve not just lo
 The most fundamental correlative construction in Phi uses the repetition of `nela` to create strong additive emphasis, equivalent to "both...and" in English but carrying additional connotations of completeness and harmony. This pattern suggests not just that two things are true, but that they form a complete and balanced whole.
 
 **Basic Both-And Patterns:**
-- `nela wela nela miro` → "both good and beautiful" (complete positive quality)
+- `nela wela nela lopia` → "both good and beautiful" (complete positive quality)
 - `nela keta nela lino` → "both brave and wise" (complete character)
-- `nela mia nela weo` → "both I and we" (individual and collective)
+- `nela mia nela miona` → "both I and we" (individual and collective)
 
 **Extended Constructions:**
-- `nela mia nolea thola nela weo wholesa kela` → "both I read the story and we understand its meaning"
-- `nela shiro ela miro nela whalo soa wela` → "both the forest is beautiful and the wind feels good"
+- `nela mia nolea toremoa nela miona wholesa kela` → "both I read the story and we understand its meaning"
+- `nela shiro ela lopia nela whalo soa wela` → "both the forest is beautiful and the wind feels good"
 
 **Triple Emphasis:**
-- `nela wela nela miro nela sela` → "good and beautiful and peaceful" (triple positive reinforcement)
+- `nela wela nela lopia nela kelu` → "good and beautiful and peaceful" (triple positive reinforcement)
 
 The power of `nela...nela` constructions lies in their ability to present multiple elements as forming an integrated whole rather than simply being added together. This pattern suggests that the coordinated elements belong together naturally and that their combination is somehow necessary or inevitable.
 
@@ -31,11 +31,11 @@ The power of `nela...nela` constructions lies in their ability to present multip
 Parallel `sola` constructions create emphasis on choice and possibility, but with greater weight and formality than simple coordination. These patterns suggest that the speaker is presenting carefully considered alternatives, each of which represents a complete and viable path forward.
 
 **Balanced Alternatives:**
-- `sola mia nolea sola mia thopa` → "either I read or I speak" (clear choice between activities)
-- `sola weo kela sola weo su wholesa` → "either we understand or we want to understand" (choice between states of knowledge)
+- `sola mia nolea sola mia shemui` → "either I read or I speak" (clear choice between activities)
+- `sola miona kela sola miona su wholesa` → "either we understand or we want to understand" (choice between states of knowledge)
 
 **Complex Choice Structures:**
-- `sola mia po (nolea wela thola nela wholesa kela) sola mia po (thopa weo nela nosea shia)` → "either I can (read good stories and understand their meaning) or I can (speak with you and listen to them)"
+- `sola mia po (nolea wela toremoa nela wholesa kela) sola mia po (shemui miona nela nosea shia)` → "either I can (read good stories and understand their meaning) or I can (speak with you and listen to them)"
 
 **Progressive Choices:**
 - `sola te, sola ki, sola pa` → "either beginning, or continuing, or completing" (temporal alternatives)
@@ -47,16 +47,16 @@ The `sola...sola` pattern creates a sense of deliberate choice-making, suggestin
 One of the most sophisticated correlative patterns in Phi combines negation with contrast to create strong corrective emphasis. The `ma...thona` construction allows speakers to reject one possibility while affirming another, creating clear distinctions and redirecting understanding.
 
 **Simple Corrections:**
-- `ma wela thona miro` → "not good but beautiful" (quality distinction)
-- `ma keto thona phithea` → "not difficult but complex" (nuanced correction)
-- `ma mia thona weo` → "not I but we" (agency clarification)
+- `ma wela thona lopia` → "not good but beautiful" (quality distinction)
+- `ma toremoa thona phithea` → "not difficult but complex" (nuanced correction)
+- `ma mia thona miona` → "not I but we" (agency clarification)
 
 **Complex Distinctions:**
-- `ma mia su nolea thola thona mia su wholesa kela` → "not that I want to read the story but that I want to understand its meaning"
-- `ma weo thopa lau thona weo thopa sela` → "not that we speak loudly but that we speak peacefully"
+- `ma mia su nolea toremoa thona mia su wholesa kela` → "not that I want to read the story but that I want to understand its meaning"
+- `ma miona shemui lau thona miona shemui kelu` → "not that we speak loudly but that we speak peacefully"
 
 **Layered Corrections:**
-- `ma (wela nela miro) thona (sela nela nosa)` → "not (good and beautiful) but (peaceful and mindful)"
+- `ma (wela nela lopia) thona (kelu nela nosa)` → "not (good and beautiful) but (peaceful and mindful)"
 
 The `ma...thona` pattern serves crucial functions in thoughtful dialogue, allowing speakers to make precise distinctions while maintaining respect for alternative viewpoints. This construction acknowledges what is being rejected while clearly establishing what is being affirmed in its place.
 
@@ -65,14 +65,14 @@ The `ma...thona` pattern serves crucial functions in thoughtful dialogue, allowi
 A particularly elegant correlative pattern uses `shai` (somewhat/quite) in the first clause followed by `nela` in the second to create constructions that acknowledge degrees or layers of truth. This pattern allows for nuanced expression that recognizes complexity while building toward fuller understanding.
 
 **Graduated Acknowledgment:**
-- `shai miro nela wela theula` → "quite beautiful and completely good" (building emphasis)
-- `shai keto nela wholesa ki` → "somewhat difficult and still understanding" (acknowledging challenge while maintaining progress)
+- `shai lopia nela wela theula` → "quite beautiful and completely good" (building emphasis)
+- `shai toremoa nela wholesa ki` → "somewhat difficult and still understanding" (acknowledging challenge while maintaining progress)
 
 **Progressive Development:**
-- `shai mia wholesa thola, nela mia ki nosea kela phithea` → "I somewhat understand the story, and I'm continuing to listen to its complexities"
+- `shai mia wholesa toremoa, nela mia ki nosea kela phithea` → "I somewhat understand the story, and I'm continuing to listen to its complexities"
 
 **Layered Appreciation:**
-- `shai shiro miro, nela whalo theula sela` → "the forest is quite beautiful, and the wind is completely peaceful"
+- `shai shiro lopia, nela whalo theula kelu` → "the forest is quite beautiful, and the wind is completely peaceful"
 
 These graduated constructions reflect Phi's commitment to expressing truth with precision and nuance, avoiding both overstatement and understatement while building understanding through carefully calibrated layers of meaning.
 
@@ -82,13 +82,13 @@ Advanced correlative constructions can incorporate temporal particles to create 
 
 **Past to Present Progression:**
 - `to mia ma wholesa, nela ki mia kela` → "I didn't understand (then), and now I'm learning"
-- `to welo phithea, nela ki ela miro` → "the music was complex (then), and now it's beautiful"
+- `to welo phithea, nela ki ela lopia` → "the music was complex (then), and now it's beautiful"
 
 **Completed to Continuing:**
-- `to mia pa nolea thola, nela ki mia wholesa kela` → "I finished reading the story, and now I'm understanding its meaning"
+- `to mia pa nolea toremoa, nela ki mia wholesa kela` → "I finished reading the story, and now I'm understanding its meaning"
 
 **Building Understanding:**
-- `to shai keto, nela ki ki wela` → "it was somewhat difficult (then), and now it's becoming good"
+- `to shai toremoa, nela ki ki wela` → "it was somewhat difficult (then), and now it's becoming good"
 
 These temporal correlatives demonstrate how Phi's systematic approach to grammar allows for the expression of sophisticated relationships between different temporal states while maintaining the clarity and flow that characterize the language's approach to complex expression.
 

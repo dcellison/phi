@@ -18,9 +18,9 @@ As speakers of an SVO language, we parse this with unthinking speed. `The parent
 
 This structure creates a worldview centered on actors and their actions. It is a grammar of "doers" and "doing," a linguistic framework that values immediacy and forwards momentum above all else. It is a powerful tool for a fast-paced world, but its very efficiency can encourage a form of cognitive impatience, a habit of rushing to the action without first dwelling in the richness of the scene.
 
-Now, let us experience the same thought through the architecture of Phi: `mathea phino nolea.` The journey this sentence takes us on is profoundly different. It is not a linear sprint to the action, but a slow, painterly reveal.
+Now, let us experience the same thought through the architecture of Phi: `mathea shelu nolea.` The journey this sentence takes us on is profoundly different. It is not a linear sprint to the action, but a slow, painterly reveal.
 
-First, our attention is drawn to `mathea`. A parent appears in our mind's eye. The entire scene is, for this moment, centered on this person and their being. Next, `phino`: a book. The scene is enriched with a new object. It does not yet belong to the parent, nor is it being acted upon; it simply co-exists in the same conceptual space. The listener now holds a complete, static, and peaceful image: a parent and a book, a scene of quiet potential. There is no rush, no action, only a tranquil tableau.
+First, our attention is drawn to `mathea`. A parent appears in our mind's eye. The entire scene is, for this moment, centered on this person and their being. Next, `shelu`: a book. The scene is enriched with a new object. It does not yet belong to the parent, nor is it being acted upon; it simply co-exists in the same conceptual space. The listener now holds a complete, static, and peaceful image: a parent and a book, a scene of quiet potential. There is no rush, no action, only a tranquil tableau.
 
 It is only at the very end of the thought that the verb, `nolea` (reads), arrives. It does not drive the sentence forward, but instead lands gently, like the final brushstroke that illuminates the relationship between the elements already on the canvas. It is a moment of quiet synthesis, where the connection between the parent and the book is finally, and beautifully, clarified.
 

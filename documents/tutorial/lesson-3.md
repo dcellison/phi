@@ -7,11 +7,11 @@ Phi has two simple and consistent ways to ask questions.
 To turn any statement into a yes/no question, you simply add the **question particle `wa`** to the very beginning of the sentence.
 
 Let's take a statement we already know:
-*   `weola wela nio.` (The community is beautiful.)
+*   `sila wela nai.` (The community is beautiful.)
 
 To ask, "Is the community beautiful?", we just add `wa`:
 
-*   **Phi:** `wa weola wela nio.`
+*   **Phi:** `wa sila wela nai.`
 *   **Gloss:** `Q community good/beautiful be.`
 *   **Translation:** Is the community beautiful?
 
@@ -33,7 +33,7 @@ Let's see them in action. Notice how the sentence structure is always verb-final
 **Asking "what?":**
 To ask "What do you understand?", you place `hina` in the object position.
 
-*   **Phi:** `thi hina kela.`
+*   **Phi:** `thia hina kela.`
 *   **Gloss:** `2SG what understand.`
 *   **Translation:** What do you understand?
 
@@ -47,7 +47,7 @@ To ask "Who understands love?", you place `sua` in the subject position.
 **Asking "where?":**
 To ask "Where does the community sleep?", you place `kua` in the location (adverbial) slot.
 
-*   **Phi:** `weola kua nima.`
+*   **Phi:** `sila kua nima.`
 *   **Gloss:** `community where sleep.`
 *   **Translation:** Where does the community sleep?
 

@@ -23,10 +23,10 @@ Following the modifier-first principle, Phi places verbs at the end of clauses, 
 **Core Patterns:**
 - **S-V (Intransitive):** `mia nima.` (I sleep.)
 - **S-O-V (Transitive):** `mia nophi kealo.` (I create a story.)
-- **S-[Adverbial(s)]-O-V:** `mia thea miro nophi kealo.` (I today a beautiful story create.)
+- **S-[Adverbial(s)]-O-V:** `mia thea lopia nophi kealo.` (I today a beautiful story create.)
 - **S-[Adverbial(s)]-V:**
   ```
-  mia [mua noshale] hisu wela
+  mia [mua thepalu] phaelo wela
   1SG [in garden] feel well
   (I feel well in the garden.)
   ```
@@ -37,20 +37,20 @@ This verb-final order isn't arbitrary—it embodies the philosophical commitment
 
 ### 1.3.1. Descriptive Modifiers
 All descriptive elements precede what they describe:
-- **Adjectives before nouns:** `miro phino` (beautiful book)
+- **Adjectives before nouns:** `lopia shelu` (beautiful book)
 - **Adverbs before verbs:** `nosa kealo` (mindfully create)
-- **Demonstratives before nouns:** `ha whelea` (this friend)
+- **Demonstratives before nouns:** `ha melu` (this friend)
 
 ### 1.3.2. Possession as Modification
 Possession is expressed through the modifier-first principle—the possessor precedes the possessed:
-- **Simple possession:** `weola thola` (the community's story)
-- **Complex possession:** `[miro whelea] hauno` ([beautiful friend] house = the beautiful friend's house)
+- **Simple possession:** `sila toremoa` (the community's story)
+- **Complex possession:** `[lopia melu] hauno` ([beautiful friend] house = the beautiful friend's house)
 
 ### 1.3.3. Quantification as Modification
 Quantifiers precede what they count:
-- `theula lo whelea` (all of the friends)
-- `sheloi thola` (many stories)
-- `mawha whelea` (no friend)
+- `theula lo melu` (all of the friends)
+- `sheloi toremoa` (many stories)
+- `mawha melu` (no friend)
 
 ## 1.4. Prepositions: Announcing Relationships
 
@@ -72,7 +72,7 @@ This prepositional system makes every spatial or temporal relationship explicit 
 
 Phi uses no articles (the/a/an), maintaining simplicity while requiring mindful attention to context:
 
-- **Contextual definiteness:** `whelea` can mean "friend," "a friend," or "the friend" based on discourse context
+- **Contextual definiteness:** `melu` can mean "friend," "a friend," or "the friend" based on discourse context
 - **Explicit specification:** When needed, demonstratives (`ha` = this, `ra` = that) provide specificity
 
 This system requires speakers and listeners to remain present and engaged with the conversation's context, promoting mindful communication.
@@ -85,7 +85,7 @@ Even direct address follows the announce-then-deliver principle. The vocative ma
 
 **Example:**
 ```
-kona whelea, mia ha nio
+kona melu, mia ha nai
 VOC friend, 1SG here am
 (Friend, I am here.)
 ```

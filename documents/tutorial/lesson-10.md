@@ -48,7 +48,7 @@ To indicate position or order, use the particle `nu` before numbers:
 *   **Third:** `nu ta shao [noun]`
 
 Examples:
-*   `nu ta pilo` - first child
+*   `nu ta wiru` - first child
 *   `nu wi nila` - second day
 *   `nu ta shao hauno` - third house
 

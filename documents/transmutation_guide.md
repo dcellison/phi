@@ -20,7 +20,7 @@ Our subject is a passage from "A Solarpunk Manifesto," a text rich in the concep
 
 A direct translation is impossible and undesirable. First, we must transmute the key concepts into Phi's worldview.
 
-*   **"Aesthetics"**: This is not just about beauty, but the *philosophy* of it. We combine `welale` (the quality of harmony) and `nothela` (a path of thought) to create `welale nothela` (the study/path of harmony).
+*   **"Aesthetics"**: This is not just about beauty, but the *philosophy* of it. We combine `welale` (the quality of harmony) and `thela` (a path of thought) to create `welale thela` (the study/path of harmony).
 *   **"Practical"**: A purely functional concept. We combine `shalai` (purpose) and `wela` (good) to create `shalai wela` (good for its purpose).
 *   **"Lush"**: This implies vibrant life. We combine `lipha` (life/vitality) and `wela` (good) to create `lipha wela` (good with life).
 *   **"Well-designed"**: This implies mindful creation. We combine `nosa` (mindful) and `thekoa` (to build) to create `nosa thekoa` (mindful building).
@@ -30,7 +30,7 @@ A direct translation is impossible and undesirable. First, we must transmute the
 **2. Transmute the Structure:** The English sentence uses a single, complex verb ("merge"). The Phi way is more deliberate and descriptive. It is more natural to break the idea into parallel statements, creating a clear and poetic rhythm.
 
 **3. The Final Transmutation:** The original idea, filtered through the lens of Phi, becomes this:
-*   **Phi:** `wela nothela mu [shalai wela nela wela] shei nio. [nosa thekoa nela hasa lipha wela] shei nio. [miro nela makoi wela] shei nio.`
+*   **Phi:** `wela thela mu [shalai wela nela wela] shei nai. [nosa thekoa nela hasa lipha wela] shei nai. [lopia nela makoi wela] shei nai.`
 *   **Gloss:** `harmony-path in [purpose-good and beauty] connect be. [mindful-build and green life-good] connect be. [bright and earthy/good] connect be.`
 *   **Translation:** In the path of harmony, the practical and the beautiful are connected. The well-designed and the green and lush are connected. The bright and the earthy and solid are connected.
 
@@ -57,7 +57,7 @@ Again, a direct list would be awkward. The Phi transmutation breaks the sentence
 
 ### Final Transmutation (Sentence 2)
 
-*   **Phi:** `solapano sheale po nio. solapano sinoa po nio. solapano [sheale thekoa lila] wothe po nio. thona solapano phalo phele.`
+*   **Phi:** `solapano sheale po nai. solapano sinoa po nai. solapano [sheale thekoa lila] wothe po nai. thona solapano phalo phele.`
 *   **Gloss:** `solarpunk utopia can be. solarpunk hope can be. solarpunk [utopia build PURP] struggle can be. but solarpunk dystopia reject.`
 *   **Translation:** Solarpunk can be a utopia. Solarpunk can be hope. Solarpunk can be the struggle to build a utopia. But Solarpunk rejects dystopia.
 
@@ -73,7 +73,7 @@ This sentence requires nuance to avoid a mistranslation.
 
 *   **"Calamity"**: Derived from its conceptual root, `phalo` (Dystopia), we created `phaloa`.
 *   **"Solution"**: A solution is a path back to peace. We derived `shilela` (a path of flowing back to peace) from our word for justice, `shilei`.
-*   **"Warning"**: This is a "speech of alertness." We create the compound `ketho thopa` from `ketho` (alertness) and `thopa` (speech).
+*   **"Warning"**: This is a "speech of alertness." We create the compound `sui shemui` from `sui` (alertness) and `shemui` (speech).
 *   **"not only..."**: The most critical transmutation. This does not mean "warnings are not needed." It means "warnings are insufficient; solutions are more important."
 
 ### Step 2: Structural Transmutation
@@ -82,7 +82,7 @@ The best way to express the "not only" idea in Phi is to state both parts of the
 
 ### Final Transmutation (Sentence 3)
 
-*   **Phi:** `[mako phaloa hisu] silo ketho thopa wela nio. thona shilela mo na nio.`
+*   **Phi:** `[muila phaloa phaelo] silo sui shemui wela nai. thona shilela mo na nai.`
 *   **Gloss:** `[earth calamity feel] DUR alertness-speech good be. but solution CMPR NEC be.`
 *   **Translation:** While the world feels calamity, warnings are good, but solutions are more necessary.
 

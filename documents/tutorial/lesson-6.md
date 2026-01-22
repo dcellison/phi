@@ -31,7 +31,7 @@ Let's learn two modality particles:
 *   **Translation:** The other can create.
 
 **Example with `na` (must):**
-*   **Phi:** `mia na shele.`
+*   **Phi:** `mia na kofe.`
 *   **Gloss:** `1SG NEC give/receive.`
 *   **Translation:** I must give.
 
@@ -69,14 +69,14 @@ There are four evidential particles:
 Perhaps you found an empty room and a note. You didn't see her leave, but the evidence tells you ko did.
 
 **Example with `ti` (hearsay):**
-*   **Phi:** `lo miona ti shele.`
+*   **Phi:** `lo miona ti kofe.`
 *   **Gloss:** `PL person REP help.`
 *   **Translation:** People helped [I was told].
 
 You weren't there, but someone reported this to you.
 
 **Example with `ho` (assumption):**
-*   **Phi:** `thi ho kela.`
+*   **Phi:** `thia ho kela.`
 *   **Gloss:** `2SG ASM understand.`
 *   **Translation:** You understand [I assume].
 

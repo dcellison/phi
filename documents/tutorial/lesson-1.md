@@ -8,7 +8,7 @@ A sentence needs a subject (who or what is doing the action) and a verb (the act
 
 Let's learn two nouns and one verb:
 *   `mia`: I, me (the self)
-*   `weola`: community
+*   `sila`: community
 *   `nima`: to sleep
 
 To say "I sleep," you place the subject first, and the verb last.
@@ -19,20 +19,20 @@ To say "I sleep," you place the subject first, and the verb last.
 
 To say "The community sleeps," it's the same pattern:
 
-*   **Phi:** `weola nima.`
+*   **Phi:** `sila nima.`
 *   **Gloss:** `community sleep.`
 *   **Translation:** The community sleeps.
 
-### Describing Things with `nio`
+### Describing Things with `nai`
 
-How do you describe something? In Phi, we are always explicit. To say something *is* a certain way, we use the verb `nio` (to be/to exist).
+How do you describe something? In Phi, we are always explicit. To say something *is* a certain way, we use the verb `nai` (to be/to exist).
 
 Let's learn one adjective:
 *   `wela`: good / beautiful / harmonious
 
-To say "The community is beautiful," you state the subject, then the quality, and end with the verb `nio`.
+To say "The community is beautiful," you state the subject, then the quality, and end with the verb `nai`.
 
-*   **Phi:** `weola wela nio.`
+*   **Phi:** `sila wela nai.`
 *   **Gloss:** `community good/beautiful be.`
 *   **Translation:** The community is beautiful.
 
@@ -42,6 +42,6 @@ This `Subject-Adjective-Verb` structure is a core pattern built on the verb-fina
 
 *   The verb is always the final word in a Phi sentence.
 *   The simplest sentence pattern is `Subject-Verb`.
-*   To describe something, use the pattern `Subject-Adjective-nio`.
+*   To describe something, use the pattern `Subject-Adjective-nai`.
 
 Congratulations! You can now form basic, complete sentences in Phi. In the next lesson, we will introduce objects and prepositions. 

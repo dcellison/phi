@@ -13,16 +13,16 @@ The choice of specific sounds for each conjunction also carries meaning. The flo
 The conjunction `nela` serves as Phi's primary tool for addition and accumulation, equivalent to "and" in English but carrying subtle additional connotations of harmony and natural flowing together. The particle combines the gentle nasal `n` with flowing liquids, creating a sound that naturally suggests the coming together of separate elements into a unified whole.
 
 **Basic Word Coordination:**
-- `wela nela miro` → "good and beautiful" (harmonious and aesthetic)
+- `wela nela lopia` → "good and beautiful" (harmonious and aesthetic)
 - `keta nela lino` → "courage and wisdom" (bravery and insight)
-- `sila nela sela` → "together and peaceful" (unified and harmonious)
+- `sila nela kelu` → "together and peaceful" (unified and harmonious)
 
 **Phrase Coordination:**
-- `wela thola nela miro shiro` → "a good story and a beautiful forest" 
-- `mia nolea nela weo thopa` → "I read and we speak"
+- `wela toremoa nela lopia shiro` → "a good story and a beautiful forest" 
+- `mia nolea nela miona shemui` → "I read and we speak"
 
 **Clause Coordination:**
-- `mia to nolea thola, nela weo to thopa sela` → "I read the story, and we spoke about peace"
+- `mia to nolea toremoa, nela miona to shemui kelu` → "I read the story, and we spoke about peace"
 
 The key to using `nela` effectively is understanding that it suggests not merely sequential addition but harmonic combination. When we join elements with `nela`, we imply that they belong together naturally, that their combination creates something greater than the sum of their parts.
 
@@ -33,16 +33,16 @@ The conjunction `thona` introduces contrast and tension while maintaining the po
 The fricative `th` at the beginning of `thona` creates a slight breathiness that encourages speakers to pause and consider the shift in perspective they're about to introduce. This sound naturally slows the pace of speech, creating space for the kind of thoughtful transition that true dialogue requires.
 
 **Contrasting Qualities:**
-- `wela thona keto` → "good but difficult" (harmonious yet challenging)
-- `miro thona keto` → "beautiful but difficult" (aesthetic yet challenging)
+- `wela thona toremoa` → "good but difficult" (harmonious yet challenging)
+- `lopia thona toremoa` → "beautiful but difficult" (aesthetic yet challenging)
 - `keta thona nosa` → "brave but mindful" (courageous yet aware)
 
 **Contrasting Actions:**
 - `mia nolea thona ma kela` → "I read but don't understand"
-- `weo thopa thona shia ma whipi` → "We speak but they don't listen"
+- `miona shemui thona shia ma whipi` → "We speak but they don't listen"
 
 **Balanced Perspectives:**
-- `thola wela nio, thona mia kela shai keto` → "The story is good, but I understand it's somewhat difficult"
+- `toremoa wela nai, thona mia kela shai toremoa` → "The story is good, but I understand it's somewhat difficult"
 
 The art of using `thona` lies in presenting contrasts that invite deeper understanding rather than creating adversarial positions. The goal is to acknowledge complexity and nuance, not to set up conflicts that must be resolved through victory and defeat.
 
@@ -52,12 +52,12 @@ The conjunction `sola` opens spaces of possibility and choice, equivalent to "or
 
 **Simple Alternatives:**
 - `thea sola nima` → "tea or sleep" (offering choices for comfort)
-- `nolea sola thopa` → "reading or speaking" (different forms of engagement)
-- `wela sola miro` → "good or beautiful" (various forms of positive quality)
+- `nolea sola shemui` → "reading or speaking" (different forms of engagement)
+- `wela sola lopia` → "good or beautiful" (various forms of positive quality)
 
 **Complex Choices:**
-- `mia po nolea thola sola kela miro shiro` → "I can read the story or understand the beautiful forest"
-- `weo po thopa sela sola whipi miro thola` → "We can speak about peace or listen to beautiful stories"
+- `mia po nolea toremoa sola kela lopia shiro` → "I can read the story or understand the beautiful forest"
+- `miona po shemui kelu sola whipi lopia toremoa` → "We can speak about peace or listen to beautiful stories"
 
 **Inclusive Possibilities:**
 - `kela sola nosa sola lino` → "understanding or awareness or wisdom" (layered forms of knowing)
@@ -84,12 +84,12 @@ Understanding these rhythmic qualities allows speakers to choose coordination st
 Advanced use of simple coordination involves the strategic combination of different conjunction types to create more complex logical and emotional textures. By layering `nela`, `thona`, and `sola` in thoughtful sequences, speakers can guide listeners through sophisticated chains of reasoning while maintaining clarity and grace.
 
 **Building to Contrast:**
-- `mia nolea thola nela wholesa kela, thona shai phithea ela` → "I read the story and understand the meaning, but it's quite complex"
+- `mia nolea toremoa nela wholesa kela, thona shai phithea ela` → "I read the story and understand the meaning, but it's quite complex"
 
 **Contrasting to Choice:**
-- `welo ela miro thona shai lenta, sola mia po nosea sola thopa` → "The music is beautiful but quite soft, so I can listen or speak"
+- `welo ela lopia thona shai lenta, sola mia po nosea sola shemui` → "The music is beautiful but quite soft, so I can listen or speak"
 
 **Choosing within Addition:**
-- `mia su nolea sola wholesa (wela thola nela miro shale) nela thopa weo` → "I want to read or understand (good stories and beautiful nature) and speak with you"
+- `mia su nolea sola wholesa (wela toremoa nela lopia shale) nela shemui miona` → "I want to read or understand (good stories and beautiful nature) and speak with you"
 
 These layered constructions require careful attention to the logical flow and emotional progression of the ideas being connected. The goal is to create coordination patterns that feel natural and inevitable rather than forced or artificial, supporting the listener's journey through complex thoughts while maintaining the conversational grace that characterizes Phi at its best.

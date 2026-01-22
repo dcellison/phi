@@ -22,7 +22,7 @@ The "punk" in Solarpunk is its vital anti-authoritarian and anti-corporate spiri
 
 This is a world of rooftop gardens tended by the residents of the building, of neighborhood-scale fabrication labs where citizens can design and 3D-print their own replacement parts, and of local assemblies making decisions about their own resources. It values the skilled hand, the clever repair, and the shared knowledge of the community over the black-box consumer products of a globalized marketplace.
 
-This deep-seated belief in the power and wisdom of the collective is directly reflected in the Phi concept of `weola` (community), which emphasizes shared purpose and mutual support as the foundation of society. The Solarpunk pillar ensures that Phi is a language not just for describing a better world, but for organizing one.
+This deep-seated belief in the power and wisdom of the collective is directly reflected in the Phi concept of `sila` (community), which emphasizes shared purpose and mutual support as the foundation of society. The Solarpunk pillar ensures that Phi is a language not just for describing a better world, but for organizing one.
 
 ### 2.1.4 Beauty as a Core Value
 

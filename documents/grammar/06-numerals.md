@@ -62,7 +62,7 @@ The Slot 2 particle `nu` announces that a number indicates position rather than 
 - **Second:** `nu wi`
 - **Third:** `nu ta shao`
 - **Ninth:** `nu ta phoi`
-- **First child:** `nu ta pilo`
+- **First child:** `nu ta wiru`
 - **Third day:** `nu ta shao nila`
 
 The particle precedes the number, announcing the ordinal transformation before the quantity is stated—perfect modifier-first ordering.
@@ -97,7 +97,7 @@ These announce the essential nature of what's counted:
 
 **Examples:**
 ```
-wi himo whelea
+wi himo melu
 two PERSON.CLF friend
 (two friends - acknowledging their humanity)
 

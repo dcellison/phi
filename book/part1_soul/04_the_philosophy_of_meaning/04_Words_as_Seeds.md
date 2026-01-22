@@ -18,13 +18,13 @@ This is linguistic biomimicry—creating vocabulary that grows the way living sy
 
 Just as biological evolution favors traits that enhance survival and reproduction, Phi's compositional system naturally favors word-formations that enhance clarity and understanding. Combinations that create transparent, intuitive meanings thrive and become established in the vocabulary. Formations that obscure or confuse meaning tend to be avoided or abandoned.
 
-This creates a kind of "natural selection" for meaningful combinations. `Mirowela` (beautiful harmony) succeeds because both `miro` (beautiful) and `wela` (harmonious) contribute clearly to the compound meaning, creating something richer than either component alone. The combination feels natural, inevitable, right.
+This creates a kind of "natural selection" for meaningful combinations. `Mirowela` (beautiful harmony) succeeds because both `lopia` (beautiful) and `wela` (harmonious) contribute clearly to the compound meaning, creating something richer than either component alone. The combination feels natural, inevitable, right.
 
 Awkward or forced combinations—where the elements fight against each other or create confusion—simply don't take root in the language. The compositional system serves as both creative principle and quality filter, ensuring that the vocabulary grows in directions that serve communication rather than complicating it.
 
 ### 4.4.4 Seasonal Cycles of Discovery
 
-Like a garden that reveals different aspects of its beauty through the changing seasons, Phi's vocabulary reveals different layers of meaning as speakers develop greater familiarity with the language. A beginning speaker might understand `nothela` simply as "reason" without grasping its compositional nature. 
+Like a garden that reveals different aspects of its beauty through the changing seasons, Phi's vocabulary reveals different layers of meaning as speakers develop greater familiarity with the language. A beginning speaker might understand `thela` simply as "reason" without grasping its compositional nature. 
 
 As their understanding deepens, they begin to perceive the `no` (mind) and `thela` (path) components, discovering that reasoning is literally "mind-pathing"—the process of the mind moving along a track of thought. Later still, they might notice that `thela` appears in `suthela` (justice, "sun-path") and `theola` (wisdom, "care-path"), revealing a deeper pattern about how Phi conceptualizes all forms of guidance and direction.
 

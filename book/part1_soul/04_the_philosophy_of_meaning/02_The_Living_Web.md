@@ -16,7 +16,7 @@ Suddenly, learning the word for love has opened pathways to understanding gentle
 
 ### 4.2.3 Semantic Families and Conceptual Tribes
 
-This interconnected approach creates what we might call "semantic families"—clusters of related words that share common elements and therefore share conceptual DNA. The family built around `shia` (shared/other) includes `shele` (to give/receive), `shiro` (forest, literally "shared growth"), `shila` (together), and `shau` (freedom, literally "shared flow").
+This interconnected approach creates what we might call "semantic families"—clusters of related words that share common elements and therefore share conceptual DNA. The family built around `shia` (shared/other) includes `kofe` (to give/receive), `shiro` (forest, literally "shared growth"), `shila` (together), and `shau` (freedom, literally "shared flow").
 
 Each member of this family reinforces and illuminates the others. To understand giving is to understand the fundamental principle of sharing. To understand forest is to understand shared growth and mutual dependence. To understand togetherness is to understand the voluntary nature of sharing. To understand freedom is to understand sharing as liberation rather than loss.
 

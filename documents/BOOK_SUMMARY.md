@@ -32,18 +32,18 @@ The book has **THREE PARTS**:
 - Radical, pragmatic optimism
 - Sustainability as symbiosis
 - Decentralized power, beauty as core value
-- Key vocab: `hashua` (cycle), `weola` (community), `wela` (good/beautiful), `phalowa` (solar energy)
+- Key vocab: `hashua` (cycle), `sila` (community), `wela` (good/beautiful), `phalowa` (solar energy)
 
 **2.2 Buddhist-Inspired Concepts**
 - Mindfulness (`nosa`) as grammatical practice
 - Right Speech and compassionate expression
 - Dependent origination - everything interconnected
-- Key vocab: `nosa` (mindfulness), `lothea` (compassion/love), `phale` (boundary/anger), `ketho` (fear as alertness)
+- Key vocab: `nosa` (mindfulness), `lothea` (compassion/love), `phale` (boundary/anger), `sui` (fear as alertness)
 
 **2.3 Art Nouveau Aesthetics**
 - Organic curves, "whiplash line"
 - Total work of art integrated throughout life
-- Key vocab: `shilei` (justice), `noshale` (garden), `miro` (beautiful), `shiro` (forest)
+- Key vocab: `shilei` (justice), `thepalu` (garden), `lopia` (beautiful), `shiro` (forest)
 
 **2.4 Peace Linguistics Practices**
 - Grammar of nonviolence
@@ -56,7 +56,7 @@ The book has **THREE PARTS**:
 - Cyclical time vs. linear time
 - Natural prototypes for categories
 - Classifiers: `himo` (human), `lipha` (living), `themo` (inanimate), `nophe` (abstract)
-- Colors: `sutha` (yellow), `shupha` (red), `lipha` (green), `lisho` (blue), `mako` (brown)
+- Colors: `sutha` (yellow), `shupha` (red), `lipha` (green), `lisho` (blue), `muila` (brown)
 
 ### Chapter 3: The Philosophy of Sound
 - Phonetics as applied philosophy
@@ -69,7 +69,7 @@ The book has **THREE PARTS**:
 - Compositional transparency
 - Living web of concepts (mycelial network)
 - Words as seeds that grow
-- Examples: `lothea` = lo + thea, `nothela` = no + thela
+- Examples: `lothea` = lo + thea, `thela` = no + thela
 
 ### Chapter 5: The Philosophy of Grammar
 - SOV enforces reflection
@@ -180,11 +180,11 @@ The book has **THREE PARTS**:
 | `nosa` | mindfulness |
 | `lothea` | compassion/love |
 | `wela` | good/beautiful/harmonious |
-| `sela` | peace |
+| `kelu` | peace |
 | `lino` | wisdom |
 | `kela` | understanding |
 | `shilei` | justice |
-| `weola` | community |
+| `sila` | community |
 | `shau` | freedom |
 
 ### Particles Reference
@@ -227,7 +227,7 @@ The outline mentions these planned but unwritten chapters:
 - Evidentiality (added to grammar docs but not in book)
 
 ### Vocabulary Requiring Updates
-The book uses `whelea` for "friend" which may need updating to `melu` per recent vocabulary changes. Cross-reference with `VOCABULARY_REPLACEMENTS.md` when updating book content.
+The book uses `melu` for "friend" which may need updating to `melu` per recent vocabulary changes. Cross-reference with `VOCABULARY_REPLACEMENTS.md` when updating book content.
 
 ---
 

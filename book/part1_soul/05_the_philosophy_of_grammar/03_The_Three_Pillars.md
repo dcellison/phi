@@ -12,7 +12,7 @@ This is not merely a grammatical convenience but a profound insight into the nat
 
 The first pillar of mindful expression is contextual awareness—the recognition that no communication occurs in a vacuum but always within specific relationships, situations, and social environments. Slot 0 particles provide speakers with systematic tools for acknowledging and working skillfully with this contextual dimension.
 
-Through evidential particles like `shipe` (I directly experienced this) and `nolu` (I infer this), speakers are invited to consider and communicate the source of their knowledge, acknowledging the difference between direct experience, logical deduction, and received information. This creates a culture of epistemic humility—an automatic recognition that different kinds of knowledge have different kinds of authority and should be treated accordingly.
+Through evidential particles like `shipe` (I directly experienced this) and `pheralu` (I infer this), speakers are invited to consider and communicate the source of their knowledge, acknowledging the difference between direct experience, logical deduction, and received information. This creates a culture of epistemic humility—an automatic recognition that different kinds of knowledge have different kinds of authority and should be treated accordingly.
 
 Through politeness particles like `pi` (respectful attention), speakers develop habits of social awareness, automatically considering the relational context of their communication and adjusting their expression to serve connection rather than ego. Through discourse particles that signal transitions, emphases, and rhetorical relationships, speakers learn to consider how each utterance fits into the larger flow of conversation and understanding.
 
