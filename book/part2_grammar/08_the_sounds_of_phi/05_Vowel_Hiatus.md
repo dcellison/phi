@@ -14,7 +14,7 @@ When two vowels appear in a row in Phi, they are always pronounced as two separa
 
 This principle can be visualized using a dot (`.`) to mark syllable breaks:
 - `hauno` (house) becomes **`ha.u.no`** (three syllables)
-- `shei` (to connect) becomes **`she.i`** (two syllables)  
+- `shei` (to connect) becomes **`ko.i`** (two syllables)  
 - `theula` (all) becomes **`the.u.la`** (three syllables)
 - `kewai` (however) becomes **`ke.wa.i`** (three syllables)
 
@@ -26,15 +26,15 @@ Mastering vowel hiatus requires developing a sensitivity to the individual chara
 
 Think of each syllable as a perfectly matched pearl, beautiful and complete in its own right. The rule of hiatus is the fine, strong thread that runs through them, holding each one in precise relationship to its neighbors. The result is not a jumble of separate sounds, but a single, elegant necklace—a word that flows with natural, undulating grace that embodies the Art Nouveau principle of organic beauty.
 
-Consider the word `sheala`, pronounced as `she.a.la`. The challenge here is to move from the front, mid vowel `e` to the open, central vowel `a` with a clean transition that honors both sounds. The `e` must be completed fully before the `a` begins, yet the transition should feel natural and flowing.
+Consider the word `sheala`, pronounced as `ko.a.la`. The challenge here is to move from the front, mid vowel `e` to the open, central vowel `a` with a clean transition that honors both sounds. The `e` must be completed fully before the `a` begins, yet the transition should feel natural and flowing.
 
-Similarly, in `phaino` (`pha.i.no`), speakers must navigate from the open `a` to the high, front `i` with a sharp but smooth transition that maintains the integrity of both vowels while preserving the word's rhythmic unity.
+Similarly, in `phaino` (`ha.i.no`), speakers must navigate from the open `a` to the high, front `i` with a sharp but smooth transition that maintains the integrity of both vowels while preserving the word's rhythmic unity.
 
 ### 8.5.4 Practical Strategies for Hiatus Mastery
 
 The best way to internalize this rule is through deliberate practice. Begin by reading words with vowel sequences aloud, deliberately exaggerating the separation between vowels. As you become comfortable with the principle, the separation will feel more natural, but the two sounds must never blend.
 
-Practice words like `nolou` (`no.lo.u`), ensuring that the final `o` and `u` maintain their distinct characters rather than merging into an "oo" sound. Work with `whio` (`whi.o`), feeling the movement from the high `i` to the rounded `o` as two complete, separate gestures.
+Practice words like `nolou` (`no.lo.u`), ensuring that the final `o` and `u` maintain their distinct characters rather than merging into an "oo" sound. Work with `whio` (`ti.o`), feeling the movement from the high `i` to the rounded `o` as two complete, separate gestures.
 
 The key is to think of each vowel as having its own brief moment of completion before the next vowel begins. This creates a subtle but crucial rhythm that is fundamental to Phi's sound pattern.
 

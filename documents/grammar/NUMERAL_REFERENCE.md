@@ -35,8 +35,8 @@ For quantities beyond 2, Phi uses **scale units**—countable nouns representing
 
 | Scale Unit | Value | Gloss | IPA |
 |------------|-------|-------|-----|
-| **`sha`** | 3 | three-group | /ʃa/ |
-| **`pho`** | 9 | nine-group | /ɸo/ |
+| **`shao`** | 3 | three-group | /ʃa.o/ |
+| **`phoi`** | 9 | nine-group | /ɸo.i/ |
 | **`lau`** | 27 | twenty-seven-group | /la.u/ |
 | **`rei`** | 81 | eighty-one-group | /re.i/ |
 
@@ -50,25 +50,25 @@ Following the modifier-first principle, base numerals precede and modify scale u
 
 | Number | Phi Expression | Literal Meaning |
 |--------|----------------|-----------------|
-| 3 | `ta sha` | one three-group |
-| 4 | `ta sha ta` | one three-group [plus] one |
-| 5 | `ta sha wi` | one three-group [plus] two |
-| 6 | `wi sha` | two three-groups |
-| 7 | `wi sha ta` | two three-groups [plus] one |
-| 8 | `wi sha wi` | two three-groups [plus] two |
-| 9 | `ta pho` | one nine-group |
-| 10 | `ta pho ta` | one nine-group [plus] one |
-| 11 | `ta pho wi` | one nine-group [plus] two |
-| 12 | `ta pho ta sha` | one nine-group [plus] one three-group |
-| 15 | `ta pho wi sha` | one nine-group [plus] two three-groups |
-| 18 | `wi pho` | two nine-groups |
+| 3 | `ta shao` | one three-group |
+| 4 | `ta shao ta` | one three-group [plus] one |
+| 5 | `ta shao wi` | one three-group [plus] two |
+| 6 | `wi shao` | two three-groups |
+| 7 | `wi shao ta` | two three-groups [plus] one |
+| 8 | `wi shao wi` | two three-groups [plus] two |
+| 9 | `ta phoi` | one nine-group |
+| 10 | `ta phoi ta` | one nine-group [plus] one |
+| 11 | `ta phoi wi` | one nine-group [plus] two |
+| 12 | `ta phoi ta shao` | one nine-group [plus] one three-group |
+| 15 | `ta phoi wi shao` | one nine-group [plus] two three-groups |
+| 18 | `wi phoi` | two nine-groups |
 | 27 | `ta lau` | one twenty-seven-group |
 
 ### The Philosophy of Difficulty
 
 Notice how counting becomes progressively more cognitively demanding:
 - **1-2**: Immediate and intuitive
-- **3-8**: Manageable with three-groups
+- **3-8**: Manageable with shao (three-groups)
 - **9-26**: Requires composition of multiple scale units
 - **27+**: Essentially becomes "many" or "countless"
 
@@ -82,8 +82,8 @@ Scale units can stand alone to indicate approximate quantities, encouraging thin
 
 **Examples**:
 ```
-sha nila          (roughly 3 days / a few days)
-pho miona         (roughly 9 people / several people)
+shao nila         (roughly 3 days / a few days)
+phoi miona        (roughly 9 people / several people)
 lau shiro         (roughly 27 trees / many trees)
 rei thino         (roughly 81 stars / countless stars)
 ```
@@ -121,14 +121,14 @@ wi himo whelea
 two PERSON.CLF friend
 (two friends - acknowledging their humanity)
 
-ta pho himo miona
+ta phoi himo miona
 one nine-group PERSON.CLF person
 (nine people - recognizing them as human beings, not mere units)
 ```
 
 **Living Things**:
 ```
-ta sha lipha shiro
+ta shao lipha shiro
 one three-group LIFE.CLF tree
 (three trees - acknowledging their aliveness)
 
@@ -143,7 +143,7 @@ ta themo phino
 one OBJECT.CLF book
 (one book - a thing, not alive)
 
-wi sha themo keto
+wi shao themo keto
 two three-groups OBJECT.CLF stone
 (six stones - inanimate objects)
 ```
@@ -154,7 +154,7 @@ wi nophe thola
 two ABSTRACT.CLF story
 (two stories - conceptual entities)
 
-ta sha nophe nothela
+ta shao nophe nothela
 one three-group ABSTRACT.CLF idea
 (three ideas)
 ```
@@ -186,12 +186,12 @@ The Slot 2 particle **`nu`** (ORD) announces that a number indicates position ra
 ```
 nu ta           (first / in first position)
 nu wi           (second / in second position)
-nu ta sha       (third)
-nu ta pho       (ninth)
+nu ta shao       (third)
+nu ta phoi       (ninth)
 
 nu ta pilo      (first child)
 nu wi nila      (second day)
-nu ta sha thola (third story)
+nu ta shao thola (third story)
 ```
 
 **Usage**: This is the standard grammatical way to form ordinals for most contexts.
@@ -242,13 +242,13 @@ When all elements combine, they follow strict modifier-first ordering:
 
 **Example**:
 ```
-pha wi himo miro whelea
+ha wi himo miro whelea
 PROX two PERSON.CLF beautiful friend
 (these two beautiful friends - acknowledging their humanity)
 ```
 
 Order breakdown:
-1. `pha` - announces proximity (this/these)
+1. `ha` - announces proximity (this/these)
 2. `wi` - announces quantity (two)
 3. `himo` - announces nature (people)
 4. `miro` - announces quality (beautiful)
@@ -263,8 +263,8 @@ The plural particle `lo` is **not used** when a numeral or quantifier is present
 **With numbers (no `lo` needed)**:
 ```
 wi whelea              (two friends - number implies plural)
-ta sha lipha shiro     (three trees - number implies plural)
-ta pho himo miona      (nine people - number implies plural)
+ta shao lipha shiro     (three trees - number implies plural)
+ta phoi himo miona      (nine people - number implies plural)
 ```
 
 **With quantifiers (no `lo` needed)**:
@@ -309,35 +309,35 @@ Following the modifier-first principle, arithmetic statements place operands bef
 
 **Addition (2 + 3 = 5)**:
 ```
-wi ta sha sholei, ta sha wi kelai
+wi ta shao sholei, ta shao wi kelai
 two three gather, five becomes
 (Two and three gather together, becoming five)
 ```
 
 **Subtraction (9 - 3 = 6)**:
 ```
-ta pho ta sha leiro, wi sha kelai
+ta phoi ta shao leiro, wi shao kelai
 nine three release, six becomes
 (Nine releases three, becoming six)
 ```
 
 **Multiplication (3 × 2 = 6)**:
 ```
-ta sha wi welura, wi sha kelai
+ta shao wi welura, wi shao kelai
 three two spread, six becomes
 (Three spreads by two, becoming six)
 ```
 
 **Division (9 ÷ 3 = 3)**:
 ```
-ta pho ta sha phanoi, ta sha kelai
+ta phoi ta shao phanoi, ta shao kelai
 nine three portion, three becomes
 (Nine portions among three, becoming three each)
 ```
 
 **Equality Statement**:
 ```
-ta sha ta kelai ta sha ta
+ta shao ta kelai ta shao ta
 four equals four
 ```
 
@@ -347,14 +347,14 @@ Arithmetic with real-world quantities respects the classifier system.
 
 **Classifier Harmony Required**: Both operands should share the same classifier:
 ```
-wi himo miona ta sha himo miona sholei, ta sha wi himo miona kelai
+wi himo miona ta shao himo miona sholei, ta shao wi himo miona kelai
 two PERSON.CLF person three PERSON.CLF person gather, five PERSON.CLF person becomes
 (Two people + three people = five people)
 ```
 
 **Pure Mathematics** (no classifiers for abstract calculation):
 ```
-ta sha wi sholei, ta sha wi kelai
+ta shao wi sholei, ta shao wi kelai
 three two gather, five becomes
 (3 + 2 = 5)
 ```
@@ -396,25 +396,25 @@ Following modifier-first, the quantity being evaluated comes first:
 
 **Greater Than (9 > 3)**:
 ```
-ta pho ta sha theloi
+ta phoi ta shao theloi
 nine three exceeds
 (Nine exceeds three in magnitude)
 ```
 
 **Less Than (3 < 9)**:
 ```
-ta sha ta pho phenoi
+ta shao ta phoi phenoi
 three nine falls-short
 (Three falls short of nine in magnitude)
 ```
 
 **Questions**:
 ```
-wa ta sha wi sha theloi?
+wa ta shao wi shao theloi?
 Q three six exceeds
 (Does three exceed six? / Is 3 > 6?)
 
-wa wi sha ta pho phenoi?
+wa wi shao ta phoi phenoi?
 Q six nine falls-short
 (Does six fall short of nine? / Is 6 < 9?)
 ```
@@ -424,11 +424,11 @@ Q six nine falls-short
 Use `ne` (negation) for "greater than or equal" / "less than or equal":
 
 ```
-ta sha ta sha ne phenoi
+ta shao ta shao ne phenoi
 three three NEG falls-short
 (Three does not fall short of three / 3 ≥ 3)
 
-wi sha ta pho ne theloi
+wi shao ta phoi ne theloi
 six nine NEG exceeds
 (Six does not exceed nine / 6 ≤ 9)
 ```
@@ -438,7 +438,7 @@ six nine NEG exceeds
 When comparing real-world quantities, both should share the same classifier:
 
 ```
-ta pho himo miona wi sha himo miona theloi
+ta phoi himo miona wi shao himo miona theloi
 nine PERSON.CLF person six PERSON.CLF person exceeds
 (Nine people exceed six people in number)
 ```
@@ -489,8 +489,8 @@ wi lipha kepha       (two cats)
 ### Medium Quantities (Approximate)
 For quantities that aren't critical to specify exactly, use scale units alone:
 ```
-sha whelea           (a few friends / roughly 3)
-pho nila             (several days / roughly 9)
+shao whelea           (a few friends / roughly 3)
+phoi nila             (several days / roughly 9)
 ```
 
 ### Large Quantities (Impressionistic)
@@ -511,7 +511,7 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 - `mu` (0), `ta` (1), `wi` (2)
 
 ### Scale Units
-- `sha` (3), `pho` (9), `lau` (27), `rei` (81)
+- `shao` (3), `phoi` (9), `lau` (27), `rei` (81)
 
 ### Nature Classifiers
 - `himo` (people), `lipha` (living), `themo` (objects), `nophe` (abstract)

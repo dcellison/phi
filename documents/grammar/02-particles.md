@@ -20,7 +20,7 @@ IMP family help
 (Help the family.)
 ```
 
-**Conditional (`lu` and `lu whe`):**
+**Conditional (`lu` and `lu he`):**
 Phi distinguishes between real and unreal conditions.
 - **Realis Conditional (`lu`):** Used for real or likely possibilities ("if").
   ```
@@ -28,9 +28,9 @@ Phi distinguishes between real and unreal conditions.
   COND 1SG help...
   (If I help...)
   ```
-- **Irrealis Conditional (`lu whe`):** Used for unreal, hypothetical, or counterfactual situations ("if only...", "if it were that..."). It combines `lu` with the irrealis particle `whe`.
+- **Irrealis Conditional (`lu he`):** Used for unreal, hypothetical, or counterfactual situations ("if only...", "if it were that..."). It combines `lu` with the irrealis particle `he`.
   ```
-  lu whe mia to shele...
+  lu he mia to shele...
   COND IRR 1SG PST help...
   (If I had helped [but I didn't]...)
   ```
@@ -78,10 +78,10 @@ Evidential particles mark the source of the speaker's knowledge. They are option
 
 - `hi` (DIR): `mia hi nila` (I see [I directly witness this])
 - `ke` (INFER): `shia to ke wepu` (She left [I infer from evidence])
-- `whi` (REP): `lo miona whi shele` (People helped [I was told])
+- `ti` (REP): `lo miona ti shele` (People helped [I was told])
 - `ho` (ASM): `thi ho kela` (You understand [I assume])
 
-Note: The reportative `whi` marks knowledge source ("someone told me"), while the quotative complementizer `shola` marks direct quotation ("she said '...'").
+Note: The reportative `ti` marks knowledge source ("someone told me"), while the quotative complementizer `shola` marks direct quotation ("ko said '...'").
 
 ### 2.2.6. Negation
 - `ma` (NEG): `shia ma kela` (The other does not understand)
@@ -124,11 +124,11 @@ These particles announce specific modifications at the word level, always appear
 - `nu` (ORD): `nu ta pilo` (first child)
 
 **Focus:**
-- `she` (FOC): `mia she lothea kela` (I understand *love*)
+- `ko` (FOC): `mia ko lothea kela` (I understand *love*)
 
 **Comparison:**
 - `mo` (CMPR): Forms the comparative.
-- `mo she` (SUPL): Forms the superlative.
+- `mo ko` (SUPL): Forms the superlative.
 - In a comparative sentence, the standard of comparison is marked with the preposition `sheo` (than).
   ```
   [garden] sheo [forest] mo [beautiful] nio
@@ -137,8 +137,8 @@ These particles announce specific modifications at the word level, always appear
   ```
 
 **Deixis:**
-- `pha` (PROX): `pha whelea` (this friend)
-- `tha` (DIST): `that whelea` (that friend)
+- `ha` (PROX): `ha whelea` (this friend)
+- `ra` (DIST): `that whelea` (that friend)
 
 **Honorifics (Announcing Social Relationships):**
 Honorific particles announce the speaker's relationship to the person being named, appearing BEFORE the name. This announcement of social context demonstrates respect through transparency:

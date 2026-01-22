@@ -72,7 +72,7 @@ mia shola "mia so wepu" nophi
 ```
 mia kela mena shia wepu
 1SG understand DECL 3SG leave
-(I understand that she left.)
+(I understand that ko left.)
 
 shia nophi mena thi wepu
 3SG say DECL 2SG leave
@@ -87,7 +87,7 @@ nio hisu mena thino wela
 ```
 mia kela mena thi hisu mena shia wepu
 1SG understand DECL 2SG feel DECL 3SG leave
-(I understand that you feel that she left.)
+(I understand that you feel that ko left.)
 ```
 
 **Comparison with `shola`**:
@@ -107,7 +107,7 @@ mia kela mena thi hisu mena shia wepu
 ```
 mia wena shia wepu hisu
 1SG INT.COMP 3SG leave wonder
-(I wonder whether she left.)
+(I wonder whether ko left.)
 
 shia wena mia to nila teni
 3SG INT.COMP 1SG PST see ask
@@ -143,7 +143,7 @@ The vocative is a separate part of speech for direct address, existing outside t
 
 **Examples**:
 ```
-kona whelea, mia pha nio
+kona whelea, mia ha nio
 VOC friend, 1SG here be
 (Friend, I am here.)
 

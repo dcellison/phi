@@ -196,7 +196,7 @@ def validate_word(word: str):
             vowel_count = 0
 
     if len(syllables) == 1:
-        warnings.append("Single-syllable words are typically reserved for particles, pronouns, and numerals")
+        warnings.append("Single-syllable words are typically reserved for particles and numerals")
 
     return {
         "valid": len(errors) == 0,

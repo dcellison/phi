@@ -11,7 +11,7 @@ The following components are fully implemented and documented:
 | Component | Elements | Status |
 |-----------|----------|--------|
 | Base numerals | mu (0), ta (1), wi (2) | ✓ Complete |
-| Scale units | sha (3), pho (9), lau (27), rei (81) | ✓ Complete |
+| Scale units | shao (3), phoi (9), lau (27), rei (81) | ✓ Complete |
 | Nature classifiers | himo, lipha, themo, nophe | ✓ Complete |
 | Ordinal formation | nu particle, noa noun | ✓ Complete |
 | Quantifiers | theula, sheloi, soli, mawha | ✓ Complete |
@@ -45,7 +45,7 @@ The following components are fully implemented and documented:
 **Use cases**: Scheduling, storytelling, describing duration, daily life coordination
 
 **Design considerations**:
-- Scale units could map to time: sha nila (3 days), pho nila (9 days), lau nila ≈ lunar month
+- Scale units could map to time: shao nila (3 days), phoi nila (9 days), lau nila ≈ lunar month
 - Need words for smaller units (hour, minute) and larger cycles (season, year)
 - Consider cyclical vs. linear time concepts (aligns with pre-industrial wisdom)
 - Phi's philosophy may prefer approximate time ("morning," "evening") over precise hours
@@ -182,7 +182,7 @@ These are not missing vocabulary but areas where existing documentation could be
 ### Extended Counting Examples
 - Documentation shows 3-15 clearly but 16-26 less explicitly
 - Add complete table for numbers 16-26 showing composition
-- Clarify whether "ta pho wi sha ta" (9+6+1=16) is correct form
+- Clarify whether "ta phoi wi shao ta" (9+6+1=16) is correct form
 
 ### Negation Scope with Numbers
 - How does `ne` interact with cardinal numbers?

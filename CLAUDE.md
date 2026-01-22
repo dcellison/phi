@@ -35,10 +35,10 @@ This "announce then deliver" principle creates transparent communication where a
 - [ ] **Dental articulation**: /t/ and /n/ are dental, not alveolar
 
 ### Structural Hierarchy
-- [ ] **Single syllable (CV/FV)**: Reserved for particles, pronouns, numerals
+- [ ] **Single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi)
+- [ ] **Two syllables (CV.V / FV.V)**: Used for pronouns (mia, thia, shia), prepositions (mua, thue, wei), and scale units (shao, phoi)
 - [ ] **Multi-syllable**: Required for content words
-- [ ] **Prepositions**: Must follow CV.V pattern (e.g., mua, thue, wei) for instant recognition
-- [ ] **Particles**: Simple CV structure for instant recognition
+- [ ] **Particles**: CV structure only (no fricative digraphs) for instant recognition and disambiguation
 
 ### Sound Symbolism Alignment
 - [ ] **Fricatives (ph,th,sh,wh)**: Abstract, philosophical, or gentle concepts

@@ -1,17 +1,17 @@
 {
-  "word": "whi",
+  "word": "ti",
   "gloss": "REP",
-  "ipa": "/ʍi/",
-  "syllables": ["whi"],
+  "ipa": "/ti/",
+  "syllables": ["ti"],
   "pos": ["particle"],
   "slot": 1,
   "concept": "Reportative Evidence / Hearsay / Told",
-  "description": "An evidential particle that marks information as received from another source rather than directly witnessed or personally inferred. 'Whi' signals that the speaker is passing along what they have heard, read, or been told—carrying another's knowledge while honestly acknowledging its secondhand nature. It embodies the responsibility of transmission: we receive information from others and must mark it as such.",
-  "sound_symbolism": "The particle begins with 'wh' /ʍ/, the voiceless labio-velar fricative that sounds like whispered breath—the rustle of words passing from one person to another, the soft hush of shared information. This speech-like consonant meets 'i', the bright vowel of clarity and precision. Together, 'whi' evokes whispered transmission, the careful passing of words from mouth to ear. The breathy 'wh' suggests the intimacy of shared information while 'i' maintains the clarity of what is being carried.",
-  "grammatical_notes": "Occupies Slot 1 in the evidentiality position: after voice, before modality. Stacking order: Tense > Aspect > Voice > Evidentiality > Modality > Negation. Distinct from quotative 'sho': while 'sho' marks direct quotation (verbatim speech), 'whi' marks knowledge source (I learned this from someone). Example: 'sha whi wepu' (She left [I was told]) versus 'sha sho \"mia wepu\" thopa' (She said, \"I leave\"). Use 'whi' for hearsay, rumors, news reports, or any information received through others.",
+  "description": "An evidential particle that marks information as received from another source rather than directly witnessed or personally inferred. 'Ti' signals that the speaker is passing along what they have heard, read, or been told—carrying another's knowledge while honestly acknowledging its secondhand nature. It embodies the responsibility of transmission: we receive information from others and must mark it as such.",
+  "sound_symbolism": "The particle begins with 't', the clean dental stop—a crisp, precise onset that marks clear transmission, like the tap of a message being passed along. This decisive consonant meets 'i', the bright vowel of clarity and precision. Together, 'ti' evokes clear transmission, the careful passing of words from one source to another. The sharp 't' suggests the definiteness of 'told' or 'transmitted' while 'i' maintains the clarity of what is being carried.",
+  "grammatical_notes": "Occupies Slot 1 in the evidentiality position: after voice, before modality. Stacking order: Tense > Aspect > Voice > Evidentiality > Modality > Negation. Distinct from quotative 'sho': while 'sho' marks direct quotation (verbatim speech), 'ti' marks knowledge source (I learned this from someone). Example: 'shao ti wepu' (She left [I was told]) versus 'shao sho \"mia wepu\" thopa' (She said, \"I leave\"). Use 'ti' for hearsay, rumors, news reports, or any information received through others.",
   "pillars": {
-    "secular-buddhist-philosophy": "Buddhist teachings on Right Speech include accuracy about sources. The tradition itself relies on reported speech—'Thus have I heard' (evam me sutam) opens many suttas, explicitly marking the teachings as transmitted rather than directly witnessed. 'Whi' continues this practice of honest sourcing.",
-    "peace-linguistics-practices": "Unmarked hearsay is a vector for misinformation and rumor-driven harm. By requiring speakers to mark reported information, 'whi' creates accountability in the chain of transmission. Listeners know to hold reported claims more lightly and can ask about sources.",
-    "pre-industrial-wisdom": "Oral traditions carefully distinguish the witness from the messenger. Stories passed through generations carry markers of their transmission—'the elders say,' 'it is told that.' 'Whi' honors this ancient practice of tracking how knowledge travels through community."
+    "secular-buddhist-philosophy": "Buddhist teachings on Right Speech include accuracy about sources. The tradition itself relies on reported speech—'Thus have I heard' (evam me sutam) opens many suttas, explicitly marking the teachings as transmitted rather than directly witnessed. 'Ti' continues this practice of honest sourcing.",
+    "peace-linguistics-practices": "Unmarked hearsay is a vector for misinformation and rumor-driven harm. By requiring speakers to mark reported information, 'ti' creates accountability in the chain of transmission. Listeners know to hold reported claims more lightly and can ask about sources.",
+    "pre-industrial-wisdom": "Oral traditions carefully distinguish the witness from the messenger. Stories passed through generations carry markers of their transmission—'the elders say,' 'it is told that.' 'Ti' honors this ancient practice of tracking how knowledge travels through community."
   }
 }

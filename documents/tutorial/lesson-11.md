@@ -28,17 +28,17 @@ Here's an example with `pheo`:
 
 You can also use a clause to explain the *reason* or *cause* of an action. To do this, you use the causal preposition `lao`, followed by the "reason" clause.
 
-Let's break down: "Because she left, I feel sad."
+Let's break down: "Because ko left, I feel sad."
 
 1.  **The "Reason" Clause:** `shia to wepu` (She left.)
-2.  **Add the Causal Preposition:** `lao [shia to wepu]` (Because she left)
+2.  **Add the Causal Preposition:** `lao [shia to wepu]` (Because ko left)
 3.  **Add the Main Clause:** `...mia nolou hisu.` (...I feel sad.)
 
 Putting it all together:
 
 *   **Phi:** `lao [shia to wepu], mia nolou hisu.`
 *   **Gloss:** `BECAUSE [3SG PST leave], 1SG sadness feel.`
-*   **Translation:** Because she left, I feel sad.
+*   **Translation:** Because ko left, I feel sad.
 
 This structure, `lao [Clause]`, is the standard way to express "because..."
 

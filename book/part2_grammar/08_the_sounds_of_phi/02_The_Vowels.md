@@ -32,7 +32,7 @@ This pure `e` sound can be found in Spanish "m**e**sa" or the first 'e' in Germa
 The vowel `i` represents the mind at its most alert and penetrating—the sharp point of insight that cuts through confusion. Acoustically, it vibrates at the highest frequency of the five vowels, making it the sound of light, of focused energy, of aspiration reaching upward. In the context of the Five Pillars, `i` embodies Solarpunk optimism and the bright spark of individual spirit within community harmony.
 
 **Practice Words:**
-- `she` (focus) - Feel the forward energy of attention
+- `ko` (focus) - Feel the forward energy of attention
 - `pi` (politeness) - Notice the bright, respectful quality
 - `lino` (wisdom) - Let the clarity of `i` illuminate the concept
 

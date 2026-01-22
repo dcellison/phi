@@ -25,15 +25,15 @@ The choice to use a classifier is a stylistic one that adds nuance.
 
 Using `himo` when counting people is a powerful sign of respect. It acknowledges their full personhood beyond any role or number.
 
-- **Simple:** `ta sha lo whelea` (three friends)
-- **Mindful/Respectful:** `ta sha himo lo whelea` (three-person-friend)
+- **Simple:** `ta shao lo whelea` (three friends)
+- **Mindful/Respectful:** `ta shao himo lo whelea` (three-person-friend)
 
 #### 2. To Add Poetic or Philosophical Emphasis
 
 Using a classifier can draw attention to the nature of a thing.
 
-- **Simple:** `ta sha ta lo sula` (four plants)
-- **Poetic:** `ta sha ta lipha lo sula` (four-lifeform-plant)
+- **Simple:** `ta shao ta lo sula` (four plants)
+- **Poetic:** `ta shao ta lipha lo sula` (four-lifeform-plant)
   - This phrasing emphasizes that you see the plants not just as objects, but as vibrant, living beings.
 
 - **Simple:** `ta thola` (one story)

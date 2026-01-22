@@ -42,20 +42,20 @@ Let's compare the `noshale` (garden) and the `shiro` (forest).
 *   **Gloss:** `garden CMPR good/beautiful be.`
 *   **Translation:** The garden is more beautiful.
 
-#### Superlative (`mo she` - "most")
+#### Superlative (`mo ko` - "most")
 
-To say something is the "most" of a quality, you use a combination of two particles: `mo` followed by our new focus particle, `she`.
+To say something is the "most" of a quality, you use a combination of two particles: `mo` followed by our new focus particle, `ko`.
 
-*   **Phi:** `noshale mo she wela nio.`
+*   **Phi:** `noshale mo ko wela nio.`
 *   **Gloss:** `garden CMPR FOC good/beautiful be.`
 *   **Translation:** The garden is the most beautiful.
 
-The `mo she` combination creates the superlative degree.
+The `mo ko` combination creates the superlative degree.
 
 ### Lesson 8 Summary
 
 *   To show **possession**, place the possessor before the thing that is possessed (e.g., `mia phino`, "my book").
 *   To make a **comparative**, place the particle `mo` before an adjective (e.g., `mo wela`, "more beautiful").
-*   To make a **superlative**, place the particle combination `mo she` before an adjective (e.g., `mo she wela`, "most beautiful").
+*   To make a **superlative**, place the particle combination `mo ko` before an adjective (e.g., `mo ko wela`, "most beautiful").
 
 You can now express complex relationships of ownership and comparison, adding even more depth to your descriptions. In the next lesson, we will learn how to connect sentences and ideas together. 

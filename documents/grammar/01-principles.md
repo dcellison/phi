@@ -39,7 +39,7 @@ This verb-final order isn't arbitrary—it embodies the philosophical commitment
 All descriptive elements precede what they describe:
 - **Adjectives before nouns:** `miro phino` (beautiful book)
 - **Adverbs before verbs:** `nosa kealo` (mindfully create)
-- **Demonstratives before nouns:** `pha whelea` (this friend)
+- **Demonstratives before nouns:** `ha whelea` (this friend)
 
 ### 1.3.2. Possession as Modification
 Possession is expressed through the modifier-first principle—the possessor precedes the possessed:
@@ -73,7 +73,7 @@ This prepositional system makes every spatial or temporal relationship explicit 
 Phi uses no articles (the/a/an), maintaining simplicity while requiring mindful attention to context:
 
 - **Contextual definiteness:** `whelea` can mean "friend," "a friend," or "the friend" based on discourse context
-- **Explicit specification:** When needed, demonstratives (`pha` = this, `tha` = that) provide specificity
+- **Explicit specification:** When needed, demonstratives (`ha` = this, `ra` = that) provide specificity
 
 This system requires speakers and listeners to remain present and engaged with the conversation's context, promoting mindful communication.
 
@@ -85,7 +85,7 @@ Even direct address follows the announce-then-deliver principle. The vocative ma
 
 **Example:**
 ```
-kona whelea, mia pha nio
+kona whelea, mia ha nio
 VOC friend, 1SG here am
 (Friend, I am here.)
 ```

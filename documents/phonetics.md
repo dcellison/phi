@@ -49,7 +49,7 @@ Phi uses a pure five-vowel system. The vowels are "tense" and should not be diph
 As defined in `phonology_rules.md`, all vowel pairs are pronounced in **hiatus**. This means that each vowel is pronounced fully and distinctly, creating two separate syllables. There is no gliding between them.
 
 *   **`saule`** is pronounced /sa.u.le/ (three syllables: sa-u-le), NOT /sau.le/.
-*   **`sheala`** is pronounced /ʃe.a.la/ (three syllables: she-a-la), NOT /ʃea.la/.
+*   **`sheala`** is pronounced /ʃe.a.la/ (three syllables: ko-a-la), NOT /ʃea.la/.
 *   **`nei`** is pronounced /ne.i/ (two syllables: ne-i), NOT /neɪ/.
 
 This rule is fundamental to the rhythm and clarity of the language. 

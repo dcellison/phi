@@ -12,9 +12,9 @@ The language assumes that participants in a dialogue are mindfully present and a
 
 ### 10.3.2 Precision When Trust Needs Support
 
-Of course, a language built on trust must also provide tools for precision when that trust is insufficient. When the shared context is not enough to clarify which "book" or "friend" is being discussed, Phi provides an elegant solution: the deictic particles `pha` and `tha`.
+Of course, a language built on trust must also provide tools for precision when that trust is insufficient. When the shared context is not enough to clarify which "book" or "friend" is being discussed, Phi provides an elegant solution: the deictic particles `ha` and `ra`.
 
-These Slot 2 particles, which we have already encountered, function as the language's primary determiners, directly answering the question, "Which one?" By placing the proximal particle `pha` before a noun, the speaker grounds it in the immediate conversational space, creating `pha phino` (this book, right here). The distal particle `tha`, conversely, points to something outside that immediate space, creating `tha phino` (that book, over there).
+These Slot 2 particles, which we have already encountered, function as the language's primary determiners, directly answering the question, "Which one?" By placing the proximal particle `ha` before a noun, the speaker grounds it in the immediate conversational space, creating `ha phino` (this book, right here). The distal particle `ra`, conversely, points to something outside that immediate space, creating `ra phino` (that book, over there).
 
 This system is beautifully efficient. It doesn't just make a noun definite in an abstract sense; it makes it definite by anchoring it in a shared physical or conceptual map, ensuring both speaker and listener are oriented toward the same object of discussion with no ambiguity.
 
@@ -40,6 +40,6 @@ This flexibility allows speakers to choose their level of precision, relying on 
 
 Phi's approach to specifying nouns is thus a delicate dance between contextual trust and explicit precision. The language begins with the assumption of a shared understanding, leaving nouns unmarked and relying on the mindful presence of its speakers to provide clarity. Yet, it does not abandon them there.
 
-For every potential ambiguity, it offers a simple, elegant, and consistent tool. When the question is "which one?", the deictic particles `pha` and `tha` provide a clear answer by grounding the noun in space. When the question is "how many?", the quantifying descriptors provide a rich spectrum of options.
+For every potential ambiguity, it offers a simple, elegant, and consistent tool. When the question is "which one?", the deictic particles `ha` and `ra` provide a clear answer by grounding the noun in space. When the question is "how many?", the quantifying descriptors provide a rich spectrum of options.
 
 By treating all of these specifiers as simple modifiers that obey the same Head-Final Principle, the language avoids the complex and often irregular rules of articles and determiners found elsewhere, maintaining its clean and graceful structure. It is a system built on a foundation of trust, but equipped with all the necessary tools for precision. 

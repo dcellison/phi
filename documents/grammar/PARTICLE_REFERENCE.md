@@ -51,14 +51,14 @@ COND 2SG help, 1SG good feel
 (If you help, I will feel good.)
 ```
 
-### `lu whe` - Irrealis Conditional (COND.IRR)
+### `lu he` - Irrealis Conditional (COND.IRR)
 **Function**: Announces an unreal, hypothetical, or counterfactual conditional ("if only", "if it were that")
 **Position**: Sentence-initial only (two particles)
 **Example**:
 ```
-lu whe mia to shele, shia ma to wepu
+lu he mia to shele, shia ma to wepu
 COND IRR 1SG PST help, 3SG NEG PST leave
-(If I had helped [but I didn't], she would not have left.)
+(If I had helped [but I didn't], ko would not have left.)
 ```
 
 ### `su` - Optative Marker (OPT)
@@ -187,11 +187,11 @@ shia to ke wepu
 (She left [I infer from evidence].)
 ```
 
-#### `whi` - Reportative Evidence (REP)
+#### `ti` - Reportative Evidence (REP)
 **Function**: Announces that the speaker received this information from another source
 **Example**:
 ```
-lo miona whi shele
+lo miona ti shele
 PL person REP help
 (People helped [I was told].)
 ```
@@ -261,7 +261,7 @@ mia to si ke po ma kela
 1SG PST IPFV INFER POSS NEG understand
 (I was not being able to understand [I infer].)
 ```
-Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`whi`/`ho`) > Modality (`po`) > Negation (`ma`)
+Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`ti`/`ho`) > Modality (`po`) > Negation (`ma`)
 
 ---
 
@@ -289,7 +289,7 @@ mia lo whelea hisu
 **Without `lo` (number implies plurality)**:
 ```
 wi whelea          (two friends - 'wi' already implies plural)
-ta sha lipha shiro (three trees - number implies plural)
+ta shao lipha shiro (three trees - number implies plural)
 sheloi whelea      (many friends - quantifier implies plural)
 ```
 
@@ -313,11 +313,11 @@ ORD two day
 
 ### Focus
 
-#### `she` - Focus Marker (FOC)
+#### `ko` - Focus Marker (FOC)
 **Function**: Announces emphatic focus on a particular element
 **Example**:
 ```
-mia she lothea kela
+mia ko lothea kela
 1SG FOC love understand
 (I understand *love* [specifically, not other things].)
 ```
@@ -333,31 +333,31 @@ garden than forest CMPR good be
 (The garden is more beautiful than the forest.)
 ```
 
-#### `mo she` - Superlative Marker (SUPL)
+#### `mo ko` - Superlative Marker (SUPL)
 **Function**: Announces superlative degree ("most")
 **Example**:
 ```
-pha noshale mo she wela nio
+ha noshale mo ko wela nio
 PROX garden CMPR FOC good be
 (This garden is the most beautiful.)
 ```
 
 ### Deixis (Demonstratives)
 
-#### `pha` - Proximal Demonstrative (PROX)
+#### `ha` - Proximal Demonstrative (PROX)
 **Function**: Announces proximity ("this/these")
 **Example**:
 ```
-pha whelea
+ha whelea
 PROX friend
 (this friend)
 ```
 
-#### `tha` - Distal Demonstrative (DIST)
+#### `ra` - Distal Demonstrative (DIST)
 **Function**: Announces distance ("that/those")
 **Example**:
 ```
-tha whelea
+ra whelea
 DIST friend
 (that friend)
 ```
@@ -438,7 +438,7 @@ These announce how the current sentence relates to prior discourse. They appear 
 ```
 mia lothea kela. kewai, shia ma kela.
 1SG love understand. however, 3SG NEG understand
-(I understand love. However, she does not understand.)
+(I understand love. However, ko does not understand.)
 ```
 
 ---
@@ -490,9 +490,9 @@ nio wiso lothea
 
 | Slot | Function | Examples |
 |------|----------|----------|
-| **0** | Sentence frame | `wa`, `no`, `lu`, `lu whe`, `su`, `pi` |
-| **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `whi`, `ho`, `po`, `na`, `ka`, `ma` |
-| **2** | Word-level | `lo`, `nu`, `she`, `mo`, `pha`, `tha`, `sa`, `ni`, `le` |
+| **0** | Sentence frame | `wa`, `no`, `lu`, `lu he`, `su`, `pi` |
+| **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
+| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `sa`, `ni`, `le`, `ru` |
 
 **Note**: Complementizers (`rena`, `shola`, `mena`, `wena`) and vocative (`kona`) are not particles—see `COMPLEMENTIZER_REFERENCE.md`.
 

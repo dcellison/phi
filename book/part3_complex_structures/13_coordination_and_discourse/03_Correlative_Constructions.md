@@ -19,7 +19,7 @@ The most fundamental correlative construction in Phi uses the repetition of `nel
 
 **Extended Constructions:**
 - `nela mia nolea thola nela weo wholesa kela` → "both I read the story and we understand its meaning"
-- `nela shiro ela miro nela whela soa wela` → "both the forest is beautiful and the wind feels good"
+- `nela shiro ela miro nela whalo soa wela` → "both the forest is beautiful and the wind feels good"
 
 **Triple Emphasis:**
 - `nela wela nela miro nela sela` → "good and beautiful and peaceful" (triple positive reinforcement)
@@ -72,7 +72,7 @@ A particularly elegant correlative pattern uses `shai` (somewhat/quite) in the f
 - `shai mia wholesa thola, nela mia ki nosea kela phithea` → "I somewhat understand the story, and I'm continuing to listen to its complexities"
 
 **Layered Appreciation:**
-- `shai shiro miro, nela whela theula sela` → "the forest is quite beautiful, and the wind is completely peaceful"
+- `shai shiro miro, nela whalo theula sela` → "the forest is quite beautiful, and the wind is completely peaceful"
 
 These graduated constructions reflect Phi's commitment to expressing truth with precision and nuance, avoiding both overstatement and understatement while building understanding through carefully calibrated layers of meaning.
 

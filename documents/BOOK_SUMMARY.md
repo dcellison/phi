@@ -127,7 +127,7 @@ The book has **THREE PARTS**:
 **Particle System:**
 - Slot 0: `wa` (question), `no` (request), `lu` (conditional), `pi` (politeness)
 - Slot 1: Tense (`to`/`so`), Aspect (`ki`/`si`/`pa`/`te`), Voice (`se`/`ka`), Modality (`po`/`na`)
-- Slot 2: `lo` (plural), `pha`/`tha` (deixis), `she` (focus)
+- Slot 2: `lo` (plural), `ha`/`ra` (deixis), `ko` (focus)
 
 ### Chapter 10: Nouns and Their Modifiers
 - Head-final: modifiers before noun
@@ -205,9 +205,9 @@ The book has **THREE PARTS**:
 | `po` | possibility |
 | `na` | necessity |
 | `lo` | plural |
-| `pha` | proximal |
-| `tha` | distal |
-| `she` | focus |
+| `ha` | proximal |
+| `ra` | distal |
+| `ko` | focus |
 
 ---
 

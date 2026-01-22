@@ -58,20 +58,20 @@ Following Phi's phonological constraints and sound symbolism:
 ### Positional System
 For expressing larger quantities, Phi uses position nouns that function like classifiers, indicating the "measure" or "scale" of counting:
 
-- **`sha`**: "three-group" (position for 3¹)
-- **`pho`**: "nine-group" (position for 3²)
+- **`shao`**: "three-group" (position for 3¹)
+- **`phoi`**: "nine-group" (position for 3²)
 - **`lau`**: "twenty-seven-group" (position for 3³)
 - **`rei`**: "eighty-one-group" (position for 3⁴)
 
 These position words follow Phi's existing pattern where classifiers come between numbers and what's being counted. The structure follows: `[number] [position-noun] [number] [position-noun] ... [number]`
 
 Examples:
-- 3 = `ta sha` (one three-group)
-- 4 = `ta sha ta` (one three-group [and] one)
-- 5 = `ta sha wi` (one three-group [and] two)
-- 8 = `wi sha wi` (two three-groups [and] two)
-- 10 = `ta pho ta` (one nine-group [and] one)
-- 26 = `wi pho wi sha wi` (two nine-groups [and] two three-groups [and] two)
+- 3 = `ta shao` (one three-group)
+- 4 = `ta shao ta` (one three-group [and] one)
+- 5 = `ta shao wi` (one three-group [and] two)
+- 8 = `wi shao wi` (two three-groups [and] two)
+- 10 = `ta phoi ta` (one nine-group [and] one)
+- 26 = `wi phoi wi shao wi` (two nine-groups [and] two three-groups [and] two)
 
 This approach aligns with Phi's classifier system for mindful counting, where the speaker consciously acknowledges the scale and nature of what they're counting.
 
@@ -83,8 +83,8 @@ Rather than precise numbers, Phi speakers would typically use quantity bands:
 - `mu` = none, zero, absence
 - `ta` = one, singular, individual
 - `wi` = two, pair, dual
-- `sha` = several, few (3-8)
-- `pho` = many (9-26)
+- `shao` = several, few (3-8)
+- `phoi` = many (9-26)
 - `lau` = abundant (27-80)
 - `rei` = countless (81+)
 
@@ -94,8 +94,8 @@ This creates natural cognitive categories aligned with human perception rather t
 Use the particle `nu` for ordinal numbers (following modifier-first principle):
 - `nu ta` = first
 - `nu wi` = second  
-- `nu ta sha` = third
-- `nu ta pho` = ninth
+- `nu ta shao` = third
+- `nu ta phoi` = ninth
 
 For discussing position conceptually, use the noun `noa` (position):
 - `ta noa` = first position
@@ -111,16 +111,16 @@ Arithmetic operations use metaphorical verbs:
 ## Cultural Implications
 
 ### Mindful Counting Practice
-The act of counting becomes meditative. Objects are naturally grouped in threes, creating a rhythm: "ta... wi... sha" (one, two, group-complete). This pause at each group of three encourages awareness of what is being counted and why.
+The act of counting becomes meditative. Objects are naturally grouped in threes, creating a rhythm: "ta... wi... shao" (one, two, group-complete). This pause at each group of three encourages awareness of what is being counted and why.
 
 ### Approximate Expression
-Speakers would rarely express exact quantities beyond 27. Instead of "I have 47 apples," one might say "mia phola pho wi melu" (I have many [and] two fruits), encouraging satisfaction with approximation and reducing comparative thinking.
+Speakers would rarely express exact quantities beyond 27. Instead of "I have 47 apples," one might say "mia phola phoi wi melu" (I have many [and] two fruits), encouraging satisfaction with approximation and reducing comparative thinking.
 
 ### Time Conception
 A ternary day might have 27 units (3³), making time less mechanically precise:
-- Dawn period: mu to ta pho (0 to 9)
-- Day period: ta pho to wi pho (9 to 18)
-- Dusk period: wi pho to ta lau (18 to 27)
+- Dawn period: mu to ta phoi (0 to 9)
+- Day period: ta phoi to wi phoi (9 to 18)
+- Dusk period: wi phoi to ta lau (18 to 27)
 
 ### Economic Implications
 Trade and exchange would emphasize:
@@ -136,8 +136,8 @@ The ternary system reframes quantity into qualitative experiences:
 - `mu` = emptiness, potential, receptivity
 - `ta` = focus, presence, singularity
 - `wi` = relationship, balance, dialogue
-- `sha` = community, completeness, satisfaction
-- `pho` = abundance, plenty, enough
+- `shao` = community, completeness, satisfaction
+- `phoi` = abundance, plenty, enough
 - `lau` = overflowing, generous, limitless
 
 ### Natural Grouping
@@ -159,7 +159,7 @@ The system becomes deliberately cumbersome for:
 
 ### Daily Conversation
 ```
-mia thalo ta sha wi [day] to
+mia thalo ta shao wi [day] to
 1SG walk one three.group two [day] PST
 "I walked five days ago"
 
@@ -167,21 +167,21 @@ pi no thi phowe wi [fruit]?
 POL IMP 2SG share two [fruit]
 "Would you please share two fruits?"
 
-nio tai pho [friend]
+nio tai phoi [friend]
 1PL have many [friend]
 "We have many friends" (9-26 friends)
 ```
 
 ### Community Planning
 ```
-pi no nio [distribute] lau [food] wei ta pho miona
+pi no nio [distribute] lau [food] wei ta phoi miona
 POL IMP 1PL [distribute] abundant [food] to one nine.group person
 "Please let us distribute abundant food to nine people"
 ```
 
 ### Philosophical Texts
 ```
-[life] [unite] ta, wi malomi, ta sha [complete]
+[life] [unite] ta, wi malomi, ta shao [complete]
 [life] [unite] one / two balance / one three.group [complete]
 "Life unites one, two balance, three complete"
 (Life begins in unity, finds balance in duality, completes in trinity)

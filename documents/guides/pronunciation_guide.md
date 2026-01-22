@@ -16,7 +16,7 @@ The single most important feature of Phi pronunciation is **vowel hiatus**. This
 
 **The Correct Way:**
 - `saule` is pronounced **`sa-u-le`** (three distinct syllables).
-- `shei` is pronounced **`she-i`** (two distinct syllables).
+- `shei` is pronounced **`ko-i`** (two distinct syllables).
 - `hauno` is pronounced **`ha-u-no`** (three distinct syllables).
 
 ### Practice: The Hiatus Drill
@@ -26,7 +26,7 @@ Read the following words aloud, consciously placing a very slight pause or glott
 | Word     | Incorrect (English Habit) | Correct (Syllables)   |
 | :------- | :------------------------ | :-------------------- |
 | `hauno`  | "how-no"                  | `ha - u - no`         |
-| `sheala` | "shay-la" or "she-ala"    | `she - a - la`        |
+| `sheala` | "shay-la" or "ko-ala"    | `ko - a - la`        |
 | `kewai`  | "kay-why"                 | `ke - wa - i`         |
 | `nolou`  | "no-loo"                  | `no - lo - u`         |
 | `pheo`   | "fee-oh"                  | `phe - o`             |
@@ -40,14 +40,14 @@ Fricatives are sounds made by pushing air through a small opening. Phi uses seve
 This is **not** the English 'f' sound. Do not let your teeth touch your bottom lip.
 
 *   **How to do it:** Imagine you are blowing out a single birthday candle. Make that "whoosh" of air using only your lips. Your lips should be close together but not vibrating like a 'b'.
-*   **Practice:** `pha`, `phe`, `phi`, `pho`, `phu`
+*   **Practice:** `ha`, `phe`, `phi`, `phoi`, `phu`
 
 ### `th` /θ/ - The "Thin" Sound
 
 This sound is common in English, but it's important to be consistent.
 
 *   **How to do it:** Place the tip of your tongue just behind your top teeth, or lightly between your teeth. Push air through. It's the sound in "**th**in" or "**th**ought."
-*   **Practice:** `tha`, `the`, `thi`, `tho`, `thu`
+*   **Practice:** `ra`, `the`, `thi`, `tho`, `ru`
 
 ### `wh` /ʍ/ - The Voiceless 'W'
 
@@ -56,7 +56,7 @@ Many English speakers no longer use this sound, but it's crucial in Phi. It's th
 *   **How to do it:**
     1.  First, say "what" in your normal voice. Notice how your voice box vibrates.
     2.  Now, round your lips to say "what" but **whisper it**. Push the air out first, *then* let the vowel sound follow. It should feel like you are blowing out a candle before the 'w' sound begins.
-*   **Practice:** `wha`, `whe`, `whi`, `who` (It's not "who," but "h-woo")
+*   **Practice:** `wha`, `he`, `ti`, `who` (It's not "who," but "h-woo")
 
 ## 3. The Goal: Mindful Speech
 

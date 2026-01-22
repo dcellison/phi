@@ -1,16 +1,16 @@
 {
-  "word": "she",
+  "word": "ko",
   "gloss": "FOC",
-  "ipa": "/ʃe/",
-  "syllables": ["she"],
+  "ipa": "/ko/",
+  "syllables": ["ko"],
   "pos": ["particle"],
   "slot": 2,
   "concept": "Focus / Emphasis / Gentle Highlighting",
-  "description": "A word-level particle that draws gentle attention to the element it precedes, creating linguistic spotlight without harshness. More than mechanical emphasis, 'she' acknowledges the need to sometimes guide attention while respecting the listener's autonomy to receive or redirect focus as they choose.",
-  "sound_symbolism": "The particle consists of 'ʃ', the soft palatal fricative that whispers rather than shouts—like a gentle touch on the shoulder rather than a grabbed arm. This quiet attention-drawing meets 'e', a neutral mid vowel that neither rises aggressively nor sinks away. Together, 'she' creates acoustic highlighting that illuminates without blinding: the soft 'ʃ' draws notice while the balanced 'e' maintains calm. The sound teaches that emphasis can be achieved through gentleness rather than force.",
-  "grammatical_notes": "Occupies Slot 2, appearing immediately before any word requiring focus—nouns, verbs, adjectives, or even other particles. Creates contrastive or new-information focus depending on context. Unlike stress-based focus in many languages, 'she' makes emphasis visible in writing and consistent in speech. Can combine with other Slot 2 particles when focusing modified elements: 'she lo people' (focusing on the plurality).",
+  "description": "A word-level particle that draws gentle attention to the element it precedes, creating linguistic spotlight without harshness. More than mechanical emphasis, 'ko' acknowledges the need to sometimes guide attention while respecting the listener's autonomy to receive or redirect focus as they choose.",
+  "sound_symbolism": "The particle consists of 'k', the voiceless velar stop that creates a clear, clean boundary—like a frame around what matters. This decisive consonant meets 'o', the rounded vowel of wholeness and completeness. Together, 'ko' creates acoustic highlighting through definition rather than volume: the crisp 'k' draws a line around what is focused while the rounded 'o' holds it in a complete circle of attention. The sound teaches that emphasis can be achieved through clarity rather than force.",
+  "grammatical_notes": "Occupies Slot 2, appearing immediately before any word requiring focus—nouns, verbs, adjectives, or even other particles. Creates contrastive or new-information focus depending on context. Unlike stress-based focus in many languages, 'ko' makes emphasis visible in writing and consistent in speech. Can combine with other Slot 2 particles when focusing modified elements: 'ko lo people' (focusing on the plurality).",
   "pillars": {
-    "peace-linguistics-practices": "By using soft sounds for emphasis, 'she' enables speakers to direct attention without aggression. This transforms potential verbal violence—the harsh emphasis that can feel like attack—into gentle guidance that respects the listener's attention as a gift rather than something to be seized.",
-    "art-nouveau-aesthetics": "Like the way Art Nouveau design guides the eye through subtle emphasis—a slightly thicker line, a gentle curve—'she' creates linguistic emphasis through grace rather than force. It makes focus itself beautiful."
+    "peace-linguistics-practices": "By using soft sounds for emphasis, 'ko' enables speakers to direct attention without aggression. This transforms potential verbal violence—the harsh emphasis that can feel like attack—into gentle guidance that respects the listener's attention as a gift rather than something to be seized.",
+    "art-nouveau-aesthetics": "Like the way Art Nouveau design guides the eye through subtle emphasis—a slightly thicker line, a gentle curve—'ko' creates linguistic emphasis through grace rather than force. It makes focus itself beautiful."
   }
 }

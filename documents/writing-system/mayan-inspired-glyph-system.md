@@ -63,7 +63,7 @@ Understanding Phi's particle system is crucial for designing the visual attachme
 - **Scope**: Verb phrase
 
 ### Slot 2 (Word-level particles)
-- **Particles**: lo (plural), she (focus), mo (comparative), pha (proximal), tha (distal), sa/ni/le (honorifics), re (relativizer), sho (quotative)
+- **Particles**: lo (plural), ko (focus), mo (comparative), ha (proximal), ra (distal), sa/ni/le (honorifics), re (relativizer), sho (quotative)
 - **Scope**: Individual words or small phrases
 
 ## Visual Solutions for Particle Scope
@@ -91,7 +91,7 @@ The key challenge is representing particles that affect different scopes (word, 
 
 ### Visual Example
 
-For the sentence: `wa pi mia lo whelea so she shele`
+For the sentence: `wa pi mia lo whelea so ko shele`
 (Q POL 1SG PL friend FUT FOC help)
 "Will I please help the friends (emphasized)?"
 
@@ -99,7 +99,7 @@ For the sentence: `wa pi mia lo whelea so she shele`
 - "pi" adds politeness marker in margin
 - "mia" is a single glyph block
 - "whelea" has "lo" attached as small affix
-- "shele" has "so" as medium affix (verb modifier) and "she" as small affix (focus)
+- "shele" has "so" as medium affix (verb modifier) and "ko" as small affix (focus)
 
 ## Logographic vs. Syllabic Writing
 
@@ -130,7 +130,7 @@ Every word in Phi can be written in multiple ways:
 - **~300 logograms** for content words (manageable learning curve)
 - **~50 syllabograms** for CV combinations (complete coverage)
 - **~27 particle forms** that can attach or frame other elements
-- **7 number glyphs** for the ternary system (mu, ta, wi, shia, pho, lau, rei)
+- **7 number glyphs** for the ternary system (mu, ta, wi, shia, phoi, lau, rei)
 
 ## Representing Ternary Numbers
 
@@ -143,7 +143,7 @@ Phi's ternary number system presents unique opportunities for visual representat
 
 ### Scale Unit Glyphs (groups)
 - **shia (3)**: Triangle or three-part mandala
-- **pho (9)**: Nine-cell grid or triple triangle
+- **phoi (9)**: Nine-cell grid or triple triangle
 - **lau (27)**: Complex nested form suggesting abundance
 - **rei (81)**: Ornate symbol suggesting "countless"
 
@@ -198,14 +198,14 @@ This allows readers to choose their level of analysis—seeing either the whole 
 
 ## Managing Visual Complexity
 
-The interaction of multiple particle scopes poses a significant design challenge. Consider the sentence `wa pi mia lo whelea so she shele` with 7 grammatical elements affecting different scopes.
+The interaction of multiple particle scopes poses a significant design challenge. Consider the sentence `wa pi mia lo whelea so ko shele` with 7 grammatical elements affecting different scopes.
 
 ### Strategies for Clarity
 
 1. **Visual Hierarchy Through Size**
    - Sentence-level particles (wa, pi): Largest/boldest markers
    - Verb phrase particles (so): Medium-sized attachments
-   - Word-level particles (lo, she): Smallest attachments
+   - Word-level particles (lo, ko): Smallest attachments
    
 2. **Consistent Positioning Rules**
    - Slot 0: Always in margins or overhead

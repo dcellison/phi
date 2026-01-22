@@ -15,7 +15,7 @@ These are the only numbers that can be easily and precisely expressed as single 
 
 For quantities beyond two, Phi uses scale nouns that represent groups:
 *   `shia` - a three-group (3)
-*   `pho` - a nine-group (9)
+*   `phoi` - a nine-group (9)
 *   `lau` - a twenty-seven-group (27)
 *   `rei` - an eighty-one-group (countless)
 
@@ -23,17 +23,17 @@ For quantities beyond two, Phi uses scale nouns that represent groups:
 
 Numbers are built by combining base numbers with scale units, following the modifier-first principle:
 
-*   **3:** `ta sha` (one three-group)
-*   **4:** `ta sha ta` (one three-group and one)
-*   **5:** `ta sha wi` (one three-group and two)
-*   **6:** `wi sha` (two three-groups)
-*   **10:** `ta pho ta` (one nine-group and one)
-*   **15:** `ta pho wi sha` (one nine-group and two three-groups)
+*   **3:** `ta shao` (one three-group)
+*   **4:** `ta shao ta` (one three-group and one)
+*   **5:** `ta shao wi` (one three-group and two)
+*   **6:** `wi shao` (two three-groups)
+*   **10:** `ta phoi ta` (one nine-group and one)
+*   **15:** `ta phoi wi shao` (one nine-group and two three-groups)
 
 ### Approximate Expression
 
-Beyond 9 (pho), speakers typically use approximations:
-*   `pho [miona]` - many people (roughly 9)
+Beyond 9 (phoi), speakers typically use approximations:
+*   `phoi [miona]` - many people (roughly 9)
 *   `lau [nila]` - abundant days (roughly a month)
 *   `rei [themo]` - countless stars
 
@@ -45,12 +45,12 @@ To indicate position or order, use the particle `nu` before numbers:
 
 *   **First:** `nu ta [noun]`
 *   **Second:** `nu wi [noun]`
-*   **Third:** `nu ta sha [noun]`
+*   **Third:** `nu ta shao [noun]`
 
 Examples:
 *   `nu ta pilo` - first child
 *   `nu wi nila` - second day
-*   `nu ta sha hauno` - third house
+*   `nu ta shao hauno` - third house
 
 ### The Philosophy of Ternary Counting
 
@@ -64,7 +64,7 @@ Phi's number system teaches several principles:
 ### Lesson 10 Summary
 
 *   Phi uses a ternary (base-3) system with only three base numbers
-*   Larger quantities use scale units (shia, pho, lau, rei)
+*   Larger quantities use scale units (shia, phoi, lau, rei)
 *   The system deliberately makes precise counting difficult beyond 27
 *   The particle `nu` creates ordinal numbers
 *   This design promotes mindful, approximate thinking about quantity

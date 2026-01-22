@@ -14,8 +14,8 @@ Phi uses only three base numerals, making precise counting difficult beyond huma
 
 For quantities beyond 2, Phi uses scale units—countable nouns representing groups:
 
-- **`sha`** - a three-group (3¹ = 3)
-- **`pho`** - a nine-group (3² = 9)  
+- **`shao`** - a three-group (3¹ = 3)
+- **`phoi`** - a nine-group (3² = 9)  
 - **`lau`** - a twenty-seven-group (3³ = 27)
 - **`rei`** - an eighty-one-group (3⁴ = 81)
 
@@ -24,12 +24,12 @@ These are not classifiers but quantitative nouns—units that can be counted. Fo
 **Structure:** `[Base Numeral] [Scale Unit]`
 
 **Examples:**
-- **3:** `ta sha` (one three-unit)
-- **4:** `ta sha ta` (one three-unit [plus] one)
-- **5:** `ta sha wi` (one three-unit [plus] two)
-- **6:** `wi sha` (two three-units)
-- **9:** `ta pho` (one nine-unit)
-- **14:** `ta pho ta sha wi` (one nine-unit [plus] one three-unit [plus] two)
+- **3:** `ta shao` (one three-unit)
+- **4:** `ta shao ta` (one three-unit [plus] one)
+- **5:** `ta shao wi` (one three-unit [plus] two)
+- **6:** `wi shao` (two three-units)
+- **9:** `ta phoi` (one nine-unit)
+- **14:** `ta phoi ta shao wi` (one nine-unit [plus] one three-unit [plus] two)
 
 This maintains perfect modifier-first ordering: numbers modify units, just as adjectives modify nouns.
 
@@ -42,8 +42,8 @@ Beyond 27 (`ta lau`), exact counting becomes increasingly difficult and unnatura
 
 **Common approximations:**
 Scale units can stand alone to indicate approximate quantities:
-- `sha [days]` - "a three-group of days" (roughly 3)
-- `pho [people]` - "a nine-group of people" (roughly 9)
+- `shao [days]` - "a three-group of days" (roughly 3)
+- `phoi [people]` - "a nine-group of people" (roughly 9)
 - `lau [trees]` - "a twenty-seven-group of trees" (many)
 - `rei [stars]` - "an eighty-one-group of stars" (countless)
 
@@ -60,10 +60,10 @@ The Slot 2 particle `nu` announces that a number indicates position rather than 
 **Examples:**
 - **First:** `nu ta` 
 - **Second:** `nu wi`
-- **Third:** `nu ta sha`
-- **Ninth:** `nu ta pho`
+- **Third:** `nu ta shao`
+- **Ninth:** `nu ta phoi`
 - **First child:** `nu ta pilo`
-- **Third day:** `nu ta sha nila`
+- **Third day:** `nu ta shao nila`
 
 The particle precedes the number, announcing the ordinal transformation before the quantity is stated—perfect modifier-first ordering.
 
@@ -76,7 +76,7 @@ For more complex positional expressions, the noun `noa` (position) can be used c
 **Examples:**
 - **In first position:** `ta noa nela`
 - **After second position:** `wi noa pheo`
-- **The concept of third place:** `ta sha noa`
+- **The concept of third place:** `ta shao noa`
 
 This approach enables philosophical discussion about position itself, not just grammatical marking.
 
@@ -101,17 +101,17 @@ wi himo whelea
 two PERSON.CLF friend
 (two friends - acknowledging their humanity)
 
-ta sha lipha shiro
+ta shao lipha shiro
 one three-unit LIFE.CLF tree  
 (three trees - acknowledging their aliveness)
 ```
 
-Note how the full number (`ta sha` = three) precedes the nature classifier (`lipha`), which precedes the noun (`shiro`). This creates layered announcement: quantity, then nature, then entity.
+Note how the full number (`ta shao` = three) precedes the nature classifier (`lipha`), which precedes the noun (`shiro`). This creates layered announcement: quantity, then nature, then entity.
 
 ### 6.5.2. Dual Awareness: Scale and Nature
 
 The combination of scale units and nature classifiers creates dual consciousness:
-- Scale units (`sha`, `pho`, `lau`, `rei`) make us aware of magnitude
+- Scale units (`shao`, `phoi`, `lau`, `rei`) make us aware of magnitude
 - Nature classifiers (`himo`, `lipha`, `themo`, `nophe`) make us aware of essence
 
 Together they ensure that counting remains a mindful acknowledgment rather than mechanical enumeration.
@@ -136,19 +136,19 @@ Following modifier-first, operands precede operations:
 
 **Examples:**
 ```
-wi ta sha sholei, ta sha wi kelai
+wi ta shao sholei, ta shao wi kelai
 two three gather, five becomes
 (2 + 3 = 5)
 
-ta pho ta sha leiro, wi sha kelai
+ta phoi ta shao leiro, wi shao kelai
 nine three release, six becomes
 (9 - 3 = 6)
 
-ta sha wi welura, wi sha kelai
+ta shao wi welura, wi shao kelai
 three two spread, six becomes
 (3 × 2 = 6)
 
-ta pho ta sha phanoi, ta sha kelai
+ta phoi ta shao phanoi, ta shao kelai
 nine three portion, three becomes
 (9 ÷ 3 = 3)
 ```

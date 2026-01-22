@@ -54,15 +54,15 @@ COND 2SG help, 1SG good feel
 
 ### 5.2.2. Unreal Conditions (Counterfactuals)
 
-The combination `lu whe` announces counterfactual conditions:
+The combination `lu he` announces counterfactual conditions:
 
 ```
-lu whe mia to shele, shia ma to wepu
+lu he mia to shele, shia ma to wepu
 COND IRR 1SG PST help, 3SG NEG PST leave
-(If I had helped, she would not have left.)
+(If I had helped, ko would not have left.)
 ```
 
-The double announcement (`lu` + `whe`) makes the counterfactual nature explicit from the start.
+The double announcement (`lu` + `he`) makes the counterfactual nature explicit from the start.
 
 ## 5.3. Reflexive and Reciprocal Constructions: Announcing Self-Reference
 

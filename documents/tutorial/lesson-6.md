@@ -58,7 +58,7 @@ Phi includes a special set of particles for marking *how you know* what you're s
 There are four evidential particles:
 *   `hi`: marks direct experience ("I witnessed this myself")
 *   `ke`: marks inference ("I conclude from evidence")
-*   `whi`: marks hearsay ("someone told me")
+*   `ti`: marks hearsay ("someone told me")
 *   `ho`: marks assumption ("I suppose")
 
 **Example with `ke` (inference):**
@@ -66,10 +66,10 @@ There are four evidential particles:
 *   **Gloss:** `3SG PST INFER leave.`
 *   **Translation:** She left [I infer from evidence].
 
-Perhaps you found an empty room and a note. You didn't see her leave, but the evidence tells you she did.
+Perhaps you found an empty room and a note. You didn't see her leave, but the evidence tells you ko did.
 
-**Example with `whi` (hearsay):**
-*   **Phi:** `lo miona whi shele.`
+**Example with `ti` (hearsay):**
+*   **Phi:** `lo miona ti shele.`
 *   **Gloss:** `PL person REP help.`
 *   **Translation:** People helped [I was told].
 
@@ -119,7 +119,7 @@ Here we have `to` (past tense), `ke` (inferential evidential), `po` (possibility
 *   `po` means "can," and `na` means "must."
 *   `se` marks passive voice (the receiver becomes the subject).
 *   `ma` means "not."
-*   Evidentials mark knowledge source: `hi` (direct), `ke` (inference), `whi` (hearsay), `ho` (assumption).
+*   Evidentials mark knowledge source: `hi` (direct), `ke` (inference), `ti` (hearsay), `ho` (assumption).
 *   Evidentials are optional—leaving them out implies direct experience.
 
 With this knowledge, you now have control over the entire verb phrase, allowing you to express not just *what* happened, but *how you know* it happened. In the next lesson, we will focus on modifiers for nouns and verbs. 

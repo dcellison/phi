@@ -11,7 +11,7 @@ When everything can be precisely measured, everything becomes comparable, creati
 - "I have 47 apples, you have 45" immediately creates winner/loser dynamics
 - "She scored 92.7%, he scored 91.9%" transforms learning into competition  
 - "This costs $29.99, that costs $31.49" makes every choice an optimization problem
-- "He has 1,247 followers, she has 1,391" turns relationships into metrics
+- "He has 1,247 followers, ko has 1,391" turns relationships into metrics
 
 Precise measurement transforms qualitative experiences into quantitative competitions. Every aspect of life becomes a scorecard where someone is ahead and someone is behind. This constant ranking creates perpetual anxiety and dissatisfaction.
 

@@ -103,7 +103,7 @@ Causal ("because") and concessive ("although") clauses are formed by using the p
   ```
   lao [shia to wepu], mia nolou hisu
   BECAUSE [3SG PST leave], 1SG sadness feel
-  (Because she left, I feel sad.)
+  (Because ko left, I feel sad.)
   ```
 - **Concessive:**
   ```

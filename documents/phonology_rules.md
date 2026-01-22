@@ -44,7 +44,7 @@ This single rule defines **all** possible syllable onsets in the language.
   - The optional `(C)` is **used** and represents the **first character** of the digraph (e.g., `p` in `ph`).
   - The mandatory `C` represents the **second character** of the digraph (e.g., `h` in `ph`).
   - This is the **only** time the optional `(C)` is ever used.
-  - *Example:* `pha`, `she`, `tho`. (Structure: `(C)CV`)
+  - *Example:* `ha`, `ko`, `tho`. (Structure: `(C)CV`)
 
 ### 2.2. The Syllable Nucleus: `V` or `P`
 The nucleus of a syllable (the part that follows the onset) can be either a Single Vowel (`V`) or a Vowel Pair (`P`).
@@ -81,7 +81,8 @@ A word cannot contain the same syllable twice.
 - **Forbidden:** `kaka` 
 
 ### 4.2. Structural Hierarchy
-- **Single Syllable Forms (`CV` or `FV`):** Reserved for particles, pronouns, and numerals
+- **Single Syllable Forms (`CV` only):** Reserved for particles and base numerals (mu, ta, wi). Particles use CV structure exclusively (no fricative digraphs) for instant recognition and disambiguation.
+- **Two-Syllable Forms (`CV.V` or `FV.V`):** Used for pronouns (mia, thia, shia), prepositions (mua, thue, wei), and scale units (shao, phoi)
 - **Multi-Syllable Forms:** Used for content words (nouns, verbs, descriptors)
 
 ## 5. IPA Notation Standards

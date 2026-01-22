@@ -1,16 +1,16 @@
 {
-  "word": "pha",
+  "word": "ha",
   "gloss": "PROX",
-  "ipa": "/ɸa/",
-  "syllables": ["pha"],
+  "ipa": "/ha/",
+  "syllables": ["ha"],
   "pos": ["particle"],
   "slot": 2,
   "concept": "This / Here / Near Speaker",
-  "description": "A word-level particle that marks spatial or conceptual proximity to the speaker, creating the deictic space of 'here-ness'. More than indicating location, 'pha' acknowledges the intimate sphere where speaker and referent share space, where pointing becomes almost touching.",
-  "sound_symbolism": "The particle begins with 'ɸ', the soft bilabial fricative formed by barely parted lips—breath passing through the smallest gap, like the minimal distance between speaker and what is near. This intimate consonant meets 'a', the open vowel that creates space for presence. Together, 'pha' sounds like proximity itself: the breathy 'ɸ' suggests closeness while the open 'a' acknowledges what fills that nearness. The sound requires speakers to almost whisper, appropriate for indicating what needs no shouting to reach.",
-  "grammatical_notes": "Occupies Slot 2, appearing immediately before nouns to create demonstrative expressions. Functions as a deictic particle marking proximity in space ('this book'), time ('this moment'), or discourse ('this idea just mentioned'). Does not inflect for number—'pha' serves for both singular and plural referents. Can combine with other Slot 2 particles: 'pha lo' (these, plural). The proximal/distal distinction is binary—no medial demonstrative exists.",
+  "description": "A word-level particle that marks spatial or conceptual proximity to the speaker, creating the deictic space of 'here-ness'. More than indicating location, 'ha' acknowledges the intimate sphere where speaker and referent share space, where pointing becomes almost touching.",
+  "sound_symbolism": "The particle consists of 'h', pure breath without obstruction—the most immediate, intimate consonant, present before any word can form. This breathy openness meets 'a', the open vowel that creates space for presence. Together, 'ha' sounds like proximity itself: the aspirate 'h' suggests the closeness of shared breath while the open 'a' acknowledges what fills that nearness. The sound requires speakers to exhale gently, appropriate for indicating what needs no shouting to reach.",
+  "grammatical_notes": "Occupies Slot 2, appearing immediately before nouns to create demonstrative expressions. Functions as a deictic particle marking proximity in space ('this book'), time ('this moment'), or discourse ('this idea just mentioned'). Does not inflect for number—'ha' serves for both singular and plural referents. Can combine with other Slot 2 particles: 'ha lo' (these, plural). The proximal/distal distinction is binary—no medial demonstrative exists.",
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies the practice of presence—acknowledging what is here and now rather than losing ourselves in distant abstractions. Like mindfulness that returns attention to this breath, this moment, 'pha' grammaticalizes immediate awareness.",
-    "pre-industrial-wisdom": "Survival depends on intimate knowledge of the immediate environment—this plant is edible, this water is safe. 'Pha' carries the wisdom of proximity, the deep knowing that comes from direct encounter rather than distant report."
+    "secular-buddhist-philosophy": "The particle embodies the practice of presence—acknowledging what is here and now rather than losing ourselves in distant abstractions. Like mindfulness that returns attention to this breath, this moment, 'ha' grammaticalizes immediate awareness.",
+    "pre-industrial-wisdom": "Survival depends on intimate knowledge of the immediate environment—this plant is edible, this water is safe. 'Ha' carries the wisdom of proximity, the deep knowing that comes from direct encounter rather than distant report."
   }
 }
