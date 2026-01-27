@@ -2,48 +2,54 @@
 
 ### 1.5.1 The Confluence of Five Rivers
 
-The unique worldview of Phi is not born from a single, monolithic ideology, but from a confluence of five distinct but complementary rivers of thought. Each of these traditions, powerful in its own right, flows into the others to create a language that is at once futuristic and ancient, artistic and pragmatic, personal and communal.
+Phi's worldview comes from five distinct but complementary traditions. Each flows into the others to create a language that's futuristic and ancient at once, artistic and pragmatic, personal and communal.
 
-They are the five pillars that support the entire architecture of the language, and understanding their contribution is essential to understanding Phi itself. The chapter that follows this one will provide a deep and thorough exploration of each pillar, delving into its history, its core tenets, and its specific influence on the grammar and vocabulary you are about to learn.
-
-For now, however, let us take a brief journey to the headwaters of each of these five great rivers, to get a glimpse of the source from which the soul of Phi emerges.
+These are the pillars supporting the whole architecture. The next chapter explores each one in depth—its history, core ideas, and specific influence on Phi's grammar and vocabulary. For now, a brief look at where each comes from.
 
 ### 1.5.2 Solarpunk: The Vision of Radical Optimism
 
-The first pillar of Phi is one of radical, pragmatic optimism. It is the philosophy of **Solarpunk**. More than a mere science-fiction subgenre, Solarpunk is a cultural and aesthetic movement that asks a simple but profound question: what if we actually succeed?
+The first pillar is **Solarpunk**. More than a science-fiction subgenre, it's a cultural movement asking a simple question: what if we actually succeed?
 
-It is a conscious and determined rejection of the cynical, post-apocalyptic dystopias that have dominated our collective imagination, and in their place, it offers a vision of a future where humanity has not merely survived, but has learned to thrive in genuine, symbiotic harmony with the natural world. This is not a return to a pre-technological past, but a leap into a wiser future—a world of gleaming solar-glass architecture, rooftop gardens feeding entire city blocks, community-owned workshops filled with 3D printers and convivial tools, and technology that serves human connection rather than corporate profit.
+Solarpunk rejects the cynical, post-apocalyptic dystopias that dominate our imagination. Instead, it offers a future where humanity has learned to thrive in symbiosis with nature. Not a return to pre-technological life, but a leap into something wiser: solar-glass architecture, rooftop gardens feeding city blocks, community workshops with shared tools, technology serving human connection rather than corporate profit. A future that's lush and green and full of art.
 
-It is a future that is not grim and gray, but lush, green, and filled with art and beauty. This philosophy infuses the very vocabulary of Phi, which is intentionally rich with words for concepts central to the Solarpunk vision, such as `weothe` (a shared path of law based on agreement, not restriction) and `phalowa` (solar energy, a word which phonetically means "this abundant, given gift").
+This philosophy shapes Phi's vocabulary. The language has words for concepts central to Solarpunk: `sila` (community built on shared purpose), `wethau` (a convivial tool designed for human-scale use), and `phalowa` (solar energy—phonetically, "this abundant, given gift").
 
 ### 1.5.3 Buddhism: The Technology of the Mind
 
-If Solarpunk provides the vision for Phi's ideal outer world, the great philosophical traditions of **Buddhism** provide the map for the ideal inner world. Phi is not a religious language and does not engage with Buddhist metaphysics; rather, it draws deeply from its practical and psychological insights, treating them as a time-tested "technology of the mind" for cultivating a more peaceful and aware state of being.
+If Solarpunk provides the vision for Phi's outer world, **Buddhism** provides the map for the inner world. Phi isn't a religious language and doesn't engage with Buddhist metaphysics. It draws from Buddhism's practical psychological insights, treating them as tested techniques for cultivating peace and awareness.
 
-At the heart of this pillar is the concept of **mindfulness** (`nosa`), the practice of paying active and non-judgmental attention to the present moment. This is not just a vocabulary word, but a grammatical principle. The verb-final sentence structure is a form of linguistic mindfulness, requiring the speaker to hold a complete thought before expressing it, thereby short-circuiting the impulsive patterns of reactive speech.
+Central to this pillar is **mindfulness** (`nosa`): paying active, non-judgmental attention to the present moment. This isn't just vocabulary; it's a grammatical principle. Verb-final sentence structure is linguistic mindfulness, requiring speakers to hold a complete thought before expressing it, short-circuiting impulsive, reactive speech.
 
-This commitment extends to the Buddhist ideal of **Right Speech**. The language is intentionally designed to make it easy to express compassion (`lothea`) and understanding, while making it difficult and clumsy to express insults or harsh judgments. Even potentially volatile emotions are re-framed through a mindful lens: anger (`phale`) is not simply "rage," but a "call for a boundary," transforming a destructive impulse into a signal for restorative action.
+The commitment extends to **Right Speech**. Phi makes it easy to express compassion (`lothea`) and understanding, while making insults and harsh judgments clumsy to form. Even volatile emotions get reframed: anger (`phale`) isn't "rage" but "call for a boundary," transforming a destructive impulse into a signal for restorative action. Fear (`sui`) becomes "alertness to disharmony," a signal to pay attention rather than panic.
 
 ### 1.5.4 Art Nouveau: The Aesthetic of Organic Beauty
 
-Language is not merely a functional tool for thought; it is also a medium of art, capable of great beauty or discordant ugliness. The third pillar of Phi is an aesthetic one, a commitment to a particular vision of beauty drawn from the revolutionary **Art Nouveau** movement of the late 19th and early 20th centuries.
+Language isn't just functional; it's a medium capable of beauty or ugliness. The third pillar is aesthetic, drawn from the **Art Nouveau** movement of the late 19th and early 20th centuries.
 
-Art Nouveau was a conscious and passionate rebellion against the rigid, historical, and academic art forms of its time. Its artists and artisans sought to create a new and vital aesthetic language, one free from the artificial constraints of the past and inspired instead by the dynamic, flowing, and organic forms of the natural world. They rejected the straight line in favor of the *ligne-coup-de-fouet*, or "whiplash line"—the sinuous, energetic curve of a plant tendril, a wisp of smoke, or a wave cresting in the sea.
+Art Nouveau rebelled against rigid academic art forms. Its artists sought a new aesthetic language, free from artificial constraints, inspired by nature's dynamic, flowing, organic forms. They rejected the straight line for the *ligne-coup-de-fouet*, the "whiplash line"—the curve of a plant tendril, a wisp of smoke, a wave cresting.
 
-They saw no meaningful distinction between the "fine arts" of painting and sculpture and the "decorative arts" of furniture and architecture, believing that beauty should be a holistic and integrated part of all of life. This philosophy of integrated, organic beauty is the aesthetic soul of Phi. It is most apparent in the language's sound, with its preference for soft fricatives and flowing vowels, and its compositional vocabulary, where simple concepts grow together to form complex and beautiful new meanings, like a vine covering a trellis.
+They saw no meaningful distinction between "fine arts" like painting and "decorative arts" like furniture. Beauty should be integrated into all of life. This philosophy is Phi's aesthetic soul. You hear it in the language's sound: soft fricatives, flowing vowels. You see it in compositional vocabulary, where simple concepts grow together to form complex meanings, like a vine covering a trellis.
 
-### 1.5.5 Peace Linguistics and Pre-Industrial Wisdom
+### 1.5.5 Peace Linguistics: The Grammar of Nonviolence
 
-The fourth pillar of Phi provides the practical engineering for its philosophical ideals. It draws from the modern academic field of **Peace Linguistics**, which studies the profound and often unconscious ways that language can either perpetuate conflict or foster peace. This discipline moves beyond simply advocating for polite words; it analyzes the very grammar of violence and seeks to build a grammar of nonviolence.
+The fourth pillar provides practical engineering for Phi's ideals. **Peace Linguistics** is an academic field studying how language can perpetuate conflict or foster peace. It goes beyond polite words to analyze the grammar of violence and build a grammar of nonviolence.
 
-Peace linguists have demonstrated that many of the world's languages are replete with "violent metaphors," especially in the context of disagreement, and that the ease with which one can form a harsh, absolute command is a tool of social hierarchy. Phi uses these insights as a direct blueprint for its design. The imperative mood, for instance, is grammatically framed as a cooperative request, not a hierarchical order.
+Peace linguists have shown that many languages are full of violent metaphors, especially around disagreement, and that the ease of forming harsh commands is a tool of social hierarchy. Phi uses these insights directly.
 
-The final pillar of Phi is one of deep humility. It is a conscious effort to look beyond the often-narrow assumptions of the modern, industrial world and to learn from the immense and time-tested wisdom of **pre-industrial and indigenous cultures**. This pillar acknowledges that for the vast majority of human history, people have lived in a way that was deeply embedded within, not separate from, their local ecosystems, and that their languages often reflected this profound connection with breathtaking elegance.
+The imperative mood uses the request particle `no`, framing instructions as cooperative suggestions rather than hierarchical orders. This is typically softened further with the politeness particle `pi`, making `pi no...` ("please, would you...") the natural default. The passive voice particle `se` allows speakers to focus on what happened rather than assigning blame, de-escalating potential conflicts. Even the vocabulary reflects this: justice (`shilei`) means "a gentle flow back to integrity," and forgiveness (`shephoa`) means "internal release of disharmony."
 
-Phi seeks to recapture some of this wisdom by borrowing several key structural and semantic concepts. It operates on a principle of **universal animacy**, where there is no hard grammatical line drawn between "who" and "what," treating all things as active participants in the world. It embraces a **cyclical view of time**, framing days and seasons not as points on an abstract line, but as recurring events tied to the tangible cycles of the earth and sun.
+### 1.5.6 Pre-Industrial Wisdom: Learning from Deep Time
 
-### 1.5.6 The Integrated Foundation
+The fifth pillar looks beyond modern industrial assumptions to learn from **pre-industrial and indigenous cultures**. For most of human history, people lived embedded within their ecosystems, and their languages reflected that connection.
 
-These five pillars—the pragmatic optimism of Solarpunk, the inner clarity of Buddhist thought, the organic beauty of Art Nouveau, the constructive principles of Peace Linguistics, and the grounded perspective of Pre-industrial Wisdom—are the bedrock upon which Phi is built. They are not merely decorative influences; they are the load-bearing columns that give the entire structure its integrity and purpose.
+Phi borrows key concepts. It operates on **universal animacy**: no hard grammatical line between "who" and "what." The pronoun `sua` covers both, and optional classifiers (`himo` for people, `lipha` for living things, `themo` for objects) encourage speakers to consider the nature of what they're referring to.
 
-Every rule of grammar, every choice of vocabulary, and every phonetic nuance you are about to learn is a direct expression of one or more of these core commitments. Understanding them is the first and most crucial step on the path to not only speaking Phi, but to truly understanding it. In the next chapter, we will dive more deeply into each of these pillars, exploring their history and their specific impact on the language in greater detail.
+It embraces a **cyclical view of time**. While Phi has simple particles for past (`to`) and future (`so`), its deeper structure ties time to natural rhythms. Yesterday is `[to wepu] muila saule`—"the Earth's Star that went." Today is `ha muila saule`. Tomorrow is `[so wepu] muila saule`. Time isn't an abstract line but a recurring dance of planet and sun.
+
+The vocabulary builds on **natural prototypes**. Colors aren't abstract wavelengths but qualities of familiar things: `sutha` (sun-color), `shupha` (blood-color), `lipha` (living-thing-color), `lisho` (water-color), `muila` (earth-color).
+
+### 1.5.7 The Integrated Foundation
+
+These five pillars—Solarpunk's pragmatic optimism, Buddhist inner clarity, Art Nouveau's organic beauty, Peace Linguistics' constructive grammar, and Pre-industrial Wisdom's grounded perspective—are Phi's bedrock. They're not decorative influences; they're load-bearing.
+
+Every grammar rule, vocabulary choice, and phonetic detail you're about to learn expresses one or more of these commitments. Understanding them is the first step to not just speaking Phi, but understanding it. The next chapter explores each pillar in more depth.
