@@ -2,40 +2,40 @@
 
 ### 2.2.1 The Science of the Mind
 
-If Solarpunk provides the vision for Phi's ideal outer world, its relationship with its environment and community, then the second pillar provides the map for its ideal inner world. Phi draws deeply from the vast and profound traditions of **Buddhist philosophy**, not as a system of faith or metaphysics, but as a time-tested "science of the mind."
+If Solarpunk provides Phi's vision for the outer world, the second pillar provides the map for the inner world. Phi draws from **Buddhist philosophy**, not as a system of faith or metaphysics, but as a tested "science of the mind."
 
-For over two and a half millennia, Buddhist thinkers have been engaged in a rigorous and systematic investigation into the nature of consciousness, suffering, and human well-being. The result of this long inquiry is a powerful set of practical, ethical, and psychological tools for cultivating clarity, compassion, and inner peace.
+For over two thousand years, Buddhist thinkers have investigated consciousness, suffering, and well-being. The result is a set of practical tools for cultivating clarity, compassion, and inner peace.
 
-Phi carefully borrows from this ancient "technology of the mind," embedding its core principles directly into the structure of the language itself, with the goal of making these beneficial mental states more accessible to the speaker.
+Phi borrows from this tradition, embedding its core principles directly into the language's structure. The goal: making beneficial mental states more accessible to the speaker.
 
 ### 2.2.2 Mindfulness as Grammatical Practice
 
-At the very heart of this pillar is the concept of **mindfulness**, known in Phi as `nosa`. This is not a vague or passive sense of "awareness," but the specific, active practice of paying deliberate, open, and non-judgmental attention to the present moment—to one's thoughts, feelings, and sensations as they arise.
+Central to this pillar is **mindfulness**, called `nosa` in Phi. Not a vague sense of "awareness," but the active practice of paying deliberate, non-judgmental attention to the present moment—to thoughts, feelings, and sensations as they arise.
 
-This principle is not merely a word in the lexicon; it is woven directly into the foundational grammar of the language. The strict Subject-Object-Verb word order, for example, is a direct application of this philosophy. By requiring the speaker to build the entire context of a situation—the actors and the objects involved—before stating the action that connects them, the grammar enforces a moment of deliberate observation.
+This isn't just a vocabulary word. It's woven into the grammar. The strict Subject-Object-Verb word order is a direct application. By requiring speakers to build the full context of a situation—actors and objects—before stating the action, the grammar enforces a moment of observation. It interrupts the reactive patterns of Subject-Verb-Object languages and encourages a more considered pace.
 
-It interrupts the instantaneous, reactive patterns of Subject-Verb-Object languages and encourages a more considered, thoughtful pace of communication. This "grammatical mindfulness" is further supported by the evidential verb system, which gently prompts the speaker to consider the source of their knowledge: Did I see it (`shipe`)? Did I infer it (`pheralu`)? Or did I hear it from another (`whipi`)? This constant, subtle encouragement to observe the world and one's own mind before speaking is Phi's primary tool for training the muscle of attention.
+The evidential verb system supports this further. It prompts speakers to consider the source of their knowledge: Did I see it (`shipe`)? Did I infer it (`pheralu`)? Did I hear it from someone (`whipi`)? This constant, subtle nudge to observe before speaking is Phi's primary tool for training attention.
 
 ### 2.2.3 Right Speech and Compassionate Expression
 
-Flowing naturally from the practice of mindfulness is a deep commitment to **compassion**, or `lothea`. In the Buddhist tradition, this compassionate impulse is expressed through the practice of **Right Speech**—communication that is chosen for its truthfulness, its kindness, and its benefit to all parties.
+From mindfulness comes a commitment to **compassion** (`lothea`). In the Buddhist tradition, this is expressed through **Right Speech**: communication chosen for truthfulness, kindness, and benefit to all parties.
 
-Phi is designed to make Right Speech the path of least resistance. It does this not by forbidding "wrong" speech, but by subtly redirecting the speaker's expression of potentially harmful emotions. The lexicon is intentionally structured to re-frame volatile feelings, transforming them from destructive impulses into mindful signals for constructive action.
+Phi makes Right Speech the path of least resistance. Not by forbidding "wrong" speech, but by redirecting the expression of harmful emotions. The lexicon reframes volatile feelings, transforming destructive impulses into signals for constructive action.
 
-The Phi word for anger, `phale`, does not mean "rage"; its compositional parts suggest a "forceful call for a boundary," a signal that one's values have been crossed and that restorative action is needed. Similarly, the word for fear, `sui`, is not "terror," but an "alertness to disharmony," a signal to pay careful attention to one's surroundings. By providing a vocabulary that encourages this kind of mindful reframing, the language itself becomes a guide, helping the speaker to navigate their own inner world with greater compassion and wisdom.
+The Phi word for anger, `phale`, doesn't mean "rage." Its components suggest "forceful call for a boundary"—a signal that values have been crossed and restorative action is needed. The word for fear, `sui`, isn't "terror" but "alertness to disharmony," a signal to pay attention. The vocabulary becomes a guide for navigating inner experience with more skill.
 
 ### 2.2.4 The Web of Interconnectedness
 
-Perhaps the most profound philosophical concept Phi draws from the Buddhist tradition is that of **interconnectedness**, or dependent origination. This is the understanding that nothing exists in isolation; every object, every event, and every being is part of a vast and intricate web of causes and conditions that have brought it into existence.
+The most important philosophical concept Phi takes from Buddhism is **interconnectedness**, or dependent origination. Nothing exists in isolation. Every object, event, and being is part of a web of causes and conditions.
 
-A flower cannot exist without the sun, the soil, the rain, and the seed from which it sprang. In this view, the world is not a collection of discrete, separate things, but a single, flowing, and indivisible process.
+A flower can't exist without sun, soil, rain, and the seed it came from. The world isn't a collection of separate things but a single, flowing process.
 
-This deep ecological and philosophical insight is the direct inspiration for Phi's **compositional lexicon**. Rather than assigning arbitrary, standalone words to complex ideas, Phi builds them from simpler, related concepts. A "dream" is not an isolated phenomenon; it is a `nima toremoa`, a "sleep-story," inextricably linking it to the states of sleeping and storytelling. "Reason" is not an abstract faculty; it is `thela`, the "mind-path," which beautifully illustrates the process of moving from one thought to the next.
+This insight inspires Phi's **compositional lexicon**. Rather than assigning arbitrary words to complex ideas, Phi builds them from simpler, related concepts. A "dream" isn't an isolated phenomenon; it's `nima toremoa`, a "sleep-story," linking it to sleeping and storytelling. "Reason" isn't an abstract faculty; it's `thela`, the "mind-path," illustrating the process of moving from one thought to the next.
 
 ### 2.2.5 The Natural Path to Wisdom
 
-These three threads—a mindful syntax that encourages deliberate thought, a compassionate vocabulary that reframes difficult emotions, and a relational lexicon that reveals the interconnectedness of all things—are woven together to form the rich tapestry of Phi's second pillar.
+These three elements work together: a syntax that encourages deliberate thought, a vocabulary that reframes difficult emotions, and a compositional lexicon that reveals how things connect.
 
-The goal is not to create a "Buddhist language" or to impose a specific dogma upon the speaker. Rather, it is to draw upon the deep well of practical wisdom that this tradition offers. It is an attempt to provide a linguistic toolkit that makes the universal human values of mindfulness, compassion, and a sense of belonging feel less like abstract ideals to be strived for, and more like the natural, default way of being.
+The goal isn't to create a "Buddhist language" or impose a dogma. It's to draw on practical wisdom and provide tools that make mindfulness, compassion, and belonging feel less like abstract ideals and more like the natural way to be.
 
-The language does not force you to be mindful; it simply makes mindfulness the easiest and most elegant path to follow.
+The language doesn't force you to be mindful. It just makes mindfulness the easiest path.
