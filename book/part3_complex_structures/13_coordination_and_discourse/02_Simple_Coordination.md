@@ -4,13 +4,13 @@
 
 At the heart of Phi's coordination system lie three fundamental conjunctions that serve as the primary tools for linking words, phrases, and clauses. These particles—`nela` (and), `thona` (but), and `sola` (or)—represent the three basic logical relationships that govern how ideas can be connected: addition, contrast, and alternative.
 
-What makes these conjunctions particularly elegant is their consistent phonological structure. Each follows the pattern `CV.CV`, creating a rhythmic uniformity that helps establish a natural pace in connected speech. This regularity is not accidental; it reflects Phi's commitment to creating coordination tools that feel natural and flowing rather than jarring or disruptive to the conversational rhythm.
+These conjunctions share a consistent phonological structure. Each follows the pattern `CV.CV`, creating a rhythmic uniformity that helps establish a natural pace in connected speech. This regularity reflects Phi's commitment to creating coordination tools that feel natural and flowing rather than jarring or disruptive to the conversational rhythm.
 
 The choice of specific sounds for each conjunction also carries meaning. The flowing liquids and gentle consonants create particles that invite rather than demand, that suggest connection rather than forcing it. Speaking these conjunctions feels like building bridges rather than constructing barriers.
 
 ### 13.2.2 Addition and Accumulation: The Conjunction `nela`
 
-The conjunction `nela` serves as Phi's primary tool for addition and accumulation, equivalent to "and" in English but carrying subtle additional connotations of harmony and natural flowing together. The particle combines the gentle nasal `n` with flowing liquids, creating a sound that naturally suggests the coming together of separate elements into a unified whole.
+The conjunction `nela` serves as Phi's primary tool for addition and accumulation, equivalent to "and" in English but carrying subtle additional connotations of harmony and natural flowing together. The particle combines the gentle nasal `n` with flowing liquids, creating a sound that suggests the coming together of separate elements into a unified whole.
 
 **Basic Word Coordination:**
 - `wela nela lopia` → "good and beautiful" (harmonious and aesthetic)
@@ -18,7 +18,7 @@ The conjunction `nela` serves as Phi's primary tool for addition and accumulatio
 - `sila nela kelu` → "together and peaceful" (unified and harmonious)
 
 **Phrase Coordination:**
-- `wela toremoa nela lopia shiro` → "a good story and a beautiful forest" 
+- `wela toremoa nela lopia shiro` → "a good story and a beautiful forest"
 - `mia nolea nela miona shemui` → "I read and we speak"
 
 **Clause Coordination:**
@@ -30,7 +30,7 @@ The key to using `nela` effectively is understanding that it suggests not merely
 
 The conjunction `thona` introduces contrast and tension while maintaining the possibility of balance and reconciliation. Unlike adversarial conjunctions in some languages, `thona` suggests not opposition but complementarity—the recognition that different perspectives or qualities can coexist constructively.
 
-The fricative `th` at the beginning of `thona` creates a slight breathiness that encourages speakers to pause and consider the shift in perspective they're about to introduce. This sound naturally slows the pace of speech, creating space for the kind of thoughtful transition that true dialogue requires.
+The fricative `th` at the beginning of `thona` creates a slight breathiness that encourages speakers to pause and consider the shift in perspective they're about to introduce. This sound naturally slows the pace of speech, creating space for the kind of thoughtful transition that dialogue requires.
 
 **Contrasting Qualities:**
 - `wela thona toremoa` → "good but difficult" (harmonious yet challenging)
@@ -81,7 +81,7 @@ Understanding these rhythmic qualities allows speakers to choose coordination st
 
 ### 13.2.6 Strategic Combination and Layered Connection
 
-Advanced use of simple coordination involves the strategic combination of different conjunction types to create more complex logical and emotional textures. By layering `nela`, `thona`, and `sola` in thoughtful sequences, speakers can guide listeners through sophisticated chains of reasoning while maintaining clarity and grace.
+Advanced use of simple coordination involves the strategic combination of different conjunction types to create more complex logical and emotional textures. By layering `nela`, `thona`, and `sola` in thoughtful sequences, speakers can guide listeners through chains of reasoning while maintaining clarity.
 
 **Building to Contrast:**
 - `mia nolea toremoa nela wholesa kela, thona shai phithea ela` → "I read the story and understand the meaning, but it's quite complex"
@@ -92,4 +92,4 @@ Advanced use of simple coordination involves the strategic combination of differ
 **Choosing within Addition:**
 - `mia su nolea sola wholesa (wela toremoa nela lopia shale) nela shemui miona` → "I want to read or understand (good stories and beautiful nature) and speak with you"
 
-These layered constructions require careful attention to the logical flow and emotional progression of the ideas being connected. The goal is to create coordination patterns that feel natural and inevitable rather than forced or artificial, supporting the listener's journey through complex thoughts while maintaining the conversational grace that characterizes Phi at its best.
+These layered constructions require careful attention to the logical flow and emotional progression of the ideas being connected. The goal is to create coordination patterns that feel natural rather than forced, supporting the listener's journey through complex thoughts.

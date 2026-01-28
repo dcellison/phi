@@ -2,15 +2,15 @@
 
 ### 13.4.1 Beyond the Sentence: The Architecture of Extended Discourse
 
-While conjunctions connect elements within and between sentences, discourse adverbs operate at a higher level of linguistic architecture, creating bridges between complete thoughts and guiding listeners through extended chains of reasoning. These sophisticated tools allow speakers to signal relationships not just between grammatical elements but between entire ideas, perspectives, and lines of argument.
+While conjunctions connect elements within and between sentences, discourse adverbs operate at a higher level of linguistic architecture, creating bridges between complete thoughts and guiding listeners through extended chains of reasoning. These tools allow speakers to signal relationships not just between grammatical elements but between entire ideas, perspectives, and lines of argument.
 
-Discourse adverbs in Phi serve as conversational navigation aids, helping both speakers and listeners maintain orientation within complex discussions. They mark transitions, signal elaborations, indicate shifts in perspective, and create the kind of logical roadmap that supports genuine understanding rather than mere information transfer.
+Discourse adverbs in Phi serve as conversational navigation aids, helping both speakers and listeners maintain orientation within complex discussions. They mark transitions, signal elaborations, indicate shifts in perspective, and create the kind of logical roadmap that supports understanding rather than mere information transfer.
 
 What distinguishes Phi's approach to discourse connection is its emphasis on collaborative navigation. Rather than functioning as authoritative directives that tell listeners how to interpret information, these adverbs invite shared exploration of the logical and emotional landscape being traversed together.
 
 ### 13.4.2 Logical Consequence: `thelao` (therefore)
 
-The discourse adverb `thelao` signals that what follows represents a logical conclusion or natural consequence of what has been established. This particle helps speakers guide listeners through step-by-step reasoning while maintaining the natural flow that characterizes thoughtful conversation.
+The discourse adverb `thelao` signals that what follows represents a logical conclusion or natural consequence of what has been established. This particle helps speakers guide listeners through step-by-step reasoning while maintaining natural flow.
 
 The combination of the fricative `th` with flowing liquids creates a sound that suggests inevitable progression, like water finding its natural course. `Thelao` invites listeners to follow the logical path that has been laid out rather than demanding that they accept conclusions without understanding.
 
@@ -51,7 +51,7 @@ The sibilant beginning and open vowels of `sheno` create a sense of expansive de
 
 ### 13.4.5 Illustration and Example: `phisu` (for example)
 
-The discourse adverb `phisu` signals that the speaker is moving from general statements to specific illustrations or concrete examples. This particle helps speakers provide the kind of detailed elaboration that supports genuine understanding of abstract concepts.
+The discourse adverb `phisu` signals that the speaker is moving from general statements to specific illustrations or concrete examples. This particle helps speakers provide the kind of detailed elaboration that supports understanding of abstract concepts.
 
 The breathy fricative `ph` beginning creates a sense of gentle offering, suggesting that examples are being provided as gifts to understanding rather than as proof of superior knowledge.
 
@@ -65,7 +65,7 @@ The breathy fricative `ph` beginning creates a sense of gentle offering, suggest
 
 ### 13.4.6 The Flow of Extended Discourse
 
-Mastering discourse adverbs requires developing sensitivity to the larger rhythms and patterns of extended conversation. These four particles—`thelao`, `kewai`, `sheno`, and `phisu`—provide the essential tools for guiding listeners through complex chains of thought while maintaining the conversational grace that characterizes Phi.
+Mastering discourse adverbs requires developing sensitivity to the larger rhythms and patterns of extended conversation. These four particles—`thelao`, `kewai`, `sheno`, and `phisu`—provide the essential tools for guiding listeners through complex chains of thought.
 
 **Building Logical Sequences:**
 Effective use of discourse adverbs often involves creating sequences that guide listeners through multi-step reasoning:
@@ -83,8 +83,6 @@ Discourse adverbs also support the presentation of multiple viewpoints while mai
 
 ### 13.4.7 Integration with Coordination
 
-Advanced discourse management involves the skillful integration of discourse adverbs with the simple coordination tools and correlative constructions explored earlier in this chapter. This combination allows for the creation of sophisticated argumentative and narrative structures that maintain both logical clarity and conversational grace.
+Advanced discourse management involves the skillful integration of discourse adverbs with the simple coordination tools and correlative constructions explored earlier in this chapter. This combination allows for the creation of argumentative and narrative structures that maintain both logical clarity and natural flow.
 
-The key principle is that discourse adverbs handle the larger architecture of extended thought, while conjunctions manage the detailed connections within individual steps of reasoning. Together with correlative constructions, they provide a complete toolkit for weaving individual sentences into the kind of extended, nuanced discourse that supports genuine dialogue and collaborative thinking.
-
-This integration represents the culmination of Phi's approach to coordination: a systematic, philosophically grounded set of tools that serve not just grammatical correctness but the larger goals of mindful, effective, and beautiful communication.
+The key principle is that discourse adverbs handle the larger architecture of extended thought, while conjunctions manage the detailed connections within individual steps of reasoning. Together with correlative constructions, they provide a complete toolkit for weaving individual sentences into extended, nuanced discourse that supports dialogue and collaborative thinking.

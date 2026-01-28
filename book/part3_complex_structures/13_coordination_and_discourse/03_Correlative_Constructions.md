@@ -2,11 +2,11 @@
 
 ### 13.3.1 The Architecture of Parallel Emphasis
 
-Beyond simple coordination lies a more sophisticated realm of connection: correlative constructions that use parallel structure and strategic repetition to create especially strong emphasis on the relationships between ideas. These constructions move beyond basic "and," "but," and "or" to create patterns that highlight specific types of logical and emotional connections with particular intensity.
+Beyond simple coordination lies a more sophisticated realm of connection: correlative constructions that use parallel structure and strategic repetition to create strong emphasis on the relationships between ideas. These constructions move beyond basic "and," "but," and "or" to create patterns that highlight specific types of logical and emotional connections with particular intensity.
 
 Correlative constructions in Phi operate on the principle of balanced symmetry—creating linguistic patterns where the repetition of structure serves to amplify the meaning being expressed. Like architectural elements that gain strength and beauty through symmetrical design, these constructions derive their power from the interplay between parallel forms and contrasting content.
 
-The key to understanding correlatives is recognizing that they serve not just logical but aesthetic and emotional functions. They create a sense of completeness and balance that simple coordination cannot achieve, making them particularly valuable for expressing concepts that require special emphasis or elegant formulation.
+The key to understanding correlatives is recognizing that they serve not just logical but aesthetic and emotional functions. They create a sense of completeness and balance that simple coordination cannot achieve, making them useful for expressing concepts that require special emphasis or elegant formulation.
 
 ### 13.3.2 Both-And Constructions: `nela...nela`
 
@@ -58,11 +58,11 @@ One of the most sophisticated correlative patterns in Phi combines negation with
 **Layered Corrections:**
 - `ma (wela nela lopia) thona (kelu nela nosa)` → "not (good and beautiful) but (peaceful and mindful)"
 
-The `ma...thona` pattern serves crucial functions in thoughtful dialogue, allowing speakers to make precise distinctions while maintaining respect for alternative viewpoints. This construction acknowledges what is being rejected while clearly establishing what is being affirmed in its place.
+The `ma...thona` pattern serves important functions in thoughtful dialogue, allowing speakers to make precise distinctions while maintaining respect for alternative viewpoints. This construction acknowledges what is being rejected while clearly establishing what is being affirmed in its place.
 
 ### 13.3.5 Graduated Constructions: `shai...nela`
 
-A particularly elegant correlative pattern uses `shai` (somewhat/quite) in the first clause followed by `nela` in the second to create constructions that acknowledge degrees or layers of truth. This pattern allows for nuanced expression that recognizes complexity while building toward fuller understanding.
+An elegant correlative pattern uses `shai` (somewhat/quite) in the first clause followed by `nela` in the second to create constructions that acknowledge degrees or layers of truth. This pattern allows for nuanced expression that recognizes complexity while building toward fuller understanding.
 
 **Graduated Acknowledgment:**
 - `shai lopia nela wela theula` → "quite beautiful and completely good" (building emphasis)
@@ -78,7 +78,7 @@ These graduated constructions reflect Phi's commitment to expressing truth with 
 
 ### 13.3.6 Temporal Correlatives: `to...nela ki`
 
-Advanced correlative constructions can incorporate temporal particles to create sophisticated patterns that relate past, present, and ongoing actions. These constructions are particularly useful for expressing how actions and understanding develop over time.
+Advanced correlative constructions can incorporate temporal particles to create patterns that relate past, present, and ongoing actions. These constructions are useful for expressing how actions and understanding develop over time.
 
 **Past to Present Progression:**
 - `to mia ma wholesa, nela ki mia kela` → "I didn't understand (then), and now I'm learning"
@@ -90,10 +90,10 @@ Advanced correlative constructions can incorporate temporal particles to create 
 **Building Understanding:**
 - `to shai toremoa, nela ki ki wela` → "it was somewhat difficult (then), and now it's becoming good"
 
-These temporal correlatives demonstrate how Phi's systematic approach to grammar allows for the expression of sophisticated relationships between different temporal states while maintaining the clarity and flow that characterize the language's approach to complex expression.
+These temporal correlatives demonstrate how Phi's systematic approach to grammar allows for the expression of sophisticated relationships between different temporal states while maintaining clarity and flow.
 
 ### 13.3.7 The Art of Correlative Balance
 
 Mastering correlative constructions requires developing a sense for the balance and rhythm that make these patterns effective. The goal is not simply to create grammatically correct correlatives but to use them in ways that enhance both the logical clarity and the aesthetic satisfaction of connected discourse.
 
-Effective correlatives create a sense of completion and resolution that simple coordination cannot achieve. They provide speakers with tools for expressing relationships that require special emphasis, whether for logical precision, emotional impact, or aesthetic elegance. When used skillfully, they transform ordinary coordination into memorable and powerful expression that serves both communicative effectiveness and conversational beauty.
+Effective correlatives create a sense of completion and resolution that simple coordination cannot achieve. They provide speakers with tools for expressing relationships that require special emphasis, whether for logical precision, emotional impact, or elegant expression.
