@@ -1,9 +1,15 @@
 {
   "word": "repha",
   "gloss": "bridge",
-  "ipa": "/re.ɸa/",
-  "syllables": ["re", "ha"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈre̞.ɸä/",
+  "syllables": [
+    "re",
+    "ha"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Bridge / Spanning Structure / To Connect Across",
   "description": "A structure spanning and providing passage over gap, river, or road; to connect separated places. 'Repha' names what reaches across—the span that joins what was divided.",
   "sound_symbolism": "The word spans open. 'Re' reaches across the gap, connection extending. Then 'ha' /ɸa/ breathes with open span, bridge complete.",

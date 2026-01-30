@@ -1,9 +1,15 @@
 {
   "word": "kuma",
   "gloss": "drum",
-  "ipa": "/ku.ma/",
-  "syllables": ["ku", "ma"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈku.mä/",
+  "syllables": [
+    "ku",
+    "ma"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Drum / Percussion Instrument / To Beat Rhythm",
   "description": "A percussion instrument with membrane stretched over frame; to beat rhythmically. 'Kuma' names what speaks in rhythm—the hollow voice that calls community together.",
   "sound_symbolism": "The word strikes hollow. 'Ku' hits with resonant impact, membrane responding. Then 'ma' grounds in deep vibration, rhythm felt in body.",

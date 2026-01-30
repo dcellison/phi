@@ -1,9 +1,13 @@
 {
   "word": "te",
   "gloss": "CESS",
-  "ipa": "/te/",
-  "syllables": ["te"],
-  "pos": ["particle"],
+  "ipa": "/ˈt̪e̞/",
+  "syllables": [
+    "te"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Stopping / Ceasing / Ending",
   "description": "An aspect particle that marks the cessation of actions or states, capturing the moment when something comes to rest. More than indicating termination, 'te' acknowledges endings as natural completions—not failures but fulfillments, the exhalation that must follow every inhalation.",

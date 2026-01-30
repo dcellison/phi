@@ -1,9 +1,15 @@
 {
   "word": "nuora",
   "gloss": "food",
-  "ipa": "/nu.o.ra/",
-  "syllables": ["nu", "o", "ra"],
-  "pos": ["noun"],
+  "ipa": "/n̪u.ˈo̞.rä/",
+  "syllables": [
+    "nu",
+    "o",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Food / Nourishment / The Eaten Gift",
   "description": "The noun naming what we eat to sustain life, the nourishment that becomes our bodies. In Phi, food is understood as gift and transformation—what was living becomes our living, what grew from earth becomes our growth. This word names both the physical substance we consume and the quality of nourishment, of being fed, of receiving what sustains. Food is how the world enters us and keeps us alive.",
   "sound_symbolism": "The word opens with 'nu', where the nasal grounds us in the body that needs feeding—hunger is felt, eating is physical, nourishment is embodied. The deep 'u' holds the substantiality of food. The standalone 'o' opens into receiving, mouth open to be fed. The final 'ra' rolls with the continuous process of eating, digesting, being nourished—the ongoing transformation of food into self. The arc traces nourishment: bodily need, receiving mouth, continuous sustaining.",

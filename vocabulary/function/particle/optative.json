@@ -1,9 +1,13 @@
 {
   "word": "su",
   "gloss": "OPT",
-  "ipa": "/su/",
-  "syllables": ["su"],
-  "pos": ["particle"],
+  "ipa": "/ˈsu/",
+  "syllables": [
+    "su"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 0,
   "concept": "Wish / Hope / Prayer",
   "description": "A clause-initial particle that frames statements as hopes, wishes, or prayers. Unlike commands that impose will or questions that seek information, 'su' releases desires into the world with open hands, acknowledging that the deepest hopes require receptivity rather than force.",

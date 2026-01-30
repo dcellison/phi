@@ -1,9 +1,14 @@
 {
   "word": "keli",
   "gloss": "device",
-  "ipa": "/ke.li/",
-  "syllables": ["ke", "li"],
-  "pos": ["noun"],
+  "ipa": "/ˈke̞.li/",
+  "syllables": [
+    "ke",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Device / Mechanism / Apparatus",
   "description": "A thing made for a particular purpose; a mechanism or apparatus. 'Keli' names the crafted complexity—parts working together toward function.",
   "sound_symbolism": "The word clicks into place. 'Ke' marks with precision, mechanism defined. Then 'li' flows in function, parts moving smoothly.",

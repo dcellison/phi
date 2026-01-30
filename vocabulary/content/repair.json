@@ -1,9 +1,16 @@
 {
   "word": "shiroka",
   "gloss": "repair",
-  "ipa": "/ʃi.ro.ka/",
-  "syllables": ["shi", "ro", "ka"],
-  "pos": ["verb", "noun"],
+  "ipa": "/ʃi.ˈro̞.kä/",
+  "syllables": [
+    "shi",
+    "ro",
+    "ka"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Repair / Fix / Restore Function",
   "description": "To restore something to working condition by fixing what is broken or worn. 'Shiroka' emphasizes the technical work of identifying problems and implementing solutions—the diagnostic eye and skilled hand that return function to what had lost it.",
   "sound_symbolism": "The word begins with 'shi' /ʃi/, the focused attention of examination—what needs fixing? The high 'i' locates the problem precisely. Then 'ro' rolls into action, work underway. Finally 'ka' concludes with velar completion, the repair finished, function restored.",

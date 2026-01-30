@@ -1,9 +1,13 @@
 {
   "word": "wa",
   "gloss": "Q",
-  "ipa": "/wa/",
-  "syllables": ["wa"],
-  "pos": ["particle"],
+  "ipa": "/ˈwä/",
+  "syllables": [
+    "wa"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 0,
   "concept": "Question / Yes-No Interrogative",
   "description": "A clause-initial particle that transforms any statement into a yes/no question. More than mechanical conversion, 'wa' creates the space of inquiry, acknowledging that questions are invitations rather than demands, openings rather than closings.",

@@ -1,9 +1,13 @@
 {
   "word": "pi",
   "gloss": "POL",
-  "ipa": "/pi/",
-  "syllables": ["pi"],
-  "pos": ["particle"],
+  "ipa": "/ˈpi/",
+  "syllables": [
+    "pi"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 0,
   "concept": "Politeness / Respect / Mindful Care",
   "description": "A clause-initial particle that adds a layer of conscious care to any utterance. More than mere social lubricant, 'pi' acknowledges the sacred nature of communication between conscious beings, transforming routine exchanges into opportunities for mutual recognition and respect.",

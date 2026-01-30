@@ -1,9 +1,15 @@
 {
   "word": "luera",
   "gloss": "past",
-  "ipa": "/lu.e.ra/",
-  "syllables": ["lu", "e", "ra"],
-  "pos": ["noun"],
+  "ipa": "/lu.ˈe̞.rä/",
+  "syllables": [
+    "lu",
+    "e",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Past / Time Gone By / What Has Already Happened",
   "description": "The time before the present; events that have already occurred. 'Luera' names time that has flowed away—memory's domain, history's realm, what cannot be changed.",
   "sound_symbolism": "The word flows backward. 'Lu' begins with receding flow, time moving away. The vowel 'e' opens to memory. Then 'ra' reaches back, the past recalled.",

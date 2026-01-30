@@ -1,9 +1,14 @@
 {
   "word": "palu",
   "gloss": "plate",
-  "ipa": "/pa.lu/",
-  "syllables": ["pa", "lu"],
-  "pos": ["noun"],
+  "ipa": "/ˈpä.lu/",
+  "syllables": [
+    "pa",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Plate / Flat Dish / Serving Surface",
   "description": "A flat dish from which food is eaten or served; a surface for presenting nourishment. 'Palu' names what presents—the flat offering of prepared food.",
   "sound_symbolism": "The word presents flat. 'Pa' opens with gentle offering, surface ready. Then 'lu' flows outward, plate extending welcome.",

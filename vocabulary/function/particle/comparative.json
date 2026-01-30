@@ -1,9 +1,13 @@
 {
   "word": "mo",
   "gloss": "CMPR",
-  "ipa": "/mo/",
-  "syllables": ["mo"],
-  "pos": ["particle"],
+  "ipa": "/ˈmo̞/",
+  "syllables": [
+    "mo"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "More / Comparative Degree / -er",
   "description": "A word-level particle that creates comparative forms of adjectives, enabling gradable qualities to be measured against standards. More than ranking, 'mo' acknowledges the relational nature of qualities—that 'tall' or 'kind' only gain meaning through comparison, whether explicit or implied.",

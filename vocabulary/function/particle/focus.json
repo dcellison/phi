@@ -1,9 +1,13 @@
 {
   "word": "ko",
   "gloss": "FOC",
-  "ipa": "/ko/",
-  "syllables": ["ko"],
-  "pos": ["particle"],
+  "ipa": "/ˈko̞/",
+  "syllables": [
+    "ko"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Focus / Emphasis / Gentle Highlighting",
   "description": "A word-level particle that draws gentle attention to the element it precedes, creating linguistic spotlight without harshness. More than mechanical emphasis, 'ko' acknowledges the need to sometimes guide attention while respecting the listener's autonomy to receive or redirect focus as they choose.",

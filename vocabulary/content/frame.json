@@ -1,9 +1,15 @@
 {
   "word": "kelo",
   "gloss": "frame",
-  "ipa": "/ke.lo/",
-  "syllables": ["ke", "lo"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈke̞.lo̞/",
+  "syllables": [
+    "ke",
+    "lo"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Frame / Border Structure / To Enclose",
   "description": "A rigid structure surrounding something; to provide with a border. 'Kelo' names what defines boundary—the edge that honors what it contains.",
   "sound_symbolism": "The word defines edge. 'Ke' marks with clear boundary, frame established. Then 'lo' opens within, space defined for content.",

@@ -1,9 +1,14 @@
 {
   "word": "lina",
   "gloss": "string (instrument)",
-  "ipa": "/li.na/",
-  "syllables": ["li", "na"],
-  "pos": ["noun"],
+  "ipa": "/ˈli.n̪ä/",
+  "syllables": [
+    "li",
+    "na"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "String (Instrument) / Vibrating Cord / Musical Wire",
   "description": "A stretched cord that produces sound when plucked or bowed; the vibrating line of stringed instruments. 'Lina' names what sings when touched—tension becoming tone.",
   "sound_symbolism": "The word vibrates. 'Li' hums with vibrating line, string responding. Then 'na' resonates in sustained note, sound continuing.",

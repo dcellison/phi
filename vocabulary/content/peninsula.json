@@ -1,9 +1,15 @@
 {
   "word": "kerone",
   "gloss": "peninsula",
-  "ipa": "/ke.ro.ne/",
-  "syllables": ["ke", "ro", "ne"],
-  "pos": ["noun"],
+  "ipa": "/ke̞.ˈro̞.n̪e̞/",
+  "syllables": [
+    "ke",
+    "ro",
+    "ne"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Peninsula / Almost-Island / Reaching Land",
   "description": "A piece of land almost surrounded by water, connected to the mainland by a narrow strip. 'Kerone' names the reaching land—extending into water yet still connected, almost but not quite an island.",
   "sound_symbolism": "The word reaches while staying attached. 'Ke' begins connected, the land anchored. Then 'ro' reaches outward, extending into water. Finally 'ne' nearly surrounds, water on three sides.",

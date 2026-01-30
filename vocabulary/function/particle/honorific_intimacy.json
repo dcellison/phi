@@ -1,9 +1,13 @@
 {
   "word": "ni",
   "gloss": "HON.INTIM",
-  "ipa": "/ni/",
-  "syllables": ["ni"],
-  "pos": ["particle"],
+  "ipa": "/ˈn̪i/",
+  "syllables": [
+    "ni"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Beloved / Close Friend / Heart Connection",
   "description": "A word-level particle that precedes names to mark deep personal bonds of friendship, love, or family intimacy. More than casual familiarity, 'ni' acknowledges those rare connections where hearts recognize each other, where formal distance would be a kind of dishonesty.",

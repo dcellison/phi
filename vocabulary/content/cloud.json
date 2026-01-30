@@ -1,9 +1,16 @@
 {
   "word": "neparu",
   "gloss": "cloud",
-  "ipa": "/ne.pa.ru/",
-  "syllables": ["ne", "pa", "ru"],
-  "pos": ["noun", "verb"],
+  "ipa": "/n̪e̞.ˈpä.ru/",
+  "syllables": [
+    "ne",
+    "pa",
+    "ru"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Cloud / Floating Vapor / Sky's Gathering",
   "description": "A visible mass of water droplets or ice crystals suspended in atmosphere. 'Neparu' names the floating forms that drift across the sky—carriers of rain, shapers of light, ever-changing sculptures of water and air.",
   "sound_symbolism": "The word drifts like vapor. 'Ne' begins with soft nasal, gentle formation. Then 'pa' puffs outward, the cloud's billowing mass. Finally 'ru' moves onward, drifting across the sky.",

@@ -1,9 +1,14 @@
 {
   "word": "nepha",
   "gloss": "medicine",
-  "ipa": "/ne.ɸa/",
-  "syllables": ["ne", "ha"],
-  "pos": ["noun"],
+  "ipa": "/ˈn̪e̞.ɸä/",
+  "syllables": [
+    "ne",
+    "ha"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Medicine / Healing Substance / Curative Treatment",
   "description": "A substance used in treating disease or illness; what heals the body. 'Nepha' names what restores—the treatment that returns health.",
   "sound_symbolism": "The word nurtures healing. 'Ne' nestles with internal care, medicine entering. Then 'ha' /ɸa/ breathes with healing breath, restoration beginning.",

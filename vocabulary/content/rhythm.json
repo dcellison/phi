@@ -1,9 +1,15 @@
 {
   "word": "telui",
   "gloss": "rhythm",
-  "ipa": "/te.lu.i/",
-  "syllables": ["te", "lu", "i"],
-  "pos": ["noun"],
+  "ipa": "/t̪e̞.ˈlu.i/",
+  "syllables": [
+    "te",
+    "lu",
+    "i"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Rhythm / Regular Pattern / Recurring Beat",
   "description": "A strong, regular, repeated pattern of movement or sound. 'Telui' names the pulse beneath—the beat that structures time, the pattern that repeats and carries.",
   "sound_symbolism": "The word pulses steadily. 'Te' marks the beat, rhythm starting. 'Lu' flows to the next pulse. Finally 'i' rises to repeat, the pattern continuing.",

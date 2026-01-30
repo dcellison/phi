@@ -1,9 +1,15 @@
 {
   "word": "koema",
   "gloss": "enter",
-  "ipa": "/ko.e.ma/",
-  "syllables": ["ko", "e", "ma"],
-  "pos": ["verb"],
+  "ipa": "/ko̞.ˈe̞.mä/",
+  "syllables": [
+    "ko",
+    "e",
+    "ma"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Enter / Go Into / Cross Inward",
   "description": "To come or go into a place or space; to begin participation in. 'Koema' names the inward crossing—moving from outside to inside, from excluded to included.",
   "sound_symbolism": "The word crosses in. 'Ko' marks the threshold, entrance approached. The vowel 'e' opens to welcome. Then 'ma' grounds inside, entry complete.",

@@ -1,9 +1,13 @@
 {
   "word": "no",
   "gloss": "IMP",
-  "ipa": "/no/",
-  "syllables": ["no"],
-  "pos": ["particle"],
+  "ipa": "/ˈn̪o̞/",
+  "syllables": [
+    "no"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 0,
   "concept": "Request / Imperative / Gentle Command",
   "description": "A clause-initial particle that frames statements as requests or gentle directives. Rather than commanding through force, 'no' transforms potential demands into invitations for cooperative action, acknowledging the agency of the listener even while expressing need or desire.",

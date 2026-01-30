@@ -1,9 +1,15 @@
 {
   "word": "phelira",
   "gloss": "mistaken",
-  "ipa": "/ɸe.li.ra/",
-  "syllables": ["phe", "li", "ra"],
-  "pos": ["adjective"],
+  "ipa": "/ɸe̞.ˈli.rä/",
+  "syllables": [
+    "phe",
+    "li",
+    "ra"
+  ],
+  "pos": [
+    "adjective"
+  ],
   "concept": "Mistaken / In-Error / Off-Course",
   "description": "The adjective naming the quality of being in error, of having departed from accuracy or appropriate alignment. Unlike moral 'wrong,' this word describes a state that can be corrected rather than a fault to be punished. In Phi, being mistaken is understood as a natural part of learning and navigation—we correct course, we don't condemn the traveler. Something phelira invites adjustment, not judgment.",
   "sound_symbolism": "The word opens with 'phe', where the bilabial fricative breathes softly—errors are named gently in Phi. This flows through 'li', the liquid suggesting movement that has drifted. The final 'ra' rolls with the quality of being off-course, still in motion but needing redirection. The arc traces: gentle recognition, flowing state, rolling adjustment. The sound itself models how to acknowledge error: softly, without harshness.",

@@ -1,9 +1,15 @@
 {
   "word": "niro",
   "gloss": "web",
-  "ipa": "/ni.ro/",
-  "syllables": ["ni", "ro"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈn̪i.ro̞/",
+  "syllables": [
+    "ni",
+    "ro"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Web / Interconnected Network / Woven Connections",
   "description": "A network of interconnected strands; the pattern of relationships that link things together. 'Niro' names the mesh of connection—where pulling one strand moves all.",
   "sound_symbolism": "The word knits with structure. 'Ni' weaves with fine connection, threads crossing. 'Ro' grounds with networked stability, structure holding.",

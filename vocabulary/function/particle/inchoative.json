@@ -1,9 +1,13 @@
 {
   "word": "pa",
   "gloss": "INCH",
-  "ipa": "/pa/",
-  "syllables": ["pa"],
-  "pos": ["particle"],
+  "ipa": "/ˈpä/",
+  "syllables": [
+    "pa"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Beginning / Starting / Inception",
   "description": "An aspect particle that marks the beginning of actions or states, catching the precise moment when something emerges into being. More than marking temporal boundaries, 'pa' acknowledges the sacred nature of beginnings—those threshold moments when possibility becomes actuality.",

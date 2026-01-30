@@ -1,9 +1,13 @@
 {
   "word": "sa",
   "gloss": "HON.RESPECT",
-  "ipa": "/sa/",
-  "syllables": ["sa"],
-  "pos": ["particle"],
+  "ipa": "/ˈsä/",
+  "syllables": [
+    "sa"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Respected Elder/Mentor / Wisdom Holder",
   "description": "A word-level particle that precedes names or titles to mark respect for mentors, elders, and wisdom holders. More than formal courtesy, 'sa' acknowledges the gift of accumulated wisdom, the generosity of teaching, and the debt we owe those who light our paths.",

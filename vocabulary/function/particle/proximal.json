@@ -1,9 +1,13 @@
 {
   "word": "ha",
   "gloss": "PROX",
-  "ipa": "/ha/",
-  "syllables": ["ha"],
-  "pos": ["particle"],
+  "ipa": "/ˈhä/",
+  "syllables": [
+    "ha"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "This / Here / Near Speaker",
   "description": "A word-level particle that marks spatial or conceptual proximity to the speaker, creating the deictic space of 'here-ness'. More than indicating location, 'ha' acknowledges the intimate sphere where speaker and referent share space, where pointing becomes almost touching.",

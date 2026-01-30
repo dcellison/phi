@@ -1,9 +1,14 @@
 {
   "word": "wemo",
   "gloss": "plain",
-  "ipa": "/we.mo/",
-  "syllables": ["we", "mo"],
-  "pos": ["noun"],
+  "ipa": "/ˈwe̞.mo̞/",
+  "syllables": [
+    "we",
+    "mo"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Plain / Flat Land / Open Expanse",
   "description": "A large area of flat land with few trees. 'Wemo' names the wide open—grasslands and prairies where sky meets earth uninterrupted, where one can see to the horizon in all directions.",
   "sound_symbolism": "The word spreads wide and level. 'We' begins with open glide, the expanse unfolding. Then 'mo' grounds in level earth, the flat surface continuing.",

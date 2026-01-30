@@ -1,9 +1,15 @@
 {
   "word": "tolu",
   "gloss": "staff",
-  "ipa": "/to.lu/",
-  "syllables": ["to", "lu"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈt̪o̞.lu/",
+  "syllables": [
+    "to",
+    "lu"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Staff / Walking Stick / Support Rod",
   "description": "A long stick used as support for walking or as symbol of authority; to support or guide. 'Tolu' names what extends standing—the third leg that steadies journey.",
   "sound_symbolism": "The word stands tall. 'To' plants firm with grounded stability, staff touching earth. Then 'lu' flows upward in support, walker steadied.",

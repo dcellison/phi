@@ -1,9 +1,13 @@
 {
   "word": "si",
   "gloss": "IPFV",
-  "ipa": "/si/",
-  "syllables": ["si"],
-  "pos": ["particle"],
+  "ipa": "/ˈsi/",
+  "syllables": [
+    "si"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Imperfective / Ongoing / Continuous Process",
   "description": "An aspect particle that marks actions as ongoing processes, viewed from within their flow rather than as bounded events. More than indicating duration, 'si' acknowledges the river-nature of experience—that much of life consists not of discrete events but of continuous becomings.",

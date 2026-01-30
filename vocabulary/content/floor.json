@@ -1,9 +1,15 @@
 {
   "word": "tomae",
   "gloss": "floor",
-  "ipa": "/to.ma.e/",
-  "syllables": ["to", "ma", "e"],
-  "pos": ["noun"],
+  "ipa": "/t̪o̞.ˈmä.e̞/",
+  "syllables": [
+    "to",
+    "ma",
+    "e"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Floor / Ground Surface / Walking Level",
   "description": "The lower surface of a room on which one walks; the prepared ground inside. 'Tomae' names what supports standing—the level surface of habitation.",
   "sound_symbolism": "The word grounds with contact. 'To' touches with feet meeting surface. 'Ma' stabilizes with solid foundation. Then 'e' extends flat and level, floor spreading.",

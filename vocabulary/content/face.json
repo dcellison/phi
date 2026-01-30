@@ -1,9 +1,15 @@
 {
   "word": "menoa",
   "gloss": "face",
-  "ipa": "/me.no.a/",
-  "syllables": ["me", "no", "a"],
-  "pos": ["noun"],
+  "ipa": "/me̞.ˈn̪o̞.ä/",
+  "syllables": [
+    "me",
+    "no",
+    "a"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Face / Countenance / Visage",
   "description": "The front of the head where identity resides visibly—the landscape of expression where inner states surface. The face is the threshold between self and world, where we both present ourselves and perceive others. It holds the organs of sensing and speaking, making it the locus of communication and recognition.",
   "sound_symbolism": "The word begins with 'm', the grounding nasal that suggests self-containment and identity—the most personal sound, made with closed lips like a face at rest. The vowel 'e' opens slightly, then 'no' moves outward with the nasal continuing but the vowel rounding, as if turning to meet another. Finally 'a' opens fully, the face presented to the world in its most receptive state.",

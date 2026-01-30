@@ -1,9 +1,15 @@
 {
   "word": "laenu",
   "gloss": "commons",
-  "ipa": "/la.e.nu/",
-  "syllables": ["la", "e", "nu"],
-  "pos": ["noun"],
+  "ipa": "/lä.ˈe̞.n̪u/",
+  "syllables": [
+    "la",
+    "e",
+    "nu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Commons / Shared Space / Collective Resource",
   "description": "Land or resources belonging to or affecting the whole of a community; shared space. 'Laenu' names what belongs to all—the shared meadow, the community well, resources held in common.",
   "sound_symbolism": "The word shares openly. 'La' begins with open release, sharing initiated. The vowel 'e' opens to all. Then 'nu' grounds in collective holding, commons established.",

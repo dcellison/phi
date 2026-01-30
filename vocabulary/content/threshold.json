@@ -1,9 +1,15 @@
 {
   "word": "maewo",
   "gloss": "threshold",
-  "ipa": "/ma.e.wo/",
-  "syllables": ["ma", "e", "wo"],
-  "pos": ["noun"],
+  "ipa": "/mä.ˈe̞.wo̞/",
+  "syllables": [
+    "ma",
+    "e",
+    "wo"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Threshold / Doorway / Point of Transition",
   "description": "The point of entering or beginning; the place of crossing between spaces. 'Maewo' names the liminal—the doorway where one realm meets another, the moment of crossing.",
   "sound_symbolism": "The word crosses over. 'Ma' grounds at the entrance, position marked. The vowel 'e' opens to crossing. Then 'wo' rounds into the new space, threshold passed.",

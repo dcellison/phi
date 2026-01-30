@@ -1,9 +1,14 @@
 {
   "word": "noru",
   "gloss": "bowl",
-  "ipa": "/no.ru/",
-  "syllables": ["no", "ru"],
-  "pos": ["noun"],
+  "ipa": "/ˈn̪o̞.ru/",
+  "syllables": [
+    "no",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Bowl / Deep Dish / Receiving Vessel",
   "description": "A round, deep dish used for food or liquids; a vessel that curves to hold. 'Noru' names what receives—the cupped shape that holds nourishment.",
   "sound_symbolism": "The word nestles inward. 'No' curves in gentle enclosure, space forming. Then 'ru' rounds the shape, bowl ready to receive.",

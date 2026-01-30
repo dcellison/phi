@@ -1,9 +1,14 @@
 {
   "word": "kia",
   "gloss": "hello",
-  "ipa": "/ki.a/",
-  "syllables": ["ki", "a"],
-  "pos": ["interjection"],
+  "ipa": "/ˈki.ä/",
+  "syllables": [
+    "ki",
+    "a"
+  ],
+  "pos": [
+    "interjection"
+  ],
   "concept": "Hello / Greetings / Acknowledgment of Presence",
   "description": "An interjection used to acknowledge another's presence and initiate social connection. More than mechanical greeting, 'kia' recognizes the small miracle of paths crossing, of consciousness meeting consciousness, creating a moment of mutual recognition between beings who might otherwise pass unnoticed.",
   "sound_symbolism": "The interjection begins with 'k', a light velar stop that creates gentle contact—like a soft knock announcing presence without intrusion. This meets 'i', the brightest vowel, lifted and alert like eyes meeting. The hiatus opens into 'a', the vowel of openness and welcome. The progression from gentle contact ('ki') to open reception ('a') mirrors the movement from noticing to welcoming. The CVV structure gives the greeting both brightness and warmth.",

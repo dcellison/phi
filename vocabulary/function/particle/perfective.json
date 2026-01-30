@@ -1,9 +1,13 @@
 {
   "word": "ki",
   "gloss": "PFV",
-  "ipa": "/ki/",
-  "syllables": ["ki"],
-  "pos": ["particle"],
+  "ipa": "/ˈki/",
+  "syllables": [
+    "ki"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Perfective / Completed / Whole Action",
   "description": "An aspect particle that marks actions as complete wholes, viewed from outside as finished events. More than indicating completion, 'ki' acknowledges the satisfaction of boundaries—the way some experiences need to be understood as unified events rather than ongoing processes.",

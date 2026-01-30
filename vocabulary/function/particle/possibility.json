@@ -1,9 +1,13 @@
 {
   "word": "po",
   "gloss": "POSS",
-  "ipa": "/po/",
-  "syllables": ["po"],
-  "pos": ["particle"],
+  "ipa": "/ˈpo̞/",
+  "syllables": [
+    "po"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Can / May / Possibility",
   "description": "A modal particle that marks actions as possible rather than certain, creating linguistic space for capability, permission, and potential. More than expressing uncertainty, 'po' acknowledges the openness of reality—that between impossible and necessary lies the vast realm of what might be.",

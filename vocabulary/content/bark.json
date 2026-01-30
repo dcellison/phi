@@ -1,9 +1,15 @@
 {
   "word": "koremu",
   "gloss": "bark",
-  "ipa": "/ko.re.mu/",
-  "syllables": ["ko", "re", "mu"],
-  "pos": ["noun"],
+  "ipa": "/ko̞.ˈre̞.mu/",
+  "syllables": [
+    "ko",
+    "re",
+    "mu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Bark / Tree Skin / Protective Covering",
   "description": "The tough outer covering of a tree's trunk, branches, and roots. 'Koremu' names the tree's armor and skin—the textured surface that protects living wood, records years of growth, and provides habitat for countless small beings.",
   "sound_symbolism": "The word covers and protects. 'Ko' begins with firm velar closure, the solid covering. Then 're' roughens with texture, the bark's varied surface. Finally 'mu' embraces with nasal enclosure, the protective wrapping complete.",

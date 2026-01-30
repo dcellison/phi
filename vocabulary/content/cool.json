@@ -1,9 +1,14 @@
 {
   "word": "neri",
   "gloss": "cool",
-  "ipa": "/ne.ri/",
-  "syllables": ["ne", "ri"],
-  "pos": ["adjective"],
+  "ipa": "/ˈn̪e̞.ri/",
+  "syllables": [
+    "ne",
+    "ri"
+  ],
+  "pos": [
+    "adjective"
+  ],
   "concept": "Cool / Moderately Cold / Refreshingly Not Warm",
   "description": "Of a fairly low temperature; giving relief from heat. 'Neri' names the quality of coolness—temperature that refreshes, air that soothes.",
   "sound_symbolism": "The word refreshes. 'Ne' settles with calm presence, heat fading. Then 'ri' flows with crisp ease, coolness achieved.",

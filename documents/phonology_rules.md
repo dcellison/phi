@@ -88,13 +88,32 @@ A word cannot contain the same syllable twice.
 ## 5. IPA Notation Standards
 
 ### 5.1. Standard Correspondences
-- `h` = /h/, `k` = /k/, `l` = /l/, `m` = /m/, `n` = /n/
-- `p` = /p/, `r` = /r/, `s` = /s/, `t` = /t/, `w` = /w/
+
+**Consonants:**
+- `h` = /h/, `k` = /k/, `l` = /l/, `m` = /m/, `n` = /n̪/ (dental)
+- `p` = /p/, `r` = /r/, `s` = /s/, `t` = /t̪/ (dental), `w` = /w/
+
+**Fricative Digraphs:**
 - `ph` = /ɸ/, `th` = /θ/, `sh` = /ʃ/, `wh` = /ʍ/
-- `a` = /a/, `e` = /e/, `i` = /i/, `o` = /o/, `u` = /u/
+
+**Vowels:**
+- `a` = /ä/ (open central), `e` = /e̞/ (true-mid), `i` = /i/
+- `o` = /o̞/ (true-mid), `u` = /u/
 
 ### 5.2. Syllable Boundaries
-All vowel pairs show explicit syllable boundaries: `au` = /a.u/, `oi` = /o.i/
+All vowel pairs show explicit syllable boundaries: `au` = /ä.u/, `oi` = /o̞.i/
+
+### 5.3. Stress Rules
+Phi uses **penultimate stress**: primary stress falls on the second-to-last syllable.
+
+| Word | Syllables | Stress Position | IPA |
+|------|-----------|-----------------|-----|
+| `mia` | mi-a | first (penultimate) | /ˈmi.ä/ |
+| `haolu` | ha-o-lu | second (penultimate) | /hä.ˈo̞.lu/ |
+| `phelora` | phe-lo-ra | second (penultimate) | /ɸe̞.ˈlo̞.rä/ |
+| `mu` | mu | only syllable | /ˈmu/ |
+
+**Single-syllable words** receive stress on their only syllable.
 
 ---
 **Related Documentation:**

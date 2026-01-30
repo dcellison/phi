@@ -1,9 +1,14 @@
 {
   "word": "nuri",
   "gloss": "cycle",
-  "ipa": "/nu.ri/",
-  "syllables": ["nu", "ri"],
-  "pos": ["noun"],
+  "ipa": "/ˈn̪u.ri/",
+  "syllables": [
+    "nu",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Cycle / Recurring Pattern / Endless Return",
   "description": "A series of events that are regularly repeated in the same order. 'Nuri' names the great returns—the patterns that circle back, seasons and moons and generations, endings that become beginnings.",
   "sound_symbolism": "The word turns and returns. 'Nu' begins with grounded nasal, the starting point. Then 'ri' rolls back around, returning to begin again.",

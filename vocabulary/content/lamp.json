@@ -1,9 +1,14 @@
 {
   "word": "luma",
   "gloss": "lamp",
-  "ipa": "/lu.ma/",
-  "syllables": ["lu", "ma"],
-  "pos": ["noun"],
+  "ipa": "/ˈlu.mä/",
+  "syllables": [
+    "lu",
+    "ma"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Lamp / Light Source / Illuminating Device",
   "description": "A device for giving light; a source of illumination. 'Luma' names what brings light—the steady glow that extends day into darkness.",
   "sound_symbolism": "The word glows steady. 'Lu' shines with warm light, illumination spreading. Then 'ma' grounds with stable presence, lamp reliable.",

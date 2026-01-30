@@ -1,9 +1,15 @@
 {
   "word": "kima",
   "gloss": "scribe",
-  "ipa": "/ki.ma/",
-  "syllables": ["ki", "ma"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈki.mä/",
+  "syllables": [
+    "ki",
+    "ma"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Scribe / Writer / Recorder",
   "description": "One who writes or copies documents; a recorder of words. 'Kima' names who makes permanent—hand turning speech into lasting marks.",
   "sound_symbolism": "The word marks with precision. 'Ki' strikes with precise contact, mark made. 'Ma' grounds with permanent record, writing fixed.",

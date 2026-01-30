@@ -1,9 +1,15 @@
 {
   "word": "hieru",
   "gloss": "narrow",
-  "ipa": "/hi.e.ru/",
-  "syllables": ["hi", "e", "ru"],
-  "pos": ["adjective"],
+  "ipa": "/hi.ˈe̞.ru/",
+  "syllables": [
+    "hi",
+    "e",
+    "ru"
+  ],
+  "pos": [
+    "adjective"
+  ],
   "concept": "Narrow / Of Small Width / Limited in Breadth",
   "description": "Of small width in comparison to length; limited in extent from side to side. 'Hieru' names the quality of narrowness—constrained breadth, focused passage.",
   "sound_symbolism": "The word draws inward. 'Hi' begins with contained breath, width limiting. The vowel 'e' passes through carefully. Then 'ru' continues in constrained flow, narrowness held.",

@@ -1,9 +1,14 @@
 {
   "word": "molu",
   "gloss": "container",
-  "ipa": "/mo.lu/",
-  "syllables": ["mo", "lu"],
-  "pos": ["noun"],
+  "ipa": "/ˈmo̞.lu/",
+  "syllables": [
+    "mo",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Container / Receptacle / Holder",
   "description": "An object used for holding or transporting something; a receptacle. 'Molu' names what holds and protects—the space shaped to receive.",
   "sound_symbolism": "The word holds gently. 'Mo' grounds with stable presence, foundation set. Then 'lu' curves inward to receive, container ready.",

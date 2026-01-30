@@ -1,9 +1,13 @@
 {
   "word": "lu",
   "gloss": "COND",
-  "ipa": "/lu/",
-  "syllables": ["lu"],
-  "pos": ["particle"],
+  "ipa": "/ˈlu/",
+  "syllables": [
+    "lu"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 0,
   "concept": "If / Conditional / Possibility",
   "description": "A clause-initial particle that introduces conditional statements, marking the described situation as dependent on circumstances. More than logical operation, 'lu' acknowledges the branching nature of reality, the way possibilities unfold from conditions, creating space for hypothetical thinking without demanding certainty.",

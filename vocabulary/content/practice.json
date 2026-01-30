@@ -1,9 +1,15 @@
 {
   "word": "thole",
   "gloss": "practice",
-  "ipa": "/θo.le/",
-  "syllables": ["tho", "le"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈθo̞.le̞/",
+  "syllables": [
+    "tho",
+    "le"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Practice / Repeated Action / Intentional Doing",
   "description": "Repeated action done to develop skill or as part of routine; intentional doing. 'Thole' names the doing that shapes—action repeated until it becomes capacity.",
   "sound_symbolism": "The word breathes with repetition. 'Tho' opens with thoughtful beginning, practice starting. 'Le' lifts with ongoing effort, skill developing.",

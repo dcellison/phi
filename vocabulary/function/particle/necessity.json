@@ -1,9 +1,13 @@
 {
   "word": "na",
   "gloss": "NEC",
-  "ipa": "/na/",
-  "syllables": ["na"],
-  "pos": ["particle"],
+  "ipa": "/ˈn̪ä/",
+  "syllables": [
+    "na"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Must / Need / Necessity",
   "description": "A modal particle that marks actions as necessary, required, or needed. More than expressing obligation, 'na' acknowledges the deep currents of necessity that flow through existence—from physical needs to moral imperatives, from natural laws to chosen commitments.",

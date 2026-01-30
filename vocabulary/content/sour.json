@@ -1,9 +1,14 @@
 {
   "word": "tuko",
   "gloss": "sour",
-  "ipa": "/tu.ko/",
-  "syllables": ["tu", "ko"],
-  "pos": ["adjective"],
+  "ipa": "/ˈt̪u.ko̞/",
+  "syllables": [
+    "tu",
+    "ko"
+  ],
+  "pos": [
+    "adjective"
+  ],
   "concept": "Sour / Having Acidic Taste / Tart",
   "description": "Having an acidic taste like lemon or vinegar; tart and sharp. 'Tuko' names the quality of sourness—the taste that puckers, that signals fermentation or unripeness.",
   "sound_symbolism": "The word puckers. 'Tu' begins with tongue pressed forward, tartness forming. Then 'ko' catches with sharp clarity, sourness confirmed.",

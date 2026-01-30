@@ -1,9 +1,13 @@
 {
   "word": "so",
   "gloss": "FUT",
-  "ipa": "/so/",
-  "syllables": ["so"],
-  "pos": ["particle"],
+  "ipa": "/ˈso̞/",
+  "syllables": [
+    "so"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Future / After Now / Coming Time",
   "description": "A verb phrase particle that places actions and states in the future, marking them as yet to occur. More than predicting events, 'so' creates linguistic space for intention, planning, and hope—acknowledging that the future exists first in language before manifesting in reality.",

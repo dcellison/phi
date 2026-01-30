@@ -1,9 +1,15 @@
 {
   "word": "soeli",
   "gloss": "cup",
-  "ipa": "/so.e.li/",
-  "syllables": ["so", "e", "li"],
-  "pos": ["noun"],
+  "ipa": "/so̞.ˈe̞.li/",
+  "syllables": [
+    "so",
+    "e",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Cup / Drinking Vessel / Shared Container",
   "description": "A small bowl-shaped container for drinking; a vessel lifted to lips. 'Soeli' names what brings drink to mouth—the intimate vessel of refreshment.",
   "sound_symbolism": "The word sips gently. 'So' begins with soft approach, vessel lifted. The vowel 'e' opens to receive. Then 'li' flows smoothly, drink entering.",

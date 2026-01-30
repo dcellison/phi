@@ -1,9 +1,13 @@
 {
   "word": "se",
   "gloss": "PASS",
-  "ipa": "/se/",
-  "syllables": ["se"],
-  "pos": ["particle"],
+  "ipa": "/ˈse̞/",
+  "syllables": [
+    "se"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Passive Voice / Receiving Action / Patient Focus",
   "description": "A voice particle that shifts focus from the doer to the receiver of action, allowing events to be described from the perspective of what undergoes rather than what causes. More than hiding agency, 'se' acknowledges that sometimes the experience of receiving matters more than the act of doing.",

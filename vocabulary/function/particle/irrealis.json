@@ -1,9 +1,13 @@
 {
   "word": "he",
   "gloss": "IRR",
-  "ipa": "/he/",
-  "syllables": ["he"],
-  "pos": ["particle"],
+  "ipa": "/ˈhe̞/",
+  "syllables": [
+    "he"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 0,
   "concept": "Irrealis / Unreal / Counterfactual",
   "description": "A clause-initial particle that marks statements as unreal, hypothetical, or counterfactual. More than negating reality, 'he' creates a parallel space where imagination can explore what isn't, what might have been, or what could never be—acknowledging that understanding reality sometimes requires departing from it.",

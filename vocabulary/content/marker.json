@@ -1,9 +1,14 @@
 {
   "word": "siru",
   "gloss": "marker",
-  "ipa": "/si.ru/",
-  "syllables": ["si", "ru"],
-  "pos": ["noun"],
+  "ipa": "/ˈsi.ru/",
+  "syllables": [
+    "si",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Marker / Indicator / Guiding Sign",
   "description": "An object that indicates position or direction; something that shows the way. 'Siru' names what points forward—the placed indicator that guides journey.",
   "sound_symbolism": "The word signals clear. 'Si' points with precise indication, direction shown. Then 'ru' runs along the route, path marked.",

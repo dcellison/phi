@@ -1,9 +1,14 @@
 {
   "word": "sima",
   "gloss": "thread",
-  "ipa": "/si.ma/",
-  "syllables": ["si", "ma"],
-  "pos": ["noun"],
+  "ipa": "/ˈsi.mä/",
+  "syllables": [
+    "si",
+    "ma"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Thread / Yarn / Spun Fiber",
   "description": "A long thin strand of cotton, silk, or other fibers used in sewing or weaving. 'Sima' names the single strand—fiber spun into continuous line.",
   "sound_symbolism": "The word spins fine. 'Si' draws out thin and precise, fiber extending. Then 'ma' grounds in material substance, thread ready for use.",

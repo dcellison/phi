@@ -1,9 +1,13 @@
 {
   "word": "ke",
   "gloss": "INFER",
-  "ipa": "/ke/",
-  "syllables": ["ke"],
-  "pos": ["particle"],
+  "ipa": "/ˈke̞/",
+  "syllables": [
+    "ke"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Inferential Evidence / Deduced / Reasoned",
   "description": "An evidential particle that marks information as inferred from evidence rather than directly witnessed. 'Ke' signals that the speaker has reasoned toward a conclusion based on observable signs, patterns, or logical deduction. It embodies epistemic honesty—acknowledging that even well-founded conclusions involve interpretive leaps beyond raw perception.",

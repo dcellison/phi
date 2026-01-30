@@ -1,9 +1,15 @@
 {
   "word": "hiso",
   "gloss": "clean",
-  "ipa": "/hi.so/",
-  "syllables": ["hi", "so"],
-  "pos": ["adjective", "verb"],
+  "ipa": "/ˈhi.so̞/",
+  "syllables": [
+    "hi",
+    "so"
+  ],
+  "pos": [
+    "adjective",
+    "verb"
+  ],
   "concept": "Clean / Free from Dirt / Purified",
   "description": "Free from dirt, marks, or unwanted matter; having been washed or purified. 'Hiso' names the quality of cleanliness—surfaces without soil, water without pollution, states of being without contamination.",
   "sound_symbolism": "The word clears and refreshes. 'Hi' begins with open breath, air clean. Then 'so' sweeps smoothly, dirt removed.",

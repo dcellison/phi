@@ -1,9 +1,16 @@
 {
   "word": "relua",
   "gloss": "mirror",
-  "ipa": "/re.lu.a/",
-  "syllables": ["re", "lu", "a"],
-  "pos": ["noun", "verb"],
+  "ipa": "/re̞.ˈlu.ä/",
+  "syllables": [
+    "re",
+    "lu",
+    "a"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Mirror / Reflecting Surface / To Reflect",
   "description": "A surface that reflects light to show images; to reflect or show back. 'Relua' names what shows truth—the surface that returns your gaze.",
   "sound_symbolism": "The word reflects back. 'Re' returns in reflection, image appearing. 'Lu' glows with light, surface bright. Then 'a' opens to truth revealed.",

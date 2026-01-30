@@ -1,9 +1,15 @@
 {
   "word": "lonai",
   "gloss": "width",
-  "ipa": "/lo.na.i/",
-  "syllables": ["lo", "na", "i"],
-  "pos": ["noun"],
+  "ipa": "/lo̞.ˈn̪ä.i/",
+  "syllables": [
+    "lo",
+    "na",
+    "i"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Width / Distance Across / Horizontal Extent",
   "description": "The measurement from side to side; the quality of being wide. 'Lonai' names horizontal extent—how far something spans, how broad something stretches.",
   "sound_symbolism": "The word spans level. 'Lo' opens with horizontal extent, span beginning. 'Na' extends across with stable reach. Then 'i' completes the measurement, width known.",

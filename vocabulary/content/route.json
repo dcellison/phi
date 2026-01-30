@@ -1,9 +1,15 @@
 {
   "word": "shoeka",
   "gloss": "route",
-  "ipa": "/ʃo.e.ka/",
-  "syllables": ["sho", "e", "ka"],
-  "pos": ["noun"],
+  "ipa": "/ʃo̞.ˈe̞.kä/",
+  "syllables": [
+    "sho",
+    "e",
+    "ka"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Route / Course of Travel / Way Taken",
   "description": "A way or course taken in getting from a starting point to a destination. 'Shoeka' names the specific path chosen—the actual course traveled, the way selected among options.",
   "sound_symbolism": "The word traces a course. 'Sho' /ʃo/ begins with purposeful movement, journey starting. The vowel 'e' opens to the way. Then 'ka' marks points along, route defined.",

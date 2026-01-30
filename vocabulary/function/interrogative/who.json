@@ -1,9 +1,14 @@
 {
   "word": "sua",
   "gloss": "INT.P",
-  "ipa": "/ˈsu.a/",
-  "syllables": ["su", "a"],
-  "pos": ["interrogative"],
+  "ipa": "/ˈsu.ä/",
+  "syllables": [
+    "su",
+    "a"
+  ],
+  "pos": [
+    "interrogative"
+  ],
   "concept": "Who / Which Person",
   "description": "The interrogative for inquiring about personal identity, seeking to know which individual or individuals are involved. Unlike demanding identification, 'sua' opens a space for self-revelation, transforming the potential violence of 'who goes there?' into the gentleness of 'who are you?'",
   "sound_symbolism": "The word begins with 'su', where the soft sibilant 's' creates a searching sound, like awareness reaching out into social space. The vowel 'u' forms in the back of the mouth, deep and mysterious, acknowledging the profound unknowability of another being. This opens into 'a', the most open vowel, creating acoustic space for the other to fill with their identity. The sound journey from mysterious depth to open receptivity mirrors the ethical movement from encountering an unknown other to welcoming their self-disclosure.",

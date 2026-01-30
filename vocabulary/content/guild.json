@@ -1,9 +1,14 @@
 {
   "word": "temu",
   "gloss": "guild",
-  "ipa": "/te.mu/",
-  "syllables": ["te", "mu"],
-  "pos": ["noun"],
+  "ipa": "/ˈt̪e̞.mu/",
+  "syllables": [
+    "te",
+    "mu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Guild / Craft Association / Skill Community",
   "description": "An association of craftspeople or professionals; community organized around shared skill. 'Temu' names those bound by craft—learning and practicing together.",
   "sound_symbolism": "The word touches with craft. 'Te' connects with skilled contact, craft joining. 'Mu' grounds with deep mastery, knowledge rooted.",

@@ -1,9 +1,14 @@
 {
   "word": "pao",
   "gloss": "goodbye",
-  "ipa": "/pa.o/",
-  "syllables": ["pa", "o"],
-  "pos": ["interjection"],
+  "ipa": "/ˈpä.o̞/",
+  "syllables": [
+    "pa",
+    "o"
+  ],
+  "pos": [
+    "interjection"
+  ],
   "concept": "Goodbye / Farewell / Until We Meet Again",
   "description": "An interjection used when parting, acknowledging separation while maintaining connection. More than marking departure, 'pao' recognizes that every farewell carries both an ending and the possibility of reunion, that separation is temporary in the grand web of relationships.",
   "sound_symbolism": "The interjection begins with 'p', a gentle plosive that releases softly—like the letting go required in parting. This meets 'a', the open vowel that maintains spaciousness. The hiatus creates a natural pause before closing into 'o', the round vowel that suggests completion and wholeness. The progression from gentle release ('pa') to rounded completion ('o') mirrors the movement from active parting to peaceful acceptance. The CVV structure allows the farewell to feel complete without being abrupt.",

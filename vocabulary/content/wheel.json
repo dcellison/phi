@@ -1,9 +1,14 @@
 {
   "word": "rolu",
   "gloss": "wheel",
-  "ipa": "/ro.lu/",
-  "syllables": ["ro", "lu"],
-  "pos": ["noun"],
+  "ipa": "/ˈro̞.lu/",
+  "syllables": [
+    "ro",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Wheel / Spinning Wheel / Potter's Wheel",
   "description": "A circular object that revolves on an axis; specifically the spinning wheel or potter's wheel. 'Rolu' names what turns in cycles—rotation enabling transformation.",
   "sound_symbolism": "The word rotates round. 'Ro' rolls in continuous motion, wheel turning. Then 'lu' flows onward, cycle unending.",

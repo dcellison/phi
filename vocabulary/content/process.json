@@ -1,9 +1,15 @@
 {
   "word": "teru",
   "gloss": "process",
-  "ipa": "/te.ru/",
-  "syllables": ["te", "ru"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈt̪e̞.ru/",
+  "syllables": [
+    "te",
+    "ru"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Process / Unfolding Sequence / Method in Action",
   "description": "A series of actions or steps toward an end; the unfolding of method through time. 'Teru' names what happens between beginning and completion—the journey of transformation.",
   "sound_symbolism": "The word moves through stages. 'Te' touches with each step taken, stages progressing. 'Ru' runs with continuous flow, process unfolding.",

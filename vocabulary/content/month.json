@@ -1,9 +1,15 @@
 {
   "word": "lunoa",
   "gloss": "month",
-  "ipa": "/lu.no.a/",
-  "syllables": ["lu", "no", "a"],
-  "pos": ["noun"],
+  "ipa": "/lu.ˈn̪o̞.ä/",
+  "syllables": [
+    "lu",
+    "no",
+    "a"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Month / Lunar Cycle / Moon's Journey",
   "description": "A period of approximately four weeks; originally based on the moon's cycle. 'Lunoa' names the monthly rhythm—the moon's complete journey from new to full to new again.",
   "sound_symbolism": "The word follows the moon. 'Lu' begins with flowing change, cycle starting. 'No' grounds at each phase. Finally 'a' opens to completion, month fulfilled.",

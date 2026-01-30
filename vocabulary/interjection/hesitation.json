@@ -1,9 +1,14 @@
 {
   "word": "nuo",
   "gloss": "um",
-  "ipa": "/nu.o/",
-  "syllables": ["nu", "o"],
-  "pos": ["interjection"],
+  "ipa": "/ˈn̪u.o̞/",
+  "syllables": [
+    "nu",
+    "o"
+  ],
+  "pos": [
+    "interjection"
+  ],
   "concept": "Um / Uh / Thinking Pause",
   "description": "An interjection used to hold conversational space while formulating thoughts, searching for words, or processing information. More than mere filler, 'nuo' acknowledges that thought takes time, that careful speech requires moments of internal consultation, creating patience for the natural rhythms of considered communication.",
   "sound_symbolism": "The interjection begins with 'n', the nasal consonant that resonates internally—appropriate for marking internal processing. This meets 'u', the deep back vowel that suggests depth and contemplation. The hiatus creates natural suspension before rounding into 'o', suggesting ongoing process. The progression from internal resonance ('nu') to open continuation ('o') mirrors the state of active thinking that hasn't yet crystallized into words. The CVV structure provides duration for the thinking process.",

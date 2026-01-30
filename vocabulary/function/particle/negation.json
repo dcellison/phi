@@ -1,9 +1,13 @@
 {
   "word": "ma",
   "gloss": "NEG",
-  "ipa": "/ma/",
-  "syllables": ["ma"],
-  "pos": ["particle"],
+  "ipa": "/ˈmä/",
+  "syllables": [
+    "ma"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Not / Negation / Absence of Action",
   "description": "A particle that negates verbs and verb phrases, transforming affirmation into denial. More than simple opposition, 'ma' acknowledges the profound reality of what doesn't happen—the paths not taken, the words not spoken, the harm not done.",

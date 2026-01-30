@@ -1,9 +1,15 @@
 {
   "word": "hireku",
   "gloss": "insect",
-  "ipa": "/hi.re.ku/",
-  "syllables": ["hi", "re", "ku"],
-  "pos": ["noun"],
+  "ipa": "/hi.ˈre̞.ku/",
+  "syllables": [
+    "hi",
+    "re",
+    "ku"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Insect / Small Creature / Six-Legged Being",
   "description": "A small invertebrate animal typically having six legs and often wings. 'Hireku' names the countless small beings that form the foundation of terrestrial ecosystems—pollinators, decomposers, and food for larger creatures, essential yet often overlooked.",
   "sound_symbolism": "The word buzzes with small life. 'Hi' begins with breathy lightness, tiny presence. Then 're' rolls with quick movement, the insect's busy motion. Finally 'ku' clicks with velar precision, small but defined.",

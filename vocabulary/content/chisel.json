@@ -1,9 +1,15 @@
 {
   "word": "kiru",
   "gloss": "chisel",
-  "ipa": "/ki.ru/",
-  "syllables": ["ki", "ru"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈki.ru/",
+  "syllables": [
+    "ki",
+    "ru"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Chisel / Carving Tool / To Carve with Precision",
   "description": "A tool with a cutting edge for shaping wood, stone, or metal; to carve with precision. 'Kiru' names what reveals form—removing material to find shape within.",
   "sound_symbolism": "The word cuts clear. 'Ki' bites with sharp precision, edge entering. Then 'ru' carves the channel, form emerging from material.",

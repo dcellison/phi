@@ -1,9 +1,15 @@
 {
   "word": "helu",
   "gloss": "smooth",
-  "ipa": "/he.lu/",
-  "syllables": ["he", "lu"],
-  "pos": ["adjective", "verb"],
+  "ipa": "/ˈhe̞.lu/",
+  "syllables": [
+    "he",
+    "lu"
+  ],
+  "pos": [
+    "adjective",
+    "verb"
+  ],
   "concept": "Smooth / Without Roughness / Flowing Evenly",
   "description": "Having an even surface without bumps or ridges; flowing without interruption. 'Helu' names the quality of frictionless passage—surfaces that glide, transitions that flow, movement without obstacle.",
   "sound_symbolism": "The word glides without friction. 'He' begins with open breath, air passing freely. Then 'lu' flows liquid and easy, the smooth continuation.",

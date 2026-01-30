@@ -1,9 +1,13 @@
 {
   "word": "le",
   "gloss": "HON.ROLE",
-  "ipa": "/le/",
-  "syllables": ["le"],
-  "pos": ["particle"],
+  "ipa": "/ˈle̞/",
+  "syllables": [
+    "le"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Role Holder / Community Function / Service Recognition",
   "description": "A word-level particle that precedes names or titles to acknowledge someone's current service role within the community. More than job titles, 'le' recognizes those who take on responsibilities for collective wellbeing, honoring function without creating permanent hierarchy.",

@@ -1,9 +1,14 @@
 {
   "word": "relo",
   "gloss": "symbol",
-  "ipa": "/re.lo/",
-  "syllables": ["re", "lo"],
-  "pos": ["noun"],
+  "ipa": "/ˈre̞.lo̞/",
+  "syllables": [
+    "re",
+    "lo"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Symbol / Meaningful Mark / Representative Sign",
   "description": "A mark or character representing something else; a thing that stands for deeper meaning. 'Relo' names what represents—the visible that points to invisible.",
   "sound_symbolism": "The word represents meaning. 'Re' recalls and references, connection to what it represents. Then 'lo' opens to the deeper sense, meaning revealed.",

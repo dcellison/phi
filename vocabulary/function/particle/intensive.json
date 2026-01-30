@@ -1,9 +1,13 @@
 {
   "word": "ru",
   "gloss": "INTNS",
-  "ipa": "/ru/",
-  "syllables": ["ru"],
-  "pos": ["particle"],
+  "ipa": "/ˈru/",
+  "syllables": [
+    "ru"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Very / Really / Intensely / Truly",
   "description": "A word-level particle that intensifies the degree of the quality or state it precedes. Where 'mo' compares and 'mi' marks superlatives, 'ru' amplifies without comparison—not 'more beautiful than' or 'most beautiful of' but simply 'very beautiful.' It is the grammar of sincere emphasis, of saying 'I mean this strongly.'",

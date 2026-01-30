@@ -1,9 +1,14 @@
 {
   "word": "puro",
   "gloss": "strength",
-  "ipa": "/pu.ro/",
-  "syllables": ["pu", "ro"],
-  "pos": ["noun"],
+  "ipa": "/ˈpu.ro̞/",
+  "syllables": [
+    "pu",
+    "ro"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Strength / Power / Capacity for Force",
   "description": "The capacity to exert force or withstand pressure; power available for action. 'Puro' names what enables—the resource that makes difficult things possible.",
   "sound_symbolism": "The word gathers with power. 'Pu' pushes with concentrated force, strength gathering. 'Ro' grounds with solid stability, power rooted.",

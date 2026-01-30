@@ -1,9 +1,13 @@
 {
   "word": "ka",
   "gloss": "CAUS",
-  "ipa": "/ka/",
-  "syllables": ["ka"],
-  "pos": ["particle"],
+  "ipa": "/ˈkä/",
+  "syllables": [
+    "ka"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Cause to / Make / Enable Action",
   "description": "A modal particle that indicates the subject causes someone or something else to perform the verb's action. More than simple coercion, 'ka' acknowledges the complex web of causation—from gentle enabling to direct instruction, from creating conditions to removing obstacles.",

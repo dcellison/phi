@@ -1,9 +1,14 @@
 {
   "word": "rewa",
   "gloss": "oar",
-  "ipa": "/re.wa/",
-  "syllables": ["re", "wa"],
-  "pos": ["noun"],
+  "ipa": "/ˈre̞.wä/",
+  "syllables": [
+    "re",
+    "wa"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Oar / Rowing Implement / Paddle",
   "description": "A pole with a flat blade for rowing a boat; the tool that moves water to move vessel. 'Rewa' names what reaches through water—effort becoming motion.",
   "sound_symbolism": "The word reaches through. 'Re' extends outward, oar entering water. Then 'wa' moves water, vessel gliding forward.",

@@ -1,9 +1,14 @@
 {
   "word": "nosa",
   "gloss": "now",
-  "ipa": "/no.sa/",
-  "syllables": ["no", "sa"],
-  "pos": ["noun"],
+  "ipa": "/ˈn̪o̞.sä/",
+  "syllables": [
+    "no",
+    "sa"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Now / The Present Time / This Current Moment",
   "description": "At the present time; the current moment as opposed to past or future. 'Nosa' names the temporal location of presence—the time that is happening, the only time we can act.",
   "sound_symbolism": "The word grounds in presence. 'No' settles with immediate presence, here established. Then 'sa' sustains with steady awareness, now continuing.",

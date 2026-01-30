@@ -1,9 +1,15 @@
 {
   "word": "kira",
   "gloss": "key",
-  "ipa": "/ki.ra/",
-  "syllables": ["ki", "ra"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈki.rä/",
+  "syllables": [
+    "ki",
+    "ra"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Key / Opening Tool / To Unlock",
   "description": "A shaped metal instrument for opening locks; to unlock or provide access. 'Kira' names what opens—the specific shape that grants passage.",
   "sound_symbolism": "The word clicks open. 'Ki' turns with precise mechanism, lock engaging. Then 'ra' reaches through to access, door yielding.",

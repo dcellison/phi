@@ -1,9 +1,13 @@
 {
   "word": "ti",
   "gloss": "REP",
-  "ipa": "/ti/",
-  "syllables": ["ti"],
-  "pos": ["particle"],
+  "ipa": "/ˈt̪i/",
+  "syllables": [
+    "ti"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Reportative Evidence / Hearsay / Told",
   "description": "An evidential particle that marks information as received from another source rather than directly witnessed or personally inferred. 'Ti' signals that the speaker is passing along what they have heard, read, or been told—carrying another's knowledge while honestly acknowledging its secondhand nature. It embodies the responsibility of transmission: we receive information from others and must mark it as such.",

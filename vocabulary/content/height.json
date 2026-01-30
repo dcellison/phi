@@ -1,9 +1,15 @@
 {
   "word": "raeli",
   "gloss": "height",
-  "ipa": "/ra.e.li/",
-  "syllables": ["ra", "e", "li"],
-  "pos": ["noun"],
+  "ipa": "/rä.ˈe̞.li/",
+  "syllables": [
+    "ra",
+    "e",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Height / Distance Upward / Vertical Extent",
   "description": "The measurement from base to top; the quality of being tall. 'Raeli' names vertical extent upward—how far something rises, how elevated something stands.",
   "sound_symbolism": "The word rises. 'Ra' reaches upward, ascent beginning. The vowel 'e' opens to elevation. Then 'li' lifts to completion, height achieved.",

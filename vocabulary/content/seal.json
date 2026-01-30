@@ -1,9 +1,15 @@
 {
   "word": "paku",
   "gloss": "seal",
-  "ipa": "/pa.ku/",
-  "syllables": ["pa", "ku"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈpä.ku/",
+  "syllables": [
+    "pa",
+    "ku"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Seal / Authentication Mark / To Stamp Official",
   "description": "A device for stamping an authenticating mark; to close or authenticate. 'Paku' names what confirms—the mark that proves authenticity or closure.",
   "sound_symbolism": "The word stamps firm. 'Pa' presses with decisive action, seal applied. Then 'ku' strikes the mark, impression made.",

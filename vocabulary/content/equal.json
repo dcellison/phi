@@ -1,9 +1,15 @@
 {
   "word": "kolo",
   "gloss": "equal",
-  "ipa": "/ko.lo/",
-  "syllables": ["ko", "lo"],
-  "pos": ["adjective", "verb"],
+  "ipa": "/ˈko̞.lo̞/",
+  "syllables": [
+    "ko",
+    "lo"
+  ],
+  "pos": [
+    "adjective",
+    "verb"
+  ],
   "concept": "Equal / Same Standing / Balanced Measure",
   "description": "Having the same value, measure, or status; balanced in worth. 'Kolo' names the recognition of same standing—not identical but equivalent in dignity.",
   "sound_symbolism": "The word balances evenly. 'Ko' completes with measured wholeness, equality recognized. 'Lo' opens with same standing, balance held.",

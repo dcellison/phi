@@ -1,9 +1,16 @@
 {
   "word": "tenoa",
   "gloss": "tool",
-  "ipa": "/te.no.a/",
-  "syllables": ["te", "no", "a"],
-  "pos": ["noun", "verb"],
+  "ipa": "/t̪e̞.ˈn̪o̞.ä/",
+  "syllables": [
+    "te",
+    "no",
+    "a"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Tool / Implement / To Use as Instrument",
   "description": "An implement used to carry out a particular function; to use something as an instrument. 'Tenoa' names what extends human capability—the shaped object that amplifies intention into action.",
   "sound_symbolism": "The word touches purpose. 'Te' touches with contact, hand meeting implement. 'No' extends with capability reaching. Then 'a' opens to action, tool completing work.",

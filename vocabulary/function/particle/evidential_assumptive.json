@@ -1,9 +1,13 @@
 {
   "word": "ho",
   "gloss": "ASM",
-  "ipa": "/ho/",
-  "syllables": ["ho"],
-  "pos": ["particle"],
+  "ipa": "/ˈho̞/",
+  "syllables": [
+    "ho"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Assumptive Evidence / Supposed / Presumed",
   "description": "An evidential particle that marks information as assumed or supposed rather than known through direct evidence or report. 'Ho' signals epistemic humility—the speaker is working from general expectations, background knowledge, or reasonable presumption rather than specific evidence. It creates space for uncertainty while still allowing meaningful communication about what is likely or expected.",

@@ -1,9 +1,13 @@
 {
   "word": "we",
   "gloss": "ALSO",
-  "ipa": "/we/",
-  "syllables": ["we"],
-  "pos": ["particle"],
+  "ipa": "/ˈwe̞/",
+  "syllables": [
+    "we"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Also / Too / As Well / Additionally",
   "description": "A word-level particle that marks additive focus, indicating that the element it precedes joins or is included alongside others already mentioned or implied. 'We' expands the circle of relevance, saying 'this one too belongs here.' It is the grammar of inclusion, of welcoming additional participants into whatever is being discussed.",

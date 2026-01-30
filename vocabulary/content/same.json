@@ -1,9 +1,15 @@
 {
   "word": "senao",
   "gloss": "same",
-  "ipa": "/se.na.o/",
-  "syllables": ["se", "na", "o"],
-  "pos": ["adjective"],
+  "ipa": "/se̞.ˈn̪ä.o̞/",
+  "syllables": [
+    "se",
+    "na",
+    "o"
+  ],
+  "pos": [
+    "adjective"
+  ],
   "concept": "Same / Identity-Shared / This-As-That",
   "description": "The adjective naming the quality of being identical or equivalent, the relationship of matching or unity. In Phi, sameness is understood not as mere duplication but as recognition of shared essence—the way two things reveal themselves as one in some meaningful dimension. This word names the bridge of identity that connects apparently separate things.",
   "sound_symbolism": "The word opens with 'se', where the sibilant flows smoothly—sameness as continuity, unbroken identity. This grounds through 'na', where the nasal anchors in stable presence—the reliability of sameness. The final 'o' rounds into completeness, the unity of same things. The arc traces sameness: smooth continuity, stable presence, rounded unity.",

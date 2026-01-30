@@ -1,9 +1,14 @@
 {
   "word": "moru",
   "gloss": "wall",
-  "ipa": "/mo.ru/",
-  "syllables": ["mo", "ru"],
-  "pos": ["noun"],
+  "ipa": "/ˈmo̞.ru/",
+  "syllables": [
+    "mo",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Wall / Vertical Barrier / Standing Boundary",
   "description": "A vertical structure forming side of building or enclosure; the standing boundary that defines space. 'Moru' names what stands between—the solid vertical that creates inside.",
   "sound_symbolism": "The word stands solid. 'Mo' grounds with stable mass, wall planted. Then 'ru' runs continuous, barrier extending.",

@@ -1,9 +1,14 @@
 {
   "word": "noshi",
   "gloss": "near (adj)",
-  "ipa": "/no.ʃi/",
-  "syllables": ["no", "shi"],
-  "pos": ["adjective"],
+  "ipa": "/ˈn̪o̞.ʃi/",
+  "syllables": [
+    "no",
+    "shi"
+  ],
+  "pos": [
+    "adjective"
+  ],
   "concept": "Near / Close By / Not Far",
   "description": "Located a short distance away; close in space. 'Noshi' names the quality of closeness—proximity that requires little effort to bridge, nearness that enables easy reaching.",
   "sound_symbolism": "The word stays close. 'No' grounds with present nearness, proximity established. Then 'shi' /ʃi/ settles close, nearness confirmed.",

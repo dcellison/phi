@@ -1,9 +1,14 @@
 {
   "word": "relu",
   "gloss": "revere",
-  "ipa": "/re.lu/",
-  "syllables": ["re", "lu"],
-  "pos": ["verb"],
+  "ipa": "/ˈre̞.lu/",
+  "syllables": [
+    "re",
+    "lu"
+  ],
+  "pos": [
+    "verb"
+  ],
   "concept": "Revere / Honor Deeply / Venerate",
   "description": "To regard with deep respect and honor; veneration that recognizes worth. 'Relu' names the honoring gaze—seeing and acknowledging what is worthy of respect.",
   "sound_symbolism": "The word honors gently. 'Re' resonates with recognition, worth seen. 'Lu' flows with lifting respect, honor given.",

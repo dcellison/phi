@@ -1,9 +1,15 @@
 {
   "word": "hola",
   "gloss": "laugh",
-  "ipa": "/ho.la/",
-  "syllables": ["ho", "la"],
-  "pos": ["verb", "noun"],
+  "ipa": "/ˈho̞.lä/",
+  "syllables": [
+    "ho",
+    "la"
+  ],
+  "pos": [
+    "verb",
+    "noun"
+  ],
   "concept": "Laugh / Express Amusement Vocally / Make Sound of Mirth",
   "description": "To express amusement, joy, or mirth through characteristic vocal sounds—the involuntary release of breath in rhythmic bursts that signals delight, sometimes gentle, sometimes roaring. 'Hola' is the body's spontaneous celebration of the funny, the absurd, the joyful.",
   "sound_symbolism": "The word releases like laughter itself. 'Ho' breathes out with open vowel, the expulsion of air that begins a laugh. Then 'la' flows freely with liquid release, laughter continuing, rolling onward.",

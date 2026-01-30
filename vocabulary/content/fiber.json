@@ -1,9 +1,15 @@
 {
   "word": "linua",
   "gloss": "fiber",
-  "ipa": "/li.nu.a/",
-  "syllables": ["li", "nu", "a"],
-  "pos": ["noun"],
+  "ipa": "/li.ˈn̪u.ä/",
+  "syllables": [
+    "li",
+    "nu",
+    "a"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Fiber / Thread Material / Strand Element",
   "description": "A thread or filament from which textile is made; the basic unit of woven material. 'Linua' names what becomes cloth—the strand before spinning, the element of weaving.",
   "sound_symbolism": "The word lines thin. 'Li' draws with linear extension, fiber lengthening. 'Nu' binds with structural integrity. Then 'a' opens to possibility of cloth.",

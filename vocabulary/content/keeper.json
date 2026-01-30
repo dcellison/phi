@@ -1,9 +1,14 @@
 {
   "word": "woru",
   "gloss": "keeper",
-  "ipa": "/wo.ru/",
-  "syllables": ["wo", "ru"],
-  "pos": ["noun"],
+  "ipa": "/ˈwo̞.ru/",
+  "syllables": [
+    "wo",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Keeper / Guardian / One Who Maintains",
   "description": "One who guards, maintains, or preserves something; a protector of what matters. 'Woru' names who holds safe—maintaining what must not be lost.",
   "sound_symbolism": "The word watches with care. 'Wo' opens with watchful attention, vigilance awake. 'Ru' holds with steady guardianship, protection maintained.",

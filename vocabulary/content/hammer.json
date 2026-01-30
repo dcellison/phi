@@ -1,9 +1,15 @@
 {
   "word": "toka",
   "gloss": "hammer",
-  "ipa": "/to.ka/",
-  "syllables": ["to", "ka"],
-  "pos": ["noun", "verb"],
+  "ipa": "/ˈt̪o̞.kä/",
+  "syllables": [
+    "to",
+    "ka"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Hammer / Striking Tool / To Strike for Shaping",
   "description": "A tool with a heavy head for striking; to strike with force for shaping. 'Toka' names what shapes through impact—controlled force building and forming.",
   "sound_symbolism": "The word strikes defined. 'To' lands with clear impact, hammer falling. Then 'ka' marks the result, shape emerging from strike.",

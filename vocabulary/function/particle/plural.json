@@ -1,9 +1,13 @@
 {
   "word": "lo",
   "gloss": "PL",
-  "ipa": "/lo/",
-  "syllables": ["lo"],
-  "pos": ["particle"],
+  "ipa": "/ˈlo̞/",
+  "syllables": [
+    "lo"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Plural / Multiple / More Than One",
   "description": "A word-level particle that marks nouns as plural, transforming singulars into multiples. More than mechanical number-marking, 'lo' acknowledges the profound shift from individual to collective, from one to many, from isolation to community.",

@@ -1,9 +1,13 @@
 {
   "word": "li",
   "gloss": "RESTR",
-  "ipa": "/li/",
-  "syllables": ["li"],
-  "pos": ["particle"],
+  "ipa": "/ˈli/",
+  "syllables": [
+    "li"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 2,
   "concept": "Only / Just / Solely / Merely",
   "description": "A word-level particle that restricts reference to the element it precedes, excluding other possibilities. 'Li' draws a boundary around its target, saying 'this and nothing else.' It is the grammar of limitation, of clarifying scope, of preventing overgeneralization. While it excludes, it does so without judgment—merely noting the boundary of what applies.",

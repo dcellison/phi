@@ -1,9 +1,14 @@
 {
   "word": "mio",
   "gloss": "mmhm",
-  "ipa": "/mi.o/",
-  "syllables": ["mi", "o"],
-  "pos": ["interjection"],
+  "ipa": "/ˈmi.o̞/",
+  "syllables": [
+    "mi",
+    "o"
+  ],
+  "pos": [
+    "interjection"
+  ],
   "concept": "Mm-hm / I See / I'm Following",
   "description": "An interjection signaling active listening and ongoing understanding during another's speech. More than passive reception, 'mio' acknowledges the collaborative nature of communication, providing the speaker with gentle confirmation that their words are being received and processed with care.",
   "sound_symbolism": "The interjection begins with 'm', the humming consonant of internal resonance—lips closed in contemplation, vibration felt within. This meets 'i', the bright vowel of mental clarity and attention. The hiatus opens into 'o', the round vowel of ongoing reception. The progression from internal processing ('mi') to continued openness ('o') mirrors the state of active listening that both comprehends and remains receptive. The CVV structure allows the sound to flow without interrupting the speaker.",

@@ -1,9 +1,14 @@
 {
   "word": "teli",
   "gloss": "bell",
-  "ipa": "/te.li/",
-  "syllables": ["te", "li"],
-  "pos": ["noun"],
+  "ipa": "/ˈt̪e̞.li/",
+  "syllables": [
+    "te",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Bell / Ringing Instrument / Calling Sound",
   "description": "A hollow metal object that rings when struck; instrument of calling and awareness. 'Teli' names what calls to presence—the clear tone that awakens attention.",
   "sound_symbolism": "The word rings clear. 'Te' taps with sharp contact, striker meeting metal. Then 'li' rings bright and clear, tone spreading.",

@@ -1,9 +1,16 @@
 {
   "word": "nomei",
   "gloss": "name",
-  "ipa": "/no.me.i/",
-  "syllables": ["no", "me", "i"],
-  "pos": ["noun", "verb"],
+  "ipa": "/n̪o̞.ˈme̞.i/",
+  "syllables": [
+    "no",
+    "me",
+    "i"
+  ],
+  "pos": [
+    "noun",
+    "verb"
+  ],
   "concept": "Name / Personal Word / The Identity-Call",
   "description": "The noun naming the word by which a being or thing is called, the identifier that distinguishes one from many. In Phi, name is understood as powerful gift—to know something's name is to have relationship with it, to be named is to be recognized as distinct and present. This word names both the linguistic label and the act of naming, the power to call into recognition.",
   "sound_symbolism": "The word opens with 'no', where the nasal grounds the name in the named being—names attach to real presences, to bodies and places and things that exist. The rounded 'o' holds identity's fullness. This opens through 'me', where another nasal encounters the clear 'e'—the meeting between namer and named, the relationship names create. The final 'i' focuses and specifies—this name, this being, this one distinguished from all others. The arc traces naming: grounded presence, relational encounter, specific identity.",

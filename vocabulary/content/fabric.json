@@ -1,9 +1,14 @@
 {
   "word": "liru",
   "gloss": "fabric",
-  "ipa": "/li.ru/",
-  "syllables": ["li", "ru"],
-  "pos": ["noun"],
+  "ipa": "/ˈli.ru/",
+  "syllables": [
+    "li",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Fabric / Textile / Woven Material",
   "description": "Cloth produced by weaving or knitting; material with texture and drape. 'Liru' names the flowing textile—threads interlaced into continuous surface.",
   "sound_symbolism": "The word flows in threads. 'Li' moves with liquid continuity, fibers streaming. Then 'ru' rolls onward, fabric extending endlessly.",

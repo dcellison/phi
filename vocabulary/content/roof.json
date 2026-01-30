@@ -1,9 +1,14 @@
 {
   "word": "toru",
   "gloss": "roof",
-  "ipa": "/to.ru/",
-  "syllables": ["to", "ru"],
-  "pos": ["noun"],
+  "ipa": "/ˈt̪o̞.ru/",
+  "syllables": [
+    "to",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
   "concept": "Roof / Overhead Cover / Shelter Top",
   "description": "The structure covering a building; the overhead protection from weather. 'Toru' names what shelters from above—the cover that defines inside from sky.",
   "sound_symbolism": "The word tops over. 'To' caps with defining cover, roof placed. Then 'ru' runs across the span, shelter extending.",

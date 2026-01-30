@@ -1,9 +1,13 @@
 {
   "word": "hi",
   "gloss": "DIR",
-  "ipa": "/hi/",
-  "syllables": ["hi"],
-  "pos": ["particle"],
+  "ipa": "/ˈhi/",
+  "syllables": [
+    "hi"
+  ],
+  "pos": [
+    "particle"
+  ],
   "slot": 1,
   "concept": "Direct Evidence / Witnessed / Sensory",
   "description": "An evidential particle that marks information as directly witnessed through the speaker's own senses. While direct experience is the unmarked default in Phi, 'hi' provides an explicit way to emphasize firsthand knowledge when epistemic clarity matters. More than grammatical marking, 'hi' acknowledges the privilege and responsibility of witnessing—the speaker was present, attentive, and now carries that experience into language.",
