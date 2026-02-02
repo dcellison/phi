@@ -1,13 +1,18 @@
 {
   "word": "wena",
   "gloss": "INT.COMP",
-  "ipa": "/we.na/",
-  "syllables": ["we", "na"],
-  "pos": ["complementizer"],
+  "ipa": "/ˈwe̞.n̪ä/",
+  "syllables": [
+    "we",
+    "na"
+  ],
+  "pos": [
+    "complementizer"
+  ],
   "concept": "Whether / If (embedded question) / Interrogative Complementizer",
   "description": "The complementizer that introduces embedded yes/no questions, creating a space of suspended uncertainty within larger discourse. Unlike 'wa' which directly asks a question expecting response, 'wena' embeds the question as content—something wondered about, asked, or uncertain. This is the grammar of held questions: 'mia wena shia wepu hisu' (I wonder whether ko left).",
   "sound_symbolism": "The word begins with 'w', the softest approximant, barely touching—a sound of uncertainty and openness that connects to 'wa' (question particle), marking membership in the interrogative family. 'E' follows as the balanced mid vowel, holding the question in equipoise between yes and no. The grounding nasal 'n' provides stability to the uncertainty, and final 'a' opens toward the embedded question. Speaking 'wena' feels like cupping something uncertain gently in the hands—holding a question without forcing resolution.",
-  "grammatical_notes": "Introduces embedded yes/no questions after verbs of wondering, asking, uncertainty, and similar. Structure: '[Main clause] wena [Embedded yes/no question]'. The embedded question uses standard declarative word order (not question inversion). Distinct from 'wa' (question particle marking direct questions) and 'thoe' (conditional 'if'—hypothetical scenarios with consequences). Examples: 'mia wena thi wepu hisu' (I wonder whether you're leaving); 'shia wena mia to nila teni' (She asked whether I had seen); 'nio wena shia wela ma kela' (We don't know whether ko's well).",
+  "grammatical_notes": "Introduces embedded yes/no questions after verbs of wondering, asking, uncertainty, and similar. Structure: '[Main clause] wena [Embedded yes/no question]'. The embedded question uses standard declarative word order (not question inversion). Distinct from 'wa' (question particle marking direct questions) and 'thoe' (conditional 'if'—hypothetical scenarios with consequences). Examples: 'mia wena thia wepu hisu' (I wonder whether you're leaving); 'shia wena mia to nila teni' (She asked whether I had seen); 'lo mia wena shia nai wela ma kela' (We don't know whether ko is well).",
   "pillars": {
     "secular-buddhist-philosophy": "The word embodies the practice of holding uncertainty with equanimity. Rather than forcing resolution or avoiding questions, 'wena' allows questions to exist as questions—acknowledged but not anxiously resolved. This grammaticalizes the wisdom of not-knowing, making space for genuine inquiry.",
     "peace-linguistics-practices": "By clearly marking embedded questions, 'wena' prevents the confusion between assertions and uncertainties that can fuel conflict. It enables speakers to express doubt without accusation ('I wonder whether...' rather than 'You probably...'), supporting exploratory rather than adversarial discourse."

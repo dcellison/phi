@@ -1,47 +1,142 @@
-### Part I: The Soul of the Language - The "Why"
+# The Phi Language Book — Outline
 
-- Chapter 1: An Invitation to a More Mindful World (Completed)
+*Updated February 2, 2026 to reflect actual content*
 
-- Chapter 2: The Five Pillars of Wisdom (A deep, multi-page exploration of Solarpunk, Buddhist thought, Art Nouveau, Peace Linguistics, and Pre-industrial Wisdom)
+---
 
-- Chapter 3: The Philosophy of Sound (Explaining *why* the language sounds the way it does—the meaning and purpose behind the phonemes)
+## Part I: The Soul of the Language — The "Why"
 
-### Part II: The Grammar of Being - Building Blocks
+### Chapter 1: Introduction — An Invitation to a More Mindful World
+1. The Invisible Architecture
+2. Cracks in the Foundation
+3. The Language Laboratory
+4. Introducing Phi
+5. A Glimpse of the Five Pillars
+6. The Journey Ahead
 
-- Chapter 4: The Sounds of Phi (A practical, workbook-style guide to pronunciation)
+### Chapter 2: The Five Pillars of Wisdom
+1. Solarpunk Values
+2. Buddhist Concepts
+3. Art Nouveau Aesthetics
+4. Peace Linguistics
+5. Pre-Industrial Wisdom
 
-- Chapter 5: The Mindful Sentence (Focusing entirely on the core SOV word order, head-final principle, and the philosophical implications of this structure)
+### Chapter 3: The Philosophy of Sound
+1. Introduction
+2. Sound as Embodied Philosophy
+3. The Acoustic Ethics of Peace
+4. The Sacred Correspondence
+5. The Practice of Conscious Speech
 
-- Chapter 6: Nouns and Their Modifiers (A detailed look at possession, descriptors, quantifiers, and the optional classifier system)
+### Chapter 4: The Philosophy of Meaning
+1. Introduction
+2. The Living Web
+3. Sound as Symbol
+4. Words as Seeds
+5. The Art of Linguistic Gardening
 
-- Chapter 7: Verbs and the Flow of Time (A dedicated chapter on the Tense and Aspect particles)
+### Chapter 5: The Philosophy of Grammar
+1. Introduction
+2. From Reaction to Reflection
+3. The Three Pillars
+4. Building Thoughts Like Architecture
+5. Grammar as Practice
 
-- Chapter 8: Verbs of Voice and Modality (A dedicated chapter on the Passive, Causative, Possibility, and Necessity particles)
+### Chapter 6: The Social Philosophy of Language
+1. Introduction
+2. Respect Without Hierarchy
+3. Conversation as Collaboration
+4. The Ethics of Communication
+5. Building Bridges
 
-### Part III: Weaving Thoughts Together - Complex Structures
+### Chapter 7: The Philosophy of Learning
+1. Introduction
+2. The Student-Teacher Relationship
+3. Patience with Process
+4. Transformation Through Practice
+5. The Ripple Effects
 
-- Chapter 9: Coordination and Discourse (Connecting sentences with and, but, or, and the set of discourse adverbs)
+---
 
-- Chapter 10: Clauses as Objects (A focused chapter on reported speech and indirect questions)
+## Part II: The Grammar of Being — Building Blocks
 
-- Chapter 11: Adverbial Clauses (Covering clauses of time, purpose, and concession)
+### Chapter 8: The Sounds of Phi
+1. Introduction
+2. The Vowels
+3. The Consonants
+4. The Fricatives
+5. Vowel Hiatus
 
-- Chapter 12: Relative Clauses (A deep dive into both headless and headed relative clauses using the re particle)
+### Chapter 9: The Mindful Sentence
+1. Introduction
+2. The Verb-Final Worldview
+3. Building the Mindful Sentence
+4. Framing the Mindful Sentence
+5. Modifying the Action
+6. Refining the Details
 
-- Chapter 13: Nominalization (The art of turning actions into concepts with the nai particle)
+### Chapter 10: Nouns and Their Modifiers
+1. Introduction
+2. Expressing Possession
+3. Specifying the Noun
+4. The Classifier System
 
-### Part IV: The Art of Speaking Phi - Nuance and Practice
+### Chapter 11: Verbs and the Flow of Time
+1. Introduction
+2. The Flow of Time
+3. The Texture of Time
 
-- Chapter 14: The Art of Nuance (A guide to social context: the vocative particle ko, politeness with pi, and the honorific system)
+### Chapter 12: Verbs of Voice and Modality
+1. Introduction
+2. The Passive Voice
+3. The Causative Voice
+4. Expressing Potential
 
-- Chapter 15: The Self and the Other (A focused chapter on the reflexive (miso) and reciprocal (wiso) constructions)
+---
 
-- Chapter 16: The Art of Transmutation (A full, masterclass chapter on "thinking in Phi," with multiple, detailed examples of transmuting complex ideas)
+## Part III: Weaving Thoughts Together — Complex Structures
 
-### Appendices
+### Chapter 13: Coordination and Discourse
+1. Introduction
+2. Simple Coordination
+3. Correlative Constructions
+4. Discourse Adverbs
 
-- Appendix A: A Quick Reference Grammar Chart
+### Chapter 14: Clauses as Objects *(not yet written)*
+- Reported speech and indirect questions
 
+### Chapter 15: Adverbial Clauses *(not yet written)*
+- Clauses of time, purpose, and concession
+
+### Chapter 16: Relative Clauses *(not yet written)*
+- Headless and headed relative clauses using the `re` particle
+
+### Chapter 17: Nominalization *(not yet written)*
+- Turning actions into concepts with the `nai` particle
+
+---
+
+## Part IV: The Art of Speaking Phi — Nuance and Practice *(not yet written)*
+
+### Chapter 18: The Art of Nuance
+- Social context: vocative particle `ko`, politeness with `pi`, honorific system
+
+### Chapter 19: The Self and the Other
+- Reflexive (`miso`) and reciprocal (`wiso`) constructions
+
+### Chapter 20: The Art of Transmutation
+- Masterclass on "thinking in Phi" with detailed examples
+
+---
+
+## Reference
+
+- Learner's Primer ✅
+
+---
+
+## Appendices *(low priority)*
+
+- Appendix A: Quick Reference Grammar Chart
 - Appendix B: The Complete Phi Lexicon
-
 - Appendix C: Sample Texts and Dialogues
