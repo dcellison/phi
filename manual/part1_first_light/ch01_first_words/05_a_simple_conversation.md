@@ -1,0 +1,56 @@
+# A simple conversation
+
+Now let's put your first words together in a natural exchange. Two people meet and greet each other. Follow along, speaking both parts aloud.
+
+---
+
+**A:** Kia!  
+*Hello!*
+
+**B:** Kia! Thia nai melu.  
+*Hello! You are a friend.*
+
+**A:** Mia thia sano. Wa thia shea nai?  
+*I know you. Are you at peace?*
+
+**B:** Mia shea nai. Mia womu lothea.  
+*I am at peace. I love home.*
+
+**A:** Mia womu lothea.  
+*I love home too.*
+
+**B:** Mia thia lothea, melu.  
+*I love you, friend.*
+
+**A:** Mia thia lothea.  
+*I love you.*
+
+---
+
+## Breaking it down
+
+**Kia!** — The universal greeting. Simple, warm, complete on its own.
+
+**Thia nai melu.** — You are a friend. Literally: you (are) friend. The verb *nai* (to be) links *thia* to *melu*.
+
+**Mia thia sano.** — I know you. Subject (*mia*), object (*thia*), verb (*sano*).
+
+**Wa thia shea nai?** — Are you at peace? The question particle *wa* transforms the statement into a question. Literally: Q you peace be?
+
+**Mia shea nai.** — I am at peace. Or: I am peaceful. *Shea* works as both noun and adjective.
+
+**Mia womu lothea.** — I love home. A simple statement of belonging.
+
+**Mia thia lothea, melu.** — I love you, friend. The vocative *melu* addresses the listener directly.
+
+## Practice
+
+Read the conversation again. This time, pause between each phrase and feel the words in your mouth. Notice the rhythm: short phrase, breath, short phrase.
+
+Then cover the translations and see how much you understand from the Phi alone.
+
+Finally, modify it. What if you wanted to ask "Do you love home?" You would say: *Wa thia womu lothea?* What if you wanted to say "You know me"? Simply: *Thia mia sano.*
+
+You now have the tools for basic conversation. The rest is vocabulary and elaboration, but the foundation is here: greetings, being, knowing, loving, giving, and the simple question that opens dialogue.
+
+Welcome to Phi.

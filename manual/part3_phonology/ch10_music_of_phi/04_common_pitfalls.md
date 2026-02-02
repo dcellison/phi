@@ -1,0 +1,108 @@
+# Common pitfalls
+
+## Pronunciation mistakes to avoid
+
+Learning any new language involves unlearning habits from your native tongue. Here are the most common errors English speakers make with Phi pronunciation, and how to correct them.
+
+## Vowel gliding
+
+**The problem**: English vowels often glide from one position to another. The "o" in "go" starts as one sound and ends as another. The "a" in "day" does the same.
+
+**In Phi**: vowels must stay absolutely pure. No movement, no drift, no glide.
+
+**How to fix it**:
+- Practice holding vowels on a single pitch, like singing one note
+- Record yourself and listen for any movement
+- Freeze your tongue and lips in position throughout the vowel
+- Use Spanish or Italian speakers as models
+
+**Test words**: `welao`, `shea`, `womu`
+
+## Aspirating stops
+
+**The problem**: English adds a puff of air after p, t, k at the beginning of stressed syllables. Say "pin" with your hand in front of your mouth; you'll feel the burst. This aspiration doesn't belong in Phi.
+
+**In Phi**: stops should be clean and gentle, without extra air.
+
+**How to fix it**:
+- Practice with the "sp," "st," "sk" sounds from "spin," "stop," "skip"
+- These English clusters naturally lack aspiration
+- Isolate that softer p, t, k quality for Phi words
+
+**Test words**: `wepu`, `thomari`, `shelomui`
+
+## Alveolar n and t
+
+**The problem**: English places n and t against the ridge behind the teeth (alveolar position). Phi uses dental position, with the tongue touching the teeth themselves.
+
+**In Phi**: dental n and t create softer, more delicate sounds.
+
+**How to fix it**:
+- Touch your tongue tip to the back of your upper front teeth
+- Practice Spanish or Italian words for reference (they use dental stops)
+- The change is subtle but noticeable
+
+**Test words**: `nulae`, `lumani`, `thomari`
+
+## Confusing ph with f
+
+**The problem**: English spelling uses "ph" for the f-sound (phone, philosophy). Phi's **ph** is completely different: a bilabial fricative using only the lips.
+
+**In Phi**: **ph** /ɸ/ involves no teeth at all. Bring your lips close together and push air through.
+
+**How to fix it**:
+- Practice blowing out a candle gently
+- Keep your lower lip away from your upper teeth
+- Think of it as a whispered, breathy "p"
+
+**Test words**: `phelora`, `nophi`
+
+## Voicing th
+
+**The problem**: English has two "th" sounds: voiceless (think) and voiced (this). Phi uses only the voiceless version.
+
+**In Phi**: **th** is always /θ/, never /ð/.
+
+**How to fix it**:
+- Put your hand on your throat while saying "th"
+- You should feel no vibration
+- If you feel buzzing, you're voicing; stop the vocal cords
+
+**Test words**: `thomari`, `thesua`, `lothea`
+
+## Merging vowel sequences
+
+**The problem**: when two vowels appear in a row, English speakers instinctively merge them into diphthongs or single long vowels.
+
+**In Phi**: adjacent vowels stay separate. Each gets its own syllable.
+
+**How to fix it**:
+- Exaggerate separation at first, with clear pauses
+- Think of each vowel as a distinct note
+- Gradually speed up while maintaining distinctness
+
+**Test words**: `shea` (two syllables), `lothea` (three syllables), `welao` (three syllables)
+
+## Stress errors
+
+**The problem**: English stress is unpredictable and often needs memorization (PHOtograph vs. phoTOGraphy). Learners may apply English patterns to Phi.
+
+**In Phi**: stress always falls on the penultimate (second-to-last) syllable.
+
+**How to fix it**:
+- Count syllables first
+- Identify the second-to-last
+- Apply gentle emphasis there, every time
+
+**Test words**: `SHE-a`, `lo-THE-a`, `she-lo-MU-i`
+
+## Self-diagnosis
+
+Record yourself reading Phi text, then listen critically:
+
+1. Are vowels pure or gliding?
+2. Are stops gentle or aspirated?
+3. Are vowel sequences separate or merged?
+4. Is stress consistent and penultimate?
+
+Most errors become obvious when you hear them. Recording is your most powerful diagnostic tool.
