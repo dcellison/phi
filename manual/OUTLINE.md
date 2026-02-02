@@ -6,21 +6,21 @@
 
 ## Part I: First Light — A Taste of Phi
 
-*Hook the reader with the beauty of the language before explaining why it exists.*
+*Ground the reader in purpose, then let them experience the language.*
 
-### Chapter 1: Your First Words in Phi
-1. What Phi Sounds Like (with examples)
-2. Your First Sentence: "Mia thia lothea" (I love you)
-3. The Music of Vowel Hiatus
-4. Ten Essential Words to Start
-5. A Simple Conversation
-
-### Chapter 2: Why a New Language?
+### Chapter 1: Why a New Language?
 1. The Invisible Architecture of Thought
 2. Cracks in the Foundation
 3. The Language Laboratory
 4. What Phi Attempts — and What It Doesn't
 5. How to Use This Book
+
+### Chapter 2: Your First Words in Phi
+1. What Phi Sounds Like (with examples)
+2. Your First Sentence: "Mia thia lothea" (I love you)
+3. The Music of Vowel Hiatus
+4. Ten Essential Words to Start
+5. A Simple Conversation
 
 ---
 
