@@ -7,7 +7,7 @@ Now let's put your first words together in a natural exchange. Two people meet a
 **A:** Kia!  
 *Hello!*
 
-**B:** Kia! Thia nai melu.  
+**B:** Kia! Thia melu nai.  
 *Hello! You are a friend.*
 
 **A:** Mia thia sano. Wa thia shea nai?  
@@ -31,7 +31,7 @@ Now let's put your first words together in a natural exchange. Two people meet a
 
 **Kia!** — The universal greeting. Simple, warm, complete on its own.
 
-**Thia nai melu.** — You are a friend. Literally: you (are) friend. The verb *nai* (to be) links *thia* to *melu*.
+**Thia melu nai.** — You are a friend. Literally: you friend are. The predicate comes before the verb, just like objects do.
 
 **Mia thia sano.** — I know you. Subject (*mia*), object (*thia*), verb (*sano*).
 

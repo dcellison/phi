@@ -20,7 +20,7 @@ The one addressed. The *th* requires careful articulation, honoring the care we 
 
 **nai** — be, is, am  
 */ˈna.i/* — *nah-ee*  
-Existence, identity, presence. *Mia nai melu* — I am a friend.
+Existence, identity, presence. *Mia melu nai* — I am a friend.
 
 **lothea** — love  
 */lo.ˈθe.a/* — *lo-thay-ah*  
@@ -68,7 +68,7 @@ With these ten words, you can already form meaningful phrases:
 
 **Mia thia sano.** — I know you.
 
-**Thia nai melu.** — You are a friend.
+**Thia melu nai.** — You are a friend.
 
 **Mia shea loa.** — I give peace.
 
