@@ -1,0 +1,53 @@
+# The core pronouns
+
+Phi has three basic personal pronouns, one for each grammatical person. Unlike many languages, Phi uses the same pronoun regardless of gender, and the third person singular serves where English would use "he," "she," or "they."
+
+## mia: I / me
+
+The first-person pronoun *mia* refers to the speaker.
+
+**Mia thia nila.** — I see you.  
+**Thia mia sano.** — You know me.  
+**Mia shea lothea.** — I love peace.
+
+The sound of *mia* reflects its meaning. The *m* is the most internal consonant, formed with closed lips, resonating inside the head. The bright *i* focuses into self-awareness. The open *a* acknowledges that even in saying "I," we exist in relation to everything else.
+
+*Mia* is gender-neutral and carries no case marking. The same form serves whether the pronoun is subject, object, or part of a prepositional phrase.
+
+## thia: you
+
+The second-person pronoun *thia* refers to the one being addressed.
+
+**Wa thia shea nai?** — Are you at peace?  
+**Mia thia whaline.** — I thank you.  
+**Thia womu lothea.** — You love home.
+
+The *th* in *thia* requires careful placement of the tongue, neither fully in nor out. This deliberate articulation mirrors the care we should take when addressing another person. Every "you" in Phi is a small act of attention.
+
+Phi makes no distinction between formal and informal address. There is no separate polite "you" like French *vous* or German *Sie*. All beings receive the same *thia*, with the same respect implied.
+
+## shia: they (singular)
+
+The third-person pronoun *shia* refers to someone other than the speaker or listener. It is gender-neutral and singular.
+
+**Shia shua.** — They arrive. (He/she arrives.)  
+**Mia shia sano.** — I know them.  
+**Shia womu phelora nai.** — Their home is beautiful.
+
+The use of "they" for a singular person matches growing usage in English and sidesteps the question of gender entirely. In Phi, grammatical gender simply does not exist. *Shia* refers to any single person without encoding assumptions about their identity.
+
+## Case neutrality
+
+All three pronouns remain unchanged regardless of grammatical role:
+
+**Subject:** Mia thia nila. — I see you.  
+**Object:** Thia mia nila. — You see me.  
+**After preposition:** Thia mia wei shua. — You come to me.
+
+Position in the sentence, not the pronoun's form, indicates its role. This analytical structure keeps the system simple and transparent.
+
+## No grammatical gender
+
+Phi pronouns carry no gender marking. This is a deliberate design choice. Languages that require speakers to assign gender to every pronoun embed assumptions about identity into basic communication. Phi refuses this, allowing people to be named without being categorized.
+
+This doesn't prevent speakers from discussing gender when relevant. But it ensures that the grammar itself never forces the issue.

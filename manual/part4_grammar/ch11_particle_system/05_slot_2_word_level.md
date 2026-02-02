@@ -1,0 +1,131 @@
+# Slot 2: Refining words
+
+Slot 2 particles attach to individual words rather than modifying the entire sentence or verb phrase. They appear immediately before the word they modify.
+
+## lo: Plural
+
+The particle *lo* marks a noun as plural when no specific quantity is given.
+
+**lo melu** — friends  
+**lo shiro** — trees  
+**lo miona** — people
+
+**Mia lo melu lothea.** — I love (my) friends.
+
+**Important:** When a numeral or quantifier is present, *lo* is not used. The number itself implies plurality:
+
+**wi melu** — two friends (not *lo wi melu*)  
+**ta shao shiro** — three trees  
+**sheloi miona** — many people
+
+Use *lo* for unquantified plurals; omit it when a number appears.
+
+## nu: Ordinal
+
+The particle *nu* turns a cardinal number into an ordinal, indicating position rather than quantity.
+
+**nu ta** — first  
+**nu wi** — second  
+**nu ta shao** — third
+
+**Nu ta wiru shua.** — The first child arrives.  
+**Ha nu wi philo nai.** — This is the second day.
+
+## ko: Focus
+
+The particle *ko* emphasizes a specific element, drawing attention to it.
+
+**Mia ko lothea sano.** — I know *love* (specifically, not other things).  
+**Ko mia thia nila.** — *I* see you (not someone else).
+
+Focus is useful for contrast and clarification. It answers the implied question "which one?" by highlighting the relevant element.
+
+## mo: Comparative
+
+The particle *mo* forms comparatives, equivalent to English "-er" or "more."
+
+**mo wela** — better (more good)  
+**mo phelora** — more beautiful  
+**mo thiku** — smaller
+
+To express what something is being compared to, use the preposition *sheo* ("than"):
+
+**Thepalu sheo shelira mo phelora nai.**  
+*garden than forest more beautiful be*  
+"The garden is more beautiful than the forest."
+
+## mo ko: Superlative
+
+Combining *mo* with the focus particle *ko* creates the superlative, equivalent to "-est" or "most."
+
+**mo ko wela** — best  
+**mo ko phelora** — most beautiful  
+
+**Ha thepalu mo ko phelora nai.**  
+*this garden most beautiful be*  
+"This garden is the most beautiful."
+
+## ha: Proximal (this)
+
+The particle *ha* marks something as near the speaker, equivalent to "this" or "these."
+
+**ha melu** — this friend  
+**ha philo** — this day  
+**ha womu** — this home
+
+**Mia ha shiro lothea.** — I love this tree.
+
+## ra: Distal (that)
+
+The particle *ra* marks something as far from the speaker, equivalent to "that" or "those."
+
+**ra melu** — that friend  
+**ra toremoa** — that mountain  
+**ra philo** — that day
+
+**Thia ra womu sano?** — Do you know that home?
+
+## ru: Intensity
+
+The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "really."
+
+**ru phelora** — very beautiful  
+**ru wela** — very good  
+**ru thiku** — very small
+
+**Ha peloru ru phelora nai.** — This flower is very beautiful.
+
+## Honorifics
+
+Honorific particles appear before names, announcing the speaker's relationship to the person named.
+
+### sa: Respect
+
+The respect honorific *sa* marks esteem for a mentor, elder, or person of wisdom.
+
+**sa Thala** — Honored Thala  
+**Mia sa Lumira whaline.** — I thank Honored Lumira.
+
+### ni: Intimacy
+
+The intimacy honorific *ni* marks closeness with a dear friend or family member.
+
+**ni Hino** — Dear Hino  
+**Ni Melu, kia!** — Dear Melu, hello!
+
+### le: Role
+
+The role honorific *le* marks respect for someone's community function or position.
+
+**le Mako** — Respected Mako (in their role)  
+**Mia le Theala kofe wilao.** — I wish to help Respected Theala (the healer).
+
+## Combining Slot 2 particles
+
+Multiple Slot 2 particles can modify the same word:
+
+**ha lo melu** — these friends  
+**ra nu wi shiro** — that second tree  
+**ha mo ko phelora peloru** — this most beautiful flower
+
+Slot 2 particles create precise, layered descriptions while keeping each modification explicit and transparent.

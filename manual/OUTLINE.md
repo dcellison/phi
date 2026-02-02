@@ -133,10 +133,11 @@
 2. Past 'to' — Completed Events
 3. Future 'so' — Possibility and Intention
 4. Aspect: The Texture of Time
-   - Progressive 'ki' — Ongoing Action
-   - Perfective 'si' — Completed with Relevance
+   - Imperfective 'si' — Ongoing Action
+   - Perfective 'ki' — Completed with Relevance
    - Inchoative 'pa' — Beginning
-   - Habitual 'te' — Repeated Action
+   - Habitual 'ro' — Repeated Action
+   - Cessative 'te' — Ending Action
 5. Combining Tense and Aspect
 
 ### Chapter 16: Voice and Possibility
