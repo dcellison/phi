@@ -1,6 +1,6 @@
-# Chapter 2: Why a new language?
+# Why a new language?
 
-## 2.1 The invisible architecture of thought
+## The invisible architecture of thought
 
 ### The linguistic cathedral we inhabit
 

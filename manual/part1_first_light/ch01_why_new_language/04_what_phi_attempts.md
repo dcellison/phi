@@ -1,4 +1,4 @@
-## 2.4 What Phi attempts, and what it doesn't
+## What Phi attempts, and what it doesn't
 
 ### The central question
 

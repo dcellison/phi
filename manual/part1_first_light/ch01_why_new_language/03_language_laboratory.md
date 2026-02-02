@@ -1,4 +1,4 @@
-## 2.3 The language laboratory
+## The language laboratory
 
 ### The planned city of language
 

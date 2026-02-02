@@ -1,4 +1,4 @@
-## 2.2 Cracks in the foundation
+## Cracks in the foundation
 
 ### The inheritance of conflict
 

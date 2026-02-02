@@ -1,4 +1,4 @@
-## 2.5 How to use this book
+## How to use this book
 
 ### Standing at the threshold
 
