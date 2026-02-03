@@ -1,11 +1,10 @@
 {
-  "word": "siroa",
+  "word": "kiroa",
   "gloss": "sign",
-  "ipa": "/si.ˈro̞.ä/",
+  "ipa": "/ˈki.ro̞ä/",
   "syllables": [
-    "si",
-    "ro",
-    "a"
+    "ki",
+    "roa"
   ],
   "pos": [
     "noun",
@@ -13,8 +12,8 @@
   ],
   "concept": "Sign / Communicating Marker / To Indicate",
   "description": "An object conveying information or instruction; to make known through gesture or mark. 'Siroa' names what speaks without voice—the visible communication.",
-  "sound_symbolism": "The word shows with clarity. 'Si' sees with visible form, sign appearing. 'Ro' reveals with opening recognition. Then 'a' opens to full meaning, message received.",
-  "grammatical_notes": "Functions as noun: 'lo siroa' (the sign). As verb: 'mi siroa' (I sign/indicate). More communicative than 'siru' (marker)—conveys message, not just location.",
+  "sound_symbolism": "The word marks with permanence. 'Ki' begins with velar precision, the decisive act of making a mark. 'Roa' extends with enduring presence. A sign as something crafted to last, a mark that persists.",
+  "grammatical_notes": "Functions as noun: 'lo kiroa' (the sign). As verb: 'mi kiroa' (I sign/indicate). More communicative than 'siru' (marker)—conveys message, not just location.",
   "pillars": {
     "secular-buddhist-philosophy": "Signs point to meaning—the sign is not the thing itself but indication toward understanding.",
     "peace-linguistics-practices": "Signs enable communication—shared symbols allowing understanding across languages."
