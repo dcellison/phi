@@ -16,7 +16,7 @@ The particle *wa* frames everything that follows not as a demand for an answer, 
 
 A similar principle applies when a speaker wishes to prompt action. Where many languages use a sharp, clipped imperative that can sound like a harsh command, Phi employs the gentle imperative particle *no*. By placing this particle at the head of a sentence, the speaker frames their utterance as a cooperative request rather than a top-down order.
 
-*No thepalu kophe.* — Help with the garden.
+*No thepalu naphe.* — Help with the garden.
 
 This is not a command to be obeyed, but an invitation to participate in a communal goal. It reframes instruction from imposing one's will into building consensus and shared responsibility.
 
@@ -34,7 +34,7 @@ Perhaps the most explicit tool for social harmony is the politeness particle *pi
 
 Placing *pi* at the beginning of a sentence is a conscious act of social mindfulness, a declaration from the speaker that says: "I am entering this dialogue with care, considering your perspective as I speak."
 
-*Pi no thepalu kophe.* — Would you kindly help with the garden?
+*Pi no thepalu naphe.* — Would you kindly help with the garden?
 
 The combination of *pi* and *no* creates especially gentle requests.
 

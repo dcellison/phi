@@ -7,7 +7,7 @@ These exercises will help you internalize Phi's sentence structure. Remember tha
 Translate these English sentences into Phi using the basic Subject-Object-Verb structure. The verb should always be the final word.
 
 1. I read the book. → *mia shelu theo*
-2. You help the garden. → *thia thepalu kophe*
+2. You help the garden. → *thia thepalu naphe*
 3. The parent understands the friend. → *phao melu shelomui*
 
 Now try these on your own:
@@ -132,10 +132,10 @@ Exercise 6:
 
 Exercise 7:
 1. *wa thia ha shelu shelomui?*
-2. *pi no welao thepalu kophe*
+2. *pi no welao thepalu naphe*
 3. *lu mia shelu theo, mia so shelomui*
 4. *lo melu sheloi shelu to si theo*
-5. *wa phao si kophe?*
+5. *wa phao si naphe?*
 
 ## Practice tip
 

@@ -1,18 +1,19 @@
 {
-  "word": "shuko",
+  "word": "keruko",
   "gloss": "sturdy",
-  "ipa": "/ˈʃu.ko̞/",
+  "ipa": "/ke̞.ˈru.ko̞/",
   "syllables": [
-    "shu",
+    "ke",
+    "ru",
     "ko"
   ],
   "pos": [
     "adjective"
   ],
   "concept": "Sturdy / Strongly Built / Robust",
-  "description": "Strongly and solidly built; able to withstand rough use. 'Shuko' names the quality of sturdiness—construction that endures, form that resists damage.",
-  "sound_symbolism": "The word stands firm. 'Shu' /ʃu/ begins with solid presence, strength established. Then 'ko' completes with clear definition, sturdiness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'shuko thae' (sturdy vessel). Opposite of 'welua' (fragile). Related to 'kema' (strong) but emphasizes resistance to damage rather than power.",
+  "description": "Strongly and solidly built; able to withstand rough use. 'Keruko' names the quality of sturdiness—construction that endures, form that resists damage.",
+  "sound_symbolism": "The word stands like stone. 'Ke' begins with velar firmness, the decisive weight of something well-made. 'Ru' grounds with depth, roots reaching down into the earth. Then 'ko' closes with solid permanence, sturdiness confirmed. The hard consonants throughout mirror what sturdiness feels like: unyielding, reliable, built to last.",
+  "grammatical_notes": "Functions as an adjective: 'keruko thae' (sturdy vessel). Opposite of 'welua' (fragile). Related to 'kema' (strong) but emphasizes resistance to damage rather than power.",
   "pillars": {
     "pre-industrial-wisdom": "Sturdy construction served generations—well-built tools and structures passed from parent to child.",
     "solarpunk-values": "Sturdy design reduces waste—things built to last don't need constant replacement."

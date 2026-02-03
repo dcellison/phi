@@ -76,7 +76,7 @@ The vocabulary entry identifies several sources of necessity that *na* can expre
 
 **Moral obligations:** Responses that ethics demand.
 
-> **lo mia na kophe**  
+> **lo mia na naphe**  
 > PL I NEC help  
 > "We must help"
 

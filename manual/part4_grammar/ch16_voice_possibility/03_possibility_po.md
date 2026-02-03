@@ -70,7 +70,7 @@ The modal particle *po* integrates into Phi's particle system, taking its place 
 
 Past tense with possibility often expresses unrealized potential or inference about completed events:
 
-> **mia to po kophe**  
+> **mia to po naphe**  
 > I PAST POSS help  
 > "I could have helped" / "I was able to help"
 

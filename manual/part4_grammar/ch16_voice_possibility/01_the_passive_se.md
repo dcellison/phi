@@ -58,7 +58,7 @@ This focuses on the beautiful result without getting sidetracked by questions of
 
 Perhaps most importantly, passive voice allows us to center the experiences of those who are affected by actions rather than those who perform them:
 
-> **lopia se kophe**  
+> **lopia se naphe**  
 > child PASS help  
 > "The child was helped"
 
