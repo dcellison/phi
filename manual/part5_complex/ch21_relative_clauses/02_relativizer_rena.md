@@ -14,24 +14,24 @@ The `r` in `rena` rolls and connects, stitching clauses together like a needle t
 [rena CLAUSE] NOUN
 ```
 
-Everything between `rena` and the noun is the description. The noun arrives last, receiving all the preceding information.
+Everything between `rena` and the noun is the description. The noun arrives last, receiving all the preceding information. Here are complete sentences using relative clauses:
 
 ```
-rena shia nophi kealo miona
-REL 3SG story create person
-(the person who creates stories)
-```
-
-```
-rena mia to theo shelu
-REL 1SG PST read book
-(the book that i read)
+rena shia nophi kealo miona phue nai
+REL 3SG story create person wise be
+(the person who creates stories is wise.)
 ```
 
 ```
-rena shelira mua nai ruela
-REL forest LOC be path
-(the path that is in the forest)
+mia rena mia to theo shelu lothea
+1SG REL 1SG PST read book love
+(i love the book that i read.)
+```
+
+```
+rena shelira mua nai ruela phelora nai
+REL forest LOC be path beautiful be
+(the path that is in the forest is beautiful.)
 ```
 
 ## No closer needed
@@ -42,12 +42,12 @@ This works because relative clauses are pre-nominal. The structure `[rena CLAUSE
 
 ## The gap strategy
 
-Notice that the head noun doesn't appear inside the relative clause. In "the book that i read," English has "book" outside and an implied gap where it would go inside ("i read ___"). Phi works the same way:
+Notice that the head noun doesn't appear inside the relative clause. In "the book that i read," English has "book" outside and an implied gap where it would go inside ("i read ___"). Phi works the same way. Looking at the noun phrase structure (not a complete sentence):
 
 ```
 rena mia to theo ___ shelu
 REL 1SG PST read [gap] book
-(the book that i read)
+"the book that i read" (noun phrase)
 ```
 
 The position of the gap tells you the noun's role in the relative clause. Here, the gap is in object position (after subject, before verb), so the book is what was read.
@@ -55,7 +55,7 @@ The position of the gap tells you the noun's role in the relative clause. Here, 
 ```
 rena ___ nophi kealo miona
 REL [gap] story create person
-(the person who creates stories)
+"the person who creates stories" (noun phrase)
 ```
 
 Here the gap is in subject position, so the person is the one who creates.

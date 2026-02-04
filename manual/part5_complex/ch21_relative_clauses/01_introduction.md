@@ -6,23 +6,15 @@ English handles this with words like "who," "which," and "that," placing the rel
 
 ## The logic of pre-nominal relatives
 
-Consider how Phi handles simple description:
+Consider how Phi handles simple description. The noun phrase `phelora peloru` ("beautiful flower") places the adjective before the noun. Relative clauses follow the same logic, just with a clause instead of a single word:
 
 ```
-phelora peloru
-beautiful flower
-(a beautiful flower)
+rena mia to nila peloru phelora nai
+REL 1SG PST see flower beautiful be
+(the flower that i saw is beautiful.)
 ```
 
-The adjective comes first, announcing the quality before revealing what possesses it. Relative clauses follow the same logic:
-
-```
-rena mia to nila peloru
-REL 1SG PST see flower
-(the flower that i saw)
-```
-
-The clause `mia to nila` ("i saw") describes the flower, and `rena` announces that description, just as an adjective would. The listener knows they're receiving descriptive information before they know what's being described.
+The clause `mia to nila` ("i saw") describes the flower, and `rena` announces that description, just as an adjective would. The listener knows they're receiving descriptive information before they know what's being described. The complete noun phrase `rena mia to nila peloru` then serves as the subject of `nai`.
 
 This feels backwards to English speakers at first. But it's the same principle that makes `phelora peloru` feel natural once you've learned it. All modification precedes what it modifies. Relative clauses are just larger modifiers.
 
