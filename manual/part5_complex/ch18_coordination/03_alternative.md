@@ -18,6 +18,8 @@ thia shea sola maeli pula
 
 In English, "or" can be either inclusive (you can have both) or exclusive (pick one). Context usually resolves the ambiguity, but sometimes it doesn't. Phi's `sola` works the same way: the context determines whether both options are available or only one.
 
+You may notice that `sola` in a plain statement sounds slightly odd: "you read or listen" is grammatically valid (it describes someone's alternatives or habits) but less natural than what you get with `nela` or `thona`. In practice, `sola` appears most often in questions and conditionals, where presenting alternatives feels intuitive.
+
 When combined with the question particle `wa`, `sola` naturally creates choice questions:
 
 ```
