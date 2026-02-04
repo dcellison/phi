@@ -37,15 +37,15 @@ Q sun warm be DISJ wind cold be
 Like the other conjunctions, `sola` scales to full clauses:
 
 ```
-mia so theo, sola mia so thalo
-1SG FUT read, DISJ 1SG FUT walk
-(i will read, or i will walk.)
+mia so theo sola mia so thalo
+1SG FUT read DISJ 1SG FUT walk
+(i will read or i will walk.)
 ```
 
 ```
-thia po mia naphe, sola mia po miso naphe
-2SG POSS 1SG help, DISJ 1SG POSS REFL help
-(you can help me, or i can help myself.)
+thia po mia naphe sola mia po miso naphe
+2SG POSS 1SG help DISJ 1SG POSS REFL help
+(you can help me or i can help myself.)
 ```
 
 Note the second example: `miso` (reflexive pronoun) appears in the second clause because the subject and object are the same person. Coordination naturally creates opportunities for these more complex constructions.

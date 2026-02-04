@@ -19,9 +19,9 @@ COORD sun COORD rain good be
 ```
 
 ```
-nela mia theo, nela thia sheluo
-COORD 1SG read, COORD 2SG listen
-(both i read, and you listen.)
+nela mia theo nela thia sheluo
+COORD 1SG read COORD 2SG listen
+(both i read and you listen.)
 ```
 
 The repeated `nela` signals that this isn't a casual list. The speaker is deliberately pairing these elements, insisting that each carries equal weight.
@@ -37,9 +37,9 @@ mia sola theo sola thalo
 ```
 
 ```
-thia sola mia naphe, sola mia so wepu
-2SG DISJ 1SG help, DISJ 1SG FUT go
-(either you help me, or i will go.)
+thia sola mia naphe sola mia so wepu
+2SG DISJ 1SG help DISJ 1SG FUT go
+(either you help me or i will go.)
 ```
 
 Where single `sola` casually mentions alternatives, `sola...sola` frames the choice as deliberate and significant.
