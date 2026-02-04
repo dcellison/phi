@@ -189,12 +189,6 @@
 4. Headless Relative Clauses
 5. Exercises: Complex Descriptions
 
-### Chapter 22: Nominalization
-1. Introduction: Actions Become Things
-2. The Nominalizer 'nai'
-3. Abstract Concepts from Verbs
-4. Nominalization in Practice
-
 ---
 
 ## Part VI: The Art of Phi — Mastery
