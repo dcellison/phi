@@ -158,12 +158,6 @@ The book has **THREE PARTS**:
 - `thona` - but (balanced contrast)
 - `sola` - or (open possibility)
 
-**Correlatives:**
-- `nela...nela` - both-and
-- `sola...sola` - either-or
-- `ma...thona` - not-but
-- `shai...nela` - graduated
-
 **Discourse Adverbs:**
 - `thelao` - therefore
 - `kewai` - however

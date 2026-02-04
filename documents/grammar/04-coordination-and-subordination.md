@@ -27,29 +27,7 @@ Q [3SG beautiful] OR [calm]
 (Is it beautiful or calm?)
 ```
 
-### 4.1.1. Correlative Constructions
-To add emphasis to a coordinated phrase, a logical adverb may be placed before the main verb.
-
-- **Both... and...:** Use `nela` to link the items and add the adverb `sila` (together).
-  ```
-  mia [kelu nela sila] sila lothea
-  1SG [peace and community] together love
-  (I love both peace and community.)
-  ```
-- **Either... or...:** Use `sola` to link the items and add the adverb `haoni` (as a choice).
-  ```
-  thia [toremoa sola kelu] haoni po kofe
-  2SG [story or peace] as-a-choice POSS receive
-  (You can have either the story or the peace.)
-  ```
-- **Neither... nor...:** Use `sola` and `haoni`, and negate the main verb with `ma`.
-  ```
-  mia [toremoa sola kelu] haoni ma kela
-  1SG [story or peace] as-a-choice NEG understand
-  (I understand neither the story nor the peace.)
-  ```
-
-### 4.1.2. Discourse Adverbs: Announcing Logical Connections
+### 4.1.1. Discourse Adverbs: Announcing Logical Connections
 
 Discourse adverbs announce how the current sentence relates to what came before, appearing early in the sentence to prepare listeners for the logical connection.
 

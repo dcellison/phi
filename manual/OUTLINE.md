@@ -165,7 +165,6 @@
 1. Simple Conjunction 'nela' — Harmonic And
 2. Contrast 'thona' — Balanced But
 3. Alternative 'sola' — Open Or
-4. Correlative Constructions (both-and, either-or, not-but)
 
 ### Chapter 19: Discourse Flow
 1. Introduction: Guiding the Listener
