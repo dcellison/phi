@@ -77,7 +77,43 @@ Phi uses no articles (the/a/an), maintaining simplicity while requiring mindful 
 
 This system requires speakers and listeners to remain present and engaged with the conversation's context, promoting mindful communication.
 
-## 1.6. The Vocative: Announcing Address
+## 1.6. Topic-Drop (Pro-Drop)
+
+Phi allows **topic-drop**: when the subject of a clause is clear from context, it may be omitted. This is natural in verb-final languages (Japanese, Korean, Turkish) and fits Phi's principle of not saying what is already understood.
+
+**Basic principle:** Once a topic is established, subsequent clauses can omit the subject if they refer to the same entity.
+
+**Examples:**
+
+```
+shai shelira thiku nai phelora nai
+CONC forest small be beautiful be
+(although the forest is small, [it] is beautiful.)
+```
+
+The second subject is absent because `shelira` was just established as the topic.
+
+```
+mia shelu theo. shelomui.
+1SG book read. understand.
+(i read the book. [i] understand.)
+```
+
+The speaker remains the understood subject in the second sentence.
+
+**When to use topic-drop:**
+- The referent is unambiguous from the preceding context
+- The clause immediately follows the one that established the topic
+- Retaining the subject would feel repetitive
+
+**When to retain the subject:**
+- A new topic is being introduced
+- Ambiguity might arise about the referent
+- Emphasis or contrast is intended
+
+Topic-drop is never required — speakers may always include the subject for clarity or emphasis. But allowing it makes Phi flow more naturally and avoids the repetitive quality that forced subject retention would create.
+
+## 1.7. The Vocative: Announcing Address
 
 Even direct address follows the announce-then-deliver principle. The vocative marker `kona` announces that someone is being addressed before their name or title is spoken:
 
@@ -90,7 +126,7 @@ VOC friend, 1SG here am
 (Friend, I am here.)
 ```
 
-## 1.7. Philosophical Implications
+## 1.8. Philosophical Implications
 
 The modifier-first principle creates more than grammatical consistency—it instantiates a worldview where:
 

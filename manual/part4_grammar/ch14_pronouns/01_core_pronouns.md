@@ -51,3 +51,29 @@ Position in the sentence, not the pronoun's form, indicates its role. This analy
 Phi pronouns carry no gender marking. This is a deliberate design choice. Languages that require speakers to assign gender to every pronoun embed assumptions about identity into basic communication. Phi refuses this, allowing people to be named without being categorized.
 
 This doesn't prevent speakers from discussing gender when relevant. But it ensures that the grammar itself never forces the issue.
+
+## Topic-drop: the unspoken subject
+
+Phi allows speakers to omit the subject when it is clear from context. This is called topic-drop, and it is common in verb-final languages like Japanese and Korean.
+
+Once a topic has been established, subsequent clauses can leave the subject position empty if the referent is obvious:
+
+```
+shai shelira thiku nai phelora nai
+CONC forest small be beautiful be
+(although the forest is small, [it] is beautiful.)
+```
+
+The second clause has no explicit subject. The forest, having just been mentioned, is understood to remain the topic.
+
+```
+mia shelu theo. shelomui.
+1SG book read. understand.
+(i read the book. [i] understand.)
+```
+
+The speaker continues as the understood subject without needing to repeat *mia*.
+
+Topic-drop is never required. Speakers may always include the subject for clarity, emphasis, or contrast. But the option to omit it makes Phi flow more naturally, avoiding the repetitive quality that some languages impose by requiring explicit subjects in every clause.
+
+This feature also means that Phi does not need a dedicated pronoun for "it." When referring back to a thing rather than a person, simply drop the subject and let context carry the reference.

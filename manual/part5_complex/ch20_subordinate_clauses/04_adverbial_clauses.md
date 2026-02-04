@@ -111,15 +111,15 @@ CONC rain NEG PST be PL flower grow
 ```
 
 ```
-shai shelira thiku nai shelira phelora nai
-CONC forest small be forest beautiful be
-(although the forest is small the forest is beautiful.)
+shai shelira thiku nai phelora nai
+CONC forest small be beautiful be
+(although the forest is small, [it] is beautiful.)
 ```
 
 ```
-shai mia ma to shelomui mia to shonela
-CONC 1SG NEG PST understand 1SG PST learn
-(although i did not understand i learned.)
+shai mia ma to shelomui to shonela
+CONC 1SG NEG PST understand PST learn
+(although i did not understand, [i] learned.)
 ```
 
 Like `lao`, `shai` can also take a noun phrase:
