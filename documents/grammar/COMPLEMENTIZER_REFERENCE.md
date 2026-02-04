@@ -39,60 +39,64 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 
 ---
 
-### `shola` - Quotative (QUOT)
+### `shola` / `sholo` - Quotative (QUOT / QUOT.CLOSE)
 
-**Function**: Introduces direct speech, preserving the exact words spoken
-**IPA**: /ʃo.la/
-**Position**: Before the quoted material
-**Structure**: `[Subject] shola "[Quote]" [Verb of speaking]`
+**Function**: Introduces and closes direct speech, preserving the exact words spoken
+**IPA**: /ʃo.la/ and /ʃo.lo/
+**Position**: `shola` opens the quoted material; `sholo` closes it. The main verb follows `sholo`.
+**Structure**: `[Subject] shola [Quote] sholo [Verb of speaking]`
+
+**`sholo` is required.** It marks where the quotation ends so the main verb can follow unambiguously.
 
 **Examples**:
 ```
-shia shola "remo wela" shemui
-3SG QUOT "sun beautiful" say
+shia shola suno phelora nai sholo haolu
+3SG QUOT sun beautiful be QUOT.CLOSE say
 (She says, "The sun is beautiful.")
 
-mia shola "mia so wepu" nophi
-1SG QUOT "1SG FUT leave" tell
+mia shola mia so wepu sholo haolu
+1SG QUOT 1SG FUT leave QUOT.CLOSE say
 (I said: "I will leave.")
 ```
 
-**Note**: Distinct from `mena` (declarative)—`shola` preserves exact words, `mena` reports content/meaning.
+**Note**: Distinct from `mena`/`meno` (declarative); `shola`/`sholo` preserves exact words, `mena`/`meno` reports content/meaning.
 
 ---
 
-### `mena` - Declarative Complementizer (DECL)
+### `mena` / `meno` - Declarative Complementizer (DECL / DECL.CLOSE)
 
-**Function**: Introduces embedded declarative clauses (reports content, not exact words)
-**IPA**: /me.na/
-**Position**: After the main clause, before the embedded statement
-**Structure**: `[Main clause] mena [Embedded statement]`
+**Function**: Introduces and closes embedded declarative clauses (reports content, not exact words)
+**IPA**: /me.na/ and /me.no/
+**Position**: `mena` opens the embedded statement; `meno` closes it. The main verb follows `meno`.
+**Structure**: `[Subject] mena [Embedded statement] meno [Main verb]`
+
+**`meno` is required.** Because Phi's SOV word order places the main verb after the complement clause, `meno` is needed to mark where the embedded clause ends and the main verb begins. Without it, two adjacent verbs would be ambiguous.
 
 **Examples**:
 ```
-mia kela mena shia wepu
-1SG understand DECL 3SG leave
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
 (I understand that ko left.)
 
-shia nophi mena thia wepu
-3SG say DECL 2SG leave
+shia mena thia wepu meno haolu
+3SG DECL 2SG leave DECL.CLOSE say
 (She said that you left.)
 
-nai phaelo mena remo wela
-1PL feel DECL sun beautiful
-(We feel that the sun is beautiful.)
+mia mena suno theru nai meno phaelo
+1SG DECL sun warm be DECL.CLOSE feel
+(I feel that the sun is warm.)
 ```
 
-**Nesting**: `mena` clauses can nest:
+**Nesting**: `mena`/`meno` clauses can nest. Each `mena` must have its own `meno`:
 ```
-mia kela mena thia phaelo mena shia wepu
-1SG understand DECL 2SG feel DECL 3SG leave
+mia mena thia mena shia wepu meno phaelo meno shelomui
+1SG DECL 2SG DECL 3SG leave DECL.CLOSE feel DECL.CLOSE understand
 (I understand that you feel that ko left.)
 ```
 
-**Comparison with `shola`**:
-- `shia shola "mia wepu" nophi` = She said: "I'm leaving." (exact words)
-- `shia nophi mena thia wepu` = She said that you left. (reported content)
+**Comparison with `shola`/`sholo`**:
+- `shia shola "mia wepu" sholo haolu` = She said: "I'm leaving." (exact words)
+- `shia mena thia wepu meno haolu` = She said that you left. (reported content)
 
 ---
 
@@ -100,8 +104,10 @@ mia kela mena thia phaelo mena shia wepu
 
 **Function**: Introduces embedded yes/no questions
 **IPA**: /we.na/
-**Position**: After the main clause, before the embedded question
-**Structure**: `[Main clause] wena [Embedded yes/no question]`
+**Position**: After the subject, before the embedded question. The main verb follows the embedded clause.
+**Structure**: `[Subject] wena [Embedded yes/no question] [Main verb]`
+
+**No closer needed.** Unlike `mena`/`meno` and `shola`/`sholo`, embedded questions are structurally bounded: the embedded clause's own verb marks its end, and the main verb's semantic role (wondering, asking, knowing) is distinct enough to resolve the boundary. All `we_V` syllable combinations are taken in the vocabulary, so no closer was available.
 
 **Examples**:
 ```
@@ -113,8 +119,8 @@ shia wena mia to nila nomei
 3SG INT.COMP 1SG PST see ask
 (She asked whether I had seen.)
 
-nai wena remo wela ma kela
-1PL INT.COMP sun beautiful NEG know
+lo mia wena suno phelora nai ma shelomui
+1PL INT.COMP sun beautiful be NEG understand
 (We don't know whether the sun is beautiful.)
 ```
 
@@ -125,7 +131,7 @@ nai wena remo wela ma kela
 
 **Comparison**:
 - `wa thia wepu` = Are you leaving? (direct question)
-- `thoe thia wepu, mia sola nai` = If you leave, I'll be alone. (conditional)
+- `thoe thia wepu. mia sola nai` = If you leave, I'll be alone. (conditional)
 - `mia wena thia wepu phaelo` = I wonder whether you're leaving. (embedded question)
 
 ---
@@ -162,13 +168,15 @@ VOC NAME HON.INTIM Hino, 1SG 2SG love
 
 ## Summary
 
-| Word | Gloss | Function |
-|------|-------|----------|
-| `rena` | REL | Introduces relative clauses |
-| `shola` | QUOT | Introduces direct quotation (exact words) |
-| `mena` | DECL | Introduces embedded statements (reported content) |
-| `wena` | INT.COMP | Introduces embedded yes/no questions |
-| `kona` | VOC | Marks direct address |
+| Word | Gloss | Function | Closer |
+|------|-------|----------|--------|
+| `rena` | REL | Introduces relative clauses | — (pre-nominal position bounds it) |
+| `shola` | QUOT | Opens direct quotation (exact words) | `sholo` (required) |
+| `sholo` | QUOT.CLOSE | Closes direct quotation | — |
+| `mena` | DECL | Opens embedded statements (reported content) | `meno` (required) |
+| `meno` | DECL.CLOSE | Closes embedded statements | — |
+| `wena` | INT.COMP | Introduces embedded yes/no questions | — (structurally bounded) |
+| `kona` | VOC | Marks direct address | — (extra-clausal) |
 
 ---
 

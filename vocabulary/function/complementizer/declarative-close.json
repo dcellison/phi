@@ -5,11 +5,11 @@
   "syllables": ["me", "no"],
   "pos": ["complementizer"],
   "concept": "End declarative clause / Close embedded statement",
-  "description": "The optional closing counterpart of the declarative complementizer 'mena'. Marks the end of an embedded declarative clause, providing explicit boundary marking for complex sentences where the extent of the embedded clause might otherwise be ambiguous. While 'mena' alone is sufficient for simple embeddings, 'meno' adds clarity in longer or nested constructions.",
+  "description": "The required closing counterpart of the declarative complementizer 'mena'. Marks the end of an embedded declarative clause, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'mena...meno' functions as spoken brackets around embedded statements, giving listeners an unambiguous signal of where reported content begins and ends.",
   "sound_symbolism": "Shares the 'me' onset with 'mena', maintaining the acoustic signature of declarative embedding. The shift from 'a' to 'o' in the final vowel signals closure, following the consistent Phi pattern where '-a' opens and '-o' closes.",
-  "grammatical_notes": "Optional counterpart to 'mena'. When used, appears after the final word of the embedded declarative clause. Most useful in complex sentences with nested clauses or long embedded statements where clause boundaries might be unclear. Structure: [Main clause] mena [embedded statement] meno [continuation]. For simple embeddings, 'mena' alone is sufficient.",
+  "grammatical_notes": "Required counterpart to 'mena'. Appears immediately after the final word of the embedded declarative clause, before the main verb resumes. Structure: [Subject] mena [embedded statement] meno [main verb]. Required because Phi's SOV word order places the main verb after the complement clause, and without 'meno' the boundary between the embedded verb and the main verb would be ambiguous. Follows the Phi pattern where opener ends in '-a' and closer ends in '-o'.",
   "pillars": {
-    "peace-linguistics-practices": "Optional boundary marking supports the principle of transparent communication. Speakers can choose to add clarity when the situation demands it, without being burdened by mandatory markers in simple cases.",
-    "secular-buddhist-philosophy": "The optional nature of 'meno' reflects the Buddhist middle path: available when needed for clarity, not imposed as unnecessary structure."
+    "peace-linguistics-practices": "Required boundary marking supports the principle of transparent communication. Listeners always know precisely where reported content ends and the speaker's own assertion resumes, preventing the ambiguity that can lead to misattribution.",
+    "secular-buddhist-philosophy": "The closing marker completes the act of reporting another's thought. By clearly ending the embedded clause, 'meno' returns responsibility for subsequent words to the current speaker, maintaining the boundary between reported content and one's own expression."
   }
 }
