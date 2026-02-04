@@ -1,0 +1,15 @@
+{
+  "word": "meno",
+  "gloss": "DECL.CLOSE",
+  "ipa": "/ˈme̞.n̪o̞/",
+  "syllables": ["me", "no"],
+  "pos": ["complementizer"],
+  "concept": "End declarative clause / Close embedded statement",
+  "description": "The optional closing counterpart of the declarative complementizer 'mena'. Marks the end of an embedded declarative clause, providing explicit boundary marking for complex sentences where the extent of the embedded clause might otherwise be ambiguous. While 'mena' alone is sufficient for simple embeddings, 'meno' adds clarity in longer or nested constructions.",
+  "sound_symbolism": "Shares the 'me' onset with 'mena', maintaining the acoustic signature of declarative embedding. The shift from 'a' to 'o' in the final vowel signals closure, following the consistent Phi pattern where '-a' opens and '-o' closes.",
+  "grammatical_notes": "Optional counterpart to 'mena'. When used, appears after the final word of the embedded declarative clause. Most useful in complex sentences with nested clauses or long embedded statements where clause boundaries might be unclear. Structure: [Main clause] mena [embedded statement] meno [continuation]. For simple embeddings, 'mena' alone is sufficient.",
+  "pillars": {
+    "peace-linguistics-practices": "Optional boundary marking supports the principle of transparent communication. Speakers can choose to add clarity when the situation demands it, without being burdened by mandatory markers in simple cases.",
+    "secular-buddhist-philosophy": "The optional nature of 'meno' reflects the Buddhist middle path: available when needed for clarity, not imposed as unnecessary structure."
+  }
+}
