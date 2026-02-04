@@ -20,16 +20,16 @@ BECAUSE 3SG PST go 1SG feel
 
 The subordinator `lao` announces "here comes a reason." The reason unfolds (`shia to wepu`, "they left"). Then the main clause delivers what that reason explains (`mia phaelo`, "i feel").
 
-For complement clauses, the embedded clause serves as the object of a verb:
+For complement clauses, the embedded clause serves as the object of a verb. Complementizers that introduce these clauses come in pairs: an opener and a closer, working like spoken parentheses around the embedded thought.
 
-`[subject] [complementizer] [embedded clause] [verb]`
+`[subject] [complementizer] [embedded clause] [closer] [verb]`
 
 ```
-mia mena shia to wepu sano
-1SG DECL 3SG PST go know
+mia mena shia to wepu meno sano
+1SG DECL 3SG PST go DECL.CLOSE know
 (i know that they left.)
 ```
 
-The complementizer `mena` announces "here comes an embedded statement," and the verb `sano` ("know") at the end tells you what the speaker is doing with that statement.
+The complementizer `mena` announces "here comes an embedded statement." The closer `meno` marks where it ends. The main verb `sano` ("know") follows, telling you what the speaker is doing with that statement. Without `meno`, the boundary between the embedded verb and the main verb would be ambiguous.
 
 Both patterns follow the modifier-first principle: the relationship is announced before the content that fills it. The listener is never caught off guard by a clause's function.
