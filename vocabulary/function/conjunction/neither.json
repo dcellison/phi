@@ -1,0 +1,20 @@
+{
+  "word": "mira",
+  "gloss": "NEITHER",
+  "ipa": "/ˈmi.ɾä/",
+  "syllables": [
+    "mi",
+    "ra"
+  ],
+  "pos": [
+    "conjunction"
+  ],
+  "concept": "Neither (opener) / Correlative negative disjunctive opener",
+  "description": "The opening member of the correlative pair 'mira...miro' (neither...nor). Announces that what follows is the first of two elements being jointly excluded. Unlike the either-or pair which presents alternatives for selection, 'mira...miro' presents alternatives for rejection.",
+  "sound_symbolism": "The nasal 'm' onset echoes the negation particle 'ma', grounding the word in refusal and exclusion. The high front vowel 'i' narrows the acoustic space, enacting the closing-off that 'neither' represents. The forward momentum of 'ra' moves toward the second excluded element. The final 'a' marks this as the opener.",
+  "grammatical_notes": "Functions as the first member of the correlative conjunction pair 'mira...miro'. Appears before the first excluded element. Must always be paired with 'miro' before the second excluded element. The negation is built into the correlative pair itself; no additional 'ma' particle is required on the verb. The complete construction is: 'mira [element 1] miro [element 2] [verb]'.",
+  "pillars": {
+    "peace-linguistics-practices": "Even in exclusion, the correlative structure maintains clarity and balance. Both excluded elements are given equal attention, preventing the rhetorical trick of dismissing one option more forcefully than another.",
+    "secular-buddhist-philosophy": "The dedicated neither-nor construction allows for clear acknowledgment of what is being set aside, supporting conscious choice through transparent expression of boundaries."
+  }
+}

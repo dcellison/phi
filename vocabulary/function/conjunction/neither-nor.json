@@ -1,0 +1,20 @@
+{
+  "word": "miro",
+  "gloss": "NOR.CORR",
+  "ipa": "/ˈmi.ɾo̞/",
+  "syllables": [
+    "mi",
+    "ro"
+  ],
+  "pos": [
+    "conjunction"
+  ],
+  "concept": "Nor (correlative closer) / Completing the neither-nor pair",
+  "description": "The closing member of the correlative pair 'mira...miro' (neither...nor). Announces the second element being jointly excluded. Completes the structure opened by 'mira', confirming that both elements have been rejected together.",
+  "sound_symbolism": "Shares the nasal 'm' onset and high 'i' vowel with 'mira', maintaining the acoustic signature of exclusion. The shift from 'a' to 'o' signals closure of the construction, the rounding of 'o' sealing what 'a' opened.",
+  "grammatical_notes": "Functions as the second member of the correlative conjunction pair 'mira...miro'. Appears before the second excluded element. Must always be paired with a preceding 'mira'. The negation is inherent in the pair; no 'ma' particle is needed. The complete construction is: 'mira [element 1] miro [element 2] [verb]'.",
+  "pillars": {
+    "peace-linguistics-practices": "The closing correlative completes a balanced structure of exclusion, ensuring both rejected elements are treated with equal clarity. Transparent rejection supports honest communication.",
+    "secular-buddhist-philosophy": "Clear boundaries, expressed without aggression, support the practice of right speech. The neither-nor construction allows firm exclusion without hostility."
+  }
+}

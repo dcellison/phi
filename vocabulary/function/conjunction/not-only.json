@@ -1,0 +1,20 @@
+{
+  "word": "whera",
+  "gloss": "NOTONLY",
+  "ipa": "/ˈʍe̞.ɾä/",
+  "syllables": [
+    "whe",
+    "ra"
+  ],
+  "pos": [
+    "conjunction"
+  ],
+  "concept": "Not only (opener) / Correlative expansive opener",
+  "description": "The opening member of the correlative pair 'whera...whero' (not only...but also). Announces that what follows is the first element in a construction that will expand beyond it. Signals to the listener that more is coming, that the initial element, however significant, is not the full picture.",
+  "sound_symbolism": "The voiceless labial-velar fricative 'wh' carries the breath of revelation and expansion, the whispered beginning of something larger unfolding. The 'e' opens forward in anticipation, while 'ra' provides momentum toward the expansion that 'whero' will deliver. The final 'a' marks this as the opener, creating expectation for its partner.",
+  "grammatical_notes": "Functions as the first member of the correlative conjunction pair 'whera...whero'. Appears before the first (already-known or expected) element. Must always be paired with 'whero' before the second (additional or surprising) element. Used when the speaker wants to emphasize that something goes beyond what might be expected. The complete construction is: 'whera [element 1] whero [element 2]'.",
+  "pillars": {
+    "peace-linguistics-practices": "The expansive correlative creates space for additive surprise without contradiction. Rather than negating what came before, it builds upon it, modeling the constructive dialogue practice of 'yes, and' rather than 'no, but'.",
+    "solarpunk-values": "The structure embodies abundance thinking: there is more here than first appears. It resists the scarcity mindset that assumes qualities or possibilities must be limited."
+  }
+}

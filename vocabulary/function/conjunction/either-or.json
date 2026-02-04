@@ -1,0 +1,20 @@
+{
+  "word": "sero",
+  "gloss": "OR.CORR",
+  "ipa": "/ˈse̞.ɾo̞/",
+  "syllables": [
+    "se",
+    "ro"
+  ],
+  "pos": [
+    "conjunction"
+  ],
+  "concept": "Or (correlative closer) / Completing the either-or pair",
+  "description": "The closing member of the correlative pair 'sera...sero' (either...or). Announces the second alternative in an emphatic choice construction. Completes the structure opened by 'sera', confirming that two distinct options have been fully presented.",
+  "sound_symbolism": "Shares the sibilant 's' onset with 'sera', binding the pair. The shift from 'a' to 'o' signals arrival at the second and final alternative. The rounded 'o' provides a sense of closure while maintaining the openness of genuine choice.",
+  "grammatical_notes": "Functions as the second member of the correlative conjunction pair 'sera...sero'. Appears before the second alternative. Must always be paired with a preceding 'sera'. The complete construction is: 'sera [alternative 1] sero [alternative 2]'.",
+  "pillars": {
+    "peace-linguistics-practices": "The closing correlative completes the balanced presentation of alternatives, ensuring both options receive equal structural attention. The listener encounters a fully formed choice rather than an afterthought.",
+    "solarpunk-values": "Clear presentation of alternatives supports collaborative decision-making, where all options are visible and equally accessible."
+  }
+}
