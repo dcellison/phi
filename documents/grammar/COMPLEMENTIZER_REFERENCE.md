@@ -139,7 +139,7 @@ The vocative is a separate part of speech for direct address, existing outside t
 **Function**: Announces that someone is being directly addressed
 **IPA**: /ko.na/
 **Position**: Before the name/title of the addressee, outside the main clause
-**Structure**: `kona [Name/Title], [Sentence]`
+**Structure**: `kona [ne] [Name/Title], [Sentence]`
 
 **Examples**:
 ```
@@ -147,16 +147,16 @@ kona melu, mia ha nai
 VOC friend, 1SG here be
 (Friend, I am here.)
 
-kona sa Thala, wa thia wela nai
-VOC HON.RESPECT Thala, Q 2SG well be
+kona ne sa thala, wa thia wela nai
+VOC NAME HON.RESPECT Thala, Q 2SG well be
 (Honored Thala, are you well?)
 
-kona ni Hino, mia thia lothea
-VOC HON.INTIM Hino, 1SG 2SG love
+kona ne ni hino, mia thia lothea
+VOC NAME HON.INTIM Hino, 1SG 2SG love
 (Dear Hino, I love you.)
 ```
 
-**Note**: The vocative phrase is extra-clausal—it frames who is being addressed but does not participate in the main clause's subject-object-verb structure.
+**Note**: The vocative phrase is extra-clausal—it frames who is being addressed but does not participate in the main clause's subject-object-verb structure. When addressing someone by name, the proper name particle `ne` precedes the name (and any honorific). When addressing by role or common noun (e.g., `melu`, "friend"), `ne` is not used.
 
 ---
 

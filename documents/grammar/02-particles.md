@@ -142,9 +142,13 @@ These particles announce specific modifications at the word level, always appear
 
 **Honorifics (Announcing Social Relationships):**
 Honorific particles announce the speaker's relationship to the person being named, appearing BEFORE the name. This announcement of social context demonstrates respect through transparency:
-- `sa` (HON.RESPECT): Marks respect for a mentor or elder. `sa Thala`
-- `ni` (HON.INTIM): Marks intimacy with a close friend or family. `ni Hino`
-- `le` (HON.ROLE): Marks respect for a community role. `le Mako`
+**Proper Name Marker:**
+- `ne` (NAME): Marks the following word as a proper name. Required when no honorific is present. `ne thanie`
+
+**Honorifics (follow `ne` when present):**
+- `sa` (HON.RESPECT): Marks respect for a mentor or elder. `ne sa thala`
+- `ni` (HON.INTIM): Marks intimacy with a close friend or family. `ne ni hino`
+- `le` (HON.ROLE): Marks respect for a community role. `ne le mako`
 
 ## 2.4. The Philosophy of Particle Precedence
 

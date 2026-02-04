@@ -95,30 +95,39 @@ The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "rea
 
 **Ha peloru ru phelora nai.** — This flower is very beautiful.
 
+## Proper names
+
+The particle `ne` marks the following word as a proper name, preventing it from being interpreted as vocabulary. This is required when no honorific is present:
+
+**ne thanie** — Thanie (a person's name)
+**mia ne thala nila.** — I see Thala.
+
+When an honorific is present, `ne` is optional since the honorific already signals that a name follows. When used, `ne` precedes the honorific.
+
 ## Honorifics
 
-Honorific particles appear before names, announcing the speaker's relationship to the person named.
+Honorific particles appear before names, announcing the speaker's relationship to the person named. They follow `ne` when present.
 
 ### sa: Respect
 
 The respect honorific *sa* marks esteem for a mentor, elder, or person of wisdom.
 
-**sa Thala** — Honored Thala  
-**Mia sa Lumira whaline.** — I thank Honored Lumira.
+**ne sa thala** — honored Thala
+**mia ne sa lumira whaline.** — i thank honored Lumira.
 
 ### ni: Intimacy
 
 The intimacy honorific *ni* marks closeness with a dear friend or family member.
 
-**ni Hino** — Dear Hino  
-**Ni Melu, kia!** — Dear Melu, hello!
+**ne ni hino** — dear Hino
+**kona ne ni melu. kia!** — dear Melu, hello!
 
 ### le: Role
 
 The role honorific *le* marks respect for someone's community function or position.
 
-**le Mako** — Respected Mako (in their role)  
-**Mia le Theala kofe wilao.** — I wish to help Respected Theala (the healer).
+**ne le mako** — respected Mako (in their role)
+**mia ne le theala naphe wilao.** — i wish to help respected Theala (the healer).
 
 ## Combining Slot 2 particles
 

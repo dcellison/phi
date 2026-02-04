@@ -362,35 +362,48 @@ DIST friend
 (that friend)
 ```
 
+### Proper Name Marker
+
+#### `ne` - Proper Name (NAME)
+**Function**: Announces that the following word is a proper name, not vocabulary
+**Position**: Before the name (and before any honorific)
+**Example**:
+```
+ne thanie
+NAME Thanie
+(Thanie [a person's name])
+```
+**Note**: Required when no honorific is present. Optional when an honorific already signals that a name follows. Also used with place names and other proper nouns.
+
 ### Honorifics
 
-These particles announce the speaker's social relationship to the person being named, appearing **before the name**.
+These particles announce the speaker's social relationship to the person being named, appearing **before the name** and after `ne` when present.
 
 #### `sa` - Respect Honorific (HON.RESPECT)
 **Function**: Announces respect for a mentor, elder, or person of authority
 **Example**:
 ```
-sa Thala
-HON.RESPECT Thala
-(Honored Thala / Esteemed Thala)
+ne sa thala
+NAME HON.RESPECT Thala
+(honored thala)
 ```
 
 #### `ni` - Intimacy Honorific (HON.INTIM)
 **Function**: Announces intimacy with a close friend or family member
 **Example**:
 ```
-ni Hino
-HON.INTIM Hino
-(Dear Hino / Beloved Hino)
+ne ni hino
+NAME HON.INTIM Hino
+(dear hino)
 ```
 
 #### `le` - Role Honorific (HON.ROLE)
 **Function**: Announces respect for a community role or function
 **Example**:
 ```
-le Mako
-HON.ROLE Mako
-(Respected Mako [in their role])
+ne le mako
+NAME HON.ROLE Mako
+(respected mako [in their role])
 ```
 
 ---
@@ -492,7 +505,7 @@ nai wiso lothea
 |------|----------|----------|
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu he`, `su`, `pi` |
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
-| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `sa`, `ni`, `le`, `ru` |
+| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru` |
 
 **Note**: Complementizers (`rena`, `shola`, `mena`, `wena`) and vocative (`kona`) are not particles—see `COMPLEMENTIZER_REFERENCE.md`.
 

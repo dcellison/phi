@@ -31,9 +31,9 @@ mia lo shiro lothea. shekoi mia ha serao shiro lothea
 ```
 
 ```
-lo miona haolu. shekoi sa Thala haolu
-PL person speak. SPEC HON.RESPECT Thala speak
-(the people speak. specifically honored Thala speaks.)
+lo miona haolu. shekoi ne sa thala haolu
+PL person speak. SPEC NAME HON.RESPECT Thala speak
+(the people speak. specifically honored thala speaks.)
 ```
 
 Where `phisu` (for example) introduces one case among many possible illustrations, `shekoi` zooms in on *the* case that matters. "For example" says "here's one instance." "Specifically" says "here's the one I mean."
