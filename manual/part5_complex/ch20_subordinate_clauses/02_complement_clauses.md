@@ -2,55 +2,43 @@
 
 A complement clause is a sentence that functions as the object of another verb. In English: "I know *that she left*." The italicized portion is a complete thought serving as the thing known.
 
-Phi uses two complementizers for this: `mena` for embedded statements and `wena` for embedded yes/no questions.
+Phi uses two complementizers for this: `mena`/`meno` for embedded statements and `wena` for embedded yes/no questions.
 
-## Embedded statements: `mena`
+## Embedded statements: `mena` / `meno`
 
-The declarative complementizer `mena` announces that what follows is a statement being treated as an object. It appears after the subject of the main clause and before the embedded content, with the main verb arriving last.
+The declarative complementizer `mena` announces that what follows is a statement being treated as an object. Its required closer `meno` marks where that embedded statement ends, so the main verb can follow without ambiguity. The pair works like spoken parentheses around the embedded thought.
 
 ```
-mia mena shia to wepu sano
-1SG DECL 3SG PST go know
+mia mena shia to wepu meno sano
+1SG DECL 3SG PST go DECL.CLOSE know
 (i know that they left.)
 ```
 
 ```
-mia mena sorae sulae nai phaelo
-1SG DECL sun warm be feel
+mia mena suno sulae nai meno phaelo
+1SG DECL sun warm be DECL.CLOSE feel
 (i feel that the sun is warm.)
 ```
 
 ```
-shia mena thia so kamo haolu
-3SG DECL 2SG FUT arrive speak
+shia mena thia so kamo meno haolu
+3SG DECL 2SG FUT arrive DECL.CLOSE speak
 (they say that you will arrive.)
 ```
 
-The structure is consistent: `mena` opens the embedded clause, the clause unfolds with its own subject, objects, and particles, and then the main verb closes everything.
+The structure is consistent: `mena` opens the embedded clause, the clause unfolds with its own subject, objects, and particles, `meno` closes it, and then the main verb arrives. Without `meno`, the boundary between the embedded verb and the main verb would be ambiguous; two verbs in a row with no marker between them.
 
 ### Nesting
 
-`mena` clauses can nest inside each other when one embedded thought contains another:
+`mena`/`meno` clauses can nest inside each other when one embedded thought contains another. Each `mena` requires its own `meno`, and they resolve from the inside out, like matched parentheses:
 
 ```
-mia mena thia mena shia to wepu phaelo sano
-1SG DECL 2SG DECL 3SG PST go feel know
+mia mena thia mena shia to wepu meno phaelo meno sano
+1SG DECL 2SG DECL 3SG PST go DECL.CLOSE feel DECL.CLOSE know
 (i know that you feel that they left.)
 ```
 
-Each `mena` opens a new layer. The verbs stack at the end, each closing its respective clause from the inside out. This can get dense, but the structure is always transparent: count the `mena` markers, count the verbs, and they match.
-
-### The optional closer: `meno`
-
-For longer or nested embeddings where clause boundaries get murky, the optional closer `meno` can mark where the embedded clause ends:
-
-```
-mia mena shia to shelira wepu nela to lumani naphe meno sano
-1SG DECL 3SG PST forest go COORD PST family help DECL.CLOSE know
-(i know that they went to the forest and helped the family.)
-```
-
-For simple embeddings, `mena` alone is sufficient. Use `meno` when clarity demands it.
+Count the `mena` markers, count the `meno` markers; they always match. The innermost `meno` closes the innermost `mena`, and each verb belongs to its own clause.
 
 ## Embedded questions: `wena`
 
