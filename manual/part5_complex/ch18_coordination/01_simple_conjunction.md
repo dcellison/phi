@@ -51,13 +51,13 @@ At the clause level, `nela` connects complete thoughts. Each clause keeps its ow
 ```
 mia theo nela thia sheluo
 1SG read COORD 2SG listen
-(i read and you listen.)
+(i read, and you listen.)
 ```
 
 ```
 sorae sulae nai nela howeli phaelu nai
 sun warm be COORD wind peaceful be
-(the sun is warm and the wind is peaceful.)
+(the sun is warm, and the wind is peaceful.)
 ```
 
 The conjunction itself marks the boundary between clauses. Because Phi is verb-final, the listener knows a clause has ended when the verb arrives; `nela` then announces that another clause follows. No additional punctuation is needed.
