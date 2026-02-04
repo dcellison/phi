@@ -59,7 +59,7 @@ BECAUSE rain PST be PL flower grow
 ```
 lao shia welao shomela lo lopia shonela
 BECAUSE 3SG good teach PL child learn
-(because ko teaches well the children learn.)
+(because they teach well the children learn.)
 ```
 
 ```
@@ -89,7 +89,7 @@ mia theo lila mia shonela
 ```
 shia haolu lila lo miona shelomui
 3SG speak PURP PL person understand
-(ko speaks in order for the people to understand.)
+(they speak in order for the people to understand.)
 ```
 
 ```

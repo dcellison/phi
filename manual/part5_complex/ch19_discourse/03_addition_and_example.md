@@ -21,7 +21,7 @@ mia shea phaelo. sheno mia lothea phaelo
 ```
 shia welao shomela. sheno shia thesua nai
 3SG good teach. ADD 3SG mindful be
-(ko teaches well. furthermore ko is mindful.)
+(they teach well. furthermore they are mindful.)
 ```
 
 Where `nela` (and) joins items as grammatical equals, `sheno` builds a rhetorical case. Each `sheno` sentence strengthens what came before, layering evidence or expanding a picture. The listener understands that the speaker is still building the same argument, not starting a new one.
@@ -45,7 +45,7 @@ mia lo shiro lothea. phisu mia ha whalo shiro lothea
 ```
 shia welao shomela. phisu shia lo lopia nua thalo
 3SG good teach. EXMP 3SG PL child COM walk
-(ko teaches well. for example ko walks with the children.)
+(they teach well. for example they walk with the children.)
 ```
 
 `phisu` moves from abstract to concrete. It tells the listener: "that general claim I just made? here's what it looks like in practice." This grounding function is particularly valuable in Phi, where philosophical concepts benefit from specific illustration.
@@ -57,8 +57,8 @@ Both follow a general statement, but they do different things with it:
 - `sheno` adds a *new point* that supports the same conclusion
 - `phisu` provides a *specific case* of the point already made
 
-After "ko teaches well":
-- `sheno shia thesua nai` — furthermore ko is mindful (a new supporting observation)
-- `phisu shia lo lopia nua thalo` — for example ko walks with the children (a concrete instance of teaching well)
+After "they teach well":
+- `sheno shia thesua nai` — furthermore they are mindful (a new supporting observation)
+- `phisu shia lo lopia nua thalo` — for example they walk with the children (a concrete instance of teaching well)
 
 The distinction is between widening the evidence and zooming into the detail.

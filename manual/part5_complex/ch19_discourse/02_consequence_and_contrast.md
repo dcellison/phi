@@ -21,7 +21,7 @@ mia to theo nela to shelomui. thelao mia so shomela
 ```
 shia ma to haolu. thelao lo miona ma to shelomui
 3SG NEG PST speak. CONS PL person NEG PST understand
-(ko did not speak. therefore the people did not understand.)
+(they did not speak. therefore the people did not understand.)
 ```
 
 `thelao` makes causal reasoning explicit. The speaker is claiming a logical connection between two thoughts, not just placing them next to each other. This transparency is the point: when you use `thelao`, you're accountable for the inference you're drawing.
@@ -45,7 +45,7 @@ mia to shonela. kewai mia shelomui ma nai
 ```
 lo miona haolu. kewai shia sheluo
 PL person speak. CONT 3SG listen
-(the people speak. however ko listens.)
+(the people speak. however they listen.)
 ```
 
 Where `thona` (but) contrasts elements within a single sentence, `kewai` contrasts entire lines of thought across sentences. It carries more weight, signaling a genuine shift in perspective rather than a local tension.

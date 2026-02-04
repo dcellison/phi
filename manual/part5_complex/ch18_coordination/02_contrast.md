@@ -57,7 +57,7 @@ sun warm be BUT wind cold be
 ```
 shia haolu thona lo miona ma sheluo
 3SG speak BUT PL person NEG listen
-(ko speaks, but the people do not listen.)
+(they speak, but the people do not listen.)
 ```
 
 In each case, `thona` creates space for complexity. It resists the pressure to reduce a situation to one side or the other, holding the tension so the listener can sit with it.

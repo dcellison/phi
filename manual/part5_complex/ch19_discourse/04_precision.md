@@ -15,7 +15,7 @@ tree PL water take. REPH tree grow
 ```
 shia ma haolu. shorela shia maeli nai
 3SG NEG speak. REPH 3SG quiet be
-(ko does not speak. in other words ko is quiet.)
+(they do not speak. in other words they are quiet.)
 ```
 
 `shorela` doesn't introduce new information. It offers a second path to the same meaning, acknowledging that understanding sometimes requires multiple approaches. This is particularly useful when a speaker senses that their first formulation didn't land, or when a concept is complex enough to benefit from being seen from two angles.

@@ -9,7 +9,7 @@ The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; 
 ```
 shia shola mia so wepu sholo shemui
 3SG QUOT 1SG FUT go QUOT.CLOSE utter
-(ko said "i will go.")
+(they said "i will go.")
 ```
 
 ```
@@ -24,7 +24,7 @@ mia shola mia thia lothea sholo shemui
 (i said "i love you.")
 ```
 
-Inside the quote, everything is preserved exactly as the original speaker said it. The pronouns don't shift: when ko quotes herself saying "i will go," `mia` remains `mia` because those were her words.
+Inside the quote, everything is preserved exactly as the original speaker said it. The pronouns don't shift: when the speaker quotes themselves saying "i will go," `mia` remains `mia` because those were her words.
 
 ## Indirect speech: `mena`
 
@@ -33,7 +33,7 @@ Indirect speech reports the content of what was said without preserving the exac
 ```
 shia mena shia so wepu shemui
 3SG DECL 3SG FUT go utter
-(ko said that ko would go.)
+(they said that they would go.)
 ```
 
 ```
@@ -57,7 +57,7 @@ Phi's evidential system adds another layer. Combining reported evidence (`ti`) w
 ```
 mia ti mena shia so wepu shemui
 1SG REP DECL 3SG FUT go utter
-(i'm told that ko said ko would go.)
+(i'm told that they said they would go.)
 ```
 
 Each layer of reporting is transparent. The listener knows exactly how many steps removed the information is from its source.

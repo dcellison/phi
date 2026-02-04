@@ -11,7 +11,7 @@ The declarative complementizer `mena` announces that what follows is a statement
 ```
 mia mena shia to wepu sano
 1SG DECL 3SG PST go know
-(i know that ko left.)
+(i know that they left.)
 ```
 
 ```
@@ -23,7 +23,7 @@ mia mena sorae sulae nai phaelo
 ```
 shia mena thia so kamo haolu
 3SG DECL 2SG FUT arrive speak
-(ko says that you will arrive.)
+(they say that you will arrive.)
 ```
 
 The structure is consistent: `mena` opens the embedded clause, the clause unfolds with its own subject, objects, and particles, and then the main verb closes everything.
@@ -35,7 +35,7 @@ The structure is consistent: `mena` opens the embedded clause, the clause unfold
 ```
 mia mena thia mena shia to wepu phaelo sano
 1SG DECL 2SG DECL 3SG PST go feel know
-(i know that you feel that ko left.)
+(i know that you feel that they left.)
 ```
 
 Each `mena` opens a new layer. The verbs stack at the end, each closing its respective clause from the inside out. This can get dense, but the structure is always transparent: count the `mena` markers, count the verbs, and they match.
@@ -47,7 +47,7 @@ For longer or nested embeddings where clause boundaries get murky, the optional 
 ```
 mia mena shia to shelira wepu nela to lumani naphe meno sano
 1SG DECL 3SG PST forest go COORD PST family help DECL.CLOSE know
-(i know that ko went to the forest and helped the family.)
+(i know that they went to the forest and helped the family.)
 ```
 
 For simple embeddings, `mena` alone is sufficient. Use `meno` when clarity demands it.
@@ -59,13 +59,13 @@ The interrogative complementizer `wena` embeds a yes/no question as the object o
 ```
 mia wena shia to wepu phaelo
 1SG INT.COMP 3SG PST go wonder
-(i wonder whether ko left.)
+(i wonder whether they left.)
 ```
 
 ```
 shia wena mia so kamo sano ma nai
 3SG INT.COMP 1SG FUT arrive know NEG be
-(ko does not know whether i will arrive.)
+(they do not know whether i will arrive.)
 ```
 
 ```
@@ -93,7 +93,7 @@ mia kua ne thala nai sano ma nai
 ```
 shia thela peloru thuroa shelomui
 3SG how flower grow understand
-(ko understands how the flowers grow.)
+(they understand how the flowers grow.)
 ```
 
 The interrogative pronoun occupies the position of the unknown element within the embedded clause. The main sentence remains a statement; only the embedded clause carries the question.

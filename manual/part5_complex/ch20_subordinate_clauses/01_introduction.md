@@ -15,10 +15,10 @@ The general pattern for adverbial clauses:
 ```
 lao shia to wepu mia phaelo
 BECAUSE 3SG PST go 1SG feel
-(because ko left i feel.)
+(because they left i feel.)
 ```
 
-The subordinator `lao` announces "here comes a reason." The reason unfolds (`shia to wepu`, "ko left"). Then the main clause delivers what that reason explains (`mia phaelo`, "i feel").
+The subordinator `lao` announces "here comes a reason." The reason unfolds (`shia to wepu`, "they left"). Then the main clause delivers what that reason explains (`mia phaelo`, "i feel").
 
 For complement clauses, the embedded clause serves as the object of a verb:
 
@@ -27,7 +27,7 @@ For complement clauses, the embedded clause serves as the object of a verb:
 ```
 mia mena shia to wepu sano
 1SG DECL 3SG PST go know
-(i know that ko left.)
+(i know that they left.)
 ```
 
 The complementizer `mena` announces "here comes an embedded statement," and the verb `sano` ("know") at the end tells you what the speaker is doing with that statement.

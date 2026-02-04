@@ -71,7 +71,7 @@ This pair signals expansion, that the first element is significant but the secon
 ```
 shia whera shaelo whero thesua nai
 3SG NOTONLY brave ALSO.CORR mindful be
-(ko is not only brave but also mindful.)
+(they are not only brave but also mindful.)
 ```
 
 ```
