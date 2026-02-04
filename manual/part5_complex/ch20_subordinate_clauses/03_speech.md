@@ -26,19 +26,19 @@ mia shola mia thia lothea sholo shemui
 
 Inside the quote, everything is preserved exactly as the original speaker said it. The pronouns don't shift: when the speaker quotes themselves saying "i will go," `mia` remains `mia` because those were her words.
 
-## Indirect speech: `mena`
+## Indirect speech: `mena...meno`
 
-Indirect speech reports the content of what was said without preserving the exact words. This uses the declarative complementizer `mena`, the same one used for all embedded statements:
+Indirect speech reports the content of what was said without preserving the exact words. This uses the declarative complementizer pair `mena...meno`, the same one used for all embedded statements:
 
 ```
-shia mena shia so wepu shemui
-3SG DECL 3SG FUT go utter
+shia mena shia so wepu meno shemui
+3SG DECL 3SG FUT go DECL.CLOSE utter
 (they said that they would go.)
 ```
 
 ```
-ne sa thala mena lo peloru thuroa shemui
-NAME HON.RESPECT Thala DECL PL flower grow utter
+ne sa thala mena lo peloru thuroa meno shemui
+NAME HON.RESPECT Thala DECL PL flower grow DECL.CLOSE utter
 (honored thala said that the flowers grow.)
 ```
 
@@ -46,17 +46,17 @@ Notice the difference: in indirect speech, the pronouns adjust to the current sp
 
 ## When to use which
 
-The choice between `shola...sholo` and `mena` isn't just grammatical; it reflects a philosophical stance toward someone's words.
+The choice between `shola...sholo` and `mena...meno` isn't just grammatical; it reflects a philosophical stance toward someone's words.
 
 Direct speech with `shola...sholo` says: "these are the exact words. I'm carrying them faithfully." It preserves the original speaker's voice, perspective, and phrasing. Use it when precision matters, when you want to honor exactly what was said.
 
-Indirect speech with `mena` says: "this is the gist." It filters through the reporter's perspective, adjusting pronouns and potentially condensing. Use it when the content matters more than the exact formulation.
+Indirect speech with `mena...meno` says: "this is the gist." It filters through the reporter's perspective, adjusting pronouns and potentially condensing. Use it when the content matters more than the exact formulation.
 
 Phi's evidential system adds another layer. Combining reported evidence (`ti`) with indirect speech signals that the speaker is passing along information at a further remove:
 
 ```
-mia ti mena shia so wepu shemui
-1SG REP DECL 3SG FUT go utter
+mia ti mena shia so wepu meno shemui
+1SG REP DECL 3SG FUT go DECL.CLOSE utter
 (i'm told that they said they would go.)
 ```
 
