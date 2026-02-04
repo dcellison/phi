@@ -1,33 +1,13 @@
 # Respect without hierarchy
 
-## The politeness paradox
+Most languages encode politeness through elaborate status markers. Japanese has multiple speech levels determined by relative social position. Korean verb endings shift depending on whether you're addressing a superior, equal, or subordinate. Even English speakers unconsciously adjust register based on perceived authority.
 
-Traditional politeness systems often create a paradox: the more elaborate the expressions of respect become, the more they reinforce rigid social hierarchies. Complex honorific systems require speakers to constantly calculate relative status. Intricate patterns of deference assume fixed relationships of authority and submission.
+These systems serve real functions: acknowledging relationships, showing consideration, maintaining social cohesion. But they can also trap speakers in inherited patterns of inequality, requiring constant calculation of who outranks whom.
 
-These systems serve real functions, acknowledging relationships, showing consideration, maintaining social order. But they can also trap speakers in inherited patterns of inequality, making it difficult to form relationships based on mutual respect.
+Phi takes a different approach. The politeness particle `pi` signals respectful attention without encoding relative status. Anyone can use it with anyone, because genuine respect doesn't depend on who holds more power. A child speaking to an elder uses the same `pi` as an elder speaking to a child.
 
-## The foundation of attention
+This creates what we might call democratic politeness. The honorific particles `sa`, `ni`, and `le` still allow speakers to mark special regard, but they express appreciation rather than obligation. You honor someone because you choose to, not because grammar forces you to acknowledge their rank.
 
-Phi starts from a simple recognition: at the heart of all genuine politeness lies the quality of attention, the willingness to notice and care about the experience of others.
+The request particle `no` reflects the same philosophy. Combined with `pi`, the form `pi no...` makes polite invitation the path of least resistance. Demanding is grammatically harder than asking. Coordination through mutual agreement becomes the default, because the language makes it the simplest option.
 
-The core politeness particle `pi` embodies this. Rather than marking specific hierarchical relationships, `pi` signals respectful attention. It can be used by anyone to anyone, regardless of age, status, or social position, because respectful attention doesn't depend on relative positioning.
-
-This creates democratic politeness: forms of respect that enhance rather than complicate human relationships.
-
-## Requests as invitations
-
-How a language handles requests and commands reveals its social philosophy. Some languages make commands grammatically simple and requests complex, reflecting assumptions about authority.
-
-Phi makes polite requests grammatically simpler than direct commands. The request particle `no` is shorter and more natural than constructions required for direct commands. Combined with `pi`, the standard form `pi no...` ("please, would you consider...") becomes the most natural way to ask someone to do something.
-
-Invitation is easier than compulsion. Coordination through mutual agreement is the default.
-
-## Evidentiality as epistemic humility
-
-Phi's evidential system also serves social functions. By requiring speakers to distinguish between direct experience (`hi`), logical inference (`ke`), and received information (`ti`), the system creates constant opportunities for intellectual humility.
-
-It reduces the tendency toward dogmatic assertion, encourages curiosity about others' perspectives, and creates conversational space for multiple viewpoints to coexist.
-
-## Respect as practice
-
-What emerges is respect that emphasizes authentic attention over performative display. Genuine consideration over social calculation. The deepest forms of respect often lie not in what we say but in how we listen, not in the complexity of our expressions but in the quality of our attention.
+Phi's evidential system reinforces this. When speakers must distinguish between what they witnessed (`hi`), what they inferred (`ke`), and what they heard secondhand (`ti`), dogmatic assertion becomes structurally awkward. Intellectual humility gets built into the conversation, creating space for multiple viewpoints without anyone needing to dominate.

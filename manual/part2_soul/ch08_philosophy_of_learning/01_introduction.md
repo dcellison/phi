@@ -1,21 +1,9 @@
 # The philosophy of learning
 
-## Learning as journey
+Learning a language is usually framed as acquisition: accumulate vocabulary, internalize rules, practice until fluent. This model treats knowledge as inventory. The more items you stock, the more competent you become.
 
-### Beyond acquisition
+Phi invites a different framing. Learning this language changes how you think, not just what you can say. Every grammatical structure is an exercise in a specific cognitive habit: evidentials practice epistemic humility, SOV order practices contextual awareness, compositional vocabulary practices seeing relationships between ideas. The grammar doesn't just encode philosophy; studying it cultivates the qualities that philosophy describes.
 
-In a culture of instant gratification, learning is often treated as acquisition: accumulation of information, skills, and credentials obtained, possessed, and deployed for personal advantage. This approach treats knowledge as a commodity, education as a transaction, and the learner as a consumer.
+This makes Phi something closer to a contemplative discipline than a conventional language course. The goal isn't to possess Phi as a skill but to let the process of learning it develop capacities, patience, precision, curiosity, attentive listening, that extend well beyond the language itself.
 
-Yet anyone who has experienced genuine learning, the kind that changes not just what we know but who we are, recognizes that this model misses something essential. Authentic learning is transformation, not accumulation.
-
-### Contemplative learning
-
-Phi invites a different approach, one that recognizes education as journey rather than transaction. In this view, learning isn't something we do to acquire external advantages but something we engage in for its own value, because growth and understanding are inherently meaningful activities.
-
-The goal is not to become someone who possesses certain knowledge but to become someone who embodies certain qualities: patience, curiosity, humility, precision, and the capacity for ongoing learning throughout life.
-
-### Language as teacher
-
-Phi itself becomes an active teacher: a curriculum in the development of consciousness using language learning to cultivate broader capacities. Every grammatical structure becomes an opportunity to practice patience and precision. Every new vocabulary item becomes a meditation on meaning and connection. Every conversation becomes a training ground for mindful communication.
-
-This transforms language study from external obligation to engaging exploration. The student becomes an active participant in their own transformation.
+That said, it's still a language. You still need to learn the sounds, memorize words, practice sentences, and make embarrassing mistakes. The contemplative dimension doesn't replace the practical work; it transforms the quality of attention you bring to it.

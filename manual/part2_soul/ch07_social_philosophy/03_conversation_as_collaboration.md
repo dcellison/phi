@@ -1,25 +1,9 @@
 # Conversation as collaboration
 
-## Beyond the combat metaphor
+English is saturated with combat metaphors for dialogue. We "attack" ideas, "defend" positions, "demolish" arguments, "defeat" opponents. We speak of "winning" debates as though understanding were a zero-sum game. These metaphors shape how speakers approach disagreement: as a contest where someone must prevail.
 
-In many cultures, conversation is unconsciously structured as combat. We "attack" ideas, "defend" positions, "demolish" arguments, and "defeat" opponents. We speak of "winning" debates and "losing" discussions. The combat metaphor encourages speakers to view conversation as a contest where someone must prevail and someone must be defeated. It creates pressure to defend rather than explore, to attack rather than understand.
+Phi's conversational structures assume a different model. Head-final grammar means listeners actively construct meaning alongside the speaker, processing context before encountering the verb that ties everything together. The evidential system encourages speakers to acknowledge the limits of their own knowledge, which opens genuine space for others to contribute. The request-centered approach emphasizes invitation over assertion.
 
-## The architecture of collaborative dialogue
+None of this prevents disagreement. Phi speakers can and should challenge ideas. The difference is structural: the language makes it easier to say "here's what I've observed" (`hi`) or "here's what I've reasoned" (`ke`) than to make unqualified declarations. Curiosity and provisional understanding are grammatically simpler than dogmatic certainty.
 
-Phi's conversational structures are designed around a different metaphor: conversation as collaborative creation. Multiple perspectives contribute to emerging understanding that none of the participants could have achieved alone.
-
-This shift is reflected in numerous features. Head-final grammar creates opportunities for listeners to participate actively in meaning-construction. The evidential system encourages speakers to acknowledge the partial nature of their own knowledge, creating space for others' contributions. The request-centered approach emphasizes invitation over domination.
-
-## The practice of intellectual generosity
-
-Collaborative conversation requires intellectual generosity: the willingness to assume that others are contributing something valuable even when their contributions don't immediately make sense. This is different from intellectual agreement, and different from intellectual passivity.
-
-Intellectual generosity means approaching others' ideas with curiosity about what they might be seeing that we are not. It means asking questions to genuinely understand, not to trap or expose. It means offering responses to build upon, not to defeat.
-
-Phi's structures support this by making it easier to express uncertainty, curiosity, and provisional understanding than to express dogmatic certainty.
-
-## Emergence through dialogue
-
-When conversation operates as collaboration rather than contest, something becomes possible: understanding that transcends what any individual participant brought to the dialogue. This isn't compromise, where everyone gives something up. It's genuine synthesis, where everyone gains something that wasn't available before.
-
-Such emergence can't be forced, but it can be invited through conversational structures that encourage curiosity and intellectual humility. Phi's features are designed to make those conditions more natural.
+When conversation operates this way, something interesting happens. Understanding can emerge that none of the participants brought to the table individually. This isn't compromise, where everyone sacrifices something. It's synthesis, where the collision of perspectives generates insight that wasn't available before. Phi can't force that outcome, but its structures make the conditions for it more natural.
