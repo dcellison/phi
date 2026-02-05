@@ -129,7 +129,7 @@
 #### Relative clauses with complementizers
 - Relative clauses containing `mena`/`meno`
 - Relative clauses containing `shola`/`sholo`
-- Relative clauses containing `wena`
+- Relative clauses containing `wela`/`welo`
 
 #### Interaction with topic-drop
 - Establishing referents with relatives
@@ -219,7 +219,7 @@
 
 This could be the first in a series:
 1. **Relative Clauses** (this pamphlet)
-2. **Complementizers and Embedded Clauses** (`mena`/`meno`, `shola`/`sholo`, `wena`)
+2. **Complementizers and Embedded Clauses** (`mena`/`meno`, `shola`/`sholo`, `wela`/`welo`)
 3. **The Particle System** (deep dive on all three slots)
 4. **Sound Symbolism in Phi** (how to feel the meanings)
 5. **Discourse and Flow** (topic-drop, discourse markers, paragraph-level coherence)

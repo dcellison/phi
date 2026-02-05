@@ -20,7 +20,7 @@ In linguistic glosses, `rena` is abbreviated as **REL** (relativizer). It belong
 
 - `mena` (DECL) — introduces embedded statements
 - `shola` (QUOT) — introduces direct quotation
-- `wena` (INT.COMP) — introduces embedded questions
+- `wela`/`welo` (INT.COMP) — introduces embedded questions
 
 All complementizers announce what kind of clause is coming. `rena` specifically announces: "a descriptive clause follows; wait for the noun to learn what it describes."
 

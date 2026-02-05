@@ -2,7 +2,7 @@
 
 A complement clause is a sentence that functions as the object of another verb. In English: "I know *that she left*." The italicized portion is a complete thought serving as the thing known.
 
-Phi uses two complementizers for this: `mena`/`meno` for embedded statements and `wena` for embedded yes/no questions.
+Phi uses two complementizer pairs for this: `mena`/`meno` for embedded statements and `wela`/`welo` for embedded yes/no questions.
 
 ## Embedded statements: `mena` / `meno`
 
@@ -40,31 +40,31 @@ mia mena thia mena shia to wepu meno phaelo meno sano
 
 Count the `mena` markers, count the `meno` markers; they always match. The innermost `meno` closes the innermost `mena`, and each verb belongs to its own clause.
 
-## Embedded questions: `wena`
+## Embedded questions: `wela` / `welo`
 
-The interrogative complementizer `wena` embeds a yes/no question as the object of a verb. Where `mena` says "here comes a statement," `wena` says "here comes an uncertainty."
+The interrogative complementizer pair `wela`/`welo` embeds a yes/no question as the object of a verb. Where `mena` says "here comes a statement," `wela` says "here comes an uncertainty." The closer `welo` marks where the question ends, just as `meno` closes declarative embeddings.
 
 ```
-mia wena shia to wepu phaelo
-1SG INT.COMP 3SG PST go wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 (i wonder whether they left.)
 ```
 
 ```
-shia wena mia so kamo sano ma nai
-3SG INT.COMP 1SG FUT arrive know NEG be
+shia wela mia so kamo welo sano ma nai
+3SG INT.COMP 1SG FUT arrive INT.COMP.CLOSE know NEG be
 (they do not know whether i will arrive.)
 ```
 
 ```
-mia wena sorae sulae nai nila
-1SG INT.COMP sun warm be see
+mia wela suno sulae nai welo nila
+1SG INT.COMP sun warm be INT.COMP.CLOSE see
 (i see whether the sun is warm.)
 ```
 
 ### Embedded content questions
 
-When the embedded question involves an interrogative pronoun (`sua`, `hina`, `kua`, etc.), the pronoun itself signals that the clause is a question. No `wena` is needed:
+When the embedded question involves an interrogative pronoun (`sua`, `hina`, `kua`, etc.), the pronoun itself signals that the clause is a question. No `wela`/`welo` is needed:
 
 ```
 mia sua to wepu sano

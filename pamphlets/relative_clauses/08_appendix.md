@@ -84,7 +84,7 @@ lothea shelomui phue nai
 
 ## Glossary
 
-**Complementizer:** A function word that introduces a subordinate clause. In Phi: `rena`, `mena`, `shola`, `wena`.
+**Complementizer:** A function word that introduces a subordinate clause. In Phi: `rena`, `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`.
 
 **Gap:** The empty position inside a relative clause where the head noun would appear if it were a normal sentence.
 
@@ -153,7 +153,7 @@ This pamphlet expands on **Chapter 21: Relative Clauses** in the Phi manual.
 Related chapters:
 - **Chapter 11: The Particle System** — how particles work in relative clauses
 - **Chapter 14: Pronouns** — topic-drop and when subjects can be omitted
-- **Chapter 20: Subordinate Clauses** — complementizers `mena`, `shola`, `wena`
+- **Chapter 20: Subordinate Clauses** — complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
 
 Related grammar documents:
 - `COMPLEMENTIZER_REFERENCE.md` — full reference for all complementizers including `rena`

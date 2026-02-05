@@ -100,39 +100,39 @@ mia mena thia mena shia wepu meno phaelo meno shelomui
 
 ---
 
-### `wena` - Interrogative Complementizer (INT.COMP)
+### `wela` / `welo` - Interrogative Complementizer (INT.COMP / INT.COMP.CLOSE)
 
-**Function**: Introduces embedded yes/no questions
-**IPA**: /we.na/
-**Position**: After the subject, before the embedded question. The main verb follows the embedded clause.
-**Structure**: `[Subject] wena [Embedded yes/no question] [Main verb]`
+**Function**: Introduces and closes embedded yes/no questions
+**IPA**: /we.la/ and /we.lo/
+**Position**: `wela` opens the embedded question; `welo` closes it. The main verb follows `welo`.
+**Structure**: `[Subject] wela [Embedded yes/no question] welo [Main verb]`
 
-**No closer needed.** Unlike `mena`/`meno` and `shola`/`sholo`, embedded questions are structurally bounded: the embedded clause's own verb marks its end, and the main verb's semantic role (wondering, asking, knowing) is distinct enough to resolve the boundary. All `we_V` syllable combinations are taken in the vocabulary, so no closer was available.
+**`welo` is required.** Like `mena`/`meno` and `shola`/`sholo`, the closer marks where the embedded clause ends so the main verb can follow without ambiguity.
 
 **Examples**:
 ```
-mia wena shia wepu phaelo
-1SG INT.COMP 3SG leave wonder
+mia wela shia wepu welo phaelo
+1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
 (I wonder whether ko left.)
 
-shia wena mia to nila nomei
-3SG INT.COMP 1SG PST see ask
+shia wela mia to nila welo nomei
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE ask
 (She asked whether I had seen.)
 
-lo mia wena suno phelora nai ma shelomui
-1PL INT.COMP sun beautiful be NEG understand
+lo mia wela suno phelora nai welo ma shelomui
+1PL INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 (We don't know whether the sun is beautiful.)
 ```
 
 **Distinction from related words**:
 - `wa` (question particle): Marks direct questions expecting response
 - `thoe` (conditional conjunction): Marks hypothetical conditions with consequences
-- `wena` (interrogative complementizer): Embeds questions as content
+- `wela`/`welo` (interrogative complementizer pair): Embeds questions as content
 
 **Comparison**:
 - `wa thia wepu` = Are you leaving? (direct question)
 - `thoe thia wepu. mia sola nai` = If you leave, I'll be alone. (conditional)
-- `mia wena thia wepu phaelo` = I wonder whether you're leaving. (embedded question)
+- `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. (embedded question)
 
 ---
 
@@ -175,7 +175,8 @@ VOC NAME HON.INTIM Hino, 1SG 2SG love
 | `sholo` | QUOT.CLOSE | Closes direct quotation | — |
 | `mena` | DECL | Opens embedded statements (reported content) | `meno` (required) |
 | `meno` | DECL.CLOSE | Closes embedded statements | — |
-| `wena` | INT.COMP | Introduces embedded yes/no questions | — (structurally bounded) |
+| `wela` | INT.COMP | Opens embedded yes/no questions | `welo` (required) |
+| `welo` | INT.COMP.CLOSE | Closes embedded yes/no questions | — |
 | `kona` | VOC | Marks direct address | — (extra-clausal) |
 
 ---

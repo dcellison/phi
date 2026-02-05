@@ -178,7 +178,7 @@
 1. Introduction: Sentences Within Sentences
 2. Complement Clauses — Thoughts as Objects
 3. Reported Speech with 'shola'
-4. Indirect Questions with 'wena'
+4. Indirect Questions with 'wela'/'welo'
 5. Adverbial Clauses — Time, Purpose, Concession
 
 ### Chapter 21: Relative Clauses

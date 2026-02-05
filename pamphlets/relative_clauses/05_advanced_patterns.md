@@ -80,7 +80,7 @@ person be. this person story create. 1SG REL this person PST create story love.
 
 ## Relative clauses with complementizers
 
-Relative clauses can contain embedded statements (`mena`/`meno`), quotations (`shola`/`sholo`), or embedded questions (`wena`).
+Relative clauses can contain embedded statements (`mena`/`meno`), quotations (`shola`/`sholo`), or embedded questions (`wela`/`welo`).
 
 ### Containing `mena`/`meno`
 
@@ -115,15 +115,15 @@ REL QUOT 1SG FUT arrive QUOT.CLOSE PST speak person 1SG friend be
 
 The quotation sits inside the relative clause. The quoted words are preserved exactly.
 
-### Containing `wena`
+### Containing `wela`/`welo`
 
 ```
-rena wena shia so shua ma sano miona pheralu nai
-REL INT.COMP 3SG FUT arrive NEG know person think be
+rena wela shia so shua welo ma sano miona pheralu nai
+REL INT.COMP 3SG FUT arrive INT.COMP.CLOSE NEG know person think be
 (the person who doesn't know whether they will arrive is thoughtful.)
 ```
 
-The embedded question `wena shia so shua` is the object of `sano` inside the relative clause.
+The embedded question `wela shia so shua welo` is the object of `sano` inside the relative clause.
 
 ## Interaction with topic-drop
 

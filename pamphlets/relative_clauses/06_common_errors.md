@@ -90,7 +90,7 @@ REL 1SG PST read book
 
 The noun itself closes the clause.
 
-**Practice tip:** Only `mena`, `shola`, and correlatives have closers. `rena` and `wena` don't. When you reach the noun, the relative clause is done.
+**Practice tip:** Only `rena` lacks a closer among complementizers; `mena`/`meno`, `shola`/`sholo`, and `wela`/`welo` all have closers. For relative clauses, when you reach the noun, the clause is done.
 
 ### Error 5: Wrong gap position
 
