@@ -1,0 +1,226 @@
+# Appendix: Quick Reference
+
+## The Three Complementizer Pairs
+
+| Type | Opener | Closer | Gloss | Function |
+|------|--------|--------|-------|----------|
+| Declarative | `mena` | `meno` | DECL / DECL.CLOSE | Embeds statements (that...) |
+| Interrogative | `wela` | `welo` | INT.COMP / INT.COMP.CLOSE | Embeds questions (whether...) |
+| Quotative | `shola` | `sholo` | QUOT / QUOT.CLOSE | Preserves exact words ("...") |
+
+## The Relativizer
+
+| Word | Gloss | Function | Closer |
+|------|-------|----------|--------|
+| `rena` | REL | Introduces relative clauses | None (noun closes it) |
+
+---
+
+## Basic Structures
+
+### Declarative embedding
+
+```
+[Subject] mena [Embedded statement] meno [Main verb]
+```
+
+> **mia mena shia wepu meno shelomui**
+> 1SG DECL 3SG leave DECL.CLOSE understand
+> I understand that ko left.
+
+### Interrogative embedding
+
+```
+[Subject] wela [Embedded question] welo [Main verb]
+```
+
+> **mia wela shia wepu welo phaelo**
+> 1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+> I wonder whether ko left.
+
+### Quotative embedding
+
+```
+[Subject] shola [Quoted material] sholo [Verb of speaking]
+```
+
+> **shia shola mia wepu sholo haolu**
+> 3SG QUOT 1SG leave QUOT.CLOSE say
+> Ko said: "I am leaving."
+
+### Relative clause
+
+```
+[rena CLAUSE] NOUN
+```
+
+> **rena nophi kealo miona**
+> REL story create person
+> the person who creates stories
+
+---
+
+## Key Distinctions
+
+### `mena`/`meno` vs. `shola`/`sholo`
+
+| Feature | `mena`/`meno` (Declarative) | `shola`/`sholo` (Quotative) |
+|---------|-----------------------------|-----------------------------|
+| What it does | Reports content/meaning | Preserves exact words |
+| Pronoun behavior | Shifts to reporter's perspective | Stays as originally spoken |
+| Use when | Paraphrasing, summarizing | Exact wording matters |
+
+**Example contrast:**
+- `shia mena shia wepu meno haolu` = Ko said that ko was leaving.
+- `shia shola mia wepu sholo haolu` = Ko said: "I am leaving."
+
+### `wela`/`welo` vs. `wa` vs. `thoe`
+
+| Word | Function | Example |
+|------|----------|---------|
+| `wa` | Direct question (expects answer) | `wa thia wepu` = Are you leaving? |
+| `wela`/`welo` | Embedded question (content of wondering) | `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. |
+| `thoe` | Conditional (if-then) | `thoe thia wepu. mia sola nai` = If you leave, I'll be alone. |
+
+---
+
+## Nesting Rules
+
+1. **Each opener requires its own closer**
+   - Every `mena` needs one `meno`
+   - Every `wela` needs one `welo`
+   - Every `shola` needs one `sholo`
+
+2. **Closers match in reverse order**
+   - Last opened = first closed
+   - Like parentheses: `( [ ] )` not `( [ ) ]`
+
+3. **Types close their own type**
+   - `mena` closes with `meno` (not `welo` or `sholo`)
+
+**Nested example:**
+```
+mia mena thia wela shia wepu welo phaelo meno shelomui
+    └─────────────────────────────────────────┘
+              └───────────────────┘
+```
+
+---
+
+## Common Verbs with Complementizers
+
+### With `mena`/`meno` (statements)
+
+| Verb | Meaning | Example translation |
+|------|---------|---------------------|
+| `sano` | know | I know that... |
+| `nohero` | believe | I believe that... |
+| `phaelo` | feel | I feel that... |
+| `remo` | think | I think that... |
+| `shelomui` | understand | I understand that... |
+| `nila` | see (perceive) | I see that... |
+| `hea` | hear | I hear that... |
+| `haolu` | say | Ko said that... |
+
+### With `wela`/`welo` (questions)
+
+| Verb | Meaning | Example translation |
+|------|---------|---------------------|
+| `phaelo` | wonder | I wonder whether... |
+| `thilou` | ask | Ko asked whether... |
+| `sano` | know | I know whether... |
+| `ma sano` | not know | I don't know whether... |
+
+### With `shola`/`sholo` (quotations)
+
+| Verb | Meaning | Example translation |
+|------|---------|---------------------|
+| `haolu` | say | Ko said: "..." |
+| `thilou` | ask | Ko asked: "...?" |
+
+---
+
+## The `-a`/`-o` Pattern
+
+Phi uses a consistent vowel pattern:
+
+- **`-a` endings open** (men**a**, wel**a**, shol**a**, ren**a**)
+- **`-o` endings close** (men**o**, wel**o**, shol**o**)
+
+This extends to correlative conjunctions:
+- `lera`/`lero` (both...and)
+- `sera`/`sero` (either...or)
+- `mira`/`miro` (neither...nor)
+
+**Learn once, apply everywhere.**
+
+---
+
+## Checklist for Correct Sentences
+
+Before finalizing an embedded clause:
+
+- [ ] Opener present (`mena`, `wela`, `shola`, or `rena`)
+- [ ] Closer present if required (`meno`, `welo`, `sholo`)
+- [ ] Closer positioned correctly (after embedded verb, before main verb)
+- [ ] No closer after `rena` (noun closes it)
+- [ ] Embedded clause has complete structure (subject, verb)
+- [ ] Nesting order correct (closers match openers in reverse)
+- [ ] Correct complementizer type for meaning
+
+---
+
+## Quick Phonetic Reference
+
+| Word | IPA | Sound symbolism |
+|------|-----|-----------------|
+| `mena` | /ˈme̞.n̪ä/ | Nasal resonance; inner knowing |
+| `meno` | /ˈme̞.n̪o̞/ | Same root; rounded closure |
+| `wela` | /ˈwe̞.lä/ | Reaching glide; wondering |
+| `welo` | /ˈwe̞.lo̞/ | Same root; resolved |
+| `shola` | /ˈʃo̞.lä/ | Whisper-like; carrying speech |
+| `sholo` | /ˈʃo̞.lo̞/ | Same root; speech complete |
+| `rena` | /ˈre̞.n̪ä/ | Rolling connection; relating |
+
+---
+
+## Glossary
+
+**Closer**: The second element of a complementizer pair that marks where embedded content ends. (`meno`, `welo`, `sholo`)
+
+**Complementizer**: A function word that introduces a subordinate clause, marking its type and relationship to the main clause.
+
+**Content reporting**: Conveying the meaning of what someone said, with pronouns shifted to the reporter's perspective. Uses `mena`/`meno`.
+
+**Declarative**: A statement; a clause that asserts something is true or false.
+
+**Embedded clause**: A clause that functions inside another clause, typically as subject or object.
+
+**Head noun**: In a relative clause, the noun being modified by the clause.
+
+**Interrogative**: A question; a clause that asks about uncertainty.
+
+**Nesting**: Placing one embedded clause inside another.
+
+**Opener**: The first element of a complementizer pair that marks where embedded content begins. (`mena`, `wela`, `shola`)
+
+**Quotative**: Exact quotation; preserving someone's words verbatim. Uses `shola`/`sholo`.
+
+**Relative clause**: A clause that modifies a noun, describing it by what it does or experiences.
+
+**Relativizer**: The word that introduces a relative clause. (`rena`)
+
+**SOV**: Subject-Object-Verb word order, where the verb comes at the end of the clause.
+
+---
+
+## Further Study
+
+- **Chapter 20** of the manual: Subordinate Clauses
+- **Chapter 21** of the manual: Relative Clauses
+- **Relative Clauses Pamphlet**: Comprehensive guide to `rena`
+- **COMPLEMENTIZER_REFERENCE.md**: Technical grammar reference
+
+---
+
+*End of pamphlet*
