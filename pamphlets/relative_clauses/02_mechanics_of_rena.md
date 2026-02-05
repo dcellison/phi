@@ -18,8 +18,8 @@ Speaking `rena` feels like opening a descriptive space: the rolling `r` reaches 
 
 In linguistic glosses, `rena` is abbreviated as **REL** (relativizer). It belongs to the complementizer category alongside:
 
-- `mena` (DECL) — introduces embedded statements
-- `shola` (QUOT) — introduces direct quotation
+- `mena`/`meno` (DECL) — introduces embedded statements
+- `shola`/`sholo` (QUOT) — introduces direct quotation
 - `wela`/`welo` (INT.COMP) — introduces embedded questions
 
 All complementizers announce what kind of clause is coming. `rena` specifically announces: "a descriptive clause follows; wait for the noun to learn what it describes."
