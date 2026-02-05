@@ -154,22 +154,22 @@ REL [gap] beautiful be flower grow
 When the head noun is the object of the relative clause's action:
 
 ```
-mia rena mia to ___ nila shelu lothea
-1SG REL 1SG PST [gap] see book love
+mia rena mia ___ to nila shelu lothea
+1SG REL 1SG [gap] PST see book love
 (i love the book that i saw.)
 ```
 
 Analysis:
-- The gap is in object position (after subject, before verb)
+- The gap is in object position (after subject, before tense+verb)
 - The book is what was seen
 - If this were a standalone sentence: "mia shelu to nila" (i saw a book)
-- In the relative clause, `shelu` moves to the end, leaving a gap
+- In the relative clause, `shelu` moves to the end, leaving a gap where the object was
 
 More examples:
 
 ```
-rena thia to ___ kealo nophi phelora nai
-REL 2SG PST [gap] create story beautiful be
+rena thia ___ to kealo nophi phelora nai
+REL 2SG [gap] PST create story beautiful be
 (the story that you created is beautiful.)
 ```
 
@@ -184,21 +184,21 @@ mia rena shia ___ shomela lopia sano
 When the head noun is part of a prepositional phrase inside the relative clause:
 
 ```
-rena mia ___ mua to thalo shelira phelora nai
-REL 1SG [gap] LOC PST walk forest beautiful be
+rena mia mua ___ to thalo shelira phelora nai
+REL 1SG LOC [gap] PST walk forest beautiful be
 (the forest that i walked in is beautiful.)
 ```
 
 Analysis:
-- The gap is in the locative phrase (where the noun would follow `mua`)
+- The gap is inside the locative phrase, where the object of `mua` would be
 - The forest is where the walking happened
 - The preposition `mua` (in/at) remains; its object is gapped
 
 More examples:
 
 ```
-rena shia ___ wei to haolu miona ha nai
-REL 3SG [gap] to PST speak person here be
+rena shia wei ___ to haolu miona ha nai
+REL 3SG to [gap] PST speak person here be
 (the person whom they spoke to is here.)
 ```
 
