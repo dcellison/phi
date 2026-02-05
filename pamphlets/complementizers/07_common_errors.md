@@ -7,13 +7,17 @@ Learners coming from English face predictable challenges with Phi's complementiz
 **The problem:** English often drops "that" and never requires a closer. Learners carry this habit into Phi.
 
 **Wrong:**
-> *mia mena shia wepu shelomui
-> 1SG DECL 3SG leave understand
+```
+*mia mena shia wepu shelomui
+1SG DECL 3SG leave understand
+```
 
 **Right:**
-> **mia mena shia wepu meno shelomui**
-> 1SG DECL 3SG leave DECL.CLOSE understand
-> I understand that ko left.
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 **Why it matters:** Without `meno`, the listener cannot know where the embedded clause ends. Is `wepu shelomui` a compound verb? Does `shelomui` belong to the embedded clause or the main clause?
 
@@ -27,12 +31,17 @@ Learners coming from English face predictable challenges with Phi's complementiz
 **The problem:** The closer must immediately follow the last word of the embedded clause, before the main verb.
 
 **Wrong:**
-> *mia mena shia wepu shelomui meno
-> 1SG DECL 3SG leave understand DECL.CLOSE
+```
+*mia mena shia wepu shelomui meno
+1SG DECL 3SG leave understand DECL.CLOSE
+```
 
 **Right:**
-> **mia mena shia wepu meno shelomui**
-> 1SG DECL 3SG leave DECL.CLOSE understand
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 **Why it matters:** The closer marks the boundary. If it comes after the main verb, the structure is unparseable.
 
@@ -46,13 +55,17 @@ Learners coming from English face predictable challenges with Phi's complementiz
 **The problem:** Learners who have learned that complementizers need closers may add one after `rena`.
 
 **Wrong:**
-> *rena nophi kealo reno miona
-> REL story create ??? person
+```
+*rena nophi kealo reno miona
+REL story create ??? person
+```
 
 **Right:**
-> **rena nophi kealo miona**
-> REL story create person
-> the person who creates stories
+```
+rena nophi kealo miona
+REL story create person
+(the person who creates stories)
+```
 
 **Why it matters:** `rena` has no closer. The head noun closes the relative clause. There is no word `reno` in Phi.
 
@@ -66,12 +79,17 @@ Learners coming from English face predictable challenges with Phi's complementiz
 **The problem:** English puts embedded clauses after the verb. Learners may do the same in Phi.
 
 **Wrong:**
-> *mia shelomui mena shia wepu meno
-> 1SG understand DECL 3SG leave DECL.CLOSE
+```
+*mia shelomui mena shia wepu meno
+1SG understand DECL 3SG leave DECL.CLOSE
+```
 
 **Right:**
-> **mia mena shia wepu meno shelomui**
-> 1SG DECL 3SG leave DECL.CLOSE understand
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 **Why it matters:** Phi is strictly SOV. The embedded clause (functioning as object) must come before the main verb.
 
@@ -85,16 +103,20 @@ Learners coming from English face predictable challenges with Phi's complementiz
 **The problem:** Both involve reported speech, but they serve different functions.
 
 **Wrong (using quotation for content):**
-> *shia shola thia wepu sholo haolu
-> 3SG QUOT 2SG leave QUOT.CLOSE say
-> Ko said: "You are leaving."
+```
+*shia shola thia wepu sholo haolu
+3SG QUOT 2SG leave QUOT.CLOSE say
+(They said: "You are leaving.")
+```
 
 When you meant:
-> **shia mena thia wepu meno haolu**
-> 3SG DECL 2SG leave DECL.CLOSE say
-> Ko said that you are leaving.
+```
+shia mena thia wepu meno haolu
+3SG DECL 2SG leave DECL.CLOSE say
+(They said that you are leaving.)
+```
 
-**The difference:** In the quotation, `thia` is ko's word, so it refers to whoever ko was addressing. In the content report, `thia` is the reporter's word, referring to the current addressee.
+**The difference:** In the quotation, `thia` is the original speaker's word, so it refers to whoever they were addressing. In the content report, `thia` is the reporter's word, referring to the current addressee.
 
 **How to avoid:**
 - Ask: Am I preserving exact words? Use `shola`/`sholo`.
@@ -106,24 +128,32 @@ When you meant:
 **The problem:** Both involve questions, but they serve different functions.
 
 **Wrong (using embedded question for direct question):**
-> *wela thia wepu welo
-> INT.COMP 2SG leave INT.COMP.CLOSE
-> (incomplete, no main verb)
+```
+*wela thia wepu welo
+INT.COMP 2SG leave INT.COMP.CLOSE
+(incomplete, no main verb)
+```
 
 When you meant:
-> **wa thia wepu**
-> Q 2SG leave
-> Are you leaving?
+```
+wa thia wepu
+Q 2SG leave
+(Are you leaving?)
+```
 
 **Wrong (using direct question for embedded question):**
-> *mia wa shia wepu phaelo
-> 1SG Q 3SG leave wonder
-> (grammatically confused)
+```
+*mia wa shia wepu phaelo
+1SG Q 3SG leave wonder
+(grammatically confused)
+```
 
 When you meant:
-> **mia wela shia wepu welo phaelo**
-> 1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
-> I wonder whether ko left.
+```
+mia wela shia wepu welo phaelo
+1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+(I wonder whether they left.)
+```
 
 **How to avoid:**
 - `wa` is for direct questions expecting an answer
@@ -135,13 +165,17 @@ When you meant:
 **The problem:** Both involve conditionality or possibility, but differently.
 
 **Wrong:**
-> *mia wela thia wepu welo sola nai
-> 1SG INT.COMP 2SG leave INT.COMP.CLOSE alone be
+```
+*mia wela thia wepu welo sola nai
+1SG INT.COMP 2SG leave INT.COMP.CLOSE alone be
+```
 
 When you meant:
-> **thoe thia wepu. mia sola nai**
-> COND 2SG leave. 1SG alone be
-> If you leave, I will be alone.
+```
+thoe thia wepu. mia sola nai
+COND 2SG leave. 1SG alone be
+(If you leave, I will be alone.)
+```
 
 **The difference:**
 - `wela`/`welo` embeds a question: "I wonder whether X"
@@ -156,13 +190,17 @@ When you meant:
 **The problem:** With nested embeddings, closers must match in the correct order.
 
 **Wrong:**
-> *mia mena thia wela shia wepu meno welo shelomui
-> (closers in wrong order)
+```
+*mia mena thia wela shia wepu meno welo shelomui
+(closers in wrong order)
+```
 
 **Right:**
-> **mia mena thia wela shia wepu welo phaelo meno shelomui**
-> 1SG DECL 2SG INT.COMP 3SG leave INT.COMP.CLOSE wonder DECL.CLOSE understand
-> I understand that you wonder whether ko left.
+```
+mia mena thia wela shia wepu welo phaelo meno shelomui
+1SG DECL 2SG INT.COMP 3SG leave INT.COMP.CLOSE wonder DECL.CLOSE understand
+(I understand that you wonder whether they left.)
+```
 
 **How to avoid:**
 - Think of openers and closers like parentheses: ( [ ] ) not ( [ ) ]
@@ -174,13 +212,17 @@ When you meant:
 **The problem:** Learners sometimes omit the verb inside the embedded clause.
 
 **Wrong:**
-> *mia mena shia towe meno sano
-> 1SG DECL 3SG well DECL.CLOSE know
+```
+*mia mena shia towe meno sano
+1SG DECL 3SG well DECL.CLOSE know
+```
 
 **Right:**
-> **mia mena shia towe nai meno sano**
-> 1SG DECL 3SG well be DECL.CLOSE know
-> I know that ko is well.
+```
+mia mena shia towe nai meno sano
+1SG DECL 3SG well be DECL.CLOSE know
+(I know that they are well.)
+```
 
 **Why it matters:** The embedded clause needs to be a complete clause. With predicative adjectives, the copula `nai` is required.
 
@@ -193,13 +235,17 @@ When you meant:
 **The problem:** Using both `wa` and `wela`/`welo` for the same question.
 
 **Wrong:**
-> *mia wela wa shia wepu welo phaelo
-> 1SG INT.COMP Q 3SG leave INT.COMP.CLOSE wonder
+```
+*mia wela wa shia wepu welo phaelo
+1SG INT.COMP Q 3SG leave INT.COMP.CLOSE wonder
+```
 
 **Right:**
-> **mia wela shia wepu welo phaelo**
-> 1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
-> I wonder whether ko left.
+```
+mia wela shia wepu welo phaelo
+1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+(I wonder whether they left.)
+```
 
 **Why it matters:** `wela`/`welo` already marks the clause as a question. Adding `wa` is redundant and confusing.
 
@@ -233,16 +279,22 @@ When you produce an embedded clause, verify:
 When you make an error mid-sentence:
 
 **Option 1: Restart**
-> *mia mena shia wepu... *mia mena shia wepu meno shelomui
-> (restart and complete correctly)
+```
+*mia mena shia wepu... *mia mena shia wepu meno shelomui
+(restart and complete correctly)
+```
 
 **Option 2: Insert the closer**
-> *mia mena shia wepu shelomui... phenu. mia mena shia wepu **meno** shelomui
-> (correct yourself: "specifically, I [mena] ko left [meno] understand")
+```
+*mia mena shia wepu shelomui... phenu. mia mena shia wepu meno shelomui
+(correct yourself: "specifically, I [mena] they left [meno] understand")
+```
 
 **Option 3: Simplify**
-> *mia mena shia wepu... shia wepu. mia shelomui
-> (break into simpler sentences: "Ko left. I understand.")
+```
+*mia mena shia wepu... shia wepu. mia shelomui
+(break into simpler sentences: "They left. I understand.")
+```
 
 Native speakers of any language self-correct. It is natural and communicative. The goal is understanding, not perfection.
 

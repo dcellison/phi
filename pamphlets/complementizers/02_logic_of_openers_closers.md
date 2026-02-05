@@ -25,7 +25,7 @@ Consider this attempted sentence without boundary marking:
 
 This could mean:
 - I understand ko's leaving (if "shia wepu" is a noun phrase meaning "ko's departure")
-- I understand that ko left (if "shia wepu" is an embedded clause)
+- I understand that they left (if "shia wepu" is an embedded clause)
 - Something else entirely
 
 The structure is ambiguous because nothing marks where the embedded content ends.
@@ -34,9 +34,11 @@ The structure is ambiguous because nothing marks where the embedded content ends
 
 By adding a complementizer pair, Phi resolves the ambiguity completely:
 
-> **mia mena shia wepu meno shelomui**
-> 1SG DECL 3SG leave DECL.CLOSE understand
-> I understand that ko left.
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 Now the structure is unambiguous:
 - `mena` announces: "an embedded statement is beginning"
@@ -77,16 +79,22 @@ The noun itself provides natural closure. When the listener hears the noun, they
 Compare:
 
 **Relative clause (pre-nominal):**
-> **rena nophi kealo miona**
-> REL story create person
-> the person who creates stories
+
+```
+rena nophi kealo miona
+REL story create person
+(the person who creates stories)
+```
 
 The word `miona` (person) is the head noun. When it appears, the relative clause `rena nophi kealo` is complete. No closer needed. The noun closes the construction.
 
 **Declarative embedding (pre-verbal):**
-> **mia mena shia nophi kealo meno shelomui**
-> 1SG DECL 3SG story create DECL.CLOSE understand
-> I understand that ko creates stories.
+
+```
+mia mena shia nophi kealo meno shelomui
+1SG DECL 3SG story create DECL.CLOSE understand
+(I understand that they create stories.)
+```
 
 Here, after `kealo` (the embedded verb), we have `shelomui` (the main verb). Without `meno`, we would have verb-verb ambiguity. The closer is required.
 
@@ -146,9 +154,11 @@ This is not metaphor. Phi's complementizer system is formally equivalent to bala
 
 One other multi-syllable function word exists: the vocative marker `kona`, which addresses someone directly.
 
-> **kona melu. mia ha nai**
-> VOC friend. 1SG here be
-> Friend, I am here.
+```
+kona melu. mia ha nai
+VOC friend. 1SG here be
+(Friend, I am here.)
+```
 
 The vocative is **extra-clausal**. It exists outside the sentence structure entirely, framing who is being addressed but not participating in subject-object-verb relations. Because it is not embedded within a clause, it faces no verb-verb boundary issue and needs no closer.
 

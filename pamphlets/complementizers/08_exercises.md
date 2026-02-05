@@ -11,31 +11,31 @@ Translate each sentence into Phi. Use the complementizers as indicated.
 ### Declarative (`mena`/`meno`)
 
 1. I know that the sun is beautiful.
-2. Ko believes that rain will come.
+2. They believe that rain will come.
 3. You feel that the story is true.
 4. The friend said that I helped.
-5. We understand that ko left.
+5. We understand that they left.
 6. She thinks that you are well.
 7. I do not know that the friend arrived.
-8. Ko said that the book is good.
+8. They said that the book is good.
 
 ### Interrogative (`wela`/`welo`)
 
-9. I wonder whether ko is well.
+9. I wonder whether they are well.
 10. She asked whether you saw.
 11. We do not know whether rain will come.
-12. Ko wonders whether the friend will return.
+12. They wonder whether the friend will return.
 13. Do you know whether the story is true?
 14. They asked whether I had helped.
 15. I don't care whether it's beautiful.
 
 ### Quotative (`shola`/`sholo`)
 
-16. Ko said: "I am leaving."
+16. They said: "I am leaving."
 17. The friend said: "The sun is beautiful."
 18. She asked: "Are you well?"
 19. I said: "I will return."
-20. Ko announced: "We are here."
+20. They announced: "We are here."
 
 ---
 
@@ -96,10 +96,10 @@ Each sentence contains an error. Find and correct it.
 Complete each sentence with the appropriate complementizer(s).
 
 41. mia _____ shia wepu _____ shelomui
-    (I understand that ko left.)
+    (I understand that they left.)
 
 42. shia _____ mia so turema _____ haolu
-    (Ko said: "I will return.")
+    (They said: "I will return.")
 
 43. mia _____ pheralu so shua _____ phaelo
     (I wonder whether rain will come.)
@@ -111,13 +111,13 @@ Complete each sentence with the appropriate complementizer(s).
     (the person who creates stories)
 
 46. lo mia _____ shia _____ melu to naphe _____ sano _____ phaelo
-    (We feel that ko knows that the friend helped.)
+    (We feel that they know that the friend helped.)
 
 47. shia _____ wa thia wepu _____ thilou
-    (Ko asked: "Are you leaving?")
+    (They asked: "Are you leaving?")
 
 48. mia _____ thia _____ shia towe nai _____ phaelo _____ shelomui
-    (I understand that you feel that ko is well.)
+    (I understand that you feel that they are well.)
 
 ---
 
@@ -125,16 +125,16 @@ Complete each sentence with the appropriate complementizer(s).
 
 Transform each pair of sentences into a single sentence with embedding.
 
-49. Ko is well. I know this.
-    → I know that ko is well.
+49. They are well. I know this.
+    → I know that they are well.
 
 50. Will rain come? I wonder about this.
     → ____
 
-51. "I am leaving." Ko said this.
+51. "I am leaving." They said this.
     → ____
 
-52. The friend helped. Ko believes this.
+52. The friend helped. They believe this.
     → ____
 
 53. Is the story true? We don't know.
@@ -143,10 +143,10 @@ Transform each pair of sentences into a single sentence with embedding.
 54. "Are you well?" She asked this.
     → ____
 
-55. You feel something. Ko is happy. (Ko is happy is what you feel.)
+55. You feel something. They are happy. (They are happy is what you feel.)
     → ____
 
-56. I know something. You wonder something. Will ko return? (nested)
+56. I know something. You wonder something. Will they return? (nested)
     → ____
 
 ---
@@ -253,23 +253,23 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 21. I know that the friend is well.
 
-22. Ko wonders whether rain will come.
+22. They wonder whether rain will come.
 
 23. You said: "I will return."
 
-24. We understand that ko helped.
+24. We understand that they helped.
 
 25. I do not know whether the story is true.
 
-26. Ko said that I feel that you are well.
+26. They said that I feel that you are well.
 
 27. The friend asked: "Are you leaving?"
 
-28. I know that ko believes that rain will come.
+28. I know that they believe that rain will come.
 
-29. Do you wonder whether ko will return?
+29. Do you wonder whether they will return?
 
-30. Ko said: "I love you."
+30. They said: "I love you."
 
 ## Part C: Error Correction
 
@@ -327,10 +327,10 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     I wonder whether rain will come.
 
 51. **shia shola mia wepu sholo haolu**
-    Ko said: "I am leaving."
+    They said: "I am leaving."
 
 52. **shia mena melu to naphe meno nohero**
-    Ko believes that the friend helped.
+    They believe that the friend helped.
 
 53. **lo mia wela nophi shewo nai welo ma sano**
     We don't know whether the story is true.
@@ -339,10 +339,10 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     She asked: "Are you well?"
 
 55. **thia mena shia kela nai meno phaelo**
-    You feel that ko is happy.
+    You feel that they are happy.
 
 56. **mia mena thia wela shia so turema welo phaelo meno sano**
-    I know that you wonder whether ko will return.
+    I know that you wonder whether they will return.
 
 ## Part F: Identify the Type
 
@@ -372,7 +372,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     The friend said: "I see you."
 
 64. **mia mena thia mena shia kela nai meno phaelo meno nohero**
-    I believe that you feel that ko is happy.
+    I believe that you feel that they are happy.
 
 65. **rena mena melu towe nai meno sano miona phelora nai**
     The person who knows that the friend is well is beautiful.

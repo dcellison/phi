@@ -77,9 +77,11 @@ The opener announces what kind of content follows. The closer marks exactly wher
 **English:** I know that she left.
 **Phi structure:** I [DECL she left DECL.CLOSE] know.
 
-> **mia mena shia wepu meno shelomui**
-> 1SG DECL 3SG leave DECL.CLOSE understand
-> I understand that ko left.
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 The `mena` opens the embedded statement. The `meno` closes it. The main verb `shelomui` follows, and there is no ambiguity about what belongs to the embedded clause versus the main clause.
 
@@ -90,22 +92,31 @@ You might wonder: why does Phi need closers? English manages without them.
 The answer lies in Phi's word order. Phi is strictly SOV (Subject-Object-Verb), meaning verbs come at the end of their clauses. When you embed one clause inside another, you get verb-verb sequences:
 
 **Without closer (ambiguous):**
-> mia mena shia wepu shelomui
-> 1SG DECL 3SG leave understand
 
-Is this "I understand that ko left"? Or is it attempting to say something about "ko leaving-understanding"? Where does `wepu` end and `shelomui` begin? Two verbs in sequence, no boundary marked.
+```
+mia mena shia wepu shelomui
+1SG DECL 3SG leave understand
+```
+
+Is this "I understand that they left"? Or is it attempting to say something about "they leaving-understanding"? Where does `wepu` end and `shelomui` begin? Two verbs in sequence, no boundary marked.
 
 **With closer (unambiguous):**
-> mia mena shia wepu **meno** shelomui
-> 1SG DECL 3SG leave **DECL.CLOSE** understand
+
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 Now the structure is crystal clear. The `meno` announces: the embedded clause has ended. What follows is the main verb.
 
 This is especially important when clauses nest:
 
-> mia mena thia mena shia wepu meno phaelo meno shelomui
-> 1SG DECL 2SG DECL 3SG leave DECL.CLOSE feel DECL.CLOSE understand
-> I understand that you feel that ko left.
+```
+mia mena thia mena shia wepu meno phaelo meno shelomui
+1SG DECL 2SG DECL 3SG leave DECL.CLOSE feel DECL.CLOSE understand
+(I understand that you feel that they left.)
+```
 
 Three verbs in sequence: `wepu`, `phaelo`, `shelomui`. Without the closers, parsing would be impossible. With them, each `meno` resolves exactly one `mena`, like matched parentheses in mathematics.
 

@@ -24,9 +24,11 @@
 [Subject] mena [Embedded statement] meno [Main verb]
 ```
 
-> **mia mena shia wepu meno shelomui**
-> 1SG DECL 3SG leave DECL.CLOSE understand
-> I understand that ko left.
+```
+mia mena shia wepu meno shelomui
+1SG DECL 3SG leave DECL.CLOSE understand
+(I understand that they left.)
+```
 
 ### Interrogative embedding
 
@@ -34,9 +36,11 @@
 [Subject] wela [Embedded question] welo [Main verb]
 ```
 
-> **mia wela shia wepu welo phaelo**
-> 1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
-> I wonder whether ko left.
+```
+mia wela shia wepu welo phaelo
+1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+(I wonder whether they left.)
+```
 
 ### Quotative embedding
 
@@ -44,9 +48,11 @@
 [Subject] shola [Quoted material] sholo [Verb of speaking]
 ```
 
-> **shia shola mia wepu sholo haolu**
-> 3SG QUOT 1SG leave QUOT.CLOSE say
-> Ko said: "I am leaving."
+```
+shia shola mia wepu sholo haolu
+3SG QUOT 1SG leave QUOT.CLOSE say
+(They said: "I am leaving.")
+```
 
 ### Relative clause
 
@@ -54,9 +60,11 @@
 [rena CLAUSE] NOUN
 ```
 
-> **rena nophi kealo miona**
-> REL story create person
-> the person who creates stories
+```
+rena nophi kealo miona
+REL story create person
+(the person who creates stories)
+```
 
 ---
 
@@ -71,8 +79,8 @@
 | Use when | Paraphrasing, summarizing | Exact wording matters |
 
 **Example contrast:**
-- `shia mena shia wepu meno haolu` = Ko said that ko was leaving.
-- `shia shola mia wepu sholo haolu` = Ko said: "I am leaving."
+- `shia mena shia wepu meno haolu` = They said that they were leaving.
+- `shia shola mia wepu sholo haolu` = They said: "I am leaving."
 
 ### `wela`/`welo` vs. `wa` vs. `thoe`
 
@@ -120,14 +128,14 @@ mia mena thia wela shia wepu welo phaelo meno shelomui
 | `shelomui` | understand | I understand that... |
 | `nila` | see (perceive) | I see that... |
 | `hea` | hear | I hear that... |
-| `haolu` | say | Ko said that... |
+| `haolu` | say | They said that... |
 
 ### With `wela`/`welo` (questions)
 
 | Verb | Meaning | Example translation |
 |------|---------|---------------------|
 | `phaelo` | wonder | I wonder whether... |
-| `thilou` | ask | Ko asked whether... |
+| `thilou` | ask | They asked whether... |
 | `sano` | know | I know whether... |
 | `ma sano` | not know | I don't know whether... |
 
@@ -135,8 +143,8 @@ mia mena thia wela shia wepu welo phaelo meno shelomui
 
 | Verb | Meaning | Example translation |
 |------|---------|---------------------|
-| `haolu` | say | Ko said: "..." |
-| `thilou` | ask | Ko asked: "...?" |
+| `haolu` | say | They said: "..." |
+| `thilou` | ask | They asked: "...?" |
 
 ---
 
