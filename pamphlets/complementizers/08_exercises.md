@@ -95,7 +95,7 @@ Each sentence contains an error. Find and correct it.
 
 Complete each sentence with the appropriate complementizer(s).
 
-41. mia _____ shia wepu _____ shelomui
+41. mia _____ shia to wepu _____ shelomui
     (I understand that they left.)
 
 42. shia _____ mia so turema _____ haolu
@@ -201,8 +201,8 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 4. **melu mena mia to naphe meno haolu**
    friend DECL 1SG PST help DECL.CLOSE say
 
-5. **lo mia mena shia wepu meno shelomui**
-   PL 1SG DECL 3SG leave DECL.CLOSE understand
+5. **lo mia mena shia to wepu meno shelomui**
+   PL 1SG DECL 3SG PST leave DECL.CLOSE understand
 
 6. **shia mena thia towe nai meno remo**
    3SG DECL 2SG well be DECL.CLOSE think
@@ -273,10 +273,10 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ## Part C: Error Correction
 
-31. **mia mena shia wepu meno shelomui**
+31. **mia mena shia to wepu meno shelomui**
     (Missing `meno`)
 
-32. **mia wela shia wepu welo phaelo**
+32. **mia wela shia to wepu welo phaelo**
     (Changed second `wela` to `welo`)
 
 33. **shia shola mia wepu sholo haolu**
@@ -285,27 +285,27 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 34. **rena nophi kealo miona**
     (Removed `reno` — `rena` has no closer)
 
-35. **mia mena shia wepu meno shelomui**
+35. **mia mena shia to wepu meno shelomui**
     (Reordered: embedded clause before main verb)
 
 36. **mia mena shia towe nai meno sano**
     (Added `nai` — copula required)
 
-37. **mia wela shia wepu welo phaelo**
+37. **mia wela shia to wepu welo phaelo**
     (Removed `wa` — redundant inside `wela`/`welo`)
 
-38. **thia mena shia wepu meno sano. nai mia wela turema welo phaelo**
+38. **thia mena shia to wepu meno sano. nai mia wela turema welo phaelo**
     (Simplified: nesting was malformed)
 
 39. **shia shola mia wepu sholo haolu**
     (Reversed `shola` and `sholo` order)
 
-40. **mia mena shia wepu meno nohero**
+40. **mia mena shia to wepu meno nohero**
     (Removed extra `meno` — only one closer per opener)
 
 ## Part D: Gap Fill
 
-41. mia **mena** shia wepu **meno** shelomui
+41. mia **mena** shia to wepu **meno** shelomui
 
 42. shia **shola** mia so turema **sholo** haolu
 

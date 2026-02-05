@@ -9,16 +9,16 @@ When we think about what others think, or know what others know, we nest `mena`/
 ### Two levels
 
 ```
-mia mena thia mena shia wepu meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG leave DECL.CLOSE feel DECL.CLOSE understand
+mia mena thia mena shia to wepu meno phaelo meno shelomui
+1SG DECL 2SG DECL 3SG PST leave DECL.CLOSE feel DECL.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
 Structure:
 ```
-mia mena [thia mena [shia wepu] meno phaelo] meno shelomui
-    └─────────────────────────────────────────┘
-              └───────────────────┘
+mia mena [thia mena [shia to wepu] meno phaelo] meno shelomui
+    └────────────────────────────────────────────┘
+              └─────────────────────┘
 ```
 
 Each `mena` has its own `meno`. They nest like parentheses.
@@ -26,16 +26,16 @@ Each `mena` has its own `meno`. They nest like parentheses.
 ### Three levels
 
 ```
-shia mena mia mena thia mena melu wepu meno sano meno nohero meno haolu
-3SG DECL 1SG DECL 2SG DECL friend leave DECL.CLOSE know DECL.CLOSE believe DECL.CLOSE say
+shia mena mia mena thia mena melu to wepu meno sano meno nohero meno haolu
+3SG DECL 1SG DECL 2SG DECL friend PST leave DECL.CLOSE know DECL.CLOSE believe DECL.CLOSE say
 (They said that I believe that you know that the friend left.)
 ```
 
 This is grammatically correct but approaches the limit of comfortable processing. In practice, speakers break complex nestings into separate sentences:
 
 ```
-melu to wepu. thia shewo mena melu wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
-friend PST leave. 2SG true DECL friend leave DECL.CLOSE know. 1SG DECL 2SG know DECL.CLOSE believe. 3SG DECL 1SG believe DECL.CLOSE say
+melu to wepu. thia shewo mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
+friend PST leave. 2SG true DECL friend PST leave DECL.CLOSE know. 1SG DECL 2SG know DECL.CLOSE believe. 3SG DECL 1SG believe DECL.CLOSE say
 (The friend left. You truly know that the friend left. I believe that you know. They said that I believe.)
 ```
 
@@ -60,16 +60,16 @@ Different complementizer types can nest within each other:
 ### Declarative inside interrogative
 
 ```
-mia wela thia mena shia wepu meno sano welo phaelo
-1SG INT.COMP 2SG DECL 3SG leave DECL.CLOSE know INT.COMP.CLOSE wonder
+mia wela thia mena shia to wepu meno sano welo phaelo
+1SG INT.COMP 2SG DECL 3SG PST leave DECL.CLOSE know INT.COMP.CLOSE wonder
 (I wonder whether you know that they left.)
 ```
 
 Structure:
 ```
-mia wela [thia mena [shia wepu] meno sano] welo phaelo
-    └─────────────────────────────────────────┘
-              └───────────────────┘
+mia wela [thia mena [shia to wepu] meno sano] welo phaelo
+    └───────────────────────────────────────────────┘
+              └──────────────────────┘
 ```
 
 The `mena`/`meno` pair is inside the `wela`/`welo` pair.
@@ -77,8 +77,8 @@ The `mena`/`meno` pair is inside the `wela`/`welo` pair.
 ### Interrogative inside declarative
 
 ```
-mia mena thia wela shia wepu welo phaelo meno sano
-1SG DECL 2SG INT.COMP 3SG leave INT.COMP.CLOSE wonder DECL.CLOSE know
+mia mena thia wela shia to wepu welo phaelo meno sano
+1SG DECL 2SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder DECL.CLOSE know
 (I know that you wonder whether they left.)
 ```
 
@@ -193,12 +193,12 @@ mia mena shia towe nai meno sano. ta mia wela shia so turema welo ma sano
 Embedded clauses can serve as the subject of a main clause:
 
 ```
-mena shia wepu meno shewo nai
-DECL 3SG leave DECL.CLOSE true be
+mena shia to wepu meno shewo nai
+DECL 3SG PST leave DECL.CLOSE true be
 (That they left is true.)
 ```
 
-The embedded clause `mena shia wepu meno` functions as subject of `shewo nai`.
+The embedded clause `mena shia to wepu meno` functions as subject of `shewo nai`.
 
 ```
 wela shia so turema welo ma shewo nai
@@ -211,8 +211,8 @@ INT.COMP 3SG FUT return INT.COMP.CLOSE NEG clear be
 Phi can topicalize embedded content:
 
 ```
-mena shia wepu menothey. mia shelomui
-DECL 3SG leave DECL.CLOSE FOC. 1SG understand
+mena shia to wepu meno ko. mia shelomui
+DECL 3SG PST leave DECL.CLOSE FOC. 1SG understand
 (As for that they left: I understand.)
 ```
 

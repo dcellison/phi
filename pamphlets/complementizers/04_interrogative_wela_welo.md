@@ -15,15 +15,15 @@ The embedded question follows standard Phi word order. The main verb comes after
 **Basic example:**
 
 ```
-mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
 Breaking this down:
 - `mia` — main clause subject (I)
 - `wela` — opens embedded question
-- `shia wepu` — embedded clause: did they leave?
+- `shia to wepu` — embedded clause: did they leave?
 - `welo` — closes embedded question
 - `phaelo` — main verb (wonder/feel)
 
@@ -203,24 +203,24 @@ mia wela shelu tha kealo welo nila
 Negation inside the embedded question:
 
 ```
-mia wela shia ma wepu welo phaelo
-1SG INT.COMP 3SG NEG leave INT.COMP.CLOSE wonder
+mia wela shia to ma wepu welo phaelo
+1SG INT.COMP 3SG PST NEG leave INT.COMP.CLOSE wonder
 (I wonder whether they did not leave.)
 ```
 
 Negation of the main verb:
 
 ```
-mia wela shia wepu welo ma sano
-1SG INT.COMP 3SG leave INT.COMP.CLOSE NEG know
+mia wela shia to wepu welo ma sano
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE NEG know
 (I do not know whether they left.)
 ```
 
 Both:
 
 ```
-mia wela shia ma wepu welo ma sano
-1SG INT.COMP 3SG NEG leave INT.COMP.CLOSE NEG know
+mia wela shia to ma wepu welo ma sano
+1SG INT.COMP 3SG PST NEG leave INT.COMP.CLOSE NEG know
 (I do not know whether they did not leave.)
 ```
 
@@ -298,16 +298,16 @@ When the main clause subject is clear from context:
 
 **Full form:**
 ```
-mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
 **With topic-drop:**
 ```
-wela shia wepu welo phaelo
-INT.COMP 3SG leave INT.COMP.CLOSE wonder
-(I) wonder whether they left.)
+wela shia to wepu welo phaelo
+INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+((I) wonder whether they left.)
 ```
 
 ## Embedded questions vs. embedded statements
@@ -316,8 +316,8 @@ Compare carefully:
 
 **Embedded statement (`mena`/`meno`):**
 ```
-mia mena shia wepu meno sano
-1SG DECL 3SG leave DECL.CLOSE know
+mia mena shia to wepu meno sano
+1SG DECL 3SG PST leave DECL.CLOSE know
 (I know that they left.)
 ```
 
@@ -325,8 +325,8 @@ The speaker asserts knowledge of a fact.
 
 **Embedded question (`wela`/`welo`):**
 ```
-mia wela shia wepu welo sano
-1SG INT.COMP 3SG leave INT.COMP.CLOSE know
+mia wela shia to wepu welo sano
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE know
 (I know whether they left.)
 ```
 
@@ -335,16 +335,16 @@ The speaker knows the answer to a question (but doesn't tell us what it is).
 **The difference in "not knowing":**
 
 ```
-mia mena shia wepu meno ma sano
-1SG DECL 3SG leave DECL.CLOSE NEG know
+mia mena shia to wepu meno ma sano
+1SG DECL 3SG PST leave DECL.CLOSE NEG know
 (I don't know that they left.)
 ```
 
-This could mean: I have no knowledge of they leaving.
+This could mean: I have no knowledge of their leaving.
 
 ```
-mia wela shia wepu welo ma sano
-1SG INT.COMP 3SG leave INT.COMP.CLOSE NEG know
+mia wela shia to wepu welo ma sano
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE NEG know
 (I don't know whether they left.)
 ```
 

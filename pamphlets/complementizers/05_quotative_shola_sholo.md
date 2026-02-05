@@ -64,8 +64,8 @@ The `mia` is ko's word. They called themselves `mia`.
 
 **Content reporting (`mena`/`meno`):** Conveys meaning with shifted reference.
 ```
-shia mena shia wepu meno haolu
-3SG DECL 3SG leave DECL.CLOSE say
+shia mena shia to wepu meno haolu
+3SG DECL 3SG PST leave DECL.CLOSE say
 (They said that they were leaving.)
 ```
 
@@ -86,7 +86,7 @@ Content reporting:
 ```
 shia mena shia thia lothea meno haolu
 3SG DECL 3SG 2SG love DECL.CLOSE say
-(They said that they loves you.)
+(They said that they love you.)
 ```
 
 In the quotation, `mia` and `thia` are exactly what they said. In the content report, we translate ko's self-reference to `shia` and keep `thia` as the addressee from our perspective.

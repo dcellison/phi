@@ -8,14 +8,14 @@ Learners coming from English face predictable challenges with Phi's complementiz
 
 **Wrong:**
 ```
-*mia mena shia wepu shelomui
-1SG DECL 3SG leave understand
+*mia mena shia to wepu shelomui
+1SG DECL 3SG PST leave understand
 ```
 
 **Right:**
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -32,14 +32,14 @@ mia mena shia wepu meno shelomui
 
 **Wrong:**
 ```
-*mia mena shia wepu shelomui meno
-1SG DECL 3SG leave understand DECL.CLOSE
+*mia mena shia to wepu shelomui meno
+1SG DECL 3SG PST leave understand DECL.CLOSE
 ```
 
 **Right:**
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -80,14 +80,14 @@ REL story create person
 
 **Wrong:**
 ```
-*mia shelomui mena shia wepu meno
-1SG understand DECL 3SG leave DECL.CLOSE
+*mia shelomui mena shia to wepu meno
+1SG understand DECL 3SG PST leave DECL.CLOSE
 ```
 
 **Right:**
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -150,8 +150,8 @@ Q 2SG leave
 
 When you meant:
 ```
-mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
@@ -197,8 +197,8 @@ COND 2SG leave. 1SG alone be
 
 **Right:**
 ```
-mia mena thia wela shia wepu welo phaelo meno shelomui
-1SG DECL 2SG INT.COMP 3SG leave INT.COMP.CLOSE wonder DECL.CLOSE understand
+mia mena thia wela shia to wepu welo phaelo meno shelomui
+1SG DECL 2SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder DECL.CLOSE understand
 (I understand that you wonder whether they left.)
 ```
 
@@ -242,8 +242,8 @@ mia mena shia towe nai meno sano
 
 **Right:**
 ```
-mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
@@ -280,19 +280,19 @@ When you make an error mid-sentence:
 
 **Option 1: Restart**
 ```
-*mia mena shia wepu... *mia mena shia wepu meno shelomui
+*mia mena shia to wepu... *mia mena shia to wepu meno shelomui
 (restart and complete correctly)
 ```
 
 **Option 2: Insert the closer**
 ```
-*mia mena shia wepu shelomui... phenu. mia mena shia wepu meno shelomui
+*mia mena shia to wepu shelomui... phenu. mia mena shia to wepu meno shelomui
 (correct yourself: "specifically, I [mena] they left [meno] understand")
 ```
 
 **Option 3: Simplify**
 ```
-*mia mena shia wepu... shia wepu. mia shelomui
+*mia mena shia to wepu... shia to wepu. mia shelomui
 (break into simpler sentences: "They left. I understand.")
 ```
 

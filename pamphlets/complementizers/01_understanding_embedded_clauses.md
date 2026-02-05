@@ -78,8 +78,8 @@ The opener announces what kind of content follows. The closer marks exactly wher
 **Phi structure:** I [DECL she left DECL.CLOSE] know.
 
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -94,8 +94,8 @@ The answer lies in Phi's word order. Phi is strictly SOV (Subject-Object-Verb), 
 **Without closer (ambiguous):**
 
 ```
-mia mena shia wepu shelomui
-1SG DECL 3SG leave understand
+mia mena shia to wepu shelomui
+1SG DECL 3SG PST leave understand
 ```
 
 Is this "I understand that they left"? Or is it attempting to say something about "they leaving-understanding"? Where does `wepu` end and `shelomui` begin? Two verbs in sequence, no boundary marked.
@@ -103,8 +103,8 @@ Is this "I understand that they left"? Or is it attempting to say something abou
 **With closer (unambiguous):**
 
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -113,8 +113,8 @@ Now the structure is crystal clear. The `meno` announces: the embedded clause ha
 This is especially important when clauses nest:
 
 ```
-mia mena thia mena shia wepu meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG leave DECL.CLOSE feel DECL.CLOSE understand
+mia mena thia mena shia to wepu meno phaelo meno shelomui
+1SG DECL 2SG DECL 3SG PST leave DECL.CLOSE feel DECL.CLOSE understand
 (I understand that you feel that they left.)
 ```
 

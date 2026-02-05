@@ -19,13 +19,13 @@ The problem emerges at the boundary. After the embedded clause's verb, we immedi
 Consider this attempted sentence without boundary marking:
 
 ```
-*mia shia wepu shelomui
-1SG 3SG leave understand
+*mia shia to wepu shelomui
+1SG 3SG PST leave understand
 ```
 
 This could mean:
-- I understand ko's leaving (if "shia wepu" is a noun phrase meaning "ko's departure")
-- I understand that they left (if "shia wepu" is an embedded clause)
+- I understand their leaving (if "shia to wepu" is a noun phrase meaning "their departure")
+- I understand that they left (if "shia to wepu" is an embedded clause)
 - Something else entirely
 
 The structure is ambiguous because nothing marks where the embedded content ends.
@@ -35,14 +35,14 @@ The structure is ambiguous because nothing marks where the embedded content ends
 By adding a complementizer pair, Phi resolves the ambiguity completely:
 
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
 Now the structure is unambiguous:
 - `mena` announces: "an embedded statement is beginning"
-- `shia wepu` is the content of that statement
+- `shia to wepu` is the content of that statement
 - `meno` announces: "the embedded statement has ended"
 - `shelomui` is clearly the main verb
 

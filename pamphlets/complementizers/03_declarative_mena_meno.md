@@ -15,15 +15,15 @@ The embedded statement follows standard Phi word order (SOV). The main verb come
 **Basic example:**
 
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
 Breaking this down:
 - `mia` — main clause subject (I)
 - `mena` — opens embedded statement
-- `shia wepu` — embedded clause: they left
+- `shia to wepu` — embedded clause: they left
 - `meno` — closes embedded statement
 - `shelomui` — main verb (understand)
 
@@ -76,7 +76,7 @@ mia mena sorae phelora nai meno nila
 ```
 shia mena lopia hea meno hea
 3SG DECL child cry DECL.CLOSE hear
-(They hears that the child is crying.)
+(They hear that the child is crying.)
 ```
 
 ```
@@ -112,7 +112,7 @@ mia mena thia towe nai meno kela
 ```
 shia mena pheralu so shua meno sui phaelo
 3SG DECL rain FUT come DECL.CLOSE afraid feel
-(They fears that rain will come.)
+(They fear that rain will come.)
 ```
 
 ## With tense and aspect particles
@@ -158,7 +158,7 @@ mia mena melu ro naphe meno sano
 ```
 shia mena sorae ro shua meno nila
 3SG DECL sun HAB come DECL.CLOSE see
-(They sees that the sun habitually comes.)
+(They see that the sun habitually comes.)
 ```
 
 ### Perfective aspect (`tha`)
@@ -174,8 +174,8 @@ mia mena shelu tha kealo meno nila
 Negation inside the embedded clause uses `ma`:
 
 ```
-mia mena shia ma wepu meno shelomui
-1SG DECL 3SG NEG leave DECL.CLOSE understand
+mia mena shia to ma wepu meno shelomui
+1SG DECL 3SG PST NEG leave DECL.CLOSE understand
 (I understand that they did not leave.)
 ```
 
@@ -188,16 +188,16 @@ shia mena pheralu ma so shua meno nohero
 Negation of the main verb:
 
 ```
-mia mena shia wepu meno ma shelomui
-1SG DECL 3SG leave DECL.CLOSE NEG understand
+mia mena shia to wepu meno ma shelomui
+1SG DECL 3SG PST leave DECL.CLOSE NEG understand
 (I do not understand that they left.)
 ```
 
 Both can occur:
 
 ```
-mia mena shia ma wepu meno ma shelomui
-1SG DECL 3SG NEG leave DECL.CLOSE NEG understand
+mia mena shia to ma wepu meno ma shelomui
+1SG DECL 3SG PST NEG leave DECL.CLOSE NEG understand
 (I do not understand that they did not leave.)
 ```
 
@@ -252,14 +252,14 @@ shia mena melu thia to naphe meno sano
 ```
 mia mena shia melu shelu loa meno nila
 1SG DECL 3SG friend book give DECL.CLOSE see
-(I see that they gives the friend a book.)
+(I see that they give the friend a book.)
 ```
 
 ### With adverbials
 
 ```
-mia mena shia pelua wepu meno phaelo
-1SG DECL 3SG quickly leave DECL.CLOSE feel
+mia mena shia pelua to wepu meno phaelo
+1SG DECL 3SG quickly PST leave DECL.CLOSE feel
 (I feel that they left quickly.)
 ```
 
@@ -302,24 +302,24 @@ The main clause can have various structures while still containing an embedded c
 ### Question about the embedded content
 
 ```
-wa thia mena shia wepu meno sano
-Q 2SG DECL 3SG leave DECL.CLOSE know
+wa thia mena shia to wepu meno sano
+Q 2SG DECL 3SG PST leave DECL.CLOSE know
 (Do you know that they left?)
 ```
 
 ### Imperative with embedded content
 
 ```
-no mena shia wepu meno remo
-IMP DECL 3SG leave DECL.CLOSE think
-(Think that they left! (Consider that they left.))
+no mena shia to wepu meno remo
+IMP DECL 3SG PST leave DECL.CLOSE think
+(Consider that they left!)
 ```
 
 ### Focused embedded content
 
 ```
-mena shia wepu meno they mia shelomui
-DECL 3SG leave DECL.CLOSE FOC 1SG understand
+mena shia to wepu meno ko mia shelomui
+DECL 3SG PST leave DECL.CLOSE FOC 1SG understand
 (It is that they left that I understand.)
 ```
 
@@ -329,16 +329,16 @@ When the subject of the main clause is clear from context, it can be dropped:
 
 **Full form:**
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that they left.)
 ```
 
 **With topic-drop:**
 ```
-mena shia wepu meno shelomui
-DECL 3SG leave DECL.CLOSE understand
-(I) understand that they left.)
+mena shia to wepu meno shelomui
+DECL 3SG PST leave DECL.CLOSE understand
+((I) understand that they left.)
 ```
 
 The embedded clause structure remains intact. Only the main clause subject is dropped.
@@ -399,8 +399,8 @@ A crucial distinction: `mena`/`meno` reports *content*, while `shola`/`sholo` pr
 
 **Content reporting (`mena`/`meno`):**
 ```
-shia mena thia wepu meno haolu
-3SG DECL 2SG leave DECL.CLOSE say
+shia mena thia to wepu meno haolu
+3SG DECL 2SG PST leave DECL.CLOSE say
 (They said that you left.)
 ```
 
