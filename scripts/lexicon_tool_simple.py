@@ -21,6 +21,7 @@ PROJECT_ROOT = Path(__file__).parent.parent
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 CONTENT_DIR = VOCABULARY_DIR / "content"
 FUNCTION_DIR = VOCABULARY_DIR / "function"
+INTERJECTION_DIR = VOCABULARY_DIR / "interjection"
 DB_PATH = PROJECT_ROOT / DB_FILE
 
 # --- Main Application ---
@@ -117,6 +118,8 @@ def init_db(args):
         json_files.extend(sorted(list(CONTENT_DIR.glob("*.json"))))
     if FUNCTION_DIR.exists():
         json_files.extend(sorted(list(FUNCTION_DIR.rglob("*.json"))))
+    if INTERJECTION_DIR.exists():
+        json_files.extend(sorted(list(INTERJECTION_DIR.glob("*.json"))))
     
     if not json_files:
         print("Error: No JSON files found in vocabulary directories.", file=sys.stderr)
@@ -136,10 +139,14 @@ def init_db(args):
         sys.exit(1)
 
     # 3. Create minimal table
+    # Note: gloss is deliberately NOT unique — the lexicon legitimately
+    # contains duplicate glosses across parts of speech (e.g. a content
+    # word and a particle sharing a short gloss). Only the word itself
+    # must be unique.
     cursor.execute("""
     CREATE TABLE lexicon (
         word TEXT PRIMARY KEY,
-        gloss TEXT UNIQUE NOT NULL,
+        gloss TEXT NOT NULL,
         source_file TEXT NOT NULL
     )
     """)
@@ -268,16 +275,19 @@ def add_entry(args):
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # Check for duplicates
-    cursor.execute("""
-    SELECT word FROM lexicon 
-    WHERE LOWER(word) = ? OR LOWER(gloss) = ?
-    """, (entry['word'].lower(), entry['gloss'].lower()))
-    
+    # Check for duplicates: a duplicate word is an error; a duplicate
+    # gloss is only a warning (glosses may repeat across parts of speech).
+    cursor.execute("SELECT word FROM lexicon WHERE LOWER(word) = ?",
+                   (entry['word'].lower(),))
     if cursor.fetchone():
-        print(f"Error: '{entry['word']}' or '{entry['gloss']}' already exists.", file=sys.stderr)
+        print(f"Error: word '{entry['word']}' already exists.", file=sys.stderr)
         conn.close()
         sys.exit(1)
+    cursor.execute("SELECT word FROM lexicon WHERE LOWER(gloss) = ?",
+                   (entry['gloss'].lower(),))
+    existing = cursor.fetchone()
+    if existing:
+        print(f"Warning: gloss '{entry['gloss']}' already used by '{existing[0]}'.")
 
     # Determine relative path
     if json_path.is_absolute():
@@ -431,6 +441,9 @@ def sync_index(args):
             json_files[str(f.relative_to(PROJECT_ROOT))] = f
     if FUNCTION_DIR.exists():
         for f in FUNCTION_DIR.rglob("*.json"):
+            json_files[str(f.relative_to(PROJECT_ROOT))] = f
+    if INTERJECTION_DIR.exists():
+        for f in INTERJECTION_DIR.glob("*.json"):
             json_files[str(f.relative_to(PROJECT_ROOT))] = f
 
     conn = sqlite3.connect(DB_PATH)

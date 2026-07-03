@@ -1,71 +1,66 @@
 # Phi Vocabulary Management Scripts
 
-## check_vocabulary.py
+The vocabulary JSON files under `vocabulary/` are the single source of
+truth. These scripts validate them and keep the SQLite index in sync.
 
-A Python script to help prevent duplicate words when creating new Phi vocabulary.
+## validate_examples.py — the main validator
 
-### Features
+Checks the entire language for internal consistency:
 
-- **Duplicate Detection**: Checks if a word already exists in the vocabulary
-- **Similar Word Detection**: Finds words that differ by only one character
-- **Interactive Mode**: Check words one at a time
-- **Batch Mode**: Check multiple words from a file
-- **List Mode**: Display all existing words alphabetically
+- **Lexicon integrity**: required schema fields, no undeclared fields,
+  valid pillar keys, phonotactic legality of every word, `syllables`
+  arrays matching canonical hiatus syllabification, duplicate words,
+  duplicate glosses (warning).
+- **Documentation examples**: every Phi word used in examples in
+  `documents/`, `manual/`, `pamphlets/`, and `CLAUDE.md` must exist in
+  the vocabulary. Works on fenced code blocks and *italicized* spans.
+- **Collision check for new coinages**: `neighbors WORD` lists every
+  existing word within edit distance 1 of a candidate.
 
-### Usage
-
-#### Interactive Mode (default)
 ```bash
-python3 scripts/check_vocabulary.py
-# or
-./scripts/phicheck
+python3 scripts/validate_examples.py                 # full check
+python3 scripts/validate_examples.py --lexicon-only
+python3 scripts/validate_examples.py --docs-only
+python3 scripts/validate_examples.py --paths manual/part4_grammar
+python3 scripts/validate_examples.py --show-warnings
+python3 scripts/validate_examples.py neighbors phika # before coining
 ```
 
-Enter words one at a time to check for duplicates. Type 'quit' to exit.
+Exit code 0 means no errors. Run the full check before every commit
+that touches vocabulary or documentation examples.
 
-#### List All Words
+Known limitation: single-word *italic* mentions in prose are not checked
+(the English/Phi heuristic needs at least two tokens). When retiring or
+renaming a word, grep for it explicitly.
+
+## check_duplicates.py
+
+Strict duplicate word/gloss checker across all vocabulary JSON.
+Exits non-zero if any duplicates exist.
+
+## lexicon_tool_simple.py
+
+Lightweight SQLite index (`lexicon.db`) over the JSON files, for fast
+lookups. Scans `vocabulary/content/`, `vocabulary/function/` (recursive),
+and `vocabulary/interjection/`. Glosses may repeat; words may not.
+
 ```bash
-python3 scripts/check_vocabulary.py --list
-# or
-./scripts/phicheck --list
+python3 scripts/lexicon_tool_simple.py init     # rebuild from JSON
+python3 scripts/lexicon_tool_simple.py find WORD_OR_GLOSS
+python3 scripts/lexicon_tool_simple.py view WORD
+python3 scripts/lexicon_tool_simple.py list
+python3 scripts/lexicon_tool_simple.py sync
 ```
 
-Lists all words in the vocabulary with their glosses and categories.
+Note: `find` exits 1 when the term EXISTS (i.e. "not available for
+coinage") and 0 when it is free.
 
-#### Batch Check
-```bash
-python3 scripts/check_vocabulary.py --batch words_to_check.txt
-# or
-./scripts/phicheck --batch words_to_check.txt
-```
+## Formatters
 
-Checks all words listed in a text file (one word per line).
+`format_json.py`, `reformat_json.py`, `reformat_json_compact.py`,
+`batch_format.py`, `standardize_ipa.py` — JSON/IPA formatting utilities.
 
-### Example Output
+## deprecated/
 
-```
-Enter a Phi word to check (or 'quit' to exit): shelu
-
-❌ DUPLICATE FOUND: 'shelu' already exists as:
-   - mercy (abstract-qualities-and-values)
-
-Enter a Phi word to check (or 'quit' to exit): shela
-
-⚠️  SIMILAR WORDS FOUND (differ by 1 character):
-   'shelu':
-      - mercy (abstract-qualities-and-values)
-
-Enter a Phi word to check (or 'quit' to exit): phika
-
-✅ 'phika' is available - no duplicates or similar words found!
-```
-
-### Integration with Claude Code
-
-When creating new words with Claude Code, you can:
-
-1. Run the script before starting to see all existing words
-2. Check each new word interactively as you create it
-3. Create a batch file of planned words and check them all at once
-
-This helps maintain the integrity of the Phi vocabulary by preventing accidental duplicates and ensuring each word is unique.
+Scripts that no longer match the repository layout and produce wrong
+results. See `deprecated/README.md` before touching anything in there.
