@@ -1,21 +1,20 @@
 {
-  "word": "phoi",
+  "word": "lue",
   "gloss": "ABL",
-  "ipa": "/ˈɸo̞.i/",
+  "ipa": "/ˈlu.e̞/",
   "syllables": [
-    "pho",
-    "i"
+    "lu",
+    "e"
   ],
   "pos": [
     "preposition"
   ],
-  "concept": "From / Point of Origin / Source",
-  "description": "Marks the ablative case, indicating the source or starting point of motion, origin of objects, or point of departure for changes. More than mere direction, 'phoi' acknowledges origins as ongoing relationships—we carry our 'from' with us, shaped by but not chained to our sources.",
-  "sound_symbolism": "The word begins with 'phoi', where the soft bilabial fricative 'ɸ' releases breath like the beginning of movement itself—the gentlest possible departure. The round 'o' suggests the fullness of origin, the complete place or state from which motion begins. This wholeness then focuses into 'i', the precise vowel of specific direction, like an arrow released from a bow. The acoustic journey from soft release through fullness to focused direction mirrors how departure preserves the memory of origin even as it moves away.",
-  "grammatical_notes": "Functions as the primary ablative preposition, marking sources of physical motion: 'phoi [mountain]' (from mountain = from the mountain), origins of objects: 'phoi [friend] [gift]' (from friend gift = gift from a friend), starting points of change: 'phoi [seed] wei [tree]' (from seed to tree = from seed to tree). Unlike some languages, does not distinguish between animate and inanimate sources—both use 'phoi'. Often pairs with motion verbs but can also mark static relationships of origin.",
+  "concept": "From / Source / Origin Point",
+  "description": "The ablative preposition marking the source or origin of motion, transfer, or derivation: a letter from a friend, walking from the forest, a story from long ago. Announces that what follows is a point of origin, completing the source-family of prepositions: 'mua' (at/in), 'mue' (out of), 'lue' (from).",
+  "sound_symbolism": "The liquid 'l' begins in motion, flowing outward. The deep 'u' rests at the source itself, and the settling 'e' arrives where the movement comes to be. Speaking 'lue' traces the whole arc of departure: from depth, through flow, to presence.",
+  "grammatical_notes": "Follows the modifier-first principle: always precedes its object. 'lue shelira' (from the forest), 'lue melu' (from a friend). Replaces the earlier form 'phoi', which collided with the scale-unit 'phoi' (nine-group). Related prepositions: 'mue' (out of, motion from inside), 'phei' (away, directional), 'lue' (from, source/origin).",
   "pillars": {
-    "pre-industrial-wisdom": "Traditional knowledge systems honor origins—knowing where things come from (water from springs, wisdom from ancestors) maintains right relationship. 'Phoi' carries this understanding that sources continue to matter even after departure.",
-    "secular-buddhist-philosophy": "The word embodies the teaching of conditioned arising—everything comes from somewhere, carries its causes forward. Yet the soft articulation reminds us that origins need not be prisons; we can acknowledge where we're from while choosing where we go.",
-    "solarpunk-values": "Tracing materials and ideas to their sources enables ethical choice and systemic understanding. 'Phoi' serves the solarpunk practice of following chains back to origins, understanding the true costs and gifts of what we use."
+    "pre-industrial-wisdom": "Knowing where things come from — food, water, stories, kin — is foundational pre-industrial knowledge. 'Lue' keeps origins speakable and honored, resisting the placeless anonymity of industrial supply.",
+    "secular-buddhist-philosophy": "Every phenomenon arises from conditions. The ablative makes dependent origination grammatically available: nothing simply is; it is always from somewhere."
   }
 }

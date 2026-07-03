@@ -1,0 +1,25 @@
+{
+  "word": "lawe",
+  "gloss": "left",
+  "ipa": "/ˈlä.we̞/",
+  "syllables": [
+    "la",
+    "we"
+  ],
+  "pos": [
+    "noun",
+    "adjective"
+  ],
+  "concept": "Left / The Left Side / Leftward",
+  "description": "The left side of the body and, by extension, the left side of anything oriented: the left hand, the left path, the left bank of a river. Body-relative direction, as pre-industrial peoples navigated — by one's own two sides, not abstract coordinates.",
+  "sound_symbolism": "The liquid 'l' flows with the open 'a', then reaches outward through 'we' — the arm extending to one side. Deliberately shares no sounds with its partner 'kuri' (right), so the two directions can never be mistaken for each other, in speech or on the page.",
+  "grammatical_notes": "As a modifier it precedes its noun: 'lawe ruela' (the left path). As a noun it names the side itself: 'mua lawe' (on the left). Paired with 'kuri' (right); the pair is intentionally phonetically disjoint.",
+  "pillars": {
+    "pre-industrial-wisdom": "Direction reckoned from the body — the navigator's own left hand — rather than from an abstract grid. The body is the first compass.",
+    "peace-linguistics-practices": "Left and right carry no value weight in Phi: neither side is the 'right' one morally. The words are direction only, judgment removed by design."
+  },
+  "tags": {
+    "spatial": "Body-relative direction",
+    "physical": "Side of the body"
+  }
+}

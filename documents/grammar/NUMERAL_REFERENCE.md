@@ -222,7 +222,26 @@ Following modifier-first, quantifiers precede what they enumerate:
 - **`theula`** - all/every
 - **`sheloi`** - many
 - **`soli`** - several/some
+- **`phina`** - few
+- **`wheli`** - any
+- **`theli`** - each
+- **`henoi`** - enough
+- **`shelami`** - most
 - **`mawha`** - no/none (zero in emphatic contexts)
+
+Note the philosophically central **`henoi`** (enough): sufficiency is
+directly expressible as a quantity.
+
+### Asking About Quantity
+
+The interrogative **`wia`** (INT.Q) asks "how many?", typically
+preceding a classifier or noun:
+
+```
+wia himo miona
+INT.Q PERSON.CLF person
+(How many people?)
+```
 
 **Examples**:
 ```

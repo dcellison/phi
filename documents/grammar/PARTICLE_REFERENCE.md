@@ -438,6 +438,7 @@ While not technically particles, these function words occupy argument positions 
 - **`kua`** (where) - announces inquiry about place
 - **`misa`** (why) - announces inquiry about reason
 - **`thela`** (how) - announces inquiry about manner
+- **`wia`** (how many) - announces inquiry about quantity
 
 **Examples**:
 ```

@@ -1,0 +1,20 @@
+{
+  "word": "phina",
+  "gloss": "FEW",
+  "ipa": "/ˈɸi.n̪ä/",
+  "syllables": [
+    "phi",
+    "na"
+  ],
+  "pos": [
+    "quantifier"
+  ],
+  "concept": "Few / A Small Number / Sparse",
+  "description": "The quantifier marking a small, countable-feeling quantity — more than one or two, but noticeably not many. Completes the quantity scale: 'mawha' (none), 'phina' (few), 'soli' (some), 'sheloi' (many), 'theula' (all).",
+  "sound_symbolism": "The gentle bilabial breath 'phi' barely stirs the air — a quantity almost too small to disturb anything. The grounding 'na' settles it into fact. A small number, softly stated and firmly present.",
+  "grammatical_notes": "Precedes what it quantifies, per the modifier-first principle: 'phina melu' (few friends), 'phina philo' (a few days). Like all quantifiers, never combines with the plural particle 'lo' — the quantifier itself implies plurality.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Fewness is not lack. Naming a small quantity without judgment practices contentment with what is actually present.",
+    "peace-linguistics-practices": "An honest small number resists inflation. 'Phina' lets speakers be truthful about scarcity without alarm or shame."
+  }
+}

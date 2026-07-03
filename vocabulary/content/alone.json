@@ -1,0 +1,25 @@
+{
+  "word": "sonu",
+  "gloss": "alone",
+  "ipa": "/ˈso̞.n̪u/",
+  "syllables": [
+    "so",
+    "nu"
+  ],
+  "pos": [
+    "adjective",
+    "noun"
+  ],
+  "concept": "Alone / Solitude / Settled Aloneness",
+  "description": "Being by oneself — as a state, not a wound. Phi frames aloneness first as solitude: the settled, chosen quality of being singly present, as in meditation, a walk without company, a house at rest. Painful isolation is expressed by pairing it with feeling-words ('sonu nuhe', the sadness of aloneness) rather than built into the word itself.",
+  "sound_symbolism": "The soft 's' of quiet air, the whole round 'o' of a complete circle drawn around one person, then 'nu' — the grounding nasal turned inward to the deep 'u'. The sound settles downward into stillness: one being, sufficient, at rest.",
+  "grammatical_notes": "Predicative: 'mia sonu nai' (I am alone). Attributive, preceding its noun: 'sonu miona' (a person alone / a solitary person). As a noun: solitude itself. Value-neutral by design; combine with emotion words to specify the texture of the aloneness.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Solitude is the ground of practice — the mind met without distraction. 'Sonu' names aloneness without the assumption of suffering, leaving room for it to be peace.",
+    "pre-industrial-wisdom": "The shepherd's watch, the fisher's dawn, the forager's quiet path: traditional life honored productive solitude as a rhythm, not an affliction."
+  },
+  "tags": {
+    "emotion": "The felt state of being by oneself",
+    "wisdom": "Solitude as contemplative ground"
+  }
+}
