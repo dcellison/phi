@@ -1,3 +1,8 @@
+> **⚠️ ARCHIVED — NOT CURRENT CANON.** This document is preserved as
+> historical record only. It describes a superseded stage of Phi's design
+> and contradicts the current language in places. For current canon, see
+> `/CANON.md` at the repository root.
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.

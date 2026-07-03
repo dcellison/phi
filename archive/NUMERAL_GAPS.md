@@ -1,3 +1,8 @@
+> **⚠️ ARCHIVED — NOT CURRENT CANON.** This document is preserved as
+> historical record only. It describes a superseded stage of Phi's design
+> and contradicts the current language in places. For current canon, see
+> `/CANON.md` at the repository root.
+
 # Phi Numeral System: Gap Analysis for Future Development
 
 *Analysis completed January 2026*

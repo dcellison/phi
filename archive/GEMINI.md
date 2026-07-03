@@ -1,3 +1,8 @@
+> **⚠️ ARCHIVED — NOT CURRENT CANON.** This document is preserved as
+> historical record only. It describes a superseded stage of Phi's design
+> and contradicts the current language in places. For current canon, see
+> `/CANON.md` at the repository root.
+
 # Gemini's Guide to the Phi Language
 
 This document contains my complete understanding of the Phi language, based on the project's documentation. It will serve as my primary reference for all future tasks, ensuring my actions and contributions are consistent with the language's philosophy, grammar, and vocabulary.

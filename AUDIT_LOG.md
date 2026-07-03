@@ -78,3 +78,24 @@ Mostly philosophy/phonology, fewer examples.
 - Check tense marking consistency
 - Verify copular sentences have predicate before nai
 
+### 2026-07-03 — Correction and completion
+
+**Important correction:** the fixes logged above under 2026-02-05 were
+made on the branch `audit/documentation-examples`, which was **never
+merged** and no longer exists. Until 2026-07-03 the manual still
+contained kofe, nima, nolea, suno, and wiru-as-child. The "pamphlets
+verified — no vocabulary issues" claim was also incorrect (hasa, nae,
+nue, shema, pelae, and six nonexistent correlatives were present).
+
+All fixes were redone on branch `consistency/canon-repair`, verified
+mechanically this time:
+
+- Every item in the 2026-02-05 list re-applied (kofe→naphe, wiru→lopia,
+  nima→nulae, nolea→theo, suno→sorae, wela→towe/welao)
+- ch15 rebuilt (had phonology-violating words: via, vena, fina)
+- ch16 ki/si gloss inversion and Slot 1 ordering corrected
+- Reference docs re-baselined; pamphlet errors fixed
+- Checklist automated: `scripts/validate_examples.py` now verifies
+  word existence, phonotactics, syllable arrays, and duplicates.
+  Documentation validates with zero errors as of this entry.
+

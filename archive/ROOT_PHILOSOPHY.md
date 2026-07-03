@@ -1,3 +1,8 @@
+> **⚠️ ARCHIVED — NOT CURRENT CANON.** This document is preserved as
+> historical record only. It describes a superseded stage of Phi's design
+> and contradicts the current language in places. For current canon, see
+> `/CANON.md` at the repository root.
+
 # The Philosophical Integrity of the Phi Root System
 
 This document provides a detailed analysis of how the Phi conceptual root system is a true philosophical representation of the Five Pillars, not an arbitrary collection of sounds. It demonstrates the practice of **sound symbolism** (phonosemantics) used to build the language, where the sounds themselves have an inherent, non-arbitrary connection to their meaning.

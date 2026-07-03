@@ -12,27 +12,24 @@ A beautifully bound physical tome that embodies Phi aesthetics — the definitiv
 
 | Part | Title | Chapters | Status |
 |------|-------|----------|--------|
-| I | First Light | 1-2 | 🔲 Not started |
-| II | The Soul of Phi | 3-8 | 🔲 Adapting from book/ |
-| III | Phonology | 9-10 | 🔲 Adapting from book/ |
-| IV | Foundations | 11-17 | 🔲 Adapting from book/ |
-| V | Complex Structures | 18-22 | 🔲 Partially exists |
+| I | First Light | 1-2 | ✅ Drafted (`part1_first_light/`) |
+| II | The Soul of Phi | 3-8 | ✅ Drafted (`part2_soul/`) |
+| III | Phonology | 9-10 | ✅ Drafted (`part3_phonology/`) |
+| IV | Grammar | 11-17 | ✅ Drafted (`part4_grammar/`) |
+| V | Complex Structures | 18-21 | ✅ Drafted (`part5_complex/`) |
 | VI | Mastery | 23-25 | 🔲 Not started |
 | VII | Reference | — | 🔲 To be generated |
 
-## Source Material
-
-Existing content to adapt from `/book/`:
-- `part1_soul/` → Parts I, II (philosophy)
-- `part2_grammar/` → Parts III, IV (sounds, grammar)
-- `part3_complex_structures/` → Part V (complex)
-- `reference/` → Part VII
+The original `/book/` manuscript this manual replaced is preserved at
+`/archive/book/`.
 
 ## Canonical Sources
 
-All vocabulary and grammar must match:
+All vocabulary and grammar must match (see `/CANON.md`):
 - `/vocabulary/` — The authoritative lexicon
 - `/documents/grammar/` — The authoritative grammar rules
+
+Verify examples with `python3 scripts/validate_examples.py --paths manual`.
 
 ---
 

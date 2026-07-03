@@ -180,10 +180,16 @@ All vocabulary entries must include:
 - Interjection words → `/vocabulary/interjection/`
 - Grammar documentation → `/documents/grammar/`
 - Python scripts → `/scripts/`
-- Book content → `/book/`
+- Manual content → `/manual/`
+- Focused deep-dives → `/pamphlets/`
+- Historical material → `/archive/` (never a reference for current canon)
 - DO NOT access files from any other directory
 
 ### Reference Documentation
+**Authority order when documents disagree: see `/CANON.md`.**
+Validate vocabulary and examples before committing:
+`python3 scripts/validate_examples.py`
+
 For detailed information, consult:
 - **Sound system**: `documents/phonology_rules.md`, `documents/phonetics.md`
 - **Complete grammar**: `documents/grammar/01-principles.md` through `06-numerals.md`

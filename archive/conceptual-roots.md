@@ -1,3 +1,8 @@
+> **⚠️ ARCHIVED — NOT CURRENT CANON.** This document is preserved as
+> historical record only. It describes a superseded stage of Phi's design
+> and contradicts the current language in places. For current canon, see
+> `/CANON.md` at the repository root.
+
 # Phi Conceptual Roots
 
 This document is the single source of truth for the foundational semantic seeds used to build the Phi lexicon. Each root is a sound-meaning pair that can be composed with others to create new, transparently meaningful words.

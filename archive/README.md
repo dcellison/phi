@@ -1,0 +1,24 @@
+# Archive
+
+Everything in this directory is **historical record, not current canon**.
+It preserves superseded stages of Phi's design: the root-based
+phonosemantic system, the decimal numeral era, the original `book/`
+manuscript, the pre-2026 tutorial and guides, and old planning and
+comparison reports.
+
+Nothing here should be used as a reference for the current language.
+Vocabulary glosses, grammar rules, and numeral systems described in
+these files contradict the current design in places.
+
+For the authority order of current documentation, see `/CANON.md`.
+
+| Subdirectory / file | What it was |
+|---|---|
+| `book/` | The original 3-part manuscript, superseded by `/manual/` (Feb 2026) |
+| `tutorial/`, `guides/` | Pre-2026 lessons using retired vocabulary |
+| `TERNARY_NUMBER_SYSTEM.md` | The original ternary proposal, superseded by `documents/grammar/NUMERAL_REFERENCE.md` |
+| `conceptual-roots.md`, `sound-meaning.md`, `ROOT_PHILOSOPHY.md` | The abandoned syllable-as-root system (see `recap.md` for why) |
+| `CLAUDE.md`, `GEMINI.md` | Old project instructions predating modifier-first and ternary numerals |
+| `word-list-750.md`, `core-primes.md`, `essential-roots*.md` | Early lexicon plans, largely unrealized |
+| `vocabulary_comparison*` | One-time migration analyses |
+| `NUMERAL_GAPS.md`, `VOCABULARY_REPLACEMENTS.md`, `BOOK_SUMMARY.md` | Completed or superseded tracking documents |
