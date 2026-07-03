@@ -1,0 +1,26 @@
+{
+  "word": "ronua",
+  "gloss": "south",
+  "ipa": "/ro̞.ˈn̪u.ä/",
+  "syllables": [
+    "ro",
+    "nu",
+    "a"
+  ],
+  "pos": [
+    "noun",
+    "adjective"
+  ],
+  "concept": "South / The Open Turning Direction",
+  "description": "The cardinal direction opposite 'nitho' (north) — the open expanse toward which the still axis faces. One of the two coined cardinal anchors; east and west are expressed compositionally from the sun's path: 'sorae thorui' (sun's beginning, east) and 'sorae lumae' (sun's end, west).",
+  "sound_symbolism": "The flowing 'ro' sets out in motion, the grounding 'nu' passes through depth, and the open 'a' arrives at wide horizon — an expanse unrolling away from the fixed point. Deliberately shares almost nothing with its partner 'nitho' (north), or with 'lawe'/'kuri' (left/right), so the four directions can never be confused.",
+  "grammatical_notes": "As a modifier it precedes its noun: 'ronua ruela' (the south path). With prepositions: 'wea ronua' (southward), 'lue ronua' (from the south). Value-neutral by design: south carries no sense of down, heat, or lesserness — those associations are hemisphere- and map-relative, which Phi declines to encode.",
+  "pillars": {
+    "pre-industrial-wisdom": "The direction the sky-watcher faces away from the axis — the other half of the oldest compass, complete with two words and the sun's own path.",
+    "peace-linguistics-practices": "No direction is 'down' or lesser in Phi. The compass is a circle of equals, and its words refuse the map-maker's hierarchy."
+  },
+  "tags": {
+    "spatial": "Cardinal direction opposite the axis point",
+    "nature": "The open expanse of the turning sky"
+  }
+}
