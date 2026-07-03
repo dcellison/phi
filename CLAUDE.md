@@ -59,7 +59,7 @@ Each new word must explicitly connect to at least one pillar:
 
 ### Semantic Principles
 - [ ] **Avoid violence**: No direct words for weapons, war, harm
-- [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., wela = good+beautiful)
+- [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., womu = house+belonging, the dwelling-heart)
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
 - [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
 - [ ] **Maintain value neutrality**: Let speakers map to their own cultural understanding

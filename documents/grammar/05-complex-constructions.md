@@ -12,7 +12,7 @@ When the modified noun is implicit, the relative clause itself functions as a co
 
 **Example:**
 ```
-[lothea kela] shia
+[lothea shelomui] shia
 [love understand] 3SG
 (The one who understands love.)
 ```
@@ -47,9 +47,9 @@ Conditional sentences announce their hypothetical nature from the start using th
 **Structure:** `lu [CONDITION], [CONSEQUENCE]`
 
 ```
-lu thia kofe, mia wela phaelo
-COND 2SG help, 1SG good feel
-(If you help, I will feel good.)
+lu thia naphe. mia towe phaelo
+COND 2SG help. 1SG well feel
+(If you help, I will feel well.)
 ```
 
 ### 5.2.2. Unreal Conditions (Counterfactuals)
@@ -57,8 +57,8 @@ COND 2SG help, 1SG good feel
 The combination `lu he` announces counterfactual conditions:
 
 ```
-lu he mia to kofe, shia ma to wepu
-COND IRR 1SG PST help, 3SG NEG PST leave
+lu he mia to naphe. shia to ma wepu
+COND IRR 1SG PST help. 3SG PST NEG leave
 (If I had helped, ko would not have left.)
 ```
 
@@ -81,7 +81,7 @@ mia miso nila
 The reciprocal pronoun `wiso` announces mutual action:
 
 ```
-nai wiso lothea
+lo mia wiso lothea
 1PL RECP love
 (We love each other.)
 ```

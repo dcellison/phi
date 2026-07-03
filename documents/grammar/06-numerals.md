@@ -42,10 +42,10 @@ Beyond 27 (`ta lau`), exact counting becomes increasingly difficult and unnatura
 
 **Common approximations:**
 Scale units can stand alone to indicate approximate quantities:
-- `shao [days]` - "a three-group of days" (roughly 3)
-- `phoi [people]` - "a nine-group of people" (roughly 9)
-- `lau [trees]` - "a twenty-seven-group of trees" (many)
-- `rei [stars]` - "an eighty-one-group of stars" (countless)
+- `shao philo` - "a three-group of days" (roughly 3)
+- `phoi miona` - "a nine-group of people" (roughly 9)
+- `lau shiro` - "a twenty-seven-group of trees" (many)
+- `rei silero` - "an eighty-one-group of stars" (countless)
 
 ## 6.4. Ordinal Numbers: Announcing Position
 
@@ -62,8 +62,8 @@ The Slot 2 particle `nu` announces that a number indicates position rather than 
 - **Second:** `nu wi`
 - **Third:** `nu ta shao`
 - **Ninth:** `nu ta phoi`
-- **First child:** `nu ta wiru`
-- **Third day:** `nu ta shao nila`
+- **First child:** `nu ta lopia`
+- **Third day:** `nu ta shao philo`
 
 The particle precedes the number, announcing the ordinal transformation before the quantity is stated—perfect modifier-first ordering.
 

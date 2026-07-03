@@ -23,11 +23,11 @@ Following the modifier-first principle, Phi places verbs at the end of clauses, 
 **Core Patterns:**
 - **S-V (Intransitive):** `mia nima.` (I sleep.)
 - **S-O-V (Transitive):** `mia nophi kealo.` (I create a story.)
-- **S-[Adverbial(s)]-O-V:** `mia thea lopia nophi kealo.` (I today a beautiful story create.)
+- **S-[Adverbial(s)]-O-V:** `mia nosa phelora nophi kealo.` (I now a beautiful story create.)
 - **S-[Adverbial(s)]-V:**
   ```
-  mia [mua thepalu] phaelo wela
-  1SG [in garden] feel well
+  mia [mua thepalu] towe phaelo
+  1SG [in garden] well feel
   (I feel well in the garden.)
   ```
 
@@ -37,19 +37,19 @@ This verb-final order isn't arbitrary—it embodies the philosophical commitment
 
 ### 1.3.1. Descriptive Modifiers
 All descriptive elements precede what they describe:
-- **Adjectives before nouns:** `lopia shelu` (beautiful book)
-- **Adverbs before verbs:** `nosa kealo` (mindfully create)
+- **Adjectives before nouns:** `phelora shelu` (beautiful book)
+- **Adverbs before verbs:** `thesua kealo` (mindfully create)
 - **Demonstratives before nouns:** `ha melu` (this friend)
 
 ### 1.3.2. Possession as Modification
 Possession is expressed through the modifier-first principle—the possessor precedes the possessed:
-- **Simple possession:** `sila toremoa` (the community's story)
-- **Complex possession:** `[lopia melu] hauno` ([beautiful friend] house = the beautiful friend's house)
+- **Simple possession:** `sila nophi` (the community's story)
+- **Complex possession:** `[phelora melu] womu` ([beautiful friend] home = the beautiful friend's home)
 
 ### 1.3.3. Quantification as Modification
 Quantifiers precede what they count:
-- `theula lo melu` (all of the friends)
-- `sheloi toremoa` (many stories)
+- `theula melu` (all of the friends)
+- `sheloi nophi` (many stories)
 - `mawha melu` (no friend)
 
 ## 1.4. Prepositions: Announcing Relationships
@@ -62,9 +62,9 @@ Prepositions in Phi follow the modifier-first principle, announcing spatial, tem
 3. **Function:** Announce the relationship before delivering the content
 
 Examples:
-- `mua hauno` (in house = in the house)
+- `mua womu` (in home = in the home)
 - `wei mia` (to me)
-- `thue shiro` (through forest = through the forest)
+- `thue shelira` (through forest = through the forest)
 
 This prepositional system makes every spatial or temporal relationship explicit and transparent before the listener encounters the noun, preventing ambiguity and promoting conscious communication.
 

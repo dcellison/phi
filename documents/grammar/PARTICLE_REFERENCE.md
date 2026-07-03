@@ -6,11 +6,11 @@ This document provides a complete inventory of all particles in Phi, organized b
 
 Particles appear in a fixed order based on their slot:
 
-**[Slot 0] [Slot 1 stack] [Subject] [Slot 2] [Content]**
+**[Slot 0] [Subject] [Object] [Slot 1 stack] [Verb]** — Slot 2 particles attach directly before whichever word they modify
 
 Example:
 ```
-pi mia so ki po kela
+pi mia so ki po shelomui
 POL 1SG FUT PFV POSS understand
 (Politely, I will be able to have understood.)
 ```
@@ -26,7 +26,7 @@ These particles appear at the **very beginning** of a sentence and announce the 
 **Position**: Sentence-initial only
 **Example**:
 ```
-wa thia hurao lothea
+wa thia lumani lothea
 Q 2SG family love
 (Do you love your family?)
 ```
@@ -36,7 +36,7 @@ Q 2SG family love
 **Position**: Sentence-initial only
 **Example**:
 ```
-no hurao kofe
+no lumani naphe
 IMP family help
 (Help the family.)
 ```
@@ -46,9 +46,9 @@ IMP family help
 **Position**: Sentence-initial only
 **Example**:
 ```
-lu thia kofe, mia wela phaelo
-COND 2SG help, 1SG good feel
-(If you help, I will feel good.)
+lu thia naphe. mia towe phaelo
+COND 2SG help. 1SG well feel
+(If you help, I will feel well.)
 ```
 
 ### `lu he` - Irrealis Conditional (COND.IRR)
@@ -56,8 +56,8 @@ COND 2SG help, 1SG good feel
 **Position**: Sentence-initial only (two particles)
 **Example**:
 ```
-lu he mia to kofe, shia ma to wepu
-COND IRR 1SG PST help, 3SG NEG PST leave
+lu he mia to naphe. shia to ma wepu
+COND IRR 1SG PST help. 3SG PST NEG leave
 (If I had helped [but I didn't], ko would not have left.)
 ```
 
@@ -66,8 +66,8 @@ COND IRR 1SG PST help, 3SG NEG PST leave
 **Position**: Sentence-initial only
 **Example**:
 ```
-su sila wela nai
-OPT community good be
+su sila towe nai
+OPT community well be
 (May the community be well / I hope the community is well.)
 ```
 
@@ -76,11 +76,11 @@ OPT community good be
 **Position**: Sentence-initial only (can combine with other Slot 0 particles)
 **Example**:
 ```
-pi no hurao kofe
+pi no lumani naphe
 POL IMP family help
 (Please help the family.)
 
-pi wa thia po kofe
+pi wa thia po naphe
 POL Q 2SG POSS help
 (Could you please help?)
 ```
@@ -99,7 +99,7 @@ These particles appear **before the verb** and announce temporal, aspectual, evi
 **Function**: Announces action occurred in the past
 **Example**:
 ```
-mia to kela
+mia to shelomui
 1SG PST understand
 (I understood.)
 ```
@@ -108,7 +108,7 @@ mia to kela
 **Function**: Announces action will occur in the future
 **Example**:
 ```
-mia so kela
+mia so shelomui
 1SG FUT understand
 (I will understand.)
 ```
@@ -121,7 +121,7 @@ mia so kela
 **Function**: Announces completed action with present relevance
 **Example**:
 ```
-mia to ki kela
+mia to ki shelomui
 1SG PST PFV understand
 (I have understood.)
 ```
@@ -130,7 +130,7 @@ mia to ki kela
 **Function**: Announces ongoing, habitual, or progressive action
 **Example**:
 ```
-mia si kela
+mia si shelomui
 1SG IPFV understand
 (I am understanding / I habitually understand.)
 ```
@@ -139,7 +139,7 @@ mia si kela
 **Function**: Announces the beginning of an action
 **Example**:
 ```
-mia pa kela
+mia pa shelomui
 1SG INCH understand
 (I begin to understand / I am starting to understand.)
 ```
@@ -148,7 +148,7 @@ mia pa kela
 **Function**: Announces the ending of an action
 **Example**:
 ```
-mia te kela
+mia te shelomui
 1SG CESS understand
 (I stop understanding / I cease to understand.)
 ```
@@ -200,7 +200,7 @@ shia to ke wepu
 **Function**: Announces that the speaker received this information from another source
 **Example**:
 ```
-lo miona ti kofe
+lo miona ti naphe
 PL person REP help
 (People helped [I was told].)
 ```
@@ -209,7 +209,7 @@ PL person REP help
 **Function**: Announces that the speaker is assuming or supposing rather than knowing
 **Example**:
 ```
-thia ho kela
+thia ho shelomui
 2SG ASM understand
 (You understand [I assume].)
 ```
@@ -220,7 +220,7 @@ thia ho kela
 **Function**: Announces that the action is possible or that the subject has ability
 **Example**:
 ```
-mia po kela
+mia po shelomui
 1SG POSS understand
 (I can understand / I am able to understand.)
 ```
@@ -229,7 +229,7 @@ mia po kela
 **Function**: Announces that the action is necessary or obligatory
 **Example**:
 ```
-mia na kofe
+mia na naphe
 1SG NEC help
 (I must help / I have to help.)
 ```
@@ -239,11 +239,11 @@ mia na kofe
 **Structure**: Changes sentence structure - the causer becomes subject, original subject becomes object
 **Examples**:
 ```
-Base:      wiru nima           (The child sleeps.)
-Causative: mia wiru ka nima    (I make the child sleep.)
+Base:      lopia nulae           (The child sleeps.)
+Causative: mia lopia ka nulae    (I make the child sleep.)
 
-Base:      thia toremoa kela      (You understand the story.)
-Causative: mia thia toremoa ka kela (I make you understand the story.)
+Base:      thia nophi shelomui      (You understand the story.)
+Causative: mia thia nophi ka shelomui (I make you understand the story.)
 ```
 
 ### Negation
@@ -253,11 +253,11 @@ Causative: mia thia toremoa ka kela (I make you understand the story.)
 **Position**: After all other Slot 1 particles
 **Example**:
 ```
-mia ma kela
+mia ma shelomui
 1SG NEG understand
 (I do not understand.)
 
-mia so ki po ma kela
+mia so ki po ma shelomui
 1SG FUT PFV POSS NEG understand
 (I will not be able to have understood.)
 ```
@@ -266,7 +266,7 @@ mia so ki po ma kela
 
 When multiple Slot 1 particles combine, they follow strict ordering:
 ```
-mia to si ke po ma kela
+mia to si ke po ma shelomui
 1SG PST IPFV INFER POSS NEG understand
 (I was not being able to understand [I infer].)
 ```
@@ -311,11 +311,11 @@ sheloi melu      (many friends - quantifier implies plural)
 **Structure**: `nu [cardinal number] [noun]`
 **Example**:
 ```
-nu ta wiru
+nu ta lopia
 ORD one child
 (first child)
 
-nu wi nila
+nu wi philo
 ORD two day
 (second day)
 ```
@@ -326,9 +326,20 @@ ORD two day
 **Function**: Announces emphatic focus on a particular element
 **Example**:
 ```
-mia ko lothea kela
+mia ko lothea shelomui
 1SG FOC love understand
 (I understand *love* [specifically, not other things].)
+```
+
+### Intensity
+
+#### `ru` - Intensifier (INTNS)
+**Function**: Announces intensification of the following word ("very", "truly")
+**Example**:
+```
+ru welao
+INTNS good
+(very good)
 ```
 
 ### Comparison
@@ -337,8 +348,8 @@ mia ko lothea kela
 **Function**: Announces comparative degree ("more")
 **Example**:
 ```
-thepalu sheo shiro mo wela nai
-garden than forest CMPR good be
+thepalu sheo shelira mo phelora nai
+garden than forest CMPR beautiful be
 (The garden is more beautiful than the forest.)
 ```
 
@@ -346,8 +357,8 @@ garden than forest CMPR good be
 **Function**: Announces superlative degree ("most")
 **Example**:
 ```
-ha thepalu mo ko wela nai
-PROX garden CMPR FOC good be
+ha thepalu mo ko phelora nai
+PROX garden CMPR FOC beautiful be
 (This garden is the most beautiful.)
 ```
 
@@ -430,11 +441,11 @@ While not technically particles, these function words occupy argument positions 
 
 **Examples**:
 ```
-sua lothea kela
+sua lothea shelomui
 who love understand
 (Who understands love?)
 
-mia hina kela
+mia hina shelomui
 1SG what understand
 (What do I understand?)
 
@@ -458,7 +469,7 @@ These announce how the current sentence relates to prior discourse. They appear 
 
 **Example**:
 ```
-mia lothea kela. kewai, shia ma kela.
+mia lothea shelomui. kewai, shia ma shelomui.
 1SG love understand. however, 3SG NEG understand
 (I understand love. However, ko does not understand.)
 ```
@@ -479,9 +490,9 @@ mia kelu nela sila lothea
 1SG peace COORD community love
 (I love peace and community.)
 
-wa [shia lopia] sola [philo]
-Q [3SG beautiful] OR [calm]
-(Is it beautiful or calm?)
+wa [shia phelora] sola [thiku]
+Q [3SG beautiful] OR [small]
+(Is it beautiful or small?)
 ```
 
 ---
@@ -501,7 +512,7 @@ mia miso nila
 **Function**: Announces mutual action between plural subjects
 **Example**:
 ```
-nai wiso lothea
+lo mia wiso lothea
 1PL RECP love
 (We love each other.)
 ```

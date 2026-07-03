@@ -82,10 +82,10 @@ Scale units can stand alone to indicate approximate quantities, encouraging thin
 
 **Examples**:
 ```
-shao nila         (roughly 3 days / a few days)
+shao philo         (roughly 3 days / a few days)
 phoi miona        (roughly 9 people / several people)
 lau shiro         (roughly 27 trees / many trees)
-rei remo         (roughly 81 stars / countless stars)
+rei silero         (roughly 81 stars / countless stars)
 ```
 
 This usage is preferred in Phi for most everyday contexts, as it resists the psychological violence of precise measurement.
@@ -132,9 +132,9 @@ ta shao lipha shiro
 one three-group LIFE.CLF tree
 (three trees - acknowledging their aliveness)
 
-wi lipha phue
-two LIFE.CLF cat
-(two cats - honoring them as living beings)
+wi lipha nolika
+two LIFE.CLF animal
+(two animals - honoring them as living beings)
 ```
 
 **Inanimate Objects**:
@@ -143,20 +143,20 @@ ta themo shelu
 one OBJECT.CLF book
 (one book - a thing, not alive)
 
-wi shao themo toremoa
-two three-groups OBJECT.CLF stone
-(six stones - inanimate objects)
+wi shao themo wiru
+two three-groups OBJECT.CLF basket
+(six baskets - inanimate objects)
 ```
 
 **Abstract Concepts**:
 ```
-wi nophe toremoa
+wi nophe nophi
 two ABSTRACT.CLF story
 (two stories - conceptual entities)
 
-ta shao nophe thela
-one three-group ABSTRACT.CLF idea
-(three ideas)
+ta shao nophe theloa
+one three-group ABSTRACT.CLF truth
+(three truths)
 ```
 
 ### Optional but Meaningful
@@ -189,9 +189,9 @@ nu wi           (second / in second position)
 nu ta shao       (third)
 nu ta phoi       (ninth)
 
-nu ta wiru      (first child)
-nu wi nila      (second day)
-nu ta shao toremoa (third story)
+nu ta lopia      (first child)
+nu wi philo      (second day)
+nu ta shao nophi (third story)
 ```
 
 **Usage**: This is the standard grammatical way to form ordinals for most contexts.
@@ -227,8 +227,8 @@ Following modifier-first, quantifiers precede what they enumerate:
 **Examples**:
 ```
 theula melu      (all friends)
-sheloi toremoa       (many stories)
-soli nila          (several days)
+sheloi nophi       (many stories)
+soli philo          (several days)
 mawha melu       (no friends)
 ```
 
@@ -242,7 +242,7 @@ When all elements combine, they follow strict modifier-first ordering:
 
 **Example**:
 ```
-ha wi himo lopia melu
+ha wi himo phelora melu
 PROX two PERSON.CLF beautiful friend
 (these two beautiful friends - acknowledging their humanity)
 ```
@@ -251,7 +251,7 @@ Order breakdown:
 1. `ha` - announces proximity (this/these)
 2. `wi` - announces quantity (two)
 3. `himo` - announces nature (people)
-4. `lopia` - announces quality (beautiful)
+4. `phelora` - announces quality (beautiful)
 5. `melu` - the entity itself (friend)
 
 ---
@@ -270,7 +270,7 @@ ta phoi himo miona      (nine people - number implies plural)
 **With quantifiers (no `lo` needed)**:
 ```
 sheloi melu          (many friends - quantifier implies plural)
-soli nila              (several days - quantifier implies plural)
+soli philo              (several days - quantifier implies plural)
 theula miona           (all people - quantifier implies plural)
 ```
 
@@ -278,7 +278,7 @@ theula miona           (all people - quantifier implies plural)
 ```
 lo melu              (friends - plural, no specific quantity)
 mia lo melu phaelo     (I feel my friends - multiple, uncounted)
-lo shiro lopia nai      (Trees are beautiful - trees in general)
+lo shiro phelora nai      (Trees are beautiful - trees in general)
 ```
 
 This follows the pattern of classifier languages where numerals encode plurality, preventing redundant marking.
@@ -384,7 +384,7 @@ Phi provides two verbs for comparing quantities that maintain strict value neutr
 | Comparison | Word | IPA | Concept |
 |------------|------|-----|---------|
 | Greater than | **`theloi`** | /θe.lo.i/ | exceeds in magnitude |
-| Less than | **`phenoi`** | /ɸe.no.i/ | falls short in magnitude |
+| Less than | **`thenoi`** | /ɸe.no.i/ | falls short in magnitude |
 
 ### Sentence Structure
 
@@ -403,7 +403,7 @@ nine three exceeds
 
 **Less Than (3 < 9)**:
 ```
-ta shao ta phoi phenoi
+ta shao ta phoi thenoi
 three nine falls-short
 (Three falls short of nine in magnitude)
 ```
@@ -414,21 +414,21 @@ wa ta shao wi shao theloi?
 Q three six exceeds
 (Does three exceed six? / Is 3 > 6?)
 
-wa wi shao ta phoi phenoi?
+wa wi shao ta phoi thenoi?
 Q six nine falls-short
 (Does six fall short of nine? / Is 6 < 9?)
 ```
 
 ### Negation for Inclusive Comparisons
 
-Use `ne` (negation) for "greater than or equal" / "less than or equal":
+Use `ma` (negation) for "greater than or equal" / "less than or equal":
 
 ```
-ta shao ta shao ne phenoi
+ta shao ta shao ma thenoi
 three three NEG falls-short
 (Three does not fall short of three / 3 ≥ 3)
 
-wi shao ta phoi ne theloi
+wi shao ta phoi ma theloi
 six nine NEG exceeds
 (Six does not exceed nine / 6 ≤ 9)
 ```
@@ -448,7 +448,7 @@ nine PERSON.CLF person six PERSON.CLF person exceeds
 These verbs embody Phi's commitment to separating observation from judgment:
 
 - **`theloi` (exceeds)**: States that one quantity surpasses another—a fact of magnitude, not a claim of superiority
-- **`phenoi` (falls-short)**: States that one quantity does not reach another—a fact of magnitude, not a claim of inadequacy
+- **`thenoi` (falls-short)**: States that one quantity does not reach another—a fact of magnitude, not a claim of inadequacy
 
 This separation prevents the subtle violence of conflating "more" with "better" or "less" with "worse." Nine exceeds three; three falls short of nine. Neither statement implies value judgment.
 
@@ -482,22 +482,22 @@ Together they ensure counting remains a mindful acknowledgment rather than mecha
 ### Small Quantities (Exact)
 For everyday small quantities, use base numerals with optional classifiers:
 ```
-ta himo wiru         (one child)
-wi lipha phue       (two cats)
+ta himo lopia         (one child)
+wi lipha nolika       (two animals)
 ```
 
 ### Medium Quantities (Approximate)
 For quantities that aren't critical to specify exactly, use scale units alone:
 ```
 shao melu           (a few friends / roughly 3)
-phoi nila             (several days / roughly 9)
+phoi philo             (several days / roughly 9)
 ```
 
 ### Large Quantities (Impressionistic)
 For large quantities, embrace approximation:
 ```
 lau shiro            (many trees / a grove)
-rei remo            (countless stars / the heavens)
+rei silero            (countless stars / the heavens)
 sheloi miona         (many people / a crowd)
 ```
 
@@ -524,7 +524,7 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 - `sholei` (add), `leiro` (subtract), `welura` (multiply), `phanoi` (divide), `kelai` (equals)
 
 ### Magnitude Comparison
-- `theloi` (exceeds / greater than), `phenoi` (falls-short / less than)
+- `theloi` (exceeds / greater than), `thenoi` (falls-short / less than)
 
 ### Structure
 - Basic: `[number] [noun]`

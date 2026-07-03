@@ -10,7 +10,7 @@ The Slot 0 particle `wa` announces that what follows is a question, not a statem
 
 **Example:**
 ```
-wa thia hurao lothea
+wa thia lumani lothea
 Q 2SG family love
 (Do you love your family?)
 ```
@@ -31,11 +31,11 @@ Content questions use interrogative pronouns that occupy the position of the unk
 
 **Examples:**
 ```
-sua lothea kela
+sua lothea shelomui
 who love understand
 (Who understands love?)
 
-mia hina kela
+mia hina shelomui
 1SG what understand
 (What do I understand?)
 
@@ -62,14 +62,14 @@ The requirement to announce interrogative intent forces speakers to be conscious
 Questions can combine with other particles while maintaining the modifier-first principle:
 
 ```
-wa pi thia hurao kofe po
-Q POL 2SG family help POSS
+pi wa thia lumani po naphe
+POL Q 2SG family POSS help
 (Could you please help the family?)
 ```
 
 Here, each particle announces its function in sequence:
-- `wa` announces a question
 - `pi` announces politeness
+- `wa` announces a question
 - `po` announces possibility
 
 This layered announcement creates transparent, conscious communication where every grammatical choice is explicit and intentional.

@@ -25,14 +25,14 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 [REL 1SG PST see] book
 (the book that I saw)
 
-[rena shiro mue nai] thimu
+[rena shelira mua nai] ruela
 [REL forest in be] path
 (the path that is in the forest)
 ```
 
 **Headless relative clauses** (when the noun is implicit):
 ```
-[rena lothea kela] shia
+[rena lothea shelomui] shia
 [REL love understand] 3SG
 (The one who understands love.)
 ```
@@ -50,7 +50,7 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 
 **Examples**:
 ```
-shia shola suno phelora nai sholo haolu
+shia shola sorae phelora nai sholo haolu
 3SG QUOT sun beautiful be QUOT.CLOSE say
 (She says, "The sun is beautiful.")
 
@@ -74,29 +74,29 @@ mia shola mia so wepu sholo haolu
 
 **Examples**:
 ```
-mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL 3SG PST leave DECL.CLOSE understand
 (I understand that ko left.)
 
-shia mena thia wepu meno haolu
-3SG DECL 2SG leave DECL.CLOSE say
+shia mena thia to wepu meno to haolu
+3SG DECL 2SG PST leave DECL.CLOSE PST say
 (She said that you left.)
 
-mia mena suno theru nai meno phaelo
+mia mena sorae sulae nai meno phaelo
 1SG DECL sun warm be DECL.CLOSE feel
 (I feel that the sun is warm.)
 ```
 
 **Nesting**: `mena`/`meno` clauses can nest. Each `mena` must have its own `meno`:
 ```
-mia mena thia mena shia wepu meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG leave DECL.CLOSE feel DECL.CLOSE understand
+mia mena thia mena shia to wepu meno phaelo meno shelomui
+1SG DECL 2SG DECL 3SG PST leave DECL.CLOSE feel DECL.CLOSE understand
 (I understand that you feel that ko left.)
 ```
 
 **Comparison with `shola`/`sholo`**:
 - `shia shola "mia wepu" sholo haolu` = She said: "I'm leaving." (exact words)
-- `shia mena thia wepu meno haolu` = She said that you left. (reported content)
+- `shia mena thia to wepu meno to haolu` = She said that you left. (reported content)
 
 ---
 
@@ -111,15 +111,15 @@ mia mena thia mena shia wepu meno phaelo meno shelomui
 
 **Examples**:
 ```
-mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
 (I wonder whether ko left.)
 
-shia wela mia to nila welo nomei
-3SG INT.COMP 1SG PST see INT.COMP.CLOSE ask
+shia wela mia to nila welo to thilou
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST ask
 (She asked whether I had seen.)
 
-lo mia wela suno phelora nai welo ma shelomui
+lo mia wela sorae phelora nai welo ma shelomui
 1PL INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 (We don't know whether the sun is beautiful.)
 ```
@@ -153,7 +153,7 @@ kona melu, mia ha nai
 VOC friend, 1SG here be
 (Friend, I am here.)
 
-kona ne sa thala, wa thia wela nai
+kona ne sa thala, wa thia towe nai
 VOC NAME HON.RESPECT Thala, Q 2SG well be
 (Honored Thala, are you well?)
 

@@ -221,8 +221,10 @@ def check_lexicon(entries):
 # ---------------------------------------------------------------------------
 
 def strip_brackets(line):
-    """Remove [...] placeholder/label segments and punctuation."""
+    """Remove [...] placeholder/label segments, (...) inline translation
+    segments, and punctuation."""
     line = re.sub(r"\[[^\]]*\]", " ", line)
+    line = re.sub(r"\([^)]*\)", " ", line)
     return re.sub(r"[.,!?\"'():;*`“”‘’]", " ", line)
 
 
