@@ -302,14 +302,14 @@ transmutation handled each:
 
 | Concept | Handling | Follow-up? |
 |---|---|---|
-| anger / hatred | `korua thero` (heart-fire) — compositional metaphor | Works well; consider canonizing the compound in an emotions pamphlet |
+| anger / hatred | `korua thero` (heart-fire) — compositional metaphor | Canonized in `documents/COMPOUNDS.md` |
 | beings | `theula [rena lima nai]` (all that is alive) | No word needed — the relative clause is better than a noun |
-| born / birth | `wea lioru shua` (coming toward life) | A word for birth is a genuine Tier-1 gap (family/life domain) |
+| born / birth | `wea lioru shua` (coming toward life) | Resolved: `thowia` (born) coined in the Life-Arc Batch; the sutta's phrase stands as chosen poetry |
 | deceive / lie | `peshu` (lie) — coined in Word Batch 2 during this project | Resolved |
-| despise | `thiku nila` (see as small) | Compositional form arguably superior; no coinage needed |
-| safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | A dedicated "safe" adjective would help everyday usage |
+| despise | `thiku nila` (see as small) | Canonized in `documents/COMPOUNDS.md` |
+| safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | Resolved: `shurano` (safe) and `pukea` (danger) coined in the Life-Arc Batch |
 | lie down (posture) | `therilu` (rest) | Acceptable; posture verb is low priority |
-| fixed view / opinion | `remo kire` (thought-shape) | Compositional; consider for the cognition domain |
+| fixed view / opinion | `remo kire` (thought-shape) | Canonized in `documents/COMPOUNDS.md` |
 | sublime abiding | `shea menui` (dwelling of peace) | Transmutation, intentional |
 | rebirth | omitted; text closes on the path of peace | Doctrinal adaptation, recorded here deliberately |
 

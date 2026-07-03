@@ -1,0 +1,27 @@
+{
+  "word": "pukea",
+  "gloss": "danger",
+  "ipa": "/pu.ˈke̞.ä/",
+  "syllables": [
+    "pu",
+    "ke",
+    "a"
+  ],
+  "pos": [
+    "noun",
+    "adjective"
+  ],
+  "concept": "Danger / Present Risk / The Announced Edge",
+  "description": "The presence or nearness of possible harm — danger as a condition to be named and warned of, not an act committed. Phi has no vocabulary for weapons or violence by design; 'pukea' is deliberately different: it names harm's *possibility* so that speakers can warn, protect, and choose. A language that cannot say 'danger' cannot keep anyone safe. Its opposite is 'shurano' (safe).",
+  "sound_symbolism": "Two clean stops announce it — 'pu' the first alert, 'ke' the sharp edge itself — the way a snapped twig announces what the eyes have not yet found. The final open 'a' is exposure: the open ground between you and the edge. Alert, clear, and brief, as a warning must be; violent in no way, as a warning need not be.",
+  "grammatical_notes": "Noun: 'pukea ha nai' (danger is here). Attributive: 'pukea ruela' (a dangerous path). In warnings with the imperative: 'no nila. pukea.' (Look. Danger.) Distinct from 'peloma' (harmful, of things that do harm) — 'pukea' marks the condition of risk before any harm occurs.",
+  "pillars": {
+    "peace-linguistics-practices": "Warning is an act of care. Naming danger plainly lets communities protect their members without fear-mongering — the word points at the edge, not at an enemy.",
+    "pre-industrial-wisdom": "Knowing where the current turns, where the ice thins, where the cliff crumbles: survival knowledge is danger named precisely and passed on."
+  },
+  "tags": {
+    "physical": "The nearness of possible harm",
+    "community": "What warnings protect",
+    "nature": "The edge conditions of the living world"
+  }
+}
