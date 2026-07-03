@@ -75,7 +75,10 @@ Each new word must explicitly connect to at least one pillar:
 ### Step 2: Sound Selection
 - Choose sounds that embody the concept's feeling
 - Ensure phonological rules are met
-- Test for inadvertent similarity to existing words
+- **Run the collision check**: `python3 scripts/validate_examples.py neighbors <candidate>`
+  - REJECT any candidate at edit distance 1 from an existing word of the same part-of-speech class (content vs. the same function class)
+  - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word) — note them in `grammatical_notes`
+  - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
 
 ### Step 3: Hiatus Check
 - Map all syllable breaks (use dots: CV.V.CV)
