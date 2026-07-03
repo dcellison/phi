@@ -208,7 +208,7 @@ Find and fix the errors in these sentences:
 
 4. `*rena phelora nai peloru thuroa`
 
-5. `*mia rena shia to shomela sano`
+5. `*mia rena shia to thumela sano`
 
 **Answers:**
 
@@ -220,4 +220,4 @@ Find and fix the errors in these sentences:
 
 4. Missing head noun (or misplaced `nai`). If you mean "the flower that is beautiful grows": `rena phelora nai peloru thuroa`... actually this is correct if `peloru` is the head. The apparent error is that the clause seems complete at `nai`, but `peloru` is indeed the head. This is actually valid!
 
-5. Missing head noun. What did they teach? Fix: `mia rena shia to shomela lopia sano` — "i know the child whom they taught"
+5. Missing head noun. What did they teach? Fix: `mia rena shia to thumela lopia sano` — "i know the child whom they taught"

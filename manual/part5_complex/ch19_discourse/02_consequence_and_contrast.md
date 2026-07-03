@@ -13,7 +13,7 @@ sun warm be. CONS PL flower grow
 ```
 
 ```
-mia to theo nela to shelomui. thelao mia so shomela
+mia to theo nela to shelomui. thelao mia so thumela
 1SG PST read COORD PST understand. CONS 1SG FUT teach
 (i read and understood. therefore i will teach.)
 ```

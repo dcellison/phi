@@ -128,9 +128,9 @@ OPT all [REL alive be] well be.
 > none through anger or ill-will wish harm upon another.*
 
 ```
-su mawha miona wei shia ma shewo haolu.
-OPT no person DAT other NEG true speak.
-(May no person speak untruth to another.)
+su mawha miona wei shia peshu.
+OPT no person DAT other lie.
+(May no person lie to another.)
 
 su mawha miona shia thiku nila.
 OPT no person other small see.
@@ -141,8 +141,8 @@ OPT no person from heart fire DAT other harm wish.
 (May no one, from the fire of the heart, wish harm upon another.)
 ```
 
-**Notes:** Three transmutations in one verse. Deception is "speaking
-untruth" (`ma shewo haolu`). Contempt is "seeing another as small" —
+**Notes:** Deception uses the dedicated verb `peshu` (lie), coined in
+Word Batch 2. Contempt is "seeing another as small" —
 `thiku nila` — which names the act more precisely than "despise" does.
 Anger, which has no Phi word, becomes `korua thero`, *heart-fire*: a
 compound that observes the feeling without condemning the one who
@@ -273,7 +273,7 @@ welua sola kema. whalo sola thiku.
 [rena lima nai] nela [rena wea lioru shua].
 su theula [rena lima nai] towe nai.
 
-su mawha miona wei shia ma shewo haolu.
+su mawha miona wei shia peshu.
 su mawha miona shia thiku nila.
 su mawha miona lue korua thero wei shia peloma pula.
 
@@ -306,7 +306,7 @@ transmutation handled each:
 | anger / hatred | `korua thero` (heart-fire) — compositional metaphor | Works well; consider canonizing the compound in an emotions pamphlet |
 | beings | `theula [rena lima nai]` (all that is alive) | No word needed — the relative clause is better than a noun |
 | born / birth | `wea lioru shua` (coming toward life) | A word for birth is a genuine Tier-1 gap (family/life domain) |
-| deceive / lie | `ma shewo haolu` (speak untruth) | Word Batch 2 proposes `peshu` (lie), which would compress this |
+| deceive / lie | `peshu` (lie) — coined in Word Batch 2 during this project | Resolved |
 | despise | `thiku nila` (see as small) | Compositional form arguably superior; no coinage needed |
 | safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | A dedicated "safe" adjective would help everyday usage |
 | lie down (posture) | `therilu` (rest) | Acceptable; posture verb is low priority |

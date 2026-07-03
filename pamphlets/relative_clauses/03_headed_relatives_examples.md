@@ -27,7 +27,7 @@ REL PST arrive person 1SG friend be
 ```
 
 ```
-rena lopia shomela miona ha nai
+rena lopia thumela miona ha nai
 REL child teach person here be
 (the person who teaches children is here.)
 ```
@@ -67,7 +67,7 @@ REL PST grow flower beautiful be
 ### With aspect particles
 
 ```
-rena ro shomela miona phue nai
+rena ro thumela miona phue nai
 REL HAB teach person wise be
 (the person who habitually teaches is wise.)
 ```
@@ -111,7 +111,7 @@ REL 2SG PST create story beautiful be
 ```
 
 ```
-mia rena shia shomela lopia sano
+mia rena shia thumela lopia sano
 1SG REL 3SG teach child know
 (i know the child whom they teach.)
 ```
@@ -329,7 +329,7 @@ These examples tell mini-stories to show relative clauses in natural discourse.
 ### The gardener
 
 ```
-mia serao miona sano. rena peloru shomela miona phue nai.
+mia serao miona sano. rena peloru thumela miona phue nai.
 1SG old person know. REL flower teach person wise be.
 (i know an old person. the person who teaches about flowers is wise.)
 

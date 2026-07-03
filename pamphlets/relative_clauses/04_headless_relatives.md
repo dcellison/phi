@@ -180,7 +180,7 @@ REL create creation see
 ```
 
 ```
-rena shomela shomela
+rena thumela thumela
 REL teach learn
 (one who teaches learns.)
 ```
@@ -262,7 +262,7 @@ mia phue miona wilao. rena phue nai shelomui.
 1SG wise person long-for. REL wise be understand.
 (i long for a wise person. one who is wise understands.)
 
-rena shelomui shomela. rena shomela shonela.
+rena shelomui thumela. rena thumela shonela.
 REL understand teach. REL teach learn.
 (one who understands teaches. one who teaches learns.)
 ```

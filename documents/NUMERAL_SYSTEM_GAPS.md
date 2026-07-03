@@ -16,7 +16,7 @@ The following components are fully implemented and documented:
 | Ordinal formation | nu particle, noa noun | ✓ Complete |
 | Quantifiers | theula, sheloi, soli, mawha | ✓ Complete |
 | Arithmetic operations | sholei, leiro, welura, phanoi, kelai | ✓ Complete |
-| Magnitude comparison | theloi, phenoi | ✓ Complete |
+| Magnitude comparison | sharoi, phenoi | ✓ Complete |
 
 ---
 

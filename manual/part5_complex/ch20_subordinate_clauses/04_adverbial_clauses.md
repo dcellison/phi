@@ -57,7 +57,7 @@ BECAUSE rain PST be PL flower grow
 ```
 
 ```
-lao shia welao shomela lo lopia shonela
+lao shia welao thumela lo lopia shonela
 BECAUSE 3SG good teach PL child learn
 (because they teach well the children learn.)
 ```
@@ -93,7 +93,7 @@ shia haolu lila lo miona shelomui
 ```
 
 ```
-lo lopia shonela lila lo shomela
+lo lopia shonela lila lo thumela
 PL child learn PURP PL teach
 (the children learn in order to teach.)
 ```

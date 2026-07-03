@@ -9,20 +9,20 @@ A relative clause can contain another relative clause. This happens when describ
 ### Basic nesting
 
 ```
-mia rena rena nophi kealo miona to shomela lopia sano
+mia rena rena nophi kealo miona to thumela lopia sano
 1SG REL REL story create person PST teach child know
 (i know the child whom the person who creates stories taught.)
 ```
 
 Let's break this down:
 - Inner relative clause: `rena nophi kealo miona` — "the person who creates stories"
-- Outer relative clause: `rena [inner clause] to shomela lopia` — "the child whom [that person] taught"
+- Outer relative clause: `rena [inner clause] to thumela lopia` — "the child whom [that person] taught"
 - Main clause: `mia ... sano` — "i know..."
 
 The structure nests like parentheses:
 
 ```
-mia [rena [rena nophi kealo miona] to shomela lopia] sano
+mia [rena [rena nophi kealo miona] to thumela lopia] sano
 ```
 
 ### Processing nested relatives
@@ -38,12 +38,12 @@ This is cognitively demanding. In practice, speakers often break complex descrip
 
 **Instead of:**
 ```
-mia rena rena nophi kealo miona to shomela lopia sano
+mia rena rena nophi kealo miona to thumela lopia sano
 ```
 
 **Consider:**
 ```
-miona nophi kealo. mia rena ha miona to shomela lopia sano.
+miona nophi kealo. mia rena ha miona to thumela lopia sano.
 person story create. 1SG REL this person PST teach child know.
 (a person creates stories. i know the child whom this person taught.)
 ```

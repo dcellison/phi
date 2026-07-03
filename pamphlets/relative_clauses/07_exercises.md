@@ -113,7 +113,7 @@ Break each complex sentence into two simpler sentences. Maintain the meaning.
 3. `rena shelira mua thuroa shiro whalo nai`
    → ?
 
-4. `rena rena nophi kealo miona to shomela lopia mia sano`
+4. `rena rena nophi kealo miona to thumela lopia mia sano`
    → ?
 
 5. `rena mena shea welao nai meno phaelo miona ha nai`
@@ -146,7 +146,7 @@ For each relative clause, identify whether the gap is in subject position, objec
 7. `rena mia to nila womu` — (the home that I saw)
    Gap position: ?
 
-8. `rena shia lopia to shomela miona` — (the person who taught the child)
+8. `rena shia lopia to thumela miona` — (the person who taught the child)
    Gap position: ?
 
 ---
@@ -183,7 +183,7 @@ Write three sentences describing someone you admire, using at least one relative
 
 Example:
 ```
-mia rena shea shomela miona sano.
+mia rena shea thumela miona sano.
 1SG REL peace teach person know.
 (i know a person who teaches peace.)
 ```
@@ -229,12 +229,12 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 8. `wa thia rena mia lothea miona sano`
 9. `shia rena mia to loa peloru lothea`
 10. `rena lo mia to kealo womu ha nai`
-11. `rena lopia shomela miona phue nai`
+11. `rena lopia thumela miona phue nai`
 12. `mia rena thia mia wei to haolu nophi shelomui`
 13. `rena mia to theo serao shelu phelora nai`
 14. `rena shea kealo shea howela`
 15. `rena toremoa nia nai womu phelora nai`
-16. `mia rena rena nophi kealo miona to shomela lopia sano`
+16. `mia rena rena nophi kealo miona to thumela lopia sano`
 17. `rena mena mia so shua meno sano miona ha nai`
 18. `wa thia rena mia to kealo nila`
 19. `rena mia to sheluo nophi mena shea shelira mua nai meno haolu`
@@ -258,7 +258,7 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 2. `rena mia to theo shelu serao nai`
 3. `mia rena shia to kealo nophi lothea`
 4. `rena shelira mua thuroa peloru phelora nai`
-5. `mia rena thia to shomela lopia sano`
+5. `mia rena thia to thumela lopia sano`
 6. `rena shea kealo miona phue nai`
 7. `rena mia to nila womu toremoa nia nai`
 8. `mia rena shia to haolu shelomui`

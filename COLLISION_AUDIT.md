@@ -56,10 +56,18 @@ genuinely hazardous.
   standard: zero shared letters. `thelo`/`theloa` and
   `shomela`/`shonela` predate that standard.
 
-## Recommendation
+## Resolution (2026-07-03, Word Batch 2 — owner-approved)
 
-Recoin the lower-frequency member of the top three pairs (truth/lie,
-exceeds/falls-short, teach/learn) in a future word batch, then update
-the handful of documentation examples that use them. Everything else
-can stand, now that the coining policy prevents new same-class
-minimal pairs.
+All five flagged hazards were resolved:
+
+| Old | New | Notes |
+|---|---|---|
+| `thelo` (lie) | **`peshu`** | zero-collision form |
+| `theloi` (exceeds) | **`sharoi`** | kills both theloi~thenoi and theloi~theloa |
+| `shomela` (teach) | **`thumela`** | th- wisdom family; 4 letters from shonela (learn) |
+| `tai` (have) | **retired** | possession folded into `phelu` (hold/have/keep) |
+| `whia` (without) | **`whuo`** | ends the /ʍ/-vs-/w/ pair with `wia` |
+
+Remaining moderate pairs (`melu`/`telu`, `howela`/`nowela`,
+`phaelo`/`phaelu`) stand as acceptable, protected going forward by the
+coining policy in CLAUDE.md Step 2.

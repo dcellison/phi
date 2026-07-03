@@ -174,7 +174,7 @@ REL 2SG [gap] PST create story beautiful be
 ```
 
 ```
-mia rena shia ___ shomela lopia sano
+mia rena shia ___ thumela lopia sano
 1SG REL 3SG [gap] teach child know
 (i know the child whom they teach.)
 ```

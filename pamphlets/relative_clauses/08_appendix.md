@@ -123,7 +123,7 @@ lothea shelomui phue nai
 | theo | read | read |
 | nila | see | see |
 | haolu | speak | speak |
-| shomela | teach | teach |
+| thumela | teach | teach |
 | lothea | love | love |
 | sano | know | know |
 | shelomui | understand | understand |

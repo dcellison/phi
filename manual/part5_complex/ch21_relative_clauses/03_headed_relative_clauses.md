@@ -15,7 +15,7 @@ mia rena mia lothea miona sano
 The object describes the subject:
 
 ```
-rena lopia shomela miona phue nai
+rena lopia thumela miona phue nai
 REL child teach person wise be
 (the person who teaches children is wise.)
 ```

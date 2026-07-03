@@ -19,7 +19,7 @@ mia shea phaelo. sheno mia lothea phaelo
 ```
 
 ```
-shia welao shomela. sheno shia thesua nai
+shia welao thumela. sheno shia thesua nai
 3SG good teach. ADD 3SG mindful be
 (they teach well. furthermore they are mindful.)
 ```
@@ -43,7 +43,7 @@ mia lo shiro lothea. phisu mia ha whalo shiro lothea
 ```
 
 ```
-shia welao shomela. phisu shia lo lopia nua thalo
+shia welao thumela. phisu shia lo lopia nua thalo
 3SG good teach. EXMP 3SG PL child COM walk
 (they teach well. for example they walk with the children.)
 ```

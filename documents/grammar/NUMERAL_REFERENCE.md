@@ -402,7 +402,7 @@ Phi provides two verbs for comparing quantities that maintain strict value neutr
 
 | Comparison | Word | IPA | Concept |
 |------------|------|-----|---------|
-| Greater than | **`theloi`** | /θe.lo.i/ | exceeds in magnitude |
+| Greater than | **`sharoi`** | /θe.lo.i/ | exceeds in magnitude |
 | Less than | **`thenoi`** | /ɸe.no.i/ | falls short in magnitude |
 
 ### Sentence Structure
@@ -415,7 +415,7 @@ Following modifier-first, the quantity being evaluated comes first:
 
 **Greater Than (9 > 3)**:
 ```
-ta phoi ta shao theloi
+ta phoi ta shao sharoi
 nine three exceeds
 (Nine exceeds three in magnitude)
 ```
@@ -429,7 +429,7 @@ three nine falls-short
 
 **Questions**:
 ```
-wa ta shao wi shao theloi?
+wa ta shao wi shao sharoi?
 Q three six exceeds
 (Does three exceed six? / Is 3 > 6?)
 
@@ -447,7 +447,7 @@ ta shao ta shao ma thenoi
 three three NEG falls-short
 (Three does not fall short of three / 3 ≥ 3)
 
-wi shao ta phoi ma theloi
+wi shao ta phoi ma sharoi
 six nine NEG exceeds
 (Six does not exceed nine / 6 ≤ 9)
 ```
@@ -457,7 +457,7 @@ six nine NEG exceeds
 When comparing real-world quantities, both should share the same classifier:
 
 ```
-ta phoi himo miona wi shao himo miona theloi
+ta phoi himo miona wi shao himo miona sharoi
 nine PERSON.CLF person six PERSON.CLF person exceeds
 (Nine people exceed six people in number)
 ```
@@ -466,7 +466,7 @@ nine PERSON.CLF person six PERSON.CLF person exceeds
 
 These verbs embody Phi's commitment to separating observation from judgment:
 
-- **`theloi` (exceeds)**: States that one quantity surpasses another—a fact of magnitude, not a claim of superiority
+- **`sharoi` (exceeds)**: States that one quantity surpasses another—a fact of magnitude, not a claim of superiority
 - **`thenoi` (falls-short)**: States that one quantity does not reach another—a fact of magnitude, not a claim of inadequacy
 
 This separation prevents the subtle violence of conflating "more" with "better" or "less" with "worse." Nine exceeds three; three falls short of nine. Neither statement implies value judgment.
@@ -543,7 +543,7 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 - `sholei` (add), `leiro` (subtract), `welura` (multiply), `phanoi` (divide), `kelai` (equals)
 
 ### Magnitude Comparison
-- `theloi` (exceeds / greater than), `thenoi` (falls-short / less than)
+- `sharoi` (exceeds / greater than), `thenoi` (falls-short / less than)
 
 ### Structure
 - Basic: `[number] [noun]`
