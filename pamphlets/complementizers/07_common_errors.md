@@ -160,29 +160,29 @@ mia wela shia to wepu welo phaelo
 - `wela`/`welo` embeds questions inside larger sentences
 - Ask: Is this a question to someone, or a question in my mind?
 
-## Error 7: Confusing `wela`/`welo` with `thoe`
+## Error 7: Confusing `wela`/`welo` with `lu`
 
 **The problem:** Both involve conditionality or possibility, but differently.
 
 **Wrong:**
 ```
-*mia wela thia wepu welo sola nai
-1SG INT.COMP 2SG leave INT.COMP.CLOSE alone be
+*mia wela thia wepu welo ma towe phaelo
+1SG INT.COMP 2SG leave INT.COMP.CLOSE NEG well feel
 ```
 
 When you meant:
 ```
-thoe thia wepu. mia sola nai
-COND 2SG leave. 1SG alone be
-(If you leave, I will be alone.)
+lu thia wepu. mia ma towe phaelo
+COND 2SG leave. 1SG NEG well feel
+(If you leave, I will not feel well.)
 ```
 
 **The difference:**
 - `wela`/`welo` embeds a question: "I wonder whether X"
-- `thoe` introduces a condition: "If X, then Y"
+- `lu` frames a condition: "If X, then Y"
 
 **How to avoid:**
-- Is there a consequence? Use `thoe`.
+- Is there a consequence? Use `lu`.
 - Is there uncertainty being considered? Use `wela`/`welo`.
 
 ## Error 8: Mismatched nesting

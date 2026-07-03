@@ -153,6 +153,15 @@ mia te kela
 (I stop understanding / I cease to understand.)
 ```
 
+#### `ro` - Habitual Aspect (HAB)
+**Function**: Announces that the action recurs regularly or characteristically
+**Example**:
+```
+mia ro theo
+1SG HAB read
+(I read regularly / I habitually read.)
+```
+
 ### Voice Particles
 
 #### `se` - Passive Voice (PASS)
@@ -504,7 +513,7 @@ nai wiso lothea
 | Slot | Function | Examples |
 |------|----------|----------|
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu he`, `su`, `pi` |
-| **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
+| **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `ro`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
 | **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru` |
 
 **Note**: Complementizers (`rena`, `shola`/`sholo`, `mena`/`meno`, `wela`/`welo`) and vocative (`kona`) are not particles—see `COMPLEMENTIZER_REFERENCE.md`.

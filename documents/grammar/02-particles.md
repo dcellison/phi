@@ -64,6 +64,7 @@ Following the modifier-first principle, these particles announce temporal, aspec
 - `si` (IPFV): `mia si kela` (I am understanding)
 - `pa` (INCH): `mia pa kela` (I begin to understand)
 - `te` (CESS): `mia te kela` (I stop understanding)
+- `ro` (HAB): `mia ro theo` (I read habitually)
 
 ### 2.2.3. Voice
 - `se` (PASS): `nophi se kealo` (The story is created.)

@@ -99,7 +99,7 @@ Each new word must explicitly connect to at least one pillar:
 ### When Adding Particles
 - [ ] Assign to correct slot (0, 1, or 2)
 - [ ] Maintain CV structure for recognizability
-- [ ] Respect **Slot 1 stacking order**: Tense > Aspect > Voice > Modality > Negation
+- [ ] Respect **Slot 1 stacking order**: Tense > Aspect > Voice > Evidentiality > Modality > Negation
 - [ ] Ensure particle ordering remains logical
 - [ ] Document interaction with existing particles
 - [ ] **See `documents/grammar/PARTICLE_REFERENCE.md` for complete particle inventory**

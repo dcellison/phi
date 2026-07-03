@@ -161,10 +161,10 @@ shia mena sorae ro shua meno nila
 (They see that the sun habitually comes.)
 ```
 
-### Perfective aspect (`tha`)
+### Perfective aspect (`ki`)
 
 ```
-mia mena shelu tha kealo meno nila
+mia mena shelu ki kealo meno nila
 1SG DECL book PFV create DECL.CLOSE see
 (I see that the book has been created.)
 ```

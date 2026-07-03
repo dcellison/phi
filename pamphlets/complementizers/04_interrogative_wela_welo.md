@@ -63,14 +63,14 @@ mia wela thia wepu welo phaelo
 
 This is not asking the listener to answer. It reports the speaker's state of uncertainty.
 
-### `thoe` — Conditional conjunction
+### `lu` — Conditional particle
 
-`thoe` introduces conditional clauses (if-then):
+The Slot 0 particle `lu` frames conditional sentences (if-then):
 
 ```
-thoe thia wepu. mia sola nai
-COND 2SG leave. 1SG alone be
-(If you leave, I will be alone.)
+lu thia wepu. mia ma towe phaelo
+COND 2SG leave. 1SG NEG well feel
+(If you leave, I will not feel well.)
 ```
 
 This is neither a question nor an embedded question. It is a hypothesis with a consequence.
@@ -81,12 +81,12 @@ This is neither a question nor an embedded question. It is a hypothesis with a c
 |------|----------|---------------------|
 | `wa` | Direct question | "Are you leaving?" |
 | `wela`/`welo` | Embedded question | "whether you are leaving" |
-| `thoe` | Conditional | "if you leave" |
+| `lu` | Conditional | "if you leave" |
 
 All three involve possibility, but:
 - `wa` seeks an answer
 - `wela`/`welo` expresses uncertainty as content
-- `thoe` posits a hypothesis
+- `lu` posits a hypothesis
 
 ## Verbs that take `wela`/`welo` clauses
 
@@ -190,10 +190,10 @@ shia wela sorae ro shua welo sano
 (They know whether the sun regularly comes.)
 ```
 
-### Perfective aspect (`tha`)
+### Perfective aspect (`ki`)
 
 ```
-mia wela shelu tha kealo welo nila
+mia wela shelu ki kealo welo nila
 1SG INT.COMP book PFV create INT.COMP.CLOSE see
 (I discovered whether the book has been created.)
 ```
@@ -434,7 +434,7 @@ The `wela`/`welo` pair frames the question. The interrogative word inside specif
 
 Distinguished from:
 - `wa` (direct questions seeking answers)
-- `thoe` (conditional hypotheses with consequences)
+- `lu` (conditional hypotheses with consequences)
 - `mena`/`meno` (embedded statements, not questions)
 
 The system handles yes/no questions and content questions alike. Nesting is possible. The structure remains unambiguous.

@@ -126,12 +126,12 @@ lo mia wela suno phelora nai welo ma shelomui
 
 **Distinction from related words**:
 - `wa` (question particle): Marks direct questions expecting response
-- `thoe` (conditional conjunction): Marks hypothetical conditions with consequences
+- `lu` (Slot 0 conditional particle): Marks hypothetical conditions with consequences
 - `wela`/`welo` (interrogative complementizer pair): Embeds questions as content
 
 **Comparison**:
 - `wa thia wepu` = Are you leaving? (direct question)
-- `thoe thia wepu. mia sola nai` = If you leave, I'll be alone. (conditional)
+- `lu thia wepu. mia ma towe phaelo` = If you leave, I won't feel well. (conditional)
 - `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. (embedded question)
 
 ---

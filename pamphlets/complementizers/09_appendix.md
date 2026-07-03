@@ -82,13 +82,13 @@ REL story create person
 - `shia mena shia wepu meno haolu` = They said that they were leaving.
 - `shia shola mia wepu sholo haolu` = They said: "I am leaving."
 
-### `wela`/`welo` vs. `wa` vs. `thoe`
+### `wela`/`welo` vs. `wa` vs. `lu`
 
 | Word | Function | Example |
 |------|----------|---------|
 | `wa` | Direct question (expects answer) | `wa thia wepu` = Are you leaving? |
 | `wela`/`welo` | Embedded question (content of wondering) | `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. |
-| `thoe` | Conditional (if-then) | `thoe thia wepu. mia sola nai` = If you leave, I'll be alone. |
+| `lu` | Conditional (if-then) | `lu thia wepu. mia ma towe phaelo` = If you leave, I won't feel well. |
 
 ---
 
