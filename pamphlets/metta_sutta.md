@@ -17,8 +17,7 @@ its common English translations.*
 ### Verse 1 — The one who seeks peace
 
 > *This is what should be done by one who is skilled in goodness and
-> who knows the path of peace: let them be able and upright, gentle in
-> speech, humble, and not conceited.*
+> who knows the path of peace: let them be able and upright, gentle in speech, humble, and not conceited.*
 
 ```
 [rena shea ruela sano] miona welao na thole.
