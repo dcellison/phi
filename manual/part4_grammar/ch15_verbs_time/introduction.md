@@ -1,6 +1,6 @@
 # The unmarked present
 
-In Phi, verbs are stable anchors. A word like *nolea* represents the pure concept of "to read," unchanged by who reads, what is read, or when reading happens. This chapter explores the Slot 1 particles that clothe this stable core in the specifics of time, duration, and completion.
+In Phi, verbs are stable anchors. A word like *theo* represents the pure concept of "to read," unchanged by who reads, what is read, or when reading happens. This chapter explores the Slot 1 particles that clothe this stable core in the specifics of time, duration, and completion.
 
 ## Tense and aspect
 
@@ -22,4 +22,4 @@ The grammar itself becomes a tool for cultivating presence. Every departure from
 
 ## What follows
 
-The sections ahead explore this system in detail. We begin with the tense particles *to* and *so*, which locate events on a timeline. Then we examine the aspect particles *si*, *ki*, *pa*, and *ro*, which describe how actions unfold through time.
+The sections ahead explore this system in detail. We begin with the tense particles *to* and *so*, which locate events on a timeline. Then we examine the aspect particles *si*, *ki*, *pa*, *te*, and *ro*, which describe how actions unfold through time.

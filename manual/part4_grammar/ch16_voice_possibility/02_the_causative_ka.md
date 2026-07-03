@@ -84,12 +84,12 @@ When *ka* combines with temporal particles, it creates expressions of causation 
 
 The interaction between causative and aspect particles reveals more nuanced possibilities:
 
-> **mia thia ka ki theo**  
-> I you CAUS PROG read  
+> **mia thia si ka theo**  
+> I you IPFV CAUS read  
 > "I am making you read" (ongoing causation)
 
-> **mia thia ka si theo**  
-> I you CAUS PERF read  
+> **mia thia ki ka theo**  
+> I you PFV CAUS read  
 > "I have made you read" (completed causation with present relevance)
 
 Causative voice can also interact with passive voice to create complex chains of agency:

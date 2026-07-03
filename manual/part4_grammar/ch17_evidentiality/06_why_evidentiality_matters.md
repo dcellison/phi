@@ -36,7 +36,7 @@ Consider a disagreement about what happened at an event:
 **Speaker A:** Shia to hi wepu. — They left (I saw them go).  
 **Speaker B:** Mia to ke nila, shia to ma wepu. — I infer they didn't leave.  
 **Speaker A:** Thia hina ke nila? — What did you infer from?  
-**Speaker B:** Mia shia wiru to nila. — I saw their coat.
+**Speaker B:** Mia shia wiru to nila. — I saw their basket.
 
 This exchange demonstrates how evidentiality facilitates rather than prevents disagreement. Both speakers maintain their positions, but the markers clarify what kind of claims are being made. The conversation can explore the evidence rather than devolving into "Yes they did" / "No they didn't."
 

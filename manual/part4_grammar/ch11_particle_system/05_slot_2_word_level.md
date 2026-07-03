@@ -28,7 +28,7 @@ The particle *nu* turns a cardinal number into an ordinal, indicating position r
 **nu wi** — second  
 **nu ta shao** — third
 
-**Nu ta wiru shua.** — The first child arrives.  
+**Nu ta lopia shua.** — The first child arrives.  
 **Ha nu wi philo nai.** — This is the second day.
 
 ## ko: Focus
@@ -44,7 +44,7 @@ Focus is useful for contrast and clarification. It answers the implied question 
 
 The particle *mo* forms comparatives, equivalent to English "-er" or "more."
 
-**mo wela** — better (more good)  
+**mo welao** — better (more good)  
 **mo phelora** — more beautiful  
 **mo thiku** — smaller
 
@@ -58,7 +58,7 @@ To express what something is being compared to, use the preposition *sheo* ("tha
 
 Combining *mo* with the focus particle *ko* creates the superlative, equivalent to "-est" or "most."
 
-**mo ko wela** — best  
+**mo ko welao** — best  
 **mo ko phelora** — most beautiful  
 
 **Ha thepalu mo ko phelora nai.**  
@@ -90,7 +90,7 @@ The particle *ra* marks something as far from the speaker, equivalent to "that" 
 The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "really."
 
 **ru phelora** — very beautiful  
-**ru wela** — very good  
+**ru welao** — very good  
 **ru thiku** — very small
 
 **Ha peloru ru phelora nai.** — This flower is very beautiful.

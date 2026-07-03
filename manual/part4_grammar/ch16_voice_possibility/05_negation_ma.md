@@ -82,25 +82,21 @@ The placement of *ma* relative to other particles determines exactly what is bei
 
 ## Negation with tense and aspect
 
-*Ma* occupies Slot 1, appearing after tense but interacting with aspect based on what's being negated:
+*Ma* occupies the final position in the Slot 1 sequence. Tense and aspect are announced first; the negation arrives last, immediately before the verb:
 
 > **mia to ma theo**  
-> I PAST NEG read  
+> 1SG PST NEG read  
 > "I didn't read"
 
-> **mia ma to theo**  
-> I NEG PAST read  
-> "I haven't read" (negating the completion, not the past)
+> **mia si ma theo**  
+> 1SG IPFV NEG read  
+> "I am not reading"
 
-> **mia ma ki theo**  
-> I NEG PROG read  
-> "I'm not reading"
+> **mia to ki ma theo**  
+> 1SG PST PFV NEG read  
+> "I had not read"
 
-> **mia ki ma theo**  
-> I PROG NEG read  
-> "I'm currently not-reading" (i.e., resting, doing something else)
-
-This positional flexibility allows for nuanced expression of what exactly is being negated.
+Because the order is fixed, the listener always knows what is being negated: the fully specified action, with all of its temporal texture already announced. Negation never ambushes the sentence — every layer of time and aspect is declared before *ma* turns the whole toward what did not occur.
 
 ## The wisdom of restraint
 

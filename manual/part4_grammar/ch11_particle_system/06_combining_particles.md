@@ -57,9 +57,9 @@ Slot 0 particles frame; Slot 1 particles shape the verb:
 
 **Wa thia to nila?** — Did you see? (question + past)
 
-**Pi no mia kofe.** — Please help me. (politeness + imperative)
+**Pi no mia naphe.** — Please help me. (politeness + imperative)
 
-**Lu mia so kofe, thia wela nai.** — If I will help, you will be well.  
+**Lu mia so naphe. Thia towe nai.** — If I will help, you will be well.  
 (conditional + future)
 
 **Su shea so shua.** — May peace come. (optative + future)
@@ -95,7 +95,7 @@ Some combinations appear frequently:
 
 Every particle adds exactly one piece of information. They compose without interference. This modularity means you can express subtle distinctions that English would require entire phrases to capture:
 
-**Mia to si ke po ma kofe.**
+**Mia to si ke po ma naphe.**
 
 This single sentence conveys: "I" + "past" + "ongoing" + "inferred" + "possible" + "not" + "help." In English: "I was apparently not being able to help" or "It seems I wasn't able to be helping." The Phi version is longer but clearer: each element is announced separately.
 

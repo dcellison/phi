@@ -23,7 +23,7 @@ The particle *to* places the action in the past, indicating something that has a
 The particle *so* places the action in the future, indicating something that will or might happen.
 
 **Mia so nila.** — I will see.  
-**Thia so kofe.** — You will help.  
+**Thia so naphe.** — You will help.  
 **Shea so shua.** — Peace will come.
 
 ### Present (unmarked)
@@ -31,7 +31,7 @@ The particle *so* places the action in the future, indicating something that wil
 Without a tense particle, the action is understood as present:
 
 **Mia nila.** — I see.  
-**Thia kofe.** — You help.
+**Thia naphe.** — You help.
 
 ## Aspect
 
@@ -106,7 +106,7 @@ The speaker deduced the information from evidence rather than witnessing it dire
 
 The speaker received the information from another source.
 
-**Lo miona ti kofe.** — People helped (I was told).
+**Lo miona ti naphe.** — People helped (I was told).
 
 ### ho: Assumptive evidence
 
@@ -129,15 +129,15 @@ The particle *po* marks an action as possible or expresses the subject's ability
 
 The particle *na* marks an action as necessary or obligatory.
 
-**Mia na kofe.** — I must help.  
+**Mia na naphe.** — I must help.  
 **Thia na shonela.** — You need to learn.
 
 ### ka: Causative
 
 The causative *ka* indicates that the subject causes someone else to perform the action. This changes the sentence structure: the causer becomes the subject, and the original subject becomes the object.
 
-**Base:** Wiru nima. — The child sleeps.  
-**Causative:** Mia wiru ka nima. — I make the child sleep.
+**Base:** Lopia nulae. — The child sleeps.  
+**Causative:** Mia lopia ka nulae. — I make the child sleep.
 
 **Base:** Thia shonela. — You learn.  
 **Causative:** Mia thia ka shonela. — I make you learn. (I teach you.)
@@ -150,7 +150,7 @@ The negation particle *ma* negates the verb. It appears after all other Slot 1 p
 
 **Mia ma nila.** — I do not see.  
 **Thia to ma shua.** — You did not come.  
-**Shia so po ma kofe.** — They will not be able to help.
+**Shia so po ma naphe.** — They will not be able to help.
 
 Negation in Phi is gentle. The particle *ma* simply marks absence rather than forceful denial.
 

@@ -29,13 +29,13 @@ The word *miso* connects to *mia* through its initial *mi*, creating an echo of 
 
 Use *miso* when the subject performs an action on or for itself:
 
-**Mia miso kofe.** — I help myself.  
+**Mia miso naphe.** — I help myself.  
 **Thia miso nila.** — You see yourself. (in a mirror, metaphorically, etc.)  
 **Shia miso shonela.** — They teach themselves.
 
 Without *miso*, these sentences would require a different object:
 
-**Mia thia kofe.** — I help you. (not myself)  
-**Mia shia kofe.** — I help them. (not myself)
+**Mia thia naphe.** — I help you. (not myself)  
+**Mia shia naphe.** — I help them. (not myself)
 
 The reflexive makes the self-directed nature of the action explicit.

@@ -5,7 +5,7 @@ The reciprocal pronoun *wiso* expresses mutual action between members of a plura
 ## Basic usage
 
 **Lo mia wiso lothea.** — We love each other.  
-**Lo thia wiso kofe.** — You (all) help each other.  
+**Lo thia wiso naphe.** — You (all) help each other.  
 **Lo shia wiso sano.** — They know each other.
 
 The reciprocal indicates that the action flows in both directions among the participants. When we say *lo mia wiso lothea*, we mean that I love you and you love me, all of us loving all of us in mutual exchange.
@@ -39,7 +39,7 @@ The *wi* in *wiso* echoes the number *wi* (two), suggesting the paired relations
 
 Reciprocal constructions appear frequently in Phi, reflecting the language's emphasis on relationship and mutuality:
 
-**Lo mia wiso kofe.** — We help each other.  
+**Lo mia wiso naphe.** — We help each other.  
 **Lo mia wiso shonela.** — We teach each other. / We learn from each other.  
 **Lo mia wiso whaline.** — We thank each other.  
 **Lo mia wiso sano.** — We know each other.

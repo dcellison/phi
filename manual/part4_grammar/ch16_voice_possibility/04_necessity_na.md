@@ -34,8 +34,8 @@ This transformation creates a different kind of certainty than unmarked statemen
 
 When we see new growth in the garden:
 
-> **thinoe na si thuroa**  
-> seed NEC PERF grow  
+> **thinoe ki na thuroa**  
+> seed PFV NEC grow  
 > "The seeds must have sprouted"
 
 We didn't see them sprout, but given what we observe now, we conclude it must have happened.
@@ -70,8 +70,8 @@ The vocabulary entry identifies several sources of necessity that *na* can expre
 
 **Logical requirements:** Conclusions that follow necessarily from premises.
 
-> **womu na si se lorima**  
-> house NEC PERF PASS build  
+> **womu ki se na lorima**  
+> house PFV PASS NEC build  
 > "The house must have been built" (given that it exists)
 
 **Moral obligations:** Responses that ethics demand.
@@ -104,12 +104,12 @@ Future necessity expresses what will need to happen:
 
 Combined with aspect particles:
 
-> **mia na ki thalo**  
-> I NEC PROG walk  
+> **mia si na thalo**  
+> I IPFV NEC walk  
 > "I must be walking" (ongoing necessity)
 
-> **mia na si kamo**  
-> I NEC PERF arrive  
+> **mia ki na kamo**  
+> I PFV NEC arrive  
 > "I must have arrived"
 
 ## Grounded communication

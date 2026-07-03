@@ -5,7 +5,7 @@ The particle *ti* marks information as received from another source. The speaker
 ## Basic usage
 
 **Shia to ti wepu.** — They left. (I was told.)  
-**Lo miona ti kofe.** — People helped. (I heard.)  
+**Lo miona ti naphe.** — People helped. (I heard.)  
 **Ha shelira ti phelora nai.** — This forest is beautiful. (so I'm told.)
 
 With *ti*, the speaker signals that they're reporting information from an external source rather than personal experience or inference.

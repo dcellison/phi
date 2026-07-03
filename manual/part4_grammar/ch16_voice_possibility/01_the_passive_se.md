@@ -82,12 +82,12 @@ When *se* combines with tense particles, it creates rich possibilities for tempo
 
 When combined with aspect particles:
 
-> **womu to se ki lorima**  
-> house PAST PASS PROG build  
+> **womu to si se lorima**  
+> house PST IPFV PASS build  
 > "The house was being built"
 
-> **womu so se si lorima**  
-> house FUT PASS PERF build  
+> **womu so ki se lorima**  
+> house FUT PFV PASS build  
 > "The house will have been built"
 
 The elegance of this system lies in its compositionality. Each particle contributes its own layer of meaning without interfering with the others. A speaker can choose to mark tense, aspect, and voice in any combination, creating exactly the temporal and perspective profile they intend.

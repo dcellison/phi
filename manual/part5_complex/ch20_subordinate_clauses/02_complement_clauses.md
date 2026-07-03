@@ -15,7 +15,7 @@ mia mena shia to wepu meno sano
 ```
 
 ```
-mia mena suno sulae nai meno phaelo
+mia mena sorae sulae nai meno phaelo
 1SG DECL sun warm be DECL.CLOSE feel
 (i feel that the sun is warm.)
 ```
@@ -57,7 +57,7 @@ shia wela mia so kamo welo sano ma nai
 ```
 
 ```
-mia wela suno sulae nai welo nila
+mia wela sorae sulae nai welo nila
 1SG INT.COMP sun warm be INT.COMP.CLOSE see
 (i see whether the sun is warm.)
 ```

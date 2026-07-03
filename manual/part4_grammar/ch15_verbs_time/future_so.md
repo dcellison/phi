@@ -4,12 +4,12 @@ The future tense particle *so* offers contrast to the definitive closure of *to*
 
 ## Projecting forward
 
-When we say *mia so nolea* (I will read), we are not making a definitive statement about a completed action. Instead, we project our consciousness into a space of potential, expressing an intention or expectation about what might come to pass.
+When we say *mia so theo* (I will read), we are not making a definitive statement about a completed action. Instead, we project our consciousness into a space of potential, expressing an intention or expectation about what might come to pass.
 
-> *mia luna so vena*
-> "I will come to the moon."
+> *mia lunei so nila*
+> "I will see the moon."
 
-The particle *so* transforms the timeless concept *nolea* into a projected future event, something that exists more in planning and anticipation than in concrete reality.
+The particle *so* transforms the timeless concept *theo* into a projected future event, something that exists more in planning and anticipation than in concrete reality.
 
 ## The uncertainty of what lies ahead
 
@@ -21,9 +21,9 @@ The soft, flowing 's' sound suggests movement forward, like a gentle stream towa
 
 | Phi | Gloss | English |
 |-----|-------|---------|
-| *mia so nolea* | 1SG FUT read | I will read |
-| *tia so vena* | 2SG FUT come | You will come |
-| *koa mira so kira* | 1PL water FUT see | We will see the water |
+| *mia so theo* | 1SG FUT read | I will read |
+| *thia so shua* | 2SG FUT come | You will come |
+| *lo mia phialu so nila* | 1PL water FUT see | We will see the water |
 
 ## Designing futures
 

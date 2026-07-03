@@ -82,12 +82,12 @@ Future tense with possibility typically expresses prediction qualified by uncert
 
 The interaction between modality and aspect opens up more nuanced possibilities:
 
-> **mia po ki shonela**  
-> I POSS PROG learn  
+> **mia si po shonela**  
+> I IPFV POSS learn  
 > "I may be learning" / "I might be learning"
 
-> **thinoe po si thuroa**  
-> seed POSS PERF grow  
+> **thinoe ki po thuroa**  
+> seed PFV POSS grow  
 > "The seeds may have grown"
 
 ## Epistemic humility as practice

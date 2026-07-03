@@ -4,7 +4,7 @@ The particle *ho* marks information as assumed or supposed rather than known thr
 
 ## Basic usage
 
-**Thia ho hurao nai.** — You're probably tired. (I assume.)  
+**Thia ho shorui nai.** — You're probably weary. (I assume.)  
 **Shia ho womu nai.** — They're probably home. (I suppose.)  
 **Phialu ho so shua.** — Rain will probably come. (I expect.)
 
@@ -53,7 +53,7 @@ The speaker isn't claiming to know your inner state. They're offering a reasonab
 - You want to explicitly hedge your claims
 
 **Melu ho so shua.** — Our friend will probably come.  
-**Ha philo ho wela nai.** — Today will probably be good.
+**Ha philo ho welao nai.** — Today will probably be good.
 
 These statements communicate expectations without overclaiming.
 
