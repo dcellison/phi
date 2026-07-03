@@ -47,6 +47,11 @@ genuinely hazardous.
   `scripts/validate_examples.py neighbors`.
 - Function words tolerate distance-1 within closed classes (sua/kua,
   mua/mue) because slot position disambiguates — no action needed.
+- **`whia` (without) vs `wia` (how many)** differ only in /ʍ/ vs /w/ —
+  the very contrast the CV-only particle rule was created to avoid
+  (commit f862c47). Both are function words in pre-nominal position,
+  so position does NOT disambiguate. Worth an owner decision alongside
+  the pairs above.
 - The new direction pair `lawe`/`kuri` demonstrates the opposite-pair
   standard: zero shared letters. `thelo`/`theloa` and
   `shomela`/`shonela` predate that standard.

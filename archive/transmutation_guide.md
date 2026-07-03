@@ -1,3 +1,9 @@
+> **⚠️ ARCHIVED — NOT CURRENT CANON.** This case study documents the
+> transmutation *method* well, but its examples use vocabulary that was
+> never adopted into the lexicon (sheale, phalo, wothe, phele, shilela,
+> solapano) or has since been reassigned (wela, thela, lipha, sui). See
+> `documents/language_guide.md` §6 for a current worked example.
+
 # The Art of Transmutation: A Case Study
 
 This document provides a detailed case study of the process of **transmutation**—the act of translating not just the words, but the core *ideas* of a text through the unique philosophical and grammatical lens of the Phi language.

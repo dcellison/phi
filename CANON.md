@@ -18,8 +18,8 @@ the list must be corrected to match anything higher.
 4. **`manual/`** — the teaching text. Must agree with (1)–(3).
 5. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
 6. **Philosophy documents** — `documents/language_guide.md`,
-   `MODIFIER_FIRST_PHILOSOPHY.md`, `PSYCHOLOGICAL_VIOLENCE_OF_MEASUREMENT.md`,
-   `transmutation_guide.md`. Authoritative for *why*, not for word forms
+   `MODIFIER_FIRST_PHILOSOPHY.md`, and
+   `PSYCHOLOGICAL_VIOLENCE_OF_MEASUREMENT.md`. Authoritative for *why*, not for word forms
    or grammar details.
 7. **`archive/`** — historical record only. Never a reference for the
    current language.

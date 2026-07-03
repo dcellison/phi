@@ -7,7 +7,7 @@ This document provides the definitive guide to the pronunciation of the Phi lang
 Phi's phonetic system is built on three core principles:
 
 1.  **Articulatory Clarity:** Every sound has a single, precise, and unchanging pronunciation. There are no regional accents or complex allophonic variations.
-2.  **Cross-Linguistic Accessibility:** The sounds are chosen to be common across the world's languages, making Phi easier for people from diverse backgrounds to learn and speak.
+2.  **Cross-Linguistic Accessibility:** The ten single consonants and five pure vowels are among the most common speech sounds in the world's languages. The four fricatives (/ɸ/, /θ/, /ʃ/, /ʍ/) are rarer cross-linguistically; they are chosen for their gentle, breath-like character rather than universality, and are learnable with modest practice.
 3.  **Systematic Precision:** The sound system directly supports the grammar. The distinction between single consonants and digraphs, and the clear pronunciation of vowel pairs, are essential for understanding the language's structure.
 
 ## 2. Consonant Pronunciation

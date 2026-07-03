@@ -95,9 +95,9 @@ The modifier-first principle means speakers must:
 ### For Listeners  
 
 The modifier-first principle means listeners can:
-1. **Process linearly**: No need to hold elements in memory waiting for postpositions
-2. **Anticipate structure**: Grammatical markers prepare them for what follows
-3. **Understand incrementally**: Meaning builds naturally left-to-right
+1. **Anticipate structure**: Grammatical markers announce what follows before it arrives
+2. **Trust what they have heard**: Relationships are declared before their content, so nothing already processed is ever reinterpreted retroactively
+3. **Hold with support**: Verb-final order does ask listeners to hold arguments in mind until the verb arrives. Phi accepts this load deliberately — the waiting is part of the practice of patience — and bounds it structurally: explicit clause closers (`meno`, `welo`, `sholo`) always mark what is open and what has closed
 
 ### For Learners
 
@@ -110,7 +110,7 @@ The modifier-first principle means learners need:
 
 ### Head-Final Languages (Japanese, Turkish)
 - **Mixed directionality**: Modifiers before nouns BUT postpositions after
-- **Memory load**: Must hold nouns in memory waiting for postpositions
+- **Late labeling**: A noun's role is revealed only after the noun itself has passed, forcing reinterpretation
 - **Exceptions**: Various particles may precede or follow
 
 ### Head-Initial Languages (English, Spanish)  
@@ -121,7 +121,7 @@ The modifier-first principle means learners need:
 ### Phi's Modifier-First
 - **Single principle**: Everything that modifies precedes
 - **No exceptions**: Complete consistency
-- **Cognitive ease**: Linear processing, no retroactive reinterpretation
+- **Predictive processing**: No retroactive reinterpretation — every element's role is known when it arrives. The memory cost of waiting for the final verb is not denied but embraced as deliberate slowness, and bounded by the closer system
 
 ## Conclusion: A Grammar of Conscious Announcement
 
