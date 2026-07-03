@@ -132,9 +132,9 @@ person QUOT 1SG here be QUOT.CLOSE say
 Manner of speaking can modify the verb:
 
 ```
-shia shola mia wepu sholo shema haolu
-3SG QUOT 1SG leave QUOT.CLOSE quietly say
-(They whispered: "I am leaving.")
+shia shola mia wepu sholo shena haolu
+3SG QUOT 1SG leave QUOT.CLOSE calmly say
+(They said quietly: "I am leaving.")
 ```
 
 ## Quoting phrases and fragments
@@ -186,7 +186,7 @@ shia shola wa thia wepu sholo thilou
 ### Content questions
 
 ```
-melu shola nae ha nai sholo thilou
+melu shola sua ha nai sholo thilou
 friend QUOT who here be QUOT.CLOSE ask
 (The friend asked: "Who is here?")
 ```
@@ -212,8 +212,8 @@ The `wela`/`welo` version reports the question's content. The `shola`/`sholo` ve
 Quotations can be as long as needed. Everything between `shola` and `sholo` is quoted material:
 
 ```
-shia shola mia so wepu. mia hasa na turema. thia towe no nai sholo haolu
-3SG QUOT 1SG FUT leave. 1SG home NEC return. 2SG well IMP be QUOT.CLOSE say
+shia shola mia so wepu. mia womu na turema. no thia towe nai sholo haolu
+3SG QUOT 1SG FUT leave. 1SG home NEC return. IMP 2SG well be QUOT.CLOSE say
 (They said: "I will leave. I must return home. Be well.")
 ```
 
@@ -349,9 +349,9 @@ The teacher quotes the words to be learned, then uses regular speech.
 ### Legal or sacred contexts
 
 ```
-shewo nophi shola hemo nae ma hila. theula nae lothea no naphe sholo haolu
-true story QUOT harm who NEG carry. all who love IMP help QUOT.CLOSE say
-(The true story says: "Harm carry to no one. Help all whom you love.")
+shewo nophi shola no wei theula miona lothea loa. no theula melu naphe sholo haolu
+true story QUOT IMP to all person love give. IMP all friend help QUOT.CLOSE say
+(The true story says: "Give love to all people. Help all friends.")
 ```
 
 Preserving sacred text exactly as transmitted.

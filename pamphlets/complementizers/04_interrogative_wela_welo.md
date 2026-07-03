@@ -271,8 +271,8 @@ mia wela shia melu shelu loa welo nila
 ### With prepositional phrases
 
 ```
-shia wela melu hasa mua nai welo thilou
-3SG INT.COMP friend home LOC be INT.COMP.CLOSE ask
+shia wela melu mua womu nai welo thilou
+3SG INT.COMP friend LOC home be INT.COMP.CLOSE ask
 (They asked whether the friend is at home.)
 ```
 
@@ -405,19 +405,19 @@ Each `wela` pairs with its own `welo`, maintaining structural clarity even in ne
 The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi. They use interrogative words within the clause, but the embedding with `wela`/`welo` functions the same:
 
 ```
-mia wela nae to shua welo phaelo
+mia wela sua to shua welo phaelo
 1SG INT.COMP who PST come INT.COMP.CLOSE wonder
 (I wonder who came.)
 ```
 
 ```
-shia wela thia phoe to nila welo thilou
+shia wela thia hina to nila welo thilou
 3SG INT.COMP 2SG what PST see INT.COMP.CLOSE ask
 (They asked what you saw.)
 ```
 
 ```
-lo mia wela shia nue nai welo ma sano
+lo mia wela shia kua nai welo ma sano
 PL 1SG INT.COMP 3SG where be INT.COMP.CLOSE NEG know
 (We don't know where they are.)
 ```

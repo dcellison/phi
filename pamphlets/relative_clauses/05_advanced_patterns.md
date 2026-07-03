@@ -162,9 +162,9 @@ shia mia nophi to haolu. rena mia to sheluo nophi phelora nai.
 3SG 1SG story PST tell. REL 1SG PST hear story beautiful be.
 (they told me a story. the story that i heard is beautiful.)
 
-mia so ha miona wei pelae shua.
-1SG FUT this person to again arrive.
-(i will come to this person again.)
+mia wei ha miona so turema.
+1SG to this person FUT return.
+(i will return to this person.)
 ```
 
 Topics shift naturally: person → story → person. Relative clauses identify which person and which story we mean, while topic-drop keeps the prose flowing.

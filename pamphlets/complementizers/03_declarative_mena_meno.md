@@ -266,8 +266,8 @@ mia mena shia pelua to wepu meno phaelo
 ### With prepositional phrases
 
 ```
-shia mena melu hasa mua nai meno sano
-3SG DECL friend home LOC be DECL.CLOSE know
+shia mena melu mua womu nai meno sano
+3SG DECL friend LOC home be DECL.CLOSE know
 (They know that the friend is at home.)
 ```
 
