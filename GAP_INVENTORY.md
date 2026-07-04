@@ -88,7 +88,24 @@ is currently alone in its class.
 (noun), statement, loss, generation, tone/timbre, music, noise,
 together**
 
-## Design decisions (owner rulings needed — absence may be intent)
+## Design decisions — RULED (2026-07)
+
+1. **woman / man: REFUSED.** Adding gendered person-words would
+   exclude people who do not identify within a binary; individuals
+   are treated equally and gender is not distinguished anywhere in
+   the language. Recorded in CANON.md.
+2. **meat: COIN** (Batch D).
+3. **dog and companion animals: COIN** (Batch C).
+4. **knife: COIN as kitchen/craft tool**; blade-as-weapon refused.
+5. **hunt: REFUSED.**
+6. **generic "bad": REFUSED and recorded** — things are harmful,
+   broken, or unwell; never simply "bad."
+7. **marriage: `telu` (partner) suffices** — moved to covered-by-design.
+8. **low-register bodily verbs: COIN without squeamishness** (Batch B).
+
+The original deliberation, for the record:
+
+## Design decisions (original analysis — absence may be intent)
 
 1. **woman / man.** Phi is radically non-gendered by design; `miona`
    (person), `telu` (partner), `phao` (parent) carry the social load.
