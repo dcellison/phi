@@ -78,6 +78,15 @@ phialu haoni.
 (The old pond. A creature arrives into the water. The water's voice.)
 ```
 
+## The first story
+
+***nitho howeli nela sorae*** — The North Wind and the Sun: Aesop's
+fable, the traditional showcase text of the world's languages, as
+Phi's first narrative. Sequenced past-tense scenes, a causative nested
+inside a relative clause inside a `mena…meno` frame, and a three-word
+moral: `moli puro sharoi` — gentleness exceeds strength. Read it in
+`pamphlets/north_wind_and_sun.md`.
+
 ## The first complete text
 
 ***lothea thole*** — The Practice of Love, a transmutation of the Karaniya Metta Sutta: ten verses with glosses, transmutation notes, and the gap log that shaped several of the language's newest words. Read it in `pamphlets/metta_sutta.md`. Its refrain is the language in one line:
