@@ -15,11 +15,11 @@
   "sound_symbolism": "The word warms with life. 'Wo' opens with organic warmth, tree essence. 'Le' lives with cellular structure. Then 'a' opens to grain and growth rings.",
   "grammatical_notes": "Functions as noun: 'lo wolea' (the wood). Material from trees for building, carving, burning. Related to 'lipha' (tree classifier).",
   "pillars": {
-    "pre-industrial-wisdom": "Wood built civilization—homes, tools, ships, the renewable material of human shelter.",
-    "solarpunk-values": "Renewable resource—sustainably harvested wood as carbon-storing building material."
+    "solarpunk-values": "Renewable resource—sustainably harvested wood as carbon-storing building material.",
+    "pre-industrial-wisdom": "Wood built civilization—homes, tools, ships, the renewable material of human shelter."
   },
   "tags": {
-    "nature": "Tree material",
-    "creation": "Building resource"
+    "creation": "Building resource",
+    "nature": "Tree material"
   }
 }

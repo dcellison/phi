@@ -1,0 +1,20 @@
+{
+  "word": "li",
+  "gloss": "RESTR",
+  "ipa": "/ˈli/",
+  "syllables": [
+    "li"
+  ],
+  "slot": 2,
+  "pos": [
+    "particle"
+  ],
+  "concept": "Only / Just / Solely / Merely",
+  "description": "A word-level particle that restricts reference to the element it precedes, excluding other possibilities. 'Li' draws a boundary around its target, saying 'this and nothing else.' It is the grammar of limitation, of clarifying scope, of preventing overgeneralization. While it excludes, it does so without judgment—merely noting the boundary of what applies.",
+  "sound_symbolism": "The particle consists of 'l', the liquid consonant that flows in a single channel—like water finding one path down a hill, not spreading everywhere. This channeling 'l' meets 'i', the highest, narrowest vowel that points to a single spot. Together, 'li' creates the acoustic gesture of narrowing: flowing limitation focusing to a point. The sound is gentle despite its restrictive meaning—the soft liquid and simple vowel teach that setting limits need not be harsh.",
+  "grammatical_notes": "Occupies Slot 2, appearing immediately before the element being restricted: 'li shia kela' (only ko understands), 'li wi himo' (only two people), 'li nosa' (just now / only now). Distinguished from focus 'ko' which highlights without excluding; 'li' explicitly excludes alternatives. Can combine with quantifiers: 'li soli' (only some), 'li ta' (only one). The restriction applies to whatever immediately follows—use carefully to ensure correct scope.",
+  "pillars": {
+    "peace-linguistics-practices": "Clear boundaries prevent misunderstanding. 'Li' enables precise communication about scope, helping speakers avoid the false impressions that lead to conflict. By making limits explicit, it supports agreements that can be kept because they are understood.",
+    "pre-industrial-wisdom": "Traditional knowledge requires clear boundaries—which plants heal, which harm; what is appropriate when. 'Li' carries this practical wisdom that clarity about limits serves life, that knowing what something is NOT helps us understand what it IS."
+  }
+}

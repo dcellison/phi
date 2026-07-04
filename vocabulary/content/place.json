@@ -15,11 +15,11 @@
   "sound_symbolism": "The word opens with 'lo', where the liquid 'l' flows into space while 'o' rounds into the enclosure of a location. This flows through 'ku', where the velar 'k' creates definite boundary—here rather than there, this place rather than that. The final 'e' clarifies the specificity of location. Three syllables give the word presence appropriate for naming where things happen.",
   "grammatical_notes": "Functions as a noun referring to places generally or specifically. Central to spatial expressions and prepositions. Often appears with demonstratives (this place, that place) and in locative constructions.",
   "pillars": {
-    "pre-industrial-wisdom": "Traditional cultures understood places as having spirit, power, meaning accumulated through relationship. 'Lokue' supports this sense of place as more than location—as relationship, as meaning-holder.",
-    "solarpunk-values": "Bioregional awareness requires deep relationship with specific places. 'Lokue' names the locations we must know and tend to live sustainably."
+    "solarpunk-values": "Bioregional awareness requires deep relationship with specific places. 'Lokue' names the locations we must know and tend to live sustainably.",
+    "pre-industrial-wisdom": "Traditional cultures understood places as having spirit, power, meaning accumulated through relationship. 'Lokue' supports this sense of place as more than location—as relationship, as meaning-holder."
   },
   "tags": {
-    "spatial": "location and position in space",
-    "community": "places as sites of gathering and meaning"
+    "community": "places as sites of gathering and meaning",
+    "spatial": "location and position in space"
   }
 }

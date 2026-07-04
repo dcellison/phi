@@ -122,11 +122,11 @@ Phi provides five operation verbs that reframe mathematics through the language'
 
 | Operation | Word | IPA | Concept |
 |-----------|------|-----|---------|
-| Addition | **`sholei`** | /ʃo.le.i/ | gather together |
-| Subtraction | **`leiro`** | /le.i.ro/ | release from |
-| Multiplication | **`welura`** | /we.lu.ra/ | spread/grow by |
-| Division | **`phanoi`** | /ɸa.no.i/ | portion among |
-| Equals | **`kelai`** | /ke.la.i/ | becomes (result) |
+| Addition | **`sholei`** | /ʃo̞.ˈle̞.i/ | gather together |
+| Subtraction | **`leiro`** | /le̞.ˈi.ro̞/ | release from |
+| Multiplication | **`welura`** | /we̞.ˈlu.rä/ | spread/grow by |
+| Division | **`phanoi`** | /ɸä.ˈn̪o̞.i/ | portion among |
+| Equals | **`kelai`** | /ke̞.ˈlä.i/ | becomes (result) |
 
 ### Sentence Structure
 

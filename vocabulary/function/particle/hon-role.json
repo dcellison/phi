@@ -1,0 +1,22 @@
+{
+  "word": "le",
+  "gloss": "HON.ROLE",
+  "ipa": "/ˈle̞/",
+  "syllables": [
+    "le"
+  ],
+  "slot": 2,
+  "pos": [
+    "particle"
+  ],
+  "concept": "Role Holder / Community Function / Service Recognition",
+  "description": "A word-level particle that precedes names or titles to acknowledge someone's current service role within the community. More than job titles, 'le' recognizes those who take on responsibilities for collective wellbeing, honoring function without creating permanent hierarchy.",
+  "sound_symbolism": "The particle begins with 'l', the liquid consonant that connects and flows—appropriate for marking those who serve as connective tissue in community life. This meets 'e', the neutral mid vowel that neither rises in superiority nor falls in submission. Together, 'le' creates a sound of functional recognition: the flowing 'l' acknowledges the person's role in community flow while the balanced 'e' maintains equality of personhood. The lightness prevents role from becoming identity prison.",
+  "grammatical_notes": "Occupies Slot 2, appearing before names or titles when acknowledging current community function. Crucially, this honorific is tied to active role rather than permanent status—someone may be 'le Maria' while serving as mediator but return to unmarked 'Maria' when the role ends. Can be used for both formal roles (council member) and informal functions (the one who tends the garden). Self-application is discouraged—roles are recognized by community, not claimed.",
+  "pillars": {
+    "solarpunk-values": "The particle embodies the solarpunk understanding of rotating responsibilities and skill-sharing. By marking roles as temporary and functional, 'le' supports systems where leadership and service rotate rather than calcify, where everyone contributes their gifts without becoming trapped in single functions.",
+    "secular-buddhist-philosophy": "The particle embodies the teaching of non-self (anatta)—we are not our roles. By marking community functions as temporary, 'le' prevents identification with position, reminding speakers and listeners alike that roles are worn lightly, like robes that can be set aside.",
+    "peace-linguistics-practices": "By acknowledging service without creating permanent hierarchy, 'le' enables communities to recognize necessary roles while preventing the ossification of power. It makes gratitude for service speakable without creating subservience or permanent elevation.",
+    "pre-industrial-wisdom": "Traditional communities understood that different seasons require different leaders—the harvest coordinator, the storm watcher, the seed keeper. 'Le' carries this wisdom that roles serve community needs and should flow as those needs change."
+  }
+}

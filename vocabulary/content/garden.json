@@ -16,12 +16,12 @@
   "grammatical_notes": "Countable noun that takes the plural particle 'lo' for multiple gardens: 'lo thepalu' (gardens). Can be modified by possessives: 'mia thepalu' (my garden), 'sila thepalu' (community garden). Often appears with locative prepositions indicating where gardens exist or what happens within them. Frequently paired with verbs of cultivation, growth, and tending. Can take adjectives describing size, beauty, or productivity.",
   "pillars": {
     "solarpunk-values": "Gardens epitomize solarpunk's vision of green cities and regenerative living—spaces where food sovereignty, biodiversity, and beauty converge. 'Thepalu' embodies the transformation of lawns into food forests, rooftops into gardens, abandoned lots into community paradises. It represents humans as partners with nature, creating abundance through cooperation rather than domination.",
-    "pre-industrial-wisdom": "Traditional gardens were pharmacies, groceries, and sanctuaries combined—spaces of practical wisdom passed through generations. 'Thepalu' carries this understanding that gardens are teachers, where observing plant relationships and seasonal cycles transmits knowledge no book can contain. Gardens as living libraries of ancestral wisdom about soil, seed, and season.",
-    "art-nouveau-aesthetics": "The movement drew endless inspiration from gardens, seeing them as spaces where human artistry and natural beauty merge. Garden design exemplified Art Nouveau's principle that functional spaces should be beautiful, that cultivation could be art. 'Thepalu' reflects this vision of the garden as living artwork, where beauty and utility are inseparable."
+    "art-nouveau-aesthetics": "The movement drew endless inspiration from gardens, seeing them as spaces where human artistry and natural beauty merge. Garden design exemplified Art Nouveau's principle that functional spaces should be beautiful, that cultivation could be art. 'Thepalu' reflects this vision of the garden as living artwork, where beauty and utility are inseparable.",
+    "pre-industrial-wisdom": "Traditional gardens were pharmacies, groceries, and sanctuaries combined—spaces of practical wisdom passed through generations. 'Thepalu' carries this understanding that gardens are teachers, where observing plant relationships and seasonal cycles transmits knowledge no book can contain. Gardens as living libraries of ancestral wisdom about soil, seed, and season."
   },
   "tags": {
     "nature": "spaces where human culture and natural processes interweave",
-    "spatial": "defined location transformed through intentional relationship with land",
-    "physical": "tangible spaces involving soil, plants, and physical cultivation"
+    "physical": "tangible spaces involving soil, plants, and physical cultivation",
+    "spatial": "defined location transformed through intentional relationship with land"
   }
 }

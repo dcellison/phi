@@ -1,0 +1,20 @@
+{
+  "word": "sholo",
+  "gloss": "QUOT.CLOSE",
+  "ipa": "/ˈʃo̞.lo̞/",
+  "syllables": [
+    "sho",
+    "lo"
+  ],
+  "pos": [
+    "complementizer"
+  ],
+  "concept": "End quote / Close direct speech",
+  "description": "The closing counterpart of the quotative complementizer 'shola'. Marks the end of directly quoted material, resolving the quotation that 'shola' opened. Together, the pair 'shola...sholo' functions as spoken quotation marks, giving listeners an unambiguous signal of where quoted speech begins and ends.",
+  "sound_symbolism": "Shares the 'sho' onset with 'shola', maintaining the acoustic signature of quotation. The shift from the open 'a' of 'shola' to the rounded 'o' of 'sholo' enacts closure, the vowel rounding inward as the quote wraps up. The liquid 'l' in both words creates continuity across the pair, while the final vowel change signals resolution.",
+  "grammatical_notes": "Appears immediately after the final word of a direct quotation, before the verb of speaking resumes in the main clause. Required counterpart to 'shola'. Structure: [Subject] shola [quoted material] sholo [verb of speaking]. Follows the Phi correlative pattern where opener ends in '-a' and closer ends in '-o'.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The closing marker completes the act of faithful transmission. By clearly ending the quote, 'sholo' returns responsibility for subsequent words to the current speaker, maintaining the boundary between one's own speech and another's.",
+    "peace-linguistics-practices": "Clear demarcation of where quotation ends prevents the ambiguity that can lead to misattribution. The listener knows precisely which words belong to the quoted speaker and which belong to the current speaker, supporting accurate and honest communication."
+  }
+}

@@ -15,11 +15,11 @@
   "sound_symbolism": "The word wakes to newness. 'Ne' begins with gentle opening, something new. Then 'wa' flows with waking life. Finally 'i' rises with vital energy, freshness complete.",
   "grammatical_notes": "Functions as an adjective: 'newai lurekoi' (fresh fruit). Related to 'newu' (new) but emphasizes vitality and recent origin rather than novelty.",
   "pillars": {
-    "pre-industrial-wisdom": "Fresh food, fresh water—traditional life depended on knowing freshness, preserving what could be preserved, using what must be used.",
-    "solarpunk-values": "Fresh local food reduces transport and storage—freshness as both quality and sustainable practice."
+    "solarpunk-values": "Fresh local food reduces transport and storage—freshness as both quality and sustainable practice.",
+    "pre-industrial-wisdom": "Fresh food, fresh water—traditional life depended on knowing freshness, preserving what could be preserved, using what must be used."
   },
   "tags": {
-    "temporal": "Recently vital",
-    "physical": "Not depleted"
+    "physical": "Not depleted",
+    "temporal": "Recently vital"
   }
 }

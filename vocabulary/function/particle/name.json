@@ -1,0 +1,20 @@
+{
+  "word": "ne",
+  "gloss": "NAME",
+  "ipa": "/ˈn̪e̞/",
+  "syllables": [
+    "ne"
+  ],
+  "slot": 2,
+  "pos": [
+    "particle"
+  ],
+  "concept": "Proper name marker",
+  "description": "A Slot 2 particle that announces the following word as a proper name, distinguishing it from vocabulary. Prevents listeners from interpreting a name as a content word, and signals that what follows identifies a specific individual rather than describing a concept. Can be used alone or combined with honorifics.",
+  "sound_symbolism": "The dental nasal 'n' belongs to Phi's grounding and presence pillar, fitting for a particle that grounds reference in a specific person. The mid-front vowel 'e' reaches forward toward the name it announces. Brief and unobtrusive, 'ne' marks without drawing attention to itself, letting the name that follows carry the weight.",
+  "grammatical_notes": "Slot 2 particle. Appears immediately before a proper name. When combined with honorifics, 'ne' precedes the honorific: 'ne sa Thala' (NAME HON.RESPECT Thala). Optional when an honorific is already present, since the honorific itself signals that a name follows. Required when a name appears without an honorific, to prevent ambiguity with vocabulary words. Also used with place names and other proper nouns.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The grounding nasal 'n' reflects the Buddhist recognition of each being's unique presence. Marking a name with 'ne' is a small act of acknowledgment: this is a person, not an abstraction.",
+    "peace-linguistics-practices": "By explicitly marking names, 'ne' supports the Phi principle of transparency. The listener always knows whether a word refers to a person or a concept, preventing the ambiguity that can lead to misunderstanding."
+  }
+}

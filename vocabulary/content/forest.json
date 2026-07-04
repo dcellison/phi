@@ -16,11 +16,11 @@
   "grammatical_notes": "Functions as a noun: 'lo shelira' (the forest). Takes the vegetal classifier 'lipha' when counted, treating the forest as a single living entity. Related to 'shiro' (tree) through initial fricative. Encompasses all woodland types from dense jungle to open woodland.",
   "pillars": {
     "solarpunk-values": "Forests are the lungs of the planet—carbon sinks, biodiversity havens, and models for sustainable community living.",
-    "pre-industrial-wisdom": "Traditional cultures recognized forests as sacred homes, sources of medicine, food, and spiritual connection.",
-    "secular-buddhist-philosophy": "The forest teaches interconnection—no tree stands alone, each depends on and supports the whole community."
+    "secular-buddhist-philosophy": "The forest teaches interconnection—no tree stands alone, each depends on and supports the whole community.",
+    "pre-industrial-wisdom": "Traditional cultures recognized forests as sacred homes, sources of medicine, food, and spiritual connection."
   },
   "tags": {
-    "nature": "Woodland ecosystem",
-    "community": "Tree community gathering"
+    "community": "Tree community gathering",
+    "nature": "Woodland ecosystem"
   }
 }

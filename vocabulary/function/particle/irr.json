@@ -1,0 +1,22 @@
+{
+  "word": "he",
+  "gloss": "IRR",
+  "ipa": "/ˈhe̞/",
+  "syllables": [
+    "he"
+  ],
+  "slot": 0,
+  "pos": [
+    "particle"
+  ],
+  "concept": "Irrealis / Unreal / Counterfactual",
+  "description": "A clause-initial particle that marks statements as unreal, hypothetical, or counterfactual. More than negating reality, 'he' creates a parallel space where imagination can explore what isn't, what might have been, or what could never be—acknowledging that understanding reality sometimes requires departing from it.",
+  "sound_symbolism": "The particle consists of 'h', pure breath without voice—the most ethereal consonant, air passing without obstruction. This breathy beginning meets 'e', a focused mid vowel that gives shape to the shapeless. The entire sound exists at the edge of audibility, like a sigh or a thought not yet spoken. This acoustic ethereality perfectly captures irrealis: present enough to contemplate but lacking the substance of voiced reality. Speaking 'he' requires producing sound that barely exists, training speakers to hold the unreal lightly.",
+  "grammatical_notes": "Occupies Slot 0, often combining with 'lu' to form 'lu he' for counterfactual conditionals. Can stand alone to mark any statement as existing outside reality—wishes that can't be fulfilled, imaginings known to be false, or philosophical hypotheticals. Unlike negation which says something isn't true, 'he' says something exists in a different mode entirely—the realm of the unreal but thinkable.",
+  "pillars": {
+    "solarpunk-values": "Designing regenerative futures requires imagining what doesn't yet exist—systems that could be, worlds that might emerge. 'He' enables the counterfactual thinking essential for envisioning and building alternatives to current realities.",
+    "secular-buddhist-philosophy": "The particle embodies the Buddhist teaching on the nature of mental formations—how the mind creates realities that exist only in thought. 'He' grammaticalizes the distinction between conventional reality and mental fabrication, helping speakers maintain clarity about what is and isn't.",
+    "art-nouveau-aesthetics": "Like the fantastic creatures and impossible geometries in Art Nouveau design, 'he' creates space for beautiful unrealities. It acknowledges that art often depicts not what is but what might be, making the impossible visible through imagination.",
+    "peace-linguistics-practices": "In conflict resolution, exploring hypotheticals creates safe space—'what if we tried this approach?' 'He' enables parties to propose alternatives without commitment, to imagine different outcomes without abandoning positions prematurely."
+  }
+}

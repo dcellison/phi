@@ -14,9 +14,9 @@ Phi uses only **three base numerals**, all following simple CV structure:
 
 | Numeral | Value | Concept | IPA |
 |---------|-------|---------|-----|
-| **`mu`** | 0 | void, emptiness, absence | /mu/ |
+| **`mu`** | 0 | void, emptiness, absence | /ˈmu/ |
 | **`ta`** | 1 | singularity, unity, individual | /ta/ |
-| **`wi`** | 2 | duality, pair, relationship | /wi/ |
+| **`wi`** | 2 | duality, pair, relationship | /ˈwi/ |
 
 These are the only "pure" numbers in Phi. All other quantities are expressed through scale units.
 
@@ -35,10 +35,10 @@ For quantities beyond 2, Phi uses **scale units**—countable nouns representing
 
 | Scale Unit | Value | Gloss | IPA |
 |------------|-------|-------|-----|
-| **`shao`** | 3 | three-group | /ʃa.o/ |
-| **`phoi`** | 9 | nine-group | /ɸo.i/ |
-| **`lau`** | 27 | twenty-seven-group | /la.u/ |
-| **`rei`** | 81 | eighty-one-group | /re.i/ |
+| **`shao`** | 3 | three-group | /ˈʃä.o̞/ |
+| **`phoi`** | 9 | nine-group | /ˈɸo̞.i/ |
+| **`lau`** | 27 | twenty-seven-group | /ˈlä.u/ |
+| **`rei`** | 81 | eighty-one-group | /ˈre̞.i/ |
 
 ### Structure: Modifier-First Counting
 
@@ -100,10 +100,10 @@ Phi's classifier system announces the essential nature of what is being counted,
 
 | Classifier | Function | IPA | Used For |
 |------------|----------|-----|----------|
-| **`himo`** | PERSON.CLF | /hi.mo/ | Counting people, acknowledging humanity |
-| **`lipha`** | LIFE.CLF | /li.ɸa/ | Counting living beings (plants, animals), acknowledging aliveness |
-| **`themo`** | OBJECT.CLF | /θe.mo/ | Counting inanimate objects, acknowledging thingness |
-| **`nophe`** | ABSTRACT.CLF | /no.ɸe/ | Counting abstract concepts, acknowledging conceptuality |
+| **`himo`** | PERSON.CLF | /ˈhi.mo̞/ | Counting people, acknowledging humanity |
+| **`lipha`** | LIFE.CLF | /ˈli.ɸä/ | Counting living beings (plants, animals), acknowledging aliveness |
+| **`themo`** | OBJECT.CLF | /ˈθe̞.mo̞/ | Counting inanimate objects, acknowledging thingness |
+| **`nophe`** | ABSTRACT.CLF | /ˈn̪o̞.ɸe̞/ | Counting abstract concepts, acknowledging conceptuality |
 
 ### Structure: Layered Announcement
 
@@ -312,11 +312,11 @@ Phi provides a mindful arithmetic system through five operation verbs that refra
 
 | Operation | Word | IPA | Concept |
 |-----------|------|-----|---------|
-| Addition | **`sholei`** | /ʃo.le.i/ | gather together |
-| Subtraction | **`leiro`** | /le.i.ro/ | release from |
-| Multiplication | **`welura`** | /we.lu.ra/ | spread/grow by |
-| Division | **`phanoi`** | /ɸa.no.i/ | portion among |
-| Equals/Result | **`kelai`** | /ke.la.i/ | becomes (result) |
+| Addition | **`sholei`** | /ʃo̞.ˈle̞.i/ | gather together |
+| Subtraction | **`leiro`** | /le̞.ˈi.ro̞/ | release from |
+| Multiplication | **`welura`** | /we̞.ˈlu.rä/ | spread/grow by |
+| Division | **`phanoi`** | /ɸä.ˈn̪o̞.i/ | portion among |
+| Equals/Result | **`kelai`** | /ke̞.ˈlä.i/ | becomes (result) |
 
 ### Sentence Structure
 
@@ -402,8 +402,8 @@ Phi provides two verbs for comparing quantities that maintain strict value neutr
 
 | Comparison | Word | IPA | Concept |
 |------------|------|-----|---------|
-| Greater than | **`sharoi`** | /θe.lo.i/ | exceeds in magnitude |
-| Less than | **`thenoi`** | /ɸe.no.i/ | falls short in magnitude |
+| Greater than | **`sharoi`** | /ʃä.ˈro̞.i/ | exceeds in magnitude |
+| Less than | **`thenoi`** | /θe̞.ˈn̪o̞.i/ | falls short in magnitude |
 
 ### Sentence Structure
 

@@ -14,11 +14,11 @@
   "sound_symbolism": "The word breathes green. 'He' exhales with living breath, plant essence. Then 'ru' roots with growing presence, herb thriving.",
   "grammatical_notes": "Functions as noun: 'lo heru' (the herb). Source of 'nepha' (medicine), 'moli' (balm), 'wenu' (tonic). The plant before preparation.",
   "pillars": {
-    "pre-industrial-wisdom": "Herbs sustained communities—kitchen gardens, healing gardens, knowledge of useful plants passed through generations.",
-    "solarpunk-values": "Natural medicine—local herbs for local ailments, sustainable healing from what grows nearby."
+    "solarpunk-values": "Natural medicine—local herbs for local ailments, sustainable healing from what grows nearby.",
+    "pre-industrial-wisdom": "Herbs sustained communities—kitchen gardens, healing gardens, knowledge of useful plants passed through generations."
   },
   "tags": {
-    "nature": "Useful plant",
-    "creation": "Healing source"
+    "creation": "Healing source",
+    "nature": "Useful plant"
   }
 }

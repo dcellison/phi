@@ -15,13 +15,13 @@
   "sound_symbolism": "The thoughtful 'the' brings consciousness to repetition - ritual requires presence, not mere habit. This deliberation flows into 'lu', the liquid consonant suggesting the smooth, worn path of practice. The word grounds finally in 'mo', a deep, resonant syllable that anchors the sequence in embodied action. Together the three syllables capture ritual's paradox: conscious beginning, flowing middle, grounded completion - ancient yet immediate, repeated yet renewed. The steady rhythm mirrors ritual's essence: mindful practice finding the sacred in deliberate patterns.",
   "grammatical_notes": "Functions exclusively as a noun across languages examined. Similar to ceremony or rite, ritual resists verbification in most languages: Mandarin yíshì (仪式), Japanese gishiki (儀式), Arabic ṭaqs (طقس). While English allows constructions like 'ritualize,' Phi maintains the noun form, using verbal constructions with other verbs to express ritual performance.",
   "pillars": {
-    "pre-industrial-wisdom": "Rituals served as the heartbeat of traditional communities - marking seasons, transitions, and shared values through embodied practice. These ceremonies created collective meaning without written doctrine, teaching through repetition what words alone couldn't convey. Ritual knowledge lived in bodies and actions, preserving wisdom through practice rather than text.",
-    "secular-buddhist-philosophy": "Ritual as mindfulness practice transforms routine into presence - each repeated action becomes an opportunity for awakening. Whether lighting incense, walking meditation, or tea ceremony, rituals create containers for attention, using familiar forms to encounter each moment freshly. The practice isn't about belief but about using structure to cultivate awareness."
+    "secular-buddhist-philosophy": "Ritual as mindfulness practice transforms routine into presence - each repeated action becomes an opportunity for awakening. Whether lighting incense, walking meditation, or tea ceremony, rituals create containers for attention, using familiar forms to encounter each moment freshly. The practice isn't about belief but about using structure to cultivate awareness.",
+    "pre-industrial-wisdom": "Rituals served as the heartbeat of traditional communities - marking seasons, transitions, and shared values through embodied practice. These ceremonies created collective meaning without written doctrine, teaching through repetition what words alone couldn't convey. Ritual knowledge lived in bodies and actions, preserving wisdom through practice rather than text."
   },
   "tags": {
-    "ritual": "this word defines the category",
-    "wisdom": "transmits knowledge through embodied practice",
     "community": "collective practices that create shared meaning",
-    "temporal": "marks passages of time and transitions"
+    "ritual": "this word defines the category",
+    "temporal": "marks passages of time and transitions",
+    "wisdom": "transmits knowledge through embodied practice"
   }
 }

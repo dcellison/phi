@@ -1,7 +1,7 @@
 {
   "word": "nomela",
   "gloss": "encourage",
-  "ipa": "/no̞.ˈme̞.lä/",
+  "ipa": "/n̪o̞.ˈme̞.lä/",
   "syllables": [
     "no",
     "me",
@@ -16,12 +16,12 @@
   "sound_symbolism": "The word begins with 'no', grounding with nasal presence, the solid earth beneath someone who needs to stand. This flows through 'me', acknowledging the personal, heartfelt nature of true encouragement, the mindful connection between two people. The final 'la' carries this support forward as a path opening ahead. The arc from grounded presence through personal connection to flowing path captures how encouragement works: not pushing from behind but walking alongside, offering both steadiness and heart to help another find their way.",
   "grammatical_notes": "Functions as both verb (to encourage) and noun (encouragement) without morphological change, similar to Mandarin gǔlì (鼓励) and Hindi protsahan (प्रोत्साहन). Avoids the English distinction between the act and the support itself.",
   "pillars": {
-    "peace-linguistics-practices": "Encouragement creates peace by affirming another's inherent strength rather than imposing external pressure. This practice recognizes that sustainable change comes from within, and that our role is to reflect back the courage already present in others. By building bridges to hearts, we prevent the violence of despair and isolation.",
     "solarpunk-values": "Encouragement embodies mutual aid at the emotional level - recognizing that individual and collective thriving are inseparable. In solarpunk communities, offering encouragement is as vital as sharing physical resources, understanding that hope and confidence are renewable resources that grow when shared.",
-    "secular-buddhist-philosophy": "To encourage skillfully means seeing another's Buddha nature - their inherent capacity for wisdom and compassion - especially when they cannot see it themselves. This practice requires setting aside our agenda to truly perceive and reflect back another's authentic strengths, helping them reconnect with their own path."
+    "secular-buddhist-philosophy": "To encourage skillfully means seeing another's Buddha nature - their inherent capacity for wisdom and compassion - especially when they cannot see it themselves. This practice requires setting aside our agenda to truly perceive and reflect back another's authentic strengths, helping them reconnect with their own path.",
+    "peace-linguistics-practices": "Encouragement creates peace by affirming another's inherent strength rather than imposing external pressure. This practice recognizes that sustainable change comes from within, and that our role is to reflect back the courage already present in others. By building bridges to hearts, we prevent the violence of despair and isolation."
   },
   "tags": {
-    "emotion": "gives hope and confidence through heartfelt support",
-    "community": "builds bridges between hearts for mutual strength"
+    "community": "builds bridges between hearts for mutual strength",
+    "emotion": "gives hope and confidence through heartfelt support"
   }
 }

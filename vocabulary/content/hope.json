@@ -17,13 +17,13 @@
   "grammatical_notes": "Functions as both noun and verb. As a noun, represents the state or feeling: 'soliru nai mue mia' (hope is within me). As a verb, can be transitive with clausal complements using 'mena': 'mia soliru mena weola so nai wela' (I hope that the community will be well). The optative particle 'su' often accompanies expressions of hope: 'su lo mia soliru' (may we hope). Can take direct objects for what is hoped for: 'mia sela soliru' (I hope for peace).",
   "pillars": {
     "solarpunk-values": "Hope in solarpunk is not naive optimism but active engagement with possibility - the understanding that futures are built, not awaited. This hope sees crises as opportunities for transformation, believing in humanity's capacity to create regenerative systems even amid collapse. It's hope with dirt under its fingernails, building the world it envisions.",
-    "peace-linguistics-practices": "Hope creates the conditions for peace by maintaining belief in transformation even when evidence suggests impossibility. This practice recognizes that without hope, parties cannot engage in the vulnerable work of reconciliation. Speaking hope into situations of despair opens pathways that cynicism would close, making space for unexpected breakthroughs.",
-    "secular-buddhist-philosophy": "Skillful hope arises from understanding causes and conditions - not wishful thinking but clear seeing of how positive change happens. This hope is grounded in impermanence, knowing that even the most entrenched suffering can shift when the right conditions emerge. It combines acceptance of present reality with commitment to creating conditions for transformation."
+    "secular-buddhist-philosophy": "Skillful hope arises from understanding causes and conditions - not wishful thinking but clear seeing of how positive change happens. This hope is grounded in impermanence, knowing that even the most entrenched suffering can shift when the right conditions emerge. It combines acceptance of present reality with commitment to creating conditions for transformation.",
+    "peace-linguistics-practices": "Hope creates the conditions for peace by maintaining belief in transformation even when evidence suggests impossibility. This practice recognizes that without hope, parties cannot engage in the vulnerable work of reconciliation. Speaking hope into situations of despair opens pathways that cynicism would close, making space for unexpected breakthroughs."
   },
   "tags": {
+    "creation": "actively builds and creates envisioned futures",
     "emotion": "embodies confident expectation and positive feeling about possibilities",
     "temporal": "orients toward future transformation and change",
-    "wisdom": "requires understanding causes and conditions for change",
-    "creation": "actively builds and creates envisioned futures"
+    "wisdom": "requires understanding causes and conditions for change"
   }
 }

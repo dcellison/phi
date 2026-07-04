@@ -15,14 +15,14 @@
   "sound_symbolism": "The word breathes through 'she', where the hushing fricative 'sh' calms turbulent waters—the sound itself a balm for agitation. This quieting flows into 'a', vast as sky, open as a field after rain—peace needs space to breathe. The vowel hiatus between them creates a pause, a rest, teaching that peace lives in the spaces between sounds as much as in the sounds themselves. Simple as an exhale, profound as the silence after storms.",
   "grammatical_notes": "Functions as both noun (peace) and adjective (peaceful) without morphological change, similar to Arabic salām (سلام) and Sanskrit śānti (शान्ति). The adjectival usage expresses the quality of being peaceful or characterized by peace.",
   "pillars": {
-    "peace-linguistics-practices": "Peace through language requires active cultivation - choosing words that heal rather than harm, creating space for all voices, and transforming conflict through dialogue. This practice sees peace not as mere absence of conflict but as the presence of justice, understanding, and structures that support mutual thriving.",
-    "secular-buddhist-philosophy": "Inner peace arises from understanding the impermanent nature of all phenomena - when we stop grasping at what must change, agitation ceases. This isn't detachment from the world but deeper engagement without the friction of resistance. Peace begins within and radiates outward through our actions.",
     "solarpunk-values": "Sustainable peace requires addressing root causes - inequality, resource scarcity, and damaged ecosystems. Solarpunk peace-building creates regenerative systems where cooperation yields more than competition, where abundance is shared, and where human flourishing doesn't depend on others' deprivation.",
+    "secular-buddhist-philosophy": "Inner peace arises from understanding the impermanent nature of all phenomena - when we stop grasping at what must change, agitation ceases. This isn't detachment from the world but deeper engagement without the friction of resistance. Peace begins within and radiates outward through our actions.",
+    "peace-linguistics-practices": "Peace through language requires active cultivation - choosing words that heal rather than harm, creating space for all voices, and transforming conflict through dialogue. This practice sees peace not as mere absence of conflict but as the presence of justice, understanding, and structures that support mutual thriving.",
     "pre-industrial-wisdom": "Traditional peacemaking focused on restoring relationships rather than punishing wrongdoers - understanding that community harmony matters more than individual vindication. These practices of restorative justice, talking circles, and ritual reconciliation offer time-tested alternatives to cycles of vengeance."
   },
   "tags": {
+    "community": "social harmony and collective thriving",
     "emotion": "peace as fundamental emotional and spiritual state",
-    "wisdom": "requires understanding and active cultivation",
-    "community": "social harmony and collective thriving"
+    "wisdom": "requires understanding and active cultivation"
   }
 }

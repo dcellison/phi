@@ -23,18 +23,34 @@
       "description": "The word broken down into its constituent CV syllables for rule validation."
     },
     "slot": {
-      "type": [
-        "integer",
-        "null"
-      ],
-      "description": "For grammatical particles, defines their position in the sentence structure. Null for content words."
+      "type": "integer",
+      "enum": [0, 1, 2],
+      "description": "The particle's position in the three-slot system. REQUIRED for particles; FORBIDDEN for every other part of speech."
     },
     "pos": {
       "type": "array",
       "items": {
-        "type": "string"
+        "type": "string",
+        "enum": [
+          "noun",
+          "verb",
+          "adjective",
+          "numeral",
+          "particle",
+          "preposition",
+          "pronoun",
+          "conjunction",
+          "complementizer",
+          "interrogative",
+          "discourse",
+          "classifier",
+          "quantifier",
+          "vocative",
+          "interjection"
+        ]
       },
-      "description": "The possible parts of speech (e.g., 'noun', 'verb', 'particle')."
+      "minItems": 1,
+      "description": "The possible parts of speech, drawn from the closed set."
     },
     "concept": {
       "type": "string",
@@ -99,5 +115,26 @@
     "grammatical_notes",
     "pillars"
   ],
-  "additionalProperties": false
+  "additionalProperties": false,
+  "if": {
+    "properties": {
+      "pos": {
+        "contains": {
+          "const": "particle"
+        }
+      }
+    }
+  },
+  "then": {
+    "required": [
+      "slot"
+    ]
+  },
+  "else": {
+    "not": {
+      "required": [
+        "slot"
+      ]
+    }
+  }
 }

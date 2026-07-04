@@ -62,6 +62,13 @@ REQUIRED_FIELDS = [
     "description", "sound_symbolism", "grammatical_notes", "pillars",
 ]
 ALLOWED_FIELDS = set(REQUIRED_FIELDS) | {"slot", "tags"}
+# Canonical key order for serialization (slot and tags appear in these
+# positions when present).
+FIELD_ORDER = [
+    "word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
+    "description", "sound_symbolism", "grammatical_notes", "pillars",
+    "tags",
+]
 PILLAR_KEYS = {
     "solarpunk-values",
     "secular-buddhist-philosophy",
@@ -69,6 +76,71 @@ PILLAR_KEYS = {
     "peace-linguistics-practices",
     "pre-industrial-wisdom",
 }
+PILLAR_ORDER = [
+    "solarpunk-values",
+    "secular-buddhist-philosophy",
+    "art-nouveau-aesthetics",
+    "peace-linguistics-practices",
+    "pre-industrial-wisdom",
+]
+POS_VALUES = {
+    "noun", "verb", "adjective", "numeral", "particle", "preposition",
+    "pronoun", "conjunction", "complementizer", "interrogative",
+    "discourse", "classifier", "quantifier", "vocative", "interjection",
+}
+# The 13 canonical semantic domains (vocabulary/SEMANTIC_DOMAINS.md).
+CANONICAL_TAGS = {
+    "nature", "community", "wisdom", "creation", "dialogue", "temporal",
+    "aesthetic", "emotion", "physical", "ritual", "cognition", "spatial",
+    "activity",
+}
+
+IPA_CONSONANTS = {
+    "h": "h", "k": "k", "l": "l", "m": "m", "n": "n̪", "p": "p",
+    "r": "r", "s": "s", "t": "t̪", "w": "w",
+    "ph": "ɸ", "th": "θ", "sh": "ʃ", "wh": "ʍ",
+}
+IPA_VOWELS = {"a": "ä", "e": "e̞", "i": "i", "o": "o̞", "u": "u"}
+
+
+def canonical_ipa(word):
+    """Derive the canonical IPA transcription from a word: syllable dots,
+    penultimate stress, dental diacritics, true-mid vowel symbols."""
+    syllables = syllabify(word)
+    if syllables is None:
+        return None
+    out = []
+    for s in syllables:
+        onset, nucleus = s[:-1], s[-1]
+        out.append(
+            (IPA_CONSONANTS[onset] if onset else "") + IPA_VOWELS[nucleus]
+        )
+    stress = max(len(out) - 2, 0)
+    out[stress] = "ˈ" + out[stress]
+    return "/" + ".".join(out) + "/"
+
+
+def gloss_filename(gloss):
+    """The canonical filename stem for a gloss: lowercased, with every
+    run of non-alphanumerics collapsed to a single hyphen."""
+    return re.sub(r"[^a-z0-9]+", "-", gloss.lower()).strip("-")
+
+
+def canonical_dump(data):
+    """The canonical serialization of a lexicon entry: schema field
+    order, canonical pillar order, alphabetical tags, 2-space indent,
+    trailing newline."""
+    ordered = {}
+    for key in FIELD_ORDER:
+        if key not in data:
+            continue
+        value = data[key]
+        if key == "pillars":
+            value = {k: value[k] for k in PILLAR_ORDER if k in value}
+        elif key == "tags":
+            value = {k: value[k] for k in sorted(value)}
+        ordered[key] = value
+    return json.dumps(ordered, indent=2, ensure_ascii=False) + "\n"
 
 # Tokens that legitimately appear in examples without being lexicon words.
 WHITELIST = {
@@ -173,6 +245,7 @@ def check_lexicon(entries):
 
     for rel, data in entries:
         word = data.get("word", "")
+        cls = rel.parts[1] if len(rel.parts) > 1 else ""
 
         for field in REQUIRED_FIELDS:
             if field not in data or data[field] in ("", [], {}):
@@ -197,6 +270,48 @@ def check_lexicon(entries):
                 f"{rel}: syllables array {stored} does not match canonical "
                 f"hiatus syllabification {canonical}"
             )
+
+        # IPA must match the canonical derivation exactly
+        want_ipa = canonical_ipa(word)
+        if want_ipa is not None and data.get("ipa") != want_ipa:
+            errors.append(
+                f"{rel}: ipa {data.get('ipa')} != canonical {want_ipa}"
+            )
+
+        # pos values must come from the closed set
+        bad_pos = set(data.get("pos", [])) - POS_VALUES
+        if bad_pos:
+            errors.append(f"{rel}: invalid pos value(s): {sorted(bad_pos)}")
+
+        # slot: required for particles (0/1/2), forbidden otherwise
+        is_particle = "particle" in data.get("pos", [])
+        if is_particle and data.get("slot") not in (0, 1, 2):
+            errors.append(f"{rel}: particle must have slot 0, 1, or 2")
+        if not is_particle and "slot" in data:
+            errors.append(f"{rel}: non-particle must not have a slot field")
+
+        # tags: required for content words with canonical keys only;
+        # forbidden for function words and interjections
+        if cls == "content":
+            tags = data.get("tags")
+            if not tags:
+                errors.append(f"{rel}: content word missing tags")
+            else:
+                bad_tags = set(tags) - CANONICAL_TAGS
+                if bad_tags:
+                    errors.append(f"{rel}: non-canonical tag(s): {sorted(bad_tags)}")
+        elif "tags" in data:
+            errors.append(f"{rel}: {cls} entry must not have tags")
+
+        # filename must equal the lowercased gloss
+        want_name = gloss_filename(data.get("gloss", "")) + ".json"
+        if rel.name != want_name:
+            errors.append(f"{rel}: filename should be '{want_name}' (gloss-derived)")
+
+        # serialization must be canonical, byte for byte
+        raw = (PROJECT_ROOT / rel).read_text(encoding="utf-8")
+        if raw != canonical_dump(data):
+            errors.append(f"{rel}: file is not in canonical serialization")
 
         by_word.setdefault(word, []).append(rel)
         gloss = data.get("gloss", "")
@@ -294,6 +409,27 @@ def check_docs(lexicon_words, paths=None):
                     if tok in lexicon_words or tok in WHITELIST:
                         continue
                     errors.append(f"{rel}:{lineno}: unknown Phi word '{tok}'")
+            # IPA citations: a line that names a known word in backticks
+            # and quotes exactly one /.../ transcription must quote that
+            # word's canonical IPA. Single phonemes (/m/) and slashed
+            # English words (/whom/) are not word transcriptions.
+            if not in_fence:
+                ipa_cites = re.findall(r"/[ˈ.\wä̞θʃɸʍ̪]+/", line)
+                if len(ipa_cites) == 1:
+                    named = [w for w in re.findall(r"`([a-z]+)`", line)
+                             if w in lexicon_words]
+                    inner = ipa_cites[0].strip("/")
+                    if named and len(inner) > 1:
+                        want = canonical_ipa(named[0])
+                        is_word_cite = (
+                            "." in inner or "ˈ" in inner
+                            or (want and set(inner) <= set(want))
+                        )
+                        if want and is_word_cite and ipa_cites[0] != want:
+                            errors.append(
+                                f"{rel}:{lineno}: IPA for `{named[0]}` is "
+                                f"{ipa_cites[0]}, canonical is {want}"
+                            )
     return errors
 
 

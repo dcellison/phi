@@ -218,20 +218,6 @@
 | `sola` | DISJ | Or |
 | `thona` | ADVRS | But |
 
-## copula (1)
-
-| Word | Gloss | Concept |
-|---|---|---|
-| `kelai` | equals | Become (Result) |
-
-## determiner (3)
-
-| Word | Gloss | Concept |
-|---|---|---|
-| `mu` | zero | Zero |
-| `ta` | one | One |
-| `wi` | two | Two |
-
 ## discourse (7)
 
 | Word | Gloss | Concept |
@@ -318,7 +304,7 @@
 | `keritha` | workshop | Workshop |
 | `kerithe` | ice | Ice |
 | `kerone` | peninsula | Peninsula |
-| `kerou` | smonae | Smonae |
+| `kerou` | stone | Stone |
 | `kesho` | middle | Middle |
 | `keshoa` | reptile | Reptile |
 | `kima` | scribe | Scribe |
