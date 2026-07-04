@@ -50,7 +50,7 @@
         ]
       },
       "minItems": 1,
-      "description": "The possible parts of speech, drawn from the closed set."
+      "description": "Lexically listed senses only \u2014 the senses that must be learned per word. Every verb's event/result noun is supplied by the event-noun rule (CANON.md) and is NOT listed here; a listed noun+verb combination therefore always signals an idiosyncratic pairing (instrument, role, phenomenon, substance, entity) explained in the entry."
     },
     "concept": {
       "type": "string",
