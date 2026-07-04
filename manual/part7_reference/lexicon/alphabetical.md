@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*865 words.*
+*872 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -26,6 +26,7 @@
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
 | `helu` | smooth | /ˈhe̞.lu/ | adjective, verb |
 | `helui` | change | /he̞.ˈlu.i/ | verb, noun |
+| `hemilo` | honey | /he̞.ˈmi.lo̞/ | noun |
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
 | `henoi` | ENOUGH | /he̞.ˈn̪o̞.i/ | quantifier |
 | `heru` | herb | /ˈhe̞.ru/ | noun |
@@ -60,6 +61,7 @@
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kathu` | seal | /ˈkä.θu/ | noun, verb |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
+| `katiru` | knife | /kä.ˈt̪i.ru/ | noun |
 | `kawepa` | catch | /kä.ˈwe̞.pä/ | verb |
 | `ke` | INFER | /ˈke̞/ | particle |
 | `kealo` | create | /ke̞.ˈä.lo̞/ | verb, noun |
@@ -242,6 +244,7 @@
 | `meropi` | cherish | /me̞.ˈro̞.pi/ | verb |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
 | `milau` | drink | /mi.ˈlä.u/ | verb |
+| `milura` | milk | /mi.ˈlu.rä/ | noun |
 | `mio` | mmhm | /ˈmi.o̞/ | interjection |
 | `miona` | person | /mi.ˈo̞.n̪ä/ | noun |
 | `mioru` | beauty | /mi.ˈo̞.ru/ | noun |
@@ -271,6 +274,7 @@
 | `moreke` | mammal | /mo̞.ˈre̞.ke̞/ | noun |
 | `moreko` | articulate | /mo̞.ˈre̞.ko̞/ | verb |
 | `moreluki` | transform | /mo̞.re̞.ˈlu.ki/ | verb |
+| `morisa` | salt | /mo̞.ˈri.sä/ | noun |
 | `moriwhe` | sea | /mo̞.ˈri.ʍe̞/ | noun |
 | `moru` | wall | /ˈmo̞.ru/ | noun |
 | `mosha` | period | /ˈmo̞.ʃä/ | noun |
@@ -299,11 +303,13 @@
 | `na` | NEC | /ˈn̪ä/ | particle |
 | `nai` | be | /ˈn̪ä.i/ | verb |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb, noun |
+| `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | noun, verb |
 | `nawo` | agree | /ˈn̪ä.wo̞/ | verb |
 | `ne` | NAME | /ˈn̪e̞/ | particle |
 | `nea` | aha | /ˈn̪e̞.ä/ | interjection |
+| `nekuma` | meat | /n̪e̞.ˈku.mä/ | noun |
 | `nela` | COORD | /ˈn̪e̞.lä/ | conjunction |
 | `nelore` | preserve | /n̪e̞.ˈlo̞.re̞/ | verb |
 | `nelu` | revere | /ˈn̪e̞.lu/ | verb |
@@ -643,6 +649,7 @@
 | `sulae` | warm | /su.ˈlä.e̞/ | adjective |
 | `sulai` | musician | /su.ˈlä.i/ | noun |
 | `suliwa` | snake | /su.ˈli.wä/ | noun |
+| `sulopa` | soup | /su.ˈlo̞.pä/ | noun |
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |

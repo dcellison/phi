@@ -273,7 +273,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (185)
+## community (187)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -334,6 +334,7 @@
 | `muraki` | harvest | Shared labor and celebration |
 | `muriwe` | worm | The garden's smallest laborer |
 | `naphe` | help | Assisting others |
+| `napuro` | grain | The staple that sets the table |
 | `nawea` | respect | essential for social bonds and relationships |
 | `nawo` | agree | Accord between people |
 | `nireku` | insect | Foundation of ecosystems |
@@ -407,6 +408,7 @@
 | `soki` | settle | Committing to location and relationships |
 | `sorui` | circle | Equal arrangement |
 | `sulai` | musician | Creative role |
+| `sulopa` | soup | The meal that stretches |
 | `suro` | rope | Binding connection |
 | `telo` | farmer | Growing role |
 | `telu` | partner | fundamental social bond and relationship |
@@ -463,7 +465,7 @@
 | `womu` | home | the shelter of family and intimacy |
 | `woru` | keeper | Guardian role |
 
-## creation (118)
+## creation (119)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -471,6 +473,7 @@
 | `heru` | herb | Healing source |
 | `kathu` | seal | Authentication mark |
 | `kati` | cut | The first act of most making |
+| `katiru` | knife | The edge that shapes |
 | `kealo` | create | brings new forms into existence through inspiration |
 | `keli` | device | Mechanism |
 | `kelo` | frame | Boundary structure |
@@ -767,12 +770,13 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (183)
+## nature (188)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haowu` | air | elemental connector of all breath |
 | `hea` | hear | connects to environmental awareness through natural soundscapes |
+| `hemilo` | honey | The bees' concentrated summer |
 | `heru` | herb | Useful plant |
 | `hinolu` | adapt | Following life's adaptive patterns |
 | `horathe` | dawn | Light emergence |
@@ -828,6 +832,7 @@
 | `melothe` | pond | Small still water body |
 | `meluna` | season | Annual rhythm pattern |
 | `milau` | drink | participation in water cycle and natural systems |
+| `milura` | milk | The first nourishment |
 | `misheko` | cat | The self-possessed animal |
 | `moesu` | wax | Organic substance |
 | `mola` | island | Water-surrounded land |
@@ -835,6 +840,7 @@
 | `molira` | hill | Gentle land elevation |
 | `mophi` | wool | Animal fiber |
 | `moreke` | mammal | Warm-blooded nursing creatures |
+| `morisa` | salt | What the sea leaves behind |
 | `moriwhe` | sea | Saltwater body |
 | `mueri` | clay | Earth material |
 | `muero` | autumn | Completion time |
@@ -844,6 +850,8 @@
 | `mureli` | brown | the color of soil and bark |
 | `muriwe` | worm | The soil's quiet maker |
 | `muroa` | fertile | Life-producing quality |
+| `napuro` | grain | The seed-crop of the year |
+| `nekuma` | meat | The animal become food |
 | `nelore` | preserve | Conserving what sustains life |
 | `neparu` | cloud | Atmospheric water vapor |
 | `neri` | cool | Refreshing quality |
@@ -955,7 +963,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (210)
+## physical (216)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -963,6 +971,7 @@
 | `hea` | hear | involves the bodily sense and physiological perception of sound |
 | `helia` | youth | bodily growth and vitality |
 | `helu` | smooth | Even surface quality |
+| `hemilo` | honey | Sweetness that keeps |
 | `heno` | satisfy | Need met |
 | `hewe` | wipe | Surface made clean |
 | `hieru` | narrow | Constrained width |
@@ -972,6 +981,7 @@
 | `kaelo` | sweet | Pleasant taste |
 | `kalei` | climb | Grip and pull upward |
 | `kati` | cut | Clean separation by an edge |
+| `katiru` | knife | The kitchen and workbench tool |
 | `kawepa` | catch | The hand closing on arrival |
 | `kehota` | cough | The airway's clearing burst |
 | `keloa` | rough | Uneven surface |
@@ -1024,6 +1034,7 @@
 | `meilo` | sit | fundamental bodily position and experience of supported rest |
 | `menoa` | face | The front of the head bearing features |
 | `milau` | drink | bodily act of receiving liquid |
+| `milura` | milk | The drink before all others |
 | `mirae` | eye | the organ of sight |
 | `moesha` | still | Motionless |
 | `mokela` | sick | The body out of accord |
@@ -1032,12 +1043,14 @@
 | `molu` | container | Holding space |
 | `mophi` | wool | Warmth material |
 | `morae` | sense | Body receiving information from world |
+| `morisa` | salt | The sharp taste that preserves |
 | `muholi` | dig | Working downward |
 | `muila` | earth | the ground we stand upon |
 | `mulu` | low | groundedness and stability |
 | `mupelo` | vomit | The stomach's refusal |
 | `mureo` | stable | Firmly established |
 | `natu` | pull | Drawing closer |
+| `nekuma` | meat | Weight on the table |
 | `nepha` | medicine | Restoration |
 | `neri` | cool | Low temperature |
 | `newai` | fresh | Not depleted |
@@ -1111,6 +1124,7 @@
 | `sukima` | fear | The tightening before danger |
 | `sulae` | warm | thermal sensation of heat |
 | `suliwa` | snake | Motion as pure curve |
+| `sulopa` | soup | Warm water and patience |
 | `sunai` | health | Vital condition |
 | `talua` | shoulder | Upper torso joint bearing arms and loads |
 | `tapu` | close | Bringing to a shut, sealed state |

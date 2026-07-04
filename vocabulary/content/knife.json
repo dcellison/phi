@@ -1,0 +1,25 @@
+{
+  "word": "katiru",
+  "gloss": "knife",
+  "ipa": "/kä.ˈt̪i.ru/",
+  "syllables": [
+    "ka",
+    "ti",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Knife / The Cut-Tool",
+  "description": "The knife: 'kati' (cut) grown into an instrument, standing beside 'kiru' (chisel) in a small k-family of edge tools. It covers the kitchen and the workbench: slicing food, shaping wood, cutting cord. It stops there. Phi's refusal of weapon vocabulary is recorded in canon, and this word does not cross that line.",
+  "sound_symbolism": "The whole verb 'kati' sits inside the noun, finished by 'ru' as in 'kiru': a learner who knows the verb and the chisel can read the knife at sight.",
+  "grammatical_notes": "Noun: 'miona roe katiru kati.' (The person cuts with the knife.) 'katiru tenoa nai.' (A knife is a tool.)",
+  "pillars": {
+    "peace-linguistics-practices": "The word's scope is the point: it names the tool at the cutting board and the workbench and offers no path to the weapon. The boundary is drawn in the lexicon, not left to context.",
+    "pre-industrial-wisdom": "The most-reached-for tool in any kitchen or workshop, sharpened more often than replaced."
+  },
+  "tags": {
+    "creation": "The edge that shapes",
+    "physical": "The kitchen and workbench tool"
+  }
+}
