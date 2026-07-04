@@ -74,7 +74,7 @@ With these ten words, you can already form meaningful phrases:
 
 **Mia womu lothea.** — I love home.
 
-**Thia mia shea loa.** — You give me peace.
+**Thia wei mia shea loa.** — You give peace to me. (*wei* marks the receiver — you will meet it properly in Part IV.)
 
 Notice the pattern: Subject, then object (if any), then verb. Once you internalize this order, building sentences becomes intuitive.
 

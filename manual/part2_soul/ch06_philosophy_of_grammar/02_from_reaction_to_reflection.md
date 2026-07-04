@@ -19,9 +19,9 @@ Phi's subject-object-verb structure offers a different relationship between thou
 Consider the difference:
 
 **English**: "I love you."
-**Phi**: `mia thia lothea hi.` (I you love, directly-witnessed)
+**Phi**: `mia thia hi lothea.` (I you, witnessed, love)
 
-The English version allows immediate unreflected expression. The Phi version requires the speaker to first establish the relationship (`mia thia`), then consider what specifically connects them (`lothea`, the particular quality of caring attention that constitutes love), and finally choose how to frame it (`hi`, marking direct experience rather than assumption).
+The English version allows immediate unreflected expression. The Phi version requires the speaker to first establish the relationship (`mia thia`), then choose how they know it (`hi`, marking direct experience rather than assumption), and only then deliver the verb (`lothea`, the particular quality of caring attention that constitutes love).
 
 This isn't a different way of saying the same thing. It's a different way of thinking.
 

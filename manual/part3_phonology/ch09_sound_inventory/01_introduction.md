@@ -2,7 +2,7 @@
 
 ## The philosophy made audible
 
-Phi's sound system embodies its core philosophy in physical form. Fifteen consonants and five vowels might seem like a modest palette, but these sounds were chosen with deliberate purpose: to be accessible across linguistic backgrounds while encoding the values of peace, clarity, and mindful expression in their very articulation.
+Phi's sound system embodies its core philosophy in physical form. Ten consonants, four fricative digraphs, and five vowels: a modest palette, chosen deliberately. Most of the sounds are among the most common in the world's languages; the four fricatives are rarer, and are there for their breath-like character rather than their universality.
 
 This isn't just about easy pronunciation. When you speak Phi, you're doing philosophy with your breath.
 

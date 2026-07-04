@@ -71,8 +71,8 @@ This consistency means you never need to memorize stress patterns for individual
 
 Read these phrases aloud, applying penultimate stress:
 
-- `lo shea` (the peace) → lo **SHE**-a
-- `mia lothea` (I love) → **MI**-a lo-**THE**-a  
-- `lo shiro phelora` (the beautiful tree) → lo **SHI**-ro phe-**LO**-ra
+- `shea` (peace) → **SHE**-a
+- `mia thia lothea` (I love you) → **MI**-a **THI**-a lo-**THE**-a  
+- `phelora shiro` (a beautiful tree) → phe-**LO**-ra **SHI**-ro
 
 Feel the rhythm emerge. The regular stress pattern gives Phi its musical quality, a gentle pulse that carries meaning forward.

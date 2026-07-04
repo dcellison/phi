@@ -28,6 +28,6 @@ This is the paradox every musician and calligrapher knows: the right kind of str
 
 ## Grammar as gateway
 
-The patience developed through attention to grammatical structure transfers to greater patience in life generally. The multidimensional awareness practiced through the particle system develops into sensitivity to multiple levels present in every situation. The systematic thinking trained through head-final constructions becomes a general capacity for wise consideration of complex situations.
+The patience developed through attention to grammatical structure transfers to greater patience in life generally. The multidimensional awareness practiced through the particle system develops into sensitivity to multiple levels present in every situation. The systematic thinking trained through modifier-first construction becomes a general capacity for wise consideration of complex situations.
 
 In learning to speak Phi more skillfully, speakers also learn to think more clearly, listen more deeply, and engage with complexity more wisely.

@@ -6,27 +6,19 @@ Phi's three-slot particle system organizes not just grammatical elements but the
 
 This reflects something real about human communication: meaningful expression requires integrating multiple levels of awareness, from broad social and temporal context down to precise selection of individual words.
 
-## Slot 0: contextual awareness
+## Slot 0: declared intent
 
-The first dimension is context. No communication occurs in a vacuum. Slot 0 particles provide tools for acknowledging and working with this.
+The first dimension is intent. Before any content arrives, a Slot 0 particle can declare what kind of act the sentence is: a question (`wa`), a request (`no`), a wish (`su`), a condition (`lu`), an utterance framed in respect (`pi`). The listener knows what is being done to them before a single content word lands. No statement can masquerade as a question; no demand can wear a wish's clothing.
 
-Through evidential particles like `hi` (I directly experienced this) and `ke` (I infer this), speakers communicate the source of their knowledge. They acknowledge the difference between direct experience, logical deduction, and received information. This creates a culture of epistemic humility, an automatic recognition that different kinds of knowledge have different kinds of authority.
+## Slot 1: the texture of the action
 
-Through politeness particles like `pi` (mindful care), speakers develop habits of social awareness. Through discourse particles that signal transitions and emphasis, speakers consider how each utterance fits into the larger flow of conversation.
+The second dimension is the action itself. Slot 1 particles stand before the verb and give it, in fixed order, its time, its shape, its voice, its evidence, its possibility, and its negation. Tense particles like `to` (past) and `so` (future) situate the action in time. Aspect particles distinguish completed from ongoing. Evidential particles like `hi` (witnessed) and `ke` (inferred) declare how the speaker knows — the difference between experience, deduction, and hearsay, made audible. Modal particles acknowledge the gap between what is and what might be.
 
-## Slot 1: temporal sensitivity
+These tools ask speakers to treat experience as textured rather than flat: not just *what happened*, but how it unfolded, and how you came to know it.
 
-The second dimension is time. Slot 1 particles express not just what is happening but how it unfolds temporally.
+## Slot 2: word-level precision
 
-Tense particles like `to` (past) and `so` (future) situate expressions within the flow of time. Aspect particles distinguish completed from ongoing actions. Modal particles expressing possibility, necessity, and desirability acknowledge the gap between actual and potential, between what is and what might be.
-
-These tools encourage speakers to treat experience as fluid rather than fixed.
-
-## Slot 2: present-moment precision
-
-The third dimension is the immediate and specific. Slot 2 particles fine-tune expression at the level of individual words and phrases.
-
-Case particles clarify who is doing what to whom. Emphasis particles guide attention. Degree and comparison particles let speakers say exactly what they mean, no more and no less.
+The third dimension is the immediate and specific. Slot 2 particles attach directly before individual words: plurality (`lo`), pointing (`ha` this, `ra` that), focus (`ko`), comparison (`mo`), intensity (`ru`). They let speakers say exactly what they mean about exactly the word they mean it of, no more and no less.
 
 ## Integration
 

@@ -17,9 +17,9 @@ Now let's put your first words together in a natural exchange. Two people meet a
 *I am at peace. I love home.*
 
 **A:** Mia womu lothea.  
-*I love home too.*
+*I love home.*
 
-**B:** Mia thia lothea, melu.  
+**B:** Kona melu. Mia thia lothea.  
 *I love you, friend.*
 
 **A:** Mia thia lothea.  
@@ -41,7 +41,7 @@ Now let's put your first words together in a natural exchange. Two people meet a
 
 **Mia womu lothea.** — I love home. A simple statement of belonging.
 
-**Mia thia lothea, melu.** — I love you, friend. The vocative *melu* addresses the listener directly.
+**Kona melu. Mia thia lothea.** — Friend — I love you. *Kona* is the calling word: it announces that someone is being addressed before the address arrives. It stands outside the sentence it introduces.
 
 ## Practice
 

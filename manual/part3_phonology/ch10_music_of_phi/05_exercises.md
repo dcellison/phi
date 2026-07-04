@@ -77,7 +77,7 @@ Practice each digraph in isolation, then in words:
 | ph | /ɸ/ (blow through lips) | phelora, nophi |
 | th | /θ/ (tongue between teeth) | thomari, thesua |
 | sh | /ʃ/ (tongue raised to palate) | shea, shiro, shelira |
-| wh | /ʍ/ (whispered w) | words with wh- |
+| wh | /ʍ/ (whispered w) | *whemura*, *whelani*, *whunei* |
 
 Focus on keeping all four voiceless. Place your hand on your throat; you should feel no vibration.
 
@@ -115,7 +115,7 @@ Practice these common words with full attention to all features:
 
 This exercise develops automatic production. Read the following text aloud while focusing on meaning rather than pronunciation:
 
-> Lo shea lumani. Mia lothea lo shelira. Lo shiro phelora.
+> lumani shea phelu. mia lo shelira lothea. lo shiro phelora nai.
 
 If your pronunciation remains accurate without conscious effort, you're internalizing the system. If errors creep in, return to earlier exercises.
 

@@ -10,7 +10,7 @@ These sounds carry semantic weight. They appear predominantly in words dealing w
 |---------|-----|-------------|---------|
 | ph | /ɸ/ | bilabial fricative | lips only, NOT "f" |
 | th | /θ/ | dental fricative | "think" (voiceless) |
-| sh | /ʃ/ | palatal fricative | "ship" |
+| sh | /ʃ/ | post-alveolar fricative | "ship" |
 | wh | /ʍ/ | labio-velar fricative | whispered "w" |
 
 ## The bilabial whisper: ph
@@ -46,7 +46,7 @@ Test for voicelessness by placing your hand on your throat. You should feel no b
 - `thesua` /θe̞.ˈsu.ä/ (mindful)
 - `lothea` /lo̞.ˈθe̞.ä/ (love)
 
-## The palatal rush: sh
+## The hush of sh
 
 **Sh** /ʃ/ creates a soft, rushing sound by raising the tongue body toward the hard palate and pushing air through the wide channel that forms. This sound appears across many languages and should feel natural to most speakers.
 
@@ -71,7 +71,7 @@ To produce this sound:
 Some English speakers distinguish "which" from "witch" with this sound. If you don't, practice by saying "hue" and feeling the breath before the vowel, then apply that breath to a rounded lip position.
 
 **Practice words:**
-- Words beginning with *wh-* in Phi vocabulary
+- *whemura* (dream), *whelani* (welcome), *whunei* (breath), *whuo* (without)
 
 ## The harmony of controlled breath
 

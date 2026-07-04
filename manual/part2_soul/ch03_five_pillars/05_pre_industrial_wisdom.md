@@ -12,7 +12,7 @@ One lesson from these traditions is animacy. Many languages, particularly indige
 
 In such languages, a forest, river, mountain, or stone can be a grammatical "who," not an "it." This isn't primitive or superstitious. It's a grammatical system that fosters respect for the living world.
 
-Phi embraces universal animacy. It uses `sua` for both "who" and "what," refusing the person/thing division. Its optional classifier system distinguishes `himo` for humans, `lipha` for living things, and `themo` for inanimate objects, but the distinction is descriptive, not hierarchical. The grammar becomes a practice in recognizing life in the world around us.
+Phi embraces universal animacy. Its optional classifier system distinguishes `himo` for humans, `lipha` for living things, and `themo` for inanimate objects, but the distinction is descriptive, not hierarchical. The grammar becomes a practice in recognizing life in the world around us.
 
 ## Cyclical time
 

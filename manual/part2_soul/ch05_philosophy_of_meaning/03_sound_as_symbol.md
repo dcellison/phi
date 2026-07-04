@@ -26,6 +26,6 @@ The fricative digraphs `ph`, `th`, `sh`, and `wh` are reserved for abstract, con
 
 When you learn that `remo` means "think" and notice the rolling contemplative quality of the initial sound, you're discovering a relationship between thinking and continuous inner movement.
 
-When you encounter `wela` (fair) and feel the flowing movement from rounded `w` through balanced `e` to liquid `l` and open `a`, you experience the concept through mouth and breath before understanding it intellectually. The word teaches through embodiment.
+When you encounter `thua` (fair) and feel the movement from the soft breathed `th` through the deep `u` to the open `a`, you experience the concept through mouth and breath before understanding it intellectually. The word teaches through embodiment.
 
 This is particularly powerful for abstract concepts. `Ruela` (path) becomes a physical journey from rolling initiation through clear direction to open continuation. You feel the mind's movement along the path as you form the word.

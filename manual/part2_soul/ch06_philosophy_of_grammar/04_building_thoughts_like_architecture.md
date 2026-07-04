@@ -1,10 +1,10 @@
 # Building thoughts like architecture
 
-## The head-final principle
+## The modifier-first principle
 
 In architecture, the most critical structural elements are positioned for structural integrity, not convenience. Foundation stones and load-bearing beams go where they must go.
 
-Phi's head-final grammatical structure works similarly. Modifiers come before the words they modify, subordinate clauses before main clauses, objects before verbs. The most important element, the verb, comes last. This creates "foundation-first" communication: context and detail before the central action connecting everything.
+Phi's modifier-first structure works similarly. Modifiers come before the words they modify, subordinate clauses before main clauses, objects before verbs. The most important element, the verb, comes last. This creates "foundation-first" communication: context and detail before the central action connecting everything.
 
 ## The foundation-first method
 
@@ -16,13 +16,13 @@ The effect is openness. Each sentence becomes a small journey of exploration whe
 
 ## The aesthetic of patient revelation
 
-There is a particular beauty in head-final structures. Meaning unfolds gradually rather than declaring itself immediately. Think of a landscape becoming visible as morning mist lifts, or understanding dawning rather than striking.
+There is a particular beauty in modifier-first structures. Meaning unfolds gradually rather than declaring itself immediately. Think of a landscape becoming visible as morning mist lifts, or understanding dawning rather than striking.
 
 In Phi, a complex thought builds like classical music, establishing themes that will later be brought into relationship. This creates patterns of anticipation and resolution that engage the listener's mind in active participation. When meaning unfolds gradually, listeners have time to process each element and prepare for what comes next. The result is more accurate understanding and deeper engagement.
 
 ## Training in systematic thinking
 
-The discipline of constructing head-final sentences develops systematic thinking: the ability to hold multiple elements in awareness while considering how they relate.
+The discipline of constructing modifier-first sentences develops systematic thinking: the ability to hold multiple elements in awareness while considering how they relate.
 
 This is particularly valuable now, when much public discourse suffers from fragment-thinking, the tendency to latch onto isolated pieces of information without considering broader context. Head-final grammar provides constant training in gathering relevant information before rushing to judgment, holding multiple perspectives simultaneously, and allowing understanding to emerge from careful consideration rather than forcing premature conclusions.
 

@@ -26,7 +26,7 @@ By making polite, cooperative requests the grammatical default and hard commands
 
 The passive voice, marked by the particle `se`, is another tool for nonviolent communication. In interpersonal conflict, immediate blame assignment often escalates things. The active voice centers the actor: "You broke the pot." That's a direct accusation putting the other person on the defensive.
 
-The Phi passive offers an alternative. It separates action from actor, focusing on what was affected. You'd say `pota se lipha`, "the pot is in a state of broken-life." True, observable, non-accusatory. It creates shared understanding around the problem and opens conversation about what to do next rather than a fight about fault.
+Phi offers an alternative. It has no word for "break," so the observation stands without an actor: `tomi ma sholu nai`, "the pot is not whole." True, observable, non-accusatory. It creates shared understanding around the problem and opens conversation about what to do next rather than a fight about fault.
 
 ## Justice as restoration
 

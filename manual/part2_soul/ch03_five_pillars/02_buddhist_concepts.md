@@ -16,7 +16,7 @@ This isn't just vocabulary. It's woven into syntax.
 
 The strict Subject-Object-Verb word order is a direct application. Before stating what happened, speakers must build the full context: who acted, what was affected. The grammar interrupts reactive patterns, encouraging a more considered pace. You think before you speak, because the structure requires it.
 
-The evidential verb system deepens this practice. Speakers must consider the source of their knowledge. Did I witness it directly (`hi`)? Did I infer it from evidence (`ke`)? Did someone tell me (`ti`)? This constant, subtle nudge to observe before asserting is Phi's primary tool for training attention.
+The evidential particles deepen this practice. Speakers must consider the source of their knowledge. Did I witness it directly (`hi`)? Did I infer it from evidence (`ke`)? Did someone tell me (`ti`)? Am I only assuming (`ho`)? This constant, subtle nudge to observe before asserting is Phi's primary tool for training attention.
 
 ## Right speech
 

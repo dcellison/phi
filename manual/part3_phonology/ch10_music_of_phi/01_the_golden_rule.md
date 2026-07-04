@@ -20,7 +20,6 @@ Use a dot to visualize syllable breaks:
 | `lothea` (love) | lo.the.a | 3 |
 | `nulae` (sleep) | nu.la.e | 3 |
 | `welao` (good) | we.la.o | 3 |
-| `lumani` (family) | lu.ma.ni | 3 |
 
 The pause between vowels should be small but definite, just enough to maintain distinctness without creating awkward interruption.
 
@@ -30,7 +29,7 @@ This rule reflects Phi's commitment to clarity and transparency. Each vowel repr
 
 Think of each syllable as a pearl. The hiatus rule is the thread that holds each one in precise relationship to its neighbors. The result isn't a jumble of separate sounds but a single elegant sequence, a word that flows with deliberate grace.
 
-Consider `lothea` (love), pronounced as `lo.the.a`. Moving from the round, grounded **o** to the breathy **the** to the open **a** requires navigating three distinct vowel spaces. Each must be completed fully before the next begins, yet the transitions should feel natural.
+Consider `lothea` (love), pronounced `lo.the.a`. Its last two syllables meet at a vowel border: the **e** of `the` and the open **a**, each sounded fully, with a clean break between them. That break is the hiatus — small, deliberate, and never smoothed over.
 
 ## Practical strategies
 
@@ -45,13 +44,13 @@ Practice with vowel-heavy words:
 
 - `welao` (we.la.o): from mid-front **e** through open **a** to mid-back **o**
 - `nulae` (nu.la.e): from high-back **u** through open **a** to mid-front **e**
-- `lothea` (lo.the.a): from mid-back **o** through open **a** (after th)
+- `lothea` (lo.the.a): the hiatus is **e** meeting **a** — two vowels, two syllables, one clean break
 
 The key is thinking of each vowel as having its own complete moment before the next begins.
 
 ## The three-vowel constraint
 
-A consequence of hiatus is that Phi forbids three or more consecutive vowels. Such sequences would create awkward pronunciation while maintaining clear rhythm.
+A consequence of hiatus is that Phi forbids three or more consecutive vowels. Three vowels in a row would blur into one another, so the language forbids the sequence outright: no word contains three consecutive vowels.
 
 A hypothetical word like *naoui* would require four separate syllables (na.o.u.i), a clumsy cascade without consonant structure. Phi requires that a consonant separate any vowel pair from another vowel.
 

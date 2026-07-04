@@ -42,7 +42,7 @@ NAME HON.RESPECT Thala DECL PL flower grow DECL.CLOSE utter
 (honored thala said that the flowers grow.)
 ```
 
-Notice the difference: in indirect speech, the pronouns adjust to the current speaker's perspective. Ko referring to herself becomes `shia` (third person) because the current speaker is reporting, not quoting.
+Notice the difference: in indirect speech, the pronouns adjust to the current speaker's perspective. Thala's own "I" becomes `shia` (third person) because the current speaker is reporting, not quoting.
 
 ## When to use which
 

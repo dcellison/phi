@@ -4,7 +4,7 @@ Before you learn a word of Phi, listen to it.
 
 *Mia thia lothea.*
 
-Say it aloud: *mee-ah thee-ah lo-thay-ah*. Let the syllables flow without break. Notice how each sound opens into the next, how the vowels meet and mingle rather than stop.
+Say it aloud: *mee-ah thee-ah lo-theh-ah*. Give every vowel its own beat. Notice how the vowels meet without merging: each is sounded fully, with a small clean break between them — stepping stones, not a slide.
 
 This is the sound of Phi. Soft consonants. Open vowels. Words that breathe.
 
@@ -23,9 +23,9 @@ Here are a few more:
 *fee-ah-loo* — Flowing from breath to depth, the sound of water itself.
 
 **Sorae** — sun  
-*sor-ah-ay* — Radiant as light streaming.
+*so-rah-eh* — Radiant as light streaming.
 
-Do you hear it? Phi was designed to sound peaceful. There are no harsh stops, no guttural sounds, no sudden breaks. The language itself teaches calm: you cannot speak it in anger. Try to spit these words and they refuse; they only flow.
+Do you hear it? Phi was designed to sound peaceful: no guttural sounds, no clusters, nothing to bark. The language leans toward calm — these syllables are hard to spit and easy to flow. Anger will still find a way; anger always does. But the sounds will not help it.
 
 This wasn't an accident. Every sound in Phi was chosen for how it feels in the mouth and how it lands in the ear. The breathy *ph* and *th*, the liquid *l*, the soft *sh*, the open vowels that never collide but always glide — these create a language that sounds the way a gentle stream looks.
 
