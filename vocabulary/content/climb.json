@@ -1,0 +1,26 @@
+{
+  "word": "kalei",
+  "gloss": "climb",
+  "ipa": "/kä.ˈle̞.i/",
+  "syllables": [
+    "ka",
+    "le",
+    "i"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Climb / Ascend by Grip and Effort",
+  "description": "To climb: the tree for fruit, the hill for the view, the ladder to the roof. Upward motion earned hold by hold. With 'rihe' (rise) as its effortless cousin: smoke rises, people climb.",
+  "sound_symbolism": "'ka' is the grip, 'le' the pull upward, and the final thin 'i' is the high place reached — the word ascends through its own vowels.",
+  "grammatical_notes": "With object or path: 'lopia shiro kalei.' (The child climbs the tree.) 'lo mia molira kalei.' (We climb the hill.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "The climb is progress that cannot be rushed — each hold must be actual before the next is reached for. Ambition, disciplined by physics.",
+    "pre-industrial-wisdom": "Orchard, roof-thatch, lookout: climbing was daily competence, learned young and kept until old."
+  },
+  "tags": {
+    "activity": "Ascent by effort",
+    "physical": "Grip and pull upward",
+    "spatial": "From low to high"
+  }
+}
