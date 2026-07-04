@@ -27,6 +27,18 @@ them; words inside a compound must all exist in the lexicon.
 | `sorae lumae` | sun's end | west | As above. |
 | `phelo loa` | give light | to shine | The sun does not perform at the world; it gives. Canonized from *The North Wind and the Sun*. |
 
+## Time
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `ha philo` | this day | today | Already established usage (manual ch17). Deixis composes with the day-word; no label needed. |
+| `luera philo` | past day | yesterday | `luera` (the past) locates the day; the compound teaches the tense system every time it is said. |
+| `wireo philo` | future day | tomorrow | Mirror of yesterday; `wireo` (the future) does the work. |
+| `theula philo` | all days | every day | Already established usage (manual ch25). |
+| `theula thimu` | all time | always | "Always" as a claim about the whole of time — the composition is the meaning, stated honestly. |
+| `mawha thimu` | no time | never | The refusal quantifier meets time; a coined "never" would only relabel this. |
+| `sheloi shemu` | many moments | often | Frequency as counted moments — ternary-system thinking applied to time. |
+
 ## Beings and life
 
 | Compound | Literal | Meaning | Why compositional |
