@@ -1,0 +1,24 @@
+{
+  "word": "morisa",
+  "gloss": "salt",
+  "ipa": "/mo̞.ˈri.sä/",
+  "syllables": [
+    "mo",
+    "ri",
+    "sa"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Salt / The Sea's Crystal",
+  "description": "Salt: the seasoning and the preserver. Built on the 'mori' of 'moriwhe' (sea), because that is where it comes from: what the water leaves when it goes. Covers table salt and the salt of preservation alike.",
+  "sound_symbolism": "The sea-syllables 'mo'-'ri' end in crisp 's' plus open 'a': the wide water reduced to a small sharp taste.",
+  "grammatical_notes": "Noun: 'nuora morisa phelona.' (The food requires salt.) 'moriwhe morisa phelu.' (The sea holds salt.)",
+  "pillars": {
+    "pre-industrial-wisdom": "Before cold storage, salt was how the harvest crossed the winter. Roads, trades, and whole towns existed because of it."
+  },
+  "tags": {
+    "nature": "What the sea leaves behind",
+    "physical": "The sharp taste that preserves"
+  }
+}

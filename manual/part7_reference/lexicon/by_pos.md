@@ -272,7 +272,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (431)
+## noun (438)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -283,6 +283,7 @@
 | `helia` | youth | Youth |
 | `heloa` | remedy | Remedy |
 | `helui` | change | Change |
+| `hemilo` | honey | Honey |
 | `heru` | herb | Herb |
 | `hisae` | skin | Skin |
 | `hola` | laugh | Laugh |
@@ -294,6 +295,7 @@
 | `hupo` | dog | Dog |
 | `kaero` | phase | Phase |
 | `kathu` | seal | Seal |
+| `katiru` | knife | Knife |
 | `kealo` | create | Create |
 | `keiro` | way | Way |
 | `keli` | device | Device |
@@ -394,6 +396,7 @@
 | `menoa` | face | Face |
 | `menua` | counselor | Counselor |
 | `mera` | net | Net |
+| `milura` | milk | Milk |
 | `miona` | person | Person |
 | `mioru` | beauty | Beauty |
 | `mirae` | eye | Eye |
@@ -410,6 +413,7 @@
 | `molu` | container | Container |
 | `mophi` | wool | Wool |
 | `moreke` | mammal | Mammal |
+| `morisa` | salt | Salt |
 | `moriwhe` | sea | Sea |
 | `moru` | wall | Wall |
 | `mosha` | period | Period |
@@ -421,7 +425,9 @@
 | `muriwe` | worm | Worm |
 | `muwi` | interior | Interior |
 | `naphe` | help | Help |
+| `napuro` | grain | Grain |
 | `nawea` | respect | Respect |
+| `nekuma` | meat | Meat |
 | `neparu` | cloud | Cloud |
 | `nepha` | medicine | Medicine |
 | `nira` | cord | Cord |
@@ -595,6 +601,7 @@
 | `sukima` | fear | Fear |
 | `sulai` | musician | Musician |
 | `suliwa` | snake | Snake |
+| `sulopa` | soup | Soup |
 | `sunai` | health | Health |
 | `suro` | rope | Rope |
 | `talua` | shoulder | Shoulder |
