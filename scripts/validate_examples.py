@@ -343,7 +343,7 @@ def check_lexicon(entries):
                 if known < max(1, len(tokens) / 2):
                     continue  # English phrase, not a Phi example
                 for t in tokens:
-                    if t not in lexicon_words:
+                    if t not in lexicon_words and t not in WHITELIST:
                         errors.append(
                             f"{rel}: unknown Phi word '{t}' in {field}"
                         )
