@@ -8,40 +8,56 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (30)
+## activity (46)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hasi` | wait | The stillness that stays ready |
 | `hekawi` | find | The forager's and searcher's verb |
+| `hewe` | wipe | The clearing stroke |
+| `kalei` | climb | Ascent by effort |
 | `kati` | cut | The craft act of dividing material |
+| `kawepa` | catch | Receiving the moving thing |
+| `kupe` | hide | Placing out of sight |
+| `kuremi` | grind | The kitchen's oldest transformation |
+| `lupho` | float | The swimmer's stillness |
+| `masue` | measure | The maker's estimating hand |
 | `meilo` | sit | fundamental human activity of sitting |
 | `meliho` | sing | fundamental human activity of singing |
 | `milau` | drink | fundamental human activity of drinking |
+| `muholi` | dig | Earth-work |
 | `natu` | pull | Inbound force to the body |
 | `nuola` | eat | fundamental human activity of eating |
+| `peki` | squeeze | Compression in the hand |
 | `pesa` | push | Outbound force from the body |
 | `pharelo` | cook | fundamental human activity of cooking |
 | `phoa` | do | fundamental human activity of doing |
 | `pina` | sew | fundamental human activity of sewing |
+| `pisha` | split | Division along the grain |
 | `rato` | turn | The navigator's correction |
 | `riola` | labor | fundamental human activity of laboring |
+| `rohi` | rub | Friction as care |
 | `roke` | move | fundamental human activity of moveing |
 | `rotiku` | dance | fundamental human activity of dancing |
 | `ruemi` | lie down | Lowering the body to rest |
 | `sawa` | wash | Water-cleansing as daily craft |
 | `selomi` | weave | fundamental human activity of weaving |
+| `sepho` | send | Dispatch and correspondence |
 | `shalo` | run | fundamental human activity of running |
 | `shua` | come | basic human action of moving toward a reference point |
 | `tapu` | close | The keeper's daily verb |
+| `tawi` | count | The keeper's evening practice |
 | `thalo` | walk | fundamental form of human locomotion |
 | `thape` | burn | The keeping of flame |
 | `therilu` | rest | fundamental human activity of resting |
+| `tiwa` | tie | Fastening with cord |
+| `tupi` | jump | The body's spring |
 | `wapho` | throw | Release into flight |
 | `wepu` | go | basic human action of departure and locomotion |
 | `whano` | stand | fundamental human activity of standing |
 | `whea` | make | fundamental human activity of making |
 | `wile` | play | fundamental human activity of playing |
+| `wishe` | swim | The body's water-travel |
 
 ## aesthetic (73)
 
@@ -121,7 +137,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (123)
+## cognition (125)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -146,6 +162,7 @@
 | `limoe` | creature | General category for life |
 | `loetha` | open (receptive) | Receptive thinking |
 | `lunai` | vision | Forward seeing |
+| `masue` | measure | Relational comparison |
 | `miona` | person | personhood inherently involves consciousness and self-awareness |
 | `mirae` | eye | the bridge between world and awareness |
 | `miratu` | recognize | Connecting perception to memory |
@@ -215,6 +232,7 @@
 | `sone` | value | Attributed importance |
 | `sorai` | insight | Deep seeing |
 | `ta` | one | fundamental cognitive concept for counting and establishing singular identity |
+| `tawi` | count | Mindful enumeration |
 | `telua` | accurate | Correctness |
 | `theali` | fitting | assessment of alignment with reality |
 | `thekao` | acknowledge | requires mindful attention to truly see another |
@@ -249,7 +267,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (176)
+## community (179)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -258,6 +276,7 @@
 | `howai` | evening | Gathering time |
 | `howela` | receive | receiving connects us in cycles of generosity |
 | `kaesu` | selfish | Lacking generosity |
+| `kawepa` | catch | The other end of every throw |
 | `keloe` | companion | Journey partner |
 | `keluro` | honor | Acknowledging worth within relationships |
 | `keno` | custom | Habitual way |
@@ -305,6 +324,7 @@
 | `muraki` | harvest | Shared labor and celebration |
 | `naphe` | help | Assisting others |
 | `nawea` | respect | essential for social bonds and relationships |
+| `nawo` | agree | Accord between people |
 | `nireku` | insect | Foundation of ecosystems |
 | `noa` | position | Enables discussion of roles and places within social structures |
 | `noeli` | warm (emotional) | Interpersonal warmth |
@@ -354,6 +374,7 @@
 | `rolia` | worth | Universal value |
 | `ruloi` | flourish | Collective thriving |
 | `sano` | know | knowing others and sharing collective knowledge |
+| `sepho` | send | Transfer across distance |
 | `shalo` | run | rushing to help, playing together through racing |
 | `shane` | tell | How news and stories move between people |
 | `shea` | peace | social harmony and collective thriving |
@@ -430,7 +451,7 @@
 | `womu` | home | the shelter of family and intimacy |
 | `woru` | keeper | Guardian role |
 
-## creation (116)
+## creation (118)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -453,6 +474,7 @@
 | `kiru` | chisel | Carving tool |
 | `kori` | leather | Durable covering |
 | `kuma` | drum | Rhythm maker |
+| `kuremi` | grind | Meal from grain |
 | `lina` | string (instrument) | Vibrating element |
 | `linua` | fiber | Textile source |
 | `liru` | fabric | Woven art |
@@ -533,6 +555,7 @@
 | `thole` | practice | Skill building |
 | `tinoa` | dye | Coloring process |
 | `tisu` | needle | Sewing tool |
+| `tiwa` | tie | The binding half of cord-craft |
 | `toka` | hammer | Striking tool |
 | `tolu` | staff | Support tool |
 | `tomae` | floor | Support structure |
@@ -551,7 +574,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (68)
+## dialogue (69)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -575,6 +598,7 @@
 | `moreko` | articulate | Clear verbal expression |
 | `naphe` | help | Fundamental exchange of mutual aid |
 | `nawea` | respect | foundation for respectful communication |
+| `nawo` | agree | Where honest exchange arrives |
 | `nohero` | believe | Expressing conviction with openness |
 | `nomei` | name | the word that calls and identifies |
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
@@ -727,7 +751,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (168)
+## nature (174)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -779,6 +803,7 @@
 | `lumeo` | die | The universal ending of living things |
 | `lunei` | moon | Earth's companion satellite |
 | `lunoa` | month | Moon rhythm |
+| `lupho` | float | Borne on water |
 | `luphore` | river | Flowing waterway |
 | `lurekoi` | fruit | Plant reproductive structure |
 | `malomi` | balance | learns from organic forms like spirals and waves |
@@ -794,6 +819,7 @@
 | `moriwhe` | sea | Saltwater body |
 | `mueri` | clay | Earth material |
 | `muero` | autumn | Completion time |
+| `muholi` | dig | Opening the soil |
 | `muila` | earth | elemental foundation of terrestrial life |
 | `muraki` | harvest | Gathering mature crops |
 | `mureli` | brown | the color of soil and bark |
@@ -828,8 +854,10 @@
 | `phora` | sail | Natural power |
 | `phuliro` | stream | Small waterway |
 | `phuro` | renew | Following natural patterns of renewal |
+| `pisha` | split | How seeds and paths divide |
 | `pukea` | danger | The edge conditions of the living world |
 | `rei` | eighty-one-group | Reflects nature's truly countless phenomena—stars, atoms, drops of ocean, grains of sand. 'Rei' captures the infinite abundance that defines the natural world. |
+| `rihe` | rise | Effortless ascent |
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
 | `ruka` | complex | Interconnected systems |
@@ -886,6 +914,7 @@
 | `tumeki` | root | Underground plant structure |
 | `waero` | sky | Atmospheric expanse |
 | `waeshi` | wild | Untamed state |
+| `wapi` | fly | The motion of birds and wind-borne things |
 | `welura` | spread | Frames multiplication as organic growth and spreading |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
@@ -896,11 +925,12 @@
 | `wirae` | spring (season) | Growth beginning |
 | `wiru` | basket | Natural materials |
 | `wirua` | wet | the condition of water-contact |
+| `wishe` | swim | What fish and swimmers share |
 | `woeli` | natural | Of the living world |
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (171)
+## physical (186)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -909,12 +939,15 @@
 | `helia` | youth | bodily growth and vitality |
 | `helu` | smooth | Even surface quality |
 | `heno` | satisfy | Need met |
+| `hewe` | wipe | Surface made clean |
 | `hieru` | narrow | Constrained width |
 | `hisae` | skin | Body's outer covering and sensing organ |
 | `hiso` | clean | Free from dirt |
 | `hola` | laugh | Vocal release of joy |
 | `kaelo` | sweet | Pleasant taste |
+| `kalei` | climb | Grip and pull upward |
 | `kati` | cut | Clean separation by an edge |
+| `kawepa` | catch | The hand closing on arrival |
 | `keloa` | rough | Uneven surface |
 | `kema` | strong | Having power |
 | `kenua` | energy | Power capacity |
@@ -932,6 +965,7 @@
 | `kumoe` | stomach | Digestive organ of transformation |
 | `kunoa` | knee | Central leg joint enabling bending |
 | `kurathi` | dry | the state of moisture absence |
+| `kuremi` | grind | Reduction between surfaces |
 | `kuri` | right | Side of the body |
 | `kuroi` | muscle | Movement tissue creating action |
 | `lathoe` | tongue | Flexible oral muscle |
@@ -947,12 +981,14 @@
 | `lorika` | blood | Vital fluid circulating through the body |
 | `losha` | wide | Great breadth |
 | `lumera` | nourish | Sustaining life through giving |
+| `lupho` | float | Rest without sinking |
 | `luroi` | nervous | Uneasy energy |
 | `luwae` | graceful | Elegant form |
 | `luwi` | flexible | Able to bend |
 | `maeli` | quiet | Low sound |
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
 | `manuwe` | hand | the body member of grasping and making |
+| `masue` | measure | Size taken against the body |
 | `meilo` | sit | fundamental bodily position and experience of supported rest |
 | `menoa` | face | The front of the head bearing features |
 | `milau` | drink | bodily act of receiving liquid |
@@ -963,6 +999,7 @@
 | `molu` | container | Holding space |
 | `mophi` | wool | Warmth material |
 | `morae` | sense | Body receiving information from world |
+| `muholi` | dig | Working downward |
 | `muila` | earth | the ground we stand upon |
 | `mulu` | low | groundedness and stability |
 | `mureo` | stable | Firmly established |
@@ -984,6 +1021,7 @@
 | `palo` | touch | Tactile contact and sensation |
 | `paloi` | foot | the body member contacting earth |
 | `panoru` | support | Holding up, bearing weight |
+| `peki` | squeeze | Pressure brought inward |
 | `pelio` | arm | Upper limbs for reaching and working |
 | `pelui` | cold | thermal sensation of cold |
 | `pesa` | push | Pressing away |
@@ -999,6 +1037,7 @@
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phuwai` | lung | Respiratory organs within the chest |
 | `pilu` | take | taking objects with one's hands |
+| `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
 | `pukea` | danger | The nearness of possible harm |
 | `puko` | bitter | Sharp taste |
@@ -1007,7 +1046,9 @@
 | `rato` | turn | The body's and the wheel's motion |
 | `reshi` | fast | Rapid movement |
 | `rewa` | oar | Sustained effort |
+| `rihe` | rise | Coming up |
 | `riola` | labor | bodily effort and sustained activity |
+| `rohi` | rub | Repeated pressured strokes |
 | `rokai` | back | Posterior torso surface and spine region |
 | `roke` | move | Bodily change of position |
 | `rotiku` | dance | Rhythmic body movement |
@@ -1049,12 +1090,15 @@
 | `thumai` | finger | Fine digits for manipulation and touch |
 | `thuroi` | resilient | Able to recover |
 | `tiso` | sharp | Fine edge |
+| `tiwa` | tie | Made fast against slipping |
 | `toka` | hammer | Shaping force |
 | `tolae` | leg | Lower limbs for support and locomotion |
 | `towe` | well | Good state |
 | `tuko` | sour | Acidic taste |
 | `tumoa` | heavy | Great weight |
+| `tupi` | jump | Leaving the ground |
 | `wapho` | throw | The arm's arc and letting go |
+| `wapi` | fly | Lift and wingbeat |
 | `weilo` | balanced | Equilibrium |
 | `welira` | thrive | Healthy, successful development |
 | `welua` | fragile | Easily broken |
@@ -1073,13 +1117,15 @@
 | `whunei` | breath | Air cycle sustaining life |
 | `wipha` | restless | Excess energy |
 | `wirua` | wet | the state of moisture presence |
+| `wishe` | swim | Motion through water |
 | `wolu` | healthy | Good condition |
 | `wuloe` | soft | Yielding texture |
 
-## ritual (35)
+## ritual (36)
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `hewe` | wipe | Care's smallest gesture |
 | `holia` | festival | Celebration gathering |
 | `keluro` | honor | Formal expressions of respect |
 | `koashira` | grove | Sacred tree-space |
@@ -1116,12 +1162,13 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breath | Central to meditation practice |
 
-## spatial (115)
+## spatial (120)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hekawi` | find | Coming upon what was elsewhere |
 | `hieru` | narrow | Limited breadth |
+| `kalei` | climb | From low to high |
 | `kamo` | arrive | Reaching destination |
 | `keiro` | way | Route or method |
 | `kelo` | frame | Defining edge |
@@ -1132,6 +1179,7 @@
 | `koema` | enter | Inward movement |
 | `kolua` | carry | transport through space while maintaining possession |
 | `kosha` | field | Open land |
+| `kupe` | hide | The enclosed and covered place |
 | `kuri` | right | Body-relative direction |
 | `laeno` | long | dimensional extent in space |
 | `laenu` | commons | Shared space |
@@ -1189,6 +1237,7 @@
 | `ruela` | path | routes through physical space |
 | `selu` | flow | traces movement through space along natural trajectories |
 | `senao` | same | the relationship of equivalence |
+| `sepho` | send | Caused travel toward a recipient |
 | `shalo` | run | rapid movement through space, covering distance swiftly |
 | `sharoi` | exceeds | Frames relative position in numerical space—one quantity extends beyond another |
 | `shoeka` | route | Course of travel |
@@ -1220,9 +1269,11 @@
 | `tomae` | floor | Ground surface |
 | `toremoa` | mountain | Earth reaching skyward |
 | `toru` | roof | Overhead cover |
+| `tupi` | jump | Across and over |
 | `turema` | return | Coming back to origin |
 | `waero` | sky | The great above |
 | `wapho` | throw | Sending across a gap |
+| `wapi` | fly | Travel through air |
 | `wema` | belong | grounded in place with deep connection to home |
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | involves transition from one location to another |
@@ -1236,7 +1287,7 @@
 | `womu` | home | the place of dwelling and belonging |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (122)
+## temporal (123)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1310,6 +1361,7 @@
 | `phomila` | offspring | represents future generations and continuity through time |
 | `phuro` | renew | Cycling from depleted to fresh |
 | `reshi` | fast | High speed |
+| `rihe` | rise | The shape of beginnings |
 | `rolu` | wheel | Cyclical motion |
 | `runae` | resin | Preserving substance |
 | `sahu` | forget | What time does to the unrehearsed |

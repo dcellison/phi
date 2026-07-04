@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*818 words.*
+*837 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -29,6 +29,7 @@
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
 | `henoi` | ENOUGH | /he̞.ˈn̪o̞.i/ | quantifier |
 | `heru` | herb | /ˈhe̞.ru/ | noun |
+| `hewe` | wipe | /ˈhe̞.we̞/ | verb |
 | `hi` | DIR | /ˈhi/ | particle |
 | `hieru` | narrow | /hi.ˈe̞.ru/ | adjective |
 | `himo` | HUM.CLF | /ˈhi.mo̞/ | classifier |
@@ -53,10 +54,12 @@
 | `kaero` | phase | /kä.ˈe̞.ro̞/ | noun |
 | `kaeshu` | bold | /kä.ˈe̞.ʃu/ | adjective |
 | `kaesu` | selfish | /kä.ˈe̞.su/ | adjective |
+| `kalei` | climb | /kä.ˈle̞.i/ | verb |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kathu` | seal | /ˈkä.θu/ | noun, verb |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
+| `kawepa` | catch | /kä.ˈwe̞.pä/ | verb |
 | `ke` | INFER | /ˈke̞/ | particle |
 | `kealo` | create | /ke̞.ˈä.lo̞/ | verb, noun |
 | `keiro` | way | /ke̞.ˈi.ro̞/ | noun |
@@ -122,7 +125,9 @@
 | `kuma` | drum | /ˈku.mä/ | noun, verb |
 | `kumoe` | stomach | /ku.ˈmo̞.e̞/ | noun |
 | `kunoa` | knee | /ku.ˈn̪o̞.ä/ | noun |
+| `kupe` | hide | /ˈku.pe̞/ | verb |
 | `kurathi` | dry | /ku.ˈrä.θi/ | adjective |
+| `kuremi` | grind | /ku.ˈre̞.mi/ | verb |
 | `kuri` | right | /ˈku.ri/ | noun, adjective |
 | `kurisha` | storm | /ku.ˈri.ʃä/ | noun, verb |
 | `kuroi` | muscle | /ku.ˈro̞.i/ | noun |
@@ -198,6 +203,7 @@
 | `lunai` | vision | /lu.ˈn̪ä.i/ | noun, verb |
 | `lunei` | moon | /lu.ˈn̪e̞.i/ | noun |
 | `lunoa` | month | /lu.ˈn̪o̞.ä/ | noun |
+| `lupho` | float | /ˈlu.ɸo̞/ | verb |
 | `luphore` | river | /lu.ˈɸo̞.re̞/ | noun |
 | `lurekoi` | fruit | /lu.re̞.ˈko̞.i/ | noun |
 | `luroi` | nervous | /lu.ˈro̞.i/ | adjective |
@@ -208,6 +214,7 @@
 | `maewo` | threshold | /mä.ˈe̞.wo̞/ | noun |
 | `malomi` | balance | /mä.ˈlo̞.mi/ | noun, verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
+| `masue` | measure | /mä.ˈsu.e̞/ | verb |
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
 | `mea` | thanks | /ˈme̞.ä/ | interjection |
 | `meilo` | sit | /me̞.ˈi.lo̞/ | verb |
@@ -265,6 +272,7 @@
 | `mueli` | plain (unadorned) | /mu.ˈe̞.li/ | adjective |
 | `mueri` | clay | /mu.ˈe̞.ri/ | noun |
 | `muero` | autumn | /mu.ˈe̞.ro̞/ | noun |
+| `muholi` | dig | /mu.ˈho̞.li/ | verb |
 | `muila` | earth | /mu.ˈi.lä/ | noun |
 | `muko` | careless | /ˈmu.ko̞/ | adjective |
 | `muloe` | empty | /mu.ˈlo̞.e̞/ | adjective |
@@ -281,6 +289,7 @@
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb, noun |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | noun, verb |
+| `nawo` | agree | /ˈn̪ä.wo̞/ | verb |
 | `ne` | NAME | /ˈn̪e̞/ | particle |
 | `nea` | aha | /ˈn̪e̞.ä/ | interjection |
 | `nela` | COORD | /ˈn̪e̞.lä/ | conjunction |
@@ -361,6 +370,7 @@
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb, noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb, noun |
+| `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pelio` | arm | /pe̞.ˈli.o̞/ | noun |
 | `peloma` | harmful | /pe̞.ˈlo̞.mä/ | adjective |
 | `pelori` | bird | /pe̞.ˈlo̞.ri/ | noun |
@@ -449,6 +459,7 @@
 | `pina` | sew | /ˈpi.n̪ä/ | verb |
 | `pio` | hehe | /ˈpi.o̞/ | interjection |
 | `piru` | trader | /ˈpi.ru/ | noun |
+| `pisha` | split | /ˈpi.ʃä/ | verb |
 | `po` | POSS | /ˈpo̞/ | particle |
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
@@ -473,12 +484,14 @@
 | `repha` | bridge | /ˈre̞.ɸä/ | noun, verb |
 | `reshi` | fast | /ˈre̞.ʃi/ | adjective |
 | `rewa` | oar | /ˈre̞.wä/ | noun |
+| `rihe` | rise | /ˈri.he̞/ | verb |
 | `riola` | labor | /ri.ˈo̞.lä/ | verb, noun |
 | `ro` | HAB | /ˈro̞/ | particle |
 | `roa` | AROUND | /ˈro̞.ä/ | preposition |
 | `roe` | INS | /ˈro̞.e̞/ | preposition |
 | `roela` | scroll | /ro̞.ˈe̞.lä/ | noun |
 | `roena` | copper | /ro̞.ˈe̞.n̪ä/ | noun |
+| `rohi` | rub | /ˈro̞.hi/ | verb |
 | `rokai` | back | /ro̞.ˈkä.i/ | noun |
 | `roke` | move | /ˈro̞.ke̞/ | verb |
 | `rolia` | worth | /ro̞.ˈli.ä/ | noun |
@@ -507,6 +520,7 @@
 | `sena` | pattern | /ˈse̞.n̪ä/ | noun |
 | `senao` | same | /se̞.ˈn̪ä.o̞/ | adjective |
 | `seniku` | smile | /se̞.ˈn̪i.ku/ | verb, noun |
+| `sepho` | send | /ˈse̞.ɸo̞/ | verb |
 | `serao` | old | /se̞.ˈrä.o̞/ | adjective |
 | `seroli` | mature | /se̞.ˈro̞.li/ | adjective, verb |
 | `seru` | commit | /ˈse̞.ru/ | verb |
@@ -613,6 +627,7 @@
 | `talome` | restore | /t̪ä.ˈlo̞.me̞/ | verb |
 | `talua` | shoulder | /t̪ä.ˈlu.ä/ | noun |
 | `tapu` | close | /ˈt̪ä.pu/ | verb |
+| `tawi` | count | /ˈt̪ä.wi/ | verb |
 | `te` | CESS | /ˈt̪e̞/ | particle |
 | `tei` | UNTIL | /ˈt̪e̞.i/ | preposition |
 | `teku` | short | /ˈt̪e̞.ku/ | adjective |
@@ -733,6 +748,7 @@
 | `tiroe` | instant | /t̪i.ˈro̞.e̞/ | noun |
 | `tiso` | sharp | /ˈt̪i.so̞/ | adjective |
 | `tisu` | needle | /ˈt̪i.su/ | noun |
+| `tiwa` | tie | /ˈt̪i.wä/ | verb |
 | `to` | PST | /ˈt̪o̞/ | particle |
 | `toka` | hammer | /ˈt̪o̞.kä/ | noun, verb |
 | `tokemi` | fungus | /t̪o̞.ˈke̞.mi/ | noun |
@@ -749,6 +765,7 @@
 | `tuko` | sour | /ˈt̪u.ko̞/ | adjective |
 | `tumeki` | root | /t̪u.ˈme̞.ki/ | noun, verb |
 | `tumoa` | heavy | /t̪u.ˈmo̞.ä/ | adjective |
+| `tupi` | jump | /ˈt̪u.pi/ | verb |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb, noun |
 | `wa` | Q | /ˈwä/ | particle |
 | `waeli` | conscious | /wä.ˈe̞.li/ | adjective, noun |
@@ -756,6 +773,7 @@
 | `waeshi` | wild | /wä.ˈe̞.ʃi/ | adjective |
 | `wao` | wow | /ˈwä.o̞/ | interjection |
 | `wapho` | throw | /ˈwä.ɸo̞/ | verb |
+| `wapi` | fly | /ˈwä.pi/ | verb |
 | `warosha` | reconcile | /wä.ˈro̞.ʃä/ | verb |
 | `we` | ALSO | /ˈwe̞/ | particle |
 | `wea` | TOWARD | /ˈwe̞.ä/ | preposition |
@@ -816,6 +834,7 @@
 | `wiroa` | hopeful | /wi.ˈro̞.ä/ | adjective |
 | `wiru` | basket | /ˈwi.ru/ | noun |
 | `wirua` | wet | /wi.ˈru.ä/ | adjective |
+| `wishe` | swim | /ˈwi.ʃe̞/ | verb |
 | `wiso` | RECP | /ˈwi.so̞/ | pronoun |
 | `woe` | FAR | /ˈwo̞.e̞/ | preposition |
 | `woeli` | natural | /wo̞.ˈe̞.li/ | adjective |
