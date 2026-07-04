@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phi — lexicon explorer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&family=Source+Sans+3:ital,wght@0,400..600;1,400..600&family=Gentium+Plus:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1 class="mark">p&thinsp;h&thinsp;i</h1>
+  <p class="sub"><span id="count">&hellip;</span> words &middot; a language for mindful communication</p>
+</header>
+
+<main>
+  <div class="searchbar">
+    <input id="q" type="search" placeholder="search word, gloss, or meaning&hellip;  ( / to focus )" autocomplete="off" autofocus>
+  </div>
+
+  <div class="filters">
+    <select id="f-pos"><option value="">any part of speech</option></select>
+    <select id="f-tag"><option value="">any tag</option></select>
+    <select id="f-pillar"><option value="">any pillar</option></select>
+    <button id="clear" type="button" title="clear search and filters">clear</button>
+  </div>
+
+  <div class="vine" aria-hidden="true">
+    <svg viewBox="0 0 400 14" preserveAspectRatio="xMidYMid meet">
+      <path d="M2 7 C 60 7, 90 2, 130 7 S 190 13, 200 7 S 260 1, 270 7 S 340 12, 398 7"
+            fill="none" stroke="currentColor" stroke-width="1"/>
+      <circle cx="200" cy="7" r="2.2" fill="currentColor"/>
+    </svg>
+  </div>
+
+  <p id="status" class="status"></p>
+  <ol id="results" class="results"></ol>
+  <button id="more" class="more" type="button" hidden>show more</button>
+</main>
+
+<footer>
+  <p>The lexicon is the single source of truth &mdash; this page is a view over
+     <a href="https://github.com/dcellison/phi">the repository</a>.
+     Every verb also names its event or result by the event-noun rule.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
