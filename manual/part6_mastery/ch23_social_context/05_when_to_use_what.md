@@ -33,7 +33,7 @@ Disagreement in Phi leans on the evidentials and the observation-feeling pattern
 
 ```
 thia mena sorae sulae nai meno haolu. mia ho ma shelomui.
-2SG DECL sun warm be DECL.CLOSE say. 1SG ASM NEG understand.
+2SG DECL.COMP sun warm be DECL.COMP.CLOSE say. 1SG ASSUM NEG understand.
 (You say the sun is warm. I — assuming — do not understand.)
 ```
 

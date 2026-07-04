@@ -54,25 +54,27 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 ## Leipzig-style abbreviations used in this manual
 
+Grammatical category labels follow the Leipzig Glossing Rules and the standard extensions of the typological literature. One deliberate house convention, permitted by Leipzig rule 4: lexical function words (spatial prepositions, quantifiers) are also glossed in capitals (ABOVE, BETWEEN, MANY) so that every function word is visually distinct from content vocabulary in a gloss line. Interrogatives are glossed by meaning in lowercase (who, where, when).
+
 | Abbr. | Meaning | Phi | Abbr. | Meaning | Phi |
 |---|---|---|---|---|---|
-| 1SG/2SG/3SG | I / you / they-one | mia, thia, shia | INTNS | intensifier | ru |
+| 1SG/2SG/3SG | I / you / they-one | mia, thia, shia | INTS | intensifier | ru |
 | 1PL | we | lo mia | IPFV | imperfective | si |
 | ABL | from | lue | IRR | irrealis | he |
-| ASM | assumed | ho | LOC | in/at | mua |
+| ASSUM | assumed | ho | LOC | in/at | mua |
 | CAUS | causative | ka | NEC | necessity | na |
 | CESS | cessative | te | NEG | negation | ma |
 | CMPR | comparative | mo | OPT | optative | su |
 | COND | conditional | lu | ORD | ordinal | nu |
 | COORD | and | nela | PASS | passive | se |
 | DAT | to | wei | PFV | perfective | ki |
-| DECL | that-clause | mena/meno | PL | plural | lo |
+| DECL.COMP | that-clause | mena/meno | PL | plural | lo |
 | DIR | witnessed | hi | POL | politeness | pi |
 | DISJ | or | sola | POT | possibility (can/may) | po |
 | FOC | focus | ko | PROX/DIST | this/that | ha, ra |
 | FUT | future | so | PST | past | to |
 | HAB | habitual | ro | Q | question | wa |
-| IMP | imperative | no | QUOT | quotation | shola/sholo |
+| IMP | imperative | no | QUOT.COMP | quotation | shola/sholo |
 | INCH | inchoative | pa | REL | relativizer | rena |
 | INFER | inferred | ke | REP | reported | ti |
 | INT.COMP | embedded question | wela/welo | VOC | vocative | kona |

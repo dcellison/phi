@@ -204,11 +204,11 @@
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `mena` | DECL | That |
-| `meno` | DECL.CLOSE | End declarative clause |
+| `mena` | DECL.COMP | That |
+| `meno` | DECL.COMP.CLOSE | End declarative clause |
 | `rena` | REL | Which |
-| `shola` | QUOT | Quote |
-| `sholo` | QUOT.CLOSE | End quote |
+| `shola` | QUOT.COMP | Quote |
+| `sholo` | QUOT.COMP.CLOSE | End quote |
 | `wela` | INT.COMP | Whether |
 | `welo` | INT.COMP.CLOSE | End embedded question |
 
@@ -229,7 +229,7 @@
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `kewai` | CONT | Contrasting |
+| `kewai` | CONTR | Contrasting |
 | `phisu` | EXMP | For Example |
 | `shekoi` | SPEC | Specifically |
 | `shelao` | SUMM | In Summary |
@@ -266,13 +266,13 @@
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `hina` | INT.T | What |
-| `kua` | INT.LOC | Where |
-| `misa` | INT.REASON | Why |
-| `sua` | INT.P | Who |
-| `thela` | INT.MANNER | How |
-| `weno` | INT.TIME | When |
-| `wia` | INT.Q | How Many |
+| `hina` | what | What |
+| `kua` | where | Where |
+| `misa` | why | Why |
+| `sua` | who | Who |
+| `thela` | how | How |
+| `weno` | when | When |
+| `wia` | which | How Many |
 
 ## noun (378)
 
@@ -672,7 +672,7 @@
 | `ha` | PROX | This |
 | `he` | IRR | Irrealis |
 | `hi` | DIR | Direct Evidence |
-| `ho` | ASM | Assumptive Evidence |
+| `ho` | ASSUM | Assumptive Evidence |
 | `ka` | CAUS | Cause to |
 | `ke` | INFER | Inferential Evidence |
 | `ki` | PFV | Perfective |
@@ -693,7 +693,7 @@
 | `po` | POT | Can |
 | `ra` | DIST | That |
 | `ro` | HAB | Habitual |
-| `ru` | INTNS | Very |
+| `ru` | INTS | Very |
 | `sa` | HON.RESPECT | Respected Elder/Mentor |
 | `se` | PASS | Passive Voice |
 | `si` | IPFV | Imperfective |
@@ -757,7 +757,7 @@
 | `sheloi` | MANY | Many |
 | `soli` | SOME | Some |
 | `theli` | EACH | Each |
-| `theula` | ALL | All |
+| `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
 ## verb (291)

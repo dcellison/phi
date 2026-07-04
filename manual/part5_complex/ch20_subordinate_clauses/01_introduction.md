@@ -26,7 +26,7 @@ For complement clauses, the embedded clause serves as the object of a verb. Comp
 
 ```
 mia mena shia to wepu meno sano
-1SG DECL 3SG PST go DECL.CLOSE know
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
 (i know that they left.)
 ```
 

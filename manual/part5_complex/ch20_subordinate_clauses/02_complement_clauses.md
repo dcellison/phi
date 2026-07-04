@@ -10,19 +10,19 @@ The declarative complementizer `mena` announces that what follows is a statement
 
 ```
 mia mena shia to wepu meno sano
-1SG DECL 3SG PST go DECL.CLOSE know
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
 (i know that they left.)
 ```
 
 ```
 mia mena sorae sulae nai meno phaelo
-1SG DECL sun warm be DECL.CLOSE feel
+1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel
 (i feel that the sun is warm.)
 ```
 
 ```
 shia mena thia so kamo meno haolu
-3SG DECL 2SG FUT arrive DECL.CLOSE speak
+3SG DECL.COMP 2SG FUT arrive DECL.COMP.CLOSE speak
 (they say that you will arrive.)
 ```
 
@@ -34,7 +34,7 @@ The structure is consistent: `mena` opens the embedded clause, the clause unfold
 
 ```
 mia mena thia mena shia to wepu meno phaelo meno sano
-1SG DECL 2SG DECL 3SG PST go DECL.CLOSE feel DECL.CLOSE know
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE know
 (i know that you feel that they left.)
 ```
 

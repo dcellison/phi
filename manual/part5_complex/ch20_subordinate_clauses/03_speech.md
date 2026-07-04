@@ -8,19 +8,19 @@ The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; 
 
 ```
 shia shola mia so wepu sholo shemui
-3SG QUOT 1SG FUT go QUOT.CLOSE utter
+3SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE utter
 (they said "i will go.")
 ```
 
 ```
 ne sa thala shola lo peloru thuroa sholo shemui
-NAME HON.RESPECT Thala QUOT PL flower grow QUOT.CLOSE utter
+NAME HON.RESPECT Thala QUOT.COMP PL flower grow QUOT.COMP.CLOSE utter
 (honored thala said "the flowers grow.")
 ```
 
 ```
 mia shola mia thia lothea sholo shemui
-1SG QUOT 1SG 2SG love QUOT.CLOSE utter
+1SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE utter
 (i said "i love you.")
 ```
 
@@ -32,13 +32,13 @@ Indirect speech reports the content of what was said without preserving the exac
 
 ```
 shia mena shia so wepu meno shemui
-3SG DECL 3SG FUT go DECL.CLOSE utter
+3SG DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter
 (they said that they would go.)
 ```
 
 ```
 ne sa thala mena lo peloru thuroa meno shemui
-NAME HON.RESPECT Thala DECL PL flower grow DECL.CLOSE utter
+NAME HON.RESPECT Thala DECL.COMP PL flower grow DECL.COMP.CLOSE utter
 (honored thala said that the flowers grow.)
 ```
 
@@ -56,7 +56,7 @@ Phi's evidential system adds another layer. Combining reported evidence (`ti`) w
 
 ```
 mia ti mena shia so wepu meno shemui
-1SG REP DECL 3SG FUT go DECL.CLOSE utter
+1SG REP DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter
 (i'm told that they said they would go.)
 ```
 

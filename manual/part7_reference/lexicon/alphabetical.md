@@ -35,12 +35,12 @@
 | `hi` | DIR | /ˈhi/ | particle |
 | `hieru` | narrow | /hi.ˈe̞.ru/ | adjective |
 | `himo` | HUM.CLF | /ˈhi.mo̞/ | classifier |
-| `hina` | INT.T | /ˈhi.n̪ä/ | interrogative |
+| `hina` | what | /ˈhi.n̪ä/ | interrogative |
 | `hinolu` | adapt | /hi.ˈn̪o̞.lu/ | verb |
 | `hiru` | intuit | /ˈhi.ru/ | verb |
 | `hisae` | skin | /hi.ˈsä.e̞/ | noun |
 | `hiso` | clean | /ˈhi.so̞/ | adjective, verb |
-| `ho` | ASM | /ˈho̞/ | particle |
+| `ho` | ASSUM | /ˈho̞/ | particle |
 | `hoi` | onward | /ˈho̞.i/ | interjection |
 | `hola` | laugh | /ˈho̞.lä/ | verb |
 | `holia` | festival | /ho̞.ˈli.ä/ | noun |
@@ -97,7 +97,7 @@
 | `keshoa` | reptile | /ke̞.ˈʃo̞.ä/ | noun |
 | `kesu` | determined | /ˈke̞.su/ | adjective |
 | `kethua` | hard | /ke̞.ˈθu.ä/ | adjective |
-| `kewai` | CONT | /ke̞.ˈwä.i/ | discourse |
+| `kewai` | CONTR | /ke̞.ˈwä.i/ | discourse |
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun, verb |
@@ -129,7 +129,7 @@
 | `korua` | heart | /ko̞.ˈru.ä/ | noun |
 | `kosha` | field | /ˈko̞.ʃä/ | noun |
 | `kowela` | council | /ko̞.ˈwe̞.lä/ | noun |
-| `kua` | INT.LOC | /ˈku.ä/ | interrogative |
+| `kua` | where | /ˈku.ä/ | interrogative |
 | `kuelo` | curious | /ku.ˈe̞.lo̞/ | adjective |
 | `kulai` | tooth | /ku.ˈlä.i/ | noun |
 | `kulo` | guide | /ˈku.lo̞/ | verb, noun |
@@ -243,9 +243,9 @@
 | `melothe` | pond | /me̞.ˈlo̞.θe̞/ | noun |
 | `melu` | friend | /ˈme̞.lu/ | noun |
 | `meluna` | season | /me̞.ˈlu.n̪ä/ | noun |
-| `mena` | DECL | /ˈme̞.n̪ä/ | complementizer |
+| `mena` | DECL.COMP | /ˈme̞.n̪ä/ | complementizer |
 | `menai` | dedicate | /me̞.ˈn̪ä.i/ | verb |
-| `meno` | DECL.CLOSE | /ˈme̞.n̪o̞/ | complementizer |
+| `meno` | DECL.COMP.CLOSE | /ˈme̞.n̪o̞/ | complementizer |
 | `menoa` | face | /me̞.ˈn̪o̞.ä/ | noun |
 | `menua` | counselor | /me̞.ˈn̪u.ä/ | noun |
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
@@ -259,7 +259,7 @@
 | `mioru` | beauty | /mi.ˈo̞.ru/ | noun |
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
-| `misa` | INT.REASON | /ˈmi.sä/ | interrogative |
+| `misa` | why | /ˈmi.sä/ | interrogative |
 | `misheko` | cat | /mi.ˈʃe̞.ko̞/ | noun |
 | `mishoa` | express | /mi.ˈʃo̞.ä/ | verb |
 | `miso` | REFL | /ˈmi.so̞/ | pronoun |
@@ -543,7 +543,7 @@
 | `romishe` | contemplate | /ro̞.ˈmi.ʃe̞/ | verb |
 | `ronua` | south | /ro̞.ˈn̪u.ä/ | noun, adjective |
 | `rotiku` | dance | /ro̞.ˈt̪i.ku/ | verb |
-| `ru` | INTNS | /ˈru/ | particle |
+| `ru` | INTS | /ˈru/ | particle |
 | `ruela` | path | /ru.ˈe̞.lä/ | noun |
 | `ruemi` | lie down | /ru.ˈe̞.mi/ | verb |
 | `ruesha` | compassionate | /ru.ˈe̞.ʃä/ | adjective |
@@ -612,9 +612,9 @@
 | `shiu` | shh | /ˈʃi.u/ | interjection |
 | `shiwolu` | integrate | /ʃi.ˈwo̞.lu/ | verb |
 | `shoeka` | route | /ʃo̞.ˈe̞.kä/ | noun |
-| `shola` | QUOT | /ˈʃo̞.lä/ | complementizer |
+| `shola` | QUOT.COMP | /ˈʃo̞.lä/ | complementizer |
 | `sholei` | gather | /ʃo̞.ˈle̞.i/ | verb |
-| `sholo` | QUOT.CLOSE | /ˈʃo̞.lo̞/ | complementizer |
+| `sholo` | QUOT.COMP.CLOSE | /ˈʃo̞.lo̞/ | complementizer |
 | `sholu` | complete | /ˈʃo̞.lu/ | adjective |
 | `shomelu` | shadow | /ʃo̞.ˈme̞.lu/ | noun |
 | `shonela` | learn | /ʃo̞.ˈn̪e̞.lä/ | verb |
@@ -665,7 +665,7 @@
 | `soriu` | yellow | /so̞.ˈri.u/ | adjective |
 | `sorui` | circle | /so̞.ˈru.i/ | noun, verb |
 | `su` | OPT | /ˈsu/ | particle |
-| `sua` | INT.P | /ˈsu.ä/ | interrogative |
+| `sua` | who | /ˈsu.ä/ | interrogative |
 | `sui` | DUR | /ˈsu.i/ | preposition |
 | `suiloe` | dew | /su.i.ˈlo̞.e̞/ | noun |
 | `sukima` | fear | /su.ˈki.mä/ | noun |
@@ -715,7 +715,7 @@
 | `thekao` | acknowledge | /θe̞.ˈkä.o̞/ | verb |
 | `thekiro` | write | /θe̞.ˈki.ro̞/ | verb |
 | `theko` | craft | /ˈθe̞.ko̞/ | verb |
-| `thela` | INT.MANNER | /ˈθe̞.lä/ | interrogative |
+| `thela` | how | /ˈθe̞.lä/ | interrogative |
 | `thelai` | balm | /θe̞.ˈlä.i/ | noun |
 | `thelao` | CONS | /θe̞.ˈlä.o̞/ | discourse |
 | `theli` | EACH | /ˈθe̞.li/ | quantifier |
@@ -749,7 +749,7 @@
 | `therua` | eager | /θe̞.ˈru.ä/ | adjective |
 | `thesa` | careful | /ˈθe̞.sä/ | adjective |
 | `thesua` | mindful | /θe̞.ˈsu.ä/ | adjective, noun |
-| `theula` | ALL | /θe̞.ˈu.lä/ | quantifier |
+| `theula` | UNIV | /θe̞.ˈu.lä/ | quantifier |
 | `thia` | 2SG | /ˈθi.ä/ | pronoun |
 | `thiku` | small | /ˈθi.ku/ | adjective |
 | `thilonu` | prepare | /θi.ˈlo̞.n̪u/ | verb |
@@ -850,7 +850,7 @@
 | `wemi` | ally | /ˈwe̞.mi/ | noun, verb |
 | `wemo` | plain | /ˈwe̞.mo̞/ | noun |
 | `weni` | imagine | /ˈwe̞.n̪i/ | verb |
-| `weno` | INT.TIME | /ˈwe̞.n̪o̞/ | interrogative |
+| `weno` | when | /ˈwe̞.n̪o̞/ | interrogative |
 | `wenola` | collaborate | /we̞.ˈn̪o̞.lä/ | verb |
 | `wenu` | tonic | /ˈwe̞.n̪u/ | noun |
 | `weoli` | reed | /we̞.ˈo̞.li/ | noun |
@@ -883,7 +883,7 @@
 | `whunei` | breath | /ʍu.ˈn̪e̞.i/ | verb |
 | `whuo` | WITHOUT | /ˈʍu.o̞/ | preposition |
 | `wi` | two | /ˈwi/ | numeral |
-| `wia` | INT.Q | /ˈwi.ä/ | interrogative |
+| `wia` | which | /ˈwi.ä/ | interrogative |
 | `wiero` | imaginative | /wi.ˈe̞.ro̞/ | adjective |
 | `wilao` | long-for | /wi.ˈlä.o̞/ | verb |
 | `wile` | play | /ˈwi.le̞/ | verb |
