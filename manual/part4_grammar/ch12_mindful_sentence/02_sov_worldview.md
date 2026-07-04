@@ -1,31 +1,17 @@
 # The SOV worldview: context before action
 
-Learning the verb-final structure means learning a new way of pacing thought. In English and similar languages, the verb arrives early, driving the sentence forward with urgent action. In Phi, the verb waits at the end, allowing the full picture to form before the action is named.
+To feel what verb-final order does, take one thought through both grammars.
 
-## How English structures thought
+English: "The parent reads the book." Subject, then immediately the verb — the event is defined before the book has even been mentioned. English is a grammar of doers and doing; the action leads, and everything after it is elaboration. That design is fast, and its speed has a side effect: it lets a sentence commit to an action before the speaker has finished picturing the scene.
 
-To appreciate Phi's structure, consider how English works. In the sentence "The parent reads the book," the subject appears first: a parent is established. The verb arrives immediately, and the core event is defined before any other context emerges. The object, "the book," almost feels secondary.
+Now the same thought in Phi: *phao shelu theo.*
 
-This structure creates a worldview centered on actors and actions. It is a grammar of doers and doing, a framework that values immediacy. It works powerfully for a fast-paced world, but its efficiency can encourage cognitive impatience: a habit of rushing to the action without dwelling in the richness of the scene.
+First *phao* — a parent. A person appears, and the scene centers on them. Then *shelu* — a book. The scene gains a second element, not yet acted on, simply present. The listener now holds a complete still image: a parent, a book, and a quiet space of possibility between them. Only then comes *theo* — reads — and the image resolves. The verb does not drive the sentence; it completes it.
 
-## The Phi experience
+## What the pacing does
 
-Now experience the same thought through Phi: *phao shelu theo*. The journey unfolds differently. It is not a sprint to the action, but a slow reveal.
+For the speaker, the structure imposes a small discipline: you must assemble the whole scene in mind before you commit to the action that binds it. A reactive sentence is still possible in Phi — no grammar can prevent one — but the shape of the language does not cooperate with it. The verb-slot at the end functions like a held breath.
 
-First comes *phao*, meaning "parent." A person appears in mind, and the scene centers on them. Next comes *shelu*, meaning "book." The scene is enriched with a new object that does not yet belong to the parent or get acted upon; it simply coexists. The listener now holds a complete, static image: a parent and a book, a scene of quiet potential.
+For the listener, the effect is closer to courtesy. Nothing must be revised: every element arrives already labeled by its position, and the action lands on a scene both parties have finished building. A Phi sentence is not an assertion delivered so much as a space constructed together, with the verb as the moment the construction closes.
 
-Only at the end does the verb *theo* (reads) arrive. It lands gently, illuminating the relationship between the elements already present. This is a moment of synthesis, where the connection between parent and book becomes clear.
-
-## Grammatical mindfulness in practice
-
-This back-loaded structure cultivates patience and deliberate thought. By creating a mandatory pause between introducing the subject and declaring the verb, the grammar becomes a tool for presence. It encourages the speaker to hold the entirety of their thought in mind before committing to the action that binds everything together.
-
-This stands in contrast to grammar that allows rapid, impulsive statements. From the perspective of peace linguistics, this pacing serves de-escalation. It makes structurally more difficult to utter a quick, reactive phrase. Forming a Phi sentence requires a moment of inner stillness, a gathering of context that discourages thoughtless conflict.
-
-## A grammar of respect
-
-Beyond internal mindfulness, this structure has an interpersonal effect: it fosters respect. In a verb-initial language, the speaker often forces an action upon the listener's attention before the listener understands the full context.
-
-The Phi sentence, by contrast, is an invitation. The speaker begins by presenting the elements of a scene: the parent, the book. They invite the listener to build a shared mental space. Only when this space is established does the speaker complete the thought with the final verb.
-
-This ensures that the action is understood in its complete context, reducing ambiguity and misunderstanding. Every sentence becomes a small act of collaboration, an acknowledgment that true communication is about the listener's understanding, not just the speaker's assertion.
+Neither of these effects is mystical. They are byproducts of word order, available to any verb-final language — Japanese and Turkish speakers know the held breath well. What Phi adds is intention: it chose this order *for* the pause, and then built the rest of its grammar (the next section) so that the pause is never confusing, only slow.

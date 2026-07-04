@@ -1,29 +1,9 @@
-# Introduction: verb-final as philosophy
+# Introduction: the verb comes last
 
-Every sentence in Phi is an act of mindful construction. Unlike languages that rush toward the verb with urgent efficiency, Phi takes a different approach, one that honors both the content being shared and the consciousness receiving it.
+One rule shapes every sentence in Phi: the verb is the final word. Everything else in this chapter — and most of what makes Phi feel like Phi — follows from it.
 
-At the heart of Phi's grammar lies a single rule that shapes every utterance: the verb always comes last. This is not merely stylistic preference. It is the language's center of gravity, the steady heartbeat that gives Phi its deliberate rhythm.
+*phao shelu theo.* Parent, book, read. By the time the action arrives, you already know everyone involved. The sentence builds its scene first and names the event last, the way a careful storyteller sets the room before anything happens in it.
 
-## The architecture of awareness
+This is not decoration. Verb-final order is the sentence-level face of the language's one organizing principle — everything that modifies comes before what it modifies — and the next section walks through what it does to the experience of speaking and listening. The section after that extends the principle from sentences down to phrases. Then come the tools: particles as signposts, the framing words that declare a sentence's purpose, and exercises.
 
-A sentence in Phi is more than a vessel for conveying information. It is a carefully crafted space of shared awareness where speaker and listener meet in mutual understanding. The purpose of a Phi sentence is to build a rich, detailed context so that when the verb lands, it does so with the full weight of understanding.
-
-Consider the difference between English "The parent reads the book" and Phi *phao shelu theo*. In English, the verb arrives immediately after the subject, defining the core event before any other context emerges. In Phi, the verb is the destination: the final chord that resolves a musical phrase, the clarifying brushstroke that completes a painting.
-
-## The three pillars
-
-The mindful sentence rests upon three architectural principles working in harmony to create a grammar of respect, clarity, and presence.
-
-The first pillar is the verb-final foundation. By placing the action at the end of every sentence, Phi creates a natural rhythm of context-building that culminates in a moment of synthesis.
-
-The second pillar is the particle system. These small, unchanging words guide the listener through the sentence's meaning without ambiguity. They serve as transparent signposts ensuring that every relationship between words remains clear.
-
-The third pillar is the framing principle. Every sentence begins with a clear declaration of the speaker's intention, whether a question, a request, or a statement of fact.
-
-## From complexity to clarity
-
-Traditional grammars often rely on complex word endings, irregular patterns, or implicit context to convey meaning. These approaches, while functional, can create barriers to clear communication.
-
-Phi chooses a different path: explicit marking through position and particles. Grammatical relationships become visible, audible, and immediately comprehensible. There are no hidden meanings to decode, no irregular exceptions to memorize, no ambiguous constructions that leave the listener guessing.
-
-Every grammatical choice is made with the listener's understanding as the priority, creating a language that serves mindful, compassionate communication.
+Two promises before you start. First, there are no exceptions ahead — no irregular verbs, no special cases, nothing to memorize beyond the pattern itself. Second, the pattern will feel slow at first, and the slowness is real: holding your verb until the scene is set takes patience English never asked of you. That patience is not a beginner's tax you will one day stop paying. It is the practice, and it is the point.

@@ -1,33 +1,33 @@
 # Building your first sentences
 
-If the verb is withheld until the end, how do we make sense of the scene as it unfolds? English relies heavily on word order to tell us who is doing what. Other languages use complex case endings, changing noun forms to mark function. Phi rejects both approaches and chooses a third path: the particle system.
-
-## Particles as signposts
-
-Particles are the signposts of the Phi sentence. They are small, unchangeable words that have little meaning on their own; you cannot point to a *no* or a *ke* in the real world. Their purpose is to attach to words that do have meaning and provide a clear label announcing their grammatical function. They make invisible grammar visible and audible.
-
-To ensure they are instantly recognizable, particles follow a strict phonetic pattern: every particle is a single, open syllable of one consonant and one vowel. This signature means a listener can immediately distinguish grammatical signposts from multi-syllable content words, allowing them to parse relationships as they are spoken.
+If the verb waits until the end, how does a listener follow the scene as it assembles? English answers with early verbs. Latin and Japanese answer with case endings and postpositions. Phi answers with two tools that never change shape: word order and particles.
 
 ## The default path: word order
 
-The solution to the verb-final puzzle begins with a simple agreement: word order provides the default path. Without other grammatical instruction, a listener relies on the sequence Subject-Object-Verb to understand roles. The first noun phrase is the agent performing the action. The second is the patient receiving it.
+Without any other instruction, order assigns the roles. First noun phrase: the doer. Second: the done-to. Verb: last.
 
-To return to our simple scene, a speaker would say *phao shelu theo*. Because *phao* (parent) appears first, it is unambiguously the subject who reads. Because *shelu* (book) appears second, it is the object being read. This structure handles the vast majority of declarative statements with intuitive grace.
+*phao shelu theo.* Because *phao* comes first, the parent reads; because *shelu* comes second, the book is read. No endings, no agreement, no ambiguity — position is the grammar. This single pattern carries the large majority of everything said in Phi.
 
-## Shifting focus with the passive
+## Particles as signposts
 
-What if we want to shift our focus? What if the most important part of our story is not the parent who reads, but the book that is being read? For this, Phi provides the passive voice particle *se*. By placing this particle just before the verb, the speaker gives a clear instruction: reverse the roles.
+For everything beyond the default, Phi uses particles: small, invariant words with no meaning of their own — you cannot point at a *no* or a *se* — whose job is to stand before another word and label its function.
 
-Our original sentence, *phao shelu theo*, transforms into *shelu se theo*. The book now comes first, and the particle *se* guarantees we understand it as the recipient of the reading. The sentence becomes simply "The book is read." This is the genius of particles: a simple, predictable marker that allows for a shift in narrative focus without complex changes to the words themselves.
+Their shape is part of the design. Every particle is exactly one consonant plus one vowel, and no content word is that short. A listener sorting the speech stream can tell signpost from cargo instantly, by size alone. (Chapter 11 catalogs the full inventory; here we need only two.)
 
-## Adding agents with the causative
+## Reversing the flow: *se*
 
-While the passive *se* removes an agent, the causative particle *ka* adds one, creating a new layer of interaction. This particle, also placed before the verb, signals that the subject is causing the object to perform the action.
+When the story is about the book, not the parent, the passive particle *se* reverses the default:
 
-For example, *phao lopia shelu ka theo* means "The parent makes the child read the book." The causative creates chains of influence, enabling speakers to express how one person's action leads to another's.
+*shelu se theo.* — The book is read.
 
-## A grammar of explicit instruction
+The affected thing takes first position, *se* stands before the verb to confirm the reversal, and the doer leaves the sentence. One particle, one instruction, no change to any word's form.
 
-This is the core principle of Phi's grammar. The system begins with a simple, reliable foundation, the default S-O-V word order, that handles most daily expression. For any deviation from that default, the language provides a toolbox of particles: single-syllable, phonetically distinct signposts that give clear instructions to the listener.
+## Adding an instigator: *ka*
 
-Whether shifting focus with passive *se* or introducing a new agent with causative *ka*, the speaker must be precise and unambiguous about meaning. This is a grammar of explicit instruction, a system that places the burden of clarity on the speaker, ensuring the listener never has to guess at relationships between participants.
+The causative particle *ka* works the other direction — instead of removing a participant, it adds the one who set things in motion:
+
+*phao lopia shelu ka theo.* — The parent has the child read the book.
+
+The causer takes subject position, the one who acts moves to object, and *ka* before the verb announces the chain of influence.
+
+That is the whole method, and it scales to everything ahead: a reliable default, and explicit, audible instructions for every departure from it. The speaker carries the burden of clarity so the listener never has to guess. Phi considers that a fair division of labor.

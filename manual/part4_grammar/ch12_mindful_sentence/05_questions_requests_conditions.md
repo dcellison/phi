@@ -1,55 +1,31 @@
 # Questions, requests, and conditions
 
-Phi operates on a simple principle: the first word spoken should be a promise to the listener, a clear declaration of the speaker's purpose. This is the role of the framing particles that appear at the beginning of any clause.
+The first word of a Phi sentence can declare what the whole sentence is *for*. These are the Slot 0 framing particles — chapter 11 catalogs them; this section is about what framing does to a conversation.
 
-These particles answer the listener's unspoken questions before other content is delivered. Is this a question? A request? A hypothetical? The speaker must first be mindful of their own intention, then present it transparently.
+*wa thia shelomui.* — Do you understand?
 
-## The gentle art of questioning
+The question is announced before it is asked. In English, a question often reveals itself only at the final rising tone — the listener processes a statement and then reinterprets it. In Phi, `wa` settles the matter in the first syllable: what follows is an inquiry, not an assertion. Nothing said afterward can turn out, retroactively, to have been a demand.
 
-In many languages, a question is signaled by a sharp, rising tone at the end, a gesture that can feel demanding. Phi avoids this entirely. Instead, a speaker signals curiosity by placing the gentle, open-sounding particle *wa* at the beginning of the utterance.
+The same holds for the imperative:
 
-*Wa thia shelomui?* — Do you understand?
+*no thepalu naphe.* — Help with the garden.
 
-The particle *wa* frames everything that follows not as a demand for an answer, but as an open invitation to share knowledge. It declares curiosity: "I am about to express something, and my purpose is a gentle inquiry." This simple declaration transforms questioning from potential interrogation into collaborative exploration.
+`no` is Phi's entire command apparatus — there is no verb mutation, no clipped special form. And because it is announced, a request can never masquerade as an observation ("someone should really water this garden…") the way English lets it. If you want something done, the grammar asks you to say so, in front.
 
-## Requests as invitations
+Conditions work the same way:
 
-A similar principle applies when a speaker wishes to prompt action. Where many languages use a sharp, clipped imperative that can sound like a harsh command, Phi employs the gentle imperative particle *no*. By placing this particle at the head of a sentence, the speaker frames their utterance as a cooperative request rather than a top-down order.
+*lu mia shelu theo…* — If I read the book…
 
-*No thepalu naphe.* — Help with the garden.
+`lu` marks the border between the world as it is and a world under consideration. Everything after it is hypothesis, and everyone knows it from the first breath.
 
-This is not a command to be obeyed, but an invitation to participate in a communal goal. It reframes instruction from imposing one's will into building consensus and shared responsibility.
+And politeness, when chosen, comes first of all:
 
-## Conditional thinking
+*pi no thepalu naphe.* — Please help with the garden.
 
-The particle *lu* provides a tool for stepping into the realm of imagination. When a speaker places *lu* at the beginning of a sentence, they signal a shift into hypothetical mode, the grammatical equivalent of saying "Let us consider a possibility."
+The documented combinations put `pi` before the act it softens: *pi no* for gentle requests, *pi wa* for gentle questions.
 
-*Lu mia shelu theo...* — If I read the book...
+## What framing buys
 
-A sentence beginning with *lu* is not a statement about the world as it is, but an invitation to collaboratively build a world as it could be. This marker is foundational to the language's capacity for planning, dreaming, and creative problem-solving.
+The pattern across all four is the same trade Phi makes everywhere: the speaker declares intent up front, and in exchange the listener never has to decode motive from tone. A question is a question, a request is a request, a hypothesis is a hypothesis — labeled before delivery, every time.
 
-## Social mindfulness
-
-Perhaps the most explicit tool for social harmony is the politeness particle *pi*. Its function runs deeper than simple courtesies like "please" or "thank you," which are often reflexive afterthoughts.
-
-Placing *pi* at the beginning of a sentence is a conscious act of social mindfulness, a declaration from the speaker that says: "I am entering this dialogue with care, considering your perspective as I speak."
-
-*Pi no thepalu naphe.* — Would you kindly help with the garden?
-
-The combination of *pi* and *no* creates especially gentle requests.
-
-## The grammar of trust
-
-These framing particles represent a commitment to grammatical transparency. By requiring the speaker to declare their core intention at the outset, the language eliminates a vast field of potential misunderstanding. There is no need to guess at motive or decipher tone. The intention is the first thing spoken, a clear label for the communication that follows.
-
-This simple rule fosters a different kind of dialogue, one where speakers are encouraged to be mindful of their own purpose and respectful of their listener's effort. It shifts the burden of interpretation away from the listener and places the burden of clarity on the speaker.
-
-## Combining framing particles
-
-Framing particles can combine in meaningful ways:
-
-- *wa lu* — What if? (questioning a hypothetical)
-- *pi no* — Please do (polite request)
-- *pi wa* — May I ask? (polite question)
-
-Each combination creates a specific communicative intent that is clear from the first syllables of the utterance.
+That transparency has a social edge worth naming honestly: you cannot hint in Phi. The grammar has no room for the deniable request or the statement-shaped question, and speakers coming from languages that do their social maneuvering through indirection will feel the loss before they feel the relief. The relief does come. It is the relief of never having to guess.

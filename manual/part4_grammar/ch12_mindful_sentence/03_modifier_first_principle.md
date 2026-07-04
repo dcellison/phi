@@ -1,56 +1,29 @@
-# The head-final principle: modifiers first
+# The modifier-first principle
 
-Phi's verb-final structure is part of a larger pattern called head-final ordering. In linguistics, the "head" is the core element of a phrase: the noun in a noun phrase, the verb in a verb phrase. In a head-final language, everything that modifies the head comes before it.
+Verb-final order is one case of something larger, and this is the right place to name it, because every chapter after this one leans on it.
 
-This principle applies at every level of the sentence, from the smallest phrase to the complete utterance.
+**In Phi, everything that modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Possessors before the possessed. Prepositions before their objects. Particles before the words they mark. Clauses before the nouns they describe. One principle, no exceptions — this is the "announce, then deliver" pattern you will now see at every scale of the language.
 
-## Modifiers before nouns
+A linguist would reach for the term *head-final* here, and would be half right. Head-final languages like Japanese put modifiers before nouns and verbs at the end — but they use postpositions, relators that come *after* their nouns. Phi uses prepositions, because a relator is a modifier too, and modifiers come first. Phi is not head-final or head-initial; it is modifier-first, which is a different and stricter idea. (The full argument lives in `documents/MODIFIER_FIRST_PHILOSOPHY.md`.)
 
-When describing something, the descriptor comes before the thing described:
+## The principle at phrase level
 
-- *welao shelu* (good book), not "book good"
-- *sheloi melu* (many friends), not "friends many"
-- *ha thepalu* (this garden), not "garden this"
+Descriptors before what they describe:
 
-This order mirrors how we often think: we first conceive of qualities, then attach them to objects. The adjective prepares the mind for what follows.
+- *welao shelu* — good book
+- *sheloi melu* — many friends
+- *ha thepalu* — this garden
 
-## Modifiers before verbs
+And the verb's own modifiers — the Slot 1 particles — cluster immediately before it, in a fixed order:
 
-The same principle applies to verb phrases. Particles that modify the action, such as tense, aspect, or modality, cluster immediately before the verb they serve.
+- *phao shelu to theo* — the parent read the book
+- *phao shelu so theo* — the parent will read the book
+- *phao shelu to si theo* — the parent was reading the book
 
-- *phao shelu to theo* (The parent read the book) — past tense *to* before *theo*
-- *phao shelu so theo* (The parent will read the book) — future tense *so* before *theo*
-- *phao shelu si theo* (The parent is reading the book) — imperfective aspect *si* before *theo*
+The verb itself never changes form. *theo* is *theo* whether the reading happened yesterday, is happening now, or merely might happen; the particles around it carry all of that. Chapters 15 and 16 give tense, aspect, and the modals their full treatment — here it is enough to see the shape: a stable core, dressed in modifiers, all of them announced in advance.
 
-Multiple modifiers can combine in a fixed order:
+## Why it earns its keep
 
-- *phao shelu to si theo* (The parent was reading the book) — past imperfective
+The payoff is that Phi never asks a listener to revise. In a language with postpositions, you hear a noun and only afterward learn what role it played; in a language with suffixes, a word's ending rewrites what its beginning meant. In Phi, by the time any element arrives, its relationship to the sentence has already been declared. Listening becomes accumulation instead of correction.
 
-The verb itself remains a pure, stable anchor. It never changes form regardless of tense, aspect, or modality. The modifying particles dance around it, clothing it in specific context.
-
-## Temporal precision
-
-The present tense is the default state and requires no particle. This is a philosophical choice, grounding the language in active presence; unless otherwise specified, all actions are happening in the current moment.
-
-To speak of the past requires the deliberate choice to place *to* before the verb. For the future, use *so*. By marking these explicitly, a speaker consciously shifts the temporal frame.
-
-## The texture of action
-
-Beyond placing an action on a timeline, aspect particles describe its internal texture. The imperfective particle *si* paints a picture of an action that is ongoing, repeated, or in process. The perfective particle *ki* treats an action as a single, completed whole.
-
-- *si theo* — "to be reading," an activity stretching over time
-- *ki theo* — "to have read," to have finished the book
-
-This distinction allows speakers to differentiate between an action in progress and one completed entirely.
-
-## Relationship to reality
-
-Modal particles color a verb with shades of likelihood and obligation. The possibility particle *po* signals that the action is a capacity, not a certainty: the difference between "I read" and "I can read." The necessity particle *na* anchors an action in requirement: the difference between "I go" and "I must go."
-
-These particles allow speakers to articulate not just what is, but what could be and what must be.
-
-## Consistency and clarity
-
-The elegance of this system becomes clear when we notice what does not change. The verb concept remains constant throughout all modifications. The word *theo* (to read) never alters its form, whether the reading happened yesterday, is happening now, is ongoing, or is merely possible.
-
-This design reflects a philosophical stance: actions, in their purest form, are timeless concepts. It is only our relationship to them that shifts. By separating the stable concept from the context of its performance, Phi builds a grammar of consistency and clarity.
+The cost is the one you already know from the last section: everything important waits. Phi pays that cost knowingly, every sentence, and calls it patience.

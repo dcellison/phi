@@ -119,11 +119,35 @@ Combine everything you have learned to translate these complex sentences:
 
 1. Do you understand this book?
 2. Please help the good garden.
-3. If I read the book, I will understand.
+3. If I read the book, I will understand. (Remember: Phi uses periods, not commas.)
 4. The friends were reading many books.
 5. Is the parent helping?
 
 ## Answer key
+
+Exercise 1:
+4. *melu shelu theo*
+5. *mia phao naphe*
+6. *thia thepalu shelomui*
+
+Exercise 2:
+1. *phao melu to naphe*
+2. *thia shelu so shelomui*
+3. *mia thepalu so naphe*
+
+Exercise 3:
+1. *mia thepalu si naphe*
+2. *thia shelu ki shelomui*
+3. *melu to si theo*
+
+Exercise 4:
+1. *wa melu naphe*
+2. *pi no thepalu naphe*
+3. *lu thia shelu shelomui…*
+
+Exercise 5:
+1. *thepalu se naphe*
+2. *shelu se shelomui*
 
 Exercise 6:
 1. *ra thepalu*
@@ -131,11 +155,11 @@ Exercise 6:
 3. *ha welao phao*
 
 Exercise 7:
-1. *wa thia ha shelu shelomui?*
+1. *wa thia ha shelu shelomui*
 2. *pi no welao thepalu naphe*
-3. *lu mia shelu theo, mia so shelomui*
+3. *lu mia shelu theo. mia so shelomui*
 4. *lo melu sheloi shelu to si theo*
-5. *wa phao si naphe?*
+5. *wa phao si naphe*
 
 ## Practice tip
 
