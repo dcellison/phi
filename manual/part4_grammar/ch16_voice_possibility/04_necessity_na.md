@@ -1,123 +1,45 @@
-# Necessity 'na'
+# Necessity *na*
 
-## From possibility to requirement
+Where *po* opens a door, **na** points at the one door there is. It marks what must be so — and Phi uses a single particle for every flavor of *must*, trusting context to say which one is speaking:
 
-If *po* is the sound of gentle possibility, *na* is the sound of inevitable conclusion. Where *po* opens doors to what might be, *na* marks what must be. These two particles occupy opposite ends of the modal spectrum, yet both serve honest communication by making our epistemic stance explicit.
+> **thia thuroa** — "You grow"
+> **thia na thuroa** — "You must grow"
 
-Necessity takes many forms. Sometimes it's physical: we must breathe, we must sleep, we must eat. Sometimes it's logical: if the premises are true, the conclusion must follow. Sometimes it's moral: faced with suffering, we feel we must help. And sometimes it's practical: given our circumstances, certain actions become unavoidable.
+**The body's needs:**
 
-Phi's necessity particle *na* marks all these forms of requirement, trusting context to clarify which type of necessity the speaker intends.
-
-## The sound of necessity
-
-The necessity particle **na** /ˈn̪ä/ consists of the grounding nasal 'n' meeting the most open vowel 'a'. The vocabulary definition describes it: "The 'n' resonates through bone, creating connection between speaker and earth. This rooted sound meets 'a', the most open and fundamental vowel. Together, 'na' sounds like necessity itself: the 'n' grounds us in what cannot be avoided while the 'a' opens to accept what must be."
-
-The nasal resonance creates a sense of deep recognition. This isn't about surface rules but bone-deep requirements. When we use *na*, we're not simply offering one option among many. We're indicating that given the available evidence, circumstances, or logical constraints, a particular conclusion becomes unavoidable.
-
-## Using 'na' for necessity
-
-The basic transformation that *na* creates:
-
-> **thia thuroa**  
-> you grow  
-> "You grow"
-
-becomes a statement of requirement or obligation:
-
-> **thia na thuroa**  
-> you NEC grow  
-> "You must grow"
-
-This transformation creates a different kind of certainty than unmarked statements. Where an unmarked statement presents direct observation or simple assertion, *na* indicates logical necessity or obligation. The necessity particle reveals the reasoning process behind the statement.
-
-### Logical necessity based on evidence
-
-When we see new growth in the garden:
-
-> **thinoe ki na thuroa**  
-> seed PFV NEC grow  
-> "The seeds must have sprouted"
-
-We didn't see them sprout, but given what we observe now, we conclude it must have happened.
-
-### Practical necessity or obligation
-
-When discussing community agreements:
-
-> **lo mia na nela thalo**  
-> PL I NEC together walk  
-> "We must walk together"
-
-### Strong inference
-
-When circumstances make departure inevitable:
-
-> **mia na so wepu**  
-> I NEC FUT go  
-> "I must be going"
-
-## The sources of necessity
-
-*Na* reveals the speaker's confidence in their reasoning while still maintaining transparency about the inferential nature of their statement. Unlike unmarked assertions that might seem to claim direct knowledge, *na* explicitly acknowledges that the speaker is drawing conclusions from available evidence or recognizing obligations arising from circumstances.
-
-The vocabulary entry identifies several sources of necessity that *na* can express:
-
-**Physical needs:** Things the body requires.
-
-> **miona na nulae**  
-> person NEC sleep  
+> **miona na nulae**
+> person NEC sleep
 > "A person must sleep"
 
-**Logical requirements:** Conclusions that follow necessarily from premises.
+**Conclusions the evidence forces.** This is `na` doing inference — you did not see it happen, but what you see now leaves one explanation:
 
-> **womu ki se na lorima**  
-> house PFV PASS NEC build  
-> "The house must have been built" (given that it exists)
+> **thinoe ki na thuroa**
+> seed PFV NEC grow
+> "The seeds must have sprouted"
 
-**Moral obligations:** Responses that ethics demand.
+> **womu ki se na lorima**
+> home PFV PASS NEC build
+> "The house must have been built" — it stands there, after all
 
-> **lo mia na naphe**  
-> PL I NEC help  
+**Obligations circumstances or ethics impose:**
+
+> **lo mia na naphe**
+> PL 1SG NEC help
 > "We must help"
 
-**Practical necessities:** Actions that circumstances require.
+Notice what the inferential uses share with the evidential `ke` (Part IV, chapter 17): both admit the speaker is reasoning, not witnessing. `na` claims the reasoning is airtight; `ke` claims only that it happened. A careful speaker keeps the two apart, and listeners learn quickly which kind of speaker they are dealing with.
 
-> **mia na so wepu**  
-> I NEC FUT go  
-> "I must leave"
+## With tense and aspect
 
-## Combining with other particles
+`na` sits in the modal position of the fixed Slot 1 order:
 
-Like other Slot 1 particles, *na* integrates smoothly with tense and aspect markers.
+> **mia to na thalo** — "I had to walk"
+> **thia so na shonela** — "You will need to learn"
+> **mia si na thalo** — "I must be walking" (the necessity is ongoing)
+> **mia ki na kamo** — "I must have arrived"
 
-Past necessity often expresses what had to happen:
+## Saying *must* out loud
 
-> **mia to na thalo**  
-> I PAST NEC walk  
-> "I had to walk"
+An unmarked assertion hides its reasoning; `na` shows it. When someone says `lo mia na naphe`, they are not reporting a fact about the world — they are presenting the conclusion of an argument and inviting you to check it. That is the difference between pressure and reasoning made audible, and it is why necessity in Phi tends to start conversations rather than end them.
 
-Future necessity expresses what will need to happen:
-
-> **thia so na shonela**  
-> you FUT NEC learn  
-> "You will need to learn"
-
-Combined with aspect particles:
-
-> **mia si na thalo**  
-> I IPFV NEC walk  
-> "I must be walking" (ongoing necessity)
-
-> **mia ki na kamo**  
-> I PFV NEC arrive  
-> "I must have arrived"
-
-## Grounded communication
-
-The explicit marking of necessity creates more trustworthy communication by making the logical structure of arguments visible. When someone uses *na*, listeners understand that they're being presented with a conclusion based on reasoning rather than direct observation. This allows for more informed evaluation of the claim's validity.
-
-The vocabulary definition connects *na* to Buddhist philosophy: "The particle embodies the first noble truth—acknowledging what cannot be avoided. Like recognizing that all beings must face aging, illness, and death, 'na' creates grammatical honesty about necessity while maintaining equanimity rather than despair."
-
-It also connects to practical wisdom: "Living close to natural cycles teaches real necessity—seeds must be planted in season, water must be found, shelter must be maintained. 'Na' carries this practical wisdom that distinguishes true needs from mere wants."
-
-Every use of *na* represents a considered judgment that something is required. By making necessity explicit, we invite others to examine our reasoning and share the weight of what must be done.
+What must be done is heavy enough. `na` at least makes sure everyone can see where the weight comes from.
