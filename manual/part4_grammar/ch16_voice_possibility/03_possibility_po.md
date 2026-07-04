@@ -30,7 +30,7 @@ One syllable, and the sentence now tells the truth about how firmly it is held.
 
 **Speculation:**
 
-> **lo mia po nela thuroa**
+> **lo mia po nuawe thuroa**
 > PL 1SG POSS together grow
 > "We might grow together"
 

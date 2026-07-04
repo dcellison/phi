@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (177)
+## adjective (178)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -80,6 +80,7 @@
 | `nomi` | present | Present |
 | `nophei` | loyal | Loyal |
 | `noshi` | near (adj) | Near |
+| `nuawe` | together | Together |
 | `nuelo` | dark | Dark |
 | `nuko` | black | Black |
 | `nulo` | deep | Deep |
@@ -273,7 +274,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (453)
+## noun (462)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -290,6 +291,7 @@
 | `hisae` | skin | Skin |
 | `hola` | laugh | Laugh |
 | `holia` | festival | Festival |
+| `holume` | loss | Loss |
 | `horathe` | dawn | Dawn |
 | `horuma` | thunder | Thunder |
 | `howai` | evening | Evening |
@@ -327,6 +329,7 @@
 | `kiru` | chisel | Chisel |
 | `kirua` | sand | Sand |
 | `koashira` | grove | Grove |
+| `kohura` | noise | Noise |
 | `kolai` | pigment | Pigment |
 | `koma` | head | Head |
 | `koremu` | bark | Bark |
@@ -339,6 +342,7 @@
 | `kuma` | drum | Drum |
 | `kumoe` | stomach | Stomach |
 | `kunoa` | knee | Knee |
+| `kupela` | secret | Secret |
 | `kuri` | right | Right |
 | `kurisha` | storm | Storm |
 | `kuroi` | muscle | Muscle |
@@ -359,6 +363,7 @@
 | `lioru` | life | Life |
 | `lirowa` | leaf | Leaf |
 | `liru` | fabric | Fabric |
+| `loamira` | gift | Gift |
 | `loesi` | oil | Oil |
 | `lokue` | place | Place |
 | `lomare` | embrace | Embrace |
@@ -394,6 +399,7 @@
 | `malomi` | balance | Balance |
 | `manuwe` | hand | Hand |
 | `meilopa` | seat | Seat |
+| `meliphe` | music | Music |
 | `melira` | song | Song |
 | `melothe` | pond | Pond |
 | `melu` | friend | Friend |
@@ -458,6 +464,7 @@
 | `norelu` | form | Form |
 | `noru` | bowl | Bowl |
 | `norui` | boundary | Boundary |
+| `noruwa` | generation | Generation |
 | `nosa` | now | Now |
 | `nowela` | exchange | Exchange |
 | `nowhu` | cave | Cave |
@@ -583,6 +590,7 @@
 | `shomelu` | shadow | Shadow |
 | `shonela` | learn | Learn |
 | `shonui` | ear | Ear |
+| `shonuwa` | sound | Sound |
 | `shorai` | commune | Commune |
 | `shumu` | moss | Moss |
 | `shuna` | edge | Edge |
@@ -602,6 +610,7 @@
 | `soeli` | cup | Cup |
 | `solae` | explain | Explain |
 | `solai` | gold | Gold |
+| `soleha` | luck | Luck |
 | `soliru` | hope | Hope |
 | `somela` | observe | Observe |
 | `sone` | value | Value |
@@ -699,6 +708,7 @@
 | `waeli` | conscious | Conscious |
 | `waero` | sky | Sky |
 | `wapile` | wing | Wing |
+| `welisha` | color | Color |
 | `weloa` | loom | Loom |
 | `weloma` | mutual | Mutual |
 | `weloni` | body | Body |
@@ -834,7 +844,7 @@
 | `theula` | ALL | All |
 | `wheli` | ANY | Any |
 
-## verb (291)
+## verb (292)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -928,6 +938,7 @@
 | `naphe` | help | Help |
 | `natu` | pull | Pull |
 | `nawea` | respect | Respect |
+| `naweri` | refuse | Refuse |
 | `nawo` | agree | Agree |
 | `nelore` | preserve | Preserve |
 | `nelu` | revere | Revere |

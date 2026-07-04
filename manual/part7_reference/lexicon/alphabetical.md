@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*888 words.*
+*899 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -44,6 +44,7 @@
 | `hoi` | onward | /ˈho̞.i/ | interjection |
 | `hola` | laugh | /ˈho̞.lä/ | verb, noun |
 | `holia` | festival | /ho̞.ˈli.ä/ | noun |
+| `holume` | loss | /ho̞.ˈlu.me̞/ | noun |
 | `horae` | radiant | /ho̞.ˈrä.e̞/ | adjective |
 | `horathe` | dawn | /ho̞.ˈrä.θe̞/ | noun |
 | `horuma` | thunder | /ho̞.ˈru.mä/ | noun |
@@ -113,6 +114,7 @@
 | `ko` | FOC | /ˈko̞/ | particle |
 | `koashira` | grove | /ko̞.ä.ˈʃi.rä/ | noun |
 | `koema` | enter | /ko̞.ˈe̞.mä/ | verb |
+| `kohura` | noise | /ko̞.ˈhu.rä/ | noun |
 | `kolai` | pigment | /ko̞.ˈlä.i/ | noun |
 | `kolo` | equal | /ˈko̞.lo̞/ | adjective, verb |
 | `kolu` | steady | /ˈko̞.lu/ | adjective, verb |
@@ -136,6 +138,7 @@
 | `kumoli` | hungry | /ku.ˈmo̞.li/ | adjective |
 | `kunoa` | knee | /ku.ˈn̪o̞.ä/ | noun |
 | `kupe` | hide | /ˈku.pe̞/ | verb |
+| `kupela` | secret | /ku.ˈpe̞.lä/ | noun |
 | `kurathi` | dry | /ku.ˈrä.θi/ | adjective |
 | `kuremi` | grind | /ku.ˈre̞.mi/ | verb |
 | `kuri` | right | /ˈku.ri/ | noun, adjective |
@@ -177,6 +180,7 @@
 | `liru` | fabric | /ˈli.ru/ | noun |
 | `lo` | PL | /ˈlo̞/ | particle |
 | `loa` | give | /ˈlo̞.ä/ | verb |
+| `loamira` | gift | /lo̞.ä.ˈmi.rä/ | noun |
 | `loesi` | oil | /lo̞.ˈe̞.si/ | noun, verb |
 | `loetha` | open (receptive) | /lo̞.ˈe̞.θä/ | adjective |
 | `lokue` | place | /lo̞.ˈku.e̞/ | noun |
@@ -233,6 +237,7 @@
 | `meilo` | sit | /me̞.ˈi.lo̞/ | verb |
 | `meilopa` | seat | /me̞.i.ˈlo̞.pä/ | noun |
 | `meliho` | sing | /me̞.ˈli.ho̞/ | verb |
+| `meliphe` | music | /me̞.ˈli.ɸe̞/ | noun |
 | `melira` | song | /me̞.ˈli.rä/ | noun |
 | `meloa` | persevere | /me̞.ˈlo̞.ä/ | verb |
 | `melothe` | pond | /me̞.ˈlo̞.θe̞/ | noun |
@@ -313,6 +318,7 @@
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | noun, verb |
+| `naweri` | refuse | /n̪ä.ˈwe̞.ri/ | verb |
 | `nawo` | agree | /ˈn̪ä.wo̞/ | verb |
 | `ne` | NAME | /ˈn̪e̞/ | particle |
 | `nea` | aha | /ˈn̪e̞.ä/ | interjection |
@@ -361,6 +367,7 @@
 | `norelu` | form | /n̪o̞.ˈre̞.lu/ | verb, noun |
 | `noru` | bowl | /ˈn̪o̞.ru/ | noun |
 | `norui` | boundary | /n̪o̞.ˈru.i/ | noun |
+| `noruwa` | generation | /n̪o̞.ˈru.wä/ | noun |
 | `nosa` | now | /ˈn̪o̞.sä/ | noun |
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
 | `nowae` | awaken | /n̪o̞.ˈwä.e̞/ | verb |
@@ -368,6 +375,7 @@
 | `nowhu` | cave | /ˈn̪o̞.ʍu/ | noun |
 | `nu` | ORD | /ˈn̪u/ | particle |
 | `nua` | COM | /ˈn̪u.ä/ | preposition |
+| `nuawe` | together | /n̪u.ˈä.we̞/ | adjective |
 | `nuelo` | dark | /n̪u.ˈe̞.lo̞/ | adjective |
 | `nuhe` | sadness | /ˈn̪u.he̞/ | noun |
 | `nuhemi` | grieve | /n̪u.ˈhe̞.mi/ | verb |
@@ -611,6 +619,7 @@
 | `shomelu` | shadow | /ʃo̞.ˈme̞.lu/ | noun |
 | `shonela` | learn | /ʃo̞.ˈn̪e̞.lä/ | verb, noun |
 | `shonui` | ear | /ʃo̞.ˈn̪u.i/ | noun |
+| `shonuwa` | sound | /ʃo̞.ˈn̪u.wä/ | noun |
 | `shorai` | commune | /ʃo̞.ˈrä.i/ | noun, verb |
 | `shorela` | REPH | /ʃo̞.ˈre̞.lä/ | discourse |
 | `shorema` | contribute | /ʃo̞.ˈre̞.mä/ | verb |
@@ -643,6 +652,7 @@
 | `sola` | DISJ | /ˈso̞.lä/ | conjunction |
 | `solae` | explain | /so̞.ˈlä.e̞/ | verb, noun |
 | `solai` | gold | /so̞.ˈlä.i/ | noun |
+| `soleha` | luck | /so̞.ˈle̞.hä/ | noun |
 | `soli` | SOME | /ˈso̞.li/ | quantifier |
 | `soliru` | hope | /so̞.ˈli.ru/ | noun, verb |
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb, noun |
@@ -829,6 +839,7 @@
 | `wela` | INT.COMP | /ˈwe̞.lä/ | complementizer |
 | `welao` | good | /we̞.ˈlä.o̞/ | adjective |
 | `welira` | thrive | /we̞.ˈli.rä/ | verb |
+| `welisha` | color | /we̞.ˈli.ʃä/ | noun |
 | `welo` | INT.COMP.CLOSE | /ˈwe̞.lo̞/ | complementizer |
 | `weloa` | loom | /we̞.ˈlo̞.ä/ | noun |
 | `weloma` | mutual | /we̞.ˈlo̞.mä/ | adjective, noun |

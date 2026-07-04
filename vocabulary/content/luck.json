@@ -1,0 +1,25 @@
+{
+  "word": "soleha",
+  "gloss": "luck",
+  "ipa": "/so̞.ˈle̞.hä/",
+  "syllables": [
+    "so",
+    "le",
+    "ha"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Luck / What Falls Unearned",
+  "description": "Luck: the part of any outcome that no one earned, good or otherwise. Phi keeps it value-neutral; 'soleha' is the way things fall, not a blessing and not a verdict.",
+  "sound_symbolism": "Bright 'so' opening to 'le'-'ha', light and unweighted throughout: what arrives without being carried.",
+  "grammatical_notes": "Noun: 'thia soleha phelu.' (You have luck.) 'mia soleha phaelo.' (I feel fortunate.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "Naming luck is naming the limits of merit: much of what happens was never up to anyone. The word keeps that humility speakable.",
+    "pre-industrial-wisdom": "Farmers knew exactly how much of a harvest was skill and how much was weather. Luck was the honest name for the difference."
+  },
+  "tags": {
+    "cognition": "The unearned part of outcomes",
+    "temporal": "The way things fall"
+  }
+}

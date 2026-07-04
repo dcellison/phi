@@ -1,0 +1,25 @@
+{
+  "word": "welisha",
+  "gloss": "color",
+  "ipa": "/we̞.ˈli.ʃä/",
+  "syllables": [
+    "we",
+    "li",
+    "sha"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Color / The Category of Hues",
+  "description": "Color: the category the individual hues belong to. Phi had every color and no word for color itself until this one. It also unlocks composition: 'haoni welisha' (voice-color) is timbre, registered in the compound registry.",
+  "sound_symbolism": "Liquid 'we'-'li' flows into 'sha', the softest of the fricatives: the word washes, as color does.",
+  "grammatical_notes": "Noun: 'mia welisha nila.' (I see color.) 'waero welisha helui.' (The sky's color changes.)",
+  "pillars": {
+    "art-nouveau-aesthetics": "The movement thought in color before it thought in line: Tiffany glass, enamel, the mural's palette. This word names their shared medium.",
+    "pre-industrial-wisdom": "Every color was once a recipe — madder red, woad blue, ochre from the hillside. Naming the category honors the craft that made its members."
+  },
+  "tags": {
+    "aesthetic": "What the hues have in common",
+    "physical": "The washed surface of seeing"
+  }
+}

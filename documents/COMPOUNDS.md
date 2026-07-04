@@ -18,6 +18,7 @@ them; words inside a compound must all exist in the lexicon.
 | `thiku nila` | see (as) small | to despise, contempt | Names the *act* of contempt precisely: a way of seeing, not a property of the seen. Refuses a slur-adjacent word. |
 | `remo kire` | thought-shape | a fixed view, an opinion held rigidly | Views are shapes thought hardens into; the compound keeps their constructedness visible. |
 | `nulae nophi` | sleep-story | a dream | The founding example of Phi's compositional method. |
+| `phelu pula` | holding-wish | envy, jealousy | Names the mechanism — the wish aimed at what another holds — so speaking it is already half the analysis. Envy examined dissolves into "I want that," which is workable; a bare label would only accuse. Ruled 2026-07: no root is coined for this feeling. |
 
 ## Cosmos and orientation
 
@@ -35,6 +36,12 @@ them; words inside a compound must all exist in the lexicon.
 | `mokura kesho` | belly-middle | navel | Anatomy by coordinates — the composition is the definition. |
 | `nolika whila` | animal hair | fur | `whila` (hair) generalized by its wearer; no new word needed. |
 | `mirae phialu` | eye-water | tears | The oldest kenning in human speech, and the truest; pairs with the coined verb `nuhewa` (weep). |
+
+## Sound and speech
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `haoni welisha` | voice-color | timbre, tone of voice | Timbre genuinely is the voice's color — the quality that stays when pitch and words are removed. The compound is the standard metaphor stated plainly; a coined label would hide it. |
 
 ## Time
 

@@ -1,0 +1,24 @@
+{
+  "word": "meliphe",
+  "gloss": "music",
+  "ipa": "/me̞.ˈli.ɸe̞/",
+  "syllables": [
+    "me",
+    "li",
+    "phe"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Music / Sound Made on Purpose",
+  "description": "Music: organized sound, with or without a voice in it. Third member of the 'meli-' family after 'melira' (song) and 'meliho' (sing); music is the family's widest word, holding the drum and the flute where the others hold only the throat.",
+  "sound_symbolism": "The family signature 'me'-'li' opens into breath-light 'phe': the sung line handed to instruments.",
+  "grammatical_notes": "Noun: 'mia meliphe sheluo.' (I listen to music.) 'meliphe siora loa.' (Music gives joy.)",
+  "pillars": {
+    "pre-industrial-wisdom": "Music was participatory before it was professional: work songs, lullabies, the fiddle at the wedding. Everyone's hands remember an instrument."
+  },
+  "tags": {
+    "aesthetic": "Sound organized on purpose",
+    "community": "What the gathering makes"
+  }
+}

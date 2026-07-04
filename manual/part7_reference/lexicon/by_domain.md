@@ -65,7 +65,7 @@
 | `wile` | play | fundamental human activity of playing |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (74)
+## aesthetic (77)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -90,6 +90,7 @@
 | `lowi` | vine | Curving organic line |
 | `luwae` | graceful | Beautiful movement |
 | `malomi` | balance | finds beauty in dynamic equilibrium and organic harmony |
+| `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
 | `mioru` | beauty | Delighting quality |
 | `mueli` | plain (unadorned) | Undecorated |
@@ -121,6 +122,7 @@
 | `shiloa` | pure | purity as a quality of form and essence |
 | `shilu` | blue | visual quality of cool hue |
 | `shioli` | silver | Lunar beauty |
+| `shonuwa` | sound | The medium of music and speech |
 | `shumu` | moss | Soft ancient growth |
 | `shuna` | edge | Defining line |
 | `siheloa` | breeze | Soft atmospheric touch |
@@ -135,6 +137,7 @@
 | `thiro` | serene | Luminous calm |
 | `thurai` | vibrant | Intense vitality |
 | `tinoa` | dye | Color transformation |
+| `welisha` | color | What the hues have in common |
 | `weloa` | loom | Pattern maker |
 | `weru` | poet | Word craft |
 | `wheiluro` | mist | Ethereal obscuring |
@@ -144,7 +147,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (126)
+## cognition (129)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -154,6 +157,7 @@
 | `hea` | hear | processes auditory information through mental reception |
 | `hekawi` | find | The moment of discovery |
 | `hiru` | intuit | Direct perception |
+| `holume` | loss | The gone made nameable |
 | `kaeli` | like | the mental state of favorable regard |
 | `kanu` | choose | The act of selecting among alternatives |
 | `kelai` | equals | Announces mathematical results through explicit statement |
@@ -163,6 +167,7 @@
 | `koma` | head | seat of mental processes |
 | `korei` | fulfill | Realization |
 | `kuelo` | curious | Wonder-seeking |
+| `kupela` | secret | The known and untold |
 | `lau` | twenty-seven-group | Represents the cognitive boundary where enumeration becomes impossible, where the mind must shift from counting to experiencing magnitude. 'Lau' embodies the limit of numerical cognition at human scale. |
 | `leiro` | release | Mathematical operation requiring deliberate mental processing |
 | `lilea` | clarify | illuminates meaning by clearing mental confusion |
@@ -236,6 +241,7 @@
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
 | `shoru` | dull | Not acute |
 | `solae` | explain | guides minds along paths of comprehension |
+| `soleha` | luck | The unearned part of outcomes |
 | `somela` | observe | involves mental processing and focused awareness |
 | `sone` | value | Attributed importance |
 | `sorai` | insight | Deep seeing |
@@ -275,7 +281,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (190)
+## community (195)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -303,6 +309,7 @@
 | `lau` | twenty-seven-group | As the measure of crowd-scale abundance, 'lau' inherently relates to collective gathering, community resources, and shared plenty. It represents the scale at which individual counting yields to collective experience. |
 | `lei` | harmony | weaves diverse voices into collective resonance |
 | `loa` | give | creating bonds through sharing |
+| `loamira` | gift | What changes hands unowed |
 | `lokue` | place | places as sites of gathering and meaning |
 | `lomea` | sibling | core family bond and peer relationship |
 | `lona` | meeting | Assembly event |
@@ -319,6 +326,7 @@
 | `lumishe` | mentor | builds knowledge continuity across generations |
 | `meilo` | sit | essential posture for gatherings, councils, and shared activities |
 | `meliho` | sing | Shared singing traditions |
+| `meliphe` | music | What the gathering makes |
 | `melu` | friend | fundamentally a social relationship of voluntary interpersonal connection |
 | `menua` | counselor | Guidance role |
 | `menui` | dwell | belonging to local place and connections |
@@ -338,6 +346,7 @@
 | `naphe` | help | Assisting others |
 | `napuro` | grain | The staple that sets the table |
 | `nawea` | respect | essential for social bonds and relationships |
+| `naweri` | refuse | What consent requires |
 | `nawo` | agree | Accord between people |
 | `nireku` | insect | Foundation of ecosystems |
 | `noa` | position | Enables discussion of roles and places within social structures |
@@ -349,8 +358,10 @@
 | `nophei` | loyal | Faithfulness |
 | `noru` | bowl | Nourishment |
 | `norui` | boundary | Relational border |
+| `noruwa` | generation | The cohort moving together |
 | `noshi` | near (adj) | Proximity |
 | `nowela` | exchange | weaves relationships through reciprocal giving and receiving |
+| `nuawe` | together | More than one, one doing |
 | `numelo` | nurture | Supporting growth of others |
 | `numike` | negotiate | Resolving differences through communication |
 | `nunoa` | forager | Gathering role |
@@ -594,7 +605,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (69)
+## dialogue (71)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -605,6 +616,7 @@
 | `kela` | rejoice | Expressing joy to others |
 | `kiroa` | sign | Visual message |
 | `kowela` | council | transforms governance through deep listening and patient dialogue |
+| `kupela` | secret | The silence that protects |
 | `lathoe` | tongue | Primary organ of speech production |
 | `lilea` | clarify | builds bridges of shared understanding through communication |
 | `lomare` | embrace | Non-verbal communication of acceptance |
@@ -618,6 +630,7 @@
 | `moreko` | articulate | Clear verbal expression |
 | `naphe` | help | Fundamental exchange of mutual aid |
 | `nawea` | respect | foundation for respectful communication |
+| `naweri` | refuse | The boundary stated |
 | `nawo` | agree | Where honest exchange arrives |
 | `nohero` | believe | Expressing conviction with openness |
 | `nomei` | name | the word that calls and identifies |
@@ -668,7 +681,7 @@
 | `whaline` | thank | Verbal expression of gratitude |
 | `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
-## emotion (102)
+## emotion (103)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -677,6 +690,7 @@
 | `heno` | satisfy | Contentment |
 | `hola` | laugh | Expressing amusement |
 | `holia` | festival | Communal joy |
+| `holume` | loss | What remains of holding |
 | `horae` | radiant | Glowing quality |
 | `hurao` | patient | Accepting delay |
 | `kaeli` | like | the feeling of preference and affinity |
@@ -977,7 +991,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (229)
+## physical (232)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1010,6 +1024,7 @@
 | `kipona` | pain | The body's sharp signal |
 | `kishu` | thirsty | The dry throat's need |
 | `kiwate` | bite | Teeth closing on |
+| `kohura` | noise | Sound carrying no shape |
 | `kolu` | steady | Constant quality |
 | `kolua` | carry | sustained bodily effort of bearing weight while moving |
 | `koluma` | unite | Joining separate elements |
@@ -1139,6 +1154,7 @@
 | `shena` | calm | Absence of turbulence |
 | `sholu` | complete | All parts present |
 | `shonui` | ear | Organ of hearing |
+| `shonuwa` | sound | The heard category |
 | `shoru` | dull | Lacking edge |
 | `shorui` | weary | Depleted energy |
 | `shorupo` | protect | Creating safety through presence |
@@ -1187,6 +1203,7 @@
 | `wapile` | wing | The bird's instrument |
 | `weilo` | balanced | Equilibrium |
 | `welira` | thrive | Healthy, successful development |
+| `welisha` | color | The washed surface of seeing |
 | `weloni` | body | The whole living frame |
 | `welua` | fragile | Easily broken |
 | `wenu` | tonic | Vitality |
@@ -1211,7 +1228,7 @@
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | Yielding texture |
 
-## ritual (37)
+## ritual (38)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1220,6 +1237,7 @@
 | `keluro` | honor | Formal expressions of respect |
 | `koashira` | grove | Sacred tree-space |
 | `kowela` | council | creates sacred space through formal deliberation processes |
+| `loamira` | gift | The ledger kept closed |
 | `lopha` | vessel | Sacred receptacle |
 | `lumeo` | die | The event around which mourning gathers |
 | `maewo` | threshold | Liminal space |
@@ -1253,7 +1271,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breath | Central to meditation practice |
 
-## spatial (124)
+## spatial (125)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1307,6 +1325,7 @@
 | `norui` | boundary | Defining limit |
 | `noshi` | near (adj) | Close by |
 | `nowhu` | cave | Sheltered inner space |
+| `nuawe` | together | Side by side in the verb |
 | `nulo` | deep | Vertical extension |
 | `nuroa` | kitchen | Food space |
 | `nusho` | depth | Downward extent |
@@ -1382,7 +1401,7 @@
 | `womu` | home | the place of dwelling and belonging |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (123)
+## temporal (125)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1437,6 +1456,7 @@
 | `noa` | position | Marks place within sequences and cycles |
 | `nomi` | present | This moment |
 | `norawhi` | dusk | Day's ending |
+| `noruwa` | generation | The interval of inheritance |
 | `nosa` | now | Present time |
 | `nowae` | awaken | daily transition marking time's rhythm |
 | `nuelo` | dark | Night quality |
@@ -1471,6 +1491,7 @@
 | `sheru` | slow | Unhurried pace |
 | `shila` | winter | Rest season |
 | `shimalo` | discipline | shapes growth through sustained gentle effort |
+| `soleha` | luck | The way things fall |
 | `soliru` | hope | orients toward future transformation and change |
 | `sorae` | sun | marker of day and seasonal cycles |
 | `suiloe` | dew | Ephemeral morning phenomenon |
