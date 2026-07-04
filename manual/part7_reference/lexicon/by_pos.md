@@ -207,14 +207,16 @@
 | `wela` | INT.COMP | Whether |
 | `welo` | INT.COMP.CLOSE | End embedded question |
 
-## conjunction (6)
+## conjunction (8)
 
 | Word | Gloss | Concept |
 |---|---|---|
+| `lao` | BECAUSE | Because of |
 | `lila` | PURP | For |
 | `nela` | COORD | And |
 | `pheo` | POST | After |
 | `phoe` | ANT | Before |
+| `shai` | CONC | Despite |
 | `sola` | DISJ | Or |
 | `thona` | ADVRS | But |
 
@@ -693,7 +695,7 @@
 | `ta` | one | One |
 | `wi` | two | Two |
 
-## particle (36)
+## particle (35)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -710,7 +712,6 @@
 | `lo` | PL | Plural |
 | `lu` | COND | If |
 | `ma` | NEG | Not |
-| `mi` | SUPL | Most |
 | `mo` | CMPR | More |
 | `na` | NEC | Must |
 | `ne` | NAME | Proper name marker |
@@ -734,11 +735,10 @@
 | `wa` | Q | Question |
 | `we` | ALSO | Also |
 
-## preposition (28)
+## preposition (26)
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `lao` | BECAUSE | Because of |
 | `leo` | ABOVE | Above |
 | `lue` | ABL | From |
 | `mua` | LOC | In |
@@ -754,7 +754,6 @@
 | `phou` | BELOW | Under |
 | `roa` | AROUND | Around |
 | `roe` | INS | With |
-| `shai` | CONC | Despite |
 | `sheo` | THAN | Than |
 | `sio` | BESIDE | Beside |
 | `sui` | DUR | During |

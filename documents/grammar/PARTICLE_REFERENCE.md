@@ -338,6 +338,26 @@ mia ko lothea shelomui
 (I understand *love* [specifically, not other things].)
 ```
 
+### Addition and restriction
+
+#### `we` - Additive (ALSO)
+**Function**: Announces that the marked element is added to what came before ("also", "too")
+**Example**:
+```
+we mia shua
+ALSO 1SG come
+(I come too.)
+```
+
+#### `li` - Restrictive (RESTR)
+**Function**: Announces that the statement holds for the marked element alone ("only")
+**Example**:
+```
+li shia shelomui
+RESTR 3SG understand
+(Only they understand.)
+```
+
 ### Intensity
 
 #### `ru` - Intensifier (INTNS)
@@ -533,7 +553,7 @@ lo mia wiso lothea
 |------|----------|----------|
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu he`, `su`, `pi` |
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `ro`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
-| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru` |
+| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `we`, `li` |
 
 **Note**: Complementizers (`rena`, `shola`/`sholo`, `mena`/`meno`, `wela`/`welo`) and vocative (`kona`) are not particles—see `COMPLEMENTIZER_REFERENCE.md`.
 

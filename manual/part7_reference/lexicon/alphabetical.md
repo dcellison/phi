@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*805 words.*
+*804 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -125,7 +125,7 @@
 | `laeno` | long | /lä.ˈe̞.n̪o̞/ | adjective |
 | `laenu` | commons | /lä.ˈe̞.n̪u/ | noun |
 | `laniru` | journey | /lä.ˈn̪i.ru/ | verb, noun |
-| `lao` | BECAUSE | /ˈlä.o̞/ | preposition |
+| `lao` | BECAUSE | /ˈlä.o̞/ | conjunction |
 | `lathoe` | tongue | /lä.ˈθo̞.e̞/ | noun |
 | `lau` | twenty-seven-group | /ˈlä.u/ | noun |
 | `lawe` | left | /ˈlä.we̞/ | noun, adjective |
@@ -220,7 +220,6 @@
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
 | `mera` | net | /ˈme̞.rä/ | noun, verb |
 | `meropi` | cherish | /me̞.ˈro̞.pi/ | verb |
-| `mi` | SUPL | /ˈmi/ | particle |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
 | `milau` | drink | /mi.ˈlä.u/ | verb |
 | `mio` | mmhm | /ˈmi.o̞/ | interjection |
@@ -503,7 +502,7 @@
 | `seru` | commit | /ˈse̞.ru/ | verb |
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
-| `shai` | CONC | /ˈʃä.i/ | preposition |
+| `shai` | CONC | /ˈʃä.i/ | conjunction |
 | `shalo` | run | /ˈʃä.lo̞/ | verb |
 | `shalu` | fish | /ˈʃä.lu/ | noun |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |

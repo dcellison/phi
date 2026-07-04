@@ -318,6 +318,57 @@ def check_lexicon(entries):
         pos = ",".join(data.get("pos", []))
         by_gloss.setdefault(gloss.lower(), []).append((word, pos, rel))
 
+    # Phi examples quoted inside JSON prose fields must use real words,
+    # and sound-symbolism text may only claim sounds the word contains.
+    lexicon_words = {d.get("word", "") for _, d in entries}
+    QUOTED = re.compile(r"(?<![A-Za-z])['`]([a-z][a-z .?!]*?)['`](?![A-Za-z])")
+    for rel, data in entries:
+        word = data.get("word", "")
+        prose_fields = {
+            "description": data.get("description", ""),
+            "sound_symbolism": data.get("sound_symbolism", ""),
+            "grammatical_notes": data.get("grammatical_notes", ""),
+        }
+        for k, v in data.get("pillars", {}).items():
+            prose_fields[f"pillars.{k}"] = v
+        for field, text in prose_fields.items():
+            for span in QUOTED.findall(text):
+                tokens = [t.strip(".?!") for t in span.split()]
+                tokens = [t for t in tokens if t]
+                if not tokens or not all(set(t) <= PHI_LETTERS for t in tokens):
+                    continue
+                if len(tokens) == 1:
+                    continue  # single quoted units are sound mentions
+                known = sum(1 for t in tokens if t in lexicon_words)
+                if known < max(1, len(tokens) / 2):
+                    continue  # English phrase, not a Phi example
+                for t in tokens:
+                    if t not in lexicon_words and t not in WHITELIST:
+                        errors.append(
+                            f"{rel}: unknown Phi word '{t}' in {field}"
+                        )
+        # sound-symbolism claims: quoted 1-2 letter units must be sounds
+        # or syllables the word actually has
+        syls = syllabify(word) or []
+        units = set(syls)
+        for s in syls:
+            if len(s) >= 2:
+                units.add(s[:-1])  # onset
+            units.add(s[-1])       # nucleus
+        for claim in re.findall(
+            r"(?<![A-Za-z])'([a-z]{1,3})'(?![A-Za-z])",
+            data.get("sound_symbolism", ""),
+        ):
+            if set(claim) <= PHI_LETTERS and (
+                claim in {"ph", "th", "sh", "wh"}
+                or len(claim) <= 2
+            ):
+                if claim not in units and claim not in word:
+                    warnings.append(
+                        f"{rel}: sound_symbolism claims '{claim}' but "
+                        f"'{word}' contains no such unit"
+                    )
+
     for word, files in sorted(by_word.items()):
         if len(files) > 1:
             errors.append(

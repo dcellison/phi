@@ -12,7 +12,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `meilo` | sit | fundamental human activity of siting |
+| `meilo` | sit | fundamental human activity of sitting |
 | `meliho` | sing | fundamental human activity of singing |
 | `milau` | drink | fundamental human activity of drinking |
 | `nuola` | eat | fundamental human activity of eating |
@@ -21,16 +21,16 @@
 | `pina` | sew | fundamental human activity of sewing |
 | `riola` | labor | fundamental human activity of laboring |
 | `roke` | move | fundamental human activity of moveing |
-| `rotiku` | dance | fundamental human activity of danceing |
+| `rotiku` | dance | fundamental human activity of dancing |
 | `ruemi` | lie down | Lowering the body to rest |
-| `selomi` | weave | fundamental human activity of weaveing |
-| `shalo` | run | fundamental human activity of runing |
+| `selomi` | weave | fundamental human activity of weaving |
+| `shalo` | run | fundamental human activity of running |
 | `shua` | come | basic human action of moving toward a reference point |
 | `thalo` | walk | fundamental form of human locomotion |
 | `therilu` | rest | fundamental human activity of resting |
 | `wepu` | go | basic human action of departure and locomotion |
 | `whano` | stand | fundamental human activity of standing |
-| `whea` | make | fundamental human activity of makeing |
+| `whea` | make | fundamental human activity of making |
 | `wile` | play | fundamental human activity of playing |
 
 ## aesthetic (73)
@@ -50,7 +50,7 @@
 | `lei` | harmony | creates beauty through balance and pleasing resonance |
 | `leko` | surface | Visible face |
 | `lerua` | exterior | Facing out |
-| `lina` | string (instrument) | Musical monae |
+| `lina` | string (instrument) | Musical tone |
 | `liro` | green | visual quality of life-hue |
 | `liru` | fabric | Texture |
 | `lonai` | width | Breadth |
@@ -61,7 +61,7 @@
 | `melothe` | pond | Contemplative water feature |
 | `mioru` | beauty | Delighting quality |
 | `mueli` | plain (unadorned) | Undecorated |
-| `mureli` | brown | visual quality of earth monaes |
+| `mureli` | brown | visual quality of earth tones |
 | `muwi` | interior | Within |
 | `nuko` | black | visual quality of light absence |
 | `pelori` | bird | Beauty in flight and song |
@@ -536,7 +536,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (66)
+## dialogue (67)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -566,6 +566,7 @@
 | `numike` | negotiate | Structured discussion toward agreement |
 | `palo` | touch | Non-verbal communication through contact |
 | `pawela` | participate | engaging in collective processes and exchange |
+| `peshu` | lie | False speech; the breaking of communicative trust |
 | `phae` | open | fundamental to genuine communication and exchange |
 | `pharune` | include | Affirming membership |
 | `phelui` | word | the basic unit of speech |
@@ -881,7 +882,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (163)
+## physical (162)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -964,7 +965,6 @@
 | `panoru` | support | Holding up, bearing weight |
 | `pelio` | arm | Upper limbs for reaching and working |
 | `pelui` | cold | thermal sensation of cold |
-| `peshu` | lie | horizontal bodily posture of complete rest and support |
 | `phaeli` | tender | Soft quality |
 | `phaelo` | feel | bodily sensations and somatic awareness |
 | `pharoe` | chest | Upper torso containing heart and lungs |
@@ -1088,7 +1088,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breath | Central to meditation practice |
 
-## spatial (109)
+## spatial (108)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1140,7 +1140,6 @@
 | `nuroa` | kitchen | Food space |
 | `nusho` | depth | Downward extent |
 | `paloi` | foot | the means of walking through space |
-| `peshu` | lie | horizontal positioning aligned with earth's surface |
 | `phae` | open | literally about creating and being space |
 | `phaero` | transit | Crossing through |
 | `phaewi` | studio | Creative space |
@@ -1202,7 +1201,7 @@
 | `womu` | home | the place of dwelling and belonging |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (121)
+## temporal (120)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1262,7 +1261,6 @@
 | `nulae` | sleep | structures temporal experience through daily cycles and circadian rhythms |
 | `nuri` | cycle | Recurring pattern |
 | `nuwoe` | stage | Development level |
-| `peshu` | lie | marking cycles of rest, sleep, and restoration |
 | `phaeno` | week | Seven-day cycle |
 | `phaero` | transit | Passage time |
 | `pharea` | adult | represents ripened maturity as a life stage |
@@ -1401,7 +1399,7 @@
 | `nusho` | depth | Profundity |
 | `nuwoe` | stage | Growth position |
 | `pelua` | paper | Receptive potential |
-| `peshu` | lie | knowing when to yield and receive support |
+| `peshu` | lie | What truthfulness is defined against |
 | `phae` | open | requires understanding and receptive awareness |
 | `phaelu` | peaceful | Core Phi quality |
 | `phari` | pen | Recording thought |
