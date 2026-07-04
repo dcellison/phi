@@ -1,6 +1,6 @@
 # The reciprocal *wiso*
 
-The reciprocal pronoun *wiso* expresses mutual action between members of a plural subject. It serves where English would use "each other" or "one another."
+The reciprocal pronoun *wiso* expresses mutual action between members of a plural subject. It does the work of English "each other" or "one another."
 
 ## Basic usage
 
@@ -33,11 +33,11 @@ Both involve the subject in the object position, but the relationship differs.
 
 ## Sound and meaning
 
-The *wi* in *wiso* echoes the number *wi* (two), suggesting the paired relationship inherent in reciprocal action. The *so* ending matches the reflexive *miso*, linking the two pronouns as a family of self-referential terms.
+The *wi* in *wiso* echoes the number *wi* (two): reciprocal action is inherently paired. The *so* ending matches the reflexive *miso*; the two pronouns form a family of self-referential terms.
 
 ## Common uses
 
-Reciprocal constructions appear frequently in Phi, reflecting the language's emphasis on relationship and mutuality:
+Phi emphasizes relationship and mutuality, so reciprocal constructions appear frequently:
 
 **Lo mia wiso naphe.** — We help each other.  
 **Lo mia wiso shonela.** — We teach each other. / We learn from each other.  

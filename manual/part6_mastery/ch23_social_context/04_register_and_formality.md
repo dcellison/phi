@@ -24,7 +24,7 @@ mia shelu theo. mia shelomui.
 
 ```
 kona ne sa thala. pi wa thia wei lo mia po thumela.
-VOC NAME HON.RESPECT Thala. POL Q 2SG DAT PL 1SG POSS teach.
+VOC NAME HON.RESPECT Thala. POL Q 2SG DAT PL 1SG POT teach.
 (Honored Thala — could you teach us?)
 ```
 

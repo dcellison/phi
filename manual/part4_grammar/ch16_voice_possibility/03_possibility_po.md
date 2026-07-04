@@ -7,7 +7,7 @@ English speakers say "it's raining" from the sound on the roof, without looking,
 > "It is raining"
 
 > **pheralu po nai**
-> rain POSS be
+> rain POT be
 > "It might be raining"
 
 One syllable, and the sentence now tells the truth about how firmly it is held.
@@ -19,19 +19,19 @@ One syllable, and the sentence now tells the truth about how firmly it is held.
 **Ability:**
 
 > **mia po theo**
-> 1SG POSS read
+> 1SG POT read
 > "I can read"
 
 **Permission:**
 
 > **thia po wepu**
-> 2SG POSS go
+> 2SG POT go
 > "You may go"
 
 **Speculation:**
 
 > **lo mia po nuawe thuroa**
-> PL 1SG POSS together grow
+> PL 1SG POT together grow
 > "We might grow together"
 
 The last one is worth noticing. A bare future would be a prediction; `po` makes it an opening — something offered for consideration rather than asserted. Much of Phi's collaborative tone in practice comes down to speakers reaching for `po` where English habit would assert.

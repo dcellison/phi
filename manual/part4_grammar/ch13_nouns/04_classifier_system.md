@@ -76,7 +76,7 @@ The structure is easy to learn, yet its use demonstrates deeper engagement with 
 
 ## Respect through recognition
 
-The purpose of this system is not primarily grammatical but philosophical. Choosing to use a classifier is a deliberate act of respect for the thing being counted. It declares that one is not merely tallying anonymous units, but acknowledging the nature of each one.
+The purpose of this system is not primarily grammatical but philosophical. Choosing to use a classifier is a deliberate act of respect for the thing being counted. It declares that the things counted have natures, not just quantities.
 
 To count people using `himo` is to recognize their personhood, separating them from a simple numerical total. To count animals or plants with `lipha` is to honor them as fellow living beings, not just objects in a landscape.
 

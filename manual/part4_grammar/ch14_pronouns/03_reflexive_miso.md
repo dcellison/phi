@@ -1,6 +1,6 @@
 # The reflexive *miso*
 
-The reflexive pronoun *miso* indicates that the action refers back to the subject. It serves where English would use "myself," "yourself," "themselves," and similar constructions.
+The reflexive pronoun *miso* indicates that the action refers back to the subject. It does the work of English "myself," "yourself," "themselves," and similar constructions.
 
 ## Basic usage
 
@@ -8,7 +8,7 @@ The reflexive pronoun *miso* indicates that the action refers back to the subjec
 **Thia miso sano.** — You know yourself.  
 **Shia miso whaline.** — They thank themselves.
 
-The reflexive appears before the verb, in the object position, indicating that the subject and object are the same entity.
+The reflexive appears before the verb, in the object position. It marks the subject and object as the same entity.
 
 ## One form for all persons
 
@@ -23,7 +23,7 @@ This simplification loses no clarity. The reflexive relationship is already esta
 
 ## Sound and meaning
 
-The word *miso* connects to *mia* through its initial *mi*, creating an echo of the self-referential first person. The addition of *so* (which also appears in the future particle) adds a sense of continuation or direction, the self reaching toward itself.
+The word *miso* connects to *mia* through its initial *mi*, an echo of the self-referential first person. The addition of *so* (which also appears in the future particle) adds a sense of continuation or direction, the self reaching toward itself.
 
 ## When to use reflexive
 

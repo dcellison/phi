@@ -2,7 +2,7 @@
 
 ## The grammar of nonviolence
 
-The fourth pillar provides practical engineering for Phi's ideals. It draws from Peace Linguistics, an academic field studying how language can perpetuate conflict or, when reshaped, foster peace.
+The fourth pillar provides practical engineering for Phi's ideals. It draws from Peace Linguistics, an academic field studying how language can perpetuate conflict or, when reshaped, help build peace.
 
 This discipline goes beyond advocating polite words. It analyzes the grammar of violence and asks: what would a grammar of nonviolence look like? Phi applies this research directly.
 

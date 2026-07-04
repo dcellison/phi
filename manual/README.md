@@ -6,7 +6,7 @@
 
 ## Vision
 
-A beautifully bound physical tome that embodies Phi aesthetics — the definitive guide to understanding and practicing Phi.
+A beautifully bound physical tome that embodies Phi aesthetics: the definitive guide to understanding and practicing Phi.
 
 ## Structure
 
@@ -27,8 +27,8 @@ The original `/book/` manuscript this manual replaced is preserved at
 ## Canonical Sources
 
 All vocabulary and grammar must match (see `/CANON.md`):
-- `/vocabulary/` — The authoritative lexicon
-- `/documents/grammar/` — The authoritative grammar rules
+- `/vocabulary/`: the authoritative lexicon
+- `/documents/grammar/`: the authoritative grammar rules
 
 Verify examples with `python3 scripts/validate_examples.py --paths manual`.
 

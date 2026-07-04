@@ -81,7 +81,7 @@ phialu haoni.
 ## The first story
 
 ***nitho howeli nela sorae*** — The North Wind and the Sun: Aesop's
-fable, the traditional showcase text of the world's languages, as
+fable, the text traditionally used to demonstrate the world's languages, as
 Phi's first narrative. Sequenced past-tense scenes, a causative nested
 inside a relative clause inside a `mena…meno` frame, and a three-word
 moral: `moli puro sharoi` — gentleness exceeds strength. Read it in

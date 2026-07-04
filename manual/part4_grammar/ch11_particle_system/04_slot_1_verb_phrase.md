@@ -1,6 +1,6 @@
 # Slot 1: Shaping the verb
 
-Slot 1 particles modify the verb phrase, announcing information about when the action occurs, how it unfolds, who performs or receives it, how the speaker knows about it, and whether it's real or possible.
+Slot 1 particles modify the verb phrase. They mark when the action occurs, how it unfolds, who performs or receives it, how the speaker knows about it, and whether it's real or possible.
 
 When multiple Slot 1 particles appear, they follow a strict order:
 
@@ -12,7 +12,7 @@ Phi has two tense particles. The present is unmarked.
 
 ### to: Past
 
-The particle *to* places the action in the past, indicating something that has already happened.
+The particle *to* places the action in the past: something that has already happened.
 
 **Mia to nila.** — I saw.  
 **Thia to shea loa.** — You gave peace.  
@@ -20,7 +20,7 @@ The particle *to* places the action in the past, indicating something that has a
 
 ### so: Future
 
-The particle *so* places the action in the future, indicating something that will or might happen.
+The particle *so* places the action in the future: something that will or might happen.
 
 **Mia so nila.** — I will see.  
 **Thia so naphe.** — You will help.  
@@ -159,7 +159,7 @@ Negation in Phi is gentle. The particle *ma* simply marks absence rather than fo
 When multiple Slot 1 particles appear, they combine in order:
 
 **Mia to si ke po ma nila.**  
-*1SG PST IPFV INFER POSS NEG see*  
+*1SG PST IPFV INFER POT NEG see*  
 "I was not being able to see (I infer)."
 
 The order is always: Tense → Aspect → Voice → Evidentiality → Modality → Negation
