@@ -1,0 +1,24 @@
+{
+  "word": "shonuwa",
+  "gloss": "sound",
+  "ipa": "/ʃo̞.ˈn̪u.wä/",
+  "syllables": [
+    "sho",
+    "nu",
+    "wa"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Sound / What the Ear Receives",
+  "description": "Sound: the neutral category of everything heard. Built beside 'shonui' (ear), its receiver; 'hea' (hear) is the act, 'shonuwa' the thing. Music ('meliphe') and noise ('kohura') divide it between them, and most of it belongs to neither.",
+  "sound_symbolism": "Hushed 'sho' opens the air, 'nu' hums in it, 'wa' lets it reach. A quiet word for the medium of all loud ones.",
+  "grammatical_notes": "Noun: 'mia shonuwa hea.' (I hear a sound.) 'shonui shonuwa howela.' (The ear receives sound.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "Sound is the classic meditation object after breath: always present, always changing, gone as it arrives. The bell is struck so there is something honest to attend to."
+  },
+  "tags": {
+    "aesthetic": "The medium of music and speech",
+    "physical": "The heard category"
+  }
+}

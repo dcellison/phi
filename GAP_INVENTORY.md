@@ -7,6 +7,9 @@ description fields of all 804 entries — the `kerou` lesson applied.
 Every "missing" claim below was hand-verified after automated
 matching.*
 
+**Status (2026-07): complete.** All batches landed — F, A1, A2, B, C,
+D, E, G, H — plus the rulings below. The lexicon stands at 899.
+
 ## The headline
 
 - **313 concepts: solidly covered.** The core is real — eat (`nuola`),
@@ -102,6 +105,21 @@ together**
    broken, or unwell; never simply "bad."
 7. **marriage: `telu` (partner) suffices** — moved to covered-by-design.
 8. **low-register bodily verbs: COIN without squeamishness** (Batch B).
+9. **envy/jealousy: COMPOUND, not root** — `phelu pula` (holding-wish),
+   registered in COMPOUNDS.md. Follows the `korua thero` / `thiku nila`
+   pattern: hostile relational emotions are composed so the mechanism
+   stays visible; the state remains sayable in the first person.
+10. **thought (noun): covered by design** — `remo` is verb and noun.
+11. **statement: covered by design** — `phelui` (word), `haolu`
+    (speak), and the complementizer system carry it.
+12. **tone/timbre: COMPOUND** — `haoni welisha` (voice-color),
+    registered in COMPOUNDS.md; unlocked by the `welisha` coinage.
+13. **well: COINED as `phitura`** (Batch G) — the gap list was stale
+    here: `towe` is well-as-wellness and `thula` the natural spring,
+    so the true gap was the dug well.
+14. **color and sound: DISCOVERED GAPS, coined in Batch H** —
+    `welisha` (color: every hue existed, not the category) and
+    `shonuwa` (sound: `hea` is the hearing, not the phenomenon).
 
 The original deliberation, for the record:
 
