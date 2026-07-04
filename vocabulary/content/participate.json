@@ -8,13 +8,12 @@
     "la"
   ],
   "pos": [
-    "verb",
-    "noun"
+    "verb"
   ],
   "concept": "Participate / To Join the Flow",
   "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
   "sound_symbolism": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
-  "grammatical_notes": "Functions as both verb (to participate) and noun (participation) without morphological change: 'mia mua holia pawela.' (I take part in the festival.) Related to 'shorema' (contribute), which names what is given, where pawela names the joining itself.",
+  "grammatical_notes": "'mia mua holia pawela.' (I take part in the festival.) Participation as a noun is licensed by the event-noun rule. Related to 'shorema' (contribute), which names what is given, where pawela names the joining itself.",
   "pillars": {
     "solarpunk-values": "Participatory design and governance lie at the heart of solarpunk organizing - decisions made with those affected, not for them. This active engagement breaks the consumer mindset, transforming people from users to co-creators of their communities. Participation distributes both power and responsibility."
   },

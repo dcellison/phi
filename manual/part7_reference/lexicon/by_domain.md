@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (52)
+## activity (51)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -61,7 +61,6 @@
 | `wepu` | go | basic human action of departure and locomotion |
 | `whano` | stand | fundamental human activity of standing |
 | `whea` | make | fundamental human activity of making |
-| `whunema` | breathe | The act beneath every other act |
 | `wile` | play | fundamental human activity of playing |
 | `wishe` | swim | The body's water-travel |
 
@@ -991,7 +990,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (232)
+## physical (231)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1220,7 +1219,6 @@
 | `whinu` | smell | Olfactory perception |
 | `whoa` | whole | bodily and tangible completeness |
 | `whunei` | breath | Air cycle sustaining life |
-| `whunema` | breathe | The body's tide of air |
 | `wipha` | restless | Excess energy |
 | `wirua` | wet | the state of moisture presence |
 | `wishe` | swim | Motion through water |
@@ -1531,7 +1529,7 @@
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
 
-## wisdom (188)
+## wisdom (187)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1718,7 +1716,6 @@
 | `wheo` | elder | holds experiential knowledge from long living |
 | `whoa` | whole | understanding undivided nature of reality |
 | `whori` | mend | Ethic of care and repair |
-| `whunema` | breathe | The verb of the first instruction |
 | `wiero` | imaginative | Seeing possibility |
 | `wireo` | future | Possibility's domain |
 | `woeli` | natural | Authentic quality |

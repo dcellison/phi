@@ -122,6 +122,7 @@ manual as it exists; update it whenever chapters change.*
 3. Future 'so': Possibility and Intention
 4. Aspect: The Texture of Time (si, ki, pa, te, ro)
 5. Combining Tense and Aspect
+6. Event Nouns: Every Verb Is Also Its Noun
 
 ### Chapter 16: Voice and Possibility
 1. The Passive 'se'
