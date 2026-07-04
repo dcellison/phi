@@ -1313,7 +1313,7 @@
 | `thole` | practice | Repeated action |
 | `tholua` | ancient | From deep past |
 | `thophe` | sow | Beginning cycles of cultivation |
-| `thorea` | ceremony | marks transitions and milesmonaes in communal time |
+| `thorea` | ceremony | marks transitions and milestones in communal time |
 | `thorui` | beginning | Origin point |
 | `thowia` | born | The first threshold of a life |
 | `thueli` | intend | Future orientation |

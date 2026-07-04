@@ -409,6 +409,27 @@ def check_docs(lexicon_words, paths=None):
                     if tok in lexicon_words or tok in WHITELIST:
                         continue
                     errors.append(f"{rel}:{lineno}: unknown Phi word '{tok}'")
+            # IPA citations: a line that names a known word in backticks
+            # and quotes exactly one /.../ transcription must quote that
+            # word's canonical IPA. Single phonemes (/m/) and slashed
+            # English words (/whom/) are not word transcriptions.
+            if not in_fence:
+                ipa_cites = re.findall(r"/[ˈ.\wä̞θʃɸʍ̪]+/", line)
+                if len(ipa_cites) == 1:
+                    named = [w for w in re.findall(r"`([a-z]+)`", line)
+                             if w in lexicon_words]
+                    inner = ipa_cites[0].strip("/")
+                    if named and len(inner) > 1:
+                        want = canonical_ipa(named[0])
+                        is_word_cite = (
+                            "." in inner or "ˈ" in inner
+                            or (want and set(inner) <= set(want))
+                        )
+                        if want and is_word_cite and ipa_cites[0] != want:
+                            errors.append(
+                                f"{rel}:{lineno}: IPA for `{named[0]}` is "
+                                f"{ipa_cites[0]}, canonical is {want}"
+                            )
     return errors
 
 
