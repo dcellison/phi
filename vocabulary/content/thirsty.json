@@ -1,0 +1,23 @@
+{
+  "word": "kishu",
+  "gloss": "thirsty",
+  "ipa": "/ˈki.ʃu/",
+  "syllables": [
+    "ki",
+    "shu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Thirsty / Dry-Throated / In Need of Water",
+  "description": "Thirsty: the dry counterpart of 'kumoli' (hungry), answered by 'phialu' (water) and 'milau' (drink).",
+  "sound_symbolism": "'ki' catches dry in the throat and 'shu' is the parched whisper — the word sounds like needing water.",
+  "grammatical_notes": "Predicative: 'shia kishu nai.' (They are thirsty.) With the answer: 'no wei shia phialu loa.' (Give them water.)",
+  "pillars": {
+    "peace-linguistics-practices": "Water offered to the thirsty is hospitality's first act in every tradition; the adjective is its request form.",
+    "pre-industrial-wisdom": "Wells, springs, and carried gourds — settlement followed the answers to thirst; the word walked ahead of every path to water."
+  },
+  "tags": {
+    "physical": "The dry throat's need"
+  }
+}

@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (173)
+## adjective (176)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -29,10 +29,12 @@
 | `kesu` | determined | Determined |
 | `kethua` | hard | Hard |
 | `kiro` | precise | Precise |
+| `kishu` | thirsty | Thirsty |
 | `kolo` | equal | Equal |
 | `kolu` | steady | Steady |
 | `koru` | harmonious | Harmonious |
 | `kuelo` | curious | Curious |
+| `kumoli` | hungry | Hungry |
 | `kurathi` | dry | Dry |
 | `kuri` | right | Right |
 | `laeno` | long | Long |
@@ -53,6 +55,7 @@
 | `luwi` | flexible | Flexible |
 | `maeli` | quiet | Quiet |
 | `moesha` | still | Still |
+| `mokela` | sick | Sick |
 | `moli` | gentle | Gentle |
 | `monae` | integral | Integral |
 | `motu` | humble | Humble |
@@ -269,7 +272,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (413)
+## noun (422)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -310,6 +313,7 @@
 | `kesho` | middle | Middle |
 | `keshoa` | reptile | Reptile |
 | `kima` | scribe | Scribe |
+| `kipona` | pain | Pain |
 | `kira` | key | Key |
 | `kirae` | crystal | Crystal |
 | `kire` | shape | Shape |
@@ -352,6 +356,7 @@
 | `lokue` | place | Place |
 | `lomare` | embrace | Embrace |
 | `lomea` | sibling | Sibling |
+| `lomura` | liver | Liver |
 | `lona` | meeting | Meeting |
 | `lonae` | respond | Respond |
 | `lonai` | width | Width |
@@ -440,9 +445,11 @@
 | `nowhu` | cave | Cave |
 | `nuhe` | sadness | Sadness |
 | `nulae` | sleep | Sleep |
+| `nulomi` | guts | Guts |
 | `nunoa` | forager | Forager |
 | `nuora` | food | Food |
 | `nuphari` | fog | Fog |
+| `nupira` | shame | Shame |
 | `nuri` | cycle | Cycle |
 | `nuroa` | kitchen | Kitchen |
 | `nusho` | depth | Depth |
@@ -519,6 +526,7 @@
 | `roela` | scroll | Scroll |
 | `roena` | copper | Copper |
 | `rokai` | back | Back |
+| `rokili` | spine | Spine |
 | `rolia` | worth | Worth |
 | `rolu` | wheel | Wheel |
 | `ronua` | south | South |
@@ -565,6 +573,7 @@
 | `sima` | thread | Thread |
 | `siora` | joy | Joy |
 | `siru` | marker | Marker |
+| `siwe` | sweat | Sweat |
 | `soeli` | cup | Cup |
 | `solae` | explain | Explain |
 | `solai` | gold | Gold |
@@ -577,6 +586,7 @@
 | `sorai` | insight | Insight |
 | `sorui` | circle | Circle |
 | `suiloe` | dew | Dew |
+| `sukima` | fear | Fear |
 | `sulai` | musician | Musician |
 | `sunai` | health | Health |
 | `suro` | rope | Rope |
@@ -641,6 +651,7 @@
 | `thunepa` | sacred place | Sacred Place |
 | `thuroa` | grow | Grow |
 | `tinoa` | dye | Dye |
+| `tipika` | fingernail | Fingernail |
 | `tiroe` | instant | Instant |
 | `tisu` | needle | Needle |
 | `toka` | hammer | Hammer |
@@ -660,6 +671,7 @@
 | `waero` | sky | Sky |
 | `weloa` | loom | Loom |
 | `weloma` | mutual | Mutual |
+| `weloni` | body | Body |
 | `wemi` | ally | Ally |
 | `wemo` | plain | Plain |
 | `wenola` | collaborate | Collaborate |
@@ -790,7 +802,7 @@
 | `theula` | ALL | All |
 | `wheli` | ANY | Any |
 
-## verb (283)
+## verb (291)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -817,6 +829,7 @@
 | `kati` | cut | Cut |
 | `kawepa` | catch | Catch |
 | `kealo` | create | Create |
+| `kehota` | cough | Cough |
 | `kela` | rejoice | Rejoice |
 | `kelai` | equals | Become (Result) |
 | `kelo` | frame | Frame |
@@ -829,6 +842,7 @@
 | `kire` | shape | Shape |
 | `kiroa` | sign | Sign |
 | `kiru` | chisel | Chisel |
+| `kiwate` | bite | Bite |
 | `koema` | enter | Enter |
 | `kolo` | equal | Equal |
 | `kolu` | steady | Steady |
@@ -876,6 +890,7 @@
 | `moreko` | articulate | Articulate |
 | `moreluki` | transform | Transform |
 | `muholi` | dig | Dig |
+| `mupelo` | vomit | Vomit |
 | `muraki` | harvest | Harvest |
 | `nai` | be | Be |
 | `naphe` | help | Help |
@@ -889,6 +904,7 @@
 | `niro` | web | Web |
 | `nohero` | believe | Believe |
 | `nolami` | bond | Bond |
+| `noluha` | swallow | Swallow |
 | `nomei` | name | Name |
 | `nomela` | encourage | Encourage |
 | `nomi` | present | Present |
@@ -897,6 +913,7 @@
 | `nowae` | awaken | Awaken |
 | `nowela` | exchange | Exchange |
 | `nuhemi` | grieve | Grieve |
+| `nuhewa` | weep | Weep |
 | `nulae` | sleep | Sleep |
 | `numelo` | nurture | Nurture |
 | `numike` | negotiate | Negotiate |
@@ -940,6 +957,7 @@
 | `pisha` | split | Split |
 | `porua` | purpose | Purpose |
 | `pula` | wish | Wish |
+| `puse` | spit | Spit |
 | `rato` | turn | Turn |
 | `relua` | mirror | Mirror |
 | `remo` | think | Think |
@@ -987,6 +1005,7 @@
 | `shuroa` | shelter | Shelter |
 | `silero` | star | Star |
 | `siora` | joy | Joy |
+| `siwe` | sweat | Sweat |
 | `soki` | settle | Settle |
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
@@ -1073,6 +1092,7 @@
 | `whola` | invite | Invite |
 | `whori` | mend | Mend |
 | `whunei` | breath | Breath |
+| `whunema` | breathe | Breathe |
 | `wilao` | long-for | Long For |
 | `wile` | play | Play |
 | `wishe` | swim | Swim |

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*837 words.*
+*856 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -62,6 +62,7 @@
 | `kawepa` | catch | /kä.ˈwe̞.pä/ | verb |
 | `ke` | INFER | /ˈke̞/ | particle |
 | `kealo` | create | /ke̞.ˈä.lo̞/ | verb, noun |
+| `kehota` | cough | /ke̞.ˈho̞.t̪ä/ | verb |
 | `keiro` | way | /ke̞.ˈi.ro̞/ | noun |
 | `kela` | rejoice | /ˈke̞.lä/ | verb |
 | `kelai` | equals | /ke̞.ˈlä.i/ | verb |
@@ -94,6 +95,7 @@
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun, verb |
+| `kipona` | pain | /ki.ˈpo̞.n̪ä/ | noun |
 | `kira` | key | /ˈki.rä/ | noun, verb |
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
 | `kire` | shape | /ˈki.re̞/ | verb, noun |
@@ -101,6 +103,8 @@
 | `kiroa` | sign | /ki.ˈro̞.ä/ | noun, verb |
 | `kiru` | chisel | /ˈki.ru/ | noun, verb |
 | `kirua` | sand | /ki.ˈru.ä/ | noun |
+| `kishu` | thirsty | /ˈki.ʃu/ | adjective |
+| `kiwate` | bite | /ki.ˈwä.t̪e̞/ | verb |
 | `ko` | FOC | /ˈko̞/ | particle |
 | `koashira` | grove | /ko̞.ä.ˈʃi.rä/ | noun |
 | `koema` | enter | /ko̞.ˈe̞.mä/ | verb |
@@ -124,6 +128,7 @@
 | `kulo` | guide | /ˈku.lo̞/ | verb, noun |
 | `kuma` | drum | /ˈku.mä/ | noun, verb |
 | `kumoe` | stomach | /ku.ˈmo̞.e̞/ | noun |
+| `kumoli` | hungry | /ku.ˈmo̞.li/ | adjective |
 | `kunoa` | knee | /ku.ˈn̪o̞.ä/ | noun |
 | `kupe` | hide | /ˈku.pe̞/ | verb |
 | `kurathi` | dry | /ku.ˈrä.θi/ | adjective |
@@ -171,6 +176,7 @@
 | `lokue` | place | /lo̞.ˈku.e̞/ | noun |
 | `lomare` | embrace | /lo̞.ˈmä.re̞/ | verb, noun |
 | `lomea` | sibling | /lo̞.ˈme̞.ä/ | noun |
+| `lomura` | liver | /lo̞.ˈmu.rä/ | noun |
 | `lona` | meeting | /ˈlo̞.n̪ä/ | noun |
 | `lonae` | respond | /lo̞.ˈn̪ä.e̞/ | verb, noun |
 | `lonai` | width | /lo̞.ˈn̪ä.i/ | noun |
@@ -247,6 +253,7 @@
 | `moenu` | culture | /mo̞.ˈe̞.n̪u/ | noun |
 | `moesha` | still | /mo̞.ˈe̞.ʃä/ | adjective |
 | `moesu` | wax | /mo̞.ˈe̞.su/ | noun |
+| `mokela` | sick | /mo̞.ˈke̞.lä/ | adjective |
 | `mokura` | belly | /mo̞.ˈku.rä/ | noun |
 | `mola` | island | /ˈmo̞.lä/ | noun |
 | `molawi` | cooperate | /mo̞.ˈlä.wi/ | verb, noun |
@@ -278,6 +285,7 @@
 | `muloe` | empty | /mu.ˈlo̞.e̞/ | adjective |
 | `mulu` | low | /ˈmu.lu/ | adjective |
 | `muo` | INTO | /ˈmu.o̞/ | preposition |
+| `mupelo` | vomit | /mu.ˈpe̞.lo̞/ | verb |
 | `muraki` | harvest | /mu.ˈrä.ki/ | verb, noun |
 | `mureli` | brown | /mu.ˈre̞.li/ | adjective |
 | `mureo` | stable | /mu.ˈre̞.o̞/ | adjective |
@@ -321,6 +329,7 @@
 | `nolami` | bond | /n̪o̞.ˈlä.mi/ | noun, verb |
 | `nolika` | animal | /n̪o̞.ˈli.kä/ | noun |
 | `nolue` | neck | /n̪o̞.ˈlu.e̞/ | noun |
+| `noluha` | swallow | /n̪o̞.ˈlu.hä/ | verb |
 | `nomei` | name | /n̪o̞.ˈme̞.i/ | noun, verb |
 | `nomela` | encourage | /n̪o̞.ˈme̞.lä/ | verb, noun |
 | `nomi` | present | /ˈn̪o̞.mi/ | adjective, verb, noun |
@@ -345,10 +354,12 @@
 | `nuelo` | dark | /n̪u.ˈe̞.lo̞/ | adjective |
 | `nuhe` | sadness | /ˈn̪u.he̞/ | noun |
 | `nuhemi` | grieve | /n̪u.ˈhe̞.mi/ | verb |
+| `nuhewa` | weep | /n̪u.ˈhe̞.wä/ | verb |
 | `nuko` | black | /ˈn̪u.ko̞/ | adjective |
 | `nulae` | sleep | /n̪u.ˈlä.e̞/ | verb, noun |
 | `nulo` | deep | /ˈn̪u.lo̞/ | adjective |
 | `nuloe` | content | /n̪u.ˈlo̞.e̞/ | adjective |
+| `nulomi` | guts | /n̪u.ˈlo̞.mi/ | noun |
 | `numelo` | nurture | /n̪u.ˈme̞.lo̞/ | verb |
 | `numike` | negotiate | /n̪u.ˈmi.ke̞/ | verb |
 | `nunoa` | forager | /n̪u.ˈn̪o̞.ä/ | noun |
@@ -356,6 +367,7 @@
 | `nuola` | eat | /n̪u.ˈo̞.lä/ | verb |
 | `nuora` | food | /n̪u.ˈo̞.rä/ | noun |
 | `nuphari` | fog | /n̪u.ˈɸä.ri/ | noun |
+| `nupira` | shame | /n̪u.ˈpi.rä/ | noun |
 | `nuri` | cycle | /ˈn̪u.ri/ | noun |
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
@@ -469,6 +481,7 @@
 | `pula` | wish | /ˈpu.lä/ | verb, noun |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
 | `puro` | strength | /ˈpu.ro̞/ | noun |
+| `puse` | spit | /ˈpu.se̞/ | verb |
 | `ra` | DIST | /ˈrä/ | particle |
 | `raeli` | height | /rä.ˈe̞.li/ | noun |
 | `raelu` | tall | /rä.ˈe̞.lu/ | adjective |
@@ -494,6 +507,7 @@
 | `rohi` | rub | /ˈro̞.hi/ | verb |
 | `rokai` | back | /ro̞.ˈkä.i/ | noun |
 | `roke` | move | /ˈro̞.ke̞/ | verb |
+| `rokili` | spine | /ro̞.ˈki.li/ | noun |
 | `rolia` | worth | /ro̞.ˈli.ä/ | noun |
 | `rolu` | wheel | /ˈro̞.lu/ | noun |
 | `romishe` | contemplate | /ro̞.ˈmi.ʃe̞/ | verb |
@@ -596,6 +610,7 @@
 | `sio` | BESIDE | /ˈsi.o̞/ | preposition |
 | `siora` | joy | /si.ˈo̞.rä/ | noun, adjective, verb |
 | `siru` | marker | /ˈsi.ru/ | noun |
+| `siwe` | sweat | /ˈsi.we̞/ | noun, verb |
 | `so` | FUT | /ˈso̞/ | particle |
 | `soa` | sorry | /ˈso̞.ä/ | interjection |
 | `soeli` | cup | /so̞.ˈe̞.li/ | noun |
@@ -618,6 +633,7 @@
 | `sua` | INT.P | /ˈsu.ä/ | interrogative |
 | `sui` | DUR | /ˈsu.i/ | preposition |
 | `suiloe` | dew | /su.i.ˈlo̞.e̞/ | noun |
+| `sukima` | fear | /su.ˈki.mä/ | noun |
 | `sulae` | warm | /su.ˈlä.e̞/ | adjective |
 | `sulai` | musician | /su.ˈlä.i/ | noun |
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
@@ -745,6 +761,7 @@
 | `thuroi` | resilient | /θu.ˈro̞.i/ | adjective |
 | `ti` | REP | /ˈt̪i/ | particle |
 | `tinoa` | dye | /t̪i.ˈn̪o̞.ä/ | noun, verb |
+| `tipika` | fingernail | /t̪i.ˈpi.kä/ | noun |
 | `tiroe` | instant | /t̪i.ˈro̞.e̞/ | noun |
 | `tiso` | sharp | /ˈt̪i.so̞/ | adjective |
 | `tisu` | needle | /ˈt̪i.su/ | noun |
@@ -785,6 +802,7 @@
 | `welo` | INT.COMP.CLOSE | /ˈwe̞.lo̞/ | complementizer |
 | `weloa` | loom | /we̞.ˈlo̞.ä/ | noun |
 | `weloma` | mutual | /we̞.ˈlo̞.mä/ | adjective, noun |
+| `weloni` | body | /we̞.ˈlo̞.n̪i/ | noun |
 | `welua` | fragile | /we̞.ˈlu.ä/ | adjective |
 | `welura` | spread | /we̞.ˈlu.rä/ | verb |
 | `wema` | belong | /ˈwe̞.mä/ | verb |
@@ -821,6 +839,7 @@
 | `whola` | invite | /ˈʍo̞.lä/ | verb, noun |
 | `whori` | mend | /ˈʍo̞.ri/ | verb |
 | `whunei` | breath | /ʍu.ˈn̪e̞.i/ | noun, verb |
+| `whunema` | breathe | /ʍu.ˈn̪e̞.mä/ | verb |
 | `whuo` | WITHOUT | /ˈʍu.o̞/ | preposition |
 | `wi` | two | /ˈwi/ | numeral |
 | `wia` | INT.Q | /ˈwi.ä/ | interrogative |
