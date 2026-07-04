@@ -273,7 +273,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (182)
+## community (185)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -281,6 +281,7 @@
 | `heloi` | generous | Sharing |
 | `howai` | evening | Gathering time |
 | `howela` | receive | receiving connects us in cycles of generosity |
+| `hupo` | dog | The first interspecies friendship |
 | `kaesu` | selfish | Lacking generosity |
 | `kawepa` | catch | The other end of every throw |
 | `keloe` | companion | Journey partner |
@@ -322,6 +323,7 @@
 | `mera` | net | Catching together |
 | `meropi` | cherish | Nurturing what we love |
 | `miona` | person | persons are the fundamental units of social structures |
+| `misheko` | cat | The household's quiet companion |
 | `moeli` | hearth | Gathering place |
 | `moenu` | culture | Shared ways |
 | `mokela` | sick | The state that summons tending |
@@ -330,6 +332,7 @@
 | `monae` | integral | Whole-making |
 | `moreke` | mammal | Close animal kin |
 | `muraki` | harvest | Shared labor and celebration |
+| `muriwe` | worm | The garden's smallest laborer |
 | `naphe` | help | Assisting others |
 | `nawea` | respect | essential for social bonds and relationships |
 | `nawo` | agree | Accord between people |
@@ -764,7 +767,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (174)
+## nature (183)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -774,6 +777,7 @@
 | `hinolu` | adapt | Following life's adaptive patterns |
 | `horathe` | dawn | Light emergence |
 | `howeli` | wind | Moving atmospheric force |
+| `hupo` | dog | The companion animal |
 | `kaero` | phase | Process stage |
 | `keloi` | summer | Peak growth |
 | `kelu` | become | participating in natural cycles of change |
@@ -795,6 +799,7 @@
 | `kosha` | field | Cultivation area |
 | `kurathi` | dry | the condition after water's departure |
 | `kurisha` | storm | Violent weather |
+| `kurona` | horn | The head's hard growth |
 | `lau` | twenty-seven-group | Reflects natural abundance patterns—a flock of birds, a school of fish, a grove of trees. 'Lau' captures the plenty that nature provides without enumeration. |
 | `lei` | harmony | reflects ecosystems in balance and natural cooperation |
 | `lepa` | fall | What leaves, rain, and ripe fruit do |
@@ -823,6 +828,7 @@
 | `melothe` | pond | Small still water body |
 | `meluna` | season | Annual rhythm pattern |
 | `milau` | drink | participation in water cycle and natural systems |
+| `misheko` | cat | The self-possessed animal |
 | `moesu` | wax | Organic substance |
 | `mola` | island | Water-surrounded land |
 | `molei` | evolve | Developmental transformation |
@@ -836,6 +842,7 @@
 | `muila` | earth | elemental foundation of terrestrial life |
 | `muraki` | harvest | Gathering mature crops |
 | `mureli` | brown | the color of soil and bark |
+| `muriwe` | worm | The soil's quiet maker |
 | `muroa` | fertile | Life-producing quality |
 | `nelore` | preserve | Conserving what sustains life |
 | `neparu` | cloud | Atmospheric water vapor |
@@ -858,6 +865,7 @@
 | `pheralu` | rain | Atmospheric water cycle |
 | `phero` | fern | Spore-bearing plant |
 | `phialu` | water | fundamental natural element essential to all ecosystems and life |
+| `philea` | feather | Flight's fabric |
 | `philo` | day | Solar rhythm |
 | `phiora` | spirit | Breath essence |
 | `phiralea` | blossom | Plant flowering |
@@ -868,6 +876,7 @@
 | `phuliro` | stream | Small waterway |
 | `phuro` | renew | Following natural patterns of renewal |
 | `pisha` | split | How seeds and paths divide |
+| `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
 | `rei` | eighty-one-group | Reflects nature's truly countless phenomena—stars, atoms, drops of ocean, grains of sand. 'Rei' captures the infinite abundance that defines the natural world. |
 | `rihe` | rise | Effortless ascent |
@@ -900,6 +909,7 @@
 | `soriu` | yellow | the color of sun and ripe grain |
 | `suiloe` | dew | Condensed atmospheric moisture |
 | `sulae` | warm | energy from sun and fire |
+| `suliwa` | snake | The flowing legless animal |
 | `sunai` | health | Body wholeness |
 | `sunoe` | regenerate | Restoring vitality |
 | `telo` | farmer | Land cultivation |
@@ -924,10 +934,12 @@
 | `toremoa` | mountain | Major land elevation |
 | `torua` | year | Seasonal completion |
 | `tuko` | sour | Fermentation quality |
+| `tulira` | tail | The creature's trailing end |
 | `tumeki` | root | Underground plant structure |
 | `waero` | sky | Atmospheric expanse |
 | `waeshi` | wild | Untamed state |
 | `wapi` | fly | The motion of birds and wind-borne things |
+| `wapile` | wing | Flight's limb |
 | `welura` | spread | Frames multiplication as organic growth and spreading |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
@@ -943,7 +955,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (204)
+## physical (210)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -986,6 +998,7 @@
 | `kuremi` | grind | Reduction between surfaces |
 | `kuri` | right | Side of the body |
 | `kuroi` | muscle | Movement tissue creating action |
+| `kurona` | horn | Living solidity extended |
 | `lathoe` | tongue | Flexible oral muscle |
 | `lawe` | left | Side of the body |
 | `lemi` | thin | Little thickness |
@@ -1057,12 +1070,14 @@
 | `phelu` | hold | sustained bodily action of grasping and maintaining possession |
 | `pheno` | full | Containing maximum |
 | `phialu` | water | tangible substance that can be directly experienced |
+| `philea` | feather | The lightest made thing |
 | `phoa` | do | performing actions and activities |
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phuwai` | lung | Respiratory organs within the chest |
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
+| `powea` | egg | The round self-contained case |
 | `pukea` | danger | The nearness of possible harm |
 | `puko` | bitter | Sharp taste |
 | `puro` | strength | Power capacity |
@@ -1095,6 +1110,7 @@
 | `sophae` | cotton | Soft covering |
 | `sukima` | fear | The tightening before danger |
 | `sulae` | warm | thermal sensation of heat |
+| `suliwa` | snake | Motion as pure curve |
 | `sunai` | health | Vital condition |
 | `talua` | shoulder | Upper torso joint bearing arms and loads |
 | `tapu` | close | Bringing to a shut, sealed state |
@@ -1124,10 +1140,12 @@
 | `tolae` | leg | Lower limbs for support and locomotion |
 | `towe` | well | Good state |
 | `tuko` | sour | Acidic taste |
+| `tulira` | tail | Anatomy past the body |
 | `tumoa` | heavy | Great weight |
 | `tupi` | jump | Leaving the ground |
 | `wapho` | throw | The arm's arc and letting go |
 | `wapi` | fly | Lift and wingbeat |
+| `wapile` | wing | The bird's instrument |
 | `weilo` | balanced | Equilibrium |
 | `welira` | thrive | Healthy, successful development |
 | `weloni` | body | The whole living frame |
