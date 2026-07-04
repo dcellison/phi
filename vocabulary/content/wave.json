@@ -1,0 +1,25 @@
+{
+  "word": "morilu",
+  "gloss": "wave",
+  "ipa": "/mo̞.ˈri.lu/",
+  "syllables": [
+    "mo",
+    "ri",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Wave / The Sea in Motion",
+  "description": "The wave: the sea's shape when it moves. Third member of the 'mori-' family, after 'moriwhe' (sea) and 'morisa' (salt). A wave is not something the sea has; it is something the sea briefly does.",
+  "sound_symbolism": "The sea-syllables 'mo'-'ri' end in liquid 'lu': the family signature set moving.",
+  "grammatical_notes": "Noun: 'morilu mua kirua lepa.' (The wave falls on the sand.) 'moriwhe morilu phelu.' (The sea holds waves.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "The wave is the teaching about self that requires no translation: briefly distinct, never separate, and the sea loses nothing when it goes.",
+    "art-nouveau-aesthetics": "The curling crest is one of the style's inherited obsessions, an organic curve that draws itself and never twice the same."
+  },
+  "tags": {
+    "nature": "The sea's moving shape",
+    "physical": "Water briefly standing up"
+  }
+}

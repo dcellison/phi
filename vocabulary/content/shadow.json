@@ -1,0 +1,25 @@
+{
+  "word": "shomelu",
+  "gloss": "shadow",
+  "ipa": "/ʃo̞.ˈme̞.lu/",
+  "syllables": [
+    "sho",
+    "me",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Shadow / The Cast Dark",
+  "description": "Shadow: the dark that light casts, not darkness itself ('nuelo'). A shadow needs three things at once: a light, a thing, and a surface. Take any away and it is gone.",
+  "sound_symbolism": "Hushed 'sho' through soft 'me'-'lu': a word with no hard edge, for a dark with no substance.",
+  "grammatical_notes": "Noun: 'mia mua shomelu thalo.' (I walk in the shadow.) With possessor: 'pelori shomelu' (the bird's shadow). Contrast 'nuelo' (dark), which needs no light to exist.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Nothing shows dependent arising more plainly: the shadow exists only while light, object, and ground cooperate, and it was never a thing you could pick up.",
+    "pre-industrial-wisdom": "The day's clock before clocks: shadow-length told the hour, and the north side of a shadow told a traveler which way was which."
+  },
+  "tags": {
+    "nature": "The dark that light casts",
+    "spatial": "Where the light is interrupted"
+  }
+}

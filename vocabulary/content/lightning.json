@@ -1,0 +1,25 @@
+{
+  "word": "pheluka",
+  "gloss": "lightning",
+  "ipa": "/ɸe̞.ˈlu.kä/",
+  "syllables": [
+    "phe",
+    "lu",
+    "ka"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Lightning / Light That Cracks",
+  "description": "Lightning: the storm's sudden light. Built on 'phelo' (light) and finished with the stop 'ka', which Phi spends sparingly; the sky's one hard consonant belongs to its one instantaneous event. Thunder ('horuma') follows it.",
+  "sound_symbolism": "The 'phel-' of light runs into 'ka' and stops dead. The word does what the flash does: brightness, then the crack.",
+  "grammatical_notes": "Noun: 'pheluka lue waero lepa.' (Lightning falls from the sky.) 'kurisha pheluka phelu.' (The storm holds lightning.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "The classical image of transience: here entirely, then gone entirely, with no stage in between. A phenomenon the length of a single mindful breath's beginning.",
+    "pre-industrial-wisdom": "Reading the flash taught weather-sense: where the storm stood, where it was going, and when to bring the animals in."
+  },
+  "tags": {
+    "nature": "The storm's sudden light",
+    "physical": "Brightness with a crack in it"
+  }
+}

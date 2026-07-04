@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*872 words.*
+*881 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -30,6 +30,7 @@
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
 | `henoi` | ENOUGH | /he̞.ˈn̪o̞.i/ | quantifier |
 | `heru` | herb | /ˈhe̞.ru/ | noun |
+| `hesura` | ash | /he̞.ˈsu.rä/ | noun |
 | `hewe` | wipe | /ˈhe̞.we̞/ | verb |
 | `hi` | DIR | /ˈhi/ | particle |
 | `hieru` | narrow | /hi.ˈe̞.ru/ | adjective |
@@ -45,6 +46,7 @@
 | `holia` | festival | /ho̞.ˈli.ä/ | noun |
 | `horae` | radiant | /ho̞.ˈrä.e̞/ | adjective |
 | `horathe` | dawn | /ho̞.ˈrä.θe̞/ | noun |
+| `horuma` | thunder | /ho̞.ˈru.mä/ | noun |
 | `howai` | evening | /ho̞.ˈwä.i/ | noun |
 | `howela` | receive | /ho̞.ˈwe̞.lä/ | verb, noun |
 | `howeli` | wind | /ho̞.ˈwe̞.li/ | noun |
@@ -274,6 +276,7 @@
 | `moreke` | mammal | /mo̞.ˈre̞.ke̞/ | noun |
 | `moreko` | articulate | /mo̞.ˈre̞.ko̞/ | verb |
 | `moreluki` | transform | /mo̞.re̞.ˈlu.ki/ | verb |
+| `morilu` | wave | /mo̞.ˈri.lu/ | noun |
 | `morisa` | salt | /mo̞.ˈri.sä/ | noun |
 | `moriwhe` | sea | /mo̞.ˈri.ʍe̞/ | noun |
 | `moru` | wall | /ˈmo̞.ru/ | noun |
@@ -286,6 +289,7 @@
 | `mueli` | plain (unadorned) | /mu.ˈe̞.li/ | adjective |
 | `mueri` | clay | /mu.ˈe̞.ri/ | noun |
 | `muero` | autumn | /mu.ˈe̞.ro̞/ | noun |
+| `muhena` | dust | /mu.ˈhe̞.n̪ä/ | noun |
 | `muholi` | dig | /mu.ˈho̞.li/ | verb |
 | `muila` | earth | /mu.ˈi.lä/ | noun |
 | `muko` | careless | /ˈmu.ko̞/ | adjective |
@@ -293,6 +297,7 @@
 | `mulu` | low | /ˈmu.lu/ | adjective |
 | `muo` | INTO | /ˈmu.o̞/ | preposition |
 | `mupelo` | vomit | /mu.ˈpe̞.lo̞/ | verb |
+| `muphia` | mud | /mu.ˈɸi.ä/ | noun |
 | `muraki` | harvest | /mu.ˈrä.ki/ | verb, noun |
 | `mureli` | brown | /mu.ˈre̞.li/ | adjective |
 | `mureo` | stable | /mu.ˈre̞.o̞/ | adjective |
@@ -429,6 +434,7 @@
 | `phelora` | beautiful | /ɸe̞.ˈlo̞.rä/ | adjective, verb |
 | `phelu` | hold | /ˈɸe̞.lu/ | verb |
 | `phelui` | word | /ɸe̞.ˈlu.i/ | noun |
+| `pheluka` | lightning | /ɸe̞.ˈlu.kä/ | noun |
 | `phemi` | guest | /ˈɸe̞.mi/ | noun |
 | `phemila` | host | /ɸe̞.ˈmi.lä/ | noun, verb |
 | `phena` | kind | /ˈɸe̞.n̪ä/ | adjective, noun |
@@ -537,6 +543,7 @@
 | `sahu` | forget | /ˈsä.hu/ | verb |
 | `sai` | ouch | /ˈsä.i/ | interjection |
 | `sano` | know | /ˈsä.n̪o̞/ | verb, noun |
+| `saphei` | shallow | /sä.ˈɸe̞.i/ | adjective |
 | `sawa` | wash | /ˈsä.wä/ | verb |
 | `se` | PASS | /ˈse̞/ | particle |
 | `seloi` | insightful | /se̞.ˈlo̞.i/ | adjective |
@@ -597,6 +604,7 @@
 | `sholei` | gather | /ʃo̞.ˈle̞.i/ | verb |
 | `sholo` | QUOT.CLOSE | /ˈʃo̞.lo̞/ | complementizer |
 | `sholu` | complete | /ˈʃo̞.lu/ | adjective |
+| `shomelu` | shadow | /ʃo̞.ˈme̞.lu/ | noun |
 | `shonela` | learn | /ʃo̞.ˈn̪e̞.lä/ | verb, noun |
 | `shonui` | ear | /ʃo̞.ˈn̪u.i/ | noun |
 | `shorai` | commune | /ʃo̞.ˈrä.i/ | noun, verb |
@@ -765,6 +773,7 @@
 | `thuleni` | comfort | /θu.ˈle̞.n̪i/ | verb, noun |
 | `thumai` | finger | /θu.ˈmä.i/ | noun |
 | `thumela` | teach | /θu.ˈme̞.lä/ | verb, noun |
+| `thumiro` | smoke | /θu.ˈmi.ro̞/ | noun |
 | `thunai` | student | /θu.ˈn̪ä.i/ | noun |
 | `thunepa` | sacred place | /θu.ˈn̪e̞.pä/ | noun |
 | `thuni` | intuitive | /ˈθu.n̪i/ | adjective |

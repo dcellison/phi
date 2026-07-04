@@ -770,7 +770,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (188)
+## nature (197)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -778,8 +778,10 @@
 | `hea` | hear | connects to environmental awareness through natural soundscapes |
 | `hemilo` | honey | The bees' concentrated summer |
 | `heru` | herb | Useful plant |
+| `hesura` | ash | The fire's gray remainder |
 | `hinolu` | adapt | Following life's adaptive patterns |
 | `horathe` | dawn | Light emergence |
+| `horuma` | thunder | The storm's voice |
 | `howeli` | wind | Moving atmospheric force |
 | `hupo` | dog | The companion animal |
 | `kaero` | phase | Process stage |
@@ -840,12 +842,15 @@
 | `molira` | hill | Gentle land elevation |
 | `mophi` | wool | Animal fiber |
 | `moreke` | mammal | Warm-blooded nursing creatures |
+| `morilu` | wave | The sea's moving shape |
 | `morisa` | salt | What the sea leaves behind |
 | `moriwhe` | sea | Saltwater body |
 | `mueri` | clay | Earth material |
 | `muero` | autumn | Completion time |
+| `muhena` | dust | Earth riding the air |
 | `muholi` | dig | Opening the soil |
 | `muila` | earth | elemental foundation of terrestrial life |
+| `muphia` | mud | Earth and water met |
 | `muraki` | harvest | Gathering mature crops |
 | `mureli` | brown | the color of soil and bark |
 | `muriwe` | worm | The soil's quiet maker |
@@ -870,6 +875,7 @@
 | `pelowa` | meadow | Open grassland |
 | `pelui` | cold | absence of heat energy |
 | `phelora` | beautiful | celebrates organic forms and flowing natural patterns |
+| `pheluka` | lightning | The storm's sudden light |
 | `pheralu` | rain | Atmospheric water cycle |
 | `phero` | fern | Spore-bearing plant |
 | `phialu` | water | fundamental natural element essential to all ecosystems and life |
@@ -894,6 +900,7 @@
 | `rulo` | red | the color of blood, fire, and ripe fruit |
 | `ruloi` | flourish | Vigorous, abundant growth |
 | `runae` | resin | Tree secretion |
+| `saphei` | shallow | Water near its floor |
 | `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
 | `shaemu` | organic | Life-derived quality |
 | `shalu` | fish | Aquatic life |
@@ -904,6 +911,7 @@
 | `shilu` | blue | the color of sky and water |
 | `shioli` | silver | Precious metal |
 | `shiro` | tree | the great standing plants bridging earth and sky |
+| `shomelu` | shadow | The dark that light casts |
 | `shumu` | moss | Non-vascular plant |
 | `shupi` | plateau | Elevated flat land |
 | `siheloa` | breeze | Gentle air movement |
@@ -937,6 +945,7 @@
 | `thophe` | sow | Planting seeds for growth |
 | `thowia` | born | The universal beginning of living things |
 | `thula` | spring | Water source point |
+| `thumiro` | smoke | The fire's rising breath |
 | `thuroa` | grow | Organic increase and development |
 | `tokemi` | fungus | Decomposers and network beings |
 | `toremoa` | mountain | Major land elevation |
@@ -963,7 +972,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (216)
+## physical (223)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -973,11 +982,13 @@
 | `helu` | smooth | Even surface quality |
 | `hemilo` | honey | Sweetness that keeps |
 | `heno` | satisfy | Need met |
+| `hesura` | ash | Weight almost gone |
 | `hewe` | wipe | Surface made clean |
 | `hieru` | narrow | Constrained width |
 | `hisae` | skin | Body's outer covering and sensing organ |
 | `hiso` | clean | Free from dirt |
 | `hola` | laugh | Vocal release of joy |
+| `horuma` | thunder | Sound felt in the chest |
 | `kaelo` | sweet | Pleasant taste |
 | `kalei` | climb | Grip and pull upward |
 | `kati` | cut | Clean separation by an edge |
@@ -1043,11 +1054,14 @@
 | `molu` | container | Holding space |
 | `mophi` | wool | Warmth material |
 | `morae` | sense | Body receiving information from world |
+| `morilu` | wave | Water briefly standing up |
 | `morisa` | salt | The sharp taste that preserves |
+| `muhena` | dust | The dry fine remainder |
 | `muholi` | dig | Working downward |
 | `muila` | earth | the ground we stand upon |
 | `mulu` | low | groundedness and stability |
 | `mupelo` | vomit | The stomach's refusal |
+| `muphia` | mud | The soft give underfoot |
 | `mureo` | stable | Firmly established |
 | `natu` | pull | Drawing closer |
 | `nekuma` | meat | Weight on the table |
@@ -1081,6 +1095,7 @@
 | `phelo` | light | Low weight |
 | `phelona` | require | bodily requirements for sustenance |
 | `phelu` | hold | sustained bodily action of grasping and maintaining possession |
+| `pheluka` | lightning | Brightness with a crack in it |
 | `pheno` | full | Containing maximum |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
@@ -1146,6 +1161,7 @@
 | `tholau` | bone | Hard internal framework of the body |
 | `thorima` | taste | Gustatory perception |
 | `thumai` | finger | Fine digits for manipulation and touch |
+| `thumiro` | smoke | Gray drift that reports |
 | `thuroi` | resilient | Able to recover |
 | `tipika` | fingernail | The finger's hard tip |
 | `tiso` | sharp | Fine edge |
@@ -1225,7 +1241,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breath | Central to meditation practice |
 
-## spatial (120)
+## spatial (122)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1298,12 +1314,14 @@
 | `roke` | move | Movement through space |
 | `ronua` | south | Cardinal direction opposite the axis point |
 | `ruela` | path | routes through physical space |
+| `saphei` | shallow | Depth you can stand in |
 | `selu` | flow | traces movement through space along natural trajectories |
 | `senao` | same | the relationship of equivalence |
 | `sepho` | send | Caused travel toward a recipient |
 | `shalo` | run | rapid movement through space, covering distance swiftly |
 | `sharoi` | exceeds | Frames relative position in numerical space—one quantity extends beyond another |
 | `shoeka` | route | Course of travel |
+| `shomelu` | shadow | Where the light is interrupted |
 | `shorai` | commune | Collective dwelling |
 | `shua` | come | fundamental verb of approach and arrival, closing distance |
 | `shuna` | edge | Outer limit |

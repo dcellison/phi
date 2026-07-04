@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (176)
+## adjective (177)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -112,6 +112,7 @@
 | `ruesha` | compassionate | Compassionate |
 | `ruka` | complex | Complex |
 | `rulo` | red | Red |
+| `saphei` | shallow | Shallow |
 | `seloi` | insightful | Insightful |
 | `selua` | aware | Aware |
 | `senao` | same | Same |
@@ -272,7 +273,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (438)
+## noun (446)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -285,10 +286,12 @@
 | `helui` | change | Change |
 | `hemilo` | honey | Honey |
 | `heru` | herb | Herb |
+| `hesura` | ash | Ash |
 | `hisae` | skin | Skin |
 | `hola` | laugh | Laugh |
 | `holia` | festival | Festival |
 | `horathe` | dawn | Dawn |
+| `horuma` | thunder | Thunder |
 | `howai` | evening | Evening |
 | `howela` | receive | Receive |
 | `howeli` | wind | Wind |
@@ -413,6 +416,7 @@
 | `molu` | container | Container |
 | `mophi` | wool | Wool |
 | `moreke` | mammal | Mammal |
+| `morilu` | wave | Wave |
 | `morisa` | salt | Salt |
 | `moriwhe` | sea | Sea |
 | `moru` | wall | Wall |
@@ -420,7 +424,9 @@
 | `motha` | foundation | Foundation |
 | `mueri` | clay | Clay |
 | `muero` | autumn | Autumn |
+| `muhena` | dust | Dust |
 | `muila` | earth | Earth |
+| `muphia` | mud | Mud |
 | `muraki` | harvest | Harvest |
 | `muriwe` | worm | Worm |
 | `muwi` | interior | Interior |
@@ -488,6 +494,7 @@
 | `pheloma` | serve | Serve |
 | `phelona` | require | Require |
 | `phelui` | word | Word |
+| `pheluka` | lightning | Lightning |
 | `phemi` | guest | Guest |
 | `phemila` | host | Host |
 | `phena` | kind | Kind |
@@ -569,6 +576,7 @@
 | `shiro` | tree | Tree |
 | `shiroka` | repair | Repair |
 | `shoeka` | route | Route |
+| `shomelu` | shadow | Shadow |
 | `shonela` | learn | Learn |
 | `shonui` | ear | Ear |
 | `shorai` | commune | Commune |
@@ -661,6 +669,7 @@
 | `thuleni` | comfort | Comfort |
 | `thumai` | finger | Finger |
 | `thumela` | teach | Teach |
+| `thumiro` | smoke | Smoke |
 | `thunai` | student | Student |
 | `thunepa` | sacred place | Sacred Place |
 | `thuroa` | grow | Grow |

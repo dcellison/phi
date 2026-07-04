@@ -1,0 +1,25 @@
+{
+  "word": "muphia",
+  "gloss": "mud",
+  "ipa": "/mu.ˈɸi.ä/",
+  "syllables": [
+    "mu",
+    "phi",
+    "a"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Mud / Earth-Water",
+  "description": "Mud: earth and water met. A transparent build, 'mu' from 'muila' (earth) plus 'phi' from 'phialu' (water), so the word is its own recipe. Covers the path after rain, the riverbank, and the potter's and builder's wet clay-earth.",
+  "sound_symbolism": "'mu' is the ground, 'phi' the water in it, and the open 'a' the soft give underfoot. Two family signatures folded into one word.",
+  "grammatical_notes": "Noun: 'lopia mua muphia thalo.' (The child walks in the mud.) 'muphia wirua nai.' (Mud is wet.)",
+  "pillars": {
+    "solarpunk-values": "Earth building is having its return: low-carbon walls made of the site itself. The oldest material is also one of the futures.",
+    "pre-industrial-wisdom": "Mud brick, daubed walls, sealed roofs, potter's slip: for most of history, wet earth was the building material that was always in stock."
+  },
+  "tags": {
+    "nature": "Earth and water met",
+    "physical": "The soft give underfoot"
+  }
+}
