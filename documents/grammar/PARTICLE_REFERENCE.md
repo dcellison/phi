@@ -205,12 +205,12 @@ PL person REP help
 (People helped [I was told].)
 ```
 
-#### `ho` - Assumptive Evidence (ASM)
+#### `ho` - Assumptive Evidence (ASSUM)
 **Function**: Announces that the speaker is assuming or supposing rather than knowing
 **Example**:
 ```
 thia ho shelomui
-2SG ASM understand
+2SG ASSUM understand
 (You understand [I assume].)
 ```
 
@@ -360,12 +360,12 @@ RESTR 3SG understand
 
 ### Intensity
 
-#### `ru` - Intensifier (INTNS)
+#### `ru` - Intensifier (INTS)
 **Function**: Announces intensification of the following word ("very", "truly")
 **Example**:
 ```
 ru welao
-INTNS good
+INTS good
 (very good)
 ```
 

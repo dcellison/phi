@@ -39,7 +39,7 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 
 ---
 
-### `shola` / `sholo` - Quotative (QUOT / QUOT.CLOSE)
+### `shola` / `sholo` - Quotative (QUOT.COMP / QUOT.COMP.CLOSE)
 
 **Function**: Introduces and closes direct speech, preserving the exact words spoken
 **IPA**: /ʃo.la/ and /ʃo.lo/
@@ -51,11 +51,11 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 **Examples**:
 ```
 shia shola sorae phelora nai sholo haolu
-3SG QUOT sun beautiful be QUOT.CLOSE say
+3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
 (She says, "The sun is beautiful.")
 
 mia shola mia so wepu sholo haolu
-1SG QUOT 1SG FUT leave QUOT.CLOSE say
+1SG QUOT.COMP 1SG FUT leave QUOT.COMP.CLOSE say
 (I said: "I will leave.")
 ```
 
@@ -63,7 +63,7 @@ mia shola mia so wepu sholo haolu
 
 ---
 
-### `mena` / `meno` - Declarative Complementizer (DECL / DECL.CLOSE)
+### `mena` / `meno` - Declarative Complementizer (DECL.COMP / DECL.COMP.CLOSE)
 
 **Function**: Introduces and closes embedded declarative clauses (reports content, not exact words)
 **IPA**: /me.na/ and /me.no/
@@ -75,22 +75,22 @@ mia shola mia so wepu sholo haolu
 **Examples**:
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST leave DECL.COMP.CLOSE understand
 (I understand that ko left.)
 
 shia mena thia to wepu meno to haolu
-3SG DECL 2SG PST leave DECL.CLOSE PST say
+3SG DECL.COMP 2SG PST leave DECL.COMP.CLOSE PST say
 (She said that you left.)
 
 mia mena sorae sulae nai meno phaelo
-1SG DECL sun warm be DECL.CLOSE feel
+1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel
 (I feel that the sun is warm.)
 ```
 
 **Nesting**: `mena`/`meno` clauses can nest. Each `mena` must have its own `meno`:
 ```
 mia mena thia mena shia to wepu meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG PST leave DECL.CLOSE feel DECL.CLOSE understand
+1SG DECL.COMP 2SG DECL.COMP 3SG PST leave DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that ko left.)
 ```
 
@@ -171,10 +171,10 @@ VOC NAME HON.INTIM Hino, 1SG 2SG love
 | Word | Gloss | Function | Closer |
 |------|-------|----------|--------|
 | `rena` | REL | Introduces relative clauses | — (pre-nominal position bounds it) |
-| `shola` | QUOT | Opens direct quotation (exact words) | `sholo` (required) |
-| `sholo` | QUOT.CLOSE | Closes direct quotation | — |
-| `mena` | DECL | Opens embedded statements (reported content) | `meno` (required) |
-| `meno` | DECL.CLOSE | Closes embedded statements | — |
+| `shola` | QUOT.COMP | Opens direct quotation (exact words) | `sholo` (required) |
+| `sholo` | QUOT.COMP.CLOSE | Closes direct quotation | — |
+| `mena` | DECL.COMP | Opens embedded statements (reported content) | `meno` (required) |
+| `meno` | DECL.COMP.CLOSE | Closes embedded statements | — |
 | `wela` | INT.COMP | Opens embedded yes/no questions | `welo` (required) |
 | `welo` | INT.COMP.CLOSE | Closes embedded yes/no questions | — |
 | `kona` | VOC | Marks direct address | — (extra-clausal) |

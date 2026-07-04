@@ -47,7 +47,7 @@ This exchange demonstrates how evidentiality facilitates rather than prevents di
 | hi | DIR | Direct evidence | You witnessed it yourself |
 | ke | INFER | Inference | You reasoned from evidence |
 | ti | REP | Reportative | Someone told you |
-| ho | ASM | Assumptive | You're assuming or guessing |
+| ho | ASSUM | Assumptive | You're assuming or guessing |
 
 ## The choice to mark or not
 

@@ -18,7 +18,7 @@ mia shea phaelo. thelao mia thesua nai
 
 ```
 mia shea phaelo. kewai mia thesua ma nai
-1SG peace feel. CONT 1SG mindful NEG be
+1SG peace feel. CONTR 1SG mindful NEG be
 (i feel peace. however i am not mindful.)
 ```
 

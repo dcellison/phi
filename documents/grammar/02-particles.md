@@ -80,7 +80,7 @@ Evidential particles mark the source of the speaker's knowledge. They are option
 - `hi` (DIR): `mia hi nila` (I see [I directly witness this])
 - `ke` (INFER): `shia to ke wepu` (She left [I infer from evidence])
 - `ti` (REP): `lo miona ti naphe` (People helped [I was told])
-- `ho` (ASM): `thia ho shelomui` (You understand [I assume])
+- `ho` (ASSUM): `thia ho shelomui` (You understand [I assume])
 
 Note: The reportative `ti` marks knowledge source ("someone told me"), while the quotative complementizer `shola` marks direct quotation ("ko said '...'").
 

@@ -56,7 +56,7 @@ mia [thia to shemui] shelomui
 The quotative complementizer `shola` announces that what follows is direct speech, maintaining the principle of announcing before delivering:
 ```
 shia shola sorae phelora nai sholo haolu
-3SG QUOT sun beautiful be QUOT.CLOSE say
+3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
 (She says, "The sun is beautiful.")
 ```
 

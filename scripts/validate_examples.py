@@ -48,6 +48,7 @@ import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
+MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "MINIMAL_PAIRS_BASELINE.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 
 DOC_ROOTS = ["documents", "manual", "pamphlets", "CLAUDE.md"]
@@ -321,6 +322,40 @@ def check_lexicon(entries):
         gloss = data.get("gloss", "")
         pos = ",".join(data.get("pos", []))
         by_gloss.setdefault(gloss.lower(), []).append((word, pos, rel))
+
+    # Minimal-pair ratchet: no two content words may sit at edit
+    # distance 1 unless the pair is grandfathered in the committed
+    # baseline (documents/MINIMAL_PAIRS_BASELINE.txt). The baseline
+    # may only shrink: new pairs are errors, resolved pairs become
+    # stale lines to prune.
+    baseline = set()
+    if MINIMAL_PAIRS_FILE.exists():
+        for line in MINIMAL_PAIRS_FILE.read_text().splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                baseline.add(tuple(line.split()))
+    content_words = sorted(
+        d.get("word", "") for rel, d in entries
+        if len(rel.parts) > 1 and rel.parts[1] == "content"
+    )
+    live_pairs = set()
+    for i, a in enumerate(content_words):
+        for b in content_words[i + 1:]:
+            if abs(len(a) - len(b)) > 1:
+                continue
+            if edit_distance_leq1(a, b):
+                live_pairs.add((a, b))
+    for pair in sorted(live_pairs - baseline):
+        errors.append(
+            f"minimal pair: content words '{pair[0]}' and '{pair[1]}' are "
+            f"at edit distance 1 and not in the grandfathered baseline; "
+            f"rename one (see documents/MINIMAL_PAIRS_BASELINE.txt)"
+        )
+    for pair in sorted(baseline - live_pairs):
+        warnings.append(
+            f"stale baseline line: '{pair[0]} {pair[1]}' is no longer a "
+            f"minimal pair; prune it from MINIMAL_PAIRS_BASELINE.txt"
+        )
 
     # Phi examples quoted inside JSON prose fields must use real words,
     # and sound-symbolism text may only claim sounds the word contains.

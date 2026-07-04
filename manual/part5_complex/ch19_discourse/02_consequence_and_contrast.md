@@ -32,19 +32,19 @@ shia ma to haolu. thelao lo miona ma to shelomui
 
 ```
 shiro phelora nai. kewai shelira thiku nai
-tree beautiful be. CONT forest small be
+tree beautiful be. CONTR forest small be
 (the tree is beautiful. however the forest is small.)
 ```
 
 ```
 mia to shonela. kewai mia shelomui ma nai
-1SG PST learn. CONT 1SG understand NEG be
+1SG PST learn. CONTR 1SG understand NEG be
 (i learned. however i do not understand.)
 ```
 
 ```
 lo miona haolu. kewai shia sheluo
-PL person speak. CONT 3SG listen
+PL person speak. CONTR 3SG listen
 (the people speak. however they listen.)
 ```
 
@@ -56,7 +56,7 @@ Where `thona` (but) contrasts elements within a single sentence, `kewai` contras
 
 ```
 sorae sulae nai. thelao lo peloru thuroa. kewai pheralu ma nai
-sun warm be. CONS PL flower grow. CONT rain NEG be
+sun warm be. CONS PL flower grow. CONTR rain NEG be
 (the sun is warm. therefore the flowers grow. however there is no rain.)
 ```
 
