@@ -1,0 +1,25 @@
+{
+  "word": "wethalu",
+  "gloss": "garment",
+  "ipa": "/we̞.ˈθä.lu/",
+  "syllables": [
+    "we",
+    "tha",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Garment / Clothing / Worn Cloth",
+  "description": "Clothing in general: any cloth shaped and worn on the body — cloak, robe, shirt, wrap. Built visibly on 'wetha' (cloth): a garment is cloth that has entered relationship with a wearer. The general word for the clothing domain; specific garments can be composed from it ('sulae wethalu', a warm garment).",
+  "sound_symbolism": "Begins as 'wetha' (cloth) begins — the soft weave of 'we' and the breathed 'tha' — then closes with 'lu', the held syllable: cloth taken up and kept close to the body. The derivation teaches itself: cloth, held, becomes clothing.",
+  "grammatical_notes": "Noun: 'mia wethalu phelu' (I wear a garment — wearing as holding, consistent with phelu's hold/have/keep range). 'shia wethalu to leiro' (they took off the garment). The fable's 'sulae wetha' (warm cloth) remains valid as poetic description; 'wethalu' is the everyday word.",
+  "pillars": {
+    "pre-industrial-wisdom": "Cloth spun, woven, and sewn by known hands — clothing as relationship with makers and materials, not disposable product. The word keeps the cloth visible inside the garment.",
+    "art-nouveau-aesthetics": "Clothing as the body's flowing ornament — drape and fold as living line."
+  },
+  "tags": {
+    "physical": "Worn covering for the body",
+    "creation": "Cloth shaped by craft into wearable form"
+  }
+}

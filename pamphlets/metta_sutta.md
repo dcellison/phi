@@ -308,7 +308,7 @@ transmutation handled each:
 | deceive / lie | `peshu` (lie) — coined in Word Batch 2 during this project | Resolved |
 | despise | `thiku nila` (see as small) | Canonized in `documents/COMPOUNDS.md` |
 | safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | Resolved: `shurano` (safe) and `pukea` (danger) coined in the Life-Arc Batch |
-| lie down (posture) | `therilu` (rest) | Acceptable; posture verb is low priority |
+| lie down (posture) | `therilu` (rest) | Resolved: `ruemi` (lie down) coined in the Daily-Life Batch; the sutta's `therilu` stands |
 | fixed view / opinion | `remo kire` (thought-shape) | Canonized in `documents/COMPOUNDS.md` |
 | sublime abiding | `shea menui` (dwelling of peace) | Transmutation, intentional |
 | rebirth | omitted; text closes on the path of peace | Doctrinal adaptation, recorded here deliberately |

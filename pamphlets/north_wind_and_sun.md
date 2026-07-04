@@ -192,9 +192,9 @@ moli puro sharoi.
 |---|---|---|
 | dispute / quarrel | `shareo` (discuss) — the language cooled the scene | None; the shift is the philosophy working |
 | traveler | `[rena laniru thalo] miona` (one who walks a journey) | None; relatives keep outperforming category nouns |
-| cloak / garment | `sulae wetha` (warm cloth) | A general "garment/clothing" word is a real everyday gap (clothes domain is empty) |
+| cloak / garment | `sulae wetha` (warm cloth) | Resolved: `wethalu` (garment) coined in the Daily-Life Batch; the fable's phrase stands as description |
 | wear / wrap in | `phelu` (hold) | Acceptable and resonant; revisit if clothing vocabulary grows |
-| blow (of wind) | `shua` (come) + strength adverbials | Workable; a dedicated wind/breath verb would serve weather talk |
+| blow (of wind) | `shua` (come) + strength adverbials | Resolved: `whesu` (blow) coined in the Daily-Life Batch; the fable's phrasing stands as narrative style |
 | the more X, the more Y | paired `mo` sentences | Deliberate: correlatives were removed by design (Feb 2026); the parallel form is canon |
 | give up | `te` (cessative) + `therilu` (rest) | None; Phi's version is kinder and loses nothing |
 | shine | `phelo loa` (give light) | Candidate for the compound registry |

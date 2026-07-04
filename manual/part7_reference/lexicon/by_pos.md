@@ -281,7 +281,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (411)
+## noun (413)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -458,6 +458,7 @@
 | `nuri` | cycle | Cycle |
 | `nuroa` | kitchen | Kitchen |
 | `nusho` | depth | Depth |
+| `nuwera` | bed | Bed |
 | `nuwoe` | stage | Stage |
 | `palo` | touch | Touch |
 | `paloi` | foot | Foot |
@@ -678,6 +679,7 @@
 | `weoli` | reed | Reed |
 | `weru` | poet | Poet |
 | `wetha` | cloth | Cloth |
+| `wethalu` | garment | Garment |
 | `wheiluro` | mist | Mist |
 | `whelani` | welcome | Welcome |
 | `whelina` | grass | Grass |
@@ -803,7 +805,7 @@
 | `theula` | ALL | All |
 | `wheli` | ANY | Any |
 
-## verb (248)
+## verb (250)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -944,6 +946,7 @@
 | `roke` | move | Move |
 | `romishe` | contemplate | Contemplate |
 | `rotiku` | dance | Dance |
+| `ruemi` | lie down | Lie Down |
 | `ruloi` | flourish | Flourish |
 | `sano` | know | Know |
 | `selomi` | weave | Weave |
@@ -1047,6 +1050,7 @@
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |
 | `whenola` | wander | Wander |
+| `whesu` | blow | Blow |
 | `whinu` | smell | Smell |
 | `whoa` | whole | Whole |
 | `whola` | invite | Invite |

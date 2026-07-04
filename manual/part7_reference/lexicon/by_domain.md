@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (19)
+## activity (20)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -22,6 +22,7 @@
 | `riola` | labor | fundamental human activity of laboring |
 | `roke` | move | fundamental human activity of moveing |
 | `rotiku` | dance | fundamental human activity of danceing |
+| `ruemi` | lie down | Lowering the body to rest |
 | `selomi` | weave | fundamental human activity of weaveing |
 | `shalo` | run | fundamental human activity of runing |
 | `shua` | come | basic human action of moving toward a reference point |
@@ -235,7 +236,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (174)
+## community (175)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -307,6 +308,7 @@
 | `numike` | negotiate | Resolving differences through communication |
 | `nunoa` | forager | Gathering role |
 | `nuroa` | kitchen | Nourishment place |
+| `nuwera` | bed | The rest a household provides its members |
 | `palu` | plate | Hospitality |
 | `panoru` | support | Providing foundation for others |
 | `pawela` | participate | participation is inherently social and collective |
@@ -414,7 +416,7 @@
 | `womu` | home | the shelter of family and intimacy |
 | `woru` | keeper | Guardian role |
 
-## creation (114)
+## creation (115)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -527,6 +529,7 @@
 | `wenu` | tonic | Strengthening drink |
 | `weoli` | reed | Weaving material |
 | `wetha` | cloth | Textile |
+| `wethalu` | garment | Cloth shaped by craft into wearable form |
 | `whea` | make | bringing new forms into existence |
 | `whori` | mend | Restoring broken things to wholeness |
 | `wile` | play | Exploring without stakes |
@@ -707,7 +710,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (165)
+## nature (166)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -869,6 +872,7 @@
 | `weoli` | reed | Wetland plant |
 | `wheiluro` | mist | Suspended water droplets |
 | `whelina` | grass | Ground-covering plant |
+| `whesu` | blow | The motion of wind and air |
 | `whilo` | white | the color of snow and cloud |
 | `wirae` | spring (season) | Growth beginning |
 | `wiru` | basket | Natural materials |
@@ -877,7 +881,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (159)
+## physical (163)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -953,6 +957,7 @@
 | `nulae` | sleep | fundamentally a bodily process of physical restoration and repair |
 | `nuola` | eat | the bodily act of taking nourishment |
 | `nuora` | food | what sustains bodily life |
+| `nuwera` | bed | The household place of sleep |
 | `nuwi` | clear | Without obstruction |
 | `palo` | touch | Tactile contact and sensation |
 | `paloi` | foot | the body member contacting earth |
@@ -983,6 +988,7 @@
 | `rokai` | back | Posterior torso surface and spine region |
 | `roke` | move | Bodily change of position |
 | `rotiku` | dance | Rhythmic body movement |
+| `ruemi` | lie down | The horizontal resting posture |
 | `seroli` | mature | Ripened state |
 | `shalo` | run | intense bodily exertion and cardiovascular activity |
 | `shalu` | fish | Water-dwelling creatures |
@@ -1028,10 +1034,12 @@
 | `wenu` | tonic | Vitality |
 | `wesha` | lazy | Avoiding effort |
 | `wetha` | cloth | Covering |
+| `wethalu` | garment | Worn covering for the body |
 | `whalo` | large | spatial extent and size |
 | `whano` | stand | fundamental upright bodily posture requiring balance and strength |
 | `whea` | make | transforming materials through action |
 | `whelina` | grass | Low-growing vegetation |
+| `whesu` | blow | Moving air with breath or weather |
 | `whila` | hair | Fine body covering that grows and flows |
 | `whinu` | smell | Olfactory perception |
 | `whoa` | whole | bodily and tangible completeness |

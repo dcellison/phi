@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*801 words.*
+*805 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -345,6 +345,7 @@
 | `nuri` | cycle | /ˈn̪u.ri/ | noun |
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
+| `nuwera` | bed | /n̪u.ˈwe̞.rä/ | noun |
 | `nuwi` | clear | /ˈn̪u.wi/ | adjective, verb |
 | `nuwoe` | stage | /n̪u.ˈwo̞.e̞/ | noun |
 | `pa` | INCH | /ˈpä/ | particle |
@@ -480,6 +481,7 @@
 | `rotiku` | dance | /ro̞.ˈt̪i.ku/ | verb, noun |
 | `ru` | INTNS | /ˈru/ | particle |
 | `ruela` | path | /ru.ˈe̞.lä/ | noun |
+| `ruemi` | lie down | /ru.ˈe̞.mi/ | verb |
 | `ruesha` | compassionate | /ru.ˈe̞.ʃä/ | adjective |
 | `ruka` | complex | /ˈru.kä/ | adjective |
 | `rulo` | red | /ˈru.lo̞/ | adjective |
@@ -768,6 +770,7 @@
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
+| `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
@@ -779,6 +782,7 @@
 | `whemura` | dream | /ʍe̞.ˈmu.rä/ | verb, noun |
 | `whenola` | wander | /ʍe̞.ˈn̪o̞.lä/ | verb |
 | `wheo` | elder | /ˈʍe̞.o̞/ | noun, adjective |
+| `whesu` | blow | /ˈʍe̞.su/ | verb |
 | `whila` | hair | /ˈʍi.lä/ | noun |
 | `whilo` | white | /ˈʍi.lo̞/ | adjective |
 | `whinu` | smell | /ˈʍi.n̪u/ | verb, noun |
