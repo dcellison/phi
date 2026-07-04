@@ -1,0 +1,25 @@
+{
+  "word": "kati",
+  "gloss": "cut",
+  "ipa": "/ˈkä.t̪i/",
+  "syllables": [
+    "ka",
+    "ti"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Cut / Divide with an Edge / Sever Cleanly",
+  "description": "To cut: bread with a knife, cloth for a garment, a stem from a plant. The clean division of one thing into parts by an edge. A craft word — its company is 'kiru' (chisel), 'tiso' (sharp), 'pina' (sew), and 'whori' (mend), the tools and repairs of making.",
+  "sound_symbolism": "The velar 'k' enters cleanly, the dental 't̪' is the edge itself meeting the material, and the fine 'i' is the thin line left behind. A cut in miniature.",
+  "grammatical_notes": "Transitive: 'mia wetha kati.' (I cut the cloth.) With a tool via the instrumental: 'mia roe kiru wolea kati.' (I cut the wood with a chisel.) Craft and kitchen contexts; Phi has no vocabulary for cutting as violence.",
+  "pillars": {
+    "art-nouveau-aesthetics": "The cut line is the maker's drawing — where material meets intention, the curve is committed.",
+    "pre-industrial-wisdom": "Every craft begins with a clean cut: the cloth, the loaf, the plank measured twice. Cutting well is the first hand-skill."
+  },
+  "tags": {
+    "activity": "The craft act of dividing material",
+    "creation": "The first act of most making",
+    "physical": "Clean separation by an edge"
+  }
+}

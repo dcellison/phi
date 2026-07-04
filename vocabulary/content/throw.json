@@ -1,0 +1,25 @@
+{
+  "word": "wapho",
+  "gloss": "throw",
+  "ipa": "/ˈwä.ɸo̞/",
+  "syllables": [
+    "wa",
+    "pho"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Throw / Send Through the Air / Release into Flight",
+  "description": "To throw: a stone into the pond, seed across the furrow, the rope to the boat. Sending a thing through the air by release. With 'pilu' (take) and 'loa' (give) it completes the hand's grammar; the sower and the child at the pond own this word, not the combatant.",
+  "sound_symbolism": "'wa' swings outward and 'pho' is the breath-burst of release — the word is an arm's arc ending in letting go.",
+  "grammatical_notes": "Transitive with target marked: 'lopia muo melothe kerou wapho.' (The child throws a stone into the pond.) 'mia wei thia suro wapho.' (I throw the rope to you.) Sowing: 'lo mia thinoe wapho.' (We throw seed.)",
+  "pillars": {
+    "peace-linguistics-practices": "The word's examples keep the arc innocent: stones to ponds, ropes to boats, seed to soil. What a language shows thrown is what its speakers first imagine.",
+    "pre-industrial-wisdom": "Broadcast sowing is throwing done with judgment — the oldest agricultural gesture, seed arcing from an open hand."
+  },
+  "tags": {
+    "activity": "Release into flight",
+    "physical": "The arm's arc and letting go",
+    "spatial": "Sending across a gap"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "word": "pesa",
+  "gloss": "push",
+  "ipa": "/ˈpe̞.sä/",
+  "syllables": [
+    "pe",
+    "sa"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Push / Press Away / Move by Force from the Body",
+  "description": "To push: the boat from the shore, the cart up the lane, the door that sticks. Force directed away from oneself. The exact opposite of 'natu' (pull) — the pair share no sounds, so direction of force is always unmistakable.",
+  "sound_symbolism": "The 'p' bursts outward from closed lips — force leaving the body — and 'sa' carries it away in a hiss of motion. Effort, outbound.",
+  "grammatical_notes": "Transitive: 'mia ponu pesa.' (I push the door.) 'lo mia lopha pesa.' (We push the vessel.) With effort marked: 'shia ru kema pesa.' (They push with great strength.) Opposite: 'natu' (pull) — the pair share no sounds.",
+  "pillars": {
+    "solarpunk-values": "Human-scale force — the pushed cart, the pushed plough — is the renewable engine; the word dignifies muscle-work as technology.",
+    "pre-industrial-wisdom": "The plough, the cart, the mill-arm: most old work was pushing something patient through something resistant."
+  },
+  "tags": {
+    "activity": "Outbound force from the body",
+    "physical": "Pressing away",
+    "spatial": "Motion imparted outward"
+  }
+}

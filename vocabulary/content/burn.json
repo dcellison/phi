@@ -1,0 +1,25 @@
+{
+  "word": "thape",
+  "gloss": "burn",
+  "ipa": "/ˈθä.pe̞/",
+  "syllables": [
+    "tha",
+    "pe"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Burn / Be Alight / Consume with Fire",
+  "description": "To burn: the candle through the evening, the hearth through winter, the field-cutting stubble in spring. Fire doing its work — warmth, light, and transformation. Companion of 'thero' (fire, the thing) and 'philu' (candle); Phi's burning is the hearth's, not the weapon's.",
+  "sound_symbolism": "The breathed 'tha' is flame itself — a fricative flicker — and 'pe' is the touch of heat arriving. Gentle sounds for the fire a household keeps, deliberately unsuited to shouting.",
+  "grammatical_notes": "Intransitive: 'philu thape.' (The candle burns.) 'moeli sui shero thape.' (The hearth burns through the night.) Transitive for deliberate burning: 'lo mia serao lirowa thape.' (We burn the old leaves.)",
+  "pillars": {
+    "solarpunk-values": "The hearth-scale flame — renewable, local, tended — is the fire this word keeps; the language gives arson no comfortable home.",
+    "pre-industrial-wisdom": "Fire kept was civilization: cooking, warmth, light, the cleared field. Burning was a craft with seasons and rules long before it was a hazard."
+  },
+  "tags": {
+    "activity": "The keeping of flame",
+    "nature": "Fire's action in the world",
+    "physical": "Heat and light released"
+  }
+}
