@@ -34,8 +34,6 @@ A car becomes "moving space for people." A computer becomes "thinking machine." 
 
 These projects, Esperanto, Lojban, Toki Pona, and others, are laboratories for the mind. Their individual goals differ, but together they prove something: we're not prisoners of the linguistic architecture we inherit. The patterns of thought handed down by our ancestors are not the only ones possible. We can design new tools for thinking and choose the values we build them on.
 
-Phi inherits from this whole tradition. It learns from the idealists, logicians, and minimalists who came before.
+Phi inherits from this whole tradition. But Phi has its own purpose. It doesn't aim to be a universal second language; it wants to enrich, not replace. It doesn't pursue machine-like logical precision; it cares about warmth and human connection. And while it values simplicity, it doesn't go as minimal as Toki Pona; it wants vocabulary for discussing inner life and how to build a better world.
 
-But Phi has its own purpose. It doesn't aim to be a universal second language; it wants to enrich, not replace. It doesn't pursue machine-like logical precision; it cares about warmth and human connection. And while it values simplicity, it doesn't go as minimal as Toki Pona; it wants vocabulary for discussing inner life and how to build a better world.
-
-Phi is an experiment: can a language designed around harmony, sustainability, and compassion help its speakers embody those values? It's a tool for a specific kind of work, building mindful connection with ourselves and with the world.
+Phi is the next experiment in the line: where Esperanto asked whether a language could carry peace between nations, and Toki Pona asked how little a language needs, Phi asks whether a language can be a mindfulness practice — whether the values can live in the grammar itself. The rest of this book is the experiment's apparatus. You are its next trial.

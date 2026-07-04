@@ -8,6 +8,8 @@ In Phi, the verb comes last. This is not arbitrary. Consider what this means: be
 
 English lets you fire first and aim second: "Kill him!" In Phi, you must name your target, consider the action, then finally act. The structure itself creates a pause for reflection.
 
+This is your first meeting with the one rule that organizes everything in Phi: **whatever modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Every particle before the word it marks. The language announces, then delivers — and once you can feel that pattern in a three-word sentence, you already hold the key to all the grammar ahead.
+
 **Mia** — I  
 The first-person pronoun. *Mee-ah.* The *m* hums inside your head, the most internal consonant. Then *i* sharpens into self-awareness. Finally *a* opens outward, acknowledging that even as you say "I," you exist in relation to everything that isn't you.
 
@@ -15,7 +17,7 @@ The first-person pronoun. *Mee-ah.* The *m* hums inside your head, the most inte
 *Thee-ah.* The *th* requires careful placement of your tongue, neither fully in nor out. This deliberate articulation mirrors the care required in addressing another person. Every "you" in Phi becomes a small act of attention.
 
 **Lothea** — love  
-*Lo-thay-ah.* The liquid *l* reaches toward another. The intimate breath of *th* creates tender connection. The final *a* opens completely, love given without reservation.
+*Lo-theh-ah.* The liquid *l* reaches toward another. The intimate breath of *th* creates tender connection. The final *a* opens completely, love given without reservation.
 
 Put them together and you have a complete thought: *Mia thia lothea.* I, you, love. I love you.
 
@@ -23,7 +25,7 @@ Now try the reverse:
 
 **Thia mia lothea.** — You love me.
 
-Same three words. Different order. Different meaning. In Phi, position tells you who does what. No need for complicated conjugations or case endings. Just clear, logical arrangement.
+Same three words. Different order. Different meaning. In Phi, position tells you who does what — no conjugations, no case endings; the arrangement is the grammar.
 
 ## A question
 

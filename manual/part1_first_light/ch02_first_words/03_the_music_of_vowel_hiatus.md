@@ -1,40 +1,32 @@
 # The music of vowel hiatus
 
-Listen to how these words end: *lothea*, *shea*, *mia*, *thia*, *sorae*.
+Listen to these words: *lothea*, *shea*, *mia*, *thia*, *sorae*. Every one contains two vowels standing side by side — and what Phi does at that meeting point is the single most important fact about how it sounds.
 
-Every one ends in a vowel. And when vowels meet between syllables or words, they don't crash into consonants. They glide.
+Most languages, when two vowels meet, blend them. English turns *a+i* into the glide of "eye"; Spanish fuses *ue* into a single flowing syllable. Phi never does. When vowels meet in Phi, **each one keeps its own syllable**: a full beat for the first, a small clean break, a full beat for the second. This is *vowel hiatus* — vowels in sequence, never in fusion.
 
-This is called *vowel hiatus*: the meeting of vowels without collision. In many languages, adjacent vowels are avoided or fused together. Phi embraces them.
+Say *mia* slowly: *mee-ah*. Two beats, not one. Now *lothea*: *lo-theh-ah* — three beats, with the border between *eh* and *ah* kept crisp, like two notes played separately rather than slurred. And *sorae*: *so-rah-eh*. The word ends on its own quiet third step.
 
-Say *lothea* slowly: *lo-the-a*. Three syllables, but the *e* of *the* flows directly into the final *a* without any barrier between them. The word breathes.
+Stepping stones, not a slide. That is the rule, and it has no exceptions anywhere in the language.
 
-Now say *mia sorae*: *mee-ah sor-ah-ay*. The *a* at the end of *mia* meets the *s* of *sorae*, and within *sorae* itself, the *a* meets *e* in open sequence. The phrase undulates like a slow wave.
+## What the rule does
 
-This creates the musical quality you hear in Phi. The language rises and falls, opens and opens again. It cannot sound harsh because the sounds themselves have no sharp edges.
+First, it sets Phi's speed limit. Every vowel takes a beat, so a sentence simply cannot be rushed — *mia thia lothea* is seven beats no matter how urgent your mood. The pause is built into the phonology, which is exactly where a contemplative language wants it.
 
-## Why this matters
+Second, it makes the music. Phi's characteristic lilt — rise, step, fall, step — comes from these vowel sequences sounding out one by one. The language doesn't flow like water so much as walk like someone unhurried.
 
-Vowel hiatus serves several purposes:
-
-**It forces you to slow down.** You cannot rush through *mia thia lothea* the way you can spit out "I love you." Each vowel meeting demands its moment. The language builds in natural pauses.
-
-**It creates natural rhythm.** Phi has a lilting, almost sung quality. This is not decoration; it reflects the language's philosophy that speech should be pleasant, that how we say things matters as much as what we say.
-
-**It distinguishes Phi from languages of conflict.** Many aggressive-sounding languages feature consonant clusters, glottal stops, and harsh combinations. Phi was designed as their opposite: a sound system that resists verbal violence.
+Third, it protects meaning. Because every vowel is its own syllable, words never smear into each other, and a listener can always count their way through an unfamiliar word. Clarity and calm turn out to be the same design decision.
 
 ## Hearing it
 
-The best way to internalize vowel hiatus is to listen and speak. Read these phrases aloud, lingering on each vowel meeting:
+Read these aloud, giving every vowel its full beat and keeping every border clean:
 
-**Phialu sorae nila.** — Water sees the sun.  
-*fee-ah-loo sor-ah-ay nee-lah*
+**Phialu sorae nila.** — The water sees the sun.
+*fee-ah-loo so-rah-eh nee-lah*
 
-**Shea womu nai.** — Peace is home.  
-*shay-ah woh-moo nah-ee*
+**Shea womu nai.** — Peace is home.
+*sheh-ah woh-moo nah-ee*
 
-**Mia phelora peloru nila.** — I see a beautiful flower.  
-*mee-ah feh-lor-ah peh-lor-oo nee-lah*
+**Mia phelora peloru nila.** — I see a beautiful flower.
+*mee-ah feh-loh-rah peh-loh-roo nee-lah*
 
-Notice how the vowels pool and flow, how the phrases breathe between sounds. This is the music of Phi.
-
-In later chapters, you will learn the technical details of phonology. For now, simply let your mouth learn the rhythm.
+If you feel yourself wanting to hurry the vowel pairs together, that's your native language talking. Let each vowel finish. The technical rules arrive in Part III; for now, teach your mouth the walk.
