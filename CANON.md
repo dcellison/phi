@@ -49,6 +49,11 @@ These were explicitly decided and should not silently fork again:
   (good), `towe` (well), `phelora` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
 - **Punctuation**: periods only in Phi text; no commas.
+- **Classifiers** (settled 2026-07): four only (himo/lipha/themo/nophe),
+  always optional. Nature-now rule: living parts of living beings take
+  `lipha`; time units and events take `nophe`; `themo` is for detached
+  and crafted objects. The superlative is `mo ko`; the particle `mi`
+  is retired. Subordinating conjunctions: pheo, phoe, lao, shai, lila.
 - **Embedded clauses** carry their own tense marking; closers
   (`meno`, `welo`, `sholo`) are required.
 

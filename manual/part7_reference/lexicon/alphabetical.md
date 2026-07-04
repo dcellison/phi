@@ -125,7 +125,7 @@
 | `laeno` | long | /lä.ˈe̞.n̪o̞/ | adjective |
 | `laenu` | commons | /lä.ˈe̞.n̪u/ | noun |
 | `laniru` | journey | /lä.ˈn̪i.ru/ | verb, noun |
-| `lao` | BECAUSE | /ˈlä.o̞/ | preposition |
+| `lao` | BECAUSE | /ˈlä.o̞/ | conjunction |
 | `lathoe` | tongue | /lä.ˈθo̞.e̞/ | noun |
 | `lau` | twenty-seven-group | /ˈlä.u/ | noun |
 | `lawe` | left | /ˈlä.we̞/ | noun, adjective |
@@ -502,7 +502,7 @@
 | `seru` | commit | /ˈse̞.ru/ | verb |
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
-| `shai` | CONC | /ˈʃä.i/ | preposition |
+| `shai` | CONC | /ˈʃä.i/ | conjunction |
 | `shalo` | run | /ˈʃä.lo̞/ | verb |
 | `shalu` | fish | /ˈʃä.lu/ | noun |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |

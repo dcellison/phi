@@ -73,9 +73,9 @@ BEFORE [1SG help] 1SG think
 ```
 
 ### 4.2.4. Causal and Concessive Clauses
-Causal ("because") and concessive ("although") clauses are formed by using the prepositions `lao` and `shai` respectively, followed by the subordinate clause.
+Causal ("because") and concessive ("although") clauses are formed with the subordinating conjunctions `lao` and `shai`, followed by the subordinate clause.
 
-**Structure:** `[Preposition [Clause]], [Main Clause]`
+**Structure:** `[Conjunction [Clause]], [Main Clause]`
 
 - **Causal:**
   ```

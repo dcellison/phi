@@ -159,6 +159,21 @@ one three-group ABSTRACT.CLF truth
 (three truths)
 ```
 
+### The nature-now rule for in-between categories
+
+The classifier tracks what the counted thing *is now*:
+
+- **Living parts of living beings** take `lipha`: `wi lipha shonui`
+  (two ears, as living flesh). A carved wooden ear would be `themo` —
+  same shape, different nature now.
+- **Time units, events, and all non-physical countables** take
+  `nophe`: `ta nophe torua` (one year), `wi nophe kurisha` (two
+  storms, counted as events).
+- `themo` covers detached and crafted objects only.
+
+Classifiers remain optional in every case; this rule governs which
+one is canonical when a speaker chooses to classify.
+
 ### Optional but Meaningful
 
 Classifiers are **optional** in Phi, but their use demonstrates mindfulness about the nature of what is being counted. Compare:
