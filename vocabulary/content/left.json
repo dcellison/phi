@@ -15,11 +15,11 @@
   "sound_symbolism": "The liquid 'l' flows with the open 'a', then reaches outward through 'we' — the arm extending to one side. Deliberately shares no sounds with its partner 'kuri' (right), so the two directions can never be mistaken for each other, in speech or on the page.",
   "grammatical_notes": "As a modifier it precedes its noun: 'lawe ruela' (the left path). As a noun it names the side itself: 'mua lawe' (on the left). Paired with 'kuri' (right); the pair is intentionally phonetically disjoint.",
   "pillars": {
-    "pre-industrial-wisdom": "Direction reckoned from the body — the navigator's own left hand — rather than from an abstract grid. The body is the first compass.",
-    "peace-linguistics-practices": "Left and right carry no value weight in Phi: neither side is the 'right' one morally. The words are direction only, judgment removed by design."
+    "peace-linguistics-practices": "Left and right carry no value weight in Phi: neither side is the 'right' one morally. The words are direction only, judgment removed by design.",
+    "pre-industrial-wisdom": "Direction reckoned from the body — the navigator's own left hand — rather than from an abstract grid. The body is the first compass."
   },
   "tags": {
-    "spatial": "Body-relative direction",
-    "physical": "Side of the body"
+    "physical": "Side of the body",
+    "spatial": "Body-relative direction"
   }
 }

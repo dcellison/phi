@@ -15,11 +15,11 @@
   "sound_symbolism": "The word opens with 'su', where the sibilant 's' creates heat's hiss—the sound of fire, of steam, of energy release. The deep 'u' holds intensity. This flows through 'la', where the liquid spreads warmth outward, heat radiating and extending. The final 'e' brings clarity to the felt sensation. Three syllables give appropriate presence to this vital quality.",
   "grammatical_notes": "Functions as an adjective preceding nouns: 'sulae shie' (warm water). Can describe objects, air, bodies, or metaphorically relationships and welcomes. Distinguished from 'thero' (fire) as the quality rather than the source.",
   "pillars": {
-    "pre-industrial-wisdom": "Traditional life revolved around warmth—fire tending, sun seeking, body heat sharing. 'Sulae' honors warmth as precious resource requiring relationship.",
-    "solarpunk-values": "Sustainable warmth from sun, from insulation, from community design is fundamental. 'Sulae' names the quality that sustainable systems must provide."
+    "solarpunk-values": "Sustainable warmth from sun, from insulation, from community design is fundamental. 'Sulae' names the quality that sustainable systems must provide.",
+    "pre-industrial-wisdom": "Traditional life revolved around warmth—fire tending, sun seeking, body heat sharing. 'Sulae' honors warmth as precious resource requiring relationship."
   },
   "tags": {
-    "physical": "thermal sensation of heat",
-    "nature": "energy from sun and fire"
+    "nature": "energy from sun and fire",
+    "physical": "thermal sensation of heat"
   }
 }

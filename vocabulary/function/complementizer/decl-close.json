@@ -2,14 +2,19 @@
   "word": "meno",
   "gloss": "DECL.CLOSE",
   "ipa": "/ˈme̞.n̪o̞/",
-  "syllables": ["me", "no"],
-  "pos": ["complementizer"],
+  "syllables": [
+    "me",
+    "no"
+  ],
+  "pos": [
+    "complementizer"
+  ],
   "concept": "End declarative clause / Close embedded statement",
   "description": "The required closing counterpart of the declarative complementizer 'mena'. Marks the end of an embedded declarative clause, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'mena...meno' functions as spoken brackets around embedded statements, giving listeners an unambiguous signal of where reported content begins and ends.",
   "sound_symbolism": "Shares the 'me' onset with 'mena', maintaining the acoustic signature of declarative embedding. The shift from 'a' to 'o' in the final vowel signals closure, following the consistent Phi pattern where '-a' opens and '-o' closes.",
   "grammatical_notes": "Required counterpart to 'mena'. Appears immediately after the final word of the embedded declarative clause, before the main verb resumes. Structure: [Subject] mena [embedded statement] meno [main verb]. Required because Phi's SOV word order places the main verb after the complement clause, and without 'meno' the boundary between the embedded verb and the main verb would be ambiguous. Follows the Phi pattern where opener ends in '-a' and closer ends in '-o'.",
   "pillars": {
-    "peace-linguistics-practices": "Required boundary marking supports the principle of transparent communication. Listeners always know precisely where reported content ends and the speaker's own assertion resumes, preventing the ambiguity that can lead to misattribution.",
-    "secular-buddhist-philosophy": "The closing marker completes the act of reporting another's thought. By clearly ending the embedded clause, 'meno' returns responsibility for subsequent words to the current speaker, maintaining the boundary between reported content and one's own expression."
+    "secular-buddhist-philosophy": "The closing marker completes the act of reporting another's thought. By clearly ending the embedded clause, 'meno' returns responsibility for subsequent words to the current speaker, maintaining the boundary between reported content and one's own expression.",
+    "peace-linguistics-practices": "Required boundary marking supports the principle of transparent communication. Listeners always know precisely where reported content ends and the speaker's own assertion resumes, preventing the ambiguity that can lead to misattribution."
   }
 }

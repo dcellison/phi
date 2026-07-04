@@ -1,7 +1,7 @@
 {
   "word": "thunai",
   "gloss": "student",
-  "ipa": "/ˈθu.näi/",
+  "ipa": "/θu.ˈn̪ä.i/",
   "syllables": [
     "thu",
     "na",
@@ -19,7 +19,7 @@
     "pre-industrial-wisdom": "Student as apprentice—learning through doing alongside a master."
   },
   "tags": {
-    "community": "Learning role",
-    "cognition": "Receptive mind"
+    "cognition": "Receptive mind",
+    "community": "Learning role"
   }
 }

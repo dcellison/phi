@@ -14,11 +14,11 @@
   "sound_symbolism": "The word descends into dark. 'She' /ʃe/ begins with soft breath, light fading. Then 'ro' rolls into depth, night settling.",
   "grammatical_notes": "Functions as a noun: 'mua shero' (at night). Opposite of day in the fundamental light-dark cycle. Time for rest, dreams, and restoration.",
   "pillars": {
-    "pre-industrial-wisdom": "Night commanded rest—without artificial light, darkness organized life around sleep.",
-    "secular-buddhist-philosophy": "Night offers different awareness—the quiet mind, the dream state, the unconscious processing."
+    "secular-buddhist-philosophy": "Night offers different awareness—the quiet mind, the dream state, the unconscious processing.",
+    "pre-industrial-wisdom": "Night commanded rest—without artificial light, darkness organized life around sleep."
   },
   "tags": {
-    "temporal": "Dark hours",
-    "nature": "Rest period"
+    "nature": "Rest period",
+    "temporal": "Dark hours"
   }
 }

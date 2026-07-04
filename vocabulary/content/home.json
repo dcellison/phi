@@ -15,11 +15,11 @@
   "grammatical_notes": "Functions as a noun referring to home specifically—the place of dwelling and belonging. Distinguished from 'nela' (place) by the quality of belonging and return. Often appears in expressions of leaving and returning, of safety and rest.",
   "pillars": {
     "solarpunk-values": "Sustainable homes shelter without extracting, comfortable without excess. 'Womu' names the dwelling that meets true needs—shelter, warmth, belonging—without luxury's burden.",
-    "pre-industrial-wisdom": "Traditional homes were built from local materials by known hands, integrated with land and climate. 'Womu' honors home as relationship with place, not just structure.",
-    "secular-buddhist-philosophy": "The true home is present awareness, available everywhere. Yet physical home provides the stability from which practice can develop. 'Womu' names both the refuge and the training ground."
+    "secular-buddhist-philosophy": "The true home is present awareness, available everywhere. Yet physical home provides the stability from which practice can develop. 'Womu' names both the refuge and the training ground.",
+    "pre-industrial-wisdom": "Traditional homes were built from local materials by known hands, integrated with land and climate. 'Womu' honors home as relationship with place, not just structure."
   },
   "tags": {
-    "spatial": "the place of dwelling and belonging",
-    "community": "the shelter of family and intimacy"
+    "community": "the shelter of family and intimacy",
+    "spatial": "the place of dwelling and belonging"
   }
 }

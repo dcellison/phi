@@ -15,11 +15,11 @@
   "sound_symbolism": "The word cuts clear. 'Ki' bites with sharp precision, edge entering. Then 'ru' carves the channel, form emerging from material.",
   "grammatical_notes": "Functions as noun: 'lo kiru' (the chisel). As verb: 'mi kiru' (I chisel). Works with 'toka' (hammer) in carving work.",
   "pillars": {
-    "pre-industrial-wisdom": "Carving reveals—the chisel finds form hidden in wood and smonae, subtractive art.",
-    "art-nouveau-aesthetics": "Detail and precision—the chisel creates the fine lines, the delicate relief, beauty in small scale."
+    "art-nouveau-aesthetics": "Detail and precision—the chisel creates the fine lines, the delicate relief, beauty in small scale.",
+    "pre-industrial-wisdom": "Carving reveals—the chisel finds form hidden in wood and smonae, subtractive art."
   },
   "tags": {
-    "creation": "Carving tool",
-    "aesthetic": "Revealing form"
+    "aesthetic": "Revealing form",
+    "creation": "Carving tool"
   }
 }

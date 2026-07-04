@@ -730,7 +730,7 @@
 | `kerime` | shore | Water-land boundary |
 | `kerithe` | ice | Frozen water |
 | `kerone` | peninsula | Projecting land mass |
-| `kerou` | smonae | the mineral world of earth's bones |
+| `kerou` | stone | the mineral world of earth's bones |
 | `keshoa` | reptile | Ancient cold-blooded creatures |
 | `kirae` | crystal | Geometric mineral |
 | `kirua` | sand | Granular earth material |
@@ -898,7 +898,7 @@
 | `keloa` | rough | Uneven surface |
 | `kema` | strong | Having power |
 | `kenua` | energy | Power capacity |
-| `kerou` | smonae | solid, heavy, enduring matter |
+| `kerou` | stone | solid, heavy, enduring matter |
 | `keru` | bright | High luminosity |
 | `keruko` | sturdy | Strongly built |
 | `kethua` | hard | the quality of solid resistance |

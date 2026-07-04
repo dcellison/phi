@@ -16,13 +16,13 @@
   "sound_symbolism": "The word opens with 'ri', where the rolling liquid 'r' creates continuous movement—the ongoing nature of labor, effort that sustains rather than explodes. The bright 'i' brings focused intention to this movement. The standalone 'o' opens into the fullness of work's scope—what we make, what we tend, what we offer. The final 'la' flows into contribution, the liquid carrying effort outward to where it serves, while open 'a' releases work into the world. The arc traces dignified labor: sustained movement, expansive purpose, flowing contribution.",
   "grammatical_notes": "Functions as both verb and noun. As verb: 'mia riola' (I labor). As noun: 'wela riola' (good work). Distinguished from words for specific tasks by naming the general practice of purposeful effort. Often modified by what the work serves or how it is done.",
   "pillars": {
-    "pre-industrial-wisdom": "Traditional societies understood work as participation rather than transaction—shared labor, work songs, the satisfaction of contributing to community. 'Riola' preserves this understanding of dignified effort woven through life rather than sold to survive.",
     "solarpunk-values": "Meaningful work contributing to community resilience and ecological regeneration is central to positive futures. 'Riola' supports transformation from exploitative labor to dignified contribution, from extraction to regeneration.",
-    "secular-buddhist-philosophy": "Right livelihood asks that work not cause harm and ideally contribute to wellbeing. 'Riola' supports mindful work practice, bringing presence and intention to labor rather than mechanical endurance."
+    "secular-buddhist-philosophy": "Right livelihood asks that work not cause harm and ideally contribute to wellbeing. 'Riola' supports mindful work practice, bringing presence and intention to labor rather than mechanical endurance.",
+    "pre-industrial-wisdom": "Traditional societies understood work as participation rather than transaction—shared labor, work songs, the satisfaction of contributing to community. 'Riola' preserves this understanding of dignified effort woven through life rather than sold to survive."
   },
   "tags": {
-    "physical": "bodily effort and sustained activity",
+    "activity": "fundamental human activity of laboring",
     "creation": "producing and contributing through labor",
-    "activity": "fundamental human activity of laboring"
+    "physical": "bodily effort and sustained activity"
   }
 }

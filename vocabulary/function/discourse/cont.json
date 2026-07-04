@@ -2,14 +2,20 @@
   "word": "kewai",
   "gloss": "CONT",
   "ipa": "/ke̞.ˈwä.i/",
-  "syllables": ["ke", "wa", "i"],
-  "pos": ["discourse"],
+  "syllables": [
+    "ke",
+    "wa",
+    "i"
+  ],
+  "pos": [
+    "discourse"
+  ],
   "concept": "Contrasting / However / Alternative View",
   "description": "A discourse marker expressing contrast or alternative perspective without opposition. More than simple disagreement, 'kewai' acknowledges the validity of different viewpoints coexisting—like looking at the same mountain from different sides, each view true yet incomplete without the others.",
   "sound_symbolism": "The word begins with 'k', a light stop that creates gentle distinction rather than harsh separation. This flows through 'e' into 'wa', the most open and welcoming consonant-vowel combination, before lifting to 'i'. The progression from distinction through openness to clarity mirrors how healthy contrast works—acknowledging difference while maintaining connection.",
   "grammatical_notes": "As a discourse marker, functions sentence-initially to introduce contrasting thoughts or perspectives. When sentence-initial, appears after Slot 0 particles but before the subject. Unlike negation, maintains the validity of what came before while presenting an alternative viewpoint.",
   "pillars": {
-    "peace-linguistics-practices": "By enabling contrast without conflict, 'kewai' supports dialogue across differences. It transforms potential opposition into collaborative exploration of multiple truths.",
-    "secular-buddhist-philosophy": "The discourse marker embodies the Middle Way—avoiding extremes of either denying differences or creating false oppositions. Truth often lies in holding multiple perspectives simultaneously."
+    "secular-buddhist-philosophy": "The discourse marker embodies the Middle Way—avoiding extremes of either denying differences or creating false oppositions. Truth often lies in holding multiple perspectives simultaneously.",
+    "peace-linguistics-practices": "By enabling contrast without conflict, 'kewai' supports dialogue across differences. It transforms potential opposition into collaborative exploration of multiple truths."
   }
 }

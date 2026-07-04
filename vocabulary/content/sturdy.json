@@ -15,11 +15,11 @@
   "sound_symbolism": "The word stands like smonae. 'Ke' begins with velar firmness, the decisive weight of something well-made. 'Ru' grounds with depth, roots reaching down into the earth. Then 'ko' closes with solid permanence, sturdiness confirmed. The hard consonants throughout mirror what sturdiness feels like: unyielding, reliable, built to last.",
   "grammatical_notes": "Functions as an adjective: 'keruko thae' (sturdy vessel). Opposite of 'welua' (fragile). Related to 'kema' (strong) but emphasizes resistance to damage rather than power.",
   "pillars": {
-    "pre-industrial-wisdom": "Sturdy construction served generations—well-built tools and structures passed from parent to child.",
-    "solarpunk-values": "Sturdy design reduces waste—things built to last don't need constant replacement."
+    "solarpunk-values": "Sturdy design reduces waste—things built to last don't need constant replacement.",
+    "pre-industrial-wisdom": "Sturdy construction served generations—well-built tools and structures passed from parent to child."
   },
   "tags": {
-    "physical": "Strongly built",
-    "creation": "Durable quality"
+    "creation": "Durable quality",
+    "physical": "Strongly built"
   }
 }

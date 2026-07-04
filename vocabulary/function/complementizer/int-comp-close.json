@@ -2,14 +2,19 @@
   "word": "welo",
   "gloss": "INT.COMP.CLOSE",
   "ipa": "/ˈwe̞.lo̞/",
-  "syllables": ["we", "lo"],
-  "pos": ["complementizer"],
+  "syllables": [
+    "we",
+    "lo"
+  ],
+  "pos": [
+    "complementizer"
+  ],
   "concept": "End embedded question / Close interrogative clause",
   "description": "The required closing counterpart of the interrogative complementizer 'wela'. Marks the end of an embedded yes/no question, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'wela...welo' functions as spoken brackets around embedded questions.",
   "sound_symbolism": "Shares the 'we' onset with 'wela', maintaining the acoustic signature of questioning. The shift from 'a' to 'o' in the final vowel signals closure, following the consistent Phi pattern where '-a' opens and '-o' closes. The rounded 'o' resolves the openness of the question's frame.",
   "grammatical_notes": "Required counterpart to 'wela'. Appears immediately after the final word of the embedded question, before the main verb resumes. Structure: [Subject] wela [embedded question] welo [main verb]. Required because Phi's SOV word order places the main verb after the embedded clause, and without 'welo' the boundary between the embedded verb and the main verb would be ambiguous.",
   "pillars": {
-    "peace-linguistics-practices": "Clear demarcation of where the embedded question ends supports transparent communication. The listener knows precisely where uncertainty is being expressed and where the speaker's own assertion resumes.",
-    "secular-buddhist-philosophy": "The closing marker completes the framing of uncertainty. By clearly ending the embedded question, 'welo' allows the mind to hold the question as a bounded object of contemplation."
+    "secular-buddhist-philosophy": "The closing marker completes the framing of uncertainty. By clearly ending the embedded question, 'welo' allows the mind to hold the question as a bounded object of contemplation.",
+    "peace-linguistics-practices": "Clear demarcation of where the embedded question ends supports transparent communication. The listener knows precisely where uncertainty is being expressed and where the speaker's own assertion resumes."
   }
 }

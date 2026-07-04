@@ -14,11 +14,11 @@
   "sound_symbolism": "The word refreshes. 'Ne' settles with calm presence, heat fading. Then 'ri' flows with crisp ease, coolness achieved.",
   "grammatical_notes": "Functions as an adjective: 'neri wiha' (cool breeze). Between 'sulae' (warm) and 'pelui' (cold)—moderate temperature that refreshes without chilling.",
   "pillars": {
-    "pre-industrial-wisdom": "Cool spaces provided refuge—shade, water, and evening air offered relief from heat.",
-    "solarpunk-values": "Cool design reduces energy—passive cooling through shade and airflow rather than mechanical systems."
+    "solarpunk-values": "Cool design reduces energy—passive cooling through shade and airflow rather than mechanical systems.",
+    "pre-industrial-wisdom": "Cool spaces provided refuge—shade, water, and evening air offered relief from heat."
   },
   "tags": {
-    "physical": "Low temperature",
-    "nature": "Refreshing quality"
+    "nature": "Refreshing quality",
+    "physical": "Low temperature"
   }
 }

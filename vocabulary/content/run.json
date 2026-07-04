@@ -18,10 +18,10 @@
     "pre-industrial-wisdom": "Running represents humanity's original swift locomotion, requiring nothing but the body's own capacity. Before mechanized transport, running served as the primary means of urgent communication across distances, with message runners connecting communities. Traditional cultures celebrate running through ceremonial races and games that build community bonds rather than individual dominance."
   },
   "tags": {
+    "activity": "fundamental human activity of runing",
+    "community": "rushing to help, playing together through racing",
     "physical": "intense bodily exertion and cardiovascular activity",
     "spatial": "rapid movement through space, covering distance swiftly",
-    "temporal": "movement expressing urgency or time-sensitive response",
-    "community": "rushing to help, playing together through racing",
-    "activity": "fundamental human activity of runing"
+    "temporal": "movement expressing urgency or time-sensitive response"
   }
 }

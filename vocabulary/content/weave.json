@@ -16,12 +16,12 @@
   "sound_symbolism": "The word enacts weaving's rhythm. 'Se' begins with the sibilant of strands sliding past each other. Then 'lo' loops with liquid over-under motion. Finally 'mi' meshes with nasal joining, the interlaced whole emerging.",
   "grammatical_notes": "As verb: 'mi themo selomi' (I weave something). As noun: 'wela selomi' (good weaving / fine woven work). Extends metaphorically: 'mi talu selomi' (I weave a story).",
   "pillars": {
-    "pre-industrial-wisdom": "Weaving is among humanity's oldest technologies—creating warmth, shelter, and beauty from simple strands through patient interlacing.",
-    "secular-buddhist-philosophy": "Reality is woven of interdependent threads—nothing exists alone, everything interlaced with everything else."
+    "secular-buddhist-philosophy": "Reality is woven of interdependent threads—nothing exists alone, everything interlaced with everything else.",
+    "pre-industrial-wisdom": "Weaving is among humanity's oldest technologies—creating warmth, shelter, and beauty from simple strands through patient interlacing."
   },
   "tags": {
+    "activity": "fundamental human activity of weaveing",
     "creation": "Interlacing into coherent whole",
-    "wisdom": "Understanding interconnection through making",
-    "activity": "fundamental human activity of weaveing"
+    "wisdom": "Understanding interconnection through making"
   }
 }

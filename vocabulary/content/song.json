@@ -15,13 +15,13 @@
   "sound_symbolism": "Shares its opening 'me-li' with 'meliho' (sing) — the same melodic rise, the humming nasal opening into the bright liquid 'li'. Where the verb ends in the breathing 'ho' of ongoing voice, the noun ends in the open 'ra': the song released, complete, ringing in the air.",
   "grammatical_notes": "Noun: 'shia melira meliho' (they sing a song), 'phelora melira' (a beautiful song). Member of the mel- semantic family with 'meliho' (sing); counted with the abstract classifier 'nophe' when enumerated as compositions.",
   "pillars": {
+    "solarpunk-values": "Communal singing costs nothing, consumes nothing, and binds a community — renewable culture in its purest form.",
     "art-nouveau-aesthetics": "A song is ornament made of time — the voice's flowing line, rising and returning like a vine. 'Melira' names the shape that singing draws.",
-    "pre-industrial-wisdom": "Songs are how pre-literate wisdom traveled: planting songs, mourning songs, songs that carry maps and genealogies. The song is the oldest book.",
-    "solarpunk-values": "Communal singing costs nothing, consumes nothing, and binds a community — renewable culture in its purest form."
+    "pre-industrial-wisdom": "Songs are how pre-literate wisdom traveled: planting songs, mourning songs, songs that carry maps and genealogies. The song is the oldest book."
   },
   "tags": {
     "creation": "A made thing of voice and time",
-    "ritual": "Carrier of communal memory and ceremony",
-    "emotion": "Feeling given melodic shape"
+    "emotion": "Feeling given melodic shape",
+    "ritual": "Carrier of communal memory and ceremony"
   }
 }

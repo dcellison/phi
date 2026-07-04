@@ -2,14 +2,19 @@
   "word": "phisu",
   "gloss": "EXMP",
   "ipa": "/ˈɸi.su/",
-  "syllables": ["phi", "su"],
-  "pos": ["discourse"],
+  "syllables": [
+    "phi",
+    "su"
+  ],
+  "pos": [
+    "discourse"
+  ],
   "concept": "For Example / To Illustrate / As Instance",
   "description": "Discourse marker introducing concrete examples or specific illustrations of abstract concepts. More than mere demonstration, 'phisu' offers instances gently, inviting the listener to see general principles embodied in particular cases.",
   "sound_symbolism": "The word begins with 'phi', where the soft bilabial fricative /ɸ/ breathes outward like a gentle offering—no harsh stops or demands, just breath shaped into meaning. The high vowel 'i' focuses attention precisely. This opens into 'su', where the sibilant 's' streams continuously and 'u' grounds the offering. Together, 'phisu' sounds like showing something with open hands: the gentle 'ph' presents, the focused 'i' points, and the flowing 'su' lets understanding settle.",
   "grammatical_notes": "As a discourse marker, appears sentence-initially to introduce specific examples or concrete illustrations. When sentence-initial, follows Slot 0 particles but precedes the subject. Transitions from abstract or general statements to concrete instances.",
   "pillars": {
-    "peace-linguistics-practices": "Provides gentle illustration to support understanding without imposing interpretation. The soft sounds make examples feel like invitations rather than proofs.",
-    "secular-buddhist-philosophy": "Teaching through examples embodies skillful means (upaya)—meeting learners where they are with concrete instances that illuminate abstract truth."
+    "secular-buddhist-philosophy": "Teaching through examples embodies skillful means (upaya)—meeting learners where they are with concrete instances that illuminate abstract truth.",
+    "peace-linguistics-practices": "Provides gentle illustration to support understanding without imposing interpretation. The soft sounds make examples feel like invitations rather than proofs."
   }
 }

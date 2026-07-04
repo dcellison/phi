@@ -15,11 +15,11 @@
   "sound_symbolism": "The word opens to creation. 'Pha' /ɸa/ begins with generative breath, creativity stirring. The vowel 'e' opens to possibility. Then 'wi' welcomes with expansive space, studio ready.",
   "grammatical_notes": "Functions as a noun: 'lo phaewi' (the studio). Related to 'keritha' (workshop) but emphasizes artistic creation rather than practical craft.",
   "pillars": {
-    "art-nouveau-aesthetics": "Studios birthed beauty—spaces where artists developed the flowing forms and natural motifs of the movement.",
-    "solarpunk-values": "Studios nurture vision—spaces where the imagination of better futures takes visible form."
+    "solarpunk-values": "Studios nurture vision—spaces where the imagination of better futures takes visible form.",
+    "art-nouveau-aesthetics": "Studios birthed beauty—spaces where artists developed the flowing forms and natural motifs of the movement."
   },
   "tags": {
-    "spatial": "Creative space",
-    "aesthetic": "Art place"
+    "aesthetic": "Art place",
+    "spatial": "Creative space"
   }
 }

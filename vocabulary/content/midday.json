@@ -15,11 +15,11 @@
   "sound_symbolism": "The word stands at zenith. 'Tha' /θa/ begins with steady breath, presence established. The vowel 'e' opens to fullness. Then 'so' sustains at the peak, midday held.",
   "grammatical_notes": "Functions as a noun: 'mua thaeso' (at midday). The center point of daylight hours, often a time for rest from labor in hot climates.",
   "pillars": {
-    "pre-industrial-wisdom": "Midday rest preserved energy—working around the heat, pausing when the sun was strongest.",
-    "solarpunk-values": "Midday offers peak solar energy—the time when sun-powered systems generate most."
+    "solarpunk-values": "Midday offers peak solar energy—the time when sun-powered systems generate most.",
+    "pre-industrial-wisdom": "Midday rest preserved energy—working around the heat, pausing when the sun was strongest."
   },
   "tags": {
-    "temporal": "Day's peak",
-    "nature": "Solar zenith"
+    "nature": "Solar zenith",
+    "temporal": "Day's peak"
   }
 }

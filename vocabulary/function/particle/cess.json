@@ -5,18 +5,18 @@
   "syllables": [
     "te"
   ],
+  "slot": 1,
   "pos": [
     "particle"
   ],
-  "slot": 1,
   "concept": "Stopping / Ceasing / Ending",
   "description": "An aspect particle that marks the cessation of actions or states, capturing the moment when something comes to rest. More than indicating termination, 'te' acknowledges endings as natural completions—not failures but fulfillments, the exhalation that must follow every inhalation.",
   "sound_symbolism": "The particle begins with 't', a crisp alveolar stop that creates definitive closure—tongue touching ridge like a door closing gently but firmly. This clean ending meets 'e', a mid front vowel that maintains clarity without harshness. Together, 'te' sounds like peaceful conclusion: the 't' provides clear termination while the 'e' keeps it light rather than abrupt. The sound teaches that endings need not be violent—cessation can be as clean and simple as lifting tongue from ridge.",
   "grammatical_notes": "Occupies Slot 1, following tense markers but preceding voice/modality particles. Marks the endpoint of processes rather than their entire completed duration (which would be perfective 'ki'). Combines with tenses for specific cessative meanings: 'to te' (stopped/ceased), 'so te' (will stop). Can apply to voluntary cessation ('stop talking') or natural endings ('stop raining'), maintaining neutrality about agency. Often pairs conceptually with inchoative 'pa'—what begins must end.",
   "pillars": {
     "secular-buddhist-philosophy": "The particle embodies the third mark of existence—cessation (nirodha). Like the teaching that suffering ceases when craving ceases, 'te' acknowledges that endings are not losses but liberations, creating space for what comes next.",
-    "pre-industrial-wisdom": "Natural cycles teach that ending is as sacred as beginning—sunset as holy as dawn, harvest completion as important as planting. 'Te' carries this wisdom that knowing when to stop is as crucial as knowing when to start.",
     "art-nouveau-aesthetics": "Like the way Art Nouveau lines come to elegant conclusions rather than abrupt terminations, 'te' creates aesthetic endings. It allows actions to cease gracefully, maintaining beauty even in stopping.",
-    "peace-linguistics-practices": "Knowing when to cease speaking prevents escalation—'te' enables clear marking of conversational endings, conflict resolution, and the peaceful conclusion of difficult discussions. It makes stopping a positive linguistic choice rather than abandonment."
+    "peace-linguistics-practices": "Knowing when to cease speaking prevents escalation—'te' enables clear marking of conversational endings, conflict resolution, and the peaceful conclusion of difficult discussions. It makes stopping a positive linguistic choice rather than abandonment.",
+    "pre-industrial-wisdom": "Natural cycles teach that ending is as sacred as beginning—sunset as holy as dawn, harvest completion as important as planting. 'Te' carries this wisdom that knowing when to stop is as crucial as knowing when to start."
   }
 }

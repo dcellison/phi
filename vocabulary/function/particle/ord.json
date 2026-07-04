@@ -5,6 +5,7 @@
   "syllables": [
     "nu"
   ],
+  "slot": 2,
   "pos": [
     "particle"
   ],
@@ -12,7 +13,6 @@
   "description": "Transforms cardinal numbers into ordinal numbers, marking position within a sequence. As a true particle, 'nu' provides the grammatical function of ordinalization while maintaining Phi's strict CV particle structure. It announces that the following number indicates position rather than quantity.",
   "sound_symbolism": "The nasal 'n' grounds and establishes position—a sound of settling into place. The closed 'u' suggests completion and finality, the sense of a defined point within a continuum. Together, 'nu' creates a brief, decisive sound that marks exact placement without elaboration, perfect for its grammatical role.",
   "grammatical_notes": "Slot 2 particle that precedes numbers to create ordinals. Structure: 'nu [Number] [Noun]'. Examples: 'nu ta' (first), 'nu wi' (second), 'nu ta shao' (third). The particle announces ordinal meaning before the number itself, maintaining the modifier-first principle. Can modify any countable sequence: temporal, spatial, or abstract. The resulting ordinal phrase functions as a modifier for the following noun.",
-  "slot": 2,
   "pillars": {
     "peace-linguistics-practices": "By providing a neutral marker for sequence, 'nu' enables discussion of order without implying hierarchy or competition. Position becomes a simple fact rather than a value judgment.",
     "pre-industrial-wisdom": "Reflects understanding of natural cycles where position matters for practical reasons (planting order, seasonal sequence) without implying superiority. First seed planted is not better than last."

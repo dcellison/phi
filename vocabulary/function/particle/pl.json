@@ -5,17 +5,17 @@
   "syllables": [
     "lo"
   ],
+  "slot": 2,
   "pos": [
     "particle"
   ],
-  "slot": 2,
   "concept": "Plural / Multiple / More Than One",
   "description": "A word-level particle that marks nouns as plural, transforming singulars into multiples. More than mechanical number-marking, 'lo' acknowledges the profound shift from individual to collective, from one to many, from isolation to community.",
   "sound_symbolism": "The particle begins with 'l', the liquid consonant that flows and connects—tongue creating a channel for sound to stream around it like water gathering streams. This collecting consonant meets 'o', the round vowel of wholeness and inclusion. Together, 'lo' sounds like gathering itself: the flowing 'l' collects individuals while the encompassing 'o' holds them as a group. The sound's fluidity reflects how plurality emerges—not by breaking unities but by allowing them to flow together.",
   "grammatical_notes": "Occupies Slot 2, appearing immediately before the noun it pluralizes. Singular is unmarked (zero), making plural explicitly marked and therefore conscious. Does not distinguish between dual, paucal, or multiple—all quantities beyond one use 'lo'. **Important**: When a numeral or quantifier is present, 'lo' is redundant and not used—the number itself indicates plurality. Use 'lo' for unquantified plurals: 'lo whelea' (friends, in general) vs. 'wi whelea' (two friends, number implies plurality). Similarly, quantifiers like 'sheloi' (many) already imply plurality, so 'sheloi whelea' not 'sheloi lo whelea'. Can apply to count nouns and, in poetic usage, even mass nouns when emphasizing multiplicity of types. Number agreement is minimal—verbs don't change for plural subjects, maintaining Phi's analytical structure.",
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies the teaching of aggregates—how apparent unities are actually multiplicities, how forests are many trees, how communities are many beings. 'Lo' grammaticalizes this wisdom that oneness and manyness inter-are.",
     "solarpunk-values": "Building resilient systems requires thinking in multiples—diverse solutions, redundant systems, community responses. 'Lo' enables this plural thinking that moves beyond individualism to collective flourishing.",
+    "secular-buddhist-philosophy": "The particle embodies the teaching of aggregates—how apparent unities are actually multiplicities, how forests are many trees, how communities are many beings. 'Lo' grammaticalizes this wisdom that oneness and manyness inter-are.",
     "pre-industrial-wisdom": "Traditional counting often emphasized relationships between members rather than abstract number. 'Lo' carries this sense that plurality means connection—a flock is not just many birds but birds-in-relation."
   }
 }

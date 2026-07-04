@@ -15,14 +15,14 @@
   "sound_symbolism": "The word begins with 'se', a sibilant that streams like water over smonaes, creating the very sound of smooth movement. This glides into 'lu', a liquid consonant that deepens the flow, pulling it into currents that run beneath the surface. Together, these two syllables perform their meaning—the 's' cannot be spoken without air flowing, the 'l' requires the tongue to move in liquid motion. The vowel progression from bright 'e' to deep 'u' mirrors how streams gather into rivers. Speaking 'selu' requires no effort, no harsh stops or resistance—the mouth itself enters a state of flow, making the word a perfect marriage of sound and meaning.",
   "grammatical_notes": "Functions as both noun and intransitive verb. As a noun, can refer to water flow, energy flow, or the psychological state: 'teo po selu' (the river's flow), 'nolu po selu' (flow of thought). As a verb, describes entering or being in flow state: 'mia si selu' (I am flowing). The imperfective aspect 'si' naturally combines with this verb given its continuous nature. Can be modified by manner adverbs: 'philo selu' (flow gently). Locative prepositions indicate direction: 'teo shiro wei selu' (the river flows toward the forest).",
   "pillars": {
-    "art-nouveau-aesthetics": "Flow embodies the central Art Nouveau principle of the whiplash line - the sinuous, organic curve that captures life force in motion. This aesthetic celebrates how nature moves without rigid angles, how water finds its path, how vines climb and hair falls. It sees beauty in allowing forces to express their natural trajectories without imposed constraint.",
     "secular-buddhist-philosophy": "Flow represents the state of non-resistance where action arises naturally from conditions without forcing. This is the experience of moving with rather than against the current of experience, finding the path of least resistance not from laziness but from wisdom. In flow, the illusion of a separate self dissolves into pure experiencing.",
+    "art-nouveau-aesthetics": "Flow embodies the central Art Nouveau principle of the whiplash line - the sinuous, organic curve that captures life force in motion. This aesthetic celebrates how nature moves without rigid angles, how water finds its path, how vines climb and hair falls. It sees beauty in allowing forces to express their natural trajectories without imposed constraint.",
     "pre-industrial-wisdom": "Traditional cultures understood flow through observing water courses, seasonal rhythms, and natural cycles. Knowledge of flow patterns was essential for irrigation, navigation, and understanding weather patterns. This embodied knowledge of how things naturally move informed everything from architecture to agriculture."
   },
   "tags": {
+    "cognition": "creates mental state of optimal experience and effortless concentration",
     "nature": "embodies natural phenomena of water currents and organic movement patterns",
-    "temporal": "transforms time experience into rhythmic continuous phenomena",
     "spatial": "traces movement through space along natural trajectories",
-    "cognition": "creates mental state of optimal experience and effortless concentration"
+    "temporal": "transforms time experience into rhythmic continuous phenomena"
   }
 }
