@@ -693,7 +693,7 @@
 | `ta` | one | One |
 | `wi` | two | Two |
 
-## particle (36)
+## particle (35)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -710,7 +710,6 @@
 | `lo` | PL | Plural |
 | `lu` | COND | If |
 | `ma` | NEG | Not |
-| `mi` | SUPL | Most |
 | `mo` | CMPR | More |
 | `na` | NEC | Must |
 | `ne` | NAME | Proper name marker |

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*805 words.*
+*804 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -220,7 +220,6 @@
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
 | `mera` | net | /ˈme̞.rä/ | noun, verb |
 | `meropi` | cherish | /me̞.ˈro̞.pi/ | verb |
-| `mi` | SUPL | /ˈmi/ | particle |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
 | `milau` | drink | /mi.ˈlä.u/ | verb |
 | `mio` | mmhm | /ˈmi.o̞/ | interjection |
