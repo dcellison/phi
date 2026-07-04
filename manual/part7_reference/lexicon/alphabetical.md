@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*856 words.*
+*865 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -47,6 +47,7 @@
 | `howai` | evening | /ho̞.ˈwä.i/ | noun |
 | `howela` | receive | /ho̞.ˈwe̞.lä/ | verb, noun |
 | `howeli` | wind | /ho̞.ˈwe̞.li/ | noun |
+| `hupo` | dog | /ˈhu.po̞/ | noun |
 | `hurao` | patient | /hu.ˈrä.o̞/ | adjective |
 | `ka` | CAUS | /ˈkä/ | particle |
 | `kaeli` | like | /kä.ˈe̞.li/ | verb |
@@ -136,6 +137,7 @@
 | `kuri` | right | /ˈku.ri/ | noun, adjective |
 | `kurisha` | storm | /ku.ˈri.ʃä/ | noun, verb |
 | `kuroi` | muscle | /ku.ˈro̞.i/ | noun |
+| `kurona` | horn | /ku.ˈro̞.n̪ä/ | noun |
 | `laeno` | long | /lä.ˈe̞.n̪o̞/ | adjective |
 | `laenu` | commons | /lä.ˈe̞.n̪u/ | noun |
 | `laniru` | journey | /lä.ˈn̪i.ru/ | verb, noun |
@@ -246,6 +248,7 @@
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
 | `misa` | INT.REASON | /ˈmi.sä/ | interrogative |
+| `misheko` | cat | /mi.ˈʃe̞.ko̞/ | noun |
 | `mishoa` | express | /mi.ˈʃo̞.ä/ | verb, noun |
 | `miso` | REFL | /ˈmi.so̞/ | pronoun |
 | `mo` | CMPR | /ˈmo̞/ | particle |
@@ -289,6 +292,7 @@
 | `muraki` | harvest | /mu.ˈrä.ki/ | verb, noun |
 | `mureli` | brown | /mu.ˈre̞.li/ | adjective |
 | `mureo` | stable | /mu.ˈre̞.o̞/ | adjective |
+| `muriwe` | worm | /mu.ˈri.we̞/ | noun |
 | `muro` | stubborn | /ˈmu.ro̞/ | adjective |
 | `muroa` | fertile | /mu.ˈro̞.ä/ | adjective |
 | `muwi` | interior | /ˈmu.wi/ | noun |
@@ -433,6 +437,7 @@
 | `phewo` | sage | /ˈɸe̞.wo̞/ | noun |
 | `phialu` | water | /ɸi.ˈä.lu/ | noun |
 | `phielo` | glass | /ɸi.ˈe̞.lo̞/ | noun |
+| `philea` | feather | /ɸi.ˈle̞.ä/ | noun |
 | `philo` | day | /ˈɸi.lo̞/ | noun |
 | `philu` | candle | /ˈɸi.lu/ | noun |
 | `phina` | FEW | /ˈɸi.n̪ä/ | quantifier |
@@ -476,6 +481,7 @@
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun, verb |
+| `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
 | `pukea` | danger | /pu.ˈke̞.ä/ | noun, adjective |
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb, noun |
@@ -636,6 +642,7 @@
 | `sukima` | fear | /su.ˈki.mä/ | noun |
 | `sulae` | warm | /su.ˈlä.e̞/ | adjective |
 | `sulai` | musician | /su.ˈlä.i/ | noun |
+| `suliwa` | snake | /su.ˈli.wä/ | noun |
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |
@@ -780,6 +787,7 @@
 | `towe` | well | /ˈt̪o̞.we̞/ | noun, adjective |
 | `tua` | no | /ˈt̪u.ä/ | interjection |
 | `tuko` | sour | /ˈt̪u.ko̞/ | adjective |
+| `tulira` | tail | /t̪u.ˈli.rä/ | noun |
 | `tumeki` | root | /t̪u.ˈme̞.ki/ | noun, verb |
 | `tumoa` | heavy | /t̪u.ˈmo̞.ä/ | adjective |
 | `tupi` | jump | /ˈt̪u.pi/ | verb |
@@ -791,6 +799,7 @@
 | `wao` | wow | /ˈwä.o̞/ | interjection |
 | `wapho` | throw | /ˈwä.ɸo̞/ | verb |
 | `wapi` | fly | /ˈwä.pi/ | verb |
+| `wapile` | wing | /wä.ˈpi.le̞/ | noun |
 | `warosha` | reconcile | /wä.ˈro̞.ʃä/ | verb |
 | `we` | ALSO | /ˈwe̞/ | particle |
 | `wea` | TOWARD | /ˈwe̞.ä/ | preposition |

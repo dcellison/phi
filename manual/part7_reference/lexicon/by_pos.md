@@ -272,7 +272,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (422)
+## noun (431)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -291,6 +291,7 @@
 | `howai` | evening | Evening |
 | `howela` | receive | Receive |
 | `howeli` | wind | Wind |
+| `hupo` | dog | Dog |
 | `kaero` | phase | Phase |
 | `kathu` | seal | Seal |
 | `kealo` | create | Create |
@@ -336,6 +337,7 @@
 | `kuri` | right | Right |
 | `kurisha` | storm | Storm |
 | `kuroi` | muscle | Muscle |
+| `kurona` | horn | Horn |
 | `laenu` | commons | Commons |
 | `laniru` | journey | Journey |
 | `lathoe` | tongue | Tongue |
@@ -395,6 +397,7 @@
 | `miona` | person | Person |
 | `mioru` | beauty | Beauty |
 | `mirae` | eye | Eye |
+| `misheko` | cat | Cat |
 | `mishoa` | express | Express |
 | `moeli` | hearth | Hearth |
 | `moenu` | culture | Culture |
@@ -415,6 +418,7 @@
 | `muero` | autumn | Autumn |
 | `muila` | earth | Earth |
 | `muraki` | harvest | Harvest |
+| `muriwe` | worm | Worm |
 | `muwi` | interior | Interior |
 | `naphe` | help | Help |
 | `nawea` | respect | Respect |
@@ -489,6 +493,7 @@
 | `phewo` | sage | Sage |
 | `phialu` | water | Water |
 | `phielo` | glass | Glass |
+| `philea` | feather | Feather |
 | `philo` | day | Day |
 | `philu` | candle | Candle |
 | `phiora` | spirit | Spirit |
@@ -510,6 +515,7 @@
 | `piru` | trader | Trader |
 | `ponu` | door | Door |
 | `porua` | purpose | Purpose |
+| `powea` | egg | Egg |
 | `pukea` | danger | Danger |
 | `pula` | wish | Wish |
 | `punoa` | society | Society |
@@ -588,6 +594,7 @@
 | `suiloe` | dew | Dew |
 | `sukima` | fear | Fear |
 | `sulai` | musician | Musician |
+| `suliwa` | snake | Snake |
 | `sunai` | health | Health |
 | `suro` | rope | Rope |
 | `talua` | shoulder | Shoulder |
@@ -665,10 +672,12 @@
 | `toru` | roof | Roof |
 | `torua` | year | Year |
 | `towe` | well | Well |
+| `tulira` | tail | Tail |
 | `tumeki` | root | Root |
 | `turema` | return | Return |
 | `waeli` | conscious | Conscious |
 | `waero` | sky | Sky |
+| `wapile` | wing | Wing |
 | `weloa` | loom | Loom |
 | `weloma` | mutual | Mutual |
 | `weloni` | body | Body |

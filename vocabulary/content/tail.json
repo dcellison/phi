@@ -1,0 +1,24 @@
+{
+  "word": "tulira",
+  "gloss": "tail",
+  "ipa": "/t̪u.ˈli.rä/",
+  "syllables": [
+    "tu",
+    "li",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Tail / The Body's Trailing End",
+  "description": "The tail: the body's continuation past itself — the dog's flag, the fish's engine, the snake's ending-that-never-quite-ends. Anatomy for every creature that has one.",
+  "sound_symbolism": "'tu' marks the body's end and 'li'–'ra' trails away from it, tapering open — the word thins as a tail does.",
+  "grammatical_notes": "Noun: 'hupo tulira rato.' (The dog turns its tail — wags.) 'shalu roe tulira wishe.' (The fish swims with its tail.)",
+  "pillars": {
+    "pre-industrial-wisdom": "The herder read the flock by tails — health, mood, and weather-sense all signaled at the animal's far end."
+  },
+  "tags": {
+    "nature": "The creature's trailing end",
+    "physical": "Anatomy past the body"
+  }
+}
