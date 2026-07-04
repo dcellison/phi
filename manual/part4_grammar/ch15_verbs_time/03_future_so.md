@@ -15,7 +15,7 @@ The particle *so* transforms the timeless concept *theo* into a projected future
 
 This creates a different relationship to action than either present or past tense. Present actions feel immediate and real. Past actions feel settled and complete. Future actions marked with *so* feel open and provisional. They represent our best intentions while acknowledging the inherent uncertainty ahead.
 
-The soft, flowing 's' sound suggests movement forward, like a gentle stream toward an unseen destination. The open 'o' maintains possibility. The particle commits to neither certain prediction nor mere possibility, leaving the future appropriately open.
+The particle commits to neither certain prediction nor mere possibility; it leaves the future exactly as open as futures are.
 
 ## Examples
 
@@ -25,6 +25,4 @@ The soft, flowing 's' sound suggests movement forward, like a gentle stream towa
 | *thia so shua* | 2SG FUT come | You will come |
 | *lo mia phialu so nila* | 1PL water FUT see | We will see the water |
 
-## Designing futures
-
-Unlike the past, which exists only in memory and effects, the future remains shapeable. The particle *so* embodies orientation toward designing futures: not passive waiting but active creation of what comes next. Skillful action requires considering consequences, and *so* enables this temporal thinking while reminding us that futures are not fixed but shaped by present choices.
+Unlike the past, which exists only in memory and effects, the future remains shapeable — and every use of *so* is a small reminder that what comes next is being made now.

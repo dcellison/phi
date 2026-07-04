@@ -8,7 +8,7 @@ In Phi, it is perfectly grammatical to simply count objects. But a more consciou
 
 The system invites the speaker to consider the nature of the noun they are about to name, asking not just "how many?" but first, "what *kind* of thing is this?"
 
-## Four windows into reality
+## The four classifiers
 
 The classifier system is built upon four core classifiers, each representing a fundamental division in Phi's worldview.
 
@@ -103,10 +103,6 @@ Contexts that naturally invite classifier use include:
 - Personal practice of mindful speaking
 - When the category of the noun is unclear or worth emphasizing
 
-## An invitation to mindfulness
+## Offered, not required
 
-The classifier system is an invitation to a deeper level of awareness. It is not a grammatical rule that must be obeyed, but a tool that is offered.
-
-By choosing to use a classifier, the speaker pauses to consider what kind of being they are counting. They see not just a collection of objects, but a community of people, living things, tools, and ideas.
-
-It is the final layer of detail in building a noun phrase. From the simple descriptor to the possessor, from the quantifier to the classifier, every element that modifies a noun in Phi works in a simple, consistent, head-final structure, creating a grammar that is both elegant and an exercise in mindful communication.
+The classifiers are a tool offered, never a rule enforced. To use one is to pause, for a syllable, over what kind of being you are counting — and a room counted with classifiers is no longer a collection of objects but people, living things, tools, and ideas, each acknowledged as what it is. That pause is the whole system's purpose, and it costs two letters.

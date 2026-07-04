@@ -20,7 +20,7 @@ Beauty shouldn't be confined to frames on walls. It should be integrated into al
 
 ## Sonic artistry
 
-This philosophy of integrated, organic beauty is Phi's aesthetic soul. If Art Nouveau sought a total work of art in physical space, Phi seeks one in sonic space. Phonology becomes the primary artistic medium.
+This philosophy of integrated, organic beauty is Phi's aesthetic inheritance. If Art Nouveau sought a total work of art in physical space, Phi seeks one in sonic space. Phonology becomes the primary artistic medium.
 
 The preference for soft fricatives (`ph`, `th`, `sh`, `wh`), flowing liquids (`l`, `r`), and sonorous nasals (`m`, `n`) was deliberate. The language should be pleasing to the ear, gentle on the tongue. The avoidance of harsh sounds or consonant clusters mirrors Art Nouveau's rejection of industrial rigidity. Open syllables that always end in vowels give consistent, rhythmic cadence. The flow from word to word is as smooth as the whiplash line itself.
 

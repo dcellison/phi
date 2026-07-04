@@ -34,7 +34,7 @@ The perfective views events from outside as bounded wholes, appropriate for achi
 
 The inchoative particle *pa* catches the precise moment when something emerges into being. It focuses specifically on the inception point rather than the subsequent process or completion.
 
-When we say *mia pa theo* (I begin to read), we focus attention on the threshold moment when action comes into being. The plosive 'p' bursts forth like the first spark of activity, followed by the opening vowel 'a' that suggests expansion and growth.
+*mia pa theo* (I begin to read) puts the attention on the threshold — the moment an action comes into being, before any of its content has happened.
 
 > *sorae pa shua*
 > "The sun begins to arrive."
@@ -45,7 +45,7 @@ This particle applies to both actions and states, marking the transition point i
 
 The cessative particle *te* marks the moment an action ceases. Where *pa* attends to thresholds of beginning, *te* attends to thresholds of ending — the conscious close of what was underway.
 
-When we say *mia te theo* (I stop reading), we mark the deliberate settling of an action into stillness. The crisp dental 't' draws a clean edge, and the mid vowel 'e' lets the action rest there, neither abrupt nor lingering.
+*mia te theo* (I stop reading) marks the deliberate settling of an action into stillness — an ending noticed, rather than merely occurred.
 
 > *shia te meliho*
 > "They stop singing."
@@ -56,7 +56,7 @@ Endings deserve the same awareness as beginnings. The cessative invites speakers
 
 The habitual particle *ro* introduces the dimension of repetition, habit, and customary action. Where other aspects focus on individual instances, *ro* steps back to reveal larger patterns that actions create when they repeat over time.
 
-When we say *mia ro theo* (I habitually read / I read regularly), we describe not a single reading event but a characteristic pattern of behavior extending across multiple occasions. The rolling 'r' sound taps repeatedly, a gesture of recurrence that meets the round 'o' mirroring the circular nature of habit.
+*mia ro theo* (I read regularly) describes no single event but a pattern — the shape a repeated action wears across many occasions.
 
 > *shia ro meliho*
 > "They sing regularly."

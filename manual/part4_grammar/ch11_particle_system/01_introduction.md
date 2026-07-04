@@ -22,14 +22,4 @@ Everything else the system offers follows from that visibility. Because particle
 
 ## The three slots
 
-Phi organizes particles into three slots, each operating at a different grammatical level:
-
-**Slot 0** particles frame the entire sentence. They announce the speaker's communicative intent: question, command, condition, wish, politeness.
-
-**Slot 1** particles modify the verb phrase. They announce temporal, aspectual, evidential, and modal information about the action.
-
-**Slot 2** particles modify individual words. They announce plurality, emphasis, comparison, and social relationship.
-
-The slots appear in order. If a sentence has particles from multiple slots, Slot 0 comes first, then Slot 1 particles stack in a specific sequence, then Slot 2 particles attach to their target words.
-
-The following sections explain each slot in detail, then show how particles combine into complex expressions.
+Phi organizes its particles into three slots by grammatical scope — the whole sentence, the verb phrase, the single word — and the slots always appear in that order. The next section maps the three slots; the sections after it take each slot in turn, and the chapter ends with how particles combine.

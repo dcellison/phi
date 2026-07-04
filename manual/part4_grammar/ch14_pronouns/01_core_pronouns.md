@@ -22,7 +22,7 @@ The second-person pronoun *thia* refers to the one being addressed.
 **Mia thia whaline.** — I thank you.  
 **Thia womu lothea.** — You love home.
 
-The *th* in *thia* requires careful placement of the tongue, neither fully in nor out. This deliberate articulation mirrors the care we should take when addressing another person. Every "you" in Phi is a small act of attention.
+The *th* in *thia* requires careful placement of the tongue, neither fully in nor out — a deliberate articulation for the deliberate act of addressing another person.
 
 Phi makes no distinction between formal and informal address. There is no separate polite "you" like French *vous* or German *Sie*. All beings receive the same *thia*, with the same respect implied.
 

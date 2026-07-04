@@ -2,11 +2,11 @@
 
 ## A science of the mind
 
-If Solarpunk maps the outer world, this second pillar maps the inner one. Phi draws from Buddhist philosophy, not as religious faith or metaphysical system, but as a tested methodology for understanding consciousness.
+If Solarpunk maps the outer world, this second pillar maps the inner one. Phi draws from Buddhist philosophy as psychology: a long-tested method for understanding consciousness, requiring no faith and no metaphysics.
 
 For over two thousand years, Buddhist thinkers have investigated the mind with rigor and precision. The result: practical tools for cultivating clarity, compassion, and equanimity. Phi borrows these tools and embeds them directly into grammar and vocabulary.
 
-The goal is making beneficial mental states more accessible to speakers, not through ideology, but through structural nudges.
+The goal is simply to make beneficial mental states the path of least resistance — grammar as a gentle slope.
 
 ## Mindfulness as grammar
 
@@ -38,6 +38,6 @@ This insight inspires Phi's compositional lexicon. Rather than assigning arbitra
 
 These elements work together: syntax that encourages deliberate thought, vocabulary that reframes difficult emotions, compositional words that reveal connection.
 
-The goal isn't creating a "Buddhist language" or imposing any dogma. It's drawing on practical wisdom to provide tools that make mindfulness and compassion feel less like abstract ideals and more like the natural way to communicate.
+Phi is not a "Buddhist language," and nothing here asks for belief. It borrows the tradition's practical toolkit so that mindfulness and compassion arrive as the natural way to communicate rather than as ideals to strain toward.
 
 The language doesn't force you to be mindful. It just makes mindfulness the easiest path.

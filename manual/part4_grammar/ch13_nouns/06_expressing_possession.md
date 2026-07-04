@@ -100,4 +100,4 @@ Phi's possessive construction makes a subtle statement about our relationship to
 
 It favors a more fluid perspective, one in which people and objects are defined by connections and associations rather than by titles of dominion. The language doesn't ask "Who owns this?" but rather "What is this thing's story? What is it connected to?"
 
-This simple, marker-free system does more than simplify grammar. It subtly shapes a worldview that is more relational, more attuned to the web of connections that defines reality.
+A possession system with no possession marker: the relationship is stated by adjacency alone, which is quietly fitting for a language suspicious of ownership.

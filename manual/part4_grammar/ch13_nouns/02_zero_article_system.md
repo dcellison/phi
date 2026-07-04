@@ -4,7 +4,7 @@ Before specifying *which* noun or *how many*, Phi's grammar begins with a philos
 
 ## Trust in context
 
-A word like `shelu` (book) on its own can mean "the book" we were just discussing or simply "a book" that has not yet been introduced. This ambiguity is not a flaw; it is a feature.
+A word like `shelu` (book) on its own can mean "the book" we were just discussing or simply "a book" that has not yet been introduced. The ambiguity is deliberate.
 
 Consider English:
 
@@ -25,13 +25,7 @@ Many languages lack articles entirely. Mandarin Chinese, Japanese, Russian, Hind
 
 Phi joins this tradition. The zero-article approach removes grammatical clutter, creating a more direct mode of expression. Instead of mandatory markers that must accompany every noun, the language relies on mutual awareness.
 
-This design choice embodies several of Phi's core values:
-
-**Mindfulness.** Without automatic articles, speakers must be present in the conversation. They must trust that context provides clarity, or choose to add explicit markers when it doesn't.
-
-**Efficiency.** Articles consume cognitive and linguistic space. In languages with articles, speakers spend significant energy determining whether something is definite or indefinite, often for little communicative gain.
-
-**Relational thinking.** The zero-article system treats definiteness as arising from relationship rather than from noun properties. A book isn't inherently "the book" or "a book"; it becomes specified through its place in conversation.
+The design earns its keep three ways. Without automatic articles, speakers have to stay present in the conversation — trusting shared context to carry definiteness, or adding an explicit marker when it can't. The grammar sheds a whole category of busywork; English speakers spend real cognitive effort on the/a decisions that rarely change what anyone understands. And definiteness itself gets relocated: a book isn't inherently "the book" or "a book" — it becomes specific through its place in the conversation, which is where specificity actually lives.
 
 ## When precision is needed
 
@@ -67,4 +61,4 @@ These strategies work together to create a system where definiteness emerges fro
 
 The zero-article system invites a particular kind of attention in conversation. Speakers must consider what their listeners already know. Listeners must stay present, tracking nouns as they enter and develop through discourse.
 
-This is not a burden but an opportunity. The grammar creates space for the mindful conversation that Phi values: two people genuinely attending to each other, building shared understanding through careful mutual awareness rather than relying on grammatical automation.
+The grammar hands that work to the speakers on purpose: two people genuinely attending to each other do better disambiguation than any article system, and the attending is the point.
