@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (51)
+## activity (52)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -30,6 +30,7 @@
 | `natu` | pull | Inbound force to the body |
 | `noluha` | swallow | Eating's completion |
 | `nuola` | eat | fundamental human activity of eating |
+| `palowe` | shoe | The walker's equipment |
 | `peki` | squeeze | Compression in the hand |
 | `pesa` | push | Outbound force from the body |
 | `pharelo` | cook | fundamental human activity of cooking |
@@ -64,7 +65,7 @@
 | `wile` | play | fundamental human activity of playing |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (73)
+## aesthetic (74)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -137,6 +138,7 @@
 | `weloa` | loom | Pattern maker |
 | `weru` | poet | Word craft |
 | `wheiluro` | mist | Ethereal obscuring |
+| `whilaru` | comb | The tool worth carving |
 | `whilo` | white | visual quality of maximum light |
 | `whoa` | whole | harmony and completeness |
 | `wira` | window | View portal |
@@ -273,7 +275,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (187)
+## community (190)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -375,6 +377,7 @@
 | `phemila` | host | creates temporary family through networks of reciprocal care |
 | `phewani` | neighbor | fundamental to local social bonds and collective life |
 | `phewo` | sage | Wisdom role |
+| `phitura` | well (water) | The shared water-place |
 | `phoi` | nine-group | As a measure of 'many' or 'plenty,' 'phoi' inherently relates to sharing and distribution. It represents quantities sufficient for group needs, for gathering and giving. |
 | `phomila` | offspring | fundamental to family bonds and social continuity |
 | `phowe` | share | foundational act of community building |
@@ -403,6 +406,7 @@
 | `shurano` | safe | What a community owes its members |
 | `shuroa` | shelter | Refuge |
 | `sila` | community | fundamentally about social relationships and collective organization |
+| `silawo` | village | The gathered homes |
 | `siora` | joy | multiplies through sharing and builds collective resilience |
 | `soeli` | cup | Shared refreshment |
 | `soki` | settle | Committing to location and relationships |
@@ -463,6 +467,7 @@
 | `woenu` | tame | Human-animal bond |
 | `wolu` | healthy | Well-functioning |
 | `womu` | home | the shelter of family and intimacy |
+| `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
 ## creation (119)
@@ -972,7 +977,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (223)
+## physical (229)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1035,6 +1040,7 @@
 | `losha` | wide | Great breadth |
 | `lumera` | nourish | Sustaining life through giving |
 | `lupho` | float | Rest without sinking |
+| `luphonu` | boat | The built hull |
 | `luroi` | nervous | Uneasy energy |
 | `luwae` | graceful | Elegant form |
 | `luwi` | flexible | Able to bend |
@@ -1043,6 +1049,7 @@
 | `manuwe` | hand | the body member of grasping and making |
 | `masue` | measure | Size taken against the body |
 | `meilo` | sit | fundamental bodily position and experience of supported rest |
+| `meilopa` | seat | Made for sitting |
 | `menoa` | face | The front of the head bearing features |
 | `milau` | drink | bodily act of receiving liquid |
 | `milura` | milk | The drink before all others |
@@ -1084,6 +1091,7 @@
 | `nuwi` | clear | Without obstruction |
 | `palo` | touch | Tactile contact and sensation |
 | `paloi` | foot | the body member contacting earth |
+| `palowe` | shoe | Between foot and road |
 | `panoru` | support | Holding up, bearing weight |
 | `peki` | squeeze | Pressure brought inward |
 | `pelio` | arm | Upper limbs for reaching and working |
@@ -1099,6 +1107,7 @@
 | `pheno` | full | Containing maximum |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
+| `phitura` | well (water) | Water at the end of effort |
 | `phoa` | do | performing actions and activities |
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phuwai` | lung | Respiratory organs within the chest |
@@ -1190,6 +1199,7 @@
 | `whelina` | grass | Low-growing vegetation |
 | `whesu` | blow | Moving air with breath or weather |
 | `whila` | hair | Fine body covering that grows and flows |
+| `whilaru` | comb | Teeth that untangle |
 | `whinu` | smell | Olfactory perception |
 | `whoa` | whole | bodily and tangible completeness |
 | `whunei` | breath | Air cycle sustaining life |
@@ -1198,9 +1208,10 @@
 | `wirua` | wet | the state of moisture presence |
 | `wishe` | swim | Motion through water |
 | `wolu` | healthy | Good condition |
+| `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | Yielding texture |
 
-## ritual (36)
+## ritual (37)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1213,6 +1224,7 @@
 | `lumeo` | die | The event around which mourning gathers |
 | `maewo` | threshold | Liminal space |
 | `meilo` | sit | ceremonial significance in meditation, councils, and traditional gatherings |
+| `meilopa` | seat | What receives the practice |
 | `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | Devotional act |
 | `nelu` | revere | Honoring practice |
@@ -1241,7 +1253,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breath | Central to meditation practice |
 
-## spatial (122)
+## spatial (124)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1274,6 +1286,7 @@
 | `lonai` | width | Horizontal extent |
 | `lorea` | connect | bridges separate points into unified relationship |
 | `losha` | wide | Horizontal extension |
+| `luphonu` | boat | The water's vehicle |
 | `maewo` | threshold | Crossing point |
 | `meilo` | sit | establishes presence in a specific location, transforming space into place |
 | `menui` | dwell | relationship between being and place |
@@ -1327,6 +1340,7 @@
 | `shuna` | edge | Outer limit |
 | `shupi` | plateau | High level ground |
 | `shuroa` | shelter | Protective space |
+| `silawo` | village | The human-scale settlement |
 | `siru` | marker | Position indicator |
 | `soki` | settle | Establishing dwelling place |
 | `sorui` | circle | Round form |

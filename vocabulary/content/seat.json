@@ -1,0 +1,26 @@
+{
+  "word": "meilopa",
+  "gloss": "seat",
+  "ipa": "/me̞.i.ˈlo̞.pä/",
+  "syllables": [
+    "me",
+    "i",
+    "lo",
+    "pa"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Seat / The Sit-Thing",
+  "description": "The seat: chair, stool, bench, cushion — whatever is made for sitting. The whole verb 'meilo' (sit) is inside it, finished with 'pa', so a learner reads it the way 'katiru' reads from 'kati': the verb become furniture.",
+  "sound_symbolism": "'meilo' arrives intact and 'pa' puts a surface under it. The word is the action given somewhere to land.",
+  "grammatical_notes": "Noun: 'mia mua meilopa meilo.' (I sit on the seat.) 'miona meilopa whea.' (The person makes a seat.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "The practice is called sitting, and this is what receives it. A cushion in a quiet corner is 'meilopa' in its oldest job.",
+    "pre-industrial-wisdom": "The stool by the fire, the bench by the door: seats accumulated where the work and the talk were, and mapped both."
+  },
+  "tags": {
+    "physical": "Made for sitting",
+    "ritual": "What receives the practice"
+  }
+}
