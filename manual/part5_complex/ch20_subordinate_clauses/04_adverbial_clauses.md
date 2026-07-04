@@ -4,7 +4,7 @@ Adverbial clauses provide context for the main clause: when something happened, 
 
 `[subordinator] [dependent clause] [main clause]`
 
-The subordinator announces the relationship. The dependent clause fills it in. The main clause delivers the primary thought. Context before content, as always.
+The subordinator announces the relationship, the dependent clause fills it in, and the main clause delivers the primary thought.
 
 ## Time: `pheo` and `phoe`
 

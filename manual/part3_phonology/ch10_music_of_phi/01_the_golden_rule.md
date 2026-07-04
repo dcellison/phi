@@ -6,11 +6,11 @@ If you learn nothing else about Phi pronunciation, learn this: **adjacent vowels
 
 In most languages, when two vowels meet, they blend. English "coin" merges two vowel sounds into one syllable. Spanish allows diphthongs like "bueno" where vowels glide together. Phi forbids this entirely.
 
-Every vowel in Phi gets its own syllable. Every vowel maintains its individual character. The space between vowels isn't silence; it's the sonic equivalent of white space in visual design, giving each element room to breathe.
+Every vowel in Phi gets its own syllable. Every vowel maintains its individual character. The space between vowels isn't silence; it's space the sound needs, giving each element room to breathe.
 
 ## The principle of syllabic independence
 
-When you see two vowels in a row in Phi, pronounce them as two separate syllables with a clean break between them. No blending, no gliding, no compromise.
+When you see two vowels in a row in Phi, pronounce them as two separate syllables with a clean break between them. No blending. No gliding.
 
 Use a dot to visualize syllable breaks:
 
@@ -25,9 +25,8 @@ The pause between vowels should be small but definite, just enough to maintain d
 
 ## Why hiatus matters
 
-This rule reflects Phi's commitment to clarity and transparency. Each vowel represents a complete thought, a moment of expression that deserves its space. Blending would compromise that integrity.
+This rule reflects Phi's commitment to clarity and transparency. Blending would compromise that integrity.
 
-Think of each syllable as a pearl. The hiatus rule is the thread that holds each one in precise relationship to its neighbors. The result isn't a jumble of separate sounds but a single elegant sequence, a word that flows with deliberate grace.
 
 Consider `lothea` (love), pronounced `lo.the.a`. Its last two syllables meet at a vowel border: the **e** of `the` and the open **a**, each sounded fully, with a clean break between them. That break is the hiatus — small, deliberate, and never smoothed over.
 

@@ -34,7 +34,7 @@ Over time, this practice shapes thought patterns. Speakers become more attuned t
 Consider a disagreement about what happened at an event:
 
 **Speaker A:** Shia to hi wepu. — They left (I saw them go).  
-**Speaker B:** Mia to ke nila, shia to ma wepu. — I infer they didn't leave.  
+**Speaker B:** Mia ke sano. Shia to ma wepu. — I reason otherwise. They didn't leave.  
 **Speaker A:** Thia hina ke nila? — What did you infer from?  
 **Speaker B:** Mia shia wiru to nila. — I saw their basket.
 

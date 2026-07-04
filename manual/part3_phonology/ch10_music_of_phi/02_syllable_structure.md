@@ -1,64 +1,34 @@
 # Syllable structure
 
-## Open and flowing
+Every syllable in Phi ends with a vowel. This one rule creates the language's open, flowing character — and, as you'll see below, the shape of a word tells you what kind of word it is.
 
-Every syllable in Phi ends with a vowel. This simple rule creates the language's open, flowing character.
+The formula is **(C)CV**: an onset followed by one vowel. The onset is either a single consonant (*ma*, *ke*, *lo*) or one of the four digraphs, which count as single consonants and fill both consonant slots of the formula (*tho*, *she*, *phe*). There are no other options — no consonant clusters, no closed syllables, no final consonants anywhere in the language.
 
-The technical formula is **(C)V**, meaning each syllable consists of an optional consonant followed by a required vowel. That's it. No consonant clusters. No closed syllables. No final consonants.
+A syllable with no onset at all — a bare vowel — occurs in exactly one situation: as the second vowel of a hiatus pair inside a word, like the final *a* of `she.a` or the *u* and *i* of `she.lo.mu.i`. **Words themselves always begin with a consonant.** There are no vowel-initial words in Phi.
 
-| Pattern | Example | Word |
-|---------|---------|------|
-| V | a, i, o | single vowels |
-| CV | she, lo, mu | consonant + vowel |
-
-This structure appears across Polynesian languages (Hawaiian, Māori, Samoan), Japanese, and many others. If you've heard Hawaiian place names or Japanese words, you've heard this pattern.
-
-## Why open syllables matter
-
-Open syllables create several effects:
-
-**Flow**: without consonant endings, syllables connect smoothly. Each vowel releases naturally into the next sound.
-
-**Clarity**: every syllable boundary falls before a consonant or between vowels. There's no ambiguity about where one syllable ends and another begins.
-
-**Accessibility**: speakers of languages with complex consonant clusters (English, German, Polish) can simplify. Speakers of syllable-timed languages will feel at home immediately.
-
-**Rhythm**: the consistent V or CV pattern creates a regular pulse. Phi words have natural musicality.
+This open-syllable pattern is the same one that gives Hawaiian, Māori, and Japanese their fluid sound. Without final consonants, syllables release into each other; boundaries always fall in predictable places; and speakers from cluster-heavy languages (English, German, Polish) get to simplify rather than struggle.
 
 ## Syllable boundaries
 
-Because syllables must end in vowels, boundaries fall predictably:
+Boundaries fall before each consonant and between adjacent vowels:
 
-- Before any consonant: `lo.the.a` (love)
-- Between adjacent vowels: `she.a` (peace)
-- Before digraphs: `tho.ma.ri` (courage)
-
-Digraphs (ph, th, sh, wh) count as single consonants, so they stay together:
-
-| Word | Syllabification | Reason |
-|------|-----------------|--------|
-| `lothea` | lo.the.a | th stays together |
+| Word | Syllabification | Note |
+|------|-----------------|------|
+| `lothea` | lo.the.a | th stays together; e.a is hiatus |
 | `phelora` | phe.lo.ra | ph stays together |
-| `thesua` | the.su.a | th stays together |
-| `shelira` | she.li.ra | sh stays together |
+| `thesua` | the.su.a | u.a is hiatus |
+| `thomari` | tho.ma.ri | courage, three even steps |
 
-## Counting syllables
+Counting syllables is therefore trivial: count the vowels. `shelomui` (understand) has four vowels — e, o, u, i — so four syllables: `she.lo.mu.i`.
 
-With this system, counting syllables is simple:
+## Two more word-level rules
 
-1. Count the vowels
-2. That's your syllable count
+Two constraints operate on whole words, and both matter for reading Part IV comfortably.
 
-The word `shelomui` (understand) has four vowels (e, o, u, i), so it has four syllables: `she.lo.mu.i`.
+**No syllable repeats within a word.** `kala` is a possible Phi word; `kaka` is not. This keeps every word internally varied — nothing in the lexicon stutters.
 
-The word `shea` (peace) has two vowels (e, a), so two syllables: `she.a`.
+**Word shape signals word class.** This is the structural rule that will pay off most: a single CV syllable (`mia`-sized pieces like `to`, `lo`, `wa`, `ma`) is always a grammatical particle or a base numeral — never a content word. Two-syllable CV.V shapes (`mia`, `mua`, `sheo`) are pronouns, prepositions, and scale units. Content words — nouns, verbs, adjectives — are always longer. When you hear a Phi sentence, the small words are the grammar and the long words are the meaning, and you can sort them by ear before you know what any of them mean. Keep this in your pocket for Part IV: it is the reason particle grammar is learnable at conversational speed.
 
-This predictability makes Phi easy to parse even for beginners.
+## The sound of it
 
-## The sound of openness
-
-Open syllables give Phi its characteristic texture: gentle, continuous, unobstructed. The language never hits hard stops or consonant tangles. It flows like water over smooth stones.
-
-This isn't just aesthetic. The openness reflects Phi's philosophy. A language designed for peace should sound peaceful. A language built for clarity should have transparent structure.
-
-When you speak Phi, you're not forcing breath through obstructions. You're releasing it, syllable by syllable, into open space.
+Open syllables give Phi its texture: no hard stops mid-word, no consonant tangles, breath released rather than blocked, syllable by syllable. A language designed for ease of listening turns out, not accidentally, to be designed for ease of speaking too.

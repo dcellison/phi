@@ -6,7 +6,7 @@ Most languages allow speakers to make claims without specifying how they know wh
 
 Phi makes this explicit. The evidentiality system provides particles that mark the source of the speaker's knowledge. When you claim something in Phi, you can also signal how you came to know it.
 
-This isn't just grammatical machinery. It's a practice of epistemic humility. By marking your knowledge source, you acknowledge that what you know has limits, that your perspective is partial, and that others might know differently.
+It is a practice of epistemic humility, made grammatical. By marking your knowledge source, you acknowledge that what you know has limits, that your perspective is partial, and that others might know differently.
 
 ## The four evidential particles
 
@@ -31,16 +31,4 @@ Use evidentials when:
 
 The choice to include or omit evidentials is itself communicatively meaningful. Marking evidentiality signals care for accuracy; omitting it signals confidence or simplicity.
 
-## Why evidentiality matters for peace
-
-The evidentiality system serves Phi's peace-oriented philosophy in several ways:
-
-**It reduces false certainty.** When speakers must mark their knowledge source, they become aware of what they don't actually know firsthand. This reduces the arrogance of speaking as if personal belief were universal truth.
-
-**It builds trust.** Listeners can calibrate their response based on how the speaker knows. A claim marked with *hi* (direct witness) carries different weight than one marked with *ti* (hearsay).
-
-**It encourages accountability.** The system makes speakers responsible for their epistemology. You can't hide behind vague assertions; the grammar asks you to own your knowledge.
-
-**It models intellectual honesty.** Regular practice with evidentials trains speakers in the habit of distinguishing what they know from what they assume, what they witnessed from what they heard.
-
-The following sections explore each evidential particle in detail.
+The four sections that follow take each particle in turn; the chapter closes with why this system exists at all — what marking your knowledge does to a disagreement, and to a mind.

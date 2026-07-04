@@ -1,6 +1,7 @@
-# The Phi Language Book — Proposed Reorganization
+# The Phi Language Manual — Outline
 
-*A complete, accessible, authoritative guide*
+*A complete, accessible, authoritative guide. This outline reflects the
+manual as it exists; update it whenever chapters change.*
 
 ---
 
@@ -9,14 +10,13 @@
 *Ground the reader in purpose, then let them experience the language.*
 
 ### Chapter 1: Why a New Language?
-1. The Invisible Architecture of Thought
-2. Cracks in the Foundation
-3. The Language Laboratory
-4. What Phi Attempts — and What It Doesn't
-5. How to Use This Book
+1. The Invisible Architecture of Thought (and the Cracks in It)
+2. The Language Laboratory
+3. What Phi Attempts — and What It Doesn't
+4. How to Use This Book
 
 ### Chapter 2: Your First Words in Phi
-1. What Phi Sounds Like (with examples)
+1. What Phi Sounds Like
 2. Your First Sentence: "Mia thia lothea" (I love you)
 3. The Music of Vowel Hiatus
 4. Ten Essential Words to Start
@@ -26,43 +26,31 @@
 
 ## Part II: The Soul of Phi — Philosophy
 
-*The deep "why" — preserved in full, now that readers have tasted the language.*
+*The deep "why" — now that readers have tasted the language.*
 
 ### Chapter 3: The Five Pillars of Wisdom
-1. Introduction: Integration, Not Eclecticism
-2. Solarpunk Values — Radical Optimism
-3. Buddhist Concepts — Mindfulness as Grammar
-4. Art Nouveau Aesthetics — Beauty as Function
-5. Peace Linguistics — The Grammar of Nonviolence
-6. Pre-Industrial Wisdom — Natural Prototypes
+1. Solarpunk Values — Radical Optimism
+2. Buddhist Concepts — Mindfulness as Grammar
+3. Art Nouveau Aesthetics — Beauty as Function
+4. Peace Linguistics — The Grammar of Nonviolence
+5. Pre-Industrial Wisdom — Natural Prototypes
 
 ### Chapter 4: The Philosophy of Sound
-1. Introduction
-2. Sound as Embodied Philosophy
-3. The Acoustic Ethics of Peace
-4. The Sacred Correspondence
-5. The Practice of Conscious Speech
+1. Sound as Practice
 
 ### Chapter 5: The Philosophy of Meaning
-1. Introduction
-2. The Living Web — Mycelial Vocabulary
-3. Sound as Symbol
-4. Words as Seeds
-5. The Art of Linguistic Gardening
+1. The Living Web
+2. Sound as Symbol
 
 ### Chapter 6: The Philosophy of Grammar
-1. Introduction
-2. From Reaction to Reflection
-3. The Three Pillars of Structure
-4. Building Thoughts Like Architecture
-5. Grammar as Contemplative Practice
+1. From Reaction to Reflection
+2. The Three Slots
 
 ### Chapter 7: The Social Philosophy of Language
-1. Introduction
-2. Respect Without Hierarchy
-3. Conversation as Collaboration
-4. The Ethics of Communication
-5. Building Bridges Across Difference
+1. Respect Without Hierarchy
+2. Conversation as Collaboration
+3. The Ethics of Communication
+4. Building Bridges Across Difference
 
 ### Chapter 8: The Philosophy of Learning
 1. Introduction
@@ -79,14 +67,14 @@
 
 ### Chapter 9: The Sound Inventory
 1. Introduction: A Limited Palette, Infinite Expression
-2. The Five Vowels — Presence, Balance, Insight, Harmony, Grounding
+2. The Five Vowels
 3. The Ten Consonants
-4. The Four Fricative Digraphs — Doorways to Abstraction
-5. IPA Reference and Pronunciation Guide
+4. The Four Fricative Digraphs
+5. IPA Reference
 
 ### Chapter 10: The Music of Phi
 1. The Golden Rule: Vowel Hiatus
-2. Syllable Structure — Open and Flowing
+2. Syllable Structure — Open, Flowing, and Class-Signaling
 3. The Rhythm of Penultimate Stress
 4. Common Pronunciation Pitfalls
 5. Exercises: Hearing and Speaking Phi
@@ -101,25 +89,25 @@
 1. Introduction: Transparent Signposts
 2. The Three Slots Explained
 3. Slot 0: Framing Intention (wa, no, lu, su, pi)
-4. Slot 1: Shaping the Verb (tense, aspect, voice, modality, evidentiality, negation)
+4. Slot 1: Shaping the Verb (tense, aspect, voice, evidentiality, modality, negation)
 5. Slot 2: Refining Words (plural, deixis, focus, comparison, honorifics)
 6. How Particles Combine
 
 ### Chapter 12: The Mindful Sentence
-1. Introduction: Verb-Final as Philosophy
+1. Introduction: The Verb Comes Last
 2. The SOV Worldview — Context Before Action
-3. Building Your First Sentences
-4. The Head-Final Principle — Modifiers First
+3. The Modifier-First Principle
+4. Building Your First Sentences
 5. Questions, Requests, and Conditions
 6. Exercises: Constructing Mindful Sentences
 
 ### Chapter 13: Nouns and Their World
 1. Introduction: Things and Beings
 2. The Zero-Article System
-3. Expressing Possession — Possessor Before Possessed
-4. Descriptors and Quantifiers
-5. The Classifier System (himo, lipha, themo, nophe)
-6. Plural Marking with 'lo'
+3. Plural Marking with 'lo'
+4. The Classifier System (himo, lipha, themo, nophe)
+5. Descriptors and Quantifiers
+6. Expressing Possession — Possessor Before Possessed
 
 ### Chapter 14: Pronouns and Reference
 1. The Core Pronouns (mia, thia, shia)
@@ -132,20 +120,15 @@
 1. Introduction: The Unmarked Present
 2. Past 'to' — Completed Events
 3. Future 'so' — Possibility and Intention
-4. Aspect: The Texture of Time
-   - Imperfective 'si' — Ongoing Action
-   - Perfective 'ki' — Completed with Relevance
-   - Inchoative 'pa' — Beginning
-   - Habitual 'ro' — Repeated Action
-   - Cessative 'te' — Ending Action
+4. Aspect: The Texture of Time (si, ki, pa, te, ro)
 5. Combining Tense and Aspect
 
 ### Chapter 16: Voice and Possibility
-1. The Passive 'se' — De-escalation and Focus
-2. The Causative 'ka' — Chains of Influence
-3. Possibility 'po' — Epistemic Humility
-4. Necessity 'na' — Logical Requirement
-5. Negation 'ma' — Gentle Denial
+1. The Passive 'se'
+2. The Causative 'ka'
+3. Possibility 'po'
+4. Necessity 'na'
+5. Negation 'ma' (including modal negation and the need-not periphrasis)
 
 ### Chapter 17: Evidentiality — Knowing How We Know
 1. Introduction: Epistemic Humility as Grammar
@@ -162,31 +145,31 @@
 *Combining simple elements into sophisticated expression.*
 
 ### Chapter 18: Coordination and Contrast
-1. Simple Conjunction 'nela' — Harmonic And
-2. Contrast 'thona' — Balanced But
-3. Alternative 'sola' — Open Or
+1. Simple Conjunction 'nela'
+2. Contrast 'thona'
+3. Alternative 'sola'
 
 ### Chapter 19: Discourse Flow
 1. Introduction: Guiding the Listener
-2. Consequence 'thelao' — Therefore
-3. Contrast 'kewai' — However
-4. Addition 'sheno' — Furthermore
-5. Example 'phisu' — For Instance
-6. Other Discourse Markers
+2. Consequence and Contrast (thelao, kewai)
+3. Addition and Example (sheno, phisu)
+4. Other Discourse Markers
 
 ### Chapter 20: Subordinate Clauses
 1. Introduction: Sentences Within Sentences
-2. Complement Clauses — Thoughts as Objects
-3. Reported Speech with 'shola'
-4. Indirect Questions with 'wela'/'welo'
-5. Adverbial Clauses — Time, Purpose, Concession
+2. Complement Clauses (mena/meno, wela/welo)
+3. Speech: Quotation and Report (shola/sholo)
+4. Adverbial Clauses — Time, Cause, Concession
 
 ### Chapter 21: Relative Clauses
 1. Introduction: Describing Within
 2. The Relativizer 'rena'
 3. Headed Relative Clauses
 4. Headless Relative Clauses
-5. Exercises: Complex Descriptions
+
+*(There is no chapter 22. A planned nominalization chapter was retired:
+Phi's analytic grammar lets words serve as nouns without derivation, so
+the topic dissolved into chapters 13 and 21 and the glossary.)*
 
 ---
 
@@ -220,61 +203,21 @@
 
 ## Part VII: Reference
 
-### Quick Reference Grammar
-- Particle Chart (All Three Slots)
-- Sentence Structure Templates
-- Common Patterns
-
-### The Complete Lexicon
-- Alphabetical Word List
-- By Semantic Domain
-- By Part of Speech
-
-### Sample Texts
-- Simple Dialogues
-- Short Stories
-- Philosophical Passages
-- Poetry
-
-### The Writing System *(if developed)*
-- Introduction to Phi Script
-- Character Reference
-- Writing Practice
+- Quick Reference Grammar — the whole system on one page
+- The Complete Lexicon — alphabetical, by domain, by part of speech
+  (generated from the vocabulary JSON; never edited by hand)
+- Sample Texts — dialogues, the Bashō transmutation, and the two
+  complete texts: *lothea thole* (the Metta Sutta) and
+  *nitho howeli nela sorae* (The North Wind and the Sun)
+- The writing system section is omitted: the glyph proposal in
+  `documents/writing-system/` has not been developed. Phi is written
+  in its romanization.
 
 ---
 
 ## Appendices
 
-### Appendix A: Glossary of Linguistic Terms
-### Appendix B: Comparison with Natural Languages
-### Appendix C: The History of Phi's Development
-### Appendix D: Resources for Further Study
-
----
-
-# Summary of Changes
-
-**Structural changes:**
-1. **New Part I "First Light"** — Taste the language in Chapter 1 before any philosophy
-2. **Unified Particle System chapter** — All particles explained together before being used
-3. **Separate Phonology part** — Sound deserves its own focused section
-4. **Evidentiality gets its own chapter** — This is important enough to stand alone
-5. **Expanded Mastery section** — Transmutation gets a full chapter with case studies
-6. **Comprehensive Reference part** — Everything a learner needs in one place
-
-**Content additions:**
-- Chapter 1: Immediate taste of the language
-- Chapter 11: Unified particle system overview
-- Chapter 14: Dedicated pronouns chapter
-- Chapter 17: Evidentiality as full chapter
-- Chapter 25: Living in Phi (practical daily use)
-- Writing system placeholder
-- Comparison with natural languages
-- History of Phi's development
-
-**Philosophy preserved:**
-- All 6 philosophy chapters retained (now Chapters 3-8)
-- Philosophy comes right after the "taste" — still central to the book
-- Chapter order within philosophy unchanged
-
-**Total: 25 chapters + Reference + Appendices**
+- Appendix A: Glossary of Linguistic Terms
+- Appendix B: Comparison with Natural Languages
+- Appendix C: The History of Phi's Development
+- Appendix D: Resources for Further Study

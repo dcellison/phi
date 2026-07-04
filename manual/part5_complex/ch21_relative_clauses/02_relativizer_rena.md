@@ -4,7 +4,7 @@ The word `rena` announces that what follows is a descriptive clause. It function
 
 ## Sound and meaning
 
-The `r` in `rena` rolls and connects, stitching clauses together like a needle through fabric. The neutral `e` maintains clarity through the connection. The grounding `na` anchors the description to whatever noun follows. Speaking `rena` feels like opening a descriptive space, creating room for a situation to unfold before settling on what it describes.
+The rolling `r` connects; the grounding `na` anchors what follows. `rena` opens a descriptive space and holds it open until the head noun closes it — which is also exactly what it does grammatically.
 
 ## Position and structure
 

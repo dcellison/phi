@@ -14,19 +14,11 @@ The grammar is tangled inside the verb phrase. To understand the sentence, you m
 **Phi**: `Mia to si se po nila.`  
 Each grammatical element is a separate particle: past (*to*), ongoing (*si*), passive (*se*), possibility (*po*). You encounter each piece of information before the verb (*nila*, "see") ever arrives.
 
-This isn't just cleaner syntax. It's a philosophy. When grammar becomes visible, you become conscious of the choices you're making. Every sentence requires you to decide: Is this past or present? Direct knowledge or inference? Certain or possible? The particles force these questions into awareness.
+The visibility is the point. When grammar becomes audible, the choices inside it become conscious: is this past or present? Direct knowledge or inference? Certain or merely possible? English lets you speak without ever deciding. Phi's particles put the decisions where you can hear yourself making them — *mia hi nila* ("I see, witnessed") is a different claim from *mia ho nila* ("I see, I assume"), and the difference costs exactly one syllable.
 
 ## Why particles matter
 
-The particle system serves several purposes in Phi:
-
-**Transparency.** Nothing is hidden. When you hear a particle, you know exactly what it signals. There are no irregular conjugations to memorize, no exceptions to learn. The system is consistent and learnable.
-
-**Consciousness.** Because you must choose particles explicitly, you become aware of what you're claiming. Saying *mia hi nila* ("I see, directly witnessed") is different from *mia ho nila* ("I see, I assume"). The grammar makes you accountable for your knowledge claims.
-
-**Modifier-first principle.** Particles appear before what they modify. This means context arrives before content. You know a sentence is a question before you hear what's being asked. You know an action is past before you learn what happened. This front-loading of context supports mindful listening.
-
-**Composability.** Particles combine in predictable ways. Once you learn the individual particles, you can stack them to express precise meanings. The system is modular rather than monolithic.
+Everything else the system offers follows from that visibility. Because particles never change form, there is nothing irregular to memorize — hear a particle, know its meaning, always. Because they stand before what they modify, context arrives ahead of content: you know a sentence is a question before you hear what is asked, know an action is past before you learn what happened. And because they combine in fixed, predictable ways, learning the individual pieces is learning the whole machine. It is modular grammar, and the modules are one syllable each.
 
 ## The three slots
 
