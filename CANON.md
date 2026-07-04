@@ -49,6 +49,14 @@ These were explicitly decided and should not silently fork again:
   (good), `towe` (well), `phelora` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
 - **Punctuation**: periods only in Phi text; no commas.
+- **Refused by design** (settled 2026-07): gendered person-words
+  (woman/man) do not exist and will not — distinguishing genders
+  anywhere in the language would exclude people outside the binary;
+  `miona` (person), `telu` (partner), `phao` (parent) carry the load
+  equally for everyone. Also refused: *hunt*; generic *bad* (things
+  are harmful, broken, or unwell — never simply "bad"); *blade* as
+  weapon-part (knife exists only as a kitchen/craft tool);
+  *marriage* as institution (`telu`, partner, suffices).
 - **Classifiers** (settled 2026-07): four only (himo/lipha/themo/nophe),
   always optional. Nature-now rule: living parts of living beings take
   `lipha`; time units and events take `nophe`; `themo` is for detached
