@@ -195,7 +195,7 @@
 *Advanced usage, social nuance, and true fluency.*
 
 ### Chapter 23: Social Context and Nuance
-1. The Vocative 'ko' — Calling with Care
+1. The Vocative 'kona' — Calling with Care
 2. Politeness 'pi' — Softening with Grace
 3. The Honorific System (sa, ni, le)
 4. Register and Formality

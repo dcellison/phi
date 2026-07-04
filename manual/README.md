@@ -17,7 +17,7 @@ A beautifully bound physical tome that embodies Phi aesthetics — the definitiv
 | III | Phonology | 9-10 | ✅ Drafted (`part3_phonology/`) |
 | IV | Grammar | 11-17 | ✅ Drafted (`part4_grammar/`) |
 | V | Complex Structures | 18-21 | ✅ Drafted (`part5_complex/`) |
-| VI | Mastery | 23-25 | 🔲 Not started |
+| VI | Mastery | 23-25 | 🔶 In progress (ch24 drafted) |
 | VII | Reference | — | 🔲 To be generated |
 
 The original `/book/` manuscript this manual replaced is preserved at
