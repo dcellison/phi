@@ -84,6 +84,35 @@ twice a section, no emoji.
 the one thing the reader should walk away holding — stated once,
 cleanly, and then the door.
 
+## The lexicon register
+
+Vocabulary entries are not manual prose; they are reference entries,
+and they have their own register. The rules above apply, plus:
+
+**Description**: defines the word's actual range of use in two to
+four sentences — what it covers, what it does not, what neighbors it
+has. Concrete situations beat abstract praise. If the word belongs to
+a family or replaced an earlier form, say so.
+
+**Sound symbolism**: describes only sounds the word actually
+contains, named accurately (a word with `th` has /θ/, not 't'). The
+job is to show how this word's real phonemes carry its meaning — not
+to prove that every word is perfect. Two to three sentences; if the
+sounds are honestly unremarkable, say less rather than inventing.
+
+**Grammatical notes**: at least one worked example using only real
+vocabulary in valid grammar (SOV, correct slot order, predicate
+before nai, periods not commas). Name related words and genuine
+contrasts. This field is load-bearing reference, not commentary.
+
+**Pillars**: each rationale must say something true about THIS word —
+the test is whether the sentence would be false if pasted into a
+different entry. Two pillars is the norm; five suggests padding.
+
+**Never in an entry**: "beautifully," "perfectly embodies,"
+"reminds us," rhetorical questions, or philosophy that repeats what
+CLAUDE.md already says. The entry's philosophy is in its specifics.
+
 ## The test
 
 Read the section aloud. If it sounds like a brochure, cut the
