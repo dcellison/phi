@@ -35,6 +35,13 @@ These were explicitly decided and should not silently fork again:
   (CESS), `ro` (HAB). There is no `tha`.
 - **Slot 1 order**: Tense > Aspect > Voice > Evidentiality > Modality >
   Negation. The order is fixed; negation scope does not move `ma`.
+  There are no exceptions to established rules — ever.
+- **Modal negation** (settled 2026-07): `po ma V` = cannot (possibility
+  denied); `na ma V` = must not (necessity of refraining). "Need not"
+  (absence of obligation) is not expressed by reordering; it uses the
+  freedom periphrasis: `S lila V ralu nai` — "S is free as to V-ing"
+  (`thia lila wepu ralu nai`, you need not go). Absence of obligation
+  is stated as presence of freedom.
 - **Conditionals**: `lu` (realis) and `lu he` (irrealis), Slot 0 only.
   The conjunction `thoe` is retired.
 - **`wela`/`welo`** is the interrogative complementizer pair. The old

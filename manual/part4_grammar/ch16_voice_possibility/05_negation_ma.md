@@ -39,7 +39,13 @@ Two combinations matter, and both keep `ma` in its final slot:
 
 English works the same way, as it happens: *can't* denies the possibility, *must not* requires the not-doing. The surface order is identical; the modal decides which way the negation cuts, and context has never once left a Phi speaker confused about whether they were forbidden or merely unable.
 
-(The third meaning — "need not," the absence of obligation — is currently expressed by simply not asserting `na`, or by rephrasing: `thia po wepu. thia po thalu.` "You may go; you may stay." A dedicated form is an open design question.)
+**Need not** — the absence of obligation — is the third meaning, and Phi refuses to express it by shuffling the particles: the order is fixed, and Phi makes no exceptions to its own rules. Instead the language does something more characteristic. It states the absence of obligation as the presence of freedom:
+
+> **thia lila wepu ralu nai**
+> 2SG PURP go free be
+> "You are free as to going" — you need not go
+
+`lila` (as to, for the purpose of) frames the action; `ralu` (free) is the predicate. Where English says what is *not required*, Phi says what you *are*: free — in both directions, to go or to stay. The periphrasis is longer than a particle, and that is fine. Freedom deserves the extra breath.
 
 ## What every no affirms
 

@@ -262,6 +262,13 @@ mia so ki po ma shelomui
 (I will not be able to have understood.)
 ```
 
+**Modal negation conventions** (order is always modal-then-`ma`):
+- `po ma V` — cannot (the possibility is denied)
+- `na ma V` — must not (the necessity is to refrain)
+- "Need not" (absence of obligation) is never expressed by reordering.
+  Use the freedom periphrasis: `S lila V ralu nai` — "S is free as to
+  V-ing": `thia lila wepu ralu nai` (you need not go).
+
 ### Stacking Example
 
 When multiple Slot 1 particles combine, they follow strict ordering:

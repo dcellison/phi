@@ -18,6 +18,7 @@ One page of the whole system. Details: `documents/grammar/`; authority order: `/
 | Imperative | no + predicate | `no lumani naphe.` (Help the family.) |
 | Conditional | lu A. B | `lu thia naphe. mia towe phaelo.` (If you help, I feel well.) |
 | Wish | su + statement | `su sila towe nai.` (May the community be well.) |
+| Need not | S lila V ralu nai | `thia lila wepu ralu nai.` (You need not go.) |
 
 Periods only — Phi uses no commas. Topic-drop: an established subject may be omitted.
 
