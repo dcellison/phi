@@ -8,13 +8,12 @@
     "ka"
   ],
   "pos": [
-    "verb",
-    "noun"
+    "verb"
   ],
   "concept": "Repair / Fix / Restore Function",
   "description": "To restore something to working condition by fixing what is broken or worn. 'Shiroka' emphasizes the technical work of identifying problems and implementing solutions—the diagnostic eye and skilled hand that return function to what had lost it.",
   "sound_symbolism": "The word begins with 'shi' /ʃi/, the focused attention of examination—what needs fixing? The high 'i' locates the problem precisely. Then 'ro' rolls into action, work underway. Finally 'ka' concludes with velar completion, the repair finished, function restored.",
-  "grammatical_notes": "As verb: 'mia keli shiroka.' (I repair the device.) As noun: 'welao shiroka' (a good repair). Related to 'whori' (mend) but emphasizes technical restoration of function.",
+  "grammatical_notes": "'mia keli shiroka.' (I repair the device.) The result noun is licensed by the event-noun rule: 'welao shiroka' (a good repair). Related to 'whori' (mend) but emphasizes technical restoration of function.",
   "pillars": {
     "solarpunk-values": "Repair extends useful life, honors embedded energy and materials, builds practical skills. Repair cafes and skill-sharing embody this value.",
     "pre-industrial-wisdom": "When everything was made by hand, everything was repaired by hand. Repair knowledge was survival knowledge."

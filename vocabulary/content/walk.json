@@ -7,13 +7,12 @@
     "lo"
   ],
   "pos": [
-    "verb",
-    "noun"
+    "verb"
   ],
   "concept": "Walk / Mindful Journey on Foot",
   "description": "The human act of moving on foot, alternating steps carrying the body forward. Walking is the oldest form of human travel, needing nothing but the body, and it goes at a pace the walker chooses—slow enough to notice the ground and the way.",
   "sound_symbolism": "The word begins with 'tha', where the dental fricative 'th' creates a soft, continuous flow like feet brushing against earth—neither harsh impact nor complete separation, but the gentle friction of movement. This whispered beginning meets 'a', open and grounded like the stable stance between steps. The second syllable 'lo' flows liquid and continuous, the 'l' rolling forward like the perpetual motion of walking, while 'o' rounds out each step's completion. Together, 'thalo' creates a two-beat rhythm that mirrors the alternating footfalls of walking itself—soft contact, flowing continuation, the endless rhythm of human locomotion.",
-  "grammatical_notes": "Functions primarily as an intransitive verb requiring no object ('mia thalo' - I walk), but can take directional complements with prepositions ('mia wea womu thalo' - I walk toward home). As a noun, describes the activity or instance of walking; in a copular sentence the predicate precedes 'nai' ('thalo welao nai.' - walking is good). The same form serves both functions without morphological change, determined by syntactic position.",
+  "grammatical_notes": "An intransitive verb requiring no object ('mia thalo' - I walk); directional complements take prepositions ('mia wea womu thalo' - I walk toward home). The noun sense (a walk, walking) comes by the event-noun rule; in a copular sentence the predicate precedes 'nai' ('thalo welao nai.' - walking is good).",
   "pillars": {
     "solarpunk-values": "Walking as sustainable transportation aligns with solarpunk's vision of human-scale, car-free cities, though the connection is somewhat general - walking predates and transcends any specific environmental movement. Still, choosing to walk in our modern context is indeed a small act of resistance against fossil fuel dependence and a vote for walkable, community-oriented urban design.",
     "secular-buddhist-philosophy": "Walking meditation (kinhin) is a fundamental Buddhist practice where each step becomes an opportunity for mindfulness. The rhythm of walking naturally synchronizes with breath, creating a moving meditation that grounds us in the present moment. Each footfall teaches impermanence - the constant arising and passing of contact with earth. Walking shows us that the path itself is the destination.",

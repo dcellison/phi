@@ -57,7 +57,9 @@ rewriting examples. Recommend coining in two waves (A1: the first
 fourteen; A2: the rest).
 
 ### Batch B — body and bodily life
-**body** (the word itself!), **breathe** (verb; `whunei` is the noun),
+**body** (the word itself!), **breathe** (coined as `whunema`, later
+retired by the 2026-07 event-noun ruling: `whunei` is the verb and
+"a breath" is its rule-derived noun — see CANON.md),
 **fear, pain, sick/ill, hungry, thirsty, shame, bite, swallow, spit,
 sweat, tear (crying), cough, spine, thumb, fingernail, navel, liver,
 guts, fur**

@@ -64,6 +64,19 @@ These were explicitly decided and should not silently fork again:
   is retired. Subordinating conjunctions: pheo, phoe, lao, shai, lila.
 - **Embedded clauses** carry their own tense marking; closers
   (`meno`, `welo`, `sholo`) are required.
+- **The event-noun rule** (settled 2026-07): every verb licenses its
+  event/result noun with no change of form — `remo` is to think and a
+  thought, `thalo` to walk and a walk, `kati` to cut and a cut. This
+  is a grammar-level rule, not a per-word fact; entries do NOT list
+  "noun" in `pos` for this sense. A listed noun+verb `pos` therefore
+  always signals an idiosyncratic pairing that must be learned
+  (instrument `kiru`, role `phao`, phenomenon `pheralu`, substance
+  `keluo`, entity `haoni`) — see
+  `documents/EVENT_NOUN_ADJUDICATION.md` for the full audit. When a
+  counted event noun carries a classifier (always optional), it is
+  `nophe` (`ta nophe thalo`, one walk). `whunema` (breathe) is retired: `whunei` is the verb
+  breathe, and "a breath" is its rule-derived noun. The rule is
+  taught in manual ch15.
 
 ## Validation
 
