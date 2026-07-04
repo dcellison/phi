@@ -375,7 +375,7 @@
 | `nowhu` | cave | /ˈn̪o̞.ʍu/ | noun |
 | `nu` | ORD | /ˈn̪u/ | particle |
 | `nua` | COM | /ˈn̪u.ä/ | preposition |
-| `nuawe` | together | /n̪u.ˈä.we̞/ | adverb |
+| `nuawe` | together | /n̪u.ˈä.we̞/ | adjective |
 | `nuelo` | dark | /n̪u.ˈe̞.lo̞/ | adjective |
 | `nuhe` | sadness | /ˈn̪u.he̞/ | noun |
 | `nuhemi` | grieve | /n̪u.ˈhe̞.mi/ | verb |

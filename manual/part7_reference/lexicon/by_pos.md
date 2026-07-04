@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (177)
+## adjective (178)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -80,6 +80,7 @@
 | `nomi` | present | Present |
 | `nophei` | loyal | Loyal |
 | `noshi` | near (adj) | Near |
+| `nuawe` | together | Together |
 | `nuelo` | dark | Dark |
 | `nuko` | black | Black |
 | `nulo` | deep | Deep |
@@ -189,12 +190,6 @@
 | `wolu` | healthy | Healthy |
 | `wuero` | far (adj) | Far |
 | `wuloe` | soft | Soft |
-
-## adverb (1)
-
-| Word | Gloss | Concept |
-|---|---|---|
-| `nuawe` | together | Together |
 
 ## classifier (4)
 
