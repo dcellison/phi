@@ -105,9 +105,11 @@ vocabulary in valid grammar (SOV, correct slot order, predicate
 before nai, periods not commas). Name related words and genuine
 contrasts. This field is load-bearing reference, not commentary.
 
-**Pillars**: each rationale must say something true about THIS word —
-the test is whether the sentence would be false if pasted into a
-different entry. Two pillars is the norm; five suggests padding.
+**Pillars**: a word carries exactly the pillars that genuinely fit it —
+determined by the word itself, its meaning, its sound, its use. One
+pillar is fine; all five are fine. There is no target number. The
+quality bar is the paste-test: each rationale must say something true
+about THIS word that would be false pasted into a different entry.
 
 **Never in an entry**: "beautifully," "perfectly embodies,"
 "reminds us," rhetorical questions, or philosophy that repeats what
