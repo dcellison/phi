@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*881 words.*
+*888 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -216,6 +216,7 @@
 | `lunei` | moon | /lu.ˈn̪e̞.i/ | noun |
 | `lunoa` | month | /lu.ˈn̪o̞.ä/ | noun |
 | `lupho` | float | /ˈlu.ɸo̞/ | verb |
+| `luphonu` | boat | /lu.ˈɸo̞.n̪u/ | noun |
 | `luphore` | river | /lu.ˈɸo̞.re̞/ | noun |
 | `lurekoi` | fruit | /lu.re̞.ˈko̞.i/ | noun |
 | `luroi` | nervous | /lu.ˈro̞.i/ | adjective |
@@ -230,6 +231,7 @@
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
 | `mea` | thanks | /ˈme̞.ä/ | interjection |
 | `meilo` | sit | /me̞.ˈi.lo̞/ | verb |
+| `meilopa` | seat | /me̞.i.ˈlo̞.pä/ | noun |
 | `meliho` | sing | /me̞.ˈli.ho̞/ | verb |
 | `melira` | song | /me̞.ˈli.rä/ | noun |
 | `meloa` | persevere | /me̞.ˈlo̞.ä/ | verb |
@@ -393,6 +395,7 @@
 | `pai` | NEAR | /ˈpä.i/ | preposition |
 | `palo` | touch | /ˈpä.lo̞/ | verb, noun |
 | `paloi` | foot | /pä.ˈlo̞.i/ | noun |
+| `palowe` | shoe | /pä.ˈlo̞.we̞/ | noun |
 | `palu` | plate | /ˈpä.lu/ | noun |
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb, noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
@@ -463,6 +466,7 @@
 | `phiro` | elegant | /ˈɸi.ro̞/ | adjective |
 | `phisoe` | creative | /ɸi.ˈso̞.e̞/ | adjective |
 | `phisu` | EXMP | /ˈɸi.su/ | discourse |
+| `phitura` | well (water) | /ɸi.ˈt̪u.rä/ | noun |
 | `phoa` | do | /ˈɸo̞.ä/ | verb |
 | `phoe` | ANT | /ˈɸo̞.e̞/ | conjunction |
 | `phoemu` | midnight | /ɸo̞.ˈe̞.mu/ | noun |
@@ -622,6 +626,7 @@
 | `si` | IPFV | /ˈsi/ | particle |
 | `siheloa` | breeze | /si.he̞.ˈlo̞.ä/ | noun |
 | `sila` | community | /ˈsi.lä/ | noun |
+| `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |
 | `silero` | star | /si.ˈle̞.ro̞/ | noun, verb |
 | `siloma` | simple | /si.ˈlo̞.mä/ | adjective, noun |
@@ -858,6 +863,7 @@
 | `wheo` | elder | /ˈʍe̞.o̞/ | noun, adjective |
 | `whesu` | blow | /ˈʍe̞.su/ | verb |
 | `whila` | hair | /ˈʍi.lä/ | noun |
+| `whilaru` | comb | /ʍi.ˈlä.ru/ | noun |
 | `whilo` | white | /ˈʍi.lo̞/ | adjective |
 | `whinu` | smell | /ˈʍi.n̪u/ | verb, noun |
 | `whoa` | whole | /ˈʍo̞.ä/ | noun, adjective, verb |
@@ -886,6 +892,7 @@
 | `wolea` | wood | /wo̞.ˈle̞.ä/ | noun |
 | `wolu` | healthy | /ˈwo̞.lu/ | adjective |
 | `womu` | home | /ˈwo̞.mu/ | noun |
+| `wonepa` | table | /wo̞.ˈn̪e̞.pä/ | noun |
 | `woraka` | appreciate | /wo̞.ˈrä.kä/ | verb |
 | `woru` | keeper | /ˈwo̞.ru/ | noun |
 | `wuero` | far (adj) | /wu.ˈe̞.ro̞/ | adjective |

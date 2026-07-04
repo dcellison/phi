@@ -273,7 +273,7 @@
 | `weno` | INT.TIME | When |
 | `wia` | INT.Q | How Many |
 
-## noun (446)
+## noun (453)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -387,11 +387,13 @@
 | `lunai` | vision | Vision |
 | `lunei` | moon | Moon |
 | `lunoa` | month | Month |
+| `luphonu` | boat | Boat |
 | `luphore` | river | River |
 | `lurekoi` | fruit | Fruit |
 | `maewo` | threshold | Threshold |
 | `malomi` | balance | Balance |
 | `manuwe` | hand | Hand |
+| `meilopa` | seat | Seat |
 | `melira` | song | Song |
 | `melothe` | pond | Pond |
 | `melu` | friend | Friend |
@@ -473,6 +475,7 @@
 | `nuwoe` | stage | Stage |
 | `palo` | touch | Touch |
 | `paloi` | foot | Foot |
+| `palowe` | shoe | Shoe |
 | `palu` | plate | Plate |
 | `panoru` | support | Support |
 | `pawela` | participate | Participate |
@@ -513,6 +516,7 @@
 | `phiralea` | blossom | Blossom |
 | `phirenu` | snow | Snow |
 | `phireo` | plant | Plant |
+| `phitura` | well (water) | Well |
 | `phoemu` | midnight | Midnight |
 | `phoi` | nine-group | Nine-Unit |
 | `phoka` | lens | Lens |
@@ -587,6 +591,7 @@
 | `shuroa` | shelter | Shelter |
 | `siheloa` | breeze | Breeze |
 | `sila` | community | Community |
+| `silawo` | village | Village |
 | `sileo` | silk | Silk |
 | `silero` | star | Star |
 | `siloma` | simple | Simple |
@@ -711,6 +716,7 @@
 | `whemura` | dream | Dream |
 | `wheo` | elder | Elder |
 | `whila` | hair | Hair |
+| `whilaru` | comb | Comb |
 | `whinu` | smell | Smell |
 | `whoa` | whole | Whole |
 | `whola` | invite | Invite |
@@ -722,6 +728,7 @@
 | `wiru` | basket | Basket |
 | `wolea` | wood | Wood |
 | `womu` | home | Home |
+| `wonepa` | table | Table |
 | `woru` | keeper | Keeper |
 
 ## numeral (3)

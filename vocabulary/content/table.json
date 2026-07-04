@@ -1,0 +1,25 @@
+{
+  "word": "wonepa",
+  "gloss": "table",
+  "ipa": "/wo̞.ˈn̪e̞.pä/",
+  "syllables": [
+    "wo",
+    "ne",
+    "pa"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Table / The Meal's Flat",
+  "description": "The table: the flat surface the household gathers at. Built with the 'wo' of 'wolea' (wood) settling onto flat 'pa'. Meals, work, and talk all land here; it is the most social piece of wood in the house.",
+  "sound_symbolism": "'wo' carries the wood it is made of, 'ne' levels it, and 'pa' is the flat it offers. The stresses sit low and steady, like the thing.",
+  "grammatical_notes": "Noun: 'miona wonepa whea.' (The person makes a table.) 'nuora mua wonepa nai.' (The food is on the table.)",
+  "pillars": {
+    "peace-linguistics-practices": "The table is where the household faces itself daily. Most of a family's peace is negotiated across one.",
+    "pre-industrial-wisdom": "The board and trestle outlived every generation that ate at it. Households were counted by their table as much as by their roof."
+  },
+  "tags": {
+    "community": "Where the meal gathers",
+    "physical": "The social flat of the house"
+  }
+}

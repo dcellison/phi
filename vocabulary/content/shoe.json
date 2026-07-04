@@ -1,0 +1,24 @@
+{
+  "word": "palowe",
+  "gloss": "shoe",
+  "ipa": "/pä.ˈlo̞.we̞/",
+  "syllables": [
+    "pa",
+    "lo",
+    "we"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Shoe / The Foot's Cover",
+  "description": "The shoe: what goes between the foot and the road. Built on the 'palo' of 'paloi' (foot), plus soft 'we': the foot's own covering, sandal to boot.",
+  "sound_symbolism": "'palo' names the foot it serves and 'we' wraps it softly. The word ends gentler than it begins, which is what a good shoe does to a road.",
+  "grammatical_notes": "Noun: 'lopia wi palowe phelu.' (The child has two shoes.) 'miona palowe whea.' (The person makes shoes.)",
+  "pillars": {
+    "pre-industrial-wisdom": "Made to the wearer's own last, mended until there was nothing left to mend. A pair of shoes was a relationship with a maker, not a purchase."
+  },
+  "tags": {
+    "activity": "The walker's equipment",
+    "physical": "Between foot and road"
+  }
+}
