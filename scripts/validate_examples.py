@@ -136,7 +136,11 @@ def canonical_dump(data):
             continue
         value = data[key]
         if key == "pillars":
-            value = {k: value[k] for k in PILLAR_ORDER if k in value}
+            # canonical keys in canonical order, then any unknown keys
+            # (kept so the validator can flag them, never silently lost)
+            value = {k: value[k] for k in PILLAR_ORDER if k in value} | {
+                k: v for k, v in value.items() if k not in PILLAR_ORDER
+            }
         elif key == "tags":
             value = {k: value[k] for k in sorted(value)}
         ordered[key] = value

@@ -27,6 +27,15 @@ them; words inside a compound must all exist in the lexicon.
 | `sorae lumae` | sun's end | west | As above. |
 | `phelo loa` | give light | to shine | The sun does not perform at the world; it gives. Canonized from *The North Wind and the Sun*. |
 
+## Body
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `whalo thumai` | big finger | thumb | The thumb is exactly what the compound says; a coined label would hide the transparency. |
+| `mokura kesho` | belly-middle | navel | Anatomy by coordinates — the composition is the definition. |
+| `nolika whila` | animal hair | fur | `whila` (hair) generalized by its wearer; no new word needed. |
+| `mirae phialu` | eye-water | tears | The oldest kenning in human speech, and the truest; pairs with the coined verb `nuhewa` (weep). |
+
 ## Time
 
 | Compound | Literal | Meaning | Why compositional |

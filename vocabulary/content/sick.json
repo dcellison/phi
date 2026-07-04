@@ -1,0 +1,25 @@
+{
+  "word": "mokela",
+  "gloss": "sick",
+  "ipa": "/mo̞.ˈke̞.lä/",
+  "syllables": [
+    "mo",
+    "ke",
+    "la"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Sick / Ill / The Body Out of Accord",
+  "description": "Sick: the body out of its accord — fevered, weakened, unwell. The state 'nepha' (medicine), 'theala' (heal), and 'temoe' (tend) exist to answer. Its recovery-side companions: 'sunai' (health), 'wolu' (healthy).",
+  "sound_symbolism": "'mo' is the grounded body, 'ke' the catch where something has gone wrong, 'la' the settling into the state — illness as a place one is, temporarily.",
+  "grammatical_notes": "Predicative: 'lopia mokela nai.' (The child is sick.) 'mia mokela to nai.' (I was sick.) The caring question: 'wa thia mokela nai.' (Are you sick?)",
+  "pillars": {
+    "peace-linguistics-practices": "'I am sick' is a sentence that asks for care without begging — the plain adjective dignifies the asking.",
+    "pre-industrial-wisdom": "The sickbed organized the household: who tends, who fetches, who takes the field-work. Illness was communal logistics before it was diagnosis."
+  },
+  "tags": {
+    "community": "The state that summons tending",
+    "physical": "The body out of accord"
+  }
+}
