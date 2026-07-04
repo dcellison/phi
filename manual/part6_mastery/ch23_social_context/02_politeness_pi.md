@@ -8,7 +8,7 @@ POL IMP family help.
 (Please help the family.)
 
 pi wa thia po naphe.
-POL Q 2SG POSS help.
+POL Q 2SG POT help.
 (Could you please help?)
 ```
 

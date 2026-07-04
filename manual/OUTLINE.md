@@ -1,18 +1,18 @@
-# The Phi Language Manual — Outline
+# The Phi Language Manual: Outline
 
 *A complete, accessible, authoritative guide. This outline reflects the
 manual as it exists; update it whenever chapters change.*
 
 ---
 
-## Part I: First Light — A Taste of Phi
+## Part I: First Light (A Taste of Phi)
 
 *Ground the reader in purpose, then let them experience the language.*
 
 ### Chapter 1: Why a New Language?
 1. The Invisible Architecture of Thought (and the Cracks in It)
 2. The Language Laboratory
-3. What Phi Attempts — and What It Doesn't
+3. What Phi Attempts, and What It Doesn't
 4. How to Use This Book
 
 ### Chapter 2: Your First Words in Phi
@@ -24,16 +24,16 @@ manual as it exists; update it whenever chapters change.*
 
 ---
 
-## Part II: The Soul of Phi — Philosophy
+## Part II: The Soul of Phi (Philosophy)
 
-*The deep "why" — now that readers have tasted the language.*
+*The deep "why," now that readers have tasted the language.*
 
 ### Chapter 3: The Five Pillars of Wisdom
-1. Solarpunk Values — Radical Optimism
-2. Buddhist Concepts — Mindfulness as Grammar
-3. Art Nouveau Aesthetics — Beauty as Function
-4. Peace Linguistics — The Grammar of Nonviolence
-5. Pre-Industrial Wisdom — Natural Prototypes
+1. Solarpunk Values: Radical Optimism
+2. Buddhist Concepts: Mindfulness as Grammar
+3. Art Nouveau Aesthetics: Beauty as Function
+4. Peace Linguistics: The Grammar of Nonviolence
+5. Pre-Industrial Wisdom: Natural Prototypes
 
 ### Chapter 4: The Philosophy of Sound
 1. Sound as Practice
@@ -61,7 +61,7 @@ manual as it exists; update it whenever chapters change.*
 
 ---
 
-## Part III: The Sounds of Phi — Phonology
+## Part III: The Sounds of Phi (Phonology)
 
 *Practical mastery of pronunciation and the sound system.*
 
@@ -74,18 +74,18 @@ manual as it exists; update it whenever chapters change.*
 
 ### Chapter 10: The Music of Phi
 1. The Golden Rule: Vowel Hiatus
-2. Syllable Structure — Open, Flowing, and Class-Signaling
+2. Syllable Structure: Open, Flowing, and Class-Signaling
 3. The Rhythm of Penultimate Stress
 4. Common Pronunciation Pitfalls
 5. Exercises: Hearing and Speaking Phi
 
 ---
 
-## Part IV: The Grammar of Being — Foundations
+## Part IV: The Grammar of Being (Foundations)
 
-*Core grammatical structures — the essential building blocks.*
+*Core grammatical structures, the essential building blocks.*
 
-### Chapter 11: The Particle System — Phi's Backbone
+### Chapter 11: The Particle System, Phi's Backbone
 1. Introduction: Transparent Signposts
 2. The Three Slots Explained
 3. Slot 0: Framing Intention (wa, no, lu, su, pi)
@@ -95,7 +95,7 @@ manual as it exists; update it whenever chapters change.*
 
 ### Chapter 12: The Mindful Sentence
 1. Introduction: The Verb Comes Last
-2. The SOV Worldview — Context Before Action
+2. The SOV Worldview: Context Before Action
 3. The Modifier-First Principle
 4. Building Your First Sentences
 5. Questions, Requests, and Conditions
@@ -107,19 +107,19 @@ manual as it exists; update it whenever chapters change.*
 3. Plural Marking with 'lo'
 4. The Classifier System (himo, lipha, themo, nophe)
 5. Descriptors and Quantifiers
-6. Expressing Possession — Possessor Before Possessed
+6. Expressing Possession: Possessor Before Possessed
 
 ### Chapter 14: Pronouns and Reference
 1. The Core Pronouns (mia, thia, shia)
 2. Forming Plurals (lo mia, lo thia, lo shia)
-3. The Reflexive 'miso' — Self-Reference
-4. The Reciprocal 'wiso' — Mutual Action
+3. The Reflexive 'miso': Self-Reference
+4. The Reciprocal 'wiso': Mutual Action
 5. Deixis: Here and There (ha, ra)
 
 ### Chapter 15: Verbs and Time
 1. Introduction: The Unmarked Present
-2. Past 'to' — Completed Events
-3. Future 'so' — Possibility and Intention
+2. Past 'to': Completed Events
+3. Future 'so': Possibility and Intention
 4. Aspect: The Texture of Time (si, ki, pa, te, ro)
 5. Combining Tense and Aspect
 
@@ -130,17 +130,17 @@ manual as it exists; update it whenever chapters change.*
 4. Necessity 'na'
 5. Negation 'ma' (including modal negation and the need-not periphrasis)
 
-### Chapter 17: Evidentiality — Knowing How We Know
+### Chapter 17: Evidentiality, or Knowing How We Know
 1. Introduction: Epistemic Humility as Grammar
-2. Direct Experience 'hi' — I Saw It
-3. Inference 'ke' — I Deduced It
-4. Reported 'ti' — Someone Told Me
-5. Assumption 'ho' — I Believe It
+2. Direct Experience 'hi': I Saw It
+3. Inference 'ke': I Deduced It
+4. Reported 'ti': Someone Told Me
+5. Assumption 'ho': I Believe It
 6. Why Evidentiality Matters for Peace
 
 ---
 
-## Part V: Weaving Thoughts — Complex Structures
+## Part V: Weaving Thoughts (Complex Structures)
 
 *Combining simple elements into sophisticated expression.*
 
@@ -159,7 +159,7 @@ manual as it exists; update it whenever chapters change.*
 1. Introduction: Sentences Within Sentences
 2. Complement Clauses (mena/meno, wela/welo)
 3. Speech: Quotation and Report (shola/sholo)
-4. Adverbial Clauses — Time, Cause, Concession
+4. Adverbial Clauses: Time, Cause, Concession
 
 ### Chapter 21: Relative Clauses
 1. Introduction: Describing Within
@@ -173,13 +173,13 @@ the topic dissolved into chapters 13 and 21 and the glossary.)*
 
 ---
 
-## Part VI: The Art of Phi — Mastery
+## Part VI: The Art of Phi (Mastery)
 
 *Advanced usage, social nuance, and true fluency.*
 
 ### Chapter 23: Social Context and Nuance
-1. The Vocative 'kona' — Calling with Care
-2. Politeness 'pi' — Softening with Grace
+1. The Vocative 'kona': Calling with Care
+2. Politeness 'pi': Softening with Grace
 3. The Honorific System (sa, ni, le)
 4. Register and Formality
 5. When to Use What
@@ -203,11 +203,11 @@ the topic dissolved into chapters 13 and 21 and the glossary.)*
 
 ## Part VII: Reference
 
-- Quick Reference Grammar — the whole system on one page
-- The Complete Lexicon — alphabetical, by domain, by part of speech
+- Quick Reference Grammar: the whole system on one page
+- The Complete Lexicon: alphabetical, by domain, by part of speech
   (generated from the vocabulary JSON; never edited by hand)
-- Sample Texts — dialogues, the Bashō transmutation, and the two
-  complete texts: *lothea thole* (the Metta Sutta) and
+- Sample Texts: dialogues, the Bashō transmutation, and the two
+  complete texts, *lothea thole* (the Metta Sutta) and
   *nitho howeli nela sorae* (The North Wind and the Sun)
 - The writing system section is omitted: the glyph proposal in
   `documents/writing-system/` has not been developed. Phi is written

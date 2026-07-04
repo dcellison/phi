@@ -33,12 +33,12 @@ The particle *nu* turns a cardinal number into an ordinal, indicating position r
 
 ## ko: Focus
 
-The particle *ko* emphasizes a specific element, drawing attention to it.
+The particle *ko* draws attention to one specific element.
 
 **Mia ko lothea sano.** — I know *love* (specifically, not other things).  
 **Ko mia thia nila.** — *I* see you (not someone else).
 
-Focus is useful for contrast and clarification. It answers the implied question "which one?" by highlighting the relevant element.
+Focus is useful for contrast and clarification. It answers the implied question "which one?" by picking out the relevant element.
 
 ## mo: Comparative
 
@@ -97,7 +97,7 @@ The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "rea
 
 ## Proper names
 
-The particle `ne` marks the following word as a proper name, preventing it from being interpreted as vocabulary. This is required when no honorific is present:
+The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. This is required when no honorific is present:
 
 **ne thanie** — Thanie (a person's name)
 **mia ne thala nila.** — I see Thala.
@@ -106,7 +106,7 @@ When an honorific is present, `ne` is optional since the honorific already signa
 
 ## Honorifics
 
-Honorific particles appear before names, announcing the speaker's relationship to the person named. They follow `ne` when present.
+Honorific particles appear before names and mark the speaker's relationship to the person named. They follow `ne` when present.
 
 ### sa: Respect
 

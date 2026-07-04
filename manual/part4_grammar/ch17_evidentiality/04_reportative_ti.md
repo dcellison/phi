@@ -53,7 +53,7 @@ This is technically something you learned from others (unless you measured it yo
 
 ## Sound and meaning
 
-The *ti* particle is soft and brief: a gentle dental stop followed by a high vowel. The sound suggests transmission, the quick passing of information from one person to another. It's lighter than the crisp *ke* of inference, reflecting how reported information flows with less cognitive processing than deduction.
+The *ti* particle is soft and brief: a gentle dental stop followed by a high vowel. The sound suggests transmission, the quick passing of information from one person to another. It's lighter than the crisp *ke* of inference. That fits: passing along a report takes less cognitive work than a deduction.
 
 ## Rumor and reliability
 

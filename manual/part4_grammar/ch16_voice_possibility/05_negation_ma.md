@@ -28,7 +28,7 @@ Two combinations matter, and both keep `ma` in its final slot:
 **Cannot** — possibility, negated:
 
 > **mia po ma thalo**
-> 1SG POSS NEG walk
+> 1SG POT NEG walk
 > "I cannot walk"
 
 **Must not** — necessity of refraining:

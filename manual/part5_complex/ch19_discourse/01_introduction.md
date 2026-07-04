@@ -32,4 +32,4 @@ Discourse markers operate between sentences. They don't join grammatical element
 
 This distinction matters in practice. You would never use `thelao` to join two nouns, and you would never use `nela` to connect two independent lines of reasoning across a paragraph.
 
-Phi has seven discourse markers, covering the most common logical moves in conversation: drawing conclusions, redirecting, adding support, illustrating, rephrasing, narrowing focus, and summarizing. The sections that follow cover them in functional pairs.
+Phi has seven discourse markers. They cover the most common logical moves in conversation: drawing conclusions, redirecting, adding support, illustrating, rephrasing, narrowing focus, and summarizing. The sections that follow cover them in functional pairs.

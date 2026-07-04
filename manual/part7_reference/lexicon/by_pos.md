@@ -774,7 +774,7 @@
 | `nu` | ORD | Ordinal Particle |
 | `pa` | INCH | Beginning |
 | `pi` | POL | Politeness |
-| `po` | POSS | Can |
+| `po` | POT | Can |
 | `ra` | DIST | That |
 | `ro` | HAB | Habitual |
 | `ru` | INTNS | Very |

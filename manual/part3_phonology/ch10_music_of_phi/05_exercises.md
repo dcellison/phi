@@ -23,7 +23,7 @@ Record and listen. If any vowel shifts during production, practice it individual
 
 ## Exercise 2: Vowel contrast pairs
 
-Read each pair aloud, emphasizing the difference:
+Read each pair aloud and emphasize the difference:
 
 | Pair | Focus |
 |------|-------|

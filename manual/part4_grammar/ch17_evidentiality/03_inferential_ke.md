@@ -44,7 +44,7 @@ Perhaps the speaker sees the results of help but didn't witness the helping itse
 
 ## Sound and meaning
 
-The *ke* particle begins with a crisp *k*, suggesting the click of deduction, the moment when pieces fit together. The open *e* that follows makes space for the reasoning process. The sound is more complex than the direct *hi*, reflecting the additional cognitive step between evidence and conclusion.
+The *ke* particle begins with a crisp *k*, suggesting the click of deduction, the moment when pieces fit together. The open *e* that follows makes space for the reasoning process. The sound is more complex than the direct *hi*. So is the act it marks: inference adds a cognitive step between evidence and conclusion.
 
 ## Inference in daily life
 

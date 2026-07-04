@@ -43,7 +43,7 @@ The core pronouns `mia` (I), `thia` (you), and `shia` (they/other) remain consta
 | `thia thepalu` | you garden | your garden |
 | `shia melu` | they friend | their friend |
 
-The system is transparent. The listener understands that because the pronoun is attached to a noun phrase rather than in the subject or object slot, its function must be that of a possessor. This removes unnecessary grammatical complexity, reinforcing that relationships are defined by position rather than by changing word forms.
+The system is transparent. The listener understands that because the pronoun is attached to a noun phrase rather than in the subject or object slot, its function must be that of a possessor. This removes unnecessary grammatical complexity. Position defines the relationship; the word forms never change.
 
 ## Meaning provides clarity
 

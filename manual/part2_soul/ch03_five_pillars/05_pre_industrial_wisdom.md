@@ -10,7 +10,7 @@ For most of human history, people lived embedded within their local ecosystems, 
 
 One lesson from these traditions is animacy. Many languages, particularly indigenous ones, don't make the hard grammatical distinction between "persons" and "things" that English does. They recognize agency and personhood beyond human boundaries.
 
-In such languages, a forest, river, mountain, or stone can be a grammatical "who," not an "it." This isn't primitive or superstitious. It's a grammatical system that fosters respect for the living world.
+In such languages, a forest, river, mountain, or stone can be a grammatical "who," not an "it." This isn't primitive or superstitious. It's a grammatical system that builds respect for the living world into everyday speech.
 
 Phi embraces universal animacy. Its optional classifier system distinguishes `himo` for humans, `lipha` for living things, and `themo` for inanimate objects, but the distinction is descriptive, not hierarchical. The grammar becomes a practice in recognizing life in the world around us.
 
@@ -18,7 +18,7 @@ Phi embraces universal animacy. Its optional classifier system distinguishes `hi
 
 This pillar also shapes Phi's conception of time. The modern industrial world operates on linear time: an infinite line from past to future, measured in clock ticks. But for most of human history, time was circular. Seasons turned. The moon waxed and waned. Planting and harvest followed their rhythm.
 
-Cyclical time fosters patience, a sense of place, and participation in recurring patterns. While Phi has simple particles for past (`to`) and future (`so`) for practical use, its deeper structure beats to a cyclical rhythm.
+Cyclical time teaches patience, a sense of place, and participation in recurring patterns. While Phi has simple particles for past (`to`) and future (`so`) for practical use, its deeper structure beats to a cyclical rhythm.
 
 This shows most clearly in compositional terms for days. Yesterday isn't a point on a timeline but the sun-that-went, linking it to the past tense particle and the sun. Today is this-sun. Tomorrow is the sun-that-will-go. Time is tied not to abstract calendar but to the repeating dance of planet and star.
 

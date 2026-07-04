@@ -115,6 +115,35 @@ about THIS word that would be false pasted into a different entry.
 "reminds us," rhetorical questions, or philosophy that repeats what
 CLAUDE.md already says. The entry's philosophy is in its specifics.
 
+## Corpus-level tells
+
+The rules above are checked sentence by sentence; these failures only
+exist across files. A page can pass every rule while the corpus
+develops a machine accent. Audit for these at the whole-collection
+level, not per file:
+
+**Em-dash density.** The em dash is rationed (rule 11), and the ration
+is corpus-wide. If a reader can find three on most pages, the voice
+has drifted. Most em dashes are commas or periods wearing evening
+dress; rewrite the sentence rather than swapping punctuation.
+
+**Repeated rhetorical shapes.** Any construction that would be fine
+once becomes a tell when it recurs: the enumerative flourish ("quill,
+fletching, stuffing, ornament"), the "X is Y made visible" template,
+the closing aphorism. Rule 12 asks files to end on a turn; if every
+file ends on a turn of the same shape, the turn has become a formula.
+Vary or flatten.
+
+**Template phrasing across entries.** In the lexicon especially,
+watch for a phrase that migrates between entries ("acknowledges the
+profound...", "more than mere..."). Each entry's specifics should
+make its sentences unreusable elsewhere; that is what the paste-test
+measures.
+
+**Meta-prose in entries.** Drafting deliberation ("better:", "no:",
+"— but Phi has no word for X yet") must never appear inside an entry
+field. Decide first, then write only the decision.
+
 ## The test
 
 Read the section aloud. If it sounds like a brochure, cut the

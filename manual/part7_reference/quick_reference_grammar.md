@@ -29,7 +29,7 @@ Periods only — Phi uses no commas. Topic-drop: an established subject may be o
 | Slot | Function | Particles |
 |---|---|---|
 | 0 | Sentence frame (first) | `wa` Q · `no` IMP · `lu`/`lu he` COND/IRR · `su` OPT · `pi` POL (pi comes first when combined) |
-| 1 | Before the verb, fixed order **T > A > V > E > M > N** | Tense `to` PST, `so` FUT · Aspect `ki` PFV, `si` IPFV, `pa` INCH, `te` CESS, `ro` HAB · Voice `se` PASS · Evidential `hi` DIR, `ke` INFER, `ti` REP, `ho` ASM · Modal `po` POSS, `na` NEC, `ka` CAUS · Negation `ma` |
+| 1 | Before the verb, fixed order **T > A > V > E > M > N** | Tense `to` PST, `so` FUT · Aspect `ki` PFV, `si` IPFV, `pa` INCH, `te` CESS, `ro` HAB · Voice `se` PASS · Evidential `hi` DIR, `ke` INFER, `ti` REP, `ho` ASM · Modal `po` POT, `na` NEC, `ka` CAUS · Negation `ma` |
 | 2 | Before the word modified | `lo` PL · `nu` ORD · `ko` FOC · `mo` CMPR (`mo ko` SUPL) · `ru` INTNS · `ha` PROX, `ra` DIST · `ne` NAME · honorifics `sa`/`ni`/`le` |
 
 ## Clause frames (openers need their closers)

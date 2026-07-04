@@ -501,7 +501,7 @@
 | `pio` | hehe | /ˈpi.o̞/ | interjection |
 | `piru` | trader | /ˈpi.ru/ | noun |
 | `pisha` | split | /ˈpi.ʃä/ | verb |
-| `po` | POSS | /ˈpo̞/ | particle |
+| `po` | POT | /ˈpo̞/ | particle |
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun, verb |

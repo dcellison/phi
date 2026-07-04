@@ -56,6 +56,6 @@ Some languages distinguish three levels: near the speaker, near the listener, an
 
 The sounds reinforce the meanings:
 - *ha* begins with an open breath, immediate and present
-- *ra* rolls outward with the *r*, creating acoustic distance
+- *ra* rolls outward with the *r*; the roll itself is acoustic distance
 
 This phonetic iconicity helps learners remember which particle indicates which distance.

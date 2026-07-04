@@ -21,7 +21,7 @@ POL Q 2SG 1SG help.
 (Could you help me?)
 
 su thia mia po naphe.
-OPT 2SG 1SG POSS help.
+OPT 2SG 1SG POT help.
 (May it be possible for you to help me.)
 ```
 

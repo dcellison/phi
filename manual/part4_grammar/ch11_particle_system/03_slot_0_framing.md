@@ -54,7 +54,7 @@ The particle *pi* softens the entire utterance, marking it as polite or respectf
 **Pi wa thia po shua?** — Could you please come?  
 **Pi mia thia whaline.** — I (respectfully) thank you.
 
-Politeness in Phi isn't about social hierarchy; it's about care. Adding *pi* signals that the speaker values the listener and approaches them gently.
+Politeness in Phi is about care, not social hierarchy. Adding *pi* signals that the speaker values the listener and approaches them gently.
 
 ## Combining Slot 0 particles
 
@@ -71,4 +71,4 @@ A sentence without any Slot 0 particle is a simple declarative statement:
 **Mia thia lothea.** — I love you.  
 **Shiro phelora nai.** — The tree is beautiful.
 
-This is the most common sentence type. Slot 0 particles add specific framing; their absence is itself meaningful, signaling a straightforward assertion.
+This is the most common sentence type. Slot 0 particles add specific framing; their absence is itself meaningful: it signals a straightforward assertion.
