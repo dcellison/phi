@@ -66,4 +66,4 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 
 ## Status
 
-Chapter 1 and the pronunciation prelude are drafted; the remaining chapters follow the ladder above, written a few at a time. Every Phi sentence in the primer is checked against the lexicon by `scripts/validate_examples.py`, which runs in CI.
+Chapters 1-4 and the pronunciation prelude are drafted; the remaining chapters follow the ladder above, written a few at a time. Every Phi sentence in the primer is checked against the lexicon by `scripts/validate_examples.py`, which runs in CI.
