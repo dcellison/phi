@@ -10,7 +10,7 @@
     "particle"
   ],
   "concept": "This / Here / Near Speaker",
-  "description": "A word-level particle that marks spatial or conceptual proximity to the speaker, creating the deictic space of 'here-ness'. More than indicating location, 'ha' acknowledges the intimate sphere where speaker and referent share space, where pointing becomes almost touching.",
+  "description": "A word-level particle marking nearness to the speaker: this, here. The nearness can be spatial, temporal, or discursive: this stone, this moment, the idea just mentioned.",
   "sound_symbolism": "The particle consists of 'h', pure breath without obstruction—the most immediate, intimate consonant, present before any word can form. This breathy openness meets 'a', the open vowel that creates space for presence. Together, 'ha' sounds like proximity itself: the aspirate 'h' suggests the closeness of shared breath while the open 'a' acknowledges what fills that nearness. The sound requires speakers to exhale gently, appropriate for indicating what needs no shouting to reach.",
   "grammatical_notes": "Occupies Slot 2, appearing immediately before nouns to create demonstrative expressions. Functions as a deictic particle marking proximity in space ('this book'), time ('this moment'), or discourse ('this idea just mentioned'). Does not inflect for number—'ha' serves for both singular and plural referents. Can combine with other Slot 2 particles: 'ha lo' (these, plural). The proximal/distal distinction is binary—no medial demonstrative exists.",
   "pillars": {
