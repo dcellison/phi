@@ -1,0 +1,25 @@
+{
+  "word": "sawa",
+  "gloss": "wash",
+  "ipa": "/ˈsä.wä/",
+  "syllables": [
+    "sa",
+    "wa"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Wash / Cleanse with Water / Restore to Clean",
+  "description": "To wash: hands before bread, cups after tea, cloth in the river. Water restoring things to cleanness. Its family is 'phialu' (water), 'hiso' (clean), and 'therilu' (rest) — washing is how objects rest and return.",
+  "sound_symbolism": "The water-hiss 's' runs through the doubled openness of 'awa' — the word pours. Say it and hear the basin.",
+  "grammatical_notes": "Transitive: 'mia lo soeli sawa.' (I wash the cups.) 'lo mia wetha mua luphore sawa.' (We wash cloth in the stream.) Reflexively with 'miso': 'mia miso sawa.' (I wash myself.)",
+  "pillars": {
+    "secular-buddhist-philosophy": "Washing is the most repeated ritual of ordinary life — attention restoring the ordinary to freshness, one bowl at a time. Zen kitchens made it doctrine; households made it first.",
+    "pre-industrial-wisdom": "The river's laundry, the well's bucket, the rain barrel: water-work bound the day to the water source and the neighbors met there."
+  },
+  "tags": {
+    "activity": "Water-cleansing as daily craft",
+    "physical": "Restoration to cleanness",
+    "ritual": "The small ceremony of care for things"
+  }
+}

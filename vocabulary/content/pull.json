@@ -1,0 +1,25 @@
+{
+  "word": "natu",
+  "gloss": "pull",
+  "ipa": "/ˈn̪ä.t̪u/",
+  "syllables": [
+    "na",
+    "tu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Pull / Draw Toward / Move by Force to the Body",
+  "description": "To pull: the net from the water, the rope taut, the door open toward you. Force that draws its object closer. The exact opposite of 'pesa' (push), sharing no sounds with it; between them they cover the working body's two directions.",
+  "sound_symbolism": "The grounding 'n' plants the feet, the open 'a' is the reach outward, and the deep 'u' draws the thing home — reach, grip, and gather in one small arc.",
+  "grammatical_notes": "Transitive: 'mia mera natu.' (I pull the net.) 'lopia suro natu.' (The child pulls the rope.) Toward a place: 'lo mia mera wei leru natu.' (We pull the net to the beach.) Opposite: 'pesa' (push) — the pair share no sounds.",
+  "pillars": {
+    "secular-buddhist-philosophy": "What we pull toward ourselves we are responsible for holding; the verb of drawing-close is quietly the verb of choosing attachments.",
+    "pre-industrial-wisdom": "Nets, wells, harnesses, roots: the harvest half of labor is pulling. The word carries the fisher's whole morning."
+  },
+  "tags": {
+    "activity": "Inbound force to the body",
+    "physical": "Drawing closer",
+    "spatial": "Motion gathered homeward"
+  }
+}

@@ -790,14 +790,16 @@
 | `theula` | ALL | All |
 | `wheli` | ANY | Any |
 
-## verb (250)
+## verb (264)
 
 | Word | Gloss | Concept |
 |---|---|---|
 | `halemu` | remember | Remember |
 | `haolu` | speak | Speak |
 | `haoni` | voice | Voice |
+| `hasi` | wait | Wait |
 | `hea` | hear | Hear |
+| `hekawi` | find | Find |
 | `helu` | smooth | Smooth |
 | `helui` | change | Change |
 | `heno` | satisfy | Satisfy |
@@ -808,7 +810,9 @@
 | `howela` | receive | Receive |
 | `kaeli` | like | Like |
 | `kamo` | arrive | Arrive |
+| `kanu` | choose | Choose |
 | `kathu` | seal | Seal |
+| `kati` | cut | Cut |
 | `kealo` | create | Create |
 | `kela` | rejoice | Rejoice |
 | `kelai` | equals | Become (Result) |
@@ -834,6 +838,7 @@
 | `laniru` | journey | Journey |
 | `lei` | harmony | Harmony |
 | `leiro` | release | Release |
+| `lepa` | fall | Fall |
 | `lilea` | clarify | Clarify |
 | `liona` | live | Live |
 | `loa` | give | Give |
@@ -866,6 +871,7 @@
 | `muraki` | harvest | Harvest |
 | `nai` | be | Be |
 | `naphe` | help | Help |
+| `natu` | pull | Pull |
 | `nawea` | respect | Respect |
 | `nelore` | preserve | Preserve |
 | `nelu` | revere | Revere |
@@ -890,6 +896,7 @@
 | `palo` | touch | Touch |
 | `panoru` | support | Support |
 | `pawela` | participate | Participate |
+| `pesa` | push | Push |
 | `peshu` | lie | Lie |
 | `phae` | open | Open |
 | `phaelo` | feel | Feel |
@@ -922,6 +929,7 @@
 | `pina` | sew | Sew |
 | `porua` | purpose | Purpose |
 | `pula` | wish | Wish |
+| `rato` | turn | Turn |
 | `relua` | mirror | Mirror |
 | `remo` | think | Think |
 | `renoa` | liberate | Liberate |
@@ -933,13 +941,16 @@
 | `rotiku` | dance | Dance |
 | `ruemi` | lie down | Lie Down |
 | `ruloi` | flourish | Flourish |
+| `sahu` | forget | Forget |
 | `sano` | know | Know |
+| `sawa` | wash | Wash |
 | `selomi` | weave | Weave |
 | `selu` | flow | Flow |
 | `seniku` | smile | Smile |
 | `seroli` | mature | Mature |
 | `seru` | commit | Commit |
 | `shalo` | run | Run |
+| `shane` | tell | Tell |
 | `shareo` | discuss | Discuss |
 | `sharoi` | exceeds | Exceeds |
 | `shelo` | signify | Signify |
@@ -971,12 +982,14 @@
 | `sorui` | circle | Circle |
 | `sunoe` | regenerate | Regenerate |
 | `talome` | restore | Restore |
+| `tapu` | close | Close |
 | `telu` | partner | Partner |
 | `temoe` | tend | Tend |
 | `tenoa` | tool | Tool |
 | `teru` | process | Process |
 | `thalo` | walk | Walk |
 | `thalu` | stay | Stay |
+| `thape` | burn | Burn |
 | `theala` | heal | Heal |
 | `theama` | care | Care |
 | `thekao` | acknowledge | Acknowledge |
@@ -1020,6 +1033,7 @@
 | `tolu` | staff | Staff |
 | `tumeki` | root | Root |
 | `turema` | return | Return |
+| `wapho` | throw | Throw |
 | `warosha` | reconcile | Reconcile |
 | `welira` | thrive | Thrive |
 | `welura` | spread | Spread |

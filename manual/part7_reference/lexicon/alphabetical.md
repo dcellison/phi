@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*804 words.*
+*818 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -16,9 +16,11 @@
 | `haolu` | speak | /hä.ˈo̞.lu/ | verb |
 | `haoni` | voice | /hä.ˈo̞.n̪i/ | noun, verb |
 | `haowu` | air | /hä.ˈo̞.wu/ | noun |
+| `hasi` | wait | /ˈhä.si/ | verb |
 | `he` | IRR | /ˈhe̞/ | particle |
 | `hea` | hear | /ˈhe̞.ä/ | verb, noun |
 | `hei` | hey | /ˈhe̞.i/ | interjection |
+| `hekawi` | find | /he̞.ˈkä.wi/ | verb |
 | `helia` | youth | /he̞.ˈli.ä/ | noun, adjective |
 | `heloa` | remedy | /he̞.ˈlo̞.ä/ | noun |
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
@@ -52,7 +54,9 @@
 | `kaeshu` | bold | /kä.ˈe̞.ʃu/ | adjective |
 | `kaesu` | selfish | /kä.ˈe̞.su/ | adjective |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
+| `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kathu` | seal | /ˈkä.θu/ | noun, verb |
+| `kati` | cut | /ˈkä.t̪i/ | verb |
 | `ke` | INFER | /ˈke̞/ | particle |
 | `kealo` | create | /ke̞.ˈä.lo̞/ | verb, noun |
 | `keiro` | way | /ke̞.ˈi.ro̞/ | noun |
@@ -135,6 +139,7 @@
 | `leko` | surface | /ˈle̞.ko̞/ | noun |
 | `lemi` | thin | /ˈle̞.mi/ | adjective |
 | `leo` | ABOVE | /ˈle̞.o̞/ | preposition |
+| `lepa` | fall | /ˈle̞.pä/ | verb |
 | `leru` | beach | /ˈle̞.ru/ | noun |
 | `lerua` | exterior | /le̞.ˈru.ä/ | noun |
 | `lewonu` | valley | /le̞.ˈwo̞.n̪u/ | noun |
@@ -274,6 +279,7 @@
 | `na` | NEC | /ˈn̪ä/ | particle |
 | `nai` | be | /ˈn̪ä.i/ | verb |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb, noun |
+| `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | noun, verb |
 | `ne` | NAME | /ˈn̪e̞/ | particle |
 | `nea` | aha | /ˈn̪e̞.ä/ | interjection |
@@ -362,6 +368,7 @@
 | `pelowa` | meadow | /pe̞.ˈlo̞.wä/ | noun |
 | `pelua` | paper | /pe̞.ˈlu.ä/ | noun |
 | `pelui` | cold | /pe̞.ˈlu.i/ | adjective |
+| `pesa` | push | /ˈpe̞.sä/ | verb |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
 | `phae` | open | /ˈɸä.e̞/ | adjective, verb |
 | `phaeli` | tender | /ɸä.ˈe̞.li/ | adjective |
@@ -455,6 +462,7 @@
 | `raeli` | height | /rä.ˈe̞.li/ | noun |
 | `raelu` | tall | /rä.ˈe̞.lu/ | adjective |
 | `ralu` | free | /ˈrä.lu/ | adjective |
+| `rato` | turn | /ˈrä.t̪o̞/ | verb |
 | `rei` | eighty-one-group | /ˈre̞.i/ | noun |
 | `relo` | symbol | /ˈre̞.lo̞/ | noun |
 | `relua` | mirror | /re̞.ˈlu.ä/ | noun, verb |
@@ -487,8 +495,10 @@
 | `ruloi` | flourish | /ru.ˈlo̞.i/ | verb |
 | `runae` | resin | /ru.ˈn̪ä.e̞/ | noun |
 | `sa` | HON.RESPECT | /ˈsä/ | particle |
+| `sahu` | forget | /ˈsä.hu/ | verb |
 | `sai` | ouch | /ˈsä.i/ | interjection |
 | `sano` | know | /ˈsä.n̪o̞/ | verb, noun |
+| `sawa` | wash | /ˈsä.wä/ | verb |
 | `se` | PASS | /ˈse̞/ | particle |
 | `seloi` | insightful | /se̞.ˈlo̞.i/ | adjective |
 | `selomi` | weave | /se̞.ˈlo̞.mi/ | verb, noun |
@@ -505,6 +515,7 @@
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
 | `shalo` | run | /ˈʃä.lo̞/ | verb |
 | `shalu` | fish | /ˈʃä.lu/ | noun |
+| `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb, noun |
 | `sharoi` | exceeds | /ʃä.ˈro̞.i/ | verb |
@@ -601,6 +612,7 @@
 | `ta` | one | /ˈt̪ä/ | numeral |
 | `talome` | restore | /t̪ä.ˈlo̞.me̞/ | verb |
 | `talua` | shoulder | /t̪ä.ˈlu.ä/ | noun |
+| `tapu` | close | /ˈt̪ä.pu/ | verb |
 | `te` | CESS | /ˈt̪e̞/ | particle |
 | `tei` | UNTIL | /ˈt̪e̞.i/ | preposition |
 | `teku` | short | /ˈt̪e̞.ku/ | adjective |
@@ -625,6 +637,7 @@
 | `thalu` | stay | /ˈθä.lu/ | verb |
 | `thalume` | ancestor | /θä.ˈlu.me̞/ | noun |
 | `thaluni` | kin | /θä.ˈlu.n̪i/ | noun, adjective |
+| `thape` | burn | /ˈθä.pe̞/ | verb |
 | `thasu` | modest | /ˈθä.su/ | adjective |
 | `theala` | heal | /θe̞.ˈä.lä/ | verb, noun |
 | `theali` | fitting | /θe̞.ˈä.li/ | adjective |
@@ -742,6 +755,7 @@
 | `waero` | sky | /wä.ˈe̞.ro̞/ | noun |
 | `waeshi` | wild | /wä.ˈe̞.ʃi/ | adjective |
 | `wao` | wow | /ˈwä.o̞/ | interjection |
+| `wapho` | throw | /ˈwä.ɸo̞/ | verb |
 | `warosha` | reconcile | /wä.ˈro̞.ʃä/ | verb |
 | `we` | ALSO | /ˈwe̞/ | particle |
 | `wea` | TOWARD | /ˈwe̞.ä/ | preposition |
