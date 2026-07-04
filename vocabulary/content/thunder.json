@@ -1,0 +1,24 @@
+{
+  "word": "horuma",
+  "gloss": "thunder",
+  "ipa": "/ho̞.ˈru.mä/",
+  "syllables": [
+    "ho",
+    "ru",
+    "ma"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Thunder / The Rumble After",
+  "description": "Thunder: the sound that arrives after the light, slower because sound is slower. Always second, never alone; where there is 'horuma' there was 'pheluka'. Felt in the chest as much as heard.",
+  "sound_symbolism": "Open 'ho' for the bigness, rolling 'ru' for the rumble, 'ma' for where it settles: in the ground, and in you.",
+  "grammatical_notes": "Noun: 'mia horuma phaelo.' (I feel the thunder.) 'kurisha horuma phelu.' (The storm holds thunder.)",
+  "pillars": {
+    "pre-industrial-wisdom": "Counting the gap between flash and rumble told the storm's distance. The sky taught arithmetic to anyone who stood still long enough."
+  },
+  "tags": {
+    "nature": "The storm's voice",
+    "physical": "Sound felt in the chest"
+  }
+}
