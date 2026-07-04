@@ -69,7 +69,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `helia` | youth | beauty of natural growth and vital force |
+| `helia` | youth | the beauty of new growth |
 | `helu` | smooth | Flowing texture |
 | `horae` | radiant | Light-emanating |
 | `keloa` | rough | Textured |
@@ -285,7 +285,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `helia` | youth | vital energy that renews collective life |
+| `helia` | youth | the energy that renews collective life |
 | `heloi` | generous | Sharing |
 | `howai` | evening | Gathering time |
 | `howela` | receive | receiving connects us in cycles of generosity |
@@ -833,7 +833,7 @@
 | `lima` | alive | Having life |
 | `limoe` | creature | Any living animate being |
 | `linua` | fiber | Raw material |
-| `lioru` | life | Vital force |
+| `lioru` | life | Animating force |
 | `liro` | green | the color of plants and growth |
 | `lirowa` | leaf | Plant foliage |
 | `loesi` | oil | Liquid essence |
@@ -1051,7 +1051,7 @@
 | `lomare` | embrace | Bodily expression of care |
 | `lomura` | liver | The inner anatomy's quiet worker |
 | `lori` | vital | Essential quality |
-| `lorika` | blood | Vital fluid circulating through the body |
+| `lorika` | blood | The fluid circulating through the body |
 | `losha` | wide | Great breadth |
 | `lumera` | nourish | Sustaining life through giving |
 | `lupho` | float | Rest without sinking |
@@ -1165,7 +1165,7 @@
 | `sulae` | warm | thermal sensation of heat |
 | `suliwa` | snake | Motion as pure curve |
 | `sulopa` | soup | Warm water and patience |
-| `sunai` | health | Vital condition |
+| `sunai` | health | Bodily condition |
 | `talua` | shoulder | Upper torso joint bearing arms and loads |
 | `tapu` | close | Bringing to a shut, sealed state |
 | `tesu` | iron | Enduring strength |
@@ -1451,7 +1451,7 @@
 | `muero` | autumn | Harvest season |
 | `nelore` | preserve | Maintaining across time |
 | `neparu` | cloud | Symbol of impermanence |
-| `newai` | fresh | Recently vital |
+| `newai` | fresh | Recently made or harvested |
 | `newu` | new | recent arising in time |
 | `noa` | position | Marks place within sequences and cycles |
 | `nomi` | present | This moment |
@@ -1617,7 +1617,7 @@
 | `phenui` | thoughtful | Care for others |
 | `pheru` | endure | Persistence |
 | `phesua` | inspire | involves skillful awakening without forcing |
-| `phewo` | sage | Profound insight |
+| `phewo` | sage | Insight earned through living |
 | `phiro` | elegant | Tasteful quality |
 | `phoi` | nine-group | Carries the understanding that beyond certain thresholds, precision yields to sufficiency. The wisdom that 'enough' matters more than 'exactly how many.' |
 | `pholui` | bamboo | Flexible strength |
@@ -1628,7 +1628,7 @@
 | `punoa` | society | Collective order |
 | `raeli` | height | Elevation |
 | `ralu` | free | Unbound state |
-| `rei` | eighty-one-group | Carries the profound understanding that some aspects of existence transcend quantification. The wisdom to recognize where human systems of measurement must yield to wonder. |
+| `rei` | eighty-one-group | Knowing where counting stops being useful: 'rei' marks the point where a quantity is estimated rather than tallied. |
 | `relua` | mirror | Self-seeing |
 | `remo` | think | thinking as the path to understanding and awareness |
 | `reo` | meaning | requires understanding context and relationship |
