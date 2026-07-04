@@ -10,18 +10,16 @@
     "verb"
   ],
   "concept": "Lie / Recline / Rest Horizontally",
-  "description": "The fundamental act of reclining the body into horizontal rest, where the spine aligns parallel to earth and weight distributes along the body's full length. More than mere physical positioning, lying down embodies the profound trust required to release vertical vigilance and surrender to gravity's embrace. It is the posture of sleep and dreams, of healing and restoration, of intimate vulnerability. In Phi's framework, lying down represents not submission or defeat, but the wisdom of yielding when yielding serves - knowing when to stop striving, when to receive the earth's support, when to allow deep rest to restore what effort has depleted.",
-  "sound_symbolism": "The stop 'p' erects a hard false front — the surface presented to the listener. Behind it, 'shu' is the whisper closing over the closed vowel 'u': the truth pushed down into concealment. The word enacts what a lie is: a firm face over a hidden depth. Deliberately unlike 'theloa' (truth), whose open wisdom-breath 'th' a lie cannot wear.",
-  "grammatical_notes": "Functions as an intransitive verb describing the state or action of reclining ('mia peshu' - I lie/I am lying down). Can indicate the action of lying down when combined with inchoative aspect marker 'pa' ('mia pa peshu' - I lie down/I begin to recline). Takes locative complements with prepositions to indicate where one lies. Like other postural verbs ('meilo' sit, 'whano' stand), encompasses both the dynamic action of lying down and the stative condition of remaining reclined. The verb implies horizontal rest but does not necessarily indicate sleep.",
+  "description": "To speak what one knows to be false with the intent to mislead. 'Peshu' covers spoken and enacted deception—false words, false silence, truth withheld to create a wrong belief. It contrasts with 'phelira' (mistaken): the mistaken speaker is wrong without knowing it, while the liar knows and chooses. Phi keeps this word not to enable deception but to let speakers name it plainly.",
+  "sound_symbolism": "The stop 'p' erects a hard false front — the surface presented to the listener. Behind it, 'shu' is the whisper closing over the closed vowel 'u': the truth pushed down into concealment. The word shares no sounds with 'theloa' (truth); the two cannot be mistaken for each other.",
+  "grammatical_notes": "Functions as an intransitive verb of speech: 'shia to peshu.' (They lied.) Negation 'ma' comes immediately before the verb: 'mia ma peshu.' (I do not lie.) Prohibition: 'no ma peshu.' (Do not lie.) Reported content takes the 'mena … meno' frame. Contrast 'phelira' (mistaken), which carries no intent, and 'wero' (honest) and 'theloa' (truth), its opposites.",
   "pillars": {
-    "secular-buddhist-philosophy": "Lying down meditation, particularly body scan practices, teaches profound lessons in letting go. The horizontal posture removes the need to 'hold ourselves up' - a physical practice of non-attachment and surrender. In this position, we practice awareness without effort, presence without striving. The Buddha himself entered parinirvana while lying on his side, demonstrating that even the ultimate letting go can be met with conscious grace.",
-    "peace-linguistics-practices": "The word 'thelo' reframes horizontal rest not as laziness or weakness, but as necessary wisdom and restoration. In a culture that often equates lying down with giving up, Phi's language shapes understanding of rest as an active choice for peace - choosing harmony with gravity rather than constant resistance. This linguistic framing helps speakers value rest as essential to sustainable living rather than absence of productivity.",
-    "pre-industrial-wisdom": "Before artificial lighting extended productive hours, humans honored the natural cycles of rest that lying down enables. Traditional cultures understand horizontal rest as essential for healing, dreaming, and restoration. From afternoon siestas to communal sleeping arrangements, pre-industrial wisdom recognizes that lying down connects us to earth's rhythms and allows the deep restoration that vertical living cannot provide."
+    "secular-buddhist-philosophy": "Right speech begins with abstaining from false speech—a precept speakers can only keep if the language lets them name its breach. 'Peshu' names the act without euphemism.",
+    "peace-linguistics-practices": "Peaceful speech does not mean avoiding hard words for wrong acts. A plain word for lying lets communities address deception directly and repair trust, instead of letting it hide behind softer terms.",
+    "pre-industrial-wisdom": "Oral cultures ran on the reliability of the spoken word—agreements, boundaries, and histories lived in speech alone, so the liar endangered the community's shared memory. The word carried real weight."
   },
   "tags": {
-    "physical": "horizontal bodily posture of complete rest and support",
-    "spatial": "horizontal positioning aligned with earth's surface",
-    "temporal": "marking cycles of rest, sleep, and restoration",
-    "wisdom": "knowing when to yield and receive support"
+    "dialogue": "False speech; the breaking of communicative trust",
+    "wisdom": "What truthfulness is defined against"
   }
 }
