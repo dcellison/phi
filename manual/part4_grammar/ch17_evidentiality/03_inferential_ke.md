@@ -5,7 +5,7 @@ The particle *ke* marks information as inferred from evidence rather than direct
 ## Basic usage
 
 **shia to ke wepu.** — They left. (I infer from evidence.)  
-**phialu to ke shua.** — Rain came. (I see the wet ground.)  
+**pheralu to ke shua.** — Rain came. (I see the wet ground.)  
 **thia ke shorui nai.** — You must be weary. (I can tell from how you look.)
 
 With *ke*, the speaker signals that they didn't witness the event directly but have deduced it from available evidence.
