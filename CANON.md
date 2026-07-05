@@ -13,16 +13,15 @@ the list must be corrected to match anything higher.
    `COMPLEMENTIZER_REFERENCE.md`, `NUMERAL_REFERENCE.md`. These define
    the grammatical system: particle inventory and slot order,
    complementizer pairs, numeral structure.
-3. **Grammar chapters** — `documents/grammar/01-*.md` through `06-*.md`.
-   Narrative explanations of the system defined in (2).
-4. **`manual/`** — the teaching text. Must agree with (1)–(3).
-5. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
-6. **Philosophy documents** — `documents/language_guide.md`,
+3. **`manual/`** — the teaching text. Must agree with (1)–(2).
+4. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
+5. **Philosophy documents** — `documents/language_guide.md`,
    `MODIFIER_FIRST_PHILOSOPHY.md`, and
    `PSYCHOLOGICAL_VIOLENCE_OF_MEASUREMENT.md`. Authoritative for *why*, not for word forms
    or grammar details.
-7. **`archive/`** — historical record only. Never a reference for the
-   current language.
+6. **`archive/`** — historical record only. Never a reference for the
+   current language. (The six narrative grammar chapters were dissolved
+   into the manual, July 2026.)
 
 `CLAUDE.md` is the working protocol for language development and should
 always reflect (1)–(3).

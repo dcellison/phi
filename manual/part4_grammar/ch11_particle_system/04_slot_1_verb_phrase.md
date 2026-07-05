@@ -15,7 +15,7 @@ Phi has two tense particles. The present is unmarked.
 The particle *to* places the action in the past: something that has already happened.
 
 **Mia to nila.** — I saw.  
-**Thia to shea loa.** — You gave peace.  
+**Thia shea to loa.** — You gave peace.  
 **Shia womu to shua.** — They came home.
 
 ### so: Future

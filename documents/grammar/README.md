@@ -1,41 +1,9 @@
-# Phi Reference Grammar
+# The grammar references
 
-This collection of documents provides the complete technical specification of Phi syntax. For the language's core philosophy and sound system, see the main `language_guide.md` and `phonology_rules.md`.
+These three documents are the complete inventories of Phi's grammatical machinery — the specification the manual teaches from and the tiebreakers when any document disagrees with another (see `/CANON.md` for the full authority order).
 
-## Table of Contents
+- **[PARTICLE_REFERENCE.md](./PARTICLE_REFERENCE.md)** — every particle, by slot, with the fixed Slot 1 ordering (Tense > Aspect > Voice > Evidentiality > Modality > Negation)
+- **[COMPLEMENTIZER_REFERENCE.md](./COMPLEMENTIZER_REFERENCE.md)** — the three opener/closer pairs, the relativizer `rena`, and the vocative `kona`
+- **[NUMERAL_REFERENCE.md](./NUMERAL_REFERENCE.md)** — the full ternary system: digits, scale units, ordinals, approximation, arithmetic, classifiers
 
-1.  **[Fundamental Syntactic Principles](./01-principles.md)**
-    -   Word Order
-    -   Announce Then Deliver Philosophy
-    -   Prepositions
-    -   The Vocative Case
-
-2.  **[The Three-Slot Particle System](./02-particles.md)**
-    -   Slot 0: Sentence Frame Particles
-    -   Slot 1: Verb Phrase Particles (Tense, Aspect, Voice, Modality)
-    -   Slot 2: Word-Level Particles
-
-3.  **[Question Formation](./03-questions.md)**
-    -   Yes/No Questions
-    -   Content (Wh-) Questions
-
-4.  **[Coordination and Subordination](./04-coordination-and-subordination.md)**
-    -   Coordination (`and`, `but`, `or`)
-    -   Subordination (Indirect Speech, Temporal Clauses, Concessive Clauses, etc.)
-
-5.  **[Complex Constructions](./05-complex-constructions.md)**
-    -   Relative Clauses
-    -   Conditional Sentences
-    -   Reflexive and Reciprocal Constructions
-
-6.  **[Numerals](./06-numerals.md)**
-    -   Cardinal and Ordinal Numbers
-    -   Advanced Concepts (Frequency, Fractions)
-
-## Complete inventories
-
-The chapters above explain the systems; these references list every member, and take precedence over the chapters when they disagree (see `/CANON.md` for the authority order):
-
-- **[PARTICLE_REFERENCE.md](./PARTICLE_REFERENCE.md)** — every particle, by slot, with the fixed Slot 1 ordering
-- **[COMPLEMENTIZER_REFERENCE.md](./COMPLEMENTIZER_REFERENCE.md)** — the three opener/closer pairs, the relativizer, and the vocative
-- **[NUMERAL_REFERENCE.md](./NUMERAL_REFERENCE.md)** — the full ternary system with the scale units and classifiers 
+These are references, not lessons. To learn the systems they specify, read the manual (Parts IV-V); to practice them, the pamphlets. The six narrative chapters that once lived beside these files were dissolved into the manual in July 2026 and preserved in `/archive/`.

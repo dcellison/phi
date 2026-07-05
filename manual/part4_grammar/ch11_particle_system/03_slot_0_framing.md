@@ -32,7 +32,7 @@ The particle *lu* introduces a conditional clause, equivalent to English "if." I
 
 For hypothetical or counterfactual conditions, situations that didn't happen or couldn't happen, combine *lu* with the irrealis particle *he*:
 
-**Lu he mia to naphe, shia ma to wepu.** — If I had helped (but I didn't), they wouldn't have left.
+**Lu he mia to naphe. shia to ma wepu.** — If I had helped (but I didn't), they wouldn't have left.
 
 This construction makes clear that the speaker is discussing something contrary to reality.
 

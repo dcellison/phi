@@ -61,7 +61,7 @@ Arithmetic: `sholei` + · `leiro` − · `welura` × · `phanoi` ÷ · `kelai` =
 
 ## Prepositions (always before their object)
 
-`mua` in/at · `mue` out of · `lue` from · `muo` into · `wea` toward · `wei` to (DAT) · `thue` through · `leo` above · `phou` below · `nia` on · `pai` near · `woe` far · `noe` behind · `neo` in front · `thei` between · `thoa` among · `roa` around · `sio` beside · `sheo` than · `phea` as · `whuo` without · `nua` with (COM) · `roe` with (INS) · `tei` until · `sui` during · `phei` away
+`mua` in/at · `mue` out of · `lue` from · `kau` to (goal) · `muo` into · `wea` toward · `wei` to (DAT) · `thue` through · `leo` above · `phou` below · `nia` on · `pai` near · `woe` far · `noe` behind · `neo` in front · `thei` between · `thoa` among · `roa` around · `sio` beside · `sheo` than · `phea` as · `whuo` without · `nua` with (COM) · `roe` with (INS) · `tei` until · `sui` during · `phei` away
 
 ## Conjunctions
 

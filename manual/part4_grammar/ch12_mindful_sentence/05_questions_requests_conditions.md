@@ -6,6 +6,18 @@ The first word of a Phi sentence can declare what the whole sentence is *for*. T
 
 The question is announced before it is asked. In English, a question often reveals itself only at the final rising tone — the listener processes a statement and then reinterprets it. In Phi, `wa` settles the matter in the first syllable: what follows is an inquiry, not an assertion. Nothing said afterward can turn out, retroactively, to have been a demand.
 
+## Content questions
+
+Asking *what* or *who* needs no `wa` at all. The interrogative word sits exactly where its answer would sit, and its presence alone marks the sentence as a question:
+
+*thia hina nila.* — What do you see? (literally: you see *what* — and `hina` stands where the seen thing would stand)
+
+*sua shua.* — Who comes?
+
+*thia thela kealo.* — How do you create?
+
+Six words cover the questions a life asks: `sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how. Each occupies the position of the unknown, so the shape of the question already sketches the shape of its answer. `wa` is for uncertainty about the whole; these are for a gap in the middle — and because the gap-word announces itself, the two never need each other.
+
 The same holds for the imperative:
 
 *no thepalu naphe.* — Help with the garden.
