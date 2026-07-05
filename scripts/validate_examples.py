@@ -51,7 +51,7 @@ PROJECT_ROOT = Path(__file__).parent.parent
 MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "MINIMAL_PAIRS_BASELINE.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 
-DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md"]
+DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md"]
 
 CONSONANTS = set("hklmnprstw")
 DIGRAPHS = ("ph", "th", "sh", "wh")
