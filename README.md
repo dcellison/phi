@@ -32,7 +32,7 @@ Everything is validated by machine, and the validation gates every pull request:
 python3 scripts/validate_examples.py
 ```
 
-This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); the working protocol for creating words lives in [CLAUDE.md](CLAUDE.md); the longer-term intentions live in [publishing.md](publishing.md).
+This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); the working protocol for creating words lives in [documents/development_protocol.md](documents/development_protocol.md); the longer-term intentions live in [publishing.md](publishing.md).
 
 ## Licensing
 

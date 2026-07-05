@@ -113,7 +113,7 @@ about THIS word that would be false pasted into a different entry.
 
 **Never in an entry**: "beautifully," "perfectly embodies,"
 "reminds us," rhetorical questions, or philosophy that repeats what
-CLAUDE.md already says. The entry's philosophy is in its specifics.
+the development protocol already says. The entry's philosophy is in its specifics.
 
 ## Corpus-level tells
 
