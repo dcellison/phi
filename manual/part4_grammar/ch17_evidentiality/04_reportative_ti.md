@@ -29,7 +29,7 @@ The reportative *ti* marks knowledge source. It says "someone told me" without q
 
 For direct quotation, use the quotative complementizer *shola*:
 
-**melu shola "mia wepu" haolu.** — The friend said "I'm leaving."
+**melu shola mia wepu sholo to haolu.** — The friend said "I'm leaving."
 
 The first reports the content; the second quotes the words. Both involve information from others, but they do different grammatical work.
 

@@ -412,6 +412,8 @@ PAMPHLETS = [
      "The whole description before the noun: pre-nominal relative clauses from first principles to nested patterns, the errors English pulls you toward, and exercises with a full answer key."),
     ("complementizers", "Complementizers and embedded clauses in Phi",
      "Thoughts within thoughts: the three opener–closer pairs — statements, questions, quotations — why the closers exist, and enough practice to make them reflex."),
+    ("evidentiality", "Evidentiality in Phi",
+     "Four particles for how you know — witnessed, inferred, told, assumed — drilled from the snake at the well to the honest journal. Phi does not ask you to be certain; it asks you to be exact about how you are not."),
 ]
 toc = ["<h1>The pamphlets</h1>",
        "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]

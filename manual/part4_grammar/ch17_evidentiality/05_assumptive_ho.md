@@ -6,7 +6,7 @@ The particle *ho* marks information as assumed or supposed rather than known thr
 
 **thia ho shorui nai.** — You're probably weary. (I assume.)  
 **shia ho womu nai.** — They're probably home. (I suppose.)  
-**phialu ho so shua.** — Rain will probably come. (I expect.)
+**pheralu so ho shua.** — Rain will probably come. (I expect.)
 
 With *ho*, the speaker signals that they're not working from specific evidence but from what seems likely or expected given what they know.
 
