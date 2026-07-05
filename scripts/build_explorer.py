@@ -125,7 +125,7 @@ print(f"wrote web/index.html from kia.md ({len(body.splitlines())} blocks)")
 def link_text_citations(html):
     """Repo-path citations of the texts become on-site links (pages
     using this all live one directory below web/)."""
-    for stem in ("metta_sutta", "north_wind_and_sun", "human_rights_article_one", "babel_text", "ring_verse_refusal", "schleicher_fable"):
+    for stem in ("metta_sutta", "north_wind_and_sun", "human_rights_article_one", "babel_text", "ring_verse_refusal", "schleicher_fable", "little_prince_excerpts"):
         html = html.replace(f"<code>pamphlets/{stem}.md</code>",
                             f'<a href="../texts/{stem}.html"><code>pamphlets/{stem}.md</code></a>')
         html = html.replace(f'href="../pamphlets/{stem}.md"',
@@ -328,6 +328,7 @@ TEXTS = [
     ("babel_text", "ta haoluma \u2014 the Babel text", "The conlang community's handshake, done the Phi way: the scattering as sowing, every language a garden \u2014 and the first time Phi names its own kind."),
     ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "The one entry on this shelf that is not a translation: what a language without domination vocabulary cannot say \u2014 and the hearth-poem that comes out when it tries."),
     ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "The historical linguists' test-text since 1868. Phi's telling keeps the sting and withholds one word: the master, who can only be described as the one who takes."),
+    ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts, zero new words \u2014 and two transmutations that see through the original: the prince who was never a rank, and the taming that was always a bond."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
