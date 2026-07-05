@@ -1,4 +1,4 @@
-# Part 1: Understanding the Concept
+# Part 1: Understanding the concept
 
 ## What is a relative clause?
 
@@ -23,17 +23,17 @@ English places relative clauses after the noun they modify:
 
 This is called post-nominal position: the noun comes first, then the description follows. English uses special words called relative pronouns (who, which, that, whom, whose, where, when) to introduce these clauses and to indicate what role the noun plays inside the clause.
 
-This system works, but it has quirks:
+This system works, but it has quirks.
 
-**The sprawl problem.** Because the relative clause comes after the noun, multiple relatives can stack indefinitely:
+Because the relative clause comes after the noun, multiple relatives can stack indefinitely:
 
 "the person who I met who helped me who lives nearby who works at the hospital who..."
 
 The listener has to hold "person" in mind while an unbounded amount of description piles up afterward. There's no structural signal for when it will end.
 
-**The pronoun complexity.** Different pronouns for different roles (who vs. whom), for humans vs. things (who vs. which), and for different contexts (that vs. which) create a system that even native speakers find confusing. "The person whom I met" or "the person who I met"? Many speakers have given up on the distinction.
+The pronouns are their own tangle. Different pronouns for different roles (who vs. whom), for humans vs. things (who vs. which), and for different contexts (that vs. which) create a system that even native speakers find confusing. "The person whom I met" or "the person who I met"? Many speakers have given up on the distinction.
 
-**The garden path.** Post-nominal relatives can create temporary ambiguity:
+And post-nominal relatives can send readers down the garden path:
 
 "The horse raced past the barn fell."
 
@@ -55,11 +55,11 @@ This is called pre-nominal position: description first, noun last.
 
 Phi uses a single relativizer, `rena`, for all relative clauses regardless of the noun's role, animacy, or any other factor. No who/whom/which/that distinctions. One word does all the work.
 
-**The bounding solution.** Because the relative clause must complete before the noun appears, there's a natural endpoint. The listener knows exactly when the description is finished: when they hear the noun.
+Because the relative clause must complete before the noun appears, there's a natural endpoint. The listener knows exactly when the description is finished: when they hear the noun.
 
-**The simplicity solution.** One relativizer, `rena`, handles every case. No pronoun selection rules to memorize.
+One relativizer, `rena`, handles every case. No pronoun selection rules to memorize.
 
-**The processing solution.** The listener knows from the moment they hear `rena` that a description is coming. They're prepared to receive modifying information before they learn what's being modified. No garden paths, no surprises.
+And the listener knows from the moment they hear `rena` that a description is coming. They're prepared to receive modifying information before they learn what's being modified. No garden paths, no surprises.
 
 ## Why this feels strange to English speakers
 
@@ -113,4 +113,4 @@ The rest of this pamphlet will give you:
 5. Common errors and how to avoid them
 6. Practice exercises to build fluency
 
-By the end, you should be able to construct and understand relative clauses in Phi with confidence. The pattern that seems strange now will become second nature.
+By the end, you should be able to construct and understand relative clauses in Phi.

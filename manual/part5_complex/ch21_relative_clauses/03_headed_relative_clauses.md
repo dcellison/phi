@@ -31,8 +31,8 @@ mia rena serao nai shelu theo
 A location describes the noun:
 
 ```
-rena toremoa nia nai womu phelora nai
-REL mountain on be home beautiful be
+rena nia toremoa nai womu phelora nai
+REL on mountain be home beautiful be
 (the home that is on the mountain is beautiful.)
 ```
 
@@ -63,8 +63,8 @@ The relative clause `rena shia to kealo nophi` modifies "story," and the whole n
 **With prepositions:**
 
 ```
-mia rena shelira mua nai ruela nia thalo
-1SG REL forest LOC be path on walk
+mia nia rena mua shelira nai ruela thalo
+1SG on REL LOC forest be path walk
 (i walk on the path that is in the forest.)
 ```
 
@@ -73,14 +73,14 @@ mia rena shelira mua nai ruela nia thalo
 Relative clauses can include their own modifiers, objects, and adverbials:
 
 ```
-mia rena mia serao shelira mua to thalo ruela lothea
-1SG REL 1SG old forest LOC PST walk path love
+mia rena mia mua serao shelira to thalo ruela lothea
+1SG REL 1SG LOC old forest PST walk path love
 (i love the path that i walked in the old forest.)
 ```
 
 ```
-rena shia lopia wei phelora nophi to haolu miona ha nai
-REL 3SG child to beautiful story PST speak person here be
+rena shia wei lopia phelora nophi to haolu miona ha nai
+REL 3SG to child beautiful story PST speak person here be
 (the person who told a beautiful story to the child is here.)
 ```
 

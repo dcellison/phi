@@ -10,7 +10,7 @@ A fully-loaded sentence follows this pattern:
 
 Or more precisely:
 
-**[Frame] [Subject] [Tense-Aspect-Voice-Evid-Modal-Neg] [Word-particles + Words] [Verb]**
+**[Frame] [Subject] [Word-particles + Words] [Tense-Aspect-Voice-Evid-Modal-Neg] [Verb]**
 
 ## Example: Building a complex sentence
 
@@ -18,15 +18,15 @@ Let's construct a sentence layer by layer:
 
 **Base:** Mia melu nila. — I see a friend.
 
-**Add future:** Mia so melu nila. — I will see a friend.
+**Add future:** Mia melu so nila. — I will see a friend.
 
-**Add possibility:** Mia so po melu nila. — I might see a friend.
+**Add possibility:** Mia melu so po nila. — I might see a friend.
 
-**Make it plural:** Mia so po lo melu nila. — I might see friends.
+**Make it plural:** Mia lo melu so po nila. — I might see friends.
 
-**Make it proximal:** Mia so po ha lo melu nila. — I might see these friends.
+**Make it proximal:** Mia ha lo melu so po nila. — I might see these friends.
 
-**Add politeness:** Pi mia so po ha lo melu nila. — (Politely) I might see these friends.
+**Add politeness:** Pi mia ha lo melu so po nila. — (Politely) I might see these friends.
 
 **Make it a question:** Pi wa mia so po ha lo melu nila? — Might I please see these friends?
 

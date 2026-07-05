@@ -168,9 +168,16 @@ manual as it exists; update it whenever chapters change.*
 3. Headed Relative Clauses
 4. Headless Relative Clauses
 
-*(There is no chapter 22. A planned nominalization chapter was retired:
-Phi's analytic grammar lets words serve as nouns without derivation, so
-the topic dissolved into chapters 13 and 21 and the glossary.)*
+### Chapter 22: Numbers
+1. The Ternary Foundation
+2. Building Numbers
+3. Approximation: The Honest Quantities
+4. Position and Kind
+5. Conscious Calculation
+
+*(Chapter 22 was long a gap — first a retired nominalization chapter,
+then nothing. It became the numbers chapter in July 2026, when the old
+narrative grammar's numerals material was dissolved into the manual.)*
 
 ---
 

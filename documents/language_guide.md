@@ -42,7 +42,7 @@ Phi's vocabulary is designed to reflect an interconnected worldview. Rather than
 
 - **Example: The word `womu`**
   - In English, a "house" (the structure) and a "home" (the belonging) are two different ideas, and a person can have one without the other.
-  - In Phi, `womu` is the dwelling-heart: shelter and belonging in a single word. To say `mia womu na turema` ("I must return home") is to name both the place and the bond at once.
+  - In Phi, `womu` is the dwelling-heart: shelter and belonging in a single word. To say `mia wea womu na turema` ("I must return home") is to name both the place and the bond at once.
   - This design choice encourages speakers to see the interconnectedness of the physical and the relational, a core principle of the language.
 
 ### 2.5. Compositional Elegance

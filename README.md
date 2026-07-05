@@ -12,6 +12,8 @@
 | **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, twenty-four graded chapters about one household, and a capstone. No prior knowledge assumed. |
 | **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social registers, transmutation. For verification and depth. |
 
+Four shelves, four jobs: `documents/` is what the language **is** (the specification), the manual is how it is **explained**, the primer is how it is **learned**, and the pamphlets are how it is **practiced**.
+
 ## The language itself
 
 | | |

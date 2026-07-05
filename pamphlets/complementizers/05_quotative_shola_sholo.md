@@ -1,6 +1,6 @@
-# Quotative Embedding: `shola`/`sholo`
+# Quotative embedding: `shola`/`sholo`
 
-The quotative complementizer pair `shola`/`sholo` preserves someone's exact words, functioning as spoken quotation marks. Unlike `mena`/`meno` which reports content, `shola`/`sholo` maintains the original form of speech, honoring the trust required when we carry another's voice.
+The quotative complementizer pair `shola`/`sholo` preserves someone's exact words: it is Phi's spoken quotation marks. Unlike `mena`/`meno`, which reports content, `shola`/`sholo` keeps the original form of speech.
 
 ## The basic structure
 
@@ -16,18 +16,18 @@ Everything between `shola` and `sholo` is preserved exactly as spoken. The main 
 
 ```
 shia shola mia wepu sholo haolu
-3SG QUOT 1SG leave QUOT.CLOSE say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
 (They said: "I am leaving.")
 ```
 
 Breaking this down:
-- `shia` — main clause subject (ko, the one who spoke)
+- `shia` — main clause subject (the one who spoke)
 - `shola` — opens quotation
 - `mia wepu` — quoted material: "I am leaving"
 - `sholo` — closes quotation
 - `haolu` — main verb (say)
 
-Note: the `mia` inside the quote refers to they (the original speaker), not to whoever is reporting the quote now.
+Note: the `mia` inside the quote refers to the original speaker, not to whoever is reporting the quote now.
 
 ## Sound symbolism
 
@@ -39,13 +39,7 @@ Speaking `shola` feels like opening your mouth to speak another's words. Speakin
 
 ## The sacred trust of quotation
 
-Phi treats exact quotation as a responsibility. When you use `shola`/`sholo`, you commit to preserving the original speaker's words without alteration. This reflects several of Phi's core values:
-
-**Accuracy:** Misquotation causes harm. By grammaticalizing the distinction between quotation and paraphrase, Phi makes speakers conscious of when they are transmitting words faithfully versus interpreting meaning.
-
-**Attribution:** The quoted material belongs to its original speaker. The frame makes clear whose words these are.
-
-**Humility:** Paraphrasing presumes understanding. Quotation acknowledges that sometimes the original words matter more than our interpretation.
+Phi treats exact quotation as a responsibility. When you use `shola`/`sholo`, you commit to preserving the original speaker's words without alteration. Misquotation causes harm, and by building the distinction between quotation and paraphrase into the grammar, Phi makes speakers conscious of when they are transmitting words faithfully and when they are interpreting meaning. The quoted material belongs to its original speaker; the frame makes clear whose words these are. And where paraphrasing presumes understanding, quotation admits that sometimes the original words matter more than our reading of them.
 
 In contexts where exact words matter, whether sacred texts, legal testimony, or simply respecting someone's voice, `shola`/`sholo` provides the appropriate structure.
 
@@ -56,16 +50,16 @@ This distinction is fundamental:
 **Quotation (`shola`/`sholo`):** Preserves exact words.
 ```
 shia shola mia wepu sholo haolu
-3SG QUOT 1SG leave QUOT.CLOSE say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
 (They said: "I am leaving.")
 ```
 
-The `mia` is ko's word. They called themselves `mia`.
+The `mia` is the original speaker's word. They called themselves `mia`.
 
 **Content reporting (`mena`/`meno`):** Conveys meaning with shifted reference.
 ```
 shia mena shia to wepu meno haolu
-3SG DECL 3SG PST leave DECL.CLOSE say
+3SG DECL.COMP 3SG PST go DECL.COMP.CLOSE say
 (They said that they were leaving.)
 ```
 
@@ -78,18 +72,18 @@ Imagine they said: "I love you" to someone.
 Quotation:
 ```
 shia shola mia thia lothea sholo haolu
-3SG QUOT 1SG 2SG love QUOT.CLOSE say
+3SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE say
 (They said: "I love you.")
 ```
 
 Content reporting:
 ```
 shia mena shia thia lothea meno haolu
-3SG DECL 3SG 2SG love DECL.CLOSE say
+3SG DECL.COMP 3SG 2SG love DECL.COMP.CLOSE say
 (They said that they love you.)
 ```
 
-In the quotation, `mia` and `thia` are exactly what they said. In the content report, we translate ko's self-reference to `shia` and keep `thia` as the addressee from our perspective.
+In the quotation, `mia` and `thia` are exactly what they said. In the content report, we translate the speaker's self-reference to `shia` and keep `thia` as the addressee from our perspective.
 
 ## Verbs that take `shola`/`sholo` clauses
 
@@ -99,13 +93,13 @@ Quotative embedding works with verbs of speaking and communication:
 
 ```
 shia shola sorae phelora nai sholo haolu
-3SG QUOT sun beautiful be QUOT.CLOSE say
+3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
 (They said: "The sun is beautiful.")
 ```
 
 ```
 melu shola lo mia so turema sholo haolu
-friend QUOT PL 1SG FUT return QUOT.CLOSE say
+friend QUOT.COMP 1PL FUT return QUOT.COMP.CLOSE say
 (The friend said: "We will return.")
 ```
 
@@ -113,7 +107,7 @@ friend QUOT PL 1SG FUT return QUOT.CLOSE say
 
 ```
 shia shola wa thia towe nai sholo thilou
-3SG QUOT Q 2SG well be QUOT.CLOSE ask
+3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE ask
 (They asked: "Are you well?")
 ```
 
@@ -123,7 +117,7 @@ Note: The direct question particle `wa` appears inside the quotation because it 
 
 ```
 miona shola mia ha nai sholo haolu
-person QUOT 1SG here be QUOT.CLOSE say
+person QUOT.COMP 1SG here be QUOT.COMP.CLOSE say
 (The person announced: "I am here.")
 ```
 
@@ -133,8 +127,8 @@ Manner of speaking can modify the verb:
 
 ```
 shia shola mia wepu sholo shena haolu
-3SG QUOT 1SG leave QUOT.CLOSE calmly say
-(They said quietly: "I am leaving.")
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE calm say
+(They said calmly: "I am leaving.")
 ```
 
 ## Quoting phrases and fragments
@@ -145,7 +139,7 @@ Not all quotations are complete sentences. `shola`/`sholo` can frame any linguis
 
 ```
 shia shola shewo sholo haolu
-3SG QUOT true QUOT.CLOSE say
+3SG QUOT.COMP true QUOT.COMP.CLOSE say
 (They said: "True.")
 ```
 
@@ -153,7 +147,7 @@ shia shola shewo sholo haolu
 
 ```
 melu shola phelora sorae sholo haolu
-friend QUOT beautiful sun QUOT.CLOSE say
+friend QUOT.COMP beautiful sun QUOT.COMP.CLOSE say
 (The friend said: "Beautiful sun.")
 ```
 
@@ -161,13 +155,13 @@ friend QUOT beautiful sun QUOT.CLOSE say
 
 ```
 shia shola no shua sholo haolu
-3SG QUOT IMP come QUOT.CLOSE say
+3SG QUOT.COMP IMP come QUOT.COMP.CLOSE say
 (They said: "Come!")
 ```
 
 ```
-melu shola hoi sholo haolu
-friend QUOT wow QUOT.CLOSE say
+melu shola wao sholo haolu
+friend QUOT.COMP wow QUOT.COMP.CLOSE say
 (The friend exclaimed: "Wow!")
 ```
 
@@ -179,7 +173,7 @@ When the quoted material is a question, the question particle `wa` appears insid
 
 ```
 shia shola wa thia wepu sholo thilou
-3SG QUOT Q 2SG leave QUOT.CLOSE ask
+3SG QUOT.COMP Q 2SG go QUOT.COMP.CLOSE ask
 (They asked: "Are you leaving?")
 ```
 
@@ -187,13 +181,13 @@ shia shola wa thia wepu sholo thilou
 
 ```
 melu shola sua ha nai sholo thilou
-friend QUOT who here be QUOT.CLOSE ask
+friend QUOT.COMP who here be QUOT.COMP.CLOSE ask
 (The friend asked: "Who is here?")
 ```
 
 ```
-shia shola thia phoe nila sholo thilou
-3SG QUOT 2SG what see QUOT.CLOSE ask
+shia shola thia hina nila sholo thilou
+3SG QUOT.COMP 2SG what see QUOT.COMP.CLOSE ask
 (They asked: "What do you see?")
 ```
 
@@ -201,7 +195,7 @@ Compare with embedded questions using `wela`/`welo`:
 
 ```
 shia wela thia wepu welo thilou
-3SG INT.COMP 2SG leave INT.COMP.CLOSE ask
+3SG INT.COMP 2SG go INT.COMP.CLOSE ask
 (They asked whether you were leaving.)
 ```
 
@@ -212,8 +206,8 @@ The `wela`/`welo` version reports the question's content. The `shola`/`sholo` ve
 Quotations can be as long as needed. Everything between `shola` and `sholo` is quoted material:
 
 ```
-shia shola mia so wepu. mia womu na turema. no thia towe nai sholo haolu
-3SG QUOT 1SG FUT leave. 1SG home NEC return. IMP 2SG well be QUOT.CLOSE say
+shia shola mia so wepu. mia wea womu na turema. no thia towe nai sholo haolu
+3SG QUOT.COMP 1SG FUT go. 1SG TOWARD home NEC return. IMP 2SG well be QUOT.COMP.CLOSE say
 (They said: "I will leave. I must return home. Be well.")
 ```
 
@@ -225,7 +219,7 @@ What if someone quotes someone else quoting someone? Each level needs its own `s
 
 ```
 mia shola thia shola mia so turema sholo haolu sholo hea
-1SG QUOT 2SG QUOT 1SG FUT return QUOT.CLOSE say QUOT.CLOSE hear
+1SG QUOT.COMP 2SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say QUOT.COMP.CLOSE hear
 (I heard: "You said: 'I will return.'")
 ```
 
@@ -246,18 +240,18 @@ The quoted material preserves its original form. The frame (main clause) can hav
 ### Past frame
 
 ```
-shia to shola mia wepu sholo haolu
-3SG PST QUOT 1SG leave QUOT.CLOSE say
-(They had said: "I am leaving.")
+shia shola mia wepu sholo to haolu
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
+(They said: "I am leaving.")
 ```
 
-The quoted material remains as they originally spoke it, while `to` marks that the saying happened in the past.
+The quoted material remains as they originally spoke it, while `to` on the frame verb, after the closer, marks that the saying happened in the past.
 
 ### Future frame
 
 ```
-shia so shola mia so turema sholo haolu
-3SG FUT QUOT 1SG FUT return QUOT.CLOSE say
+shia shola mia so turema sholo so haolu
+3SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE FUT say
 (They will say: "I will return.")
 ```
 
@@ -268,15 +262,15 @@ When the speaker is clear from context:
 **Full form:**
 ```
 shia shola mia wepu sholo haolu
-3SG QUOT 1SG leave QUOT.CLOSE say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
 (They said: "I am leaving.")
 ```
 
 **With topic-drop:**
 ```
 shola mia wepu sholo haolu
-QUOT 1SG leave QUOT.CLOSE say
-(Ko) said: "I am leaving.".)
+QUOT.COMP 1SG go QUOT.COMP.CLOSE say
+((They) said: "I am leaving.")
 ```
 
 The quoted material remains intact.
@@ -287,13 +281,13 @@ The main clause can question the quotation:
 
 ```
 wa shia shola mia wepu sholo haolu
-Q 3SG QUOT 1SG leave QUOT.CLOSE say
+Q 3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
 (Did they say: "I am leaving"?)
 ```
 
 ```
 wa thia shola shewo sholo hea
-Q 2SG QUOT true QUOT.CLOSE hear
+Q 2SG QUOT.COMP true QUOT.COMP.CLOSE hear
 (Did you hear (someone say): "True"?)
 ```
 
@@ -303,7 +297,7 @@ Negating that someone said something:
 
 ```
 shia shola mia wepu sholo ma haolu
-3SG QUOT 1SG leave QUOT.CLOSE NEG say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE NEG say
 (They did not say: "I am leaving.")
 ```
 
@@ -311,7 +305,7 @@ Negation inside the quote (if that's what was said):
 
 ```
 shia shola mia ma wepu sholo haolu
-3SG QUOT 1SG NEG leave QUOT.CLOSE say
+3SG QUOT.COMP 1SG NEG go QUOT.COMP.CLOSE say
 (They said: "I am not leaving.")
 ```
 
@@ -339,8 +333,8 @@ Neither is "better." They serve different communicative purposes.
 ### Teaching speech
 
 ```
-thia shola mia melu nai sholo no haolu. mia melu thia nai
-2SG QUOT 1SG friend be QUOT.CLOSE IMP say. 1SG friend 2SG be
+no shola mia thia melu nai sholo haolu. mia thia melu nai
+IMP QUOT.COMP 1SG 2SG friend be QUOT.COMP.CLOSE say. 1SG 2SG friend be
 (Say: "I am your friend." I am your friend.)
 ```
 
@@ -350,7 +344,7 @@ The teacher quotes the words to be learned, then uses regular speech.
 
 ```
 shewo nophi shola no wei theula miona lothea loa. no theula melu naphe sholo haolu
-true story QUOT IMP to all person love give. IMP all friend help QUOT.CLOSE say
+true story QUOT.COMP IMP DAT UNIV person love give. IMP UNIV friend help QUOT.COMP.CLOSE say
 (The true story says: "Give love to all people. Help all friends.")
 ```
 
@@ -360,7 +354,7 @@ Preserving sacred text exactly as transmitted.
 
 ```
 shia shola wa thia towe nai sholo thilou. mia shola mia towe nai sholo haolu
-3SG QUOT Q 2SG well be QUOT.CLOSE ask. 1SG QUOT 1SG well be QUOT.CLOSE say
+3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE ask. 1SG QUOT.COMP 1SG well be QUOT.COMP.CLOSE say
 (They asked: "Are you well?" I said: "I am well.")
 ```
 
@@ -370,12 +364,12 @@ Recounting dialogue with exact words preserved.
 
 ```
 shia shola mia thia lothea sholo haolu. shia mena shia mia lothea meno haolu
-3SG QUOT 1SG 2SG love QUOT.CLOSE say. 3SG DECL 3SG 1SG love DECL.CLOSE say
-(They said: "I love you." They said that they loves me.)
+3SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE say. 3SG DECL.COMP 3SG 1SG love DECL.COMP.CLOSE say
+(They said: "I love you." They said that they love me.)
 ```
 
 Both sentences report the same event, but:
-- The first preserves ko's words exactly
+- The first preserves the speaker's words exactly
 - The second translates the meaning with shifted pronouns
 
 ## Summary
@@ -392,8 +386,8 @@ Distinguished from `mena`/`meno`:
 
 The system handles any length of quoted material. Nesting is possible. Questions, commands, and fragments can all be quoted.
 
-Master this pair, and you can faithfully transmit the words of others.
+`shola` marks where your voice ends and another's begins; `sholo` gives the voice back.
 
 ---
 
-*Next: Advanced Patterns and Nesting*
+*Next: Advanced patterns and nesting*

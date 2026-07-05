@@ -1,6 +1,6 @@
-# Declarative Embedding: `mena`/`meno`
+# Declarative embedding: `mena`/`meno`
 
-The declarative complementizer pair `mena`/`meno` is the workhorse of Phi's embedding system. It introduces statements that are known, believed, felt, said (as content), or otherwise reported. This section provides comprehensive coverage with extensive examples.
+The declarative complementizer pair `mena`/`meno` is the workhorse of Phi's embedding system. It introduces statements that are known, believed, felt, said (as content), or otherwise reported.
 
 ## The basic structure
 
@@ -16,7 +16,7 @@ The embedded statement follows standard Phi word order (SOV). The main verb come
 
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -42,26 +42,26 @@ Declarative embedding works with several categories of verbs:
 ### Cognitive verbs (knowing, believing, understanding)
 
 ```
-mia mena sorae theru nai meno sano
-1SG DECL sun warm be DECL.CLOSE know
+mia mena sorae sulae nai meno sano
+1SG DECL.COMP sun warm be DECL.COMP.CLOSE know
 (I know that the sun is warm.)
 ```
 
 ```
 shia mena pheralu so shua meno nohero
-3SG DECL rain FUT come DECL.CLOSE believe
+3SG DECL.COMP rain FUT come DECL.COMP.CLOSE believe
 (They believe that rain will come.)
 ```
 
 ```
 lo mia mena nophi shewo nai meno shelomui
-PL 1SG DECL story true be DECL.CLOSE understand
+1PL DECL.COMP story true be DECL.COMP.CLOSE understand
 (We understand that the story is true.)
 ```
 
 ```
 thia mena mia to naphe meno remo
-2SG DECL 1SG PST help DECL.CLOSE think
+2SG DECL.COMP 1SG PST help DECL.COMP.CLOSE think
 (You think that I helped.)
 ```
 
@@ -69,35 +69,37 @@ thia mena mia to naphe meno remo
 
 ```
 mia mena sorae phelora nai meno nila
-1SG DECL sun beautiful be DECL.CLOSE see
+1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE see
 (I see that the sun is beautiful.)
 ```
 
 ```
-shia mena lopia hea meno hea
-3SG DECL child cry DECL.CLOSE hear
-(They hear that the child is crying.)
+shia mena lopia nuhewa meno hea
+3SG DECL.COMP child weep DECL.COMP.CLOSE hear
+(They hear that the child is weeping.)
 ```
 
 ```
 mia mena nophi shewo nai meno phaelo
-1SG DECL story true be DECL.CLOSE feel
+1SG DECL.COMP story true be DECL.COMP.CLOSE feel
 (I feel that the story is true.)
 ```
 
 ### Communication verbs (saying, reporting content)
 
 ```
-shia mena thia to wepu meno haolu
-3SG DECL 2SG PST leave DECL.CLOSE say
+shia mena thia to wepu meno to haolu
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST say
 (They said that you left.)
 ```
 
 ```
-melu mena mia so turema meno haolu
-friend DECL 1SG FUT return DECL.CLOSE say
+melu mena mia so turema meno to haolu
+friend DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST say
 (The friend said that I will return.)
 ```
+
+The frame verb carries its own tense after the closer: the leaving and the saying are marked separately.
 
 Note: `mena`/`meno` reports the *content* of what was said, not the *exact words*. For exact words, use `shola`/`sholo` (covered in Section 5).
 
@@ -105,13 +107,13 @@ Note: `mena`/`meno` reports the *content* of what was said, not the *exact words
 
 ```
 mia mena thia towe nai meno kela
-1SG DECL 2SG well be DECL.CLOSE rejoice
+1SG DECL.COMP 2SG well be DECL.COMP.CLOSE rejoice
 (I am glad that you are well.)
 ```
 
 ```
-shia mena pheralu so shua meno sui phaelo
-3SG DECL rain FUT come DECL.CLOSE afraid feel
+shia mena pheralu so shua meno sukima phaelo
+3SG DECL.COMP rain FUT come DECL.COMP.CLOSE fear feel
 (They fear that rain will come.)
 ```
 
@@ -123,13 +125,13 @@ The embedded clause can contain any tense or aspect marking:
 
 ```
 mia mena shia to kamo meno shelomui
-1SG DECL 3SG PST arrive DECL.CLOSE understand
+1SG DECL.COMP 3SG PST arrive DECL.COMP.CLOSE understand
 (I understand that they arrived.)
 ```
 
 ```
 shia mena thia to nila meno sano
-3SG DECL 2SG PST see DECL.CLOSE know
+3SG DECL.COMP 2SG PST see DECL.COMP.CLOSE know
 (They know that you saw.)
 ```
 
@@ -137,13 +139,13 @@ shia mena thia to nila meno sano
 
 ```
 mia mena sorae so shua meno nohero
-1SG DECL sun FUT come DECL.CLOSE believe
+1SG DECL.COMP sun FUT come DECL.COMP.CLOSE believe
 (I believe that the sun will come.)
 ```
 
 ```
 lo mia mena shia so turema meno kela
-PL 1SG DECL 3SG FUT return DECL.CLOSE rejoice
+1PL DECL.COMP 3SG FUT return DECL.COMP.CLOSE rejoice
 (We are glad that they will return.)
 ```
 
@@ -151,21 +153,21 @@ PL 1SG DECL 3SG FUT return DECL.CLOSE rejoice
 
 ```
 mia mena melu ro naphe meno sano
-1SG DECL friend HAB help DECL.CLOSE know
+1SG DECL.COMP friend HAB help DECL.COMP.CLOSE know
 (I know that the friend habitually helps.)
 ```
 
 ```
 shia mena sorae ro shua meno nila
-3SG DECL sun HAB come DECL.CLOSE see
+3SG DECL.COMP sun HAB come DECL.COMP.CLOSE see
 (They see that the sun habitually comes.)
 ```
 
 ### Perfective aspect (`ki`)
 
 ```
-mia mena shelu ki kealo meno nila
-1SG DECL book PFV create DECL.CLOSE see
+mia mena shelu ki se kealo meno nila
+1SG DECL.COMP book PFV PASS create DECL.COMP.CLOSE see
 (I see that the book has been created.)
 ```
 
@@ -175,13 +177,13 @@ Negation inside the embedded clause uses `ma`:
 
 ```
 mia mena shia to ma wepu meno shelomui
-1SG DECL 3SG PST NEG leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST NEG go DECL.COMP.CLOSE understand
 (I understand that they did not leave.)
 ```
 
 ```
-shia mena pheralu ma so shua meno nohero
-3SG DECL rain NEG FUT come DECL.CLOSE believe
+shia mena pheralu so ma shua meno nohero
+3SG DECL.COMP rain FUT NEG come DECL.COMP.CLOSE believe
 (They believe that rain will not come.)
 ```
 
@@ -189,7 +191,7 @@ Negation of the main verb:
 
 ```
 mia mena shia to wepu meno ma shelomui
-1SG DECL 3SG PST leave DECL.CLOSE NEG understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE NEG understand
 (I do not understand that they left.)
 ```
 
@@ -197,7 +199,7 @@ Both can occur:
 
 ```
 mia mena shia to ma wepu meno ma shelomui
-1SG DECL 3SG PST NEG leave DECL.CLOSE NEG understand
+1SG DECL.COMP 3SG PST NEG go DECL.COMP.CLOSE NEG understand
 (I do not understand that they did not leave.)
 ```
 
@@ -209,24 +211,16 @@ The `meno` makes clear which negation belongs to which clause.
 
 ```
 mia mena shia po shua meno remo
-1SG DECL 3SG POSS come DECL.CLOSE think
+1SG DECL.COMP 3SG POT come DECL.COMP.CLOSE think
 (I think that they might come.)
 ```
 
 ### Necessity (`na`)
 
 ```
-shia mena lo mia na wepu meno haolu
-3SG DECL PL 1SG NEC leave DECL.CLOSE say
+shia mena lo mia na wepu meno to haolu
+3SG DECL.COMP 1PL NEC go DECL.COMP.CLOSE PST say
 (They said that we must leave.)
-```
-
-### Conditional (`lu`)
-
-```
-mia mena shia lu shua meno nohero
-1SG DECL 3SG COND come DECL.CLOSE believe
-(I believe that they would come (conditionally).)
 ```
 
 ## Complex embedded clauses
@@ -237,13 +231,13 @@ The embedded clause can contain its own subject, object, and modifiers:
 
 ```
 mia mena shia shelu kealo meno nila
-1SG DECL 3SG book create DECL.CLOSE see
+1SG DECL.COMP 3SG book create DECL.COMP.CLOSE see
 (I see that they create books.)
 ```
 
 ```
 shia mena melu thia to naphe meno sano
-3SG DECL friend 2SG PST help DECL.CLOSE know
+3SG DECL.COMP friend 2SG PST help DECL.COMP.CLOSE know
 (They know that the friend helped you.)
 ```
 
@@ -251,15 +245,15 @@ shia mena melu thia to naphe meno sano
 
 ```
 mia mena shia melu shelu loa meno nila
-1SG DECL 3SG friend book give DECL.CLOSE see
+1SG DECL.COMP 3SG friend book give DECL.COMP.CLOSE see
 (I see that they give the friend a book.)
 ```
 
 ### With adverbials
 
 ```
-mia mena shia pelua to wepu meno phaelo
-1SG DECL 3SG quickly PST leave DECL.CLOSE feel
+mia mena shia reshi to wepu meno phaelo
+1SG DECL.COMP 3SG fast PST go DECL.COMP.CLOSE feel
 (I feel that they left quickly.)
 ```
 
@@ -267,7 +261,7 @@ mia mena shia pelua to wepu meno phaelo
 
 ```
 shia mena melu mua womu nai meno sano
-3SG DECL friend LOC home be DECL.CLOSE know
+3SG DECL.COMP friend LOC home be DECL.COMP.CLOSE know
 (They know that the friend is at home.)
 ```
 
@@ -277,19 +271,19 @@ Many embedded statements are copular sentences using `nai`:
 
 ```
 mia mena sorae phelora nai meno nila
-1SG DECL sun beautiful be DECL.CLOSE see
+1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE see
 (I see that the sun is beautiful.)
 ```
 
 ```
 shia mena nophi shewo nai meno nohero
-3SG DECL story true be DECL.CLOSE believe
+3SG DECL.COMP story true be DECL.COMP.CLOSE believe
 (They believe that the story is true.)
 ```
 
 ```
 lo mia mena melu welao nai meno phaelo
-PL 1SG DECL friend good be DECL.CLOSE feel
+1PL DECL.COMP friend good be DECL.COMP.CLOSE feel
 (We feel that the friend is good.)
 ```
 
@@ -303,7 +297,7 @@ The main clause can have various structures while still containing an embedded c
 
 ```
 wa thia mena shia to wepu meno sano
-Q 2SG DECL 3SG PST leave DECL.CLOSE know
+Q 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
 (Do you know that they left?)
 ```
 
@@ -311,15 +305,17 @@ Q 2SG DECL 3SG PST leave DECL.CLOSE know
 
 ```
 no mena shia to wepu meno remo
-IMP DECL 3SG PST leave DECL.CLOSE think
+IMP DECL.COMP 3SG PST go DECL.COMP.CLOSE think
 (Consider that they left!)
 ```
 
 ### Focused embedded content
 
+`ko` focuses the element it precedes, so to focus the embedded clause, `ko` stands before `mena`:
+
 ```
-mena shia to wepu meno ko mia shelomui
-DECL 3SG PST leave DECL.CLOSE FOC 1SG understand
+mia ko mena shia to wepu meno shelomui
+1SG FOC DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (It is that they left that I understand.)
 ```
 
@@ -330,14 +326,14 @@ When the subject of the main clause is clear from context, it can be dropped:
 **Full form:**
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
 **With topic-drop:**
 ```
 mena shia to wepu meno shelomui
-DECL 3SG PST leave DECL.CLOSE understand
+DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 ((I) understand that they left.)
 ```
 
@@ -349,39 +345,39 @@ The embedded clause structure remains intact. Only the main clause subject is dr
 
 ```
 wa thia mena pheralu so shua meno nohero
-Q 2SG DECL rain FUT come DECL.CLOSE believe
+Q 2SG DECL.COMP rain FUT come DECL.COMP.CLOSE believe
 (Do you believe that rain will come?)
 ```
 
 ```
-mia mena pheralu so shua meno nohero. thia wa
-1SG DECL rain FUT come DECL.CLOSE believe. 2SG Q
-(I believe that rain will come. And you?)
+mia mena pheralu so shua meno nohero
+1SG DECL.COMP rain FUT come DECL.COMP.CLOSE believe
+(I believe that rain will come.)
 ```
 
 ```
-mia mena pheralu ma so shua meno remo. sorae ha nai
-1SG DECL rain NEG FUT come DECL.CLOSE think. sun here be
+mia mena pheralu so ma shua meno remo. sorae ha nai
+1SG DECL.COMP rain FUT NEG come DECL.COMP.CLOSE think. sun here be
 (I think that rain will not come. The sun is here.)
 ```
 
 ### Reporting what someone said
 
 ```
-shia mena thia so turema meno haolu
-3SG DECL 2SG FUT return DECL.CLOSE say
+shia mena thia so turema meno to haolu
+3SG DECL.COMP 2SG FUT return DECL.COMP.CLOSE PST say
 (They said that you will return.)
 ```
 
 ```
-mia mena mia so turema meno ma haolu
-1SG DECL 1SG FUT return DECL.CLOSE NEG say
+mia mena mia so turema meno to ma haolu
+1SG DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST NEG say
 (I did not say that I will return.)
 ```
 
 ```
-shia mena mia mena mia so turema meno haolu meno nohero
-3SG DECL 1SG DECL 1SG FUT return DECL.CLOSE say DECL.CLOSE believe
+shia mena mia mena mia so turema meno to haolu meno nohero
+3SG DECL.COMP 1SG DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST say DECL.COMP.CLOSE believe
 (They believe that I said that I will return.)
 ```
 
@@ -389,18 +385,18 @@ shia mena mia mena mia so turema meno haolu meno nohero
 
 ```
 mia mena thia mena shia towe nai meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG well be DECL.CLOSE feel DECL.CLOSE understand
+1SG DECL.COMP 2SG DECL.COMP 3SG well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they are well.)
 ```
 
 ## Contrast with quotative (`shola`/`sholo`)
 
-A crucial distinction: `mena`/`meno` reports *content*, while `shola`/`sholo` preserves *exact words*.
+The distinction matters: `mena`/`meno` reports *content*, while `shola`/`sholo` preserves *exact words*.
 
 **Content reporting (`mena`/`meno`):**
 ```
-shia mena thia to wepu meno haolu
-3SG DECL 2SG PST leave DECL.CLOSE say
+shia mena thia to wepu meno to haolu
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST say
 (They said that you left.)
 ```
 
@@ -408,12 +404,12 @@ Here, "you" refers to whoever the main clause speaker is addressing. The pronoun
 
 **Exact quotation (`shola`/`sholo`):**
 ```
-shia shola mia wepu sholo haolu
-3SG QUOT 1SG leave QUOT.CLOSE say
+shia shola mia wepu sholo to haolu
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
 (They said: "I am leaving.")
 ```
 
-Here, "I" is ko's own word, preserved verbatim. The pronouns remain as originally spoken.
+Here, "I" is the original speaker's own word, preserved verbatim. The pronouns remain as originally spoken.
 
 More on this distinction in Section 5.
 
@@ -427,8 +423,6 @@ More on this distinction in Section 5.
 
 The system works with all tense, aspect, mood, and negation markers. Clauses can be as simple or complex as meaning requires. Nesting is unlimited.
 
-Master this pair, and you have unlocked Phi's capacity for expressing thought about thought.
-
 ---
 
-*Next: Interrogative Embedding with `wela`/`welo`*
+*Next: Interrogative embedding with `wela`/`welo`*

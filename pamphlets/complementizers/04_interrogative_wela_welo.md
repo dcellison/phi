@@ -1,4 +1,4 @@
-# Interrogative Embedding: `wela`/`welo`
+# Interrogative embedding: `wela`/`welo`
 
 The interrogative complementizer pair `wela`/`welo` introduces embedded questions: uncertainties being wondered about, inquiries being asked, possibilities being considered. This section covers the full range of interrogative embedding in Phi.
 
@@ -16,7 +16,7 @@ The embedded question follows standard Phi word order. The main verb comes after
 
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
@@ -45,7 +45,7 @@ Phi has several question-related words. Understanding their differences is essen
 
 ```
 wa thia wepu
-Q 2SG leave
+Q 2SG go
 (Are you leaving?)
 ```
 
@@ -57,7 +57,7 @@ This is a real question, directed at the listener, expecting a response.
 
 ```
 mia wela thia wepu welo phaelo
-1SG INT.COMP 2SG leave INT.COMP.CLOSE wonder
+1SG INT.COMP 2SG go INT.COMP.CLOSE wonder
 (I wonder whether you are leaving.)
 ```
 
@@ -69,7 +69,7 @@ The Slot 0 particle `lu` frames conditional sentences (if-then):
 
 ```
 lu thia wepu. mia ma towe phaelo
-COND 2SG leave. 1SG NEG well feel
+COND 2SG go. 1SG NEG well feel
 (If you leave, I will not feel well.)
 ```
 
@@ -103,22 +103,24 @@ mia wela pheralu so shua welo phaelo
 ```
 shia wela nophi shewo nai welo remo
 3SG INT.COMP story true be INT.COMP.CLOSE think
-(They contemplates whether the story is true.)
+(They contemplate whether the story is true.)
 ```
 
 ### Asking and inquiring
 
 ```
-shia wela mia to nila welo thilou
-3SG INT.COMP 1SG PST see INT.COMP.CLOSE ask
+shia wela mia to nila welo to thilou
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST ask
 (They asked whether I had seen.)
 ```
 
 ```
-melu wela thia so turema welo thilou
-friend INT.COMP 2SG FUT return INT.COMP.CLOSE ask
+melu wela thia so turema welo to thilou
+friend INT.COMP 2SG FUT return INT.COMP.CLOSE PST ask
 (The friend asked whether you will return.)
 ```
+
+As with `mena`/`meno`, the frame verb carries its own tense after the closer: the asking is marked past with `to` while the embedded clause keeps its own time.
 
 ### Knowing and not knowing
 
@@ -130,7 +132,7 @@ mia wela shia towe nai welo sano
 
 ```
 lo mia wela sorae so shua welo ma sano
-PL 1SG INT.COMP sun FUT come INT.COMP.CLOSE NEG know
+1PL INT.COMP sun FUT come INT.COMP.CLOSE NEG know
 (We do not know whether the sun will come.)
 ```
 
@@ -163,8 +165,8 @@ mia wela shia to kamo welo phaelo
 ```
 
 ```
-shia wela melu to naphe welo thilou
-3SG INT.COMP friend PST help INT.COMP.CLOSE ask
+shia wela melu to naphe welo to thilou
+3SG INT.COMP friend PST help INT.COMP.CLOSE PST ask
 (They asked whether the friend had helped.)
 ```
 
@@ -178,7 +180,7 @@ mia wela pheralu so shua welo ma sano
 
 ```
 lo mia wela shia so turema welo phaelo
-PL 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE wonder
+1PL INT.COMP 3SG FUT return INT.COMP.CLOSE wonder
 (We wonder whether they will return.)
 ```
 
@@ -193,8 +195,8 @@ shia wela sorae ro shua welo sano
 ### Perfective aspect (`ki`)
 
 ```
-mia wela shelu ki kealo welo nila
-1SG INT.COMP book PFV create INT.COMP.CLOSE see
+mia wela shelu ki se kealo welo nila
+1SG INT.COMP book PFV PASS create INT.COMP.CLOSE see
 (I discovered whether the book has been created.)
 ```
 
@@ -204,7 +206,7 @@ Negation inside the embedded question:
 
 ```
 mia wela shia to ma wepu welo phaelo
-1SG INT.COMP 3SG PST NEG leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST NEG go INT.COMP.CLOSE wonder
 (I wonder whether they did not leave.)
 ```
 
@@ -212,7 +214,7 @@ Negation of the main verb:
 
 ```
 mia wela shia to wepu welo ma sano
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE NEG know
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE NEG know
 (I do not know whether they left.)
 ```
 
@@ -220,7 +222,7 @@ Both:
 
 ```
 mia wela shia to ma wepu welo ma sano
-1SG INT.COMP 3SG PST NEG leave INT.COMP.CLOSE NEG know
+1SG INT.COMP 3SG PST NEG go INT.COMP.CLOSE NEG know
 (I do not know whether they did not leave.)
 ```
 
@@ -230,15 +232,15 @@ mia wela shia to ma wepu welo ma sano
 
 ```
 mia wela shia po shua welo phaelo
-1SG INT.COMP 3SG POSS come INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG POT come INT.COMP.CLOSE wonder
 (I wonder whether they might come.)
 ```
 
 ### Necessity (`na`)
 
 ```
-shia wela lo mia na wepu welo thilou
-3SG INT.COMP PL 1SG NEC leave INT.COMP.CLOSE ask
+shia wela lo mia na wepu welo to thilou
+3SG INT.COMP 1PL NEC go INT.COMP.CLOSE PST ask
 (They asked whether we must leave.)
 ```
 
@@ -271,8 +273,8 @@ mia wela shia melu shelu loa welo nila
 ### With prepositional phrases
 
 ```
-shia wela melu mua womu nai welo thilou
-3SG INT.COMP friend LOC home be INT.COMP.CLOSE ask
+shia wela melu mua womu nai welo to thilou
+3SG INT.COMP friend LOC home be INT.COMP.CLOSE PST ask
 (They asked whether the friend is at home.)
 ```
 
@@ -287,8 +289,8 @@ Q 2SG INT.COMP 3SG FUT return INT.COMP.CLOSE know
 ```
 
 ```
-wa shia wela mia towe nai welo thilou
-Q 3SG INT.COMP 1SG well be INT.COMP.CLOSE ask
+wa shia wela mia towe nai welo to thilou
+Q 3SG INT.COMP 1SG well be INT.COMP.CLOSE PST ask
 (Did they ask whether I am well?)
 ```
 
@@ -299,14 +301,14 @@ When the main clause subject is clear from context:
 **Full form:**
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
 **With topic-drop:**
 ```
 wela shia to wepu welo phaelo
-INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 ((I) wonder whether they left.)
 ```
 
@@ -317,7 +319,7 @@ Compare carefully:
 **Embedded statement (`mena`/`meno`):**
 ```
 mia mena shia to wepu meno sano
-1SG DECL 3SG PST leave DECL.CLOSE know
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
 (I know that they left.)
 ```
 
@@ -326,7 +328,7 @@ The speaker asserts knowledge of a fact.
 **Embedded question (`wela`/`welo`):**
 ```
 mia wela shia to wepu welo sano
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE know
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE know
 (I know whether they left.)
 ```
 
@@ -336,7 +338,7 @@ The speaker knows the answer to a question (but doesn't tell us what it is).
 
 ```
 mia mena shia to wepu meno ma sano
-1SG DECL 3SG PST leave DECL.CLOSE NEG know
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE NEG know
 (I don't know that they left.)
 ```
 
@@ -344,7 +346,7 @@ This could mean: I have no knowledge of their leaving.
 
 ```
 mia wela shia to wepu welo ma sano
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE NEG know
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE NEG know
 (I don't know whether they left.)
 ```
 
@@ -363,28 +365,28 @@ Q 2SG INT.COMP rain FUT come INT.COMP.CLOSE know
 ```
 
 ```
-mia wela pheralu so shua welo ma sano. thia wa
-1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG know. 2SG Q
-(I don't know whether rain will come. And you?)
+mia wela pheralu so shua welo ma sano
+1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG know
+(I don't know whether rain will come.)
 ```
 
 ```
 mia wela pheralu so shua welo ma phaelo. sorae ha nai
-1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG care. sun here be
+1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG feel. sun here be
 (I don't care whether rain will come. The sun is here.)
 ```
 
 ### Reporting someone's question
 
 ```
-shia wela thia so turema welo thilou
-3SG INT.COMP 2SG FUT return INT.COMP.CLOSE ask
+shia wela thia so turema welo to thilou
+3SG INT.COMP 2SG FUT return INT.COMP.CLOSE PST ask
 (They asked whether you will return.)
 ```
 
 ```
-wa thia wela mia to shua meno haolu
-Q 2SG INT.COMP 1SG PST come DECL.CLOSE say
+wa thia wela mia to shua welo to haolu
+Q 2SG INT.COMP 1SG PST come INT.COMP.CLOSE PST say
 (Did you tell whether I had come?)
 ```
 
@@ -411,14 +413,14 @@ mia wela sua to shua welo phaelo
 ```
 
 ```
-shia wela thia hina to nila welo thilou
-3SG INT.COMP 2SG what PST see INT.COMP.CLOSE ask
+shia wela thia hina to nila welo to thilou
+3SG INT.COMP 2SG what PST see INT.COMP.CLOSE PST ask
 (They asked what you saw.)
 ```
 
 ```
 lo mia wela shia kua nai welo ma sano
-PL 1SG INT.COMP 3SG where be INT.COMP.CLOSE NEG know
+1PL INT.COMP 3SG where be INT.COMP.CLOSE NEG know
 (We don't know where they are.)
 ```
 
@@ -439,8 +441,8 @@ Distinguished from:
 
 The system handles yes/no questions and content questions alike. Nesting is possible. The structure remains unambiguous.
 
-Master this pair, and you can express the full range of human uncertainty in Phi.
+With `wela` and `welo`, not knowing something becomes something you can say.
 
 ---
 
-*Next: Quotative Embedding with `shola`/`sholo`*
+*Next: Quotative embedding with `shola`/`sholo`*

@@ -1,4 +1,4 @@
-# Part 2: The Mechanics of `rena`
+# Part 2: The mechanics of `rena`
 
 ## The word itself
 
@@ -6,21 +6,15 @@ The relativizer `rena` announces that what follows is a descriptive clause. It's
 
 ### Sound symbolism
 
-The sound of `rena` reflects its function:
-
-- **`r`** — The rolling, liquid consonant creates connection. The tongue makes rapid contact, like a needle stitching fabric together. This is the sound of linking, of relation.
-- **`e`** — The neutral mid vowel maintains clarity. Neither high nor low, it keeps the connection transparent.
-- **`na`** — The grounding nasal `n` resonates through bone, anchoring the description. The final `a` opens toward what follows.
-
-Speaking `rena` feels like opening a descriptive space: the rolling `r` reaches forward, the `e` holds steady, and the `na` grounds the connection to whatever noun will complete it.
+The rolling `r` links and the grounding nasal `na` anchors: `rena` opens a descriptive space and holds it until the head noun arrives to close it.
 
 ### Gloss and category
 
 In linguistic glosses, `rena` is abbreviated as **REL** (relativizer). It belongs to the complementizer category alongside:
 
-- `mena`/`meno` (DECL) — introduces embedded statements
-- `shola`/`sholo` (QUOT) — introduces direct quotation
-- `wela`/`welo` (INT.COMP) — introduces embedded questions
+- `mena`/`meno` (DECL.COMP/DECL.COMP.CLOSE): introduces embedded statements
+- `shola`/`sholo` (QUOT.COMP/QUOT.COMP.CLOSE): introduces direct quotation
+- `wela`/`welo` (INT.COMP/INT.COMP.CLOSE): introduces embedded questions
 
 All complementizers announce what kind of clause is coming. `rena` specifically announces: "a descriptive clause follows; wait for the noun to learn what it describes."
 
@@ -69,8 +63,8 @@ The noun can then serve any role in the main clause: subject, object, or part of
 
 Phi's other clause-embedding complementizers often require closers:
 
-- `mena` ... `meno` (DECL ... DECL.CLOSE) — required pair for embedded statements
-- `shola` ... `sholo` (QUOT ... QUOT.CLOSE) — required pair for quotations
+- `mena` ... `meno` (DECL.COMP ... DECL.COMP.CLOSE): required pair for embedded statements
+- `shola` ... `sholo` (QUOT.COMP ... QUOT.COMP.CLOSE): required pair for quotations
 
 These closers exist because the embedded clause is followed by more material (the main verb), and without a boundary marker, the listener wouldn't know where the embedded clause ends.
 
@@ -82,8 +76,8 @@ The answer lies in position. Embedded statements with `mena` are followed by the
 
 ```
 mia mena shia to wepu meno sano
-1SG DECL 3SG PST go DECL.CLOSE know
-(i know that they left.)
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
+(i know that they went.)
 ```
 
 Without `meno`, the sentence would be ambiguous: where does the embedded clause end? Which verb belongs to which clause?
@@ -96,7 +90,7 @@ REL 3SG PST create story beautiful be
 (the story that they created is beautiful.)
 ```
 
-The noun `nophi` ("story") itself signals that the relative clause has ended. A clause can contain verbs, particles, adverbials — but when a bare noun appears, it must be the head. The noun IS the closer.
+The noun `nophi` ("story") itself signals that the relative clause has ended. Not every noun does this: a noun inside the clause is one of the clause's own arguments, as in `rena nophi kealo miona` (the person who creates stories), where `nophi` is the clause's object. The head is the noun that arrives after the clause is complete, the first noun after the clause's verb. That noun IS the closer.
 
 This is the advantage of pre-nominal relatives: they're self-delimiting. The structure has a built-in endpoint.
 
@@ -104,18 +98,16 @@ This is the advantage of pre-nominal relatives: they're self-delimiting. The str
 
 Train yourself to listen for the noun as a signal:
 
-1. You hear `rena` — a description is starting
-2. You hear clause material — subjects, verbs, particles
-3. You hear a noun without `rena` before it — the description is complete
+1. You hear `rena`: a description is starting
+2. You hear clause material: subjects, objects, particles, the verb
+3. You hear a noun after the clause's verb: the description is complete
 4. That noun is what was being described
-
-This rhythm becomes natural with practice.
 
 ## The gap strategy
 
 ### What is a gap?
 
-In a relative clause, the head noun plays a role inside the clause's action. "The book that I read" — the book is what was read. "The person who helped me" — the person is the helper.
+In a relative clause, the head noun plays a role inside the clause's action. In "the book that I read," the book is what was read; in "the person who helped me," the person is the helper.
 
 But the noun itself appears outside the clause, at the end. Inside the clause, there's a gap: an empty position where the noun would be if it were a normal sentence.
 
@@ -139,8 +131,8 @@ More examples:
 
 ```
 rena ___ to shua miona ha nai
-REL [gap] PST arrive person here be
-(the person who arrived is here.)
+REL [gap] PST come person here be
+(the person who came is here.)
 ```
 
 ```
@@ -198,7 +190,7 @@ More examples:
 
 ```
 rena shia wei ___ to haolu miona ha nai
-REL 3SG to [gap] PST speak person here be
+REL 3SG DAT [gap] PST speak person here be
 (the person whom they spoke to is here.)
 ```
 
@@ -222,16 +214,16 @@ rena shia lothea miona
 ```
 rena to shua miona
 ```
-→ "miona to shua" (a person arrived)
+→ "miona to shua" (a person came)
 → gap is in subject position
-→ "the person who arrived"
+→ "the person who came"
 
 ```
-rena mia shelira mua to thalo ruela
+rena mia mua shelira to thalo ruela
 ```
-→ "mia ruela mua shelira to thalo" (i walked on a path in the forest)
+→ "mia mua shelira ruela to thalo" (i walked on a path in the forest)
 → gap is in... wait, which noun is the head?
 
 This last example shows that you must wait for the head noun to know what's gapped. The word `ruela` (path) at the end is the head, so the path is what was walked on. The forest (`shelira`) is inside the clause, not gapped.
 
-With practice, this analysis becomes automatic.
+The rule of thumb: find the clause's verb, take the noun after it as the head, and ask which role inside the clause is empty.

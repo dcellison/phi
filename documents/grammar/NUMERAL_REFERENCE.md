@@ -221,8 +221,8 @@ The content word **`noa`** (position) can be used compositionally for more compl
 ```
 ta noa          (first position / the concept of being first)
 wi noa          (second position)
-ta noa nela     (in first position)
-wi noa pheo     (after second position)
+mua ta noa      (in the first position)
+lopia mua wi noa nai.   (The child is in the second position.)
 ```
 
 **Usage**: Use this when position itself is the focus, not just a grammatical marker.
@@ -343,28 +343,28 @@ Following the modifier-first principle, arithmetic statements place operands bef
 
 **Addition (2 + 3 = 5)**:
 ```
-wi ta shao sholei, ta shao wi kelai
+wi ta shao sholei. ta shao wi kelai
 two three gather, five becomes
 (Two and three gather together, becoming five)
 ```
 
 **Subtraction (9 - 3 = 6)**:
 ```
-ta phoi ta shao leiro, wi shao kelai
+ta phoi ta shao leiro. wi shao kelai
 nine three release, six becomes
 (Nine releases three, becoming six)
 ```
 
 **Multiplication (3 × 2 = 6)**:
 ```
-ta shao wi welura, wi shao kelai
+ta shao wi welura. wi shao kelai
 three two spread, six becomes
 (Three spreads by two, becoming six)
 ```
 
 **Division (9 ÷ 3 = 3)**:
 ```
-ta phoi ta shao phanoi, ta shao kelai
+ta phoi ta shao phanoi. ta shao kelai
 nine three portion, three becomes
 (Nine portions among three, becoming three each)
 ```
@@ -381,14 +381,14 @@ Arithmetic with real-world quantities respects the classifier system.
 
 **Classifier Harmony Required**: Both operands should share the same classifier:
 ```
-wi himo miona ta shao himo miona sholei, ta shao wi himo miona kelai
+wi himo miona ta shao himo miona sholei. ta shao wi himo miona kelai
 two PERSON.CLF person three PERSON.CLF person gather, five PERSON.CLF person becomes
 (Two people + three people = five people)
 ```
 
 **Pure Mathematics** (no classifiers for abstract calculation):
 ```
-ta shao wi sholei, ta shao wi kelai
+ta shao wi sholei. ta shao wi kelai
 three two gather, five becomes
 (3 + 2 = 5)
 ```

@@ -150,9 +150,9 @@ def canonical_dump(data):
 # Tokens that legitimately appear in examples without being lexicon words.
 WHITELIST = {
     # proper names used after the name particle `ne`
-    "thala", "thanie", "hino", "mako",
-    # deliberate error forms shown in the pamphlets
-    "reno", "phenu",
+    "thala", "thanie", "hino", "mako", "phenu",
+    # deliberate error form shown in the pamphlets
+    "reno",
     # foreign-language contrast examples
     "watashi",
 }

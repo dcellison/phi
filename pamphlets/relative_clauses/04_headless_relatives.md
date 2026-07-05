@@ -1,4 +1,4 @@
-# Part 4: Headless Relative Clauses
+# Part 4: Headless relative clauses
 
 Sometimes the noun being described is obvious from context or intentionally left unnamed. In these cases, the relative clause stands alone, functioning as a noun phrase by itself. The clause becomes "the one who..." or "that which..." without explicitly stating what kind of entity is meant.
 
@@ -9,8 +9,8 @@ Sometimes the noun being described is obvious from context or intentionally left
 When the previous sentence establishes what you're talking about, repeating the noun can feel redundant:
 
 ```
-mia lo miona to nila. rena mia wei to haolu ha nai.
-1SG PL person PST see. REL 1SG to PST speak here be.
+mia lo miona to nila. rena wei mia to haolu ha nai.
+1SG PL person PST see. REL DAT 1SG PST speak here be.
 (i saw the people. the one who spoke to me is here.)
 ```
 
@@ -18,7 +18,7 @@ The listener knows we're talking about people. Saying `miona` again would be unn
 
 ```
 sheloi shelu ha nai. mia rena thia to kealo theo.
-many book here be. 1SG REL 2SG PST create read.
+MANY book here be. 1SG REL 2SG PST create read.
 (many books are here. i read the one that you created.)
 ```
 
@@ -57,9 +57,9 @@ mia rena thia to kealo nila
 We don't need to specify "the thing" or "the work" — the creation itself is the focus.
 
 ```
-rena nai rena ma nai
-REL be REL NEG be
-(what is is; what isn't isn't.)
+rena nai nai. rena ma nai ma nai.
+REL be be. REL NEG be NEG be.
+(what is, is. what is not, is not.)
 ```
 
 A philosophical statement that doesn't need nouns to make its point.
@@ -93,14 +93,14 @@ mia rena shea kealo sano
 ```
 
 ```
-rena ma lothea sola nai
+rena ma lothea sonu nai
 REL NEG love alone be
 (one who doesn't love is alone.)
 ```
 
 ```
-thia rena mia to kealo nila wa
-2SG REL 1SG PST create see Q
+wa thia rena mia to kealo nila
+Q 2SG REL 1SG PST create see
 (do you see what i created?)
 ```
 
@@ -180,7 +180,7 @@ REL create creation see
 ```
 
 ```
-rena thumela thumela
+rena thumela shonela
 REL teach learn
 (one who teaches learns.)
 ```
@@ -217,8 +217,8 @@ Q 2SG REL 1SG PST see know
 
 ```
 wa rena shua shia nai
-Q REL arrive 3SG be
-(is the one who arrived them?)
+Q REL come 3SG be
+(is the one who came them?)
 ```
 
 ```

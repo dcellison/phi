@@ -1,4 +1,4 @@
-# The Logic of Openers and Closers
+# The logic of openers and closers
 
 ## The fundamental question
 
@@ -20,7 +20,7 @@ Consider this attempted sentence without boundary marking:
 
 ```
 *mia shia to wepu shelomui
-1SG 3SG PST leave understand
+1SG 3SG PST go understand
 ```
 
 This could mean:
@@ -36,7 +36,7 @@ By adding a complementizer pair, Phi resolves the ambiguity completely:
 
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -50,13 +50,7 @@ The listener knows exactly what belongs to what.
 
 ## Why the pattern extends
 
-Once you have one complementizer pair, the logic demands pairs for all embeddings that face the same structural challenge:
-
-**Declarative (`mena`/`meno`):** Embeds statements after the embedded verb, before the main verb.
-
-**Interrogative (`wela`/`welo`):** Embeds questions after the embedded verb, before the main verb.
-
-**Quotative (`shola`/`sholo`):** Embeds quotes after the quoted material, before the main verb.
+Once you have one complementizer pair, the logic demands pairs for all embeddings that face the same structural challenge. The declarative pair `mena`/`meno` embeds statements; the interrogative pair `wela`/`welo` embeds questions; the quotative pair `shola`/`sholo` embeds exact words. In each case the embedded material ends just before the main verb.
 
 All three face identical structural pressure: the embedded material ends with a verb (or verb-like element), and the main verb follows. Without explicit closure, verb-verb ambiguity arises.
 
@@ -92,7 +86,7 @@ The word `miona` (person) is the head noun. When it appears, the relative clause
 
 ```
 mia mena shia nophi kealo meno shelomui
-1SG DECL 3SG story create DECL.CLOSE understand
+1SG DECL.COMP 3SG story create DECL.COMP.CLOSE understand
 (I understand that they create stories.)
 ```
 
@@ -166,9 +160,9 @@ The vocative is **extra-clausal**. It exists outside the sentence structure enti
 
 | Complementizer | Closer | Why? |
 |----------------|--------|------|
-| `mena` (DECL) | `meno` required | Pre-verbal position, verb-verb boundary |
+| `mena` (DECL.COMP) | `meno` required | Pre-verbal position, verb-verb boundary |
 | `wela` (INT.COMP) | `welo` required | Pre-verbal position, verb-verb boundary |
-| `shola` (QUOT) | `sholo` required | Pre-verbal position, verb-verb boundary |
+| `shola` (QUOT.COMP) | `sholo` required | Pre-verbal position, verb-verb boundary |
 | `rena` (REL) | none needed | Pre-nominal position, noun provides closure |
 | `kona` (VOC) | none needed | Extra-clausal, not embedded |
 
@@ -176,18 +170,18 @@ The vocative is **extra-clausal**. It exists outside the sentence structure enti
 
 Understanding *why* the system works this way helps you use it correctly:
 
-1. **Always pair openers with closers** for `mena`, `wela`, and `shola`. There are no exceptions.
+1. Always pair openers with closers for `mena`, `wela`, and `shola`. There are no exceptions.
 
-2. **Never add a closer after `rena`**. The head noun closes the relative clause.
+2. Never add a closer after `rena`. The head noun closes the relative clause.
 
-3. **Listen for the vowel shift**. When you hear `-a` become `-o`, something has closed.
+3. Listen for the vowel shift. When you hear `-a` become `-o`, something has closed.
 
-4. **Trust the structure**. If you are uncertain where a clause ends, the closer tells you explicitly.
+4. Trust the structure. If you are uncertain where a clause ends, the closer tells you explicitly.
 
-5. **Nest fearlessly**. Because closers match openers one-to-one, you can embed as deeply as meaning requires without losing track.
+5. Nest fearlessly. Because closers match openers one-to-one, you can embed as deeply as meaning requires without losing track.
 
 The system is designed to make complexity manageable. Learn the pairs, trust the boundaries, and even intricate sentences become parseable.
 
 ---
 
-*Next: Declarative Embedding with `mena`/`meno`*
+*Next: Declarative embedding with `mena`/`meno`*

@@ -195,7 +195,7 @@ Validate vocabulary and examples before committing:
 
 For detailed information, consult:
 - **Sound system**: `documents/phonology_rules.md`, `documents/phonetics.md`
-- **Complete grammar**: `documents/grammar/01-principles.md` through `06-numerals.md`
+- **Complete grammar**: the manual, Parts IV-V (ch11-ch22); inventories in `documents/grammar/`
 - **Particle inventory**: `documents/grammar/PARTICLE_REFERENCE.md`
 - **Compound idioms**: `documents/COMPOUNDS.md`
 - **Numeral system**: `documents/grammar/NUMERAL_REFERENCE.md`
