@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (51)
+## activity (52)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -55,6 +55,7 @@
 | `thalo` | walk | fundamental form of human locomotion |
 | `thape` | burn | The keeping of flame |
 | `therilu` | rest | fundamental human activity of resting |
+| `thiwera` | scatter | The sower's outward arc |
 | `tiwa` | tie | Fastening with cord |
 | `tupi` | jump | The body's spring |
 | `wapho` | throw | Release into flight |
@@ -280,10 +281,11 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (195)
+## community (196)
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `haoluma` | language | What a people holds in common |
 | `helia` | youth | the energy that renews collective life |
 | `heloi` | generous | Sharing |
 | `howai` | evening | Gathering time |
@@ -604,11 +606,12 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (71)
+## dialogue (72)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haolu` | speak | speaking is fundamental to communication |
+| `haoluma` | language | The shared whole of speech |
 | `haoni` | voice | fundamental medium for spoken communication |
 | `hea` | hear | provides foundational reception for verbal exchange |
 | `howela` | receive | receiving is fundamental to exchange and reciprocity |
@@ -788,7 +791,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (197)
+## nature (198)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -960,6 +963,7 @@
 | `theriko` | frost | Frozen surface moisture |
 | `thero` | fire | elemental force of transformation |
 | `thinoe` | seed | the reproductive kernel of plants |
+| `thiwera` | scatter | Seed flung wide |
 | `thophe` | sow | Planting seeds for growth |
 | `thowia` | born | The universal beginning of living things |
 | `thula` | spring | Water source point |
