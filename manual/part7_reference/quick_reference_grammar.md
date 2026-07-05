@@ -1,6 +1,6 @@
 # Quick Reference Grammar
 
-One page of the whole system. Details: `documents/grammar/`; authority order: `/CANON.md`.
+One page of the whole system. Details: `documents/grammar/`; authority order: `/canon.md`.
 
 ## The one principle
 

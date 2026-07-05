@@ -48,7 +48,7 @@ import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
-MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "MINIMAL_PAIRS_BASELINE.txt"
+MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "minimal_pairs_baseline.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 
 DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md"]
@@ -89,7 +89,7 @@ POS_VALUES = {
     "pronoun", "conjunction", "complementizer", "interrogative",
     "discourse", "classifier", "quantifier", "vocative", "interjection",
 }
-# The 13 canonical semantic domains (vocabulary/SEMANTIC_DOMAINS.md).
+# The 13 canonical semantic domains (vocabulary/semantic_domains.md).
 CANONICAL_TAGS = {
     "nature", "community", "wisdom", "creation", "dialogue", "temporal",
     "aesthetic", "emotion", "physical", "ritual", "cognition", "spatial",
@@ -325,7 +325,7 @@ def check_lexicon(entries):
 
     # Minimal-pair ratchet: no two content words may sit at edit
     # distance 1 unless the pair is grandfathered in the committed
-    # baseline (documents/MINIMAL_PAIRS_BASELINE.txt). The baseline
+    # baseline (documents/minimal_pairs_baseline.txt). The baseline
     # may only shrink: new pairs are errors, resolved pairs become
     # stale lines to prune.
     baseline = set()
@@ -349,12 +349,12 @@ def check_lexicon(entries):
         errors.append(
             f"minimal pair: content words '{pair[0]}' and '{pair[1]}' are "
             f"at edit distance 1 and not in the grandfathered baseline; "
-            f"rename one (see documents/MINIMAL_PAIRS_BASELINE.txt)"
+            f"rename one (see documents/minimal_pairs_baseline.txt)"
         )
     for pair in sorted(baseline - live_pairs):
         warnings.append(
             f"stale baseline line: '{pair[0]} {pair[1]}' is no longer a "
-            f"minimal pair; prune it from MINIMAL_PAIRS_BASELINE.txt"
+            f"minimal pair; prune it from minimal_pairs_baseline.txt"
         )
 
     # Phi examples quoted inside JSON prose fields must use real words,

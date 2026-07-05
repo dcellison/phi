@@ -7,7 +7,7 @@ The vocabulary JSON files under `vocabulary/` are the single source of truth. Th
 Checks the entire language for internal consistency, and runs in CI on every pull request:
 
 - **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar keys, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
-- **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/MINIMAL_PAIRS_BASELINE.txt`, which may only shrink.
+- **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/minimal_pairs_baseline.txt`, which may only shrink.
 - **Documentation examples**: every Phi word quoted in `documents/`, `manual/`, `pamphlets/`, `primer/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary. Works on fenced code blocks and *italicized/bold* spans.
 - **Collision check for new coinages**: `neighbors WORD` lists every existing word within edit distance 1 of a candidate.
 

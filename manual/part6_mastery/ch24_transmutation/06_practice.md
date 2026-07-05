@@ -1,6 +1,6 @@
 # Practice: your own transmutations
 
-The method only becomes yours by doing. These exercises rise in difficulty; each targets a specific skill from the case studies. Work with the lexicon open, the compound registry (`documents/COMPOUNDS.md`) beside it, and no shame in sitting with a sentence for a long time. The sitting is the practice.
+The method only becomes yours by doing. These exercises rise in difficulty; each targets a specific skill from the case studies. Work with the lexicon open, the compound registry (`documents/compounds.md`) beside it, and no shame in sitting with a sentence for a long time. The sitting is the practice.
 
 ## Exercise 1: A proverb (restructuring)
 

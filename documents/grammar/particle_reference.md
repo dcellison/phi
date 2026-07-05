@@ -555,7 +555,7 @@ lo mia wiso lothea
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `ro`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
 | **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `we`, `li` |
 
-**Note**: Complementizers (`rena`, `shola`/`sholo`, `mena`/`meno`, `wela`/`welo`) and vocative (`kona`) are not particles—see `COMPLEMENTIZER_REFERENCE.md`.
+**Note**: Complementizers (`rena`, `shola`/`sholo`, `mena`/`meno`, `wela`/`welo`) and vocative (`kona`) are not particles—see `complementizer_reference.md`.
 
 ---
 

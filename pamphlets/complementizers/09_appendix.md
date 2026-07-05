@@ -222,7 +222,7 @@ Before finalizing an embedded clause:
 - **Chapter 20** of the manual: Subordinate Clauses
 - **Chapter 21** of the manual: Relative Clauses
 - **Relative clauses pamphlet**: guide to `rena`
-- **COMPLEMENTIZER_REFERENCE.md**: Technical grammar reference
+- **complementizer_reference.md**: Technical grammar reference
 
 ---
 

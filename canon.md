@@ -9,15 +9,15 @@ the list must be corrected to match anything higher.
    truth for every word: its form, gloss, IPA, syllables, and meaning.
    A word not in the lexicon does not exist. A gloss in a document that
    contradicts the lexicon is wrong.
-2. **Grammar references** — `documents/grammar/PARTICLE_REFERENCE.md`,
-   `COMPLEMENTIZER_REFERENCE.md`, `NUMERAL_REFERENCE.md`. These define
+2. **Grammar references** — `documents/grammar/particle_reference.md`,
+   `complementizer_reference.md`, `numeral_reference.md`. These define
    the grammatical system: particle inventory and slot order,
    complementizer pairs, numeral structure.
 3. **`manual/`** — the teaching text. Must agree with (1)–(2).
 4. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
 5. **Philosophy documents** — `documents/language_guide.md`,
-   `MODIFIER_FIRST_PHILOSOPHY.md`, and
-   `PSYCHOLOGICAL_VIOLENCE_OF_MEASUREMENT.md`. Authoritative for *why*, not for word forms
+   `modifier_first_philosophy.md`, and
+   `psychological_violence_of_measurement.md`. Authoritative for *why*, not for word forms
    or grammar details.
 6. **`archive/`** — historical record only. Never a reference for the
    current language. (The six narrative grammar chapters were dissolved
