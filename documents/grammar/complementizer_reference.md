@@ -52,7 +52,7 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 ```
 shia shola sorae phelora nai sholo haolu
 3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
-(She says, "The sun is beautiful.")
+(They say, "The sun is beautiful.")
 
 mia shola mia so wepu sholo haolu
 1SG QUOT.COMP 1SG FUT leave QUOT.COMP.CLOSE say
@@ -76,11 +76,11 @@ mia shola mia so wepu sholo haolu
 ```
 mia mena shia to wepu meno shelomui
 1SG DECL.COMP 3SG PST leave DECL.COMP.CLOSE understand
-(I understand that ko left.)
+(I understand that they left.)
 
 shia mena thia to wepu meno to haolu
 3SG DECL.COMP 2SG PST leave DECL.COMP.CLOSE PST say
-(She said that you left.)
+(They said that you left.)
 
 mia mena sorae sulae nai meno phaelo
 1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel
@@ -91,12 +91,12 @@ mia mena sorae sulae nai meno phaelo
 ```
 mia mena thia mena shia to wepu meno phaelo meno shelomui
 1SG DECL.COMP 2SG DECL.COMP 3SG PST leave DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
-(I understand that you feel that ko left.)
+(I understand that you feel that they left.)
 ```
 
 **Comparison with `shola`/`sholo`**:
-- `shia shola "mia wepu" sholo haolu` = She said: "I'm leaving." (exact words)
-- `shia mena thia to wepu meno to haolu` = She said that you left. (reported content)
+- `shia shola mia wepu sholo haolu` = They said: "I'm leaving." (exact words)
+- `shia mena thia to wepu meno to haolu` = They said that you left. (reported content)
 
 ---
 
@@ -113,11 +113,11 @@ mia mena thia mena shia to wepu meno phaelo meno shelomui
 ```
 mia wela shia to wepu welo phaelo
 1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
-(I wonder whether ko left.)
+(I wonder whether they left.)
 
 shia wela mia to nila welo to thilou
 3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST ask
-(She asked whether I had seen.)
+(They asked whether I had seen.)
 
 lo mia wela sorae phelora nai welo ma shelomui
 1PL INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
@@ -154,11 +154,11 @@ VOC friend. 1SG here be
 (Friend, I am here.)
 
 kona ne sa thala. wa thia towe nai
-VOC NAME HON.RESPECT Thala, Q 2SG well be
+VOC NAME HON.RESPECT Thala. Q 2SG well be
 (Honored Thala, are you well?)
 
-kona ne ni hino, mia thia lothea
-VOC NAME HON.INTIM Hino, 1SG 2SG love
+kona ne ni hino. mia thia lothea
+VOC NAME HON.INTIM Hino. 1SG 2SG love
 (Dear Hino, I love you.)
 ```
 
@@ -183,5 +183,5 @@ VOC NAME HON.INTIM Hino, 1SG 2SG love
 
 **Related Documentation:**
 - Particles: `documents/grammar/particle_reference.md`
-- Complex constructions: `documents/grammar/05-complex-constructions.md`
+- Complex constructions: the manual, Part V (`manual/part5_complex/`)
 - Main instructions: `documents/development_protocol.md`

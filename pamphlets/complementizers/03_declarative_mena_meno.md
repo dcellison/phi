@@ -244,16 +244,16 @@ shia mena melu thia to naphe meno sano
 ### With ditransitive verbs
 
 ```
-mia mena shia melu shelu loa meno nila
-1SG DECL.COMP 3SG friend book give DECL.COMP.CLOSE see
+mia mena shia wei melu shelu loa meno nila
+1SG DECL.COMP 3SG DAT friend book give DECL.COMP.CLOSE see
 (I see that they give the friend a book.)
 ```
 
 ### With adverbials
 
 ```
-mia mena shia reshi to wepu meno phaelo
-1SG DECL.COMP 3SG fast PST go DECL.COMP.CLOSE feel
+mia mena shia to reshi wepu meno phaelo
+1SG DECL.COMP 3SG PST fast go DECL.COMP.CLOSE feel
 (I feel that they left quickly.)
 ```
 

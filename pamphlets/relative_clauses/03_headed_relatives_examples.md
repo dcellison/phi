@@ -233,8 +233,8 @@ REL old be book complex be
 ```
 
 ```
-rena mia to shelomui nophi mia phaelo
-REL 1SG PST understand story 1SG feel
+rena mia to shelomui nophi mia ka phaelo
+REL 1SG PST understand story 1SG CAUS feel
 (the story that i understood moves me.)
 ```
 

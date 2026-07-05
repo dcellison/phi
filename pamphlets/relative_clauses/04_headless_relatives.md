@@ -116,22 +116,24 @@ love understand wise be
 
 The clause `lothea shelomui` ("understand love") occupies the subject position. No verb competes for attention; the structure is clear.
 
+In object position, though, dropping `rena` is unsafe: the clause's verb lands directly against the main verb, with no boundary between them:
+
 ```
-mia shea kealo sano
-1SG peace create know
+mia rena shea kealo sano
+1SG REL peace create know
 (i know one who creates peace.)
 ```
 
-Again, the clause sits in object position, and the meaning is transparent.
+Without `rena`, `mia shea kealo sano` runs `kealo` straight into `sano` — the manual flags exactly this sentence as one that could be misread. Keep the relativizer whenever the clause is an object.
 
-However, `rena` adds safety. In longer or more complex sentences, omitting it can create confusion:
+`rena` earns its keep elsewhere too. In longer or more complex sentences, omitting it can create confusion:
 
 ```
 mia shia to naphe sano
 1SG 3SG PST help know
 ```
 
-Is this "I know one who helped them" or "I know that they helped" or something else? Adding `rena` removes doubt:
+Is this "I know one whom they helped" or "I know that they helped" (an embedding that would need `mena`/`meno`) or something else? Adding `rena` removes doubt:
 
 ```
 mia rena shia to naphe sano

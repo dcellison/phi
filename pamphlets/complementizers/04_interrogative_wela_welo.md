@@ -265,8 +265,8 @@ shia wela melu thia to naphe welo sano
 ### With ditransitive verbs
 
 ```
-mia wela shia melu shelu loa welo nila
-1SG INT.COMP 3SG friend book give INT.COMP.CLOSE see
+mia wela shia wei melu shelu loa welo nila
+1SG INT.COMP 3SG DAT friend book give INT.COMP.CLOSE see
 (I discovered whether they gave the friend a book.)
 ```
 
@@ -404,27 +404,27 @@ Each `wela` pairs with its own `welo`, maintaining structural clarity even in ne
 
 ## Content questions (wh-questions)
 
-The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi. They use interrogative words within the clause, but the embedding with `wela`/`welo` functions the same:
+The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi: the interrogative word itself announces that the clause is a question, so the clause embeds bare, with no `wela`/`welo` frame:
 
 ```
-mia wela sua to shua welo phaelo
-1SG INT.COMP who PST come INT.COMP.CLOSE wonder
+mia sua to shua phaelo
+1SG who PST come wonder
 (I wonder who came.)
 ```
 
 ```
-shia wela thia hina to nila welo to thilou
-3SG INT.COMP 2SG what PST see INT.COMP.CLOSE PST ask
+shia thia hina to nila to thilou
+3SG 2SG what PST see PST ask
 (They asked what you saw.)
 ```
 
 ```
-lo mia wela shia kua nai welo ma sano
-1PL INT.COMP 3SG where be INT.COMP.CLOSE NEG know
+lo mia shia kua nai ma sano
+1PL 3SG where be NEG know
 (We don't know where they are.)
 ```
 
-The `wela`/`welo` pair frames the question. The interrogative word inside specifies what is being asked.
+The interrogative word does inside the clause what `wela` does for yes/no questions: it announces the question. Wrapping a content question in `wela`/`welo` is redundant, and Phi does not do it — the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch20).
 
 ## Summary
 
@@ -439,7 +439,7 @@ Distinguished from:
 - `lu` (conditional hypotheses with consequences)
 - `mena`/`meno` (embedded statements, not questions)
 
-The system handles yes/no questions and content questions alike. Nesting is possible. The structure remains unambiguous.
+The system embeds yes/no questions with `wela`/`welo`; content questions embed bare, their interrogative word carrying the signal. Nesting is possible. The structure remains unambiguous.
 
 With `wela` and `welo`, not knowing something becomes something you can say.
 

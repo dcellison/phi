@@ -113,7 +113,7 @@ Break each complex sentence into two simpler sentences. Maintain the meaning.
 3. `rena mua shelira thuroa shiro whalo nai`
    → ?
 
-4. `rena rena nophi kealo miona to thumela lopia mia sano`
+4. `mia rena rena nophi kealo miona to thumela lopia sano`
    → ?
 
 5. `rena mena shea welao nai meno phaelo miona ha nai`
@@ -157,7 +157,7 @@ Each sentence contains an error. Find and fix it.
 
 1. `*peloru rena mia to nila phelora nai`
 
-2. `*mia rena shia to kealo theo`
+2. `*rena mia to thalo ruela phelora nai`
 
 3. `*rena mia to theo shelu reno phelora nai`
 
@@ -169,7 +169,7 @@ Each sentence contains an error. Find and fix it.
 
 7. `*rena shia nophi kealo phue nai`
 
-8. `*mia rena mia to naphe sano`
+8. `*mia wei rena shia to haolu miona sano`
 
 ---
 
@@ -279,10 +279,10 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 ### Error correction
 
 1. Wrong order → `rena mia to nila peloru phelora nai`
-2. Missing head noun → `mia rena shia to kealo nophi theo`
+2. Dropped preposition (it stays; its object is gapped) → `rena mia mua to thalo ruela phelora nai` ("the path that i walked on is beautiful")
 3. False closer → `rena mia to theo shelu phelora nai`
 4. Word order/structure → `mia rena to shua miona sano`
 5. `rena` at end → `mia rena mia to nila miona sano`
 6. The `mia` has no role in the clause; `phelora nai` takes no argument beyond the gap → `rena phelora nai peloru thuroa` ("the flower that is beautiful grows")
-7. Missing head → `rena shia nophi kealo miona phue nai`
-8. Missing head → `mia rena mia to naphe miona sano`
+7. No gap: the clause is already complete (`shia` subject, `nophi` object), so a head noun would have no role to fill. Drop the clause-internal subject and the head fills it → `rena nophi kealo miona phue nai` ("the person who creates stories is wise")
+8. The preposition never moves out of the clause; it stays, and its object is gapped → `mia rena shia wei to haolu miona sano` ("i know the person whom they spoke to")

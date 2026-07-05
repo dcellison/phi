@@ -118,9 +118,9 @@ The quotation sits inside the relative clause. The quoted words are preserved ex
 ### Containing `wela`/`welo`
 
 ```
-rena wela shia so shua welo ma sano miona remo nai
-REL INT.COMP 3SG FUT come INT.COMP.CLOSE NEG know person think be
-(the person who doesn't know whether they will come is thoughtful.)
+rena wela shia so shua welo ma sano miona si remo
+REL INT.COMP 3SG FUT come INT.COMP.CLOSE NEG know person IPFV think
+(the person who doesn't know whether they will come is still thinking.)
 ```
 
 The embedded question `wela shia so shua welo` is the object of `sano` inside the relative clause.

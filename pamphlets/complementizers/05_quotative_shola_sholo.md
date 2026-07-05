@@ -58,8 +58,8 @@ The `mia` is the original speaker's word. They called themselves `mia`.
 
 **Content reporting (`mena`/`meno`):** Conveys meaning with shifted reference.
 ```
-shia mena shia to wepu meno haolu
-3SG DECL.COMP 3SG PST go DECL.COMP.CLOSE say
+shia mena shia wepu meno haolu
+3SG DECL.COMP 3SG go DECL.COMP.CLOSE say
 (They said that they were leaving.)
 ```
 
@@ -206,8 +206,8 @@ The `wela`/`welo` version reports the question's content. The `shola`/`sholo` ve
 Quotations can be as long as needed. Everything between `shola` and `sholo` is quoted material:
 
 ```
-shia shola mia so wepu. mia wea womu na turema. no thia towe nai sholo haolu
-3SG QUOT.COMP 1SG FUT go. 1SG TOWARD home NEC return. IMP 2SG well be QUOT.COMP.CLOSE say
+shia shola mia so wepu. mia kau womu na turema. no thia towe nai sholo haolu
+3SG QUOT.COMP 1SG FUT go. 1SG ALL home NEC return. IMP 2SG well be QUOT.COMP.CLOSE say
 (They said: "I will leave. I must return home. Be well.")
 ```
 

@@ -51,8 +51,8 @@ mia wela shia to wepu welo phaelo
 ```
 
 ```
-shia wela mia so kamo welo sano ma nai
-3SG INT.COMP 1SG FUT arrive INT.COMP.CLOSE know NEG be
+shia wela mia so kamo welo ma sano
+3SG INT.COMP 1SG FUT arrive INT.COMP.CLOSE NEG know
 (they do not know whether i will arrive.)
 ```
 
@@ -73,8 +73,8 @@ mia sua to wepu sano
 ```
 
 ```
-mia kua ne thala nai sano ma nai
-1SG where NAME Thala be know NEG be
+mia kua ne thala nai ma sano
+1SG where NAME Thala be NEG know
 (i do not know where thala is.)
 ```
 

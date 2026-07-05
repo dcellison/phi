@@ -25,8 +25,8 @@
 ```
 
 ```
-mia mena shia wepu meno shelomui
-1SG DECL.COMP 3SG go DECL.COMP.CLOSE understand
+mia mena shia to wepu meno shelomui
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -37,8 +37,8 @@ mia mena shia wepu meno shelomui
 ```
 
 ```
-mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG go INT.COMP.CLOSE wonder
+mia wela shia to wepu welo phaelo
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
