@@ -9,21 +9,21 @@ Until now, every sentence in this book has expressed a single thought. Real comm
 At the word level, `nela` connects items within a sentence:
 
 ```
-mia shea nela lothea phaelo
-1SG peace COORD love feel
-(i feel peace and love.)
+mia shea nela lothea phaelo.
+1SG peace COORD love feel.
+(I feel peace and love.)
 ```
 
 ```
-shiro phelora nela whalo nai
-tree beautiful COORD large be
-(the tree is beautiful and large.)
+shiro phelora nela whalo nai.
+tree beautiful COORD large be.
+(The tree is beautiful and large.)
 ```
 
 ```
-mia theo nela sheluo
-1SG read COORD listen
-(i read and listen.)
+mia theo nela sheluo.
+1SG read COORD listen.
+(I read and listen.)
 ```
 
 Notice that `nela` carries no implications beyond connection. It doesn't suggest sequence, causation, or any relationship other than "these belong together." Saying `shea nela lothea` doesn't imply peace comes before love or causes it. They simply coexist in the same statement.
@@ -33,15 +33,15 @@ Notice that `nela` carries no implications beyond connection. It doesn't suggest
 When `nela` connects phrases, each phrase maintains its internal structure:
 
 ```
-mia [phelora peloru] nela [whalo shiro] nila
-1SG [beautiful flower] COORD [large tree] see
-(i see a beautiful flower and a large tree.)
+mia [phelora peloru] nela [whalo shiro] nila.
+1SG [beautiful flower] COORD [large tree] see.
+(I see a beautiful flower and a large tree.)
 ```
 
 ```
-mia [melu nela lumani] lothea
-1SG [friend COORD family] love
-(i love friends and family.)
+mia [melu nela lumani] lothea.
+1SG [friend COORD family] love.
+(I love friends and family.)
 ```
 
 ## Joining clauses
@@ -49,15 +49,15 @@ mia [melu nela lumani] lothea
 At the clause level, `nela` connects complete thoughts. Each clause keeps its own subject, object, and verb:
 
 ```
-mia theo nela thia sheluo
-1SG read COORD 2SG listen
-(i read, and you listen.)
+mia theo nela thia sheluo.
+1SG read COORD 2SG listen.
+(I read, and you listen.)
 ```
 
 ```
-sorae sulae nai nela howeli phaelu nai
-sun warm be COORD wind peaceful be
-(the sun is warm, and the wind is peaceful.)
+sorae sulae nai nela howeli phaelu nai.
+sun warm be COORD wind peaceful be.
+(The sun is warm, and the wind is peaceful.)
 ```
 
 The conjunction itself marks the boundary between clauses. Because Phi is verb-final, the listener knows a clause has ended when the verb arrives; `nela` then announces that another clause follows. No additional punctuation is needed.
@@ -67,9 +67,9 @@ The conjunction itself marks the boundary between clauses. Because Phi is verb-f
 In lists of three or more items, `nela` appears between each element rather than only before the last. There is no equivalent of the English convention where "and" appears only at the end:
 
 ```
-shiro nela peloru nela whelina
-tree COORD flower COORD grass
-(trees and flowers and grass.)
+shiro nela peloru nela whelina.
+tree COORD flower COORD grass.
+(Trees and flowers and grass.)
 ```
 
 This even-handed repetition treats each item with equal weight. No element is singled out as the final addition; they all join the list on the same terms.

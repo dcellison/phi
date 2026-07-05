@@ -7,21 +7,21 @@ Reporting what someone said is one of the most common uses of subordination. Phi
 The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; `sholo` closes it. Together they function as spoken quotation marks, giving the listener unambiguous boundaries around the quoted material.
 
 ```
-shia shola mia so wepu sholo to shemui
-3SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST utter
-(they said "i will go.")
+shia shola mia so wepu sholo to shemui.
+3SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST utter.
+(They said "I will go.")
 ```
 
 ```
-ne sa sulae shola lo peloru thuroa sholo to shemui
-NAME HON.RESPECT sulae QUOT.COMP PL flower grow QUOT.COMP.CLOSE PST utter
-(honored sulae said "the flowers grow.")
+ne sa sulae shola lo peloru thuroa sholo to shemui.
+NAME HON.RESPECT sulae QUOT.COMP PL flower grow QUOT.COMP.CLOSE PST utter.
+(Honored sulae said "the flowers grow.")
 ```
 
 ```
-mia shola mia thia lothea sholo to shemui
-1SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE PST utter
-(i said "i love you.")
+mia shola mia thia lothea sholo to shemui.
+1SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE PST utter.
+(I said "I love you.")
 ```
 
 Inside the quote, everything is preserved exactly as the original speaker said it. The pronouns don't shift: when the speaker quotes themselves saying "i will go," `mia` remains `mia` because those were her words.
@@ -31,15 +31,15 @@ Inside the quote, everything is preserved exactly as the original speaker said i
 Indirect speech reports the content of what was said without preserving the exact words. This uses the declarative complementizer pair `mena...meno`, the same one used for all embedded statements:
 
 ```
-shia mena shia so wepu meno to shemui
-3SG DECL.COMP 3SG FUT go DECL.COMP.CLOSE PST utter
-(they said that they would go.)
+shia mena shia so wepu meno to shemui.
+3SG DECL.COMP 3SG FUT go DECL.COMP.CLOSE PST utter.
+(They said that they would go.)
 ```
 
 ```
-ne sa sulae mena lo peloru thuroa meno to shemui
-NAME HON.RESPECT sulae DECL.COMP PL flower grow DECL.COMP.CLOSE PST utter
-(honored sulae said that the flowers grow.)
+ne sa sulae mena lo peloru thuroa meno to shemui.
+NAME HON.RESPECT sulae DECL.COMP PL flower grow DECL.COMP.CLOSE PST utter.
+(Honored sulae said that the flowers grow.)
 ```
 
 Notice the difference: in indirect speech, the pronouns adjust to the current speaker's perspective. sulae's own "I" becomes `shia` (third person) because the current speaker is reporting, not quoting.
@@ -55,9 +55,9 @@ Indirect speech with `mena...meno` says: "this is the gist." It filters through 
 Phi's evidential system adds another layer. Combining reported evidence (`ti`) with indirect speech signals that the speaker is passing along information at a further remove:
 
 ```
-mia ti mena shia so wepu meno shemui
-1SG REP DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter
-(i'm told that they said they would go.)
+mia ti mena shia so wepu meno shemui.
+1SG REP DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter.
+(I'm told that they said they would go.)
 ```
 
 Each layer of reporting is transparent. The listener knows exactly how many steps removed the information is from its source.

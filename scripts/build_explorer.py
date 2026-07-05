@@ -420,6 +420,8 @@ PAMPHLETS = [
      "A name is a word someone carries: ne the spoken capital, kona the raised hand, three honorifics that announce relationship rather than rank — and the family register, where a name at rest is proof of presence."),
     ("metta_companion", "Reading lothea thole: a companion to the first text",
      "The Metta Sutta walked verse by verse — one must, nineteen mays, and the verse where the wishing stops. The optative engine, the headless refrain, the three compounds read as observations, and the recitation the text was always for."),
+    ("spoken_punctuation", "Punctuation you can hear",
+     "Phi writes one mark and says the rest: wa the question mark, shola and sholo the quotation marks, kona the comma of address, ne the capital of a name — and the dictation test that page-bound punctuation cannot pass."),
 ]
 toc = ["<h1>The pamphlets</h1>",
        "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]

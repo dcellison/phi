@@ -11,21 +11,21 @@ The subordinator announces the relationship, the dependent clause fills it in, a
 The temporal pair `pheo` (after) and `phoe` (before) frame events in sequence. They are a minimal pair, distinguished only by vowel order:
 
 ```
-pheo mia to theo mia shea phaelo
-POST 1SG PST read 1SG peace feel
-(after i read i feel peace.)
+pheo mia to theo mia shea phaelo.
+POST 1SG PST read 1SG peace feel.
+(After I read I feel peace.)
 ```
 
 ```
-phoe mia sheluo mia thilonu
-ANT 1SG listen 1SG prepare
-(before i listen i prepare.)
+phoe mia sheluo mia thilonu.
+ANT 1SG listen 1SG prepare.
+(Before I listen I prepare.)
 ```
 
 ```
-pheo sorae to kamo lo peloru thuroa
-POST sun PST arrive PL flower grow
-(after the sun arrived the flowers grow.)
+pheo sorae to kamo lo peloru thuroa.
+POST sun PST arrive PL flower grow.
+(After the sun arrived the flowers grow.)
 ```
 
 The dependent clause follows immediately after the subordinator. The main clause comes after, without any punctuation between them. The verb-final structure of each clause makes the boundaries clear: when one verb ends, the next clause begins.
@@ -35,15 +35,15 @@ The dependent clause follows immediately after the subordinator. The main clause
 The preposition `tei` (until) marks the endpoint of an action or state:
 
 ```
-mia tei kelua sheluo
-1SG UNTIL morning listen
-(i listen until morning.)
+mia tei kelua sheluo.
+1SG UNTIL morning listen.
+(I listen until morning.)
 ```
 
 ```
-lo lopia tei howai wile
-PL child UNTIL evening play
-(the children play until evening.)
+lo lopia tei howai wile.
+PL child UNTIL evening play.
+(The children play until evening.)
 ```
 
 ## Cause: `lao`
@@ -51,29 +51,29 @@ PL child UNTIL evening play
 The causal subordinator `lao` (because) announces a reason:
 
 ```
-lao pheralu to nai lo peloru thuroa
-BECAUSE rain PST be PL flower grow
-(because it rained the flowers grow.)
+lao pheralu to nai lo peloru thuroa.
+BECAUSE rain PST be PL flower grow.
+(Because it rained the flowers grow.)
 ```
 
 ```
-lao shia welao thumela lo lopia shonela
-BECAUSE 3SG good teach PL child learn
-(because they teach well the children learn.)
+lao shia welao thumela lo lopia shonela.
+BECAUSE 3SG good teach PL child learn.
+(Because they teach well the children learn.)
 ```
 
 ```
-lao mia ma to sheluo mia ma to shelomui
-BECAUSE 1SG NEG PST listen 1SG NEG PST understand
-(because i did not listen i did not understand.)
+lao mia ma to sheluo mia ma to shelomui.
+BECAUSE 1SG NEG PST listen 1SG NEG PST understand.
+(Because I did not listen I did not understand.)
 ```
 
 `lao` can also take a simple noun phrase rather than a full clause:
 
 ```
-lao pheralu lo peloru thuroa
-BECAUSE rain PL flower grow
-(because of rain the flowers grow.)
+lao pheralu lo peloru thuroa.
+BECAUSE rain PL flower grow.
+(Because of rain the flowers grow.)
 ```
 
 ## Purpose: `lila`
@@ -81,21 +81,21 @@ BECAUSE rain PL flower grow
 The purpose subordinator `lila` (in order to) announces an intention. Unlike `lao`, which looks backward to a cause, `lila` looks forward to a goal:
 
 ```
-mia theo lila mia shonela
-1SG read PURP 1SG learn
-(i read in order to learn.)
+mia theo lila mia shonela.
+1SG read PURP 1SG learn.
+(I read in order to learn.)
 ```
 
 ```
-shia haolu lila lo miona shelomui
-3SG speak PURP PL person understand
-(they speak in order for the people to understand.)
+shia haolu lila lo miona shelomui.
+3SG speak PURP PL person understand.
+(They speak in order for the people to understand.)
 ```
 
 ```
-lo lopia shonela lila lo thumela
-PL child learn PURP PL teach
-(the children learn in order to teach.)
+lo lopia shonela lila lo thumela.
+PL child learn PURP PL teach.
+(The children learn in order to teach.)
 ```
 
 Note that `lila` marks conscious intention. It cannot be used for unintended consequences. If the flowers grow because of rain, that's `lao` (cause), not `lila` (purpose), because rain doesn't intend anything.
@@ -105,29 +105,29 @@ Note that `lila` marks conscious intention. It cannot be used for unintended con
 The concessive subordinator `shai` (although, despite) announces a circumstance that might be expected to prevent the main clause but doesn't:
 
 ```
-shai pheralu to ma nai lo peloru thuroa
-CONC rain PST NEG be PL flower grow
-(although it did not rain the flowers grow.)
+shai pheralu to ma nai lo peloru thuroa.
+CONC rain PST NEG be PL flower grow.
+(Although it did not rain the flowers grow.)
 ```
 
 ```
-shai shelira thiku nai phelora nai
-CONC forest small be beautiful be
-(although the forest is small, [it] is beautiful.)
+shai shelira thiku nai phelora nai.
+CONC forest small be beautiful be.
+(Although the forest is small, [it] is beautiful.)
 ```
 
 ```
-shai mia ma to shelomui to shonela
-CONC 1SG NEG PST understand PST learn
-(although i did not understand, [i] learned.)
+shai mia ma to shelomui to shonela.
+CONC 1SG NEG PST understand PST learn.
+(Although I did not understand, [I] learned.)
 ```
 
 Like `lao`, `shai` can also take a noun phrase:
 
 ```
-shai pheralu lo peloru thuroa
-CONC rain PL flower grow
-(despite the rain the flowers grow.)
+shai pheralu lo peloru thuroa.
+CONC rain PL flower grow.
+(Despite the rain the flowers grow.)
 ```
 
 ## The adverbial clause system at a glance

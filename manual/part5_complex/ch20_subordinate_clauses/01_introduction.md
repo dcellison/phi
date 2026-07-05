@@ -13,21 +13,21 @@ The general pattern for adverbial clauses:
 `[subordinator] [subordinate clause] [main clause]`
 
 ```
-lao shia to wepu mia phaelo
-BECAUSE 3SG PST go 1SG feel
-(because they left i feel.)
+lao shia to wepu mia phaelo.
+BECAUSE 3SG PST go 1SG feel.
+(Because they left I feel.)
 ```
 
-The subordinator `lao` announces "here comes a reason." The reason unfolds (`shia to wepu`, "they left"). Then the main clause delivers what that reason explains (`mia phaelo`, "i feel").
+The subordinator `lao` announces "here comes a reason." The reason unfolds (`shia to wepu`, "they left"). Then the main clause delivers what that reason explains (`mia phaelo`, "I feel").
 
 For complement clauses, the embedded clause serves as the object of a verb. Complementizers that introduce these clauses come in pairs: an opener and a closer, working like spoken parentheses around the embedded thought.
 
 `[subject] [complementizer] [embedded clause] [closer] [verb]`
 
 ```
-mia mena shia to wepu meno sano
-1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
-(i know that they left.)
+mia mena shia to wepu meno sano.
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know.
+(I know that they left.)
 ```
 
 The complementizer `mena` announces "here comes an embedded statement." The closer `meno` marks where it ends. The main verb `sano` ("know") follows, telling you what the speaker is doing with that statement. Without `meno`, the boundary between the embedded verb and the main verb would be ambiguous.
