@@ -254,3 +254,31 @@ footer a { color: var(--sage); }
 .topnav a:hover { color: var(--ink); }
 .topnav .here { color: var(--ink); font-weight: 600; }
 .topnav .sep { color: var(--gold); opacity: .75; }
+
+/* --- the primer reader --- */
+.primer main { max-width: 38rem; }
+.primer h1 { font-size: 2rem; letter-spacing: .04em; text-align: left; margin-bottom: 1.2rem; }
+.primer h2 { font-size: 1.15rem; }
+.primer blockquote strong { font-size: 1.08rem; letter-spacing: .02em; }
+.primer table {
+  border-collapse: collapse;
+  margin: 1rem 0 1.4rem;
+  font-size: .92rem;
+  width: 100%;
+}
+.primer th { text-align: left; font-weight: 600; color: var(--muted); font-size: .8rem; letter-spacing: .05em; }
+.primer th, .primer td { padding: .3rem .8rem .3rem 0; border-bottom: 1px solid var(--hairline); }
+.primer td:first-child { font-family: var(--serif); color: var(--sage); font-weight: 600; }
+.toc { line-height: 2; padding-left: 1.2rem; }
+.toc a { text-decoration: none; }
+.chapnav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--hairline);
+  font-size: .9rem;
+}
+.chapnav a { color: var(--sage); text-decoration: none; }
+.chapnav a:hover { color: var(--ink); }
