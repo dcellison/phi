@@ -59,13 +59,17 @@
 
 * { box-sizing: border-box; }
 
+/* Root size in percent so browser font settings scale the whole site;
+   130% of the 16px default gives a ~21px base for comfortable reading. */
+html { font-size: 130%; }
+
 body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
   font-family: var(--sans);
-  font-size: 17px;
-  line-height: 1.55;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
 header { text-align: center; padding: 3.5rem 1rem 0; }
