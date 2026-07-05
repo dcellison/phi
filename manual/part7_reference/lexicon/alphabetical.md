@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*901 words.*
+*904 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -60,6 +60,7 @@
 | `kaeshu` | bold | /kä.ˈe̞.ʃu/ | adjective |
 | `kaesu` | selfish | /kä.ˈe̞.su/ | adjective |
 | `kalei` | climb | /kä.ˈle̞.i/ | verb |
+| `kalora` | horse | /kä.ˈlo̞.rä/ | noun |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kathu` | seal | /ˈkä.θu/ | noun, verb |
@@ -281,6 +282,7 @@
 | `molu` | container | /ˈmo̞.lu/ | noun |
 | `monae` | integral | /mo̞.ˈn̪ä.e̞/ | adjective |
 | `mophi` | wool | /ˈmo̞.ɸi/ | noun |
+| `mophira` | sheep | /mo̞.ˈɸi.rä/ | noun |
 | `morae` | sense | /mo̞.ˈrä.e̞/ | verb |
 | `moreke` | mammal | /mo̞.ˈre̞.ke̞/ | noun |
 | `moreko` | articulate | /mo̞.ˈre̞.ko̞/ | verb |
@@ -542,6 +544,7 @@
 | `rokili` | spine | /ro̞.ˈki.li/ | noun |
 | `rolia` | worth | /ro̞.ˈli.ä/ | noun |
 | `rolu` | wheel | /ˈro̞.lu/ | noun |
+| `rolutha` | wagon | /ro̞.ˈlu.θä/ | noun |
 | `romishe` | contemplate | /ro̞.ˈmi.ʃe̞/ | verb |
 | `ronua` | south | /ro̞.ˈn̪u.ä/ | noun, adjective |
 | `rotiku` | dance | /ro̞.ˈt̪i.ku/ | verb |

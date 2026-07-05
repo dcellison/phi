@@ -274,7 +274,7 @@
 | `weno` | when | When |
 | `wia` | which | How Many |
 
-## noun (379)
+## noun (382)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -294,6 +294,7 @@
 | `howai` | evening | Evening |
 | `howeli` | wind | Wind |
 | `kaero` | phase | Phase |
+| `kalora` | horse | Horse |
 | `kathu` | seal | Seal |
 | `katiru` | knife | Knife |
 | `keiro` | way | Way |
@@ -406,6 +407,7 @@
 | `moloi` | apprentice | Apprentice |
 | `molu` | container | Container |
 | `mophi` | wool | Wool |
+| `mophira` | sheep | Sheep |
 | `moreke` | mammal | Mammal |
 | `morilu` | wave | Wave |
 | `morisa` | salt | Salt |
@@ -520,6 +522,7 @@
 | `rokili` | spine | Spine |
 | `rolia` | worth | Worth |
 | `rolu` | wheel | Wheel |
+| `rolutha` | wagon | Wagon |
 | `ronua` | south | South |
 | `ruela` | path | Path |
 | `runae` | resin | Resin |
