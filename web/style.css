@@ -257,6 +257,7 @@ footer a { color: var(--sage); }
 .topnav a { color: var(--sage); text-decoration: none; }
 .topnav a:hover { color: var(--ink); }
 .topnav .here { color: var(--ink); font-weight: 600; }
+.topnav a.here { color: var(--ink); }
 .topnav .sep { color: var(--gold); opacity: .75; }
 
 /* --- the primer reader --- */
