@@ -104,8 +104,8 @@ mia mena shia to wepu meno shelomui
 
 **Says something else (quotation instead of content):**
 ```
-shia shola thia wepu sholo haolu
-3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE speak
+shia shola thia wepu sholo to haolu
+3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE PST speak
 (They said: "You are leaving.")
 ```
 
@@ -113,8 +113,8 @@ This is grammatical — but it claims those were the exact words spoken.
 
 When you meant:
 ```
-shia mena thia wepu meno haolu
-3SG DECL.COMP 2SG go DECL.COMP.CLOSE speak
+shia mena thia wepu meno to haolu
+3SG DECL.COMP 2SG go DECL.COMP.CLOSE PST speak
 (They said that you are leaving.)
 ```
 

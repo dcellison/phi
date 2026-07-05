@@ -495,6 +495,13 @@ def check_docs(lexicon_words, paths=None):
             for cand, strict in candidates:
                 if not is_phi_line(cand, lexicon_words, strict=strict):
                     continue
+                # periods only in Phi text: '?' is checked everywhere; ','
+                # only on fenced lines (prose cites Phi words inside English
+                # sentences whose commas are English), with parenthetical
+                # annotations stripped first
+                bare = re.sub(r"\([^)]*\)", "", cand)
+                if "?" in bare or (not strict and "," in bare):
+                    errors.append(f"{rel}:{lineno}: punctuation in Phi text: periods only (no commas or question marks)")
                 for tok in phi_tokens(cand):
                     if tok in lexicon_words or tok in WHITELIST:
                         continue

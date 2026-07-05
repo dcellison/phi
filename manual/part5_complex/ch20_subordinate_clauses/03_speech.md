@@ -7,20 +7,20 @@ Reporting what someone said is one of the most common uses of subordination. Phi
 The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; `sholo` closes it. Together they function as spoken quotation marks, giving the listener unambiguous boundaries around the quoted material.
 
 ```
-shia shola mia so wepu sholo shemui
-3SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE utter
+shia shola mia so wepu sholo to shemui
+3SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST utter
 (they said "i will go.")
 ```
 
 ```
-ne sa thala shola lo peloru thuroa sholo shemui
-NAME HON.RESPECT Thala QUOT.COMP PL flower grow QUOT.COMP.CLOSE utter
+ne sa thala shola lo peloru thuroa sholo to shemui
+NAME HON.RESPECT Thala QUOT.COMP PL flower grow QUOT.COMP.CLOSE PST utter
 (honored thala said "the flowers grow.")
 ```
 
 ```
-mia shola mia thia lothea sholo shemui
-1SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE utter
+mia shola mia thia lothea sholo to shemui
+1SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE PST utter
 (i said "i love you.")
 ```
 
@@ -31,14 +31,14 @@ Inside the quote, everything is preserved exactly as the original speaker said i
 Indirect speech reports the content of what was said without preserving the exact words. This uses the declarative complementizer pair `mena...meno`, the same one used for all embedded statements:
 
 ```
-shia mena shia so wepu meno shemui
-3SG DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter
+shia mena shia so wepu meno to shemui
+3SG DECL.COMP 3SG FUT go DECL.COMP.CLOSE PST utter
 (they said that they would go.)
 ```
 
 ```
-ne sa thala mena lo peloru thuroa meno shemui
-NAME HON.RESPECT Thala DECL.COMP PL flower grow DECL.COMP.CLOSE utter
+ne sa thala mena lo peloru thuroa meno to shemui
+NAME HON.RESPECT Thala DECL.COMP PL flower grow DECL.COMP.CLOSE PST utter
 (honored thala said that the flowers grow.)
 ```
 

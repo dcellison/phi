@@ -444,11 +444,11 @@ three nine falls-short
 
 **Questions**:
 ```
-wa ta shao wi shao sharoi?
-Q three six exceeds
+wa ta shao wi shao sharoi.
+Q three six exceed
 (Does three exceed six? / Is 3 > 6?)
 
-wa wi shao ta phoi thenoi?
+wa wi shao ta phoi thenoi.
 Q six nine falls-short
 (Does six fall short of nine? / Is 6 < 9?)
 ```
