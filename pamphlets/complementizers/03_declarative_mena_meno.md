@@ -89,13 +89,13 @@ mia mena nophi shewo nai meno phaelo
 
 ```
 shia mena thia to wepu meno to haolu
-3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST say
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
 (They said that you left.)
 ```
 
 ```
 melu mena mia so turema meno to haolu
-friend DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST say
+friend DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST speak
 (The friend said that I will return.)
 ```
 
@@ -357,7 +357,7 @@ mia mena pheralu so shua meno nohero
 
 ```
 mia mena pheralu so ma shua meno remo. sorae ha nai
-1SG DECL.COMP rain FUT NEG come DECL.COMP.CLOSE think. sun here be
+1SG DECL.COMP rain FUT NEG come DECL.COMP.CLOSE think. sun PROX be
 (I think that rain will not come. The sun is here.)
 ```
 
@@ -365,19 +365,19 @@ mia mena pheralu so ma shua meno remo. sorae ha nai
 
 ```
 shia mena thia so turema meno to haolu
-3SG DECL.COMP 2SG FUT return DECL.COMP.CLOSE PST say
+3SG DECL.COMP 2SG FUT return DECL.COMP.CLOSE PST speak
 (They said that you will return.)
 ```
 
 ```
 mia mena mia so turema meno to ma haolu
-1SG DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST NEG say
+1SG DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST NEG speak
 (I did not say that I will return.)
 ```
 
 ```
 shia mena mia mena mia so turema meno to haolu meno nohero
-3SG DECL.COMP 1SG DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST say DECL.COMP.CLOSE believe
+3SG DECL.COMP 1SG DECL.COMP 1SG FUT return DECL.COMP.CLOSE PST speak DECL.COMP.CLOSE believe
 (They believe that I said that I will return.)
 ```
 
@@ -396,7 +396,7 @@ The distinction matters: `mena`/`meno` reports *content*, while `shola`/`sholo` 
 **Content reporting (`mena`/`meno`):**
 ```
 shia mena thia to wepu meno to haolu
-3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST say
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
 (They said that you left.)
 ```
 
@@ -405,7 +405,7 @@ Here, "you" refers to whoever the main clause speaker is addressing. The pronoun
 **Exact quotation (`shola`/`sholo`):**
 ```
 shia shola mia wepu sholo to haolu
-3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak
 (They said: "I am leaving.")
 ```
 

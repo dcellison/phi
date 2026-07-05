@@ -118,11 +118,11 @@ This creates layered announcement: quantity → nature → entity
 **People**:
 ```
 wi himo melu
-two PERSON.CLF friend
+two HUM.CLF friend
 (two friends - acknowledging their humanity)
 
 ta phoi himo miona
-one nine-group PERSON.CLF person
+one nine-group HUM.CLF person
 (nine people - recognizing them as human beings, not mere units)
 ```
 
@@ -140,22 +140,22 @@ two LIFE.CLF animal
 **Inanimate Objects**:
 ```
 ta themo shelu
-one OBJECT.CLF book
+one THING.CLF book
 (one book - a thing, not alive)
 
 wi shao themo wiru
-two three-groups OBJECT.CLF basket
+two three-group THING.CLF basket
 (six baskets - inanimate objects)
 ```
 
 **Abstract Concepts**:
 ```
 wi nophe nophi
-two ABSTRACT.CLF story
+two ABST.CLF story
 (two stories - conceptual entities)
 
 ta shao nophe theloa
-one three-group ABSTRACT.CLF truth
+one three-group ABST.CLF truth
 (three truths)
 ```
 
@@ -254,7 +254,7 @@ preceding a classifier or noun:
 
 ```
 wia himo miona
-which PERSON.CLF person
+which HUM.CLF person
 (How many people?)
 ```
 
@@ -277,7 +277,7 @@ When all elements combine, they follow strict modifier-first ordering:
 **Example**:
 ```
 ha wi himo phelora melu
-PROX two PERSON.CLF beautiful friend
+PROX two HUM.CLF beautiful friend
 (these two beautiful friends - acknowledging their humanity)
 ```
 

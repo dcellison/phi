@@ -32,7 +32,7 @@ A location describes the noun:
 
 ```
 rena nia toremoa nai womu phelora nai
-REL on mountain be home beautiful be
+REL ON mountain be home beautiful be
 (the home that is on the mountain is beautiful.)
 ```
 
@@ -64,7 +64,7 @@ The relative clause `rena shia to kealo nophi` modifies "story," and the whole n
 
 ```
 mia nia rena mua shelira nai ruela thalo
-1SG on REL LOC forest be path walk
+1SG ON REL LOC forest be path walk
 (i walk on the path that is in the forest.)
 ```
 
@@ -80,7 +80,7 @@ mia rena mia mua serao shelira to thalo ruela lothea
 
 ```
 rena shia wei lopia phelora nophi to haolu miona ha nai
-REL 3SG to child beautiful story PST speak person here be
+REL 3SG DAT child beautiful story PST speak person PROX be
 (the person who told a beautiful story to the child is here.)
 ```
 

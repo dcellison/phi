@@ -102,6 +102,24 @@ These were explicitly decided and should not silently fork again:
   element is a preposition's object, the preposition remains and its
   object is gapped: `rena mia mua ___ to thalo shelira` (the forest
   that I walked in). The preposition is never dropped and never moves.
+- **Gloss lines** (settled 2026-07-05): the GLOSS line beneath a Phi
+  example renders every word by its lexicon gloss, verbatim — function
+  words by their uppercase labels (PROX, ABL, UNIV, THING.CLF, …),
+  content words by the bare gloss even in rule-derived senses (`kealo`
+  the noun still glosses "create"; the event-noun rule stays visible).
+  Parenthetical disambiguators in a gloss field ("spring (season)")
+  are dropped in gloss lines. Sense belongs to the free-translation
+  line: "wonder" is what `wela … welo` around feel *means*, and the
+  gloss line shows that composition rather than hiding it.
+- **Predicative deictics** (settled 2026-07-05): `ha` and `ra` stand
+  alone as locative predicates with `nai` — `mia ha nai` (I am here),
+  `shia ra nai` (they are there) — as the manual's deixis section
+  teaches; the lexicon entries record both uses. No separate
+  here/there nouns exist or are needed.
+- **Quotative frame verbs** (settled 2026-07-05): `shola … sholo`
+  closes with a verb of speaking or of receiving speech — `haolu`,
+  `shemui`, `thilou`, `hea`. The closer bounds the quote either way;
+  hearing exact words is as sayable as speaking them.
 - **The event-noun rule** (settled 2026-07): every verb licenses its
   event/result noun with no change of form — `remo` is to think and a
   thought, `thalo` to walk and a walk, `kati` to cut and a cut. This

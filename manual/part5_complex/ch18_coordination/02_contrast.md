@@ -4,13 +4,13 @@ Where `nela` says "and," `thona` says "but." It connects elements that stand in 
 
 ```
 shiro phelora nai thona thiku nai
-tree beautiful be BUT small be
+tree beautiful be ADVRS small be
 (the tree is beautiful, but it is small.)
 ```
 
 ```
 mia shelomui thona thia ma shelomui
-1SG understand BUT 2SG NEG understand
+1SG understand ADVRS 2SG NEG understand
 (i understand, but you do not.)
 ```
 
@@ -18,7 +18,7 @@ Like `nela`, `thona` can join words, phrases, or clauses. At the word level:
 
 ```
 shaelo thona thesua
-brave BUT mindful
+brave ADVRS mindful
 (brave but mindful.)
 ```
 
@@ -44,19 +44,19 @@ At the clause level, `thona` is particularly useful for presenting balanced pers
 
 ```
 mia to theo thona ma to shelomui
-1SG PST read BUT NEG PST understand
+1SG PST read ADVRS NEG PST understand
 (i read, but did not understand.)
 ```
 
 ```
 sorae sulae nai thona howeli pelui nai
-sun warm be BUT wind cold be
+sun warm be ADVRS wind cold be
 (the sun is warm, but the wind is cold.)
 ```
 
 ```
 shia haolu thona lo miona ma sheluo
-3SG speak BUT PL person NEG listen
+3SG speak ADVRS PL person NEG listen
 (they speak, but the people do not listen.)
 ```
 

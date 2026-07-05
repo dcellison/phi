@@ -582,7 +582,7 @@
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
-| `sharoi` | exceeds | /ʃä.ˈro̞.i/ | verb |
+| `sharoi` | exceed | /ʃä.ˈro̞.i/ | verb |
 | `shea` | peace | /ˈʃe̞.ä/ | noun, adjective |
 | `shekoi` | SPEC | /ʃe̞.ˈko̞.i/ | discourse |
 | `shela` | art | /ˈʃe̞.lä/ | noun |

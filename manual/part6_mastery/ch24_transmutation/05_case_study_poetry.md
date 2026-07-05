@@ -24,7 +24,7 @@ old pond.
 (The old pond.)
 
 nolika muo phialu kamo.
-animal into water arrive.
+animal INTO water arrive.
 (A creature arrives into the water.)
 
 phialu haoni.

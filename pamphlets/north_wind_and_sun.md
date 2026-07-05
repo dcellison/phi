@@ -59,7 +59,7 @@ close; the fable will turn on exactly this.
 
 ```
 lo shia mena [rena nu ta miona wetha ka leiro] mo kema nai meno to haolu.
-PL 3SG DECL [REL ORD one person cloth CAUS release] CMPR strong be DECL.CLOSE PST speak.
+PL 3SG DECL.COMP [REL ORD one person cloth CAUS release] CMPR strong be DECL.COMP.CLOSE PST speak.
 (They said: the one who first makes the person release the cloth is the stronger.)
 ```
 
@@ -82,11 +82,11 @@ releasing an attachment are the same gesture.
 
 ```
 nu ta nitho howeli ru kema to shua.
-ORD one north wind INTNS strong PST come.
+ORD one north wind INTS strong PST come.
 (First, the North Wind came on with all its strength.)
 
 kewai howeli mo kema to shua. miona wetha mo kema to phelu.
-however wind CMPR strong PST come. person cloth CMPR strong PST hold.
+CONTR wind CMPR strong PST come. person cloth CMPR strong PST hold.
 (But the stronger the wind came, the more strongly the person held the cloth.)
 
 nitho howeli to te shua. howeli to therilu.
@@ -112,7 +112,7 @@ perfectly well.
 
 ```
 pheo [howeli therilu] sorae sulae phelo to loa.
-after [wind rest] sun warm light PST give.
+POST [wind rest] sun warm light PST give.
 (After the wind rested, the Sun gave warm light.)
 
 miona nosa wetha to leiro.
@@ -133,7 +133,7 @@ The two texts are starting to quote each other.
 
 ```
 nitho howeli mena sorae mo kema nai meno to thekao.
-north wind DECL sun CMPR strong be DECL.CLOSE PST acknowledge.
+north wind DECL.COMP sun CMPR strong be DECL.COMP.CLOSE PST acknowledge.
 (The North Wind acknowledged that the Sun was the stronger.)
 ```
 
@@ -149,7 +149,7 @@ dignified surrender in the fable's long history of translations.
 
 ```
 moli puro sharoi.
-gentleness strength exceed.
+gentle strength exceed.
 (Gentleness exceeds strength.)
 ```
 

@@ -38,19 +38,19 @@ mia mena shia to wepu meno shelomui
 
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
 ### Quotative embedding
 
 ```
-[Subject] shola [Quoted material] sholo [Verb of speaking]
+[Subject] shola [Quoted material] sholo [Verb of speaking or receiving speech]
 ```
 
 ```
 shia shola mia wepu sholo haolu
-3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE speak
 (They said: "I am leaving.")
 ```
 

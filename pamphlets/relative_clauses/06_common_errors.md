@@ -115,7 +115,7 @@ Long relative clauses can overload working memory:
 
 ```
 rena mia mua serao shelira nia phelora ruela kau to thalo womu
-REL 1SG LOC old forest on beautiful path ALL PST walk home
+REL 1SG LOC old forest ON beautiful path ALL PST walk home
 (the home that i walked to on a beautiful path in the old forest)
 ```
 

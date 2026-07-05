@@ -8,7 +8,7 @@ Before the day's first screen or first task, one Phi sentence about the morning,
 
 ```
 philo shua. mia ha nai.
-day come. 1SG here be.
+day come. 1SG PROX be.
 (The day comes. I am here.)
 ```
 

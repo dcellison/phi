@@ -48,15 +48,15 @@ rabbit NONE device hold. rabbit sadness PST feel.
 
 ```
 kori kalora serao to nai. kori kalora sano to nai.
-leather horse old PST be. leather horse wise PST be.
+leather horse old PST be. leather horse know PST be.
 (The Leather Horse was old. The Leather Horse was wise.)
 
 tupiwa shola hina shewo nai sholo to thilou.
-rabbit QUOT.COMP what true be QUOT.COMP.CLOSE PST ask.
+rabbit QUOT.COMP what true be QUOT.COMP.CLOSE PST inquire.
 (The rabbit asked: "What is real?")
 
 kori kalora shola shewo lue whea ma shua sholo to haolu.
-leather horse QUOT.COMP true from make NEG come QUOT.COMP.CLOSE PST speak.
+leather horse QUOT.COMP true ABL make NEG come QUOT.COMP.CLOSE PST speak.
 (The Leather Horse said: "Real does not come from how you are made.")
 
 shola lu lopia thia ro lothea. thia shewo kelu sholo.
@@ -78,7 +78,7 @@ QUOT.COMP COND 2SG true become. 2SG hair PFV go. RESTR REL NEG understand person
 
 ```
 lue ha shero lopia nua tupiwa ro nulae.
-from PROX night child COM rabbit HAB sleep.
+ABL PROX night child COM rabbit HAB sleep.
 (From that night, the child slept with the rabbit, every night.)
 
 lo philo to wepu. tupiwa serao to kelu.
@@ -104,11 +104,11 @@ rabbit joy PST feel.
 
 ```
 mua thepalu wi waeshi tupiwa lue shelira to shua.
-LOC garden two wild rabbit from forest PST come.
+LOC garden two wild rabbit ABL forest PST come.
 (In the garden, two wild rabbits came from the forest.)
 
 shia shola wa thia po tupi sholo to thilou.
-3SG QUOT.COMP Q 2SG POT jump QUOT.COMP.CLOSE PST ask.
+3SG QUOT.COMP Q 2SG POT jump QUOT.COMP.CLOSE PST inquire.
 (They asked: "Can you jump?")
 
 tupiwa to po ma tupi. tupiwa ma to lonae.
@@ -126,11 +126,11 @@ PL wild rabbit ALL forest PST run.
 
 ```
 lopia thero mokela to howela.
-child fire sickness PST receive.
+child fire sick PST receive.
 (The child caught the fever.)
 
 tupiwa nua shia mua nuwera to thalu. tupiwa shia to thema.
-rabbit COM 3SG LOC bed PST stay. rabbit 3SG PST guard.
+rabbit COM 3SG LOC bed PST stay. rabbit 3SG PST guardian.
 (The rabbit stayed with him in the bed. The rabbit guarded him.)
 
 lopia towe to kelu.
@@ -146,7 +146,7 @@ rabbit LOC container PST be. rabbit alone PST be.
 (The rabbit was in a sack. The rabbit was alone.)
 
 ta mirae phialu lue shia mirae to lepa.
-one eye water from 3SG eye PST fall.
+one eye water ABL 3SG eye PST fall.
 (One tear fell from his eye.)
 ```
 
@@ -182,7 +182,7 @@ spring return. child LOC garden PST play.
 (Spring returned. The child was playing in the garden.)
 
 ta tupiwa lue shelira to shua. shia lopia sheru to nila.
-one rabbit from forest PST come. 3SG child slow PST see.
+one rabbit ABL forest PST come. 3SG child slow PST see.
 (A rabbit came from the forest. He looked at the child, slowly.)
 
 lopia mena shia ha tupiwa to sano meno ma to sano.

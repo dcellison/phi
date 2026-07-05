@@ -21,11 +21,11 @@ its common English translations.*
 
 ```
 [rena shea ruela sano] miona welao na thole.
-[REL peace path know] person goodness NEC practice.
+[REL peace path know] person good NEC practice.
 (The one who knows the path of peace must practice goodness.)
 
 su shia theali nela wero nai.
-OPT 3SG capable COORD honest be.
+OPT 3SG fitting COORD honest be.
 (May they be capable and honest.)
 
 su shia moli haolu.
@@ -50,7 +50,7 @@ carries the sutta's "let them / may they" mood natively.
 
 ```
 su shia nuloe nai. su shia henoi sano.
-OPT 3SG content be. OPT 3SG enough know.
+OPT 3SG content be. OPT 3SG ENOUGH know.
 (May they be content. May they know enough.)
 
 su shia shena nela phaelu nai. su shia phue nai.
@@ -75,11 +75,11 @@ OPT 3SG [REL PL wise harmful see] thing NEG do.
 (May they not do the thing the wise see as harmful.)
 
 su theula [rena lima nai] siora phaelo.
-OPT all [REL alive be] joy feel.
+OPT UNIV [REL alive be] joy feel.
 (May all that lives feel joy.)
 
 su theula [rena lima nai] towe nai.
-OPT all [REL alive be] well be.
+OPT UNIV [REL alive be] well be.
 (May all that lives be well.)
 ```
 
@@ -112,7 +112,7 @@ near DISJ far.
 (Those who are alive and those coming toward life.)
 
 su theula [rena lima nai] towe nai.
-OPT all [REL alive be] well be.
+OPT UNIV [REL alive be] well be.
 (May all that lives be well.)
 ```
 
@@ -128,15 +128,15 @@ OPT all [REL alive be] well be.
 
 ```
 su mawha miona wei shia peshu.
-OPT no person DAT other lie.
+OPT NONE person DAT 3SG lie.
 (May no person lie to another.)
 
 su mawha miona shia thiku nila.
-OPT no person other small see.
+OPT NONE person 3SG small see.
 (May no one see another as small.)
 
 su mawha miona lue korua thero wei shia peloma pula.
-OPT no person from heart fire DAT other harm wish.
+OPT NONE person ABL heart fire DAT 3SG harmful wish.
 (May no one, from the fire of the heart, wish harm upon another.)
 ```
 
@@ -155,7 +155,7 @@ from, not an identity.
 
 ```
 phea [phao ta lopia shorupo].
-as [parent one child protect].
+AS [parent one child protect].
 (As a parent protects their only child.)
 
 su thia [mawha norui] korua phelu.
@@ -163,7 +163,7 @@ OPT 2SG [no boundary] heart hold.
 (May you hold a heart of no boundary.)
 
 su thia theula [rena lima nai] theama.
-OPT 2SG all [REL alive be] care.
+OPT 2SG UNIV [REL alive be] care.
 (May you care for all that lives.)
 ```
 
@@ -180,15 +180,15 @@ The sutta's most famous image survives intact in nine syllables.
 
 ```
 su thia wei theula muila lothea loa.
-OPT 2SG DAT all earth love give.
+OPT 2SG DAT UNIV earth love give.
 (May you give love to the whole earth.)
 
 wei leo waero. wei phou nulo. wei theula noa.
-DAT above sky. DAT below deep. DAT all position.
+DAT ABOVE sky. DAT BELOW deep. DAT UNIV position.
 (To the sky above. To the deep below. To every place.)
 
 su thia lue korua thero ralu nai.
-OPT 2SG from heart fire free be.
+OPT 2SG ABL heart fire free be.
 (May you be free from the fire of the heart.)
 ```
 
@@ -210,11 +210,11 @@ thia whano sola thalo sola meilo sola therilu.
 (Whether you stand or walk or sit or rest.)
 
 su thia ha thesua thenoki.
-OPT 2SG PROX mindfulness sustain.
+OPT 2SG PROX mindful sustain.
 (May you sustain this mindfulness.)
 
 ha shea menui nai.
-PROX peace dwelling be.
+PROX peace dwell be.
 (This is the dwelling of peace.)
 ```
 
@@ -231,7 +231,7 @@ noun, as Phi's analytic grammar freely allows.
 
 ```
 [shiloa korua] mawha remo kire phelu.
-[pure heart] no thought shape hold.
+[pure heart] NONE think shape hold.
 (The pure heart holds no fixed shape of thought.)
 
 shia nuwi nila.

@@ -33,7 +33,7 @@ Disagreement in Phi leans on the evidentials and the observation-feeling pattern
 
 ```
 thia mena sorae sulae nai meno haolu. mia ho ma shelomui.
-2SG DECL.COMP sun warm be DECL.COMP.CLOSE say. 1SG ASSUM NEG understand.
+2SG DECL.COMP sun warm be DECL.COMP.CLOSE speak. 1SG ASSUM NEG understand.
 (You say the sun is warm. I — assuming — do not understand.)
 ```
 
@@ -45,7 +45,7 @@ Naming your own uncertainty (`ho`) does the work that softening phrases do in En
 
 ```
 kona ni hino. thia nuhemi. mia ha nai.
-VOC HON.INTIM Hino. 2SG grieve. 1SG here be.
+VOC HON.INTIM Hino. 2SG grieve. 1SG PROX be.
 (Dear Hino. You grieve. I am here.)
 
 su shea wei thia shua.

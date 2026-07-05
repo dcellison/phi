@@ -26,7 +26,7 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 (the book that I saw)
 
 [rena mua shelira nai] ruela
-[REL in forest be] path
+[REL LOC forest be] path
 (the path that is in the forest)
 ```
 
@@ -44,18 +44,20 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 **Function**: Introduces and closes direct speech, preserving the exact words spoken
 **IPA**: /ʃo.la/ and /ʃo.lo/
 **Position**: `shola` opens the quoted material; `sholo` closes it. The main verb follows `sholo`.
-**Structure**: `[Subject] shola [Quote] sholo [Verb of speaking]`
+**Structure**: `[Subject] shola [Quote] sholo [Verb of speaking or receiving speech]`
+
+The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`) or of receiving speech (`hea`): the quote is bounded by `sholo` either way, and hearing exact words is as sayable as speaking them.
 
 **`sholo` is required.** It marks where the quotation ends so the main verb can follow unambiguously.
 
 **Examples**:
 ```
 shia shola sorae phelora nai sholo haolu
-3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
+3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE speak
 (They say, "The sun is beautiful.")
 
 mia shola mia so wepu sholo haolu
-1SG QUOT.COMP 1SG FUT leave QUOT.COMP.CLOSE say
+1SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE speak
 (I said: "I will leave.")
 ```
 
@@ -75,11 +77,11 @@ mia shola mia so wepu sholo haolu
 **Examples**:
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL.COMP 3SG PST leave DECL.COMP.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 
 shia mena thia to wepu meno to haolu
-3SG DECL.COMP 2SG PST leave DECL.COMP.CLOSE PST say
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
 (They said that you left.)
 
 mia mena sorae sulae nai meno phaelo
@@ -90,7 +92,7 @@ mia mena sorae sulae nai meno phaelo
 **Nesting**: `mena`/`meno` clauses can nest. Each `mena` must have its own `meno`:
 ```
 mia mena thia mena shia to wepu meno phaelo meno shelomui
-1SG DECL.COMP 2SG DECL.COMP 3SG PST leave DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
@@ -112,11 +114,11 @@ mia mena thia mena shia to wepu meno phaelo meno shelomui
 **Examples**:
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 
 shia wela mia to nila welo to thilou
-3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST ask
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
 (They asked whether I had seen.)
 
 lo mia wela sorae phelora nai welo ma shelomui
@@ -150,7 +152,7 @@ The vocative is a separate part of speech for direct address, existing outside t
 **Examples**:
 ```
 kona melu. mia ha nai
-VOC friend. 1SG here be
+VOC friend. 1SG PROX be
 (Friend, I am here.)
 
 kona ne sa thala. wa thia towe nai

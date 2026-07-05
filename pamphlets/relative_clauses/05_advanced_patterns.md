@@ -44,7 +44,7 @@ mia rena rena nophi kealo miona to thumela lopia sano
 **Consider:**
 ```
 miona nophi kealo. mia rena ha miona to thumela lopia sano.
-person story create. 1SG REL this person PST teach child know.
+person story create. 1SG REL PROX person PST teach child know.
 (a person creates stories. i know the child whom this person taught.)
 ```
 
@@ -74,7 +74,7 @@ If you find yourself going three levels deep, restructure. Break it into multipl
 
 ```
 miona ha nai. ha miona nophi kealo. mia rena ha miona to kealo nophi lothea.
-person here be. this person story create. 1SG REL this person PST create story love.
+person PROX be. PROX person story create. 1SG REL PROX person PST create story love.
 (a person is here. this person creates stories. i love the story that this person created.)
 ```
 
@@ -86,7 +86,7 @@ Relative clauses can contain embedded statements (`mena`/`meno`), quotations (`s
 
 ```
 rena mena mia so shua meno sano miona ha nai
-REL DECL.COMP 1SG FUT come DECL.COMP.CLOSE know person here be
+REL DECL.COMP 1SG FUT come DECL.COMP.CLOSE know person PROX be
 (the person who knows that i will come is here.)
 ```
 
@@ -145,7 +145,7 @@ When you want to change the topic, introduce a new noun (with or without a relat
 
 ```
 rena mia to nila peloru phelora nai. shiro ha nai. whalo nai.
-REL 1SG PST see flower beautiful be. tree here be. large be.
+REL 1SG PST see flower beautiful be. tree PROX be. large be.
 (the flower that i saw is beautiful. a tree is here. [it] is large.)
 ```
 
@@ -163,7 +163,7 @@ shia wei mia nophi to haolu. rena mia to hea nophi phelora nai.
 (they told me a story. the story that i heard is beautiful.)
 
 mia kau ha miona so turema.
-1SG ALL this person FUT return.
+1SG ALL PROX person FUT return.
 (i will return to this person.)
 ```
 
@@ -199,7 +199,7 @@ Possession is bare juxtaposition, the possessor standing directly before the pos
 
 ```
 rena mia shelu to theo miona ha nai
-REL 1SG book PST read person here be
+REL 1SG book PST read person PROX be
 (the person who read my book is here.)
 ```
 
@@ -223,7 +223,7 @@ mia mua rena mua shelira nai womu to kamo. phelora nai.
 (i arrived at the home that is in the forest. [it] is beautiful.)
 
 rena mua ha womu nai miona phue nai.
-REL LOC this home be person wise be.
+REL LOC PROX home be person wise be.
 (the person who is in this home is wise.)
 
 shia wei mia nophi to haolu. rena mia to hea nophi mena shea mua shelira nai meno to haolu.

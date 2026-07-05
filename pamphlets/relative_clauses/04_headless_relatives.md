@@ -10,7 +10,7 @@ When the previous sentence establishes what you're talking about, repeating the 
 
 ```
 mia lo miona to nila. rena wei mia to haolu ha nai.
-1SG PL person PST see. REL DAT 1SG PST speak here be.
+1SG PL person PST see. REL DAT 1SG PST speak PROX be.
 (i saw the people. the one who spoke to me is here.)
 ```
 
@@ -18,7 +18,7 @@ The listener knows we're talking about people. Saying `miona` again would be unn
 
 ```
 sheloi shelu ha nai. mia rena thia to kealo theo.
-MANY book here be. 1SG REL 2SG PST create read.
+MANY book PROX be. 1SG REL 2SG PST create read.
 (many books are here. i read the one that you created.)
 ```
 
@@ -70,7 +70,7 @@ A philosophical statement that doesn't need nouns to make its point.
 
 ```
 rena mia to nila ha nai
-REL 1SG PST see here be
+REL 1SG PST see PROX be
 (the one whom i saw is here.)
 ```
 
@@ -177,7 +177,7 @@ REL help help receive
 
 ```
 rena kealo kealo nila
-REL create creation see
+REL create create see
 (one who creates sees creation.)
 ```
 
@@ -207,7 +207,7 @@ Using headless relatives to ask about identity or characteristics:
 
 ```
 wa rena ha kealo thia nai
-Q REL this create 2SG be
+Q REL PROX create 2SG be
 (are you the one who created this?)
 ```
 
@@ -237,7 +237,7 @@ Headless relatives can be interpreted as definite ("the one who...") or indefini
 
 ```
 rena mia to naphe ha nai
-REL 1SG PST help here be
+REL 1SG PST help PROX be
 (the one who helped me is here.)
 ```
 
@@ -289,6 +289,6 @@ mia rena shea kealo wilao. wa thia rena mia wilao sano.
 (i long for one who creates peace. do you know the one i long for?)
 
 rena thia sano ha nai.
-REL 2SG know here be.
+REL 2SG know PROX be.
 (the one you know is here.)
 ```

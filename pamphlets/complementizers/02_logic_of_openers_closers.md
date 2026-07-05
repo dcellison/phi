@@ -150,7 +150,7 @@ One more word belongs in this chapter: the vocative marker `kona`, which address
 
 ```
 kona melu. mia ha nai
-VOC friend. 1SG here be
+VOC friend. 1SG PROX be
 (Friend, I am here.)
 ```
 

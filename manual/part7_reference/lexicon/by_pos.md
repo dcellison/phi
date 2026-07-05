@@ -950,7 +950,7 @@
 | `shalo` | run | Run |
 | `shane` | tell | Tell |
 | `shareo` | discuss | Discuss |
-| `sharoi` | exceeds | Exceeds |
+| `sharoi` | exceed | Exceeds |
 | `shelo` | signify | Signify |
 | `sheloa` | bloom | Bloom |
 | `shelomui` | understand | Understand |
