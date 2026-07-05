@@ -98,11 +98,18 @@ body = body.replace("<strong>Verify</strong>",
                     '<strong><a href="manual/index.html">Verify</a></strong>')
 body = body.replace("<strong>Read</strong>",
                     '<strong><a href="texts/index.html">Read</a></strong>')
+body = body.replace("<strong>Practice</strong>",
+                    '<strong><a href="pamphlets/index.html">Practice</a></strong>')
 landing = f"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Phi is a constructed language built to slow you down: one grammar rule, sounds you cannot rush, and a shelf of literature that includes the Ring Verse it refused to translate.">
+<meta property="og:title" content="Phi — a language built to slow you down">
+<meta property="og:description" content="One grammar rule, no irregulars, sounds you cannot rush — and no words for lord, throne, or rule. Nine hundred words, a primer, a manual, and literature already on the shelf.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://dcellison.github.io/phi/">
 <title>Phi — kia</title>
 <script src="theme.js"></script>
 <link rel="stylesheet" href="style.css">
@@ -156,6 +163,7 @@ def primer_page(body, title, footer_nav=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The Phi primer: learn a language built to slow you down, one household chapter at a time.">
 <title>Phi primer &mdash; {title}</title>
 <script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
@@ -224,6 +232,7 @@ def manual_page(body, title, footer_nav=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The Phi manual: the complete reference for a constructed language with one grammatical rule and no irregular anything.">
 <title>Phi manual &mdash; {title}</title>
 <script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
@@ -306,6 +315,7 @@ def texts_page(body, title):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Phi's literature: eight transmutations, from the Metta Sutta to The Velveteen Rabbit — and the Ring Verse, refused.">
 <title>Phi texts &mdash; {title}</title>
 <script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
@@ -357,6 +367,7 @@ def pamphlet_page(body, title, footer_nav=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Deep-dive companions to the Phi manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys.">
 <title>Phi pamphlets &mdash; {title}</title>
 <script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
