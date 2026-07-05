@@ -105,17 +105,17 @@ Relative clauses (`rena`) can contain embedded clauses:
 ### Relative clause with `mena`/`meno`
 
 ```
-rena mia mena shia towe nai meno sano miona
-REL 1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know person
+rena mia mena towe nai meno sano miona
+REL 1SG DECL.COMP well be DECL.COMP.CLOSE know person
 (the person whom I know is well)
 ```
 
 Here, the relative clause contains an embedded declarative. The structure:
 ```
-[rena mia mena [shia towe nai] meno sano] miona
+[rena mia mena [___ towe nai] meno sano] miona
 ```
 
-The head noun `miona` closes the relative clause. The `mena`/`meno` pair is fully contained within it.
+The head noun `miona` closes the relative clause and fills the gap inside the embedded clause — the relativized element can sit arbitrarily deep. The `mena`/`meno` pair is fully contained within the relative clause.
 
 ### Relative clause with `wela`/`welo`
 
@@ -227,8 +227,8 @@ mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomui
 ### Relative clause with nested embedding
 
 ```
-rena mia mena thia mena shia towe nai meno phaelo meno sano miona
-REL 1SG DECL.COMP 2SG DECL.COMP 3SG well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE know person
+rena mia mena thia mena towe nai meno phaelo meno sano miona
+REL 1SG DECL.COMP 2SG DECL.COMP well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE know person
 (the person about whom I know that you feel that they are well)
 ```
 

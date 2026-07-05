@@ -17,8 +17,8 @@ The rolling `r` connects; the grounding `na` anchors what follows. `rena` opens 
 Everything between `rena` and the noun is the description. The noun arrives last, receiving all the preceding information. Here are complete sentences using relative clauses:
 
 ```
-rena shia nophi kealo miona phue nai
-REL 3SG story create person wise be
+rena nophi kealo miona phue nai
+REL story create person wise be
 (the person who creates stories is wise.)
 ```
 
@@ -45,8 +45,8 @@ This works because relative clauses are pre-nominal. The structure `[rena CLAUSE
 Notice that the head noun doesn't appear inside the relative clause. In "the book that i read," English has "book" outside and an implied gap where it would go inside ("i read ___"). Phi works the same way. Looking at the noun phrase structure (not a complete sentence):
 
 ```
-rena mia to theo ___ shelu
-REL 1SG PST read [gap] book
+rena mia ___ to theo shelu
+REL 1SG [gap] PST read book
 "the book that i read" (noun phrase)
 ```
 

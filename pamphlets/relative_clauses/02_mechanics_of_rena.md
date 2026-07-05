@@ -61,9 +61,10 @@ The noun can then serve any role in the main clause: subject, object, or part of
 
 ### Comparison with other complementizers
 
-Phi's other clause-embedding complementizers often require closers:
+Phi's other clause-embedding complementizers require closers:
 
 - `mena` ... `meno` (DECL.COMP ... DECL.COMP.CLOSE): required pair for embedded statements
+- `wela` ... `welo` (INT.COMP ... INT.COMP.CLOSE): required pair for embedded questions
 - `shola` ... `sholo` (QUOT.COMP ... QUOT.COMP.CLOSE): required pair for quotations
 
 These closers exist because the embedded clause is followed by more material (the main verb), and without a boundary marker, the listener wouldn't know where the embedded clause ends.
@@ -219,11 +220,11 @@ rena to shua miona
 → "the person who came"
 
 ```
-rena mia mua shelira to thalo ruela
+rena mia mua shelira to nila ruela
 ```
-→ "mia mua shelira ruela to thalo" (i walked on a path in the forest)
+→ "mia mua shelira ruela to nila" (i saw a path in the forest)
 → gap is in... wait, which noun is the head?
 
-This last example shows that you must wait for the head noun to know what's gapped. The word `ruela` (path) at the end is the head, so the path is what was walked on. The forest (`shelira`) is inside the clause, not gapped.
+This last example shows that you must wait for the head noun to know what's gapped. The word `ruela` (path) at the end is the head, so the path is what was seen. The forest (`shelira`) is inside the clause, not gapped.
 
 The rule of thumb: find the clause's verb, take the noun after it as the head, and ask which role inside the clause is empty.

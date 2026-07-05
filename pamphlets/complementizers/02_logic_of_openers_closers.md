@@ -146,7 +146,7 @@ This is not metaphor. Phi's complementizer system is formally equivalent to bala
 
 ## The vocative exception
 
-One other multi-syllable function word exists: the vocative marker `kona`, which addresses someone directly.
+One more word belongs in this chapter: the vocative marker `kona`, which addresses someone directly.
 
 ```
 kona melu. mia ha nai

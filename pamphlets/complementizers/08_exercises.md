@@ -69,21 +69,21 @@ Translate each Phi sentence into natural English.
 
 Each sentence contains an error. Find and correct it.
 
-31. *mia mena shia wepu shelomui
+31. *mia mena shia to wepu shelomui
 
-32. *mia wela shia wepu wela phaelo
+32. *mia wela shia to wepu wela phaelo
 
 33. *shia shola mia wepu haolu
 
 34. *rena nophi kealo reno miona
 
-35. *mia shelomui mena shia wepu meno
+35. *mia shelomui mena shia to wepu meno
 
 36. *mia mena shia towe meno sano
 
-37. *mia wela wa shia wepu welo phaelo
+37. *mia wela wa shia to wepu welo phaelo
 
-38. *thia mena shia wepu meno wela mia turema welo sano meno phaelo
+38. *thia mena shia to wepu meno wela mia so turema welo sano meno phaelo
 
 39. *shia sholo mia wepu shola haolu
 

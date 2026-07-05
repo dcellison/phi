@@ -102,12 +102,14 @@ mia mena shia to wepu meno shelomui
 
 **The problem:** Both involve reported speech, but they serve different functions.
 
-**Wrong (using quotation for content):**
+**Says something else (quotation instead of content):**
 ```
-*shia shola thia wepu sholo haolu
+shia shola thia wepu sholo haolu
 3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE say
 (They said: "You are leaving.")
 ```
+
+This is grammatical — but it claims those were the exact words spoken.
 
 When you meant:
 ```
@@ -164,10 +166,11 @@ mia wela shia to wepu welo phaelo
 
 **The problem:** Both involve conditionality or possibility, but differently.
 
-**Wrong:**
+**Grammatical, but not a conditional:**
 ```
-*mia wela thia wepu welo ma towe phaelo
+mia wela thia wepu welo ma towe phaelo
 1SG INT.COMP 2SG go INT.COMP.CLOSE NEG well feel
+(I do not feel well about whether you leave.)
 ```
 
 When you meant:

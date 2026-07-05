@@ -43,7 +43,7 @@ rena ___ nophi kealo miona
 
 **Object gap:** The head noun is the receiver
 ```
-rena mia ___ theo shelu
+rena mia ___ to theo shelu
 "the book that I read"
 ```
 
