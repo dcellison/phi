@@ -11,7 +11,7 @@ Particles appear in a fixed order based on their slot:
 Example:
 ```
 pi mia so ki po shelomui
-POL 1SG FUT PFV POSS understand
+POL 1SG FUT PFV POT understand
 (Politely, I will be able to have understood.)
 ```
 
@@ -81,7 +81,7 @@ POL IMP family help
 (Please help the family.)
 
 pi wa thia po naphe
-POL Q 2SG POSS help
+POL Q 2SG POT help
 (Could you please help?)
 ```
 
@@ -216,12 +216,12 @@ thia ho shelomui
 
 ### Modality Particles
 
-#### `po` - Possibility/Ability Modal (POSS)
+#### `po` - Possibility/Ability Modal (POT)
 **Function**: Announces that the action is possible or that the subject has ability
 **Example**:
 ```
 mia po shelomui
-1SG POSS understand
+1SG POT understand
 (I can understand / I am able to understand.)
 ```
 
@@ -258,7 +258,7 @@ mia ma shelomui
 (I do not understand.)
 
 mia so ki po ma shelomui
-1SG FUT PFV POSS NEG understand
+1SG FUT PFV POT NEG understand
 (I will not be able to have understood.)
 ```
 
@@ -274,7 +274,7 @@ mia so ki po ma shelomui
 When multiple Slot 1 particles combine, they follow strict ordering:
 ```
 mia to si ke po ma shelomui
-1SG PST IPFV INFER POSS NEG understand
+1SG PST IPFV INFER POT NEG understand
 (I was not being able to understand [I infer].)
 ```
 Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`ti`/`ho`) > Modality (`po`) > Negation (`ma`)

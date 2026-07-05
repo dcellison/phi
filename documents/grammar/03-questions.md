@@ -63,7 +63,7 @@ Questions can combine with other particles while maintaining the modifier-first 
 
 ```
 pi wa thia lumani po naphe
-POL Q 2SG family POSS help
+POL Q 2SG family POT help
 (Could you please help the family?)
 ```
 

@@ -25,8 +25,8 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 [REL 1SG PST see] book
 (the book that I saw)
 
-[rena shelira mua nai] ruela
-[REL forest in be] path
+[rena mua shelira nai] ruela
+[REL in forest be] path
 (the path that is in the forest)
 ```
 
@@ -130,9 +130,9 @@ lo mia wela sorae phelora nai welo ma shelomui
 - `wela`/`welo` (interrogative complementizer pair): Embeds questions as content
 
 **Comparison**:
-- `wa thia wepu` = Are you leaving? (direct question)
-- `lu thia wepu. mia ma towe phaelo` = If you leave, I won't feel well. (conditional)
-- `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. (embedded question)
+- `wa thia wepu` = Are you going? (direct question)
+- `lu thia wepu. mia ma towe phaelo` = If you go, I won't feel well. (conditional)
+- `mia wela thia wepu welo phaelo` = I wonder whether you're going. (embedded question)
 
 ---
 
@@ -145,15 +145,15 @@ The vocative is a separate part of speech for direct address, existing outside t
 **Function**: Announces that someone is being directly addressed
 **IPA**: /ko.na/
 **Position**: Before the name/title of the addressee, outside the main clause
-**Structure**: `kona [ne] [Name/Title], [Sentence]`
+**Structure**: `kona [ne] [Name/Title]. [Sentence]`
 
 **Examples**:
 ```
-kona melu, mia ha nai
-VOC friend, 1SG here be
+kona melu. mia ha nai
+VOC friend. 1SG here be
 (Friend, I am here.)
 
-kona ne sa thala, wa thia towe nai
+kona ne sa thala. wa thia towe nai
 VOC NAME HON.RESPECT Thala, Q 2SG well be
 (Honored Thala, are you well?)
 

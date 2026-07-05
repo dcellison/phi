@@ -190,28 +190,28 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 ## Part A: Translation (English to Phi)
 
 1. **mia mena sorae phelora nai meno sano**
-   1SG DECL sun beautiful be DECL.CLOSE know
+   1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE know
 
 2. **shia mena pheralu so shua meno nohero**
-   3SG DECL rain FUT come DECL.CLOSE believe
+   3SG DECL.COMP rain FUT come DECL.COMP.CLOSE believe
 
 3. **thia mena nophi shewo nai meno phaelo**
-   2SG DECL story true be DECL.CLOSE feel
+   2SG DECL.COMP story true be DECL.COMP.CLOSE feel
 
 4. **melu mena mia to naphe meno haolu**
-   friend DECL 1SG PST help DECL.CLOSE say
+   friend DECL.COMP 1SG PST help DECL.COMP.CLOSE say
 
 5. **lo mia mena shia to wepu meno shelomui**
-   PL 1SG DECL 3SG PST leave DECL.CLOSE understand
+   1PL DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 
 6. **shia mena thia towe nai meno remo**
-   3SG DECL 2SG well be DECL.CLOSE think
+   3SG DECL.COMP 2SG well be DECL.COMP.CLOSE think
 
 7. **mia mena melu to kamo meno ma sano**
-   1SG DECL friend PST arrive DECL.CLOSE NEG know
+   1SG DECL.COMP friend PST arrive DECL.COMP.CLOSE NEG know
 
 8. **shia mena shelu welao nai meno haolu**
-   3SG DECL book good be DECL.CLOSE say
+   3SG DECL.COMP book good be DECL.COMP.CLOSE say
 
 9. **mia wela shia towe nai welo phaelo**
    1SG INT.COMP 3SG well be INT.COMP.CLOSE wonder
@@ -220,7 +220,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     3SG INT.COMP 2SG PST see INT.COMP.CLOSE ask
 
 11. **lo mia wela pheralu so shua welo ma sano**
-    PL 1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG know
+    1PL INT.COMP rain FUT come INT.COMP.CLOSE NEG know
 
 12. **shia wela melu so turema welo phaelo**
     3SG INT.COMP friend FUT return INT.COMP.CLOSE wonder
@@ -235,19 +235,19 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     1SG INT.COMP beautiful be INT.COMP.CLOSE NEG care
 
 16. **shia shola mia wepu sholo haolu**
-    3SG QUOT 1SG leave QUOT.CLOSE say
+    3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
 
 17. **melu shola sorae phelora nai sholo haolu**
-    friend QUOT sun beautiful be QUOT.CLOSE say
+    friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
 
 18. **shia shola wa thia towe nai sholo thilou**
-    3SG QUOT Q 2SG well be QUOT.CLOSE ask
+    3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE ask
 
 19. **mia shola mia so turema sholo haolu**
-    1SG QUOT 1SG FUT return QUOT.CLOSE say
+    1SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say
 
 20. **shia shola lo mia ha nai sholo haolu**
-    3SG QUOT PL 1SG here be QUOT.CLOSE say
+    3SG QUOT.COMP 1PL here be QUOT.COMP.CLOSE say
 
 ## Part B: Translation (Phi to English)
 

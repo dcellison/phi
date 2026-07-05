@@ -1,4 +1,4 @@
-# Understanding Embedded Clauses
+# Understanding embedded clauses
 
 ## What is an embedded clause?
 
@@ -13,22 +13,7 @@ This is one of the most powerful features of human language: the ability to take
 
 ## Three types of embedding
 
-Languages generally embed three kinds of content:
-
-**Statements (declarative):** Facts, beliefs, reports of what someone communicated.
-- I know *that the sun is warm*.
-- She believes *that rain will come*.
-- He said *that you arrived*.
-
-**Questions (interrogative):** Uncertainties, wonderings, inquiries being considered.
-- I wonder *whether she will come*.
-- She asked *if I had seen the book*.
-- We don't know *whether it's true*.
-
-**Quotations (direct speech):** Someone's exact words, preserved verbatim.
-- She said, *"I am leaving."*
-- He asked, *"Are you well?"*
-- The teacher announced, *"Class begins now."*
+Languages generally embed three kinds of content. The first is statements: facts, beliefs, reports of what someone communicated. I know *that the sun is warm*; she believes *that rain will come*; he said *that you arrived*. The second is questions: uncertainties, wonderings, inquiries being considered. I wonder *whether she will come*; she asked *if I had seen the book*; we don't know *whether it's true*. The third is quotation, someone's exact words preserved verbatim. She said, *"I am leaving."* He asked, *"Are you well?"* The teacher announced, *"Class begins now."*
 
 English handles these differently. Statements use "that" (often optional). Questions use "whether" or "if." Quotations use quotation marks in writing, and intonation shifts in speech.
 
@@ -74,12 +59,12 @@ Phi makes all boundaries explicit. Every embedded clause has both an opener and 
 
 The opener announces what kind of content follows. The closer marks exactly where that content ends. The main verb then follows the closer, unambiguously.
 
-**English:** I know that she left.
-**Phi structure:** I [DECL she left DECL.CLOSE] know.
+**English:** I understand that they left.
+**Phi structure:** I [DECL.COMP they left DECL.COMP.CLOSE] understand.
 
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -95,7 +80,7 @@ The answer lies in Phi's word order. Phi is strictly SOV (Subject-Object-Verb), 
 
 ```
 mia mena shia to wepu shelomui
-1SG DECL 3SG PST leave understand
+1SG DECL.COMP 3SG PST go understand
 ```
 
 Is this "I understand that they left"? Or is it attempting to say something about "they leaving-understanding"? Where does `wepu` end and `shelomui` begin? Two verbs in sequence, no boundary marked.
@@ -104,17 +89,17 @@ Is this "I understand that they left"? Or is it attempting to say something abou
 
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
-Now the structure is crystal clear. The `meno` announces: the embedded clause has ended. What follows is the main verb.
+Now the boundary is explicit. The `meno` announces: the embedded clause has ended. What follows is the main verb.
 
 This is especially important when clauses nest:
 
 ```
 mia mena thia mena shia to wepu meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG PST leave DECL.CLOSE feel DECL.CLOSE understand
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
@@ -129,13 +114,7 @@ Phi uses a consistent phonetic pattern for complementizer pairs:
 
 The vowel shift from open `a` to rounded `o` enacts closure acoustically. When you hear a complementizer ending in `-a`, you know something is opening. When you hear the same root ending in `-o`, you know it is closing.
 
-This pattern extends beyond complementizers. Phi's correlative conjunctions use the same system:
-
-- `lera`/`lero` (both...and)
-- `sera`/`sero` (either...or)
-- `mira`/`miro` (neither...nor)
-
-The principle is consistent: `-a` opens, `-o` closes. Learn this once, apply it everywhere.
+The principle is consistent across all three pairs: `-a` opens, `-o` closes. Learn this once, apply it everywhere.
 
 ## Cross-linguistic perspective
 
@@ -175,4 +154,4 @@ By the end, you will be able to construct and understand embedded clauses of any
 
 ---
 
-*Next: The Logic of Openers and Closers*
+*Next: The logic of openers and closers*

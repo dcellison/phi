@@ -10,7 +10,7 @@ When we think about what others think, or know what others know, we nest `mena`/
 
 ```
 mia mena thia mena shia to wepu meno phaelo meno shelomui
-1SG DECL 2SG DECL 3SG PST leave DECL.CLOSE feel DECL.CLOSE understand
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
@@ -27,7 +27,7 @@ Each `mena` has its own `meno`. They nest like parentheses.
 
 ```
 shia mena mia mena thia mena melu to wepu meno sano meno nohero meno haolu
-3SG DECL 1SG DECL 2SG DECL friend PST leave DECL.CLOSE know DECL.CLOSE believe DECL.CLOSE say
+3SG DECL.COMP 1SG DECL.COMP 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know DECL.COMP.CLOSE believe DECL.COMP.CLOSE say
 (They said that I believe that you know that the friend left.)
 ```
 
@@ -35,7 +35,7 @@ This is grammatically correct but approaches the limit of comfortable processing
 
 ```
 melu to wepu. thia shewo mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
-friend PST leave. 2SG true DECL friend PST leave DECL.CLOSE know. 1SG DECL 2SG know DECL.CLOSE believe. 3SG DECL 1SG believe DECL.CLOSE say
+friend PST go. 2SG true DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE say
 (The friend left. You truly know that the friend left. I believe that you know. They said that I believe.)
 ```
 
@@ -61,7 +61,7 @@ Different complementizer types can nest within each other:
 
 ```
 mia wela thia mena shia to wepu meno sano welo phaelo
-1SG INT.COMP 2SG DECL 3SG PST leave DECL.CLOSE know INT.COMP.CLOSE wonder
+1SG INT.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know INT.COMP.CLOSE wonder
 (I wonder whether you know that they left.)
 ```
 
@@ -78,7 +78,7 @@ The `mena`/`meno` pair is inside the `wela`/`welo` pair.
 
 ```
 mia mena thia wela shia to wepu welo phaelo meno sano
-1SG DECL 2SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder DECL.CLOSE know
+1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder DECL.COMP.CLOSE know
 (I know that you wonder whether they left.)
 ```
 
@@ -86,7 +86,7 @@ mia mena thia wela shia to wepu welo phaelo meno sano
 
 ```
 mia mena shia shola mia so turema sholo haolu meno shelomui
-1SG DECL 3SG QUOT 1SG FUT return QUOT.CLOSE say DECL.CLOSE understand
+1SG DECL.COMP 3SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say DECL.COMP.CLOSE understand
 (I understand that they said: "I will return.")
 ```
 
@@ -94,7 +94,7 @@ mia mena shia shola mia so turema sholo haolu meno shelomui
 
 ```
 shia shola mia mena thia towe nai meno sano sholo haolu
-3SG QUOT 1SG DECL 2SG well be DECL.CLOSE know QUOT.CLOSE say
+3SG QUOT.COMP 1SG DECL.COMP 2SG well be DECL.COMP.CLOSE know QUOT.COMP.CLOSE say
 (They said: "I know that you are well.")
 ```
 
@@ -106,7 +106,7 @@ Relative clauses (`rena`) can contain embedded clauses:
 
 ```
 rena mia mena shia towe nai meno sano miona
-REL 1SG DECL 3SG well be DECL.CLOSE know person
+REL 1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know person
 (the person whom I know is well)
 ```
 
@@ -129,7 +129,7 @@ REL 2SG INT.COMP well be INT.COMP.CLOSE wonder person
 
 ```
 rena shola mia so turema sholo haolu miona
-REL QUOT 1SG FUT return QUOT.CLOSE say person
+REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say person
 (the person who said: "I will return")
 ```
 
@@ -141,7 +141,7 @@ The embedded clause can itself contain a relative clause:
 
 ```
 mia mena rena nophi kealo miona to wepu meno sano
-1SG DECL REL story create person PST leave DECL.CLOSE know
+1SG DECL.COMP REL story create person PST go DECL.COMP.CLOSE know
 (I know that the person who creates stories left.)
 ```
 
@@ -164,7 +164,7 @@ mia wela rena mia to nila shelu shewo nai welo phaelo
 
 ```
 shia shola rena mia kealo nophi phelora nai sholo haolu
-3SG QUOT REL 1SG create story beautiful be QUOT.CLOSE say
+3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE say
 (They said: "The story that I created is beautiful.")
 ```
 
@@ -176,7 +176,7 @@ A sentence can contain multiple embedded clauses that are not nested:
 
 ```
 mia mena shia towe nai meno sano. nai mia mena shia so turema meno nohero
-1SG DECL 3SG well be DECL.CLOSE know. and 1SG DECL 3SG FUT return DECL.CLOSE believe
+1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know. and 1SG DECL.COMP 3SG FUT return DECL.COMP.CLOSE believe
 (I know that they are well, and I believe that they will return.)
 ```
 
@@ -184,7 +184,7 @@ mia mena shia towe nai meno sano. nai mia mena shia so turema meno nohero
 
 ```
 mia mena shia towe nai meno sano. ta mia wela shia so turema welo ma sano
-1SG DECL 3SG well be DECL.CLOSE know. but 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE NEG know
+1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know. but 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE NEG know
 (I know that they are well. But I don't know whether they will return.)
 ```
 
@@ -194,7 +194,7 @@ Embedded clauses can serve as the subject of a main clause:
 
 ```
 mena shia to wepu meno shewo nai
-DECL 3SG PST leave DECL.CLOSE true be
+DECL.COMP 3SG PST go DECL.COMP.CLOSE true be
 (That they left is true.)
 ```
 
@@ -212,7 +212,7 @@ Phi can topicalize embedded content:
 
 ```
 mena shia to wepu meno ko. mia shelomui
-DECL 3SG PST leave DECL.CLOSE FOC. 1SG understand
+DECL.COMP 3SG PST go DECL.COMP.CLOSE FOC. 1SG understand
 (As for that they left: I understand.)
 ```
 
@@ -272,7 +272,7 @@ For the ambitious learner, here are grammatically correct but demanding examples
 
 ```
 mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomui
-1SG DECL 2SG INT.COMP 3SG DECL friend FUT return DECL.CLOSE know INT.COMP.CLOSE wonder DECL.CLOSE understand
+1SG DECL.COMP 2SG INT.COMP 3SG DECL.COMP friend FUT return DECL.COMP.CLOSE know INT.COMP.CLOSE wonder DECL.COMP.CLOSE understand
 (I understand that you wonder whether they know that the friend will return.)
 ```
 
@@ -280,7 +280,7 @@ mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomui
 
 ```
 rena mia mena thia mena shia towe nai meno phaelo meno sano miona
-REL 1SG DECL 2SG DECL 3SG well be DECL.CLOSE feel DECL.CLOSE know person
+REL 1SG DECL.COMP 2SG DECL.COMP 3SG well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE know person
 (the person about whom I know that you feel that they are well)
 ```
 
@@ -288,7 +288,7 @@ REL 1SG DECL 2SG DECL 3SG well be DECL.CLOSE feel DECL.CLOSE know person
 
 ```
 shia shola mia mena melu so turema meno nohero sholo haolu
-3SG QUOT 1SG DECL friend FUT return DECL.CLOSE believe QUOT.CLOSE say
+3SG QUOT.COMP 1SG DECL.COMP friend FUT return DECL.COMP.CLOSE believe QUOT.COMP.CLOSE say
 (They said: "I believe that the friend will return.")
 ```
 

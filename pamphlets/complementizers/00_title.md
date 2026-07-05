@@ -1,14 +1,12 @@
-# Complementizers and Embedded Clauses in Phi
-
-## A Comprehensive Guide
+# Complementizers and embedded clauses in Phi
 
 ---
 
-*For learners who want to master how Phi embeds thoughts within thoughts*
+*For learners who want to embed thoughts within thoughts*
 
 ---
 
-This pamphlet provides an in-depth exploration of Phi's complementizer system: the pairs of words that allow speakers to nest statements, questions, and quotations inside larger sentences. If relative clauses let us describe *what* something is by *what it does*, complementizers let us express *what we know*, *what we wonder*, and *what others said*.
+This pamphlet covers Phi's complementizer system: the pairs of words that let speakers nest statements, questions, and quotations inside larger sentences. If relative clauses let us describe *what* something is by *what it does*, complementizers let us express *what we know*, *what we wonder*, and *what others said*.
 
 By the end of this guide, you will understand:
 
@@ -25,15 +23,15 @@ This pamphlet assumes familiarity with Phi's basic word order (SOV), the particl
 
 **Contents:**
 
-1. Understanding Embedded Clauses
-2. The Logic of Openers and Closers
-3. Declarative Embedding: `mena`/`meno`
-4. Interrogative Embedding: `wela`/`welo`
-5. Quotative Embedding: `shola`/`sholo`
-6. Advanced Patterns and Nesting
-7. Common Errors and How to Avoid Them
+1. Understanding embedded clauses
+2. The logic of openers and closers
+3. Declarative embedding: `mena`/`meno`
+4. Interrogative embedding: `wela`/`welo`
+5. Quotative embedding: `shola`/`sholo`
+6. Advanced patterns and nesting
+7. Common errors and how to avoid them
 8. Exercises
-9. Appendix: Quick Reference
+9. Appendix: quick reference
 
 ---
 

@@ -30,4 +30,12 @@ This collection of documents provides the complete technical specification of Ph
 
 6.  **[Numerals](./06-numerals.md)**
     -   Cardinal and Ordinal Numbers
-    -   Advanced Concepts (Frequency, Fractions) 
+    -   Advanced Concepts (Frequency, Fractions)
+
+## Complete inventories
+
+The chapters above explain the systems; these references list every member, and take precedence over the chapters when they disagree (see `/CANON.md` for the authority order):
+
+- **[PARTICLE_REFERENCE.md](./PARTICLE_REFERENCE.md)** — every particle, by slot, with the fixed Slot 1 ordering
+- **[COMPLEMENTIZER_REFERENCE.md](./COMPLEMENTIZER_REFERENCE.md)** — the three opener/closer pairs, the relativizer, and the vocative
+- **[NUMERAL_REFERENCE.md](./NUMERAL_REFERENCE.md)** — the full ternary system with the scale units and classifiers 

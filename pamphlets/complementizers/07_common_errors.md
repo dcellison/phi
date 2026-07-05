@@ -9,13 +9,13 @@ Learners coming from English face predictable challenges with Phi's complementiz
 **Wrong:**
 ```
 *mia mena shia to wepu shelomui
-1SG DECL 3SG PST leave understand
+1SG DECL.COMP 3SG PST go understand
 ```
 
 **Right:**
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -33,13 +33,13 @@ mia mena shia to wepu meno shelomui
 **Wrong:**
 ```
 *mia mena shia to wepu shelomui meno
-1SG DECL 3SG PST leave understand DECL.CLOSE
+1SG DECL.COMP 3SG PST go understand DECL.COMP.CLOSE
 ```
 
 **Right:**
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -81,13 +81,13 @@ REL story create person
 **Wrong:**
 ```
 *mia shelomui mena shia to wepu meno
-1SG understand DECL 3SG PST leave DECL.CLOSE
+1SG understand DECL.COMP 3SG PST go DECL.COMP.CLOSE
 ```
 
 **Right:**
 ```
 mia mena shia to wepu meno shelomui
-1SG DECL 3SG PST leave DECL.CLOSE understand
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -105,14 +105,14 @@ mia mena shia to wepu meno shelomui
 **Wrong (using quotation for content):**
 ```
 *shia shola thia wepu sholo haolu
-3SG QUOT 2SG leave QUOT.CLOSE say
+3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE say
 (They said: "You are leaving.")
 ```
 
 When you meant:
 ```
 shia mena thia wepu meno haolu
-3SG DECL 2SG leave DECL.CLOSE say
+3SG DECL.COMP 2SG go DECL.COMP.CLOSE say
 (They said that you are leaving.)
 ```
 
@@ -130,28 +130,28 @@ shia mena thia wepu meno haolu
 **Wrong (using embedded question for direct question):**
 ```
 *wela thia wepu welo
-INT.COMP 2SG leave INT.COMP.CLOSE
+INT.COMP 2SG go INT.COMP.CLOSE
 (incomplete, no main verb)
 ```
 
 When you meant:
 ```
 wa thia wepu
-Q 2SG leave
+Q 2SG go
 (Are you leaving?)
 ```
 
 **Wrong (using direct question for embedded question):**
 ```
 *mia wa shia wepu phaelo
-1SG Q 3SG leave wonder
+1SG Q 3SG go wonder
 (grammatically confused)
 ```
 
 When you meant:
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
@@ -167,13 +167,13 @@ mia wela shia to wepu welo phaelo
 **Wrong:**
 ```
 *mia wela thia wepu welo ma towe phaelo
-1SG INT.COMP 2SG leave INT.COMP.CLOSE NEG well feel
+1SG INT.COMP 2SG go INT.COMP.CLOSE NEG well feel
 ```
 
 When you meant:
 ```
 lu thia wepu. mia ma towe phaelo
-COND 2SG leave. 1SG NEG well feel
+COND 2SG go. 1SG NEG well feel
 (If you leave, I will not feel well.)
 ```
 
@@ -198,7 +198,7 @@ COND 2SG leave. 1SG NEG well feel
 **Right:**
 ```
 mia mena thia wela shia to wepu welo phaelo meno shelomui
-1SG DECL 2SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder DECL.CLOSE understand
+1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder DECL.COMP.CLOSE understand
 (I understand that you wonder whether they left.)
 ```
 
@@ -214,13 +214,13 @@ mia mena thia wela shia to wepu welo phaelo meno shelomui
 **Wrong:**
 ```
 *mia mena shia towe meno sano
-1SG DECL 3SG well DECL.CLOSE know
+1SG DECL.COMP 3SG well DECL.COMP.CLOSE know
 ```
 
 **Right:**
 ```
 mia mena shia towe nai meno sano
-1SG DECL 3SG well be DECL.CLOSE know
+1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know
 (I know that they are well.)
 ```
 
@@ -237,13 +237,13 @@ mia mena shia towe nai meno sano
 **Wrong:**
 ```
 *mia wela wa shia wepu welo phaelo
-1SG INT.COMP Q 3SG leave INT.COMP.CLOSE wonder
+1SG INT.COMP Q 3SG go INT.COMP.CLOSE wonder
 ```
 
 **Right:**
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 

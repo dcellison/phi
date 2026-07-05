@@ -1,4 +1,4 @@
-# Part 5: Advanced Patterns
+# Part 5: Advanced patterns
 
 This section covers more complex uses of relative clauses, including nesting, interaction with complementizers, and extended discourse.
 
@@ -73,9 +73,9 @@ rena rena rena ... miona ... nophi ... shelu ...
 If you find yourself going three levels deep, restructure. Break it into multiple sentences. Phi's topic-drop makes this easy:
 
 ```
-miona nai. ha miona nophi kealo. mia rena ha miona to kealo nophi lothea.
-person be. this person story create. 1SG REL this person PST create story love.
-(there is a person. this person creates stories. i love the story that this person created.)
+miona ha nai. ha miona nophi kealo. mia rena ha miona to kealo nophi lothea.
+person here be. this person story create. 1SG REL this person PST create story love.
+(a person is here. this person creates stories. i love the story that this person created.)
 ```
 
 ## Relative clauses with complementizers
@@ -86,31 +86,31 @@ Relative clauses can contain embedded statements (`mena`/`meno`), quotations (`s
 
 ```
 rena mena mia so shua meno sano miona ha nai
-REL DECL 1SG FUT arrive DECL.CLOSE know person here be
-(the person who knows that i will arrive is here.)
+REL DECL.COMP 1SG FUT come DECL.COMP.CLOSE know person here be
+(the person who knows that i will come is here.)
 ```
 
 Structure:
 - Relative clause subject gap: "the person who knows [something]"
-- Inside the relative: `mena mia so shua meno` — "that I will arrive"
-- The person knows that I will arrive
+- Inside the relative: `mena mia so shua meno` — "that I will come"
+- The person knows that I will come
 
 Another example:
 
 ```
-mia rena shia mena shea welao nai meno phaelo nophi theo
-1SG REL 3SG DECL peace good be DECL.CLOSE feel story read
-(i read the story that they feel that peace is good.)
+mia rena mena shea welao nai meno haolu nophi theo
+1SG REL DECL.COMP peace good be DECL.COMP.CLOSE speak story read
+(i read the story that says that peace is good.)
 ```
 
-Note: `meno` closes the embedded statement; the main noun `nophi` closes the relative clause.
+The gap is in subject position: the story is what does the saying. `meno` closes the embedded statement; the head noun `nophi` closes the relative clause.
 
 ### Containing `shola`/`sholo`
 
 ```
 rena shola mia so shua sholo to haolu miona mia melu nai
-REL QUOT 1SG FUT arrive QUOT.CLOSE PST speak person 1SG friend be
-(the person who said "i will arrive" is my friend.)
+REL QUOT.COMP 1SG FUT come QUOT.COMP.CLOSE PST speak person 1SG friend be
+(the person who said "i will come" is my friend.)
 ```
 
 The quotation sits inside the relative clause. The quoted words are preserved exactly.
@@ -118,16 +118,16 @@ The quotation sits inside the relative clause. The quoted words are preserved ex
 ### Containing `wela`/`welo`
 
 ```
-rena wela shia so shua welo ma sano miona pheralu nai
-REL INT.COMP 3SG FUT arrive INT.COMP.CLOSE NEG know person think be
-(the person who doesn't know whether they will arrive is thoughtful.)
+rena wela shia so shua welo ma sano miona remo nai
+REL INT.COMP 3SG FUT come INT.COMP.CLOSE NEG know person think be
+(the person who doesn't know whether they will come is thoughtful.)
 ```
 
 The embedded question `wela shia so shua welo` is the object of `sano` inside the relative clause.
 
 ## Interaction with topic-drop
 
-Topic-drop and relative clauses work together powerfully. A noun introduced with a relative clause becomes a topic that subsequent sentences can reference implicitly.
+Topic-drop and relative clauses work together. A noun introduced with a relative clause becomes a topic that subsequent sentences can reference implicitly.
 
 ### Establishing and continuing
 
@@ -158,12 +158,12 @@ mia serao miona to nila. rena nophi kealo miona phue nai.
 1SG old person PST see. REL story create person wise be.
 (i saw an old person. the person who creates stories is wise.)
 
-shia mia nophi to haolu. rena mia to sheluo nophi phelora nai.
-3SG 1SG story PST tell. REL 1SG PST hear story beautiful be.
+shia wei mia nophi to haolu. rena mia to hea nophi phelora nai.
+3SG DAT 1SG story PST speak. REL 1SG PST hear story beautiful be.
 (they told me a story. the story that i heard is beautiful.)
 
-mia wei ha miona so turema.
-1SG to this person FUT return.
+mia kau ha miona so turema.
+1SG ALL this person FUT return.
 (i will return to this person.)
 ```
 
@@ -176,8 +176,8 @@ When quoting or reporting speech that contains relative clauses, the structure e
 ### Direct quotation
 
 ```
-shia shola rena mia to kealo shelu phelora nai sholo haolu
-3SG QUOT REL 1SG PST create book beautiful be QUOT.CLOSE speak
+shia shola rena mia to kealo shelu phelora nai sholo to haolu
+3SG QUOT.COMP REL 1SG PST create book beautiful be QUOT.COMP.CLOSE PST speak
 (they said "the book that i created is beautiful.")
 ```
 
@@ -186,30 +186,32 @@ The relative clause `rena mia to kealo shelu` sits inside the quotation.
 ### Indirect report
 
 ```
-shia mena rena shia to kealo shelu phelora nai meno haolu
-3SG DECL REL 3SG PST create book beautiful be DECL.CLOSE speak
+shia mena rena shia to kealo shelu phelora nai meno to haolu
+3SG DECL.COMP REL 3SG PST create book beautiful be DECL.COMP.CLOSE PST speak
 (they said that the book that they created is beautiful.)
 ```
 
 Note the pronoun shift: inside indirect speech, "I" becomes "they."
 
-## Relativizing on possessed nouns
+## Possessed nouns inside relative clauses
 
-When the head noun is possessed, the possessor appears inside the relative clause:
-
-```
-rena mia po shelu to somela miona ha nai
-REL 1SG POSS book PST lose person here be
-(the person who lost my book is here.)
-```
-
-"My book" is what was lost; "person" is who lost it.
+Possession is bare juxtaposition, the possessor standing directly before the possessed noun. Inside a relative clause, nothing changes:
 
 ```
-mia rena shia po peloru to nila shelira sano
-1SG REL 3SG POSS flower PST see garden know
+rena mia shelu to theo miona ha nai
+REL 1SG book PST read person here be
+(the person who read my book is here.)
+```
+
+"My book" (`mia shelu`) is the clause's object; the head `miona` is the one who read it.
+
+```
+mia rena mia mua shia peloru to nila thepalu sano
+1SG REL 1SG LOC 3SG flower PST see garden know
 (i know the garden where i saw their flower.)
 ```
+
+Here the possessed phrase `shia peloru` ("their flower") is the object, and the stranded `mua` marks the oblique gap that the head `thepalu` fills.
 
 ## Complex real-world example
 

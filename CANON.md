@@ -84,6 +84,10 @@ These were explicitly decided and should not silently fork again:
 - **`lumae` is a noun only** (settled 2026-07): the old ch25 example
   using it as a verb was corrected (`shero shua.`); noun→verb use of
   noun-only words is an error, not a liberty.
+- **Oblique relative gaps** (settled 2026-07): when the relativized
+  element is a preposition's object, the preposition remains and its
+  object is gapped: `rena mia mua ___ to thalo shelira` (the forest
+  that I walked in). The preposition is never dropped and never moves.
 - **The event-noun rule** (settled 2026-07): every verb licenses its
   event/result noun with no change of form — `remo` is to think and a
   thought, `thalo` to walk and a walk, `kati` to cut and a cut. This

@@ -4,9 +4,9 @@
 
 | Type | Opener | Closer | Gloss | Function |
 |------|--------|--------|-------|----------|
-| Declarative | `mena` | `meno` | DECL / DECL.CLOSE | Embeds statements (that...) |
+| Declarative | `mena` | `meno` | DECL.COMP / DECL.COMP.CLOSE | Embeds statements (that...) |
 | Interrogative | `wela` | `welo` | INT.COMP / INT.COMP.CLOSE | Embeds questions (whether...) |
-| Quotative | `shola` | `sholo` | QUOT / QUOT.CLOSE | Preserves exact words ("...") |
+| Quotative | `shola` | `sholo` | QUOT.COMP / QUOT.COMP.CLOSE | Preserves exact words ("...") |
 
 ## The Relativizer
 
@@ -26,7 +26,7 @@
 
 ```
 mia mena shia wepu meno shelomui
-1SG DECL 3SG leave DECL.CLOSE understand
+1SG DECL.COMP 3SG go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
@@ -38,7 +38,7 @@ mia mena shia wepu meno shelomui
 
 ```
 mia wela shia wepu welo phaelo
-1SG INT.COMP 3SG leave INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG go INT.COMP.CLOSE wonder
 (I wonder whether they left.)
 ```
 
@@ -50,7 +50,7 @@ mia wela shia wepu welo phaelo
 
 ```
 shia shola mia wepu sholo haolu
-3SG QUOT 1SG leave QUOT.CLOSE say
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
 (They said: "I am leaving.")
 ```
 

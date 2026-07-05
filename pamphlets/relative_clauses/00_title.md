@@ -1,6 +1,6 @@
-# Relative Clauses in Phi
+# Relative clauses in Phi
 
-## A Deep-Dive Companion to the Manual
+## A deep-dive companion to the manual
 
 ---
 
@@ -10,20 +10,20 @@
 
 ## Contents
 
-1. **Understanding the Concept**
+1. **Understanding the concept**
    - What is a relative clause?
    - How English handles relative clauses
    - How Phi handles relative clauses
    - Why this feels strange to English speakers
    - Cross-linguistic perspective
 
-2. **The Mechanics of `rena`**
+2. **The mechanics of `rena`**
    - The word itself
    - Position and scope
    - No closer needed
    - The gap strategy
 
-3. **Headed Relative Clauses — Examples**
+3. **Headed relative clauses: examples**
    - Subject gap examples
    - Object gap examples
    - Locative and oblique gap examples
@@ -31,24 +31,24 @@
    - Stacking modifiers
    - Extended examples with context
 
-4. **Headless Relative Clauses**
+4. **Headless relative clauses**
    - When to drop the head noun
    - Examples with and without `rena`
    - Philosophical and proverbial uses
    - Headless relatives in questions
 
-5. **Advanced Patterns**
+5. **Advanced patterns**
    - Nested relative clauses
    - Relative clauses with complementizers
    - Interaction with topic-drop
    - Relative clauses in reported speech
 
-6. **Common Errors and How to Avoid Them**
+6. **Common errors and how to avoid them**
    - English interference patterns
    - Processing difficulties
    - Self-correction techniques
 
-7. **Practice Exercises**
+7. **Practice exercises**
    - Translation exercises (both directions)
    - Transformation exercises
    - Gap identification
@@ -56,7 +56,7 @@
    - Free production prompts
    - Answer key
 
-8. **Appendix: Quick Reference**
+8. **Appendix: quick reference**
    - One-page summary
    - Glossary
    - Common vocabulary

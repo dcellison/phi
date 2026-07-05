@@ -70,7 +70,7 @@ Following the modifier-first principle, these particles announce temporal, aspec
 - `se` (PASS): `nophi se kealo` (The story is created.)
 
 ### 2.2.4. Modality
-- `po` (POSS): `shia po haolu` (The other can speak)
+- `po` (POT): `shia po haolu` (The other can speak)
 - `na` (NEC): `mia na nai` (I must exist)
 - `ka` (CAUS): `mia lopia ka nulae` (I make the child sleep)
 
@@ -92,7 +92,7 @@ Note: The reportative `ti` marks knowledge source ("someone told me"), while the
 When multiple Slot 1 particles combine, they follow a specific order: `Tense` > `Aspect` > `Voice` > `Evidentiality` > `Modality` > `Negation`. This creates layers of announcement, each adding context before the verb is revealed.
 ```
 pi thia so pa po shelomui
-POL 2SG FUT INCH POSS understand
+POL 2SG FUT INCH POT understand
 (Politely, you will be able to begin to understand.)
 ```
 
