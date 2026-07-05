@@ -48,6 +48,15 @@ These were explicitly decided and should not silently fork again:
   (good), `towe` (well), `phelora` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
 - **Punctuation**: periods only in Phi text; no commas.
+- **Covered by design — do not coin** (settled 2026-07): anger is
+  `korua thero` and contempt `thiku nila` (compound registry);
+  east/west are `sorae thorui`/`sorae lumae`; dream is `whemura`;
+  stop/cease is the particle `te`; wife/husband is `telu`; thought
+  is `remo` and every other event noun comes by the event-noun
+  rule; statement is `phelui`/`haolu` with the complementizers;
+  timbre is `haoni welisha`; loneliness composes as `sonu` + `nuhe`;
+  greeting is `kia`/`whelani`. The full gap-campaign record, with
+  all fourteen rulings, is preserved in `archive/GAP_INVENTORY.md`.
 - **Refused by design** (settled 2026-07): gendered person-words
   (woman/man) do not exist and will not — distinguishing genders
   anywhere in the language would exclude people outside the binary;
@@ -94,8 +103,8 @@ These were explicitly decided and should not silently fork again:
   "noun" in `pos` for this sense. A listed noun+verb `pos` therefore
   always signals an idiosyncratic pairing that must be learned
   (instrument `kiru`, role `phao`, phenomenon `pheralu`, substance
-  `keluo`, entity `haoni`) — see
-  `documents/EVENT_NOUN_ADJUDICATION.md` for the full audit. When a
+  `keluo`, entity `haoni`) — the
+  word-by-word audit is preserved in `archive/EVENT_NOUN_ADJUDICATION.md`. When a
   counted event noun carries a classifier (always optional), it is
   `nophe` (`ta nophe thalo`, one walk). `whunema` (breathe) is retired: `whunei` is the verb
   breathe, and "a breath" is its rule-derived noun. The rule is
