@@ -18,6 +18,13 @@ For the authority order of current documentation, see `/CANON.md`.
 | `tutorial/`, `guides/` | Pre-2026 lessons using retired vocabulary |
 | `TERNARY_NUMBER_SYSTEM.md` | The original ternary proposal, superseded by `documents/grammar/NUMERAL_REFERENCE.md` |
 | `conceptual-roots.md`, `sound-meaning.md`, `ROOT_PHILOSOPHY.md` | The abandoned syllable-as-root system (see `recap.md` for why) |
+| `LANGUAGE_ARCHAEOLOGY_REPORT.md` | The July 2026 full-repo analysis that launched the canon repair and quality campaigns |
+| `AUDIT_LOG.md`, `COLLISION_AUDIT.md` | Working audit records from before the validator enforced their checks automatically |
+| `NOUN_VERB_STUDY.md` | The study behind the event-noun rule; the rule itself lives in `/CANON.md`, the word-by-word audit in `documents/EVENT_NOUN_ADJUDICATION.md` |
+| `scripts/` | Retired one-off scripts (formatters, early duplicate checkers) whose jobs now live inside `scripts/validate_examples.py` |
+| `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
+| `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/NUMERAL_REFERENCE.md` |
+| `PHI_CORE_VOCABULARY.md` | A flat vocabulary list from before the JSON lexicon became the single source of truth |
 | `CLAUDE.md`, `GEMINI.md` | Old project instructions predating modifier-first and ternary numerals |
 | `word-list-750.md`, `core-primes.md`, `essential-roots*.md` | Early lexicon plans, largely unrealized |
 | `vocabulary_comparison*` | One-time migration analyses |
