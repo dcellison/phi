@@ -172,6 +172,14 @@ for i, f in enumerate(chapters):
 
 # contents page: the primer README plus a generated reading list
 readme_body = md_to_html((PRIMER_SRC / "README.md").read_text())
+# link the ladder tables' chapter numbers to their pages
+for f in chapters:
+    mm = re.match(r"(\d+)_", f.stem)
+    if mm:
+        n = int(mm.group(1))
+        readme_body = readme_body.replace(
+            f"<tr><td>{n}</td>",
+            f'<tr><td><a href="{f.stem}.html">{n}</a></td>')
 toc = ["<h2>Read</h2><ol class=\"toc\">"]
 for f in chapters:
     toc.append(f'<li><a href="{f.stem}.html">{titles[f.name]}</a></li>')
