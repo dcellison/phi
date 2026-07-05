@@ -274,7 +274,7 @@
 | `weno` | when | When |
 | `wia` | which | How Many |
 
-## noun (384)
+## noun (383)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -331,7 +331,6 @@
 | `kosha` | field | Field |
 | `kowela` | council | Council |
 | `kulai` | tooth | Tooth |
-| `kulo` | guide | Guide |
 | `kuma` | drum | Drum |
 | `kumoe` | stomach | Stomach |
 | `kunoa` | knee | Knee |
@@ -767,13 +766,12 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (292)
+## verb (248)
 
 | Word | Gloss | Concept |
 |---|---|---|
 | `halemu` | remember | Remember |
 | `haolu` | speak | Speak |
-| `haoni` | voice | Voice |
 | `hasi` | wait | Wait |
 | `hea` | hear | Hear |
 | `hekawi` | find | Find |
@@ -790,23 +788,16 @@
 | `kalei` | climb | Climb |
 | `kamo` | arrive | Arrive |
 | `kanu` | choose | Choose |
-| `kathu` | seal | Seal |
 | `kati` | cut | Cut |
 | `kawepa` | catch | Catch |
 | `kealo` | create | Create |
 | `kehota` | cough | Cough |
 | `kela` | rejoice | Rejoice |
 | `kelai` | equals | Become (Result) |
-| `kelo` | frame | Frame |
 | `kelomi` | accept | Accept |
 | `kelu` | become | Become |
-| `keluo` | metal | Metal |
 | `keluro` | honor | Honor |
-| `kima` | scribe | Scribe |
-| `kira` | key | Key |
 | `kire` | shape | Shape |
-| `kiroa` | sign | Sign |
-| `kiru` | chisel | Chisel |
 | `kiwate` | bite | Bite |
 | `koema` | enter | Enter |
 | `kolo` | equal | Equal |
@@ -815,10 +806,8 @@
 | `koluma` | unite | Unite |
 | `korei` | fulfill | Fulfill |
 | `kulo` | guide | Guide |
-| `kuma` | drum | Drum |
 | `kupe` | hide | Hide |
 | `kuremi` | grind | Grind |
-| `kurisha` | storm | Storm |
 | `laniru` | journey | Journey |
 | `lei` | harmony | Harmony |
 | `leiro` | release | Release |
@@ -826,7 +815,6 @@
 | `lilea` | clarify | Clarify |
 | `liona` | live | Live |
 | `loa` | give | Give |
-| `loesi` | oil | Oil |
 | `lomare` | embrace | Embrace |
 | `lonae` | respond | Respond |
 | `lorea` | connect | Connect |
@@ -834,8 +822,6 @@
 | `lothea` | love | Love |
 | `lumeo` | die | Die |
 | `lumera` | nourish | Nourish |
-| `lumishe` | mentor | Mentor |
-| `lunai` | vision | Vision |
 | `lupho` | float | Float |
 | `malomi` | balance | Balance |
 | `masue` | measure | Measure |
@@ -844,7 +830,6 @@
 | `meloa` | persevere | Persevere |
 | `menai` | dedicate | Dedicate |
 | `menui` | dwell | Dwell |
-| `mera` | net | Net |
 | `meropi` | cherish | Cherish |
 | `milau` | drink | Drink |
 | `miratu` | recognize | Recognize |
@@ -865,15 +850,11 @@
 | `nawo` | agree | Agree |
 | `nelore` | preserve | Preserve |
 | `nelu` | revere | Revere |
-| `neparu` | cloud | Cloud |
 | `nila` | see | See |
-| `niro` | web | Web |
 | `nohero` | believe | Believe |
 | `nolami` | bond | Bond |
 | `noluha` | swallow | Swallow |
-| `nomei` | name | Name |
 | `nomela` | encourage | Encourage |
-| `nomi` | present | Present |
 | `nomira` | collect | Collect |
 | `norelu` | form | Form |
 | `nowae` | awaken | Awaken |
@@ -893,10 +874,8 @@
 | `peshu` | lie | Lie |
 | `phae` | open | Open |
 | `phaelo` | feel | Feel |
-| `phaliso` | network | Network |
 | `phamo` | console | Console |
 | `phanoi` | portion | Portion |
-| `phao` | parent | Parent |
 | `pharelo` | cook | Cook |
 | `pharuki` | celebrate | Celebrate |
 | `pharune` | include | Include |
@@ -904,32 +883,23 @@
 | `phelona` | require | Require |
 | `phelora` | beautiful | Beautiful |
 | `phelu` | hold | Hold |
-| `phemila` | host | Host |
-| `pheralu` | rain | Rain |
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
-| `phiralea` | blossom | Blossom |
 | `phiremo` | relate | Relate |
 | `phirena` | meditate | Meditate |
-| `phirenu` | snow | Snow |
 | `phoa` | do | Do |
 | `pholeni` | depart | Depart |
-| `phora` | sail | Sail |
 | `phowe` | share | Sharing |
-| `phuri` | brush | Brush |
 | `phuro` | renew | Renew |
 | `pilu` | take | Take |
 | `pina` | sew | Sew |
 | `pisha` | split | Split |
-| `porua` | purpose | Purpose |
 | `pula` | wish | Wish |
 | `puse` | spit | Spit |
 | `rato` | turn | Turn |
-| `relua` | mirror | Mirror |
 | `remo` | think | Think |
 | `renoa` | liberate | Liberate |
 | `reo` | meaning | Meaning |
-| `repha` | bridge | Bridge |
 | `rihe` | rise | Rise |
 | `riola` | labor | Labor |
 | `rohi` | rub | Rub |
@@ -968,24 +938,18 @@
 | `shorema` | contribute | Contribute |
 | `shorupo` | protect | Protect |
 | `shua` | come | Come |
-| `shuroa` | shelter | Shelter |
-| `silero` | star | Star |
 | `siora` | joy | Joy |
-| `siwe` | sweat | Sweat |
 | `soki` | settle | Settle |
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
 | `somela` | observe | Observe |
 | `sone` | value | Value |
 | `sorila` | cultivate | Cultivate |
-| `sorui` | circle | Circle |
 | `sunoe` | regenerate | Regenerate |
 | `talome` | restore | Restore |
 | `tapu` | close | Close |
 | `tawi` | count | Count |
-| `telu` | partner | Partner |
 | `temoe` | tend | Tend |
-| `tenoa` | tool | Tool |
 | `teru` | process | Process |
 | `thalo` | walk | Walk |
 | `thalu` | stay | Stay |
@@ -996,12 +960,8 @@
 | `thekiro` | write | Write |
 | `theko` | craft | Craft |
 | `thelima` | describe | Describe |
-| `theloma` | justice | Justice |
 | `thelu` | dialogue | Dialogue |
-| `theluo` | steward | Steward |
-| `thema` | guardian | Guardian |
 | `themio` | reflect | Reflect |
-| `themoka` | treasure | Treasure |
 | `themui` | faith | Faith |
 | `thenoi` | falls-short | Falls Short |
 | `thenoki` | sustain | Sustain |
@@ -1029,11 +989,7 @@
 | `thumela` | teach | Teach |
 | `thuo` | prosper | Prosper |
 | `thuroa` | grow | Grow |
-| `tinoa` | dye | Dye |
 | `tiwa` | tie | Tie |
-| `toka` | hammer | Hammer |
-| `tolu` | staff | Staff |
-| `tumeki` | root | Root |
 | `tupi` | jump | Jump |
 | `turema` | return | Return |
 | `wapho` | throw | Throw |
@@ -1042,7 +998,6 @@
 | `welira` | thrive | Thrive |
 | `welura` | spread | Spread |
 | `wema` | belong | Belong |
-| `wemi` | ally | Ally |
 | `weni` | imagine | Imagine |
 | `wenola` | collaborate | Collaborate |
 | `wepu` | go | Go |

@@ -18,7 +18,7 @@ The same word, *thalo*, is a verb in the first sentence because it ends the clau
 
 ## What the rule does not cover
 
-Some words pair a verb with a noun that is *not* the event. *kiru* as a noun is the chisel, not the act of chiseling. *phao* is a parent, not parenting. *pheralu* is the rain that falls, *keluo* the metal you work, *haoni* the voice you speak with. These pairings are real but unpredictable, so the lexicon lists them: when an entry shows both noun and verb in its parts of speech, that is the signal that the noun sense must be learned. When an entry shows only verb, the event noun is still yours by rule.
+The rule runs one way. A deed names its event — but a thing does not name its deed. *kiru* is the chisel, and cutting with it is said with a verb: *mia roe kiru wolea kati.* *pheralu* is the rain, and rain falls: *pheralu lepa.* *phao* is a parent, and the parenting is deeds — *numelo* (nurture), *thumela* (teach), *theama* (care). No word in Phi lists both noun and verb: when you meet a thing, its actions are verbs of their own, said aloud. This is announce-then-deliver applied to the dictionary — the deed is never hidden inside the name of the doer.
 
 ## Why a rule instead of more words
 

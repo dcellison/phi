@@ -157,15 +157,27 @@ These were explicitly decided and should not silently fork again:
   event/result noun with no change of form — `remo` is to think and a
   thought, `thalo` to walk and a walk, `kati` to cut and a cut. This
   is a grammar-level rule, not a per-word fact; entries do NOT list
-  "noun" in `pos` for this sense. A listed noun+verb `pos` therefore
-  always signals an idiosyncratic pairing that must be learned
-  (instrument `kiru`, role `phao`, phenomenon `pheralu`, substance
-  `keluo`, entity `haoni`) — the
+  "noun" in `pos` for this sense — and since the things-do-not-verb
+  ruling (below), no entry lists noun and verb together at all. The
   word-by-word audit is preserved in `archive/EVENT_NOUN_ADJUDICATION.md`. When a
   counted event noun carries a classifier (always optional), it is
   `nophe` (`ta nophe thalo`, one walk). `whunema` (breathe) is retired: `whunei` is the verb
   breathe, and "a breath" is its rule-derived noun. The rule is
   taught in manual ch15.
+- **Things do not name their deeds** (settled 2026-07-05): the
+  noun→verb direction is refused. The 45 idiosyncratic dual listings
+  (instruments, roles, phenomena, substances, artifacts, entities)
+  were pruned to a single part of speech; no entry lists both noun
+  and verb, and the validator enforces it. What a thing does is said
+  with a verb: `pheralu lepa` (rain falls), `mia roe kiru wolea
+  kati` (I cut the wood with the chisel), `thema nai` (is a
+  guardian), `phao lopia numelo` (the parent nurtures the child).
+  The event-noun rule is the only bridge between the classes and it
+  runs one way: a deed names its event; a thing does not name its
+  deed. One word changed direction rather than losing one: `kulo`
+  (guide) was verb-primary all along — the Ring Verse refusal's own
+  poem uses it (`ta sorui theula miona kulo`) — so it keeps the verb
+  and sheds the role-noun (`rena kulo miona`, the one who guides).
 
 ## Validation
 
