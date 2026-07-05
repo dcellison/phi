@@ -24,7 +24,7 @@
 
 ## III
 
-> wheo: **ne thinoe shola no thinoe wei muila loa. no phialu wei muila loa. muila theula howela sholo to haolu.**
+> wheo: **ne thinoe shola no wei muila thinoe loa. no wei muila phialu loa. muila theula howela sholo to haolu.**
 > **lopia sheluo. siora sheluo. theula miona sheluo.**
 
 | new word | say it | it means |

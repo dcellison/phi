@@ -24,7 +24,7 @@ NAME HON.ROLE siora FUT come.
 
 ## Placement
 
-Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. `ne` is required for a bare name (`ne keruko`) but becomes optional when an honorific already signals that a name follows — `kona ni moli` and `kona ne ni moli` are both correct, the first slightly warmer for being briefer.
+Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. In formal and neutral speech a bare name keeps `ne` (`ne keruko`); an honorific makes it optional, since the honorific already signals that a name follows — `kona ni moli` and `kona ne ni moli` are both correct, the first slightly warmer for being briefer. The family register goes one step further: an established name may rest entirely bare — the primer's household says `sulae shua.` of the friend already at its table — a license canon grants (*Names are made of Phi*) and the primer teaches by doing. Formal speech keeps `ne` at every mention.
 
 ## Relationship, not rank
 

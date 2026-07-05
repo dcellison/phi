@@ -97,7 +97,7 @@ The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "rea
 
 ## Proper names
 
-The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. This is required when no honorific is present:
+The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. Formal and neutral speech keep it at every mention when no honorific is present; the family register may let an established name rest bare (see ch23 §3 and the canon ruling *Names are made of Phi*):
 
 **ne keruko** — keruko (a person's name)
 **mia ne sulae nila.** — I see sulae.
@@ -113,21 +113,21 @@ Honorific particles appear before names and mark the speaker's relationship to t
 The respect honorific *sa* marks esteem for a mentor, elder, or person of wisdom.
 
 **ne sa sulae** — honored sulae
-**mia ne sa lumira whaline.** — i thank honored Lumira.
+**mia ne sa thinoe whaline.** — I thank honored thinoe.
 
 ### ni: Intimacy
 
 The intimacy honorific *ni* marks closeness with a dear friend or family member.
 
 **ne ni moli** — dear moli
-**kona ne ni melu. kia.** — dear melu, hello!
+**kona ne ni moli. kia.** — Dear moli — hello.
 
 ### le: Role
 
 The role honorific *le* marks respect for someone's community function or position.
 
 **ne le siora** — respected siora (in their role)
-**mia ne le theala naphe wilao.** — i wish to help respected Theala (the healer).
+**mia ne le siora naphe wilao.** — I wish to help siora, in their role.
 
 ## Combining Slot 2 particles
 
