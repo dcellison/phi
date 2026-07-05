@@ -128,6 +128,8 @@ def link_text_citations(html):
     for stem in ("metta_sutta", "north_wind_and_sun"):
         html = html.replace(f"<code>pamphlets/{stem}.md</code>",
                             f'<a href="../texts/{stem}.html"><code>pamphlets/{stem}.md</code></a>')
+        html = html.replace(f'href="../pamphlets/{stem}.md"',
+                            f'href="../texts/{stem}.html"')
     return html
 
 PRIMER_SRC = ROOT / "primer"
