@@ -9,7 +9,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  actions: write
 
 concurrency:
   group: pages
@@ -34,13 +33,3 @@ jobs:
           path: web
       - id: deployment
         uses: actions/deploy-pages@v4
-
-  retry-on-flake:
-    needs: deploy
-    if: failure() && github.run_attempt < 3
-    runs-on: ubuntu-latest
-    steps:
-      - name: Re-run the failed deploy (Pages backend flakes)
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh run rerun ${{ github.run_id }} --repo ${{ github.repository }} --failed
