@@ -191,11 +191,9 @@ for f in chapters:
         readme_body = readme_body.replace(
             f"<tr><td>{n}</td>",
             f'<tr><td><a href="{f.stem}.html">{n}</a></td>')
-toc = ["<h2>Read</h2><ol class=\"toc\">"]
-for f in chapters:
-    toc.append(f'<li><a href="{f.stem}.html">{titles[f.name]}</a></li>')
-toc.append("</ol>")
-(PRIMER_OUT / "index.html").write_text(primer_page(link_text_citations(readme_body) + "\n" + "".join(toc), "contents"))
+start_end = (f'<p>Start with <a href="{chapters[0].stem}.html">{titles[chapters[0].name]}</a>; '
+             f'the ladder above links every chapter; end with <a href="{chapters[-1].stem}.html">the capstone</a>.</p>')
+(PRIMER_OUT / "index.html").write_text(primer_page(link_text_citations(readme_body) + "\n" + start_end, "contents"))
 print(f"wrote web/primer/: {len(chapters)} chapters + contents")
 
 # ---- manual reader: manual/**.md rendered to web/manual/ ----
