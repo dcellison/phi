@@ -129,9 +129,9 @@ lopia thero mokela to howela.
 child fire sick PST receive.
 (The child caught the fever.)
 
-tupiwa nua shia mua nuwera to thalu. tupiwa shia to thema.
-rabbit COM 3SG LOC bed PST stay. rabbit 3SG PST guardian.
-(The rabbit stayed with him in the bed. The rabbit guarded him.)
+tupiwa nua shia mua nuwera to thalu. tupiwa wei shia thema to nai.
+rabbit COM 3SG LOC bed PST stay. rabbit DAT 3SG guardian PST be.
+(The rabbit stayed with him in the bed. The rabbit was his guardian.)
 
 lopia towe to kelu.
 child well PST become.

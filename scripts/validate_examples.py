@@ -236,6 +236,9 @@ def load_lexicon():
         except json.JSONDecodeError as e:
             errors.append(f"{rel}: JSON parse error: {e}")
             continue
+        pos = data.get("pos", [])
+        if "noun" in pos and "verb" in pos:
+            errors.append(f"{rel}: pos lists both noun and verb - refused by ruling: a deed names its event; a thing does not name its deed")
         entries.append((rel, data))
     return entries, errors
 
