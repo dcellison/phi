@@ -51,7 +51,6 @@
 | `howai` | evening | /ho̞.ˈwä.i/ | noun |
 | `howela` | receive | /ho̞.ˈwe̞.lä/ | verb |
 | `howeli` | wind | /ho̞.ˈwe̞.li/ | noun |
-| `hupo` | dog | /ˈhu.po̞/ | noun |
 | `hurao` | patient | /hu.ˈrä.o̞/ | adjective |
 | `ka` | CAUS | /ˈkä/ | particle |
 | `kaeli` | like | /kä.ˈe̞.li/ | verb |
@@ -183,6 +182,7 @@
 | `loamira` | gift | /lo̞.ä.ˈmi.rä/ | noun |
 | `loesi` | oil | /lo̞.ˈe̞.si/ | noun, verb |
 | `loetha` | open (receptive) | /lo̞.ˈe̞.θä/ | adjective |
+| `lohau` | dog | /lo̞.ˈhä.u/ | noun |
 | `lokue` | place | /lo̞.ˈku.e̞/ | noun |
 | `lomare` | embrace | /lo̞.ˈmä.re̞/ | verb |
 | `lomea` | sibling | /lo̞.ˈme̞.ä/ | noun |

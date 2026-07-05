@@ -5,7 +5,7 @@
 ## I
 
 > **lopia lue womu wepu.**
-> **hupo wepu.**
+> **lohau wepu.**
 > **misheko mua womu nai.**
 > **misheko nulae.**
 
@@ -20,7 +20,7 @@
 
 > **melu mua phitura nai.**
 > **melu shua.**
-> melu: **kia lopia. kia hupo.**
+> melu: **kia lopia. kia lohau.**
 > lopia: **kia melu.**
 > **lopia lue phitura phialu kolua.**
 
@@ -62,7 +62,7 @@
 
 *Home again, and the flower is given onward — received at the well, delivered to the parent, worth more at each handing. And the last line is the language showing you its heart: Phi does not say the sun shines. It says* sorae phelo loa *— the sun gives light. The day's last giver is the biggest one.*
 
-> **lopia nulae. hupo nulae. phao nulae. wheo nulae.**
+> **lopia nulae. lohau nulae. phao nulae. wheo nulae.**
 > **misheko rihe.**
 
 *Everyone sleeps. And the cat — the cat's day is just beginning.*
