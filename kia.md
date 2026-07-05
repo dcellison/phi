@@ -2,7 +2,7 @@
 
 That word is *hello*. Say it aloud, unhurried: **ki · a**, two syllables, the second one open like a door.
 
-Phi is a constructed language with a single design goal: it slows you down. Every sound, every rule, every word in it was chosen so that speaking it is calmer than speaking almost anything else. What follows is not an argument for it. It is a few minutes of contact with it. Decide for yourself.
+Phi is a constructed language with a single design goal: it slows you down. The slowing is not a side effect and not a price — it is the point. Phi is built for mindful communication, and it makes the mindfulness physical: every sound, every rule, every word was chosen so that speaking with care is not something you attempt in the language but something the language does to you. What follows is not an argument for it. It is a few minutes of contact with it. Decide for yourself.
 
 ## The whole grammar is one rule
 
@@ -23,6 +23,10 @@ Phi has no conjugations, no declensions, no plural endings, no irregular anythin
 ## You cannot say it fast
 
 Every syllable is open — a consonant, then a vowel, nothing after. Every vowel is pure and full. Try the word for dog: **lo · ha · u**. The first syllable begins *lothea*, the word for love. The last two vowels, said separately as Phi requires, are a howl — the wolf still audible at the end of the word. The language is full of small designs like this, and none of them can be rushed, because the sound system has no way to rush.
+
+## The slowing is the practice
+
+Why build a language you cannot rush? Because every Phi sentence rehearses the same small discipline: announce your intent, then act. Say what relates before what is related, how you know before it matters, the condition before the consequence. A speaker practices this hundreds of times a day without trying to, which is what makes it a practice and not a lecture. The people who built Phi wove five traditions into it — solarpunk's livable futures, secular Buddhist attention, Art Nouveau's organic line, peace linguistics, and pre-industrial rhythm — and wove them in at the level of sound. You can hear it: the four breath-consonants, the softest sounds the language has, are reserved for the words of the inner life. **shea**, peace. **thole**, practice. **whunei**, breathe. **phaelo**, feel. The philosophy is not printed on the language. It is pronounced.
 
 ## Some words are missing on purpose
 
