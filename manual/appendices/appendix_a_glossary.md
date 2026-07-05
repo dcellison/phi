@@ -61,13 +61,14 @@ Grammatical category labels follow the Leipzig Glossing Rules and the standard e
 | 1SG/2SG/3SG | I / you / they-one | mia, thia, shia | INTS | intensifier | ru |
 | 1PL | we | lo mia | IPFV | imperfective | si |
 | ABL | from | lue | IRR | irrealis | he |
+| ALL | to (allative) | kau | | | |
 | ASSUM | assumed | ho | LOC | in/at | mua |
 | CAUS | causative | ka | NEC | necessity | na |
 | CESS | cessative | te | NEG | negation | ma |
 | CMPR | comparative | mo | OPT | optative | su |
 | COND | conditional | lu | ORD | ordinal | nu |
 | COORD | and | nela | PASS | passive | se |
-| DAT | to | wei | PFV | perfective | ki |
+| DAT | to, for (recipient) | wei | PFV | perfective | ki |
 | DECL.COMP | that-clause | mena/meno | PL | plural | lo |
 | DIR | witnessed | hi | POL | politeness | pi |
 | DISJ | or | sola | POT | possibility (can/may) | po |

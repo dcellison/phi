@@ -705,10 +705,11 @@
 | `wa` | Q | Question |
 | `we` | ALSO | Also |
 
-## preposition (26)
+## preposition (27)
 
 | Word | Gloss | Concept |
 |---|---|---|
+| `kau` | ALL | To |
 | `leo` | ABOVE | Above |
 | `lue` | ABL | From |
 | `mua` | LOC | In |

@@ -7,9 +7,9 @@ A journal is the natural home of a written language, and Phi was made for exactl
 A Phi journal entry is not an essay. Three sentences is a complete practice:
 
 ```
-philo lumae.
-day end.
-(The day ends.)
+shero shua.
+night come.
+(Night comes.)
 
 mia lo melu hi nila. mia siora phaelo.
 1SG PL friend DIR see. 1SG joy feel.

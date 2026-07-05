@@ -64,6 +64,26 @@ These were explicitly decided and should not silently fork again:
   is retired. Subordinating conjunctions: pheo, phoe, lao, shai, lila.
 - **Embedded clauses** carry their own tense marking; closers
   (`meno`, `welo`, `sholo`) are required.
+- **Motion and place** (settled 2026-07): the allative is `kau` (to,
+  the goal of motion), completing the pair with `lue` (from). `wea`
+  is toward without promised arrival; `mua` is the place where an
+  action happens, never a motion endpoint; `kamo` (arrive) takes
+  `mua`, because arrival is an event at a place.
+- **Adjunct order** (settled 2026-07): prepositional phrases stand
+  before the direct object — S PP O V (`mia roe kiru wolea kati`,
+  `lopia lue phitura phialu kolua`). The circumstances are announced
+  before the thing acted on.
+- **Clause-initial pronouns** (settled 2026-07): in a predicate
+  clause, a bare clause-initial pronoun is the subject — `mia lohau
+  nai` can only mean "I am a dog." Predicative possession is not
+  expressed by fronting a possessor; use `phelu` (`mia lohau phelu`,
+  I have a dog / this dog is mine). Possessive readings of an
+  initial pronoun require structure that forces them (`mia lohau
+  welao nai`, my dog is good — unambiguous, since "I am a good dog"
+  would be `mia welao lohau nai`).
+- **`lumae` is a noun only** (settled 2026-07): the old ch25 example
+  using it as a verb was corrected (`shero shua.`); noun→verb use of
+  noun-only words is an error, not a liberty.
 - **The event-noun rule** (settled 2026-07): every verb licenses its
   event/result noun with no change of form — `remo` is to think and a
   thought, `thalo` to walk and a walk, `kati` to cut and a cut. This
