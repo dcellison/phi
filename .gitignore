@@ -9,3 +9,4 @@ __pycache__/
 .idx/
 web/lexicon.json
 lexicon.db
+web/index.html

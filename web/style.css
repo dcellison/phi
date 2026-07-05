@@ -209,3 +209,33 @@ footer a { color: var(--sage); }
   .entry-head { grid-template-columns: 1fr auto; }
   .entry-head .g { grid-column: 1 / -1; }
 }
+
+/* --- the landing page (kia.md, rendered) --- */
+.landing main { max-width: 40rem; padding-top: 3.5rem; }
+.landing h1 {
+  font-family: var(--serif);
+  font-weight: 350;
+  font-size: 3rem;
+  letter-spacing: .35em;
+  text-align: center;
+  margin: 0 0 2rem .35em;
+}
+.landing h2 {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 1.35rem;
+  margin: 2.2rem 0 .6rem;
+}
+.landing p { margin: .8rem 0; }
+.landing strong { font-family: var(--serif); color: var(--sage); font-weight: 600; }
+.landing em { font-style: italic; }
+.landing blockquote {
+  margin: 1.2rem 0 1.2rem 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--gold);
+  font-family: var(--serif);
+  line-height: 1.9;
+}
+.landing hr { border: none; border-top: 1px solid var(--hairline); margin: 2rem auto; max-width: 26rem; }
+.landing a { color: var(--sage); }
+.landing .doorlink { text-align: center; margin-top: 2.5rem; font-size: 1.1rem; }
