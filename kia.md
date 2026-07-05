@@ -30,7 +30,7 @@ Why build a language you cannot rush? Because every Phi sentence rehearses the s
 
 ## Some words are missing on purpose
 
-Phi has no word for any weapon. It has no word for *bad* — things are harmful, or broken, or unwell, and the speaker must say which. It has no gendered person-words at all: *miona* is a person, *telu* a partner, *phao* a parent, and everyone is equally all of them. A language cannot stop anyone from doing harm. But what it refuses to make easy shapes what its speakers reach for first.
+Phi has no word for any weapon. It has no word for *bad* — things are harmful, or broken, or unwell, and the speaker must say which. It has no gendered person-words at all: *miona* is a person, *telu* a partner, *phao* a parent, and everyone is equally all of them. And it has no vocabulary of domination — no *lord*, no *throne*, no *to rule*, no binding of anyone to anything. When the Ring Verse was brought to it, the language could not comply; what came out instead was a small poem about a hearth, and the shelf keeps the whole story. A language cannot stop anyone from doing harm. But what it refuses to make easy shapes what its speakers reach for first.
 
 ## Honesty is grammatical
 
@@ -47,9 +47,9 @@ There is no "you need not go." Phi states the absence of obligation as the prese
 
 ## It is not a sketch
 
-The lexicon holds about nine hundred words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts: the loving-kindness meditation, transmuted rather than translated, and the old fable of the wind and the sun. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
+The lexicon holds about nine hundred words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts — eight so far, transmuted rather than translated: the loving-kindness meditation, the old fable of the wind and the sun, the first article of the Universal Declaration of Human Rights (which needed no new words at all), the Babel story, Schleicher's sheep and horses, the fox's secret from *The Little Prince*, the whole of *The Velveteen Rabbit* — where *Real* turned out to be a piece of grammar the language already had — and the Ring Verse, refused. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
 
-## Four doors
+## Five doors
 
 **Wander** — the lexicon explorer, where every word carries its sounds, its meaning, and the reasoning behind it.
 
@@ -57,7 +57,9 @@ The lexicon holds about nine hundred words, every one validated by machine again
 
 **Verify** — the manual, for the reader who wants the machinery: the phonology, the particle system, the ternary numbers, all of it.
 
-**Read** — the texts. Phi has literature already: the loving-kindness meditation and an old fable, each rebuilt in the language rather than translated into it.
+**Read** — the texts. Phi has a shelf of literature already: eight works rebuilt in the language rather than translated into it, from a loving-kindness meditation to a velveteen rabbit — and one famous verse it would not say.
+
+**Practice** — the pamphlets. Two so far, on the structures learners find hardest: each explained slowly, drilled with exercises, answers included.
 
 ---
 
