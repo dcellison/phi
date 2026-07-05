@@ -26,7 +26,7 @@ The original `/book/` manuscript this manual replaced is preserved at
 
 ## Canonical Sources
 
-All vocabulary and grammar must match (see `/CANON.md`):
+All vocabulary and grammar must match (see `/canon.md`):
 - `/vocabulary/`: the authoritative lexicon
 - `/documents/grammar/`: the authoritative grammar rules
 

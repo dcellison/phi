@@ -13,7 +13,7 @@ This step is where mindfulness earns its place in the method. A sentence read ha
 Now open the lexicon — but search by *meaning*, not by dictionary headword. Three places to look, in order:
 
 1. **A single word.** Phi's holistic vocabulary often covers with one word what English needs a phrase for: `womu` (house+belonging), `henoi` (enough, as a knowable thing), `thowia` (born — one becomes two).
-2. **The compound registry** (`documents/COMPOUNDS.md`). Canonized idioms like `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of the language. Use them before inventing.
+2. **The compound registry** (`documents/compounds.md`). Canonized idioms like `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of the language. Use them before inventing.
 3. **A new composition.** If neither exists, compose transparently from existing words — the way `nulae nophi` (sleep-story) makes "dream." If your composition is good, it may deserve a place in the registry.
 
 Only when all three fail is a genuinely new word indicated — and that is a separate, deliberate act (see the Word Creation Protocol), never something done casually in the middle of a text.

@@ -43,6 +43,6 @@ Notice the last sentence drops `ti`. The first three are received knowledge; the
 
 ## What happened to the $2.3 million?
 
-It vanished, and the case study's most important question is whether anything true vanished with it. Consider what that figure was *for*: it converts homes, labor, and misfortune into a single comparable magnitude — comparable to other storms, other budgets, other years. Phi declines the conversion (see `documents/PSYCHOLOGICAL_VIOLENCE_OF_MEASUREMENT.md`). What the community needs — the homes are not whole; we are repairing them — survived entirely. What vanished was the scoreboard.
+It vanished, and the case study's most important question is whether anything true vanished with it. Consider what that figure was *for*: it converts homes, labor, and misfortune into a single comparable magnitude — comparable to other storms, other budgets, other years. Phi declines the conversion (see `documents/psychological_violence_of_measurement.md`). What the community needs — the homes are not whole; we are repairing them — survived entirely. What vanished was the scoreboard.
 
 This is the pattern with news: transmutation strips the metrics and keeps the events. The result reads less like a wire report and more like what one villager tells another across a fence. Phi would say that is not a loss of information. It is a recovery of scale.

@@ -105,7 +105,7 @@ Each new word must explicitly connect to at least one pillar:
 - [ ] Respect **Slot 1 stacking order**: Tense > Aspect > Voice > Evidentiality > Modality > Negation
 - [ ] Ensure particle ordering remains logical
 - [ ] Document interaction with existing particles
-- [ ] **See `documents/grammar/PARTICLE_REFERENCE.md` for complete particle inventory**
+- [ ] **See `documents/grammar/particle_reference.md` for complete particle inventory**
 
 ### When Creating Constructions
 - [ ] Preserve strict SOV order (modifier-first principle)
@@ -189,16 +189,16 @@ All vocabulary entries must include:
 - DO NOT access files from any other directory
 
 ### Reference Documentation
-**Authority order when documents disagree: see `/CANON.md`.**
+**Authority order when documents disagree: see `/canon.md`.**
 Validate vocabulary and examples before committing:
 `python3 scripts/validate_examples.py`
 
 For detailed information, consult:
 - **Sound system**: `documents/phonology_rules.md`, `documents/phonetics.md`
 - **Complete grammar**: the manual, Parts IV-V (ch11-ch22); inventories in `documents/grammar/`
-- **Particle inventory**: `documents/grammar/PARTICLE_REFERENCE.md`
-- **Compound idioms**: `documents/COMPOUNDS.md`
-- **Numeral system**: `documents/grammar/NUMERAL_REFERENCE.md`
+- **Particle inventory**: `documents/grammar/particle_reference.md`
+- **Compound idioms**: `documents/compounds.md`
+- **Numeral system**: `documents/grammar/numeral_reference.md`
 - **Philosophy**: `documents/language_guide.md`
 
 ## Final Reminder

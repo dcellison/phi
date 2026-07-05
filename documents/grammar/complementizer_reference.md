@@ -182,6 +182,6 @@ VOC NAME HON.INTIM Hino, 1SG 2SG love
 ---
 
 **Related Documentation:**
-- Particles: `documents/grammar/PARTICLE_REFERENCE.md`
+- Particles: `documents/grammar/particle_reference.md`
 - Complex constructions: `documents/grammar/05-complex-constructions.md`
 - Main instructions: `CLAUDE.md`

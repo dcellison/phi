@@ -302,14 +302,14 @@ transmutation handled each:
 
 | Concept | Handling | Follow-up? |
 |---|---|---|
-| anger / hatred | `korua thero` (heart-fire) — compositional metaphor | Canonized in `documents/COMPOUNDS.md` |
+| anger / hatred | `korua thero` (heart-fire) — compositional metaphor | Canonized in `documents/compounds.md` |
 | beings | `theula [rena lima nai]` (all that is alive) | No word needed — the relative clause is better than a noun |
 | born / birth | `wea lioru shua` (coming toward life) | Resolved: `thowia` (born) coined in the Life-Arc Batch; the sutta's phrase stands as chosen poetry |
 | deceive / lie | `peshu` (lie) — coined in Word Batch 2 during this project | Resolved |
-| despise | `thiku nila` (see as small) | Canonized in `documents/COMPOUNDS.md` |
+| despise | `thiku nila` (see as small) | Canonized in `documents/compounds.md` |
 | safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | Resolved: `shurano` (safe) and `pukea` (danger) coined in the Life-Arc Batch |
 | lie down (posture) | `therilu` (rest) | Resolved: `ruemi` (lie down) coined in the Daily-Life Batch; the sutta's `therilu` stands |
-| fixed view / opinion | `remo kire` (thought-shape) | Canonized in `documents/COMPOUNDS.md` |
+| fixed view / opinion | `remo kire` (thought-shape) | Canonized in `documents/compounds.md` |
 | sublime abiding | `shea menui` (dwelling of peace) | Transmutation, intentional |
 | rebirth | omitted; text closes on the path of peace | Doctrinal adaptation, recorded here deliberately |
 

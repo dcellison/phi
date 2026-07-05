@@ -72,7 +72,7 @@ Begin with the gentle sound system described in `phonology_rules.md`. Practice t
 Learn the foundational words from our lexicon files - pronouns, basic verbs, and value-centered concepts that embody Phi's peaceful worldview.
 
 ### 3.3. Simple Sentences
-Master the basic Subject-Object-Verb pattern with particles. The complete grammar is detailed in `documents/grammar/` (see especially `PARTICLE_REFERENCE.md`).
+Master the basic Subject-Object-Verb pattern with particles. The complete grammar is detailed in `documents/grammar/` (see especially `particle_reference.md`).
 
 ### 3.4. Express Values
 Use Phi to discuss sustainability, mindfulness, community, and connection - the concepts it was designed to make beautiful and clear.
@@ -148,6 +148,6 @@ This final form is purely Phi. It is grammatical, elegant, and fully expresses t
 - Sound system rules: See `phonology_rules.md`
 - Complete grammar: See `documents/grammar/`
 - Full vocabulary: See the JSON lexicon in `/vocabulary/`
-- Authority order: See `/CANON.md`
+- Authority order: See `/canon.md`
 
 This guide represents the heart and soul of Phi - a language designed to help us speak our way to a better world.

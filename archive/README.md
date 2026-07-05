@@ -10,21 +10,24 @@ Nothing here should be used as a reference for the current language.
 Vocabulary glosses, grammar rules, and numeral systems described in
 these files contradict the current design in places.
 
-For the authority order of current documentation, see `/CANON.md`.
+For the authority order of current documentation, see `/canon.md`.
 
 | Subdirectory / file | What it was |
 |---|---|
 | `book/` | The original 3-part manuscript, superseded by `/manual/` (Feb 2026) |
 | `tutorial/`, `guides/` | Pre-2026 lessons using retired vocabulary |
-| `TERNARY_NUMBER_SYSTEM.md` | The original ternary proposal, superseded by `documents/grammar/NUMERAL_REFERENCE.md` |
+| `TERNARY_NUMBER_SYSTEM.md` | The original ternary proposal, superseded by `documents/grammar/numeral_reference.md` |
 | `conceptual-roots.md`, `sound-meaning.md`, `ROOT_PHILOSOPHY.md` | The abandoned syllable-as-root system (see `recap.md` for why) |
 | `LANGUAGE_ARCHAEOLOGY_REPORT.md` | The July 2026 full-repo analysis that launched the canon repair and quality campaigns |
 | `AUDIT_LOG.md`, `COLLISION_AUDIT.md` | Working audit records from before the validator enforced their checks automatically |
-| `NOUN_VERB_STUDY.md` | The study behind the event-noun rule; the rule itself lives in `/CANON.md`, the word-by-word audit in `documents/EVENT_NOUN_ADJUDICATION.md` |
+| `NOUN_VERB_STUDY.md` | The study behind the event-noun rule; the rule itself lives in `/canon.md`, the word-by-word audit in `documents/EVENT_NOUN_ADJUDICATION.md` |
 | `scripts/` | Retired one-off scripts (formatters, early duplicate checkers) whose jobs now live inside `scripts/validate_examples.py` |
 | `01-principles.md` … `06-numerals.md` | The six narrative grammar chapters, dissolved July 2026: their teaching lives in the manual (Parts IV-V, including the new ch22 on numbers), their inventories in `documents/grammar/`'s three REFERENCE files |
+| `GAP_INVENTORY.md` | The completed 2026-07 vocabulary gap campaign (batches A-H); its living do-not-coin guidance was absorbed into `/canon.md` |
+| `EVENT_NOUN_ADJUDICATION.md` | The word-by-word audit behind the event-noun rule; the rule lives in `/canon.md` |
+| `writing-system/` | The Mayan-inspired glyph exploration — a future project's first sketch, parked here until that project begins |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
-| `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/NUMERAL_REFERENCE.md` |
+| `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |
 | `PHI_CORE_VOCABULARY.md` | A flat vocabulary list from before the JSON lexicon became the single source of truth |
 | `CLAUDE.md`, `GEMINI.md` | Old project instructions predating modifier-first and ternary numerals |
 | `word-list-750.md`, `core-primes.md`, `essential-roots*.md` | Early lexicon plans, largely unrealized |

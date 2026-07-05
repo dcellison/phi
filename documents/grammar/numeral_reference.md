@@ -569,5 +569,5 @@ This graduated approach keeps communication grounded in meaningful, human-scale 
 
 **Related Documentation:**
 - Complete grammar: `documents/grammar/06-numerals.md`
-- Particle system: `documents/grammar/PARTICLE_REFERENCE.md`
+- Particle system: `documents/grammar/particle_reference.md`
 - Main instructions: `CLAUDE.md`

@@ -162,7 +162,7 @@ Related chapters:
 - **Chapter 20: Subordinate Clauses** — complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
 
 Related grammar documents:
-- `COMPLEMENTIZER_REFERENCE.md` — full reference for all complementizers including `rena`
+- `complementizer_reference.md` — full reference for all complementizers including `rena`
 
 ---
 

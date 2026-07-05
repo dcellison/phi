@@ -21,7 +21,7 @@ Four shelves, four jobs: `documents/` is what the language **is** (the specifica
 | [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. About nine hundred words. |
 | [documents/](documents/) | Grammar references, the compound registry, the phonology rules, the schema. |
 | [pamphlets/](pamphlets/) | The texts: the Metta Sutta (the first text ever written in Phi) and *The North Wind and the Sun*. |
-| [CANON.md](CANON.md) | The authority order when documents disagree, and every settled design decision. |
+| [canon.md](canon.md) | The authority order when documents disagree, and every settled design decision. |
 | [web/](web/) | The lexicon explorer — a static, searchable view over the vocabulary. Build and serve locally with `python3 scripts/build_explorer.py && python3 -m http.server -d web`. |
 
 ## Working on the repository
@@ -32,7 +32,7 @@ Everything is validated by machine, and the validation gates every pull request:
 python3 scripts/validate_examples.py
 ```
 
-This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [CANON.md](CANON.md); the working protocol for creating words lives in [CLAUDE.md](CLAUDE.md); the longer-term intentions live in [PUBLISHING.md](PUBLISHING.md).
+This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); the working protocol for creating words lives in [CLAUDE.md](CLAUDE.md); the longer-term intentions live in [publishing.md](publishing.md).
 
 ---
 
