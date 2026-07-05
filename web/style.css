@@ -282,3 +282,17 @@ footer a { color: var(--sage); }
 }
 .chapnav a { color: var(--sage); text-decoration: none; }
 .chapnav a:hover { color: var(--ink); }
+
+/* --- manual reader extras --- */
+.crumb { color: var(--muted); font-size: .8rem; letter-spacing: .08em; margin: 0 0 .3rem; }
+.toc-ch { font-family: var(--serif); font-weight: 500; font-size: 1rem; margin: 1.1rem 0 .2rem; color: var(--ink); }
+.primer pre {
+  background: var(--paper-raised);
+  border: 1px solid var(--hairline);
+  border-left: 2px solid var(--gold);
+  padding: .8rem 1rem;
+  font-size: .9rem;
+  line-height: 1.7;
+  overflow-x: auto;
+  font-family: var(--ipa);
+}
