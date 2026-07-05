@@ -49,13 +49,15 @@ There is no "you need not go." Phi states the absence of obligation as the prese
 
 The lexicon holds about nine hundred words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts: the loving-kindness meditation, transmuted rather than translated, and the old fable of the wind and the sun. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
 
-## Three doors
+## Four doors
 
 **Wander** — the lexicon explorer, where every word carries its sounds, its meaning, and the reasoning behind it.
 
-**Begin** — the primer, in `primer/`. Chapter one is fourteen sentences long and you already know the first word of the language.
+**Begin** — the primer. Chapter one is fourteen sentences long and you already know the first word of the language.
 
 **Verify** — the manual, for the reader who wants the machinery: the phonology, the particle system, the ternary numbers, all of it.
+
+**Read** — the texts. Phi has literature already: the loving-kindness meditation and an old fable, each rebuilt in the language rather than translated into it.
 
 ---
 

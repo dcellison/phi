@@ -93,6 +93,8 @@ body = body.replace("<strong>Begin</strong>",
                     '<strong><a href="primer/index.html">Begin</a></strong>')
 body = body.replace("<strong>Verify</strong>",
                     '<strong><a href="manual/index.html">Verify</a></strong>')
+body = body.replace("<strong>Read</strong>",
+                    '<strong><a href="texts/index.html">Read</a></strong>')
 landing = f"""<!doctype html>
 <html lang="en">
 <head>
