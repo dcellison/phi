@@ -55,6 +55,4 @@ python3 scripts/lexicon_tool_simple.py sync
 
 Note: `find` exits 1 when the term EXISTS (i.e. "not available for coinage") and 0 when it is free.
 
-## deprecated/
-
-One-off formatters and scripts that no longer match the repository layout (`format_json.py`, `check_duplicates.py`, `standardize_ipa.py`, and friends — their jobs are all inside `validate_examples.py` now). See `deprecated/README.md` before touching anything in there.
+Retired one-off scripts live in `archive/scripts/`; everything in this directory is current and in use.

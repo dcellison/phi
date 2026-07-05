@@ -21,6 +21,7 @@ For the authority order of current documentation, see `/CANON.md`.
 | `LANGUAGE_ARCHAEOLOGY_REPORT.md` | The July 2026 full-repo analysis that launched the canon repair and quality campaigns |
 | `AUDIT_LOG.md`, `COLLISION_AUDIT.md` | Working audit records from before the validator enforced their checks automatically |
 | `NOUN_VERB_STUDY.md` | The study behind the event-noun rule; the rule itself lives in `/CANON.md`, the word-by-word audit in `documents/EVENT_NOUN_ADJUDICATION.md` |
+| `scripts/` | Retired one-off scripts (formatters, early duplicate checkers) whose jobs now live inside `scripts/validate_examples.py` |
 | `CLAUDE.md`, `GEMINI.md` | Old project instructions predating modifier-first and ternary numerals |
 | `word-list-750.md`, `core-primes.md`, `essential-roots*.md` | Early lexicon plans, largely unrealized |
 | `vocabulary_comparison*` | One-time migration analyses |
