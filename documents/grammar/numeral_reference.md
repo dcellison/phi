@@ -100,10 +100,10 @@ Phi's classifier system announces the essential nature of what is being counted,
 
 | Classifier | Function | IPA | Used For |
 |------------|----------|-----|----------|
-| **`himo`** | PERSON.CLF | /ˈhi.mo̞/ | Counting people, acknowledging humanity |
+| **`himo`** | HUM.CLF | /ˈhi.mo̞/ | Counting people, acknowledging humanity |
 | **`lipha`** | LIFE.CLF | /ˈli.ɸä/ | Counting living beings (plants, animals), acknowledging aliveness |
-| **`themo`** | OBJECT.CLF | /ˈθe̞.mo̞/ | Counting inanimate objects, acknowledging thingness |
-| **`nophe`** | ABSTRACT.CLF | /ˈn̪o̞.ɸe̞/ | Counting abstract concepts, acknowledging conceptuality |
+| **`themo`** | THING.CLF | /ˈθe̞.mo̞/ | Counting inanimate objects, acknowledging thingness |
+| **`nophe`** | ABST.CLF | /ˈn̪o̞.ɸe̞/ | Counting abstract concepts, acknowledging conceptuality |
 
 ### Structure: Layered Announcement
 
