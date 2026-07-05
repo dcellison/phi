@@ -65,6 +65,6 @@ them; words inside a compound must all exist in the lexicon.
 
 ---
 
-**Related:** word-creation rules in `CLAUDE.md`; the compositional
+**Related:** word-creation rules in `documents/development_protocol.md`; the compositional
 principle in `documents/language_guide.md` §2.5; the coin-vs-compose
 criterion in `pamphlets/metta_sutta.md`.
