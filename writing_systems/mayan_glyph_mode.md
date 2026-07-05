@@ -1,3 +1,14 @@
+> **Status (2026-07-05):** un-parked from `archive/writing-system/` into the writing-systems studio. The exploration below is preserved as written; it predates much of current Phi, so read it with these corrections in mind:
+>
+> - Old particles `re` (relativizer) and `sho` (quotative) are now the multi-syllable complementizers `rena` and `shola…sholo` (with required closers) — the "27 particle forms" count and the Slot 2 list have changed.
+> - `shia` is no longer the numeral three (it is the 3SG pronoun); the scale units are `shao` (3), `phoi` (9), `lau` (27), `rei` (81), and the base glyph list should read `mu`, `ta`, `wi` + those four.
+> - Example vocabulary has moved on: `kofe` (help) is now `naphe`; `wela` (good) is retired for `welao`; `kea` (knowledge) is not a current word; `ke` is not a current particle; `thela` is now "how".
+> - The sample sentence `wa pi mia lo melu so ko kofe` violates the settled Slot 0 order — politeness comes first (`pi wa …`).
+> - The syllabogram count is ~70, not ~50: 14 onsets (10 consonants including k, 4 fricative digraphs) × 5 vowels.
+> - The lexicon is 906 words and growing, so "~300 logograms" wants rethinking (or an explicit frequency cutoff).
+> - The hiatus-marking problem this document worries about is solved elegantly in the Tengwar mode (see `tengwar_mode.md`): the second vowel hangs below the same glyph. A block-internal below-position may be the Mayan-mode answer too.
+> - Per the 2026 punctuation and letters rulings: no capitals exist in any mode, and the period is the only visible punctuation — the "question arc" idea for `wa` must remain the *rendering of the word* `wa`, not a silent mark (mode-invariance).
+
 # A Mayan-Inspired Glyph Block System for Phi
 
 ## Executive Summary
