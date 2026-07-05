@@ -281,7 +281,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (196)
+## community (197)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -400,6 +400,7 @@
 | `renoa` | liberate | Freeing action |
 | `repha` | bridge | Connection maker |
 | `rolia` | worth | Universal value |
+| `rolutha` | wagon | What moves the harvest to market |
 | `ruloi` | flourish | Collective thriving |
 | `sano` | know | knowing others and sharing collective knowledge |
 | `sepho` | send | Transfer across distance |
@@ -791,7 +792,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (198)
+## nature (200)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -805,6 +806,7 @@
 | `horuma` | thunder | The storm's voice |
 | `howeli` | wind | Moving atmospheric force |
 | `kaero` | phase | Process stage |
+| `kalora` | horse | Strength at a stride |
 | `keloi` | summer | Peak growth |
 | `kelu` | become | participating in natural cycles of change |
 | `kelua` | morning | Awakening time |
@@ -862,6 +864,7 @@
 | `molei` | evolve | Developmental transformation |
 | `molira` | hill | Gentle land elevation |
 | `mophi` | wool | Animal fiber |
+| `mophira` | sheep | The flock's wool-bearer |
 | `moreke` | mammal | Warm-blooded nursing creatures |
 | `morilu` | wave | The sea's moving shape |
 | `morisa` | salt | What the sea leaves behind |
@@ -994,7 +997,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (231)
+## physical (234)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1013,6 +1016,7 @@
 | `horuma` | thunder | Sound felt in the chest |
 | `kaelo` | sweet | Pleasant taste |
 | `kalei` | climb | Grip and pull upward |
+| `kalora` | horse | The road's living engine |
 | `kati` | cut | Clean separation by an edge |
 | `katiru` | knife | The kitchen and workbench tool |
 | `kawepa` | catch | The hand closing on arrival |
@@ -1078,6 +1082,7 @@
 | `moli` | gentle | Mild in force |
 | `molu` | container | Holding space |
 | `mophi` | wool | Warmth material |
+| `mophira` | sheep | The fleece that grows back |
 | `morae` | sense | Body receiving information from world |
 | `morilu` | wave | Water briefly standing up |
 | `morisa` | salt | The sharp taste that preserves |
@@ -1147,6 +1152,7 @@
 | `rokai` | back | Posterior torso surface and spine region |
 | `roke` | move | Bodily change of position |
 | `rokili` | spine | The column of the back |
+| `rolutha` | wagon | Wheels made a carrier |
 | `rotiku` | dance | Rhythmic body movement |
 | `ruemi` | lie down | The horizontal resting posture |
 | `sawa` | wash | Restoration to cleanness |
