@@ -121,6 +121,15 @@ landing = f"""<!doctype html>
 print(f"wrote web/index.html from kia.md ({len(body.splitlines())} blocks)")
 
 # ---- primer reader: primer/*.md rendered to web/primer/ ----
+
+def link_text_citations(html):
+    """Repo-path citations of the texts become on-site links (pages
+    using this all live one directory below web/)."""
+    for stem in ("metta_sutta", "north_wind_and_sun"):
+        html = html.replace(f"<code>pamphlets/{stem}.md</code>",
+                            f'<a href="../texts/{stem}.html"><code>pamphlets/{stem}.md</code></a>')
+    return html
+
 PRIMER_SRC = ROOT / "primer"
 PRIMER_OUT = ROOT / "web" / "primer"
 PRIMER_OUT.mkdir(parents=True, exist_ok=True)
@@ -168,7 +177,7 @@ for i, f in enumerate(chapters):
     prev_link = f'<a href="{chapters[i-1].stem}.html">&lsaquo; {titles[chapters[i-1].name]}</a>' if i > 0 else ""
     next_link = f'<a href="{chapters[i+1].stem}.html">{titles[chapters[i+1].name]} &rsaquo;</a>' if i + 1 < len(chapters) else ""
     footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
-    (PRIMER_OUT / (f.stem + ".html")).write_text(primer_page(body, titles[f.name], footer_nav))
+    (PRIMER_OUT / (f.stem + ".html")).write_text(primer_page(link_text_citations(body), titles[f.name], footer_nav))
 
 # contents page: the primer README plus a generated reading list
 readme_body = md_to_html((PRIMER_SRC / "README.md").read_text())
@@ -184,7 +193,7 @@ toc = ["<h2>Read</h2><ol class=\"toc\">"]
 for f in chapters:
     toc.append(f'<li><a href="{f.stem}.html">{titles[f.name]}</a></li>')
 toc.append("</ol>")
-(PRIMER_OUT / "index.html").write_text(primer_page(readme_body + "\n" + "".join(toc), "contents"))
+(PRIMER_OUT / "index.html").write_text(primer_page(link_text_citations(readme_body) + "\n" + "".join(toc), "contents"))
 print(f"wrote web/primer/: {len(chapters)} chapters + contents")
 
 # ---- manual reader: manual/**.md rendered to web/manual/ ----
@@ -262,7 +271,7 @@ for i, (part, ch, f) in enumerate(sections):
     prev_link = f'<a href="{slug(sections[i-1][2])}">&lsaquo; {sec_titles[i-1]}</a>' if i > 0 else ""
     next_link = f'<a href="{slug(sections[i+1][2])}">{sec_titles[i+1]} &rsaquo;</a>' if i + 1 < len(sections) else ""
     footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
-    (MANUAL_OUT / slug(f)).write_text(manual_page(body, sec_titles[i], footer_nav))
+    (MANUAL_OUT / slug(f)).write_text(manual_page(link_text_citations(body), sec_titles[i], footer_nav))
 
 # contents page grouped by part and chapter
 toc = ["<h1>The Phi manual</h1>",
