@@ -288,7 +288,6 @@
 | `heloi` | generous | Sharing |
 | `howai` | evening | Gathering time |
 | `howela` | receive | receiving connects us in cycles of generosity |
-| `hupo` | dog | The first interspecies friendship |
 | `kaesu` | selfish | Lacking generosity |
 | `kawepa` | catch | The other end of every throw |
 | `keloe` | companion | Journey partner |
@@ -309,6 +308,7 @@
 | `lei` | harmony | weaves diverse voices into collective resonance |
 | `loa` | give | creating bonds through sharing |
 | `loamira` | gift | What changes hands unowed |
+| `lohau` | dog | The first interspecies friendship |
 | `lokue` | place | places as sites of gathering and meaning |
 | `lomea` | sibling | core family bond and peer relationship |
 | `lona` | meeting | Assembly event |
@@ -801,7 +801,6 @@
 | `horathe` | dawn | Light emergence |
 | `horuma` | thunder | The storm's voice |
 | `howeli` | wind | Moving atmospheric force |
-| `hupo` | dog | The companion animal |
 | `kaero` | phase | Process stage |
 | `keloi` | summer | Peak growth |
 | `kelu` | become | participating in natural cycles of change |
@@ -836,6 +835,7 @@
 | `liro` | green | the color of plants and growth |
 | `lirowa` | leaf | Plant foliage |
 | `loesi` | oil | Liquid essence |
+| `lohau` | dog | The companion animal |
 | `lopia` | child | unfolds inherent potential through organic growth |
 | `lori` | vital | Life essence |
 | `loriphi` | rainbow | Optical atmospheric phenomenon |

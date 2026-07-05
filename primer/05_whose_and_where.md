@@ -19,7 +19,7 @@
 ## II
 
 > **misheko mua nuwera nulae.**
-> **hupo mua ponu nulae.**
+> **lohau mua ponu nulae.**
 > **lopia mua thepalu thalo.**
 > **wheo mua thepalu nai.**
 > **phao mua womu nai.**
@@ -37,7 +37,7 @@
 > **tomi mua wonepa nai.**
 > **nuora mua wonepa nai.**
 > **lopia sulopa nuola.**
-> **hupo mua wonepa nai. — tua, hupo.**
+> **lohau mua wonepa nai. — tua, lohau.**
 
 | new word | say it | it means |
 |---|---|---|

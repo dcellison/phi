@@ -292,7 +292,6 @@
 | `horuma` | thunder | Thunder |
 | `howai` | evening | Evening |
 | `howeli` | wind | Wind |
-| `hupo` | dog | Dog |
 | `kaero` | phase | Phase |
 | `kathu` | seal | Seal |
 | `katiru` | knife | Knife |
@@ -355,6 +354,7 @@
 | `liru` | fabric | Fabric |
 | `loamira` | gift | Gift |
 | `loesi` | oil | Oil |
+| `lohau` | dog | Dog |
 | `lokue` | place | Place |
 | `lomea` | sibling | Sibling |
 | `lomura` | liver | Liver |

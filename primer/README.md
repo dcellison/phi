@@ -12,7 +12,7 @@ Each chapter ends with a single pointer into the manual for readers who want the
 
 ## The household
 
-The stories follow one household in a small village: **lopia**, the child; **phao**, the parent; **wheo**, the elder; **hupo**, the dog; **misheko**, the cat. Around them: the home, the garden, the well, the neighbors, the weather, the year. Nothing dramatic happens. Everything ordinary does.
+The stories follow one household in a small village: **lopia**, the child; **phao**, the parent; **wheo**, the elder; **lohau**, the dog; **misheko**, the cat. Around them: the home, the garden, the well, the neighbors, the weather, the year. Nothing dramatic happens. Everything ordinary does.
 
 ## The ladder
 

@@ -21,7 +21,7 @@
 ## II
 
 > **thiku pelori meliho.**
-> **whalo hupo nulae.**
+> **whalo lohau nulae.**
 > **welao phao nuora whea.**
 > **lo thiku pelori wapi.**
 
@@ -47,7 +47,7 @@
 > **lopia mua thepalu nai.** — *say it and keep walking; the little word* mua *is chapter five's secret, arriving early so your ear knows it when it is named.*
 > **lopia lo peloru nila.**
 > **wheo lo shiro nila.**
-> **hupo lo pelori nila.**
+> **lohau lo pelori nila.**
 > **lo pelori wapi.**
 > **waero whalo nai.**
 

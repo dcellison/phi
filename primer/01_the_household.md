@@ -42,16 +42,16 @@
 
 ## III
 
-> **hupo nolika nai.**
+> **lohau nolika nai.**
 > **misheko nolika nai.**
-> **hupo whalo nai.**
+> **lohau whalo nai.**
 > **misheko thiku nai.**
-> **hupo melu nai.**
+> **lohau melu nai.**
 > **misheko melu nai.**
 
 | new word | say it | it means |
 |---|---|---|
-| hupo | hu · po | dog |
+| lohau | lo · ha · u | dog |
 | misheko | mi · she · ko | cat |
 | nolika | no · li · ka | animal |
 
@@ -63,8 +63,8 @@
 
 > lopia: **mia lopia nai. thia phao nai.**
 > phao: **mia phao nai. thia lopia nai.**
-> lopia: **thia hupo nai. thia melu nai.**
-> hupo: —
+> lopia: **thia lohau nai. thia melu nai.**
+> lohau: —
 
 | new word | say it | it means |
 |---|---|---|

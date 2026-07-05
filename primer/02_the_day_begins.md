@@ -7,7 +7,7 @@
 > **sorae rihe.**
 > **lopia rihe.**
 > **phao rihe.**
-> **hupo rihe.**
+> **lohau rihe.**
 > **misheko nulae.**
 
 | new word | say it | it means |
@@ -21,7 +21,7 @@
 ## II
 
 > **lopia thalo.**
-> **hupo thalo.**
+> **lohau thalo.**
 > **wheo thalo.**
 > **misheko nulae.**
 
@@ -37,7 +37,7 @@
 
 > **phao nuora whea.**
 > **lopia nuora nuola.**
-> **hupo nuora nuola.**
+> **lohau nuora nuola.**
 > **misheko rihe.**
 > **misheko phialu milau.**
 
@@ -53,8 +53,8 @@
 
 ## IV
 
-> **lopia hupo nila.**
-> **hupo lopia nila.**
+> **lopia lohau nila.**
+> **lohau lopia nila.**
 > **wheo lopia nila.**
 > **lopia misheko nila.**
 > **misheko lopia nila.**

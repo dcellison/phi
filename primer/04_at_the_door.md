@@ -32,8 +32,8 @@
 
 ## III
 
-> melu: **wa hupo welao nai.**
-> phao: **lia. hupo welao nai.**
+> melu: **wa lohau welao nai.**
+> phao: **lia. lohau welao nai.**
 > melu: **wa misheko welao nai.**
 > phao: **lia. misheko welao nai. misheko nulae.**
 
