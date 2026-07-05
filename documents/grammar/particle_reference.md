@@ -58,7 +58,7 @@ COND 2SG help. 1SG well feel
 ```
 lu he mia to naphe. shia to ma wepu
 COND IRR 1SG PST help. 3SG PST NEG go
-(If I had helped [but I didn't], ko would not have left.)
+(If I had helped [but I didn't], they would not have left.)
 ```
 
 ### `su` - Optative Marker (OPT)
@@ -200,8 +200,8 @@ shia to ke wepu
 **Function**: Announces that the speaker received this information from another source
 **Example**:
 ```
-lo miona ti naphe
-PL person REP help
+lo miona to ti naphe
+PL person PST REP help
 (People helped [I was told].)
 ```
 
@@ -497,9 +497,9 @@ These announce how the current sentence relates to prior discourse. They appear 
 
 **Example**:
 ```
-mia lothea shelomui. kewai, shia ma shelomui.
-1SG love understand. CONTR, 3SG NEG understand
-(I understand love. However, ko does not understand.)
+mia lothea shelomui. kewai shia ma shelomui.
+1SG love understand. CONTR 3SG NEG understand
+(I understand love. However, they do not understand.)
 ```
 
 ---

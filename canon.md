@@ -48,7 +48,16 @@ These were explicitly decided and should not silently fork again:
   content word `wela` ("good/beautiful") is retired; use `welao`
   (good), `towe` (well), `phelora` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
-- **Punctuation**: periods only in Phi text; no commas.
+- **Punctuation** (extended 2026-07-05): periods only in Phi text —
+  no commas, and no question marks. `wa` and the interrogative
+  pronouns announce a question at its start; Phi's question mark is
+  a word, and it comes first. The validator enforces this.
+- **Main-clause tense** (settled 2026-07-05): tense particles are
+  not optional — a clause whose translation is past carries `to` on
+  its own verb (`sholo to haolu`, they said), as ch15 requires and
+  the texts practice. An unmarked verb is present. Embedded clauses
+  keep their own marking, relative to the matrix event (see the
+  embedded-clauses ruling below).
 - **Covered by design — do not coin** (settled 2026-07): anger is
   `korua thero` and contempt `thiku nila` (compound registry);
   east/west are `sorae thorui`/`sorae lumae`; dream is `whemura`;

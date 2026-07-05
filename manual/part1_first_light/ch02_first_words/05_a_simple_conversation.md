@@ -10,7 +10,7 @@ Now let's put your first words together in a natural exchange. Two people meet a
 **B:** Kia! Thia melu nai.  
 *Hello! You are a friend.*
 
-**A:** Mia thia sano. Wa thia shea nai?  
+**A:** Mia thia sano. Wa thia shea nai.  
 *I know you. Are you at peace?*
 
 **B:** Mia shea nai. Mia womu lothea.  

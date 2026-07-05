@@ -26,16 +26,16 @@ Each `mena` has its own `meno`. They nest like parentheses.
 ### Three levels
 
 ```
-shia mena mia mena thia mena melu to wepu meno sano meno nohero meno haolu
-3SG DECL.COMP 1SG DECL.COMP 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know DECL.COMP.CLOSE believe DECL.COMP.CLOSE speak
+shia mena mia mena thia mena melu to wepu meno sano meno nohero meno to haolu
+3SG DECL.COMP 1SG DECL.COMP 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know DECL.COMP.CLOSE believe DECL.COMP.CLOSE PST speak
 (They said that I believe that you know that the friend left.)
 ```
 
 This is grammatically correct but approaches the limit of comfortable processing. In practice, speakers break complex nestings into separate sentences:
 
 ```
-melu to wepu. thia mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
-friend PST go. 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE speak
+melu to wepu. thia mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno to haolu
+friend PST go. 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE PST speak
 (The friend left. You know that the friend left. I believe that you know. They said that I believe.)
 ```
 
@@ -93,8 +93,8 @@ mia mena shia shola mia so turema sholo haolu meno shelomui
 ### Declarative inside quotative
 
 ```
-shia shola mia mena thia towe nai meno sano sholo haolu
-3SG QUOT.COMP 1SG DECL.COMP 2SG well be DECL.COMP.CLOSE know QUOT.COMP.CLOSE speak
+shia shola mia mena thia towe nai meno sano sholo to haolu
+3SG QUOT.COMP 1SG DECL.COMP 2SG well be DECL.COMP.CLOSE know QUOT.COMP.CLOSE PST speak
 (They said: "I know that you are well.")
 ```
 
@@ -128,8 +128,8 @@ REL 2SG INT.COMP well be INT.COMP.CLOSE feel person
 ### Relative clause with `shola`/`sholo`
 
 ```
-rena shola mia so turema sholo haolu miona
-REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE speak person
+rena shola mia so turema sholo to haolu miona
+REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST speak person
 (the person who said: "I will return")
 ```
 
@@ -163,8 +163,8 @@ mia wela rena mia to nila shelu shewo nai welo phaelo
 ### `shola`/`sholo` containing relative clause
 
 ```
-shia shola rena mia kealo nophi phelora nai sholo haolu
-3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE speak
+shia shola rena mia kealo nophi phelora nai sholo to haolu
+3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE PST speak
 (They said: "The story that I created is beautiful.")
 ```
 
@@ -235,8 +235,8 @@ REL 1SG DECL.COMP 2SG DECL.COMP well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE kno
 ### Quotation of complex content
 
 ```
-shia shola mia mena melu so turema meno nohero sholo haolu
-3SG QUOT.COMP 1SG DECL.COMP friend FUT return DECL.COMP.CLOSE believe QUOT.COMP.CLOSE speak
+shia shola mia mena melu so turema meno nohero sholo to haolu
+3SG QUOT.COMP 1SG DECL.COMP friend FUT return DECL.COMP.CLOSE believe QUOT.COMP.CLOSE PST speak
 (They said: "I believe that the friend will return.")
 ```
 

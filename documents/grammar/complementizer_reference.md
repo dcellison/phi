@@ -56,8 +56,8 @@ shia shola sorae phelora nai sholo haolu
 3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE speak
 (They say, "The sun is beautiful.")
 
-mia shola mia so wepu sholo haolu
-1SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE speak
+mia shola mia so wepu sholo to haolu
+1SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST speak
 (I said: "I will leave.")
 ```
 
@@ -97,7 +97,7 @@ mia mena thia mena shia to wepu meno phaelo meno shelomui
 ```
 
 **Comparison with `shola`/`sholo`**:
-- `shia shola mia wepu sholo haolu` = They said: "I'm leaving." (exact words)
+- `shia shola mia wepu sholo to haolu` = They said: "I'm leaving." (exact words)
 - `shia mena thia to wepu meno to haolu` = They said that you left. (reported content)
 
 ---

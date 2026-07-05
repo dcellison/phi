@@ -62,7 +62,7 @@ Statement:
 - *thia shelu theo* — You read the book.
 
 Question (add *wa*):
-- *wa thia shelu theo?* — Do you read the book?
+- *wa thia shelu theo.* — Do you read the book?
 
 Request (add *no*):
 - *no shelu theo* — Read the book.

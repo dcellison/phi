@@ -49,8 +49,8 @@ mia wela shia to wepu welo phaelo
 ```
 
 ```
-shia shola mia wepu sholo haolu
-3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE speak
+shia shola mia wepu sholo to haolu
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak
 (They said: "I am leaving.")
 ```
 
@@ -79,8 +79,8 @@ REL story create person
 | Use when | Paraphrasing, summarizing | Exact wording matters |
 
 **Example contrast:**
-- `shia mena shia wepu meno haolu` = They said that they were leaving.
-- `shia shola mia wepu sholo haolu` = They said: "I am leaving."
+- `shia mena shia wepu meno to haolu` = They said that they were leaving.
+- `shia shola mia wepu sholo to haolu` = They said: "I am leaving."
 
 ### `wela`/`welo` vs. `wa` vs. `lu`
 
