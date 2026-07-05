@@ -3,23 +3,23 @@
 Where `nela` says "and," `thona` says "but." It connects elements that stand in some kind of tension, acknowledging that two things are true even though they pull in different directions.
 
 ```
-shiro phelora nai thona thiku nai
-tree beautiful be ADVRS small be
-(the tree is beautiful, but it is small.)
+shiro phelora nai thona thiku nai.
+tree beautiful be ADVRS small be.
+(The tree is beautiful, but it is small.)
 ```
 
 ```
-mia shelomui thona thia ma shelomui
-1SG understand ADVRS 2SG NEG understand
-(i understand, but you do not.)
+mia shelomui thona thia ma shelomui.
+1SG understand ADVRS 2SG NEG understand.
+(I understand, but you do not.)
 ```
 
 Like `nela`, `thona` can join words, phrases, or clauses. At the word level:
 
 ```
-shaelo thona thesua
-brave ADVRS mindful
-(brave but mindful.)
+shaelo thona thesua.
+brave ADVRS mindful.
+(Brave but mindful.)
 ```
 
 ## The philosophy of contrast
@@ -29,12 +29,12 @@ brave ADVRS mindful
 Compare two ways of handling a complex observation:
 
 Without contrast: `shiro phelora nai. shiro thiku nai.`
-(the tree is beautiful. the tree is small.)
+(The tree is beautiful. The tree is small.)
 
 Two separate statements, sitting next to each other without acknowledged tension.
 
 With contrast: `shiro phelora nai thona thiku nai.`
-(the tree is beautiful, but it is small.)
+(The tree is beautiful, but it is small.)
 
 A single observation that holds both truths together and lets the listener feel the relationship between them.
 
@@ -43,21 +43,21 @@ A single observation that holds both truths together and lets the listener feel 
 At the clause level, `thona` is particularly useful for presenting balanced perspectives:
 
 ```
-mia to theo thona ma to shelomui
-1SG PST read ADVRS NEG PST understand
-(i read, but did not understand.)
+mia to theo thona ma to shelomui.
+1SG PST read ADVRS NEG PST understand.
+(I read, but did not understand.)
 ```
 
 ```
-sorae sulae nai thona howeli pelui nai
-sun warm be ADVRS wind cold be
-(the sun is warm, but the wind is cold.)
+sorae sulae nai thona howeli pelui nai.
+sun warm be ADVRS wind cold be.
+(The sun is warm, but the wind is cold.)
 ```
 
 ```
-shia haolu thona lo miona ma sheluo
-3SG speak ADVRS PL person NEG listen
-(they speak, but the people do not listen.)
+shia haolu thona lo miona ma sheluo.
+3SG speak ADVRS PL person NEG listen.
+(They speak, but the people do not listen.)
 ```
 
 In each case, `thona` creates space for complexity. It resists the pressure to reduce a situation to one side or the other, holding the tension so the listener can sit with it.

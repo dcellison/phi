@@ -9,21 +9,21 @@ Phi uses two complementizer pairs for this: `mena`/`meno` for embedded statement
 The declarative complementizer `mena` announces that what follows is a statement being treated as an object. Its required closer `meno` marks where that embedded statement ends, so the main verb can follow without ambiguity. The pair works like spoken parentheses around the embedded thought.
 
 ```
-mia mena shia to wepu meno sano
-1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
-(i know that they left.)
+mia mena shia to wepu meno sano.
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know.
+(I know that they left.)
 ```
 
 ```
-mia mena sorae sulae nai meno phaelo
-1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel
-(i feel that the sun is warm.)
+mia mena sorae sulae nai meno phaelo.
+1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel.
+(I feel that the sun is warm.)
 ```
 
 ```
-shia mena thia so kamo meno haolu
-3SG DECL.COMP 2SG FUT arrive DECL.COMP.CLOSE speak
-(they say that you will arrive.)
+shia mena thia so kamo meno haolu.
+3SG DECL.COMP 2SG FUT arrive DECL.COMP.CLOSE speak.
+(They say that you will arrive.)
 ```
 
 The structure is consistent: `mena` opens the embedded clause, the clause unfolds with its own subject, objects, and particles, `meno` closes it, and then the main verb arrives. Without `meno`, the boundary between the embedded verb and the main verb would be ambiguous; two verbs in a row with no marker between them.
@@ -33,9 +33,9 @@ The structure is consistent: `mena` opens the embedded clause, the clause unfold
 `mena`/`meno` clauses can nest inside each other when one embedded thought contains another. Each `mena` requires its own `meno`, and they resolve from the inside out, like matched parentheses:
 
 ```
-mia mena thia mena shia to wepu meno phaelo meno sano
-1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE know
-(i know that you feel that they left.)
+mia mena thia mena shia to wepu meno phaelo meno sano.
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE know.
+(I know that you feel that they left.)
 ```
 
 Count the `mena` markers, count the `meno` markers; they always match. The innermost `meno` closes the innermost `mena`, and each verb belongs to its own clause.
@@ -45,21 +45,21 @@ Count the `mena` markers, count the `meno` markers; they always match. The inner
 The interrogative complementizer pair `wela`/`welo` embeds a yes/no question as the object of a verb. Where `mena` says "here comes a statement," `wela` says "here comes an uncertainty." The closer `welo` marks where the question ends, just as `meno` closes declarative embeddings.
 
 ```
-mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
-(i wonder whether they left.)
+mia wela shia to wepu welo phaelo.
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel.
+(I wonder whether they left.)
 ```
 
 ```
-shia wela mia so kamo welo ma sano
-3SG INT.COMP 1SG FUT arrive INT.COMP.CLOSE NEG know
-(they do not know whether i will arrive.)
+shia wela mia so kamo welo ma sano.
+3SG INT.COMP 1SG FUT arrive INT.COMP.CLOSE NEG know.
+(They do not know whether I will arrive.)
 ```
 
 ```
-mia wela sorae sulae nai welo nila
-1SG INT.COMP sun warm be INT.COMP.CLOSE see
-(i see whether the sun is warm.)
+mia wela sorae sulae nai welo nila.
+1SG INT.COMP sun warm be INT.COMP.CLOSE see.
+(I see whether the sun is warm.)
 ```
 
 ### Embedded content questions
@@ -67,21 +67,21 @@ mia wela sorae sulae nai welo nila
 When the embedded question involves an interrogative pronoun (`sua`, `hina`, `kua`, etc.), the pronoun itself signals that the clause is a question. No `wela`/`welo` is needed:
 
 ```
-mia sua to wepu sano
-1SG who PST go know
-(i know who left.)
+mia sua to wepu sano.
+1SG who PST go know.
+(I know who left.)
 ```
 
 ```
-mia kua ne sulae nai ma sano
-1SG where NAME sulae be NEG know
-(i do not know where sulae is.)
+mia kua ne sulae nai ma sano.
+1SG where NAME sulae be NEG know.
+(I do not know where sulae is.)
 ```
 
 ```
-shia thela peloru thuroa shelomui
-3SG how flower grow understand
-(they understand how the flowers grow.)
+shia thela peloru thuroa shelomui.
+3SG how flower grow understand.
+(They understand how the flowers grow.)
 ```
 
 The interrogative pronoun occupies the position of the unknown element within the embedded clause. The main sentence remains a statement; only the embedded clause carries the question.

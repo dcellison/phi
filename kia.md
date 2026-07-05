@@ -24,6 +24,10 @@ Phi has no conjugations, no declensions, no plural endings, no irregular anythin
 
 Every syllable is open — a consonant, then a vowel, nothing after. Every vowel is pure and full. Try the word for dog: **lo · ha · u**. The first syllable begins *lothea*, the word for love. The last two vowels, said separately as Phi requires, are a howl — the wolf still audible at the end of the word. The language is full of small designs like this, and none of them can be rushed, because the sound system has no way to rush.
 
+## You can hear the punctuation
+
+Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens the exact words, **sholo** closes them, and both survive being carried across a garden in a child's mouth. The comma of address is the word **kona**; the capital letter of a name is the word **ne**. Pauses are free — no pause can change what a Phi sentence means — so none is ever written. A message here can pass through three careful mouths and arrive letter-perfect, because nothing in it was ever silent. The page keeps its one dot for the one job no word was given.
+
 ## The slowing is the practice
 
 Why build a language you cannot rush? Because every Phi sentence rehearses the same small discipline: announce your intent, then act. Say what relates before what is related, how you know before it matters, the condition before the consequence. A speaker practices this hundreds of times a day without trying to, which is what makes it a practice and not a lecture. The people who built Phi wove five traditions into it — solarpunk's livable futures, secular Buddhist attention, Art Nouveau's organic line, peace linguistics, and pre-industrial rhythm — and wove them in at the level of sound. You can hear it: the four breath-consonants, the softest sounds the language has, are reserved for the words of the inner life. **shea**, peace. **thole**, practice. **whunei**, breathe. **phaelo**, feel. The philosophy is not printed on the language. It is pronounced.
@@ -59,7 +63,7 @@ The lexicon holds about nine hundred words, every one validated by machine again
 
 **Read** — the texts. Phi has a shelf of literature already: eight works rebuilt in the language rather than translated into it, from a loving-kindness meditation to a velveteen rabbit — and one famous verse it would not say.
 
-**Practice** — the pamphlets. Two so far, on the structures learners find hardest: each explained slowly, drilled with exercises, answers included.
+**Practice** — the pamphlets. Seven so far, on the structures learners find hardest — from relative clauses to the ternary numbers, the names, the first text, and the punctuation you can hear: each explained slowly, drilled with exercises, answers included.
 
 ---
 
