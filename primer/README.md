@@ -66,4 +66,4 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 
 ## Status
 
-Parts I-III (chapters 1-18) and the pronunciation prelude are complete; Part IV follows the ladder above. Every Phi sentence in the primer is checked against the lexicon by `scripts/validate_examples.py`, which runs in CI.
+The primer is complete: the pronunciation prelude, all twenty-four chapters, and the capstone.
