@@ -52,6 +52,8 @@ def md_to_html(md):
             continue
         if block.startswith("# "):
             out.append(f"<h1>{inline(block[2:])}</h1>")
+        elif block.startswith("### "):
+            out.append(f"<h3>{inline(block[4:])}</h3>")
         elif block.startswith("## "):
             out.append(f"<h2>{inline(block[3:])}</h2>")
         elif block == "---":
@@ -100,7 +102,7 @@ landing = f"""<!doctype html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body class="landing">
-<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="https://github.com/dcellison/phi/tree/main/manual">manual</a></nav>
+<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a></nav>
 <main>
 {body}
 <p class="doorlink"><a href="explore.html">Enter the lexicon &rarr;</a></p>
@@ -126,7 +128,7 @@ def title_of(md):
             return re.sub(r"[*`]", "", line[2:]).strip()
     return "untitled"
 
-NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <span class="here">primer</span> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a></nav>'
+NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <span class="here">primer</span> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a></nav>'
 
 def primer_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -187,7 +189,7 @@ def pretty(name, kind):
         return name.replace("_", " ")
     return name.replace("_", " ")
 
-NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <span class="here">manual</span></nav>'
+NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <span class="here">manual</span> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a></nav>'
 
 def manual_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -264,3 +266,47 @@ for i, (part, ch, f) in enumerate(sections):
 if open_list: toc.append("</ol>")
 (MANUAL_OUT / "index.html").write_text(manual_page("\n".join(toc), "contents"))
 print(f"wrote web/manual/: {len(sections)} sections + contents")
+
+# ---- the texts: transmuted literature rendered to web/texts/ ----
+TEXTS_OUT = ROOT / "web" / "texts"
+TEXTS_OUT.mkdir(parents=True, exist_ok=True)
+NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <span class="here">texts</span></nav>'
+
+def texts_page(body, title):
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phi texts &mdash; {title}</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body class="landing primer">
+{NAV_TEXTS}
+<main>
+{body}
+<div class="chapnav"><a href="index.html">all texts</a></div>
+</main>
+<footer>
+  <p>Transmutations, not translations: each text is rebuilt from Phi's own
+     concepts. Written in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, rendered at build time.</p>
+</footer>
+</body>
+</html>
+"""
+
+TEXTS = [
+    ("metta_sutta", "The Metta Sutta", "The first text ever written in Phi: the loving-kindness meditation, rebuilt from the language's own concepts. Where the language's heart is."),
+    ("north_wind_and_sun", "The North Wind and the Sun", "Phi's first story: the fable told in a thousand languages to show what each sounds like. The primer's capstone sends its readers here."),
+]
+for stem, title, blurb in TEXTS:
+    md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
+    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(md_to_html(md), title))
+
+toc = ["<h1>The texts</h1>",
+       "<p>Phi's literature so far. Each is a transmutation &mdash; not a translation word for word, but the idea rebuilt from Phi's own concepts, with notes recording every adaptation the language asked for.</p>"]
+for stem, title, blurb in TEXTS:
+    toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p>{blurb}</p>')
+toc.append("<hr><p><em>More transmutations are coming; the shelf is built to grow.</em></p>")
+(TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents"))
+print(f"wrote web/texts/: {len(TEXTS)} texts + contents")
