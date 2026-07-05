@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*898 words.*
+*899 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -64,6 +64,7 @@
 | `kathu` | seal | /ˈkä.θu/ | noun, verb |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
 | `katiru` | knife | /kä.ˈt̪i.ru/ | noun |
+| `kau` | ALL | /ˈkä.u/ | preposition |
 | `kawepa` | catch | /kä.ˈwe̞.pä/ | verb |
 | `ke` | INFER | /ˈke̞/ | particle |
 | `kealo` | create | /ke̞.ˈä.lo̞/ | verb |

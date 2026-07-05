@@ -105,8 +105,8 @@ Note that `lila` marks conscious intention. It cannot be used for unintended con
 The concessive subordinator `shai` (although, despite) announces a circumstance that might be expected to prevent the main clause but doesn't:
 
 ```
-shai pheralu ma to nai lo peloru thuroa
-CONC rain NEG PST be PL flower grow
+shai pheralu to ma nai lo peloru thuroa
+CONC rain PST NEG be PL flower grow
 (although it did not rain the flowers grow.)
 ```
 
