@@ -78,8 +78,8 @@ def md_to_html(md):
             html.append("</table>")
             out.append("".join(html))
         elif block.startswith(">"):
-            lines = [inline(l.lstrip("> ")) for l in block.splitlines()]
-            out.append("<blockquote>" + "<br>".join(lines) + "</blockquote>")
+            text = "\n".join(l.lstrip("> ") for l in block.splitlines())
+            out.append("<blockquote>" + inline(text).replace("\n", "<br>") + "</blockquote>")
         else:
             out.append(f"<p>{inline(block)}</p>")
     return "\n".join(out)
