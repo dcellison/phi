@@ -1,6 +1,6 @@
-# Appendix: Quick Reference
+# Appendix: quick reference
 
-## The Three Complementizer Pairs
+## The three complementizer pairs
 
 | Type | Opener | Closer | Gloss | Function |
 |------|--------|--------|-------|----------|
@@ -8,7 +8,7 @@
 | Interrogative | `wela` | `welo` | INT.COMP / INT.COMP.CLOSE | Embeds questions (whether...) |
 | Quotative | `shola` | `sholo` | QUOT.COMP / QUOT.COMP.CLOSE | Preserves exact words ("...") |
 
-## The Relativizer
+## The relativizer
 
 | Word | Gloss | Function | Closer |
 |------|-------|----------|--------|
@@ -16,7 +16,7 @@
 
 ---
 
-## Basic Structures
+## Basic structures
 
 ### Declarative embedding
 
@@ -68,7 +68,7 @@ REL story create person
 
 ---
 
-## Key Distinctions
+## Key distinctions
 
 ### `mena`/`meno` vs. `shola`/`sholo`
 
@@ -92,7 +92,7 @@ REL story create person
 
 ---
 
-## Nesting Rules
+## Nesting rules
 
 1. **Each opener requires its own closer**
    - Every `mena` needs one `meno`
@@ -115,7 +115,7 @@ mia mena thia wela shia wepu welo phaelo meno shelomui
 
 ---
 
-## Common Verbs with Complementizers
+## Common verbs with complementizers
 
 ### With `mena`/`meno` (statements)
 
@@ -128,7 +128,7 @@ mia mena thia wela shia wepu welo phaelo meno shelomui
 | `shelomui` | understand | I understand that... |
 | `nila` | see (perceive) | I see that... |
 | `hea` | hear | I hear that... |
-| `haolu` | say | They said that... |
+| `haolu` | speak | They said that... |
 
 ### With `wela`/`welo` (questions)
 
@@ -143,28 +143,23 @@ mia mena thia wela shia wepu welo phaelo meno shelomui
 
 | Verb | Meaning | Example translation |
 |------|---------|---------------------|
-| `haolu` | say | They said: "..." |
+| `haolu` | speak | They said: "..." |
 | `thilou` | ask | They asked: "...?" |
 
 ---
 
-## The `-a`/`-o` Pattern
+## The `-a`/`-o` pattern
 
 Phi uses a consistent vowel pattern:
 
 - **`-a` endings open** (men**a**, wel**a**, shol**a**, ren**a**)
 - **`-o` endings close** (men**o**, wel**o**, shol**o**)
 
-This extends to correlative conjunctions:
-- `lera`/`lero` (both...and)
-- `sera`/`sero` (either...or)
-- `mira`/`miro` (neither...nor)
-
 **Learn once, apply everywhere.**
 
 ---
 
-## Checklist for Correct Sentences
+## Checklist for correct sentences
 
 Before finalizing an embedded clause:
 
@@ -178,7 +173,7 @@ Before finalizing an embedded clause:
 
 ---
 
-## Quick Phonetic Reference
+## Quick phonetic reference
 
 | Word | IPA | Sound symbolism |
 |------|-----|-----------------|
@@ -222,11 +217,11 @@ Before finalizing an embedded clause:
 
 ---
 
-## Further Study
+## Further study
 
 - **Chapter 20** of the manual: Subordinate Clauses
 - **Chapter 21** of the manual: Relative Clauses
-- **Relative Clauses Pamphlet**: Comprehensive guide to `rena`
+- **Relative clauses pamphlet**: guide to `rena`
 - **COMPLEMENTIZER_REFERENCE.md**: Technical grammar reference
 
 ---

@@ -1,4 +1,4 @@
-# Common Errors and How to Avoid Them
+# Common errors and how to avoid them
 
 Learners coming from English face predictable challenges with Phi's complementizer system. This section identifies the most common errors and provides strategies to avoid them.
 
@@ -286,7 +286,7 @@ When you make an error mid-sentence:
 
 **Option 2: Insert the closer**
 ```
-*mia mena shia to wepu shelomui... phenu. mia mena shia to wepu meno shelomui
+*mia mena shia to wepu shelomui... shekoi. mia mena shia to wepu meno shelomui
 (correct yourself: "specifically, I [mena] they left [meno] understand")
 ```
 

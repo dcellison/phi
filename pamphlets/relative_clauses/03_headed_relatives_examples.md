@@ -194,7 +194,7 @@ REL 1SG LOC PST sleep home 1SG home be
 (the home that i slept in is my home.)
 ```
 
-The preposition stays inside the clause; only its object is gapped. Hearing `mua` with nothing after it before the verb tells you the head fills that slot.
+The preposition stays inside the clause; only its object is gapped. Hearing a preposition whose object never arrives tells you the head fills that slot.
 
 ### Recipient
 

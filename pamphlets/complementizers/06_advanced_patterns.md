@@ -1,4 +1,4 @@
-# Advanced Patterns and Nesting
+# Advanced patterns and nesting
 
 This section explores complex structures: nested embeddings, interactions between complementizer types, complementizers inside relative clauses, and multi-level constructions. These patterns are less common in everyday speech but essential for expressing sophisticated thoughts.
 
@@ -34,9 +34,9 @@ shia mena mia mena thia mena melu to wepu meno sano meno nohero meno haolu
 This is grammatically correct but approaches the limit of comfortable processing. In practice, speakers break complex nestings into separate sentences:
 
 ```
-melu to wepu. thia shewo mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
-friend PST go. 2SG true DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE say
-(The friend left. You truly know that the friend left. I believe that you know. They said that I believe.)
+melu to wepu. thia mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
+friend PST go. 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE say
+(The friend left. You know that the friend left. I believe that you know. They said that I believe.)
 ```
 
 Both express the same meaning; the second is easier to follow.
@@ -175,92 +175,40 @@ A sentence can contain multiple embedded clauses that are not nested:
 ### Coordinated embedded clauses
 
 ```
-mia mena shia towe nai meno sano. nai mia mena shia so turema meno nohero
-1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know. and 1SG DECL.COMP 3SG FUT return DECL.COMP.CLOSE believe
+mia mena shia towe nai meno sano nela mia mena shia so turema meno nohero
+1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know COORD 1SG DECL.COMP 3SG FUT return DECL.COMP.CLOSE believe
 (I know that they are well, and I believe that they will return.)
 ```
 
 ### Different embedding types in sequence
 
 ```
-mia mena shia towe nai meno sano. ta mia wela shia so turema welo ma sano
-1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know. but 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE NEG know
-(I know that they are well. But I don't know whether they will return.)
+mia mena shia towe nai meno sano thona mia wela shia so turema welo ma sano
+1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know ADVRS 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE NEG know
+(I know that they are well, but I don't know whether they will return.)
 ```
 
-## Embedded clauses as subjects
-
-Embedded clauses can serve as the subject of a main clause:
-
-```
-mena shia to wepu meno shewo nai
-DECL.COMP 3SG PST go DECL.COMP.CLOSE true be
-(That they left is true.)
-```
-
-The embedded clause `mena shia to wepu meno` functions as subject of `shewo nai`.
-
-```
-wela shia so turema welo ma shewo nai
-INT.COMP 3SG FUT return INT.COMP.CLOSE NEG clear be
-(Whether they will return is unclear.)
-```
-
-## Embedded clauses with topic-comment structure
-
-Phi can topicalize embedded content:
-
-```
-mena shia to wepu meno ko. mia shelomui
-DECL.COMP 3SG PST go DECL.COMP.CLOSE FOC. 1SG understand
-(As for that they left: I understand.)
-```
-
-The embedded clause is fronted and focused, then commented upon.
+In every one of these patterns the embedded clause is the object of a main verb; that is where Phi puts embedded thought.
 
 ## Processing strategies for complex structures
 
 When encountering or producing complex nested structures:
 
-### For comprehension:
+### For comprehension
 
-1. **Track openers:** Each time you hear `mena`, `wela`, or `shola`, note that a clause has opened.
+Track the openers: each time you hear `mena`, `wela`, or `shola`, note that a clause has opened. Each `meno`, `welo`, or `sholo` closes the most recent unmatched opener of the same type. The verb after the outermost closer is the main verb. Then build meaning from the inside out: understand the innermost clause first, and see how it functions in the next level out.
 
-2. **Match closers:** Each `meno`, `welo`, or `sholo` closes the most recent unmatched opener of the same type.
+### For production
 
-3. **Find the main verb:** The verb after the outermost closer is the main verb.
+Start with meaning: what do you ultimately want to say, and what is embedded inside what? Open in order, beginning with the outermost structure, and close in reverse order — the last opened clause is the first closed. Before you finish, count that each opener has its closer.
 
-4. **Build meaning from inside out:** Understand the innermost clause first, then see how it functions in the next level out.
+### Simplification strategies
 
-### For production:
-
-1. **Start with meaning:** What do you ultimately want to say?
-
-2. **Identify the levels:** What is embedded inside what?
-
-3. **Open in order:** Start with the outermost structure, open each level as you reach it.
-
-4. **Close in reverse order:** The last opened clause is the first closed.
-
-5. **Verify matching:** Count that each opener has its closer.
-
-### Simplification strategies:
-
-When a structure becomes too complex:
-
-1. **Break into sentences:** Express each level as a separate sentence.
-
-2. **Use anaphora:** Refer back to established information with pronouns.
-
-3. **Reorder for clarity:** Sometimes a different organization is clearer.
+When a structure becomes too complex, break it into sentences, expressing each level separately. Refer back to established information with pronouns. Sometimes a different organization is simply clearer; reorder.
 
 ## Limits of nesting
 
-Grammatically, Phi places no limit on nesting depth. Practically, human processing limits apply:
-
-**Comfortable:** 1-2 levels of embedding
-**Challenging:** 3 levels
-**Difficult:** 4+ levels
+Grammatically, Phi places no limit on nesting depth. Practically, human processing limits apply: one or two levels of embedding are comfortable, three is challenging, and four or more is difficult for anyone.
 
 Beyond two levels, consider restructuring. The grammar supports complexity, but communication serves understanding.
 
@@ -294,15 +242,10 @@ shia shola mia mena melu so turema meno nohero sholo haolu
 
 ## Summary
 
-Advanced patterns demonstrate the power and regularity of Phi's complementizer system:
-
-- **Nesting is unlimited:** Each opener pairs with its closer, regardless of depth.
-- **Types can mix:** Declarative, interrogative, and quotative can nest within each other.
-- **Relative clauses interact cleanly:** They can contain complementizers or be contained by them.
-- **Structure remains parseable:** The opener-closer matching ensures unambiguous interpretation.
+The advanced patterns show the regularity of Phi's complementizer system. Nesting is unlimited: each opener pairs with its closer, regardless of depth. The three types can nest within each other, and relative clauses can contain complementizers or be contained by them. Through all of it, the opener-closer matching keeps the structure parseable.
 
 In practice, prioritize clarity over complexity. The system supports whatever depth meaning requires, but simpler expression usually serves communication better.
 
 ---
 
-*Next: Common Errors and How to Avoid Them*
+*Next: Common errors and how to avoid them*

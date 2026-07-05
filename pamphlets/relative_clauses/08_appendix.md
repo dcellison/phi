@@ -1,4 +1,4 @@
-# Appendix: Quick Reference
+# Appendix: quick reference
 
 ## One-page summary
 
@@ -47,9 +47,9 @@ rena mia ___ theo shelu
 "the book that I read"
 ```
 
-**Oblique gap:** The head noun fills a prepositional phrase
+**Oblique gap:** The head noun fills a prepositional phrase; the preposition stays and its object is gapped
 ```
-rena mia ___ mua thalo shelira
+rena mia mua ___ to thalo shelira
 "the forest that I walked in"
 ```
 
@@ -74,11 +74,11 @@ lothea shelomui phue nai
 
 ### Checklist
 
-✓ `rena` at the beginning
-✓ Complete clause (subject, verb, etc.)
-✓ Gap where the head noun would be
-✓ Head noun at the end
-✓ Main clause continues after
+- `rena` at the beginning
+- Complete clause (subject, verb, etc.)
+- Gap where the head noun would be
+- Head noun at the end
+- Main clause continues after
 
 ---
 
@@ -116,6 +116,7 @@ lothea shelomui phue nai
 | peloru | flower | flower |
 | shiro | tree | tree |
 | shelira | forest | forest |
+| thepalu | garden | garden |
 | womu | home | home |
 | ruela | path | path |
 | lopia | child | child |
@@ -123,6 +124,7 @@ lothea shelomui phue nai
 | theo | read | read |
 | nila | see | see |
 | haolu | speak | speak |
+| hea | hear | hear |
 | thumela | teach | teach |
 | lothea | love | love |
 | sano | know | know |
@@ -130,16 +132,20 @@ lothea shelomui phue nai
 | thuroa | grow | grow |
 | naphe | help | help |
 | howela | receive | receive |
-| shua | arrive | arrive |
+| shua | come | come |
+| kamo | arrive | arrive (at a place, with `mua`) |
 | thalo | walk | walk |
 | phelora | beautiful | beautiful |
 | phue | wise | wise |
 | serao | old | old |
 | whalo | large | large |
+| sonu | alone | alone |
 | shea | peace | peace |
 | mua | LOC | in, at |
 | nia | on | on |
-| wei | to | to (direction) |
+| wei | DAT | to, for (recipient) |
+| kau | ALL | to (goal of motion) |
+| wea | TOWARD | toward (without arrival) |
 | to | PST | past tense |
 | so | FUT | future tense |
 | ma | NEG | negation |
@@ -170,4 +176,4 @@ After completing this pamphlet:
 4. Try writing a journal entry in Phi using relative clauses
 5. Listen for (or imagine) how Japanese handles relatives — same pre-nominal structure
 
-Remember: The pattern that feels strange now will become natural with practice. Pre-nominal relatives are used by hundreds of millions of speakers worldwide. You're learning a system that works.
+Pre-nominal relative clauses are ordinary grammar for speakers of Japanese, Korean, and Turkish. Phi asks nothing that hundreds of millions of people do not already do.

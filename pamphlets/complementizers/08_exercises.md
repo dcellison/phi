@@ -27,7 +27,7 @@ Translate each sentence into Phi. Use the complementizers as indicated.
 12. They wonder whether the friend will return.
 13. Do you know whether the story is true?
 14. They asked whether I had helped.
-15. I don't care whether it's beautiful.
+15. I don't care whether the story is beautiful.
 
 ### Quotative (`shola`/`sholo`)
 
@@ -47,21 +47,21 @@ Translate each Phi sentence into natural English.
 
 22. **shia wela pheralu so shua welo phaelo**
 
-23. **thia shola mia so turema sholo haolu**
+23. **thia shola mia so turema sholo to haolu**
 
 24. **lo mia mena shia to naphe meno shelomui**
 
 25. **mia wela nophi shewo nai welo ma sano**
 
-26. **shia mena mia mena thia towe nai meno phaelo meno haolu**
+26. **shia mena mia mena thia towe nai meno phaelo meno to haolu**
 
-27. **melu shola wa thia wepu sholo thilou**
+27. **melu shola wa thia wepu sholo to thilou**
 
 28. **mia mena shia mena pheralu so shua meno nohero meno sano**
 
 29. **wa thia wela shia so turema welo phaelo**
 
-30. **shia shola mia thia lothea sholo haolu**
+30. **shia shola mia thia lothea sholo to haolu**
 
 ---
 
@@ -98,7 +98,7 @@ Complete each sentence with the appropriate complementizer(s).
 41. mia _____ shia to wepu _____ shelomui
     (I understand that they left.)
 
-42. shia _____ mia so turema _____ haolu
+42. shia _____ mia so turema _____ to haolu
     (They said: "I will return.")
 
 43. mia _____ pheralu so shua _____ phaelo
@@ -113,7 +113,7 @@ Complete each sentence with the appropriate complementizer(s).
 46. lo mia _____ shia _____ melu to naphe _____ sano _____ phaelo
     (We feel that they know that the friend helped.)
 
-47. shia _____ wa thia wepu _____ thilou
+47. shia _____ wa thia wepu _____ to thilou
     (They asked: "Are you leaving?")
 
 48. mia _____ thia _____ shia towe nai _____ phaelo _____ shelomui
@@ -185,7 +185,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ---
 
-# Answer Key
+# Answer key
 
 ## Part A: Translation (English to Phi)
 
@@ -198,8 +198,8 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 3. **thia mena nophi shewo nai meno phaelo**
    2SG DECL.COMP story true be DECL.COMP.CLOSE feel
 
-4. **melu mena mia to naphe meno haolu**
-   friend DECL.COMP 1SG PST help DECL.COMP.CLOSE say
+4. **melu mena mia to naphe meno to haolu**
+   friend DECL.COMP 1SG PST help DECL.COMP.CLOSE PST say
 
 5. **lo mia mena shia to wepu meno shelomui**
    1PL DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
@@ -210,14 +210,14 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 7. **mia mena melu to kamo meno ma sano**
    1SG DECL.COMP friend PST arrive DECL.COMP.CLOSE NEG know
 
-8. **shia mena shelu welao nai meno haolu**
-   3SG DECL.COMP book good be DECL.COMP.CLOSE say
+8. **shia mena shelu welao nai meno to haolu**
+   3SG DECL.COMP book good be DECL.COMP.CLOSE PST say
 
 9. **mia wela shia towe nai welo phaelo**
    1SG INT.COMP 3SG well be INT.COMP.CLOSE wonder
 
-10. **shia wela thia to nila welo thilou**
-    3SG INT.COMP 2SG PST see INT.COMP.CLOSE ask
+10. **shia wela thia to nila welo to thilou**
+    3SG INT.COMP 2SG PST see INT.COMP.CLOSE PST ask
 
 11. **lo mia wela pheralu so shua welo ma sano**
     1PL INT.COMP rain FUT come INT.COMP.CLOSE NEG know
@@ -228,26 +228,26 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 13. **wa thia wela nophi shewo nai welo sano**
     Q 2SG INT.COMP story true be INT.COMP.CLOSE know
 
-14. **lo shia wela mia to naphe welo thilou**
-    PL 3SG INT.COMP 1SG PST help INT.COMP.CLOSE ask
+14. **lo shia wela mia to naphe welo to thilou**
+    PL 3SG INT.COMP 1SG PST help INT.COMP.CLOSE PST ask
 
-15. **mia wela phelora nai welo ma phaelo**
-    1SG INT.COMP beautiful be INT.COMP.CLOSE NEG care
+15. **mia wela nophi phelora nai welo ma phaelo**
+    1SG INT.COMP story beautiful be INT.COMP.CLOSE NEG feel
 
-16. **shia shola mia wepu sholo haolu**
-    3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE say
+16. **shia shola mia wepu sholo to haolu**
+    3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
 
-17. **melu shola sorae phelora nai sholo haolu**
-    friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE say
+17. **melu shola sorae phelora nai sholo to haolu**
+    friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE PST say
 
-18. **shia shola wa thia towe nai sholo thilou**
-    3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE ask
+18. **shia shola wa thia towe nai sholo to thilou**
+    3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE PST ask
 
-19. **mia shola mia so turema sholo haolu**
-    1SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say
+19. **mia shola mia so turema sholo to haolu**
+    1SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST say
 
-20. **shia shola lo mia ha nai sholo haolu**
-    3SG QUOT.COMP 1PL here be QUOT.COMP.CLOSE say
+20. **shia shola lo mia ha nai sholo to haolu**
+    3SG QUOT.COMP 1PL here be QUOT.COMP.CLOSE PST say
 
 ## Part B: Translation (Phi to English)
 
@@ -294,7 +294,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 37. **mia wela shia to wepu welo phaelo**
     (Removed `wa` — redundant inside `wela`/`welo`)
 
-38. **thia mena shia to wepu meno sano. nai mia wela turema welo phaelo**
+38. **thia mena shia to wepu meno sano nela mia wela mia so turema welo phaelo**
     (Simplified: nesting was malformed)
 
 39. **shia shola mia wepu sholo haolu**
@@ -307,7 +307,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 41. mia **mena** shia to wepu **meno** shelomui
 
-42. shia **shola** mia so turema **sholo** haolu
+42. shia **shola** mia so turema **sholo** to haolu
 
 43. mia **wela** pheralu so shua **welo** phaelo
 
@@ -317,7 +317,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 46. lo mia **mena** shia **mena** melu to naphe **meno** sano **meno** phaelo
 
-47. shia **shola** wa thia wepu **sholo** thilou
+47. shia **shola** wa thia wepu **sholo** to thilou
 
 48. mia **mena** thia **mena** shia towe nai **meno** phaelo **meno** shelomui
 
@@ -326,7 +326,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 50. **mia wela pheralu so shua welo phaelo**
     I wonder whether rain will come.
 
-51. **shia shola mia wepu sholo haolu**
+51. **shia shola mia wepu sholo to haolu**
     They said: "I am leaving."
 
 52. **shia mena melu to naphe meno nohero**
@@ -335,10 +335,10 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 53. **lo mia wela nophi shewo nai welo ma sano**
     We don't know whether the story is true.
 
-54. **shia shola wa thia towe nai sholo thilou**
+54. **shia shola wa thia towe nai sholo to thilou**
     She asked: "Are you well?"
 
-55. **thia mena shia kela nai meno phaelo**
+55. **thia mena shia loshi nai meno phaelo**
     You feel that they are happy.
 
 56. **mia mena thia wela shia so turema welo phaelo meno sano**
@@ -368,10 +368,10 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 62. **mia wela melu so shua welo phaelo**
     I wonder whether the friend will come.
 
-63. **melu shola mia thia nila sholo haolu**
+63. **melu shola mia thia nila sholo to haolu**
     The friend said: "I see you."
 
-64. **mia mena thia mena shia kela nai meno phaelo meno nohero**
+64. **mia mena thia mena shia loshi nai meno phaelo meno nohero**
     I believe that you feel that they are happy.
 
 65. **rena mena melu towe nai meno sano miona phelora nai**
@@ -379,4 +379,4 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ---
 
-*Next: Appendix — Quick Reference*
+*Next: Appendix: quick reference*

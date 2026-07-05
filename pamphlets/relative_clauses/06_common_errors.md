@@ -1,4 +1,4 @@
-# Part 6: Common Errors and How to Avoid Them
+# Part 6: Common errors and how to avoid them
 
 Learning pre-nominal relative clauses requires overwriting deeply ingrained habits from English. This section identifies the most common errors and offers strategies for avoiding them.
 
@@ -12,7 +12,7 @@ Learning pre-nominal relative clauses requires overwriting deeply ingrained habi
 *book REL 1SG PST read
 ```
 
-This puts "book" before the relative clause, following English order. In Phi, this would mean something like "a book, and then separately, something that I read" — two unconnected phrases.
+This puts "book" before the relative clause, following English order. In Phi, this would mean something like "a book, and then separately, something that I read": two unconnected phrases.
 
 **Correct:**
 ```
@@ -23,11 +23,11 @@ REL 1SG PST read book
 
 The entire relative clause comes first; the noun arrives last.
 
-**Practice tip:** When you want to say "the X that...", stop yourself before saying X. Say `rena`, then the clause, then X.
+When you want to say "the X that...", stop yourself before saying X. Say `rena`, then the clause, then X.
 
 ### Error 2: Using `rena` as a pronoun
 
-In English, "who/which/that" are relative pronouns — they stand in for the noun inside the clause. Learners sometimes try to use `rena` the same way.
+In English, "who/which/that" are relative pronouns: they stand in for the noun inside the clause. Learners sometimes try to use `rena` the same way.
 
 **Wrong:**
 ```
@@ -46,7 +46,7 @@ REL 1SG PST see book
 
 The gap where "book" would be is simply empty. `rena` marks the start, not the position.
 
-**Practice tip:** `rena` appears exactly once per relative clause, always at the beginning. If you find yourself wanting to say `rena` again inside the clause, stop — that's English thinking.
+`rena` appears exactly once per relative clause, always at the beginning. If you find yourself wanting to say `rena` again inside the clause, stop; that's English thinking.
 
 ### Error 3: Forgetting the head noun entirely
 
@@ -67,7 +67,7 @@ mia rena shia to kealo nophi phelora nai
 (the story that they created is beautiful.)
 ```
 
-**Practice tip:** After every relative clause, ask: "Did I say what's being described?" The noun must appear.
+After every relative clause, ask: "Did I say what's being described?" The noun must appear.
 
 ### Error 4: Adding an unnecessary closer
 
@@ -90,30 +90,23 @@ REL 1SG PST read book
 
 The noun itself closes the clause.
 
-**Practice tip:** Only `rena` lacks a closer among complementizers; `mena`/`meno`, `shola`/`sholo`, and `wela`/`welo` all have closers. For relative clauses, when you reach the noun, the clause is done.
+Only `rena` lacks a closer among complementizers; `mena`/`meno`, `shola`/`sholo`, and `wela`/`welo` all have closers. For relative clauses, when you reach the noun, the clause is done.
 
-### Error 5: Wrong gap position
+### Error 5: Assuming English roles inside the clause
 
-Putting elements in the wrong order, which changes which noun role is gapped:
+Learners sometimes read the clause-internal pronoun with English habits, taking `mia` below for the one being seen:
 
-**Wrong (if you mean "the person who I saw"):**
 ```
-*rena mia nila miona
-*REL 1SG see person
-```
-
-This would mean "the person who sees me" (if grammatical at all), with the gap in object position and `mia` as object.
-
-**Correct:**
-```
-rena mia to nila miona
-REL 1SG PST see person
-(the person whom i saw)
+rena mia nila miona
+REL 1SG see person
+(the person whom i see)
 ```
 
-The gap is after `mia to` and before `nila` — in object position. The person is what was seen.
+A clause-initial bare pronoun is the subject. `mia` is the one seeing, the gap is in object position, and the head `miona` is what is seen. The phrase can only mean "the person whom i see." Reading it as "the person who sees me" imports English order into a clause that does not use it.
 
-**Practice tip:** Mentally complete the sentence with the noun inside, then remove it to find where the gap should be.
+Tense does not help here. `rena mia to nila miona` ("the person whom i saw") changes when the seeing happened, not who sees whom. Role comes from position, never from particles.
+
+When a pronoun immediately follows `rena`, treat it as the subject of the description, then look for the gap among the remaining roles.
 
 ## Processing difficulties
 
@@ -122,8 +115,8 @@ The gap is after `mia to` and before `nila` — in object position. The person i
 Long relative clauses can overload working memory:
 
 ```
-rena mia serao shelira mua phelora ruela nia to thalo womu
-REL 1SG old forest LOC beautiful path on PST walk home
+rena mia mua serao shelira nia phelora ruela kau to thalo womu
+REL 1SG LOC old forest on beautiful path ALL PST walk home
 (the home that i walked to on a beautiful path in the old forest)
 ```
 
@@ -133,7 +126,7 @@ By the time you reach `womu`, you may have forgotten what role it plays.
 
 1. **Chunk the clause mentally.** Identify subject, any objects, adverbials, and verb as you go.
 
-2. **Listen for the noun.** Train yourself to recognize when a bare noun appears — that's the head.
+2. **Listen for the noun.** Train yourself to notice the noun that follows the clause's verb; that's the head.
 
 3. **Accept re-reading.** Complex relatives sometimes require a second pass. That's normal.
 
@@ -149,7 +142,7 @@ When constructing relative clauses:
 
 3. **Build the clause systematically.** Subject (if not gapped), object (if not gapped), adverbials, verb.
 
-4. **End with the noun.** This is your release point — the clause is done.
+4. **End with the noun.** This is your release point; the clause is done.
 
 5. **Continue the sentence.** Add the main verb or whatever comes next.
 
@@ -165,7 +158,7 @@ When parsing relative clauses:
 
 4. **The noun resolves everything.** Once it appears, you know what was described and can continue.
 
-5. **Back-integrate if needed.** Sometimes meaning becomes clear only after the noun. That's fine — revise your understanding.
+5. **Back-integrate if needed.** Sometimes meaning becomes clear only after the noun. That's fine; revise your understanding.
 
 ## Self-correction techniques
 
@@ -180,7 +173,7 @@ When parsing relative clauses:
 ### Checklist when confused by a relative clause
 
 1. **Find `rena`.** That's where the clause starts.
-2. **Find the next bare noun.** That's the head; the clause ends there.
+2. **Find the noun after the clause's verb.** That's the head; the clause ends there.
 3. **What's the main verb?** That belongs to the main clause, not the relative.
 4. **What role does the head play inside the relative clause?** Find the gap.
 5. **What role does the whole noun phrase play in the main sentence?** Subject? Object?
@@ -191,7 +184,7 @@ When parsing relative clauses:
 Stop, say `rena`, rebuild the clause, then say the noun again.
 
 **If you forget the noun:**
-Pause and add it: "...rena mia to theo — shelu — phelora nai."
+Pause and add it: "rena mia to theo. shelu. phelora nai."
 
 **If you nest too deeply:**
 Stop, start a new sentence, establish the inner referent, then continue.
@@ -206,7 +199,7 @@ Find and fix the errors in these sentences:
 
 3. `*rena mia to kealo reno nophi phelora nai`
 
-4. `*rena phelora nai peloru thuroa`
+4. `*rena mia rena to nila shelu phelora nai`
 
 5. `*mia rena shia to thumela sano`
 
@@ -214,10 +207,10 @@ Find and fix the errors in these sentences:
 
 1. Noun before clause. Fix: `rena mia to theo shelu phelora nai`
 
-2. Missing subject in clause. Fix: `mia rena mia to nila miona sano` — "i know the person whom i saw"
+2. Missing subject in clause. Fix: `mia rena mia to nila miona sano` ("i know the person whom i saw")
 
 3. False closer `reno`. Fix: `rena mia to kealo nophi phelora nai`
 
-4. Missing head noun (or misplaced `nai`). If you mean "the flower that is beautiful grows": `rena phelora nai peloru thuroa`... actually this is correct if `peloru` is the head. The apparent error is that the clause seems complete at `nai`, but `peloru` is indeed the head. This is actually valid!
+4. `rena` repeated as if it were a pronoun. `rena` appears once, at the beginning; the gap stays empty. Fix: `rena mia to nila shelu phelora nai` ("the book that i saw is beautiful")
 
-5. Missing head noun. What did they teach? Fix: `mia rena shia to thumela lopia sano` — "i know the child whom they taught"
+5. Missing head noun. What did they teach? Fix: `mia rena shia to thumela lopia sano` ("i know the child whom they taught")

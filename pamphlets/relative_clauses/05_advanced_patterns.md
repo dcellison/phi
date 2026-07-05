@@ -30,8 +30,8 @@ mia [rena [rena nophi kealo miona] to thumela lopia] sano
 Nested relatives require careful attention. The listener must:
 1. Recognize the first `rena` — a relative clause is starting
 2. Recognize the second `rena` — another relative clause is starting inside the first
-3. Find the first noun after the inner `rena` — that closes the inner clause
-4. Find the next noun — that closes the outer clause
+3. Find the noun after the inner clause's verb — that closes the inner clause
+4. Find the noun after the outer clause's verb — that closes the outer clause
 5. Continue with the main clause
 
 This is cognitively demanding. In practice, speakers often break complex descriptions into separate sentences:
@@ -218,29 +218,29 @@ Here the possessed phrase `shia peloru` ("their flower") is the object, and the 
 Let's build a paragraph using multiple relative clauses, complementizers, and topic-drop:
 
 ```
-mia rena shelira mua nai womu wei to shua. phelora nai.
-1SG REL forest LOC be home to PST arrive. beautiful be.
+mia mua rena mua shelira nai womu to kamo. phelora nai.
+1SG LOC REL LOC forest be home PST arrive. beautiful be.
 (i arrived at the home that is in the forest. [it] is beautiful.)
 
-rena ha womu mua nai miona phue nai.
-REL this home LOC be person wise be.
+rena mua ha womu nai miona phue nai.
+REL LOC this home be person wise be.
 (the person who is in this home is wise.)
 
-shia mia nophi to haolu. rena mia to sheluo nophi mena shea shelira mua nai meno haolu.
-3SG 1SG story PST tell. REL 1SG PST hear story DECL peace forest LOC be DECL.CLOSE speak.
+shia wei mia nophi to haolu. rena mia to hea nophi mena shea mua shelira nai meno to haolu.
+3SG DAT 1SG story PST speak. REL 1SG PST hear story DECL.COMP peace LOC forest be DECL.COMP.CLOSE PST speak.
 (they told me a story. the story that i heard said that peace is in the forest.)
 
-mia rena shia to haolu shelomui. shea mia mua nai.
-1SG REL 3SG PST speak understand. peace 1SG LOC be.
+mia rena shia to haolu shelomui. shea mua mia nai.
+1SG REL 3SG PST speak understand. peace LOC 1SG be.
 (i understand what they said. peace is in me.)
 ```
 
 This passage uses:
-- Locative relative clause (`rena shelira mua nai womu`)
-- Subject-gap relative clause (`rena ha womu mua nai miona`)
-- Object-gap relative clause (`rena mia to sheluo nophi`)
+- Locative relative clause (`rena mua shelira nai womu`)
+- Subject-gap relative clause (`rena mua ha womu nai miona`)
+- Object-gap relative clause (`rena mia to hea nophi`)
 - Embedded `mena`/`meno` inside a relative clause
 - Headless relative clause (`rena shia to haolu`)
 - Topic-drop throughout
 
-All the patterns work together to create flowing discourse.
+Nothing new was needed to combine them; each pattern keeps its own rules.

@@ -441,8 +441,8 @@ Distinguished from:
 
 The system handles yes/no questions and content questions alike. Nesting is possible. The structure remains unambiguous.
 
-Master this pair, and you can express the full range of human uncertainty in Phi.
+With `wela` and `welo`, not knowing something becomes something you can say.
 
 ---
 
-*Next: Quotative Embedding with `shola`/`sholo`*
+*Next: Quotative embedding with `shola`/`sholo`*

@@ -1,4 +1,4 @@
-# Part 7: Practice Exercises
+# Part 7: Practice exercises
 
 ## Translation: English to Phi
 
@@ -6,7 +6,7 @@ Translate these sentences into Phi. All use relative clauses.
 
 ### Basic (subject gap)
 
-1. The person who arrived is here.
+1. The person who came is here.
 2. The flower that grows is beautiful.
 3. The tree that is large is old.
 4. One who loves is wise.
@@ -31,7 +31,7 @@ Translate these sentences into Phi. All use relative clauses.
 ### Advanced
 
 16. I know the child whom the person who creates stories taught.
-17. The person who knows that I will arrive is here.
+17. The person who knows that I will come is here.
 18. Do you see what I created?
 19. The story that I heard said that peace is in the forest.
 20. One who understands what they hear is wise.
@@ -52,13 +52,13 @@ Translate these sentences into natural English.
 
 5. `rena shea kealo miona phue nai`
 
-6. `rena shelira mua nai womu phelora nai`
+6. `rena mua shelira nai womu phelora nai`
 
-7. `mia rena shia mia wei to haolu nophi shelomui`
+7. `mia rena shia wei mia to haolu nophi shelomui`
 
 8. `rena naphe naphe howela`
 
-9. `rena ma lothea miona sola nai`
+9. `rena ma lothea miona sonu nai`
 
 10. `wa rena ha kealo thia nai`
 
@@ -68,8 +68,8 @@ Translate these sentences into natural English.
 
 Combine each pair into a single sentence using a relative clause.
 
-1. A person arrived. The person is my friend.
-   → "The person who arrived is my friend."
+1. A person came. The person is my friend.
+   → "The person who came is my friend."
 
 2. I read a book. The book is old.
    → ?
@@ -110,7 +110,7 @@ Break each complex sentence into two simpler sentences. Maintain the meaning.
 2. `mia rena shia to kealo nophi lothea`
    → ?
 
-3. `rena shelira mua thuroa shiro whalo nai`
+3. `rena mua shelira thuroa shiro whalo nai`
    → ?
 
 4. `rena rena nophi kealo miona to thumela lopia mia sano`
@@ -131,13 +131,13 @@ For each relative clause, identify whether the gap is in subject position, objec
 2. `rena mia to theo shelu` — (the book that I read)
    Gap position: ?
 
-3. `rena mia shelira mua to thalo ruela` — (the path that I walked in the forest)
+3. `rena mia mua to thalo shelira` — (the forest that I walked in)
    Gap position: ?
 
 4. `rena phelora nai peloru` — (the flower that is beautiful)
    Gap position: ?
 
-5. `rena shia mia wei to haolu miona` — (the person to whom they spoke to me)
+5. `rena shia wei to haolu miona` — (the person to whom they spoke)
    Gap position: ?
 
 6. `rena thuroa shiro` — (the tree that grows)
@@ -146,7 +146,7 @@ For each relative clause, identify whether the gap is in subject position, objec
 7. `rena mia to nila womu` — (the home that I saw)
    Gap position: ?
 
-8. `rena shia lopia to thumela miona` — (the person who taught the child)
+8. `rena lopia to thumela miona` — (the person who taught the child)
    Gap position: ?
 
 ---
@@ -199,8 +199,8 @@ Write three sentences describing a place meaningful to you.
 
 Example:
 ```
-rena mia to thuroa shelira phelora nai.
-REL 1SG PST grow forest beautiful be.
+rena mia mua to thuroa shelira phelora nai.
+REL 1SG LOC PST grow forest beautiful be.
 (the forest where i grew up is beautiful.)
 ```
 
@@ -215,7 +215,7 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 
 ---
 
-## Answer Key
+## Answer key
 
 ### English to Phi
 
@@ -223,26 +223,26 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 2. `rena thuroa peloru phelora nai`
 3. `rena whalo nai shiro serao nai`
 4. `rena lothea phue nai`
-5. `rena shelira mua nai ruela laeno nai`
+5. `rena mua shelira nai ruela laeno nai`
 6. `mia rena thia to theo shelu nila`
 7. `rena shia to kealo nophi phelora nai`
 8. `wa thia rena mia lothea miona sano`
 9. `shia rena mia to loa peloru lothea`
 10. `rena lo mia to kealo womu ha nai`
 11. `rena lopia thumela miona phue nai`
-12. `mia rena thia mia wei to haolu nophi shelomui`
+12. `mia rena thia wei mia to haolu nophi shelomui`
 13. `rena mia to theo serao shelu phelora nai`
 14. `rena shea kealo shea howela`
-15. `rena toremoa nia nai womu phelora nai`
+15. `rena nia toremoa nai womu phelora nai`
 16. `mia rena rena nophi kealo miona to thumela lopia sano`
 17. `rena mena mia so shua meno sano miona ha nai`
 18. `wa thia rena mia to kealo nila`
-19. `rena mia to sheluo nophi mena shea shelira mua nai meno haolu`
-20. `rena rena shia sheluo shelomui phue nai`
+19. `rena mia to hea nophi mena shea mua shelira nai meno to haolu`
+20. `rena rena shia hea shelomui phue nai`
 
 ### Phi to English
 
-1. The person who arrived is my friend.
+1. The person who came is my friend.
 2. I read the story that you created.
 3. The flower that is beautiful grows.
 4. I know the person whom I saw.
@@ -257,24 +257,24 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 
 2. `rena mia to theo shelu serao nai`
 3. `mia rena shia to kealo nophi lothea`
-4. `rena shelira mua thuroa peloru phelora nai`
+4. `rena mua thepalu thuroa peloru phelora nai`
 5. `mia rena thia to thumela lopia sano`
 6. `rena shea kealo miona phue nai`
-7. `rena mia to nila womu toremoa nia nai`
+7. `rena mia to nila womu nia toremoa nai`
 8. `mia rena shia to haolu shelomui`
-9. `mia rena shelira mua nai ruela nia to thalo`
+9. `mia nia rena mua shelira nai ruela to thalo`
 10. `rena mia to naphe miona ha nai`
 
 ### Gap identification
 
 1. Subject (the person creates)
 2. Object (I read the book)
-3. Oblique/locative (I walked in the forest on the path)
+3. Oblique/locative (I walked in the forest; the stranded `mua` marks the gap)
 4. Subject (the flower is beautiful)
-5. Oblique/recipient (they spoke to me to the person)
+5. Oblique/recipient (they spoke to the person; the stranded `wei` marks the gap)
 6. Subject (the tree grows)
 7. Object (I saw the home)
-8. Subject (the person taught)
+8. Subject (the person taught the child)
 
 ### Error correction
 
@@ -283,6 +283,6 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 3. False closer → `rena mia to theo shelu phelora nai`
 4. Word order/structure → `mia rena to shua miona sano`
 5. `rena` at end → `mia rena mia to nila miona sano`
-6. Extra copula? → `rena phelora nai peloru thuroa` is actually correct
+6. The `mia` has no role in the clause; `phelora nai` takes no argument beyond the gap → `rena phelora nai peloru thuroa` ("the flower that is beautiful grows")
 7. Missing head → `rena shia nophi kealo miona phue nai`
 8. Missing head → `mia rena mia to naphe miona sano`
