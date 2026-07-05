@@ -129,6 +129,9 @@ def title_of(md):
     for line in md.splitlines():
         if line.startswith("# "):
             return re.sub(r"[*`]", "", line[2:]).strip()
+    for line in md.splitlines():
+        if line.startswith("## "):
+            return re.sub(r"[*`]", "", line[3:]).strip()
     return "untitled"
 
 NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <span class="here">primer</span> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
