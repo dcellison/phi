@@ -7,15 +7,15 @@ The remaining three discourse markers all refine what has already been said rath
 `shorela` signals that what follows restates the previous thought in different words. It is Phi's "in other words," "that is to say," "to put it another way."
 
 ```
-shiro lo phialu pilu. shorela shiro thuroa
-tree PL water take. REPH tree grow
-(the tree takes water. in other words the tree grows.)
+shiro lo phialu pilu. shorela shiro thuroa.
+tree PL water take. REPH tree grow.
+(The tree takes water. In other words the tree grows.)
 ```
 
 ```
-shia ma haolu. shorela shia maeli nai
-3SG NEG speak. REPH 3SG quiet be
-(they do not speak. in other words they are quiet.)
+shia ma haolu. shorela shia maeli nai.
+3SG NEG speak. REPH 3SG quiet be.
+(They do not speak. In other words they are quiet.)
 ```
 
 `shorela` doesn't introduce new information. It offers a second path to the same meaning, acknowledging that understanding sometimes requires multiple approaches. This is particularly useful when a speaker senses that their first formulation didn't land, or when a concept is complex enough to benefit from being seen from two angles.
@@ -25,15 +25,15 @@ shia ma haolu. shorela shia maeli nai
 `shekoi` signals that what follows narrows the preceding statement to a particular case or detail. It is Phi's "specifically," "in particular," "to be precise."
 
 ```
-mia lo shiro lothea. shekoi mia ha serao shiro lothea
-1SG PL tree love. SPEC 1SG PROX old tree love
-(i love trees. specifically i love this old tree.)
+mia lo shiro lothea. shekoi mia ha serao shiro lothea.
+1SG PL tree love. SPEC 1SG PROX old tree love.
+(I love trees. Specifically I love this old tree.)
 ```
 
 ```
-lo miona haolu. shekoi ne sa sulae haolu
-PL person speak. SPEC NAME HON.RESPECT sulae speak
-(the people speak. specifically honored sulae speaks.)
+lo miona haolu. shekoi ne sa sulae haolu.
+PL person speak. SPEC NAME HON.RESPECT sulae speak.
+(The people speak. Specifically honored sulae speaks.)
 ```
 
 Where `phisu` (for example) introduces one case among many possible illustrations, `shekoi` zooms in on *the* case that matters. "For example" says "here's one instance." "Specifically" says "here's the one I mean."
@@ -43,15 +43,15 @@ Where `phisu` (for example) introduces one case among many possible illustration
 `shelao` signals that what follows distills or concludes the preceding discussion. It is Phi's "in summary," "to conclude," "in short."
 
 ```
-sorae sulae nai. lo peloru thuroa. luphore phaelu nai. shelao shelira welao nai
-sun warm be. PL flower grow. river peaceful be. SUMM forest good be
-(the sun is warm. the flowers grow. the river is peaceful. in summary the forest is good.)
+sorae sulae nai. lo peloru thuroa. luphore phaelu nai. shelao shelira welao nai.
+sun warm be. PL flower grow. river peaceful be. SUMM forest good be.
+(The sun is warm. The flowers grow. The river is peaceful. In summary the forest is good.)
 ```
 
 ```
-mia to theo nela to shonela. shelao mia shelomui
-1SG PST read COORD PST learn. SUMM 1SG understand
-(i read and learned. in summary i understand.)
+mia to theo nela to shonela. shelao mia shelomui.
+1SG PST read COORD PST learn. SUMM 1SG understand.
+(I read and learned. In summary I understand.)
 ```
 
 `shelao` tells the listener to shift from gathering details to receiving a synthesis. Everything that came before is being condensed into a final statement. It's most useful after extended discussion, where the core point might otherwise get lost in the accumulation of supporting thoughts.

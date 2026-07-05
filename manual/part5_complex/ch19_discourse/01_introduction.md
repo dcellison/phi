@@ -11,15 +11,15 @@ All discourse markers occupy the same slot: after any Slot 0 particle but before
 The pattern is: `[Slot 0] [discourse marker] [subject] ... [verb]`
 
 ```
-mia shea phaelo. thelao mia thesua nai
-1SG peace feel. CONS 1SG mindful be
-(i feel peace. therefore i am mindful.)
+mia shea phaelo. thelao mia thesua nai.
+1SG peace feel. CONS 1SG mindful be.
+(I feel peace. Therefore I am mindful.)
 ```
 
 ```
-mia shea phaelo. kewai mia thesua ma nai
-1SG peace feel. CONTR 1SG mindful NEG be
-(i feel peace. however i am not mindful.)
+mia shea phaelo. kewai mia thesua ma nai.
+1SG peace feel. CONTR 1SG mindful NEG be.
+(I feel peace. However I am not mindful.)
 ```
 
 Notice the discourse marker comes before `mia` in the second sentence. The listener hears `thelao` or `kewai` and immediately knows whether the next thought will build on the previous one or push back against it. Context before content.

@@ -17,21 +17,21 @@ The rolling `r` connects; the grounding `na` anchors what follows. `rena` opens 
 Everything between `rena` and the noun is the description. The noun arrives last, receiving all the preceding information. Here are complete sentences using relative clauses:
 
 ```
-rena nophi kealo miona phue nai
-REL story create person wise be
-(the person who creates stories is wise.)
+rena nophi kealo miona phue nai.
+REL story create person wise be.
+(The person who creates stories is wise.)
 ```
 
 ```
-mia rena mia to theo shelu lothea
-1SG REL 1SG PST read book love
-(i love the book that i read.)
+mia rena mia to theo shelu lothea.
+1SG REL 1SG PST read book love.
+(I love the book that I read.)
 ```
 
 ```
-rena mua shelira nai ruela phelora nai
-REL LOC forest be path beautiful be
-(the path that is in the forest is beautiful.)
+rena mua shelira nai ruela phelora nai.
+REL LOC forest be path beautiful be.
+(The path that is in the forest is beautiful.)
 ```
 
 ## No closer needed
@@ -45,17 +45,17 @@ This works because relative clauses are pre-nominal. The structure `[rena CLAUSE
 Notice that the head noun doesn't appear inside the relative clause. In "the book that i read," English has "book" outside and an implied gap where it would go inside ("i read ___"). Phi works the same way. Looking at the noun phrase structure (not a complete sentence):
 
 ```
-rena mia ___ to theo shelu
-REL 1SG [gap] PST read book
-"the book that i read" (noun phrase)
+rena mia ___ to theo shelu.
+REL 1SG [gap] PST read book.
+"the book that i read" (noun phrase).
 ```
 
 The position of the gap tells you the noun's role in the relative clause. Here, the gap is in object position (after subject, before verb), so the book is what was read.
 
 ```
-rena ___ nophi kealo miona
-REL [gap] story create person
-"the person who creates stories" (noun phrase)
+rena ___ nophi kealo miona.
+REL [gap] story create person.
+"the person who creates stories" (noun phrase).
 ```
 
 Here the gap is in subject position, so the person is the one who creates.

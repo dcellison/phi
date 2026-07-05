@@ -59,9 +59,9 @@ Phi allows speakers to omit the subject when it is clear from context. This is c
 Once a topic has been established, subsequent clauses can leave the subject position empty if the referent is obvious:
 
 ```
-shai shelira thiku nai phelora nai
-CONC forest small be beautiful be
-(although the forest is small, [it] is beautiful.)
+shai shelira thiku nai phelora nai.
+CONC forest small be beautiful be.
+(Although the forest is small, [it] is beautiful.)
 ```
 
 The second clause has no explicit subject. The forest, having just been mentioned, is understood to remain the topic.
@@ -69,7 +69,7 @@ The second clause has no explicit subject. The forest, having just been mentione
 ```
 mia shelu theo. shelomui.
 1SG book read. understand.
-(i read the book. [i] understand.)
+(I read the book. [I] understand.)
 ```
 
 The speaker continues as the understood subject without needing to repeat *mia*.
