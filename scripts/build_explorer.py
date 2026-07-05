@@ -71,7 +71,7 @@ landing = f"""<!doctype html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body class="landing">
-<nav class="topnav"><span class="here">kia</span><a href="explore.html">lexicon</a><a href="https://github.com/dcellison/phi/tree/main/primer">primer</a><a href="https://github.com/dcellison/phi/tree/main/manual">manual</a></nav>
+<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="https://github.com/dcellison/phi/tree/main/primer">primer</a> <span class="sep">&middot;</span> <a href="https://github.com/dcellison/phi/tree/main/manual">manual</a></nav>
 <main>
 {body}
 <p class="doorlink"><a href="explore.html">Enter the lexicon &rarr;</a></p>
