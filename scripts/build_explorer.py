@@ -418,6 +418,8 @@ PAMPHLETS = [
      "Three number-words, four group-words, four kinds of being — counting drilled to reflex, and then the harder skill: the honest about, where the sentence gets shorter as it gets truer."),
     ("naming", "How Phi names people",
      "A name is a word someone carries: ne the spoken capital, kona the raised hand, three honorifics that announce relationship rather than rank — and the family register, where a name at rest is proof of presence."),
+    ("metta_companion", "Reading lothea thole: a companion to the first text",
+     "The Metta Sutta walked verse by verse — one must, nineteen mays, and the verse where the wishing stops. The optative engine, the headless refrain, the three compounds read as observations, and the recitation the text was always for."),
 ]
 toc = ["<h1>The pamphlets</h1>",
        "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]
