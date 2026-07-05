@@ -14,24 +14,24 @@ Phi has two tense particles. The present is unmarked.
 
 The particle *to* places the action in the past: something that has already happened.
 
-**Mia to nila.** — I saw.  
-**Thia shea to loa.** — You gave peace.  
-**Shia womu to shua.** — They came home.
+**mia to nila.** — I saw.  
+**thia shea to loa.** — You gave peace.  
+**shia womu to shua.** — They came home.
 
 ### so: Future
 
 The particle *so* places the action in the future: something that will or might happen.
 
-**Mia so nila.** — I will see.  
-**Thia so naphe.** — You will help.  
-**Shea so shua.** — Peace will come.
+**mia so nila.** — I will see.  
+**thia so naphe.** — You will help.  
+**shea so shua.** — Peace will come.
 
 ### Present (unmarked)
 
 Without a tense particle, the action is understood as present:
 
-**Mia nila.** — I see.  
-**Thia naphe.** — You help.
+**mia nila.** — I see.  
+**thia naphe.** — You help.
 
 ## Aspect
 
@@ -41,36 +41,36 @@ Aspect particles describe the internal structure of the action: whether it's ong
 
 The perfective *ki* marks an action as completed with present relevance, similar to English "have done."
 
-**Mia to ki nila.** — I have seen.  
-**Thia ki shonela.** — You have learned.
+**mia to ki nila.** — I have seen.  
+**thia ki shonela.** — You have learned.
 
 ### si: Imperfective
 
 The imperfective *si* marks an action as ongoing, habitual, or in progress.
 
-**Mia si shonela.** — I am learning. / I habitually learn.  
-**Shia si thalo.** — They are walking.
+**mia si shonela.** — I am learning. / I habitually learn.  
+**shia si thalo.** — They are walking.
 
 ### pa: Inchoative
 
 The inchoative *pa* marks the beginning of an action.
 
-**Mia pa shonela.** — I begin to learn.  
-**Shia pa thuroa.** — They start to grow.
+**mia pa shonela.** — I begin to learn.  
+**shia pa thuroa.** — They start to grow.
 
 ### ro: Habitual
 
 The habitual *ro* marks actions that occur repeatedly or habitually.
 
-**Mia ro shonela.** — I learn (habitually). / I study regularly.  
-**Shia ro thalo.** — They walk (regularly).
+**mia ro shonela.** — I learn (habitually). / I study regularly.  
+**shia ro thalo.** — They walk (regularly).
 
 ### te: Cessative
 
 The cessative *te* marks the ending of an action.
 
-**Mia te shonela.** — I stop learning.  
-**Shea te shua.** — Peace ceases to come.
+**mia te shonela.** — I stop learning.  
+**shea te shua.** — Peace ceases to come.
 
 ## Voice
 
@@ -94,25 +94,25 @@ Evidentiality particles mark how the speaker knows what they're claiming. They m
 
 The speaker witnessed the event with their own senses. This is the default; *hi* is optional unless emphasis is needed.
 
-**Mia hi nila.** — I see (I directly witness this).
+**mia hi nila.** — I see (I directly witness this).
 
 ### ke: Inferential evidence
 
 The speaker deduced the information from evidence rather than witnessing it directly.
 
-**Shia to ke wepu.** — They left (I infer from evidence).
+**shia to ke wepu.** — They left (I infer from evidence).
 
 ### ti: Reportative evidence
 
 The speaker received the information from another source.
 
-**Lo miona ti naphe.** — People helped (I was told).
+**lo miona ti naphe.** — People helped (I was told).
 
 ### ho: Assumptive evidence
 
 The speaker is assuming or supposing rather than knowing with certainty.
 
-**Thia ho shea nai.** — You are at peace (I assume).
+**thia ho shea nai.** — You are at peace (I assume).
 
 ## Modality
 
@@ -122,15 +122,15 @@ Modality particles express possibility, necessity, and causation.
 
 The particle *po* marks an action as possible or expresses the subject's ability.
 
-**Mia po shonela.** — I can learn.  
-**Shea po shua.** — Peace may come.
+**mia po shonela.** — I can learn.  
+**shea po shua.** — Peace may come.
 
 ### na: Necessity
 
 The particle *na* marks an action as necessary or obligatory.
 
-**Mia na naphe.** — I must help.  
-**Thia na shonela.** — You need to learn.
+**mia na naphe.** — I must help.  
+**thia na shonela.** — You need to learn.
 
 ### ka: Causative
 
@@ -148,9 +148,9 @@ The causative *ka* indicates that the subject causes someone else to perform the
 
 The negation particle *ma* negates the verb. It appears after all other Slot 1 particles.
 
-**Mia ma nila.** — I do not see.  
-**Thia to ma shua.** — You did not come.  
-**Shia so po ma naphe.** — They will not be able to help.
+**mia ma nila.** — I do not see.  
+**thia to ma shua.** — You did not come.  
+**shia so po ma naphe.** — They will not be able to help.
 
 Negation in Phi is gentle. The particle *ma* simply marks absence rather than forceful denial.
 
@@ -158,7 +158,7 @@ Negation in Phi is gentle. The particle *ma* simply marks absence rather than fo
 
 When multiple Slot 1 particles appear, they combine in order:
 
-**Mia to si ke po ma nila.**  
+**mia to si ke po ma nila.**  
 *1SG PST IPFV INFER POT NEG see*  
 "I was not being able to see (I infer)."
 

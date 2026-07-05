@@ -4,9 +4,9 @@ The particle *ti* marks information as received from another source. The speaker
 
 ## Basic usage
 
-**Shia to ti wepu.** — They left. (I was told.)  
-**Lo miona ti naphe.** — People helped. (I heard.)  
-**Ha shelira ti phelora nai.** — This forest is beautiful. (so I'm told.)
+**shia to ti wepu.** — They left. (I was told.)  
+**lo miona ti naphe.** — People helped. (I heard.)  
+**ha shelira ti phelora nai.** — This forest is beautiful. (so I'm told.)
 
 With *ti*, the speaker signals that they're reporting information from an external source rather than personal experience or inference.
 
@@ -25,11 +25,11 @@ The common thread is that the information came from outside the speaker's direct
 
 The reportative *ti* marks knowledge source. It says "someone told me" without quoting their exact words.
 
-**Shia to ti wepu.** — They left (I was told).
+**shia to ti wepu.** — They left (I was told).
 
 For direct quotation, use the quotative complementizer *shola*:
 
-**Melu shola "mia wepu" haolu.** — The friend said "I'm leaving."
+**melu shola "mia wepu" haolu.** — The friend said "I'm leaving."
 
 The first reports the content; the second quotes the words. Both involve information from others, but they do different grammatical work.
 
@@ -47,7 +47,7 @@ This honesty serves communication. A listener who hears *ti* knows not to ask "H
 
 Not every secondhand claim needs to be marked. For general knowledge or well-established facts, evidential marking may be unnecessary:
 
-**Sorae ru whalo nai.** — The sun is very large.
+**sorae ru whalo nai.** — The sun is very large.
 
 This is technically something you learned from others (unless you measured it yourself), but marking it with *ti* would be odd. Use *ti* for information where the secondhand nature matters.
 

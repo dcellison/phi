@@ -13,7 +13,7 @@ Consider English:
 
 In Phi, both could simply be:
 
-**Mia melu nila.**  
+**mia melu nila.**  
 *1SG friend see*  
 "I see/saw (a/the) friend."
 
@@ -33,11 +33,11 @@ A language built on trust must also provide tools for precision when that trust 
 
 These Slot 2 particles function as the language's primary determiners, answering the question "Which one?"
 
-**Ha shelu**  
+**ha shelu**  
 *this book*  
 The book near the speaker, or the one just mentioned.
 
-**Ra shelu**  
+**ra shelu**  
 *that book*  
 The book further away, or one from earlier context.
 

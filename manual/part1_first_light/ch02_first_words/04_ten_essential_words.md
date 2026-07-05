@@ -20,7 +20,7 @@ The one addressed. The *th* requires careful articulation: the same care we owe 
 
 **nai** (be, is, am)  
 */ˈna.i/*, *nah-ee*  
-Existence, identity, presence. *Mia melu nai* (I am a friend).
+Existence, identity, presence. *mia melu nai* (I am a friend).
 
 **lothea** (love)  
 */lo.ˈθe.a/*, *lo-thay-ah*  
@@ -64,17 +64,17 @@ Universal greeting. The *k* makes gentle contact; the *ia* opens in welcome. Use
 
 With these ten words, you can already form meaningful phrases:
 
-**Kia, melu!** (Hello, friend!)
+**kia. melu.** (Hello, friend!)
 
-**Mia thia sano.** (I know you.)
+**mia thia sano.** (I know you.)
 
-**Thia melu nai.** (You are a friend.)
+**thia melu nai.** (You are a friend.)
 
-**Mia shea loa.** (I give peace.)
+**mia shea loa.** (I give peace.)
 
-**Mia womu lothea.** (I love home.)
+**mia womu lothea.** (I love home.)
 
-**Thia wei mia shea loa.** (You give peace to me. *wei* marks the receiver; you will meet it properly in Part IV.)
+**thia wei mia shea loa.** (You give peace to me. *wei* marks the receiver; you will meet it properly in Part IV.)
 
 Notice the pattern: Subject, then object (if any), then verb. Once you internalize this order, building sentences becomes intuitive.
 

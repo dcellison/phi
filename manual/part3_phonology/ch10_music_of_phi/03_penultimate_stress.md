@@ -9,9 +9,9 @@ Phi uses **penultimate stress**, meaning the second-to-last syllable receives em
 | `shea` | SHE.a | **SHE**-a |
 | `shiro` | SHI.ro | **SHI**-ro |
 | `lothea` | lo.THE.a | lo-**THE**-a |
-| `lumani` | lu.MA.ni | lu-**MA**-ni |
-| `shelomui` | she.lo.MU.i | she-lo-**MU**-i |
-| `phelora` | phe.LO.ra | phe-**LO**-ra |
+| `lumani` | lu.ma.ni | lu-**ma**-ni |
+| `shelomui` | she.lo.mu.i | she-lo-**mu**-i |
+| `phelora` | phe.lo.ra | phe-**lo**-ra |
 
 In IPA transcription, stress is marked with /ˈ/ before the stressed syllable:
 - `shea` /ˈʃe̞.ä/
@@ -45,11 +45,11 @@ For two-syllable words, stress the first syllable:
 
 For three-syllable words, stress the second syllable:
 - `lothea` → lo-**THE**-a
-- `lumani` → lu-**MA**-ni
-- `thomari` → tho-**MA**-ri
+- `lumani` → lu-**ma**-ni
+- `thomari` → tho-**ma**-ri
 
 For four-syllable words, stress the third syllable:
-- `shelomui` → she-lo-**MU**-i
+- `shelomui` → she-lo-**mu**-i
 
 ## What stress sounds like
 
@@ -73,6 +73,6 @@ Read these phrases aloud, applying penultimate stress:
 
 - `shea` (peace) → **SHE**-a
 - `mia thia lothea` (I love you) → **MI**-a **THI**-a lo-**THE**-a  
-- `phelora shiro` (a beautiful tree) → phe-**LO**-ra **SHI**-ro
+- `phelora shiro` (a beautiful tree) → phe-**lo**-ra **SHI**-ro
 
 Feel the rhythm emerge. The regular stress pattern gives Phi its musical quality, a gentle pulse that carries meaning forward.

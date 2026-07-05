@@ -8,10 +8,10 @@ Many conflicts arise from competing claims presented as certainties. "This is wh
 
 Evidentiality changes this dynamic. When speakers mark their knowledge source, they implicitly acknowledge the limits of their perspective:
 
-**Mia hi nila.** — I saw it. (But you might have seen something different.)  
-**Mia ke sano.** — I believe I understand. (But I'm reasoning from evidence, not certainty.)  
-**Mia ti haolu.** — I heard this. (But reports can be wrong.)  
-**Mia ho sano.** — I assume this is true. (But I'm not sure.)
+**mia hi nila.** — I saw it. (But you might have seen something different.)  
+**mia ke sano.** — I believe I understand. (But I'm reasoning from evidence, not certainty.)  
+**mia ti haolu.** — I heard this. (But reports can be wrong.)  
+**mia ho sano.** — I assume this is true. (But I'm not sure.)
 
 Each evidential creates space for other perspectives without requiring the speaker to abandon their own. The grammar enables epistemic coexistence.
 

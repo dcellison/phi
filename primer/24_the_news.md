@@ -16,8 +16,8 @@
 
 ## II
 
-> **thala shua.**
-> thala: **suliwa ti nai. mako mia shane.**
+> **sulae shua.**
+> sulae: **suliwa ti nai. siora mia shane.**
 > **wheo kau phitura thalo. wheo muila nila.**
 > wheo: **suliwa ke nai. mia suliwa ma nila. mia ruela mua muila nila.**
 
@@ -26,7 +26,7 @@
 | ti | ti | (someone told me) |
 | ke | ke | (I infer it) |
 
-*Thala knows by telling —* ti *— because Mako ran ahead with the news. The elder walks to the well, sees no snake, sees the winding trail in the earth, and says* ke: *inferred, from evidence. Three people, one snake, three kinds of knowing — and each sentence wears its kind honestly.*
+*sulae knows by telling —* ti *— because siora ran ahead with the news. The elder walks to the well, sees no snake, sees the winding trail in the earth, and says* ke: *inferred, from evidence. Three people, one snake, three kinds of knowing — and each sentence wears its kind honestly.*
 
 ## III
 
@@ -44,14 +44,14 @@
 ## IV
 
 > **shero shua. lopia nophi shane.**
-> lopia: **mia suliwa hi nila. thala ti sano. wheo ke sano. phao ho sano.**
+> lopia: **mia suliwa hi nila. sulae ti sano. wheo ke sano. phao ho sano.**
 > wheo: **lia. theula miona shewo haolu.**
 
 | new word | say it | it means |
 |---|---|---|
 | shewo | she · wo | true |
 
-*The child retells the day as a study in knowing: I saw; Thala was told; the elder inferred; the parent assumed. And the elder's blessing on it: everyone spoke truly. Not everyone knew the same way — that is the point — but every sentence carried its own evidence, and so all of them were honest. This is what the four particles are for. Phi does not ask you to be certain. It asks you to be exact about how you are not.*
+*The child retells the day as a study in knowing: I saw; sulae was told; the elder inferred; the parent assumed. And the elder's blessing on it: everyone spoke truly. Not everyone knew the same way — that is the point — but every sentence carried its own evidence, and so all of them were honest. This is what the four particles are for. Phi does not ask you to be certain. It asks you to be exact about how you are not.*
 
 ---
 

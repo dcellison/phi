@@ -149,8 +149,6 @@ def canonical_dump(data):
 
 # Tokens that legitimately appear in examples without being lexicon words.
 WHITELIST = {
-    # proper names used after the name particle `ne`
-    "thala", "thanie", "hino", "mako", "phenu",
     # deliberate error form shown in the pamphlets
     "reno",
     # foreign-language contrast examples
@@ -485,7 +483,8 @@ def check_docs(lexicon_words, paths=None):
                 in_fence = not in_fence
                 continue
             if in_fence:
-                candidates = [(line, False)]
+                # dialogue speaker labels (A:, B:) are apparatus, not Phi
+                candidates = [(re.sub(r"^\s*[A-Za-z]:\s+", "", line), False)]
             else:
                 # Outside fences, Phi appears as *italic* spans (prose,
                 # tables, blockquotes). Single-token spans are skipped by
@@ -493,16 +492,21 @@ def check_docs(lexicon_words, paths=None):
                 # sweeps use grep directly, so that limitation is covered.
                 candidates = [(c, True) for c in re.findall(r"\*([^*\n]+)\*", line)]
             for cand, strict in candidates:
-                if not is_phi_line(cand, lexicon_words, strict=strict):
+                # detection is case-blind so capitalized Phi cannot hide
+                if not is_phi_line(cand.lower(), lexicon_words, strict=strict):
                     continue
+                for tok in cand.split():
+                    core = tok.strip(".,;:!?\"'()*")
+                    if core and core != core.lower() and core.lower() in lexicon_words:
+                        errors.append(f"{rel}:{lineno}: capital letter in Phi text: '{core}' (Phi has no capitals; ne announces a name)")
                 # periods only in Phi text: '?' is checked everywhere; ','
                 # only on fenced lines (prose cites Phi words inside English
                 # sentences whose commas are English), with parenthetical
                 # annotations stripped first
                 bare = re.sub(r"\([^)]*\)", "", cand)
-                if "?" in bare or (not strict and "," in bare):
+                if "?" in bare or "!" in bare or ";" in bare or (not strict and "," in bare):
                     errors.append(f"{rel}:{lineno}: punctuation in Phi text: periods only (no commas or question marks)")
-                for tok in phi_tokens(cand):
+                for tok in phi_tokens(cand.lower()):
                     if tok in lexicon_words or tok in WHITELIST:
                         continue
                     errors.append(f"{rel}:{lineno}: unknown Phi word '{tok}'")

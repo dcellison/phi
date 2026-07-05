@@ -30,7 +30,7 @@ The plural particle appears when:
 
 **Plurality is not otherwise clear.** If no quantifier or number is present, `lo` can clarify that multiple entities are meant.
 
-**Mia lo melu nila.**  
+**mia lo melu nila.**  
 *I PL friend see*  
 "I see friends." (more than one, unspecified)
 

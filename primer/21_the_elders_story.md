@@ -17,15 +17,15 @@
 ## II
 
 > wheo: **mia to lopia nai.**
-> wheo: **ne Phenu mia wheo to nai.**
+> wheo: **ne thinoe mia wheo to nai.**
 > wheo: **thepalu thiku to nai. mawha shiro. mawha peloru. muila sonu.**
 
-*When I was a child — and every head settles in; this will not be brief — my elder was Phenu, and this garden was small: no trees, no flowers, the earth alone. Past-marked being, mawha, and grammar you have owned for weeks, doing memory's work.*
+*When I was a child — and every head settles in; this will not be brief — my elder was thinoe, and this garden was small: no trees, no flowers, the earth alone. Past-marked being, mawha, and grammar you have owned for weeks, doing memory's work.*
 
 ## III
 
-> wheo: **ne Phenu shola no thinoe wei muila loa. no phialu wei muila loa. muila theula howela sholo to haolu.**
-> **lopia sheluo. mako sheluo. theula miona sheluo.**
+> wheo: **ne thinoe shola no thinoe wei muila loa. no phialu wei muila loa. muila theula howela sholo to haolu.**
+> **lopia sheluo. siora sheluo. theula miona sheluo.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -33,15 +33,15 @@
 | sholo | sho · lo | (closes them) |
 | sheluo | she · lu · o | listen |
 
-*Inside the brackets, Phenu speaks in her own voice: give seeds to the earth; give water to the earth; the earth receives all. The commands are still commands —* no *survives inside the quotation, because* shola … sholo *changes nothing it carries. Around the brackets, the elder's own frame:* to haolu, *said, long ago. And everyone listens —* sheluo, *hearing with the whole person turned toward the sound.*
+*Inside the brackets, thinoe speaks in her own voice: give seeds to the earth; give water to the earth; the earth receives all. The commands are still commands —* no *survives inside the quotation, because* shola … sholo *changes nothing it carries. Around the brackets, the elder's own frame:* to haolu, *said, long ago. And everyone listens —* sheluo, *hearing with the whole person turned toward the sound.*
 
 ## IV
 
-> lopia: **wa ne Phenu welao miona to nai.**
+> lopia: **wa ne thinoe welao miona to nai.**
 > wheo: **lia. mia shola muila theula howela sholo ro remo.**
 > **shero shua. lo mia nulae.**
 
-*Was Phenu good? Yes — and the elder still thinks her words over, habitually,* ro remo: *the quotation carried forward like a seed, planted in a new season every time it is spoken. That is what quotation is for, in the end. It is how a household outlives its members. This garden, with its trees and its flowers, is Phenu's sentence, still being said.*
+*Was thinoe good? Yes — and the elder still thinks her words over, habitually,* ro remo: *the quotation carried forward like a seed, planted in a new season every time it is spoken. That is what quotation is for, in the end. It is how a household outlives its members. This garden, with its trees and its flowers, is thinoe's sentence, still being said.*
 
 ---
 

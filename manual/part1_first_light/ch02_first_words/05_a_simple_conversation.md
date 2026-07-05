@@ -29,19 +29,19 @@ Now let's put your first words together in a natural exchange. Two people meet a
 
 ## Breaking it down
 
-**Kia!** — The universal greeting. Simple, warm, complete on its own.
+**kia.** — The universal greeting. Simple, warm, complete on its own.
 
-**Thia melu nai.** — You are a friend. Literally: you friend are. The predicate comes before the verb, just like objects do.
+**thia melu nai.** — You are a friend. Literally: you friend are. The predicate comes before the verb, just like objects do.
 
-**Mia thia sano.** — I know you. Subject (*mia*), object (*thia*), verb (*sano*).
+**mia thia sano.** — I know you. Subject (*mia*), object (*thia*), verb (*sano*).
 
-**Wa thia shea nai?** — Are you at peace? The question particle *wa* transforms the statement into a question. Literally: Q you peace be?
+**wa thia shea nai.** — Are you at peace? The question particle *wa* transforms the statement into a question. Literally: Q you peace be?
 
-**Mia shea nai.** — I am at peace. Or: I am peaceful. *Shea* works as both noun and adjective.
+**mia shea nai.** — I am at peace. Or: I am peaceful. *Shea* works as both noun and adjective.
 
-**Mia womu lothea.** — I love home. A simple statement of belonging.
+**mia womu lothea.** — I love home. A simple statement of belonging.
 
-**Kona melu. Mia thia lothea.** — Friend — I love you. *Kona* is the calling word: it announces that someone is being addressed before the address arrives. It stands outside the sentence it introduces.
+**kona melu. mia thia lothea.** — Friend — I love you. *kona* is the calling word: it announces that someone is being addressed before the address arrives. It stands outside the sentence it introduces.
 
 ## Practice
 
@@ -49,7 +49,7 @@ Read the conversation again. This time, pause between each phrase and feel the w
 
 Then cover the translations and see how much you understand from the Phi alone.
 
-Finally, modify it. What if you wanted to ask "Do you love home?" You would say: *Wa thia womu lothea?* What if you wanted to say "You know me"? Simply: *Thia mia sano.*
+Finally, modify it. What if you wanted to ask "Do you love home?" You would say: *wa thia womu lothea.* What if you wanted to say "You know me"? Simply: *thia mia sano.*
 
 You now have the tools for basic conversation. The rest is vocabulary and elaboration, but the foundation is here: greetings, being, knowing, loving, giving, and the simple question that opens dialogue.
 

@@ -7,8 +7,8 @@ The instruments of the last four sections combine into a small number of recogni
 The warmest complete greeting in Phi is the one from the language guide: `mia thia lothea` — *I love you / I greet you with love*. Scale it with the tools you now have:
 
 - A friend, in passing: `kona melu.` (nothing more is needed)
-- A friend, with warmth: `kona ni hino. wa thia towe nai.`
-- An elder or mentor: `kona ne sa thala. pi wa thia towe nai.`
+- A friend, with warmth: `kona ni moli. wa thia towe nai.`
+- An elder or mentor: `kona ne sa sulae. pi wa thia towe nai.`
 - A gathering: `kona sila. su theula towe nai.` (Community — may all be well.)
 
 ## Asking for something
@@ -44,9 +44,9 @@ Naming your own uncertainty (`ho`) does the work that softening phrases do in En
 `phamo` (console) names the act; the grammar shapes it. Sit beside the feeling without correcting it, use `ni` if you have earned it, and let the optative carry what cannot be promised:
 
 ```
-kona ni hino. thia nuhemi. mia ha nai.
-VOC HON.INTIM Hino. 2SG grieve. 1SG PROX be.
-(Dear Hino. You grieve. I am here.)
+kona ni moli. thia nuhemi. mia ha nai.
+VOC HON.INTIM moli. 2SG grieve. 1SG PROX be.
+(Dear moli. You grieve. I am here.)
 
 su shea wei thia shua.
 OPT peace DAT 2SG come.

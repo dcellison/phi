@@ -10,9 +10,9 @@ The proximal particle *ha* marks something as near the speaker, either physicall
 **ha melu** — this friend (near me)  
 **ha philo** — this day (the present day)
 
-**Mia ha nai.** — I am here.  
-**Ha shiro phelora nai.** — This tree is beautiful.  
-**Thia ha womu sano?** — Do you know this home?
+**mia ha nai.** — I am here.  
+**ha shiro phelora nai.** — This tree is beautiful.  
+**wa thia ha womu sano.** — Do you know this home?
 
 ## ra: there / that (distal)
 
@@ -22,16 +22,16 @@ The distal particle *ra* marks something as far from the speaker.
 **ra melu** — that friend (over there)  
 **ra toremoa** — that mountain (in the distance)
 
-**Shia ra nai.** — They are there.  
-**Ra shiro ru whalo nai.** — That tree is very large.  
-**Wa thia ra womu sano?** — Do you know that home?
+**shia ra nai.** — They are there.  
+**ra shiro ru whalo nai.** — That tree is very large.  
+**wa thia ra womu sano.** — Do you know that home?
 
 ## Using ha and ra
 
 As noun modifiers, *ha* and *ra* appear directly before the noun they modify:
 
-**Mia ha peloru lothea.** — I love this flower.  
-**Mia ra peloru lothea.** — I love that flower.
+**mia ha peloru lothea.** — I love this flower.  
+**mia ra peloru lothea.** — I love that flower.
 
 They can combine with other Slot 2 particles:
 

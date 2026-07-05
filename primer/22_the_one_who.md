@@ -5,7 +5,7 @@
 ## I
 
 > lopia: **rena sulopa ro whea miona.**
-> mako: **phao.**
+> siora: **phao.**
 > lopia: **lia.**
 
 | new word | say it | it means |
@@ -16,9 +16,9 @@
 
 ## II
 
-> mako: **rena mua luphore ro wishe nolika.**
+> siora: **rena mua luphore ro wishe nolika.**
 > lopia: **lohau.**
-> mako: **rena theula thimu nulae nolika.**
+> siora: **rena theula thimu nulae nolika.**
 > lopia: **misheko. misheko. misheko.**
 
 *The animal who swims in the river; the animal who sleeps for all time. The second riddle is not a difficult riddle. The child answers it three times for the joy of it.*
@@ -26,20 +26,20 @@
 ## III
 
 > lopia: **rena lo nophi shane miona.**
-> mako: **wheo.**
-> mako: **rena thinoe wei muila to loa miona.**
-> lopia: **ne Phenu.**
+> siora: **wheo.**
+> siora: **rena thinoe wei muila to loa miona.**
+> lopia: **ne thinoe.**
 > **wheo sheluo. wheo siora phaelo.**
 
 | new word | say it | it means |
 |---|---|---|
 | siora | si · o · ra | joy |
 
-*The one who tells the stories: the elder. Then the visiting child reaches back a whole chapter: the one who gave seeds to the earth — Phenu. The elder, listening from the doorway, feels joy — a word the household has been feeling all book and can finally say.*
+*The one who tells the stories: the elder. Then the visiting child reaches back a whole chapter: the one who gave seeds to the earth — thinoe. The elder, listening from the doorway, feels joy — a word the household has been feeling all book and can finally say.*
 
 ## IV
 
-> mako: **rena mia loamira to loa miona.**
+> siora: **rena mia loamira to loa miona.**
 > lopia: **mia.**
 > **lo lopia hola.**
 

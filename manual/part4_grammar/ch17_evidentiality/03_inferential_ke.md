@@ -4,9 +4,9 @@ The particle *ke* marks information as inferred from evidence rather than direct
 
 ## Basic usage
 
-**Shia to ke wepu.** — They left. (I infer from evidence.)  
-**Phialu to ke shua.** — Rain came. (I see the wet ground.)  
-**Thia ke shorui nai.** — You must be weary. (I can tell from how you look.)
+**shia to ke wepu.** — They left. (I infer from evidence.)  
+**phialu to ke shua.** — Rain came. (I see the wet ground.)  
+**thia ke shorui nai.** — You must be weary. (I can tell from how you look.)
 
 With *ke*, the speaker signals that they didn't witness the event directly but have deduced it from available evidence.
 
@@ -25,8 +25,8 @@ The speaker perceived *something*, but not the event itself. The particle *ke* m
 
 Compare:
 
-**Shia to hi wepu.** — They left. (I saw them go.)  
-**Shia to ke wepu.** — They left. (I infer they left.)
+**shia to hi wepu.** — They left. (I saw them go.)  
+**shia to ke wepu.** — They left. (I infer they left.)
 
 The first commits to witnessing the departure. The second only commits to evidence that leads to that conclusion. Perhaps the speaker returned to find the person gone, saw their coat missing, or noticed their car wasn't parked outside.
 
@@ -38,7 +38,7 @@ Using *ke* is an act of intellectual honesty. It says: "I believe this is true, 
 
 This honesty is valuable in contexts where certainty matters:
 
-**Shia to ke naphe.** — They helped (I infer).
+**shia to ke naphe.** — They helped (I infer).
 
 Perhaps the speaker sees the results of help but didn't witness the helping itself. Marking this with *ke* prevents overclaiming.
 

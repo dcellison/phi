@@ -4,15 +4,15 @@ The particle *hi* marks information as directly witnessed through the speaker's 
 
 ## Basic usage
 
-**Mia hi nila.** — I see (this). (I am directly witnessing it.)  
-**Shia to hi wepu.** — They left. (I saw them leave.)  
-**Peloru hi phelora nai.** — The flower is beautiful. (I see it myself.)
+**mia hi nila.** — I see (this). (I am directly witnessing it.)  
+**shia to hi wepu.** — They left. (I saw them leave.)  
+**peloru hi phelora nai.** — The flower is beautiful. (I see it myself.)
 
 The *hi* particle emphasizes that the speaker has firsthand sensory knowledge, not inference, report, or assumption.
 
 ## When to use *hi*
 
-Direct experience is the unmarked default in Phi. If you simply say *Mia nila* (I see), the assumption is that you're speaking from direct perception. So when is *hi* necessary?
+Direct experience is the unmarked default in Phi. If you simply say *mia nila* (I see), the assumption is that you're speaking from direct perception. So when is *hi* necessary?
 
 Use *hi* when:
 - You want to emphasize the directness of your knowledge
@@ -20,8 +20,8 @@ Use *hi* when:
 - Your claim might be doubted and you're vouching for it
 - You're being precise about how you know
 
-**Shia to wepu.** — They left. (simple past)  
-**Shia to hi wepu.** — They left. (I saw it happen.)
+**shia to wepu.** — They left. (simple past)  
+**shia to hi wepu.** — They left. (I saw it happen.)
 
 The second version explicitly commits to witnessing, which may matter in some contexts (testimony, dispute resolution, important news).
 

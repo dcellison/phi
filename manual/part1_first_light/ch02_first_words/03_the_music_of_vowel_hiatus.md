@@ -20,13 +20,13 @@ Third, it protects meaning. Because every vowel is its own syllable, words never
 
 Read these aloud, giving every vowel its full beat and keeping every border clean:
 
-**Phialu sorae nila.** — The water sees the sun.
+**phialu sorae nila.** — The water sees the sun.
 *fee-ah-loo so-rah-eh nee-lah*
 
-**Shea womu nai.** — Peace is home.
+**shea womu nai.** — Peace is home.
 *sheh-ah woh-moo nah-ee*
 
-**Mia phelora peloru nila.** — I see a beautiful flower.
+**mia phelora peloru nila.** — I see a beautiful flower.
 *mee-ah feh-loh-rah peh-loh-roo nee-lah*
 
 If you feel yourself wanting to hurry the vowel pairs together, that's your native language talking. Let each vowel finish. The technical rules arrive in Part III; for now, teach your mouth the walk.

@@ -53,7 +53,7 @@ Unlike Slot 1 particles which cluster before the verb, Slot 2 particles attach t
 
 A complete sentence might draw from all three slots:
 
-**Pi wa thia lo melu so nila.**  
+**pi wa thia lo melu so nila.**  
 *POL Q 2SG FUT PL friend see*  
 "Could you please see the friends?"
 
@@ -78,7 +78,7 @@ Many particles are optional. When absent, the sentence carries a default meaning
 
 This means the simplest sentences need no particles at all:
 
-**Mia thia nila.**  
+**mia thia nila.**  
 *1SG 2SG see*  
 "I see you." (present tense, direct knowledge, positive)
 

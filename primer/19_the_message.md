@@ -4,9 +4,9 @@
 
 ## I
 
-> **ne Mako kau womu shua.**
-> **mako shane.**
-> **mako mena ne Thala so shua meno shane.**
+> **ne siora kau womu shua.**
+> **siora shane.**
+> **siora mena ne sulae so shua meno shane.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -14,19 +14,19 @@
 | meno | me · no | (closes it) |
 | shane | sha · ne | tell |
 
-*Mako comes to the house and tells — tells that Thala will come. Read the long sentence slowly, watching the brackets:* mako … shane *is the frame, and inside it, whole and untouched, sits* ne Thala so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
+*siora comes to the house and tells — tells that sulae will come. Read the long sentence slowly, watching the brackets:* siora … shane *is the frame, and inside it, whole and untouched, sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
 
 ## II
 
-> **lopia mena ne Thala so shua meno sano.**
-> **phao mena ne Thala so shua meno we sano.**
+> **lopia mena ne sulae so shua meno sano.**
+> **phao mena ne sulae so shua meno we sano.**
 > **lopia mena lo mia sulopa so whea meno haolu.**
 
 | new word | say it | it means |
 |---|---|---|
 | haolu | ha · o · lu | speak, say |
 
-*Now the child knows that Thala will come; the parent also knows it; and the child says that we will make soup — the same embedded shape serving know, tell, and say alike. One pattern, every verb of the mind and mouth.*
+*Now the child knows that sulae will come; the parent also knows it; and the child says that we will make soup — the same embedded shape serving know, tell, and say alike. One pattern, every verb of the mind and mouth.*
 
 ## III
 
@@ -42,12 +42,12 @@
 
 ## IV
 
-> **ne Thala shua.**
-> thala: **kia. wa mako mena mia so shua meno to shane.**
-> phao: **lia. mako to shane. lo mia mena thia so shua meno to sano.**
-> thala: **welao nai.**
+> **ne sulae shua.**
+> sulae: **kia. wa siora mena mia so shua meno to shane.**
+> phao: **lia. siora to shane. lo mia mena thia so shua meno to sano.**
+> sulae: **welao nai.**
 
-*Did Mako tell you I would come? He told. We knew you would come — the embedded clause keeps its own little future even inside a past telling, because what Mako said pointed forward when he said it. Time inside the brackets belongs to the bracketed thought.*
+*Did siora tell you I would come? He told. We knew you would come — the embedded clause keeps its own little future even inside a past telling, because what siora said pointed forward when he said it. Time inside the brackets belongs to the bracketed thought.*
 
 ---
 
