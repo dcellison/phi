@@ -274,10 +274,11 @@
 | `weno` | when | When |
 | `wia` | which | How Many |
 
-## noun (378)
+## noun (379)
 
 | Word | Gloss | Concept |
 |---|---|---|
+| `haoluma` | language | Language |
 | `haoni` | voice | Voice |
 | `haowu` | air | Air |
 | `helia` | youth | Youth |
@@ -761,7 +762,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (291)
+## verb (292)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -1009,6 +1010,7 @@
 | `thinu` | put | Put |
 | `thiranu` | maintain | Maintain |
 | `thiru` | exit | Exit |
+| `thiwera` | scatter | Scatter |
 | `thola` | bring | Bring |
 | `thole` | practice | Practice |
 | `tholira` | forgive | Forgive |

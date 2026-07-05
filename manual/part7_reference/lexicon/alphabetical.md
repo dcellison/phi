@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*899 words.*
+*901 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -14,6 +14,7 @@
 | `halu` | aww | /ˈhä.lu/ | interjection |
 | `hao` | pardon | /ˈhä.o̞/ | interjection |
 | `haolu` | speak | /hä.ˈo̞.lu/ | verb |
+| `haoluma` | language | /hä.o̞.ˈlu.mä/ | noun |
 | `haoni` | voice | /hä.ˈo̞.n̪i/ | noun, verb |
 | `haowu` | air | /hä.ˈo̞.wu/ | noun |
 | `hasi` | wait | /ˈhä.si/ | verb |
@@ -761,6 +762,7 @@
 | `thiranu` | maintain | /θi.ˈrä.n̪u/ | verb |
 | `thiro` | serene | /ˈθi.ro̞/ | adjective |
 | `thiru` | exit | /ˈθi.ru/ | verb |
+| `thiwera` | scatter | /θi.ˈwe̞.rä/ | verb |
 | `thoa` | AMONG | /ˈθo̞.ä/ | preposition |
 | `thoepa` | sacred | /θo̞.ˈe̞.pä/ | adjective |
 | `thola` | bring | /ˈθo̞.lä/ | verb |
