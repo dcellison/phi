@@ -322,9 +322,9 @@ def texts_page(body, title):
 """
 
 TEXTS = [
-    ("metta_sutta", "The Metta Sutta", "The first text ever written in Phi: the loving-kindness meditation, rebuilt from the language's own concepts. Where the language's heart is."),
-    ("north_wind_and_sun", "The North Wind and the Sun", "Phi's first story: the fable told in a thousand languages to show what each sounds like. The primer's capstone sends its readers here."),
-    ("human_rights_article_one", "Article 1 of the Universal Declaration of Human Rights", "The most-translated document in history, in the language that needed no new words to say it \u2014 and no gendered ones to exclude with."),
+    ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text ever written in Phi: the Metta Sutta, the loving-kindness meditation, rebuilt from the language's own concepts. Where the language's heart is."),
+    ("north_wind_and_sun", "nitho howeli nela sorae \u2014 The North Wind and the Sun", "Phi's first story: the fable told in a thousand languages to show what each sounds like. The primer's capstone sends its readers here."),
+    ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "The most-translated document in history, in the language that needed no new words to say it \u2014 and no gendered ones to exclude with."),
     ("babel_text", "ta haoluma \u2014 the Babel text", "The conlang community's handshake, done the Phi way: the scattering as sowing, every language a garden \u2014 and the first time Phi names its own kind."),
     ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "The one entry on this shelf that is not a translation: what a language without domination vocabulary cannot say \u2014 and the hearth-poem that comes out when it tries."),
     ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "The historical linguists' test-text since 1868. Phi's telling keeps the sting and withholds one word: the master, who can only be described as the one who takes."),
