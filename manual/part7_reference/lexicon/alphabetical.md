@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*904 words.*
+*906 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -828,6 +828,7 @@
 | `tumeki` | root | /t̪u.ˈme̞.ki/ | noun, verb |
 | `tumoa` | heavy | /t̪u.ˈmo̞.ä/ | adjective |
 | `tupi` | jump | /ˈt̪u.pi/ | verb |
+| `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb |
 | `wa` | Q | /ˈwä/ | particle |
 | `waeli` | conscious | /wä.ˈe̞.li/ | adjective, noun |
@@ -893,6 +894,7 @@
 | `wiero` | imaginative | /wi.ˈe̞.ro̞/ | adjective |
 | `wilao` | long-for | /wi.ˈlä.o̞/ | verb |
 | `wile` | play | /ˈwi.le̞/ | verb |
+| `wilemo` | toy | /wi.ˈle̞.mo̞/ | noun |
 | `wipha` | restless | /ˈwi.ɸä/ | adjective |
 | `wira` | window | /ˈwi.rä/ | noun |
 | `wirae` | spring (season) | /wi.ˈrä.e̞/ | noun |

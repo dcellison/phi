@@ -274,7 +274,7 @@
 | `weno` | when | When |
 | `wia` | which | How Many |
 
-## noun (382)
+## noun (384)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -633,6 +633,7 @@
 | `towe` | well | Well |
 | `tulira` | tail | Tail |
 | `tumeki` | root | Root |
+| `tupiwa` | rabbit | Rabbit |
 | `waeli` | conscious | Conscious |
 | `waero` | sky | Sky |
 | `wapile` | wing | Wing |
@@ -652,6 +653,7 @@
 | `wheo` | elder | Elder |
 | `whila` | hair | Hair |
 | `whilaru` | comb | Comb |
+| `wilemo` | toy | Toy |
 | `wira` | window | Window |
 | `wirae` | spring (season) | Spring (Season) |
 | `wireo` | future | Future |

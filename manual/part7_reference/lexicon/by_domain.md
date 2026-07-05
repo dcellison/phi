@@ -281,7 +281,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (197)
+## community (198)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -477,6 +477,7 @@
 | `whoa` | whole | flourishing through inclusion and interdependence |
 | `whola` | invite | creates and strengthens bonds through inclusive gestures |
 | `wi` | two | the beginning of social connection, the first 'we' |
+| `wilemo` | toy | Made for a child's hands |
 | `woenu` | tame | Human-animal bond |
 | `wolu` | healthy | Well-functioning |
 | `womu` | home | the shelter of family and intimacy |
@@ -792,7 +793,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (200)
+## nature (201)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -978,6 +979,7 @@
 | `tuko` | sour | Fermentation quality |
 | `tulira` | tail | The creature's trailing end |
 | `tumeki` | root | Underground plant structure |
+| `tupiwa` | rabbit | The meadow's jumper |
 | `waero` | sky | Atmospheric expanse |
 | `waeshi` | wild | Untamed state |
 | `wapi` | fly | The motion of birds and wind-borne things |
@@ -997,7 +999,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (234)
+## physical (236)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1207,6 +1209,7 @@
 | `tulira` | tail | Anatomy past the body |
 | `tumoa` | heavy | Great weight |
 | `tupi` | jump | Leaving the ground |
+| `tupiwa` | rabbit | Softness at speed |
 | `wapho` | throw | The arm's arc and letting go |
 | `wapi` | fly | Lift and wingbeat |
 | `wapile` | wing | The bird's instrument |
@@ -1229,6 +1232,7 @@
 | `whinu` | smell | Olfactory perception |
 | `whoa` | whole | bodily and tangible completeness |
 | `whunei` | breath | Air cycle sustaining life |
+| `wilemo` | toy | The crafted companion |
 | `wipha` | restless | Excess energy |
 | `wirua` | wet | the state of moisture presence |
 | `wishe` | swim | Motion through water |
