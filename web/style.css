@@ -296,3 +296,27 @@ footer a { color: var(--sage); }
   overflow-x: auto;
   font-family: var(--ipa);
 }
+
+/* --- dark theme: the forest at night --- */
+html[data-theme="dark"] {
+  --paper: #232b24;
+  --paper-raised: #2a332b;
+  --ink: #e9e4d6;
+  --muted: #9aa294;
+  --sage: #a3b795;
+  --gold: #c9b078;
+  --hairline: #3a443a;
+}
+html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
+
+.themetoggle {
+  background: none;
+  border: none;
+  color: var(--sage);
+  font: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0 0 0 .4rem;
+  line-height: 1;
+}
+.themetoggle:hover { color: var(--ink); }
