@@ -420,7 +420,7 @@ ne keruko shua
 NAME keruko come
 (keruko comes.)
 ```
-**Note**: Required when no honorific is present. Optional when an honorific already signals that a name follows. Also used with place names and other proper nouns.
+**Note**: The default when no honorific is present — formal and neutral speech keep it at every mention, and the family register may let an established name rest bare (canon: *Names are made of Phi*). Optional when an honorific already signals that a name follows. Also used with place names and other proper nouns.
 
 ### Honorifics
 

@@ -27,7 +27,7 @@
 
 > lopia: **rena lo nophi shane miona.**
 > siora: **wheo.**
-> siora: **rena thinoe wei muila to loa miona.**
+> siora: **rena wei muila thinoe to loa miona.**
 > lopia: **ne thinoe.**
 > **wheo sheluo. wheo siora phaelo.**
 
