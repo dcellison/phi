@@ -132,7 +132,7 @@ More examples:
 
 ```
 rena ___ to shua miona ha nai
-REL [gap] PST come person here be
+REL [gap] PST come person PROX be
 (the person who came is here.)
 ```
 
@@ -191,7 +191,7 @@ More examples:
 
 ```
 rena shia wei ___ to haolu miona ha nai
-REL 3SG DAT [gap] PST speak person here be
+REL 3SG DAT [gap] PST speak person PROX be
 (the person whom they spoke to is here.)
 ```
 

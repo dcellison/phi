@@ -27,7 +27,7 @@ Each `mena` has its own `meno`. They nest like parentheses.
 
 ```
 shia mena mia mena thia mena melu to wepu meno sano meno nohero meno haolu
-3SG DECL.COMP 1SG DECL.COMP 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know DECL.COMP.CLOSE believe DECL.COMP.CLOSE say
+3SG DECL.COMP 1SG DECL.COMP 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know DECL.COMP.CLOSE believe DECL.COMP.CLOSE speak
 (They said that I believe that you know that the friend left.)
 ```
 
@@ -35,7 +35,7 @@ This is grammatically correct but approaches the limit of comfortable processing
 
 ```
 melu to wepu. thia mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno haolu
-friend PST go. 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE say
+friend PST go. 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE speak
 (The friend left. You know that the friend left. I believe that you know. They said that I believe.)
 ```
 
@@ -47,7 +47,7 @@ Wondering about wondering:
 
 ```
 mia wela thia wela shia so turema welo phaelo welo remo
-1SG INT.COMP 2SG INT.COMP 3SG FUT return INT.COMP.CLOSE wonder INT.COMP.CLOSE think
+1SG INT.COMP 2SG INT.COMP 3SG FUT return INT.COMP.CLOSE feel INT.COMP.CLOSE think
 (I'm thinking about whether you wonder whether they will return.)
 ```
 
@@ -61,7 +61,7 @@ Different complementizer types can nest within each other:
 
 ```
 mia wela thia mena shia to wepu meno sano welo phaelo
-1SG INT.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know INT.COMP.CLOSE wonder
+1SG INT.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know INT.COMP.CLOSE feel
 (I wonder whether you know that they left.)
 ```
 
@@ -78,7 +78,7 @@ The `mena`/`meno` pair is inside the `wela`/`welo` pair.
 
 ```
 mia mena thia wela shia to wepu welo phaelo meno sano
-1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder DECL.COMP.CLOSE know
+1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE feel DECL.COMP.CLOSE know
 (I know that you wonder whether they left.)
 ```
 
@@ -86,7 +86,7 @@ mia mena thia wela shia to wepu welo phaelo meno sano
 
 ```
 mia mena shia shola mia so turema sholo haolu meno shelomui
-1SG DECL.COMP 3SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say DECL.COMP.CLOSE understand
+1SG DECL.COMP 3SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE speak DECL.COMP.CLOSE understand
 (I understand that they said: "I will return.")
 ```
 
@@ -94,7 +94,7 @@ mia mena shia shola mia so turema sholo haolu meno shelomui
 
 ```
 shia shola mia mena thia towe nai meno sano sholo haolu
-3SG QUOT.COMP 1SG DECL.COMP 2SG well be DECL.COMP.CLOSE know QUOT.COMP.CLOSE say
+3SG QUOT.COMP 1SG DECL.COMP 2SG well be DECL.COMP.CLOSE know QUOT.COMP.CLOSE speak
 (They said: "I know that you are well.")
 ```
 
@@ -121,7 +121,7 @@ The head noun `miona` closes the relative clause and fills the gap inside the em
 
 ```
 rena thia wela towe nai welo phaelo miona
-REL 2SG INT.COMP well be INT.COMP.CLOSE wonder person
+REL 2SG INT.COMP well be INT.COMP.CLOSE feel person
 (the person about whom you wonder whether (they are) well)
 ```
 
@@ -129,7 +129,7 @@ REL 2SG INT.COMP well be INT.COMP.CLOSE wonder person
 
 ```
 rena shola mia so turema sholo haolu miona
-REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE say person
+REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE speak person
 (the person who said: "I will return")
 ```
 
@@ -156,7 +156,7 @@ The relative clause `rena nophi kealo` modifies `miona`, and the whole noun phra
 
 ```
 mia wela rena mia to nila shelu shewo nai welo phaelo
-1SG INT.COMP REL 1SG PST see book true be INT.COMP.CLOSE wonder
+1SG INT.COMP REL 1SG PST see book true be INT.COMP.CLOSE feel
 (I wonder whether the book that I saw is true.)
 ```
 
@@ -164,7 +164,7 @@ mia wela rena mia to nila shelu shewo nai welo phaelo
 
 ```
 shia shola rena mia kealo nophi phelora nai sholo haolu
-3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE say
+3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE speak
 (They said: "The story that I created is beautiful.")
 ```
 
@@ -220,7 +220,7 @@ For the ambitious learner, here are grammatically correct but demanding examples
 
 ```
 mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomui
-1SG DECL.COMP 2SG INT.COMP 3SG DECL.COMP friend FUT return DECL.COMP.CLOSE know INT.COMP.CLOSE wonder DECL.COMP.CLOSE understand
+1SG DECL.COMP 2SG INT.COMP 3SG DECL.COMP friend FUT return DECL.COMP.CLOSE know INT.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you wonder whether they know that the friend will return.)
 ```
 
@@ -236,7 +236,7 @@ REL 1SG DECL.COMP 2SG DECL.COMP well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE kno
 
 ```
 shia shola mia mena melu so turema meno nohero sholo haolu
-3SG QUOT.COMP 1SG DECL.COMP friend FUT return DECL.COMP.CLOSE believe QUOT.COMP.CLOSE say
+3SG QUOT.COMP 1SG DECL.COMP friend FUT return DECL.COMP.CLOSE believe QUOT.COMP.CLOSE speak
 (They said: "I believe that the friend will return.")
 ```
 

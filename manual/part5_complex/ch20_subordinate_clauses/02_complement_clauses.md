@@ -46,7 +46,7 @@ The interrogative complementizer pair `wela`/`welo` embeds a yes/no question as 
 
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (i wonder whether they left.)
 ```
 

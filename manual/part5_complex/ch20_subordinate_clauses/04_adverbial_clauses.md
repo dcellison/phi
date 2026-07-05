@@ -36,13 +36,13 @@ The preposition `tei` (until) marks the endpoint of an action or state:
 
 ```
 mia tei kelua sheluo
-1SG until morning listen
+1SG UNTIL morning listen
 (i listen until morning.)
 ```
 
 ```
 lo lopia tei howai wile
-PL child until evening play
+PL child UNTIL evening play
 (the children play until evening.)
 ```
 

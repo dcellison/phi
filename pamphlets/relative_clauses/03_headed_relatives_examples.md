@@ -28,7 +28,7 @@ REL PST come person 1SG friend be
 
 ```
 rena lopia thumela miona ha nai
-REL child teach person here be
+REL child teach person PROX be
 (the person who teaches children is here.)
 ```
 
@@ -146,7 +146,7 @@ mia rena shia wei lopia to loa peloru sano
 
 ```
 rena mia so theo shelu ha nai
-REL 1SG FUT read book here be
+REL 1SG FUT read book PROX be
 (the book that i will read is here.)
 ```
 
@@ -200,7 +200,7 @@ The preposition stays inside the clause; only its object is gapped. Hearing a pr
 
 ```
 rena mia wei to haolu miona ha nai
-REL 1SG DAT PST speak person here be
+REL 1SG DAT PST speak person PROX be
 (the person whom i spoke to is here.)
 ```
 
@@ -284,7 +284,7 @@ The relative clause + noun phrase follows a preposition in the main clause.
 
 ```
 mia nia rena mua shelira nai ruela thalo
-1SG on REL LOC forest be path walk
+1SG ON REL LOC forest be path walk
 (i walk on the path that is in the forest.)
 ```
 
@@ -360,6 +360,6 @@ REL LOC forest be path beautiful be.
 (the path that is in the forest is beautiful.)
 
 mia nia ha ruela to thalo. mua rena mia to nila womu to kamo.
-1SG on this path PST walk. LOC REL 1SG PST see home PST arrive.
+1SG ON PROX path PST walk. LOC REL 1SG PST see home PST arrive.
 (i walked on this path. [i] arrived at the home that i saw.)
 ```

@@ -228,7 +228,7 @@
 | `seru` | commit | Binding decision |
 | `shao` | three-group | Represents a fundamental cognitive grouping—the shift from individual counting to pattern recognition. 'Sha' embodies how the mind naturally chunks information into manageable groups. |
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
-| `sharoi` | exceeds | Announces magnitude relationship requiring mental comparison |
+| `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
 | `shelomui` | understand | Grasping meaning and significance |
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
@@ -1363,7 +1363,7 @@
 | `senao` | same | the relationship of equivalence |
 | `sepho` | send | Caused travel toward a recipient |
 | `shalo` | run | rapid movement through space, covering distance swiftly |
-| `sharoi` | exceeds | Frames relative position in numerical space—one quantity extends beyond another |
+| `sharoi` | exceed | Frames relative position in numerical space—one quantity extends beyond another |
 | `shoeka` | route | Course of travel |
 | `shomelu` | shadow | Where the light is interrupted |
 | `shorai` | commune | Collective dwelling |

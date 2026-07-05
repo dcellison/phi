@@ -16,7 +16,7 @@ The embedded question follows standard Phi word order. The main verb comes after
 
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
@@ -57,7 +57,7 @@ This is a real question, directed at the listener, expecting a response.
 
 ```
 mia wela thia wepu welo phaelo
-1SG INT.COMP 2SG go INT.COMP.CLOSE wonder
+1SG INT.COMP 2SG go INT.COMP.CLOSE feel
 (I wonder whether you are leaving.)
 ```
 
@@ -96,7 +96,7 @@ Interrogative embedding works with several categories of verbs:
 
 ```
 mia wela pheralu so shua welo phaelo
-1SG INT.COMP rain FUT come INT.COMP.CLOSE wonder
+1SG INT.COMP rain FUT come INT.COMP.CLOSE feel
 (I wonder whether rain will come.)
 ```
 
@@ -110,13 +110,13 @@ shia wela nophi shewo nai welo remo
 
 ```
 shia wela mia to nila welo to thilou
-3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST ask
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
 (They asked whether I had seen.)
 ```
 
 ```
 melu wela thia so turema welo to thilou
-friend INT.COMP 2SG FUT return INT.COMP.CLOSE PST ask
+friend INT.COMP 2SG FUT return INT.COMP.CLOSE PST inquire
 (The friend asked whether you will return.)
 ```
 
@@ -160,13 +160,13 @@ The embedded question can contain any tense or aspect marking:
 
 ```
 mia wela shia to kamo welo phaelo
-1SG INT.COMP 3SG PST arrive INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST arrive INT.COMP.CLOSE feel
 (I wonder whether they arrived.)
 ```
 
 ```
 shia wela melu to naphe welo to thilou
-3SG INT.COMP friend PST help INT.COMP.CLOSE PST ask
+3SG INT.COMP friend PST help INT.COMP.CLOSE PST inquire
 (They asked whether the friend had helped.)
 ```
 
@@ -206,7 +206,7 @@ Negation inside the embedded question:
 
 ```
 mia wela shia to ma wepu welo phaelo
-1SG INT.COMP 3SG PST NEG go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST NEG go INT.COMP.CLOSE feel
 (I wonder whether they did not leave.)
 ```
 
@@ -232,7 +232,7 @@ mia wela shia to ma wepu welo ma sano
 
 ```
 mia wela shia po shua welo phaelo
-1SG INT.COMP 3SG POT come INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG POT come INT.COMP.CLOSE feel
 (I wonder whether they might come.)
 ```
 
@@ -252,7 +252,7 @@ The embedded question can contain full clause structure:
 
 ```
 mia wela shia shelu kealo welo phaelo
-1SG INT.COMP 3SG book create INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG book create INT.COMP.CLOSE feel
 (I wonder whether they create books.)
 ```
 
@@ -274,7 +274,7 @@ mia wela shia wei melu shelu loa welo nila
 
 ```
 shia wela melu mua womu nai welo to thilou
-3SG INT.COMP friend LOC home be INT.COMP.CLOSE PST ask
+3SG INT.COMP friend LOC home be INT.COMP.CLOSE PST inquire
 (They asked whether the friend is at home.)
 ```
 
@@ -290,7 +290,7 @@ Q 2SG INT.COMP 3SG FUT return INT.COMP.CLOSE know
 
 ```
 wa shia wela mia towe nai welo to thilou
-Q 3SG INT.COMP 1SG well be INT.COMP.CLOSE PST ask
+Q 3SG INT.COMP 1SG well be INT.COMP.CLOSE PST inquire
 (Did they ask whether I am well?)
 ```
 
@@ -301,14 +301,14 @@ When the main clause subject is clear from context:
 **Full form:**
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
 **With topic-drop:**
 ```
 wela shia to wepu welo phaelo
-INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+INT.COMP 3SG PST go INT.COMP.CLOSE feel
 ((I) wonder whether they left.)
 ```
 
@@ -372,7 +372,7 @@ mia wela pheralu so shua welo ma sano
 
 ```
 mia wela pheralu so shua welo ma phaelo. sorae ha nai
-1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG feel. sun here be
+1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG feel. sun PROX be
 (I don't care whether rain will come. The sun is here.)
 ```
 
@@ -380,13 +380,13 @@ mia wela pheralu so shua welo ma phaelo. sorae ha nai
 
 ```
 shia wela thia so turema welo to thilou
-3SG INT.COMP 2SG FUT return INT.COMP.CLOSE PST ask
+3SG INT.COMP 2SG FUT return INT.COMP.CLOSE PST inquire
 (They asked whether you will return.)
 ```
 
 ```
 wa thia wela mia to shua welo to haolu
-Q 2SG INT.COMP 1SG PST come INT.COMP.CLOSE PST say
+Q 2SG INT.COMP 1SG PST come INT.COMP.CLOSE PST speak
 (Did you tell whether I had come?)
 ```
 
@@ -396,7 +396,7 @@ Q 2SG INT.COMP 1SG PST come INT.COMP.CLOSE PST say
 
 ```
 mia wela thia wela shia towe nai welo sano welo phaelo
-1SG INT.COMP 2SG INT.COMP 3SG well be INT.COMP.CLOSE know INT.COMP.CLOSE wonder
+1SG INT.COMP 2SG INT.COMP 3SG well be INT.COMP.CLOSE know INT.COMP.CLOSE feel
 (I wonder whether you know whether they are well.)
 ```
 
@@ -408,13 +408,13 @@ The examples above involve yes/no questions. Content questions (who, what, where
 
 ```
 mia sua to shua phaelo
-1SG who PST come wonder
+1SG who PST come feel
 (I wonder who came.)
 ```
 
 ```
 shia thia hina to nila to thilou
-3SG 2SG what PST see PST ask
+3SG 2SG what PST see PST inquire
 (They asked what you saw.)
 ```
 

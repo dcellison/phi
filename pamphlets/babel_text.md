@@ -14,7 +14,7 @@ UNIV earth one language PST hold.
 (The whole earth held one language.)
 
 lo miona lue sorae thorui to wepu.
-PL person from sun beginning PST go.
+PL person ABL sun beginning PST go.
 (The people journeyed from the east.)
 
 shia wemo to hekawi. shia mua wemo to soki.

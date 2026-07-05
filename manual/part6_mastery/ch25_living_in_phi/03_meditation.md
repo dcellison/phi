@@ -32,7 +32,7 @@ The language now possesses its own complete loving-kindness text: *lothea thole*
 
 ```
 su theula rena lima nai towe nai.
-OPT all REL alive be well be.
+OPT UNIV REL alive be well be.
 (May all that lives be well.)
 ```
 

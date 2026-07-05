@@ -72,7 +72,7 @@ Headless relatives are common in:
 
 ```
 phue nai rena theula lokue sano
-wise be REL all place know
+wise be REL UNIV place know
 (wisdom is knowing all places.)
 ```
 
@@ -88,7 +88,7 @@ REL help help receive
 
 ```
 wa rena ha kealo thia nai
-Q REL this create 2SG be
+Q REL PROX create 2SG be
 (are you the one who created this?)
 ```
 

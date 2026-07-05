@@ -27,11 +27,11 @@ night storm PST REP come.
 (In the night a storm came — so it is reported.)
 
 lau womu sholu ti ma nai.
-many home whole REP NEG be.
+twenty-seven-group home complete REP NEG be.
 (Many homes are not whole — so it is reported.)
 
 lo miona wei shurano to ti wepu.
-PL person DAT safety PST REP go.
+PL person DAT safe PST REP go.
 (The people went to safety — so it is reported.)
 
 sila lo womu shiroka.

@@ -105,7 +105,7 @@ mia mena shia to wepu meno shelomui
 **Says something else (quotation instead of content):**
 ```
 shia shola thia wepu sholo haolu
-3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE say
+3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE speak
 (They said: "You are leaving.")
 ```
 
@@ -114,7 +114,7 @@ This is grammatical — but it claims those were the exact words spoken.
 When you meant:
 ```
 shia mena thia wepu meno haolu
-3SG DECL.COMP 2SG go DECL.COMP.CLOSE say
+3SG DECL.COMP 2SG go DECL.COMP.CLOSE speak
 (They said that you are leaving.)
 ```
 
@@ -146,14 +146,14 @@ Q 2SG go
 **Wrong (using direct question for embedded question):**
 ```
 *mia wa shia wepu phaelo
-1SG Q 3SG go wonder
+1SG Q 3SG go feel
 (grammatically confused)
 ```
 
 When you meant:
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
@@ -201,7 +201,7 @@ COND 2SG go. 1SG NEG well feel
 **Right:**
 ```
 mia mena thia wela shia to wepu welo phaelo meno shelomui
-1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder DECL.COMP.CLOSE understand
+1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you wonder whether they left.)
 ```
 
@@ -240,13 +240,13 @@ mia mena shia towe nai meno sano
 **Wrong:**
 ```
 *mia wela wa shia wepu welo phaelo
-1SG INT.COMP Q 3SG go INT.COMP.CLOSE wonder
+1SG INT.COMP Q 3SG go INT.COMP.CLOSE feel
 ```
 
 **Right:**
 ```
 mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE wonder
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 

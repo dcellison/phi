@@ -44,7 +44,7 @@ The Metta Sutta transmutation adds one more instrument: the ablative `lue` (from
 
 ```
 su mawha miona lue korua thero wei shia peloma pula.
-OPT no person from heart fire DAT other harm wish.
+OPT NONE person ABL heart fire DAT 3SG harmful wish.
 (May no one, from the fire of the heart, wish harm upon another.)
 ```
 

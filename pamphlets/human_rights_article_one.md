@@ -16,7 +16,7 @@ UNIV person equal worth hold.
 (All people hold equal worth.)
 
 theula miona remo nela korua sano phelu.
-UNIV person thought COORD heart knowing hold.
+UNIV person think COORD heart know hold.
 (All people hold thought, and the heart's knowing.)
 
 theula miona phea lomea wiso na lothea.

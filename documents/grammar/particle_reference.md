@@ -57,7 +57,7 @@ COND 2SG help. 1SG well feel
 **Example**:
 ```
 lu he mia to naphe. shia to ma wepu
-COND IRR 1SG PST help. 3SG PST NEG leave
+COND IRR 1SG PST help. 3SG PST NEG go
 (If I had helped [but I didn't], ko would not have left.)
 ```
 
@@ -192,7 +192,7 @@ mia hi nila
 **Example**:
 ```
 shia to ke wepu
-3SG PST INFER leave
+3SG PST INFER go
 (She left [I infer from evidence].)
 ```
 
@@ -376,7 +376,7 @@ INTS good
 **Example**:
 ```
 thepalu sheo shelira mo phelora nai
-garden than forest CMPR beautiful be
+garden THAN forest CMPR beautiful be
 (The garden is more beautiful than the forest.)
 ```
 
@@ -478,7 +478,7 @@ mia hina shelomui
 (What do I understand?)
 
 thia weno wepu
-2SG when leave
+2SG when go
 (When do you leave?)
 ```
 
@@ -498,7 +498,7 @@ These announce how the current sentence relates to prior discourse. They appear 
 **Example**:
 ```
 mia lothea shelomui. kewai, shia ma shelomui.
-1SG love understand. however, 3SG NEG understand
+1SG love understand. CONTR, 3SG NEG understand
 (I understand love. However, ko does not understand.)
 ```
 
@@ -514,7 +514,7 @@ These announce relationships between equal elements (words, phrases, or clauses)
 
 **Examples**:
 ```
-mia kelu nela sila lothea
+mia shea nela sila lothea
 1SG peace COORD community love
 (I love peace and community.)
 

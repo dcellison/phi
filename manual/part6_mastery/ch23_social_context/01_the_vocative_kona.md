@@ -4,7 +4,7 @@ Every language needs a way to call someone — to open a channel before sending 
 
 ```
 kona melu. mia ha nai.
-VOC friend. 1SG here be.
+VOC friend. 1SG PROX be.
 (Friend — I am here.)
 ```
 

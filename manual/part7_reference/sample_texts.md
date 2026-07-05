@@ -93,6 +93,6 @@ moral: `moli puro sharoi` — gentleness exceeds strength. Read it in
 
 ```
 su theula rena lima nai towe nai.
-OPT all REL alive be well be.
+OPT UNIV REL alive be well be.
 (May all that lives be well.)
 ```

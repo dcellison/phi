@@ -22,7 +22,7 @@ one horse heavy wagon PST pull.
 (One horse pulled a heavy wagon.)
 
 ta kalora lo tumoa themo to kolua.
-one horse PL heavy thing PST carry.
+one horse PL heavy THING.CLF PST carry.
 (One carried a heavy load.)
 
 ta kalora miona reshi to kolua.

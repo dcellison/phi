@@ -22,7 +22,7 @@ thia shea ruela sano.
 (You know the path of peace.)
 
 no ha ruela thole. moli. theula philo.
-IMP PROX path practice. gently. all day.
+IMP PROX path practice. gentle. UNIV day.
 (Practice this path. Gently. Every day.)
 
 su thia thuroa. su sila thuroa. su lothea thuroa.
