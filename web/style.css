@@ -325,3 +325,20 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
   line-height: 1;
 }
 .themetoggle:hover { color: var(--ink); }
+
+/* ---- tengwar view (texts shelf) ---- */
+.tengtoggle {
+  background: none;
+  border: none;
+  color: var(--sage);
+  font: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0 0 0 .4rem;
+  line-height: 1;
+}
+.tengtoggle:hover { color: var(--ink); }
+.teng { display: none; }
+.tengwar-on .rom { display: none; }
+.tengwar-on .teng { display: inline; }
+.teng-svg { vertical-align: middle; max-width: 100%; }

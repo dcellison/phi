@@ -82,12 +82,21 @@ git show fde058a:old/latex/fonts/tengtelcb.ttf > tengtelcb.ttf
 git show fde058a:old/latex/source/manual.pdf   > manual.pdf
 ```
 
-## Modernization agenda
+## Modernization rulings (settled 2026-07-05)
 
-The mode was written for 2021 Phi. Before it can be canon, it needs rulings on:
+The 2021 mode met current Phi, and Daniel ruled on every gap:
 
-1. **k has no tengwa.** The language gained k after this mode was written. Candidates: calma (U+E002, the classical [k] of Quenya's c) or quessë (U+E003, classically [kw]). Calma is the conservative choice; Daniel decides.
-2. **u-initial vowel pairs are missing from the old pair inventory.** The 2021 orthography listed twelve hiatus pairs and none began with u; current Phi has *lue*, *mua*, *muila*, *nuola* and kin. The tehtar mechanism already handles them (u above, second vowel below) — the pair table just needs completing.
-3. **The r-rule's status.** The mode assumes strict positional allophony (initial trill, internal tap). Current `documents/phonetics.md` offers trill and tap as free variants. Either the phonetics doc re-adopts the positional rule (and the mode's two-r spelling is automatic), or the two r-tengwar become writer's choice like the silmë pair.
-4. **Word separators vs bare spacing.** The mode writes ⸱ between words. Permitted as the space's Tengwar form under mode-invariance, but a pure-spacing variant (no separator glyph) would be even quieter — a taste question.
-5. **A full-corpus test.** Once 1–4 are settled, transliterate a shelf text (the Metta Sutta is the natural first) and read it back. The 2021 mode never met a text longer than a phrase.
+1. **k = calma (U+E002)** — the classical [k], keeping quessë free.
+2. **u-initial hiatus pairs** (*lue*, *mua*, *muila*, *nuola* …) are confirmed mechanical: u above, second vowel below; the 2021 pair table is superseded by the general rule.
+3. **The r-rule stays positional in writing**: word-initial r is always rómen, internal r always órë — the written mode is stricter than the free trill/tap variation `documents/phonetics.md` allows in speech.
+4. **Plain spacing between words.** The ⸱ separator remains a documented calligraphic option; the site renders bare space. The double pusta remains the period.
+5. **The silmë choice is resolved by structure**: every Phi s carries a tehta (all syllables are open), so the rendered mode uses silmë nuquerna throughout — plain silmë remains for calligraphy.
+
+## The renderer
+
+The full-corpus test (old agenda item 5) is live: every Phi line on the texts shelf is rendered to Tengwar at build time and the shelf's `tengwar` toggle switches scripts. The pipeline is pure geometry — no shaping engine, so it is identical in every browser:
+
+- `writing_systems/fonts/` — Tengwar Formal CSUR 1.1, vendored under its SIL OFL 1.1 license (see `OFL.txt`).
+- `scripts/extract_tengwar_glyphs.py` — one-off: pulls the mode's 28 glyph outlines, advances, and boxes into `writing_systems/tengwar_glyphs.json` (committed, so CI needs no font tooling).
+- `scripts/tengwar.py` — parses romanized Phi into (tengwa, above, below) units per this mode and assembles self-contained SVG (`currentColor` fill, so the theme toggle applies).
+- `scripts/build_explorer.py` — wraps each Phi line in the texts as romanization plus SVG; `web/tengwar.js` remembers the reader's choice.
