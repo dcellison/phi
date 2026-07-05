@@ -7,33 +7,33 @@ A headed relative clause modifies an explicit noun. The noun, called the "head,"
 The subject describes the object:
 
 ```
-mia rena mia lothea miona sano
-1SG REL 1SG love person know
-(i know the person whom i love.)
+mia rena mia lothea miona sano.
+1SG REL 1SG love person know.
+(I know the person whom I love.)
 ```
 
 The object describes the subject:
 
 ```
-rena lopia thumela miona phue nai
-REL child teach person wise be
-(the person who teaches children is wise.)
+rena lopia thumela miona phue nai.
+REL child teach person wise be.
+(The person who teaches children is wise.)
 ```
 
 A state describes the noun:
 
 ```
-mia rena serao nai shelu theo
-1SG REL old be book read
-(i read the book that is old.)
+mia rena serao nai shelu theo.
+1SG REL old be book read.
+(I read the book that is old.)
 ```
 
 A location describes the noun:
 
 ```
-rena nia toremoa nai womu phelora nai
-REL ON mountain be home beautiful be
-(the home that is on the mountain is beautiful.)
+rena nia toremoa nai womu phelora nai.
+REL ON mountain be home beautiful be.
+(The home that is on the mountain is beautiful.)
 ```
 
 ## Using relative clauses in sentences
@@ -43,9 +43,9 @@ Relative clauses function as noun phrases. They can serve as subject, object, or
 **As subject:**
 
 ```
-rena mia to nila miona shia nai
-REL 1SG PST see person 3SG be
-(the person whom i saw is here.)
+rena mia to nila miona shia nai.
+REL 1SG PST see person 3SG be.
+(The person whom I saw is here.)
 ```
 
 The entire phrase `rena mia to nila miona` serves as the subject of `nai`.
@@ -53,9 +53,9 @@ The entire phrase `rena mia to nila miona` serves as the subject of `nai`.
 **As object:**
 
 ```
-mia rena shia to kealo nophi theo
-1SG REL 3SG PST create story read
-(i read the story that they created.)
+mia rena shia to kealo nophi theo.
+1SG REL 3SG PST create story read.
+(I read the story that they created.)
 ```
 
 The relative clause `rena shia to kealo nophi` modifies "story," and the whole noun phrase is the object of `theo`.
@@ -63,9 +63,9 @@ The relative clause `rena shia to kealo nophi` modifies "story," and the whole n
 **With prepositions:**
 
 ```
-mia nia rena mua shelira nai ruela thalo
-1SG ON REL LOC forest be path walk
-(i walk on the path that is in the forest.)
+mia nia rena mua shelira nai ruela thalo.
+1SG ON REL LOC forest be path walk.
+(I walk on the path that is in the forest.)
 ```
 
 ## Complex descriptions
@@ -73,15 +73,15 @@ mia nia rena mua shelira nai ruela thalo
 Relative clauses can include their own modifiers, objects, and adverbials:
 
 ```
-mia rena mia mua serao shelira to thalo ruela lothea
-1SG REL 1SG LOC old forest PST walk path love
-(i love the path that i walked in the old forest.)
+mia rena mia mua serao shelira to thalo ruela lothea.
+1SG REL 1SG LOC old forest PST walk path love.
+(I love the path that I walked in the old forest.)
 ```
 
 ```
-rena shia wei lopia phelora nophi to haolu miona ha nai
-REL 3SG DAT child beautiful story PST speak person PROX be
-(the person who told a beautiful story to the child is here.)
+rena shia wei lopia phelora nophi to haolu miona ha nai.
+REL 3SG DAT child beautiful story PST speak person PROX be.
+(The person who told a beautiful story to the child is here.)
 ```
 
 The key is that everything before the head noun is part of the description. No matter how complex the clause becomes, the structure remains the same: `rena` opens it, the clause unfolds, the noun closes it.
@@ -91,9 +91,9 @@ The key is that everything before the head noun is part of the description. No m
 A noun can receive multiple descriptions by stacking adjectives and relative clauses:
 
 ```
-mia rena mia to nila serao phelora shelu lothea
-1SG REL 1SG PST see old beautiful book love
-(i love the old beautiful book that i saw.)
+mia rena mia to nila serao phelora shelu lothea.
+1SG REL 1SG PST see old beautiful book love.
+(I love the old beautiful book that I saw.)
 ```
 
 All modifiers precede the noun. The relative clause comes first (announced by `rena`), then adjectives, then the noun. Each layer adds to the description, building toward the final reveal of what is being described.

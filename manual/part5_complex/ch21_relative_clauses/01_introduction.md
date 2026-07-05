@@ -9,9 +9,9 @@ English handles this with words like "who," "which," and "that," placing the rel
 Consider how Phi handles simple description. The noun phrase `phelora peloru` ("beautiful flower") places the adjective before the noun. Relative clauses follow the same logic, just with a clause instead of a single word:
 
 ```
-rena mia to nila peloru phelora nai
-REL 1SG PST see flower beautiful be
-(the flower that i saw is beautiful.)
+rena mia to nila peloru phelora nai.
+REL 1SG PST see flower beautiful be.
+(The flower that I saw is beautiful.)
 ```
 
 The clause `mia to nila` ("i saw") describes the flower, and `rena` announces that description, just as an adjective would. The listener knows they're receiving descriptive information before they know what's being described. The complete noun phrase `rena mia to nila peloru` then serves as the subject of `nai`.
@@ -27,7 +27,7 @@ This structure also supports topic-drop. Once you've described something with a 
 ```
 rena mia to nila peloru phelora nai. thuroa.
 REL 1SG PST see flower beautiful be. grow.
-(the flower that i saw is beautiful. [it] grows.)
+(The flower that I saw is beautiful. [it] grows.)
 ```
 
 The flower, having been introduced with its full description, can be referenced implicitly in subsequent clauses.
