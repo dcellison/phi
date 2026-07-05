@@ -34,6 +34,10 @@ python3 scripts/validate_examples.py
 
 This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); the working protocol for creating words lives in [CLAUDE.md](CLAUDE.md); the longer-term intentions live in [publishing.md](publishing.md).
 
+## Licensing
+
+Three answers for three things. **The language itself is free** — Phi's words, sounds, and grammar may be used, spoken, written, and built on by anyone, forever, no permission needed. **The code** (scripts/, web/) is Apache 2.0. **The content** — the lexicon, manual, primer, pamphlets, and documents — is [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt): share and adapt with attribution, noncommercially, keeping derivatives open; commercial use needs separate permission. Details in [LICENSE](LICENSE).
+
 ---
 
 *lo mia po nuawe thuroa.* — We can grow together.

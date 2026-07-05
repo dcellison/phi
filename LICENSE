@@ -1,0 +1,37 @@
+Phi — Licensing
+
+Copyright (c) 2026 Daniel Ellison
+
+This repository contains three kinds of thing, licensed accordingly.
+
+1. THE LANGUAGE ITSELF IS FREE.
+
+   The Phi language — its words, sounds, spellings, and grammar, as a
+   system — is free for anyone to use, speak, write, teach, and build
+   on, forever, no permission needed. Write your poems, courses,
+   stories, and software in Phi; they are yours. No license in this
+   repository restricts, or could restrict, the use of the language
+   itself.
+
+2. CODE — Apache License 2.0.
+
+   The software in this repository — everything under scripts/ and
+   web/ (excluding the fonts, see below), and the workflow files under
+   .github/ — is licensed under the Apache License, Version 2.0.
+   Full text: LICENSES/Apache-2.0.txt
+
+3. CONTENT — Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+   International (CC BY-NC-SA 4.0).
+
+   Everything else — the lexicon entries (vocabulary/), the manual
+   (manual/), the primer (primer/), the pamphlets and texts
+   (pamphlets/), the invitation (kia.md), the specification and
+   philosophy documents (documents/), the archive (archive/), and the
+   remaining prose of this repository — is licensed under
+   CC BY-NC-SA 4.0: share and adapt freely, with attribution, for
+   noncommercial purposes, keeping derivatives under the same license.
+   Commercial use requires separate permission from the copyright
+   holder. Full text: LICENSES/CC-BY-NC-SA-4.0.txt
+
+FONTS. The font files under web/fonts/ are third-party works under the
+SIL Open Font License 1.1; see the OFL-*.txt files alongside them.
