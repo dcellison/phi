@@ -10,3 +10,4 @@ __pycache__/
 web/lexicon.json
 lexicon.db
 web/index.html
+web/primer/
