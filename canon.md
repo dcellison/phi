@@ -65,7 +65,12 @@ These were explicitly decided and should not silently fork again:
   equally for everyone. Also refused: *hunt*; generic *bad* (things
   are harmful, broken, or unwell — never simply "bad"); *blade* as
   weapon-part (knife exists only as a kitchen/craft tool);
-  *marriage* as institution (`telu`, partner, suffices).
+  *marriage* as institution (`telu`, partner, suffices); the
+  vocabulary of domination — *to rule*, *lord/master*, *throne*,
+  *bind-as-captivity* — refused 2026-07-05 and demonstrated in the
+  Ring Verse refusal (`pamphlets/ring_verse_refusal.md`): the
+  nearest words are `kulo` (guide), `theluo` (steward), and `nolami`
+  (bond, which is mutual by definition).
 - **Classifiers** (settled 2026-07): four only (himo/lipha/themo/nophe),
   always optional. Nature-now rule: living parts of living beings take
   `lipha`; time units and events take `nophe`; `themo` is for detached
