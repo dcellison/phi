@@ -12,21 +12,21 @@ Each plural pronoun consists of the familiar singular form preceded by the same 
 
 ## Examples
 
-**Lo mia shea lothea.** — We love peace.  
-**Wa lo thia shea nai?** — Are you (all) at peace?  
-**Lo shia to shua.** — They (all) arrived.
+**lo mia shea lothea.** — We love peace.  
+**wa lo thia shea nai.** — Are you (all) at peace?  
+**lo shia to shua.** — They (all) arrived.
 
-**Mia lo thia whaline.** — I thank you all.  
-**Lo mia lo shia nila.** — We see them.
+**mia lo thia whaline.** — I thank you all.  
+**lo mia lo shia nila.** — We see them.
 
 ## No inclusive/exclusive distinction
 
-Some languages distinguish between "we including you" and "we excluding you." Phi does not make this distinction. *Lo mia* simply means "we," and context clarifies who is included.
+Some languages distinguish between "we including you" and "we excluding you." Phi does not make this distinction. *lo mia* simply means "we," and context clarifies who is included.
 
 If clarification is needed, speakers can be explicit:
 
-**Lo mia nela thia** — We and you (we, including you)  
-**Lo mia, thia ma** — We, not you (we, excluding you)
+**lo mia nela thia** — We and you (we, including you)  
+**lo mia, thia ma** — We, not you (we, excluding you)
 
 But these elaborations are rarely necessary. The simpler system serves most purposes.
 

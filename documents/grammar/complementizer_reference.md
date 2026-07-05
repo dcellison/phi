@@ -155,13 +155,13 @@ kona melu. mia ha nai
 VOC friend. 1SG PROX be
 (Friend, I am here.)
 
-kona ne sa thala. wa thia towe nai
-VOC NAME HON.RESPECT Thala. Q 2SG well be
-(Honored Thala, are you well?)
+kona ne sa sulae. wa thia towe nai
+VOC NAME HON.RESPECT sulae. Q 2SG well be
+(Honored sulae, are you well?)
 
-kona ne ni hino. mia thia lothea
-VOC NAME HON.INTIM Hino. 1SG 2SG love
-(Dear Hino, I love you.)
+kona ne ni moli. mia thia lothea
+VOC NAME HON.INTIM moli. 1SG 2SG love
+(Dear moli, I love you.)
 ```
 
 **Note**: The vocative phrase is extra-clausal—it frames who is being addressed but does not participate in the main clause's subject-object-verb structure. When addressing someone by name, the proper name particle `ne` precedes the name (and any honorific). When addressing by role or common noun (e.g., `melu`, "friend"), `ne` is not used.

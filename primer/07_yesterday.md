@@ -45,7 +45,7 @@
 > **lohau mua thepalu thalo.**
 > **misheko nulae.**
 
-*No* to *anywhere: the sun rises now, the sky is good now. Yesterday and today are told with the same words in the same order; one small particle moves the whole scene into memory.*
+*no* to *anywhere: the sun rises now, the sky is good now. Yesterday and today are told with the same words in the same order; one small particle moves the whole scene into memory.*
 
 ## IV
 

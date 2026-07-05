@@ -6,21 +6,21 @@ Phi has three basic personal pronouns, one for each grammatical person. Unlike m
 
 The first-person pronoun *mia* refers to the speaker.
 
-**Mia thia nila.** — I see you.  
-**Thia mia sano.** — You know me.  
-**Mia shea lothea.** — I love peace.
+**mia thia nila.** — I see you.  
+**thia mia sano.** — You know me.  
+**mia shea lothea.** — I love peace.
 
 The sound of *mia* reflects its meaning. The *m* is the most internal consonant, formed with closed lips, resonating inside the head. The bright *i* focuses into self-awareness. The open *a* acknowledges that even in saying "I," we exist in relation to everything else.
 
-*Mia* is gender-neutral and carries no case marking. The same form serves whether the pronoun is subject, object, or part of a prepositional phrase.
+*mia* is gender-neutral and carries no case marking. The same form serves whether the pronoun is subject, object, or part of a prepositional phrase.
 
 ## thia: you
 
 The second-person pronoun *thia* refers to the one being addressed.
 
-**Wa thia shea nai?** — Are you at peace?  
-**Mia thia whaline.** — I thank you.  
-**Thia womu lothea.** — You love home.
+**wa thia shea nai.** — Are you at peace?  
+**mia thia whaline.** — I thank you.  
+**thia womu lothea.** — You love home.
 
 The *th* in *thia* requires careful placement of the tongue, neither fully in nor out — a deliberate articulation for the deliberate act of addressing another person.
 
@@ -30,11 +30,11 @@ Phi makes no distinction between formal and informal address. There is no separa
 
 The third-person pronoun *shia* refers to someone other than the speaker or listener. It is gender-neutral and singular.
 
-**Shia shua.** — They arrive. (He/she arrives.)  
-**Mia shia sano.** — I know them.  
-**Shia womu phelora nai.** — Their home is beautiful.
+**shia shua.** — They arrive. (He/she arrives.)  
+**mia shia sano.** — I know them.  
+**shia womu phelora nai.** — Their home is beautiful.
 
-The use of "they" for a singular person matches growing usage in English and sidesteps the question of gender entirely. In Phi, grammatical gender simply does not exist. *Shia* refers to any single person without encoding assumptions about their identity.
+The use of "they" for a singular person matches growing usage in English and sidesteps the question of gender entirely. In Phi, grammatical gender simply does not exist. *shia* refers to any single person without encoding assumptions about their identity.
 
 ## Case neutrality
 

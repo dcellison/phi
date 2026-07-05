@@ -7,9 +7,9 @@ Complete, validated Phi for reading practice — from two-line exchanges to the 
 ### Morning greeting
 
 ```
-A: kona ni hino. wa thia towe nai.
-   VOC HON.INTIM Hino. Q 2SG well be.
-   (Dear Hino — are you well?)
+A: kona ni moli. wa thia towe nai.
+   VOC HON.INTIM moli. Q 2SG well be.
+   (Dear moli — are you well?)
 
 B: mia towe nai. nemo. wa thia towe nai.
    1SG well be. grateful. Q 2SG well be.

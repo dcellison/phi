@@ -17,17 +17,17 @@
 
 ## II
 
-> lopia: **wa ne Mako so shua.**
-> thala: **lia. mako so shua.**
-> **nosa lopia mena mako so shua meno sano.**
+> lopia: **wa ne siora so shua.**
+> sulae: **lia. siora so shua.**
+> **nosa lopia mena siora so shua meno sano.**
 
 *The embedded question and the plain question are cousins: to wonder whether is* wela … welo; *to ask outright is chapter four's* wa. *The child, being a child, skips the wondering — and what was a question becomes a known thing, filed with* mena.
 
 ## III
 
 > **phao wela lo mia nekuma sola shalu whea welo remo.**
-> **phao thala thilou.**
-> thala: **shalu. mea.**
+> **phao sulae thilou.**
+> sulae: **shalu. mea.**
 
 | new word | say it | it means |
 |---|---|---|

@@ -90,11 +90,11 @@ Beyond counting, Slot 2 particles ground concepts in physical space. This is the
 
 These particles also carry discourse functions. `Ha` often refers to something just mentioned or about to be mentioned, while `ra` points to something from earlier in conversation or from shared background knowledge.
 
-**Ha melu welao nai.**  
+**ha melu welao nai.**  
 *this friend good be*  
 "This friend is good."
 
-**Mia ra nophi to hea.**  
+**mia ra nophi to hea.**  
 *I that story PAST hear*  
 "I heard that story."
 

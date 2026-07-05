@@ -73,9 +73,9 @@ mia sua to wepu sano
 ```
 
 ```
-mia kua ne thala nai ma sano
-1SG where NAME Thala be NEG know
-(i do not know where thala is.)
+mia kua ne sulae nai ma sano
+1SG where NAME sulae be NEG know
+(i do not know where sulae is.)
 ```
 
 ```

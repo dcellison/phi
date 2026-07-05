@@ -4,9 +4,9 @@
 
 ## I
 
-> **ne Thala shua. ne Mako we shua.**
-> **thala loamira kolua.**
-> **thala wei phao loamira loa.**
+> **ne sulae shua. ne siora we shua.**
+> **sulae loamira kolua.**
+> **sulae wei phao loamira loa.**
 > **phao loamira howela. phao nemo nai.**
 
 | new word | say it | it means |
@@ -14,13 +14,13 @@
 | loamira | lo · a · mi · ra | gift |
 | nemo | ne · mo | grateful |
 
-*Thala arrives carrying a gift and gives it — and look at the word:* loa *sits whole inside* loamira, *the giving inside the given thing, the way* wapi *flies inside the wing. The parent receives it and is grateful, which in Phi is a way of being, said with* nai *like calm or goodness.*
+*sulae arrives carrying a gift and gives it — and look at the word:* loa *sits whole inside* loamira, *the giving inside the given thing, the way* wapi *flies inside the wing. The parent receives it and is grateful, which in Phi is a way of being, said with* nai *like calm or goodness.*
 
 ## II
 
 > **loamira tomi nai.**
 > **thiku tomi. welao tomi.**
-> phao: **mea. mea ne Thala.**
+> phao: **mea. mea ne sulae.**
 > **tomi mua wonepa nai. wheo tomi nila.**
 
 *The gift is a pot — small, good. It joins the household the way gifts do here: admired first, used forever after.*
@@ -28,8 +28,8 @@
 ## III
 
 > **phao nuora whea. lo mia nuora phowe.**
-> **lopia wei mako sulopa loa.**
-> **wheo wei thala napuro loa.**
+> **lopia wei siora sulopa loa.**
+> **wheo wei sulae napuro loa.**
 > **theula miona nuola. we lohau nuola.**
 > **misheko rihe. misheko we shua.**
 
@@ -41,10 +41,10 @@
 
 ## IV
 
-> thala: **mea. lo mia nemo nai.**
+> sulae: **mea. lo mia nemo nai.**
 > phao: **lo mia we nemo nai.**
-> **shero shua. ne Thala pao. ne Mako pao.**
-> **lopia wei mako thiku loamira loa. — peloru.**
+> **shero shua. ne sulae pao. ne siora pao.**
+> **lopia wei siora thiku loamira loa. — peloru.**
 
 *Thanks are traded like the gifts were: we are grateful; we also are grateful. And at the gate, the child hands the visiting child a small gift of their own — a flower, of course, because that is what the garden is for, and because chapter six taught exactly this: things worth more at each handing.*
 

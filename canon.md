@@ -48,10 +48,34 @@ These were explicitly decided and should not silently fork again:
   content word `wela` ("good/beautiful") is retired; use `welao`
   (good), `towe` (well), `phelora` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
-- **Punctuation** (extended 2026-07-05): periods only in Phi text —
-  no commas, and no question marks. `wa` and the interrogative
-  pronouns announce a question at its start; Phi's question mark is
-  a word, and it comes first. The validator enforces this.
+- **Punctuation** (extended 2026-07-05): the period is Phi's only
+  visible punctuation — no commas, question marks, or exclamation
+  marks, in any mode of writing. Phi's punctuation is spoken: the
+  question mark is `wa`, the quotation marks are `shola` and
+  `sholo`, the comma of address is `kona`, the clause commas are the
+  closers and the Slot 0 announcers, and the capital letter of a
+  name is `ne`. A silent mark is justified only where no word is
+  visible to do its work; sentence-end is the one such place, so the
+  period is the one such mark. Pauses are free — no pause can change
+  a Phi sentence's meaning — so none is ever written. The validator
+  enforces all of this.
+- **Letters** (settled 2026-07-05): Phi has no capital letters — not
+  for sentences, not for names. Romanization is one mode of writing
+  Phi among peers (the Tengwar mode, the glyph mode); a mark may
+  carry meaning only if every mode can carry it, and case exists
+  only in Latin script. What capitals do for names, `ne` does aloud.
+  The validator enforces lowercase.
+- **Names are made of Phi** (settled 2026-07-05): a person's name is
+  a lexicon word borne as a name, announced by `ne` (plus any
+  honorific) — the recurring cast: `sulae` (warm, the honored
+  friend), `siora` (joy, the visiting child), `thinoe` (seed, the
+  elder's elder), `moli` (gentle, the beloved of the intimate
+  examples), `keruko` (sturdy, the neutral-register everyman).
+  Because names are words, the collision rules protect them and the
+  validator needs no whitelist. Formal speech keeps `ne`; family
+  speech may drop it — the primer shows this rather than stating it.
+  Names are lowercase everywhere, including gloss lines and English
+  narration.
 - **Main-clause tense** (settled 2026-07-05): tense particles are
   not optional — a clause whose translation is past carries `to` on
   its own verb (`sholo to haolu`, they said), as ch15 requires and

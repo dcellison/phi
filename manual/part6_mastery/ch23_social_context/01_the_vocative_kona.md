@@ -19,9 +19,9 @@ The vocative phrase stands outside the sentence it accompanies. It claims no slo
 When calling someone by name, the proper-name particle `ne` follows `kona` (with any honorific after it — see section 3). When calling by role or relation — friend, teacher, child — `ne` is not used:
 
 ```
-kona ne thanie. wa thia towe nai.
-VOC NAME Thanie. Q 2SG well be.
-(Thanie — are you well?)
+kona ne keruko. wa thia towe nai.
+VOC NAME keruko. Q 2SG well be.
+(keruko — are you well?)
 
 kona lopia. no wei mia shua.
 VOC child. IMP DAT 1SG come.
@@ -32,4 +32,4 @@ VOC child. IMP DAT 1SG come.
 
 Notice what `kona` costs: a syllable pair, a breath, before you may say anyone's name. That cost is the point. Address in Phi cannot be abrupt; the grammar itself performs the small ceremony of turning toward a person before speaking to them. In a crowded room, `kona` is the hand gently raised, not the shoulder grabbed.
 
-And because the vocative is extra-clausal, it can stand entirely alone. `kona ni hino.` — spoken softly across a garden — is a complete utterance: *I am calling you, dear one.* Sometimes the channel is the message.
+And because the vocative is extra-clausal, it can stand entirely alone. `kona ni moli.` — spoken softly across a garden — is a complete utterance: *I am calling you, dear one.* Sometimes the channel is the message.

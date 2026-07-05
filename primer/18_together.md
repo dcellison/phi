@@ -4,8 +4,8 @@
 
 ## I
 
-> **lopia nela mako mua thepalu nai.**
-> **thala nela phao mua wonepa meilo.**
+> **lopia nela siora mua thepalu nai.**
+> **sulae nela phao mua wonepa meilo.**
 > **lohau nela misheko mua womu nulae.**
 
 | new word | say it | it means |
@@ -17,9 +17,9 @@
 ## II
 
 > phao: **sulopa sola napuro.**
-> thala: **napuro. mea.**
-> lopia: **wa mako sulopa sola milura nuola.** — *loosely: soup or milk for Mako?*
-> mako: **milura.**
+> sulae: **napuro. mea.**
+> lopia: **wa siora sulopa sola milura nuola.** — *loosely: soup or milk for siora?*
+> siora: **milura.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -31,8 +31,8 @@
 ## III
 
 > **lo mia nuawe riola.**
-> **phao nela thala moru nuawe shiroka.**
-> **lopia nela mako lo kerou nuawe kolua.**
+> **phao nela sulae moru nuawe shiroka.**
+> **lopia nela siora lo kerou nuawe kolua.**
 > **we lohau nuawe riola.** — *in the dog's assessment.*
 > **misheko lo miona nila.**
 

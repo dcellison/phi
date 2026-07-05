@@ -4,9 +4,9 @@ The reflexive pronoun *miso* indicates that the action refers back to the subjec
 
 ## Basic usage
 
-**Mia miso nila.** — I see myself.  
-**Thia miso sano.** — You know yourself.  
-**Shia miso whaline.** — They thank themselves.
+**mia miso nila.** — I see myself.  
+**thia miso sano.** — You know yourself.  
+**shia miso whaline.** — They thank themselves.
 
 The reflexive appears before the verb, in the object position. It marks the subject and object as the same entity.
 
@@ -14,10 +14,10 @@ The reflexive appears before the verb, in the object position. It marks the subj
 
 Unlike English, which changes reflexive forms based on person (myself, yourself, herself), Phi uses *miso* universally. The subject of the sentence tells you who *miso* refers to:
 
-**Mia miso theala.** — I heal myself.  
-**Thia miso theala.** — You heal yourself.  
-**Shia miso theala.** — They heal themselves.  
-**Lo mia miso theala.** — We heal ourselves.
+**mia miso theala.** — I heal myself.  
+**thia miso theala.** — You heal yourself.  
+**shia miso theala.** — They heal themselves.  
+**lo mia miso theala.** — We heal ourselves.
 
 This simplification loses no clarity. The reflexive relationship is already established by the verb's structure; the pronoun simply makes it explicit.
 
@@ -29,13 +29,13 @@ The word *miso* connects to *mia* through its initial *mi*, an echo of the self-
 
 Use *miso* when the subject performs an action on or for itself:
 
-**Mia miso naphe.** — I help myself.  
-**Thia miso nila.** — You see yourself. (in a mirror, metaphorically, etc.)  
-**Shia miso shonela.** — They teach themselves.
+**mia miso naphe.** — I help myself.  
+**thia miso nila.** — You see yourself. (in a mirror, metaphorically, etc.)  
+**shia miso shonela.** — They teach themselves.
 
 Without *miso*, these sentences would require a different object:
 
-**Mia thia naphe.** — I help you. (not myself)  
-**Mia shia naphe.** — I help them. (not myself)
+**mia thia naphe.** — I help you. (not myself)  
+**mia shia naphe.** — I help them. (not myself)
 
 The reflexive makes the self-directed nature of the action explicit.

@@ -6,11 +6,11 @@ Slot 0 particles appear at the absolute beginning of a sentence. They announce h
 
 The particle *wa* transforms a statement into a yes/no question. Nothing else changes; the same words in the same order become a question simply by adding *wa* at the start.
 
-**Thia mia sano.** — You know me.  
-**Wa thia mia sano?** — Do you know me?
+**thia mia sano.** — You know me.  
+**wa thia mia sano.** — Do you know me?
 
-**Shia womu lothea.** — They love home.  
-**Wa shia womu lothea?** — Do they love home?
+**shia womu lothea.** — They love home.  
+**wa shia womu lothea.** — Do they love home?
 
 The sound of *wa* is welcoming: the *w* rounds the lips as if already receiving an answer, and the open *a* creates space for response. Questions in Phi are invitations, not interrogations.
 
@@ -18,8 +18,8 @@ The sound of *wa* is welcoming: the *w* rounds the lips as if already receiving 
 
 The particle *no* frames a sentence as a request or gentle command. It announces that the speaker is asking for action rather than stating facts.
 
-**No shea loa.** — Give peace. (Share peace.)  
-**No mia naphe.** — Help me.
+**no shea loa.** — Give peace. (Share peace.)  
+**no mia naphe.** — Help me.
 
 Commands in Phi remain gentle. The particle *no* signals a request without harshness. For polite requests, combine with *pi* (see below).
 
@@ -27,12 +27,12 @@ Commands in Phi remain gentle. The particle *no* signals a request without harsh
 
 The particle *lu* introduces a conditional clause, equivalent to English "if." It announces that what follows is not an assertion but a possibility.
 
-**Lu thia naphe, mia whaline.** — If you help, I will thank (you).  
-**Lu shea nai, sila thuroa.** — If there is peace, the community grows.
+**lu thia naphe, mia whaline.** — If you help, I will thank (you).  
+**lu shea nai, sila thuroa.** — If there is peace, the community grows.
 
 For hypothetical or counterfactual conditions, situations that didn't happen or couldn't happen, combine *lu* with the irrealis particle *he*:
 
-**Lu he mia to naphe. shia to ma wepu.** — If I had helped (but I didn't), they wouldn't have left.
+**lu he mia to naphe. shia to ma wepu.** — If I had helped (but I didn't), they wouldn't have left.
 
 This construction makes clear that the speaker is discussing something contrary to reality.
 
@@ -40,9 +40,9 @@ This construction makes clear that the speaker is discussing something contrary 
 
 The particle *su* frames a sentence as a wish, hope, or prayer. It announces that the speaker is expressing desire rather than fact.
 
-**Su sila towe nai.** — May the community be well.  
-**Su shea shua.** — May peace come.  
-**Su thia thuroa.** — I hope you flourish.
+**su sila towe nai.** — May the community be well.  
+**su shea shua.** — May peace come.  
+**su thia thuroa.** — I hope you flourish.
 
 The optative *su* is often used in blessings and good wishes. It acknowledges that the speaker cannot control the outcome but offers their hope toward it.
 
@@ -50,9 +50,9 @@ The optative *su* is often used in blessings and good wishes. It acknowledges th
 
 The particle *pi* softens the entire utterance, marking it as polite or respectful. It can combine with other Slot 0 particles.
 
-**Pi no mia naphe.** — Please help me.  
-**Pi wa thia po shua?** — Could you please come?  
-**Pi mia thia whaline.** — I (respectfully) thank you.
+**pi no mia naphe.** — Please help me.  
+**pi wa thia po shua.** — Could you please come?  
+**pi mia thia whaline.** — I (respectfully) thank you.
 
 Politeness in Phi is about care, not social hierarchy. Adding *pi* signals that the speaker values the listener and approaches them gently.
 
@@ -60,15 +60,15 @@ Politeness in Phi is about care, not social hierarchy. Adding *pi* signals that 
 
 When multiple Slot 0 particles appear, *pi* typically comes first, followed by *wa*, *no*, *lu*, or *su*:
 
-**Pi wa thia shea nai?** — Are you at peace? (politely asked)  
-**Pi no melu naphe.** — Please help the friend.  
-**Pi su thia towe nai.** — I hope, respectfully, that you are well.
+**pi wa thia shea nai.** — Are you at peace? (politely asked)  
+**pi no melu naphe.** — Please help the friend.  
+**pi su thia towe nai.** — I hope, respectfully, that you are well.
 
 ## Declarative: No Slot 0 particle
 
 A sentence without any Slot 0 particle is a simple declarative statement:
 
-**Mia thia lothea.** — I love you.  
-**Shiro phelora nai.** — The tree is beautiful.
+**mia thia lothea.** — I love you.  
+**shiro phelora nai.** — The tree is beautiful.
 
 This is the most common sentence type. Slot 0 particles add specific framing; their absence is itself meaningful: it signals a straightforward assertion.

@@ -9,22 +9,22 @@ Most honorific systems encode rank: who stands above whom, and how far. Phi's sy
 | `le` | HON.ROLE | respect for a person in their community role or function |
 
 ```
-kona ne sa thala. pi wa thia towe nai.
-VOC NAME HON.RESPECT Thala. POL Q 2SG well be.
-(Honored Thala — are you well?)
+kona ne sa sulae. pi wa thia towe nai.
+VOC NAME HON.RESPECT sulae. POL Q 2SG well be.
+(Honored sulae — are you well?)
 
-kona ni hino. mia thia lothea.
-VOC HON.INTIM Hino. 1SG 2SG love.
-(Dear Hino — I love you.)
+kona ni moli. mia thia lothea.
+VOC HON.INTIM moli. 1SG 2SG love.
+(Dear moli — I love you.)
 
-ne le mako so shua.
-NAME HON.ROLE Mako FUT come.
-(Mako, in their role, will come.)
+ne le siora so shua.
+NAME HON.ROLE siora FUT come.
+(siora, in their role, will come.)
 ```
 
 ## Placement
 
-Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. `ne` is required for a bare name (`ne thanie`) but becomes optional when an honorific already signals that a name follows — `kona ni hino` and `kona ne ni hino` are both correct, the first slightly warmer for being briefer.
+Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. `ne` is required for a bare name (`ne keruko`) but becomes optional when an honorific already signals that a name follows — `kona ni moli` and `kona ne ni moli` are both correct, the first slightly warmer for being briefer.
 
 ## Relationship, not rank
 
@@ -34,4 +34,4 @@ This is why Phi's honorifics cannot be omitted *upward* or demanded *downward*, 
 
 ## Choosing honestly
 
-The only rule is honesty. `ni` for someone you barely know is not friendliness, it is a claim you have not earned; `sa` for a peer is not courtesy, it is distance. And no honorific at all — plain `ne thanie` — is always correct, always neutral, never cold. The honorifics are not obligations. They are opportunities to say true things about connection, one syllable at a time.
+The only rule is honesty. `ni` for someone you barely know is not friendliness, it is a claim you have not earned; `sa` for a peer is not courtesy, it is distance. And no honorific at all — plain `ne keruko` — is always correct, always neutral, never cold. The honorifics are not obligations. They are opportunities to say true things about connection, one syllable at a time.

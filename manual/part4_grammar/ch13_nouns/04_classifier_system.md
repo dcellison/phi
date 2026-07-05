@@ -86,13 +86,13 @@ This practice expresses the concepts of animacy and relationality central to bot
 
 The classifier system is entirely optional. Simple counting without classifiers is grammatically correct:
 
-**Mia shao shiro nila.**  
+**mia shao shiro nila.**  
 *I three tree see*  
 "I see three trees."
 
 Adding the classifier makes the statement more mindful:
 
-**Mia shao lipha shiro nila.**  
+**mia shao lipha shiro nila.**  
 *I three LIFE-CL tree see*  
 "I see three trees." (acknowledging their living nature)
 

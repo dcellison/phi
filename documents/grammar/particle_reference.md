@@ -416,9 +416,9 @@ DIST friend
 **Position**: Before the name (and before any honorific)
 **Example**:
 ```
-ne thanie
-NAME Thanie
-(Thanie [a person's name])
+ne keruko shua
+NAME keruko come
+(keruko comes.)
 ```
 **Note**: Required when no honorific is present. Optional when an honorific already signals that a name follows. Also used with place names and other proper nouns.
 
@@ -430,27 +430,27 @@ These particles announce the speaker's social relationship to the person being n
 **Function**: Announces respect for a mentor, elder, or person of authority
 **Example**:
 ```
-ne sa thala
-NAME HON.RESPECT Thala
-(honored thala)
+ne sa sulae
+NAME HON.RESPECT sulae
+(honored sulae)
 ```
 
 #### `ni` - Intimacy Honorific (HON.INTIM)
 **Function**: Announces intimacy with a close friend or family member
 **Example**:
 ```
-ne ni hino
-NAME HON.INTIM Hino
-(dear hino)
+ne ni moli
+NAME HON.INTIM moli
+(dear moli)
 ```
 
 #### `le` - Role Honorific (HON.ROLE)
 **Function**: Announces respect for a community role or function
 **Example**:
 ```
-ne le mako
-NAME HON.ROLE Mako
-(respected mako [in their role])
+ne le siora
+NAME HON.ROLE siora
+(respected siora [in their role])
 ```
 
 ---

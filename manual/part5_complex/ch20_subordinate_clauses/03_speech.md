@@ -13,9 +13,9 @@ shia shola mia so wepu sholo to shemui
 ```
 
 ```
-ne sa thala shola lo peloru thuroa sholo to shemui
-NAME HON.RESPECT Thala QUOT.COMP PL flower grow QUOT.COMP.CLOSE PST utter
-(honored thala said "the flowers grow.")
+ne sa sulae shola lo peloru thuroa sholo to shemui
+NAME HON.RESPECT sulae QUOT.COMP PL flower grow QUOT.COMP.CLOSE PST utter
+(honored sulae said "the flowers grow.")
 ```
 
 ```
@@ -37,12 +37,12 @@ shia mena shia so wepu meno to shemui
 ```
 
 ```
-ne sa thala mena lo peloru thuroa meno to shemui
-NAME HON.RESPECT Thala DECL.COMP PL flower grow DECL.COMP.CLOSE PST utter
-(honored thala said that the flowers grow.)
+ne sa sulae mena lo peloru thuroa meno to shemui
+NAME HON.RESPECT sulae DECL.COMP PL flower grow DECL.COMP.CLOSE PST utter
+(honored sulae said that the flowers grow.)
 ```
 
-Notice the difference: in indirect speech, the pronouns adjust to the current speaker's perspective. Thala's own "I" becomes `shia` (third person) because the current speaker is reporting, not quoting.
+Notice the difference: in indirect speech, the pronouns adjust to the current speaker's perspective. sulae's own "I" becomes `shia` (third person) because the current speaker is reporting, not quoting.
 
 ## When to use which
 

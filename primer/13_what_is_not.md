@@ -18,7 +18,7 @@
 ## II
 
 > **melu ha ma nai.**
-> **ne Thala ha ma nai.** — *a person's name, wearing a little word; chapter sixteen explains both.*
+> **ne sulae ha ma nai.** — *a person's name, wearing a little word; chapter sixteen explains both.*
 > **lopia lue ponu nila.**
 > **ruela maeli nai.**
 

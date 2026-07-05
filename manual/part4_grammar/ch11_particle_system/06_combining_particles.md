@@ -36,39 +36,39 @@ Each addition slots into its proper position. The result is long but entirely tr
 
 The Slot 1 order (Tense → Aspect → Voice → Evidentiality → Modality → Negation) produces clear combinations:
 
-**Mia to ki nila.** — I have seen. (past + perfective)
+**mia to ki nila.** — I have seen. (past + perfective)
 
-**Mia to si nila.** — I was seeing. (past + imperfective)
+**mia to si nila.** — I was seeing. (past + imperfective)
 
-**Nophi to se kealo.** — The story was created. (past + passive)
+**nophi to se kealo.** — The story was created. (past + passive)
 
-**Mia to ke nila.** — I saw (I infer). (past + inferential)
+**mia to ke nila.** — I saw (I infer). (past + inferential)
 
-**Mia to po nila.** — I could see. (past + possibility)
+**mia to po nila.** — I could see. (past + possibility)
 
-**Mia to ma nila.** — I did not see. (past + negation)
+**mia to ma nila.** — I did not see. (past + negation)
 
-**Mia to si ke po ma nila.** — I was not being able to see (I infer).  
+**mia to si ke po ma nila.** — I was not being able to see (I infer).  
 (past + imperfective + inferential + possibility + negation)
 
 ## Slot 0 and Slot 1 together
 
 Slot 0 particles frame; Slot 1 particles shape the verb:
 
-**Wa thia to nila?** — Did you see? (question + past)
+**wa thia to nila.** — Did you see? (question + past)
 
-**Pi no mia naphe.** — Please help me. (politeness + imperative)
+**pi no mia naphe.** — Please help me. (politeness + imperative)
 
-**Lu mia so naphe. Thia towe nai.** — If I will help, you will be well.  
+**lu mia so naphe. thia towe nai.** — If I will help, you will be well.  
 (conditional + future)
 
-**Su shea so shua.** — May peace come. (optative + future)
+**su shea so shua.** — May peace come. (optative + future)
 
 ## Slot 2 particles in complex sentences
 
 Slot 2 particles attach to their target words wherever those words appear:
 
-**Pi wa thia ha lo ru phelora peloru so nila?**  
+**pi wa thia ha lo ru phelora peloru so nila.**  
 *POL Q 2SG PROX PL INT beautiful flower FUT see*  
 "Could you please see these very beautiful flowers?"
 
@@ -95,7 +95,7 @@ Some combinations appear frequently:
 
 Every particle adds exactly one piece of information. They compose without interference. This modularity means you can express subtle distinctions that English would require entire phrases to capture:
 
-**Mia to si ke po ma naphe.**
+**mia to si ke po ma naphe.**
 
 This single sentence conveys: "I" + "past" + "ongoing" + "inferred" + "possible" + "not" + "help." In English: "I was apparently not being able to help" or "It seems I wasn't able to be helping." The Phi version is longer but clearer: each element is announced separately.
 
