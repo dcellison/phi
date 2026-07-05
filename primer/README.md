@@ -46,9 +46,9 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 |---|---|---|
 | 13 | Negation *ma* | What is not |
 | 14 | Can *po*; must *na* | The rules of the house |
-| 15 | Counting: *ta*, *wi*, *mu* and the classifiers | At the market |
+| 15 | Counting: *ta*, *wi*, *shao* and the classifiers | At the market |
 | 16 | Names with *ne*; calling with *kona*; politeness *pi* | Visitors |
-| 17 | Giving: *loa*, *howela*, *phowe* | The gift |
+| 17 | The gift noun *loamira*; sharing *phowe* | The gift |
 | 18 | And, or, also: *nela*, *sola*, *we* | Together |
 
 **Part IV — Saying and thinking**
@@ -66,4 +66,4 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 
 ## Status
 
-Parts I-II (chapters 1-12) and the pronunciation prelude are complete; Parts III-IV follow the ladder above, written a few at a time. Every Phi sentence in the primer is checked against the lexicon by `scripts/validate_examples.py`, which runs in CI.
+Parts I-III (chapters 1-18) and the pronunciation prelude are complete; Part IV follows the ladder above. Every Phi sentence in the primer is checked against the lexicon by `scripts/validate_examples.py`, which runs in CI.
