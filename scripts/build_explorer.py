@@ -99,10 +99,11 @@ landing = f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Phi — kia</title>
+<script src="theme.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body class="landing">
-<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a></nav>
+<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {body}
 <p class="doorlink"><a href="explore.html">Enter the lexicon &rarr;</a></p>
@@ -128,7 +129,7 @@ def title_of(md):
             return re.sub(r"[*`]", "", line[2:]).strip()
     return "untitled"
 
-NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <span class="here">primer</span> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a></nav>'
+NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <span class="here">primer</span> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def primer_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -137,6 +138,7 @@ def primer_page(body, title, footer_nav=""):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Phi primer &mdash; {title}</title>
+<script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
@@ -189,7 +191,7 @@ def pretty(name, kind):
         return name.replace("_", " ")
     return name.replace("_", " ")
 
-NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <span class="here">manual</span> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a></nav>'
+NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <span class="here">manual</span> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def manual_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -198,6 +200,7 @@ def manual_page(body, title, footer_nav=""):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Phi manual &mdash; {title}</title>
+<script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
@@ -270,7 +273,7 @@ print(f"wrote web/manual/: {len(sections)} sections + contents")
 # ---- the texts: transmuted literature rendered to web/texts/ ----
 TEXTS_OUT = ROOT / "web" / "texts"
 TEXTS_OUT.mkdir(parents=True, exist_ok=True)
-NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <span class="here">texts</span></nav>'
+NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <span class="here">texts</span> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def texts_page(body, title):
     return f"""<!doctype html>
@@ -279,6 +282,7 @@ def texts_page(body, title):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Phi texts &mdash; {title}</title>
+<script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
