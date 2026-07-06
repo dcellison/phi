@@ -54,6 +54,8 @@ them; words inside a compound must all exist in the lexicon.
 | `theula thimu` | all time | always | "Always" as a claim about the whole of time — the composition is the meaning, stated honestly. |
 | `mawha thimu` | no time | never | The refusal quantifier meets time; a coined "never" would only relabel this. |
 | `sheloi shemu` | many moments | often | Frequency as counted moments — ternary-system thinking applied to time. |
+| `phina shemu` | few moments | rarely | The mirror of `sheloi shemu`: scarcity of moments, stated as a count. Frequency composes (canon); a coined "rarely" would only relabel it. |
+| `soli shemu` | some moments | sometimes | The honest middle of the composed frequency scale — some moments, claiming neither many nor few. |
 
 ## Beings and life
 
