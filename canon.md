@@ -375,6 +375,20 @@ These were explicitly decided and should not silently fork again:
   protocol when the household genuinely meets one, in the same
   voice-named pattern, and playing any of them is `wile` (`sulai
   kuma wile.`, the musician plays the drum).
+- **The gap-word stands where the answer will** (settled
+  2026-07-06): a content question places its interrogative
+  exactly where the answer's phrase will stand, in the unmarked
+  sentence shape: `thia hina nila.` (you see what?), `lohau kua
+  nai.` (the dog is where?), `thia kua kipona phaelo.` (where do
+  you feel pain?). The gap-word alone marks the question; `wa`
+  asks yes/no about the whole and never co-occurs with a
+  gap-word. The askers are seven: `sua` (who), `hina` (what),
+  `weno` (when), `kua` (where), `misa` (why), `thela` (how), and
+  `wia` (how many), which stands before a classifier or noun as
+  a quantifier does (`thia wia torua phelu.`, how old are you).
+  Selection ("which cup") is `hina` before the noun, what-kind
+  being Phi's honest which. `wia`'s gloss is corrected from
+  "which" to "how many" to match its designed and attested use.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

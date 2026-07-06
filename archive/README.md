@@ -38,6 +38,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `death_lifecycle_audit.md` | The survey behind the death-is-named-plainly and rites-described rulings (2026-07-06): the designed life arc and grief family, corpus-dead; the euphemism and rites stances unruled; the rulings live in `/canon.md` |
 | `emotions_audit.md` | The survey behind the heart-composes ruling (2026-07-06): the felt basics correctly classed for the feeling grammar, carves complete, the coining stance living in one registry aside; the ruling lives in `/canon.md` |
 | `arts_audit.md` | The survey behind the work-is-its-making ruling (2026-07-06): the complete music family and carved maker cluster, asleep almost entirely; genre vocabulary rightly absent but unruled; the ruling lives in `/canon.md` |
+| `questions_audit.md` | The survey behind the gap-word ruling (2026-07-06): in-situ questions taught twice and ruled nowhere, the manual counting six askers of seven, and wia wearing the wrong gloss; the ruling lives in `/canon.md` |
 | `writing-system/` | (moved 2026-07-05) The Mayan-inspired glyph exploration began development and moved to `/writing_systems/`, joining the Tengwar mode recovered from the 2021 LaTeX manual in git history |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
 | `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |

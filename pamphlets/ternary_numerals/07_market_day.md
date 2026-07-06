@@ -28,7 +28,7 @@ two HUM.CLF trader LOC village be. ORD one trader PL bowl exchange.
 (Two traders are at the village. The first trader exchanges bowls.)
 
 wia themo noru. — ta shao wi themo noru.
-which THING.CLF bowl. — one three-group two THING.CLF bowl.
+how many THING.CLF bowl. — one three-group two THING.CLF bowl.
 (How many bowls? — Five bowls.)
 
 lopia wei piru ta shao lipha powea loa. piru wei lopia ta themo noru loa.

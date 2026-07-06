@@ -52,11 +52,11 @@ No count of bowls, no census of appetites — the only quantity that mattered, a
 
 ### Asking how many, and how much to ask
 
-`wia` (WHICH) before a classifier or noun asks the quantity question:
+`wia` (HOW MANY) before a classifier or noun asks the quantity question:
 
 ```
 wia himo miona so shua.
-which HUM.CLF person FUT come.
+how many HUM.CLF person FUT come.
 (How many people will come?)
 ```
 

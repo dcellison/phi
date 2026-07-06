@@ -249,12 +249,12 @@ directly expressible as a quantity.
 
 ### Asking About Quantity
 
-The interrogative **`wia`** (which) asks "how many?", typically
+The interrogative **`wia`** (how many) asks "how many?", typically
 preceding a classifier or noun:
 
 ```
 wia himo miona
-which HUM.CLF person
+how many HUM.CLF person
 (How many people?)
 ```
 
