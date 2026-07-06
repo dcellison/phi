@@ -21,7 +21,7 @@ These particles occupy Slot 1 and appear before the verb.
 
 ## When to use evidentials
 
-Evidential particles are optional. When no evidential appears, the sentence carries an unmarked default: the speaker is assumed to be speaking from direct knowledge or general assertion.
+Evidential particles are optional. When no evidential appears, the sentence is a plain assertion: it claims the fact and names no source. Direct knowledge is the natural assumption for present, perceivable events, but the grammar claims nothing — that is `hi`'s job.
 
 Use evidentials when:
 - The knowledge source matters for interpretation

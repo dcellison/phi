@@ -39,16 +39,17 @@ Aspect particles describe the internal structure of the action: whether it's ong
 
 ### ki: Perfective
 
-The perfective *ki* marks an action as completed with present relevance, similar to English "have done."
+The perfective *ki* marks an action as complete at whatever reference time the tense sets: *ki* have done, *to ki* had done, *so ki* will have done.
 
-**mia to ki nila.** — I have seen.  
-**thia ki shonela.** — You have learned.
+**thia ki shonela.** — You have learned.  
+**mia to ki nila.** — I had seen.  
+**mia so ki nila.** — I will have seen.
 
 ### si: Imperfective
 
-The imperfective *si* marks an action as ongoing, habitual, or in progress.
+The imperfective *si* marks an action as ongoing — in mid-flow. Habits belong to *ro*.
 
-**mia si shonela.** — I am learning. / I habitually learn.  
+**mia si shonela.** — I am learning (mid-flow).  
 **shia si thalo.** — They are walking.
 
 ### pa: Inchoative
@@ -86,13 +87,29 @@ The passive *se* shifts focus from the actor to the recipient of the action. The
 
 The passive is useful for de-emphasizing agency or when the actor is unknown or unimportant. In peace-oriented speech, it can soften statements that might otherwise assign blame.
 
+### ka: Causative
+
+The causative *ka* indicates that the subject causes someone else to perform the action, restructuring the sentence exactly as voice particles do: the causer becomes the subject, and the original subject becomes the object. Like *se*, it says who acts — it claims nothing about certainty or obligation, which is why it lives here and not with the modals.
+
+**Base:** lopia nulae. — The child sleeps.  
+**Causative:** mia lopia ka nulae. — I make the child sleep.
+
+**Base:** thia shonela. — You learn.  
+**Causative:** mia thia ka shonela. — I make you learn. (I teach you.)
+
+The voice rank's two particles combine only as *se ka*, the passive of a causative, and *ka* composes with the ranks around it in the fixed order:
+
+**lopia se ka nulae.** — The child is made to sleep.  
+**mia lopia ka na nulae.** — I must make the child sleep.  
+**mia lopia to ka ma nulae.** — I did not make the child sleep. (*ka ma* denies the causation itself; making someone refrain takes its own verb or two clauses.)
+
 ## Evidentiality
 
 Evidentiality particles mark how the speaker knows what they're claiming. They make epistemic accountability explicit. These particles are detailed in Chapter 17, but here is a summary:
 
 ### hi: Direct evidence
 
-The speaker witnessed the event with their own senses. This is the default; *hi* is optional unless emphasis is needed.
+The speaker witnessed the event with their own senses. An unmarked sentence claims no source; *hi* adds the witness claim explicitly — and its accountability.
 
 **mia hi nila.** — I see (I directly witness this).
 
@@ -116,7 +133,7 @@ The speaker is assuming or supposing rather than knowing with certainty.
 
 ## Modality
 
-Modality particles express possibility, necessity, and causation.
+Modality particles express possibility and necessity.
 
 ### po: Possibility
 
@@ -131,16 +148,6 @@ The particle *na* marks an action as necessary or obligatory.
 
 **mia na naphe.** — I must help.  
 **thia na shonela.** — You need to learn.
-
-### ka: Causative
-
-The causative *ka* indicates that the subject causes someone else to perform the action. This changes the sentence structure: the causer becomes the subject, and the original subject becomes the object.
-
-**Base:** lopia nulae. — The child sleeps.  
-**Causative:** mia lopia ka nulae. — I make the child sleep.
-
-**Base:** thia shonela. — You learn.  
-**Causative:** mia thia ka shonela. — I make you learn. (I teach you.)
 
 ## Negation
 

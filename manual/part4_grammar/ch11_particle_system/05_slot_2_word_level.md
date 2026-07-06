@@ -104,6 +104,15 @@ The particle *we* marks the following element as added to what came before: "als
 
 *we* stands before the constituent it adds — the new subject, or the repeated verb once the newcomer has been named. Chapter 18 §4 gives it a full treatment beside the conjunctions.
 
+## li: Restrictive
+
+The particle *li* restricts reference to the element it precedes: "only." It is a fence around identity — who, which, when — never a sigh over quantity.
+
+**li shia sano.** — Only they know.  
+**li ne sulae ruela sano.** — Only sulae knows the path.
+
+Quantity-restriction is not *li*'s job: "only three eggs" is a count plus a feeling, and Phi states the count (`ta shao lipha powea`) or the honest shortfall (`henoi ma nai`). Canon rules it: *li is a fence, not a sigh*.
+
 ## Proper names
 
 The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. Formal and neutral speech keep it at every mention when no honorific is present; the family register may let an established name rest bare (see ch23 §3 and the canon ruling *Names are made of Phi*):
@@ -140,10 +149,14 @@ The role honorific *le* marks respect for someone's community function or positi
 
 ## Combining Slot 2 particles
 
-Multiple Slot 2 particles can modify the same word:
+Multiple Slot 2 particles can modify the same word, and their order is the modifier-first principle applied inside the phrase: wider relations stand earlier. The cline is fixed:
+
+**we / li > ha / ra > lo / numerals > ko > ru / mo > word**
 
 **ha lo melu** — these friends  
 **ra nu wi shiro** — that second tree  
-**ha mo ko phelora peloru** — this most beautiful flower
+**ha mo ko phelora peloru** — this most beautiful flower  
+**we ha melu** — this friend too  
+**li ha lo melu** — only these friends
 
-Slot 2 particles create precise, layered descriptions while keeping each modification explicit and transparent.
+A phrase carries one discourse relation: *we* and *li* do not stack with each other. The pair micro-orders stand as ruled — `mo ko`, `ne` before any honorific, `nu` before its numeral. Slot 2 particles create precise, layered descriptions while keeping each modification explicit and transparent — and the order costs nothing to learn, because it is announce-then-deliver, one level down.

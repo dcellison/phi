@@ -429,17 +429,18 @@ def check_lexicon(entries):
 SLOT1_RANK = {
     "to": 1, "so": 1,                             # tense
     "ki": 2, "si": 2, "pa": 2, "te": 2, "ro": 2,  # aspect
-    "se": 3,                                      # voice
+    "se": 3, "ka": 3,                             # voice (canon: ka is voice)
     "hi": 4, "ke": 4, "ti": 4, "ho": 4,           # evidentiality
-    "po": 5, "na": 5, "ka": 5,                    # modality
+    "po": 5, "na": 5,                             # modality
     "ma": 6,                                      # negation
 }
 
 
 def slot1_misorders(tokens):
-    """Runs of adjacent Slot 1 particles whose ranks go backwards
-    (canon: Tense > Aspect > Voice > Evidentiality > Modality > Negation).
-    Same-rank adjacency is not flagged; only reversals are."""
+    """Runs of adjacent Slot 1 particles that violate the canon order
+    (Tense > Aspect > Voice > Evidentiality > Modality > Negation) or the
+    one-per-rank rule. The single licensed same-rank pairing is voice's
+    'se ka' (the passive of a causative)."""
     bad = []
     i = 0
     while i < len(tokens):
@@ -447,9 +448,15 @@ def slot1_misorders(tokens):
             j = i
             while j < len(tokens) and tokens[j] in SLOT1_RANK:
                 j += 1
-            ranks = [SLOT1_RANK[t] for t in tokens[i:j]]
-            if any(b < a for a, b in zip(ranks, ranks[1:])):
-                bad.append(" ".join(tokens[i:j]))
+            run = tokens[i:j]
+            ranks = [SLOT1_RANK[t] for t in run]
+            reversed_ = any(b < a for a, b in zip(ranks, ranks[1:]))
+            doubled = any(
+                a == b and (run[k], run[k + 1]) != ("se", "ka")
+                for k, (a, b) in enumerate(zip(ranks, ranks[1:]))
+            )
+            if reversed_ or doubled:
+                bad.append(" ".join(run))
             i = j
         else:
             i += 1

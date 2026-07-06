@@ -79,4 +79,4 @@ Witness (`hi`) — feeling (bare) — wish (`su`). One line each; audit weekly f
 - The stack: manual ch11 (particle system), ch15 (tense and aspect).
 - Reported speech and layering: manual ch20; `documents/grammar/particle_reference.md` for the full Slot 1 inventory.
 - The journal form: manual ch25 §2.
-- The story this pamphlet keeps returning to: primer chapter 24, *hi ke ti ho* — the snake, the well, and four people who all spoke truly.
+- The story this pamphlet keeps returning to: primer chapter 24, `hi ke ti ho` — the snake, the well, and four people who all spoke truly.
