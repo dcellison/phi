@@ -360,6 +360,21 @@ These were explicitly decided and should not silently fork again:
   rendering). A root for a complex feeling would hide the
   mechanism its compound lays open; the envy row's aside is
   hereby the rule for the class.
+- **A work is its making** (settled 2026-07-06): art-form and
+  genre roots (poem, painting, sculpture, novel, and their kin)
+  are refused by design; each would name a container where Phi
+  names an act. A work is the event noun of the verb that made
+  it: a weaving (`selomi`), a shaping (`kire`, which covers
+  drawing), a singing (`meliho`); the coined artifacts of the
+  voice are `melira` (song), `meliphe` (music), and `nophi`
+  (story), and a poem is `melira`, because Phi's page is a score
+  for the voice. `shela` (art) is the whole category and `mioru`
+  (beauty) what it expresses. The two coined instruments are
+  named for their own voices, `kuma` carrying rhythm and `phui`
+  carrying melody; further instruments may be coined by the full
+  protocol when the household genuinely meets one, in the same
+  voice-named pattern, and playing any of them is `wile` (`sulai
+  kuma wile.`, the musician plays the drum).
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
