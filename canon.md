@@ -314,6 +314,18 @@ These were explicitly decided and should not silently fork again:
   `keruko kuri` (keruko's right). No absolute left exists, so
   none can be imposed; the hearer always knows whose body
   orients the scene.
+- **States are worn, sensations are felt** (settled 2026-07-06):
+  inner and bodily states that are adjectives predicate with
+  `nai`: `mia kumoli nai.` (I am hungry), `thia mokela nai.`
+  (you are sick), `mia towe nai.` (I am well). Sensations and
+  feelings that are nouns are objects of `phaelo` (feel): `mia
+  kipona phaelo.` (I feel pain), `mia shea phaelo.` (I feel
+  peace), the pattern the journal practice has always used. A
+  body part locates the feeling with `mua` in the ordinary
+  adjunct slot: `mia mua rokai kipona phaelo.` (I feel pain in
+  my back); the healer's question is `thia kua kipona phaelo.`
+  (where do you feel pain). The identity shortcut is refused:
+  never `mia kipona nai`; a person has never been their pain.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

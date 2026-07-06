@@ -34,6 +34,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `color_system_audit.md` | The survey behind the color-composes ruling (2026-07-06): seven basics match the Berlin-Kay universals, further hues compose with `welisha`; the ruling lives in `/canon.md` |
 | `phi_development_history.md` | The manual's former Appendix C, the history of Phi's development (2021 origins through the 2026 texts); removed under the no-history rule for teaching documents (2026-07-06) |
 | `space_system_audit.md` | The survey behind the natural-ruler and sides-from-a-body rulings (2026-07-06): sixteen spatial prepositions with seven corpus-dead, the carved-but-asleep compass, the unit-less measure field; the rulings live in `/canon.md` |
+| `body_health_audit.md` | The survey behind the states-are-worn-sensations-are-felt ruling (2026-07-06): thirty body nouns and the full healing family, nearly all corpus-dead; the phaelo pattern attested in 35 files and ruled nowhere; the ruling lives in `/canon.md` |
 | `writing-system/` | (moved 2026-07-05) The Mayan-inspired glyph exploration began development and moved to `/writing_systems/`, joining the Tengwar mode recovered from the 2021 LaTeX manual in git history |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
 | `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |
