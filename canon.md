@@ -389,6 +389,23 @@ These were explicitly decided and should not silently fork again:
   Selection ("which cup") is `hina` before the noun, what-kind
   being Phi's honest which. `wia`'s gloss is corrected from
   "which" to "how many" to match its designed and attested use.
+- **The economy is a gift** (settled 2026-07-06): money, coin,
+  price, pay, buy, sell, debt, wage, wealth, and poor are refused
+  by design, completing the measurement family: the clock, the
+  ruler, and the price tag fall on the same grounds
+  (`documents/psychological_violence_of_measurement.md`, whose
+  own first examples are prices). What changes hands is said with
+  the hands' verbs: `loa` (give), `howela` (receive), `phowe`
+  (share), and `wisola` (exchange), whose grammar leans mutual
+  (`lo mia wiso wisola.`, we exchange with each other), with
+  `loamira` (gift) and `piru` (trader) beside them and exact
+  counting owed at the moment of exchange, as the market-day
+  text teaches. Worth stays carved: `rolia` is inherent, `sone`
+  is a verb because valuing is something someone does, `simoe`
+  (rich) enriches soil and colors but ranks no one, and scarcity
+  is counted honestly (`phina`, `whemoa`, `henoi`) rather than
+  named as a class of person. A market place, if one ever needs
+  naming, composes by the nouns-describe rule.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
