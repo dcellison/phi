@@ -19,6 +19,7 @@ them; words inside a compound must all exist in the lexicon.
 | `remo kire` | thought-shape | a fixed view, an opinion held rigidly | Views are shapes thought hardens into; the compound keeps their constructedness visible. |
 | `nulae nophi` | sleep-story | a dream | The founding example of Phi's compositional method. |
 | `phelu pula` | holding-wish | envy, jealousy | Names the mechanism — the wish aimed at what another holds — so speaking it is already half the analysis. Envy examined dissolves into "I want that," which is workable; a bare label would only accuse. Ruled 2026-07: no root is coined for this feeling. |
+| `nulo sano` | deep knowing | wisdom | Wisdom is knowledge with depth, and the compound says exactly that; canonized from the Heart Sutra, whose title it carries. A coined label would make wisdom a possession; the compound keeps it a dimension. |
 
 ## Cosmos and orientation
 
