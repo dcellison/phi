@@ -22,8 +22,8 @@ The single validation tool for the Phi project. Checks:
        (each element one onset + one vowel, or a lone hiatus vowel —
         never a grouped vowel pair)
      - duplicate words across files
-     - duplicate glosses (warning; report includes POS so real clashes
-       are distinguishable from cross-POS reuse)
+     - duplicate glosses (warning; case-sensitive — uppercase function
+       labels never clash with lowercase content glosses)
 
   2. Documentation examples (documents/, manual/, pamphlets/, CLAUDE.md):
      - every Phi token inside fenced code blocks exists in the lexicon
@@ -328,7 +328,9 @@ def check_lexicon(entries):
         by_word.setdefault(word, []).append(rel)
         gloss = data.get("gloss", "")
         pos = ",".join(data.get("pos", []))
-        by_gloss.setdefault(gloss.lower(), []).append((word, pos, rel))
+        # exact case: function words gloss as uppercase labels (gloss-line
+        # ruling), so case is the disambiguator, not an accident
+        by_gloss.setdefault(gloss, []).append((word, pos, rel))
 
     # Minimal-pair ratchet: no two content words may sit at edit
     # distance 1 unless the pair is grandfathered in the committed

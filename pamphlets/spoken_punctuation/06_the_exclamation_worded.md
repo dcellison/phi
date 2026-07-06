@@ -16,7 +16,7 @@ Where English writes *"How beautiful!"* — excitement smeared across the whole 
 
 ### The interjections are complete
 
-`kia.` `mea.` `lia.` `pao.` `whelani.` `teo.` — hello, thanks, yes, goodbye, welcome, careful — each a full utterance with its own period, and the period is the point: Phi's most emotionally immediate words are grammatically calm. The urgent register is real, and it is built from brevity, not volume:
+`kia.` `mea.` `lia.` `pao.` `whelani.` `teo.` — hello, thanks, yes, goodbye, welcome, watch out — each a full utterance with its own period, and the period is the point: Phi's most emotionally immediate words are grammatically calm. The urgent register is real, and it is built from brevity, not volume:
 
 ```
 teo. suliwa.
