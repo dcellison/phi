@@ -204,6 +204,18 @@ These were explicitly decided and should not silently fork again:
   along: the primer teaches it beside verb-only `tapu` (close), so
   it keeps the verb and sheds the adjective. Word-by-word audit in
   `archive/adjective_verb_adjudication.md`.
+- **Manner is a descriptor before the verb** (settled 2026-07-06):
+  Phi has no adverb class and needs none — the same descriptors
+  that modify nouns modify verbs, standing immediately before the
+  verb, inside the Slot 1 block: `to shena haolu` (said calmly),
+  `to reshi wepu` (moved fast), both from the complementizers
+  pamphlet. The verb phrase thus mirrors the noun phrase — function
+  words, then descriptors, then the head: `ha phelora thepalu` /
+  `to reshi kolua`. Depictives share the position (`thia ma
+  phelora nila`, see you as unbeautiful — Velveteen). Two early
+  texts had the descriptor outside the Slot 1 block; both were
+  realigned (Schleicher fable, Velveteen). Evidence in
+  `archive/manner_placement_study.md`; taught in ch12 §4.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

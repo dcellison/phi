@@ -181,8 +181,8 @@ wirae turema. lopia mua thepalu to wile.
 spring return. child LOC garden PST play.
 (Spring returned. The child was playing in the garden.)
 
-ta tupiwa lue shelira to shua. shia lopia sheru to nila.
-one rabbit ABL forest PST come. 3SG child slow PST see.
+ta tupiwa lue shelira to shua. shia lopia to sheru nila.
+one rabbit ABL forest PST come. 3SG child PST slow see.
 (A rabbit came from the forest. He looked at the child, slowly.)
 
 lopia mena shia ha tupiwa to sano meno to ma sano.

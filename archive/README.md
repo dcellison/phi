@@ -27,6 +27,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `EVENT_NOUN_ADJUDICATION.md` | The word-by-word audit behind the event-noun rule; the rule lives in `/canon.md` |
 | `quality_noun_adjudication.md` | The word-by-word audit behind the quality-noun rule (adjective+noun dual listings pruned, 2026-07-06); the rule lives in `/canon.md` |
 | `adjective_verb_adjudication.md` | The word-by-word audit behind the qualities-do-not-act ruling (adjective+verb dual listings pruned, 2026-07-06); the rule lives in `/canon.md` |
+| `manner_placement_study.md` | The attestation study behind the manner-descriptor placement ruling (2026-07-06); the rule lives in `/canon.md` |
 | `writing-system/` | (moved 2026-07-05) The Mayan-inspired glyph exploration began development and moved to `/writing_systems/`, joining the Tengwar mode recovered from the 2021 LaTeX manual in git history |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
 | `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |
