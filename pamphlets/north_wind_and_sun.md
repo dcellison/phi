@@ -85,7 +85,7 @@ nu ta nitho howeli ru kema to shua.
 ORD one north wind INTS strong PST come.
 (First, the North Wind came on with all its strength.)
 
-kewai howeli mo kema to shua. miona wetha mo kema to phelu.
+whekai howeli mo kema to shua. miona wetha mo kema to phelu.
 CONTR wind CMPR strong PST come. person cloth CMPR strong PST hold.
 (But the stronger the wind came, the more strongly the person held the cloth.)
 
@@ -173,7 +173,7 @@ nitho howeli nela sorae [sua mo kema nai] to shareo.
 lo shia mena [rena nu ta miona wetha ka leiro] mo kema nai meno to haolu.
 
 nu ta nitho howeli ru kema to shua.
-kewai howeli mo kema to shua. miona wetha mo kema to phelu.
+whekai howeli mo kema to shua. miona wetha mo kema to phelu.
 nitho howeli to te shua. howeli to therilu.
 
 pheo [howeli therilu] sorae sulae phelo to loa.
@@ -203,7 +203,7 @@ moli puro sharoi.
 ## What the second text showed
 
 1. **Narrative works.** Chained past-tense clauses with `to`, sequenced
-   by `pheo` and `kewai`, carried a plot with no strain — the register
+   by `pheo` and `whekai`, carried a plot with no strain — the register
    the sutta never tested.
 2. **Deep embedding works.** Scene 3's relative-inside-causative-
    inside-`mena` is the deepest nesting yet written, and the

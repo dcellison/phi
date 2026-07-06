@@ -214,13 +214,13 @@
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `kewai` | CONTR | Contrasting |
 | `phisu` | EXMP | For Example |
 | `shekoi` | SPEC | Specifically |
 | `shelao` | SUMM | In Summary |
 | `sheno` | ADD | Furthermore |
 | `shorela` | REPH | In Other Words |
 | `thelao` | CONS | Consequent |
+| `whekai` | CONTR | Contrasting |
 
 ## interjection (20)
 
