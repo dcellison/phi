@@ -63,7 +63,7 @@ The lexicon holds about nine hundred words, every one validated by machine again
 
 **Read** — the texts. Phi has a shelf of literature already: eight works rebuilt in the language rather than translated into it, from a loving-kindness meditation to a velveteen rabbit — and one famous verse it would not say.
 
-**Practice** — the pamphlets. Seven so far, on the structures learners find hardest — from relative clauses to the ternary numbers, the names, the first text, and the punctuation you can hear: each explained slowly, drilled with exercises, answers included.
+**Practice** — the pamphlets. A growing shelf on the structures learners find hardest — from relative clauses to the ternary numbers, the names, the first text, the punctuation you can hear, and the particle system entire: each explained slowly, drilled with exercises, answers included.
 
 ---
 
