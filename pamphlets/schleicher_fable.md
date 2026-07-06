@@ -25,8 +25,8 @@ ta kalora lo tumoa themo to kolua.
 one horse PL heavy THING.CLF PST carry.
 (One carried a heavy load.)
 
-ta kalora miona reshi to kolua.
-one horse person fast PST carry.
+ta kalora miona to reshi kolua.
+one horse person PST fast carry.
 (One carried a person, swiftly.)
 ```
 

@@ -30,4 +30,19 @@ The causative particle *ka* works the other direction — instead of removing a 
 
 The causer takes subject position, the one who acts moves to object, and *ka* before the verb announces the chain of influence.
 
+## Describing the action: manner
+
+Phi has no separate class of adverbs, and none is needed. The descriptors that characterize nouns also characterize verbs, and they obey the same law: the modifier stands immediately before what it modifies.
+
+*ta kalora miona to reshi kolua.* — One carried a person, swiftly.
+
+The Slot 1 particles keep their ranked place before the whole of it, so the verb phrase takes exactly the shape of the noun phrase — function words first, then descriptors, then the head:
+
+| | function words | descriptor | head |
+|---|---|---|---|
+| noun phrase | `ha` | `phelora` | `thepalu` |
+| verb phrase | `to` | `reshi` | `kolua` |
+
+"This beautiful garden"; "carried swiftly". One shape, two phrases. The same position serves when the description belongs to how something is perceived rather than how it is done — the Velveteen text's `thia ma phelora nila`, "see you as unbeautiful".
+
 That is the whole method, and it scales to everything ahead: a reliable default, and explicit, audible instructions for every departure from it. The speaker carries the burden of clarity so the listener never has to guess. Phi considers that a fair division of labor.
