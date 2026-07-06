@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The Phi transmutation teacher: type an English sentence and watch it become Phi — with the gloss, the Tengwar, and an explanation of every step.">
+<title>Phi — the teacher</title>
+<script src="theme.js"></script>
+<link rel="stylesheet" href="style.css">
+<style>
+.panel { border: 1px solid var(--line, #ccc3); border-radius: 8px; padding: .6em 1em; margin: .8em 0; }
+.panel h3 { margin: .1em 0 .3em; font-size: .8em; text-transform: uppercase; letter-spacing: .08em; opacity: .6; }
+.phi-out { font-size: 1.5em; margin: .2em 0; }
+.gloss-out { font-family: monospace; margin: .2em 0; }
+.teng-out svg { height: 2.2em; width: auto; vertical-align: middle; }
+.panel.dim, .dim { opacity: .65; }
+.panel.refusal { border-color: #b8860b66; }
+.trace li { margin: .4em 0; }
+.chips { margin: .6em 0 1em; display: flex; flex-wrap: wrap; gap: .4em; }
+.chip { border: 1px solid var(--line, #ccc6); border-radius: 999px; padding: .15em .8em; cursor: pointer; background: none; font: inherit; font-size: .85em; }
+.chip:hover { border-color: currentColor; }
+.teachbar { display: flex; gap: .5em; }
+.teachbar input { flex: 1; font: inherit; padding: .5em .8em; }
+.teachbar button { font: inherit; padding: .5em 1.2em; cursor: pointer; }
+details { margin: .35em 0; }
+details .shape { font-family: monospace; opacity: .6; font-size: .85em; margin-left: .5em; }
+</style>
+</head>
+<body>
+<nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <span class="here">teacher</span> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
+<header>
+  <h1 class="mark"><a href="index.html" style="color:inherit;text-decoration:none">p&thinsp;h&thinsp;i</a></h1>
+  <p class="sub">the transmutation teacher &middot; a demonstration, not a translator</p>
+</header>
+
+<main>
+<p>Type a sentence the primer's household might say, and watch it become Phi — the sentence, its gloss, its Tengwar, and an explanation of every step. This page runs on rules, not on a model: it demonstrates the <a href="https://github.com/dcellison/phi/blob/main/documents/taught_patterns.md">taught patterns</a>, exactly as the primer teaches them, and it is honest about what lies beyond them. Transmutation itself — the rebuilding of an idea from Phi's own concepts — is judgment, and stays human; this teacher shows you the grammar that judgment works with.</p>
+
+<div class="teachbar">
+  <input id="q" type="text" placeholder="the parent makes food&hellip;" autocomplete="off" autofocus>
+  <button id="go" type="button">teach</button>
+</div>
+
+<div class="chips">
+  <button class="chip" type="button">The parent makes food</button>
+  <button class="chip" type="button">Did rain fall?</button>
+  <button class="chip" type="button">The cat is sleeping in my bed</button>
+  <button class="chip" type="button">We will dig the earth together</button>
+  <button class="chip" type="button">The child must not swim in the river</button>
+  <button class="chip" type="button">Please may I play in the garden?</button>
+  <button class="chip" type="button">I know that the friend will come</button>
+  <button class="chip" type="button">If rain falls, then we rest at home</button>
+  <button class="chip" type="button">Close the door</button>
+  <button class="chip" type="button">The king rules the village</button>
+  <button class="chip" type="button">The sun shines</button>
+</div>
+
+<div id="out"></div>
+
+<h2>The taught patterns</h2>
+<p>The full curriculum this teacher demonstrates — thirty-eight patterns, each with its shape and a worked example. They are the primer's chapters, gathered.</p>
+<div id="patterns"></div>
+</main>
+
+<footer>
+  <p>Every rule on this page is reviewed and validator-checked in
+     <a href="https://github.com/dcellison/phi">the repository</a> before it reaches you.
+     No model runs here; what the teacher cannot do, it says so.</p>
+</footer>
+<script src="teacher.js"></script>
+</body>
+</html>
