@@ -85,7 +85,7 @@ These were explicitly decided and should not silently fork again:
 - **Covered by design — do not coin** (settled 2026-07): anger is
   `korua thero` and contempt `thiku nila` (compound registry);
   east/west are `sorae thorui`/`sorae lumae`; dream is `whemura`;
-  stop/cease is the particle `te`; wife/husband is `telu`; thought
+  stop/cease is the particle `te`; wife/husband is `tewema`; thought
   is `remo` and every other event noun comes by the event-noun
   rule; statement is `phelui`/`haolu` with the complementizers;
   timbre is `haoni welisha`; loneliness composes as `sonu` + `nuhe`;
@@ -94,11 +94,11 @@ These were explicitly decided and should not silently fork again:
 - **Refused by design** (settled 2026-07): gendered person-words
   (woman/man) do not exist and will not — distinguishing genders
   anywhere in the language would exclude people outside the binary;
-  `miona` (person), `telu` (partner), `phao` (parent) carry the load
+  `miona` (person), `tewema` (partner), `phao` (parent) carry the load
   equally for everyone. Also refused: *hunt*; generic *bad* (things
   are harmful, broken, or unwell — never simply "bad"); *blade* as
   weapon-part (knife exists only as a kitchen/craft tool);
-  *marriage* as institution (`telu`, partner, suffices); the
+  *marriage* as institution (`tewema`, partner, suffices); the
   vocabulary of domination — *to rule*, *lord/master*, *throne*,
   *bind-as-captivity* — refused 2026-07-05 and demonstrated in the
   Ring Verse refusal (`pamphlets/ring_verse_refusal.md`): the

@@ -15,7 +15,7 @@ ta wuloe wetha tupiwa mua lopia tholu to nai.
 one soft cloth rabbit LOC child space PST be.
 (A soft cloth rabbit was in the child's room.)
 
-shia roe wuloe wetha to se whea. shia wolea muhena phelu.
+shia roe wuloe wetha to se pilewa. shia wolea muhena phelu.
 3SG INS soft cloth PST PASS make. 3SG wood dust hold.
 (He was made with soft cloth. Inside, he held wood-dust.)
 
@@ -55,7 +55,7 @@ tupiwa shola hina shewo nai sholo to thilou.
 rabbit QUOT.COMP what true be QUOT.COMP.CLOSE PST inquire.
 (The rabbit asked: "What is real?")
 
-kori kalora shola shewo lue whea ma shua sholo to haolu.
+kori kalora shola shewo lue pilewa ma shua sholo to haolu.
 leather horse QUOT.COMP true ABL make NEG come QUOT.COMP.CLOSE PST speak.
 (The Leather Horse said: "Real does not come from how you are made.")
 
@@ -115,7 +115,7 @@ tupiwa to po ma tupi. tupiwa to ma lonae.
 rabbit PST POT NEG jump. rabbit PST NEG respond.
 (The rabbit could not jump. He did not answer.)
 
-lo waeshi tupiwa kau shelira to shalo.
+lo waeshi tupiwa kau shelira to rashelo.
 PL wild rabbit ALL forest PST run.
 (The wild rabbits ran back to the forest.)
 ```
@@ -129,7 +129,7 @@ lopia thero mokela to howela.
 child fire sick PST receive.
 (The child caught the fever.)
 
-tupiwa nua shia mua nuwera to thalu. tupiwa wei shia thema to nai.
+tupiwa nua shia mua nuwera to manolu. tupiwa wei shia thema to nai.
 rabbit COM 3SG LOC bed PST stay. rabbit DAT 3SG guardian PST be.
 (The rabbit stayed with him in the bed. The rabbit was his guardian.)
 

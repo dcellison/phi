@@ -21,7 +21,7 @@
 | `hurao` | patient | Patient |
 | `kaelo` | sweet | Sweet |
 | `kaeshu` | bold | Bold |
-| `kaesu` | selfish | Selfish |
+| `kasuno` | selfish | Selfish |
 | `keloa` | rough | Rough |
 | `kema` | strong | Strong |
 | `keru` | bright | Bright |
@@ -61,7 +61,6 @@
 | `motu` | humble | Humble |
 | `mueli` | plain (unadorned) | Plain |
 | `muko` | careless | Careless |
-| `muloe` | empty | Empty |
 | `mulu` | low | Low |
 | `mureli` | brown | Brown |
 | `mureo` | stable | Stable |
@@ -173,11 +172,12 @@
 | `waeshi` | wild | Wild |
 | `weilo` | balanced | Balanced |
 | `welao` | good | Good |
-| `weloma` | mutual | Mutual |
 | `welua` | fragile | Fragile |
 | `wero` | honest | Honest |
 | `wesha` | lazy | Lazy |
+| `wesoma` | mutual | Mutual |
 | `whalo` | large | Large |
+| `whemoa` | empty | Empty |
 | `wheo` | elder | Elder |
 | `whilo` | white | White |
 | `whoa` | whole | Whole |
@@ -574,12 +574,12 @@
 | `talua` | shoulder | Shoulder |
 | `teli` | bell | Bell |
 | `telo` | farmer | Farmer |
-| `telu` | partner | Partner |
 | `telui` | rhythm | Rhythm |
 | `teluno` | amphibian | Amphibian |
 | `temu` | guild | Guild |
 | `tenoa` | tool | Tool |
 | `tesu` | iron | Iron |
+| `tewema` | partner | Partner |
 | `thaeluro` | ocean | Ocean |
 | `thaeso` | midday | Midday |
 | `thalume` | ancestor | Ancestor |
@@ -638,13 +638,13 @@
 | `wapile` | wing | Wing |
 | `welisha` | color | Color |
 | `weloa` | loom | Loom |
-| `weloma` | mutual | Mutual |
 | `weloni` | body | Body |
 | `wemi` | ally | Ally |
 | `wemo` | plain | Plain |
 | `wenu` | tonic | Tonic |
 | `weoli` | reed | Reed |
 | `weru` | poet | Poet |
+| `wesoma` | mutual | Mutual |
 | `wetha` | cloth | Cloth |
 | `wethalu` | garment | Garment |
 | `wheiluro` | mist | Mist |
@@ -824,6 +824,7 @@
 | `lumera` | nourish | Nourish |
 | `lupho` | float | Float |
 | `malomi` | balance | Balance |
+| `manolu` | stay | Stay |
 | `masue` | measure | Measure |
 | `meilo` | sit | Sit |
 | `meliho` | sing | Sing |
@@ -858,7 +859,6 @@
 | `nomira` | collect | Collect |
 | `norelu` | form | Form |
 | `nowae` | awaken | Awaken |
-| `nowela` | exchange | Exchange |
 | `nuhemi` | grieve | Grieve |
 | `nuhewa` | weep | Weep |
 | `nulae` | sleep | Sleep |
@@ -891,11 +891,13 @@
 | `pholeni` | depart | Depart |
 | `phowe` | share | Sharing |
 | `phuro` | renew | Renew |
+| `pilewa` | make | Make |
 | `pilu` | take | Take |
 | `pina` | sew | Sew |
 | `pisha` | split | Split |
 | `pula` | wish | Wish |
 | `puse` | spit | Spit |
+| `rashelo` | run | Run |
 | `rato` | turn | Turn |
 | `remo` | think | Think |
 | `renoa` | liberate | Liberate |
@@ -917,7 +919,6 @@
 | `sepho` | send | Send |
 | `seroli` | mature | Mature |
 | `seru` | commit | Commit |
-| `shalo` | run | Run |
 | `shane` | tell | Tell |
 | `shareo` | discuss | Discuss |
 | `sharoi` | exceed | Exceeds |
@@ -952,7 +953,6 @@
 | `temoe` | tend | Tend |
 | `teru` | process | Process |
 | `thalo` | walk | Walk |
-| `thalu` | stay | Stay |
 | `thape` | burn | Burn |
 | `theala` | heal | Heal |
 | `theama` | care | Care |
@@ -1004,7 +1004,6 @@
 | `wesho` | locate | Locate |
 | `whaline` | thank | Thank |
 | `whano` | stand | Stand |
-| `whea` | make | Make |
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |
 | `whenola` | wander | Wander |
@@ -1017,6 +1016,7 @@
 | `wilao` | long-for | Long For |
 | `wile` | play | Play |
 | `wishe` | swim | Swim |
+| `wisola` | exchange | Exchange |
 | `woraka` | appreciate | Appreciate |
 
 ## vocative (1)

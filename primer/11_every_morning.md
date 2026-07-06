@@ -21,7 +21,7 @@
 
 > **wheo ro rihe.**
 > **wheo mua thepalu ro whunei.**
-> **phao ro rihe. phao nuora ro whea.**
+> **phao ro rihe. phao nuora ro pilewa.**
 > **lopia ro nulae.**
 > **lohau ro shua.**
 > **misheko ro nulae.**

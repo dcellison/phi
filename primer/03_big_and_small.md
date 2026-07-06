@@ -22,7 +22,7 @@
 
 > **thiku pelori meliho.**
 > **whalo lohau nulae.**
-> **welao phao nuora whea.**
+> **welao phao nuora pilewa.**
 > **lo thiku pelori wapi.**
 
 *No new words — look instead at where the old ones stand. Before a noun:* thiku pelori, *a small bird. The describer announces; the noun delivers. You have been reading this order since chapter one without being told.*

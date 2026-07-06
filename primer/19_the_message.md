@@ -20,7 +20,7 @@
 
 > **lopia mena ne sulae so shua meno sano.**
 > **phao mena ne sulae so shua meno we sano.**
-> **lopia mena lo mia sulopa so whea meno haolu.**
+> **lopia mena lo mia sulopa so pilewa meno haolu.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -30,7 +30,7 @@
 
 ## III
 
-> **phao sulopa whea.**
+> **phao sulopa pilewa.**
 > **lopia lo noru kolua.**
 > **wheo mena philo welao nai meno phaelo.**
 

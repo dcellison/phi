@@ -27,7 +27,7 @@
 
 ## III
 
-> **phao nuora whea. lo mia nuora phowe.**
+> **phao nuora pilewa. lo mia nuora phowe.**
 > **lopia wei siora sulopa loa.**
 > **wheo wei sulae napuro loa.**
 > **theula miona nuola. we lohau nuola.**

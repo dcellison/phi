@@ -5,7 +5,6 @@
 # is resolved by renaming. Never add lines for new coinages.
 haolu haowu
 hea shea
-hea whea
 helia heloa
 helia holia
 heloa heloi
@@ -25,7 +24,6 @@ helu nelu
 helu phelu
 helu selu
 helu shelu
-helu telu
 helu thelu
 helui pelui
 helui phelui
@@ -62,7 +60,6 @@ horae sorae
 horae thorae
 howela howeli
 howela kowela
-howela nowela
 kaeli kaelo
 kaeli keli
 kaeli maeli
@@ -72,8 +69,6 @@ kaelo kaero
 kaelo kelo
 kaelo kuelo
 kaero waero
-kaeshu kaesu
-kaesu kesu
 kealo kelo
 keiro kiro
 keiro leiro
@@ -121,7 +116,6 @@ kelu kolu
 kelu melu
 kelu nelu
 kelu selu
-kelu telu
 kelua keluo
 kelua kenua
 kelua kolua
@@ -217,7 +211,6 @@ korua porua
 korua torua
 kosha losha
 kosha mosha
-kowela nowela
 kuelo kulo
 kuelo nuelo
 kulai sulai
@@ -315,7 +308,6 @@ melu molu
 melu mulu
 melu nelu
 melu selu
-melu telu
 menai menui
 menoa menua
 menoa renoa
@@ -365,8 +357,6 @@ muko muro
 muko nuko
 muko puko
 muko tuko
-muloe nuloe
-muloe wuloe
 mureo muro
 muro muroa
 muro puro
@@ -375,7 +365,6 @@ muroa nuroa
 muwi nuwi
 nelu newu
 nelu selu
-nelu telu
 nemo remo
 nemo wemo
 nepha repha
@@ -391,7 +380,6 @@ noeli soeli
 noeli woeli
 noemi nomi
 nomei nomi
-nomela nowela
 nomela somela
 nomi tomi
 nophae sophae
@@ -425,7 +413,6 @@ palu pilu
 palu ralu
 peloma pelowa
 peloma pheloma
-peloma weloma
 pelori peloru
 pelua pelui
 pelua relua
@@ -553,7 +540,6 @@ seloi selomi
 selu selua
 selu seru
 selu shelu
-selu telu
 selua telua
 selua welua
 sena senao
@@ -563,23 +549,15 @@ seru sheru
 seru siru
 seru teru
 seru weru
-shaelo shalo
 shaelo shelo
 shaemu shemu
 shaemu thaemu
-shalo shalu
-shalo shao
-shalo shelo
-shalo thalo
-shalo whalo
 shalu shelu
 shalu shilu
 shalu sholu
-shalu thalu
 shea shela
 shea shena
 shea shua
-shea whea
 shela sheli
 shela shelo
 shela sheloa
@@ -651,21 +629,11 @@ sorai sorui
 sulae sulai
 sulai sunai
 talua telua
-teku telu
 teku temu
 teku teru
 teku tesu
 teli telo
-teli telu
 teli telui
-telo telu
-telu telua
-telu telui
-telu temu
-telu teru
-telu tesu
-telu thelu
-telu tolu
 telua telui
 telua welua
 telui thelui
@@ -681,11 +649,7 @@ thaemo thaemu
 thaemo thaeso
 thaemu thaeru
 thaeru theru
-thalo thalu
 thalo whalo
-thalu thasu
-thalu thelu
-thalu tholu
 theala theali
 theala theama
 theama thema
@@ -774,7 +738,6 @@ waero wuero
 weilo whilo
 welao wilao
 welira welura
-weloa weloma
 weloa welua
 welua welura
 wema wemi
@@ -797,8 +760,6 @@ wesha wesho
 wesha wetha
 whalo whano
 whalo whilo
-whea wheo
-whea whoa
 whila whilo
 whila whola
 whoa whola
@@ -813,3 +774,10 @@ wiru woru
 wolu womu
 wolu woru
 womu woru
+# WATCH (added 2026-07-06, opposition pass): deferred hazard pairs, both
+# members unused in the corpus at the time of the ruling. Whoever first
+# uses either member moves one of them at that moment, while the move is
+# still free. The pair lines above stay grandfathered until then.
+#   liroa wiroa   (playful / hopeful)
+#   phiro thiro   (elegant / serene)
+#   shorai thorai (commune / bless)

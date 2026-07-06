@@ -34,7 +34,7 @@ Why build a language you cannot rush? Because every Phi sentence rehearses the s
 
 ## Some words are missing on purpose
 
-Phi has no word for any weapon. It has no word for *bad* — things are harmful, or broken, or unwell, and the speaker must say which. It has no gendered person-words at all: *miona* is a person, *telu* a partner, *phao* a parent, and everyone is equally all of them. And it has no vocabulary of domination — no *lord*, no *throne*, no *to rule*, no binding of anyone to anything. When the Ring Verse was brought to it, the language could not comply; what came out instead was a small poem about a hearth, and the shelf keeps the whole story. A language cannot stop anyone from doing harm. But what it refuses to make easy shapes what its speakers reach for first.
+Phi has no word for any weapon. It has no word for *bad* — things are harmful, or broken, or unwell, and the speaker must say which. It has no gendered person-words at all: *miona* is a person, *tewema* a partner, *phao* a parent, and everyone is equally all of them. And it has no vocabulary of domination — no *lord*, no *throne*, no *to rule*, no binding of anyone to anything. When the Ring Verse was brought to it, the language could not comply; what came out instead was a small poem about a hearth, and the shelf keeps the whole story. A language cannot stop anyone from doing harm. But what it refuses to make easy shapes what its speakers reach for first.
 
 ## Honesty is grammatical
 

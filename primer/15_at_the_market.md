@@ -36,16 +36,16 @@
 
 > **phao wei piru lo powea loa.**
 > **piru wei phao hemilo loa.**
-> **lo shia nowela.**
+> **lo shia wisola.**
 > **lopia morisa nila. phao morisa howela.**
 
 | new word | say it | it means |
 |---|---|---|
-| nowela | no · we · la | exchange |
+| wisola | wi · so · la | exchange |
 | hemilo | he · mi · lo | honey |
 | morisa | mo · ri · sa | salt |
 
-*Eggs go to the trader; honey comes back; that two-way giving has a name —* nowela, *exchange, which is how this market works: no coins anywhere, just things finding the people who need them. The child spots salt; the parent takes some home.*
+*Eggs go to the trader; honey comes back; that two-way giving has a name —* wisola, *exchange, which is how this market works: no coins anywhere, just things finding the people who need them. The child spots salt; the parent takes some home.*
 
 ## IV
 

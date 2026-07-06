@@ -25,7 +25,7 @@
 
 ## III
 
-> **phao wela lo mia nekuma sola shalu whea welo remo.**
+> **phao wela lo mia nekuma sola shalu pilewa welo remo.**
 > **phao sulae thilou.**
 > sulae: **shalu. mea.**
 

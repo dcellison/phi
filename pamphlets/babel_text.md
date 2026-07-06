@@ -27,7 +27,7 @@ shia wemo to hekawi. shia mua wemo to soki.
 ### The great village
 
 ```
-shia shola no lo mueri kerou whea sholo to haolu.
+shia shola no lo mueri kerou pilewa sholo to haolu.
 3SG QUOT.COMP IMP PL clay stone make QUOT.COMP.CLOSE PST speak.
 (They said: make clay-stones.)
 
