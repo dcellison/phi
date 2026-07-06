@@ -886,7 +886,7 @@
 | `whoa` | whole | /ˈʍo̞.ä/ | adjective |
 | `whola` | invite | /ˈʍo̞.lä/ | verb |
 | `whori` | mend | /ˈʍo̞.ri/ | verb |
-| `whunei` | breath | /ʍu.ˈn̪e̞.i/ | verb |
+| `whunei` | breathe | /ʍu.ˈn̪e̞.i/ | verb |
 | `whuo` | WITHOUT | /ˈʍu.o̞/ | preposition |
 | `wi` | two | /ˈwi/ | numeral |
 | `wia` | which | /ˈwi.ä/ | interrogative |

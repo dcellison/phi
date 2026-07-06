@@ -1231,7 +1231,7 @@
 | `whilaru` | comb | Teeth that untangle |
 | `whinu` | smell | Olfactory perception |
 | `whoa` | whole | bodily and tangible completeness |
-| `whunei` | breath | Air cycle sustaining life |
+| `whunei` | breathe | Air cycle sustaining life |
 | `wilemo` | toy | The crafted companion |
 | `wipha` | restless | Excess energy |
 | `wirua` | wet | the state of moisture presence |
@@ -1281,7 +1281,7 @@
 | `whano` | stand | ceremonial stance for respect, witness, and participation |
 | `whelani` | welcome | ceremonial hospitality practices |
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
-| `whunei` | breath | Central to meditation practice |
+| `whunei` | breathe | Central to meditation practice |
 
 ## spatial (125)
 
