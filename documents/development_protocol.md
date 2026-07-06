@@ -49,6 +49,7 @@ The full function-word shape charter is a canon ruling (see `/canon.md`); the ch
 - [ ] **Nasals (m,n)**: Grounding, stability, internality
 - [ ] **Stops (p,t,k)**: Clear boundaries, definition (use sparingly)
 - [ ] **Vowel progression**: Consider emotional arc (e.g., closed→open = restriction→freedom)
+- [ ] **Word length**: Length is part of the symbolism. Two syllables suit the everyday and near-at-hand (the household's words: womu, melu, nila); three syllables are the lexicon's broad middle; four syllables are for what is vast, slow, gentle, or worth lingering on (toremoa, thaeluro, shelomui, loamira). Phi spends breath where breath is deserved — never shorten a word at the cost of its meaning's weight
 
 ## Philosophical Consistency
 
@@ -82,6 +83,7 @@ Each new word must explicitly connect to at least one pillar:
   - REJECT any candidate at edit distance 1 from an existing word of the same part-of-speech class (content vs. the same function class)
   - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word) — note them in `grammatical_notes`
   - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
+  - Prefer three or more syllables unless the concept truly belongs to the daily round: the two-syllable space is the most collision-congested (≈5,200 legal forms, heavily grandfathered), while three syllables offer ≈377,000 and four are effectively inexhaustible
 
 ### Step 3: Hiatus Check
 - Map all syllable breaks (use dots: CV.V.CV)
