@@ -118,6 +118,16 @@ However, this order is flexible. Speakers adjust based on what they want to emph
 *three beautiful garden*  
 "three beautiful gardens"
 
+## Qualities as nouns, things as descriptors
+
+Two regularities complete the descriptor system, and neither needs new machinery.
+
+Every adjective names its quality when it stands where a noun stands: `thua` is fair, and fairness; `wesoma` is mutual, and mutuality; `siloma` is simple, and simplicity. This is the quality-noun rule, the mirror of chapter 15's event-noun rule, and like that rule it is grammar-wide: no adjective carries a second dictionary listing for its quality, because every adjective licenses one.
+
+And every noun describes when it stands where a descriptor stands. This chapter's possession (`sila nophi`, the community's story) is one reading of that position; kind, direction, and association are others: `nitho ruela` (the north path), `wheo kowela` (the elder council), `pukea ruela` (a dangerous path). Meaning chooses among the readings, as it does throughout the noun phrase. A thing needs no adjective listing to describe; standing before the noun is enough.
+
+So each word keeps exactly one part of speech — the class of what it names first — and position does the bridging in both directions. `shea` names peace and describes the peaceful; `thua` describes the fair and names fairness. The dictionary records which is home; the grammar makes both reachable.
+
 ## Trust and precision in balance
 
 Phi's approach to specifying nouns balances contextual trust with explicit precision. The language begins with the assumption of shared understanding, leaving nouns unmarked and relying on mindful presence to provide clarity.

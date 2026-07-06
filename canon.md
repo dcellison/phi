@@ -172,12 +172,25 @@ These were explicitly decided and should not silently fork again:
   with a verb: `pheralu lepa` (rain falls), `mia roe kiru wolea
   kati` (I cut the wood with the chisel), `thema nai` (is a
   guardian), `phao lopia numelo` (the parent nurtures the child).
-  The event-noun rule is the only bridge between the classes and it
+  The event-noun rule is the only bridge between verb and noun and it
   runs one way: a deed names its event; a thing does not name its
   deed. One word changed direction rather than losing one: `kulo`
   (guide) was verb-primary all along — the Ring Verse refusal's own
   poem uses it (`ta sorui theula miona kulo`) — so it keeps the verb
   and sheds the role-noun (`rena kulo miona`, the one who guides).
+- **Qualities and their names** (settled 2026-07-06): every
+  adjective licenses its quality noun with no change of form —
+  `thua` fair and fairness, `siloma` simple and simplicity — a
+  grammar-level rule mirroring the event-noun rule; entries do NOT
+  list "noun" for this sense. The reverse direction needs no rule:
+  a noun standing before a noun already modifies it, as ch13 has
+  always taught for possession — `nitho ruela` (the north path),
+  `wheo kowela` (the elder council) — and meaning chooses the
+  reading. The 24 adjective+noun dual listings were pruned to a
+  single class (14 nouns, 10 adjectives, adjudicated by primary
+  sense in `archive/quality_noun_adjudication.md`); the validator
+  refuses the combination. One word, one class; position and the
+  two one-way rules do all the bridging.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

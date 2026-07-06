@@ -239,6 +239,8 @@ def load_lexicon():
         pos = data.get("pos", [])
         if "noun" in pos and "verb" in pos:
             errors.append(f"{rel}: pos lists both noun and verb - refused by ruling: a deed names its event; a thing does not name its deed")
+        if "adjective" in pos and "noun" in pos:
+            errors.append(f"{rel}: pos lists both adjective and noun - refused by ruling: a quality names itself (quality-noun rule); a thing describes by position")
         entries.append((rel, data))
     return entries, errors
 

@@ -22,7 +22,7 @@
 | `hea` | hear | /ˈhe̞.ä/ | verb |
 | `hei` | hey | /ˈhe̞.i/ | interjection |
 | `hekawi` | find | /he̞.ˈkä.wi/ | verb |
-| `helia` | youth | /he̞.ˈli.ä/ | noun, adjective |
+| `helia` | youth | /he̞.ˈli.ä/ | noun |
 | `heloa` | remedy | /he̞.ˈlo̞.ä/ | noun |
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
 | `helu` | smooth | /ˈhe̞.lu/ | adjective, verb |
@@ -143,7 +143,7 @@
 | `kupela` | secret | /ku.ˈpe̞.lä/ | noun |
 | `kurathi` | dry | /ku.ˈrä.θi/ | adjective |
 | `kuremi` | grind | /ku.ˈre̞.mi/ | verb |
-| `kuri` | right | /ˈku.ri/ | noun, adjective |
+| `kuri` | right | /ˈku.ri/ | noun |
 | `kurisha` | storm | /ku.ˈri.ʃä/ | noun |
 | `kuroi` | muscle | /ku.ˈro̞.i/ | noun |
 | `kurona` | horn | /ku.ˈro̞.n̪ä/ | noun |
@@ -153,7 +153,7 @@
 | `lao` | BECAUSE | /ˈlä.o̞/ | conjunction |
 | `lathoe` | tongue | /lä.ˈθo̞.e̞/ | noun |
 | `lau` | twenty-seven-group | /ˈlä.u/ | noun |
-| `lawe` | left | /ˈlä.we̞/ | noun, adjective |
+| `lawe` | left | /ˈlä.we̞/ | noun |
 | `le` | HON.ROLE | /ˈle̞/ | particle |
 | `lei` | harmony | /ˈle̞.i/ | verb |
 | `leiro` | release | /le̞.ˈi.ro̞/ | verb |
@@ -213,7 +213,7 @@
 | `luera` | past | /lu.ˈe̞.rä/ | noun |
 | `luma` | lamp | /ˈlu.mä/ | noun |
 | `lumae` | end | /lu.ˈmä.e̞/ | noun |
-| `lumani` | family | /lu.ˈmä.n̪i/ | noun, adjective |
+| `lumani` | family | /lu.ˈmä.n̪i/ | noun |
 | `lumeo` | die | /lu.ˈme̞.o̞/ | verb |
 | `lumera` | nourish | /lu.ˈme̞.rä/ | verb |
 | `lumira` | descendant | /lu.ˈmi.rä/ | noun |
@@ -344,7 +344,7 @@
 | `nira` | cord | /ˈn̪i.rä/ | noun |
 | `nireku` | insect | /n̪i.ˈre̞.ku/ | noun |
 | `niro` | web | /ˈn̪i.ro̞/ | noun |
-| `nitho` | north | /ˈn̪i.θo̞/ | noun, adjective |
+| `nitho` | north | /ˈn̪i.θo̞/ | noun |
 | `no` | IMP | /ˈn̪o̞/ | particle |
 | `noa` | position | /ˈn̪o̞.ä/ | noun |
 | `noalu` | tranquil | /n̪o̞.ˈä.lu/ | adjective |
@@ -359,7 +359,7 @@
 | `noluha` | swallow | /n̪o̞.ˈlu.hä/ | verb |
 | `nomei` | name | /n̪o̞.ˈme̞.i/ | noun |
 | `nomela` | encourage | /n̪o̞.ˈme̞.lä/ | verb |
-| `nomi` | present | /ˈn̪o̞.mi/ | adjective, noun |
+| `nomi` | present | /ˈn̪o̞.mi/ | noun |
 | `nomira` | collect | /n̪o̞.ˈmi.rä/ | verb |
 | `nophae` | nose | /n̪o̞.ˈɸä.e̞/ | noun |
 | `nophe` | ABST.CLF | /ˈn̪o̞.ɸe̞/ | classifier |
@@ -433,7 +433,7 @@
 | `phanoi` | portion | /ɸä.ˈn̪o̞.i/ | verb |
 | `phanu` | canvas | /ˈɸä.n̪u/ | noun |
 | `phao` | parent | /ˈɸä.o̞/ | noun |
-| `pharea` | adult | /ɸä.ˈre̞.ä/ | noun, adjective |
+| `pharea` | adult | /ɸä.ˈre̞.ä/ | noun |
 | `pharelo` | cook | /ɸä.ˈre̞.lo̞/ | verb |
 | `phari` | pen | /ˈɸä.ri/ | noun |
 | `pharoe` | chest | /ɸä.ˈro̞.e̞/ | noun |
@@ -451,7 +451,7 @@
 | `pheluka` | lightning | /ɸe̞.ˈlu.kä/ | noun |
 | `phemi` | guest | /ˈɸe̞.mi/ | noun |
 | `phemila` | host | /ɸe̞.ˈmi.lä/ | noun |
-| `phena` | kind | /ˈɸe̞.n̪ä/ | adjective, noun |
+| `phena` | kind | /ˈɸe̞.n̪ä/ | adjective |
 | `pheno` | full | /ˈɸe̞.n̪o̞/ | adjective |
 | `phenui` | thoughtful | /ɸe̞.ˈn̪u.i/ | adjective |
 | `pheo` | POST | /ˈɸe̞.o̞/ | conjunction |
@@ -510,7 +510,7 @@
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun |
 | `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
-| `pukea` | danger | /pu.ˈke̞.ä/ | noun, adjective |
+| `pukea` | danger | /pu.ˈke̞.ä/ | noun |
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
@@ -547,7 +547,7 @@
 | `rolu` | wheel | /ˈro̞.lu/ | noun |
 | `rolutha` | wagon | /ro̞.ˈlu.θä/ | noun |
 | `romishe` | contemplate | /ro̞.ˈmi.ʃe̞/ | verb |
-| `ronua` | south | /ro̞.ˈn̪u.ä/ | noun, adjective |
+| `ronua` | south | /ro̞.ˈn̪u.ä/ | noun |
 | `rotiku` | dance | /ro̞.ˈt̪i.ku/ | verb |
 | `ru` | INTS | /ˈru/ | particle |
 | `ruela` | path | /ru.ˈe̞.lä/ | noun |
@@ -583,7 +583,7 @@
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
 | `sharoi` | exceed | /ʃä.ˈro̞.i/ | verb |
-| `shea` | peace | /ˈʃe̞.ä/ | noun, adjective |
+| `shea` | peace | /ˈʃe̞.ä/ | noun |
 | `shekoi` | SPEC | /ʃe̞.ˈko̞.i/ | discourse |
 | `shela` | art | /ˈʃe̞.lä/ | noun |
 | `shelami` | MOST | /ʃe̞.ˈlä.mi/ | quantifier |
@@ -608,7 +608,7 @@
 | `shewo` | true | /ˈʃe̞.wo̞/ | adjective |
 | `shia` | 3SG | /ˈʃi.ä/ | pronoun |
 | `shila` | winter | /ˈʃi.lä/ | noun |
-| `shiloa` | pure | /ʃi.ˈlo̞.ä/ | adjective, noun |
+| `shiloa` | pure | /ʃi.ˈlo̞.ä/ | adjective |
 | `shilu` | blue | /ˈʃi.lu/ | adjective |
 | `shimalo` | discipline | /ʃi.ˈmä.lo̞/ | verb |
 | `shioli` | silver | /ʃi.ˈo̞.li/ | noun |
@@ -635,7 +635,7 @@
 | `shumu` | moss | /ˈʃu.mu/ | noun |
 | `shuna` | edge | /ˈʃu.n̪ä/ | noun |
 | `shupi` | plateau | /ˈʃu.pi/ | noun |
-| `shurano` | safe | /ʃu.ˈrä.n̪o̞/ | adjective, noun |
+| `shurano` | safe | /ʃu.ˈrä.n̪o̞/ | adjective |
 | `shuroa` | shelter | /ʃu.ˈro̞.ä/ | noun |
 | `si` | IPFV | /ˈsi/ | particle |
 | `siheloa` | breeze | /si.he̞.ˈlo̞.ä/ | noun |
@@ -643,7 +643,7 @@
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |
 | `silero` | star | /si.ˈle̞.ro̞/ | noun |
-| `siloma` | simple | /si.ˈlo̞.mä/ | adjective, noun |
+| `siloma` | simple | /si.ˈlo̞.mä/ | adjective |
 | `sima` | thread | /ˈsi.mä/ | noun |
 | `simoe` | rich | /si.ˈmo̞.e̞/ | adjective |
 | `sio` | BESIDE | /ˈsi.o̞/ | preposition |
@@ -662,7 +662,7 @@
 | `soliru` | hope | /so̞.ˈli.ru/ | verb |
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb |
 | `sone` | value | /ˈso̞.n̪e̞/ | verb |
-| `sonu` | alone | /ˈso̞.n̪u/ | adjective, noun |
+| `sonu` | alone | /ˈso̞.n̪u/ | adjective |
 | `sophae` | cotton | /so̞.ˈɸä.e̞/ | noun |
 | `sorae` | sun | /so̞.ˈrä.e̞/ | noun |
 | `sorai` | insight | /so̞.ˈrä.i/ | noun |
@@ -708,7 +708,7 @@
 | `thaeso` | midday | /θä.ˈe̞.so̞/ | noun |
 | `thalo` | walk | /ˈθä.lo̞/ | verb |
 | `thalume` | ancestor | /θä.ˈlu.me̞/ | noun |
-| `thaluni` | kin | /θä.ˈlu.n̪i/ | noun, adjective |
+| `thaluni` | kin | /θä.ˈlu.n̪i/ | noun |
 | `thape` | burn | /ˈθä.pe̞/ | verb |
 | `thasu` | modest | /ˈθä.su/ | adjective |
 | `theala` | heal | /θe̞.ˈä.lä/ | verb |
@@ -724,7 +724,7 @@
 | `thelao` | CONS | /θe̞.ˈlä.o̞/ | discourse |
 | `theli` | EACH | /ˈθe̞.li/ | quantifier |
 | `thelima` | describe | /θe̞.ˈli.mä/ | verb |
-| `theloa` | truth | /θe̞.ˈlo̞.ä/ | noun, adjective |
+| `theloa` | truth | /θe̞.ˈlo̞.ä/ | noun |
 | `theloma` | justice | /θe̞.ˈlo̞.mä/ | noun |
 | `thelomi` | lake | /θe̞.ˈlo̞.mi/ | noun |
 | `thelu` | dialogue | /ˈθe̞.lu/ | verb |
@@ -752,7 +752,7 @@
 | `theru` | thick | /ˈθe̞.ru/ | adjective |
 | `therua` | eager | /θe̞.ˈru.ä/ | adjective |
 | `thesa` | careful | /ˈθe̞.sä/ | adjective |
-| `thesua` | mindful | /θe̞.ˈsu.ä/ | adjective, noun |
+| `thesua` | mindful | /θe̞.ˈsu.ä/ | adjective |
 | `theula` | UNIV | /θe̞.ˈu.lä/ | quantifier |
 | `thia` | 2SG | /ˈθi.ä/ | pronoun |
 | `thiku` | small | /ˈθi.ku/ | adjective |
@@ -773,7 +773,7 @@
 | `tholira` | forgive | /θo̞.ˈli.rä/ | verb |
 | `tholu` | space | /ˈθo̞.lu/ | noun |
 | `tholua` | ancient | /θo̞.ˈlu.ä/ | adjective |
-| `thomari` | courage | /θo̞.ˈmä.ri/ | noun, adjective |
+| `thomari` | courage | /θo̞.ˈmä.ri/ | noun |
 | `thona` | ADVRS | /ˈθo̞.n̪ä/ | conjunction |
 | `thonai` | responsible | /θo̞.ˈn̪ä.i/ | adjective |
 | `thonua` | scholar | /θo̞.ˈn̪u.ä/ | noun |
@@ -786,7 +786,7 @@
 | `thoru` | proud | /ˈθo̞.ru/ | adjective |
 | `thorui` | beginning | /θo̞.ˈru.i/ | noun |
 | `thowia` | born | /θo̞.ˈwi.ä/ | verb |
-| `thua` | fair | /ˈθu.ä/ | noun, adjective |
+| `thua` | fair | /ˈθu.ä/ | adjective |
 | `thue` | THROUGH | /ˈθu.e̞/ | preposition |
 | `thueli` | intend | /θu.ˈe̞.li/ | verb |
 | `thula` | spring | /ˈθu.lä/ | noun |
@@ -820,7 +820,7 @@
 | `toremoa` | mountain | /t̪o̞.re̞.ˈmo̞.ä/ | noun |
 | `toru` | roof | /ˈt̪o̞.ru/ | noun |
 | `torua` | year | /t̪o̞.ˈru.ä/ | noun |
-| `towe` | well | /ˈt̪o̞.we̞/ | noun, adjective |
+| `towe` | well | /ˈt̪o̞.we̞/ | adjective |
 | `tua` | no | /ˈt̪u.ä/ | interjection |
 | `tuko` | sour | /ˈt̪u.ko̞/ | adjective |
 | `tulira` | tail | /t̪u.ˈli.rä/ | noun |
@@ -830,7 +830,7 @@
 | `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb |
 | `wa` | Q | /ˈwä/ | particle |
-| `waeli` | conscious | /wä.ˈe̞.li/ | adjective, noun |
+| `waeli` | conscious | /wä.ˈe̞.li/ | adjective |
 | `waero` | sky | /wä.ˈe̞.ro̞/ | noun |
 | `waeshi` | wild | /wä.ˈe̞.ʃi/ | adjective |
 | `wao` | wow | /ˈwä.o̞/ | interjection |
@@ -864,7 +864,7 @@
 | `weru` | poet | /ˈwe̞.ru/ | noun |
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
-| `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective, noun |
+| `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
@@ -877,7 +877,7 @@
 | `whemoa` | empty | /ʍe̞.ˈmo̞.ä/ | adjective |
 | `whemura` | dream | /ʍe̞.ˈmu.rä/ | verb |
 | `whenola` | wander | /ʍe̞.ˈn̪o̞.lä/ | verb |
-| `wheo` | elder | /ˈʍe̞.o̞/ | noun, adjective |
+| `wheo` | elder | /ˈʍe̞.o̞/ | noun |
 | `whesu` | blow | /ˈʍe̞.su/ | verb |
 | `whila` | hair | /ˈʍi.lä/ | noun |
 | `whilaru` | comb | /ʍi.ˈlä.ru/ | noun |
