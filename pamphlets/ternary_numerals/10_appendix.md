@@ -36,7 +36,7 @@ Always optional; nature-*now* decides; declining to classify is the honest form 
 | `rei silero` | countless stars |
 | `henoi sulopa` | enough soup — the only quantity that mattered |
 
-Quantifier row: `theula` (UNIV), `sheloi` (MANY), `shelami` (MOST), `soli` (SOME), `phina` (FEW), `theli` (EACH), `wheli` (ANY), `mawha` (NONE), `henoi` (ENOUGH). The question: `wia` (WHICH) — `wia himo miona` (how many people?).
+Quantifier row: `theula` (UNIV), `sheloi` (MANY), `shelami` (MOST), `soli` (SOME), `phina` (FEW), `theli` (EACH), `wheli` (ANY), `mawha` (NONE), `henoi` (ENOUGH). The question: `wia` (HOW MANY) — `wia himo miona` (how many people?).
 
 ### Position
 

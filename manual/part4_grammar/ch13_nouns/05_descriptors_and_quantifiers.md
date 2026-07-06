@@ -48,7 +48,7 @@ Phi provides words covering the full spectrum of quantity:
 These quantifiers precede the noun directly:
 
 **sheloi melu**  
-*many friend*  
+*MANY friend*  
 "many friends"
 
 **phina shiro**  

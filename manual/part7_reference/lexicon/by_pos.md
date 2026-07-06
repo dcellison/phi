@@ -257,7 +257,7 @@
 | `sua` | who | Who |
 | `thela` | how | How |
 | `weno` | when | When |
-| `wia` | which | How Many |
+| `wia` | how many | How Many |
 
 ## noun (373)
 

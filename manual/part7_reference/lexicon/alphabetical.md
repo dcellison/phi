@@ -889,7 +889,7 @@
 | `whunei` | breathe | /ʍu.ˈn̪e̞.i/ | verb |
 | `whuo` | WITHOUT | /ˈʍu.o̞/ | preposition |
 | `wi` | two | /ˈwi/ | numeral |
-| `wia` | which | /ˈwi.ä/ | interrogative |
+| `wia` | how many | /ˈwi.ä/ | interrogative |
 | `wiero` | imaginative | /wi.ˈe̞.ro̞/ | adjective |
 | `wilao` | long-for | /wi.ˈlä.o̞/ | verb |
 | `wile` | play | /ˈwi.le̞/ | verb |
