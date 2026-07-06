@@ -12,7 +12,7 @@ The first two ranks of the verb's dress: *when* (tense) and *what shape in time*
 | `te` | CESS | ending |
 | `ro` | HAB | habitual — the pattern across occasions |
 
-Canon carved the one blurred border in July 2026: `si` is mid-flow only, `ro` is habit only, and they do not overlap. The corpus always knew — every `si` in validated text is something unfolding under the speaker's eyes, and the language's most beloved habitual has been on the right particle since the primer's first cat:
+Canon carves the one blurred border: `si` is mid-flow only, `ro` is habit only, and they do not overlap. Every `si` in validated text is something unfolding under the speaker's eyes, and the language's most beloved habitual sits where it belongs, on `ro`, starting with the primer's first cat:
 
 ```
 shia to si ke thalo.

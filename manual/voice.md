@@ -5,7 +5,7 @@ the vocabulary are the two most important artifacts of this project;
 the vocabulary has a validator, and this document is the manual's
 equivalent. Exemplars of the target voice: chapter 24 (transmutation),
 chapter 23 (social context), chapter 25 (living in Phi), and
-appendices B and C.
+appendix B.
 
 ## The stance
 
@@ -84,6 +84,15 @@ twice a section, no emoji.
 the one thing the reader should walk away holding — stated once,
 cleanly, and then the door.
 
+**13. Now, not history.** The manual and pamphlets state how the
+language is, never how it came to be: no retired forms, no past
+corrections, no decision dates, no audits, no project chronology.
+A learner reading "this was renamed in July" is being told about
+the project instead of the language. History has two homes,
+`/canon.md` and `/archive/`; teaching prose is neither. The one
+exception is a text's own gap log, which records how that text was
+transmuted: that is method, and the companion pamphlets teach it.
+
 ## The lexicon register
 
 Vocabulary entries are not manual prose; they are reference entries,
@@ -92,7 +101,7 @@ and they have their own register. The rules above apply, plus:
 **Description**: defines the word's actual range of use in two to
 four sentences — what it covers, what it does not, what neighbors it
 has. Concrete situations beat abstract praise. If the word belongs to
-a family or replaced an earlier form, say so.
+a family, say so.
 
 **Sound symbolism**: describes only sounds the word actually
 contains, named accurately (a word with `th` has /θ/, not 't'). The

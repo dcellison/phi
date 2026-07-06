@@ -1,6 +1,6 @@
 # ta haoluma — the Babel text
 
-*For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11 is the story of how one speech became many, and nearly every constructed language has carried it. This is Phi's — the fourth text, and the first to require new vocabulary since the primer began: `haoluma` (language) and `thiwera` (scatter), both coined for it. It is a transmutation, not a translation, and it departs from Genesis deliberately: the notes say exactly where and why.*
+*For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11 is the story of how one speech became many, and nearly every constructed language has carried it. This is Phi's, and it asked for two coinings: `haoluma` (language) and `thiwera` (scatter). It is a transmutation, not a translation, and it departs from Genesis deliberately: the notes say exactly where and why.*
 
 ---
 
@@ -90,7 +90,7 @@ ALSO PROX language garden be.
 (This language, too, is a garden.)
 ```
 
-**Notes:** the coda is Phi's own, with no source in Genesis — the sowing frame carried to its conclusion. If the peoples were scattered as seeds, then every language since is one of the gardens that grew. The last line is the first time Phi has ever referred to itself: `ha haoluma` — this language. It took four texts and nine hundred words for the language to say *I*.
+**Notes:** the coda is Phi's own, with no source in Genesis — the sowing frame carried to its conclusion. If the peoples were scattered as seeds, then every language since is one of the gardens that grew. The last line is Phi referring to itself: `ha haoluma` — this language.
 
 ---
 

@@ -1,6 +1,6 @@
 # Part 6: The spoken capital
 
-Phi has no capital letters — not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*, 2026-07-05) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and a mark may carry meaning only if every mode can carry it. Case exists only in Latin script; therefore nothing in Phi may mean anything by it. What capitals do for names, `ne` does aloud — and *aloud* is the point, because every mode has a voice even when it has no case.
+Phi has no capital letters — not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and a mark may carry meaning only if every mode can carry it. Case exists only in Latin script; therefore nothing in Phi may mean anything by it. What capitals do for names, `ne` does aloud — and *aloud* is the point, because every mode has a voice even when it has no case.
 
 This chapter is the writer's checklist: four surfaces where an English-trained hand will reach for a capital, and what Phi does instead on each.
 
@@ -22,7 +22,7 @@ Switch the texts shelf to tengwar and look at any line: nothing is taller than a
 
 ### Why the language holds this line
 
-Phi's punctuation ruling and its letters ruling are the same thought twice: a silent mark is justified only where no word is visible to do its work. The question mark fell to `wa`, the quotation marks to `shola … sholo`, the comma of address to `kona` — and the capital letter of a name fell to `ne`, the one that was audible all along. Only the period survived the audit, because sentence-end genuinely has no word. A name does.
+Phi's punctuation ruling and its letters ruling are the same thought twice: a silent mark is justified only where no word is visible to do its work. The question mark fell to `wa`, the quotation marks to `shola … sholo`, the comma of address to `kona` — and the capital letter of a name fell to `ne`, the one that was audible all along. Only the period survives, because sentence-end genuinely has no word. A name does.
 
 ### Drill: lower the flags
 

@@ -228,5 +228,4 @@ narrative grammar's numerals material was dissolved into the manual.)*
 
 - Appendix A: Glossary of Linguistic Terms
 - Appendix B: Comparison with Natural Languages
-- Appendix C: The History of Phi's Development
-- Appendix D: Resources for Further Study
+- Appendix C: Resources for Further Study

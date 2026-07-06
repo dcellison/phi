@@ -1,6 +1,6 @@
 # Part 8: The interaction tables
 
-The audit that produced this pamphlet found the system consistent but its combinations scattered — ruled here, attested there, nowhere gathered. These tables are the gathering: every pairing the machine permits, refuses, or has honestly never needed. Three kinds of cell, marked plainly: **ruled** (canon says), **attested** (the corpus does), **empty** (never yet needed — listed, not legislated). The empty cells are not gaps; they are the language being exact about how it has not yet spoken.
+The system is consistent but its combinations live scattered — ruled here, attested there, nowhere gathered. These tables are the gathering: every pairing the machine permits, refuses, or has honestly never needed. Three kinds of cell, marked plainly: **ruled** (canon says), **attested** (the corpus does), **empty** (never yet needed — listed, not legislated). The empty cells are not gaps; they are the language being exact about how it has not yet spoken.
 
 ### Table 1: Slot 0 with Slot 0
 

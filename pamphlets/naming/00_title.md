@@ -8,7 +8,7 @@
 
 ---
 
-A name in Phi is not a special kind of word. It is an ordinary word — *warm*, *joy*, *seed* — that a person carries, announced by the small particle `ne` the way a capital letter would announce it in English, except that you can hear `ne`, and no writing mode can lose it. The doctrine belongs to the manual — chapter 11 §5 owns the particles, chapter 23 owns the social art, and the canon rulings of July 2026 settled the rest — so this pamphlet does what the series does: drills, volume, judgment, until the machinery of address is reflex and the honesty it asks for is habit.
+A name in Phi is not a special kind of word. It is an ordinary word — *warm*, *joy*, *seed* — that a person carries, announced by the small particle `ne` the way a capital letter would announce it in English, except that you can hear `ne`, and no writing mode can lose it. The doctrine belongs to the manual — chapter 11 §5 owns the particles, chapter 23 owns the social art, and the canon rulings settle the rest — so this pamphlet does what the series does: drills, volume, judgment, until the machinery of address is reflex and the honesty it asks for is habit.
 
 Two skills interleave throughout. The first is mechanical: placing `ne`, `kona`, and the honorifics in their fixed order, at speaking pace, without thought. The second is the one Phi actually cares about: telling the truth with them — announcing only the relationships you have, resting a name only where presence has earned it, and never once making a person taller than the words around them.
 

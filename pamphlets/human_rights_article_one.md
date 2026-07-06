@@ -1,6 +1,6 @@
 # theula miona — Article 1 of the Universal Declaration of Human Rights
 
-*The most-translated document in human history begins with one article, and that article is the standard sample by which the world's languages are compared. This is Phi's third text — and the first that required no new vocabulary at all: every concept the article needs, the language already held. A transmutation, not a translation; the notes record every adaptation.*
+*The most-translated document in human history begins with one article, and that article is the standard sample by which the world's languages are compared. Phi's version required no new vocabulary at all: every concept the article needs, the language already holds. A transmutation, not a translation; the notes record every adaptation.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Part 6: The exclamation, worded
 
-The exclamation mark fell in the audit like the others, but it fell differently: no single word took its job, because it never had a single job. English's "!" is volume lent to a whole sentence — urgency, delight, warning, emphasis, all drawn with the same vertical line, none of them distinguished. Phi splits the work among words that each do one thing honestly, which means the exclamation did not go missing. It went specific.
+The exclamation mark fell like the others, but it fell differently: no single word took its job, because it never had a single job. English's "!" is volume lent to a whole sentence — urgency, delight, warning, emphasis, all drawn with the same vertical line, none of them distinguished. Phi splits the work among words that each do one thing honestly, which means the exclamation did not go missing. It went specific.
 
 ### Intensity lands on its word
 
@@ -36,7 +36,7 @@ OPT UNIV well be.
 (May all be well.)
 ```
 
-The quick reference's own example, and the register of every wish in the first text (Pamphlet 6): nineteen of them, not one exclaimed.
+The quick reference's own example, and the register of every wish in the Metta Sutta (Pamphlet 6): nineteen of them, not one exclaimed.
 
 ### What this refuses
 

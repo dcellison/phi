@@ -49,4 +49,4 @@ Each is mis-stacked. Fix it aloud, then name what was filed wrong:
 3. `pheralu ho so shua.`
 4. `mia lopia na ka wile.`
 
-Answers: 1 `mia to ma sheluo.` — negation had crept ahead of time. 2 `shia to hi wepu.` — the witness-claim before the when; evidence is rank four, not rank one. 3 `pheralu so ho shua.` — the assumption had swallowed the future. 4 `mia lopia ka na wile.` — voice precedes modality: first who was made to act, then what constrained the making. All four wrong forms are real relics or near-relics of the audit; you are repairing the corpus's own history.
+Answers: 1 `mia to ma sheluo.` — negation had crept ahead of time. 2 `shia to hi wepu.` — the witness-claim before the when; evidence is rank four, not rank one. 3 `pheralu so ho shua.` — the assumption had swallowed the future. 4 `mia lopia ka na wile.` — voice precedes modality: first who was made to act, then what constrained the making. All four wrong forms are the ones an English-trained ear reaches for first; repairing them is how the order becomes reflex.
