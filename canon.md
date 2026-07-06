@@ -179,6 +179,48 @@ These were explicitly decided and should not silently fork again:
   poem uses it (`ta sorui theula miona kulo`) — so it keeps the verb
   and sheds the role-noun (`rena kulo miona`, the one who guides).
 
+- **The unmarked sentence claims no source** (settled 2026-07-05): an
+  unmarked sentence is a plain assertion — it states the fact and names
+  no source. Direct knowledge is the natural assumption for present,
+  perceivable events, but the grammar claims nothing; `hi` exists
+  precisely so witnesshood can be claimed explicitly and accountably.
+  Marking settled knowledge manufactures doubt; the unmarked form is
+  the system's resting state.
+- **`si` and `ro` do not overlap** (settled 2026-07-05): `si` is
+  ongoing/progressive only — action in mid-flow; `ro` is
+  habitual/characteristic only — the pattern an action wears across
+  occasions (`misheko ro nulae`). Habits never take `si`.
+- **`ki` completes at the tense's reference time** (settled
+  2026-07-05): `ki` = have done (complete as of now), `to ki` = had
+  done, `so ki` = will have done — as the lexicon entry and ch15 have
+  always said; the stray "have done" translations of `to ki` were the
+  error.
+- **One per rank** (settled 2026-07-05): each Slot 1 rank admits at
+  most one particle per clause — one tense, one aspect, one source,
+  one modal — with a single ruled pairing inside voice: `se ka`, the
+  passive of a causative. Complexity otherwise goes into more clauses,
+  not thicker stacks; two sources are two sentences.
+- **`ka` is voice** (settled 2026-07-05): the causative restructures
+  arguments, exactly as the passive does, and claims nothing about
+  certainty or obligation; it sits in the Voice rank beside `se`.
+  Within the rank the order is fixed `se ka` (`lopia se ka nulae`, the
+  child is made to sleep). With modals, voice precedes modality:
+  `ka na` (must make), `ka po` (can make), the modal scoping the whole
+  caused event. `ka ma` denies the causation itself (`mia lopia to ka
+  ma nulae`, I did not make the child sleep); caused refraining is
+  said with its own verb or two clauses.
+- **`li` is a fence, not a sigh** (settled 2026-07-05): `li` restricts
+  identity — `li shia sano` (only they know), `li nosa` (only now) —
+  and is refused on quantities: exact counts and `henoi` carry
+  quantity-honesty. "Only three eggs" is a count plus a feeling, and
+  Phi states the count.
+- **Slot 2 nests** (settled 2026-07-05): within a phrase, wider
+  relations stand earlier — `we`/`li` > `ha`/`ra` > `lo`/numerals >
+  `ko` > `ru`/`mo` > the word — modifier-first applied inside the
+  phrase (attested: `ha lo ru phelora peloru`). `we` and `li` do not
+  stack with each other; the pair micro-orders stand (`mo ko`, `ne`
+  before any honorific, `nu` before its numeral).
+
 ## Validation
 
 Run before committing anything that touches vocabulary or examples:

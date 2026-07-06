@@ -22,12 +22,16 @@ With a transitive verb, the same shift happens and the original object stays whe
 
 ## With tense and aspect
 
-`ka` is a Slot 1 modal and sits in the fixed order — tense, aspect, then modality — as a block before the verb:
+`ka` is a Slot 1 voice particle — like the passive `se`, it restructures who acts — and sits in the fixed order: tense, aspect, then voice, as a block before the verb:
 
 > **mia thia to ka theo** — "I made you read"
 > **mia thia so ka theo** — "I will make you read"
 > **mia thia si ka theo** — "I am making you read"
 > **mia thia ki ka theo** — "I have made you read"
+> **lopia se ka nulae** — "The child is made to sleep"
+> **mia lopia ka na nulae** — "I must make the child sleep"
+
+The voice pair is fixed `se ka`; with modals, voice precedes modality (`ka na` must make, `ka po` can make), the modal scoping the whole caused event. And `ka ma` denies the causation itself — **mia lopia to ka ma nulae**, "I did not make the child sleep" — the honest refusal of authorship. Making someone refrain is said with its own verb or two clauses.
 
 ## What the visibility is for
 

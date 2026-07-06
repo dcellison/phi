@@ -93,6 +93,8 @@ These particles appear **before the verb** and announce temporal, aspectual, evi
 
 **Tense > Aspect > Voice > Evidentiality > Modality > Negation**
 
+Each rank admits at most one particle per clause; the single ruled pairing is voice's `se ka`, the passive of a causative (canon, *One per rank*).
+
 ### Tense Particles
 
 #### `to` - Past Tense (PST)
@@ -118,21 +120,21 @@ mia so shelomui.
 ### Aspect Particles
 
 #### `ki` - Perfective Aspect (PFV)
-**Function**: Announces completed action with present relevance
+**Function**: Announces completion at the tense's reference time: `ki` have done, `to ki` had done, `so ki` will have done
 **Example**:
 ```
 mia to ki shelomui.
 1SG PST PFV understand.
-(I have understood.)
+(I had understood.)
 ```
 
 #### `si` - Imperfective Aspect (IPFV)
-**Function**: Announces ongoing, habitual, or progressive action
+**Function**: Announces ongoing, progressive action — in mid-flow; habits take `ro`
 **Example**:
 ```
 mia si shelomui.
 1SG IPFV understand.
-(I am understanding / I habitually understand.)
+(I am understanding.)
 ```
 
 #### `pa` - Inchoative Aspect (INCH)
@@ -173,13 +175,26 @@ Active:  mia nophi kealo.    (I create the story.)
 Passive: nophi se kealo.     (The story is created.)
 ```
 
+#### `ka` - Causative Voice (CAUS)
+**Function**: Announces that the subject causes someone/something else to do the action — a voice particle: like `se`, it restructures who acts and claims nothing about certainty or obligation
+**Structure**: Changes sentence structure - the causer becomes subject, original subject becomes object
+**Examples**:
+```
+Base:      lopia nulae.           (The child sleeps.)
+Causative: mia lopia ka nulae.    (I make the child sleep.)
+
+Base:      thia nophi shelomui.      (You understand the story.)
+Causative: mia thia nophi ka shelomui. (I make you understand the story.)
+```
+**Combinations**: the voice pair is fixed `se ka` (`lopia se ka nulae.` — The child is made to sleep.); with modals, voice precedes modality (`ka na` must make, `ka po` can make); `ka ma` denies the causation itself.
+
 ### Evidentiality Particles
 
-Evidential particles mark the source of the speaker's knowledge. They are optional—direct experience is the unmarked default—but provide explicit epistemic transparency when needed.
+Evidential particles mark the source of the speaker's knowledge. They are optional — an unmarked sentence is a plain assertion, claiming no source — and they provide explicit epistemic transparency when the source is part of the message.
 
 #### `hi` - Direct Evidence (DIR)
 **Function**: Announces that the speaker directly witnessed the event through their own senses
-**Position**: After voice, before modality (optional, as direct experience is the default)
+**Position**: After voice, before modality (optional; `hi` adds the witness claim explicitly)
 **Example**:
 ```
 mia hi nila.
@@ -234,18 +249,6 @@ mia na naphe.
 (I must help / I have to help.)
 ```
 
-#### `ka` - Causative Modal (CAUS)
-**Function**: Announces that the subject causes someone/something else to do the action
-**Structure**: Changes sentence structure - the causer becomes subject, original subject becomes object
-**Examples**:
-```
-Base:      lopia nulae.           (The child sleeps.)
-Causative: mia lopia ka nulae.    (I make the child sleep.)
-
-Base:      thia nophi shelomui.      (You understand the story.)
-Causative: mia thia nophi ka shelomui. (I make you understand the story.)
-```
-
 ### Negation
 
 #### `ma` - Negation (NEG)
@@ -265,6 +268,8 @@ mia so ki po ma shelomui.
 **Modal negation conventions** (order is always modal-then-`ma`):
 - `po ma V` — cannot (the possibility is denied)
 - `na ma V` — must not (the necessity is to refrain)
+- `ka ma V` — the causation is denied (I did not make them V); making
+  someone refrain takes its own verb or two clauses.
 - "Need not" (absence of obligation) is never expressed by reordering.
   Use the freedom periphrasis: `S lila V ralu nai` — "S is free as to
   V-ing": `thia lila wepu ralu nai` (you need not go).
@@ -283,7 +288,7 @@ Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`t
 
 ## Slot 2: Word-Level Particles
 
-These particles appear **immediately before** the specific word they modify (noun, verb, or adjective).
+These particles appear **immediately before** the specific word they modify (noun, verb, or adjective). When several modify the same word, wider relations stand earlier — `we`/`li` > `ha`/`ra` > `lo`/numerals > `ko` > `ru`/`mo` > word — modifier-first inside the phrase (canon, *Slot 2 nests*).
 
 ### Number
 
@@ -357,6 +362,7 @@ li shia shelomui.
 RESTR 3SG understand.
 (Only they understand.)
 ```
+**Note**: `li` fences identity — who, which, when — never quantity; counts are stated exactly or with `henoi` (canon: *li is a fence, not a sigh*).
 
 ### Intensity
 
