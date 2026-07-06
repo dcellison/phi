@@ -216,6 +216,25 @@ These were explicitly decided and should not silently fork again:
   texts had the descriptor outside the Slot 1 block; both were
   realigned (Schleicher fable, Velveteen). Evidence in
   `archive/manner_placement_study.md`; taught in ch12 §4.
+- **The function-word shape charter** (settled 2026-07-06): every
+  function class has a chartered shape, audited at 113/113
+  conformance and validator-enforced; no word moved. CV
+  monosyllables are the grammar's atoms — the 35 particles (plain
+  CV, never a digraph onset, for instant recognition) and the base
+  numerals `mu ta wi` — and nothing else may take that shape.
+  Hiatus disyllables ((C)V.V) are relators: all 27 prepositions and
+  the core pronouns `mia thia shia`; the reflexive/reciprocal pair
+  `miso wiso` is the designed -so extension of the pronoun set.
+  Plain disyllables are frames: the seven complementizers (openers
+  in -a, closers in -o), the vocative `kona`, the four classifiers,
+  and the frame conjunctions — while the clause-relators `lao pheo
+  phoe shai` carry the relator shape instead, prepositions over
+  clauses (frame words stay two-syllable, settled, PR #78).
+  Quantifiers, discourse markers, and interrogatives are
+  content-shaped (two or three syllables, patterns free): they ride
+  in descriptor and adverbial positions where content words live.
+  Audit and two unruled observations in
+  `archive/function_word_shape_audit.md`.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

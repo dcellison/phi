@@ -253,6 +253,35 @@ def load_lexicon():
             errors.append(f"{rel}: pos lists both adjective and verb - refused by ruling: qualities do not name their acts")
         if "content" in path.parts and len(pos) != 1:
             errors.append(f"{rel}: content entries carry exactly one part of speech (one word, one class)")
+        # the function-word shape charter (canon, settled 2026-07-06)
+        syls = syllabify(data.get("word", "")) or []
+        n = len(syls)
+        hiatus2 = n == 2 and len(syls[1]) == 1
+        cls = pos[0] if len(pos) == 1 else None
+        charter_violation = None
+        if cls in ("particle", "numeral"):
+            if n != 1 or len(syls[0]) != 2:
+                charter_violation = "bare CV monosyllable (the grammar's atoms)"
+        elif cls == "preposition":
+            if not hiatus2:
+                charter_violation = "hiatus disyllable (C)V.V (the relator shape)"
+        elif cls == "pronoun":
+            if n != 2:
+                charter_violation = "disyllable (core (C)V.V; the -so pair CV.CV)"
+        elif cls in ("complementizer", "vocative", "classifier"):
+            if n != 2 or hiatus2:
+                charter_violation = "plain disyllable (the frame shape)"
+        elif cls == "conjunction":
+            if n != 2:
+                charter_violation = "disyllable (frame shape, or relator shape for clause-relators)"
+        elif cls in ("quantifier", "discourse", "interrogative"):
+            if n not in (2, 3):
+                charter_violation = "content-shaped (two or three syllables)"
+        if charter_violation:
+            errors.append(
+                f"{rel}: shape charter violation: {cls} must be "
+                f"{charter_violation}"
+            )
         entries.append((rel, data))
     return entries, errors
 
