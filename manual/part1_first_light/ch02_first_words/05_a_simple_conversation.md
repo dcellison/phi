@@ -37,7 +37,7 @@ Now let's put your first words together in a natural exchange. Two people meet a
 
 **wa thia shea nai.** — Are you at peace? The question particle *wa* transforms the statement into a question. Literally: Q you peace be?
 
-**mia shea nai.** — I am at peace. Or: I am peaceful. *shea* works as both noun and adjective.
+**mia shea nai.** — I am at peace. Literally: I peace am. *shea* is peace itself, the noun, and to be at peace in Phi is simply to be it.
 
 **mia womu lothea.** — I love home. A simple statement of belonging.
 
