@@ -8,11 +8,10 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (178)
+## adjective (164)
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `helia` | youth | Youth |
 | `heloi` | generous | Generous |
 | `helu` | smooth | Smooth |
 | `hieru` | narrow | Narrow |
@@ -36,9 +35,7 @@
 | `kuelo` | curious | Curious |
 | `kumoli` | hungry | Hungry |
 | `kurathi` | dry | Dry |
-| `kuri` | right | Right |
 | `laeno` | long | Long |
-| `lawe` | left | Left |
 | `lemi` | thin | Thin |
 | `lima` | alive | Alive |
 | `limu` | young | Young |
@@ -49,7 +46,6 @@
 | `lorua` | abundant | Abundant |
 | `losha` | wide | Wide |
 | `loshi` | joyful | Joyful |
-| `lumani` | family | Family |
 | `luroi` | nervous | Nervous |
 | `luwae` | graceful | Graceful |
 | `luwi` | flexible | Flexible |
@@ -71,12 +67,10 @@
 | `newai` | fresh | Fresh |
 | `newu` | new | New |
 | `nilua` | shy | Shy |
-| `nitho` | north | North |
 | `noalu` | tranquil | Tranquil |
 | `noeli` | warm (emotional) | Warm (Emotional) |
 | `noemi` | authentic | Authentic |
 | `noetha` | essential | Essential |
-| `nomi` | present | Present |
 | `nophei` | loyal | Loyal |
 | `noshi` | near (adj) | Near |
 | `nuawe` | together | Together |
@@ -90,7 +84,6 @@
 | `phae` | open | Open |
 | `phaeli` | tender | Tender |
 | `phaelu` | peaceful | Peaceful |
-| `pharea` | adult | Adult |
 | `phelira` | mistaken | Mistaken |
 | `phelo` | light | Light (Weight) |
 | `phelora` | beautiful | Beautiful |
@@ -103,12 +96,10 @@
 | `pholuo` | luminous | Luminous |
 | `phue` | wise | Wise |
 | `poru` | productive | Productive |
-| `pukea` | danger | Danger |
 | `puko` | bitter | Bitter |
 | `raelu` | tall | Tall |
 | `ralu` | free | Free |
 | `reshi` | fast | Fast |
-| `ronua` | south | South |
 | `ruesha` | compassionate | Compassionate |
 | `ruka` | complex | Complex |
 | `rulo` | red | Red |
@@ -120,7 +111,6 @@
 | `seroli` | mature | Mature |
 | `shaelo` | brave | Brave |
 | `shaemu` | organic | Organic |
-| `shea` | peace | Peace |
 | `sheli` | impatient | Impatient |
 | `shena` | calm | Calm |
 | `sheru` | slow | Slow |
@@ -142,11 +132,9 @@
 | `thaemo` | precious | Precious |
 | `thaemu` | sincere | Sincere |
 | `thaeru` | distant | Distant |
-| `thaluni` | kin | Kin |
 | `thasu` | modest | Modest |
 | `theali` | fitting | Fitting |
 | `theisa` | loud | Loud |
-| `theloa` | truth | Truth |
 | `thenui` | direct | Direct |
 | `theru` | thick | Thick |
 | `therua` | eager | Eager |
@@ -156,7 +144,6 @@
 | `thiro` | serene | Serene |
 | `thoepa` | sacred | Sacred |
 | `tholua` | ancient | Ancient |
-| `thomari` | courage | Courage |
 | `thonai` | responsible | Responsible |
 | `thoru` | proud | Proud |
 | `thua` | fair | Fair |
@@ -178,7 +165,6 @@
 | `wesoma` | mutual | Mutual |
 | `whalo` | large | Large |
 | `whemoa` | empty | Empty |
-| `wheo` | elder | Elder |
 | `whilo` | white | White |
 | `whoa` | whole | Whole |
 | `wiero` | imaginative | Imaginative |
@@ -274,7 +260,7 @@
 | `weno` | when | When |
 | `wia` | which | How Many |
 
-## noun (383)
+## noun (373)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -476,7 +462,6 @@
 | `pheluka` | lightning | Lightning |
 | `phemi` | guest | Guest |
 | `phemila` | host | Host |
-| `phena` | kind | Kind |
 | `pheralu` | rain | Rain |
 | `phero` | fern | Fern |
 | `phewani` | neighbor | Neighbor |
@@ -535,7 +520,6 @@
 | `shemu` | moment | Moment |
 | `shero` | night | Night |
 | `shila` | winter | Winter |
-| `shiloa` | pure | Pure |
 | `shioli` | silver | Silver |
 | `shiro` | tree | Tree |
 | `shoeka` | route | Route |
@@ -545,21 +529,18 @@
 | `shumu` | moss | Moss |
 | `shuna` | edge | Edge |
 | `shupi` | plateau | Plateau |
-| `shurano` | safe | Safe |
 | `shuroa` | shelter | Shelter |
 | `siheloa` | breeze | Breeze |
 | `sila` | community | Community |
 | `silawo` | village | Village |
 | `sileo` | silk | Silk |
 | `silero` | star | Star |
-| `siloma` | simple | Simple |
 | `sima` | thread | Thread |
 | `siru` | marker | Marker |
 | `siwe` | sweat | Sweat |
 | `soeli` | cup | Cup |
 | `solai` | gold | Gold |
 | `soleha` | luck | Luck |
-| `sonu` | alone | Alone |
 | `sophae` | cotton | Cotton |
 | `sorae` | sun | Sun |
 | `sorai` | insight | Insight |
@@ -599,7 +580,6 @@
 | `thereo` | mediator | Mediator |
 | `theriko` | frost | Frost |
 | `thero` | fire | Fire |
-| `thesua` | mindful | Mindful |
 | `thimu` | time | Time |
 | `thinoe` | seed | Seed |
 | `tholau` | bone | Bone |
@@ -609,7 +589,6 @@
 | `thorae` | facilitator | Facilitator |
 | `thorea` | ceremony | Ceremony |
 | `thorui` | beginning | Beginning |
-| `thua` | fair | Fair |
 | `thula` | spring | Spring |
 | `thumai` | finger | Finger |
 | `thumiro` | smoke | Smoke |
@@ -629,11 +608,9 @@
 | `toremoa` | mountain | Mountain |
 | `toru` | roof | Roof |
 | `torua` | year | Year |
-| `towe` | well | Well |
 | `tulira` | tail | Tail |
 | `tumeki` | root | Root |
 | `tupiwa` | rabbit | Rabbit |
-| `waeli` | conscious | Conscious |
 | `waero` | sky | Sky |
 | `wapile` | wing | Wing |
 | `welisha` | color | Color |
@@ -644,7 +621,6 @@
 | `wenu` | tonic | Tonic |
 | `weoli` | reed | Reed |
 | `weru` | poet | Poet |
-| `wesoma` | mutual | Mutual |
 | `wetha` | cloth | Cloth |
 | `wethalu` | garment | Garment |
 | `wheiluro` | mist | Mist |
