@@ -78,11 +78,11 @@ The cessative *te* marks the ending of an action.
 
 The passive *se* shifts focus from the actor to the recipient of the action. The original subject (the doer) is typically omitted.
 
-**Active:** Mia nophi kealo. — I create the story.  
-**Passive:** Nophi se kealo. — The story is created.
+**Active:** mia nophi kealo. — I create the story.  
+**Passive:** nophi se kealo. — The story is created.
 
-**Active:** Shia peloru loa. — They give flowers.  
-**Passive:** Peloru se loa. — Flowers are given.
+**Active:** shia peloru loa. — They give flowers.  
+**Passive:** peloru se loa. — Flowers are given.
 
 The passive is useful for de-emphasizing agency or when the actor is unknown or unimportant. In peace-oriented speech, it can soften statements that might otherwise assign blame.
 
@@ -106,7 +106,7 @@ The speaker deduced the information from evidence rather than witnessing it dire
 
 The speaker received the information from another source.
 
-**lo miona ti naphe.** — People helped (I was told).
+**lo miona to ti naphe.** — People helped (I was told).
 
 ### ho: Assumptive evidence
 
@@ -136,11 +136,11 @@ The particle *na* marks an action as necessary or obligatory.
 
 The causative *ka* indicates that the subject causes someone else to perform the action. This changes the sentence structure: the causer becomes the subject, and the original subject becomes the object.
 
-**Base:** Lopia nulae. — The child sleeps.  
-**Causative:** Mia lopia ka nulae. — I make the child sleep.
+**Base:** lopia nulae. — The child sleeps.  
+**Causative:** mia lopia ka nulae. — I make the child sleep.
 
-**Base:** Thia shonela. — You learn.  
-**Causative:** Mia thia ka shonela. — I make you learn. (I teach you.)
+**Base:** thia shonela. — You learn.  
+**Causative:** mia thia ka shonela. — I make you learn. (I teach you.)
 
 ## Negation
 

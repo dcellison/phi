@@ -27,8 +27,8 @@ Commands in Phi remain gentle. The particle *no* signals a request without harsh
 
 The particle *lu* introduces a conditional clause, equivalent to English "if." It announces that what follows is not an assertion but a possibility.
 
-**lu thia naphe, mia whaline.** — If you help, I will thank (you).  
-**lu shea nai, sila thuroa.** — If there is peace, the community grows.
+**lu thia naphe. mia whaline.** — If you help, I will thank (you).  
+**lu shea nai. sila thuroa.** — If there is peace, the community grows.
 
 For hypothetical or counterfactual conditions, situations that didn't happen or couldn't happen, combine *lu* with the irrealis particle *he*:
 

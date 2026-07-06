@@ -19,8 +19,8 @@ mia to theo nela to shelomui. thelao mia so thumela.
 ```
 
 ```
-shia ma to haolu. thelao lo miona ma to shelomui.
-3SG NEG PST speak. CONS PL person NEG PST understand.
+shia to ma haolu. thelao lo miona to ma shelomui.
+3SG PST NEG speak. CONS PL person PST NEG understand.
 (They did not speak. Therefore the people did not understand.)
 ```
 

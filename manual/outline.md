@@ -149,6 +149,7 @@ manual as it exists; update it whenever chapters change.*
 1. Simple Conjunction 'nela'
 2. Contrast 'thona'
 3. Alternative 'sola'
+4. Addition 'we'
 
 ### Chapter 19: Discourse Flow
 1. Introduction: Guiding the Listener

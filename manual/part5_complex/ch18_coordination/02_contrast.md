@@ -43,8 +43,8 @@ A single observation that holds both truths together and lets the listener feel 
 At the clause level, `thona` is particularly useful for presenting balanced perspectives:
 
 ```
-mia to theo thona ma to shelomui.
-1SG PST read ADVRS NEG PST understand.
+mia to theo thona to ma shelomui.
+1SG PST read ADVRS PST NEG understand.
 (I read, but did not understand.)
 ```
 

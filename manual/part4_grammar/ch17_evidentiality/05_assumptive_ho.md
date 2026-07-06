@@ -52,7 +52,7 @@ The speaker isn't claiming to know your inner state. They're offering a reasonab
 - You're speculating for the sake of conversation
 - You want to explicitly hedge your claims
 
-**melu ho so shua.** — Our friend will probably come.  
+**melu so ho shua.** — Our friend will probably come.  
 **ha philo ho welao nai.** — Today will probably be good.
 
 These statements communicate expectations without overclaiming.
