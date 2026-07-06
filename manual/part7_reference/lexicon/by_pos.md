@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (164)
+## adjective (163)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -81,7 +81,6 @@
 | `nuwi` | clear | Clear |
 | `peloma` | harmful | Harmful |
 | `pelui` | cold | Cold |
-| `phae` | open | Open |
 | `phaeli` | tender | Tender |
 | `phaelu` | peaceful | Peaceful |
 | `phelira` | mistaken | Mistaken |
@@ -742,7 +741,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (248)
+## verb (237)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -751,13 +750,11 @@
 | `hasi` | wait | Wait |
 | `hea` | hear | Hear |
 | `hekawi` | find | Find |
-| `helu` | smooth | Smooth |
 | `helui` | change | Change |
 | `heno` | satisfy | Satisfy |
 | `hewe` | wipe | Wipe |
 | `hinolu` | adapt | Adapt |
 | `hiru` | intuit | Intuit |
-| `hiso` | clean | Clean |
 | `hola` | laugh | Laugh |
 | `howela` | receive | Receive |
 | `kaeli` | like | Like |
@@ -776,8 +773,6 @@
 | `kire` | shape | Shape |
 | `kiwate` | bite | Bite |
 | `koema` | enter | Enter |
-| `kolo` | equal | Equal |
-| `kolu` | steady | Steady |
 | `kolua` | carry | Carry |
 | `koluma` | unite | Unite |
 | `korei` | fulfill | Fulfill |
@@ -841,7 +836,6 @@
 | `numelo` | nurture | Nurture |
 | `numike` | negotiate | Negotiate |
 | `nuola` | eat | Eat |
-| `nuwi` | clear | Clear |
 | `palo` | touch | Touch |
 | `panoru` | support | Support |
 | `pawela` | participate | Participate |
@@ -857,7 +851,6 @@
 | `pharune` | include | Include |
 | `pheloma` | serve | Serve |
 | `phelona` | require | Require |
-| `phelora` | beautiful | Beautiful |
 | `phelu` | hold | Hold |
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
@@ -893,7 +886,6 @@
 | `selu` | flow | Flow |
 | `seniku` | smile | Smile |
 | `sepho` | send | Send |
-| `seroli` | mature | Mature |
 | `seru` | commit | Commit |
 | `shane` | tell | Tell |
 | `shareo` | discuss | Discuss |
@@ -904,7 +896,6 @@
 | `sheluo` | listen | Listen |
 | `shemoli` | harmonize | Harmonize |
 | `shemui` | utter | Utter |
-| `shena` | calm | Calm |
 | `sheori` | communicate | Communicate |
 | `shimalo` | discipline | Discipline |
 | `shiroka` | repair | Repair |
@@ -915,7 +906,6 @@
 | `shorema` | contribute | Contribute |
 | `shorupo` | protect | Protect |
 | `shua` | come | Come |
-| `siora` | joy | Joy |
 | `soki` | settle | Settle |
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
@@ -941,7 +931,6 @@
 | `themui` | faith | Faith |
 | `thenoi` | falls-short | Falls Short |
 | `thenoki` | sustain | Sustain |
-| `thenui` | direct | Direct |
 | `theo` | read | Read |
 | `theomi` | trust | Trust |
 | `theonu` | attend | Attend |
@@ -985,7 +974,6 @@
 | `whenola` | wander | Wander |
 | `whesu` | blow | Blow |
 | `whinu` | smell | Smell |
-| `whoa` | whole | Whole |
 | `whola` | invite | Invite |
 | `whori` | mend | Mend |
 | `whunei` | breath | Breath |

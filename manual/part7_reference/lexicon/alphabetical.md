@@ -25,7 +25,7 @@
 | `helia` | youth | /he̞.ˈli.ä/ | noun |
 | `heloa` | remedy | /he̞.ˈlo̞.ä/ | noun |
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
-| `helu` | smooth | /ˈhe̞.lu/ | adjective, verb |
+| `helu` | smooth | /ˈhe̞.lu/ | adjective |
 | `helui` | change | /he̞.ˈlu.i/ | verb |
 | `hemilo` | honey | /he̞.ˈmi.lo̞/ | noun |
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
@@ -40,7 +40,7 @@
 | `hinolu` | adapt | /hi.ˈn̪o̞.lu/ | verb |
 | `hiru` | intuit | /ˈhi.ru/ | verb |
 | `hisae` | skin | /hi.ˈsä.e̞/ | noun |
-| `hiso` | clean | /ˈhi.so̞/ | adjective, verb |
+| `hiso` | clean | /ˈhi.so̞/ | adjective |
 | `ho` | ASSUM | /ˈho̞/ | particle |
 | `hoi` | onward | /ˈho̞.i/ | interjection |
 | `hola` | laugh | /ˈho̞.lä/ | verb |
@@ -118,8 +118,8 @@
 | `koema` | enter | /ko̞.ˈe̞.mä/ | verb |
 | `kohura` | noise | /ko̞.ˈhu.rä/ | noun |
 | `kolai` | pigment | /ko̞.ˈlä.i/ | noun |
-| `kolo` | equal | /ˈko̞.lo̞/ | adjective, verb |
-| `kolu` | steady | /ˈko̞.lu/ | adjective, verb |
+| `kolo` | equal | /ˈko̞.lo̞/ | adjective |
+| `kolu` | steady | /ˈko̞.lu/ | adjective |
 | `kolua` | carry | /ko̞.ˈlu.ä/ | verb |
 | `koluma` | unite | /ko̞.ˈlu.mä/ | verb |
 | `koma` | head | /ˈko̞.mä/ | noun |
@@ -400,7 +400,7 @@
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
 | `nuwera` | bed | /n̪u.ˈwe̞.rä/ | noun |
-| `nuwi` | clear | /ˈn̪u.wi/ | adjective, verb |
+| `nuwi` | clear | /ˈn̪u.wi/ | adjective |
 | `nuwoe` | stage | /n̪u.ˈwo̞.e̞/ | noun |
 | `pa` | INCH | /ˈpä/ | particle |
 | `pai` | NEAR | /ˈpä.i/ | preposition |
@@ -421,7 +421,7 @@
 | `pelui` | cold | /pe̞.ˈlu.i/ | adjective |
 | `pesa` | push | /ˈpe̞.sä/ | verb |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
-| `phae` | open | /ˈɸä.e̞/ | adjective, verb |
+| `phae` | open | /ˈɸä.e̞/ | verb |
 | `phaeli` | tender | /ɸä.ˈe̞.li/ | adjective |
 | `phaelo` | feel | /ɸä.ˈe̞.lo̞/ | verb |
 | `phaelu` | peaceful | /ɸä.ˈe̞.lu/ | adjective |
@@ -445,7 +445,7 @@
 | `phelo` | light | /ˈɸe̞.lo̞/ | adjective |
 | `pheloma` | serve | /ɸe̞.ˈlo̞.mä/ | verb |
 | `phelona` | require | /ɸe̞.ˈlo̞.n̪ä/ | verb |
-| `phelora` | beautiful | /ɸe̞.ˈlo̞.rä/ | adjective, verb |
+| `phelora` | beautiful | /ɸe̞.ˈlo̞.rä/ | adjective |
 | `phelu` | hold | /ˈɸe̞.lu/ | verb |
 | `phelui` | word | /ɸe̞.ˈlu.i/ | noun |
 | `pheluka` | lightning | /ɸe̞.ˈlu.kä/ | noun |
@@ -573,7 +573,7 @@
 | `seniku` | smile | /se̞.ˈn̪i.ku/ | verb |
 | `sepho` | send | /ˈse̞.ɸo̞/ | verb |
 | `serao` | old | /se̞.ˈrä.o̞/ | adjective |
-| `seroli` | mature | /se̞.ˈro̞.li/ | adjective, verb |
+| `seroli` | mature | /se̞.ˈro̞.li/ | adjective |
 | `seru` | commit | /ˈse̞.ru/ | verb |
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
@@ -599,7 +599,7 @@
 | `shemoli` | harmonize | /ʃe̞.ˈmo̞.li/ | verb |
 | `shemu` | moment | /ˈʃe̞.mu/ | noun |
 | `shemui` | utter | /ʃe̞.ˈmu.i/ | verb |
-| `shena` | calm | /ˈʃe̞.n̪ä/ | adjective, verb |
+| `shena` | calm | /ˈʃe̞.n̪ä/ | adjective |
 | `sheno` | ADD | /ˈʃe̞.n̪o̞/ | discourse |
 | `sheo` | THAN | /ˈʃe̞.o̞/ | preposition |
 | `sheori` | communicate | /ʃe̞.ˈo̞.ri/ | verb |
@@ -647,7 +647,7 @@
 | `sima` | thread | /ˈsi.mä/ | noun |
 | `simoe` | rich | /si.ˈmo̞.e̞/ | adjective |
 | `sio` | BESIDE | /ˈsi.o̞/ | preposition |
-| `siora` | joy | /si.ˈo̞.rä/ | adjective, verb |
+| `siora` | joy | /si.ˈo̞.rä/ | adjective |
 | `siru` | marker | /ˈsi.ru/ | noun |
 | `siwe` | sweat | /ˈsi.we̞/ | noun |
 | `so` | FUT | /ˈso̞/ | particle |
@@ -739,7 +739,7 @@
 | `thena` | thing | /ˈθe̞.n̪ä/ | noun |
 | `thenoi` | falls-short | /θe̞.ˈn̪o̞.i/ | verb |
 | `thenoki` | sustain | /θe̞.ˈn̪o̞.ki/ | verb |
-| `thenui` | direct | /θe̞.ˈn̪u.i/ | verb, adjective |
+| `thenui` | direct | /θe̞.ˈn̪u.i/ | adjective |
 | `theo` | read | /ˈθe̞.o̞/ | verb |
 | `theomi` | trust | /θe̞.ˈo̞.mi/ | verb |
 | `theonu` | attend | /θe̞.ˈo̞.n̪u/ | verb |
@@ -883,7 +883,7 @@
 | `whilaru` | comb | /ʍi.ˈlä.ru/ | noun |
 | `whilo` | white | /ˈʍi.lo̞/ | adjective |
 | `whinu` | smell | /ˈʍi.n̪u/ | verb |
-| `whoa` | whole | /ˈʍo̞.ä/ | adjective, verb |
+| `whoa` | whole | /ˈʍo̞.ä/ | adjective |
 | `whola` | invite | /ˈʍo̞.lä/ | verb |
 | `whori` | mend | /ˈʍo̞.ri/ | verb |
 | `whunei` | breath | /ʍu.ˈn̪e̞.i/ | verb |
