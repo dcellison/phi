@@ -11,7 +11,7 @@ Consider the difference:
 **English**: "I might have been being watched."  
 The grammar is tangled inside the verb phrase. To understand the sentence, you must parse five words that fuse together.
 
-**Phi**: `Mia to si se po nila.`  
+**Phi**: `mia to si se po nila.`  
 Each grammatical element is a separate particle: past (*to*), ongoing (*si*), passive (*se*), possibility (*po*). You encounter each piece of information before the verb (*nila*, "see") ever arrives.
 
 The visibility is the point. When grammar becomes audible, the choices inside it become conscious: is this past or present? Direct knowledge or inference? Certain or merely possible? English lets you speak without ever deciding. Phi's particles put the decisions where you can hear yourself making them — *mia hi nila* ("I see, witnessed") is a different claim from *mia ho nila* ("I see, I assume"), and the difference costs exactly one syllable.

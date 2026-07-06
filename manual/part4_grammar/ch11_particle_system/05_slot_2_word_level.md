@@ -51,7 +51,7 @@ The particle *mo* forms comparatives, equivalent to English "-er" or "more."
 To express what something is being compared to, use the preposition *sheo* ("than"):
 
 **thepalu sheo shelira mo phelora nai.**  
-*garden than forest more beautiful be*  
+*garden THAN forest CMPR beautiful be*  
 "The garden is more beautiful than the forest."
 
 ## mo ko: Superlative
@@ -62,7 +62,7 @@ Combining *mo* with the focus particle *ko* creates the superlative, equivalent 
 **mo ko phelora** — most beautiful  
 
 **ha thepalu mo ko phelora nai.**  
-*this garden most beautiful be*  
+*PROX garden CMPR FOC beautiful be*  
 "This garden is the most beautiful."
 
 ## ha: Proximal (this)
@@ -94,6 +94,15 @@ The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "rea
 **ru thiku** — very small
 
 **ha peloru ru phelora nai.** — This flower is very beautiful.
+
+## we: Additive
+
+The particle *we* marks the following element as added to what came before: "also," "too."
+
+**we lohau wile.** — The dog plays too.  
+**ne siora we shua.** — siora comes too.
+
+*we* stands before the constituent it adds — the new subject, or the repeated verb once the newcomer has been named. Chapter 18 §4 gives it a full treatment beside the conjunctions.
 
 ## Proper names
 

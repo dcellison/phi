@@ -426,6 +426,36 @@ def check_lexicon(entries):
 # Documentation example checks
 # ---------------------------------------------------------------------------
 
+SLOT1_RANK = {
+    "to": 1, "so": 1,                             # tense
+    "ki": 2, "si": 2, "pa": 2, "te": 2, "ro": 2,  # aspect
+    "se": 3,                                      # voice
+    "hi": 4, "ke": 4, "ti": 4, "ho": 4,           # evidentiality
+    "po": 5, "na": 5, "ka": 5,                    # modality
+    "ma": 6,                                      # negation
+}
+
+
+def slot1_misorders(tokens):
+    """Runs of adjacent Slot 1 particles whose ranks go backwards
+    (canon: Tense > Aspect > Voice > Evidentiality > Modality > Negation).
+    Same-rank adjacency is not flagged; only reversals are."""
+    bad = []
+    i = 0
+    while i < len(tokens):
+        if tokens[i] in SLOT1_RANK:
+            j = i
+            while j < len(tokens) and tokens[j] in SLOT1_RANK:
+                j += 1
+            ranks = [SLOT1_RANK[t] for t in tokens[i:j]]
+            if any(b < a for a, b in zip(ranks, ranks[1:])):
+                bad.append(" ".join(tokens[i:j]))
+            i = j
+        else:
+            i += 1
+    return bad
+
+
 def strip_brackets(line):
     """Remove [...] placeholder/label segments, (...) inline translation
     segments, and punctuation."""
@@ -487,14 +517,19 @@ def check_docs(lexicon_words, paths=None):
                 continue
             if in_fence:
                 # dialogue speaker labels (A:, B:) are apparatus, not Phi
-                candidates = [(re.sub(r"^\s*[A-Za-z]:\s+", "", line), False)]
+                candidates = [(re.sub(r"^\s*[A-Za-z]:\s+", "", line), False, False)]
             else:
-                # Outside fences, Phi appears as *italic* spans (prose,
-                # tables, blockquotes). Single-token spans are skipped by
-                # the ratio heuristic in is_phi_line; the known-bad-word
-                # sweeps use grep directly, so that limitation is covered.
-                candidates = [(c, True) for c in re.findall(r"\*([^*\n]+)\*", line)]
-            for cand, strict in candidates:
+                # Outside fences, Phi appears as **bold** example lines
+                # (checked in full, like fenced lines) and *italic* spans
+                # (prose citations: strict ratio, English commas excused).
+                # Single-token spans are skipped by the ratio heuristic in
+                # is_phi_line; the known-bad-word sweeps use grep directly,
+                # so that limitation is covered.
+                bolds = re.findall(r"\*\*([^*\n]+)\*\*", line)
+                rest = re.sub(r"\*\*[^*\n]+\*\*", " ", line)
+                candidates = [(c, True, False) for c in bolds]
+                candidates += [(c, True, True) for c in re.findall(r"\*([^*\n]+)\*", rest)]
+            for cand, strict, excuse_commas in candidates:
                 # detection is case-blind so capitalized Phi cannot hide
                 if not is_phi_line(cand.lower(), lexicon_words, strict=strict):
                     continue
@@ -507,12 +542,17 @@ def check_docs(lexicon_words, paths=None):
                 # sentences whose commas are English), with parenthetical
                 # annotations stripped first
                 bare = re.sub(r"\([^)]*\)", "", cand)
-                if "?" in bare or "!" in bare or ";" in bare or (not strict and "," in bare):
+                if "?" in bare or "!" in bare or ";" in bare or (not excuse_commas and "," in bare):
                     errors.append(f"{rel}:{lineno}: punctuation in Phi text: periods only (no commas or question marks)")
                 for tok in phi_tokens(cand.lower()):
                     if tok in lexicon_words or tok in WHITELIST:
                         continue
                     errors.append(f"{rel}:{lineno}: unknown Phi word '{tok}'")
+                # Slot 1 order is canon-fixed; lines prefixed with '*' are
+                # deliberately ill-formed teaching examples and are skipped.
+                if not cand.lstrip().startswith("*"):
+                    for run in slot1_misorders(phi_tokens(cand.lower())):
+                        errors.append(f"{rel}:{lineno}: Slot 1 order violation '{run}' (canon: Tense > Aspect > Voice > Evidentiality > Modality > Negation)")
             # IPA citations: a line that names a known word in backticks
             # and quotes exactly one /.../ transcription must quote that
             # word's canonical IPA. Single phonemes (/m/) and slashed

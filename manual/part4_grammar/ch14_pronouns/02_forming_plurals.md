@@ -26,7 +26,7 @@ Some languages distinguish between "we including you" and "we excluding you." Ph
 If clarification is needed, speakers can be explicit:
 
 **lo mia nela thia** — We and you (we, including you)  
-**lo mia, thia ma** — We, not you (we, excluding you)
+**lo mia wepu. thia ma wepu.** — We go; you do not (an exclusive we, spelled out in clauses)
 
 But these elaborations are rarely necessary. The simpler system serves most purposes.
 

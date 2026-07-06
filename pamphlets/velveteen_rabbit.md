@@ -111,8 +111,8 @@ shia shola wa thia po tupi sholo to thilou.
 3SG QUOT.COMP Q 2SG POT jump QUOT.COMP.CLOSE PST inquire.
 (They asked: "Can you jump?")
 
-tupiwa to po ma tupi. tupiwa ma to lonae.
-rabbit PST POT NEG jump. rabbit NEG PST respond.
+tupiwa to po ma tupi. tupiwa to ma lonae.
+rabbit PST POT NEG jump. rabbit PST NEG respond.
 (The rabbit could not jump. He did not answer.)
 
 lo waeshi tupiwa kau shelira to shalo.
@@ -185,8 +185,8 @@ ta tupiwa lue shelira to shua. shia lopia sheru to nila.
 one rabbit ABL forest PST come. 3SG child slow PST see.
 (A rabbit came from the forest. He looked at the child, slowly.)
 
-lopia mena shia ha tupiwa to sano meno ma to sano.
-child DECL.COMP 3SG PROX rabbit PST know DECL.COMP.CLOSE NEG PST know.
+lopia mena shia ha tupiwa to sano meno to ma sano.
+child DECL.COMP 3SG PROX rabbit PST know DECL.COMP.CLOSE PST NEG know.
 (The child never knew that he had known this rabbit.)
 
 tupiwa theula thimu shewo to nai.

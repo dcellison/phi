@@ -23,7 +23,7 @@ Tense before evidentiality, always: Tense > Aspect > Voice > Evidentiality > Mod
 
 **Wrong (for the intended meaning):**
 ```
-shia to ma hi wepu.
+*shia to ma hi wepu.
 3SG PST NEG DIR go.
 ```
 

@@ -23,7 +23,7 @@ Slot 1 particles appear before the verb and modify the entire action. They carry
 
 Slot 1 includes:
 - **Tense**: past (*to*), future (*so*); present is unmarked
-- **Aspect**: perfective (*ki*), imperfective (*si*), inchoative (*pa*), cessative (*te*)
+- **Aspect**: perfective (*ki*), imperfective (*si*), inchoative (*pa*), cessative (*te*), habitual (*ro*)
 - **Voice**: passive (*se*)
 - **Evidentiality**: direct (*hi*), inferential (*ke*), reportative (*ti*), assumptive (*ho*)
 - **Modality**: possibility (*po*), necessity (*na*), causative (*ka*)
@@ -46,6 +46,8 @@ Slot 2 particles appear immediately before the specific word they modify, whethe
 - **Deixis**: *ha* (this/near), *ra* (that/far)
 - **Honorifics**: *sa* (respect), *ni* (intimacy), *le* (role)
 - **Intensity**: *ru* (very/really)
+- **Addition**: *we* (also)
+- **Names**: *ne* (marks a proper name)
 
 Unlike Slot 1 particles which cluster before the verb, Slot 2 particles attach to individual words wherever they appear in the sentence.
 

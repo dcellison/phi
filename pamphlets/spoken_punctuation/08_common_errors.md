@@ -28,7 +28,7 @@ Pauses are free, which means they are also meaningless, which means the page has
 
 ### Error 5: the rescued capital
 
-**Wrong:** `Ne siora shua.` — or *Siora* in the narration beside it.
+**Wrong:** `Ne siora shua.` — or "Siora" in the narration beside it.
 
 Sentence position earns no capital; names earn no capital; nothing earns a capital, in any mode, ever. Pamphlet 5 Part 6 owns the full argument; the punctuation-shaped half is simply that a capital is one more silent mark, and it fell in the same audit as the rest. The validator holds the Phi side of the line; the English narration around your Phi is yours to keep lowercase where names cross into it.
 

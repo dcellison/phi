@@ -6,7 +6,7 @@ When multiple particles appear in a sentence, they follow a predictable structur
 
 A fully-loaded sentence follows this pattern:
 
-**[Slot 0] [Subject] [Slot 1 stack] [Slot 2 + Object] [Verb]**
+**[Slot 0] [Subject] [Slot 2 + Object] [Slot 1 stack] [Verb]**
 
 Or more precisely:
 
@@ -16,19 +16,19 @@ Or more precisely:
 
 Let's construct a sentence layer by layer:
 
-**Base:** Mia melu nila. — I see a friend.
+**Base:** mia melu nila. — I see a friend.
 
-**Add future:** Mia melu so nila. — I will see a friend.
+**Add future:** mia melu so nila. — I will see a friend.
 
-**Add possibility:** Mia melu so po nila. — I might see a friend.
+**Add possibility:** mia melu so po nila. — I might see a friend.
 
-**Make it plural:** Mia lo melu so po nila. — I might see friends.
+**Make it plural:** mia lo melu so po nila. — I might see friends.
 
-**Make it proximal:** Mia ha lo melu so po nila. — I might see these friends.
+**Make it proximal:** mia ha lo melu so po nila. — I might see these friends.
 
-**Add politeness:** Pi mia ha lo melu so po nila. — (Politely) I might see these friends.
+**Add politeness:** pi mia ha lo melu so po nila. — (Politely) I might see these friends.
 
-**Make it a question:** Pi wa mia so po ha lo melu nila? — Might I please see these friends?
+**Make it a question:** pi wa mia ha lo melu so po nila. — Might I please see these friends?
 
 Each addition slots into its proper position. The result is long but entirely transparent.
 
@@ -69,7 +69,7 @@ Slot 0 particles frame; Slot 1 particles shape the verb:
 Slot 2 particles attach to their target words wherever those words appear:
 
 **pi wa thia ha lo ru phelora peloru so nila.**  
-*POL Q 2SG PROX PL INT beautiful flower FUT see*  
+*POL Q 2SG PROX PL INTS beautiful flower FUT see*  
 "Could you please see these very beautiful flowers?"
 
 Breaking it down:
@@ -84,8 +84,8 @@ Breaking it down:
 
 Some combinations appear frequently:
 
-**Polite question:** Pi wa...?  
-**Polite request:** Pi no...  
+**Polite question:** pi wa ...  
+**Polite request:** pi no ...  
 **Past perfect:** to ki  
 **Future possibility:** so po  
 **Negated past:** to ma  
