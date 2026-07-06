@@ -58,11 +58,11 @@
 | `kaelo` | sweet | /kä.ˈe̞.lo̞/ | adjective |
 | `kaero` | phase | /kä.ˈe̞.ro̞/ | noun |
 | `kaeshu` | bold | /kä.ˈe̞.ʃu/ | adjective |
-| `kaesu` | selfish | /kä.ˈe̞.su/ | adjective |
 | `kalei` | climb | /kä.ˈle̞.i/ | verb |
 | `kalora` | horse | /kä.ˈlo̞.rä/ | noun |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
+| `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
 | `kathu` | seal | /ˈkä.θu/ | noun |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
 | `katiru` | knife | /kä.ˈt̪i.ru/ | noun |
@@ -233,6 +233,7 @@
 | `maeli` | quiet | /mä.ˈe̞.li/ | adjective |
 | `maewo` | threshold | /mä.ˈe̞.wo̞/ | noun |
 | `malomi` | balance | /mä.ˈlo̞.mi/ | verb |
+| `manolu` | stay | /mä.ˈn̪o̞.lu/ | verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
 | `masue` | measure | /mä.ˈsu.e̞/ | verb |
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
@@ -304,7 +305,6 @@
 | `muholi` | dig | /mu.ˈho̞.li/ | verb |
 | `muila` | earth | /mu.ˈi.lä/ | noun |
 | `muko` | careless | /ˈmu.ko̞/ | adjective |
-| `muloe` | empty | /mu.ˈlo̞.e̞/ | adjective |
 | `mulu` | low | /ˈmu.lu/ | adjective |
 | `muo` | INTO | /ˈmu.o̞/ | preposition |
 | `mupelo` | vomit | /mu.ˈpe̞.lo̞/ | verb |
@@ -375,7 +375,6 @@
 | `nosa` | now | /ˈn̪o̞.sä/ | noun |
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
 | `nowae` | awaken | /n̪o̞.ˈwä.e̞/ | verb |
-| `nowela` | exchange | /n̪o̞.ˈwe̞.lä/ | verb |
 | `nowhu` | cave | /ˈn̪o̞.ʍu/ | noun |
 | `nu` | ORD | /ˈn̪u/ | particle |
 | `nua` | COM | /ˈn̪u.ä/ | preposition |
@@ -500,6 +499,7 @@
 | `phuro` | renew | /ˈɸu.ro̞/ | verb |
 | `phuwai` | lung | /ɸu.ˈwä.i/ | noun |
 | `pi` | POL | /ˈpi/ | particle |
+| `pilewa` | make | /pi.ˈle̞.wä/ | verb |
 | `pilu` | take | /ˈpi.lu/ | verb |
 | `pina` | sew | /ˈpi.n̪ä/ | verb |
 | `pio` | hehe | /ˈpi.o̞/ | interjection |
@@ -520,6 +520,7 @@
 | `raeli` | height | /rä.ˈe̞.li/ | noun |
 | `raelu` | tall | /rä.ˈe̞.lu/ | adjective |
 | `ralu` | free | /ˈrä.lu/ | adjective |
+| `rashelo` | run | /rä.ˈʃe̞.lo̞/ | verb |
 | `rato` | turn | /ˈrä.t̪o̞/ | verb |
 | `rei` | eighty-one-group | /ˈre̞.i/ | noun |
 | `relo` | symbol | /ˈre̞.lo̞/ | noun |
@@ -577,7 +578,6 @@
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
-| `shalo` | run | /ˈʃä.lo̞/ | verb |
 | `shalu` | fish | /ˈʃä.lu/ | noun |
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
@@ -691,7 +691,6 @@
 | `teku` | short | /ˈt̪e̞.ku/ | adjective |
 | `teli` | bell | /ˈt̪e̞.li/ | noun |
 | `telo` | farmer | /ˈt̪e̞.lo̞/ | noun |
-| `telu` | partner | /ˈt̪e̞.lu/ | noun |
 | `telua` | accurate | /t̪e̞.ˈlu.ä/ | adjective |
 | `telui` | rhythm | /t̪e̞.ˈlu.i/ | noun |
 | `teluno` | amphibian | /t̪e̞.ˈlu.n̪o̞/ | noun |
@@ -701,13 +700,13 @@
 | `teo` | careful | /ˈt̪e̞.o̞/ | interjection |
 | `teru` | process | /ˈt̪e̞.ru/ | verb |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
+| `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |
 | `thaeluro` | ocean | /θä.e̞.ˈlu.ro̞/ | noun |
 | `thaemo` | precious | /θä.ˈe̞.mo̞/ | adjective |
 | `thaemu` | sincere | /θä.ˈe̞.mu/ | adjective |
 | `thaeru` | distant | /θä.ˈe̞.ru/ | adjective |
 | `thaeso` | midday | /θä.ˈe̞.so̞/ | noun |
 | `thalo` | walk | /ˈθä.lo̞/ | verb |
-| `thalu` | stay | /ˈθä.lu/ | verb |
 | `thalume` | ancestor | /θä.ˈlu.me̞/ | noun |
 | `thaluni` | kin | /θä.ˈlu.n̪i/ | noun, adjective |
 | `thape` | burn | /ˈθä.pe̞/ | verb |
@@ -849,7 +848,6 @@
 | `welisha` | color | /we̞.ˈli.ʃä/ | noun |
 | `welo` | INT.COMP.CLOSE | /ˈwe̞.lo̞/ | complementizer |
 | `weloa` | loom | /we̞.ˈlo̞.ä/ | noun |
-| `weloma` | mutual | /we̞.ˈlo̞.mä/ | adjective, noun |
 | `weloni` | body | /we̞.ˈlo̞.n̪i/ | noun |
 | `welua` | fragile | /we̞.ˈlu.ä/ | adjective |
 | `welura` | spread | /we̞.ˈlu.rä/ | verb |
@@ -866,16 +864,17 @@
 | `weru` | poet | /ˈwe̞.ru/ | noun |
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
+| `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective, noun |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
-| `whea` | make | /ˈʍe̞.ä/ | verb |
 | `wheiluro` | mist | /ʍe̞.i.ˈlu.ro̞/ | noun |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |
 | `whelina` | grass | /ʍe̞.ˈli.n̪ä/ | noun |
+| `whemoa` | empty | /ʍe̞.ˈmo̞.ä/ | adjective |
 | `whemura` | dream | /ʍe̞.ˈmu.rä/ | verb |
 | `whenola` | wander | /ʍe̞.ˈn̪o̞.lä/ | verb |
 | `wheo` | elder | /ˈʍe̞.o̞/ | noun, adjective |
@@ -904,6 +903,7 @@
 | `wirua` | wet | /wi.ˈru.ä/ | adjective |
 | `wishe` | swim | /ˈwi.ʃe̞/ | verb |
 | `wiso` | RECP | /ˈwi.so̞/ | pronoun |
+| `wisola` | exchange | /wi.ˈso̞.lä/ | verb |
 | `woe` | FAR | /ˈwo̞.e̞/ | preposition |
 | `woeli` | natural | /wo̞.ˈe̞.li/ | adjective |
 | `woenu` | tame | /wo̞.ˈe̞.n̪u/ | adjective |

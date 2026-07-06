@@ -81,7 +81,7 @@ lohau thue thepalu to ke wepu. mia mua muila lohau ruela to nila.
 dog THROUGH garden PST INFER go. 1SG LOC earth dog trail PST see.
 (The dog went through the garden — I infer; I saw his trail in the earth.)
 
-sulae mua womu to ho thalu.
+sulae mua womu to ho manolu.
 sulae LOC home PST ASSUM stay.
 (sulae stayed home, I expect — she does, in rain.)
 ```

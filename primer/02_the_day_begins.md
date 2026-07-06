@@ -35,7 +35,7 @@
 
 *Now a thing is acted on — and it stands* between *the doer and the doing:*
 
-> **phao nuora whea.**
+> **phao nuora pilewa.**
 > **lopia nuora nuola.**
 > **lohau nuora nuola.**
 > **misheko rihe.**
@@ -44,7 +44,7 @@
 | new word | say it | it means |
 |---|---|---|
 | nuora | nu · o · ra | food |
-| whea | whe · a | make |
+| pilewa | pi · le · wa | make |
 | nuola | nu · o · la | eat |
 | phialu | phi · a · lu | water |
 | milau | mi · la · u | drink |

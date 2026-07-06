@@ -4,7 +4,7 @@
 
 ## I
 
-> lopia: **rena sulopa ro whea miona.**
+> lopia: **rena sulopa ro pilewa miona.**
 > siora: **phao.**
 > lopia: **lia.**
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | rena | re · na | (opens a who/which clause) |
 
-*The person who habitually makes soup — ? The parent. Correct. Look at the shape:* rena sulopa ro whea *is a whole little sentence missing its doer, and* miona *steps in at the end to be that doer. Clause first, noun after: chapter three's* thiku pelori, *grown up.*
+*The person who habitually makes soup — ? The parent. Correct. Look at the shape:* rena sulopa ro pilewa *is a whole little sentence missing its doer, and* miona *steps in at the end to be that doer. Clause first, noun after: chapter three's* thiku pelori, *grown up.*
 
 ## II
 

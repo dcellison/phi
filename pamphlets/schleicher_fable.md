@@ -61,7 +61,7 @@ rena pilu miona mophira mophi pilu.
 REL take person sheep wool take.
 (The one who takes, takes the sheep's wool.)
 
-shia roe mophi wei miso sulae wethalu whea.
+shia roe mophi wei miso sulae wethalu pilewa.
 3SG INS wool DAT REFL warm garment make.
 (With the wool he makes warm garments — for himself.)
 
@@ -79,7 +79,7 @@ mophira lo phelui to hea.
 sheep PL word PST hear.
 (The sheep heard these words.)
 
-mophira kau wemo to shalo.
+mophira kau wemo to rashelo.
 sheep ALL plain PST run.
 (The sheep ran away to the plain.)
 ```

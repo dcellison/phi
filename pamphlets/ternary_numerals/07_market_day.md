@@ -23,7 +23,7 @@ The count is exact because eggs in a basket are countable and the child is pract
 ### At the stalls
 
 ```
-wi himo piru mua silawo nai. nu ta piru lo noru nowela.
+wi himo piru mua silawo nai. nu ta piru lo noru wisola.
 two HUM.CLF trader LOC village be. ORD one trader PL bowl exchange.
 (Two traders are at the village. The first trader exchanges bowls.)
 
@@ -63,7 +63,7 @@ shero shua. rei silero.
 night come. eighty-one-group star.
 (Night comes. Countless stars.)
 
-lopia sui philo ta shao wi lipha powea to nowela. lopia mua korua ta themo noru phelu.
+lopia sui philo ta shao wi lipha powea to wisola. lopia mua korua ta themo noru phelu.
 child DURING day one three-group two LIFE.CLF egg PST exchange. child LOC heart one THING.CLF bowl hold.
 (Across the day the child traded five eggs. In her heart she holds one bowl.)
 ```

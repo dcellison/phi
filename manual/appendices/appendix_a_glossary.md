@@ -24,7 +24,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **hiatus**: Two adjacent vowels pronounced as separate syllables, with no glide or merger between them. Phi's foundational sound rule: `au` is always /a.u/, never a diphthong.
 
-**minimal pair**: Two words differing by a single sound (`melu`/`telu`). Phi's coining policy forbids new minimal pairs within a word class, and requires natural opposites to be maximally dissimilar (`lawe`/`kuri`, left/right).
+**minimal pair**: Two words differing by a single sound (`hea`/`shea`). Phi's coining policy forbids new minimal pairs within a word class, and requires natural opposites to be maximally dissimilar (`lawe`/`kuri`, left/right).
 
 **modifier-first**: Phi's single organizing principle. Every element that modifies, specifies, or relates comes *before* what it affects: objects before verbs, adjectives before nouns, prepositions before their objects, clauses before their heads. "Announce, then deliver."
 

@@ -46,6 +46,6 @@ Each frame has its own literature now: `wa` and the questions that need no `wa` 
 
 ### Drill: one thought, five frames
 
-Take `thia sulopa whea.` (you make soup) and reframe it aloud: as a question; a request; a condition with a consequence of your own; a wish; then the polite question and the polite request. Check yourself:
+Take `thia sulopa pilewa.` (you make soup) and reframe it aloud: as a question; a request; a condition with a consequence of your own; a wish; then the polite question and the polite request. Check yourself:
 
-1. `wa thia sulopa whea.` 2. `no sulopa whea.` (the subject rests — requests address their doer) 3. `lu thia sulopa whea. mia seniku.` 4. `su thia sulopa whea.` — odd as a wish? Then feel why: hoping aloud about someone's soup-making is a strange spend of `su`, and the strangeness is the drill working — frames are not decorations, they are claims about why you are speaking. 5. `pi wa thia sulopa whea.` 6. `pi no sulopa whea.`
+1. `wa thia sulopa pilewa.` 2. `no sulopa pilewa.` (the subject rests — requests address their doer) 3. `lu thia sulopa pilewa. mia seniku.` 4. `su thia sulopa pilewa.` — odd as a wish? Then feel why: hoping aloud about someone's soup-making is a strange spend of `su`, and the strangeness is the drill working — frames are not decorations, they are claims about why you are speaking. 5. `pi wa thia sulopa pilewa.` 6. `pi no sulopa pilewa.`

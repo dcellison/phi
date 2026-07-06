@@ -18,7 +18,7 @@ One structural suggestion from experience: let every gathering produce *one arti
 
 ## The language as commons
 
-Phi's vocabulary treats community as a living system — `sila` flows, `weloma` is mutuality, `kowela` is the council. Treat the language itself the same way. Its lexicon is versioned and public within your circle; its gaps are anyone's to notice; its new words pass through the same gentle protocol whoever proposes them. A conlang with one owner is a work of art. A conlang with a commons is a language. Phi was always meant to make the crossing, and every practice in this chapter — the pacts, the circles, the artifacts — is a plank in that bridge.
+Phi's vocabulary treats community as a living system — `sila` flows, `wesoma` is mutuality, `kowela` is the council. Treat the language itself the same way. Its lexicon is versioned and public within your circle; its gaps are anyone's to notice; its new words pass through the same gentle protocol whoever proposes them. A conlang with one owner is a work of art. A conlang with a commons is a language. Phi was always meant to make the crossing, and every practice in this chapter — the pacts, the circles, the artifacts — is a plank in that bridge.
 
 `su sila thuroa.`
 (May the community grow.)

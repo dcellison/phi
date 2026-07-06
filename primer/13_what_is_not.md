@@ -33,7 +33,7 @@
 > **sulopa mua tomi ma nai.**
 > **mawha nuora mua wonepa nai.**
 > **lopia phao nila.**
-> **phao sulopa pa whea.**
+> **phao sulopa pa pilewa.**
 
 | new word | say it | it means |
 |---|---|---|

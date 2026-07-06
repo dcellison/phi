@@ -6,7 +6,7 @@
 
 > **lu pheralu lepa. lo mia mua womu therilu.**
 > **lu sorae phelo loa. lo mia kau luphore wepu.**
-> **lu howeli shua. lo mia mua womu nuora whea.**
+> **lu howeli shua. lo mia mua womu nuora pilewa.**
 
 | new word | say it | it means |
 |---|---|---|

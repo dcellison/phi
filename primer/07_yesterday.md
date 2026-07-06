@@ -23,7 +23,7 @@
 
 ## II
 
-> **phao sulopa to whea.**
+> **phao sulopa to pilewa.**
 > **lopia sulopa to nuola.**
 > **thero phelo to loa.**
 > **misheko phialu to milau.**

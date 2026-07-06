@@ -35,9 +35,11 @@
 | `pesa` | push | Outbound force from the body |
 | `pharelo` | cook | fundamental human activity of cooking |
 | `phoa` | do | fundamental human activity of doing |
+| `pilewa` | make | fundamental human activity of making |
 | `pina` | sew | fundamental human activity of sewing |
 | `pisha` | split | Division along the grain |
 | `puse` | spit | The palate's veto |
+| `rashelo` | run | fundamental human activity of running |
 | `rato` | turn | The navigator's correction |
 | `riola` | labor | fundamental human activity of laboring |
 | `rohi` | rub | Friction as care |
@@ -47,7 +49,6 @@
 | `sawa` | wash | Water-cleansing as daily craft |
 | `selomi` | weave | fundamental human activity of weaving |
 | `sepho` | send | Dispatch and correspondence |
-| `shalo` | run | fundamental human activity of running |
 | `shua` | come | basic human action of moving toward a reference point |
 | `siwe` | sweat | Effort's residue |
 | `tapu` | close | The keeper's daily verb |
@@ -61,7 +62,6 @@
 | `wapho` | throw | Release into flight |
 | `wepu` | go | basic human action of departure and locomotion |
 | `whano` | stand | fundamental human activity of standing |
-| `whea` | make | fundamental human activity of making |
 | `wile` | play | fundamental human activity of playing |
 | `wishe` | swim | The body's water-travel |
 
@@ -290,7 +290,7 @@
 | `heloi` | generous | Sharing |
 | `howai` | evening | Gathering time |
 | `howela` | receive | receiving connects us in cycles of generosity |
-| `kaesu` | selfish | Lacking generosity |
+| `kasuno` | selfish | Lacking generosity |
 | `kawepa` | catch | The other end of every throw |
 | `keloe` | companion | Journey partner |
 | `keluro` | honor | Acknowledging worth within relationships |
@@ -361,7 +361,6 @@
 | `norui` | boundary | Relational border |
 | `noruwa` | generation | The cohort moving together |
 | `noshi` | near (adj) | Proximity |
-| `nowela` | exchange | weaves relationships through reciprocal giving and receiving |
 | `nuawe` | together | More than one, one doing |
 | `numelo` | nurture | Supporting growth of others |
 | `numike` | negotiate | Resolving differences through communication |
@@ -397,6 +396,7 @@
 | `piru` | trader | Exchange role |
 | `pukea` | danger | What warnings protect |
 | `punoa` | society | Social organization |
+| `rashelo` | run | rushing to help, playing together through racing |
 | `renoa` | liberate | Freeing action |
 | `repha` | bridge | Connection maker |
 | `rolia` | worth | Universal value |
@@ -404,7 +404,6 @@
 | `ruloi` | flourish | Collective thriving |
 | `sano` | know | knowing others and sharing collective knowledge |
 | `sepho` | send | Transfer across distance |
-| `shalo` | run | rushing to help, playing together through racing |
 | `shane` | tell | How news and stories move between people |
 | `shea` | peace | social harmony and collective thriving |
 | `shelira` | forest | Tree community gathering |
@@ -428,8 +427,8 @@
 | `sulopa` | soup | The meal that stretches |
 | `suro` | rope | Binding connection |
 | `telo` | farmer | Growing role |
-| `telu` | partner | fundamental social bond and relationship |
 | `temu` | guild | Craft association |
+| `tewema` | partner | fundamental social bond and relationship |
 | `thalume` | ancestor | forms the deep current of kinship and lineage |
 | `thaluni` | kin | fundamental to social structure and networks of belonging |
 | `theala` | heal | happens in relationship requiring collective support |
@@ -465,11 +464,11 @@
 | `warosha` | reconcile | Healing relationships after conflict |
 | `welao` | good | what serves collective wellbeing |
 | `welira` | thrive | Collective wellness |
-| `weloma` | mutual | fundamental to social bonds and reciprocal relationships |
 | `wema` | belong | roots in collective identity and mutual acceptance |
 | `wemi` | ally | joins personal identity with collective struggle |
 | `wenola` | collaborate | weaves diverse strengths through collective effort |
 | `weru` | poet | Creative role |
+| `wesoma` | mutual | fundamental to social bonds and reciprocal relationships |
 | `whaline` | thank | Completing the gift cycle |
 | `whano` | stand | posture of greeting, equality, and standing together |
 | `whelani` | welcome | receiving others and creating belonging |
@@ -478,6 +477,7 @@
 | `whola` | invite | creates and strengthens bonds through inclusive gestures |
 | `wi` | two | the beginning of social connection, the first 'we' |
 | `wilemo` | toy | Made for a child's hands |
+| `wisola` | exchange | weaves relationships through reciprocal giving and receiving |
 | `woenu` | tame | Human-animal bond |
 | `wolu` | healthy | Well-functioning |
 | `womu` | home | the shelter of family and intimacy |
@@ -556,6 +556,7 @@
 | `phowe` | share | creates abundance through circulation |
 | `phui` | flute | Wind instrument |
 | `phuri` | brush | Painting tool |
+| `pilewa` | make | bringing new forms into existence |
 | `pina` | sew | Joining through needle and thread |
 | `piru` | trader | Goods movement |
 | `ponu` | door | Passage control |
@@ -579,10 +580,10 @@
 | `suro` | rope | Strong cord |
 | `talome` | restore | Returning to original wholeness |
 | `teli` | bell | Ringing instrument |
-| `telu` | partner | partners co-create their shared reality |
 | `temu` | guild | Skill organization |
 | `tenoa` | tool | Implement |
 | `teru` | process | Action method |
+| `tewema` | partner | partners co-create their shared reality |
 | `thekiro` | write | Bringing lasting form into being |
 | `theko` | craft | Skilled making |
 | `thelai` | balm | Soothing salve |
@@ -602,7 +603,6 @@
 | `weoli` | reed | Weaving material |
 | `wetha` | cloth | Textile |
 | `wethalu` | garment | Cloth shaped by craft into wearable form |
-| `whea` | make | bringing new forms into existence |
 | `whori` | mend | Restoring broken things to wholeness |
 | `wile` | play | Exploring without stakes |
 | `wiru` | basket | Woven craft |
@@ -662,7 +662,7 @@
 | `sheori` | communicate | creates bridges of understanding through exchange |
 | `shonui` | ear | Essential for receiving communication |
 | `solae` | explain | illuminates understanding through detailed communication |
-| `telu` | partner | requires ongoing communication and mutual exchange |
+| `tewema` | partner | requires ongoing communication and mutual exchange |
 | `thaemu` | sincere | Genuine expression |
 | `thasu` | modest | Not boastful |
 | `theisa` | loud | Strong sound |
@@ -700,7 +700,7 @@
 | `kaeli` | like | the feeling of preference and affinity |
 | `kaelo` | sweet | Enjoyable quality |
 | `kaeshu` | bold | Confident daring |
-| `kaesu` | selfish | Self-centered |
+| `kasuno` | selfish | Self-centered |
 | `kela` | rejoice | Experiencing deep gladness |
 | `keloe` | companion | Abiding presence |
 | `kelomi` | accept | Opening to what is present |
@@ -1136,6 +1136,7 @@
 | `phoa` | do | performing actions and activities |
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phuwai` | lung | Respiratory organs within the chest |
+| `pilewa` | make | transforming materials through action |
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
@@ -1145,6 +1146,7 @@
 | `puro` | strength | Power capacity |
 | `puse` | spit | The mouth's expulsion |
 | `raelu` | tall | height of beings and structures |
+| `rashelo` | run | intense bodily exertion and cardiovascular activity |
 | `rato` | turn | The body's and the wheel's motion |
 | `reshi` | fast | Rapid movement |
 | `rewa` | oar | Sustained effort |
@@ -1159,7 +1161,6 @@
 | `ruemi` | lie down | The horizontal resting posture |
 | `sawa` | wash | Restoration to cleanness |
 | `seroli` | mature | Ripened state |
-| `shalo` | run | intense bodily exertion and cardiovascular activity |
 | `shalu` | fish | Water-dwelling creatures |
 | `shelu` | book | tangible objects that can be held, carried, and preserved |
 | `shena` | calm | Absence of turbulence |
@@ -1224,7 +1225,6 @@
 | `wethalu` | garment | Worn covering for the body |
 | `whalo` | large | spatial extent and size |
 | `whano` | stand | fundamental upright bodily posture requiring balance and strength |
-| `whea` | make | transforming materials through action |
 | `whelina` | grass | Low-growing vegetation |
 | `whesu` | blow | Moving air with breath or weather |
 | `whila` | hair | Fine body covering that grows and flows |
@@ -1318,6 +1318,7 @@
 | `losha` | wide | Horizontal extension |
 | `luphonu` | boat | The water's vehicle |
 | `maewo` | threshold | Crossing point |
+| `manolu` | stay | remaining in place and location |
 | `meilo` | sit | establishes presence in a specific location, transforming space into place |
 | `menui` | dwell | relationship between being and place |
 | `moeli` | hearth | Home center |
@@ -1325,7 +1326,6 @@
 | `molira` | hill | Accessible rise |
 | `moriwhe` | sea | Bounded oceanic expanse |
 | `moru` | wall | Vertical barrier |
-| `muloe` | empty | Containing nothing |
 | `mulu` | low | vertical extent near ground |
 | `mureo` | stable | Resistant to change |
 | `muwi` | interior | Inner space |
@@ -1354,6 +1354,7 @@
 | `ponu` | door | Entry barrier |
 | `raeli` | height | Upward extent |
 | `raelu` | tall | vertical extent upward |
+| `rashelo` | run | rapid movement through space, covering distance swiftly |
 | `rato` | turn | Rotation and change of facing |
 | `roke` | move | Movement through space |
 | `ronua` | south | Cardinal direction opposite the axis point |
@@ -1362,7 +1363,6 @@
 | `selu` | flow | traces movement through space along natural trajectories |
 | `senao` | same | the relationship of equivalence |
 | `sepho` | send | Caused travel toward a recipient |
-| `shalo` | run | rapid movement through space, covering distance swiftly |
 | `sharoi` | exceed | Frames relative position in numerical space—one quantity extends beyond another |
 | `shoeka` | route | Course of travel |
 | `shomelu` | shadow | Where the light is interrupted |
@@ -1380,7 +1380,6 @@
 | `thaeluro` | ocean | Boundless expanse |
 | `thaeru` | distant | Far away |
 | `thalo` | walk | enables traversal of distance and exploration of place |
-| `thalu` | stay | remaining in place and location |
 | `thelui` | sanctuary | Sacred refuge |
 | `thenoi` | falls-short | Frames relative position in numerical space—one quantity does not extend to another |
 | `thenui` | direct | Guiding toward |
@@ -1407,6 +1406,7 @@
 | `whalo` | large | relationship of scale and dimension |
 | `whano` | stand | vertical positioning that establishes presence and place |
 | `whelani` | welcome | movement from outside to inside, crossing thresholds |
+| `whemoa` | empty | Containing nothing |
 | `whenola` | wander | Undirected movement through space |
 | `whola` | invite | explicitly opens spaces and creates paths for others to enter |
 | `wira` | window | Light opening |
@@ -1453,6 +1453,7 @@
 | `lunei` | moon | marker of monthly cycles and tides |
 | `lunoa` | month | Lunar cycle |
 | `luphore` | river | Symbol of continuous change |
+| `manolu` | stay | continuing through time and duration |
 | `meloa` | persevere | Sustained effort |
 | `meluna` | season | Cyclical time division |
 | `moenu` | culture | Living inheritance |
@@ -1487,6 +1488,7 @@
 | `pholeni` | depart | Beginning of journey or separation |
 | `phomila` | offspring | represents future generations and continuity through time |
 | `phuro` | renew | Cycling from depleted to fresh |
+| `rashelo` | run | movement expressing urgency or time-sensitive response |
 | `reshi` | fast | High speed |
 | `rihe` | rise | The shape of beginnings |
 | `rolu` | wheel | Cyclical motion |
@@ -1496,7 +1498,6 @@
 | `serao` | old | extended duration in time |
 | `seroli` | mature | Fully developed |
 | `seru` | commit | Pledge moment |
-| `shalo` | run | movement expressing urgency or time-sensitive response |
 | `sheli` | impatient | Rushing |
 | `shemu` | moment | Brief duration |
 | `shero` | night | Dark hours |
@@ -1514,7 +1515,6 @@
 | `teluno` | amphibian | Beings of metamorphosis |
 | `teru` | process | Unfolding sequence |
 | `thaeso` | midday | Day's peak |
-| `thalu` | stay | continuing through time and duration |
 | `thalume` | ancestor | connects present to deep time through generations |
 | `thelumo` | ritual | marks passages of time and transitions |
 | `thenoki` | sustain | Maintaining through time |
@@ -1584,6 +1584,7 @@
 | `luwi` | flexible | Adaptive quality |
 | `maeli` | quiet | Enabling stillness |
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
+| `manolu` | stay | patient presence bringing understanding |
 | `meilo` | sit | sitting meditation as practice for cultivating mindful awareness |
 | `menua` | counselor | Advisory presence |
 | `moesha` | still | Calm presence |
@@ -1594,7 +1595,6 @@
 | `mu` | zero | understanding emptiness as pure potential |
 | `mueli` | plain (unadorned) | Simple sufficiency |
 | `muko` | careless | Lacking care |
-| `muloe` | empty | Openness |
 | `muro` | stubborn | Resistant to change |
 | `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
@@ -1681,7 +1681,6 @@
 | `tenoa` | tool | Appropriate technology |
 | `thaemo` | precious | Worth protecting |
 | `thaeru` | distant | Remote |
-| `thalu` | stay | patient presence bringing understanding |
 | `thasu` | modest | Unassuming |
 | `theala` | heal | requires understanding root causes and skillful means |
 | `theali` | fitting | recognition of appropriate relationship |
@@ -1720,11 +1719,12 @@
 | `waeshi` | wild | Natural freedom |
 | `weilo` | balanced | Proper proportion |
 | `welao` | good | discernment of beneficial quality |
-| `weloma` | mutual | understanding interdependence requires deep insight |
 | `weloni` | body | The first foundation of mindfulness |
 | `welua` | fragile | Requiring care |
 | `wero` | honest | Without deception |
+| `wesoma` | mutual | understanding interdependence requires deep insight |
 | `whano` | stand | standing meditation and practice of mindful presence |
+| `whemoa` | empty | Openness |
 | `whemura` | dream | Source of insight and vision |
 | `whenola` | wander | Openness to unplanned discovery |
 | `wheo` | elder | holds experiential knowledge from long living |
