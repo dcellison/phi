@@ -31,7 +31,7 @@ The plural particle appears when:
 **Plurality is not otherwise clear.** If no quantifier or number is present, `lo` can clarify that multiple entities are meant.
 
 **mia lo melu nila.**  
-*I PL friend see*  
+*1SG PL friend see*  
 "I see friends." (more than one, unspecified)
 
 **Emphasis on collective identity.** Even when plurality is clear, `lo` can emphasize the group as a group rather than as individuals.
@@ -55,7 +55,7 @@ Both forms are grammatical. The version without `lo` is simpler and often prefer
 For quantifiers expressing a large or total amount, like `theula` (all) or `sheloi` (many), adding `lo` is natural and common:
 
 **theula lo melu**  
-*all PL friend*  
+*UNIV PL friend*  
 "all friends"
 
 For smaller, more countable quantities, the speaker has a choice based on whether they want to emphasize the group as a unit.

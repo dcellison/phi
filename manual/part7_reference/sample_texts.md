@@ -52,7 +52,7 @@ A: kona melu. mia nuhe phaelo. mia phao to lumeo.
    (Friend — I feel sadness. My parent died.)
 
 B: mia wei thia phamo. mia ha nai.
-   1SG DAT 2SG console. 1SG here be.
+   1SG DAT 2SG console. 1SG PROX be.
    (I console you. I am here.)
 
 A: nemo. thia shewo melu nai.

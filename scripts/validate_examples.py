@@ -27,8 +27,16 @@ The single validation tool for the Phi project. Checks:
 
   2. Documentation examples (documents/, manual/, pamphlets/, CLAUDE.md):
      - every Phi token inside fenced code blocks exists in the lexicon
-     - tokens on gloss lines / translation lines are ignored
+     - gloss lines beneath Phi lines render each word by its lexicon
+       gloss, verbatim (names after ne/honorifics gloss as themselves;
+       register names accept either reading; translation lines and
+       marked-wrong teaching examples are exempt)
      - a small whitelist covers proper names and deliberate error forms
+
+  3. Phi quoted inside lexicon prose fields:
+     - multiword examples use real words in canon Slot 1 order
+     - single-word citations "'word' (gloss)" cite real words, and
+       short lowercase parentheticals must contain the cited gloss
 
 Usage:
     python3 scripts/validate_examples.py                # full check
@@ -366,12 +374,21 @@ def check_lexicon(entries):
             f"minimal pair; prune it from minimal_pairs_baseline.txt"
         )
 
-    # Phi examples quoted inside JSON prose fields must use real words,
-    # and sound-symbolism text may only claim sounds the word contains.
+    # Phi examples quoted inside JSON prose fields must use real words
+    # in canon Slot 1 order, and single-word citations "'word' (gloss)"
+    # must cite real words with their real glosses; sound-symbolism text
+    # may only claim sounds the word contains.
     lexicon_words = {d.get("word", "") for _, d in entries}
+    gloss_by_word = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
     QUOTED = re.compile(r"(?<![A-Za-z])['`]([a-z][a-z .?!]*?)['`](?![A-Za-z])")
+    CITED = re.compile(r"(?<![A-Za-z])'([a-z]{3,})' \(([^)]+)\)")
     for rel, data in entries:
         word = data.get("word", "")
+        own_units = set()
+        for s in syllabify(word) or []:
+            own_units.add(s)
+            if len(s) >= 2:
+                own_units.add(s[:-1])
         prose_fields = {
             "description": data.get("description", ""),
             "sound_symbolism": data.get("sound_symbolism", ""),
@@ -394,6 +411,31 @@ def check_lexicon(entries):
                     if t not in lexicon_words and t not in WHITELIST:
                         errors.append(
                             f"{rel}: unknown Phi word '{t}' in {field}"
+                        )
+                for run in slot1_misorders(tokens):
+                    errors.append(
+                        f"{rel}: Slot 1 order violation '{run}' in {field} "
+                        f"(canon: Tense > Aspect > Voice > Evidentiality > "
+                        f"Modality > Negation)"
+                    )
+            for cited, paren in CITED.findall(text):
+                if not set(cited) <= PHI_LETTERS or cited == word:
+                    continue
+                if cited in lexicon_words:
+                    g = re.sub(r"\s*\(.*", "", gloss_by_word[cited]).strip()
+                    if g.isupper():
+                        continue  # label gloss; the parenthetical explains meaning
+                    if not re.fullmatch(r"[a-z ,/-]+", paren) or len(paren.split()) > 3:
+                        continue  # example, translation, or long explanation
+                    if g.lower() not in paren.lower():
+                        errors.append(
+                            f"{rel}: {field} cites '{cited}' as ({paren}) "
+                            f"but its gloss is '{gloss_by_word[cited]}'"
+                        )
+                elif cited not in own_units and cited not in WHITELIST:
+                    if re.fullmatch(r"[A-Za-z ,/-]+", paren):
+                        errors.append(
+                            f"{rel}: {field} cites unknown word '{cited}' ({paren})"
                         )
         # sound-symbolism claims: quoted 1-2 letter units must be sounds
         # or syllables the word actually has
@@ -507,7 +549,111 @@ def phi_tokens(raw_line):
     return strip_brackets(raw_line).split()
 
 
-def check_docs(lexicon_words, paths=None):
+# The household register (naming pamphlet, family register): words that
+# recur as names and gloss as themselves when so used. Bare uses accept
+# either reading (the Schleicher fable's 'sulae' really is warm); after
+# 'ne' or an honorific, the name-only rule is strict ('NAME thinoe',
+# never 'NAME seed').
+NAMES = {"sulae", "siora", "keruko", "thinoe", "misheko", "lohau"}
+HONORIFIC_GLOSSES = {"HON.RESPECT", "HON.INTIM", "HON.ROLE"}
+
+
+def expected_gloss_stream(phi_line, gloss_of):
+    """The gloss-line token stream a Phi line licenses, as a list of
+    acceptable-token sets: each word's lexicon gloss verbatim with
+    parenthetical disambiguators dropped (the gloss-lines ruling); a
+    name after 'ne' or an honorific glossing as itself; a bare register
+    name glossing as itself or as its word. None if any token is
+    unknown — those are reported by the unknown-word check."""
+    out = []
+    expecting_name = False
+    for tok in phi_line.split():
+        core = tok.strip(".,;:!?*\"'").lower()
+        if not core:
+            continue
+        g = gloss_of.get(core)
+        if g is None:
+            return None
+        g = re.sub(r"\s*\([^)]*\)", "", g).strip()
+        is_label = g.isupper()
+        if expecting_name and not is_label:
+            out.append({core})
+            expecting_name = False
+        elif core in NAMES:
+            out.append({core, g})
+        else:
+            for w in g.split():
+                out.append({w})
+        if core == "ne" or g in HONORIFIC_GLOSSES:
+            expecting_name = True
+        elif not is_label:
+            expecting_name = False
+    return out
+
+
+def check_gloss_lines(rel, text, lexicon_words, gloss_of):
+    """The gloss-line lint: the line beneath a full Phi line (fenced, or
+    a full-line bold example) must render each word by its lexicon gloss,
+    verbatim. Guards: lines containing '(' are translations, next-lines
+    that are themselves Phi are continuations, and a line only counts as
+    a gloss line when most of its tokens come from gloss vocabulary."""
+    errors = []
+    gloss_vocab = set()
+    for g in gloss_of.values():
+        gloss_vocab.update(re.sub(r"\s*\([^)]*\)", "", g).split())
+    lines = text.splitlines()
+    in_fence = False
+    wrong_until = -1
+    for idx, line in enumerate(lines):
+        if "**wrong" in line.lower():
+            # deliberately ill-formed teaching examples (common-errors
+            # pamphlets): the marked fence is exempt
+            wrong_until = idx + 6
+        if line.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if idx <= wrong_until:
+            continue
+        phi_src = None
+        if in_fence:
+            cand = re.sub(r"^\s*[A-Za-z]:\s+", "", line)
+            if is_phi_line(cand.lower(), lexicon_words):
+                phi_src = cand
+        else:
+            m = re.match(r"^\s*(?:>\s*)?\*\*([^*]+)\*\*\s*$", line)
+            if m and is_phi_line(m.group(1).lower(), lexicon_words, strict=True):
+                phi_src = m.group(1)
+        if not phi_src or phi_src.lstrip().startswith("*") or idx + 1 >= len(lines):
+            continue
+        nxt = lines[idx + 1]
+        if nxt.strip().startswith("```"):
+            continue
+        gl = re.sub(r"^\s*(?:>\s*)?", "", nxt).strip().strip("*")
+        if not gl or "(" in gl or gl[0] in "\"“":
+            continue  # translation line, not a gloss line
+        if is_phi_line(gl.lower(), lexicon_words):
+            continue
+        actual = [t.strip(".,;:!?\"'") for t in gl.split()]
+        actual = [t for t in actual if t]
+        if not actual:
+            continue
+        if sum(1 for t in actual if t in gloss_vocab) <= len(actual) / 2:
+            continue
+        expected = expected_gloss_stream(phi_src, gloss_of)
+        if expected is None:
+            continue
+        if len(actual) != len(expected) or any(
+            a not in s for a, s in zip(actual, expected)
+        ):
+            want = " ".join("/".join(sorted(s)) for s in expected)
+            errors.append(
+                f"{rel}:{idx + 2}: gloss line mismatch: expected "
+                f"'{want}' got '{' '.join(actual)}'"
+            )
+    return errors
+
+
+def check_docs(lexicon_words, paths=None, gloss_of=None):
     errors = []
     roots = paths or DOC_ROOTS
     files = []
@@ -525,6 +671,8 @@ def check_docs(lexicon_words, paths=None):
         except OSError as e:
             errors.append(f"{rel}: unreadable: {e}")
             continue
+        if gloss_of:
+            errors.extend(check_gloss_lines(rel, text, lexicon_words, gloss_of))
         in_fence = False
         for lineno, line in enumerate(text.splitlines(), start=1):
             if line.strip().startswith("```"):
@@ -675,7 +823,8 @@ def main():
         warnings.extend(lex_warnings)
 
     if not args.lexicon_only:
-        errors.extend(check_docs(lexicon_words, args.paths))
+        gloss_of = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
+        errors.extend(check_docs(lexicon_words, args.paths, gloss_of))
 
     for e in errors:
         print(f"ERROR   {e}")

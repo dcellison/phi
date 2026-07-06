@@ -132,7 +132,7 @@ mia wela shia towe nai welo sano
 
 ```
 lo mia wela sorae so shua welo ma sano
-1PL INT.COMP sun FUT come INT.COMP.CLOSE NEG know
+PL 1SG INT.COMP sun FUT come INT.COMP.CLOSE NEG know
 (We do not know whether the sun will come.)
 ```
 
@@ -180,7 +180,7 @@ mia wela pheralu so shua welo ma sano
 
 ```
 lo mia wela shia so turema welo phaelo
-1PL INT.COMP 3SG FUT return INT.COMP.CLOSE wonder
+PL 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE feel
 (We wonder whether they will return.)
 ```
 
@@ -240,7 +240,7 @@ mia wela shia po shua welo phaelo
 
 ```
 shia wela lo mia na wepu welo to thilou
-3SG INT.COMP 1PL NEC go INT.COMP.CLOSE PST ask
+3SG INT.COMP PL 1SG NEC go INT.COMP.CLOSE PST inquire
 (They asked whether we must leave.)
 ```
 
@@ -420,7 +420,7 @@ shia thia hina to nila to thilou
 
 ```
 lo mia shia kua nai ma sano
-1PL 3SG where be NEG know
+PL 1SG 3SG where be NEG know
 (We don't know where they are.)
 ```
 

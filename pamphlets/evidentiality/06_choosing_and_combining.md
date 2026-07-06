@@ -70,7 +70,7 @@ Yesterday: you watched the morning rain; thinoe told you the well path flooded; 
 
 ```
 pheralu sui kelua to hi lepa.
-rain DURING morning PST DIR fall.
+rain DUR morning PST DIR fall.
 (Rain fell in the morning — I watched it.)
 
 phitura ruela to ti phialu howela.
@@ -78,7 +78,7 @@ well path PST REP water receive.
 (The well path took water — thinoe told me.)
 
 lohau thue thepalu to ke wepu. mia mua muila lohau ruela to nila.
-dog THROUGH garden PST INFER go. 1SG LOC earth dog trail PST see.
+dog THROUGH garden PST INFER go. 1SG LOC earth dog path PST see.
 (The dog went through the garden — I infer; I saw his trail in the earth.)
 
 sulae mua womu to ho manolu.

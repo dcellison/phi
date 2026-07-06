@@ -64,7 +64,7 @@ night come. eighty-one-group star.
 (Night comes. Countless stars.)
 
 lopia sui philo ta shao wi lipha powea to wisola. lopia mua korua ta themo noru phelu.
-child DURING day one three-group two LIFE.CLF egg PST exchange. child LOC heart one THING.CLF bowl hold.
+child DUR day one three-group two LIFE.CLF egg PST exchange. child LOC heart one THING.CLF bowl hold.
 (Across the day the child traded five eggs. In her heart she holds one bowl.)
 ```
 

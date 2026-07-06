@@ -56,7 +56,7 @@ No count of bowls, no census of appetites — the only quantity that mattered, a
 
 ```
 wia himo miona so shua.
-WHICH HUM.CLF person FUT come.
+which HUM.CLF person FUT come.
 (How many people will come?)
 ```
 

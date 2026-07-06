@@ -99,7 +99,7 @@ shia shola sorae phelora nai sholo to haolu
 
 ```
 melu shola lo mia so turema sholo to haolu
-friend QUOT.COMP 1PL FUT return QUOT.COMP.CLOSE PST say
+friend QUOT.COMP PL 1SG FUT return QUOT.COMP.CLOSE PST speak
 (The friend said: "We will return.")
 ```
 

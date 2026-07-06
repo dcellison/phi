@@ -63,7 +63,7 @@ The grammar provides consistent structure; the meaning of the words provides cla
 Possession and description can combine freely. The order follows a consistent pattern: possessors tend to come before other modifiers, closer to the head noun.
 
 **mia serao shelu**  
-*I old book*  
+*1SG old book*  
 "my old book"
 
 The possessor `mia` appears first, then the descriptor `serao` (old), then the noun `shelu`. This creates a natural information flow: whose book, what kind of book, the book itself.
@@ -71,7 +71,7 @@ The possessor `mia` appears first, then the descriptor `serao` (old), then the n
 However, Phi's flexible word order allows speakers to emphasize different aspects:
 
 **serao mia shelu**  
-*old I book*  
+*old 1SG book*  
 "the old book of mine" (emphasizing age)
 
 The meaning shifts subtly based on what comes first. Context and communication goals guide these choices.
@@ -81,7 +81,7 @@ The meaning shifts subtly based on what comes first. Context and communication g
 Possession can nest recursively:
 
 **mia melu shelu**  
-*I friend book*  
+*1SG friend book*  
 "my friend's book"
 
 Here, `mia melu` forms a unit meaning "my friend," and this entire unit modifies `shelu`. The resulting phrase describes a book that belongs to someone who is my friend.

@@ -8,7 +8,7 @@ The elder at the well does not just conclude — the elder shows the work:
 
 ```
 suliwa ke nai. mia suliwa ma nila. mia ruela mua muila nila.
-snake INFER be. 1SG snake NEG see. 1SG trail LOC earth see.
+snake INFER be. 1SG snake NEG see. 1SG path LOC earth see.
 (There is a snake — I infer it. I do not see the snake. I see the trail in the earth.)
 ```
 

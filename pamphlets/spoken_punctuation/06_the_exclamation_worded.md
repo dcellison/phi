@@ -20,7 +20,7 @@ Where English writes *"How beautiful!"* — excitement smeared across the whole 
 
 ```
 teo. suliwa.
-careful. snake.
+watch out. snake.
 (Careful — a snake!)
 ```
 

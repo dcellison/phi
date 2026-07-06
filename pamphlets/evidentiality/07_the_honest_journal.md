@@ -28,7 +28,7 @@ The witness line fails in two instructive ways. The first is writing what you *k
 
 ```
 lopia sui philo to wile.
-child DURING day PST play.
+child DUR day PST play.
 (The child played today.)
 ```
 

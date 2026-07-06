@@ -122,7 +122,7 @@ shia wela mia to nila welo to thilou
 (They asked whether I had seen.)
 
 lo mia wela sorae phelora nai welo ma shelomui
-1PL INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
+PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 (We don't know whether the sun is beautiful.)
 ```
 
