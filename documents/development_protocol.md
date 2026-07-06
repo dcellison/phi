@@ -37,10 +37,11 @@ This "announce then deliver" principle creates transparent communication where a
 - [ ] **Dental articulation**: /t/ and /n/ are dental, not alveolar
 
 ### Structural Hierarchy
-- [ ] **Single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi)
-- [ ] **Two syllables (CV.V / FV.V)**: Used for pronouns (mia, thia, shia), prepositions (mua, thue, wei), and scale units (shao, phoi)
-- [ ] **Multi-syllable**: Required for content words
-- [ ] **Particles**: CV structure only (no fricative digraphs) for instant recognition and disambiguation
+The full function-word shape charter is a canon ruling (see `/canon.md`); the checklist summarizes it.
+- [ ] **Single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi); particles never take fricative digraphs
+- [ ] **Hiatus disyllable ((C)V.V)**: The relator shape — prepositions (mua, thue, wei), core pronouns (mia, thia, shia), clause-relators (lao, pheo, phoe, shai), and scale units (shao, phoi)
+- [ ] **Plain disyllable (CV.CV)**: The frame shape — complementizers (openers -a, closers -o), frame conjunctions, classifiers, the vocative, and the -so pronoun pair (miso, wiso)
+- [ ] **Multi-syllable**: Required for content words; quantifiers, discourse markers, and interrogatives are content-shaped (2-3 syllables)
 
 ### Sound Symbolism Alignment
 - [ ] **Fricatives (ph,th,sh,wh)**: Abstract, philosophical, or gentle concepts
