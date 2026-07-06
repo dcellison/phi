@@ -36,6 +36,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `space_system_audit.md` | The survey behind the natural-ruler and sides-from-a-body rulings (2026-07-06): sixteen spatial prepositions with seven corpus-dead, the carved-but-asleep compass, the unit-less measure field; the rulings live in `/canon.md` |
 | `body_health_audit.md` | The survey behind the states-are-worn-sensations-are-felt ruling (2026-07-06): thirty body nouns and the full healing family, nearly all corpus-dead; the phaelo pattern attested in 35 files and ruled nowhere; the ruling lives in `/canon.md` |
 | `death_lifecycle_audit.md` | The survey behind the death-is-named-plainly and rites-described rulings (2026-07-06): the designed life arc and grief family, corpus-dead; the euphemism and rites stances unruled; the rulings live in `/canon.md` |
+| `emotions_audit.md` | The survey behind the heart-composes ruling (2026-07-06): the felt basics correctly classed for the feeling grammar, carves complete, the coining stance living in one registry aside; the ruling lives in `/canon.md` |
 | `writing-system/` | (moved 2026-07-05) The Mayan-inspired glyph exploration began development and moved to `/writing_systems/`, joining the Tengwar mode recovered from the 2021 LaTeX manual in git history |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
 | `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |
