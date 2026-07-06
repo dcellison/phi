@@ -16,7 +16,31 @@ Asking *what* or *who* needs no `wa` at all. The interrogative word sits exactly
 
 *thia thela kealo.* — How do you create?
 
-Six words cover the questions a life asks: `sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how. Each occupies the position of the unknown, so the shape of the question already sketches the shape of its answer. `wa` is for uncertainty about the whole; these are for a gap in the middle — and because the gap-word announces itself, the two never need each other.
+Seven words cover the questions a life asks: `sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how, and `wia` how many, which stands before a classifier or noun the way a quantifier does. Each occupies the position of the unknown, so the shape of the question already sketches the shape of its answer. `wa` is for uncertainty about the whole; these are for a gap in the middle, and because the gap-word announces itself, the two never need each other. This is settled canon: the gap-word stands where the answer will.
+
+Every system the language owns is askable this way, and the question always previews its answer's shape. Color:
+
+```
+ha hina welisha nai.
+PROX what color be.
+(What color is this?)
+```
+
+Age, where `wia` meets the counting of years:
+
+```
+thia wia torua phelu.
+2SG how many year hold.
+(How old are you?)
+```
+
+```
+mia wi phoi torua phelu.
+1SG two nine-group year hold.
+(I hold eighteen years.)
+```
+
+Time, place, feeling: `thia weno shua.` (when do you come?), `lohau kua nai.` (where is the dog?), and the healer's `thia kua kipona phaelo.` (where do you feel pain?). Selection, English's "which cup," is `hina` before the noun: what-kind is Phi's honest which.
 
 The same holds for the imperative:
 
