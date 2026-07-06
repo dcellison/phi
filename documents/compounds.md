@@ -43,6 +43,15 @@ them; words inside a compound must all exist in the lexicon.
 |---|---|---|---|
 | `haoni welisha` | voice-color | timbre, tone of voice | Timbre genuinely is the voice's color — the quality that stays when pitch and words are removed. The compound is the standard metaphor stated plainly; a coined label would hide it. |
 
+## Color
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `kerou welisha` | stone color | gray | The seven coined hues stop at the perceptual universals (canon: color composes); gray is the stone's, and saying so keeps the referent visible. |
+| `thero welisha` | fire color | orange | Orange is named from its carrier in most languages that name it at all; Phi names the fire directly. |
+| `horathe welisha` | dawn color | pink | The first light carries the hue; a coined "pink" would hide the sky it came from. |
+| `norawhi welisha` | dusk color | violet, purple | The mirror of dawn: the last light's hue, named from the hour that shows it. |
+
 ## Time
 
 | Compound | Literal | Meaning | Why compositional |
