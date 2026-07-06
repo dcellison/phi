@@ -241,6 +241,10 @@ def load_lexicon():
             errors.append(f"{rel}: pos lists both noun and verb - refused by ruling: a deed names its event; a thing does not name its deed")
         if "adjective" in pos and "noun" in pos:
             errors.append(f"{rel}: pos lists both adjective and noun - refused by ruling: a quality names itself (quality-noun rule); a thing describes by position")
+        if "adjective" in pos and "verb" in pos:
+            errors.append(f"{rel}: pos lists both adjective and verb - refused by ruling: qualities do not name their acts")
+        if "content" in path.parts and len(pos) != 1:
+            errors.append(f"{rel}: content entries carry exactly one part of speech (one word, one class)")
         entries.append((rel, data))
     return entries, errors
 

@@ -44,3 +44,21 @@ That visibility matters most where influence is easiest to overlook — teaching
 > "The people have the children learn"
 
 Growth rarely happens alone; `ka` lets a community say so plainly, and it lets the question of responsibility be asked with the facts already on the table. Who acted is one answer. Who arranged the acting is another. Phi keeps room for both.
+
+## Causing states
+
+Qualities are not verbs in Phi: nothing is "cleaned" or "calmed" in a single word. A state is entered with `kelu` (become), the quality standing before it, and caused with the same machinery every other verb uses:
+
+> **lurekoi seroli kelu**
+> fruit mature become
+> "The fruit ripens"
+
+> **mia noru hiso ka kelu**
+> 1SG bowl clean CAUS become
+> "I clean the bowl"
+
+> **mia lopia shena ka nai**
+> 1SG child calm CAUS be
+> "I keep the child calm"
+
+`ka kelu` brings something to a state; `ka nai` holds it there. The quality stays what it is — a descriptor — and the causing stays where causing always lives: in Slot 1, on the record.

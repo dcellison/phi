@@ -191,6 +191,19 @@ These were explicitly decided and should not silently fork again:
   sense in `archive/quality_noun_adjudication.md`); the validator
   refuses the combination. One word, one class; position and the
   two one-way rules do all the bridging.
+- **Qualities do not name their acts** (settled 2026-07-06): the
+  adjective→verb direction is refused, completing one-word-one-class
+  — no content entry lists two parts of speech, and the validator
+  enforces it. Entering a state is `kelu` (become) with the quality
+  before it (`lurekoi seroli kelu`, the fruit ripens — the Velveteen
+  text's own `thia shewo kelu`); causing one is ordinary Slot 1
+  voice on the verbs of being and becoming (`mia noru hiso ka
+  kelu`, I clean the bowl; `mia lopia shena ka nai`, I keep the
+  child calm). The 12 dual listings were pruned to adjective-only —
+  except `phae` (open), which like `kulo` was verb-primary all
+  along: the primer teaches it beside verb-only `tapu` (close), so
+  it keeps the verb and sheds the adjective. Word-by-word audit in
+  `archive/adjective_verb_adjudication.md`.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
