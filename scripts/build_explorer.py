@@ -377,6 +377,7 @@ TEXTS = [
     ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts, zero new words \u2014 and two transmutations that see through the original: the prince who was never a rank, and the taming that was always a bond."),
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "The longest transmutation: a full story in eight scenes, two coins, and the discovery that Real was the habitual aspect all along."),
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran's counsel on love, children, and giving \u2014 the archer become the tree and the wind, the reward become a gift, and not one new word needed across three whole teachings."),
+    ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five chapters of the oldest possible houseguest: water, the use of what is not there (mu's homecoming), the guide no one notices, the great that begins small, and the soft that outlasts the hard \u2014 with every transmutation move named, as a working guide for doing this by hand."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
