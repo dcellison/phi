@@ -326,6 +326,26 @@ These were explicitly decided and should not silently fork again:
   my back); the healer's question is `thia kua kipona phaelo.`
   (where do you feel pain). The identity shortcut is refused:
   never `mia kipona nai`; a person has never been their pain.
+- **Death is named plainly** (settled 2026-07-06): `lumeo` is the
+  word, and no softened synonym will ever be coined; a language
+  built for honesty does not grow a fog bank around the one
+  certainty. `shia to lumeo.` (she died); the dead one is `rena
+  to lumeo`; death the noun comes by the event-noun rule and may
+  stand as subject (`lumeo wei theula lioru shua.`, death comes
+  to all life, the entry's own sentence). Gentleness lives in the
+  grammar, not in avoidance: grief takes the feeling pattern
+  (`mia nuhe phaelo.`, `mia holume phaelo.`), mourning marks the
+  mourned with `wei` (`mia wei ni melu nuhemi.`), and the
+  optative holds what cannot be fixed.
+- **Rites are described, never prescribed** (settled 2026-07-06):
+  `thorea` (ceremony) is the only rite word Phi will ever have.
+  Specific rites (funeral, wedding, baptism, and their kin) are
+  refused by design: naming a rite standardizes it, and Phi's
+  speakers come from every tradition. A ceremony is described
+  (`lumeo thorea`, a death ceremony; `sila wei shia thorea
+  kealo.`, the community makes a ceremony for them) and the
+  content belongs to whoever holds it. The stance the Prophet
+  transmutation stated in passing is hereby canon.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
