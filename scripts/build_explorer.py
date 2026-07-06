@@ -388,7 +388,7 @@ def pamphlet_page(body, title, footer_nav=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Deep-dive companions to the Phi manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys.">
+<meta name="description" content="Deep-dive practice companions to the Phi manual, from relative clauses to the punctuation you can hear — each explained patiently, with exercises and answer keys.">
 <title>Phi pamphlets &mdash; {title}</title>
 <script src="../theme.js"></script>
 <link rel="stylesheet" href="../style.css">
@@ -437,7 +437,6 @@ for dirname, title, blurb in PAMPHLETS:
         (PAMPH_OUT / f"{dirname}__{f.stem}.html").write_text(pamphlet_page(link_text_citations(body), ptitles[i], footer_nav))
         pamph_pages += 1
     toc.append(f'<h2><a href="{dirname}__{pfiles[0].stem}.html">{title}</a></h2><p>{blurb}</p>')
-    toc.append('<ol class="toc">' + "".join(f'<li><a href="{dirname}__{f.stem}.html">{t}</a></li>' for f, t in zip(pfiles[1:], ptitles[1:])) + "</ol>")
 toc.append("<hr><p><em>More pamphlets are coming; the shelf is built to grow.</em></p>")
 (PAMPH_OUT / "index.html").write_text(pamphlet_page("\n".join(toc), "contents"))
 print(f"wrote web/pamphlets/: {pamph_pages} pages + contents")
