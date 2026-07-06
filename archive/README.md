@@ -31,6 +31,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `function_word_shape_audit.md` | The 113-word audit behind the function-word shape charter (2026-07-06); the ruling lives in `/canon.md` |
 | `synonym_carve_audit.md` | The 36-cluster near-synonym audit closing the consistency-sweeps program (2026-07-06); 13 carves completed, zero retirements |
 | `time_system_audit.md` | The survey behind the four time rulings — natural clock, age, temporal distance, frequency (2026-07-06); the rulings live in `/canon.md` |
+| `color_system_audit.md` | The survey behind the color-composes ruling (2026-07-06): seven basics match the Berlin-Kay universals, further hues compose with `welisha`; the ruling lives in `/canon.md` |
 | `writing-system/` | (moved 2026-07-05) The Mayan-inspired glyph exploration began development and moved to `/writing_systems/`, joining the Tengwar mode recovered from the 2021 LaTeX manual in git history |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
 | `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |

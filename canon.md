@@ -275,6 +275,23 @@ These were explicitly decided and should not silently fork again:
   to coining: any quantifier may count `shemu` (moments) or claim
   `thimu` (time entire); a coined "seldom" would only relabel
   `phina shemu`. The registry carries the five.
+- **Color composes** (settled 2026-07-06): the seven color
+  adjectives are the whole coined palette: `nuko` (black), `whilo`
+  (white), `rulo` (red), `liro` (green), `soriu` (yellow), `shilu`
+  (blue), `mureli` (brown), each anchored to a natural referent.
+  These are the perceptual universals (Berlin and Kay stages I
+  through VI); hue adjectives beyond them are refused by design,
+  because the further hues are culturally negotiated and Phi lets
+  them keep the thing they came from visible. Further hues take
+  `welisha` after the referent that carries them, the
+  nouns-describe rule doing its ordinary work: `kerou welisha`
+  (stone color, gray), `thero welisha` (fire color, orange),
+  `horathe welisha` (dawn color, pink), `norawhi welisha` (dusk
+  color, violet); the registry carries the four. Brightness and
+  paleness stack as descriptors do: `nuelo shilu` (dark blue),
+  `keru rulo` (bright red), `whilo shilu` (pale blue). `nuko`
+  names the hue and `nuelo` the illumination; the entries carve
+  the pair.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
