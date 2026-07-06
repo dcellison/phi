@@ -8,7 +8,7 @@ Everything begins here, and two is enough. A partner, a friend, a child, a corre
 
 - **The greeting pact.** Two people agree to exchange one fixed greeting daily — `kona melu. wa thia towe nai.` — and nothing more until it feels natural. Vocabulary grows outward from ritual, not the reverse.
 - **The written exchange.** Letters or messages with three-line journal entries (witness, feeling, wish). Writing forgives slow recall; conversation punishes it. Start written.
-- **Teaching as learning.** `thumela` and `shonela` were recoined to be unconfusable for a reason: the fastest way to consolidate your Phi is to teach its first chapter to someone else.
+- **Teaching as learning.** `thumela` and `shonela` are built to be unconfusable for a reason: the fastest way to consolidate your Phi is to teach its first chapter to someone else.
 
 ## A circle
 

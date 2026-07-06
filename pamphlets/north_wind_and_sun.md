@@ -94,11 +94,10 @@ north wind PST CESS come. wind PST rest.
 (The North Wind ceased. The wind rested.)
 ```
 
-**Notes:** Three adaptations, all recorded in the gap log. "Blow" has
+**Notes:** Three adaptations. "Blow" has
 no word: the wind *came*, marked strong — which is what wind's blowing
 is. The famous correlative "the more… the more…" has no construction
-(correlative conjunctions were deliberately removed from the language
-in its February 2026 design phase), so it becomes two parallel `mo`
+(Phi has no correlatives, by design), so it becomes two parallel `mo`
 sentences whose escalation the listener feels in the repetition.
 And "gave up" — a defeat idiom — becomes the cessative `te` followed
 by `therilu`, *rest*: the wind does not lose; it stops, and rests.
@@ -192,29 +191,24 @@ moli puro sharoi.
 |---|---|---|
 | dispute / quarrel | `shareo` (discuss) — the language cooled the scene | None; the shift is the philosophy working |
 | traveler | `[rena laniru thalo] miona` (one who walks a journey) | None; relatives keep outperforming category nouns |
-| cloak / garment | `sulae wetha` (warm cloth) | Resolved: `wethalu` (garment) coined in the Daily-Life Batch; the fable's phrase stands as description |
+| cloak / garment | `sulae wetha` (warm cloth) | Resolved: `wethalu` (garment) exists; the fable's phrase stands as description |
 | wear / wrap in | `phelu` (hold) | Acceptable and resonant; revisit if clothing vocabulary grows |
-| blow (of wind) | `shua` (come) + strength adverbials | Resolved: `whesu` (blow) coined in the Daily-Life Batch; the fable's phrasing stands as narrative style |
-| the more X, the more Y | paired `mo` sentences | Deliberate: correlatives were removed by design (Feb 2026); the parallel form is canon |
+| blow (of wind) | `shua` (come) + strength adverbials | Resolved: `whesu` (blow) exists; the fable's phrasing stands as narrative style |
+| the more X, the more Y | paired `mo` sentences | Deliberate: Phi has no correlatives by design; the parallel form is canon |
 | give up | `te` (cessative) + `therilu` (rest) | None; Phi's version is kinder and loses nothing |
 | shine | `phelo loa` (give light) | Candidate for the compound registry |
 | win / stronger-of-two | `mo kema` + `thekao` (acknowledge) | None; contest vocabulary refused, story intact |
 
-## What the second text showed
+## What this text shows
 
 1. **Narrative works.** Chained past-tense clauses with `to`, sequenced
-   by `pheo` and `whekai`, carried a plot with no strain — the register
-   the sutta never tested.
+   by `pheo` and `whekai`, carry a plot with no strain — a register
+   the contemplative sutta does not visit.
 2. **Deep embedding works.** Scene 3's relative-inside-causative-
-   inside-`mena` is the deepest nesting yet written, and the
-   opener/closer system kept it unambiguous on the first read.
-3. **The refusals composed, again.** No quarrel, no defeat, no victory
+   inside-`mena` is the deepest nesting on the shelf, and the
+   opener/closer system keeps it unambiguous on the first read.
+3. **The refusals compose.** No quarrel, no defeat, no victory
    vocabulary — and the fable not only survives but arguably improves:
    discussion, rest, acknowledgment, and a moral stated as measurement.
    Aesop's point *is* Phi's point; the language just removes the
    bluster from the telling, which is what the Sun does in the story.
-4. **New gaps are practical, not philosophical:** clothing and weather
-   verbs — the vocabulary of daily life outdoors. Good targets for the
-   next word batch.
-5. **`phelo loa` (give light)** is this text's candidate for the
-   compound registry, alongside the sutta's `korua thero`.

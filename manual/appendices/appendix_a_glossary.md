@@ -30,7 +30,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **mood**: The speech-act flavor of a sentence. Phi marks mood with Slot 0 particles: question `wa`, imperative `no`, conditional `lu`, optative `su` (wishes), politeness `pi`.
 
-**optative**: The mood of wishes and blessings ("may all beings be well"). Phi's `su`, the workhorse of its first text.
+**optative**: The mood of wishes and blessings ("may all beings be well"). Phi's `su`, the workhorse of the Metta Sutta.
 
 **particle**: A short, invariant grammatical word. In Phi, always a single CV syllable, assigned to one of three slots: sentence-frame (Slot 0), verb-phrase (Slot 1), word-level (Slot 2).
 

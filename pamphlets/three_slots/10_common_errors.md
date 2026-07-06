@@ -6,7 +6,7 @@ The particle system's errors split the way this series always finds: order error
 
 **Wrong:** `mia ma to sheluo.` — **Right:** `mia to ma sheluo.`
 
-The commonest relic: negation creeping ahead of tense, because English says "did not" with the denial first. The order never bends — time, shape, actor, source, constraint, denial, deed — and since the audit, the validator refuses the reversal mechanically. Train the ear anyway: `ma to` should sound like a wrong note before you can say why.
+The commonest error: negation creeping ahead of tense, because English says "did not" with the denial first. The order never bends — time, shape, actor, source, constraint, denial, deed — and the validator refuses the reversal mechanically. Train the ear anyway: `ma to` should sound like a wrong note before you can say why.
 
 ### Error 2: doubled ranks
 

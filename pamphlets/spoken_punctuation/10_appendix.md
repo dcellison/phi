@@ -45,7 +45,7 @@ The page side is enforced: periods only, no capitals, no `,` `?` `!` `;` in any 
 
 ### Cross-references
 
-- Canon: the *Punctuation* ruling (2026-07-05) — this pamphlet is that ruling, practiced; and *Letters*, its twin.
+- Canon: the *Punctuation* ruling — this pamphlet is that ruling, practiced; and *Letters*, its twin.
 - The quick reference: `manual/part7_reference/quick_reference_grammar.md`, the one-line summary.
 - Doctrine: manual ch11 §3 (Slot 0); ch12 §5 (questions); ch18 (coordination); ch20 (subordination, speech, adverbials); ch23 §1 (the vocative).
 - Sibling pamphlets: 2 (the closers, drilled); 3 (what the frame copies and never adds); 5 (the spoken capital, whole); 6 (recitation, where the free pauses earn their keep).

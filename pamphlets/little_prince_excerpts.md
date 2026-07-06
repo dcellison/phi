@@ -54,4 +54,4 @@ UNIV time. 2SG DAT REL 2SG PST bond responsible become.
 
 ## What the transmutation changed
 
-*Gap log: prince → refused as rank; the title describes instead — `thiku miona lue silero`, the small person from the stars; draw → `kire` (shape); tame → `nolami` (bond — the fox's own definition, already in the dictionary); everything else — secret, plain, heart, eye, essential, responsible, forever — the lexicon already held. New words coined: none. For the second time, a famous text fit inside the language as it stands; the first was the Declaration of Human Rights, and there is something fitting in the pair — the rights of all people, and the duties of one heart.*
+*Gap log: prince → refused as rank; the title describes instead — `thiku miona lue silero`, the small person from the stars; draw → `kire` (shape); tame → `nolami` (bond — the fox's own definition, already in the dictionary); everything else — secret, plain, heart, eye, essential, responsible, forever — the lexicon already held. New words coined: none. The text keeps good company on the shelf beside the Declaration of Human Rights: the rights of all people, and the duties of one heart.*

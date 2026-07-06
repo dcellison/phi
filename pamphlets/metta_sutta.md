@@ -140,8 +140,7 @@ OPT NONE person ABL heart fire DAT 3SG harmful wish.
 (May no one, from the fire of the heart, wish harm upon another.)
 ```
 
-**Notes:** Deception uses the dedicated verb `peshu` (lie), coined in
-Word Batch 2. Contempt is "seeing another as small" —
+**Notes:** Deception uses the dedicated verb `peshu` (lie). Contempt is "seeing another as small" —
 `thiku nila` — which names the act more precisely than "despise" does.
 Anger, which has no Phi word, becomes `korua thero`, *heart-fire*: a
 compound that observes the feeling without condemning the one who
@@ -304,11 +303,11 @@ transmutation handled each:
 |---|---|---|
 | anger / hatred | `korua thero` (heart-fire) — compositional metaphor | Canonized in `documents/compounds.md` |
 | beings | `theula [rena lima nai]` (all that is alive) | No word needed — the relative clause is better than a noun |
-| born / birth | `wea lioru shua` (coming toward life) | Resolved: `thowia` (born) coined in the Life-Arc Batch; the sutta's phrase stands as chosen poetry |
-| deceive / lie | `peshu` (lie) — coined in Word Batch 2 during this project | Resolved |
+| born / birth | `wea lioru shua` (coming toward life) | Resolved: `thowia` (born) exists; the sutta's phrase stands as chosen poetry |
+| deceive / lie | `peshu` (lie), the dedicated verb | Resolved |
 | despise | `thiku nila` (see as small) | Canonized in `documents/compounds.md` |
-| safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | Resolved: `shurano` (safe) and `pukea` (danger) coined in the Life-Arc Batch |
-| lie down (posture) | `therilu` (rest) | Resolved: `ruemi` (lie down) coined in the Daily-Life Batch; the sutta's `therilu` stands |
+| safety / safe | folded into `towe nai` (be well) + `shorupo` (protect) | Resolved: `shurano` (safe) and `pukea` (danger) exist |
+| lie down (posture) | `therilu` (rest) | Resolved: `ruemi` (lie down) exists; the sutta's `therilu` stands |
 | fixed view / opinion | `remo kire` (thought-shape) | Canonized in `documents/compounds.md` |
 | sublime abiding | `shea menui` (dwelling of peace) | Transmutation, intentional |
 | rebirth | omitted; text closes on the path of peace | Doctrinal adaptation, recorded here deliberately |

@@ -8,7 +8,7 @@
 
 ---
 
-Phi's entire grammar is thirty-five small words that never change shape. Six frame the sentence, sixteen shape the verb, thirteen refine single words — and every one of them stands before what it affects, announcing its work in advance. The doctrine belongs to manual ch11, the backbone chapter, with ch15–17 owning the deep corners and the canon rulings of July 2026 settling the last open joints: one particle per rank, the causative seated with the voice particles, the restrictive fenced, the Slot 2 stack ordered. This pamphlet is the whole machine, drilled — the first place all of it stands together.
+Phi's entire grammar is thirty-five small words that never change shape. Six frame the sentence, sixteen shape the verb, thirteen refine single words — and every one of them stands before what it affects, announcing its work in advance. The doctrine belongs to manual ch11, the backbone chapter, with ch15–17 owning the deep corners and the canon rulings settling the last open joints: one particle per rank, the causative seated with the voice particles, the restrictive fenced, the Slot 2 stack ordered. This pamphlet is the whole machine, drilled — the first place all of it stands together.
 
 Two skills interleave throughout, as ever. The first is mechanical: sorting particles by slot at hearing speed, building and reading stacks without thought, placing every piece where the fixed orders put it. The second is the one Phi actually cares about: hearing what each added particle *costs* — the claim it makes, the accountability it takes on — until a fully dressed sentence reads not as complexity but as care, taken out loud, one syllable at a time.
 
