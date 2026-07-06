@@ -26,7 +26,7 @@ The frame-words-stay-two-syllable ruling (settled 2026-07-05, taught in PR #78) 
 
 ## Two observations recorded, not ruled
 
-1. **Discourse markers are 6/7 fricative-initial** (phisu, sheno, shorela, shekoi, shelao, thelao — the breath before reframing); `kewai` (CONTR) is the exception. Ruling a breath-onset signature would mean recoining kewai; left as an observation per the no-statistics-into-rules principle. If kewai is ever recoined for other reasons, a fricative onset would complete the pattern.
+1. **Discourse markers are 6/7 fricative-initial** (phisu, sheno, shorela, shekoi, shelao, thelao — the breath before reframing); `kewai` (CONTR) was the exception. RULED same day: Daniel chose to complete the pattern — kewai recoined to `whekai` (see the *breath before reframing* ruling in `/canon.md`), and the validator now enforces the onset for the class.
 2. **Three interrogatives share the relator shape** (kua where, sua who, wia which — pronoun-shaped, and they stand in argument positions), while four are plain disyllables (hina what, misa why, weno when, thela how). The split is suggestive but hina (what, also an argument word) breaks a clean functional carve; not ruled.
 
 ## Enforcement

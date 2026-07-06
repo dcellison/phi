@@ -17,12 +17,12 @@ mia shea phaelo. thelao mia thesua nai.
 ```
 
 ```
-mia shea phaelo. kewai mia thesua ma nai.
+mia shea phaelo. whekai mia thesua ma nai.
 1SG peace feel. CONTR 1SG mindful NEG be.
 (I feel peace. However I am not mindful.)
 ```
 
-Notice the discourse marker comes before `mia` in the second sentence. The listener hears `thelao` or `kewai` and immediately knows whether the next thought will build on the previous one or push back against it. Context before content.
+Notice the discourse marker comes before `mia` in the second sentence. The listener hears `thelao` or `whekai` and immediately knows whether the next thought will build on the previous one or push back against it. Context before content.
 
 ## How discourse markers differ from conjunctions
 

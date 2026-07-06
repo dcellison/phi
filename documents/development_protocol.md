@@ -41,7 +41,7 @@ The full function-word shape charter is a canon ruling (see `/canon.md`); the ch
 - [ ] **Single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi); particles never take fricative digraphs
 - [ ] **Hiatus disyllable ((C)V.V)**: The relator shape — prepositions (mua, thue, wei), core pronouns (mia, thia, shia), clause-relators (lao, pheo, phoe, shai), and scale units (shao, phoi)
 - [ ] **Plain disyllable (CV.CV)**: The frame shape — complementizers (openers -a, closers -o), frame conjunctions, classifiers, the vocative, and the -so pronoun pair (miso, wiso)
-- [ ] **Multi-syllable**: Required for content words; quantifiers, discourse markers, and interrogatives are content-shaped (2-3 syllables)
+- [ ] **Multi-syllable**: Required for content words; quantifiers, discourse markers (fricative-initial — the breath before reframing), and interrogatives are content-shaped (2-3 syllables)
 
 ### Sound Symbolism Alignment
 - [ ] **Fricatives (ph,th,sh,wh)**: Abstract, philosophical, or gentle concepts

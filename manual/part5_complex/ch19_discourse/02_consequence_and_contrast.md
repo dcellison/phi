@@ -26,36 +26,36 @@ shia to ma haolu. thelao lo miona to ma shelomui.
 
 `thelao` makes causal reasoning explicit. The speaker is claiming a logical connection between two thoughts, not just placing them next to each other. This transparency is the point: when you use `thelao`, you're accountable for the inference you're drawing.
 
-## Contrast: `kewai`
+## Contrast: `whekai`
 
-`kewai` introduces a thought that stands in tension with what came before. It is Phi's "however," "on the other hand," "yet."
+`whekai` introduces a thought that stands in tension with what came before. It is Phi's "however," "on the other hand," "yet."
 
 ```
-shiro phelora nai. kewai shelira thiku nai.
+shiro phelora nai. whekai shelira thiku nai.
 tree beautiful be. CONTR forest small be.
 (The tree is beautiful. However the forest is small.)
 ```
 
 ```
-mia to shonela. kewai mia shelomui ma nai.
+mia to shonela. whekai mia shelomui ma nai.
 1SG PST learn. CONTR 1SG understand NEG be.
 (I learned. However I do not understand.)
 ```
 
 ```
-lo miona haolu. kewai shia sheluo.
+lo miona haolu. whekai shia sheluo.
 PL person speak. CONTR 3SG listen.
 (The people speak. However they listen.)
 ```
 
-Where `thona` (but) contrasts elements within a single sentence, `kewai` contrasts entire lines of thought across sentences. It carries more weight, signaling a genuine shift in perspective rather than a local tension.
+Where `thona` (but) contrasts elements within a single sentence, `whekai` contrasts entire lines of thought across sentences. It carries more weight, signaling a genuine shift in perspective rather than a local tension.
 
 ## Working together
 
-`thelao` and `kewai` often appear in extended reasoning, where a speaker builds a case and then qualifies it:
+`thelao` and `whekai` often appear in extended reasoning, where a speaker builds a case and then qualifies it:
 
 ```
-sorae sulae nai. thelao lo peloru thuroa. kewai pheralu ma nai.
+sorae sulae nai. thelao lo peloru thuroa. whekai pheralu ma nai.
 sun warm be. CONS PL flower grow. CONTR rain NEG be.
 (The sun is warm. Therefore the flowers grow. However there is no rain.)
 ```

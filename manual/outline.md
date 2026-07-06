@@ -153,7 +153,7 @@ manual as it exists; update it whenever chapters change.*
 
 ### Chapter 19: Discourse Flow
 1. Introduction: Guiding the Listener
-2. Consequence and Contrast (thelao, kewai)
+2. Consequence and Contrast (thelao, whekai)
 3. Addition and Example (sheno, phisu)
 4. Other Discourse Markers
 

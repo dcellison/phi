@@ -274,7 +274,13 @@ def load_lexicon():
         elif cls == "conjunction":
             if n != 2:
                 charter_violation = "disyllable (frame shape, or relator shape for clause-relators)"
-        elif cls in ("quantifier", "discourse", "interrogative"):
+        elif cls == "discourse":
+            if n not in (2, 3) or syls[0][:2] not in DIGRAPHS:
+                charter_violation = (
+                    "content-shaped (two or three syllables) opening with "
+                    "a fricative breath (the breath before reframing)"
+                )
+        elif cls in ("quantifier", "interrogative"):
             if n not in (2, 3):
                 charter_violation = "content-shaped (two or three syllables)"
         if charter_violation:

@@ -497,13 +497,13 @@ These announce how the current sentence relates to prior discourse. They appear 
 **Position**: `[Slot 0] [Discourse Adverb] [Subject]...`
 
 - **`thelao`** - therefore, for this reason (causal connection)
-- **`kewai`** - however, on the other hand (contrastive connection)
+- **`whekai`** - however, on the other hand (contrastive connection)
 - **`sheno`** - in addition, furthermore (additive connection)
 - **`phisu`** - for example, for instance (illustrative connection)
 
 **Example**:
 ```
-mia lothea shelomui. kewai shia ma shelomui.
+mia lothea shelomui. whekai shia ma shelomui.
 1SG love understand. CONTR 3SG NEG understand.
 (I understand love. However, they do not understand.)
 ```

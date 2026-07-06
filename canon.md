@@ -235,6 +235,13 @@ These were explicitly decided and should not silently fork again:
   in descriptor and adverbial positions where content words live.
   Audit and two unruled observations in
   `archive/function_word_shape_audit.md`.
+- **The breath before reframing** (settled 2026-07-06): discourse
+  markers begin with a fricative digraph — the breath a speaker
+  takes before redirecting the conversation (`phisu, sheno, shorela,
+  shekoi, shelao, thelao`). The one exception, `kewai` (CONTR), was
+  recoined to `whekai`, keeping its pivot `ka` and bright final `i`
+  behind the new opening breath; the validator enforces the onset
+  for the class.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

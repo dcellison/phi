@@ -99,7 +99,6 @@
 | `keshoa` | reptile | /ke̞.ˈʃo̞.ä/ | noun |
 | `kesu` | determined | /ˈke̞.su/ | adjective |
 | `kethua` | hard | /ke̞.ˈθu.ä/ | adjective |
-| `kewai` | CONTR | /ke̞.ˈwä.i/ | discourse |
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun |
@@ -871,6 +870,7 @@
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
 | `wheiluro` | mist | /ʍe̞.i.ˈlu.ro̞/ | noun |
+| `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |
 | `whelina` | grass | /ʍe̞.ˈli.n̪ä/ | noun |

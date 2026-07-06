@@ -61,7 +61,7 @@ mia to theo nela to shonela. shelao mia shelomui.
 | Marker | Gloss | Function | Move |
 |---|---|---|---|
 | `thelao` | CONS | therefore | draw a conclusion |
-| `kewai` | CONTR | however | redirect |
+| `whekai` | CONTR | however | redirect |
 | `sheno` | ADD | furthermore | pile on support |
 | `phisu` | EXMP | for example | illustrate concretely |
 | `shorela` | REPH | in other words | rephrase |
