@@ -376,6 +376,7 @@ TEXTS = [
     ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "The historical linguists' test-text since 1868. Phi's telling keeps the sting and withholds one word: the master, who can only be described as the one who takes."),
     ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts, zero new words \u2014 and two transmutations that see through the original: the prince who was never a rank, and the taming that was always a bond."),
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "The longest transmutation: a full story in eight scenes, two coins, and the discovery that Real was the habitual aspect all along."),
+    ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran's counsel on love, children, and giving \u2014 the archer become the tree and the wind, the reward become a gift, and not one new word needed across three whole teachings."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
