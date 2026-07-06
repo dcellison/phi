@@ -346,6 +346,20 @@ These were explicitly decided and should not silently fork again:
   kealo.`, the community makes a ceremony for them) and the
   content belongs to whoever holds it. The stance the Prophet
   transmutation stated in passing is hereby canon.
+- **The heart composes** (settled 2026-07-06): the felt basics
+  are the whole coined emotion lexicon: the noun feelings taken
+  by `phaelo` (`shea`, `nuhe`, `sukima`, `nupira`, `thomari`)
+  and the adjective states worn with `nai` (`siora`, `loshi`,
+  `shena`, `phaelu`, `noalu`, `thiro`, `nuloe`, `nemo`, `kuelo`,
+  `phaeli`, `hurao`, `shaelo`, `phena`, `thoru`). Complex and
+  social emotions are not coined; they compose from their
+  mechanisms, as the registry teaches: `korua thero` (anger, and
+  hatred with it), `thiku nila` (contempt), `phelu pula` (envy),
+  `sonu` + `nuhe` (loneliness), and wonder as a question held
+  inside feeling (`wela … welo` under `phaelo`, ch20's own
+  rendering). A root for a complex feeling would hide the
+  mechanism its compound lays open; the envy row's aside is
+  hereby the rule for the class.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
