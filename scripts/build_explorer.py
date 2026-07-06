@@ -381,6 +381,7 @@ TEXTS = [
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "The longest transmutation: a full story in eight scenes, two coins, and the discovery that Real was the habitual aspect all along."),
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran's counsel on love, children, and giving \u2014 the archer become the tree and the wind, the reward become a gift, and not one new word needed across three whole teachings."),
     ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five chapters of the oldest possible houseguest: water, the use of what is not there (mu's homecoming), the guide no one notices, the great that begins small, and the soft that outlasts the hard \u2014 with every transmutation move named, as a working guide for doing this by hand."),
+    ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The emptiness teaching, carried entire by three of the language's own designs: whemoa's quality noun for \u015b\u016bnyat\u0101, the zero litany over the body's inventory, and the Metta Sutta's optative engine wishing everyone to the far shore."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()

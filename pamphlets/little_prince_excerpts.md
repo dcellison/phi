@@ -1,6 +1,6 @@
 # thiku miona lue silero — from The Little Prince
 
-*Antoine de Saint-Exupéry's Le Petit Prince is the most-translated book outside scripture, and language-builders have a particular affection for it — the fox's secret may be the most-rendered sentence in constructed languages. These are Phi's excerpts: three short passages, quoted only as far as commentary requires (the book remains in copyright), each transmuted with notes. The seventh shelf entry, and the second to need no new words at all.*
+*Antoine de Saint-Exupéry's Le Petit Prince is the most-translated book outside scripture, and language-builders have a particular affection for it — the fox's secret may be the most-rendered sentence in constructed languages. These are Phi's excerpts: three short passages, quoted only as far as commentary requires (the book remains in copyright), each transmuted with notes. It needed no new words at all.*
 
 *One transmutation happens before the first line: the title. A prince is rank, and Phi refused the vocabulary of rank; it cannot say what the boy is called, only what he is — `thiku miona lue silero`, the small person from the stars. He was never really a prince anyway: a child alone on a small world, tending it. The language sees through the title, which is what it does.*
 

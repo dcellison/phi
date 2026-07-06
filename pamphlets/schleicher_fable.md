@@ -1,6 +1,6 @@
 # mophira nela lo kalora — Schleicher's fable
 
-*In 1868, August Schleicher wrote a small fable in reconstructed Proto-Indo-European to show that a dead ancestor-language could speak. Historical linguists have retold "The Sheep and the Horses" in every revision of the reconstruction since, and language-builders retell it to show their grammar under load. This is Phi's telling — the sixth shelf entry, with three new animals' worth of vocabulary (`mophira`, sheep; `kalora`, horse; `rolutha`, wagon) — and one deliberate absence the notes explain: the fable's master is missing, because Phi cannot grant him the title.*
+*In 1868, August Schleicher wrote a small fable in reconstructed Proto-Indo-European to show that a dead ancestor-language could speak. Historical linguists have retold "The Sheep and the Horses" in every revision of the reconstruction since, and language-builders retell it to show their grammar under load. This is Phi's telling, with three new animals' worth of vocabulary (`mophira`, sheep; `kalora`, horse; `rolutha`, wagon) and one deliberate absence the notes explain: the fable's master is missing, because Phi cannot grant him the title.*
 
 ---
 

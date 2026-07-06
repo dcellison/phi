@@ -1,6 +1,6 @@
 # phewo phelui — from The Prophet
 
-*Kahlil Gibran's The Prophet (1923) has counseled a century of readers in twenty-six short teachings, and it enters the public domain speaking freely. These are Phi's excerpts: three of the teachings — on love, on children, on giving — each transmuted with notes. The ninth shelf entry, and the third to need no new words at all.*
+*Kahlil Gibran's The Prophet (1923) has counseled a century of readers in twenty-six short teachings, and it enters the public domain speaking freely. These are Phi's excerpts: three of the teachings — on love, on children, on giving — each transmuted with notes. It needed no new words at all.*
 
 *One transmutation happens before the first line, as it did for the Little Prince: the title. Gibran's Almustafa is called a prophet, but Phi has no offices and no anointings; it can only say what the man does — `phewo`, the sage, the one who has grown wise and speaks. So the shelf calls this text `phewo phelui`, the sage's words, and loses nothing the story needed: the people of Orphalese never wanted his title either. They wanted the words.*
 
