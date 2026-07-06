@@ -243,7 +243,7 @@
 | `sai` | ouch | Ouch |
 | `shiu` | shh | Shh |
 | `soa` | sorry | Sorry |
-| `teo` | careful | Careful |
+| `teo` | watch out | Careful |
 | `tua` | no | No |
 | `wao` | wow | Wow |
 

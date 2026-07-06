@@ -697,7 +697,7 @@
 | `temoe` | tend | /t̪e̞.ˈmo̞.e̞/ | verb |
 | `temu` | guild | /ˈt̪e̞.mu/ | noun |
 | `tenoa` | tool | /t̪e̞.ˈn̪o̞.ä/ | noun |
-| `teo` | careful | /ˈt̪e̞.o̞/ | interjection |
+| `teo` | watch out | /ˈt̪e̞.o̞/ | interjection |
 | `teru` | process | /ˈt̪e̞.ru/ | verb |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |

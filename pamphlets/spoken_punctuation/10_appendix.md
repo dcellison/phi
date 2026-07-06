@@ -41,7 +41,7 @@ The page side is enforced: periods only, no capitals, no `,` `?` `!` `;` in any 
 | thona | ADVRS | | phoe | ANT |
 | sola | DISJ | | lao | BECAUSE |
 | lu | COND | | shai | CONC |
-| teo | careful | | lila | PURP |
+| teo | watch out | | lila | PURP |
 
 ### Cross-references
 
