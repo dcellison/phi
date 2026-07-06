@@ -292,6 +292,28 @@ These were explicitly decided and should not silently fork again:
   `keru rulo` (bright red), `whilo shilu` (pale blue). `nuko`
   names the hue and `nuelo` the illumination; the entries carve
   the pair.
+- **The natural ruler** (settled 2026-07-06): Phi has no unit
+  words: no meter, no mile, no kilogram, no liter, and none will
+  be coined. This extends the clock refusal to the ruler and the
+  scale, on the same grounds
+  (`documents/psychological_violence_of_measurement.md`). Extent
+  is said by comparison and by the world: `masue` (measure) means
+  gauging against a shared standard, not counting units (`shia
+  sheo pelio wetha masue.`, they measure the cloth against an
+  arm, the entry's own example); ranking, where ranking is the
+  honest point, is `sheo` with `mo` (`toremoa sheo shiro mo raelu
+  nai.`, the mountain is taller than the tree); journey-scale
+  distance is counted time of travel (`ruela wi philo thalo
+  nai.`, the path is a two-day walk, the nouns-describe rule at
+  ordinary work); and the dimension nouns `raeli` (height),
+  `lonai` (width), `nusho` (depth) name what is gauged.
+- **Sides come from a body** (settled 2026-07-06): `lawe` (left)
+  and `kuri` (right) name sides a body lends to the scene. Bare,
+  they are the speaker's: `womu mua lawe nai.` (the house is on
+  my left). A possessor re-anchors them: `thia lawe` (your left),
+  `keruko kuri` (keruko's right). No absolute left exists, so
+  none can be imposed; the hearer always knows whose body
+  orients the scene.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
