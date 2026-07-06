@@ -242,6 +242,39 @@ These were explicitly decided and should not silently fork again:
   recoined to `whekai`, keeping its pivot `ka` and bright final `i`
   behind the new opening breath; the validator enforces the onset
   for the class.
+- **The natural clock** (settled 2026-07-06): Phi tells time by the
+  sun's eight stations — `horathe` (dawn), `kelua` (morning),
+  `thaeso` (midday), `lorui` (afternoon), `howai` (evening),
+  `norawhi` (dusk), `shero` (night), `phoemu` (midnight) — located
+  with the ordinary prepositions: `sui kelua` (during the morning),
+  `tei howai` (until evening), `mua shero` (in the night). Hour,
+  minute, second, and clock-time are refused by design — the
+  counted minute is exactly the precise measurement the language
+  declines (`documents/psychological_violence_of_measurement.md`);
+  the day is read from the sky, not sliced into units.
+- **Age is held, not been** (settled 2026-07-06): age is said with
+  predicative possession — `mia [numeral] torua phelu.` (I hold N
+  years): `mia wi phoi ta shao torua phelu.` (I am twenty-one —
+  literally, I hold two nine-groups and a three-group of years).
+  The clause-initial-pronouns ruling supplies the pattern; the
+  classifier, optional as always, is `nophe`, the class of time
+  units. Years are something a person carries, not something a
+  person is.
+- **Temporal distance** (settled 2026-07-06): `pheo` (POST) and
+  `phoe` (ANT) stand over counted time noun phrases as well as
+  clauses — `pheo wi philo` (after two days: in two days, with `so`
+  on the verb), `phoe wi philo` (before two days: two days ago,
+  with `to`). The shape charter already classes them as relators,
+  prepositions over clauses; this extends their reach, not their
+  class. The phrase stands where adjuncts stand — before the
+  object, circumstances announced first.
+- **Frequency composes** (settled 2026-07-06): how often is a
+  quantifier over moments — `sheloi shemu` (often), `phina shemu`
+  (rarely), `soli shemu` (sometimes), `theula thimu` (always),
+  `mawha thimu` (never). The pattern is productive and preferred
+  to coining: any quantifier may count `shemu` (moments) or claim
+  `thimu` (time entire); a coined "seldom" would only relabel
+  `phina shemu`. The registry carries the five.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names
