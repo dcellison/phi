@@ -17,7 +17,7 @@ The classifier system is built upon four core classifiers, each representing a f
 The classifier `himo` acknowledges human beings, recognizing the unique consciousness and social nature of people. Using `himo` when counting people is an act of respect that distinguishes persons from objects.
 
 **ta himo melu**  
-*one HUMAN-CL friend*  
+*one HUM.CLF friend*  
 "one friend" (acknowledging them as a person)
 
 ### lipha: the living being classifier
@@ -25,7 +25,7 @@ The classifier `himo` acknowledges human beings, recognizing the unique consciou
 The classifier `lipha` groups all non-human living things: animals, plants, fungi. Its name derives from the concept of life-force, grouping all organisms into a single category of vitality.
 
 **wi lipha shiro**  
-*two LIFE-CL tree*  
+*two LIFE.CLF tree*  
 "two trees" (acknowledging them as living beings)
 
 ### themo: the physical matter classifier
@@ -41,7 +41,7 @@ The classifier `themo` covers inanimate objects, particularly those that are hum
 The classifier `nophe` covers abstract concepts: ideas, stories, emotions, and other intangible phenomena. It acknowledges that thoughts and abstractions are real even though they cannot be touched.
 
 **ta nophe nophi**  
-*one CONCEPT-CL story*  
+*one ABST.CLF story*  
 "one story" (as an abstract creation)
 
 ## A framework for sorting reality

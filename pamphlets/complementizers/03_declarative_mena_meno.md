@@ -55,7 +55,7 @@ shia mena pheralu so shua meno nohero
 
 ```
 lo mia mena nophi shewo nai meno shelomui
-1PL DECL.COMP story true be DECL.COMP.CLOSE understand
+PL 1SG DECL.COMP story true be DECL.COMP.CLOSE understand
 (We understand that the story is true.)
 ```
 
@@ -145,7 +145,7 @@ mia mena sorae so shua meno nohero
 
 ```
 lo mia mena shia so turema meno kela
-1PL DECL.COMP 3SG FUT return DECL.COMP.CLOSE rejoice
+PL 1SG DECL.COMP 3SG FUT return DECL.COMP.CLOSE rejoice
 (We are glad that they will return.)
 ```
 
@@ -219,7 +219,7 @@ mia mena shia po shua meno remo
 
 ```
 shia mena lo mia na wepu meno to haolu
-3SG DECL.COMP 1PL NEC go DECL.COMP.CLOSE PST say
+3SG DECL.COMP PL 1SG NEC go DECL.COMP.CLOSE PST speak
 (They said that we must leave.)
 ```
 
@@ -283,7 +283,7 @@ shia mena nophi shewo nai meno nohero
 
 ```
 lo mia mena melu welao nai meno phaelo
-1PL DECL.COMP friend good be DECL.COMP.CLOSE feel
+PL 1SG DECL.COMP friend good be DECL.COMP.CLOSE feel
 (We feel that the friend is good.)
 ```
 

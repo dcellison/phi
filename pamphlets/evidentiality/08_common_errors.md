@@ -65,7 +65,7 @@ Rule of thumb: `shola…sholo` copies evidentials; it never adds them. Your own 
 **Grammatical, but claiming something else:**
 ```
 suliwa to hi shua. mia ruela mua muila nila.
-snake PST DIR come. 1SG trail LOC earth see.
+snake PST DIR come. 1SG path LOC earth see.
 (A snake came — I witnessed it. I see the trail in the earth.)
 ```
 

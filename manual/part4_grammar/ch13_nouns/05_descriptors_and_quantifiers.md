@@ -91,7 +91,7 @@ Beyond counting, Slot 2 particles ground concepts in physical space. This is the
 These particles also carry discourse functions. `Ha` often refers to something just mentioned or about to be mentioned, while `ra` points to something from earlier in conversation or from shared background knowledge.
 
 **ha melu welao nai.**  
-*this friend good be*  
+*PROX friend good be*  
 "This friend is good."
 
 **mia ra nophi to hea.**  
@@ -111,11 +111,11 @@ However, this order is flexible. Speakers adjust based on what they want to emph
 "this old book of mine"
 
 **sheloi welao melu**  
-*many good friend*  
+*MANY good friend*  
 "many good friends"
 
 **shao phelora thepalu**  
-*three beautiful garden*  
+*three-group beautiful garden*  
 "three beautiful gardens"
 
 ## Qualities as nouns, things as descriptors

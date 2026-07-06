@@ -58,7 +58,7 @@ Unlike Slot 1 particles which cluster before the verb, Slot 2 particles attach t
 A complete sentence might draw from all three slots:
 
 **pi wa thia lo melu so nila.**  
-*POL Q 2SG FUT PL friend see*  
+*POL Q 2SG PL friend FUT see*  
 "Could you please see the friends?"
 
 Breaking this down:

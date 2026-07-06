@@ -32,7 +32,7 @@ But the wet ground is not the rain, the empty room is not the leaving, and the t
 
 ```
 mia suliwa ma nila. mia ruela mua muila nila.
-1SG snake NEG see. 1SG trail LOC earth see.
+1SG snake NEG see. 1SG path LOC earth see.
 (I do not see the snake. I see the trail in the earth.)
 ```
 

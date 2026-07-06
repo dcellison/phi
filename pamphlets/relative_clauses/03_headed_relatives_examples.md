@@ -274,7 +274,7 @@ shia rena mua shelira nai ruela nila
 
 ```
 lo mia rena thia to kealo womu naphe
-1PL REL 2SG PST create home help
+PL 1SG REL 2SG PST create home help
 (we help the home that you created.)
 ```
 

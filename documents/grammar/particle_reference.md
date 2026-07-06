@@ -547,7 +547,7 @@ mia miso nila.
 **Example**:
 ```
 lo mia wiso lothea.
-1PL RECP love.
+PL 1SG RECP love.
 (We love each other.)
 ```
 

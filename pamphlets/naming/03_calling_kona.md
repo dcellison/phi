@@ -23,7 +23,7 @@ kona misheko. kia.
 VOC cat. hello.
 
 kona ne misheko.
-VOC NAME cat.
+VOC NAME misheko.
 
 misheko ro nulae.
 cat HAB sleep.
