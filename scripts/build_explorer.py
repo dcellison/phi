@@ -178,6 +178,7 @@ def primer_page(body, title, footer_nav=""):
 <meta name="description" content="The Phi primer: learn a language built to slow you down, one household chapter at a time.">
 <title>Phi primer &mdash; {title}</title>
 <script src="../theme.js"></script>
+<script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
@@ -247,6 +248,7 @@ def manual_page(body, title, footer_nav=""):
 <meta name="description" content="The Phi manual: the complete reference for a constructed language with one grammatical rule and no irregular anything.">
 <title>Phi manual &mdash; {title}</title>
 <script src="../theme.js"></script>
+<script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
@@ -351,6 +353,7 @@ def texts_page(body, title):
 <title>Phi texts &mdash; {title}</title>
 <script src="../theme.js"></script>
 <script src="../tengwar.js"></script>
+<script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
@@ -405,6 +408,7 @@ def pamphlet_page(body, title, footer_nav=""):
 <meta name="description" content="Deep-dive practice companions to the Phi manual, from relative clauses to the punctuation you can hear — each explained patiently, with exercises and answer keys.">
 <title>Phi pamphlets &mdash; {title}</title>
 <script src="../theme.js"></script>
+<script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
