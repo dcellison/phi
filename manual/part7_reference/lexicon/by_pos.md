@@ -976,7 +976,7 @@
 | `whinu` | smell | Smell |
 | `whola` | invite | Invite |
 | `whori` | mend | Mend |
-| `whunei` | breath | Breath |
+| `whunei` | breathe | Breath |
 | `wilao` | long-for | Long For |
 | `wile` | play | Play |
 | `wishe` | swim | Swim |

@@ -60,11 +60,6 @@
 
 *Days are counted with* nophe, *the classifier of things you cannot pick up — one day, two days, three. Tomorrow, will we be at the market? No: home. Phi does have a true zero, by the way —* mu, *the number of absence — waiting for you in the manual's ternary arithmetic when you are ready to count nothing at all. The walk home is downhill, the way markets arrange it.*
 
----|---|---|
-| nophe | no · phe | (classifier: ideas, times, events) |
-
-*Days are counted with* nophe, *the classifier of things you cannot pick up. Will we be here two days? One day. Zero days, says the child, deploying* mawha *— though Phi does have a true zero,* mu, *the number of absence, which you will meet properly in the manual's ternary arithmetic. The parent's answer uses no grammar at all beyond a name said in a certain tone, which is a grammar every language shares.*
-
 ---
 
 *Count something today: steps, breaths, eggs. Number, then kind, then thing —* ta lipha powea *— announced in the order Phi announces everything: how many, of what nature, and only then the thing itself.*
