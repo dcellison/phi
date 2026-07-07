@@ -109,7 +109,7 @@ shia shola thia wepu sholo to haolu
 (They said: "You are leaving.")
 ```
 
-This is grammatical — but it claims those were the exact words spoken.
+This is grammatical, but it claims those were the exact words spoken.
 
 When you meant:
 ```

@@ -115,7 +115,7 @@ Here, the relative clause contains an embedded declarative. The structure:
 [rena mia mena [___ towe nai] meno sano] miona
 ```
 
-The head noun `miona` closes the relative clause and fills the gap inside the embedded clause — the relativized element can sit arbitrarily deep. The `mena`/`meno` pair is fully contained within the relative clause.
+The head noun `miona` closes the relative clause and fills the gap inside the embedded clause: the relativized element can sit arbitrarily deep. The `mena`/`meno` pair is fully contained within the relative clause.
 
 ### Relative clause with `wela`/`welo`
 
@@ -200,7 +200,7 @@ Track the openers: each time you hear `mena`, `wela`, or `shola`, note that a cl
 
 ### For production
 
-Start with meaning: what do you ultimately want to say, and what is embedded inside what? Open in order, beginning with the outermost structure, and close in reverse order — the last opened clause is the first closed. Before you finish, count that each opener has its closer.
+Start with meaning: what do you ultimately want to say, and what is embedded inside what? Open in order, beginning with the outermost structure, and close in reverse order: the last opened clause is the first closed. Before you finish, count that each opener has its closer.
 
 ### Simplification strategies
 
