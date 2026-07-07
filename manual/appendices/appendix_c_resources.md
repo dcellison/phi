@@ -7,7 +7,7 @@ The manual is the teaching path; these are the working documents behind it.
 | Resource | What it gives you |
 |---|---|
 | `/canon.md` | The authority order when documents disagree, and the settled design decisions |
-| `/vocabulary/` | The lexicon itself — one JSON file per word, the single source of truth |
+| `/vocabulary/` | The lexicon itself: one JSON file per word, the single source of truth |
 | `documents/grammar/particle_reference.md` | Every particle, slot by slot |
 | `documents/grammar/complementizer_reference.md` | The clause-frame system |
 | `documents/grammar/numeral_reference.md` | The complete ternary system |
