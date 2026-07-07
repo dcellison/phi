@@ -1,10 +1,10 @@
 # The relativizer `rena`
 
-The word `rena` announces that what follows is a descriptive clause. It functions like a spoken bracket, telling the listener: "the next stretch of words describes something; wait for the noun to learn what."
+The word `rena` announces that what follows is a descriptive clause. It functions like a spoken bracket: it tells the listener, "the next stretch of words describes something; wait for the noun to learn what."
 
 ## Sound and meaning
 
-The rolling `r` connects; the grounding `na` anchors what follows. `rena` opens a descriptive space and holds it open until the head noun closes it — which is also exactly what it does grammatically.
+The rolling `r` connects; the grounding `na` anchors what follows. `rena` opens a descriptive space and holds it open until the head noun closes it, which is also exactly what it does grammatically.
 
 ## Position and structure
 
@@ -14,7 +14,7 @@ The rolling `r` connects; the grounding `na` anchors what follows. `rena` opens 
 [rena CLAUSE] NOUN
 ```
 
-Everything between `rena` and the noun is the description. The noun arrives last, receiving all the preceding information. Here are complete sentences using relative clauses:
+Everything between `rena` and the noun is the description. The noun arrives last and receives all the preceding information. Here are complete sentences using relative clauses:
 
 ```
 rena nophi kealo miona phue nai.
@@ -36,9 +36,9 @@ REL LOC forest be path beautiful be.
 
 ## No closer needed
 
-Unlike `mena`/`meno` or `shola`/`sholo`, the relativizer `rena` has no closing partner. It doesn't need one. The noun itself serves as the boundary marker: when you hear the noun, you know the relative clause has ended.
+Unlike `mena`/`meno` or `shola`/`sholo`, the relativizer `rena` has no closing partner. It doesn't need one. The noun itself is the boundary marker: when you hear the noun, you know the relative clause has ended.
 
-This works because relative clauses are pre-nominal. The structure `[rena CLAUSE] NOUN` is self-delimiting. Compare this to complement clauses, where `mena CLAUSE` is followed by a main verb, creating potential ambiguity about where the embedded clause ends. Relative clauses face no such ambiguity; the head noun closes them naturally.
+This works because relative clauses are pre-nominal. The structure `[rena CLAUSE] NOUN` is self-delimiting. Compare this to complement clauses, where `mena CLAUSE` is followed by a main verb, which creates potential ambiguity about where the embedded clause ends. Relative clauses face no such ambiguity; the head noun closes them naturally.
 
 ## The gap strategy
 

@@ -20,6 +20,6 @@ The pattern is the sentence pattern: operands first, operation verb last, result
 
 *ta phoi ta shao phanoi. ta shao kelai.* — Nine portions among three. Three becomes. (9 ÷ 3 = 3)
 
-When the operands are real things rather than pure numbers, both carry the same classifier — you cannot gather two people with three trees — and for bare mathematics the classifiers are simply omitted.
+When the operands are real things rather than pure numbers, both carry the same classifier (you cannot gather two people with three trees), and for bare mathematics the classifiers are simply omitted.
 
-Notice what the verbs refuse to be: short. *sholei*, *welura*, *phanoi* take as long to say as any other Phi word, and that is the design — calculation at speaking pace, each step a sentence someone could hear and check. The language has no way to rattle off figures, which means it has no way to stop noticing what the figures are of.
+Notice what the verbs refuse to be: short. *sholei*, *welura*, *phanoi* take as long to say as any other Phi word, and that is the design: calculation at speaking pace, each step a sentence someone could hear and check. The language has no way to rattle off figures, which means it has no way to stop noticing what the figures are of.

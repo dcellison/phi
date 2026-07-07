@@ -38,7 +38,7 @@ REL ON mountain be home beautiful be.
 
 ## Using relative clauses in sentences
 
-Relative clauses function as noun phrases. They can serve as subject, object, or part of a prepositional phrase:
+Relative clauses are noun phrases. They can be the subject, the object, or part of a prepositional phrase:
 
 **As subject:**
 
@@ -48,7 +48,7 @@ REL 1SG PST see person 3SG be.
 (The person whom I saw is here.)
 ```
 
-The entire phrase `rena mia to nila miona` serves as the subject of `nai`.
+The entire phrase `rena mia to nila miona` is the subject of `nai`.
 
 **As object:**
 
@@ -96,4 +96,4 @@ mia rena mia to nila serao phelora shelu lothea.
 (I love the old beautiful book that I saw.)
 ```
 
-All modifiers precede the noun. The relative clause comes first (announced by `rena`), then adjectives, then the noun. Each layer adds to the description, building toward the final reveal of what is being described.
+All modifiers precede the noun. The relative clause comes first (announced by `rena`), then adjectives, then the noun. Each layer adds to the description and builds toward the final reveal of what is being described.

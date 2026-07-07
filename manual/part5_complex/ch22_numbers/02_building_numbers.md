@@ -1,6 +1,6 @@
 # Building numbers
 
-A number is digits counting units, largest unit first, remainder after — and nothing else:
+A number is digits counting units, largest unit first, remainder after, and nothing else:
 
 | | | |
 |---|---|---|
@@ -12,6 +12,6 @@ A number is digits counting units, largest unit first, remainder after — and n
 | 9 | *ta phoi* | one nine-group |
 | 14 | *ta phoi ta shao wi* | a nine, a three, and two |
 
-No conjunction joins the parts; position does the work, as it does everywhere. Read *ta phoi ta shao wi* left to right and you watch a quantity assemble the way a Phi sentence assembles — the big frame announced first, the detail delivered inside it.
+No conjunction joins the parts; position does the work, as it does everywhere. Read *ta phoi ta shao wi* left to right and you watch a quantity assemble the way a Phi sentence assembles: the big frame announced first, the detail delivered inside it.
 
-Say the numbers aloud as you read this chapter. The system is learned in the mouth, not the eye, and after a dozen numbers the composition stops feeling like arithmetic and starts feeling like grammar — which is what it is.
+Say the numbers aloud as you read this chapter. The system is learned in the mouth, not the eye, and after a dozen numbers the composition stops feeling like arithmetic and starts feeling like grammar, which is what it is.
