@@ -41,7 +41,7 @@ Now let's put your first words together in a natural exchange. Two people meet a
 
 **mia womu lothea.** — I love home. A simple statement of belonging.
 
-**kona melu. mia thia lothea.** — Friend — I love you. *kona* is the calling word: it announces that someone is being addressed before the address arrives. It stands outside the sentence it introduces.
+**kona melu. mia thia lothea.** — Friend, I love you. *kona* is the calling word: it announces that someone is being addressed before the address arrives. It stands outside the sentence it introduces.
 
 ## Practice
 
