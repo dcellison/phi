@@ -14,7 +14,7 @@ One syllable, and the sentence now tells the truth about how firmly it is held.
 
 ## Three jobs, one particle
 
-`po` covers the family of meanings that English splits across *can*, *may*, and *might* — context does the sorting, as it does in most languages with a single possibility modal.
+`po` covers the family of meanings that English splits across *can*, *may*, and *might*; context does the sorting, as it does in most languages with a single possibility modal.
 
 **Ability:**
 
@@ -34,7 +34,7 @@ One syllable, and the sentence now tells the truth about how firmly it is held.
 > PL 1SG POT together grow
 > "We might grow together"
 
-The last one is worth noticing. A bare future would be a prediction; `po` makes it an opening — something offered for consideration rather than asserted. Much of Phi's collaborative tone in practice comes down to speakers reaching for `po` where English habit would assert.
+The last one is worth noticing. A bare future would be a prediction; `po` makes it an opening, something offered for consideration rather than asserted. Much of Phi's collaborative tone in practice comes down to speakers reaching for `po` where English habit would assert.
 
 ## With tense and aspect
 
@@ -47,6 +47,6 @@ The last one is worth noticing. A bare future would be a prediction; `po` makes 
 
 ## The cost of leaving it out
 
-Because `po` is optional, omitting it is also a statement. An unmarked sentence claims the plain fact; a `po`-marked one claims a possibility. A speaker who says `pheralu nai` from the sound on the roof has, by Phi's lights, overspoken — nothing forbids it, but the language keeps the honest version one syllable away, which is close enough that reaching past it gets noticed.
+Because `po` is optional, omitting it is also a statement. An unmarked sentence claims the plain fact; a `po`-marked one claims a possibility. A speaker who says `pheralu nai` from the sound on the roof has, by Phi's lights, overspoken. Nothing forbids it, but the language keeps the honest version one syllable away, which is close enough that reaching past it gets noticed.
 
 That is the whole design: not a rule against overconfidence, just a grammar in which accuracy is always the easier sentence.

@@ -1,6 +1,6 @@
 # Necessity *na*
 
-Where *po* opens a door, **na** points at the one door there is. It marks what must be so — and Phi uses a single particle for every flavor of *must*, trusting context to say which one is speaking:
+Where *po* opens a door, **na** points at the one door there is. It marks what must be so, and Phi uses a single particle for every flavor of *must*, trusting context to say which one is speaking:
 
 > **thia thuroa** — "You grow"
 > **thia na thuroa** — "You must grow"
@@ -11,7 +11,7 @@ Where *po* opens a door, **na** points at the one door there is. It marks what m
 > person NEC sleep
 > "A person must sleep"
 
-**Conclusions the evidence forces.** This is `na` doing inference — you did not see it happen, but what you see now leaves one explanation:
+**Conclusions the evidence forces.** This is `na` doing inference: you did not see it happen, but what you see now leaves one explanation:
 
 > **thinoe ki na thuroa**
 > seed PFV NEC grow
@@ -19,7 +19,7 @@ Where *po* opens a door, **na** points at the one door there is. It marks what m
 
 > **womu ki se na lorima**
 > home PFV PASS NEC build
-> "The house must have been built" — it stands there, after all
+> "The house must have been built" (it stands there, after all)
 
 **Obligations circumstances or ethics impose:**
 
@@ -40,6 +40,6 @@ Notice what the inferential uses share with the evidential `ke` (Part IV, chapte
 
 ## Saying *must* out loud
 
-An unmarked assertion hides its reasoning; `na` shows it. When someone says `lo mia na naphe`, they are not reporting a fact about the world — they are presenting the conclusion of an argument and inviting you to check it. That is the difference between pressure and reasoning made audible, and it is why necessity in Phi tends to start conversations rather than end them.
+An unmarked assertion hides its reasoning; `na` shows it. When someone says `lo mia na naphe`, they are not reporting a fact about the world: they are presenting the conclusion of an argument and inviting you to check it. That is the difference between pressure and reasoning made audible, and it is why necessity in Phi tends to start conversations rather than end them.
 
 What must be done is heavy enough. `na` at least makes sure everyone can see where the weight comes from.
