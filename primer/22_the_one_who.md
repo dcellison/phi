@@ -1,6 +1,6 @@
 # 22 · rena
 
-*One word this chapter, and a game to learn it with.* **rena** *opens a describing-clause that stands before a noun, the way every describing thing in Phi stands before what it describes: [rena — clause —] noun. No closer needed — the noun itself shuts the door. The children invent a guessing game:*
+*One word this chapter, and a game to learn it with.* **rena** *opens a describing-clause that stands before a noun, the way every describing thing in Phi stands before what it describes:* rena *[clause] noun. No closer needed: the noun itself shuts the door. The children invent a guessing game:*
 
 ## I
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | rena | re · na | (opens a who/which clause) |
 
-*The person who habitually makes soup — ? The parent. Correct. Look at the shape:* rena sulopa ro pilewa *is a whole little sentence missing its doer, and* miona *steps in at the end to be that doer. Clause first, noun after: chapter three's* thiku pelori, *grown up.*
+*The person who habitually makes soup? The parent. Correct. Look at the shape:* rena sulopa ro pilewa *is a whole little sentence missing its doer, and* miona *steps in at the end to be that doer. Clause first, noun after: chapter three's* thiku pelori, *grown up.*
 
 ## II
 
@@ -35,7 +35,7 @@
 |---|---|---|
 | siora | si · o · ra | joy |
 
-*The one who tells the stories: the elder. Then the visiting child reaches back a whole chapter: the one who gave seeds to the earth — thinoe. The elder, listening from the doorway, feels joy — a word the household has been feeling all book and can finally say.*
+*The one who tells the stories: the elder. Then the visiting child reaches back a whole chapter: the one who gave seeds to the earth, thinoe. The elder, listening from the doorway, feels joy (a word the household has been feeling all book and can finally say).*
 
 ## IV
 
@@ -47,10 +47,10 @@
 |---|---|---|
 | hola | ho · la | laugh |
 
-*The one who gave me a gift: you did — a flower, at the gate, three chapters ago. The children laugh. The game has quietly proven what games are for: every riddle in it was a memory, and every answer was someone loved.*
+*The one who gave me a gift: you did (a flower, at the gate, five chapters ago). The children laugh. The game has quietly proven what games are for: every riddle in it was a memory, and every answer was someone loved.*
 
 ---
 
-*A clause before a noun, and the noun completes it —* rena *is the whole apparatus, and you already knew where everything goes. Play the game yourself tonight: describe someone you know by what they habitually do, and let the noun arrive last.*
+*A clause before a noun, and the noun completes it:* rena *is the whole apparatus, and you already knew where everything goes. Play the game yourself tonight: describe someone you know by what they habitually do, and let the noun arrive last.*
 
 *The machinery, when you want it: relative clauses are the manual's Part V; the glossary's* pre-nominal relative clause *entry shows the anatomy.*
