@@ -22,7 +22,7 @@ Three situations call for `se`, and they are worth telling apart.
 > flower PASS grow
 > "The flowers were grown"
 
-**When naming the doer would turn a conversation into a trial.** "The window was broken" discusses the window; "you broke the window" discusses the accused. Phi's passive lets a community talk about what happened before — or instead of — talking about who did it:
+**When naming the doer would turn a conversation into a trial.** "The window was broken" discusses the window; "you broke the window" discusses the accused. Phi's passive lets a community talk about what happened before, or instead of, talking about who did it:
 
 > **nophi se shonela**
 > story PASS learn
@@ -36,7 +36,7 @@ This is not a dodge. Accountability can follow once the facts are shared; the pa
 > child PASS help
 > "The child was helped"
 
-The sentence stays with the one who received the help. Whoever gave it can go unnamed — which is, often enough, how givers in Phi would prefer it.
+The sentence stays with the one who received the help. Whoever gave it can go unnamed, which is, often enough, how givers in Phi would prefer it.
 
 ## *se* in the Slot 1 stack
 

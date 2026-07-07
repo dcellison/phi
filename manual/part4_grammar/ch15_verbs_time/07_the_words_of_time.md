@@ -1,6 +1,6 @@
 # The words of time
 
-This chapter has given you time's grammar: *to* and *so* place a clause in the past or future, and the five aspects shape how an event sits there. It has not yet given you time's vocabulary — the words for morning, for winter, for how old you are. Phi has them, and they form a system worth seeing whole: a clock read from the sky, a calendar of natural units, and a handful of compositions where other languages coin.
+This chapter has given you time's grammar: *to* and *so* place a clause in the past or future, and the five aspects shape how an event sits there. It has not yet given you time's vocabulary: the words for morning, for winter, for how old you are. Phi has them, and they form a system worth seeing whole: a clock read from the sky, a calendar of natural units, and a handful of compositions where other languages coin.
 
 ## The natural clock
 
@@ -77,7 +77,7 @@ friend ANT two day PST arrive.
 (The friend arrived two days ago.)
 ```
 
-Notice what is missing: there is no separate word for "ago" and none for "in ... from now." The preposition gives the distance and the tense particle gives the direction — *pheo* with *so* looks forward from now, *phoe* with *to* looks back. Two small words agree, and English's special machinery turns out to be unnecessary.
+Notice what is missing: there is no separate word for "ago" and none for "in ... from now." The preposition gives the distance and the tense particle gives the direction: *pheo* with *so* looks forward from now, *phoe* with *to* looks back. Two small words agree, and English's special machinery turns out to be unnecessary.
 
 ## Time as a thing, time as a place
 
@@ -127,7 +127,7 @@ English says you *are* your age; Phi says you carry it. The years are a count yo
 
 ## How often
 
-Frequency needs no adverbs; a quantifier over moments already says it. The registry carries five: *sheloi shemu* (often, many moments), *phina shemu* (rarely, few moments), *soli shemu* (sometimes, some moments), *theula thimu* (always, all time), *mawha thimu* (never, no time). The pattern is productive — any quantifier may count *shemu* or claim *thimu* — and the phrase stands in the adverbial slot, after the subject.
+Frequency needs no adverbs; a quantifier over moments already says it. The registry carries five: *sheloi shemu* (often, many moments), *phina shemu* (rarely, few moments), *soli shemu* (sometimes, some moments), *theula thimu* (always, all time), *mawha thimu* (never, no time). The pattern is productive (any quantifier may count *shemu* or claim *thimu*), and the phrase stands in the adverbial slot, after the subject.
 
 ```
 mia sheloi shemu thalo.
@@ -141,7 +141,7 @@ child UNIV time play.
 (The child always plays.)
 ```
 
-The scale has two materials. Its middle counts *shemu*, moments, a number honestly vague. Its ends claim *thimu*, time entire — because "always" and "never" are claims about the whole of time, and Phi makes you say so.
+The scale has two materials. Its middle counts *shemu*, moments, a number honestly vague. Its ends claim *thimu*, time entire, because "always" and "never" are claims about the whole of time, and Phi makes you say so.
 
 ## The day, lived
 

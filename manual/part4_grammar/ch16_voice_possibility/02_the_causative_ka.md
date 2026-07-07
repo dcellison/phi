@@ -1,6 +1,6 @@
 # The causative *ka*
 
-Some actions have two authors: the one who performs them and the one who set them in motion. The teacher does not read the book; the child reads it — because the teacher arranged it. The causative particle **ka** puts that arrangement into grammar.
+Some actions have two authors: the one who performs them and the one who set them in motion. The teacher does not read the book; the child reads it, because the teacher arranged it. The causative particle **ka** puts that arrangement into grammar.
 
 With an intransitive verb, the causer takes the subject position and the original actor becomes the object:
 
@@ -18,11 +18,11 @@ With a transitive verb, the same shift happens and the original object stays whe
 > 1SG 2SG story CAUS read
 > "I make you read the story"
 
-`ka` says nothing about *how* the causing was done — force, persuasion, invitation, or simply leaving the book where it would be found. Context carries that. What the grammar insists on is only that the influence itself be visible: this action had a second author, and here they are, in subject position, on the record.
+`ka` says nothing about *how* the causing was done: force, persuasion, invitation, or simply leaving the book where it would be found. Context carries that. What the grammar insists on is only that the influence itself be visible: this action had a second author, and here they are, in subject position, on the record.
 
 ## With tense and aspect
 
-`ka` is a Slot 1 voice particle — like the passive `se`, it restructures who acts — and sits in the fixed order: tense, aspect, then voice, as a block before the verb:
+`ka` is a Slot 1 voice particle (like the passive `se`, it restructures who acts) and sits in the fixed order: tense, aspect, then voice, as a block before the verb:
 
 > **mia thia to ka theo** — "I made you read"
 > **mia thia so ka theo** — "I will make you read"
@@ -31,13 +31,13 @@ With a transitive verb, the same shift happens and the original object stays whe
 > **lopia se ka nulae** — "The child is made to sleep"
 > **mia lopia ka na nulae** — "I must make the child sleep"
 
-The voice pair is fixed `se ka`; with modals, voice precedes modality (`ka na` must make, `ka po` can make), the modal scoping the whole caused event. And `ka ma` denies the causation itself — **mia lopia to ka ma nulae**, "I did not make the child sleep" — the honest refusal of authorship. Making someone refrain is said with its own verb or two clauses.
+The voice pair is fixed `se ka`; with modals, voice precedes modality (`ka na` must make, `ka po` can make), the modal scoping the whole caused event. And `ka ma` denies the causation itself, the honest refusal of authorship: **mia lopia to ka ma nulae**, "I did not make the child sleep." Making someone refrain is said with its own verb or two clauses.
 
 ## What the visibility is for
 
 Most languages let influence hide. "The child read the book" can be said by the teacher who required it, and no grammar objects. Phi objects. If you were the cause, saying so costs one syllable, and not saying so is a choice you made.
 
-That visibility matters most where influence is easiest to overlook — teaching, parenting, leading:
+That visibility matters most where influence is easiest to overlook, in teaching, parenting, leading:
 
 > **lo miona lopia ka shonela**
 > PL person child CAUS learn
@@ -61,4 +61,4 @@ Qualities are not verbs in Phi: nothing is "cleaned" or "calmed" in a single wor
 > 1SG child calm CAUS be
 > "I keep the child calm"
 
-`ka kelu` brings something to a state; `ka nai` holds it there. The quality stays what it is — a descriptor — and the causing stays where causing always lives: in Slot 1, on the record.
+`ka kelu` brings something to a state; `ka nai` holds it there. The quality stays what it is (a descriptor), and the causing stays where causing always lives: in Slot 1, on the record.

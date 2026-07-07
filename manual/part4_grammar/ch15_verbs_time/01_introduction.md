@@ -18,8 +18,8 @@ The present tense is Phi's default, unmarked state. An action is assumed to be h
 
 This design nudges speakers toward present-moment awareness. To speak of the past requires an explicit reach into memory with the particle *to*. To speak of the future requires deliberate projection with the particle *so*.
 
-The grammar itself becomes a tool for cultivating presence. Every departure from the here-and-now demands acknowledgment. Where is your mind, really?
+The grammar itself becomes a tool for staying present. Every departure from the here-and-now demands acknowledgment. Where is your mind, really?
 
 ## What follows
 
-The sections ahead explore this system in detail. We begin with the tense particles *to* and *so*, which locate events on a timeline. Then we examine the aspect particles *si*, *ki*, *pa*, *te*, and *ro*, which describe how actions unfold through time.
+The sections ahead take up the tense particles *to* and *so* first, which locate events on a timeline, then the aspect particles *si*, *ki*, *pa*, *te*, and *ro*, which describe how actions unfold through time.

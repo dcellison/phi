@@ -1,10 +1,10 @@
 # Past *to*: completed events
 
-The past tense particle *to* marks actions that have already occurred. Its crisp, definitive 't' sound creates a clean break, much like how the particle itself creates a clear boundary around completed events.
+The past tense particle *to* marks actions that have already occurred. Its crisp, definitive 't' sound creates a clean break, echoing the boundary it draws around completed events.
 
 ## Reaching into memory
 
-When we say *mia to theo* (I read [past]), we do more than report that reading occurred. We explicitly mark this action as finished and complete, something that can be examined as a discrete unit of experience. The particle *to* transforms the timeless concept *theo* into a bounded past event with clear temporal edges.
+When we say *mia to theo* (I read [past]), we do more than report that reading occurred: we mark the action as finished, a discrete unit of experience. The particle *to* transforms the timeless concept *theo* into a bounded past event with clear temporal edges.
 
 > *mia sorae to nila*
 > "I saw the sun."
