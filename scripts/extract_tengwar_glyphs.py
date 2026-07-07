@@ -27,6 +27,14 @@ CODEPOINTS = [
     0xE060, 0xE061,
 ]
 
+# Preserve any hand-tuned tweaks already in the committed file: this script
+# re-derives everything else from the font, but tweaks come from a human
+# comparing a render against a reference, and re-running the extraction
+# (e.g. after a font update) must never silently discard that work.
+existing_tweaks = {}
+if OUT.exists():
+    existing_tweaks = json.loads(OUT.read_text()).get("tweaks", {})
+
 font = TTFont(FONT)
 cmap = font.getBestCmap()
 glyf = font.getGlyphSet()
@@ -65,7 +73,8 @@ out = {
     # Manual per-base-glyph tehta position corrections; see scripts/tengwar.py's
     # TWEAKS docstring for the format. Never auto-populate this: each entry
     # should come from a human comparing a rendered word against a reference.
-    "tweaks": {},
+    # Carried over from the previous file, not reset, on every run.
+    "tweaks": existing_tweaks,
 }
 OUT.write_text(json.dumps(out, indent=1))
 print(f"wrote {OUT.relative_to(ROOT)}: {len(glyphs)} glyphs, upem {out['upem']}")
