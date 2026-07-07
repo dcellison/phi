@@ -14,7 +14,7 @@ we ha melu — this friend too
 li ha lo melu — only these friends
 ```
 
-One discourse relation per phrase (`we` and `li` never stack with each other), and the pair micro-orders stand as ruled: `mo ko`, `ne` before any honorific (Pamphlet 5's whole machinery lives at this rank), `nu` before its numeral.
+One discourse relation per phrase (`we` and `li` never stack with each other), and the pair micro-orders stand as ruled: `mo ko`, `ne` before any honorific (the naming pamphlet's whole machinery lives at this rank), `nu` before its numeral.
 
 ### `li`, working at last
 

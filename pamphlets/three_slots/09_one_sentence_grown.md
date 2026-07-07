@@ -62,4 +62,4 @@ Walk back through and tally the moral machinery: a question announced before ask
 
 ### Drill: your own evening question
 
-Take one true small failure from your week. Write both answers (the agentless passive and the owned active) with correct stacks, and read them aloud in that order. Feel where the second one costs. Then write the promise you can actually keep, choosing `so` alone or `so ro` honestly: one act, or a pattern. (The audit habit is Pamphlet 3's; the register is Pamphlet 5's; the growing is this one's.)
+Take one true small failure from your week. Write both answers (the agentless passive and the owned active) with correct stacks, and read them aloud in that order. Feel where the second one costs. Then write the promise you can actually keep, choosing `so` alone or `so ro` honestly: one act, or a pattern. (The audit habit is the evidentiality pamphlet's; the register is the naming pamphlet's; the growing is this one's.)

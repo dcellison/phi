@@ -1,6 +1,6 @@
 # Part 10: Common errors
 
-The particle system's errors split the way this series always finds: order errors the validator now catches, and honesty errors only you will. The first kind has a distinguished history: the July audit found nine order violations asleep in four months of validated corpus, including two in a published text. Every error below is real; several are the corpus's own former mistakes.
+Particle-system errors split into two kinds: order errors the validator now catches, and honesty errors only you will. The first kind has a distinguished history: the July audit found nine order violations asleep in four months of validated corpus, including two in a published text. Every error below is real; several are the corpus's own former mistakes.
 
 ### Error 1: the stack reversed
 
@@ -24,7 +24,7 @@ A translation in the past tense means `to` on the Phi verb, the main-clause tens
 
 **Grammatical, and a misreading:** treating `mia thia sano.` as claiming *I witnessed*.
 
-An unmarked sentence claims no source (that is now canon), so bare sentences are not stealth testimony, and hedging every sentence to avoid "overclaiming" reproduces the fog (Pamphlet 3, Error 6). The resting state is trustworthy. Spend evidentials where the source is the message; read bare sentences as what they are: plain assertion, plainly owned.
+An unmarked sentence claims no source (that is now canon), so bare sentences are not stealth testimony, and hedging every sentence to avoid "overclaiming" reproduces the fog (the evidentiality pamphlet, Error 6). The resting state is trustworthy. Spend evidentials where the source is the message; read bare sentences as what they are: plain assertion, plainly owned.
 
 ### Error 5: the blurred carve
 
@@ -48,4 +48,4 @@ An unmarked sentence claims no source (that is now canon), so bare sentences are
 
 **Wrong (as analysis, then as writing):** treating `kona` as a frame particle, and writing `kona melu wa thia towe nai.` as one sentence.
 
-`kona` stands outside the sentence entirely, its own utterance, its own period: `kona melu. wa thia towe nai.` Slot 0 frames what a sentence *is*; the vocative happens before any sentence begins. The tell is the period between them, which is not punctuation style but structure (Pamphlet 7, Part 4).
+`kona` stands outside the sentence entirely, its own utterance, its own period: `kona melu. wa thia towe nai.` Slot 0 frames what a sentence *is*; the vocative happens before any sentence begins. The tell is the period between them, which is not punctuation style but structure (the punctuation pamphlet, part 4).

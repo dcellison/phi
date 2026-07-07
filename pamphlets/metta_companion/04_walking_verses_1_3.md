@@ -62,6 +62,6 @@ OPT UNIV [REL alive be] well be.
 
 The first line is the hardest parse in the text, and worth doing slowly: the relative clause has its own subject inside it (`lo phue`, the wise) so the frame is *[which the wise see (as) harmful] thing*. Climb it in stages: `thena`, thing; `peloma nila thena`, the thing seen as harmful; `[rena lo phue peloma nila] thena`, the thing the wise see as harmful. File away `peloma nila`, *see as harmful*: the seeing-as pattern returns in verse 6 with sharper teeth.
 
-Then the refrain arrives for the first time, in two forms, and the practitioner's private character quietly stops being the subject of the text. One reader's note in passing: `siora` here is pure vocabulary, *joy*: no `ne` anywhere in this careful text, so no one had to wonder (Pamphlet 5, if anyone does).
+Then the refrain arrives for the first time, in two forms, and the practitioner's private character quietly stops being the subject of the text. One reader's note in passing: `siora` here is pure vocabulary, *joy*: no `ne` anywhere in this careful text, so no one had to wonder (the naming pamphlet, if anyone does).
 
 **Micro-drill:** the refrain is your first memorization. Two lines, one substitution: `siora phaelo` to `towe nai`. Say them until the swap is the only thinking left.

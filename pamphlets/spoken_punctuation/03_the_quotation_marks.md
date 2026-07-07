@@ -1,6 +1,6 @@
 # Part 3: The quotation marks: `shola … sholo`
 
-English quotation marks are silent twins that readers must pair by eye, and speech drops them entirely: "quote unquote" is the sound of a language noticing the hole. Phi's quotation marks are the pair `shola … sholo` (manual ch20 §3; Pamphlet 2 for the whole complementizer family): the opener says *exact words begin*, the closer says *exact words end*, and both survive every medium a sentence can travel.
+English quotation marks are silent twins that readers must pair by eye, and speech drops them entirely: "quote unquote" is the sound of a language noticing the hole. Phi's quotation marks are the pair `shola … sholo` (manual ch20 §3; the complementizers pamphlet for the whole complementizer family): the opener says *exact words begin*, the closer says *exact words end*, and both survive every medium a sentence can travel.
 
 ```
 ne thinoe shola no wei muila thinoe loa. no wei muila phialu loa. muila theula howela sholo to haolu.
@@ -16,7 +16,7 @@ Drop `sholo` and the quotation's last verb stands face to face with the frame's 
 
 ### The frame copies; it never adds
 
-One inheritance from Pamphlet 3, restated here because it is punctuation-shaped: whatever evidentials, tenses, and pronouns the original speaker used, the quotation preserves, and your own distance from the quoted claim is marked outside the frame or not at all. English's quotation marks make no such promise; scare quotes, paraphrase-in-quotes, and stealth editing all live inside the same silent twins. `shola` is a stricter contract: these are the words, verbatim, and the closer is where my carrying of them ends.
+One inheritance from the evidentiality pamphlet, restated here because it is punctuation-shaped: whatever evidentials, tenses, and pronouns the original speaker used, the quotation preserves, and your own distance from the quoted claim is marked outside the frame or not at all. English's quotation marks make no such promise; scare quotes, paraphrase-in-quotes, and stealth editing all live inside the same silent twins. `shola` is a stricter contract: these are the words, verbatim, and the closer is where my carrying of them ends.
 
 ### Reported speech has no marks to lose
 

@@ -1,6 +1,6 @@
 # Part 8: Common errors
 
-Evidentiality has two kinds of failure, and only one of them is grammatical. The stack can be mis-ordered: the validator catches that kind. The mark can also be *unearned* (grammatical, fluent, and false) and no validator will ever catch it. This chapter drills both, with the second kind labeled the way this series labels all such forms: not wrong, but claiming something else.
+Evidentiality has two kinds of failure, and only one of them is grammatical. The stack can be mis-ordered: the validator catches that kind. The mark can also be *unearned* (grammatical, fluent, and false) and no validator will ever catch it. This chapter drills both, with the second kind labeled precisely: not wrong, but claiming something else.
 
 ### Error 1: the evidential out of order
 
@@ -105,4 +105,4 @@ The second sentence refutes the first: if the child told you, your mark is `ti`,
 
 ### The audit habit
 
-Notice the pattern across errors 4 through 7: the grammar held; the honesty slipped. This is why the series insists evidentiality is a practice, not a feature. The weekly journal audit (Part 7) is the maintenance schedule: the errors above are exactly what it is designed to find.
+Notice the pattern across errors 4 through 7: the grammar held; the honesty slipped. This is why evidentiality is a practice, not a feature. The weekly journal audit (Part 7) is the maintenance schedule: the errors above are exactly what it is designed to find.

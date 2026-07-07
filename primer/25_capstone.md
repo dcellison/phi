@@ -2,7 +2,7 @@
 
 There is no new grammar on this page. There is a door.
 
-Behind it is [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md): the story told in a thousand languages to show what each one sounds like, and the second text ever written in Phi. When it was written, it was a demonstration. For you, today, it is something better: a story in a language you read.
+Behind it is [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md): the story told in a thousand languages to show what each one sounds like. When it was written, it was a demonstration. For you, today, it is something better: a story in a language you read.
 
 Go read it. Aloud, slowly, the way you learned. Every particle in it is yours; every sentence shape in it, you have met in a garden or a kitchen or at a well. You will not need the gloss lines. That is the point of the last twenty-four chapters, and you will feel it happen somewhere in the second paragraph: the moment the sentences stop being exercises and start being weather, wind, a traveler, warmth.
 

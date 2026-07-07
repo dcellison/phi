@@ -28,7 +28,7 @@ mia mena shia to wepu meno sano.
 (I know that they left.)
 ```
 
-Canon makes the closers required, and Pamphlet 2 drills them to reflex; here, just hear what `meno` is doing in punctuation terms: it is the bracket that keeps two verbs from colliding, clicking shut (the primer's phrase) like a well-made box.
+Canon makes the closers required, and the complementizers pamphlet drills them to reflex; here, just hear what `meno` is doing in punctuation terms: it is the bracket that keeps two verbs from colliding, clicking shut (the primer's phrase) like a well-made box.
 
 ### Conjunctions between
 

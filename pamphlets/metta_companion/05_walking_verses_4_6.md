@@ -50,4 +50,4 @@ The wish-shape flips from blessing to refusal, and the grammar of the flip matte
 
 Two readings to secure before moving on. First, `thiku nila`: hear it against verse 3's `peloma nila`: the same seeing-as pattern, now naming contempt as an act of the *seer*. The grammar contrast is the whole ethics: `shia thiku nai.` says they are small; `mia shia thiku nila.` says I see them small, and locates the smallness in me. Second, `lue korua thero`: the ablative names anger as a place one acts *from*, not a thing one is. The compound is canonized (`documents/compounds.md`); the preposition is the mercy.
 
-**Micro-drill:** say the confession the ablative makes possible: `mia lue korua thero to haolu.` (I spoke from heart-fire.) And notice what the sentence does not say: it does not say *I am*. That is a sentence for the journal (Pamphlet 3, Part 7), the day it is true.
+**Micro-drill:** say the confession the ablative makes possible: `mia lue korua thero to haolu.` (I spoke from heart-fire.) And notice what the sentence does not say: it does not say *I am*. That is a sentence for the journal (the evidentiality pamphlet, part 7), the day it is true.

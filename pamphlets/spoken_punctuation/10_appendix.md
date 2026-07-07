@@ -9,7 +9,7 @@
 | "whether" (no mark) | `wela … welo` | ch20 §2 |
 | " … " | `shola … sholo`, frame verb `haolu`/`shemui`/`thilou`/`hea` | ch20 §3, canon |
 | the comma of address | `kona`, extra-clausal | ch23 §1 |
-| the capital of a name | `ne` | canon *Letters*; Pamphlet 5 |
+| the capital of a name | `ne` | canon *Letters*; the naming pamphlet |
 | the fronted-clause comma | `lu` + period; `pheo` `phoe` `lao` `shai` `lila` + the clause's own verb | ch11 §3, ch20 §4 |
 | the clause comma before "and/but/or" | `nela` / `thona` / `sola`, the conjunction is the boundary | ch18 |
 | the list comma | `nela` between every item | ch18 §1 |

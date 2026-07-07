@@ -18,7 +18,7 @@ One `na`, first verse, aimed at the only person the text ever obliges: its own p
 
 Manual ch23 §5 teaches the register: for the largest requests, frame a wish instead of a question: the optative *does not even ask; it hopes aloud, and lets the listener volunteer*. This text makes the largest request a sentence has ever carried (that every living thing be well) and so it never once leaves the optative to make it. A command can be disobeyed and a question declined; a wish leaves everyone entirely free, which is the only footing love can honestly stand on. The grammar is the ethics.
 
-And notice what `su` costs the speaker: nothing to prove. The evidential system (Pamphlet 3) has no purchase on a wish, because a wish claims nothing about the world, which is why the journal triad ends its three lines *witness, feeling, wish*. `su` is the mood whose honesty is tested nowhere but in the wisher.
+And notice what `su` costs the speaker: nothing to prove. The evidential system has no purchase on a wish, because a wish claims nothing about the world, which is why the journal triad ends its three lines *witness, feeling, wish*. `su` is the mood whose honesty is tested nowhere but in the wisher.
 
 ### The distances of one wish
 

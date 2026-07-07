@@ -72,4 +72,4 @@ The day ends where the system does: an exact memory of what was given, an exact 
 
 ### Drill: your own market
 
-Write the scene's skeleton for your own errand (real or invented) in eight to twelve sentences: one exact count that is owed, one `phina` or `soli` that is honest, one classifier for each nature that appears, one `nu` position, one exchange with `wei … loa`, and one quantity you decline to number at all. Read it aloud the next day and audit it like a journal week (Pamphlet 3, Part 7): every number either earned its exactness or wore its about.
+Write the scene's skeleton for your own errand (real or invented) in eight to twelve sentences: one exact count that is owed, one `phina` or `soli` that is honest, one classifier for each nature that appears, one `nu` position, one exchange with `wei … loa`, and one quantity you decline to number at all. Read it aloud the next day and audit it like a journal week (the evidentiality pamphlet, part 7): every number either earned its exactness or wore its about.

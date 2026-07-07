@@ -2,13 +2,7 @@
 
 ## A reader's companion to the first text
 
----
-
-*Phi Language Series: Pamphlet 6*
-
----
-
-`lothea thole` (the Metta Sutta, the language's first complete text) is where the primer sends you when its own last page opens: *read it the way the household reads, a little each day, and let the optative `su` teach you the one mood this primer left for the texts.* This pamphlet is that road, walked slowly. It is not a commentary (the text's own notes and gap log record every transmutation decision, and the doctrine lives in the manual), so the companion does what the series does: it teaches you to *read*, verse by verse, until the gloss lines fall away and the text is simply saying what it says.
+`lothea thole` (the Metta Sutta, the language's first complete text) is where the primer sends you when its own last page opens: *read it the way the household reads, a little each day, and let the optative `su` teach you the one mood this primer left for the texts.* This pamphlet is that road, walked slowly. It is not a commentary (the text's own notes and gap log record every transmutation decision, and the doctrine lives in the manual); this companion simply teaches you to *read*, verse by verse, until the gloss lines fall away and the text is simply saying what it says.
 
 Two tools come first, because the whole text is built from them: the optative `su`, which carries every wish, and the headless relative `[rena lima nai]`, which carries every being. Then the walk (ten verses in four sittings), then the misreadings English will offer you, and then the two things this text was actually written for: recitation and your own wishes.
 
