@@ -1,6 +1,6 @@
 # Sample Texts
 
-Complete, validated Phi for reading practice — from two-line exchanges to the language's first full text. Every word here exists in the lexicon; every construction is taught in Parts IV–V.
+Complete, validated Phi for reading practice, from two-line exchanges to the language's first full text. Every word here exists in the lexicon; every construction is taught in Parts IV–V.
 
 ## Dialogues
 
@@ -64,7 +64,7 @@ B: su shea wei thia shua.
    (May peace come to you.)
 ```
 
-*Notice:* the life-arc vocabulary at work — `lumeo` (die) named plainly, `nuhe` spoken without euphemism — and the optative doing what promises cannot.
+*Notice:* the life-arc vocabulary at work: `lumeo` (die) named plainly, `nuhe` spoken without euphemism, and the optative does what promises cannot.
 
 ## A philosophical passage
 
