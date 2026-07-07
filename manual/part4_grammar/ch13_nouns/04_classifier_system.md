@@ -4,9 +4,9 @@
 
 Beyond specifying *which* noun or *how many*, Phi offers an optional layer of descriptive nuance: the classifier system. This grammatical feature is designed not for mandatory clarity, but for elective mindfulness.
 
-In Phi, it is perfectly grammatical to simply count objects. But a more conscious way to speak is to first acknowledge the *intrinsic nature* of the thing being counted. A classifier is a special noun placed after a number but before the noun it modifies, sorting the world into categories of being.
+In Phi, it is perfectly grammatical to simply count objects. But a more conscious way to speak is to first acknowledge the *intrinsic nature* of the thing being counted. A classifier is a special noun placed after a number but before the noun it modifies; it sorts the world into categories of being.
 
-The system invites the speaker to consider the nature of the noun they are about to name, asking not just "how many?" but first, "what *kind* of thing is this?"
+The system invites the speaker to consider the nature of the noun they are about to name. The question is not just "how many?" but first, "what *kind* of thing is this?"
 
 ## The four classifiers
 
@@ -14,7 +14,7 @@ The classifier system is built upon four core classifiers, each representing a f
 
 ### himo: the human classifier
 
-The classifier `himo` acknowledges human beings, recognizing the unique consciousness and social nature of people. Using `himo` when counting people is an act of respect that distinguishes persons from objects.
+The classifier `himo` acknowledges human beings: it recognizes the unique consciousness and social nature of people. Using `himo` when counting people is an act of respect that distinguishes persons from objects.
 
 **ta himo melu**  
 *one HUM.CLF friend*  
@@ -22,7 +22,7 @@ The classifier `himo` acknowledges human beings, recognizing the unique consciou
 
 ### lipha: the living being classifier
 
-The classifier `lipha` groups all non-human living things: animals, plants, fungi. Its name derives from the concept of life-force, grouping all organisms into a single category of vitality.
+The classifier `lipha` groups all non-human living things: animals, plants, fungi. Its name derives from the concept of life-force, and it groups all organisms into a single category of vitality.
 
 **wi lipha shiro**  
 *two LIFE.CLF tree*  
@@ -59,7 +59,7 @@ The system asks: Is it a person? A living being? A physical thing? A thought?
 
 ## The grammar of mindful counting
 
-The grammar for employing classifiers is simple and consistent. The classifier noun appears directly between the number and the noun it categorizes, creating a three-part structure:
+The grammar for employing classifiers is simple and consistent. The classifier noun appears directly between the number and the noun it categorizes. Together they form a three-part structure:
 
 **[Number] [Classifier] [Noun]**
 
@@ -78,7 +78,7 @@ The structure is easy to learn, yet its use demonstrates deeper engagement with 
 
 The purpose of this system is not primarily grammatical but philosophical. Choosing to use a classifier is a deliberate act of respect for the thing being counted. It declares that the things counted have natures, not just quantities.
 
-To count people using `himo` is to recognize their personhood, separating them from a simple numerical total. To count animals or plants with `lipha` is to honor them as fellow living beings, not just objects in a landscape.
+To count people using `himo` is to recognize their personhood and to separate them from a simple numerical total. To count animals or plants with `lipha` is to honor them as fellow living beings, not just objects in a landscape.
 
 This practice expresses the concepts of animacy and relationality central to both the Pre-industrial Wisdom and Solarpunk pillars of Phi. It pushes the speaker to see the world not as a collection of resources to be quantified, but as a diverse community of different kinds of beings.
 
@@ -105,4 +105,4 @@ Contexts that naturally invite classifier use include:
 
 ## Offered, not required
 
-The classifiers are a tool offered, never a rule enforced. To use one is to pause, for a syllable, over what kind of being you are counting — and a room counted with classifiers is no longer a collection of objects but people, living things, tools, and ideas, each acknowledged as what it is. That pause is the whole system's purpose, and it costs two letters.
+The classifiers are a tool offered, never a rule enforced. To use one is to pause, for a syllable, over what kind of being you are counting: a room counted with classifiers is no longer a collection of objects but people, living things, tools, and ideas, each acknowledged as what it is. That pause is the whole system's purpose, and it costs two letters.

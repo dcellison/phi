@@ -4,7 +4,7 @@
 
 Unlike languages that require plural marking on every noun referring to multiple entities, Phi treats plurality as optional information. When the context makes it clear that multiple items are involved, no explicit marker is needed. When clarification or emphasis is desired, the particle `lo` announces plurality.
 
-This approach aligns with Phi's broader philosophy of grammatical economy: mark what matters, trust context for the rest.
+This approach fits Phi's broader philosophy of grammatical economy: mark what matters, trust context for the rest.
 
 ## The plural particle
 
@@ -26,15 +26,15 @@ The particle signals that the noun refers to multiple entities without specifyin
 
 ## When to use 'lo'
 
-The plural particle appears when:
+The plural particle appears in two situations.
 
-**Plurality is not otherwise clear.** If no quantifier or number is present, `lo` can clarify that multiple entities are meant.
+If no quantifier or number is present, `lo` can clarify that multiple entities are meant.
 
 **mia lo melu nila.**  
 *1SG PL friend see*  
 "I see friends." (more than one, unspecified)
 
-**Emphasis on collective identity.** Even when plurality is clear, `lo` can emphasize the group as a group rather than as individuals.
+Even when plurality is already clear, `lo` can emphasize the group as a group rather than as individuals.
 
 **lo sila**  
 *PL community*  
@@ -110,7 +110,7 @@ Speakers navigate this spectrum based on what their listeners need to know. The 
 
 ## Summary: noun phrase structure
 
-With all the pieces in place, we can see the full architecture of a Phi noun phrase:
+With all the pieces in place, here is the complete pattern of a Phi noun phrase:
 
 **[Quantifier/Number] [Classifier] [Deictic] [Possessor] [Adjective] [lo] NOUN**
 

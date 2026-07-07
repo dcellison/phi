@@ -2,7 +2,7 @@
 
 ## Modifiers before nouns
 
-We have seen that possessors precede their nouns and that adjectives do likewise. This section explores how descriptive modifiers and quantifiers work together in noun phrases, all following the same head-final pattern.
+We have seen that possessors precede their nouns and that adjectives do likewise. This section explores how descriptive modifiers and quantifiers work together in noun phrases; all of them follow the same head-final pattern.
 
 The basic rule is simple: everything that modifies a noun comes before it. This includes:
 
@@ -11,11 +11,11 @@ The basic rule is simple: everything that modifies a noun comes before it. This 
 - Quantifiers: `sheloi melu` (many friends)
 - Deictics: `ha kerou` (this stone)
 
-All of these elements occupy the same structural territory, appearing to the left of the noun they describe.
+All of these elements occupy the same structural territory: they appear to the left of the noun they describe.
 
 ## Adjectives and qualities
 
-Adjectives in Phi function as descriptors that characterize the noun's qualities. They appear immediately before the noun:
+Adjectives in Phi are descriptors that characterize the noun's qualities. They appear immediately before the noun:
 
 | Phi | Gloss | English |
 |-----|-------|---------|
@@ -23,7 +23,7 @@ Adjectives in Phi function as descriptors that characterize the noun's qualities
 | `welao nuora` | good food | good food |
 | `phelora lei` | beautiful harmony | beautiful harmony |
 
-Multiple adjectives can stack, with each one adding another layer of description:
+Multiple adjectives can stack, and each one adds another layer of description:
 
 **serao phelora shelu**  
 *old beautiful book*  
@@ -33,7 +33,7 @@ The order of stacked adjectives is relatively flexible in Phi, though pragmatic 
 
 ## The spectrum of quantity
 
-Parallel to "which one?" is "how many?". Phi addresses this with quantifying descriptors. Consistent with the head-final principle, quantifiers appear before the noun they describe, operating in the same grammatical slot as adjectives and possessors.
+Parallel to "which one?" is "how many?". Phi addresses this with quantifying descriptors. Consistent with the head-final principle, quantifiers appear before the noun they describe. They operate in the same grammatical slot as adjectives and possessors.
 
 Phi provides words covering the full spectrum of quantity:
 
@@ -59,11 +59,11 @@ These quantifiers precede the noun directly:
 *none story*  
 "no stories"
 
-This system treats quantity not as a separate grammatical category requiring complex rules, but as another descriptive quality that can be applied to a noun. Just as a book can be described as `serao` (old), it can be described as `sheloi` (many), allowing for intuitive layering of descriptive context.
+This system treats quantity not as a separate grammatical category requiring complex rules, but as another descriptive quality that can be applied to a noun. Just as a book can be described as `serao` (old), it can be described as `sheloi` (many), and the layering of descriptive context stays intuitive throughout.
 
 ## Numerals
 
-Specific numbers work the same way, appearing before the noun:
+Specific numbers work the same way: they appear before the noun.
 
 **ta melu**  
 *one friend*  
@@ -126,11 +126,11 @@ Every adjective names its quality when it stands where a noun stands: `thua` is 
 
 And every noun describes when it stands where a descriptor stands. This chapter's possession (`sila nophi`, the community's story) is one reading of that position; kind, direction, and association are others: `nitho ruela` (the north path), `wheo kowela` (the elder council), `pukea ruela` (a dangerous path). Meaning chooses among the readings, as it does throughout the noun phrase. A thing needs no adjective listing to describe; standing before the noun is enough.
 
-So each word keeps exactly one part of speech — the class of what it names first — and position does the bridging in both directions. `shea` names peace and describes the peaceful; `thua` describes the fair and names fairness. The dictionary records which is home; the grammar makes both reachable.
+So each word keeps exactly one part of speech (the class of what it names first), and position does the bridging in both directions. `shea` names peace and describes the peaceful; `thua` describes the fair and names fairness. The dictionary records which is home; the grammar makes both reachable.
 
 ## Trust and precision in balance
 
-Phi's approach to specifying nouns balances contextual trust with explicit precision. The language begins with the assumption of shared understanding, leaving nouns unmarked and relying on mindful presence to provide clarity.
+Phi's approach to specifying nouns balances contextual trust with explicit precision. The language begins with the assumption of shared understanding: it leaves nouns unmarked and relies on mindful presence to provide clarity.
 
 Yet it does not abandon speakers when precision is needed. For every potential ambiguity, it offers a simple, consistent tool:
 

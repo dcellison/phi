@@ -12,7 +12,7 @@ A "parent's book" is structured the same way as a "beautiful book." The possesso
 
 The mechanism for expressing possession is simple and requires no new rules. It is a direct application of the head-final principle.
 
-To indicate that a noun is "possessed" by another, the speaker places the possessor noun directly before the possessed noun. The possessor acts as the modifier, and the possessed noun acts as the head.
+To indicate that a noun is "possessed" by another, the speaker places the possessor noun directly before the possessed noun. The possessor is the modifier, and the possessed noun is the head.
 
 For example, to speak of "the community's story," one combines `sila` (community) and `nophi` (story) into the phrase:
 

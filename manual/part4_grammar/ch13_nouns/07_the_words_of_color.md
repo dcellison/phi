@@ -58,7 +58,7 @@ water dark blue be.
 (The water is dark blue.)
 ```
 
-So *keru rulo* is bright red and *whilo shilu* is pale blue, white lending its lightness to the hue beside it.
+So *keru rulo* is bright red and *whilo shilu* is pale blue; white lends its lightness to the hue beside it.
 
 One near pair is worth keeping straight. *nuko* is a hue: the color a surface wears. *nuelo* is an amount of light: how much of it reaches the scene. A room at dusk is *nuelo* though nothing in it is *nuko*, and a black bowl in full sun is *nuko* and not at all *nuelo*. The entries carve the pair, and the night sentence shows the difference: *nuko shero* praises the night's color, *nuelo shero* reports its darkness.
 
