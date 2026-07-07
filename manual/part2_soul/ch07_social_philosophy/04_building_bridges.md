@@ -2,7 +2,7 @@
 
 Understanding between people requires shared ground. In homogeneous communities, that ground exists naturally: common experiences, overlapping assumptions, similar frameworks for making sense of the world. In diverse societies, shared ground must be actively constructed.
 
-Phi's compositional vocabulary helps here. Because complex words build transparently from simpler roots, speakers can start with foundational concepts their listener already grasps and construct meaning outward. A specialized idea doesn't arrive as an opaque block; it arrives as a visible assembly of familiar pieces. The listener follows the construction rather than guessing at the result.
+Phi's compositional vocabulary helps here, though the composition runs through sound, not through morpheme-by-morpheme assembly. Because related meanings share related sounds, a word a listener has never heard often half-introduces itself: the family it belongs to arrives in the ear before the gloss confirms it. A specialized idea doesn't arrive as a fully opaque block; it arrives already carrying a trace of the words it was coined beside. The listener has somewhere to start, even meeting a term for the first time.
 
 The evidential system contributes differently. When speakers mark how they've arrived at their understanding, listeners can identify where their frameworks diverge. "I saw this happen" and "I was told this happened" invite different kinds of engagement. Making the basis of knowledge visible turns potential clashes of assumption into opportunities for genuine comparison.
 
