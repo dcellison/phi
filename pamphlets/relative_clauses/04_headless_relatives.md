@@ -54,7 +54,7 @@ mia rena thia to kealo nila
 (i see what you created.)
 ```
 
-We don't need to specify "the thing" or "the work" — the creation itself is the focus.
+We don't need to specify "the thing" or "the work": the creation itself is the focus.
 
 ```
 rena nai nai. rena ma nai ma nai.
@@ -124,7 +124,7 @@ mia rena shea kealo sano
 (i know one who creates peace.)
 ```
 
-Without `rena`, `mia shea kealo sano` runs `kealo` straight into `sano` — the manual flags exactly this sentence as one that could be misread. Keep the relativizer whenever the clause is an object.
+Without `rena`, `mia shea kealo sano` runs `kealo` straight into `sano`: the manual flags exactly this sentence as one that could be misread. Keep the relativizer whenever the clause is an object.
 
 `rena` earns its keep elsewhere too. In longer or more complex sentences, omitting it can create confusion:
 
@@ -233,7 +233,7 @@ REL 2SG love who be
 
 Headless relatives can be interpreted as definite ("the one who...") or indefinite ("anyone who...") depending on context:
 
-**Definite** — referring to a specific individual:
+**Definite**, referring to a specific individual:
 
 ```
 rena mia to naphe ha nai
@@ -243,7 +243,7 @@ REL 1SG PST help PROX be
 
 The speaker has someone specific in mind.
 
-**Indefinite/Generic** — referring to anyone fitting the description:
+**Indefinite/Generic**, referring to anyone fitting the description:
 
 ```
 rena naphe naphe howela
