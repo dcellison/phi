@@ -6,12 +6,12 @@ A relative clause is a sentence that has been transformed into a description. In
 
 Consider the difference:
 
-- "the old book" — a simple adjective describes the book
-- "the book that changed my life" — a whole sentence describes the book
+- "the old book": a simple adjective describes the book
+- "the book that changed my life": a whole sentence describes the book
 
 In the second example, "that changed my life" is a relative clause. It started as a sentence ("something changed my life") and became a modifier. The power of relative clauses lies in this transformation: any situation, any event, any state of affairs can become a description.
 
-This matters because single-word adjectives are limited. "Old," "beautiful," "large" — these tell us about inherent qualities. But what if you want to identify something by what happened to it, what it did, or how it relates to something else? That requires a clause, not just a word.
+This matters because single-word adjectives are limited. "Old," "beautiful," "large": these tell us about inherent qualities. But what if you want to identify something by what happened to it, what it did, or how it relates to something else? That requires a clause, not just a word.
 
 ## How English handles relative clauses
 
@@ -65,7 +65,7 @@ And the listener knows from the moment they hear `rena` that a description is co
 
 If you've grown up with post-nominal relatives, Phi's approach requires a mental shift. You're used to anchoring on the noun first, then accumulating details about it. Phi asks you to gather details first, then discover what they describe.
 
-This is the same adjustment required for Phi's basic word order. In "beautiful flower" vs. `phelora peloru`, English and Phi both put the adjective first — that feels natural. But in "the flower that I saw" vs. `rena mia to nila peloru`, English puts the noun first while Phi puts the clause first. The principle is the same (modifier before modified), but relative clauses make it more conspicuous.
+This is the same adjustment required for Phi's basic word order. In "beautiful flower" vs. `phelora peloru`, English and Phi both put the adjective first, and that feels natural. But in "the flower that I saw" vs. `rena mia to nila peloru`, English puts the noun first while Phi puts the clause first. The principle is the same (modifier before modified), but relative clauses make it more conspicuous.
 
 The good news: this isn't arbitrary. Phi's entire grammar follows the modifier-first principle. Once you've internalized "description before described," relative clauses are just a larger application of what you already know.
 

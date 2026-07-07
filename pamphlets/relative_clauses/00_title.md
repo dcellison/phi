@@ -4,7 +4,7 @@
 
 ---
 
-*Phi Language Series — Pamphlet 1*
+*Phi Language Series: Pamphlet 1*
 
 ---
 

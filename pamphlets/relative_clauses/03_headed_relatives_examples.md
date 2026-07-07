@@ -4,7 +4,7 @@ This section provides abundant examples of headed relative clauses. Each example
 
 ## Subject gap examples
 
-The head noun is the subject inside the relative clause — the one doing the action.
+The head noun is the subject inside the relative clause: the one doing the action.
 
 ### Basic actions
 
@@ -94,7 +94,7 @@ REL NEG grow flower small be
 
 ## Object gap examples
 
-The head noun is the object inside the relative clause — the thing receiving the action.
+The head noun is the object inside the relative clause: the thing receiving the action.
 
 ### Basic actions
 
