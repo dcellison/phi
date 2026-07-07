@@ -54,19 +54,23 @@ def _place(placed, key, x, dx=0.0, dy=0.0):
     return [bb[0] + x + dx, bb[1] + dy, bb[2] + x + dx, bb[3] + dy]
 
 
-def _tehta(placed, key, base_key, x):
+def _tehta(placed, key, base_key, x, above):
     """Center the zero-advance tehta over the base glyph's ink, keeping the
-    font's own vertical position unless the base's ink collides."""
+    font's own vertical position unless the base's ink collides. `above`
+    says which side this tehta belongs on (from the ABOVE/BELOW dicts, not
+    inferred from the glyph's own bbox: a font may draw an "above" mark
+    with ink that dips slightly below the baseline, which would fool a
+    sign-of-bbox check)."""
     base, teh = _G[base_key], _G[key]
     pen = x + base["adv"]
     dx = ((x + (base["bbox"][0] + base["bbox"][2]) / 2)
           - (pen + (teh["bbox"][0] + teh["bbox"][2]) / 2))
     dy = 0.0
-    if teh["bbox"][1] >= 0:  # above form: lift clear of tall bases
+    if above:  # lift clear of tall bases
         overlap = base["bbox"][3] + CLEAR - teh["bbox"][1]
         if overlap > 0:
             dy = overlap
-    else:                    # below form: drop clear of descenders
+    else:      # drop clear of descenders
         overlap = teh["bbox"][3] + CLEAR - base["bbox"][1]
         if overlap > 0:
             dy = -overlap
@@ -87,9 +91,9 @@ def render_line(line):
                 return None
             for base, above, below in units:
                 boxes.append(_place(placed, base, x))
-                boxes.append(_tehta(placed, above, base, x))
+                boxes.append(_tehta(placed, above, base, x, above=True))
                 if below:
-                    boxes.append(_tehta(placed, below, base, x))
+                    boxes.append(_tehta(placed, below, base, x, above=False))
                 x += _G[base]["adv"]
             x += WORD_GAP
         for _ in range(stops):

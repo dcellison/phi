@@ -31,10 +31,18 @@ font = TTFont(FONT)
 cmap = font.getBestCmap()
 glyf = font.getGlyphSet()
 hmtx = font["hmtx"]
+glyph_names = set(font.getGlyphOrder())
 
 glyphs = {}
 for cp in CODEPOINTS:
-    name = cmap[cp]
+    cmap_name = cmap[cp]
+    # The tehtar are composites of a bare mark plus U+25CC DOTTED CIRCLE (the
+    # Unicode convention for showing a combining mark in isolation). The
+    # ".norm" component is the bare mark; use it directly so no circle
+    # ships in the outline, and so its bbox reflects the mark alone (the
+    # renderer's above/below placement depends on that bbox being clean).
+    norm_name = cmap_name + ".norm"
+    name = norm_name if norm_name in glyph_names else cmap_name
     g = glyf[name]
     sp = SVGPathPen(glyf)
     g.draw(sp)
