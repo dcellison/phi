@@ -9,7 +9,7 @@ When we speak, we often need to express not just simple actions, but thoughts *a
 
 In the second sentence, "she left" is no longer a standalone statement. It has become the *content* of knowing, tucked inside a larger sentence. The embedded clause "that she left" functions as what I know, the object of my mental verb.
 
-This is one of the most powerful features of human language: the ability to take a complete thought and make it part of a larger thought. We can report what others said, wonder about possibilities, express beliefs, and stack knowledge upon knowledge, all through embedding.
+This lets us take a complete thought and make it part of a larger thought. We can report what others said, wonder about possibilities, express beliefs, and stack knowledge upon knowledge, all through embedding.
 
 ## Three types of embedding
 
@@ -150,7 +150,7 @@ The following sections explore each complementizer pair in depth:
 
 **Section 9** offers a quick reference appendix summarizing everything in compact form.
 
-By the end, you will be able to construct and understand embedded clauses of any complexity, a skill essential for expressing the full range of human thought in Phi.
+By the end, you will be able to construct and understand embedded clauses of any complexity.
 
 ---
 
