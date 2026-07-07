@@ -283,16 +283,16 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     (Missing `sholo`)
 
 34. **rena nophi kealo miona**
-    (Removed `reno` — `rena` has no closer)
+    (Removed `reno`: `rena` has no closer)
 
 35. **mia mena shia to wepu meno shelomui**
     (Reordered: embedded clause before main verb)
 
 36. **mia mena shia towe nai meno sano**
-    (Added `nai` — copula required)
+    (Added `nai`: copula required)
 
 37. **mia wela shia to wepu welo phaelo**
-    (Removed `wa` — redundant inside `wela`/`welo`)
+    (Removed `wa`: redundant inside `wela`/`welo`)
 
 38. **thia mena shia to wepu meno sano nela mia wela mia so turema welo phaelo**
     (Simplified: nesting was malformed)
@@ -301,7 +301,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
     (Reversed `shola` and `sholo` order)
 
 40. **mia mena shia to wepu meno nohero**
-    (Removed extra `meno` — only one closer per opener)
+    (Removed extra `meno`: only one closer per opener)
 
 ## Part D: Gap Fill
 
@@ -360,7 +360,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ## Part G: Free Production
 
-(Sample answers — many correct answers possible)
+(Sample answers, many correct answers possible)
 
 61. **mia mena sorae ro shua meno sano**
     I know that the sun regularly comes.

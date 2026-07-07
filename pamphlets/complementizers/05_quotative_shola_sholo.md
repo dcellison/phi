@@ -21,11 +21,11 @@ shia shola mia wepu sholo to haolu
 ```
 
 Breaking this down:
-- `shia` — main clause subject (the one who spoke)
-- `shola` — opens quotation
-- `mia wepu` — quoted material: "I am leaving"
-- `sholo` — closes quotation
-- `haolu` — main verb (say)
+- `shia`: main clause subject (the one who spoke)
+- `shola`: opens quotation
+- `mia wepu`, quoted material: "I am leaving"
+- `sholo`: closes quotation
+- `haolu`: main verb (say)
 
 Note: the `mia` inside the quote refers to the original speaker, not to whoever is reporting the quote now.
 
@@ -378,7 +378,7 @@ Both sentences report the same event, but:
 
 - **`shola` opens:** "here begins exact quotation"
 - **`sholo` closes:** "here ends that quotation"
-- **Main verb follows:** the verb of speaking — or of receiving speech (`hea`)
+- **Main verb follows:** the verb of speaking, or of receiving speech (`hea`)
 
 Distinguished from `mena`/`meno`:
 - Quotation preserves exact words and original pronouns
