@@ -2,7 +2,7 @@
 
 ## Simple and clear
 
-Phi uses ten basic consonants: **m, n, p, t, k, l, r, s, h, w**. Each was chosen for its cross-linguistic frequency and ease of production. If vowels provide the soul of Phi's words, consonants provide their structure, guiding the flow of breath into recognizable shapes.
+Phi uses ten basic consonants: **m, n, p, t, k, l, r, s, h, w**. Each was chosen for its cross-linguistic frequency and ease of production. If vowels provide the soul of Phi's words, consonants provide their structure and guide the flow of breath into recognizable shapes.
 
 | Consonant | IPA | Type | English example |
 |-----------|-----|------|-----------------|
