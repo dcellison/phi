@@ -1,6 +1,6 @@
 # Part 2: The announcing `ne`
 
-`ne` is a Slot 2 particle: it stands immediately before the word it affects, and what it says is *the next word is someone*. In the full chain of address the order is fixed — `kona`, then `ne`, then any honorific, then the name — and every link announces before it delivers: the call, then the fact of a name, then the relationship, then at last the person.
+`ne` is a Slot 2 particle: it stands immediately before the word it affects, and what it says is *the next word is someone*. In the full chain of address the order is fixed: `kona`, then `ne`, then any honorific, then the name, and every link announces before it delivers: the call, then the fact of a name, then the relationship, then at last the person.
 
 ### The name arrives before its bearer
 
@@ -12,7 +12,7 @@ NAME sulae PROX NEG be.
 (sulae is not here.)
 ```
 
-That is the first name in the book — spoken about an absence, which is a quiet proof of what `ne` does: it can summon a person into a sentence who is not even in the room. When she finally arrives, the introduction formula does the honors:
+That is the first name in the book, spoken about an absence, which is a quiet proof of what `ne` does: it can summon a person into a sentence who is not even in the room. When she finally arrives, the introduction formula does the honors:
 
 ```
 melu shua. melu nomei ne sulae nai.
@@ -22,7 +22,7 @@ friend come. friend name NAME sulae be.
 
 ### Introducing and asking
 
-The formula generalizes the way everything in Phi generalizes — swap the possessor, keep the shape. `[whose] nomei ne [name] nai.`
+The formula generalizes the way everything in Phi generalizes: swap the possessor, keep the shape. `[whose] nomei ne [name] nai.`
 
 ```
 mia nomei ne keruko nai.
@@ -34,11 +34,11 @@ thia nomei hina nai.
 (What is your name?)
 ```
 
-The question puts `hina` exactly where the answer will stand, as chapter 12 §5 teaches — the shape of the question already sketches the shape of the reply. Soften it with `pi` at the front when the person is a stranger: `pi thia nomei hina nai.`
+The question puts `hina` exactly where the answer will stand, as chapter 12 §5 teaches: the shape of the question already sketches the shape of the reply. Soften it with `pi` at the front when the person is a stranger: `pi thia nomei hina nai.`
 
 ### A name owns things
 
-Phi's possessor stands before the possessed — `mia lohau`, my dog — and names take their turn in that pattern like any word. Which means `ne` sometimes settles more than personhood:
+Phi's possessor stands before the possessed (`mia lohau`, my dog), and names take their turn in that pattern like any word. Which means `ne` sometimes settles more than personhood:
 
 ```
 keruko lopha
@@ -70,7 +70,7 @@ rabbit joy PST feel.
 (The rabbit felt joy.)
 ```
 
-A cloak did not become sulae's because she exists; the North Wind's traveler keeps their warm cloth, the sutta keeps its gentle speech, the rabbit keeps its joy. The lexicon serves both masters without strain, because `ne` — and only `ne` — says which master is speaking. The same announcement serves any proper name the language needs to carry, a village as readily as a person; the mechanism does not care what kind of someone follows.
+A cloak did not become sulae's because she exists; the North Wind's traveler keeps their warm cloth, the sutta keeps its gentle speech, the rabbit keeps its joy. The lexicon serves both masters without strain, because `ne`, and only `ne`, says which master is speaking. The same announcement serves any proper name the language needs to carry, a village as readily as a person; the mechanism does not care what kind of someone follows.
 
 ### Drill: the width of one particle
 
@@ -82,4 +82,4 @@ For each pair, say both meanings aloud, then name what the particle settled.
 3. mia thinoe nila.     /  mia ne thinoe nila.
 ```
 
-Answers: 1 — *someone speaks gently* / *moli speaks*: manner became agent. 2 — *it is a sturdy vessel* / *it is keruko's vessel*: description became belonging. 3 — the founding pair from Part 1: a seed became a person. Then produce, aloud and unscripted: your own name-sentence with a Phi word you could honestly carry, and the polite question you would ask a stranger. If the formula needed thought, run the drill again tomorrow.
+Answers: 1. *someone speaks gently* / *moli speaks*: manner became agent. 2. *it is a sturdy vessel* / *it is keruko's vessel*: description became belonging. 3. the founding pair from Part 1: a seed became a person. Then produce, aloud and unscripted: your own name-sentence with a Phi word you could honestly carry, and the polite question you would ask a stranger. If the formula needed thought, run the drill again tomorrow.
