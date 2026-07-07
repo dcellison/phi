@@ -4,7 +4,7 @@
 
 *Three of the language's own designs carry the weight. `whemoa` (empty) yields emptiness by the quality-noun rule, so śūnyatā is not a technical term here but the ordinary word for an empty bowl, doing its deepest work. The numeral `mu` (zero) counts absences honestly, and the sutra's great litany becomes a litany of zeros over the body's own words. And the optative `su`, the engine of the Metta Sutta's nineteen wishes, carries the closing mantra as a wish of passage. The title composes from the carve the lexicon already made: `nulo sano`, deep knowing, is wisdom; this text is its heart.*
 
-*Because the original is Sanskrit, the English beneath each Phi passage is our own plain rendering of the sense — Phi transmutes the idea, never somebody's translation.*
+*Because the original is Sanskrit, the English beneath each Phi passage is our own plain rendering of the sense: Phi transmutes the idea, never somebody's translation.*
 
 ---
 
