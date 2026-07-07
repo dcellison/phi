@@ -48,4 +48,4 @@ The *ke* particle begins with a crisp *k*, suggesting the click of deduction, th
 
 ## Inference in daily life
 
-Most of what we "know" is actually inference. We infer other people's mental states, infer causes from effects, infer the past from its traces. The *ke* particle brings this usually invisible process into awareness, encouraging speakers to notice when they're reasoning beyond direct perception.
+Most of what we "know" is actually inference. We infer other people's mental states, infer causes from effects, infer the past from its traces. The *ke* particle brings this usually invisible process into awareness: it encourages speakers to notice when they're reasoning beyond direct perception.

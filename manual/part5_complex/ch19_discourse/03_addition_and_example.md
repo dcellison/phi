@@ -24,7 +24,7 @@ shia welao thumela. sheno shia thesua nai.
 (They teach well. Furthermore they are mindful.)
 ```
 
-Where `nela` (and) joins items as grammatical equals, `sheno` builds a rhetorical case. Each `sheno` sentence strengthens what came before, layering evidence or expanding a picture. The listener understands that the speaker is still building the same argument, not starting a new one.
+Where `nela` (and) joins items as grammatical equals, `sheno` builds a rhetorical case. Each `sheno` sentence strengthens what came before: it layers evidence or expands a picture. The listener understands that the speaker is still building the same argument, not starting a new one.
 
 ## Example: `phisu`
 

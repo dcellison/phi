@@ -10,7 +10,7 @@ It is a practice of epistemic humility, made grammatical. By marking your knowle
 
 ## The four evidential particles
 
-Phi provides four evidential particles, each marking a different relationship between speaker and knowledge:
+Phi provides four evidential particles; each marks a different relationship between speaker and knowledge:
 
 **hi** — direct evidence (I witnessed it myself)  
 **ke** — inferential evidence (I deduced it from evidence)  
@@ -21,7 +21,7 @@ These particles occupy Slot 1 and appear before the verb.
 
 ## When to use evidentials
 
-Evidential particles are optional. When no evidential appears, the sentence is a plain assertion: it claims the fact and names no source. Direct knowledge is the natural assumption for present, perceivable events, but the grammar claims nothing — that is `hi`'s job.
+Evidential particles are optional. When no evidential appears, the sentence is a plain assertion: it claims the fact and names no source. Direct knowledge is the natural assumption for present, perceivable events, but the grammar claims nothing: that is `hi`'s job.
 
 Use evidentials when:
 - The knowledge source matters for interpretation
@@ -31,4 +31,4 @@ Use evidentials when:
 
 The choice to include or omit evidentials is itself communicatively meaningful. Marking evidentiality signals care for accuracy; omitting it signals confidence or simplicity.
 
-The four sections that follow take each particle in turn; the chapter closes with why this system exists at all — what marking your knowledge does to a disagreement, and to a mind.
+The four sections that follow take each particle in turn; the chapter closes with why this system exists at all: what marking your knowledge does to a disagreement, and to a mind.

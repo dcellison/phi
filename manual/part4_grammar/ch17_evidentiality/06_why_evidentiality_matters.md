@@ -51,7 +51,7 @@ This exchange demonstrates how evidentiality facilitates rather than prevents di
 
 ## The choice to mark or not
 
-Remember that evidentiality is optional in Phi. Unmarked sentences are plain assertions, claiming no source. The choice to include or omit evidentials is itself meaningful.
+Remember that evidentiality is optional in Phi. Unmarked sentences are plain assertions: they claim no source. The choice to include or omit evidentials is itself meaningful.
 
 Marking shows care for epistemic precision. Omitting shows confidence or simplicity. Both have their place. The point is not to mark everything but to have the tools available when they matter.
 

@@ -1,6 +1,6 @@
 # Contrast: `thona`
 
-Where `nela` says "and," `thona` says "but." It connects elements that stand in some kind of tension, acknowledging that two things are true even though they pull in different directions.
+Where `nela` says "and," `thona` says "but." It connects elements that stand in some kind of tension: two things are true even though they pull in different directions.
 
 ```
 shiro phelora nai thona thiku nai.
@@ -60,4 +60,4 @@ shia haolu thona lo miona ma sheluo.
 (They speak, but the people do not listen.)
 ```
 
-In each case, `thona` creates space for complexity. It resists the pressure to reduce a situation to one side or the other, holding the tension so the listener can sit with it.
+In each case, `thona` creates space for complexity. It resists the pressure to reduce a situation to one side or the other; it holds the tension so the listener can sit with it.

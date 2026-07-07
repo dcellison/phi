@@ -2,11 +2,11 @@
 
 Conjunctions connect elements within a sentence or join two sentences together. Discourse markers do something different: they connect a sentence to everything that came before it. They tell the listener how to relate what they're about to hear to what they've already heard.
 
-English does this informally. "So," "however," "for example," "in other words" — these are road signs in a conversation, orienting the listener before the next idea arrives. Phi formalizes these into a small, consistent set of discourse markers with a fixed syntactic position.
+English does this informally. "So," "however," "for example," "in other words": these are road signs in a conversation that orient the listener before the next idea arrives. Phi formalizes these into a small, consistent set of discourse markers with a fixed syntactic position.
 
 ## Position in the sentence
 
-All discourse markers occupy the same slot: after any Slot 0 particle but before the subject. This means they sit at the very front of the sentence (or just after `wa`, `pi`, `no`, etc.), announcing the logical relationship before any content arrives.
+All discourse markers occupy the same slot: after any Slot 0 particle but before the subject. This means they sit at the very front of the sentence (or just after `wa`, `pi`, `no`, etc.) and announce the logical relationship before any content arrives.
 
 The pattern is: `[Slot 0] [discourse marker] [subject] ... [verb]`
 
