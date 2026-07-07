@@ -16,6 +16,21 @@ _DATA = json.loads((Path(__file__).resolve().parent.parent /
                     "writing_systems" / "tengwar_glyphs.json").read_text())
 _G = _DATA["glyphs"]
 
+# Manual per-base-glyph position corrections, keyed by the base tengwa's
+# codepoint, then "above"/"below", each a {"dx": x, "dy": y} offset added
+# on top of the plain bbox placement in _tehta() (positive dx is right,
+# positive dy is up, both in font design units, upem 2048). Empty entries
+# just mean the plain placement hasn't been checked against a reference
+# yet, not that it's known correct. Add one at a time, informed by an
+# actual rendered comparison - see writing_systems/tengwar_mode.md and
+# [[tengwar-telcontar-swap]] in memory for the story of why this exists
+# (automated per-glyph shape analysis was tried and abandoned: it kept
+# finding a new letter shape it got wrong) and for th specifically, the
+# standing correction: center it above the hump, not the mast, then
+# nudge right by roughly the stem's own width so it clears the stem
+# instead of sitting on top of it.
+TWEAKS = _DATA.get("tweaks", {})
+
 TENGWA = {"p": "E001", "t": "E000", "k": "E002", "m": "E011", "n": "E010",
           "ph": "E009", "wh": "E00B", "th": "E008", "sh": "E00A",
           "s": "E025", "h": "E028", "w": "E015", "l": "E022"}
@@ -55,25 +70,32 @@ def _place(placed, key, x, dx=0.0, dy=0.0):
 
 
 def _tehta(placed, key, base_key, x, above):
-    """Center the zero-advance tehta over the base glyph's ink, keeping the
-    font's own vertical position unless the base's ink collides. `above`
-    says which side this tehta belongs on (from the ABOVE/BELOW dicts, not
-    inferred from the glyph's own bbox: a font may draw an "above" mark
-    with ink that dips slightly below the baseline, which would fool a
-    sign-of-bbox check)."""
+    """Center the zero-advance tehta over the base glyph's bbox, and set
+    its height clear of the base's own bbox top/bottom. `above` says which
+    side this tehta belongs on (from the ABOVE/BELOW dicts, not inferred
+    from the glyph's own bbox, which a font's isolated-mark design can
+    leave meaningless as an absolute position, e.g. this font's tehtar all
+    carry a native y-position left over from sitting inside a composite
+    with a display circle - see extract_tengwar_glyphs.py).
+
+    This is deliberately plain bbox math with no per-glyph shape analysis:
+    an earlier attempt to derive placement from each base's actual stem/
+    bow geometry kept finding a new letter shape it got wrong (overlapping
+    the very stem it was trying to clear, for one). Letters whose bbox
+    isn't a good proxy for where a tehta should sit (mainly the ones with
+    a decorative ascender or descender well beyond their own body) get a
+    manual correction from TWEAKS instead of an automated one; see there
+    for how to add one and what's already been dialed in."""
     base, teh = _G[base_key], _G[key]
     pen = x + base["adv"]
     dx = ((x + (base["bbox"][0] + base["bbox"][2]) / 2)
           - (pen + (teh["bbox"][0] + teh["bbox"][2]) / 2))
-    dy = 0.0
-    if above:  # lift clear of tall bases
-        overlap = base["bbox"][3] + CLEAR - teh["bbox"][1]
-        if overlap > 0:
-            dy = overlap
-    else:      # drop clear of descenders
-        overlap = teh["bbox"][3] + CLEAR - base["bbox"][1]
-        if overlap > 0:
-            dy = -overlap
+    dy = (base["bbox"][3] + CLEAR - teh["bbox"][1] if above
+          else base["bbox"][1] - CLEAR - teh["bbox"][3])
+    tweak = TWEAKS.get(base_key, {}).get("above" if above else "below")
+    if tweak:
+        dx += tweak.get("dx", 0)
+        dy += tweak.get("dy", 0)
     return _place(placed, key, pen, dx, dy)
 
 

@@ -62,6 +62,9 @@ out = {
     "ascent": font["hhea"].ascent,
     "descent": font["hhea"].descent,
     "glyphs": glyphs,
+    # Manual per-base-glyph tehta position corrections; see scripts/tengwar.py's
+    # TWEAKS docstring for the format. Never auto-populate this: each entry
+    # should come from a human comparing a rendered word against a reference.
     "tweaks": {},
 }
 OUT.write_text(json.dumps(out, indent=1))
