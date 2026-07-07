@@ -1,6 +1,6 @@
 # Complement clauses
 
-A complement clause is a sentence that functions as the object of another verb. In English: "I know *that she left*." The italicized portion is a complete thought serving as the thing known.
+A complement clause is a sentence that functions as the object of another verb. In English: "I know *that she left*." The italicized portion is a complete thought that serves as the thing known.
 
 Phi uses two complementizer pairs for this: `mena`/`meno` for embedded statements and `wela`/`welo` for embedded yes/no questions.
 

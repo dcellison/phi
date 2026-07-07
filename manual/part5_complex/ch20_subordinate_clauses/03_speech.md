@@ -4,7 +4,7 @@ Reporting what someone said is one of the most common uses of subordination. Phi
 
 ## Direct speech: `shola...sholo`
 
-The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; `sholo` closes it. Together they function as spoken quotation marks, giving the listener unambiguous boundaries around the quoted material.
+The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; `sholo` closes it. Together they are spoken quotation marks: they give the listener unambiguous boundaries around the quoted material.
 
 ```
 shia shola mia so wepu sholo to shemui.
@@ -50,7 +50,7 @@ The choice between `shola...sholo` and `mena...meno` isn't just grammatical; it 
 
 Direct speech with `shola...sholo` says: "these are the exact words. I'm carrying them faithfully." It preserves the original speaker's voice, perspective, and phrasing. Use it when precision matters, when you want to honor exactly what was said.
 
-Indirect speech with `mena...meno` says: "this is the gist." It filters through the reporter's perspective, adjusting pronouns and potentially condensing. Use it when the content matters more than the exact formulation.
+Indirect speech with `mena...meno` says: "this is the gist." It filters through the reporter's perspective; it adjusts pronouns and may condense the content. Use it when the content matters more than the exact formulation.
 
 Phi's evidential system adds another layer. Combining reported evidence (`ti`) with indirect speech signals that the speaker is passing along information at a further remove:
 

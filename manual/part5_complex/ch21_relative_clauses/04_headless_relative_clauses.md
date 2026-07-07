@@ -1,6 +1,6 @@
 # Headless relative clauses
 
-Sometimes the described noun is obvious from context or deliberately left implicit. In these cases, the relative clause stands alone, functioning as a complete noun phrase without an explicit head. The clause itself becomes "the one who..." or "that which..."
+Sometimes the described noun is obvious from context or deliberately left implicit. In these cases, the relative clause stands alone: it is a complete noun phrase without an explicit head. The clause itself becomes "the one who..." or "that which..."
 
 ## When the head is understood
 
@@ -20,7 +20,7 @@ mia rena thia to kealo theo.
 (I read what you created.)
 ```
 
-Here "the thing" or "the work" is implied. The relative clause `rena thia to kealo` functions as the object of `theo` without naming what was created.
+Here "the thing" or "the work" is implied. The relative clause `rena thia to kealo` is the object of `theo`, without naming what was created.
 
 ## Philosophical uses
 
@@ -52,7 +52,7 @@ love understand wise be.
 (One who understands love is wise.)
 ```
 
-The clause `lothea shelomui` ("understand love") functions as a nominal phrase meaning "one who understands love." This works because the clause occupies a position where a noun is expected, and the meaning is unambiguous.
+The clause `lothea shelomui` ("understand love") is a nominal phrase meaning "one who understands love." This works because the clause occupies a position where a noun is expected, and the meaning is unambiguous.
 
 However, `rena` adds clarity, especially in longer sentences:
 
