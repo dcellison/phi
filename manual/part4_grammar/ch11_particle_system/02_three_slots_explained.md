@@ -4,7 +4,7 @@ Particles in Phi occupy three distinct slots, each with a specific grammatical s
 
 ## Slot 0: Sentence frame
 
-Slot 0 particles appear at the very beginning of a sentence. They frame the entire utterance, announcing the speaker's communicative intention before any content arrives.
+Slot 0 particles appear at the very beginning of a sentence. They frame the entire utterance and announce the speaker's communicative intention before any content arrives.
 
 When you hear a Slot 0 particle, you immediately know what kind of speech act is coming:
 - *wa* signals a yes/no question
@@ -24,7 +24,7 @@ Slot 1 particles appear before the verb and modify the entire action. They carry
 Slot 1 includes:
 - **Tense**: past (*to*), future (*so*); present is unmarked
 - **Aspect**: perfective (*ki*), imperfective (*si*), inchoative (*pa*), cessative (*te*), habitual (*ro*)
-- **Voice**: passive (*se*), causative (*ka*) — the two combine only as *se ka*
+- **Voice**: passive (*se*), causative (*ka*); the two combine only as *se ka*
 - **Evidentiality**: direct (*hi*), inferential (*ke*), reportative (*ti*), assumptive (*ho*)
 - **Modality**: possibility (*po*), necessity (*na*)
 - **Negation**: *ma*
@@ -33,7 +33,7 @@ When multiple Slot 1 particles appear, they follow a strict order:
 
 **Tense → Aspect → Voice → Evidentiality → Modality → Negation**
 
-Each rank admits at most one particle per clause — one tense, one aspect, one source, one modal; the single ruled pairing is voice's *se ka* (canon, *One per rank*). Complexity goes into more clauses, not thicker stacks.
+Each rank admits at most one particle per clause: one tense, one aspect, one source, one modal; the single ruled pairing is voice's *se ka* (canon, *One per rank*). Complexity goes into more clauses, not thicker stacks.
 
 This ordering isn't arbitrary. It moves from the most objective information (when something happened) through increasing levels of speaker interpretation (how they know, what they think is possible) to negation at the end.
 
@@ -77,7 +77,7 @@ Many particles are optional. When absent, the sentence carries a default meaning
 - No Slot 0 particle: declarative statement (not question, command, or condition)
 - No tense particle: present tense
 - No aspect particle: simple aspect (no emphasis on completion, duration, or beginning)
-- No evidential particle: a plain assertion — the fact claimed, no source named (*hi* claims witnesshood explicitly)
+- No evidential particle: a plain assertion, the fact claimed, no source named (*hi* claims witnesshood explicitly)
 - No negation: positive statement
 
 This means the simplest sentences need no particles at all:
@@ -86,4 +86,4 @@ This means the simplest sentences need no particles at all:
 *1SG 2SG see*  
 "I see you." (present tense, direct knowledge, positive)
 
-Particles add specificity to this baseline, making explicit what would otherwise remain implicit.
+Particles add specificity to this baseline: they make explicit what would otherwise remain implicit.

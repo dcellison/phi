@@ -48,7 +48,7 @@ The optative *su* is often used in blessings and good wishes. It acknowledges th
 
 ## pi: Politeness
 
-The particle *pi* softens the entire utterance, marking it as polite or respectful. It can combine with other Slot 0 particles.
+The particle *pi* softens the entire utterance and marks it as polite or respectful. It can combine with other Slot 0 particles.
 
 **pi no mia naphe.** — Please help me.  
 **pi wa thia po shua.** — Could you please come?  
