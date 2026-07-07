@@ -2,7 +2,7 @@
 
 ### The planned city of language
 
-If a natural language is an ancient city, shaped by centuries of unplanned growth with medieval streets and imperial avenues and modern towers layered on top of each other, then a constructed language is a planned city. Its avenues aren't former cow paths; they follow a grid. Its squares aren't accidental clearings; they're designed for a specific kind of public life. The whole structure answers a question: "What kind of place do we want to build?"
+If a natural language is an ancient city, shaped by centuries of unplanned growth with medieval streets and imperial avenues and modern towers layered on top of each other, then a constructed language is a planned city. Its avenues aren't former cow paths; they follow a grid. Its squares serve a specific kind of public life by design, not by accident. The whole structure answers a question: "What kind of place do we want to build?"
 
 This distinction between inherited city and intentional model is the key to understanding language creation as applied philosophy.
 
@@ -34,6 +34,6 @@ A car becomes "moving space for people." A computer becomes "thinking machine." 
 
 These projects, Esperanto, Lojban, Toki Pona, and others, are laboratories for the mind. Their individual goals differ, but together they prove something: we're not prisoners of the linguistic architecture we inherit. The patterns of thought handed down by our ancestors are not the only ones possible. We can design new tools for thinking and choose the values we build them on.
 
-Phi inherits from this whole tradition. But Phi has its own purpose. It doesn't aim to be a universal second language; it wants to enrich, not replace. It doesn't pursue machine-like logical precision; it cares about warmth and human connection. And while it values simplicity, it doesn't go as minimal as Toki Pona; it wants vocabulary for discussing inner life and how to build a better world.
+Phi inherits from this whole tradition, but it has its own purpose. It doesn't aim to be a universal second language; it wants to enrich, not replace. Machine-like logical precision isn't the goal either; warmth and human connection matter more. And while it values simplicity, it doesn't go as minimal as Toki Pona: it wants vocabulary for discussing inner life and how to build a better world.
 
-Phi is the next experiment in the line: where Esperanto asked whether a language could carry peace between nations, and Toki Pona asked how little a language needs, Phi asks whether a language can be a mindfulness practice — whether the values can live in the grammar itself. The rest of this book is the experiment's apparatus. You are its next trial.
+Phi is the next experiment in the line: where Esperanto asked whether a language could carry peace between nations, and Toki Pona asked how little a language needs, Phi asks whether a language can be a mindfulness practice: whether the values can live in the grammar itself. The rest of this book is the experiment's apparatus. You are its next trial.

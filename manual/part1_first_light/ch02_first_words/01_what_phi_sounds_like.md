@@ -29,7 +29,7 @@ Do you hear it? Phi was designed to sound peaceful: no guttural sounds, no clust
 
 This wasn't an accident. Every sound in Phi was chosen for how it feels in the mouth and how it lands in the ear. The breathy *ph* and *th*, the liquid *l*, the soft *sh*, the open vowels that never collide but always glide. These create a language that sounds the way a gentle stream looks.
 
-And this is just the beginning. In Phi, the sounds carry meaning. Words for soft things use soft sounds. Words for flowing things flow. Words for peace sound peaceful.
+And this is just the beginning. In Phi, the sounds carry meaning. Words for soft things use soft sounds. Flowing things get sounds that flow. Peace sounds like peace.
 
 But for now, just listen. Say the words. Feel how your mouth relaxes around them, how your breath moves without catching.
 
