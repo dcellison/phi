@@ -171,4 +171,4 @@ When forming sentences, follow this mental order:
 4. Add any modifiers to the verb (tense, aspect, modality)
 5. End with the verb
 
-This sequence ensures that you build context before action, inviting your listener into a shared understanding before completing the thought.
+This sequence ensures that you build context before action, and it invites your listener into a shared understanding before you complete the thought.

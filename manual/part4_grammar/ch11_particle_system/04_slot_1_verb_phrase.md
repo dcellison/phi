@@ -47,7 +47,7 @@ The perfective *ki* marks an action as complete at whatever reference time the t
 
 ### si: Imperfective
 
-The imperfective *si* marks an action as ongoing — in mid-flow. Habits belong to *ro*.
+The imperfective *si* marks an action as ongoing, in mid-flow. Habits belong to *ro*.
 
 **mia si shonela.** — I am learning (mid-flow).  
 **shia si thalo.** — They are walking.
@@ -89,7 +89,7 @@ The passive is useful for de-emphasizing agency or when the actor is unknown or 
 
 ### ka: Causative
 
-The causative *ka* indicates that the subject causes someone else to perform the action, restructuring the sentence exactly as voice particles do: the causer becomes the subject, and the original subject becomes the object. Like *se*, it says who acts — it claims nothing about certainty or obligation, which is why it lives here and not with the modals.
+The causative *ka* indicates that the subject causes someone else to perform the action. It restructures the sentence exactly as voice particles do: the causer becomes the subject, and the original subject becomes the object. Like *se*, it says who acts; it claims nothing about certainty or obligation, which is why it lives here and not with the modals.
 
 **Base:** lopia nulae. — The child sleeps.  
 **Causative:** mia lopia ka nulae. — I make the child sleep.
@@ -109,7 +109,7 @@ Evidentiality particles mark how the speaker knows what they're claiming. They m
 
 ### hi: Direct evidence
 
-The speaker witnessed the event with their own senses. An unmarked sentence claims no source; *hi* adds the witness claim explicitly — and its accountability.
+The speaker witnessed the event with their own senses. An unmarked sentence claims no source; *hi* adds the witness claim explicitly, along with its accountability.
 
 **mia hi nila.** — I see (I directly witness this).
 

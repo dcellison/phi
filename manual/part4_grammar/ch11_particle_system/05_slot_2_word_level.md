@@ -22,7 +22,7 @@ Use *lo* for unquantified plurals; omit it when a number appears.
 
 ## nu: Ordinal
 
-The particle *nu* turns a cardinal number into an ordinal, indicating position rather than quantity.
+The particle *nu* turns a cardinal number into an ordinal: it marks position rather than quantity.
 
 **nu ta** — first  
 **nu wi** — second  
@@ -102,11 +102,11 @@ The particle *we* marks the following element as added to what came before: "als
 **we lohau wile.** — The dog plays too.  
 **ne siora we shua.** — siora comes too.
 
-*we* stands before the constituent it adds — the new subject, or the repeated verb once the newcomer has been named. Chapter 18 §4 gives it a full treatment beside the conjunctions.
+*we* stands before the constituent it adds: the new subject, or the repeated verb once the newcomer has been named. Chapter 18 §4 gives it a full treatment beside the conjunctions.
 
 ## li: Restrictive
 
-The particle *li* restricts reference to the element it precedes: "only." It is a fence around identity — who, which, when — never a sigh over quantity.
+The particle *li* restricts reference to the element it precedes: "only." It is a fence around identity (who, which, when), never a sigh over quantity.
 
 **li shia sano.** — Only they know.  
 **li ne sulae ruela sano.** — Only sulae knows the path.
@@ -159,4 +159,4 @@ Multiple Slot 2 particles can modify the same word, and their order is the modif
 **we ha melu** — this friend too  
 **li ha lo melu** — only these friends
 
-A phrase carries one discourse relation: *we* and *li* do not stack with each other. The pair micro-orders stand as ruled — `mo ko`, `ne` before any honorific, `nu` before its numeral. Slot 2 particles create precise, layered descriptions while keeping each modification explicit and transparent — and the order costs nothing to learn, because it is announce-then-deliver, one level down.
+A phrase carries one discourse relation: *we* and *li* do not stack with each other. The pair micro-orders stand as ruled: `mo ko`, `ne` before any honorific, `nu` before its numeral. Slot 2 particles create precise, layered descriptions while keeping each modification explicit and transparent, and the order costs nothing to learn, because it is announce-then-deliver, one level down.

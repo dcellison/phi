@@ -14,7 +14,7 @@ Or more precisely:
 
 ## Example: Building a complex sentence
 
-Let's construct a sentence layer by layer:
+A sentence, built layer by layer:
 
 **Base:** mia melu nila. — I see a friend.
 
