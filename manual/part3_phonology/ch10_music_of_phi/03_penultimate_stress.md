@@ -22,13 +22,7 @@ In IPA transcription, stress is marked with /ˈ/ before the stressed syllable:
 
 Penultimate stress appears in many languages: Latin, Polish, Welsh, Swahili, and others. It creates a natural falling rhythm, emphasis followed by resolution, that feels complete and balanced.
 
-For Phi, this pattern offers several advantages:
-
-**Predictability**: once you know the syllable count, you know where stress falls. No memorizing exceptions. No irregular patterns.
-
-**Naturalness**: the pattern mimics natural speech rhythm. We tend to emphasize slightly before endings, creating closure.
-
-**Accessibility**: speakers from stress-timed and syllable-timed languages alike can adapt. The rule is simple enough to internalize quickly.
+For Phi, this pattern offers several advantages. Once you know the syllable count, you know where stress falls, with no exceptions to memorize and no irregular patterns to learn. It also mimics natural speech rhythm: people tend to emphasize slightly before endings, which creates a sense of closure. And speakers from stress-timed and syllable-timed languages alike can adapt to it, since the rule is simple enough to internalize quickly.
 
 ## Applying the rule
 
@@ -53,11 +47,7 @@ For four-syllable words, stress the third syllable:
 
 ## What stress sounds like
 
-In Phi, stress involves slight increases in:
-
-- **Length**: the stressed vowel lasts a bit longer
-- **Pitch**: the stressed syllable may be slightly higher
-- **Volume**: the stressed syllable is slightly louder
+In Phi, stress involves slight increases in length (the stressed vowel lasts a bit longer), pitch (the stressed syllable may be slightly higher), and volume (the stressed syllable is slightly louder).
 
 These changes should be subtle, not dramatic. Phi doesn't use heavy stress like English or German. Think of it as gentle emphasis rather than forceful accent.
 
