@@ -26,7 +26,7 @@ In Phi, this shows up as `sila`: community as foundation, not afterthought.
 
 ## Beauty as function
 
-Solarpunk refuses the split between useful and beautiful. A solar panel can mimic forest-floor dappling. A water system can be a public sculpture. A bridge can be structurally elegant *and* striking.
+Solarpunk refuses the split between useful and beautiful. A solar panel can mimic forest-floor dappling, and a water system can double as public sculpture. A bridge can be structurally elegant *and* striking.
 
 Phi treats goodness (`welao`) and beauty (`phelora`) as deeply connected. Things work well *because* they're in harmony with their surroundings. The industrial separation of engineering from art was always a mistake.
 
