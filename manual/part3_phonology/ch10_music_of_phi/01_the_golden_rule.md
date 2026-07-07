@@ -28,7 +28,7 @@ The pause between vowels should be small but definite, just enough to maintain d
 This rule reflects Phi's commitment to clarity and transparency. Blending would compromise that integrity.
 
 
-Consider `lothea` (love), pronounced `lo.the.a`. Its last two syllables meet at a vowel border: the **e** of `the` and the open **a**, each sounded fully, with a clean break between them. That break is the hiatus — small, deliberate, and never smoothed over.
+Consider `lothea` (love), pronounced `lo.the.a`. Its last two syllables meet at a vowel border: the **e** of `the` and the open **a**, each sounded fully, with a clean break between them. That break is the hiatus: small, deliberate, and never smoothed over.
 
 ## Practical strategies
 
@@ -43,7 +43,7 @@ Practice with vowel-heavy words:
 
 - `welao` (we.la.o): from mid-front **e** through open **a** to mid-back **o**
 - `nulae` (nu.la.e): from high-back **u** through open **a** to mid-front **e**
-- `lothea` (lo.the.a): the hiatus is **e** meeting **a** — two vowels, two syllables, one clean break
+- `lothea` (lo.the.a): the hiatus is **e** meeting **a**, two vowels, two syllables, one clean break
 
 The key is thinking of each vowel as having its own complete moment before the next begins.
 
