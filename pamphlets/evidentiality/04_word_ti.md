@@ -1,6 +1,6 @@
-# Part 4: Word — `ti`
+# Part 4: Word (`ti`)
 
-`ti` marks knowledge that reached you through another person. It is the evidential of community — nothing a household knows stays first-hand for long — and the one with the most working parts, because passing knowledge along is a chain, and chains have joints. The doctrine is the manual's (ch17, and ch20 for reported speech); the joints are practiced here.
+`ti` marks knowledge that reached you through another person. It is the evidential of community (nothing a household knows stays first-hand for long) and the one with the most working parts, because passing knowledge along is a chain, and chains have joints. The doctrine is the manual's (ch17, and ch20 for reported speech); the joints are practiced here.
 
 ### The plain relay
 
@@ -10,7 +10,7 @@ snake REP be. siora 1SG tell.
 (There is a snake — so I am told. siora told me.)
 ```
 
-sulae's line from the primer is the complete pattern: claim marked `ti`, source named unmarked. Like `ke`'s two-sentence habit, naming the source is not grammar — it is craft. A bare `ti` answers *how do you know?* with "someone said"; a sourced `ti` answers the next question before it comes.
+sulae's line from the primer is the complete pattern: claim marked `ti`, source named unmarked. Like `ke`'s two-sentence habit, naming the source is not grammar: it is craft. A bare `ti` answers *how do you know?* with "someone said"; a sourced `ti` answers the next question before it comes.
 
 ### Three tools, three jobs
 
@@ -30,7 +30,7 @@ sulae QUOT.COMP 3SG PST go QUOT.COMP.CLOSE PST speak.
 (sulae said: "They left.")
 ```
 
-The first is *your* claim, wearing its secondhand pedigree; the teller has left the sentence. The second reports the content of sulae's saying; the saying is the event. The third carries her exact words in the quotation frame. Moving between the three is the chapter's core drill: same fact, three commitments. Notice what shifts — in `ti` you assert the fact; in `mena` and `shola` you assert only the *telling*.
+The first is *your* claim, wearing its secondhand pedigree; the teller has left the sentence. The second reports the content of sulae's saying; the saying is the event. The third carries her exact words in the quotation frame. Moving between the three is the chapter's core drill: same fact, three commitments. Notice what shifts: in `ti` you assert the fact; in `mena` and `shola` you assert only the *telling*.
 
 ### Layered knowing
 
@@ -42,7 +42,7 @@ mia ti mena shia so wepu meno shemui.
 (I am told that they said they would go.)
 ```
 
-Read it from the outside in: I pass along (`ti`) a report (`mena…meno`) of a departure that was future at the time of its telling (`so`, relative to the saying — ch20's tense rule). Every remove from the event is visible on the page. Phi cannot stop a rumor, but it refuses to let a rumor dress as testimony.
+Read it from the outside in: I pass along (`ti`) a report (`mena…meno`) of a departure that was future at the time of its telling (`so`, relative to the saying, per ch20's tense rule). Every remove from the event is visible on the page. Phi cannot stop a rumor, but it refuses to let a rumor dress as testimony.
 
 ### The chain in practice
 
@@ -66,7 +66,7 @@ Each speaker marks their own distance and no one else's. The child owes `hi` and
 
 ### When `ti` would insult the obvious
 
-The manual is clear that general knowledge goes unmarked, and the boundary is social as much as grammatical. `sorae phelo loa.` (The sun gives light.) needs no `ti`, though someone once taught you. Marking the commonplace implies your listener might doubt it — or that you do. Save `ti` for the news, where the chain is short enough to matter.
+The manual is clear that general knowledge goes unmarked, and the boundary is social as much as grammatical. `sorae phelo loa.` (The sun gives light.) needs no `ti`, though someone once taught you. Marking the commonplace implies your listener might doubt it, or that you do. Save `ti` for the news, where the chain is short enough to matter.
 
 ### Drill: keep the chain honest
 

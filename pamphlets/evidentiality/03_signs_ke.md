@@ -1,10 +1,10 @@
-# Part 3: Signs — `ke`
+# Part 3: Signs (`ke`)
 
-`ke` marks the claim your reasoning reached from evidence your senses gathered. It is the working evidential of daily life, because most of what anyone "knows" arrived exactly this way — through traces, patterns, and absences. The manual (ch17) owns the definition; the skill here is the *two-sentence habit*.
+`ke` marks the claim your reasoning reached from evidence your senses gathered. It is the working evidential of daily life, because most of what anyone "knows" arrived exactly this way: through traces, patterns, and absences. The manual (ch17) owns the definition; the skill here is the *two-sentence habit*.
 
 ### The two-sentence habit
 
-The elder at the well does not just conclude — the elder shows the work:
+The elder at the well does not just conclude. The elder shows the work:
 
 ```
 suliwa ke nai. mia suliwa ma nila. mia ruela mua muila nila.
@@ -12,7 +12,7 @@ snake INFER be. 1SG snake NEG see. 1SG path LOC earth see.
 (There is a snake — I infer it. I do not see the snake. I see the trail in the earth.)
 ```
 
-Claim with `ke`, then evidence unmarked. This is the pattern to drill until it is a reflex, because it is what makes `ke` conversationally complete: a `ke` claim invites the question *what did you see?*, and a good speaker answers it before it is asked. The manual's dispute scene runs on exactly this exchange — `thia hina ke nila.` (what did you infer from?) is a real question in Phi, and having an answer ready is part of what the particle means.
+Claim with `ke`, then evidence unmarked. This is the pattern to drill until it is a reflex, because it is what makes `ke` conversationally complete: a `ke` claim invites the question *what did you see?*, and a good speaker answers it before it is asked. The manual's dispute scene runs on exactly this exchange: `thia hina ke nila.` (what did you infer from?) is a real question in Phi, and having an answer ready is part of what the particle means.
 
 ### Absence is evidence too
 
@@ -40,7 +40,7 @@ rain PST INFER fall. earth ABL water be.
 (It rained — I infer. The ground is wet.)
 ```
 
-Hearing rain on the roof is witness — sound is the event's own body. Wet ground an hour later is inference. Between them lies a gradient every speaker walks daily; the particles do not remove the judgment, they *record* it.
+Hearing rain on the roof is witness: sound is the event's own body. Wet ground an hour later is inference. Between them lies a gradient every speaker walks daily; the particles do not remove the judgment, they *record* it.
 
 ### Drill: mark the claim, not the evidence
 
@@ -71,4 +71,4 @@ Answers (one good version each; yours may differ in vocabulary, not in placement
    (You must be weary — I can see it.)
 ```
 
-Item 4 has no second sentence, and that is a lesson in itself: when the evidence is the other person's own face, saying it aloud can be an intrusion. `ke` alone does the honest work — it admits the reading without conducting the examination in public. Part 5 returns to this courtesy from the other side.
+Item 4 has no second sentence, and that is a lesson in itself: when the evidence is the other person's own face, saying it aloud can be an intrusion. `ke` alone does the honest work: it admits the reading without conducting the examination in public. Part 5 returns to this courtesy from the other side.

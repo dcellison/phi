@@ -4,11 +4,11 @@
 
 ---
 
-*Phi Language Series — Pamphlet 3*
+*Phi Language Series: Pamphlet 3*
 
 ---
 
-This pamphlet practices Phi's four evidential particles — `hi` (I witnessed it), `ke` (I infer it), `ti` (someone told me), `ho` (I assume it) — until choosing among them is as unconscious as choosing a tense. The machinery is the manual's: chapter 17 owns the doctrine, and this pamphlet never restates what it can point to. What the manual cannot give you is volume, and volume is what turns a grammatical option into a habit of mind.
+This pamphlet practices Phi's four evidential particles (`hi`, I witnessed it; `ke`, I infer it; `ti`, someone told me; `ho`, I assume it) until choosing among them is as unconscious as choosing a tense. The machinery is the manual's: chapter 17 owns the doctrine, and this pamphlet never restates what it can point to. What the manual cannot give you is volume, and volume is what turns a grammatical option into a habit of mind.
 
 The primer's last grammar chapter ends on the sentence this pamphlet serves: *Phi does not ask you to be certain. It asks you to be exact about how you are not.* Exactness under uncertainty is a skill, and skills are built by repetition. Expect drills.
 
@@ -22,7 +22,7 @@ By the end of this pamphlet, you will:
 - Say true things about other minds without trespassing on them
 - Keep a journal in the three-line form, where evidentiality does its quietest work
 
-This pamphlet assumes the particle system (manual ch11), tense and aspect (ch15), and the complementizers (ch20) — the reportative chapter leans on that last one. It is a companion to manual Part IV, chapter 17.
+This pamphlet assumes the particle system (manual ch11), tense and aspect (ch15), and the complementizers (ch20); the reportative chapter leans on that last one. It is a companion to manual Part IV, chapter 17.
 
 ---
 
@@ -41,4 +41,4 @@ This pamphlet assumes the particle system (manual ch11), tense and aspect (ch15)
 
 ---
 
-*"theula miona shewo haolu." — everyone spoke truly. Not everyone knew the same way; that is the point.*
+*"theula miona shewo haolu." Everyone spoke truly. Not everyone knew the same way; that is the point.*

@@ -35,7 +35,7 @@ One fact, four honest speakers. The claim never changes; the speaker's location 
 
 - Memory of witnessing is still `hi`; reconstruction is `ke`.
 - Sound and smell witness their own events; what they merely indicate is `ke`.
-- A witness's `hi` becomes your `ti` — reliability travels, witnesshood does not.
+- A witness's `hi` becomes your `ti`: reliability travels, witnesshood does not.
 - Your own inner life goes bare; other minds take `ke`, `ho`, or a question.
 - Evidence about the case is `ke`; knowledge about the kind is `ho`.
 - `ho` grades your belief; `po` describes the world's possibilities.
@@ -57,7 +57,7 @@ suliwa ho wepu. suliwa lo miona ma lothea.
 
 ### The journal triad
 
-Witness (`hi`) — feeling (bare) — wish (`su`). One line each; audit weekly for unearned marks (Part 7).
+Witness (`hi`), feeling (bare), wish (`su`). One line each; audit weekly for unearned marks (Part 7).
 
 ### Vocabulary of this pamphlet
 
@@ -79,4 +79,4 @@ Witness (`hi`) — feeling (bare) — wish (`su`). One line each; audit weekly f
 - The stack: manual ch11 (particle system), ch15 (tense and aspect).
 - Reported speech and layering: manual ch20; `documents/grammar/particle_reference.md` for the full Slot 1 inventory.
 - The journal form: manual ch25 §2.
-- The story this pamphlet keeps returning to: primer chapter 24, `hi ke ti ho` — the snake, the well, and four people who all spoke truly.
+- The story this pamphlet keeps returning to: primer chapter 24, `hi ke ti ho`: the snake, the well, and four people who all spoke truly.

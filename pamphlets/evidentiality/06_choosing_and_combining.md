@@ -4,21 +4,21 @@ The four particles are simple alone. Fluency is the seams: the cases that sit be
 
 ### Boundary cases, adjudicated
 
-Serious speakers ask these sooner or later; here are the adjudications the system itself implies, each reasoned from the boundary rule — *what did your senses actually meet?*
+Serious speakers ask these sooner or later; here are the adjudications the system itself implies, each reasoned from the boundary rule: *what did your senses actually meet?*
 
-**Memory.** You saw it yesterday; you claim it today. Still `hi` — witnessing does not expire, only tense moves: `mia suliwa to hi nila.` (I saw the snake — myself, then.) If your memory has gone soft enough that you are reconstructing rather than recalling, you have crossed into `ke`, and the honest sentence says so.
+**Memory.** You saw it yesterday; you claim it today. Still `hi`. Witnessing does not expire, only tense moves: `mia suliwa to hi nila.` (I saw the snake, myself, then.) If your memory has gone soft enough that you are reconstructing rather than recalling, you have crossed into `ke`, and the honest sentence says so.
 
 **Your own inner life.** No particle is needed and none fits well: `mia siora phaelo.` (I feel joy.) You are not witnessing your joy across a gap; you are having it. First-person feeling is the one place where bare assertion is the *most* honest form.
 
 **Dreams.** `mia mua whemura suliwa to nila.` (In my dream I saw a snake.) The dream frame does the epistemic work; inside it, dream-witnessing is witnessing. What you may not do is carry dream-knowledge out of the frame and mark it `hi` at the breakfast table.
 
-**Sound, smell, and the indirect senses.** Hearing the rain is `hi` — the sound is the event's own body. Smelling smoke and claiming fire is `ke` — the smoke is a trace, however fresh. The nose witnesses smoke; the mind supplies fire.
+**Sound, smell, and the indirect senses.** Hearing the rain is `hi`: the sound is the event's own body. Smelling smoke and claiming fire is `ke`: the smoke is a trace, however fresh. The nose witnesses smoke; the mind supplies fire.
 
 **Being told by a witness.** Your source's certainty does not transfer. The child's `hi` is your `ti`, forever. Reliability can travel; witnesshood cannot.
 
 ### Evidentials under negation
 
-Negation follows the evidential in the stack, and the meaning follows the order — the evidence governs the denial:
+Negation follows the evidential in the stack, and the meaning follows the order; the evidence governs the denial:
 
 ```
 shia to hi ma wepu.
@@ -30,11 +30,11 @@ shia to ti ma wepu.
 (They did not leave — so I am told.)
 ```
 
-Witnessed absence is strong testimony; reported absence is only relayed. Drill the pair until the placement feels inevitable: the evidential is never negated — it locates the speaker; the deed is what is denied.
+Witnessed absence is strong testimony; reported absence is only relayed. Drill the pair until the placement feels inevitable: the evidential is never negated; it locates the speaker, and the deed is what is denied.
 
 ### Evidentials in questions
 
-`wa` opens a question, and an evidential inside it does elegant work — it asks not just *whether* but *how the answerer knows*:
+`wa` opens a question, and an evidential inside it does elegant work. It asks not just *whether* but *how the answerer knows*:
 
 ```
 wa thia suliwa hi nila.
@@ -46,7 +46,7 @@ Q snake REP be.
 (Is the snake a thing people are saying?)
 ```
 
-The first is the household's verification move — the question the elder is really settling by walking to the well. The second asks about the chain itself. A question can request evidence-of-a-kind, and a good answer pays in the coin requested.
+The first is the household's verification move: the question the elder is really settling by walking to the well. The second asks about the chain itself. A question can request evidence-of-a-kind, and a good answer pays in the coin requested.
 
 ### Switching sources mid-story
 
@@ -58,11 +58,11 @@ mia suliwa hi nila. sulae ti sano. wheo ke sano. phao ho sano.
 (I saw it myself. sulae knew by telling. The elder knew by signs. The parent knew by expectation.)
 ```
 
-Four clauses, four sources, one true story. Note the discipline: the child does not average the household's knowledge into one confident claim. Each knowing keeps its own passport. Practice retelling any shared event this way — who knew, and how — and the particles will start arriving unbidden.
+Four clauses, four sources, one true story. Note the discipline: the child does not average the household's knowledge into one confident claim. Each knowing keeps its own passport. Practice retelling any shared event this way (who knew, and how) and the particles will start arriving unbidden.
 
 ### The fifth choice: silence
 
-Omission is a marking too. The unmarked sentence says *this needs no pedigree* — table talk, shared sights, settled knowledge. A speaker who marks everything has misunderstood the system as thoroughly as one who marks nothing; constant `hi` is swagger, constant `ho` is hedging, and both drown the signal. The evidentials are salt, not water. The primer's household uses four in one chapter because that chapter is *news*; most chapters of a life are not.
+Omission is a marking too. The unmarked sentence says *this needs no pedigree*: table talk, shared sights, settled knowledge. A speaker who marks everything has misunderstood the system as thoroughly as one who marks nothing; constant `hi` is swagger, constant `ho` is hedging, and both drown the signal. The evidentials are salt, not water. The primer's household uses four in one chapter because that chapter is *news*; most chapters of a life are not.
 
 ### Drill: the braided retelling
 
