@@ -21,11 +21,11 @@ mia mena shia to wepu meno shelomui
 ```
 
 Breaking this down:
-- `mia` — main clause subject (I)
-- `mena` — opens embedded statement
-- `shia to wepu` — embedded clause: they left
-- `meno` — closes embedded statement
-- `shelomui` — main verb (understand)
+- `mia`: main clause subject (I)
+- `mena`: opens embedded statement
+- `shia to wepu`, embedded clause: they left
+- `meno`: closes embedded statement
+- `shelomui`: main verb (understand)
 
 ## Sound symbolism
 

@@ -122,9 +122,9 @@ The `-o` ending is rounded, complete, closing. It announces: something has ended
 
 This pattern is learnable after a single example. Once you know that `mena` opens and `meno` closes, you can predict that any unfamiliar complementizer ending in `-a` opens and its `-o` variant closes.
 
-And the pattern reaches past the three pairs. Look down the whole family: `rena` and `kona` also end in `-a`, and neither ever takes a closer — they are pure openers, whose closing is done by something else (the head noun; the call's own sentence-end). Within the frame family the rule has no exceptions: **-a means a frame is opening; -o means one just closed.** The manual's shape rule (ch10 §2) sorts Phi words by size — one syllable for slot particles, longer for everything else — and this is the frame words' own layer of that system: a small closed family of two-syllable words, twinned by vowel wherever they pair.
+And the pattern reaches past the three pairs. Look down the whole family: `rena` and `kona` also end in `-a`, and neither ever takes a closer: they are pure openers, whose closing is done by something else (the head noun; the call's own sentence-end). Within the frame family the rule has no exceptions: **-a means a frame is opening; -o means one just closed.** The manual's shape rule (ch10 §2) sorts Phi words by size (one syllable for slot particles, longer for everything else), and this is the frame words' own layer of that system: a small closed family of two-syllable words, twinned by vowel wherever they pair.
 
-Why two syllables, when the slot particles get one? Because these are the words a listener can least afford to miss. A slot particle is frequent and cushioned by position — `to` always stands in its stack before the verb, and context catches it if the ear does not. A closer lands mid-sentence, between two verbs, exactly where a lost syllable garden-paths the entire parse — and frames are rare enough that their extra length costs little and pays out every time. The language spends its shortest forms on the commonest, most cushioned work, and its sturdiest forms on the boundaries. That is the allocation a communications engineer would choose on purpose, and Phi chose it.
+Why two syllables, when the slot particles get one? Because these are the words a listener can least afford to miss. A slot particle is frequent and cushioned by position: `to` always stands in its stack before the verb, and context catches it if the ear does not. A closer lands mid-sentence, between two verbs, exactly where a lost syllable garden-paths the entire parse, and frames are rare enough that their extra length costs little and pays out every time. The language spends its shortest forms on the commonest, most cushioned work, and its sturdiest forms on the boundaries. That is the allocation a communications engineer would choose on purpose, and Phi chose it.
 
 ## Matched parentheses
 
@@ -184,7 +184,7 @@ Understanding *why* the system works this way helps you use it correctly:
 
 5. Nest fearlessly. Because closers match openers one-to-one, you can embed as deeply as meaning requires without losing track.
 
-The system is designed to make complexity manageable. Learn the pairs, trust the boundaries, and even intricate sentences become parseable.
+The system is designed to make complexity manageable. Learn the pairs, trust the boundaries, and even deeply nested sentences become parseable.
 
 ---
 
