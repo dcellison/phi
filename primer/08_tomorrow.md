@@ -1,6 +1,6 @@
 # 8 · melu so shua
 
-*Where* to *looks back,* **so** *looks forward — same position, touching the verb, announcing that the doing is still ahead. And one small gift in this chapter costs you nothing:* lo mia *— many-I — is how Phi says* we. *You have owned both pieces since chapter three.*
+*Where* to *looks back,* **so** *looks forward: same position, touching the verb, announcing that the doing is still ahead. And one small gift in this chapter costs you nothing:* lo mia *(many-I) is how Phi says* we. *You have owned both pieces since chapter three.*
 
 ## I
 
@@ -20,7 +20,7 @@
 | muholi | mu · ho · li | dig |
 | thinoe | thi · no · e | seed |
 
-*A friend will come; we will dig the earth; we will give seeds to the earth — that is how Phi plants: giving,* wei muila, *to the earth as to a friend. Rain will fall, the sun will give light, and the flowers will rise. Six sentences, and a whole garden stands in the future.*
+*A friend will come; we will dig the earth; we will give seeds to the earth. That is how Phi plants: giving,* wei muila, *to the earth as to a friend. Rain will fall, the sun will give light, and the flowers will rise. Six sentences, and a whole garden stands in the future.*
 
 ## II
 
@@ -33,7 +33,7 @@
 > **lopia thinoe kolua.**
 > **lopia wei muila thinoe loa.**
 
-*Notice the friend's question still carries* so *— at the door, the digging is still ahead — and four sentences later it is simply happening, unmarked, now. Tomorrow keeps turning into today; the particles keep up.*
+*Notice the friend's question still carries* so *: at the door, the digging is still ahead, and four sentences later it is simply happening, unmarked, now. Tomorrow keeps turning into today; the particles keep up.*
 
 ## III
 
@@ -56,7 +56,7 @@
 |---|---|---|
 | shero | she · ro | night |
 
-*Will the flowers rise? They will. The elder says it the way elders say such things — with the same words the child used, returned in the same order, and no doubt anywhere in them. Night comes; we sleep; the night shift clocks in.*
+*Will the flowers rise? They will. The elder says it the way elders say such things: with the same words the child used, returned in the same order, and no doubt anywhere in them. Night comes; we sleep; the night shift clocks in.*
 
 ---
 

@@ -1,6 +1,6 @@
 # 11 · kelua
 
-*The last two aspects.* **pa** *marks a doing at its beginning — the first moment of it — and* **ro** *marks a doing that happens as a habit, the way a household breathes. Together they hold a morning: things starting, and things that start every day.*
+*The last two aspects.* **pa** *marks a doing at its beginning (the first moment of it), and* **ro** *marks a doing that happens as a habit, the way a household breathes. Together they hold a morning: things starting, and things that start every day.*
 
 ## I
 
@@ -15,7 +15,7 @@
 | pa | pa | (before the verb: it begins) |
 | maeli | ma · e · li | quiet |
 
-*Morning comes; the sun begins to rise; the birds begin to sing; the house is quiet. pa catches things at their edge — not risen, rising; the first note, not the song.*
+*Morning comes; the sun begins to rise; the birds begin to sing; the house is quiet. pa catches things at their edge: not risen, rising; the first note, not the song.*
 
 ## II
 
@@ -38,7 +38,7 @@
 > **lopia rihe.**
 > **lo miona pa nuola.**
 > **sorae phelo pa loa.**
-> **philo pa shua.** — *one new word early:* philo, *day. The day begins to arrive. Chapter twelve will make much of it.*
+> **philo pa shua.** *One new word early:* philo, *day. The day begins to arrive. Chapter twelve will make much of it.*
 
 *Breakfast begins; the light begins; the day begins. Three beginnings, one particle, and the household is underway.*
 
@@ -48,7 +48,7 @@
 > **lopia maeli whunei.**
 > **thia whunei.**
 
-*Look at* maeli *standing before the verbs: a describing word placed before a doing describes the doing — quietly breathing, the way* thiku pelori *was a small bird. And then the last line, which is not about the household at all. It is about you. Take it as the book's first request: one breath, at reading pace, before you go on.*
+*Look at* maeli *standing before the verbs: a describing word placed before a doing describes the doing; quietly breathing, the way* thiku pelori *was a small bird. And then the last line, which is not about the household at all. It is about you. Take it as the book's first request: one breath, at reading pace, before you go on.*
 
 ---
 

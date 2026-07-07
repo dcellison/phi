@@ -1,6 +1,6 @@
 # 9 · luphore
 
-*Tense says when; this chapter begins* aspect, *which says how the doing sits in its time.* **si** *marks a doing as ongoing — still unfolding as you speak. It stands where* to *and* so *stand, touching the verb. One afternoon, held open in the middle:*
+*Tense says when; this chapter begins* aspect, *which says how the doing sits in its time.* **si** *marks a doing as ongoing: still unfolding as you speak. It stands where* to *and* so *stand, touching the verb. One afternoon, held open in the middle:*
 
 ## I
 
@@ -18,7 +18,7 @@
 | wile | wi · le | play |
 | wishe | wi · she | swim |
 
-*The parent is weaving, the elder is walking, the child is playing, the dog is swimming — five lives mid-motion at once, which is what* si *is for. The fifth line you could have written yourself.*
+*The parent is weaving, the elder is walking, the child is playing, the dog is swimming: five lives mid-motion at once, which is what* si *is for. The fifth line you could have written yourself.*
 
 ## II
 
@@ -49,7 +49,7 @@
 > **lopia lue luphore shua.**
 > **lohau lue luphore shua.**
 
-*The chapter's one metaphor, and it is an old and honest one: the sun falls. Evening; the birds come home, and so does everyone else — wet, in one case, and entirely satisfied about it.*
+*The chapter's one metaphor, and it is an old and honest one: the sun falls. Evening; the birds come home, and so does everyone else (wet, in one case, and entirely satisfied about it).*
 
 ---
 

@@ -1,6 +1,6 @@
 # 7 · pheralu to lepa
 
-*Part II begins with time. Phi keeps time in small words that stand immediately before the verb — announce the when, then deliver the doing. The first is* **to**: *the event is over; you are looking back at it. An unmarked verb is now; a* to *verb is then. Yesterday there was a storm.*
+*Part II begins with time. Phi keeps time in small words that stand immediately before the verb: announce the when, then deliver the doing. The first is* **to**: *the event is over; you are looking back at it. An unmarked verb is now; a* to *verb is then. Yesterday there was a storm.*
 
 ## I
 
@@ -32,7 +32,7 @@
 |---|---|---|
 | thero | the · ro | fire |
 
-*Soup was made and eaten while the storm worked. The third line deserves a slow look: the fire gave light —* phelo to loa *— and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
+*Soup was made and eaten while the storm worked. The third line deserves a slow look: the fire gave light (*phelo to loa*), and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
 
 ## III
 
@@ -57,7 +57,7 @@
 > phao: **lia. mia mua womu to nulae. lohau to nulae. misheko to nulae.**
 > lopia: **misheko nulae.**
 
-*Did rain fall? It fell. Did you sleep? We all slept. The child's last line drops the* to *— the cat slept, the cat sleeps, and the tense hardly seems worth marking. Some truths sit outside of time.*
+*Did rain fall? It fell. Did you sleep? We all slept. The child's last line drops the* to*: the cat slept, the cat sleeps, and the tense hardly seems worth marking. Some truths sit outside of time.*
 
 ---
 

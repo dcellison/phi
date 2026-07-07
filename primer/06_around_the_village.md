@@ -1,6 +1,6 @@
 # 6 · silawo
 
-*The last chapter of Part I leaves the house. Two direction words carry it:* **lue** *— from — and* **wei** *— to, for — and like* mua *they announce before they deliver: first the relation, then the place or person it points at, then the rest of the sentence. With them come the verbs of going and coming, and the two verbs this language may care about most: giving and receiving.*
+*The last chapter of Part I leaves the house. Two direction words carry it:* **lue** *— from, and* **wei** *— to, for. Like* mua*, they announce before they deliver: first the relation, then the place or person it points at, then the rest of the sentence. With them come the verbs of going and coming, and the two verbs this language may care about most: giving and receiving.*
 
 ## I
 
@@ -30,7 +30,7 @@
 | shua | shu · a | come |
 | kolua | ko · lu · a | carry |
 
-*A friend at the village well — where friends are usually found — and the child carries water from it. Read that last sentence slowly: who, from where, what, and only then the doing. By now your ear waits for the verb without being told to.*
+*A friend at the village well (where friends are usually found), and the child carries water from it. Read that last sentence slowly: who, from where, what, and only then the doing. By now your ear waits for the verb without being told to.*
 
 ## III
 
@@ -46,7 +46,7 @@
 | howela | ho · we · la | receive |
 | mea | me · a | thanks |
 
-*The friend gives the child a flower —* wei lopia, *to the child, announced before the flower ever changes hands. The child receives it; thanks are said; the friend takes their leave. Small ceremony, complete grammar.*
+*The friend gives the child a flower:* wei lopia, *to the child, announced before the flower ever changes hands. The child receives it; thanks are said; the friend takes their leave. Small ceremony, complete grammar.*
 
 ## IV
 
@@ -60,12 +60,12 @@
 |---|---|---|
 | phelo | phe · lo | light |
 
-*Home again, and the flower is given onward — received at the well, delivered to the parent, worth more at each handing. And the last line is the language showing you its heart: Phi does not say the sun shines. It says* sorae phelo loa *— the sun gives light. The day's last giver is the biggest one.*
+*Home again, and the flower is given onward: received at the well, delivered to the parent, worth more at each handing. And the last line is the language showing you its heart: Phi does not say the sun shines. It says* sorae phelo loa *— the sun gives light. The day's last giver is the biggest one.*
 
 > **lopia nulae. lohau nulae. phao nulae. wheo nulae.**
 > **misheko rihe.**
 
-*Everyone sleeps. And the cat — the cat's day is just beginning.*
+*Everyone sleeps. And the cat: the cat's day is just beginning.*
 
 ---
 

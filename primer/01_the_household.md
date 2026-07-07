@@ -1,6 +1,6 @@
 # 1 · womu
 
-*One sentence shape lives in this chapter: a thing, then something true about it, then* **nai**. *That closing word is the quiet "is" of Phi — it arrives last, after you already know what is being said about what. Read each scene aloud twice.*
+*One sentence shape lives in this chapter: a thing, then something true about it, then* **nai**. *That closing word is the quiet "is" of Phi: it arrives last, after you already know what is being said about what. Read each scene aloud twice.*
 
 ## I
 
@@ -38,7 +38,7 @@
 | wheo | whe · o | elder |
 | melu | me · lu | friend |
 
-*Three people, one household. The child is small, the parent is large, and — read those last two lines again — in this house the parent and the elder are also friends.*
+*Three people, one household. The child is small, the parent is large, and (read those last two lines again) in this house the parent and the elder are also friends.*
 
 ## III
 
@@ -59,7 +59,7 @@
 
 ## IV
 
-*Now the child speaks — and* **mia** *means I, and* **thia** *means you.*
+*Now the child speaks.* **mia** *means I, and* **thia** *means you.*
 
 > lopia: **mia lopia nai. thia phao nai.**
 > phao: **mia phao nai. thia lopia nai.**
@@ -78,6 +78,6 @@
 
 ---
 
-*Read the whole chapter once more, aloud, a little slower than feels natural. Then close the book for today — small portions, held well, are how this language is meant to be taken in.*
+*Read the whole chapter once more, aloud, a little slower than feels natural. Then close the book for today: small portions, held well, are how this language is meant to be taken in.*
 
-*The machinery, when you want it:* **nai** *and the sentence of being are explained in the manual, Part IV, chapter 12 — The Mindful Sentence.*
+*The machinery, when you want it:* **nai** *and the sentence of being are explained in the manual, Part IV, chapter 12 (The Mindful Sentence).*
