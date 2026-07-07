@@ -32,6 +32,6 @@ Phi offers an alternative. It has no word for "break," so the observation stands
 
 This philosophy of restoration over punishment extends into the lexicon. Phi avoids words that frame justice as retribution. Instead, justice is defined through a restorative lens.
 
-The word for justice, `theloma`, builds from thoughtful deliberation meeting balanced resonance grounded in practical wisdom. A transgression isn't a crime to punish but a disharmony to guide back into balance. The word for forgiveness, `tholira`, doesn't imply pardoning a debt. Its components suggest releasing and letting go, a personal act of putting down the burden of resentment.
+The word for justice, `theloma`, doesn't rush: the breathed `th` asks for deliberation, and the word settles into its balanced center before it ever closes. A transgression isn't a crime to punish but a disharmony to guide back into balance. `tholira` (forgive) doesn't imply pardoning a debt; say it and feel the release instead, the gentle breath that opens it, the burden lifting through the liquid `li`, the warm outward reach of the closing `ra`. Forgiveness, spoken this way, sounds like exactly what it is: a letting go, not a transaction.
 
 These features work together: grammar defaulting to polite requests, passive voice that de-escalates blame, vocabulary defining justice as restoration. The language can't prevent someone from expressing harmful ideas. But it makes them work harder to do so. Peaceful communication becomes the path of least resistance.

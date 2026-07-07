@@ -26,8 +26,8 @@ The preference for soft fricatives (`ph`, `th`, `sh`, `wh`), flowing liquids (`l
 
 ## Words as living systems
 
-This aesthetic extends to the words themselves. The compositional nature of Phi's lexicon reflects Art Nouveau's love for organic systems. Like a vine winding around a trellis, complex ideas in Phi grow from simpler concepts.
+This aesthetic extends to the words themselves. The compositional nature of Phi's lexicon reflects Art Nouveau's love for organic systems, but the growth runs through sound-kinship, not through morpheme assembly: no word stands alone, and each keeps the company of its family.
 
-A word isn't an arbitrary label but a system of interconnected parts. The word for justice, `theloma`, is composed of deliberation (`the`) meeting balanced resonance (`lo`) grounded in practical wisdom (`ma`). The word for garden, `thepalu`, means a place of mindful cultivation opening into flowing abundance. Vocabulary becomes a web of meaning where complex ideas derive beauty from the elegance of their components.
+A word isn't an arbitrary label but part of a living system. `theloma` (justice) opens with the same breathed `th` as `theloa` (truth) and `thesua` (mindful), the family of words built on careful, unhurried attention. `thepalu` (garden) carries the sound of tending in every syllable: a considering breath, a seed pressed into soil, a liquid release outward. Vocabulary becomes a web of meaning, each word rooted in the sonic soil its kin already grow in, the way a vine finds purchase on the plant that grew there first.
 
 Speaking Phi is an act of aesthetic creation. Function and form are inseparable. The conviction behind this pillar: the thoughts we form are shaped by the beauty of the vessel that holds them. A language designed for peace should also be a pleasure to speak and hear.
