@@ -1,8 +1,8 @@
 # nitho howeli nela sorae — The North Wind and the Sun
 
 *The second complete text in Phi, and its first story. Aesop's fable is
-the text traditionally used to display the world's languages — the one
-linguists use to display a language's sounds and structures — and it
+the text traditionally used to display the world's languages (the one
+linguists use to display a language's sounds and structures), and it
 stresses everything the Metta Sutta (Phi's first text) did not:
 narrative past-tense chains, sequenced events, the causative, indirect
 questions, comparison, and reported agreement. A transmutation, not a
@@ -23,7 +23,7 @@ north wind COORD sun [who CMPR strong be] PST discuss.
 ```
 
 **Notes:** The embedded question "which was stronger" is an indirect
-question — an interrogative clause sitting in the object position of
+question: an interrogative clause sitting in the object position of
 `shareo` (discuss), exactly as the grammar chapter on subordination
 teaches. Note also what the vocabulary quietly did: English "disputing"
 became `shareo`, *discuss*. Phi has no word for quarreling, so the two
@@ -44,11 +44,11 @@ shia sulae wetha to phelu.
 (They held a warm cloth about them.)
 ```
 
-**Notes:** No word for "traveler" — and none needed: the pre-nominal
+**Notes:** No word for "traveler," and none needed: the pre-nominal
 relative `[rena laniru thalo] miona`, *a person who walks a journey*,
 introduces the character the way Phi introduced "beings" in the sutta.
 The cloak is a transmutation: `sulae wetha`, *warm cloth*, and
-"wrapped in" becomes `phelu` (hold) — the same verb that carries
+"wrapped in" becomes `phelu` (hold), the same verb that carries
 possession and the boundless heart. What you wear is what you hold
 close; the fable will turn on exactly this.
 
@@ -68,9 +68,9 @@ relative clause containing a causative, nested inside a `mena…meno`
 declarative frame. Read it modifier-first and it unfolds without
 ambiguity: the frame opens (`mena`), the relative announces itself
 (`rena`), "first" (`nu ta`), then the causee, the object, the causative
-`ka`, the verb — clause closed by its head position, frame closed by
+`ka`, the verb; clause closed by its head position, frame closed by
 `meno`, main verb last. Every opener met its closer. "Take off"
-dissolves into `leiro`, *release* — the arithmetic verb of subtraction
+dissolves into `leiro`, *release*: the arithmetic verb of subtraction
 and the sutta's word for letting go. In Phi, undressing a cloak and
 releasing an attachment are the same gesture.
 
@@ -95,11 +95,11 @@ north wind PST CESS come. wind PST rest.
 ```
 
 **Notes:** Three adaptations. "Blow" has
-no word: the wind *came*, marked strong — which is what wind's blowing
+no word: the wind *came*, marked strong, which is what wind's blowing
 is. The famous correlative "the more… the more…" has no construction
 (Phi has no correlatives, by design), so it becomes two parallel `mo`
 sentences whose escalation the listener feels in the repetition.
-And "gave up" — a defeat idiom — becomes the cessative `te` followed
+And "gave up" (a defeat idiom) becomes the cessative `te` followed
 by `therilu`, *rest*: the wind does not lose; it stops, and rests.
 Phi keeps declining to score the contest, and the story survives
 perfectly well.
@@ -121,7 +121,7 @@ person now cloth PST release.
 
 **Notes:** "Shine" has no verb; the transmutation found something
 better: `phelo loa`, *to give light*. The sun does not perform at the
-traveler — it gives, the most Phi of all verbs, and the same `loa`
+traveler; it gives, the most Phi of all verbs, and the same `loa`
 that radiates love across the world in the Metta Sutta's eighth verse.
 The two texts are starting to quote each other.
 
@@ -136,7 +136,7 @@ north wind DECL.COMP sun CMPR strong be DECL.COMP.CLOSE PST acknowledge.
 (The North Wind acknowledged that the Sun was the stronger.)
 ```
 
-**Notes:** English needs "was obliged to confess" — defeat performed
+**Notes:** English needs "was obliged to confess": defeat performed
 with reluctance. Phi has `thekao`, *acknowledge*: the honest naming of
 what is so. No obligation, no humiliation; the wind simply says the
 true thing inside a properly closed `mena…meno` frame. It is the most
@@ -152,8 +152,8 @@ gentle strength exceed.
 (Gentleness exceeds strength.)
 ```
 
-**Notes:** Three words. `sharoi` is the value-neutral magnitude verb —
-"exceeds as a fact of measure, not a claim of victory" — so the moral
+**Notes:** Three words. `sharoi` is the value-neutral magnitude verb
+("exceeds as a fact of measure, not a claim of victory"), so the moral
 lands exactly as Aesop meant it and exactly as Phi insists: not
 *gentleness defeats strength*, but simply that, measured honestly,
 there is more of it.
@@ -189,7 +189,7 @@ moli puro sharoi.
 
 | Concept | Handling | Follow-up? |
 |---|---|---|
-| dispute / quarrel | `shareo` (discuss) — the language cooled the scene | None; the shift is the philosophy working |
+| dispute / quarrel | `shareo` (discuss), the language cooled the scene | None; the shift is the philosophy working |
 | traveler | `[rena laniru thalo] miona` (one who walks a journey) | None; relatives keep outperforming category nouns |
 | cloak / garment | `sulae wetha` (warm cloth) | Resolved: `wethalu` (garment) exists; the fable's phrase stands as description |
 | wear / wrap in | `phelu` (hold) | Acceptable and resonant; revisit if clothing vocabulary grows |
@@ -202,13 +202,13 @@ moli puro sharoi.
 ## What this text shows
 
 1. **Narrative works.** Chained past-tense clauses with `to`, sequenced
-   by `pheo` and `whekai`, carry a plot with no strain — a register
+   by `pheo` and `whekai`, carry a plot with no strain: a register
    the contemplative sutta does not visit.
 2. **Deep embedding works.** Scene 3's relative-inside-causative-
    inside-`mena` is the deepest nesting on the shelf, and the
    opener/closer system keeps it unambiguous on the first read.
 3. **The refusals compose.** No quarrel, no defeat, no victory
-   vocabulary — and the fable not only survives but arguably improves:
+   vocabulary, and the fable not only survives but arguably improves:
    discussion, rest, acknowledgment, and a moral stated as measurement.
    Aesop's point *is* Phi's point; the language just removes the
    bluster from the telling, which is what the Sun does in the story.
