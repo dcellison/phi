@@ -8,7 +8,7 @@ The reciprocal pronoun *wiso* expresses mutual action between members of a plura
 **lo thia wiso naphe.** — You (all) help each other.  
 **lo shia wiso sano.** — They know each other.
 
-The reciprocal indicates that the action flows in both directions among the participants. When we say *lo mia wiso lothea*, we mean that I love you and you love me, all of us loving all of us in mutual exchange.
+The reciprocal indicates that the action flows in both directions among the participants. When we say *lo mia wiso lothea*, we mean that I love you and you love me; all of us love all of us, in mutual exchange.
 
 ## Requires plural subject
 
