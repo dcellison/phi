@@ -157,12 +157,12 @@ lothea shelomui phue nai
 This pamphlet expands on **Chapter 21: Relative Clauses** in the Phi manual.
 
 Related chapters:
-- **Chapter 11: The Particle System** — how particles work in relative clauses
-- **Chapter 14: Pronouns** — topic-drop and when subjects can be omitted
-- **Chapter 20: Subordinate Clauses** — complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
+- **Chapter 11: The Particle System**, how particles work in relative clauses
+- **Chapter 14: Pronouns**, topic-drop and when subjects can be omitted
+- **Chapter 20: Subordinate Clauses**, complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
 
 Related grammar documents:
-- `complementizer_reference.md` — full reference for all complementizers including `rena`
+- `complementizer_reference.md`, full reference for all complementizers including `rena`
 
 ---
 
@@ -174,6 +174,6 @@ After completing this pamphlet:
 2. Find relative clauses in the example texts throughout the manual
 3. Practice translating simple English relative clauses daily
 4. Try writing a journal entry in Phi using relative clauses
-5. Listen for (or imagine) how Japanese handles relatives — same pre-nominal structure
+5. Listen for (or imagine) how Japanese handles relatives: same pre-nominal structure
 
 Pre-nominal relative clauses are ordinary grammar for speakers of Japanese, Korean, and Turkish. Phi asks nothing that hundreds of millions of people do not already do.

@@ -66,7 +66,7 @@ REL 3SG PST create story beautiful be
 (the story that they created is beautiful.)
 ```
 
-The headless form is grammatical — chapter 4 is full of them — but it says something more general than you intended. The error is not ungrammaticality; it is leaving your listener to guess a referent you had in mind. After every relative clause, ask: "Did I name what's being described, or is it truly obvious from context?"
+The headless form is grammatical (chapter 4 is full of them) but it says something more general than you intended. The error is not ungrammaticality; it is leaving your listener to guess a referent you had in mind. After every relative clause, ask: "Did I name what's being described, or is it truly obvious from context?"
 
 ### Error 4: Adding an unnecessary closer
 
@@ -212,4 +212,4 @@ Find and fix the errors in these sentences (careful: one of them is merely vague
 
 4. `rena` repeated as if it were a pronoun. `rena` appears once, at the beginning; the gap stays empty. Fix: `rena mia to nila shelu phelora nai` ("the book that i saw is beautiful")
 
-5. Not an error: `rena shia to thumela` is a valid headless relative — "i know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia rena shia to thumela lopia sano` ("i know the child whom they taught")
+5. Not an error: `rena shia to thumela` is a valid headless relative, "i know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia rena shia to thumela lopia sano` ("i know the child whom they taught")
