@@ -30,7 +30,7 @@ one horse person PST fast carry.
 (One carried a person, swiftly.)
 ```
 
-**Notes:** the three new words all arrive in the first breath — the wool-less wool-bearer, the striding `kalora`, the creaking `rolutha`. And one old word does quiet work: the original's *man* is `miona`, person. Like the Declaration before it, the fable loses its gendering in transit without losing anything else.
+**Notes:** the three new words all arrive in the first breath: the wool-less wool-bearer, the striding `kalora`, the creaking `rolutha`. And one old word does quiet work: the original's *man* is `miona`, person. Like the Declaration before it, the fable loses its gendering in transit without losing anything else.
 
 ### The sheep speaks
 
@@ -44,7 +44,7 @@ QUOT.COMP 1SG DECL.COMP person PL horse CAUS go DECL.COMP.CLOSE see. 1SG heart p
 ("I see that a person makes the horses go. My heart feels pain.")
 ```
 
-**Notes:** the causative carries the whole weight of "driving." `ka` makes the grammar say exactly what is happening — one will moving other bodies — and the particle's own entry frames it around agency and consent, so the sentence arrives already uneasy. The sheep's grief is the fable's oldest line, and in Phi it is three plain words: `korua kipona phaelo`.
+**Notes:** the causative carries the whole weight of "driving." `ka` makes the grammar say exactly what is happening (one will moving other bodies), and the particle's own entry frames it around agency and consent, so the sentence arrives already uneasy. The sheep's grief is the fable's oldest line, and in Phi it is three plain words: `korua kipona phaelo`.
 
 ### The horses answer
 
@@ -70,7 +70,7 @@ sheep NONE wool hold QUOT.COMP.CLOSE
 (And the sheep holds no wool.")
 ```
 
-**Notes:** here is the deliberate absence. Schleicher's horses say *the master* makes the wool into garments — the original grants the man a rank, and the rank half-excuses the taking. Phi has no such word to grant: the vocabulary of domination is refused by canon, and so the man can only be described by what he does — `rena pilu miona`, *the one who takes*, whose sentence then takes. Stripped of his title, the act stands in the open. The reflexive lands the point: `wei miso` — for *himself* — the fable's whole economy in one dative.
+**Notes:** here is the deliberate absence. Schleicher's horses say *the master* makes the wool into garments: the original grants the man a rank, and the rank half-excuses the taking. Phi has no such word to grant: the vocabulary of domination is refused by canon. So the man can only be described by what he does: `rena pilu miona`, *the one who takes*, whose sentence then takes. Stripped of his title, the act stands in the open. The reflexive lands the point: `wei miso`, for *himself*, the fable's whole economy in one dative.
 
 ### The fleeing
 
@@ -84,10 +84,10 @@ sheep ALL plain PST run.
 (The sheep ran away to the plain.)
 ```
 
-**Notes:** the famous ending, kept whole. The sheep does not argue, does not organize, does not stay — it flees the truth of its own shearing, and the fable's sting is that we understand. Phi could have softened this; the transmutation keeps it, because a language for facing things honestly should not look away first. `kau`, the young allative, carries the retreat.
+**Notes:** the famous ending, kept whole. The sheep does not argue, does not organize, does not stay: it flees the truth of its own shearing, and the fable's sting is that we understand. Phi could have softened this; the transmutation keeps it, because a language for facing things honestly should not look away first. `kau`, the young allative, carries the retreat.
 
 ---
 
 ## What the transmutation changed
 
-*Gap log: sheep → `mophira` (coined on `mophi`, wool); horse → `kalora` (coined by sound — hoofbeat rhythm); wagon → `rolutha` (coined on `rolu`, wheel); load → `lo tumoa themo` (composed: heavy things); man → `miona`, person (the fable de-gendered in passing); the master → **no word, by refusal** — `rena pilu miona`, the one who takes, a description where the original grants a title; drive → the causative `ka`, which says one will moving other bodies and lets the grammar's own consent-framing do the judging. Everything else — pull, pain, heart, wool, garment, plain, flee — the lexicon already held.*
+*Gap log: sheep → `mophira` (coined on `mophi`, wool); horse → `kalora` (coined by sound: hoofbeat rhythm); wagon → `rolutha` (coined on `rolu`, wheel); load → `lo tumoa themo` (composed: heavy things); man → `miona`, person (the fable de-gendered in passing); the master → **no word, by refusal**: `rena pilu miona`, the one who takes, a description where the original grants a title; drive → the causative `ka`, which says one will moving other bodies and lets the grammar's own consent-framing do the judging. Everything else (pull, pain, heart, wool, garment, plain, flee) the lexicon already held.*
