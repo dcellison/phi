@@ -20,11 +20,11 @@ One page of the whole system. Details: `documents/grammar/`; authority order: `/
 | Wish | su + statement | `su sila towe nai.` (May the community be well.) |
 | Need not | S lila V ralu nai | `thia lila wepu ralu nai.` (You need not go.) |
 
-Periods only — Phi writes no commas, question marks, or exclamation marks in any mode; the punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Topic-drop: an established subject may be omitted.
+Periods only: Phi writes no commas, question marks, or exclamation marks in any mode; the punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Topic-drop: an established subject may be omitted.
 
 ## The three slots
 
-**[Slot 0] [Subject] [Object] [Slot 1 stack] [Verb]** — Slot 2 attaches directly before the word it modifies.
+**[Slot 0] [Subject] [Object] [Slot 1 stack] [Verb]**. Slot 2 attaches directly before the word it modifies.
 
 | Slot | Function | Particles |
 |---|---|---|
