@@ -35,7 +35,7 @@ as," "stands as," "functions as," "represents." A sentence that avoids
 
 **4. No inflation.** Banned outright: *testament, pivotal, crucial,
 vital, profound, vibrant, rich (figurative), stunning, groundbreaking,
-perfectly embodies, crystal clear, seamless*. If a feature matters,
+perfectly embodies, crystal clear, seamless, load-bearing*. If a feature matters,
 show the sentence where it matters; the reader will supply the
 adjective.
 
@@ -62,7 +62,7 @@ Related: no generic uplift endings ("exciting journey ahead!"). End
 sections on a turn — a consequence, an image, a Phi line — or just
 end them.
 
-**9. Examples are load-bearing.** Every example is glossed, validated
+**9. Examples do the work.** Every example is glossed, validated
 against the lexicon, and chosen to advance the argument — not to
 decorate it. Reuse the living texts (the Metta Sutta, the fable) as
 touchstones; the manual should feel like it belongs to a language
@@ -112,7 +112,7 @@ sounds are honestly unremarkable, say less rather than inventing.
 **Grammatical notes**: at least one worked example using only real
 vocabulary in valid grammar (SOV, correct slot order, predicate
 before nai, periods not commas). Name related words and genuine
-contrasts. This field is load-bearing reference, not commentary.
+contrasts. This field is working reference, not commentary.
 
 **Pillars**: a word carries exactly the pillars that genuinely fit it —
 determined by the word itself, its meaning, its sound, its use. One

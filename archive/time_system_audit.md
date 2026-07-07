@@ -4,7 +4,7 @@ The survey behind the four time rulings in `/canon.md` — Phi's handling of tim
 
 ## The core is sound (untouched)
 
-Tense and aspect needed nothing. Manual ch15 teaches `to`/`so` (past/future, unmarked present) and the five aspects `si ki te pa ro`, with the ten-combination table in §5. Canon already carries the load-bearing rulings: main-clause tense is obligatory, embedded clauses mark tense relative to the matrix event, `ki` completes at the tense's reference time, `si` and `ro` do not overlap, and each Slot 1 rank admits one particle per clause. This commission touches none of it.
+Tense and aspect needed nothing. Manual ch15 teaches `to`/`so` (past/future, unmarked present) and the five aspects `si ki te pa ro`, with the ten-combination table in §5. Canon already carries the rulings that hold the system up: main-clause tense is obligatory, embedded clauses mark tense relative to the matrix event, `ki` completes at the tense's reference time, `si` and `ro` do not overlap, and each Slot 1 rank admits one particle per clause. This commission touches none of it.
 
 ## A vocabulary asleep in the lexicon
 

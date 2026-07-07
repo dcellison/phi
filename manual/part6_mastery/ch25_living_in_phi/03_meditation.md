@@ -1,6 +1,6 @@
 # Meditation and Phi
 
-Phi and sitting practice were designed for each other — the language's Buddhist pillar is not decoration but load-bearing structure. This section offers three ways the language and the cushion can share their work. None requires belief in anything; all require only breath and attention.
+Phi and sitting practice were designed for each other — the language's Buddhist pillar is not decoration but structure. This section offers three ways the language and the cushion can share their work. None requires belief in anything; all require only breath and attention.
 
 ## Phrase practice
 

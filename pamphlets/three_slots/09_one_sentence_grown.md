@@ -46,7 +46,7 @@ OPT garden grow.
 (May the garden grow.)
 ```
 
-No reproach arrives — a condition does, wearing `lu`, with `ro` inside it, because the elder is not asking for tomorrow's watering but for the pattern (Part 3's carve, load-bearing in consolation). And the child answers with the pattern promised, in the grid's own cell:
+No reproach arrives — a condition does, wearing `lu`, with `ro` inside it, because the elder is not asking for tomorrow's watering but for the pattern (Part 3's carve, earning its keep in consolation). And the child answers with the pattern promised, in the grid's own cell:
 
 ```
 theula philo mia so ro loa.

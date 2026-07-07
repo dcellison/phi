@@ -12,7 +12,7 @@ Because Phi structures ideas differently, moving a thought into it is not transl
 
 Phi does not aim to be a universal language. It won't replace English, Mandarin, or your mother tongue; it's a second way of thinking, not a substitute for the first.
 
-Phi does not claim philosophical completeness. Its five source traditions — Solarpunk's pragmatic optimism, Buddhist psychology, Art Nouveau's organic aesthetics, peace linguistics, pre-industrial wisdom — are load-bearing pillars, not final answers. The building stays open to new rooms.
+Phi does not claim philosophical completeness. Its five source traditions — Solarpunk's pragmatic optimism, Buddhist psychology, Art Nouveau's organic aesthetics, peace linguistics, pre-industrial wisdom — are pillars, not final answers. The building stays open to new rooms.
 
 And Phi does not promise to make you a better person. A tool can make some actions easier and others harder; the work remains yours. Speaking Phi will not dissolve anger — there's a chapter ahead on exactly what it does with anger instead. It offers a practice, not a spell.
 
