@@ -94,11 +94,7 @@ Here, after `kealo` (the embedded verb), we have `shelomui` (the main verb). Wit
 
 ## The structural principle
 
-We can state the principle clearly:
-
-**Closers are required when the embedded clause ends in a verb-like element and is followed by the main clause's verb.**
-
-**Closers are unnecessary when the embedded clause is bounded by a different structural element (like a head noun).**
+The principle: closers are required when the embedded clause ends in a verb-like element and is followed by the main clause's verb. They are unnecessary when the embedded clause is bounded by a different structural element instead, like a head noun.
 
 This is why:
 - `mena`/`meno` requires closer (embedded-verb followed by main-verb)
@@ -172,19 +168,9 @@ The vocative is **extra-clausal**. It exists outside the sentence structure enti
 
 ## Implications for learning
 
-Understanding *why* the system works this way helps you use it correctly:
+Understanding *why* the system works this way helps you use it correctly. Always pair openers with closers for `mena`, `wela`, and `shola`; there are no exceptions. Never add a closer after `rena`, since the head noun closes the relative clause on its own. Listen for the vowel shift: when you hear `-a` become `-o`, something has closed. If you are uncertain where a clause ends, trust the closer to tell you explicitly, and nest as deeply as meaning requires, since closers match openers one-to-one and the structure never loses track.
 
-1. Always pair openers with closers for `mena`, `wela`, and `shola`. There are no exceptions.
-
-2. Never add a closer after `rena`. The head noun closes the relative clause.
-
-3. Listen for the vowel shift. When you hear `-a` become `-o`, something has closed.
-
-4. Trust the structure. If you are uncertain where a clause ends, the closer tells you explicitly.
-
-5. Nest fearlessly. Because closers match openers one-to-one, you can embed as deeply as meaning requires without losing track.
-
-The system is designed to make complexity manageable. Learn the pairs, trust the boundaries, and even deeply nested sentences become parseable.
+Learn the pairs and trust the boundaries, and even deeply nested sentences become parseable.
 
 ---
 
