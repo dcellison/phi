@@ -1,6 +1,6 @@
 # Reported *ti*
 
-The particle *ti* marks information as received from another source. The speaker is passing along what they have heard, read, or been told, honestly acknowledging its secondhand nature.
+The particle *ti* marks information as received from another source. The speaker is passing along what they have heard, read, or been told, and honestly acknowledges its secondhand nature.
 
 ## Basic usage
 

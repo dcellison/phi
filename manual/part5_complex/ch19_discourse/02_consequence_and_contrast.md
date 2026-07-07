@@ -48,7 +48,7 @@ PL person speak. CONTR 3SG listen.
 (The people speak. However they listen.)
 ```
 
-Where `thona` (but) contrasts elements within a single sentence, `whekai` contrasts entire lines of thought across sentences. It carries more weight, signaling a genuine shift in perspective rather than a local tension.
+Where `thona` (but) contrasts elements within a single sentence, `whekai` contrasts entire lines of thought across sentences. It carries more weight: it signals a genuine shift in perspective rather than a local tension.
 
 ## Working together
 

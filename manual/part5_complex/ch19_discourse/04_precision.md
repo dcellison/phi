@@ -18,7 +18,7 @@ shia ma haolu. shorela shia maeli nai.
 (They do not speak. In other words they are quiet.)
 ```
 
-`shorela` doesn't introduce new information. It offers a second path to the same meaning, acknowledging that understanding sometimes requires multiple approaches. This is particularly useful when a speaker senses that their first formulation didn't land, or when a concept is complex enough to benefit from being seen from two angles.
+`shorela` doesn't introduce new information. It offers a second path to the same meaning: understanding sometimes requires multiple approaches. This is particularly useful when a speaker senses that their first formulation didn't land, or when a concept is complex enough to benefit from being seen from two angles.
 
 ## Specifying: `shekoi`
 
@@ -68,4 +68,4 @@ mia to theo nela to shonela. shelao mia shelomui.
 | `shekoi` | SPEC | specifically | narrow focus |
 | `shelao` | SUMM | in summary | distill |
 
-All seven occupy the same position: after Slot 0 particles, before the subject. They are road signs for the listener, announcing the shape of the thought before its content arrives.
+All seven occupy the same position: after Slot 0 particles, before the subject. They are road signs for the listener: they announce the shape of the thought before its content arrives.

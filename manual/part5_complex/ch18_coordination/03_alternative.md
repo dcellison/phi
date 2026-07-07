@@ -1,6 +1,6 @@
 # Alternative: `sola`
 
-The third conjunction, `sola`, presents alternatives. It is Phi's "or," offering a choice between possibilities without forcing a decision.
+The third conjunction, `sola`, presents alternatives. It is Phi's "or": it offers a choice between possibilities without forcing a decision.
 
 ```
 mia theo sola sheluo.

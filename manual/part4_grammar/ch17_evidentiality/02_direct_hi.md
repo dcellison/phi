@@ -12,7 +12,7 @@ The *hi* particle emphasizes that the speaker has firsthand sensory knowledge, n
 
 ## When to use *hi*
 
-An unmarked sentence claims no source. For a present, perceivable event — *mia nila*, I see — direct perception is the natural assumption, but only *hi* claims it, and takes on the accountability of the claim. So when is *hi* worth spending?
+An unmarked sentence claims no source. For a present, perceivable event (*mia nila*, I see), direct perception is the natural assumption, but only *hi* claims it, and takes on the accountability of the claim. So when is *hi* worth spending?
 
 Use *hi* when:
 - You want to emphasize the directness of your knowledge

@@ -59,7 +59,7 @@ These statements communicate expectations without overclaiming.
 
 ## Sound and meaning
 
-The *ho* particle opens with an aspirated *h*, creating a soft, uncertain beginning, the sound of breath without strong commitment. The round *o* that follows is expansive but gentle, like a shrug, suggesting possibility rather than assertion. The overall effect is softer than the other evidentials, matching its lower epistemic status.
+The *ho* particle opens with an aspirated *h*: a soft, uncertain beginning, the sound of breath without strong commitment. The round *o* that follows is expansive but gentle, like a shrug; it suggests possibility rather than assertion. The overall effect is softer than the other evidentials, matching its lower epistemic status.
 
 ## Assumption and peace
 
