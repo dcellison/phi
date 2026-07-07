@@ -74,10 +74,9 @@ The 2021 source embeds three specimens, recovered codepoint by codepoint:
 
 ## Tooling
 
-The font is Tengwar Telcontar (freetengwar.sourceforge.net), a Unicode/Graphite font using the CSUR tengwar block; correct rendering needs a Graphite-aware application. The same project provides the keyboard layout the keypress columns assume. An Obsidian CSS snippet (`.tengwar` class) is in `recovered/`. Binaries were deliberately not re-committed; recover them from history at will:
+The font is Tengwar Telcontar (freetengwar.sourceforge.net), by Johan Winge, a Unicode/Graphite font using the CSUR tengwar block; correct rendering in a word processor needs a Graphite-aware application, but the site's own renderer (below) draws glyph outlines directly and needs no shaping engine at all. The same project provides the keyboard layout the keypress columns assume. An Obsidian CSS snippet (`.tengwar` class) is in `recovered/`. The regular weight is vendored at `writing_systems/fonts/TengwarTelcontar.ttf` (GNU GPL, per the font's own name table); recover the bold weight or the original manual PDF from history at will:
 
 ```
-git show fde058a:old/latex/fonts/tengtelc.ttf  > tengtelc.ttf
 git show fde058a:old/latex/fonts/tengtelcb.ttf > tengtelcb.ttf
 git show fde058a:old/latex/source/manual.pdf   > manual.pdf
 ```
@@ -96,7 +95,7 @@ The 2021 mode met current Phi, and Daniel ruled on every gap:
 
 The full-corpus test (old agenda item 5) is live: every Phi line on the texts shelf is rendered to Tengwar at build time and the shelf's `tengwar` toggle switches scripts. The pipeline is pure geometry — no shaping engine, so it is identical in every browser:
 
-- `writing_systems/fonts/` — Tengwar Formal CSUR 1.1, vendored under its SIL OFL 1.1 license (see `OFL.txt`).
+- `writing_systems/fonts/` — Tengwar Telcontar 0.08 by Johan Winge, vendored under the GNU GPL (see the font's own name table for the license statement).
 - `scripts/extract_tengwar_glyphs.py` — one-off: pulls the mode's 28 glyph outlines, advances, and boxes into `writing_systems/tengwar_glyphs.json` (committed, so CI needs no font tooling).
 - `scripts/tengwar.py` — parses romanized Phi into (tengwa, above, below) units per this mode and assembles self-contained SVG (`currentColor` fill, so the theme toggle applies).
 - `scripts/build_explorer.py` — wraps each Phi line in the texts as romanization plus SVG; `web/tengwar.js` remembers the reader's choice.
