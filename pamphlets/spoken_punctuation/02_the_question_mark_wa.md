@@ -1,6 +1,6 @@
 # Part 2: The question mark: `wa`
 
-`wa` is a Slot 0 particle (manual ch11 §3, ch12 §5): it stands at the very front and declares the whole sentence a question before one word of content arrives. English's question mark is terminal — a sentence can impersonate a statement until its last glyph, and spoken English patches the gap with a rising tone and luck. Phi's question mark is the first thing out of your mouth. The listener consents to be asked before they have heard what.
+`wa` is a Slot 0 particle (manual ch11 §3, ch12 §5): it stands at the very front and declares the whole sentence a question before one word of content arrives. English's question mark is terminal: a sentence can impersonate a statement until its last glyph, and spoken English patches the gap with a rising tone and luck. Phi's question mark is the first thing out of your mouth. The listener consents to be asked before they have heard what.
 
 ```
 wa thia towe nai.
@@ -16,7 +16,7 @@ The second line is the choice question (ch18 §3): `wa` frames the whole, `sola`
 
 ### The questions that need no `wa`
 
-Content questions carry their own announcement: the gap-word — `sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how — stands exactly where the unknown belongs, and its presence *is* the question (ch12 §5).
+Content questions carry their own announcement: the gap-word (`sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how) stands exactly where the unknown belongs, and its presence *is* the question (ch12 §5).
 
 ```
 thia hina nila.
@@ -44,7 +44,7 @@ mia kua ne sulae nai ma sano.
 (I do not know where sulae is.)
 ```
 
-English writes neither of these with a question mark at all — "whether" swallows it — which is worth noticing: English's "?" is not even a reliable question detector in English. Phi's `wa`, `wela`, and the gap-words are nothing but.
+English writes neither of these with a question mark at all ("whether" swallows it) which is worth noticing: English's "?" is not even a reliable question detector in English. Phi's `wa`, `wela`, and the gap-words are nothing but.
 
 ### Drill: ask at speed
 
@@ -56,10 +56,10 @@ Convert aloud, statement to question, until fronting `wa` costs nothing:
 3. sulae loamira kolua.
 ```
 
-Then the judgment half: for each English question below, say whether Phi wants `wa`, a gap-word, or `wela … welo` — then say it.
+Then the judgment half: for each English question below, say whether Phi wants `wa`, a gap-word, or `wela … welo`, then say it.
 
 4. "Is the water warm?"
 5. "Where is the dog?"
 6. "I wonder whether the child is asleep."
 
-Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa sulae loamira kolua.` — and in a family room the bare name stands, exactly as Pamphlet 5 licenses. 4 `wa phialu sulae nai.` 5 `lohau kua nai.` — the gap-word sits where the answer will; no `wa`. 6 `mia wela lopia nulae welo phaelo.` — the uncertainty wrapped whole, the wondering felt outside it, as ch20 renders wondering.
+Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa sulae loamira kolua.` In a family room the bare name stands, exactly as Pamphlet 5 licenses. 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the answer will; no `wa`. 6 `mia wela lopia nulae welo phaelo.` The uncertainty wrapped whole, the wondering felt outside it, as ch20 renders wondering.

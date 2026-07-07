@@ -1,6 +1,6 @@
 # Part 2: Climbing the scale
 
-Four scale units ladder upward by threes: `shao` (3), `phoi` (9), `lau` (27), `rei` (81). Each is a countable noun — you count groups the way you count baskets — and each step up trades precision for reach, exactly as the system intends.
+Four scale units ladder upward by threes: `shao` (3), `phoi` (9), `lau` (27), `rei` (81). Each is a countable noun (you count groups the way you count baskets) and each step up trades precision for reach, exactly as the system intends.
 
 ### Nine and its neighborhood
 
@@ -22,7 +22,7 @@ two nine-group two three-group
 (24)
 ```
 
-The reading habit from Part 1 scales: largest unit first, then the remainder, decomposed the same way. `wi phoi wi shao` is *two nines and two threes* — hear the shape (18 + 6) before you hear the sum (24), and soon you will hear both at once.
+The reading habit from Part 1 scales: largest unit first, then the remainder, decomposed the same way. `wi phoi wi shao` is *two nines and two threes*: hear the shape (18 + 6) before you hear the sum (24), and soon you will hear both at once.
 
 ### The full ladder
 
@@ -37,15 +37,15 @@ The reading habit from Part 1 scales: largest unit first, then the remainder, de
 | `ta rei` | 81 | 81 |
 | `ta rei ta lau ta phoi ta shao ta` | 81 + 27 + 9 + 3 + 1 | 121 |
 
-That last row is legal, exact — and long enough to make the system's point. Nothing breaks; composition runs as far as you care to push it. But every unit you climb adds a clause's worth of breath, and somewhere past `ta lau` a Phi speaker hears the language asking a quiet question: *do you need this number, or do you need its size?* Part 5 is about answering honestly. This part is about being able to pay the full price when the count truly matters.
+That last row is legal, exact, and long enough to make the system's point. Nothing breaks; composition runs as far as you care to push it. But every unit you climb adds a clause's worth of breath, and somewhere past `ta lau` a Phi speaker hears the language asking a quiet question: *do you need this number, or do you need its size?* Part 5 is about answering honestly. This part is about being able to pay the full price when the count truly matters.
 
 ### Decomposition drills
 
 Production is the harder direction: take a quantity, find its groups, largest first.
 
-**Worked:** 22. One nine fits twice — `wi phoi` is 18 — leaving 4: `ta shao ta`. So: `wi phoi ta shao ta`. Check the shape aloud: two nines, a three, a one.
+**Worked:** 22. One nine fits twice (`wi phoi` is 18) leaving 4: `ta shao ta`. So: `wi phoi ta shao ta`. Check the shape aloud: two nines, a three, a one.
 
-**Worked:** 30. Past 27, so start at `lau`: `ta lau` leaves 3 — `ta shao`. So: `ta lau ta shao`.
+**Worked:** 30. Past 27, so start at `lau`: `ta lau` leaves 3, `ta shao`. So: `ta lau ta shao`.
 
 Now yours (answers in Part 9's key): 11, 17, 21, 25, 28, 33, 45, 60.
 

@@ -34,13 +34,13 @@ Always optional; nature-*now* decides; declining to classify is the honest form 
 | `phoi miona` | nine or so people |
 | `lau shiro` | many trees |
 | `rei silero` | countless stars |
-| `henoi sulopa` | enough soup — the only quantity that mattered |
+| `henoi sulopa` | enough soup, the only quantity that mattered |
 
-Quantifier row: `theula` (UNIV), `sheloi` (MANY), `shelami` (MOST), `soli` (SOME), `phina` (FEW), `theli` (EACH), `wheli` (ANY), `mawha` (NONE), `henoi` (ENOUGH). The question: `wia` (HOW MANY) — `wia himo miona` (how many people?).
+Quantifier row: `theula` (UNIV), `sheloi` (MANY), `shelami` (MOST), `soli` (SOME), `phina` (FEW), `theli` (EACH), `wheli` (ANY), `mawha` (NONE), `henoi` (ENOUGH). The question: `wia` (HOW MANY), `wia himo miona` (how many people?).
 
 ### Position
 
-`nu` (ORD) + cardinal + noun: `nu ta shao philo`, the third day. Position as topic: `[cardinal] noa` — `lopia mua wi noa nai.` Ordinals order things and times; ordering people is for lines that are truly just lines.
+`nu` (ORD) + cardinal + noun: `nu ta shao philo`, the third day. Position as topic: `[cardinal] noa`, `lopia mua wi noa nai.` Ordinals order things and times; ordering people is for lines that are truly just lines.
 
 ### The five verbs of arithmetic
 
@@ -56,7 +56,7 @@ Real operands share one classifier; bare mathematics drops them. Remainders are 
 
 ### The two questions of honest counting
 
-Before any exact number: *would exactness change what anyone does?* and *is the exact number mine to give?* Two yeses: count. Otherwise: `shao`, `soli`, `henoi` — the sentence gets shorter as it gets truer.
+Before any exact number: *would exactness change what anyone does?* and *is the exact number mine to give?* Two yeses: count. Otherwise: `shao`, `soli`, `henoi`, the sentence gets shorter as it gets truer.
 
 ### Vocabulary of this pamphlet
 
@@ -79,4 +79,4 @@ Before any exact number: *would exactness change what anyone does?* and *is the 
 - Doctrine: the manual, Part V ch22 (foundation, building, approximation, position and kind, conscious calculation); `documents/grammar/numeral_reference.md` for the full inventory.
 - The classifier ruling and the nature-now rule: `canon.md`, Classifiers.
 - The philosophy of not counting: `documents/psychological_violence_of_measurement.md`.
-- The scenes this pamphlet drills: primer ch15, *ta wi shao* — market day; ch24's `lau`-counted news; the journal dates of manual ch25.
+- The scenes this pamphlet drills: primer ch15, *ta wi shao*, market day; ch24's `lau`-counted news; the journal dates of manual ch25.
