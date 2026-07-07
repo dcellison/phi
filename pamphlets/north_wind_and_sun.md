@@ -1,12 +1,6 @@
 # nitho howeli nela sorae — The North Wind and the Sun
 
-*The second complete text in Phi, and its first story. Aesop's fable is
-the text traditionally used to display the world's languages (the one
-linguists use to display a language's sounds and structures), and it
-stresses everything the Metta Sutta (Phi's first text) did not:
-narrative past-tense chains, sequenced events, the causative, indirect
-questions, comparison, and reported agreement. A transmutation, not a
-translation; the gap log records every adaptation.*
+*Aesop's fable is the text traditionally used to display the world's languages (the one linguists use to display a language's sounds and structures), and it stresses everything the Metta Sutta (Phi's first text) did not: narrative past-tense chains, sequenced events, the causative, indirect questions, comparison, and reported agreement. A transmutation, not a translation; the gap log records every adaptation.*
 
 ---
 
