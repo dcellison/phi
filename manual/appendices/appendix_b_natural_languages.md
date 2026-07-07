@@ -1,43 +1,43 @@
 # Appendix B: Comparison with Natural Languages
 
-Phi is a constructed language, but almost every one of its features lives somewhere in the natural world. This appendix places each major design choice beside its natural relatives — partly to reassure the learner that nothing here is beyond human languages, and partly to be honest about the few places where Phi does something natural languages do not.
+Phi is a constructed language, but almost every one of its features lives somewhere in the natural world. This appendix places each major design choice beside its natural relatives: partly to reassure the learner that nothing here is beyond human languages, and partly to be honest about the few places where Phi does something natural languages do not.
 
 ## Word order and structure
 
-**Verb-final (SOV) order** is the most common sentence shape on Earth — Japanese, Turkish, Korean, Hindi, Quechua, and roughly half of all documented languages put the verb last. A Japanese speaker will find Phi's sentence rhythm familiar immediately.
+**Verb-final (SOV) order** is the most common sentence shape on Earth: Japanese, Turkish, Korean, Hindi, Quechua, and roughly half of all documented languages put the verb last. A Japanese speaker will find Phi's sentence rhythm familiar immediately.
 
-**Strictly analytic grammar** — no conjugation, no inflection — is the way of Mandarin and Vietnamese, where words are invariant and particles plus word order do all grammatical work. Phi's three-slot particle system would feel structurally familiar to a Mandarin speaker, though Phi's particles are more regular than any natural set.
+**Strictly analytic grammar** (no conjugation, no inflection) is the way of Mandarin and Vietnamese, where words are invariant and particles plus word order do all grammatical work. Phi's three-slot particle system would feel structurally familiar to a Mandarin speaker, though Phi's particles are more regular than any natural set.
 
-**Where Phi departs:** natural verb-final languages almost universally use *post*positions (Japanese *ni*, Turkish case endings after the noun). Phi uses prepositions, because its organizing principle is not head-direction but modifier-first: the relator must *announce* the relationship before its object arrives. This combination — SOV with prepositions — is typologically rare (though attested, e.g. in Persian). It is Phi's most deliberate typological signature: philosophy overriding the usual clustering.
+**Where Phi departs:** natural verb-final languages almost universally use *post*positions (Japanese *ni*, Turkish case endings after the noun). Phi uses prepositions, because its organizing principle is not head-direction but modifier-first: the relator must *announce* the relationship before its object arrives. This combination, SOV with prepositions, is typologically rare (though attested, e.g. in Persian). It is Phi's most deliberate typological signature: philosophy overriding the usual clustering.
 
 ## Sounds
 
 **The small, gentle inventory** (10 consonants, 5 vowels) sits comfortably within natural range: Hawaiian manages with 8 consonants and 5 vowels; Rotokas (Papua New Guinea) with about 11 sounds in total. Phi's five-vowel system /a e i o u/ is the single most common vowel system in the world.
 
-**Open CV syllables** are the pattern of Hawaiian, Māori, and Swahili — languages routinely described as flowing and musical for exactly this reason.
+**Open CV syllables** are the pattern of Hawaiian, Māori, and Swahili, languages routinely described as flowing and musical for exactly this reason.
 
-**Vowel hiatus** — adjacent vowels kept as separate syllables — is normal in Japanese (*ao*, "blue," is two syllables) and throughout Polynesia. Phi differs only in making hiatus exceptionless: natural languages usually allow some gliding; Phi never does.
+**Vowel hiatus** (adjacent vowels kept as separate syllables) is normal in Japanese (*ao*, "blue," is two syllables) and throughout Polynesia. Phi differs only in making hiatus exceptionless: natural languages usually allow some gliding; Phi never does.
 
-**The four fricatives** are Phi's rarest sounds: /θ/ (English *thin*) appears in under a tenth of the world's languages; /ɸ/ (Japanese *fu*) and /ʍ/ (older English *which*) are rarer still. They were chosen for their breath-like character, not their universality — the one place Phi's sound design prefers meaning over accessibility.
+**The four fricatives** are Phi's rarest sounds: /θ/ (English *thin*) appears in under a tenth of the world's languages; /ɸ/ (Japanese *fu*) and /ʍ/ (older English *which*) are rarer still. They were chosen for their breath-like character, not their universality: the one place Phi's sound design prefers meaning over accessibility.
 
 ## Grammar features
 
-**Evidentiality** — marking how you know — is obligatory in Quechua and Aymara, and built into the Turkish past tense (*-mış* for non-witnessed events). Phi's four-way system (witnessed / inferred / reported / assumed) matches the richer natural systems closely; its one departure is making evidentials *optional*, turning a grammatical obligation into a mindfulness practice.
+**Evidentiality** (marking how you know) is obligatory in Quechua and Aymara, and built into the Turkish past tense (*-mış* for non-witnessed events). Phi's four-way system (witnessed / inferred / reported / assumed) matches the richer natural systems closely; its one departure is making evidentials *optional*, turning a grammatical obligation into a mindfulness practice.
 
-**Numeral classifiers** — counting people, animals, and objects with different measure words — are everyday grammar in Mandarin, Japanese, Thai, and Korean. Phi's four-classifier system is modest by comparison (Japanese uses dozens); making them optional-but-honorific is Phi's own touch.
+**Numeral classifiers** (counting people, animals, and objects with different measure words) are everyday grammar in Mandarin, Japanese, Thai, and Korean. Phi's four-classifier system is modest by comparison (Japanese uses dozens); making them optional-but-honorific is Phi's own touch.
 
-**Pre-nominal relative clauses** — the whole describing clause before the noun — are exactly how Japanese, Korean, and Mandarin build them. English speakers find this Phi feature exotic; most of East Asia finds it obvious.
+**Pre-nominal relative clauses** (the whole describing clause before the noun) are exactly how Japanese, Korean, and Mandarin build them. English speakers find this Phi feature exotic; most of East Asia finds it obvious.
 
 **Topic-drop** is standard in Japanese, Korean, and Spanish. Phi's version is the permissive kind: allowed when clear, never required.
 
-**Honorifics** exist richly in Japanese and Korean — but there they encode social *rank*. Phi's three-way system (respect / intimacy / role) deliberately encodes *relationship* instead; there is no "upward" or "downward." This inversion of a natural category is one of Phi's clearest philosophical edits.
+**Honorifics** exist richly in Japanese and Korean, but there they encode social *rank*. Phi's three-way system (respect / intimacy / role) deliberately encodes *relationship* instead; there is no "upward" or "downward." This inversion of a natural category is one of Phi's clearest philosophical edits.
 
-**The opener/closer complementizer pairs** (`mena…meno`) are Phi's most engineered feature. Natural languages mark clause openings well but rarely mark clause *closings* segmentally — they rely on intonation, verb morphology, or the listener's patience. The closest natural analogues are the clause-final complementizers of some SOV languages and the bracketing particles of sign languages. Phi's strict pairing is best understood as an engineered solution to a real SOV parsing problem that natural languages solve messily.
+**The opener/closer complementizer pairs** (`mena…meno`) are Phi's most engineered feature. Natural languages mark clause openings well but rarely mark clause *closings* segmentally: they rely on intonation, verb morphology, or the listener's patience. The closest natural analogues are the clause-final complementizers of some SOV languages and the bracketing particles of sign languages. Phi's strict pairing is best understood as an engineered solution to a real SOV parsing problem that natural languages solve messily.
 
 ## Numbers
 
-**Restricted numeral systems** are well documented: several Australian languages traditionally counted "one, two, many"; Pirahã (Amazonia) appears to have no exact numerals at all; and base systems of 4, 5, 12, 20, and 60 all occur naturally. A pure base-3 system with deliberate imprecision past ~27 has no exact natural precedent — Phi's ternary system is philosophy expressed as arithmetic, and this manual has never claimed otherwise. What nature does confirm: humans live full lives, build societies, and raise children in languages with far less counting than English.
+**Restricted numeral systems** are well documented: several Australian languages traditionally counted "one, two, many"; Pirahã (Amazonia) appears to have no exact numerals at all; and base systems of 4, 5, 12, 20, and 60 all occur naturally. A pure base-3 system with deliberate imprecision past ~27 has no exact natural precedent. Phi's ternary system is philosophy expressed as arithmetic, and this manual has never claimed otherwise. What nature does confirm: humans live full lives, build societies, and raise children in languages with far less counting than English.
 
 ## The honest summary
 
-A learner who knows Japanese will recognize Phi's word order, relatives, classifiers, and topic-drop. A Mandarin speaker will recognize its analyticity. A Quechua speaker will recognize its evidentials; a Hawaiian speaker its sounds. What no natural speaker will recognize: the exceptionless modifier-first principle, the required clause closers, the ternary numbers, and the systematic absence of violence vocabulary. Those four are Phi's actual inventions — and each one exists to make the language not more exotic, but more deliberate.
+A learner who knows Japanese will recognize Phi's word order, relatives, classifiers, and topic-drop. A Mandarin speaker will recognize its analyticity. A Quechua speaker will recognize its evidentials; a Hawaiian speaker its sounds. What no natural speaker will recognize: the exceptionless modifier-first principle, the required clause closers, the ternary numbers, and the systematic absence of violence vocabulary. Those four are Phi's actual inventions. Each one exists to make the language not more exotic, but more deliberate.

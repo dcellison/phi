@@ -44,7 +44,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **reflexive / reciprocal**: Action on oneself (`miso`: I see *myself*) versus on each other (`wiso`: we love *each other*).
 
-**SOV**: Subject–Object–Verb order, Phi's sentence shape: context established, action delivered last.
+**SOV**: Subject-Object-Verb order, Phi's sentence shape: context established, action delivered last.
 
 **tense**: When an action happens relative to now. Phi: past `to`, future `so`, present unmarked.
 

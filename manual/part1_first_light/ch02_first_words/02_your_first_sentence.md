@@ -8,7 +8,7 @@ In Phi, the verb comes last. This is not arbitrary. Consider what this means: be
 
 English lets you fire first and aim second: "Kill him!" In Phi, you must name your target, consider the action, then finally act. The structure itself creates a pause for reflection.
 
-This is your first meeting with the one rule that organizes everything in Phi: **whatever modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Every particle before the word it marks. The language announces, then delivers — and once you can feel that pattern in a three-word sentence, you already hold the key to all the grammar ahead.
+This is your first meeting with the one rule that organizes everything in Phi: **whatever modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Every particle before the word it marks. The language announces, then delivers. Once you can feel that pattern in a three-word sentence, you already hold the key to all the grammar ahead.
 
 **mia** — I  
 The first-person pronoun. *Mee-ah.* The *m* hums inside your head, the most internal consonant. Then *i* sharpens into self-awareness. Finally *a* opens outward, acknowledging that even as you say "I," you exist in relation to everything that isn't you.
@@ -25,7 +25,7 @@ Now try the reverse:
 
 **thia mia lothea.** — You love me.
 
-Same three words. Different order. Different meaning. In Phi, position tells you who does what — no conjugations, no case endings; the arrangement is the grammar.
+Same three words. Different order. Different meaning. In Phi, position tells you who does what: no conjugations, no case endings. The arrangement is the grammar.
 
 ## A question
 
