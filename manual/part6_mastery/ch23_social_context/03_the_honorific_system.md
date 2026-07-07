@@ -1,6 +1,6 @@
 # The honorific system: *sa*, *ni*, *le*
 
-Most honorific systems encode rank: who stands above whom, and how far. Phi's system refuses that axis entirely. Its three honorifics encode **relationship** — the speaker's own connection to the person named — and no relationship outranks another:
+Most honorific systems encode rank: who stands above whom, and how far. Phi's system refuses that axis entirely. Its three honorifics encode **relationship**, the speaker's own connection to the person named, and no relationship outranks another:
 
 | Particle | Gloss | Announces |
 |---|---|---|
@@ -11,11 +11,11 @@ Most honorific systems encode rank: who stands above whom, and how far. Phi's sy
 ```
 kona ne sa sulae. pi wa thia towe nai.
 VOC NAME HON.RESPECT sulae. POL Q 2SG well be.
-(Honored sulae — are you well?)
+(Honored sulae, are you well?)
 
 kona ni moli. mia thia lothea.
 VOC HON.INTIM moli. 1SG 2SG love.
-(Dear moli — I love you.)
+(Dear moli, I love you.)
 
 ne le siora so shua.
 NAME HON.ROLE siora FUT come.
@@ -24,14 +24,14 @@ NAME HON.ROLE siora FUT come.
 
 ## Placement
 
-Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. In formal and neutral speech a bare name keeps `ne` (`ne keruko`); an honorific makes it optional, since the honorific already signals that a name follows — `kona ni moli` and `kona ne ni moli` are both correct, the first slightly warmer for being briefer. The family register goes one step further: an established name may rest entirely bare — the primer's household says `sulae shua.` of the friend already at its table — a license canon grants (*Names are made of Phi*) and the primer teaches by doing. Formal speech keeps `ne` at every mention.
+Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. In formal and neutral speech a bare name keeps `ne` (`ne keruko`); an honorific makes it optional, since the honorific already signals that a name follows: `kona ni moli` and `kona ne ni moli` are both correct, the first slightly warmer for being briefer. The family register goes one step further: an established name may rest entirely bare (the primer's household says `sulae shua.` of the friend already at its table), a license canon grants (*Names are made of Phi*) and the primer teaches by doing. Formal speech keeps `ne` at every mention.
 
 ## Relationship, not rank
 
-Look again at the three words. A teacher addressed with `sa` is not *above* the student; the student is announcing their own respect. A grandmother addressed with `ni` by her grandchild and with `sa` by a neighbor is not two different ranks — she is two different *relationships*, both spoken truthfully. `le` honors the healer, the facilitator, the keeper of the bridge — the role a community depends on — without making the person in the role anyone's superior.
+Look again at the three words. A teacher addressed with `sa` is not *above* the student; the student is announcing their own respect. A grandmother addressed with `ni` by her grandchild and with `sa` by a neighbor is not two different ranks: she is two different *relationships*, both spoken truthfully. `le` honors the healer, the facilitator, the keeper of the bridge (the role a community depends on) without making the person in the role anyone's superior.
 
-This is why Phi's honorifics cannot be omitted *upward* or demanded *downward*, the way rank-based systems are policed. There is no upward. There is only the truth of how you stand to each other, declared before the name — one more instance of the language announcing a relationship before delivering its content.
+This is why Phi's honorifics cannot be omitted *upward* or demanded *downward*, the way rank-based systems are policed. There is no upward. There is only the truth of how you stand to each other, declared before the name: one more instance of the language announcing a relationship before delivering its content.
 
 ## Choosing honestly
 
-The only rule is honesty. `ni` for someone you barely know is not friendliness, it is a claim you have not earned; `sa` for a peer is not courtesy, it is distance. And no honorific at all — plain `ne keruko` — is always correct, always neutral, never cold. The honorifics are not obligations. They are opportunities to say true things about connection, one syllable at a time.
+The only rule is honesty. `ni` for someone you barely know is not friendliness, it is a claim you have not earned; `sa` for a peer is not courtesy, it is distance. And no honorific at all, plain `ne keruko`, is always correct, always neutral, never cold. The honorifics are not obligations. They are opportunities to say true things about connection, one syllable at a time.

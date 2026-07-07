@@ -4,19 +4,19 @@ Take the most ordinary of hard sentences:
 
 > "I am angry at you because you lied to me."
 
-A translator reaches for the word "angry" and finds nothing. Phi has no word for anger. The absence is deliberate — but the feeling is real, and a language for peace that cannot voice hard feelings would be a language for pretending. So what does Phi do?
+A translator reaches for the word "angry" and finds nothing. Phi has no word for anger. The absence is deliberate, but the feeling is real, and a language for peace that cannot voice hard feelings would be a language for pretending. So what does Phi do?
 
 ## Step 1: What is the sentence doing?
 
-Three things at once, tangled together: reporting a feeling (something burns), assigning its cause (you lied), and — hidden inside the word "at" — making an accusation (my feeling is *aimed* at you; you are its target and its container).
+Three things at once, tangled together: reporting a feeling (something burns), assigning its cause (you lied), and, hidden inside the word "at," making an accusation (my feeling is *aimed* at you; you are its target and its container).
 
 ## Step 2: The Phi concepts
 
-The compound registry provides the feeling: **`korua thero`**, *heart-fire*. Note what the compound does that a word "anger" would not: it locates the feeling in the speaker's own heart and names it as a process — a fire, something that burns fuel, something that can go out. It observes the feeling without condemning the one who feels it.
+The compound registry provides the feeling: **`korua thero`**, *heart-fire*. Note what the compound does that a word "anger" would not: it locates the feeling in the speaker's own heart and names it as a process: a fire, something that burns fuel, something that can go out. It observes the feeling without condemning the one who feels it.
 
 The cause is plain vocabulary: `peshu` (lie), `to` for the past.
 
-And the "at"? Here the language resists, and the resistance is the lesson. Phi has no way to aim a feeling at a person — there is no "angry *at*" construction, because the fire is in *your* heart, not in them. The grammar refuses the accusation, and in refusing it, forces the sentence apart into what is actually true.
+And the "at"? Here the language resists, and the resistance is the lesson. Phi has no way to aim a feeling at a person: there is no "angry *at*" construction, because the fire is in *your* heart, not in them. The grammar refuses the accusation, and in refusing it, forces the sentence apart into what is actually true.
 
 ## Step 3: Rebuild
 
@@ -36,7 +36,7 @@ POL IMP DAT 1SG true speak.
 (Please speak truth to me.)
 ```
 
-An observation. A feeling. A request. Speakers of nonviolent communication will recognize this triad — it is the structure NVC teaches people to build deliberately, against the grain of their language. Phi's grammar produces it as the path of least resistance. There was no way to say the accusing version, so the honest version is what came out.
+An observation. A feeling. A request. Speakers of nonviolent communication will recognize this triad: it is the structure NVC teaches people to build deliberately, against the grain of their language. Phi's grammar produces it as the path of least resistance. There was no way to say the accusing version, so the honest version is what came out.
 
 ## The fire as a source
 
@@ -48,7 +48,7 @@ OPT NONE person ABL heart fire DAT 3SG harmful wish.
 (May no one, from the fire of the heart, wish harm upon another.)
 ```
 
-*From* the fire — not *as* the fire. The person and the anger remain distinct, which is precisely the distinction that makes both compassion and change possible.
+*From* the fire, not *as* the fire. The person and the anger remain distinct, which is precisely the distinction that makes both compassion and change possible.
 
 ## What transmutation preserved and what it transformed
 

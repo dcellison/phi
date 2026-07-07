@@ -4,12 +4,12 @@ The instruments of the last four sections combine into a small number of recogni
 
 ## Greeting someone
 
-The warmest complete greeting in Phi is the one from the language guide: `mia thia lothea` — *I love you / I greet you with love*. Scale it with the tools you now have:
+The warmest complete greeting in Phi is the one from the language guide: `mia thia lothea`, *I love you / I greet you with love*. Scale it with the tools you now have:
 
 - A friend, in passing: `kona melu.` (nothing more is needed)
 - A friend, with warmth: `kona ni moli. wa thia towe nai.`
 - An elder or mentor: `kona ne sa sulae. pi wa thia towe nai.`
-- A gathering: `kona sila. su theula towe nai.` (Community — may all be well.)
+- A gathering: `kona sila. su theula towe nai.` (Community, may all be well.)
 
 ## Asking for something
 
@@ -34,7 +34,7 @@ Disagreement in Phi leans on the evidentials and the observation-feeling pattern
 ```
 thia mena sorae sulae nai meno haolu. mia ho ma shelomui.
 2SG DECL.COMP sun warm be DECL.COMP.CLOSE speak. 1SG ASSUM NEG understand.
-(You say the sun is warm. I — assuming — do not understand.)
+(You say the sun is warm. I, assuming, do not understand.)
 ```
 
 Naming your own uncertainty (`ho`) does the work that softening phrases do in English, with none of the fog.
@@ -55,4 +55,4 @@ OPT peace DAT 2SG come.
 
 ## The one-line summary
 
-Politeness is a frame, not a mask; honorifics tell the truth about relationships; formality is spent attention; and every tool in this chapter is a way of announcing care before delivering content — which is, by now, the only rule you have ever needed in this language.
+Politeness is a frame, not a mask; honorifics tell the truth about relationships; formality is spent attention; and every tool in this chapter is a way of announcing care before delivering content, which is, by now, the only rule you have ever needed in this language.
