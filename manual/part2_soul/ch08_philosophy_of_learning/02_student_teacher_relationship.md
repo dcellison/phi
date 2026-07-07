@@ -2,7 +2,7 @@
 
 The conventional model is simple: teachers have knowledge, students receive it. Teachers evaluate, students perform. Knowledge flows one direction.
 
-Phi's learning philosophy assumes something more interesting. A teacher who has traveled the territory can point out landmarks, suggest routes, warn of pitfalls, but each student walks a different path through the same landscape. The teacher's job is to guide attention, helping students notice what's present and discover what's possible, rather than to transfer a fixed body of content.
+Phi's learning philosophy assumes something more interesting. A teacher who has traveled the territory can point out landmarks, suggest routes, warn of pitfalls, but each student walks a different path through the same landscape. The teacher's job is to guide attention: to help students notice what's present and discover what's possible, rather than to transfer a fixed body of content.
 
 Students, meanwhile, bring more than ignorance. Their questions reveal truths that experts have forgotten. Their fresh encounters with the material surface assumptions that long familiarity has rendered invisible. A beginner asking "why does the evidential system distinguish inference from assumption?" may prompt a deeper answer than the teacher had previously articulated.
 
