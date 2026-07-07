@@ -125,28 +125,28 @@ Break each complex sentence into two simpler sentences. Maintain the meaning.
 
 For each relative clause, identify whether the gap is in subject position, object position, or oblique position.
 
-1. `rena nophi kealo miona` — (the person who creates stories)
+1. `rena nophi kealo miona` (the person who creates stories)
    Gap position: ?
 
-2. `rena mia to theo shelu` — (the book that I read)
+2. `rena mia to theo shelu` (the book that I read)
    Gap position: ?
 
-3. `rena mia mua to thalo shelira` — (the forest that I walked in)
+3. `rena mia mua to thalo shelira` (the forest that I walked in)
    Gap position: ?
 
-4. `rena phelora nai peloru` — (the flower that is beautiful)
+4. `rena phelora nai peloru` (the flower that is beautiful)
    Gap position: ?
 
-5. `rena shia wei to haolu miona` — (the person to whom they spoke)
+5. `rena shia wei to haolu miona` (the person to whom they spoke)
    Gap position: ?
 
-6. `rena thuroa shiro` — (the tree that grows)
+6. `rena thuroa shiro` (the tree that grows)
    Gap position: ?
 
-7. `rena mia to nila womu` — (the home that I saw)
+7. `rena mia to nila womu` (the home that I saw)
    Gap position: ?
 
-8. `rena lopia to thumela miona` — (the person who taught the child)
+8. `rena lopia to thumela miona` (the person who taught the child)
    Gap position: ?
 
 ---

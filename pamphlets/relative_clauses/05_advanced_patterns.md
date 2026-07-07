@@ -14,10 +14,10 @@ mia rena rena nophi kealo miona to thumela lopia sano
 (i know the child whom the person who creates stories taught.)
 ```
 
-Let's break this down:
-- Inner relative clause: `rena nophi kealo miona` — "the person who creates stories"
-- Outer relative clause: `rena [inner clause] to thumela lopia` — "the child whom [that person] taught"
-- Main clause: `mia ... sano` — "i know..."
+Breaking this down:
+- Inner relative clause: `rena nophi kealo miona`, "the person who creates stories"
+- Outer relative clause: `rena [inner clause] to thumela lopia`, "the child whom [that person] taught"
+- Main clause: `mia ... sano`, "i know..."
 
 The structure nests like parentheses:
 
@@ -28,10 +28,10 @@ mia [rena [rena nophi kealo miona] to thumela lopia] sano
 ### Processing nested relatives
 
 Nested relatives require careful attention. The listener must:
-1. Recognize the first `rena` — a relative clause is starting
-2. Recognize the second `rena` — another relative clause is starting inside the first
-3. Find the noun after the inner clause's verb — that closes the inner clause
-4. Find the noun after the outer clause's verb — that closes the outer clause
+1. Recognize the first `rena`: a relative clause is starting
+2. Recognize the second `rena`: another relative clause is starting inside the first
+3. Find the noun after the inner clause's verb: that closes the inner clause
+4. Find the noun after the outer clause's verb: that closes the outer clause
 5. Continue with the main clause
 
 This is cognitively demanding. In practice, speakers often break complex descriptions into separate sentences:
@@ -92,7 +92,7 @@ REL DECL.COMP 1SG FUT come DECL.COMP.CLOSE know person PROX be
 
 Structure:
 - Relative clause subject gap: "the person who knows [something]"
-- Inside the relative: `mena mia so shua meno` — "that I will come"
+- Inside the relative: `mena mia so shua meno`, "that I will come"
 - The person knows that I will come
 
 Another example:
