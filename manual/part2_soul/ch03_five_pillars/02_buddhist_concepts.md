@@ -6,7 +6,7 @@ If Solarpunk maps the outer world, this second pillar maps the inner one. Phi dr
 
 For over two thousand years, Buddhist thinkers have investigated the mind with rigor and precision. The result: practical tools for cultivating clarity, compassion, and equanimity. Phi borrows these tools and embeds them directly into grammar and vocabulary.
 
-The goal is simply to make beneficial mental states the path of least resistance — grammar as a gentle slope.
+The goal is simply to make beneficial mental states the path of least resistance: grammar as a gentle slope.
 
 ## Mindfulness as grammar
 
@@ -14,7 +14,7 @@ Central to this pillar is mindfulness, what Phi calls `thesua`. Not vague "aware
 
 This isn't just vocabulary. It's woven into syntax.
 
-The strict Subject-Object-Verb word order is a direct application. Before stating what happened, speakers must build the full context: who acted, what was affected. The grammar interrupts reactive patterns, encouraging a more considered pace. You think before you speak, because the structure requires it.
+The strict Subject-Object-Verb word order is a direct application. Before stating what happened, speakers must build the full context: who acted, what was affected. The grammar interrupts reactive patterns and forces a more considered pace. You think before you speak, because the structure requires it.
 
 The evidential particles deepen this practice. Speakers must consider the source of their knowledge. Did I witness it directly (`hi`)? Did I infer it from evidence (`ke`)? Did someone tell me (`ti`)? Am I only assuming (`ho`)? This constant, subtle nudge to observe before asserting is Phi's primary tool for training attention.
 
@@ -22,7 +22,7 @@ The evidential particles deepen this practice. Speakers must consider the source
 
 From mindfulness comes a commitment to compassionate expression. In Buddhist tradition, this appears as Right Speech: communication chosen for truthfulness, kindness, and benefit to all involved.
 
-Phi makes Right Speech the path of least resistance. Not by forbidding harmful speech, but by redirecting it. The lexicon reframes volatile emotions, transforming destructive impulses into signals for constructive action.
+Phi makes Right Speech the path of least resistance. Not by forbidding harmful speech, but by redirecting it. The lexicon reframes volatile emotions and turns destructive impulses into signals for constructive action.
 
 Where other languages might offer words that escalate conflict, Phi offers words that illuminate underlying needs. The vocabulary becomes a guide for navigating difficult feelings with greater skill. You can still express frustration, but the language encourages you to articulate what you actually need rather than attacking who offended you.
 
@@ -32,7 +32,7 @@ The most important concept Phi takes from Buddhism is interconnectedness, what p
 
 A flower needs sun, soil, rain, and the seed it came from. The world isn't a collection of separate things but a single flowing process.
 
-This insight inspires Phi's compositional lexicon. Rather than assigning arbitrary words to complex ideas, Phi builds them from simpler, related concepts. A dream isn't an isolated phenomenon; it's `whemura`, linking the mysterious (`whe`) with turning inward (`mu`) and emergence (`ra`). Complex words reveal their own etymology, showing how ideas connect.
+This insight inspires Phi's compositional lexicon. Rather than assigning arbitrary words to complex ideas, Phi builds them from simpler, related concepts. A dream isn't an isolated phenomenon; it's `whemura`, linking the mysterious (`whe`) with turning inward (`mu`) and emergence (`ra`). Complex words reveal their own etymology; the structure itself shows how ideas connect.
 
 ## The natural path
 
