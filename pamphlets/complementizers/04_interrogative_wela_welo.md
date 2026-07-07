@@ -21,11 +21,11 @@ mia wela shia to wepu welo phaelo
 ```
 
 Breaking this down:
-- `mia` — main clause subject (I)
-- `wela` — opens embedded question
-- `shia to wepu` — embedded clause: did they leave?
-- `welo` — closes embedded question
-- `phaelo` — main verb (wonder/feel)
+- `mia`: main clause subject (I)
+- `wela`: opens embedded question
+- `shia to wepu`, embedded clause: did they leave?
+- `welo`: closes embedded question
+- `phaelo`: main verb (wonder/feel)
 
 ## Sound symbolism
 
@@ -39,7 +39,7 @@ Speaking `wela` feels like opening a door to uncertainty, inviting a question to
 
 Phi has several question-related words. Understanding their differences is essential:
 
-### `wa` — Direct question particle
+### `wa`: Direct question particle
 
 `wa` marks direct questions expecting an answer:
 
@@ -51,7 +51,7 @@ Q 2SG go
 
 This is a real question, directed at the listener, expecting a response.
 
-### `wela`/`welo` — Embedded question complementizers
+### `wela`/`welo`: Embedded question complementizers
 
 `wela`/`welo` embeds a question as the content of another verb:
 
@@ -63,7 +63,7 @@ mia wela thia wepu welo phaelo
 
 This is not asking the listener to answer. It reports the speaker's state of uncertainty.
 
-### `lu` — Conditional particle
+### `lu`: Conditional particle
 
 The Slot 0 particle `lu` frames conditional sentences (if-then):
 
@@ -424,7 +424,7 @@ PL 1SG 3SG where be NEG know
 (We don't know where they are.)
 ```
 
-The interrogative word does inside the clause what `wela` does for yes/no questions: it announces the question. Wrapping a content question in `wela`/`welo` is redundant, and Phi does not do it — the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch20).
+The interrogative word does inside the clause what `wela` does for yes/no questions: it announces the question. Wrapping a content question in `wela`/`welo` is redundant, and Phi does not do it: the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch20).
 
 ## Summary
 
