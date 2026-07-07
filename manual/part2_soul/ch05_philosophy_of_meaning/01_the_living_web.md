@@ -8,7 +8,7 @@ Consider the family that gathers around care: *lothea* (love), *theala* (heal), 
 
 ## Resonance, not etymology
 
-One honest clarification, because the distinction is easy to blur: these families are kinships of *resonance*, not derivation. Phi words are not assembled from meaning-bearing syllables: *theala* does not literally decompose into "care-walking," and no dictionary of roots will parse the lexicon for you. Related meanings deserve related sounds, the way members of a family share a brow or a laugh without sharing a formula.
+One honest clarification, because the distinction is easy to blur: these families are kinships of *resonance*, not derivation. Phi words are not built syllable by syllable, each piece carrying its own separate meaning: *theala* does not literally decompose into "care-walking," and no dictionary of roots will parse the lexicon for you. Related meanings deserve related sounds, the way members of a family share a brow or a laugh without sharing a formula.
 
 What survives is real and learnable. The wisdom-words breathe through `th`: *theloa* (truth), *thesua* (mindful), *thumela* (teach), *thunai* (student). The `nu` of depth and rest runs through *nulae* (sleep), *nuwera* (bed), *nuhe* (sadness), *nuhemi* (grieve). *nuhemi* is built on *nuhe* deliberately, so that anyone who knew sadness could read grieving at first sight. The web is tended, word by word, and every new coinage is planted where its family already grows.
 

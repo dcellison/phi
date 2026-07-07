@@ -35,9 +35,9 @@ as," "stands as," "functions as," "represents." A sentence that avoids
 
 **4. No inflation.** Banned outright: *testament, pivotal, crucial,
 vital, profound, vibrant, rich (figurative), stunning, groundbreaking,
-perfectly embodies, crystal clear, seamless, load-bearing*. If a feature matters,
-show the sentence where it matters; the reader will supply the
-adjective.
+perfectly embodies, crystal clear, seamless, load-bearing,
+meaning-bearing*. If a feature matters, show the sentence where it
+matters; the reader will supply the adjective.
 
 **5. Kill the -ing tail.** "…, reflecting the language's commitment to
 mindfulness" and its cousins (*highlighting, underscoring, fostering,
