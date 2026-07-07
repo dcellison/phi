@@ -4,7 +4,7 @@
 
 | Particle | Gloss | Duty |
 |---|---|---|
-| `ne` | NAME | announces that the next word is someone — the spoken capital |
+| `ne` | NAME | announces that the next word is someone, the spoken capital |
 | `kona` | VOC | opens the channel: *I am addressing you*, before any name lands |
 | `sa` | HON.RESPECT | announces your respect for a mentor or elder |
 | `ni` | HON.INTIM | announces earned closeness |
@@ -12,15 +12,15 @@
 
 ### The templates
 
-- Call by name: `kona [ne] [honorific] [name].` — by role: `kona [role].` (no `ne`, ever, on a role)
+- Call by name: `kona [ne] [honorific] [name].` By role: `kona [role].` (no `ne`, ever, on a role)
 - The chain order: `kona`, then `ne`, then the honorific, then the name; an honorific present makes `ne` optional.
-- Introduce: `[whose] nomei ne [name] nai.` — `mia nomei ne keruko nai.`
-- Ask: `thia nomei hina nai.` — politely, `pi thia nomei hina nai.`
+- Introduce: `[whose] nomei ne [name] nai.` Example: `mia nomei ne keruko nai.`
+- Ask: `thia nomei hina nai.` More politely: `pi thia nomei hina nai.`
 - The call alone is a complete utterance: `kona ni moli.`
 
 ### The register rules, one line each
 
-- A name is a lexicon word borne by a person — carried, not translated, in every gloss and every narration.
+- A name is a lexicon word borne by a person: carried, not translated, in every gloss and every narration.
 - Formal speech announces at every mention; the family register spends `ne` at thresholds and lets presence do the rest.
 - Keeping `ne` is never cold; dropping it is a license, not a duty.
 - An honorific announces your relationship, never their rank; there is no upward, so nothing can be omitted upward.
@@ -59,6 +59,6 @@
 ### Cross-references
 
 - Doctrine: the manual, ch11 §5 (Slot 2: `ne` and the honorifics); ch23 §§1–5 (the vocative, politeness, the honorific system, register, the field guide); ch12 §5 (questions, for `hina`).
-- Canon: *Names are made of Phi*; *Letters*; *Punctuation* — the three rulings this pamphlet practices.
+- Canon: *Names are made of Phi*; *Letters*; *Punctuation*, the three rulings this pamphlet practices.
 - The corpus this pamphlet reads: primer chapters 13, 16, 17, 18, 21, and 22; manual ch19 §4 and ch20 §§2–3; the texts shelf, where the cast's words go on working unannounced.
 - The particle inventory: `documents/grammar/particle_reference.md`.

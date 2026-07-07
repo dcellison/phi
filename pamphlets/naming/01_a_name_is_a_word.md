@@ -24,13 +24,13 @@ mia ne thinoe nila.
 (I see thinoe.)
 ```
 
-Nothing about the syllables changed. What changed is the sentence's population: `ne` announced that these particular syllables are someone, and a person appeared where a seed had been. Notice the gloss line change too — `seed` became `thinoe`. A name is carried, not translated; the moment a word becomes a name, its meaning steps back and its bearer steps forward.
+Nothing about the syllables changed. What changed is the sentence's population: `ne` announced that these particular syllables are someone, and a person appeared where a seed had been. Notice the gloss line change too: `seed` became `thinoe`. A name is carried, not translated; the moment a word becomes a name, its meaning steps back and its bearer steps forward.
 
 ### What follows from this
 
-Because names are words, everything the language already does for words it does for names. The collision rules protect them — no one's name can sit one sound away from a neighbor's and cause confusion. The validator checks them like any vocabulary, with no whitelist of exceptions. Anyone can bear any word, and the language can never run out of names. And every introduction is a small vocabulary lesson: meet `sulae` and you have met *warm*; the person teaches you the word by proving it daily.
+Because names are words, everything the language already does for words it does for names. The collision rules protect them: no one's name can sit one sound away from a neighbor's and cause confusion. The validator checks them like any vocabulary, with no whitelist of exceptions. Anyone can bear any word, and the language can never run out of names. And every introduction is a small vocabulary lesson: meet `sulae` and you have met *warm*; the person teaches you the word by proving it daily.
 
-Because names are announced rather than capitalized, no name outranks the sentence it stands in. Phi has no capital letters — not for sentences, not for names, in any mode of writing — and Part 6 takes up what that means for the writer. For now, one sentence of canon carries the idea: what capitals do for names, `ne` does aloud.
+Because names are announced rather than capitalized, no name outranks the sentence it stands in. Phi has no capital letters (not for sentences, not for names, in any mode of writing), and Part 6 takes up what that means for the writer. For now, one sentence of canon carries the idea: what capitals do for names, `ne` does aloud.
 
 ### Drill: word or someone
 
@@ -43,4 +43,4 @@ Cover everything below the line. For each sentence, say aloud whether the cast-w
 4. siora shua.
 ```
 
-Answers: 1 — vocabulary: *I eat warm soup*; no announcement, and soup is exactly the kind of thing warmth modifies. 2 — a person: *siora smiles*; `ne` said so before the name arrived. 3 — vocabulary: *the earth receives the seeds*; plural-marked things in the earth are seeds, not children. 4 — undecidable alone: *joy comes*, or, in a family room where she is already known, *siora comes*. That undecidability is not a flaw; it is the whole case for `ne`, and Part 5 is about the one register allowed to run the risk.
+Answers: 1. vocabulary: *I eat warm soup*; no announcement, and soup is exactly the kind of thing warmth modifies. 2. a person: *siora smiles*; `ne` said so before the name arrived. 3. vocabulary: *the earth receives the seeds*; plural-marked things in the earth are seeds, not children. 4. undecidable alone: *joy comes*, or, in a family room where she is already known, *siora comes*. That undecidability is not a flaw; it is the whole case for `ne`, and Part 5 is about the one register allowed to run the risk.
