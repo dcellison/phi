@@ -1,6 +1,6 @@
 # 15 · ta wi shao
 
-*Counting, at last — and Phi counts in threes. Two number-words and a group-word take you to eight:* ta *one,* wi *two,* ta shao *one-three,* ta shao ta *one-three-and-one, and so on. Between a number and its noun stands a* classifier *— a small word that names what kind of thing you are counting: person, living being, object, or idea. It is optional, and it is good manners toward the things counted. Market day:*
+*Counting, at last, and Phi counts in threes. Two number-words and a group-word take you to eight:* ta *one,* wi *two,* ta shao *one-three,* ta shao ta *one-three-and-one, and so on. Between a number and its noun stands a* classifier*, a small word that names what kind of thing you are counting: person, living being, object, or idea. It is optional, and it is good manners toward the things counted. Market day:*
 
 ## I
 
@@ -15,7 +15,7 @@
 | shao | sha · o | three-group |
 | lipha | li · pha | (classifier: living things) |
 
-*Off to the village, the child counting eggs the whole way: one, two, three —* ta, wi, ta shao, *one three-group. An egg is counted with* lipha *because an egg is life in waiting; the lexicon says so itself.*
+*Off to the village, the child counting eggs the whole way: one, two, three,* ta, wi, ta shao, *one three-group. An egg is counted with* lipha *because an egg is life in waiting; the lexicon says so itself.*
 
 ## II
 
@@ -30,7 +30,7 @@
 | themo | the · mo | (classifier: objects) |
 | noru | no · ru | bowl |
 
-*Two traders at the market — counted with* himo, *the people-classifier — and their table of made things, counted with* themo. *Four kinds of counting for four kinds of being: people, living things, objects, and — next scene — things you cannot hold.*
+*Two traders at the market (counted with* himo, *the people-classifier) and their table of made things, counted with* themo. *Four kinds of counting for four kinds of being: people, living things, objects, and, next scene, things you cannot hold.*
 
 ## III
 
@@ -45,7 +45,7 @@
 | hemilo | he · mi · lo | honey |
 | morisa | mo · ri · sa | salt |
 
-*Eggs go to the trader; honey comes back; that two-way giving has a name —* wisola, *exchange, which is how this market works: no coins anywhere, just things finding the people who need them. The child spots salt; the parent takes some home.*
+*Eggs go to the trader; honey comes back; that two-way giving has a name:* wisola, *exchange, which is how this market works: no coins anywhere, just things finding the people who need them. The child spots salt; the parent takes some home.*
 
 ## IV
 
@@ -58,10 +58,10 @@
 |---|---|---|
 | nophe | no · phe | (classifier: ideas, times, events) |
 
-*Days are counted with* nophe, *the classifier of things you cannot pick up — one day, two days, three. Tomorrow, will we be at the market? No: home. Phi does have a true zero, by the way —* mu, *the number of absence — waiting for you in the manual's ternary arithmetic when you are ready to count nothing at all. The walk home is downhill, the way markets arrange it.*
+*Days are counted with* nophe, *the classifier of things you cannot pick up: one day, two days, three. Tomorrow, will we be at the market? No: home. Phi does have a true zero, by the way,* mu, *the number of absence, waiting for you in the manual's ternary arithmetic when you are ready to count nothing at all. The walk home is downhill, the way markets arrange it.*
 
 ---
 
-*Count something today: steps, breaths, eggs. Number, then kind, then thing —* ta lipha powea *— announced in the order Phi announces everything: how many, of what nature, and only then the thing itself.*
+*Count something today: steps, breaths, eggs. Number, then kind, then thing (*ta lipha powea*), announced in the order Phi announces everything: how many, of what nature, and only then the thing itself.*
 
 *The machinery, when you want it: the ternary numerals are the manual's chapter 22 and the numeral reference; the classifiers are chapter 13's.*

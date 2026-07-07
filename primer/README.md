@@ -6,7 +6,7 @@ Phi suits this method unusually well. There are no irregular forms, so every wor
 
 ## How to read
 
-Aloud, always, and slowly. Phi is built to be spoken with unhurried care — every syllable open, every vowel pure, stress on the second-to-last syllable. Read each scene twice: once for the shape, once for the meaning. If a sentence resists, do not stop to analyze it; read on, and let the next three sentences teach it. The margin gives you new words; everything else you already have.
+Aloud, always, and slowly. Phi is built to be spoken with unhurried care: every syllable open, every vowel pure, stress on the second-to-last syllable. Read each scene twice: once for the shape, once for the meaning. If a sentence resists, do not stop to analyze it; read on, and let the next three sentences teach it. The margin gives you new words; everything else you already have.
 
 Each chapter ends with a single pointer into the manual for readers who want the machinery named. Following it is never required.
 
@@ -18,18 +18,18 @@ The stories follow one household in a small village: **lopia**, the child; **pha
 
 Each chapter adds one or two sentence shapes and eight to twelve words, and uses everything that came before. The parts:
 
-**Part I — Being and doing**
+**Part I: Being and doing**
 
 | Ch. | New | Story |
 |---|---|---|
-| 1 | X Y *nai* — saying what is | The household |
+| 1 | X Y *nai* (saying what is) | The household |
 | 2 | Subject-object-verb | The day begins |
 | 3 | Plural *lo*; adjective before noun | Big and small |
 | 4 | Questions with *wa*; yes and no; greetings | At the door |
 | 5 | Possessor before possessed; place with *mua* | Whose and where |
 | 6 | *lue* (from) and *wei* (to, for) | Around the village |
 
-**Part II — Time**
+**Part II: Time**
 
 | Ch. | New | Story |
 |---|---|---|
@@ -40,7 +40,7 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 | 11 | Beginning *pa*; habit *ro* | Every morning |
 | 12 | The time words: now, today, always | The year turns |
 
-**Part III — People together**
+**Part III: People together**
 
 | Ch. | New | Story |
 |---|---|---|
@@ -51,7 +51,7 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 | 17 | The gift noun *loamira*; sharing *phowe* | The gift |
 | 18 | And, or, also: *nela*, *sola*, *we* | Together |
 
-**Part IV — Saying and thinking**
+**Part IV: Saying and thinking**
 
 | Ch. | New | Story |
 |---|---|---|
@@ -62,7 +62,7 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 | 23 | If: *lu* and *lu he* | Weather plans |
 | 24 | How you know: *hi*, *ke*, *ti*, *ho* | The news |
 
-**Capstone**: read [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md) unassisted — every element in it will be familiar. Then begin [the Metta Sutta](../pamphlets/metta_sutta.md), which is where the language stops being practice and starts being itself.
+**Capstone**: read [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md) unassisted. Every element in it will be familiar. Then begin [the Metta Sutta](../pamphlets/metta_sutta.md), which is where the language stops being practice and starts being itself.
 
 ## Status
 

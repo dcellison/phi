@@ -1,6 +1,6 @@
 # 19 · mena
 
-*Part IV teaches Phi to speak about speaking. The first tool is the pair* **mena … meno**: *put a whole sentence between them and it becomes a thing — something known, said, or felt. The opener announces that a thought is coming; the closer marks where it ends, so the main verb can arrive without colliding with the embedded one. Spoken parentheses. A message arrives:*
+*Part IV teaches Phi to speak about speaking. The first tool is the pair* **mena … meno**: *put a whole sentence between them and it becomes a thing: something known, said, or felt. The opener announces that a thought is coming; the closer marks where it ends, so the main verb can arrive without colliding with the embedded one. Spoken parentheses. A message arrives:*
 
 ## I
 
@@ -14,7 +14,7 @@
 | meno | me · no | (closes it) |
 | shane | sha · ne | tell |
 
-*siora comes to the house and tells — tells that sulae will come. Read the long sentence slowly, watching the brackets:* siora … shane *is the frame, and inside it, whole and untouched, sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
+*siora comes to the house and tells: tells that sulae will come. Read the long sentence slowly, watching the brackets:* siora … shane *is the frame, and inside it, whole and untouched, sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
 
 ## II
 
@@ -26,7 +26,7 @@
 |---|---|---|
 | haolu | ha · o · lu | speak, say |
 
-*Now the child knows that sulae will come; the parent also knows it; and the child says that we will make soup — the same embedded shape serving know, tell, and say alike. One pattern, every verb of the mind and mouth.*
+*Now the child knows that sulae will come; the parent also knows it; and the child says that we will make soup: the same embedded shape serving know, tell, and say alike. One pattern, every verb of the mind and mouth.*
 
 ## III
 
@@ -38,7 +38,7 @@
 |---|---|---|
 | phaelo | pha · e · lo | feel |
 
-*Preparations — and the elder, watching them, feels that the day is good. Feeling takes an embedded thought exactly the way knowing does; Phi does not pretend the heart is grammatically different from the head.*
+*Preparations, and the elder, watching them, feels that the day is good. Feeling takes an embedded thought exactly the way knowing does; Phi does not pretend the heart is grammatically different from the head.*
 
 ## IV
 
@@ -47,7 +47,7 @@
 > phao: **lia. siora to shane. lo mia mena thia so shua meno to sano.**
 > sulae: **welao nai.**
 
-*Did siora tell you I would come? He told. We knew you would come — the embedded clause keeps its own little future even inside a past telling, because what siora said pointed forward when he said it. Time inside the brackets belongs to the bracketed thought.*
+*Did siora tell you I would come? He told. We knew you would come: the embedded clause keeps its own little future even inside a past telling, because what siora said pointed forward when he said it. Time inside the brackets belongs to the bracketed thought.*
 
 ---
 
