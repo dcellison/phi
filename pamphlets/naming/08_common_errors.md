@@ -1,6 +1,6 @@
 # Part 8: Common errors
 
-Naming errors divide the way this series always finds them dividing: some break grammar, and the validator or any listener catches them; some are grammatical, fluent, and false, and only you will ever catch those. Both kinds below, the second labeled the series way: not wrong, but claiming something else.
+Naming errors divide the same way: some break grammar, and the validator or any listener catches them; some are grammatical, fluent, and false, and only you will ever catch those. Both kinds below, the second labeled precisely: not wrong, but claiming something else.
 
 ### Error 1: `ne` on a role
 

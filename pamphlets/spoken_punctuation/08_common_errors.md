@@ -18,7 +18,7 @@ No tone, and no pause, can change what a Phi sentence means; that is a design gu
 
 **Wrong:** `mia mena shia to wepu sano.`
 
-The embedded clause opened and never shut, and now `wepu` and `sano` stand face to face with nothing to say whose sentence ended. English readers under-hear the closers because English's own right-hand bracket is a silent mark they have never once pronounced. Canon requires `meno`, `welo`, and `sholo` without exception: the closer is the comma you can hear, and Pamphlet 2 will drill it until the click is reflex: `mia mena shia to wepu meno sano.`
+The embedded clause opened and never shut, and now `wepu` and `sano` stand face to face with nothing to say whose sentence ended. English readers under-hear the closers because English's own right-hand bracket is a silent mark they have never once pronounced. Canon requires `meno`, `welo`, and `sholo` without exception: the closer is the comma you can hear, and the complementizers pamphlet will drill it until the click is reflex: `mia mena shia to wepu meno sano.`
 
 ### Error 4: writing the pause
 
@@ -30,7 +30,7 @@ Pauses are free, which means they are also meaningless, which means the page has
 
 **Wrong:** `Ne siora shua.` Or "Siora" in the narration beside it.
 
-Sentence position earns no capital; names earn no capital; nothing earns a capital, in any mode, ever. Pamphlet 5 Part 6 owns the full argument; the punctuation-shaped half is simply that a capital is one more silent mark, and it fell in the same audit as the rest. The validator holds the Phi side of the line; the English narration around your Phi is yours to keep lowercase where names cross into it.
+Sentence position earns no capital; names earn no capital; nothing earns a capital, in any mode, ever. The naming pamphlet, part 6, owns the full argument; the punctuation-shaped half is simply that a capital is one more silent mark, and it fell in the same audit as the rest. The validator holds the Phi side of the line; the English narration around your Phi is yours to keep lowercase where names cross into it.
 
 ### Error 6: the monotone trap
 
@@ -42,4 +42,4 @@ It is not missing; it is in the words, and the words are instructions. When `wa`
 
 **Grammatical, and fog:** `ru welao. ru sulae sulopa. mia ru siora phaelo.`
 
-Translating English's "!" as a reflexive `ru` on everything reproduces the exclamation mark's actual failure (undifferentiated emphasis) in a language built to refuse it. `ru` intensifies one word, honestly; spent on every word, it intensifies nothing, the same inflation as the evidential fog (Pamphlet 3, Error 6). The exclamation's real work was split three ways (`ru` for intensity, the interjections for immediacy, `su` for the exclaimed wish) and each does its share only if you let it specialize. When everything is very, nothing is.
+Translating English's "!" as a reflexive `ru` on everything reproduces the exclamation mark's actual failure (undifferentiated emphasis) in a language built to refuse it. `ru` intensifies one word, honestly; spent on every word, it intensifies nothing, the same inflation as the evidential fog (the evidentiality pamphlet, Error 6). The exclamation's real work was split three ways (`ru` for intensity, the interjections for immediacy, `su` for the exclaimed wish) and each does its share only if you let it specialize. When everything is very, nothing is.

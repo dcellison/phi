@@ -16,7 +16,7 @@ NAME sulae QUOT.COMP Q PL 2SG DAT PL 1SG FUT come QUOT.COMP.CLOSE PST speak.
 (sulae said: "Will you all come to us?")
 ```
 
-Count what the English translation had to draw in silence: a colon, an opening quotation mark, a capital, a closing quotation mark, a question mark. Now count what siora had to carry: `to haolu`, `shola`, `sholo`, `wa`, words, every one, no easier to drop than any other syllable of the message. The quotation's pronouns are sulae's own, preserved inside the brackets, so `lo mia` (*us*) still means sulae's household in siora's mouth. And one register note in passing: `siora haolu` stands bare, because she is in the room; `ne sulae` is announced, because she is not. The punctuation and the register machinery are the same machinery (Pamphlet 5), running at once, all of it audible.
+Count what the English translation had to draw in silence: a colon, an opening quotation mark, a capital, a closing quotation mark, a question mark. Now count what siora had to carry: `to haolu`, `shola`, `sholo`, `wa`, words, every one, no easier to drop than any other syllable of the message. The quotation's pronouns are sulae's own, preserved inside the brackets, so `lo mia` (*us*) still means sulae's household in siora's mouth. And one register note in passing: `siora haolu` stands bare, because she is in the room; `ne sulae` is announced, because she is not. The punctuation and the register machinery are the same machinery (the naming pamphlet), running at once, all of it audible.
 
 ### The reply goes back
 

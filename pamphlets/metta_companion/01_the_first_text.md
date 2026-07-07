@@ -8,7 +8,7 @@ The text rebuilds the Karaniya Metta Sutta from Phi concepts rather than mapping
 
 ### How to use this companion
 
-Keep the text open beside this pamphlet; the companion quotes every verse but replaces none of them. The standing rules of the series apply doubly here:
+Keep the text open beside this pamphlet; the companion quotes every verse but replaces none of them. The primer's own reading rules apply doubly here:
 
 - **Aloud, always.** This is a recitation text. Reading it silently is reading the sheet music and skipping the song.
 - **A little each day.** The capstone's counsel, and the household's method. One verse per sitting is not slow; it is the tempo the text was built for.

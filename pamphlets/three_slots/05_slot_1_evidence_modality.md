@@ -2,9 +2,9 @@
 
 Ranks four and five are the speaker's own entries in the record: *how I know* and *how the world constrains*. Both are optional; both are one-per-clause; and both have deep literature elsewhere: this part keeps only what the system needs from them.
 
-### Evidence: rank four, one source, Pamphlet 3's territory
+### Evidence: rank four, one source, the evidentiality pamphlet's territory
 
-`hi` witnessed, `ke` inferred, `ti` told, `ho` assumed. All drilled to reflex in Pamphlet 3, from the snake at the well to the honest journal. The slot facts, restated once: evidentials stand after tense, aspect, and voice, and before modality; one source per clause (two sources are two sentences, the two-sentence habit); and, by the newest ruling, **an unmarked sentence claims no source at all**. It is a plain assertion, the system's resting state; `hi` exists precisely so that witnesshood is a claim you *make*, with the accountability that follows, never a default you drift into.
+`hi` witnessed, `ke` inferred, `ti` told, `ho` assumed. All drilled to reflex in the evidentiality pamphlet, from the snake at the well to the honest journal. The slot facts, restated once: evidentials stand after tense, aspect, and voice, and before modality; one source per clause (two sources are two sentences, the two-sentence habit); and, by the newest ruling, **an unmarked sentence claims no source at all**. It is a plain assertion, the system's resting state; `hi` exists precisely so that witnesshood is a claim you *make*, with the accountability that follows, never a default you drift into.
 
 ```
 pheralu so ho shua.
@@ -36,7 +36,7 @@ That second line, from ch16 §4, repays a slow read: aspect then modality, a com
 - `na ma V` means **must not**: the necessity is to refrain.
 - *Need not* (the absence of obligation) is never made by reordering. It is the freedom periphrasis: `thia lila wepu ralu nai.` — you are free as to going. Absence of obligation is stated as presence of freedom, which is not a workaround but a worldview.
 
-The metta text (Pamphlet 6) is the register lesson for this whole rank: one `na` in the entire text, aimed at the practitioner, and nineteen wishes: necessity spent once, where it was owed, and hope everywhere else. Modals are claims about the world's constraints; Phi's texts spend them the way its counting pamphlet spends exactness: only where they are true and owed.
+The metta text (the Metta companion) is the register lesson for this whole rank: one `na` in the entire text, aimed at the practitioner, and nineteen wishes: necessity spent once, where it was owed, and hope everywhere else. Modals are claims about the world's constraints; Phi's texts spend them the way its counting pamphlet spends exactness: only where they are true and owed.
 
 ### Drill: the honest layer
 

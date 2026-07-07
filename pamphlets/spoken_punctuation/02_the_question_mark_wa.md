@@ -32,7 +32,7 @@ thia nomei hina nai.
 
 ### Questions inside sentences
 
-Even embedded, the question mark stays a word. The pair `wela … welo` wraps an embedded yes/no question (ch20 §2; Pamphlet 2 drills it), and an embedded content question needs only its gap-word:
+Even embedded, the question mark stays a word. The pair `wela … welo` wraps an embedded yes/no question (ch20 §2; the complementizers pamphlet drills it), and an embedded content question needs only its gap-word:
 
 ```
 mia wela sorae sulae nai welo nila.
@@ -62,4 +62,4 @@ Then the judgment half: for each English question below, say whether Phi wants `
 5. "Where is the dog?"
 6. "I wonder whether the child is asleep."
 
-Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa sulae loamira kolua.` In a family room the bare name stands, exactly as Pamphlet 5 licenses. 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the answer will; no `wa`. 6 `mia wela lopia nulae welo phaelo.` The uncertainty wrapped whole, the wondering felt outside it, as ch20 renders wondering.
+Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa sulae loamira kolua.` In a family room the bare name stands, exactly as the naming pamphlet licenses. 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the answer will; no `wa`. 6 `mia wela lopia nulae welo phaelo.` The uncertainty wrapped whole, the wondering felt outside it, as ch20 renders wondering.

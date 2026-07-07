@@ -65,7 +65,7 @@ Six journal lines across a week, one per prompt, stacks exact: (a) something com
 15. `shia to ke wepu.` Evidence follows tense.
 16. `mia lopia ka po wile.` Voice precedes modality.
 17. `thia so ma shua.` Negation last, against the verb.
-18. Two sources, two sentences: `mia remo.` needs no source at all: your own thought goes bare (Pamphlet 3's law); if the point was contrast, pick the one honest particle and one clause.
+18. Two sources, two sentences: `mia remo.` needs no source at all: your own thought goes bare (the evidentiality pamphlet's law); if the point was contrast, pick the one honest particle and one clause.
 
 **Part D.**
 

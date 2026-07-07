@@ -2,12 +2,6 @@
 
 ## A deep-dive companion to the manual
 
----
-
-*Phi Language Series: Pamphlet 1*
-
----
-
 ## Contents
 
 1. **Understanding the concept**

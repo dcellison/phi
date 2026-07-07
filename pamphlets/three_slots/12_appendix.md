@@ -51,7 +51,7 @@ Thirty-five particles: the whole grammar, one page.
 | `ko` | FOC | the pointing finger; with `mo` makes the superlative |
 | `ru` | INTS | intensity, on the word it touches |
 | `mo` | CMPR | more; `mo ko` most; `sheo` carries the *than* |
-| `ne` | NAME | the spoken capital (Pamphlet 5) |
+| `ne` | NAME | the spoken capital (the naming pamphlet) |
 | `sa` | HON.RESPECT | announced respect |
 | `ni` | HON.INTIM | announced closeness |
 | `le` | HON.ROLE | announced regard for a role |

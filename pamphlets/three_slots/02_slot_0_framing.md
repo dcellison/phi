@@ -38,11 +38,11 @@ COND IRR 1SG PST help. 3SG PST NEG go.
 
 ### What Slot 0 does not do
 
-Two boundary notes worth fixing early. First, the intents do not stack with each other: the corpus never asks a wish or commands a question: a sentence performs one speech-act, and `pi` is the only particle that dresses another. (`pi lu` itself is unattested; nobody has yet needed a *polite if*.) Second, `kona` is not Slot 0, however sentence-initial it looks: the vocative stands outside the sentence entirely, its own little utterance with its own period (ch23 §1, Pamphlet 5). `kona melu. wa thia towe nai.` is a call and then a framed sentence: two acts, two periods.
+Two boundary notes worth fixing early. First, the intents do not stack with each other: the corpus never asks a wish or commands a question: a sentence performs one speech-act, and `pi` is the only particle that dresses another. (`pi lu` itself is unattested; nobody has yet needed a *polite if*.) Second, `kona` is not Slot 0, however sentence-initial it looks: the vocative stands outside the sentence entirely, its own little utterance with its own period (ch23 §1, the naming pamphlet). `kona melu. wa thia towe nai.` is a call and then a framed sentence: two acts, two periods.
 
 ### Deep coverage elsewhere
 
-Each frame has its own literature now: `wa` and the questions that need no `wa` are Pamphlet 7 Part 2; `su` has Pamphlet 6 Part 2 entirely to itself (one text, nineteen `su`); `no`'s gentleness is ch12 §5. This part's job is only the system: five intents, one dress, politeness first, absence meaningful.
+Each frame has its own literature now: `wa` and the questions that need no `wa` are the punctuation pamphlet, part 2; `su` has the Metta companion, part 2, entirely to itself (one text, nineteen `su`); `no`'s gentleness is ch12 §5. This part's job is only the system: five intents, one dress, politeness first, absence meaningful.
 
 ### Drill: one thought, five frames
 

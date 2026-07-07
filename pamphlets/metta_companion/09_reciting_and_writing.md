@@ -37,7 +37,7 @@ The brackets below have been removed. Restore them aloud (say where each relativ
 
 Write three wishes of your own in the text's three shapes, then keep them where your journal lives:
 
-- One for a named person, announced properly (Pamphlet 5 owns the machinery): `su ne … .`
+- One for a named person, announced properly (the naming pamphlet owns the machinery): `su ne … .`
 - One for a headless relative of your own drawing: choose the description honestly, since it decides who your wish can reach.
 - One refusal in the `su mawha` shape: the harm you would wish away from everyone, forbidden to no one.
 

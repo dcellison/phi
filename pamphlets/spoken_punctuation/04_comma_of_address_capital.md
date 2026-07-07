@@ -1,6 +1,6 @@
 # Part 4: The comma of address, the capital of a name
 
-Two of English's silent marks guard people specifically: the vocative comma and the name's capital letter. Both already have their own doctrine (`kona` in manual ch23 §1, `ne` throughout Pamphlet 5) so this part is short, and only about what they are *as punctuation*.
+Two of English's silent marks guard people specifically: the vocative comma and the name's capital letter. Both already have their own doctrine (`kona` in manual ch23 §1, `ne` throughout the naming pamphlet) so this part is short, and only about what they are *as punctuation*.
 
 ### The comma that keeps grandma off the menu
 
@@ -16,7 +16,7 @@ The call is its own little sentence with its own period; the invitation follows 
 
 ### The capital you can hear
 
-The other people-guarding mark is the capital letter, and Pamphlet 5 Part 6 owns it: Phi has no capitals in any mode, and what capitals do for names, `ne` does aloud. As punctuation, note only the symmetry with everything in this pamphlet: English marks *who is a name* typographically and loses the marking in speech; Phi marks it with a syllable and cannot lose it anywhere:
+The other people-guarding mark is the capital letter, and the naming pamphlet, part 6, owns it: Phi has no capitals in any mode, and what capitals do for names, `ne` does aloud. As punctuation, note only the symmetry with everything in this pamphlet: English marks *who is a name* typographically and loses the marking in speech; Phi marks it with a syllable and cannot lose it anywhere:
 
 ```
 mia thinoe nila.        mia ne thinoe nila.
@@ -34,7 +34,7 @@ VOC NAME sulae. welcome.
 (sulae — welcome.)
 ```
 
-Call announced, name announced, then the name, then the sentence. Every layer audible, every layer in Pamphlet 5's fixed order, and the English translation quietly needing two silent marks and a dash to keep up.
+Call announced, name announced, then the name, then the sentence. Every layer audible, every layer in the naming pamphlet's fixed order, and the English translation quietly needing two silent marks and a dash to keep up.
 
 ### Drill: the unlosable address
 
