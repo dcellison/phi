@@ -1,6 +1,6 @@
 # 4 · kia
 
-*A visitor today, and with them the smallest grammar of any chapter:* **wa** *at the front of a sentence turns it into a question, and two little words —* **lia** *and* **tua** *— answer it. Everything else is sentences you can already read.*
+*A visitor today, and with them the smallest grammar of any chapter:* **wa** *at the front of a sentence turns it into a question, and two little words,* **lia** *and* **tua***, answer it. Everything else is sentences you can already read.*
 
 ## I
 
@@ -28,7 +28,7 @@
 | tua | tu · a | no |
 | lia | li · a | yes |
 
-*Three questions, three answers. The question is the plain sentence with* wa *set before it — nothing moves, nothing changes shape. The friend learns that everyone is up and about, except the one you already knew.*
+*Three questions, three answers. The question is the plain sentence with* wa *set before it: nothing moves, nothing changes shape. The friend learns that everyone is up and about, except the one you already knew.*
 
 ## III
 
@@ -37,7 +37,7 @@
 > melu: **wa misheko welao nai.**
 > phao: **lia. misheko welao nai. misheko nulae.**
 
-*Yes, the dog is good. Yes, the cat is good — the cat is asleep, which in a cat and goodness are not in conflict.*
+*Yes, the dog is good. Yes, the cat is good: the cat is asleep, which in a cat and goodness are not in conflict.*
 
 ## IV
 
@@ -47,7 +47,7 @@
 > melu: **lia.**
 > phao: **nuora ha nai. whelani.**
 
-*The child is asked, answers, and asks straight back — the same five words, returned. The parent settles it the way parents do: the food is here; welcome. (That little **ha** — *here* — you will meet properly in the next chapter.) When the visit ends:*
+*The child is asked, answers, and asks straight back: the same five words, returned. The parent settles it the way parents do: the food is here; welcome. (That little **ha**, *here*, you will meet properly in the next chapter.) When the visit ends:*
 
 > melu: **pao.**
 > lopia: **pao melu.**
@@ -58,6 +58,6 @@
 
 ---
 
-*Read the whole visit aloud once more — both voices, and take the pauses seriously; a Phi conversation is not a race. You can now state, describe, count-by-many, ask, answer, greet, and take your leave. That is most of what neighbors do.*
+*Read the whole visit aloud once more, both voices, and take the pauses seriously; a Phi conversation is not a race. You can now state, describe, count-by-many, ask, answer, greet, and take your leave. That is most of what neighbors do.*
 
 *The machinery, when you want it: questions with* wa *live in the manual's Part IV, chapter 11, with the other framing particles.*

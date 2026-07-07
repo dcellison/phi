@@ -1,6 +1,6 @@
 # 2 · sorae rihe
 
-*Chapter one told you what things are. This chapter shows what they do — and one shape carries all of it: the doer first, then (if something is acted on) the acted-on, and the doing itself always last. The verb closes the sentence the way* nai *did. Wait for it; that waiting is the language.*
+*Chapter one told you what things are. This chapter shows what they do. One shape carries all of it: the doer first, then (if something is acted on) the acted-on, and the doing itself always last. The verb closes the sentence the way* nai *did. Wait for it; that waiting is the language.*
 
 ## I
 
@@ -29,11 +29,11 @@
 |---|---|---|
 | thalo | tha · lo | walk |
 
-*Walking, walking, walking, sleeping. When only the doer and the doing are present, the sentence is two words — and the doing still comes last.*
+*Walking, walking, walking, sleeping. When only the doer and the doing are present, the sentence is two words, and the doing still comes last.*
 
 ## III
 
-*Now a thing is acted on — and it stands* between *the doer and the doing:*
+*Now a thing is acted on, and it stands* between *the doer and the doing:*
 
 > **phao nuora pilewa.**
 > **lopia nuora nuola.**
@@ -64,7 +64,7 @@
 |---|---|---|
 | nila | ni · la | see |
 
-*Child sees dog; dog sees child — the same two words, and the order alone tells you who is looking. Read that pair again until the order speaks by itself. Then the cat, having seen everything worth seeing, returns to what it does best.*
+*Child sees dog; dog sees child: the same two words, and the order alone tells you who is looking. Read that pair again until the order speaks by itself. Then the cat, having seen everything worth seeing, returns to what it does best.*
 
 ---
 

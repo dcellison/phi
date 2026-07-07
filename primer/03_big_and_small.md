@@ -1,6 +1,6 @@
 # 3 · lo pelori
 
-*Two small tools in this chapter. The word* **lo** *before a noun makes it many. And a describing word placed before a noun describes it — you met* thiku *and* whalo *as things a sentence says; now watch them walk up and stand beside a noun instead.*
+*Two small tools in this chapter. The word* **lo** *before a noun makes it many. And a describing word placed before a noun describes it. You met* thiku *and* whalo *as things a sentence says; now watch them walk up and stand beside a noun instead.*
 
 ## I
 
@@ -25,7 +25,7 @@
 > **welao phao nuora pilewa.**
 > **lo thiku pelori wapi.**
 
-*No new words — look instead at where the old ones stand. Before a noun:* thiku pelori, *a small bird. The describer announces; the noun delivers. You have been reading this order since chapter one without being told.*
+*No new words. Look instead at where the old ones stand. Before a noun:* thiku pelori, *a small bird. The describer announces; the noun delivers. You have been reading this order since chapter one without being told.*
 
 ## III
 
@@ -40,11 +40,11 @@
 | peloru | pe · lo · ru | flower |
 | thepalu | the · pa · lu | garden |
 
-*The trees are large, the flowers are small, and all of it is good. Notice* peloru *and* pelori *— flower and bird, one vowel apart, the garden's two ornaments.*
+*The trees are large, the flowers are small, and all of it is good. Notice* peloru *and* pelori*: flower and bird, one vowel apart, the garden's two ornaments.*
 
 ## IV
 
-> **lopia mua thepalu nai.** — *say it and keep walking; the little word* mua *is chapter five's secret, arriving early so your ear knows it when it is named.*
+> **lopia mua thepalu nai.** *Say it and keep walking; the little word* mua *is chapter five's secret, arriving early so your ear knows it when it is named.*
 > **lopia lo peloru nila.**
 > **wheo lo shiro nila.**
 > **lohau lo pelori nila.**
@@ -55,7 +55,7 @@
 |---|---|---|
 | waero | wa · e · ro | sky |
 
-*Everyone looks at what suits them: the child at flowers, the elder at trees, the dog at birds — who decline to be looked at. Above all of it, the sky is large.*
+*Everyone looks at what suits them: the child at flowers, the elder at trees, the dog at birds (who decline to be looked at). Above all of it, the sky is large.*
 
 ---
 

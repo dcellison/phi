@@ -1,6 +1,6 @@
 # 5 · mia nuwera
 
-*Two questions get their grammar in this chapter: whose, and where. Whose costs nothing — put the owner directly before the owned, and you are done:* mia nuwera, *my bed;* lopia nuwera, *the child's bed. Where costs one small word:* **mua** *— in, at, on — which stands before the place the way every describing thing in Phi stands before what it describes. And the little* **ha** *from last chapter's door finally gets its name.*
+*Two questions get their grammar in this chapter: whose, and where. Whose costs nothing. Put the owner directly before the owned, and you are done:* mia nuwera, *my bed;* lopia nuwera, *the child's bed. Where costs one small word:* **mua** *— in, at, on, which stands before the place the way every describing thing in Phi stands before what it describes. And the little* **ha** *from last chapter's door finally gets its name.*
 
 ## I
 
@@ -14,7 +14,7 @@
 |---|---|---|
 | nuwera | nu · we · ra | bed |
 
-*Three beds, three sizes of person — and all three beds good, because this is that kind of house. No word for "of," no marker, no apostrophe: the owner stands before the owned, and standing there is the whole grammar.*
+*Three beds, three sizes of person, and all three beds good, because this is that kind of house. No word for "of," no marker, no apostrophe: the owner stands before the owned, and standing there is the whole grammar.*
 
 ## II
 
@@ -45,11 +45,11 @@
 | tomi | to · mi | pot |
 | wonepa | wo · ne · pa | table |
 
-*The soup is in the pot, the pot is on the table — one little* mua *covers in, at, and on, and the things themselves tell you which. The last line is the parent speaking, and the dog understands it perfectly.*
+*The soup is in the pot, the pot is on the table: one little* mua *covers in, at, and on, and the things themselves tell you which. The last line is the parent speaking, and the dog understands it perfectly.*
 
 ## IV
 
-*Now* **ha** *— here — and its twin* **ra** *— there.*
+*Now* **ha** *— here, and its twin* **ra** *— there.*
 
 > lopia: **wa misheko ha nai.**
 > phao: **tua. misheko ra nai.**
@@ -62,7 +62,7 @@
 | ha | ha | here |
 | ra | ra | there |
 
-*Is the cat here? No — there. In the garden? No — in the house. The last line the child speaks with the flat voice of someone who has lived with a cat before: in* my *bed. Look at how the sentence builds:* mua *announces a place, and the place is* mia nuwera *— whose-grammar nested inside where-grammar, each part announcing before delivering. You just read the deepest sentence in the primer so far without noticing.*
+*Is the cat here? No, there. In the garden? No, in the house. The last line the child speaks with the flat voice of someone who has lived with a cat before: in* my *bed. Look at how the sentence builds:* mua *announces a place, and the place is* mia nuwera*: whose-grammar nested inside where-grammar, each part announcing before delivering. You just read the deepest sentence in the primer so far without noticing.*
 
 ---
 

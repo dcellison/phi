@@ -1,6 +1,6 @@
 # 12 · torua
 
-*Part II closes with the words time itself goes by — day, past, future, now — and a form to hold them: the journal. Phi journals in fragments: a time-phrase set down alone, like a date, and then plain sentences. The household keeps one. Three entries:*
+*Part II closes with the words time itself goes by (day, past, future, now) and a form to hold them: the journal. Phi journals in fragments: a time-phrase set down alone, like a date, and then plain sentences. The household keeps one. Three entries:*
 
 ## I
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | theula | the · u · la | every, all |
 
-*Every day: sun up, night down.* theula *before a noun gathers all of its kind — every person, every bird — and* theula philo, *set down alone, is the journal-date for the things that are true daily.*
+*Every day: sun up, night down.* theula *before a noun gathers all of its kind (every person, every bird), and* theula philo, *set down alone, is the journal-date for the things that are true daily.*
 
 ## III
 
@@ -68,10 +68,10 @@
 | nosa | no · sa | now |
 | thimu | thi · mu | time |
 
-*Two last journal entries. The first is dated* now: *the house at this exact moment, quiet. The second is dated* theula thimu *— all time; always — and contains one sentence, which you have been reading since chapter one and will be true after this book ends.*
+*Two last journal entries. The first is dated* now: *the house at this exact moment, quiet. The second is dated* theula thimu *(all time; always) and contains one sentence, which you have been reading since chapter one and will be true after this book ends.*
 
 ---
 
-*Part II is complete. You can set any sentence into the past or the future, hold it open, close it, begin it, make it a habit — and date a journal page in a language you could not read a week ago. The book's standing request: keep the journal. Three fragments a day, dated* ha philo. *It is the oldest Phi practice there is.*
+*Part II is complete. You can set any sentence into the past or the future, hold it open, close it, begin it, make it a habit, and date a journal page in a language you could not read a week ago. The book's standing request: keep the journal. Three fragments a day, dated* ha philo. *It is the oldest Phi practice there is.*
 
-*The machinery, when you want it: the time compounds live in the manual's Part IV, chapter 14 and the compound registry; the journal practice is chapter 25's.*
+*The machinery, when you want it: the time compounds live in the manual's Part IV, chapter 15 and the compound registry; the journal practice is chapter 25's.*
