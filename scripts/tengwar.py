@@ -19,10 +19,18 @@ _G = _DATA["glyphs"]
 # Manual per-base-glyph position corrections, keyed by the base tengwa's
 # codepoint, then "above"/"below", each a {"dx": x, "dy": y} offset added
 # on top of the plain bbox placement in _tehta() (positive dx is right,
-# positive dy is up, both in font design units, upem 2048). Empty entries
-# just mean the plain placement hasn't been checked against a reference
-# yet, not that it's known correct. Add one at a time, informed by an
-# actual rendered comparison - see writing_systems/tengwar_mode.md and
+# positive dy is up, both in font design units, upem 2048). A slot may
+# also carry a "by_vowel" dict, keyed by the tehta's own codepoint (e.g.
+# "E04A" for o-above), overriding dx/dy for that one vowel; vowels not
+# listed fall back to the slot's own dx/dy. This exists because vowels
+# differ enough in size and shape that one offset per base letter can't
+# fit all of them: o (a wide diagonal swoosh) needs far more vertical
+# clearance from an ascender's hook than a (a compact diamond cluster)
+# does, and forcing them to share a height either buries o in the hook
+# or floats a way off above the letter. Empty entries just mean the
+# plain placement hasn't been checked against a reference yet, not that
+# it's known correct. Add one at a time, informed by an actual rendered
+# comparison - see writing_systems/tengwar_mode.md and
 # [[tengwar-telcontar-swap]] in memory for the story of why this exists
 # (automated per-glyph shape analysis was tried and abandoned: it kept
 # finding a new letter shape it got wrong) and for th specifically, the
@@ -92,8 +100,9 @@ def _tehta(placed, key, base_key, x, above):
           - (pen + (teh["bbox"][0] + teh["bbox"][2]) / 2))
     dy = (base["bbox"][3] + CLEAR - teh["bbox"][1] if above
           else base["bbox"][1] - CLEAR - teh["bbox"][3])
-    tweak = TWEAKS.get(base_key, {}).get("above" if above else "below")
-    if tweak:
+    slot = TWEAKS.get(base_key, {}).get("above" if above else "below")
+    if slot:
+        tweak = slot.get("by_vowel", {}).get(key, slot)
         dx += tweak.get("dx", 0)
         dy += tweak.get("dy", 0)
     return _place(placed, key, pen, dx, dy)
