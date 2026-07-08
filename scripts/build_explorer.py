@@ -323,22 +323,6 @@ import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
 
-def tengwarize(html):
-    """Inside each <pre> of a text page, give every Phi line a Tengwar
-    rendering alongside the romanization; the tengtoggle switches them."""
-    def do_pre(m):
-        out = []
-        for line in m.group(1).split("\n"):
-            svg = None
-            if tengwar.phi_line(line.strip(), PHI_WORDS):
-                svg = tengwar.render_line(line.strip())
-            if svg:
-                out.append(f'<span class="rom">{line}</span><span class="teng">{svg}</span>')
-            else:
-                out.append(line)
-        return "<pre>" + "\n".join(out) + "</pre>"
-    return re.sub(r"<pre>(.*?)</pre>", do_pre, html, flags=re.S)
-
 def tengwarize_dual(html):
     """For the tengwar_mode pamphlet: every Phi line gets its Tengwar
     rendering on its own line directly above the romanization, both always
@@ -355,7 +339,7 @@ def tengwarize_dual(html):
 
 TEXTS_OUT = ROOT / "web" / "texts"
 TEXTS_OUT.mkdir(parents=True, exist_ok=True)
-NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../teacher.html">teacher</a> <button class="tengtoggle" aria-label="toggle tengwar script" title="tengwar / roman">tengwar</button> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../teacher.html">teacher</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def texts_page(body, title):
     return f"""<!doctype html>
@@ -366,7 +350,6 @@ def texts_page(body, title):
 <meta name="description" content="Phi's literature: eight transmutations, from the Metta Sutta to The Velveteen Rabbit — and the Ring Verse, refused.">
 <title>Phi texts &mdash; {title}</title>
 <script src="../theme.js"></script>
-<script src="../tengwar.js"></script>
 <script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
@@ -399,7 +382,7 @@ TEXTS = [
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
-    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(tengwarize(md_to_html(md)), title))
+    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(md_to_html(md), title))
 
 toc = ["<h1>The texts</h1>",
        "<p>Phi's literature so far. Each is a transmutation &mdash; not a translation word for word, but the idea rebuilt from Phi's own concepts, with notes recording every adaptation the language asked for.</p>"]

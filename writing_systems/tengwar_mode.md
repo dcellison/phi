@@ -93,9 +93,9 @@ The 2021 mode met current Phi, and Daniel ruled on every gap:
 
 ## The renderer
 
-The full-corpus test (old agenda item 5) is live: every Phi line on the texts shelf is rendered to Tengwar at build time, and the shelf's `tengwar` toggle switches scripts. The pipeline is pure geometry — no shaping engine, so it is identical in every browser:
+The renderer is pure geometry, no shaping engine, so it is identical in every browser. Tengwar has no toggle or general-purpose display anywhere on the site; it appears in exactly two places, both permanent:
 
 - `writing_systems/fonts/` — Tengwar Telcontar 0.08 by Johan Winge, vendored under the GNU GPL (see the font's own name table for the license statement).
 - `scripts/extract_tengwar_glyphs.py` — one-off: pulls the mode's 28 glyph outlines, advances, and boxes into `writing_systems/tengwar_glyphs.json` (committed, so CI needs no font tooling).
 - `scripts/tengwar.py` — parses romanized Phi into (tengwa, above, below) units per this mode and assembles self-contained SVG (`currentColor` fill, so the theme toggle applies).
-- `scripts/build_explorer.py` — wraps each Phi line in the texts as romanization plus SVG; `web/tengwar.js` remembers the reader's toggle choice. Practice-companion pamphlets carry no Tengwar rendering at all, with one exception: the `tengwar_mode` pamphlet, which shows both scripts at once, permanently, with no toggle, since that pamphlet's job is teaching the correlation between them.
+- `scripts/build_explorer.py` — the `tengwar_mode` pamphlet shows every Phi line as a Tengwar rendering directly above its romanization, always visible, since teaching that correlation is the pamphlet's whole purpose. Every word in the lexicon is also pre-rendered into `web/tengwar_words.json` for the transmutation teacher tool, which shows a sentence's Tengwar as one of its output panels. The texts shelf and every other pamphlet carry no Tengwar rendering at all.
