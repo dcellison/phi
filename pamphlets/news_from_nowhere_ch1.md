@@ -38,7 +38,12 @@ morris: "finally shading off into a vigorous statement by various friends of the
 wi shao himo miona to nai.
 two three-group HUM.CLF person PST be.
 (There were six people.)
-morris: "there were six persons present, and consequently six sections of the party were represented"
+morris: "there were six persons present"
+
+thelao lo shia kowela to nai.
+CONS PL 3SG council PST be.
+(And so, they were a council.)
+morris: "and consequently six sections of the party were represented"
 
 ta shao ta himo phirae miona mena mawha miona kulo meno to pula.
 one three-group one HUM.CLF different person DECL.COMP NONE person guide DECL.COMP.CLOSE PST wish.
@@ -61,7 +66,7 @@ shia mena lo miona tawimo nai meno haolu.
 morris: "damning all the rest for fools"
 ```
 
-**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `korua thero`, heart-fire, is anger, an established compound, not a new one. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not. `phirae` (different) marks the four as divergent even from each other, not only from everyone else, and `noeli` (warm, the emotional sense, distinct from temperature) carries "good-tempered" without the quiet that would sit oddly against the discussion's own brisk, vigorous pace. `theisa` (loud) marks the one voice that finally rises. The opening line states only what it alone contributes, the headcount: the meeting-place and the discussion's topic are carried in the block above.
+**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `korua thero`, heart-fire, is anger, an established compound, not a new one. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not. `phirae` (different) marks the four as divergent even from each other, not only from everyone else, and `noeli` (warm, the emotional sense, distinct from temperature) carries "good-tempered" without the quiet that would sit oddly against the discussion's own brisk, vigorous pace. `theisa` (loud) marks the one voice that finally rises. The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
 
 ### nurako — The railway
 
