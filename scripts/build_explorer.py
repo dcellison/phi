@@ -398,7 +398,7 @@ print(f"wrote web/texts/: {len(TEXTS)} texts + contents")
 # ---- the pamphlets: deep-dive companions rendered to web/pamphlets/ ----
 PAMPH_OUT = ROOT / "web" / "pamphlets"
 PAMPH_OUT.mkdir(parents=True, exist_ok=True)
-NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../teacher.html">teacher</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../teacher.html">teacher</a> <button class="tengtoggle" aria-label="toggle tengwar script" title="tengwar / roman">tengwar</button> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def pamphlet_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -409,6 +409,7 @@ def pamphlet_page(body, title, footer_nav=""):
 <meta name="description" content="Deep-dive practice companions to the Phi manual, from relative clauses to the punctuation you can hear — each explained patiently, with exercises and answer keys.">
 <title>Phi pamphlets &mdash; {title}</title>
 <script src="../theme.js"></script>
+<script src="../tengwar.js"></script>
 <script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
@@ -443,6 +444,8 @@ PAMPHLETS = [
      "Phi writes one mark and says the rest: wa the question mark, shola and sholo the quotation marks, kona the comma of address, ne the capital of a name — and the dictation test that page-bound punctuation cannot pass."),
     ("three_slots", "The three slots",
      "The whole grammar is thirty-five small words that never change: the frame, the stack, and the word's dress, drilled to reflex — with the interaction tables, the ruled readings, and the evening question where every particle costs what it claims."),
+    ("tengwar_mode", "How Phi is written in Tengwar",
+     "A second hand for the same language: the sixteen consonant tengwar, the vowel tehtar that ride above and below them, and the one true invention — a hiatus rule that needs no vowel carrier at all, because Phi's own sound rules never leave it needing one."),
 ]
 toc = ["<h1>The pamphlets</h1>",
        "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]
@@ -451,7 +454,7 @@ for dirname, title, blurb in PAMPHLETS:
     pfiles = sorted((ROOT / "pamphlets" / dirname).glob("*.md"))
     ptitles = [title_of(f.read_text()) for f in pfiles]
     for i, f in enumerate(pfiles):
-        body = md_to_html(f.read_text())
+        body = tengwarize(md_to_html(f.read_text()))
         prev_link = f'<a href="{dirname}__{pfiles[i-1].stem}.html">&lsaquo; {ptitles[i-1]}</a>' if i > 0 else ""
         next_link = f'<a href="{dirname}__{pfiles[i+1].stem}.html">{ptitles[i+1]} &rsaquo;</a>' if i + 1 < len(pfiles) else ""
         footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">all pamphlets</a>{next_link}</div>'
