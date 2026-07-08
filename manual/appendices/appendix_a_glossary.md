@@ -56,30 +56,54 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 Grammatical category labels follow the Leipzig Glossing Rules and the standard extensions of the typological literature. One deliberate house convention, permitted by Leipzig rule 4: lexical function words (spatial prepositions, quantifiers) are also glossed in capitals (ABOVE, BETWEEN, MANY) so that every function word is visually distinct from content vocabulary in a gloss line. Interrogatives are glossed by meaning in lowercase (who, where, when).
 
-| Abbr. | Meaning | Phi | Abbr. | Meaning | Phi |
-|---|---|---|---|---|---|
-| 1SG/2SG/3SG | I / you / they-one | mia, thia, shia | INTS | intensifier | ru |
-| 1PL | we | lo mia | IPFV | imperfective | si |
-| ABL | from | lue | IRR | irrealis | he |
-| ABST.CLF | abstraction classifier | nophe | LIFE.CLF | living-thing classifier | lipha |
-| ALL | to (allative) | kau | LOC | in/at | mua |
-| ASSUM | assumed | ho | NEC | necessity | na |
-| CAUS | causative | ka | NEG | negation | ma |
-| CESS | cessative | te | OPT | optative | su |
-| CMPR | comparative | mo | ORD | ordinal | nu |
-| COND | conditional | lu | PASS | passive | se |
-| COORD | and | nela | PFV | perfective | ki |
-| DAT | to, for (recipient) | wei | PL | plural | lo |
-| DECL.COMP | that-clause (opener) | mena | POL | politeness | pi |
-| DECL.COMP.CLOSE | that-clause (closer) | meno | POT | possibility (can/may) | po |
-| DIR | witnessed | hi | PROX/DIST | this/that | ha, ra |
-| DISJ | or | sola | PST | past | to |
-| FOC | focus | ko | Q | question | wa |
-| FUT | future | so | QUOT.COMP | quotation (opener) | shola |
-| HAB | habitual | ro | QUOT.COMP.CLOSE | quotation (closer) | sholo |
-| HUM.CLF | people classifier | himo | REL | relativizer | rena |
-| IMP | imperative | no | REP | reported | ti |
-| INCH | inchoative | pa | RESTR | only, restrictive | li |
-| INFER | inferred | ke | THING.CLF | object classifier | themo |
-| INT.COMP | embedded question (opener) | wela | VOC | vocative | kona |
-| INT.COMP.CLOSE | embedded question (closer) | welo | | | |
+| Abbr. | Phi | Meaning |
+|---|---|---|
+| 1SG/2SG/3SG | mia, thia, shia | I / you / they-one |
+| 1PL | lo mia | we |
+| ABL | lue | from |
+| ABST.CLF | nophe | abstraction classifier |
+| ALL | kau | to (allative) |
+| ASSUM | ho | assumed |
+| CAUS | ka | causative |
+| CESS | te | cessative |
+| CMPR | mo | comparative |
+| COND | lu | conditional |
+| COORD | nela | and |
+| DAT | wei | to, for (recipient) |
+| DECL.COMP | mena | that-clause (opener) |
+| DECL.COMP.CLOSE | meno | that-clause (closer) |
+| DIR | hi | witnessed |
+| DISJ | sola | or |
+| FOC | ko | focus |
+| FUT | so | future |
+| HAB | ro | habitual |
+| HUM.CLF | himo | people classifier |
+| IMP | no | imperative |
+| INCH | pa | inchoative |
+| INFER | ke | inferred |
+| INT.COMP | wela | embedded question (opener) |
+| INT.COMP.CLOSE | welo | embedded question (closer) |
+| INTS | ru | intensifier |
+| IPFV | si | imperfective |
+| IRR | he | irrealis |
+| LIFE.CLF | lipha | living-thing classifier |
+| LOC | mua | in/at |
+| NEC | na | necessity |
+| NEG | ma | negation |
+| OPT | su | optative |
+| ORD | nu | ordinal |
+| PASS | se | passive |
+| PFV | ki | perfective |
+| PL | lo | plural |
+| POL | pi | politeness |
+| POT | po | possibility (can/may) |
+| PROX/DIST | ha, ra | this/that |
+| PST | to | past |
+| Q | wa | question |
+| QUOT.COMP | shola | quotation (opener) |
+| QUOT.COMP.CLOSE | sholo | quotation (closer) |
+| REL | rena | relativizer |
+| REP | ti | reported |
+| RESTR | li | only, restrictive |
+| THING.CLF | themo | object classifier |
+| VOC | kona | vocative |
