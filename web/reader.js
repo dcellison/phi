@@ -71,6 +71,8 @@
       addMarkButton(h, text);
     });
 
+    glossPopovers(main);
+
     /* anchors exist only now, so do the jump the browser could not */
     if (location.hash) {
       var target = document.getElementById(location.hash.slice(1));
@@ -117,6 +119,36 @@
     b.classList.toggle("marked", on);
     b.title = on ? "remove bookmark" : "bookmark this section";
     b.setAttribute("aria-label", b.title);
+  }
+
+  /* ---- appendix A: click-to-toggle for gloss row popovers (hover
+     and keyboard focus already reveal them from CSS alone; this adds
+     tap support on touch devices and a way to dismiss on demand) ---- */
+
+  function glossPopovers(main) {
+    var rows = main.querySelectorAll(".gloss-row");
+    if (!rows.length) return;
+    function closeAll() {
+      Array.prototype.forEach.call(rows, function (r) { r.classList.remove("open"); });
+    }
+    Array.prototype.forEach.call(rows, function (row) {
+      row.addEventListener("click", function (ev) {
+        var wasOpen = row.classList.contains("open");
+        closeAll();
+        row.classList.toggle("open", !wasOpen);
+        ev.stopPropagation();
+      });
+      row.addEventListener("keydown", function (ev) {
+        if (ev.key === "Enter" || ev.key === " ") {
+          ev.preventDefault();
+          row.click();
+        }
+      });
+    });
+    document.addEventListener("click", closeAll);
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape") closeAll();
+    });
   }
 
   /* ---- section contents page: continue-reading link and the
