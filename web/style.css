@@ -344,7 +344,7 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
 .teng-svg { vertical-align: middle; max-width: 100%; }
 
 /* ---- tengwar mode pamphlet: both hands shown at once, no toggle ---- */
-.teng-dual { display: block; margin-bottom: .3rem; }
+.teng-dual { font-size: 2em; }
 
 /* ---- reading memory (reader.js): continue-reading box, bookmarks ---- */
 .readerhome {
