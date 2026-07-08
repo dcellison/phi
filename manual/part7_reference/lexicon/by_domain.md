@@ -611,7 +611,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (72)
+## dialogue (73)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -620,6 +620,7 @@
 | `haoni` | voice | fundamental medium for spoken communication |
 | `hea` | hear | provides foundational reception for verbal exchange |
 | `howela` | receive | receiving is fundamental to exchange and reciprocity |
+| `kapura` | shout | forceful or urgent vocalization |
 | `kela` | rejoice | Expressing joy to others |
 | `kiroa` | sign | Visual message |
 | `kowela` | council | transforms governance through deep listening and patient dialogue |
@@ -688,7 +689,7 @@
 | `whaline` | thank | Verbal expression of gratitude |
 | `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
-## emotion (104)
+## emotion (105)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -703,6 +704,7 @@
 | `kaeli` | like | the feeling of preference and affinity |
 | `kaelo` | sweet | Enjoyable quality |
 | `kaeshu` | bold | Confident daring |
+| `kapura` | shout | intensity breaking into voice |
 | `kasuno` | selfish | Self-centered |
 | `kela` | rejoice | Experiencing deep gladness |
 | `keloe` | companion | Abiding presence |

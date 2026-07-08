@@ -745,7 +745,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (239)
+## verb (240)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -766,6 +766,7 @@
 | `kamo` | arrive | Arrive |
 | `kanelu` | err | Err |
 | `kanu` | choose | Choose |
+| `kapura` | shout | Shout |
 | `kati` | cut | Cut |
 | `kawepa` | catch | Catch |
 | `kealo` | create | Create |
