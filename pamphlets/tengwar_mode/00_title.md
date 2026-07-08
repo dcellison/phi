@@ -31,6 +31,7 @@ This pamphlet assumes the sound system (manual ch09–10) and the romanization t
 8. Common errors
 9. Exercises
 10. Appendix: quick reference
+11. Examples
 
 ---
 
