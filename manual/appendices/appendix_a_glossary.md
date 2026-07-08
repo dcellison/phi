@@ -61,21 +61,25 @@ Grammatical category labels follow the Leipzig Glossing Rules and the standard e
 | 1SG/2SG/3SG | I / you / they-one | mia, thia, shia | INTS | intensifier | ru |
 | 1PL | we | lo mia | IPFV | imperfective | si |
 | ABL | from | lue | IRR | irrealis | he |
-| ALL | to (allative) | kau | | | |
-| ASSUM | assumed | ho | LOC | in/at | mua |
-| CAUS | causative | ka | NEC | necessity | na |
-| CESS | cessative | te | NEG | negation | ma |
-| CMPR | comparative | mo | OPT | optative | su |
-| COND | conditional | lu | ORD | ordinal | nu |
-| COORD | and | nela | PASS | passive | se |
-| DAT | to, for (recipient) | wei | PFV | perfective | ki |
-| DECL.COMP | that-clause | mena/meno | PL | plural | lo |
-| DIR | witnessed | hi | POL | politeness | pi |
-| DISJ | or | sola | POT | possibility (can/may) | po |
-| FOC | focus | ko | PROX/DIST | this/that | ha, ra |
-| FUT | future | so | PST | past | to |
-| HAB | habitual | ro | Q | question | wa |
-| IMP | imperative | no | QUOT.COMP | quotation | shola/sholo |
-| INCH | inchoative | pa | REL | relativizer | rena |
-| INFER | inferred | ke | REP | reported | ti |
-| INT.COMP | embedded question | wela/welo | VOC | vocative | kona |
+| ABST.CLF | abstraction classifier | nophe | LIFE.CLF | living-thing classifier | lipha |
+| ALL | to (allative) | kau | LOC | in/at | mua |
+| ASSUM | assumed | ho | NEC | necessity | na |
+| CAUS | causative | ka | NEG | negation | ma |
+| CESS | cessative | te | OPT | optative | su |
+| CMPR | comparative | mo | ORD | ordinal | nu |
+| COND | conditional | lu | PASS | passive | se |
+| COORD | and | nela | PFV | perfective | ki |
+| DAT | to, for (recipient) | wei | PL | plural | lo |
+| DECL.COMP | that-clause (opener) | mena | POL | politeness | pi |
+| DECL.COMP.CLOSE | that-clause (closer) | meno | POT | possibility (can/may) | po |
+| DIR | witnessed | hi | PROX/DIST | this/that | ha, ra |
+| DISJ | or | sola | PST | past | to |
+| FOC | focus | ko | Q | question | wa |
+| FUT | future | so | QUOT.COMP | quotation (opener) | shola |
+| HAB | habitual | ro | QUOT.COMP.CLOSE | quotation (closer) | sholo |
+| HUM.CLF | people classifier | himo | REL | relativizer | rena |
+| IMP | imperative | no | REP | reported | ti |
+| INCH | inchoative | pa | RESTR | only, restrictive | li |
+| INFER | inferred | ke | THING.CLF | object classifier | themo |
+| INT.COMP | embedded question (opener) | wela | VOC | vocative | kona |
+| INT.COMP.CLOSE | embedded question (closer) | welo | | | |
