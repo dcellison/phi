@@ -8,7 +8,7 @@ VOC NAME moli.
 (Moli!)
 ```
 
-The vocative opens the note the way chapter 6 already taught: `kona` is a word, so it is written exactly as any other word is, tengwa and tehta together, no special mark for a greeting because a greeting is not silent. `ne` is one tengwa alone, númen carrying nothing below it — a particle this short is still a full word to the hand that writes it.
+The vocative opens the note the way chapter 6 already taught: `kona` is a word, so it is written exactly as any other word is, tengwa and tehta together, no special mark for a greeting because a greeting is not silent. `ne` is one tengwa alone, númen carrying nothing below it. A particle this short is still a full word to the hand that writes it.
 
 ```
 mia roela thekiro.
@@ -16,7 +16,7 @@ mia roela thekiro.
 (I write a scroll.)
 ```
 
-`roela` opens on rómen, chapter 5's word-initial r, carrying a hiatus of its own — o above, e below — chapter 4's rule, doing its work without announcing itself, before lambë closes the word with its own single vowel, a. `thekiro` closes the line with a word that carries two lessons in three tengwar: thúlë for the digraph chapter 2 taught as one shape for two letters, and a final r that is órë, not rómen, because it opens a later syllable, not the word itself — chapter 5's rule only ever asks where the r sits.
+`roela` opens on rómen, chapter 5's word-initial r, carrying a hiatus of its own (o above, e below), chapter 4's rule doing its work without announcing itself, before lambë closes the word with its own single vowel, a. `thekiro` closes the line with a word that carries two lessons in three tengwar: thúlë for the digraph chapter 2 taught as one shape for two letters, and a final r that is órë, not rómen, because it opens a later syllable, not the word itself. Chapter 5's rule only ever asks where the r sits.
 
 ```
 mia thia lothea.
