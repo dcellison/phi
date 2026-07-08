@@ -259,7 +259,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (373)
+## noun (374)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -435,6 +435,7 @@
 | `nuora` | food | Food |
 | `nuphari` | fog | Fog |
 | `nupira` | shame | Shame |
+| `nurako` | railway | Railway |
 | `nuri` | cycle | Cycle |
 | `nuroa` | kitchen | Kitchen |
 | `nusho` | depth | Depth |

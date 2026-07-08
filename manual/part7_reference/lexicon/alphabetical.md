@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*906 words.*
+*907 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -395,6 +395,7 @@
 | `nuora` | food | /n̪u.ˈo̞.rä/ | noun |
 | `nuphari` | fog | /n̪u.ˈɸä.ri/ | noun |
 | `nupira` | shame | /n̪u.ˈpi.rä/ | noun |
+| `nurako` | railway | /n̪u.ˈrä.ko̞/ | noun |
 | `nuri` | cycle | /ˈn̪u.ri/ | noun |
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
