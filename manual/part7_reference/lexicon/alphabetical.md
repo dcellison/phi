@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*912 words.*
+*913 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -63,6 +63,7 @@
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
 | `kanelu` | err | /kä.ˈn̪e̞.lu/ | verb |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
+| `kapura` | shout | /kä.ˈpu.rä/ | verb |
 | `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
 | `kathu` | seal | /ˈkä.θu/ | noun |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
