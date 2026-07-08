@@ -484,7 +484,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (119)
+## creation (120)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -535,6 +535,7 @@
 | `nira` | cord | Binding line |
 | `norelu` | form | Bringing structure into existence |
 | `noru` | bowl | Vessel |
+| `nurako` | railway | The iron road, before the turning |
 | `palu` | plate | Serving dish |
 | `pawela` | participate | actively contributing implies co-creation |
 | `pelua` | paper | Writing surface |
