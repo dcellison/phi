@@ -1,6 +1,6 @@
 # nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed
 
-*William Morris published News from Nowhere in 1890: a Victorian socialist falls asleep after a heated political argument and wakes into a future England that has abolished money, private property, and rule itself, a world built on craft, common land, and work given rather than sold. Its economics already match a ruling Phi settled on its own: canon refuses money, price, and wage as vocabulary, since Phi treats exchange as a gift. This is the book's first chapter, a trial for a longer transmutation still to come. Nothing here needed coining except one word, `nurako` (railway), for the iron road the sleeper is glad to leave behind. The chapter's own frame is told as secondhand report, "says our friend," before the narrator steps forward to tell the rest himself, a device that lines up with Phi's reportative evidential almost exactly.*
+*William Morris published News from Nowhere in 1890: a Victorian socialist falls asleep after a heated political argument and wakes into a future England that has abolished money, private property, and rule itself, a world built on craft, common land, and work given rather than sold. Its economics already match a ruling Phi settled on its own: canon refuses money, price, and wage as vocabulary, since Phi treats exchange as a gift. This is the book's first chapter, a trial for a longer transmutation still to come. Six words needed coining: `nurako` (railway), `welamu` (elm), `tawimo` (foolish), `pothu` (stink), `kanelu` (err), and `monelu` (amused), all favored over compression once it was clear a closer transmutation mattered more than an economical one. The chapter's own frame is told as secondhand report, "says our friend," before the narrator steps forward to tell the rest himself, a device that lines up with Phi's reportative evidential almost exactly.*
 
 ---
 
@@ -32,9 +32,13 @@ discuss quiet be.
 ta miona korua thero ki haolu.
 one person heart fire PFV speak.
 (But one grew angry, and spoke sharply.)
+
+shia mena lo miona tawimo nai meno haolu.
+3SG DECL.COMP PL person foolish be DECL.COMP.CLOSE speak.
+(He said the others were foolish.)
 ```
 
-**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal. `korua thero`, heart-fire, is anger, an established compound, not a new one. "Damning the rest for fools" is dropped; Phi has no word for fool and the detail carries no weight the anger itself doesn't already carry.
+**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal. `korua thero`, heart-fire, is anger, an established compound, not a new one. "Damning the rest for fools" now keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not.
 
 ### nurako — The railway
 
@@ -42,6 +46,14 @@ one person heart fire PFV speak.
 shia muila phou nurako mua kau womu to wepu.
 3SG earth BELOW railway LOC ALL home PST go.
 (He went home by the underground railway.)
+
+nurako mua sheloi miona nai.
+railway LOC MANY person be.
+(The carriage was crowded.)
+
+nurako pothu.
+railway stink.
+(It stank.)
 
 shia korua nuhe to nai.
 3SG heart sadness PST be.
@@ -52,7 +64,7 @@ shia shareo si remo.
 (He kept turning the discussion over in his mind.)
 ```
 
-**Notes:** the one coined word in this chapter. `nurako` names the iron road honestly rather than describing around it, since a whole novel of Victorian London will need the word again. `muila phou`, below the earth, marks this specific line as underground; the word itself stays general, for whichever rail a later chapter needs. The carriage's own crowded, stinking discomfort compresses into `korua nuhe`, a sad heart. The feeling survives; the inventory does not.
+**Notes:** `nurako` names the iron road honestly rather than describing around it, since a whole novel of Victorian London will need the word again. `muila phou`, below the earth, marks this specific line as underground; the word itself stays general, for whichever rail a later chapter needs. The carriage's crowded, stinking discomfort now keeps its own words too: `sheloi` (many) for the crowding, and `pothu` (stink), coined as the negative-valence partner to `whinu` (smell, neutral), for what the vapour-bath actually smelled like.
 
 ### shero phelora — The beautiful night
 
@@ -73,16 +85,16 @@ waero nuwi to nai.
 sky clear PST be.
 (The sky was clear.)
 
-lunei limu shiro mua to nai.
-moon young tree LOC PST be.
-(A young moon hung in the tree.)
+lunei limu welamu mua to nai.
+moon young elm LOC PST be.
+(A young moon hung in the elm.)
 
 shia korua siora to phaelo.
 3SG heart joy PST feel.
 (Joy rose in his heart.)
 ```
 
-**Notes:** the original spends a full paragraph on the wind turning the sky clear, the elm's particular branches, a shabby suburb that briefly feels like open country. Phi keeps the images that carry weight (the sharp air, the clear sky, the young moon in a tree) and lets a plain tree, `shiro`, stand in for the elm; the species is a detail the transmutation doesn't need to survive. The turn itself, discontent dissolving into joy, is the paragraph's real content, and it is the one thing kept whole.
+**Notes:** the original spends a full paragraph on the wind turning the sky clear, the elm's particular branches, a shabby suburb that briefly feels like open country. Phi keeps the images that carry weight (the sharp air, the clear sky, the young moon in a real tree) and coins `welamu` for the elm itself rather than falling back on the generic `shiro`: a landscape's own species is exactly the kind of nature vocabulary worth a real word, not a detail to compress away. The turn itself, discontent dissolving into joy, is the paragraph's real content, and now the tree it happens beneath is a real one too.
 
 ### luphore — The river
 
@@ -91,9 +103,9 @@ shia luphore mua lunei to nila.
 3SG river LOC moon PST see.
 (He watched the moon on the river.)
 
-shia repha to ma morae.
-3SG bridge PST NEG sense.
-(He did not notice the bridge.)
+shia suro repha to ma morae.
+3SG rope bridge PST NEG sense.
+(He did not notice the rope-bridge.)
 
 shia womu mua to shua.
 3SG home LOC PST come.
@@ -103,12 +115,12 @@ shia shareo to sahu.
 3SG discuss PST forget.
 (He forgot the discussion entirely.)
 
-shia shea nela therilu nela hiso ki soliru.
-3SG peace COORD rest COORD clean PFV hope.
-(He hoped only for peace, rest, and cleanliness.)
+shia shea nela therilu nela hiso nela phena ki soliru.
+3SG peace COORD rest COORD clean COORD kind PFV hope.
+(He hoped for peace, rest, cleanliness, and goodwill.)
 ```
 
-**Notes:** the ugly suspension bridge survives only as a thing he does not notice, `ma morae`, using the same verb the corpus already uses for perception. Three hoped-for things replace the original's four (peace, rest, cleanliness, smiling goodwill); goodwill folds into `shea`, peace, rather than asking for its own word.
+**Notes:** the ugly suspension bridge survives as a thing he does not notice (`ma morae`, the same verb the corpus already uses for perception), composed rather than coined: `suro repha`, rope-bridge, a plain noun-noun compound matching the pattern already used elsewhere (`mokura kesho`, belly-middle, for navel). The engineering detail is a real one, but rare enough in this book that composition serves it better than a whole new word would. All four hoped-for things now survive: goodwill arrives through `phena` (kind), already in the lexicon, its quality noun (kindness, goodwill) available by the ordinary rule with no coining needed at all.
 
 ### nulae nela remo — Sleep and the waking night
 
@@ -125,9 +137,13 @@ shia korua tiso to nai.
 3SG heart sharp PST be.
 (His mind was sharp.)
 
-shia luera mua remo.
-3SG past LOC think.
-(He thought of the past.)
+shia luera kanelu ki halemu.
+3SG past err PFV remember.
+(He remembered an old mistake.)
+
+shia monelu to nai.
+3SG amused PST be.
+(He was amused.)
 
 shia korua we siora to nai.
 3SG heart ALSO joy PST be.
@@ -138,7 +154,7 @@ shia we to nulae.
 (He slept again.)
 ```
 
-**Notes:** `te`, the particle for stopping or ceasing, does double duty as "waking": there is no separate verb for it, since waking is only sleep's own ending. The original's long inventory of remembered stupidities and mounting private amusement compresses into the arc itself: a sharp mind, an old sadness turned over, and a heart that grows glad regardless. What is kept is the shape of the feeling, not its inventory.
+**Notes:** `te`, the particle for stopping or ceasing, does double duty as "waking": there is no separate verb for it, since waking is only sleep's own ending. The original's long inventory of remembered stupidities and mounting private amusement now keeps its own words too: `kanelu` (err) licenses its own event noun by rule, an old mistake remembered rather than a vague unhappiness; `monelu` (amused), coined as siora's (joy) narrower, lighter cousin, is the specific pleasure of finding one's own past foolishness funny rather than shameful.
 
 ## The report continues
 
@@ -158,4 +174,4 @@ mia melu korua ki sano.
 
 ## What the transmutation changed
 
-*Gap log: one new word, `nurako` (railway, coined on nasal-grounded/liquid-rolling/stop-closed sound symbolism, cleared of collisions before coining). Everything else composed from existing vocabulary: the Anarchist faction described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary; anger as the established compound `korua thero`; waking as `te` (cease) plus sleep, with no separate verb; the elm generalized to a plain tree; the suspension bridge's engineering dropped, kept only as a thing unnoticed; four hoped-for things compressed to three; the carriage's crowded discomfort compressed to a sad heart; the half-waking inventory of old mistakes compressed to its emotional arc. The chapter's reportative frame ("says our friend") is carried by Phi's own `ti` evidential, opening the account and then dropping away exactly when the narrator's promise to speak firsthand is kept.*
+*Gap log: six new words, all cleared of collisions before coining. `nurako` (railway), nasal-grounded/liquid-rolling/stop-closed, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word. `tawimo` (foolish), the natural opposite of `phue` (wise), built with a deliberately different sound rather than composed as `ma phue`. `pothu` (stink), the negative-valence partner to `whinu` (smell, neutral). `kanelu` (err), whose event noun (a mistake) comes by the ordinary rule. `monelu` (amused), `siora`'s (joy) narrower, lighter cousin. One detail still composes rather than coins: the suspension bridge, `suro repha` (rope-bridge), a plain noun-noun compound, since the engineering itself is rare enough in this book that a new word wasn't warranted. Everything else composed from existing vocabulary: the Anarchist faction described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary; anger as the established compound `korua thero`; waking as `te` (cease) plus sleep, with no separate verb; goodwill through `phena` (kind), already in the lexicon. The chapter's reportative frame ("says our friend") is carried by Phi's own `ti` evidential, opening the account and then dropping away exactly when the narrator's promise to speak firsthand is kept.*

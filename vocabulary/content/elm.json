@@ -1,0 +1,24 @@
+{
+  "word": "welamu",
+  "gloss": "elm",
+  "ipa": "/we̞.ˈlä.mu/",
+  "syllables": [
+    "we",
+    "la",
+    "mu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Elm / The Riverside Tree / Tall Shade Along the Way",
+  "description": "A tall deciduous tree, once common along English lanes, hedgerows, and riverbanks, its high branches meeting overhead to shade a path or a road. Coined the first time a transmutation needed a species and not just 'shiro' (tree) generally, since a landscape's own trees are exactly the kind of specific, embodied knowledge Phi's nature vocabulary is for.",
+  "sound_symbolism": "'We' opens on flow, the sway of high branches. 'La' carries the same liquid continuity through the trunk's long rise. 'Mu' grounds it low and closed, the deep root answering the high branch.",
+  "grammatical_notes": "Functions as a noun: 'welamu ruela mua whano.' (An elm stands over the path.) Takes 'lipha', the classifier for living things, when counted: 'ta lipha welamu' (one elm).",
+  "pillars": {
+    "art-nouveau-aesthetics": "A tall tree's own branching is organic form before any hand shapes it; elms lining a riverside are the pattern the movement's ornament keeps returning to.",
+    "pre-industrial-wisdom": "Naming a specific tree rather than 'tree' in general is embodied knowledge of a real place, the kind a landscape teaches a person who has actually walked it."
+  },
+  "tags": {
+    "nature": "The tree of the riverside lane"
+  }
+}

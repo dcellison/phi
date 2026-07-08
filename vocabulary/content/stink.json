@@ -1,0 +1,23 @@
+{
+  "word": "pothu",
+  "gloss": "stink",
+  "ipa": "/ˈpo̞.θu/",
+  "syllables": [
+    "po",
+    "thu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Stink / A Smell Gone Wrong / What the Nose Refuses",
+  "description": "To give off a foul smell: food gone bad, a crowded room, anything the nose reads as wrong before the mind can say why. The negative-valence partner to whinu (smell, neutral), needed the moment a transmutation has to describe something honestly unpleasant rather than talk around it.",
+  "sound_symbolism": "'Po' opens with a stop, the nose's own recoil. 'Thu', breath shaped rough through an open mouth, the smell carried on the same air a clean scent would use, refused instead of welcomed.",
+  "grammatical_notes": "Functions as an intransitive verb: 'sulopa pothu' (the soup stinks / has gone bad). Can take a source: 'thena lue pothu' (it stinks from the thing). The event noun, a stink, comes by rule.",
+  "pillars": {
+    "solarpunk-values": "Knowing what has spoiled is part of ecological literacy, not a fact to be softened.",
+    "pre-industrial-wisdom": "A nose that can tell rot from freshness is old, embodied knowledge, the same kind that reads weather in a wind or a season in a smell."
+  },
+  "tags": {
+    "physical": "The smell the nose refuses"
+  }
+}

@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (163)
+## adjective (165)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -54,6 +54,7 @@
 | `mokela` | sick | Sick |
 | `moli` | gentle | Gentle |
 | `monae` | integral | Integral |
+| `monelu` | amused | Amused |
 | `motu` | humble | Humble |
 | `mueli` | plain (unadorned) | Plain |
 | `muko` | careless | Careless |
@@ -126,6 +127,7 @@
 | `sonu` | alone | Alone |
 | `soriu` | yellow | Yellow |
 | `sulae` | warm | Warm |
+| `tawimo` | foolish | Foolish |
 | `teku` | short | Short |
 | `telua` | accurate | Accurate |
 | `thaemo` | precious | Precious |
@@ -259,7 +261,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (374)
+## noun (375)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -613,6 +615,7 @@
 | `tupiwa` | rabbit | Rabbit |
 | `waero` | sky | Sky |
 | `wapile` | wing | Wing |
+| `welamu` | elm | Elm |
 | `welisha` | color | Color |
 | `weloa` | loom | Loom |
 | `weloni` | body | Body |
@@ -742,7 +745,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (237)
+## verb (239)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -761,6 +764,7 @@
 | `kaeli` | like | Like |
 | `kalei` | climb | Climb |
 | `kamo` | arrive | Arrive |
+| `kanelu` | err | Err |
 | `kanu` | choose | Choose |
 | `kati` | cut | Cut |
 | `kawepa` | catch | Catch |
@@ -865,6 +869,7 @@
 | `pilu` | take | Take |
 | `pina` | sew | Sew |
 | `pisha` | split | Split |
+| `pothu` | stink | Stink |
 | `pula` | wish | Wish |
 | `puse` | spit | Spit |
 | `rashelo` | run | Run |
