@@ -794,7 +794,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (201)
+## nature (202)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -985,6 +985,7 @@
 | `waeshi` | wild | Untamed state |
 | `wapi` | fly | The motion of birds and wind-borne things |
 | `wapile` | wing | Flight's limb |
+| `welamu` | elm | The tree of the riverside lane |
 | `welura` | spread | Frames multiplication as organic growth and spreading |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |

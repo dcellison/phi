@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*907 words.*
+*908 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -843,6 +843,7 @@
 | `wei` | DAT | /ˈwe̞.i/ | preposition |
 | `weilo` | balanced | /we̞.ˈi.lo̞/ | adjective |
 | `wela` | INT.COMP | /ˈwe̞.lä/ | complementizer |
+| `welamu` | elm | /we̞.ˈlä.mu/ | noun |
 | `welao` | good | /we̞.ˈlä.o̞/ | adjective |
 | `welira` | thrive | /we̞.ˈli.rä/ | verb |
 | `welisha` | color | /we̞.ˈli.ʃä/ | noun |

@@ -1,6 +1,6 @@
 # nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed
 
-*William Morris published News from Nowhere in 1890: a Victorian socialist falls asleep after a heated political argument and wakes into a future England that has abolished money, private property, and rule itself, a world built on craft, common land, and work given rather than sold. Its economics already match a ruling Phi settled on its own: canon refuses money, price, and wage as vocabulary, since Phi treats exchange as a gift. This is the book's first chapter, a trial for a longer transmutation still to come. Nothing here needed coining except one word, `nurako` (railway), for the iron road the sleeper is glad to leave behind. The chapter's own frame is told as secondhand report, "says our friend," before the narrator steps forward to tell the rest himself, a device that lines up with Phi's reportative evidential almost exactly.*
+*William Morris published News from Nowhere in 1890: a Victorian socialist falls asleep after a heated political argument and wakes into a future England that has abolished money, private property, and rule itself, a world built on craft, common land, and work given rather than sold. Its economics already match a ruling Phi settled on its own: canon refuses money, price, and wage as vocabulary, since Phi treats exchange as a gift. This is the book's first chapter, a trial for a longer transmutation still to come. Two words needed coining: `nurako` (railway), for the iron road the sleeper is glad to leave behind, and `welamu` (elm), for the tree the young moon hangs in once he does. The chapter's own frame is told as secondhand report, "says our friend," before the narrator steps forward to tell the rest himself, a device that lines up with Phi's reportative evidential almost exactly.*
 
 ---
 
@@ -73,16 +73,16 @@ waero nuwi to nai.
 sky clear PST be.
 (The sky was clear.)
 
-lunei limu shiro mua to nai.
-moon young tree LOC PST be.
-(A young moon hung in the tree.)
+lunei limu welamu mua to nai.
+moon young elm LOC PST be.
+(A young moon hung in the elm.)
 
 shia korua siora to phaelo.
 3SG heart joy PST feel.
 (Joy rose in his heart.)
 ```
 
-**Notes:** the original spends a full paragraph on the wind turning the sky clear, the elm's particular branches, a shabby suburb that briefly feels like open country. Phi keeps the images that carry weight (the sharp air, the clear sky, the young moon in a tree) and lets a plain tree, `shiro`, stand in for the elm; the species is a detail the transmutation doesn't need to survive. The turn itself, discontent dissolving into joy, is the paragraph's real content, and it is the one thing kept whole.
+**Notes:** the original spends a full paragraph on the wind turning the sky clear, the elm's particular branches, a shabby suburb that briefly feels like open country. Phi keeps the images that carry weight (the sharp air, the clear sky, the young moon in a real tree) and coins `welamu` for the elm itself rather than falling back on the generic `shiro`: a landscape's own species is exactly the kind of nature vocabulary worth a real word, not a detail to compress away. The turn itself, discontent dissolving into joy, is the paragraph's real content, and now the tree it happens beneath is a real one too.
 
 ### luphore — The river
 
@@ -158,4 +158,4 @@ mia melu korua ki sano.
 
 ## What the transmutation changed
 
-*Gap log: one new word, `nurako` (railway, coined on nasal-grounded/liquid-rolling/stop-closed sound symbolism, cleared of collisions before coining). Everything else composed from existing vocabulary: the Anarchist faction described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary; anger as the established compound `korua thero`; waking as `te` (cease) plus sleep, with no separate verb; the elm generalized to a plain tree; the suspension bridge's engineering dropped, kept only as a thing unnoticed; four hoped-for things compressed to three; the carriage's crowded discomfort compressed to a sad heart; the half-waking inventory of old mistakes compressed to its emotional arc. The chapter's reportative frame ("says our friend") is carried by Phi's own `ti` evidential, opening the account and then dropping away exactly when the narrator's promise to speak firsthand is kept.*
+*Gap log: two new words. `nurako` (railway), coined on nasal-grounded/liquid-rolling/stop-closed sound symbolism, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), coined on flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word, not a detail to lose. Both cleared of collisions before coining. Everything else composed from existing vocabulary: the Anarchist faction described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary; anger as the established compound `korua thero`; waking as `te` (cease) plus sleep, with no separate verb. The suspension bridge's engineering and the exact count of hoped-for things (four in the original, three here) are the two places this chapter still compresses; both are real judgment calls, not a general policy. The chapter's reportative frame ("says our friend") is carried by Phi's own `ti` evidential, opening the account and then dropping away exactly when the narrator's promise to speak firsthand is kept.*

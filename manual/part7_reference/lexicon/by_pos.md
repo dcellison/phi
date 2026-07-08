@@ -259,7 +259,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (374)
+## noun (375)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -613,6 +613,7 @@
 | `tupiwa` | rabbit | Rabbit |
 | `waero` | sky | Sky |
 | `wapile` | wing | Wing |
+| `welamu` | elm | Elm |
 | `welisha` | color | Color |
 | `weloa` | loom | Loom |
 | `weloni` | body | Body |
