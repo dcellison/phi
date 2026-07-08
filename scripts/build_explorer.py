@@ -379,7 +379,7 @@ TEXTS = [
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran's counsel on love, children, and giving \u2014 the archer become the tree and the wind, the reward become a gift, and not one new word needed across three whole teachings."),
     ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five chapters of the oldest possible houseguest: water, the use of what is not there (mu's homecoming), the guide no one notices, the great that begins small, and the soft that outlasts the hard \u2014 with every transmutation move named, as a working guide for doing this by hand."),
     ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The emptiness teaching, carried entire by three of the language's own designs: whemoa's quality noun for \u015b\u016bnyat\u0101, the zero litany over the body's inventory, and the Metta Sutta's optative engine wishing everyone to the far shore."),
-    ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1", "A trial chapter for a much longer transmutation: William Morris's socialist utopia, whose gift economy already matches a ruling Phi settled on its own. One new word, nurako (railway), for the iron road its sleeper is glad to leave behind."),
+    ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1 (in progress)", "The opening chapter of a much longer transmutation still underway: William Morris's socialist utopia, whose gift economy already matches a ruling Phi settled on its own. Seven new words, among them nurako (railway) and welamu (elm), for images worth keeping rather than compressing away."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
