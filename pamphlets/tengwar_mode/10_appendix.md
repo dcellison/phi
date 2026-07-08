@@ -22,7 +22,7 @@
 
 ### Vowel tehtar
 
-Every vowel — a, e, i, o, u — has two forms: one that rides above the consonant it follows directly, one that rides below the same consonant when a second vowel follows it in hiatus. The two forms for the same vowel never look alike, and no vowel's above form looks like any other vowel's.
+Every vowel (a, e, i, o, u) has two forms: one that rides above the consonant it follows directly, one that rides below the same consonant when a second vowel follows it in hiatus. The two forms for the same vowel never look alike, and no vowel's above form looks like any other vowel's.
 
 ### The hiatus rule
 
@@ -30,7 +30,7 @@ A tengwa reads consonant, then its above vowel, then its below vowel if it carri
 
 ### Rómen and órë
 
-Word-initial `r` is always rómen. Word-internal `r` is always órë. The choice is positional, never acoustic — it does not change with how the word is spoken aloud.
+Word-initial `r` is always rómen. Word-internal `r` is always órë. The choice is positional, never acoustic: it does not change with how the word is spoken aloud.
 
 ### Silmë nuquerna
 

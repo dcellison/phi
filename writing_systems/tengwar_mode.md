@@ -93,9 +93,9 @@ The 2021 mode met current Phi, and Daniel ruled on every gap:
 
 ## The renderer
 
-The full-corpus test (old agenda item 5) is live: every Phi line on the texts shelf is rendered to Tengwar at build time and the shelf's `tengwar` toggle switches scripts. The pipeline is pure geometry — no shaping engine, so it is identical in every browser:
+The full-corpus test (old agenda item 5) is live: every Phi line on the texts shelf and every pamphlet is rendered to Tengwar at build time, and a `tengwar` toggle switches scripts. The pipeline is pure geometry — no shaping engine, so it is identical in every browser:
 
 - `writing_systems/fonts/` — Tengwar Telcontar 0.08 by Johan Winge, vendored under the GNU GPL (see the font's own name table for the license statement).
 - `scripts/extract_tengwar_glyphs.py` — one-off: pulls the mode's 28 glyph outlines, advances, and boxes into `writing_systems/tengwar_glyphs.json` (committed, so CI needs no font tooling).
 - `scripts/tengwar.py` — parses romanized Phi into (tengwa, above, below) units per this mode and assembles self-contained SVG (`currentColor` fill, so the theme toggle applies).
-- `scripts/build_explorer.py` — wraps each Phi line in the texts as romanization plus SVG; `web/tengwar.js` remembers the reader's choice.
+- `scripts/build_explorer.py` — wraps each Phi line as romanization plus SVG; `web/tengwar.js` remembers the reader's toggle choice. The `tengwar_mode` pamphlet is the one exception: it shows both scripts at once, permanently, with no toggle, since that pamphlet's job is teaching the correlation between them rather than letting a reader pick one to read in.

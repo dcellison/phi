@@ -339,6 +339,20 @@ def tengwarize(html):
         return "<pre>" + "\n".join(out) + "</pre>"
     return re.sub(r"<pre>(.*?)</pre>", do_pre, html, flags=re.S)
 
+def tengwarize_dual(html):
+    """For the tengwar_mode pamphlet: every Phi line gets its Tengwar
+    rendering on its own line directly above the romanization, both always
+    visible, so a reader can correlate the two hands without toggling
+    between them."""
+    def do_pre(m):
+        out = []
+        for line in m.group(1).split("\n"):
+            if tengwar.phi_line(line.strip(), PHI_WORDS):
+                out.append(f'<span class="teng-dual">{tengwar.render_line(line.strip())}</span>')
+            out.append(line)
+        return "<pre>" + "\n".join(out) + "</pre>"
+    return re.sub(r"<pre>(.*?)</pre>", do_pre, html, flags=re.S)
+
 TEXTS_OUT = ROOT / "web" / "texts"
 TEXTS_OUT.mkdir(parents=True, exist_ok=True)
 NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../teacher.html">teacher</a> <button class="tengtoggle" aria-label="toggle tengwar script" title="tengwar / roman">tengwar</button> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
@@ -399,8 +413,10 @@ print(f"wrote web/texts/: {len(TEXTS)} texts + contents")
 PAMPH_OUT = ROOT / "web" / "pamphlets"
 PAMPH_OUT.mkdir(parents=True, exist_ok=True)
 NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../teacher.html">teacher</a> <button class="tengtoggle" aria-label="toggle tengwar script" title="tengwar / roman">tengwar</button> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+# tengwar_mode always shows both scripts at once, so the toggle has nothing to do there
+NAV_PAMPH_DUAL = NAV_PAMPH.replace('<button class="tengtoggle" aria-label="toggle tengwar script" title="tengwar / roman">tengwar</button> ', '')
 
-def pamphlet_page(body, title, footer_nav=""):
+def pamphlet_page(body, title, footer_nav="", nav=NAV_PAMPH):
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -414,7 +430,7 @@ def pamphlet_page(body, title, footer_nav=""):
 <link rel="stylesheet" href="../style.css">
 </head>
 <body class="landing primer">
-{NAV_PAMPH}
+{nav}
 <main>
 {body}
 {footer_nav}
@@ -453,12 +469,14 @@ pamph_pages = 0
 for dirname, title, blurb in PAMPHLETS:
     pfiles = sorted((ROOT / "pamphlets" / dirname).glob("*.md"))
     ptitles = [title_of(f.read_text()) for f in pfiles]
+    dual = dirname == "tengwar_mode"
     for i, f in enumerate(pfiles):
-        body = tengwarize(md_to_html(f.read_text()))
+        body = (tengwarize_dual if dual else tengwarize)(md_to_html(f.read_text()))
         prev_link = f'<a href="{dirname}__{pfiles[i-1].stem}.html">&lsaquo; {ptitles[i-1]}</a>' if i > 0 else ""
         next_link = f'<a href="{dirname}__{pfiles[i+1].stem}.html">{ptitles[i+1]} &rsaquo;</a>' if i + 1 < len(pfiles) else ""
         footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">all pamphlets</a>{next_link}</div>'
-        (PAMPH_OUT / f"{dirname}__{f.stem}.html").write_text(pamphlet_page(link_text_citations(body), ptitles[i], footer_nav))
+        nav = NAV_PAMPH_DUAL if dual else NAV_PAMPH
+        (PAMPH_OUT / f"{dirname}__{f.stem}.html").write_text(pamphlet_page(link_text_citations(body), ptitles[i], footer_nav, nav))
         pamph_pages += 1
     toc.append(f'<h2><a href="{dirname}__{pfiles[0].stem}.html">{title}</a></h2><p>{blurb}</p>')
 toc.append("<hr><p><em>More pamphlets are coming; the shelf is built to grow.</em></p>")
