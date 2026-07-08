@@ -42,7 +42,7 @@ Answers follow at the end. Parts A through D ask you to work from the table in c
 24. I trust a friend.
 25. I write a name.
 
-**Part F: A line of your own.** Choose four or five words from the appendix's vocabulary table and write one short line by hand — a greeting, a single sentence, a name. Toggle it to Tengwar and check every tengwa and every tehta against the tables in chapters 2 and 3 before you trust it. There is no key for Part F. The check was always going to be your own hand against the page.
+**Part F: A line of your own.** Choose four or five words from the appendix's vocabulary table and write one short line by hand — a greeting, a single sentence, a name. Check every tengwa and every tehta against the tables in chapters 2 and 3 before you trust it. There is no key for Part F. The check was always going to be your own hand against the page.
 
 ---
 

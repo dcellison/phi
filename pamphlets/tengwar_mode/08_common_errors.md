@@ -1,6 +1,6 @@
 # Common errors
 
-The mode's errors divide the way the numeral pamphlet's did: mistakes the mode's own rules forbid outright, and habits a script with vowel carriers would need that this one does not — carried over out of caution, not necessity. A wrong tengwa cannot be shown the way a wrong sentence can; these are read by toggling the correct form and checking your own hand against it, not by comparing a starred form to a fixed one.
+The mode's errors divide the way the numeral pamphlet's did: mistakes the mode's own rules forbid outright, and habits a script with vowel carriers would need that this one does not — carried over out of caution, not necessity. A wrong tengwa cannot be shown the way a wrong sentence can; each example below renders the correct form directly, so these are read by checking your own hand against it, not by comparing a starred form to a fixed one.
 
 ### Error 1: Reaching for a carrier that was never needed
 
@@ -12,7 +12,7 @@ mia melu thumela.
 (I teach a friend.)
 ```
 
-`melu` opens on malta with its own vowel already riding above it. Nothing precedes malta. Toggle the line: there is no carrier because there was never a gap for one to fill.
+`melu` opens on malta with its own vowel already riding above it. Nothing precedes malta. The rendered line above shows it plainly: there is no carrier because there was never a gap for one to fill.
 
 ### Error 2: Above and below, swapped
 
