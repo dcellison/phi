@@ -1,0 +1,24 @@
+{
+  "word": "monelu",
+  "gloss": "amused",
+  "ipa": "/mo̞.ˈn̪e̞.lu/",
+  "syllables": [
+    "mo",
+    "ne",
+    "lu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Amused / Delighted by Something Small / Entertained Without Being Told To Be",
+  "description": "Finding something quietly funny or entertaining: an old mistake that looks lighter in hindsight, a private joke, a thought that catches its own absurdity. Related to siora (joy) but narrower: siora is felt happiness in general, monelu is specifically the lighter, laughing-adjacent pleasure of being entertained, whether or not it reaches hola (laugh) itself.",
+  "sound_symbolism": "'Mo' opens warm and internal, a nasal held rather than released. 'Ne' continues the same internal warmth. 'Lu' opens it outward, the held amusement finally letting go.",
+  "grammatical_notes": "Functions as an adjective: predication 'mia monelu nai' (I am amused). The quality noun, amusement, comes by rule: 'mia monelu phaelo' (I feel amusement). Related: siora (joy, the broader feeling), hola (laugh, the act it can lead to).",
+  "pillars": {
+    "secular-buddhist-philosophy": "A light, undemanding pleasure that needs nothing from the world to justify it is close to non-attachment: amusement asks to be noticed, not kept.",
+    "art-nouveau-aesthetics": "Delight taken in something small and unforced is the same unhurried pleasure the movement's own ornament rewards a slow look with."
+  },
+  "tags": {
+    "emotion": "The lighter feeling laughter sometimes follows"
+  }
+}

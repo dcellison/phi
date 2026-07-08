@@ -147,7 +147,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (129)
+## cognition (131)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -159,6 +159,7 @@
 | `hiru` | intuit | Direct perception |
 | `holume` | loss | The gone made nameable |
 | `kaeli` | like | the mental state of favorable regard |
+| `kanelu` | err | The wrong step, named without shame |
 | `kanu` | choose | The act of selecting among alternatives |
 | `kelai` | equals | Announces mathematical results through explicit statement |
 | `kelomi` | accept | Acknowledging reality |
@@ -247,6 +248,7 @@
 | `sorai` | insight | Deep seeing |
 | `ta` | one | fundamental cognitive concept for counting and establishing singular identity |
 | `tawi` | count | Mindful enumeration |
+| `tawimo` | foolish | The pause thought needed and did not get |
 | `telua` | accurate | Correctness |
 | `theali` | fitting | assessment of alignment with reality |
 | `thekao` | acknowledge | requires mindful attention to truly see another |
@@ -686,7 +688,7 @@
 | `whaline` | thank | Verbal expression of gratitude |
 | `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
-## emotion (103)
+## emotion (104)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -723,6 +725,7 @@
 | `mioru` | beauty | Wonder source |
 | `mishoa` | express | manifests feelings from inner to outer world |
 | `moli` | gentle | Tender quality |
+| `monelu` | amused | The lighter feeling laughter sometimes follows |
 | `motu` | humble | Without arrogance |
 | `muro` | stubborn | Inflexible |
 | `nelu` | revere | Deep respect |
@@ -1001,7 +1004,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (236)
+## physical (237)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1142,6 +1145,7 @@
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
+| `pothu` | stink | The smell the nose refuses |
 | `powea` | egg | The round self-contained case |
 | `pukea` | danger | The nearness of possible harm |
 | `puko` | bitter | Sharp taste |

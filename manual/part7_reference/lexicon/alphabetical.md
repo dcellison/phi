@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*908 words.*
+*912 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -61,6 +61,7 @@
 | `kalei` | climb | /kä.ˈle̞.i/ | verb |
 | `kalora` | horse | /kä.ˈlo̞.rä/ | noun |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
+| `kanelu` | err | /kä.ˈn̪e̞.lu/ | verb |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
 | `kathu` | seal | /ˈkä.θu/ | noun |
@@ -281,6 +282,7 @@
 | `moloi` | apprentice | /mo̞.ˈlo̞.i/ | noun |
 | `molu` | container | /ˈmo̞.lu/ | noun |
 | `monae` | integral | /mo̞.ˈn̪ä.e̞/ | adjective |
+| `monelu` | amused | /mo̞.ˈn̪e̞.lu/ | adjective |
 | `mophi` | wool | /ˈmo̞.ɸi/ | noun |
 | `mophira` | sheep | /mo̞.ˈɸi.rä/ | noun |
 | `morae` | sense | /mo̞.ˈrä.e̞/ | verb |
@@ -509,6 +511,7 @@
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun |
+| `pothu` | stink | /ˈpo̞.θu/ | verb |
 | `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
 | `pukea` | danger | /pu.ˈke̞.ä/ | noun |
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
@@ -686,6 +689,7 @@
 | `talua` | shoulder | /t̪ä.ˈlu.ä/ | noun |
 | `tapu` | close | /ˈt̪ä.pu/ | verb |
 | `tawi` | count | /ˈt̪ä.wi/ | verb |
+| `tawimo` | foolish | /t̪ä.ˈwi.mo̞/ | adjective |
 | `te` | CESS | /ˈt̪e̞/ | particle |
 | `tei` | UNTIL | /ˈt̪e̞.i/ | preposition |
 | `teku` | short | /ˈt̪e̞.ku/ | adjective |
