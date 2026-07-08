@@ -50,9 +50,9 @@ one three-group one HUM.CLF INTS determined different person DECL.COMP NONE pers
 (Four of them, intensely determined and differing even from each other, wished that no one would guide at all.)
 morris: "four of which had strong but divergent Anarchist opinions"
 
-shareo noeli nai.
-discuss warm be.
-(The talk stayed warm and good-natured.)
+shareo noeli to manolu.
+discuss warm PST stay.
+(The discussion stayed warm and good-natured.)
 morris: "the discussion was good-tempered"
 
 ta miona korua thero ki theisa haolu.
@@ -66,7 +66,7 @@ shia mena lo miona tawimo nai meno haolu.
 morris: "damning all the rest for fools"
 ```
 
-**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `korua thero`, heart-fire, is anger, an established compound, not a new one. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not. `ru kesu` (intensely determined) carries the "strong" half of "strong but divergent," the magnitude of their conviction, not just its direction; `phirae` (different) marks the four as divergent even from each other, not only from everyone else. `noeli` (warm, the emotional sense, distinct from temperature) carries "good-tempered" without the quiet that would sit oddly against the discussion's own brisk, vigorous pace. `theisa` (loud) marks the one voice that finally rises. The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
+**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `korua thero`, heart-fire, is anger, an established compound, not a new one. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not. `ru kesu` (intensely determined) carries the "strong" half of "strong but divergent," the magnitude of their conviction, not just its direction; `phirae` (different) marks the four as divergent even from each other, not only from everyone else. `noeli` (warm, the emotional sense, distinct from temperature) carries "good-tempered" without the quiet that would sit oddly against the discussion's own brisk, vigorous pace, and `manolu` (stay, remain, dwell) carries the persistence in "stayed": the discussion did not merely start warm, it held that temperature, the same durative verb the corpus uses for "stay calm." `theisa` (loud) marks the one voice that finally rises. The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
 
 ### nurako — The railway
 
@@ -76,8 +76,8 @@ shia muila phou nurako mua kau womu to wepu.
 (He went home by the underground railway.)
 morris: "a carriage of the underground railway"
 
-nurako mua sheloi reshi miona nai.
-railway LOC MANY fast person be.
+nurako mua sheloi reshi miona to nai.
+railway LOC MANY fast person PST be.
 (The carriage was crowded with hurried people.)
 morris: "that vapour-bath of hurried and discontented humanity"
 
