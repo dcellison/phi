@@ -56,54 +56,56 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 Grammatical category labels follow the Leipzig Glossing Rules and the standard extensions of the typological literature. One deliberate house convention, permitted by Leipzig rule 4: lexical function words (spatial prepositions, quantifiers) are also glossed in capitals (ABOVE, BETWEEN, MANY) so that every function word is visually distinct from content vocabulary in a gloss line. Interrogatives are glossed by meaning in lowercase (who, where, when).
 
-| Abbr. | Phi | Meaning |
-|---|---|---|
-| 1SG/2SG/3SG | mia, thia, shia | I / you / they-one |
-| 1PL | lo mia | we |
-| ABL | lue | from |
-| ABST.CLF | nophe | abstraction classifier |
-| ALL | kau | to (allative) |
-| ASSUM | ho | assumed |
-| CAUS | ka | causative |
-| CESS | te | cessative |
-| CMPR | mo | comparative |
-| COND | lu | conditional |
-| COORD | nela | and |
-| DAT | wei | to, for (recipient) |
-| DECL.COMP | mena | that-clause (opener) |
-| DECL.COMP.CLOSE | meno | that-clause (closer) |
-| DIR | hi | witnessed |
-| DISJ | sola | or |
-| FOC | ko | focus |
-| FUT | so | future |
-| HAB | ro | habitual |
-| HUM.CLF | himo | people classifier |
-| IMP | no | imperative |
-| INCH | pa | inchoative |
-| INFER | ke | inferred |
-| INT.COMP | wela | embedded question (opener) |
-| INT.COMP.CLOSE | welo | embedded question (closer) |
-| INTS | ru | intensifier |
-| IPFV | si | imperfective |
-| IRR | he | irrealis |
-| LIFE.CLF | lipha | living-thing classifier |
-| LOC | mua | in/at |
-| NEC | na | necessity |
-| NEG | ma | negation |
-| OPT | su | optative |
-| ORD | nu | ordinal |
-| PASS | se | passive |
-| PFV | ki | perfective |
-| PL | lo | plural |
-| POL | pi | politeness |
-| POT | po | possibility (can/may) |
-| PROX/DIST | ha, ra | this/that |
-| PST | to | past |
-| Q | wa | question |
-| QUOT.COMP | shola | quotation (opener) |
-| QUOT.COMP.CLOSE | sholo | quotation (closer) |
-| REL | rena | relativizer |
-| REP | ti | reported |
-| RESTR | li | only, restrictive |
-| THING.CLF | themo | object classifier |
-| VOC | kona | vocative |
+Click or hover on a row for a longer explanation of that gloss.
+
+| Abbr. | Phi | Meaning | Explanation |
+|---|---|---|---|
+| 1SG/2SG/3SG | mia, thia, shia | I / you / they-one | `mia` (I), `thia` (you), and `shia` (they, singular, no gender) are the three personal pronouns. None changes with grammatical role; the same form serves as subject, object, or the object of a preposition. |
+| 1PL | lo mia | we | The plural marker `lo` before `mia`: we. The same pattern gives `lo thia` (you all) and `lo shia` (they, plural). |
+| ABL | lue | from | From, a source: `melu lue nitho shua` is the friend comes from the north. |
+| ABST.CLF | nophe | abstraction classifier | The classifier for abstract concepts: ideas, stories, emotions, and other things that cannot be touched but are still real. |
+| ALL | kau | to (allative) | To, the goal of motion, with arrival promised. Its counterpart `wea` (toward) makes no such promise. |
+| ASSUM | ho | assumed | Marks that the speaker is assuming or supposing something rather than knowing it, one of Phi's four evidentials alongside `hi` (witnessed), `ke` (inferred), and `ti` (told). |
+| CAUS | ka | causative | The causative: the one who causes an action becomes the subject, and the original subject becomes the object. `lopia nulae` (the child sleeps) becomes `mia lopia ka nulae` (I make the child sleep). |
+| CESS | te | cessative | The aspect for an action's ending: `mia te shelomui` is I stop understanding. |
+| CMPR | mo | comparative | The comparative marker, paired with `sheo` (than): `toremoa sheo shiro mo raelu nai` is the mountain is taller than the tree. |
+| COND | lu | conditional | The realis conditional, announcing a real or likely if. Its irrealis counterpart, for a condition that did not or cannot hold, is the two-particle `lu he`. |
+| COORD | nela | and | And, the basic coordinating conjunction, joining words, phrases, or clauses of equal weight. |
+| DAT | wei | to, for (recipient) | To, for, marking the recipient or beneficiary of an action: `mia wei thia loamira loa` is I give you a gift. |
+| DECL.COMP | mena | that-clause (opener) | Opens an embedded clause that reports the content of a statement rather than its exact words. It always closes with `meno`. |
+| DECL.COMP.CLOSE | meno | that-clause (closer) | Closes a `mena` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
+| DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
+| DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
+| FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomui` singles out love, not other things, as what is understood. |
+| FUT | so | future | The future tense particle. Present tense carries no particle at all. |
+| HAB | ro | habitual | The aspect for a recurring or characteristic action, distinct from `si` (mid-flow, happening now): `mia ro theo` is I read regularly. |
+| HUM.CLF | himo | people classifier | The classifier for human beings. Counting people with `himo` is a small act of respect, setting them apart from objects: `ta himo melu` is one friend, counted as a person. |
+| IMP | no | imperative | The imperative marker, announcing a command or request. |
+| INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomui` is I begin to understand. |
+| INFER | ke | inferred | Marks that the speaker reached the claim by inference from evidence, not by direct witness or report. |
+| INT.COMP | wela | embedded question (opener) | Opens an embedded yes/no question (I wonder whether). It always closes with `welo`. |
+| INT.COMP.CLOSE | welo | embedded question (closer) | Closes a `wela` clause, marking where the embedded question ends so the main verb can follow without ambiguity. |
+| INTS | ru | intensifier | The intensifier: very, truly. `ru welao` is very good. |
+| IPFV | si | imperfective | The aspect for action in progress, mid-flow, right now, distinct from `ro` (habitual). |
+| IRR | he | irrealis | Paired with `lu` as `lu he`, an unreal or counterfactual conditional, for a condition that did not or cannot hold. |
+| LIFE.CLF | lipha | living-thing classifier | The classifier for non-human living things: animals, plants, fungi, grouped by their shared vitality. |
+| LOC | mua | in/at | In, at, inside, marking where an action happens. It is never a motion endpoint itself; going toward a destination uses `kau`. |
+| NEC | na | necessity | Marks that an action is necessary or obligatory: `mia na naphe` is I must help. |
+| NEG | ma | negation | Negation. It always comes last in a stack of Slot 1 particles, after tense, aspect, voice, evidentiality, and modality. |
+| OPT | su | optative | Announces a wish, hope, or prayer: `su sila towe nai` is may the community be well. |
+| ORD | nu | ordinal | Marks that the numeral before a noun gives its position, not its quantity: `nu ta lopia` is the first child, not one child. |
+| PASS | se | passive | The passive voice, promoting the object of an action to subject: `mia nophi kealo` (I create the story) becomes `nophi se kealo` (the story is created). |
+| PFV | ki | perfective | The aspect for completion at whatever point the tense sets as its reference: `ki` alone is have done, `to ki` is had done, `so ki` is will have done. |
+| PL | lo | plural | The plural marker for an unquantified noun. A numeral or quantifier already implies plurality, so `lo` never combines with one. |
+| POL | pi | politeness | Marks that the whole utterance is polite or respectful, and can combine with other Slot 0 particles: `pi no lumani naphe` is please help the family. |
+| POT | po | possibility (can/may) | Marks possibility or ability: `mia po shelomui` is I can understand, or I am able to understand. |
+| PROX/DIST | ha, ra | this/that | `ha` (this, near) and `ra` (that, far), Phi's two demonstratives, marking distance from the speaker rather than gender or class. |
+| PST | to | past | The past tense particle. |
+| Q | wa | question | Opens a sentence to announce a yes/no question, always sentence-initial. |
+| QUOT.COMP | shola | quotation (opener) | Opens a direct quotation, preserving the speaker's exact words rather than their content. It always closes with `sholo`. |
+| QUOT.COMP.CLOSE | sholo | quotation (closer) | Closes a `shola` quotation, marking where the quoted words end so the verb of speaking or hearing can follow. |
+| REL | rena | relativizer | Introduces a relative clause, which stands before the noun it describes: `[rena mia to nila] shelu` is the book that I saw. |
+| REP | ti | reported | Marks that the speaker received the information from someone else, rather than witnessing, inferring, or assuming it. |
+| RESTR | li | only, restrictive | Marks that a statement holds for the one thing named, and nothing else: only. It fences identity, who or which, never quantity; a count is stated exactly or with `henoi`. |
+| THING.CLF | themo | object classifier | The classifier for inanimate objects, especially those made or used by hand: tools, containers, buildings, stones. |
+| VOC | kona | vocative | Marks direct address, standing outside the sentence it introduces: `kona melu. mia ha nai` is friend, I am here. |

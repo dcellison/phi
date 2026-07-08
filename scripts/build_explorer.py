@@ -154,6 +154,28 @@ def link_text_citations(html):
                             f'href="../texts/{stem}.html"')
     return html
 
+def add_gloss_popovers(html):
+    """Appendix A's Leipzig table carries a fourth column of longer
+    explanations; lift it into each row so a click or hover reveals it
+    without widening the visible table."""
+    def do_table(m):
+        table = m.group(0)
+        rows = re.findall(r"<tr>(.*?)</tr>", table, re.S)
+        if not rows or "Explanation" not in rows[0]:
+            return table
+        out = ["<table class=\"gloss-table\">"]
+        out.append("<tr>" + "".join(f"<th>{c}</th>" for c in
+                    re.findall(r"<th>(.*?)</th>", rows[0], re.S)[:3]) + "</tr>")
+        for row in rows[1:]:
+            cells = re.findall(r"<td>(.*?)</td>", row, re.S)
+            first = (f'{cells[0]} <span class="glossmark" aria-hidden="true">&#9432;</span>'
+                     f'<span class="gloss-pop">{cells[3]}</span>')
+            out.append(f'<tr class="gloss-row" tabindex="0">'
+                        f'<td>{first}</td><td>{cells[1]}</td><td>{cells[2]}</td></tr>')
+        out.append("</table>")
+        return "".join(out)
+    return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
+
 PRIMER_SRC = ROOT / "primer"
 PRIMER_OUT = ROOT / "web" / "primer"
 PRIMER_OUT.mkdir(parents=True, exist_ok=True)
@@ -294,6 +316,8 @@ for i, (part, ch, f) in enumerate(sections):
     crumb_bits = [part] + ([ch] if ch else [])
     crumb = '<p class="crumb">' + " &mdash; ".join(crumb_bits) + "</p>"
     body = crumb + md_to_html(f.read_text())
+    if f.name == "appendix_a_glossary.md":
+        body = add_gloss_popovers(body)
     prev_link = f'<a href="{slug(sections[i-1][2])}">&lsaquo; {sec_titles[i-1]}</a>' if i > 0 else ""
     next_link = f'<a href="{slug(sections[i+1][2])}">{sec_titles[i+1]} &rsaquo;</a>' if i + 1 < len(sections) else ""
     footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
