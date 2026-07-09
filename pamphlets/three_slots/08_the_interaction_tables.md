@@ -40,7 +40,7 @@ The system is consistent but its combinations live scattered: ruled here, attest
 
 ### How to read the empty cells
 
-Three of them repay attention. *No polite if* and *no sourced wish* are empty because the combinations barely mean: frames already do what the addition would claim. *No negative command* is different: it is a real thing languages do that Phi has, so far, done otherwise: warning, stating harm, wishing away (`su mawha…`, the Metta companion's whole sixth verse). Whether Phi ever wants `no … ma` is a decision for canon on the day a text needs it. Until then the cell stands open, and this table says so out loud, which is this language's way with everything it does not know.
+Three of them repay attention. *No polite if* and *no sourced wish* are empty because the combinations barely mean: frames already do what the addition would claim. *No negative command* is different: it is a real thing languages do that Phi has, so far, done otherwise: warning, stating harm, wishing away (`su mawha…`, the metta text's whole sixth verse). Whether Phi ever wants `no … ma` is a decision for canon on the day a text needs it. Until then the cell stands open, and this table says so out loud, which is this language's way with everything it does not know.
 
 ### Drill: cite or refuse
 
