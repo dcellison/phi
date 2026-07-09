@@ -149,7 +149,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (133)
+## cognition (138)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -170,6 +170,7 @@
 | `koma` | head | seat of mental processes |
 | `korei` | fulfill | Realization |
 | `kuelo` | curious | Wonder-seeking |
+| `kuenora` | strange | The unfamiliar, named without verdict |
 | `kupela` | secret | The known and untold |
 | `lau` | twenty-seven-group | Represents the cognitive boundary where enumeration becomes impossible, where the mind must shift from counting to experiencing magnitude. 'Lau' embodies the limit of numerical cognition at human scale. |
 | `leiro` | release | Mathematical operation requiring deliberate mental processing |
@@ -205,6 +206,7 @@
 | `phelira` | mistaken | recognition of error state |
 | `phelui` | word | the carrier of meaning between minds |
 | `phenui` | thoughtful | Considered thinking |
+| `philuewa` | butterfly | Change made visible and winged |
 | `phiora` | spirit | Inner animation |
 | `phirae` | different | the perception of distinction |
 | `phiremo` | relate | Perceiving connections |
@@ -214,6 +216,7 @@
 | `phoka` | lens | Focusing clarity |
 | `phue` | wise | Mature insight |
 | `porua` | purpose | Goal orientation |
+| `pukate` | break | The event named so mending can follow |
 | `pula` | wish | Orientation toward desired futures |
 | `rei` | eighty-one-group | Represents the absolute limit of human numerical cognition, the point where the mind must abandon counting and embrace the concept of boundlessness. 'Rei' embodies cognitive humility. |
 | `relo` | symbol | Representation |
@@ -275,10 +278,12 @@
 | `tiso` | sharp | Keen perception |
 | `waeli` | conscious | Awareness state |
 | `wakomi` | surprise | The mind caught open |
+| `waolia` | wondrous | What outruns what was looked for |
 | `welura` | spread | Mathematical operation requiring deliberate mental processing |
 | `weni` | imagine | Creative mental image formation |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
 | `wesho` | locate | Discovery |
+| `whekelua` | magic | Change beyond explanation |
 | `whemura` | dream | Mental imagery during sleep or imagination |
 | `whinu` | smell | Direct pathway to memory and emotion |
 | `whoa` | whole | holistic thinking and systems understanding |
@@ -287,7 +292,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (199)
+## community (202)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -308,6 +313,7 @@
 | `koluma` | unite | Bringing together into wholeness |
 | `koru` | harmonious | Working together |
 | `kowela` | council | gathers collective voices for communal decisions |
+| `kuenora` | strange | The not-yet-met |
 | `kulo` | guide | Leading others along paths |
 | `kuma` | drum | Collective voice |
 | `kumoli` | hungry | What the shared table answers |
@@ -341,6 +347,7 @@
 | `meropi` | cherish | Nurturing what we love |
 | `miona` | person | persons are the fundamental units of social structures |
 | `misheko` | cat | The household's quiet companion |
+| `misuki` | mouse | The neighbor underfoot |
 | `moeli` | hearth | Gathering place |
 | `moenu` | culture | Shared ways |
 | `mokela` | sick | The state that summons tending |
@@ -480,6 +487,7 @@
 | `whano` | stand | posture of greeting, equality, and standing together |
 | `whelani` | welcome | receiving others and creating belonging |
 | `wheo` | elder | serves as keeper of collective memory and story |
+| `whishela` | whisper | The voice standing close |
 | `whoa` | whole | flourishing through inclusion and interdependence |
 | `whola` | invite | creates and strengthens bonds through inclusive gestures |
 | `wi` | two | the beginning of social connection, the first 'we' |
@@ -616,7 +624,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (73)
+## dialogue (74)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -692,9 +700,10 @@
 | `toloi` | messenger | Message carrying |
 | `wero` | honest | Truthfulness |
 | `whaline` | thank | Verbal expression of gratitude |
+| `whishela` | whisper | Speech made of breath |
 | `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
-## emotion (106)
+## emotion (109)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -748,6 +757,7 @@
 | `nuhemi` | grieve | The sustained carrying of sadness after loss |
 | `nuhewa` | weep | Sadness flowing out |
 | `nuloe` | content | Peaceful satisfaction |
+| `numelia` | nestle | Trust performed in the muscles |
 | `nupira` | shame | The inward fold of being seen |
 | `phaeli` | tender | Gentle feeling |
 | `phaelo` | feel | the subjective experience of emotional states |
@@ -757,6 +767,7 @@
 | `phena` | kind | expresses care and compassion through feeling and action |
 | `pheno` | full | Complete satisfaction |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
+| `phimela` | kiss | Affection made touch |
 | `puko` | bitter | Unpleasant quality |
 | `pula` | wish | Holding hope for outcomes |
 | `puro` | strength | Inner fortitude |
@@ -795,6 +806,7 @@
 | `towe` | well | Wellness |
 | `tumoa` | heavy | Burdened |
 | `wakomi` | surprise | The felt jolt of the unexpected |
+| `waolia` | wondrous | The lift of exceeded expectation |
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
 | `wesha` | lazy | Unwilling to work |
@@ -805,7 +817,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (203)
+## nature (209)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -872,7 +884,9 @@
 | `meluna` | season | Annual rhythm pattern |
 | `milau` | drink | participation in water cycle and natural systems |
 | `milura` | milk | The first nourishment |
+| `mirulo` | berry | The bramble's small yield |
 | `misheko` | cat | The self-possessed animal |
+| `misuki` | mouse | The smallest housemate |
 | `moesu` | wax | Organic substance |
 | `mola` | island | Water-surrounded land |
 | `molei` | evolve | Developmental transformation |
@@ -919,6 +933,7 @@
 | `phialu` | water | fundamental natural element essential to all ecosystems and life |
 | `philea` | feather | Flight's fabric |
 | `philo` | day | Solar rhythm |
+| `philuewa` | butterfly | The garden's transformed flyer |
 | `phiora` | spirit | Breath essence |
 | `phiralea` | blossom | Plant flowering |
 | `phirenu` | snow | Frozen precipitation |
@@ -927,6 +942,7 @@
 | `phora` | sail | Natural power |
 | `phuliro` | stream | Small waterway |
 | `phuro` | renew | Following natural patterns of renewal |
+| `piloe` | spot | The dapple and the speckle |
 | `pisha` | split | How seeds and paths divide |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
@@ -986,6 +1002,7 @@
 | `thula` | spring | Water source point |
 | `thumiro` | smoke | The fire's rising breath |
 | `thuroa` | grow | Organic increase and development |
+| `tiripe` | quiver | The leaf's and the whisker's shared verb |
 | `tokemi` | fungus | Decomposers and network beings |
 | `toremoa` | mountain | Major land elevation |
 | `torua` | year | Seasonal completion |
@@ -1002,6 +1019,7 @@
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
 | `wheiluro` | mist | Suspended water droplets |
+| `whekelua` | magic | The world's unforced transforming |
 | `whelina` | grass | Ground-covering plant |
 | `whesu` | blow | The motion of wind and air |
 | `whilo` | white | the color of snow and cloud |
@@ -1013,7 +1031,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (238)
+## physical (244)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1093,6 +1111,7 @@
 | `milau` | drink | bodily act of receiving liquid |
 | `milura` | milk | The drink before all others |
 | `mirae` | eye | the organ of sight |
+| `mirulo` | berry | Fruit at its smallest |
 | `moesha` | still | Motionless |
 | `mokela` | sick | The body out of accord |
 | `mokura` | belly | Central body region of digestion and feeling |
@@ -1125,6 +1144,7 @@
 | `nuhewa` | weep | The body's release of grief |
 | `nulae` | sleep | fundamentally a bodily process of physical restoration and repair |
 | `nulomi` | guts | The belly's inner workings |
+| `numelia` | nestle | The settling into warmth |
 | `nuola` | eat | the bodily act of taking nourishment |
 | `nuora` | food | what sustains bodily life |
 | `nuwera` | bed | The household place of sleep |
@@ -1147,16 +1167,19 @@
 | `pheno` | full | Containing maximum |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
+| `phimela` | kiss | The lips' brief gift |
 | `phitura` | well (water) | Water at the end of effort |
 | `phoa` | do | performing actions and activities |
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phuwai` | lung | Respiratory organs within the chest |
 | `pilewa` | make | transforming materials through action |
+| `piloe` | spot | One small patch of color |
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
 | `pothu` | stink | The smell the nose refuses |
 | `powea` | egg | The round self-contained case |
+| `pukate` | break | Wholeness coming apart |
 | `pukea` | danger | The nearness of possible harm |
 | `puko` | bitter | Sharp taste |
 | `puro` | strength | Power capacity |
@@ -1217,6 +1240,7 @@
 | `thumiro` | smoke | Gray drift that reports |
 | `thuroi` | resilient | Able to recover |
 | `tipika` | fingernail | The finger's hard tip |
+| `tiripe` | quiver | Small fast involuntary motion |
 | `tiso` | sharp | Fine edge |
 | `tiwa` | tie | Made fast against slipping |
 | `toka` | hammer | Shaping force |

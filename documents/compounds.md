@@ -74,6 +74,17 @@ them; words inside a compound must all exist in the lexicon.
 | `theula [rena lima nai]` | all [that is alive] | all beings | The headless relative refuses to flatten living things into a category noun — the grammar itself practices respect. First canonized in the Metta Sutta refrain. |
 | `wea lioru shua` | coming toward life | the not-yet-born | Conscious poetry retained from the Metta Sutta. For the plain event, use `thowia` (born). |
 | `shea menui` | peace-dwelling | the sustained abiding in peace (Pali: brahmavihāra) | A transmutation, not a translation; canonized from the Metta Sutta. |
+| `shero philuewa` | night butterfly | moth | The moth is the butterfly's night sibling, and saying so places the creature exactly; provided by `philuewa`'s own entry, canonized from The Velveteen Rabbit. |
+
+## The household and the made world
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `koma nuwera` | head-bed | pillow | The pillow is exactly what the compound says, the bed the head gets to itself; built the way `mokura kesho` builds the navel. Canonized from The Velveteen Rabbit. |
+| `kerou lurekoi` | stone-fruit | nut | The fruit hard as stone, named by its shell rather than its species; the forager's and the festival-stocking's word alike. Canonized from The Velveteen Rabbit. |
+| `keli korua` | device-heart | mainspring, a mechanism's driving part | What winds a machine to life is its heart, and the compound says so plainly; when it breaks (`pukate`), the device dies (`lumeo`). Canonized from The Velveteen Rabbit. |
+| `mokela thinoe` | sickness-seeds | germs, contagion | Disease's carriers named by what they do: seeds that sow sickness. A room is cleaned of them (`lue mokela thinoe hiso ka kelu`). Canonized from The Velveteen Rabbit. |
+| `moriwhe kerou` | sea-stone | pearl | The sea's own stone, named by where it grows the way `mirae phialu` names tears by where they fall. Canonized from The Velveteen Rabbit. |
 
 ---
 

@@ -1,0 +1,25 @@
+{
+  "word": "pukate",
+  "gloss": "break",
+  "ipa": "/pu.ˈkä.t̪e̞/",
+  "syllables": [
+    "pu",
+    "ka",
+    "te"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Break / Coming Apart / The Snap",
+  "description": "To break: to come apart and stop being whole. The dropped cup, the overwound spring, the branch under snow, the promise under strain. 'Pukate' states the event without blame; things break, and the language says so plainly, because only what is plainly said can be plainly mended. Its answer-words are already waiting: 'shiroka' (repair) and 'talome' (restore).",
+  "sound_symbolism": "Three stops in a row, 'p', 'k', 't', the most boundary-sounds any Phi word carries: pressure, the snap, the pieces. The vowels travel u to a to e, closed to open to neither, wholeness surprised into fragments. A word that breaks in the mouth the way its meaning breaks in the hand.",
+  "grammatical_notes": "Intransitive at base, the broken thing as subject: 'soeli to pukate.' (The cup broke.) Breaking something is ordinary Slot 1 voice: 'lopia soeli to ka pukate.' (The child broke the cup.) The event noun, a break, comes by rule. Pairs with 'shiroka' (repair); 'pukea' (danger) is its near-of-kin in sound, the warning before the snap.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Impermanence at its bluntest: whatever is assembled comes apart. Naming the event without flinching is half of accepting it.",
+    "pre-industrial-wisdom": "A mending culture needs breaking said exactly: the crack named is the crack repaired, and nothing is thrown away for want of a word."
+  },
+  "tags": {
+    "cognition": "The event named so mending can follow",
+    "physical": "Wholeness coming apart"
+  }
+}
