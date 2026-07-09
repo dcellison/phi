@@ -571,6 +571,9 @@ CITATION_SOURCES = {
     "pamphlets/schleicher_fable.md": (
         "schleicher", "pamphlets/sources/schleicher_1868.txt"
     ),
+    "pamphlets/babel_text.md": (
+        "kjv", "pamphlets/sources/kjv_genesis.txt"
+    ),
 }
 
 
