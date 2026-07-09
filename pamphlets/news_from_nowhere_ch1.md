@@ -14,19 +14,19 @@ friend DAT 1SG REP speak.
 (A friend told this to me, and I report it.)
 morris: "says a friend"
 
-mua shalimo ta shero reshi shareo to ki nai.
-LOC alliance one night fast discuss PST PFV be.
-(Up at the alliance, one night, there had been a brisk discussion.)
-morris: "Up at the League, says a friend, there had been one night a brisk conversational discussion,"
+mua shalimo ta shero reshi thelu shareo to ki nai.
+LOC alliance one night fast dialogue discuss PST PFV be.
+(Up at the alliance, one night, there had been a brisk, conversational discussion.)
+morris: "Up at the League, ... there had been one night a brisk conversational discussion,"
 
 punoa moreluki wireo philo hina so po kelu.
 society transform future day what FUT POT become.
 (On the morrow of society's transformation, what might happen?)
 morris: "as to what would happen on the Morrow of the Revolution,"
 
-soli melu newu seroli punoa wireo pa therua haolu.
-SOME friend new mature society future INCH eager speak.
-(Some friends began to speak eagerly of the new, fully-developed society's future.)
+soli melu lo newu seroli punoa wireo remo pa therua haolu.
+SOME friend PL new mature society future think INCH eager speak.
+(Some friends began eagerly to speak their thoughts on the new, fully-developed society's future.)
 morris: "finally shading off into a vigorous statement by various friends of their views on the future of the fully-developed new society."
 ```
 
@@ -38,17 +38,17 @@ The discussion's own timing is carried too: Morris sets the scene "one night," a
 
 "The Morrow of the Revolution" names a specific point, the day after, not a vague future: `wireo philo`, the journal's own word for tomorrow (literally future day), takes `punoa moreluki` as its possessor, and its own question survives alongside it: "what would happen" embeds directly, `hina` needing no complementizer of its own since the gap-word signals the embedding, and `so po` turns a flat future into the offered possibility the original's "would" actually carries, `kelu` (become) standing in for a dedicated "happen" the lexicon does not need.
 
-The friends who speak are `soli` (some), not all of them, and the society they imagine keeps both of the original's adjectives, `newu` (new) and `seroli` (mature, fully developed), rather than the bare noun alone. The vigor itself changes shading rather than simply existing: `pa therua`, inchoative eager, marks the discussion's turn into vigor, closer to "shading off into" than a flat completed fact.
+The discussion is `reshi thelu shareo`, brisk and conversational both: `thelu`, the dialogue-word, stands before `shareo` the way one noun qualifies another, so the talk's informality survives beside its pace. The friends who speak are `soli` (some), not all of them, and what they speak are `lo remo`, their thoughts, possessed by the very future they concern: `newu seroli punoa wireo remo`, thoughts of the new, fully-developed society's future, the possessor chain running exactly as deep as Morris's own "their views on the future of the fully-developed new society." The vigor itself changes shading rather than simply existing: `pa therua`, inchoative eager, marks the discussion's turn into vigor, closer to "shading off into" than a flat completed fact.
 
 `thelao`, `whekai`, `sheno`, and `phisu` were checked and set aside: none fits "finally," which marks a culmination in sequence rather than a cause, contrast, addition, or example, so the transition is carried by the inchoative aspect instead.
 
 ### kowela — The council
 
 ```
-wi shao himo miona to nai.
-two three-group HUM.CLF person PST be.
-(There were six people.)
-morris: "there were six persons present"
+sheno wi shao himo miona to nai.
+ADD two three-group HUM.CLF person PST be.
+(For the rest, there were six people.)
+morris: "For the rest, there were six persons present,"
 
 thelao lo shia kowela to nai.
 CONS PL 3SG council PST be.
@@ -60,24 +60,34 @@ one three-group one HUM.CLF INTS determined different person DECL.COMP NONE pers
 (Four of them, intensely determined and differing even from each other, wished that no one would guide at all.)
 morris: "four of which had strong but divergent Anarchist opinions"
 
-shareo noeli to manolu.
-discuss warm PST stay.
-(The discussion stayed warm and good-natured.)
-morris: "the discussion was good-tempered"
+shai shareo thena punoa moreluki nai shareo noeli to manolu.
+CONC discuss thing society transform be discuss warm PST stay.
+(Although the discussion's matter was society's transformation, the discussion stayed warm and good-natured.)
+morris: "Considering the subject, the discussion was good-tempered;"
 
-lo miona wiso po ma sheluo. thona ma nuawe haolu.
-PL person RECP POT NEG listen. ADVRS NEG together speak.
-(They could scarcely listen to each other. But they did not all speak at once.)
-morris: "if they did not listen to each others' opinions (which could scarcely be expected of them), at all events did not always attempt to speak all together, as is the custom of people in ordinary polite society when conversing on a subject which interests them"
+lo miona wiso po ma sheluo.
+PL person RECP POT NEG listen.
+(They could scarcely listen to each other.)
+morris: "if they did not listen to each others' opinions (which could scarcely be expected of them),"
 
-rena melu ru sano miona mua shareo thorui maeli meilo.
-REL friend INTS know person LOC discuss beginning quiet sit.
+thona lao lona nela thumela thelu lo miona keno to nai lo miona li soli shemu nuawe haolu.
+ADVRS BECAUSE meeting COORD teach dialogue PL person custom PST be PL person RESTR SOME moment together speak.
+(But, since meetings and lecture-dialogues were these people's custom, they spoke all at once only sometimes.)
+morris: "for those present being used to public meetings and after-lecture debates, ... at all events did not always attempt to speak all together,"
+
+nuawe thelu punoa keno nai.
+together dialogue society custom be.
+(Speaking all at once is society's custom.)
+morris: "as is the custom of people in ordinary polite society"
+
+rena melu ru sano miona mua shareo thorui pai maeli meilo.
+REL friend INTS know person LOC discuss beginning NEAR quiet sit.
 (The person the friend knows well sat almost silent at the discussion's beginning.)
 morris: "One of the sections, says our friend, a man whom he knows very well indeed, sat almost silent at the beginning of the discussion,"
 
-whekai shia muo shareo se natu.
-CONTR 3SG INTO discuss PASS pull.
-(However, he was drawn into the discussion.)
+whekai shia pheo laeno shemu muo shareo se natu.
+CONTR 3SG POST long moment INTO discuss PASS pull.
+(However, after a long while he was drawn into the discussion.)
 morris: "but at last got drawn into it,"
 
 shia korua thero to nai.
@@ -103,13 +113,13 @@ morris: "and damning all the rest for fools."
 
 **Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `ru kesu` (intensely determined) carries the "strong" half of "strong but divergent," the magnitude of their conviction, not just its direction; `phirae` (different) marks the four as divergent even from each other, not only from everyone else.
 
-The discussion's good temper is qualified, not simple, and a second sentence explains why, following Morris's own irony rather than smoothing it away: `noeli` (warm, the emotional sense, distinct from temperature) and `manolu` (stay) state that it held its temperature, without the general quiet that would sit oddly against the discussion's own brisk, vigorous pace. `wiso` (RECP) marks that the listening in question was reciprocal, each to each; `po ma` (could scarcely) carries "which could scarcely be expected of them" as a hedge on the group's own self-discipline, not a flat denial. `thona` (ADVRS, but) then turns the sentence on its real point: whatever they lacked in listening, `nuawe` (together) states plainly what they did not do, speak all over each other. Left out on purpose: the comparison to "ordinary polite society" and the aside that they were "used to public meetings," a second and third layer of the same joke that would need either strained composition or new coinage to carry for a detail that does not recur and does not connect to a pillar; the discussion's own restraint already makes Morris's point without them.
+The discussion's good temper carries its whole qualification: `shai` (although) hangs "Considering the subject" as the concession Morris means it to be, with the subject named from the chapter's own opening, `shareo thena punoa moreluki nai`, the discussion's matter was society's transformation, and against that weight `noeli` (warm, the emotional sense, distinct from temperature) and `manolu` (stay) state that the talk held its temperature. `wiso` (RECP) marks that the listening in question was reciprocal, each to each; `po ma` (could scarcely) carries "which could scarcely be expected of them" as a hedge on the group's own self-discipline, not a flat denial. The reason Morris gives for the restraint keeps its own clause: `lao lona nela thumela thelu lo miona keno to nai`, since meetings and lecture-dialogues (`thumela thelu`, the teaching's own dialogues) were these people's custom, with `keno` (custom) doing here what it does for the sleeper's wont two sections later. What they managed is stated at Morris's own exact strength: `li soli shemu nuawe haolu`, they spoke all at once only sometimes, the restriction and the ruled frequency phrase together carrying "did not always attempt to speak all together" without claiming the fuller restraint Morris never grants them. And the jab at the wider world stands as its own gnomic sentence: `nuawe thelu punoa keno nai`, speaking all at once is society's custom, `punoa` (society, the whole civilizational fabric) being exactly the "ordinary polite society" the League outperforms; "when conversing on a subject which interests them" folds into the custom itself, since nobody talks over a subject that bores them.
 
-The one voice that finally rises was not loud from the start: `maeli meilo` (sat quiet) states the man's silence at `shareo thorui` (the discussion's beginning), the one real contrast the passage draws between quiet and outburst. `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside, an intimate detail rather than a stranger's outburst, using the pre-nominal relative clause the same way the chapter's other embedded clauses do. `whekai` (CONTR, however) opens the turn itself: `se natu` (was drawn in) is passive on purpose, since Morris's own "got drawn into it" describes something that happened to the man, not a choice he made.
+The one voice that finally rises was not loud from the start: `pai maeli meilo` (sat near quiet) states the man's near-silence at `shareo thorui` (the discussion's beginning), `pai` (near) giving "almost silent" its almost by the same nearness that measures the river against its fullness. `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside, an intimate detail rather than a stranger's outburst, using the pre-nominal relative clause the same way the chapter's other embedded clauses do. `whekai` (CONTR, however) opens the turn itself, and `pheo laeno shemu` (after a long moment) gives "at last" its duration, the long twin of the short moment that wakes the sleeper two sections later; `se natu` (was drawn in) is passive on purpose, since Morris's own "got drawn into it" describes something that happened to the man, not a choice he made.
 
 `korua thero`, heart-fire, is anger, an established compound, not a new one, and it keeps its own sentence rather than sharing `kapura`'s clause: Morris's own words are just "roaring out very loud," with the anger left implicit in the volume; naming it directly rather than leaving it unspoken is the same choice Phi's own compound already makes. `kapura` is intransitive, so `korua thero` cannot stand as its object; each gets its own verb instead, `nai` for the state and `kapura` for the act. `kapura` (shout, roar), coined for this line, names the forceful vocalization itself, an outburst distinct from `theisa` (loud, a quality any sound can carry) and stronger than `haolu` (speak) intensified. "Finished by" is not left to context: `shareo lumae`, the discussion's end, bookends `shareo thorui`, the discussion's beginning, already marking the man's silence two blocks earlier; the same word `lumae` already names the sun's own end (west) two sections ahead, so the discussion now has a beginning and an end the same way the day does. "Damning all the rest for fools" is two acts, not one, and stays two sentences: `haolu` (speak) only carries plain declaration, with no contempt built into it, so the damning itself needed its own verb rather than riding on the word for what he said. `thiku nila`, small-see, is already in the lexicon as the compound for shame inflicted from outside (`shame.json`'s own cousin-word), and composes cleanly here as the belittling Morris names, `lo miona` (the others) as its direct object and `thiku` (small) standing as its manner the same way other adjectives do before other verbs in this chapter. `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), keeps the specific charge in the second sentence, since a language of mindful speech deserves its own word for the thing mindfulness is not.
 
-The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
+The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `sheno` (ADD) opens the census the way Morris's "For the rest" pivots to it, and `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
 
 ### nurako — The railway
 
@@ -511,7 +521,7 @@ The Anarchist faction is described by what it wants (`mawha miona kulo`, no one 
 
 The beautiful night composes four more concepts without a coin: winter is `theriko meluna` (the frost season), with `thorui` making it early; the station is `nurako lokue` (the railway's place); the countryside is `pelowa muila` (meadow-land), deepened to `nulo pelowa muila` for Morris's "deep country"; and the home-farer is `rena kau womu wepu miona` (the person going home). The discontent that falls away gathers the section's own mood-words under `theula` (all the restlessness and the heaviness), and `lepa` (fall, the leaf's own surrendered motion) with `ke` (INFER) says "seemed to slip off him" with the grammar rather than around it. The moon tangled in the elm hangs `thoa lo loremi`, among the branches, with `loremi` coined for the limb itself: a tree's reach deserves its own word in a book that will spend chapters under trees, and `thoa` (among) carries the tangle.
 
-The discussion's warmth is `noeli`, held rather than merely stated (`manolu`), and its good temper is qualified rather than simple: `wiso po ma sheluo` (could scarcely listen to each other) states the irony Morris intends, `thona` and `nuawe` (but, together) turning the sentence to the group's real restraint instead. The one voice that rises is not loud from the start: `maeli meilo` (sat quiet) at `shareo thorui` (the discussion's beginning) marks the only contrast in the passage between silence and outburst, turned by `whekai` (however) into `se natu` (was drawn in), passive because it happened to him rather than by his own choice; `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside rather than trading it for a bare pronoun.
+The discussion's warmth is `noeli`, held rather than merely stated (`manolu`), and its good temper keeps Morris's full irony: `shai` (although) concedes the subject's weight, `wiso po ma sheluo` (could scarcely listen to each other) states what they lacked, `lao ... keno` grounds their restraint in the custom of meetings and lecture-dialogues, `li soli shemu nuawe haolu` (spoke all at once only sometimes) claims exactly as much restraint as Morris grants, and `nuawe thelu punoa keno nai` (speaking all at once is society's custom) lands the jab at ordinary polite society as its own gnomic sentence. The one voice that rises is not loud from the start: `pai maeli meilo` (sat near quiet) at `shareo thorui` (the discussion's beginning) marks the only contrast in the passage between silence and outburst, turned by `whekai` (however) and `pheo laeno shemu` (after a long moment, Morris's "at last") into `se natu` (was drawn in), passive because it happened to him rather than by his own choice; `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside rather than trading it for a bare pronoun. In the opening block, `thelu` restores the discussion's "conversational" register and `lo remo` (their thoughts) restores the "views" the friends actually state, possessed by the future they concern.
 
 The railway ride adds no new words but a run of constructions new to the chapter: `ka` (CAUS) marks civilization's own compulsion, `punoa` causing `lo miona` to travel by habit (`ro`), with the railway as instrument (`roe`); the underground is a relative clause, `rena phou muila wepu nurako` (the railway that runs below the earth); `phea` (AS) marks the carriage's discontent as everyone's, not his alone; `sio` and `leo` (BESIDE, ABOVE) place the house on the river for the first time; and `rena`, already at work in `kowela`, returns twice more, once to hold `sheloi tiso remo` (the many sharp thoughts) he forgot in the discussion, with `nupira` (shame) standing as the manner of the turning-over itself, and once to say the bridge is not beautiful. Morris doubles the same self-reproach, once for the forgotten arguments and once for his temper, and both stay, each with the taught past-habitual `to ro`, the first turned by `whekai` where Morris writes "But," the second closed by `thelao` as consequence. The wish is the chapter's one direct quotation, `shola ... sholo` keeping Morris's first person and the optative `su` inside it, sized by `ta philo` (one day) and fenced by `li` (only); the arrival lands `sui haoni` (during the voice), inside the wish's own sound. `sorae lumae` (sun's end), the lexicon's own compositional word for west, gives his home its first direction; the room's aftermath, noise then quiet (`kohura`, `maeli`), his warm leave-taking inside the lull (`sui maeli`, `ru noeli`, `pholeni`), and his solitary ride home (`sonu`) close out the passage's remaining images.
 
