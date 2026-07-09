@@ -106,23 +106,23 @@ The headcount and its consequence stand as two sentences, matching the original'
 ```
 kohura ki nai.
 noise PFV be.
-(There was an uproar.)
-morris: "after which befel a period of noise, and then a lull, during which the aforesaid section..."
+(There was noise.)
+morris: "after which befel a period of noise,"
 
 maeli ki nai.
 quiet PFV be.
 (Then, quiet.)
-morris: "after which befel a period of noise, and then a lull, during which the aforesaid section..."
+morris: "and then a lull,"
 
 shia sonu to nai.
 3SG alone PST be.
 (He was alone.)
-morris: "took his way home by himself"
+morris: "by himself"
 
 shia muila phou nurako mua kau sorae lumae womu to noeli wepu.
 3SG earth BELOW railway LOC ALL sun end home PST warm go.
 (He went home, amicably, by the underground railway, to his home in the west.)
-morris: "the aforesaid section, having said good-night very amicably, took his way home by himself to a western suburb"
+morris: "during which the aforesaid section, having said good-night very amicably, took his way home ... to a western suburb"
 
 punoa nurako mua lo miona to ro ka wepu.
 society railway LOC PL person PST HAB CAUS go.
@@ -157,12 +157,12 @@ morris: "But this frame of mind he was so used to, that it didn't last him long,
 shia ro korua thero to nai.
 3SG HAB heart fire PST be.
 (He was habitually quick to anger.)
-morris: "disgust with himself for having lost his temper (which he was also well used to)"
+morris: "for having lost his temper (which he was also well used to),"
 
 thelao teku korua nupira to nai.
 CONS short heart shame PST be.
 (Consequently, a brief self-reproach followed.)
-morris: "and after a brief discomfort, caused by disgust with himself for having lost his temper"
+morris: "and after a brief discomfort, caused by disgust with himself"
 
 shia shareo mua si themio.
 3SG discuss LOC IPFV reflect.
@@ -190,7 +190,7 @@ home BESIDE river ABOVE rope bridge PST be.
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge"
 ```
 
-**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the uproar and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. His parting from the six is not silent: `sonu` (alone) states his solitude for the walk home, and `noeli`, already the discussion's own word for warmth two blocks earlier, returns as the manner of his going, carrying "very amicably" as the same good temper that held the room. His home takes its direction for the first time: `sorae lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
+**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the noise and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. His parting from the six is not silent: `sonu` (alone) states his solitude for the walk home, and `noeli`, already the discussion's own word for warmth two blocks earlier, returns as the manner of his going, carrying "very amicably" as the same good temper that held the room. His home takes its direction for the first time: `sorae lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
 
 Morris's own aside survives as its own sentence rather than folding silently into the journey: `punoa` (society) takes `ka` (CAUS), the causative voice, for the first time in this chapter, with `lo miona` (people) as the one caused and `ro` (HAB) marking the forcing as standing custom rather than a single day's compulsion, exactly matching "civilisation has forced upon us like a habit" without needing a separate word for either "civilization" or "force." The carriage itself keeps its heat and crowding: `sheloi` (many) and `reshi` (fast, doing double duty as "hurried") for the press of people, `wipha` (restless) for their discontent, and `siwe` (sweat), coordinated onto the same sentence with `nela`, for the vapour-bath's heat without needing a new word for either image. `pothu` (stink), coined for the coach's own smell, still carries the line alone. "Like others" is new to this passage: `phea` (AS) marks the comparison plainly, so his restlessness is not his alone but the whole carriage's.
 
