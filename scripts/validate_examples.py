@@ -568,6 +568,9 @@ CITATION_SOURCES = {
     "pamphlets/north_wind_and_sun.md": (
         "aesop", "pamphlets/sources/aesop_for_children.txt"
     ),
+    "pamphlets/schleicher_fable.md": (
+        "schleicher", "pamphlets/sources/schleicher_1868.txt"
+    ),
 }
 
 
