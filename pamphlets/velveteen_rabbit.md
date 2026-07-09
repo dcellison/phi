@@ -690,7 +690,7 @@ night lamp ABOVE hearth PST IPFV burn.
 (The night-lamp went on burning above the hearth.)
 williams: "and left the night-light burning on the mantelpiece."
 
-lu lopia pa nulae. tupiwa phou shia thiku noeli menoa to ro numelia.
+lu lopia pa nulae. tupiwa phou shia thiku sulae menoa to ro numelia.
 COND child INCH sleep. rabbit BELOW 3SG small warm face PST HAB nestle.
 (When the child fell asleep, the rabbit would nestle under his small warm face.)
 williams: "And when the Boy dropped off to sleep, the Rabbit would snuggle down close under his little warm chin"
@@ -973,7 +973,7 @@ ANT flower harvest COORD wild play child UNIV time AMONG fern DAT rabbit one sma
 (Before the flower-gathering and the wild play, the child always made the rabbit a little nest among the bracken.)
 williams: "and before he wandered off to pick flowers, or play at brigands among the trees, he always made the Rabbit a little nest somewhere among the bracken,"
 
-mua ha nuwera tupiwa noeli nela nuloe to nai.
+mua ha nuwera tupiwa sulae nela nuloe to nai.
 LOC PROX bed rabbit warm COORD content PST be.
 (In this nest the rabbit was warm and content.)
 williams: "where he would be quite cosy,"
@@ -1577,7 +1577,7 @@ PL person ALL home exterior tall place child PST carry.
 (They carried the child out to the house's high outside place.)
 williams: "They had carried the Boy out on to the balcony,"
 
-shia roe noeli wethalu to se lomare.
+shia roe sulae wethalu to se lomare.
 3SG INS warm garment PST PASS embrace.
 (He was wrapped in a warm garment.)
 williams: "wrapped in a shawl,"
@@ -1793,7 +1793,7 @@ now 3SG animal hair ABL embrace INTS thin PST PFV become.
 (And by now his coat had grown very thin from hugging.)
 williams: "and by this time his coat had worn so thin and threadbare from hugging"
 
-thelao shia tupiwa to te noeli ka kelu.
+thelao shia tupiwa to te sulae ka kelu.
 CONS 3SG rabbit PST CESS warm CAUS become.
 (So that it no longer kept him warm.)
 williams: "that it was no longer any protection to him."
@@ -2201,7 +2201,7 @@ autumn PST go. winter ALSO PST go.
 (Autumn passed, and winter too.)
 williams: "Autumn passed and Winter,"
 
-mua wirae lo philo noeli nela keru to kelu.
+mua wirae lo philo sulae nela keru to kelu.
 LOC spring PL day warm COORD bright PST become.
 (In the spring the days grew warm and bright.)
 williams: "and in the Spring, when the days grew warm and sunny,"
