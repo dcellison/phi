@@ -415,6 +415,10 @@ def check_lexicon(entries):
     # may only claim sounds the word contains.
     lexicon_words = {d.get("word", "") for _, d in entries}
     gloss_by_word = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
+    prepositions = {
+        d.get("word", "") for _, d in entries
+        if "preposition" in (d.get("pos") or [])
+    }
     QUOTED = re.compile(r"(?<![A-Za-z])['`]([a-z][a-z .?!]*?)['`](?![A-Za-z])")
     CITED = re.compile(r"(?<![A-Za-z])'([a-z]{3,})' \(([^)]+)\)")
     for rel, data in entries:
@@ -452,6 +456,12 @@ def check_lexicon(entries):
                         f"{rel}: Slot 1 order violation '{run}' in {field} "
                         f"(canon: Tense > Aspect > Voice > Evidentiality > "
                         f"Modality > Negation)"
+                    )
+                for run in preposition_misplacements(span, prepositions):
+                    errors.append(
+                        f"{rel}: postposed preposition near '{run}' in "
+                        f"{field} (canon: every preposition precedes its "
+                        f"object)"
                     )
             for cited, paren in CITED.findall(text):
                 if not set(cited) <= PHI_LETTERS or cited == word:
@@ -545,6 +555,39 @@ def slot1_misorders(tokens):
             i = j
         else:
             i += 1
+    return bad
+
+
+def preposition_misplacements(raw_line, prepositions):
+    """The detectable half of the postposed-relator error. Canon rules
+    that every preposition precedes its object and never moves, so a
+    preposition followed by a Slot 1 particle, or standing last in its
+    sentence, cannot be standing before its object. The check runs per
+    sentence; prepositions after 'rena' in the same sentence are exempt,
+    since an oblique relative gaps the object and leaves the preposition
+    directly before the verb phrase (canon's oblique-relative ruling).
+    Sentences of fewer than two tokens are skipped: a single-token span
+    is a word mention, not an ordered phrase. A preposition directly
+    before another preposition stays legal (the Metta Sutta's 'wei leo
+    waero', to the sky above), and a postposed preposition followed by
+    a plain noun reads the same as a well-formed phrase, so this check
+    is a net, not a proof; the grammar-order pass in review remains the
+    full check."""
+    bad = []
+    for sentence in raw_line.split("."):
+        tokens = strip_brackets(sentence).split()
+        if len(tokens) < 2:
+            continue
+        rena_seen = False
+        for i, tok in enumerate(tokens):
+            if tok == "rena":
+                rena_seen = True
+                continue
+            if tok not in prepositions or rena_seen:
+                continue
+            nxt = tokens[i + 1] if i + 1 < len(tokens) else None
+            if nxt is None or nxt in SLOT1_RANK:
+                bad.append(" ".join(tokens[max(0, i - 1):i + 2]))
     return bad
 
 
@@ -688,8 +731,9 @@ def check_gloss_lines(rel, text, lexicon_words, gloss_of):
     return errors
 
 
-def check_docs(lexicon_words, paths=None, gloss_of=None):
+def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None):
     errors = []
+    prepositions = prepositions or set()
     roots = paths or DOC_ROOTS
     files = []
     for root in roots:
@@ -751,6 +795,8 @@ def check_docs(lexicon_words, paths=None, gloss_of=None):
                 if not cand.lstrip().startswith("*"):
                     for run in slot1_misorders(phi_tokens(cand.lower())):
                         errors.append(f"{rel}:{lineno}: Slot 1 order violation '{run}' (canon: Tense > Aspect > Voice > Evidentiality > Modality > Negation)")
+                    for run in preposition_misplacements(cand.lower(), prepositions):
+                        errors.append(f"{rel}:{lineno}: postposed preposition near '{run}' (canon: every preposition precedes its object)")
             # IPA citations: a line that names a known word in backticks
             # and quotes exactly one /.../ transcription must quote that
             # word's canonical IPA. Single phonemes (/m/) and slashed
@@ -859,7 +905,11 @@ def main():
 
     if not args.lexicon_only:
         gloss_of = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
-        errors.extend(check_docs(lexicon_words, args.paths, gloss_of))
+        prepositions = {
+            d.get("word", "") for _, d in entries
+            if "preposition" in (d.get("pos") or [])
+        }
+        errors.extend(check_docs(lexicon_words, args.paths, gloss_of, prepositions))
 
     for e in errors:
         print(f"ERROR   {e}")
