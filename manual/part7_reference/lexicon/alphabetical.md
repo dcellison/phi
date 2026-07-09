@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*915 words.*
+*916 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -840,6 +840,7 @@
 | `waeli` | conscious | /wä.ˈe̞.li/ | adjective |
 | `waero` | sky | /wä.ˈe̞.ro̞/ | noun |
 | `waeshi` | wild | /wä.ˈe̞.ʃi/ | adjective |
+| `wakomi` | surprise | /wä.ˈko̞.mi/ | verb |
 | `wao` | wow | /ˈwä.o̞/ | interjection |
 | `wapho` | throw | /ˈwä.ɸo̞/ | verb |
 | `wapi` | fly | /ˈwä.pi/ | verb |

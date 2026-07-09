@@ -747,7 +747,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (240)
+## verb (241)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -966,6 +966,7 @@
 | `tiwa` | tie | Tie |
 | `tupi` | jump | Jump |
 | `turema` | return | Return |
+| `wakomi` | surprise | Surprise |
 | `wapho` | throw | Throw |
 | `wapi` | fly | Fly |
 | `warosha` | reconcile | Reconcile |

@@ -1,6 +1,6 @@
 # nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed (in progress)
 
-*William Morris published News from Nowhere in 1890: a Victorian socialist falls asleep after a heated political argument and wakes into a future England that has abolished money, private property, and rule itself, a world built on craft, common land, and work given rather than sold. Its economics already match a ruling Phi settled on its own: canon refuses money, price, and wage as vocabulary, since Phi treats exchange as a gift. This is the book's first chapter, a trial for a longer transmutation still to come. Nine words were coined: `shalimo` (alliance), `nurako` (railway), `welamu` (elm), `tawimo` (foolish), `pothu` (stink), `kanelu` (err), `monelu` (amused), `kapura` (shout), and `loremi` (branch), favored over compression since a closer transmutation matters more than an economical one. The chapter's own wish, spoken twice on the train and muttered twice more leaving the station, is carried by `su`, the optative particle already in the grammar, once for the whole passage. The League's pace, the transformation it turns on, the discussion's warmth, and the magnitude of the four's conviction are carried by `reshi`, `moreluki`, `therua`, `phirae`, `noeli`, `ru kesu`, and `manolu`, all pre-existing words. The chapter's own frame is told as secondhand report, "says our friend," before the narrator steps forward to tell the rest himself, a device that lines up with Phi's reportative evidential almost exactly.*
+*William Morris published News from Nowhere in 1890: a Victorian socialist falls asleep after a heated political argument and wakes into a future England that has abolished money, private property, and rule itself, a world built on craft, common land, and work given rather than sold. Its economics already match a ruling Phi settled on its own: canon refuses money, price, and wage as vocabulary, since Phi treats exchange as a gift. This is the book's first chapter, a trial for a longer transmutation still to come. Ten words were coined: `shalimo` (alliance), `nurako` (railway), `welamu` (elm), `tawimo` (foolish), `pothu` (stink), `kanelu` (err), `monelu` (amused), `kapura` (shout), `loremi` (branch), and `wakomi` (surprise), favored over compression since a closer transmutation matters more than an economical one. The chapter's own wish, spoken twice on the train and muttered twice more leaving the station, is carried by `su`, the optative particle already in the grammar, once for the whole passage. The League's pace, the transformation it turns on, the discussion's warmth, and the magnitude of the four's conviction are carried by `reshi`, `moreluki`, `therua`, `phirae`, `noeli`, `ru kesu`, and `manolu`, all pre-existing words. The chapter's own frame is told as secondhand report, "says our friend," before the narrator steps forward to tell the rest himself, a device that lines up with Phi's reportative evidential almost exactly.*
 
 *Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Morris's own original wording, so a reader can see exactly what the transmutation kept and what it changed.*
 
@@ -396,43 +396,72 @@ The homecoming is three acts, each with its own verb: `wei womu ponu rato` turns
 ### nulae nela remo — Sleep and the waking night
 
 ```
-shia to nulae.
-3SG PST sleep.
-(He fell asleep.)
-morris: "In this mood he tumbled into bed, and fell asleep after his wont, in two minutes' time"
+shia nua ha korua muo nuwera ki lepa.
+3SG COM PROX heart INTO bed PFV fall.
+(With this heart he tumbled into bed.)
+morris: "In this mood he tumbled into bed,"
 
-shia te nulae.
-3SG CESS sleep.
-(Then he woke.)
-morris: "but (contrary to his wont) woke up again not long after in that curiously wide-awake condition which sometimes surprises even good sleepers"
+shia phea keno to reshi nulae.
+3SG AS custom PST fast sleep.
+(As was his custom, he fell asleep quickly.)
+morris: "and fell asleep after his wont, in two minutes' time;"
 
-shia korua tiso to nai.
-3SG heart sharp PST be.
-(His mind was sharp.)
-morris: "a condition under which we feel all our wits preternaturally sharpened"
+whekai shia whuo keno pheo teku shemu we te nulae.
+CONTR 3SG WITHOUT custom POST short moment ALSO CESS sleep.
+(But, outside his custom, he woke again a short moment later.)
+morris: "but (contrary to his wont) woke up again not long after"
 
-shia luera lo kanelu ki halemu.
-3SG past PL err PFV remember.
-(He remembered his past mistakes.)
-morris: "while all the miserable muddles we have ever got into, all the disgraces and losses of our lives, will insist on thrusting themselves forward for the consideration of those sharpened wits"
+ha kuelo thena soli shemu rena welao nulae miona we wakomi.
+PROX curious thing SOME moment REL good sleep person ALSO surprise.
+(This curious state sometimes surprises even those who sleep well.)
+morris: "in that curiously wide-awake condition which sometimes surprises even good sleepers;"
 
-shia monelu to nai.
-3SG amused PST be.
-(He was amused.)
-morris: "till he had almost begun to enjoy it: till the tale of his stupidities amused him"
+lo mia mena theula korua ru tiso nai meno phaelo.
+PL 1SG DECL.COMP UNIV heart INTS sharp be DECL.COMP.CLOSE feel.
+(We feel that the whole mind is intensely sharp.)
+morris: "a condition under which we feel all our wits preternaturally sharpened,"
 
-shia korua we siora to nai.
-3SG heart ALSO joy PST be.
-(His heart grew glad again.)
-morris: "the entanglements before him, which he saw so clearly, began to shape themselves into an amusing story for him"
+theula lo nuhe kanelu nela lo nupira nela lo holume wei ha ru tiso korua miso na pesa.
+UNIV PL sadness err COORD PL shame COORD PL loss DAT PROX INTS sharp heart REFL NEC push.
+(All the miserable muddles, and the shames, and the losses insist on pushing themselves at this sharpened mind.)
+morris: "while all the miserable muddles we have ever got into, all the disgraces and losses of our lives, will insist on thrusting themselves forward for the consideration of those sharpened wits."
 
-shia we to nulae.
-3SG ALSO PST sleep.
-(He slept again.)
-morris: "He heard one o'clock strike, then two and then three; after which he fell asleep again."
+shia mua ha thena tei pai monelu thorui to si ti ruemi.
+3SG LOC PROX thing UNTIL NEAR amused beginning PST IPFV REP lie down.
+(In this state, so the friend tells it, he lay on until near the beginning of amusement.)
+morris: "In this state he lay (says our friend) till he had almost begun to enjoy it:"
+
+shia tawimo nophi shia monelu ki ka kelu.
+3SG foolish story 3SG amused PFV CAUS become.
+(The tale of his foolishness made him amused.)
+morris: "till the tale of his stupidities amused him,"
+
+shia neo miso rena se tiwa lo sima to ru nuwi nila.
+3SG FRONT REFL REL PASS tie PL thread PST INTS clear see.
+(Before him, he saw the tied threads very clearly.)
+morris: "and the entanglements before him, which he saw so clearly,"
+
+lo sima wei shia muo loshi nophi miso pa selomi.
+PL thread DAT 3SG INTO joyful story REFL INCH weave.
+(The threads began to weave themselves into a joy-giving story for him.)
+morris: "began to shape themselves into an amusing story for him."
+
+shia ta nela wi nela ta shao teli haoni ki hea.
+3SG one COORD two COORD one three-group bell voice PFV hear.
+(He heard one, and two, and three voices of the bell.)
+morris: "He heard one o'clock strike, then two and then three;"
+
+pheo thena shia we to nulae.
+POST thing 3SG ALSO PST sleep.
+(After that, he slept again.)
+morris: "after which he fell asleep again."
 ```
 
-**Notes:** `te`, the particle for stopping or ceasing, does double duty as "waking": there is no separate verb for it, since waking is only sleep's own ending. The original's long inventory of remembered stupidities and mounting private amusement keeps its own words too: `kanelu` (err) licenses its own event noun by rule, plural with `lo` since the original counts many muddles, not one, remembered rather than a vague unhappiness; `monelu` (amused), coined as siora's (joy) narrower, lighter cousin, is the specific pleasure of finding one's own past foolishness funny rather than shameful. The clock's striking hour is left out on purpose, not by compression: canon already refuses clock time as vocabulary, and the sleepless stretch it marks is carried by the particles alone.
+**Notes:** the going to bed keeps its mood and its fall: `nua ha korua` (with this heart) carries the river walk's closing state into the bedroom, and `lepa`, the same surrendered falling that took the discontent off him, now takes him into bed, which is what "tumbled" is. Morris frames the sleep and the waking as custom kept and custom broken, and Phi has the pair ready: `phea keno` (as custom) for "after his wont," `whuo keno` (without custom) for "contrary to his wont," the same noun under two relators. "In two minutes' time" is refused with the rest of clock time and its meaning survives as `reshi` (fast); the waking stays `te` on sleep, the particle for ceasing, since waking is only sleep's own ending, now timed by `pheo teku shemu`, after a short moment.
+
+Morris then widens from the man to everyone, and the grammar follows him: `lo mia` (we) is the plural first person the lexicon's own entries already write with, and both gnomic sentences stand tenseless, as standing truths. The wide-awake state is `ha kuelo thena` (this curious thing), its wide-awakeness defined by the sentence that names it: `theula korua ru tiso` (the whole mind intensely sharp), with "preternaturally" resting on `ru`, intensity past the ordinary. `wakomi` (surprise), coined for the state's own habit of arriving unlooked-for, takes `rena welao nulae miona` (those who sleep well) as its object, `we` marking "even" them, and `soli shemu` (some moments) is the ruled way to say sometimes. The muddles keep the agency Morris gives them: `nuhe kanelu` (sadness-mistakes, a noun set before a noun) with `lo nupira` and `lo holume` (the shames, the losses) push themselves (`miso ... pesa`), insistently (`na`, the necessity particle "insist on" calls for), at `ha ru tiso korua`, this same sharpened mind.
+
+The lying-awake carries the chapter's third break-in: Morris says "(says our friend)" here as he did at the missed lamps, and `ti` re-marks it the same way, riding with `to si` (kept lying, `ruemi`) in one particle cluster. "Till he had almost begun to enjoy it" nests two relators the way the corpus already nests them: `tei pai monelu thorui`, until near the beginning of amusement, the almost living inside `pai` (near). What amuses him is `shia tawimo nophi`, the tale of his foolishness, `nophi` being the story-word of this text's own title, and the tale acts on him through the causative (`ka kelu`), as Morris has it act. The entanglements are `rena se tiwa lo sima`, threads that are tied, seen `ru nuwi` (very clearly) before him, and they weave themselves (`miso pa selomi`) into `loshi nophi`, a joy-giving story, for him: the tangle becoming the very kind of thing the reader is holding. The clock's hours stay refused, but the bells they ride on are real sound and stay: `ta nela wi nela ta shao teli haoni`, one and two and three voices of the bell, counting strikes without naming hours, which is how a sleepless man actually meets the night; `pheo thena` (after that) returns him to sleep.
 
 ## The report continues
 
@@ -454,7 +483,7 @@ morris: "since I understand the feelings and desires of the comrade of whom I am
 
 ## What the transmutation changed
 
-*Gap log: nine new words, all cleared of collisions before coining. `shalimo` (alliance), fricative-open/liquid-bound/nasal-settled, for the League itself, a group deliberately bound by shared cause rather than a single meeting of it; composing it from `sila` (community) and `nolami` (bond) would only have restated `sila`'s own definition, so the concept is coined fresh. `nurako` (railway), nasal-grounded/liquid-rolling/stop-closed, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word. `tawimo` (foolish), the natural opposite of `phue` (wise), built with a deliberately different sound rather than composed as `ma phue`. `pothu` (stink), the negative-valence partner to `whinu` (smell, neutral). `kanelu` (err), whose event noun (a mistake) comes by the ordinary rule. `monelu` (amused), `siora`'s (joy) narrower, lighter cousin. `kapura` (shout, roar), a doubled stop opening onto an open, projecting vowel, for the forceful vocalization itself, stronger than `theisa` (loud) intensifying `haolu` (speak) could carry. `loremi` (branch), liquids flowing outward the way a bough leaves its trunk, the vowels tapering from broad `o` to fine `i` as bough does to twig, closed by the same family nasal as `welamu` (elm) and `koremu` (bark); it stands between bark and leaf in the tree's own word-line, and `lepa` (fall) already speaks of leaves falling from branches. Two details compose rather than coin: the suspension bridge, `suro repha` (rope-bridge), a plain noun-noun compound, since the engineering itself is rare enough in this book that a new word isn't warranted; and its ugliness, `rena phelora ma nai` (that is not beautiful), absence of beauty rather than a coined opposite, the softer carve Phi's philosophy prefers for a judgment Morris will repeat across the whole book. Everything else composes from existing vocabulary.
+*Gap log: ten new words, all cleared of collisions before coining. `shalimo` (alliance), fricative-open/liquid-bound/nasal-settled, for the League itself, a group deliberately bound by shared cause rather than a single meeting of it; composing it from `sila` (community) and `nolami` (bond) would only have restated `sila`'s own definition, so the concept is coined fresh. `nurako` (railway), nasal-grounded/liquid-rolling/stop-closed, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word. `tawimo` (foolish), the natural opposite of `phue` (wise), built with a deliberately different sound rather than composed as `ma phue`. `pothu` (stink), the negative-valence partner to `whinu` (smell, neutral). `kanelu` (err), whose event noun (a mistake) comes by the ordinary rule. `monelu` (amused), `siora`'s (joy) narrower, lighter cousin. `kapura` (shout, roar), a doubled stop opening onto an open, projecting vowel, for the forceful vocalization itself, stronger than `theisa` (loud) intensifying `haolu` (speak) could carry. `loremi` (branch), liquids flowing outward the way a bough leaves its trunk, the vowels tapering from broad `o` to fine `i` as bough does to twig, closed by the same family nasal as `welamu` (elm) and `koremu` (bark); it stands between bark and leaf in the tree's own word-line, and `lepa` (fall) already speaks of leaves falling from branches. `wakomi` (surprise), the open breath of `wao` (wow) caught by the one stop `k` at the word's center, the instant between before and after, with `kamo` (arrive) echoing inside it: surprise as the arrival that never announced itself, in a language where everything else announces before it delivers; coined because the wide-awake night surprises good sleepers here and the whole book's adventures will be surprising from the next sentence on. Two details compose rather than coin: the suspension bridge, `suro repha` (rope-bridge), a plain noun-noun compound, since the engineering itself is rare enough in this book that a new word isn't warranted; and its ugliness, `rena phelora ma nai` (that is not beautiful), absence of beauty rather than a coined opposite, the softer carve Phi's philosophy prefers for a judgment Morris will repeat across the whole book. Everything else composes from existing vocabulary.
 
 The Anarchist faction is described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary, and by how its four members differ even from each other (`phirae`) with real intensity (`ru kesu`). Anger is the established compound `korua thero`, kept in its own sentence since `kapura` (shout) is intransitive and cannot take it as an object; the damning that follows the shout is `thiku nila` (small-see), the same compound `shame.json` already names for shame inflicted from outside, reused here rather than invented. Waking is `te` (cease) plus sleep, with no separate verb; goodwill arrives through `phena` (kind), already in the lexicon. The river and the homecoming compose everything they need from words already present: `lunei luphore` (the moon's river) for "moonlit," `wireo nila` (the future's seeing) for foresight, `rena seniku phena` (kindness that smiles) for "smiling goodwill," `mu luma` (zero lamps) counting the missed lights the way the Tao's pot counts its own emptiness, and the self-admission as the causative on a reflexive (`miso ... ka koema`, he causes himself to enter). `rato` (turn), `ponu` (door), `tapu` (close), `koema` (enter), `kerime` (shore), `mola` (island), and `shemu` (moment) were all in the lexicon before this chapter asked for them.
 
@@ -468,4 +497,6 @@ The chapter's reportative frame ("says our friend") is carried by Phi's own `ti`
 
 The League itself, its pace, and the transformation it turns on are carried by `shalimo`, `reshi`, and `moreluki`; the friends' rising energy, by `therua`, its own onset marked by the inchoative `pa` rather than a flat completed fact. The discussion's timing, "one night," is carried by `shero`; "the Morrow of the Revolution," the specific day after rather than a vague future, by `wireo philo` taking the transformation as its possessor, with the question anchored to it, "what would happen," embedded directly by the gap-word `hina` and the speculative `so po kelu`, no complementizer or coinage needed for either. The friends who speak of it are `soli` (some), and the society they imagine is `newu seroli` (new, mature), both of the original's own adjectives kept rather than one dropped for the other. The six persons and the council they formed stand as two linked sentences, `thelao` carrying the connection.
 
-New words coined: the nine above, and no others; everything else in the chapter composes from vocabulary already in the lexicon.*
+The waking night composes the rest from what the lexicon holds: `lo mia` (we) for Morris's turn to the general, `nuhe kanelu` (sadness-mistakes) for the miserable muddles, `phea keno` and `whuo keno` (as custom, without custom) for the wont kept and broken, `tei pai monelu thorui` (until near the beginning of amusement) nesting relators for "almost begun to enjoy," `rena se tiwa lo sima` (the threads that are tied) for the entanglements that weave themselves (`selomi`) into `loshi nophi`, a joy-giving story, the title's own word; and the refused clock survives as counted sound, `ta nela wi nela ta shao teli haoni`, one and two and three voices of the bell.
+
+New words coined: the ten above, and no others; everything else in the chapter composes from vocabulary already in the lexicon.*
