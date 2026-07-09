@@ -1,6 +1,6 @@
 # thiku miona lue silero — from The Little Prince
 
-*Antoine de Saint-Exupéry's Le Petit Prince is the most-translated book outside scripture, and language-builders have a particular affection for it: the fox's secret may be the most-rendered sentence in constructed languages. These are Phi's excerpts: three short passages, quoted only as far as commentary requires (the book remains in copyright), each transmuted with notes. It needed no new words at all.*
+*Antoine de Saint-Exupéry's Le Petit Prince is the most-translated book outside scripture, and language-builders have a particular affection for it: the fox's secret may be the most-rendered sentence in constructed languages. These are Phi's excerpts: three short passages from Katherine Woods's 1943 translation, each transmuted with notes. The book remains in copyright, so the units carry no source-citation lines and the English appears only in these short quoted excerpts.*
 
 *One transmutation happens before the first line: the title. A prince is rank, and Phi refused the vocabulary of rank; it cannot say what the boy is called, only what he is: `thiku miona lue silero`, the small person from the stars. He was never really a prince anyway: a child alone on a small world, tending it. The language sees through the title, which is what it does.*
 
@@ -8,35 +8,35 @@
 
 ## The request
 
-> *"Draw me a sheep…"*
+> *"If you please—draw me a sheep!"*
 
 ```
 pi no wei mia ta mophira kire.
 POL IMP DAT 1SG one sheep shape.
-(Please — shape me a sheep.)
+(Please, shape me a sheep.)
 ```
 
-**Notes:** the book's most famous request, and Phi answers it with this week's newest animal: `mophira`, coined for Schleicher's fable and immediately asked for again. Drawing is `kire`, to shape: what the narrator does with a pencil, the verb does with anything. The politeness stack `pi no` is the canonical gentle imperative: the small person is insistent, but never rude.
+**Notes:** the book's most famous request. The sheep is `mophira`, the wool-bearer, the same flock the Schleicher fable shears. Drawing is `kire`, to shape: what the narrator does with a pencil, the verb does with anything. The politeness stack `pi no` is the canonical gentle imperative, and Woods's "If you please" is its anchor in the source: the small person is insistent, but never rude.
 
 ## The secret
 
-> *"It is only with the heart that one can see rightly; what is essential is invisible to the eye."*
+> *"And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye."*
 
 ```
-ha mia kupela nai. mueli kupela nai.
-PROX 1SG secret be. plain secret be.
-(Here is my secret. It is a plain secret.)
+ha mia kupela nai. ru mueli kupela.
+PROX 1SG secret be. INTS plain secret.
+(Here is my secret. A very plain secret.)
 
-miona li roe korua welao nila.
-person RESTR INS heart good see.
-(One sees well only with the heart.)
+miona li roe korua po theali nila.
+person RESTR INS heart POT fitting see.
+(Only with the heart can one see rightly.)
 
 lo mirae rena noetha nai po ma nila.
 PL eye REL essential be POT NEG see.
 (The eyes cannot see what is essential.)
 ```
 
-**Notes:** the restrictive particle `li` earns its keep. Standing before `roe korua`, it restricts the seeing to that one instrument: *only* with the heart. The second line turns the French around into Phi's preferred voice: not "the essential is invisible" but *the eyes cannot see it* (`po ma`, the settled cannot), with the essential held in a headless relative, `rena noetha nai`, a thing the grammar can point at even though the eyes cannot.
+**Notes:** Woods calls it "a very simple secret," and the secret's own plainness gets the intensifier: `ru mueli kupela`, a nominal fragment standing beside the announcement the way her appositive does. "Rightly" is `theali`, the fitting, seeing aligned with what is really there, and the sentence's hinge is a matched pair of modals: with the heart one `po theali nila`, can see rightly, while the eyes `po ma nila`, cannot see it. The restrictive particle `li` earns its keep between them, standing before `roe korua` to fence the seeing to that one instrument: *only* with the heart. The essential is held in a headless relative, `rena noetha nai`, a thing the grammar can point at even though the eyes cannot.
 
 ## The responsibility
 
@@ -54,4 +54,4 @@ UNIV time. 2SG DAT REL 2SG PST bond responsible become.
 
 ## What the transmutation changed
 
-*Gap log: prince → refused as rank; the title describes instead: `thiku miona lue silero`, the small person from the stars; draw → `kire` (shape); tame → `nolami` (bond: the fox's own definition, already in the dictionary); everything else (secret, plain, heart, eye, essential, responsible, forever) the lexicon already held. New words coined: none. The text keeps good company on the shelf beside the Declaration of Human Rights: the rights of all people, and the duties of one heart.*
+*Gap log: prince → refused as rank; the title describes instead: `thiku miona lue silero`, the small person from the stars; draw → `kire` (shape); a very simple secret → `ru mueli kupela`, the intensifier on plainness; see rightly → `theali` (fitting), seeing aligned with what is really there, under the ability modal `po`; tame → `nolami` (bond: the fox's own definition, already in the dictionary); everything else (secret, heart, eye, essential, responsible, forever) the lexicon already held. New words coined: none. The text keeps good company on the shelf beside the Declaration of Human Rights: the rights of all people, and the duties of one heart.*

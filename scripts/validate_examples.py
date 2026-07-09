@@ -586,6 +586,9 @@ CITATION_SOURCES = {
     "pamphlets/heart_sutra.md": (
         "muller", "pamphlets/sources/buddhist_mahayana_texts_1894.txt"
     ),
+    "pamphlets/human_rights_article_one.md": (
+        "udhr", "pamphlets/sources/udhr_1948.txt"
+    ),
 }
 
 
