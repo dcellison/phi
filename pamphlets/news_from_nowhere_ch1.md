@@ -119,10 +119,15 @@ shia sonu to nai.
 (He was alone.)
 morris: "by himself"
 
-shia muila phou nurako mua kau sorae lumae womu to noeli wepu.
-3SG earth BELOW railway LOC ALL sun end home PST warm go.
-(He went home, amicably, by the underground railway, to his home in the west.)
-morris: "during which the aforesaid section, having said good-night very amicably, took his way home ... to a western suburb"
+shia lue shalimo to noeli pholeni.
+3SG ABL alliance PST warm depart.
+(He departed the alliance amicably.)
+morris: "during which the aforesaid section, having said good-night very amicably,"
+
+shia muila phou nurako mua kau sorae lumae womu to wepu.
+3SG earth BELOW railway LOC ALL sun end home PST go.
+(He went home by the underground railway to his home in the west.)
+morris: "took his way home ... to a western suburb"
 
 punoa nurako mua lo miona to ro ka wepu.
 society railway LOC PL person PST HAB CAUS go.
@@ -190,7 +195,7 @@ home BESIDE river ABOVE rope bridge PST be.
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge"
 ```
 
-**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the noise and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. His parting from the six is not silent: `sonu` (alone) states his solitude for the walk home, and `noeli`, already the discussion's own word for warmth two blocks earlier, returns as the manner of his going, carrying "very amicably" as the same good temper that held the room. His home takes its direction for the first time: `sorae lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
+**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the noise and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. His parting from the six is not one act but two, and the block keeps them as two sentences rather than folding one into the other: `sonu` (alone) states his solitude, and `pholeni` (depart), a word whose own meaning already bundles "the farewell spoken" into the moment of leaving, carries the good-night itself, with `noeli`, already the discussion's own word for warmth two blocks earlier, returning as its manner, "very amicably." `noeli` belongs to the parting, not to the journey that follows; travel has no temperature, and attaching the warmth to `wepu` (go) instead would have said something Morris never does, that the ride itself was amicable. `lue shalimo` (from the alliance) names what he is leaving, reaching back to the League named at the chapter's own opening. His home takes its direction for the first time: `sorae lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
 
 Morris's own aside survives as its own sentence rather than folding silently into the journey: `punoa` (society) takes `ka` (CAUS), the causative voice, for the first time in this chapter, with `lo miona` (people) as the one caused and `ro` (HAB) marking the forcing as standing custom rather than a single day's compulsion, exactly matching "civilisation has forced upon us like a habit" without needing a separate word for either "civilization" or "force." The carriage itself keeps its heat and crowding: `sheloi` (many) and `reshi` (fast, doing double duty as "hurried") for the press of people, `wipha` (restless) for their discontent, and `siwe` (sweat), coordinated onto the same sentence with `nela`, for the vapour-bath's heat without needing a new word for either image. `pothu` (stink), coined for the coach's own smell, still carries the line alone. "Like others" is new to this passage: `phea` (AS) marks the comparison plainly, so his restlessness is not his alone but the whole carriage's.
 
