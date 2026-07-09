@@ -577,6 +577,15 @@ CITATION_SOURCES = {
     "pamphlets/prophet_excerpts.md": (
         "gibran", "pamphlets/sources/the_prophet.txt"
     ),
+    "pamphlets/metta_sutta.md": (
+        "fausboll", "pamphlets/sources/sutta_nipata_fausboll.txt"
+    ),
+    "pamphlets/tao_te_ching.md": (
+        "legge", "pamphlets/sources/tao_teh_king_1891.txt"
+    ),
+    "pamphlets/heart_sutra.md": (
+        "muller", "pamphlets/sources/buddhist_mahayana_texts_1894.txt"
+    ),
 }
 
 
