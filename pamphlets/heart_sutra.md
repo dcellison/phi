@@ -1,129 +1,202 @@
 # nulo sano korua — the Heart Sutra
 
-*The Prajñāpāramitā Hṛdaya, the Heart Sutra, is the most-recited text in the Buddhist world: a page-long distillation of the emptiness teaching, chanted daily across a dozen countries for fourteen centuries. It is also the hardest possible test of transmutation, because its method is negation: it names the pieces of a person, and of the path itself, and says of each one "empty." A language can only follow it as far as its own honesty reaches. Phi follows it all the way, and needed no new words.*
+*The Prajñāpāramitā Hṛdaya, the Heart Sutra, is the most-recited text in the Buddhist world: a page-long distillation of the emptiness teaching, chanted daily across a dozen countries for fourteen centuries. It is also the hardest possible test of transmutation, because its method is negation: it names the pieces of a person, and of the path itself, and says of each one "empty." A language can only follow it as far as its own honesty reaches. Phi follows it all the way.*
 
-*Three of the language's own designs carry the weight. `whemoa` (empty) yields emptiness by the quality-noun rule, so śūnyatā is not a technical term here but the ordinary word for an empty bowl, doing its deepest work. The numeral `mu` (zero) counts absences honestly, and the sutra's great litany becomes a litany of zeros over the body's own words. And the optative `su`, the engine of the Metta Sutta's nineteen wishes, carries the closing mantra as a wish of passage. The title composes from the carve the lexicon already made: `nulo sano`, deep knowing, is wisdom; this text is its heart.*
+*The ground truth for the English is F. Max Müller's translation of the Smaller Pragñâ-pâramitâ-hridaya-sûtra (Buddhist Mahâyâna Texts, Sacred Books of the East, volume XLIX, 1894), stored verbatim in `pamphlets/sources/` and quoted with its scan's own spellings. The excerpt is the smaller sutra entire, leaving behind only what Müller's own text abridges with "till we come to" (the eighteen elements, and the head of the chain that names ignorance) and the closing colophon, which this text's title answers.*
 
-*Because the original is Sanskrit, the English beneath each Phi passage is our own plain rendering of the sense: Phi transmutes the idea, never somebody's translation.*
+*Three of the language's own designs carry the weight. `whemoa` (empty) yields emptiness by the quality-noun rule, so śūnyatā is not a technical term here but the ordinary word for an empty bowl, doing its deepest work. The numeral `mu` (zero) counts absences honestly, and the sutra's great litany becomes a litany of zeros over the body's own words. And the optative `su`, the engine of the Metta Sutta's wishes, carries the closing mantra as a wish of passage. The title composes from the carve the lexicon already made: `nulo sano`, deep knowing, is wisdom; this text is its heart.*
 
 ---
 
 ## The seeing
 
-> *One who practices the deep perfection of wisdom looks upon the five bundles that make a person and sees that they are empty, and in that seeing all suffering is released.*
-
 ```
+wei [rena theula sano] keluro.
+DAT [REL UNIV know] honor.
+(Honor to the one who knows all.)
+muller: "Adoration to the Omniscient !"
+
 rena nulo nila nulo sano thole.
 REL deep see deep know practice.
 (The one who sees deeply practices deep knowing.)
+muller: "The venerable Bodhisattva Avalokite^vara, per- forming his study in the deep Pra^;^aparamita (perfection of wisdom),"
 
-shia mena theula thena whemoa nai meno nila.
-3SG DECL.COMP UNIV thing empty be DECL.COMP.CLOSE see.
-(They see that all things are empty.)
-
-lo kipona se leiro.
-PL pain PASS release.
-(All suffering is released.)
+shia mena theula thena whemoa nai meno remo.
+3SG DECL.COMP UNIV thing empty be DECL.COMP.CLOSE think.
+(They think that all things are empty.)
+muller: "thought thus : ' There are the five Skandhas, and these he considered as by their nature empty (phenomenal).'"
 ```
 
-**Notes.** Avalokiteshvara does not cross over by name: Phi refuses titles of office, so the bodhisattva is what the bodhisattva does, `rena nulo nila`, the one who sees deeply (the refusal, as with the Prophet's prophet and the fable's master). The five bundles fold into `theula thena`, all things, because the sutra's own argument makes the list and its members equally empty (the reframe). The passive `se` lets the suffering release without an agent, which is the sutra's exact claim: no one does the releasing.
+**Notes.** Müller opens with an invocation, and Phi can bow the same way: honor, `keluro`, offered to the one who knows all, a headless relative where a title would stand. Avalokiteshvara does not cross over by name: Phi refuses titles of office, so the bodhisattva is what the bodhisattva does, `rena nulo nila`, the one who sees deeply (the refusal, as with the Prophet's prophet and the fable's master). The five bundles fold into `theula thena`, all things, because the sutra's own argument makes the list and its members equally empty (the reframe). Müller's verb is "thought," and Phi thinks with him: the emptiness arrives inside `mena ... meno`, a thought held whole before the verb `remo` delivers it.
 
 ## The equation
-
-> *Form is emptiness; emptiness is form. Form is not other than emptiness; emptiness is not other than form.*
 
 ```
 kire whemoa nai. whemoa kire nai.
 shape empty be. empty shape be.
 (Form is empty. Emptiness is form.)
+muller: "form here is emptiness, and emptiness indeed is form."
+
+whemoa nela kire phirae ma nai.
+empty COORD shape different NEG be.
+(Emptiness and form are not different.)
+muller: "Emptiness is not different from form, form is not different from emptiness."
+
+[rena kire nai] whemoa nai. [rena whemoa nai] kire nai.
+[REL shape be] empty be. [REL empty be] shape be.
+(That which is form is emptiness; that which is emptiness is form.)
+muller: "What is form that is emptiness, what is emptiness that is form."
+
+phaelo nela nomei nela remo nela sano we whemoa nai.
+feel COORD name COORD think COORD know ALSO empty be.
+(Feeling and name and thought and knowledge are also empty.)
+muller: "' The same applies to perception, name, concep- tion, and knowledge.'"
 ```
 
-**Notes.** The most famous equation in Buddhist literature runs on two of Phi's one-way bridges meeting in the middle. `kire` (shape, the verb) gives its event noun, form; `whemoa` (empty, the adjective) gives its quality noun, emptiness; and `nai` holds each up to the other in both directions (the grammar-led choice). Two four-word sentences, nothing technical in either.
+**Notes.** The most famous equation in Buddhist literature runs on two of Phi's one-way bridges meeting in the middle. `kire` (shape, the verb) gives its event noun, form; `whemoa` (empty, the adjective) gives its quality noun, emptiness; and `nai` holds each up to the other in both directions (the grammar-led choice). Müller then denies the difference twice, once in each direction, and Phi says it once on `nela`, because `phirae`, difference, is a relation between two things and dies for both of them together. The third sentence turns the equation into headless relatives, that-which-is-form and that-which-is-emptiness trading places. Then the other four bundles take the same seat: perception as `phaelo`, feeling; conception as `remo`, thought; each carried at the word the litany below will zero.
 
 ## What emptiness is not
 
-> *All things are marked by emptiness: not born, not destroyed; not stained, not pure; not gaining, not losing.*
-
 ```
-whemoa ma thowia. ma lumeo.
-empty NEG born. NEG die.
-(Emptiness is not born. It does not die.)
+theula thena whemoa kire phelu.
+UNIV thing empty shape hold.
+(All things hold the shape of emptiness.)
+muller: "' Here, O 6'ariputra, all things have the character of emptiness,"
 
-ma newu nai. ma serao nai.
-NEG new be. NEG old be.
-(It is not new. It is not old.)
+lo shia mawha thorui mawha lumae phelu.
+PL 3SG NONE beginning NONE end hold.
+(They hold no beginning and no end.)
+muller: "they have no beginning, no end,"
 
-ma pilu. ma loa.
-NEG take. NEG give.
-(It takes nothing. It gives nothing.)
+lo shia shiloa nai. lo shia we shiloa ma nai.
+PL 3SG pure be. PL 3SG ALSO pure NEG be.
+(They are pure. They are also not pure.)
+muller: "they are faultless and not faultless,"
+
+lo shia ma thenoi. lo shia we sholu ma nai.
+PL 3SG NEG falls-short. PL 3SG ALSO complete NEG be.
+(They do not fall short. They are also not complete.)
+muller: "they are not imperfect and not perfect."
 ```
 
-**Notes.** The sutra's three negation pairs arrive in pairs Phi already owns: born and die from the turning of a life, new and old, take and give. Stained and pure is the one pair transmuted rather than carried: Phi has no purity vocabulary to negate, so the taking-and-giving pair from the gift economy stands in its place, and the exchange the sutra refuses is refused in Phi's own terms (the reframe). One negation per clause, by the one-per-rank ruling: the sutra's rhythm survives as a drumbeat of short sentences.
+**Notes.** "The character of emptiness" is `whemoa kire`, emptiness's shape, the same compound logic that gives the registry its thought-shapes: what all things hold is the form of holding nothing. Beginnings and ends are counted out with `mawha` at the nouns themselves, `thorui` and `lumae`. Then the sutra does the thing only this sutra does: it asserts a predicate and its negation and lets both stand. Phi does not flinch. Faultlessness is carried at `shiloa`, purity as unclouded essence; they are pure, and, `we`, also not pure. Not imperfect and not perfect become `ma thenoi`, no falling short, and `sholu ma nai`, no completeness either, the addition particle holding the contradiction open the way the teaching means it: both descriptions fail, because there is nothing there to describe.
 
 ## The zero litany
 
-> *Therefore in emptiness there is no form, no feeling, no perception, no impulse, no consciousness; no eye, no ear, no nose, no tongue, no body, no mind; no suffering, no origin, no cessation, no path; no wisdom and no attainment.*
-
 ```
-mua whemoa mu mirae mu shonui mu nophae nai.
-LOC empty zero eye zero ear zero nose be.
-(In emptiness there is no eye, no ear, no nose.)
+mua ha whemoa mu kire mu phaelo mu nomei mu remo mu sano nai.
+LOC PROX empty zero shape zero feel zero name zero think zero know be.
+(In this emptiness there is no form, no feeling, no name, no thought, no knowledge.)
+muller: "Therefore, O .Sariputra, in this emptiness there is no form, no perception, no name, no concepts, no knowledge."
 
-mu lathoe mu weloni mu remo nai.
-zero tongue zero body zero think be.
-(No tongue, no body, no mind.)
+mu mirae mu shonui mu nophae mu lathoe mu weloni mu remo nai.
+zero eye zero ear zero nose zero tongue zero body zero think be.
+(No eye, no ear, no nose, no tongue, no body, no thought.)
+muller: "No eye, ear, nose, tongue, body, mind."
 
-mu kipona mu ruela nai.
-zero pain zero path be.
-(No suffering, and no path.)
+mu kire mu shonuwa mu whinu mu thorima mu palo mu thena nai.
+zero shape zero sound zero smell zero taste zero touch zero thing be.
+(No form, no sound, no smell, no taste, no touch, no things.)
+muller: "No form, sound, smell, taste, touch, objects.'"
 
-mu pilu mu holume nai.
-zero take zero loss be.
-(Nothing gained, nothing lost.)
+mu serao kelu mu lumeo nai. mu serao kelu lumae mu lumeo lumae nai.
+zero old become zero die be. zero old become end zero die end be.
+(No becoming-old, no death. No end of becoming-old, no end of death.)
+muller: "' there is no decay and death, no destruction of decay and death ;"
+
+mu kipona mu kipona shua mu kipona lumae mu ruela nai.
+zero pain zero pain come zero pain end zero path be.
+(No pain, no coming of pain, no end of pain, no path.)
+muller: "there are not (the four truths, viz. that there) is pain, origin of pain, stoppage of pain, and the path to it."
+
+mu sano mu pilu nai.
+zero know zero take be.
+(No knowledge, no taking.)
+muller: "There is no knowledge, no obtaining (of Nirva;/a)."
 ```
 
-**Notes.** This is `mu` doing in literature what it does in arithmetic: counting absence exactly. The pattern is the Tao text's `mua tomi mu thena nai` (in the pot, nothing), extended over the body's own inventory: eye, ear, nose, tongue, body, and `remo`, thought standing for mind by the event-noun rule (composition). The litany ends where the sutra's does, with the path and wisdom's rewards counted at zero too; even `nulo sano` is not exempt from its own seeing.
+**Notes.** This is `mu` doing in literature what it does in arithmetic: counting absence exactly. The five bundles go first, then the six senses over the body's own inventory, then the six objects those senses reach for, `shonuwa` the sound, `whinu` the smelling, `thorima` the tasting, `palo` the touching, and last `thena`, things themselves. Müller's "concepts" and "mind" are both `remo` in Phi, thought zeroed twice, once as content and once as organ. Between the senses and the chain, Müller's text abridges itself, "till we come to," and this text leaves behind exactly what he leaves behind: the eighteen elements, and the chain's head, whose "ignorance" Phi does not carve as a thing (knowing's absence is said in a clause, not held as a noun). Decay is `serao kelu`, the becoming-old, composed the way deep knowing is; the four truths are zeroed as pain, pain's coming, pain's end, and the path; and the litany closes on `mu sano mu pilu`, no knowledge, no taking, where even `nulo sano` is not exempt from its own seeing.
 
 ## The one who walks
 
-> *With nothing to attain, the one who practices this wisdom has a mind without hindrance, and without hindrance there is no fear; passing beyond every upside-down view, nirvana.*
+```
+[rena nulo sano thole] mua remo kire menui.
+[REL deep know practice] LOC think shape dwell.
+(The one who practices deep knowing dwells within thought-shapes.)
+muller: "' A man who has approached the Pra^;Hparamita of the Bodhisattva dwells enveloped in conscious- ness '."
+
+lu remo kire se leiro. shia whuo sukima thalo.
+COND think shape PASS release. 3SG WITHOUT fear walk.
+(When the thought-shapes are released, they walk without fear.)
+muller: "But when the envelopment of consciousness has been annihilated, then he becomes free of all fear,"
+
+kelu shia po ma pilu. shia nulo shea phaelo.
+become 3SG POT NEG take. 3SG deep peace feel.
+(Change cannot take them. They feel the deep peace.)
+muller: "beyond the reach of change, enjoying final Nirv^awa."
+```
+
+**Notes.** Müller's "enveloped in consciousness" is the mind's own wrapping, and Phi has owned that image since the registry ruled it: `remo kire`, thought-shapes, the constructions a mind dwells inside. "Annihilated" is the one verb the sentence cannot keep: Phi refuses annihilation as it refuses every conquest, so the envelopment is `se leiro`, released, undone by letting go, and the walker walks `whuo sukima`, without fear, one preposition doing the freedom. Beyond the reach of change: `kelu`, becoming itself, cannot take them. And nirvana is not named, because Phi keeps rites and ultimates unnamed for every tradition to fill; what the text can honestly say is `nulo shea`, the deep peace, felt by the feeling grammar (the refusal, and the grammar-led choice together).
+
+## The awakened
 
 ```
-rena nulo sano thole whuo sukima thalo.
-REL deep know practice WITHOUT fear walk.
-(The one who practices deep knowing walks without fear.)
-
-shia whuo remo kire thalo.
-3SG WITHOUT think shape walk.
-(They walk free of fixed views.)
-
-shia nulo shea phaelo.
-3SG deep peace feel.
-(They feel the deep peace.)
+theula [rena nowae miona] mua luera nela nosa nela wireo nulo sano to thole. lo shia kau mo ko sholu sano to nowae.
+UNIV [REL awaken person] LOC past COORD now COORD future deep know PST practice. PL 3SG ALL CMPR FOC complete know PST awaken.
+(All awakened ones, in the past and the present and the future, practiced deep knowing. They awakened to the most complete knowledge.)
+muller: "' All Buddhas of the past, present, and future, after approaching the Pra^;7aparamita, have awoke to the highest perfect knowledge.'"
 ```
 
-**Notes.** Hindrance and fear reduce to one preposition doing double duty: `whuo`, without. The upside-down views are the registry's `remo kire`, thought-shapes, the compound that keeps a view's constructedness visible (the carve). And nirvana is not named, because Phi keeps rites and ultimates unnamed for every tradition to fill; what the text can honestly say is `nulo shea`, the deep peace, felt by the feeling grammar (the refusal, and the grammar-led choice together).
+**Notes.** The Buddhas cross over the same way the bodhisattva did: not as a title but as what they are, `rena nowae miona`, the ones who awaken, since Buddha means exactly that and Phi says meanings. Their three times stand in one prepositional phrase, past and now and future on `nela`; their approach to the perfection of wisdom is this text's own equivalence, the practice of `nulo sano`; and the highest perfect knowledge is the superlative stacked on `sholu`, the most complete knowing, reached by the same verb the awakened are named with.
 
 ## The going
 
-> *Gate gate pāragate pārasaṃgate bodhi svāhā: gone, gone, gone beyond, gone altogether beyond, awakening, so be it.*
-
 ```
-su lo mia wepu. su lo mia kau ra shuna wepu.
-OPT PL 1SG go. OPT PL 1SG ALL DIST edge go.
-(May we go. May we go to the far shore.)
+miona nulo sano whalo meliho na sano.
+person deep know large sing NEC know.
+(One must know the great song of deep knowing.)
+muller: "' Therefore one ought to know the great verse of the Pra^;7aparamita, the verse of the great wisdom,"
 
-su theula miona kau ra shuna wepu.
-OPT UNIV person ALL DIST edge go.
-(May all people go to the far shore.)
+mawha meliho mo welao nai.
+NONE sing CMPR good be.
+(No song is better.)
+muller: "the unsurpassed verse, the peerless verse,"
 
-shelomui shua. shea shua.
-understand come. peace come.
-(Understanding comes. Peace comes.)
+ha meliho theula kipona leiro.
+PROX sing UNIV pain release.
+(This song releases all pain.)
+muller: "which appeases all pain"
+
+ha ma peshu. thelao ha shewo nai.
+PROX NEG lie. CONS PROX true be.
+(It does not lie, and so it is true.)
+muller: "it is truth, because it is not false"
+
+su lo mia wepu.
+OPT PL 1SG go.
+(May we go.)
+muller: "O wisdom, gone, gone,"
+
+su lo mia kau ra shuna wepu.
+OPT PL 1SG ALL DIST edge go.
+(May we go to the far shore.)
+muller: "gone to the other shore,"
+
+su theula miona kau ra shuna shua.
+OPT UNIV person ALL DIST edge come.
+(May all people come to the far shore.)
+muller: "landed at the other shore,"
+
+shea shua.
+peace come.
+(Peace comes.)
+muller: "Svaha !"
 ```
 
-**Notes.** The mantra is traditionally left untranslated; Phi transmutes it instead, because Phi has exactly the mood a mantra of passage needs. The optative `su` that wishes nineteen times in the Metta Sutta wishes three times here, widening from we to all people, the sutra's own arc of compassion. Pāra, the far shore, is `ra shuna`, that edge, the deictic doing the pointing a sacred word would only obscure. Bodhi and svāhā arrive as two plain clauses: understanding comes, peace comes. The text ends, as the practice does, with arrival left open and the direction perfectly clear.
+**Notes.** The verse is `meliho`, the song, because this verse is sung, and its epithets arrive as claims: it is the great song of deep knowing, no song is better, it releases all pain, `leiro` again where "appeases" would ask for a victory. Müller's connective, "the verse proclaimed in the Pragnaparamita," is carried by deixis: `ha meliho`, this song, points at the verse the first unit already named. Müller's parenthesis of truth keeps its logic and flips its order, reason announced before conclusion, as this grammar always announces: it does not lie, and so it is true. Then the mantra, which Müller renders rather than transliterates, and Phi carries as what it has always been, a wish of passage: the optative `su` widening from we to all people, the sutra's own arc of compassion. Pāra, the far shore, is `ra shuna`, that edge, the deictic doing the pointing a sacred word would only obscure; the going is `wepu` and the landing is `shua`, arrival's own verb; and svāhā, the so-be-it, is the text's last two words: peace comes. The going is a wish three times, and the arrival is stated plainly, as if it had already happened. That is the sutra's promise, kept in the mood system.
 
 ---
 
-*Gap log: Avalokiteshvara → refused as office; `rena nulo nila`, the one who sees deeply. The five bundles → `theula thena`, all things, per the sutra's own argument. Form → `kire`, the event noun of shape. Emptiness → `whemoa`, the quality noun of empty; śūnyatā as the ordinary word for an empty bowl. Stained/pure → no purity vocabulary to negate; the take/give pair stands in its place. The sense litany → `mu` over the body's inventory, the Tao text's pattern extended. Mind → `remo`, thought, by the event-noun rule. Hindrance and fear → `whuo`, without. Upside-down views → `remo kire`, the registry's thought-shapes. Nirvana → unnamed by design; `nulo shea`, the deep peace, is what can honestly be said. The mantra → the optative going: gate → `wepu`, pāra → `ra shuna` (the far shore), bodhi → `shelomui`, svāhā → `shea`. Wisdom itself → `nulo sano`, deep knowing, canonized in the compound registry from this text. New words coined: none.*
+## What the transmutation changed
+
+*Gap log: the Omniscient → `rena theula sano`, the one who knows all, honored without a title. Avalokiteshvara → refused as office; `rena nulo nila`, the one who sees deeply. The five bundles → `theula thena`, all things, per the sutra's own argument; severally, perception → `phaelo` (feeling), conception → `remo` (thought), name → `nomei`, knowledge → `sano`. Sariputra → the listener unnamed; the teaching speaks to whoever is reading. Form → `kire`, the event noun of shape. Emptiness → `whemoa`, the quality noun of empty; śūnyatā as the ordinary word for an empty bowl. The character of emptiness → `whemoa kire`, emptiness's shape. Not different, twice → said once on `nela`, difference dying for both parties together. Faultless and not faultless → `shiloa` asserted and denied, the contradiction held open with `we`. Not imperfect and not perfect → `ma thenoi` and `sholu ma nai`, both descriptions failing as the teaching intends. Mind → `remo`, thought, zeroed as organ beside its contents. The sense objects → `shonuwa`, `whinu`, `thorima`, `palo`, `thena`. The eighteen elements and the chain's head → left behind exactly where Müller's own text abridges with "till we come to"; ignorance has no Phi noun, because knowing's absence is said in clauses, not held as a thing. Decay → `serao kelu`, the becoming-old. The four truths → pain, pain's coming, pain's end, and the path, all at zero. Obtaining → `pilu`, taking. Enveloped in consciousness → dwelling within `remo kire`, the registry's thought-shapes. Annihilated → `se leiro`, released: Phi refuses annihilation. Nirvana → unnamed by design; `nulo shea`, the deep peace, is what can honestly be said. Buddhas → `rena nowae miona`, the ones who awaken. The highest perfect knowledge → `mo ko sholu sano`, the most complete knowing. The verse → `meliho`, the song; appeases → `leiro`, releases. Because → the reason announced first, on `thelao`. The mantra → the optative going: gone → `wepu`, landed → `shua`, the far shore → `ra shuna` (that edge), svāhā → `shea shua`, peace comes. Wisdom itself → `nulo sano`, deep knowing, canonized in the compound registry from this text. The colophon → answered by the title, `nulo sano korua`. New words coined: none.*
