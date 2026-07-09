@@ -802,7 +802,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (202)
+## nature (203)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -852,6 +852,7 @@
 | `loesi` | oil | Liquid essence |
 | `lohau` | dog | The companion animal |
 | `lopia` | child | unfolds inherent potential through organic growth |
+| `loremi` | branch | The tree's reaching limb |
 | `lori` | vital | Life essence |
 | `loriphi` | rainbow | Optical atmospheric phenomenon |
 | `lorua` | abundant | Plentiful supply |
@@ -1009,7 +1010,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (237)
+## physical (238)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1069,6 +1070,7 @@
 | `loa` | give | transferring objects between people |
 | `lomare` | embrace | Bodily expression of care |
 | `lomura` | liver | The inner anatomy's quiet worker |
+| `loremi` | branch | Living structure that holds and sways |
 | `lori` | vital | Essential quality |
 | `lorika` | blood | The fluid circulating through the body |
 | `losha` | wide | Great breadth |
