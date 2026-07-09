@@ -24,14 +24,15 @@ allowed-tools:
 
 This skill exists because the first pass at News from Nowhere ch. 1 got the process wrong twice: once by compressing the original's imagery away by default, and once by trusting a vocabulary search that silently returned nothing when the words it was looking for were sitting in the lexicon the whole time. Both failures are avoidable if the steps below are followed in order, every time, including for a one-line fix.
 
-## The four failures this skill guards against
+## The five failures this skill guards against
 
 1. **Compressing instead of checking.** An elm became generic `shiro` (tree). A crowded, stinking carriage became a bare "sad heart." A discussion's brisk pace and the Revolution it turned on were dropped entirely. In every case the missing word or construction was already in the lexicon; it had just never been searched for properly.
 2. **Trusting a negative search result.** A vocabulary-search script that expected each `vocabulary/**/*.json` file to be a list with an `entries` or `words` key silently returned zero hits for every single query, because each file is actually one JSON object. This nearly produced a false report that Phi lacked words for "brisk," "meeting," "revolution," and "vigorous." All four already existed.
 3. **Checking the words and not the grammar.** Every image in News from Nowhere ch. 1 survived steps 1 through 4, and the chapter still under-used Phi's own particle system: modality (`po`, `na`) never appears once in the whole chapter, evidentiality is marked exactly once (`ti`, opening the frame) though the chapter is one long narrated account, discourse adverbs are marked once (`thelao`) though the discussion turns sharply from good-tempered to a shout, and focus (`ko`) and restriction (`li`) never appear at all. None of this was a considered choice; nothing had prompted a check for it.
 4. **Fetching fragments instead of the full text.** Asking a summarizing fetch tool for isolated, pre-guessed passages ("find the text between X and Y") requires already knowing the right boundaries, and the summarizing model can silently clip its own quotes to fit an output limit, returning something that looks verbatim but is not. Retrieving the complete source once and reading it directly caught a real error a fragmentary approach had missed: a brevity Morris states twice (a habitual mood, and separately a habitual temper, each described as passing quickly) had collapsed into one sentence that attached the wrong quality to the wrong thing.
+5. **Letting a citation claim more than its own unit translates.** Two adjacent two-word sentences (`kohura ki nai`, `maeli ki nai`) shared one long, ellipsis-truncated citation instead of each getting the precise clause it translates, and a separate unit citing pure state ("he was alone," no verb of motion) carried the citation "took his way home by himself," attributing movement to a sentence that has none. The translation itself was complete; the citations made it look like the transmutation had dropped most of the sentence, because each excerpt promised far more than its own two or three words delivered. Daniel caught this by reading the shipped block, not by checking the source.
 
-Everything below is built to catch these four failures before they reach a file.
+Everything below is built to catch these five failures before they reach a file.
 
 ## 1. Survey the source
 
@@ -91,6 +92,8 @@ source: "<the specific clause or sentence of the original this line transmutes>"
 
 For still-copyrighted sources, drop the fourth line and say so in the intro.
 
+**The excerpt must represent the transmutation, not the neighborhood it came from.** Cite exactly the clause the Phi sentence translates, no more. Two units never share the same citation, even when they split one English sentence between them, and citations never overlap: if one unit's citation ends mid-sentence, the next unit's citation picks up exactly where it left off, not a few words earlier. Before finalizing a block, reread each citation next to only its own Phi line and ask whether the citation promises anything the Phi sentence does not actually say (a verb of motion the sentence lacks, an image a neighboring unit carries instead); an inflated or borrowed citation makes a complete translation look like a compressed one, and a shared or truncated-with-ellipsis citation is close to always a sign that the original sentence should have been split at its own clause boundary instead.
+
 Each block gets a **Notes:** paragraph explaining the choices in it: what was coined and why, what was composed and why, what canon refuses and how the text describes it instead. The file closes with a **Gap log**: a flat catalog, concept, then the Phi solution, then the reasoning, covering every coinage and composition.
 
 ## 7. State the transmutation, don't narrate the drafting
@@ -100,6 +103,7 @@ Notes and gap logs state the transmutation's current reasoning. They are never a
 ## 8. Validate, humanize, ship
 
 - Run `python3 scripts/validate_examples.py` standalone before every commit touching the file. Zero errors, zero warnings is the bar.
+- Reread every citation in the block against only its own Phi line (see the check in step 6); the validator does not catch a shared, overlapping, or inflated citation, so this is a manual pass every time, not a one-off fix for whichever unit prompted it.
 - Before coining, run `python3 scripts/validate_examples.py neighbors <candidate>`.
 - If any vocabulary JSON changed, regenerate: `python3 scripts/generate_reference.py` and `python3 scripts/build_explorer.py`.
 - Invoke the actual humanizer skill (the tool call, not a hand-applied summary of its pattern list) on any new or changed prose, intro, notes, gap log, before committing. Never touch the Phi example blocks, gloss lines, or source-quote lines.
