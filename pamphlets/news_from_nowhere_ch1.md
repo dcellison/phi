@@ -80,9 +80,14 @@ CONTR 3SG INTO discuss PASS pull.
 (However, he was drawn into the discussion.)
 morris: "but at last got drawn into it,"
 
-shia korua thero ki kapura.
-3SG heart fire PFV shout.
-(His heart caught fire, and he shouted.)
+shia korua thero to nai.
+3SG heart fire PST be.
+(His heart caught fire.)
+morris: "and finished by roaring out very loud,"
+
+shia ki kapura.
+3SG PFV shout.
+(He shouted.)
 morris: "and finished by roaring out very loud,"
 
 shia mena lo miona tawimo nai meno haolu.
@@ -97,7 +102,7 @@ The discussion's good temper is qualified, not simple, and a second sentence exp
 
 The one voice that finally rises was not loud from the start: `maeli meilo` (sat quiet) states the man's silence at `shareo thorui` (the discussion's beginning), the one real contrast the passage draws between quiet and outburst. `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside, an intimate detail rather than a stranger's outburst, using the pre-nominal relative clause the same way the chapter's other embedded clauses do. `whekai` (CONTR, however) opens the turn itself: `se natu` (was drawn in) is passive on purpose, since Morris's own "got drawn into it" describes something that happened to the man, not a choice he made.
 
-`korua thero`, heart-fire, is anger, an established compound, not a new one. `kapura` (shout, roar), coined for this line, names the forceful vocalization itself, an outburst distinct from `theisa` (loud, a quality any sound can carry) and stronger than `haolu` (speak) intensified. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not.
+`korua thero`, heart-fire, is anger, an established compound, not a new one, and it keeps its own sentence rather than sharing `kapura`'s clause: Morris's own words are just "roaring out very loud," with the anger left implicit in the volume; naming it directly rather than leaving it unspoken is the same choice Phi's own compound already makes. `kapura` is intransitive, so `korua thero` cannot stand as its object; each gets its own verb instead, `nai` for the state and `kapura` for the act. `kapura` (shout, roar), coined for this line, names the forceful vocalization itself, an outburst distinct from `theisa` (loud, a quality any sound can carry) and stronger than `haolu` (speak) intensified. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not.
 
 The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
 
