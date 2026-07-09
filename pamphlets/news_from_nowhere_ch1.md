@@ -77,7 +77,7 @@ morris: "One of the sections, says our friend, a man whom he knows very well ind
 
 whekai shia muo shareo se natu.
 CONTR 3SG INTO discuss PASS pull.
-(However, he was drawn into the discussion at last.)
+(However, he was drawn into the discussion.)
 morris: "but at last got drawn into it,"
 
 shia korua thero to nai.
@@ -90,9 +90,14 @@ shia ki kapura.
 (He roared out, loud and forceful.)
 morris: "and finished by roaring out very loud,"
 
+shia lo miona ki thiku nila.
+3SG PL person PFV small see.
+(He looked down on the others.)
+morris: "and damning all the rest for fools."
+
 shia mena lo miona tawimo nai meno haolu.
 3SG DECL.COMP PL person foolish be DECL.COMP.CLOSE speak.
-(He damned the rest of them as fools.)
+(He said the others were foolish.)
 morris: "and damning all the rest for fools."
 ```
 
@@ -102,7 +107,7 @@ The discussion's good temper is qualified, not simple, and a second sentence exp
 
 The one voice that finally rises was not loud from the start: `maeli meilo` (sat quiet) states the man's silence at `shareo thorui` (the discussion's beginning), the one real contrast the passage draws between quiet and outburst. `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside, an intimate detail rather than a stranger's outburst, using the pre-nominal relative clause the same way the chapter's other embedded clauses do. `whekai` (CONTR, however) opens the turn itself: `se natu` (was drawn in) is passive on purpose, since Morris's own "got drawn into it" describes something that happened to the man, not a choice he made.
 
-`korua thero`, heart-fire, is anger, an established compound, not a new one, and it keeps its own sentence rather than sharing `kapura`'s clause: Morris's own words are just "roaring out very loud," with the anger left implicit in the volume; naming it directly rather than leaving it unspoken is the same choice Phi's own compound already makes. `kapura` is intransitive, so `korua thero` cannot stand as its object; each gets its own verb instead, `nai` for the state and `kapura` for the act. `kapura` (shout, roar), coined for this line, names the forceful vocalization itself, an outburst distinct from `theisa` (loud, a quality any sound can carry) and stronger than `haolu` (speak) intensified. "Damning the rest for fools" keeps its own word: `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), since a language of mindful speech deserves its own word for the thing mindfulness is not.
+`korua thero`, heart-fire, is anger, an established compound, not a new one, and it keeps its own sentence rather than sharing `kapura`'s clause: Morris's own words are just "roaring out very loud," with the anger left implicit in the volume; naming it directly rather than leaving it unspoken is the same choice Phi's own compound already makes. `kapura` is intransitive, so `korua thero` cannot stand as its object; each gets its own verb instead, `nai` for the state and `kapura` for the act. `kapura` (shout, roar), coined for this line, names the forceful vocalization itself, an outburst distinct from `theisa` (loud, a quality any sound can carry) and stronger than `haolu` (speak) intensified. "Damning all the rest for fools" is two acts, not one, and stays two sentences: `haolu` (speak) only carries plain declaration, with no contempt built into it, so the damning itself needed its own verb rather than riding on the word for what he said. `thiku nila`, small-see, is already in the lexicon as the compound for shame inflicted from outside (`shame.json`'s own cousin-word), and composes cleanly here as the belittling Morris names, `lo miona` (the others) as its direct object and `thiku` (small) standing as its manner the same way other adjectives do before other verbs in this chapter. `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), keeps the specific charge in the second sentence, since a language of mindful speech deserves its own word for the thing mindfulness is not.
 
 The headcount and its consequence stand as two sentences, matching the original's own structure of a fact and what follows from it: `thelao` (CONS, "therefore"), a discourse marker built to link whole sentences rather than parts of one, carries the "and consequently." "Six sections of the party were represented" needs no political vocabulary at all: `kowela`, council, already names a non-hierarchical body gathered because its members bring different views to it, so calling the six a council states the same thing Morris states, without borrowing his party politics to do it. The meeting-place and the discussion's topic are carried in the block above.
 
@@ -191,7 +196,7 @@ morris: "\"If I could but see a day of it,\" he said to himself; \"if I could bu
 
 shia ki kamo.
 3SG PFV arrive.
-(He arrived at last.)
+(He arrived.)
 morris: "As he formed the words, the train stopped at his station"
 
 womu sio luphore leo suro repha to nai.
@@ -338,7 +343,7 @@ morris: "since I understand the feelings and desires of the comrade of whom I am
 
 *Gap log: eight new words, all cleared of collisions before coining. `shalimo` (alliance), fricative-open/liquid-bound/nasal-settled, for the League itself, a group deliberately bound by shared cause rather than a single meeting of it; composing it from `sila` (community) and `nolami` (bond) would only have restated `sila`'s own definition, so the concept is coined fresh. `nurako` (railway), nasal-grounded/liquid-rolling/stop-closed, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word. `tawimo` (foolish), the natural opposite of `phue` (wise), built with a deliberately different sound rather than composed as `ma phue`. `pothu` (stink), the negative-valence partner to `whinu` (smell, neutral). `kanelu` (err), whose event noun (a mistake) comes by the ordinary rule. `monelu` (amused), `siora`'s (joy) narrower, lighter cousin. `kapura` (shout, roar), a doubled stop opening onto an open, projecting vowel, for the forceful vocalization itself, stronger than `theisa` (loud) intensifying `haolu` (speak) could carry. One detail composes rather than coins: the suspension bridge, `suro repha` (rope-bridge), a plain noun-noun compound, since the engineering itself is rare enough in this book that a new word isn't warranted. Everything else composes from existing vocabulary.
 
-The Anarchist faction is described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary, and by how its four members differ even from each other (`phirae`) with real intensity (`ru kesu`). Anger is the established compound `korua thero`; waking is `te` (cease) plus sleep, with no separate verb; goodwill arrives through `phena` (kind), already in the lexicon.
+The Anarchist faction is described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary, and by how its four members differ even from each other (`phirae`) with real intensity (`ru kesu`). Anger is the established compound `korua thero`, kept in its own sentence since `kapura` (shout) is intransitive and cannot take it as an object; the damning that follows the shout is `thiku nila` (small-see), the same compound `shame.json` already names for shame inflicted from outside, reused here rather than invented. Waking is `te` (cease) plus sleep, with no separate verb; goodwill arrives through `phena` (kind), already in the lexicon.
 
 The discussion's warmth is `noeli`, held rather than merely stated (`manolu`), and its good temper is qualified rather than simple: `wiso po ma sheluo` (could scarcely listen to each other) states the irony Morris intends, `thona` and `nuawe` (but, together) turning the sentence to the group's real restraint instead. The one voice that rises is not loud from the start: `maeli meilo` (sat quiet) at `shareo thorui` (the discussion's beginning) marks the only contrast in the passage between silence and outburst, turned by `whekai` (however) into `se natu` (was drawn in), passive because it happened to him rather than by his own choice; `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside rather than trading it for a bare pronoun.
 
