@@ -1,0 +1,26 @@
+{
+  "word": "loremi",
+  "gloss": "branch",
+  "ipa": "/lo̞.ˈre̞.mi/",
+  "syllables": [
+    "lo",
+    "re",
+    "mi"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Branch / Tree Limb / The Reach of the Tree",
+  "description": "The limb of a tree: where the trunk divides and reaches outward, holding leaf, blossom, nest, and whatever the sky lets fall into it. 'Loremi' names the part of the tree that moves while the trunk stands still, the reach that catches wind, birds, and the caught moon of a winter night. A branch is the tree's generosity made visible: shade, fruit, and firewood all arrive through it.",
+  "sound_symbolism": "The liquids 'l' and 'r' flow outward the way a bough leaves its trunk, and the vowels trace the limb's own taper: broad 'o' at the bough, mid 'e' along the reach, fine 'i' at the twig's tip. The closing nasal 'm' holds the word to the trunk of its own family, the same nasal that closes 'welamu' (elm) and 'koremu' (bark). 'Loremi' stands between bark and leaf in the tree's word-line: 'koremu' wraps the wood, 'loremi' carries it outward, 'lirowa' opens it to the light.",
+  "grammatical_notes": "Functions as a noun: 'welamu loremi' (the elm's branch), possessor first like every owned thing. Plural with 'lo': 'lo loremi' (the branches). What hangs, hides, or tangles in them takes 'thoa' (among): 'lunei thoa lo loremi nai.' (The moon is among the branches.) 'lepa' (fall) names what leaves them.",
+  "pillars": {
+    "solarpunk-values": "Branches are the canopy: shade for the street, habitat for the birds, the architecture a solar village grows instead of pouring.",
+    "art-nouveau-aesthetics": "The branching line, dividing and curving as it reaches, is the organic form Art Nouveau built its whole grammar on; 'loremi' names that living curve itself.",
+    "pre-industrial-wisdom": "The gathered branch is the hearth's renewable share of the tree, taken without felling; coppice wisdom lives at the branch, not the trunk."
+  },
+  "tags": {
+    "nature": "The tree's reaching limb",
+    "physical": "Living structure that holds and sways"
+  }
+}

@@ -261,7 +261,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (376)
+## noun (377)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -351,6 +351,7 @@
 | `lopha` | vessel | Vessel |
 | `lophae` | storyteller | Storyteller |
 | `lopia` | child | Child |
+| `loremi` | branch | Branch |
 | `lorika` | blood | Blood |
 | `loriphi` | rainbow | Rainbow |
 | `lorui` | afternoon | Afternoon |

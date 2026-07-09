@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*914 words.*
+*915 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -198,6 +198,7 @@
 | `lophae` | storyteller | /lo̞.ˈɸä.e̞/ | noun |
 | `lopia` | child | /lo̞.ˈpi.ä/ | noun |
 | `lorea` | connect | /lo̞.ˈre̞.ä/ | verb |
+| `loremi` | branch | /lo̞.ˈre̞.mi/ | noun |
 | `lori` | vital | /ˈlo̞.ri/ | adjective |
 | `lorika` | blood | /lo̞.ˈri.kä/ | noun |
 | `lorima` | build | /lo̞.ˈri.mä/ | verb |
