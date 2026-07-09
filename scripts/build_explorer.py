@@ -452,7 +452,7 @@ PAMPHLETS = [
     ("three_slots", "The three slots",
      "The whole grammar is thirty-five small words that never change: the frame, the stack, and the word's dress, drilled to reflex — with the interaction tables, the ruled readings, and the evening question where every particle costs what it claims."),
     ("tengwar_mode", "How Phi is written in Tengwar",
-     "A second hand for the same language: the sixteen consonant tengwar, the vowel tehtar that ride above and below them, and the one true invention — a hiatus rule that needs no vowel carrier at all, because Phi's own sound rules never leave it needing one."),
+     "A second hand for the same language: the fifteen consonant tengwar, the vowel tehtar that ride above and below them, and the one true invention — a hiatus rule that needs no vowel carrier at all, because Phi's own sound rules never leave it needing one."),
 ]
 toc = ["<h1>The pamphlets</h1>",
        "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]
