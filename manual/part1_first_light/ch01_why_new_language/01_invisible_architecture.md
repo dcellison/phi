@@ -16,7 +16,7 @@ This feels natural to English speakers, but it's one architecture among thousand
 
 Our inherited structures carry the weight of conquest, empire, and old hierarchies. We inherit the damage along with the utility. Three cracks are worth seeing clearly, because Phi was designed in response to them.
 
-**Possession as default.** English uses one structure for tools, ideas, body parts, land, and, in living memory, people: *my* hammer, *my* idea, *my* hand, *my* land, *my* wife. The grammar frames the world as ownable and the self as owner, and the framing is invisible precisely because it is everywhere. A language could instead make ownership a conscious claim rather than a default, and the difference would show up in how we treat land as much as how we treat each other.
+**Possession as default.** English uses one structure for tools, ideas, body parts, land, and people: *my* hammer, *my* idea, *my* hand, *my* land, *my* wife. The grammar frames the world as ownable and the self as owner, and the framing is invisible precisely because it is everywhere. A language could instead make ownership a conscious claim rather than a default, and the difference would show up in how we treat land as much as how we treat each other.
 
 **Combat as the metaphor for disagreement.** In English we don't discuss; we *defend positions*, *attack claims*, *shoot down* ideas, *win* arguments. The metaphor is so deep it doesn't register as metaphor. It makes the person who disagrees with you an opponent before either of you has said anything substantive.
 

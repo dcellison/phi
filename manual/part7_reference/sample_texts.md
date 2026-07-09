@@ -1,6 +1,6 @@
-# Sample Texts
+# Sample texts
 
-Complete, validated Phi for reading practice, from two-line exchanges to the language's first full text. Every word here exists in the lexicon; every construction is taught in Parts IV–V.
+Complete, validated Phi for reading practice, from two-line exchanges to whole texts. Every word here exists in the lexicon; every construction is taught in Parts IV and V.
 
 ## Dialogues
 
@@ -78,21 +78,31 @@ phialu haoni.
 (The old pond. A creature arrives into the water. The water's voice.)
 ```
 
-## The first story
+## The texts shelf
 
-***nitho howeli nela sorae*** — The North Wind and the Sun: Aesop's
-fable, the text traditionally used to demonstrate the world's languages, as
-Phi's first narrative. Sequenced past-tense scenes, a causative nested
-inside a relative clause inside a `mena…meno` frame, and a three-word
-moral: `moli puro sharoi` — gentleness exceeds strength. Read it in
-`pamphlets/north_wind_and_sun.md`.
+The complete texts live in `pamphlets/`, one file per text. Each carries its Phi with glosses, back-translations, and source citations, and each ends in a gap log: the record of what was built where the lexicon had no word. Two of them are the manual's own touchstones.
 
-## The first complete text
-
-***lothea thole*** — The Practice of Love, a transmutation of the Karaniya Metta Sutta: ten verses with glosses, transmutation notes, and the gap log that shaped several of the language's newest words. Read it in `pamphlets/metta_sutta.md`. Its refrain is the language in one line:
+***lothea thole*** (The Practice of Love) is the Karaniya Metta Sutta, the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
 ```
-su theula rena lima nai towe nai.
-OPT UNIV REL alive be well be.
-(May all that lives be well.)
+su theula [rena lima nai] siora korua phelu.
+OPT UNIV [REL alive be] joy heart hold.
+(May all that lives hold a joyful heart.)
 ```
+
+***nitho howeli nela sorae*** (The North Wind and the Sun) is Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lurekoi thola`, gentleness and kind speech bring fruit.
+
+The rest of the shelf:
+
+| Phi title | Text |
+|---|---|
+| `mophira nela lo kalora` | Schleicher's fable, transmuted from the 1868 German |
+| `ta haoluma` | the Babel story, Genesis 11:1-9, its scattering retold as sowing |
+| `theula miona` | Article 1 of the Universal Declaration of Human Rights |
+| `thiku miona lue silero` | three moments from *The Little Prince*: the request, the secret, the responsibility |
+| `phewo phelui` | from *The Prophet*: on love, on children, on giving |
+| `keiro` | five chapters of the Tao Te Ching |
+| `nulo sano korua` | the Heart Sutra |
+| `naweri` | the Ring Verse, refused: an essay on a text Phi cannot say, and why |
+| `wuloe wetha tupiwa` | *The Velveteen Rabbit*, entire |
+| `nophi lue mawha lokue` | *News from Nowhere*, chapter 1: the opening of a novel-length project |
