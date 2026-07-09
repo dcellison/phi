@@ -14,8 +14,8 @@ friend DAT 1SG REP speak.
 (A friend told this to me, and I report it.)
 morris: "says a friend"
 
-shalimo mua ta shero reshi shareo to ki nai.
-alliance LOC one night fast discuss PST PFV be.
+mua shalimo ta shero reshi shareo to ki nai.
+LOC alliance one night fast discuss PST PFV be.
 (Up at the alliance, one night, there had been a brisk discussion.)
 morris: "Up at the League, says a friend, there had been one night a brisk conversational discussion,"
 
@@ -216,8 +216,8 @@ The wish keeps the words already established for it: `su`, the optative, needing
 ### shero phelora — The beautiful night
 
 ```
-shia luphore kau to thalo.
-3SG river ALL PST walk.
+shia wea luphore to thalo.
+3SG TOWARD river PST walk.
 (He walked toward the river.)
 morris: "He went out of the station, still discontented and unhappy, muttering \"If I could but see it! if I could but see it!\" but had not gone many steps towards the river before all that discontent and trouble seemed to slip off him."
 
@@ -236,8 +236,8 @@ sky clear PST be.
 (The sky was clear.)
 morris: "had blown the sky clear of all cloud save a light fleck or two which went swiftly down the heavens"
 
-lunei limu welamu mua to nai.
-moon young elm LOC PST be.
+lunei limu mua welamu to nai.
+moon young LOC elm PST be.
 (A young moon hung in the elm.)
 morris: "There was a young moon halfway up the sky, and as the home-farer caught sight of it, tangled in the branches of a tall old elm"
 
@@ -252,8 +252,8 @@ morris: "he could scarce bring to his mind the shabby London suburb where he was
 ### luphore — The river
 
 ```
-shia luphore mua lunei to nila.
-3SG river LOC moon PST see.
+shia mua luphore lunei to nila.
+3SG LOC river moon PST see.
 (He watched the moon on the river.)
 morris: "He came right down to the river-side, and lingered a little, looking over the low wall to note the moonlit river, near upon high water, go swirling and glittering up to Chiswick Eyot"
 
@@ -262,8 +262,8 @@ shia suro repha to ma morae.
 (He did not notice the rope-bridge.)
 morris: "as for the ugly bridge below, he did not notice it or think of it, except when for a moment (says our friend) it struck him that he missed the row of lights down stream"
 
-shia womu mua to shua.
-3SG home LOC PST come.
+shia mua womu to shua.
+3SG LOC home PST come.
 (He came inside.)
 morris: "Then he turned to his house door and let himself in"
 
