@@ -1,6 +1,6 @@
 # theula miona — Article 1 of the Universal Declaration of Human Rights
 
-*The most-translated document in human history begins with one article, and that article is the standard sample by which the world's languages are compared. Phi's version required no new vocabulary at all: every concept the article needs, the language already holds. A transmutation, not a translation; the notes record every adaptation.*
+*The most-translated document in human history begins with one article, and that article is the standard sample by which the world's languages are compared. A transmutation, not a translation; the notes record every adaptation. The ground truth is the United Nations 1948 English text, in Wikisource's transcription of the official document, stored verbatim in `pamphlets/sources/`; the excerpt is Article 1 whole, and every unit cites the clause it stands against.*
 
 ---
 
@@ -10,18 +10,22 @@
 theula miona ralu thowia.
 UNIV person free born.
 (All people are born free.)
+udhr: "All human beings are born free"
 
 theula miona kolo rolia phelu.
 UNIV person equal worth hold.
 (All people hold equal worth.)
+udhr: "and equal in dignity and rights."
 
 theula miona remo nela korua sano phelu.
 UNIV person think COORD heart know hold.
 (All people hold thought, and the heart's knowing.)
+udhr: "They are endowed with reason and conscience"
 
 theula miona phea lomea wiso na lothea.
 UNIV person AS sibling RECP NEC love.
 (All people, as siblings, must love one another.)
+udhr: "and should act towards one another in a spirit of brotherhood."
 ```
 
 ## Line by line
