@@ -58,4 +58,4 @@ The stack reads outward-in, like everything in Phi: which one, what kind, who. R
 
 ### Drill: order the story
 
-The velveteen story runs in eight scenes; the journal runs in dated days; the market runs in stalls. Produce, aloud: the fifth scene (`nu ta shao wi nophi`? No, scenes are events, but *scene* here is `nophi`, story; decide and defend), the sixth day, the second trader, the eighth egg, the first storm of the year. Answers and the classifier reasoning in Part 9: the egg and the storm are the instructive two.
+The velveteen story runs in eighteen scenes; the journal runs in dated days; the market runs in stalls. Produce, aloud: the fifth scene (`nu ta shao wi nophi`? No, scenes are events, but *scene* here is `nophi`, story; decide and defend), the sixth day, the second trader, the eighth egg, the first storm of the year. Answers and the classifier reasoning in Part 9: the egg and the storm are the instructive two.

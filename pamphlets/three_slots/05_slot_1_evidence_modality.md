@@ -36,7 +36,7 @@ That second line, from ch15 §4, repays a slow read: aspect then modality, a com
 - `na ma V` means **must not**: the necessity is to refrain.
 - *Need not* (the absence of obligation) is never made by reordering. It is the freedom periphrasis: `thia lila wepu ralu nai.` — you are free as to going. Absence of obligation is stated as presence of freedom, which is not a workaround but a worldview.
 
-The metta text (the Metta companion) is the register lesson for this whole rank: one `na` in the entire text, aimed at the practitioner, and nineteen wishes: necessity spent once, where it was owed, and hope everywhere else. Modals are claims about the world's constraints; Phi's texts spend them the way its counting pamphlet spends exactness: only where they are true and owed.
+The metta text is the register lesson for this whole rank: one `na` in the entire text, aimed at the practitioner, and twenty-three wishes: necessity spent once, where it was owed, and hope everywhere else. Modals are claims about the world's constraints; Phi's texts spend them the way its counting pamphlet spends exactness: only where they are true and owed.
 
 ### Drill: the honest layer
 

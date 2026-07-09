@@ -28,7 +28,7 @@ English tells these apart by a mark at the far end of the sentence; you can be h
 
 ### Pauses are free
 
-No pause can change a Phi sentence's meaning: the words carry every distinction, so the breath carries none. This is why nothing like an ellipsis or a dash exists to write: a pause is the speaker's own, to spend on emphasis, on thought, on the garden being loud, and the page has no business recording it. Recitation style (the texts, the Metta companion) leans on this hard: breathe wherever the practice wants, and nothing breaks.
+No pause can change a Phi sentence's meaning: the words carry every distinction, so the breath carries none. This is why nothing like an ellipsis or a dash exists to write: a pause is the speaker's own, to spend on emphasis, on thought, on the garden being loud, and the page has no business recording it. Recitation style (the texts, the metta above all) leans on this hard: breathe wherever the practice wants, and nothing breaks.
 
 ### Every mode can say a word
 

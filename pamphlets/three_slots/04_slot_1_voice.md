@@ -10,7 +10,7 @@ story PASS create.
 (The story is created.)
 ```
 
-The patient steps into subject position; the agent steps back, sayable in a prepositional phrase or honestly absent. The Metta companion showed `se` doing its subtlest work inside relatives: `[rena se nila]`, the seen; `[rena se ma nila]`, the unseen. These build referents English needs fossilized participles for.
+The patient steps into subject position; the agent steps back, sayable in a prepositional phrase or honestly absent. The metta text shows `se` doing its subtlest work inside relatives: `[rena se nila]`, the seen; `[rena se ma nila]`, the unseen. These build referents English needs fossilized participles for.
 
 ### `ka`: the second author on the record
 
