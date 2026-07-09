@@ -14,7 +14,7 @@ The manual is the teaching path; these are the working documents behind it.
 | `documents/compounds.md` | The canonized compound idioms and why each stays compositional |
 | `documents/modifier_first_philosophy.md` | The organizing principle, argued in full |
 | `documents/psychological_violence_of_measurement.md` | Why the numbers are the way they are |
-| `pamphlets/metta_sutta.md`, `pamphlets/north_wind_and_sun.md` | Transmuted texts, with notes and gap logs |
+| `pamphlets/` | The transmuted texts (the Metta Sutta, the fable, *The Velveteen Rabbit*, and the rest of the shelf), each with notes and a gap log |
 | `manual/part7_reference/` | The one-page grammar and the generated lexicon listings |
 | `scripts/validate_examples.py` | The validator; also `neighbors <word>` before coining |
 | `archive/` | The language's history, preserved and clearly marked as non-canon |
@@ -38,4 +38,4 @@ The manual is the teaching path; these are the working documents behind it.
 
 ## Practicing
 
-There is no substitute for the practices of chapter 25: the morning sentence, the three-line journal, the weekly transmutation. The language's own texts are its best curriculum: read the Metta Sutta aloud until the refrain says itself, then read the fable until scene 3 parses without thinking. When both are easy, you are no longer studying Phi. You are speaking it.
+There is no substitute for the practices of chapter 25: the morning sentence, the three-line journal, the weekly transmutation. The language's own texts are its best curriculum: read the Metta Sutta aloud until the refrain says itself, then read the fable until the wager scene parses without thinking. When both are easy, you are no longer studying Phi. You are speaking it.

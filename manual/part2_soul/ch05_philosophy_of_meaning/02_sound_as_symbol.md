@@ -16,4 +16,4 @@ Say *remo* (think) and feel the rolling `r`: thought as continuous inner motion.
 
 The correspondence pays a practical dividend: unfamiliar words often half-introduce themselves. Meet *shorui* (weary) or *siora* (joy) cold, and the sounds lean toward their meanings before the gloss confirms them. It pays a poetic one too: in Phi, a word's music is part of its definition, which is why every entry in the lexicon carries a `sound_symbolism` field explaining exactly this.
 
-Not every word fits the pattern perfectly; a lexicon of eight hundred words coined across years has its mavericks, and audits have caught and revised the worst of them. The claim is not perfection. The claim is intent: in this language, when sound and meaning agree, it is because someone listened before they coined.
+Not every word fits the pattern perfectly; a lexicon of nine hundred words coined across years has its mavericks. The claim is not perfection. The claim is intent: in this language, when sound and meaning agree, it is because someone listened before they coined.

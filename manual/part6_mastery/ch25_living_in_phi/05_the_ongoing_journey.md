@@ -10,7 +10,7 @@ The old teachers of this manual's first pages said the constraints are the teach
 
 ## The language will keep growing
 
-You hold the manual of a young language. Its lexicon passed eight hundred words in the season this chapter was written; its first complete text is newer still. Gaps remain, and you will find them: in your journal margins, mid-conversation, in the poem that will not transmute. Meet them in order: first the compound registry, then composition, and only then, deliberately and by the protocol, a new word. Every speaker who does this honestly is one of the language's makers. There is no other kind of authority here.
+You hold the manual of a young language. Its lexicon passed nine hundred words in the season this chapter was written; its first complete text is newer still. Gaps remain, and you will find them: in your journal margins, mid-conversation, in the poem that will not transmute. Meet them in order: first the compound registry, then composition, and only then, deliberately and by the protocol, a new word. Every speaker who does this honestly is one of the language's makers. There is no other kind of authority here.
 
 ## The journey in the language's own words
 

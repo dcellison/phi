@@ -108,6 +108,12 @@ manual as it exists; update it whenever chapters change.*
 4. The Classifier System (himo, lipha, themo, nophe)
 5. Descriptors and Quantifiers
 6. Expressing Possession: Possessor Before Possessed
+7. The Words of Color
+8. The Words of Place
+9. The Words of the Body
+10. The Words of the Heart
+11. The Words of the Arts
+12. The Words of the Exchange
 
 ### Chapter 14: Pronouns and Reference
 1. The Core Pronouns (mia, thia, shia)
@@ -123,6 +129,8 @@ manual as it exists; update it whenever chapters change.*
 4. Aspect: The Texture of Time (si, ki, pa, te, ro)
 5. Combining Tense and Aspect
 6. Event Nouns: Every Verb Is Also Its Noun
+7. The Words of Time
+8. The Turning of a Life
 
 ### Chapter 16: Voice and Possibility
 1. The Passive 'se'
@@ -155,7 +163,7 @@ manual as it exists; update it whenever chapters change.*
 1. Introduction: Guiding the Listener
 2. Consequence and Contrast (thelao, whekai)
 3. Addition and Example (sheno, phisu)
-4. Other Discourse Markers
+4. Precision: Rephrasing, Specifying, and Summarizing
 
 ### Chapter 20: Subordinate Clauses
 1. Introduction: Sentences Within Sentences
@@ -175,10 +183,6 @@ manual as it exists; update it whenever chapters change.*
 3. Approximation: The Honest Quantities
 4. Position and Kind
 5. Conscious Calculation
-
-*(Chapter 22 was long a gap — first a retired nominalization chapter,
-then nothing. It became the numbers chapter in July 2026, when the old
-narrative grammar's numerals material was dissolved into the manual.)*
 
 ---
 
@@ -215,12 +219,11 @@ narrative grammar's numerals material was dissolved into the manual.)*
 - Quick Reference Grammar: the whole system on one page
 - The Complete Lexicon: alphabetical, by domain, by part of speech
   (generated from the vocabulary JSON; never edited by hand)
-- Sample Texts: dialogues, the Bashō transmutation, and the two
-  complete texts, *lothea thole* (the Metta Sutta) and
-  *nitho howeli nela sorae* (The North Wind and the Sun)
-- The writing system section is omitted: the glyph proposal in
-  `documents/writing-system/` has not been developed. Phi is written
-  in its romanization.
+- Sample Texts: dialogues, the Bashō transmutation, and the guide
+  to the complete texts on the shelf in `pamphlets/`
+- There is no writing system section: Phi is written in its
+  romanization, and the Tengwar adaptation is taught in the
+  `tengwar_mode` pamphlet.
 
 ---
 

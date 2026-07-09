@@ -20,11 +20,11 @@ If the first wave of constructed languages pursued peace, the next pursued logic
 
 The most prominent are Loglan and its successor, Lojban. Their creators built communication tools based entirely on predicate logic. The goal was grammar so precise and syntax so unambiguous that a machine could parse it as easily as a human.
 
-In Lojban, there's no poetic ambiguity, no metaphorical nuance. Every statement has exactly one interpretation. This makes it difficult to speak conversationally, which is sort of the point. It's an attempt to build a tool for perfectly clear reasoning, pushing the edges of what language can do.
+In Lojban, no sentence can be parsed two ways: the grammar engineers out the ambiguity that poetry lives on, and what remains states its structure exactly. This makes it difficult to speak conversationally, which is sort of the point. It's an attempt to build a tool for perfectly clear reasoning, pushing the edges of what language can do.
 
 ### The dream of simplicity: Toki Pona
 
-A more recent branch comes from minimalism. If Lojban pursues maximum logical complexity, Sonja Lang's Toki Pona pursues the opposite: maximum meaning from minimum elements.
+A more recent branch comes from minimalism. Where Lojban adds machinery until nothing is ambiguous, Sonja Lang's Toki Pona subtracts: maximum meaning from minimum elements.
 
 Toki Pona has about 120 words. No complex tenses, no subordinate clauses, extremely simple sounds. This constraint is the point. With only a handful of building blocks, the language forces mindfulness. You can't retrieve a pre-packaged word for a complex idea; you have to build it from scratch, in the moment.
 
@@ -36,4 +36,4 @@ These projects, Esperanto, Lojban, Toki Pona, and others, are laboratories for t
 
 Phi inherits from this whole tradition, but it has its own purpose. It doesn't aim to be a universal second language; it wants to enrich, not replace. Machine-like logical precision isn't the goal either; warmth and human connection matter more. And while it values simplicity, it doesn't go as minimal as Toki Pona: it wants vocabulary for discussing inner life and how to build a better world.
 
-Phi is the next experiment in the line: where Esperanto asked whether a language could carry peace between nations, and Toki Pona asked how little a language needs, Phi asks whether a language can be a mindfulness practice: whether the values can live in the grammar itself. The rest of this book is the experiment's apparatus. You are its next trial.
+Phi is the next experiment in the line. Esperanto asked whether a language could carry peace between nations; Toki Pona asked how little a language needs. Phi asks whether a language can be a mindfulness practice, whether the values can live in the grammar itself. The rest of this book is the experiment's apparatus. You are its next trial.
