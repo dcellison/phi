@@ -261,7 +261,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (377)
+## noun (378)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -512,6 +512,7 @@
 | `rolutha` | wagon | Wagon |
 | `ronua` | south | South |
 | `ruela` | path | Path |
+| `ruelami` | adventure | Adventure |
 | `runae` | resin | Resin |
 | `sena` | pattern | Pattern |
 | `shalimo` | alliance | Alliance |
