@@ -148,7 +148,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (132)
+## cognition (133)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -273,6 +273,7 @@
 | `thuni` | intuitive | Direct knowing |
 | `tiso` | sharp | Keen perception |
 | `waeli` | conscious | Awareness state |
+| `wakomi` | surprise | The mind caught open |
 | `welura` | spread | Mathematical operation requiring deliberate mental processing |
 | `weni` | imagine | Creative mental image formation |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
@@ -692,7 +693,7 @@
 | `whaline` | thank | Verbal expression of gratitude |
 | `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
-## emotion (105)
+## emotion (106)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -792,6 +793,7 @@
 | `thurai` | vibrant | Energized state |
 | `towe` | well | Wellness |
 | `tumoa` | heavy | Burdened |
+| `wakomi` | surprise | The felt jolt of the unexpected |
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
 | `wesha` | lazy | Unwilling to work |
