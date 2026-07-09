@@ -16,7 +16,7 @@ vocabulary change:
 python3 scripts/generate_reference.py
 ```
 
-There is no writing-system section: Phi is written in its
-romanization, and its Tengwar adaptation is taught glyph by glyph in
-`pamphlets/tengwar_mode/`; the site renders every Phi line in both
-scripts. A native script does not yet exist.
+How Phi is written is chapter 8 §6: the romanization, the Tengwar
+mode, and the reserved glyph mode. The Tengwar mode is taught glyph
+by glyph in `pamphlets/tengwar_mode/`, whose pages render every
+line in both scripts.

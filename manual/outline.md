@@ -74,6 +74,7 @@ manual as it exists; update it whenever chapters change.*
 3. The Rhythm of Penultimate Stress
 4. Common Pronunciation Pitfalls
 5. Exercises: Hearing and Speaking Phi
+6. Writing Phi Down
 
 ---
 
@@ -217,9 +218,9 @@ manual as it exists; update it whenever chapters change.*
   (generated from the vocabulary JSON; never edited by hand)
 - Sample Texts: dialogues, the Bashō transmutation, and the guide
   to the complete texts on the shelf in `pamphlets/`
-- There is no writing system section: Phi is written in its
-  romanization, and the Tengwar adaptation is taught in the
-  `tengwar_mode` pamphlet.
+- Writing is taught in chapter 8 §6: the romanization, the Tengwar
+  mode, and the reserved glyph mode. The Tengwar mode in full is
+  the `tengwar_mode` pamphlet.
 
 ---
 
