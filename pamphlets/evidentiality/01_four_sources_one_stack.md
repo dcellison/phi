@@ -1,6 +1,6 @@
 # Part 1: Four sources, one stack
 
-The doctrine lives in manual ch17; here is the working set, once, and then we practice.
+The doctrine lives in manual ch16; here is the working set, once, and then we practice.
 
 | Particle | Gloss | The claim it makes |
 |---|---|---|

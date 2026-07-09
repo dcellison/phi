@@ -1,6 +1,6 @@
 # Part 3: Signs (`ke`)
 
-`ke` marks the claim your reasoning reached from evidence your senses gathered. It is the working evidential of daily life, because most of what anyone "knows" arrived exactly this way: through traces, patterns, and absences. The manual (ch17) owns the definition; the skill here is the *two-sentence habit*.
+`ke` marks the claim your reasoning reached from evidence your senses gathered. It is the working evidential of daily life, because most of what anyone "knows" arrived exactly this way: through traces, patterns, and absences. The manual (ch16) owns the definition; the skill here is the *two-sentence habit*.
 
 ### The two-sentence habit
 

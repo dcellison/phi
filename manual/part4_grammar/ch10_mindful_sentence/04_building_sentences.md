@@ -12,7 +12,7 @@ Without any other instruction, order assigns the roles. First noun phrase: the d
 
 For everything beyond the default, Phi uses particles: small, invariant words with no meaning of their own (you cannot point at a *no* or a *se*) whose job is to stand before another word and label its function.
 
-Their shape is part of the design. Every particle is exactly one consonant plus one vowel, and no content word is that short. A listener sorting the speech stream can tell signpost from cargo instantly, by size alone. (Chapter 11 catalogs the full inventory; here we need only two.)
+Their shape is part of the design. Every particle is exactly one consonant plus one vowel, and no content word is that short. A listener sorting the speech stream can tell signpost from cargo instantly, by size alone. (Chapter 9 catalogs the full inventory; here we need only two.)
 
 ## Reversing the flow: *se*
 

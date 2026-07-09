@@ -4,7 +4,7 @@ English's busiest mark is the comma between clauses: after the if-clause, before
 
 ### Announcers in front
 
-Dependent clauses are declared before they begin: `lu` for conditions (Slot 0), and the subordinators `pheo`, `phoe`, `lao`, `shai`, `lila` for time, cause, concession, and purpose (manual ch20 §4). Where English tucks a comma after the fronted clause, Phi has already told you everything:
+Dependent clauses are declared before they begin: `lu` for conditions (Slot 0), and the subordinators `pheo`, `phoe`, `lao`, `shai`, `lila` for time, cause, concession, and purpose (manual ch19 §4). Where English tucks a comma after the fronted clause, Phi has already told you everything:
 
 ```
 pheo mia to theo mia shea phaelo.
@@ -32,7 +32,7 @@ Canon makes the closers required, and the complementizers pamphlet drills them t
 
 ### Conjunctions between
 
-Coordination needs no comma because the conjunction is the boundary (manual ch18): the first clause's verb arrives, the door closes, and `nela`, `thona`, or `sola` announces another clause is coming.
+Coordination needs no comma because the conjunction is the boundary (manual ch17): the first clause's verb arrives, the door closes, and `nela`, `thona`, or `sola` announces another clause is coming.
 
 ```
 sorae sulae nai nela howeli phaelu nai.

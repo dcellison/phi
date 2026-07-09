@@ -76,7 +76,7 @@ Before any exact number: *would exactness change what anyone does?* and *is the 
 
 ### Cross-references
 
-- Doctrine: the manual, Part V ch22 (foundation, building, approximation, position and kind, conscious calculation); `documents/grammar/numeral_reference.md` for the full inventory.
+- Doctrine: the manual, Part IV ch12 (foundation, building, approximation, position and kind, conscious calculation); `documents/grammar/numeral_reference.md` for the full inventory.
 - The classifier ruling and the nature-now rule: `canon.md`, Classifiers.
 - The philosophy of not counting: `documents/psychological_violence_of_measurement.md`.
-- The scenes this pamphlet drills: primer ch15, *ta wi shao*, market day; ch24's `lau`-counted news; the journal dates of manual ch25.
+- The scenes this pamphlet drills: primer ch15, *ta wi shao*, market day; ch24's `lau`-counted news; the journal dates of manual ch23.

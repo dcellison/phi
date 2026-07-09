@@ -68,7 +68,7 @@ B: su shea wei thia shua.
 
 ## A philosophical passage
 
-From the transmutation case studies (chapter 24), Bashō's frog haiku:
+From the transmutation case studies (chapter 22), Bashō's frog haiku:
 
 ```
 serao melothe.

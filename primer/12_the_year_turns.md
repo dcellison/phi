@@ -74,4 +74,4 @@
 
 *Part II is complete. You can set any sentence into the past or the future, hold it open, close it, begin it, make it a habit, and date a journal page in a language you could not read a week ago. The book's standing request: keep the journal. Three fragments a day, dated* ha philo. *It is the oldest Phi practice there is.*
 
-*The machinery, when you want it: the time compounds live in the manual's Part IV, chapter 15 and the compound registry; the journal practice is chapter 25's.*
+*The machinery, when you want it: the time compounds live in the manual's Part IV, chapter 14 and the compound registry; the journal practice is chapter 23's.*

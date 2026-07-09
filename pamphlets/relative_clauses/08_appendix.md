@@ -154,12 +154,12 @@ lothea shelomui phue nai
 
 ## Cross-reference to main manual
 
-This pamphlet expands on **Chapter 21: Relative Clauses** in the Phi manual.
+This pamphlet expands on **Chapter 20: Relative Clauses** in the Phi manual.
 
 Related chapters:
-- **Chapter 11: The Particle System**, how particles work in relative clauses
-- **Chapter 14: Pronouns**, topic-drop and when subjects can be omitted
-- **Chapter 20: Subordinate Clauses**, complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
+- **Chapter 9: The Particle System**, how particles work in relative clauses
+- **Chapter 13: Pronouns**, topic-drop and when subjects can be omitted
+- **Chapter 19: Subordinate Clauses**, complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
 
 Related grammar documents:
 - `complementizer_reference.md`, full reference for all complementizers including `rena`
@@ -170,7 +170,7 @@ Related grammar documents:
 
 After completing this pamphlet:
 
-1. Re-read Chapter 21 in the main manual
+1. Re-read Chapter 20 in the main manual
 2. Find relative clauses in the example texts throughout the manual
 3. Practice translating simple English relative clauses daily
 4. Try writing a journal entry in Phi using relative clauses

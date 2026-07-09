@@ -1,6 +1,6 @@
 # Sound as practice
 
-Before a word has meaning, it is a shape made by the mouth. Most languages inherit those shapes from history (mergers, shifts, conquests), and the connection between a sound and its job is accident all the way down. Phi did not inherit its sounds. It chose them, and this chapter is about what the choosing was for.
+Before a word has meaning, it is a shape made by the mouth. Most languages inherit those shapes from history (mergers, shifts, conquests), and the connection between a sound and its job is accident all the way down. Phi did not inherit its sounds. It chose them, and this section is about what the choosing was for.
 
 The short version: in Phi, phonetics is applied philosophy. Say *thesua* (mindful) and notice what your body just did. The `th` is pure breath, unvoiced, unhurried; the hiatus in `u.a` forced a beat of patience between the vowels; nothing in the word could be barked. The word for mindfulness requires a small act of mindfulness to say. That is not a coincidence. It is the design, and it runs through the whole sound system.
 

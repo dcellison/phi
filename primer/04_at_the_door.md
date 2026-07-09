@@ -60,4 +60,4 @@
 
 *Read the whole visit aloud once more, both voices, and take the pauses seriously; a Phi conversation is not a race. You can now state, describe, count-by-many, ask, answer, greet, and take your leave. That is most of what neighbors do.*
 
-*The machinery, when you want it: questions with* wa *live in the manual's Part IV, chapter 11, with the other framing particles.*
+*The machinery, when you want it: questions with* wa *live in the manual's Part IV, chapter 9, with the other framing particles.*

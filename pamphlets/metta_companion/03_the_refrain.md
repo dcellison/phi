@@ -10,7 +10,7 @@ OPT UNIV [REL alive be] well be.
 
 ### Reading it apart
 
-`rena` opens a describing clause; `lima nai` is that clause, *is alive*; and where a noun would normally arrive to close the frame (`[rena lima nai] miona`, the person who is alive) nothing does. The clause stands headless, a description with no noun under it, and `theula` quantifies it whole: *all [that is alive]*. The doctrine is manual ch21 and the relative clauses pamphlet, part 4; the reading skill is hearing `rena` open a door and knowing the noun may never come, because the description itself is the referent.
+`rena` opens a describing clause; `lima nai` is that clause, *is alive*; and where a noun would normally arrive to close the frame (`[rena lima nai] miona`, the person who is alive) nothing does. The clause stands headless, a description with no noun under it, and `theula` quantifies it whole: *all [that is alive]*. The doctrine is manual ch20 and the relative clauses pamphlet, part 4; the reading skill is hearing `rena` open a door and knowing the noun may never come, because the description itself is the referent.
 
 One honesty about the square brackets: they are scaffolding, printed by the text as a reading aid, and they are not Phi punctuation: nothing marks the clause edges in speech except `rena` at one end and whatever arrives, or does not, at the other. When you recite, the brackets are silent; when you are fluent, they are gone.
 
@@ -24,7 +24,7 @@ The text builds its whole cast of referents this way, and verse by verse you wil
 (The seen or the unseen.)
 ```
 
-`se` is the passive (manual ch16 §1), and inside a relative it flips who the clause is about: `[rena nila]` would head toward *the one who sees*; `[rena se nila]` is *that which is seen*. The unseen (`se ma nila`) is a thing English needs a fossilized participle for, and Phi builds live from three particles.
+`se` is the passive (manual ch15 §1), and inside a relative it flips who the clause is about: `[rena nila]` would head toward *the one who sees*; `[rena se nila]` is *that which is seen*. The unseen (`se ma nila`) is a thing English needs a fossilized participle for, and Phi builds live from three particles.
 
 ```
 [rena wea lioru shua]

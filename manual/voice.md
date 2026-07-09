@@ -3,8 +3,8 @@
 A style guide for writing and revising the Phi manual. The manual and
 the vocabulary are the two most important artifacts of this project;
 the vocabulary has a validator, and this document is the manual's
-equivalent. Exemplars of the target voice: chapter 24 (transmutation),
-chapter 23 (social context), chapter 25 (living in Phi), and
+equivalent. Exemplars of the target voice: chapter 22 (transmutation),
+chapter 21 (social context), chapter 23 (living in Phi), and
 appendix B.
 
 ## The stance

@@ -1,6 +1,6 @@
 # Part 3: The quotation marks: `shola … sholo`
 
-English quotation marks are silent twins that readers must pair by eye, and speech drops them entirely: "quote unquote" is the sound of a language noticing the hole. Phi's quotation marks are the pair `shola … sholo` (manual ch20 §3; the complementizers pamphlet for the whole complementizer family): the opener says *exact words begin*, the closer says *exact words end*, and both survive every medium a sentence can travel.
+English quotation marks are silent twins that readers must pair by eye, and speech drops them entirely: "quote unquote" is the sound of a language noticing the hole. Phi's quotation marks are the pair `shola … sholo` (manual ch19 §3; the complementizers pamphlet for the whole complementizer family): the opener says *exact words begin*, the closer says *exact words end*, and both survive every medium a sentence can travel.
 
 ```
 ne thinoe shola no wei muila thinoe loa. no wei muila phialu loa. muila theula howela sholo to haolu.

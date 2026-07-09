@@ -105,7 +105,7 @@ The voice rank's two particles combine only as *se ka*, the passive of a causati
 
 ## Evidentiality
 
-Evidentiality particles mark how the speaker knows what they're claiming. They make epistemic accountability explicit. These particles are detailed in Chapter 17, but here is a summary:
+Evidentiality particles mark how the speaker knows what they're claiming. They make epistemic accountability explicit. These particles are detailed in Chapter 16, but here is a summary:
 
 ### hi: Direct evidence
 

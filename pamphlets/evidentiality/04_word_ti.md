@@ -1,6 +1,6 @@
 # Part 4: Word (`ti`)
 
-`ti` marks knowledge that reached you through another person. It is the evidential of community (nothing a household knows stays first-hand for long) and the one with the most working parts, because passing knowledge along is a chain, and chains have joints. The doctrine is the manual's (ch17, and ch20 for reported speech); the joints are practiced here.
+`ti` marks knowledge that reached you through another person. It is the evidential of community (nothing a household knows stays first-hand for long) and the one with the most working parts, because passing knowledge along is a chain, and chains have joints. The doctrine is the manual's (ch16, and ch19 for reported speech); the joints are practiced here.
 
 ### The plain relay
 
@@ -42,7 +42,7 @@ mia ti mena shia so wepu meno shemui.
 (I am told that they said they would go.)
 ```
 
-Read it from the outside in: I pass along (`ti`) a report (`mena…meno`) of a departure that was future at the time of its telling (`so`, relative to the saying, per ch20's tense rule). Every remove from the event is visible on the page. Phi cannot stop a rumor, but it refuses to let a rumor dress as testimony.
+Read it from the outside in: I pass along (`ti`) a report (`mena…meno`) of a departure that was future at the time of its telling (`so`, relative to the saying, per ch19's tense rule). Every remove from the event is visible on the page. Phi cannot stop a rumor, but it refuses to let a rumor dress as testimony.
 
 ### The chain in practice
 

@@ -68,7 +68,7 @@ Thirty-five particles: the whole grammar, one page.
 
 ### Cross-references
 
-- Doctrine: manual ch11 (the backbone, all six sections); ch15 (tense and aspect); ch16 (voice, possibility, negation); ch17 (evidentiality); `documents/grammar/particle_reference.md` (the full inventory with examples).
+- Doctrine: manual ch9 (the backbone, all six sections); ch14 (tense and aspect); ch15 (voice, possibility, negation); ch16 (evidentiality); `documents/grammar/particle_reference.md` (the full inventory with examples).
 - Canon: the seven particle rulings (unmarked-claims-no-source, the `si`/`ro` carve, compositional `ki`, one per rank, `ka` is voice, the `li` fence, Slot 2 nests), plus the Slot 1 order and modal negation rulings they complete.
 - Sibling pamphlets: 3 (evidentiality, whole); 5 (`ne` and the honorifics); 6 (`su` at text scale); 7 (`wa`, `kona`, and the marks that are words).
 - The enforcement: `scripts/validate_examples.py` checks order and one-per-rank mechanically, corpus-wide, since the July audit.

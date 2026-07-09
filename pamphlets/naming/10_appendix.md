@@ -58,7 +58,7 @@
 
 ### Cross-references
 
-- Doctrine: the manual, ch11 §5 (Slot 2: `ne` and the honorifics); ch23 §§1–5 (the vocative, politeness, the honorific system, register, the field guide); ch12 §5 (questions, for `hina`).
+- Doctrine: the manual, ch9 §5 (Slot 2: `ne` and the honorifics); ch21 §§1–5 (the vocative, politeness, the honorific system, register, the field guide); ch10 §5 (questions, for `hina`).
 - Canon: *Names are made of Phi*; *Letters*; *Punctuation*, the three rulings this pamphlet practices.
-- The corpus this pamphlet reads: primer chapters 13, 16, 17, 18, 21, and 22; manual ch19 §4 and ch20 §§2–3; the texts shelf, where the cast's words go on working unannounced.
+- The corpus this pamphlet reads: primer chapters 13, 16, 17, 18, 21, and 22; manual ch18 §4 and ch19 §§2–3; the texts shelf, where the cast's words go on working unannounced.
 - The particle inventory: `documents/grammar/particle_reference.md`.

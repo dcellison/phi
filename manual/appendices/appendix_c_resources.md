@@ -30,7 +30,7 @@ The manual is the teaching path; these are the working documents behind it.
 ## The philosophical roots
 
 - **Metta Sutta** (Sutta Nipāta 1.8) — many translations freely available; compare any of them with *lothea thole*.
-- **Nonviolent Communication** (Marshall Rosenberg) — the observation-feeling-request structure that Phi's grammar produces naturally (see chapter 24's anger case study).
+- **Nonviolent Communication** (Marshall Rosenberg) — the observation-feeling-request structure that Phi's grammar produces naturally (see chapter 22's anger case study).
 - **Natural Semantic Metalanguage** (Wierzbicka & Goddard) — the semantic-primes research that shaped Phi's early vocabulary planning.
 - On peace linguistics: the field founded around Francisco Gomes de Matos's work on communicative peace.
 - On sufficiency and scale: E.F. Schumacher's *Small Is Beautiful*; on the critique of quantification, the literature on Goodhart's law and audit culture pairs well with `psychological_violence_of_measurement.md`.
@@ -38,4 +38,4 @@ The manual is the teaching path; these are the working documents behind it.
 
 ## Practicing
 
-There is no substitute for the practices of chapter 25: the morning sentence, the three-line journal, the weekly transmutation. The language's own texts are its best curriculum: read the Metta Sutta aloud until the refrain says itself, then read the fable until the wager scene parses without thinking. When both are easy, you are no longer studying Phi. You are speaking it.
+There is no substitute for the practices of chapter 23: the morning sentence, the three-line journal, the weekly transmutation. The language's own texts are its best curriculum: read the Metta Sutta aloud until the refrain says itself, then read the fable until the wager scene parses without thinking. When both are easy, you are no longer studying Phi. You are speaking it.

@@ -20,7 +20,7 @@ child sleep.              1SG child CAUS sleep.
 (The child sleeps.)       (I make the child sleep.)
 ```
 
-The causer takes the subject seat; the original actor becomes the object; and the influence itself (instruction, persuasion, an invitation, a book left where it would be found) goes on the record. ch16 §2 owns the doctrine and its ethics: if you were the cause, saying so costs one syllable, and not saying so is a choice you made.
+The causer takes the subject seat; the original actor becomes the object; and the influence itself (instruction, persuasion, an invitation, a book left where it would be found) goes on the record. ch15 §2 owns the doctrine and its ethics: if you were the cause, saying so costs one syllable, and not saying so is a choice you made.
 
 ### The compositions the ruling opened
 

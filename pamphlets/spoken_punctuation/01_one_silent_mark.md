@@ -4,11 +4,11 @@ The ruling stands on one principle: a silent mark is justified only where no wor
 
 | English writes | Phi says | The doctrine lives |
 |---|---|---|
-| ? | `wa`, or the question's own gap-word | ch12 §5 · Part 2 |
-| " … " | `shola … sholo`, both audible | ch20 §3 · Part 3 |
-| the comma of address | `kona` | ch23 §1 · Part 4 |
+| ? | `wa`, or the question's own gap-word | ch10 §5 · Part 2 |
+| " … " | `shola … sholo`, both audible | ch19 §3 · Part 3 |
+| the comma of address | `kona` | ch21 §1 · Part 4 |
 | the capital of a name | `ne` | the naming pamphlet · Part 4 |
-| the clause comma | the announcers in front, the closers behind | ch18, ch20 · Part 5 |
+| the clause comma | the announcers in front, the closers behind | ch17, ch19 · Part 5 |
 | ! | the word itself: `ru`, the interjections, `su` | Part 6 |
 | . | the period (kept) | the one silent mark |
 

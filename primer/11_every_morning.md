@@ -54,4 +54,4 @@
 
 *All five aspects are yours:* si *ongoing,* ki *complete,* te *ceasing,* pa *beginning,* ro *habitual. Phi tells time less by clocks than by these: where in its life a doing stands, and whether it comes back each morning.*
 
-*The machinery, when you want it: the manual's Part IV, chapter 15 holds the whole aspect system.*
+*The machinery, when you want it: the manual's Part IV, chapter 14 holds the whole aspect system.*

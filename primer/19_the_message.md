@@ -53,4 +53,4 @@
 
 *You can now put a sentence inside a sentence, which is where language stops being a list of events and becomes a picture of minds. Read the chapter's longest line once more and feel the closer click shut like a well-made box.*
 
-*The machinery, when you want it: complement clauses are the manual's Part V, chapter 20.*
+*The machinery, when you want it: complement clauses are the manual's Part V, chapter 19.*

@@ -71,4 +71,4 @@
 
 *Part I is complete. Read all six chapters again in one slow sitting; it will take you twenty minutes, and this time none of it will resist you. You can say what things are and do, make them many, describe them, ask and answer, greet and part, say whose and where, and hand a flower from one person to another with the grammar announcing every step. That is a life, in miniature. Part II adds time to it.*
 
-*The machinery, when you want it: the prepositions live in the manual's Part IV; giving-sentences with* wei *appear in chapter 23's social patterns.*
+*The machinery, when you want it: the prepositions live in the manual's Part IV; giving-sentences with* wei *appear in chapter 21's social patterns.*

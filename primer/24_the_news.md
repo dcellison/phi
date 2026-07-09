@@ -57,4 +57,4 @@
 
 *The grammar of this book is complete. You can say what is and is not, when and whether and why, whose and where and to-where, what you feel, what was said, what you would wish, and, now, how you know any of it. One thing remains, and it is not a lesson.*
 
-*The machinery, when you want it: evidentiality has the manual's Part IV, chapter 17 entirely to itself.*
+*The machinery, when you want it: evidentiality has the manual's Part IV, chapter 16 entirely to itself.*

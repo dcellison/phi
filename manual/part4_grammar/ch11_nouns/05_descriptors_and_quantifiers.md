@@ -122,7 +122,7 @@ However, this order is flexible. Speakers adjust based on what they want to emph
 
 Two regularities complete the descriptor system, and neither needs new machinery.
 
-Every adjective names its quality when it stands where a noun stands: `thua` is fair, and fairness; `wesoma` is mutual, and mutuality; `siloma` is simple, and simplicity. This is the quality-noun rule, the mirror of chapter 15's event-noun rule, and like that rule it is grammar-wide: no adjective carries a second dictionary listing for its quality, because every adjective licenses one.
+Every adjective names its quality when it stands where a noun stands: `thua` is fair, and fairness; `wesoma` is mutual, and mutuality; `siloma` is simple, and simplicity. This is the quality-noun rule, the mirror of chapter 14's event-noun rule, and like that rule it is grammar-wide: no adjective carries a second dictionary listing for its quality, because every adjective licenses one.
 
 And every noun describes when it stands where a descriptor stands. This chapter's possession (`sila nophi`, the community's story) is one reading of that position; kind, direction, and association are others: `nitho ruela` (the north path), `wheo kowela` (the elder council), `pukea ruela` (a dangerous path). Meaning chooses among the readings, as it does throughout the noun phrase. A thing needs no adjective listing to describe; standing before the noun is enough.
 

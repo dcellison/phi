@@ -1,6 +1,6 @@
 # Part 1: A name is a word
 
-The doctrine lives in manual ch11 §5 and ch23, and canon settles it in one sentence: a person's name is a lexicon word borne as a name, announced by `ne`. Phi has no separate stock of name-syllables, no register of sounds reserved for people. Someone is walking around being warmth. Someone is being seed. Here is the recurring cast of the manual and the primer, and the words they carry:
+The doctrine lives in manual ch9 §5 and ch21, and canon settles it in one sentence: a person's name is a lexicon word borne as a name, announced by `ne`. Phi has no separate stock of name-syllables, no register of sounds reserved for people. Someone is walking around being warmth. Someone is being seed. Here is the recurring cast of the manual and the primer, and the words they carry:
 
 | Name | The word it is | Who carries it |
 |---|---|---|

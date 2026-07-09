@@ -27,7 +27,7 @@ Where *po* opens a door, **na** points at the one door there is. It marks what m
 > PL 1SG NEC help
 > "We must help"
 
-Notice what the inferential uses share with the evidential `ke` (Part IV, chapter 17): both admit the speaker is reasoning, not witnessing. `na` claims the reasoning is airtight; `ke` claims only that it happened. A careful speaker keeps the two apart, and listeners learn quickly which kind of speaker they are dealing with.
+Notice what the inferential uses share with the evidential `ke` (Part IV, chapter 16): both admit the speaker is reasoning, not witnessing. `na` claims the reasoning is airtight; `ke` claims only that it happened. A careful speaker keeps the two apart, and listeners learn quickly which kind of speaker they are dealing with.
 
 ## With tense and aspect
 

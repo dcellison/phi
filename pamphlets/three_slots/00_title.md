@@ -2,7 +2,7 @@
 
 ## A practice companion to the manual
 
-Phi's entire grammar is thirty-five small words that never change shape. Six frame the sentence, sixteen shape the verb, thirteen refine single words. Every one of them stands before what it affects, announcing its work in advance. The doctrine belongs to manual ch11, the backbone chapter, with ch15–17 owning the deep corners and the canon rulings settling the last open joints: one particle per rank, the causative seated with the voice particles, the restrictive fenced, the Slot 2 stack ordered. This pamphlet is the whole machine, drilled: the first place all of it stands together.
+Phi's entire grammar is thirty-five small words that never change shape. Six frame the sentence, sixteen shape the verb, thirteen refine single words. Every one of them stands before what it affects, announcing its work in advance. The doctrine belongs to manual ch9, the backbone chapter, with ch14–16 owning the deep corners and the canon rulings settling the last open joints: one particle per rank, the causative seated with the voice particles, the restrictive fenced, the Slot 2 stack ordered. This pamphlet is the whole machine, drilled: the first place all of it stands together.
 
 Two skills interleave throughout, as ever. The first is mechanical: sorting particles by slot at hearing speed, building and reading stacks without thought, placing every piece where the fixed orders put it. The second is the one Phi actually cares about: hearing what each added particle *costs* (the claim it makes, the accountability it takes on) until a fully dressed sentence reads not as complexity but as care, taken out loud, one syllable at a time.
 
@@ -15,7 +15,7 @@ By the end of this pamphlet, you will:
 - Nest a Slot 2 stack by the cline, and hear it as modifier-first one level down
 - Read the interaction tables: what combines, what one-per-rank refuses, and which cells the corpus has honestly never needed
 
-This pamphlet assumes the primer or manual Part I–III. It is a companion to ch11 above all, with ch15 (tense and aspect), ch16 (voice and possibility), ch17 (evidentiality), and the particle reference behind it, and the evidentiality, naming, and punctuation pamphlets as its siblings on single slots' territories.
+This pamphlet assumes the primer or manual Part I–III. It is a companion to ch9 above all, with ch14 (tense and aspect), ch15 (voice and possibility), ch16 (evidentiality), and the particle reference behind it, and the evidentiality, naming, and punctuation pamphlets as its siblings on single slots' territories.
 
 ---
 

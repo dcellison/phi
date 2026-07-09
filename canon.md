@@ -78,7 +78,7 @@ These were explicitly decided and should not silently fork again:
   narration.
 - **Main-clause tense** (settled 2026-07-05): tense particles are
   not optional — a clause whose translation is past carries `to` on
-  its own verb (`sholo to haolu`, they said), as ch15 requires and
+  its own verb (`sholo to haolu`, they said), as ch14 requires and
   the texts practice. An unmarked verb is present. Embedded clauses
   keep their own marking, relative to the matrix event (see the
   embedded-clauses ruling below).
@@ -163,7 +163,7 @@ These were explicitly decided and should not silently fork again:
   counted event noun carries a classifier (always optional), it is
   `nophe` (`ta nophe thalo`, one walk). `whunema` (breathe) is retired: `whunei` is the verb
   breathe, and "a breath" is its rule-derived noun. The rule is
-  taught in manual ch15.
+  taught in manual ch14.
 - **Things do not name their deeds** (settled 2026-07-05): the
   noun→verb direction is refused. The 45 idiosyncratic dual listings
   (instruments, roles, phenomena, substances, artifacts, entities)
@@ -183,7 +183,7 @@ These were explicitly decided and should not silently fork again:
   `thua` fair and fairness, `siloma` simple and simplicity — a
   grammar-level rule mirroring the event-noun rule; entries do NOT
   list "noun" for this sense. The reverse direction needs no rule:
-  a noun standing before a noun already modifies it, as ch13 has
+  a noun standing before a noun already modifies it, as ch11 has
   always taught for possession — `nitho ruela` (the north path),
   `wheo kowela` (the elder council) — and meaning chooses the
   reading. The 24 adjective+noun dual listings were pruned to a
@@ -215,7 +215,7 @@ These were explicitly decided and should not silently fork again:
   phelora nila`, see you as unbeautiful — Velveteen). Two early
   texts had the descriptor outside the Slot 1 block; both were
   realigned (Schleicher fable, Velveteen). Evidence in
-  `archive/manner_placement_study.md`; taught in ch12 §4.
+  `archive/manner_placement_study.md`; taught in ch10 §4.
 - **The function-word shape charter** (settled 2026-07-06): every
   function class has a chartered shape, audited at 113/113
   conformance and validator-enforced; no word moved. CV
@@ -356,7 +356,7 @@ These were explicitly decided and should not silently fork again:
   mechanisms, as the registry teaches: `korua thero` (anger, and
   hatred with it), `thiku nila` (contempt), `phelu pula` (envy),
   `sonu` + `nuhe` (loneliness), and wonder as a question held
-  inside feeling (`wela … welo` under `phaelo`, ch20's own
+  inside feeling (`wela … welo` under `phaelo`, ch19's own
   rendering). A root for a complex feeling would hide the
   mechanism its compound lays open; the envy row's aside is
   hereby the rule for the class.
@@ -420,7 +420,7 @@ These were explicitly decided and should not silently fork again:
   occasions (`misheko ro nulae`). Habits never take `si`.
 - **`ki` completes at the tense's reference time** (settled
   2026-07-05): `ki` = have done (complete as of now), `to ki` = had
-  done, `so ki` = will have done — as the lexicon entry and ch15 have
+  done, `so ki` = will have done — as the lexicon entry and ch14 have
   always said; the stray "have done" translations of `to ki` were the
   error.
 - **One per rank** (settled 2026-07-05): each Slot 1 rank admits at

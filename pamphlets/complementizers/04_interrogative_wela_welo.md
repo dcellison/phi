@@ -424,7 +424,7 @@ PL 1SG 3SG where be NEG know
 (We don't know where they are.)
 ```
 
-The interrogative word does inside the clause what `wela` does for yes/no questions: it announces the question. Wrapping a content question in `wela`/`welo` is redundant, and Phi does not do it: the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch20).
+The interrogative word does inside the clause what `wela` does for yes/no questions: it announces the question. Wrapping a content question in `wela`/`welo` is redundant, and Phi does not do it: the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch19).
 
 ## Summary
 

@@ -47,4 +47,4 @@
 
 *Real ifs and unreal ifs, and both of them announced before their consequences, like everything in this language. One chapter remains. It is about how you know what you know, which is where Phi has been heading all along.*
 
-*The machinery, when you want it: conditionals are settled canon (lu realis, lu he irrealis, Slot 0 only) in the manual's Part IV, chapter 11 and the grammar references.*
+*The machinery, when you want it: conditionals are settled canon (lu realis, lu he irrealis, Slot 0 only) in the manual's Part IV, chapter 9 and the grammar references.*

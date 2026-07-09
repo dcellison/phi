@@ -35,24 +35,20 @@ manual as it exists; update it whenever chapters change.*
 4. Peace Linguistics: The Grammar of Nonviolence
 5. Pre-Industrial Wisdom: Natural Prototypes
 
-### Chapter 4: The Philosophy of Sound
+### Chapter 4: The Philosophy of Sound, Meaning, and Grammar
 1. Sound as Practice
-
-### Chapter 5: The Philosophy of Meaning
-1. The Living Web
 2. Sound as Symbol
+3. The Living Web
+4. From Reaction to Reflection
+5. The Three Slots
 
-### Chapter 6: The Philosophy of Grammar
-1. From Reaction to Reflection
-2. The Three Slots
-
-### Chapter 7: The Social Philosophy of Language
+### Chapter 5: The Social Philosophy of Language
 1. Respect Without Hierarchy
 2. Conversation as Collaboration
 3. The Ethics of Communication
 4. Building Bridges Across Difference
 
-### Chapter 8: The Philosophy of Learning
+### Chapter 6: The Philosophy of Learning
 1. Introduction
 2. The Student-Teacher Relationship
 3. Patience with Process
@@ -65,14 +61,14 @@ manual as it exists; update it whenever chapters change.*
 
 *Practical mastery of pronunciation and the sound system.*
 
-### Chapter 9: The Sound Inventory
+### Chapter 7: The Sound Inventory
 1. Introduction: A Limited Palette, Infinite Expression
 2. The Five Vowels
 3. The Ten Consonants
 4. The Four Fricative Digraphs
 5. IPA Reference
 
-### Chapter 10: The Music of Phi
+### Chapter 8: The Music of Phi
 1. The Golden Rule: Vowel Hiatus
 2. Syllable Structure: Open, Flowing, and Class-Signaling
 3. The Rhythm of Penultimate Stress
@@ -85,7 +81,7 @@ manual as it exists; update it whenever chapters change.*
 
 *Core grammatical structures, the essential building blocks.*
 
-### Chapter 11: The Particle System, Phi's Backbone
+### Chapter 9: The Particle System, Phi's Backbone
 1. Introduction: Transparent Signposts
 2. The Three Slots Explained
 3. Slot 0: Framing Intention (wa, no, lu, su, pi)
@@ -93,7 +89,7 @@ manual as it exists; update it whenever chapters change.*
 5. Slot 2: Refining Words (plural, deixis, focus, comparison, honorifics)
 6. How Particles Combine
 
-### Chapter 12: The Mindful Sentence
+### Chapter 10: The Mindful Sentence
 1. Introduction: The Verb Comes Last
 2. The SOV Worldview: Context Before Action
 3. The Modifier-First Principle
@@ -101,7 +97,7 @@ manual as it exists; update it whenever chapters change.*
 5. Questions, Requests, and Conditions
 6. Exercises: Constructing Mindful Sentences
 
-### Chapter 13: Nouns and Their World
+### Chapter 11: Nouns and Their World
 1. Introduction: Things and Beings
 2. The Zero-Article System
 3. Plural Marking with 'lo'
@@ -115,14 +111,21 @@ manual as it exists; update it whenever chapters change.*
 11. The Words of the Arts
 12. The Words of the Exchange
 
-### Chapter 14: Pronouns and Reference
+### Chapter 12: Numbers
+1. The Ternary Foundation
+2. Building Numbers
+3. Approximation: The Honest Quantities
+4. Position and Kind
+5. Conscious Calculation
+
+### Chapter 13: Pronouns and Reference
 1. The Core Pronouns (mia, thia, shia)
 2. Forming Plurals (lo mia, lo thia, lo shia)
 3. The Reflexive 'miso': Self-Reference
 4. The Reciprocal 'wiso': Mutual Action
 5. Deixis: Here and There (ha, ra)
 
-### Chapter 15: Verbs and Time
+### Chapter 14: Verbs and Time
 1. Introduction: The Unmarked Present
 2. Past 'to': Completed Events
 3. Future 'so': Possibility and Intention
@@ -132,14 +135,14 @@ manual as it exists; update it whenever chapters change.*
 7. The Words of Time
 8. The Turning of a Life
 
-### Chapter 16: Voice and Possibility
+### Chapter 15: Voice and Possibility
 1. The Passive 'se'
 2. The Causative 'ka'
 3. Possibility 'po'
 4. Necessity 'na'
 5. Negation 'ma' (including modal negation and the need-not periphrasis)
 
-### Chapter 17: Evidentiality, or Knowing How We Know
+### Chapter 16: Evidentiality, or Knowing How We Know
 1. Introduction: Epistemic Humility as Grammar
 2. Direct Experience 'hi': I Saw It
 3. Inference 'ke': I Deduced It
@@ -153,36 +156,29 @@ manual as it exists; update it whenever chapters change.*
 
 *Combining simple elements into sophisticated expression.*
 
-### Chapter 18: Coordination and Contrast
+### Chapter 17: Coordination and Contrast
 1. Simple Conjunction 'nela'
 2. Contrast 'thona'
 3. Alternative 'sola'
 4. Addition 'we'
 
-### Chapter 19: Discourse Flow
+### Chapter 18: Discourse Flow
 1. Introduction: Guiding the Listener
 2. Consequence and Contrast (thelao, whekai)
 3. Addition and Example (sheno, phisu)
 4. Precision: Rephrasing, Specifying, and Summarizing
 
-### Chapter 20: Subordinate Clauses
+### Chapter 19: Subordinate Clauses
 1. Introduction: Sentences Within Sentences
 2. Complement Clauses (mena/meno, wela/welo)
 3. Speech: Quotation and Report (shola/sholo)
 4. Adverbial Clauses: Time, Cause, Concession
 
-### Chapter 21: Relative Clauses
+### Chapter 20: Relative Clauses
 1. Introduction: Describing Within
 2. The Relativizer 'rena'
 3. Headed Relative Clauses
 4. Headless Relative Clauses
-
-### Chapter 22: Numbers
-1. The Ternary Foundation
-2. Building Numbers
-3. Approximation: The Honest Quantities
-4. Position and Kind
-5. Conscious Calculation
 
 ---
 
@@ -190,14 +186,14 @@ manual as it exists; update it whenever chapters change.*
 
 *Advanced usage, social nuance, and true fluency.*
 
-### Chapter 23: Social Context and Nuance
+### Chapter 21: Social Context and Nuance
 1. The Vocative 'kona': Calling with Care
 2. Politeness 'pi': Softening with Grace
 3. The Honorific System (sa, ni, le)
 4. Register and Formality
 5. When to Use What
 
-### Chapter 24: The Art of Transmutation
+### Chapter 22: The Art of Transmutation
 1. Introduction: Thinking in Phi, Not Translating
 2. The Transmutation Process
 3. Case Study: Transmuting Anger
@@ -205,7 +201,7 @@ manual as it exists; update it whenever chapters change.*
 5. Case Study: Transmuting Poetry
 6. Practice: Your Own Transmutations
 
-### Chapter 25: Living in Phi
+### Chapter 23: Living in Phi
 1. Daily Practice Suggestions
 2. Journaling in Phi
 3. Meditation and Phi

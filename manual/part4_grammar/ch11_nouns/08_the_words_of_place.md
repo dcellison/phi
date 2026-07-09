@@ -1,6 +1,6 @@
 # The words of place
 
-Chapter 14 §5 gives you here and there (*ha* and *ra*, standing alone with *nai*). This section gives you everything between them: the compass, the sides, the sixteen spatial relators, and the reason Phi owns no ruler.
+Chapter 13 §5 gives you here and there (*ha* and *ra*, standing alone with *nai*). This section gives you everything between them: the compass, the sides, the sixteen spatial relators, and the reason Phi owns no ruler.
 
 ## The compass reads the sky
 
@@ -109,7 +109,7 @@ mountain FAR village be.
 (The mountain is far from the village.)
 ```
 
-How near is near? Phi will not say, because Phi has no meter, no mile, no kilogram, no liter, and never will. This is the clock refusal from chapter 15 extended to the ruler and the scale, and the reasoning is the same: a unit no body can feel exists so that things can be priced, ranked, and raced. What the language offers instead is honest gauging. *masue* (measure) means comparing against a shared standard, not counting units:
+How near is near? Phi will not say, because Phi has no meter, no mile, no kilogram, no liter, and never will. This is the clock refusal from chapter 14 extended to the ruler and the scale, and the reasoning is the same: a unit no body can feel exists so that things can be priced, ranked, and raced. What the language offers instead is honest gauging. *masue* (measure) means comparing against a shared standard, not counting units:
 
 ```
 shia sheo pelio wetha masue.
