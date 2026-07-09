@@ -93,22 +93,22 @@ morris: "but at last got drawn into it,"
 shia korua thero to nai.
 3SG heart fire PST be.
 (His heart caught fire.)
-morris: "and finished by roaring out very loud,"
+morris: "and finished by"
 
 shia mua shareo lumae ki kapura.
 3SG LOC discuss end PFV shout.
 (At the discussion's end, he shouted out very loud.)
-morris: "and finished by roaring out very loud,"
+morris: "roaring out very loud,"
 
 shia lo miona ki thiku nila.
 3SG PL person PFV small see.
 (He looked down on the others.)
-morris: "and damning all the rest for fools."
+morris: "and damning all the rest"
 
 shia mena lo miona tawimo nai meno haolu.
 3SG DECL.COMP PL person foolish be DECL.COMP.CLOSE speak.
 (He said the others were foolish.)
-morris: "and damning all the rest for fools."
+morris: "for fools;"
 ```
 
 **Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `ru kesu` (intensely determined) carries the "strong" half of "strong but divergent," the magnitude of their conviction, not just its direction; `phirae` (different) marks the four as divergent even from each other, not only from everyone else.
