@@ -1,6 +1,6 @@
 # naweri — the Ring Verse, refused
 
-*Among people who build languages, translating Tolkien's Ring Verse is a beloved custom: the couplet about the One Ring has been rendered into hundreds of invented tongues. This is Phi's entry in that custom, and it is a refusal. Not because the verse is unwelcome here, but because it cannot be said; the ways it cannot be said teach more about this language than a translation would. The verse is quoted below only in the two lines needed for analysis; it is J.R.R. Tolkien's, from* The Lord of the Rings.
+*Among people who build languages, translating Tolkien's Ring Verse is a beloved custom: the couplet about the One Ring has been rendered into hundreds of invented tongues. This is Phi's entry in that custom, and it is a refusal. Not because the verse is unwelcome here, but because it cannot be said; the ways it cannot be said teach more about this language than a translation would. Only two of its lines are quoted below; the poem's* lord, throne, *and* doomed *stand in lines left unquoted, and they fail the same way. The verse is J.R.R. Tolkien's, from* The Lord of the Rings.
 
 ---
 
@@ -39,14 +39,14 @@ one circle UNIV person bring.
 
 ta sorui mua nuelo theula miona nolami.
 one circle LOC dark UNIV person bond.
-(One circle, in the darkness, bonds all people together.)
+(One circle, in the darkness, bonds all people.)
 ```
 
 Grammatical, fluent, and the menace has evaporated. Substitute Phi's nearest words for domination and the Ring Verse becomes a poem about a circle that gathers people in and holds them through the dark. It is no longer about a ring at all. It is about a hearth.
 
 ## Why this is the entry
 
-A language cannot stop anyone from doing harm, and a missing word is not a wall. But the couplet's power depends on *rule*, *doomed*, *bind* arriving fast and easy, and in Phi every one of those reaches costs a sentence of honest paraphrase, by which time the speaker has heard what they are saying. The verse is a machine for making domination sound inevitable, and this language's whole design is that domination should never sound inevitable. The refusal is recorded in canon beside the others: no *rule*, no *lord*, no *throne*, no binding that is not mutual.
+A language cannot stop anyone from doing harm, and a missing word is not a wall. But the poem's power depends on *rule*, *lord*, *bind* arriving fast and easy, and in Phi every one of those reaches costs a sentence of honest paraphrase, by which time the speaker has heard what they are saying. The verse is a machine for making domination sound inevitable, and this language's whole design is that domination should never sound inevitable. The refusal is recorded in canon beside the others: no *rule*, no *lord*, no *throne*, no binding that is not mutual.
 
 Phi keeps the custom, then: here is its Ring Verse. Four lines, one circle, everyone gathered, no one ruled.
 
