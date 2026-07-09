@@ -47,4 +47,4 @@
 
 *Three bracket pairs now: statements, questions, exact words. Notice which one Phi built for keeping the dead alive.*
 
-*The machinery, when you want it: quotation is the manual's Part V, chapter 20; the quotative preserves original tense and pronouns by design.*
+*The machinery, when you want it: quotation is the manual's Part V, chapter 19; the quotative preserves original tense and pronouns by design.*

@@ -74,7 +74,7 @@ IMP DAT 3SG water give.
 
 ## Sensations are felt
 
-Sensations and feelings that are nouns are objects of *phaelo* (feel): *kipona* (pain), *shea* (peace), *nuhe* (sadness). This is the same verb the journal practice of chapter 25 runs on, and the grammar is one pattern for the whole inner world:
+Sensations and feelings that are nouns are objects of *phaelo* (feel): *kipona* (pain), *shea* (peace), *nuhe* (sadness). This is the same verb the journal practice of chapter 23 runs on, and the grammar is one pattern for the whole inner world:
 
 ```
 mia kipona phaelo.

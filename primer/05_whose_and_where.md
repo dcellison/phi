@@ -68,4 +68,4 @@
 
 *Once more aloud, slower. Whose and where are yours now, and they cost you one new particle and a habit you already had.*
 
-*The machinery, when you want it: possession is the manual's Part IV, chapter 13; here and there are chapter 14's deixis; place phrases are with the prepositions in Part IV.*
+*The machinery, when you want it: possession is the manual's Part IV, chapter 11; here and there are chapter 13's deixis; place phrases are with the prepositions in Part IV.*

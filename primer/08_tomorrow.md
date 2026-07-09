@@ -62,4 +62,4 @@
 
 *Yesterday and tomorrow are both yours now, and they cost one particle each.* to *steps back,* so *leans forward, and both stand in the same place: right before the verb, where Phi keeps the truth about time.*
 
-*The machinery, when you want it: future* so *is the manual's Part IV, chapter 15.*
+*The machinery, when you want it: future* so *is the manual's Part IV, chapter 14.*

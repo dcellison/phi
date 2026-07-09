@@ -1,6 +1,6 @@
 # Part 4: The comma of address, the capital of a name
 
-Two of English's silent marks guard people specifically: the vocative comma and the name's capital letter. Both already have their own doctrine (`kona` in manual ch23 §1, `ne` throughout the naming pamphlet) so this part is short, and only about what they are *as punctuation*.
+Two of English's silent marks guard people specifically: the vocative comma and the name's capital letter. Both already have their own doctrine (`kona` in manual ch21 §1, `ne` throughout the naming pamphlet) so this part is short, and only about what they are *as punctuation*.
 
 ### The comma that keeps grandma off the menu
 

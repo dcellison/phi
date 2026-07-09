@@ -63,4 +63,4 @@
 
 *Four aspects now:* si *holds a doing open,* ki *closes it,* te *lets it cease, and the unmarked verb simply does. Say the wall's two sentences once more and feel the work finish in your mouth.*
 
-*The machinery, when you want it: the manual's Part IV, chapter 15, section 4.*
+*The machinery, when you want it: the manual's Part IV, chapter 14, section 4.*

@@ -15,7 +15,7 @@ By the end of this pamphlet, you will:
 - Read the family register: why the primer writes `ne sulae` at the door and `sulae` at the table
 - Write names in a language with no capital letters: in romanization, in gloss lines, in English narration, and in Tengwar, where there was never a case to lose
 
-This pamphlet assumes the particle system (manual ch11) and the mindful sentence (ch12). It is a companion to manual chapter 23 and to the canon rulings *Names are made of Phi* and *Letters*.
+This pamphlet assumes the particle system (manual ch9) and the mindful sentence (ch10). It is a companion to manual chapter 21 and to the canon rulings *Names are made of Phi* and *Letters*.
 
 ---
 

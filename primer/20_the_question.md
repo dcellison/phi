@@ -48,4 +48,4 @@
 
 *Statements in one set of brackets, questions in another; knowing, not-knowing, and wondering all sayable now. The reader who counts will notice Phi gave you doubt and certainty with the same tool, differently labeled.*
 
-*The machinery, when you want it: embedded questions share the manual's Part V, chapter 20.*
+*The machinery, when you want it: embedded questions share the manual's Part V, chapter 19.*

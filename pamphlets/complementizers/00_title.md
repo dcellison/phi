@@ -17,7 +17,7 @@ By the end of this guide, you will understand:
 - How these systems interact with each other and with relative clauses
 - How to avoid common errors that come from English interference
 
-This pamphlet assumes familiarity with Phi's basic word order (SOV), the particle system, and the concept of relative clauses. It is designed as a companion to Chapter 20 of the manual, providing the extended practice and explanation that some learners need to achieve fluency with embedded structures.
+This pamphlet assumes familiarity with Phi's basic word order (SOV), the particle system, and the concept of relative clauses. It is designed as a companion to Chapter 19 of the manual, providing the extended practice and explanation that some learners need to achieve fluency with embedded structures.
 
 ---
 

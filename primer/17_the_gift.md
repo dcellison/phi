@@ -52,4 +52,4 @@
 
 *Count what changed hands in this chapter: a pot, a meal, thanks, and a flower, and not a coin anywhere, here or in the whole language. Phi's market was exchange and its friendship is gifts; the grammar for both is just* wei *and an open hand.*
 
-*The machinery, when you want it: giving-sentences live in the manual's chapter 23; the gift entry itself is worth reading in the lexicon.*
+*The machinery, when you want it: giving-sentences live in the manual's chapter 21; the gift entry itself is worth reading in the lexicon.*

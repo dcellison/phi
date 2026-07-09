@@ -4,17 +4,17 @@
 
 | English writes | Phi says | Doctrine |
 |---|---|---|
-| ? (whole-sentence) | `wa`, Slot 0, first | ch12 §5 |
-| ? (content question) | the gap-word: `sua` `hina` `weno` `kua` `misa` `thela` | ch12 §5 |
-| "whether" (no mark) | `wela … welo` | ch20 §2 |
-| " … " | `shola … sholo`, frame verb `haolu`/`shemui`/`thilou`/`hea` | ch20 §3, canon |
-| the comma of address | `kona`, extra-clausal | ch23 §1 |
+| ? (whole-sentence) | `wa`, Slot 0, first | ch10 §5 |
+| ? (content question) | the gap-word: `sua` `hina` `weno` `kua` `misa` `thela` | ch10 §5 |
+| "whether" (no mark) | `wela … welo` | ch19 §2 |
+| " … " | `shola … sholo`, frame verb `haolu`/`shemui`/`thilou`/`hea` | ch19 §3, canon |
+| the comma of address | `kona`, extra-clausal | ch21 §1 |
 | the capital of a name | `ne` | canon *Letters*; the naming pamphlet |
-| the fronted-clause comma | `lu` + period; `pheo` `phoe` `lao` `shai` `lila` + the clause's own verb | ch11 §3, ch20 §4 |
-| the clause comma before "and/but/or" | `nela` / `thona` / `sola`, the conjunction is the boundary | ch18 |
-| the list comma | `nela` between every item | ch18 §1 |
-| the closing bracket English never had | `meno` / `welo` / `sholo`, required | ch20, canon |
-| ! | `ru` on the word; the interjections; `su` for the wish | ch11 §5, Part 6 |
+| the fronted-clause comma | `lu` + period; `pheo` `phoe` `lao` `shai` `lila` + the clause's own verb | ch9 §3, ch19 §4 |
+| the clause comma before "and/but/or" | `nela` / `thona` / `sola`, the conjunction is the boundary | ch17 |
+| the list comma | `nela` between every item | ch17 §1 |
+| the closing bracket English never had | `meno` / `welo` / `sholo`, required | ch19, canon |
+| ! | `ru` on the word; the interjections; `su` for the wish | ch9 §5, Part 6 |
 | … and — (the written pause) | nothing, pauses are free and unwritten | canon |
 | . | the period (the one silent mark) | canon |
 
@@ -47,6 +47,6 @@ The page side is enforced: periods only, no capitals, no `,` `?` `!` `;` in any 
 
 - Canon: the *Punctuation* ruling (this pamphlet is that ruling, practiced) and *Letters*, its twin.
 - The quick reference: `manual/part7_reference/quick_reference_grammar.md`, the one-line summary.
-- Doctrine: manual ch11 §3 (Slot 0); ch12 §5 (questions); ch18 (coordination); ch20 (subordination, speech, adverbials); ch23 §1 (the vocative).
+- Doctrine: manual ch9 §3 (Slot 0); ch10 §5 (questions); ch17 (coordination); ch19 (subordination, speech, adverbials); ch21 §1 (the vocative).
 - Sibling pamphlets: 2 (the closers, drilled); 3 (what the frame copies and never adds); 5 (the spoken capital, whole); 6 (recitation, where the free pauses earn their keep).
 - The front door: `kia.md` says all of this to a stranger in one paragraph; this pamphlet is that paragraph, taken seriously for eleven parts.

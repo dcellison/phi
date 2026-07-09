@@ -64,4 +64,4 @@
 
 *Rules in Phi are not walls; they are announced care:* po *opens,* na *holds,* ma *turns either one around. Read the three prohibitions again and hear how the grammar itself is calm about them.*
 
-*The machinery, when you want it: possibility and necessity are the manual's Part IV, chapter 16; the imperative lives with the Slot 0 particles in chapter 11.*
+*The machinery, when you want it: possibility and necessity are the manual's Part IV, chapter 15; the imperative lives with the Slot 0 particles in chapter 9.*

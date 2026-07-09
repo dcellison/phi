@@ -1,6 +1,6 @@
 # Part 7: The honest journal
 
-The manual's chapter on journaling (ch25) gives the form; this chapter gives the practice, because a journal is where evidentiality stops being grammar and becomes character. A page written alone, for no reader, is the one place a false `hi` costs nothing, which is exactly why practicing honesty there changes how you speak everywhere else.
+The manual's chapter on journaling (ch23) gives the form; this chapter gives the practice, because a journal is where evidentiality stops being grammar and becomes character. A page written alone, for no reader, is the one place a false `hi` costs nothing, which is exactly why practicing honesty there changes how you speak everywhere else.
 
 ### The three-line form, revisited
 

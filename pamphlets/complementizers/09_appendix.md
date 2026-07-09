@@ -219,8 +219,8 @@ Before finalizing an embedded clause:
 
 ## Further study
 
-- **Chapter 20** of the manual: Subordinate Clauses
-- **Chapter 21** of the manual: Relative Clauses
+- **Chapter 19** of the manual: Subordinate Clauses
+- **Chapter 20** of the manual: Relative Clauses
 - **Relative clauses pamphlet**: guide to `rena`
 - **complementizer_reference.md**: Technical grammar reference
 

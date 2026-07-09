@@ -1,6 +1,6 @@
 # Part 2: Witness (`hi`)
 
-`hi` claims the most a Phi speaker can claim: my senses met the event itself. The manual (ch17) draws the boundary; this chapter walks it until you stop needing the map.
+`hi` claims the most a Phi speaker can claim: my senses met the event itself. The manual (ch16) draws the boundary; this chapter walks it until you stop needing the map.
 
 ### What it buys you
 

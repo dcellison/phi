@@ -2,7 +2,7 @@
 
 ## A practice companion to the manual
 
-Phi counts in threes, with three number-words and four group-words, and it counts nothing without noticing what kind of thing it counts. The doctrine belongs to the manual (chapter 22 owns the system, and `documents/grammar/numeral_reference.md` is the working inventory) so this pamphlet drills: volume, judgment, until reading `wi phoi ta shao ta` is as fast as reading 22, and choosing a classifier is as unconscious as choosing a pronoun.
+Phi counts in threes, with three number-words and four group-words, and it counts nothing without noticing what kind of thing it counts. The doctrine belongs to the manual (chapter 12 owns the system, and `documents/grammar/numeral_reference.md` is the working inventory) so this pamphlet drills: volume, judgment, until reading `wi phoi ta shao ta` is as fast as reading 22, and choosing a classifier is as unconscious as choosing a pronoun.
 
 Two skills interleave throughout. The first is mechanical: composing and decomposing quantities on the ternary scale, up the units and back down, at speaking pace. The second is the one Phi actually cares about: knowing when to stop. The system's center of gravity is the honest *about* (bare scale units, `lau` for many, `rei` for countless, `henoi` for enough) and a fluent counter in Phi is someone who can be exact and usually declines.
 
@@ -15,7 +15,7 @@ By the end of this pamphlet, you will:
 - Do arithmetic in full sentences, at speaking pace, with the five verbs
 - Count a market day from eggs to ideas without once reducing a being to a number
 
-This pamphlet assumes the particle system (manual ch11) and basic noun phrases (ch13). It is a companion to manual Part V, chapter 22, and to the numeral reference.
+This pamphlet assumes the particle system (manual ch9) and basic noun phrases (ch11). It is a companion to manual Part IV, chapter 12, and to the numeral reference.
 
 ---
 

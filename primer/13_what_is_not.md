@@ -55,4 +55,4 @@
 
 *Not is yours now, and notice what it did not cost: no new sentence shape, no special verbs, just one particle, standing in the place you already watch. Read the cat's portrait once more; it is the chapter's whole grammar, five times.*
 
-*The machinery, when you want it: negation* ma *is the manual's Part IV, chapter 16.*
+*The machinery, when you want it: negation* ma *is the manual's Part IV, chapter 15.*

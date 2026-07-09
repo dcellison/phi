@@ -1,6 +1,6 @@
 # Part 5: Expectation (`ho`)
 
-`ho` marks the claim you hold without evidence for this case: the one carried by pattern, habit, and reasonable presumption. It is the humblest of the four (manual ch17), and the one whose absence does the most quiet damage, because unmarked assumptions are how households and villages talk themselves into certainty.
+`ho` marks the claim you hold without evidence for this case: the one carried by pattern, habit, and reasonable presumption. It is the humblest of the four (manual ch16), and the one whose absence does the most quiet damage, because unmarked assumptions are how households and villages talk themselves into certainty.
 
 ### The shape of an assumption
 

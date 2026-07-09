@@ -58,4 +58,4 @@
 
 *Names, calls, and courtesy: the grammar of meeting people. Notice the shape of every polite exchange:* pi *first,* kona *outside,* ne *before the name: all three announce before they deliver, because respect, in this language, is never an afterthought.*
 
-*The machinery, when you want it: names and the vocative are the manual's Part IV, chapter 11 (Slot 2 and Slot 0); politeness has chapter 23 to itself.*
+*The machinery, when you want it: names and the vocative are the manual's Part IV, chapter 9 (Slot 2 and Slot 0); politeness has chapter 21 to itself.*

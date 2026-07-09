@@ -1,6 +1,6 @@
 # Questions, requests, and conditions
 
-The first word of a Phi sentence can declare what the whole sentence is *for*. These are the Slot 0 framing particles: chapter 11 catalogs them; this section is about what framing does to a conversation.
+The first word of a Phi sentence can declare what the whole sentence is *for*. These are the Slot 0 framing particles: chapter 9 catalogs them; this section is about what framing does to a conversation.
 
 *wa thia shelomui.* — Do you understand?
 

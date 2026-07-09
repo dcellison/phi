@@ -57,7 +57,7 @@ Words the lexicon later coined where the text once composed: `thowia` (born), `s
 
 - The text itself: `pamphlets/metta_sutta.md`, verses, notes, complete text, gap log, corpus-test findings. This companion replaces none of it.
 - The door you came through: primer chapter 25, the capstone.
-- Doctrine: manual ch11 §3 (Slot 0 and `su`); ch16 §1 and §4 (`se`, `na`); ch21 (relative clauses); ch23 §5 (requests as wishes); ch24 (transmutation); `documents/language_guide.md` §6.
+- Doctrine: manual ch9 §3 (Slot 0 and `su`); ch15 §1 and §4 (`se`, `na`); ch20 (relative clauses); ch21 §5 (requests as wishes); ch22 (transmutation); `documents/language_guide.md` §6.
 - Sibling pamphlets: 1 (relative clauses, especially Part 4); 3 (evidentiality, the unmarked register and the journal this text should share a shelf with); 5 (names, for Part D's first wish).
 - The compounds: `documents/compounds.md`.
 - When the romanization is easy: the texts shelf's tengwar toggle, and the same text with nothing taller than anything else.

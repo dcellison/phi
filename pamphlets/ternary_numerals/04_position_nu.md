@@ -22,7 +22,7 @@ The number inside is ordinary ternary: `nu ta shao` is *third* because `ta shao`
 
 ### Dating the days
 
-The journal practice (manual ch25) dates entries ordinally, and it is the most natural ordinal drill there is:
+The journal practice (manual ch23) dates entries ordinally, and it is the most natural ordinal drill there is:
 
 ```
 nu ta shao philo.

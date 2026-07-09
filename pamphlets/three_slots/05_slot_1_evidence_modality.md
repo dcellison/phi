@@ -26,7 +26,7 @@ mia ki na kamo.
 (I must have arrived.)
 ```
 
-That second line, from ch16 §4, repays a slow read: aspect then modality, a completed event under a necessity: the epistemic *must* of someone reasoning from a timetable. The ranks compose; the meanings multiply; nothing changes shape.
+That second line, from ch15 §4, repays a slow read: aspect then modality, a completed event under a necessity: the epistemic *must* of someone reasoning from a timetable. The ranks compose; the meanings multiply; nothing changes shape.
 
 ### The ruled negations
 

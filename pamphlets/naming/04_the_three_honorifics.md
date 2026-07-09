@@ -1,6 +1,6 @@
 # Part 4: The three honorifics
 
-The doctrine is manual ch23 §3, and its center holds in one line: Phi's honorifics encode relationship, not rank. Here is the working set, once:
+The doctrine is manual ch21 §3, and its center holds in one line: Phi's honorifics encode relationship, not rank. Here is the working set, once:
 
 | Particle | Gloss | Announces |
 |---|---|---|

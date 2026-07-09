@@ -61,4 +61,4 @@
 
 *Aloud, once more, slower. Small words are doing large work now: many, before; describer, before. Everything announces, then delivers.*
 
-*The machinery, when you want it: plural* lo *and noun phrases are the manual's Part IV, chapter 13.*
+*The machinery, when you want it: plural* lo *and noun phrases are the manual's Part IV, chapter 11.*

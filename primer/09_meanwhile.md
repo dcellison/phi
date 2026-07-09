@@ -55,4 +55,4 @@
 
 *Say* si *and hold the sentence open a moment before the verb: the particle sounds like what it does. Meanwhile is yours.*
 
-*The machinery, when you want it: aspect begins in the manual's Part IV, chapter 15, section 4.*
+*The machinery, when you want it: aspect begins in the manual's Part IV, chapter 14, section 4.*

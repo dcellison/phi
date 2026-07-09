@@ -102,7 +102,7 @@ The particle *we* marks the following element as added to what came before: "als
 **we lohau wile.** — The dog plays too.  
 **ne siora we shua.** — siora comes too.
 
-*we* stands before the constituent it adds: the new subject, or the repeated verb once the newcomer has been named. Chapter 18 §4 gives it a full treatment beside the conjunctions.
+*we* stands before the constituent it adds: the new subject, or the repeated verb once the newcomer has been named. Chapter 17 §4 gives it a full treatment beside the conjunctions.
 
 ## li: Restrictive
 
@@ -115,7 +115,7 @@ Quantity-restriction is not *li*'s job: "only three eggs" is a count plus a feel
 
 ## Proper names
 
-The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. Formal and neutral speech keep it at every mention when no honorific is present; the family register may let an established name rest bare (see ch23 §3 and the canon ruling *Names are made of Phi*):
+The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. Formal and neutral speech keep it at every mention when no honorific is present; the family register may let an established name rest bare (see ch21 §3 and the canon ruling *Names are made of Phi*):
 
 **ne keruko** — keruko (a person's name)
 **mia ne sulae nila.** — I see sulae.

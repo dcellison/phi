@@ -32,7 +32,7 @@ On harder days the second sentence may be `mia nuhe phaelo`, and saying so plain
 
 ## The weekly transmutation (20 minutes)
 
-Once a week, one real transmutation: a proverb, a headline, a verse (the exercises of chapter 24). This is where vocabulary consolidates and the grammar stops being rules and starts being reflexes.
+Once a week, one real transmutation: a proverb, a headline, a verse (the exercises of chapter 22). This is where vocabulary consolidates and the grammar stops being rules and starts being reflexes.
 
 ## The rule of gentleness
 

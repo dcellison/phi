@@ -80,4 +80,4 @@
 
 *Read the whole chapter once more, aloud, a little slower than feels natural. Then close the book for today: small portions, held well, are how this language is meant to be taken in.*
 
-*The machinery, when you want it:* **nai** *and the sentence of being are explained in the manual, Part IV, chapter 12 (The Mindful Sentence).*
+*The machinery, when you want it:* **nai** *and the sentence of being are explained in the manual, Part IV, chapter 10 (The Mindful Sentence).*

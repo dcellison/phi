@@ -63,7 +63,7 @@ Every span, whatever its size, has *thorui* (beginning), *kesho* (middle), and *
 
 The near days compose from words you already know: *ha philo* (today), *luera philo* (yesterday), *wireo philo* (tomorrow). The primer's journal chapter dates its entries this way, and the compounds keep the tense system visible every time they are said.
 
-For distances beyond a day, *pheo* and *phoe* do the work. Chapter 20 taught them as subordinators over clauses; they take counted time phrases the same way, standing where any preposition phrase stands, after the subject and before the object.
+For distances beyond a day, *pheo* and *phoe* do the work. Chapter 19 taught them as subordinators over clauses; they take counted time phrases the same way, standing where any preposition phrase stands, after the subject and before the object.
 
 ```
 mia pheo wi philo so shua.
@@ -145,7 +145,7 @@ The scale has two materials. Its middle counts *shemu*, moments, a number honest
 
 ## The day, lived
 
-The journal practice of chapter 25 runs on these words, and the honest journal of the evidentiality pamphlet already writes with them:
+The journal practice of chapter 23 runs on these words, and the honest journal of the evidentiality pamphlet already writes with them:
 
 ```
 lopia sui philo to wile.

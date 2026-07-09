@@ -13,11 +13,11 @@ A beautifully bound physical tome that embodies Phi aesthetics: the definitive g
 | Part | Title | Chapters | Status |
 |------|-------|----------|--------|
 | I | First Light | 1-2 | ✅ Drafted (`part1_first_light/`) |
-| II | The Soul of Phi | 3-8 | ✅ Drafted (`part2_soul/`) |
-| III | Phonology | 9-10 | ✅ Drafted (`part3_phonology/`) |
-| IV | Grammar | 11-17 | ✅ Drafted (`part4_grammar/`) |
-| V | Complex Structures | 18-22 | ✅ Drafted (`part5_complex/`) |
-| VI | Mastery | 23-25 | ✅ Drafted (`part6_mastery/`) |
+| II | The Soul of Phi | 3-6 | ✅ Drafted (`part2_soul/`) |
+| III | Phonology | 7-8 | ✅ Drafted (`part3_phonology/`) |
+| IV | Grammar | 9-16 | ✅ Drafted (`part4_grammar/`) |
+| V | Complex Structures | 17-20 | ✅ Drafted (`part5_complex/`) |
+| VI | Mastery | 21-23 | ✅ Drafted (`part6_mastery/`) |
 | VII | Reference | — | ✅ Built (`part7_reference/`; lexicon auto-generated) |
 | — | Appendices A–C | — | ✅ Drafted (`appendices/`) |
 

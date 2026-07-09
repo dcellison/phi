@@ -64,4 +64,4 @@
 
 *Count something today: steps, breaths, eggs. Number, then kind, then thing (*ta lipha powea*), announced in the order Phi announces everything: how many, of what nature, and only then the thing itself.*
 
-*The machinery, when you want it: the ternary numerals are the manual's chapter 22 and the numeral reference; the classifiers are chapter 13's.*
+*The machinery, when you want it: the ternary numerals are the manual's chapter 12 and the numeral reference; the classifiers are chapter 11's.*

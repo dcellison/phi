@@ -20,7 +20,7 @@ When position itself is the topic, Phi has the noun *noa*: *ta noa*, the first p
 
 ## Counting with classifiers
 
-Numbers meet the classifier system (chapter 13) in one fixed order, number, then kind, then thing:
+Numbers meet the classifier system (chapter 11) in one fixed order, number, then kind, then thing:
 
 *wi himo melu* — two friends, counted as people
 

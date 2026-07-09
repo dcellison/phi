@@ -75,8 +75,8 @@ Witness (`hi`), feeling (bare), wish (`su`). One line each; audit weekly for une
 
 ### Cross-references
 
-- Doctrine: the manual, Part IV ch17 (all six sections; the dispute scene in §6 is this pamphlet's Part 6 in miniature).
-- The stack: manual ch11 (particle system), ch15 (tense and aspect).
-- Reported speech and layering: manual ch20; `documents/grammar/particle_reference.md` for the full Slot 1 inventory.
-- The journal form: manual ch25 §2.
+- Doctrine: the manual, Part IV ch16 (all six sections; the dispute scene in §6 is this pamphlet's Part 6 in miniature).
+- The stack: manual ch9 (particle system), ch14 (tense and aspect).
+- Reported speech and layering: manual ch19; `documents/grammar/particle_reference.md` for the full Slot 1 inventory.
+- The journal form: manual ch23 §2.
 - The story this pamphlet keeps returning to: primer chapter 24, `hi ke ti ho`: the snake, the well, and four people who all spoke truly.

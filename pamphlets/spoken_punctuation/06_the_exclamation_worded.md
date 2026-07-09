@@ -52,4 +52,4 @@ Say each in Phi, putting the exclamation's work where it belongs:
 4. "Welcome!"
 5. "May peace come to you!"
 
-Answers: 1 `teo.` 2 `no mia naphe.` The request announced, nothing screamed. 3 `sorae ru sulae nai.` The intensity delivered to `sulae` by name. 4 `whelani.` Complete as it stands. 5 `su shea wei thia shua.` Announced as a hope, arriving at speaking volume, exactly as ch23 gives it.
+Answers: 1 `teo.` 2 `no mia naphe.` The request announced, nothing screamed. 3 `sorae ru sulae nai.` The intensity delivered to `sulae` by name. 4 `whelani.` Complete as it stands. 5 `su shea wei thia shua.` Announced as a hope, arriving at speaking volume, exactly as ch21 gives it.

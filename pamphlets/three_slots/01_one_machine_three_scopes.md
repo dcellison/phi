@@ -1,6 +1,6 @@
 # Part 1: One machine, three scopes
 
-The doctrine lives in manual ch11; here is the working shape, once, and then we practice. Phi sorts its grammar by scope: how much of the sentence a particle governs decides where it stands.
+The doctrine lives in manual ch9; here is the working shape, once, and then we practice. Phi sorts its grammar by scope: how much of the sentence a particle governs decides where it stands.
 
 | Slot | Scope | Stands | Holds |
 |---|---|---|---|
@@ -12,7 +12,7 @@ The sentence formula, with everything in place:
 
 **[Slot 0] [Subject] [Slot 2 + Object] [Slot 1 stack] [Verb]**
 
-And the shape rule from ch10 §2 rides underneath it all: every one of these is a bare CV syllable, which is why you can sort a Phi sentence by ear before you know what any word means: the one-syllable words are the grammar, and the grammar always announces.
+And the shape rule from ch8 §2 rides underneath it all: every one of these is a bare CV syllable, which is why you can sort a Phi sentence by ear before you know what any word means: the one-syllable words are the grammar, and the grammar always announces.
 
 ### The unmarked defaults
 
@@ -33,7 +33,7 @@ Canon's newest structural ruling closes the system: each Slot 1 rank admits **at
 
 ### The machine at work
 
-ch11 §6 grows one sentence layer by layer; here is its finished form, the whole system in nine words:
+ch9 §6 grows one sentence layer by layer; here is its finished form, the whole system in nine words:
 
 ```
 pi wa mia ha lo melu so po nila.

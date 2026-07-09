@@ -58,4 +58,4 @@
 
 *Part III is complete. You can now refuse and permit, command gently, count what you share and share what you count, meet strangers by name, thank them properly, and join any two things in the language, including yourselves:* lo mia po nuawe thuroa. *Part IV teaches Phi to speak about speaking: saying that, asking whether, quoting, and knowing how you know. After that, the fable is yours to read alone.*
 
-*The machinery, when you want it: coordination is the manual's Part V, chapter 18; nuawe's story is in its own lexicon entry.*
+*The machinery, when you want it: coordination is the manual's Part V, chapter 17; nuawe's story is in its own lexicon entry.*

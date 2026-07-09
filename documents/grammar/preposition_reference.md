@@ -1,6 +1,6 @@
 # Phi Preposition Reference
 
-This document is the authoritative inventory of Phi's 27 prepositions, completing the reference set beside the particle, complementizer, and numeral references. For the rulings that govern them, see `/canon.md`; for the teaching, see manual ch13 (the words of place) and ch20 (prepositions over clauses).
+This document is the authoritative inventory of Phi's 27 prepositions, completing the reference set beside the particle, complementizer, and numeral references. For the rulings that govern them, see `/canon.md`; for the teaching, see manual ch11 (the words of place) and ch19 (prepositions over clauses).
 
 ## The shape and the position
 
@@ -53,7 +53,7 @@ What counts as near depends on scale, and the pair carries no measurements; see 
 | `sui` | DUR | during, throughout | `mia sui kelua theo.` (I read during the morning.) |
 | `tei` | UNTIL | until, up to | `lopia tei norawhi wile.` (The child plays until dusk.) |
 
-With the day-cycle nouns these are Phi's time-telling; see the natural-clock ruling and manual ch15.
+With the day-cycle nouns these are Phi's time-telling; see the natural-clock ruling and manual ch14.
 
 ## Relation
 

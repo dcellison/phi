@@ -1,6 +1,6 @@
 # Addition: `we`
 
-The three conjunctions of this chapter join elements inside one sentence. Phi has one more way of adding, and the primer teaches it at the household door: the particle `we`, which marks the following element as joined to something already said: English "also," "too." It is a Slot 2 particle (ch11 §5), standing immediately before what it adds, and the corpus uses it where `nela` cannot reach: across a sentence boundary, when a new sentence repeats an old one with a single substitution.
+The three conjunctions of this chapter join elements inside one sentence. Phi has one more way of adding, and the primer teaches it at the household door: the particle `we`, which marks the following element as joined to something already said: English "also," "too." It is a Slot 2 particle (ch9 §5), standing immediately before what it adds, and the corpus uses it where `nela` cannot reach: across a sentence boundary, when a new sentence repeats an old one with a single substitution.
 
 **melu shua. we thiku miona shua.** — A friend comes. A small person comes too.
 

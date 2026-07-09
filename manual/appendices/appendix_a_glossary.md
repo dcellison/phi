@@ -48,7 +48,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **tense**: When an action happens relative to now. Phi: past `to`, future `so`, present unmarked.
 
-**transmutation**: Phi's alternative to translation: rebuilding an idea from Phi's own concepts rather than mapping words across. See chapter 24.
+**transmutation**: Phi's alternative to translation: rebuilding an idea from Phi's own concepts rather than mapping words across. See chapter 22.
 
 **vocative**: The grammar of calling someone. Phi's `kona`, standing outside the sentence it introduces.
 

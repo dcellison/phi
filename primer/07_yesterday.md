@@ -63,4 +63,4 @@
 
 *Read the chapter again and listen for the rhythm* to *makes: a small backward step, taken right before the verb, every time. Yesterday now belongs to you.*
 
-*The machinery, when you want it: past* to *is the manual's Part IV, chapter 15.*
+*The machinery, when you want it: past* to *is the manual's Part IV, chapter 14.*

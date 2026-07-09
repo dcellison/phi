@@ -1,6 +1,6 @@
 # Part 6: Calculating aloud
 
-Phi does arithmetic in sentences (operands first, operation verb last, result as its own clause) with five verbs the manual introduces in ch22: `sholei` (gather), `leiro` (release), `welura` (spread), `phanoi` (portion), `kelai` (equals). This part drills the sentence shapes until calculation feels like what it is here: narration of quantities, at speaking pace, checkable by ear.
+Phi does arithmetic in sentences (operands first, operation verb last, result as its own clause) with five verbs the manual introduces in ch12: `sholei` (gather), `leiro` (release), `welura` (spread), `phanoi` (portion), `kelai` (equals). This part drills the sentence shapes until calculation feels like what it is here: narration of quantities, at speaking pace, checkable by ear.
 
 ### The four operations, spoken
 

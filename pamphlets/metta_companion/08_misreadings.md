@@ -8,7 +8,7 @@ A reader's companion owes you the errors of *reading*, and they are not the erro
 
 ### Misreading 2: the seer in the seen
 
-`[rena se nila]` read as *the one who sees*. The `se` is doing the whole job: PASS flips the clause, and the phrase is *that which is seen*. Miss it and verses 4–5 invert: the text becomes a wish for observers instead of a wish that reaches the observed and the unobservable alike. Doctrine: manual ch16 §1; drill: Part 3. The pair to burn in: `[rena nila]` heads toward a seer; `[rena se nila]` is the seen; `[rena se ma nila]` is the unseen, three particles deep and completely regular.
+`[rena se nila]` read as *the one who sees*. The `se` is doing the whole job: PASS flips the clause, and the phrase is *that which is seen*. Miss it and verses 4–5 invert: the text becomes a wish for observers instead of a wish that reaches the observed and the unobservable alike. Doctrine: manual ch15 §1; drill: Part 3. The pair to burn in: `[rena nila]` heads toward a seer; `[rena se nila]` is the seen; `[rena se ma nila]` is the unseen, three particles deep and completely regular.
 
 ### Misreading 3: hunting for "beings"
 

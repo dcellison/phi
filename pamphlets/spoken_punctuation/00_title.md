@@ -14,7 +14,7 @@ By the end of this pamphlet, you will:
 - Pass the dictation test: carry a message holding a question, a quotation, and a name through three mouths, letter-perfect
 - Write Phi with one silent mark, and read period-only prose with every mark sounding
 
-This pamphlet assumes the particle system (manual ch11) and the mindful sentence (ch12). It is a companion to the canon punctuation ruling and to ch12 §5, ch18, ch20, and ch23 §1.
+This pamphlet assumes the particle system (manual ch9) and the mindful sentence (ch10). It is a companion to the canon punctuation ruling and to ch10 §5, ch17, ch19, and ch21 §1.
 
 ---
 
