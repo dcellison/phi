@@ -574,6 +574,9 @@ CITATION_SOURCES = {
     "pamphlets/babel_text.md": (
         "kjv", "pamphlets/sources/kjv_genesis.txt"
     ),
+    "pamphlets/prophet_excerpts.md": (
+        "gibran", "pamphlets/sources/the_prophet.txt"
+    ),
 }
 
 
