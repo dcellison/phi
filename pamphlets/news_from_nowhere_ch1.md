@@ -121,56 +121,61 @@ morris: "after which befel a period of noise,"
 
 maeli ki nai.
 quiet PFV be.
-(Then, quiet.)
+(There was quiet.)
 morris: "and then a lull,"
+
+shia sui maeli lue shalimo to ru noeli pholeni.
+3SG DUR quiet ABL alliance PST INTS warm depart.
+(During the lull, he took his leave of the alliance very warmly.)
+morris: "during which the aforesaid section, having said good-night very amicably,"
 
 shia sonu to nai.
 3SG alone PST be.
 (He was alone.)
 morris: "by himself"
 
-shia lue shalimo to noeli pholeni.
-3SG ABL alliance PST warm depart.
-(He departed the alliance amicably.)
-morris: "during which the aforesaid section, having said good-night very amicably,"
-
-shia muila phou nurako mua kau sorae lumae womu to wepu.
-3SG earth BELOW railway LOC ALL sun end home PST go.
-(He went home by the underground railway to his home in the west.)
+shia kau sorae lumae womu to wepu.
+3SG ALL sun end home PST go.
+(He went home to the west.)
 morris: "took his way home ... to a western suburb"
 
-punoa nurako mua lo miona to ro ka wepu.
-society railway LOC PL person PST HAB CAUS go.
+punoa roe nurako lo miona to ro ka wepu.
+society INS railway PL person PST HAB CAUS go.
 (Civilization habitually forces people to travel by railway.)
 morris: "using the means of travelling which civilisation has forced upon us like a habit"
 
-nurako mua sheloi reshi wipha miona nela siwe to nai.
-railway LOC MANY fast restless person COORD sweat PST be.
-(The carriage was crowded with hurried, restless people, and thick with sweat.)
-morris: "As he sat in that vapour-bath of hurried and discontented humanity, a carriage of the underground railway"
+shia mua rena phou muila wepu nurako to meilo.
+3SG LOC REL BELOW earth go railway PST sit.
+(He sat in the railway that runs below the earth.)
+morris: "As he sat in ... a carriage of the underground railway"
 
-nurako pothu.
-railway stink.
+sheloi reshi wipha miona nela siwe to nai.
+MANY fast restless person COORD sweat PST be.
+(There were many hurried, restless people, and sweat.)
+morris: "that vapour-bath of hurried and discontented humanity,"
+
+nurako to pothu.
+railway PST stink.
 (It stank.)
-morris: "the hot room and the stinking railway carriage"
+morris: "the stinking railway carriage"
 
 shia phea lo miona wipha to nai.
 3SG AS PL person restless PST be.
-(He, like other people, stewed restlessly.)
+(He, like the others, was restless, unable to settle.)
 morris: "he, like others, stewed discontentedly"
 
-shia rena shia shareo mua to ki sahu sheloi tiso remo ki nupira themio.
-3SG REL 3SG discuss LOC PST PFV forget MANY sharp think PFV shame reflect.
-(Shamefully, he turned over the many sharp thoughts he had forgotten in the discussion.)
+shia rena shia mua shareo to ki sahu sheloi tiso remo ki nupira themio.
+3SG REL 3SG LOC discuss PST PFV forget MANY sharp think PFV shame reflect.
+(In self-reproach, he turned over the many sharp thoughts he had forgotten in the discussion.)
 morris: "while in self-reproachful mood he turned over the many excellent and conclusive arguments which, though they lay at his fingers' ends, he had forgotten in the just past discussion"
 
-shia ro teku korua nupira to nai.
-3SG HAB short heart shame PST be.
-(This mood was, for him, a habitual and a brief one.)
+whekai shia teku korua nupira to ro nai.
+CONTR 3SG short heart shame PST HAB be.
+(But this brief self-reproach was, for him, habitual.)
 morris: "But this frame of mind he was so used to, that it didn't last him long,"
 
-shia ro korua thero to nai.
-3SG HAB heart fire PST be.
+shia korua thero to ro nai.
+3SG heart fire PST HAB be.
 (He was habitually quick to anger.)
 morris: "for having lost his temper (which he was also well used to),"
 
@@ -179,39 +184,39 @@ CONS short heart shame PST be.
 (Consequently, a brief self-reproach followed.)
 morris: "and after a brief discomfort, caused by disgust with himself"
 
-shia shareo mua si themio.
-3SG discuss LOC IPFV reflect.
-(He kept musing on the discussion's matter.)
+shia shareo si themio.
+3SG discuss IPFV reflect.
+(He kept musing on the discussion.)
 morris: "he found himself musing on the subject-matter of discussion"
 
-shia korua nuhe to nai.
-3SG heart sadness PST be.
-(He was still unhappy.)
+whekai shia korua nuhe to si nai.
+CONTR 3SG heart sadness PST IPFV be.
+(But he was still unhappy.)
 morris: "but still discontentedly and unhappily"
 
-su shia wireo punoa nila.
-OPT 3SG future society see.
-(If only he could see it, he thought. If only he could see a day of it!)
+shia wei miso shola su mia wireo punoa ta philo li nila sholo to haolu.
+3SG DAT REFL QUOT.COMP OPT 1SG future society one day RESTR see QUOT.COMP.CLOSE PST speak.
+("If only I could just see one day of it," he said to himself.)
 morris: "\"If I could but see a day of it,\" he said to himself; \"if I could but see it!\""
 
-shia ki kamo.
-3SG PFV arrive.
-(He arrived.)
+shia sui haoni ki kamo.
+3SG DUR voice PFV arrive.
+(While his voice sounded, he arrived.)
 morris: "As he formed the words, the train stopped at his station"
 
-womu sio luphore leo suro repha to nai.
-home BESIDE river ABOVE rope bridge PST be.
-(His home stood beside the river, a little above the rope-bridge.)
+womu sio luphore leo rena phelora ma nai suro repha to nai.
+home BESIDE river ABOVE REL beautiful NEG be rope bridge PST be.
+(His home stood beside the river, above the not-beautiful rope-bridge.)
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge"
 ```
 
-**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the noise and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. His parting from the six is not one act but two, and the block keeps them as two sentences rather than folding one into the other: `sonu` (alone) states his solitude, and `pholeni` (depart), a word whose own meaning already bundles "the farewell spoken" into the moment of leaving, carries the good-night itself, with `noeli`, already the discussion's own word for warmth two blocks earlier, returning as its manner, "very amicably." `noeli` belongs to the parting, not to the journey that follows; travel has no temperature, and attaching the warmth to `wepu` (go) instead would have said something Morris never does, that the ride itself was amicable. `lue shalimo` (from the alliance) names what he is leaving, reaching back to the League named at the chapter's own opening. His home takes its direction for the first time: `sorae lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
+**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the noise and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. The parting then happens inside that lull, exactly where Morris places it: `sui maeli` (during the quiet) opens the departure sentence, reusing the lull the previous sentence just named. The parting itself is `pholeni` (depart), a word whose own meaning already bundles "the farewell spoken" into the moment of leaving, and its manner is `ru noeli` (very warm), with `ru` carrying Morris's "very"; `noeli` belongs to the parting, not to the journey that follows, since travel has no temperature. `lue shalimo` (from the alliance) names what he leaves, reaching back to the League named at the chapter's own opening, and `sonu` (alone) states his solitude in its own sentence between the parting and the ride, where Morris's "by himself" sits. His home takes its direction for the first time: `sorae lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
 
-Morris's own aside survives as its own sentence rather than folding silently into the journey: `punoa` (society) takes `ka` (CAUS), the causative voice, for the first time in this chapter, with `lo miona` (people) as the one caused and `ro` (HAB) marking the forcing as standing custom rather than a single day's compulsion, exactly matching "civilisation has forced upon us like a habit" without needing a separate word for either "civilization" or "force." The carriage itself keeps its heat and crowding: `sheloi` (many) and `reshi` (fast, doing double duty as "hurried") for the press of people, `wipha` (restless) for their discontent, and `siwe` (sweat), coordinated onto the same sentence with `nela`, for the vapour-bath's heat without needing a new word for either image. `pothu` (stink), coined for the coach's own smell, still carries the line alone. "Like others" is new to this passage: `phea` (AS) marks the comparison plainly, so his restlessness is not his alone but the whole carriage's.
+Morris's own aside survives as its own sentence rather than folding silently into the journey: `punoa` (society) takes `ka` (CAUS), the causative voice, with `lo miona` (people) as the ones caused and `ro` (HAB) marking the forcing as standing custom rather than a single day's compulsion, and the railway rides in `roe` (INS), the instrument phrase, since "the means of travelling" names the railway as a means, not a location. The ride itself then seats him: `meilo` (sit), inside `rena phou muila wepu nurako`, the railway that runs below the earth, a relative clause built the same way the corpus already builds a tall wall that arrives at the sky, placing the underground exactly where Morris names it. The vapour-bath keeps its substance in its own sentence: `sheloi` (many) and `reshi` (fast, doing double duty as "hurried") for the press of people, `wipha` (restless) for their discontent, and `siwe` (sweat), coordinated on with `nela`, for the heat, without needing a new word for either image. `pothu` (stink), the coach's own smell, carries its line alone, `to` marking it past like its neighbors. "Like others" is `phea` (AS), so his restlessness is not his alone but the whole carriage's, and its back-translation says exactly what `wipha`'s own entry says, restless and unable to settle.
 
-The turned-over arguments keep their own weight: `rena`, the pre-nominal relativizer already at work in `kowela`, holds "which... he had forgotten in the just past discussion" as a clause bound to `sheloi tiso remo` (many sharp thoughts), `tiso` (sharp) carrying "excellent and conclusive" as a single quality rather than two, and `remo` used as its own event noun, thought turned over rather than settled, by the same rule that gives every verb its noun. `nupira` (shame) stands as the manner of the turning-over itself, "self-reproachful," the same way `nuawe` (together) stands as manner elsewhere in the chapter; "which lay at his fingers' ends" is left out on purpose, an idiom with no clean image to carry across. Morris states the same shape twice, once for this mood and once more for his temper, and the block keeps both rather than folding them into one: `ro teku korua nupira`, habitually a brief self-reproach, states "this frame of mind he was so used to, that it didn't last him long" for the first; `ro korua thero`, habitually quick to anger, reaches back to the very shout `korua thero` already named in `kowela` for "which he was also well used to"; and `thelao teku korua nupira`, the same brief self-reproach following as consequence, closes the second. The musing that follows is not the same act as the turning-over: `themio` (reflect) returns from that same clause, now `si` (IPFV) rather than `ki` (PFV), an open, unresolved considering rather than a completed one, and `korua nuhe`, unhappiness, closes the passage's mood exactly where it began, doubled the way Morris himself doubles "discontentedly and unhappily."
+The turned-over arguments keep their own weight: `rena`, the pre-nominal relativizer already at work in `kowela`, holds "which... he had forgotten in the just past discussion" as a clause bound to `sheloi tiso remo` (many sharp thoughts), `tiso` (sharp) carrying "excellent and conclusive" as a single quality rather than two, and `remo` used as its own event noun, thought turned over rather than settled, by the same rule that gives every verb its noun. `nupira` (shame) stands as the manner of the turning-over itself, "self-reproachful," the same way `nuawe` (together) stands as manner elsewhere in the chapter; "which lay at his fingers' ends" is left out on purpose, an idiom with no clean image to carry across. Morris turns against this mood with a plain "But," and `whekai` (CONTR) carries the turn; the mood itself is `teku korua nupira`, a brief self-reproach, with `to ro`, the taught past-habitual pair, stating "so used to it that it didn't last him long." The same shape repeats for his temper, as Morris repeats it: `korua thero`, heart-fire, reaching back to the very shout `kowela` already names, also with `to ro`; and `thelao teku korua nupira`, the same brief self-reproach following as consequence, closes the second round. The musing that follows is not the same act as the turning-over: `themio` (reflect) returns with `si` (IPFV), an open, unresolved considering rather than a completed one, taking the discussion as its plain object, and `whekai ... to si nai` states Morris's second turn, "but still discontentedly and unhappily," with the persistence marked by `si` rather than assumed.
 
-The wish keeps the words already established for it: `su`, the optative, needing nothing further even where Morris repeats himself twice in one breath. The block closes on ground the chapter has not yet named: `shia ki kamo` (he arrived) ends the ride itself, and the house takes its place in the world for the first time, `sio` (BESIDE) and `leo` (ABOVE), two prepositions new to this chapter, setting `womu` beside `luphore` (the river) and above `suro repha` (the rope-bridge) already named two blocks ahead, so the ugly bridge he will not notice has a place to stand in before he reaches it. "Five minutes' walk" and the Thames by name are left out: canon already refuses clock time as vocabulary, and the river needs no proper name it has not been given anywhere else in the chapter.
+The wish is the chapter's first direct quotation: `shola ... sholo` preserves the exact words, so the wish keeps Morris's own first person (`mia`) and its own mood (`su`, the optative) inside the frame, and `wei miso` (to himself) names who hears it, the same dative shape the chapter's opening uses for "to me." `ta philo` (one day, the day-word's own entry example) keeps the wish's real size, one day of the future society, and `li` (RESTR) before `nila` keeps its modesty, "could but see," the least thing askable; Morris repeats the wish twice in one breath, and `su` needs no doubling to carry a wish already marked as one. The arrival lands inside the wish's own sound: `sui haoni` (during the voice), `haoni` being the noun `haolu`'s own entry points to for the act of speech, so the train stops exactly as the words are formed, the same coincidence the whole book then walks through. The house takes its place in the world for the first time: `sio` (BESIDE) and `leo` (ABOVE), setting `womu` beside `luphore` (the river) and above the rope-bridge named again two blocks ahead, and the bridge's ugliness is composed, not coined: `rena phelora ma nai suro repha`, the rope-bridge that is not beautiful, absence of beauty rather than a granted opposite, the softer carve Phi's own philosophy asks for. "Five minutes' walk" and the Thames by name are left out: canon already refuses clock time as vocabulary, and the river needs no proper name it has not been given anywhere else in the chapter.
 
 ### shero phelora — The beautiful night
 
@@ -229,7 +234,7 @@ morris: "It was a beautiful night of early winter"
 haowu tiso nela newai to nai.
 air sharp COORD fresh PST be.
 (The air was sharp and fresh.)
-morris: "the air just sharp enough to be refreshing after the hot room and the stinking railway carriage"
+morris: "the air just sharp enough to be refreshing"
 
 waero nuwi to nai.
 sky clear PST be.
@@ -341,15 +346,15 @@ morris: "since I understand the feelings and desires of the comrade of whom I am
 
 ## What the transmutation changed
 
-*Gap log: eight new words, all cleared of collisions before coining. `shalimo` (alliance), fricative-open/liquid-bound/nasal-settled, for the League itself, a group deliberately bound by shared cause rather than a single meeting of it; composing it from `sila` (community) and `nolami` (bond) would only have restated `sila`'s own definition, so the concept is coined fresh. `nurako` (railway), nasal-grounded/liquid-rolling/stop-closed, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word. `tawimo` (foolish), the natural opposite of `phue` (wise), built with a deliberately different sound rather than composed as `ma phue`. `pothu` (stink), the negative-valence partner to `whinu` (smell, neutral). `kanelu` (err), whose event noun (a mistake) comes by the ordinary rule. `monelu` (amused), `siora`'s (joy) narrower, lighter cousin. `kapura` (shout, roar), a doubled stop opening onto an open, projecting vowel, for the forceful vocalization itself, stronger than `theisa` (loud) intensifying `haolu` (speak) could carry. One detail composes rather than coins: the suspension bridge, `suro repha` (rope-bridge), a plain noun-noun compound, since the engineering itself is rare enough in this book that a new word isn't warranted. Everything else composes from existing vocabulary.
+*Gap log: eight new words, all cleared of collisions before coining. `shalimo` (alliance), fricative-open/liquid-bound/nasal-settled, for the League itself, a group deliberately bound by shared cause rather than a single meeting of it; composing it from `sila` (community) and `nolami` (bond) would only have restated `sila`'s own definition, so the concept is coined fresh. `nurako` (railway), nasal-grounded/liquid-rolling/stop-closed, for the iron road a whole novel of Victorian London will need again. `welamu` (elm), flowing liquid consonants for a tall tree's high branches and rising trunk, because a landscape's own species is nature vocabulary worth a real word. `tawimo` (foolish), the natural opposite of `phue` (wise), built with a deliberately different sound rather than composed as `ma phue`. `pothu` (stink), the negative-valence partner to `whinu` (smell, neutral). `kanelu` (err), whose event noun (a mistake) comes by the ordinary rule. `monelu` (amused), `siora`'s (joy) narrower, lighter cousin. `kapura` (shout, roar), a doubled stop opening onto an open, projecting vowel, for the forceful vocalization itself, stronger than `theisa` (loud) intensifying `haolu` (speak) could carry. Two details compose rather than coin: the suspension bridge, `suro repha` (rope-bridge), a plain noun-noun compound, since the engineering itself is rare enough in this book that a new word isn't warranted; and its ugliness, `rena phelora ma nai` (that is not beautiful), absence of beauty rather than a coined opposite, the softer carve Phi's philosophy prefers for a judgment Morris will repeat across the whole book. Everything else composes from existing vocabulary.
 
 The Anarchist faction is described by what it wants (`mawha miona kulo`, no one guides) rather than labeled, since canon already refuses rule/lord/throne vocabulary, and by how its four members differ even from each other (`phirae`) with real intensity (`ru kesu`). Anger is the established compound `korua thero`, kept in its own sentence since `kapura` (shout) is intransitive and cannot take it as an object; the damning that follows the shout is `thiku nila` (small-see), the same compound `shame.json` already names for shame inflicted from outside, reused here rather than invented. Waking is `te` (cease) plus sleep, with no separate verb; goodwill arrives through `phena` (kind), already in the lexicon.
 
 The discussion's warmth is `noeli`, held rather than merely stated (`manolu`), and its good temper is qualified rather than simple: `wiso po ma sheluo` (could scarcely listen to each other) states the irony Morris intends, `thona` and `nuawe` (but, together) turning the sentence to the group's real restraint instead. The one voice that rises is not loud from the start: `maeli meilo` (sat quiet) at `shareo thorui` (the discussion's beginning) marks the only contrast in the passage between silence and outburst, turned by `whekai` (however) into `se natu` (was drawn in), passive because it happened to him rather than by his own choice; `rena melu ru sano miona` (the person the friend knows well) keeps Morris's own aside rather than trading it for a bare pronoun.
 
-The railway ride adds no new words but four constructions new to the chapter: `ka` (CAUS) marks civilization's own compulsion, `punoa` causing `lo miona` to travel by habit (`ro`); `phea` (AS) marks the carriage's discontent as everyone's, not his alone; `sio` and `leo` (BESIDE, ABOVE) place the house on the river for the first time, beside `luphore` and above `suro repha`, both named again two blocks later; and `rena`, already at work in `kowela`, returns to hold `sheloi tiso remo` (the many sharp thoughts) he forgot in the discussion, with `nupira` (shame) standing as the manner of the turning-over itself, the same way `nuawe` stands as manner elsewhere. Morris doubles the same self-reproach, once for the forgotten arguments and once for his temper, and both stay: `ro teku korua nupira` (habitually a brief self-reproach) for the first, `ro korua thero` (habitually quick to anger, reaching back to the shout `kowela` already names) for the second, and `thelao teku korua nupira` closing it as consequence. `sorae lumae` (sun's end), the lexicon's own compositional word for west, gives his home its first direction; the room's aftermath, noise then quiet (`kohura`, `maeli`), and his solitary walk to the train (`sonu`) close out the passage's remaining images.
+The railway ride adds no new words but a run of constructions new to the chapter: `ka` (CAUS) marks civilization's own compulsion, `punoa` causing `lo miona` to travel by habit (`ro`), with the railway as instrument (`roe`); the underground is a relative clause, `rena phou muila wepu nurako` (the railway that runs below the earth); `phea` (AS) marks the carriage's discontent as everyone's, not his alone; `sio` and `leo` (BESIDE, ABOVE) place the house on the river for the first time; and `rena`, already at work in `kowela`, returns twice more, once to hold `sheloi tiso remo` (the many sharp thoughts) he forgot in the discussion, with `nupira` (shame) standing as the manner of the turning-over itself, and once to say the bridge is not beautiful. Morris doubles the same self-reproach, once for the forgotten arguments and once for his temper, and both stay, each with the taught past-habitual `to ro`, the first turned by `whekai` where Morris writes "But," the second closed by `thelao` as consequence. The wish is the chapter's one direct quotation, `shola ... sholo` keeping Morris's first person and the optative `su` inside it, sized by `ta philo` (one day) and fenced by `li` (only); the arrival lands `sui haoni` (during the voice), inside the wish's own sound. `sorae lumae` (sun's end), the lexicon's own compositional word for west, gives his home its first direction; the room's aftermath, noise then quiet (`kohura`, `maeli`), his warm leave-taking inside the lull (`sui maeli`, `ru noeli`, `pholeni`), and his solitary ride home (`sonu`) close out the passage's remaining images.
 
-The chapter's reportative frame ("says our friend") is carried by Phi's own `ti` evidential, opening the account and dropping away exactly when the narrator's promise to speak firsthand is kept. The chapter's central wish, "if I could but see a day of it," said once on the train and muttered twice more leaving the station, is carried by `su`, the optative particle, needing no coinage of its own. Morris's own line accompanies every block above, so the transmutation's reasoning is checkable sentence by sentence rather than taken on faith, a convention meant to carry forward into every chapter still to come.
+The chapter's reportative frame ("says our friend") is carried by Phi's own `ti` evidential, opening the account and dropping away exactly when the narrator's promise to speak firsthand is kept. The chapter's central wish, "if I could but see a day of it," said twice in one breath on the train and muttered twice more leaving the station, is carried by `su`, the optative particle, inside the chapter's one direct quotation (`shola ... sholo`), needing no coinage of its own. Morris's own line accompanies every block above, so the transmutation's reasoning is checkable sentence by sentence rather than taken on faith, a convention meant to carry forward into every chapter still to come.
 
 The League itself, its pace, and the transformation it turns on are carried by `shalimo`, `reshi`, and `moreluki`; the friends' rising energy, by `therua`, its own onset marked by the inchoative `pa` rather than a flat completed fact. The discussion's timing, "one night," is carried by `shero`; "the Morrow of the Revolution," the specific day after rather than a vague future, by `wireo philo` taking the transformation as its possessor, with the question anchored to it, "what would happen," embedded directly by the gap-word `hina` and the speculative `so po kelu`, no complementizer or coinage needed for either. The friends who speak of it are `soli` (some), and the society they imagine is `newu seroli` (new, mature), both of the original's own adjectives kept rather than one dropped for the other. The six persons and the council they formed stand as two linked sentences, `thelao` carrying the connection.
 
