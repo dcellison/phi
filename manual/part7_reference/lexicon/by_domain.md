@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (52)
+## activity (53)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -49,6 +49,7 @@
 | `sawa` | wash | Water-cleansing as daily craft |
 | `selomi` | weave | fundamental human activity of weaving |
 | `sepho` | send | Dispatch and correspondence |
+| `shalimo` | alliance | oriented toward sustained collective action, not one decision |
 | `shua` | come | basic human action of moving toward a reference point |
 | `siwe` | sweat | Effort's residue |
 | `tapu` | close | The keeper's daily verb |
@@ -147,7 +148,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (131)
+## cognition (132)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -227,6 +228,7 @@
 | `sena` | pattern | Recognizable structure |
 | `senao` | same | the perception of identity |
 | `seru` | commit | Binding decision |
+| `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `shao` | three-group | Represents a fundamental cognitive grouping—the shift from individual counting to pattern recognition. 'Sha' embodies how the mind naturally chunks information into manageable groups. |
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
@@ -283,7 +285,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (198)
+## community (199)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -406,6 +408,7 @@
 | `ruloi` | flourish | Collective thriving |
 | `sano` | know | knowing others and sharing collective knowledge |
 | `sepho` | send | Transfer across distance |
+| `shalimo` | alliance | a bound group of people, not a single occasion of meeting |
 | `shane` | tell | How news and stories move between people |
 | `shea` | peace | social harmony and collective thriving |
 | `shelira` | forest | Tree community gathering |

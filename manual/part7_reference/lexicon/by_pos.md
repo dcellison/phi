@@ -261,7 +261,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (375)
+## noun (376)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -513,6 +513,7 @@
 | `ruela` | path | Path |
 | `runae` | resin | Resin |
 | `sena` | pattern | Pattern |
+| `shalimo` | alliance | Alliance |
 | `shalu` | fish | Fish |
 | `shao` | three-group | Three-Unit |
 | `shea` | peace | Peace |
