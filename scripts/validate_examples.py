@@ -565,6 +565,9 @@ CITATION_SOURCES = {
     "pamphlets/velveteen_rabbit.md": (
         "williams", "pamphlets/sources/velveteen_rabbit.txt"
     ),
+    "pamphlets/north_wind_and_sun.md": (
+        "aesop", "pamphlets/sources/aesop_for_children.txt"
+    ),
 }
 
 

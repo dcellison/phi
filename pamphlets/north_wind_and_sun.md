@@ -1,156 +1,165 @@
 # nitho howeli nela sorae — The North Wind and the Sun
 
-*Aesop's fable is the text traditionally used to display the world's languages (the one linguists use to display a language's sounds and structures), and it stresses everything the Metta Sutta (Phi's first text) did not: narrative past-tense chains, sequenced events, the causative, indirect questions, comparison, and reported agreement. A transmutation, not a translation; the gap log records every adaptation.*
+*Aesop's fable of the wind, the sun, and the traveler's cloak is the story linguists traditionally use to display a language's sounds and structures, and it asks of Phi everything the Metta Sutta does not: narrative past-tense chains, sequenced events, dialogue, the causative, indirect questions, and comparison. The text transmuted here is the 1919 Aesop for Children. `whuo lurekoi`, without fruit, carries "in vain" and the moral alike, and the famous correlative ("the harder... the tighter...") becomes paired `mo` sentences, since Phi has no correlatives by design. Canon's refusals shape the telling without thinning it: the quarrel cools to `shareo` (discuss), no one wins or loses anywhere in the telling, and the moral lands as a statement about what bears fruit.*
+
+*Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and the original wording, so a reader can see exactly what the transmutation kept and what it changed.*
 
 ---
 
-## The story
-
-### Scene 1 — The dispute
-
-> *The North Wind and the Sun were disputing which was the stronger.*
+## shareo — The quarrel
 
 ```
-nitho howeli nela sorae [sua mo kema nai] to shareo.
-north wind COORD sun [who CMPR strong be] PST discuss.
+nitho howeli nela sorae sua mo kema nai to shareo.
+north wind COORD sun who CMPR strong be PST discuss.
 (The North Wind and the Sun discussed who was the stronger.)
+aesop: "The North Wind and the Sun had a quarrel about which of them was the stronger."
+
+lo shia roe sheloi thero nela theisa haoni to shareo.
+PL 3SG INS MANY fire COORD loud voice PST discuss.
+(They discussed it with much fire and loud voice.)
+aesop: "While they were disputing with much heat and bluster,"
+
+ta rena laniru miona nia ruela to thalo.
+one REL journey person ON path PST walk.
+(A person on a journey came walking along the road.)
+aesop: "a Traveler passed along the road"
+
+shia roe wethalu to se lomare.
+3SG INS garment PST PASS embrace.
+(He was wrapped in a cloak.)
+aesop: "wrapped in a cloak."
 ```
 
-**Notes:** The embedded question "which was stronger" is an indirect
-question: an interrogative clause sitting in the object position of
-`shareo` (discuss), exactly as the grammar chapter on subordination
-teaches. Note also what the vocabulary quietly did: English "disputing"
-became `shareo`, *discuss*. Phi has no word for quarreling, so the two
-great powers of the sky are having a conversation. The fable has
-already begun to change temperature.
+**Notes:** Phi has no word for quarreling, so the two great powers of the sky hold a `shareo`, a discussion, and the fable changes temperature in its first sentence; what the quarrel felt like survives anyway, `roe sheloi thero nela theisa haoni`, with much fire and loud voice, which is "heat and bluster" said plainly, and quietly names the two contestants' own natures. "Which of them was the stronger" embeds on the bare question-word: `sua mo kema nai`, who is more strong, sitting in the object position with no complementizer needed. The traveler is `rena laniru miona`, one who journeys, the relative clause outperforming a category noun as it always has; the cloak is `wethalu`, the garment-word whose own entry lists the cloak first; and "wrapped in" is the passive embrace, `roe wethalu se lomare`, the same idiom that wraps a sick child in a shawl elsewhere on this shelf.
 
-### Scene 2 — The traveler
-
-> *…when a traveler came along, wrapped in a warm cloak.*
+## nawo — The wager
 
 ```
-[rena laniru thalo] miona to shua.
-[REL journey walk] person PST come.
-(A person walking a journey came along.)
+sorae shola su lo mia nawo sholo to haolu.
+sun QUOT.COMP OPT PL 1SG agree QUOT.COMP.CLOSE PST speak.
+(The Sun said: "Let us agree.")
+aesop: "\"Let us agree,\" said the Sun,"
 
-shia sulae wetha to phelu.
-3SG warm cloth PST hold.
-(They held a warm cloth about them.)
+shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo.
+QUOT.COMP REL PROX journey person garment CAUS POT release person CMPR strong be QUOT.COMP.CLOSE.
+("The one who can make that traveler release his cloak is the stronger.")
+aesop: "\"that he is the stronger who can strip that Traveler of his cloak.\""
+
+nitho howeli shola lia sholo roe keloa haoni to haolu.
+north wind QUOT.COMP yes QUOT.COMP.CLOSE INS rough voice PST speak.
+(The North Wind said, in a rough voice: "Yes.")
+aesop: "\"Very well,\" growled the North Wind,"
+
+shia nosa wea laniru miona ta pelui theisa howeli to sepho.
+3SG now TOWARD journey person one cold loud wind PST send.
+(And at once he sent a cold, howling wind toward the traveler.)
+aesop: "and at once sent a cold, howling blast against the Traveler."
 ```
 
-**Notes:** No word for "traveler," and none needed: the pre-nominal
-relative `[rena laniru thalo] miona`, *a person who walks a journey*,
-introduces the character the way Phi introduced "beings" in the sutta.
-The cloak is a transmutation: `sulae wetha`, *warm cloth*, and
-"wrapped in" becomes `phelu` (hold), the same verb that carries
-possession and the boundless heart. What you wear is what you hold
-close; the fable will turn on exactly this.
+**Notes:** the wager is dialogue in the source and stays dialogue here: the Sun proposes with the optative, `su lo mia nawo`, may we agree, `nawo` being agreement's own verb, accord arrived at after honest exchange, which is precisely the scene. The wager's content is the deepest nesting on the shelf: a relative clause holding a causative, `rena ha laniru miona wethalu po ka leiro miona`, the one who can make that traveler release the garment, with "strip" dissolving into `leiro`, the release-verb of subtraction and letting-go, so that in Phi undressing a cloak and releasing an attachment are one gesture. The Wind's growl is his instrument: `roe keloa haoni`, with a rough voice, and his "Very well" is a plain `lia`, yes, the grudge living in the voice rather than the word. The blast he sends is `ta pelui theisa howeli`, one cold loud wind, `sepho` (send) making the attack a delivery, which is as close to aggression as the lexicon goes.
 
-### Scene 3 — The agreement
-
-> *They agreed that the one who first succeeded in making the traveler
-> take his cloak off should be considered the stronger.*
+## howeli — The wind tries
 
 ```
-lo shia mena [rena nu ta miona wetha ka leiro] mo kema nai meno to haolu.
-PL 3SG DECL.COMP [REL ORD one person cloth CAUS release] CMPR strong be DECL.COMP.CLOSE PST speak.
-(They said: the one who first makes the person release the cloth is the stronger.)
+roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe.
+INS ORD one wind PL garment edge AROUND journey person body PST quiver.
+(With the first wind, the cloak's edges whipped about the traveler's body.)
+aesop: "With the first gust of wind the ends of the cloak whipped about the Traveler's body."
+
+whekai shia nosa roa miso wethalu to noshi phelu.
+CONTR 3SG now AROUND REFL garment PST near hold.
+(But at once he wrapped the cloak close around himself.)
+aesop: "But he immediately wrapped it closely around him,"
+
+howeli mo kema to whesu. miona wethalu mo kema to phelu.
+wind CMPR strong PST blow. person garment CMPR strong PST hold.
+(The harder the wind blew, the harder the person held the cloak.)
+aesop: "and the harder the Wind blew, the tighter he held it to him."
+
+nitho howeli roe korua thero wethalu to natu.
+north wind INS heart fire garment PST pull.
+(The North Wind tore at the cloak with heart-fire.)
+aesop: "The North Wind tore angrily at the cloak,"
+
+whekai theula shia theko whuo lurekoi to nai.
+CONTR UNIV 3SG craft WITHOUT fruit PST be.
+(But all his work was without fruit.)
+aesop: "but all his efforts were in vain."
 ```
 
-**Notes:** The most demanding sentence in Phi's young literature: a
-relative clause containing a causative, nested inside a `mena…meno`
-declarative frame. Read it modifier-first and it unfolds without
-ambiguity: the frame opens (`mena`), the relative announces itself
-(`rena`), "first" (`nu ta`), then the causee, the object, the causative
-`ka`, the verb; clause closed by its head position, frame closed by
-`meno`, main verb last. Every opener met its closer. "Take off"
-dissolves into `leiro`, *release*: the arithmetic verb of subtraction
-and the sutta's word for letting go. In Phi, undressing a cloak and
-releasing an attachment are the same gesture.
+**Notes:** the whipping cloak-ends ride `tiripe`, the quiver-verb, cloth in a gale being exactly the fast involuntary motion that verb was made for; the traveler answers with `noshi phelu`, holding near, the steady-pressure hold that carries every clasping on this shelf. The famous correlative has no construction in Phi, which refuses correlatives by design, so it stands as two parallel `mo` sentences whose escalation the listener feels in the repetition: the wind more strongly blew, the person more strongly held. The blowing itself is `whesu`, the wind's own verb. The Wind's anger is the registry's `korua thero`, heart-fire, riding as instrument on `natu` (pull), which is what tearing at something is; and the verdict on all of it is `whuo lurekoi`, without fruit, effort measured by harvest, a phrase the moral is waiting to use again.
 
-### Scene 4 — The wind tries
-
-> *Then the North Wind blew as hard as he could, but the more he blew,
-> the more closely the traveler folded his cloak around him; and at
-> last the North Wind gave up.*
+## sorae — The sun
 
 ```
-nu ta nitho howeli ru kema to shua.
-ORD one north wind INTS strong PST come.
-(First, the North Wind came on with all its strength.)
+pheo thena sorae to pa phelo loa.
+POST thing sun PST INCH light give.
+(Then the Sun began to give light.)
+aesop: "Then the Sun began to shine."
 
-whekai howeli mo kema to shua. miona wetha mo kema to phelu.
-CONTR wind CMPR strong PST come. person cloth CMPR strong PST hold.
-(But the stronger the wind came, the more strongly the person held the cloth.)
+mua thorui shia phelo loa moli to nai.
+LOC beginning 3SG light give gentle PST be.
+(At first his light-giving was gentle.)
+aesop: "At first his beams were gentle,"
 
-nitho howeli to te shua. howeli to therilu.
-north wind PST CESS come. wind PST rest.
-(The North Wind ceased. The wind rested.)
+pheo nitho howeli puko pelui welao sulae to shua.
+POST north wind bitter cold good warm PST come.
+(After the North Wind's bitter cold, a good warmth came.)
+aesop: "and in the pleasant warmth after the bitter cold of the North Wind,"
+
+laniru miona wethalu to phae.
+journey person garment PST open.
+(The traveler opened his cloak.)
+aesop: "the Traveler unfastened his cloak"
+
+wethalu nia shia talua to luwi manolu.
+garment ON 3SG shoulder PST flexible stay.
+(It stayed loose upon his shoulders.)
+aesop: "and let it hang loosely from his shoulders."
+
+sorae phelo loa mo sulae to kelu. shia mo sulae to kelu.
+sun light give CMPR warm PST become. 3SG CMPR warm PST become.
+(The sun's light grew warmer, and warmer again.)
+aesop: "The Sun's rays grew warmer and warmer."
+
+miona miso koma wethalu to leiro. shia miso menoa to hewe.
+person REFL head garment PST release. 3SG REFL face PST wipe.
+(The man took off his head-garment and wiped his brow.)
+aesop: "The man took off his cap and mopped his brow."
+
+pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro.
+POST long moment 3SG INTS warm PST become. CONS 3SG REFL garment PST release.
+(At last he became so heated that he released his cloak.)
+aesop: "At last he became so heated that he pulled off his cloak,"
+
+shia phei rena thape sorae phelo loa to wepu.
+3SG AWAY REL burn sun light give PST go.
+(He went away from the sun's burning light.)
+aesop: "and, to escape the blazing sunshine,"
+
+sio ruela ta shiro to whano. miona muo rena whelani shomelu miso to wapho.
+BESIDE path one tree PST stand. person INTO REL welcome shadow REFL PST throw.
+(A tree stood beside the road, and the man threw himself into its welcoming shade.)
+aesop: "threw himself down in the welcome shade of a tree by the roadside."
 ```
 
-**Notes:** Three adaptations. "Blow" has
-no word: the wind *came*, marked strong, which is what wind's blowing
-is. The famous correlative "the more… the more…" has no construction
-(Phi has no correlatives, by design), so it becomes two parallel `mo`
-sentences whose escalation the listener feels in the repetition.
-And "gave up" (a defeat idiom) becomes the cessative `te` followed
-by `therilu`, *rest*: the wind does not lose; it stops, and rests.
-Phi keeps declining to score the contest, and the story survives
-perfectly well.
+**Notes:** the sun does not perform at the traveler; he gives, `phelo loa`, the registry's shine-compound, whose event noun carries "beams" and "rays" without a dedicated word: the gentle light-giving, the light-giving grown warmer. The warming escalates the way the blowing did, in paired `mo` sentences, so the two contestants' efforts stand in the same grammatical shape and the listener can measure them fairly. The disrobing keeps the source's two stages: first `phae`, the cloak opened, hanging `luwi`, loose, on the shoulders; only later `leiro`, released entirely, the same verb the wager named, so the Sun wins the exact contest that was set. The cap is `koma wethalu`, the head-garment, built like the stocking's foot-garment; the brow softens to `menoa` (face), which is where a brow lives. "To escape" is `phei`, away-from, motion doing what English does with a fear-word, and the shade that receives him is a relative clause with a warm verb inside it: `rena whelani shomelu`, the shade that welcomes.
 
-### Scene 5 — The sun
-
-> *Then the Sun shone out warmly, and immediately the traveler took
-> off his cloak.*
+## lurekoi — The moral
 
 ```
-pheo [howeli therilu] sorae sulae phelo to loa.
-POST [wind rest] sun warm light PST give.
-(After the wind rested, the Sun gave warm light.)
+moli nela phena haolu lurekoi thola.
+gentle COORD kind speak fruit bring.
+(Gentleness and kind speech bring fruit.)
+aesop: "Gentleness and kind persuasion win"
 
-miona nosa wetha to leiro.
-person now cloth PST release.
-(At once, the person released the cloth.)
+puro nela theisa whuo lurekoi nai.
+strength COORD loud WITHOUT fruit be.
+(Force and bluster are without fruit.)
+aesop: "where force and bluster fail."
 ```
 
-**Notes:** "Shine" has no verb; the transmutation found something
-better: `phelo loa`, *to give light*. The sun does not perform at the
-traveler; it gives, the most Phi of all verbs, and the same `loa`
-that radiates love across the world in the Metta Sutta's eighth verse.
-The two texts are starting to quote each other.
-
-### Scene 6 — The acknowledgment
-
-> *And so the North Wind was obliged to confess that the Sun was the
-> stronger of the two.*
-
-```
-nitho howeli mena sorae mo kema nai meno to thekao.
-north wind DECL.COMP sun CMPR strong be DECL.COMP.CLOSE PST acknowledge.
-(The North Wind acknowledged that the Sun was the stronger.)
-```
-
-**Notes:** English needs "was obliged to confess": defeat performed
-with reluctance. Phi has `thekao`, *acknowledge*: the honest naming of
-what is so. No obligation, no humiliation; the wind simply says the
-true thing inside a properly closed `mena…meno` frame. It is the most
-dignified surrender in the fable's long history of translations.
-
-### The moral
-
-> *Gentleness and kind persuasion win where force and bluster fail.*
-
-```
-moli puro sharoi.
-gentle strength exceed.
-(Gentleness exceeds strength.)
-```
-
-**Notes:** Three words. `sharoi` is the value-neutral magnitude verb
-("exceeds as a fact of measure, not a claim of victory"), so the moral
-lands exactly as Aesop meant it and exactly as Phi insists: not
-*gentleness defeats strength*, but simply that, measured honestly,
-there is more of it.
+**Notes:** the moral keeps both of Aesop's pairs and none of his scoreboard. "Persuasion" is `phena haolu`, kind speech, the act itself rather than its effect on the listener; "bluster" is `theisa`, loudness, the quality the quarrel opened with. Winning and failing are contest words canon refuses, so the moral states what each pair yields: fruit, or no fruit, in the tenseless present of things that are simply true. The judgment was already delivered inside the story, in the same words: all the Wind's work was `whuo lurekoi`. Aesop's point is Phi's point; the language just removes the bluster from the telling, which is what the Sun does in the story.
 
 ---
 
@@ -159,50 +168,19 @@ there is more of it.
 ```
 nitho howeli nela sorae
 
-nitho howeli nela sorae [sua mo kema nai] to shareo.
+nitho howeli nela sorae sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
-[rena laniru thalo] miona to shua. shia sulae wetha to phelu.
+sorae shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. shia nosa wea laniru miona ta pelui theisa howeli to sepho.
 
-lo shia mena [rena nu ta miona wetha ka leiro] mo kema nai meno to haolu.
+roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia nosa roa miso wethalu to noshi phelu. howeli mo kema to whesu. miona wethalu mo kema to phelu. nitho howeli roe korua thero wethalu to natu. whekai theula shia theko whuo lurekoi to nai.
 
-nu ta nitho howeli ru kema to shua.
-whekai howeli mo kema to shua. miona wetha mo kema to phelu.
-nitho howeli to te shua. howeli to therilu.
+pheo thena sorae to pa phelo loa. mua thorui shia phelo loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. wethalu nia shia talua to luwi manolu. sorae phelo loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro. shia phei rena thape sorae phelo loa to wepu. sio ruela ta shiro to whano. miona muo rena whelani shomelu miso to wapho.
 
-pheo [howeli therilu] sorae sulae phelo to loa.
-miona nosa wetha to leiro.
-
-nitho howeli mena sorae mo kema nai meno to thekao.
-
-moli puro sharoi.
+moli nela phena haolu lurekoi thola. puro nela theisa whuo lurekoi nai.
 ```
 
 ---
 
-## Gap log
+## What the transmutation changed
 
-| Concept | Handling | Follow-up? |
-|---|---|---|
-| dispute / quarrel | `shareo` (discuss), the language cooled the scene | None; the shift is the philosophy working |
-| traveler | `[rena laniru thalo] miona` (one who walks a journey) | None; relatives keep outperforming category nouns |
-| cloak / garment | `sulae wetha` (warm cloth) | Resolved: `wethalu` (garment) exists; the fable's phrase stands as description |
-| wear / wrap in | `phelu` (hold) | Acceptable and resonant; revisit if clothing vocabulary grows |
-| blow (of wind) | `shua` (come) + strength adverbials | Resolved: `whesu` (blow) exists; the fable's phrasing stands as narrative style |
-| the more X, the more Y | paired `mo` sentences | Deliberate: Phi has no correlatives by design; the parallel form is canon |
-| give up | `te` (cessative) + `therilu` (rest) | None; Phi's version is kinder and loses nothing |
-| shine | `phelo loa` (give light) | Candidate for the compound registry |
-| win / stronger-of-two | `mo kema` + `thekao` (acknowledge) | None; contest vocabulary refused, story intact |
-
-## What this text shows
-
-1. **Narrative works.** Chained past-tense clauses with `to`, sequenced
-   by `pheo` and `whekai`, carry a plot with no strain: a register
-   the contemplative sutta does not visit.
-2. **Deep embedding works.** Scene 3's relative-inside-causative-
-   inside-`mena` is the deepest nesting on the shelf, and the
-   opener/closer system keeps it unambiguous on the first read.
-3. **The refusals compose.** No quarrel, no defeat, no victory
-   vocabulary, and the fable not only survives but arguably improves:
-   discussion, rest, acknowledgment, and a moral stated as measurement.
-   Aesop's point *is* Phi's point; the language just removes the
-   bluster from the telling, which is what the Sun does in the story.
+*Gap log: quarrel and disputing → `shareo` (discuss), canon's refusal of quarrel-words, with the scene's heat kept as `roe sheloi thero nela theisa haoni`, with much fire and loud voice; traveler → `rena laniru miona`, one who journeys; cloak → `wethalu`, the garment-word, worn as `roe wethalu se lomare`, wrapped in its embrace; "Let us agree" → the optative with `nawo`, agreement's own verb; strip → `leiro` (release), the letting-go verb, inside the wager's causative relative; growled → `roe keloa haoni`, with a rough voice, and "Very well" → `lia`, yes; blast → `ta pelui theisa howeli`, one cold loud wind, sent (`sepho`) rather than hurled; gust → `nu ta howeli`, the first wind; whipped → `tiripe` (quiver); the harder/the tighter → paired `mo` sentences, since Phi has no correlatives by design, and the Sun's warmer-and-warmer takes the identical shape; tore angrily → `roe korua thero ... natu`, pulled with heart-fire; in vain → `whuo lurekoi`, without fruit; shine → `phelo loa`, the registry's give-light, its event noun carrying beams and rays; unfastened and hanging loose → `phae` (open) then `luwi manolu` (stayed loose), keeping the two-stage disrobing distinct from the final `leiro`; cap → `koma wethalu`, the head-garment; brow → `menoa` (face); escape → `phei`, motion away; the welcome shade → `rena whelani shomelu`, the shade that welcomes; win and fail → refused with the rest of the contest vocabulary, the moral stated as what bears fruit and what is without it. Nothing was coined; every word was already in the lexicon.*
