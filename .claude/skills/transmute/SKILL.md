@@ -3,11 +3,13 @@ name: transmute
 version: 1.0.0
 description: |
   Transmute a source text into Phi: survey the source and the lexicon
-  thoroughly before drafting, favor coining or composing over
-  compressing away imagery, and structure the result as validated
-  example blocks with a gap log. Use for any new or revised file on
-  the texts shelf (pamphlets/*.md rendered to web/texts/), whether a
-  whole chapter or a single-line correction.
+  thoroughly before drafting, use Phi's grammar and vocabulary to
+  their fullest to recreate the source's full intent, and favor
+  coining or composing over compressing away imagery or settling for
+  a near-word. Structure the result as validated example blocks with
+  a gap log. Use for any new or revised file on the texts shelf
+  (pamphlets/*.md rendered to web/texts/), whether a whole chapter or
+  a single-line correction.
 compatibility: phi-repo (Claude Code)
 allowed-tools:
   - Read
@@ -24,7 +26,11 @@ allowed-tools:
 
 This skill exists because the first pass at News from Nowhere ch. 1 got the process wrong twice: once by compressing the original's imagery away by default, and once by trusting a vocabulary search that silently returned nothing when the words it was looking for were sitting in the lexicon the whole time. Both failures are avoidable if the steps below are followed in order, every time, including for a one-line fix.
 
-## The seven failures this skill guards against
+## The governing principle
+
+Phi is designed for full expressive parity with any natural language: it can specify anything other human languages can specify, given a deep enough search of its vocabulary, its compound registry, and its grammar. A transmutation takes full advantage of all three. The target is the source's full intent, its images, its stance, its irony, its pace, and its force, not a paraphrase of its plot. When a rendering comes out flat or generic, treat that as evidence of an incomplete search, never as a limit of the language: dig deeper before compressing, generalizing, or substituting a near-word, and reach for coining only once the search has genuinely been exhausted.
+
+## The eight failures this skill guards against
 
 1. **Compressing instead of checking.** An elm became generic `shiro` (tree). A crowded, stinking carriage became a bare "sad heart." A discussion's brisk pace and the Revolution it turned on were dropped entirely. In every case the missing word or construction was already in the lexicon; it had just never been searched for properly.
 2. **Trusting a negative search result.** A vocabulary-search script that expected each `vocabulary/**/*.json` file to be a list with an `entries` or `words` key silently returned zero hits for every single query, because each file is actually one JSON object. This nearly produced a false report that Phi lacked words for "brisk," "meeting," "revolution," and "vigorous." All four already existed.
@@ -33,8 +39,9 @@ This skill exists because the first pass at News from Nowhere ch. 1 got the proc
 5. **Letting a citation claim more than its own unit translates.** Two adjacent two-word sentences (`kohura ki nai`, `maeli ki nai`) shared one long, ellipsis-truncated citation instead of each getting the precise clause it translates, and a separate unit citing pure state ("he was alone," no verb of motion) carried the citation "took his way home by himself," attributing movement to a sentence that has none. The translation itself was complete; the citations made it look like the transmutation had dropped most of the sentence, because each excerpt promised far more than its own two or three words delivered. Daniel caught this by reading the shipped block, not by checking the source.
 6. **Merging two actions into one clause by attaching a manner word to the nearest verb instead of the right one.** "Having said good-night very amicably, took his way home" became `shia ... to noeli wepu`, "he went home, amicably," attaching `noeli` (warm) to `wepu` (go) instead of to the parting that was actually amicable. Nothing was dropped from the word search; the sentence just claimed something the source never says, that the journey itself was amicable, while the real amicable act had no verb of its own at all. Daniel: "One does not travel amicably. He said good-night amicably." This is compression wearing a different shape: not a missing word, but two distinct actions sharing one clause because the manner slot was sitting right there.
 7. **Letting the back-translation drift from what the Phi word actually says, in either direction.** `shia ki kapura.` was glossed `(He shouted.)`, though `kapura`'s own lexicon entry defines it as a cry "with sudden force, the voice breaking past its ordinary bounds," stronger than plain loudness, chosen specifically to carry "roaring out very loud." Daniel: "Please be more descriptive from now on. 'he shouted' isn't even close to 'and finished by roaring out very loud'." But the very next fix, in the same pass, overcorrected the other way: `shia mena lo miona tawimo nai meno haolu` (he said the others were foolish, `haolu` a plain, contentless verb of speech) got glossed `(He damned the rest of them as fools.)`, inventing a contempt the Phi does not contain to match Morris's "damning." Daniel: "You can't just pretend the Phi has words in it that it doesn't!! ... You are destroying the information from the Phi!" The real fix composed `thiku nila` (small-see, already in the lexicon as the compound for shame inflicted from outside) as its own sentence, giving the damning an actual Phi verb instead of dressing up the gloss of a verb that doesn't mean that. The test is the same in both directions: open the Phi word's own lexicon entry before writing the parenthetical English, and let the back-translation say exactly as much as that entry supports, no less and no more. If the source seems to need more than the current Phi carries, that is a signal to search, compose, or coin (see step 2 and 3), never to let the English gloss quietly say something the Phi sentence does not.
+8. **Settling for a flat rendering or a near-word on the assumption that Phi cannot say the thing.** "Finished by roaring out very loud" seemed to have no tool for "finished by" (no cessative fit, no discourse adverb fit) until `shareo lumae` (the discussion's end) composed it as a plain locative adjunct, reusing `lumae`, a word already doing separate work in the same chapter inside `sorae lumae` (the sun's end, west). "Damning all the rest for fools" was first rendered with `haolu` (speak), a plain verb with no contempt in it, when `thiku nila` (small-see) already stood in the compound registry as the act of contempt, named in `shame.json` as shame's own cousin. An amicable good-night had no verb of its own until `pholeni` (depart) turned out to bundle "the farewell spoken" into its own definition. "A man whom he knows very well indeed" was cut as unreachable until the pre-nominal relative clause carried it cleanly (`rena melu ru sano miona`). In every case the exact tool was already in the language before the question was asked; the gap was in the searching. Daniel, after the last of these: "ALWAYS use Phi's grammar to its fullest. That's the whole idea of the language! It can specify anything other human languages can specify. You just need to dig deep enough." A lazy substitution is not a smaller version of the right answer; it is a wrong answer that hides a findable right one.
 
-Everything below is built to catch these seven failures before they reach a file.
+Everything below is built to catch these eight failures before they reach a file.
 
 ## 1. Survey the source
 
@@ -48,6 +55,9 @@ This is the step most likely to be rushed, and rushing it is what caused the nea
 
 - Search across every file in `vocabulary/**/*.json` for each concept a sentence needs, checking the `gloss`, `description`, and `concept` fields. Each file is a single JSON object, not a list: a script expecting `entries` or `words` wrapper keys will silently return nothing. Sanity-check any script-based search with a direct `grep` for the plain English word before trusting a negative result.
 - Search generously: synonyms, related concepts, and a word's opposite (Phi sometimes carves a concept as the negation or opposite of an existing word rather than coining it fresh).
+- Read the full `description` fields of near-hits, not just their glosses. A word's definition often bundles exactly the act a sentence needs: `pholeni` (depart) carries "the farewell spoken" in its own entry, so an amicable good-night already has its verb.
+- Check whether a word already at work elsewhere in the text or corpus carries a second image that extends here: `lumae` (end) names the sun's end (`sorae lumae`, west) and equally the discussion's end (`shareo lumae`, "finished by"). A word spent on one image is not used up; its other senses stay available, and reusing one weaves the text tighter.
+- Check `documents/compounds.md` before concluding an act or quality has no word: the compound registry already holds many of them (`thiku nila`, small-see, contempt; `korua thero`, heart-fire, anger).
 - Check `documents/grammar/*.md` and `documents/taught_patterns.md` for constructions, not just single words: manner descriptors before the verb (P24), stacked adjectives before a noun (P05), possessor-first event-noun chains (P06), date-line time fragments (P25), the optative `su`, the counterfactual `lu he`, the clause-relators (`lao`, `pheo`, `phoe`, `shai`), embedded content questions (a gap-word like `hina`, `sua`, `kua` standing where the answer goes, no `wela`/`welo` needed, manual ch20 "Embedded content questions"). A missing single word is often not a real gap once the right construction is found.
 - A search returning no hits is not evidence a word doesn't exist. Verify the search itself before concluding anything.
 
