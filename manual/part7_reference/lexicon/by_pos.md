@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (165)
+## adjective (167)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -33,6 +33,7 @@
 | `kolu` | steady | Steady |
 | `koru` | harmonious | Harmonious |
 | `kuelo` | curious | Curious |
+| `kuenora` | strange | Strange |
 | `kumoli` | hungry | Hungry |
 | `kurathi` | dry | Dry |
 | `laeno` | long | Long |
@@ -158,6 +159,7 @@
 | `tumoa` | heavy | Heavy |
 | `waeli` | conscious | Conscious |
 | `waeshi` | wild | Wild |
+| `waolia` | wondrous | Wondrous |
 | `weilo` | balanced | Balanced |
 | `welao` | good | Good |
 | `welua` | fragile | Fragile |
@@ -261,7 +263,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (378)
+## noun (383)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -384,7 +386,9 @@
 | `miona` | person | Person |
 | `mioru` | beauty | Beauty |
 | `mirae` | eye | Eye |
+| `mirulo` | berry | Berry |
 | `misheko` | cat | Cat |
+| `misuki` | mouse | Mouse |
 | `moeli` | hearth | Hearth |
 | `moenu` | culture | Culture |
 | `moesu` | wax | Wax |
@@ -474,6 +478,7 @@
 | `philea` | feather | Feather |
 | `philo` | day | Day |
 | `philu` | candle | Candle |
+| `philuewa` | butterfly | Butterfly |
 | `phiora` | spirit | Spirit |
 | `phiralea` | blossom | Blossom |
 | `phirenu` | snow | Snow |
@@ -490,6 +495,7 @@
 | `phuliro` | stream | Stream |
 | `phuri` | brush | Brush |
 | `phuwai` | lung | Lung |
+| `piloe` | spot | Spot |
 | `piru` | trader | Trader |
 | `ponu` | door | Door |
 | `porua` | purpose | Purpose |
@@ -630,6 +636,7 @@
 | `wetha` | cloth | Cloth |
 | `wethalu` | garment | Garment |
 | `wheiluro` | mist | Mist |
+| `whekelua` | magic | Magic |
 | `whelina` | grass | Grass |
 | `wheo` | elder | Elder |
 | `whila` | hair | Hair |
@@ -748,7 +755,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (241)
+## verb (246)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -842,6 +849,7 @@
 | `nuhemi` | grieve | Grieve |
 | `nuhewa` | weep | Weep |
 | `nulae` | sleep | Sleep |
+| `numelia` | nestle | Nestle |
 | `numelo` | nurture | Nurture |
 | `numike` | negotiate | Negotiate |
 | `nuola` | eat | Eat |
@@ -863,6 +871,7 @@
 | `phelu` | hold | Hold |
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
+| `phimela` | kiss | Kiss |
 | `phiremo` | relate | Relate |
 | `phirena` | meditate | Meditate |
 | `phoa` | do | Do |
@@ -874,6 +883,7 @@
 | `pina` | sew | Sew |
 | `pisha` | split | Split |
 | `pothu` | stink | Stink |
+| `pukate` | break | Break |
 | `pula` | wish | Wish |
 | `puse` | spit | Spit |
 | `rashelo` | run | Run |
@@ -964,6 +974,7 @@
 | `thumela` | teach | Teach |
 | `thuo` | prosper | Prosper |
 | `thuroa` | grow | Grow |
+| `tiripe` | quiver | Quiver |
 | `tiwa` | tie | Tie |
 | `tupi` | jump | Jump |
 | `turema` | return | Return |
@@ -985,6 +996,7 @@
 | `whenola` | wander | Wander |
 | `whesu` | blow | Blow |
 | `whinu` | smell | Smell |
+| `whishela` | whisper | Whisper |
 | `whola` | invite | Invite |
 | `whori` | mend | Mend |
 | `whunei` | breathe | Breath |

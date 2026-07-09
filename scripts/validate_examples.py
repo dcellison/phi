@@ -562,6 +562,9 @@ CITATION_SOURCES = {
     "pamphlets/news_from_nowhere_ch1.md": (
         "morris", "pamphlets/sources/news_from_nowhere.txt"
     ),
+    "pamphlets/velveteen_rabbit.md": (
+        "williams", "pamphlets/sources/velveteen_rabbit.txt"
+    ),
 }
 
 

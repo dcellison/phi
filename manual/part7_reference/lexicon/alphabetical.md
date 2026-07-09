@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*917 words.*
+*929 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -134,6 +134,7 @@
 | `kowela` | council | /ko̞.ˈwe̞.lä/ | noun |
 | `kua` | where | /ˈku.ä/ | interrogative |
 | `kuelo` | curious | /ku.ˈe̞.lo̞/ | adjective |
+| `kuenora` | strange | /ku.e̞.ˈn̪o̞.rä/ | adjective |
 | `kulai` | tooth | /ku.ˈlä.i/ | noun |
 | `kulo` | guide | /ˈku.lo̞/ | verb |
 | `kuma` | drum | /ˈku.mä/ | noun |
@@ -265,10 +266,12 @@
 | `mioru` | beauty | /mi.ˈo̞.ru/ | noun |
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
+| `mirulo` | berry | /mi.ˈru.lo̞/ | noun |
 | `misa` | why | /ˈmi.sä/ | interrogative |
 | `misheko` | cat | /mi.ˈʃe̞.ko̞/ | noun |
 | `mishoa` | express | /mi.ˈʃo̞.ä/ | verb |
 | `miso` | REFL | /ˈmi.so̞/ | pronoun |
+| `misuki` | mouse | /mi.ˈsu.ki/ | noun |
 | `mo` | CMPR | /ˈmo̞/ | particle |
 | `moeli` | hearth | /mo̞.ˈe̞.li/ | noun |
 | `moenu` | culture | /mo̞.ˈe̞.n̪u/ | noun |
@@ -391,6 +394,7 @@
 | `nulo` | deep | /ˈn̪u.lo̞/ | adjective |
 | `nuloe` | content | /n̪u.ˈlo̞.e̞/ | adjective |
 | `nulomi` | guts | /n̪u.ˈlo̞.mi/ | noun |
+| `numelia` | nestle | /n̪u.me̞.ˈli.ä/ | verb |
 | `numelo` | nurture | /n̪u.ˈme̞.lo̞/ | verb |
 | `numike` | negotiate | /n̪u.ˈmi.ke̞/ | verb |
 | `nunoa` | forager | /n̪u.ˈn̪o̞.ä/ | noun |
@@ -470,6 +474,8 @@
 | `philea` | feather | /ɸi.ˈle̞.ä/ | noun |
 | `philo` | day | /ˈɸi.lo̞/ | noun |
 | `philu` | candle | /ˈɸi.lu/ | noun |
+| `philuewa` | butterfly | /ɸi.lu.ˈe̞.wä/ | noun |
+| `phimela` | kiss | /ɸi.ˈme̞.lä/ | verb |
 | `phina` | FEW | /ˈɸi.n̪ä/ | quantifier |
 | `phiora` | spirit | /ɸi.ˈo̞.rä/ | noun |
 | `phirae` | different | /ɸi.ˈrä.e̞/ | adjective |
@@ -504,6 +510,7 @@
 | `phuwai` | lung | /ɸu.ˈwä.i/ | noun |
 | `pi` | POL | /ˈpi/ | particle |
 | `pilewa` | make | /pi.ˈle̞.wä/ | verb |
+| `piloe` | spot | /pi.ˈlo̞.e̞/ | noun |
 | `pilu` | take | /ˈpi.lu/ | verb |
 | `pina` | sew | /ˈpi.n̪ä/ | verb |
 | `pio` | hehe | /ˈpi.o̞/ | interjection |
@@ -515,6 +522,7 @@
 | `porua` | purpose | /po̞.ˈru.ä/ | noun |
 | `pothu` | stink | /ˈpo̞.θu/ | verb |
 | `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
+| `pukate` | break | /pu.ˈkä.t̪e̞/ | verb |
 | `pukea` | danger | /pu.ˈke̞.ä/ | noun |
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb |
@@ -813,6 +821,7 @@
 | `ti` | REP | /ˈt̪i/ | particle |
 | `tinoa` | dye | /t̪i.ˈn̪o̞.ä/ | noun |
 | `tipika` | fingernail | /t̪i.ˈpi.kä/ | noun |
+| `tiripe` | quiver | /t̪i.ˈri.pe̞/ | verb |
 | `tiroe` | instant | /t̪i.ˈro̞.e̞/ | noun |
 | `tiso` | sharp | /ˈt̪i.so̞/ | adjective |
 | `tisu` | needle | /ˈt̪i.su/ | noun |
@@ -843,6 +852,7 @@
 | `waeshi` | wild | /wä.ˈe̞.ʃi/ | adjective |
 | `wakomi` | surprise | /wä.ˈko̞.mi/ | verb |
 | `wao` | wow | /ˈwä.o̞/ | interjection |
+| `waolia` | wondrous | /wä.o̞.ˈli.ä/ | adjective |
 | `wapho` | throw | /ˈwä.ɸo̞/ | verb |
 | `wapi` | fly | /ˈwä.pi/ | verb |
 | `wapile` | wing | /wä.ˈpi.le̞/ | noun |
@@ -882,6 +892,7 @@
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
 | `wheiluro` | mist | /ʍe̞.i.ˈlu.ro̞/ | noun |
 | `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
+| `whekelua` | magic | /ʍe̞.ke̞.ˈlu.ä/ | noun |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |
 | `whelina` | grass | /ʍe̞.ˈli.n̪ä/ | noun |
@@ -894,6 +905,7 @@
 | `whilaru` | comb | /ʍi.ˈlä.ru/ | noun |
 | `whilo` | white | /ˈʍi.lo̞/ | adjective |
 | `whinu` | smell | /ˈʍi.n̪u/ | verb |
+| `whishela` | whisper | /ʍi.ˈʃe̞.lä/ | verb |
 | `whoa` | whole | /ˈʍo̞.ä/ | adjective |
 | `whola` | invite | /ˈʍo̞.lä/ | verb |
 | `whori` | mend | /ˈʍo̞.ri/ | verb |
