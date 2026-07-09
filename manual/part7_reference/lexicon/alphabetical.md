@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*916 words.*
+*917 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -556,6 +556,7 @@
 | `rotiku` | dance | /ro̞.ˈt̪i.ku/ | verb |
 | `ru` | INTS | /ˈru/ | particle |
 | `ruela` | path | /ru.ˈe̞.lä/ | noun |
+| `ruelami` | adventure | /ru.e̞.ˈlä.mi/ | noun |
 | `ruemi` | lie down | /ru.ˈe̞.mi/ | verb |
 | `ruesha` | compassionate | /ru.ˈe̞.ʃä/ | adjective |
 | `ruka` | complex | /ˈru.kä/ | adjective |

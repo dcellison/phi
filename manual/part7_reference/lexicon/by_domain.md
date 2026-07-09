@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (53)
+## activity (54)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -45,6 +45,7 @@
 | `rohi` | rub | Friction as care |
 | `roke` | move | fundamental human activity of moveing |
 | `rotiku` | dance | fundamental human activity of dancing |
+| `ruelami` | adventure | The journey into the unknown |
 | `ruemi` | lie down | Lowering the body to rest |
 | `sawa` | wash | Water-cleansing as daily craft |
 | `selomi` | weave | fundamental human activity of weaving |
@@ -1428,7 +1429,7 @@
 | `womu` | home | the place of dwelling and belonging |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (125)
+## temporal (126)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1507,6 +1508,7 @@
 | `reshi` | fast | High speed |
 | `rihe` | rise | The shape of beginnings |
 | `rolu` | wheel | Cyclical motion |
+| `ruelami` | adventure | Days given to the unmapped |
 | `runae` | resin | Preserving substance |
 | `sahu` | forget | What time does to the unrehearsed |
 | `selu` | flow | transforms time experience into rhythmic continuous phenomena |
