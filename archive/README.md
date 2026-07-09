@@ -41,6 +41,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `questions_audit.md` | The survey behind the gap-word ruling (2026-07-06): in-situ questions taught twice and ruled nowhere, the manual counting six askers of seven, and wia wearing the wrong gloss; the ruling lives in `/canon.md` |
 | `trade_economy_audit.md` | The survey behind the economy-is-a-gift ruling (2026-07-06): the hands' verbs complete and mutual, worth carved, the market a day rather than a noun, and the price refusal real everywhere but ruled nowhere; the ruling lives in `/canon.md` |
 | `metta_companion/` | The 11-part reader's companion to *lothea thole* (2026-07-05), retired 2026-07-09: the texts-shelf redo rebuilt the text under its verse-by-verse walk, and the texts carry their own glosses, notes, and gap logs; cross-references repointed to the text itself |
+| `teacher_tool/` | The transmutation teacher (teacher.html, its engine, and its pattern data; 2026-07-06), taken off the site 2026-07-09 pending a redesign; `documents/taught_patterns.md`, which fed it, remains current |
 | `writing-system/` | (moved 2026-07-05) The Mayan-inspired glyph exploration began development and moved to `/writing_systems/`, joining the Tengwar mode recovered from the 2021 LaTeX manual in git history |
 | `word-workflow.md` | The original multi-pass coining process, superseded by the Word Creation Protocol in `/CLAUDE.md` |
 | `NUMERAL_SYSTEM_GAPS.md` | January 2026 numeral analysis, resolved by `documents/grammar/numeral_reference.md` |
