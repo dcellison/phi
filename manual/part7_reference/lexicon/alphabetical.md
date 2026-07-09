@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*913 words.*
+*914 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -582,6 +582,7 @@
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
+| `shalimo` | alliance | /ʃä.ˈli.mo̞/ | noun |
 | `shalu` | fish | /ˈʃä.lu/ | noun |
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
