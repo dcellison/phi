@@ -558,6 +558,53 @@ def slot1_misorders(tokens):
     return bad
 
 
+CITATION_SOURCES = {
+    "pamphlets/news_from_nowhere_ch1.md": (
+        "morris", "pamphlets/sources/news_from_nowhere.txt"
+    ),
+}
+
+
+def check_citations():
+    """Source citations are ground truth: every fragment of every
+    citation line must appear verbatim in the stored source text, and
+    no two units may share the same citation (each unit cites exactly
+    the clause it translates). Ellipses mark omissions and split a
+    citation into independently verified fragments; hyphenated line
+    breaks in the source are rejoined before matching."""
+    errors = []
+    for doc_rel, (prefix, src_rel) in CITATION_SOURCES.items():
+        doc_path = PROJECT_ROOT / doc_rel
+        src_path = PROJECT_ROOT / src_rel
+        if not doc_path.exists() or not src_path.exists():
+            errors.append(f"{doc_rel}: citation source {src_rel} missing")
+            continue
+        src = src_path.read_text(encoding="utf-8").replace("-\n", "-")
+        src_norm = " ".join(src.split())
+        seen = {}
+        pattern = re.compile(rf'^{re.escape(prefix)}: "(.*)"$', re.M)
+        text = doc_path.read_text(encoding="utf-8")
+        for m in pattern.finditer(text):
+            cite = m.group(1)
+            lineno = text.count("\n", 0, m.start()) + 1
+            if cite in seen:
+                errors.append(
+                    f"{doc_rel}:{lineno}: citation shared with line "
+                    f"{seen[cite]}: \"{cite[:50]}\" (each unit cites "
+                    f"exactly the clause it translates)"
+                )
+            else:
+                seen[cite] = lineno
+            for frag in cite.replace('\\"', '"').split("..."):
+                frag_norm = " ".join(frag.split())
+                if frag_norm and frag_norm not in src_norm:
+                    errors.append(
+                        f"{doc_rel}:{lineno}: citation fragment not "
+                        f"verbatim in {src_rel}: \"{frag_norm[:60]}\""
+                    )
+    return errors
+
+
 def preposition_misplacements(raw_line, prepositions):
     """The detectable half of the postposed-relator error. Canon rules
     that every preposition precedes its object and never moves, so a
@@ -910,6 +957,8 @@ def main():
             if "preposition" in (d.get("pos") or [])
         }
         errors.extend(check_docs(lexicon_words, args.paths, gloss_of, prepositions))
+        if not args.paths:
+            errors.extend(check_citations())
 
     for e in errors:
         print(f"ERROR   {e}")
