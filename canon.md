@@ -437,6 +437,16 @@ These were explicitly decided and should not silently fork again:
   caused event. `ka ma` denies the causation itself (`mia lopia to ka
   ma nulae`, I did not make the child sleep); caused refraining is
   said with its own verb or two clauses.
+- **Aspect under `ka` describes the causing** (settled 2026-07-09):
+  Slot 1 particles describe their own clause's event, and in a
+  causative clause that event is the act of causing — `to ro ka wepu`
+  can only mean that the making-go recurs. An aspect that belongs to
+  what the caused ones themselves do moves out of the cluster, into
+  its own clause (`punoa roe nurako lo miona to ka wepu. ha wepu keno
+  to kelu.` — society made people go by railway; this going became a
+  custom) or into a word that carries the repetition. Ruled from the
+  News from Nowhere railway line: civilization does nothing
+  habitually.
 - **`li` is a fence, not a sigh** (settled 2026-07-05): `li` restricts
   identity — `li shia sano` (only they know), `li nosa` (only now) —
   and is refused on quantities: exact counts and `henoi` carry
