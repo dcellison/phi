@@ -72,12 +72,12 @@ morris: "if they did not listen to each others' opinions (which could scarcely b
 
 rena melu ru sano miona mua shareo thorui maeli meilo.
 REL friend INTS know person LOC discuss beginning quiet sit.
-(The person the friend knows well sat quiet at the discussion's beginning.)
+(The person the friend knows well sat almost silent at the discussion's beginning.)
 morris: "One of the sections, says our friend, a man whom he knows very well indeed, sat almost silent at the beginning of the discussion,"
 
 whekai shia muo shareo se natu.
 CONTR 3SG INTO discuss PASS pull.
-(However, he was drawn into the discussion.)
+(However, he was drawn into the discussion at last.)
 morris: "but at last got drawn into it,"
 
 shia korua thero to nai.
@@ -87,12 +87,12 @@ morris: "and finished by roaring out very loud,"
 
 shia ki kapura.
 3SG PFV shout.
-(He shouted.)
+(He roared out, loud and forceful.)
 morris: "and finished by roaring out very loud,"
 
 shia mena lo miona tawimo nai meno haolu.
 3SG DECL.COMP PL person foolish be DECL.COMP.CLOSE speak.
-(He said the others were foolish.)
+(He damned the rest of them as fools.)
 morris: "and damning all the rest for fools."
 ```
 
@@ -151,7 +151,7 @@ morris: "the hot room and the stinking railway carriage"
 
 shia phea lo miona wipha to nai.
 3SG AS PL person restless PST be.
-(He, like other people, was restless.)
+(He, like other people, stewed restlessly.)
 morris: "he, like others, stewed discontentedly"
 
 shia rena shia shareo mua to ki sahu sheloi tiso remo ki nupira themio.
@@ -191,7 +191,7 @@ morris: "\"If I could but see a day of it,\" he said to himself; \"if I could bu
 
 shia ki kamo.
 3SG PFV arrive.
-(He arrived.)
+(He arrived at last.)
 morris: "As he formed the words, the train stopped at his station"
 
 womu sio luphore leo suro repha to nai.
