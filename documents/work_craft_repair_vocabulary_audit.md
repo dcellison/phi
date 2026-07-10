@@ -6,6 +6,8 @@
 
 This audit was conducted against Phi's 937-entry pre-module inventory to determine what could support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It now serves as the before-state and concept inventory for a future vocabulary pass.
 
+The later [Systems and Shared Infrastructure module](modules/systems_and_shared_infrastructure.md) now supplies optional terms for components, functions, states, dependencies, capacity, technical load, calibration, faults, failures, inspection, reliability, hazards, and specifications. Those additions resolve several lexical absences recorded below but do not settle work-specific questions of tasks, authority, competence, consent, acceptance, safe return to use, labor conditions, or responsibility. The active Work profile records the current cross-module division.
+
 The audit is not a list of English headwords to translate. A missing term matters only when connected Phi use cannot preserve the needed distinction through ordinary clauses, an existing conversion, a source-faithful external form, or a deliberate refusal to conventionalize it.
 
 ## Findings at a Glance

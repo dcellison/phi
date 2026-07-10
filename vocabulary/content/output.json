@@ -1,0 +1,29 @@
+{
+  "word": "thirulo",
+  "gloss": "output",
+  "ipa": "/θi.ˈru.lo̞/",
+  "syllables": [
+    "thi",
+    "ru",
+    "lo"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Output / Matter, Energy, or Information Leaving a System",
+  "description": "Matter, energy, information, or another defined effect that a process produces, releases, or makes available across a selected system boundary. Something is an output only relative to a stated system and analysis; it is not automatically useful, intended, harmless, final, or evidence that the system performed well.",
+  "sound_symbolism": "Bright 'thi' opens a visible departure, 'ru' carries it across the boundary, and flowing 'lo' lets the result continue into another place or system. The compact form contrasts strongly with the longer inward sound of 'koemari'.",
+  "grammatical_notes": "A countable or mass noun, commonly possessed by the producing system: 'ha kenua ha terulora thirulo nai.' (The energy is this system's output.) State recipient, destination, amount, and effects separately when needed. Deliberately dissimilar from 'koemari' (input), its conceptual opposite.",
+  "pillars": {
+    "solarpunk-values": "Output language makes useful products, waste, heat, emissions, and information equally available for accounting rather than noticing only desired results.",
+    "pre-industrial-wisdom": "A process is understood through everything that leaves it, including remnants and side effects as well as the intended work."
+  },
+  "tags": {
+    "activity": "something produced or released by a process",
+    "cognition": "information or effect classified relative to an analytical boundary",
+    "physical": "matter or energy crossing out of a selected system"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

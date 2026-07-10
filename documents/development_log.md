@@ -25,7 +25,7 @@ Implementation status, dependencies, optional evaluation work, and the next deve
 | D007 | Accepted | Describe design intentions as intentions. | Phi invites deliberate and cooperative practice but does not claim to make speakers peaceful, prove a cognitive effect, or be universally easy to learn. |
 | D008 | Accepted | Treat modifier-first as the organizing principle. | The phrase remains the best mnemonic, but teaching must also name the particle system, frame rules, classifiers, conversions, and numeral system that learners actually encounter. |
 | D009 | Accepted | Let `ne` license productive Phi-form names. | A chosen two-, three-, or four-syllable Phi-shaped onym may follow `ne` without becoming a lexicon entry. This gives names an open class while retaining guest frames for five-or-more-syllable, multi-token, or otherwise non-onym adaptations and exact frames for source-faithful forms. |
-| D010 | Accepted | Treat practice and domain modules as optional lexical layers under one grammar. | Eight active profiles organize shared resources without moving them from the lexicon. Module terms are ordinary canonical content entries with validated `modules` metadata; Philosophical Reasoning establishes the generated-index and Part VII teaching pattern with 22 words. Profiles add no grammar or parser mode. |
+| D010 | Accepted | Treat practice and domain modules as optional lexical layers under one grammar. | Eight active profiles organize shared resources without moving them from the lexicon. Module terms are ordinary canonical content entries with validated `modules` metadata; Philosophical Reasoning establishes the generated-index and Part VII teaching pattern with 22 words, and Systems and Shared Infrastructure applies it with 25. Profiles add no grammar or parser mode. |
 | D011 | Accepted | Treat the word-creation protocol as a quality checklist rather than an external admission gate. | The maintainer may coin a word because its concept is useful, valued, beautiful, or worth making easy to express. Every entry still requires complete schema fields, semantic scope and contrasts, sound and collision checks, examples, and synchronized references. |
 
 ## Release milestones
@@ -36,7 +36,7 @@ This release contains the two external frames, validator and rendering support, 
 
 ### Phi 2026.2: productive names and optional vocabulary modules
 
-This release makes proper names productive under `ne` without adding a new particle or treating names as vocabulary. It also establishes optional lexical modules under one grammar and begins Philosophical Reasoning with a complete vocabulary pass. New words require implementation quality, not external proof of necessity. Any breaking lexical rename still requires recorded listening evidence and a migration table.
+This release makes proper names productive under `ne` without adding a new particle or treating names as vocabulary. It also establishes optional lexical modules under one grammar and gives Philosophical Reasoning and Systems and Shared Infrastructure complete vocabulary passes. New words require implementation quality, not external proof of necessity. Any breaking lexical rename still requires recorded listening evidence and a migration table.
 
 ## Requires external evidence
 

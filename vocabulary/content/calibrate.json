@@ -1,0 +1,30 @@
+{
+  "word": "masukiro",
+  "gloss": "calibrate",
+  "ipa": "/mä.su.ˈki.ro̞/",
+  "syllables": [
+    "ma",
+    "su",
+    "ki",
+    "ro"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Calibrate / Compare and Relate an Instrument to a Reference",
+  "description": "To compare a measuring or signaling device with a stated reference and establish, check, or adjust the relation between its indication and the reference under stated conditions. The event-noun rule supplies calibration. Calibration does not certify every measurement, remove uncertainty, establish traceability without a source chain, or prove that the reference, method, or device suits the intended decision.",
+  "sound_symbolism": "Measured 'masu' recalls laying one thing alongside another, while precise 'kiro' brings the comparison into a clear relation. The balanced halves suit a practice that always requires both instrument and reference.",
+  "grammatical_notes": "A transitive verb: 'mia ha keli masukiro.' (I calibrate this device.) Name the reference, conditions, date, and exact result separately where required. The event-noun rule supplies calibration. Distinct from 'masue' (measure), 'theali' (fitting), 'telua' (accurate), and 'nilakiro' (inspect).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Calibration treats measurement as a maintained relation with conditions and uncertainty rather than an unconditioned revelation of fact.",
+    "pre-industrial-wisdom": "Reliable craft has long depended on checking tools against known references and recording when that relation changes."
+  },
+  "tags": {
+    "activity": "comparison and adjustment of a device against a reference",
+    "cognition": "a practice that establishes how an indication relates to a reference",
+    "creation": "maintenance of measuring and signaling tools"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

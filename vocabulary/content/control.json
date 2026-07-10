@@ -1,0 +1,30 @@
+{
+  "word": "ketorami",
+  "gloss": "control",
+  "ipa": "/ke̞.t̪o̞.ˈrä.mi/",
+  "syllables": [
+    "ke",
+    "to",
+    "ra",
+    "mi"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Control / Constrain or Adjust a Technical Process Toward a State",
+  "description": "To cause, constrain, or adjust a technical process or system state toward a selected condition or range by acting on one or more variables. The event-noun rule supplies technical control. This module sense does not apply unmarked to governing, coercing, commanding, or possessing people, and control does not establish authority, safety, accuracy, or success.",
+  "sound_symbolism": "Firm 'keto' begins with deliberate intervention, 'ra' grounds the selected range, and 'mi' gathers several changing conditions without suggesting domination. The measured cadence suits adjustment rather than force.",
+  "grammatical_notes": "A transitive verb with the controlling component or process as subject: 'ha monakeli phialu selu ketorami.' (This component controls the water flow.) The event-noun rule supplies control. Distinct from the causative 'ka', 'kulo' (guide), 'theluo' (steward), and any claim of authority over a person or community.",
+  "pillars": {
+    "solarpunk-values": "Transparent control relations let communities examine how infrastructure responds, who selects its target conditions, and who bears unintended effects.",
+    "peace-linguistics-practices": "Restricting the unmarked module sense to technical variables prevents a systems metaphor from making domination of people sound neutral or inevitable."
+  },
+  "tags": {
+    "activity": "adjustment or constraint of a technical process",
+    "cognition": "control depends on a selected state or range rather than an unspecified desire",
+    "creation": "a designed relation used to influence system behavior"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

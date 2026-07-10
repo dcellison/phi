@@ -1,0 +1,30 @@
+{
+  "word": "nilakiro",
+  "gloss": "inspect",
+  "ipa": "/n̪i.lä.ˈki.ro̞/",
+  "syllables": [
+    "ni",
+    "la",
+    "ki",
+    "ro"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Inspect / Systematically Examine Condition Against Criteria",
+  "description": "To examine a component, system, material, or completed work systematically in order to identify its condition and compare observations with stated criteria. The event-noun rule supplies inspection. Inspection does not itself repair, test every hidden property, certify compliance, approve use, guarantee safety, or grant the inspector authority beyond the stated task.",
+  "sound_symbolism": "Seeing 'nila' opens the word, and precise 'kiro' narrows attention to an ordered examination. The two balanced halves join observation with criteria rather than allowing either to stand alone.",
+  "grammatical_notes": "A transitive verb: 'mia ha terulora nilakiro.' (I inspect this system.) Name the criteria, method, scope, findings, and source authority separately when they matter. The event-noun rule supplies inspection. Distinct from 'nila' (see), 'morae' (sense), 'masue' (measure), 'masukiro' (calibrate), and approval for service.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Inspection practices deliberate attention while keeping observation separate from certainty, judgment, and permission.",
+    "pre-industrial-wisdom": "Careful examination before and after work joins embodied observation to explicit standards of craft and upkeep."
+  },
+  "tags": {
+    "activity": "systematic examination of condition against criteria",
+    "cognition": "a structured relation among observations, scope, and assessment",
+    "creation": "a practice supporting maintenance, repair, and checked workmanship"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

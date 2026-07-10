@@ -1,6 +1,6 @@
 # Lexicon Expansion Survey (2026-07-10)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 959 entries: 825 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 984 entries: 850 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or the guest/exact external registers. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -39,13 +39,19 @@ These domains matter to Phi's intended philosophical and solarpunk-oriented use.
 
 The [Philosophical Reasoning module](modules/philosophical_reasoning.md) now establishes 22 optional terms for claims, premises, conclusions, arguments, objections, evidence, reasons, inference, entailment, validity, contradiction, consistency, examples, counterexamples, refutation, definition, criteria, concepts, doubt, confidence, tradeoffs, and compromise.
 
-The pass retains priority, standpoint, soundness, necessary and sufficient conditions, and suspension of judgment as transparent compositions. Systems, feedback, emergence, correlation, degrees of inference strength, and additional responsibility distinctions remain open for later profile passes or ordinary philosophical use.
+The pass retains priority, standpoint, soundness, necessary and sufficient conditions, and suspension of judgment as transparent compositions. Emergence, correlation, degrees of inference strength, and additional responsibility distinctions remain open for later profile passes or ordinary philosophical use; system and feedback terminology now belongs to the Systems and Shared Infrastructure module.
+
+### Systems and shared infrastructure: first pass complete
+
+The [Systems and Shared Infrastructure module](modules/systems_and_shared_infrastructure.md) now establishes 25 optional terms for systems, components, interfaces, functions, states, dependencies, inputs, outputs, transfers, signals, technical control, feedback, capacity, load, storage, efficiency, calibration, faults, failures, outages, redundancy, inspection, reliability, hazards, and specifications.
+
+The pass retains system boundary, subsystem, shared infrastructure, infrastructure service, pathway, technical threshold, tolerance, maintenance interval, service state, failure mode, and compliance as transparent compositions. Standards, formulas, exact conversions, versioned specifications, and feedforward terminology remain exact external material when source identity matters. Ownership, authority, allocation, public obligation, operator roles, and accountability remain coordinated with Commons and Work rather than being smuggled into technical definitions.
 
 ### Ecological systems and material life
 
-Phi has earth/soil, water, forest, garden, energy, repair, regeneration, stewardship, and commons. It has no conventional core terms for climate, pollution, waste, resource flow, habitat, biodiversity, infrastructure, electricity, storage, or a system in the technical sense.
+Phi has earth/soil, water, forest, garden, energy, repair, regeneration, stewardship, and commons. Shared core still lacks climate, pollution, waste, habitat, biodiversity, infrastructure, and electricity, while the optional Systems module now supplies system, input, output, transfer, storage, capacity, feedback, hazard, and related technical distinctions without turning them into required general vocabulary.
 
-The corpus explores this frontier through a watershed source scenario and a fallen-tree material-return scenario. The [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md) now supplies the starting inventory for a vocabulary pass over watershed, pollution, runoff, habitat, decomposition, biodiversity, system boundary, pathway, scale, monitoring, climate, heat and cooling, waste streams, habitat change, and technical interpretation.
+The corpus explores this frontier through a watershed source scenario and a fallen-tree material-return scenario. The [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md) now supplies the starting inventory for a vocabulary pass over watershed, pollution, runoff, habitat, decomposition, biodiversity, ecological boundaries, pathways, scale, monitoring, climate, heat and cooling, waste streams, habitat change, and technical interpretation while reusing the Systems module where its definitions fit.
 
 ### Civic, economic, and institutional life
 
@@ -55,9 +61,9 @@ This is a high-priority vocabulary family because a community cannot discuss a c
 
 ### Work, craft, and repair
 
-Phi has unusually dense concrete coverage for workshops, tools, materials, making processes, physical qualities, teaching, learning, repair, restoration, and maintenance. Work organization and political economy are much thinner: task, assignment, delegation, supervision, handoff, qualification, inspection, workload, wage, contract, ownership, and final responsibility have no conventional core treatment.
+Phi has unusually dense concrete coverage for workshops, tools, materials, making processes, physical qualities, teaching, learning, repair, restoration, and maintenance. The Systems module now provides inspection, specification, fault, failure, hazard, reliability, and related technical terms, but work organization and political economy remain much thinner: task, assignment, delegation, supervision, handoff, qualification, workload, wage, contract, ownership, and final responsibility have no conventional treatment.
 
-The [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md), [the wheel, the chisel, and the promised repair](philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair), and the [Work, Craft, and Repair profile](modules/work_craft_and_repair.md) provide a detailed starting inventory. Its vocabulary pass can address authority, task structure, competence, safety material, inspection, safe return to use, assignment, delegation, handoff, qualification, workload, wage, contract, and ownership.
+The [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md), [the wheel, the chisel, and the promised repair](philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair), and the [Work, Craft, and Repair profile](modules/work_craft_and_repair.md) provide a detailed starting inventory. Its vocabulary pass can reuse `nilakiro` inspection and the other technical module terms while addressing authority, task structure, competence, approval and safe return to use, assignment, delegation, handoff, qualification, workload, wage, contract, and ownership.
 
 This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. New module words should make drudgery, coercion, exploitation, unsafe instruction, unwanted labor, and imposed liability discussable rather than preserving only the agreeable side of work.
 

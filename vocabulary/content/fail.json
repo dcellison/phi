@@ -1,0 +1,30 @@
+{
+  "word": "thonureki",
+  "gloss": "fail",
+  "ipa": "/θo̞.n̪u.ˈre̞.ki/",
+  "syllables": [
+    "tho",
+    "nu",
+    "re",
+    "ki"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Fail / Lose or Not Perform a Required Technical Function",
+  "description": "For a component or system to lose, cease, or be unable to perform a stated required function under stated conditions. Through the event-noun rule the word also names a technical failure. Failure may occur without physical breakage and does not by itself identify a fault, cause, responsible person, unsafe condition, or permanent loss.",
+  "sound_symbolism": "Deliberate 'tho' opens on an expected operation, 'nu' turns away from its continuation, and precise 'reki' marks the point where the requirement is not met. The word is firm but not condemnatory.",
+  "grammatical_notes": "An intransitive verb: 'ha monakeli to thonureki.' (This component failed.) State the required function and conditions where context does not supply them. The event-noun rule supplies failure. Distinct from 'pukate' (break), 'keliphira' (fault), 'kanelu' (err), and any judgment that a person is a failure.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Failure is treated as a conditioned event that can be observed and investigated, not as a permanent essence.",
+    "peace-linguistics-practices": "The word names unmet technical function without converting a system event into condemnation of a worker, user, or community."
+  },
+  "tags": {
+    "activity": "loss or absence of a required technical function",
+    "cognition": "a classification that requires a stated function and conditions",
+    "creation": "an event relevant to design, maintenance, and repair"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}
