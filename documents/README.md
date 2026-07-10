@@ -30,7 +30,7 @@ This directory contains Phi's current language references, development methods, 
 
 ## Practice Profiles
 
-[Phi profiles](modules/) organize shared core resources for bounded fields without adding grammar, parser modes, or private lexicons. The profile catalogue records active profiles, proposed profiles, cross-module areas, and the evidence gate for each addition.
+[Phi profiles](modules/) organize shared core resources for bounded fields without adding grammar, parser modes, or private lexicons. The [profile catalogue](modules/README.md) records active profiles, formal proposals, cross-module areas, and the evidence gate for each addition, while [Potential Profile Explorations](modules/potential_profile_explorations.md) keeps scenario-first possibilities separate from approved work.
 
 ## Releases and Baselines
 
