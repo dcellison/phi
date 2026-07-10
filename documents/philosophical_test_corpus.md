@@ -795,6 +795,258 @@ No new root follows from this accountability scenario. It changes the question f
 
 Together, these scenarios provide the evidence basis for the zero-new-root [Commons and Collective Governance profile](modules/commons_and_collective_governance.md). They show that Phi can state resources, needs, contributions, commitments, failures, refusals, repair, fairness, justice, and collective action while remaining thin in authority, institutional role, decision procedure, allocation criteria, accountability, and review. The profile organizes those shared resources without turning `kowela`, `laenu`, `thua`, `theloma`, `thonai`, or plural `we` into an unstated constitution.
 
+## 13. The river above and below the workshop
+
+This scenario tests watershed reasoning, pollution evidence, and exact scientific carriage without assuming that measurements identify a source. A workshop and a field are both near a stream that connects to a river. Fish have died, dye was seen flowing from the workshop, rain fell, water flowed from the field, and two site measurements differ. The speakers must protect the river while keeping observation, inference, causation, and responsibility separate.
+
+```
+A: phuliro luphore lorea.
+stream river connect.
+(The stream connects to the river.)
+
+A: keritha pai phuliro nai. kosha pai phuliro nai.
+workshop NEAR stream be. field NEAR stream be.
+(The workshop is near the stream. The field is near the stream.)
+
+A: patha Site A patho leo keritha nai.
+EXT.EXACT [Site A] EXT.EXACT.CLOSE ABOVE workshop be.
+("Site A" is above the workshop.)
+
+A: patha Site B patho phou keritha nai.
+EXT.EXACT [Site B] EXT.EXACT.CLOSE BELOW workshop be.
+("Site B" is below the workshop.)
+
+A: mia mua patha Site A patho luphore phialu to hi masue.
+1SG LOC EXT.EXACT [Site A] EXT.EXACT.CLOSE river water PST DIR measure.
+(I directly measured river water at Site A.)
+
+A: mia nu ta masue patha nitrate 3 mg/L patho to thekiro.
+1SG ORD one measure EXT.EXACT [nitrate 3 mg/L] EXT.EXACT.CLOSE PST write.
+(I wrote "nitrate 3 mg/L" for the first measurement.)
+
+A: mia mua patha Site B patho luphore phialu to hi masue.
+1SG LOC EXT.EXACT [Site B] EXT.EXACT.CLOSE river water PST DIR measure.
+(I directly measured river water at Site B.)
+
+A: mia nu wi masue patha nitrate 18 mg/L patho to thekiro.
+1SG ORD two measure EXT.EXACT [nitrate 18 mg/L] EXT.EXACT.CLOSE PST write.
+(I wrote "nitrate 18 mg/L" for the second measurement.)
+
+B: nu wi masue nu ta masue sharoi.
+ORD two measure ORD one measure exceed.
+(The second measurement exceeds the first.)
+
+C: lo shalu mua luphore to lumeo.
+PL fish LOC river PST die.
+(Fish died in the river.)
+
+A: mia mena mue keritha tinoa muo phuliro to selu meno hi sano.
+1SG DECL.COMP OUT.OF workshop dye INTO stream PST flow DECL.COMP.CLOSE DIR know.
+(I know directly that dye flowed out of the workshop into the stream.)
+
+A: mia mena keritha tinoa lo shalu to ka lumeo meno ke nohero.
+1SG DECL.COMP workshop dye PL fish PST CAUS die DECL.COMP.CLOSE INFER believe.
+(I infer that the workshop dye caused the fish to die.)
+
+B: patha nitrate patho tinoa senao ma nai.
+EXT.EXACT [nitrate] EXT.EXACT.CLOSE dye same NEG be.
+("Nitrate" and dye are not the same.)
+
+B: lo mia patha ecological harm threshold patho ma phelu.
+PL 1SG EXT.EXACT [ecological harm threshold] EXT.EXACT.CLOSE NEG hold.
+(We do not have the "ecological harm threshold.")
+
+C: wa luphore phialu peloma nai.
+Q river water harmful be.
+(Is the river water harmful?)
+
+B: lo mia ma sano.
+PL 1SG NEG know.
+(We do not know.)
+
+B: pheralu to lepa. mue kosha phialu muo phuliro to selu.
+rain PST fall. OUT.OF field water INTO stream PST flow.
+(Rain fell. Water from the field flowed into the stream.)
+
+B: mue kosha phialu patha nitrate patho po phelu.
+OUT.OF field water EXT.EXACT [nitrate] EXT.EXACT.CLOSE POT hold.
+(Water from the field may contain nitrate.)
+
+C: mia wela hina lo shalu to ka lumeo welo ma sano.
+1SG INT.COMP what PL fish PST CAUS die INT.COMP.CLOSE NEG know.
+(I do not know what caused the fish to die.)
+
+A: whekai lo mia luphore na shorupo.
+CONTR PL 1SG river NEC protect.
+(However, we must protect the river.)
+
+C: lo mia keritha tinoa muo phuliro so ma thinu.
+PL 1SG workshop dye INTO stream FUT NEG put.
+(We will not put workshop dye into the stream.)
+
+C: lo mia mue kosha phialu so masue.
+PL 1SG OUT.OF field water FUT measure.
+(We will measure water from the field.)
+
+C: lo mia pheo ta philo mua patha Site A patho luphore phialu so masue.
+PL 1SG POST one day LOC EXT.EXACT [Site A] EXT.EXACT.CLOSE river water FUT measure.
+(In one day, we will measure river water at Site A.)
+
+C: lo mia pheo ta philo mua patha Site B patho luphore phialu so masue.
+PL 1SG POST one day LOC EXT.EXACT [Site B] EXT.EXACT.CLOSE river water FUT measure.
+(In one day, we will measure river water at Site B.)
+
+A: mia nawo. whekai lo mia wela sua thonai nai welo ma sano.
+1SG agree. CONTR PL 1SG INT.COMP who responsible be INT.COMP.CLOSE NEG know.
+(I agree. However, we do not know who is responsible.)
+```
+
+### Gap log
+
+- **A connected stream and river do not yet form a watershed model.** `phuliro`, `luphore`, `lorea`, `selu`, `leo`, and `phou` describe local water, connection, flow, and elevation. They do not conventionalize watershed, catchment, drainage direction, upstream, downstream, runoff, tributary, or the system boundary relevant to the measurements.
+- **Exact carriage preserves the scientific record without interpreting it.** `patha Site A patho`, `patha Site B patho`, and the two nitrate readings retain identifiers, analyte, values, and units. They do not state the sampling method, date, uncertainty, laboratory, chain of custody, reference condition, or whether the two readings are validly comparable.
+- **`hiso` and `peloma` are too broad to supply pollution analysis.** Speakers can say water is not clean or may be harmful, but current Phi does not distinguish pollutant, contaminant, concentration, exposure, ecological effect, or a regulated threshold. An exact term can preserve any one of those categories but cannot select the intended relation for the core discussion.
+- **Observation and source attribution remain separate.** A directly observed dye flow, a larger nitrate reading, field water after rain, and fish deaths are four facts. `ke`, `ka`, and sentence order can propose a cause, but they do not express correlation, competing causal pathways, cumulative load, interaction, or confidence in source attribution.
+- **Spatial words risk a false systems explanation.** `leo` and `phou` state higher and lower elevation, not upstream and downstream in a drainage network. The exact site labels prevent identity loss, but neither the labels nor the elevation relation explains how water or material moves among the sites.
+- **Protective action is possible before causal closure.** The group can stop putting dye into the stream, measure field water, and repeat the river measurements without declaring a responsible party. Current Phi still lacks conventional terms for precaution, monitoring plan, baseline, investigation, source control, or a provisional environmental finding.
+- **One fictional reading does not justify ecological vocabulary.** The passage exposes a need to distinguish scientific carriage, systems composition, and responsibility. It does not establish that *watershed*, *pollution*, *runoff*, *threshold*, or any other English headword needs a Phi root.
+
+No new root follows from this scenario. It supplies a flow-and-source case for comparison with an ecological case whose central relations are habitat, decomposition, and material return rather than measurement along water.
+
+## 14. The fallen tree and the living grove
+
+This scenario tests habitat, biodiversity, decomposition, material return, and path safety without treating a fallen tree as either worthless waste or automatically untouchable nature. A tree has fallen in a grove, some wood blocks a path, fungus and insects use the wood, birds eat the insects, and plants flourish nearby. The speakers attempt a core systems explanation, compare it with exact ecological terms, and choose a partial intervention whose ecological result remains uncertain.
+
+```
+A: serao shiro mua koashira to lepa.
+old tree LOC grove PST fall.
+(An old tree fell in the grove.)
+
+A: shiro to lumeo. soli wolea nia ruela nai.
+tree PST die. SOME wood ON path be.
+(The tree died. Some wood is on the path.)
+
+A: ruela shurano ma nai.
+path safe NEG be.
+(The path is not safe.)
+
+A: lo mia theula ha wolea mue koashira na kolua.
+PL 1SG UNIV PROX wood OUT.OF grove NEC carry.
+(We must carry all this wood out of the grove.)
+
+B: mia ma nawo. ha wolea whemoa ma nai.
+1SG NEG agree. PROX wood empty NEG be.
+(I do not agree. This wood is not empty.)
+
+B: ha lokue patha habitat patho nai.
+PROX place EXT.EXACT [habitat] EXT.EXACT.CLOSE be.
+(This place is "habitat.")
+
+A: patha habitat patho hina reo.
+EXT.EXACT [habitat] EXT.EXACT.CLOSE what meaning.
+(What does "habitat" mean?)
+
+B: tokemi nia wolea thuroa.
+fungus ON wood grow.
+(Fungus grows on the wood.)
+
+B: lo nireku mua wolea menui.
+PL insect LOC wood dwell.
+(Insects dwell in the wood.)
+
+B: lo pelori lo nireku nuola.
+PL bird PL insect eat.
+(Birds eat the insects.)
+
+B: soli phireo pai wolea ruloi.
+SOME plant NEAR wood flourish.
+(Some plants flourish near the wood.)
+
+B: ha wolea tokemi nela lo nireku panoru.
+PROX wood fungus COORD PL insect support.
+(This wood supports fungus and insects.)
+
+B: tokemi wolea nuola. wolea muila so kelu.
+fungus wood eat. wood earth FUT become.
+(Fungus eats the wood. The wood will become earth.)
+
+B: shiro lue muila po thuroa.
+tree ABL earth POT grow.
+(A tree may grow from the earth.)
+
+B: ha teru patha nutrient cycle patho nai.
+PROX process EXT.EXACT [nutrient cycle] EXT.EXACT.CLOSE be.
+(This process is a "nutrient cycle.")
+
+A: mia lo phelui shelomui. whekai mia wela ha teru thela turema welo ma shelomui.
+1SG PL word understand. CONTR 1SG INT.COMP PROX process how return INT.COMP.CLOSE NEG understand.
+(I understand the words. However, I do not understand how this process returns.)
+
+B: mia thekao. patha nutrient cycle patho ha teru ma lilea.
+1SG acknowledge. EXT.EXACT [nutrient cycle] EXT.EXACT.CLOSE PROX process NEG clarify.
+(I acknowledge that. "Nutrient cycle" does not clarify this process.)
+
+A: whekai nia ruela wolea pukea nai.
+CONTR ON path wood danger be.
+(However, the wood on the path is a danger.)
+
+B: lo mia theula ha wolea mue koashira lila kolua ralu nai.
+PL 1SG UNIV PROX wood OUT.OF grove PURP carry free be.
+(We need not carry all this wood out of the grove.)
+
+C: lo mia rena nia ruela nai li wolea na kolua.
+PL 1SG REL ON path be RESTR wood NEC carry.
+(We must carry only the wood that is on the path.)
+
+C: lo mia rena nia ruela nai wolea mue ruela so kolua.
+PL 1SG REL ON path be wood OUT.OF path FUT carry.
+(We will carry the wood that is on the path off the path.)
+
+C: ra wolea mua koashira so manolu. ruela shurano so nai.
+DIST wood LOC grove FUT stay. path safe FUT be.
+(That wood will remain in the grove. The path will be safe.)
+
+B: mia ha kanu kelomi. whekai wa ha kanu patha biodiversity patho shorupo.
+1SG PROX choose accept. CONTR Q PROX choose EXT.EXACT [biodiversity] EXT.EXACT.CLOSE protect.
+(I accept this choice. However, does this choice protect "biodiversity"?)
+
+C: lo mia ma sano. lo mia lo ha thena so nila.
+PL 1SG NEG know. PL 1SG PL PROX thing FUT see.
+(We do not know. We will observe these things.)
+
+C: lo mia pheo ta philo ha lokue helui so thekiro.
+PL 1SG POST one day PROX place change FUT write.
+(In one day, we will write the changes in this place.)
+```
+
+### Gap log
+
+- **An exact ecological label can be followed by a useful core analysis.** `patha habitat patho` preserves the source term, while the following clauses identify fungus, insects, birds, plants, wood, place, dwelling, eating, growth, and support. The core account is actionable, but it does not exhaust habitat type, quality, range, nesting, reproduction, seasonality, or the requirements of each organism.
+- **Dead wood is not captured by a choice between resource and waste.** `wolea`, `whemoa ma nai`, and the listed relations show that fallen material is occupied and active. Phi lacks conventional terms for waste, refuse, organic matter, decay, decomposition, nutrient, or the point at which removal, reuse, retention, or contamination is appropriate.
+- **The attempted material cycle is incomplete.** Fungus eating wood, wood becoming earth, and a tree growing from earth provide a sequence, but they do not state which material changes, how organisms mediate the change, what returns, or whether the process repeats. `nuri`, `turema`, and `sunoe` name cycle, return, and regeneration broadly; none turns an open sequence into a demonstrated material-cycle explanation.
+- **`patha nutrient cycle patho` carries terminology rather than closing the loop.** A can understand every word and still fail to recover how the process returns. The exact term preserves comparison with scientific discourse, while the failed core explanation remains visible instead of being hidden by the label.
+- **Biodiversity cannot be inferred from a list of living things.** Fungus, insects, birds, and plants show plurality and difference, but `patha biodiversity patho` may involve richness, abundance, variation, ecological function, scale, or another source-specific measure. The group cannot conclude that its intervention protects biodiversity merely because some wood remains.
+- **Safety and ecological retention can be composed as a limited intervention.** Moving only the wood on the path while retaining it in the grove addresses the immediate danger without requiring removal of all fallen material. Phi still lacks conventional language for impact assessment, mitigation, habitat continuity, monitoring interval, or an ecological criterion for judging the result.
+- **Observation and writing do not yet constitute ecological monitoring.** The final plan identifies objects of attention, a future time, place change, and a record. It does not state a baseline, indicator, comparison method, duration, sampling frequency, source authority, or a rule for revising the intervention.
+
+No new root follows from this scenario. It supplies a habitat-and-material-return case for comparison with the river case and keeps the exact ecological terms external until recurring use shows which distinctions require core treatment.
+
+## Comparison of the ecological systems scenarios
+
+| Dimension | The river above and below the workshop | The fallen tree and the living grove | Comparative finding |
+|---|---|---|---|
+| Ecological scale | Connected stream, river, field, workshop, two sites, and mobile material | Fallen wood, organisms, grove, and one obstructed path | Phi can enumerate entities and local relations at both scales, but neither enumeration establishes a system boundary or the scale relevant to a conclusion. |
+| Exact material | Site identifiers, analyte, values, units, and a threshold category | Habitat, nutrient cycle, and biodiversity terms | Exact carriage preserves source form and comparison targets; it does not supply definition, method, causal relevance, or practical interpretation. |
+| Systems relation | Flow among possible sources and observed outcomes | Feeding, dwelling, support, transformation, growth, and attempted return | Connection and sequence remain expressible, while pathway, dependency, feedback, cumulative effect, and a closed material cycle remain thin. |
+| Lexical pressure | watershed, upstream, downstream, runoff, pollution, contaminant, concentration, threshold | habitat, waste, organic matter, decomposition, nutrient, biodiversity | The missing English labels name several different kinds of failure; they must not become one undifferentiated ecological coinage list. |
+| Causal pressure | Dye, nitrate, field water, rain, and fish deaths permit several causal accounts | Organism and material clauses suggest dependencies without proving them | `ka`, `ke`, and clause order support hypotheses, but causal attribution and ecological dependency require evidence and relation-specific analysis. |
+| Practical response | Stops one possible input and adds measurements without assigning responsibility | Moves only obstructing wood, retains it in the grove, and plans observation | Precautionary or limited action is compositional even when cause, legitimacy, and ecological success remain unresolved. |
+| Cross-profile boundary | Systems, scientific precision, commons responsibility, and institutional source control | Systems, material life, accessibility, safety, and collective choice | Ecology is cross-domain; the future profile must organize overlaps rather than claim ownership of safety, governance, measurement, or reasoning vocabulary. |
+| Recurring gaps | system boundary, source pathway, scale, evidence interpretation, monitoring, review | system boundary, material pathway, scale, evidence interpretation, monitoring, review | These recurring families are strong enough for a zero-new-root Ecological Systems and Material Life profile. |
+| Scenario-specific gaps | sampling, concentration, pollution, cumulative load, source attribution | habitat quality, decomposition, biodiversity, impact mitigation | Each specialized family still needs independent recurrence or transformation before any vocabulary proposal. |
+
+Together, these scenarios satisfy the evidence gate for creating a zero-new-root Ecological Systems and Material Life profile. They show that Phi can identify organisms, materials, places, flows, measurements, competing explanations, safety needs, limited interventions, uncertainty, and planned observation while remaining thin in ecological system boundaries, pathways, scale, technical interpretation, monitoring, and several domain terms. The profile should organize shared resources and external practice without turning `lorea`, `selu`, `nuri`, `sunoe`, `shelira`, `muila`, or broad solarpunk values into a claim that the ecological relation has already been explained.
+
 ## Regression method
 
 After any grammar or philosophical-vocabulary change, validate this file, read every Phi line aloud, paraphrase each section into plain English without looking at its translation, and record any lost distinction. A change passes only if it improves its motivating passage without silently changing the other sections.

@@ -45,7 +45,7 @@ Write arguments that require each distinction before proposing terminology. A ro
 
 Phi has earth/soil, water, forest, garden, energy, repair, regeneration, stewardship, and commons. It has no conventional core terms for climate, pollution, waste, resource flow, habitat, biodiversity, infrastructure, electricity, storage, or a system in the technical sense.
 
-Probe these in texts about watershed care, heat and cooling, shared energy, repairable tools, material reuse, food cultivation, and ecological limits. The first question is whether transparent descriptions and the external register are sufficient, not whether every environmental English noun deserves a root.
+The corpus now tests this frontier in two independent scenarios. One follows possible material sources through a stream and river while preserving exact site identifiers, nitrate readings, and a threshold category; the other follows fallen wood through habitat relations and an incomplete material-return explanation while preserving `habitat`, `nutrient cycle`, and `biodiversity` exactly. Their comparison satisfies the scenario gate for a zero-new-root Ecological Systems and Material Life profile while leaving watershed, pollution, runoff, habitat, decomposition, biodiversity, system boundary, pathway, scale, monitoring, and technical interpretation as evidence-gated gaps rather than coinage proposals. Climate, heat and cooling, broader waste streams, and habitat change remain under-tested.
 
 ### Civic, economic, and institutional life
 
