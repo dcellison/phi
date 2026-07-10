@@ -1,0 +1,30 @@
+{
+  "word": "henoraki",
+  "gloss": "capacity",
+  "ipa": "/he̞.n̪o̞.ˈrä.ki/",
+  "syllables": [
+    "he",
+    "no",
+    "ra",
+    "ki"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Capacity / Conditioned Limit of Holding, Processing, or Delivery",
+  "description": "The maximum or otherwise specified amount or rate that a component or system can hold, process, transmit, or provide under stated conditions and over a stated time. Capacity is not current contents, actual output, efficiency, human ability, permission, or a promise of performance. Its object, conditions, duration, and source should be stated when they affect interpretation.",
+  "sound_symbolism": "Open 'he' begins with room, 'no' establishes a limit, 'ra' grounds that limit in conditions, and precise 'ki' closes on a measurable edge. The word expands and then resolves rather than sounding boundless.",
+  "grammatical_notes": "A mass or countable noun commonly possessed by a system: 'ha terulora henoraki henoi nai.' (This system's capacity is sufficient.) Carry exact values and units in 'patha ... patho'. Distinct from 'puro' (strength), 'phelu' (hold), 'pheno' (full), and a person's ability or legal capacity.",
+  "pillars": {
+    "solarpunk-values": "Capacity language makes material and infrastructural limits explicit instead of promising limitless provision or hiding scarcity behind aspiration.",
+    "pre-industrial-wisdom": "Tools, stores, waterways, and shared works are understood through the conditions and rates they can actually bear."
+  },
+  "tags": {
+    "cognition": "a specified limit whose interpretation depends on object, conditions, and time",
+    "creation": "a design property used in sizing and comparing infrastructure",
+    "physical": "a conditioned amount or rate a material system can hold or handle"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "seluwhera",
+  "gloss": "outage",
+  "ipa": "/se̞.lu.ˈʍe̞.rä/",
+  "syllables": [
+    "se",
+    "lu",
+    "whe",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Outage / Period of Unavailable Infrastructure Service",
+  "description": "A bounded period during which a stated infrastructure service or shared technical function is unavailable, interrupted, or below its stated service condition for an affected place or group. An outage may result from failure, planned work, insufficient input, control, or another cause. The word does not identify the cause, excuse lack of notice, establish equal impact, or imply total system destruction.",
+  "sound_symbolism": "Flowing 'selu' begins with expected continuity, then hollow 'whe' opens an absence before 'ra' marks its bounded extent. The sound moves from service into interruption without sounding permanent.",
+  "grammatical_notes": "A countable noun: 'ha seluwhera mosha teku nai.' (The outage period is short.) Name the service, affected place or participants, beginning, duration, and source separately where needed. Distinct from 'thonureki' (fail), 'whemoa' (empty), and any brief interruption that does not make a service unavailable.",
+  "pillars": {
+    "solarpunk-values": "Shared infrastructure must be discussable when it is absent as well as when it works, including unequal consequences and restoration priorities.",
+    "peace-linguistics-practices": "The word permits a neutral report of service loss while leaving notice, accountability, access, and harm open to explicit discussion."
+  },
+  "tags": {
+    "activity": "cessation or inadequate provision of a technical function",
+    "community": "loss of a stated shared or infrastructure service for affected participants",
+    "temporal": "a bounded period of unavailability or interruption"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

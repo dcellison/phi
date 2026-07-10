@@ -36,3 +36,35 @@
 | `whakeru` | object | verb | Object |
 | `wharemoi` | doubt | verb | Doubt |
 | `whekatelu` | refute | verb | Refute |
+
+## Systems and Shared Infrastructure
+
+*25 module words.*
+
+| Word | Gloss | Part of speech | Concept |
+|---|---|---|---|
+| `henoraki` | capacity | noun | Capacity |
+| `keliphira` | fault | noun | Fault |
+| `kelithora` | function | verb | Function |
+| `ketorami` | control | verb | Control |
+| `kirosholu` | specification | noun | Specification |
+| `kiroweli` | signal | noun | Signal |
+| `koemari` | input | noun | Input |
+| `kolutheri` | reliable | adjective | Reliable |
+| `masukiro` | calibrate | verb | Calibrate |
+| `monakeli` | component | noun | Component |
+| `nilakiro` | inspect | verb | Inspect |
+| `nomirela` | state | noun | State |
+| `norawiso` | interface | noun | Interface |
+| `pelomaru` | hazard | noun | Hazard |
+| `phelorani` | depend | verb | Depend |
+| `pheluremi` | store | verb | Store |
+| `poruseli` | efficient | adjective | Efficient |
+| `selokaru` | transfer | verb | Transfer |
+| `seluwhera` | outage | noun | Outage |
+| `talukori` | load | noun | Load |
+| `terulora` | system | noun | System |
+| `thirulo` | output | noun | Output |
+| `thonureki` | fail | verb | Fail |
+| `turekali` | feedback | noun | Feedback |
+| `wesopanu` | redundant | adjective | Redundant |

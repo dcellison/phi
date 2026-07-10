@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (170)
+## adjective (173)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -32,6 +32,7 @@
 | `kithela` | valid | Valid |
 | `kolo` | equal | Equal |
 | `kolu` | steady | Steady |
+| `kolutheri` | reliable | Reliable |
 | `koru` | harmonious | Harmonious |
 | `kuelo` | curious | Curious |
 | `kuenora` | strange | Strange |
@@ -100,6 +101,7 @@
 | `pholuo` | luminous | Luminous |
 | `phue` | wise | Wise |
 | `poru` | productive | Productive |
+| `poruseli` | efficient | Efficient |
 | `puko` | bitter | Bitter |
 | `raelu` | tall | Tall |
 | `ralu` | free | Free |
@@ -169,6 +171,7 @@
 | `wero` | honest | Honest |
 | `wesha` | lazy | Lazy |
 | `wesoma` | mutual | Mutual |
+| `wesopanu` | redundant | Redundant |
 | `whalo` | large | Large |
 | `whemoa` | empty | Empty |
 | `whilo` | white | White |
@@ -270,7 +273,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (397)
+## noun (411)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -280,6 +283,7 @@
 | `helia` | youth | Youth |
 | `heloa` | remedy | Remedy |
 | `hemilo` | honey | Honey |
+| `henoraki` | capacity | Capacity |
 | `heru` | herb | Herb |
 | `hesura` | ash | Ash |
 | `hisae` | skin | Skin |
@@ -295,6 +299,7 @@
 | `katiru` | knife | Knife |
 | `keiro` | way | Way |
 | `keli` | device | Device |
+| `keliphira` | fault | Fault |
 | `kelo` | frame | Frame |
 | `keloe` | companion | Companion |
 | `keloi` | summer | Summer |
@@ -316,9 +321,12 @@
 | `kirae` | crystal | Crystal |
 | `kiremoa` | criterion | Criterion |
 | `kiroa` | sign | Sign |
+| `kirosholu` | specification | Specification |
+| `kiroweli` | signal | Signal |
 | `kiru` | chisel | Chisel |
 | `kirua` | sand | Sand |
 | `koashira` | grove | Grove |
+| `koemari` | input | Input |
 | `kohura` | noise | Noise |
 | `kolai` | pigment | Pigment |
 | `koma` | head | Head |
@@ -405,6 +413,7 @@
 | `molira` | hill | Hill |
 | `moloi` | apprentice | Apprentice |
 | `molu` | container | Container |
+| `monakeli` | component | Component |
 | `mophi` | wool | Wool |
 | `mophira` | sheep | Sheep |
 | `moreke` | mammal | Mammal |
@@ -436,10 +445,12 @@
 | `nolue` | neck | Neck |
 | `nomei` | name | Name |
 | `nomi` | present | Present |
+| `nomirela` | state | State |
 | `nophae` | nose | Nose |
 | `nophi` | story | Story |
 | `norae` | method | Method |
 | `norawhi` | dusk | Dusk |
+| `norawiso` | interface | Interface |
 | `norea` | soul | Soul |
 | `noru` | bowl | Bowl |
 | `norui` | boundary | Boundary |
@@ -462,6 +473,7 @@
 | `palowe` | shoe | Shoe |
 | `palu` | plate | Plate |
 | `pelio` | arm | Arm |
+| `pelomaru` | hazard | Hazard |
 | `pelori` | bird | Bird |
 | `peloru` | flower | Flower |
 | `pelowa` | meadow | Meadow |
@@ -537,6 +549,7 @@
 | `ruela` | path | Path |
 | `ruelami` | adventure | Adventure |
 | `runae` | resin | Resin |
+| `seluwhera` | outage | Outage |
 | `sena` | pattern | Pattern |
 | `shalimo` | alliance | Alliance |
 | `shalu` | fish | Fish |
@@ -583,12 +596,14 @@
 | `sunai` | health | Health |
 | `suro` | rope | Rope |
 | `talua` | shoulder | Shoulder |
+| `talukori` | load | Load |
 | `teli` | bell | Bell |
 | `telo` | farmer | Farmer |
 | `telui` | rhythm | Rhythm |
 | `teluno` | amphibian | Amphibian |
 | `temu` | guild | Guild |
 | `tenoa` | tool | Tool |
+| `terulora` | system | System |
 | `tesu` | iron | Iron |
 | `tewema` | partner | Partner |
 | `thaeluro` | ocean | Ocean |
@@ -614,6 +629,7 @@
 | `thesori` | evidence | Evidence |
 | `thimu` | time | Time |
 | `thinoe` | seed | Seed |
+| `thirulo` | output | Output |
 | `tholau` | bone | Bone |
 | `tholu` | space | Space |
 | `thomari` | courage | Courage |
@@ -643,6 +659,7 @@
 | `tulira` | tail | Tail |
 | `tumeki` | root | Root |
 | `tupiwa` | rabbit | Rabbit |
+| `turekali` | feedback | Feedback |
 | `waero` | sky | Sky |
 | `wapile` | wing | Wing |
 | `welamu` | elm | Elm |
@@ -776,7 +793,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (255)
+## verb (263)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -804,10 +821,12 @@
 | `kehota` | cough | Cough |
 | `kela` | rejoice | Rejoice |
 | `kelai` | equals | Become (Result) |
+| `kelithora` | function | Function |
 | `kelomi` | accept | Accept |
 | `kelu` | become | Become |
 | `keluro` | honor | Honor |
 | `kethira` | infer | Infer |
+| `ketorami` | control | Control |
 | `kire` | shape | Shape |
 | `kirothe` | define | Define |
 | `kiwate` | bite | Bite |
@@ -837,6 +856,7 @@
 | `malonawi` | compromise | Compromise |
 | `manolu` | stay | Stay |
 | `masue` | measure | Measure |
+| `masukiro` | calibrate | Calibrate |
 | `meilo` | sit | Sit |
 | `meliho` | sing | Sing |
 | `meloa` | persevere | Persevere |
@@ -864,6 +884,7 @@
 | `nelore` | preserve | Preserve |
 | `nelu` | revere | Revere |
 | `nila` | see | See |
+| `nilakiro` | inspect | Inspect |
 | `nohero` | believe | Believe |
 | `nolami` | bond | Bond |
 | `noluha` | swallow | Swallow |
@@ -893,7 +914,9 @@
 | `pharune` | include | Include |
 | `pheloma` | serve | Serve |
 | `phelona` | require | Require |
+| `phelorani` | depend | Depend |
 | `phelu` | hold | Hold |
+| `pheluremi` | store | Store |
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
 | `phimela` | kiss | Kiss |
@@ -928,6 +951,7 @@
 | `sahu` | forget | Forget |
 | `sano` | know | Know |
 | `sawa` | wash | Wash |
+| `selokaru` | transfer | Transfer |
 | `selomi` | weave | Weave |
 | `selu` | flow | Flow |
 | `seniku` | smile | Smile |
@@ -991,6 +1015,7 @@
 | `thola` | bring | Bring |
 | `thole` | practice | Practice |
 | `tholira` | forgive | Forgive |
+| `thonureki` | fail | Fail |
 | `thophe` | sow | Sow |
 | `thorai` | bless | Bless |
 | `thorelu` | converse | Converse |

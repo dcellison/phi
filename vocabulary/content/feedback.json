@@ -1,0 +1,30 @@
+{
+  "word": "turekali",
+  "gloss": "feedback",
+  "ipa": "/t̪u.re̞.ˈkä.li/",
+  "syllables": [
+    "tu",
+    "re",
+    "ka",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Feedback / Returned System Effect That Alters Its Process",
+  "description": "A system relation in which information or another effect of a later output or state returns to alter an input, control, or process in the same analyzed system. Feedback may stabilize, amplify, delay, or otherwise change behavior. It is not mere return, recurrence, circular shape, response, evaluation, or personal commentary, and naming feedback does not explain its direction or effect.",
+  "sound_symbolism": "The returning motion of 'ture' turns through causal 'ka' into bright 'li', so the ending affects what preceded it. The word loops in meaning without repeating a syllable or implying that every loop is balanced.",
+  "grammatical_notes": "A countable or mass noun: 'ha turekali ha ketorami helui.' (This feedback changes the control.) State what is sensed, what returns, where it acts, and whether it increases or decreases change. Distinct from 'turema' (return), 'nuri' (cycle), 'thekao' (acknowledge), and ordinary interpersonal response.",
+  "pillars": {
+    "solarpunk-values": "Feedback makes adaptive infrastructure discussable while keeping its actual effects and chosen targets open to review.",
+    "secular-buddhist-philosophy": "The concept foregrounds conditioned consequences that return into an ongoing process rather than treating action as isolated from later effects."
+  },
+  "tags": {
+    "activity": "a returned effect that alters an ongoing process",
+    "cognition": "a relation used to explain changing system behavior",
+    "temporal": "a later state or output affects a continuing or subsequent process"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

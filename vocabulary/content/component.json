@@ -1,0 +1,29 @@
+{
+  "word": "monakeli",
+  "gloss": "component",
+  "ipa": "/mo̞.n̪ä.ˈke̞.li/",
+  "syllables": [
+    "mo",
+    "na",
+    "ke",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Component / Functionally Identified Part of a System",
+  "description": "A material, informational, or procedural part identified by the role it has within a system. A component may contain smaller components or be analyzed as a system at another scale. The word does not mean every fragment, member, ingredient, or merely adjacent object, and component status depends on the selected system boundary and question.",
+  "sound_symbolism": "Rounded 'mo' gathers attention to the whole, 'na' gives the part structural weight, and the familiar clarity of 'keli' recalls a made device without limiting components to machinery.",
+  "grammatical_notes": "A countable noun: 'ha monakeli muo ha terulora nai.' (This component is in this system.) A component's role can be stated with 'kelithora'; a component that is independently complex may be called a 'monakeli terulora' (component system). Distinct from an arbitrary piece, 'monae' (integral), and 'keli' (device).",
+  "pillars": {
+    "solarpunk-values": "Naming components makes repair, replacement, resource tracing, and shared technical explanation more precise.",
+    "art-nouveau-aesthetics": "A component gains meaning through its relation to a larger form, as a line or leaf motif participates in an integrated design."
+  },
+  "tags": {
+    "creation": "a functionally identified part of a designed or analyzed whole",
+    "physical": "a part that may be material, though the term also permits informational and procedural components"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}
