@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*931 words.*
+*933 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -324,6 +324,7 @@
 | `muwi` | interior | /ˈmu.wi/ | noun |
 | `na` | NEC | /ˈn̪ä/ | particle |
 | `nai` | be | /ˈn̪ä.i/ | verb |
+| `napa` | bread | /ˈn̪ä.pä/ | noun |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
@@ -427,6 +428,7 @@
 | `pelowa` | meadow | /pe̞.ˈlo̞.wä/ | noun |
 | `pelua` | paper | /pe̞.ˈlu.ä/ | noun |
 | `pelui` | cold | /pe̞.ˈlu.i/ | adjective |
+| `perola` | rose | /pe̞.ˈro̞.lä/ | noun |
 | `pesa` | push | /ˈpe̞.sä/ | verb |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
 | `phae` | open | /ˈɸä.e̞/ | verb |

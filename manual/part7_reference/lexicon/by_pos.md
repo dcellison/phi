@@ -263,7 +263,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (385)
+## noun (387)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -413,6 +413,7 @@
 | `muphia` | mud | Mud |
 | `muriwe` | worm | Worm |
 | `muwi` | interior | Interior |
+| `napa` | bread | Bread |
 | `napuro` | grain | Grain |
 | `nekuma` | meat | Meat |
 | `neparu` | cloud | Cloud |
@@ -456,6 +457,7 @@
 | `peloru` | flower | Flower |
 | `pelowa` | meadow | Meadow |
 | `pelua` | paper | Paper |
+| `perola` | rose | Rose |
 | `phaeno` | week | Week |
 | `phaero` | transit | Transit |
 | `phaewi` | studio | Studio |

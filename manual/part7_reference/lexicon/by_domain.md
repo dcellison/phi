@@ -292,7 +292,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (202)
+## community (203)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -357,6 +357,7 @@
 | `moreke` | mammal | Close animal kin |
 | `muraki` | harvest | Shared labor and celebration |
 | `muriwe` | worm | The garden's smallest laborer |
+| `napa` | bread | The staple food of the shared table |
 | `naphe` | help | Assisting others |
 | `napuro` | grain | The staple that sets the table |
 | `nawea` | respect | essential for social bonds and relationships |
@@ -817,7 +818,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (211)
+## nature (212)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -926,6 +927,7 @@
 | `peloru` | flower | the blooming structure of plants |
 | `pelowa` | meadow | Open grassland |
 | `pelui` | cold | absence of heat energy |
+| `perola` | rose | The layered garden flower |
 | `phelora` | beautiful | celebrates organic forms and flowing natural patterns |
 | `pheluka` | lightning | The storm's sudden light |
 | `pheralu` | rain | Atmospheric water cycle |
@@ -1033,7 +1035,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (246)
+## physical (248)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1131,6 +1133,7 @@
 | `mupelo` | vomit | The stomach's refusal |
 | `muphia` | mud | The soft give underfoot |
 | `mureo` | stable | Firmly established |
+| `napa` | bread | Baked grain food |
 | `natu` | pull | Drawing closer |
 | `nekuma` | meat | Weight on the table |
 | `nepha` | medicine | Restoration |
@@ -1158,6 +1161,7 @@
 | `peki` | squeeze | Pressure brought inward |
 | `pelio` | arm | Upper limbs for reaching and working |
 | `pelui` | cold | thermal sensation of cold |
+| `perola` | rose | Thorned flowering shrub bloom |
 | `pesa` | push | Pressing away |
 | `phaeli` | tender | Soft quality |
 | `phaelo` | feel | bodily sensations and somatic awareness |
