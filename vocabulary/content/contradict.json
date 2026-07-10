@@ -1,0 +1,29 @@
+{
+  "word": "phiraketu",
+  "gloss": "contradict",
+  "ipa": "/ɸi.rä.ˈke̞.t̪u/",
+  "syllables": [
+    "phi",
+    "ra",
+    "ke",
+    "tu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Contradict / Be Unable to Hold Together",
+  "description": "For two claims to be unable both to be true under the same interpretation, scope, time, and relevant conditions. Contradiction is stronger than difference, tension, contrast, or disagreement. Apparent contradiction may disappear when participants clarify a word, time, participant, evidential scope, or intended context.",
+  "sound_symbolism": "Breathy 'phi' begins abstractly, while 'ra' sets one claim apart from another. The stop in 'ke' marks the point of incompatibility, and closing 'tu' grounds the limit: under the stated conditions, both claims cannot pass together.",
+  "grammatical_notes": "A transitive verb: 'ha sherewa ra sherewa phiraketu.' (This claim contradicts that claim.) The event-noun rule supplies a contradiction. Distinct from 'phirae' (different), 'whekai' (contrast), and 'ma nawo' (not agree), none of which requires logical incompatibility.",
+  "pillars": {
+    "secular-buddhist-philosophy": "The explicit context requirement discourages treating statements made under changing conditions as timelessly opposed.",
+    "peace-linguistics-practices": "Contradiction belongs to claims, not people; speakers can investigate incompatible propositions without naming one another as enemies."
+  },
+  "tags": {
+    "cognition": "logical incompatibility between claims under shared conditions",
+    "dialogue": "a precise conflict that clarification may confirm or dissolve"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "remotha",
+  "gloss": "reason",
+  "ipa": "/re̞.ˈmo̞.θä/",
+  "syllables": [
+    "re",
+    "mo",
+    "tha"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Reason / Justificatory Ground",
+  "description": "A consideration offered to support a claim, choice, evaluation, or action as fitting or warranted. A reason answers why something should be accepted or done in the context of deliberation. It is distinct from a physical cause, an intended purpose, a private motivation, and evidence, although any of those may also serve as a reason when explicitly offered in support.",
+  "sound_symbolism": "Connecting 're' establishes that a reason is relational: it is a reason for something. Inward 'mo' gathers reflection, and final 'tha' gives the support a deliberate foundation that can be inspected rather than merely asserted.",
+  "grammatical_notes": "A countable noun. Possessive order states what the reason supports: 'sherewa remotha' (a reason for the claim). As a clause participant: 'ha remotha ha sherewa panoru.' (This reason supports this claim.) Distinct from 'ka' (cause), 'porua' (purpose), 'thueli' (intend), and 'thesori' (evidence).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Reasons remain considerations offered within conditions and perspectives, not permanent possessions that make a speaker infallible.",
+    "peace-linguistics-practices": "Speakers can request and examine reasons while keeping the person who offers them distinct from the claim under discussion.",
+    "pre-industrial-wisdom": "A reason may arise from practical experience and communal memory as well as abstract analysis, provided its supporting role is made clear."
+  },
+  "tags": {
+    "cognition": "a consideration that supports acceptance or action",
+    "dialogue": "a ground offered so others can examine a claim or choice",
+    "wisdom": "deliberative support whose relevance and limits can be considered"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

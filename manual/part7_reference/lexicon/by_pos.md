@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (167)
+## adjective (170)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -29,6 +29,7 @@
 | `kethua` | hard | Hard |
 | `kiro` | precise | Precise |
 | `kishu` | thirsty | Thirsty |
+| `kithela` | valid | Valid |
 | `kolo` | equal | Equal |
 | `kolu` | steady | Steady |
 | `koru` | harmonious | Harmonious |
@@ -38,6 +39,7 @@
 | `kurathi` | dry | Dry |
 | `laeno` | long | Long |
 | `lemi` | thin | Thin |
+| `letharo` | consistent | Consistent |
 | `lima` | alive | Alive |
 | `limu` | young | Young |
 | `liro` | green | Green |
@@ -74,6 +76,7 @@
 | `noemi` | authentic | Authentic |
 | `noetha` | essential | Essential |
 | `nophei` | loyal | Loyal |
+| `norethi` | confident | Confident |
 | `noshi` | near (adj) | Near |
 | `nuawe` | together | Together |
 | `nuelo` | dark | Dark |
@@ -267,7 +270,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (387)
+## noun (397)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -311,6 +314,7 @@
 | `kipona` | pain | Pain |
 | `kira` | key | Key |
 | `kirae` | crystal | Crystal |
+| `kiremoa` | criterion | Criterion |
 | `kiroa` | sign | Sign |
 | `kiru` | chisel | Chisel |
 | `kirua` | sand | Sand |
@@ -410,6 +414,7 @@
 | `moru` | wall | Wall |
 | `mosha` | period | Period |
 | `motha` | foundation | Foundation |
+| `mothare` | premise | Premise |
 | `mueri` | clay | Clay |
 | `muero` | autumn | Autumn |
 | `muhena` | dust | Dust |
@@ -489,7 +494,9 @@
 | `phiralea` | blossom | Blossom |
 | `phirenu` | snow | Snow |
 | `phireo` | plant | Plant |
+| `phisuwa` | example | Example |
 | `phitura` | well (water) | Well |
+| `phiwhekira` | counterexample | Counterexample |
 | `phoemu` | midnight | Midnight |
 | `phoi` | nine-group | Nine-Unit |
 | `phoka` | lens | Lens |
@@ -514,6 +521,9 @@
 | `rei` | eighty-one-group | Eighty-One-Unit |
 | `relo` | symbol | Symbol |
 | `relua` | mirror | Mirror |
+| `remolea` | concept | Concept |
+| `remoluma` | conclusion | Conclusion |
+| `remotha` | reason | Reason |
 | `repha` | bridge | Bridge |
 | `rewa` | oar | Oar |
 | `roela` | scroll | Scroll |
@@ -560,6 +570,7 @@
 | `soeli` | cup | Cup |
 | `solai` | gold | Gold |
 | `soleha` | luck | Luck |
+| `soneholu` | tradeoff | Tradeoff |
 | `sophae` | cotton | Cotton |
 | `sorae` | sun | Sun |
 | `sorai` | insight | Insight |
@@ -596,9 +607,11 @@
 | `thena` | thing | Thing |
 | `thepalu` | garden | Garden |
 | `therema` | tradition | Tradition |
+| `theremola` | argument | Argument |
 | `thereo` | mediator | Mediator |
 | `theriko` | frost | Frost |
 | `thero` | fire | Fire |
+| `thesori` | evidence | Evidence |
 | `thimu` | time | Time |
 | `thinoe` | seed | Seed |
 | `tholau` | bone | Bone |
@@ -763,7 +776,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (246)
+## verb (255)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -794,7 +807,9 @@
 | `kelomi` | accept | Accept |
 | `kelu` | become | Become |
 | `keluro` | honor | Honor |
+| `kethira` | infer | Infer |
 | `kire` | shape | Shape |
+| `kirothe` | define | Define |
 | `kiwate` | bite | Bite |
 | `koema` | enter | Enter |
 | `kolua` | carry | Carry |
@@ -819,6 +834,7 @@
 | `lumera` | nourish | Nourish |
 | `lupho` | float | Float |
 | `malomi` | balance | Balance |
+| `malonawi` | compromise | Compromise |
 | `manolu` | stay | Stay |
 | `masue` | measure | Measure |
 | `meilo` | sit | Sit |
@@ -840,6 +856,7 @@
 | `muraki` | harvest | Harvest |
 | `nai` | be | Be |
 | `naphe` | help | Help |
+| `natheri` | entail | Entail |
 | `natu` | pull | Pull |
 | `nawea` | respect | Respect |
 | `naweri` | refuse | Refuse |
@@ -880,6 +897,7 @@
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
 | `phimela` | kiss | Kiss |
+| `phiraketu` | contradict | Contradict |
 | `phiremo` | relate | Relate |
 | `phirena` | meditate | Meditate |
 | `phoa` | do | Do |
@@ -925,6 +943,7 @@
 | `shemoli` | harmonize | Harmonize |
 | `shemui` | utter | Utter |
 | `sheori` | communicate | Communicate |
+| `sherewa` | claim | Claim |
 | `shimalo` | discipline | Discipline |
 | `shiroka` | repair | Repair |
 | `shiwolu` | integrate | Integrate |
@@ -997,8 +1016,11 @@
 | `wenola` | collaborate | Collaborate |
 | `wepu` | go | Go |
 | `wesho` | locate | Locate |
+| `whakeru` | object | Object |
 | `whaline` | thank | Thank |
 | `whano` | stand | Stand |
+| `wharemoi` | doubt | Doubt |
+| `whekatelu` | refute | Refute |
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |
 | `whenola` | wander | Wander |

@@ -1,0 +1,28 @@
+{
+  "word": "sherewa",
+  "gloss": "claim",
+  "ipa": "/ʃe̞.ˈre̞.wä/",
+  "syllables": [
+    "she",
+    "re",
+    "wa"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Claim / Assert for Consideration",
+  "description": "To present a proposition as something others may consider true, question, support, or challenge. A claim is a public reasoning act, not a guarantee of truth and not necessarily a report of the speaker's private belief. Someone may believe without claiming, claim provisionally, or repeat a claim they reject for the purpose of analysis.",
+  "sound_symbolism": "The opening 'she' releases shaped breath into shared space, fitting an assertion made available to others. 'Re' connects the speaker's thought to a listener, while final 'wa' opens rather than closes the matter, leaving the claim available for inquiry and response.",
+  "grammatical_notes": "A transitive verb. A nominal object names what is claimed; a full proposition uses the declarative complement frame: 'mia mena ha ruela welao nai meno sherewa.' (I claim that this path is good.) The event-noun rule supplies a claim as a noun. Distinct from 'nohero' (believe), an internal stance, and 'shane' (tell), the act of giving an account.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Treating a claim as an act rather than an identity makes room for revision: a speaker can release or change a claim without treating the self as fixed by it.",
+    "peace-linguistics-practices": "A dedicated verb for claiming lets speakers locate disagreement in a proposition instead of turning it into a judgment of the person who voiced it."
+  },
+  "tags": {
+    "cognition": "a proposition deliberately put forward for assessment",
+    "dialogue": "the public act of offering a proposition to others"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

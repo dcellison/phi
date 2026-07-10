@@ -13,7 +13,8 @@ import external_register
 
 ROOT = Path(__file__).resolve().parent.parent
 FIELDS = ["word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
-          "description", "sound_symbolism", "grammatical_notes", "pillars", "tags"]
+          "description", "sound_symbolism", "grammatical_notes", "pillars", "tags",
+          "modules"]
 
 entries = []
 for p in sorted((ROOT / "vocabulary").rglob("*.json")):
@@ -173,6 +174,11 @@ def link_text_citations(html):
                             f'<a href="../texts/{stem}.html"><code>pamphlets/{stem}.md</code></a>')
         html = html.replace(f'href="../pamphlets/{stem}.md"',
                             f'href="../texts/{stem}.html"')
+    html = re.sub(
+        r'href="\.\./lexicon/by_module\.md#([a-z0-9-]+)"',
+        lambda match: f'href="../explore.html?module={match.group(1)}"',
+        html,
+    )
     return html
 
 def add_gloss_popovers(html):
@@ -318,6 +324,10 @@ for d in part_dirs:
     if d.name == "part7_reference":
         for f in sorted(d.glob("*.md")):
             sections.append((label, None, f))
+        modules = d / "modules"
+        if modules.is_dir():
+            for f in sorted(modules.glob("*.md")):
+                sections.append((label, "Domain Modules", f))
         continue
     for ch in sorted(x for x in d.iterdir() if x.is_dir()):
         ch_label = pretty(ch.name, "chapter")

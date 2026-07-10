@@ -1,0 +1,29 @@
+{
+  "word": "norethi",
+  "gloss": "confident",
+  "ipa": "/n̪o̞.ˈre̞.θi/",
+  "syllables": [
+    "no",
+    "re",
+    "thi"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Confident / Holding a Strong but Revisable Stance",
+  "description": "Having substantial trust in a belief, judgment, ability, or expected outcome while remaining capable of revision. Confidence describes the strength of a person's stance, not the truth of its object, the possession of knowledge, freedom from error, or entitlement to override others. By the quality-noun rule, the same form names confidence.",
+  "sound_symbolism": "Grounded 'no' gives the stance an inward base, 're' connects it to reasons and experience, and focused 'thi' directs it outward with clarity. The breathy final onset keeps firmness reflective rather than hard or closed.",
+  "grammatical_notes": "An adjective used before a noun or predicatively: 'norethi miona' (a confident person); 'mia norethi nai.' (I am confident.) Context or a following explanation states what the confidence concerns. The quality-noun rule supplies confidence. Distinct from 'sano' (know), 'shewo' (true), 'kaeshu' (bold), and 'kesu' (determined).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Confidence can support committed action without being mistaken for permanent certainty or immunity from revision.",
+    "peace-linguistics-practices": "Separating confidence from truth and authority lets speakers state their stance strongly without using strength of feeling to silence others."
+  },
+  "tags": {
+    "cognition": "the experienced strength of a belief or judgment",
+    "emotion": "felt steadiness in one's understanding or ability",
+    "wisdom": "firmness that remains distinguishable from knowledge and certainty"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

@@ -8,7 +8,7 @@ Run the standalone validator plus the external-register and productive-name unit
 
 ## 2. External-layer choice
 
-Create twenty prompts divided evenly among core composition, registered compound, productive Phi-form name, adapted guest, and exact external material. Shuffle them, wait at least one day, classify each without consulting the key, and record any prompt for which two layers remain defensible. Ambiguity in the task may reveal a documentation problem rather than a wrong answer.
+Create twenty prompts divided evenly among core composition, registered compound, productive Phi-form name, adapted guest, and exact external material. Shuffle them and classify them immediately or later without consulting the key, recording any prompt for which two layers remain defensible. Ambiguity in the task may reveal a documentation problem rather than a wrong answer.
 
 Required prompt domains are personal names, place names, tradition-specific philosophy, source quotation, historical harmful terminology, exact time, medical quantity, scientific notation, URL or identifier, community practice, and a recurring semantic gap.
 
@@ -22,13 +22,13 @@ Use `scripts/audit_phonetic_neighbors.py` to generate fixed-seed ABX prompts for
 
 Build the site with payloads containing mixed case, non-Latin script, punctuation, a URL, mathematical notation, doubled `patho`, and HTML-looking text. Inspect generated source to confirm that payload is escaped, visually marked, excluded from the lexicon, and retained as source text in mixed Tengwar output.
 
-## 5. Delayed philosophical paraphrase
+## 5. Open-reference philosophical paraphrase
 
-Choose one section of `documents/philosophical_test_corpus.md`, hide its translation, and return after at least seven days. Paraphrase the Phi into plain English, then compare propositions, evidential status, modality, negation scope, participants, and discourse relations. Record lost and added distinctions separately.
+Choose one unread Phi-only prompt whose answer key you have not seen. Paraphrase it immediately or later, consulting the grammar and lexicon if useful but keeping the proposition key closed until the interpretation is complete. Record the conditions of the reading, including references used, and distinguish vocabulary-learning friction from possible ambiguity in the language.
 
 ## 6. Argument transformation
 
-For each corpus dialogue, change one premise while preserving the conclusion, then preserve the premises while changing the conclusion. If the language makes those edits difficult to distinguish, add the failure to the capability matrix rather than immediately adding vocabulary.
+For each corpus dialogue, change one premise while preserving the conclusion, then preserve the premises while changing the conclusion. Use the result as writing practice and as one source of ideas for clearer phrasing, teaching, compounds, or vocabulary; it is not an admission gate.
 
 ## 7. Conversation repair
 
@@ -40,8 +40,8 @@ Read both roles of one dialogue aloud without rehearsal. At each artificial misu
 |---|---|---|---|---|---|---|
 | 2026-07-10 | 2026.1 candidate | structural regression | new external and philosophy documents | 937 entries; 0 errors; 0 warnings; 15 focused tests passed | no structural failure found | maintainer semantic review |
 | 2026-07-10 | 2026.2 candidate | structural regression | productive name forms | 937 entries; 0 errors; 0 warnings; 12 name-form tests passed | no structural failure found | run repeated-name narrative task |
-| 2026-07-10 | post-2026.2 main | argument transformation | Rain and the River; Grain for Hunger and Seed; Definition Under Pressure | six Phi-only prompts and a separate proposition key authored and structurally validated | no delayed paraphrase or unrehearsed repair result; packet not eligible before 2026-07-18 | run and score prompts on or after 2026-07-18 without consulting the key |
-| pending | post-2026.2 main | delayed paraphrase | philosophical transformation prompt packet | first eligible 2026-07-18 | no Phi-only paraphrase has been recorded | run one prompt after the delay without viewing the key or source translation |
+| 2026-07-10 | post-2026.2 main | argument transformation | Rain and the River; Grain for Hunger and Seed; Definition Under Pressure | six Phi-only prompts and a separate proposition key authored and structurally validated | no human interpretation recorded; the intended learner has not viewed the key | use any prompt immediately with the key closed and record whether references were used |
+| pending | post-2026.2 main | open-reference paraphrase | philosophical transformation prompt packet | available immediately | no Phi-only paraphrase has been recorded | interpret one unread prompt without viewing the key, using the lexicon and grammar as needed |
 | pending | 2026.1 candidate | boundary recognition | recorded ABX prompts | no recordings yet | maintainer audio unavailable in repository work | record in a separate session |
 
 ## External evidence boundary

@@ -85,9 +85,9 @@ After any external form, describe the practical relations in core Phi where usef
 
 An exact phrase such as `patha watershed patho`, `patha nutrient cycle patho`, `patha biodiversity patho`, or `patha urban heat island patho` preserves a comparison target. It does not identify the system boundary, close a material loop, define a diversity measure, prove a causal mechanism, or authorize an intervention.
 
-## Gap Inventory, Not a Word Queue
+## Vocabulary Pass Inventory
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
+| Vocabulary family | Concepts to review | Useful examples or considerations |
 |---|---|---|
 | Ecological organization | ecosystem, system boundary, habitat, niche, species, population, ecological community, range, abundance, biodiversity | Transformed cases that hold organisms constant while changing place, scale, season, boundary, and relation. |
 | Land and water systems | watershed, catchment, tributary, upstream, downstream, runoff, groundwater, wetland, erosion, sediment, infiltration | Multi-site water and land cases with explicit direction, source, storage, transfer, and delayed effects. |
@@ -98,14 +98,14 @@ An exact phrase such as `patha watershed patho`, `patha nutrient cycle patho`, `
 | Observation and monitoring | site, sample, baseline, indicator, protocol, uncertainty, confidence, trend, model, forecast, monitoring interval, review threshold | Repeated observations whose site, method, timing, source, and decision rule change independently. |
 | Governance, justice, and source authority | land or water authority, environmental right, stewardship duty, precaution, displaced burden, environmental justice, restoration obligation, traditional knowledge provenance | Cases with affected people who are not the decision makers, conflicting authorities, unequal risks, exact source terms, refusal, remedy, and review. |
 
-No new root follows from this profile. Any future form needed for ordinary water, food, shelter, bodily safety, testimony, place identity, participation, or criticism of environmental harm is a shared-core question, not vocabulary owned by an ecological module. Specialized terminology must still pass the ordinary admission protocol and remain explainable to speakers outside this profile.
+This inventory is ready for an Ecological Systems and Material Life vocabulary pass. Core versus module placement is an organizational judgment; new words may be coined freely, while their definitions must preserve bodily safety, testimony, place identity, participation, source knowledge, and criticism of environmental harm.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-Write an original inhabited-place heat and cooling scenario without adding vocabulary. Compare at least two exact temperature readings from explicitly identified places and times; distinguish one short weather event from a claimed longer climate pattern; include shade or vegetation, building or ground material, water and energy limits, one technical warning or threshold, and at least two people whose bodily, communication, mobility, work, or rest needs differ. A collective body may propose actions, but its authority and the distribution of burdens must remain open to challenge.
+An original inhabited-place heat and cooling scenario can provide examples for the first ecological module terms. It may compare exact temperature readings from identified places and times, distinguish weather from a longer climate pattern, include vegetation, materials, water and energy limits, a technical warning, and people whose bodily, communication, mobility, work, or rest needs differ.
 
-The scenario must compare at least two interventions, such as shade, changed work time, a cooling place, water use, reflective material, ventilation, or planting, without assuming that one serves everyone or that a green intervention has no material cost. Include direct, reported, and inferred evidence; an exact external term such as `patha urban heat island patho` or a source-specific climate category; one refusal or disagreement; one urgent limited action; one longer proposal; and a scheduled review whose success criteria are not assumed.
+The scenario can compare interventions such as shade, changed work time, a cooling place, water use, reflective material, ventilation, or planting without assuming that one serves everyone or that a green intervention has no material cost. It can preserve direct, reported, inferred, and exact external information alongside refusal, urgent action, longer proposals, and review.
 
-Read the Phi without its translation after a delay and recover every place, time, reading, source, affected person, body or access need, material condition, causal claim, uncertainty, proposed action, authority claim, burden, refusal, and review condition. Then transform weather duration, measurement location, vegetation, building material, energy and water availability, and who bears the harm one at a time.
+Use the profile and scenario to inventory places, times, readings, sources, affected people, body or access needs, material conditions, causal claims, uncertainties, proposed actions, authority claims, burdens, refusals, and review conditions that need clear vocabulary.
 
-Record every English rescue and classify it as retrieval, composition, missing convention, external carriage, shared-core gap, or profile-oriented candidate. Do not propose ecological vocabulary until the same distinction fails in the original heat case and at least one transformed case, core and external alternatives have been tested, and the repair improves blind recovery without weakening scientific fidelity, bodily autonomy, access, testimony, place identity, participation, or criticism of environmental harm.
+Retain compositions that expose ecological relations clearly and coin module terms wherever lexical presence helps. Scientific fidelity, bodily autonomy, access, testimony, place identity, participation, and criticism remain definition requirements rather than barriers to beginning the pass.

@@ -80,13 +80,13 @@ REQUIRED_FIELDS = [
     "word", "gloss", "ipa", "syllables", "pos", "concept",
     "description", "sound_symbolism", "grammatical_notes", "pillars",
 ]
-ALLOWED_FIELDS = set(REQUIRED_FIELDS) | {"slot", "tags"}
-# Canonical key order for serialization (slot and tags appear in these
-# positions when present).
+ALLOWED_FIELDS = set(REQUIRED_FIELDS) | {"slot", "tags", "modules"}
+# Canonical key order for serialization (optional classification fields
+# appear after the semantic content they classify).
 FIELD_ORDER = [
     "word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
     "description", "sound_symbolism", "grammatical_notes", "pillars",
-    "tags",
+    "tags", "modules",
 ]
 PILLAR_KEYS = {
     "solarpunk-values",
@@ -112,6 +112,18 @@ CANONICAL_TAGS = {
     "nature", "community", "wisdom", "creation", "dialogue", "temporal",
     "aesthetic", "emotion", "physical", "ritual", "cognition", "spatial",
     "activity",
+}
+# Optional lexical modules recorded in documents/modules/README.md. Module
+# membership changes what a learner may choose to study, never how Phi parses.
+CANONICAL_MODULES = {
+    "household-and-daily-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure",
+    "philosophical-reasoning",
+    "accessibility-and-participation",
+    "commons-and-collective-governance",
+    "ecological-systems-and-material-life",
+    "work-craft-and-repair",
 }
 
 IPA_CONSONANTS = {
@@ -162,6 +174,8 @@ def canonical_dump(data):
             }
         elif key == "tags":
             value = {k: value[k] for k in sorted(value)}
+        elif key == "modules":
+            value = sorted(value)
         ordered[key] = value
     return json.dumps(ordered, indent=2, ensure_ascii=False) + "\n"
 
@@ -376,6 +390,22 @@ def check_lexicon(entries):
                     errors.append(f"{rel}: non-canonical tag(s): {sorted(bad_tags)}")
         elif "tags" in data:
             errors.append(f"{rel}: {cls} entry must not have tags")
+
+        modules = data.get("modules")
+        if modules is not None:
+            if cls != "content":
+                errors.append(f"{rel}: {cls} entry must not have modules")
+            elif not isinstance(modules, list) or not modules:
+                errors.append(f"{rel}: modules must be a non-empty list")
+            elif any(not isinstance(module, str) for module in modules):
+                errors.append(f"{rel}: every module must be a string")
+            else:
+                duplicates = sorted({module for module in modules if modules.count(module) > 1})
+                if duplicates:
+                    errors.append(f"{rel}: duplicate module(s): {duplicates}")
+                bad_modules = set(modules) - CANONICAL_MODULES
+                if bad_modules:
+                    errors.append(f"{rel}: non-canonical module(s): {sorted(bad_modules)}")
 
         # filename must equal the lowercased gloss
         want_name = gloss_filename(data.get("gloss", "")) + ".json"

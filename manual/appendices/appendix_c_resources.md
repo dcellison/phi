@@ -9,7 +9,7 @@ The manual is the teaching path; these are the working documents behind it.
 | `/canon.md` | The authority order when documents disagree, and the settled design decisions |
 | `/vocabulary/` | The lexicon itself: one JSON file per word, the single source of truth |
 | [`documents/README.md`](https://github.com/dcellison/phi/blob/main/documents/README.md) | The index of current language references, development evidence, corpus work, and profiles |
-| [`documents/roadmap.md`](https://github.com/dcellison/phi/blob/main/documents/roadmap.md) | The status of the long-term plan, its dependencies and evidence gates, and the next solo work packages |
+| [`documents/roadmap.md`](https://github.com/dcellison/phi/blob/main/documents/roadmap.md) | The status of the long-term plan, its dependencies, optional evaluation work, and the next development packages |
 | `documents/grammar/particle_reference.md` | Every particle, slot by slot |
 | `documents/grammar/complementizer_reference.md` | The clause-frame system |
 | `documents/grammar/numeral_reference.md` | The complete ternary system |

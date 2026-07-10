@@ -59,17 +59,17 @@ PL 1SG rest.
 ## Gap Log
 
 - **The profile is already useful without claiming completeness.** It can describe shared dwelling, food, material upkeep, and repair in a short connected scene using ordinary core roots.
-- **Many familiar object names remain absent.** A spoon, bottle, chair, storage container, and numerous culturally specific staples do not receive roots merely because English has them. Future texts should first test an existing description, a general vessel or seat, a registered compound, or marked external material.
+- **Many familiar object names remain absent.** A spoon, bottle, chair, storage container, and numerous culturally specific staples may remain transparent descriptions or receive roots during the household vocabulary pass according to usefulness and fit.
 - **Household language must not naturalize ownership or hierarchy.** Current core terms can describe home, family, friendship, and community, but they do not themselves express tenancy, property, domestic labor allocation, coercion, or household decision procedures. Those questions overlap [Commons and Collective Governance](commons_and_collective_governance.md), [Work, Craft, and Repair](work_craft_and_repair.md), and care scenarios rather than a quiet word-list expansion.
-- **This is not evidence that the module format works for learners.** The profile only establishes a consistent package shape. A delayed composition and paraphrase task should test whether the grouped vocabulary helps a maintainer find and use existing words more reliably than the alphabetical lexicon alone.
+- **The profile is ready for a vocabulary pass.** Its dependency map and connected scene provide a before-state; a retrieval exercise remains optional learning feedback rather than a prerequisite for adding household terms.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-After a seven-day interval, write a twelve-sentence description of a dwelling or shared daily routine without consulting this profile. Then compare the draft with the dependency map and record:
+Write or review a description of a dwelling or shared daily routine, then compare it with the dependency map and record:
 
 1. Roots that were available but not findable.
 2. Concepts that required an external frame or a composition.
 3. English rescue words that could not be expressed faithfully.
 4. Any profile grouping that encouraged an inaccurate social assumption.
 
-Do not propose a household root from this one test. The result should instead show whether the profile format helps retrieval and whether the same lexical need recurs in independent writing.
+Retain descriptions and compounds that feel natural, and coin complete household module words wherever dedicated vocabulary would make daily life easier or more enjoyable to discuss.

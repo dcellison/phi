@@ -1,0 +1,29 @@
+{
+  "word": "kirothe",
+  "gloss": "define",
+  "ipa": "/ki.ˈro̞.θe̞/",
+  "syllables": [
+    "ki",
+    "ro",
+    "the"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Define / State the Meaning or Application of a Term",
+  "description": "To state what a word, symbol, or concept means or what determines its application in the discussion at hand. Defining may use criteria, relations, examples, or stipulated boundaries. A definition can be incomplete, contested, circular, broad, or narrow; merely describing a familiar feature does not necessarily define.",
+  "sound_symbolism": "The opening 'kiro' echoes 'kiro' (precise) without making precision automatic. Its clean stop and rounded center draw a boundary, while final 'the' adds the reflective breath needed to examine what that boundary includes and excludes.",
+  "grammatical_notes": "A transitive verb: 'mia shea kirothe.' (I define peace.) A declarative complement may provide the proposed definition when the defined term is already established. The event-noun rule supplies a definition. Distinct from 'thelima' (describe), 'lilea' (clarify), and 'reo' (meaning); a description or clarification need not set the term's application.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Definitions are useful constructions for a purpose and context, not proof that changing phenomena possess timeless verbal essences.",
+    "peace-linguistics-practices": "Explicit definitions reveal where participants use a term differently and make disagreement available for clarification rather than accusation."
+  },
+  "tags": {
+    "cognition": "setting out a term's meaning or conditions of application",
+    "dialogue": "making a proposed usage boundary explicit for others",
+    "wisdom": "examining both the usefulness and limits of categories"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

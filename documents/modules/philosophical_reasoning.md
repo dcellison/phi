@@ -1,98 +1,86 @@
 # Philosophical Reasoning
 
-**Status:** **Profile** - shared-core practice organization, zero new roots.
+**Status:** **Established vocabulary module** - 22 module words, ordinary Phi grammar.
 
 ## Charter
 
-This profile organizes Phi's existing resources for defining, questioning, comparing, supporting, challenging, revising, and suspending claims. Philosophical discussion is part of Phi's central purpose, so this is a shared-core practice profile rather than an optional technical vocabulary package.
+This module supports defining, questioning, comparing, supporting, challenging, revising, and suspending claims. Philosophical discussion is central to Phi's purpose, but its specialized terminology remains an optional learning layer: general speakers may use core paraphrases, while speakers who need sustained philosophical discussion can learn the module vocabulary.
 
-The profile does not claim that Phi makes speakers rational, truthful, peaceful, or philosophically insightful. It supplies distinctions and repair practices that speakers may use well or badly. It is not a formal logic, a doctrine, or a substitute for knowledge of a philosophical tradition.
+The module does not claim that Phi makes speakers rational, truthful, peaceful, or philosophically insightful. It supplies distinctions that speakers may use well or badly. It is not a formal logic, a doctrine, a competence credential, or a substitute for knowledge of any philosophical tradition.
+
+The speaker-facing guide is [Philosophical Reasoning](../../manual/part7_reference/modules/philosophical_reasoning.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#philosophical-reasoning). Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
-- Phi retains one grammar. This profile adds no logical syntax, proof operator, particle rank, or special philosophical sentence type.
-- An evidential identifies a claimed source, not certainty, expertise, validity, or truth.
+- Phi retains one grammar. The module adds no logical syntax, proof operator, particle, inflection, special sentence type, or incompatible construction.
+- A module word is ordinary Phi vocabulary. Speakers outside the module may ask for a core paraphrase and are not obliged to learn its specialized terms.
+- An evidential identifies a claimed source, not certainty, expertise, validity, evidence quality, or truth.
 - A discourse marker identifies a conversational relation, not a logically valid inference.
-- Understanding, agreement, endorsement, consent, and willingness to continue remain distinct even where current Phi expresses some of them only compositionally.
-- Tradition-specific terms, exact quotations, harmful categories, and formal notation remain eligible for guest or exact external treatment. A core paraphrase must not be presented as an exhaustive translation when it changes the source concept.
-- Solarpunk, Buddhist, peace-linguistic, pre-industrial, and aesthetic commitments may be examined and challenged. Their presence in Phi's design does not settle an argument made in the language.
-
-## Evidence Levels
-
-This profile inherits the four statuses in the [Philosophical Capability Matrix](../philosophical_capability_matrix.md): **Demonstrated** for operations supported in validated connected text, **Compositional** for available but unconventionalized operations, **External bridge** for distinctions best preserved through marked outside material, and **Gap** for operations current Phi cannot yet express reliably.
-
-A status belongs to an operation, not merely to a word. Adding a root for argument, logic, system, or consent would not demonstrate the reasoning practice that root names.
+- Understanding, agreement, endorsement, consent, confidence, and willingness to continue remain distinct.
+- Tradition-specific terms, exact quotations, harmful historical categories, and formal notation remain eligible for guest or exact external treatment.
+- Solarpunk, Buddhist, peace-linguistic, pre-industrial, and aesthetic commitments may themselves be examined and challenged. Their presence in Phi's design does not settle an argument.
 
 ## Shared Core Dependencies
 
-These are existing Phi roots and function words. The profile indexes them without moving them from the shared lexicon or assigning them technical meanings beyond their documented use.
+These existing resources remain available to every Phi speaker and keep their ordinary meanings. The module vocabulary narrows distinctions around them without taking ownership of them.
 
-| Area | Existing resources | Current reach |
+| Area | Existing resources | Continuing role |
 |---|---|---|
-| Meaning, definition, and reference | `reo` meaning, `relo` symbol, `shelo` signify, `lilea` clarify, `shekoi` specification, `nai` predication, `hina` what, `phelui` word, `shareo` discuss | Speakers can ask what something means, offer an analysis, specify it, and challenge it, but meaning, reference, class membership, and definition may blur. |
-| Thought, truth, and revision | `remo` think, `nohero` believe, `sano` know, `shelomui` understand, `shewo` true, `theloa` truth, `kanelu` err, `helui` change, `kelu` become | Speakers can distinguish belief, knowledge, understanding, error, truth, and revision in broad use. They must still state whether evidence, belief, or the world changed. |
-| Evidence and inquiry | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `mena ... meno` proposition, `wa` question, `sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how, `wia` which, `thilou` inquire | Speakers can ask content questions, embed propositions, and mark a claimed source, but evidential type does not rank reliability or establish expertise. |
-| Relation and inference | `lu` condition, `he` irrealis, `lao` because, `ka` cause, `thelao` consequence, `po` possibility, `na` necessity, `ma` negation, `phirae` different, `senao` same, `sheo` than, `mo` comparative, `ko` focus | Speakers can state conditions, causes, possibilities, necessities, contrasts, and consequences, but current forms do not conventionalize entailment, contradiction, consistency, or inference strength. |
-| Discourse and repair | `phisu` example, `whekai` contrast, `shorela` rephrase, `shekoi` specify, `shelao` summarize, `nawo` agree, `naweri` refuse, `thekao` acknowledge, `hasi` wait, `therilu` rest | Speakers can illustrate, contrast, rephrase, summarize, agree, refuse, acknowledge, and pause. Example is not counterexample, and summary or rephrasing may lose qualifications. |
-| Values, commitment, and agency | `sone` value, `rolia` worth, `noetha` essential, `ralu` free, `thonai` responsible, `seru` commit, plural pronouns, ordinary transitivity, `nua` accompaniment | Speakers can state values, commitments, responsibility, and collective action, but priority, tradeoff, imposed duty, causal responsibility, and distributed institutional agency remain thin. |
-| Quotation and external analysis | `shola ... sholo` exact spoken quotation, `hasha ... hasho` adapted guest material, `patha ... patho` exact opaque material | Speakers can preserve source wording or terminology and then analyze it separately without granting it core status. External carriage does not imply agreement or successful explanation. |
+| Meaning and reference | `reo` meaning, `relo` symbol, `shelo` signify, `lilea` clarify, `solae` explain, `thelima` describe, `phelui` word | Support ordinary questions about meaning, expression, and explanation. |
+| Thought and revision | `remo` think, `nohero` believe, `sano` know, `shelomui` understand, `hiru` intuit, `kanelu` err, `helui` change | Preserve distinctions between mental acts and make revision sayable. |
+| Truth and accuracy | `shewo` true, `theloa` truth, `telua` accurate, `phelira` mistaken | Assess correspondence and error independently of argument structure. |
+| Source and modality | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `mena ... meno` proposition frame | State source, possibility, necessity, negation, and propositional content with ordinary grammar. |
+| Cause and purpose | `ka` cause, `lao` because, `porua` purpose, `thueli` intend, `thelao` consequence | Keep causal, purposive, motivational, and discourse relations distinct from justification and entailment. |
+| Dialogue and repair | `phisu` example marker, `whekai` contrast, `shorela` rephrase, `shekoi` specify, `shelao` summarize, `nawo` agree, `naweri` refuse, `thekao` acknowledge | Organize collaborative discussion and repair without importing special philosophical syntax. |
+| Values and agency | `sone` value, `rolia` worth, `noetha` essential, `ralu` free, `kanu` choose, `kelomi` accept, `numike` negotiate, `seru` commit, `thonai` responsible | Support practical deliberation around values, choices, commitments, and responsibility. |
 
-## Current Practices and Limits
+## First Vocabulary Pass
 
-| Operation | Current Phi strategy | Important limit |
+The first pass admits words where an existing phrase would be cumbersome, ambiguous, or unable to treat a recurring philosophical relation as a concept in its own right. Four-syllable forms are used freely for broad or internally layered concepts. The pass does not attempt to minimize coinage, and its choices may be revised through actual writing and discussion.
+
+| Family | Established module words | What the pass now distinguishes |
 |---|---|---|
-| Define or clarify | Ask with `hina` and `reo`; answer with predication, signification, specification, examples, and `lilea`. | A characterization may be mistaken for a definition, and necessary or sufficient conditions are not conventionalized. |
-| Distinguish belief, knowledge, and understanding | Use `nohero`, `sano`, `shelomui`, `remo`, evidentials, and embedded propositions. | Lexicon distinctions may collapse in connected use unless speakers hold the proposition and source constant. |
-| Give evidence or an inference | Mark direct, inferred, reported, or assumed source; state premises and conclusion as clauses. | `ke` identifies inferential source, not inference form, strength, or validity. |
-| State a condition or consequence | Use `lu`, `lu he`, modality, sentence order, and `thelao`. | Consequence may mean practical result, temporal aftermath, or argumentative conclusion; entailment remains unnamed. |
-| Give an example | Use `phisu`, then state the case. | Phi has no established convention saying that a case refutes a universal claim rather than merely illustrating a topic. |
-| Rephrase or summarize | Use `shorela`, `shekoi`, `shelao`, and confirmation from the interlocutor. | A rephrase or summary may erase modality, evidential source, negation, participants, or qualifications. |
-| Agree, disagree, or revise | Use `nawo`, `ma nawo`, contrast, `kanelu`, `helui`, explicit proposition frames, and repair. | Retraction, correction, endorsement, agreement with a person, and agreement with a proposition are not always conventionally distinguished. |
-| Compare competing values | Name each value with `sone`, `rolia`, `noetha`, contrast, requirements, and consequences. | Priority, compromise, acceptable loss, optimization, and unresolved tradeoff remain compositional or absent. |
-| Suspend judgment | Use `ma sano`, `ho`, possibility, embedded questions, waiting, and an explicit decision not to conclude. | Assumption, uncertainty, confidence, indecision, and principled suspension are not calibrated or conventionalized. |
+| Argument structure | `sherewa` claim, `mothare` premise, `remoluma` conclusion, `theremola` argument, `whakeru` object | Public claim versus belief; premise and conclusion as roles; argument versus quarrel; objection versus refusal or refutation. |
+| Support and inference | `thesori` evidence, `remotha` reason, `kethira` infer, `natheri` entail | Evidence versus evidential source; justificatory reason versus cause or purpose; inference act versus `ke`; entailment versus ordinary support. |
+| Logical assessment | `kithela` valid, `phiraketu` contradict, `letharo` consistent | Validity versus truth; contradiction versus difference; consistency versus sameness or truth. |
+| Cases and challenge | `phisuwa` example, `phiwhekira` counterexample, `whekatelu` refute | Example noun versus discourse marker; counterexample versus surprising case; refutation versus disagreement or objection. |
+| Definition and abstraction | `kirothe` define, `kiremoa` criterion, `remolea` concept | Definition versus description; criterion versus method or measure; concept versus word, symbol, meaning, definition, or example. |
+| Epistemic stance | `wharemoi` doubt, `norethi` confident | Doubt versus denial; confidence versus knowledge, truth, certainty, or authority. |
+| Competing values | `soneholu` tradeoff, `malonawi` compromise | Tradeoff versus mere choice; compromise versus negotiation, agreement, fairness, or consent. |
 
-## Scenario Evidence
+All 22 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `philosophical-reasoning` module classification, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit.
 
-- [Water for the garden](../philosophical_test_corpus.md#1-water-for-the-garden) tests competing ecological goods and a negotiated decision without a conventional word for compromise.
-- [Rain and the river](../philosophical_test_corpus.md#3-rain-and-the-river) distinguishes report, direct observation, inference, error, and belief revision.
-- [A phrase under critique](../philosophical_test_corpus.md#4-a-phrase-under-critique) preserves exact outside language and analyzes it separately in core Phi.
-- [Definition under pressure](../philosophical_test_corpus.md#5-definition-under-pressure) separates understanding from agreement and exposes the difference between a definition and a claim about a concept.
-- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) repeat failures involving validity, counterexample, and systems explanation.
-- [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care), [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words), and [Words before the meeting](../philosophical_test_corpus.md#10-words-before-the-meeting) test permission, refusal, explanation, different forms of support, proxy authority, and participation that must not collapse into generic agreement.
-- [Grain for hunger and seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed) and [The marker that was not reported](../philosophical_test_corpus.md#12-the-marker-that-was-not-reported), now organized by [Commons and Collective Governance](commons_and_collective_governance.md), test competing claims, allocation, responsibility, imposed obligation, collective agency, justice, and action without complete agreement.
-- [The river above and below the workshop](../philosophical_test_corpus.md#13-the-river-above-and-below-the-workshop) and [The fallen tree and the living grove](../philosophical_test_corpus.md#14-the-fallen-tree-and-the-living-grove), now organized by [Ecological Systems and Material Life](ecological_systems_and_material_life.md), test competing causal explanations, scientific evidence, exact ecological terminology, systems boundaries, material return, precautionary action, and uncertainty after intervention.
-- [The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair), now organized by [Work, Craft, and Repair](work_craft_and_repair.md), tests whether commitment, necessity, method knowledge, practiced craft, apprenticeship, inability, permission, refusal, chosen contribution, and safe-completion responsibility remain distinct under urgent shared need.
+## Concepts Kept Compositional
 
-The corpus demonstrates several operations but remains scripted by one maintainer. It is regression evidence for Phi's current forms, not evidence that another reader will recover every intended proposition or discourse relation.
+The pass keeps several expressions compositional because their parts provide a useful and transparent analysis. These are current recommendations rather than prohibitions against later coinage.
+
+| Concept | Phi strategy | Rationale |
+|---|---|---|
+| Priority | `sone noa`, value-position | Keeps ranking connected to the value and context being prioritized. |
+| Standpoint or perspective | `remo noa`, thought-position | Presents perspective as situated thinking rather than an invisible universal view. |
+| Sound argument | `kithela theremola` plus explicitly true premises | Prevents validity from silently implying factual truth. |
+| Necessary and sufficient conditions | Use the direction of `natheri` between membership and a `kiremoa` | Makes the two relations visible without adding labels that speakers may reverse. |
+| Suspension of judgment | `mena ... meno nohero ma kanu`, decline to choose the framed belief | States what the speaker withholds while leaving inquiry open. |
+| Reason for a claim | `sherewa remotha` | Ordinary modifier-first order exposes the justificatory relation. |
+
+## Scenario Connections
+
+- [Water for the garden](../philosophical_test_corpus.md#1-water-for-the-garden) can now name its `soneholu` tradeoff and any `malonawi` compromise without implying that the settlement is just.
+- [Rain and the river](../philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a `mothare` premise, the act `kethira` of inferring, and a revisable `remoluma` conclusion.
+- [Definition under pressure](../philosophical_test_corpus.md#5-definition-under-pressure) can separate a `remolea` concept, the act `kirothe` of defining, a `kiremoa` criterion, a `phisuwa` example, and a `phiwhekira` counterexample.
+- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can now discuss `kithela` validity, `natheri` entailment, and `whekatelu` refutation directly.
+- [Grain for hunger and seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed), the ecological cases, and the work-sharing case can use `remotha` reasons, `wharemoi` doubt, `norethi` confidence, and `soneholu` tradeoffs while preserving their domain-specific vocabulary needs.
+
+The existing [transformation packet](../philosophical_reasoning_transformation_prompts.md) remains optional practice material and a before-state for comparison. It is not a gate on using or extending the module, and no delay is required before a learner who has not seen its proposition key works through it with or without reference materials.
 
 ## External Register Guidance
 
-Use `patha ... patho` for exact philosophical terms, formal notation, source spellings, citations, harmful historical categories, and wording under critique. Preserve the source form first when changing it would erase the object of analysis.
+Use `patha ... patho` for exact philosophical terms, formal notation, source spellings, citations, harmful historical categories, and wording under critique. Preserve the source form first when adaptation would erase the object of analysis.
 
 Use `hasha ... hasho` for a temporary speakable adaptation when pronunciation matters and exact source form does not. A guest adaptation remains external and should not hide that its source tradition may distinguish the concept differently.
 
-After either frame, provide a separate core analysis where useful. Do not claim that the analysis is a translation unless it preserves the relevant commitments, contrasts, and inferential role of the source term.
+After either frame, provide a separate Phi analysis where useful. A module word may participate in that analysis, but it should not be presented as an exhaustive translation unless it preserves the relevant commitments, contrasts, and inferential role of the source term.
 
-## Gap Inventory, Not a Word Queue
+## Continued Development
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
-|---|---|---|
-| Argument structure | premise, conclusion, objection, reply, support, argument as an organized whole | Transform several arguments while keeping content constant and record whether clause order and discourse markers recover each role. |
-| Validity and entailment | follows from, entails, valid, invalid, sound, inference strength | Construct valid, weak, and mistaken inferences with true and false premises, then test blind paraphrase. |
-| Contradiction and consistency | contradict, compatible, inconsistent, jointly possible | Write detection and repair dialogues before proposing metalinguistic vocabulary. |
-| Counterexample and refutation | counterexample, refute, defeat a universal claim, exception | Test multi-clause uses of `phisu`, negation, quantification, and contrast in more than one domain. |
-| Explanation relations | cause, reason, evidence, purpose, motivation, correlation | Describe the same event under each relation without changing participants or facts. |
-| Definition structure | reference, class, criterion, necessary condition, sufficient condition, extension | Define the same concept by examples, use, membership, and conditions, then compare what each version licenses. |
-| Values and priority | competing goods, priority, tradeoff, compromise, acceptable loss, incommensurability | Write decisions with no obviously correct outcome and preserve each participant's reasons through revision. |
-| Responsibility and commitment | promise, accepted duty, imposed obligation, causal responsibility, role responsibility, accountability | Contrast personal commitment, collective decision, causation, and institutional role in connected scenarios. |
-| Uncertainty and stance | confidence, doubt, calibrated uncertainty, suspension, endorsement, willingness to continue | End several dialogues with understood disagreement or no conclusion and test whether readers recover the intended stance. |
-
-No new root or particle follows from this profile. Reasoning terminology is a shared-core question because philosophical discussion is central to Phi; it must not become jargon available only to one optional module.
-
-## Next Use Test
-
-The authored [Phi-only transformation packet](../philosophical_reasoning_transformation_prompts.md) selects [Rain and the River](../philosophical_test_corpus.md#3-rain-and-the-river), [Grain for Hunger and Seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed), and [Definition Under Pressure](../philosophical_test_corpus.md#5-definition-under-pressure). It contains one premise variation and one conclusion variation for each source; the separate [proposition key](../philosophical_reasoning_transformation_key.md) records the controlled changes and scoring inventory.
-
-Authoring and structural validation are complete, but the next-use test is not. On or after 2026-07-18, read the transformed Phi without its translations, identify every premise, conclusion, evidence source, modality, negation, participant, and discourse relation, and then perform an unrehearsed run with a clarification request, evidence challenge, retraction, and understood disagreement. Record every English rescue and classify it as retrieval, composition, missing convention, external-bridge need, or genuine shared-core gap.
-
-Do not propose reasoning vocabulary until the same distinction fails in at least two dialogues and one sustained argument, a core composition and external alternative have both been tested, and the proposed repair improves blind paraphrase without silently changing the other corpus texts.
+Use the module in philosophical dialogue, essays, scenario revisions, and ordinary reflection. Coin another word when a concept feels important enough to deserve one or when the available compound is cumbersome, ambiguous, or aesthetically wrong for Phi. Retain a compound when its parts make the intended analysis clearer. Every new entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation, but it does not need to pass an external burden-of-proof process.

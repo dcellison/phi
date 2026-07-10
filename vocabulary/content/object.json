@@ -1,0 +1,28 @@
+{
+  "word": "whakeru",
+  "gloss": "object",
+  "ipa": "/ʍä.ˈke̞.ru/",
+  "syllables": [
+    "wha",
+    "ke",
+    "ru"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Object / Raise an Objection",
+  "description": "To identify a problem with a claim, premise, inference, definition, or proposed conclusion and place that problem into the discussion. Objecting does not by itself reject the entire argument, refuse an action, contradict the speaker, or prove the targeted claim false. A useful objection makes its point of concern available for response.",
+  "sound_symbolism": "The opening breath of 'wha' creates room before resistance is voiced. 'Ke' gives the concern a clear edge, and 'ru' carries it back into the shared flow of discussion rather than ending the exchange.",
+  "grammatical_notes": "A transitive verb taking the challenged item or a declarative complement: 'mia mena ha mothare shewo ma nai meno whakeru.' (I object that this premise is not true.) The event-noun rule supplies an objection. Distinct from 'naweri' (refuse), which declines an action or request, and 'ma nawo' (not agree), which states a stance without necessarily giving a reason.",
+  "pillars": {
+    "peace-linguistics-practices": "A named objection can target a specific part of reasoning while preserving respect, relationship, and the possibility of repair.",
+    "pre-industrial-wisdom": "Collective deliberation depends on allowing a concern to be raised before a shared decision hardens into custom or action."
+  },
+  "tags": {
+    "cognition": "identifying a specific problem in reasoning",
+    "dialogue": "placing a challenge into discussion for response"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

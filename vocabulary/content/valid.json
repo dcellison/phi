@@ -1,0 +1,28 @@
+{
+  "word": "kithela",
+  "gloss": "valid",
+  "ipa": "/ki.ˈθe̞.lä/",
+  "syllables": [
+    "ki",
+    "the",
+    "la"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Valid / Structurally Entailing",
+  "description": "Of an argument, having a form in which its premises entail its conclusion. Validity concerns the relation between premises and conclusion, not whether the premises are actually true, whether the conclusion is agreeable, or whether the argument is persuasive. By the quality-noun rule, the same form names validity.",
+  "sound_symbolism": "The clean edge of 'ki' begins with a structural test. 'The' introduces deliberate examination, and 'la' opens the whole form so its connections can be seen. The word is firm without sounding final or aggressive.",
+  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'kithela theremola' (a valid argument); 'ha theremola kithela nai.' (This argument is valid.) The quality-noun rule supplies validity. Distinct from 'shewo' (true), 'telua' (accurate), and 'norethi' (confident).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Validity separates structural relation from attachment to a preferred conclusion, allowing form and factual premises to be examined independently.",
+    "peace-linguistics-practices": "Calling an argument valid need not endorse its premises, while calling it invalid need not condemn its speaker."
+  },
+  "tags": {
+    "cognition": "the quality of an argument whose premises entail its conclusion",
+    "wisdom": "a precise assessment kept distinct from truth and persuasion"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

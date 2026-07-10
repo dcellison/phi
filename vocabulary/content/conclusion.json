@@ -1,0 +1,29 @@
+{
+  "word": "remoluma",
+  "gloss": "conclusion",
+  "ipa": "/re̞.mo̞.ˈlu.mä/",
+  "syllables": [
+    "re",
+    "mo",
+    "lu",
+    "ma"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Conclusion / Claim Reached Through Reasoning",
+  "description": "The claim an argument reaches from its premises. A conclusion is identified by its role in reasoning, not by appearing last in speech and not by being true, accepted, or final. The same proposition may be a conclusion in one argument and a premise in another.",
+  "sound_symbolism": "The four-syllable form gives the result of reasoning room to arrive. 'Re' begins with connection, 'mo' gathers thought inward, 'lu' carries it forward, and 'ma' grounds the resulting claim without pretending that it can never be reconsidered.",
+  "grammatical_notes": "A countable noun: 'mia ha remoluma kelomi.' (I accept this conclusion.) It may be modified by source or scope like any noun. Distinct from 'lumae' (end), the general final point of an event or object, and from 'thelao' (consequence), a discourse marker that announces what follows in an explanation or narrative.",
+  "pillars": {
+    "secular-buddhist-philosophy": "A conclusion is a role occupied within a particular chain of reasoning, not an inherently permanent or self-validating truth.",
+    "peace-linguistics-practices": "Naming the conclusion lets participants accept, reject, or revise the result separately from the premises and from one another."
+  },
+  "tags": {
+    "cognition": "the proposition reached from stated premises",
+    "dialogue": "the result of an argument that participants may assess separately"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

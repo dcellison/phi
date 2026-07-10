@@ -12,6 +12,17 @@
     "pre-industrial-wisdom": "pre-industrial wisdom",
   };
 
+  const MODULE_NAMES = {
+    "household-and-daily-life": "household and daily life",
+    "medical-and-bodily-care": "medical and bodily care",
+    "systems-and-shared-infrastructure": "systems and shared infrastructure",
+    "philosophical-reasoning": "philosophical reasoning",
+    "accessibility-and-participation": "accessibility and participation",
+    "commons-and-collective-governance": "commons and collective governance",
+    "ecological-systems-and-material-life": "ecological systems and material life",
+    "work-craft-and-repair": "work, craft, and repair",
+  };
+
   try {
     lexicon = await (await fetch("lexicon.json")).json();
   } catch {
@@ -22,10 +33,11 @@
   $("count").textContent = lexicon.length;
 
   // filter options from the data
-  const opts = { pos: new Set(), tag: new Set(), pillar: new Set() };
+  const opts = { pos: new Set(), tag: new Set(), module: new Set(), pillar: new Set() };
   for (const e of lexicon) {
     e.pos.forEach((p) => opts.pos.add(p));
     Object.keys(e.tags || {}).forEach((t) => opts.tag.add(t));
+    (e.modules || []).forEach((m) => opts.module.add(m));
     Object.keys(e.pillars || {}).forEach((p) => opts.pillar.add(p));
   }
   const fill = (sel, values, label) => {
@@ -38,7 +50,10 @@
   };
   fill($("f-pos"), opts.pos);
   fill($("f-tag"), opts.tag);
+  fill($("f-module"), opts.module, (v) => MODULE_NAMES[v] || v);
   fill($("f-pillar"), opts.pillar, (v) => PILLAR_NAMES[v] || v);
+  const requestedModule = new URLSearchParams(window.location.search).get("module");
+  if (requestedModule && opts.module.has(requestedModule)) $("f-module").value = requestedModule;
 
   const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -63,13 +78,15 @@
 
   function search() {
     const q = $("q").value.trim().toLowerCase();
-    const fp = $("f-pos").value, ft = $("f-tag").value, fl = $("f-pillar").value;
+    const fp = $("f-pos").value, ft = $("f-tag").value;
+    const fm = $("f-module").value, fl = $("f-pillar").value;
     current = lexicon
       .map((e) => ({ e, s: q ? score(e, q) : 7 }))
       .filter(({ e, s }) =>
         s >= 0 &&
         (!fp || e.pos.includes(fp)) &&
         (!ft || (e.tags && ft in e.tags)) &&
+        (!fm || (e.modules || []).includes(fm)) &&
         (!fl || (e.pillars && fl in e.pillars)))
       .sort((a, b) => a.s - b.s || a.e.word.localeCompare(b.e.word))
       .map(({ e }) => e);
@@ -128,6 +145,9 @@
     const tags = Object.keys(e.tags || {});
     if (tags.length)
       h += `<p class="tagrow">${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</p>`;
+    const modules = e.modules || [];
+    if (modules.length)
+      h += `<p class="tagrow">${modules.map((m) => `<span class="tag">module: ${esc(MODULE_NAMES[m] || m)}</span>`).join("")}</p>`;
     div.innerHTML = h;
     return div;
   }
@@ -141,9 +161,9 @@
   // wiring
   let t;
   $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(search, 120); });
-  for (const id of ["f-pos", "f-tag", "f-pillar"]) $(id).addEventListener("change", search);
+  for (const id of ["f-pos", "f-tag", "f-module", "f-pillar"]) $(id).addEventListener("change", search);
   $("clear").addEventListener("click", () => {
-    $("q").value = ""; for (const id of ["f-pos", "f-tag", "f-pillar"]) $(id).value = "";
+    $("q").value = ""; for (const id of ["f-pos", "f-tag", "f-module", "f-pillar"]) $(id).value = "";
     search();
   });
   $("more").addEventListener("click", renderMore);

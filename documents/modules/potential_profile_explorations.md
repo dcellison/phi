@@ -4,35 +4,35 @@
 
 ## Purpose
 
-This document preserves profile ideas that may deserve scenario development after Phi's first eight profiles. It keeps exploratory possibilities near the active [profile catalogue](README.md) without placing them in the formal proposed-profile queue before their boundaries and evidence gates are understood.
+This document preserves profile ideas that may deserve development after Phi's first eight profiles. It keeps exploratory possibilities near the active [profile catalogue](README.md) without committing to them before their purpose and boundaries are clear.
 
-A profile is justified when it improves retrieval and practice for a coherent field, makes important ethical or semantic boundaries visible, and exposes recurring failures that are not adequately organized by existing profiles. A collection of missing English headwords, a fashionable topic, or broad overlap among existing profiles is not enough.
+A profile is useful when it improves retrieval and practice for a coherent field or makes important ethical and semantic boundaries visible. The maintainer may create one whenever that organization feels valuable; a list of unrelated English headwords is still not a coherent module design by itself.
 
 ## From Exploration to Profile
 
 | Stage | Meaning | Required repository state |
 |---|---|---|
-| **Exploration** | A possible organizational focus worth testing through scenarios. | Record purpose, overlaps, risks, and a bounded evidence gate in this document. |
-| **Proposed profile** | A specific profile candidate whose evidence gate is ready to execute. | Add it to the proposed-profile catalogue in [README.md](README.md) with an intended role and gate; this still adds no vocabulary. |
-| **Profile** | A zero-new-root organization of demonstrated resources, practices, boundaries, external handling, gaps, and a next-use test. | Complete the gate, validate the scenario evidence, compare recurring findings, and create the document under the shared profile contract. |
-| **Extension evidence** | Repeated failure remains after the profile organizes current composition and external carriage. | Use the ordinary development protocol; profile membership never bypasses shared-core admission, phonetic checks, teaching, or regression tests. |
+| **Exploration** | A possible organizational focus worth considering through scenarios, concept lists, or intended use. | Record purpose, overlaps, risks, and a useful first development prompt in this document. |
+| **Selected profile** | A profile the maintainer has chosen to develop. | Add it to the active catalogue in [README.md](README.md) with its intended role and boundaries. |
+| **Profile** | An organization of existing resources, practices, boundaries, external handling, compounds, and vocabulary opportunities. | Create the document under the shared profile contract and decide whether to begin its vocabulary pass immediately or later. |
+| **Established vocabulary module** | The profile has canonical module words and speaker guidance. | Complete each entry's schema, phonetic checks, examples, generated indexing, and Part VII chapter. |
 
 Before promotion from exploration to proposal, a candidate should normally meet all of these conditions:
 
 1. Its use case is narrower and more actionable than a general value such as solarpunk, community, care, or knowledge.
-2. At least one original scenario can be written without first inventing vocabulary or grammar.
+2. At least one scenario, text, or practical discussion can illustrate what belongs in the profile.
 3. The scenario requires relations that are not merely a restatement of one active profile's next-use test.
 4. The candidate has explicit boundaries against authority, identity, consent, safety, cultural, scientific, legal, or economic overreach appropriate to its field.
-5. Existing core composition, registered compounds, productive names, guest adaptation, and exact carriage can all be evaluated before expansion.
+5. Existing core composition, registered compounds, productive names, guest adaptation, and exact carriage can all be considered alongside coinage.
 6. The profile would improve retrieval or disciplined practice even if no new root were ever admitted.
-7. The first evidence gate can fail honestly; it is not written to guarantee profile creation.
+7. The first development prompt is useful even if it changes the proposed boundaries or shows that the profile overlaps another one.
 8. The candidate adds no grammar, particles, syntax, parser mode, professional authority, or incompatible register.
 
 An exploration should remain cross-profile when its main value is integration rather than retrieval, when existing profiles already state its important boundaries, or when one scenario cannot distinguish a missing profile from ordinary cross-module use.
 
 ## Exploration Overview
 
-| Potential profile | Current priority | Main reason to explore | Evidence needed before proposal |
+| Potential profile | Current priority | Main reason to explore | Suggested first development work |
 |---|---|---|---|
 | Mutual Aid and Community Care | **Near-term** | Tests voluntary support, unequal capacity, boundaries, continuity, and burden across ordinary community life. | Two independent aid scenarios, including one recurring arrangement, with refusal, handoff, access, and no assumed reciprocity. |
 | Food, Cultivation, and Provisioning | **Near-term** | Connects growing, harvest, preparation, preservation, storage, distribution, need, and ecological effect. | One land-to-meal scenario and one storage or scarcity scenario whose relations cannot be retrieved reliably from Household, Ecology, Commons, and Work alone. |
@@ -56,9 +56,9 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Help does not create authority, gratitude, debt, representation, disclosure permission, bodily consent, or a duty to reciprocate. A community need does not erase a helper's capacity or refusal. Repeated care must not disappear into idealized service, unpaid work, gendered expectation, or an assumption that informal aid can replace accessible public support.
 
-**Evidence gate before proposal.** Write one urgent aid scenario and one recurring support scenario. Across the pair, include a first-person request, an offer that is refused or changed, unequal helper capacity, more than one form of support, an explicit handoff, information access, an exact source detail, follow-up responsibility, and an ending where support occurs without creating agreement, debt, or permanent obligation.
+**Suggested first development prompt.** Write one urgent aid scenario and one recurring support scenario. Across the pair, include a first-person request, an offer that is refused or changed, unequal helper capacity, more than one form of support, an explicit handoff, information access, an exact source detail, follow-up responsibility, and an ending where support occurs without creating agreement, debt, or permanent obligation.
 
-**First next-use test.** A person needs food, transport, communication, or another practical resource for several days; three people can contribute differently, one declines part of the request, one needs rest, and one can carry information but may not decide for the recipient. Recover every request, offer, limit, handoff, and follow-up after a delayed Phi-only reading.
+**First next-use exercise.** A person needs food, transport, communication, or another practical resource for several days; three people can contribute differently, one declines part of the request, one needs rest, and one can carry information but may not decide for the recipient. Express every request, offer, limit, handoff, and follow-up clearly.
 
 ### Food, Cultivation, and Provisioning
 
@@ -70,7 +70,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** The profile must not define one diet, staple, household, cultivation method, ownership regime, purity standard, or moral ranking of food. Cultural food names, Indigenous cultivation knowledge, allergies, medical requirements, legal standards, and exact safety information require source-faithful handling. Food provision must not erase land authority, labor conditions, access needs, hunger, or unequal control of storage.
 
-**Evidence gate before proposal.** Write one seasonal land-to-meal scenario and one preservation, storage, or shortage scenario. Require source and destination of food, several material states, labor contributions, exact safety or identity information, a dietary or access need, competing present and future claims, spoilage or uncertainty, and a decision whose ecological and distributive effects remain reviewable.
+**Suggested first development prompt.** Write one seasonal land-to-meal scenario and one preservation, storage, or shortage scenario. Require source and destination of food, several material states, labor contributions, exact safety or identity information, a dietary or access need, competing present and future claims, spoilage or uncertainty, and a decision whose ecological and distributive effects remain reviewable.
 
 **First next-use test.** A shared harvest must be divided among an immediate meal, seed, preservation, and a person with an exact food requirement. Change storage capacity, labor contribution, and the requirement independently, then test whether Phi preserves the material path and each claim without equating fairness with equal portions.
 
@@ -84,7 +84,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Shelter is not necessarily owned, permanent, private, safe, affordable, accessible, or freely chosen. A green or traditional design does not prove ecological success or access. Exact codes, dimensions, maps, addresses, engineering statements, land categories, and legal rights remain source material. Building change may displace burdens or people even when its stated purpose is repair, cooling, efficiency, or beauty.
 
-**Evidence gate before proposal.** Complete the planned inhabited-place heat and cooling scenario, then write an independent route, housing, or public-building change scenario. Across the pair, vary exact measurements, unequal exposure, bodily and access needs, material conditions, maintenance, authority, cost or displacement, competing interventions, and review.
+**Suggested first development prompt.** Complete the planned inhabited-place heat and cooling scenario, then write an independent route, housing, or public-building change scenario. Across the pair, vary exact measurements, unequal exposure, bodily and access needs, material conditions, maintenance, authority, cost or displacement, competing interventions, and review.
 
 **First next-use test.** Rework the old common hall as an inhabited building rather than an abstract solarpunk symbol. Several changes improve different needs but compete for space, material, labor, and authority; one person refuses a proposed assistance or relocation; and the final plan remains provisional pending exact technical and access review.
 
@@ -98,7 +98,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Exact carriage does not establish understanding, and a core analysis is not automatically a translation. A translator, interpreter, teacher, archivist, or fluent speaker does not gain ownership of a source or authority over its bearers. Transliteration must not silently replace non-Roman script. Community restrictions, sacred or private material, identity terms, harmful categories, and contested histories require attribution and may require deliberate non-translation or non-publication.
 
-**Evidence gate before proposal.** Write one multi-script source case and one contested philosophical, institutional, identity, or cultural term case. In each, compare exact preservation, guest pronunciation, productive naming where applicable, core explanation, claimed translation, correction, source authority, access format, and a disagreement about what may be changed or shared.
+**Suggested first development prompt.** Write one multi-script source case and one contested philosophical, institutional, identity, or cultural term case. In each, compare exact preservation, guest pronunciation, productive naming where applicable, core explanation, claimed translation, correction, source authority, access format, and a disagreement about what may be changed or shared.
 
 **First next-use test.** Two speakers discuss a short non-Roman source passage. One needs a speakable adaptation, another needs exact script, and the source bearer rejects part of a proposed Phi paraphrase. The group must preserve source, pronunciation aid, bounded explanation, attribution, correction, and permission to circulate without treating any layer as complete equivalence.
 
@@ -114,7 +114,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Gift language must not erase obligation, status, expected return, or coercion. Exchange does not establish a fair price, ownership, free consent, or equal bargaining power. Exact legal and economic terms must retain source force. The profile must support criticism of exploitation, unpaid work, extraction, enclosure, debt, and retaliation without requiring speakers to adopt capitalist, socialist, gift-economy, or other imported categories as universal Phi ontology.
 
-**Evidence gate before proposal.** Complete the Work profile's non-workshop economic case and the Commons profile's shared-storehouse case, then add an independent exchange or debt case. Require exact source terms, concrete transfers, authority claims, affected people, labor or need, refusal, consequences, and a disagreement about legitimacy or fairness.
+**Suggested first development prompt.** Complete the Work profile's non-workshop economic case and the Commons profile's shared-storehouse case, then add an independent exchange or debt case. Require exact source terms, concrete transfers, authority claims, affected people, labor or need, refusal, consequences, and a disagreement about legitimacy or fairness.
 
 **First next-use test.** A repair or harvest is described by one participant as a gift, by another under an exact wage or contract term, and by a third as an obligation attached to resource access. Change ownership, prior commitment, and material need independently, then test whether Phi preserves each relation without resolving the dispute through positive vocabulary.
 
@@ -128,7 +128,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Mediation is not neutral when power, retaliation, access, or safety is unequal. Acknowledgment is not a finding, forgiveness is not owed, reconciliation is not always safe, and peace language must not suppress testimony or resistance. Immediate protection may precede causal closure. Source-specific legal, political, cultural, and identity categories remain exact where paraphrase would soften harm or change responsibility.
 
-**Evidence gate before proposal.** Write at least two scenarios with different power structures. Each must distinguish testimony, observation, inference, immediate protection, investigation or clarification, claimed responsibility, remedy, optional mediation, refusal, review, and whether continued relationship is wanted. At least one scenario must end without reconciliation or forgiveness.
+**Suggested first development prompt.** Write at least two scenarios with different power structures. Each must distinguish testimony, observation, inference, immediate protection, investigation or clarification, claimed responsibility, remedy, optional mediation, refusal, review, and whether continued relationship is wanted. At least one scenario must end without reconciliation or forgiveness.
 
 **First next-use test.** A keeper or facilitator with recognized community standing is accused of harmful exclusion. The affected person requests a protective change, refuses direct mediation, and preserves exact testimony; others disagree about evidence and authority. Practical protection occurs while the finding, remedy, office, and future relationship remain unresolved.
 
@@ -144,7 +144,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Teaching does not grant authority over identity, belief, body, labor, disclosure, or future participation. Understanding is not agreement, assessment is not personal worth, and a learner may refuse, pause, change format, challenge a source, or leave. Exact qualifications, curricula, grades, legal obligations, and source traditions remain external where their identity matters.
 
-**Evidence gate before proposal.** Write one non-craft learner scenario and one community-teaching scenario with different authority structures. Include explanation, practice, misunderstanding, access change, assessment or feedback, refusal, source attribution, and a decision about continued participation.
+**Suggested first development prompt.** Write one non-craft learner scenario and one community-teaching scenario with different authority structures. Include explanation, practice, misunderstanding, access change, assessment or feedback, refusal, source attribution, and a decision about continued participation.
 
 **First next-use test.** A learner understands a historical claim but disputes its source and refuses an assessment format. A mentor can explain the method but cannot decide whether the learner endorses the claim. Change the format, authority, and source independently, then test whether the stances remain recoverable.
 
@@ -158,7 +158,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** Art does not become communal property merely because it serves a community. Collaboration does not erase individual attribution or permission. Adaptation, translation, restoration, performance, and criticism are distinct acts. Terms, forms, stories, symbols, and rituals belonging to particular peoples or traditions require source authority and may not be available for adaptation or publication.
 
-**Evidence gate before proposal.** Write one original collaborative-creation scenario and one source-tradition or adaptation scenario. Require differing contributions, attribution, permission to alter or perform, exact source material, disagreement about meaning or audience, and a decision that may preserve restriction or non-use.
+**Suggested first development prompt.** Write one original collaborative-creation scenario and one source-tradition or adaptation scenario. Require differing contributions, attribution, permission to alter or perform, exact source material, disagreement about meaning or audience, and a decision that may preserve restriction or non-use.
 
 **First next-use test.** Several people create a public work, but one contribution includes source-tradition material whose bearer limits alteration and circulation. The group must distinguish creation, ownership claims, attribution, permission, exact source, adaptation, criticism, and the choice not to publish part of the work.
 
@@ -172,9 +172,9 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Required boundaries.** A measurement is not a valid sample, a result is not an interpretation, a model is not the world, a threshold is not automatically applicable, and expertise does not remove uncertainty or affected-person authority. Exact formulas, units, taxonomies, method names, datasets, software, standards, and citations remain external. Scientific practice must remain accountable to access, consent, place, community knowledge, and institutional power.
 
-**Evidence gate before proposal.** Demonstrate the same unresolved workflow distinction in at least three domains, such as ecology, bodily care, and repair, after the relevant active profiles have been used. Compare exact carriage and explicit core clauses for sample identity, method, uncertainty, comparison, interpretation, decision relevance, and review.
+**Suggested first development prompt.** Compare the same scientific workflow across several domains, such as ecology, bodily care, and repair. Examine exact carriage and explicit Phi clauses for sample identity, method, uncertainty, comparison, interpretation, decision relevance, and review.
 
-**First next-use test.** Present three measurements with exact units from different domains. In each case, separate who measured, what was sampled, the method, comparison, threshold source, uncertainty, interpretation, practical decision, and affected person. A profile is justified only if the same retrieval or practice failure recurs rather than three unrelated missing technical terms.
+**First next-use exercise.** Present three measurements with exact units from different domains. In each case, separate who measured, what was sampled, the method, comparison, threshold source, uncertainty, interpretation, practical decision, and affected person. Use the comparison to decide whether one profile would make the shared workflow easier to learn and discuss.
 
 ## Cross-Profile Contexts, Not Current Profile Candidates
 

@@ -6,7 +6,7 @@ The vocabulary JSON files under `vocabulary/` are the single source of truth. Th
 
 Checks the entire language for internal consistency, and runs in CI on every pull request:
 
-- **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar keys, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
+- **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar, semantic-domain, and optional-module classifications, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
 - **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/minimal_pairs_baseline.txt`, which may only shrink.
 - **Documentation examples**: every Phi word quoted in `documents/`, `manual/`, `pamphlets/`, `primer/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
 - **Productive names**: unlisted name-forms after `ne` must be lowercase, two through four syllables, and content-shaped; every listed non-content form remains strictly unavailable as a name.
@@ -36,7 +36,7 @@ python3 scripts/test_name_forms.py
 
 ## generate_reference.py
 
-Regenerates the Part VII lexicon reference (`manual/part7_reference/lexicon/`) from the vocabulary. Must run after any vocabulary change; CI fails if the committed reference drifts from the vocabulary.
+Regenerates the Part VII alphabetical, semantic-domain, optional-module, and part-of-speech lexicon references under `manual/part7_reference/lexicon/`. Must run after any vocabulary change; CI fails if the committed reference drifts from the vocabulary.
 
 ```bash
 python3 scripts/generate_reference.py
@@ -44,7 +44,7 @@ python3 scripts/generate_reference.py
 
 ## build_explorer.py
 
-Bundles the vocabulary into `web/lexicon.json` (generated, gitignored) for the lexicon explorer.
+Bundles the vocabulary into `web/lexicon.json` (generated, gitignored) for the lexicon explorer and renders the primer, manual, texts, and pamphlets. Optional module metadata powers the explorer's module filter, and nested Part VII module chapters are included in the manual site.
 
 ```bash
 python3 scripts/build_explorer.py

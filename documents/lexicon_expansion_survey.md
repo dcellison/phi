@@ -1,12 +1,12 @@
 # Lexicon Expansion Survey (2026-07-10)
 
-This is a working triage document for original Phi writing, not a queue of words to coin. The current inventory contains 937 entries: 803 content roots, 114 function forms, and 20 interjections. Phi is not generally short of words. Its coverage is uneven, and the purpose of the next corpus is to identify the unevenness that actually obstructs the language's intended use.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 959 entries: 825 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
-A missing English headword is not automatically a Phi gap. A concept may already be covered by a broader root, ordinary composition, an event noun, a registered compound, or the guest/exact external registers. A genuine gap is a recurring communicative failure for which those resources do not preserve the needed distinction.
+A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or the guest/exact external registers. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
-This refresh checks the current `vocabulary/` inventory and its documented concepts; it excludes `archive/`. It records lexical absence and weak conventionalization, not a claim that Phi cannot express an English concept by any means.
+This refresh checks the current `vocabulary/` inventory and its documented concepts; it excludes `archive/`. It records lexical absence, available compositions, and possible areas for coinage without claiming that every English lexical distinction belongs in Phi.
 
-The rule remains: do not run a mass expansion. The two-syllable space is crowded, and Phi's character depends on composition. Grow only where original use supplies evidence.
+The practical rule is to inspect before coining, not to be shy about coining. Preserve a transparent compound when its parts improve the idea; create a complete word when lexical presence serves Phi better. Prefer three or four syllables for new domain vocabulary unless a concept truly belongs in the everyday two-syllable space.
 
 ## Corrections to the 2026-07-06 survey
 
@@ -27,81 +27,81 @@ The previous survey described a 906-word snapshot and must not be used as a curr
 
 Phi is rich enough to write substantial material about household life, craft, food preparation, nature-as-place, weather, bodies, relationships, emotion, ritual, repair, reflection, and ordinary community life. It also already has strong solarpunk anchors: `laenu` (commons), `shiroka` (repair), `sunoe` (regenerate), `thenoki` (sustain), `theluo` (steward), `phaliso` (network), `kowela` (council), `theloma` (justice), and `thonai` (responsible).
 
-The basic thermal field is covered. `sulae` spans warm through hot, `neri` is cool, and `pelui` is cold. Do not coin a separate *hot* unless a scenario repeatedly requires a distinction such as dangerous heat, fever, heatwave, overheating, or thermal safety.
+The basic thermal field is covered. `sulae` spans warm through hot, `neri` is cool, and `pelui` is cold. A separate word for hot is unnecessary while that range feels natural, but dangerous heat, fever, heatwave, overheating, or thermal safety may still deserve dedicated terms in an ecological or medical module.
 
-Likewise, several apparent English gaps already have honest Phi resources: `phelona` for requiring or needing, `phelu` for holding or having, `riola` for labor/work, `laniru` for journey/travel, and `ruela` for a path or route. These should be tested in use before any synonym is proposed.
+Likewise, several apparent English gaps already have honest Phi resources: `phelona` for requiring or needing, `phelu` for holding or having, `riola` for labor/work, `laniru` for journey/travel, and `ruela` for a path or route. A vocabulary pass should begin from those meanings so any new term adds a wanted distinction rather than accidentally duplicating one.
 
-## Priority 1: Corpus frontier for Phi's stated purpose
+## Priority 1: Domain vocabulary passes for Phi's stated purpose
 
-These are not proposed roots. They are the domains that the next original scenario texts must exercise, because they are both important to solarpunk-oriented discussion and thinly conventionalized in the present lexicon.
+These domains matter to Phi's intended philosophical and solarpunk-oriented use. Their profiles and scenarios provide concept inventories, but the maintainer may retain transparent compounds or coin module words directly according to semantic fit and desired richness.
 
-### Philosophical argument and systems
+### Philosophical reasoning: first pass complete
 
-The philosophical capability matrix already identifies the clearest structural gaps: logical validity and entailment, contradiction and consistency, counterexample, and systems/feedback/emergence. Cause versus reason, retraction, competing goods, responsibility, and calibrated uncertainty remain compositional rather than established conventions.
+The [Philosophical Reasoning module](modules/philosophical_reasoning.md) now establishes 22 optional terms for claims, premises, conclusions, arguments, objections, evidence, reasons, inference, entailment, validity, contradiction, consistency, examples, counterexamples, refutation, definition, criteria, concepts, doubt, confidence, tradeoffs, and compromise.
 
-Write arguments that require each distinction before proposing terminology. A root for *argument*, *logic*, or *system* would not itself solve the problem; the corpus must show whether the failure is lexical, constructional, discourse-pragmatic, or best retained through an external term plus Phi explanation.
+The pass retains priority, standpoint, soundness, necessary and sufficient conditions, and suspension of judgment as transparent compositions. Systems, feedback, emergence, correlation, degrees of inference strength, and additional responsibility distinctions remain open for later profile passes or ordinary philosophical use.
 
 ### Ecological systems and material life
 
 Phi has earth/soil, water, forest, garden, energy, repair, regeneration, stewardship, and commons. It has no conventional core terms for climate, pollution, waste, resource flow, habitat, biodiversity, infrastructure, electricity, storage, or a system in the technical sense.
 
-The corpus now tests this frontier in two independent scenarios. One follows possible material sources through a stream and river while preserving exact site identifiers, nitrate readings, and a threshold category; the other follows fallen wood through habitat relations and an incomplete material-return explanation while preserving `habitat`, `nutrient cycle`, and `biodiversity` exactly. Their recurring findings are organized in the zero-new-root [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md), which leaves watershed, pollution, runoff, habitat, decomposition, biodiversity, system boundary, pathway, scale, monitoring, and technical interpretation as evidence-gated gaps rather than coinage proposals. Climate, heat and cooling, broader waste streams, and habitat change remain under-tested.
+The corpus explores this frontier through a watershed source scenario and a fallen-tree material-return scenario. The [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md) now supplies the starting inventory for a vocabulary pass over watershed, pollution, runoff, habitat, decomposition, biodiversity, system boundary, pathway, scale, monitoring, climate, heat and cooling, waste streams, habitat change, and technical interpretation.
 
 ### Civic, economic, and institutional life
 
 Phi has community, council, fairness, justice, responsibility, labor, exchange, and commons. It lacks conventional core vocabulary for government, law, rights, property or ownership, voting, public institutions, contracts, prices, money, and many forms of collective authority.
 
-This is a high-priority gap family because a community cannot discuss a commons only as an ideal. It must be able to discuss allocation, obligations, disagreement, accountability, and institutions that fail. The corpus now includes one scarce-grain allocation and one shared-device accountability scenario with conflicting claims and no assumed authority. Their recurring findings are organized in the zero-new-root [Commons and Collective Governance profile](modules/commons_and_collective_governance.md), which leaves allocation criteria, institutional role, authority, procedure, accountability, and review as evidence-gated gaps rather than coinage proposals.
+This is a high-priority vocabulary family because a community cannot discuss a commons only as an ideal. It must be able to discuss allocation, obligations, disagreement, accountability, and institutions that fail. The [Commons and Collective Governance profile](modules/commons_and_collective_governance.md) supplies a starting inventory for deciding which of allocation criteria, institutional role, authority, procedure, accountability, review, rights, property, voting, contracts, prices, and money should compose and which should be coined.
 
 ### Work, craft, and repair
 
 Phi has unusually dense concrete coverage for workshops, tools, materials, making processes, physical qualities, teaching, learning, repair, restoration, and maintenance. Work organization and political economy are much thinner: task, assignment, delegation, supervision, handoff, qualification, inspection, workload, wage, contract, ownership, and final responsibility have no conventional core treatment.
 
-The [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md) and [the wheel, the chisel, and the promised repair](philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) supplied the evidence gate for the zero-new-root [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). The scenario composes concrete work choices, refusal, inability, learning boundaries, commitment, measurement, and recording while exposing recurring pressure around authority, task structure, competence, exact safety material, inspection, and safe return to use.
+The [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md), [the wheel, the chisel, and the promised repair](philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair), and the [Work, Craft, and Repair profile](modules/work_craft_and_repair.md) provide a detailed starting inventory. Its vocabulary pass can address authority, task structure, competence, safety material, inspection, safe return to use, assignment, delegation, handoff, qualification, workload, wage, contract, and ownership.
 
-This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. Their values must not erase drudgery, coercion, exploitation, unsafe instruction, unwanted labor, or imposed liability. The profile preserves exact institutional and economic terms where source force matters, requires concrete relations in core Phi, and makes an independent transformed or non-workshop recurrence the next evidence before any coinage.
+This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. New module words should make drudgery, coercion, exploitation, unsafe instruction, unwanted labor, and imposed liability discussable rather than preserving only the agreeable side of work.
 
 ### Care, access, and bodily autonomy
 
 Phi has medicine, health, healing, sickness, pain, support, protection, agreement, and refusal. It lacks conventional core terms for injury, disease, infection, fever, disability, accessibility, consent, coercion, and abuse. Reproductive health, sexuality, and gender require a deliberate case-by-case decision about core analysis versus marked external material; their absence must never prevent faithful testimony, identity, care, or safety.
 
-The corpus now tests access in two independent meeting scenarios: one concerns a route and converting speech to writing, while the other concerns advance information, processing time, rephrasing, proxy refusal, and written contribution before a decision. Their recurring failures are organized in the zero-new-root [Accessibility and Participation profile](modules/accessibility_and_participation.md), not promoted to immediate coinage. The remaining care frontier includes an injury requiring care, consent that changes during an activity, and a report of harm that must stay precise without implying endorsement.
+The [Accessibility and Participation profile](modules/accessibility_and_participation.md) organizes route, format, timing, rephrasing, proxy refusal, and participation needs; the [Medical and Bodily Care profile](modules/medical_and_bodily_care.md) organizes symptoms, care, consent, and safety. Their vocabulary passes may confidently consider injury, disease, infection, fever, disability, accessibility, consent, coercion, abuse, barriers, formats, and changing capacity while preserving respectful scope and exact external reporting where needed.
 
-## Priority 2: Smaller, text-triggered candidates
+## Priority 2: Additional vocabulary opportunities
 
-These are legitimate candidates, but do not compete with the corpus frontier unless an active text needs them.
+These candidates may be coined whenever they suit an active text, a planned module, or the desired texture of Phi.
 
 ### Animals for fables and ecological writing
 
 Current coverage includes dog, cat, bird, fish, sheep, horse, snake, insect, butterfly, mouse, rabbit, and animal. Bee, wolf, deer, bear, frog, spider, cow, and goat have no dedicated roots in the current inventory.
 
-Coin an animal only when an original text or planned fable cannot honestly use the general animal term, a transparent description, or an existing related root. An Aesop project would be a sound, bounded animal-expansion commission.
+An original text, ecological discussion, or planned fable can motivate any of these words. A transparent description remains useful when it feels better, but Phi need not wait until the general animal term becomes impossible.
 
 ### Writing and correspondence
 
 Phi has `thekiro` (write), `theo` (read), `shelu` (book), `toloi` (messenger), and the event-noun rule. It has no dedicated roots for page, ink, letter, or message.
 
-This matters to a journal-practice culture, but first test compositions in correspondence and reflective writing. A message might be a telling carried by a messenger; a page might be a portion of a book. Coin only where those descriptions become awkward, ambiguous, or semantically wrong across multiple texts.
+This matters to a journal-practice culture. A message might remain a telling carried by a messenger and a page a portion of a book, but page, ink, letter, or message may be coined whenever those concepts deserve a stable place in ordinary writing practice.
 
 ### Staples and household implements
 
 `napa` (bread) is present. Rice, tea, and nut lack dedicated roots; chair, spoon, broom, bag, box, and bottle are also currently unlisted. These are not automatically omissions: some are culturally specific and some are ordinary descriptions of shape, use, or material.
 
-Use the household and scenario corpus to decide whether any of these recur enough to deserve conventional treatment. Flood and drought should likewise be tested as weather descriptions before being treated as lexical gaps.
+Use the Household and Daily Life profile to decide which objects are clearer as compounds and which deserve ordinary roots. Flood and drought may likewise remain weather descriptions or become ecological words according to the vocabulary pass.
 
-## Admission and logging rule
+## Vocabulary pass method
 
-For every original scenario text, maintain a short gap log with:
+For each profile, maintain a concise decision table with:
 
-1. The intended English-level distinction and its Phi rendering.
-2. The attempted composition or existing root.
-3. The guest or exact external alternative, where relevant.
-4. What became ambiguous, misleading, burdensome, or impossible.
-5. Whether the same failure appears independently in another text.
-6. Whether the smallest response is teaching, a registered compound, a construction, a root, an external-register convention, or a retained refusal.
+1. The concept and its intended Phi scope.
+2. The existing word or transparent compound, if one serves naturally.
+3. The decision to retain that composition or coin a module word.
+4. The new word's contrasts with neighboring meanings.
+5. Complete schema fields, phonological and collision checks, and validated examples for every coinage.
+6. The Part VII chapter and generated module index through which speakers can learn the result.
 
-Do not promote a candidate after one appearance. The default admission rule in [the status roadmap](roadmap.md#default-admission-test) requires repeated independent failures, a stated loss of composition, comparison with external carriage, phonetic checks, teaching, and a successful re-test. The [philosophical capability matrix](philosophical_capability_matrix.md) remains the authority for argument-specific gaps.
+The [roadmap coinage checklist](roadmap.md#default-coinage-checklist) protects implementation quality without demanding repeated failure or outside approval. The [philosophical capability matrix](philosophical_capability_matrix.md) remains a descriptive map of reasoning operations, not an admission authority.
 
 ## Next refresh trigger
 
-Refresh this survey after the first scenario corpus pass and after every released lexical batch. Record both accepted and rejected candidates: a well-tested decision to retain composition or an external term is useful coverage evidence.
+Refresh this survey after every module vocabulary pass or substantial lexical batch. Record coined terms, useful compounds, and concepts deliberately left external so the next pass begins from the current language rather than an older snapshot.

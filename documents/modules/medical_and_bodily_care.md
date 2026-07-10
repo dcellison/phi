@@ -46,7 +46,7 @@ These are existing Phi roots and function words. The profile indexes them withou
 - [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) tests self-report, permission before touch, refusal, exact measurement, uncertain interpretation, medicine explanation, and the difference between data and care.
 - [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) supplies boundary evidence: consent and support recur in access work, but disability and participation must not be absorbed into a medical category.
 
-These scenarios establish useful compositions and recurring failures. They do not establish a medical standard or justify a new root by themselves.
+These scenarios establish useful compositions and a before-state for vocabulary development. They do not establish a medical standard, but the profile's vocabulary pass may coin terms from this inventory according to usefulness, semantic care, and Phi's design.
 
 ## External Register Guidance
 
@@ -56,9 +56,9 @@ Use `hasha ... hasho` only for a temporary speakable adaptation whose source for
 
 Neither external frame supplies clinical interpretation. If speakers do not understand an exact reading, instruction, or term, Phi should state that lack of understanding rather than infer a recommendation from the payload.
 
-## Gap Inventory, Not a Word Queue
+## Vocabulary Pass Inventory
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
+| Vocabulary family | Concepts to review | Useful examples or considerations |
 |---|---|---|
 | Observation and condition | symptom, sign, injury, disease, infection, fever, acute versus ongoing state | Independent injury, illness, and recovery scenarios using self-report and observed evidence. |
 | Evaluation | test, result, threshold, diagnosis, prognosis, risk, false result | Scenarios in which exact data supports, fails to support, or changes a conclusion. |
@@ -67,10 +67,10 @@ Neither external frame supplies clinical interpretation. If speakers do not unde
 | Roles and accountability | clinician, patient, caregiver, interpreter, record keeper, handoff, care plan | Scenarios with several contributors and no assumed hierarchy or single controller. |
 | Urgency and public health | emergency, triage, transmission, exposure, isolation, population-level risk | A non-prescriptive public-health scenario that separates individual care, community protection, evidence, and coercion. |
 
-The permission-and-consent gap now recurs in bodily care and accessibility, which raises its priority. It still needs transformation tests and a sustained argument before Phi decides whether the smallest repair is teaching, a construction, a content root, or retained contextual composition.
+Permission, consent, injury, condition, intervention, roles, urgency, and public-health relations are all available for a direct compound-or-coinage review. Core versus module placement should reflect what general learners need, while the safety and autonomy distinctions in this inventory guide each definition.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-Write an original injury or public-health scenario using this profile without adding vocabulary. The scenario should include a person's own report, at least two evidence sources, one exact datum, a proposed action, refusal or changed consent, an alternative, responsibility for follow-up, and an ending that may suspend judgment rather than force agreement.
+An original injury or public-health scenario can help select and use the first medical module terms. It may include a person's own report, at least two evidence sources, one exact datum, a proposed action, refusal or changed consent, an alternative, responsibility for follow-up, and an ending that may suspend judgment rather than force agreement.
 
-Record every English rescue and classify it as a retrieval failure, compositional ambiguity, external-carriage need, module-oriented candidate, or shared-core problem. Do not promote a term until the same distinction fails in several independent passages and the proposed repair improves all of them without weakening consent, identity, access, or source fidelity.
+Record which concepts already compose clearly and which deserve module words. Every coinage must preserve consent, identity, access, and source fidelity through a complete canonical entry, but no repeated-failure threshold is required.
