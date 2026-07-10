@@ -263,7 +263,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (383)
+## noun (385)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -496,6 +496,7 @@
 | `phuri` | brush | Brush |
 | `phuwai` | lung | Lung |
 | `piloe` | spot | Spot |
+| `pilomu` | plane tree | Plane Tree |
 | `piru` | trader | Trader |
 | `ponu` | door | Door |
 | `porua` | purpose | Purpose |
@@ -523,6 +524,7 @@
 | `sena` | pattern | Pattern |
 | `shalimo` | alliance | Alliance |
 | `shalu` | fish | Fish |
+| `shalumi` | salmon | Salmon |
 | `shao` | three-group | Three-Unit |
 | `shea` | peace | Peace |
 | `shela` | art | Art |

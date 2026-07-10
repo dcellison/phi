@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*929 words.*
+*931 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -511,6 +511,7 @@
 | `pi` | POL | /ˈpi/ | particle |
 | `pilewa` | make | /pi.ˈle̞.wä/ | verb |
 | `piloe` | spot | /pi.ˈlo̞.e̞/ | noun |
+| `pilomu` | plane tree | /pi.ˈlo̞.mu/ | noun |
 | `pilu` | take | /ˈpi.lu/ | verb |
 | `pina` | sew | /ˈpi.n̪ä/ | verb |
 | `pio` | hehe | /ˈpi.o̞/ | interjection |
@@ -594,6 +595,7 @@
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
 | `shalimo` | alliance | /ʃä.ˈli.mo̞/ | noun |
 | `shalu` | fish | /ˈʃä.lu/ | noun |
+| `shalumi` | salmon | /ʃä.ˈlu.mi/ | noun |
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
