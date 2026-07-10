@@ -108,6 +108,17 @@ class ExternalRegisterTests(unittest.TestCase):
         self.assertEqual(len(actual), len(expected))
         self.assertTrue(all(word in choices for word, choices in zip(actual, expected)))
 
+    def test_gloss_line_preserves_punctuation_inside_exact_payload(self):
+        text = """```
+mia patha body temperature: 38.7 C patho nila.
+1SG EXT.EXACT [body temperature: 38.7 C] EXT.EXACT.CLOSE see.
+```
+"""
+        errors = validate_examples.check_gloss_lines(
+            "fixture.md", text, self.words, self.glosses
+        )
+        self.assertEqual(errors, [])
+
     def test_external_boundaries_have_only_their_designed_pair_neighbor(self):
         entries, _ = validate_examples.load_lexicon()
         words = {data["word"] for _, data in entries}

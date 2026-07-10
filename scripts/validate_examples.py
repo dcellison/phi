@@ -816,6 +816,33 @@ def expected_gloss_stream(phi_line, gloss_of):
     return out
 
 
+def gloss_line_tokens(gloss_line):
+    """Split a gloss line without altering opaque payload notation.
+
+    Gloss lines spell an external payload as ``[payload]``. Punctuation inside
+    that bracketed representation belongs to the source payload, so stripping
+    ordinary line punctuation from every token would silently change it.
+    """
+    tokens = []
+    in_payload = False
+    for raw in gloss_line.split():
+        if in_payload or raw.startswith("["):
+            # A period after a closing bracket ends the gloss sentence. Any
+            # punctuation before that bracket belongs to the quoted source
+            # material and must remain intact.
+            token = raw
+            close = token.rfind("]")
+            if close >= 0 and token[close + 1:].strip(".,;:!?\"'") == "":
+                token = token[:close + 1]
+            tokens.append(token)
+            in_payload = not token.endswith("]")
+        else:
+            token = raw.strip(".,;:!?\"'")
+            if token:
+                tokens.append(token)
+    return tokens
+
+
 def check_gloss_lines(rel, text, lexicon_words, gloss_of):
     """The gloss-line lint: the line beneath a full Phi line (fenced, or
     a full-line bold example) must render each word by its lexicon gloss,
@@ -858,8 +885,7 @@ def check_gloss_lines(rel, text, lexicon_words, gloss_of):
             continue  # translation line, not a gloss line
         if is_phi_line(gl.lower(), lexicon_words):
             continue
-        actual = [t.strip(".,;:!?\"'") for t in gl.split()]
-        actual = [t for t in actual if t]
+        actual = gloss_line_tokens(gl)
         if not actual:
             continue
         if sum(1 for t in actual if t in gloss_vocab) <= len(actual) / 2:
