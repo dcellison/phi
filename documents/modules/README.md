@@ -49,6 +49,7 @@ Before treating a term as narrowly module-oriented, ask whether it is needed acr
 | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Profile** | 0 | Organize devices, processes, flows, maintenance, shared resources, reasoning, and exact technical information. |
 | [Philosophical Reasoning](philosophical_reasoning.md) | **Core profile** | 0 | Organize shared definition, evidence, inference, repair, values, disagreement, and revision practices central to Phi's purpose. |
 | [Accessibility and Participation](accessibility_and_participation.md) | **Cross-domain profile** | 0 | Organize environmental and procedural access, communication practices, timing, autonomy, support, and participation without medicalizing disability. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | **Profile** | 0 | Organize shared resources, deliberation, allocation, collective choices, responsibility, accountability, records, and review without presuming authority. |
 
 ## Proposed Profile Catalogue
 
@@ -56,7 +57,6 @@ This catalogue records the profile ideas currently in scope so they do not depen
 
 | Proposed profile | Intended role | Why it may be useful | Evidence gate before creation |
 |---|---|---|---|
-| Commons and Collective Governance | Domain profile | Organize councils, commons, allocation, responsibility, accountability, institutions, and shared decisions. | **Satisfied:** [Grain for hunger and seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed) and [The marker that was not reported](../philosophical_test_corpus.md#12-the-marker-that-was-not-reported) test allocation and accountability with conflicting claims and no assumed authority. |
 | Ecological Systems and Material Life | Domain profile overlapping systems and infrastructure | Organize watersheds, pollution, waste, habitat, biodiversity, climate, resource flows, limits, and regeneration. | Add ecological scenarios that distinguish a lexical gap from a systems-description gap and from exact scientific carriage. |
 | Work, Craft, and Repair | Low-risk organizational profile | Organize the existing dense vocabulary for tools, materials, making, maintenance, labor, teaching, and repair. | Audit the existing craft vocabulary and write an original work-sharing scenario that includes consent and responsibility. |
 
@@ -68,4 +68,4 @@ This catalogue records the profile ideas currently in scope so they do not depen
 | Reproductive health, sexuality, gender, and identity | Scenario-gated areas that must not be silently absorbed into Medical and Bodily Care. They may later justify one or more profiles after respectful corpus work and boundary review. |
 | Technical measurement and science | Shared exact-register and reasoning practice for now. A separate profile should be considered only if cross-domain scenarios show needs not handled by Systems and Shared Infrastructure. |
 
-The scenario gate for a zero-new-root Commons and Collective Governance profile is now satisfied; that profile is next to create. Accessibility and Participation remains active, with a shared-workshop scenario outside a meeting as its next test. Other module evidence includes the delayed household composition task, an injury or public-health scenario written against Medical and Bodily Care, the feedback rewrite specified by Systems and Shared Infrastructure, and the argument transformations specified by Philosophical Reasoning.
+Commons and Collective Governance is now active as a zero-new-root domain profile. Its next evidence is a shared-storehouse institution outside a council, with authority, notice, rule compliance, harm, repair, and review varied independently. Ecological Systems and Material Life is the next proposed profile, but its ecological scenario gate remains unsatisfied. Other module evidence includes the delayed household composition task, an injury or public-health scenario written against Medical and Bodily Care, the feedback rewrite specified by Systems and Shared Infrastructure, the shared-workshop scenario specified by Accessibility and Participation, and the argument transformations specified by Philosophical Reasoning.
