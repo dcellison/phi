@@ -12,7 +12,7 @@ The profile is not an engineering standard, safety certification, unit system, o
 
 - Phi retains one grammar. Technical explanation uses ordinary clauses, evidentials, conditionals, modality, and external frames; this profile adds no systems syntax or operator.
 - Exact specifications, units, formulas, identifiers, standards, and source instructions remain exact external material even if a future module extension adds useful technical content words.
-- Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with Medical and Bodily Care, [Accessibility and Participation](accessibility_and_participation.md), Commons and Collective Governance, Household and Daily Life, and Ecological Systems and Material Life.
+- Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with Medical and Bodily Care, [Accessibility and Participation](accessibility_and_participation.md), [Commons and Collective Governance](commons_and_collective_governance.md), Household and Daily Life, and Ecological Systems and Material Life.
 - A person's value is never treated as a system metric. Technical measurement and human evaluation remain distinct even when both occur in one decision.
 - `theluo` names stewardship, not command. Listing it here does not create an infrastructure ruler, owner, or professional credential.
 
@@ -46,6 +46,7 @@ These are existing Phi roots and function words. The profile indexes them withou
 - [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) tests exact voltage, measurement versus human value, infrastructure consequences, and an unsuccessful explanation of feedback.
 - [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) independently repeats the exact-condition, invalid-inference, and feedback-explanation failures in solar infrastructure.
 - [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) supplies boundary evidence: a technically usable route must also be safe and accessible, and infrastructure support cannot be reduced to device performance.
+- [The marker that was not reported](../philosophical_test_corpus.md#12-the-marker-that-was-not-reported) supplies governance boundary evidence: maintenance, warning access, responsibility, imposed obligation, shared repair, and accountability remain distinct around one failed device.
 
 The two original systems dialogues establish recurrence of several failures, but they did not try all relevant existing roots. In particular, `nuri`, `turema`, `norae`, and `thiranu` may improve a core explanation of recurrence, return, method, and maintenance. The profile therefore treats the feedback finding partly as a retrieval and composition question until those resources are tested.
 
@@ -65,7 +66,7 @@ An exact or guest term may introduce a concept such as `patha feedback loop path
 | Flow and control | input, output, transfer, signal, control, feedback, feedforward | Rewritten feedback passages using `nuri`, `turema`, `selu`, `lorea`, and explicit causation before any proposal. |
 | Technical state | capacity, load, storage, threshold, calibration, tolerance, efficiency, failure mode | Independent energy, water, shelter, and accessibility scenarios in which these distinctions change a decision. |
 | Operation and upkeep | inspection, maintenance interval, service state, fault, outage, redundancy | Connected narratives covering normal use, degradation, repair, and follow-up responsibility. |
-| Shared governance | ownership, authority, access, allocation, accountability, operator role, public obligation | Commons and collective-decision scenarios with conflicting interests and no assumed controller. |
+| Shared governance | ownership, authority, access, allocation, accountability, operator role, public obligation | The paired commons scenarios are organized by [Commons and Collective Governance](commons_and_collective_governance.md); the next evidence must test a standing institution outside a council. |
 | Safety and interoperability | standard, compliance, hazard, reliability, exact conversion, source authority | Source-faithful cases where an omitted specification or mistaken inference could cause harm. |
 
 No new root follows from this profile. The existing feedback evidence is strong enough to demand a re-test, not strong enough to establish that Phi lacks every needed compositional resource.

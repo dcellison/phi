@@ -13,7 +13,7 @@ The profile is not a diagnosis system, disability taxonomy, legal-compliance sta
 - Disability and accessibility are not subsets of sickness or medicine. No diagnosis, impairment label, medical record, or personal disclosure is required before someone can state what they need, refuse an offer, or participate.
 - A person's own identity term or exact account must not be replaced by a supposedly simpler core paraphrase. Preserve source wording when changing it would erase identity, testimony, legal force, or a relevant distinction.
 - Help, support, interpretation, representation, and authority are not interchangeable. An offer to assist does not license touching, carrying, speaking for, deciding for, or disclosing information about another person.
-- Presence, reception of words, understanding, contribution, participation, agreement, endorsement, consent, and readiness to decide remain distinct even where Phi currently expresses several only through clauses and context.
+- Presence, reception of words, understanding, contribution, participation, agreement, endorsement, consent, and readiness to decide remain distinct even where Phi currently expresses several only through clauses and context. [Commons and Collective Governance](commons_and_collective_governance.md) organizes the decision-process side without treating meeting presence as inclusion or authority.
 - One route, format, device, schedule, or form of assistance must not be presented as serving everyone. Access needs may conflict, change, or impose burdens that require an explicit decision rather than a ceremonial promise of inclusion.
 - Phi retains one grammar. This profile adds no accessibility particle, consent syntax, parser mode, professional register, or incompatible construction.
 

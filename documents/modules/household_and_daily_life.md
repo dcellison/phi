@@ -58,7 +58,7 @@ PL 1SG rest.
 
 - **The profile is already useful without claiming completeness.** It can describe shared dwelling, food, material upkeep, and repair in a short connected scene using ordinary core roots.
 - **Many familiar object names remain absent.** A spoon, bottle, chair, storage container, and numerous culturally specific staples do not receive roots merely because English has them. Future texts should first test an existing description, a general vessel or seat, a registered compound, or marked external material.
-- **Household language must not naturalize ownership or hierarchy.** Current core terms can describe home, family, friendship, and community, but they do not themselves express tenancy, property, domestic labor allocation, coercion, or household decision procedures. Those questions belong to later civic and care scenarios rather than a quiet word-list expansion.
+- **Household language must not naturalize ownership or hierarchy.** Current core terms can describe home, family, friendship, and community, but they do not themselves express tenancy, property, domestic labor allocation, coercion, or household decision procedures. Those questions overlap [Commons and Collective Governance](commons_and_collective_governance.md) and care scenarios rather than a quiet word-list expansion.
 - **This is not evidence that the module format works for learners.** The profile only establishes a consistent package shape. A delayed composition and paraphrase task should test whether the grouped vocabulary helps a maintainer find and use existing words more reliably than the alphabetical lexicon alone.
 
 ## Next Use Test
