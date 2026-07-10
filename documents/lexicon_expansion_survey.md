@@ -51,7 +51,7 @@ Probe these in texts about watershed care, heat and cooling, shared energy, repa
 
 Phi has community, council, fairness, justice, responsibility, labor, exchange, and commons. It lacks conventional core vocabulary for government, law, rights, property or ownership, voting, public institutions, contracts, prices, money, and many forms of collective authority.
 
-This is a high-priority gap family because a community cannot discuss a commons only as an ideal. It must be able to discuss allocation, obligations, disagreement, accountability, and institutions that fail. Write decision-making scenarios with real conflicts of value rather than consensus exercises.
+This is a high-priority gap family because a community cannot discuss a commons only as an ideal. It must be able to discuss allocation, obligations, disagreement, accountability, and institutions that fail. The corpus now includes one scarce-grain allocation and one shared-device accountability scenario with conflicting claims and no assumed authority. Their comparison satisfies the scenario gate for a zero-new-root Commons and Collective Governance profile while leaving allocation criteria, institutional role, authority, procedure, accountability, and review as evidence-gated gaps rather than coinage proposals.
 
 ### Care, access, and bodily autonomy
 

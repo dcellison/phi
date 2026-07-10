@@ -571,6 +571,230 @@ CONS 1SG POT prepare. 1SG POT participate.
 
 Together, the two scenarios provide the evidence basis for the zero-new-root [Accessibility and Participation profile](modules/accessibility_and_participation.md). They independently reproduce environmental mismatch, multiple forms of support, permission and refusal, and participation as an outcome while varying the physical, sensory, temporal, semantic, and decision-making conditions. They do not justify a new root or particle. The profile organizes the shared resources, marks the recurring gap families, and keeps the timing and representation findings provisional until they recur again.
 
+## 11. Grain for hunger and seed
+
+This scenario tests allocation of a scarce resource held in common. A prioritizes people who need food now, B prioritizes seed for a future garden, and C claims a larger portion after contributing harvest labor. None is introduced as a ruler, owner, or final authority. The speakers must make a concrete two-portion allocation while their reasons and disagreement remain visible.
+
+```
+A: laenu henoi napuro ma phelu.
+commons ENOUGH grain NEG hold.
+(The commons does not hold enough grain.)
+
+A: sila kumoli nai.
+community hungry be.
+(The community is hungry.)
+
+B: wireo thepalu napuro thinoe phelona.
+future garden grain seed require.
+(The future garden requires grain as seed.)
+
+C: mia napuro muraki riola to shorema.
+1SG grain harvest labor PST contribute.
+(I contributed labor to the grain harvest.)
+
+C: mia phanoi phelona.
+1SG portion require.
+(I need a portion.)
+
+A: lo kumoli miona henoi napuro phelona.
+PL hungry person ENOUGH grain require.
+(The hungry people need enough grain.)
+
+B: lu lo mia theula napuro loa. lo mia wireo thepalu po ma muraki.
+COND PL 1SG UNIV grain give. PL 1SG future garden POT NEG harvest.
+(If we give all the grain, we may not harvest the future garden.)
+
+C: lao mia riola to shorema mia mo whalo phanoi phelona.
+BECAUSE 1SG labor PST contribute 1SG CMPR large portion require.
+(Because I contributed labor, I need a larger portion.)
+
+A: mia ma nawo. lao sila kumoli nai lo mia wei lo kumoli miona napuro na loa.
+1SG NEG agree. BECAUSE community hungry be PL 1SG DAT PL hungry person grain NEC give.
+(I do not agree. Because the community is hungry, we must give grain to the hungry people.)
+
+B: mia ma nawo. lao wireo thepalu napuro thinoe phelona lo mia napuro na phelu.
+1SG NEG agree. BECAUSE future garden grain seed require PL 1SG grain NEC hold.
+(I do not agree. Because the future garden requires grain as seed, we must hold grain.)
+
+C: wa ha thua nai.
+Q PROX fair be.
+(Is this fair?)
+
+A: ta miona laenu kanu po ma phoa. lo mia mua kowela ha kanu shareo.
+one person commons choose POT NEG do. PL 1SG LOC council PROX choose discuss.
+(One person cannot make the commons' choice. We discuss this choice in the council.)
+
+B: lo mia wi napuro phanoi so phoa.
+PL 1SG two grain portion FUT do.
+(We will make two portions of grain.)
+
+B: lo mia wei lo kumoli miona ta napuro phanoi so loa.
+PL 1SG DAT PL hungry person one grain portion FUT give.
+(We will give one portion of grain to the hungry people.)
+
+B: lo mia phea thinoe ta napuro phanoi so phelu.
+PL 1SG AS seed one grain portion FUT hold.
+(We will hold one portion of grain as seed.)
+
+C: mia mena ha kanu thua nai meno ma nohero.
+1SG DECL.COMP PROX choose fair be DECL.COMP.CLOSE NEG believe.
+(I do not believe that this choice is fair.)
+
+A: lu lo mia ha thimu ma kanu. lo kumoli miona nuora po ma phelu.
+COND PL 1SG PROX time NEG choose. PL hungry person food POT NEG hold.
+(If we do not choose now, the hungry people may not have food.)
+
+C: mia ha thimu ha kanu kelomi. whekai mia ma nawo.
+1SG PROX time PROX choose accept. CONTR 1SG NEG agree.
+(I accept this choice now. However, I do not agree.)
+
+A: pheo ta philo lo mia ha kanu so shareo.
+POST one day PL 1SG PROX choose FUT discuss.
+(In one day, we will discuss this choice.)
+```
+
+### Gap log
+
+- **The commons can hold a resource without becoming a government or owner.** `laenu` identifies shared holding, while the clauses name the people, grain, garden, labor, and actions. It does not define membership, title, jurisdiction, exclusion, or who is authorized to allocate the grain.
+- **Concrete portioning is possible, but allocation criteria remain outside it.** `wi napuro phanoi` and the two `ta napuro phanoi` clauses create two portions and assign uses. They do not state the portions' relative size, whether either is sufficient, or why present hunger and future seed receive priority over C's labor claim.
+- **Need, contribution, and future stewardship create different claims.** `phelona`, `shorema`, and the conditional preserve all three reasons, but Phi has no conventional terms for entitlement, eligibility, claim, priority, tradeoff, or a rule for comparing unlike goods.
+- **Fairness names the question rather than answering it.** `thua` can ask whether the choice is fair, but it does not identify equality, sufficiency, contribution, need, repair of prior exclusion, or another distributive criterion. `theloma` would name justice just as broadly.
+- **Plural agency does not establish legitimate procedure.** `lo mia` can state what several people will do, and `kowela` can locate discussion in a council. Neither says who may participate, whether anyone was excluded, how objections affect the result, or whether consensus, voting, delegation, custom, or urgency authorizes the choice.
+- **Acceptance, agreement, and provisional action remain distinct only by composition.** C accepts the allocation for the present while denying agreement, and the group schedules another discussion. Phi has no conventional term for a provisional decision, reservation, appeal, review, or agreement to comply without endorsement.
+- **Urgency can pressure consent.** A's conditional states a real cost of waiting, but it may also narrow C's practical freedom to refuse. Current Phi can expose the reason and the refusal; it cannot classify when urgency becomes coercive or procedurally unfair.
+
+No new root or decision particle follows from this scenario. It supplies an allocation case for comparison with a separate accountability case, not a model constitution for a Phi-speaking commons.
+
+## 12. The marker that was not reported
+
+This scenario tests accountability after shared infrastructure fails. B saw a danger marker and did not report it. C had committed to maintain the device but did not know about the marker and did not complete the maintenance. A first tries to assign repair to B through necessity; B refuses. The speakers distinguish causation, error, commitment, shared holding, repair, and justice without assuming that any participant has unilateral authority.
+
+```
+A: laenu phialu keli to pukate. ha keli wei thepalu phialu ma loa.
+commons water device PST break. PROX device DAT garden water NEG give.
+(The commons' water device broke. This device does not give water to the garden.)
+
+B: mia ha keli siru to hi nila. siru pukea po shelo.
+1SG PROX device marker PST DIR see. marker danger POT signify.
+(I saw the marker on this device directly. The marker may signify danger.)
+
+B: mia sila to ma shane. mia to kanelu.
+1SG community PST NEG tell. 1SG PST err.
+(I did not tell the community. I erred.)
+
+C: mia mena mia ha keli so thiranu meno to seru.
+1SG DECL.COMP 1SG PROX device FUT maintain DECL.COMP.CLOSE PST commit.
+(I committed that I would maintain this device.)
+
+C: whekai mia mena siru pukea po shelo meno to ma sano.
+CONTR 1SG DECL.COMP marker danger POT signify DECL.COMP.CLOSE PST NEG know.
+(However, I did not know that the marker might signify danger.)
+
+A: wa thia ha keli to ka pukate.
+Q 2SG PROX device PST CAUS break.
+(Did you cause this device to break?)
+
+B: mia ha keli to ka ma pukate. whekai mia sila to ma shane.
+1SG PROX device PST CAUS NEG break. CONTR 1SG community PST NEG tell.
+(I did not cause this device to break. However, I did not tell the community.)
+
+A: wa thia thonai nai.
+Q 2SG responsible be.
+(Are you responsible?)
+
+B: mia to kanelu. mia thonai nai. whekai mia ha keli to ka ma pukate.
+1SG PST err. 1SG responsible be. CONTR 1SG PROX device PST CAUS NEG break.
+(I erred. I am responsible. However, I did not cause this device to break.)
+
+C: mia ha keli to ma thiranu. mia we thonai nai.
+1SG PROX device PST NEG maintain. 1SG ALSO responsible be.
+(I did not maintain this device. I am also responsible.)
+
+A: lao laenu ha keli phelu lo mia we thonai nai.
+BECAUSE commons PROX device hold PL 1SG ALSO responsible be.
+(Because the commons holds this device, we are also responsible.)
+
+B: mia ma nawo. lo mia phirae seru phelu.
+1SG NEG agree. PL 1SG different commit hold.
+(I do not agree. We hold different commitments.)
+
+C: ha keli patha inspect every 7 days patho phelona. mia ha to ma sano.
+PROX device EXT.EXACT [inspect every 7 days] EXT.EXACT.CLOSE require. 1SG PROX PST NEG know.
+(This device requires "inspect every 7 days." I did not know this.)
+
+B: mia ha to sano. whekai mia to ma shane.
+1SG PROX PST know. CONTR 1SG PST NEG tell.
+(I knew this. However, I did not tell.)
+
+A: thelao thia ha keli na shiroka.
+CONS 2SG PROX device NEC repair.
+(Therefore, you must repair this device.)
+
+B: mia naweri. mia shiroka norae ma sano.
+1SG refuse. 1SG repair method NEG know.
+(I refuse. I do not know the repair method.)
+
+C: mia thia naweri thekao. lo mia shiroka riola na phowe.
+1SG 2SG refuse acknowledge. PL 1SG repair labor NEC share.
+(I acknowledge your refusal. We must share the repair labor.)
+
+B: mia shiroka riola so shorema. mia lo wireo siru so shane.
+1SG repair labor FUT contribute. 1SG PL future marker FUT tell.
+(I will contribute repair labor. I will report future markers.)
+
+C: mia ha keli so thiranu.
+1SG PROX device FUT maintain.
+(I will maintain this device.)
+
+A: lo mia lo seru so thekiro.
+PL 1SG PL commit FUT write.
+(We will write the commitments.)
+
+A: lo mia mena lo mia shiroka riola so phowe meno nawo.
+PL 1SG DECL.COMP PL 1SG repair labor FUT share DECL.COMP.CLOSE agree.
+(We agree that we will share the repair labor.)
+
+B: whekai wa ha theloma nai.
+CONTR Q PROX justice be.
+(However, is this justice?)
+
+A: lo mia ma sano. pheo ha keli se shiroka lo mia mua kowela ha teru so shareo.
+PL 1SG NEG know. POST PROX device PASS repair PL 1SG LOC council PROX process FUT discuss.
+(We do not know. After this device is repaired, we will discuss this process in the council.)
+
+C: lo mia wela theula miona thonai nai welo ma sano.
+PL 1SG INT.COMP UNIV person responsible be INT.COMP.CLOSE NEG know.
+(We do not know whether every person is responsible.)
+```
+
+### Gap log
+
+- **Causation, warning, commitment, and shared holding are separable in clauses.** `ka ma` lets B deny causing the break without denying the failure to report. C can state a maintenance commitment and its nonperformance. The commons can hold the device. These facts do not establish one undifferentiated responsibility.
+- **`thonai` leaves its scope unresolved.** B and C can each say they are responsible, and A can propose collective responsibility, but the adjective does not state whether responsibility is causal, moral, role-based, contractual, collective, or responsibility to perform a remedy.
+- **A commitment is not an assigned office.** `seru` and `thiranu` record what C accepted, but Phi has no conventional terms for mandate, role, term, handoff, oversight, conflict of interest, or who was responsible when a commitment was impossible to fulfill.
+- **Information access changes accountability.** The exact instruction is available to B and unavailable to C. `sano`, `shane`, and the exact frame preserve that difference, but the language has no established terms for notice, record delivery, disclosure duty, or whether the source instruction was authoritative and accessible.
+- **Necessity does not identify authority.** `thia ha keli na shiroka` imposes an obligation grammatically, but it does not say who is entitled to impose it or why repair follows from B's omission. B's refusal forces the group to negotiate a feasible response rather than treating `na` as governance.
+- **Repair is not the whole of accountability.** Sharing labor and writing commitments may restore the device and reduce recurrence, but they do not by themselves answer for lost water, evaluate the prior commitments, repair trust, or establish what consequence is fair.
+- **A council supplies a forum, not a procedure.** The speakers can discuss the process in `kowela`, but current Phi does not conventionalize investigation, finding, response, review, appeal, enforcement, or authority to close the matter.
+
+No new root follows from this accountability scenario. It changes the question from who can be blamed to which relations must be kept distinct before a shared response can be judged.
+
+## Comparison of the commons scenarios
+
+| Dimension | Grain for hunger and seed | The marker that was not reported | Comparative finding |
+|---|---|---|---|
+| Temporal direction | Allocates a scarce resource among present and future claims | Responds to past omissions and a present infrastructure failure | Governance must handle anticipation, immediate action, retrospective judgment, and future prevention without collapsing them. |
+| Competing claims | Hunger, seed, and contributed labor | Causation, warning, commitment, shared holding, and repair capacity | Existing clauses preserve reasons, but Phi lacks conventions for ranking claims or identifying which responsibility follows from which relation. |
+| Concrete action | Makes two grain portions, gives one, and retains one | Shares repair labor, records commitments, and plans process review | Action is expressible even when legitimacy, fairness, or accountability remains disputed. |
+| Collective agent | `lo mia` acts through discussion in a council | `lo mia` negotiates after an imposed duty is refused | A plural pronoun identifies participants in an action, not membership, authorization, representation, or a decision rule. |
+| Normative vocabulary | `thua` asks whether allocation is fair | `theloma` asks whether the response is justice | Broad value words frame evaluation but do not supply distributive criteria, findings, remedies, or procedures. |
+| Acceptance and disagreement | C accepts a present allocation without agreement | B refuses imposed repair, then agrees to shared labor | Compliance, consent, agreement, commitment, and endorsement must remain separately stated. |
+| Exact and recorded information | Two portions are exact in count but not in size or sufficiency | An exact maintenance instruction and written commitments preserve source forms | Records and precision support governance only when access, interpretation, provenance, and decision relevance are also stated. |
+| Recurring gaps | authority, membership, decision procedure, priority, review | authority, role, accountability, procedure, review | Authority, institutional roles, collective decision procedure, and review recur strongly enough for a zero-new-root profile; specialized terminology remains unproven. |
+| Scenario-specific gaps | entitlement, allocation criterion, provisional decision, urgency pressure | notice, investigation, remedy, enforcement, causal versus role responsibility | Each family needs another independent use before any vocabulary proposal. |
+
+Together, these scenarios satisfy the evidence gate for creating a zero-new-root Commons and Collective Governance profile. They show that Phi can state resources, needs, contributions, commitments, failures, refusals, repair, fairness, justice, and collective action while remaining thin in authority, institutional role, decision procedure, allocation criteria, accountability, and review. The profile should organize those shared resources without turning `kowela`, `laenu`, `thua`, `theloma`, `thonai`, or plural `we` into an unstated constitution.
+
 ## Regression method
 
 After any grammar or philosophical-vocabulary change, validate this file, read every Phi line aloud, paraphrase each section into plain English without looking at its translation, and record any lost distinction. A change passes only if it improves its motivating passage without silently changing the other sections.
