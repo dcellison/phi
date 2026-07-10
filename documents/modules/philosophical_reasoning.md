@@ -58,7 +58,7 @@ These are existing Phi roots and function words. The profile indexes them withou
 - [A phrase under critique](../philosophical_test_corpus.md#4-a-phrase-under-critique) preserves exact outside language and analyzes it separately in core Phi.
 - [Definition under pressure](../philosophical_test_corpus.md#5-definition-under-pressure) separates understanding from agreement and exposes the difference between a definition and a claim about a concept.
 - [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) repeat failures involving validity, counterexample, and systems explanation.
-- [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) and [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) test permission, refusal, explanation, different forms of support, and decisions that must not collapse into generic agreement.
+- [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care), [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words), and [Words before the meeting](../philosophical_test_corpus.md#10-words-before-the-meeting) test permission, refusal, explanation, different forms of support, proxy authority, and participation that must not collapse into generic agreement.
 
 The corpus demonstrates several operations but remains scripted by one maintainer. It is regression evidence for Phi's current forms, not evidence that another reader will recover every intended proposition or discourse relation.
 

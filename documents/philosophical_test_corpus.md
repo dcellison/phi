@@ -448,6 +448,129 @@ PL 1SG meeting FUT change.
 
 No new root or particle follows from this first access scenario. It does, however, establish a second independent setting in which generic possibility is doing permission work and ordinary refusal must carry a specifically scoped consent decision.
 
+## 10. Words before the meeting
+
+This scenario tests access created or denied by a meeting process rather than by a doorway, sound level, diagnosis, or bodily description. B needs the meeting's words before discussion, time to read and think, clarification of a proposal, and a written way to contribute before the group decides. B refuses an offer that another person speak on their behalf. The successful outcome is participation with understood disagreement, not forced consensus.
+
+```
+A: lo mia ha thimu thepalu phialu so shareo.
+PL 1SG PROX time garden water FUT discuss.
+(We will now discuss water for the garden.)
+
+B: phoe lo mia lona phoa mia lona lo phelui theo phelona.
+ANT PL 1SG meeting do 1SG meeting PL word read require.
+(Before we hold the meeting, I need to read the meeting's words.)
+
+A: lo mia wei thia lona lo phelui to ma loa. lo mia to kanelu.
+PL 1SG DAT 2SG meeting PL word PST NEG give. PL 1SG PST err.
+(We did not give you the meeting's words. We erred.)
+
+A: lo mia ha thimu lona lo phelui so thekiro. lona po hasi.
+PL 1SG PROX time meeting PL word FUT write. meeting POT wait.
+(We will write the meeting's words now. The meeting can wait.)
+
+B: mia lo phelui theo phelona. mia remo phelona.
+1SG PL word read require. 1SG think require.
+(I need to read the words. I need to think.)
+
+A: lo mia so hasi.
+PL 1SG FUT wait.
+(We will wait.)
+
+A: lo mia lo phelui to thekiro. lo mia wei thia lo shia to loa.
+PL 1SG PL word PST write. PL 1SG DAT 2SG PL 3SG PST give.
+(We wrote the words. We gave them to you.)
+
+B: mia lo shia to theo.
+1SG PL 3SG PST read.
+(I read them.)
+
+A: lo mia wei thepalu phina phialu so loa.
+PL 1SG DAT garden FEW water FUT give.
+(We will give a little water to the garden.)
+
+B: mia ha reo ma shelomui. pi no ha reo lilea.
+1SG PROX meaning NEG understand. POL IMP PROX meaning clarify.
+(I do not understand this meaning. Please clarify it.)
+
+A: shorela thepalu phialu phelona. lo mia luphore we shorupo. thelao lo mia wei thepalu phina phialu so loa.
+REPH garden water require. PL 1SG river ALSO protect. CONS PL 1SG DAT garden FEW water FUT give.
+(In other words, the garden needs water. We also protect the river. Therefore, we will give a little water to the garden.)
+
+B: mia ha reo shelomui. whekai phoe mia kanu mia remo phelona.
+1SG PROX meaning understand. CONTR ANT 1SG choose 1SG think require.
+(I understand this meaning. However, before I choose, I need to think.)
+
+A: pi wa shia wei thia po haolu.
+POL Q 3SG DAT 2SG POT speak.
+(May they speak for you?)
+
+B: mia naweri. shia mia remo ma sano.
+1SG refuse. 3SG 1SG think NEG know.
+(I refuse. They do not know what I think.)
+
+B: mia lo phelui so thekiro. mia wei lona lo shia so shorema.
+1SG PL word FUT write. 1SG DAT meeting PL 3SG FUT contribute.
+(I will write the words. I will contribute them to the meeting.)
+
+B: phoe lo thia mia lo phelui howela pi no hasi.
+ANT PL 2SG 1SG PL word receive POL IMP wait.
+(Please wait until you receive my words.)
+
+A: lo mia thia naweri thekao. lo mia so hasi.
+PL 1SG 2SG refuse acknowledge. PL 1SG FUT wait.
+(We acknowledge your refusal. We will wait.)
+
+B: mia lo phelui to thekiro. mia wei lona lo shia to shorema.
+1SG PL word PST write. 1SG DAT meeting PL 3SG PST contribute.
+(I wrote the words. I contributed them to the meeting.)
+
+A: lo mia thia lo phelui to howela. lo mia ha reo shelomui.
+PL 1SG 2SG PL word PST receive. PL 1SG PROX meaning understand.
+(We received your words. We understand this meaning.)
+
+B: mia mena lo mia wei thepalu phina phialu so loa meno ma nawo. whekai mia mua lona pawela.
+1SG DECL.COMP PL 1SG DAT garden FEW water FUT give DECL.COMP.CLOSE NEG agree. CONTR 1SG LOC meeting participate.
+(I do not agree that we will give a little water to the garden. However, I participate in the meeting.)
+
+A: lo mia mena thia ma nawo meno thekao. lo mia ha thimu ma kanu. lo mia so hasi.
+PL 1SG DECL.COMP 2SG NEG agree DECL.COMP.CLOSE acknowledge. PL 1SG PROX time NEG choose. PL 1SG FUT wait.
+(We acknowledge that you do not agree. We do not choose now. We will wait.)
+
+A: phoe lo mia wireo lona phoa lo mia lona lo phelui so thekiro.
+ANT PL 1SG future meeting do PL 1SG meeting PL word FUT write.
+(Before we hold a future meeting, we will write the meeting's words.)
+
+B: thelao mia po thilonu. mia po pawela.
+CONS 1SG POT prepare. 1SG POT participate.
+(Therefore, I can prepare. I can participate.)
+```
+
+### Gap log
+
+- **Meeting time and procedure can be access conditions.** `phoe`, `hasi`, `theo`, `thekiro`, `remo`, and `phelona` compose a request for information before discussion and time to read and think. Phi still has no conventional distinction among advance notice, an agenda, processing time, a recess, a postponement, and an ordinary delay.
+- **`lona phelui` is useful but underspecified.** The meeting's words could be an agenda, proposal, transcript, notice, instructions, or record. The broad composition avoids importing an institutional form, but it cannot identify which document a participant needs or whether it is complete and authoritative.
+- **Clarification and rephrasing do not guarantee equivalence.** B can request clarification and A can answer with `shorela`, but A's response supplies a need, a second value, and a conclusion rather than merely restating one proposition. The existing repair resources expose the interaction; they do not prove that the reformulation preserved scope or reasons.
+- **Refusing proxy speech is expressible, but representation is not.** `pi wa shia wei thia po haolu` can be intended as asking whether another person may speak for B, and `naweri` plus `thekao` can stop that action. Yet `wei thia` can also be understood as speaking to or for the benefit of B. Phi has no conventional distinction among addressing someone, assisting them, representing their view, and receiving authority to decide for them.
+- **Written contribution is compositional.** `thekiro`, `shorema`, and `pawela` let B write, contribute, and participate without requiring spoken contribution or agreement. Phi still lacks conventional terms for communication format, asynchronous contribution, decision support, or an access requirement.
+- **Waiting protects participation here but is ethically neutral.** `hasi` can suspend the meeting and decision, but the same verb does not say whether delay enables access, excludes someone, avoids accountability, or creates a new burden. Participants must state the surrounding reason and consequence.
+- **Participation remains distinct from agreement.** B understands the proposal, contributes to the meeting, and still says `ma nawo`. This strengthens an existing Phi practice without claiming that participation, endorsement, consent, and readiness to decide are lexicalized as separate technical categories.
+
+### Comparison with the doorway scenario
+
+| Dimension | Doorway, route, and written words | Words before the meeting | Comparative finding |
+|---|---|---|---|
+| Location of the barrier | A narrow entrance and inaccessible spoken words | Late information, immediate discussion, and pressure to decide | The environmental analysis recurs beyond architecture: procedures and timing can also disable participation. |
+| Requested change | A wide safe route and written words during the meeting | Written material before discussion, time to read and think, and acceptance of a later written response | Access is not one intervention; timing and sequence matter as much as physical or sensory form. |
+| Autonomy | A refuses being carried | B refuses proxy speech | Refusal and acknowledgement recur across materially different offers, supporting their retention in shared core practice. |
+| Communication | Speech is converted into writing | Writing occurs before and during deliberation, with clarification and rephrasing | The second scenario adds temporal access, semantic repair, and contribution rather than reception alone. |
+| Participation | A route and written words make presence and comprehension possible | B contributes, is understood, and remains in disagreement | The second scenario sharpens the distinction between access to a process and agreement with its outcome. |
+| Permission ambiguity | `pi wa ... po` asks before carrying | `pi wa ... po` asks before proxy speech | The possibility marker again performs contextual permission work; its scope and duration remain unstated. |
+| Institutional boundary | Building and meeting format overlap with infrastructure | Facilitation, representation, and decision timing overlap with governance | Accessibility is cross-domain and cannot be assigned exclusively to medicine, infrastructure, or governance. |
+| New unresolved distinctions | barrier, accommodation, access requirement, communication format, independent access | advance notice, processing time, postponement, proxy representation, asynchronous contribution, decision hold | The first family now recurs; the second remains a first occurrence requiring further use. |
+
+Together, the two scenarios satisfy the evidence gate for creating a zero-new-root Accessibility and Participation profile. They independently reproduce environmental mismatch, multiple forms of support, permission and refusal, and participation as an outcome while varying the physical, sensory, temporal, semantic, and decision-making conditions. They do not justify a new root or particle. The profile should organize the shared resources, mark the recurring gap families, and keep the timing and representation findings provisional until they recur again.
+
 ## Regression method
 
 After any grammar or philosophical-vocabulary change, validate this file, read every Phi line aloud, paraphrase each section into plain English without looking at its translation, and record any lost distinction. A change passes only if it improves its motivating passage without silently changing the other sections.
