@@ -496,7 +496,7 @@
 | `phuri` | brush | Brush |
 | `phuwai` | lung | Lung |
 | `piloe` | spot | Spot |
-| `pilomu` | plane tree | Plane Tree |
+| `pilomu` | sycamore | Sycamore |
 | `piru` | trader | Trader |
 | `ponu` | door | Door |
 | `porua` | purpose | Purpose |

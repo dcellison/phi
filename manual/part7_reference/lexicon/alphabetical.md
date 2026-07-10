@@ -511,7 +511,7 @@
 | `pi` | POL | /ˈpi/ | particle |
 | `pilewa` | make | /pi.ˈle̞.wä/ | verb |
 | `piloe` | spot | /pi.ˈlo̞.e̞/ | noun |
-| `pilomu` | plane tree | /pi.ˈlo̞.mu/ | noun |
+| `pilomu` | sycamore | /pi.ˈlo̞.mu/ | noun |
 | `pilu` | take | /ˈpi.lu/ | verb |
 | `pina` | sew | /ˈpi.n̪ä/ | verb |
 | `pio` | hehe | /ˈpi.o̞/ | interjection |

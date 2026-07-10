@@ -943,7 +943,7 @@
 | `phuliro` | stream | Small waterway |
 | `phuro` | renew | Following natural patterns of renewal |
 | `piloe` | spot | The dapple and the speckle |
-| `pilomu` | plane tree | The dappled street-and-river tree |
+| `pilomu` | sycamore | The dappled street-and-river tree |
 | `pisha` | split | How seeds and paths divide |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
@@ -1176,7 +1176,7 @@
 | `phuwai` | lung | Respiratory organs within the chest |
 | `pilewa` | make | transforming materials through action |
 | `piloe` | spot | One small patch of color |
-| `pilomu` | plane tree | Tall broad-leaved shade tree |
+| `pilomu` | sycamore | Tall broad-leaved shade tree |
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
