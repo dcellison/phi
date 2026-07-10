@@ -18,6 +18,6 @@ Purpose, knowledge, precision: the slots are a checklist the sentence runs on th
 
 ## Structure and spontaneity
 
-It would be fair to worry that all this apparatus makes speech stiff. The experience runs the other way, and every musician already knows why: scales are what make improvisation possible. A speaker who has internalized the slots stops experiencing them as rules; the checklist becomes reflex, and the reflex becomes freedom: the ability to say precisely what one means, spontaneously, because the structure that guarantees precision no longer costs attention.
+It would be fair to worry that all this apparatus makes speech stiff. Practice can make the slots more automatic, as scales can support musical improvisation. Automatic structure frees attention for meaning, but it cannot guarantee precision; ambiguity, repair, and interpretation remain part of language use.
 
 That is grammar's role in this language. Not regulation. Rehearsal, for the kind of speaking a person might want to do anyway, if they had the time to consider every sentence. In Phi, the considering is built in.

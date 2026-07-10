@@ -1,13 +1,13 @@
 # The Phi Development Protocol
 
 ## Overview
-Phi is a constructed auxiliary language designed to promote mindful, peaceful communication through its phonological, grammatical, and philosophical structure. Every aspect—from individual sounds to sentence patterns—serves to slow speech, encourage reflection, and embody non-violence.
+Phi is a philosophical constructed language for reflective writing and discussion. It is not intended as a universal auxiliary language. Its phonology, grammar, lexicon, and teaching practices invite deliberate, cooperative communication; these are design intentions to test in use, not guarantees about what the language does to a speaker.
 
-This protocol binds anyone developing the language — coining words, extending grammar, or writing its documents. The authority order for every claim is `/canon.md`.
+This protocol binds the maintainer and anyone contributing to the language: coining words, extending grammar, or writing its documents. The authority order for every claim is `/canon.md`. While Phi has one maintainer, significant choices are recorded in `documents/development_log.md`; a public RFC process is deferred until recurring users make one useful.
 
 ## The Organizing Principle: Modifier-First
 
-Phi is governed by a single, exceptionless principle that supersedes traditional grammatical categories:
+Phi is organized by one modifier-first principle that reaches across traditional grammatical categories:
 
 **Every element that modifies, specifies, or relates another element comes BEFORE what it affects.**
 
@@ -20,7 +20,7 @@ This "announce then deliver" principle creates transparent communication where a
 - Quantifiers before nouns
 - Dependent clauses before main clauses
 
-**This is not just syntax—it's embodied philosophy.** Every sentence becomes practice in announcing intent before action, fostering conscious communication.
+**This is syntax used as philosophical practice.** Every sentence can rehearse announcing a relation or intention before its content, but grammar alone does not guarantee reflection or peaceful conduct.
 
 ## Core Constraints Checklist
 
@@ -31,7 +31,7 @@ This "announce then deliver" principle creates transparent communication where a
 - [ ] **Maintains vowel hiatus**: Each vowel = separate syllable (no diphthongs)
 - [ ] **Vowel hiatus transcription**: Always show syllable breaks with dots: au=/a.u/, not /au/
 - [ ] **Respects three-vowel constraint**: Never VVV+ sequences
-- [ ] **No duplicate syllables**: Cannot repeat same CV unit within word
+- [ ] **No duplicate syllables in core lexicon words**: Adapted guest payload is explicitly exempt because its frame already prevents lexical confusion
 - [ ] **Begins with consonant**: All words start with C or F
 - [ ] **Ends with vowel**: All syllables are open
 - [ ] **Dental articulation**: /t/ and /n/ are dental, not alveolar
@@ -62,11 +62,13 @@ Each new word must explicitly connect to at least one pillar:
 - [ ] **Pre-industrial wisdom**: Cyclical thinking, embodied knowledge
 
 ### Semantic Principles
-- [ ] **Avoid violence**: No direct words for weapons, war, harm
+- [ ] **Keep the core value-explicit**: Record what a choice favors, what it makes difficult, and whose needs it may fail to serve
+- [ ] **Analyze violence and domination without normalizing them**: Prefer core descriptions when they expose a mechanism; use marked exact material when faithful report is required
 - [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., womu = house+belonging, the dwelling-heart)
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
 - [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
-- [ ] **Maintain value neutrality**: Let speakers map to their own cultural understanding
+- [ ] **Review refusals case by case**: A refusal must not obstruct care, self-identification, consent, safety, testimony, or philosophical critique
+- [ ] **Mark external provenance**: Use `hasha … hasho` for adapted guest material and `patha … patho` for exact opaque material
 - [ ] **Create semantic families**: Build interconnected word networks where shared roots illuminate meanings (mycelial approach)
 
 ## Word Creation Protocol
@@ -74,13 +76,16 @@ Each new word must explicitly connect to at least one pillar:
 ### Step 1: Conceptual Analysis
 - What core human value/experience does this represent?
 - Can this be composed from existing words?
-- How does this concept support peaceful/mindful communication?
+- What recurring discourse failure demonstrates the need?
+- Would a core word, registered compound, guest form, exact form, or maintained refusal serve best?
+- Which value does the choice express, and what legitimate use might it burden?
 
 ### Step 2: Sound Selection
 - Choose sounds that embody the concept's feeling
 - Ensure phonological rules are met
 - **Run the collision check**: `python3 scripts/validate_examples.py neighbors <candidate>`
   - REJECT any candidate at edit distance 1 from an existing word of the same part-of-speech class (content vs. the same function class)
+  - The designed opener/closer paradigms are the sole same-class exception: each paired frame shares its first syllable and contrasts final `a` with `o`. Evaluate the pair as one proposal, require that neither form has any additional distance-1 neighbor in its class, and prioritize the contrast in listening review
   - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word) — note them in `grammatical_notes`
   - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
   - Prefer three or more syllables unless the concept truly belongs to the daily round: the two-syllable space is the most collision-congested (≈5,200 legal forms, heavily grandfathered), while three syllables offer ≈377,000 and four are effectively inexhaustible
@@ -100,7 +105,17 @@ Each new word must explicitly connect to at least one pillar:
 ### Step 5: Compositional Testing
 - Can this word combine with others meaningfully?
 - Does it maintain Phi's aesthetic when spoken?
-- Does it slow speech appropriately for mindfulness?
+- Does it remain distinct in careful and conversational speech?
+- Does it solve the examples that motivated it without creating a broader ambiguity?
+
+## External Register Checklist
+
+- [ ] `hasha … hasho` payload is lowercase and Phi-pronounceable, but is not added to the lexicon or used bare
+- [ ] `patha … patho` payload is preserved exactly and treated as opaque by Phi grammar and tooling
+- [ ] Every occurrence carries both boundaries; guest frames do not nest and exact payload uses doubled `patho patho` for a literal closer token
+- [ ] `ne` and other Phi particles stand outside the complete external atom
+- [ ] Exact reporting is described as provenance, not approval, condemnation, or core adoption
+- [ ] A proposed promotion from guest material passes the complete word-creation protocol independently of frequency
 
 ## Grammar Extension Rules
 
@@ -130,42 +145,41 @@ Each new word must explicitly connect to at least one pillar:
 - Check for natural rhythm/musicality
 
 ### Philosophical Test
-- Does this support peaceful communication?
-- Does it encourage mindfulness?
+- Does this support cooperative communication in the motivating scenario?
+- Does it invite reflection without claiming to cause it?
 - Does it reflect interconnection/interdependence?
 - Does it resist hierarchical/violent framing?
+- Can it report or criticize a disfavored framing faithfully when needed?
 
 ### Learnability Test
-- Is the sound-meaning connection intuitive?
+- Is the sound-meaning association teachable without presenting symbolism as universal?
 - Can the concept be understood compositionally?
 - Does it follow all established patterns?
-- Will speakers find it beautiful to speak?
+- Is it distinguishable from nearby high-frequency words in recorded self-review?
+- Which learnability questions still require evidence from other speakers?
 
 ## Red Flags to Avoid
-- ❌ Creating exceptions to phonological rules
-- ❌ Adding irregular grammatical patterns
-- ❌ Introducing culturally specific concepts
-- ❌ Enabling easy expression of violence/hierarchy
-- ❌ Prioritizing efficiency over mindfulness
-- ❌ Breaking vowel hiatus for any reason
-- ❌ Using consonant clusters beyond F digraphs
-- ❌ Creating words that encourage rapid speech
-- ❌ Creating words that don't fit into semantic families
-- ❌ Enabling word-for-word translation rather than transmutation
-- ❌ Creating particles that violate slot positioning rules
+- Creating silent exceptions to core phonological rules
+- Adding irregular grammar without a demonstrated discourse need
+- Presenting a culturally situated choice as neutral or universal
+- Making care, identity, consent, safety, testimony, or critique impossible in order to preserve an aesthetic refusal
+- Treating efficiency or slowness as an unconditional virtue
+- Breaking core vowel hiatus or adding consonant clusters beyond the four digraphs
+- Creating words without testing composition and semantic-family relationships first
+- Using unmarked word-for-word translation where transmutation or an external frame would be more honest
+- Creating particles that violate slot positioning rules
 
 ## Core Philosophy Reminder
-Every addition to Phi should make speakers:
-- Speak more slowly and deliberately
-- Think more carefully about word choice
-- Feel the physical practice of peace in articulation (embodied/somatic practice)
-- Experience communication as collaborative art
-- Connect with the natural world's patterns
-- Transform through repetition of gentle, mindful sounds
-- Discover semantic families that teach through interconnection
-- Practice "transmutation" rather than mere translation
+Every addition to Phi should make the following practices available without claiming that grammar compels them:
+- Careful, deliberate speech
+- Explicit reflection on word choice and evidential stance
+- Communication approached as collaborative art
+- Attention to ecological relationships and natural cycles
+- Semantic families that expose interconnection
+- Transmutation rather than automatic word substitution
+- Faithful marked reporting when core Phi is not the right carrier
 
-**The constraints ARE the teaching. The difficulty IS the practice.**
+**The constraints are part of the teaching. Their difficulty must earn its place in use.**
 
 ## Technical Implementation Notes
 
@@ -206,4 +220,4 @@ For detailed information, consult:
 - **Philosophy**: `documents/language_guide.md`
 
 ## Final Reminder
-Phi is not merely a language but a practice of conscious communication. Every design decision should support the transformation of speakers toward greater mindfulness, compassion, and connection with all beings. The language itself is the teaching.
+Phi is both a language and a proposed practice of conscious communication. Every design decision should support philosophical expression, compassion, ecological relationship, and honest disagreement while remaining open to correction by actual use. The language offers the practice; speakers do the work.

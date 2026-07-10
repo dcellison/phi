@@ -27,6 +27,10 @@ The single validation tool for the Phi project. Checks:
 
   2. Documentation examples (documents/, manual/, pamphlets/, CLAUDE.md):
      - every Phi token inside fenced code blocks exists in the lexicon
+     - adapted payload inside hasha...hasho follows guest phonotactics
+       without requiring a lexicon entry
+     - opaque payload inside patha...patho preserves arbitrary source
+       text while boundaries, escaping, and surrounding Phi are checked
      - gloss lines beneath Phi lines render each word by its lexicon
        gloss, verbatim (names after ne/honorifics gloss as themselves;
        register names accept either reading; translation lines and
@@ -54,6 +58,8 @@ import json
 import re
 import sys
 from pathlib import Path
+
+import external_register
 
 PROJECT_ROOT = Path(__file__).parent.parent
 MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "minimal_pairs_baseline.txt"
@@ -683,9 +689,11 @@ def is_phi_line(raw_line, lexicon_words, strict=False):
     strict=True (used for *italic* spans in prose, where short English
     fragments like "point to" can collide with Phi particles) requires a
     strict majority of known tokens instead of at-least-half."""
-    if GLOSS_HINTS.search(raw_line):
+    external = external_register.analyze(raw_line)
+    core_line = external.core_text
+    if GLOSS_HINTS.search(core_line):
         return False
-    stripped = strip_brackets(raw_line)
+    stripped = strip_brackets(core_line)
     tokens = stripped.split()
     if not tokens:
         return False
@@ -698,7 +706,8 @@ def is_phi_line(raw_line, lexicon_words, strict=False):
 
 
 def phi_tokens(raw_line):
-    return strip_brackets(raw_line).split()
+    core_line = external_register.analyze(raw_line).core_text
+    return strip_brackets(core_line).split()
 
 
 # The household register (naming pamphlet, family register): words that
@@ -719,27 +728,52 @@ def expected_gloss_stream(phi_line, gloss_of):
     unknown — those are reported by the unknown-word check."""
     out = []
     expecting_name = False
-    for tok in phi_line.split():
-        core = tok.strip(".,;:!?*\"'").lower()
-        if not core:
-            continue
-        g = gloss_of.get(core)
-        if g is None:
+
+    def append_core(fragment):
+        nonlocal expecting_name
+        for tok in fragment.split():
+            core = tok.strip(".,;:!?*\"'").lower()
+            if not core:
+                continue
+            g = gloss_of.get(core)
+            if g is None:
+                return False
+            g = re.sub(r"\s*\([^)]*\)", "", g).strip()
+            is_label = g.isupper()
+            if expecting_name and not is_label:
+                out.append({core})
+                expecting_name = False
+            elif core in NAMES:
+                out.append({core, g})
+            else:
+                for word in g.split():
+                    out.append({word})
+            if core == "ne" or g in HONORIFIC_GLOSSES:
+                expecting_name = True
+            elif not is_label:
+                expecting_name = False
+        return True
+
+    external = external_register.analyze(phi_line)
+    if external.errors:
+        return None
+    cursor = 0
+    for span in external.spans:
+        if not append_core(phi_line[cursor:span.payload_start]):
             return None
-        g = re.sub(r"\s*\([^)]*\)", "", g).strip()
-        is_label = g.isupper()
-        if expecting_name and not is_label:
-            out.append({core})
-            expecting_name = False
-        elif core in NAMES:
-            out.append({core, g})
-        else:
-            for w in g.split():
-                out.append({w})
-        if core == "ne" or g in HONORIFIC_GLOSSES:
-            expecting_name = True
-        elif not is_label:
-            expecting_name = False
+        payload = phi_line[span.payload_start:span.payload_end].strip()
+        if not payload:
+            return None
+        for token in f"[{payload}]".split():
+            out.append({token})
+        closer = (external_register.GUEST_CLOSE if span.kind == "guest"
+                  else external_register.EXACT_CLOSE)
+        if not append_core(closer):
+            return None
+        expecting_name = False
+        cursor = span.end
+    if not append_core(phi_line[cursor:]):
+        return None
     return out
 
 
@@ -849,7 +883,15 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None):
                 # detection is case-blind so capitalized Phi cannot hide
                 if not is_phi_line(cand.lower(), lexicon_words, strict=strict):
                     continue
-                for tok in cand.split():
+                external = external_register.analyze(cand)
+                for error in external.errors:
+                    errors.append(
+                        f"{rel}:{lineno}: external register: {error}"
+                    )
+                # Exact payload deliberately retains source case.  Guest
+                # payload remains in this view and its stricter lowercase
+                # rule is reported by the shared parser above.
+                for tok in external.punctuation_text.split():
                     core = tok.strip(".,;:!?\"'()*")
                     if core and core != core.lower() and core.lower() in lexicon_words:
                         errors.append(f"{rel}:{lineno}: capital letter in Phi text: '{core}' (Phi has no capitals; ne announces a name)")
@@ -857,7 +899,7 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None):
                 # only on fenced lines (prose cites Phi words inside English
                 # sentences whose commas are English), with parenthetical
                 # annotations stripped first
-                bare = re.sub(r"\([^)]*\)", "", cand)
+                bare = re.sub(r"\([^)]*\)", "", external.punctuation_text)
                 if "?" in bare or "!" in bare or ";" in bare or (not excuse_commas and "," in bare):
                     errors.append(f"{rel}:{lineno}: punctuation in Phi text: periods only (no commas or question marks)")
                 for tok in phi_tokens(cand.lower()):

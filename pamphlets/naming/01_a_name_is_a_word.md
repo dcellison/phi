@@ -1,6 +1,6 @@
-# Part 1: A name is a word
+# Part 1: A core name is a word
 
-The doctrine lives in manual ch9 §5 and ch21, and canon settles it in one sentence: a person's name is a lexicon word borne as a name, announced by `ne`. Phi has no separate stock of name-syllables, no register of sounds reserved for people. Someone is walking around being warmth. Someone is being seed. Here is the recurring cast of the manual and the primer, and the words they carry:
+The doctrine lives in manual ch9 §5 and ch21, and canon settles the core system in one sentence: a core Phi name is a lexicon word borne as a name, announced by `ne`. Phi has no separate stock of core name-syllables. Someone is walking around being warmth. Someone is being seed. Here is the recurring cast of the manual and the primer, and the words they carry:
 
 | Name | The word it is | Who carries it |
 |---|---|---|
@@ -28,9 +28,25 @@ Nothing about the syllables changed. What changed is the sentence's population: 
 
 ### What follows from this
 
-Because names are words, everything the language already does for words it does for names. The collision rules protect them: no one's name can sit one sound away from a neighbor's and cause confusion. The validator checks them like any vocabulary, with no whitelist of exceptions. Anyone can bear any word, and the language can never run out of names. And every introduction is a small vocabulary lesson: meet `sulae` and you have met *warm*; the person teaches you the word by proving it daily.
+Because core names are words, everything the language already does for words it does for them. The collision rules protect them, and the validator checks them like vocabulary. Anyone can bear any core word. Every such introduction is also a vocabulary lesson: meet `sulae` and you have met *warm*.
 
-Because names are announced rather than capitalized, no name outranks the sentence it stands in. Phi has no capital letters (not for sentences, not for names, in any mode of writing), and Part 6 takes up what that means for the writer. For now, one sentence of canon carries the idea: what capitals do for names, `ne` does aloud.
+Because core and guest names are announced rather than capitalized, neither outranks the sentence it stands in. Core Phi and guest material have no capital letters, and Part 6 takes up what that means for the writer. Exact external names may retain source case inside their frame; `ne` still announces the whole atom aloud.
+
+### Existing names need not be replaced
+
+A speaker may carry an existing name exactly or adapt it to Phi pronunciation. Both forms remain marked on every occurrence:
+
+```
+mia nomei ne patha Amina patho nai.
+1SG name NAME EXT.EXACT [Amina] EXT.EXACT.CLOSE be.
+(My name is Amina.)
+
+mia nomei ne hasha hamina hasho nai.
+1SG name NAME EXT.GUEST [hamina] EXT.GUEST.CLOSE be.
+(My name is Amina, adapted to Phi pronunciation.)
+```
+
+The external frame does not make `Amina` or `hamina` a lexicon word. It lets the person keep the name rather than requiring a Phi replacement.
 
 ### Drill: word or someone
 

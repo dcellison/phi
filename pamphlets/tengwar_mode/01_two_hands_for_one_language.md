@@ -6,7 +6,7 @@ mia phelui thekiro.
 (I write a word.)
 ```
 
-Read that line aloud and it sounds like Phi. Written in Tengwar, every sound is still there: a different hand, the same voice. Canon's *Letters* ruling makes this a design rule, not a preference: romanization is one mode of writing Phi among peers, the Tengwar mode is another, and a mark may carry meaning only if every mode can carry it. Nothing in the Tengwar mode says anything romanization cannot say. Nothing in romanization says anything Tengwar cannot show.
+Read that core line aloud and it sounds like Phi. Written in Tengwar, every core sound is still there: a different hand, the same voice. Canon's *Letters* ruling makes Roman and Tengwar peers for core and guest material. Exact external payload is the marked exception: `patha` and `patho` render in Tengwar while source script or notation remains unchanged between them.
 
 The two hands are not equally efficient, and that is the point of learning the second one. Romanization spells *mia phelui thekiro* sixteen letters in a row. Tengwar spells the same sentence in six tengwar, each carrying its own vowels as tehtar rather than needing a separate letter for them. A consonant's own shape already tells a reader where to look for its vowels (above for the one that follows it directly, below for the one that follows in hiatus), so nothing is ever written that is not already implied by what came before it. The mode was fitted to Phi, not borrowed and stretched to cover it: every word begins with a consonant, so no word ever needs a bare vowel-carrier at its head, and the three-vowel constraint means at most two vowels ever stand in a row, so one tengwa's above-and-below always has room for everything the phonology allows to follow it.
 

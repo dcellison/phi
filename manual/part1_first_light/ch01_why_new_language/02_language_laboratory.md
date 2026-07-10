@@ -26,7 +26,7 @@ In Lojban, no sentence can be parsed two ways: the grammar engineers out the amb
 
 A more recent branch comes from minimalism. Where Lojban adds machinery until nothing is ambiguous, Sonja Lang's Toki Pona subtracts: maximum meaning from minimum elements.
 
-Toki Pona has about 120 words. No complex tenses, no subordinate clauses, extremely simple sounds. This constraint is the point. With only a handful of building blocks, the language forces mindfulness. You can't retrieve a pre-packaged word for a complex idea; you have to build it from scratch, in the moment.
+Toki Pona has a deliberately small vocabulary, few grammatical categories, and a compact sound system. Its constraints invite speakers to compose many complex ideas from a small set of building blocks. Some learners experience that as mindful practice, but the language does not force a particular mental state.
 
 A car becomes "moving space for people." A computer becomes "thinking machine." Speaking Toki Pona is a practice in letting go of intellectual clutter and focusing on what's simple and direct. It shows that a language's power can come from what it leaves out.
 

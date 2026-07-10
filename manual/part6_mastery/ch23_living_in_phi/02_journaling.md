@@ -30,7 +30,7 @@ Witness, feeling, wish: past, present, future, one line each, every tense partic
 
 ## Write the gaps down
 
-When the day contains something you cannot say, write the English word in the margin and the nearest Phi you can build beside it. A journal kept this way becomes two records at once: a life, and a map of where the language still needs to grow. Several words in the lexicon today (including some in this manual) began as somebody's margin.
+When the day contains something core Phi cannot yet say, preserve the source inside `patha … patho` and write the nearest Phi analysis beside it. The journal then records both the life and the distinction between an external term and a recurring semantic gap. Repetition creates evidence for review, not automatic permission to coin.
 
 ## Privacy of a different kind
 

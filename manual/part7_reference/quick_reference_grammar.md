@@ -2,7 +2,7 @@
 
 One page of the whole system. Details: `documents/grammar/`; authority order: `/canon.md`.
 
-## The one principle
+## The organizing principle
 
 **Every element that modifies, specifies, or relates comes BEFORE what it affects.** Everything below is this principle applied.
 
@@ -20,7 +20,7 @@ One page of the whole system. Details: `documents/grammar/`; authority order: `/
 | Wish | su + statement | `su sila towe nai.` (May the community be well.) |
 | Need not | S lila V ralu nai | `thia lila wepu ralu nai.` (You need not go.) |
 
-Periods only: Phi writes no commas, question marks, or exclamation marks in any mode; the punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Topic-drop: an established subject may be omitted.
+Core and guest material use periods only: no commas, question marks, or exclamation marks; the punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Exact payload inside `patha … patho` preserves source punctuation and case. Topic-drop: an established subject may be omitted.
 
 ## The three slots
 
@@ -39,10 +39,12 @@ Periods only: Phi writes no commas, question marks, or exclamation marks in any 
 | `mena … meno` | S mena [clause] meno V | that-clause (reported content) |
 | `wela … welo` | S wela [clause] welo V | embedded yes/no question |
 | `shola … sholo` | S shola [quote] sholo V | direct quotation (exact words) |
+| `hasha … hasho` | [Phi grammar] hasha [adapted payload] hasho | pronounceable external guest atom |
+| `patha … patho` | [Phi grammar] patha [opaque payload] patho | exact external atom |
 | `rena …` + NOUN | [rena clause] NOUN | relative clause (no closer; the head noun bounds it) |
 | `kona [ne] NAME` | extra-clausal | vocative address |
 
-Embedded clauses carry their own tense. Nesting pairs strictly.
+Embedded clauses carry their own tense. Clause frames nest in matched pairs. Guest frames cannot nest; exact payload is opaque. Both external frames occupy one nominal position, keep Phi particles outside, and remain marked on every occurrence.
 
 ## Noun phrase order
 

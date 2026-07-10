@@ -22,4 +22,4 @@ The pattern is the sentence pattern: operands first, operation verb last, result
 
 When the operands are real things rather than pure numbers, both carry the same classifier (you cannot gather two people with three trees), and for bare mathematics the classifiers are simply omitted.
 
-Notice what the verbs refuse to be: short. *sholei*, *welura*, *phanoi* take as long to say as any other Phi word, and that is the design: calculation at speaking pace, each step a sentence someone could hear and check. The language has no way to rattle off figures, which means it has no way to stop noticing what the figures are of.
+Notice that the arithmetic verbs are full content words. Core calculation at teaching pace gives each step a sentence someone can hear and check. Fluent speakers may still calculate quickly, and exact external notation can carry an arbitrary result; the design encourages attention without guaranteeing it.

@@ -10,7 +10,9 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **classifier**: A word that names the *kind* of thing being counted. Phi's four: `himo` (people), `lipha` (living things), `themo` (objects), `nophe` (abstractions). Optional, and used as an act of acknowledgment.
 
-**complementizer**: A word that turns a whole clause into a piece of another sentence. Phi's come in opener/closer pairs: `mena…meno` (that-clauses), `wela…welo` (embedded questions), `shola…sholo` (quotations). The closer is required because Phi's verb-final order would otherwise stack two verbs ambiguously.
+**complementizer**: A framing function word. Phi's clause frames include `mena…meno` (that-clauses), `wela…welo` (embedded questions), and `shola…sholo` (Phi quotations). The same opener/closer shape also marks the nominal external atoms `hasha…hasho` (adapted guest) and `patha…patho` (exact opaque material).
+
+**external register**: Two explicitly bounded ways to carry non-core material. Guest payload is adapted to Phi pronunciation; exact payload retains source spelling, script, punctuation, notation, or terminology. Neither becomes core vocabulary through use.
 
 **copula**: The verb *to be* linking a subject to a description. Phi's `nai`; the predicate comes before it (`shelira phelora nai` — the forest is beautiful).
 
@@ -34,7 +36,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **particle**: A short, invariant grammatical word. In Phi, always a single CV syllable, assigned to one of three slots: sentence-frame (Slot 0), verb-phrase (Slot 1), word-level (Slot 2).
 
-**phonotactics**: The rules for how sounds may combine. Phi's: open (C)CV syllables only, consonant-initial words, vowel-final everything, no three-vowel runs, no repeated syllable within a word.
+**phonotactics**: The rules for how sounds may combine. Core Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, and no repeated syllable within a word. Guest payload follows these rules except that syllables may repeat; exact payload is opaque and exempt.
 
 **pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[rena mia to nila] shelu` — the [that I saw] book. Phi's relativizer `rena` opens the clause; the head noun itself closes it.
 
@@ -48,7 +50,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **tense**: When an action happens relative to now. Phi: past `to`, future `so`, present unmarked.
 
-**transmutation**: Phi's alternative to translation: rebuilding an idea from Phi's own concepts rather than mapping words across. See chapter 22.
+**transmutation**: Rebuilding an idea from Phi's own concepts rather than mapping words across. Use exact external form instead when rebuilding would falsify a source, erase an identity, or lose required precision. See chapters 22 and 24.
 
 **vocative**: The grammar of calling someone. Phi's `kona`, standing outside the sentence it introduces.
 
@@ -76,6 +78,10 @@ Click or hover on a row for a longer explanation of that gloss.
 | DECL.COMP.CLOSE | meno | that-clause (closer) | Closes a `mena` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
 | DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
 | DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
+| EXT.EXACT | patha | exact external opener | Opens opaque source material whose spelling, script, punctuation, notation, or terminology is preserved rather than interpreted as Phi. |
+| EXT.EXACT.CLOSE | patho | exact external closer | Closes a `patha` atom. Doubled standalone `patho patho` inside payload represents a literal occurrence. |
+| EXT.GUEST | hasha | adapted external opener | Opens external material adapted to Phi pronunciation without adding it to the lexicon. |
+| EXT.GUEST.CLOSE | hasho | adapted external closer | Closes a `hasha` atom. A guest payload cannot contain standalone `hasho`. |
 | FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomui` singles out love, not other things, as what is understood. |
 | FUT | so | future | The future tense particle. Present tense carries no particle at all. |
 | HAB | ro | habitual | The aspect for a recurring or characteristic action, distinct from `si` (mid-flow, happening now): `mia ro theo` is I read regularly. |

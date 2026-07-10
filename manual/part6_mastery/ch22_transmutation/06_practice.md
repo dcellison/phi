@@ -16,7 +16,7 @@ Transmute:
 
 > "I'm jealous of my friend's garden."
 
-There is no word for jealousy, and there will not be one. Follow the anger case study: what is the observation? (Your friend's garden is beautiful; yours is what it is.) What is the actual feeling underneath: `nuhe`? a wish, `pula`? heart-fire? Compose the honest triad. Notice what the missing word makes you find out about the feeling.
+There is currently no core word for jealousy. Follow the anger case study: what is the observation? (Your friend's garden is beautiful; yours is what it is.) What feeling or wish lies underneath: `nuhe`, `pula`, heart-fire? Compose the honest triad. Preserve the source term exactly if it is itself under discussion, and record repeated compositional failure for case-by-case review.
 
 ## Exercise 3: Small news (evidentials and numbers)
 

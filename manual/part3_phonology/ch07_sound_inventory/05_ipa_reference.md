@@ -40,3 +40,6 @@ The tables below summarize every Phi sound in International Phonetic Alphabet no
 
 Vowel pairs always show a syllable break with a dot: `au` is /ä.u/, `oi` is /o̞.i/, never a single glided sound. Stress falls on the penultimate syllable of every word: `mia` is /ˈmi.ä/, `haolu` is /hä.ˈo̞.lu/, `phelora` is /ɸe̞.ˈlo̞.rä/. A single-syllable word takes its stress on that one syllable, as in `mu` /ˈmu/.
 
+## Reference and accent
+
+These transcriptions define careful reference speech, not the only legitimate accent. Conversational Phi may use [f] for `/ɸ/`, [w̥] or [hw] for `/ʍ/`, [r], [ɾ], or [ɹ] for `r`, alveolar [t n] for dental /t̪ n̪/, light aspiration on stops, and [t̪θ] for `/θ/`. A variant is accepted when it preserves Phi's phonemic contrasts and syllable count. In particular, `wh` remains distinct from `w`, `th` from `t`, `s`, and `ph`, and adjacent vowels remain separate syllables.

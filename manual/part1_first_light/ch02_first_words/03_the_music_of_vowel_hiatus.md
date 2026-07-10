@@ -10,11 +10,11 @@ Stepping stones, not a slide. That is the rule, and it has no exceptions anywher
 
 ## What the rule does
 
-First, it sets Phi's speed limit. Every vowel takes a beat, so a sentence simply cannot be rushed: *mia thia lothea* is seven beats no matter how urgent your mood. The pause is built into the phonology, which is exactly where a contemplative language wants it.
+First, it defines the careful reference rhythm. Every vowel retains its syllable, so *mia thia lothea* has seven syllables even when tempo changes. Teaching gives those syllables full duration; conversational speech may shorten them without merging contrasts.
 
 Second, it makes the music. Phi's characteristic lilt (rise, step, fall, step) comes from these vowel sequences sounding out one by one. The language doesn't flow like water so much as walk like someone unhurried.
 
-Third, it protects meaning. Because every vowel is its own syllable, words never smear into each other, and a listener can always count their way through an unfamiliar word. Clarity and calm turn out to be the same design decision.
+Third, it gives listeners a regular syllable structure to follow through an unfamiliar word. That may aid segmentation, but actual recognition also depends on tempo, accent, lexical neighbors, and experience.
 
 ## Hearing it
 

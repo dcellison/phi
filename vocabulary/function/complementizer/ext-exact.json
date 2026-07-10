@@ -1,0 +1,21 @@
+{
+  "word": "patha",
+  "gloss": "EXT.EXACT",
+  "ipa": "/ˈpä.θä/",
+  "syllables": [
+    "pa",
+    "tha"
+  ],
+  "pos": [
+    "complementizer"
+  ],
+  "concept": "Open exact opaque external material / Exact register",
+  "description": "Opens a marked external atom whose payload is preserved rather than interpreted as Phi. It carries source spelling, scripts, numerals, measurements, formulas, identifiers, quotations, technical notation, and concepts that require faithful reporting without making them core vocabulary.",
+  "sound_symbolism": "The initial stop draws a precise boundary before fidelity takes priority over adaptation. The gentle dental fricative then releases into open a, making an audible doorway through which unchanged material can pass.",
+  "grammatical_notes": "Always paired with the required closer patho. The payload is opaque to Phi phonology, case, punctuation, and lexicon checks. The complete frame behaves as one nominal atom; source verbs and modifiers do not import source grammar. Written payload is authoritative. In speech it may be reproduced, spelled, or described by a shared external convention, so exact payload is not covered by Phi's core dictation guarantee.",
+  "pillars": {
+    "solarpunk-values": "Exact technical and scientific information can be carried when repair, health, coordination, or interoperability depends on precision.",
+    "secular-buddhist-philosophy": "The frame distinguishes the material encountered from the interpretation placed upon it, preserving a useful boundary between report and adoption.",
+    "peace-linguistics-practices": "Faithful testimony and quotation remain possible even when the reported words conflict with Phi's preferred framing."
+  }
+}

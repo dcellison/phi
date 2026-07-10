@@ -55,4 +55,4 @@ OPT peace DAT 2SG come.
 
 ## The one-line summary
 
-Politeness is a frame, not a mask; honorifics tell the truth about relationships; formality is spent attention; and every tool in this chapter is a way of announcing care before delivering content, which is, by now, the only rule you have ever needed in this language.
+Politeness is a frame, not a mask; honorifics state a relationship from the speaker's perspective; formality can spend additional attention; and every tool in this chapter returns to Phi's modifier-first organizing principle.
