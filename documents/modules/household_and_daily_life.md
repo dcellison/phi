@@ -28,7 +28,7 @@ The profile begins with [primer chapter 1](../../primer/01_the_household.md), wh
 
 When a local food, material, appliance, building rule, address, quantity, or source label must remain exact, use `patha ... patho`. A familiar external term that needs a speakable temporary adaptation uses `hasha ... hasho`. Neither frame is a substitute for explaining a safety-critical instruction in shared Phi.
 
-Material sourcing, heat and cooling, water use, food cultivation, repair, reuse, and waste overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). Listing wood, cloth, food, water, fire, or repair in a household description does not establish that the arrangement is ecologically sustainable, safe, accessible, or fairly governed.
+Material sourcing, heat and cooling, water use, food cultivation, reuse, and waste overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). Domestic labor, practical learning, tools, maintenance, and repair overlap [Work, Craft, and Repair](work_craft_and_repair.md). Listing wood, cloth, food, water, fire, or repair in a household description does not establish that the arrangement is ecologically sustainable, safe, accessible, fairly governed, voluntarily shared, or complete.
 
 ## Profile Scenario: The Old Table
 
@@ -60,7 +60,7 @@ PL 1SG rest.
 
 - **The profile is already useful without claiming completeness.** It can describe shared dwelling, food, material upkeep, and repair in a short connected scene using ordinary core roots.
 - **Many familiar object names remain absent.** A spoon, bottle, chair, storage container, and numerous culturally specific staples do not receive roots merely because English has them. Future texts should first test an existing description, a general vessel or seat, a registered compound, or marked external material.
-- **Household language must not naturalize ownership or hierarchy.** Current core terms can describe home, family, friendship, and community, but they do not themselves express tenancy, property, domestic labor allocation, coercion, or household decision procedures. Those questions overlap [Commons and Collective Governance](commons_and_collective_governance.md) and care scenarios rather than a quiet word-list expansion.
+- **Household language must not naturalize ownership or hierarchy.** Current core terms can describe home, family, friendship, and community, but they do not themselves express tenancy, property, domestic labor allocation, coercion, or household decision procedures. Those questions overlap [Commons and Collective Governance](commons_and_collective_governance.md), [Work, Craft, and Repair](work_craft_and_repair.md), and care scenarios rather than a quiet word-list expansion.
 - **This is not evidence that the module format works for learners.** The profile only establishes a consistent package shape. A delayed composition and paraphrase task should test whether the grouped vocabulary helps a maintainer find and use existing words more reliably than the alphabetical lexicon alone.
 
 ## Next Use Test

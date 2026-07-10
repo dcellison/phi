@@ -1,6 +1,6 @@
 # Work, Craft, and Repair Vocabulary Audit
 
-**Status:** Evidence-gate audit, current to 2026-07-10. `archive/` excluded. No vocabulary proposal.
+**Status:** Evidence-gate audit underlying the active [Work, Craft, and Repair profile](modules/work_craft_and_repair.md), current to 2026-07-10. `archive/` excluded. No vocabulary proposal.
 
 ## Purpose and Method
 
@@ -78,6 +78,6 @@ The scenario confirms that concrete craft, refusal, capacity, teaching, measurem
 
 ## Audit Conclusion
 
-The inventory and scenario together satisfy the evidence gate for creating a zero-new-root Work, Craft, and Repair profile. Existing vocabulary is dense enough to organize and teach without immediate expansion, while its idealized work semantics and thin organizational relations require explicit boundaries.
+The inventory and scenario together supplied the evidence gate for the zero-new-root [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). Existing vocabulary is dense enough to organize and teach without immediate expansion, while its idealized work semantics and thin organizational relations require explicit boundaries.
 
-No root follows from this audit. The future profile should index current resources, preserve coercive or institutional source language exactly, refuse to treat meaningful craft as the only kind of work, and make work-sharing, consent, capacity, safety, authority, and completion visible in clauses. Vocabulary should remain closed until the same distinction fails in this scenario and an independent transformed or non-workshop case.
+No root follows from this audit. The profile indexes current resources, preserves coercive or institutional source language exactly, refuses to treat meaningful craft as the only kind of work, and makes work-sharing, consent, capacity, safety, authority, and completion visible in clauses. Vocabulary should remain closed until the same distinction fails in this scenario and an independent transformed or non-workshop case.
