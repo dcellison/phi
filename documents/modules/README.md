@@ -57,6 +57,8 @@ Before treating a term as narrowly module-oriented, ask whether it is needed acr
 
 This catalogue records the profile ideas currently in scope so they do not depend on conversation memory. No additional profile is currently proposed. A new candidate must be recorded here with its intended role, reason for a separate organization layer, cross-module boundaries, and evidence gate before creation; a conversational suggestion alone does not add it to the catalogue.
 
+[Potential Profile Explorations](potential_profile_explorations.md) preserves scenario-first possibilities, conditional candidates, and contexts that should remain cross-profile. An exploration entry is not a formal proposal and does not enter the creation queue until its evidence gate is concrete enough to record here.
+
 ## Cross-Module and Scenario-Gated Areas
 
 | Area | Current handling |
