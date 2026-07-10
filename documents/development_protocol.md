@@ -73,6 +73,11 @@ Each new word must explicitly connect to at least one pillar:
 
 ## Word Creation Protocol
 
+This protocol creates lexical words. It does not apply to a productive
+proper-name form licensed by `ne`; use the separate name-form checklist
+below so a personal designation never acquires an invented dictionary
+meaning merely by being chosen.
+
 ### Step 1: Conceptual Analysis
 - What core human value/experience does this represent?
 - Can this be composed from existing words?
@@ -116,6 +121,18 @@ Each new word must explicitly connect to at least one pillar:
 - [ ] `ne` and other Phi particles stand outside the complete external atom
 - [ ] Exact reporting is described as provenance, not approval, condemnation, or core adoption
 - [ ] A proposed promotion from guest material passes the complete word-creation protocol independently of frequency
+
+## Productive Name-Form Checklist
+
+- [ ] The bearer or naming community accepts the form
+- [ ] The form is one lowercase token with two, three, or four Phi syllables
+- [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no onset-bearing syllable
+- [ ] It is not a function word, interjection, complementizer, or other grammatical boundary
+- [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
+- [ ] It receives no lexicon file, gloss, part of speech, sound-symbolism rationale, pillar claim, or automatic core status
+- [ ] It is not rejected merely for lexical edit-distance proximity; real referential confusion is handled by clarification, as with shared human names
+- [ ] A five-or-more-syllable, multi-token, or otherwise non-onym adaptation uses `hasha … hasho`; source-exact spelling or script uses `patha … patho`
+- [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it is not a reserved non-content form
 
 ## Grammar Extension Rules
 

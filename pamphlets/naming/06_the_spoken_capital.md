@@ -1,16 +1,16 @@
 # Part 6: The spoken capital
 
-Core Phi and adapted guest material have no capital letters: not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and core meaning cannot depend on Latin case. What capitals do for names, `ne` does aloud.
+Core vocabulary, productive Phi-form names, and adapted guest material have no capital letters: not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and core meaning cannot depend on Latin case. What capitals do for names, `ne` does aloud.
 
 This chapter is the writer's checklist: four surfaces where an English-trained hand will reach for a capital, and what Phi does instead on each.
 
 ### Romanized Phi
 
-Core and guest material stays lowercase at sentence starts, in titles, and in names. `ne sulae shua.` never grows a capital, whatever position it holds on the page. Exact payload is the explicit exception: `ne patha Amina patho` preserves source case because the characters are carried rather than interpreted as Phi. The boundary remains lowercase and audible.
+Core, productive-name, and guest material stays lowercase at sentence starts, in titles, and in names. `ne sulae shua.` and `ne samira shua.` never grow a capital, whatever position they hold on the page. Exact payload is the explicit exception: `ne patha Amina patho` preserves source case because the characters are carried rather than interpreted as Phi. The boundary remains lowercase and audible.
 
 ### Gloss lines
 
-A name glosses as itself: the gloss line under `ne thinoe` reads `NAME thinoe`, never `NAME seed`. A name is carried, not translated: the bearer crosses into the gloss line, the meaning does not. (The uppercase in `NAME` belongs to the particle's label, like `PST` or `VOC`; labels are spelled by the lexicon, and they are the only tall letters a gloss line ever has.)
+A name glosses as itself: the gloss line under `ne thinoe` reads `NAME thinoe`, never `NAME seed`, and the line under `ne samira` reads `NAME samira` even though no lexicon entry exists. A name is carried, not translated: the referent crosses into the gloss line, while lexical meaning does not. (The uppercase in `NAME` belongs to the particle's label, like `PST` or `VOC`; labels are spelled by the lexicon, and they are the only tall letters a gloss line ever has.)
 
 ### English narration
 

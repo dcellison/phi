@@ -24,7 +24,7 @@ NAME HON.ROLE siora FUT come.
 
 ### Placement, and the warmth of brevity
 
-The honorific stands immediately before the name, after `ne` when `ne` is present, and its presence makes `ne` optional, since an honorific already promises that a name follows. `kona ne ni moli` and `kona ni moli` are both correct; the manual calls the second slightly warmer for being briefer, which is worth a moment's thought. Dropping `ne` inside an honorific phrase is not laziness: it is the first taste of the register logic of Part 5, where closeness is measured in how little announcing a relationship still needs.
+The honorific stands immediately before the name, after `ne`. Formal, neutral, and portable Phi keeps the full chain: `kona ne ni moli`. Once the referent is established, conversational speech may use `kona ni moli`; the honorific already promises that a name follows. The shorter form reports established discourse, not a greater or lesser amount of affection. Part 5 separates this grammatical license from the household threshold style that sometimes accompanies it.
 
 ### Relationship, not rank
 

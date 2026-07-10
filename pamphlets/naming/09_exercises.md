@@ -19,7 +19,7 @@ Produce the Phi, aloud first.
 6. Call your friend: no name needed.
 7. Call sulae with the respect you owe a mentor.
 8. Call moli with earned intimacy, the shorter way.
-9. Introduce yourself, with a word you could honestly carry.
+9. Introduce yourself with either a content-word name or a productive Phi-form name.
 10. Ask a parent their child's name, politely.
 
 ## Part C: Choose the honorific
@@ -52,9 +52,17 @@ For each corpus line, say why `ne` is present or absent.
 24. `mia kua ne sulae nai ma sano.`
 25. `ne thinoe shola no wei muila thinoe loa. … sholo to haolu.`: account for both the announced `thinoe` and the bare one.
 
-## Part F: The name you could carry
+## Part F: Build a Phi-form name
 
-Choose the lexicon word you would bear as a name: not the one you like best, the one you could prove daily. Say your introduction aloud: `mia nomei ne … nai.` Then say, in English or in Phi, why it is true enough to carry. There is no key for Part F. Say it again in a year; you will know whether you chose a name or a wish.
+Assemble a lowercase name of two, three, or four Phi syllables. Check its onset, open syllables, vowel sequence, and duplicate syllables; then run `python3 scripts/validate_examples.py name FORM` and say `mia nomei ne … nai.` It needs no dictionary meaning. The form should be yours or accepted by the person it represents, not assigned because someone else thinks its sound or meaning fits.
+
+Then classify these candidates for direct use after `ne`:
+
+26. `samira`
+27. `sa`
+28. `saweriko`
+29. `mamama`
+30. `amina`
 
 ---
 
@@ -73,7 +81,7 @@ Choose the lexicon word you would bear as a name: not the one you like best, the
 6. `kona melu.`
 7. `kona ne sa sulae.`
 8. `kona ni moli.` The honorific carries the announcement, and intimacy takes the shorter road.
-9. `mia nomei ne … nai.` The blank is Part F's business.
+9. `mia nomei ne … nai.` The blank may be a listed content word or a valid productive onym; only the former has a dictionary meaning.
 10. `pi thia lopia nomei hina nai.` Politeness first of everything, the possessor chain before the name-word, `hina` standing where the answer will.
 
 **Part C.**
@@ -82,11 +90,11 @@ Choose the lexicon word you would bear as a name: not the one you like best, the
 12. `kona ne le …` You know the role, not the person; announce the truth you have.
 13. `kona ni …` `le` may also be true if the friend is a healer, but the night needs the friend, not the role; which truth you announce is itself information.
 14. `kona ne …` Plain, correct, never cold. If it feels cold, the feeling is imported.
-15. Plain `ne thinoe`, as the corpus story has it: `sa` would be honest from the elder's own mouth, but the story-register lets the announcement alone carry the reverence, and it suffices.
+15. Plain `ne thinoe`, as the corpus story has it. The story reintroduces the referent clearly; `sa` would report a particular speaker's respect but is not required to make the memorial form grammatical.
 
 **Part D.**
 
-16. `kona melu.` Or find out their name and announce that; a role is not a name.
+16. It depends on the intended atom. `kona melu.` calls someone by the role *friend*. `kona ne melu.` is correct if melu is actually the proper name being used.
 17. `kona ne sa sulae.` Announce the name's coming, then the relationship, then the name.
 18. `NAME thinoe smile.` Carried, not translated.
 19. *sulae arrives with siora.* The names are Phi's; English is only hosting.
@@ -94,8 +102,16 @@ Choose the lexicon word you would bear as a name: not the one you like best, the
 
 **Part E.**
 
-21. She is not present: the sentence itself must announce her, since the room cannot.
-22. The family table: presence is doing the announcing; the register has earned the rest.
-23. A threshold: departures are announced like arrivals, the door being a door in both directions.
-24. Neutral speech about someone elsewhere: outside the family register, every mention re-announces.
-25. Outside the quotation, `ne thinoe` is a person arriving from memory: the story-register's threshold. Inside her own words, `thinoe` is the seeds she was named for, bare vocabulary in her own mouth. One sentence, both uses, zero confusion: this is the whole system working at once, and the reason the pamphlet keeps returning to it.
+21. Portable clarity or first mention: the referent is announced explicitly.
+22. The household scene has already established siora; shared discourse licenses the omission.
+23. The household chooses to reannounce at departure as part of its threshold style.
+24. Neutral portable speech keeps `ne`; the reader cannot be assumed to share the local discourse state.
+25. Outside the quotation, `ne thinoe` reintroduces a named person. Inside her own words, bare `thinoe` is *seed*, ordinary vocabulary. The contrast demonstrates the name marker without requiring a special grammar for memory or death.
+
+**Part F.**
+
+26. Valid: `sa.mi.ra`, three distinct open syllables.
+27. Invalid as a productive onym: one syllable, and `sa` is a reserved honorific.
+28. Valid: `sa.we.ri.ko`, four distinct open syllables. Four-syllable names are no less Phi-like than four-syllable content words.
+29. Invalid as an unframed productive onym: it duplicates `ma`. The four-syllable allowance does not relax the duplicate-syllable prohibition.
+30. Invalid as a Phi-form onym because it begins with a vowel. It may appear exactly inside `patha Amina patho`, or as a bearer-approved adaptation such as `ne hamina`.

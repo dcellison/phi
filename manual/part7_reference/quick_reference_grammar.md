@@ -42,9 +42,10 @@ Core and guest material use periods only: no commas, question marks, or exclamat
 | `hasha … hasho` | [Phi grammar] hasha [adapted payload] hasho | pronounceable external guest atom |
 | `patha … patho` | [Phi grammar] patha [opaque payload] patho | exact external atom |
 | `rena …` + NOUN | [rena clause] NOUN | relative clause (no closer; the head noun bounds it) |
+| `ne NAME` | before one name atom | listed content word, productive two/three/four-syllable onym, or external frame |
 | `kona [ne] NAME` | extra-clausal | vocative address |
 
-Embedded clauses carry their own tense. Clause frames nest in matched pairs. Guest frames cannot nest; exact payload is opaque. Both external frames occupy one nominal position, keep Phi particles outside, and remain marked on every occurrence.
+Embedded clauses carry their own tense. Clause frames nest in matched pairs. Guest frames cannot nest; exact payload is opaque. Both external frames occupy one nominal position, keep Phi particles outside, and remain marked on every occurrence. A productive onym is not an elided guest frame: `ne` directly licenses its single Phi-shaped token.
 
 ## Noun phrase order
 

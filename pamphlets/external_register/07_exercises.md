@@ -2,7 +2,7 @@
 
 ## Choose the layer
 
-For each item, choose core composition, a registered compound, adapted guest, or exact opaque form. Give one sentence of reasoning.
+For each item, choose core composition, a registered compound, a productive Phi-form name, adapted guest, or exact opaque form. Give one sentence of reasoning.
 
 1. A local repair practice that already has a clear Phi compound.
 2. A new neighbor's personal name, after they approve a Phi pronunciation.
@@ -25,7 +25,7 @@ Explain the problem in each form and state the repair in words. Do not normalize
 ## Compose
 
 13. Say that you read the formula `F = ma`.
-14. Say that a person named Amina will come, first in an exact form and then in an adapted guest form of your choice.
+14. Say that a person named Amina will come in an exact form, an adapted guest form, and a bearer-approved productive name-form.
 15. Report that someone used the source word `master` without adopting it as a title.
 16. Say that you sent a word to the URL `https://example.net/a?x=1`.
 17. Write an exact payload containing the literal standalone token `patho`, with correct escaping and closure.

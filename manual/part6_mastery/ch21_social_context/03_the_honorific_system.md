@@ -24,7 +24,7 @@ NAME HON.ROLE siora FUT come.
 
 ## Placement
 
-Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. In formal and neutral speech a bare name keeps `ne` (`ne keruko`); an honorific makes it optional, since the honorific already signals that a name follows: `kona ni moli` and `kona ne ni moli` are both correct, the first slightly warmer for being briefer. The family register goes one step further: an established name may rest entirely bare (the primer's household says `sulae shua.` of the friend already at its table), a license canon grants (*Names are made of Phi*) and the primer teaches by doing. Formal speech keeps `ne` at every mention.
+Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. Formal, neutral, and portable speech keeps `ne` (`ne keruko`, `ne ni moli`). Once a referent is established, conversational speech may let either the honorific (`kona ni moli`) or unambiguous context (`sulae shua`) carry the expectation. The primer's household uses that shorter pattern at its table, but the license comes from established discourse rather than a grammatical measure of intimacy or presence. Keeping `ne` is correct in every register. Productive unlisted name-forms use `ne` in machine-validated writing so the validator never has to guess whether an unknown token is a name.
 
 ## Relationship, not rank
 

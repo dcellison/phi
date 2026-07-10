@@ -686,7 +686,7 @@
 | `ma` | NEG | Not |
 | `mo` | CMPR | More |
 | `na` | NEC | Must |
-| `ne` | NAME | Proper name marker |
+| `ne` | NAME | Proper name atom marker |
 | `ni` | HON.INTIM | Beloved |
 | `no` | IMP | Request |
 | `nu` | ORD | Ordinal Particle |

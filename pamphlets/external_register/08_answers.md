@@ -1,7 +1,7 @@
 # Part 8: Answers and reasoning
 
 1. Use the registered compound because the Phi analysis is already stable and useful.
-2. Use guest form because approved pronounceability is the requirement; retain an exact record if spelling also matters.
+2. Use a productive name-form if one two-, three-, or four-syllable token serves and the bearer accepts it. Use a guest frame for a five-or-more-syllable, multi-token, or otherwise non-onym adaptation; retain an exact record if spelling also matters.
 3. Use exact form because every character identifies the object.
 4. Use exact form because the inherited wording is itself under analysis.
 5. Investigate core composition or a core proposal; recurrence in original discourse is evidence of a genuine semantic gap, though it does not by itself decide that a new root is needed.
@@ -31,7 +31,13 @@ NAME EXT.EXACT [Amina] EXT.EXACT.CLOSE FUT come.
 ne hasha hamina hasho so shua.
 NAME EXT.GUEST [hamina] EXT.GUEST.CLOSE FUT come.
 (Amina will come.)
+
+ne hamina so shua.
+NAME hamina FUT come.
+(hamina will come.)
 ```
+
+The last form is not an elided guest frame. It is a separate productive onym licensed directly by `ne`, and it is appropriate only if the bearer accepts `hamina` as their Phi-form name.
 
 15.
 

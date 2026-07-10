@@ -96,6 +96,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | IRR | he | irrealis | Paired with `lu` as `lu he`, an unreal or counterfactual conditional, for a condition that did not or cannot hold. |
 | LIFE.CLF | lipha | living-thing classifier | The classifier for non-human living things: animals, plants, fungi, grouped by their shared vitality. |
 | LOC | mua | in/at | In, at, inside, marking where an action happens. It is never a motion endpoint itself; going toward a destination uses `kau`. |
+| NAME | ne | proper-name atom | Announces that the following atom is a proper designation. The atom may be a content word, a productive two-, three-, or four-syllable Phi-form onym with no lexicon meaning, or a complete guest/exact frame. |
 | NEC | na | necessity | Marks that an action is necessary or obligatory: `mia na naphe` is I must help. |
 | NEG | ma | negation | Negation. It always comes last in a stack of Slot 1 particles, after tense, aspect, voice, evidentiality, and modality. |
 | OPT | su | optative | Announces a wish, hope, or prayer: `su sila towe nai` is may the community be well. |

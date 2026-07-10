@@ -1,6 +1,8 @@
 # Part 2: The announcing `ne`
 
-`ne` is a Slot 2 particle: it stands immediately before the word it affects, and what it says is *the next word is someone*. In the full chain of address the order is fixed: `kona`, then `ne`, then any honorific, then the name, and every link announces before it delivers: the call, then the fact of a name, then the relationship, then at last the person.
+`ne` is a Slot 2 particle: it stands before one name atom, and what it says is *a proper designation follows*. It does not claim that the bearer is a person; the same marker can name an animal, place, community, institution, work, event, or artifact. In the full chain of address the order is fixed: `kona`, then `ne`, then any honorific, then the name, and every link announces before it delivers: the call, then the fact of a name, then the relationship, then at last the referent.
+
+The atom may be a content word (`ne sulae`), a productive unlisted onym (`ne samira`), or a complete external frame (`ne patha Amina patho`). In each case `ne` has the same scope: one proper designation.
 
 ### The name arrives before its bearer
 
@@ -22,12 +24,16 @@ friend come. friend name NAME sulae be.
 
 ### Introducing and asking
 
-The formula generalizes the way everything in Phi generalizes: swap the possessor, keep the shape. `[whose] nomei ne [name] nai.`
+The formula generalizes the way everything in Phi generalizes: swap the possessor, keep the shape. `[whose] nomei ne [name atom] nai.`
 
 ```
 mia nomei ne keruko nai.
 1SG name NAME keruko be.
 (My name is keruko.)
+
+mia nomei ne samira nai.
+1SG name NAME samira be.
+(My name is samira.)
 
 thia nomei hina nai.
 2SG name what be.
@@ -38,7 +44,7 @@ The question puts `hina` exactly where the answer will stand, as chapter 12 §5 
 
 ### A name owns things
 
-Phi's possessor stands before the possessed (`mia lohau`, my dog), and names take their turn in that pattern like any word. Which means `ne` sometimes settles more than personhood:
+Phi's possessor stands before the possessed (`mia lohau`, my dog), and names take their turn in that pattern like any word. This means `ne` sometimes settles more than proper reference:
 
 ```
 keruko lopha

@@ -26,7 +26,8 @@ The single validation tool for the Phi project. Checks:
        labels never clash with lowercase content glosses)
 
   2. Documentation examples (documents/, manual/, pamphlets/, CLAUDE.md):
-     - every Phi token inside fenced code blocks exists in the lexicon
+     - every Phi token inside fenced code blocks exists in the lexicon,
+       except a productive name-form licensed directly by `ne`
      - adapted payload inside hasha...hasho follows guest phonotactics
        without requiring a lexicon entry
      - opaque payload inside patha...patho preserves arbitrary source
@@ -35,7 +36,7 @@ The single validation tool for the Phi project. Checks:
        gloss, verbatim (names after ne/honorifics gloss as themselves;
        register names accept either reading; translation lines and
        marked-wrong teaching examples are exempt)
-     - a small whitelist covers proper names and deliberate error forms
+     - a small whitelist covers deliberate error and contrast forms
 
   3. Phi quoted inside lexicon prose fields:
      - multiword examples use real words in canon Slot 1 order
@@ -49,6 +50,8 @@ Usage:
     python3 scripts/validate_examples.py --paths manual/part4_grammar
     python3 scripts/validate_examples.py neighbors WORD # edit-distance-1
                                                         # collision check
+    python3 scripts/validate_examples.py name FORM      # productive onym
+                                                        # charter check
 
 Exit code 0 = no errors (warnings allowed), 1 = errors found.
 """
@@ -60,6 +63,7 @@ import sys
 from pathlib import Path
 
 import external_register
+import name_forms
 
 PROJECT_ROOT = Path(__file__).parent.parent
 MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "minimal_pairs_baseline.txt"
@@ -232,6 +236,15 @@ def check_word_phonology(word):
         dupes = sorted({s for s in seen if seen.count(s) > 1})
         errors.append(f"duplicate syllable(s): {', '.join(dupes)}")
     return errors
+
+
+def name_atom_errors(token, lexicon_words, content_words):
+    """Validate the atom selected by ``ne`` or an honorific."""
+    if token in lexicon_words:
+        if token in content_words:
+            return []
+        return ["is a reserved function or non-content word"]
+    return name_forms.form_errors(token)
 
 
 # ---------------------------------------------------------------------------
@@ -420,6 +433,10 @@ def check_lexicon(entries):
     # must cite real words with their real glosses; sound-symbolism text
     # may only claim sounds the word contains.
     lexicon_words = {d.get("word", "") for _, d in entries}
+    content_words = {
+        d.get("word", "") for rel, d in entries
+        if len(rel.parts) > 1 and rel.parts[1] == "content"
+    }
     gloss_by_word = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
     prepositions = {
         d.get("word", "") for _, d in entries
@@ -452,7 +469,21 @@ def check_lexicon(entries):
                 known = sum(1 for t in tokens if t in lexicon_words)
                 if known < max(1, len(tokens) / 2):
                     continue  # English phrase, not a Phi example
-                for t in tokens:
+                name_indices = name_forms.marked_atom_indices(tokens)
+                for index, t in enumerate(tokens):
+                    if index in name_indices:
+                        if t in name_forms.EXTERNAL_OPENERS:
+                            continue
+                        atom_errors = name_atom_errors(
+                            t, lexicon_words, content_words
+                        )
+                        if not atom_errors:
+                            continue
+                        errors.append(
+                            f"{rel}: invalid productive name-form '{t}' "
+                            f"in {field}: {'; '.join(atom_errors)}"
+                        )
+                        continue
                     if t not in lexicon_words and t not in WHITELIST:
                         errors.append(
                             f"{rel}: unknown Phi word '{t}' in {field}"
@@ -699,7 +730,12 @@ def is_phi_line(raw_line, lexicon_words, strict=False):
         return False
     if not all(set(t) <= PHI_LETTERS for t in tokens):
         return False
-    known = sum(1 for t in tokens if t in lexicon_words or t in WHITELIST)
+    name_indices = name_forms.marked_atom_indices(tokens)
+    known = sum(
+        1 for index, token in enumerate(tokens)
+        if token in lexicon_words or token in WHITELIST
+        or (index in name_indices and not name_forms.form_errors(token))
+    )
     if strict:
         return known > len(tokens) / 2
     return known >= max(1, len(tokens) / 2)
@@ -710,11 +746,9 @@ def phi_tokens(raw_line):
     return strip_brackets(core_line).split()
 
 
-# The household register (naming pamphlet, family register): words that
-# recur as names and gloss as themselves when so used. Bare uses accept
-# either reading (the Schleicher fable's 'sulae' really is warm); after
-# 'ne' or an honorific, the name-only rule is strict ('NAME thinoe',
-# never 'NAME seed').
+# Household-corpus words that recur as names and gloss as themselves when
+# used bare. Productive unlisted onyms are handled structurally after `ne`;
+# they do not belong in this set.
 NAMES = {"sulae", "siora", "keruko", "thinoe", "misheko", "lohau"}
 HONORIFIC_GLOSSES = {"HON.RESPECT", "HON.INTIM", "HON.ROLE"}
 
@@ -723,9 +757,10 @@ def expected_gloss_stream(phi_line, gloss_of):
     """The gloss-line token stream a Phi line licenses, as a list of
     acceptable-token sets: each word's lexicon gloss verbatim with
     parenthetical disambiguators dropped (the gloss-lines ruling); a
-    name after 'ne' or an honorific glossing as itself; a bare register
-    name glossing as itself or as its word. None if any token is
-    unknown — those are reported by the unknown-word check."""
+    name after 'ne' or an honorific glossing as itself; a productive
+    unlisted onym after the marker also glossing as itself; and a bare
+    register name glossing as itself or as its word. None if any other
+    token is unknown — those are reported by the unknown-word check."""
     out = []
     expecting_name = False
 
@@ -737,6 +772,10 @@ def expected_gloss_stream(phi_line, gloss_of):
                 continue
             g = gloss_of.get(core)
             if g is None:
+                if expecting_name and not name_forms.form_errors(core):
+                    out.append({core})
+                    expecting_name = False
+                    continue
                 return False
             g = re.sub(r"\s*\([^)]*\)", "", g).strip()
             is_label = g.isupper()
@@ -839,9 +878,11 @@ def check_gloss_lines(rel, text, lexicon_words, gloss_of):
     return errors
 
 
-def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None):
+def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
+               content_words=None):
     errors = []
     prepositions = prepositions or set()
+    content_words = content_words or set()
     roots = paths or DOC_ROOTS
     files = []
     for root in roots:
@@ -891,9 +932,20 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None):
                 # Exact payload deliberately retains source case.  Guest
                 # payload remains in this view and its stricter lowercase
                 # rule is reported by the shared parser above.
-                for tok in external.punctuation_text.split():
-                    core = tok.strip(".,;:!?\"'()*")
-                    if core and core != core.lower() and core.lower() in lexicon_words:
+                visible_tokens = [
+                    tok.strip(".,;:!?\"'()*")
+                    for tok in external.punctuation_text.split()
+                ]
+                visible_name_indices = name_forms.marked_atom_indices(
+                    [token.lower() for token in visible_tokens]
+                )
+                for index, core in enumerate(visible_tokens):
+                    marked_onym = (
+                        index in visible_name_indices
+                        and not name_forms.form_errors(core.lower())
+                    )
+                    if (core and core != core.lower()
+                            and (core.lower() in lexicon_words or marked_onym)):
                         errors.append(f"{rel}:{lineno}: capital letter in Phi text: '{core}' (Phi has no capitals; ne announces a name)")
                 # periods only in Phi text: '?' is checked everywhere; ','
                 # only on fenced lines (prose cites Phi words inside English
@@ -902,14 +954,29 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None):
                 bare = re.sub(r"\([^)]*\)", "", external.punctuation_text)
                 if "?" in bare or "!" in bare or ";" in bare or (not excuse_commas and "," in bare):
                     errors.append(f"{rel}:{lineno}: punctuation in Phi text: periods only (no commas or question marks)")
-                for tok in phi_tokens(cand.lower()):
+                tokens = phi_tokens(cand.lower())
+                name_indices = name_forms.marked_atom_indices(tokens)
+                for index, tok in enumerate(tokens):
+                    if index in name_indices:
+                        if tok in name_forms.EXTERNAL_OPENERS:
+                            continue
+                        atom_errors = name_atom_errors(
+                            tok, lexicon_words, content_words
+                        )
+                        if not atom_errors:
+                            continue
+                        errors.append(
+                            f"{rel}:{lineno}: invalid productive name-form "
+                            f"'{tok}': {'; '.join(atom_errors)}"
+                        )
+                        continue
                     if tok in lexicon_words or tok in WHITELIST:
                         continue
                     errors.append(f"{rel}:{lineno}: unknown Phi word '{tok}'")
                 # Slot 1 order is canon-fixed; lines prefixed with '*' are
                 # deliberately ill-formed teaching examples and are skipped.
                 if not cand.lstrip().startswith("*"):
-                    for run in slot1_misorders(phi_tokens(cand.lower())):
+                    for run in slot1_misorders(tokens):
                         errors.append(f"{rel}:{lineno}: Slot 1 order violation '{run}' (canon: Tense > Aspect > Voice > Evidentiality > Modality > Negation)")
                     for run in preposition_misplacements(cand.lower(), prepositions):
                         errors.append(f"{rel}:{lineno}: postposed preposition near '{run}' (canon: every preposition precedes its object)")
@@ -985,6 +1052,32 @@ def neighbors_report(entries, candidate):
     return 1
 
 
+def name_report(entries, candidate):
+    """Validate one proposed productive onym for direct use after ``ne``."""
+    lexicon_words = {data.get("word", "") for _, data in entries}
+    content_words = {
+        data.get("word", "") for rel, data in entries
+        if len(rel.parts) > 1 and rel.parts[1] == "content"
+    }
+    errors = name_atom_errors(candidate, lexicon_words, content_words)
+    if errors:
+        print(f"'{candidate}' is not a valid productive name-form: "
+              f"{'; '.join(errors)}")
+        return 1
+    syllables = name_forms.syllabify(candidate) or []
+    if candidate in content_words:
+        print(
+            f"'{candidate}' is a listed content word and may be borne as "
+            f"a name after ne ({'.'.join(syllables)})."
+        )
+    else:
+        print(
+            f"'{candidate}' is a valid productive name-form after ne "
+            f"({'.'.join(syllables)}); it does not become a lexicon word."
+        )
+    return 0
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -992,9 +1085,10 @@ def neighbors_report(entries, candidate):
 def main():
     parser = argparse.ArgumentParser(description="Phi language validator")
     parser.add_argument("command", nargs="?", default="check",
-                        choices=["check", "neighbors"],
-                        help="check (default) or neighbors WORD")
-    parser.add_argument("word", nargs="?", help="candidate word for 'neighbors'")
+                        choices=["check", "neighbors", "name"],
+                        help="check (default), neighbors WORD, or name FORM")
+    parser.add_argument("word", nargs="?",
+                        help="candidate for 'neighbors' or 'name'")
     parser.add_argument("--lexicon-only", action="store_true")
     parser.add_argument("--docs-only", action="store_true")
     parser.add_argument("--paths", nargs="*",
@@ -1005,11 +1099,19 @@ def main():
 
     entries, load_errors = load_lexicon()
     lexicon_words = {d.get("word", "") for _, d in entries}
+    content_words = {
+        d.get("word", "") for rel, d in entries
+        if len(rel.parts) > 1 and rel.parts[1] == "content"
+    }
 
     if args.command == "neighbors":
         if not args.word:
             parser.error("neighbors requires a candidate word")
         sys.exit(neighbors_report(entries, args.word))
+    if args.command == "name":
+        if not args.word:
+            parser.error("name requires a candidate form")
+        sys.exit(name_report(entries, args.word))
 
     errors = list(load_errors)
     warnings = []
@@ -1025,7 +1127,9 @@ def main():
             d.get("word", "") for _, d in entries
             if "preposition" in (d.get("pos") or [])
         }
-        errors.extend(check_docs(lexicon_words, args.paths, gloss_of, prepositions))
+        errors.extend(check_docs(
+            lexicon_words, args.paths, gloss_of, prepositions, content_words
+        ))
         if not args.paths:
             errors.extend(check_citations())
 

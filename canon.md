@@ -6,9 +6,11 @@ the list must be corrected to match anything higher.
 ## Authority order
 
 1. **`vocabulary/`** — the lexicon JSON files are the single source of
-   truth for every word: its form, gloss, IPA, syllables, and meaning.
-   A word not in the lexicon does not exist. A gloss in a document that
-   contradicts the lexicon is wrong.
+   truth for every lexical word: its form, gloss, IPA, syllables, and
+   meaning. A lexical word not in the lexicon does not exist. Productive
+   name-forms licensed by `ne` are proper designations rather than lexical
+   words and gain no gloss or dictionary meaning. A gloss in a document
+   that contradicts the lexicon is wrong.
 2. **Grammar references** — `documents/grammar/particle_reference.md`,
    `complementizer_reference.md`, `numeral_reference.md`. These define
    the grammatical system: particle inventory and slot order,
@@ -27,7 +29,7 @@ the list must be corrected to match anything higher.
 development and should always reflect (1)–(3); `CLAUDE.md` is a thin
 tool shim that points at it.
 
-## Settled decisions (2026-07 / Phi 2026.1)
+## Settled decisions (2026-07 / Phi 2026.2)
 
 These were explicitly decided and should not silently fork again:
 
@@ -63,19 +65,37 @@ These were explicitly decided and should not silently fork again:
   for sentences, not for names. Romanization is one mode of writing
   Phi among peers (the Tengwar mode, the glyph mode); a mark may
   carry meaning only if every mode can carry it, and case exists
-  only in Latin script. What capitals do for core names, `ne` does aloud. Exact external payload may retain source case because it is carried rather than interpreted as Phi.
+  only in Latin script. What capitals do for Phi-form names, `ne` does aloud. Exact external payload may retain source case because it is carried rather than interpreted as Phi.
   The validator enforces lowercase outside exact frames.
-- **Core names are made of Phi** (extended 2026-07-10): a core Phi name is
-  a lexicon word borne as a name, announced by `ne` (plus any
-  honorific) — the recurring cast: `sulae` (warm, the honored
-  friend), `siora` (joy, the visiting child), `thinoe` (seed, the
-  elder's elder), `moli` (gentle, the beloved of the intimate
-  examples), `keruko` (sturdy, the neutral-register everyman).
-  Because names are words, the collision rules protect them and the
-  validator needs no whitelist. Formal speech keeps `ne`; family
-  speech may drop it — the primer shows this rather than stating it.
-  Core names are lowercase everywhere, including gloss lines and English
-  narration. A person's existing external name may instead be carried on every occurrence as an adapted guest atom (`ne hasha … hasho`) or exact atom (`ne patha … patho`); carrying it does not make it a lexicon entry.
+- **`ne` licenses a name atom** (revised 2026-07-10 / Phi 2026.2): `ne`
+  announces that the following atom is a proper designation, not that its
+  bearer is a person and not that its form is vocabulary. It may name a
+  person, animal, place, community, institution, work, event, or artifact.
+  A name atom may be a content word borne as a name (`ne sulae`), one
+  productive Phi-form onym (`ne samira`), or a complete guest or exact
+  frame. An honorific, when present, stands between `ne` and the atom.
+- **Productive Phi-form onyms** (settled 2026-07-10 / Phi 2026.2): a
+  speaker may choose a lowercase, single-token name-form of two, three, or four
+  Phi syllables. It follows ordinary core phonotactics, including open
+  syllables, the three-vowel constraint, and no duplicated onset-bearing
+  syllable. It need not be a lexicon entry and does not acquire a lexical
+  gloss, part of speech, semantic design rationale, or automatic right to
+  appear without `ne`. It is not tested against the lexicon's minimal-pair
+  baseline because names are an open class. A listed content word may also
+  be borne as a name; function words, interjections, and grammatical
+  boundary forms are reserved and cannot serve as productive onyms.
+  The bearer controls whether an adapted form represents their name.
+- **Name register and writing** (revised 2026-07-10 / Phi 2026.2): formal,
+  neutral, portable, and machine-validated Phi keeps `ne` at every mention.
+  Conversational or household speech may omit it after a referent is
+  established and while the reference remains unambiguous; this is a
+  discourse license, not a claim about intimacy, presence, or whether the
+  bearer is alive. Keeping `ne` is always correct. Phi-form names are
+  lowercase everywhere, including gloss lines and English narration.
+  Exact external names may preserve source case inside their frame.
+  Existing guest and exact name atoms remain valid; the guest frame is
+  useful for multi-token, five-or-more-syllable, or otherwise non-onym adapted names, while the exact frame is
+  used when source spelling, script, or form matters.
 - **The external register** (settled 2026-07-10): Phi has two explicitly bounded ways to carry material that is not core vocabulary. `hasha … hasho` is the adapted guest frame; `patha … patho` is the exact opaque frame. The boundary words are Phi in every mode. Payload never becomes core through use or frequency; adoption requires an explicit later lexicon decision.
 - **Guest payload** (settled 2026-07-10): material inside `hasha … hasho` uses Phi's permitted consonants, digraphs, and vowels; begins with an onset; consists of open syllables; has no sequence of three vowels; stays lowercase; and takes penultimate stress. It may be any length, span several adapted tokens, and repeat a syllable because the frame already prevents lexical confusion. Standalone `hasho` cannot occur in the payload; choose another adaptation. Guest material is renderable in every Phi writing mode but is not checked against the lexicon.
 - **Exact payload** (settled 2026-07-10): material inside `patha … patho` is opaque to Phi phonology, spelling, case, punctuation, and vocabulary. It may preserve any script, source spelling, numeral, measurement, date, formula, URL, identifier, quotation, technical notation, or reported terminology. A single standalone `patho` closes the frame; doubled standalone `patho patho` represents a literal payload occurrence. Written payload is authoritative; speech may reproduce, spell, or describe it by a shared external convention. Core Phi's letter-perfect dictation claim does not extend to exact payload.

@@ -8,7 +8,8 @@ Checks the entire language for internal consistency, and runs in CI on every pul
 
 - **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar keys, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
 - **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/minimal_pairs_baseline.txt`, which may only shrink.
-- **Documentation examples**: every Phi word quoted in `documents/`, `manual/`, `pamphlets/`, `primer/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary. Works on fenced code blocks and *italicized/bold* spans.
+- **Documentation examples**: every Phi word quoted in `documents/`, `manual/`, `pamphlets/`, `primer/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
+- **Productive names**: unlisted name-forms after `ne` must be lowercase, two through four syllables, and content-shaped; every listed non-content form remains strictly unavailable as a name.
 - **External register**: `hasha … hasho` payload is checked for Phi-compatible guest phonotactics; `patha … patho` payload is opaque; both require balanced boundaries, exact closer escaping, and uninterrupted core validation outside the frame.
 - **Collision check for new coinages**: `neighbors WORD` lists every existing word within edit distance 1 of a candidate.
 
@@ -19,11 +20,19 @@ python3 scripts/validate_examples.py --docs-only
 python3 scripts/validate_examples.py --paths manual/part4_grammar
 python3 scripts/validate_examples.py --show-warnings
 python3 scripts/validate_examples.py neighbors phika # before coining
+python3 scripts/validate_examples.py name saweriko   # before using an onym
 ```
 
 Exit code 0 means no errors. Run the full check — as its own command, so the exit code is not swallowed by a pipeline — before every commit that touches vocabulary or documentation examples.
 
 Known limitation: single-word *italic* mentions in prose are not checked (the English/Phi heuristic needs at least two tokens). When retiring or renaming a word, grep for it explicitly.
+
+Focused regression suites cover the two marked open classes:
+
+```bash
+python3 scripts/test_external_register.py
+python3 scripts/test_name_forms.py
+```
 
 ## generate_reference.py
 
