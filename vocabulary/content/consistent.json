@@ -1,0 +1,29 @@
+{
+  "word": "letharo",
+  "gloss": "consistent",
+  "ipa": "/le̞.ˈθä.ro̞/",
+  "syllables": [
+    "le",
+    "tha",
+    "ro"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Consistent / Jointly Possible",
+  "description": "Of two or more claims, able to be true together under the same interpretation and relevant conditions. Consistency does not establish that any claim is actually true, well supported, complete, or morally acceptable. By the quality-noun rule, the same form names consistency.",
+  "sound_symbolism": "Flowing 'le' lets several claims move alongside one another. Deliberate 'tha' tests their meeting, and rounded 'ro' returns them as a set that can hold together without collision.",
+  "grammatical_notes": "An adjective used attributively or predicatively: 'letharo lo sherewa' (consistent claims); 'lo sherewa letharo nai.' (The claims are consistent.) The quality-noun rule supplies consistency. Distinct from 'senao' (same), 'lei' (harmony), and 'shewo' (true).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Claims can coexist under one set of conditions and conflict under another; consistency remains scoped rather than absolute.",
+    "art-nouveau-aesthetics": "Consistency concerns whether distinct parts can inhabit one form together without requiring those parts to become identical.",
+    "peace-linguistics-practices": "The term helps distinguish genuine incompatibility from mere difference, reducing pressure for unnecessary uniformity."
+  },
+  "tags": {
+    "cognition": "the quality of propositions that can be true together",
+    "wisdom": "holding plurality without confusing compatibility with truth"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

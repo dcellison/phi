@@ -1,0 +1,30 @@
+{
+  "word": "theremola",
+  "gloss": "argument",
+  "ipa": "/θe̞.re̞.ˈmo̞.lä/",
+  "syllables": [
+    "the",
+    "re",
+    "mo",
+    "la"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Argument / Organized Support for a Conclusion",
+  "description": "An organized whole in which one or more premises are offered in support of a conclusion. The word names reasoning structure, whether spoken, written, or privately considered; it does not mean a quarrel, hostility, loudness, or mere disagreement. An argument can be valid or invalid, persuasive or unpersuasive, and built from premises that are true or false.",
+  "sound_symbolism": "The thoughtful breath of 'the' slows the beginning. 'Re' connects one claim to another, 'mo' gathers the structure into the mind, and open 'la' presents the whole for examination. Four syllables give a many-parted idea the space its internal relations deserve.",
+  "grammatical_notes": "A countable noun: 'ha theremola kithela nai.' (This argument is valid.) Premises and conclusion may be named possessively or in surrounding clauses. Distinct from 'shareo' (discuss), 'thelu' (dialogue), and ordinary disagreement; those are interactions, while 'theremola' is a structure of support.",
+  "pillars": {
+    "art-nouveau-aesthetics": "An argument is treated as an organized form whose value depends on the relations among its parts, much as a living design depends on structure rather than isolated decoration.",
+    "peace-linguistics-practices": "Separating argument from quarrel makes rigorous disagreement compatible with collaborative and non-hostile dialogue."
+  },
+  "tags": {
+    "cognition": "an organized relation of premises to a conclusion",
+    "dialogue": "a reasoning structure shared for examination",
+    "wisdom": "a form through which beliefs can be tested and revised"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

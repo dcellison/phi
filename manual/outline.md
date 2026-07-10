@@ -1,7 +1,6 @@
 # The Phi Language Manual: Outline
 
-*A complete, accessible, authoritative guide. This outline reflects the
-manual as it exists; update it whenever chapters change.*
+*A complete, accessible, authoritative guide. This outline reflects the manual as it exists; update it whenever chapters change.*
 
 ---
 
@@ -220,13 +219,10 @@ manual as it exists; update it whenever chapters change.*
 ## Part VII: Reference
 
 - Quick Reference Grammar: the whole system on one page
-- The Complete Lexicon: alphabetical, by domain, by part of speech
-  (generated from the vocabulary JSON; never edited by hand)
-- Sample Texts: dialogues, the Bashō transmutation, and the guide
-  to the complete texts on the shelf in `pamphlets/`
-- Writing is taught in chapter 8 §6: the romanization, the Tengwar
-  mode, and the reserved glyph mode. The Tengwar mode in full is
-  the `tengwar_mode` pamphlet.
+- The Complete Lexicon: alphabetical, by domain, by module, and by part of speech (generated from the vocabulary JSON; never edited by hand)
+- Domain Modules: optional vocabulary indexed by module, with a speaker-facing chapter for each established module
+- Sample Texts: dialogues, the Bashō transmutation, and the guide to the complete texts on the shelf in `pamphlets/`
+- Writing is taught in chapter 8 §6: the romanization, the Tengwar mode, and the reserved glyph mode. The Tengwar mode in full is the `tengwar_mode` pamphlet.
 
 ---
 

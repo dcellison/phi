@@ -149,7 +149,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (138)
+## cognition (159)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -166,7 +166,11 @@
 | `kelai` | equals | Announces mathematical results through explicit statement |
 | `kelomi` | accept | Acknowledging reality |
 | `kelu` | become | developing understanding and awareness |
+| `kethira` | infer | deriving a conclusion from premises |
+| `kiremoa` | criterion | a standard used in classification or judgment |
 | `kiro` | precise | Exactness |
+| `kirothe` | define | setting out a term's meaning or conditions of application |
+| `kithela` | valid | the quality of an argument whose premises entail its conclusion |
 | `koma` | head | seat of mental processes |
 | `korei` | fulfill | Realization |
 | `kuelo` | curious | Wonder-seeking |
@@ -174,6 +178,7 @@
 | `kupela` | secret | The known and untold |
 | `lau` | twenty-seven-group | Represents the cognitive boundary where enumeration becomes impossible, where the mind must shift from counting to experiencing magnitude. 'Lau' embodies the limit of numerical cognition at human scale. |
 | `leiro` | release | Mathematical operation requiring deliberate mental processing |
+| `letharo` | consistent | the quality of propositions that can be true together |
 | `lilea` | clarify | illuminates meaning by clearing mental confusion |
 | `limoe` | creature | General category for life |
 | `loetha` | open (receptive) | Receptive thinking |
@@ -185,9 +190,11 @@
 | `monae` | integral | Essential connection |
 | `morae` | sense | Fundamental perceptual capacity |
 | `moreko` | articulate | Translating inner experience to speech |
+| `mothare` | premise | a proposition serving as a starting point in inference |
 | `mu` | zero | mathematical concept of absence and identity |
 | `muko` | careless | Inattentive |
 | `nai` | be | establishing identity and predication |
+| `natheri` | entail | a necessary truth-preserving relation between propositions |
 | `nila` | see | perception as gateway to understanding |
 | `noetha` | essential | Core recognition |
 | `nohero` | believe | Holding something as true |
@@ -195,6 +202,7 @@
 | `norae` | method | Systematic approach |
 | `norea` | soul | Deep identity |
 | `norelu` | form | Understanding pattern and organization |
+| `norethi` | confident | the experienced strength of a belief or judgment |
 | `nowae` | awaken | consciousness shift from sleep to awareness |
 | `nulae` | sleep | alternative consciousness state essential for memory and mental processing |
 | `nulomi` | guts | The seat of wordless knowing |
@@ -209,9 +217,12 @@
 | `philuewa` | butterfly | Change made visible and winged |
 | `phiora` | spirit | Inner animation |
 | `phirae` | different | the perception of distinction |
+| `phiraketu` | contradict | logical incompatibility between claims under shared conditions |
 | `phiremo` | relate | Perceiving connections |
 | `phirena` | meditate | Training and focusing attention |
 | `phisoe` | creative | Inventive capacity |
+| `phisuwa` | example | a particular case used to illuminate a broader idea |
+| `phiwhekira` | counterexample | a scoped case that disproves a general claim as stated |
 | `phoi` | nine-group | Represents the cognitive threshold where counting becomes approximation, where the mind shifts from enumeration to estimation. 'Phoi' embodies the natural limit of subitizing and easy counting. |
 | `phoka` | lens | Focusing clarity |
 | `phue` | wise | Mature insight |
@@ -221,6 +232,9 @@
 | `rei` | eighty-one-group | Represents the absolute limit of human numerical cognition, the point where the mind must abandon counting and embrace the concept of boundlessness. 'Rei' embodies cognitive humility. |
 | `relo` | symbol | Representation |
 | `remo` | think | fundamental mental process of contemplation and analysis |
+| `remolea` | concept | an organized idea used to relate or classify experience |
+| `remoluma` | conclusion | the proposition reached from stated premises |
+| `remotha` | reason | a consideration that supports acceptance or action |
 | `reo` | meaning | involves mental processing and comprehension |
 | `romishe` | contemplate | Deep, sustained thinking |
 | `ruka` | complex | Multi-layered quality |
@@ -241,6 +255,7 @@
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
 | `sheluo` | listen | requires mental processing and active understanding |
 | `sheori` | communicate | connects minds across the illusion of separation |
+| `sherewa` | claim | a proposition deliberately put forward for assessment |
 | `shewo` | true | Truthfulness |
 | `shiloa` | pure | mental clarity and freedom from distortion |
 | `shiwolu` | integrate | Synthesizing into coherent whole |
@@ -251,6 +266,7 @@
 | `soleha` | luck | The unearned part of outcomes |
 | `somela` | observe | involves mental processing and focused awareness |
 | `sone` | value | Attributed importance |
+| `soneholu` | tradeoff | a constrained relation between competing valued outcomes |
 | `sorai` | insight | Deep seeing |
 | `ta` | one | fundamental cognitive concept for counting and establishing singular identity |
 | `tawi` | count | Mindful enumeration |
@@ -267,7 +283,9 @@
 | `thenoi` | falls-short | Announces magnitude relationship requiring mental comparison |
 | `theo` | read | fundamentally a cognitive process of decoding and comprehension |
 | `theonu` | attend | Directed focus |
+| `theremola` | argument | an organized relation of premises to a conclusion |
 | `thesa` | careful | Attentive awareness |
+| `thesori` | evidence | information offered in support of or against a claim |
 | `thesua` | mindful | involves mental awareness and focused attention |
 | `thilou` | inquire | the mind's movement in curiosity and seeking |
 | `thimu` | time | the framework through which we understand change |
@@ -283,6 +301,9 @@
 | `weni` | imagine | Creative mental image formation |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
 | `wesho` | locate | Discovery |
+| `whakeru` | object | identifying a specific problem in reasoning |
+| `wharemoi` | doubt | an unsettled stance toward a proposition or its support |
+| `whekatelu` | refute | demonstrating that a claim or inference fails |
 | `whekelua` | magic | Change beyond explanation |
 | `whemura` | dream | Mental imagery during sleep or imagination |
 | `whinu` | smell | Direct pathway to memory and emotion |
@@ -292,7 +313,7 @@
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (203)
+## community (205)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -337,6 +358,7 @@
 | `lumera` | nourish | Providing for others' needs |
 | `lumira` | descendant | continues lineage as future bearers of collective legacy |
 | `lumishe` | mentor | builds knowledge continuity across generations |
+| `malonawi` | compromise | a settlement reached through concessions among participants |
 | `meilo` | sit | essential posture for gatherings, councils, and shared activities |
 | `meliho` | sing | Shared singing traditions |
 | `meliphe` | music | What the gathering makes |
@@ -437,6 +459,7 @@
 | `siora` | joy | multiplies through sharing and builds collective resilience |
 | `soeli` | cup | Shared refreshment |
 | `soki` | settle | Committing to location and relationships |
+| `soneholu` | tradeoff | a choice structure whose gains and burdens may fall on different people |
 | `sorui` | circle | Equal arrangement |
 | `sulai` | musician | Creative role |
 | `sulopa` | soup | The meal that stretches |
@@ -625,7 +648,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (74)
+## dialogue (86)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -637,6 +660,7 @@
 | `kapura` | shout | forceful or urgent vocalization |
 | `kela` | rejoice | Expressing joy to others |
 | `kiroa` | sign | Visual message |
+| `kirothe` | define | making a proposed usage boundary explicit for others |
 | `kowela` | council | transforms governance through deep listening and patient dialogue |
 | `kupela` | secret | The silence that protects |
 | `lathoe` | tongue | Primary organ of speech production |
@@ -646,10 +670,12 @@
 | `lonae` | respond | completing the arc of verbal exchange |
 | `lophae` | storyteller | Tale sharing |
 | `lumishe` | mentor | happens through communication and mutual exchange |
+| `malonawi` | compromise | an outcome of negotiating differing aims |
 | `menoa` | face | Primary site of expressive communication |
 | `miratu` | recognize | Acknowledging identity in encounter |
 | `mishoa` | express | conveys inner truth through perceivable forms |
 | `moreko` | articulate | Clear verbal expression |
+| `mothare` | premise | a claim participants can grant, question, or revise explicitly |
 | `naphe` | help | Fundamental exchange of mutual aid |
 | `nawea` | respect | foundation for respectful communication |
 | `naweri` | refuse | The boundary stated |
@@ -665,9 +691,14 @@
 | `pharune` | include | Affirming membership |
 | `phelui` | word | the basic unit of speech |
 | `phesua` | inspire | transmits energy between consciousnesses |
+| `phiraketu` | contradict | a precise conflict that clarification may confirm or dissolve |
 | `phiremo` | relate | Establishing relationship in communication |
+| `phisuwa` | example | a case speakers can offer, compare, and discuss explicitly |
+| `phiwhekira` | counterexample | a concrete way to challenge overgeneralization |
 | `phowe` | share | sharing is exchange and reciprocity |
 | `phulae` | mouth | the gate through which speech emerges |
+| `remoluma` | conclusion | the result of an argument that participants may assess separately |
+| `remotha` | reason | a ground offered so others can examine a claim or choice |
 | `reo` | meaning | central to communication and exchange of understanding |
 | `seniku` | smile | Non-verbal communication of goodwill |
 | `shane` | tell | Directed recounting to a listener |
@@ -678,6 +709,7 @@
 | `sheluo` | listen | fundamental to communication and meaningful exchange |
 | `shemui` | utter | fundamental act of verbal communication |
 | `sheori` | communicate | creates bridges of understanding through exchange |
+| `sherewa` | claim | the public act of offering a proposition to others |
 | `shonui` | ear | Essential for receiving communication |
 | `solae` | explain | illuminates understanding through detailed communication |
 | `tewema` | partner | requires ongoing communication and mutual exchange |
@@ -693,6 +725,7 @@
 | `theo` | read | receptive communication receiving encoded messages from another consciousness |
 | `theomi` | trust | foundation for genuine communication |
 | `theonu` | attend | Attentive presence |
+| `theremola` | argument | a reasoning structure shared for examination |
 | `thereo` | mediator | facilitates communication and understanding between parties |
 | `thilou` | inquire | verbal reaching toward understanding |
 | `thorae` | facilitator | Group enabling |
@@ -700,11 +733,13 @@
 | `thumela` | teach | knowledge transfer through communication |
 | `toloi` | messenger | Message carrying |
 | `wero` | honest | Truthfulness |
+| `whakeru` | object | placing a challenge into discussion for response |
 | `whaline` | thank | Verbal expression of gratitude |
+| `whekatelu` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 | `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
-## emotion (109)
+## emotion (110)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -754,6 +789,7 @@
 | `nolami` | bond | creates tender embrace through care and presence |
 | `nomela` | encourage | gives hope and confidence through heartfelt support |
 | `nophei` | loyal | Steadfast commitment |
+| `norethi` | confident | felt steadiness in one's understanding or ability |
 | `nuhe` | sadness | The heavy feeling of loss or sorrow |
 | `nuhemi` | grieve | The sustained carrying of sadness after loss |
 | `nuhewa` | weep | Sadness flowing out |
@@ -1592,7 +1628,7 @@
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
 
-## wisdom (187)
+## wisdom (201)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1610,8 +1646,12 @@
 | `keli` | device | Crafted complexity |
 | `kesho` | middle | Balance position |
 | `kesu` | determined | Unwavering purpose |
+| `kethira` | infer | recognizing the mind's movement beyond what was directly given |
 | `kira` | key | Access granted |
 | `kirae` | crystal | Clarity symbol |
+| `kiremoa` | criterion | an explicit and revisable basis for deciding fit |
+| `kirothe` | define | examining both the usefulness and limits of categories |
+| `kithela` | valid | a precise assessment kept distinct from truth and persuasion |
 | `kolo` | equal | Balanced recognition |
 | `kolua` | carry | patient, mindful bearing as practice of presence |
 | `koma` | head | dwelling of understanding and awareness |
@@ -1621,6 +1661,7 @@
 | `lau` | twenty-seven-group | Carries deep understanding about the limits of quantification, the wisdom that beyond certain thresholds, counting becomes meaningless and presence becomes essential. |
 | `lei` | harmony | requires understanding the middle way and patient adjustment |
 | `leiro` | release | Embodies non-grasping and acceptance of release |
+| `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `liona` | live | Engaged presence in existence |
 | `liroa` | playful | Fun-loving spirit |
 | `loetha` | open (receptive) | Willing to consider |
@@ -1633,6 +1674,7 @@
 | `luwi` | flexible | Adaptive quality |
 | `maeli` | quiet | Enabling stillness |
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
+| `malonawi` | compromise | a practical but morally nonautomatic response to conflict |
 | `manolu` | stay | patient presence bringing understanding |
 | `meilo` | sit | sitting meditation as practice for cultivating mindful awareness |
 | `menua` | counselor | Advisory presence |
@@ -1658,6 +1700,7 @@
 | `nomira` | collect | Selective accumulation over time |
 | `norae` | method | Ordered way |
 | `norea` | soul | Self understanding |
+| `norethi` | confident | firmness that remains distinguishable from knowledge and certainty |
 | `nosa` | now | Current moment |
 | `nulo` | deep | Profundity |
 | `nuloe` | content | Acceptance of enough |
@@ -1680,6 +1723,7 @@
 | `phesua` | inspire | involves skillful awakening without forcing |
 | `phewo` | sage | Insight earned through living |
 | `phiro` | elegant | Tasteful quality |
+| `phiwhekira` | counterexample | attention to particulars that resist an overly broad rule |
 | `phoi` | nine-group | Carries the understanding that beyond certain thresholds, precision yields to sufficiency. The wisdom that 'enough' matters more than 'exactly how many.' |
 | `pholui` | bamboo | Flexible strength |
 | `pholuo` | luminous | Inner illumination |
@@ -1692,6 +1736,8 @@
 | `rei` | eighty-one-group | Knowing where counting stops being useful: 'rei' marks the point where a quantity is estimated rather than tallied. |
 | `relua` | mirror | Self-seeing |
 | `remo` | think | thinking as the path to understanding and awareness |
+| `remolea` | concept | a revisable mental pattern whose boundaries can be examined |
+| `remotha` | reason | deliberative support whose relevance and limits can be considered |
 | `reo` | meaning | requires understanding context and relationship |
 | `roela` | scroll | Preserved teaching |
 | `rolia` | worth | Inherent dignity |
@@ -1723,6 +1769,7 @@
 | `soliru` | hope | requires understanding causes and conditions for change |
 | `somela` | observe | leads to insight through mindful seeing |
 | `sone` | value | Worth recognition |
+| `soneholu` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sonu` | alone | Solitude as contemplative ground |
 | `sorai` | insight | Penetrating understanding |
 | `telua` | accurate | Alignment with truth |
@@ -1744,8 +1791,10 @@
 | `themio` | reflect | develops self-understanding and awareness |
 | `thenoki` | sustain | Understanding what keeps things alive |
 | `therema` | tradition | preserving collective knowledge through generations |
+| `theremola` | argument | a form through which beliefs can be tested and revised |
 | `thereo` | mediator | requires seeing all perspectives and finding middle way |
 | `thesa` | careful | Preventive care |
+| `thesori` | evidence | material whose source, relevance, and limits can be examined |
 | `thesua` | mindful | requires non-judgmental understanding and clear seeing |
 | `thilonu` | prepare | Foresight and planning |
 | `thinu` | put | mindful intention in determining proper placement |
@@ -1773,6 +1822,7 @@
 | `wero` | honest | Without deception |
 | `wesoma` | mutual | understanding interdependence requires deep insight |
 | `whano` | stand | standing meditation and practice of mindful presence |
+| `wharemoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `whemoa` | empty | Openness |
 | `whemura` | dream | Source of insight and vision |
 | `whenola` | wander | Openness to unplanned discovery |

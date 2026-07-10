@@ -25,13 +25,13 @@ This directory contains Phi's current language references, development methods, 
 | [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md) | Evidence-gate review of concrete craft coverage, work relations, semantic pressure, and external handling. |
 | [Philosophical capability matrix](philosophical_capability_matrix.md) | Operation-level classification of demonstrated abilities, compositions, external bridges, and gaps. |
 | [Philosophical test corpus](philosophical_test_corpus.md) | Validated regression dialogues and gap logs for reasoning, systems, care, access, governance, ecology, and work. |
-| [Philosophical transformation prompts](philosophical_reasoning_transformation_prompts.md) and [key](philosophical_reasoning_transformation_key.md) | Separate Phi-only premise and conclusion transformations, proposition inventory, repair probes, and delayed scoring material. |
+| [Philosophical transformation prompts](philosophical_reasoning_transformation_prompts.md) and [key](philosophical_reasoning_transformation_key.md) | Separate Phi-only premise and conclusion transformations, proposition inventory, repair probes, and optional comparison material. |
 | [Solo evaluation tasks](solo_evaluation_tasks.md) | Reproducible choice, paraphrase, transformation, and repair tasks. |
 | [Listening audit](listening_audit.md) | Protocol and evidence gate for perceptual collisions and pronunciation variation. |
 
 ## Practice Profiles
 
-[Phi profiles](modules/) organize shared core resources for bounded fields without adding grammar, parser modes, or private lexicons. The [profile catalogue](modules/README.md) records active profiles, formal proposals, cross-module areas, and the evidence gate for each addition, while [Potential Profile Explorations](modules/potential_profile_explorations.md) keeps scenario-first possibilities separate from approved work.
+[Phi profiles](modules/) organize shared resources, transparent compounds, and optional domain vocabulary without adding grammar or parser modes. The [profile catalogue](modules/README.md) records active profiles and vocabulary status, while [Potential Profile Explorations](modules/potential_profile_explorations.md) preserves future ideas. Speaker-facing established modules live in the manual's [Domain Modules](../manual/part7_reference/modules/) section.
 
 ## Releases and Baselines
 

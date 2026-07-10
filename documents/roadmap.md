@@ -38,6 +38,7 @@ Success would mean that speakers can:
 | **PARTIAL** | A useful artifact or baseline exists, but the stated outcome is not complete. |
 | **NEXT** | The current recommended work package. It can begin without another prerequisite. |
 | **READY** | Specified and unblocked, but not the current work package. |
+| **OPTIONAL** | Available for practice or observation, but not required for another roadmap item. |
 | **PENDING** | Specified, but waiting for one or more roadmap prerequisites. |
 | **EVIDENCE** | Repository preparation may be complete, but the outcome requires elapsed time or observations from actual use. |
 | **DEFERRED** | Intentionally postponed until the stated trigger occurs. |
@@ -83,7 +84,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | EXT-03 | **DONE** | Nominal-atom syntax and ethical reporting policy. | Canon rulings on external syntax and reporting | Source grammar never silently enters Phi; provenance does not imply approval. |
 | EXT-04 | **DONE** | Validator, gloss, HTML-escaping, and mixed-Tengwar support. | `scripts/validate_examples.py`; `scripts/tengwar.py`; external tests | CI continues to cover malformed, opaque, escaped, and injection-like payloads. |
 | EXT-05 | **DONE** | Advanced teaching material. | Manual chapter 24; `pamphlets/external_register/` | Examples stay synchronized with canon and validation. |
-| EXT-06 | **READY** | Human layer-choice trial across core composition, registered compounds, productive names, guest forms, and exact forms. | `documents/solo_evaluation_tasks.md` section 2 | Complete twenty shuffled prompts after a delay; record ambiguous cases and revise teaching before grammar. |
+| EXT-06 | **OPTIONAL** | Human layer-choice exercise across core composition, registered compounds, productive names, guest forms, and exact forms. | `documents/solo_evaluation_tasks.md` section 2 | Complete any useful prompts immediately or later; record ambiguous cases and revise teaching where helpful. |
 | EXT-07 | **EVIDENCE** | Outside-reader interpretation of the boundary as provenance rather than stigma or approval. | No outside result yet | Collect qualitative responses from multiple consenting readers with different backgrounds. |
 
 ## Phase 2: Productive identity and naming
@@ -99,19 +100,19 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | NAM-05 | **READY** | Repeated-name narrative trial comparing `ne` plus onym with full guest framing. | Solo evaluation name prompts | Write and read a short narrative with at least ten mentions; record burden and ambiguity. |
 | NAM-06 | **EVIDENCE** | Test shared names, changed names, multi-part names, and preferred forms with actual users. | No outside result yet | Record whether clarification conventions suffice before adding more name grammar. |
 
-## Phase 3: Philosophical capability baseline
+## Phase 3: Philosophical reasoning and vocabulary
 
-**Objective:** Determine what Phi can actually do in connected argument before adding vocabulary or discourse machinery.
+**Objective:** Develop connected philosophical expression, useful optional terminology, and clear repair practices without adding incompatible grammar.
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| PHL-01 | **DONE** | Capability matrix with demonstrated, compositional, external-bridge, and gap classifications. | `documents/philosophical_capability_matrix.md` | Matrix remains the gate for philosophical additions. |
-| PHL-01A | **PARTIAL** | Organize existing reasoning resources as a shared-core Philosophical Reasoning profile. | Profile, capability matrix, regression corpus, and six authored Phi-only transformation prompts with a separate proposition key | Run the delayed transformation and unrehearsed repair tests before proposing a reasoning extension. |
+| PHL-01 | **DONE** | Capability matrix with demonstrated, compositional, external-bridge, and gap classifications. | `documents/philosophical_capability_matrix.md` | Use the matrix as a descriptive reference rather than an admission gate. |
+| PHL-01A | **DONE** | Establish Philosophical Reasoning as Phi's first optional vocabulary module. | Profile, 22 complete module entries, generated module index, speaker-facing Part VII chapter, regression corpus, and six authored transformations | Revise the vocabulary through actual writing and discussion when a compound or coined term feels inadequate. |
 | PHL-02 | **DONE** | Fifteen original regression dialogues covering ecological tradeoff, repair/replace, evidential revision, external-language critique, definition under pressure, two measurement/systems challenges, bodily-care decision-making, two access cases, commons allocation, shared-infrastructure accountability, two ecological-systems challenges, and work-sharing during a craft repair. | `documents/philosophical_test_corpus.md` | Existing dialogues remain validated and revisable. |
 | PHL-03 | **PARTIAL** | Repair conventions for clarification, error, withdrawal, disagreement, turn handoff, waiting, consent, refusal, and source requests. | `documents/grammar/philosophical_conversation.md` | Move conventions to demonstrated only after unscripted use succeeds repeatedly. |
 | PHL-04 | **PARTIAL** | Demonstrate definition, truth, evidence, conditionals, consequence, example, summary, agreement, agency, and revision in connected text. | Demonstrated rows in the capability matrix | Add at least one independent original passage per operation, not merely a reference example. |
-| PHL-05 | **PARTIAL** | Test compositional operations: cause versus reason, retraction, competing goods, responsibility, uncertainty, and suspended judgment. | Competing-goods and responsibility cases exist in scenarios 11, 12, and 15; six controlled transformations now cover evidential revision, competing values, definition, retraction, and suspended judgment at authoring level | Run the transformation packet after its delay, then transform the responsibility cases and record where priority, responsibility scope, competence, capacity, authority, and provisional acceptance are lost. |
-| PHL-06 | **PARTIAL** | Test current gaps: logical validity, contradiction, consistency, counterexample, systems, feedback, and emergence. | Feedback cases in scenarios 6 and 7; ecological systems cases and exact terms with core analysis in scenarios 13 and 14 | Transform the ecology cases and test blind systems recovery; write independent logic and counterexample dialogues before proposing core forms. |
+| PHL-05 | **PARTIAL** | Express cause versus reason, retraction, competing goods, responsibility, uncertainty, and suspended judgment. | The module adds `remotha`, `wharemoi`, `norethi`, `soneholu`, and `malonawi`; the corpus and transformation packet provide material for use | Write original passages using the vocabulary and revise any term or composition that feels unclear or unnatural. |
+| PHL-06 | **PARTIAL** | Express logical validity, contradiction, consistency, counterexample, systems, feedback, and emergence. | The module adds validity, entailment, contradiction, consistency, example, counterexample, and refutation vocabulary; systems and emergence remain thinner | Use the new terms in connected philosophical and systems writing, then add further vocabulary where desired. |
 | PHL-07 | **READY** | Distinguish understanding, agreement, endorsement, and willingness to continue. | Repair conventions | Complete unscripted dialogues whose successful ending includes disagreement or suspension. |
 | PHL-08 | **EVIDENCE** | Determine whether other speakers recover intended propositions and distinctions. | No outside result yet | Use blind paraphrase and dialogue tasks with consenting readers; report losses without blaming learners. |
 
@@ -122,11 +123,11 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
 | EVA-01 | **DONE** | Structural regression for lexicon, examples, external frames, productive names, generated references, and rendering. | CI and release verification | Continue on every relevant change. |
-| EVA-02 | **NEXT** | External-layer and name-choice prompt set. | Protocol in `documents/solo_evaluation_tasks.md` | Create twenty balanced prompts, delay, classify blind, and record ambiguity. |
+| EVA-02 | **OPTIONAL** | External-layer and name-choice prompt set. | Protocol in `documents/solo_evaluation_tasks.md` | Use the prompts when they would improve teaching or reveal a practical burden; no delay is required. |
 | EVA-03 | **DONE** | Exact-payload safety trial with script, case, notation, URL, closer escaping, and HTML-looking material. | External-register tests and generated-site inspection | Repeat whenever rendering architecture changes. |
-| EVA-04 | **READY** | Delayed philosophical paraphrase. | Solo task 5; Phi-only transformation packet authored 2026-07-10 with a separate key | On or after 2026-07-18, paraphrase one prompt and score lost or added propositions, evidentials, modality, negation, participants, and discourse relations. |
-| EVA-05 | **PARTIAL** | Argument transformation. | Six controlled prompts cover premise and conclusion variation for three of fifteen baseline dialogues; proposition key exists; no delayed result yet | Run and score the six prompts after the delay, then transform the remaining baseline dialogues and log constructions that cannot preserve the distinction. |
-| EVA-06 | **READY** | Unrehearsed conversation-repair trial. | Solo task 7, repair reference, and authored clarification, evidence-challenge, retraction, and understood-disagreement probes in the transformation packet | Read both roles without rehearsal, insert an unplanned misunderstanding, and record every point where English is required or a convention is misheard. |
+| EVA-04 | **OPTIONAL** | Open-reference philosophical paraphrase. | Phi-only transformation packet with a separate key | A learner who has not seen the key may work through a prompt immediately with or without the lexicon; treat difficulty as learning feedback, not a gate on vocabulary. |
+| EVA-05 | **OPTIONAL** | Argument transformation practice. | Six controlled prompts cover premise and conclusion variation for three baseline dialogues; proposition key exists | Use or expand the packet when it serves learning, writing, or revision; no delay is required. |
+| EVA-06 | **OPTIONAL** | Conversation-repair practice. | Repair reference and authored clarification, evidence-challenge, retraction, and understood-disagreement probes | Use the probes during dialogue practice and record only observations that are useful to future teaching or revision. |
 | EVA-07 | **READY** | Productive-name burden trial. | NAM-05 | Compare repeated onym and guest-frame versions without changing the underlying referent. |
 | EVA-08 | **READY** | Consolidated evaluation record. | Result table in `documents/solo_evaluation_tasks.md` | Add dated results, material, failures, and follow-up; never replace a pending row with an undocumented impression. |
 
@@ -145,34 +146,34 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SPH-07 | **EVIDENCE** | Learner-facing reference recordings and accepted-variation examples. | No curated audio set yet | Publish only reviewed recordings whose speaker consent and purpose are recorded. |
 | SPH-08 | **DEFERRED** | Broad lexical renaming campaign. | Explicitly excluded from Phi 2026.1 | Reconsider only after repeated, high-impact perceptual confusion survives careful-production review. |
 
-## Phase 6: Evidence-led semantic growth
+## Phase 6: Semantic growth and optional modules
 
-**Objective:** Expand Phi where recurring discourse demonstrates need, especially for philosophical and solarpunk community discussion, without converting every external concept into a core root.
+**Objective:** Expand Phi according to its maintainer's values and intended uses, using transparent compounds where they help and confident coinage where a domain benefits from dedicated vocabulary.
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| SEM-01 | **DONE** | Establish the admission gate: compose first, use external material when faithful, coin only after recurring failure. | Development protocol and capability matrix | Every proposal cites the passages it repairs. |
-| SEM-01A | **PARTIAL** | Test practice and domain profiles as shared-core, non-grammatical organization. | Module contract; Household and Daily Life; Medical and Bodily Care; Systems and Shared Infrastructure; Philosophical Reasoning; Accessibility and Participation; Commons and Collective Governance; Ecological Systems and Material Life; Work, Craft, and Repair | Run each profile's next-use test before treating the format as a durable extension policy. |
-| SEM-01B | **DONE** | Evaluate the recorded proposed-profile catalogue. | `documents/modules/README.md`; Accessibility, Commons, Ecological Systems, and Work, Craft, and Repair moved to active after satisfying their gates | No proposed profile remains; record any new candidate and its evidence gate before creation, while keeping solarpunk cross-module and sensitive domains scenario-gated. |
+| SEM-01 | **DONE** | Establish the coinage quality protocol: compare composition and coinage, choose freely, then require complete semantics, schema, sound, examples, and references. | Development protocol and Philosophical Reasoning vocabulary pass | Apply the same quality standard without treating it as an external burden of proof. |
+| SEM-01A | **NEXT** | Develop practice and domain profiles as optional lexical organization under one grammar. | Eight active profiles; Philosophical Reasoning now has 22 module words, generated indexing, and a speaker chapter | Apply the established vocabulary-pass pattern to the next selected profile. |
+| SEM-01B | **DONE** | Record the intended profile catalogue. | `documents/modules/README.md`; eight active profiles and preserved future explorations | Add another profile when its organizational purpose is clear; no audience or external evidence gate is required. |
 | SEM-02 | **PARTIAL** | Map weak modern domains: technology, science, government, law, work, disability, reproductive health, sexuality, and institutions. | Assessment, survey, two access scenarios and profile, two commons scenarios and profile, two ecological scenarios and profile, and the work/craft audit, scenario, and profile | Test non-workshop work relations, inhabited-place heat and cooling, accessibility outside meetings, and a standing institution outside councils while keeping sensitive domains scenario-gated. |
 | SEM-03 | **PARTIAL** | Solarpunk philosophical scenario corpus. | Original regression corpus and the ecological profile now cover ecology, energy, care, consent, accessibility, commons allocation, collective decisions, accountability, watershed evidence, habitat, material return, shared craft, work refusal, and repair safety | Continue with mutual aid, institutional failure beyond one council, climate and heat, and conflicting visions of a good future. |
 | SEM-04 | **READY** | Tradition-specific philosophy protocol. | Exact-first/explain-in-core pattern in the capability matrix | Test several traditions without claiming one Phi paraphrase exhausts the source concept. |
-| SEM-05 | **READY** | Evidence packet for each proposed root or construction. | Development protocol | Require at least several independent failures, attempted compositions, external alternatives, scope, contrasts, example dialogue, phonetic checks, and migration impact. |
+| SEM-05 | **DONE** | Complete implementation standard for each new word. | Development protocol and 22 Philosophical Reasoning entries | Require full schema fields, bounded scope, semantic contrasts, examples, phonetic checks, appropriate module placement, and generated references. |
 | SEM-06 | **PARTIAL** | Case-by-case review of core refusals. | Canon refusal and external-reporting rulings | Reconsider any refusal that obstructs care, identity, consent, safety, testimony, or analysis; document the result whether admitted or retained. |
-| SEM-07 | **PENDING** | First post-baseline philosophical expansion cycle. | Depends on EVA-04 through EVA-06 and PHL-05/06 | Select one recurring gap, make the smallest justified change, add corpus evidence and teaching, then re-test before choosing another. |
+| SEM-07 | **DONE** | First philosophical vocabulary expansion. | 22 Philosophical Reasoning module words and Part VII teaching chapter | Continue through original writing and future vocabulary passes; no delayed evaluation prerequisite remains. |
 
-### Default admission test
+### Default coinage checklist
 
-A new philosophical form should normally satisfy all of the following:
+A new philosophical or module word should normally satisfy all of the following:
 
-1. The need recurs in more than one independently written or transformed passage.
-2. Ordinary composition has been attempted and its loss can be stated precisely.
-3. Guest or exact carriage is insufficient for the intended core discussion, not merely longer.
-4. The proposal has a bounded meaning and contrasts with neighboring words or constructions.
-5. It passes structural, phonetic, corpus, gloss, rendering, and teaching checks.
-6. It improves a re-run of the motivating task without creating a broader ambiguity.
+1. Check whether an existing word already carries the intended meaning accurately.
+2. Consider whether a transparent compound makes the idea clearer than a new root.
+3. Coin freely when the concept deserves lexical presence or a compound would be cumbersome, ambiguous, or aesthetically wrong for Phi.
+4. Give the proposal a bounded meaning and explicit contrasts with neighboring words or constructions.
+5. Fill every canonical schema field accurately, including natural grammatical examples and appropriate semantic tags or module membership.
+6. Run structural, phonetic-neighbor, gloss, reference-generation, and documentation checks.
 
-This is a default evidence threshold, not an automatic formula. An exception requires a recorded decision in the development log.
+This checklist protects implementation quality. It does not require external approval, repeated failure, or proof that no alternative word could have been avoided.
 
 ## Phase 7: Original corpus and teaching
 
@@ -225,48 +226,46 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 | GOV-02 | **READY** | Lightweight contribution and consent guidance for first outside participants. | Existing consent notes are task-specific | Write only before inviting contributions or collecting feedback. |
 | GOV-03 | **DEFERRED** | Fixed release cadence and compatibility policy beyond current manifests. | No recurring downstream users yet | Introduce when other work depends on predictable releases. |
 
-## Critical path: next execution sequence
+## Current execution sequence
 
-The next work should gather evidence, not add grammar. Complete these packages in order unless a real user need intervenes.
+The current priority is optional module vocabulary and original philosophical use. Evaluation and speech work remain available later, but neither is a prerequisite for coinage.
 
-### Work package A: Choice and naming trial
+### Work package A: Next vocabulary module pass
 
-**Roadmap items:** EVA-02, EXT-06, NAM-05.
+**Roadmap items:** SEM-01A, SEM-02, SEM-05.
 
-1. Create twenty balanced prompts covering core composition, registered compound, productive name, guest, and exact form.
-2. Include personal and place names, non-Latin exact form, technical precision, harmful historical terminology, community practice, and a recurring philosophical gap.
-3. Write paired ten-mention narratives using a productive onym and a guest frame.
-4. Leave the prompts untouched for at least one day.
-5. Classify them without the key and record ambiguous or burdensome cases.
-6. Revise examples or selection guidance before considering grammar changes.
+1. Select one of the remaining active profiles.
+2. Inventory the domain concepts and the existing core words that already serve them.
+3. Keep transparent compounds where their parts illuminate the concept.
+4. Coin complete module entries wherever a dedicated word is useful, precise, or desirable.
+5. Add a Part VII speaker chapter, regenerate module references, expose the module in the web lexicon, and run the full validation suite.
 
-**Exit criterion:** dated result rows exist, every ambiguous case has an explanation, and any proposed rule change cites the failed prompt.
+**Exit criterion:** the selected profile has a documented vocabulary pass, complete canonical entries, validated examples, generated indexing, and accessible speaker guidance.
 
-### Work package B: Blind philosophical paraphrase
+### Work package B: Original Philosophical Reasoning use
 
-**Roadmap items:** EVA-04, PHL-04.
+**Roadmap items:** PHL-04 through PHL-07, COR-03, COR-04.
 
-1. Select one baseline dialogue and record the selection without rereading its translation.
-2. Wait a documented seven-day interval.
-3. Paraphrase the Phi into plain language.
-4. Compare propositions, sources, modality, negation, participants, and discourse relations.
-5. Record losses and additions separately.
+1. Choose a philosophical question worth exploring rather than a test constructed only to exercise vocabulary.
+2. Write a sustained Phi argument or dialogue using the new module terms where they feel natural.
+3. Include an objection, a response, revision or clarified scope, and either an unresolved tension or a reasoned conclusion.
+4. Revise any word, definition, compound, or example that feels awkward in actual use.
 
-**Exit criterion:** one scored paraphrase record exists and the matrix reflects every observed failure.
+**Exit criterion:** at least one original connected work uses the module naturally and records any vocabulary changes it prompted.
 
-### Work package C: Argument and repair stress test
+### Work package C: Optional reading and repair practice
 
-**Roadmap items:** EVA-05, EVA-06, PHL-03, PHL-05, PHL-07.
+**Roadmap items:** EVA-04 through EVA-06, PHL-03.
 
-1. Transform each baseline dialogue once by changing a premise and once by changing its conclusion.
-2. Read both roles aloud without rehearsal.
-3. Insert a hearing problem, a meaning problem, an evidence challenge, and understood disagreement.
-4. Use only documented repair conventions until one fails.
-5. Record every English rescue and every convention heard differently from its intended function.
+1. Select an unread prompt whose proposition key remains closed.
+2. Read it immediately or later, with the grammar and lexicon available as needed.
+3. Paraphrase or discuss it, then compare the result with the key.
+4. Record useful learning friction separately from possible language ambiguity.
+5. Use a clarification, evidence challenge, retraction, or understood disagreement when that would make the exercise worthwhile.
 
-**Exit criterion:** repair conventions are marked demonstrated, revised, or retained as gaps based on dated trials.
+**Exit criterion:** optional; completed practice may improve teaching or revision but does not gate vocabulary development.
 
-### Work package D: Maintainer listening baseline
+### Work package D: Later listening baseline
 
 **Roadmap items:** SPH-04, SPH-05.
 
@@ -278,23 +277,11 @@ The next work should gather evidence, not add grammar. Complete these packages i
 
 **Exit criterion:** the two external boundary pairs and a prioritized function-word set have actual observation rows; automated scores alone trigger no rename.
 
-### Work package E: First evidence-led language change
-
-**Roadmap items:** PHL-06, SEM-03, SEM-05, SEM-07.
-
-1. Choose the most recurrent failure from packages B and C.
-2. Write additional solarpunk or philosophical passages that require the same distinction.
-3. Attempt composition and external carriage explicitly.
-4. Propose the smallest lexical, constructional, or teaching change that repairs the failure.
-5. Re-run every motivating task and the full regression suite.
-
-**Exit criterion:** one narrowly justified change is released with evidence, alternatives, migration impact, teaching, and re-test results. Do not bundle unrelated gaps.
-
-### Work package F: First outside-reader packet
+### Work package E: First outside-reader packet
 
 **Roadmap items:** PHL-08, SPH-06, PED-04, COM-03.
 
-Prepare this only after the solo tasks have been run, so outside readers are not asked to find failures already visible to the maintainer.
+Prepare this when an outside reader exists and participation would be useful; solo tasks are not a prerequisite.
 
 The packet should contain a short consent statement, pronunciation reference, a small primer segment, one external-register task, one philosophical dialogue, one repair task, and open-ended questions. Collect language background and qualitative observations. Do not claim percentages from a handful of participants.
 

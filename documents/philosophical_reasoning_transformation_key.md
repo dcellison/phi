@@ -1,12 +1,12 @@
 # Philosophical Reasoning Transformation Key
 
-**Status:** Authoring and scoring key for the [Phi-only prompt packet](philosophical_reasoning_transformation_prompts.md), current to 2026-07-10. This is not a delayed paraphrase result or an unrehearsed conversation result.
+**Status:** Authoring and comparison key for the [Phi-only prompt packet](philosophical_reasoning_transformation_prompts.md), current to 2026-07-10. This is not a human comprehension or conversation result.
 
 ## Use Boundary
 
-Do not consult this key during a blind or delayed run. The first eligible delayed use of the prompt packet is 2026-07-18. A result exists only after a dated Phi-only paraphrase is compared against this inventory and every loss, addition, scope change, English rescue, and repair failure is recorded.
+Keep this key closed while making any interpretation that is intended to be independent. The prompt packet is available immediately; a useful comparison exists only after the learner's interpretation is recorded along with any grammar or lexicon references used.
 
-The key states intended readings so the transformation controls can be audited now and scored later. It does not establish that those readings are recoverable by the maintainer after a delay or by another reader.
+The key states intended readings so the transformation controls can be audited and optionally compared with a later interpretation. It does not establish that those readings are recoverable by a learner or another reader.
 
 ## Transformation Controls
 
@@ -161,11 +161,11 @@ Treat alternative but defensible paraphrases as ambiguity evidence rather than f
 
 ## Authoring Observations, Not Test Results
 
-- All six transformations can be written with existing grammar and vocabulary, but Phi still does not explicitly label premise, conclusion, objection, support, or validity. The prompt relies on sequence, `lao`, conditionals, evidentials, examples, contrast, and rephrasing for those roles.
-- Prompt 1A makes direct access to premises and inferential access to a causal conclusion formally separable. Only delayed or outside recovery can show whether that scope remains usable in connected reading.
+- All six transformations were written before the Philosophical Reasoning vocabulary pass and therefore remain useful core-vocabulary before-states. The module now supplies explicit words for premise, conclusion, objection, support relations, validity, and related concepts without changing the prompts' grammar.
+- Prompt 1A makes direct access to premises and inferential access to a causal conclusion formally separable. A learner's reading may later show whether that scope is easy or difficult to recover, but no such result is required before Phi continues to grow.
 - Prompt 2A shows that changing one premise may require removing a later claim that repeats it. The controlled unit is the contribution premise family, not a blind character substitution.
 - Prompt 2B preserves disagreement after C receives a portion, preventing receipt from being treated as proof that the allocation is fair or endorsed.
 - Prompts 3A and 3B keep characterization, definition, social effect, and symbol signification under pressure. The authored controls do not solve the matrix's definition-structure gap.
 - The provisional withdrawal form and the uses of `phisu` and `shorela` remain discourse practices rather than logical operators. No authored success upgrades their evidence status.
 
-No new root, particle, construction, or capability-status change follows from the packet. The next evidence is the delayed Phi-only run on or after 2026-07-18, followed separately by unrehearsed repair.
+The packet itself introduced no root, particle, or construction. The later Philosophical Reasoning vocabulary pass added ordinary module words through a separate lexical decision. The packet may now be used as optional core-only practice, compared with module-enriched rewrites, or left unused.

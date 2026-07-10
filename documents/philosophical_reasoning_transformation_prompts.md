@@ -1,20 +1,20 @@
 # Philosophical Reasoning Transformation Prompts
 
-**Status:** Authored Phi-only packet, current to 2026-07-10. Delayed evaluation and unrehearsed repair have not been run. First eligible delayed use: 2026-07-18.
+**Status:** Authored Phi-only optional practice packet, current to 2026-07-10. No human interpretation or unrehearsed repair result has been recorded.
 
 ## Purpose
 
 This packet begins the [Philosophical Reasoning profile](modules/philosophical_reasoning.md) next-use test with three different operations: evidential revision, competing values, and definition under pressure. Each source dialogue has one transformation that changes a premise while preserving its principal conclusion and one that preserves its premises while changing its principal conclusion.
 
-The prompts contain no glosses or free translations. The separate [transformation key](philosophical_reasoning_transformation_key.md) records the controlled changes, proposition inventory, expected sources, modality, negation, participants, discourse relations, and scoring form. Do not open the key during a delayed or blind run.
+The prompts contain no glosses or free translations. The separate [transformation key](philosophical_reasoning_transformation_key.md) records the controlled changes, proposition inventory, expected sources, modality, negation, participants, discourse relations, and scoring form. A learner who wants to compare an independent interpretation should keep the key closed until that interpretation is complete.
 
 ## Use Protocol
 
-1. Do not use this packet for delayed evaluation before 2026-07-18, and do not reread the source dialogues or key during the delay.
-2. Read one transformed dialogue in Phi only and write a plain-language paraphrase without consulting another document.
-3. Identify every premise, principal conclusion, evidence source, modal, negation, participant, and discourse relation.
-4. Record which statement changed relative to the remembered source only after completing the independent paraphrase.
-5. For conversation repair, read both roles without rehearsal and introduce one artificial hearing or meaning problem at a point not selected in advance. Use only the documented repair conventions until one fails.
+1. Use any unread prompt immediately or later, keeping the source dialogue and proposition key closed if you want an independent comparison.
+2. Read the transformed dialogue and write a plain-language paraphrase. The grammar, lexicon, and Philosophical Reasoning module may be consulted; record which references were used.
+3. Identify every premise, principal conclusion, evidence source, modal, negation, participant, and discourse relation that you can recover.
+4. Compare the interpretation with the key only after completing it, and distinguish vocabulary-learning friction from possible ambiguity or missing expression.
+5. For conversation repair, read both roles and introduce a hearing or meaning problem where useful. The exercise is optional practice, not a prerequisite for vocabulary development.
 6. Compare the result with the key and record lost propositions, added propositions, scope changes, English rescues, and repair failures separately.
 
 The repair lines already authored into these transformations demonstrate structural availability only. They are not evidence that a convention works in unrehearsed conversation.
@@ -177,15 +177,15 @@ A: shorela ha relo wei theula miona shea po ma shelo.
 B: mia nawo.
 ```
 
-## Delayed Result Record
+## Optional Use Record
 
-| Prompt | Earliest date | Test date | Propositions lost | Propositions added | Source, modality, or negation changes | Participant or discourse changes | English rescues | Repair result | Follow-up |
-|---|---|---|---|---|---|---|---|---|---|
-| 1A | 2026-07-18 | pending | pending | pending | pending | pending | pending | pending | Do not score before the delay. |
-| 1B | 2026-07-18 | pending | pending | pending | pending | pending | pending | pending | Do not score before the delay. |
-| 2A | 2026-07-18 | pending | pending | pending | pending | pending | pending | pending | Do not score before the delay. |
-| 2B | 2026-07-18 | pending | pending | pending | pending | pending | pending | pending | Do not score before the delay. |
-| 3A | 2026-07-18 | pending | pending | pending | pending | pending | pending | pending | Do not score before the delay. |
-| 3B | 2026-07-18 | pending | pending | pending | pending | pending | pending | pending | Do not score before the delay. |
+| Prompt | Use date | Conditions and references | Propositions lost | Propositions added | Source, modality, or negation changes | Participant or discourse changes | Repair result | Follow-up |
+|---|---|---|---|---|---|---|---|---|
+| 1A | pending | pending | pending | pending | pending | pending | pending | Optional. |
+| 1B | pending | pending | pending | pending | pending | pending | pending | Optional. |
+| 2A | pending | pending | pending | pending | pending | pending | pending | Optional. |
+| 2B | pending | pending | pending | pending | pending | pending | pending | Optional. |
+| 3A | pending | pending | pending | pending | pending | pending | pending | Optional. |
+| 3B | pending | pending | pending | pending | pending | pending | pending | Optional. |
 
-No result follows from authoring these prompts. Until a delayed Phi-only paraphrase and an unrehearsed repair run are recorded, they establish only that the controlled forms can be written and structurally validated.
+No human comprehension result follows from authoring these prompts. They establish that the controlled forms can be written and structurally validated, and they remain available as optional reading, writing, and repair practice.

@@ -95,9 +95,9 @@ After any external form, describe the practical relations in core Phi where usef
 
 An exact phrase such as `patha qualified person patho`, `patha inspection patho`, `patha personal protective equipment patho`, `patha collective bargaining agreement patho`, or `patha 24 mm +/- 0.1 mm patho` preserves a comparison target or operative source phrase. It does not establish qualification, complete an inspection, supply suitable protection, make an agreement voluntary or fair, prove a tolerance was met, or authorize work.
 
-## Gap Inventory, Not a Word Queue
+## Vocabulary Pass Inventory
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
+| Vocabulary family | Concepts to review | Useful examples or considerations |
 |---|---|---|
 | Work units and status | task, job, project, step, dependency, progress, pending, blocked, complete, deadline | Non-workshop action sequences with several dependencies, changed order, omitted work, and blind recovery of status. |
 | Role and authority | request, offer, assignment, delegation, supervisor, coordinator, decision authority, accountable role, handoff | Cases that independently vary proposal, acceptance, claimed authority, representation, responsibility, and final decision. |
@@ -111,12 +111,12 @@ An exact phrase such as `patha qualified person patho`, `patha inspection patho`
 | Materials and logistics | raw material, stock, inventory, supply, component, offcut, waste, reuse, recycling, disposal, provenance | Connected material histories from acquisition through work, use, repair, transformation, retention, and final handling across craft and ecological settings. |
 | Modern work and technology | powered tool, machine state, digital artifact, automation, software, protective system, calibration equipment | Bounded real or fictional tasks that preserve exact technical identities and test which relations need core explanation rather than new object roots. |
 
-No new root follows from this profile. Any future form needed for ordinary refusal, consent, safety, bodily self-report, access, testimony, criticism of coercion, or participation is a shared-core question, not vocabulary owned by a work module. Specialized craft, occupational, technical, economic, or legal terminology must still pass the ordinary admission protocol and remain explainable to speakers outside the profile.
+This inventory is ready for a Work, Craft, and Repair vocabulary pass. Core versus module placement is an organizational judgment; new words may be coined freely, while definitions must preserve refusal, consent, safety, bodily self-report, access, testimony, criticism of coercion, and participation.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-Write an original non-workshop work-sharing scenario without adding vocabulary. Include at least three dependent actions toward one concrete outcome; one requested action and one claimed assignment or authority; one refusal or revised commitment; one person with method knowledge but limited current capacity; one person able to act but not yet authorized or accepted for that action; one exact specification, safety instruction, credential, wage, contract term, or ownership category; one recorded transfer of work or information; and an apparent completion that remains disputed because inspection, acceptance, or final responsibility is unresolved. End with practical action without forcing harmony, gratitude, or agreement.
+An original non-workshop work-sharing scenario can provide examples for the first work module terms. It may include dependent actions, a request and claimed assignment or authority, refusal or revised commitment, method knowledge, limited capacity, authorization, an exact specification or economic term, transfer of work or information, and disputed completion or responsibility.
 
-Read the Phi without its translation after a delay and recover every participant, action, dependency, request, authority claim, method, capacity statement, permission, refusal, commitment, exact source, transfer, completion claim, acceptance, uncertainty, and follow-up responsibility. Then transform authority, competence, capacity, action order, inspection criterion, and economic relation one at a time while holding the other facts constant.
+Use the profile and scenario to inventory participants, actions, dependencies, requests, authority claims, methods, capacity statements, permissions, refusals, commitments, exact sources, transfers, completion claims, acceptance, uncertainty, and follow-up responsibility.
 
-Record every English rescue and classify it as retrieval, composition, missing convention, external carriage, shared-core gap, or profile-oriented candidate. Do not propose work vocabulary until the same distinction fails in the original case and at least one transformed or independently written case, core and external alternatives have both been tested, and the repair improves blind recovery without weakening consent, safety, access, testimony, source fidelity, criticism of coercion, or another person's authority over their own work.
+Retain transparent compositions where they reveal the work relation and coin module words wherever stable terms improve discussion. No delayed or repeated-failure prerequisite applies.

@@ -18,15 +18,15 @@ A beautifully bound physical tome that embodies Phi aesthetics: the definitive g
 | IV | Grammar | 9-16 | ✅ Drafted (`part4_grammar/`) |
 | V | Complex Structures | 17-20 | ✅ Drafted (`part5_complex/`) |
 | VI | Mastery | 21-24 | ✅ Drafted (`part6_mastery/`) |
-| VII | Reference | — | ✅ Built (`part7_reference/`; lexicon auto-generated) |
+| VII | Reference | — | ✅ Built (`part7_reference/`; lexicon auto-generated; domain modules established) |
 | — | Appendices A–C | — | ✅ Drafted (`appendices/`) |
 
-The original `/book/` manuscript this manual replaced is preserved at
-`/archive/book/`.
+The original `/book/` manuscript this manual replaced is preserved at `/archive/book/`.
 
 ## Canonical Sources
 
 All vocabulary and grammar must match (see `/canon.md`):
+
 - `/vocabulary/`: the authoritative lexicon
 - `/documents/grammar/`: the authoritative grammar rules
 

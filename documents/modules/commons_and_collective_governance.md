@@ -90,9 +90,9 @@ After either frame, describe the practical relations in core Phi where useful: w
 
 An exact phrase such as `patha majority vote patho`, `patha public trust patho`, or the wording of a law preserves an external rule or concept. It does not establish who may vote, whether the procedure was followed, whether the rule is legitimate, or whether the law is true, just, accessible, or binding in the situation under discussion.
 
-## Gap Inventory, Not a Word Queue
+## Vocabulary Pass Inventory
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
+| Vocabulary family | Concepts to review | Useful examples or considerations |
 |---|---|---|
 | Membership and standing | member, resident, affected party, constituency, inclusion, exclusion, eligibility to participate, representation | Cases in which participants, affected people, resource users, and authorized decision makers are not the same set. |
 | Institution and authority | institution, government, office, mandate, jurisdiction, authorization, delegation, legitimacy, term, succession | A standing institution outside a council whose role, scope, continuity, and claimed authority can be varied independently. |
@@ -103,12 +103,12 @@ An exact phrase such as `patha majority vote patho`, `patha public trust patho`,
 | Review and institutional change | provisional decision, reservation, review, appeal, amendment, repeal, recall, handoff, institutional failure | A decision that remains actionable while challenged, then changes through a stated review process without erasing the original objection. |
 | Power, conflict, and institutional harm | coercion, domination, corruption, abuse of office, retaliation, capture, organized exclusion, resistance | Critical scenarios in which a valued community or council causes harm and cooperative vocabulary cannot be allowed to soften responsibility. |
 
-No new root follows from this profile. Any future form needed for ordinary participation, consent, safety, testimony, criticism of authority, or protection from institutional harm is a shared-core question, not vocabulary owned by a governance module. Specialized institutional terminology must still pass the ordinary admission protocol and remain explainable to speakers outside the profile.
+This inventory is ready for a Commons and Collective Governance vocabulary pass. Core versus module placement is an organizational judgment; new words may be coined freely, while their definitions must preserve participation, consent, safety, testimony, criticism of authority, and protection from institutional harm.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-Write an original shared-storehouse scenario outside a council without adding vocabulary. A standing role or institution follows an exact allocation rule; at least one affected person did not receive or could not use the notice; a written record conflicts with testimony; the role holder claims authorization; and the participants must distinguish rule compliance, legitimacy, harm, repair, and review. Include one delegated task, one refusal, one provisional action that protects an urgent need, and an ending in which practical action occurs without complete agreement.
+An original shared-storehouse scenario outside a council can provide examples for the first governance module terms. A standing role or institution may follow an exact allocation rule; at least one affected person may not receive or be able to use the notice; a written record may conflict with testimony; the role holder may claim authorization; and the participants can distinguish rule compliance, legitimacy, harm, repair, and review.
 
-Read the Phi without its translation after a delay and recover every participant, affected person, resource, rule, evidence source, claimed authority, decision step, objection, responsibility relation, remedy, and review condition. Then transform the case by changing authorization, knowledge, scarcity, and repair capacity one at a time while holding the other facts constant.
+Use the profile and scenario to inventory the participants, affected people, resources, rules, evidence sources, authority claims, decision steps, objections, responsibility relations, remedies, and review conditions that need direct discussion.
 
-Record every English rescue and classify it as retrieval, composition, missing convention, external carriage, shared-core gap, or profile-oriented candidate. Do not propose governance vocabulary until the same distinction fails in both the storehouse case and at least one transformed case, core and external alternatives have been tested, and the repair improves blind recovery without weakening participation, consent, safety, testimony, criticism, or source fidelity.
+Retain transparent compositions where they illuminate power and procedure, and coin module words wherever stable terms improve discussion. Every entry must keep its authority and harm distinctions explicit, but no delayed or repeated-failure gate applies.

@@ -76,9 +76,9 @@ After either frame, describe the practical relation in core Phi where useful: wh
 
 An exact label such as `patha accessibility patho` or `patha reasonable accommodation patho` preserves a category but does not identify a route, communication practice, time requirement, authority relation, or implementation. Exact carriage is necessary when wording matters and insufficient when action matters.
 
-## Gap Inventory, Not a Word Queue
+## Vocabulary Pass Inventory
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
+| Vocabulary family | Concepts to review | Useful examples or considerations |
 |---|---|---|
 | Access relation | barrier, accessible or inaccessible, access requirement, independent access, environmental fit | A non-meeting scenario that holds the person and activity constant while changing environmental conditions. |
 | Communication practice | format, captioning, description, tactile material, interpretation, named signed language, communication preference | Respectful scenarios involving communication practices beyond generic speech and writing, with source-specific terms carried exactly where needed. |
@@ -88,12 +88,12 @@ An exact label such as `patha accessibility patho` or `patha reasonable accommod
 | Technical environment | dimension, clearance, compatibility, wayfinding, alert, reliability, applicable standard | Exact source specifications paired with core descriptions showing how the data changes practical access and safety. |
 | Identity, testimony, and harm | disability, impairment, access identity, discrimination, denial of access, coercive disclosure | First-person or source-faithful scenarios reviewed for whether a core paraphrase erases identity, agency, responsibility, or harm. |
 
-The recurring need for barrier, format, access requirement, and independent participation raises their priority, but no new root follows from this profile. Any future form needed for ordinary consent, safety, identity, testimony, or communication would be a shared-core question, not vocabulary owned by this profile.
+Barrier, format, access requirement, independent participation, timing, support, authority, and environmental fit are leading candidates for the accessibility vocabulary pass. Core versus module placement remains an organizational choice, and every definition must preserve consent, safety, identity, testimony, and communication without medicalizing disability.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-Write an original shared-workshop scenario outside a meeting without adding vocabulary. Include two participants who require different environmental, communication, or timing changes; one exact safety instruction or specification; one offer of help that is refused or modified; one change of communication practice; time to prepare or rest; and an outcome in which each person can choose whether and how to participate without disclosing a diagnosis.
+An original shared-workshop scenario outside a meeting can provide examples for the first accessibility module terms. It may include two participants who require different environmental, communication, or timing changes; one exact safety instruction or specification; one offer of help that is refused or modified; one change of communication practice; time to prepare or rest; and an outcome in which each person can choose whether and how to participate without disclosing a diagnosis.
 
-Read the Phi without its translation after a delay and recover every participant, intended activity, barrier, requested change, evidence source, permission, refusal, timing relation, and participation outcome. Record every English rescue and classify it as retrieval, composition, missing convention, external carriage, a shared-core gap, or a profile-oriented candidate.
+Use the scenario and existing profile to identify every participant, intended activity, barrier, requested change, evidence source, permission, refusal, timing relation, and participation outcome that needs a clear expression.
 
-Do not propose accessibility vocabulary until the same distinction fails in the workshop scenario and at least one transformed case, the core and external alternatives have both been tested, and the repair improves participation without weakening identity, consent, safety, or source fidelity.
+Retain compositions that expose the access relation clearly and coin complete module entries wherever dedicated terms improve participation. No delayed reading or repeated-failure prerequisite is required.

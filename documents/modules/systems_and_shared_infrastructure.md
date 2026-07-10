@@ -61,21 +61,21 @@ Use `hasha ... hasho` for a temporary Phi-pronounceable adaptation when source s
 
 An exact or guest term may introduce a concept such as `patha feedback loop patho`, but the surrounding Phi analysis must still state the relevant participants and relations. The frame preserves terminology; it does not prove that the speaker has explained the system.
 
-## Gap Inventory, Not a Word Queue
+## Vocabulary Pass Inventory
 
-| Gap family | Distinctions currently missing or thin | Evidence still required |
+| Vocabulary family | Concepts to review | Useful examples or considerations |
 |---|---|---|
 | System structure | system, component, boundary, interface, subsystem, dependency | Descriptions of the same infrastructure at several scales, with explicit inclusion and exclusion decisions. |
-| Flow and control | input, output, transfer, signal, control, feedback, feedforward | Rewritten feedback passages using `nuri`, `turema`, `selu`, `lorea`, and explicit causation before any proposal. |
+| Flow and control | input, output, transfer, signal, control, feedback, feedforward | Compare `nuri`, `turema`, `selu`, `lorea`, explicit causation, and possible dedicated terms. |
 | Technical state | capacity, load, storage, threshold, calibration, tolerance, efficiency, failure mode | Independent energy, water, shelter, and accessibility scenarios in which these distinctions change a decision. |
 | Operation and upkeep | inspection, maintenance interval, service state, fault, outage, redundancy | Connected narratives covering normal use, degradation, repair, and follow-up responsibility. |
-| Shared governance | ownership, authority, access, allocation, accountability, operator role, public obligation | The paired commons scenarios are organized by [Commons and Collective Governance](commons_and_collective_governance.md); the next evidence must test a standing institution outside a council. |
+| Shared governance | ownership, authority, access, allocation, accountability, operator role, public obligation | Coordinate definitions with [Commons and Collective Governance](commons_and_collective_governance.md), especially for standing institutions outside councils. |
 | Safety and interoperability | standard, compliance, hazard, reliability, exact conversion, source authority | Source-faithful cases where an omitted specification or mistaken inference could cause harm. |
 
-No new root follows from this profile. The existing feedback evidence is strong enough to demand a re-test, not strong enough to establish that Phi lacks every needed compositional resource.
+This zero-new-root profile is the before-state for a systems vocabulary pass. System structure, flow, control, technical state, upkeep, governance, safety, and interoperability can now be reviewed directly for transparent compounds and dedicated module words.
 
-## Next Use Test
+## Vocabulary Pass Starting Point
 
-Rewrite the feedback portions of both systems dialogues without consulting their English translations. Deliberately test `nuri`, `turema`, `selu`, `lorea`, `teru`, `norae`, and explicit causal clauses while preserving `patha feedback loop patho` as the external comparison term.
+Review the feedback portions of both systems dialogues while selecting the first systems module terms. Compare `nuri`, `turema`, `selu`, `lorea`, `teru`, `norae`, explicit causal clauses, and `patha feedback loop patho` with possible coinages for system, component, boundary, input, output, control, and feedback.
 
-Record whether a reader can recover recurrence, direction, causal influence, and the return of a later state into an earlier process. Classify each remaining failure as retrieval, composition, missing conventional terminology, exact technical carriage, or shared-core reasoning. After that re-test, use the proposed old common hall scenario to examine systems, household, access, ecology, labor, and collective governance together.
+Retain a composition when it makes recurrence, direction, causal influence, or the return of a later state especially clear; coin where a stable term improves meaningful systems discussion. The old common hall scenario remains available for later cross-module use.

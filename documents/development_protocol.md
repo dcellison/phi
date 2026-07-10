@@ -73,17 +73,17 @@ Each new word must explicitly connect to at least one pillar:
 
 ## Word Creation Protocol
 
-This protocol creates lexical words. It does not apply to a productive
-proper-name form licensed by `ne`; use the separate name-form checklist
-below so a personal designation never acquires an invented dictionary
-meaning merely by being chosen.
+This protocol creates lexical words. It does not apply to a productive proper-name form licensed by `ne`; use the separate name-form checklist below so a personal designation never acquires an invented dictionary meaning merely by being chosen.
+
+The protocol is a quality checklist, not a burden-of-proof process. Phi is a personal constructed language, and a word may be coined because its concept is useful, valued, beautiful, or worth making easy to express. Composition remains an option when its parts illuminate the idea, while module vocabulary lets specialized speakers gain precision without obliging general learners to study every term.
 
 ### Step 1: Conceptual Analysis
-- What core human value/experience does this represent?
-- Can this be composed from existing words?
-- What recurring discourse failure demonstrates the need?
-- Would a core word, registered compound, guest form, exact form, or maintained refusal serve best?
-- Which value does the choice express, and what legitimate use might it burden?
+- What experience, relation, object, quality, or practice does this represent?
+- Can it be expressed by existing words, and would a transparent compound make the idea clearer than a new root?
+- Would coinage make an important or recurring concept easier, more precise, more beautiful, or more natural to discuss?
+- Does the word belong in the general teaching path, one or more optional vocabulary modules, or marked external material?
+- What is the intended semantic scope, and which neighboring concepts must the definition distinguish?
+- Which values does the choice express, and what legitimate use or interpretation might it burden?
 
 ### Step 2: Sound Selection
 - Choose sounds that embody the concept's feeling
@@ -111,7 +111,14 @@ meaning merely by being chosen.
 - Can this word combine with others meaningfully?
 - Does it maintain Phi's aesthetic when spoken?
 - Does it remain distinct in careful and conversational speech?
-- Does it solve the examples that motivated it without creating a broader ambiguity?
+- Does it improve the intended expressions without creating a broader ambiguity?
+
+### Step 6: Canonical Entry and Teaching
+- Fill every required vocabulary field with substantive content and serialize it in canonical schema order
+- Give every content word accurate semantic-domain tags and add validated `modules` membership when it belongs to optional domain vocabulary
+- Include grammatical examples that pass `python3 scripts/validate_examples.py`
+- Regenerate the Part VII alphabetical, domain, module, and part-of-speech references
+- Add or update a speaker-facing module chapter when the word belongs to an established vocabulary module
 
 ## External Register Checklist
 
@@ -225,8 +232,8 @@ All vocabulary entries must include:
 
 ### Reference Documentation
 **Authority order when documents disagree: see `/canon.md`.**
-Validate vocabulary and examples before committing:
-`python3 scripts/validate_examples.py`
+
+Validate vocabulary and examples before committing with `python3 scripts/validate_examples.py`.
 
 For detailed information, consult:
 - **Sound system**: `documents/phonology_rules.md`, `documents/phonetics.md`

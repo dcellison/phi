@@ -4,7 +4,7 @@
 
 ## Purpose and Method
 
-This audit asks whether Phi's current 937-entry inventory can support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It distinguishes direct coverage from broad composition, value-loaded framing, exact external carriage, and a recurring gap that might later justify language development.
+This audit was conducted against Phi's 937-entry pre-module inventory to determine what could support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It now serves as the before-state and concept inventory for a future vocabulary pass.
 
 The audit is not a list of English headwords to translate. A missing term matters only when connected Phi use cannot preserve the needed distinction through ordinary clauses, an existing conversion, a source-faithful external form, or a deliberate refusal to conventionalize it.
 
@@ -45,7 +45,7 @@ The audit is not a list of English headwords to translate. A missing term matter
 
 ## Missing or Thin Relations
 
-| Gap family | Distinctions currently missing or thin | Initial handling before any coinage |
+| Vocabulary family | Distinctions currently missing or thin | Initial zero-root handling |
 |---|---|---|
 | Work units and progress | task, job, project, step, dependency, progress, pending, complete, deadline | Name each concrete action, participant, time, condition, and resulting state; test whether repeated clauses remain recoverable. |
 | Role and authority | assignment, delegation, supervisor, coordinator, decision authority, handoff, accountable role | State who requests or proposes what, who accepts or refuses, the claimed source of authority, and who later acts; compare with Commons and Collective Governance. |
@@ -78,6 +78,6 @@ The scenario confirms that concrete craft, refusal, capacity, teaching, measurem
 
 ## Audit Conclusion
 
-The inventory and scenario together supplied the evidence gate for the zero-new-root [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). Existing vocabulary is dense enough to organize and teach without immediate expansion, while its idealized work semantics and thin organizational relations require explicit boundaries.
+The inventory and scenario together supplied the before-state and boundaries for the zero-new-root [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). Existing vocabulary is dense enough to organize and teach, while its idealized work semantics and thin organizational relations now provide clear opportunities for transparent compounds and module coinage.
 
 No root follows from this audit. The profile indexes current resources, preserves coercive or institutional source language exactly, refuses to treat meaningful craft as the only kind of work, and makes work-sharing, consent, capacity, safety, authority, and completion visible in clauses. Vocabulary should remain closed until the same distinction fails in this scenario and an independent transformed or non-workshop case.

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*937 words.*
+*959 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -102,6 +102,7 @@
 | `kesho` | middle | /ˈke̞.ʃo̞/ | noun |
 | `keshoa` | reptile | /ke̞.ˈʃo̞.ä/ | noun |
 | `kesu` | determined | /ˈke̞.su/ | adjective |
+| `kethira` | infer | /ke̞.ˈθi.rä/ | verb |
 | `kethua` | hard | /ke̞.ˈθu.ä/ | adjective |
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
@@ -110,11 +111,14 @@
 | `kira` | key | /ˈki.rä/ | noun |
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
 | `kire` | shape | /ˈki.re̞/ | verb |
+| `kiremoa` | criterion | /ki.re̞.ˈmo̞.ä/ | noun |
 | `kiro` | precise | /ˈki.ro̞/ | adjective |
 | `kiroa` | sign | /ki.ˈro̞.ä/ | noun |
+| `kirothe` | define | /ki.ˈro̞.θe̞/ | verb |
 | `kiru` | chisel | /ˈki.ru/ | noun |
 | `kirua` | sand | /ki.ˈru.ä/ | noun |
 | `kishu` | thirsty | /ˈki.ʃu/ | adjective |
+| `kithela` | valid | /ki.ˈθe̞.lä/ | adjective |
 | `kiwate` | bite | /ki.ˈwä.t̪e̞/ | verb |
 | `ko` | FOC | /ˈko̞/ | particle |
 | `koashira` | grove | /ko̞.ä.ˈʃi.rä/ | noun |
@@ -167,6 +171,7 @@
 | `lepa` | fall | /ˈle̞.pä/ | verb |
 | `leru` | beach | /ˈle̞.ru/ | noun |
 | `lerua` | exterior | /le̞.ˈru.ä/ | noun |
+| `letharo` | consistent | /le̞.ˈθä.ro̞/ | adjective |
 | `lewonu` | valley | /le̞.ˈwo̞.n̪u/ | noun |
 | `li` | RESTR | /ˈli/ | particle |
 | `lia` | yes | /ˈli.ä/ | interjection |
@@ -238,6 +243,7 @@
 | `maeli` | quiet | /mä.ˈe̞.li/ | adjective |
 | `maewo` | threshold | /mä.ˈe̞.wo̞/ | noun |
 | `malomi` | balance | /mä.ˈlo̞.mi/ | verb |
+| `malonawi` | compromise | /mä.lo̞.ˈn̪ä.wi/ | verb |
 | `manolu` | stay | /mä.ˈn̪o̞.lu/ | verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
 | `masue` | measure | /mä.ˈsu.e̞/ | verb |
@@ -302,6 +308,7 @@
 | `moru` | wall | /ˈmo̞.ru/ | noun |
 | `mosha` | period | /ˈmo̞.ʃä/ | noun |
 | `motha` | foundation | /ˈmo̞.θä/ | noun |
+| `mothare` | premise | /mo̞.ˈθä.re̞/ | noun |
 | `motu` | humble | /ˈmo̞.t̪u/ | adjective |
 | `mu` | zero | /ˈmu/ | numeral |
 | `mua` | LOC | /ˈmu.ä/ | preposition |
@@ -329,6 +336,7 @@
 | `napa` | bread | /ˈn̪ä.pä/ | noun |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
+| `natheri` | entail | /n̪ä.ˈθe̞.ri/ | verb |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | verb |
 | `naweri` | refuse | /n̪ä.ˈwe̞.ri/ | verb |
@@ -378,6 +386,7 @@
 | `norawhi` | dusk | /n̪o̞.ˈrä.ʍi/ | noun |
 | `norea` | soul | /n̪o̞.ˈre̞.ä/ | noun |
 | `norelu` | form | /n̪o̞.ˈre̞.lu/ | verb |
+| `norethi` | confident | /n̪o̞.ˈre̞.θi/ | adjective |
 | `noru` | bowl | /ˈn̪o̞.ru/ | noun |
 | `norui` | boundary | /n̪o̞.ˈru.i/ | noun |
 | `noruwa` | generation | /n̪o̞.ˈru.wä/ | noun |
@@ -485,6 +494,7 @@
 | `phina` | FEW | /ˈɸi.n̪ä/ | quantifier |
 | `phiora` | spirit | /ɸi.ˈo̞.rä/ | noun |
 | `phirae` | different | /ɸi.ˈrä.e̞/ | adjective |
+| `phiraketu` | contradict | /ɸi.rä.ˈke̞.t̪u/ | verb |
 | `phiralea` | blossom | /ɸi.rä.ˈle̞.ä/ | noun |
 | `phiremo` | relate | /ɸi.ˈre̞.mo̞/ | verb |
 | `phirena` | meditate | /ɸi.ˈre̞.n̪ä/ | verb |
@@ -493,7 +503,9 @@
 | `phiro` | elegant | /ˈɸi.ro̞/ | adjective |
 | `phisoe` | creative | /ɸi.ˈso̞.e̞/ | adjective |
 | `phisu` | EXMP | /ˈɸi.su/ | discourse |
+| `phisuwa` | example | /ɸi.ˈsu.wä/ | noun |
 | `phitura` | well (water) | /ɸi.ˈt̪u.rä/ | noun |
+| `phiwhekira` | counterexample | /ɸi.ʍe̞.ˈki.rä/ | noun |
 | `phoa` | do | /ˈɸo̞.ä/ | verb |
 | `phoe` | ANT | /ˈɸo̞.e̞/ | conjunction |
 | `phoemu` | midnight | /ɸo̞.ˈe̞.mu/ | noun |
@@ -546,6 +558,9 @@
 | `relo` | symbol | /ˈre̞.lo̞/ | noun |
 | `relua` | mirror | /re̞.ˈlu.ä/ | noun |
 | `remo` | think | /ˈre̞.mo̞/ | verb |
+| `remolea` | concept | /re̞.mo̞.ˈle̞.ä/ | noun |
+| `remoluma` | conclusion | /re̞.mo̞.ˈlu.mä/ | noun |
+| `remotha` | reason | /re̞.ˈmo̞.θä/ | noun |
 | `rena` | REL | /ˈre̞.n̪ä/ | complementizer |
 | `renoa` | liberate | /re̞.ˈn̪o̞.ä/ | verb |
 | `reo` | meaning | /ˈre̞.o̞/ | verb |
@@ -626,6 +641,7 @@
 | `sheno` | ADD | /ˈʃe̞.n̪o̞/ | discourse |
 | `sheo` | THAN | /ˈʃe̞.o̞/ | preposition |
 | `sheori` | communicate | /ʃe̞.ˈo̞.ri/ | verb |
+| `sherewa` | claim | /ʃe̞.ˈre̞.wä/ | verb |
 | `shero` | night | /ˈʃe̞.ro̞/ | noun |
 | `sheru` | slow | /ˈʃe̞.ru/ | adjective |
 | `shewo` | true | /ˈʃe̞.wo̞/ | adjective |
@@ -685,6 +701,7 @@
 | `soliru` | hope | /so̞.ˈli.ru/ | verb |
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb |
 | `sone` | value | /ˈso̞.n̪e̞/ | verb |
+| `soneholu` | tradeoff | /so̞.n̪e̞.ˈho̞.lu/ | noun |
 | `sonu` | alone | /ˈso̞.n̪u/ | adjective |
 | `sophae` | cotton | /so̞.ˈɸä.e̞/ | noun |
 | `sorae` | sun | /so̞.ˈrä.e̞/ | noun |
@@ -769,6 +786,7 @@
 | `theonu` | attend | /θe̞.ˈo̞.n̪u/ | verb |
 | `thepalu` | garden | /θe̞.ˈpä.lu/ | noun |
 | `therema` | tradition | /θe̞.ˈre̞.mä/ | noun |
+| `theremola` | argument | /θe̞.re̞.ˈmo̞.lä/ | noun |
 | `thereo` | mediator | /θe̞.ˈre̞.o̞/ | noun |
 | `theriko` | frost | /θe̞.ˈri.ko̞/ | noun |
 | `therilu` | rest | /θe̞.ˈri.lu/ | verb |
@@ -776,6 +794,7 @@
 | `theru` | thick | /ˈθe̞.ru/ | adjective |
 | `therua` | eager | /θe̞.ˈru.ä/ | adjective |
 | `thesa` | careful | /ˈθe̞.sä/ | adjective |
+| `thesori` | evidence | /θe̞.ˈso̞.ri/ | noun |
 | `thesua` | mindful | /θe̞.ˈsu.ä/ | adjective |
 | `theula` | UNIV | /θe̞.ˈu.lä/ | quantifier |
 | `thia` | 2SG | /ˈθi.ä/ | pronoun |
@@ -895,11 +914,14 @@
 | `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
+| `whakeru` | object | /ʍä.ˈke̞.ru/ | verb |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
+| `wharemoi` | doubt | /ʍä.re̞.ˈmo̞.i/ | verb |
 | `wheiluro` | mist | /ʍe̞.i.ˈlu.ro̞/ | noun |
 | `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
+| `whekatelu` | refute | /ʍe̞.kä.ˈt̪e̞.lu/ | verb |
 | `whekelua` | magic | /ʍe̞.ke̞.ˈlu.ä/ | noun |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |

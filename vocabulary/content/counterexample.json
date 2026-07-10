@@ -1,0 +1,30 @@
+{
+  "word": "phiwhekira",
+  "gloss": "counterexample",
+  "ipa": "/ɸi.ʍe̞.ˈki.rä/",
+  "syllables": [
+    "phi",
+    "whe",
+    "ki",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Counterexample / Case That Defeats a General Claim",
+  "description": "A particular case that meets the stated scope of a general claim but does not have the property that claim says all such cases have. A genuine counterexample refutes the general claim as stated; an irrelevant exception, a case outside the scope, or a merely surprising example does not. Clarifying scope may repair the claim, but it does not erase what the counterexample showed about the original wording.",
+  "sound_symbolism": "The opening 'phi' links the word to 'phisuwa' (example). Contrasting breath 'whe' turns the case against a generalization, 'ki' draws the decisive boundary, and 'ra' places the disconfirming case clearly before the discussion. Four syllables preserve the concept's layered relation between case and claim.",
+  "grammatical_notes": "A countable noun: 'ha phiwhekira ra sherewa whekatelu.' (This counterexample refutes that claim.) The targeted claim may modify the noun possessively: 'sherewa phiwhekira' (a counterexample to the claim). Distinct from an ordinary 'phisuwa' (example) and from any case that merely differs from what was expected.",
+  "pillars": {
+    "secular-buddhist-philosophy": "A single encountered case can loosen attachment to an overgeneralized view and invite a more conditional understanding.",
+    "peace-linguistics-practices": "Counterexamples let participants challenge universality through a case rather than through force, status, or personal dismissal."
+  },
+  "tags": {
+    "cognition": "a scoped case that disproves a general claim as stated",
+    "dialogue": "a concrete way to challenge overgeneralization",
+    "wisdom": "attention to particulars that resist an overly broad rule"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

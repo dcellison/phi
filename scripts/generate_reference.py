@@ -4,9 +4,10 @@
 """
 Generate the Part VII lexicon reference from the vocabulary JSON.
 
-Writes three markdown files under manual/part7_reference/lexicon/:
+Writes four markdown files under manual/part7_reference/lexicon/:
   - alphabetical.md   every word, A-Z: word, gloss, IPA, part of speech
   - by_domain.md      content words grouped by semantic-domain tag
+  - by_module.md      optional module vocabulary grouped by module
   - by_pos.md         all words grouped by part of speech / function class
 
 The vocabulary JSON remains the single source of truth; these files are
@@ -29,6 +30,17 @@ HEADER = """<!-- GENERATED FILE — do not edit.
      Regenerate with: python3 scripts/generate_reference.py -->
 
 """
+
+MODULE_TITLES = {
+    "household-and-daily-life": "Household and Daily Life",
+    "medical-and-bodily-care": "Medical and Bodily Care",
+    "systems-and-shared-infrastructure": "Systems and Shared Infrastructure",
+    "philosophical-reasoning": "Philosophical Reasoning",
+    "accessibility-and-participation": "Accessibility and Participation",
+    "commons-and-collective-governance": "Commons and Collective Governance",
+    "ecological-systems-and-material-life": "Ecological Systems and Material Life",
+    "work-craft-and-repair": "Work, Craft, and Repair",
+}
 
 
 def load_entries():
@@ -79,6 +91,31 @@ def by_domain(entries):
     return "\n".join(lines) + "\n"
 
 
+def by_module(entries):
+    modules = defaultdict(list)
+    for d, cls, _ in entries:
+        if cls != "content":
+            continue
+        for module in d.get("modules", []):
+            modules[module].append(d)
+    lines = [HEADER, "# The Phi Lexicon — By Optional Module\n"]
+    lines.append("*Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study.*\n")
+    if not modules:
+        lines.append("No module-specific words have been recorded yet.\n")
+    for module in sorted(modules, key=lambda item: MODULE_TITLES.get(item, item)):
+        words = sorted(modules[module], key=lambda d: d["word"])
+        title = MODULE_TITLES.get(module, module.replace("-", " ").title())
+        lines.append(f"\n## {title}\n")
+        lines.append(f"*{len(words)} module words.*\n")
+        lines.append("| Word | Gloss | Part of speech | Concept |")
+        lines.append("|---|---|---|---|")
+        for d in words:
+            pos = ", ".join(d.get("pos", []))
+            concept = d.get("concept", "").split(" / ")[0]
+            lines.append(f"| `{d['word']}` | {d['gloss']} | {pos} | {concept} |")
+    return "\n".join(lines) + "\n"
+
+
 def by_pos(entries):
     groups = defaultdict(list)
     for d, cls, subclass in entries:
@@ -110,8 +147,9 @@ def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "alphabetical.md").write_text(alphabetical(entries), encoding="utf-8")
     (OUT_DIR / "by_domain.md").write_text(by_domain(entries), encoding="utf-8")
+    (OUT_DIR / "by_module.md").write_text(by_module(entries), encoding="utf-8")
     (OUT_DIR / "by_pos.md").write_text(by_pos(entries), encoding="utf-8")
-    print(f"Generated 3 reference files from {len(entries)} entries into {OUT_DIR}")
+    print(f"Generated 4 reference files from {len(entries)} entries into {OUT_DIR}")
 
 
 if __name__ == "__main__":
