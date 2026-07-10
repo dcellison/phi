@@ -40,7 +40,8 @@ Read both roles of one dialogue aloud without rehearsal. At each artificial misu
 |---|---|---|---|---|---|---|
 | 2026-07-10 | 2026.1 candidate | structural regression | new external and philosophy documents | 937 entries; 0 errors; 0 warnings; 15 focused tests passed | no structural failure found | maintainer semantic review |
 | 2026-07-10 | 2026.2 candidate | structural regression | productive name forms | 937 entries; 0 errors; 0 warnings; 12 name-form tests passed | no structural failure found | run repeated-name narrative task |
-| pending | 2026.1 candidate | delayed paraphrase | philosophical corpus | not yet eligible | seven-day delay not elapsed | perform later without viewing translations |
+| 2026-07-10 | post-2026.2 main | argument transformation | Rain and the River; Grain for Hunger and Seed; Definition Under Pressure | six Phi-only prompts and a separate proposition key authored and structurally validated | no delayed paraphrase or unrehearsed repair result; packet not eligible before 2026-07-18 | run and score prompts on or after 2026-07-18 without consulting the key |
+| pending | post-2026.2 main | delayed paraphrase | philosophical transformation prompt packet | first eligible 2026-07-18 | no Phi-only paraphrase has been recorded | run one prompt after the delay without viewing the key or source translation |
 | pending | 2026.1 candidate | boundary recognition | recorded ABX prompts | no recordings yet | maintainer audio unavailable in repository work | record in a separate session |
 
 ## External evidence boundary

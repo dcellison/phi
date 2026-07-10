@@ -25,6 +25,7 @@ This directory contains Phi's current language references, development methods, 
 | [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md) | Evidence-gate review of concrete craft coverage, work relations, semantic pressure, and external handling. |
 | [Philosophical capability matrix](philosophical_capability_matrix.md) | Operation-level classification of demonstrated abilities, compositions, external bridges, and gaps. |
 | [Philosophical test corpus](philosophical_test_corpus.md) | Validated regression dialogues and gap logs for reasoning, systems, care, access, governance, ecology, and work. |
+| [Philosophical transformation prompts](philosophical_reasoning_transformation_prompts.md) and [key](philosophical_reasoning_transformation_key.md) | Separate Phi-only premise and conclusion transformations, proposition inventory, repair probes, and delayed scoring material. |
 | [Solo evaluation tasks](solo_evaluation_tasks.md) | Reproducible choice, paraphrase, transformation, and repair tasks. |
 | [Listening audit](listening_audit.md) | Protocol and evidence gate for perceptual collisions and pronunciation variation. |
 
