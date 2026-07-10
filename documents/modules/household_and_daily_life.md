@@ -28,6 +28,8 @@ The profile begins with [primer chapter 1](../../primer/01_the_household.md), wh
 
 When a local food, material, appliance, building rule, address, quantity, or source label must remain exact, use `patha ... patho`. A familiar external term that needs a speakable temporary adaptation uses `hasha ... hasho`. Neither frame is a substitute for explaining a safety-critical instruction in shared Phi.
 
+Material sourcing, heat and cooling, water use, food cultivation, repair, reuse, and waste overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). Listing wood, cloth, food, water, fire, or repair in a household description does not establish that the arrangement is ecologically sustainable, safe, accessible, or fairly governed.
+
 ## Profile Scenario: The Old Table
 
 This short scenario is a regression text for the profile, not a model of every household. It checks that the profile can move from noticing a worn object to repair, shared food, and rest without adding vocabulary.

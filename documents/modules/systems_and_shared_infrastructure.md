@@ -12,7 +12,7 @@ The profile is not an engineering standard, safety certification, unit system, o
 
 - Phi retains one grammar. Technical explanation uses ordinary clauses, evidentials, conditionals, modality, and external frames; this profile adds no systems syntax or operator.
 - Exact specifications, units, formulas, identifiers, standards, and source instructions remain exact external material even if a future module extension adds useful technical content words.
-- Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with Medical and Bodily Care, [Accessibility and Participation](accessibility_and_participation.md), [Commons and Collective Governance](commons_and_collective_governance.md), Household and Daily Life, and Ecological Systems and Material Life.
+- Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with Medical and Bodily Care, [Accessibility and Participation](accessibility_and_participation.md), [Commons and Collective Governance](commons_and_collective_governance.md), Household and Daily Life, and [Ecological Systems and Material Life](ecological_systems_and_material_life.md).
 - A person's value is never treated as a system metric. Technical measurement and human evaluation remain distinct even when both occur in one decision.
 - `theluo` names stewardship, not command. Listing it here does not create an infrastructure ruler, owner, or professional credential.
 
@@ -50,7 +50,7 @@ These are existing Phi roots and function words. The profile indexes them withou
 - [The river above and below the workshop](../philosophical_test_corpus.md#13-the-river-above-and-below-the-workshop) tests connected flows, exact site measurements, competing source pathways, uncertain causation, source control, and monitoring.
 - [The fallen tree and the living grove](../philosophical_test_corpus.md#14-the-fallen-tree-and-the-living-grove) tests dwelling, feeding, support, material transformation, attempted return, safety, limited intervention, and observation without assuming that a sequence is a closed ecological cycle.
 
-The two original systems dialogues establish recurrence of several failures, but they did not try all relevant existing roots. The ecological pair now tests `lorea`, `selu`, `teru`, `turema`, explicit source clauses, and material-return clauses; `nuri`, `norae`, and more explicit causal composition still require transformation tests. The new passages strengthen the distinction between local connection or sequence and an explained pathway, system boundary, feedback relation, or closed cycle without establishing that one missing systems root would solve every case.
+The two original systems dialogues establish recurrence of several failures, but they did not try all relevant existing roots. The pair now organized by [Ecological Systems and Material Life](ecological_systems_and_material_life.md) tests `lorea`, `selu`, `teru`, `turema`, explicit source clauses, and material-return clauses; `nuri`, `norae`, and more explicit causal composition still require transformation tests. The new passages strengthen the distinction between local connection or sequence and an explained pathway, system boundary, feedback relation, or closed cycle without establishing that one missing systems root would solve every case.
 
 ## External Register Guidance
 
