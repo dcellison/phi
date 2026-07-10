@@ -57,7 +57,7 @@ This is a high-priority gap family because a community cannot discuss a commons 
 
 Phi has medicine, health, healing, sickness, pain, support, protection, agreement, and refusal. It lacks conventional core terms for injury, disease, infection, fever, disability, accessibility, consent, coercion, and abuse. Reproductive health, sexuality, and gender require a deliberate case-by-case decision about core analysis versus marked external material; their absence must never prevent faithful testimony, identity, care, or safety.
 
-The corpus now tests access in two independent meeting scenarios: one concerns a route and converting speech to writing, while the other concerns advance information, processing time, rephrasing, proxy refusal, and written contribution before a decision. Their recurring failures support a zero-new-root Accessibility and Participation profile, not immediate coinage. The remaining care frontier includes an injury requiring care, consent that changes during an activity, and a report of harm that must stay precise without implying endorsement.
+The corpus now tests access in two independent meeting scenarios: one concerns a route and converting speech to writing, while the other concerns advance information, processing time, rephrasing, proxy refusal, and written contribution before a decision. Their recurring failures are organized in the zero-new-root [Accessibility and Participation profile](modules/accessibility_and_participation.md), not promoted to immediate coinage. The remaining care frontier includes an injury requiring care, consent that changes during an activity, and a report of harm that must stay precise without implying endorsement.
 
 ## Priority 2: Smaller, text-triggered candidates
 

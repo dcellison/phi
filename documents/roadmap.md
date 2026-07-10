@@ -55,7 +55,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | Solo evaluation | **NEXT** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain. |
 | Speech and listening evidence | **READY** | Audit tooling and protocols exist; recordings and perception results do not. |
 | Evidence-led semantic growth | **READY** | Gap-selection rules exist; no post-baseline expansion cycle has been completed. |
-| Practice and domain profiles | **PARTIAL** | An experimental contract, three domain profiles, one shared-core practice profile, and a recorded proposed-profile catalogue exist. The format still needs use evidence. |
+| Practice and domain profiles | **PARTIAL** | An experimental contract, three domain profiles, one shared-core practice profile, one cross-domain accessibility profile, and a recorded proposed-profile catalogue exist. The format still needs use evidence. |
 | Original Phi corpus | **PARTIAL** | Ten philosophical dialogues exist; sustained essays and spontaneous transcripts do not. |
 | Learner and community evidence | **EVIDENCE** | Materials exist, but there is no recorded outside learner or recurring speaker evidence. |
 | Public governance and print publication | **DEFERRED** | Reconsider after recurring use and stable evidence-led development. |
@@ -152,9 +152,9 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
 | SEM-01 | **DONE** | Establish the admission gate: compose first, use external material when faithful, coin only after recurring failure. | Development protocol and capability matrix | Every proposal cites the passages it repairs. |
-| SEM-01A | **PARTIAL** | Test practice and domain profiles as shared-core, non-grammatical organization. | Module contract; Household and Daily Life; Medical and Bodily Care; Systems and Shared Infrastructure; Philosophical Reasoning | Run each profile's next-use test before treating the format as a durable extension policy. |
-| SEM-01B | **READY** | Evaluate the recorded proposed-profile catalogue. | `documents/modules/README.md`; Accessibility and Participation gate satisfied by scenario 10 | Create the zero-new-root accessibility profile next; keep solarpunk cross-module and sensitive domains scenario-gated. |
-| SEM-02 | **PARTIAL** | Map weak modern domains: technology, science, government, law, work, disability, reproductive health, sexuality, and institutions. | `documents/language_assessment.md`; `documents/lexicon_expansion_survey.md`; two independent accessibility scenarios | Organize the recurring access findings in a profile, then add an institutional accountability scenario and identify which distinctions are shared-core goals. |
+| SEM-01A | **PARTIAL** | Test practice and domain profiles as shared-core, non-grammatical organization. | Module contract; Household and Daily Life; Medical and Bodily Care; Systems and Shared Infrastructure; Philosophical Reasoning; Accessibility and Participation | Run each profile's next-use test before treating the format as a durable extension policy. |
+| SEM-01B | **READY** | Evaluate the recorded proposed-profile catalogue. | `documents/modules/README.md`; Accessibility and Participation moved to active after satisfying its gate | Write allocation and accountability scenarios before creating Commons and Collective Governance; keep solarpunk cross-module and sensitive domains scenario-gated. |
+| SEM-02 | **PARTIAL** | Map weak modern domains: technology, science, government, law, work, disability, reproductive health, sexuality, and institutions. | `documents/language_assessment.md`; `documents/lexicon_expansion_survey.md`; two accessibility scenarios; `documents/modules/accessibility_and_participation.md` | Test the access profile in a non-meeting workshop scenario, then add an institutional accountability scenario and identify which distinctions are shared-core goals. |
 | SEM-03 | **PARTIAL** | Solarpunk philosophical scenario corpus. | Original regression corpus now covers ecology, energy, care, consent, and accessibility | Continue with commons, mutual aid, collective decisions, accountability, and conflicting visions of a good future. |
 | SEM-04 | **READY** | Tradition-specific philosophy protocol. | Exact-first/explain-in-core pattern in the capability matrix | Test several traditions without claiming one Phi paraphrase exhausts the source concept. |
 | SEM-05 | **READY** | Evidence packet for each proposed root or construction. | Development protocol | Require at least several independent failures, attempted compositions, external alternatives, scope, contrasts, example dialogue, phonetic checks, and migration impact. |
@@ -192,7 +192,7 @@ This is a default evidence threshold, not an automatic formula. An exception req
 | PED-04 | **EVIDENCE** | First complete outside learner walkthrough. | No result yet | Record chapter time, errors, questions, abandoned points, and prior language background. |
 | PED-05 | **EVIDENCE** | Curriculum pacing and retention evidence. | No result yet | Re-test selected material after a delay; revise ordering before adding explanations. |
 | PED-06 | **READY** | Maintainer-as-learner regression pass after a blind interval. | Existing curriculum | Complete the primer exercises without consulting answers and log friction without generalizing to all learners. |
-| PED-07 | **EVIDENCE** | Accessibility review for visual, auditory, cognitive, and motor needs. | No dedicated review yet | Invite affected users to identify barriers; prioritize practical access over aesthetic doctrine. |
+| PED-07 | **EVIDENCE** | Accessibility review for visual, auditory, cognitive, and motor needs. | Organizational profile and two scripted scenarios exist; no affected-user review yet | Invite affected users to identify barriers; prioritize practical access over aesthetic doctrine. |
 
 ## Phase 8: Community practice and cultural accountability
 

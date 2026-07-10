@@ -85,7 +85,7 @@ Likewise, the five pillars are a strong artistic identity, not cultural neutrali
 | Add marked mechanisms for names, guest material, and exact outside material | **Done** | Preserve the distinction among productive names, guest adaptation, and exact carriage. |
 | Add phoneme-aware collision analysis | **Partial** | The audit and baseline exist; prioritize only collisions confirmed by listening evidence. |
 | Define acceptable accented and conversational pronunciation | **Ready for evidence** | Record careful and conversational speech, then test listeners across language backgrounds. |
-| Test real scenarios and sustained philosophical discussion | **Partial** | Ten regression dialogues and four profiles exist; transformation, repair, independent-reader, and longer-form tests remain. |
+| Test real scenarios and sustained philosophical discussion | **Partial** | Ten regression dialogues and five profiles exist; transformation, repair, independent-reader, and longer-form tests remain. |
 | Run a learner study before stronger ease or cognitive-effect claims | **Evidence required** | Begin only when a small outside cohort and an ethical observation plan exist. |
 
 ## Final judgment
