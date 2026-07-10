@@ -14,6 +14,7 @@ import re
 from pathlib import Path
 
 import external_register
+import name_forms
 
 _DATA = json.loads((Path(__file__).resolve().parent.parent /
                     "writing_systems" / "tengwar_glyphs.json").read_text())
@@ -191,5 +192,10 @@ def phi_line(line, words):
     visible = [t.strip("[].,") for t in parsed.punctuation_text.split()]
     if len(toks) < 2 or any(t != t.lower() for t in visible):
         return False
-    known = sum(1 for t in toks if t in words)
+    name_indices = name_forms.marked_atom_indices(toks)
+    known = sum(
+        1 for index, token in enumerate(toks)
+        if token in words
+        or (index in name_indices and not name_forms.form_errors(token))
+    )
     return known >= max(2, (len(toks) * 4) // 5)

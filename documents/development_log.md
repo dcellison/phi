@@ -22,6 +22,7 @@ This is the lightweight decision record for Phi while it has one maintainer. It 
 | D006 | Accepted | Core refusals do not prohibit marked report. | Exact external material may carry a refused concept for testimony, history, critique, identity, consent, safety, quotation, or precision. Core admission remains a separate case-by-case decision. |
 | D007 | Accepted | Describe design intentions as intentions. | Phi invites deliberate and cooperative practice but does not claim to make speakers peaceful, prove a cognitive effect, or be universally easy to learn. |
 | D008 | Accepted | Treat modifier-first as the organizing principle. | The phrase remains the best mnemonic, but teaching must also name the particle system, frame rules, classifiers, conversions, and numeral system that learners actually encounter. |
+| D009 | Accepted | Let `ne` license productive Phi-form names. | A chosen two- or three-syllable Phi-shaped onym may follow `ne` without becoming a lexicon entry. This gives names an open class while retaining guest frames for longer or multi-token adaptations and exact frames for source-faithful forms. |
 
 ## Release milestones
 
@@ -29,9 +30,9 @@ This is the lightweight decision record for Phi while it has one maintainer. It 
 
 This release contains the two external frames, validator and rendering support, revised scope claims, advanced teaching material, a philosophical capability baseline, an original test corpus, and solo speech-audit tools. It contains no broad lexical renaming campaign.
 
-### Phi 2026.2: evidence-led philosophical expansion
+### Phi 2026.2: productive names and evidence-led expansion
 
-This release will consider vocabulary or discourse additions only where the capability matrix and original corpus demonstrate recurring failures. Any breaking rename requires recorded listening evidence and a migration table.
+This release makes proper names productive under `ne` without adding a new particle or treating names as vocabulary. It will otherwise consider vocabulary or discourse additions only where the capability matrix and original corpus demonstrate recurring failures. Any breaking lexical rename requires recorded listening evidence and a migration table.
 
 ## Requires external evidence
 

@@ -1,4 +1,4 @@
-# Part 1: Four choices
+# Part 1: The available choices
 
 Before reaching outside the lexicon, ask what the conversation actually needs.
 
@@ -16,14 +16,24 @@ REL take person PST come.
 
 Use an established compound when the community has already stabilized a transparent Phi expression. Compounds remain made of core words and require no external boundary.
 
-## Adapted guest
+## Productive Phi-form name
 
-Use `hasha … hasho` when a name or term should be pronounceable and renderable in Phi, but should not be mistaken for shared core vocabulary.
+When a bearer accepts one lowercase, two- or three-syllable Phi-shaped token as their name, `ne` licenses it directly. It is not a dictionary word and gains no lexical meaning.
 
 ```
-ne hasha samira hasho so shua.
-NAME EXT.GUEST [samira] EXT.GUEST.CLOSE FUT come.
-(Samira will come.)
+ne samira so shua.
+NAME samira FUT come.
+(samira will come.)
+```
+
+## Adapted guest
+
+Use `hasha … hasho` when a longer or multi-token name or a term should be pronounceable and renderable in Phi, but should not be mistaken for shared core vocabulary.
+
+```
+ne hasha samira kaleno hasho so shua.
+NAME EXT.GUEST [samira kaleno] EXT.GUEST.CLOSE FUT come.
+(Samira Kaleno will come.)
 ```
 
 ## Exact opaque material
@@ -36,4 +46,4 @@ NAME EXT.EXACT [李明] EXT.EXACT.CLOSE FUT come.
 (Li Ming will come.)
 ```
 
-The same referent may have an exact form and an agreed guest form. Each occurrence still chooses and marks one layer. There is no bare external form after an introduction.
+The same referent may have an exact form, an agreed guest form, and an agreed single-token onym. Each occurrence chooses one construction. Guest and exact payloads always keep their boundaries; a productive onym is not an elided guest payload but a separate name atom licensed directly by `ne`.

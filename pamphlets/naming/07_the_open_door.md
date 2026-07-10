@@ -38,7 +38,7 @@ child DAT NAME keruko soup give. child DAT siora milk give.
 (The child gives keruko soup. The child gives siora milk.)
 ```
 
-One table, one giver, two receivers: one announced, one at rest. The syllable between them is the exact width of acquaintance: keruko arrived an hour ago, and siora has been arriving all her life. Neither form is wrong, and `wei ne siora` would also be right, only dressed for a different register; the bare name is a license presence earns, never a duty presence imposes.
+One table, one giver, two receivers: one announced, one at rest. keruko remains newly introduced; siora is already active in the household discourse. Neither form is wrong, and `wei ne siora` would also be right. The primer lets this household turn established reference into a style of welcome, but grammar does not measure the width of acquaintance.
 
 ```
 mea. mia nemo nai.
@@ -62,7 +62,7 @@ NAME thinoe QUOT.COMP IMP DAT earth seed give. IMP DAT earth water give. earth U
 (thinoe said: "Give seeds to the earth. Give water to the earth. The earth receives all.")
 ```
 
-Look at the frame and the quote together. Outside, `ne thinoe`: a person, announced across the threshold of memory, the way the story-register always announces its dead. Inside her own remembered words, `thinoe` stands bare: the seeds she was named for, doing plain vocabulary work in her own mouth. The same syllables cross one sentence twice, once as someone and once as something, and nobody stumbles, because `ne` said everything before it happened. The guest, one day into the language of this house, already knows which thinoe is which.
+Look at the frame and the quote together. Outside, `ne thinoe`: a named person reintroduced as the story begins. Inside her remembered words, `thinoe` stands bare as *seed*, doing plain vocabulary work. The same syllables cross one sentence twice, once as a proper designation and once as a content word, and nobody stumbles because `ne` announced the first reading. The household's repeated memorial announcement is its own practice, not a special grammar imposed on the dead.
 
 ### The door at night
 
@@ -76,8 +76,8 @@ VOC NAME keruko. OPT peace DAT 2SG come.
 (keruko — may peace come to you.)
 ```
 
-He knocked nameless this morning and leaves announced tonight; and an hour ago the household announced thinoe, decades across her last threshold, with the very same word. That is the finding of the day, and of this pamphlet: `ne` was never distance. The door word and the memory word are one word: the care this language takes whenever it hands a person across a threshold. Into a room. Into a sentence. Out into the night. Back from the dead, for the length of a story, safely.
+He knocked nameless this morning and leaves announced tonight; an hour ago the household announced thinoe with the same word. This is the household's chosen threshold style: a reusable ceremony built on an ordinary marker of proper reference. Another community may use the grammar differently without naming anyone less carefully.
 
 ### Drill: your own open door
 
-Script an arrival of your own (real or invented) in eight to twelve sentences: a role-call at the door, the `nomei` formula in both directions, one honorific truly chosen or truly withheld, one bare name earned by presence, one remembered name kept announced, and a farewell across the threshold. Read it aloud the next day and audit it like a journal week (the evidentiality pamphlet, part 7): every `ne` either marked a threshold or honored a distance; every absence was licensed by presence; every honorific told a truth you actually have.
+Script an arrival of your own (real or invented) in eight to twelve sentences: a role-call at the door, the `nomei` formula in both directions, one productive Phi-form name, one honorific truly chosen or withheld, one omission supported by established reference, and one deliberate reintroduction. Read it aloud the next day. Check that every name atom is recoverable, every omission stays unambiguous, and every household ceremony is presented as a choice rather than universal grammar.

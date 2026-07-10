@@ -2,22 +2,25 @@
 
 Naming errors divide the same way: some break grammar, and the validator or any listener catches them; some are grammatical, fluent, and false, and only you will ever catch those. Both kinds below, the second labeled precisely: not wrong, but claiming something else.
 
-### Error 1: `ne` on a role
+### Error 1: confusing a role with a name
 
-**Wrong:**
+If `melu` means *friend* in the call, use the role without `ne`:
+
+```
+kona melu.
+VOC friend.
+(Friend —)
+```
+
+If someone actually bears the content word `melu` as a name, `ne` selects that proper reading:
+
 ```
 kona ne melu.
-VOC NAME friend.
+VOC NAME melu.
+(melu —)
 ```
 
-**Right:**
-```
-kona melu.        kona ne keruko.
-VOC friend.       VOC NAME keruko.
-(Friend —)        (keruko —)
-```
-
-`melu` is what someone is to you; a name is who they are. `ne` claims that a name follows, and claims in Phi are supposed to be true: the primer's cat scene (Part 3) is the standing tribunal for this one. Call by role, or announce a name; there is no third thing.
+The surface difference is grammatical; whether melu is truly the bearer's name is pragmatic. The validator has no registry of bearers and must accept any content word in a name atom. `ne` marks proper designation, not personhood and not promotion in rank.
 
 ### Error 2: the honorific before `ne`
 
@@ -33,7 +36,7 @@ VOC NAME HON.RESPECT sulae.
 (Honored sulae —)
 ```
 
-The chain announces in order: that a name is coming, then how you stand to its bearer, then the bearer. Or drop `ne` altogether once the honorific is there to do the announcing: `kona sa sulae` is licensed; `sa ne sulae` is just a chain with its links crossed.
+The chain announces in order: that a name is coming, then how you stand to its bearer, then the bearer. Established conversational speech may drop `ne` once the honorific carries the name expectation: `kona sa sulae` is licensed there; `sa ne sulae` is just a chain with its links crossed. Portable Phi keeps the full chain.
 
 ### Error 3: translating the name
 
@@ -62,13 +65,13 @@ siora kau silawo so shua.
 siora ALL village FUT come.
 ```
 
-At the family table, flawless. In a message to someone outside the circle, the bare name claims an establishment the reader does not share, and pays for the claim immediately, since their `siora` is not a girl but *joy*, and the sentence dissolves into weather. Formal register re-announces at every mention not from stiffness but because announcement is what makes the sentence portable. When writing leaves the house, `ne` goes with it.
+In an established conversation, this may be clear. In a message to someone outside that discourse, the reader receives *joy* rather than the intended person. Formal and portable Phi re-announces at every mention because announcement makes the sentence self-contained. Productive unlisted forms have the additional problem of looking like unknown words, so machine-validated text always keeps `ne`.
 
 ### Error 6: the rescued capital
 
 **Wrong:** `Ne siora shua.` And *Siora arrives* in the narration beside it.
 
-No capitals in core or guest material, in any mode or position: not sentence-start in romanized Phi, not core names in gloss lines, not core names visiting English narration. Exact payload may retain source case only between `patha` and `patho`. The validator holds that boundary.
+No capitals in core, productive-name, or guest material, in any mode or position: not sentence-start in romanized Phi, not Phi-form names in gloss lines, not Phi-form names visiting English narration. Exact payload may retain source case only between `patha` and `patho`. The validator holds that boundary.
 
 ### Error 7: policing another's register
 
@@ -76,4 +79,4 @@ The last error has no example sentence, because it is not said in Phi: it is sai
 
 ### The audit habit
 
-Errors 4 through 7 share the signature of every deep error in Phi: the grammar held; the honesty slipped. The open-door audit (Part 7) is the maintenance schedule: every announcement a threshold or a distance, every absence a presence, every honorific a truth.
+Errors 4 through 7 share the signature of every deep error in Phi: the grammar may hold while reference or relationship slips. The open-door audit (Part 7) asks narrower questions: is the intended bearer recoverable, is an omission actually supported by shared discourse, and does an honorific report the speaker's relationship rather than enforce rank?

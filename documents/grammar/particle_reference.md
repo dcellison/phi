@@ -418,15 +418,20 @@ DIST friend.
 ### Proper Name Marker
 
 #### `ne` - Proper Name (NAME)
-**Function**: Announces that the following word is a proper name, not vocabulary
-**Position**: Before the name (and before any honorific)
+**Function**: Announces that the following atom is a proper designation, not ordinary vocabulary
+**Position**: Before the name atom (and before any honorific)
 **Example**:
 ```
 ne keruko shua.
 NAME keruko come.
 (keruko comes.)
 ```
-**Note**: The default when no honorific is present — formal and neutral speech keep it at every mention, and the family register may let an established name rest bare (canon: *Names are made of Phi*). Optional when an honorific already signals that a name follows. Also used with place names and other proper nouns.
+```
+ne samira shua.
+NAME samira come.
+(samira comes.)
+```
+**Note**: The atom may be a listed content word, a productive unlisted Phi-form onym, or a complete guest/exact frame. A productive onym is one lowercase token with two or three legal Phi syllables and no duplicated syllable; it is a name only under `ne` and gains no lexicon meaning. Function words and grammatical boundaries are reserved. Formal and neutral speech keep `ne` at every mention. Conversational speech may omit it only after the referent is established and while reference remains unambiguous. An honorific may signal the same name expectation in the established conversational register. The marker applies to all proper designations, not only people.
 
 ### Honorifics
 

@@ -115,12 +115,15 @@ Quantity-restriction is not *li*'s job: "only three eggs" is a count plus a feel
 
 ## Proper names
 
-The particle `ne` marks the following word as a proper name so it is not interpreted as vocabulary. Formal and neutral speech keep it at every mention when no honorific is present; the family register may let an established name rest bare (see ch21 §3 and the canon ruling *Names are made of Phi*):
+The particle `ne` marks the following atom as a proper name so it is not interpreted as vocabulary. The atom may be a listed content word, a productive Phi-form name, or a complete external frame:
 
 **ne keruko** — keruko (a person's name)
+**ne samira** — samira (a productive name-form, not a lexicon word)
 **mia ne sulae nila.** — I see sulae.
 
-When an honorific is present, `ne` is optional since the honorific already signals that a name follows. When used, `ne` precedes the honorific.
+A productive name-form is one lowercase token of two or three legal Phi syllables. It follows the core sound rules, including the ban on duplicated syllables, but it needs no dictionary entry and receives no lexical meaning. Function words and frame boundaries are reserved. Longer or multi-token adaptations use `hasha … hasho`; source-exact names use `patha … patho`.
+
+Formal and neutral speech keep `ne` at every mention. Once a referent is established, conversational speech may omit it while reference remains unambiguous; keeping it is always correct. When an honorific is present, established conversational speech may let the honorific carry the name expectation. When `ne` is used, it precedes the honorific.
 
 ## Honorifics
 

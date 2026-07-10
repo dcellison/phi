@@ -1,6 +1,10 @@
-# Part 1: A core name is a word
+# Part 1: Three kinds of name atom
 
-The doctrine lives in manual ch9 §5 and ch21, and canon settles the core system in one sentence: a core Phi name is a lexicon word borne as a name, announced by `ne`. Phi has no separate stock of core name-syllables. Someone is walking around being warmth. Someone is being seed. Here is the recurring cast of the manual and the primer, and the words they carry:
+The doctrine lives in manual ch9 §5 and ch21: `ne` announces that one proper-name atom follows. It does not assert that the bearer is human, and it does not turn the form into vocabulary. The atom has three possible shapes.
+
+## A content word borne as a name
+
+Phi's established cast bears ordinary words. Someone is walking around being warmth; someone is seed:
 
 | Name | The word it is | Who carries it |
 |---|---|---|
@@ -28,25 +32,41 @@ Nothing about the syllables changed. What changed is the sentence's population: 
 
 ### What follows from this
 
-Because core names are words, everything the language already does for words it does for them. The collision rules protect them, and the validator checks them like vocabulary. Anyone can bear any core word. Every such introduction is also a vocabulary lesson: meet `sulae` and you have met *warm*.
+The word remains in the dictionary with its ordinary meaning. `ne` selects its proper-name reading. Any listed content word may be borne this way; function words and grammatical boundaries are reserved.
 
-Because core and guest names are announced rather than capitalized, neither outranks the sentence it stands in. Core Phi and guest material have no capital letters, and Part 6 takes up what that means for the writer. Exact external names may retain source case inside their frame; `ne` still announces the whole atom aloud.
+## A productive Phi-form name
+
+A person may instead assemble or adapt one name-form without creating a lexicon entry:
+
+```
+mia nomei ne samira nai.
+1SG name NAME samira be.
+(My name is samira.)
+```
+
+`samira` has three legal open syllables, begins with a Phi onset, stays lowercase, and duplicates no syllable. It has no dictionary gloss or part of speech. A bearer may hold personal associations with its sounds, but listeners cannot treat those associations as shared lexical meaning. Outside an established conversational context, bare `samira` is not a Phi word; `ne` is what licenses it as a proper designation.
+
+The charter is deliberately narrow: one token, two or three syllables, ordinary Phi phonotactics, and no duplicated onset-bearing syllable. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
+
+## A bounded external name
 
 ### Existing names need not be replaced
 
-A speaker may carry an existing name exactly or adapt it to Phi pronunciation. Both forms remain marked on every occurrence:
+A speaker may carry an existing name exactly, choose a single Phi-form onym, or use a longer, multi-token, explicitly external adaptation:
 
 ```
 mia nomei ne patha Amina patho nai.
 1SG name NAME EXT.EXACT [Amina] EXT.EXACT.CLOSE be.
 (My name is Amina.)
 
-mia nomei ne hasha hamina hasho nai.
-1SG name NAME EXT.GUEST [hamina] EXT.GUEST.CLOSE be.
-(My name is Amina, adapted to Phi pronunciation.)
+mia nomei ne hamina nai.
+1SG name NAME hamina be.
+(My Phi-form name is hamina.)
 ```
 
-The external frame does not make `Amina` or `hamina` a lexicon word. It lets the person keep the name rather than requiring a Phi replacement.
+Neither `Amina` nor `hamina` becomes a lexicon word. The exact form preserves the source; the single-token form is available only when the bearer accepts it. A longer adapted form still uses `ne hasha … hasho`.
+
+Because Phi-form names are announced rather than capitalized, none outranks the sentence around it. Core and productive names stay lowercase; exact external names may retain source case inside their frame. Part 6 takes up the writing rule.
 
 ### Drill: word or someone
 
@@ -59,4 +79,4 @@ Cover everything below the line. For each sentence, say aloud whether the cast-w
 4. siora shua.
 ```
 
-Answers: 1. vocabulary: *I eat warm soup*; no announcement, and soup is exactly the kind of thing warmth modifies. 2. a person: *siora smiles*; `ne` said so before the name arrived. 3. vocabulary: *the earth receives the seeds*; plural-marked things in the earth are seeds, not children. 4. undecidable alone: *joy comes*, or, in a family room where she is already known, *siora comes*. That undecidability is not a flaw; it is the whole case for `ne`, and Part 5 is about the one register allowed to run the risk.
+Answers: 1. vocabulary: *I eat warm soup*; no announcement, and soup is exactly the kind of thing warmth modifies. 2. a person: *siora smiles*; `ne` said so before the name arrived. 3. vocabulary: *the earth receives the seeds*; plural-marked things in the earth are seeds, not children. 4. undecidable alone: *joy comes*, or, in an established conversation, *siora comes*. That undecidability is the reason portable Phi keeps `ne`; Part 5 explains when conversation may safely rely on shared context instead.

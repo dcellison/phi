@@ -140,9 +140,11 @@ PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 
 ## External register
 
+A proper name does not require an external frame merely because it is absent from the lexicon. `ne` directly licenses one productive lowercase name-form of two or three legal Phi syllables (`ne samira`). The guest frame remains useful for longer, multi-token, or explicitly external adaptations; the exact frame preserves source form.
+
 ### `hasha` / `hasho` - Adapted Guest Frame (EXT.GUEST / EXT.GUEST.CLOSE)
 
-**Function**: Carries an external name or term adapted to Phi pronunciation and romanization without making it a lexicon word
+**Function**: Carries a longer, multi-token, or explicitly external name or term adapted to Phi pronunciation and romanization without making it a lexicon word
 **IPA**: /ˈhä.ʃä/ and /ˈhä.ʃo̞/
 **Position**: The complete frame occupies one nominal position; `ne`, prepositions, and other Phi particles remain outside it
 **Structure**: `[Phi function words] hasha [adapted payload] hasho`

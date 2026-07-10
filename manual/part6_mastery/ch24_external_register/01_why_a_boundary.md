@@ -6,7 +6,7 @@ The external register solves this without pretending that everything it carries 
 
 | Frame | Carries | Governing promise |
 |---|---|---|
-| `hasha … hasho` | a name or term adapted to Phi pronunciation | pronounceable in Phi, but still a guest |
+| `hasha … hasho` | a multi-token, longer, or explicitly guest name or term adapted to Phi pronunciation | pronounceable in Phi, but still a guest |
 | `patha … patho` | exact opaque source material | preserved rather than interpreted as Phi |
 
 Both layers announce the boundary before the payload. Both close it aloud. The language can therefore accommodate outside material while keeping the difference between carrying, analyzing, and adopting visible.
@@ -19,7 +19,8 @@ When Phi meets a new concept, ask in this order:
 
 1. Can ordinary Phi composition express the useful analysis?
 2. Is a stable registered compound enough?
-3. Does an adapted guest form preserve a name or term that speakers need to pronounce?
-4. Does exact fidelity require the opaque frame?
+3. For a name, would one productive two- or three-syllable form after `ne` serve without erasing the bearer's preference?
+4. Does a bounded adapted guest form preserve a longer name or term that speakers need to pronounce?
+5. Does exact fidelity require the opaque frame?
 
 Only repeated failure of those choices justifies proposing a new root. External use never promotes a form automatically.

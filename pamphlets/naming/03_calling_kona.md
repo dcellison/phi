@@ -16,7 +16,7 @@ The pattern is the address system in miniature. `kona ne sulae`: a call, a name 
 
 ### The cat lesson
 
-The primer teaches the name/role boundary with a cat, and no rulebook will ever do it better. The visiting child calls; nothing; the child escalates to full formality, in case that was the problem:
+The primer stages the name/role boundary with a cat. The visiting child first calls by species, then tries the same sound as a name:
 
 ```
 kona misheko. kia.
@@ -30,7 +30,7 @@ cat HAB sleep.
 (Cat — hello. ... misheko — as if it were a name. ... The cat always sleeps.)
 ```
 
-Look at the second gloss line: it refuses to play along. `misheko` is what the creature is, not who it is, and `ne` cannot promote a species to a person: the gloss stays `cat` because the lexicon knows no bearer. The household's verdict, `misheko ro nulae`, settles the scene: the cat declines both registers equally, and the grammar was never the problem. Call by role, `kona misheko`, was correct the first time; the cat is simply a cat about it.
+The scene cannot prove that `misheko` is not the animal's name. Grammar has no registry of bearers, and a content word may become a name when a speaker truthfully uses it that way. `kona misheko` means *cat* as a role-call; `kona ne misheko` means *misheko* as a proper name. In the primer no one has established that name, so the child's second attempt is playful rather than a grammatical promotion to personhood. A cat, boat, garden, or village may all be named with `ne`.
 
 The lesson beneath the joke: `ne` after `kona` is not extra politeness. It is a claim: *what follows is a name*, and claims in Phi are supposed to be true.
 
@@ -48,4 +48,4 @@ Produce the call for each situation, aloud, then check.
 4. The beloved, from across the garden, nothing further to say.
 5. The cat, correctly this time.
 
-Answers: 1 `kona melu.` 2 `kona ne sulae. whelani.` 3 `kona sila.`: community is a relation, so no `ne`. 4 `kona ni moli.`: complete as it stands. 5 `kona misheko.` And no further; expectations are your own responsibility.
+Answers: 1 `kona melu.` 2 `kona ne sulae. whelani.` 3 `kona sila.`: community is a relation, so no `ne`. 4 `kona ni moli.`: complete as established conversational address. 5 `kona misheko.` if calling by species; `kona ne misheko.` only if misheko is actually the animal's name.
