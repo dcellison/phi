@@ -22,8 +22,9 @@ This directory contains Phi's current language references, development methods, 
 | [Development log](development_log.md) | Lightweight record of proposed, experimental, accepted, deferred, and rejected decisions. |
 | [Development protocol](development_protocol.md) | Evidence and validation requirements for language changes. |
 | [Lexicon expansion survey](lexicon_expansion_survey.md) | Current vocabulary coverage review and corpus-led admission priorities. |
+| [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md) | Evidence-gate review of concrete craft coverage, work relations, semantic pressure, and external handling. |
 | [Philosophical capability matrix](philosophical_capability_matrix.md) | Operation-level classification of demonstrated abilities, compositions, external bridges, and gaps. |
-| [Philosophical test corpus](philosophical_test_corpus.md) | Validated regression dialogues and gap logs for reasoning, systems, care, and access. |
+| [Philosophical test corpus](philosophical_test_corpus.md) | Validated regression dialogues and gap logs for reasoning, systems, care, access, governance, ecology, and work. |
 | [Solo evaluation tasks](solo_evaluation_tasks.md) | Reproducible choice, paraphrase, transformation, and repair tasks. |
 | [Listening audit](listening_audit.md) | Protocol and evidence gate for perceptual collisions and pronunciation variation. |
 
