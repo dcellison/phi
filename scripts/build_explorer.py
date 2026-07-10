@@ -393,6 +393,7 @@ TEXTS = [
     ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The emptiness teaching, carried entire by three of the language's own designs: whemoa's quality noun for \u015b\u016bnyat\u0101, the zero litany over the body's inventory, and the Metta Sutta's optative engine wishing everyone to the far shore."),
     ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1 (in progress)", "The opening chapter of a much longer transmutation still underway: William Morris's socialist utopia, whose gift economy already matches a ruling Phi settled on its own. Eleven new words, among them nurako (railway) and welamu (elm), for images worth keeping rather than compressing away."),
     ("news_from_nowhere_ch2", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 2 (in progress)", "The utopia's first morning: the Thames clear enough for salmon, a bridge standing on stone rainbows, and the book's first attempt to pay for a service, made in a language that cannot say it. The waterman takes his Phi name here: ne kulo, the Guide."),
+    ("news_from_nowhere_ch3", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 3 (in progress)", "Breakfast in the Guest House: bread and roses take their words (napa, perola), the narrator takes his name (ne phemi, Guest), and a carved inscription stands exactly where his own past stood. The hosts Morris sorts by sex arrive unsorted, in a language that keeps his attention and refuses the sorting."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()

@@ -78,6 +78,7 @@ them; words inside a compound must all exist in the lexicon.
 | `wea lioru shua` | coming toward life | the not-yet-born | Conscious poetry retained from the Metta Sutta. For the plain event, use `thowia` (born). |
 | `shea menui` | peace-dwelling | the sustained abiding in peace (Pali: brahmavihāra) | A transmutation, not a translation; canonized from the Metta Sutta. |
 | `shero philuewa` | night butterfly | moth | The moth is the butterfly's night sibling, and saying so places the creature exactly; provided by `philuewa`'s own entry, canonized from The Velveteen Rabbit. |
+| `nuko pelori` | black bird | blackbird | The garden's bold singer named by its plain color, the color rule doing species work; the bird that races the household to the first berries. Canonized from News from Nowhere. |
 
 ## The household and the made world
 
@@ -91,6 +92,7 @@ them; words inside a compound must all exist in the lexicon.
 | `phemi womu` | guest-home | guest-house | The house that belongs to the guest while the guest is in it; `phemi`'s own entry already makes the visitor sacred, so the building needs no new word. Canonized from News from Nowhere. |
 | `halemu womu` | remembering-house | museum | The institution named by what it does: a house where a community keeps its remembering. Canonized from News from Nowhere. |
 | `whelina sholei` | grass-gathering | hay-harvest, haymaking | The event noun of `sholei` (gather) over the standing grass; the year's communal work named as the act itself. Canonized from News from Nowhere. |
+| `lona lokue` | meeting-place | hall | A building's great room named by what happens in it: the guest-house receives, feeds, and bids farewell in its `lona lokue`. Canonized from News from Nowhere. |
 
 ---
 
