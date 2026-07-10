@@ -15,6 +15,7 @@ The profile is not a diagnosis system, disability taxonomy, legal-compliance sta
 - Help, support, interpretation, representation, and authority are not interchangeable. An offer to assist does not license touching, carrying, speaking for, deciding for, or disclosing information about another person.
 - Presence, reception of words, understanding, contribution, participation, agreement, endorsement, consent, and readiness to decide remain distinct even where Phi currently expresses several only through clauses and context. [Commons and Collective Governance](commons_and_collective_governance.md) organizes the decision-process side without treating meeting presence as inclusion or authority.
 - One route, format, device, schedule, or form of assistance must not be presented as serving everyone. Access needs may conflict, change, or impose burdens that require an explicit decision rather than a ceremonial promise of inclusion.
+- Heat, weather, water, vegetation, terrain, smoke, and material changes overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). An intervention described as green, natural, protective, or regenerative does not establish that a route, place, schedule, warning, or participation process became accessible.
 - Phi retains one grammar. This profile adds no accessibility particle, consent syntax, parser mode, professional register, or incompatible construction.
 
 ## Shared Core Dependencies
