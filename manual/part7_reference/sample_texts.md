@@ -105,4 +105,4 @@ The rest of the shelf:
 | `nulo sano korua` | the Heart Sutra |
 | `naweri` | the Ring Verse, refused: an essay on a text Phi cannot say, and why |
 | `wuloe wetha tupiwa` | *The Velveteen Rabbit*, entire |
-| `nophi lue mawha lokue` | *News from Nowhere*, chapter 1: the opening of a novel-length project |
+| `nophi lue mawha lokue` | *News from Nowhere*, chapters 1 and 2: the opening of a novel-length project |

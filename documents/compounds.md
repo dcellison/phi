@@ -20,6 +20,9 @@ them; words inside a compound must all exist in the lexicon.
 | `nulae nophi` | sleep-story | a dream | The founding example of Phi's compositional method. |
 | `phelu pula` | holding-wish | envy, jealousy | Names the mechanism — the wish aimed at what another holds — so speaking it is already half the analysis. Envy examined dissolves into "I want that," which is workable; a bare label would only accuse. Ruled 2026-07: no root is coined for this feeling. |
 | `nulo sano` | deep knowing | wisdom | Wisdom is knowledge with depth, and the compound says exactly that; canonized from the Heart Sutra, whose title it carries. A coined label would make wisdom a possession; the compound keeps it a dimension. |
+| `korua mokela` | heart-sickness | madness, mental illness | Names the condition as an illness of the mind, the only framing Phi's compassion owns: something a person carries, never something they are. Canonized from News from Nowhere. |
+| `remo tiwa` | thought-tying | puzzlement, confusion | Confusion pictured exactly: thoughts tied where they should run free. The knot suggests its own remedy, untying, where a bare label would only diagnose. Canonized from News from Nowhere. |
+| `tawi remo` | counting-thought | mathematics | The discipline named by its practice: thought that counts. Sits beside `nulo sano` (wisdom) as a kind of thinking rather than a possession. Canonized from News from Nowhere. |
 
 ## Cosmos and orientation
 
@@ -85,6 +88,9 @@ them; words inside a compound must all exist in the lexicon.
 | `keli korua` | device-heart | mainspring, a mechanism's driving part | What winds a machine to life is its heart, and the compound says so plainly; when it breaks (`pukate`), the device dies (`lumeo`). Canonized from The Velveteen Rabbit. |
 | `mokela thinoe` | sickness-seeds | germs, contagion | Disease's carriers named by what they do: seeds that sow sickness. A room is cleaned of them (`lue mokela thinoe hiso ka kelu`). Canonized from The Velveteen Rabbit. |
 | `moriwhe kerou` | sea-stone | pearl | The sea's own stone, named by where it grows the way `mirae phialu` names tears by where they fall. Canonized from The Velveteen Rabbit. |
+| `phemi womu` | guest-home | guest-house | The house that belongs to the guest while the guest is in it; `phemi`'s own entry already makes the visitor sacred, so the building needs no new word. Canonized from News from Nowhere. |
+| `halemu womu` | remembering-house | museum | The institution named by what it does: a house where a community keeps its remembering. Canonized from News from Nowhere. |
+| `whelina sholei` | grass-gathering | hay-harvest, haymaking | The event noun of `sholei` (gather) over the standing grass; the year's communal work named as the act itself. Canonized from News from Nowhere. |
 
 ---
 

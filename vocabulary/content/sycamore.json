@@ -1,0 +1,25 @@
+{
+  "word": "pilomu",
+  "gloss": "sycamore",
+  "ipa": "/pi.ˈlo̞.mu/",
+  "syllables": [
+    "pi",
+    "lo",
+    "mu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Sycamore / The Dappled-Bark Tree / The Tree That Lives With People",
+  "description": "The sycamore (the tree Britain calls the plane): the tall broad-leaved tree whose bark peels away in patches, leaving its trunk dappled in grays, greens, and creams. 'Pilomu' names the tree that thrives where people live, shading streets, riversides, and gathering places, shrugging off soot and hard ground that would sicken other trees. Where 'welamu' (elm) is the field's tall solitary, the sycamore is the settlement's companion, planted in rows where households want green over their heads.",
+  "sound_symbolism": "The word opens on the 'pi-lo' of 'piloe' (spot), because the dappled bark is the sycamore's signature: the tree wears its name on its trunk. The clean stop 'p' draws each patch's sharp edge, the liquid 'l' carries the tall easy growth, and the closing '-mu' is the tree family's own settling nasal, shared with 'welamu' (elm) and 'koremu' (bark).",
+  "grammatical_notes": "Functions as a noun: 'lo raelu pilomu' (the tall sycamores), 'pilomu shomelu' (the sycamore's shadow). Counted with 'lipha' like all living things. Its parts use the tree family's words: 'pilomu loremi' (the sycamore's branch), 'pilomu koremu' (the sycamore's bark, the dappled coat itself).",
+  "pillars": {
+    "solarpunk-values": "The sycamore is the city's tree, the canopy a settlement grows over its own streets; a future worth wanting is shaded by sycamores.",
+    "art-nouveau-aesthetics": "The peeling bark lays organic patchwork over the trunk, pattern made by growth itself, and the broad leaf's five-pointed sweep is a form the style drew again and again."
+  },
+  "tags": {
+    "nature": "The dappled street-and-river tree",
+    "physical": "Tall broad-leaved shade tree"
+  }
+}

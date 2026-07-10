@@ -817,7 +817,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (209)
+## nature (211)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -943,6 +943,7 @@
 | `phuliro` | stream | Small waterway |
 | `phuro` | renew | Following natural patterns of renewal |
 | `piloe` | spot | The dapple and the speckle |
+| `pilomu` | sycamore | The dappled street-and-river tree |
 | `pisha` | split | How seeds and paths divide |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
@@ -958,6 +959,7 @@
 | `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
 | `shaemu` | organic | Life-derived quality |
 | `shalu` | fish | Aquatic life |
+| `shalumi` | salmon | The returning river fish |
 | `shelira` | forest | Woodland ecosystem |
 | `sheloa` | bloom | Flowering, opening of blossoms |
 | `shero` | night | Rest period |
@@ -1031,7 +1033,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (244)
+## physical (246)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1174,6 +1176,7 @@
 | `phuwai` | lung | Respiratory organs within the chest |
 | `pilewa` | make | transforming materials through action |
 | `piloe` | spot | One small patch of color |
+| `pilomu` | sycamore | Tall broad-leaved shade tree |
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
 | `poru` | productive | Generating output |
@@ -1201,6 +1204,7 @@
 | `sawa` | wash | Restoration to cleanness |
 | `seroli` | mature | Ripened state |
 | `shalu` | fish | Water-dwelling creatures |
+| `shalumi` | salmon | Silver-bodied swimmer of clean waters |
 | `shelu` | book | tangible objects that can be held, carried, and preserved |
 | `shena` | calm | Absence of turbulence |
 | `sholu` | complete | All parts present |

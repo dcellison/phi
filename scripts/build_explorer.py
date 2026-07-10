@@ -359,7 +359,7 @@ def texts_page(body, title):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Phi's literature: eight transmutations, from the Metta Sutta to The Velveteen Rabbit — and the Ring Verse, refused.">
+<meta name="description" content="Phi's literature: transmutations from the Metta Sutta to News from Nowhere — and the Ring Verse, refused.">
 <title>Phi texts &mdash; {title}</title>
 <script src="../theme.js"></script>
 <script src="../reader.js" defer></script>
@@ -391,7 +391,8 @@ TEXTS = [
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran's counsel on love, children, and giving \u2014 the archer become the tree and the wind, the reward become a gift, and not one new word needed across three whole teachings."),
     ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five chapters of the oldest possible houseguest: water, the use of what is not there (mu's homecoming), the guide no one notices, the great that begins small, and the soft that outlasts the hard \u2014 with every transmutation move named, as a working guide for doing this by hand."),
     ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The emptiness teaching, carried entire by three of the language's own designs: whemoa's quality noun for \u015b\u016bnyat\u0101, the zero litany over the body's inventory, and the Metta Sutta's optative engine wishing everyone to the far shore."),
-    ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1 (in progress)", "The opening chapter of a much longer transmutation still underway: William Morris's socialist utopia, whose gift economy already matches a ruling Phi settled on its own. Seven new words, among them nurako (railway) and welamu (elm), for images worth keeping rather than compressing away."),
+    ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1 (in progress)", "The opening chapter of a much longer transmutation still underway: William Morris's socialist utopia, whose gift economy already matches a ruling Phi settled on its own. Eleven new words, among them nurako (railway) and welamu (elm), for images worth keeping rather than compressing away."),
+    ("news_from_nowhere_ch2", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 2 (in progress)", "The utopia's first morning: the Thames clear enough for salmon, a bridge standing on stone rainbows, and the book's first attempt to pay for a service, made in a language that cannot say it. The waterman takes his Phi name here: ne kulo, the Guide."),
 ]
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
