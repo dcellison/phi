@@ -8,7 +8,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 
 **The problem**: English vowels often glide from one position to another. The "o" in "go" starts as one sound and ends as another. The "a" in "day" does the same.
 
-**In Phi**: vowels must stay absolutely pure. No movement, no drift, no glide.
+**In careful Phi**: vowels aim at stable five-vowel targets without becoming English-style diphthongs. Accented placement within those categories is expected; preserving contrasts matters more than matching one mouth exactly.
 
 **How to fix it**:
 - Practice holding vowels on a single pitch, like singing one note
@@ -22,7 +22,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 
 **The problem**: English adds a puff of air after p, t, k at the beginning of stressed syllables. Say "pin" with your hand in front of your mouth; you'll feel the burst. This aspiration doesn't belong in Phi.
 
-**In Phi**: stops should be clean and gentle, without extra air.
+**In careful Phi**: stops are unaspirated. Light accent-driven aspiration is accepted because Phi does not contrast aspirated and unaspirated stops.
 
 **How to fix it**:
 - Practice with the "sp," "st," "sk" sounds from "spin," "stop," "skip"
@@ -35,7 +35,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 
 **The problem**: English places n and t against the ridge behind the teeth (alveolar position). Phi uses dental position, with the tongue touching the teeth themselves.
 
-**In Phi**: dental n and t create softer, more delicate sounds.
+**In careful Phi**: dental n and t define the reference. Alveolar [n t] are accepted conversational variants because no Phi word depends on the dental-alveolar distinction.
 
 **How to fix it**:
 - Touch your tongue tip to the back of your upper front teeth
@@ -48,7 +48,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 
 **The problem**: English spelling uses "ph" for the f-sound (phone, philosophy). Phi's **ph** is completely different: a bilabial fricative using only the lips.
 
-**In Phi**: **ph** /ɸ/ involves no teeth at all. Bring your lips close together and push air through.
+**In careful Phi**: **ph** /ɸ/ involves no teeth. Conversational [f] is accepted; practice /ɸ/ so the reference pronunciation remains available.
 
 **How to fix it**:
 - Practice blowing out a candle gently
@@ -61,7 +61,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 
 **The problem**: English has two "th" sounds: voiceless (think) and voiced (this). Phi uses only the voiceless version.
 
-**In Phi**: **th** is always /θ/, never /ð/.
+**In careful Phi**: **th** is /θ/, never /ð/. A mildly affricated [t̪θ] is accepted, but a complete merger with `t`, `s`, or `ph` would erase lexical contrasts.
 
 **How to fix it**:
 - Put your hand on your throat while saying "th"
@@ -105,4 +105,4 @@ Record yourself reading Phi text, then listen critically:
 3. Are vowel sequences separate or merged?
 4. Is stress consistent and penultimate?
 
-Most errors become obvious when you hear them. Recording is your most powerful diagnostic tool.
+Recording makes repeated production patterns easier to notice. Compare several sessions rather than treating one take or one accent difference as an error, and record genuine confusions in `documents/listening_audit.md`.

@@ -37,7 +37,7 @@ mia mua shero sheluo.
 (I listen in the night.)
 ```
 
-Eight stations, and nothing finer. Phi has no hour, no minute, no second, and no word for the clock that counts them. The refusal is settled canon, and the argument is the same one behind the ternary numbers (the design case is in `documents/psychological_violence_of_measurement.md`): a minute is a unit no body can feel, invented so that time can be priced, compared, and raced against. The eight stations are what a person standing under the sky actually perceives, and they carry everything shared reference requires. Say you will meet at *thaeso* and both of you will be there. What is lost is the gradation that lets 9:47 shame 9:52, and that loss is the point.
+Core Phi keeps eight natural stations and coins nothing finer. This is a preference for shared, embodied reference, not a claim that a minute is inherently harmful or that natural stations meet every coordination need. When an exact time matters for travel, care, accessibility, testimony, or interoperability, carry the complete source time in `patha … patho`: the precision remains exact and its external status remains audible.
 
 ## The calendar
 

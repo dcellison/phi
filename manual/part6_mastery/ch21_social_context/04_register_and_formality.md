@@ -28,7 +28,7 @@ VOC NAME HON.RESPECT sulae. POL Q 2SG DAT PL 1SG POT teach.
 (Honored sulae, could you teach us?)
 ```
 
-**Pace.** The deepest register marker costs nothing to write and everything to practice: slowness. Full hiatus on every vowel pair, a genuine pause at every period. Hurried Phi is casual by definition; Phi given its full duration is ceremonial without a single added word.
+**Pace.** Careful duration can mark ceremony: full hiatus on every vowel pair and an intentional boundary at every period. Faster speech is still Phi when it preserves its phonemic contrasts and syllable count; pace is a social choice, not a grammatical or moral test.
 
 ## What Phi's formality is *not*
 

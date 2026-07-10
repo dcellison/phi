@@ -68,7 +68,7 @@ At the family table, flawless. In a message to someone outside the circle, the b
 
 **Wrong:** `Ne siora shua.` And *Siora arrives* in the narration beside it.
 
-No capitals, in any mode, in any position: not sentence-start in romanized Phi, not names in gloss lines, not names visiting English narration. The validator holds the Phi side of this line; the English side is yours. If the lowercase name still looks underdressed to you in an English sentence, that is the English talking; the name is wearing everything Phi ever issues.
+No capitals in core or guest material, in any mode or position: not sentence-start in romanized Phi, not core names in gloss lines, not core names visiting English narration. Exact payload may retain source case only between `patha` and `patho`. The validator holds that boundary.
 
 ### Error 7: policing another's register
 

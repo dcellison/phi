@@ -6,9 +6,9 @@ This document provides the definitive guide to the pronunciation of the Phi lang
 
 Phi's phonetic system is built on three core principles:
 
-1.  **Articulatory Clarity:** Every sound has a single, precise, and unchanging pronunciation. There are no regional accents or complex allophonic variations.
-2.  **Cross-Linguistic Accessibility:** The ten single consonants and five pure vowels are among the most common speech sounds in the world's languages. The four fricatives (/ɸ/, /θ/, /ʃ/, /ʍ/) are rarer cross-linguistically; they are chosen for their gentle, breath-like character rather than universality, and are learnable with modest practice.
-3.  **Systematic Precision:** The sound system directly supports the grammar. The distinction between single consonants and digraphs, and the clear pronunciation of vowel pairs, are essential for understanding the language's structure.
+1.  **A teachable reference:** Lexicon IPA records one careful pronunciation so examples, recordings, and tools have a shared target.
+2.  **Accent tolerance:** Phi accepts predictable variants when lexical contrasts and syllable count remain recoverable. The four fricatives (/ɸ/, /θ/, /ʃ/, /ʍ/) are cross-linguistically marked and require explicit teaching rather than claims of universal ease.
+3.  **Systematic contrast:** The distinction between single consonants and digraphs, and the separate syllables of vowel hiatus, support word recognition. Actual intelligibility remains a matter for listening evidence.
 
 ## 2. Consonant Pronunciation
 
@@ -52,4 +52,26 @@ As defined in `phonology_rules.md`, all vowel pairs are pronounced in **hiatus**
 *   **`sheala`** is pronounced /ʃe.a.la/ (three syllables: ko-a-la), NOT /ʃea.la/.
 *   **`nei`** is pronounced /ne.i/ (two syllables: ne-i), NOT /neɪ/.
 
-This rule is fundamental to the rhythm and clarity of the language. 
+This rule is fundamental to the reference rhythm. Conversational speech may shorten the vowels and the transition between them, but both syllables remain present and no pair becomes a diphthong or single long vowel.
+
+## 5. Careful and Conversational Pronunciation
+
+### 5.1. Careful reference
+
+Use the lexicon IPA for teaching, deliberate reading, citation, and canonical recordings: full vowel hiatus, penultimate stress, dental /t̪ n̪/, /ɸ θ ʃ ʍ/, and a trill or tap for `r`. This is a reference target, not a test of belonging.
+
+### 5.2. Accepted conversational and accented variants
+
+- `/ɸ/` may be [f].
+- `/ʍ/` may be [w̥] or [hw], but it remains distinct from voiced `w`.
+- `r` may be [r], [ɾ], or [ɹ].
+- Dental /t̪ n̪/ may be alveolar [t n] because Phi has no dental-alveolar contrast.
+- Stops may carry light aspiration when an accent supplies it; aspiration is not contrastive.
+- `/θ/` may be mildly affricated [t̪θ], but it remains distinct from `t`, `s`, and `ph`.
+- Vowels may be shorter and may vary within recognizable five-vowel regions, but adjacent vowels remain separate syllables and no vowel contrast may merge.
+
+These variants describe an initial acceptance policy to test, not a complete catalogue of future accents. A listener's repeated difficulty belongs in `documents/listening_audit.md`; it should not be dismissed as incorrect accent or converted directly into a rename.
+
+### 5.3. Guest and exact material
+
+Adapted guest payload follows the same pronunciation contract, including penultimate stress. Exact payload follows its source pronunciation or an explicitly shared spelling or description convention; only `patha` and `patho` retain Phi pronunciation.

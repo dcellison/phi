@@ -34,4 +34,4 @@ This pamphlet assumes the particle system (manual ch9) and basic noun phrases (c
 
 ---
 
-*The language has no way to rattle off figures, which means it has no way to stop noticing what the figures are of.*
+*Core Phi makes long strings of figures conspicuous and asks what they measure. Exact external notation remains available when the figures themselves must survive.*

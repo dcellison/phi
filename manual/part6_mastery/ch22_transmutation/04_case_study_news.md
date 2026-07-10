@@ -43,6 +43,12 @@ Notice the last sentence drops `ti`. The first three are received knowledge; the
 
 ## What happened to the $2.3 million?
 
-It vanished, and the case study's most important question is whether anything true vanished with it. Consider what that figure was *for*: it converts homes, labor, and misfortune into a single comparable magnitude, comparable to other storms, other budgets, other years. Phi declines the conversion (see `documents/psychological_violence_of_measurement.md`). What the community needs (the homes are not whole; we are repairing them) survived entirely. What vanished was the scoreboard.
+The core summary omitted it, and that omission is a choice rather than a recovery of all information. A budget reporter, aid coordinator, auditor, or resident may need the exact amount. The external register carries it without making money vocabulary core:
 
-This is the pattern with news: transmutation strips the metrics and keeps the events. The result reads less like a wire report and more like what one villager tells another across a fence. Phi would say that is not a loss of information. It is a recovery of scale.
+```
+patha $2.3 million patho ti haolu.
+EXT.EXACT [$2.3 million] EXT.EXACT.CLOSE REP speak.
+(The source reports "$2.3 million.")
+```
+
+News therefore has two legitimate outputs. A transmutation may foreground homes, safety, labor, and repair while explaining what it omits. A faithful report preserves names, counts, money, dates, and source wording in exact frames. Neither should impersonate the other.

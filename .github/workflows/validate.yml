@@ -18,6 +18,14 @@ jobs:
       - name: Validate lexicon and examples
         run: python3 scripts/validate_examples.py
 
+      - name: Test external register parser
+        run: python3 scripts/test_external_register.py
+
+      - name: Check phonetic-neighbor baseline is in sync
+        run: |
+          python3 scripts/audit_phonetic_neighbors.py --output /tmp/phonetic_neighbors_baseline.txt
+          diff -u documents/phonetic_neighbors_baseline.txt /tmp/phonetic_neighbors_baseline.txt
+
       - name: Check generated reference is in sync with vocabulary
         run: |
           python3 scripts/generate_reference.py

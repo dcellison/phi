@@ -17,7 +17,7 @@ A beautifully bound physical tome that embodies Phi aesthetics: the definitive g
 | III | Phonology | 7-8 | ✅ Drafted (`part3_phonology/`) |
 | IV | Grammar | 9-16 | ✅ Drafted (`part4_grammar/`) |
 | V | Complex Structures | 17-20 | ✅ Drafted (`part5_complex/`) |
-| VI | Mastery | 21-23 | ✅ Drafted (`part6_mastery/`) |
+| VI | Mastery | 21-24 | ✅ Drafted (`part6_mastery/`) |
 | VII | Reference | — | ✅ Built (`part7_reference/`; lexicon auto-generated) |
 | — | Appendices A–C | — | ✅ Drafted (`appendices/`) |
 

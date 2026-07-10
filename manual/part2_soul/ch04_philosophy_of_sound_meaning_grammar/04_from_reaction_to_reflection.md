@@ -1,6 +1,6 @@
 # From reaction to reflection
 
-Grammar is the part of a language nobody notices and everybody obeys. Vocabulary gets the attention; grammar quietly decides the order in which thoughts are allowed to arrive. English's subject-verb-object pattern puts the action second (speaker, verb, done), a shape that serves speed and rewards the quick reply. Latin's inflections sketch a world of precise hierarchy. Japanese's context-soaked structures assume the listening room matters as much as the words. None of these is neutral. Each is a small daily curriculum its speakers never signed up for.
+Grammar supplies recurring choices and orders that speakers often use without conscious analysis. It can foreground some distinctions and leave others to context, but no word-order type has a single psychological meaning. Phi therefore presents modifier-first as a chosen practice and design metaphor, not as proof that English rewards reaction or that another language imposes a worldview on its speakers.
 
 Phi's grammar was designed with the curriculum in mind. The question underneath every structural choice: what if building a sentence could itself be a moment of reflection?
 
@@ -9,9 +9,9 @@ Phi's grammar was designed with the curriculum in mind. The question underneath 
 **English**: "I love you."
 **Phi**: `mia thia hi lothea.` (I you, witnessed, love)
 
-The English version is available instantly: subject, verb, out. The Phi version makes the speaker walk: first the two people (`mia thia`), then, if chosen, the ground of the knowing (`hi`, I witness this directly, this is not assumption), and only then the verb. The sentence cannot be blurted; by the time *lothea* arrives, the speaker has held the relationship and their own certainty in mind for a full breath.
+The Phi version places both people first, then, if chosen, the ground of the knowing (`hi`, direct evidence), and finally the verb. This order gives a careful speaker an opportunity to hold the relationship and evidential claim in view before the predicate. A fluent speaker may still speak rapidly or carelessly; syntax offers the sequence but does not dictate the attention brought to it.
 
-The goal isn't slowing down communication. It's speeding up wisdom: moving the moment of consideration from after the words (where regret lives) to before them.
+The pedagogical goal is to move consideration earlier in the utterance. Wisdom is not a grammatical output; it remains the speaker's work.
 
 ## Foundation first
 

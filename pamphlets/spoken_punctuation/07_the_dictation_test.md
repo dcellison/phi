@@ -1,6 +1,6 @@
 # Part 7: The dictation test
 
-One scene, everything at once, and this time the scene is also an experiment. The claim of this pamphlet is that nothing falls off a Phi sentence in transit, because nothing in it is silent. The test: build a message containing a question, a quotation, a name, a wish, and an address, and pass it through several mouths. If the punctuation were typographic, the mouths would strip it. Watch.
+One scene, everything at once, and this time the scene is also an experiment. The narrower claim of this pamphlet is that core Phi punctuation has no silent contrast to lose. The test uses only core words: build a message containing a question, a Phi quotation, a core name, a wish, and an address, then pass it through careful speech. Exact external payload is a separate control condition, not part of the claim.
 
 ### The question arrives
 
@@ -32,12 +32,12 @@ Read it slowly, naming the parts: the request announced (`no`), the recipient an
 
 ### The count
 
-The full round trip (sulae to siora to the household to siora to sulae) passed through three speakers and four tellings. Marks a written English version would have needed: two pairs of quotation marks, two colons, a question mark, half a dozen capitals, and the vocative comma, every one of them silent, every one of them gone the moment the message entered a mouth. Marks the Phi version needed: none it could lose. The message that arrives is the message that left: not the gist, the *words*, brackets and blessing and all.
+The full round trip is designed to test whether the audible core markers survive transcription. English would need quotation marks, colons, a question mark, capitals, and a vocative comma; Phi supplies words for their grammatical work. A successful transcription is evidence about this message and speaker, not proof that every listener or channel will be error-free.
 
-This is what the ruling means in practice. Phi's written form has no secrets from its spoken form: the page holds one dot, and the dot only marks where the voice already stopped. Everything else survives dictation because everything else *is* dictation: the language never stored meaning anywhere the voice can't go.
+This is what the core ruling means in practice: its punctuation is lexical rather than typographic. Exact external payload deliberately falls outside it. In `patha DOI:10.1000/182 patho`, the boundary is recoverable as Phi, but the identifier may need to be shown, spelled, or transmitted separately.
 
 ### Drill: run the test
 
-With a partner: read this part's two framed sentences aloud, at recitation pace, while they transcribe, then compare against the page. The pass condition is exact: letter for letter, period for period. Then trade roles with a message of your own containing at least `wa`, one `shola … sholo`, one `ne`, and one `su`.
+With a partner: read this part's two core framed sentences aloud at recitation pace while they transcribe, then compare against the page. Record every difference instead of treating mismatch as learner failure. Then trade roles with a message containing at least `wa`, one `shola … sholo`, one `ne`, and one `su`.
 
-Alone: transcribe the reply sentence from memory tomorrow morning, then check. And for the control condition, try dictating the English translation to anyone without once saying the words "quote," "comma," or "question mark" aloud. The difference you feel is the pamphlet.
+Alone: record the reply sentence, wait until tomorrow, transcribe it without looking, and record every difference. For the external control, record `patha DOI:10.1000/182 patho` by any oral method you choose; notice that the frame survives while exact recovery depends on an additional spelling convention.

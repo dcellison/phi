@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*933 words.*
+*937 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -17,6 +17,8 @@
 | `haoluma` | language | /hä.o̞.ˈlu.mä/ | noun |
 | `haoni` | voice | /hä.ˈo̞.n̪i/ | noun |
 | `haowu` | air | /hä.ˈo̞.wu/ | noun |
+| `hasha` | EXT.GUEST | /ˈhä.ʃä/ | complementizer |
+| `hasho` | EXT.GUEST.CLOSE | /ˈhä.ʃo̞/ | complementizer |
 | `hasi` | wait | /ˈhä.si/ | verb |
 | `he` | IRR | /ˈhe̞/ | particle |
 | `hea` | hear | /ˈhe̞.ä/ | verb |
@@ -419,6 +421,8 @@
 | `palu` | plate | /ˈpä.lu/ | noun |
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
+| `patha` | EXT.EXACT | /ˈpä.θä/ | complementizer |
+| `patho` | EXT.EXACT.CLOSE | /ˈpä.θo̞/ | complementizer |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pelio` | arm | /pe̞.ˈli.o̞/ | noun |

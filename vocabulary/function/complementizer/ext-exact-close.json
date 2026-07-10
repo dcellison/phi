@@ -1,0 +1,20 @@
+{
+  "word": "patho",
+  "gloss": "EXT.EXACT.CLOSE",
+  "ipa": "/ˈpä.θo̞/",
+  "syllables": [
+    "pa",
+    "tho"
+  ],
+  "pos": [
+    "complementizer"
+  ],
+  "concept": "Close exact opaque external material / Exact register",
+  "description": "Closes the exact register opened by patha and resumes ordinary Phi interpretation. Its presence in every writing mode keeps the boundary visible or audible even when the enclosed payload cannot be represented identically across modes.",
+  "sound_symbolism": "It repeats the exact opener's firm boundary and quiet breath. Final rounded o closes the preserved material without claiming to absorb or transform it.",
+  "grammatical_notes": "Required after every patha frame. A single standalone patho closes the payload; doubled standalone patho patho inside the payload represents a literal occurrence, so a literal pair followed by closure requires another patho. Material inside the exact frame is otherwise opaque, and no external frame is parsed inside it.",
+  "pillars": {
+    "solarpunk-values": "A dependable closing boundary allows precise external systems to interoperate with Phi without governing its core vocabulary.",
+    "peace-linguistics-practices": "The closer makes clear where faithful report ends and the current speaker's own Phi expression resumes."
+  }
+}

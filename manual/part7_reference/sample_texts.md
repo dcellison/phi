@@ -2,6 +2,8 @@
 
 Complete, validated Phi for reading practice, from two-line exchanges to whole texts. Every word here exists in the lexicon; every construction is taught in Parts IV and V.
 
+For original philosophical dialogues that test disagreement, revision, evidence, resource tradeoffs, and marked external terminology, see `documents/philosophical_test_corpus.md`. It is a regression corpus rather than literature: its unresolved questions are part of its purpose.
+
 ## Dialogues
 
 ### Morning greeting

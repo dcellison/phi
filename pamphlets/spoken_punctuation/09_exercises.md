@@ -30,7 +30,7 @@ Each line has been damaged by an English-trained hand. Fix it, and say what the 
 
 ## Part D: The dictation test
 
-With a partner, or with tomorrow-morning-you: compose a message of eight to twelve words containing at least one `wa`, one `shola … sholo` pair, one `ne`, and one `su`. Speak it once, at recitation pace. Have it written down from hearing alone, then compare, letter for letter, period for period. There is no key for Part D: the transcript is the key, and it either matches or it teaches.
+With a partner, or with tomorrow-morning-you: compose a core message of eight to twelve words containing at least one `wa`, one `shola … sholo` pair, one `ne`, and one `su`. Speak it once at recitation pace. Write it from hearing alone, compare it with the source, and record every difference. There is no key for Part D: agreement supports this particular core-punctuation claim, while disagreement identifies something to investigate.
 
 ---
 

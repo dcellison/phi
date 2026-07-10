@@ -2,15 +2,15 @@
 
 ## 1. Core Philosophy: The Manifesto
 
-This language is born from the dream of a more peaceful, just, and sustainable world. It is designed to be a living tool for connection—one that honors the wisdom of pre-industrial societies, the inclusivity of Solarpunk, the mindfulness of Buddhist thought, and the harmony of Indigenous worldviews.
+This language is born from the dream of a more peaceful, just, and sustainable world. It is a culturally situated attempt to build a tool for connection, drawing from solarpunk, secular Buddhist practice, Art Nouveau, peace linguistics, and the project's interpretation of pre-industrial ecological knowledge. These sources are influences, not universal authorities, and they sometimes pull in different directions.
 
 It is built on these core principles:
-1.  **Peaceful Communication:** The language is constructed to foster peace, empathy, and nonviolence.
-2.  **Mindful Presence:** It cultivates attention to the present, clarity of thought, and conscious speech.
+1.  **Cooperative Communication:** The language provides explicit tools for evidential care, repair, empathy, and nonviolent practice.
+2.  **Mindful Presence:** Its reference style invites attention to the present, clarity of thought, and conscious speech.
 3.  **Radical Inclusivity:** The language is fundamentally non-gendered and non-hierarchical.
 4.  **Harmony with Nature:** It reflects and reinforces the connection between humans and the living world.
-5.  **Simplicity & Beauty:** It is designed to be easy to learn, clear in meaning, and beautiful in expression.
-6.  **Nonviolence by Design:** The expression of violence, harm, and war is intentionally difficult and indirect.
+5.  **Regularity & Beauty:** It favors stable forms, recurring constructions, and a deliberate aesthetic while leaving actual learnability to be measured.
+6.  **Nonviolence by Design:** Core vocabulary resists normalizing violence and domination, while marked exact material preserves the ability to report, testify, and critique.
 
 ### 1.1. Philosophical Domains
 
@@ -24,18 +24,18 @@ Phi draws from five core wisdom traditions:
 
 ### 1.2. Values-Based Design
 
-Unlike most constructed languages that translate existing concepts, Phi is built around universal human values that speakers can map to their own cultural understanding. This prevents linguistic imperialism while fostering genuine cross-cultural dialogue.
+Phi is built around explicit values rather than claiming neutrality or universality. Speakers may map those values differently, reject parts of them, or expose needs the current design burdens. Marked external material and case-by-case review keep the project open to faithful disagreement.
 
 ## 2. What Makes Phi Special
 
 ### 2.1. Sound as Meaning
-Every sound in Phi is chosen for its symbolic value. Flowing liquids for connection, gentle fricatives for thoughtful concepts, grounding nasals for stability. The language sounds like what it means.
+Phi's lexicon uses recurring sound-symbolic associations: liquids often suggest connection, fricatives often accompany reflective concepts, and nasals often suggest grounding. These are project-internal mnemonic and aesthetic choices, not universal facts about sound or meaning.
 
 ### 2.2. Structure for Mindfulness
-The Subject-Object-Verb word order encourages speakers to establish context before action, creating naturally deliberate communication. The three-slot particle system makes relationships between ideas crystal clear.
+The Subject-Object-Verb order places arguments before the action, while the three-slot particle system announces many grammatical relationships early. This can support deliberate composition, but verb-final order also asks listeners to retain material until the predicate arrives.
 
 ### 2.3. Accessibility by Design
-Phi uses only sounds found in most world languages, avoiding complex grammar rules in favor of consistent patterns. Anyone can learn to express profound concepts quickly and beautifully.
+Phi uses a small sound inventory and consistent analytic patterns, but several contrasts, dense function words, thirty-five particles, clause frames, and ternary numerals still require study. No claim about universal ease or speed is justified until people with differing first languages have learned it.
 
 ### 2.4. Holistic Concepts
 Phi's vocabulary is designed to reflect an interconnected worldview. Rather than separating concepts like "house" and "belonging," or "mind" and "spirit," Phi often uses a single, holistic word to encompass a broader meaning.
@@ -43,15 +43,15 @@ Phi's vocabulary is designed to reflect an interconnected worldview. Rather than
 - **Example: The word `womu`**
   - In English, a "house" (the structure) and a "home" (the belonging) are two different ideas, and a person can have one without the other.
   - In Phi, `womu` is the dwelling-heart: shelter and belonging in a single word. To say `mia wea womu na turema` ("I must return home") is to name both the place and the bond at once.
-  - This design choice encourages speakers to see the interconnectedness of the physical and the relational, a core principle of the language.
+  - This design choice offers an interconnected analysis of the physical and relational; speakers remain free to accept, question, or refine it.
 
 ### 2.5. Compositional Elegance
 Phi is designed to build complex ideas from simple, core concepts. Rather than creating a unique word for every possible noun, the language encourages the creation of intuitive compounds that are instantly understandable.
 
-- **Example: The concept of a "Dream"**
-  - Instead of having a separate, arbitrary word for a dream, Phi combines two existing words: `nulae` (to sleep) and `nophi` (story).
-  - A dream is therefore expressed as `nulae nophi`, or a **"sleep-story."**
-  - This compositional approach makes the vocabulary easier to learn and encourages a poetic, relational understanding of the world. It reflects the principle of building beautiful, complex systems from simple, elegant parts.
+- **Example: The concept of "east"**
+  - Rather than coining an atomic direction, Phi composes `sorae thorui`: the sun's beginning.
+  - The expression keeps its natural anchor visible instead of asking the learner to memorize another root.
+  - Composition can reduce arbitrary vocabulary and expose Phi's analysis, though whether it is easier to learn remains an empirical question.
 
 ### 2.6. Analytical and Compositional by Design
 Phi is a strictly **analytical** language. This means it avoids both inflectional and derivational morphology. Words do not change their form to indicate tense, number, or case, nor are they altered with prefixes or suffixes to create new words (e.g., turning an adjective like "sad" into a noun like "sadness").
@@ -102,7 +102,7 @@ POL 1SG 2SG understand
 
 ## 5. Living the Language
 
-Phi is more than words - it's a practice of conscious communication. Every time you speak Phi, you're choosing peace over conflict, mindfulness over reactivity, and connection over separation.
+Phi can be practiced as conscious communication. Speaking it does not certify peace or mindfulness; those remain choices expressed through how speakers use its tools.
 
 Use it to:
 - Practice nonviolent communication
@@ -115,7 +115,7 @@ Use it to:
 
 ## 6. The Art of Transmutation: Thinking in Phi
 
-Phi is more than a system of words and rules; it is a different way of seeing and structuring the world. Therefore, expressing an idea from another language is not a simple act of **translation**, but a more profound act of **transmutation**.
+Phi is more than a system of substitutions; it offers its own ways of analyzing and structuring ideas. Rebuilding an idea through those resources is called **transmutation**. Exact external framing remains available whenever rebuilding would falsify or erase something that must be preserved.
 
 The goal is not to find a word-for-word equivalent for a sentence. The goal is to understand the core *idea* behind the sentence and then re-build that idea from the ground up using the concepts, grammar, and philosophy of Phi.
 
@@ -150,4 +150,4 @@ This final form is purely Phi. It is grammatical, elegant, and fully expresses t
 - Full vocabulary: See the JSON lexicon in `/vocabulary/`
 - Authority order: See `/canon.md`
 
-This guide represents the heart and soul of Phi - a language designed to help us speak our way to a better world.
+This guide represents Phi's value-explicit aspiration: a language for practicing careful thought, ecological relationship, and cooperative disagreement without claiming that language alone can deliver a better world.

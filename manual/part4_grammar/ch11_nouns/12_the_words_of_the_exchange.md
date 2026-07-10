@@ -34,7 +34,7 @@ A trade is one of the places exactness is owed: the counted thing is leaving you
 
 ## The refusal, third of three
 
-That absence is settled canon. Phi has no money, no coin, no price, no buying, no selling, no debt, no wage, and none will be coined. This is the measurement family's third refusal, and you know its shape: the clock fell in the words of time, the ruler fell in the words of place, and the price tag falls here, all on the same grounds. A price is a number laid over a thing so that everything can be ranked against everything; the essay behind the ternary numbers opens with exactly that violence. What Phi keeps instead is the exchange itself, counted honestly, and the gift, which needs no number at all.
+That core absence is settled canon. Phi coins no money, price, buying, selling, debt, or wage vocabulary; ordinary Phi prefers to describe the transfer, labor, need, gift, or institution under discussion. Exact amounts and source economic terms remain available inside `patha … patho` for history, labor rights, contracts, critique, testimony, and practical coordination. Marked carriage prevents a core refusal from becoming an inability to describe exploitation or keep an accurate record.
 
 ## Work and worth
 

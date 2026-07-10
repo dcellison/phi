@@ -1,12 +1,12 @@
 # Part 6: The spoken capital
 
-Phi has no capital letters: not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and a mark may carry meaning only if every mode can carry it. Case exists only in Latin script; therefore nothing in Phi may mean anything by it. What capitals do for names, `ne` does aloud, and *aloud* is the point, because every mode has a voice even when it has no case.
+Core Phi and adapted guest material have no capital letters: not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and core meaning cannot depend on Latin case. What capitals do for names, `ne` does aloud.
 
 This chapter is the writer's checklist: four surfaces where an English-trained hand will reach for a capital, and what Phi does instead on each.
 
 ### Romanized Phi
 
-All lowercase, always: at sentence starts, in titles, in names. `ne sulae shua.` never grows a capital, whatever position it holds on the page. The validator enforces this, so the discipline costs nothing but the itch.
+Core and guest material stays lowercase at sentence starts, in titles, and in names. `ne sulae shua.` never grows a capital, whatever position it holds on the page. Exact payload is the explicit exception: `ne patha Amina patho` preserves source case because the characters are carried rather than interpreted as Phi. The boundary remains lowercase and audible.
 
 ### Gloss lines
 

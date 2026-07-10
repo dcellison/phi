@@ -2,9 +2,9 @@
 
 That word is *hello*. Say it aloud, unhurried: **ki · a**, two syllables, the second one open like a door.
 
-Phi is a constructed language with a single design goal: it slows you down. The slowing is not a side effect and not a price — it is the point. Phi is built for mindful communication, and it makes the mindfulness physical: every sound, every rule, every word was chosen so that speaking with care is not something you attempt in the language but something the language does to you. What follows is not an argument for it. It is a few minutes of contact with it. Decide for yourself.
+Phi is a philosophical constructed language with a single design goal: to make unhurried attention available as a practice. Its sounds, grammar, and vocabulary invite care without pretending that a language can compel mindfulness or peaceful conduct. What follows is not an argument for it. It is a few minutes of contact with it. Decide for yourself.
 
-## The whole grammar is one rule
+## The grammar has one organizing principle
 
 Here is a Phi sentence, arriving the way it arrives for a listener:
 
@@ -12,29 +12,29 @@ Here is a Phi sentence, arriving the way it arrives for a listener:
 > **thiku pelori** — a small bird —
 > **nila.** — sees.
 
-Everything that modifies, specifies, or relates comes before what it affects. The describing word before the noun. The object before the verb. The question-mark word before the question. The *if* before the *then*. One rule, applied without exception, and you have just watched it work: nothing in the sentence lands until everything has been announced, so speaker and listener arrive at the meaning together, at the last word.
+Everything that modifies, specifies, or relates comes before what it affects. The describing word before the noun. The object before the verb. The question-mark word before the question. The *if* before the *then*. One principle, applied throughout the language, and you have just watched it work: the relation is announced before its head arrives.
 
-Phi calls this *announce, then deliver*. It is the entire syntax. There is nothing else to memorize.
+Phi calls this *announce, then deliver*. It organizes the syntax; learners still meet particles, clause frames, classifiers, conversion rules, and ternary numerals, but those systems repeatedly return to the same orientation.
 
 ## A word learned once is owned forever
 
 Phi has no conjugations, no declensions, no plural endings, no irregular anything. Words never change shape. Time, mood, and number are separate little words that stand where the one rule says they stand. If you have ever fought a verb table at midnight, read that sentence again.
 
-## You cannot say it fast
+## Careful speech is the reference
 
-Every syllable is open — a consonant, then a vowel, nothing after. Every vowel is pure and full. Try the word for dog: **lo · ha · u**. The first syllable begins *lothea*, the word for love. The last two vowels, said separately as Phi requires, are a howl — the wolf still audible at the end of the word. The language is full of small designs like this, and none of them can be rushed, because the sound system has no way to rush.
+Every syllable is open — a consonant, then a vowel, nothing after. Every vowel is taught as pure and full. Try the word for dog: **lo · ha · u**. The first syllable begins *lothea*, the word for love. The last two vowels, said separately as Phi requires, are a howl — the wolf still audible at the end of the word. Phi teaches this careful form first. Conversational speech may move faster, but it must preserve the contrasts and syllables that carry meaning.
 
 ## You can hear the punctuation
 
-Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens the exact words, **sholo** closes them, and both survive being carried across a garden in a child's mouth. The comma of address is the word **kona**; the capital letter of a name is the word **ne**. Pauses are free — no pause can change what a Phi sentence means — so none is ever written. A message here can pass through three careful mouths and arrive letter-perfect, because nothing in it was ever silent. The page keeps its one dot for the one job no word was given.
+Core Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens the exact Phi words and **sholo** closes them. The comma of address is **kona**; the capital letter of a core name is **ne**. This makes core punctuation recoverable in careful dictation. Advanced Phi also has a visibly and audibly bounded exact register for external spellings, scripts, numbers, and notation; its payload keeps the source form and therefore makes no letter-perfect oral promise.
 
 ## The slowing is the practice
 
-Why build a language you cannot rush? Because every Phi sentence rehearses the same small discipline: announce your intent, then act. Say what relates before what is related, how you know before it matters, the condition before the consequence. A speaker practices this hundreds of times a day without trying to, which is what makes it a practice and not a lecture. The people who built Phi wove five traditions into it — solarpunk's livable futures, secular Buddhist attention, Art Nouveau's organic line, peace linguistics, and pre-industrial rhythm — and wove them in at the level of sound. You can hear it: the four breath-consonants, the softest sounds the language has, are reserved for the words of the inner life. **shea**, peace. **thole**, practice. **whunei**, breathe. **phaelo**, feel. The philosophy is not printed on the language. It is pronounced.
+Why teach a language at an unhurried pace? Because every Phi sentence can rehearse the same small discipline: announce a relation, then deliver its head. Say what relates before what is related, how you know before it matters, the condition before the consequence. This is an offered practice, not a promised effect. Phi draws openly from five traditions — solarpunk's livable futures, secular Buddhist attention, Art Nouveau's organic line, peace linguistics, and pre-industrial rhythm — and remains a value-explicit, culturally situated project rather than a neutral language for everyone.
 
 ## Some words are missing on purpose
 
-Phi has no word for any weapon. It has no word for *bad* — things are harmful, or broken, or unwell, and the speaker must say which. It has no gendered person-words at all: *miona* is a person, *tewema* a partner, *phao* a parent, and everyone is equally all of them. And it has no vocabulary of domination — no *lord*, no *throne*, no *to rule*, no binding of anyone to anything. When the Ring Verse was brought to it, the language could not comply; what came out instead was a small poem about a hearth, and the shelf keeps the whole story. A language cannot stop anyone from doing harm. But what it refuses to make easy shapes what its speakers reach for first.
+Core Phi has no word for any weapon. It has no word for *bad* — things are harmful, broken, or unwell, and the speaker must say which. It has no gendered person-words: *miona* is a person, *tewema* a partner, *phao* a parent. It has no core vocabulary of domination — no *lord*, no *throne*, no *to rule*. These are value-explicit design choices, not a ban on testimony or analysis: the exact external register can carry any source term inside audible boundaries, and a core refusal must be reconsidered if it obstructs care, identity, consent, safety, or critique.
 
 ## Honesty is grammatical
 
@@ -63,7 +63,7 @@ The lexicon holds about nine hundred words, every one validated by machine again
 
 **Read** — the texts. Phi has a shelf of literature already: eight works rebuilt in the language rather than translated into it, from a loving-kindness meditation to a velveteen rabbit — and one famous verse it would not say.
 
-**Practice** — the pamphlets. A growing shelf on the structures learners find hardest — from relative clauses to the ternary numbers, the names, the first text, the punctuation you can hear, and the particle system entire: each explained slowly, drilled with exercises, answers included.
+**Practice** — the pamphlets. A growing shelf on the structures learners find hardest — from relative clauses and the external register to ternary numbers, names, spoken punctuation, and the particle system: each explained carefully, with exercises and answers.
 
 ---
 

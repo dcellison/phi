@@ -38,7 +38,7 @@ udhr: "and should act towards one another in a spirit of brotherhood."
 
 ### theula miona kolo rolia phelu.
 
-*…and equal in dignity and rights.* Here the transmutation begins. Phi has no legal register (no word for "rights" as claims held against others), and its value-neutrality refuses to invent one casually. What the article protects, Phi states directly: worth, held equally. `rolia` is worth as intrinsic value, and its own lexicon entry already carried this sentence's twin: *theli miona rolia phelu*, each person holds worth. The dictionary was ready before the text arrived.
+*…and equal in dignity and rights.* Here the transmutation begins. Core Phi has no established legal term for rights, and its value-explicit design declines to invent one from a single translation. What this transmutation protects, it states as worth held equally. Exact legal wording remains available in `patha … patho` whenever analysis, advocacy, or citation requires it.
 
 **Notes:** "dignity and rights" → `kolo rolia`, equal worth. The gap log's honest entry: a right, in Phi, is not a possession but a fact about worth that others are bound to see. Whether Phi ever needs a legal vocabulary is a question for another decade.
 
@@ -52,11 +52,11 @@ udhr: "and should act towards one another in a spirit of brotherhood."
 
 *…and should act towards one another in a spirit of brotherhood.* The equative `phea` frames the relation (as siblings) before the reciprocal `wiso` names one another, and the verse ends on the language's strongest verb. Where English hedges with "should act in a spirit of," Phi says what the spirit is and marks it necessary: `na lothea`, must love.
 
-**Notes:** two transmutations here. "Brotherhood" becomes `lomea`, sibling: Phi has no gendered person-words, so the exclusion the English has carried since 1948 simply cannot be said; the language corrects the document. And "should" becomes `na`, must: Phi's necessity particle marks moral bindingness, and softening it to the optative `su` (may they love) would wish where the article obliges.
+**Notes:** two transmutations here. "Brotherhood" becomes `lomea`, sibling: core Phi has no gendered person-words, so this version chooses an ungendered relation. That is an interpretation, not a claim that the source wording vanished or that Phi automatically corrects it. "Should" becomes `na`, must: this version reads the article as obligation rather than wish.
 
-## What the text proves
+## What the text demonstrates
 
-Four lines, one shape: `theula miona` opens every verse (*all people*), the way the original repeats its universal subject. The anaphora is the argument: whatever is said next is said of everyone. No word in the text is new. The gaps the transmutation crossed were English's, not Phi's: a legal register the language declines, a gendered noun it never had, a hedge it replaces with necessity.
+Four lines, one shape: `theula miona` opens every verse (*all people*), the way the original repeats its universal subject. No word in the text is new. The differences remain visible as translation choices: a legal concept rendered as equal worth, a gendered source metaphor rendered as siblinghood, and a modal rendered as necessity. An exact citation would preserve all three source forms instead.
 
 ---
 
