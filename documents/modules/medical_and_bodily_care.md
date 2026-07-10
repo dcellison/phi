@@ -10,7 +10,7 @@ The profile gives priority to a person's own report, explicit explanation, sourc
 
 ## Boundaries
 
-- Disability and accessibility are not subsets of illness or medicine. The accessibility scenario informs this profile because it tests consent and environmental barriers, but its participants need no diagnosis and do not become medical subjects.
+- Disability and accessibility are not subsets of illness or medicine. The scenarios organized by [Accessibility and Participation](accessibility_and_participation.md) inform this profile because they test consent and environmental barriers, but their participants need no diagnosis and do not become medical subjects.
 - Ordinary pain, rest, touch, food, water, breath, support, and refusal remain shared core resources because they are needed far beyond medical settings.
 - Mental and emotional care may overlap with bodily care, but this profile does not claim that current bodily vocabulary adequately covers mental health practice.
 - Reproductive health, sexuality, gender, abuse, coercion, and testimony require their own respectful scenarios before this profile can state how much belongs in shared core, another profile, or marked external material.

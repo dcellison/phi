@@ -12,7 +12,7 @@ The profile is not an engineering standard, safety certification, unit system, o
 
 - Phi retains one grammar. Technical explanation uses ordinary clauses, evidentials, conditionals, modality, and external frames; this profile adds no systems syntax or operator.
 - Exact specifications, units, formulas, identifiers, standards, and source instructions remain exact external material even if a future module extension adds useful technical content words.
-- Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with Medical and Bodily Care, Accessibility and Participation, Commons and Collective Governance, Household and Daily Life, and Ecological Systems and Material Life.
+- Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with Medical and Bodily Care, [Accessibility and Participation](accessibility_and_participation.md), Commons and Collective Governance, Household and Daily Life, and Ecological Systems and Material Life.
 - A person's value is never treated as a system metric. Technical measurement and human evaluation remain distinct even when both occur in one decision.
 - `theluo` names stewardship, not command. Listing it here does not create an infrastructure ruler, owner, or professional credential.
 
