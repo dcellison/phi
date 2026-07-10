@@ -21,7 +21,8 @@ Four shelves, four jobs: `documents/` is what the language **is** (the specifica
 | | |
 |---|---|
 | [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. About nine hundred words. |
-| [documents/](documents/) | Grammar references, the compound registry, phonology rules, schema, philosophical capability work, and the solo-maintainer development log. |
+| [documents/](documents/) | Current language references and development evidence, indexed by purpose. This includes the [language assessment](documents/language_assessment.md), [lexicon expansion survey](documents/lexicon_expansion_survey.md), [status roadmap](documents/roadmap.md), and solo-maintainer development log. |
+| [documents/modules/](documents/modules/) | Experimental practice and domain profiles that organize shared core vocabulary and record gaps without creating separate grammars or lexicons. |
 | [pamphlets/](pamphlets/) | The sources for the texts shelf (eight transmutations, the Metta Sutta through *The Velveteen Rabbit*, plus the Ring Verse refusal) and the two study pamphlets. |
 | [canon.md](canon.md) | The authority order when documents disagree, and every settled design decision. |
 | [web/](web/) | The lexicon explorer — a static, searchable view over the vocabulary. Build and serve locally with `python3 scripts/build_explorer.py && python3 -m http.server -d web`. |
@@ -34,7 +35,7 @@ Everything is validated by machine, and the validation gates every pull request:
 python3 scripts/validate_examples.py
 ```
 
-This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); the working protocol for creating words lives in [documents/development_protocol.md](documents/development_protocol.md); the longer-term intentions live in [publishing.md](publishing.md).
+This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](documents/roadmap.md); the working protocol for creating words lives in [documents/development_protocol.md](documents/development_protocol.md); the longer-term intentions live in [publishing.md](publishing.md).
 
 ## Licensing
 

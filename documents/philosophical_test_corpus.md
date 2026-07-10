@@ -152,6 +152,302 @@ B: mia nawo.
 
 This dialogue distinguishes understanding from agreement and treats a definition as revisable. It also exposes a weakness: `shea miona lorea` may be a claim about peace rather than a definition of it. The capability matrix therefore keeps definition under active testing.
 
+## 6. The water device, the number, and the loop
+
+This scenario tests a foundational restriction rather than assuming it is settled by design. Phi declines unmarked exact units, clock time, money, and large exact enumeration, while `patha ... patho` preserves precision where care, engineering, accessibility, or accountability require it. Here a shared water device has an exact requirement. The speakers try to distinguish that technical condition from measuring a person's worth, then test whether Phi can explain a feedback loop without merely carrying the English term.
+
+```
+A: ha keli siru patha 12 V patho nai.
+PROX device marker EXT.EXACT [12 V] EXT.EXACT.CLOSE be.
+(The marking on this device is "12 V".)
+
+B: ha keli patha 12 V patho phelona.
+PROX device EXT.EXACT [12 V] EXT.EXACT.CLOSE require.
+(This device requires 12 V.)
+
+A: lo mia patha 12 V patho masue phelona.
+PL 1SG EXT.EXACT [12 V] EXT.EXACT.CLOSE measure require.
+(We require a measurement of 12 V.)
+
+B: mia shelomui. whekai miona sone po ma masue.
+1SG understand. CONTR person value POT NEG measure.
+(I understand. However, a person's value cannot be measured.)
+
+A: mia nawo.
+1SG agree.
+(I agree.)
+
+A: ha keli phelona miona sone ma nai.
+PROX device require person value NEG be.
+(This device's requirement is not a person's value.)
+
+A: lu lo mia ha keli shiroka. lo mia wei thepalu phialu loa.
+COND PL 1SG PROX device repair. PL 1SG DAT garden water give.
+(If we repair this device, we give water to the garden.)
+
+B: lu lo mia wei thepalu phialu loa. luphore po ma hiso kelu.
+COND PL 1SG DAT garden water give. river POT NEG clean become.
+(If we give water to the garden, the river may become unclean.)
+
+A: thelao lo mia ha keli na shiroka.
+CONS PL 1SG PROX device NEC repair.
+(Therefore, we must repair this device.)
+
+B: mia ma nawo. pi no ha phelui reo lilea.
+1SG NEG agree. POL IMP PROX word meaning clarify.
+(I do not agree. Please clarify the meaning of this statement.)
+
+A: ha teru patha feedback loop patho nai.
+PROX process EXT.EXACT [feedback loop] EXT.EXACT.CLOSE be.
+(This process is a "feedback loop".)
+
+B: pi no patha feedback loop patho reo lilea.
+POL IMP EXT.EXACT [feedback loop] EXT.EXACT.CLOSE meaning clarify.
+(Please clarify the meaning of "feedback loop".)
+
+A: ha keli phialu lorea. phialu thepalu lorea. thepalu ha keli lorea.
+PROX device water connect. water garden connect. garden PROX device connect.
+(The device connects to water. Water connects to the garden. The garden connects to the device.)
+
+B: mia ma shelomui.
+1SG NEG understand.
+(I do not understand.)
+
+A: mia ha reo po ma lilea.
+1SG PROX meaning POT NEG clarify.
+(I cannot clarify this meaning.)
+
+B: lo mia therilu.
+PL 1SG rest.
+(We pause.)
+```
+
+### Gap log
+
+- **Exact measurement works as carriage, not as an unmarked core unit.** `patha 12 V patho` can be a predicate, object, or modifier without corrupting the number. This is enough to report a label and a device requirement, but it does not provide core vocabulary for voltage, calibration, threshold, or technical comparison.
+- **The measurement restriction makes one useful ethical distinction easy.** `miona sone po ma masue` separates a person's value from a thing that can be measured. The scenario therefore does not establish that the restriction is wrong; it shows a real benefit of keeping ranking separate from technical conditions.
+- **The restriction burdens explanation of safety-critical systems.** `masue` is defined as relational, body-scaled measurement. Treating an exact unit as its object is intelligible but semantically strained. A second scenario should test a medical, accessibility, or public-health measurement before deciding whether a conventional core construction is needed. The medical scenario below begins that comparison.
+- **`thelao` states a consequence, not validity.** B can disagree and request clarification, but current Phi offers no conventional way to say that A's conclusion does not follow from the stated premises. This corroborates the logical-validity gap in the capability matrix.
+- **`patha feedback loop patho` preserves the technical term, but the core paraphrase fails to identify feedback.** `lorea` only says that things are connected. It does not identify technical flow, recurrence, output returning as input, or whether the relationship is causal rather than correlational. This corroborates the systems-and-emergence gap.
+
+No new root or particle follows from this single scenario. The next relevant text should use a different safety-critical system and then compare whether the same failures recur.
+
+## 7. The shared energy device
+
+This independent scenario tests whether the problems in the water-device discussion recur in shared solar infrastructure. An exact voltage is necessary technical evidence, but it is not sufficient evidence that the device is functioning well. The speakers use an example to challenge an overly quick conclusion, then again find that an external systems term cannot be made clear by a chain of generic connections.
+
+```
+A: ha sorae kenua keli sila panoru.
+PROX sun energy device community support.
+(This solar-energy device supports the community.)
+
+B: ha sorae kenua keli patha 48 V patho phelona.
+PROX sun energy device EXT.EXACT [48 V] EXT.EXACT.CLOSE require.
+(This solar-energy device requires 48 V.)
+
+A: ha sorae kenua keli patha 48 V patho phelu.
+PROX sun energy device EXT.EXACT [48 V] EXT.EXACT.CLOSE hold.
+(This solar-energy device has 48 V.)
+
+A: thelao ha sorae kenua keli welao nai.
+CONS PROX sun energy device good be.
+(Therefore, this solar-energy device is functioning well.)
+
+B: mia ma nawo.
+1SG NEG agree.
+(I do not agree.)
+
+B: phisu ha sorae kenua keli patha 48 V patho phelu. whekai ha sorae kenua keli po ma welao nai.
+EXMP PROX sun energy device EXT.EXACT [48 V] EXT.EXACT.CLOSE hold. CONTR PROX sun energy device POT NEG good be.
+(For example, this solar-energy device has 48 V and yet may not function well.)
+
+A: mia to kanelu. mia nohero to helui.
+1SG PST err. 1SG believe PST change.
+(I erred. My belief changed.)
+
+B: patha 48 V patho miona sone ma nai.
+EXT.EXACT [48 V] EXT.EXACT.CLOSE person value NEG be.
+(48 V is not a person's value.)
+
+A: mia nawo.
+1SG agree.
+(I agree.)
+
+B: ha teru patha feedback loop patho nai.
+PROX process EXT.EXACT [feedback loop] EXT.EXACT.CLOSE be.
+(This process is a "feedback loop".)
+
+A: pi no patha feedback loop patho reo lilea.
+POL IMP EXT.EXACT [feedback loop] EXT.EXACT.CLOSE meaning clarify.
+(Please clarify the meaning of "feedback loop".)
+
+B: sorae kenua ha keli lorea. ha keli sila lorea. sila sorae kenua lorea.
+sun energy PROX device connect. PROX device community connect. community sun energy connect.
+(Solar energy connects to this device. This device connects to the community. The community connects to solar energy.)
+
+A: mia ma shelomui.
+1SG NEG understand.
+(I do not understand.)
+
+B: mia ha reo po ma lilea.
+1SG PROX meaning POT NEG clarify.
+(I cannot clarify this meaning.)
+
+A: lo mia therilu.
+PL 1SG rest.
+(We pause.)
+```
+
+### Gap log
+
+- **The technical-condition-versus-human-value distinction recurs.** Exact voltage can be carried safely, and `miona sone po ma masue` from the prior scenario still separates a person's worth from measurement. The register question is therefore not whether to remove exact framing, but how to state a technical condition and its role in a decision without treating it as an opaque authority.
+- **`phisu` supplies an example, not a counterexample convention.** B can give a case in which the voltage is present and function may still fail. Phi has no established form saying that this case refutes A's inference rather than merely adding another consideration.
+- **`thelao` again marks consequence, not validity.** A can retract the conclusion after B's case, but the language cannot yet state that the conclusion was unsupported by the premise. This is a second independent occurrence of the logical-validity gap.
+- **The systems gap recurs outside the water scenario.** The chain of `lorea` clauses can name interconnection among energy, device, and community, but cannot identify control, technical flow, recurrence, feedback, or a system boundary. `patha feedback loop patho` remains a label rather than a core explanation.
+
+The two systems scenarios now justify a small findings pass, not a lexical proposal. The medical scenario below changes the stakes again through bodily care and exact health information before any register specification is drafted.
+
+## 8. A reading, a boundary, and care
+
+This scenario tests a bodily-care conversation without offering a diagnosis, dose, treatment instruction, or model of real medical practice. Its purpose is to distinguish a person's reported experience, a recorded reading, an uncertain safety concern, refusal of one action, continued need for care, and a request for explanation. A and B are temporary discourse roles, not claims about a patient's or clinician's authority.
+
+```
+A: mia mokela nai. mia mokura kipona phaelo.
+1SG sick be. 1SG belly pain feel.
+(I am sick. I feel pain in my belly.)
+
+B: halu. pi wa mia thia weloni po palo.
+aww. POL Q 1SG 2SG body POT touch.
+(I hear you. May I touch your body?)
+
+A: mia ma nawo.
+1SG NEG agree.
+(I do not agree.)
+
+B: mia thia naweri thekao. mia thia weloni ma palo.
+1SG 2SG refuse acknowledge. 1SG 2SG body NEG touch.
+(I acknowledge your refusal. I do not touch your body.)
+
+A: ha masue siru patha body temperature: 38.7 C patho nai.
+PROX measure marker EXT.EXACT [body temperature: 38.7 C] EXT.EXACT.CLOSE be.
+(The marker on this measurement is "body temperature: 38.7 C".)
+
+B: mia ha masue hi nila. mia ha masue reo ma sano.
+1SG PROX measure DIR see. 1SG PROX measure meaning NEG know.
+(I see this measurement directly. I do not know its meaning.)
+
+B: ha masue pukea po shelo. whekai mia ma sano.
+PROX measure danger POT signify. CONTR 1SG NEG know.
+(This measurement may signify danger. However, I do not know.)
+
+A: pi no ha masue reo lilea.
+POL IMP PROX measure meaning clarify.
+(Please clarify the meaning of this measurement.)
+
+B: mia ha masue reo po ma lilea.
+1SG PROX measure meaning POT NEG clarify.
+(I cannot clarify the meaning of this measurement.)
+
+A: mia theama phelona. ha masue theama ma nai.
+1SG care require. PROX measure care NEG be.
+(I need care. This measurement is not care.)
+
+B: mia shelomui. pi wa mia wei thia ha nepha po loa.
+1SG understand. POL Q 1SG DAT 2SG PROX medicine POT give.
+(I understand. May I give you this medicine?)
+
+A: mia ma nawo. mia ha nepha reo ma shelomui.
+1SG NEG agree. 1SG PROX medicine meaning NEG understand.
+(I do not agree. I do not understand the meaning of this medicine.)
+
+B: mia thia naweri thekao. mia ha nepha reo po lilea.
+1SG 2SG refuse acknowledge. 1SG PROX medicine meaning POT clarify.
+(I acknowledge your refusal. I can clarify the meaning of this medicine.)
+
+A: mia ha nepha reo lilea phelona. lo mia therilu.
+1SG PROX medicine meaning clarify require. PL 1SG rest.
+(I require clarification of the medicine's meaning. We pause.)
+```
+
+### Gap log
+
+- **Exact clinical information is carried safely but remains external to the core analysis.** `patha body temperature: 38.7 C patho` preserves the spelling, value, and unit without forcing them into a pretend Phi unit system. `ha masue` can name it only as a generic measurement; Phi has no conventional core terms for temperature, a reading, a test result, or a threshold.
+- **A recorded number is not a diagnosis.** `ha masue pukea po shelo` can express a deliberately tentative connection between a reading and danger. It cannot distinguish observation, symptom, test, indication, risk, diagnosis, prognosis, or a justified recommendation. The inability to explain the measurement is the intended failure, not a medical claim about the value shown.
+- **The existing resources support a respectful minimum, but not full informed consent.** `pi wa` plus `po` can ask before touching or giving something; `ma nawo`, `naweri`, `thekao`, and an explicit `ma palo` can recognize and honor a refusal. Yet `po` also covers practical ability, `nawo` is ordinary agreement, and the language has no conventional way to state scope, duration, revocation, alternatives, benefits, burdens, or whether the explanation was sufficient for a decision.
+- **Care and a recorded measurement can be separated, but the decision frame is thin.** `mia theama phelona. ha masue theama ma nai.` distinguishes a need for care from the presence of one measurement. It does not provide a conventional way to discuss options, a care role, accountability, access needs, or a shared care plan.
+- **An exact external phrase would preserve a technical label without solving the problem.** For example, `patha informed consent patho` could faithfully carry a source term, but it would not state what the person understood or what action they accepted. A future medical module should therefore add carefully scoped semantic resources and usage guidance only after several independent care and access scenarios recur; it should not add grammar or weaken the exact register.
+
+No new root or particle follows from this single scenario. It independently confirms the systems result: exact data is necessary for safety-critical communication, but the data needs a transparent decision and explanation context before it can guide care.
+
+## 9. A doorway, a route, and written words
+
+This scenario tests access to a community meeting without naming a diagnosis, impairment, or defective body. A narrow doorway and a loud meeting are environmental conditions. A uses a device and refuses an offer to be carried; C requests written words. The scenario tests whether Phi can describe both barriers, respect different responses, and connect access to participation without making one form of help universal.
+
+```
+A: ha ponu hieru nai. mia roe ha keli po ma koema.
+PROX door narrow be. 1SG INS PROX device POT NEG enter.
+(This door is narrow. I cannot enter using this device.)
+
+B: pi wa lo mia thia po kolua.
+POL Q PL 1SG 2SG POT carry.
+(May we carry you?)
+
+A: mia naweri. mia roe ha keli koema phelona.
+1SG refuse. 1SG INS PROX device enter require.
+(I refuse. I need to enter using this device.)
+
+B: mia thia naweri thekao. lo mia losha shoeka kanu.
+1SG 2SG refuse acknowledge. PL 1SG wide route choose.
+(I acknowledge your refusal. We choose a wide route.)
+
+A: lu ha shoeka shurano nai. mia mua lona po pawela.
+COND PROX route safe be. 1SG LOC meeting POT participate.
+(If this route is safe, I can participate in the meeting.)
+
+C: lona theisa nai. mia lo phelui po ma hea.
+meeting loud be. 1SG PL word POT NEG hear.
+(The meeting is loud. I cannot hear the words.)
+
+C: pi no lo phelui thekiro.
+POL IMP PL word write.
+(Please write the words.)
+
+B: lo mia lo phelui so thekiro.
+PL 1SG PL word FUT write.
+(We will write the words.)
+
+C: mia lo phelui po theo. thelao mia mua lona po pawela.
+1SG PL word POT read. CONS 1SG LOC meeting POT participate.
+(I can read the words. Therefore, I can participate in the meeting.)
+
+B: ta naphe theula miona po ma panoru. lo mia phirae naphe phelona.
+one help UNIV person POT NEG support. PL 1SG different help require.
+(One form of help may not support every person. We need different forms of help.)
+
+A: mia nawo.
+1SG agree.
+(I agree.)
+
+C: mia nawo.
+1SG agree.
+(I agree.)
+
+B: lo mia lona so helui.
+PL 1SG meeting FUT change.
+(We will change the meeting.)
+```
+
+### Gap log
+
+- **Phi can place a barrier in the environment rather than in a person's body.** `ha ponu hieru nai` and `mia roe ha keli po ma koema` state the incompatible doorway and device without calling A sick, broken, or less capable. This is a useful compositional strength.
+- **The generic device term protects against premature classification but loses relevant distinctions.** `keli` avoids assigning a diagnosis or identity, yet it cannot distinguish a mobility aid from another device. `rolu` is primarily a craft wheel, so `rolu keli` would not transparently repair the gap. `patha wheelchair patho` can preserve a source term when it matters, but exact carriage alone does not explain what the environment must permit.
+- **The consent pattern recurs independently of medicine.** `pi wa ... po` requests permission before carrying; `naweri` refuses; `thekao` acknowledges the refusal. As in the bodily-care scenario, `po` still also expresses practical possibility, and the scope or duration of consent remains contextual. This is stronger evidence for a recurring permission-and-consent distinction, but not yet a proposal for new grammar or vocabulary.
+- **Access is plural and relational.** A wider safe route supports A, while written words support C. `ta naphe theula miona po ma panoru` can state that one intervention may not serve everyone. Phi still lacks conventional core terms for barrier, accommodation, access requirement, communication format, or independent access.
+- **Participation is available even when the technical access category is not.** `pawela` states the practical outcome: taking part in the meeting. The exact phrase `patha accessibility patho` could preserve an external category, but it would not identify the route, format, consent, or decision that participation requires.
+- **This material crosses module boundaries.** Device use, refusal, support, writing, safety, and participation belong simultaneously to household, medical, civic, and dialogue contexts. An eventual accessibility profile may organize them, but none should be removed from the shared core merely because this scenario needs them.
+
+No new root or particle follows from this first access scenario. It does, however, establish a second independent setting in which generic possibility is doing permission work and ordinary refusal must carry a specifically scoped consent decision.
+
 ## Regression method
 
-After any grammar or philosophical-vocabulary change, validate this file, read every Phi line aloud, paraphrase each section into plain English without looking at its translation, and record any lost distinction. A change passes only if it improves its motivating passage without silently changing the other four.
+After any grammar or philosophical-vocabulary change, validate this file, read every Phi line aloud, paraphrase each section into plain English without looking at its translation, and record any lost distinction. A change passes only if it improves its motivating passage without silently changing the other sections.

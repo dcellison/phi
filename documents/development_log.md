@@ -2,6 +2,8 @@
 
 This is the lightweight decision record for Phi while it has one maintainer. It is not an RFC system. A decision enters canon only after its status becomes accepted and its vocabulary, grammar references, teaching material, validator, and generated artifacts agree.
 
+Implementation status, dependencies, evidence gates, and the next solo work packages are tracked in the [status roadmap](roadmap.md). This log records decisions; the roadmap records execution.
+
 ## Statuses
 
 - **Proposed**: worth investigating, with no authority over current Phi.
@@ -23,6 +25,7 @@ This is the lightweight decision record for Phi while it has one maintainer. It 
 | D007 | Accepted | Describe design intentions as intentions. | Phi invites deliberate and cooperative practice but does not claim to make speakers peaceful, prove a cognitive effect, or be universally easy to learn. |
 | D008 | Accepted | Treat modifier-first as the organizing principle. | The phrase remains the best mnemonic, but teaching must also name the particle system, frame rules, classifiers, conversions, and numeral system that learners actually encounter. |
 | D009 | Accepted | Let `ne` license productive Phi-form names. | A chosen two-, three-, or four-syllable Phi-shaped onym may follow `ne` without becoming a lexicon entry. This gives names an open class while retaining guest frames for five-or-more-syllable, multi-token, or otherwise non-onym adaptations and exact frames for source-faithful forms. |
+| D010 | Experimental | Treat domain modules as non-grammatical profiles over shared core resources. | Household and Daily Life, Medical and Bodily Care, Systems and Shared Infrastructure, and the shared-core Philosophical Reasoning profile organize existing roots without moving them from the lexicon. Profiles add no grammar or parser mode; any future term remains subject to the ordinary evidence-led admission process. Test all four before treating the format as a durable extension policy. |
 
 ## Release milestones
 
