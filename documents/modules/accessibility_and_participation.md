@@ -48,8 +48,9 @@ These are existing Phi roots and function words. The profile indexes them withou
 - [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) places barriers in a doorway and spoken meeting format, tests refusal of being carried, supplies two different changes, and connects access to participation.
 - [Words before the meeting](../philosophical_test_corpus.md#10-words-before-the-meeting) moves the barrier into timing and decision procedure, tests advance material, reading and thought, rephrasing, proxy refusal, written contribution, and participation without agreement.
 - [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) supplies boundary evidence: permission, refusal, explanation, and exact information also matter in bodily care, but access must not be absorbed into a medical category.
+- [The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) supplies work-profile boundary evidence: pain, inability, refusal, method explanation, and a choice to observe rather than touch a tool keep bodily capacity and participation separate from diagnosis or compulsory assistance.
 
-These are scripted regression texts by one maintainer. They demonstrate useful compositions and recurring failures, not the experience of disabled people generally, legal adequacy, or successful access for another reader.
+These are scripted regression texts by one maintainer. They demonstrate useful compositions and recurring failures, not the experience of disabled people generally, legal adequacy, or successful access for another reader. The craft-repair scenario does not complete this profile's next-use test because it includes only one explicit bodily access need, no requested environmental change, and no preparation or rest interval.
 
 ## Comparative Findings
 

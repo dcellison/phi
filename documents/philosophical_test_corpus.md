@@ -1047,6 +1047,162 @@ No new root follows from this scenario. It supplies a habitat-and-material-retur
 
 Together, these scenarios provide the evidence basis for the zero-new-root [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md). They show that Phi can identify organisms, materials, places, flows, measurements, competing explanations, safety needs, limited interventions, uncertainty, and planned observation while remaining thin in ecological system boundaries, pathways, scale, technical interpretation, monitoring, and several domain terms. The profile organizes shared resources and external practice without turning `lorea`, `selu`, `nuri`, `sunoe`, `shelira`, `muila`, or broad solarpunk values into a claim that the ecological relation has already been explained.
 
+## 15. The wheel, the chisel, and the promised repair
+
+This scenario tests work-sharing after a promised repair. A shared workshop's wheel is needed by a device that carries water. C committed to repair it under community pressure but does not know the chisel method, has hand pain, and cannot carry the heavy hammer. A knows the method but initially imposes sharp-tool work on apprentice B, who refuses. The speakers must separate commitment, method knowledge, learning, permission, bodily capacity, selected work, exact specifications, and responsibility for safe return to use. None is introduced as an employer, master, owner, or final inspector.
+
+```
+A: laenu keritha rolu to pukate.
+commons workshop wheel PST break.
+(The commons workshop's wheel broke.)
+
+A: rena phialu kolua keli ha rolu phelona.
+REL water carry device PROX wheel require.
+(The device that carries water requires this wheel.)
+
+C: mia mena mia ha rolu pheo ta philo so shiroka meno to seru.
+1SG DECL.COMP 1SG PROX wheel POST one day FUT repair DECL.COMP.CLOSE PST commit.
+(I committed that I would repair this wheel in one day.)
+
+A: ha rolu patha axle opening: 24 mm patho phelona.
+PROX wheel EXT.EXACT [axle opening: 24 mm] EXT.EXACT.CLOSE require.
+(This wheel requires "axle opening: 24 mm.")
+
+A: ha keli patha DO NOT MOVE UNTIL INSPECTED patho siru phelu.
+PROX device EXT.EXACT [DO NOT MOVE UNTIL INSPECTED] EXT.EXACT.CLOSE marker hold.
+(This device has a marker reading "DO NOT MOVE UNTIL INSPECTED.")
+
+A: mia shiroka norae sano. mia theko to thole.
+1SG repair method know. 1SG craft PST practice.
+(I know the repair method. I practiced the craft.)
+
+B: mia moloi nai. mia kiru norae ma sano.
+1SG apprentice be. 1SG chisel method NEG know.
+(I am an apprentice. I do not know the chisel method.)
+
+A: thelao thia roe kiru wolea na kire.
+CONS 2SG INS chisel wood NEC shape.
+(Therefore, you must shape the wood with the chisel.)
+
+B: mia naweri. kiru tiso nai. roe kiru ha riola wei mia pukea nai.
+1SG refuse. chisel sharp be. INS chisel PROX labor DAT 1SG danger be.
+(I refuse. The chisel is sharp. This chisel work is dangerous for me.)
+
+B: mia ha norae ma sano.
+1SG PROX method NEG know.
+(I do not know this method.)
+
+C: mia we kiru norae ma sano. mia manuwe kipona nai.
+1SG ALSO chisel method NEG know. 1SG hand pain be.
+(I also do not know the chisel method. My hand is painful.)
+
+C: mia tumoa toka kolua naweri. mia tumoa toka po ma kolua.
+1SG heavy hammer carry refuse. 1SG heavy hammer POT NEG carry.
+(I refuse to carry the heavy hammer. I cannot carry it.)
+
+A: mia lo thia wi naweri thekao.
+1SG PL 2SG two refuse acknowledge.
+(I acknowledge both of your refusals.)
+
+A: wa thia misa to seru.
+Q 2SG why PST commit.
+(Why did you commit?)
+
+C: lao sila rena phialu kolua keli phelona mia to seru.
+BECAUSE community REL water carry device require 1SG PST commit.
+(Because the community needs the water-carrying device, I committed.)
+
+A: thia seru wei thia kiru norae ma loa. mia to kanelu.
+2SG commit DAT 2SG chisel method NEG give. 1SG PST err.
+(Your commitment does not give you the chisel method. I erred.)
+
+A: lo mia lo riola na kanu.
+PL 1SG PL labor NEC choose.
+(We must choose the work.)
+
+B: pi wa mia thia theko po somela.
+POL Q 1SG 2SG craft POT observe.
+(May I observe you crafting?)
+
+A: mia nawo. phoe thia kiru palo mia shiroka norae so solae.
+1SG agree. ANT 2SG chisel touch 1SG repair method FUT explain.
+(I agree. Before you touch the chisel, I will explain the repair method.)
+
+B: mia somela nela shonela kelomi. whekai mia nosa kiru palo naweri.
+1SG observe COORD learn accept. CONTR 1SG now chisel touch refuse.
+(I accept observing and learning. However, I refuse to touch the chisel now.)
+
+A: mia thia naweri thekao.
+1SG 2SG refuse acknowledge.
+(I acknowledge your refusal.)
+
+A: mia kire nela shiroka riola kanu.
+1SG shape COORD repair labor choose.
+(I choose the shaping and repair work.)
+
+B: mia somela nela shonela riola kanu.
+1SG observe COORD learn labor choose.
+(I choose the observing and learning work.)
+
+C: mia masue nela thekiro riola kanu.
+1SG measure COORD write labor choose.
+(I choose the measuring and writing work.)
+
+A: lo mia lo kanu so thekiro.
+PL 1SG PL choose FUT write.
+(We will write the choices.)
+
+C: lu rolu shurano ma nai. lo mia keli so ma roke.
+COND wheel safe NEG be. PL 1SG device FUT NEG move.
+(If the wheel is not safe, we will not move the device.)
+
+B: wa sua mena rolu shurano nai meno so sano.
+Q who DECL.COMP wheel safe be DECL.COMP.CLOSE FUT know.
+(Who will know that the wheel is safe?)
+
+A: lo mia ma sano. pheo shiroka lo mia rolu so masue. lo mia rolu so somela.
+PL 1SG NEG know. POST repair PL 1SG wheel FUT measure. PL 1SG wheel FUT observe.
+(We do not know. After the repair, we will measure the wheel. We will observe the wheel.)
+
+C: lo mia patha inspection patho reo so shareo.
+PL 1SG EXT.EXACT [inspection] EXT.EXACT.CLOSE meaning FUT discuss.
+(We will discuss what "inspection" means.)
+
+B: mia ha kanu kelomi. whekai mia mena ha rolu shurano nai meno ma sano.
+1SG PROX choose accept. CONTR 1SG DECL.COMP PROX wheel safe be DECL.COMP.CLOSE NEG know.
+(I accept this choice. However, I do not know that this wheel is safe.)
+```
+
+### Gap log
+
+- **Concrete craft vocabulary is strong.** The passage names a workshop, wheel, water-carrying device, wood, chisel, hammer, method, craft practice, shaping, repair, measurement, writing, observation, and learning without new roots. Tool and material coverage is not the primary obstacle.
+- **`lo riola` is only a provisional way to retrieve task-like work units.** The participants can choose concrete actions and pluralize labor, but current Phi does not conventionalize task, work package, dependency, assignment, coverage, progress, handoff, or who ensures that unchosen work is completed.
+- **Method knowledge, practiced craft, apprenticeship, and qualification remain distinct.** A states knowledge and past practice; B states an apprentice role and lack of method knowledge. None of those clauses establishes skill level, demonstrated competence, certification, authorization, or competence for this particular repair.
+- **Necessity does not assign labor or establish command.** A's `na` attempts to impose sharp-tool work on B without stating authority or securing agreement. B's refusal remains valid, and A's error acknowledgement repairs the interaction without creating a general assignment convention.
+- **Consent to learning is bounded and compositional.** B asks to observe, accepts observation and learning, and separately refuses touching the chisel now. The clauses distinguish practical possibility, a polite request, acceptance, and refusal, but Phi has no conventional term for training consent, supervised use, revocation, or scope of permission.
+- **A prior commitment does not create capacity.** C committed under community need but lacks the method, reports hand pain, refuses the heavy hammer, and cannot carry it. `seru`, `phelona`, `kipona`, `po ma`, and `naweri` preserve those facts without defining workload, fatigue, accommodation, urgency pressure, or whether the original commitment should be revised.
+- **Self-selected work is possible without a role system.** Each person chooses a different contribution and the group writes the choices. This does not establish coordination authority, order, dependencies, supervision, substitution, accountability for omission, or a handoff between learning, shaping, measuring, and repair.
+- **Exact specification and warning remain external.** The axle dimension and uppercase safety instruction preserve source form. They do not establish provenance, applicability, access, interpretation, tolerance, method, responsible role, or compliance.
+- **Measurement and observation are not inspection.** The group can measure and observe after repair, but neither action defines defect detection, test conditions, acceptance criteria, independent review, or safe return to use. Carrying `patha inspection patho` exposes rather than solves the gap.
+- **The language's positive work semantics are under pressure.** B calls the imposed sharp-tool action `riola` while also naming it dangerous and refusing it. This preserves the immediate facts, but the root's purposeful-contribution framing may still dignify work that the participant does not accept.
+
+No new root follows from this scenario. It demonstrates enough existing craft language for a zero-new-root profile while exposing relational and institutional gaps that another transformed or non-workshop case must test before any vocabulary proposal.
+
+## Comparison with the vocabulary audit
+
+| Audit question | Scenario result | Evidence judgment |
+|---|---|---|
+| Can Phi describe concrete craft and repair? | Wheel, tools, materials, method, shaping, repair, measurement, observation, and writing are recoverable. | **Strong direct coverage.** Organization is more urgent than lexical expansion. |
+| Can Phi divide work? | Each participant chooses and records a concrete contribution. | **Compositional.** Task identity, dependencies, assignment, coverage, and handoff remain thin. |
+| Can Phi preserve refusal and capacity? | B refuses sharp-tool work; C reports pain, refuses a heavy task, and states inability. | **Demonstrated in one case.** Scope, workload, accommodation, and retaliation remain untested. |
+| Can Phi distinguish learning from authorization? | B is an apprentice, lacks method knowledge, asks to observe, accepts learning, and refuses touching the tool. | **Compositional.** Skill, qualification, supervision, and training consent remain thin. |
+| Can Phi state responsibility? | C's prior commitment, A's method knowledge and error, and the group's choices remain separate. | **Compositional.** Assigned duty, final approval, omission, and institutional responsibility remain unresolved. |
+| Can Phi preserve technical precision? | Exact dimension and safety wording remain intact. | **External bridge.** Provenance, tolerance, applicability, and interpretation are not supplied. |
+| Can Phi establish safe completion? | The group plans measurement and observation but cannot identify who will know the wheel is safe. | **Gap.** Inspection, testing, acceptance criteria, sign-off, and safe return to use remain unconventionalized. |
+| Do positive labor roots cover unwanted work neutrally? | Dangerous imposed work can be refused, but `riola` still frames it as purposeful contribution. | **Semantic pressure confirmed.** The future profile needs an explicit boundary against romanticizing labor. |
+
+Together, the [vocabulary audit](work_craft_repair_vocabulary_audit.md) and this scenario satisfy the evidence gate for creating a zero-new-root Work, Craft, and Repair profile. They show that Phi has dense concrete coverage while remaining thin in neutral labor description, task structure, assignment, skill and qualification, bounded training consent, work capacity, safety systems, inspection, handoff, economic relations, and final responsibility. The profile should organize existing resources without turning craft, cooperation, service, commitment, or repair into proof that work is chosen, safe, fair, competent, complete, or worthy of approval.
+
 ## Regression method
 
 After any grammar or philosophical-vocabulary change, validate this file, read every Phi line aloud, paraphrase each section into plain English without looking at its translation, and record any lost distinction. A change passes only if it improves its motivating passage without silently changing the other sections.

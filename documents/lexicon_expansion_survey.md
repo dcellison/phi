@@ -53,6 +53,14 @@ Phi has community, council, fairness, justice, responsibility, labor, exchange, 
 
 This is a high-priority gap family because a community cannot discuss a commons only as an ideal. It must be able to discuss allocation, obligations, disagreement, accountability, and institutions that fail. The corpus now includes one scarce-grain allocation and one shared-device accountability scenario with conflicting claims and no assumed authority. Their recurring findings are organized in the zero-new-root [Commons and Collective Governance profile](modules/commons_and_collective_governance.md), which leaves allocation criteria, institutional role, authority, procedure, accountability, and review as evidence-gated gaps rather than coinage proposals.
 
+### Work, craft, and repair
+
+Phi has unusually dense concrete coverage for workshops, tools, materials, making processes, physical qualities, teaching, learning, repair, restoration, and maintenance. Work organization and political economy are much thinner: task, assignment, delegation, supervision, handoff, qualification, inspection, workload, wage, contract, ownership, and final responsibility have no conventional core treatment.
+
+The [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md) and [the wheel, the chisel, and the promised repair](philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) satisfy the evidence gate for a zero-new-root organizational profile. The scenario composes concrete work choices, refusal, inability, learning boundaries, commitment, measurement, and recording while exposing recurring pressure around authority, task structure, competence, exact safety material, inspection, and safe return to use.
+
+This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. Their values must not erase drudgery, coercion, exploitation, unsafe instruction, unwanted labor, or imposed liability. Preserve exact institutional and economic terms where source force matters, describe concrete relations in core Phi, create the profile before proposing vocabulary, and require an independent transformed or non-workshop recurrence before any coinage.
+
 ### Care, access, and bodily autonomy
 
 Phi has medicine, health, healing, sickness, pain, support, protection, agreement, and refusal. It lacks conventional core terms for injury, disease, infection, fever, disability, accessibility, consent, coercion, and abuse. Reproductive health, sexuality, and gender require a deliberate case-by-case decision about core analysis versus marked external material; their absence must never prevent faithful testimony, identity, care, or safety.
