@@ -18,7 +18,7 @@ Use an established compound when the community has already stabilized a transpar
 
 ## Productive Phi-form name
 
-When a bearer accepts one lowercase, two- or three-syllable Phi-shaped token as their name, `ne` licenses it directly. It is not a dictionary word and gains no lexical meaning.
+When a bearer accepts one lowercase, two-, three-, or four-syllable Phi-shaped token as their name, `ne` licenses it directly. It is not a dictionary word and gains no lexical meaning.
 
 ```
 ne samira so shua.
@@ -28,7 +28,7 @@ NAME samira FUT come.
 
 ## Adapted guest
 
-Use `hasha … hasho` when a longer or multi-token name or a term should be pronounceable and renderable in Phi, but should not be mistaken for shared core vocabulary.
+Use `hasha … hasho` when a five-or-more-syllable, multi-token, or explicitly external name or term should be pronounceable and renderable in Phi, but should not be mistaken for shared core vocabulary.
 
 ```
 ne hasha samira kaleno hasho so shua.

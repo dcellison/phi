@@ -12,7 +12,7 @@ NAME EXT.GUEST [samira] EXT.GUEST.CLOSE FUT come.
 (Samira will come.)
 ```
 
-The second line is still valid, but a bearer who accepts `samira` as a single Phi-form name may use the lighter `ne samira so shua.` Productive name-forms have two or three syllables and need no guest boundary. The frame remains necessary for longer or multi-token adaptations and useful when the speaker wishes to mark the form's external provenance explicitly.
+The second line is still valid, but a bearer who accepts `samira` as a single Phi-form name may use the lighter `ne samira so shua.` Productive name-forms have two, three, or four syllables and need no guest boundary. The frame remains necessary for five-or-more-syllable, multi-token, or otherwise non-onym adaptations and useful when the speaker wishes to mark the form's external provenance explicitly.
 
 The payload is lowercase and uses only Phi's consonants, fricative digraphs, and vowels. It begins with an onset, uses open syllables, permits no run of three vowels, and takes penultimate stress. Unlike a core word, it may repeat a syllable; the surrounding frame already protects the lexicon from confusion.
 

@@ -75,7 +75,7 @@ These were explicitly decided and should not silently fork again:
   productive Phi-form onym (`ne samira`), or a complete guest or exact
   frame. An honorific, when present, stands between `ne` and the atom.
 - **Productive Phi-form onyms** (settled 2026-07-10 / Phi 2026.2): a
-  speaker may choose a lowercase, single-token name-form of two or three
+  speaker may choose a lowercase, single-token name-form of two, three, or four
   Phi syllables. It follows ordinary core phonotactics, including open
   syllables, the three-vowel constraint, and no duplicated onset-bearing
   syllable. It need not be a lexicon entry and does not acquire a lexical
@@ -94,7 +94,7 @@ These were explicitly decided and should not silently fork again:
   lowercase everywhere, including gloss lines and English narration.
   Exact external names may preserve source case inside their frame.
   Existing guest and exact name atoms remain valid; the guest frame is
-  useful for multi-token or longer adapted names, while the exact frame is
+  useful for multi-token, five-or-more-syllable, or otherwise non-onym adapted names, while the exact frame is
   used when source spelling, script, or form matters.
 - **The external register** (settled 2026-07-10): Phi has two explicitly bounded ways to carry material that is not core vocabulary. `hasha … hasho` is the adapted guest frame; `patha … patho` is the exact opaque frame. The boundary words are Phi in every mode. Payload never becomes core through use or frequency; adoption requires an explicit later lexicon decision.
 - **Guest payload** (settled 2026-07-10): material inside `hasha … hasho` uses Phi's permitted consonants, digraphs, and vowels; begins with an onset; consists of open syllables; has no sequence of three vowels; stays lowercase; and takes penultimate stress. It may be any length, span several adapted tokens, and repeat a syllable because the frame already prevents lexical confusion. Standalone `hasho` cannot occur in the payload; choose another adaptation. Guest material is renderable in every Phi writing mode but is not checked against the lexicon.

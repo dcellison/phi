@@ -26,7 +26,7 @@ Every syllable is open — a consonant, then a vowel, nothing after. Every vowel
 
 ## You can hear the punctuation
 
-Core Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens the exact Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new two- or three-syllable Phi-form name without adding it to the dictionary. This makes core punctuation recoverable in careful dictation. Advanced Phi also has a visibly and audibly bounded exact register for external spellings, scripts, numbers, and notation; its payload keeps the source form and therefore makes no letter-perfect oral promise.
+Core Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens the exact Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new two-, three-, or four-syllable Phi-form name without adding it to the dictionary. This makes core punctuation recoverable in careful dictation. Advanced Phi also has a visibly and audibly bounded exact register for external spellings, scripts, numbers, and notation; its payload keeps the source form and therefore makes no letter-perfect oral promise.
 
 ## The slowing is the practice
 

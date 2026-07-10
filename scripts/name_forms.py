@@ -2,7 +2,7 @@
 """Productive Phi-form proper names licensed by ``ne``.
 
 Name-forms are deliberately narrower than guest payload: one lowercase
-content-shaped token of two or three ordinary Phi syllables. They are not
+content-shaped token of two through four ordinary Phi syllables. They are not
 lexicon entries, so lexical collision checks do not apply.
 """
 
@@ -61,8 +61,8 @@ def form_errors(word):
     if syllables is None:
         errors.append("cannot be parsed into Phi open syllables")
         return errors
-    if len(syllables) not in (2, 3):
-        errors.append("must contain two or three syllables")
+    if len(syllables) not in (2, 3, 4):
+        errors.append("must contain two, three, or four syllables")
     onset_syllables = [s for s in syllables if len(s) >= 2]
     duplicates = sorted({
         syllable for syllable in onset_syllables

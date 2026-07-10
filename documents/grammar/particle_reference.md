@@ -431,7 +431,7 @@ ne samira shua.
 NAME samira come.
 (samira comes.)
 ```
-**Note**: The atom may be a listed content word, a productive unlisted Phi-form onym, or a complete guest/exact frame. A productive onym is one lowercase token with two or three legal Phi syllables and no duplicated syllable; it is a name only under `ne` and gains no lexicon meaning. Function words and grammatical boundaries are reserved. Formal and neutral speech keep `ne` at every mention. Conversational speech may omit it only after the referent is established and while reference remains unambiguous. An honorific may signal the same name expectation in the established conversational register. The marker applies to all proper designations, not only people.
+**Note**: The atom may be a listed content word, a productive unlisted Phi-form onym, or a complete guest/exact frame. A productive onym is one lowercase token with two, three, or four legal Phi syllables and no duplicated syllable; it is a name only under `ne` and gains no lexicon meaning. Every listed non-content form, including function words and grammatical boundaries, is reserved. Formal and neutral speech keep `ne` at every mention. Conversational speech may omit it only after the referent is established and while reference remains unambiguous. An honorific may signal the same name expectation in the established conversational register. The marker applies to all proper designations, not only people. Validate a proposed form with `python3 scripts/validate_examples.py name FORM`.
 
 ### Honorifics
 

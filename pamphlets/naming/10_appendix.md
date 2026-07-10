@@ -15,7 +15,7 @@
 - Call by name: `kona [ne] [honorific] [name].` By role: `kona [role].` (no `ne`, ever, on a role)
 - The chain order: `kona`, then `ne`, then the honorific, then the name; an honorific present makes `ne` optional.
 - Introduce a content-word name: `[whose] nomei ne [content word] nai.` Example: `mia nomei ne keruko nai.`
-- Introduce a productive name: `[whose] nomei ne [two/three-syllable onym] nai.` Example: `mia nomei ne samira nai.`
+- Introduce a productive name: `[whose] nomei ne [two/three/four-syllable onym] nai.` Example: `mia nomei ne samira nai.`
 - Introduce a bounded external name: `[whose] nomei ne hasha [adapted] hasho nai.` or `[whose] nomei ne patha [exact] patho nai.`
 - Ask: `thia nomei hina nai.` More politely: `pi thia nomei hina nai.`
 - The call alone is a complete utterance: `kona ni moli.`
@@ -23,7 +23,8 @@
 ### The register rules, one line each
 
 - A name atom may be a listed content word, one productive Phi-form onym, or a complete external frame.
-- A productive onym is lowercase, one token, two or three legal Phi syllables, and has no lexicon meaning; function words and boundaries are reserved.
+- A productive onym is lowercase, one token, two, three, or four legal Phi syllables, and has no lexicon meaning; every listed non-content form is strictly reserved.
+- Validate a proposed form with `python3 scripts/validate_examples.py name FORM`; acceptance confirms shape and reservation status, not bearer consent.
 - Formal, neutral, portable, and validated Phi announces every mention; conversation may omit `ne` after the referent is established and while reference remains unambiguous.
 - The primer household's threshold pattern is an optional cultural style built on that discourse license.
 - Keeping `ne` is never cold; dropping it is a license, not a duty.

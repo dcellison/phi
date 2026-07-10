@@ -46,13 +46,13 @@ mia nomei ne samira nai.
 
 `samira` has three legal open syllables, begins with a Phi onset, stays lowercase, and duplicates no syllable. It has no dictionary gloss or part of speech. A bearer may hold personal associations with its sounds, but listeners cannot treat those associations as shared lexical meaning. Outside an established conversational context, bare `samira` is not a Phi word; `ne` is what licenses it as a proper designation.
 
-The charter is deliberately narrow: one token, two or three syllables, ordinary Phi phonotactics, and no duplicated onset-bearing syllable. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
+The charter is deliberately narrow: one token, two, three, or four syllables, ordinary Phi phonotactics, and no duplicated onset-bearing syllable. Four-syllable Phi words already belong to the language, so names receive the same room. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
 
 ## A bounded external name
 
 ### Existing names need not be replaced
 
-A speaker may carry an existing name exactly, choose a single Phi-form onym, or use a longer, multi-token, explicitly external adaptation:
+A speaker may carry an existing name exactly, choose a single Phi-form onym, or use a five-or-more-syllable, multi-token, explicitly external adaptation:
 
 ```
 mia nomei ne patha Amina patho nai.
@@ -64,7 +64,7 @@ mia nomei ne hamina nai.
 (My Phi-form name is hamina.)
 ```
 
-Neither `Amina` nor `hamina` becomes a lexicon word. The exact form preserves the source; the single-token form is available only when the bearer accepts it. A longer adapted form still uses `ne hasha … hasho`.
+Neither `Amina` nor `hamina` becomes a lexicon word. The exact form preserves the source; the single-token form is available only when the bearer accepts it. A five-or-more-syllable or multi-token adapted form still uses `ne hasha … hasho`.
 
 Because Phi-form names are announced rather than capitalized, none outranks the sentence around it. Core and productive names stay lowercase; exact external names may retain source case inside their frame. Part 6 takes up the writing rule.
 

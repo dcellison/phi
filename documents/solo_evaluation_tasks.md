@@ -12,7 +12,7 @@ Create twenty prompts divided evenly among core composition, registered compound
 
 Required prompt domains are personal names, place names, tradition-specific philosophy, source quotation, historical harmful terminology, exact time, medical quantity, scientific notation, URL or identifier, community practice, and a recurring semantic gap.
 
-For the name prompts, include a two-syllable onym, a three-syllable onym, a longer guest adaptation, a multi-token name, an exact non-Latin form, two people sharing one name, and a source name whose preferred adaptation is unknown. Repeat one chosen onym at least ten times in a short narrative and compare its burden with the fully framed guest equivalent.
+For the name prompts, include a two-syllable onym, a three-syllable onym, a four-syllable onym, a five-or-more-syllable guest adaptation, a multi-token name, an exact non-Latin form, two people sharing one name, and a source name whose preferred adaptation is unknown. Repeat one chosen onym at least ten times in a short narrative and compare its burden with the fully framed guest equivalent.
 
 ## 3. Boundary recognition
 
@@ -39,7 +39,7 @@ Read both roles of one dialogue aloud without rehearsal. At each artificial misu
 | Date | Release | Task | Material | Result | Failure or ambiguity | Proposed follow-up |
 |---|---|---|---|---|---|---|
 | 2026-07-10 | 2026.1 candidate | structural regression | new external and philosophy documents | 937 entries; 0 errors; 0 warnings; 15 focused tests passed | no structural failure found | maintainer semantic review |
-| 2026-07-10 | 2026.2 candidate | structural regression | productive name forms | 937 entries; 0 errors; 0 warnings; 9 name-form tests passed | no structural failure found | run repeated-name narrative task |
+| 2026-07-10 | 2026.2 candidate | structural regression | productive name forms | 937 entries; 0 errors; 0 warnings; 12 name-form tests passed | no structural failure found | run repeated-name narrative task |
 | pending | 2026.1 candidate | delayed paraphrase | philosophical corpus | not yet eligible | seven-day delay not elapsed | perform later without viewing translations |
 | pending | 2026.1 candidate | boundary recognition | recorded ABX prompts | no recordings yet | maintainer audio unavailable in repository work | record in a separate session |
 

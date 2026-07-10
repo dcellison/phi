@@ -50,6 +50,8 @@ Usage:
     python3 scripts/validate_examples.py --paths manual/part4_grammar
     python3 scripts/validate_examples.py neighbors WORD # edit-distance-1
                                                         # collision check
+    python3 scripts/validate_examples.py name FORM      # productive onym
+                                                        # charter check
 
 Exit code 0 = no errors (warnings allowed), 1 = errors found.
 """
@@ -238,8 +240,6 @@ def check_word_phonology(word):
 
 def name_atom_errors(token, lexicon_words, content_words):
     """Validate the atom selected by ``ne`` or an honorific."""
-    if token in name_forms.EXTERNAL_OPENERS:
-        return []
     if token in lexicon_words:
         if token in content_words:
             return []
@@ -472,6 +472,8 @@ def check_lexicon(entries):
                 name_indices = name_forms.marked_atom_indices(tokens)
                 for index, t in enumerate(tokens):
                     if index in name_indices:
+                        if t in name_forms.EXTERNAL_OPENERS:
+                            continue
                         atom_errors = name_atom_errors(
                             t, lexicon_words, content_words
                         )
@@ -956,6 +958,8 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                 name_indices = name_forms.marked_atom_indices(tokens)
                 for index, tok in enumerate(tokens):
                     if index in name_indices:
+                        if tok in name_forms.EXTERNAL_OPENERS:
+                            continue
                         atom_errors = name_atom_errors(
                             tok, lexicon_words, content_words
                         )
@@ -1048,6 +1052,32 @@ def neighbors_report(entries, candidate):
     return 1
 
 
+def name_report(entries, candidate):
+    """Validate one proposed productive onym for direct use after ``ne``."""
+    lexicon_words = {data.get("word", "") for _, data in entries}
+    content_words = {
+        data.get("word", "") for rel, data in entries
+        if len(rel.parts) > 1 and rel.parts[1] == "content"
+    }
+    errors = name_atom_errors(candidate, lexicon_words, content_words)
+    if errors:
+        print(f"'{candidate}' is not a valid productive name-form: "
+              f"{'; '.join(errors)}")
+        return 1
+    syllables = name_forms.syllabify(candidate) or []
+    if candidate in content_words:
+        print(
+            f"'{candidate}' is a listed content word and may be borne as "
+            f"a name after ne ({'.'.join(syllables)})."
+        )
+    else:
+        print(
+            f"'{candidate}' is a valid productive name-form after ne "
+            f"({'.'.join(syllables)}); it does not become a lexicon word."
+        )
+    return 0
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -1055,9 +1085,10 @@ def neighbors_report(entries, candidate):
 def main():
     parser = argparse.ArgumentParser(description="Phi language validator")
     parser.add_argument("command", nargs="?", default="check",
-                        choices=["check", "neighbors"],
-                        help="check (default) or neighbors WORD")
-    parser.add_argument("word", nargs="?", help="candidate word for 'neighbors'")
+                        choices=["check", "neighbors", "name"],
+                        help="check (default), neighbors WORD, or name FORM")
+    parser.add_argument("word", nargs="?",
+                        help="candidate for 'neighbors' or 'name'")
     parser.add_argument("--lexicon-only", action="store_true")
     parser.add_argument("--docs-only", action="store_true")
     parser.add_argument("--paths", nargs="*",
@@ -1077,6 +1108,10 @@ def main():
         if not args.word:
             parser.error("neighbors requires a candidate word")
         sys.exit(neighbors_report(entries, args.word))
+    if args.command == "name":
+        if not args.word:
+            parser.error("name requires a candidate form")
+        sys.exit(name_report(entries, args.word))
 
     errors = list(load_errors)
     warnings = []

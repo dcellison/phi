@@ -125,13 +125,14 @@ meaning merely by being chosen.
 ## Productive Name-Form Checklist
 
 - [ ] The bearer or naming community accepts the form
-- [ ] The form is one lowercase token with two or three Phi syllables
+- [ ] The form is one lowercase token with two, three, or four Phi syllables
 - [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no onset-bearing syllable
 - [ ] It is not a function word, interjection, complementizer, or other grammatical boundary
 - [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
 - [ ] It receives no lexicon file, gloss, part of speech, sound-symbolism rationale, pillar claim, or automatic core status
 - [ ] It is not rejected merely for lexical edit-distance proximity; real referential confusion is handled by clarification, as with shared human names
-- [ ] A longer or multi-token adaptation uses `hasha … hasho`; source-exact spelling or script uses `patha … patho`
+- [ ] A five-or-more-syllable, multi-token, or otherwise non-onym adaptation uses `hasha … hasho`; source-exact spelling or script uses `patha … patho`
+- [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it is not a reserved non-content form
 
 ## Grammar Extension Rules
 

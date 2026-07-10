@@ -9,7 +9,7 @@ Two skills interleave throughout. The first is mechanical: placing `ne`, `kona`,
 By the end of this pamphlet, you will:
 
 - Hear the difference between a word and a name at the speed of a single particle
-- Assemble and validate a personal two- or three-syllable Phi-form name without inventing a dictionary meaning for it
+- Assemble and validate a personal two-, three-, or four-syllable Phi-form name without inventing a dictionary meaning for it
 - Introduce yourself with the `nomei` formula, introduce someone else, and ask a name back
 - Call to someone by name, by role, or with nothing but the call itself
 - Choose among `sa`, `ni`, and `le` honestly, or decline all three without coldness
