@@ -5,13 +5,13 @@ Shared attention can identify a separately presented artifact just as it identif
 Source specification outside Phi: `DO NOT MOVE UNTIL INSPECTED`
 
 ```
-ha siranomi ha kirosholu phelu.
+ha siranomi ha kisholu phelu.
 PROX record PROX specification hold.
 (This record contains this specification.)
 ```
 
 ```
-lo mia ha kirosholu thekao.
+lo mia ha kisholu thekao.
 PL 1SG PROX specification acknowledge.
 (We acknowledge this specification.)
 ```

@@ -1,20 +1,19 @@
 {
-  "word": "koemari",
+  "word": "koewi",
   "gloss": "input",
-  "ipa": "/ko̞.e̞.ˈmä.ri/",
+  "ipa": "/ko̞.ˈe̞.wi/",
   "syllables": [
     "ko",
     "e",
-    "ma",
-    "ri"
+    "wi"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Input / Matter, Energy, or Information Entering a System",
   "description": "Matter, energy, information, or another defined influence that crosses into a selected system boundary and is used, transformed, stored, or acted upon by a process. Something is an input only relative to a stated system and analysis; not every arrival, cause, resource, instruction, or human contribution is an input.",
-  "sound_symbolism": "The opening 'koe' echoes inward crossing without copying 'koema' exactly. Grounded 'ma' receives what enters, and clear 'ri' marks it for tracing through the selected process.",
-  "grammatical_notes": "A countable or mass noun, commonly possessed by the receiving system: 'ha phialu ha terulora koemari nai.' (The water is an input to this system.) State source, quantity, and conditions separately when they matter. Deliberately dissimilar from 'thirulo' (output), its conceptual opposite.",
+  "sound_symbolism": "The opening 'ko.e' echoes inward crossing without copying 'koema' (enter) exactly. Relational 'wi' closes by linking the source to the receiving system, keeping input a boundary-relative role rather than a property of the arriving thing itself.",
+  "grammatical_notes": "A countable or mass noun, commonly possessed by the receiving system: 'ha phialu ha terura koewi nai.' (The water is an input to this system.) State source, quantity, and conditions separately when they matter. Deliberately dissimilar from 'thirulo' (output), its conceptual opposite.",
   "pillars": {
     "solarpunk-values": "Naming inputs makes a system's dependence on energy, materials, information, and labor more visible instead of treating operation as self-sustaining.",
     "pre-industrial-wisdom": "Material practice begins by knowing what enters a process, where it came from, and what condition it carries."

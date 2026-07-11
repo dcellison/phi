@@ -16,8 +16,8 @@ The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/par
 - A module word is ordinary Phi vocabulary. Speakers outside the module may ask for a core paraphrase and are not obliged to learn its specialized terms.
 - Exact specifications, units, formulas, identifiers, standards, source instructions, and measurement records remain in source material outside the Phi passage even when a module word identifies their role.
 - Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with [Medical and Bodily Care](medical_and_bodily_care.md), [Accessibility and Participation](accessibility_and_participation.md), [Commons and Collective Governance](commons_and_collective_governance.md), [Household and Daily Life](household_and_daily_life.md), [Ecological Systems and Material Life](ecological_systems_and_material_life.md), and [Work, Craft, and Repair](work_craft_and_repair.md).
-- A person's value, effort, capacity, reliability, or needs are never treated as system metrics by default. The technical senses of `talukori`, `henoraki`, `kolutheri`, and `ketorami` do not license their unmarked application to people.
-- `ketorami` names technical control of a process or variable, not command, coercion, government, ownership, or authority over people.
+- A person's value, effort, capacity, reliability, or needs are never treated as system metrics by default. The technical senses of `takori`, `henora`, `koluri`, and `ketora` do not license their unmarked application to people.
+- `ketora` names technical control of a process or variable, not command, coercion, government, ownership, or authority over people.
 - `theluo` names stewardship, not technical control or command. Listing it as a dependency does not create an infrastructure ruler, owner, operator credential, or public obligation.
 
 ## Shared Core Dependencies
@@ -40,13 +40,13 @@ The first pass admits words for recurrent technical relations whose ordinary par
 
 | Family | Established module words | What the pass now distinguishes |
 |---|---|---|
-| System structure | `terulora` system, `monakeli` component, `norawiso` interface, `kelithora` function, `nomirela` state, `phelorani` depend | System versus collection, network, or device; component versus arbitrary piece; interface versus boundary; function versus purpose; state versus essence; dependency versus cause, entailment, or authority. |
-| Flow and control | `koemari` input, `thirulo` output, `selokaru` transfer, `kiroweli` signal, `ketorami` control, `turekali` feedback | Boundary-relative input and output; source-to-recipient transfer; signal versus sign or evidence; technical control versus causation or command; feedback versus return or recurrence. |
-| Limits and resources | `henoraki` capacity, `talukori` load, `pheluremi` store, `poruseli` efficient | Capacity versus contents or ability; technical load versus labor or burden; storage versus holding or preservation; efficiency versus productivity, goodness, fairness, or sustainability. |
-| Operation and upkeep | `masukiro` calibrate, `keliphira` fault, `thonureki` fail, `seluwhera` outage, `wesopanu` redundant, `nilakiro` inspect, `kolutheri` reliable | Calibration versus measurement; fault versus blame or failure; failure versus breakage; outage versus system destruction; redundancy versus waste; inspection versus approval; reliability versus trust or certainty. |
-| Safety and requirements | `pelomaru` hazard, `kirosholu` specification | Potential source of harm versus present danger or a full risk judgment; explicit technical requirements versus standards, methods, authority, or proof of compliance. |
+| System structure | `terura` system, `monaki` component, `nowiso` interface, `kelitho` function, `mirela` state, `pherami` depend | System versus collection, network, or device; component versus arbitrary piece; interface versus boundary; function versus purpose; state versus essence; dependency versus cause, entailment, or authority. |
+| Flow and control | `koewi` input, `thirulo` output, `sekaru` transfer, `kirowi` signal, `ketora` control, `turelo` feedback | Boundary-relative input and output; source-to-recipient transfer; signal versus sign or evidence; technical control versus causation or command; feedback versus return or recurrence. |
+| Limits and resources | `henora` capacity, `takori` load, `phelure` store, `poruli` efficient | Capacity versus contents or ability; technical load versus labor or burden; storage versus holding or preservation; efficiency versus productivity, goodness, fairness, or sustainability. |
+| Operation and upkeep | `masuro` calibrate, `kiphira` fault, `thonuki` fail, `seluwhe` outage, `wepanu` redundant, `nilaki` inspect, `koluri` reliable | Calibration versus measurement; fault versus blame or failure; failure versus breakage; outage versus system destruction; redundancy versus waste; inspection versus approval; reliability versus trust or certainty. |
+| Safety and requirements | `pemaru` hazard, `kisholu` specification | Potential source of harm versus present danger or a full risk judgment; explicit technical requirements versus standards, methods, authority, or proof of compliance. |
 
-All 25 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `systems-and-shared-infrastructure` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. The deliberately dissimilar `koemari` and `thirulo` forms keep the natural opposite pair input and output acoustically separate.
+All 25 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `systems-and-shared-infrastructure` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. The deliberately dissimilar `koewi` and `thirulo` forms keep the natural opposite pair input and output acoustically separate.
 
 ## Concepts Kept Compositional
 
@@ -54,28 +54,28 @@ The pass keeps several expressions compositional because their parts expose anal
 
 | Concept | Phi strategy | Rationale |
 |---|---|---|
-| System boundary | `terulora norui` | Keeps the selected system and the act of drawing its limit visible. |
-| Subsystem | `monakeli terulora`, component system | Shows that a system is being treated as a component at another scale. |
-| Shared infrastructure | `sila panoru terulora`, community-support system | Keeps the supported community and supporting function visible instead of treating infrastructure as a neutral object or automatic public good. |
-| Infrastructure service | `panoru kelithora`, support function | Identifies the function provided without silently asserting ownership, authority, entitlement, or adequate access. |
-| Pathway | `selu shoeka` plus explicit source, goal, and `selokaru` clauses | Prevents a route label from silently claiming direction, continuity, conservation, or cause. |
-| Technical threshold | `masue maewo` or `kirosholu maewo`, with the exact value in a separate source record | Reuses the existing transition point while requiring speakers to identify what is measured and what changes at the threshold. |
-| Tolerance | `kirosholu norui` plus an exact range | Keeps a permitted boundary tied to a particular specification instead of making tolerance an undefined virtue. |
+| System boundary | `terura norui` | Keeps the selected system and the act of drawing its limit visible. |
+| Subsystem | `monaki terura`, component system | Shows that a system is being treated as a component at another scale. |
+| Shared infrastructure | `sila panoru terura`, community-support system | Keeps the supported community and supporting function visible instead of treating infrastructure as a neutral object or automatic public good. |
+| Infrastructure service | `panoru kelitho`, support function | Identifies the function provided without silently asserting ownership, authority, entitlement, or adequate access. |
+| Pathway | `selu shoeka` plus explicit source, goal, and `sekaru` clauses | Prevents a route label from silently claiming direction, continuity, conservation, or cause. |
+| Technical threshold | `masue maewo` or `kisholu maewo`, with the exact value in a separate source record | Reuses the existing transition point while requiring speakers to identify what is measured and what changes at the threshold. |
+| Tolerance | `kisholu norui` plus an exact range | Keeps a permitted boundary tied to a particular specification instead of making tolerance an undefined virtue. |
 | Maintenance interval | `thiranu mosha`, maintenance period | States the repeated upkeep activity and its duration directly. |
-| Service state | `kelithora nomirela`, function state | Keeps availability, degradation, interruption, and approval as separate claims about a function. |
-| Failure mode | `thonureki norelu`, failure form | Names how a required function can fail without treating the mode as its cause. |
-| Compliance | `kirosholu heno`, satisfy a specification | Says which stated requirements are met without silently granting legitimacy, authority, certification, or safety. |
+| Service state | `kelitho mirela`, function state | Keeps availability, degradation, interruption, and approval as separate claims about a function. |
+| Failure mode | `thonuki norelu`, failure form | Names how a required function can fail without treating the mode as its cause. |
+| Compliance | `kisholu heno`, satisfy a specification | Says which stated requirements are met without silently granting legitimacy, authority, certification, or safety. |
 | Standard, formula, exact conversion, and feedforward terminology | Preserve the source artifact outside the Phi passage, then explain criteria and relations in core or module Phi | Exact identity, version, notation, and source authority matter more than an approximate lexical substitution. |
 | Ownership, operator authority, allocation, public obligation, and accountability | Use Commons terms such as `phelunori`, `kanorami`, `phanokelu`, `naserumi`, and `lonathoni`, with Work terms or explicit clauses where the labor relation matters | A technical role or system relation must not settle social authority, legitimacy, obligation, or responsibility. |
 
 ## Scenario Connections
 
-- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) can now identify a `terulora`, its `monakeli` components, `koemari` input, `thirulo` output, `nomirela` state, `kiroweli` signal, `ketorami` control, and `turekali` feedback while retaining the exact voltage in a separate source record.
-- [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can distinguish stored energy with `pheluremi`, `henoraki` capacity, `talukori` load, `poruseli` efficiency, and `kolutheri` reliability without treating any favorable metric as proof that the design is good or sufficient.
-- [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) can use `norawiso` for a person-device or route-system interface, but accessibility, consent, communication format, and participation remain independent claims.
-- [The marker that was not reported](../philosophical_test_corpus.md#12-the-marker-that-was-not-reported) can distinguish a `keliphira` fault, `thonureki` failure, `seluwhera` outage, `pelomaru` hazard, `nilakiro` inspection, and `kirosholu` specification, while Commons terms now name notice, authority, obligation, accountability, records, redress, and review; repair labor, competence, approval, and safe return remain unresolved.
-- [The river above and below the workshop](../philosophical_test_corpus.md#13-the-river-above-and-below-the-workshop) can trace `koemari`, `thirulo`, and `selokaru` relations and name a `pelomaru` hazard, but ecological pathways, exposure, pollution, source attribution, and responsibility remain separate analyses.
-- [The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) can use `nilakiro`, `kirosholu`, `keliphira`, `thonureki`, and `kolutheri` while keeping inspection, repair, specification, demonstrated function, approval, and safe return to use distinct.
+- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) can now identify a `terura`, its `monaki` components, `koewi` input, `thirulo` output, `mirela` state, `kirowi` signal, `ketora` control, and `turelo` feedback while retaining the exact voltage in a separate source record.
+- [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can distinguish stored energy with `phelure`, `henora` capacity, `takori` load, `poruli` efficiency, and `koluri` reliability without treating any favorable metric as proof that the design is good or sufficient.
+- [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) can use `nowiso` for a person-device or route-system interface, but accessibility, consent, communication format, and participation remain independent claims.
+- [The marker that was not reported](../philosophical_test_corpus.md#12-the-marker-that-was-not-reported) can distinguish a `kiphira` fault, `thonuki` failure, `seluwhe` outage, `pemaru` hazard, `nilaki` inspection, and `kisholu` specification, while Commons terms now name notice, authority, obligation, accountability, records, redress, and review; repair labor, competence, approval, and safe return remain unresolved.
+- [The river above and below the workshop](../philosophical_test_corpus.md#13-the-river-above-and-below-the-workshop) can trace `koewi`, `thirulo`, and `sekaru` relations and name a `pemaru` hazard, but ecological pathways, exposure, pollution, source attribution, and responsibility remain separate analyses.
+- [The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) can use `nilaki`, `kisholu`, `kiphira`, `thonuki`, and `koluri` while keeping inspection, repair, specification, demonstrated function, approval, and safe return to use distinct.
 
 The original dialogues remain valid before-state regression texts; they need not be rewritten merely to display the new words. New systems prose should use the module naturally and revise any term whose scope, sound, or composition feels inadequate.
 
@@ -87,7 +87,7 @@ Use an existing word, transparent expression, module term, or fully admitted new
 
 A separately presented term may introduce a concept, but the Phi analysis must still state the relevant system, boundary, components, variables, conditions, evidence, and consequences. Preservation does not prove that the speaker has explained the system, interpreted a reading correctly, or established authority to act.
 
-Exact content remains outside the Phi passage: `kirosholu` identifies a specification as a role, while a separate source record preserves its actual values, notation, wording, identifier, and version. Likewise, `masukiro` names calibration without replacing its reference record, and `nilakiro` names inspection without replacing its criteria or findings.
+Exact content remains outside the Phi passage: `kisholu` identifies a specification as a role, while a separate source record preserves its actual values, notation, wording, identifier, and version. Likewise, `masuro` names calibration without replacing its reference record, and `nilaki` names inspection without replacing its criteria or findings.
 
 ## Continued Development
 

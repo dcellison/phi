@@ -1,10 +1,9 @@
 {
-  "word": "talukori",
+  "word": "takori",
   "gloss": "load",
-  "ipa": "/t̪ä.lu.ˈko̞.ri/",
+  "ipa": "/t̪ä.ˈko̞.ri/",
   "syllables": [
     "ta",
-    "lu",
     "ko",
     "ri"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Load / Demand Placed on a Technical System",
   "description": "A quantity or rate of demand placed on a component or system for support, processing, transmission, energy, or another specified function. Load is measured relative to a function, time, and condition and may be below, within, or above capacity. The word does not unmarkedly describe a person's labor, distress, obligation, moral burden, cargo, or body weight.",
-  "sound_symbolism": "Grounded 'ta' places a definite demand, 'lu' gives it duration, and firm 'kori' bears against the receiving structure. The word has weight without borrowing the language of burden for people.",
-  "grammatical_notes": "A countable or mass noun: 'ha talukori ha henoraki sharoi.' (This load exceeds the capacity.) Name the affected system and relevant function where context does not supply them. Distinct from 'riola' (labor), 'kolua' (carry), 'puro' (strength), and emotional or imposed human burdens.",
+  "sound_symbolism": "Grounded 'ta' places a definite demand. Firm 'ko' gives that demand weight against the receiving structure, and 'ri' carries it through the stated function and interval. The word has technical weight without borrowing the language of burden for people.",
+  "grammatical_notes": "A countable or mass noun: 'ha takori ha henora sharoi.' (This load exceeds the capacity.) Name the affected system and relevant function where context does not supply them. Distinct from 'riola' (labor), 'kolua' (carry), 'puro' (strength), and emotional or imposed human burdens.",
   "pillars": {
     "solarpunk-values": "Comparing load with capacity supports realistic shared planning and exposes when infrastructure is being asked to provide more than its stated conditions allow.",
     "peace-linguistics-practices": "The specialist definition avoids reducing people, care needs, or labor to anonymous technical load."

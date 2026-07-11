@@ -1,20 +1,19 @@
 {
-  "word": "pheluremi",
+  "word": "phelure",
   "gloss": "store",
-  "ipa": "/ɸe̞.lu.ˈre̞.mi/",
+  "ipa": "/ɸe̞.ˈlu.re̞/",
   "syllables": [
     "phe",
     "lu",
-    "re",
-    "mi"
+    "re"
   ],
   "pos": [
     "verb"
   ],
   "concept": "Store / Retain for Later Retrieval or Release",
   "description": "To retain matter, energy, or information within a defined arrangement so it can be retrieved, transferred, or released later. The event-noun rule supplies storage as the process or provision. Storing does not establish preservation, security, ownership, capacity, recoverability, or that the stored material remains unchanged.",
-  "sound_symbolism": "Breathy 'phe' receives what arrives, 'lu' holds it through time, and 'remi' gathers it into an ordered reserve. The open vowels keep storage from sounding like permanent closure.",
-  "grammatical_notes": "A transitive verb: 'ha terulora kenua pheluremi.' (This system stores energy.) State duration, location, capacity, losses, and retrieval conditions separately when they matter. The event-noun rule supplies storage; distinct from 'phelu' (hold), 'nelore' (preserve), 'nomira' (collect), and 'thinu' (put).",
+  "sound_symbolism": "The complete opening 'phelu' (hold) retains what arrives through time, while final 're' keeps it in relation to later retrieval, transfer, or release. The open vowels keep storage from sounding like permanent closure or guaranteed preservation.",
+  "grammatical_notes": "A transitive verb: 'ha terura kenua phelure.' (This system stores energy.) State duration, location, capacity, losses, and retrieval conditions separately when they matter. The event-noun rule supplies storage; distinct from 'phelu' (hold), 'nelore' (preserve), 'nomira' (collect), and 'thinu' (put).",
   "pillars": {
     "solarpunk-values": "Storage vocabulary supports discussion of intermittent energy, water reserves, shared records, loss, and later access without treating accumulation as inherently good.",
     "pre-industrial-wisdom": "Seasonal stores and maintained reserves join present work to future need while requiring attention to condition and retrieval."

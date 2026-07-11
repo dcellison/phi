@@ -1,20 +1,19 @@
 {
-  "word": "phelorani",
+  "word": "pherami",
   "gloss": "depend",
-  "ipa": "/ɸe̞.lo̞.ˈrä.n̪i/",
+  "ipa": "/ɸe̞.ˈrä.mi/",
   "syllables": [
     "phe",
-    "lo",
     "ra",
-    "ni"
+    "mi"
   ],
   "pos": [
     "verb"
   ],
   "concept": "Depend / Require Another Condition or Component for Function",
   "description": "For a component, system, function, or state to require another component, resource, condition, or process in order to occur or remain as specified. The event-noun rule supplies dependency. Dependence may be one-way or mutual and does not by itself establish cause, control, ownership, logical entailment, emotional reliance, or human inferiority.",
-  "sound_symbolism": "Breathy 'phe' opens as a need rather than a command, 'lo' reaches toward relation, and grounded 'rani' holds one condition against another. The length discourages collapsing dependence into a simple arrow or hierarchy.",
-  "grammatical_notes": "A transitive verb with the dependent system as subject and the required element as object: 'ha terulora ra monakeli phelorani.' (This system depends on that component.) The event-noun rule supplies dependency. Distinct from 'phelona' (require or need), 'natheri' (entail), 'ka' (cause), and 'theomi' (trust).",
+  "sound_symbolism": "Breathy 'phe' opens as a need rather than a command. 'Ra' grounds the required condition, and 'mi' binds that condition into the analyzed whole. The soft opening and inward close describe dependence without turning the relation into a hierarchy.",
+  "grammatical_notes": "A transitive verb with the dependent system as subject and the required element as object: 'ha terura ra monaki pherami.' (This system depends on that component.) The event-noun rule supplies dependency. Distinct from 'phelona' (require or need), 'natheri' (entail), 'ka' (cause), and 'theomi' (trust).",
   "pillars": {
     "solarpunk-values": "Visible dependencies help communities understand shared infrastructure, hidden resource needs, and points where care or alternatives are required.",
     "peace-linguistics-practices": "The definition keeps technical dependence separate from diminished personhood, obedience, or a claim that one participant controls another."

@@ -33,7 +33,7 @@
 | `hemilo` | honey | /he̞.ˈmi.lo̞/ | noun |
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
 | `henoi` | ENOUGH | /he̞.ˈn̪o̞.i/ | quantifier |
-| `henoraki` | capacity | /he̞.n̪o̞.ˈrä.ki/ | noun |
+| `henora` | capacity | /he̞.ˈn̪o̞.rä/ | noun |
 | `heru` | herb | /ˈhe̞.ru/ | noun |
 | `hesura` | ash | /he̞.ˈsu.rä/ | noun |
 | `hewe` | wipe | /ˈhe̞.we̞/ | verb |
@@ -88,8 +88,7 @@
 | `kela` | rejoice | /ˈke̞.lä/ | verb |
 | `kelai` | equals | /ke̞.ˈlä.i/ | verb |
 | `keli` | device | /ˈke̞.li/ | noun |
-| `keliphira` | fault | /ke̞.li.ˈɸi.rä/ | noun |
-| `kelithora` | function | /ke̞.li.ˈθo̞.rä/ | verb |
+| `kelitho` | function | /ke̞.ˈli.θo̞/ | verb |
 | `kelo` | frame | /ˈke̞.lo̞/ | noun |
 | `keloa` | rough | /ke̞.ˈlo̞.ä/ | adjective |
 | `keloe` | companion | /ke̞.ˈlo̞.e̞/ | noun |
@@ -115,10 +114,11 @@
 | `kesu` | determined | /ˈke̞.su/ | adjective |
 | `kethira` | infer | /ke̞.ˈθi.rä/ | verb |
 | `kethua` | hard | /ke̞.ˈθu.ä/ | adjective |
-| `ketorami` | control | /ke̞.t̪o̞.ˈrä.mi/ | verb |
+| `ketora` | control | /ke̞.ˈt̪o̞.rä/ | verb |
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun |
+| `kiphira` | fault | /ki.ˈɸi.rä/ | noun |
 | `kipona` | pain | /ki.ˈpo̞.n̪ä/ | noun |
 | `kira` | key | /ˈki.rä/ | noun |
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
@@ -127,24 +127,24 @@
 | `kirethua` | legitimate | /ki.re̞.ˈθu.ä/ | adjective |
 | `kiro` | precise | /ˈki.ro̞/ | adjective |
 | `kiroa` | sign | /ki.ˈro̞.ä/ | noun |
-| `kirosholu` | specification | /ki.ro̞.ˈʃo̞.lu/ | noun |
 | `kirothe` | define | /ki.ˈro̞.θe̞/ | verb |
-| `kiroweli` | signal | /ki.ro̞.ˈwe̞.li/ | noun |
+| `kirowi` | signal | /ki.ˈro̞.wi/ | noun |
 | `kiru` | chisel | /ˈki.ru/ | noun |
 | `kirua` | sand | /ki.ˈru.ä/ | noun |
+| `kisholu` | specification | /ki.ˈʃo̞.lu/ | noun |
 | `kishu` | thirsty | /ˈki.ʃu/ | adjective |
 | `kithela` | valid | /ki.ˈθe̞.lä/ | adjective |
 | `kiwate` | bite | /ki.ˈwä.t̪e̞/ | verb |
 | `ko` | FOC | /ˈko̞/ | particle |
 | `koema` | enter | /ko̞.ˈe̞.mä/ | verb |
-| `koemari` | input | /ko̞.e̞.ˈmä.ri/ | noun |
+| `koewi` | input | /ko̞.ˈe̞.wi/ | noun |
 | `kohura` | noise | /ko̞.ˈhu.rä/ | noun |
 | `kolai` | pigment | /ko̞.ˈlä.i/ | noun |
 | `kolo` | equal | /ˈko̞.lo̞/ | adjective |
 | `kolu` | steady | /ˈko̞.lu/ | adjective |
 | `kolua` | carry | /ko̞.ˈlu.ä/ | verb |
 | `koluma` | unite | /ko̞.ˈlu.mä/ | verb |
-| `kolutheri` | reliable | /ko̞.lu.ˈθe̞.ri/ | adjective |
+| `koluri` | reliable | /ko̞.ˈlu.ri/ | adjective |
 | `koma` | head | /ˈko̞.mä/ | noun |
 | `kona` | VOC | /ˈko̞.n̪ä/ | vocative |
 | `korei` | fulfill | /ko̞.ˈre̞.i/ | verb |
@@ -273,7 +273,7 @@
 | `manolu` | stay | /mä.ˈn̪o̞.lu/ | verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
 | `masue` | measure | /mä.ˈsu.e̞/ | verb |
-| `masukiro` | calibrate | /mä.su.ˈki.ro̞/ | verb |
+| `masuro` | calibrate | /mä.ˈsu.ro̞/ | verb |
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
 | `mawokelu` | abstain | /mä.wo̞.ˈke̞.lu/ | verb |
 | `mea` | thanks | /ˈme̞.ä/ | interjection |
@@ -304,6 +304,7 @@
 | `mioru` | beauty | /mi.ˈo̞.ru/ | noun |
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
+| `mirela` | state | /mi.ˈre̞.lä/ | noun |
 | `mirulo` | berry | /mi.ˈru.lo̞/ | noun |
 | `misa` | why | /ˈmi.sä/ | interrogative |
 | `misheko` | cat | /mi.ˈʃe̞.ko̞/ | noun |
@@ -326,7 +327,7 @@
 | `molu` | container | /ˈmo̞.lu/ | noun |
 | `moluki` | transform | /mo̞.ˈlu.ki/ | verb |
 | `monae` | integral | /mo̞.ˈn̪ä.e̞/ | adjective |
-| `monakeli` | component | /mo̞.n̪ä.ˈke̞.li/ | noun |
+| `monaki` | component | /mo̞.ˈn̪ä.ki/ | noun |
 | `monelu` | amused | /mo̞.ˈn̪e̞.lu/ | adjective |
 | `mophi` | wool | /ˈmo̞.ɸi/ | noun |
 | `mophira` | sheep | /mo̞.ˈɸi.rä/ | noun |
@@ -396,7 +397,7 @@
 | `ni` | HON.INTIM | /ˈn̪i/ | particle |
 | `nia` | ON | /ˈn̪i.ä/ | preposition |
 | `nila` | see | /ˈn̪i.lä/ | verb |
-| `nilakiro` | inspect | /n̪i.lä.ˈki.ro̞/ | verb |
+| `nilaki` | inspect | /n̪i.ˈlä.ki/ | verb |
 | `nilua` | shy | /n̪i.ˈlu.ä/ | adjective |
 | `nira` | cord | /ˈn̪i.rä/ | noun |
 | `nireku` | insect | /n̪i.ˈre̞.ku/ | noun |
@@ -419,7 +420,6 @@
 | `nomi` | present | /ˈn̪o̞.mi/ | noun |
 | `nomira` | collect | /n̪o̞.ˈmi.rä/ | verb |
 | `nomiraki` | concentration | /n̪o̞.mi.ˈrä.ki/ | noun |
-| `nomirela` | state | /n̪o̞.mi.ˈre̞.lä/ | noun |
 | `nophae` | nose | /n̪o̞.ˈɸä.e̞/ | noun |
 | `nophe` | ABST.CLF | /ˈn̪o̞.ɸe̞/ | classifier |
 | `nophei` | loyal | /n̪o̞.ˈɸe̞.i/ | adjective |
@@ -427,7 +427,6 @@
 | `norae` | method | /n̪o̞.ˈrä.e̞/ | noun |
 | `norathume` | procedure | /n̪o̞.rä.ˈθu.me̞/ | noun |
 | `norawhi` | dusk | /n̪o̞.ˈrä.ʍi/ | noun |
-| `norawiso` | interface | /n̪o̞.rä.ˈwi.so̞/ | noun |
 | `norea` | soul | /n̪o̞.ˈre̞.ä/ | noun |
 | `norelu` | form | /n̪o̞.ˈre̞.lu/ | verb |
 | `norethi` | confident | /n̪o̞.ˈre̞.θi/ | adjective |
@@ -439,6 +438,7 @@
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
 | `nowae` | awaken | /n̪o̞.ˈwä.e̞/ | verb |
 | `nowhu` | cave | /ˈn̪o̞.ʍu/ | noun |
+| `nowiso` | interface | /n̪o̞.ˈwi.so̞/ | noun |
 | `nu` | ORD | /ˈn̪u/ | particle |
 | `nua` | COM | /ˈn̪u.ä/ | preposition |
 | `nuawe` | together | /n̪u.ˈä.we̞/ | adjective |
@@ -481,7 +481,6 @@
 | `pelio` | arm | /pe̞.ˈli.o̞/ | noun |
 | `pelokira` | toxic | /pe̞.lo̞.ˈki.rä/ | adjective |
 | `peloma` | harmful | /pe̞.ˈlo̞.mä/ | adjective |
-| `pelomaru` | hazard | /pe̞.lo̞.ˈmä.ru/ | noun |
 | `pelorawi` | expose | /pe̞.lo̞.ˈrä.wi/ | verb |
 | `pelori` | bird | /pe̞.ˈlo̞.ri/ | noun |
 | `peloru` | flower | /pe̞.ˈlo̞.ru/ | noun |
@@ -489,6 +488,7 @@
 | `pelowa` | meadow | /pe̞.ˈlo̞.wä/ | noun |
 | `pelua` | paper | /pe̞.ˈlu.ä/ | noun |
 | `pelui` | cold | /pe̞.ˈlu.i/ | adjective |
+| `pemaru` | hazard | /pe̞.ˈmä.ru/ | noun |
 | `perola` | rose | /pe̞.ˈro̞.lä/ | noun |
 | `pesa` | push | /ˈpe̞.sä/ | verb |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
@@ -519,12 +519,11 @@
 | `pheloma` | serve | /ɸe̞.ˈlo̞.mä/ | verb |
 | `phelona` | require | /ɸe̞.ˈlo̞.n̪ä/ | verb |
 | `phelora` | beautiful | /ɸe̞.ˈlo̞.rä/ | adjective |
-| `phelorani` | depend | /ɸe̞.lo̞.ˈrä.n̪i/ | verb |
 | `phelu` | hold | /ˈɸe̞.lu/ | verb |
 | `phelui` | word | /ɸe̞.ˈlu.i/ | noun |
 | `pheluka` | lightning | /ɸe̞.ˈlu.kä/ | noun |
 | `phelunori` | ownership | /ɸe̞.lu.ˈn̪o̞.ri/ | noun |
-| `pheluremi` | store | /ɸe̞.lu.ˈre̞.mi/ | verb |
+| `phelure` | store | /ɸe̞.ˈlu.re̞/ | verb |
 | `phemi` | guest | /ˈɸe̞.mi/ | noun |
 | `phemila` | host | /ɸe̞.ˈmi.lä/ | noun |
 | `phena` | kind | /ˈɸe̞.n̪ä/ | adjective |
@@ -532,6 +531,7 @@
 | `phenui` | thoughtful | /ɸe̞.ˈn̪u.i/ | adjective |
 | `pheo` | POST | /ˈɸe̞.o̞/ | conjunction |
 | `pheralu` | rain | /ɸe̞.ˈrä.lu/ | noun |
+| `pherami` | depend | /ɸe̞.ˈrä.mi/ | verb |
 | `phero` | fern | /ˈɸe̞.ro̞/ | noun |
 | `pheru` | endure | /ˈɸe̞.ru/ | verb |
 | `phesua` | inspire | /ɸe̞.ˈsu.ä/ | verb |
@@ -594,7 +594,7 @@
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun |
-| `poruseli` | efficient | /po̞.ru.ˈse̞.li/ | adjective |
+| `poruli` | efficient | /po̞.ˈru.li/ | adjective |
 | `pothu` | stink | /ˈpo̞.θu/ | verb |
 | `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
 | `pukate` | break | /pu.ˈkä.t̪e̞/ | verb |
@@ -659,12 +659,12 @@
 | `saphei` | shallow | /sä.ˈɸe̞.i/ | adjective |
 | `sawa` | wash | /ˈsä.wä/ | verb |
 | `se` | PASS | /ˈse̞/ | particle |
+| `sekaru` | transfer | /se̞.ˈkä.ru/ | verb |
 | `seloi` | insightful | /se̞.ˈlo̞.i/ | adjective |
-| `selokaru` | transfer | /se̞.lo̞.ˈkä.ru/ | verb |
 | `selomi` | weave | /se̞.ˈlo̞.mi/ | verb |
 | `selu` | flow | /ˈse̞.lu/ | verb |
 | `selua` | aware | /se̞.ˈlu.ä/ | adjective |
-| `seluwhera` | outage | /se̞.lu.ˈʍe̞.rä/ | noun |
+| `seluwhe` | outage | /se̞.ˈlu.ʍe̞/ | noun |
 | `sena` | pattern | /ˈse̞.n̪ä/ | noun |
 | `senao` | same | /se̞.ˈn̪ä.o̞/ | adjective |
 | `seniku` | smile | /se̞.ˈn̪i.ku/ | verb |
@@ -789,9 +789,9 @@
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |
 | `ta` | one | /ˈt̪ä/ | numeral |
+| `takori` | load | /t̪ä.ˈko̞.ri/ | noun |
 | `talome` | restore | /t̪ä.ˈlo̞.me̞/ | verb |
 | `talua` | shoulder | /t̪ä.ˈlu.ä/ | noun |
-| `talukori` | load | /t̪ä.lu.ˈko̞.ri/ | noun |
 | `tapu` | close | /ˈt̪ä.pu/ | verb |
 | `tawi` | count | /ˈt̪ä.wi/ | verb |
 | `tawimo` | foolish | /t̪ä.ˈwi.mo̞/ | adjective |
@@ -808,7 +808,7 @@
 | `tenoa` | tool | /t̪e̞.ˈn̪o̞.ä/ | noun |
 | `teo` | watch out | /ˈt̪e̞.o̞/ | interjection |
 | `teru` | process | /ˈt̪e̞.ru/ | verb |
-| `terulora` | system | /t̪e̞.ru.ˈlo̞.rä/ | noun |
+| `terura` | system | /t̪e̞.ˈru.rä/ | noun |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |
 | `thaemo` | precious | /θä.ˈe̞.mo̞/ | adjective |
@@ -890,7 +890,7 @@
 | `thona` | ADVRS | /ˈθo̞.n̪ä/ | conjunction |
 | `thonai` | responsible | /θo̞.ˈn̪ä.i/ | adjective |
 | `thonua` | scholar | /θo̞.ˈn̪u.ä/ | noun |
-| `thonureki` | fail | /θo̞.n̪u.ˈre̞.ki/ | verb |
+| `thonuki` | fail | /θo̞.ˈn̪u.ki/ | verb |
 | `thophe` | sow | /ˈθo̞.ɸe̞/ | verb |
 | `thorae` | facilitator | /θo̞.ˈrä.e̞/ | noun |
 | `thorai` | bless | /θo̞.ˈrä.i/ | verb |
@@ -943,9 +943,9 @@
 | `tumoa` | heavy | /t̪u.ˈmo̞.ä/ | adjective |
 | `tupi` | jump | /ˈt̪u.pi/ | verb |
 | `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
-| `turekali` | feedback | /t̪u.re̞.ˈkä.li/ | noun |
 | `turekelu` | recycle | /t̪u.re̞.ˈke̞.lu/ | verb |
 | `turekiro` | review | /t̪u.re̞.ˈki.ro̞/ | verb |
+| `turelo` | feedback | /t̪u.ˈre̞.lo̞/ | noun |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb |
 | `wa` | Q | /ˈwä/ | particle |
 | `waeli` | conscious | /wä.ˈe̞.li/ | adjective |
@@ -981,13 +981,13 @@
 | `wenola` | collaborate | /we̞.ˈn̪o̞.lä/ | verb |
 | `wenu` | tonic | /ˈwe̞.n̪u/ | noun |
 | `weoli` | reed | /we̞.ˈo̞.li/ | noun |
+| `wepanu` | redundant | /we̞.ˈpä.n̪u/ | adjective |
 | `wepu` | go | /ˈwe̞.pu/ | verb |
 | `wero` | honest | /ˈwe̞.ro̞/ | adjective |
 | `weru` | poet | /ˈwe̞.ru/ | noun |
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
 | `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective |
-| `wesopanu` | redundant | /we̞.so̞.ˈpä.n̪u/ | adjective |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
 | `whakeru` | object | /ʍä.ˈke̞.ru/ | verb |
