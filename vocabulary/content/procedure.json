@@ -1,0 +1,29 @@
+{
+  "word": "norathume",
+  "gloss": "procedure",
+  "ipa": "/n̪o̞.rä.ˈθu.me̞/",
+  "syllables": [
+    "no",
+    "ra",
+    "thu",
+    "me"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Procedure / Specified Ordered Process for Collective Action",
+  "description": "A specified and repeatable organization of actions, participants, roles, timing, decision conditions, records, and possible review used to conduct a collective or institutional matter. A procedure may be followed, changed, contested, inaccessible, incomplete, or applied differently in practice. The word does not mean a method in general, one meeting, the actual performance, a result, compliance, fairness, legitimacy, or source-specific legal procedure.",
+  "sound_symbolism": "Method-bearing 'norae' is carried through temporal 'thimu', giving collective action an order that can be inspected rather than an invisible ritual. The four syllables make room for entry, sequence, closure, and review.",
+  "grammatical_notes": "A countable noun: 'ha norathume lo phoa phelu.' (This procedure has actions.) State participants, sequence, decision rule, records, exceptions, and review where relevant. Distinct from 'norae' (method), 'teru' (process), 'lona' (meeting), custom, exact legal procedure, and proof that the procedure was followed.",
+  "pillars": {
+    "solarpunk-values": "Visible procedures help shared institutions distribute participation, labor, records, and revision without depending on opaque custom or charismatic authority.",
+    "peace-linguistics-practices": "A named procedure lets speakers separate fair access and meaningful voice from mere formal completion of steps."
+  },
+  "tags": {
+    "activity": "an ordered and specified collective process",
+    "community": "a governance procedure with participants and decision conditions"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

@@ -45,6 +45,8 @@ The established [Systems and Shared Infrastructure module](systems_and_shared_in
 
 The established [Philosophical Reasoning module](philosophical_reasoning.md) supplies claims, evidence, reasons, inference, validity, contradiction, definition, criteria, doubt, confidence, tradeoffs, and compromise. These terms help examine ecological conclusions without making an evidential, exact value, model, trend, community decision, or preferred value prove the conclusion.
 
+The established [Commons and Collective Governance module](commons_and_collective_governance.md) supplies membership, representation, institutions, roles, authority, authorization, jurisdiction, legitimacy, rules, procedures, decisions, allocation, entitlement, ownership, obligation, accountability, records, review, coercion, and retaliation. Ecological speakers may use these terms to examine land, water, resource, pollution, monitoring, and restoration decisions, but governance vocabulary does not make an ecological claim valid or an intervention effective.
+
 ## First Vocabulary Pass
 
 The first pass admits words for recurring ecological distinctions whose ordinary paraphrases would be cumbersome, ambiguous, or unable to make the relation itself available for sustained discussion. Four-syllable forms are used freely for broad or internally layered concepts. The pass does not attempt to minimize coinage, and its choices may be revised through ecological writing, observation, land and water discussion, or material practice.
@@ -85,7 +87,7 @@ The pass keeps several expressions compositional because their parts expose scop
 | Forecast | `wireo nomirela kethira`, infer a future state, with model, evidence, and uncertainty stated | Exposes prediction as an inference rather than a guaranteed future. |
 | Monitoring interval | `somethiru mosha` | Names the monitoring practice and its period without hiding duration or frequency. |
 | Precaution | State the possible `pelomaru` hazard, uncertainty, limited protective action, burdens, refusal, and review | Keeps precaution as a reasoned practice rather than a word that automatically authorizes intervention. |
-| Environmental justice, land or water authority, rights, and restoration obligations | Use Commons and Philosophical Reasoning resources with exact source terms where needed | Ecological terminology must not settle authority, entitlement, remedy, or justice by itself. |
+| Environmental justice, land or water authority, rights, and restoration obligations | Use Commons terms for `kanorami` authority, `noruwela` jurisdiction, `sherenori` entitlement, `naserumi` obligation, `lonathoni` accountability, and `helokelu` redress with Philosophical Reasoning resources and exact source terms | Ecological terminology must not settle legitimacy, rights, remedy, responsibility, or justice by itself. |
 
 ## Scenario Connections
 

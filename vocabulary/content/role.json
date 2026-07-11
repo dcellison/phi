@@ -1,0 +1,29 @@
+{
+  "word": "silathora",
+  "gloss": "role",
+  "ipa": "/si.lä.ˈθo̞.rä/",
+  "syllables": [
+    "si",
+    "la",
+    "tho",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Role / Defined Position in a Group or Institution",
+  "description": "A defined social or institutional position associated with stated functions, permissions, obligations, relationships, selection conditions, and duration. A role may be temporary, rotating, shared, informal, elected, appointed, inherited, or contested. The word does not mean the person holding it, a source-specific office title, competence, employment, authority, responsibility for every outcome, or moral worth.",
+  "sound_symbolism": "Community 'sila' meets the process-enabling resonance of 'thora', locating a position within collective activity rather than inside a person's essence. The balanced cadence allows a role to be entered, shared, and left.",
+  "grammatical_notes": "A countable noun: 'lo mia ha silathora kirothe.' (We define this role.) State holder, selection, functions, permissions, obligations, term, and handoff where needed. Distinct from 'kelithora' (technical function), 'porua' (purpose), 'thonai' (responsible), profession, and an exact office title.",
+  "pillars": {
+    "solarpunk-values": "Explicit roles make maintenance, coordination, and care visible while allowing rotation, shared responsibility, and institutional redesign.",
+    "peace-linguistics-practices": "Separating a role from its holder prevents office, expertise, status, or assigned duty from becoming a claim about the person's inherent value or authority."
+  },
+  "tags": {
+    "activity": "a defined position associated with stated functions and obligations",
+    "community": "a social or institutional role with bounded scope"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "helokelu",
+  "gloss": "redress",
+  "ipa": "/he̞.lo̞.ˈke̞.lu/",
+  "syllables": [
+    "he",
+    "lo",
+    "ke",
+    "lu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Redress / Respond to Institutional or Social Harm",
+  "description": "To take a stated action intended to address an institutional or social harm, loss, exclusion, denied claim, or wrongful burden through acknowledgment, restoration, changed conditions, return, compensation, protection, or another stated response. Through the event-noun rule the word also names redress. Redress does not erase what occurred, restore trust automatically, require forgiveness, prove justice, establish liability, punish a person, or mean medical remedy or material repair alone.",
+  "sound_symbolism": "Remedy-bearing 'heloa' enters changing 'kelu', moving from recognition of harm toward altered conditions rather than a return to imagined purity. The soft opening allows acknowledgment before action.",
+  "grammatical_notes": "A transitive verb with the responding agent as subject and the harm, loss, or denied relation as object: 'ha punoraki ha peloma helokelu.' (The institution redresses this harm.) State affected parties, requested response, source, limits, and remaining loss. The event-noun rule supplies redress. Distinct from 'heloa' (remedy), 'shiroka' (repair), 'talome' (restore), 'warosha' (reconcile), forgiveness, punishment, and justice achieved.",
+  "pillars": {
+    "solarpunk-values": "Regenerative institutions must address displaced burdens, exclusion, ecological loss, and broken commitments rather than limiting repair to physical infrastructure.",
+    "peace-linguistics-practices": "Redress keeps acknowledgment, affected-person needs, material response, institutional change, reconciliation, and forgiveness from being collapsed into one imposed resolution."
+  },
+  "tags": {
+    "activity": "acting to address a stated institutional or social harm",
+    "community": "redress shaped by affected parties and remaining loss"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "word": "sherenori",
+  "gloss": "entitlement",
+  "ipa": "/ʃe̞.re̞.ˈn̪o̞.ri/",
+  "syllables": [
+    "she",
+    "re",
+    "no",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Entitlement / Recognized Claim to Receive, Use, Access, or Act",
+  "description": "A claim recognized under a stated rule, commitment, membership, status, relationship, or authority as supporting receipt, use, access, participation, exclusion, or action within a stated scope and time. An entitlement may be conditional, contested, unmet, transferred, or denied. The word does not mean need, desire, physical ability, ownership, possession, universal moral or legal right, fairness, legitimacy, or proof that the claim will be satisfied.",
+  "sound_symbolism": "Claim-bearing 'sherewa' is narrowed by boundary-like 'nori', turning an assertion into a scoped institutional relation without making it morally final. The firm ending asks what source recognizes the claim.",
+  "grammatical_notes": "A countable or mass noun commonly modified by its object: 'ha wemakori ha napuro sherenori phelu.' (This member holds this entitlement to grain.) State claimant, object, source, criteria, scope, duration, and dispute separately. Distinct from 'sherewa' (claim or assert), 'phelona' (require or need), 'phelunori' (ownership), holding, and exact rights terminology.",
+  "pillars": {
+    "solarpunk-values": "Entitlements can make access to shared necessities and participation durable while remaining distinguishable from ownership, charity, and discretionary goodwill.",
+    "peace-linguistics-practices": "The term exposes the source and limits of a recognized claim so institutional access is not confused with inherent worth, moral certainty, or actual delivery."
+  },
+  "tags": {
+    "community": "a recognized and scoped claim under a stated source"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

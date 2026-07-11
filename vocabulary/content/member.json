@@ -1,0 +1,28 @@
+{
+  "word": "wemakori",
+  "gloss": "member",
+  "ipa": "/we̞.mä.ˈko̞.ri/",
+  "syllables": [
+    "we",
+    "ma",
+    "ko",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Member / Recognized Participant in a Group or Institution",
+  "description": "A person, organization, community, or other stated participant recognized as belonging to a group or institution under stated membership criteria at a stated time. Membership may be voluntary, inherited, conditional, contested, suspended, or imposed by a source category. The word does not mean resident, participant in one event, affected person, representative, supporter, agreement with the group, or proof that the membership rule is legitimate.",
+  "sound_symbolism": "Belonging 'wema' meets the bounded kind-shape of 'kori', giving an institutional edge to a relationship without making the category natural or permanent. The four even syllables leave room for criteria, entry, and exit.",
+  "grammatical_notes": "A countable noun commonly modified by the group or institution: 'ha sila wemakori mua kowela pawela.' (This community member participates in the council.) State the membership source, criteria, time, and disputed status where relevant. Distinct from 'wema' (belong), 'pawela' (participate), residence, affected standing, and 'shanelori' (represent).",
+  "pillars": {
+    "solarpunk-values": "Membership can make shared stewardship and decision participation visible while keeping entry, exclusion, burden, and institutional power open to criticism.",
+    "peace-linguistics-practices": "Naming membership separately from agreement, consent, representation, and worth prevents a group label from speaking over the person who bears it."
+  },
+  "tags": {
+    "community": "recognized membership in a stated group or institution"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

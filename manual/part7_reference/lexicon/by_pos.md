@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (174)
+## adjective (176)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -27,6 +27,7 @@
 | `keruko` | sturdy | Sturdy |
 | `kesu` | determined | Determined |
 | `kethua` | hard | Hard |
+| `kirethua` | legitimate | Legitimate |
 | `kiro` | precise | Precise |
 | `kishu` | thirsty | Thirsty |
 | `kithela` | valid | Valid |
@@ -46,6 +47,7 @@
 | `liro` | green | Green |
 | `liroa` | playful | Playful |
 | `loetha` | open (receptive) | Open (Receptive) |
+| `lonathoni` | accountable | Accountable |
 | `lori` | vital | Vital |
 | `lorua` | abundant | Abundant |
 | `losha` | wide | Wide |
@@ -274,7 +276,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (433)
+## noun (445)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -299,6 +301,8 @@
 | `howenari` | weather | Weather |
 | `kaero` | phase | Phase |
 | `kalora` | horse | Horse |
+| `kanorami` | authority | Authority |
+| `kanusholu` | decision | Decision |
 | `kathu` | seal | Seal |
 | `katiru` | knife | Knife |
 | `keiro` | way | Way |
@@ -449,6 +453,9 @@
 | `muwi` | interior | Interior |
 | `napa` | bread | Bread |
 | `napuro` | grain | Grain |
+| `naserumi` | obligation | Obligation |
+| `nasholu` | rule | Rule |
+| `nawoweso` | consensus | Consensus |
 | `nekuma` | meat | Meat |
 | `neparu` | cloud | Cloud |
 | `nepha` | medicine | Medicine |
@@ -466,12 +473,14 @@
 | `nophae` | nose | Nose |
 | `nophi` | story | Story |
 | `norae` | method | Method |
+| `norathume` | procedure | Procedure |
 | `norawhi` | dusk | Dusk |
 | `norawiso` | interface | Interface |
 | `norea` | soul | Soul |
 | `noru` | bowl | Bowl |
 | `norui` | boundary | Boundary |
 | `noruwa` | generation | Generation |
+| `noruwela` | jurisdiction | Jurisdiction |
 | `nosa` | now | Now |
 | `nowhu` | cave | Cave |
 | `nuhe` | sadness | Sadness |
@@ -508,6 +517,7 @@
 | `pharoe` | chest | Chest |
 | `phelui` | word | Word |
 | `pheluka` | lightning | Lightning |
+| `phelunori` | ownership | Ownership |
 | `phemi` | guest | Guest |
 | `phemila` | host | Host |
 | `pheralu` | rain | Rain |
@@ -548,6 +558,7 @@
 | `powea` | egg | Egg |
 | `pukea` | danger | Danger |
 | `punoa` | society | Society |
+| `punoraki` | institution | Institution |
 | `puro` | strength | Strength |
 | `raeli` | height | Height |
 | `rei` | eighty-one-group | Eighty-One-Unit |
@@ -581,6 +592,7 @@
 | `shelira` | forest | Forest |
 | `shelu` | book | Book |
 | `shemu` | moment | Moment |
+| `sherenori` | entitlement | Entitlement |
 | `shero` | night | Night |
 | `shila` | winter | Winter |
 | `shioli` | silver | Silver |
@@ -595,6 +607,7 @@
 | `shuroa` | shelter | Shelter |
 | `siheloa` | breeze | Breeze |
 | `sila` | community | Community |
+| `silathora` | role | Role |
 | `silawo` | village | Village |
 | `sileo` | silk | Silk |
 | `silero` | star | Star |
@@ -687,6 +700,7 @@
 | `welisha` | color | Color |
 | `weloa` | loom | Loom |
 | `weloni` | body | Body |
+| `wemakori` | member | Member |
 | `wemi` | ally | Ally |
 | `wemo` | plain | Plain |
 | `wenu` | tonic | Tonic |
@@ -816,7 +830,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (270)
+## verb (286)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -825,7 +839,9 @@
 | `hasi` | wait | Wait |
 | `hea` | hear | Hear |
 | `hekawi` | find | Find |
+| `helokelu` | redress | Redress |
 | `helui` | change | Change |
+| `helunari` | amend | Amend |
 | `heno` | satisfy | Satisfy |
 | `hewe` | wipe | Wipe |
 | `hinolu` | adapt | Adapt |
@@ -837,6 +853,9 @@
 | `kamo` | arrive | Arrive |
 | `kanelu` | err | Err |
 | `kanu` | choose | Choose |
+| `kanuloa` | authorize | Authorize |
+| `kanusira` | vote | Vote |
+| `kanuwhera` | coerce | Coerce |
 | `kapura` | shout | Shout |
 | `kati` | cut | Cut |
 | `kawepa` | catch | Catch |
@@ -867,6 +886,7 @@
 | `lilea` | clarify | Clarify |
 | `liona` | live | Live |
 | `loa` | give | Give |
+| `loathora` | delegate | Delegate |
 | `lomare` | embrace | Embrace |
 | `lonae` | respond | Respond |
 | `lorea` | connect | Connect |
@@ -880,6 +900,7 @@
 | `manolu` | stay | Stay |
 | `masue` | measure | Measure |
 | `masukiro` | calibrate | Calibrate |
+| `mawokelu` | abstain | Abstain |
 | `meilo` | sit | Sit |
 | `meliho` | sing | Sing |
 | `meloa` | persevere | Persevere |
@@ -900,6 +921,7 @@
 | `muraki` | harvest | Harvest |
 | `nai` | be | Be |
 | `naphe` | help | Help |
+| `nashakelu` | enforce | Enforce |
 | `natheri` | entail | Entail |
 | `natu` | pull | Pull |
 | `nawea` | respect | Respect |
@@ -936,6 +958,7 @@
 | `phaluwero` | flood | Flood |
 | `phamo` | console | Console |
 | `phanoi` | portion | Portion |
+| `phanokelu` | allocate | Allocate |
 | `pharelo` | cook | Cook |
 | `pharuki` | celebrate | Celebrate |
 | `pharune` | include | Include |
@@ -965,6 +988,7 @@
 | `rashelo` | run | Run |
 | `rato` | turn | Turn |
 | `remo` | think | Think |
+| `remopora` | propose | Propose |
 | `renoa` | liberate | Liberate |
 | `reo` | meaning | Meaning |
 | `rihe` | rise | Rise |
@@ -985,6 +1009,8 @@
 | `sepho` | send | Send |
 | `seru` | commit | Commit |
 | `shane` | tell | Tell |
+| `shanelori` | represent | Represent |
+| `shaneweli` | notify | Notify |
 | `shareo` | discuss | Discuss |
 | `sharoi` | exceed | Exceeds |
 | `shelo` | signify | Signify |
@@ -1004,6 +1030,7 @@
 | `shorema` | contribute | Contribute |
 | `shorupo` | protect | Protect |
 | `shua` | come | Come |
+| `siranomi` | record | Record |
 | `soki` | settle | Settle |
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
@@ -1058,6 +1085,7 @@
 | `tiwa` | tie | Tie |
 | `tupi` | jump | Jump |
 | `turekelu` | recycle | Recycle |
+| `turekiro` | review | Review |
 | `turema` | return | Return |
 | `wakomi` | surprise | Surprise |
 | `wapho` | throw | Throw |
@@ -1074,7 +1102,9 @@
 | `whaline` | thank | Thank |
 | `whano` | stand | Stand |
 | `wharemoi` | doubt | Doubt |
+| `whekapelo` | retaliate | Retaliate |
 | `whekatelu` | refute | Refute |
+| `whekatuma` | appeal | Appeal |
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |
 | `whenola` | wander | Wander |

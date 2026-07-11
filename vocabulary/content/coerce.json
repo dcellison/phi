@@ -1,0 +1,29 @@
+{
+  "word": "kanuwhera",
+  "gloss": "coerce",
+  "ipa": "/kä.n̪u.ˈʍe̞.rä/",
+  "syllables": [
+    "ka",
+    "nu",
+    "whe",
+    "ra"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Coerce / Constrain Practical Choice Through Power or Threat",
+  "description": "To constrain a person's or group's practical choice through force, threat, authority, confinement, deprivation, withheld essential resources or access, retaliation, or another stated pressure such that an action or apparent agreement is not freely chosen. Through the event-noun rule the word also names coercion. Coercion does not mean every rule, obligation, persuasion, urgency, consequence, disagreement, social influence, or necessity; the mechanism, alternatives, power relation, and affected report must be stated.",
+  "sound_symbolism": "Choosing 'kanu' meets eroding 'whera', making diminished practical freedom the center of the word rather than the commander's intention. The breathy third syllable removes space before the grounded close.",
+  "grammatical_notes": "A transitive verb with the coercing agent as subject and the constrained person or group as object: 'ha miona thia kanuwhera.' (This person coerces you.) State the demanded action, pressure, alternatives, authority claim, and affected testimony separately. The event-noun rule supplies coercion. Distinct from 'na' (necessity), 'naserumi' (obligation), persuasion, urgency, 'nashakelu' (enforce), and freely given consent.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Coercion is located in conditioned power, constrained alternatives, and experienced pressure rather than treated as an evil essence in one person.",
+    "peace-linguistics-practices": "Directly naming coercion prevents authority, urgency, care, consensus, or necessity language from sanitizing the removal of practical choice."
+  },
+  "tags": {
+    "activity": "constraining practical choice through a stated power or threat",
+    "community": "coercion within an institutional or social relation"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

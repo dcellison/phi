@@ -1,0 +1,29 @@
+{
+  "word": "shanelori",
+  "gloss": "represent",
+  "ipa": "/ʃä.n̪e̞.ˈlo̞.ri/",
+  "syllables": [
+    "sha",
+    "ne",
+    "lo",
+    "ri"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Represent / Act or Communicate on Behalf of Another",
+  "description": "To communicate, act, negotiate, or participate on behalf of a stated person, group, constituency, or institution under a claimed source, scope, instruction, and duration. Through the event-noun rule the word also names representation. Representation does not establish consent, accurate transmission, membership, agreement, unlimited discretion, legitimacy, or authority beyond the stated matter.",
+  "sound_symbolism": "Telling 'shane' opens into relational 'lori', carrying another party's position into a shared space without merging speaker and represented party. The word remains longer than ordinary speaking because source and scope must travel with the act.",
+  "grammatical_notes": "A transitive verb with the representative as subject and the represented party as object: 'mia ha sila shanelori.' (I represent this community.) State the matter, authorization, instructions, limits, and reporting relation separately where needed. The event-noun rule supplies representation. Distinct from 'relo' (symbol), 'thelima' (describe), 'shane' (tell), resemblance, and 'kanuloa' (authorize).",
+  "pillars": {
+    "solarpunk-values": "Representation can coordinate decisions beyond face-to-face participation while remaining answerable to the people, places, and future interests it claims to carry.",
+    "peace-linguistics-practices": "The word requires speakers to distinguish speaking with someone from speaking for them and to preserve refusal, correction, and limits on proxy power."
+  },
+  "tags": {
+    "community": "acting or communicating on behalf of a stated party",
+    "dialogue": "carrying another party's position under stated scope and authorization"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

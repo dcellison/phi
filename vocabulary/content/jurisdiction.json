@@ -1,0 +1,29 @@
+{
+  "word": "noruwela",
+  "gloss": "jurisdiction",
+  "ipa": "/n̪o̞.ru.ˈwe̞.lä/",
+  "syllables": [
+    "no",
+    "ru",
+    "we",
+    "la"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Jurisdiction / Claimed Scope of Authority",
+  "description": "The stated people, places, resources, matters, actions, times, or cases over which an authority or institution claims that its rules, decisions, or actions apply. Jurisdictions may overlap, conflict, change, or be disputed by affected parties and outside sources. The word does not mean a geographic boundary alone, ownership, actual control, universal reach, source-specific legal jurisdiction, or proof that the authority is legitimate.",
+  "sound_symbolism": "Boundary-bearing 'noru' opens into relational 'wela', extending a claimed authority across selected matters without drawing an eternal border. The outward ending permits overlap and dispute.",
+  "grammatical_notes": "A countable or mass noun commonly possessed by an authority or institution: 'ha kanorami noruwela ha luphanori pharune.' (This authority's jurisdiction includes the watershed.) State dimensions, source, exceptions, overlap, and contested reach where needed. Distinct from 'norui' (boundary), territory, ownership, technical scope, and an exact legal jurisdiction.",
+  "pillars": {
+    "solarpunk-values": "Watersheds, infrastructures, and communities cross inherited borders, so jurisdiction must be named as a chosen and contestable governance relation.",
+    "peace-linguistics-practices": "Stating who and what a power claim reaches helps affected people challenge overreach without treating a map, office, or rule as self-authorizing."
+  },
+  "tags": {
+    "community": "the claimed social scope of an authority or institution",
+    "spatial": "a jurisdiction may include stated places without being only territorial"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

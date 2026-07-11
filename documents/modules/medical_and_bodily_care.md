@@ -34,6 +34,8 @@ These are existing Phi roots and function words. The profile indexes them withou
 
 The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `hisophira` contaminant, `pelokira` toxic, `nomiraki` concentration, `pelorawi` expose, `phisumari` sample, `mothanomi` baseline, `helurani` trend, `reloteru` model, and `somethiru` monitor. Medical speakers may use these ordinary Phi words wherever their definitions fit, but a contaminant is not automatically an infection, toxicity is not an observed effect, exposure is not dose or uptake, an ecological sample is not automatically a clinical specimen, and monitoring does not authorize observation of a person. Exact medical classifications, methods, values, and source terms remain external when their identity or precision matters.
 
+The established [Commons and Collective Governance module](commons_and_collective_governance.md) supplies `shanelori` represent, `silathora` role, `kanorami` authority, `kanuloa` authorize, `nasholu` rule, `kanusholu` decision, `naserumi` obligation, `lonathoni` accountable, `shaneweli` notify, `siranomi` record, `turekiro` review, `kanuwhera` coerce, and `whekapelo` retaliate. Medical speakers may use these words for institutional relations, but authorization is not informed consent, a professional role is not competence, a record is not accurate or accessible by default, obligation does not override bodily refusal, and no governance decision establishes an individual diagnosis or suitable care.
+
 ## Current Practices and Limits
 
 | Need | Current Phi strategy | Important limit |
@@ -43,7 +45,7 @@ The established [Ecological Systems and Material Life module](ecological_systems
 | Refuse and acknowledge | Use `naweri` or `ma nawo`, then `thekao`; state the stopped action explicitly where needed. | Scope, duration, withdrawal, alternatives, and informed consent are not conventionalized. |
 | Preserve a reading or instruction | Carry the complete source form in `patha ... patho`. | Exact carriage preserves data but does not interpret it or make it safe to act upon. |
 | State uncertainty | Use `ma sano`, `ho`, `ke`, `po`, and explicit source clauses. | These forms do not express calibrated probability, clinical risk, or confidence intervals. |
-| Discuss care | Use `theama`, `theala`, `naphe`, `panoru`, safety vocabulary, and ordinary decisions. | Phi lacks conventional care roles, handoffs, records, plans, and accountability relationships. |
+| Discuss care | Use `theama`, `theala`, `naphe`, `panoru`, safety vocabulary, ordinary decisions, and Commons terms for general roles, records, obligations, and accountability where they fit. | Phi still lacks conventional clinical roles, handoffs, care plans, medical accountability standards, and the distinctions needed for informed consent. |
 
 ## Scenario Evidence
 
@@ -68,8 +70,8 @@ Neither external frame supplies clinical interpretation. If speakers do not unde
 | Evaluation | test, result, threshold, diagnosis, prognosis, risk, false result | Scenarios in which exact data supports, fails to support, or changes a conclusion. |
 | Intervention | treatment, procedure, dose, schedule, side effect, allergy, contraindication | Source-faithful scenarios where omission or ambiguity could change a decision. |
 | Consent and choice | permission, informed consent, scope, withdrawal, alternatives, decision-making support | Repeated dialogues in which ordinary `po`, `nawo`, and `naweri` fail to preserve the intended distinction. |
-| Roles and accountability | clinician, patient, caregiver, interpreter, record keeper, handoff, care plan | Scenarios with several contributors and no assumed hierarchy or single controller. |
-| Urgency and public health | emergency, triage, transmission, isolation, population-level risk; reuse `pelorawi` for exposure where its contact-and-route definition fits | A non-prescriptive public-health scenario that separates individual care, community protection, evidence, and coercion. |
+| Roles and accountability | clinician, patient, caregiver, interpreter, handoff, care plan; reuse `silathora`, `shanelori`, `lonathoni`, and `siranomi` for general role, representation, accountability, and record relations | Scenarios with several contributors and no assumed hierarchy or single controller. |
+| Urgency and public health | emergency, triage, transmission, isolation, population-level risk; reuse `pelorawi` for exposure and `kanuwhera` for coercion where their definitions fit | A non-prescriptive public-health scenario that separates individual care, community protection, evidence, authority, and coercion. |
 
 Permission, consent, injury, condition, intervention, roles, urgency, and public-health relations are all available for a direct compound-or-coinage review. Core versus module placement should reflect what general learners need, while the safety and autonomy distinctions in this inventory guide each definition.
 
