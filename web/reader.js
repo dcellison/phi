@@ -123,20 +123,35 @@
 
   /* ---- appendix A: click-to-toggle for gloss row popovers (hover
      and keyboard focus already reveal them from CSS alone; this adds
-     tap support on touch devices and a way to dismiss on demand) ---- */
+     tap support on touch devices and a way to dismiss on demand).
+     Closing a visible popover also sets .suppress, which outranks the
+     hover and focus CSS rules: without it, a second click hides
+     nothing until the pointer leaves the row, and on touch devices
+     the synthetic hover never leaves at all. The suppression lifts on
+     mouseleave, on blur, or when the row is opened again. ---- */
 
   function glossPopovers(main) {
     var rows = main.querySelectorAll(".gloss-row");
     if (!rows.length) return;
     function closeAll() {
-      Array.prototype.forEach.call(rows, function (r) { r.classList.remove("open"); });
+      Array.prototype.forEach.call(rows, function (r) {
+        if (r.classList.contains("open")) r.classList.add("suppress");
+        r.classList.remove("open");
+      });
     }
     Array.prototype.forEach.call(rows, function (row) {
       row.addEventListener("click", function (ev) {
         var wasOpen = row.classList.contains("open");
         closeAll();
         row.classList.toggle("open", !wasOpen);
+        if (!wasOpen) row.classList.remove("suppress");
         ev.stopPropagation();
+      });
+      row.addEventListener("mouseleave", function () {
+        row.classList.remove("suppress");
+      });
+      row.addEventListener("blur", function () {
+        row.classList.remove("suppress");
       });
       row.addEventListener("keydown", function (ev) {
         if (ev.key === "Enter" || ev.key === " ") {

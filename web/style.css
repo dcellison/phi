@@ -320,6 +320,7 @@ footer a { color: var(--sage); }
 .gloss-row:hover .gloss-pop,
 .gloss-row:focus-visible .gloss-pop,
 .gloss-row.open .gloss-pop { display: block; }
+.gloss-row.suppress .gloss-pop { display: none; }
 .primer pre {
   background: var(--paper-raised);
   border: 1px solid var(--hairline);
