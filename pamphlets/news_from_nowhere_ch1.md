@@ -431,8 +431,8 @@ PL 1SG DECL.COMP UNIV heart INTS sharp be DECL.COMP.CLOSE feel.
 (We feel that the whole mind is intensely sharp.)
 morris: "a condition under which we feel all our wits preternaturally sharpened,"
 
-theula lo nuhe kanelu nela lo nupira nela lo holume wei ha ru tiso korua miso na pesa.
-UNIV PL sadness err COORD PL shame COORD PL loss DAT PROX INTS sharp heart REFL NEC push.
+theula nuhe kanelu nela lo nupira nela lo holume wei ha ru tiso korua miso na pesa.
+UNIV sadness err COORD PL shame COORD PL loss DAT PROX INTS sharp heart REFL NEC push.
 (All the miserable muddles, and the shames, and the losses insist on pushing themselves at this sharpened mind.)
 morris: "while all the miserable muddles we have ever got into, all the disgraces and losses of our lives, will insist on thrusting themselves forward for the consideration of those sharpened wits."
 

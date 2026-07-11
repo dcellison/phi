@@ -1,6 +1,6 @@
 # Part 2: Climbing the scale
 
-Four scale units ladder upward by threes: `shao` (3), `phoi` (9), `lau` (27), `rei` (81). Each is a countable noun (you count groups the way you count baskets) and each step up trades precision for reach, exactly as the system intends.
+Four scale units ladder upward by threes: `shao` (3), `phoi` (9), `lau` (27), `rei` (81). Each names a group counted with `ta` or `wi` in an exact numeral. A bare scale has a separate approximate use, taught in Part 5.
 
 ### Nine and its neighborhood
 
@@ -37,7 +37,7 @@ The reading habit from Part 1 scales: largest unit first, then the remainder, de
 | `ta rei` | 81 | 81 |
 | `ta rei ta lau ta phoi ta shao ta` | 81 + 27 + 9 + 3 + 1 | 121 |
 
-That last row is legal, exact, and long enough to make the system's point. Nothing breaks; composition runs as far as you care to push it. But every unit you climb adds a clause's worth of breath, and somewhere past `ta lau` a Phi speaker hears the language asking a quiet question: *do you need this number, or do you need its size?* Part 5 is about answering honestly. This part is about being able to pay the full price when the count truly matters.
+That last row is legal and exact. The full exact range ends at `wi rei wi lau wi phoi wi shao wi` (242): each scale appears at most once, with `ta` or `wi`, and `rei` is not recursively counted. Values from 243 upward remain exact source material outside the Phi passage. Longer internal forms make precision more conspicuous, but context decides whether an exact count or an estimate is appropriate; Part 5 practices that choice.
 
 ### Decomposition drills
 
@@ -62,4 +62,4 @@ ta lau ta phoi wi shao wi
 wi lau ta phoi
 ```
 
-(11, 21, 28, 8, 44, 63.) When the fifth line resolves as fast as the fourth, the ladder is yours. Until then, the child on the village road is ahead of you, and she is counting eggs.
+(11, 21, 28, 8, 44, 63.) Practice for accurate recognition before speed, and revisit the set in shuffled order. Extended numerals are a later skill, not a test of ordinary conversational competence.

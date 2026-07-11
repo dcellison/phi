@@ -41,7 +41,7 @@ Largest unit first, always: the ladder descends. The wrong form is not ambiguous
 *shao lipha powea.
 ```
 
-Intended as exactly three eggs. This form is grammatical, but it is Part 5's *about*: a bare scale unit means *some three, a few*. Exactly three is counted: `ta shao lipha powea.` The minimal pair matters most in trade and recipes (the places exactness is owed) and mixing them up is how a soup comes out wrong. Digit-then-unit for exact; bare unit for honest rounding.
+Intended as exactly three eggs. This form is grammatical, but it is Part 5's *about*: a bare scale unit gives an approximate magnitude around three. Exactly three is counted: `ta shao lipha powea.` The minimal pair matters in trade, recipes, and any context where the difference affects action. Digit-then-unit for exact; bare unit for an estimate.
 
 ### Error 4: the classifier misfiled
 
@@ -51,18 +51,34 @@ wi themo powea.
 two THING.CLF egg.
 ```
 
-Grammatical, and it says the eggs are inert stock, which the lexicon itself denies: an egg is life in waiting, `lipha`. Conversely, the branch in the woodpile has left `lipha` behind. The repair is never syntactic; it is the nature-now question from Part 3: *what is this, now?* When genuinely torn (a seed packet? cut flowers in water?) remember the classifiers are optional: declining to classify is the honest form of not knowing, and `wi powea` is always correct.
+Grammatical, but it assigns the egg to the detached-or-crafted category even though Phi's canonical lexicon treats an egg as life in waiting, `lipha`. Conversely, a branch in the woodpile has left `lipha` behind. The repair is not syntactic; it is the nature-now question from Part 3: *what is this, now?* When genuinely torn (a seed packet? cut flowers in water?), remember that classifiers are optional: `wi powea` remains complete without a category claim.
 
 ### Error 5: classifier disagreement across an operation
 
 **Wrong:**
 ```
-*wi himo phemi ta shao themo noru sholei.
+*wi himo phemi nela ta shao themo noru sholei.
 ```
 
-You cannot gather two guests with three bowls: the manual's rule, and not merely a formal one: an operation asserts its operands are commensurable. Count the guests, count the bowls, and let the sentence that relates them be a real sentence (`theli phemi ta noru howela.` — each guest receives a bowl) rather than a sum that launders people and crockery into one number.
+You cannot add two guests to three bowls: addition requires commensurable quantities. Count the guests, count the bowls, and relate them with an ordinary sentence (`theli phemi ta noru howela.` — each guest receives a bowl). This same-kind rule applies to addition and subtraction; multiplication uses a counted quantity plus a bare factor, and division may relate a total to differently classified recipients or groups.
 
-### Error 6: ordering people
+### Error 6: no operand boundary
+
+**Wrong (for 3 + 2):**
+```text
+*ta shao wi sholei. ta shao wi kelai.
+```
+
+**Right:**
+```text
+ta shao nela wi sholei. ta shao wi kelai.
+one three-group COORD two gather. one three-group two equals.
+(Three plus two results in five.)
+```
+
+`ta shao wi` is the single numeral five, not an audible pair of operands. Rhythm, pause, and context are not grammatical boundaries. Arithmetic, equality, and magnitude comparison require `nela` between the two quantities.
+
+### Error 7: ordering people
 
 **Grammatical, and against the grain:**
 ```
@@ -71,13 +87,13 @@ ORD one HUM.CLF person.
 (the first person)
 ```
 
-Legal, and sometimes exactly right: someone *is* first in line for soup. The error is reaching for ordinals where Phi's refusals point elsewhere: there is no first person in worth, and the language that refused rank vocabulary (canon, the Ring Verse refusal) did not refuse it so that `nu` could rebuild hierarchy one queue at a time. Order events, days, stories, steps; order people only where a line is truly just a line.
+Legal, and sometimes exactly right: someone *is* first in line for soup. The grammatical form does not distinguish a harmless queue from a consequential ranking. State or examine who established the order, what criterion it uses, and what follows from it; the ordinal itself supplies none of those safeguards.
 
-### Error 7: false precision
+### Error 8: unsupported precision
 
-**Grammatical, and slightly dishonest:**
+**Grammatical, but unsupported in the stated scene:**
 ```
 ta rei ta lau wi phoi wi silero.
 ```
 
-One hundred twenty-eight stars, composed impeccably: about a sky no one counted. The system will let you say it; the length was the warning. Part 5's two questions are the repair: exactness that changes nothing and was never yours to give rounds to `rei silero`, and the sentence gets shorter as it gets truer. In this language that correlation is not a coincidence; it is the design.
+One hundred twenty-eight stars, composed correctly, but the scene says nobody counted them. The problem is not precision itself; it is asserting evidence the speaker does not have. If only a rough scale is known, `rei silero` gives one without claiming literal uncountability. In a scientific observation or a child's completed tally, the exact form could instead be appropriate.

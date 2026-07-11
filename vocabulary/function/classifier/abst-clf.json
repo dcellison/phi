@@ -9,11 +9,11 @@
   "pos": [
     "classifier"
   ],
-  "concept": "Abstract concept classifier / Idea acknowledger / Intangible marker",
-  "description": "The classifier for abstract nouns: ideas, stories, emotions, principles. 'Nophe' stands between a numeral and an intangible noun, giving mental and conceptual things the same countable standing as physical ones. It is never used with physical objects or living beings.",
+  "concept": "Abstract Classifier / Ideas, Time, and Events",
+  "description": "The optional classifier for concepts, stories, emotions, principles, time units, events, and other non-physical countables. 'Nophe' stands between a numeral and the noun. It states a category without proving that an abstraction has the same ontological status as a physical object.",
   "sound_symbolism": "The word begins with 'no', where the grounding nasal 'n' represents the mind's inner resonance—thoughts vibrating within consciousness—opening to 'o', the round vowel of wholeness and contemplation. This transitions to 'phe', where the breathy fricative 'φ' captures the ethereal nature of ideas, like thoughts exhaled into shared space, meeting 'e', the clear vowel of focused awareness. Together, 'nophe' creates the sound of abstraction itself: internal contemplation ('no') breathed into conceptual existence ('phe')—the mind giving form to the formless.",
-  "grammatical_notes": "Functions as a classifier placed between numerals and nouns denoting abstract concepts, emotions, or ideas. Optional but encouraged for acknowledging the reality of mental phenomena. Examples: 'wi nophe nophi' (two stories), 'ta shao nophe theloa' (three truths). Never used with physical objects or living beings. Validates the countability and significance of intangible experiences.",
+  "grammatical_notes": "Functions as an optional classifier between a numeral and a concept, time unit, event, or other non-physical countable. Examples: 'wi nophe nophi' (two stories), 'ta shao nophe theloa' (three truths), and 'wi nophe torua' (two years). 'Wia' may also precede it in a quantity question. Ordinary quantifiers modify the noun directly and do not take a classifier. Never use it with a physical object or living being. A numeral or quantifier already marks quantity, so the phrase never also takes plural 'lo'.",
   "pillars": {
-    "secular-buddhist-philosophy": "The recognition of abstract concepts as countable entities reflects the Buddhist understanding that mental phenomena are as real as physical ones. 'Nophe' embodies the principle that thoughts, emotions, and concepts arise, persist, and pass away just like material objects—making the impermanence of mental states linguistically visible."
+    "secular-buddhist-philosophy": "Counting events or mental phenomena can support attention to their arising and passing. 'Nophe' provides the category but does not settle whether an abstraction is as real as a physical object or make impermanence perceptible by itself."
   }
 }

@@ -42,7 +42,7 @@ For names, prefer `ne` plus a productive Phi-shaped onym when the bearer or nami
 
 For technical terms, first ask whether an existing word, transparent compound, or module term expresses the needed role. If the concept recurs often enough and matters to Phi's purposes, add or extend a vocabulary module. If the source form itself matters, preserve it outside Phi.
 
-For exact values, identifiers, formulas, source quotations, legal wording, medical records, and source-script material, preserve the exact material in the surrounding medium rather than inside a Phi frame. A Phi sentence may refer to that material, but the exact artifact remains outside the Phi passage.
+For source-form exact values, identifiers, formulas, source quotations, legal wording, medical records, and source-script material, preserve the exact artifact in the surrounding medium rather than inside a Phi frame. An integer from 0 through 242 may also be rendered as an internal Phi numeral when that representation is adequate, but the source form remains outside whenever its notation, unit, identity, or fidelity matters. A Phi sentence may refer to and analyze the separately presented artifact.
 
 For alternate scripts such as Tengwar, this avoids mixed-mode failure. A Phi passage in Tengwar remains Phi. Non-Phi source material appears as non-Phi source material, not as an opaque object smuggled through Phi boundary words.
 

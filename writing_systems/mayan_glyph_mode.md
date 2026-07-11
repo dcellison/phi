@@ -141,7 +141,7 @@ Every word in Phi can be written in multiple ways:
 - **~300 logograms** for content words (manageable learning curve)
 - **~50 syllabograms** for CV combinations (complete coverage)
 - **~27 particle forms** that can attach or frame other elements
-- **7 number glyphs** for the ternary system (mu, ta, wi, shia, phoi, lau, rei)
+- **7 number glyphs** for the ternary system (`mu`, `ta`, `wi`, `shao`, `phoi`, `lau`, `rei`)
 
 ## Representing Ternary Numbers
 
@@ -153,18 +153,18 @@ Phi's ternary number system presents unique opportunities for visual representat
 - **wi (2)**: Two linked elements or paired marks, showing duality
 
 ### Scale Unit Glyphs (groups)
-- **shia (3)**: Triangle or three-part mandala
+- **shao (3)**: Triangle or three-part arrangement
 - **phoi (9)**: Nine-cell grid or triple triangle
 - **lau (27)**: Complex nested form suggesting abundance
-- **rei (81)**: Ornate symbol suggesting "countless"
+- **rei (81)**: Four-level nested triadic form for the highest scale
 
 ### Compound Number Representation
 Numbers could be written either:
-1. **Analytically**: Separate glyphs for each component (e.g., "ta shia wi" = 1×3+2 = 5)
+1. **Analytically**: Separate glyphs for each component (e.g., `ta shao wi` = 1×3+2 = 5)
 2. **Synthetically**: Combined forms where scale units contain base numbers
 3. **Positionally**: Using position within a frame to indicate scale (similar to an abacus)
 
-The visual design should emphasize Phi's philosophy of approximate rather than precise counting—making large numbers deliberately complex to write, encouraging the use of approximative expressions instead.
+The visual design must preserve the same distinction as spoken Phi: a scale with `ta` or `wi` is exact, while a bare scale is approximate. Exact glyph sequences must remain legible through the canonical maximum, `wi rei wi lau wi phoi wi shao wi` (242), without using visual complexity to obscure a valid count.
 
 ## Vowel Hiatus Representation
 

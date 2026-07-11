@@ -193,10 +193,10 @@
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `himo` | HUM.CLF | Human classifier |
-| `lipha` | LIFE.CLF | Living being classifier |
-| `nophe` | ABST.CLF | Abstract concept classifier |
-| `themo` | THING.CLF | Physical matter classifier |
+| `himo` | HUM.CLF | Human Classifier |
+| `lipha` | LIFE.CLF | Living Classifier |
+| `nophe` | ABST.CLF | Abstract Classifier |
+| `themo` | THING.CLF | Thing Classifier |
 
 ## complementizer (7)
 
@@ -351,7 +351,7 @@
 | `kurona` | horn | Horn |
 | `laenu` | commons | Commons |
 | `lathoe` | tongue | Tongue |
-| `lau` | twenty-seven-group | Twenty-Seven-Unit |
+| `lau` | twenty-seven-group | Twenty-Seven-Group |
 | `lawe` | left | Left |
 | `leko` | surface | Surface |
 | `leru` | beach | Beach |
@@ -536,7 +536,7 @@
 | `phiwapi` | butterfly | Butterfly |
 | `phiwheki` | counterexample | Counterexample |
 | `phoemu` | midnight | Midnight |
-| `phoi` | nine-group | Nine-Unit |
+| `phoi` | nine-group | Nine-Group |
 | `phoka` | lens | Lens |
 | `pholui` | bamboo | Bamboo |
 | `phomila` | offspring | Offspring |
@@ -557,7 +557,7 @@
 | `punoki` | institution | Institution |
 | `puro` | strength | Strength |
 | `raeli` | height | Height |
-| `rei` | eighty-one-group | Eighty-One-Unit |
+| `rei` | eighty-one-group | Eighty-One-Group |
 | `relo` | symbol | Symbol |
 | `relua` | mirror | Mirror |
 | `remole` | concept | Concept |
@@ -582,7 +582,7 @@
 | `shalimo` | alliance | Alliance |
 | `shalu` | fish | Fish |
 | `shalumi` | salmon | Salmon |
-| `shao` | three-group | Three-Unit |
+| `shao` | three-group | Three-Group |
 | `shea` | peace | Peace |
 | `shela` | art | Art |
 | `shelira` | forest | Forest |

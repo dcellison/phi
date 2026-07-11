@@ -27,7 +27,7 @@ The manual is the teaching path; these are the working documents behind it.
 - **WALS, the World Atlas of Language Structures** (wals.info) — explore how natural languages distribute the features Phi uses: word order, evidentials, classifiers, numeral systems.
 - **Describing Morphosyntax** (Thomas Payne) — the standard field guide to grammatical concepts, useful for going deeper than Appendix A.
 - **The Art of Language Invention** (David J. Peterson) and the **Language Creation Society** (conlang.org) — the craft and community of constructed languages.
-- On restricted numeral systems: the literature on Pirahã and on Australian counting systems shows natural precedent for lives lived without large exact numbers.
+- On numeral systems: WALS documents decimal, vigesimal, mixed, other-base, body-part, and restricted systems. Language-specific work on restricted numeral lexicons requires careful interpretation and does not license claims about a community's cognitive capacity or values; see `documents/psychological_violence_of_measurement.md` for Phi's evidence boundaries and research links.
 
 ## The philosophical roots
 

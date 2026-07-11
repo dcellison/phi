@@ -148,8 +148,8 @@ PROX record PROX system capacity describe.
 ```
 
 ```
-ha takori ha henora sharoi.
-PROX load PROX capacity exceed.
+ha takori nela ha henora sharoi.
+PROX load COORD PROX capacity exceed.
 (This load exceeds the capacity.)
 ```
 

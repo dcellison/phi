@@ -10,11 +10,11 @@
     "quantifier"
   ],
   "concept": "Few / A Small Number / Sparse",
-  "description": "The quantifier marking a small, countable-feeling quantity — more than one or two, but noticeably not many. Completes the quantity scale: 'mawha' (none), 'phina' (few), 'soli' (some), 'sheloi' (many), 'theula' (all).",
+  "description": "The quantifier marking a contextually small indefinite quantity. It has no fixed numerical boundary and does not imply that the amount is inadequate. It contrasts with 'sheloi' (many), while 'soli' (some) leaves relative size unstated.",
   "sound_symbolism": "The gentle bilabial breath 'phi' barely stirs the air — a quantity almost too small to disturb anything. The grounding 'na' settles it into fact. A small number, softly stated and firmly present.",
-  "grammatical_notes": "Precedes what it quantifies, per the modifier-first principle: 'phina melu' (few friends), 'phina philo' (a few days). Like all quantifiers, never combines with the plural particle 'lo' — the quantifier itself implies plurality.",
+  "grammatical_notes": "Precedes what it quantifies, per the modifier-first principle: 'phina melu' (few friends), 'phina philo' (a few days). Like all ordinary quantifiers, it never combines with plural 'lo' or a classifier. Classifiers belong to numeral phrases and 'wia' questions.",
   "pillars": {
-    "secular-buddhist-philosophy": "Fewness is not lack. Naming a small quantity without judgment practices contentment with what is actually present.",
-    "peace-linguistics-practices": "An honest small number resists inflation. 'Phina' lets speakers be truthful about scarcity without alarm or shame."
+    "secular-buddhist-philosophy": "A contextually small quantity is not necessarily an inadequate one. 'Phina' leaves adequacy to a separate judgment and may support reflection on contentment without producing it.",
+    "peace-linguistics-practices": "'Phina' can state that a quantity is contextually small without adding alarm or shame. Because the boundary is contextual, the claim can still be disputed or used misleadingly."
   }
 }

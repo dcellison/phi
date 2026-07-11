@@ -20,7 +20,7 @@ There is currently no core word for jealousy. Follow the anger case study: what 
 
 ## Exercise 3: Small news (evidentials and numbers)
 
-Transmute something from today's news, one sentence. Requirements: every claim you did not witness carries `ti`; every number becomes a ternary quantity or a quantifier; anything the language refuses (money, rankings, blame) either dissolves into what it means or is consciously dropped. Write one sentence about what you dropped and whether it mattered.
+Transmute something from today's news, one sentence. Requirements: every claim you did not witness carries `ti`; every number is rendered as an exact or approximate Phi quantity when that is adequate, or preserved in source material when its exact form matters; anything the language refuses (money, rankings, blame) is analyzed without silently erasing relevant source content. Write one sentence about what remained outside Phi or was omitted and why.
 
 ## Exercise 4: A poem (the gap as collaborator)
 

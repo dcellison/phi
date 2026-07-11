@@ -11,17 +11,17 @@
     "verb"
   ],
   "concept": "Spread / Replicate / Multiply (Mathematical)",
-  "description": "The verb of replicating quantity through organic spreading, embodying the mathematical operation of multiplication through the lens of natural growth and regeneration. Rather than mechanical repetition, 'welura' frames multiplication as the way seeds become groves, stories told multiply through communities, goodness shared expands without diminishing the source. It carries the understanding that multiplication in nature creates abundance through generosity—what spreads does not divide but flourishes. In arithmetic, 'welura' announces that a quantity is spreading by a factor to reveal what emerges from growth.",
+  "description": "The verb of spreading or replicating, and Phi's word for arithmetic multiplication. It can evoke seeds becoming groves, stories circulating through communities, or a pattern repeated across a surface. In arithmetic, 'welura' combines a counted quantity with a factor to identify the product. The metaphor does not imply biological growth, generosity, abundance, or a beneficial result in every use.",
   "sound_symbolism": "The word begins with 'we', evoking community and togetherness—the social context where spreading naturally occurs. The liquid 'l' in 'lu' flows the growth forward, continuous and organic. The 'u' provides depth and grounding, the rootedness from which spreading begins. The trill/tap 'r' in 'ra' suggests gentle repetition, iteration without mechanical harshness. The final 'a' opens to the expanded result, the most spacious vowel receiving the abundance of growth. The overall flow suggests organic spreading—mycelium beneath forests, knowledge through generations.",
-  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the base quantity and the spreading factor. Structure: '[base] [factor] welura. [product] kelai.' Example: 'ta shao wi welura. wi shao kelai.' (three spreads by two, becoming six). The first argument is what spreads; the second is how many times. Can be nominalized for abstract discussion. Used metaphorically for non-numerical spreading (influence, ideas, growth).",
+  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the counted quantity and the factor. In arithmetic, mandatory 'nela' separates them: '[counted quantity] nela [factor] welura. [product] kelai.' Example: 'ta shao nela wi welura. wi shao kelai.' (Three spreads by two. Six results.) When a noun or classifier is stated, it belongs to the first operand and the product; the factor may be a bare number. Can be nominalized for abstract discussion and used non-mathematically for spreading influence, ideas, organisms, or materials.",
   "pillars": {
-    "solarpunk-values": "Regenerative growth creates abundance without extraction. 'Welura' embodies the ecological principle that healthy systems multiply through spreading—seeds, spores, ideas for sustainable futures. It suggests exponential positive change.",
-    "secular-buddhist-philosophy": "Like merit that multiplies when shared, 'welura' embodies the understanding that spiritual abundance increases through giving. Multiplication becomes not accumulation but the natural flourishing that follows generosity. The word carries no grasping—what spreads does so freely.",
+    "solarpunk-values": "'Welura' can describe regenerative spread—seeds, spores, repair practices, or ideas for sustainable futures. Multiplication itself is neutral: harmful growth, extraction, and waste can also multiply.",
+    "secular-buddhist-philosophy": "The spreading metaphor can evoke teachings in which generosity or beneficial action extends beyond its source. The word does not claim that all multiplication is non-grasping or that what spreads does so freely.",
     "art-nouveau-aesthetics": "Natural patterns replicate with organic variation—the spiral of a nautilus, the branching of ferns, the fractal beauty of snowflakes. 'Welura' captures this aesthetic of multiplication as beauty unfolding.",
-    "pre-industrial-wisdom": "Seeds planted become harvests; stories told become traditions; skills taught become crafts. 'Welura' preserves the understanding that multiplication is the natural consequence of generous sharing."
+    "pre-industrial-wisdom": "Seeds can become harvests, stories can become traditions, and taught skills can extend a craft. 'Welura' can evoke those processes without treating multiplication as their inevitable or exclusively generous cause."
   },
   "tags": {
-    "cognition": "Mathematical operation requiring deliberate mental processing",
-    "nature": "Frames multiplication as organic growth and spreading"
+    "cognition": "Names arithmetic multiplication through a spreading metaphor",
+    "nature": "Offers spreading as a metaphor for multiplication"
   }
 }

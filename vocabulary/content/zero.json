@@ -9,16 +9,16 @@
     "numeral"
   ],
   "concept": "Zero / Emptiness / Pure Potential",
-  "description": "The numeral for absence of quantity. In Phi, 'mu' also names emptiness as a state in its own right—not lack but open space, the pause before something begins.",
+  "description": "The numeral for absence of quantity. Phi also uses 'mu' as a metaphor for emptiness, open space, and a pause before beginning; those associations are philosophical extensions of the numerical meaning, not properties proved by zero.",
   "sound_symbolism": "The labial nasal 'm' closes the mouth completely, suggesting enclosure and internality. The back rounded vowel 'u' is the darkest, most withdrawn vowel, resonating low in the throat. One closed syllable for the quantity that contains nothing.",
-  "grammatical_notes": "Functions dually as a numeral (expressing the quantity zero) and as a determiner (modifying nouns to indicate absence). Can stand alone in mathematical expressions or modify nouns directly: 'mu lureko' (zero fruits). In counting sequences, 'mu' represents both the starting point and the return—the cycle's beginning and end. Serves as the identity element for addition in mathematical operations. When functioning as a determiner, announces complete absence rather than mere negation.",
+  "grammatical_notes": "Functions dually as a numeral (expressing the quantity zero) and as a determiner (modifying nouns to indicate absence). Can stand alone in mathematical expressions or modify nouns directly: 'mu lureko' (zero fruits). It is not pronounced as an internal coefficient in a compound numeral; zero scale positions are omitted, so 82 is 'ta rei ta', not a form containing 'mu'. Serves as the identity element for addition. As a determiner it states an exact count of zero, while 'mawha' is the quantifier 'none'.",
   "pillars": {
-    "secular-buddhist-philosophy": "The numeral carries śūnyatā (emptiness)—not nihilistic void but open potential. As in the teaching that form is emptiness and emptiness is form, 'mu' gives absence a name and a place in the count.",
-    "pre-industrial-wisdom": "Traditional cultures understand the fallow field, the rest between breaths, the pause between seasons. 'Mu' carries this wisdom that emptiness is part of the cycle, that zero is not failure but preparation."
+    "secular-buddhist-philosophy": "Phi places the numeral beside Buddhist reflection on emptiness as a mnemonic and design analogy. Numerical zero is not a translation or proof of śūnyatā, and the word does not make absence spiritually beneficial.",
+    "pre-industrial-wisdom": "Fallow fields, rests between tasks, and pauses in seasonal work provide practical images for a useful absence. Phi draws on those images without claiming that every absence is preparation or assigning one doctrine of zero to traditional cultures."
   },
   "tags": {
     "cognition": "mathematical concept of absence and identity",
     "temporal": "cycles' beginning and end, pauses between",
-    "wisdom": "understanding emptiness as pure potential"
+    "wisdom": "supports a Phi-specific metaphor of emptiness as potential"
   }
 }

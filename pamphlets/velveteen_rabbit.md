@@ -1828,8 +1828,8 @@ one large sadness ALL 3SG PST come.
 (And a great sadness came over him.)
 williams: "and a great sadness came over him."
 
-shia mena theula lo ha shemu neo miso wepu meno to ho nila.
-3SG DECL.COMP UNIV PL PROX moment FRONT REFL go DECL.COMP.CLOSE PST ASSUM see.
+shia mena theula ha shemu neo miso wepu meno to ho nila.
+3SG DECL.COMP UNIV PROX moment FRONT REFL go DECL.COMP.CLOSE PST ASSUM see.
 (He seemed to see all those hours pass before him.)
 williams: "He seemed to see them all pass before him,"
 

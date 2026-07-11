@@ -1,6 +1,6 @@
 # Part 3: The four natures
 
-Between a number and its noun, Phi offers a classifier: one small word naming what kind of being is being counted. Four exist, always optional, never inflected: `himo` (HUM.CLF, people), `lipha` (LIFE.CLF, living beings), `themo` (THING.CLF, detached and crafted objects), `nophe` (ABST.CLF, concepts, time, events). The doctrine, including the nature-now rule, is canon and the reference's; this part is judgment practice, because the rule is easy and the world is not.
+Between a number and its noun, Phi offers a classifier: one small word naming a category assigned to what is counted. Four exist, always optional and never inflected: `himo` (HUM.CLF, people), `lipha` (LIFE.CLF, living beings), `themo` (THING.CLF, detached and crafted objects), and `nophe` (ABST.CLF, concepts, time, events). The doctrine, including the nature-now rule, is canon and the reference's; this part is judgment practice because real categories can be contested or uncertain.
 
 ### The pattern, once
 
@@ -24,7 +24,7 @@ one ABST.CLF day. two ABST.CLF day.
 (One day. Two days.)
 ```
 
-All four are the primer's market chapter, nearly verbatim: people, life, things, and time, one scene each. The egg's classifier is the chapter's quiet masterstroke: `lipha`, *because an egg is life in waiting; the lexicon says so itself.*
+All four appear in the primer's market chapter: people, living things, crafted things, and time, one scene each. The lexicon classifies an egg with `lipha` as life in waiting; a speaker may omit the classifier when that categorization is irrelevant or uncertain.
 
 ### The nature-now rule, drilled
 
@@ -36,7 +36,7 @@ The classifier tracks what the counted thing *is now*: not what it was, resemble
 
 **`themo` covers the detached and the crafted.** A branch on the living tree is the tree's living arm: `lipha` if you count it at all. The same branch on the ground is detached *now*: `themo`. The basket woven from it never looks back: `themo`.
 
-**And `himo` is not a biology claim but an honoring.** People take `himo` because counting people is the counting most in need of manners. The reference is direct about this: nine people counted `ta phoi himo miona` are *recognized as human beings, not mere units*.
+**And `himo` is a human category, not a guarantee of regard.** People take `himo`; `ta phoi himo miona` explicitly classifies nine counted entities as people. That form can foreground their humanity, but a classifier cannot ensure respectful treatment or prevent a person from being reduced to a metric.
 
 ### Judgment drill
 
@@ -53,4 +53,4 @@ Choose the classifier (or defensibly decline one) and say the full phrase. Reaso
 
 ### Optional, and therefore meaningful
 
-Because classifiers are never required, every use is a choice, and choices carry tone. `wi melu` is two friends, complete and warm. `wi himo melu` pauses one beat longer on their humanity. The primer calls the classifier *good manners toward the things counted*, and that is the register to hear: not bureaucracy but courtesy. The one place courtesy leans toward obligation is arithmetic done on real beings (Part 6), where the classifier keeps the numbers from forgetting their referents mid-calculation.
+Because classifiers are never required, every use is a choice and may carry tone. `wi melu` and `wi himo melu` both mean two friends; the second explicitly adds the human category. This can function as courtesy or emphasis, but omission is fully grammatical and does not imply disregard. In arithmetic, referent compatibility matters even when all classifiers are omitted; Part 6 gives separate rules for addition, subtraction, multiplication, and division.

@@ -32,7 +32,7 @@
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
 | `lupho` | float | The swimmer's stillness |
 | `makelu` | abstain | formally registering no selection in a procedure |
-| `masue` | measure | The maker's estimating hand |
+| `masue` | measure | Determining a magnitude for a stated purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
 | `meilo` | sit | fundamental human activity of sitting |
 | `meliho` | sing | fundamental human activity of singing |
@@ -82,7 +82,7 @@
 | `somethi` | monitor | planned repeated observation, measurement, sampling, or recording |
 | `takori` | load | required work or throughput relative to a technical function |
 | `tapu` | close | The keeper's daily verb |
-| `tawi` | count | The keeper's evening practice |
+| `tawi` | count | Enumerating a set for a stated or recoverable purpose |
 | `terura` | system | an organized whole whose components participate in processes |
 | `thalo` | walk | fundamental form of human locomotion |
 | `thape` | burn | The keeping of flame |
@@ -151,7 +151,7 @@
 | `phui` | flute | Breath music |
 | `phuliro` | stream | Gentle flowing water |
 | `phuri` | brush | Flowing marks |
-| `rei` | eighty-one-group | The beautiful overwhelm of the infinite—patterns too complex to trace, variations too numerous to catalog. 'Rei' represents quantity as aesthetic experience rather than numerical fact. |
+| `rei` | eighty-one-group | Can present a large visible pattern through approximate magnitude rather than an unsupported exact tally |
 | `roena` | copper | Aging beauty |
 | `rulo` | red | visual quality of warm hue |
 | `sena` | pattern | Repeated design |
@@ -225,8 +225,8 @@
 | `kuelo` | curious | Wonder-seeking |
 | `kuewa` | strange | The unfamiliar, named without verdict |
 | `kupela` | secret | The known and untold |
-| `lau` | twenty-seven-group | Represents the cognitive boundary where enumeration becomes impossible, where the mind must shift from counting to experiencing magnitude. 'Lau' embodies the limit of numerical cognition at human scale. |
-| `leiro` | release | Mathematical operation requiring deliberate mental processing |
+| `lau` | twenty-seven-group | Names three groups of nine; exact recognition normally requires counting or learned grouping |
+| `leiro` | release | Names arithmetic subtraction through a release metaphor |
 | `letharo` | consistent | the quality of propositions that can be true together |
 | `likori` | species | a biological category whose criteria and source must be recoverable |
 | `lilea` | clarify | illuminates meaning by clearing mental confusion |
@@ -234,7 +234,7 @@
 | `litero` | ecosystem | a bounded analytical whole selected for ecological explanation |
 | `loetha` | open (receptive) | Receptive thinking |
 | `lunai` | vision | Forward seeing |
-| `masue` | measure | Relational comparison |
+| `masue` | measure | Comparison with an explicit or recoverable standard |
 | `masuro` | calibrate | a practice that establishes how an indication relates to a reference |
 | `meluri` | climate | a scoped account of long-term atmospheric distribution and variability |
 | `miona` | person | personhood inherently involves consciousness and self-awareness |
@@ -270,7 +270,7 @@
 | `peloma` | harmful | assessment of negative effect |
 | `pemaru` | hazard | a potential-harm classification kept distinct from likelihood and outcome |
 | `phaelo` | feel | embodied knowing through sensory-emotional experience |
-| `phanoi` | portion | Mathematical operation requiring deliberate mental processing |
+| `phanoi` | portion | Names arithmetic division through a portioning metaphor |
 | `phelira` | mistaken | recognition of error state |
 | `phelui` | word | the carrier of meaning between minds |
 | `phenui` | thoughtful | Considered thinking |
@@ -286,14 +286,14 @@
 | `phisuwa` | example | a particular case used to illuminate a broader idea |
 | `phiwapi` | butterfly | Change made visible and winged |
 | `phiwheki` | counterexample | a scoped case that disproves a general claim as stated |
-| `phoi` | nine-group | Represents the cognitive threshold where counting becomes approximation, where the mind shifts from enumeration to estimation. 'Phoi' embodies the natural limit of subitizing and easy counting. |
+| `phoi` | nine-group | Names a quantity beyond ordinary subitizing that can be learned as three triads |
 | `phoka` | lens | Focusing clarity |
 | `phue` | wise | Mature insight |
 | `porua` | purpose | Goal orientation |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
 | `pukate` | break | The event named so mending can follow |
 | `pula` | wish | Orientation toward desired futures |
-| `rei` | eighty-one-group | Represents the absolute limit of human numerical cognition, the point where the mind must abandon counting and embrace the concept of boundlessness. 'Rei' embodies cognitive humility. |
+| `rei` | eighty-one-group | Names a learned group of eighty-one, not a perceptual or cognitive limit |
 | `relo` | symbol | Representation |
 | `remo` | think | fundamental mental process of contemplation and analysis |
 | `remole` | concept | an organized idea used to relate or classify experience |
@@ -312,7 +312,7 @@
 | `senao` | same | the perception of identity |
 | `seru` | commit | Binding decision |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
-| `shao` | three-group | Represents a fundamental cognitive grouping—the shift from individual counting to pattern recognition. 'Sha' embodies how the mind naturally chunks information into manageable groups. |
+| `shao` | three-group | Names a small group that often falls within the adult subitizing range under suitable viewing conditions |
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
@@ -324,7 +324,7 @@
 | `shewo` | true | Truthfulness |
 | `shiloa` | pure | mental clarity and freedom from distortion |
 | `shiwolu` | integrate | Synthesizing into coherent whole |
-| `sholei` | gather | Mathematical operation requiring deliberate mental processing |
+| `sholei` | gather | Names arithmetic addition through a gathering metaphor |
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
 | `shoru` | dull | Not acute |
 | `sirami` | record | a durable account with source and version |
@@ -337,7 +337,7 @@
 | `sorai` | insight | Deep seeing |
 | `ta` | one | fundamental cognitive concept for counting and establishing singular identity |
 | `takori` | load | a quantity interpreted in relation to capacity and conditions |
-| `tawi` | count | Mindful enumeration |
+| `tawi` | count | Exact or approximate counting within Phi's documented limits |
 | `tawimo` | foolish | The pause thought needed and did not get |
 | `telua` | accurate | Correctness |
 | `terura` | system | a bounded unit selected for analysis and explanation |
@@ -370,7 +370,7 @@
 | `waeli` | conscious | Awareness state |
 | `wakomi` | surprise | The mind caught open |
 | `waora` | wondrous | What outruns what was looked for |
-| `welura` | spread | Mathematical operation requiring deliberate mental processing |
+| `welura` | spread | Names arithmetic multiplication through a spreading metaphor |
 | `weni` | imagine | Creative mental image formation |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
 | `wesho` | locate | Discovery |
@@ -420,7 +420,7 @@
 | `kuma` | drum | Collective voice |
 | `kumoli` | hungry | What the shared table answers |
 | `laenu` | commons | Collective resource |
-| `lau` | twenty-seven-group | As the measure of crowd-scale abundance, 'lau' inherently relates to collective gathering, community resources, and shared plenty. It represents the scale at which individual counting yields to collective experience. |
+| `lau` | twenty-seven-group | Can estimate a gathering or shared stock without claiming sufficiency |
 | `lei` | harmony | weaves diverse voices into collective resonance |
 | `loa` | give | creating bonds through sharing |
 | `loami` | gift | What changes hands unowed |
@@ -503,7 +503,7 @@
 | `phaeno` | week | Work rhythm |
 | `phaliso` | network | fundamentally about collective relationships and mutual support |
 | `phamo` | console | Supporting the bereaved |
-| `phanoi` | portion | Frames division as fair distribution among recipients |
+| `phanoi` | portion | Relates a total to recipients or groups without asserting fairness |
 | `phanuli` | allocate | collective allocation among stated recipients or purposes |
 | `phao` | parent | fundamental to family bonds and social structure |
 | `pharea` | adult | embodies responsibility and contribution to collective wellbeing |
@@ -519,7 +519,7 @@
 | `phewani` | neighbor | fundamental to local social bonds and collective life |
 | `phewo` | sage | Wisdom role |
 | `phitura` | well (water) | The shared water-place |
-| `phoi` | nine-group | As a measure of 'many' or 'plenty,' 'phoi' inherently relates to sharing and distribution. It represents quantities sufficient for group needs, for gathering and giving. |
+| `phoi` | nine-group | Can describe a small gathering without defining its cohesion or sufficiency |
 | `phomila` | offspring | fundamental to family bonds and social continuity |
 | `phowe` | share | foundational act of community building |
 | `pilu` | take | creating bonds through reciprocity |
@@ -547,7 +547,7 @@
 | `shemui` | utter | connecting people through shared words |
 | `shereni` | entitlement | a recognized and scoped claim under a stated source |
 | `shiwolu` | integrate | Creating functional unity |
-| `sholei` | gather | Frames addition as bringing together into collective whole |
+| `sholei` | gather | Offers gathering as a metaphor for combined quantities |
 | `shorai` | commune | Shared living |
 | `shorema` | contribute | Adding to shared endeavors |
 | `shorupo` | protect | Guarding the vulnerable |
@@ -1024,7 +1024,7 @@
 | `kurathi` | dry | the condition after water's departure |
 | `kurisha` | storm | Violent weather |
 | `kurona` | horn | The head's hard growth |
-| `lau` | twenty-seven-group | Reflects natural abundance patterns—a flock of birds, a school of fish, a grove of trees. 'Lau' captures the plenty that nature provides without enumeration. |
+| `lau` | twenty-seven-group | Can estimate grouped natural quantities such as trees or birds |
 | `lei` | harmony | reflects ecosystems in balance and natural cooperation |
 | `lepa` | fall | What leaves, rain, and ripe fruit do |
 | `leru` | beach | Sandy shoreline |
@@ -1134,7 +1134,7 @@
 | `pisha` | split | How seeds and paths divide |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
-| `rei` | eighty-one-group | Reflects nature's truly countless phenomena—stars, atoms, drops of ocean, grains of sand. 'Rei' captures the infinite abundance that defines the natural world. |
+| `rei` | eighty-one-group | Can estimate large natural quantities without claiming infinity |
 | `rihe` | rise | Effortless ascent |
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
@@ -1204,7 +1204,7 @@
 | `wapi` | fly | The motion of birds and wind-borne things |
 | `wapile` | wing | Flight's limb |
 | `welamu` | elm | The tree of the riverside lane |
-| `welura` | spread | Frames multiplication as organic growth and spreading |
+| `welura` | spread | Offers spreading as a metaphor for multiplication |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
 | `wheiru` | mist | Suspended water droplets |
@@ -1301,7 +1301,7 @@
 | `maeli` | quiet | Low sound |
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
 | `manuwe` | hand | the body member of grasping and making |
-| `masue` | measure | Size taken against the body |
+| `masue` | measure | Supports embodied and instrument-based measurement |
 | `meilo` | sit | fundamental bodily position and experience of supported rest |
 | `meipa` | seat | Made for sitting |
 | `menoa` | face | The front of the head bearing features |
@@ -1698,7 +1698,7 @@
 | `howenu` | weather | a short-duration environmental condition or event |
 | `kaero` | phase | Cycle segment |
 | `kamo` | arrive | Moment of journey's completion |
-| `kelai` | equals | Marks the moment of transformation from operation to outcome |
+| `kelai` | equals | Can mark an operation's stated outcome; pure equality is not temporal |
 | `keloi` | summer | Abundance season |
 | `kelu` | become | transforming through time and process |
 | `kelua` | morning | Early day |
@@ -1713,7 +1713,7 @@
 | `kurisha` | storm | Transformative force |
 | `laeno` | long | duration and extended time |
 | `laniru` | journey | Extended movement through time |
-| `lau` | twenty-seven-group | Twenty-seven approximates a lunar month, making 'lau' inherently connected to natural time cycles, seasonal abundance, and the rhythms of gathering and distribution. |
+| `lau` | twenty-seven-group | Can estimate a span near twenty-seven when a day count is intended; it is not a month unit |
 | `liloni` | population | a living group described for a stated time or period |
 | `limu` | young | Early in life |
 | `lioru` | life | Living duration |
@@ -1856,9 +1856,9 @@
 | `kowela` | council | cultivates patient consensus through collective insight |
 | `kuelo` | curious | Openness to learning |
 | `kulo` | guide | Sharing knowledge of the way |
-| `lau` | twenty-seven-group | Carries deep understanding about the limits of quantification, the wisdom that beyond certain thresholds, counting becomes meaningless and presence becomes essential. |
+| `lau` | twenty-seven-group | Makes the choice between exact and approximate description audible |
 | `lei` | harmony | requires understanding the middle way and patient adjustment |
-| `leiro` | release | Embodies non-grasping and acceptance of release |
+| `leiro` | release | Offers release as a metaphor without prescribing acceptance |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `liona` | live | Engaged presence in existence |
 | `liroa` | playful | Fun-loving spirit |
@@ -1881,7 +1881,7 @@
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | Right-sized self |
-| `mu` | zero | understanding emptiness as pure potential |
+| `mu` | zero | supports a Phi-specific metaphor of emptiness as potential |
 | `mueli` | plain (unadorned) | Simple sufficiency |
 | `muko` | careless | Lacking care |
 | `muro` | stubborn | Resistant to change |
@@ -1922,7 +1922,7 @@
 | `phewo` | sage | Insight earned through living |
 | `phiro` | elegant | Tasteful quality |
 | `phiwheki` | counterexample | attention to particulars that resist an overly broad rule |
-| `phoi` | nine-group | Carries the understanding that beyond certain thresholds, precision yields to sufficiency. The wisdom that 'enough' matters more than 'exactly how many.' |
+| `phoi` | nine-group | Keeps exact, approximate, and sufficient quantity as separate claims |
 | `pholui` | bamboo | Flexible strength |
 | `pholuo` | luminous | Inner illumination |
 | `phue` | wise | Deep understanding |
@@ -1931,7 +1931,7 @@
 | `punoa` | society | Collective order |
 | `raeli` | height | Elevation |
 | `ralu` | free | Unbound state |
-| `rei` | eighty-one-group | Knowing where counting stops being useful: 'rei' marks the point where a quantity is estimated rather than tallied. |
+| `rei` | eighty-one-group | Keeps exact eighty-one, approximate eighty-one-scale, and literal uncountability distinct |
 | `relua` | mirror | Self-seeing |
 | `remo` | think | thinking as the path to understanding and awareness |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
@@ -1948,7 +1948,7 @@
 | `selua` | aware | Knowing presence |
 | `serao` | old | accumulated experience and endurance |
 | `shaelo` | brave | Facing difficulty |
-| `shao` | three-group | Carries traditional understanding of triadic completeness found across cultures. The wisdom that three represents the minimum for pattern, rhythm, and cycle. |
+| `shao` | three-group | Makes triadic grouping available as a design association rather than a universal claim |
 | `shea` | peace | requires understanding and active cultivation |
 | `sheluo` | listen | involves mindful awareness and receptive presence |
 | `shemu` | moment | Present experience |

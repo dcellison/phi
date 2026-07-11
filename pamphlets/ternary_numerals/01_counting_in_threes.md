@@ -1,6 +1,6 @@
 # Part 1: Counting in threes
 
-Three words count everything Phi counts: `mu` (zero), `ta` (one), `wi` (two). Everything past two is groups, and the first group-word, `shao` (three-group), carries you to eight. The primer's market chapter opens exactly here, with a child counting eggs on the road to the village:
+Three digit words begin everything Phi counts: `mu` (zero), `ta` (one), `wi` (two). Everything past two is expressed through groups, and the first scale word, `shao` (three-group), carries you to eight. The primer's market chapter opens exactly here, with a child counting eggs on the road to the village:
 
 ```
 ta lipha powea. wi lipha powea. ta shao lipha powea.
@@ -29,11 +29,11 @@ Notice what never appears: a remainder of three. The moment you have three left 
 
 ### The rhythm drill
 
-Ternary counting has a spoken rhythm English counting lacks, and the fastest way to own it is aloud, walking, one number per step, the child's way:
+Ternary counting has a spoken rhythm different from English counting. One useful practice is to say one number per step:
 
 `ta. wi. ta shao. ta shao ta. ta shao wi. wi shao. wi shao ta. wi shao wi.`
 
-Then backwards. Then starting from four. Then only the even steps. The goal is not speed for its own sake: it is that `ta shao wi` stops being arithmetic and becomes *five*, one word-shape, heard whole. A learner who still computes on hearing has not finished this part; a learner who hears quantity directly is ready for the scale.
+Then go backwards, start from four, and use shuffled orders. The long-term goal is for `ta shao wi` to be recognized as *five* without reconstructing it every time, but learners reach that familiarity at different rates. Understanding the structure is enough to proceed; automatic recognition grows through later use.
 
 ### `mu`: the count that is absence
 
@@ -53,7 +53,7 @@ Alongside `mu` stands the quantifier `mawha` (none): `mawha suliwa.` (no snake a
 
 ### Drill: hear it whole
 
-Cover the right column. Read each aloud, say the quantity, uncover, check. Repeat until no line takes longer to understand than to say.
+Cover the right column. Read each aloud, say the quantity, uncover, and check. Repeat over several sessions, then reverse the task by producing Phi forms from quantities or visible triad arrangements.
 
 ```
 wi shao ta          — 7
@@ -66,4 +66,4 @@ wi shao             — 6
 ta shao ta          — 4
 ```
 
-Then produce: 6, 3, 8, 1, 5, 0, 7, 4, 2, aloud, in order, then shuffled. Tomorrow, again. This is the times-table stage of the pamphlet; nothing later works without it, and nothing later is this dry.
+Then produce 6, 3, 8, 1, 5, 0, 7, 4, and 2 aloud, first in that order and then shuffled. This is the pamphlet's foundation; later sections remain usable even while recognition is still becoming automatic.

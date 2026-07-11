@@ -1,129 +1,108 @@
-# Plural marking with 'lo'
+# Plural marking with *lo*
 
-## Plurality as choice
+## Unquantified plurality
 
-Unlike languages that require plural marking on every noun referring to multiple entities, Phi treats plurality as optional information. When the context makes it clear that multiple items are involved, no explicit marker is needed. When clarification or emphasis is desired, the particle `lo` announces plurality.
-
-This approach fits Phi's broader philosophy of grammatical economy: mark what matters, trust context for the rest.
-
-## The plural particle
-
-The particle `lo` is a Slot 2 particle that appears immediately before the noun it modifies:
+Phi does not require every noun to state number. A bare noun can be interpreted from context. When a noun phrase has no numeral or quantifier and explicit plurality matters, the Slot 2 particle `lo` stands immediately before the noun phrase it pluralizes:
 
 **lo melu**  
 *PL friend*  
-"friends"
+“friends”
 
 **lo shiro**  
 *PL tree*  
-"trees"
+“trees”
 
 **lo nophi**  
 *PL story*  
-"stories"
+“stories”
 
-The particle signals that the noun refers to multiple entities without specifying exactly how many. It creates an unquantified plural: more than one, but the exact number is unimportant or unknown.
+`Lo` marks more than one without giving an exact count or relative quantity.
 
-## When to use 'lo'
+```text
+mia lo melu nila.
+1SG PL friend see.
+(I see friends.)
+```
 
-The plural particle appears in two situations.
+## Numerals and quantifiers replace *lo*
 
-If no quantifier or number is present, `lo` can clarify that multiple entities are meant.
+A numeral or quantifier already supplies quantity information, so `lo` is prohibited in the same noun phrase. This is not an optional redundancy distinction: use one quantity marker.
 
-**mia lo melu nila.**  
-*1SG PL friend see*  
-"I see friends." (more than one, unspecified)
+| Correct | Incorrect | Meaning |
+|---|---|---|
+| `wi melu` | `*wi lo melu` | two friends |
+| `ta shao nophi` | `*ta shao lo nophi` | exactly three stories |
+| `sheloi melu` | `*sheloi lo melu` | many friends |
+| `phina shiro` | `*phina lo shiro` | few trees |
+| `theula melu` | `*theula lo melu` | all friends |
+| `mawha melu` | `*mawha lo melu` | no friends |
 
-Even when plurality is already clear, `lo` can emphasize the group as a group rather than as individuals.
+Remember the distinction inside the numeral system: `ta shao nophi` is exactly three stories, while bare `shao nophi` is approximately a three-group of stories. Neither combines with `lo`.
 
-**lo sila**  
-*PL community*  
-"communities" (emphasizing the plurality of distinct communities)
+## Classifiers do not change the rule
 
-## When 'lo' is optional
+A classifier is optional and does not license an additional plural marker:
 
-When a quantifier already indicates plurality, `lo` becomes optional:
+```text
+ta shao himo melu
+one three-group HUM.CLF friend
+(exactly three friends, explicitly classified as people)
+```
 
-| Without `lo` | With `lo` | Meaning |
-|--------------|-----------|---------|
-| `sheloi melu` | `sheloi lo melu` | many friends |
-| `phina shiro` | `phina lo shiro` | few trees |
-| `shao nophi` | `shao lo nophi` | three stories |
+The alternatives are:
 
-Both forms are grammatical. The version without `lo` is simpler and often preferred in casual speech. The version with `lo` adds slight emphasis on the collective nature of the group.
-
-For quantifiers expressing a large or total amount, like `theula` (all) or `sheloi` (many), adding `lo` is natural and common:
-
-**theula lo melu**  
-*UNIV PL friend*  
-"all friends"
-
-For smaller, more countable quantities, the speaker has a choice based on whether they want to emphasize the group as a unit.
-
-## The interaction with classifiers
-
-When classifiers are used with plural nouns, `lo` typically appears before the noun, not before the classifier:
-
-**shao himo lo melu**  
-*three HUMAN-CL PL friend*  
-"three friends" (with both classifier and plural marker)
-
-In practice, using both classifier and plural marker is relatively rare. The classifier already adds specificity, and `lo` is often redundant when an exact number is given. More commonly, speakers choose one or the other based on their communicative purpose:
-
-- Use the number alone for simple counting: `shao melu`
-- Add the classifier for mindful acknowledgment: `shao himo melu`
-- Use `lo` without a number for unquantified plurality: `lo melu`
+- `ta shao melu`: exactly three friends, no classifier.
+- `ta shao himo melu`: exactly three friends, with the human classifier.
+- `lo melu`: friends, explicitly plural but unquantified.
+- `melu`: friend or friends, with number left to context.
 
 ## Singular and zero
 
-Phi has no dedicated singular marker. A noun without `lo` or any quantifier is simply unmarked for number. Context determines whether it refers to one entity or multiple.
-
-For explicit singularity, use the numeral `ta` (one):
+Phi has no separate singular article. Use `ta` when exact singularity matters:
 
 **ta melu**  
 *one friend*  
-"one friend" / "a single friend"
+“one friend”
 
-For zero quantity, use the quantifier `mawha` (none):
+Use `mu` for the exact numerical value zero and `mawha` for the quantifier *none*. Both exclude `lo`:
 
-**mawha melu**  
-*none friend*  
-"no friends"
+```text
+mu melu
+zero friend
+(zero friends, as a count)
 
-## Number in practice
+mawha melu
+NONE friend
+(no friends)
+```
 
-The flexibility of Phi's number marking reflects a deeper principle: grammatical complexity should serve communication, not the other way around.
+## Quantity choices
 
-English requires plural marking even when redundant ("three books" must have the -s even though "three" already signals plurality). Phi allows speakers to omit redundant information when context is clear.
+| Expression | Claim |
+|---|---|
+| `melu` | friend or friends; number unstated |
+| `lo melu` | more than one friend; no count |
+| `ta melu` | exactly one friend |
+| `wi melu` | exactly two friends |
+| `ta shao melu` | exactly three friends |
+| `shao melu` | friends on approximately a three-group scale |
+| `soli melu` | some friends; relative size unstated |
+| `sheloi melu` | contextually many friends |
 
-This creates a spectrum of precision:
+Exact, approximate, quantified, and unquantified forms make different claims. None is automatically more mindful or truthful; choose the one supported by knowledge and context.
 
-| Expression | Information given |
-|------------|-------------------|
-| `melu` | friend(s), number unspecified |
-| `lo melu` | friends, explicitly plural |
-| `ta melu` | one friend, explicitly singular |
-| `wi melu` | two friends, exact count |
-| `sheloi lo melu` | many friends, large quantity emphasized |
+## Noun phrase order
 
-Speakers navigate this spectrum based on what their listeners need to know. The grammar provides tools for precision without demanding it.
-
-## Summary: noun phrase structure
-
-With all the pieces in place, here is the complete pattern of a Phi noun phrase:
-
-**[Quantifier/Number] [Classifier] [Deictic] [Possessor] [Adjective] [lo] NOUN**
-
-Not all slots need to be filled. A noun phrase might contain only a noun, or it might include several modifiers:
+The number-related alternatives are `[numeral] ([classifier]) [noun]`, `[quantifier] [noun]`, `wia ([classifier]) [noun]`, or `lo [noun]` for an unquantified plural. Other modifiers keep the canonical order summarized in Part VII, using only semantically compatible elements; numeral and quantifier are alternative quantity strategies, and an ordinary quantifier does not take a classifier. A possessor precedes the phrase it owns.
 
 | Phi | Components | English |
-|-----|------------|---------|
-| `shelu` | noun | book(s) |
+|---|---|---|
+| `shelu` | N | book or books |
 | `phelora shelu` | ADJ + N | beautiful book |
 | `mia shelu` | POSS + N | my book |
 | `wi shelu` | NUM + N | two books |
-| `wi themo shelu` | NUM + CL + N | two books (as objects) |
-| `ha mia serao shelu` | DEIX + POSS + ADJ + N | this old book of mine |
-| `theula lo melu` | QUANT + PL + N | all friends |
+| `wi themo shelu` | NUM + CLF + N | two books, classified as objects |
+| `mia ha serao shelu` | POSS + DEM + ADJ + N | this old book of mine |
+| `theula melu` | QUANT + N | all friends |
 
-The system is consistent: modifiers precede what they modify. Context before conclusion. The listener builds a picture of qualities, relationships, and quantities before learning what noun anchors them all.
+Modifiers precede what they modify, and only unquantified plurality uses `lo`.

@@ -30,7 +30,7 @@ trader PL thing exchange.
 
 ## The counting owed
 
-A trade is one of the places exactness is owed: the counted thing is leaving your hands into someone else's trust. The market-day text conducts a whole morning of trade on that principle, bowls for eggs, counted precisely, asked with *wia* and answered with the ternary numbers. Notice what the scene does not contain: no price, no payment, no money. Two people, two kinds of goods, and honest counts.
+An exchange often requires exact counts because the difference affects what each participant gives and receives. The market-day text conducts a morning of trade on that principle, bowls for eggs, asked with *wia* and answered with exact ternary numerals. Other exchanges may use an estimate or qualitative description by agreement. Notice what the scene does not contain: no price, no payment, and no money vocabulary; exact source economic records still remain available outside the Phi passage when needed.
 
 ## The refusal, third of three
 

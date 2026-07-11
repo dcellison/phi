@@ -30,7 +30,7 @@ Phi's shape is not English's shape. As you rebuild:
 
 Read the draft against the Five Pillars. Does it quantify what should stay qualitative? Does it accuse where it could observe? Does it borrow a hierarchy the language refuses? The grammar will usually have blocked these already (that is what it is for), but the check is part of the practice.
 
-Where the language *resists* the original (a statistic that will not survive the ternary numbers, a blame the passive declines to assign), pause. The resistance is information. Sometimes the right response is to drop the content (the second case study drops a dollar figure without loss). Sometimes it is to discover what the original was really saying beneath its habits.
+Where the language *resists* the original (an exact statistic that needs a source record, a blame the passive declines to assign), pause. The resistance is information, not permission to erase relevant content. Sometimes a Phi summary can omit a detail while the source record preserves it; sometimes the detail is essential and must remain beside the passage. Sometimes the resistance reveals what the original was doing beneath its habits.
 
 ## Step 5: Validate
 
