@@ -48,7 +48,7 @@ The Phi summary omitted it, and that omission is a choice rather than a recovery
 Source record outside Phi: `$2.3 million`
 
 ```
-ha siranomi ha wisola ti thelima.
+ha sirami ha wisola ti thelima.
 PROX record PROX exchange REP describe.
 (The report describes this exchange.)
 ```

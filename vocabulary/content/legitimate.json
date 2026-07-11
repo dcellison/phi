@@ -1,20 +1,19 @@
 {
-  "word": "kirethua",
+  "word": "kirethu",
   "gloss": "legitimate",
-  "ipa": "/ki.re̞.ˈθu.ä/",
+  "ipa": "/ki.ˈre̞.θu/",
   "syllables": [
     "ki",
     "re",
-    "thu",
-    "a"
+    "thu"
   ],
   "pos": [
     "adjective"
   ],
   "concept": "Legitimate / Justifiably Grounded Under Stated Criteria",
   "description": "Of an authority, rule, decision, procedure, role, institution, or action, treated as appropriately grounded or justified under stated criteria, sources, relationships, and affected standpoints. Legitimacy may be partial, contested, conditional, or change over time. By the quality-noun rule the word also names legitimacy. It does not mean legal, popular, effective, true, fair, just, consensual, harmless, or accepted by every affected person.",
-  "sound_symbolism": "Criterion-bearing 'kire' meets open fairness 'thua', asking how a power claim is grounded without equating legitimacy with one moral conclusion. The final open vowel keeps disagreement audible.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'kirethua kanorami' (legitimate authority); 'wa ha kanusholu kirethua nai.' (Is this decision legitimate?) The quality-noun rule supplies legitimacy. State the criteria, source, affected parties, and standpoint. Distinct from 'thua' (fair), 'theloma' (justice), legal validity, popularity, effectiveness, and compliance.",
+  "sound_symbolism": "The criterion-bearing opening 'kire' asks how the power claim is grounded. Final 'thu', shared with the opening of 'thua' (fair), admits moral evaluation without equating legitimacy with fairness, justice, popularity, or one final conclusion.",
+  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'kirethu karami' (legitimate authority); 'wa ha kanuro kirethu nai.' (Is this decision legitimate?) The quality-noun rule supplies legitimacy. State the criteria, source, affected parties, and standpoint. Distinct from 'thua' (fair), 'theloma' (justice), legal validity, popularity, effectiveness, and compliance.",
   "pillars": {
     "secular-buddhist-philosophy": "Legitimacy is treated as conditioned by relationships, criteria, effects, and continuing examination rather than as an essence possessed by an office.",
     "peace-linguistics-practices": "The word allows speakers to question authority directly while requiring them to state whose criteria and whose acceptance ground the judgment."

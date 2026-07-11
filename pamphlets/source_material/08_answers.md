@@ -9,7 +9,7 @@ The preferred source-script name remains separate unless its bearer accepts a Ph
 One valid pair is:
 
 ```
-mia ha siranomi theo.
+mia ha sirami theo.
 1SG PROX record read.
 (I read this record.)
 ```

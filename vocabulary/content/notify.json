@@ -1,20 +1,19 @@
 {
-  "word": "shaneweli",
+  "word": "shanewi",
   "gloss": "notify",
-  "ipa": "/ʃä.n̪e̞.ˈwe̞.li/",
+  "ipa": "/ʃä.ˈn̪e̞.wi/",
   "syllables": [
     "sha",
     "ne",
-    "we",
-    "li"
+    "wi"
   ],
   "pos": [
     "verb"
   ],
   "concept": "Notify / Formally Direct Information to a Recipient",
   "description": "To formally direct a stated decision, proposal, requirement, event, claim, opportunity, or other information to an identified recipient through a stated method and time for the purpose of making it available. Through the event-noun rule the word also names notification or notice. Notification does not establish delivery, receipt, accessible format, attention, understanding, agreement, consent, legal sufficiency, publication, confidentiality, or authority of the source.",
-  "sound_symbolism": "Telling 'shane' opens into outward 'weli', directing information toward someone without pretending it arrived in usable form. The light ending keeps reception and understanding as later events.",
-  "grammatical_notes": "A transitive verb with the notifying source as subject, recipient in a dative phrase, and information as object: 'ha punoraki wei lo wemakori ha kanusholu shaneweli.' (The institution notifies the members of this decision.) State method, time, format, source, and required response separately. The event-noun rule supplies notification or notice. Distinct from 'shane' (tell), publication, 'siranomi' (record), successful receipt, and understanding.",
+  "sound_symbolism": "The complete verb 'shane' (tell) supplies the directed information, while relational 'wi' sends it toward an identified recipient. The light ending keeps delivery, receipt, accessibility, attention, and understanding as later events.",
+  "grammatical_notes": "A transitive verb with the notifying source as subject, recipient in a dative phrase, and information as object: 'ha punoki wei lo wemari ha kanuro shanewi.' (The institution notifies the members of this decision.) State method, time, format, source, and required response separately. The event-noun rule supplies notification or notice. Distinct from 'shane' (tell), publication, 'sirami' (record), successful receipt, and understanding.",
   "pillars": {
     "solarpunk-values": "Durable commons need traceable notice about resource changes, hazards, meetings, maintenance, and decisions without assuming one communication channel serves everyone.",
     "peace-linguistics-practices": "Separating notification from receipt and understanding prevents institutions from blaming excluded people merely because information was sent or posted."

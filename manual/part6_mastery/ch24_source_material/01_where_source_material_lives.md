@@ -15,7 +15,7 @@ This boundary keeps every Phi writing mode equivalent. A passage written in Teng
 Source record outside Phi: `12 V`
 
 ```
-mia ha siranomi theo.
+mia ha sirami theo.
 1SG PROX record read.
 (I read this record.)
 ```

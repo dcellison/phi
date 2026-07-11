@@ -1,10 +1,9 @@
 {
-  "word": "remopora",
+  "word": "repora",
   "gloss": "propose",
-  "ipa": "/re̞.mo̞.ˈpo̞.rä/",
+  "ipa": "/re̞.ˈpo̞.rä/",
   "syllables": [
     "re",
-    "mo",
     "po",
     "ra"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Propose / Present a Possible Collective Action for Consideration",
   "description": "To present a stated action, rule, allocation, decision, plan, or institutional change for consideration by identified recipients or a decision process. Through the event-noun rule the word also names a proposal. Proposing does not adopt, authorize, require, endorse, promise, implement, or prove the proposal desirable, and it is distinct from asserting that a proposition is true.",
-  "sound_symbolism": "Thinking 'remo' moves toward purposeful 'pora', bringing a possibility into public consideration without settling it. The open final syllable leaves the proposal available for amendment, refusal, or withdrawal.",
-  "grammatical_notes": "A transitive verb. A nominal object names the proposal, while a full proposed action uses the declarative complement frame: 'mia mena lo mia napuro phanokelu meno remopora.' (I propose that we allocate grain.) The event-noun rule supplies proposal. Distinct from 'sherewa' (claim), 'thilou' (inquire), requesting, promising, choosing, and 'kanusholu' (decision).",
+  "sound_symbolism": "Relational 're' brings a possibility into public consideration, while the purposeful sequence 'po.ra' gives it an intended direction without settling it. The open ending leaves amendment, refusal, adoption, or withdrawal available.",
+  "grammatical_notes": "A transitive verb. A nominal object names the proposal, while a full proposed action uses the declarative complement frame: 'mia mena lo mia napuro phanuli meno repora.' (I propose that we allocate grain.) The event-noun rule supplies proposal. Distinct from 'sherewa' (claim), 'thilou' (inquire), requesting, promising, choosing, and 'kanuro' (decision).",
   "pillars": {
     "solarpunk-values": "Proposals let communities make possible futures concrete enough to compare, revise, resource, and reject without treating imagination as implementation.",
     "peace-linguistics-practices": "Separating proposal from decision and obligation preserves genuine deliberation and prevents a powerful speaker's suggestion from silently becoming a command."

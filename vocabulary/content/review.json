@@ -1,10 +1,9 @@
 {
-  "word": "turekiro",
+  "word": "tukiro",
   "gloss": "review",
-  "ipa": "/t̪u.re̞.ˈki.ro̞/",
+  "ipa": "/t̪u.ˈki.ro̞/",
   "syllables": [
     "tu",
-    "re",
     "ki",
     "ro"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Review / Systematically Reconsider a Prior Matter",
   "description": "To systematically reconsider a prior decision, rule, action, allocation, role, record, finding, or procedure under a stated scope, criteria, evidence, participants, authority, and possible outcomes. Through the event-noun rule the word also names review. A review may confirm, amend, reverse, suspend, or leave the matter unresolved. It does not mean merely read, remember, discuss again, inspect technically, appeal, guarantee independence, or prove the result fair or legitimate.",
-  "sound_symbolism": "Returning 'turema' meets precise 'kiro', bringing attention back to an earlier matter with stated criteria rather than simple repetition. The four steps suit reopening, examination, response, and outcome.",
-  "grammatical_notes": "A transitive verb with the reviewing agent as subject and the prior matter as object: 'ha kowela ha kanusholu turekiro.' (The council reviews this decision.) State who may participate, evidence, criteria, authority, timing, and available outcomes. The event-noun rule supplies review. Distinct from 'theo' (read), 'shareo' (discuss), 'nilaki' (inspect), 'whekatuma' (appeal), and automatic reversal.",
+  "sound_symbolism": "Returning 'tu', shared with the opening of 'turema' (return), meets the complete precise form 'kiro'. The word brings attention back to an earlier matter under stated criteria rather than naming simple repetition or automatic reversal.",
+  "grammatical_notes": "A transitive verb with the reviewing agent as subject and the prior matter as object: 'ha kowela ha kanuro tukiro.' (The council reviews this decision.) State who may participate, evidence, criteria, authority, timing, and available outcomes. The event-noun rule supplies review. Distinct from 'theo' (read), 'shareo' (discuss), 'nilaki' (inspect), 'whetuma' (appeal), and automatic reversal.",
   "pillars": {
     "solarpunk-values": "Review lets institutions adapt resource decisions, infrastructure rules, and ecological interventions as conditions and evidence change.",
     "peace-linguistics-practices": "A defined review path keeps criticism actionable after an initial decision and distinguishes reconsideration from ceremonial listening or delay."

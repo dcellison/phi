@@ -1,10 +1,9 @@
 {
-  "word": "phelunori",
+  "word": "phenori",
   "gloss": "ownership",
-  "ipa": "/ɸe̞.lu.ˈn̪o̞.ri/",
+  "ipa": "/ɸe̞.ˈn̪o̞.ri/",
   "syllables": [
     "phe",
-    "lu",
     "no",
     "ri"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Ownership / Socially Defined Powers and Claims Over Something",
   "description": "A socially or institutionally defined relationship claimed or recognized as granting specified powers, claims, exclusions, transfers, uses, benefits, and obligations over a stated thing, place, material, work, information, or resource. Ownership varies across legal, customary, communal, and contested systems. The word does not mean physical holding, custody, use, stewardship, care, attachment, creation, unrestricted control, legitimacy, or an exact source-specific property category.",
-  "sound_symbolism": "Holding 'phelu' meets boundary-like 'nori', making ownership a delimited social claim rather than the natural shadow of possession. The form remains relational and leaves each claimed power to be stated.",
-  "grammatical_notes": "A countable or mass noun commonly modified by its object: 'ha miona ha muralo phelunori sherewa.' (This person claims ownership of this material.) State recognized powers, exclusions, obligations, source, duration, and dispute where relevant. Distinct from 'phelu' (hold), 'theluo' (steward), custody, use, 'laenu' (commons), and exact property categories.",
+  "sound_symbolism": "Breathy 'phe' opens a claimed relation to holding, while the boundary-like sequence 'no.ri' delimits its stated powers and exclusions. The form makes ownership a social relation rather than the natural shadow of possession and leaves each claimed power to be named.",
+  "grammatical_notes": "A countable or mass noun commonly modified by its object: 'ha miona ha muralo phenori sherewa.' (This person claims ownership of this material.) State recognized powers, exclusions, obligations, source, duration, and dispute where relevant. Distinct from 'phelu' (hold), 'theluo' (steward), custody, use, 'laenu' (commons), and exact property categories.",
   "pillars": {
     "solarpunk-values": "A neutral ownership term makes extraction, enclosure, common holding, transfer, repair, and ecological responsibility discussable without treating one property system as natural.",
     "peace-linguistics-practices": "Separating ownership from possession, care, creation, legitimacy, and authority prevents a claimed relation from erasing other users, histories, or affected communities."
