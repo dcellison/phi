@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Fever / Elevated Bodily Temperature State Under a Stated Reference",
-  "description": "An elevated bodily temperature state understood relative to a stated person, site, method, time, reference, or clinical threshold. A fever may be reported, measured, suspected, or changing. It is not warmth in general, environmental heat exposure, infection, danger, severity, diagnosis, or an instruction to use a particular intervention.",
+  "description": "Elevated bodily temperature measured against a stated reference: this person, this method, this moment. The exact reading, the device, and the threshold used belong in the record, since a fever's meaning depends entirely on what it is measured against.",
   "sound_symbolism": "Warmth-associated 'su' rises into open 'lo', while final 'ru' bounds the elevated state for observation. The form carries heat without making its cause or danger inherent.",
   "grammatical_notes": "A countable or mass noun according to context: 'mia suloru phelu.' (I have a fever.) Preserve exact readings, units, sites, devices, and thresholds in source material. Distinct from 'sulae' (warm), 'siwe' (sweat), 'peshiro' (infection), 'pelaku' (severity), and 'pukea' (danger).",
   "pillars": {
