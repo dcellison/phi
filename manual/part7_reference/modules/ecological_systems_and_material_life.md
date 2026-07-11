@@ -1,12 +1,14 @@
 # Ecological Systems and Material Life
 
-The Ecological Systems and Material Life module gives Phi speakers optional vocabulary for discussing living systems, habitats and biological groupings, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. The words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning this module does not confer scientific authority, land rights, ecological expertise, ownership, or permission to act.
+Dye runs from a workshop into a stream, and a fish downstream carries it in its blood. Naming that whole chain honestly needs more than one word for pollution: an agent, a concentration, an exposure, a threshold someone measured against, and a claim about harm that has to earn its place with evidence. These thirty words carry the chain link by link.
+
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them confers nothing: not scientific authority, not land rights, not permission to act.
 
 The complete machine-generated list is also available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
-The module does not replace Phi's existing language of land, water, weather events, living beings, materials, care, or change. It adds narrower ecological relations around these familiar resources.
+The module does not replace what Phi already says about land, water, weather, and living things. It adds narrower ecological relations around these familiar resources.
 
 | Area | Core Phi resources |
 |---|---|
@@ -17,48 +19,48 @@ The module does not replace Phi's existing language of land, water, weather even
 | Care and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
 | Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneho` tradeoff |
 
-The Systems and Shared Infrastructure module supplies useful shared terms such as `terura` system, `mirela` state, `pherami` dependency, `koewi` input, `thirulo` output, `sekaru` transfer, `turelo` feedback, `henora` capacity, `pemaru` hazard, and `kisholu` specification. These technical relations remain available without becoming ecological conclusions by themselves.
+Systems lends its own vocabulary for the mechanics underneath: `terura` system, `mirela` state, `pherami` dependency, `koewi` input, `thirulo` output, `sekaru` transfer, `turelo` feedback, `henora` capacity, `pemaru` hazard, `kisholu` specification. Borrowing a technical word does not by itself hand over an ecological conclusion.
 
 ## Module vocabulary
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
-| `litero` | noun | ecosystem; bounded relations among beings and environment | An ecosystem is not every landscape, forest, community, harmonious whole, or closed cycle. |
-| `menuro` | noun | habitat; place and conditions supporting an organism | Habitat is more than an observed location and does not establish suitability, quality, or protection. |
-| `likori` | noun | species; source-defined biological kind | The word chooses no universal species concept and does not replace an exact taxonomic name. |
-| `liloni` | noun | population; organisms of one kind in a place and time | A population is not a whole species, ecological community, political body, or sample. |
-| `liweso` | noun | ecological community; co-occurring populations in relation | It is not `sila`, does not imply harmony, and is more than a list of species. |
-| `philima` | noun | biodiversity; living variation within a selected scope | Biodiversity is not abundance alone, a list, ecological health, or proof of protection. |
-| `luphano` | noun | watershed; land draining toward a shared outlet | A watershed is not the water body, a political territory, or proof of one causal pathway. |
-| `wiralu` | noun | runoff; water flowing across land or built surface | Runoff is not inherently polluted and is distinct from rain, streamflow, and groundwater. |
-| `wheraku` | verb | erode; detach and transport earth or rock | Erosion is not every weathering, excavation, collapse, soil loss, or sediment deposit. |
-| `munari` | noun | sediment; transported or deposited particles | Sediment is not soil in general, dust in general, pollution, or the process of erosion. |
-| `howenu` | noun | weather; atmospheric conditions at a place and time | Weather is not climate, season, environmental condition in general, or a value judgment. |
-| `meluri` | noun | climate; long-term distribution and pattern of weather | Climate is not today's weather, one event, a season, model, forecast, or attribution claim. |
-| `phaluwe` | verb | flood; water cover or overflow beyond usual bounds | Flooding does not itself establish damage, disaster, blame, rarity, or climate attribution. |
-| `kuramo` | noun | drought; prolonged water deficit | Drought is not every dry day, arid climate, thirst, crop failure, or empty store. |
-| `pesenu` | verb | pollute; cause environmental impairment through an agent | Pollution is stronger than presence or contamination and requires evidence and criteria. |
-| `hisophi` | noun | contaminant; agent outside a stated expected condition | A contaminant is not automatically harmful, toxic, polluting, foreign, or legally prohibited. |
-| `pekira` | adjective | toxic; capable of biological harm under exposure | Toxicity is not exposure, dose, actual harm, pollution, danger in every use, or moral badness. |
-| `nomiki` | noun | concentration; amount of an agent per stated medium | Concentration is not total amount, load, toxicity, exposure, dose, or attentive thought. |
-| `perawi` | verb | expose; come into relevant contact with an agent | Exposure is not uptake, dose, toxicity, harm, consent, cause, or equal contact across a group. |
-| `muralo` | noun | material; physical matter considered in use or transformation | Material is not automatically resource, waste, commodity, ownership, or exact grade. |
-| `panuri` | noun | resource; something considered available for a purpose | Resource status does not establish ownership, access, abundance, renewability, or harmless use. |
-| `whemori` | noun | waste; material or energy assigned no further intended use | Waste is relational, not inherently worthless, harmless, disposable, or empty of other relations. |
-| `morume` | verb | decompose; break down through biological or chemical processes | Decomposition is not disappearance, death, composting, nutrient return, or a closed cycle. |
-| `lurepa` | noun | nutrient; material required or used for biological function | A nutrient is not food generally, fertilizer, beneficial in every amount, or proof of a cycle. |
-| `tukelu` | verb | recycle; process discarded material into new input or material | Recycling is not direct reuse, complete recovery, harmless disposal, or proof of sustainability. |
-| `phisuri` | noun | sample; selected portion or observation for examination | A sample is not an example, evidence by itself, representative by default, or a complete inventory. |
-| `mothami` | noun | baseline; stated reference condition for comparison | A baseline is not original nature, ideal state, target, cause, average, or moral norm. |
-| `herani` | noun | trend; direction or pattern across ordered observations | A trend is not one difference, cause, prediction, goal, popularity, or proof of continuation. |
-| `reteru` | noun | model; purpose-bounded representation of a system | A model is not reality, theory, example, ideal, proof, or authority of its maker. |
-| `somethi` | verb | monitor; repeatedly observe and record for change or decision | Monitoring is not causation, complete coverage, successful protection, or authority to surveil people. |
+| `litero` | noun | ecosystem; bounded relations among beings and environment | An ecosystem is a boundary drawn for a question, not every landscape that holds one. |
+| `menuro` | noun | habitat; place and conditions supporting an organism | Habitat is a place plus its supporting conditions, and a season can change which is which. |
+| `likori` | noun | species; source-defined biological kind | The word takes no side on which species concept is correct; the exact taxonomic name stays exact. |
+| `liloni` | noun | population; organisms of one kind in a place and time | A population is one species in one place and time, narrower than the species itself. |
+| `liweso` | noun | ecological community; co-occurring populations in relation | An ecological community can hold predation and disease as easily as mutual support; it is not `sila`. |
+| `philima` | noun | biodiversity; living variation within a selected scope | Biodiversity always names a scope: richness, abundance, and genetic variation are not interchangeable measures. |
+| `luphano` | noun | watershed; land draining toward a shared outlet | A watershed follows drainage, not a political line on a map. |
+| `wiralu` | noun | runoff; water flowing across land or built surface | Runoff is water in motion across a surface, and it carries no verdict about pollution on its own. |
+| `wheraku` | verb | erode; detach and transport earth or rock | Erosion is the detaching and carrying; `munari` is what it leaves behind. |
+| `munari` | noun | sediment; transported or deposited particles | Sediment is the particle, not the process that moved it, and not pollution by default. |
+| `howenu` | noun | weather; atmospheric conditions at a place and time | Weather is today's conditions; `meluri` (climate) is the long pattern they belong to. |
+| `meluri` | noun | climate; long-term distribution and pattern of weather | Climate is the pattern across years, never one day's weather standing in for it. |
+| `phaluwe` | verb | flood; water cover or overflow beyond usual bounds | A flood is water beyond its usual bounds; whether it is a disaster is a further claim. |
+| `kuramo` | noun | drought; prolonged water deficit | Drought is a prolonged deficit, not merely a dry day or a naturally arid place. |
+| `pesenu` | verb | pollute; cause environmental impairment through an agent | Pollution claims actual impairment, stronger than an agent's mere presence. |
+| `hisophi` | noun | contaminant; agent outside a stated expected condition | A contaminant is simply outside the expected condition; harm is 'pesenu''s stronger claim. |
+| `pekira` | adjective | toxic; capable of biological harm under exposure | Toxic is a capability under exposure, not proof that harm actually occurred. |
+| `nomiki` | noun | concentration; amount of an agent per stated medium | Concentration is always a ratio against a named medium, never a bare total. |
+| `perawi` | verb | expose; come into relevant contact with an agent | Exposure is contact; dose and harm are separate facts that contact alone does not supply. |
+| `muralo` | noun | material; physical matter considered in use or transformation | Material is matter under discussion, neutral on whether it is resource or waste. |
+| `panuri` | noun | resource; something considered available for a purpose | Being a resource is a relation to a purpose, not a fact the material carries on its own. |
+| `whemori` | noun | waste; material or energy assigned no further intended use | Waste is relational too: the same fallen branch can be waste to one process and habitat to another. |
+| `morume` | verb | decompose; break down through biological or chemical processes | Decomposition is breakdown itself, not disappearance, and not the same as death. |
+| `lurepa` | noun | nutrient; material required or used for biological function | A nutrient is defined by biological function, narrower than food in general. |
+| `tukelu` | verb | recycle; process discarded material into new input or material | Recycling requires real processing, distinct from simple direct reuse. |
+| `phisuri` | noun | sample; selected portion or observation for examination | A sample's worth rests on how it was selected, never on being precisely measured alone. |
+| `mothami` | noun | baseline; stated reference condition for comparison | A baseline is a chosen reference point, not automatically the healthiest or most natural state. |
+| `herani` | noun | trend; direction or pattern across ordered observations | A trend describes a pattern already observed; it guarantees nothing about what comes next. |
+| `reteru` | noun | model; purpose-bounded representation of a system | A model represents a system for a purpose; it is never the system itself. |
+| `somethi` | verb | monitor; repeatedly observe and record for change or decision | Monitoring is repeated watching for a stated purpose, and it authorizes no watching of people. |
 
 The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `wheraku` can name erosion, `phaluwe` a flood, `pesenu` pollution, `perawi` exposure, `morume` decomposition, `tukelu` recycling, and `somethi` monitoring. The adjective `pekira` likewise names toxicity through the quality-noun rule; its entry remains adjective-only as required by the lexicon schema.
 
 ## Ecosystems and ecological boundaries
 
-`litero` is an ecological use of systems thinking. It includes selected living beings and nonliving conditions, but the speaker must still identify the relevant place, time, scale, components, and relations. `litero norui` names the selected ecosystem boundary; it does not claim that the boundary exists independently of the question.
+`litero` borrows systems thinking for ecological ground: selected living beings and the nonliving conditions around them, bounded by a place, a time, and a scale the speaker names. `litero norui` marks that boundary directly, and naming it is an act of analysis, not a claim that the boundary exists on its own in nature.
 
 ```
 ha litero lo lima nela lo muralo lorea.
@@ -66,11 +68,11 @@ PROX ecosystem PL alive COORD PL material connect.
 (This ecosystem connects living beings and materials.)
 ```
 
-One named forest, lake, farm, garden, or city may contain several useful ecosystem boundaries, and one ecosystem analysis may cross several named places. Neither a beautiful pattern nor a cycle word establishes that the ecosystem is balanced or closed.
+One forest can hold several useful ecosystem boundaries at once, drawn for different questions, and a pattern that looks balanced proves nothing about whether the system is actually closed.
 
 ## Habitat, species, population, and community
 
-`menuro` joins place with the conditions that matter to a stated organism or living group. A place can be habitat for one life stage or season and not another. Observation at a place does not establish that the place supplies food, shelter, reproduction, movement, or any other required condition.
+`menuro` joins a place to the conditions a particular organism needs there, and the same grove can be habitat in one season and not the next. Watching an animal at a place says nothing yet about whether the place supplies its food, its shelter, or its way to raise young.
 
 ```
 ha koshira ha teluno menuro nai.
@@ -78,7 +80,7 @@ PROX grove PROX amphibian habitat be.
 (This grove is a habitat for this amphibian.)
 ```
 
-`likori` permits species-level discussion while requiring the relevant species concept or source where boundaries matter. `liloni` adds place and time: one species can have several populations, and a population can change without the species definition changing.
+`likori` opens species-level talk while leaving the exact taxonomic boundary to whatever source draws it. `liloni` narrows further to one place and time: a species can carry several populations, and one population can shift without the species definition moving at all.
 
 ```
 lo ha likori nolika phirae nai.
@@ -92,7 +94,7 @@ PROX population LOC PROX habitat grow.
 (This population grows in the habitat.)
 ```
 
-`liweso` prevents the human-scale `sila` from silently becoming a scientific ecological category. An ecological community may include predation, competition, disease, mutual support, and organisms that never directly interact.
+`liweso` keeps the human-scale `sila` from quietly becoming a scientific category. An ecological community holds predation and disease as readily as it holds mutual support, and plenty of its organisms never meet at all.
 
 ```
 ha liweso lo liloni lorea.
@@ -100,7 +102,7 @@ PROX ecological community PL population connect.
 (This ecological community connects populations.)
 ```
 
-`philima` asks what living variation is being measured and at what scope. Species richness, abundance, genetic variation, habitat variation, and ecological function are not interchangeable.
+`philima` always names its scope, because richness, abundance, genetic variation, and ecological function measure different things and rarely move together. A claim that biodiversity is rich or declining is only as good as the place, time, and measure it names, and more diversity is not automatically better under every condition.
 
 ```
 ha menuro philima simoe nai.
@@ -108,11 +110,9 @@ PROX habitat biodiversity rich be.
 (This habitat's biodiversity is rich.)
 ```
 
-A claim that biodiversity is rich or declining should identify its place, time, biological level, measure, evidence, and comparison. The word does not make greater diversity universally better under every scale or condition.
-
 ## Watersheds, runoff, erosion, and sediment
 
-`luphano` follows drainage rather than political or ownership boundaries. Its outlet and scale determine which slopes, channels, surfaces, and infrastructure belong to the selected watershed.
+`luphano` follows drainage, not ownership: the slopes, channels, and surfaces that feed one outlet, whatever line a map might draw across them.
 
 ```
 ha luphano ha luphore panoru.
@@ -120,7 +120,7 @@ PROX watershed PROX river support.
 (This watershed supports the river.)
 ```
 
-`wiralu` names water moving across a surface. It can carry `munari` sediment, nutrients, contaminants, heat, organisms, or nothing relevant to the current question. Runoff alone does not prove pollution or source attribution.
+`wiralu` is water crossing a surface, carrying sediment, nutrients, warmth, or nothing worth noting, and its presence alone proves neither pollution nor its source.
 
 ```
 ha wiralu lue ha kosha wea ha luphore selu.
@@ -134,7 +134,7 @@ PROX runoff sediment carry.
 (The runoff carries sediment.)
 ```
 
-`wheraku` is the detachment and transport process. `munari` is the particulate material moving or deposited. One can occur at a site without the other being observed there at the same time.
+`wheraku` is the detaching and the carrying; `munari` is the particulate matter that results. One can be observed at a site without the other showing up there at the same moment.
 
 ```
 phialu ha muila wheraku.
@@ -142,11 +142,11 @@ water PROX earth erode.
 (Water erodes the soil.)
 ```
 
-Groundwater remains `muila phialu`, earth-water, with depth, storage, source, and movement stated separately. Water entering soil remains the transparent clause `phialu muo muila koema`; that event does not establish recharge or a complete groundwater pathway.
+Groundwater stays the transparent `muila phialu` (earth-water), its depth and movement stated separately, and water entering soil stays the plain clause `phialu muo muila koema`, which claims only entry, nothing about recharge or where the water ends up.
 
 ## Weather, climate, floods, and droughts
 
-`howenu` gathers immediate atmospheric conditions and events. `meluri` describes their long-term distribution and variability for a stated region and period. Weather can supply evidence about climate only as part of a suitable series and analysis.
+`howenu` is the sky right now; `meluri` is the long pattern that today's sky belongs to, over a stated region and period. One day's weather can offer a data point toward a climate claim, but never the claim itself.
 
 ```
 ha howenu sulae nai.
@@ -160,7 +160,7 @@ PROX climate PROX weather same NEG be.
 (This climate is not the same as this weather.)
 ```
 
-`phaluwe` and `kuramo` name water excess and prolonged water deficit relative to place and expected conditions. Neither word determines whether the event is a disaster, what caused it, who is responsible, or which intervention is justified.
+`phaluwe` and `kuramo` name water past its usual bounds and water withheld too long, each measured against what a place normally expects. Neither word decides whether the event counts as a disaster, or who is responsible for it.
 
 ```
 ha luphore ha kosha to phaluwe.
@@ -174,11 +174,11 @@ PROX garden drought hold.
 (The garden has a drought.)
 ```
 
-A heatwave remains the transparent `sharoi sulae mosha`, an exceeding-warm period, with place, duration, climate reference, exact threshold, bodily effects, access needs, and infrastructure conditions stated separately.
+A heatwave stays the transparent `sharoi sulae mosha`, an exceeding-warm period, with its place, its duration, and its threshold each stated in the sentence rather than folded into one word.
 
 ## Contamination, pollution, toxicity, and exposure
 
-`hisophi` classifies an agent relative to an expected condition or investigation. The contaminant may be harmless or naturally occurring. `pesenu` makes the stronger claim that an agent causes or materially contributes to environmental impairment under stated evidence and criteria.
+`hisophi` classifies an agent against an expected condition, and the agent it names may turn out harmless. `pesenu` is the stronger claim: that the agent actually causes environmental impairment, under evidence and criteria the speaker should be ready to name.
 
 ```
 ha tinoa ha phialu hisophi nai.
@@ -192,7 +192,7 @@ PROX dye PROX stream pollute.
 (The dye pollutes the stream.)
 ```
 
-`pekira` describes capacity for biological harm under an exposure route, amount, duration, and organism. `perawi` says that contact occurred. A toxic agent may cause no harm when there is no relevant exposure, and exposure does not establish dose or effect.
+`pekira` is a capacity for harm under a stated exposure; `perawi` is the simpler fact of contact. A toxic agent that no one is exposed to causes nothing, and exposure alone says nothing yet about dose or effect.
 
 ```
 ha hisophi pekira nai.
@@ -206,7 +206,7 @@ PL fish PROX contaminant expose.
 (The fish are exposed to this contaminant.)
 ```
 
-`nomiki` is always a ratio against a stated medium or denominator. Total material, concentration, system load, exposure, dose, and toxicity answer different questions.
+`nomiki` is always a ratio against a named medium, and it answers a narrower question than total amount, system load, or toxicity, each of which needs its own word.
 
 Source record outside Phi: `18 mg/L`
 
@@ -216,11 +216,11 @@ PROX record PROX contaminant concentration describe.
 (This record describes this contaminant concentration.)
 ```
 
-The exact value is preserved, not interpreted. A threshold source, sampling method, organism, route, duration, uncertainty, and decision context may all be needed before anyone can infer harm or choose an action.
+The exact value stays preserved rather than interpreted. What it takes to move from a number to a claim of harm, a threshold, a sampling method, the right organism and route, honest uncertainty, is its own further argument, not something the number supplies alone.
 
 ## Material, resource, and waste
 
-`muralo` is physical matter under discussion. `panuri` and `whemori` describe relationships to purpose and intended use, not what the material inherently is. The same fallen wood may be waste to one maintenance process, habitat material in a grove, and a resource for another use.
+`muralo` is matter simply under discussion. `panuri` and `whemori` describe its relation to a purpose, not what the material is in itself: the same fallen branch can be habitat in a grove, waste to one maintenance crew, and a resource to another.
 
 ```
 ha wolea shaemu muralo nai.
@@ -240,11 +240,11 @@ PROX material waste NEG be.
 (This material is not waste.)
 ```
 
-Calling something a resource does not grant ownership, access, or permission to take it. Calling it waste does not grant permission to discard it, erase its hazards, or move it into another community or habitat.
+Calling something a resource grants no ownership or access by itself. Calling it waste grants no permission to discard it carelessly, especially where its hazards or its place in another habitat are still real.
 
 ## Decomposition, nutrients, and recycling
 
-`morume` describes biological or chemical breakdown. `lurepa` names a material in relation to a biological requirement or function. Decomposition can release nutrients, bind them, move them, or produce other materials, but the two concepts are not identical.
+`morume` is the breakdown itself, biological or chemical; `lurepa` names a material by the biological function it serves. Decomposition can release nutrients, bind them, or carry them elsewhere, and the two words track different things even when they meet in the same pile of leaves.
 
 ```
 ha wolea si morume.
@@ -258,7 +258,7 @@ PROX nutrient PROX tree grow support.
 (This nutrient supports the tree's growth.)
 ```
 
-`tukelu` requires processing that makes recovered or discarded material into another input or material. Direct reuse, repair, decomposition, return, and recycling remain separate possible afterlives.
+`tukelu` requires real processing, discarded material actually remade into another input. Simple reuse, repair, and decomposition are each their own separate afterlife for a material, distinct from recycling.
 
 ```
 lo mia ha whemori tukelu.
@@ -266,11 +266,11 @@ PL 1SG PROX waste recycle.
 (We recycle this waste.)
 ```
 
-Recycling may consume energy and new material and produce contamination, lower-quality output, or further waste. The word names a process, not proof of a closed cycle or sustainable outcome.
+Recycling itself can cost energy and new material, and it can produce contamination or lower-quality output along the way. The word names a process, and a process is not automatically a sustainable one.
 
 ## Samples, baselines, trends, and models
 
-`phisuri` identifies a selected portion or observation. Its relationship to a larger source or population depends on selection, method, condition, time, custody, and scope. A sample is not representative merely because it was measured precisely.
+`phisuri` is a selected portion or observation, and how well it stands for something larger depends entirely on how it was selected, not on how precisely it was measured.
 
 ```
 mia ha phialu phisuri masue.
@@ -278,7 +278,7 @@ mia ha phialu phisuri masue.
 (I measure this water sample.)
 ```
 
-`mothami` is a chosen reference for comparison. A baseline may be historical, modeled, reconstructed, or administratively selected. It is not necessarily the earliest, healthiest, fairest, or most natural state.
+`mothami` is a reference chosen for comparison, historical, modeled, or administratively set, and it need not be the healthiest or most natural state a place has ever held.
 
 ```
 ha mirela ha mothami senao ma nai.
@@ -286,7 +286,7 @@ PROX state PROX baseline same NEG be.
 (This state is not the same as this baseline.)
 ```
 
-`herani` names a pattern across ordered observations. It does not supply the cause or guarantee continuation. `reteru` names a representation built for a purpose; it does not become the represented ecosystem or future.
+`herani` names a pattern already seen across ordered observations, without supplying its cause or promising it continues. `reteru` is a representation built for a purpose, and it stays a representation, never the ecosystem or future it stands in for.
 
 ```
 ha herani ha nomiki thuroa shelo.
@@ -300,11 +300,11 @@ PROX model PROX ecosystem describe.
 (This model describes the ecosystem.)
 ```
 
-Model names, versions, equations, parameters, outputs, and source claims remain in source material outside the Phi passage. Phi can discuss what a model includes, omits, assumes, explains, or forecasts without translating its identity.
+A model's exact name, version, and equations belong to the source record; Phi can discuss what a model includes, what it leaves out, and what it forecasts without pretending to carry its technical identity itself.
 
 ## Monitoring and revision
 
-`somethi` joins repeated observation, measurement, sampling, or recording to a stated purpose across time. A monitoring plan should identify indicators, sites, methods, intervals, duration, baseline, records, decision rules, participants, and uncertainty as needed.
+`somethi` is repeated observation tied to a stated purpose across time. A monitoring plan is worth naming in full: what it watches, where, how often, for how long, and against what baseline.
 
 ```
 lo mia ha luphore somethi.
@@ -312,7 +312,7 @@ PL 1SG PROX river monitor.
 (We monitor the river.)
 ```
 
-Monitoring does not establish causation or successful protection, and it does not authorize surveillance of people. A community may act provisionally under uncertainty and still state how the action will be observed, challenged, and revised.
+Watching does not prove cause, and it does not prove that protection is working. It authorizes no surveillance of people, and a community can act under real uncertainty while still saying plainly how the action will be watched, questioned, and changed.
 
 ## Useful transparent compositions
 
@@ -320,30 +320,30 @@ Some ecological expressions remain clearer as combinations because their parts e
 
 | Phi expression | Practical meaning | Why it remains compositional |
 |---|---|---|
-| `litero norui` | ecosystem boundary | Keeps the selected ecosystem and its analytical limit visible. |
-| habitat, function, dependency, and interaction clauses | ecological niche | Prevents one label from hiding which dimensions and organism are meant. |
-| dwelling clauses plus `norui` | species or population range | Keeps place, time, life stage, observation, and uncertainty explicit. |
-| `muila phialu` | groundwater; earth-water | Avoids claiming a particular aquifer, flow path, or legal category. |
-| `wirua muila menuro` | wetland; wet-land habitat | Leaves scientific, legal, and community classifications exact when necessary. |
-| `phialu muo muila koema` | infiltration; water enters earth | States entry without asserting recharge, rate, storage, or destination. |
-| `sharoi sulae mosha` | heatwave; exceeding-warm period | Requires a place, duration, climate reference, and threshold. |
-| `leiro thirulo` | emission; released output | Keeps source, agent, amount, and destination part of the account. |
-| `pesenu muralo` | pollutant; polluting material | Requires an actual pollution relation rather than contamination alone. |
-| `shaemu muralo` | organic matter | Reuses existing organic vocabulary while exact fractions remain in source material outside the Phi passage. |
-| `thepalu morume muralo` | compost; garden decomposing material | Keeps management, condition, and maturity distinct from decomposition generally. |
+| `litero norui` | ecosystem boundary | Keeps the chosen ecosystem and its analytical limit visible together. |
+| habitat, function, dependency, and interaction clauses | ecological niche | Keeps the organism and the dimension in question from hiding behind one label. |
+| dwelling clauses plus `norui` | species or population range | Keeps place, time, and life stage explicit rather than assumed. |
+| `muila phialu` | groundwater; earth-water | Claims no particular aquifer, flow path, or legal category. |
+| `wirua muila menuro` | wetland; wet-land habitat | Leaves the exact scientific or legal classification for when it matters. |
+| `phialu muo muila koema` | infiltration; water enters earth | States entry only, not recharge, rate, or destination. |
+| `sharoi sulae mosha` | heatwave; exceeding-warm period | Requires a place, a duration, and a threshold to mean anything. |
+| `leiro thirulo` | emission; released output | Keeps the source, the agent, and the destination part of the sentence. |
+| `pesenu muralo` | pollutant; polluting material | Requires an actual pollution relation, not mere contamination. |
+| `shaemu muralo` | organic matter | Reuses existing vocabulary; exact fractions stay in the source record. |
+| `thepalu morume muralo` | compost; garden decomposing material | Keeps its managed condition distinct from decomposition in general. |
 | `turema koewi` | reused material; returned input | Separates direct reuse from recycling through processing. |
-| `nuola phaliso` | food web; eating network | Keeps organisms and feeding directions available for explanation. |
-| `litero henora` or `menuro henora` | ecological carrying capacity | Requires the population, function, time, and conditions to be stated. |
-| `mirela siru` | indicator; state marker | Separates a marker from the condition inferred through it. |
-| `wireo mirela kethira` | forecast; infer a future state | Makes prediction an evidence-bounded inference rather than a guaranteed future. |
-| `somethi mosha` | monitoring interval | Names both the practice and its period. |
+| `nuola phaliso` | food web; eating network | Keeps organisms and feeding directions available to name. |
+| `litero henora` or `menuro henora` | ecological carrying capacity | Requires the population, function, and conditions to be stated. |
+| `mirela siru` | indicator; state marker | Separates the marker from the condition it is used to infer. |
+| `wireo mirela kethira` | forecast; infer a future state | Keeps a prediction bounded by evidence, not a guaranteed future. |
+| `somethi mosha` | monitoring interval | Names the practice and its period together. |
 
 ## Source ecological information
 
-Species and taxonomic names, chemicals and formulas, analytes, measurements, units, site and sample identifiers, coordinates, dates, dataset fields, model names and versions, equations, methods, standards, thresholds, protocols, citations, legal categories, source-community terms, and technical quotations remain outside the Phi passage in the surrounding medium. The module supplies relations around source material; it does not normalize or translate the artifact.
+Species and taxonomic names, chemical formulas, measurements, units, site identifiers, dates, model names and versions, equations, standards, and legal categories stay outside the Phi passage. The module supplies the relations around this material; it does not translate the artifact itself.
 
-Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not acquire the definition of a module word merely because speakers use it repeatedly.
+Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a claim to a module word's own definition.
 
-State the analysis in Phi where useful: which ecosystem and boundary are meant, which beings and materials are involved, what moved or changed, the relevant place and time, who sampled or observed, which model or inference is being used, what uncertainty remains, who may act, and how consequences will be monitored and reviewed.
+State the analysis where Phi can carry it: which ecosystem and boundary are meant, what moved or changed, who observed it, which model or inference is doing the work, and what remains uncertain.
 
-Exact preservation does not make a taxonomic classification correct, a sample representative, a concentration harmful, a model valid, a threshold applicable, a source authoritative, or an intervention legitimate. Preserve source knowledge and attribution when a Phi paraphrase would erase the concept's origin, obligations, restrictions, or contested history.
+Preserving a source record exactly does not make a classification correct, a sample representative, or a threshold applicable. What preservation buys is the concept's own origin and its contested history, which a paraphrase would otherwise erase.
