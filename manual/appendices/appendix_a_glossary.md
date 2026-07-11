@@ -56,7 +56,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 ## Leipzig-style abbreviations used in this manual
 
-Grammatical category labels follow the Leipzig Glossing Rules and the standard extensions of the typological literature. One deliberate house convention, permitted by Leipzig rule 4: lexical function words (spatial prepositions, quantifiers) are also glossed in capitals (ABOVE, BETWEEN, MANY) so that every function word is visually distinct from content vocabulary in a gloss line. Interrogatives are glossed by meaning in lowercase (who, where, when).
+Grammatical category labels follow the Leipzig Glossing Rules and the standard extensions of the typological literature. One deliberate house convention, permitted by Leipzig rule 4: lexical function words (spatial prepositions, quantifiers) are also glossed in capitals (ABOVE, BETWEEN, MANY) so that every function word is visually distinct from content vocabulary in a gloss line. Interrogatives are glossed by meaning in lowercase (who, where, when). Transparent English capitals (ABOVE, MANY, WITHOUT) appear in gloss lines without table rows; the table below lists every abbreviation that cannot be read as plain English.
 
 Click or hover on a row for a longer explanation of that gloss.
 
@@ -66,25 +66,35 @@ Click or hover on a row for a longer explanation of that gloss.
 | 1PL | lo mia | we | The plural marker `lo` before `mia`: we. The same pattern gives `lo thia` (you all) and `lo shia` (they, plural). |
 | ABL | lue | from | From, a source: `melu lue nitho shua` is the friend comes from the north. |
 | ABST.CLF | nophe | abstraction classifier | The classifier for abstract concepts: ideas, stories, emotions, and other things that cannot be touched but are still real. |
+| ADVRS | thona | but (mild) | The adversative conjunction: contrast or exception between two joined elements, without negating what came before. Where `whekai` turns a whole sentence against the last one, `thona` joins two phrases of equal weight that pull in different directions. |
 | ALL | kau | to (allative) | To, the goal of motion, with arrival promised. Its counterpart `wea` (toward) makes no such promise. |
+| ANT | phoe | before | The clause or span it introduces sets a boundary the main event precedes: before. Over a counted span it points backward: `phoe wi philo` is two days ago. |
 | ASSUM | ho | assumed | Marks that the speaker is assuming or supposing something rather than knowing it, one of Phi's four evidentials alongside `hi` (witnessed), `ke` (inferred), and `ti` (told). |
 | CAUS | ka | causative | The causative: the one who causes an action becomes the subject, and the original subject becomes the object. `lopia nulae` (the child sleeps) becomes `mia lopia ka nulae` (I make the child sleep). |
 | CESS | te | cessative | The aspect for an action's ending: `mia te shelomu` is I stop understanding. |
 | CMPR | mo | comparative | The comparative marker, paired with `sheo` (than): `tomora sheo shiro mo raelu nai` is the mountain is taller than the tree. |
+| COM | nua | with (company) | Accompaniment: shared presence rather than tool. `nua melu` is with a friend; the chisel you cut with takes `roe` instead. |
+| CONC | shai | although | The concessive relator: the clause it introduces runs contrary to what follows, and the main clause delivers what happened anyway. |
 | COND | lu | conditional | The realis conditional, announcing a real or likely if. Its irrealis counterpart, for a condition that did not or cannot hold, is the two-particle `lu he`. |
+| CONS | thelao | therefore | The discourse marker of consequence: what follows is presented as the result or conclusion of what came before. Discourse markers stand after any Slot 0 particle, before the subject. |
+| CONTR | whekai | however | The discourse marker of contrast: the sentence it opens turns against the one before. Like all discourse markers it begins with a fricative, the breath a speaker takes before redirecting the conversation. |
 | COORD | nela | and | And, the basic coordinating conjunction, joining words, phrases, or clauses of equal weight. |
 | DAT | wei | to, for (recipient) | To, for, marking the recipient or beneficiary of an action: `mia wei thia loami loa` is I give you a gift. |
 | DECL.COMP | mena | that-clause (opener) | Opens an embedded clause that reports the content of a statement rather than its exact words. It always closes with `meno`. |
 | DECL.COMP.CLOSE | meno | that-clause (closer) | Closes a `mena` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
 | DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
 | DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
+| DUR | sui | during | Temporal containment: the event happens within a span, not at a point. `sui kelua` is during the morning. |
+| EXMP | phisu | for example | The discourse marker that steps from the general to a concrete case: what follows illustrates what was just said. |
 | FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomu` singles out love, not other things, as what is understood. |
 | FUT | so | future | The future tense particle. Present tense carries no particle at all. |
 | HAB | ro | habitual | The aspect for a recurring or characteristic action, distinct from `si` (mid-flow, happening now): `mia ro theo` is I read regularly. |
+| HON.INTIM / HON.RESPECT / HON.ROLE | ni, sa, le | honorifics | Three word-level particles standing between `ne` and a name. `ni` marks deep personal bonds of love, family, or friendship; `sa` marks respect for mentors, elders, and wisdom holders; `le` acknowledges a current service role. They announce relationship, never rank. |
 | HUM.CLF | himo | people classifier | The classifier for human beings. Counting people with `himo` is a small act of respect, setting them apart from objects: `ta himo melu` is one friend, counted as a person. |
 | IMP | no | imperative | The imperative marker, announcing a command or request. |
 | INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomu` is I begin to understand. |
 | INFER | ke | inferred | Marks that the speaker reached the claim by inference from evidence, not by direct witness or report. |
+| INS | roe | with (tool) | The instrumental: the tool, means, or method an action uses. `mia roe kiru wolea kati` is I cut the wood with the chisel; company takes `nua` instead. |
 | INT.COMP | wela | embedded question (opener) | Opens an embedded yes/no question (I wonder whether). It always closes with `welo`. |
 | INT.COMP.CLOSE | welo | embedded question (closer) | Closes a `wela` clause, marking where the embedded question ends so the main verb can follow without ambiguity. |
 | INTS | ru | intensifier | The intensifier: very, truly. `ru welao` is very good. |
@@ -101,14 +111,21 @@ Click or hover on a row for a longer explanation of that gloss.
 | PFV | ki | perfective | The aspect for completion at whatever point the tense sets as its reference: `ki` alone is have done, `to ki` is had done, `so ki` is will have done. |
 | PL | lo | plural | The plural marker for an unquantified noun. A numeral or quantifier already implies plurality, so `lo` never combines with one. |
 | POL | pi | politeness | Marks that the whole utterance is polite or respectful, and can combine with other Slot 0 particles: `pi no lumani naphe` is please help the family. |
+| POST | pheo | after | The clause or span it introduces names what came first, and the main clause follows it: after. `pheo teku shemu` is after a short moment; over a counted span it points forward, so `pheo wi philo` is in two days. |
 | POT | po | possibility (can/may) | Marks possibility or ability: `mia po shelomu` is I can understand, or I am able to understand. |
 | PROX/DIST | ha, ra | this/that | `ha` (this, near) and `ra` (that, far), Phi's two demonstratives, marking distance from the speaker rather than gender or class. |
 | PST | to | past | The past tense particle. |
+| PURP | lila | so that (purpose) | Introduces a purpose clause, the intention announced before the act: `lila hea` is in order to hear. Purpose, unlike cause, looks forward. |
 | Q | wa | question | Opens a sentence to announce a yes/no question, always sentence-initial. |
 | QUOT.COMP | shola | quotation (opener) | Opens a direct quotation, preserving the speaker's exact words rather than their content. It always closes with `sholo`. |
 | QUOT.COMP.CLOSE | sholo | quotation (closer) | Closes a `shola` quotation, marking where the quoted words end so the verb of speaking or hearing can follow. |
+| RECP/REFL | wiso, miso | each other / oneself | `wiso` marks mutual action between plural subjects (we help each other); `miso` turns an action back on its own subject (I wash myself). The designed -so pair extending the pronoun set. |
 | REL | rena | relativizer | Introduces a relative clause, which stands before the noun it describes: `[rena mia to nila] shelu` is the book that I saw. |
 | REP | ti | reported | Marks that the speaker received the information from someone else, rather than witnessing, inferring, or assuming it. |
+| REPH | shorela | in other words | The discourse marker of restatement: what follows says the previous thought again in a different form, another road offered to the same place. |
 | RESTR | li | only, restrictive | Marks that a statement holds for the one thing named, and nothing else: only. It fences identity, who or which, never quantity; a count is stated exactly or with `henoi`. |
+| SPEC | shekoi | specifically | The discourse marker that narrows from the general to the particular, singling out the case the speaker means. |
+| SUMM | shelao | in summary | The discourse marker that gathers what came before into its essence, the turn from exploration to distillation. |
 | THING.CLF | themo | object classifier | The classifier for inanimate objects, especially those made or used by hand: tools, containers, buildings, stones. |
+| UNIV | theula | all, every | The universal quantifier: every member of the set, none left out. `theula miona` is all people, the opening words of Phi's Article 1. |
 | VOC | kona | vocative | Marks direct address, standing outside the sentence it introduces: `kona melu. mia ha nai` is friend, I am here. |
