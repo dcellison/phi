@@ -1,0 +1,29 @@
+{
+  "word": "nomiraki",
+  "gloss": "concentration",
+  "ipa": "/n̪o̞.mi.ˈrä.ki/",
+  "syllables": [
+    "no",
+    "mi",
+    "ra",
+    "ki"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Concentration / Amount of an Agent per Stated Medium",
+  "description": "The amount of a stated substance, material, organism, or agent relative to a stated quantity of medium, volume, mass, area, or other denominator. A concentration claim requires its agent, basis, unit, method, and source when they matter. The word does not mean total amount, technical load, toxicity, exposure, dose, purity, a mental act of attention, or proof that a threshold has been exceeded.",
+  "sound_symbolism": "Gathering 'nomira' is tightened into precise 'ki', holding an amount against its medium rather than presenting an isolated number. The compact close suits a ratio whose denominator must remain present.",
+  "grammatical_notes": "A countable or mass noun commonly possessed by the agent or medium: 'ha hisophira nomiraki patha 18 mg/L patho nai.' (The contaminant concentration is 18 mg/L.) Preserve exact values and units in 'patha ... patho'. Distinct from 'masue' (measure), 'talukori' (load), total quantity, and a psychological concentration of attention.",
+  "pillars": {
+    "solarpunk-values": "Concentration makes environmental claims more precise while preventing a visible substance or large total amount from replacing an actual ratio and source.",
+    "secular-buddhist-philosophy": "The concept is explicitly relational: an amount has ecological meaning only against a medium, scale, condition, and interpretation."
+  },
+  "tags": {
+    "cognition": "a ratio whose agent, denominator, method, and source shape interpretation",
+    "physical": "an amount of matter, organisms, or another agent per stated medium"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

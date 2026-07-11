@@ -41,6 +41,10 @@ These are existing Phi roots and function words. The profile indexes them withou
 | Evidence, notice, and records | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `sano` know, `shane` tell, `thekiro` write, `siru` marker, `shekoi` specify, `masue` measure, `patha ... patho` exact material | Speakers can identify a claimed source, knowledge, telling, writing, markers, specifications, measurements, and exact records. They cannot conventionalize notice, delivery, publication, provenance, access to a record, confidentiality, version, official status, or the authority of a source. |
 | Sequence, change, and review | `phoe` before, `pheo` after, `weno` when, `hasi` wait, `wireo` future, `teru` process, `helui` change, `turema` return | Speakers can order actions, pause, revisit a topic, describe a process, and change a choice or commitment. These forms do not establish a provisional decision, review period, amendment, repeal, appeal, deadline, succession, or duty to reopen a matter. |
 
+## Optional Cross-Module Dependencies
+
+The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `limatero` ecosystem, `menulora` habitat, `luphanori` watershed, `panumori` resource, `whemorali` waste, `pelosenu` pollute, `pelorawi` expose, `mothanomi` baseline, `helurani` trend, `reloteru` model, and `somethiru` monitor. These words can identify what a collective decision concerns and what evidence will be reviewed, but they do not establish ownership, standing, jurisdiction, allocation criteria, acceptable exposure, environmental justice, legitimate authority, or a duty to act. In particular, `panumori` names a purpose-relative resource relation rather than an entitlement to take or govern something.
+
 ## Current Practices and Limits
 
 | Need | Current Phi strategy | Important limit |

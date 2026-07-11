@@ -1,0 +1,29 @@
+{
+  "word": "reloteru",
+  "gloss": "model",
+  "ipa": "/re̞.lo̞.ˈt̪e̞.ru/",
+  "syllables": [
+    "re",
+    "lo",
+    "te",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Model / Purpose-Bounded Representation of a System",
+  "description": "A structured and purpose-bounded representation of selected features and relations of a system, process, place, population, or possible condition, used to describe, explain, compare, explore, or predict. A model necessarily includes assumptions and omissions and may be physical, conceptual, mathematical, computational, or narrative. The word does not mean the represented reality, theory, example, ideal to imitate, proof, exact model name, or authority of its maker.",
+  "sound_symbolism": "Symbolic 'relo' enters unfolding 'teru', making a model an active representation whose parts work for a purpose. The word moves from sign to process rather than from image to truth.",
+  "grammatical_notes": "A countable noun: 'ha reloteru ha limatero thelima.' (This model describes the ecosystem.) State purpose, boundary, variables, assumptions, source, version, and validation where needed. Distinct from 'relo' (symbol), 'phisuwa' (example), 'terulora' (system), ideal form, and an exact named model in 'patha ... patho'.",
+  "pillars": {
+    "solarpunk-values": "Models can support long-term ecological choices while their assumptions, omissions, authority, and unequal consequences remain open to examination.",
+    "secular-buddhist-philosophy": "The word makes representation distinct from reality and treats every model as conditioned by purpose, scale, and available evidence."
+  },
+  "tags": {
+    "cognition": "a structured representation used for explanation, comparison, exploration, or prediction",
+    "creation": "a deliberately constructed representation with selected features and relations"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

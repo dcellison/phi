@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (173)
+## adjective (174)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -85,6 +85,7 @@
 | `nulo` | deep | Deep |
 | `nuloe` | content | Content |
 | `nuwi` | clear | Clear |
+| `pelokira` | toxic | Toxic |
 | `peloma` | harmful | Harmful |
 | `pelui` | cold | Cold |
 | `phaeli` | tender | Tender |
@@ -273,7 +274,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (411)
+## noun (433)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -282,17 +283,20 @@
 | `haowu` | air | Air |
 | `helia` | youth | Youth |
 | `heloa` | remedy | Remedy |
+| `helurani` | trend | Trend |
 | `hemilo` | honey | Honey |
 | `henoraki` | capacity | Capacity |
 | `heru` | herb | Herb |
 | `hesura` | ash | Ash |
 | `hisae` | skin | Skin |
+| `hisophira` | contaminant | Contaminant |
 | `holia` | festival | Festival |
 | `holume` | loss | Loss |
 | `horathe` | dawn | Dawn |
 | `horuma` | thunder | Thunder |
 | `howai` | evening | Evening |
 | `howeli` | wind | Wind |
+| `howenari` | weather | Weather |
 | `kaero` | phase | Phase |
 | `kalora` | horse | Horse |
 | `kathu` | seal | Seal |
@@ -340,6 +344,7 @@
 | `kumoe` | stomach | Stomach |
 | `kunoa` | knee | Knee |
 | `kupela` | secret | Secret |
+| `kurathimo` | drought | Drought |
 | `kuri` | right | Right |
 | `kurisha` | storm | Storm |
 | `kuroi` | muscle | Muscle |
@@ -352,6 +357,10 @@
 | `leru` | beach | Beach |
 | `lerua` | exterior | Exterior |
 | `lewonu` | valley | Valley |
+| `limakori` | species | Species |
+| `limaloni` | population | Population |
+| `limatero` | ecosystem | Ecosystem |
+| `limaweso` | ecological community | Ecological Community |
 | `limoe` | creature | Creature |
 | `lina` | string (instrument) | String (Instrument) |
 | `linua` | fiber | Fiber |
@@ -378,12 +387,14 @@
 | `luma` | lamp | Lamp |
 | `lumae` | end | End |
 | `lumani` | family | Family |
+| `lumeraki` | nutrient | Nutrient |
 | `lumira` | descendant | Descendant |
 | `lumishe` | mentor | Mentor |
 | `lumoi` | lantern | Lantern |
 | `lunai` | vision | Vision |
 | `lunei` | moon | Moon |
 | `lunoa` | month | Month |
+| `luphanori` | watershed | Watershed |
 | `luphonu` | boat | Boat |
 | `luphore` | river | River |
 | `lurekoi` | fruit | Fruit |
@@ -395,8 +406,10 @@
 | `melothe` | pond | Pond |
 | `melu` | friend | Friend |
 | `meluna` | season | Season |
+| `melunaro` | climate | Climate |
 | `menoa` | face | Face |
 | `menua` | counselor | Counselor |
+| `menulora` | habitat | Habitat |
 | `mera` | net | Net |
 | `milura` | milk | Milk |
 | `miona` | person | Person |
@@ -423,10 +436,13 @@
 | `moru` | wall | Wall |
 | `mosha` | period | Period |
 | `motha` | foundation | Foundation |
+| `mothanomi` | baseline | Baseline |
 | `mothare` | premise | Premise |
+| `mueralo` | material | Material |
 | `mueri` | clay | Clay |
 | `muero` | autumn | Autumn |
 | `muhena` | dust | Dust |
+| `muhenari` | sediment | Sediment |
 | `muila` | earth | Earth |
 | `muphia` | mud | Mud |
 | `muriwe` | worm | Worm |
@@ -445,6 +461,7 @@
 | `nolue` | neck | Neck |
 | `nomei` | name | Name |
 | `nomi` | present | Present |
+| `nomiraki` | concentration | Concentration |
 | `nomirela` | state | State |
 | `nophae` | nose | Nose |
 | `nophi` | story | Story |
@@ -472,6 +489,7 @@
 | `paloi` | foot | Foot |
 | `palowe` | shoe | Shoe |
 | `palu` | plate | Plate |
+| `panumori` | resource | Resource |
 | `pelio` | arm | Arm |
 | `pelomaru` | hazard | Hazard |
 | `pelori` | bird | Bird |
@@ -504,8 +522,10 @@
 | `philuewa` | butterfly | Butterfly |
 | `phiora` | spirit | Spirit |
 | `phiralea` | blossom | Blossom |
+| `phiralima` | biodiversity | Biodiversity |
 | `phirenu` | snow | Snow |
 | `phireo` | plant | Plant |
+| `phisumari` | sample | Sample |
 | `phisuwa` | example | Example |
 | `phitura` | well (water) | Well |
 | `phiwhekira` | counterexample | Counterexample |
@@ -532,6 +552,7 @@
 | `raeli` | height | Height |
 | `rei` | eighty-one-group | Eighty-One-Unit |
 | `relo` | symbol | Symbol |
+| `reloteru` | model | Model |
 | `relua` | mirror | Mirror |
 | `remolea` | concept | Concept |
 | `remoluma` | conclusion | Conclusion |
@@ -676,12 +697,14 @@
 | `wheiluro` | mist | Mist |
 | `whekelua` | magic | Magic |
 | `whelina` | grass | Grass |
+| `whemorali` | waste | Waste |
 | `wheo` | elder | Elder |
 | `whila` | hair | Hair |
 | `whilaru` | comb | Comb |
 | `wilemo` | toy | Toy |
 | `wira` | window | Window |
 | `wirae` | spring (season) | Spring (Season) |
+| `wiraselu` | runoff | Runoff |
 | `wireo` | future | Future |
 | `wiru` | basket | Basket |
 | `wolea` | wood | Wood |
@@ -793,7 +816,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (263)
+## verb (270)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -869,6 +892,7 @@
 | `molawi` | cooperate | Cooperate |
 | `molei` | evolve | Evolve |
 | `morae` | sense | Sense |
+| `moralume` | decompose | Decompose |
 | `moreko` | articulate | Articulate |
 | `moreluki` | transform | Transform |
 | `muholi` | dig | Dig |
@@ -903,10 +927,13 @@
 | `panoru` | support | Support |
 | `pawela` | participate | Participate |
 | `peki` | squeeze | Squeeze |
+| `pelorawi` | expose | Expose |
+| `pelosenu` | pollute | Pollute |
 | `pesa` | push | Push |
 | `peshu` | lie | Lie |
 | `phae` | open | Open |
 | `phaelo` | feel | Feel |
+| `phaluwero` | flood | Flood |
 | `phamo` | console | Console |
 | `phanoi` | portion | Portion |
 | `pharelo` | cook | Cook |
@@ -981,6 +1008,7 @@
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
 | `somela` | observe | Observe |
+| `somethiru` | monitor | Monitor |
 | `sone` | value | Value |
 | `sorila` | cultivate | Cultivate |
 | `sunoe` | regenerate | Regenerate |
@@ -1029,6 +1057,7 @@
 | `tiripe` | quiver | Quiver |
 | `tiwa` | tie | Tie |
 | `tupi` | jump | Jump |
+| `turekelu` | recycle | Recycle |
 | `turema` | return | Return |
 | `wakomi` | surprise | Surprise |
 | `wapho` | throw | Throw |
@@ -1049,6 +1078,7 @@
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |
 | `whenola` | wander | Wander |
+| `wherakelu` | erode | Erode |
 | `whesu` | blow | Blow |
 | `whinu` | smell | Smell |
 | `whishela` | whisper | Whisper |

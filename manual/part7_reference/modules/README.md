@@ -8,5 +8,6 @@ Every module word remains part of the canonical lexicon in `vocabulary/content/`
 |---|---|---|
 | Philosophical Reasoning | [Philosophical Reasoning](philosophical_reasoning.md) | 22 module words established |
 | Systems and Shared Infrastructure | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | 25 module words established |
+| Ecological Systems and Material Life | [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | 30 module words established |
 
 The other recorded profiles remain available in `documents/modules/` as development profiles. Their speaker-facing chapters will be added when each receives its first vocabulary pass.

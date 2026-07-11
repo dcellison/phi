@@ -1,0 +1,30 @@
+{
+  "word": "phaluwero",
+  "gloss": "flood",
+  "ipa": "/ɸä.lu.ˈwe̞.ro̞/",
+  "syllables": [
+    "pha",
+    "lu",
+    "we",
+    "ro"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Flood / Water Cover or Overflow Beyond Usual Bounds",
+  "description": "For water to cover land or built space that is not usually covered at that time, or to overflow a stated channel, shore, storage, or drainage boundary. Through the event-noun rule the word also names a flood. A flood may be seasonal, rapid, slow, beneficial, harmful, caused by several processes, or defined by an exact source threshold; the word does not establish damage, disaster, blame, rarity, or climate attribution.",
+  "sound_symbolism": "Water-bearing 'phalu' swells into wide 'wero', crossing an expected edge without a sharp consonantal break. The sound expands rather than strikes, fitting both slow inundation and sudden overflow.",
+  "grammatical_notes": "A transitive or intransitive verb: 'ha luphore ha kosha to phaluwero.' (The river flooded the field.) The event-noun rule supplies flood. State water source, place, time, depth, duration, and consequence separately. Distinct from 'pheno' (full), ordinary rain, runoff, an exact flood category, and the harms a flood may cause.",
+  "pillars": {
+    "solarpunk-values": "Flood language supports planning for water, shelter, access, ecology, and unequal consequences without making every inundation a moral or technical failure.",
+    "pre-industrial-wisdom": "Seasonal floodplains and remembered water marks show that overflow can nourish, displace, renew, and endanger according to place and timing."
+  },
+  "tags": {
+    "activity": "water covering or overflowing beyond a stated usual boundary",
+    "nature": "an event involving rivers, coasts, rain, melt, drainage, or storage",
+    "spatial": "water extending into a place outside its stated usual extent"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

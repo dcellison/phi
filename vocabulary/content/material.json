@@ -1,0 +1,29 @@
+{
+  "word": "mueralo",
+  "gloss": "material",
+  "ipa": "/mu.e̞.ˈrä.lo̞/",
+  "syllables": [
+    "mu",
+    "e",
+    "ra",
+    "lo"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Material / Physical Matter Considered in Use or Transformation",
+  "description": "Physical matter considered according to its composition, properties, movement, use, condition, or transformation in an ecological, technical, household, or craft context. Material may be living-origin or nonliving, raw or processed, useful or unwanted, solid, liquid, or otherwise specified. The word does not mean resource, waste, ownership, commodity, homogeneous substance, exact material grade, or everything physical without a relevant analytical frame.",
+  "sound_symbolism": "Earthy 'mue' opens into relational 'ralo', giving matter weight while allowing it to move through different uses and states. The hiatus slows the beginning like hands testing substance before naming its role.",
+  "grammatical_notes": "A countable or mass noun: 'ha wolea shaemu mueralo nai.' (Wood is organic material.) Use specific substance words or exact source forms where composition or grade matters. Distinct from 'thena' (thing), 'muila' (earth or soil), 'panumori' (resource), and 'whemorali' (waste).",
+  "pillars": {
+    "art-nouveau-aesthetics": "Material is understood through grain, flow, transformation, and relation rather than as an invisible carrier of form.",
+    "pre-industrial-wisdom": "Practical knowledge begins with the actual matter at hand, its condition, source, affordances, limits, and possible afterlives."
+  },
+  "tags": {
+    "creation": "matter considered for making, repair, transformation, or reuse",
+    "physical": "physical matter described through composition, condition, and movement"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

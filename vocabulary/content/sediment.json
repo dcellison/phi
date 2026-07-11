@@ -1,0 +1,29 @@
+{
+  "word": "muhenari",
+  "gloss": "sediment",
+  "ipa": "/mu.he̞.ˈn̪ä.ri/",
+  "syllables": [
+    "mu",
+    "he",
+    "na",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Sediment / Transported or Deposited Particulate Material",
+  "description": "Loose mineral, organic, or mixed particles transported or deposited by water, wind, ice, gravity, or another stated process. Sediment may be suspended, moving, or settled and may support habitat, record change, obstruct flow, or carry contaminants. The word does not mean soil in general, dust in general, one particle-size class, pollution, erosion, or proof of where the material originated.",
+  "sound_symbolism": "Earthy 'mu' opens into light 'he', then grounded 'nari' lets particles settle after movement. The alternating weight and breath suits material that can be suspended or deposited.",
+  "grammatical_notes": "A mass or countable noun: 'ha wiraselu muhenari kolua.' (The runoff carries sediment.) Exact grain size, chemistry, mass, and sample identity remain in 'patha ... patho'. Distinct from 'muila' (earth or soil), 'muhena' (dust), 'kirua' (sand), and the process 'wherakelu' (erode).",
+  "pillars": {
+    "solarpunk-values": "Sediment can be discussed as habitat material, transported matter, or a burden without assigning it one universal value.",
+    "pre-industrial-wisdom": "River color, deposited silt, shifting banks, and settled particles have long been practical signs of land and water change."
+  },
+  "tags": {
+    "nature": "particulate material moved or deposited by environmental processes",
+    "physical": "loose mineral, organic, or mixed particles"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

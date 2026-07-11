@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*984 words.*
+*1014 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -29,6 +29,7 @@
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
 | `helu` | smooth | /ˈhe̞.lu/ | adjective |
 | `helui` | change | /he̞.ˈlu.i/ | verb |
+| `helurani` | trend | /he̞.lu.ˈrä.n̪i/ | noun |
 | `hemilo` | honey | /he̞.ˈmi.lo̞/ | noun |
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
 | `henoi` | ENOUGH | /he̞.ˈn̪o̞.i/ | quantifier |
@@ -44,6 +45,7 @@
 | `hiru` | intuit | /ˈhi.ru/ | verb |
 | `hisae` | skin | /hi.ˈsä.e̞/ | noun |
 | `hiso` | clean | /ˈhi.so̞/ | adjective |
+| `hisophira` | contaminant | /hi.so̞.ˈɸi.rä/ | noun |
 | `ho` | ASSUM | /ˈho̞/ | particle |
 | `hoi` | onward | /ˈho̞.i/ | interjection |
 | `hola` | laugh | /ˈho̞.lä/ | verb |
@@ -55,6 +57,7 @@
 | `howai` | evening | /ho̞.ˈwä.i/ | noun |
 | `howela` | receive | /ho̞.ˈwe̞.lä/ | verb |
 | `howeli` | wind | /ho̞.ˈwe̞.li/ | noun |
+| `howenari` | weather | /ho̞.we̞.ˈn̪ä.ri/ | noun |
 | `hurao` | patient | /hu.ˈrä.o̞/ | adjective |
 | `ka` | CAUS | /ˈkä/ | particle |
 | `kaeli` | like | /kä.ˈe̞.li/ | verb |
@@ -158,6 +161,7 @@
 | `kupe` | hide | /ˈku.pe̞/ | verb |
 | `kupela` | secret | /ku.ˈpe̞.lä/ | noun |
 | `kurathi` | dry | /ku.ˈrä.θi/ | adjective |
+| `kurathimo` | drought | /ku.rä.ˈθi.mo̞/ | noun |
 | `kuremi` | grind | /ku.ˈre̞.mi/ | verb |
 | `kuri` | right | /ˈku.ri/ | noun |
 | `kurisha` | storm | /ku.ˈri.ʃä/ | noun |
@@ -186,6 +190,10 @@
 | `lila` | PURP | /ˈli.lä/ | conjunction |
 | `lilea` | clarify | /li.ˈle̞.ä/ | verb |
 | `lima` | alive | /ˈli.mä/ | adjective |
+| `limakori` | species | /li.mä.ˈko̞.ri/ | noun |
+| `limaloni` | population | /li.mä.ˈlo̞.n̪i/ | noun |
+| `limatero` | ecosystem | /li.mä.ˈt̪e̞.ro̞/ | noun |
+| `limaweso` | ecological community | /li.mä.ˈwe̞.so̞/ | noun |
 | `limoe` | creature | /li.ˈmo̞.e̞/ | noun |
 | `limu` | young | /ˈli.mu/ | adjective |
 | `lina` | string (instrument) | /ˈli.n̪ä/ | noun |
@@ -234,12 +242,14 @@
 | `lumani` | family | /lu.ˈmä.n̪i/ | noun |
 | `lumeo` | die | /lu.ˈme̞.o̞/ | verb |
 | `lumera` | nourish | /lu.ˈme̞.rä/ | verb |
+| `lumeraki` | nutrient | /lu.me̞.ˈrä.ki/ | noun |
 | `lumira` | descendant | /lu.ˈmi.rä/ | noun |
 | `lumishe` | mentor | /lu.ˈmi.ʃe̞/ | noun |
 | `lumoi` | lantern | /lu.ˈmo̞.i/ | noun |
 | `lunai` | vision | /lu.ˈn̪ä.i/ | noun |
 | `lunei` | moon | /lu.ˈn̪e̞.i/ | noun |
 | `lunoa` | month | /lu.ˈn̪o̞.ä/ | noun |
+| `luphanori` | watershed | /lu.ɸä.ˈn̪o̞.ri/ | noun |
 | `lupho` | float | /ˈlu.ɸo̞/ | verb |
 | `luphonu` | boat | /lu.ˈɸo̞.n̪u/ | noun |
 | `luphore` | river | /lu.ˈɸo̞.re̞/ | noun |
@@ -267,12 +277,14 @@
 | `melothe` | pond | /me̞.ˈlo̞.θe̞/ | noun |
 | `melu` | friend | /ˈme̞.lu/ | noun |
 | `meluna` | season | /me̞.ˈlu.n̪ä/ | noun |
+| `melunaro` | climate | /me̞.lu.ˈn̪ä.ro̞/ | noun |
 | `mena` | DECL.COMP | /ˈme̞.n̪ä/ | complementizer |
 | `menai` | dedicate | /me̞.ˈn̪ä.i/ | verb |
 | `meno` | DECL.COMP.CLOSE | /ˈme̞.n̪o̞/ | complementizer |
 | `menoa` | face | /me̞.ˈn̪o̞.ä/ | noun |
 | `menua` | counselor | /me̞.ˈn̪u.ä/ | noun |
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
+| `menulora` | habitat | /me̞.n̪u.ˈlo̞.rä/ | noun |
 | `mera` | net | /ˈme̞.rä/ | noun |
 | `meropi` | cherish | /me̞.ˈro̞.pi/ | verb |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
@@ -309,6 +321,7 @@
 | `mophi` | wool | /ˈmo̞.ɸi/ | noun |
 | `mophira` | sheep | /mo̞.ˈɸi.rä/ | noun |
 | `morae` | sense | /mo̞.ˈrä.e̞/ | verb |
+| `moralume` | decompose | /mo̞.rä.ˈlu.me̞/ | verb |
 | `moreke` | mammal | /mo̞.ˈre̞.ke̞/ | noun |
 | `moreko` | articulate | /mo̞.ˈre̞.ko̞/ | verb |
 | `moreluki` | transform | /mo̞.re̞.ˈlu.ki/ | verb |
@@ -318,15 +331,18 @@
 | `moru` | wall | /ˈmo̞.ru/ | noun |
 | `mosha` | period | /ˈmo̞.ʃä/ | noun |
 | `motha` | foundation | /ˈmo̞.θä/ | noun |
+| `mothanomi` | baseline | /mo̞.θä.ˈn̪o̞.mi/ | noun |
 | `mothare` | premise | /mo̞.ˈθä.re̞/ | noun |
 | `motu` | humble | /ˈmo̞.t̪u/ | adjective |
 | `mu` | zero | /ˈmu/ | numeral |
 | `mua` | LOC | /ˈmu.ä/ | preposition |
 | `mue` | OUT.OF | /ˈmu.e̞/ | preposition |
 | `mueli` | plain (unadorned) | /mu.ˈe̞.li/ | adjective |
+| `mueralo` | material | /mu.e̞.ˈrä.lo̞/ | noun |
 | `mueri` | clay | /mu.ˈe̞.ri/ | noun |
 | `muero` | autumn | /mu.ˈe̞.ro̞/ | noun |
 | `muhena` | dust | /mu.ˈhe̞.n̪ä/ | noun |
+| `muhenari` | sediment | /mu.he̞.ˈn̪ä.ri/ | noun |
 | `muholi` | dig | /mu.ˈho̞.li/ | verb |
 | `muila` | earth | /mu.ˈi.lä/ | noun |
 | `muko` | careless | /ˈmu.ko̞/ | adjective |
@@ -389,6 +405,7 @@
 | `nomela` | encourage | /n̪o̞.ˈme̞.lä/ | verb |
 | `nomi` | present | /ˈn̪o̞.mi/ | noun |
 | `nomira` | collect | /n̪o̞.ˈmi.rä/ | verb |
+| `nomiraki` | concentration | /n̪o̞.mi.ˈrä.ki/ | noun |
 | `nomirela` | state | /n̪o̞.mi.ˈre̞.lä/ | noun |
 | `nophae` | nose | /n̪o̞.ˈɸä.e̞/ | noun |
 | `nophe` | ABST.CLF | /ˈn̪o̞.ɸe̞/ | classifier |
@@ -442,16 +459,20 @@
 | `palowe` | shoe | /pä.ˈlo̞.we̞/ | noun |
 | `palu` | plate | /ˈpä.lu/ | noun |
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb |
+| `panumori` | resource | /pä.n̪u.ˈmo̞.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
 | `patha` | EXT.EXACT | /ˈpä.θä/ | complementizer |
 | `patho` | EXT.EXACT.CLOSE | /ˈpä.θo̞/ | complementizer |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pelio` | arm | /pe̞.ˈli.o̞/ | noun |
+| `pelokira` | toxic | /pe̞.lo̞.ˈki.rä/ | adjective |
 | `peloma` | harmful | /pe̞.ˈlo̞.mä/ | adjective |
 | `pelomaru` | hazard | /pe̞.lo̞.ˈmä.ru/ | noun |
+| `pelorawi` | expose | /pe̞.lo̞.ˈrä.wi/ | verb |
 | `pelori` | bird | /pe̞.ˈlo̞.ri/ | noun |
 | `peloru` | flower | /pe̞.ˈlo̞.ru/ | noun |
+| `pelosenu` | pollute | /pe̞.lo̞.ˈse̞.n̪u/ | verb |
 | `pelowa` | meadow | /pe̞.ˈlo̞.wä/ | noun |
 | `pelua` | paper | /pe̞.ˈlu.ä/ | noun |
 | `pelui` | cold | /pe̞.ˈlu.i/ | adjective |
@@ -466,6 +487,7 @@
 | `phaero` | transit | /ɸä.ˈe̞.ro̞/ | noun |
 | `phaewi` | studio | /ɸä.ˈe̞.wi/ | noun |
 | `phaliso` | network | /ɸä.ˈli.so̞/ | noun |
+| `phaluwero` | flood | /ɸä.lu.ˈwe̞.ro̞/ | verb |
 | `phamo` | console | /ˈɸä.mo̞/ | verb |
 | `phanoi` | portion | /ɸä.ˈn̪o̞.i/ | verb |
 | `phanu` | canvas | /ˈɸä.n̪u/ | noun |
@@ -512,6 +534,7 @@
 | `phirae` | different | /ɸi.ˈrä.e̞/ | adjective |
 | `phiraketu` | contradict | /ɸi.rä.ˈke̞.t̪u/ | verb |
 | `phiralea` | blossom | /ɸi.rä.ˈle̞.ä/ | noun |
+| `phiralima` | biodiversity | /ɸi.rä.ˈli.mä/ | noun |
 | `phiremo` | relate | /ɸi.ˈre̞.mo̞/ | verb |
 | `phirena` | meditate | /ɸi.ˈre̞.n̪ä/ | verb |
 | `phirenu` | snow | /ɸi.ˈre̞.n̪u/ | noun |
@@ -519,6 +542,7 @@
 | `phiro` | elegant | /ˈɸi.ro̞/ | adjective |
 | `phisoe` | creative | /ɸi.ˈso̞.e̞/ | adjective |
 | `phisu` | EXMP | /ˈɸi.su/ | discourse |
+| `phisumari` | sample | /ɸi.su.ˈmä.ri/ | noun |
 | `phisuwa` | example | /ɸi.ˈsu.wä/ | noun |
 | `phitura` | well (water) | /ɸi.ˈt̪u.rä/ | noun |
 | `phiwhekira` | counterexample | /ɸi.ʍe̞.ˈki.rä/ | noun |
@@ -573,6 +597,7 @@
 | `rato` | turn | /ˈrä.t̪o̞/ | verb |
 | `rei` | eighty-one-group | /ˈre̞.i/ | noun |
 | `relo` | symbol | /ˈre̞.lo̞/ | noun |
+| `reloteru` | model | /re̞.lo̞.ˈt̪e̞.ru/ | noun |
 | `relua` | mirror | /re̞.ˈlu.ä/ | noun |
 | `remo` | think | /ˈre̞.mo̞/ | verb |
 | `remolea` | concept | /re̞.mo̞.ˈle̞.ä/ | noun |
@@ -719,6 +744,7 @@
 | `soli` | SOME | /ˈso̞.li/ | quantifier |
 | `soliru` | hope | /so̞.ˈli.ru/ | verb |
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb |
+| `somethiru` | monitor | /so̞.me̞.ˈθi.ru/ | verb |
 | `sone` | value | /ˈso̞.n̪e̞/ | verb |
 | `soneholu` | tradeoff | /so̞.n̪e̞.ˈho̞.lu/ | noun |
 | `sonu` | alone | /ˈso̞.n̪u/ | adjective |
@@ -896,6 +922,7 @@
 | `tupi` | jump | /ˈt̪u.pi/ | verb |
 | `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
 | `turekali` | feedback | /t̪u.re̞.ˈkä.li/ | noun |
+| `turekelu` | recycle | /t̪u.re̞.ˈke̞.lu/ | verb |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb |
 | `wa` | Q | /ˈwä/ | particle |
 | `waeli` | conscious | /wä.ˈe̞.li/ | adjective |
@@ -952,9 +979,11 @@
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |
 | `whelina` | grass | /ʍe̞.ˈli.n̪ä/ | noun |
 | `whemoa` | empty | /ʍe̞.ˈmo̞.ä/ | adjective |
+| `whemorali` | waste | /ʍe̞.mo̞.ˈrä.li/ | noun |
 | `whemura` | dream | /ʍe̞.ˈmu.rä/ | verb |
 | `whenola` | wander | /ʍe̞.ˈn̪o̞.lä/ | verb |
 | `wheo` | elder | /ˈʍe̞.o̞/ | noun |
+| `wherakelu` | erode | /ʍe̞.rä.ˈke̞.lu/ | verb |
 | `whesu` | blow | /ˈʍe̞.su/ | verb |
 | `whila` | hair | /ˈʍi.lä/ | noun |
 | `whilaru` | comb | /ʍi.ˈlä.ru/ | noun |
@@ -975,6 +1004,7 @@
 | `wipha` | restless | /ˈwi.ɸä/ | adjective |
 | `wira` | window | /ˈwi.rä/ | noun |
 | `wirae` | spring (season) | /wi.ˈrä.e̞/ | noun |
+| `wiraselu` | runoff | /wi.rä.ˈse̞.lu/ | noun |
 | `wireo` | future | /wi.ˈre̞.o̞/ | noun |
 | `wiroa` | hopeful | /wi.ˈro̞.ä/ | adjective |
 | `wiru` | basket | /ˈwi.ru/ | noun |

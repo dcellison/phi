@@ -2,6 +2,7 @@
 (async function () {
   const $ = (id) => document.getElementById(id);
   const PAGE = 50;
+  const BASE_VOCABULARY = "base-vocabulary";
   let lexicon = [], words = new Set(), shown = 0, current = [];
 
   const PILLAR_NAMES = {
@@ -53,7 +54,7 @@
   fill($("f-module"), opts.module, (v) => MODULE_NAMES[v] || v);
   fill($("f-pillar"), opts.pillar, (v) => PILLAR_NAMES[v] || v);
   const requestedModule = new URLSearchParams(window.location.search).get("module");
-  if (requestedModule && opts.module.has(requestedModule)) $("f-module").value = requestedModule;
+  if (requestedModule === BASE_VOCABULARY || opts.module.has(requestedModule)) $("f-module").value = requestedModule;
 
   const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -86,7 +87,7 @@
         s >= 0 &&
         (!fp || e.pos.includes(fp)) &&
         (!ft || (e.tags && ft in e.tags)) &&
-        (!fm || (e.modules || []).includes(fm)) &&
+        (!fm || (fm === BASE_VOCABULARY ? (e.modules || []).length === 0 : (e.modules || []).includes(fm))) &&
         (!fl || (e.pillars && fl in e.pillars)))
       .sort((a, b) => a.s - b.s || a.e.word.localeCompare(b.e.word))
       .map(({ e }) => e);
