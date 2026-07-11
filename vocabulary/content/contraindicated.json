@@ -1,0 +1,27 @@
+{
+  "word": "nathoku",
+  "gloss": "contraindicated",
+  "ipa": "/n̪ä.ˈθo̞.ku/",
+  "syllables": [
+    "na",
+    "tho",
+    "ku"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Contraindicated / Advised Against Under a Stated Clinical Reason",
+  "description": "Of an intervention, medicine, procedure, or action, advised against under a stated clinical source because a condition, interaction, risk, or expected burden may make it unsuitable. A contraindication may be absolute, relative, temporary, uncertain, or source-specific. The word does not mean physically impossible, universally harmful, refused, unauthorized, illegal, allergic, or certain to cause harm.",
+  "sound_symbolism": "Necessity-facing 'na' meets the relational boundary of 'tho', while final 'ku' closes one proposed path under stated conditions. The form restrains action without turning caution into universal prohibition.",
+  "grammatical_notes": "An adjective: 'ha nepha nathoku nai.' (This medicine is contraindicated.) State the person or condition, intervention, source, reason, strength, alternatives, and uncertainty where relevant. The quality-noun rule supplies contraindication. Distinct from 'peloma' (harmful), 'whemaki' (allergy), 'naweri' (refuse), 'kanuwa' (authorize), and practical impossibility.",
+  "pillars": {
+    "peace-linguistics-practices": "A sourced contraindication can guide caution without erasing the person's choice or pretending that one clinical reason settles every context."
+  },
+  "tags": {
+    "cognition": "a source-bounded judgment against a proposed intervention",
+    "physical": "a clinical relation between an intervention and bodily conditions"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

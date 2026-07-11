@@ -1,0 +1,27 @@
+{
+  "word": "pelaku",
+  "gloss": "severity",
+  "ipa": "/pe̞.ˈlä.ku/",
+  "syllables": [
+    "pe",
+    "la",
+    "ku"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Severity / Degree of Health Effect Under Stated Criteria",
+  "description": "The degree of intensity, bodily effect, functional effect, suffering, or threat associated with a symptom, injury, disease, condition, or clinical finding under stated criteria. Different dimensions may yield different severity judgments. Severity is not urgency, probability, prognosis, moral importance, priority for care, human worth, or proof that an observer's scale matches the person's experience.",
+  "sound_symbolism": "Effect-bearing 'pe' opens the comparison, 'la' lays out a scale, and final 'ku' gathers the judgment around stated criteria. The form measures degree without ranking people.",
+  "grammatical_notes": "A countable or mass noun according to context: 'lo mia ha pelaku kisome.' (We assess the severity.) Name the object, dimension, criterion, source, and affected person's report where relevant. Distinct from 'kipona' (pain), 'pukea' (danger), 'kirema' (criterion), 'sone' (value), and urgency.",
+  "pillars": {
+    "peace-linguistics-practices": "Explicit dimensions keep a severity judgment from erasing first-person experience or becoming a ranking of whose life and care matter."
+  },
+  "tags": {
+    "cognition": "a criterion-relative judgment of degree",
+    "physical": "degree of bodily or health effect"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

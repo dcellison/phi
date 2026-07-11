@@ -1,0 +1,27 @@
+{
+  "word": "peshiro",
+  "gloss": "infection",
+  "ipa": "/pe̞.ˈʃi.ro̞/",
+  "syllables": [
+    "pe",
+    "shi",
+    "ro"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Infection / Presence and Activity of an Infectious Agent in a Host",
+  "description": "The presence and activity or multiplication of an infectious agent in or on a host under stated biological or clinical criteria. Infection may be localized, systemic, symptomatic, asymptomatic, suspected, or confirmed. It is not exposure, environmental contamination, inflammation, disease in every case, transmissibility, moral impurity, a diagnosis by itself, or proof of where or from whom an agent came.",
+  "sound_symbolism": "Opening 'pe' marks contact that has crossed a boundary, 'shi' gives the agent a fine active presence, and final 'ro' keeps the course and consequence unresolved. The form is precise without borrowing purity metaphors.",
+  "grammatical_notes": "A countable or mass noun according to context: 'ha peshiro po ma welathi nai.' (This infection may not be contagious.) State the agent, host, site, evidence, method, and uncertainty where relevant. Distinct from 'perawi' (expose), 'hisophi' (contaminant), 'thephaku' (inflammation), 'mokanu' (disease), and 'welathi' (contagious).",
+  "pillars": {
+    "peace-linguistics-practices": "A biologically bounded infection term discourages speakers from extending contamination and purity language to people, cultures, or moral status."
+  },
+  "tags": {
+    "nature": "an infectious agent acting in relation to a host",
+    "physical": "a biological process in or on a body"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

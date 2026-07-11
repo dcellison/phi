@@ -14,7 +14,7 @@ The module does not replace Phi's existing language of labor, craft, making, rep
 | Repair and continuity | `shiroka` repair, `whori` mend, `talome` restore, `thiranu` maintain, `thenoki` sustain, `whoa` whole, `pukate` break, `helui` change |
 | Tools and materials | `tenoa` tool, `keli` device, `toka` hammer, `kiru` chisel, `katiru` knife, `tisu` needle, `weloa` loom, `rolu` wheel, `wolea` wood, `kerou` stone, `mueri` clay, `keluo` metal |
 | Learning and knowledge | `norae` method, `thole` practice, `thumela` teach, `shonela` learn, `moloi` apprentice, `thunai` student, `solae` explain, `somela` observe, `shelomu` understand, `sano` know |
-| Choice and responsibility | `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `seru` commit, `thonai` willingly responsible, `ralu` free |
+| Choice and responsibility | `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `seru` commit, `thonai` willingly responsible, `ralu` free |
 | Shared activity | `shorema` contribute, `wenola` collaborate, `molawi` cooperate, `naphe` help, `panoru` support, `phowe` share, `pheloma` serve |
 | Evidence and conditions | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `masue` measure, `somela` observe, `siru` marker, `kiro` precise, `lu` condition, `po` possibility, `na` necessity, `ma` negation |
 

@@ -1,0 +1,27 @@
+{
+  "word": "kithero",
+  "gloss": "diagnose",
+  "ipa": "/ki.ˈθe̞.ro̞/",
+  "syllables": [
+    "ki",
+    "the",
+    "ro"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Diagnose / Form or State a Clinical Conclusion Under Criteria",
+  "description": "To form or state a clinical conclusion that a named disease, injury, condition, or explanatory category fits the available evidence under stated criteria and authority. A diagnosis may be provisional, differential, revised, disputed, or source-specific. Diagnosing does not make the conclusion true, identify every cause, determine prognosis or treatment, establish certainty, replace the person's report, or supply consent and authorization.",
+  "sound_symbolism": "Criterion-bearing 'ki' opens the judgment, 'the' directs attention through the evidence, and final 'ro' states a conclusion while leaving it open to revision. The form is structured without sounding final.",
+  "grammatical_notes": "A complement-taking or transitive verb: 'shia mena mia ha mokanu phelu meno kithero.' (They diagnose that I have this disease.) State the diagnosing source, evidence, criteria, alternatives, uncertainty, and exact source label where relevant. The event-noun rule supplies a diagnosis. Distinct from 'hisaro' (clinical finding), 'kisome' (assess), 'mokanu' (disease), 'wireki' (prognosis), and 'sikanu' (certify).",
+  "pillars": {
+    "peace-linguistics-practices": "Treating diagnosis as a sourced and revisable conclusion prevents a label from replacing the person, silencing symptoms, or claiming authority beyond its evidence."
+  },
+  "tags": {
+    "cognition": "forming a clinical conclusion from evidence and criteria",
+    "dialogue": "stating a potentially revisable health conclusion"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

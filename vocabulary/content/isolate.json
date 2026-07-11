@@ -1,0 +1,30 @@
+{
+  "word": "sonari",
+  "gloss": "isolate",
+  "ipa": "/so̞.ˈn̪ä.ri/",
+  "syllables": [
+    "so",
+    "na",
+    "ri"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Isolate / Separate a Known or Suspected Infectious Source",
+  "description": "To separate a person, animal, material, or source known or suspected to be infectious from possible hosts or shared pathways for a stated period and protective purpose. Isolation may be voluntary, supported, requested, or imposed. It does not mean quarantine after exposure, solitude, punishment, imprisonment, abandonment, diagnosis, legitimate authority, adequate care, or consent.",
+  "sound_symbolism": "Observational 'so' identifies the relevant source, 'na' marks a protective limit, and final 'ri' keeps care and practical life continuing across the separation. The form creates distance without erasing relation.",
+  "grammatical_notes": "A transitive or reflexive verb: 'shia miso sonari.' (They isolate themselves.) State the source, pathway, place, duration, support, consent, authority, and review where relevant. The event-noun rule supplies isolation. Distinct from 'teshori' (quarantine), 'sonu' (alone), 'shorupo' (protect), 'kawhera' (coerce), and exclusion as punishment.",
+  "pillars": {
+    "solarpunk-values": "Protective separation requires material support, communication, care, and shared responsibility rather than merely removing a person from community life.",
+    "peace-linguistics-practices": "Separating isolation from punishment, authority, and abandonment makes both protection and coercion available for explicit scrutiny."
+  },
+  "tags": {
+    "activity": "separating a possible infectious source from transmission pathways",
+    "community": "a protective relation requiring support and review",
+    "spatial": "a bounded separation between a source and possible hosts",
+    "temporal": "separation for a stated period"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

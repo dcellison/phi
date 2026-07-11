@@ -228,6 +228,8 @@ PL 1SG rest.
 
 ### Gap log
 
+The following findings describe the before-state dialogue. The established [Medical and Bodily Care module](modules/medical_and_bodily_care.md) now supplies vocabulary for many of these distinctions, while the dialogue itself remains unchanged until the planned corpus-wide review.
+
 - **Exact measurement works as a separate record, not as a lexical unit.** The displayed `12 V` artifact preserves the number and unit while the Phi dialogue refers to its marker and measurement role. This does not by itself provide vocabulary for voltage, calibration, threshold, or technical comparison.
 - **The measurement restriction makes one useful ethical distinction easy.** `miona sone po ma masue` separates a person's value from a thing that can be measured. The scenario therefore does not establish that the restriction is wrong; it shows a real benefit of keeping ranking separate from technical conditions.
 - **The restriction burdens explanation of safety-critical systems.** `masue` is defined as relational, body-scaled measurement. Treating an exact unit as its object is intelligible but semantically strained. A second scenario should test a medical, accessibility, or public-health measurement before deciding whether a conventional core construction is needed. The medical scenario below begins that comparison.
@@ -383,9 +385,9 @@ A: mia ha nepha reo lilea phelona. lo mia therilu.
 - **A recorded number is not a diagnosis.** `ha masue pukea po shelo` can express a deliberately tentative connection between a reading and danger. It cannot distinguish observation, symptom, test, indication, risk, diagnosis, prognosis, or a justified recommendation. The inability to explain the measurement is the intended failure, not a medical claim about the value shown.
 - **The existing resources support a respectful minimum, but not full informed consent.** `pi wa` plus `po` can ask before touching or giving something; `ma nawo`, `naweri`, `thekao`, and an explicit `ma palo` can recognize and honor a refusal. Yet `po` also covers practical ability, `nawo` is ordinary agreement, and the language has no conventional way to state scope, duration, revocation, alternatives, benefits, burdens, or whether the explanation was sufficient for a decision.
 - **Care and a recorded measurement can be separated, but the decision frame is thin.** `mia theama phelona. ha masue theama ma nai.` distinguishes a need for care from the presence of one measurement. It does not provide a conventional way to discuss options, a care role, accountability, access needs, or a shared care plan.
-- **A separately presented technical phrase would preserve a label without solving the problem.** For example, the source term `informed consent` would not state what the person understood or what action they accepted. A future medical module should add carefully scoped semantic resources and usage guidance where useful; it should not add grammar or mistake source preservation for explanation.
+- **A separately presented technical phrase would preserve a label without solving the problem.** For example, the source term `informed consent` would not state what the person understood or what action they accepted. The Medical module now adds carefully scoped semantic resources and usage guidance without adding grammar or mistaking source preservation for explanation.
 
-No new root or particle follows from this single scenario. It independently confirms the systems result: exact data is necessary for safety-critical communication, but the data needs a transparent decision and explanation context before it can guide care.
+The scenario supplied evidence and boundaries rather than mechanically requiring a root. The completed pass now adds shared-core `lesawi` consent and Medical terms for symptoms, findings, diagnosis, prognosis, treatment, intervention, dose, effects, and related care, while preserving the scenario's central result: exact data needs a transparent decision and explanation context before it can guide care.
 
 ## 9. A doorway, a route, and written words
 

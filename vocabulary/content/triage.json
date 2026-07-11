@@ -1,0 +1,29 @@
+{
+  "word": "kithawu",
+  "gloss": "triage",
+  "ipa": "/ki.ˈθä.wu/",
+  "syllables": [
+    "ki",
+    "tha",
+    "wu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Triage / Prioritize Assessment or Care Under Stated Constraints",
+  "description": "To assess and prioritize the timing, order, location, or resource level of evaluation and care under stated urgency, expected-benefit, capacity, or other criteria and constraints. Triage may be revised as conditions and resources change. It does not rank human worth, diagnose, refuse care, prove fairness, establish legitimate criteria, guarantee benefit, authorize exclusion, or erase the needs of those assigned lower priority.",
+  "sound_symbolism": "Criterion-bearing 'ki' opens into attentive 'tha', while final 'wu' carries several constrained paths forward. The form orders response without sounding like a verdict on persons.",
+  "grammatical_notes": "A transitive or intransitive verb: 'shia lo miona kithawu.' (They triage people.) State the assessor, criteria, constraints, available care, uncertainty, affected people, result, and review where relevant. The event-noun rule supplies triage. Distinct from 'kisome' (assess), 'phanuli' (allocate), 'sone' (value), 'pelaku' (severity), and 'kanuro' (decision).",
+  "pillars": {
+    "solarpunk-values": "Shared care under scarcity requires visible criteria, constraints, burdens, and responsibility to expand capacity rather than treating shortage as natural.",
+    "peace-linguistics-practices": "Separating triage from worth, refusal, and fairness keeps painful prioritization open to explanation, dissent, revision, and accountability."
+  },
+  "tags": {
+    "activity": "assessing and ordering care under constraints",
+    "cognition": "a revisable priority judgment under stated criteria",
+    "community": "distribution of care timing and resources among affected people"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

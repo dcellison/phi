@@ -82,6 +82,43 @@
 | `wheraku` | erode | verb | Erode |
 | `wiralu` | runoff | noun | Runoff |
 
+## Medical and Bodily Care
+
+*30 module words.*
+
+| Word | Gloss | Part of speech | Concept |
+|---|---|---|---|
+| `helanu` | recover | verb | Recover |
+| `hisaro` | clinical finding | noun | Clinical Finding |
+| `katheo` | acute | adjective | Acute |
+| `kaworu` | injury | noun | Injury |
+| `kithawu` | triage | verb | Triage |
+| `kithero` | diagnose | verb | Diagnose |
+| `mikasu` | dose | noun | Dose |
+| `mokanu` | disease | noun | Disease |
+| `morashi` | relapse | verb | Relapse |
+| `nathoku` | contraindicated | adjective | Contraindicated |
+| `nephoru` | treat | verb | Treat |
+| `nurawi` | chronic | adjective | Chronic |
+| `pelaku` | severity | noun | Severity |
+| `peshiro` | infection | noun | Infection |
+| `phamori` | symptom | noun | Symptom |
+| `porewi` | side effect | noun | Side Effect |
+| `sewaro` | transmit | verb | Transmit |
+| `shorenu` | immune | adjective | Immune |
+| `shuneki` | vaccinate | verb | Vaccinate |
+| `sonari` | isolate | verb | Isolate |
+| `soranu` | screen | verb | Screen |
+| `suloru` | fever | noun | Fever |
+| `teshori` | quarantine | verb | Quarantine |
+| `thekamu` | intervene | verb | Intervene |
+| `thephaku` | inflammation | noun | Inflammation |
+| `welathi` | contagious | adjective | Contagious |
+| `weshaku` | outbreak | noun | Outbreak |
+| `whekaro` | adverse effect | noun | Adverse Effect |
+| `whemaki` | allergy | noun | Allergy |
+| `wireki` | prognosis | noun | Prognosis |
+
 ## Philosophical Reasoning
 
 *22 module words.*

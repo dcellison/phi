@@ -1,0 +1,28 @@
+{
+  "word": "thekamu",
+  "gloss": "intervene",
+  "ipa": "/θe̞.ˈkä.mu/",
+  "syllables": [
+    "the",
+    "ka",
+    "mu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Intervene / Deliberately Act on a Health State or Care Process",
+  "description": "To deliberately act on a person's body, health state, environment, or care process for a diagnostic, preventive, therapeutic, supportive, or palliative purpose. An intervention may be small or extensive, one-time or repeated, physical or communicative. It is not necessarily treatment, surgery, benefit, consent, authorization, accepted care, or a source-specific procedure.",
+  "sound_symbolism": "Attentive 'the' approaches a decisive 'ka', while final 'mu' places the action within a bounded body or care setting. The form marks deliberate entry without treating it as justified.",
+  "grammatical_notes": "A transitive or intransitive verb: 'shia ha thekamu phoa.' (They perform this intervention.) The event-noun rule supplies an intervention. State the action, person, purpose, source, consent, risks, alternatives, and follow-up where relevant. Distinct from 'nephoru' (treat), 'somaki' (test), 'palo' (touch), 'theama' (care), and a source-specific procedure.",
+  "pillars": {
+    "peace-linguistics-practices": "A neutral intervention word makes bodily action discussable without building benefit, legitimacy, professional authority, or consent into the verb."
+  },
+  "tags": {
+    "activity": "a deliberate action within bodily care",
+    "community": "an action affecting a person within a care relation",
+    "physical": "an action on a body, health state, or bodily environment"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

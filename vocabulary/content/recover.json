@@ -1,0 +1,28 @@
+{
+  "word": "helanu",
+  "gloss": "recover",
+  "ipa": "/he̞.ˈlä.n̪u/",
+  "syllables": [
+    "he",
+    "la",
+    "nu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Recover / Move Toward a Prior or Desired Health State",
+  "description": "For a person's health, function, energy, comfort, or symptom course to move toward a prior or desired state after illness, injury, intervention, or another disruption. Recovery may be partial, uneven, adapted, supported, or defined by the person rather than by restoration to an earlier norm. It does not imply cure, complete healing, independence, full function, permanence, return to a socially preferred body, or freedom from ongoing care.",
+  "sound_symbolism": "Change-bearing 'he' opens into a traversable 'la', while final 'nu' acknowledges the depth and time of the process. The form moves without insisting on a single destination.",
+  "grammatical_notes": "An intransitive verb: 'shia helanu.' (They recover.) The event-noun rule supplies recovery. State the relevant condition, dimension, person's goal, support, time, and remaining needs where relevant. Distinct from 'theala' (heal), 'talome' (restore), 'wolu' (healthy), 'mureo' (stable), and 'morashi' (relapse).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Recovery is a conditioned process of change rather than restoration of a fixed self or proof that difficulty has ended.",
+    "peace-linguistics-practices": "Letting the person and context define recovery resists imposing one normal body, pace, function, or endpoint."
+  },
+  "tags": {
+    "physical": "movement toward a prior or desired health state",
+    "temporal": "an uneven health course unfolding over time"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

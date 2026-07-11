@@ -1,0 +1,28 @@
+{
+  "word": "mikasu",
+  "gloss": "dose",
+  "ipa": "/mi.ˈkä.su/",
+  "syllables": [
+    "mi",
+    "ka",
+    "su"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Dose / Specified Amount of an Intervention at a Stated Administration",
+  "description": "A specified amount of a medicine, substance, radiation, energy, or other measurable intervention intended or delivered at a stated administration, route, time, or interval. A dose is distinct from concentration, total course, cumulative exposure, frequency, and effect. The word does not establish accuracy, receipt, absorption, safety, suitability, consent, or that the source instruction was understood.",
+  "sound_symbolism": "Bounded 'mi' gathers one administration, 'ka' marks its specified amount, and final 'su' carries it into a larger course without confusing the two. The form is compact but requires its exact source.",
+  "grammatical_notes": "A countable noun: 'mia ha mikasu reo ma shelomu.' (I do not understand the meaning of this dose.) Preserve exact amount, unit, route, timing, formulation, and source instruction outside Phi. Distinct from 'nepha' (medicine), 'nomiki' (concentration), 'thimora' (schedule), 'masue' (measure), and total treatment.",
+  "pillars": {
+    "peace-linguistics-practices": "Separating a dose from its exact record, safety, understanding, and consent prevents a number or instruction from speaking as unquestionable authority."
+  },
+  "tags": {
+    "cognition": "a specified intervention amount requiring exact source interpretation",
+    "physical": "an amount intended or delivered to a body",
+    "temporal": "an amount tied to an administration or interval"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}
