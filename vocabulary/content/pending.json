@@ -11,7 +11,7 @@
     "adjective"
   ],
   "concept": "Pending / Awaiting a Needed Action or Condition",
-  "description": "Awaiting a stated action, decision, item, time, answer, or condition before its status can change. Pending says that something remains open; it does not say that work has begun, that delay is justified, that anyone accepted responsibility, or that the expected event will occur.",
+  "description": "Awaiting a stated action, decision, item, or condition before its status can change. Pending says only that something remains open and whose move it waits on; work may not have begun, and the expected event may never come. Its neighbor 'noraku' (blocked) is stronger: an obstacle, not a turn in the queue.",
   "sound_symbolism": "Breathy 'ha' opens an unresolved space, 'so' points toward what may come, and final 'ru' holds the matter in its current state. The form can recall waiting without making delay passive, patient, or harmless.",
   "grammatical_notes": "An adjective: 'ha riporu hasoru nai.' (This task is pending.) State what is awaited and who controls or is affected by the wait where relevant. The quality-noun rule supplies pending status. Distinct from 'noraku' (blocked), 'hasi' (wait), 'sholu' (complete), and future marking with 'so'.",
   "pillars": {

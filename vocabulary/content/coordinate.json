@@ -11,7 +11,7 @@
     "verb"
   ],
   "concept": "Coordinate / Arrange Relations Among Dependent Activities",
-  "description": "To arrange order, timing, information, interfaces, resources, or handoffs among activities or participants so their dependencies can be addressed. Coordination may be distributed or performed by a named person. It does not imply supervision, control, representation, authority to assign, agreement by participants, or success of the coordinated work.",
+  "description": "To arrange order, timing, information, and resources among activities that depend on each other. The coordinator holds threads, not people: the verb implies no supervision, no authority to assign, and no promise that the coordinated work succeeds.",
   "sound_symbolism": "Relational 'we' opens toward several participants or actions. 'Pha' spreads attention across their meeting points, and final 'ri' carries the practical sequence onward. The form links without placing one voice above the others.",
   "grammatical_notes": "A transitive or intransitive verb: 'mia lo riporu wephari.' (I coordinate the tasks.) Name the dependencies, information, participants, and claimed authority where relevant. The event-noun rule supplies coordination. Distinct from 'wenola' (collaborate), 'ketora' (technical control), 'someru' (supervise), and 'thorae' (facilitator).",
   "pillars": {
