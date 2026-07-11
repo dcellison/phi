@@ -18,7 +18,7 @@ ORD one three-group story
 (the third story)
 ```
 
-The number inside is ordinary ternary: `nu ta shao` is *third* because `ta shao` is three. Everything Part 2 built transfers: `nu wi phoi ta` is nineteenth, if a nineteenth ever matters, and the length of saying it is the language's gentle opinion about whether it does.
+The number inside is ordinary ternary: `nu ta shao` is *third* because `ta shao` is three. Everything Part 2 built transfers: `nu wi phoi ta` is nineteenth. Exact ordinals share the cardinal range through 242; larger exact positions remain source material outside the Phi passage.
 
 ### Dating the days
 
@@ -42,7 +42,7 @@ child LOC two position be.
 (The child is in the second position.)
 ```
 
-`nu` marks; `noa` names. The working distinction: if English wants *second X*, reach for `nu`; if it wants *the second position* as a place or rank to talk about, reach for `noa`. Ranks, it is worth saying, are places in lines, not places above people: Phi's refusals (canon) see to it that ordering things never becomes ordering persons.
+`nu` marks; `noa` names. The working distinction: if English wants *second X*, reach for `nu`; if it wants *the second position* as a place or rank to discuss, reach for `noa`. Phi can order people in queues, selections, or rankings, so speakers must still examine who established the order, what it measures, and what consequences it carries.
 
 ### Ordinals and classifiers together
 

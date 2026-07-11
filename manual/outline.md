@@ -114,7 +114,7 @@
 ### Chapter 12: Numbers
 1. The Ternary Foundation
 2. Building Numbers
-3. Approximation: The Honest Quantities
+3. Approximation: Choosing Useful Precision
 4. Position and Kind
 5. Conscious Calculation
 

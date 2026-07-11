@@ -24,7 +24,7 @@ Phi is a constructed language, but almost every one of its features lives somewh
 
 **Evidentiality** (marking how you know) is obligatory in Quechua and Aymara, and built into the Turkish past tense (*-mış* for non-witnessed events). Phi's four-way system (witnessed / inferred / reported / assumed) matches the richer natural systems closely; its one departure is making evidentials *optional*, turning a grammatical obligation into a mindfulness practice.
 
-**Numeral classifiers** (counting people, animals, and objects with different measure words) are everyday grammar in Mandarin, Japanese, Thai, and Korean. Phi's four-classifier system is modest by comparison (Japanese uses dozens); making them optional-but-honorific is Phi's own touch.
+**Numeral classifiers** (counting people, animals, and objects with different category or measure words) are everyday grammar in Mandarin, Japanese, Thai, and Korean. Phi's four-classifier system is small by comparison and always optional. A chosen classifier can foreground a category, but it is not grammatically honorific and cannot guarantee respect.
 
 **Pre-nominal relative clauses** (the whole describing clause before the noun) are exactly how Japanese, Korean, and Mandarin build them. English speakers find this Phi feature exotic; most of East Asia finds it obvious.
 
@@ -36,8 +36,8 @@ Phi is a constructed language, but almost every one of its features lives somewh
 
 ## Numbers
 
-**Restricted numeral systems** are well documented: several Australian languages traditionally counted "one, two, many"; Pirahã (Amazonia) appears to have no exact numerals at all; and base systems of 4, 5, 12, 20, and 60 all occur naturally. A pure base-3 system with deliberate imprecision past ~27 has no exact natural precedent. Phi's ternary system is philosophy expressed as arithmetic, and this manual has never claimed otherwise. What nature does confirm: humans live full lives, build societies, and raise children in languages with far less counting than English.
+**Numeral systems vary**, although decimal systems dominate the WALS typological sample. Vigesimal, mixed, other-base, extended body-part, and restricted systems are also documented. Labels such as “one, two, many” and claims about particular communities require language-specific evidence and should not be turned into claims about cognitive capacity or social values. Phi's finite pure ternary system expresses exact integers from 0 through 242 and uses bare scales for approximation; this manual has not established a natural-language precedent with that same package. See `documents/psychological_violence_of_measurement.md` for the evidence and learning boundaries.
 
 ## The honest summary
 
-A learner who knows Japanese will recognize Phi's word order, relatives, classifiers, and topic-drop. A Mandarin speaker will recognize its analyticity. A Quechua speaker will recognize its evidentials; a Hawaiian speaker its sounds. What no natural speaker will recognize: the exceptionless modifier-first principle, the required clause closers, the ternary numbers, and the systematic absence of violence vocabulary. Those four are Phi's actual inventions. Each one exists to make the language not more exotic, but more deliberate.
+Prior knowledge of Japanese may help with Phi's word order, relatives, classifiers, or topic omission; Mandarin may provide points of comparison for analytic structure, Quechua for evidentials, and Hawaiian for parts of the sound system. Similarity does not make any feature immediately familiar or predict an individual learner's difficulty. Phi's exceptionless modifier-first principle, required clause closers, particular finite ternary system, and systematic lexical refusals remain engineered combinations whose learnability and effects must be tested rather than assumed.

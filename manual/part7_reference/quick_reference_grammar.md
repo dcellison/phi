@@ -43,11 +43,11 @@ Phi uses periods only: no commas, question marks, or exclamation marks. Punctuat
 | `ne NAME` | before one name atom | listed content word or productive two/three-syllable onym |
 | `kona [ne] NAME` | extra-clausal | vocative address |
 
-Embedded clauses carry their own tense, and clause frames nest in matched pairs. `shola ... sholo` quotes grammatical Phi speech. Foreign wording, source-script names, exact values, identifiers, formulas, and other unassimilated material remain outside Phi syntax in the surrounding medium.
+Embedded clauses carry their own tense, and clause frames nest in matched pairs. `shola ... sholo` quotes grammatical Phi speech. Foreign wording, source-script names, source-form exact values and records, identifiers, formulas, and other unassimilated material remain outside Phi syntax in the surrounding medium; exact integers from 0 through 242 may also be rendered with internal Phi numerals when adequate.
 
 ## Noun phrase order
 
-**[Quantifier] [Demonstrative] [Number] [Classifier] [Adjective] [Noun]**
+Slot order: **[Quantifier] [Demonstrative] [Number or `lo`] [Classifier] [Adjective] [Noun]**. Quantity strategies are alternatives: an ordinary quantifier does not combine with a number, `lo`, or classifier; a numeral may take an optional classifier; `lo` marks only unquantified plurality.
 `ha wi himo phelora melu` — these two beautiful friends (as humans).
 
 Possessor first: `sila nophi` (the community's story). No articles.
@@ -55,10 +55,10 @@ Possessor first: `sila nophi` (the community's story). No articles.
 ## Numbers
 
 Base: `mu` 0 · `ta` 1 · `wi` 2. Scale units: `shao` 3 · `phoi` 9 · `lau` 27 · `rei` 81.
-Compose biggest-first: 5 = `ta shao wi`; 14 = `ta phoi ta shao wi`. Bare scale unit ≈ approximate quantity. Never `lo` with a number or quantifier.
+Compose biggest-first: 5 = `ta shao wi`; 14 = `ta phoi ta shao wi`. Each scale appears at most once with `ta` or `wi`; omitted places are zero. Exact range: 0-242, ending at `wi rei wi lau wi phoi wi shao wi`; larger exact values remain source material outside the Phi passage. A bare scale unit marks approximate magnitude without a fixed rounding interval. Never `lo` with a number or quantifier.
 Quantifiers: `theula` all · `sheloi` many · `soli` some · `phina` few · `wheli` any · `theli` each · `henoi` enough · `shelami` most · `mawha` none. Ask quantity: `wia`.
-Classifiers: `himo` people · `lipha` living · `themo` objects · `nophe` abstract.
-Arithmetic: `sholei` + · `leiro` − · `welura` × · `phanoi` ÷ · `kelai` = · compare `sharoi` > · `thenoi` <.
+Classifiers after numerals or `wia`: `himo` people · `lipha` non-human living · `themo` detached or crafted objects · `nophe` abstractions, time, and events. Always optional; ordinary quantifiers do not take them.
+Arithmetic: `[operand 1] nela [operand 2] [operation]. [result] kelai.` Operations: `sholei` + · `leiro` − · `welura` × · `phanoi` ÷. Equality: `[quantity 1] nela [quantity 2] kelai.` Comparison uses the same mandatory `nela` boundary with `sharoi` > or `thenoi` <.
 
 ## Prepositions (always before their object)
 

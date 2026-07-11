@@ -2,7 +2,7 @@
 
 Every sentence pattern the primer teaches, in one inventory: the pattern's shape, where it is taught, a worked example with its gloss, and the seed of its explanation. Nothing here is new — this document gathers what the twenty-six primer chapters spread across a household's days, so that anything teaching or checking Phi (a person, the validator, a teaching tool) can find the whole curriculum in one place. Examples are drawn from the primer wherever possible and are validator-checked, gloss lines included.
 
-Notation: square brackets mark slots (`[subject]`, `[place]`); everything else is literal. The Slot 1 particles stack in the canon order — tense, aspect, voice, evidentiality, modality, negation — one per rank; manner descriptors stand after the Slot 1 block, immediately before the verb.
+Notation: square brackets mark slots (`[subject]`, `[place]`); parentheses mark an optional slot; everything else is literal. The Slot 1 particles stack in the canon order — tense, aspect, voice, evidentiality, modality, negation — one per rank; manner descriptors stand after the Slot 1 block, immediately before the verb.
 
 ## I. Being and doing
 
@@ -64,7 +64,7 @@ NONE food LOC table be.
 (There is no food on the table.)
 ```
 
-**P08 · Counting.** `[numeral] [classifier] [noun]` — how many, of what nature, then the thing. Classifiers: himo (people), lipha (living things), themo (objects), nophe (ideas, times, events). Taught in ch. 15.
+**P08 · Counting.** `[numeral] ([classifier]) [noun]` — how many, optionally followed by the selected category, then the thing. Classifiers are always optional: himo (people), lipha (living things), themo (detached or crafted objects), nophe (ideas, times, events). Taught in ch. 15.
 
 ```
 wi himo piru mua silawo nai.

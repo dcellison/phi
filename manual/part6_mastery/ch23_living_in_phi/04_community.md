@@ -12,7 +12,7 @@ Everything begins here, and two is enough. A partner, a friend, a child, a corre
 
 ## A circle
 
-Three to nine people (`shao` to `phoi`, the community-sized numbers the ternary system was built around). A circle can do what pairs cannot: recite together (the metta refrain was made for unison), transmute together (chapter 22's exercises run beautifully as a table conversation), and disagree together, which is where the language's peace machinery finally gets real practice.
+Three to nine people (`ta shao` to `ta phoi`) can form a small practice circle. A circle can do what pairs cannot: recite together (the metta refrain was made for unison), transmute together (chapter 22's exercises work as a table conversation), and disagree together, which is where the language's peace practices need actual choices rather than grammatical promises.
 
 One structural suggestion from experience: let every gathering produce *one artifact*: a transmuted proverb, a new compound proposed for the registry, three sentences of collective journal. Community around a language survives on the things it makes.
 

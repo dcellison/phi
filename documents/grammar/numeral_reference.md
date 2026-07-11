@@ -1,573 +1,312 @@
 # Phi Numeral System Reference
 
-This document provides comprehensive information about Phi's ternary (base-3) numeral system, including scale units, nature classifiers, and the philosophical principles behind counting in Phi.
+This document is the canonical working reference for Phi's ternary numerals, approximation, classifiers, ordinals, arithmetic, and magnitude comparison. The manual's chapter 12 teaches the same system more gradually.
 
-## Core Philosophy
+## Scope and design
 
-Phi's number system embodies the language's resistance to unconscious quantification and reduction of beings to numbers. The ternary structure makes precise counting beyond human-scale quantities increasingly difficult—this is intentional, not a limitation. It encourages speakers to think in terms of relationships, groups, and approximations rather than abstract accumulation.
+Phi uses a finite base-three numeral system. Its small digit inventory and grouped forms make large exact counts more linguistically conspicuous than they are in familiar decimal systems. That friction is a design choice: it invites speakers to consider whether an exact count, an estimate, a quantifier, or separately preserved source material best serves the context.
 
----
+This design does not establish that ternary thought is more natural, that approximate speech is more honest, or that particular numeral words make people mindful, generous, or content. Exact values often support care, safety, accessibility, accountability, trade, science, and faithful reporting. Phi therefore preserves exact information that its internal numerals cannot express as source material outside the Phi passage.
 
-## Base Numerals
+## Learning scope
 
-Phi uses only **three base numerals**, all following simple CV structure:
+Numeral learning is divided into four practical layers:
 
-| Numeral | Value | Concept | IPA |
-|---------|-------|---------|-----|
-| **`mu`** | 0 | void, emptiness, absence | /ˈmu/ |
-| **`ta`** | 1 | singularity, unity, individual | /ta/ |
-| **`wi`** | 2 | duality, pair, relationship | /ˈwi/ |
+| Layer | Range or skill | Expected use |
+|---|---|---|
+| Foundation | 0-8 | Learn `mu`, `ta`, `wi`, and compositions with `shao`; recognize and produce them without decimal calculation where possible. |
+| Working range | 0-26 | Add `phoi`; sufficient for many ordinary counts and dates. |
+| Extended exact range | 27-242 | Add `lau` and `rei`; use when an exact internal Phi count matters. |
+| Calculation | arithmetic and comparison | Learn the mandatory `nela` operand boundary and the operation-specific referent rules. |
 
-These are the only "pure" numbers in Phi. All other quantities are expressed through scale units.
+Conversational competence does not require fast conversion of arbitrary decimal values, memorization of every form through 242, or spoken arithmetic. Ordered recitation is useful, but learners also need shuffled recognition, production from visible quantities, and practice with triad arrangements. Learning time will vary.
 
-**Examples**:
-```
-ta melu    (one friend)
-wi melu    (two friends)
-mu melu    (no friends / zero friends)
-```
+## Digits
 
----
+Phi has three digit words:
 
-## Scale Units: Counting by Groups
+| Digit | Value | IPA |
+|---|---:|---|
+| `mu` | 0 | /ˈmu/ |
+| `ta` | 1 | /ˈt̪ä/ |
+| `wi` | 2 | /ˈwi/ |
 
-For quantities beyond 2, Phi uses **scale units**—countable nouns representing groups. These are not classifiers or suffixes; they are independent words that can themselves be counted.
+`mu` is the complete numeral for zero. Inside a compound numeral, zero coefficients are omitted rather than pronounced.
 
-| Scale Unit | Value | Gloss | IPA |
-|------------|-------|-------|-----|
-| **`shao`** | 3 | three-group | /ˈʃä.o̞/ |
-| **`phoi`** | 9 | nine-group | /ˈɸo̞.i/ |
-| **`lau`** | 27 | twenty-seven-group | /ˈlä.u/ |
-| **`rei`** | 81 | eighty-one-group | /ˈre̞.i/ |
+```text
+ta melu
+one friend
+(one friend)
 
-### Structure: Modifier-First Counting
+wi melu
+two friend
+(two friends)
 
-Following the modifier-first principle, base numerals precede and modify scale units:
-
-**Pattern**: `[Base Numeral] [Scale Unit]`
-
-### Counting Examples (3-26)
-
-| Number | Phi Expression | Literal Meaning |
-|--------|----------------|-----------------|
-| 3 | `ta shao` | one three-group |
-| 4 | `ta shao ta` | one three-group [plus] one |
-| 5 | `ta shao wi` | one three-group [plus] two |
-| 6 | `wi shao` | two three-groups |
-| 7 | `wi shao ta` | two three-groups [plus] one |
-| 8 | `wi shao wi` | two three-groups [plus] two |
-| 9 | `ta phoi` | one nine-group |
-| 10 | `ta phoi ta` | one nine-group [plus] one |
-| 11 | `ta phoi wi` | one nine-group [plus] two |
-| 12 | `ta phoi ta shao` | one nine-group [plus] one three-group |
-| 15 | `ta phoi wi shao` | one nine-group [plus] two three-groups |
-| 18 | `wi phoi` | two nine-groups |
-| 27 | `ta lau` | one twenty-seven-group |
-
-### The Philosophy of Difficulty
-
-Notice how counting becomes progressively more cognitively demanding:
-- **1-2**: Immediate and intuitive
-- **3-8**: Manageable with shao (three-groups)
-- **9-26**: Requires composition of multiple scale units
-- **27+**: Essentially becomes "many" or "countless"
-
-This graduated difficulty **resists mechanical enumeration** and keeps counting grounded in human-scale awareness.
-
----
-
-## Approximate Quantities
-
-Scale units can stand alone to indicate approximate quantities, encouraging thinking in terms of groups rather than exact counts:
-
-**Examples**:
-```
-shao philo         (roughly 3 days / a few days)
-phoi miona        (roughly 9 people / several people)
-lau shiro         (roughly 27 trees / many trees)
-rei silero         (roughly 81 stars / countless stars)
+mu melu
+zero friend
+(zero friends)
 ```
 
-This usage is preferred in Phi for most everyday contexts, as it resists the psychological violence of precise measurement.
+## Scale units
 
----
+Four scale units name powers of three:
 
-## Nature Classifiers: Announcing What Is Counted
+| Scale | Value | Gloss | IPA |
+|---|---:|---|---|
+| `shao` | 3 | three-group | /ˈʃä.o̞/ |
+| `phoi` | 9 | nine-group | /ˈɸo̞.i/ |
+| `lau` | 27 | twenty-seven-group | /ˈlä.u/ |
+| `rei` | 81 | eighty-one-group | /ˈre̞.i/ |
 
-Phi's classifier system announces the essential nature of what is being counted, creating mindful awareness of whether we're enumerating people, living things, objects, or concepts.
+These forms behave as group nouns in numeral composition. A digit precedes the group it counts, following Phi's modifier-first order.
 
-### The Four Nature Classifiers
+## Exact composition
 
-| Classifier | Function | IPA | Used For |
-|------------|----------|-----|----------|
-| **`himo`** | HUM.CLF | /ˈhi.mo̞/ | Counting people, acknowledging humanity |
-| **`lipha`** | LIFE.CLF | /ˈli.ɸä/ | Counting living beings (plants, animals), acknowledging aliveness |
-| **`themo`** | THING.CLF | /ˈθe̞.mo̞/ | Counting inanimate objects, acknowledging thingness |
-| **`nophe`** | ABST.CLF | /ˈn̪o̞.ɸe̞/ | Counting abstract concepts, acknowledging conceptuality |
+An exact positive numeral follows this pattern:
 
-### Structure: Layered Announcement
+`[ta|wi rei] [ta|wi lau] [ta|wi phoi] [ta|wi shao] [ta|wi]`
 
-Following modifier-first, classifiers appear between numbers and nouns:
+Use only the places the value needs. The rules are:
 
-**Pattern**: `[Number] [Classifier] [Noun]`
+1. Each scale may appear at most once.
+2. Scales appear in descending order: `rei`, `lau`, `phoi`, `shao`.
+3. Only `ta` or `wi` may count a scale.
+4. A zero coefficient is omitted; `mu` does not fill an internal place.
+5. A final `ta` or `wi` expresses units.
+6. No conjunction appears inside a numeral.
+7. Scale units are not recursively counted. `rei` is the highest exact place.
 
-This creates layered announcement: quantity → nature → entity
+| Value | Phi | Composition |
+|---:|---|---|
+| 3 | `ta shao` | 1×3 |
+| 4 | `ta shao ta` | 1×3 + 1 |
+| 5 | `ta shao wi` | 1×3 + 2 |
+| 6 | `wi shao` | 2×3 |
+| 8 | `wi shao wi` | 2×3 + 2 |
+| 9 | `ta phoi` | 1×9 |
+| 12 | `ta phoi ta shao` | 1×9 + 1×3 |
+| 14 | `ta phoi ta shao wi` | 1×9 + 1×3 + 2 |
+| 22 | `wi phoi ta shao ta` | 2×9 + 1×3 + 1 |
+| 27 | `ta lau` | 1×27 |
+| 82 | `ta rei ta` | 1×81 + 1 |
+| 121 | `ta rei ta lau ta phoi ta shao ta` | 1×81 + 1×27 + 1×9 + 1×3 + 1 |
+| 242 | `wi rei wi lau wi phoi wi shao wi` | 2×81 + 2×27 + 2×9 + 2×3 + 2 |
 
-### Examples with Classifiers
+Canonical exact Phi numerals therefore cover 0 through 242. Values of 243 and above have no internal Phi numeral. When their exact identity matters, keep the figures, notation, units, or record outside the Phi passage in the surrounding medium. When only magnitude matters, use an approximate scale or quantifier.
 
-**People**:
+## Approximate scale forms
+
+A scale unit without `ta` or `wi` before it denotes an approximate quantity around that scale. Phi defines no numerical rounding interval for these forms; context supplies the useful degree of precision.
+
+```text
+shao philo
+three-group day
+(about three days; a few days)
+
+phoi miona
+nine-group person
+(about nine people)
+
+lau shiro
+twenty-seven-group tree
+(trees on the scale of a twenty-seven-group; often "many trees")
+
+rei silero
+eighty-one-group star
+(stars on the scale of an eighty-one-group; a great many stars)
 ```
+
+Bare `lau` and `rei` often function pragmatically like *many* and *a great many* or *too many to count for this purpose*. They do not mean that the quantity is literally uncountable. Use an ordinary quantifier when no scale estimate is intended.
+
+Approximation is appropriate when the exact value is unknown or irrelevant. It is not inherently more truthful than precision. A recipe, dose, accessibility specification, safety threshold, allocation, transaction, or evidence report may require an exact internal numeral or an exact source record.
+
+## Quantifiers
+
+Quantifiers precede what they quantify:
+
+| Phi | Meaning |
+|---|---|
+| `theula` | all, every |
+| `sheloi` | many |
+| `shelami` | most |
+| `soli` | some, several |
+| `phina` | few |
+| `theli` | each |
+| `wheli` | any |
+| `mawha` | none |
+| `henoi` | enough |
+| `wia` | how many |
+
+`henoi` expresses sufficiency, not a numerical result: `henoi sulopa nai.` means “There is enough soup.” What counts as enough depends on the people, purpose, and conditions; the word does not settle that judgment.
+
+`wia` asks for quantity: `wia himo miona so shua.` means “How many people will come?” An answer may be exact, approximate, or quantified, according to what the speaker knows and what the context needs.
+
+## Nature classifiers
+
+Phi has four optional classifiers:
+
+| Classifier | Gloss | Canonical scope |
+|---|---|---|
+| `himo` | HUM.CLF | people |
+| `lipha` | LIFE.CLF | living beings, living parts, and life in waiting |
+| `themo` | THING.CLF | detached or crafted physical objects |
+| `nophe` | ABST.CLF | concepts, time, events, and non-physical countables |
+
+The order is `[number] [classifier] [noun]`. The classifier is also available after `wia` in a quantity question, but ordinary quantifiers such as `soli`, `sheloi`, and `henoi` modify the noun directly without a classifier:
+
+```text
 wi himo melu
 two HUM.CLF friend
-(two friends - acknowledging their humanity)
+(two friends, classified as people)
 
-ta phoi himo miona
-one nine-group HUM.CLF person
-(nine people - recognizing them as human beings, not mere units)
-```
-
-**Living Things**:
-```
 ta shao lipha shiro
 one three-group LIFE.CLF tree
-(three trees - acknowledging their aliveness)
-
-wi lipha nolika
-two LIFE.CLF animal
-(two animals - honoring them as living beings)
+(three trees, classified as living beings)
 ```
 
-**Inanimate Objects**:
-```
-ta themo shelu
-one THING.CLF book
-(one book - a thing, not alive)
+The nature-now rule governs the classifier chosen. A living ear takes `lipha`; a carved wooden ear takes `themo`. A storm counted as an event takes `nophe`. Classifiers remain optional in every context: `wi melu` and `wi himo melu` are both complete. Choosing a classifier foregrounds a category and may carry a tone of acknowledgment, but it does not prove that the speaker is mindful or respectful.
 
-wi shao themo wiru
-two three-group THING.CLF basket
-(six baskets - inanimate objects)
-```
+## Ordinals
 
-**Abstract Concepts**:
-```
-wi nophe nophi
-two ABST.CLF story
-(two stories - conceptual entities)
+The Slot 2 particle `nu` before a cardinal marks position:
 
-ta shao nophe theloa
-one three-group ABST.CLF truth
-(three truths)
+```text
+nu ta lopia
+ORD one child
+(the first child)
+
+nu ta shao philo
+ORD one three-group day
+(the third day)
 ```
 
-### The nature-now rule for in-between categories
+When position itself is the topic, use the noun `noa`: `lopia mua wi noa nai.` means “The child is in the second position.” All exact ordinal numerals share the cardinal range of 1 through 242; preserve a larger exact position in source material.
 
-The classifier tracks what the counted thing *is now*:
+## Numerals and plural marking
 
-- **Living parts of living beings** take `lipha`: `wi lipha shonui`
-  (two ears, as living flesh). A carved wooden ear would be `themo` —
-  same shape, different nature now.
-- **Time units, events, and all non-physical countables** take
-  `nophe`: `ta nophe torua` (one year), `wi nophe kurisha` (two
-  storms, counted as events).
-- `themo` covers detached and crafted objects only.
+A numeral or quantifier already marks quantity, so it never combines with plural `lo`.
 
-Classifiers remain optional in every case; this rule governs which
-one is canonical when a speaker chooses to classify.
+```text
+ta shao lipha shiro
+(three trees)
 
-### Optional but Meaningful
+sheloi melu
+(many friends)
 
-Classifiers are **optional** in Phi, but their use demonstrates mindfulness about the nature of what is being counted. Compare:
-
-```
-wi melu         (two friends - neutral)
-wi himo melu    (two friends - explicitly honoring their humanity)
+lo shiro
+(trees; unquantified plural)
 ```
 
-The classifier version is more aligned with Phi's philosophy of conscious communication.
+The wider noun-phrase slots remain modifier-first, but quantity strategies are alternatives: use a numeral with an optional classifier, an ordinary quantifier without a classifier, or `lo` for an unquantified plural. A possessor precedes the phrase it owns.
 
----
+## Arithmetic
 
-## Ordinal Numbers: Announcing Position
+Phi narrates integer arithmetic with four operation verbs and one result or equality verb:
 
-Phi offers two complementary approaches to expressing ordinal concepts.
+| Operation | Phi | Literal frame |
+|---|---|---|
+| addition | `sholei` | gather |
+| subtraction | `leiro` | release |
+| multiplication | `welura` | spread |
+| division | `phanoi` | portion |
+| result or equality | `kelai` | result; equal |
 
-### Method 1: The `nu` Particle (Grammatical)
+The coordinating conjunction `nela` is the mandatory audible and written boundary between operands:
 
-The Slot 2 particle **`nu`** (ORD) announces that a number indicates position rather than quantity.
+`[operand 1] nela [operand 2] [operation]. [result] kelai.`
 
-**Structure**: `nu [Cardinal Number] [Noun]`
+Without `nela`, adjacent operands can be indistinguishable from one compound numeral. For example, `ta shao wi` is the single numeral five, so it cannot also unambiguously mean the operands three and two. `nela` never occurs inside an exact numeral.
 
-**Examples**:
-```
-nu ta           (first / in first position)
-nu wi           (second / in second position)
-nu ta shao       (third)
-nu ta phoi       (ninth)
+```text
+wi nela ta shao sholei. ta shao wi kelai.
+two COORD one three-group gather. one three-group two equals.
+(Two plus three results in five.)
 
-nu ta lopia      (first child)
-nu wi philo      (second day)
-nu ta shao nophi (third story)
-```
+ta phoi nela ta shao leiro. wi shao kelai.
+one nine-group COORD one three-group release. two three-group equals.
+(Nine minus three results in six.)
 
-**Usage**: This is the standard grammatical way to form ordinals for most contexts.
+ta shao nela wi welura. wi shao kelai.
+one three-group COORD two spread. two three-group equals.
+(Three multiplied by two results in six.)
 
-### Method 2: The `noa` Noun (Philosophical)
-
-The content word **`noa`** (position) can be used compositionally for more complex or philosophical discussions about position itself.
-
-**Structure**: `[Cardinal Number] noa`
-
-**Examples**:
-```
-ta noa          (first position / the concept of being first)
-wi noa          (second position)
-mua ta noa      (in the first position)
-lopia mua wi noa nai.   (The child is in the second position.)
+ta phoi nela ta shao phanoi. ta shao kelai.
+one nine-group COORD one three-group portion. one three-group equals.
+(Nine divided by three results in three.)
 ```
 
-**Usage**: Use this when position itself is the focus, not just a grammatical marker.
+A plain equality uses the same boundary: `ta shao ta nela ta shao ta kelai.` means “Four equals four.” To ask for a result, use `hina kelai`: `ta shao nela wi sholei. hina kelai.` means “Three plus two; what results?”
 
----
+### Referents in arithmetic
 
-## Quantifiers and Their Placement
+The classifier is always optional, but the referents and dimensions of an operation must make sense:
 
-Following modifier-first, quantifiers precede what they enumerate:
+- Addition and subtraction require commensurable quantities. If nouns or classifiers are stated, both operands and the result name the same kind of quantity.
+- In multiplication, the first operand may name the counted thing and the second is a bare factor; the product inherits the first operand's kind.
+- In division, the first operand names the total being portioned, the second may name recipients or groups, and the quotient inherits the total's kind. State any remainder separately.
 
-**Common Quantifiers**:
-- **`theula`** - all/every
-- **`sheloi`** - many
-- **`soli`** - several/some
-- **`phina`** - few
-- **`wheli`** - any
-- **`theli`** - each
-- **`henoi`** - enough
-- **`shelami`** - most
-- **`mawha`** - no/none (zero in emphatic contexts)
+```text
+wi lipha powea nela ta shao lipha powea sholei. ta shao wi lipha powea kelai.
+two LIFE.CLF egg COORD one three-group LIFE.CLF egg gather. one three-group two LIFE.CLF egg equals.
+(Two eggs plus three eggs results in five eggs.)
 
-Note the philosophically central **`henoi`** (enough): sufficiency is
-directly expressible as a quantity.
-
-### Asking About Quantity
-
-The interrogative **`wia`** (how many) asks "how many?", typically
-preceding a classifier or noun:
-
-```
-wia himo miona
-how many HUM.CLF person
-(How many people?)
+ta shao themo noru nela wi welura. wi shao themo noru kelai.
+one three-group THING.CLF bowl COORD two spread. two three-group THING.CLF bowl equals.
+(Three bowls multiplied by two results in six bowls.)
 ```
 
-**Examples**:
-```
-theula melu      (all friends)
-sheloi nophi       (many stories)
-soli philo          (several days)
-mawha melu       (no friends)
-```
+Phi currently defines no negative numeral or fractional numeral syntax. Subtraction stated entirely in Phi therefore assumes a nonnegative result, and non-even division uses an integer quotient plus a separately stated remainder. Preserve a negative, fractional, higher-precision, or out-of-range calculation in source material when its exact form matters.
 
----
+The operation words supply metaphors, not guarantees. `sholei` does not make gathering cooperative, `leiro` does not make loss generous, `welura` does not make growth beneficial, and `phanoi` does not make equal portions just or sufficient. A speaker must state or examine those claims separately.
 
-## Numbers with Nouns: Complete Structure
+## Magnitude comparison
 
-When all elements combine, they follow strict modifier-first ordering:
+`sharoi` means “exceed in magnitude” and `thenoi` means “fall short in magnitude.” Comparison uses the same mandatory operand boundary as arithmetic:
 
-**Full Pattern**: `[Quantifier] [Demonstrative] [Number] [Classifier] [Adjective] [Noun]`
+`[quantity 1] nela [quantity 2] [comparison verb]`
 
-**Example**:
-```
-ha wi himo phelora melu
-PROX two HUM.CLF beautiful friend
-(these two beautiful friends - acknowledging their humanity)
-```
+```text
+ta phoi nela ta shao sharoi.
+one nine-group COORD one three-group exceed.
+(Nine exceeds three; 9 > 3.)
 
-Order breakdown:
-1. `ha` - announces proximity (this/these)
-2. `wi` - announces quantity (two)
-3. `himo` - announces nature (people)
-4. `phelora` - announces quality (beautiful)
-5. `melu` - the entity itself (friend)
+ta shao nela ta phoi thenoi.
+one three-group COORD one nine-group falls-short.
+(Three falls short of nine; 3 < 9.)
 
----
-
-## Plural Marker and Numbers
-
-The plural particle `lo` is **not used** when a numeral or quantifier is present. Numbers and quantifiers already indicate plurality, making `lo` redundant.
-
-**With numbers (no `lo` needed)**:
-```
-wi melu              (two friends - number implies plural)
-ta shao lipha shiro     (three trees - number implies plural)
-ta phoi himo miona      (nine people - number implies plural)
+wa ta shao nela wi shao sharoi.
+Q one three-group COORD two three-group exceed.
+(Does three exceed six?)
 ```
 
-**With quantifiers (no `lo` needed)**:
-```
-sheloi melu          (many friends - quantifier implies plural)
-soli philo              (several days - quantifier implies plural)
-theula miona           (all people - quantifier implies plural)
-```
+Negation expresses inclusive comparisons: `ta shao nela ta shao ma thenoi.` means “Three does not fall short of three; 3 ≥ 3.” Real-world comparisons should state comparable quantities and preserve the relevant measure or criterion when it is not obvious.
 
-**Use `lo` only for unquantified plurals**:
-```
-lo melu              (friends - plural, no specific quantity)
-mia lo melu phaelo     (I feel my friends - multiple, uncounted)
-lo shiro phelora nai      (Trees are beautiful - trees in general)
-```
+These verbs lexically separate magnitude from worth: *exceeds* need not mean *is better*, and *falls short* need not mean *is inadequate*. That distinction does not prevent a speaker or institution from using comparison to rank, shame, or exclude; context and consequences remain open to criticism.
 
-This follows the pattern of classifier languages where numerals encode plurality, preventing redundant marking.
+## Cognitive and philosophical claims
 
----
+Three is within the small range adults can commonly identify without serial counting. Nine, twenty-seven, and eighty-one are not directly perceived as exact quantities in that way. Regular triad arrangements can make their hierarchical grouping visible, but reading those groups is a learned enumeration skill.
 
-## Mathematical Operations
+Base three is a coherent compositional design but unusual among documented natural numeral systems. A small base does not by itself make a numeral system unlearnable, while unfamiliar grouping, longer number words, operand syntax, and conversion from a familiar base add learning and working-memory demands. Phi treats that cost as acceptable but does not present it as cognitively universal or morally transformative.
 
-Phi provides a mindful arithmetic system through five operation verbs that reframe mathematics through the language's philosophical principles.
+The numeral system can make some exact counts longer and some approximate or sufficiency expressions readily available. It cannot by grammar alone cause contentment, sharing, equality, ecological care, or nonviolence. Those are values speakers may pursue through institutions, choices, and explicit discussion. See `documents/psychological_violence_of_measurement.md` for the design argument and its evidence boundaries.
 
-### Operation Vocabulary
+## Quick reference
 
-| Operation | Word | IPA | Concept |
-|-----------|------|-----|---------|
-| Addition | **`sholei`** | /ʃo̞.ˈle̞.i/ | gather together |
-| Subtraction | **`leiro`** | /le̞.ˈi.ro̞/ | release from |
-| Multiplication | **`welura`** | /we̞.ˈlu.rä/ | spread/grow by |
-| Division | **`phanoi`** | /ɸä.ˈn̪o̞.i/ | portion among |
-| Equals/Result | **`kelai`** | /ke̞.ˈlä.i/ | becomes (result) |
+- Digits: `mu` 0, `ta` 1, `wi` 2.
+- Scales: `shao` 3, `phoi` 9, `lau` 27, `rei` 81.
+- Exact range: 0-242; maximum `wi rei wi lau wi phoi wi shao wi`.
+- Exact form: descending scales, `ta` or `wi` before each scale, no repeated scale, omitted zero positions, optional final units.
+- Approximate form: bare scale, with no fixed rounding interval.
+- Classifiers: `himo` people, `lipha` living, `themo` detached or crafted objects, `nophe` abstract, time, or events; always optional.
+- Ordinal: `nu [cardinal]`; position as a noun: `[cardinal] noa`.
+- Arithmetic: `[operand 1] nela [operand 2] [operation]. [result] kelai.`
+- Comparison: `[quantity 1] nela [quantity 2] sharoi|thenoi.`
+- Larger exact values, fractions, negative numbers, units, formulas, and exact technical notation: source material outside the Phi passage.
 
-### Sentence Structure
+## Related documentation
 
-Following the modifier-first principle, arithmetic statements place operands before operations:
-
-**Pattern**: `[Operand1] [Operand2] [Operation], [Result] kelai`
-
-### Basic Examples
-
-**Addition (2 + 3 = 5)**:
-```
-wi ta shao sholei. ta shao wi kelai
-two three gather, five becomes
-(Two and three gather together, becoming five)
-```
-
-**Subtraction (9 - 3 = 6)**:
-```
-ta phoi ta shao leiro. wi shao kelai
-nine three release, six becomes
-(Nine releases three, becoming six)
-```
-
-**Multiplication (3 × 2 = 6)**:
-```
-ta shao wi welura. wi shao kelai
-three two spread, six becomes
-(Three spreads by two, becoming six)
-```
-
-**Division (9 ÷ 3 = 3)**:
-```
-ta phoi ta shao phanoi. ta shao kelai
-nine three portion, three becomes
-(Nine portions among three, becoming three each)
-```
-
-**Equality Statement**:
-```
-ta shao ta kelai ta shao ta
-four equals four
-```
-
-### Classifier Integration
-
-Arithmetic with real-world quantities respects the classifier system.
-
-**Classifier Harmony Required**: Both operands should share the same classifier:
-```
-wi himo miona ta shao himo miona sholei. ta shao wi himo miona kelai
-two PERSON.CLF person three PERSON.CLF person gather, five PERSON.CLF person becomes
-(Two people + three people = five people)
-```
-
-**Pure Mathematics** (no classifiers for abstract calculation):
-```
-ta shao wi sholei. ta shao wi kelai
-three two gather, five becomes
-(3 + 2 = 5)
-```
-
-**Mixed Categories**: When combining different types, either use the superordinate classifier or explicitly mark with `nophe` (abstract).
-
-### Philosophical Framing
-
-Each operation is reframed through Phi's values:
-
-- **Addition (`sholei`)**: Gathering embodies interdependence and collective abundance
-- **Subtraction (`leiro`)**: Releasing embodies non-grasping and generous sharing
-- **Multiplication (`welura`)**: Spreading embodies regenerative growth like seeds
-- **Division (`phanoi`)**: Portioning embodies fair distribution and equity
-- **Equals (`kelai`)**: Becoming embodies transformation and present awareness
-
-The multi-syllable operation words prevent rapid, unconscious calculation—the deliberate articulation IS the practice of mindful mathematics.
-
----
-
-## Magnitude Comparison
-
-Phi provides two verbs for comparing quantities that maintain strict value neutrality—comparing magnitude without implying that larger is better or smaller is inadequate.
-
-### Comparison Vocabulary
-
-| Comparison | Word | IPA | Concept |
-|------------|------|-----|---------|
-| Greater than | **`sharoi`** | /ʃä.ˈro̞.i/ | exceeds in magnitude |
-| Less than | **`thenoi`** | /θe̞.ˈn̪o̞.i/ | falls short in magnitude |
-
-### Sentence Structure
-
-Following modifier-first, the quantity being evaluated comes first:
-
-**Pattern**: `[Quantity1] [Quantity2] [Comparison Verb]`
-
-### Basic Examples
-
-**Greater Than (9 > 3)**:
-```
-ta phoi ta shao sharoi
-nine three exceeds
-(Nine exceeds three in magnitude)
-```
-
-**Less Than (3 < 9)**:
-```
-ta shao ta phoi thenoi
-three nine falls-short
-(Three falls short of nine in magnitude)
-```
-
-**Questions**:
-```
-wa ta shao wi shao sharoi.
-Q three six exceed
-(Does three exceed six? / Is 3 > 6?)
-
-wa wi shao ta phoi thenoi.
-Q six nine falls-short
-(Does six fall short of nine? / Is 6 < 9?)
-```
-
-### Negation for Inclusive Comparisons
-
-Use `ma` (negation) for "greater than or equal" / "less than or equal":
-
-```
-ta shao ta shao ma thenoi
-three three NEG falls-short
-(Three does not fall short of three / 3 ≥ 3)
-
-wi shao ta phoi ma sharoi
-six nine NEG exceeds
-(Six does not exceed nine / 6 ≤ 9)
-```
-
-### Classifier Integration
-
-When comparing real-world quantities, both should share the same classifier:
-
-```
-ta phoi himo miona wi shao himo miona sharoi
-nine PERSON.CLF person six PERSON.CLF person exceeds
-(Nine people exceed six people in number)
-```
-
-### Philosophical Framing
-
-These verbs embody Phi's commitment to separating observation from judgment:
-
-- **`sharoi` (exceeds)**: States that one quantity surpasses another—a fact of magnitude, not a claim of superiority
-- **`thenoi` (falls-short)**: States that one quantity does not reach another—a fact of magnitude, not a claim of inadequacy
-
-This separation prevents the subtle violence of conflating "more" with "better" or "less" with "worse." Nine exceeds three; three falls short of nine. Neither statement implies value judgment.
-
----
-
-## Philosophical Principles of the Ternary System
-
-### 1. Resistance to Quantification
-By making counting difficult beyond 27, the language resists reducing quality to quantity, beings to numbers, and experiences to statistics.
-
-### 2. Human-Scale Awareness
-The scale units (3, 9, 27, 81) align with human cognitive limits. These are quantities we can truly visualize and comprehend, unlike millions or billions.
-
-### 3. Mindful Enumeration
-Every act of counting requires conscious choice about precision. One cannot unconsciously rattle off large numbers—each composition must be deliberate.
-
-### 4. Relationship Over Accumulation
-The system makes it easier to express relationships (`wi` = pair) than large accumulations, prioritizing connection over collection.
-
-### 5. Dual Awareness Through Classifiers
-The combination of scale units and nature classifiers creates dual consciousness:
-- **Scale units** make us aware of magnitude (how many groups?)
-- **Nature classifiers** make us aware of essence (what kind of being?)
-
-Together they ensure counting remains a mindful acknowledgment rather than mechanical enumeration.
-
----
-
-## Common Patterns and Usage
-
-### Small Quantities (Exact)
-For everyday small quantities, use base numerals with optional classifiers:
-```
-ta himo lopia         (one child)
-wi lipha nolika       (two animals)
-```
-
-### Medium Quantities (Approximate)
-For quantities that aren't critical to specify exactly, use scale units alone:
-```
-shao melu           (a few friends / roughly 3)
-phoi philo             (several days / roughly 9)
-```
-
-### Large Quantities (Impressionistic)
-For large quantities, embrace approximation:
-```
-lau shiro            (many trees / a grove)
-rei silero            (countless stars / the heavens)
-sheloi miona         (many people / a crowd)
-```
-
-This graduated approach keeps communication grounded in meaningful, human-scale awareness rather than abstract precision.
-
----
-
-## Summary: Quick Reference
-
-### Base Numerals
-- `mu` (0), `ta` (1), `wi` (2)
-
-### Scale Units
-- `shao` (3), `phoi` (9), `lau` (27), `rei` (81)
-
-### Nature Classifiers
-- `himo` (people), `lipha` (living), `themo` (objects), `nophe` (abstract)
-
-### Ordinal Formation
-- Particle: `nu [cardinal]`
-- Noun: `[cardinal] noa`
-
-### Arithmetic Operations
-- `sholei` (add), `leiro` (subtract), `welura` (multiply), `phanoi` (divide), `kelai` (equals)
-
-### Magnitude Comparison
-- `sharoi` (exceeds / greater than), `thenoi` (falls-short / less than)
-
-### Structure
-- Basic: `[number] [noun]`
-- With classifier: `[number] [classifier] [noun]`
-- Full: `[quantifier] [demonstrative] [number] [classifier] [adjective] [noun]`
-
----
-
-**Related Documentation:**
-- Complete grammar: `documents/grammar/06-numerals.md`
-- Particle system: `documents/grammar/particle_reference.md`
-- Main instructions: `documents/development_protocol.md`
+- Manual teaching chapter: `manual/part4_grammar/ch12_numbers/`
+- Particle inventory: `documents/grammar/particle_reference.md`
+- Design argument and evidence boundaries: `documents/psychological_violence_of_measurement.md`
+- Canonical grammar rulings: `canon.md`

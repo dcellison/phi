@@ -26,4 +26,4 @@ Numbers meet the classifier system (chapter 11) in one fixed order, number, then
 
 *ta shao lipha shiro* — three trees, counted as living
 
-The full number precedes the classifier; the classifier precedes the noun. Quantity, then nature, then entity: three announcements, in the order that lets each frame the next. The classifier stays optional, as always; using it is an act of acknowledgment, not a requirement of arithmetic.
+The full number precedes the classifier; the classifier precedes the noun. Quantity, then selected category, then entity: three announcements, in the order that lets each frame the next. The classifier stays optional in every register and in arithmetic; it foregrounds a category without guaranteeing acknowledgment or respect.

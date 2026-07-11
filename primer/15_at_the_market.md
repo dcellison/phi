@@ -1,6 +1,6 @@
 # 15 · ta wi shao
 
-*Counting, at last, and Phi counts in threes. Two number-words and a group-word take you to eight:* ta *one,* wi *two,* ta shao *one-three,* ta shao ta *one-three-and-one, and so on. Between a number and its noun stands a* classifier*, a small word that names what kind of thing you are counting: person, living being, object, or idea. It is optional, and it is good manners toward the things counted. Market day:*
+*Counting, at last, and Phi counts in threes. This first lesson uses two positive digits and a group-word to take you through eight:* ta *one,* wi *two,* ta shao *one three-group,* ta shao ta *one three-group plus one, and so on. Between a number and its noun may stand an optional* classifier*, a small word assigning what is counted to one of four categories: person, living being, detached or crafted object, or idea and event. A classifier can foreground that category, but omitting it is fully grammatical and using it does not guarantee regard. Market day:*
 
 ## I
 
@@ -15,7 +15,7 @@
 | shao | sha · o | three-group |
 | lipha | li · pha | (classifier: living things) |
 
-*Off to the village, the child counting eggs the whole way: one, two, three,* ta, wi, ta shao, *one three-group. An egg is counted with* lipha *because an egg is life in waiting; the lexicon says so itself.*
+*Off to the village, the child counts eggs the whole way: one, two, three,* ta, wi, ta shao, *one three-group. Phi's lexicon treats an egg as life in waiting, so the scene chooses* lipha; *the count would remain grammatical without the classifier.*
 
 ## II
 
@@ -62,6 +62,6 @@
 
 ---
 
-*Count something today: steps, breaths, eggs. Number, then kind, then thing (*ta lipha powea*), announced in the order Phi announces everything: how many, of what nature, and only then the thing itself.*
+*Count something today: steps, breaths, or eggs. When you choose a classifier, the order is number, category, then thing (*ta lipha powea*). Try the same phrase without the classifier and notice that both forms are complete.*
 
 *The machinery, when you want it: the ternary numerals are the manual's chapter 12 and the numeral reference; the classifiers are chapter 11's.*

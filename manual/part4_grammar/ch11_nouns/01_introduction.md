@@ -26,4 +26,4 @@ This structure applies to all forms of simple description, from color to size to
 
 ## The chapter ahead
 
-With this foundational pattern established, the sections ahead take up the noun-modifier's main tools in turn: the zero-article system that handles definiteness, the possession construction that treats relationships as another form of description, the determiners and quantifiers that answer "which one?" and "how many?", and finally the classifier system, which sorts nouns by their intrinsic nature, alongside the plural particle `lo`.
+With this foundational pattern established, the sections ahead take up the noun-modifier's main tools in turn: the zero-article system that handles definiteness, the possession construction that treats relationships as another form of description, the determiners and quantifiers that answer "which one?" and "how many?", and finally the optional classifier system, which lets a speaker assign a counted referent to one of four broad categories, alongside the plural particle `lo`.

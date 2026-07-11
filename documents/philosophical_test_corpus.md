@@ -846,8 +846,8 @@ A: mia nu wi masue to thekiro.
 1SG ORD two measure PST write.
 (I wrote the second measurement.)
 
-B: nu wi masue nu ta masue sharoi.
-ORD two measure ORD one measure exceed.
+B: nu wi masue nela nu ta masue sharoi.
+ORD two measure COORD ORD one measure exceed.
 (The second measurement exceeds the first.)
 
 C: lo shalu mua luphore to lumeo.

@@ -16,7 +16,7 @@ mia lo melu hi nila. mia siora phaelo.
 (I saw friends with my own eyes. I feel joy.)
 ```
 
-Date the entry in ternary if you like (`nu ta shao philo`, the third day), or simply by what the day was: `pheralu philo`, a rain-day. The language's resistance to calendar precision is a gift here; a journal in Phi records days as they *felt*, not as they were numbered.
+Date the entry in ternary if you like (`nu ta shao philo`, the third day), identify it by what the day was (`pheralu philo`, a rain-day), or preserve an exact calendar date outside the Phi passage when later identification matters. These choices record different information; an experiential description need not replace a date, and a date need not replace the day's character.
 
 ## The three-line form
 

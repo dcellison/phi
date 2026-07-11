@@ -9,19 +9,19 @@
   "pos": [
     "noun"
   ],
-  "concept": "Eighty-One-Unit / Fourth Ternary Scale / The Countless",
-  "description": "A noun for a group of eighty-one (3⁴), the fourth and largest scale unit in Phi's ternary counting system, after 'shao' (3), 'phoi' (9), and 'lau' (27). Quantities this large exceed everyday human counting, so in practice bare 'rei' before a noun marks an approximate, effectively countless quantity—stars in a clear sky, grains of sand. It is where Phi's counting deliberately yields to estimation.",
+  "concept": "Eighty-One-Group / Fourth and Highest Ternary Scale",
+  "description": "A noun for a group of eighty-one (3⁴), the fourth and highest scale in Phi's ternary numeral system. 'Ta rei' is exactly 81, while bare 'rei' before a noun gives an approximate magnitude around eighty-one and often has the pragmatic force of 'a great many' or 'too many to count for this purpose.' It never means literal infinity or uncountability. Exact composition continues through 242.",
   "sound_symbolism": "'Re' opens with the light liquid 'r', and the hiatus 'e.i' rises from mid to high across two distinct syllables—a small ascent fitting a word that stands at the top of the counting scale.",
-  "grammatical_notes": "Functions as a noun for a unit of eighty-one, composing biggest-first like the other scale units: 'ta rei' (81). More often it stands bare before a noun as an approximate quantity: 'rei silero' (roughly eighty-one stars—countless stars). Never combined with 'lo'. Contrast 'lau' (27-group), the preceding scale unit.",
+  "grammatical_notes": "Functions as a scale noun representing eighty-one. 'Ta rei' is exactly 81 and 'wi rei' is exactly 162; lower scales and units may follow. Bare 'rei' before a noun is approximate, as in 'rei silero' (stars on roughly an eighty-one-group scale; a great many stars). It appears at most once and is never recursively counted. With all lower coefficients at 'wi', the exact system ends at 'wi rei wi lau wi phoi wi shao wi' (242). Never combine a numeral or quantified phrase with plural 'lo'.",
   "pillars": {
-    "secular-buddhist-philosophy": "Where 'rei' takes over, exact counting ends—a built-in acknowledgment that phenomena like moments, causes, and beings outrun enumeration.",
-    "art-nouveau-aesthetics": "Fern fronds and shell spirals repeat past the point of counting; 'rei' is the number Phi reaches for when pattern outruns tally.",
-    "pre-industrial-wisdom": "Traditional counting systems often stop at a 'many' beyond which quantities are lived with rather than measured; 'rei' marks that threshold in Phi."
+    "secular-buddhist-philosophy": "Bare 'rei' can support reflection on situations where exact counting is unnecessary or unavailable. It does not claim that phenomena, causes, or beings are inherently uncountable.",
+    "art-nouveau-aesthetics": "Repeated natural patterns can exceed what a viewer chooses to tally; bare 'rei' offers an approximate scale for that experience without calling it infinite.",
+    "pre-industrial-wisdom": "Restricted and grouped numeral practices exist in human languages, but no single threshold represents traditional societies. In Phi, 'rei' is a designed highest scale with both exact and approximate uses."
   },
   "tags": {
-    "aesthetic": "The beautiful overwhelm of the infinite—patterns too complex to trace, variations too numerous to catalog. 'Rei' represents quantity as aesthetic experience rather than numerical fact.",
-    "cognition": "Represents the absolute limit of human numerical cognition, the point where the mind must abandon counting and embrace the concept of boundlessness. 'Rei' embodies cognitive humility.",
-    "nature": "Reflects nature's truly countless phenomena—stars, atoms, drops of ocean, grains of sand. 'Rei' captures the infinite abundance that defines the natural world.",
-    "wisdom": "Knowing where counting stops being useful: 'rei' marks the point where a quantity is estimated rather than tallied."
+    "aesthetic": "Can present a large visible pattern through approximate magnitude rather than an unsupported exact tally",
+    "cognition": "Names a learned group of eighty-one, not a perceptual or cognitive limit",
+    "nature": "Can estimate large natural quantities without claiming infinity",
+    "wisdom": "Keeps exact eighty-one, approximate eighty-one-scale, and literal uncountability distinct"
   }
 }

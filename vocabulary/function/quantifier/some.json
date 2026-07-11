@@ -9,13 +9,13 @@
   "pos": [
     "quantifier"
   ],
-  "concept": "Some / Several / A Few / Indefinite Small Quantity",
-  "description": "The quantifier expressing an indefinite but modest quantity—more than one or two, fewer than many. 'Soli' occupies the comfortable middle ground of quantity, acknowledging plurality without claiming abundance. It serves speakers who wish to indicate 'enough to matter' without the precision of counting or the weight of 'many.' This word embodies practical imprecision, the honest acknowledgment that exact quantity is often neither known nor relevant.",
-  "sound_symbolism": "The word begins with 's', the soft sibilant that suggests gentle scattering—like seeds placed deliberately rather than broadcast. The round 'o' opens to contain what's gathered, a modest vessel. The liquid 'l' flows into 'i', the bright high vowel, together suggesting that even small quantities have their own completeness. 'Soli' sounds like sufficiency—not scarcity, not abundance, but the comfortable space between.",
-  "grammatical_notes": "Functions as a quantifier preceding nouns: 'soli miona' (some people), 'soli philo' (several days). More specific than single numerals but less than 'sheloi' (many). Preferred when quantity is small but plural, and precision is unnecessary. Can function with mass nouns for 'some amount of': 'soli phialu' (some water). Never combines with the plural particle 'lo'—the quantifier itself implies plurality. Does not take classifiers—approximation transcends categorization.",
+  "concept": "Some / Indefinite Subset or Amount",
+  "description": "The quantifier expressing an indefinite nonempty subset or amount: some people, some days, or some water. 'Soli' has no fixed numerical lower or upper boundary and does not by itself mean few, enough, or a particular proportion. It is appropriate when identifying an unspecified part is more relevant than giving its exact size.",
+  "sound_symbolism": "The word begins with 's', a soft sibilant suggesting elements scattered from a larger set. The round 'o' gathers an unspecified portion, and the liquid 'l' flows into bright 'i' without closing that portion into a fixed count. The image supports an indefinite subset; it does not encode fewness or sufficiency.",
+  "grammatical_notes": "Functions as a quantifier preceding nouns: 'soli miona' (some people), 'soli philo' (some days), and 'soli phialu' (some water). Never combines with plural 'lo' because the quantifier already marks quantity, and does not take a classifier; classifiers belong to numeral phrases and 'wia' questions. Use 'phina' to assert few, 'sheloi' to assert many, and a bare scale to estimate around a numerical center.",
   "pillars": {
-    "secular-buddhist-philosophy": "The acceptance of 'some' without anxiety about 'exactly how many' reflects non-grasping awareness. 'Soli' supports presence with modest quantity rather than the suffering of needing to know precisely.",
-    "peace-linguistics-practices": "By providing language for comfortable approximation, 'soli' reduces the competitive precision that exact numbers enable. 'Some' is enough; ranking is unnecessary.",
-    "pre-industrial-wisdom": "Traditional life operates comfortably with 'some' and 'enough' rather than demanding exact counts. 'Soli' carries the wisdom that sufficiency matters more than enumeration."
+    "secular-buddhist-philosophy": "Leaving a subset indefinite can support attention to what is relevant without attachment to an unnecessary count. 'Soli' does not imply that precision causes suffering or that the amount is sufficient.",
+    "peace-linguistics-practices": "'Soli' can avoid unsupported precision, but an indefinite subset can also conceal exclusion or unequal distribution. Context determines whether a count or named group is needed.",
+    "pre-industrial-wisdom": "Everyday practical speech uses indefinite amounts alongside exact counts and measures. 'Soli' supplies one such form without assigning a single counting philosophy to traditional life."
   }
 }

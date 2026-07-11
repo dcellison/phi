@@ -1,108 +1,94 @@
 # The classifier system
 
-## Acknowledging the nature of being
+## Optional category foregrounding
 
-Beyond specifying *which* noun or *how many*, Phi offers an optional layer of descriptive nuance: the classifier system. This grammatical feature is designed not for mandatory clarity, but for elective mindfulness.
+Phi offers four optional classifiers that can stand between a numeral and its noun. A classifier explicitly assigns the counted referent to one of Phi's broad categories. The numeral phrase remains grammatical without it. The interrogative `wia` can also precede a classifier; ordinary quantifiers such as `soli` and `sheloi` modify their noun directly.
 
-In Phi, it is perfectly grammatical to simply count objects. But a more conscious way to speak is to first acknowledge the *intrinsic nature* of the thing being counted. A classifier is a special noun placed after a number but before the noun it modifies; it sorts the world into categories of being.
+`[numeral] ([classifier]) [noun]`
 
-The system invites the speaker to consider the nature of the noun they are about to name. The question is not just "how many?" but first, "what *kind* of thing is this?"
+`wia ([classifier]) [noun]`
+
+A classifier can foreground what kind of referent a count concerns. It does not reveal an intrinsic essence, guarantee mindfulness or respect, validate the count, or settle a disputed category.
 
 ## The four classifiers
 
-The classifier system is built upon four core classifiers, each representing a fundamental division in Phi's worldview.
+| Classifier | Gloss | Canonical scope |
+|---|---|---|
+| `himo` | HUM.CLF | people |
+| `lipha` | LIFE.CLF | non-human living beings, living parts, and forms treated as life in waiting |
+| `themo` | THING.CLF | detached and crafted physical objects |
+| `nophe` | ABST.CLF | concepts, time units, events, and other non-physical countables |
 
-### himo: the human classifier
+### *himo*: people
 
-The classifier `himo` acknowledges human beings: it recognizes the unique consciousness and social nature of people. Using `himo` when counting people is an act of respect that distinguishes persons from objects.
+```text
+ta himo melu
+one HUM.CLF friend
+(one friend, explicitly classified as a person)
+```
 
-**ta himo melu**  
-*one HUM.CLF friend*  
-"one friend" (acknowledging them as a person)
+`Ta melu` is equally grammatical. Adding `himo` makes the human category audible but cannot prevent a count from being used impersonally or coercively.
 
-### lipha: the living being classifier
+### *lipha*: living beings
 
-The classifier `lipha` groups all non-human living things: animals, plants, fungi. Its name derives from the concept of life-force, and it groups all organisms into a single category of vitality.
+```text
+wi lipha shiro
+two LIFE.CLF tree
+(two trees, explicitly classified as living beings)
+```
 
-**wi lipha shiro**  
-*two LIFE.CLF tree*  
-"two trees" (acknowledging them as living beings)
+Animals, plants, fungi, living body parts, seeds, and eggs can take `lipha` under the nature-now rule. People take `himo` when classified.
 
-### themo: the physical matter classifier
+### *themo*: detached or crafted objects
 
-The classifier `themo` covers inanimate objects, particularly those that are human-made or utilized as tools. It acknowledges the physical reality of things without ascribing life to them.
+```text
+ta shao themo shelu
+one three-group THING.CLF book
+(exactly three books, explicitly classified as crafted objects)
+```
 
-**shao themo shelu**  
-*three THING-CL book*  
-"three books" (as physical objects)
+`Themo` is not the classifier for every physical phenomenon. It covers bounded detached or crafted objects such as stones, fallen branches, books, tools, buildings, and vessels. Water, a river, or a cloud does not become `themo` merely by being physical.
 
-### nophe: the abstract concept classifier
+### *nophe*: concepts, time, and events
 
-The classifier `nophe` covers abstract concepts: ideas, stories, emotions, and other intangible phenomena. It acknowledges that thoughts and abstractions are real even though they cannot be touched.
+```text
+ta nophe nophi
+one ABST.CLF story
+(one story, explicitly classified as an abstraction)
 
-**ta nophe nophi**  
-*one ABST.CLF story*  
-"one story" (as an abstract creation)
+wi nophe torua
+two ABST.CLF year
+(two years, explicitly classified as time units)
+```
 
-## A framework for sorting reality
+`Nophe` also applies to counted events and non-physical countables. Its use states Phi's category choice; it does not prove that an abstraction has the same status as a physical object.
 
-This four-part system provides a framework for sorting reality not by scientific taxonomy, but by a consideration of a noun's essential nature:
+## The nature-now rule
 
-| Classifier | Domain | Examples |
-|------------|--------|----------|
-| `himo` | human beings | people, friends, community members |
-| `lipha` | living things | animals, plants, fungi, creatures |
-| `themo` | physical objects | tools, containers, buildings, stones |
-| `nophe` | abstract concepts | ideas, stories, emotions, dreams |
+Classify the referent as it exists in the described situation:
 
-The system asks: Is it a person? A living being? A physical thing? A thought?
+- A living ear takes `lipha`; a carved wooden ear takes `themo`.
+- A branch on a living tree takes `lipha`; a detached branch used as material takes `themo`.
+- A storm counted as an event takes `nophe`.
+- An egg or seed treated as life in waiting takes `lipha`.
 
-## The grammar of mindful counting
+If the category is irrelevant, unclear, contested, or needlessly reductive, omit the classifier. Optionality is the canonical rule, not a casual-speech exception.
 
-The grammar for employing classifiers is simple and consistent. The classifier noun appears directly between the number and the noun it categorizes. Together they form a three-part structure:
+## Exact and approximate counts
 
-**[Number] [Classifier] [Noun]**
+The classifier follows the entire number expression:
 
-This allows a speaker to take a simple quantitative statement and make it more specific:
+| Without classifier | With classifier | Claim |
+|---|---|---|
+| `ta melu` | `ta himo melu` | exactly one friend |
+| `wi shiro` | `wi lipha shiro` | exactly two trees |
+| `ta shao kerou` | `ta shao themo kerou` | exactly three stones |
+| `shao kerou` | `shao themo kerou` | approximately a three-group of stones |
 
-| Simple | With classifier | Gloss |
-|--------|-----------------|-------|
-| `ta melu` | `ta himo melu` | one (person-CL) friend |
-| `wi shiro` | `wi lipha shiro` | two (life-CL) trees |
-| `shao kerou` | `shao themo kerou` | three (thing-CL) stones |
-| `ta nophi` | `ta nophe nophi` | one (concept-CL) story |
+Bare `shao` is approximate; exact three is `ta shao`. Neither a numeral nor quantifier ever combines with plural `lo`. Ordinary quantifiers also do not combine with classifiers.
 
-The structure is easy to learn, yet its use demonstrates deeper engagement with the language's values.
+## Use and interpretation
 
-## Respect through recognition
+A speaker may choose a classifier when the category matters to the discussion, when contrasting two possible analyses, or when its tone suits the passage. The listener must not infer that omission is disrespectful or that inclusion makes the statement ethical. A human classifier can appear in an exploitative census; a bare human noun can appear in a caring conversation.
 
-The purpose of this system is not primarily grammatical but philosophical. Choosing to use a classifier is a deliberate act of respect for the thing being counted. It declares that the things counted have natures, not just quantities.
-
-To count people using `himo` is to recognize their personhood and to separate them from a simple numerical total. To count animals or plants with `lipha` is to honor them as fellow living beings, not just objects in a landscape.
-
-This practice expresses the concepts of animacy and relationality central to both the Pre-industrial Wisdom and Solarpunk pillars of Phi. It pushes the speaker to see the world not as a collection of resources to be quantified, but as a diverse community of different kinds of beings.
-
-## When to use classifiers
-
-The classifier system is entirely optional. Simple counting without classifiers is grammatically correct:
-
-**mia shao shiro nila.**  
-*I three tree see*  
-"I see three trees."
-
-Adding the classifier makes the statement more mindful:
-
-**mia shao lipha shiro nila.**  
-*I three LIFE-CL tree see*  
-"I see three trees." (acknowledging their living nature)
-
-Contexts that naturally invite classifier use include:
-
-- Formal or ceremonial speech where respect matters
-- Environmental discourse where acknowledging life is important
-- Personal practice of mindful speaking
-- When the category of the noun is unclear or worth emphasizing
-
-## Offered, not required
-
-The classifiers are a tool offered, never a rule enforced. To use one is to pause, for a syllable, over what kind of being you are counting: a room counted with classifiers is no longer a collection of objects but people, living things, tools, and ideas, each acknowledged as what it is. That pause is the whole system's purpose, and it costs two letters.
+Arithmetic keeps classifiers optional and applies operation-specific referent rules. Addition and subtraction require commensurable quantities, multiplication takes a counted quantity plus a factor, and division may relate a total to differently classified recipients or groups. Chapter 12 gives the complete patterns.

@@ -82,7 +82,7 @@ Not how old are you. How many years do you hold. In Phi, age is something a pers
 
 ## Count in threes
 
-The numerals are ternary. Three digits, `mu ta wi` (zero, one, two), and then named powers of three: `shao` is a three-group, `phoi` a nine-group, `lau` a twenty-seven-group, `rei` an eighty-one-group. Numbers compose from the top down:
+The numerals are ternary. Three digits, `mu ta wi` (zero, one, two), combine with named powers of three: `shao` is a three-group, `phoi` a nine-group, `lau` a twenty-seven-group, and `rei` an eighty-one-group. Exact numbers compose from the top down through 242; larger exact values remain source material outside the Phi passage:
 
 ```
 mia wi phoi ta shao torua phelu.
@@ -90,7 +90,7 @@ mia wi phoi ta shao torua phelu.
 (I hold twenty-one years.)
 ```
 
-Two nines and a three: twenty-one. A number in Phi is a small act of arithmetic said aloud, which is one more way the language declines to be hurried.
+Two nines and a three: twenty-one. The transparent grouping makes the composition audible, but an unfamiliar base and longer forms require practice. Ordinary competence begins through eight and grows through twenty-six; rapid conversion from decimal is not required.
 
 ## The day belongs to the sky
 
@@ -134,7 +134,7 @@ Phi does not translate texts; it rebuilds them from its own concepts, and publis
 
 ## Where the choices come from
 
-None of this is accidental taste. Phi states its commitments openly, five of them, and by now you have seen each one at work. Solarpunk is why the language could walk into Morris's moneyless future and find the grammar already waiting. Secular Buddhist attention is why a number is arithmetic said aloud, and why the language declines, everywhere, to be hurried. Art Nouveau's organic line is why the lexicon grows like a web instead of a list, gray from stone and pink from dawn. Peace linguistics is why the domination words are missing and why the Ring Verse came back refused rather than translated. And pre-industrial rhythm is why the day has stations instead of hours, and why a path is measured by walking it. Phi is value-explicit and culturally situated, and says so plainly; it has never claimed to be a neutral language for everyone.
+None of this is accidental taste. Phi states its commitments openly, five of them, and by now you have seen each reflected in design choices. Solarpunk values shape how the language approaches Morris's moneyless future. Secular Buddhist attention motivates conspicuous grouping and resistance to hurried assumptions, without claiming that grammar creates mindfulness. Art Nouveau's organic line guides a lexicon that grows by relationships, gray from stone and pink from dawn. Peace linguistics motivates refusals such as the Ring Verse response, while speakers remain responsible for what their words do. Pre-industrial rhythm motivates sky-based day stations and paths described by walking. Phi is value-explicit and culturally situated; it has never claimed to be a neutral language for everyone.
 
 ## The door
 

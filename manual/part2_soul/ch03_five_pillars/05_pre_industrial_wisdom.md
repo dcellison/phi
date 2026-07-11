@@ -12,7 +12,7 @@ One lesson from these traditions is animacy. Many languages, particularly indige
 
 In such languages, a forest, river, mountain, or stone can be a grammatical "who," not an "it." This isn't primitive or superstitious. It's a grammatical system that builds respect for the living world into everyday speech.
 
-Phi embraces universal animacy. Its optional classifier system distinguishes `himo` for humans, `lipha` for living things, and `themo` for inanimate objects, but the distinction is descriptive, not hierarchical. The grammar becomes a practice in recognizing life in the world around us.
+Phi gives living status an explicit but optional place in counting. Its classifier system distinguishes `himo` for humans, `lipha` for non-human living beings, `themo` for detached or crafted objects, and `nophe` for abstractions and events. These broad categories are descriptive rather than hierarchical, and they do not establish a universal account of animacy or make attention ethical by themselves.
 
 ## Cyclical time
 

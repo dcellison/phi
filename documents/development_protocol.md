@@ -39,7 +39,7 @@ This "announce then deliver" principle creates transparent communication where a
 ### Structural Hierarchy
 The full function-word shape charter is a canon ruling (see `/canon.md`); the checklist summarizes it.
 - [ ] **Single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi); particles never take fricative digraphs
-- [ ] **Hiatus disyllable ((C)V.V)**: The relator shape — prepositions (mua, thue, wei), core pronouns (mia, thia, shia), clause-relators (lao, pheo, phoe, shai), and scale units (shao, phoi)
+- [ ] **Hiatus disyllable ((C)V.V)**: The relator shape — prepositions (mua, thue, wei), core pronouns (mia, thia, shia), clause-relators (lao, pheo, phoe, shai), and scale units (shao, phoi, lau, rei)
 - [ ] **Plain disyllable (CV.CV)**: The frame shape — complementizers (openers -a, closers -o), frame conjunctions, classifiers, the vocative, and the -so pronoun pair (miso, wiso)
 - [ ] **Multi-syllable**: Required for content words; quantifiers, discourse markers (fricative-initial — the breath before reframing), and interrogatives are content-shaped (2-3 syllables)
 
@@ -68,7 +68,7 @@ Each new word must explicitly connect to at least one pillar:
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
 - [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
 - [ ] **Review refusals case by case**: A refusal must not obstruct care, self-identification, consent, safety, testimony, or philosophical critique
-- [ ] **Keep source artifacts outside Phi syntax**: Preserve foreign wording, exact records, scripts, values, formulas, and identifiers in the surrounding medium while Phi points to, translates, or analyzes them
+- [ ] **Keep source artifacts outside Phi syntax**: Preserve foreign wording, source-form exact records and values, scripts, units, formulas, and identifiers in the surrounding medium while Phi points to, translates, or analyzes them; an integer from 0 through 242 may also be rendered internally when adequate
 - [ ] **Create semantic families**: Build interconnected word networks where shared roots illuminate meanings (mycelial approach)
 
 ## Word Creation Protocol
@@ -123,7 +123,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 ## Source Material Checklist
 
 - [ ] The Phi passage contains only Phi vocabulary, grammatical Phi clauses, and valid Phi-form names
-- [ ] Foreign wording, source-script names, exact records, formulas, identifiers, and quotations remain visibly outside the Phi passage
+- [ ] Foreign wording, source-script names, source-form exact records, formulas, identifiers, and quotations remain visibly outside the Phi passage; internal Phi numerals do not replace a source artifact whose original form matters
 - [ ] The source artifact retains its own spelling, script, punctuation, notation, version, and provenance where those properties matter
 - [ ] The Phi account identifies what it is pointing to and does not claim that its analysis exhausts the source concept
 - [ ] Separate presentation is described as a boundary of language, not approval, condemnation, stigma, or loss of precision

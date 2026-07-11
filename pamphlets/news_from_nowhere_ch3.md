@@ -267,8 +267,8 @@ CONTR VOC NAME kulo. 1SG DECL.COMP PROX strange person INTO 2SG boat climb DECL.
 (But, Guide, I watched this stranger climbing into your boat, and the thought fell out of my head.)
 morris: "but looking at the stranger here getting into your boat, Dick, put it out of my head;"
 
-thelao mia neo theula lo nuko pelori to ma kamo.
-CONS 1SG FRONT UNIV PL black bird PST NEG arrive.
+thelao mia neo theula nuko pelori to ma kamo.
+CONS 1SG FRONT UNIV black bird PST NEG arrive.
 (So I did not arrive before all the blackbirds.)
 morris: "so that I was not before _all_ the blackbirds:"
 
@@ -308,9 +308,9 @@ morris: "to the thin pipe-stems of wheaten crust, such as I have eaten in Turin.
 ## lo thekiro — The writing on the wall
 
 ```
-sui mia nu ta lo nuora muo phulae sepho mia nia wolea moru rena se kati nela solai phelu lo thekiro to nila.
-DUR 1SG ORD one PL food INTO mouth send 1SG ON wood wall REL PASS cut COORD gold hold PL write PST see.
-(As I was putting the first mouthfuls into my mouth, my eye caught, on the wooden wall, a writing carved and gilded.)
+sui mia nu ta nuora muo phulae sepho mia nia wolea moru rena se kati nela solai phelu lo thekiro to nila.
+DUR 1SG ORD one food INTO mouth send 1SG ON wood wall REL PASS cut COORD gold hold PL write PST see.
+(As I was putting the first mouthful into my mouth, my eye caught, on the wooden wall, a writing carved and gilded.)
 morris: "As I was putting the first mouthfuls into my mouth my eye caught a carved and gilded inscription on the panelling,"
 
 ha lo thekiro noe rena mia punoa phea wheo wonepa po shemui wonepa to nai.
@@ -318,8 +318,8 @@ PROX PL write BEHIND REL 1SG society AS elder table POT utter table PST be.
 (The writing stood behind the table my own world could have called the elders' table.)
 morris: "behind what we should have called the High Table in an Oxford college hall,"
 
-mua lo thekiro ta rena mia ru sano nomei to nai. ha nomei mia theula lo thekiro to ka theo. lo thekiro phea ha to wepu.
-LOC PL write one REL 1SG INTS know name PST be. PROX name 1SG UNIV PL write PST CAUS read. PL write AS PROX PST go.
+mua lo thekiro ta rena mia ru sano nomei to nai. ha nomei mia theula thekiro to ka theo. lo thekiro phea ha to wepu.
+LOC PL write one REL 1SG INTS know name PST be. PROX name 1SG UNIV write PST CAUS read. PL write AS PROX PST go.
 (In it was a name I knew well, and that name made me read the whole writing through. It ran like this:)
 morris: "and a familiar name in it forced me to read it through. Thus it ran:"
 
@@ -480,8 +480,8 @@ LOC DIST hand 3SG SOME herb PST hold. 1SG child time PROX herb name PST know.
 (In that hand she held some of an herb whose name my boyhood had known.)
 morris: "in which she held some of the plant that I used to call balm:"
 
-ha heru kema kaelo whinu wei mia mia lopia thimu nu ta lo philo to ka halemu.
-PROX herb strong sweet smell DAT 1SG 1SG child time ORD one PL day PST CAUS remember.
+ha heru kema kaelo whinu wei mia mia lopia thimu lo thorui philo to ka halemu.
+PROX herb strong sweet smell DAT 1SG 1SG child time PL beginning day PST CAUS remember.
 (Its strong sweet smell brought back to me the very first days of my child-time.)
 morris: "its strong sweet smell brought back to my mind my very early days"
 
@@ -551,7 +551,7 @@ LOC DIST moment 1SG NAME kulo count PST fast remember. 1SG speak PST fast close.
 morris: "--only you know--\" At that point I suddenly remembered Dick's date, and stopped short rather confused."
 ```
 
-**Notes:** the forest scene is the chapter's densest weave of already-ruled carves, and nearly nothing needed inventing. Pollarding, the scene's whole subject, is said as what the axe does: trees whose heads are cut (`rena koma se kati shiro`), the cutting a portion of the old sharing-custom (`serao phowe keno`, the commoners' rights rendered by what they were). The rumour rides `ti`, hearsay marked as hearsay, and the weaver's question is the reportative's honest interrogation: is the report true? The philistines are the compound registry's contempt idiom turned outward, `rena mioru thiku nila lo miona`, the people who see beauty small, which is Morris's own accusation. The trap the narrator falls into is the salmon chapter's own `mera`, a net, and his failure to ask where and when he was carries both gap-words in one embedded clause (`kua nela weno`), the time-traveler's two questions side by side. Dick's 1955 becomes a count of years spoken roundly, near one eighty-one-group and two twenty-seven-groups (`pai ta rei wi lau torua`), consistent with the bridge's century in the last chapter; the Corporation of London becomes the great city's council (`whalo silawo kowela`); Queen Elizabeth's Lodge and High Beech dissolve into the very old house and the high place, the two exceptions kept as exceptions. The balm, whose scent turns the scene, stays an herb whose name the narrator's boyhood knew: the naming-memory is the image, and it survives with the name itself left where Morris's untranslatable "balm" must stay. The plums on the wall keep their size and their blue; the lavender generalizes into the sweet-smelling herbs being scattered; and the connection of memories every child sees at once is a tie of memories, `halemu tiwa`, the chapter's knot-image put for once to gentle use.
+**Notes:** the forest scene is the chapter's densest weave of already-ruled carves, and nearly nothing needed inventing. Pollarding, the scene's whole subject, is said as what the axe does: trees whose heads are cut (`rena koma se kati shiro`), the cutting a portion of the old sharing-custom (`serao phowe keno`, the commoners' rights rendered by what they were). The rumour rides `ti`, hearsay marked as hearsay, and the weaver's question is the reportative's honest interrogation: is the report true? The philistines are the compound registry's contempt idiom turned outward, `rena mioru thiku nila lo miona`, the people who see beauty small, which is Morris's own accusation. The trap the narrator falls into is the salmon chapter's own `mera`, a net, and his failure to ask where and when he was carries both gap-words in one embedded clause (`kua nela weno`), the time-traveler's two questions side by side. Morris's source year 1955 remains visible in the source line; the Phi passage does not translate that calendar identifier but gives the elapsed interval relevant to the scene, near one eighty-one-group and two twenty-seven-groups (`pai ta rei wi lau torua`, near 135 years), consistent with the bridge's century in the last chapter. The Corporation of London becomes the great city's council (`whalo silawo kowela`); Queen Elizabeth's Lodge and High Beech dissolve into the very old house and the high place, the two exceptions kept as exceptions. The balm, whose scent turns the scene, stays an herb whose name the narrator's boyhood knew: the naming-memory is the image, and it survives with the name itself left where Morris's untranslatable "balm" must stay. The plums on the wall keep their size and their blue; the lavender generalizes into the sweet-smelling herbs being scattered; and the connection of memories every child sees at once is a tie of memories, `halemu tiwa`, the chapter's knot-image put for once to gentle use.
 
 ## wia torua — How many years
 
@@ -786,9 +786,9 @@ shia phelora lo pelio lue talua tei manuwe kema to nai. shia wei riola lue lo pe
 (Her beautiful arms were firm and strong from shoulder to wrist; she had bared them for her work.)
 morris: "her beautiful arms, which she had bared for her work, firm and well-knit from shoulder to wrist."
 
-phou mia nila shia menoa thiku rulo to kelu. whekai ha nuwi to nai. shia mia phea rena ta rei torua phelu miona to ki nila.
-BELOW 1SG see 3SG face small red PST become. CONTR PROX clear PST be. 3SG 1SG AS REL one eighty-one-group year hold person PST PFV see.
-(She blushed a little under my gaze, though it was clear she had taken me for a man of some eighty years.)
+phou mia nila shia menoa thiku rulo to kelu. whekai ha nuwi to nai. shia mia phea rena wi lau wi phoi wi shao wi torua phelu miona to ki nila.
+BELOW 1SG see 3SG face small red PST become. CONTR PROX clear PST be. 3SG 1SG AS REL two twenty-seven-group two nine-group two three-group two year hold person PST PFV see.
+(She blushed a little under my gaze, though it was clear she had taken me for a person of eighty years.)
 morris: "She blushed a little under my gaze, though it was clear that she had taken me for a man of eighty;"
 
 thelao lila ha shemu moli wepu mia to haolu.
@@ -837,7 +837,7 @@ DUR 3SG go 3SG ABL PL 1SG table sun light portion PST take. one old storyteller 
 morris: "taking (as Scott says) at least part of the sun from our table as she went."
 ```
 
-**Notes:** the ages are the section's machinery, and the ternary numerals carry all three: the narrator holds close on fifty-six (`pai wi lau wi torua`, two twenty-sevens and two), guesses twenty for her (`wi phoi wi`), is told forty-two (`ta lau ta phoi wi shao`), and is himself taken for a man of `ta rei` years, eighty-one standing for Morris's eighty because a ternary tongue rounds to its own landmarks, as the last chapter's century did. The age question itself is canon's own sentence, `thia wia torua phelu.`, asked by the one man in the room whose customs sit loosely. Two carve-notes: Morris's "fine lady," a rank-and-gender figure Phi refuses twice over, becomes the behavior it names, some people never tell their own years, and I am not that person; and the proverb "a woman is as old as she looks" is told of a person, `miona`, the only citizen Phi's grammar knows, with the reportative `ti` marking it as the received saying it is. Flattery is over-sweet speech (`ru kaelo haolu`); fishing for compliments is seeking sweet words, and her "I am well served out" becomes the fairness (`thua`) she concedes. In the portrait, ivory yields to smooth bone, cheeks and lips to face and mouth, the body words Phi has, while the roses she carried in return exactly on cue. Her parting keeps the book she began yesterday, the work she means to finish, and the farewell inside `pholeni`; and the sun she takes from the table as she goes is credited, as Morris credits it, to an old storyteller who wrote of such taking.
+**Notes:** the ages are the section's machinery, and the ternary numerals carry all four: the narrator holds close on fifty-six (`pai wi lau wi torua`, near two twenty-sevens and two), guesses twenty for her (`wi phoi wi`), is told forty-two (`ta lau ta phoi wi shao`), and is himself taken for a person of eighty years (`wi lau wi phoi wi shao wi`). Phi can express every value exactly; `pai` belongs only to the source's “hard on” approximation. The age question itself is canon's own sentence, `thia wia torua phelu.`, asked by the one person in the room whose customs sit loosely. Two carve-notes: Morris's "fine lady," a rank-and-gender figure Phi refuses twice over, becomes the behavior it names, some people never tell their own years, and I am not that person; and the proverb "a woman is as old as she looks" is told of a person, `miona`, the only citizen Phi's grammar knows, with the reportative `ti` marking it as the received saying it is. Flattery is over-sweet speech (`ru kaelo haolu`); fishing for compliments is seeking sweet words, and her "I am well served out" becomes the fairness (`thua`) she concedes. In the portrait, ivory yields to smooth bone, cheeks and lips to face and mouth, the body words Phi has, while the roses she carried in return exactly on cue. Her parting keeps the book she began yesterday, the work she means to finish, and the farewell inside `pholeni`; and the sun she takes from the table as she goes is credited, as Morris credits it, to an old storyteller who wrote of such taking.
 
 ## selomi nela tawi remo — Weaving and mathematics
 
@@ -1255,8 +1255,8 @@ gold dust person ABL meeting place door DAT PL 1SG PST loud speak.
 (And in effect the golden dustman hailed us loudly from the hall-door.)
 morris: "And in effect the Golden Dustman hailed us from the hall-door;"
 
-thelao theula lo mia to rihe. lo mia muo ponu lokue to wepu.
-CONS UNIV PL 1SG PST rise. PL 1SG INTO door place PST go.
+thelao theula mia to rihe. lo mia muo ponu lokue to wepu.
+CONS UNIV 1SG PST rise. PL 1SG INTO door place PST go.
 (So we all got up and went into the porch.)
 morris: "so we all got up and went into the porch,"
 
@@ -1311,6 +1311,6 @@ morris: "Dick shook the reins, and we were off."
 
 *The names land at Morris's own naming moments, under the ratified policy: the narrator himself becomes `ne phemi` (Guest), the family name that is also his condition, chosen in the same breath in which Morris chose it, with "add William to it if you please" kept as the offer of a second name and released as the author's untranslatable self-portrait; Annie is `ne luwae` (Graceful), named in Boffin's mouth; Boffin is `ne solai` (Gold), the joke, over `ne keruko` (Sturdy), the plain true name standing where "Henry Johnson" stands; Jim the horse-keeper is `ne woru` (Keeper). Places dissolve into their functions as ruled: Epping Forest into the great forest at whose edge the narrator was born, Walthamstow and Woodford into villages the sentence never needed, Queen Elizabeth's Lodge and High Beech into the very old house and the high place, the Corporation of London into the great city's council, Bloomsbury into the great town's middle, Turin into a far southern town, Crosby Hall into the great halls the narrator had known, Oxford's High Table into the elders' table, Europe into these lands. Dickens becomes the old stories, Scott an old storyteller, and Morris's Latin tag "Ne quid nimis" an old saying that happens to be Phi's own doctrine: nothing must be too much.*
 
-*Three refusals carry structural weight. The gendered sorting of the hall, "the first of the sex," "clothed like women," "the male men," "a woman is as old as she looks," "well, lads," "both men and women," cannot be said in a language that refuses gendered person-words, and it is not smuggled back in: what survives is the newness of these three among all yet met, the deliberate attention, the armchair joke (which needed only `meipa`), and a proverb told of persons. The ranks fall with the genders: the "fine lady" becomes the behavior she names (some people never tell their years), the baron a gold-wrapped man of a far older world, the senator an elder-councillor, the "sir" a courtesy Phi's grammar carries in `pi` instead. And the dates go the way of the refused calendar: 1955 becomes a count of years spoken roundly (`pai ta rei wi lau torua`, near a hundred and thirty-five), twenty-five years becomes near one twenty-seven (`pai ta lau torua`), the ages run in ternary (fifty-six as two twenty-sevens and two; forty-two as twenty-seven, nine, and two threes; twenty as two nines and two; eighty as the round `ta rei`), and the inscription's "May 1962" keeps only what an inscription can say in this language, `mua wirae lumae`, at spring's end.*
+*Three refusals carry structural weight. The gendered sorting of the hall, "the first of the sex," "clothed like women," "the male men," "a woman is as old as she looks," "well, lads," "both men and women," cannot be said in a language that refuses gendered person-words, and it is not smuggled back in: what survives is the newness of these three among all yet met, the deliberate attention, the armchair joke (which needed only `meipa`), and a proverb told of persons. The ranks fall with the genders: the "fine lady" becomes the behavior she names (some people never tell their years), the baron a gold-wrapped man of a far older world, the senator an elder-councillor, the "sir" a courtesy Phi's grammar carries in `pi` instead. Calendar identifiers remain in Morris's source lines rather than becoming Phi numerals: the passage replaces 1955 only at the level of its relevant elapsed interval (`pai ta rei wi lau torua`, near 135 years), renders twenty-five years as near one twenty-seven (`pai ta lau torua`), gives ages in ternary (fifty-six as two twenty-sevens and two; forty-two as twenty-seven, nine, and two threes; twenty as two nines and two; eighty as exact `wi lau wi phoi wi shao wi`), and paraphrases the inscription's "May 1962" as `mua wirae lumae`, at spring's end, while the exact source inscription remains visible.*
 
 *Disclosed simplifications, each a real loss taken knowingly: machine printing and composing flatten into device-work for books, a craft distinction with no Phi press vocabulary yet; the "radical" of the radical cobblers is absorbed into the trampling of custom the sentence itself describes; hornbeam and holly generalize into head-cut trees and dense small growth, lavender into sweet-smelling herbs, the plums into great blue fruits, the balm into an herb whose name the narrator's boyhood knew, since the naming-memory, not the species, is what the scene turns on (the species test holds: none of the five recurs doing image-work); ivory becomes smooth bone, cheeks and lips become face and mouth, the wrist becomes the hand, all body-words Phi deliberately keeps few; and Morris's "eventful morning" is carried as the morning of wonders the chapter has already earned. The fighting whose approach the weaver's book skirts is rendered the only way Phi will ever render it, by the deed: before the time when people did harm to one another. That sentence is the novel's first step toward the war chapters, and the language did not need a single weapon to take it.*

@@ -10,18 +10,18 @@
   "pos": [
     "verb"
   ],
-  "concept": "Portion / Distribute Fairly / Divide (Mathematical)",
-  "description": "The verb of fair distribution, embodying the mathematical operation of division through the lens of equity and communal sharing. Rather than splitting apart or fragmenting, 'phanoi' frames division as the careful portioning of a whole among recipients, ensuring each receives their rightful share. It carries the understanding that division done well maintains the dignity of both whole and portions, that fair distribution creates harmony rather than conflict. In arithmetic, 'phanoi' announces that a quantity is being portioned among a number of recipients to reveal what each receives.",
-  "sound_symbolism": "The word begins with 'pha', where the bilabial fricative 'ɸ' breathes the philosophical, abstract quality of fair judgment (echoing 'phoi' - nine-group). The open 'a' receives what is being distributed, spacious and accepting. The nasal 'n' in 'no' grounds the distribution in stability and fairness—the sound of considered balance. The 'o' suggests the wholeness from which portions come, acknowledging that division maintains relationship to the whole. The final 'i' brightens to completion, the satisfaction of fair sharing accomplished. Three syllables ensure deliberate, mindful calculation.",
-  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the total and the number of recipients. Structure: '[total] [recipients] phanoi. [portion] kelai.' Example: 'ta phoi ta shao phanoi. ta shao kelai.' (nine portions among three, becoming three each). The result represents what each recipient receives. Can be nominalized. When used with classifiers, the classifier applies to the portions created.",
+  "concept": "Portion / Distribute / Divide (Mathematical)",
+  "description": "The verb of portioning a whole among recipients or groups, and Phi's word for arithmetic division. The metaphor makes distribution and its consequences visible rather than presenting division only as abstract splitting. In arithmetic, 'phanoi' identifies a quotient and, when necessary, a remainder. Equal numerical portions do not by themselves establish that a distribution is fair, sufficient, consensual, or responsive to different needs.",
+  "sound_symbolism": "The word begins with 'pha', where the bilabial fricative 'ɸ' suggests an abstract operation and echoes 'phoi' (nine-group). The open 'a' suggests space receiving what is distributed. The nasal 'n' in 'no' grounds the movement, while 'o' evokes the whole from which portions come. The final 'i' marks the quotient coming into focus. Three syllables give the operation a distinct audible shape without claiming that pronunciation makes the distribution fair or the calculation mindful.",
+  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the total and the number of recipients or groups. In arithmetic, mandatory 'nela' separates them: '[total] nela [recipients or groups] phanoi. [quotient] kelai.' Example: 'ta phoi nela ta shao phanoi. ta shao kelai.' (Nine portions among three. Three results for each.) When nouns or classifiers are stated, the total names what is portioned, the second operand may name recipients or groups, and the quotient inherits the total's kind. State any integer remainder separately. Phi has no fractional numeral syntax; use source material when an exact fractional quotient is required. Can be nominalized.",
   "pillars": {
-    "solarpunk-values": "Resource distribution lies at the heart of sustainable futures. 'Phanoi' embodies the principle that abundance means everyone receives enough, that fair portioning prevents both waste and want.",
-    "secular-buddhist-philosophy": "Equanimity means treating each portion with equal respect, each recipient with equal care. 'Phanoi' carries the understanding that division done mindfully maintains the wholeness it distributes.",
-    "peace-linguistics-practices": "By framing division as 'fair portioning,' 'phanoi' embeds equity into the mathematical operation itself. The word suggests that division should produce justice, that each recipient matters equally.",
-    "pre-industrial-wisdom": "Traditional communities practice careful portioning at meals, fair distribution of harvest, equitable sharing of labor's fruits. 'Phanoi' preserves this wisdom that division strengthens community when done with care."
+    "solarpunk-values": "Resource distribution lies at the heart of sustainable futures. 'Phanoi' keeps the recipients and resulting portions available for scrutiny, while judgments about sufficiency, waste, and need must be stated and negotiated separately.",
+    "secular-buddhist-philosophy": "The portioning metaphor can support attention to each recipient and to the consequences of distribution. Equal arithmetic shares are not identical to equanimity, equal respect, or care.",
+    "peace-linguistics-practices": "By framing division as portioning, 'phanoi' keeps the ethical question of distribution visible. It does not embed equity into arithmetic or guarantee that equal portions produce justice.",
+    "pre-industrial-wisdom": "Communities have carefully portioned meals, harvests, and the fruits of shared labor. 'Phanoi' can evoke that practical knowledge while leaving the fairness of any particular allocation open to examination."
   },
   "tags": {
-    "cognition": "Mathematical operation requiring deliberate mental processing",
-    "community": "Frames division as fair distribution among recipients"
+    "cognition": "Names arithmetic division through a portioning metaphor",
+    "community": "Relates a total to recipients or groups without asserting fairness"
   }
 }

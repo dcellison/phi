@@ -140,7 +140,7 @@ PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 
 ## Source material and names
 
-Complementizers frame Phi clauses only. Foreign wording, source-script names, exact values, identifiers, formulas, and other unassimilated artifacts remain outside Phi syntax and appear separately through the surrounding document, interface, or conversation. Phi can refer to a separately presented record, translate it with `mena ... meno`, or quote grammatical Phi with `shola ... sholo`, but no outside token occupies a nominal position merely because it is printed beside Phi.
+Complementizers frame Phi clauses only. Foreign wording, source-script names, source-form exact values and records, identifiers, formulas, and other unassimilated artifacts remain outside Phi syntax and appear separately through the surrounding document, interface, or conversation. Exact integers from 0 through 242 may also be rendered with internal Phi numerals when that representation is adequate. Phi can refer to a separately presented record, translate its meaning with `mena ... meno`, or quote grammatical Phi with `shola ... sholo`, but no outside token occupies a nominal position merely because it is printed beside Phi.
 
 `ne` directly licenses one lowercase name-form of two or three legal Phi syllables (`ne samira`) or a listed content word borne as a name. Longer, multi-token, non-Phi-shaped, and source-script names remain outside the Phi passage unless the bearer or naming community accepts a valid Phi-form onym.
 

@@ -8,7 +8,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **causative**: A construction meaning *to make someone do something*. Phi's `ka`: the causer becomes subject, the one caused to act becomes object (`mia lopia ka nulae` — I make the child sleep).
 
-**classifier**: A word that names the *kind* of thing being counted. Phi's four: `himo` (people), `lipha` (living things), `themo` (objects), `nophe` (abstractions). Optional, and used as an act of acknowledgment.
+**classifier**: An optional word that assigns what is counted to one of Phi's broad categories: `himo` (people), `lipha` (non-human living things), `themo` (detached or crafted objects), and `nophe` (abstractions, time, and events). It can foreground a category but does not guarantee regard or settle a disputed classification.
 
 **complementizer**: A framing function word. Phi's clause frames include `mena…meno` (that-clauses), `wela…welo` (embedded questions), and `shola…sholo` (Phi quotations).
 
@@ -65,7 +65,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | 1SG/2SG/3SG | mia, thia, shia | I / you / they-one | `mia` (I), `thia` (you), and `shia` (they, singular, no gender) are the three personal pronouns. None changes with grammatical role; the same form serves as subject, object, or the object of a preposition. |
 | 1PL | lo mia | we | The plural marker `lo` before `mia`: we. The same pattern gives `lo thia` (you all) and `lo shia` (they, plural). |
 | ABL | lue | from | From, a source: `melu lue nitho shua` is the friend comes from the north. |
-| ABST.CLF | nophe | abstraction classifier | The classifier for abstract concepts: ideas, stories, emotions, and other things that cannot be touched but are still real. |
+| ABST.CLF | nophe | abstraction classifier | The optional classifier for concepts, time units, events, and other non-physical countables; it marks a category without settling the referent's ontological status. |
 | ADVRS | thona | but (mild) | The adversative conjunction: contrast or exception between two joined elements, without negating what came before. Where `whekai` turns a whole sentence against the last one, `thona` joins two phrases of equal weight that pull in different directions. |
 | ALL | kau | to (allative) | To, the goal of motion, with arrival promised. Its counterpart `wea` (toward) makes no such promise. |
 | ANT | phoe | before | The clause or span it introduces sets a boundary the main event precedes: before. Over a counted span it points backward: `phoe wi philo` is two days ago. |
@@ -90,7 +90,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | FUT | so | future | The future tense particle. Present tense carries no particle at all. |
 | HAB | ro | habitual | The aspect for a recurring or characteristic action, distinct from `si` (mid-flow, happening now): `mia ro theo` is I read regularly. |
 | HON.INTIM / HON.RESPECT / HON.ROLE | ni, sa, le | honorifics | Three word-level particles standing between `ne` and a name. `ni` marks deep personal bonds of love, family, or friendship; `sa` marks respect for mentors, elders, and wisdom holders; `le` acknowledges a current service role. They announce relationship, never rank. |
-| HUM.CLF | himo | people classifier | The classifier for human beings. Counting people with `himo` is a small act of respect, setting them apart from objects: `ta himo melu` is one friend, counted as a person. |
+| HUM.CLF | himo | people classifier | The optional classifier for people: `ta himo melu` is one friend explicitly classified as a person. The category is audible, but respect depends on use and context. |
 | IMP | no | imperative | The imperative marker, announcing a command or request. |
 | INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomu` is I begin to understand. |
 | INFER | ke | inferred | Marks that the speaker reached the claim by inference from evidence, not by direct witness or report. |
@@ -100,7 +100,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | INTS | ru | intensifier | The intensifier: very, truly. `ru welao` is very good. |
 | IPFV | si | imperfective | The aspect for action in progress, mid-flow, right now, distinct from `ro` (habitual). |
 | IRR | he | irrealis | Paired with `lu` as `lu he`, an unreal or counterfactual conditional, for a condition that did not or cannot hold. |
-| LIFE.CLF | lipha | living-thing classifier | The classifier for non-human living things: animals, plants, fungi, grouped by their shared vitality. |
+| LIFE.CLF | lipha | living-thing classifier | The optional classifier for non-human living beings, living parts, and forms treated as life in waiting. |
 | LOC | mua | in/at | In, at, inside, marking where an action happens. It is never a motion endpoint itself; going toward a destination uses `kau`. |
 | NAME | ne | proper-name token | Announces that the following Phi token is a proper designation. The token may be a content word or a productive two- or three-syllable Phi-form onym with no lexicon meaning. |
 | NEC | na | necessity | Marks that an action is necessary or obligatory: `mia na naphe` is I must help. |
@@ -126,6 +126,6 @@ Click or hover on a row for a longer explanation of that gloss.
 | RESTR | li | only, restrictive | Marks that a statement holds for the one thing named, and nothing else: only. It fences identity, who or which, never quantity; a count is stated exactly or with `henoi`. |
 | SPEC | shekoi | specifically | The discourse marker that narrows from the general to the particular, singling out the case the speaker means. |
 | SUMM | shelao | in summary | The discourse marker that gathers what came before into its essence, the turn from exploration to distillation. |
-| THING.CLF | themo | object classifier | The classifier for inanimate objects, especially those made or used by hand: tools, containers, buildings, stones. |
+| THING.CLF | themo | object classifier | The optional classifier for detached or crafted physical objects such as tools, containers, buildings, and stones; it is not a classifier for all inanimate matter or places. |
 | UNIV | theula | all, every | The universal quantifier: every member of the set, none left out. `theula miona` is all people, the opening words of Phi's Article 1. |
 | VOC | kona | vocative | Marks direct address, standing outside the sentence it introduces: `kona melu. mia ha nai` is friend, I am here. |

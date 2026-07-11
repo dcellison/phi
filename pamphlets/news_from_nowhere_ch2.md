@@ -680,7 +680,7 @@ mia tei rena lo sawa thena riola womu to whano lokue ha lo thena to nila.
 morris: "though this is what I saw up to the bridge and a little beyond; say as far as the site of the soap-works."
 ```
 
-**Notes:** the age of the bridge is the chapter's hardest transmutation, and the refusal does the work. Phi's numerals stop naming years where the counting stops being human-scaled, and the language keeps no numbered calendar, so Dick cannot say "2003"; what he can say is how long the bridge has stood, `ta rei wi phoi ta torua`, a hundred years, with his hedge kept whole ("built or at least opened" becomes: the building may be earlier). The stun works identically: a man who crossed a suspension bridge last night is told the stone one before him has stood a century. What silences him is `ha tawi`, this count, and the padlock image keeps its key, which Phi already owns: a door a key has closed. The game of cross questions and crooked answers is carried by the first chapter's threads: say too much, and the sayings tie you. Dick's tag-question courtesy, "isn't it?", is `wa thia nawo`, do you agree, and his scarcely-daintier comparisons ride `po ma`, the could-scarcely hedge, on the comparative.
+**Notes:** the age of the bridge is the chapter's hardest transmutation. The source year “2003” remains visible in Morris's source line because it lies outside Phi's 0-242 integer range and the language keeps no numbered calendar. The Phi passage does not translate that identifier; it states the relevant elapsed duration, `ta rei wi phoi ta torua`, a hundred years, with the hedge kept whole ("built or at least opened" becomes: the building may be earlier). The stun works identically: a man who crossed a suspension bridge last night is told the stone one before him has stood a century. What silences him is `ha tawi`, this count, and the padlock image keeps its key, which Phi already owns: a door a key has closed. The game of cross questions and crooked answers is carried by the first chapter's threads: say too much, and the sayings tie you. Dick's tag-question courtesy, "isn't it?", is `wa thia nawo`, do you agree, and his scarcely-daintier comparisons ride `po ma`, the could-scarcely hedge, on the comparative.
 
 ## lo womu nela thepalu — The houses and the garden
 
@@ -946,8 +946,8 @@ CONTR 3SG AS REL heart sick hold person PST NEG speak.
 (However, he went on by no means like one mind-sick.)
 morris: "However, he went on by no means like a madman:"
 
-thia lo thiku keluo thena kuelo nai. whekai lo thena ru serao ma nai. theula lo thena lue ta newu luera thimu ke nai.
-2SG PL small metal thing curious be. CONTR PL thing INTS old NEG be. UNIV PL thing ABL one new past time INFER be.
+thia lo thiku keluo thena kuelo nai. whekai lo thena ru serao ma nai. theula thena lue ta newu luera thimu ke nai.
+2SG PL small metal thing curious be. CONTR PL thing INTS old NEG be. UNIV thing ABL one new past time INFER be.
 ("As to your coins, they are curious, but not very old; they seem to be all of one recent age.")
 morris: "\"As to your coins, they are curious, but not very old; they seem to be all of the reign of Victoria;"
 
@@ -1007,8 +1007,8 @@ mia mena thia kuewa miona nai meno ke sano. thia lue ru phirae lokue na kamo.
 (For, not to mince matters, I can tell that you are a stranger, and must come from a very different place.)
 morris: "For, not to mince matters, I can tell that you _are_ a stranger, and must come from a place very unlike England."
 
-lu mia nosa wei thia ha lokue theula lo sano loa ha thia so ma naphe. thia ha roe lo thiku phanoi na milau.
-COND 1SG now DAT 2SG PROX place UNIV PL know give PROX 2SG FUT NEG help. 2SG PROX INS PL small portion NEC drink.
+lu mia nosa wei thia ha lokue theula sano loa ha thia so ma naphe. thia ha roe lo thiku phanoi na milau.
+COND 1SG now DAT 2SG PROX place UNIV know give PROX 2SG FUT NEG help. 2SG PROX INS PL small portion NEC drink.
 (But it would not do to give you all the knowledge of this place at once; you must drink it in by small draughts.)
 morris: "But also it is clear that it won't do to overdose you with information about this place, and that you had best suck it in little by little."
 
@@ -1279,7 +1279,7 @@ PL 1SG one three-group HUM.CLF TOWARD guest home door PST turn.
 morris: "And we all three turned toward the door of the Guest House."
 ```
 
-**Notes:** the names arrive exactly where Morris lands them, in the two friends' greetings, and this transmutation chooses lexicon words borne with `ne`. The waterman is `ne kulo`, Guide, the word for what the entire novel is about to make him; the weaver is `ne selomi`, Weaver, a man walking around being his own trade, so that Dick's earlier "he is a weaver from the north" turns out to have been an introduction; and George Brightling, met only in this one sentence, is `ne keru`, Bright, his surname's own meaning. Productive or external names are also grammatical; these semantic names are choices made by this text. The bugle is a small silver `phui`, the wind-instrument Phi already owns, blown (`whesu`, the wind's own verb from the fable) in two or three sharp, joy-giving notes. The dream of fishing uses the plain fish, since Weaver dreams the act, not the species; the salmon stay with their nets. His glee is his hands wiping each other (`lo manuwe wiso hewe`), the reciprocal pronoun catching what rubbed hands actually do; his caution against a forgotten dinner rides `teo`, the warning interjection, since Phi builds no negative command; and the narrator's closing doubt is `pa ma theomi`, beginning not to trust his own story, the book's whole frame flickering once before the door. The chapter ends with the three of them counted the way Phi counts people, `ta shao himo`, turning toward the `phemi womu`, the guest-house, whose name Phi composes from the sacred visitor its lexicon already honors.
+**Notes:** the names arrive exactly where Morris lands them, in the two friends' greetings, and this transmutation chooses lexicon words borne with `ne`. The waterman is `ne kulo`, Guide, the word for what the entire novel is about to make him; the weaver is `ne selomi`, Weaver, a man walking around being his own trade, so that Dick's earlier "he is a weaver from the north" turns out to have been an introduction; and George Brightling, met only in this one sentence, is `ne keru`, Bright, his surname's own meaning. Productive or external names are also grammatical; these semantic names are choices made by this text. The bugle is a small silver `phui`, the wind-instrument Phi already owns, blown (`whesu`, the wind's own verb from the fable) in two or three sharp, joy-giving notes. The dream of fishing uses the plain fish, since Weaver dreams the act, not the species; the salmon stay with their nets. His glee is his hands wiping each other (`lo manuwe wiso hewe`), the reciprocal pronoun catching what rubbed hands actually do; his caution against a forgotten dinner rides `teo`, the warning interjection, since Phi builds no negative command; and the narrator's closing doubt is `pa ma theomi`, beginning not to trust his own story, the book's whole frame flickering once before the door. The chapter ends with the three of them counted exactly as `ta shao` and optionally classified as people with `himo`, turning toward the `phemi womu`, the guest-house, whose name Phi composes from the visitor its lexicon already holds.
 
 ---
 

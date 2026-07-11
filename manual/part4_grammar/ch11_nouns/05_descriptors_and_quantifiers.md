@@ -39,11 +39,11 @@ Phi provides words covering the full spectrum of quantity:
 
 | Phi | Gloss | Meaning |
 |-----|-------|---------|
-| `theula` | all | the whole, everything |
-| `sheloi` | many | a large number |
-| `soli` | several | more than a few |
-| `phina` | few | a small number |
-| `mawha` | none | zero, not any |
+| `theula` | all | the whole set under discussion |
+| `sheloi` | many | contextually large in number or amount |
+| `soli` | some | an indefinite quantity, with no claim about relative size |
+| `phina` | few | contextually small in number or amount |
+| `mawha` | none | no members or amount |
 
 These quantifiers precede the noun directly:
 
@@ -73,11 +73,13 @@ Specific numbers work the same way: they appear before the noun.
 *two book*  
 "two books"
 
-**shao miona**  
-*three person*  
-"three people"
+```text
+ta shao miona
+one three-group person
+(exactly three people)
+```
 
-Numerals interact with the classifier system, which will be explored in the following section.
+The bare scale form `shao miona` is instead approximate: people on the scale of a three-group. Numerals may take an optional classifier, as the preceding section explains.
 
 ## Deictics: grounding in space
 
@@ -100,11 +102,11 @@ These particles also carry discourse functions. `Ha` often refers to something j
 
 ## Combining modifiers
 
-When multiple modifiers apply to the same noun, they stack before it. The general ordering follows a pattern:
+When multiple modifiers apply to the same noun, they stack before it. The relevant portion of the canonical ordering is:
 
-**[Quantifier/Number] [Deictic] [Possessor] [Adjective] NOUN**
+**[Quantifier] [Deictic] [Number or `lo`] [Classifier] [Adjective] NOUN**
 
-However, this order is flexible. Speakers adjust based on what they want to emphasize; elements appearing earlier receive more focus.
+The quantity choices are alternatives: an ordinary quantifier does not combine with a number, `lo`, or classifier; a numeral may take an optional classifier; and `lo` marks unquantified plurality. Possessors precede the phrase they own. Speakers use separate clauses or ordinary discourse strategies for emphasis rather than rearranging these slots.
 
 **ha mia serao shelu**  
 *this I old book*  
@@ -114,9 +116,11 @@ However, this order is flexible. Speakers adjust based on what they want to emph
 *MANY good friend*  
 "many good friends"
 
-**shao phelora thepalu**  
-*three-group beautiful garden*  
-"three beautiful gardens"
+```text
+ta shao phelora thepalu
+one three-group beautiful garden
+(exactly three beautiful gardens)
+```
 
 ## Qualities as nouns, things as descriptors
 
@@ -130,9 +134,9 @@ So each word keeps exactly one part of speech (the class of what it names first)
 
 ## Trust and precision in balance
 
-Phi's approach to specifying nouns balances contextual trust with explicit precision. The language begins with the assumption of shared understanding: it leaves nouns unmarked and relies on mindful presence to provide clarity.
+Phi's approach to specifying nouns balances contextual inference with explicit marking. Bare nouns leave number and definiteness to context; the available modifiers let a speaker state distinctions that matter in the current exchange.
 
-Yet it does not abandon speakers when precision is needed. For every potential ambiguity, it offers a simple, consistent tool:
+Several common distinctions have dedicated tools:
 
 - When the question is "which one?", the deictic particles `ha` and `ra` ground the noun in space.
 - When the question is "how many?", the quantifying descriptors provide a spectrum of options.

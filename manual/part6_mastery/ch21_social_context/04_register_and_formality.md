@@ -18,7 +18,7 @@ mia shelu theo. mia shelomu.
 
 **Evidential care.** Marking your sources (`hi` for what you witnessed, `ti` for what you were told, `ho` for what you merely assume) is optional in Phi. Doing it consistently is the register of testimony, counsel, and teaching: the speech of someone taking responsibility for how they know.
 
-**Classifier respect.** Counting people as `wi himo miona` (two PERSON.CLF persons) rather than bare `wi miona` explicitly acknowledges their humanity. In everyday speech the classifier is warmth; in formal speech, its omission when counting people begins to feel like an inventory.
+**Classifier explicitness.** Counting people as `wi himo miona` rather than bare `wi miona` explicitly states the human category. A formal record may choose that added categorization, while either form is grammatical in every register. Inclusion does not make a record respectful, and omission does not make ordinary speech an inventory.
 
 **The framing particles.** `pi` (politeness), `su` (the optative of blessings and hopes), full vocatives with honorifics: each adds a layer of announced intention. Stack them and the register rises:
 

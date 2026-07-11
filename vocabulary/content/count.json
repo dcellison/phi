@@ -10,15 +10,15 @@
     "verb"
   ],
   "concept": "Count / Enumerate / Say the Numbers Over Things",
-  "description": "To count: children before the walk home, jars at the season's end. Enumeration done mindfully, in Phi's ternary way — 'ta, wi, ta shao…'. Companions: 'wia' (how many) with a classifier, the classifiers, and 'masue' (measure), its continuous cousin.",
+  "description": "To count or enumerate: people before a journey, jars at the season's end, or items in a record. In Phi the count may use an exact internal numeral from 0 through 242, an estimate or quantifier when appropriate, or a separately preserved source record for an out-of-range or technically formatted value. Counting can support care, surveillance, accountability, play, or harm; the verb does not determine its purpose.",
   "sound_symbolism": "The word is the act: 'ta' then 'wi' — one, two — counting compressed into its own first gesture. No other coinage in the lexicon is this literal, and none needed to be.",
-  "grammatical_notes": "Transitive: 'mia lo lopia tawi.' (I count the children.) With a classifier: 'shia wi himo miona tawi.' (They count two people.) The ternary system keeps large counts approximate by design; 'tawi' is for the counting that stays human-scale.",
+  "grammatical_notes": "Transitive: 'mia lo lopia tawi.' (I count the children.) With an exact numeral and optional classifier: 'shia wi himo miona tawi.' (They count two people.) The object may instead carry a bare scale or quantifier when the count is approximate. Values above 242, units, and exact technical records remain source material outside the Phi passage when their form matters. 'Wia' asks how many; 'masue' measures against a standard.",
   "pillars": {
-    "secular-buddhist-philosophy": "Counting breaths is the first meditation instruction ever given; a counting verb built from the numerals keeps the practice audible.",
-    "pre-industrial-wisdom": "The shepherd's evening count, the pantry's autumn count — enumeration as care, not audit."
+    "secular-buddhist-philosophy": "Counting breaths is one meditation technique, and a verb built from the first positive digits makes that association easy to remember. Counting itself is not necessarily mindful practice.",
+    "pre-industrial-wisdom": "A shepherd's evening count or a pantry's seasonal tally can be an act of care and preparation. Enumeration can also be an audit, and context must distinguish the uses."
   },
   "tags": {
-    "activity": "The keeper's evening practice",
-    "cognition": "Mindful enumeration"
+    "activity": "Enumerating a set for a stated or recoverable purpose",
+    "cognition": "Exact or approximate counting within Phi's documented limits"
   }
 }

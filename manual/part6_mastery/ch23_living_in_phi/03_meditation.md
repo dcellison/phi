@@ -20,7 +20,7 @@ henoi.
 (Enough.)
 ```
 
-The last is a complete practice in one word. Breathe in; on the exhale, `he-no-i`, three beats. What the ternary numbers teach about sufficiency, the breath learns faster.
+The last is a complete practice in one word. Breathe in; on the exhale, `he-no-i`, three beats. `Henoi` names a contextual judgment of sufficiency; in meditation, the practitioner chooses to apply that judgment to this breath or session rather than deriving it from a number.
 
 ## The particles as attention training
 

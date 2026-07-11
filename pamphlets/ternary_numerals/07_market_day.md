@@ -1,6 +1,6 @@
 # Part 7: Market day
 
-One scene, everything at once. The primer's market chapter gave this pamphlet its opening egg-count; here is a full market morning, worked as continuous practice: quantities, natures, positions, honest abouts, and one calculation, braided the way a real day braids them. Read it aloud first; the notes follow.
+One scene, everything at once. The primer's market chapter gave this pamphlet its opening egg-count; here is a full market morning, worked as continuous practice: exact quantities, estimates, classifications, positions, and one calculation, braided the way a real day braids them. Read it aloud first; the notes follow.
 
 ### The walk in
 
@@ -36,7 +36,7 @@ child DAT trader one three-group LIFE.CLF egg give. trader DAT child one THING.C
 (The child gives the trader three eggs. The trader gives the child one bowl.)
 ```
 
-The trader's answer to `wia` is exact: a trade is one of the places exactness is *owed*; the counted thing is leaving your hands into someone else's trust. Note the classifiers working their quiet distinction in one sentence: eggs travel as `lipha`, the bowl arrives as `themo`, and the two people around the exchange were introduced with `himo`. Three natures in one transaction, each honored once.
+The trader's answer to `wia` is exact because the participants need the count for this exchange. Note the classifiers marking different categories in one scene: eggs travel as `lipha`, the bowl arrives as `themo`, and the two people around the exchange were introduced with `himo`. The choices foreground those categories but do not by themselves establish that the exchange is fair or respectful.
 
 ### The remainder, portioned
 
@@ -45,31 +45,31 @@ lopia ta lipha powea phelu. lo mia mua womu wi shao ta himo miona nai.
 child one LIFE.CLF egg hold. PL 1SG LOC home two three-group one HUM.CLF person be.
 (The child holds one egg. At home we are seven people.)
 
-ta powea wi shao ta miona phanoi. — lia. henoi ma nai.
-one egg two three-group one person portion. — yes. ENOUGH NEG be.
-(One egg portions among seven people. — Yes. It is not enough.)
+ta lipha powea nela wi shao ta himo miona phanoi. mu lipha powea kelai. ta lipha powea therilu. henoi ma nai.
+one LIFE.CLF egg COORD two three-group one HUM.CLF person portion. zero LIFE.CLF egg equals. one LIFE.CLF egg rest. ENOUGH NEG be.
+(One egg divided among seven people results in zero whole eggs for each, with one egg remaining. It is not enough.)
 
 phao seniku. phao shola su lo mia sulopa kealo sholo haolu.
 parent smile. parent QUOT.COMP OPT PL 1SG soup create QUOT.COMP.CLOSE speak.
 (The parent smiles. The parent says: "Let us make soup.")
 ```
 
-The arithmetic is allowed to fail gracefully (`henoi ma nai`, not enough, is a complete and honest result) and the household routes around it the household way. One egg among seven is not a division problem; it is a soup decision.
+The arithmetic supplies an integer quotient and remainder; `henoi ma nai` then makes a separate sufficiency judgment. Dividing one egg among seven people would require fractions or a practical transformation, so the household chooses soup. The calculation does not make that choice for them.
 
 ### The walk home
 
 ```
 shero shua. rei silero.
 night come. eighty-one-group star.
-(Night comes. Countless stars.)
+(Night comes. A great many stars.)
 
 lopia sui philo ta shao wi lipha powea to wisola. lopia mua korua ta themo noru phelu.
 child DUR day one three-group two LIFE.CLF egg PST exchange. child LOC heart one THING.CLF bowl hold.
 (Across the day the child traded five eggs. In her heart she holds one bowl.)
 ```
 
-The day ends where the system does: an exact memory of what was given, an exact grip on what was gained, and a sky that no one counts. If the pamphlet has one sentence to leave in your pocket, it is the pairing of those registers (`ta shao wi` for the eggs, `rei` for the stars) each precise about exactly as much as the truth requires.
+The day ends with an exact memory of what was exchanged and a scale estimate for a sky that nobody counted. The pairing (`ta shao wi` for the eggs, bare `rei` for the stars) illustrates two different claims: one exact, one approximate. Context, knowledge, and consequences determine which is accurate.
 
 ### Drill: your own market
 
-Write the scene's skeleton for your own errand (real or invented) in eight to twelve sentences: one exact count that is owed, one `phina` or `soli` that is honest, one classifier for each nature that appears, one `nu` position, one exchange with `wei … loa`, and one quantity you decline to number at all. Read it aloud the next day and audit it like a journal week (the evidentiality pamphlet, part 7): every number either earned its exactness or wore its about.
+Write the scene's skeleton for your own errand (real or invented) in eight to twelve sentences: one exact count whose difference affects the event, one contextually justified `phina` or `soli`, one optional classifier choice you can explain, one `nu` position, one exchange with `wei … loa`, and one quantity expressed without a number. Read it aloud the next day and audit each choice: what did you know, what did the situation require, and what would an exact, approximate, quantified, or qualitative alternative change?
