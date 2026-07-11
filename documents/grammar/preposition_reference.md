@@ -14,7 +14,7 @@ Prepositions over clauses are the four clause-relators `lao` (BECAUSE), `pheo` (
 |---|---|---|---|
 | `mua` | LOC | in, inside, at (never a motion endpoint) | `mia mua shero sheluo.` (I listen in the night.) |
 | `nia` | ON | on, upon, surface contact | `shumu nia kerou thuroa.` (The moss grows on the stone.) |
-| `leo` | ABOVE | above, over | `neparu leo toremoa nai.` (The cloud is above the mountain.) |
+| `leo` | ABOVE | above, over | `neparu leo tomora nai.` (The cloud is above the mountain.) |
 | `phou` | BELOW | under, below | `lo shalu phou repha wepu.` (The fish pass below the bridge.) |
 | `neo` | FRONT | in front of, facing | `wheo neo womu nai.` (The elder is in front of the house.) |
 | `noe` | BEHIND | behind, at the rear of | `misheko noe tomi nulae.` (The cat sleeps behind the pot.) |
@@ -42,7 +42,7 @@ The carves are ruled: `kau` promises arrival, `wea` does not; `mua` is where an 
 | Word | Gloss | Meaning | Example |
 |---|---|---|---|
 | `pai` | NEAR | near, close to | `shelira pai silawo nai.` (The forest is near the village.) |
-| `woe` | FAR | far from | `toremoa woe silawo nai.` (The mountain is far from the village.) |
+| `woe` | FAR | far from | `tomora woe silawo nai.` (The mountain is far from the village.) |
 
 What counts as near depends on scale, and the pair carries no measurements; see the natural-ruler ruling in `/canon.md`.
 
@@ -61,8 +61,8 @@ With the day-cycle nouns these are Phi's time-telling; see the natural-clock rul
 |---|---|---|---|
 | `nua` | COM | with, in company of | `mia nua melu thalo.` (I walk with the friend.) |
 | `roe` | INS | with, by means of | `mia roe kiru wolea kati.` (I cut the wood with the chisel.) |
-| `wei` | DAT | to, for (recipient or beneficiary) | `mia wei thia loamira loa.` (I give you a gift.) |
-| `sheo` | THAN | than, compared to | `toremoa sheo shiro mo raelu nai.` (The mountain is taller than the tree.) |
+| `wei` | DAT | to, for (recipient or beneficiary) | `mia wei thia loami loa.` (I give you a gift.) |
+| `sheo` | THAN | than, compared to | `tomora sheo shiro mo raelu nai.` (The mountain is taller than the tree.) |
 | `phea` | AS | as, in the manner of | `lopia phea pelori meliho.` (The child sings like a bird.) |
 | `whuo` | WITHOUT | without, in absence of | `mia whuo lumoi thalo.` (I walk without a lantern.) |
 

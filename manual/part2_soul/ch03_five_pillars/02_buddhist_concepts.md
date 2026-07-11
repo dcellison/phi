@@ -32,7 +32,7 @@ The most important concept Phi takes from Buddhism is interconnectedness, what p
 
 A flower needs sun, soil, rain, and the seed it came from. The world isn't a collection of separate things but a single flowing process.
 
-This insight inspires Phi's compositional lexicon, though the composition runs through sound, not through assembly. A dream isn't an isolated phenomenon; `whemura` opens with the same `whe` as `wheiluro` (mist) and `whemoa` (empty), words for things with a shape but no solid edge. The kinship arrives in the mouth before any explanation names it. Complex words don't decompose into a private dictionary of syllables; each one resonates with the words it was coined beside.
+This insight inspires Phi's compositional lexicon, though the composition runs through sound, not through assembly. A dream isn't an isolated phenomenon; `whemura` opens with the same `whe` as `wheiru` (mist) and `whemoa` (empty), words for things with a shape but no solid edge. The kinship arrives in the mouth before any explanation names it. Complex words don't decompose into a private dictionary of syllables; each one resonates with the words it was coined beside.
 
 ## The natural path
 

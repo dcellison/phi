@@ -53,7 +53,7 @@ Convert aloud, statement to question, until fronting `wa` costs nothing:
 ```
 1. thia shalu nuola.
 2. lo shia kau silawo so thalo.
-3. sulae loamira kolua.
+3. sulae loami kolua.
 ```
 
 Then the judgment half: for each English question below, say whether Phi wants `wa`, a gap-word, or `wela … welo`, then say it.
@@ -62,4 +62,4 @@ Then the judgment half: for each English question below, say whether Phi wants `
 5. "Where is the dog?"
 6. "I wonder whether the child is asleep."
 
-Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa sulae loamira kolua.` In a family room the bare name stands, exactly as the naming pamphlet licenses. 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the answer will; no `wa`. 6 `mia wela lopia nulae welo phaelo.` The uncertainty wrapped whole, the wondering felt outside it, as ch19 renders wondering.
+Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa sulae loami kolua.` In a family room the bare name stands, exactly as the naming pamphlet licenses. 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the answer will; no `wa`. 6 `mia wela lopia nulae welo phaelo.` The uncertainty wrapped whole, the wondering felt outside it, as ch19 renders wondering.

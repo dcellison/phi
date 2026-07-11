@@ -92,14 +92,14 @@ OPT UNIV [REL alive be] joy heart hold.
 (May all that lives hold a joyful heart.)
 ```
 
-***nitho howeli nela sorae*** (The North Wind and the Sun) is Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lurekoi thola`, gentleness and kind speech bring fruit.
+***nitho howeli nela sorae*** (The North Wind and the Sun) is Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit.
 
 The rest of the shelf:
 
 | Phi title | Text |
 |---|---|
 | `mophira nela lo kalora` | Schleicher's fable, transmuted from the 1868 German |
-| `ta haoluma` | the Babel story, Genesis 11:1-9, its scattering retold as sowing |
+| `ta haluma` | the Babel story, Genesis 11:1-9, its scattering retold as sowing |
 | `theula miona` | Article 1 of the Universal Declaration of Human Rights |
 | `thiku miona lue silero` | three moments from *The Little Prince*: the request, the secret, the responsibility |
 | `phewo phelui` | from *The Prophet*: on love, on children, on giving |

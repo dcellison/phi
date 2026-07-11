@@ -63,12 +63,12 @@ The opener announces what kind of content follows. The closer marks exactly wher
 **Phi structure:** I [DECL.COMP they left DECL.COMP.CLOSE] understand.
 
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
-The `mena` opens the embedded statement. The `meno` closes it. The main verb `shelomui` follows, and there is no ambiguity about what belongs to the embedded clause versus the main clause.
+The `mena` opens the embedded statement. The `meno` closes it. The main verb `shelomu` follows, and there is no ambiguity about what belongs to the embedded clause versus the main clause.
 
 ## Why closers matter
 
@@ -79,16 +79,16 @@ The answer lies in Phi's word order. Phi is strictly SOV (Subject-Object-Verb), 
 **Without closer (ambiguous):**
 
 ```
-mia mena shia to wepu shelomui
+mia mena shia to wepu shelomu
 1SG DECL.COMP 3SG PST go understand
 ```
 
-Is this "I understand that they left"? Or is it attempting to say something about "they leaving-understanding"? Where does `wepu` end and `shelomui` begin? Two verbs in sequence, no boundary marked.
+Is this "I understand that they left"? Or is it attempting to say something about "they leaving-understanding"? Where does `wepu` end and `shelomu` begin? Two verbs in sequence, no boundary marked.
 
 **With closer (unambiguous):**
 
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -98,12 +98,12 @@ Now the boundary is explicit. The `meno` announces: the embedded clause has ende
 This is especially important when clauses nest:
 
 ```
-mia mena thia mena shia to wepu meno phaelo meno shelomui
+mia mena thia mena shia to wepu meno phaelo meno shelomu
 1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
-Three verbs in sequence: `wepu`, `phaelo`, `shelomui`. Without the closers, parsing would be impossible. With them, each `meno` resolves exactly one `mena`, like matched parentheses in mathematics.
+Three verbs in sequence: `wepu`, `phaelo`, `shelomu`. Without the closers, parsing would be impossible. With them, each `meno` resolves exactly one `mena`, like matched parentheses in mathematics.
 
 ## The opener-closer pattern
 

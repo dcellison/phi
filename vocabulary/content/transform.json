@@ -1,10 +1,9 @@
 {
-  "word": "moreluki",
+  "word": "moluki",
   "gloss": "transform",
-  "ipa": "/mo̞.re̞.ˈlu.ki/",
+  "ipa": "/mo̞.ˈlu.ki/",
   "syllables": [
     "mo",
-    "re",
     "lu",
     "ki"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Transform / Change Form Completely / Metamorphose",
   "description": "To change completely in form, nature, or character: caterpillar to butterfly, grief to acceptance, conflict to reconciliation. Not gradual adjustment but metamorphosis. The original remains connected to the transformed, yet they are not the same.",
-  "sound_symbolism": "The word is long, four syllables for a change that happens in stages. 'Mo' begins nasal and closed, the original form contained. 'Re' and 'lu' move the word through its transition, rhotic then liquid. The velar stop of 'ki' ends it cleanly, the new form distinct.",
-  "grammatical_notes": "Functions as a transitive or intransitive verb: 'thena moreluki' (the thing transforms). Source and result can be marked with 'lue' (from) and 'muo' (into). Stronger than helui (change); implies fundamental rather than superficial alteration.",
+  "sound_symbolism": "'Mo' begins nasal and closed, the original form held within itself. 'Lu' releases that form into flowing transition, and the velar stop of 'ki' ends the movement cleanly with the transformed form distinct.",
+  "grammatical_notes": "Functions as a transitive or intransitive verb: 'thena moluki' (the thing transforms). Source and result can be marked with 'lue' (from) and 'muo' (into). Stronger than helui (change); implies fundamental rather than superficial alteration.",
   "pillars": {
     "solarpunk-values": "Social transformation is necessary and possible—systems that harm can become systems that heal through committed collective change.",
     "secular-buddhist-philosophy": "Transformation is possible because nothing has fixed essence—the self that suffers can transform into the self that is free."

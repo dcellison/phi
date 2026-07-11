@@ -42,7 +42,7 @@ A possessor re-anchors them: *thia lawe* is your left, *keruko kuri* is keruko's
 Sixteen prepositions place things relative to other things, and every one works the same way: relator first, then the landmark, the whole phrase standing after the subject. The vertical:
 
 ```
-neparu leo toremoa nai.
+neparu leo tomora nai.
 cloud ABOVE mountain be.
 (The cloud is above the mountain.)
 ```
@@ -104,7 +104,7 @@ forest NEAR village be.
 ```
 
 ```
-toremoa woe silawo nai.
+tomora woe silawo nai.
 mountain FAR village be.
 (The mountain is far from the village.)
 ```
@@ -120,7 +120,7 @@ shia sheo pelio wetha masue.
 Where ranking is the honest point, *sheo* with *mo* ranks openly:
 
 ```
-toremoa sheo shiro mo raelu nai.
+tomora sheo shiro mo raelu nai.
 mountain THAN tree CMPR tall be.
 (The mountain is taller than the tree.)
 ```

@@ -88,7 +88,7 @@ LOC ORD two moment 1SG PL think PST INCH gather.
 (In the second moment, I began to gather my thoughts.)
 morris: "my second, as I began to gather my wits together,"
 
-mia whuo masue waolia to pa phaelo.
+mia whuo masue waora to pa phaelo.
 1SG WITHOUT measure wondrous PST INCH feel.
 (I began to feel wonder without measure.)
 morris: "mere measureless wonder:"
@@ -119,7 +119,7 @@ mia mua luera shero mena luphore phou lunei keru tiripe meno to ki hi nila.
 morris: "as last night I had seen it gleaming under the moon."
 ```
 
-**Notes:** the two-moment structure is Morris's own ("my first feeling... my second"), carried by the ordinal `nu` on moments; the relief reuses the first chapter's discovery that discontent falls (`lepa`) from a man near this river, here with `loshi` as the falling's manner, a delicious falling. The wonder is `waolia` without `masue`, wonder without measure, both words already in the lexicon. The seasons stand plainly against each other, winter named as the frost-season the way the first chapter named it, and the riverside trees are the witnesses Morris calls them: they cause the seeing (`ka nila`), and what the morning's date is rests on `ke`, seemingly early summer, inference from the trees rather than a calendar. The river's sparkle is `tiripe`, the quiver-verb, the fast involuntary motion that water's light genuinely is, bright as its manner; the same verb under the moon carries "gleaming," and the narrator's last-night sight bears `hi`, the direct evidential, because that seeing is the one thing in the paragraph he witnessed for certain.
+**Notes:** the two-moment structure is Morris's own ("my first feeling... my second"), carried by the ordinal `nu` on moments; the relief reuses the first chapter's discovery that discontent falls (`lepa`) from a man near this river, here with `loshi` as the falling's manner, a delicious falling. The wonder is `waora` without `masue`, wonder without measure, both words already in the lexicon. The seasons stand plainly against each other, winter named as the frost-season the way the first chapter named it, and the riverside trees are the witnesses Morris calls them: they cause the seeing (`ka nila`), and what the morning's date is rests on `ke`, seemingly early summer, inference from the trees rather than a calendar. The river's sparkle is `tiripe`, the quiver-verb, the fast involuntary motion that water's light genuinely is, bright as its manner; the same verb under the moon carries "gleaming," and the narrator's last-night sight bears `hi`, the direct evidential, because that seeing is the one thing in the paragraph he witnessed for certain.
 
 ## luphonu — The boat
 
@@ -139,7 +139,7 @@ CONS PROX zero surprise PST be. CONC river face PASS know be 1SG think tie PST f
 (So this was no surprise: although the river's face was known, I felt my thoughts in a tangle.)
 morris: "so it was no wonder that I felt rather puzzled in despite of the familiar face of the Thames."
 
-mia we koma rato nela kuenora to phaelo.
+mia we koma rato nela kuewa to phaelo.
 1SG ALSO head turn COORD strange PST feel.
 (I also felt my head turning, and a strangeness.)
 morris: "Withal I felt dizzy and queer;"
@@ -245,7 +245,7 @@ shia mua selu luphonu to ka manolu. mia wethalu to ki leiro. mia whuo hasi muo p
 morris: "and as he now lay just stemming the tide, and I had my clothes off, I jumped in without more ado."
 ```
 
-**Notes:** the puzzlement that will run through the whole chapter takes its Phi form here: `remo tiwa`, thoughts tied, the same threads the first chapter's sleepless night watched weave themselves into a story, now knotted instead. The dizziness is `koma rato`, the head's turning, felt (`phaelo`) the way the body's states are felt by rule; "queer" is `kuenora`'s own quality, strangeness. The river keeps Morris's metaphor outright: its familiar `menoa`, face. Biffin's gives up its name as the Thames gave up its own, and the boathouse's work survives in the carrying-person the narrator expects to find, with `ho` marking "I daresay" as the assumption it is.
+**Notes:** the puzzlement that will run through the whole chapter takes its Phi form here: `remo tiwa`, thoughts tied, the same threads the first chapter's sleepless night watched weave themselves into a story, now knotted instead. The dizziness is `koma rato`, the head's turning, felt (`phaelo`) the way the body's states are felt by rule; "queer" is `kuewa`'s own quality, strangeness. The river keeps Morris's metaphor outright: its familiar `menoa`, face. Biffin's gives up its name as the Thames gave up its own, and the boathouse's work survives in the carrying-person the narrator expects to find, with `ho` marking "I daresay" as the assumption it is.
 
 The tide needs no coined word: the flood-tide is `rena rihe phialu`, the water that rises, the ebb is the water fallen near halfway, and "stemming the tide" is making the boat stay in the flow (`selu`, the river's own verb). The waterman's boat is judged by eye throughout, and `ke` marks every one of those judgments: solid-looking, seemed to expect me, seemed astonished; against them the narrator's one hard piece of evidence, the muddy Thames of his own century, carries `hi`, seen with his own eyes. His compulsion to speak is `na`, necessity: "couldn't help saying" is what the obligation particle is for. Mud-color, `muphia welisha`, composes by the color rule that gives Phi gray and orange.
 
@@ -515,7 +515,7 @@ mia mena mia shola wa ha rena mia sano luphore nai. sholo haolu meno to pula.
 (I was going to say, "But is this the river I know?")
 morris: "I was going to say, \"But is this the Thames?\""
 
-whekai mia mua waolia to maeli manolu.
+whekai mia mua waora to maeli manolu.
 CONTR 1SG LOC wondrous PST quiet stay.
 (But I held my peace in my wonder.)
 morris: "but held my peace in my wonder,"
@@ -535,7 +535,7 @@ THROUGH river bridge PST stand. ON PL shore PL home PST stand.
 (A bridge stood across the stream, and houses stood on its banks.)
 morris: "For though there was a bridge across the stream and houses on its banks,"
 
-whekai theula thena lue luera shero to ki ru moreluki.
+whekai theula thena lue luera shero to ki ru moluki.
 CONTR UNIV thing ABL past night PST PFV INTS transform.
 (But how everything had utterly transformed since last night!)
 morris: "how all was changed from last night!"
@@ -580,7 +580,7 @@ bridge ENOUGH tall PST be. PL boat BELOW bridge PST POT simple go.
 (It was high enough, too, for the river traffic to pass easily beneath it.)
 morris: "high enough also to let ordinary river traffic through easily."
 
-leo repha moru sheloi kuenora loshi thiku womu to whano.
+leo repha moru sheloi kuewa loshi thiku womu to whano.
 ABOVE bridge wall MANY strange joyful small home PST stand.
 (Above the parapet rose quaint, delightful little buildings.)
 morris: "Over the parapet showed quaint and fanciful little buildings,"
@@ -595,7 +595,7 @@ ON PL home MANY REL pigment COORD gold hold turn device COORD small tall build P
 (On them stood many pigment-and-gold-bearing vanes and little spire-works.)
 morris: "beset with painted and gilded vanes and spirelets."
 
-lo meluna nela pheralu kerou thiku to ki moreluki. whekai mu thumiro piloe nia kerou to nai.
+lo meluna nela pheralu kerou thiku to ki moluki. whekai mu thumiro piloe nia kerou to nai.
 PL season COORD rain stone small PST PFV transform. CONTR zero smoke spot ON stone PST be.
 (The seasons and the rain had weathered the stone a little; but there was no smoke-stain on it.)
 morris: "The stone was a little weathered, but showed no marks of the grimy sootiness"
@@ -605,7 +605,7 @@ LOC REL 1SG know large village ON UNIV old home smoke spot PST HAB be.
 (In the great city I knew, smoke-stains were the rule on every old building.)
 morris: "which I was used to on every London building more than a year old."
 
-wei mia ha waolia repha to nai.
+wei mia ha waora repha to nai.
 DAT 1SG PROX wondrous bridge PST be.
 (In short, to me it was a wonder of a bridge.)
 morris: "In short, to me a wonder of a bridge."
@@ -659,7 +659,7 @@ PROX count 1SG mouth PST CAUS close. 1SG mouth AS REL INS key PASS close door PS
 (That count of years shut my mouth: it was like a door a key had closed.)
 morris: "The date shut my mouth as if a key had been turned in a padlock fixed to my lips;"
 
-mia mena rena se po ma shelomui thena to ki kelu meno to nila.
+mia mena rena se po ma shelomu thena to ki kelu meno to nila.
 1SG DECL.COMP REL PASS POT NEG understand thing PST PFV become DECL.COMP.CLOSE PST see.
 (For I saw that something had happened that could not be understood.)
 morris: "for I saw that something inexplicable had happened,"
@@ -750,7 +750,7 @@ PL speak OUT.OF 1SG mouth PST fall. BECAUSE 1SG foolish PST be 1SG face red PST 
 (The words slipped out of my mouth, and I blushed for my fatuity.)
 morris: "I blushed for my fatuity as the words slipped out of my mouth,"
 
-mia keloe roe kesho seniku mia to nila. mia mena mia ha seniku shelomui meno to remo.
+mia keloe roe kesho seniku mia to nila. mia mena mia ha seniku shelomu meno to remo.
 1SG companion INS middle smile 1SG PST see. 1SG DECL.COMP 1SG PROX smile understand DECL.COMP.CLOSE PST think.
 (My companion looked at me with a half-smile which I thought I understood.)
 morris: "and my companion looked at me with a half smile which I thought I understood;"
@@ -801,7 +801,7 @@ CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST
 (So I put my hand into my garment, and said, "How many?")
 morris: "So I put my hand into my waistcoat-pocket, and said, \"How much?\""
 
-whekai kuenora phaelo mua mia to manolu. mia mena ha lo keluo thena wei ha miona loa po kanelu nai meno to phaelo.
+whekai kuewa phaelo mua mia to manolu. mia mena ha lo keluo thena wei ha miona loa po kanelu nai meno to phaelo.
 CONTR strange feel LOC 1SG PST stay. 1SG DECL.COMP PROX PL metal thing DAT PROX person give POT err be DECL.COMP.CLOSE PST feel.
 (Though a strange feeling stayed in me: that offering these metal pieces to this man might be a wrong step.)
 morris: "though still with the uncomfortable feeling that perhaps I was offering money to a gentleman."
@@ -811,7 +811,7 @@ shia menoa remo tiwa to ka nila. shia to haolu.
 (He looked puzzled, and said--)
 morris: "He looked puzzled, and said,"
 
-wia. mia rena thia haolu thena po ma shelomui.
+wia. mia rena thia haolu thena po ma shelomu.
 how many. 1SG REL 2SG speak thing POT NEG understand.
 ("How many? I don't quite understand what you are asking about.")
 morris: "\"How much? I don't quite understand what you are asking about."
@@ -831,7 +831,7 @@ POL. 1SG DAT 2SG harmful NEG wish. CONTR 1SG DAT 2SG what NEC give.
 ("Please don't take it amiss; I mean no offence: but what ought I to give you?")
 morris: "\"Please don't take it amiss if I ask you; I mean no offence: but what ought I to pay you?"
 
-mia kuenora miona nai. mia thia lo keno ma sano. mia thia lo thiku keluo thena we ma sano.
+mia kuewa miona nai. mia thia lo keno ma sano. mia thia lo thiku keluo thena we ma sano.
 1SG strange person be. 1SG 2SG PL custom NEG know. 1SG 2SG PL small metal thing ALSO NEG know.
 (You see I am a stranger, and don't know your customs--or your coins.)
 morris: "You see I am a stranger, and don't know your customs--or your coins.\""
@@ -841,7 +841,7 @@ POST thing 1SG OUT.OF garment hand full PL small metal thing PST take.
 (And therewith I took a handful of the little metal pieces out of my garment.)
 morris: "And therewith I took a handful of money out of my pocket,"
 
-mia phea rena mua kuenora muila laniru miona to phoa.
+mia phea rena mua kuewa muila laniru miona to phoa.
 1SG AS REL LOC strange earth journey person PST do.
 (As one does when journeying in a strange land.)
 morris: "as one does in a foreign country."
@@ -906,7 +906,7 @@ mia thue phialu miona kolua. ha mia riola nai. mia wei theula miona ha ro phoa.
 (And you see, I carry people over the water: this is my work, which I would do for anybody.)
 morris: "And you see this ferrying and giving people casts about the water is my _business_, which I would do for anybody;"
 
-lu mia nua riola lo loamira pilu lo miona ha ru kuenora so nila.
+lu mia nua riola lo loami pilu lo miona ha ru kuewa so nila.
 COND 1SG COM labor PL gift take PL person PROX INTS strange FUT see.
 (So if I took gifts along with the work, people would see that as very strange.)
 morris: "so to take gifts in connection with it would look very queer."
@@ -926,7 +926,7 @@ shia to theisa hola. shia siora to phaelo.
 (And he laughed loud and merrily.)
 morris: "And he laughed loud and merrily,"
 
-ha nua riola loamira pilu remo wei shia ru monelu nophi to ke nai.
+ha nua riola loami pilu remo wei shia ru monelu nophi to ke nai.
 PROX COM labor gift take think DAT 3SG INTS amused story PST INFER be.
 (As if the idea of being given things for his work were a very funny tale.)
 morris: "as if the idea of being paid for his work was a very funny joke."
@@ -1002,7 +1002,7 @@ CONTR 1SG DECL.COMP 1SG 2SG weary CAUS become DECL.COMP.CLOSE see. 1SG harmful N
 ("But I see that I am wearying you, and I ask your pardon.)
 morris: "\"But I see that I am boring you, and I ask your pardon."
 
-mia mena thia kuenora miona nai meno ke sano. thia lue ru phirae lokue na kamo.
+mia mena thia kuewa miona nai meno ke sano. thia lue ru phirae lokue na kamo.
 1SG DECL.COMP 2SG strange person be DECL.COMP.CLOSE INFER know. 2SG ABL INTS different place NEC arrive.
 (For, not to mince matters, I can tell that you are a stranger, and must come from a very different place.)
 morris: "For, not to mince matters, I can tell that you _are_ a stranger, and must come from a place very unlike England."
@@ -1022,7 +1022,7 @@ BECAUSE 2SG ABL luck 1SG ORD one PST find.
 (Since by good luck you found me first.)
 morris: "since you have stumbled on me first."
 
-shai ha li thia phena loamira so nai. pai theula miona phea mia welao kulo miona so kelu. sheloi miona mo welao kulo miona so kelu.
+shai ha li thia phena loami so nai. pai theula miona phea mia welao kulo miona so kelu. sheloi miona mo welao kulo miona so kelu.
 CONC PROX RESTR 2SG kind gift FUT be. NEAR UNIV person AS 1SG good guide person FUT become. MANY person CMPR good guide person FUT become.
 (Though it will be a mere kindness on your part: almost anyone would make as good a guide as I, and many a much better one.)
 morris: "Though indeed it will be a mere kindness on your part, for almost anybody would make as good a guide, and many much better.\""
@@ -1047,7 +1047,7 @@ mia mena mia shola li lu thia lo thiku keluo thena kelomi sholo haolu meno to pa
 (I was going to say: "Only if you will accept the metal pieces.")
 morris: "I was going to say, Unless you will let me pay you properly;"
 
-whekai lao mia mo korua mokela haolu to sukima phaelo mia haolu to moreluki.
+whekai lao mia mo korua mokela haolu to sukima phaelo mia haolu to moluki.
 CONTR BECAUSE 1SG CMPR heart sick speak PST fear feel 1SG speak PST transform.
 (But fearing to stir up the mind-sickness again, I transformed my sentence.)
 morris: "but fearing to stir up Colney Hatch again, I changed the sentence into,"
@@ -1223,7 +1223,7 @@ COND labor DAT 2SG CMPR heavy be NAME keru ALSO labor find. 3SG NEAR 2SG dwell.
 (And if you find it too much, Bright is on the look-out for a stroke of work, and he lives close by you.)
 morris: "and if you find it too much, there is George Brightling on the look out for a stroke of work, and he lives close handy to you."
 
-no nila. ha kuenora miona mia phea miso kulo pilu pula. ha mua ha philo mia monelu so ka kelu.
+no nila. ha kuewa miona mia phea miso kulo pilu pula. ha mua ha philo mia monelu so ka kelu.
 IMP see. PROX strange person 1SG AS REFL guide take wish. PROX LOC PROX day 1SG amused FUT CAUS become.
 (But see: this stranger wishes to take me as his guide, and that will keep me amused today.)
 morris: "But see, here is a stranger who is willing to amuse me to-day by taking me as his guide about our country-side,"

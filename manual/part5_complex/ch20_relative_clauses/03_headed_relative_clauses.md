@@ -31,7 +31,7 @@ mia rena serao nai shelu theo.
 A location describes the noun:
 
 ```
-rena nia toremoa nai womu phelora nai.
+rena nia tomora nai womu phelora nai.
 REL ON mountain be home beautiful be.
 (The home that is on the mountain is beautiful.)
 ```

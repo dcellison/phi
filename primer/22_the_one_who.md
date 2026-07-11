@@ -39,7 +39,7 @@
 
 ## IV
 
-> siora: **rena mia loamira to loa miona.**
+> siora: **rena mia loami to loa miona.**
 > lopia: **mia.**
 > **lo lopia hola.**
 

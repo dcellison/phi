@@ -69,21 +69,21 @@ Click or hover on a row for a longer explanation of that gloss.
 | ALL | kau | to (allative) | To, the goal of motion, with arrival promised. Its counterpart `wea` (toward) makes no such promise. |
 | ASSUM | ho | assumed | Marks that the speaker is assuming or supposing something rather than knowing it, one of Phi's four evidentials alongside `hi` (witnessed), `ke` (inferred), and `ti` (told). |
 | CAUS | ka | causative | The causative: the one who causes an action becomes the subject, and the original subject becomes the object. `lopia nulae` (the child sleeps) becomes `mia lopia ka nulae` (I make the child sleep). |
-| CESS | te | cessative | The aspect for an action's ending: `mia te shelomui` is I stop understanding. |
-| CMPR | mo | comparative | The comparative marker, paired with `sheo` (than): `toremoa sheo shiro mo raelu nai` is the mountain is taller than the tree. |
+| CESS | te | cessative | The aspect for an action's ending: `mia te shelomu` is I stop understanding. |
+| CMPR | mo | comparative | The comparative marker, paired with `sheo` (than): `tomora sheo shiro mo raelu nai` is the mountain is taller than the tree. |
 | COND | lu | conditional | The realis conditional, announcing a real or likely if. Its irrealis counterpart, for a condition that did not or cannot hold, is the two-particle `lu he`. |
 | COORD | nela | and | And, the basic coordinating conjunction, joining words, phrases, or clauses of equal weight. |
-| DAT | wei | to, for (recipient) | To, for, marking the recipient or beneficiary of an action: `mia wei thia loamira loa` is I give you a gift. |
+| DAT | wei | to, for (recipient) | To, for, marking the recipient or beneficiary of an action: `mia wei thia loami loa` is I give you a gift. |
 | DECL.COMP | mena | that-clause (opener) | Opens an embedded clause that reports the content of a statement rather than its exact words. It always closes with `meno`. |
 | DECL.COMP.CLOSE | meno | that-clause (closer) | Closes a `mena` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
 | DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
 | DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
-| FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomui` singles out love, not other things, as what is understood. |
+| FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomu` singles out love, not other things, as what is understood. |
 | FUT | so | future | The future tense particle. Present tense carries no particle at all. |
 | HAB | ro | habitual | The aspect for a recurring or characteristic action, distinct from `si` (mid-flow, happening now): `mia ro theo` is I read regularly. |
 | HUM.CLF | himo | people classifier | The classifier for human beings. Counting people with `himo` is a small act of respect, setting them apart from objects: `ta himo melu` is one friend, counted as a person. |
 | IMP | no | imperative | The imperative marker, announcing a command or request. |
-| INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomui` is I begin to understand. |
+| INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomu` is I begin to understand. |
 | INFER | ke | inferred | Marks that the speaker reached the claim by inference from evidence, not by direct witness or report. |
 | INT.COMP | wela | embedded question (opener) | Opens an embedded yes/no question (I wonder whether). It always closes with `welo`. |
 | INT.COMP.CLOSE | welo | embedded question (closer) | Closes a `wela` clause, marking where the embedded question ends so the main verb can follow without ambiguity. |
@@ -101,7 +101,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | PFV | ki | perfective | The aspect for completion at whatever point the tense sets as its reference: `ki` alone is have done, `to ki` is had done, `so ki` is will have done. |
 | PL | lo | plural | The plural marker for an unquantified noun. A numeral or quantifier already implies plurality, so `lo` never combines with one. |
 | POL | pi | politeness | Marks that the whole utterance is polite or respectful, and can combine with other Slot 0 particles: `pi no lumani naphe` is please help the family. |
-| POT | po | possibility (can/may) | Marks possibility or ability: `mia po shelomui` is I can understand, or I am able to understand. |
+| POT | po | possibility (can/may) | Marks possibility or ability: `mia po shelomu` is I can understand, or I am able to understand. |
 | PROX/DIST | ha, ra | this/that | `ha` (this, near) and `ra` (that, far), Phi's two demonstratives, marking distance from the speaker rather than gender or class. |
 | PST | to | past | The past tense particle. |
 | Q | wa | question | Opens a sentence to announce a yes/no question, always sentence-initial. |

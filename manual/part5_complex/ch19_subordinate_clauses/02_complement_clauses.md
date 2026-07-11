@@ -79,7 +79,7 @@ mia kua ne sulae nai ma sano.
 ```
 
 ```
-shia thela peloru thuroa shelomui.
+shia thela peloru thuroa shelomu.
 3SG how flower grow understand.
 (They understand how the flowers grow.)
 ```

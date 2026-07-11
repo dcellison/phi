@@ -29,7 +29,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 - These English clusters naturally lack aspiration
 - Isolate that softer p, t, k quality for Phi words
 
-**Test words**: `wepu`, `thomari`, `shelomui`
+**Test words**: `wepu`, `thomari`, `shelomu`
 
 ## Alveolar n and t
 

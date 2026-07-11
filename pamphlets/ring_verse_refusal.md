@@ -16,7 +16,7 @@ Take it word by word, honestly.
 
 **To rule** is where the verse dies. Phi has no word for it. Not an oversight: the refusals are canon, and the vocabulary of domination was never coined. The nearest words the lexicon offers are `kulo`, to guide (which requires the guided to be going somewhere they mean to go), and `theluo`, steward, who keeps something for others rather than over them. Every candidate replaces power-over with care-for, and the sentence's engine is gone.
 
-**Lord** fails the same way. There are persons, partners, elders, guardians, guides, stewards; there is no one set above. **Throne** has nowhere to stand: there are seats, and the word for them (`meilopa`) is the verb *sit* given a place to land, furniture for resting, not for reigning.
+**Lord** fails the same way. There are persons, partners, elders, guardians, guides, stewards; there is no one set above. **Throne** has nowhere to stand: there are seats, and the word for them (`meipa`) is the verb *sit* given a place to land, furniture for resting, not for reigning.
 
 **Bind** is the subtle one. Phi has `nolami`, to bond, and its entry example is `lo mia wiso nolami`: *we bond with each other*. The reciprocal pronoun is nearly grammaticalized into the word: a Phi bond is something entered, not imposed. The Ring binds; `nolami` joins. They are opposite gestures wearing similar clothes, and the language only owns the kind you choose.
 

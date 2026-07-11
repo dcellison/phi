@@ -167,7 +167,7 @@ These were explicitly decided and should not silently fork again:
   adjective→verb direction is refused, completing one-word-one-class
   — no content entry lists two parts of speech, and the validator
   enforces it. Entering a state is `kelu` (become) with the quality
-  before it (`lurekoi seroli kelu`, the fruit ripens — the Velveteen
+  before it (`lureko seroli kelu`, the fruit ripens — the Velveteen
   text's own `thia shewo kelu`); causing one is ordinary Slot 1
   voice on the verbs of being and becoming (`mia noru hiso ka
   kelu`, I clean the bowl; `mia lopia shena ka nai`, I keep the
@@ -273,7 +273,7 @@ These were explicitly decided and should not silently fork again:
   gauging against a shared standard, not counting units (`shia
   sheo pelio wetha masue.`, they measure the cloth against an
   arm, the entry's own example); ranking, where ranking is the
-  honest point, is `sheo` with `mo` (`toremoa sheo shiro mo raelu
+  honest point, is `sheo` with `mo` (`tomora sheo shiro mo raelu
   nai.`, the mountain is taller than the tree); journey-scale
   distance is counted time of travel (`ruela wi philo thalo
   nai.`, the path is a two-day walk, the nouns-describe rule at
@@ -370,7 +370,7 @@ These were explicitly decided and should not silently fork again:
   the hands' verbs: `loa` (give), `howela` (receive), `phowe`
   (share), and `wisola` (exchange), whose grammar leans mutual
   (`lo mia wiso wisola.`, we exchange with each other), with
-  `loamira` (gift) and `piru` (trader) beside them and exact
+  `loami` (gift) and `piru` (trader) beside them and exact
   counting owed at the moment of exchange, as the market-day
   text teaches. Worth stays carved: `rolia` is inherent, `sone`
   is a verb because valuing is something someone does, `simoe`

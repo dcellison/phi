@@ -13,13 +13,13 @@ sun warm be. CONS PL flower grow.
 ```
 
 ```
-mia to theo nela to shelomui. thelao mia so thumela.
+mia to theo nela to shelomu. thelao mia so thumela.
 1SG PST read COORD PST understand. CONS 1SG FUT teach.
 (I read and understood. Therefore I will teach.)
 ```
 
 ```
-shia to ma haolu. thelao lo miona to ma shelomui.
+shia to ma haolu. thelao lo miona to ma shelomu.
 3SG PST NEG speak. CONS PL person PST NEG understand.
 (They did not speak. Therefore the people did not understand.)
 ```
@@ -37,7 +37,7 @@ tree beautiful be. CONTR forest small be.
 ```
 
 ```
-mia to shonela. whekai mia shelomui ma nai.
+mia to shonela. whekai mia shelomu ma nai.
 1SG PST learn. CONTR 1SG understand NEG be.
 (I learned. However I do not understand.)
 ```

@@ -2,7 +2,7 @@
 
 The first word of a Phi sentence can declare what the whole sentence is *for*. These are the Slot 0 framing particles: chapter 9 catalogs them; this section is about what framing does to a conversation.
 
-*wa thia shelomui.* — Do you understand?
+*wa thia shelomu.* — Do you understand?
 
 The question is announced before it is asked. In English, a question often reveals itself only at the final rising tone: the listener processes a statement and then reinterprets it. In Phi, `wa` settles the matter in the first syllable: what follows is an inquiry, not an assertion. Nothing said afterward can turn out, retroactively, to have been a demand.
 

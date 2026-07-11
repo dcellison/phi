@@ -4,7 +4,7 @@ We've seen the cracks in our inherited language and the tradition of people who 
 
 Phi's bet is yes. The bet is specific. The grammar puts the verb last, so context comes before action and reaction has to wait for reflection. The vocabulary has no words for weapons and no easy ones for hierarchy, while care, sharing, and repair sit close to hand. Nothing in the grammar genders anyone. The numbers resist turning people into rankings. The sounds themselves are hard to bark. None of this is decoration on the philosophy; each is the philosophy, implemented.
 
-And Phi is not a thought experiment on paper. The lexicon holds over nine hundred words, each carrying its own reasoning, and the language has a shelf of literature: the Metta Sutta (*lothea thole*, the Practice of Love), Aesop's *North Wind and the Sun*, the Heart Sutra, chapters of the Tao Te Ching, *The Velveteen Rabbit* entire, and more. The fable's moral lands as `moli nela phena haolu lurekoi thola`, gentleness and kind speech bring fruit. Part VII is your map to the whole shelf.
+And Phi is not a thought experiment on paper. The lexicon holds over nine hundred words, each carrying its own reasoning, and the language has a shelf of literature: the Metta Sutta (*lothea thole*, the Practice of Love), Aesop's *North Wind and the Sun*, the Heart Sutra, chapters of the Tao Te Ching, *The Velveteen Rabbit* entire, and more. The fable's moral lands as `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit. Part VII is your map to the whole shelf.
 
 Because Phi structures ideas differently, moving a thought into it is not translation but *transmutation*, rebuilding the idea from Phi's own concepts. That practice gets a full chapter in Part VI; you'll have the tools by then.
 

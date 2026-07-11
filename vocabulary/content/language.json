@@ -1,10 +1,9 @@
 {
-  "word": "haoluma",
+  "word": "haluma",
   "gloss": "language",
-  "ipa": "/hä.o̞.ˈlu.mä/",
+  "ipa": "/hä.ˈlu.mä/",
   "syllables": [
     "ha",
-    "o",
     "lu",
     "ma"
   ],
@@ -12,9 +11,9 @@
     "noun"
   ],
   "concept": "Language / The Whole of a People's Speech",
-  "description": "A language: the whole system of a people's speech — its words, sounds, and ways. The verb 'haolu' (speak) sits complete inside it, grounded by 'ma': speaking made a whole. Not the tongue: 'lathoe' is anatomy only, and Phi does not copy English's body-metaphor for speech. Phi itself is a haoluma, and this word is how the language finally names its own kind.",
-  "sound_symbolism": "The whole of 'haolu' flows first — open breath into liquid — and 'ma' grounds it, the way a shared language grounds the people who speak it. Four syllables of unhurried weight for a concept that deserves them.",
-  "grammatical_notes": "Noun, counted with 'nophe': 'ta nophe haoluma' (one language). 'mia wi haoluma sano.' (I know two languages.) From the Babel text: 'theula muila ta haoluma to phelu.' (The whole earth held one language.)",
+  "description": "A language: the whole system of a people's speech — its words, sounds, and ways. It is built from speech's breath and flow, grounded by 'ma': speaking made a shared whole. Not the tongue: 'lathoe' is anatomy only, and Phi does not copy English's body-metaphor for speech. Phi itself is a haluma, and this word is how the language names its own kind.",
+  "sound_symbolism": "'Ha' begins in open breath, the material of speech. 'Lu' lets that breath flow between people, and 'ma' grounds it as a durable shared system. The form remains kin to 'haolu' (speak) without containing the verb whole.",
+  "grammatical_notes": "Noun, counted with 'nophe': 'ta nophe haluma' (one language). 'mia wi haluma sano.' (I know two languages.) From the Babel text: 'theula muila ta haluma to phelu.' (The whole earth held one language.)",
   "pillars": {
     "peace-linguistics-practices": "The field's own object, named at last: a language as a practice a people shares, not an instrument one wields. That the word grounds speech in 'ma' is the claim in miniature."
   },

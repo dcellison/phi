@@ -54,7 +54,7 @@ Translate these sentences into natural English.
 
 6. `rena mua shelira nai womu phelora nai`
 
-7. `mia rena shia wei mia to haolu nophi shelomui`
+7. `mia rena shia wei mia to haolu nophi shelomu`
 
 8. `rena naphe naphe howela`
 
@@ -230,15 +230,15 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 9. `shia rena mia to loa peloru lothea`
 10. `rena lo mia to kealo womu ha nai`
 11. `rena lopia thumela miona phue nai`
-12. `mia rena thia wei mia to haolu nophi shelomui`
+12. `mia rena thia wei mia to haolu nophi shelomu`
 13. `rena mia to theo serao shelu phelora nai`
 14. `rena shea kealo shea howela`
-15. `rena nia toremoa nai womu phelora nai`
+15. `rena nia tomora nai womu phelora nai`
 16. `mia rena rena nophi kealo miona to thumela lopia sano`
 17. `rena mena mia so shua meno sano miona ha nai`
 18. `wa thia rena mia to kealo nila`
 19. `rena mia to hea nophi mena shea mua shelira nai meno to haolu`
-20. `rena rena shia hea shelomui phue nai`
+20. `rena rena shia hea shelomu phue nai`
 
 ### Phi to English
 
@@ -260,8 +260,8 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 4. `rena mua thepalu thuroa peloru phelora nai`
 5. `mia rena thia to thumela lopia sano`
 6. `rena shea kealo miona phue nai`
-7. `rena mia to nila womu nia toremoa nai`
-8. `mia rena shia to haolu shelomui`
+7. `rena mia to nila womu nia tomora nai`
+8. `mia rena shia to haolu shelomu`
 9. `mia nia rena mua shelira nai ruela to thalo`
 10. `rena mia to naphe miona ha nai`
 

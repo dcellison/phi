@@ -7,11 +7,11 @@ Phi has no formal conjugations, no honorific verb forms, no T-V pronoun split. Y
 **Fullness.** Topic-drop is Phi's casual warmth: once a subject is established, intimate speech lets it fall away. Formal speech retains subjects, spells out referents, closes every frame. The same two sentences:
 
 ```
-mia shelu theo. shelomui.
+mia shelu theo. shelomu.
 1SG book read. understand.
 (I read the book. Understand.) [between friends]
 
-mia shelu theo. mia shelomui.
+mia shelu theo. mia shelomu.
 1SG book read. 1SG understand.
 (I read the book. I understand.) [for the record]
 ```

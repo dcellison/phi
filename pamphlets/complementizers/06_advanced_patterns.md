@@ -9,14 +9,14 @@ When we think about what others think, or know what others know, we nest `mena`/
 ### Two levels
 
 ```
-mia mena thia mena shia to wepu meno phaelo meno shelomui
+mia mena thia mena shia to wepu meno phaelo meno shelomu
 1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
 Structure:
 ```
-mia mena [thia mena [shia to wepu] meno phaelo] meno shelomui
+mia mena [thia mena [shia to wepu] meno phaelo] meno shelomu
     └────────────────────────────────────────────┘
               └─────────────────────┘
 ```
@@ -85,7 +85,7 @@ mia mena thia wela shia to wepu welo phaelo meno sano
 ### Quotative inside declarative
 
 ```
-mia mena shia shola mia so turema sholo haolu meno shelomui
+mia mena shia shola mia so turema sholo haolu meno shelomu
 1SG DECL.COMP 3SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE speak DECL.COMP.CLOSE understand
 (I understand that they said: "I will return.")
 ```
@@ -219,7 +219,7 @@ For the ambitious learner, here are grammatically correct but demanding examples
 ### Three-level mixed nesting
 
 ```
-mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomui
+mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomu
 1SG DECL.COMP 2SG INT.COMP 3SG DECL.COMP friend FUT return DECL.COMP.CLOSE know INT.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you wonder whether they know that the friend will return.)
 ```

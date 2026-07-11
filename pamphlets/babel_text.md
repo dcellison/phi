@@ -1,6 +1,6 @@
-# ta haoluma — the Babel text
+# ta haluma — the Babel text
 
-*For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11:1-9 is the story of how one speech became many, and nearly every constructed language has carried it, a convention Jeffrey Henning proposed as a standard in 1996. Phi's ground truth is the King James Version, the community's usual reference text, stored verbatim and cited verse by verse. Two of Phi's words were coined here: `haoluma` (language) and `thiwera` (scatter). It is a transmutation, not a translation, and it departs from Genesis deliberately: canon refuses the vocabulary of domination, so where the King James has the LORD descend, see, judge, and scatter, Phi's teller is `muila`, the earth itself, and the scattering is sowing. Every verse is cited below, the departures included, so the distance between the tellings can be measured exactly.*
+*For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11:1-9 is the story of how one speech became many, and nearly every constructed language has carried it, a convention Jeffrey Henning proposed as a standard in 1996. Phi's ground truth is the King James Version, the community's usual reference text, stored verbatim and cited verse by verse. Two of Phi's words were coined here: `haluma` (language) and `thiwera` (scatter). It is a transmutation, not a translation, and it departs from Genesis deliberately: canon refuses the vocabulary of domination, so where the King James has the LORD descend, see, judge, and scatter, Phi's teller is `muila`, the earth itself, and the scattering is sowing. Every verse is cited below, the departures included, so the distance between the tellings can be measured exactly.*
 
 *Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and the King James verse it stands against, so a reader can see exactly what the transmutation kept and what it changed.*
 
@@ -9,7 +9,7 @@
 ## ta haolu — One speech
 
 ```
-theula muila ta haoluma nela ta haolu to phelu.
+theula muila ta haluma nela ta haolu to phelu.
 UNIV earth one language COORD one speak PST hold.
 (The whole earth held one language, and one speech.)
 kjv: "And the whole earth was of one language, and of one speech."
@@ -25,7 +25,7 @@ PL 3SG plain PST find. PL 3SG LOC plain PST settle.
 kjv: "that they found a plain in the land of Shinar; and they dwelt there."
 ```
 
-**Notes:** the opening keeps both of the verse's terms: `ta haoluma nela ta haolu`, one language and one speech, the coined word beside the plain event noun of speaking, as the King James keeps both. The journey is `laniru`, purposeful travel across distance, and "the east" is the compound the registry has always held, `sorae thorui`, the sun's beginning. Shinar is the one thing the verse loses: the name carries no meaning Phi can translate, and this text's custom, like the Babel name itself below, is to keep only the names that mean.
+**Notes:** the opening keeps both of the verse's terms: `ta haluma nela ta haolu`, one language and one speech, the coined word beside the plain event noun of speaking, as the King James keeps both. The journey is `laniru`, purposeful travel across distance, and "the east" is the compound the registry has always held, `sorae thorui`, the sun's beginning. Shinar is the one thing the verse loses: the name carries no meaning Phi can translate, and this text's custom, like the Babel name itself below, is to keep only the names that mean.
 
 ## whalo silawo — The great village
 
@@ -71,7 +71,7 @@ earth REL PL person build large village COORD tall wall PST see.
 (The earth saw the great village and the tall wall that the people built.)
 kjv: "And the LORD came down to see the city and the tower, which the children of men builded."
 
-muila mena theula miona ta punoa nai. lo shia ta haoluma phelu meno to sano.
+muila mena theula miona ta punoa nai. lo shia ta haluma phelu meno to sano.
 earth DECL.COMP UNIV person one society be. PL 3SG one language hold DECL.COMP.CLOSE PST know.
 (The earth knew that all the people were one society, and that they held one language.)
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
@@ -87,7 +87,7 @@ kjv: "and this they begin to do: and now nothing will be restrained from them, w
 ## thiwera — The sowing
 
 ```
-ta haoluma wei theula muila henoi to ma nai.
+ta haluma wei theula muila henoi to ma nai.
 one language DAT UNIV earth ENOUGH PST NEG be.
 (One language was not enough for the whole earth.)
 kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
@@ -102,7 +102,7 @@ PL person large village PST CESS build.
 (And they ceased building the great village.)
 kjv: "and they left off to build the city."
 
-ta haoluma lo haoluma to kelu.
+ta haluma lo haluma to kelu.
 one language PL language PST become.
 (The one language became many languages.)
 kjv: "because the LORD did there confound the language of all the earth:"
@@ -113,7 +113,7 @@ kjv: "because the LORD did there confound the language of all the earth:"
 ## nomei — The name
 
 ```
-thelao silawo nomei lo haoluma nai.
+thelao silawo nomei lo haluma nai.
 CONS village name PL language be.
 (Therefore the village's name is Many-Languages.)
 kjv: "Therefore is the name of it called Babel;"
@@ -124,24 +124,24 @@ ABL PROX place earth PL person PST scatter.
 kjv: "and from thence did the LORD scatter them abroad upon the face of all the earth."
 ```
 
-**Notes:** Hebrew hears Babel against balal, to confuse: the name is a pun on what happened there. Phi keeps the custom and drops the judgment: the place is named `lo haoluma`, the Many Languages, which is simply what it became, and `thelao` carries the verse's own "Therefore." Genesis says the scattering twice, once as act and once as epitaph, and the text keeps both, the second time as the place's own story: from here, the earth scattered the peoples.
+**Notes:** Hebrew hears Babel against balal, to confuse: the name is a pun on what happened there. Phi keeps the custom and drops the judgment: the place is named `lo haluma`, the Many Languages, which is simply what it became, and `thelao` carries the verse's own "Therefore." Genesis says the scattering twice, once as act and once as epitaph, and the text keeps both, the second time as the place's own story: from here, the earth scattered the peoples.
 
 ## The gardens
 
 ```
-theula haoluma thepalu nai.
+theula haluma thepalu nai.
 UNIV language garden be.
 (Every language is a garden.)
 
-we ha haoluma thepalu nai.
+we ha haluma thepalu nai.
 ALSO PROX language garden be.
 (This language, too, is a garden.)
 ```
 
-**Notes:** the coda is Phi's own, with no verse behind it and no citation claimed: the sowing frame carried to its conclusion. If the peoples were scattered as seeds, then every language since is one of the gardens that grew. The last line is Phi referring to itself: `ha haoluma`, this language.
+**Notes:** the coda is Phi's own, with no verse behind it and no citation claimed: the sowing frame carried to its conclusion. If the peoples were scattered as seeds, then every language since is one of the gardens that grew. The last line is Phi referring to itself: `ha haluma`, this language.
 
 ---
 
 ## What the transmutation changed
 
-*Gap log: language → `haoluma` (coined: speak, made whole; deliberately not the tongue, `lathoe` stays anatomy, refusing English's metaphor); scatter → `thiwera` (coined: broadcast wide, the seed-syllable inside it); one speech → `ta haolu`, the event noun beside the coined word, both of the verse's terms kept; journeyed → `laniru`; Shinar → dropped, the one name with no meaning to carry; "Go to, let us" → the optative `su` throughout the builders' speech; brick → `mueri kerou` (composed); slime for morter → `muphia` as their `nolami`, mud as their binding; city → `whalo silawo` (composed: Phi's settlements stay human-scale, and the excess is the story); tower → a relative clause, not a noun; lest we be scattered → the fear said plainly, `se thiwera ... ma pula`, on `muila menoa`, the face of the earth; the LORD → **no title, by refusal**: the teller is `muila`, the earth, which needs no descent, sees what stands on it, and knows what one people with one language can do; nothing will be restrained → the double negative turned over, everything they imagined could become; confound → stated as the observable change, one language became many; punishment → husbandry, the scattering as sowing on the very face the builders feared; they left off to build → `to te lorima`, the cessative; Babel → `lo haoluma`, the pun kept, the judgment dropped; and the gardens coda stands outside the verses, cited to nothing, Phi's own conclusion. The traditional reading is one verse away in any Bible; this is what the story says in a language that cannot call diversity a curse.*
+*Gap log: language → `haluma` (coined from speech's breath and flow, grounded as a shared whole; deliberately not the tongue, `lathoe` stays anatomy, refusing English's metaphor); scatter → `thiwera` (coined: broadcast wide, the seed-syllable inside it); one speech → `ta haolu`, the event noun beside the coined word, both of the verse's terms kept; journeyed → `laniru`; Shinar → dropped, the one name with no meaning to carry; "Go to, let us" → the optative `su` throughout the builders' speech; brick → `mueri kerou` (composed); slime for morter → `muphia` as their `nolami`, mud as their binding; city → `whalo silawo` (composed: Phi's settlements stay human-scale, and the excess is the story); tower → a relative clause, not a noun; lest we be scattered → the fear said plainly, `se thiwera ... ma pula`, on `muila menoa`, the face of the earth; the LORD → **no title, by refusal**: the teller is `muila`, the earth, which needs no descent, sees what stands on it, and knows what one people with one language can do; nothing will be restrained → the double negative turned over, everything they imagined could become; confound → stated as the observable change, one language became many; punishment → husbandry, the scattering as sowing on the very face the builders feared; they left off to build → `to te lorima`, the cessative; Babel → `lo haluma`, the pun kept, the judgment dropped; and the gardens coda stands outside the verses, cited to nothing, Phi's own conclusion. The traditional reading is one verse away in any Bible; this is what the story says in a language that cannot call diversity a curse.*

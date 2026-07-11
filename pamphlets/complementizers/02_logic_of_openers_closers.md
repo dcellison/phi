@@ -19,7 +19,7 @@ The problem emerges at the boundary. After the embedded clause's verb, we immedi
 Consider this attempted sentence without boundary marking:
 
 ```
-*mia shia to wepu shelomui
+*mia shia to wepu shelomu
 1SG 3SG PST go understand
 ```
 
@@ -35,7 +35,7 @@ The structure is ambiguous because nothing marks where the embedded content ends
 By adding a complementizer pair, Phi resolves the ambiguity completely:
 
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -44,7 +44,7 @@ Now the structure is unambiguous:
 - `mena` announces: "an embedded statement is beginning"
 - `shia to wepu` is the content of that statement
 - `meno` announces: "the embedded statement has ended"
-- `shelomui` is clearly the main verb
+- `shelomu` is clearly the main verb
 
 The listener knows exactly what belongs to what.
 
@@ -85,12 +85,12 @@ The word `miona` (person) is the head noun. When it appears, the relative clause
 **Declarative embedding (pre-verbal):**
 
 ```
-mia mena shia nophi kealo meno shelomui
+mia mena shia nophi kealo meno shelomu
 1SG DECL.COMP 3SG story create DECL.COMP.CLOSE understand
 (I understand that they create stories.)
 ```
 
-Here, after `kealo` (the embedded verb), we have `shelomui` (the main verb). Without `meno`, we would have verb-verb ambiguity. The closer is required.
+Here, after `kealo` (the embedded verb), we have `shelomu` (the main verb). Without `meno`, we would have verb-verb ambiguity. The closer is required.
 
 ## The structural principle
 
@@ -135,7 +135,7 @@ Each `(` has exactly one `)`. They nest correctly. You can parse unambiguously.
 Phi's complementizers work identically:
 
 ```
-mia mena thia mena shia wepu meno phaelo meno shelomui
+mia mena thia mena shia wepu meno phaelo meno shelomu
     └─────────────────────────────┘
          └──────────────┘
 ```

@@ -61,7 +61,7 @@ This is intentionally marked provisional: `naweri` is stronger than English *ret
 ### Confirm understanding without agreement
 
 ```
-mia shelomui. whekai mia ma nawo.
+mia shelomu. whekai mia ma nawo.
 1SG understand. CONTR 1SG NEG agree.
 (I understand. However, I do not agree.)
 ```

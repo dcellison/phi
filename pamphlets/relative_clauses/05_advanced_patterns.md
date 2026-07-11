@@ -230,7 +230,7 @@ shia wei mia nophi to haolu. rena mia to hea nophi mena shea mua shelira nai men
 3SG DAT 1SG story PST speak. REL 1SG PST hear story DECL.COMP peace LOC forest be DECL.COMP.CLOSE PST speak.
 (they told me a story. the story that i heard said that peace is in the forest.)
 
-mia rena shia to haolu shelomui. shea mua mia nai.
+mia rena shia to haolu shelomu. shea mua mia nai.
 1SG REL 3SG PST speak understand. peace LOC 1SG be.
 (i understand what they said. peace is in me.)
 ```

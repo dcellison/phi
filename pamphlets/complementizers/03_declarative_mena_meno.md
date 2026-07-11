@@ -15,7 +15,7 @@ The embedded statement follows standard Phi word order (SOV). The main verb come
 **Basic example:**
 
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -25,7 +25,7 @@ Breaking this down:
 - `mena`: opens embedded statement
 - `shia to wepu`, embedded clause: they left
 - `meno`: closes embedded statement
-- `shelomui`: main verb (understand)
+- `shelomu`: main verb (understand)
 
 ## Sound symbolism
 
@@ -54,7 +54,7 @@ shia mena pheralu so shua meno nohero
 ```
 
 ```
-lo mia mena nophi shewo nai meno shelomui
+lo mia mena nophi shewo nai meno shelomu
 PL 1SG DECL.COMP story true be DECL.COMP.CLOSE understand
 (We understand that the story is true.)
 ```
@@ -124,7 +124,7 @@ The embedded clause can contain any tense or aspect marking:
 ### Past tense (`to`)
 
 ```
-mia mena shia to kamo meno shelomui
+mia mena shia to kamo meno shelomu
 1SG DECL.COMP 3SG PST arrive DECL.COMP.CLOSE understand
 (I understand that they arrived.)
 ```
@@ -176,7 +176,7 @@ mia mena shelu ki se kealo meno nila
 Negation inside the embedded clause uses `ma`:
 
 ```
-mia mena shia to ma wepu meno shelomui
+mia mena shia to ma wepu meno shelomu
 1SG DECL.COMP 3SG PST NEG go DECL.COMP.CLOSE understand
 (I understand that they did not leave.)
 ```
@@ -190,7 +190,7 @@ shia mena pheralu so ma shua meno nohero
 Negation of the main verb:
 
 ```
-mia mena shia to wepu meno ma shelomui
+mia mena shia to wepu meno ma shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE NEG understand
 (I do not understand that they left.)
 ```
@@ -198,7 +198,7 @@ mia mena shia to wepu meno ma shelomui
 Both can occur:
 
 ```
-mia mena shia to ma wepu meno ma shelomui
+mia mena shia to ma wepu meno ma shelomu
 1SG DECL.COMP 3SG PST NEG go DECL.COMP.CLOSE NEG understand
 (I do not understand that they did not leave.)
 ```
@@ -314,7 +314,7 @@ IMP DECL.COMP 3SG PST go DECL.COMP.CLOSE think
 `ko` focuses the element it precedes, so to focus the embedded clause, `ko` stands before `mena`:
 
 ```
-mia ko mena shia to wepu meno shelomui
+mia ko mena shia to wepu meno shelomu
 1SG FOC DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (It is that they left that I understand.)
 ```
@@ -325,14 +325,14 @@ When the subject of the main clause is clear from context, it can be dropped:
 
 **Full form:**
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
 **With topic-drop:**
 ```
-mena shia to wepu meno shelomui
+mena shia to wepu meno shelomu
 DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 ((I) understand that they left.)
 ```
@@ -384,7 +384,7 @@ shia mena mia mena mia so turema meno to haolu meno nohero
 ### Nested understanding
 
 ```
-mia mena thia mena shia towe nai meno phaelo meno shelomui
+mia mena thia mena shia towe nai meno phaelo meno shelomu
 1SG DECL.COMP 2SG DECL.COMP 3SG well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they are well.)
 ```

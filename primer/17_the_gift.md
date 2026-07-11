@@ -1,24 +1,24 @@
-# 17 · loamira
+# 17 · loami
 
-*You have been able to give since chapter six. This chapter gives you the noun for what changes hands,* **loamira** *(the gift, wearing the verb* loa *inside it), and the verb Phi may love best:* **phowe**, *to share. Nothing new in the grammar at all; only the household's economy of kindness, at full strength:*
+*You have been able to give since chapter six. This chapter gives you the noun for what changes hands,* **loami** *(the gift, wearing the verb* loa *inside it), and the verb Phi may love best:* **phowe**, *to share. Nothing new in the grammar at all; only the household's economy of kindness, at full strength:*
 
 ## I
 
 > **ne sulae shua. ne siora we shua.**
-> **sulae loamira kolua.**
-> **sulae wei phao loamira loa.**
-> **phao loamira howela. phao nemo nai.**
+> **sulae loami kolua.**
+> **sulae wei phao loami loa.**
+> **phao loami howela. phao nemo nai.**
 
 | new word | say it | it means |
 |---|---|---|
-| loamira | lo · a · mi · ra | gift |
+| loami | lo · a · mi · ra | gift |
 | nemo | ne · mo | grateful |
 
-*sulae arrives carrying a gift and gives it. Look at the word:* loa *sits whole inside* loamira, *the giving inside the given thing, the way* wapi *flies inside the wing. The parent receives it and is grateful, which in Phi is a way of being, said with* nai *like calm or goodness.*
+*sulae arrives carrying a gift and gives it. Look at the word:* loa *sits whole inside* loami, *the giving inside the given thing, the way* wapi *flies inside the wing. The parent receives it and is grateful, which in Phi is a way of being, said with* nai *like calm or goodness.*
 
 ## II
 
-> **loamira tomi nai.**
+> **loami tomi nai.**
 > **thiku tomi. welao tomi.**
 > phao: **mea. mea ne sulae.**
 > **tomi mua wonepa nai. wheo tomi nila.**
@@ -44,7 +44,7 @@
 > sulae: **mea. lo mia nemo nai.**
 > phao: **lo mia we nemo nai.**
 > **shero shua. ne sulae pao. ne siora pao.**
-> **lopia wei siora thiku loamira loa. — peloru.**
+> **lopia wei siora thiku loami loa. — peloru.**
 
 *Thanks are traded like the gifts were: we are grateful; we also are grateful. And at the gate, the child hands the visiting child a small gift of their own (a flower, of course), because that is what the garden is for, and because chapter six taught exactly this: things worth more at each handing.*
 

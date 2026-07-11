@@ -8,18 +8,18 @@ Learners coming from English face predictable challenges with Phi's complementiz
 
 **Wrong:**
 ```
-*mia mena shia to wepu shelomui
+*mia mena shia to wepu shelomu
 1SG DECL.COMP 3SG PST go understand
 ```
 
 **Right:**
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
-**Why it matters:** Without `meno`, the listener cannot know where the embedded clause ends. Is `wepu shelomui` a compound verb? Does `shelomui` belong to the embedded clause or the main clause?
+**Why it matters:** Without `meno`, the listener cannot know where the embedded clause ends. Is `wepu shelomu` a compound verb? Does `shelomu` belong to the embedded clause or the main clause?
 
 **How to avoid:**
 - Always pair `mena` with `meno`, `wela` with `welo`, `shola` with `sholo`
@@ -32,13 +32,13 @@ mia mena shia to wepu meno shelomui
 
 **Wrong:**
 ```
-*mia mena shia to wepu shelomui meno
+*mia mena shia to wepu shelomu meno
 1SG DECL.COMP 3SG PST go understand DECL.COMP.CLOSE
 ```
 
 **Right:**
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -80,13 +80,13 @@ REL story create person
 
 **Wrong:**
 ```
-*mia shelomui mena shia to wepu meno
+*mia shelomu mena shia to wepu meno
 1SG understand DECL.COMP 3SG PST go DECL.COMP.CLOSE
 ```
 
 **Right:**
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -194,13 +194,13 @@ COND 2SG go. 1SG NEG well feel
 
 **Wrong:**
 ```
-*mia mena thia wela shia wepu meno welo shelomui
+*mia mena thia wela shia wepu meno welo shelomu
 (closers in wrong order)
 ```
 
 **Right:**
 ```
-mia mena thia wela shia to wepu welo phaelo meno shelomui
+mia mena thia wela shia to wepu welo phaelo meno shelomu
 1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you wonder whether they left.)
 ```
@@ -283,19 +283,19 @@ When you make an error mid-sentence:
 
 **Option 1: Restart**
 ```
-*mia mena shia to wepu... *mia mena shia to wepu meno shelomui
+*mia mena shia to wepu... *mia mena shia to wepu meno shelomu
 (restart and complete correctly)
 ```
 
 **Option 2: Insert the closer**
 ```
-*mia mena shia to wepu shelomui... shekoi. mia mena shia to wepu meno shelomui
+*mia mena shia to wepu shelomu... shekoi. mia mena shia to wepu meno shelomu
 (correct yourself: "specifically, I [mena] they left [meno] understand")
 ```
 
 **Option 3: Simplify**
 ```
-*mia mena shia to wepu... shia to wepu. mia shelomui
+*mia mena shia to wepu... shia to wepu. mia shelomu
 (break into simpler sentences: "They left. I understand.")
 ```
 

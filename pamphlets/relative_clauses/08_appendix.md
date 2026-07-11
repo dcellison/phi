@@ -57,13 +57,13 @@ rena mia mua ___ to thalo shelira
 
 When the noun is implied:
 ```
-rena lothea shelomui phue nai
+rena lothea shelomu phue nai
 "one who understands love is wise"
 ```
 
 `rena` can sometimes be omitted if structure is clear:
 ```
-lothea shelomui phue nai
+lothea shelomu phue nai
 ```
 
 ### What `rena` is NOT
@@ -128,7 +128,7 @@ lothea shelomui phue nai
 | thumela | teach | teach |
 | lothea | love | love |
 | sano | know | know |
-| shelomui | understand | understand |
+| shelomu | understand | understand |
 | thuroa | grow | grow |
 | naphe | help | help |
 | howela | receive | receive |

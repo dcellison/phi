@@ -135,7 +135,7 @@ B: shea miona lorea.
 peace person connect.
 (Peace connects people.)
 
-A: mia shelomui. whekai mia ma nawo.
+A: mia shelomu. whekai mia ma nawo.
 1SG understand. CONTR 1SG NEG agree.
 (I understand. However, I do not agree.)
 
@@ -173,7 +173,7 @@ A: lo mia ha masue phelona.
 PL 1SG PROX measure require.
 (We require this measurement.)
 
-B: mia shelomui. whekai miona sone po ma masue.
+B: mia shelomu. whekai miona sone po ma masue.
 1SG understand. CONTR person value POT NEG measure.
 (I understand. However, a person's value cannot be measured.)
 
@@ -213,7 +213,7 @@ A: ha keli phialu lorea. phialu thepalu lorea. thepalu ha keli lorea.
 PROX device water connect. water garden connect. garden PROX device connect.
 (The device connects to water. Water connects to the garden. The garden connects to the device.)
 
-B: mia ma shelomui.
+B: mia ma shelomu.
 1SG NEG understand.
 (I do not understand.)
 
@@ -291,7 +291,7 @@ B: sorae kenua ha keli lorea. ha keli sila lorea. sila sorae kenua lorea.
 sun energy PROX device connect. PROX device community connect. community sun energy connect.
 (Solar energy connects to this device. This device connects to the community. The community connects to solar energy.)
 
-A: mia ma shelomui.
+A: mia ma shelomu.
 1SG NEG understand.
 (I do not understand.)
 
@@ -360,11 +360,11 @@ A: mia theama phelona. ha masue theama ma nai.
 1SG care require. PROX measure care NEG be.
 (I need care. This measurement is not care.)
 
-B: mia shelomui. pi wa mia wei thia ha nepha po loa.
+B: mia shelomu. pi wa mia wei thia ha nepha po loa.
 1SG understand. POL Q 1SG DAT 2SG PROX medicine POT give.
 (I understand. May I give you this medicine?)
 
-A: mia ma nawo. mia ha nepha reo ma shelomui.
+A: mia ma nawo. mia ha nepha reo ma shelomu.
 1SG NEG agree. 1SG PROX medicine meaning NEG understand.
 (I do not agree. I do not understand the meaning of this medicine.)
 
@@ -499,7 +499,7 @@ A: lo mia wei thepalu phina phialu so loa.
 PL 1SG DAT garden FEW water FUT give.
 (We will give a little water to the garden.)
 
-B: mia ha reo ma shelomui. pi no ha reo lilea.
+B: mia ha reo ma shelomu. pi no ha reo lilea.
 1SG PROX meaning NEG understand. POL IMP PROX meaning clarify.
 (I do not understand this meaning. Please clarify it.)
 
@@ -507,7 +507,7 @@ A: shorela thepalu phialu phelona. lo mia luphore we shorupo. thelao lo mia wei 
 REPH garden water require. PL 1SG river ALSO protect. CONS PL 1SG DAT garden FEW water FUT give.
 (In other words, the garden needs water. We also protect the river. Therefore, we will give a little water to the garden.)
 
-B: mia ha reo shelomui. whekai phoe mia kanu mia remo phelona.
+B: mia ha reo shelomu. whekai phoe mia kanu mia remo phelona.
 1SG PROX meaning understand. CONTR ANT 1SG choose 1SG think require.
 (I understand this meaning. However, before I choose, I need to think.)
 
@@ -535,7 +535,7 @@ B: mia lo phelui to thekiro. mia wei lona lo shia to shorema.
 1SG PL word PST write. 1SG DAT meeting PL 3SG PST contribute.
 (I wrote the words. I contributed them to the meeting.)
 
-A: lo mia thia lo phelui to howela. lo mia ha reo shelomui.
+A: lo mia thia lo phelui to howela. lo mia ha reo shelomu.
 PL 1SG 2SG PL word PST receive. PL 1SG PROX meaning understand.
 (We received your words. We understand this meaning.)
 
@@ -934,7 +934,7 @@ This scenario tests habitat, biodiversity, decomposition, material return, and p
 Source terms outside Phi: `habitat`; `nutrient cycle`; `biodiversity`.
 
 ```
-A: serao shiro mua koashira to lepa.
+A: serao shiro mua koshira to lepa.
 old tree LOC grove PST fall.
 (An old tree fell in the grove.)
 
@@ -946,7 +946,7 @@ A: ruela shurano ma nai.
 path safe NEG be.
 (The path is not safe.)
 
-A: lo mia theula ha wolea mue koashira na kolua.
+A: lo mia theula ha wolea mue koshira na kolua.
 PL 1SG UNIV PROX wood OUT.OF grove NEC carry.
 (We must carry all this wood out of the grove.)
 
@@ -994,7 +994,7 @@ B: ha teru roe ha phelui se thelima.
 PROX process INS PROX word PASS describe.
 (This process is described with this source term.)
 
-A: mia lo phelui shelomui. whekai mia wela ha teru thela turema welo ma shelomui.
+A: mia lo phelui shelomu. whekai mia wela ha teru thela turema welo ma shelomu.
 1SG PL word understand. CONTR 1SG INT.COMP PROX process how return INT.COMP.CLOSE NEG understand.
 (I understand the words. However, I do not understand how this process returns.)
 
@@ -1006,7 +1006,7 @@ A: whekai nia ruela wolea pukea nai.
 CONTR ON path wood danger be.
 (However, the wood on the path is a danger.)
 
-B: lo mia theula ha wolea mue koashira lila kolua ralu nai.
+B: lo mia theula ha wolea mue koshira lila kolua ralu nai.
 PL 1SG UNIV PROX wood OUT.OF grove PURP carry free be.
 (We need not carry all this wood out of the grove.)
 
@@ -1018,7 +1018,7 @@ C: lo mia rena nia ruela nai wolea mue ruela so kolua.
 PL 1SG REL ON path be wood OUT.OF path FUT carry.
 (We will carry the wood that is on the path off the path.)
 
-C: ra wolea mua koashira so manolu. ruela shurano so nai.
+C: ra wolea mua koshira so manolu. ruela shurano so nai.
 DIST wood LOC grove FUT stay. path safe FUT be.
 (That wood will remain in the grove. The path will be safe.)
 

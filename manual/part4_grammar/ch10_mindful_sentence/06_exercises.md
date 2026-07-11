@@ -8,7 +8,7 @@ Translate these English sentences into Phi using the basic Subject-Object-Verb s
 
 1. I read the book. → *mia shelu theo*
 2. You help the garden. → *thia thepalu naphe*
-3. The parent understands the friend. → *phao melu shelomui*
+3. The parent understands the friend. → *phao melu shelomu*
 
 Now try these on your own:
 
@@ -128,26 +128,26 @@ Combine everything you have learned to translate these complex sentences:
 Exercise 1:
 4. *melu shelu theo*
 5. *mia phao naphe*
-6. *thia thepalu shelomui*
+6. *thia thepalu shelomu*
 
 Exercise 2:
 1. *phao melu to naphe*
-2. *thia shelu so shelomui*
+2. *thia shelu so shelomu*
 3. *mia thepalu so naphe*
 
 Exercise 3:
 1. *mia thepalu si naphe*
-2. *thia shelu ki shelomui*
+2. *thia shelu ki shelomu*
 3. *melu to si theo*
 
 Exercise 4:
 1. *wa melu naphe*
 2. *pi no thepalu naphe*
-3. *lu thia shelu shelomui…*
+3. *lu thia shelu shelomu…*
 
 Exercise 5:
 1. *thepalu se naphe*
-2. *shelu se shelomui*
+2. *shelu se shelomu*
 
 Exercise 6:
 1. *ra thepalu*
@@ -155,9 +155,9 @@ Exercise 6:
 3. *ha welao phao*
 
 Exercise 7:
-1. *wa thia ha shelu shelomui*
+1. *wa thia ha shelu shelomu*
 2. *pi no welao thepalu naphe*
-3. *lu mia shelu theo. mia so shelomui*
+3. *lu mia shelu theo. mia so shelomu*
 4. *lo melu sheloi shelu to si theo*
 5. *wa phao si naphe*
 

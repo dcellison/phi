@@ -15,7 +15,7 @@ The previous survey described a 906-word snapshot and must not be used as a curr
 | Former candidate | Current coverage | Consequence |
 |---|---|---|
 | wake | `nowae` (awaken) | Remove from the high-frequency verb list. |
-| butterfly | `philuewa` (butterfly) | Remove from the animal list. |
+| butterfly | `phiwapi` (butterfly) | Remove from the animal list. |
 | mouse | `misuki` (mouse) | Remove from the animal list. |
 | rabbit | `tupiwa` (rabbit) | Record as an existing animal root. |
 | berry | `mirulo` (berry) | Remove from the staple/nature list. |

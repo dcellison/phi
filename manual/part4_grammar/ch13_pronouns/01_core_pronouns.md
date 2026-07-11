@@ -67,7 +67,7 @@ CONC forest small be beautiful be.
 The second clause has no explicit subject. The forest, having just been mentioned, is understood to remain the topic.
 
 ```
-mia shelu theo. shelomui.
+mia shelu theo. shelomu.
 1SG book read. understand.
 (I read the book. [I] understand.)
 ```

@@ -32,7 +32,7 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 
 **Headless relative clauses** (when the noun is implicit):
 ```
-[rena lothea shelomui] shia
+[rena lothea shelomu] shia
 [REL love understand] 3SG
 (The one who understands love.)
 ```
@@ -76,7 +76,7 @@ mia shola mia so wepu sholo to haolu
 
 **Examples**:
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 
@@ -91,7 +91,7 @@ mia mena sorae sulae nai meno phaelo
 
 **Nesting**: `mena`/`meno` clauses can nest. Each `mena` must have its own `meno`:
 ```
-mia mena thia mena shia to wepu meno phaelo meno shelomui
+mia mena thia mena shia to wepu meno phaelo meno shelomu
 1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
@@ -121,7 +121,7 @@ shia wela mia to nila welo to thilou
 3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
 (They asked whether I had seen.)
 
-lo mia wela sorae phelora nai welo ma shelomui
+lo mia wela sorae phelora nai welo ma shelomu
 PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 (We don't know whether the sun is beautiful.)
 ```

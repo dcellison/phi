@@ -25,7 +25,7 @@
 ```
 
 ```
-mia mena shia to wepu meno shelomui
+mia mena shia to wepu meno shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -108,7 +108,7 @@ REL story create person
 
 **Nested example:**
 ```
-mia mena thia wela shia wepu welo phaelo meno shelomui
+mia mena thia wela shia wepu welo phaelo meno shelomu
     └─────────────────────────────────────────┘
               └───────────────────┘
 ```
@@ -125,7 +125,7 @@ mia mena thia wela shia wepu welo phaelo meno shelomui
 | `nohero` | believe | I believe that... |
 | `phaelo` | feel | I feel that... |
 | `remo` | think | I think that... |
-| `shelomui` | understand | I understand that... |
+| `shelomu` | understand | I understand that... |
 | `nila` | see (perceive) | I see that... |
 | `hea` | hear | I hear that... |
 | `haolu` | speak | They said that... |

@@ -1,20 +1,19 @@
 {
-  "word": "suiloe",
+  "word": "suilo",
   "gloss": "dew",
-  "ipa": "/su.i.ˈlo̞.e̞/",
+  "ipa": "/su.ˈi.lo̞/",
   "syllables": [
     "su",
     "i",
-    "lo",
-    "e"
+    "lo"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Dew / Morning Moisture / Night's Gift",
-  "description": "Tiny drops of water that form on cool surfaces during the night. 'Suiloe' names the quiet gift of darkness—moisture condensing in stillness, decorating grass and web with jewels that greet the dawn.",
-  "sound_symbolism": "The word forms drop by drop. 'Su' begins with silent sibilance, moisture gathering. The vowel hiatus 'u.i' suspends each tiny droplet. Then 'lo' holds liquid form, and final 'e' releases in the morning warmth, evaporating gently.",
-  "grammatical_notes": "Functions as a noun, usually uncountable: 'suiloe newai nai.' (The dew is fresh.) Associated with 'horathe' (dawn), freshness, and ephemeral beauty.",
+  "description": "Tiny drops of water that form on cool surfaces during the night. 'Suilo' names the quiet gift of darkness—moisture condensing in stillness, decorating grass and web with jewels that greet the dawn.",
+  "sound_symbolism": "The word forms drop by drop. 'Su' begins with silent sibilance, moisture gathering. The vowel hiatus 'u.i' suspends each tiny droplet, and 'lo' closes softly around its liquid form as water rests on a surface.",
+  "grammatical_notes": "Functions as a noun, usually uncountable: 'suilo newai nai.' (The dew is fresh.) Associated with 'horathe' (dawn), freshness, and ephemeral beauty.",
   "pillars": {
     "secular-buddhist-philosophy": "Dew teaches impermanence through beauty—each morning's jewels vanish by noon, yet return again, neither permanent nor truly gone.",
     "art-nouveau-aesthetics": "Dewdrops were beloved Art Nouveau motifs—tiny lenses of light on petal and leaf, nature's diamonds freely given."

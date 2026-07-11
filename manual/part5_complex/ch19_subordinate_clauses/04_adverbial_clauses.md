@@ -63,7 +63,7 @@ BECAUSE 3SG good teach PL child learn.
 ```
 
 ```
-lao mia to ma sheluo mia to ma shelomui.
+lao mia to ma sheluo mia to ma shelomu.
 BECAUSE 1SG PST NEG listen 1SG PST NEG understand.
 (Because I did not listen I did not understand.)
 ```
@@ -87,7 +87,7 @@ mia theo lila mia shonela.
 ```
 
 ```
-shia haolu lila lo miona shelomui.
+shia haolu lila lo miona shelomu.
 3SG speak PURP PL person understand.
 (They speak in order for the people to understand.)
 ```
@@ -117,7 +117,7 @@ CONC forest small be beautiful be.
 ```
 
 ```
-shai mia to ma shelomui to shonela.
+shai mia to ma shelomu to shonela.
 CONC 1SG PST NEG understand PST learn.
 (Although I did not understand, [I] learned.)
 ```
