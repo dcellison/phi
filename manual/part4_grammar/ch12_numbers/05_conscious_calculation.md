@@ -22,4 +22,4 @@ The pattern is the sentence pattern: operands first, operation verb last, result
 
 When the operands are real things rather than pure numbers, both carry the same classifier (you cannot gather two people with three trees), and for bare mathematics the classifiers are simply omitted.
 
-Notice that the arithmetic verbs are full content words. Core calculation at teaching pace gives each step a sentence someone can hear and check. Fluent speakers may still calculate quickly, and exact external notation can carry an arbitrary result; the design encourages attention without guaranteeing it.
+Notice that the arithmetic verbs are full content words. Core calculation at teaching pace gives each step a sentence someone can hear and check. Fluent speakers may still calculate quickly, and exact notation can carry an arbitrary result in a source record outside the Phi passage; the design encourages attention without guaranteeing it.

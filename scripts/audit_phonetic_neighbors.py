@@ -12,9 +12,6 @@ from pathlib import Path
 import random
 import re
 
-import external_register
-
-
 ROOT = Path(__file__).resolve().parent.parent
 VOCAB = ROOT / "vocabulary"
 DOC_ROOTS = ("documents", "manual", "pamphlets", "primer")
@@ -118,7 +115,7 @@ def corpus_counts(entries):
     counts = Counter()
 
     def phi_tokens(raw, strict=False):
-        core = external_register.analyze(raw).core_text
+        core = raw
         if re.search(r"[A-Z0-9=→—]", core):
             return []
         core = re.sub(r"\[[^]]*]|\([^)]*\)", " ", core)

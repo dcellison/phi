@@ -16,7 +16,7 @@ The module does not replace Phi's existing language of community, meetings, part
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panumori` resource, `theula` all, `theli` each |
 | Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kiremoa` criterion, `soneholu` tradeoff, `malonawi` compromise |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility |
-| Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `sano` know, `helui` change, `patha ... patho` exact material |
+| Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
 
 The Systems and Shared Infrastructure module supplies technical system, state, capacity, dependency, inspection, hazard, and specification terms. The Ecological Systems and Material Life module supplies resource, pollution, exposure, baseline, trend, model, and monitoring terms. The Philosophical Reasoning module supplies claims, evidence, criteria, logical assessment, uncertainty, and competing-value terms. None of those technical, ecological, or philosophical relations establishes who may decide or whether a governance action is legitimate.
 
@@ -133,7 +133,7 @@ Q PROX decision legitimate be.
 (Is this decision legitimate?)
 ```
 
-`nasholu` gives Phi a neutral word for a normative rule. Exact laws, policies, bylaws, constitutions, contracts, treaties, regulations, and customary formulations remain external when their wording or source force matters.
+`nasholu` gives Phi a neutral word for a normative rule. Exact laws, policies, bylaws, constitutions, contracts, treaties, regulations, and customary formulations remain in source material outside the Phi passage when their wording or source force matters.
 
 ```
 ha nasholu ha phoa phelona.
@@ -263,7 +263,7 @@ PROX institution DAT PL member PROX decision notify.
 (The institution notifies the members of this decision.)
 ```
 
-`siranomi` creates or preserves a durable account. Name source, recorder, time, provenance, version, access, exact payload, amendment history, and conflicts with testimony where those matter.
+`siranomi` creates or preserves a durable account. Name source, recorder, time, provenance, version, access, any exact source artifact outside the Phi passage, amendment history, and conflicts with testimony where those matter.
 
 ```
 lo mia ha kanusholu siranomi.
@@ -287,7 +287,7 @@ PROX member PROX decision appeal.
 (The member appeals this decision.)
 ```
 
-`helunari` changes part of a continuing rule, decision, record, proposal, procedure, or institutional arrangement while preserving identity and history. Exact old and new wording remains in the external register.
+`helunari` changes part of a continuing rule, decision, record, proposal, procedure, or institutional arrangement while preserving identity and history. Exact old and new wording remains in a separate source record.
 
 ```
 ha kowela ha nasholu helunari.
@@ -340,12 +340,12 @@ Some governance expressions remain clearer as combinations because their parts e
 | explicit end of applicability, authority, date, replacement, and retained record | repeal or revocation | Distinguishes ending a matter from `helunari` amendment of a continuing one. |
 | role, authority, benefit, concealment, exclusion, coercion, retaliation, harm, and accountability clauses | corruption, capture, domination, or abuse of office | Preserves the concrete power relations while exact critical frameworks remain source-faithful. |
 
-## Exact governance information
+## Source governance information
 
-Names and wording of peoples, nations, governments, states, communities, institutions, offices, jurisdictions, laws, constitutions, policies, bylaws, regulations, treaties, contracts, customary rules, rights claims, property categories, decision rules, ballots, budgets, currencies, dates, deadlines, identifiers, records, testimony, judgments, sanctions, and contested political, legal, or economic concepts still use `patha ... patho` when source identity or force matters. The module supplies relations around exact material; it does not normalize or translate the payload.
+Names and wording of peoples, nations, governments, states, communities, institutions, offices, jurisdictions, laws, constitutions, policies, bylaws, regulations, treaties, contracts, customary rules, rights claims, property categories, decision rules, ballots, budgets, currencies, dates, deadlines, identifiers, records, testimony, judgments, sanctions, and contested political, legal, or economic concepts remain outside the Phi passage when source identity or force matters. The module supplies relations around source material; it does not normalize or translate the artifact.
 
-Use `hasha ... hasho` for a temporary Phi-pronounceable adaptation only when source spelling is not authoritative. A guest political or institutional label remains external and does not acquire a Phi authority, role, jurisdiction, or entitlement merely because speakers use it repeatedly.
+Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not acquire a Phi authority, role, jurisdiction, or entitlement merely because speakers use it repeatedly.
 
-After an external form, state the analysis in Phi where useful: which people, institutions, roles, authority, jurisdiction, rules, entitlements, ownership claims, obligations, and procedures are involved; who proposed, decided, acted, refused, or was affected; which notice, record, evidence, coercion, retaliation, redress, appeal, and review relations matter; and what remains disputed.
+State the analysis in Phi where useful: which people, institutions, roles, authority, jurisdiction, rules, entitlements, ownership claims, obligations, and procedures are involved; who proposed, decided, acted, refused, or was affected; which notice, record, evidence, coercion, retaliation, redress, appeal, and review relations matter; and what remains disputed.
 
-Exact carriage does not make a law applicable, an office authorized, a right recognized, a contract voluntary, a vote valid, a record authentic, a sanction legitimate, a government representative, or an institution just. Preserve source histories, identities, and restrictions when a Phi paraphrase would erase them.
+Exact preservation does not make a law applicable, an office authorized, a right recognized, a contract voluntary, a vote valid, a record authentic, a sanction legitimate, a government representative, or an institution just. Preserve source histories, identities, and restrictions when a Phi paraphrase would erase them.

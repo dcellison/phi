@@ -17,7 +17,7 @@ The speaker-facing guide is [Philosophical Reasoning](../../manual/part7_referen
 - An evidential identifies a claimed source, not certainty, expertise, validity, evidence quality, or truth.
 - A discourse marker identifies a conversational relation, not a logically valid inference.
 - Understanding, agreement, endorsement, consent, confidence, and willingness to continue remain distinct.
-- Tradition-specific terms, exact quotations, harmful historical categories, and formal notation remain eligible for guest or exact external treatment.
+- Tradition-specific terms, exact quotations, harmful historical categories, and formal notation remain in source material outside the Phi passage when their original form matters.
 - Solarpunk, Buddhist, peace-linguistic, pre-industrial, and aesthetic commitments may themselves be examined and challenged. Their presence in Phi's design does not settle an argument.
 
 ## Shared Core Dependencies
@@ -36,7 +36,7 @@ These existing resources remain available to every Phi speaker and keep their or
 
 ## First Vocabulary Pass
 
-The first pass admits words where an existing phrase would be cumbersome, ambiguous, or unable to treat a recurring philosophical relation as a concept in its own right. Four-syllable forms are used freely for broad or internally layered concepts. The pass does not attempt to minimize coinage, and its choices may be revised through actual writing and discussion.
+The first pass admits words where an existing phrase would be cumbersome, ambiguous, or unable to treat a recurring philosophical relation as a concept in its own right. The original pass used four-syllable forms for some broad or internally layered concepts; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through actual writing and discussion.
 
 | Family | Established module words | What the pass now distinguishes |
 |---|---|---|
@@ -73,13 +73,13 @@ The pass keeps several expressions compositional because their parts provide a u
 
 The existing [transformation packet](../philosophical_reasoning_transformation_prompts.md) remains optional practice material and a before-state for comparison. It is not a gate on using or extending the module, and no delay is required before a learner who has not seen its proposition key works through it with or without reference materials.
 
-## External Register Guidance
+## Source Material Guidance
 
-Use `patha ... patho` for exact philosophical terms, formal notation, source spellings, citations, harmful historical categories, and wording under critique. Preserve the source form first when adaptation would erase the object of analysis.
+Keep exact philosophical terms, formal notation, source spellings, citations, harmful historical categories, and wording under critique outside the Phi passage. Preserve the source artifact first when adaptation would erase the object of analysis.
 
-Use `hasha ... hasho` for a temporary speakable adaptation when pronunciation matters and exact source form does not. A guest adaptation remains external and should not hide that its source tradition may distinguish the concept differently.
+Use existing vocabulary, a transparent expression, a module term, or a fully admitted new word when Phi needs the concept. A temporary pronunciation aid remains an outside conversational convention and should not hide that the source tradition may distinguish the concept differently.
 
-After either frame, provide a separate Phi analysis where useful. A module word may participate in that analysis, but it should not be presented as an exhaustive translation unless it preserves the relevant commitments, contrasts, and inferential role of the source term.
+Provide a separate Phi analysis where useful. A module word may participate in that analysis, but it should not be presented as an exhaustive translation unless it preserves the relevant commitments, contrasts, and inferential role of the source term.
 
 ## Continued Development
 

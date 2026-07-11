@@ -14,7 +14,7 @@ A profile is useful when it improves retrieval and practice for a coherent field
 |---|---|---|
 | **Exploration** | A possible organizational focus worth considering through scenarios, concept lists, or intended use. | Record purpose, overlaps, risks, and a useful first development prompt in this document. |
 | **Selected profile** | A profile the maintainer has chosen to develop. | Add it to the active catalogue in [README.md](README.md) with its intended role and boundaries. |
-| **Profile** | An organization of existing resources, practices, boundaries, external handling, compounds, and vocabulary opportunities. | Create the document under the shared profile contract and decide whether to begin its vocabulary pass immediately or later. |
+| **Profile** | An organization of existing resources, practices, boundaries, source-material handling, compounds, and vocabulary opportunities. | Create the document under the shared profile contract and decide whether to begin its vocabulary pass immediately or later. |
 | **Established vocabulary module** | The profile has canonical module words and speaker guidance. | Complete each entry's schema, phonetic checks, examples, generated indexing, and Part VII chapter. |
 
 Before promotion from exploration to proposal, a candidate should normally meet all of these conditions:
@@ -23,7 +23,7 @@ Before promotion from exploration to proposal, a candidate should normally meet 
 2. At least one scenario, text, or practical discussion can illustrate what belongs in the profile.
 3. The scenario requires relations that are not merely a restatement of one active profile's next-use test.
 4. The candidate has explicit boundaries against authority, identity, consent, safety, cultural, scientific, legal, or economic overreach appropriate to its field.
-5. Existing core composition, registered compounds, productive names, guest adaptation, and exact carriage can all be considered alongside coinage.
+5. Existing core composition, registered compounds, productive names, separate source material, and coinage can all be considered together.
 6. The profile would improve retrieval or disciplined practice even if no new root were ever admitted.
 7. The first development prompt is useful even if it changes the proposed boundaries or shows that the profile overlaps another one.
 8. The candidate adds no grammar, particles, syntax, parser mode, professional authority, or incompatible register.
@@ -90,13 +90,13 @@ An exploration should remain cross-profile when its main value is integration ra
 
 ### Translation and Knowledge Stewardship
 
-**Intended role.** Organize exact source carriage, guest adaptation, interpretation, paraphrase, translation claims, attribution, archives, teaching, multi-script material, contested terminology, and the authority or restrictions attached to knowledge.
+**Intended role.** Organize source preservation, pronunciation aids, interpretation, paraphrase, translation claims, attribution, archives, teaching, multi-script material, contested terminology, and the authority or restrictions attached to knowledge.
 
-**Why it may warrant a separate profile.** [Philosophical Reasoning](philosophical_reasoning.md) tests definitions and source concepts, [Accessibility and Participation](accessibility_and_participation.md) tests communication practices, and Phi's external register preserves outside material. A shared practice profile may still be useful because preserving a source, explaining it, adapting its pronunciation, teaching it, interpreting it, and claiming equivalence are different acts with recurring ethical boundaries.
+**Why it may warrant a separate profile.** [Philosophical Reasoning](philosophical_reasoning.md) tests definitions and source concepts, [Accessibility and Participation](accessibility_and_participation.md) tests communication practices, and Phi's source-material policy keeps outside artifacts in their own medium. A shared practice profile may still be useful because preserving a source, explaining it, offering a pronunciation aid, teaching it, interpreting it, and claiming equivalence are different acts with recurring ethical boundaries.
 
-**Existing resources to test.** `phelui` word, `reo` meaning, `lilea` clarify, `shorela` rephrase, `shekoi` specify, `shelao` summarize, `shane` tell, `thekiro` write, `theo` read, `haolu` speak, `shelu` book, the evidentials, productive names, and `hasha ... hasho` and `patha ... patho` provide the main current mechanisms. Commons adds representation, authority, authorization, ownership, notification, durable records, obligation, accountability, review, and retaliation, all of which may shape who may interpret, alter, preserve, or circulate a source.
+**Existing resources to test.** `phelui` word, `reo` meaning, `lilea` clarify, `shorela` rephrase, `shekoi` specify, `shelao` summarize, `shane` tell, `thekiro` write, `theo` read, `haolu` speak, `shelu` book, the evidentials, productive names, and separate source presentation provide the main current mechanisms. Commons adds representation, authority, authorization, ownership, notification, durable records, obligation, accountability, review, and retaliation, all of which may shape who may interpret, alter, preserve, or circulate a source.
 
-**Required boundaries.** Exact carriage does not establish understanding, and a core analysis is not automatically a translation. A translator, interpreter, teacher, archivist, or fluent speaker does not gain ownership of a source or authority over its bearers. Transliteration must not silently replace non-Roman script. Community restrictions, sacred or private material, identity terms, harmful categories, and contested histories require attribution and may require deliberate non-translation or non-publication.
+**Required boundaries.** Exact source preservation does not establish understanding, and a Phi analysis is not automatically a translation. A translator, interpreter, teacher, archivist, or fluent speaker does not gain ownership of a source or authority over its bearers. Transliteration must not silently replace non-Roman script. Community restrictions, sacred or private material, identity terms, harmful categories, and contested histories require attribution and may require deliberate non-translation or non-publication.
 
 **Suggested first development prompt.** Write one multi-script source case and one contested philosophical, institutional, identity, or cultural term case. In each, compare exact preservation, guest pronunciation, productive naming where applicable, core explanation, claimed translation, correction, source authority, access format, and a disagreement about what may be changed or shared.
 
@@ -142,7 +142,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Existing resources to test.** `thumela` teach, `shonela` learn, `moloi` apprentice, `thunai` student, `lumishe` mentor, `norae` method, `thole` practice, `solae` explain, `somela` observe, `shelomui` understand, `lilea` clarify, and `sano` know distinguish several learning acts and roles without defining an educational institution.
 
-**Required boundaries.** Teaching does not grant authority over identity, belief, body, labor, disclosure, or future participation. Understanding is not agreement, assessment is not personal worth, and a learner may refuse, pause, change format, challenge a source, or leave. Exact qualifications, curricula, grades, legal obligations, and source traditions remain external where their identity matters.
+**Required boundaries.** Teaching does not grant authority over identity, belief, body, labor, disclosure, or future participation. Understanding is not agreement, assessment is not personal worth, and a learner may refuse, pause, change format, challenge a source, or leave. Exact qualifications, curricula, grades, legal obligations, and source traditions remain in source material outside the Phi passage where their identity matters.
 
 **Suggested first development prompt.** Write one non-craft learner scenario and one community-teaching scenario with different authority structures. Include explanation, practice, misunderstanding, access change, assessment or feedback, refusal, source attribution, and a decision about continued participation.
 
@@ -152,7 +152,7 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Intended role.** Organize original and collaborative creation, narrative, music, visual and material art, performance, ritual, attribution, alteration, audience relation, cultural stewardship, and source-tradition boundaries.
 
-**Why it is conditional.** Phi already has extensive literature, aesthetic vocabulary, and craft resources. A profile should not exist merely to showcase that richness. It becomes useful if original cultural practice repeatedly needs retrieval, consent, attribution, alteration, performance, or tradition boundaries not handled by [Work, Craft, and Repair](work_craft_and_repair.md), [Translation and Knowledge Stewardship](#translation-and-knowledge-stewardship), and ordinary external carriage.
+**Why it is conditional.** Phi already has extensive literature, aesthetic vocabulary, and craft resources. A profile should not exist merely to showcase that richness. It becomes useful if original cultural practice repeatedly needs retrieval, consent, attribution, alteration, performance, or tradition boundaries not handled by [Work, Craft, and Repair](work_craft_and_repair.md), [Translation and Knowledge Stewardship](#translation-and-knowledge-stewardship), and ordinary source-material presentation.
 
 **Existing resources to test.** `nophi` story, `shelu` book, `thekiro` write, `theo` read, `theko` craft, `kealo` create, and Phi's existing music, beauty, ritual, memory, and performance vocabulary provide dense material. The first task is to test practice and relations, not expand an English catalogue of media or genres.
 
@@ -168,11 +168,11 @@ An exploration should remain cross-profile when its main value is integration ra
 
 **Why it has a high threshold.** [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md), [Ecological Systems and Material Life](ecological_systems_and_material_life.md), [Medical and Bodily Care](medical_and_bodily_care.md), [Work, Craft, and Repair](work_craft_and_repair.md), and [Philosophical Reasoning](philosophical_reasoning.md) already organize evidence, precision, exact terms, checking, and inference. A separate profile is warranted only if the same scientific workflow repeatedly fails across several domains after those practices are applied.
 
-**Existing resources to test.** `masue` measure, `kiro` precise, `sharoi` exceed, `thenoi` fall short, `siru` marker, `somela` observe, `sano` know, `nohero` believe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, and `patha ... patho` exact material already support a substantial evidence-and-carriage layer. The Ecological Systems and Material Life module now adds `phisumari` sample, `mothanomi` baseline, `helurani` trend, `reloteru` model, and `somethiru` monitor, while Systems and Philosophical Reasoning supply technical state, calibration, specification, evidence, criteria, inference, doubt, and confidence.
+**Existing resources to test.** `masue` measure, `kiro` precise, `sharoi` exceed, `thenoi` fall short, `siru` marker, `siranomi` record, `somela` observe, `sano` know, `nohero` believe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, and separate source presentation already support a substantial evidence-and-record layer. The Ecological Systems and Material Life module now adds `phisumari` sample, `mothanomi` baseline, `helurani` trend, `reloteru` model, and `somethiru` monitor, while Systems and Philosophical Reasoning supply technical state, calibration, specification, evidence, criteria, inference, doubt, and confidence.
 
-**Required boundaries.** A measurement is not a valid sample, a result is not an interpretation, a model is not the world, a threshold is not automatically applicable, and expertise does not remove uncertainty or affected-person authority. Exact formulas, units, taxonomies, method names, datasets, software, standards, and citations remain external. Scientific practice must remain accountable to access, consent, place, community knowledge, and institutional power.
+**Required boundaries.** A measurement is not a valid sample, a result is not an interpretation, a model is not the world, a threshold is not automatically applicable, and expertise does not remove uncertainty or affected-person authority. Exact formulas, units, taxonomies, method names, datasets, software, standards, and citations remain in source material outside the Phi passage. Scientific practice must remain accountable to access, consent, place, community knowledge, and institutional power.
 
-**Suggested first development prompt.** Compare the same scientific workflow across several domains, such as ecology, bodily care, and repair. Examine exact carriage and explicit Phi clauses for sample identity, method, uncertainty, comparison, interpretation, decision relevance, and review.
+**Suggested first development prompt.** Compare the same scientific workflow across several domains, such as ecology, bodily care, and repair. Examine separate source records and explicit Phi clauses for sample identity, method, uncertainty, comparison, interpretation, decision relevance, and review.
 
 **First next-use exercise.** Present three measurements with exact units from different domains. In each case, separate who measured, what was sampled, the method, comparison, threshold source, uncertainty, interpretation, practical decision, and affected person. Use the comparison to decide whether one profile would make the shared workflow easier to learn and discuss.
 
@@ -194,7 +194,7 @@ Reconsider a dedicated preparedness or response profile only if several emergenc
 
 These remain separate scenario-gated areas, not one broad profile candidate. Combining them would conflate bodily care, identity, relationship, reproduction, legal status, testimony, culture, and source terminology while increasing the risk that a core paraphrase erases a person's own words.
 
-Any later profile proposal requires respectful, source-faithful scenarios and affected-user review appropriate to its actual scope. Ordinary identity, consent, safety, care, naming, testimony, and communication must remain possible in shared core and external registers before specialized organization is considered.
+Any later profile proposal requires respectful, source-faithful scenarios and affected-user review appropriate to its actual scope. Ordinary identity, consent, safety, care, naming, testimony, and communication must remain possible through shared vocabulary and separately preserved source material before specialized organization is considered.
 
 ## Recommended Exploration Order
 

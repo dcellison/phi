@@ -12,14 +12,14 @@ Every profile follows these rules:
 2. Existing roots remain in the shared lexicon. A profile lists them as dependencies; it does not move their JSON entries or claim exclusive ownership. Module words also remain ordinary canonical entries but are optional as a learning focus.
 3. A root may appear in several profiles. `theama` belongs in care, household, access, and community discussion whenever it is useful; no profile gets to narrow its meaning by listing it.
 4. Core resources needed for ordinary life, identity, consent, safety, testimony, or communication stay available outside every profile.
-5. Guest and exact material remain governed by `hasha ... hasho` and `patha ... patho`. A domain profile does not turn an outside term into an unmarked Phi word.
-6. A module is optional as a learning and use focus, not as a parsing rule. A speaker unfamiliar with a specialized term may ask for a core paraphrase, explanation, guest adaptation, or exact source form as appropriate.
+5. Foreign wording, source-script names, exact records, formulas, identifiers, and other unassimilated artifacts remain outside Phi passages. A domain profile may describe or translate source material without turning its tokens into Phi words.
+6. A module is optional as a learning and use focus, not as a parsing rule. A speaker unfamiliar with a specialized term may ask for a core paraphrase, explanation, transparent expression, or separately presented source form as appropriate.
 
 ## Profile Statuses
 
 | Status | Meaning |
 |---|---|
-| **Profile** | Existing roots, documented compounds, and external-register practice organized for a domain; no module-specific vocabulary yet. |
+| **Profile** | Existing roots, documented compounds, and source-material practice organized for a domain; no module-specific vocabulary yet. |
 | **Vocabulary pass** | Active review of which domain concepts compose naturally and which deserve coinage. |
 | **Established vocabulary module** | Module-oriented content words have complete canonical entries, a generated module index, and a speaker-facing guide. Module membership is a learning aid, not a second parser or grammar. |
 
@@ -31,8 +31,8 @@ Every new profile should contain:
 
 1. A concise charter, scope, and explicit non-goals.
 2. A grouped map of existing core dependencies.
-3. Existing compositions and external-register guidance relevant to the domain.
-4. A vocabulary decision table distinguishing existing words, transparent compounds, module coinages, and material that should remain external.
+3. Existing compositions and source-material guidance relevant to the domain.
+4. A vocabulary decision table distinguishing existing words, transparent compounds, module coinages, and source material that should remain outside the Phi passage.
 5. Natural validated examples showing the domain vocabulary in ordinary Phi grammar.
 6. A speaker-facing chapter under `manual/part7_reference/modules/` once module vocabulary is established.
 

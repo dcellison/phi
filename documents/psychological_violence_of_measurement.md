@@ -4,7 +4,7 @@
 
 The phrase "psychological violence of precise measurement" names Phi's normative critique of measurement used for ranking, surveillance, extraction, and reduction of people to metrics. Precision itself is not violence: dosage, engineering tolerance, accessibility, scientific replication, navigation, and testimony may depend on it. The question is what is measured, by whom, for what purpose, with what consequences, and whether the measured person can contest the frame.
 
-This document records a design argument, not a demonstrated causal law. Claims about anxiety, community, cognition, or culture require evidence beyond the language. Phi implements the critique by declining unmarked core units, clock time, money, and large exact enumeration while preserving necessary precision inside the exact external frame `patha … patho`.
+This document records a design argument, not a demonstrated causal law. Claims about anxiety, community, cognition, or culture require evidence beyond the language. Phi implements the critique by declining lexical units, clock time, money, and large exact enumeration while preserving necessary precision in source records outside Phi passages.
 
 ## The Tyranny of Quantification
 
@@ -26,7 +26,7 @@ Decimal systems enable infinitely fine distinctions:
 - Not just good/better but percentile rankings (87th percentile vs 88th percentile)
 - Not just healthy/sick but endless biomarkers (cholesterol 201 vs 199)
 
-Such systems can cultivate dissatisfaction because another increment is always available. A medical value can also enable care, however, and an exact difference can reveal inequity. Phi therefore resists default ranking while retaining a marked precision channel.
+Such systems can cultivate dissatisfaction because another increment is always available. A medical value can also enable care, however, and an exact difference can reveal inequity. Phi therefore resists default ranking while retaining exact source records outside its passages.
 
 ## Industrial Dehumanization Through Metrics
 
@@ -167,7 +167,7 @@ A reduced-precision core number system offers a practice to test:
 
 ## Practical Implications for Phi
 
-These are preferred core reframings, not prohibitions on accurate records. Use `patha … patho` when exact money, units, time, identifiers, scientific values, accessibility data, legal language, or medical information must be preserved.
+These are preferred Phi reframings, not prohibitions on accurate records. Keep exact money, units, time, identifiers, scientific values, accessibility data, legal language, and medical information outside the Phi passage in a source record appropriate to the medium.
 
 ### Economic Transactions
 Instead of: "That costs 47.99 credits"
@@ -195,6 +195,6 @@ The deliberate imprecision of Phi's core counting system is a chosen constraint.
 - **Dignity** (by reducing us to numbers)
 - **Peace** (by creating endless competition)
 
-When core Phi makes large precise enumeration cumbersome, it invites speakers to ask whether quality, relationship, or sufficiency would serve better. That invitation may be useful, annoying, clarifying, or unsafe depending on context; exact framing supplies the necessary escape without silently making units core vocabulary.
+When core Phi makes large precise enumeration cumbersome, it invites speakers to ask whether quality, relationship, or sufficiency would serve better. That invitation may be useful, annoying, clarifying, or unsafe depending on context; an exact source record outside the Phi passage supplies necessary precision without silently making units core vocabulary.
 
 This is Phi's experiment in peace linguistics: resist coercive measurement in the unmarked core, preserve precision wherever accuracy supports care or accountability, and keep the boundary audible. Whether the experiment helps human flourishing remains a question for use, not a conclusion built into the grammar.

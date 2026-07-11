@@ -10,13 +10,11 @@ Phi uses **penultimate stress**, meaning the second-to-last syllable receives em
 | `shiro` | SHI.ro | **SHI**-ro |
 | `lothea` | lo.THE.a | lo-**THE**-a |
 | `lumani` | lu.ma.ni | lu-**ma**-ni |
-| `shelomui` | she.lo.mu.i | she-lo-**mu**-i |
 | `phelora` | phe.lo.ra | phe-**lo**-ra |
 
 In IPA transcription, stress is marked with /ˈ/ before the stressed syllable:
 - `shea` /ˈʃe̞.ä/
 - `lothea` /lo̞.ˈθe̞.ä/
-- `shelomui` /ʃe̞.lo̞.ˈmu.i/
 
 ## Why penultimate stress
 
@@ -42,8 +40,7 @@ For three-syllable words, stress the second syllable:
 - `lumani` → lu-**ma**-ni
 - `thomari` → tho-**ma**-ri
 
-For four-syllable words, stress the third syllable:
-- `shelomui` → she-lo-**mu**-i
+Current Phi word formation stops at three syllables. During the finite migration only, any inherited four-syllable form still listed in the migration ledger follows the same penultimate rule until its replacement lands; speakers should not model new words on that temporary shape.
 
 ## What stress sounds like
 

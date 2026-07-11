@@ -54,7 +54,7 @@ For each corpus line, say why `ne` is present or absent.
 
 ## Part F: Build a Phi-form name
 
-Assemble a lowercase name of two, three, or four Phi syllables. Check its onset, open syllables, vowel sequence, and duplicate syllables; then run `python3 scripts/validate_examples.py name FORM` and say `mia nomei ne … nai.` It needs no dictionary meaning. The form should be yours or accepted by the person it represents, not assigned because someone else thinks its sound or meaning fits.
+Assemble a lowercase name of two or three Phi syllables. Check its onset, open syllables, vowel sequence, and duplicate syllables; then run `python3 scripts/validate_examples.py name FORM` and say `mia nomei ne … nai.` It needs no dictionary meaning. The form should be yours or accepted by the person it represents, not assigned because someone else thinks its sound or meaning fits.
 
 Then classify these candidates for direct use after `ne`:
 
@@ -112,6 +112,6 @@ Then classify these candidates for direct use after `ne`:
 
 26. Valid: `sa.mi.ra`, three distinct open syllables.
 27. Invalid as a productive onym: one syllable, and `sa` is a reserved honorific.
-28. Valid: `sa.we.ri.ko`, four distinct open syllables. Four-syllable names are no less Phi-like than four-syllable content words.
-29. Invalid as an unframed productive onym: it duplicates `ma`. The four-syllable allowance does not relax the duplicate-syllable prohibition.
-30. Invalid as a Phi-form onym because it begins with a vowel. It may appear exactly inside `patha Amina patho`, or as a bearer-approved adaptation such as `ne hamina`.
+28. Invalid as a productive onym: `sa.we.ri.ko` has four syllables, exceeding the absolute three-syllable ceiling.
+29. Invalid as a productive onym: it duplicates `ma`.
+30. Invalid as a Phi-form onym because it begins with a vowel. The source form may remain outside Phi, or its bearer may accept an adaptation such as `ne hamina`.

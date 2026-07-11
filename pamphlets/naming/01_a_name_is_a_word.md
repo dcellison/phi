@@ -1,6 +1,6 @@
-# Part 1: Three kinds of name atom
+# Part 1: Two kinds of Phi name
 
-The doctrine lives in manual ch9 §5 and ch21: `ne` announces that one proper-name atom follows. It does not assert that the bearer is human, and it does not turn the form into vocabulary. The atom has three possible shapes.
+The doctrine lives in manual ch9 §5 and ch21: `ne` announces that one proper-name token follows. It does not assert that the bearer is human, and it does not turn the form into vocabulary. The Phi token has two possible sources.
 
 ## A content word borne as a name
 
@@ -46,27 +46,21 @@ mia nomei ne samira nai.
 
 `samira` has three legal open syllables, begins with a Phi onset, stays lowercase, and duplicates no syllable. It has no dictionary gloss or part of speech. A bearer may hold personal associations with its sounds, but listeners cannot treat those associations as shared lexical meaning. Outside an established conversational context, bare `samira` is not a Phi word; `ne` is what licenses it as a proper designation.
 
-The charter is deliberately narrow: one token, two, three, or four syllables, ordinary Phi phonotactics, and no duplicated onset-bearing syllable. Four-syllable Phi words already belong to the language, so names receive the same room. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
+The charter is deliberately narrow: one token, two or three syllables, ordinary Phi phonotactics, and no duplicated onset-bearing syllable. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
 
-## A bounded external name
+## A preferred source name
 
 ### Existing names need not be replaced
 
-A speaker may carry an existing name exactly, choose a single Phi-form onym, or use a five-or-more-syllable, multi-token, explicitly external adaptation:
+A speaker may preserve an existing name in its own language and script outside the Phi passage, choose a single Phi-form onym, use both in their appropriate media, or decline adaptation. Source name outside Phi: `Amina`.
 
 ```
-mia nomei ne patha Amina patho nai.
-1SG name NAME EXT.EXACT [Amina] EXT.EXACT.CLOSE be.
-(My name is Amina.)
-
 mia nomei ne hamina nai.
 1SG name NAME hamina be.
 (My Phi-form name is hamina.)
 ```
 
-Neither `Amina` nor `hamina` becomes a lexicon word. The exact form preserves the source; the single-token form is available only when the bearer accepts it. A five-or-more-syllable or multi-token adapted form still uses `ne hasha … hasho`.
-
-Because Phi-form names are announced rather than capitalized, none outranks the sentence around it. Core and productive names stay lowercase; exact external names may retain source case inside their frame. Part 6 takes up the writing rule.
+Neither `Amina` nor `hamina` becomes a lexicon word. The source form remains exact because it remains source material; the single-token form is available only when the bearer accepts it. Because Phi-form names are announced rather than capitalized, none outranks the sentence around it. Part 6 takes up the writing rule.
 
 ### Drill: word or someone
 

@@ -4,7 +4,7 @@ Every syllable in Phi ends with a vowel. This one rule creates the language's op
 
 The formula is **(C)CV**: an onset followed by one vowel. The onset is either a single consonant (*ma*, *ke*, *lo*) or one of the four digraphs, which count as single consonants and fill both consonant slots of the formula (*tho*, *she*, *phe*). There are no other options: no consonant clusters, no closed syllables, no final consonants anywhere in the language.
 
-A syllable with no onset at all, a bare vowel, occurs in exactly one situation: as the second vowel of a hiatus pair inside a word, like the final *a* of `she.a` or the *u* and *i* of `she.lo.mu.i`. **Words themselves always begin with a consonant.** There are no vowel-initial words in Phi.
+A syllable with no onset at all, a bare vowel, occurs in exactly one situation: after another vowel inside a word, like the final *a* of `she.a` or `lo.the.a`. **Words themselves always begin with a consonant.** There are no vowel-initial words in Phi.
 
 This open-syllable pattern is the same one that gives Hawaiian, Māori, and Japanese their fluid sound. Without final consonants, syllables release into each other; boundaries always fall in predictable places; and speakers from cluster-heavy languages (English, German, Polish) get to simplify rather than struggle.
 
@@ -19,7 +19,7 @@ Boundaries fall before each consonant and between adjacent vowels:
 | `thesua` | the.su.a | u.a is hiatus |
 | `thomari` | tho.ma.ri | courage, three even steps |
 
-Counting syllables is therefore trivial: count the vowels. `shelomui` (understand) has four vowels (e, o, u, i), so four syllables: `she.lo.mu.i`.
+Counting syllables is therefore trivial: count the vowels. `phelona` (require) has three vowels (e, o, a), so three syllables: `phe.lo.na`. Current Phi words have no more than three syllables; the finite migration ledger temporarily records inherited longer forms until their replacements are complete.
 
 ## Two more word-level rules
 

@@ -208,13 +208,15 @@ PL fish PROX contaminant expose.
 
 `nomiraki` is always a ratio against a stated medium or denominator. Total material, concentration, system load, exposure, dose, and toxicity answer different questions.
 
+Source record outside Phi: `18 mg/L`
+
 ```
-ha hisophira nomiraki patha 18 mg/L patho nai.
-PROX contaminant concentration EXT.EXACT [18 mg/L] EXT.EXACT.CLOSE be.
-(The contaminant concentration is 18 mg/L.)
+ha siranomi ha hisophira nomiraki thelima.
+PROX record PROX contaminant concentration describe.
+(This record describes this contaminant concentration.)
 ```
 
-The exact value is carried, not interpreted. A threshold source, sampling method, organism, route, duration, uncertainty, and decision context may all be needed before anyone can infer harm or choose an action.
+The exact value is preserved, not interpreted. A threshold source, sampling method, organism, route, duration, uncertainty, and decision context may all be needed before anyone can infer harm or choose an action.
 
 ## Material, resource, and waste
 
@@ -298,7 +300,7 @@ PROX model PROX ecosystem describe.
 (This model describes the ecosystem.)
 ```
 
-Model names, versions, equations, parameters, outputs, and source claims remain exact external material. Phi can discuss what a model includes, omits, assumes, explains, or forecasts without translating its identity.
+Model names, versions, equations, parameters, outputs, and source claims remain in source material outside the Phi passage. Phi can discuss what a model includes, omits, assumes, explains, or forecasts without translating its identity.
 
 ## Monitoring and revision
 
@@ -327,7 +329,7 @@ Some ecological expressions remain clearer as combinations because their parts e
 | `sharoi sulae mosha` | heatwave; exceeding-warm period | Requires a place, duration, climate reference, and threshold. |
 | `leiro thirulo` | emission; released output | Keeps source, agent, amount, and destination part of the account. |
 | `pelosenu mueralo` | pollutant; polluting material | Requires an actual pollution relation rather than contamination alone. |
-| `shaemu mueralo` | organic matter | Reuses existing organic vocabulary while exact fractions remain external. |
+| `shaemu mueralo` | organic matter | Reuses existing organic vocabulary while exact fractions remain in source material outside the Phi passage. |
 | `thepalu moralume mueralo` | compost; garden decomposing material | Keeps management, condition, and maturity distinct from decomposition generally. |
 | `turema koemari` | reused material; returned input | Separates direct reuse from recycling through processing. |
 | `nuola phaliso` | food web; eating network | Keeps organisms and feeding directions available for explanation. |
@@ -336,12 +338,12 @@ Some ecological expressions remain clearer as combinations because their parts e
 | `wireo nomirela kethira` | forecast; infer a future state | Makes prediction an evidence-bounded inference rather than a guaranteed future. |
 | `somethiru mosha` | monitoring interval | Names both the practice and its period. |
 
-## Exact ecological information
+## Source ecological information
 
-Species and taxonomic names, chemicals and formulas, analytes, measurements, units, site and sample identifiers, coordinates, dates, dataset fields, model names and versions, equations, methods, standards, thresholds, protocols, citations, legal categories, source-community terms, and technical quotations still use `patha ... patho`. The module supplies relations around exact material; it does not normalize or translate the payload.
+Species and taxonomic names, chemicals and formulas, analytes, measurements, units, site and sample identifiers, coordinates, dates, dataset fields, model names and versions, equations, methods, standards, thresholds, protocols, citations, legal categories, source-community terms, and technical quotations remain outside the Phi passage in the surrounding medium. The module supplies relations around source material; it does not normalize or translate the artifact.
 
-Use `hasha ... hasho` for a temporary Phi-pronounceable adaptation only when source spelling is not authoritative. A guest ecological or geographic label remains external and does not acquire the definition of a module word merely because speakers use it repeatedly.
+Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not acquire the definition of a module word merely because speakers use it repeatedly.
 
-After an external form, state the analysis in Phi where useful: which ecosystem and boundary are meant, which beings and materials are involved, what moved or changed, the relevant place and time, who sampled or observed, which model or inference is being used, what uncertainty remains, who may act, and how consequences will be monitored and reviewed.
+State the analysis in Phi where useful: which ecosystem and boundary are meant, which beings and materials are involved, what moved or changed, the relevant place and time, who sampled or observed, which model or inference is being used, what uncertainty remains, who may act, and how consequences will be monitored and reviewed.
 
-Exact carriage does not make a taxonomic classification correct, a sample representative, a concentration harmful, a model valid, a threshold applicable, a source authoritative, or an intervention legitimate. Preserve source knowledge and attribution when a Phi paraphrase would erase the concept's origin, obligations, restrictions, or contested history.
+Exact preservation does not make a taxonomic classification correct, a sample representative, a concentration harmful, a model valid, a threshold applicable, a source authoritative, or an intervention legitimate. Preserve source knowledge and attribution when a Phi paraphrase would erase the concept's origin, obligations, restrictions, or contested history.

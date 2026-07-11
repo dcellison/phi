@@ -139,10 +139,12 @@ PROX feedback PROX control change.
 
 `henoraki` states how much or how quickly a system can hold, process, transmit, or provide under stated conditions. `talukori` states the demand placed on that function. The affected function, duration, and exact units must be supplied when they change the claim.
 
+Source record outside Phi: `20 kWh`
+
 ```
-ha terulora henoraki patha 20 kWh patho nai.
-PROX system capacity EXT.EXACT [20 kWh] EXT.EXACT.CLOSE be.
-(This system's capacity is 20 kWh.)
+ha siranomi ha terulora henoraki thelima.
+PROX record PROX system capacity describe.
+(This record describes this system's capacity.)
 ```
 
 ```
@@ -207,7 +209,7 @@ mia ha terulora nilakiro.
 (I inspect this system.)
 ```
 
-`kirosholu` names a set of technical requirements. The module word identifies the role; the actual values, units, wording, identifier, source, and version remain exact external material. Satisfying a specification does not prove that its requirements are wise, legitimate, sufficient, current, accessible, or safe.
+`kirosholu` names a set of technical requirements. The module word identifies the role; the actual values, units, wording, identifier, source, and version remain in source material outside the Phi passage. Satisfying a specification does not prove that its requirements are wise, legitimate, sufficient, current, accessible, or safe.
 
 ```
 ha kirosholu ha henoraki thelima.
@@ -257,10 +259,10 @@ Some systems expressions remain clearer as combinations because their parts expo
 | `thonureki norelu` | failure mode | Names the form of failure without claiming its cause. |
 | `kirosholu heno` | satisfy a specification | States that requirements are met without implying certification, legitimacy, or safety. |
 
-## Exact technical information
+## Source technical information
 
-Measurements, units, formulas, identifiers, standards, exact specifications, source instructions, and versioned technical terminology still use `patha ... patho`. The module supplies relations around exact material; it does not translate or normalize the payload.
+Measurements, units, formulas, identifiers, standards, exact specifications, source instructions, and versioned technical terminology remain outside the Phi passage in the surrounding medium. The module supplies relations around source material; it does not translate or normalize the artifact.
 
-Use `hasha ... hasho` for a temporary Phi-pronounceable technical adaptation only when its source spelling is not authoritative. A guest label remains external and does not acquire the definition of a module word merely because speakers use it repeatedly.
+Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not acquire the definition of a module word merely because speakers use it repeatedly.
 
-After an external form, state the analysis in Phi where useful: which system and boundary are meant, what enters and leaves, which components and dependencies matter, how a state was observed, what exact condition applies, which hazard is proposed, and who may act. Exact carriage does not prove correct interpretation, technical competence, safety, accessibility, ownership, responsibility, or authority.
+State the analysis in Phi where useful: which system and boundary are meant, what enters and leaves, which components and dependencies matter, how a state was observed, what exact condition applies, which hazard is proposed, and who may act. Exact preservation does not prove correct interpretation, technical competence, safety, accessibility, ownership, responsibility, or authority.

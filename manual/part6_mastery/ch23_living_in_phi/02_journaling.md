@@ -30,7 +30,7 @@ Witness, feeling, wish: past, present, future, one line each, every tense partic
 
 ## Write the gaps down
 
-When the day contains something core Phi cannot yet say, preserve the source inside `patha … patho` and write the nearest Phi analysis beside it. The journal then records both the life and the distinction between an external term and a recurring semantic gap. Repetition creates evidence for review, not automatic permission to coin.
+When the day contains something Phi cannot yet say, preserve the source artifact outside the Phi passage and write the nearest Phi analysis beside it. The journal then records both the life and the distinction between a source term and a recurring semantic gap. Repetition may motivate review and coinage but does not silently turn the outside token into Phi.
 
 ## Privacy of a different kind
 

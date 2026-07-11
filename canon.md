@@ -50,59 +50,16 @@ These were explicitly decided and should not silently fork again:
   content word `wela` ("good/beautiful") is retired; use `welao`
   (good), `towe` (well), `phelora` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
-- **Punctuation** (extended 2026-07-10): the period is core Phi's only
-  visible punctuation — no commas, question marks, or exclamation
-  marks in core or guest material, in any mode of writing. Phi's punctuation is spoken: the
-  question mark is `wa`, the quotation marks are `shola` and
-  `sholo`, the comma of address is `kona`, the clause commas are the
-  closers and the Slot 0 announcers, and the capital letter of a
-  name is `ne`. A silent mark is justified only where no word is
-  visible to do its work; sentence-end is the one such place, so the
-  period is the one such mark. Pauses are free — no pause can change
-  a core Phi sentence's meaning — so none is ever written. Exact external payload inside `patha … patho` retains source punctuation; the Phi boundaries themselves obey the core rule. The validator
-  enforces all of this.
-- **Letters** (extended 2026-07-10): core Phi and adapted guest material have no capital letters — not
-  for sentences, not for names. Romanization is one mode of writing
-  Phi among peers (the Tengwar mode, the glyph mode); a mark may
-  carry meaning only if every mode can carry it, and case exists
-  only in Latin script. What capitals do for Phi-form names, `ne` does aloud. Exact external payload may retain source case because it is carried rather than interpreted as Phi.
-  The validator enforces lowercase outside exact frames.
-- **`ne` licenses a name atom** (revised 2026-07-10 / Phi 2026.2): `ne`
-  announces that the following atom is a proper designation, not that its
-  bearer is a person and not that its form is vocabulary. It may name a
-  person, animal, place, community, institution, work, event, or artifact.
-  A name atom may be a content word borne as a name (`ne sulae`), one
-  productive Phi-form onym (`ne samira`), or a complete guest or exact
-  frame. An honorific, when present, stands between `ne` and the atom.
-- **Productive Phi-form onyms** (settled 2026-07-10 / Phi 2026.2): a
-  speaker may choose a lowercase, single-token name-form of two, three, or four
-  Phi syllables. It follows ordinary core phonotactics, including open
-  syllables, the three-vowel constraint, and no duplicated onset-bearing
-  syllable. It need not be a lexicon entry and does not acquire a lexical
-  gloss, part of speech, semantic design rationale, or automatic right to
-  appear without `ne`. It is not tested against the lexicon's minimal-pair
-  baseline because names are an open class. A listed content word may also
-  be borne as a name; function words, interjections, and grammatical
-  boundary forms are reserved and cannot serve as productive onyms.
-  The bearer controls whether an adapted form represents their name.
-- **Name register and writing** (revised 2026-07-10 / Phi 2026.2): formal,
-  neutral, portable, and machine-validated Phi keeps `ne` at every mention.
-  Conversational or household speech may omit it after a referent is
-  established and while the reference remains unambiguous; this is a
-  discourse license, not a claim about intimacy, presence, or whether the
-  bearer is alive. Keeping `ne` is always correct. Phi-form names are
-  lowercase everywhere, including gloss lines and English narration.
-  Exact external names may preserve source case inside their frame.
-  Existing guest and exact name atoms remain valid; the guest frame is
-  useful for multi-token, five-or-more-syllable, or otherwise non-onym adapted names, while the exact frame is
-  used when source spelling, script, or form matters.
-- **The external register** (settled 2026-07-10): Phi has two explicitly bounded ways to carry material that is not core vocabulary. `hasha … hasho` is the adapted guest frame; `patha … patho` is the exact opaque frame. The boundary words are Phi in every mode. Payload never becomes core through use or frequency; adoption requires an explicit later lexicon decision.
-- **Guest payload** (settled 2026-07-10): material inside `hasha … hasho` uses Phi's permitted consonants, digraphs, and vowels; begins with an onset; consists of open syllables; has no sequence of three vowels; stays lowercase; and takes penultimate stress. It may be any length, span several adapted tokens, and repeat a syllable because the frame already prevents lexical confusion. Standalone `hasho` cannot occur in the payload; choose another adaptation. Guest material is renderable in every Phi writing mode but is not checked against the lexicon.
-- **Exact payload** (settled 2026-07-10): material inside `patha … patho` is opaque to Phi phonology, spelling, case, punctuation, and vocabulary. It may preserve any script, source spelling, numeral, measurement, date, formula, URL, identifier, quotation, technical notation, or reported terminology. A single standalone `patho` closes the frame; doubled standalone `patho patho` represents a literal payload occurrence. Written payload is authoritative; speech may reproduce, spell, or describe it by a shared external convention. Core Phi's letter-perfect dictation claim does not extend to exact payload.
-- **External syntax** (settled 2026-07-10): a complete guest or exact frame is one nominal atom. It may fill subject, object, preposition-object, possessive or noun-modifier, and predicate-before-`nai` positions. `ne` precedes the complete frame for a proper name. Phi particles remain outside and scope over the atom. Source verbs and adjectives import no grammar. Guest frames cannot nest; material inside an exact frame is opaque and no frame is parsed inside it.
-- **External reporting is not adoption** (settled 2026-07-10): exact material may faithfully carry concepts Phi declines to lexicalize when testimony, history, critique, identity, consent, safety, quotation, or technical precision requires them. The boundary marks provenance, not approval or condemnation. Core refusals are reviewed case by case if they obstruct care, self-identification, safety, testimony, or philosophical analysis; ordinary composition remains preferred when it exposes a useful Phi analysis.
+- **Punctuation** (revised 2026-07-10): the period is Phi's only visible punctuation. Phi's punctuation is spoken: the question mark is `wa`, the quotation marks are `shola` and `sholo`, the comma of address is `kona`, the clause commas are the closers and Slot 0 announcers, and the capital letter of a name is `ne`. A silent mark is justified only where no word is visible to do its work; sentence-end is the one such place, so the period is the one such mark. Pauses are free and cannot change a Phi sentence's meaning. Source material presented outside Phi follows the punctuation convention of its own medium and is not parsed as part of the Phi sentence. The validator enforces the Phi rule.
+- **Letters** (revised 2026-07-10): Phi has no capital letters, including for names. Romanization is one mode of writing among peers, including Tengwar and the glyph mode; a mark may carry Phi meaning only if every mode can carry it, while case belongs only to some outside writing systems. What capitals do for Phi-form names, `ne` does aloud. Source material outside a Phi passage retains its own script and case without becoming Phi. The validator enforces lowercase in Phi text.
+- **`ne` licenses a name atom** (revised 2026-07-10): `ne` announces that the following Phi token is a proper designation, not that its bearer is a person and not that its form is vocabulary. It may name a person, animal, place, community, institution, work, event, or artifact. A name atom may be a content word borne as a name (`ne sulae`) or one productive Phi-form onym (`ne samira`). An honorific, when present, stands between `ne` and the atom.
+- **Productive Phi-form onyms** (revised 2026-07-10): a speaker may choose a lowercase, single-token name-form of two or three Phi syllables. It follows ordinary phonotactics, including open syllables, the three-vowel constraint, and no duplicated onset-bearing syllable. It need not be a lexicon entry and does not acquire a lexical gloss, part of speech, semantic design rationale, or automatic right to appear without `ne`. It is not tested against the lexicon's minimal-pair baseline because names are an open class. A listed content word may also be borne as a name; function words, interjections, grammatical boundaries, and retired forms are reserved. The bearer or relevant naming community controls whether an adapted form represents the name.
+- **Name register and source names** (revised 2026-07-10): formal, neutral, portable, and machine-validated Phi keeps `ne` at every mention. Conversational or household speech may omit it after a referent is established and while reference remains unambiguous; keeping `ne` is always correct. Phi-form names are lowercase everywhere. A source name that is longer, multi-token, non-Phi-shaped, or dependent on another script remains outside the Phi passage unless the bearer or naming community accepts a two- or three-syllable Phi-form onym.
+- **Three-syllable lexical ceiling** (settled 2026-07-10; migration active): every current and future Phi lexicon word is limited to one, two, or three syllables, and productive onyms are limited to two or three. Modules receive no exception. The finite four-syllable migration ledger records existing design debt while replacement proceeds in reviewable stages; those forms will not remain as aliases. New four-syllable entries are prohibited during the migration, and the final stage removes the temporary ledger allowance.
+- **Source material remains outside Phi** (settled 2026-07-10): foreign wording, source-script names, exact values, identifiers, formulas, quotations, legal text, medical records, citations, and other unassimilated artifacts appear beside or around Phi through the surrounding document, interface, or conversation. Phi may point to, describe, translate, or analyze that material, but source tokens occupy no Phi syntactic position. This separation preserves script parity and does not imply approval, condemnation, or loss of precision.
+- **Retired external boundaries** (settled 2026-07-10): the former guest and exact boundary forms are not Phi words and cannot be used as productive onyms or reassigned lexical forms. Historical releases preserve their earlier design status; current grammar, tooling, and teaching do not parse or recommend them. `shola ... sholo` remains distinct because it quotes grammatical Phi as Phi.
 - **Optional lexical modules** (settled 2026-07-10 / Phi 2026.2): Phi has one canonical lexicon and one grammar. A content entry may carry validated `modules` metadata so learners can choose specialized vocabulary without treating it as required general study. Module words obey ordinary Phi phonology, syntax, event and quality noun rules, and the complete vocabulary schema; a module adds no particle, inflection, parser mode, or incompatible construction. Speakers unfamiliar with a module term may ask for a core paraphrase. Philosophical Reasoning is the first established vocabulary module with 22 terms, Systems and Shared Infrastructure is the second with 25, Ecological Systems and Material Life is the third with 30, and Commons and Collective Governance is the fourth with 30; each has a Part VII speaker guide.
-- **Careful and conversational pronunciation** (settled 2026-07-10): lexicon IPA records the careful reference pronunciation, with full hiatus, penultimate stress, dental `t`/`n`, `/ɸ θ ʃ ʍ/`, and trilled or tapped `r`. Conversational and accented Phi may use [f] for `/ɸ/`, [w̥] or [hw] for `/ʍ/`, [r], [ɾ], or [ɹ] for `r`, alveolar [t n] for the dental stops, light stop aspiration, and [t̪θ] for `/θ/`. These variants are accepted when the phonemic contrasts and syllable count remain recoverable; `/θ/` must remain distinct from `t`, `s`, and `ph`, and `wh` from `w`. Vowels may shorten or shift within the five-vowel system but may not merge, and adjacent vowels remain separate syllables. Tempo and accent are not moral or grammatical registers. Guest payload follows the same contract; exact payload follows its source convention.
+- **Careful and conversational pronunciation** (settled 2026-07-10): lexicon IPA records the careful reference pronunciation, with full hiatus, penultimate stress, dental `t`/`n`, `/ɸ θ ʃ ʍ/`, and trilled or tapped `r`. Conversational and accented Phi may use [f] for `/ɸ/`, [w̥] or [hw] for `/ʍ/`, [r], [ɾ], or [ɹ] for `r`, alveolar [t n] for the dental stops, light stop aspiration, and [t̪θ] for `/θ/`. These variants are accepted when the phonemic contrasts and syllable count remain recoverable; `/θ/` must remain distinct from `t`, `s`, and `ph`, and `wh` from `w`. Vowels may shorten or shift within the five-vowel system but may not merge, and adjacent vowels remain separate syllables. Tempo and accent are not moral or grammatical registers.
 - **Main-clause tense** (settled 2026-07-05): tense particles are
   not optional — a clause whose translation is past carries `to` on
   its own verb (`sholo to haolu`, they said), as ch14 requires and
@@ -118,7 +75,7 @@ These were explicitly decided and should not silently fork again:
   timbre is `haoni welisha`; loneliness composes as `sonu` + `nuhe`;
   greeting is `kia`/`whelani`. The full gap-campaign record, with
   all fourteen rulings, is preserved in `archive/GAP_INVENTORY.md`.
-- **Refused in the core lexicon** (extended 2026-07-10): universal gendered person classes such as *woman/man* are not currently admitted; `miona` (person), `tewema` (partner), and `phao` (parent) remain the unmarked terms, while exact external form preserves a person's self-description and any future core proposal receives case-by-case review. Also currently refused: *hunt*; generic *bad* (things are harmful, broken, or unwell); *blade* as weapon-part (knife exists only as a kitchen or craft tool); *marriage* as institution; and the vocabulary of domination, including *to rule*, *lord/master*, *throne*, and *bind-as-captivity*. The Ring Verse refusal (`pamphlets/ring_verse_refusal.md`) uses `kulo` (guide), `theluo` (steward), and `nolami` (mutual bond) instead. These decisions govern unmarked core vocabulary; the external register permits faithful report and the case-by-case review standard remains controlling.
+- **Refused in the core lexicon** (extended 2026-07-10): universal gendered person classes such as *woman/man* are not currently admitted; `miona` (person), `tewema` (partner), and `phao` (parent) remain the unmarked terms, while a person's exact self-description may remain in source material outside Phi and any future core proposal receives case-by-case review. Also currently refused: *hunt*; generic *bad* (things are harmful, broken, or unwell); *blade* as weapon-part (knife exists only as a kitchen or craft tool); *marriage* as institution; and the vocabulary of domination, including *to rule*, *lord/master*, *throne*, and *bind-as-captivity*. The Ring Verse refusal (`pamphlets/ring_verse_refusal.md`) uses `kulo` (guide), `theluo` (steward), and `nolami` (mutual bond) instead. These decisions govern unmarked core vocabulary; faithful source material remains outside Phi and the case-by-case review standard remains controlling.
 - **Classifiers** (settled 2026-07): four only (himo/lipha/themo/nophe),
   always optional. Nature-now rule: living parts of living beings take
   `lipha`; time units and events take `nophe`; `themo` is for detached
@@ -266,7 +223,7 @@ These were explicitly decided and should not silently fork again:
   minute, second, and clock-time are refused as unmarked core vocabulary — the
   counted minute is exactly the precise measurement the language
   declines (`documents/psychological_violence_of_measurement.md`);
-  the day is read from the sky, not sliced into units. An exact external atom carries a required clock time when coordination, testimony, or safety depends on it.
+  the day is read from the sky, not sliced into units. A required clock time remains in an exact source record outside the Phi passage when coordination, testimony, or safety depends on it.
 - **Age is held, not been** (settled 2026-07-06): age is said with
   predicative possession — `mia [numeral] torua phelu.` (I hold N
   years): `mia wi phoi ta shao torua phelu.` (I am twenty-one —
@@ -321,7 +278,7 @@ These were explicitly decided and should not silently fork again:
   distance is counted time of travel (`ruela wi philo thalo
   nai.`, the path is a two-day walk, the nouns-describe rule at
   ordinary work); and the dimension nouns `raeli` (height),
-  `lonai` (width), `nusho` (depth) name what is gauged. When an external unit or exact quantity is required for repair, health, science, testimony, or interoperability, the complete quantity and unit travel as a `patha … patho` atom.
+  `lonai` (width), `nusho` (depth) name what is gauged. When an exact unit or quantity is required for repair, health, science, testimony, or interoperability, the source record remains outside the Phi passage while the Phi sentence identifies and discusses that record.
 - **Sides come from a body** (settled 2026-07-06): `lawe` (left)
   and `kuri` (right) name sides a body lends to the scene. Bare,
   they are the speaker's: `womu mua lawe nai.` (the house is on

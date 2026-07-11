@@ -86,10 +86,12 @@ This dialogue separates report, direct observation, inference, an alternative po
 
 ## 4. A phrase under critique
 
+Source phrase outside Phi: `growth at any cost`
+
 ```
-A: lo mia patha growth at any cost patho to hea.
-PL 1SG EXT.EXACT [growth at any cost] EXT.EXACT.CLOSE PST hear.
-(We heard the phrase "growth at any cost.")
+A: lo mia ha shane to hea.
+PL 1SG PROX tell PST hear.
+(We heard this saying.)
 
 B: lo mia ha reo shareo.
 PL 1SG PROX meaning discuss.
@@ -112,7 +114,7 @@ CONS PL 1SG earth NEC protect.
 (Therefore, we must protect the earth.)
 ```
 
-The exact frame preserves the wording being criticized. The following core sentences analyze rather than euphemize it. The last inference is still contestable: a future revision should ask whose obligations follow, what protection means, and whether the premises are sufficient.
+The separately presented source preserves the wording being criticized. The following Phi sentences analyze rather than euphemize it. The last inference is still contestable: a future revision should ask whose obligations follow, what protection means, and whether the premises are sufficient.
 
 ## 5. Definition under pressure
 
@@ -154,20 +156,22 @@ This dialogue distinguishes understanding from agreement and treats a definition
 
 ## 6. The water device, the number, and the loop
 
-This scenario tests a foundational restriction rather than assuming it is settled by design. Phi declines unmarked exact units, clock time, money, and large exact enumeration, while `patha ... patho` preserves precision where care, engineering, accessibility, or accountability require it. Here a shared water device has an exact requirement. The speakers try to distinguish that technical condition from measuring a person's worth, then test whether Phi can explain a feedback loop without merely carrying the English term.
+This scenario tests a foundational restriction rather than assuming it is settled by design. Phi declines lexical units, clock time, money, and large exact enumeration, while separate source records preserve precision where care, engineering, accessibility, or accountability require it. Here a shared water device has an exact requirement. The speakers try to distinguish that technical condition from measuring a person's worth, then test whether Phi can explain feedback without merely repeating the English term.
+
+Source records outside Phi: device marking `12 V`; technical term `feedback loop`.
 
 ```
-A: ha keli siru patha 12 V patho nai.
-PROX device marker EXT.EXACT [12 V] EXT.EXACT.CLOSE be.
-(The marking on this device is "12 V".)
+A: ha keli ha siru phelu.
+PROX device PROX marker hold.
+(This device has this marker.)
 
-B: ha keli patha 12 V patho phelona.
-PROX device EXT.EXACT [12 V] EXT.EXACT.CLOSE require.
-(This device requires 12 V.)
+B: ha keli ha masue phelona.
+PROX device PROX measure require.
+(This device requires this measurement.)
 
-A: lo mia patha 12 V patho masue phelona.
-PL 1SG EXT.EXACT [12 V] EXT.EXACT.CLOSE measure require.
-(We require a measurement of 12 V.)
+A: lo mia ha masue phelona.
+PL 1SG PROX measure require.
+(We require this measurement.)
 
 B: mia shelomui. whekai miona sone po ma masue.
 1SG understand. CONTR person value POT NEG measure.
@@ -197,13 +201,13 @@ B: mia ma nawo. pi no ha phelui reo lilea.
 1SG NEG agree. POL IMP PROX word meaning clarify.
 (I do not agree. Please clarify the meaning of this statement.)
 
-A: ha teru patha feedback loop patho nai.
-PROX process EXT.EXACT [feedback loop] EXT.EXACT.CLOSE be.
-(This process is a "feedback loop".)
+A: ha teru ha phelui reo nai.
+PROX process PROX word meaning be.
+(This process is what this term means.)
 
-B: pi no patha feedback loop patho reo lilea.
-POL IMP EXT.EXACT [feedback loop] EXT.EXACT.CLOSE meaning clarify.
-(Please clarify the meaning of "feedback loop".)
+B: pi no ha phelui reo lilea.
+POL IMP PROX word meaning clarify.
+(Please clarify the meaning of this term.)
 
 A: ha keli phialu lorea. phialu thepalu lorea. thepalu ha keli lorea.
 PROX device water connect. water garden connect. garden PROX device connect.
@@ -224,30 +228,32 @@ PL 1SG rest.
 
 ### Gap log
 
-- **Exact measurement works as carriage, not as an unmarked core unit.** `patha 12 V patho` can be a predicate, object, or modifier without corrupting the number. This is enough to report a label and a device requirement, but it does not provide core vocabulary for voltage, calibration, threshold, or technical comparison.
+- **Exact measurement works as a separate record, not as a lexical unit.** The displayed `12 V` artifact preserves the number and unit while the Phi dialogue refers to its marker and measurement role. This does not by itself provide vocabulary for voltage, calibration, threshold, or technical comparison.
 - **The measurement restriction makes one useful ethical distinction easy.** `miona sone po ma masue` separates a person's value from a thing that can be measured. The scenario therefore does not establish that the restriction is wrong; it shows a real benefit of keeping ranking separate from technical conditions.
 - **The restriction burdens explanation of safety-critical systems.** `masue` is defined as relational, body-scaled measurement. Treating an exact unit as its object is intelligible but semantically strained. A second scenario should test a medical, accessibility, or public-health measurement before deciding whether a conventional core construction is needed. The medical scenario below begins that comparison.
 - **`thelao` states a consequence, not validity.** B can disagree and request clarification, but current Phi offers no conventional way to say that A's conclusion does not follow from the stated premises. This corroborates the logical-validity gap in the capability matrix.
-- **`patha feedback loop patho` preserves the technical term, but the core paraphrase fails to identify feedback.** `lorea` only says that things are connected. It does not identify technical flow, recurrence, output returning as input, or whether the relationship is causal rather than correlational. This corroborates the systems-and-emergence gap.
+- **The separately presented term `feedback loop` does not explain feedback.** `lorea` only says that things are connected. It does not identify technical flow, recurrence, output returning as input, or whether the relationship is causal rather than correlational. This corroborates the systems-and-emergence gap.
 
 No new root or particle follows from this single scenario. The next relevant text should use a different safety-critical system and then compare whether the same failures recur.
 
 ## 7. The shared energy device
 
-This independent scenario tests whether the problems in the water-device discussion recur in shared solar infrastructure. An exact voltage is necessary technical evidence, but it is not sufficient evidence that the device is functioning well. The speakers use an example to challenge an overly quick conclusion, then again find that an external systems term cannot be made clear by a chain of generic connections.
+This independent scenario tests whether the problems in the water-device discussion recur in shared solar infrastructure. An exact voltage is necessary technical evidence, but it is not sufficient evidence that the device is functioning well. The speakers use an example to challenge an overly quick conclusion, then again find that a separately presented systems term cannot be made clear by a chain of generic connections.
+
+Source records outside Phi: technical reading `48 V`; technical term `feedback loop`.
 
 ```
 A: ha sorae kenua keli sila panoru.
 PROX sun energy device community support.
 (This solar-energy device supports the community.)
 
-B: ha sorae kenua keli patha 48 V patho phelona.
-PROX sun energy device EXT.EXACT [48 V] EXT.EXACT.CLOSE require.
-(This solar-energy device requires 48 V.)
+B: ha sorae kenua keli ha masue phelona.
+PROX sun energy device PROX measure require.
+(This solar-energy device requires this measurement.)
 
-A: ha sorae kenua keli patha 48 V patho phelu.
-PROX sun energy device EXT.EXACT [48 V] EXT.EXACT.CLOSE hold.
-(This solar-energy device has 48 V.)
+A: ha sorae kenua keli ha masue phelu.
+PROX sun energy device PROX measure hold.
+(This solar-energy device has this measurement.)
 
 A: thelao ha sorae kenua keli welao nai.
 CONS PROX sun energy device good be.
@@ -257,29 +263,29 @@ B: mia ma nawo.
 1SG NEG agree.
 (I do not agree.)
 
-B: phisu ha sorae kenua keli patha 48 V patho phelu. whekai ha sorae kenua keli po ma welao nai.
-EXMP PROX sun energy device EXT.EXACT [48 V] EXT.EXACT.CLOSE hold. CONTR PROX sun energy device POT NEG good be.
-(For example, this solar-energy device has 48 V and yet may not function well.)
+B: phisu ha sorae kenua keli ha masue phelu. whekai ha sorae kenua keli po ma welao nai.
+EXMP PROX sun energy device PROX measure hold. CONTR PROX sun energy device POT NEG good be.
+(For example, this solar-energy device has this measurement and yet may not function well.)
 
 A: mia to kanelu. mia nohero to helui.
 1SG PST err. 1SG believe PST change.
 (I erred. My belief changed.)
 
-B: patha 48 V patho miona sone ma nai.
-EXT.EXACT [48 V] EXT.EXACT.CLOSE person value NEG be.
-(48 V is not a person's value.)
+B: ha masue miona sone ma nai.
+PROX measure person value NEG be.
+(This measurement is not a person's value.)
 
 A: mia nawo.
 1SG agree.
 (I agree.)
 
-B: ha teru patha feedback loop patho nai.
-PROX process EXT.EXACT [feedback loop] EXT.EXACT.CLOSE be.
-(This process is a "feedback loop".)
+B: ha teru ha phelui reo nai.
+PROX process PROX word meaning be.
+(This process is what this term means.)
 
-A: pi no patha feedback loop patho reo lilea.
-POL IMP EXT.EXACT [feedback loop] EXT.EXACT.CLOSE meaning clarify.
-(Please clarify the meaning of "feedback loop".)
+A: pi no ha phelui reo lilea.
+POL IMP PROX word meaning clarify.
+(Please clarify the meaning of this term.)
 
 B: sorae kenua ha keli lorea. ha keli sila lorea. sila sorae kenua lorea.
 sun energy PROX device connect. PROX device community connect. community sun energy connect.
@@ -300,16 +306,18 @@ PL 1SG rest.
 
 ### Gap log
 
-- **The technical-condition-versus-human-value distinction recurs.** Exact voltage can be carried safely, and `miona sone po ma masue` from the prior scenario still separates a person's worth from measurement. The register question is therefore not whether to remove exact framing, but how to state a technical condition and its role in a decision without treating it as an opaque authority.
+- **The technical-condition-versus-human-value distinction recurs.** Exact voltage can be preserved safely outside Phi, and `miona sone po ma masue` from the prior scenario still separates a person's worth from measurement. The remaining question is how to state a technical condition and its role in a decision without treating the source record as an opaque authority.
 - **`phisu` supplies an example, not a counterexample convention.** B can give a case in which the voltage is present and function may still fail. Phi has no established form saying that this case refutes A's inference rather than merely adding another consideration.
 - **`thelao` again marks consequence, not validity.** A can retract the conclusion after B's case, but the language cannot yet state that the conclusion was unsupported by the premise. This is a second independent occurrence of the logical-validity gap.
-- **The systems gap recurs outside the water scenario.** The chain of `lorea` clauses can name interconnection among energy, device, and community, but cannot identify control, technical flow, recurrence, feedback, or a system boundary. `patha feedback loop patho` remains a label rather than a core explanation.
+- **The systems gap recurs outside the water scenario.** The chain of `lorea` clauses can name interconnection among energy, device, and community, but cannot identify control, technical flow, recurrence, feedback, or a system boundary. The separately presented term remains a label rather than a Phi explanation.
 
-The two systems scenarios now justify a small findings pass, not a lexical proposal. The medical scenario below changes the stakes again through bodily care and exact health information before any register specification is drafted.
+The two systems scenarios now justify a small findings pass, not a lexical proposal. The medical scenario below changes the stakes again through bodily care and exact health information before any domain vocabulary is considered.
 
 ## 8. A reading, a boundary, and care
 
 This scenario tests a bodily-care conversation without offering a diagnosis, dose, treatment instruction, or model of real medical practice. Its purpose is to distinguish a person's reported experience, a recorded reading, an uncertain safety concern, refusal of one action, continued need for care, and a request for explanation. A and B are temporary discourse roles, not claims about a patient's or clinician's authority.
+
+Source record outside Phi: `body temperature: 38.7 C`
 
 ```
 A: mia mokela nai. mia mokura kipona phaelo.
@@ -328,9 +336,9 @@ B: mia thia naweri thekao. mia thia weloni ma palo.
 1SG 2SG refuse acknowledge. 1SG 2SG body NEG touch.
 (I acknowledge your refusal. I do not touch your body.)
 
-A: ha masue siru patha body temperature: 38.7 C patho nai.
-PROX measure marker EXT.EXACT [body temperature: 38.7 C] EXT.EXACT.CLOSE be.
-(The marker on this measurement is "body temperature: 38.7 C".)
+A: ha siranomi ha masue thelima.
+PROX record PROX measure describe.
+(This record describes this measurement.)
 
 B: mia ha masue hi nila. mia ha masue reo ma sano.
 1SG PROX measure DIR see. 1SG PROX measure meaning NEG know.
@@ -371,17 +379,19 @@ A: mia ha nepha reo lilea phelona. lo mia therilu.
 
 ### Gap log
 
-- **Exact clinical information is carried safely but remains external to the core analysis.** `patha body temperature: 38.7 C patho` preserves the spelling, value, and unit without forcing them into a pretend Phi unit system. `ha masue` can name it only as a generic measurement; Phi has no conventional core terms for temperature, a reading, a test result, or a threshold.
+- **Exact clinical information is preserved safely but remains outside the Phi analysis.** The separate source record preserves spelling, value, and unit without forcing them into a pretend Phi unit system. `ha masue` can name it only as a generic measurement; Phi has no conventional terms for temperature, a reading, a test result, or a threshold.
 - **A recorded number is not a diagnosis.** `ha masue pukea po shelo` can express a deliberately tentative connection between a reading and danger. It cannot distinguish observation, symptom, test, indication, risk, diagnosis, prognosis, or a justified recommendation. The inability to explain the measurement is the intended failure, not a medical claim about the value shown.
 - **The existing resources support a respectful minimum, but not full informed consent.** `pi wa` plus `po` can ask before touching or giving something; `ma nawo`, `naweri`, `thekao`, and an explicit `ma palo` can recognize and honor a refusal. Yet `po` also covers practical ability, `nawo` is ordinary agreement, and the language has no conventional way to state scope, duration, revocation, alternatives, benefits, burdens, or whether the explanation was sufficient for a decision.
 - **Care and a recorded measurement can be separated, but the decision frame is thin.** `mia theama phelona. ha masue theama ma nai.` distinguishes a need for care from the presence of one measurement. It does not provide a conventional way to discuss options, a care role, accountability, access needs, or a shared care plan.
-- **An exact external phrase would preserve a technical label without solving the problem.** For example, `patha informed consent patho` could faithfully carry a source term, but it would not state what the person understood or what action they accepted. A future medical module should therefore add carefully scoped semantic resources and usage guidance only after several independent care and access scenarios recur; it should not add grammar or weaken the exact register.
+- **A separately presented technical phrase would preserve a label without solving the problem.** For example, the source term `informed consent` would not state what the person understood or what action they accepted. A future medical module should add carefully scoped semantic resources and usage guidance where useful; it should not add grammar or mistake source preservation for explanation.
 
 No new root or particle follows from this single scenario. It independently confirms the systems result: exact data is necessary for safety-critical communication, but the data needs a transparent decision and explanation context before it can guide care.
 
 ## 9. A doorway, a route, and written words
 
 This scenario tests access to a community meeting without naming a diagnosis, impairment, or defective body. A narrow doorway and a loud meeting are environmental conditions. A uses a device and refuses an offer to be carried; C requests written words. The scenario tests whether Phi can describe both barriers, respect different responses, and connect access to participation without making one form of help universal.
+
+Source terms outside Phi: mobility-device term `wheelchair`; participation category `accessibility`.
 
 ```
 A: ha ponu hieru nai. mia roe ha keli po ma koema.
@@ -440,10 +450,10 @@ PL 1SG meeting FUT change.
 ### Gap log
 
 - **Phi can place a barrier in the environment rather than in a person's body.** `ha ponu hieru nai` and `mia roe ha keli po ma koema` state the incompatible doorway and device without calling A sick, broken, or less capable. This is a useful compositional strength.
-- **The generic device term protects against premature classification but loses relevant distinctions.** `keli` avoids assigning a diagnosis or identity, yet it cannot distinguish a mobility aid from another device. `rolu` is primarily a craft wheel, so `rolu keli` would not transparently repair the gap. `patha wheelchair patho` can preserve a source term when it matters, but exact carriage alone does not explain what the environment must permit.
+- **The generic device term protects against premature classification but loses relevant distinctions.** `keli` avoids assigning a diagnosis or identity, yet it cannot distinguish a mobility aid from another device. `rolu` is primarily a craft wheel, so `rolu keli` would not transparently repair the gap. The separately presented source term `wheelchair` preserves a category for comparison, but the label alone does not explain what the environment must permit.
 - **The consent pattern recurs independently of medicine.** `pi wa ... po` requests permission before carrying; `naweri` refuses; `thekao` acknowledges the refusal. As in the bodily-care scenario, `po` still also expresses practical possibility, and the scope or duration of consent remains contextual. This is stronger evidence for a recurring permission-and-consent distinction, but not yet a proposal for new grammar or vocabulary.
 - **Access is plural and relational.** A wider safe route supports A, while written words support C. `ta naphe theula miona po ma panoru` can state that one intervention may not serve everyone. Phi still lacks conventional core terms for barrier, accommodation, access requirement, communication format, or independent access.
-- **Participation is available even when the technical access category is not.** `pawela` states the practical outcome: taking part in the meeting. The exact phrase `patha accessibility patho` could preserve an external category, but it would not identify the route, format, consent, or decision that participation requires.
+- **Participation is available even when the technical access category is not.** `pawela` states the practical outcome: taking part in the meeting. The separately presented source term `accessibility` preserves a source category for comparison, but it does not identify the route, format, consent, or decision that participation requires.
 - **This material crosses module boundaries.** Device use, refusal, support, writing, safety, and participation belong simultaneously to household, medical, civic, and dialogue contexts. An eventual accessibility profile may organize them, but none should be removed from the shared core merely because this scenario needs them.
 
 No new root or particle follows from this first access scenario. It does, however, establish a second independent setting in which generic possibility is doing permission work and ordinary refusal must carry a specifically scoped consent decision.
@@ -669,6 +679,8 @@ No new root or decision particle follows from this scenario. It supplies an allo
 
 This scenario tests accountability after shared infrastructure fails. B saw a danger marker and did not report it. C had committed to maintain the device but did not know about the marker and did not complete the maintenance. A first tries to assign repair to B through necessity; B refuses. The speakers distinguish causation, error, commitment, shared holding, repair, and justice without assuming that any participant has unilateral authority.
 
+Source instruction outside Phi: `inspect every 7 days`.
+
 ```
 A: laenu phialu keli to pukate. ha keli wei thepalu phialu ma loa.
 commons water device PST break. PROX device DAT garden water NEG give.
@@ -718,9 +730,9 @@ B: mia ma nawo. lo mia phirae seru phelu.
 1SG NEG agree. PL 1SG different commit hold.
 (I do not agree. We hold different commitments.)
 
-C: ha keli patha inspect every 7 days patho phelona. mia ha to ma sano.
-PROX device EXT.EXACT [inspect every 7 days] EXT.EXACT.CLOSE require. 1SG PROX PST NEG know.
-(This device requires "inspect every 7 days." I did not know this.)
+C: ha keli ha siru phelu. mia ha siru to ma sano.
+PROX device PROX marker hold. 1SG PROX marker PST NEG know.
+(This device has this marker. I did not know this marker.)
 
 B: mia ha to sano. whekai mia to ma shane.
 1SG PROX PST know. CONTR 1SG PST NEG tell.
@@ -772,7 +784,7 @@ PL 1SG INT.COMP UNIV person responsible be INT.COMP.CLOSE NEG know.
 - **Causation, warning, commitment, and shared holding are separable in clauses.** `ka ma` lets B deny causing the break without denying the failure to report. C can state a maintenance commitment and its nonperformance. The commons can hold the device. These facts do not establish one undifferentiated responsibility.
 - **`thonai` leaves its scope unresolved.** B and C can each say they are responsible, and A can propose collective responsibility, but the adjective does not state whether responsibility is causal, moral, role-based, contractual, collective, or responsibility to perform a remedy.
 - **A commitment is not an assigned office.** `seru` and `thiranu` record what C accepted, but Phi has no conventional terms for mandate, role, term, handoff, oversight, conflict of interest, or who was responsible when a commitment was impossible to fulfill.
-- **Information access changes accountability.** The exact instruction is available to B and unavailable to C. `sano`, `shane`, and the exact frame preserve that difference, but the language has no established terms for notice, record delivery, disclosure duty, or whether the source instruction was authoritative and accessible.
+- **Information access changes accountability.** The separate source instruction is available to B and unavailable to C. `sano`, `shane`, and reference to `ha siru` preserve that difference, but the language has no established terms for notice, record delivery, disclosure duty, or whether the source instruction was authoritative and accessible.
 - **Necessity does not identify authority.** `thia ha keli na shiroka` imposes an obligation grammatically, but it does not say who is entitled to impose it or why repair follows from B's omission. B's refusal forces the group to negotiate a feasible response rather than treating `na` as governance.
 - **Repair is not the whole of accountability.** Sharing labor and writing commitments may restore the device and reduce recurrence, but they do not by themselves answer for lost water, evaluate the prior commitments, repair trust, or establish what consequence is fair.
 - **A council supplies a forum, not a procedure.** The speakers can discuss the process in `kowela`, but current Phi does not conventionalize investigation, finding, response, review, appeal, enforcement, or authority to close the matter.
@@ -789,7 +801,7 @@ No new root follows from this accountability scenario. It changes the question f
 | Collective agent | `lo mia` acts through discussion in a council | `lo mia` negotiates after an imposed duty is refused | A plural pronoun identifies participants in an action, not membership, authorization, representation, or a decision rule. |
 | Normative vocabulary | `thua` asks whether allocation is fair | `theloma` asks whether the response is justice | Broad value words frame evaluation but do not supply distributive criteria, findings, remedies, or procedures. |
 | Acceptance and disagreement | C accepts a present allocation without agreement | B refuses imposed repair, then agrees to shared labor | Compliance, consent, agreement, commitment, and endorsement must remain separately stated. |
-| Exact and recorded information | Two portions are exact in count but not in size or sufficiency | An exact maintenance instruction and written commitments preserve source forms | Records and precision support governance only when access, interpretation, provenance, and decision relevance are also stated. |
+| Exact and recorded information | Two portions are exact in count but not in size or sufficiency | A separate maintenance instruction and written commitments preserve the relevant records | Records and precision support governance only when access, interpretation, provenance, and decision relevance are also stated. |
 | Recurring gaps | authority, membership, decision procedure, priority, review | authority, role, accountability, procedure, review | Authority, institutional roles, collective decision procedure, and review recur strongly enough for a zero-new-root profile; specialized terminology remains unproven. |
 | Scenario-specific gaps | entitlement, allocation criterion, provisional decision, urgency pressure | notice, investigation, remedy, enforcement, causal versus role responsibility | Each family needs another independent use before any vocabulary proposal. |
 
@@ -797,7 +809,9 @@ Together, these scenarios provide the evidence basis for the zero-new-root [Comm
 
 ## 13. The river above and below the workshop
 
-This scenario tests watershed reasoning, pollution evidence, and exact scientific carriage without assuming that measurements identify a source. A workshop and a field are both near a stream that connects to a river. Fish have died, dye was seen flowing from the workshop, rain fell, water flowed from the field, and two site measurements differ. The speakers must protect the river while keeping observation, inference, causation, and responsibility separate.
+This scenario tests watershed reasoning, pollution evidence, and separate scientific records without assuming that measurements identify a source. A workshop and a field are both near a stream that connects to a river. Fish have died, dye was seen flowing from the workshop, rain fell, water flowed from the field, and two site measurements differ. The speakers must protect the river while keeping observation, inference, causation, and responsibility separate.
+
+Source records outside Phi: sampling-site identifier `Site A`, represented in the passage by the Phi-form name `ne satea`; sampling-site identifier `Site B`, represented by `ne meliko`; first reading `nitrate: 3 mg/L`; second reading `nitrate: 18 mg/L`; comparison category `ecological harm threshold`.
 
 ```
 A: phuliro luphore lorea.
@@ -808,29 +822,29 @@ A: keritha pai phuliro nai. kosha pai phuliro nai.
 workshop NEAR stream be. field NEAR stream be.
 (The workshop is near the stream. The field is near the stream.)
 
-A: patha Site A patho leo keritha nai.
-EXT.EXACT [Site A] EXT.EXACT.CLOSE ABOVE workshop be.
-("Site A" is above the workshop.)
+A: ne satea leo keritha nai.
+NAME satea ABOVE workshop be.
+(satea is above the workshop.)
 
-A: patha Site B patho phou keritha nai.
-EXT.EXACT [Site B] EXT.EXACT.CLOSE BELOW workshop be.
-("Site B" is below the workshop.)
+A: ne meliko phou keritha nai.
+NAME meliko BELOW workshop be.
+(meliko is below the workshop.)
 
-A: mia mua patha Site A patho luphore phialu to hi masue.
-1SG LOC EXT.EXACT [Site A] EXT.EXACT.CLOSE river water PST DIR measure.
-(I directly measured river water at Site A.)
+A: mia mua ne satea luphore phialu to hi masue.
+1SG LOC NAME satea river water PST DIR measure.
+(I directly measured river water at satea.)
 
-A: mia nu ta masue patha nitrate 3 mg/L patho to thekiro.
-1SG ORD one measure EXT.EXACT [nitrate 3 mg/L] EXT.EXACT.CLOSE PST write.
-(I wrote "nitrate 3 mg/L" for the first measurement.)
+A: mia nu ta masue to thekiro.
+1SG ORD one measure PST write.
+(I wrote the first measurement.)
 
-A: mia mua patha Site B patho luphore phialu to hi masue.
-1SG LOC EXT.EXACT [Site B] EXT.EXACT.CLOSE river water PST DIR measure.
-(I directly measured river water at Site B.)
+A: mia mua ne meliko luphore phialu to hi masue.
+1SG LOC NAME meliko river water PST DIR measure.
+(I directly measured river water at meliko.)
 
-A: mia nu wi masue patha nitrate 18 mg/L patho to thekiro.
-1SG ORD two measure EXT.EXACT [nitrate 18 mg/L] EXT.EXACT.CLOSE PST write.
-(I wrote "nitrate 18 mg/L" for the second measurement.)
+A: mia nu wi masue to thekiro.
+1SG ORD two measure PST write.
+(I wrote the second measurement.)
 
 B: nu wi masue nu ta masue sharoi.
 ORD two measure ORD one measure exceed.
@@ -848,13 +862,13 @@ A: mia mena keritha tinoa lo shalu to ka lumeo meno ke nohero.
 1SG DECL.COMP workshop dye PL fish PST CAUS die DECL.COMP.CLOSE INFER believe.
 (I infer that the workshop dye caused the fish to die.)
 
-B: patha nitrate patho tinoa senao ma nai.
-EXT.EXACT [nitrate] EXT.EXACT.CLOSE dye same NEG be.
-("Nitrate" and dye are not the same.)
+B: ha masue thena tinoa senao ma nai.
+PROX measure thing dye same NEG be.
+(This measured thing and dye are not the same.)
 
-B: lo mia patha ecological harm threshold patho ma phelu.
-PL 1SG EXT.EXACT [ecological harm threshold] EXT.EXACT.CLOSE NEG hold.
-(We do not have the "ecological harm threshold.")
+B: lo mia ha masue ma phelu.
+PL 1SG PROX measure NEG hold.
+(We do not have this measurement.)
 
 C: wa luphore phialu peloma nai.
 Q river water harmful be.
@@ -868,9 +882,9 @@ B: pheralu to lepa. mue kosha phialu muo phuliro to selu.
 rain PST fall. OUT.OF field water INTO stream PST flow.
 (Rain fell. Water from the field flowed into the stream.)
 
-B: mue kosha phialu patha nitrate patho po phelu.
-OUT.OF field water EXT.EXACT [nitrate] EXT.EXACT.CLOSE POT hold.
-(Water from the field may contain nitrate.)
+B: mue kosha phialu ha masue thena po phelu.
+OUT.OF field water PROX measure thing POT hold.
+(Water from the field may contain this measured thing.)
 
 C: mia wela hina lo shalu to ka lumeo welo ma sano.
 1SG INT.COMP what PL fish PST CAUS die INT.COMP.CLOSE NEG know.
@@ -888,13 +902,13 @@ C: lo mia mue kosha phialu so masue.
 PL 1SG OUT.OF field water FUT measure.
 (We will measure water from the field.)
 
-C: lo mia pheo ta philo mua patha Site A patho luphore phialu so masue.
-PL 1SG POST one day LOC EXT.EXACT [Site A] EXT.EXACT.CLOSE river water FUT measure.
-(In one day, we will measure river water at Site A.)
+C: lo mia pheo ta philo mua ne satea luphore phialu so masue.
+PL 1SG POST one day LOC NAME satea river water FUT measure.
+(In one day, we will measure river water at satea.)
 
-C: lo mia pheo ta philo mua patha Site B patho luphore phialu so masue.
-PL 1SG POST one day LOC EXT.EXACT [Site B] EXT.EXACT.CLOSE river water FUT measure.
-(In one day, we will measure river water at Site B.)
+C: lo mia pheo ta philo mua ne meliko luphore phialu so masue.
+PL 1SG POST one day LOC NAME meliko river water FUT measure.
+(In one day, we will measure river water at meliko.)
 
 A: mia nawo. whekai lo mia wela sua thonai nai welo ma sano.
 1SG agree. CONTR PL 1SG INT.COMP who responsible be INT.COMP.CLOSE NEG know.
@@ -904,18 +918,20 @@ A: mia nawo. whekai lo mia wela sua thonai nai welo ma sano.
 ### Gap log
 
 - **A connected stream and river do not yet form a watershed model.** `phuliro`, `luphore`, `lorea`, `selu`, `leo`, and `phou` describe local water, connection, flow, and elevation. They do not conventionalize watershed, catchment, drainage direction, upstream, downstream, runoff, tributary, or the system boundary relevant to the measurements.
-- **Exact carriage preserves the scientific record without interpreting it.** `patha Site A patho`, `patha Site B patho`, and the two nitrate readings retain identifiers, analyte, values, and units. They do not state the sampling method, date, uncertainty, laboratory, chain of custody, reference condition, or whether the two readings are validly comparable.
-- **`hiso` and `peloma` are too broad to supply pollution analysis.** Speakers can say water is not clean or may be harmful, but current Phi does not distinguish pollutant, contaminant, concentration, exposure, ecological effect, or a regulated threshold. An exact term can preserve any one of those categories but cannot select the intended relation for the core discussion.
+- **Separate source records preserve scientific forms without pretending they are Phi.** The site mappings and two nitrate readings retain identifiers, analyte, values, and units outside the passage. They do not state the sampling method, date, uncertainty, laboratory, chain of custody, reference condition, or whether the two readings are validly comparable. The Phi-form names identify the sites inside the dialogue but do not reproduce their source identifiers.
+- **`hiso` and `peloma` are too broad to supply pollution analysis.** Speakers can say water is not clean or may be harmful, but current Phi does not distinguish pollutant, contaminant, concentration, exposure, ecological effect, or a regulated threshold. A separately presented source term can preserve any one of those categories but cannot select the intended relation for the Phi discussion.
 - **Observation and source attribution remain separate.** A directly observed dye flow, a larger nitrate reading, field water after rain, and fish deaths are four facts. `ke`, `ka`, and sentence order can propose a cause, but they do not express correlation, competing causal pathways, cumulative load, interaction, or confidence in source attribution.
-- **Spatial words risk a false systems explanation.** `leo` and `phou` state higher and lower elevation, not upstream and downstream in a drainage network. The exact site labels prevent identity loss, but neither the labels nor the elevation relation explains how water or material moves among the sites.
+- **Spatial words risk a false systems explanation.** `leo` and `phou` state higher and lower elevation, not upstream and downstream in a drainage network. The mapped Phi-form site names preserve reference inside the dialogue, but neither the names nor the elevation relation explains how water or material moves among the sites.
 - **Protective action is possible before causal closure.** The group can stop putting dye into the stream, measure field water, and repeat the river measurements without declaring a responsible party. Current Phi still lacks conventional terms for precaution, monitoring plan, baseline, investigation, source control, or a provisional environmental finding.
-- **One fictional reading does not justify ecological vocabulary.** The passage exposes a need to distinguish scientific carriage, systems composition, and responsibility. It does not establish that *watershed*, *pollution*, *runoff*, *threshold*, or any other English headword needs a Phi root.
+- **One fictional reading does not justify ecological vocabulary.** The passage exposes a need to distinguish source records, systems composition, and responsibility. It does not establish that *watershed*, *pollution*, *runoff*, *threshold*, or any other English headword needs a Phi root.
 
 No new root follows from this scenario. It supplies a flow-and-source case for comparison with an ecological case whose central relations are habitat, decomposition, and material return rather than measurement along water.
 
 ## 14. The fallen tree and the living grove
 
-This scenario tests habitat, biodiversity, decomposition, material return, and path safety without treating a fallen tree as either worthless waste or automatically untouchable nature. A tree has fallen in a grove, some wood blocks a path, fungus and insects use the wood, birds eat the insects, and plants flourish nearby. The speakers attempt a core systems explanation, compare it with exact ecological terms, and choose a partial intervention whose ecological result remains uncertain.
+This scenario tests habitat, biodiversity, decomposition, material return, and path safety without treating a fallen tree as either worthless waste or automatically untouchable nature. A tree has fallen in a grove, some wood blocks a path, fungus and insects use the wood, birds eat the insects, and plants flourish nearby. The speakers attempt a core systems explanation, compare it with separately presented ecological terms, and choose a partial intervention whose ecological result remains uncertain.
+
+Source terms outside Phi: `habitat`; `nutrient cycle`; `biodiversity`.
 
 ```
 A: serao shiro mua koashira to lepa.
@@ -938,13 +954,13 @@ B: mia ma nawo. ha wolea whemoa ma nai.
 1SG NEG agree. PROX wood empty NEG be.
 (I do not agree. This wood is not empty.)
 
-B: ha lokue patha habitat patho nai.
-PROX place EXT.EXACT [habitat] EXT.EXACT.CLOSE be.
-(This place is "habitat.")
+B: ha lokue roe ha phelui se thelima.
+PROX place INS PROX word PASS describe.
+(This place is described with this source term.)
 
-A: patha habitat patho hina reo.
-EXT.EXACT [habitat] EXT.EXACT.CLOSE what meaning.
-(What does "habitat" mean?)
+A: ha phelui hina reo.
+PROX word what meaning.
+(What does this source term mean?)
 
 B: tokemi nia wolea thuroa.
 fungus ON wood grow.
@@ -974,17 +990,17 @@ B: shiro lue muila po thuroa.
 tree ABL earth POT grow.
 (A tree may grow from the earth.)
 
-B: ha teru patha nutrient cycle patho nai.
-PROX process EXT.EXACT [nutrient cycle] EXT.EXACT.CLOSE be.
-(This process is a "nutrient cycle.")
+B: ha teru roe ha phelui se thelima.
+PROX process INS PROX word PASS describe.
+(This process is described with this source term.)
 
 A: mia lo phelui shelomui. whekai mia wela ha teru thela turema welo ma shelomui.
 1SG PL word understand. CONTR 1SG INT.COMP PROX process how return INT.COMP.CLOSE NEG understand.
 (I understand the words. However, I do not understand how this process returns.)
 
-B: mia thekao. patha nutrient cycle patho ha teru ma lilea.
-1SG acknowledge. EXT.EXACT [nutrient cycle] EXT.EXACT.CLOSE PROX process NEG clarify.
-(I acknowledge that. "Nutrient cycle" does not clarify this process.)
+B: mia thekao. ha phelui ha teru ma lilea.
+1SG acknowledge. PROX word PROX process NEG clarify.
+(I acknowledge that. This source term does not clarify this process.)
 
 A: whekai nia ruela wolea pukea nai.
 CONTR ON path wood danger be.
@@ -1006,9 +1022,9 @@ C: ra wolea mua koashira so manolu. ruela shurano so nai.
 DIST wood LOC grove FUT stay. path safe FUT be.
 (That wood will remain in the grove. The path will be safe.)
 
-B: mia ha kanu kelomi. whekai wa ha kanu patha biodiversity patho shorupo.
-1SG PROX choose accept. CONTR Q PROX choose EXT.EXACT [biodiversity] EXT.EXACT.CLOSE protect.
-(I accept this choice. However, does this choice protect "biodiversity"?)
+B: mia ha kanu kelomi. whekai wa ha kanu lo phirae lima thena shorupo.
+1SG PROX choose accept. CONTR Q PROX choose PL different alive thing protect.
+(I accept this choice. However, does this choice protect different living things?)
 
 C: lo mia ma sano. lo mia lo ha thena so nila.
 PL 1SG NEG know. PL 1SG PL PROX thing FUT see.
@@ -1021,22 +1037,22 @@ PL 1SG POST one day PROX place change FUT write.
 
 ### Gap log
 
-- **An exact ecological label can be followed by a useful core analysis.** `patha habitat patho` preserves the source term, while the following clauses identify fungus, insects, birds, plants, wood, place, dwelling, eating, growth, and support. The core account is actionable, but it does not exhaust habitat type, quality, range, nesting, reproduction, seasonality, or the requirements of each organism.
+- **A separately presented ecological label can prompt a useful Phi analysis.** The source term `habitat` remains outside the passage, while the following clauses identify fungus, insects, birds, plants, wood, place, dwelling, eating, growth, and support. The Phi account is actionable, but it does not exhaust habitat type, quality, range, nesting, reproduction, seasonality, or the requirements of each organism.
 - **Dead wood is not captured by a choice between resource and waste.** `wolea`, `whemoa ma nai`, and the listed relations show that fallen material is occupied and active. Phi lacks conventional terms for waste, refuse, organic matter, decay, decomposition, nutrient, or the point at which removal, reuse, retention, or contamination is appropriate.
 - **The attempted material cycle is incomplete.** Fungus eating wood, wood becoming earth, and a tree growing from earth provide a sequence, but they do not state which material changes, how organisms mediate the change, what returns, or whether the process repeats. `nuri`, `turema`, and `sunoe` name cycle, return, and regeneration broadly; none turns an open sequence into a demonstrated material-cycle explanation.
-- **`patha nutrient cycle patho` carries terminology rather than closing the loop.** A can understand every word and still fail to recover how the process returns. The exact term preserves comparison with scientific discourse, while the failed core explanation remains visible instead of being hidden by the label.
-- **Biodiversity cannot be inferred from a list of living things.** Fungus, insects, birds, and plants show plurality and difference, but `patha biodiversity patho` may involve richness, abundance, variation, ecological function, scale, or another source-specific measure. The group cannot conclude that its intervention protects biodiversity merely because some wood remains.
+- **The source term `nutrient cycle` does not close the loop.** A can understand every Phi word and still fail to recover how the process returns. Presenting the source term separately preserves comparison with scientific discourse, while the failed Phi explanation remains visible instead of being hidden by the label.
+- **Biodiversity cannot be inferred from a list of living things.** Fungus, insects, birds, and plants show plurality and difference, but the separately presented source term may involve richness, abundance, variation, ecological function, scale, or another source-specific measure. The group cannot conclude that its intervention protects biodiversity merely because some wood remains.
 - **Safety and ecological retention can be composed as a limited intervention.** Moving only the wood on the path while retaining it in the grove addresses the immediate danger without requiring removal of all fallen material. Phi still lacks conventional language for impact assessment, mitigation, habitat continuity, monitoring interval, or an ecological criterion for judging the result.
 - **Observation and writing do not yet constitute ecological monitoring.** The final plan identifies objects of attention, a future time, place change, and a record. It does not state a baseline, indicator, comparison method, duration, sampling frequency, source authority, or a rule for revising the intervention.
 
-No new root follows from this scenario. It supplies a habitat-and-material-return case for comparison with the river case and keeps the exact ecological terms external until recurring use shows which distinctions require core treatment.
+No new root follows from this scenario. It supplies a habitat-and-material-return case for comparison with the river case and keeps the source ecological terms outside the Phi passage until recurring use shows which distinctions require lexical treatment.
 
 ## Comparison of the ecological systems scenarios
 
 | Dimension | The river above and below the workshop | The fallen tree and the living grove | Comparative finding |
 |---|---|---|---|
 | Ecological scale | Connected stream, river, field, workshop, two sites, and mobile material | Fallen wood, organisms, grove, and one obstructed path | Phi can enumerate entities and local relations at both scales, but neither enumeration establishes a system boundary or the scale relevant to a conclusion. |
-| Exact material | Site identifiers, analyte, values, units, and a threshold category | Habitat, nutrient cycle, and biodiversity terms | Exact carriage preserves source form and comparison targets; it does not supply definition, method, causal relevance, or practical interpretation. |
+| Source material | Site identifiers, analyte, values, units, and a threshold category | Habitat, nutrient cycle, and biodiversity terms | Separate source records preserve source form and comparison targets; they do not supply definition, method, causal relevance, or practical interpretation. |
 | Systems relation | Flow among possible sources and observed outcomes | Feeding, dwelling, support, transformation, growth, and attempted return | Connection and sequence remain expressible, while pathway, dependency, feedback, cumulative effect, and a closed material cycle remain thin. |
 | Lexical pressure | watershed, upstream, downstream, runoff, pollution, contaminant, concentration, threshold | habitat, waste, organic matter, decomposition, nutrient, biodiversity | The missing English labels name several different kinds of failure; they must not become one undifferentiated ecological coinage list. |
 | Causal pressure | Dye, nitrate, field water, rain, and fish deaths permit several causal accounts | Organism and material clauses suggest dependencies without proving them | `ka`, `ke`, and clause order support hypotheses, but causal attribution and ecological dependency require evidence and relation-specific analysis. |
@@ -1045,11 +1061,13 @@ No new root follows from this scenario. It supplies a habitat-and-material-retur
 | Recurring gaps | system boundary, source pathway, scale, evidence interpretation, monitoring, review | system boundary, material pathway, scale, evidence interpretation, monitoring, review | These recurring families are strong enough for a zero-new-root Ecological Systems and Material Life profile. |
 | Scenario-specific gaps | sampling, concentration, pollution, cumulative load, source attribution | habitat quality, decomposition, biodiversity, impact mitigation | Each specialized family still needs independent recurrence or transformation before any vocabulary proposal. |
 
-Together, these scenarios provide the evidence basis for the zero-new-root [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md). They show that Phi can identify organisms, materials, places, flows, measurements, competing explanations, safety needs, limited interventions, uncertainty, and planned observation while remaining thin in ecological system boundaries, pathways, scale, technical interpretation, monitoring, and several domain terms. The profile organizes shared resources and external practice without turning `lorea`, `selu`, `nuri`, `sunoe`, `shelira`, `muila`, or broad solarpunk values into a claim that the ecological relation has already been explained.
+Together, these scenarios provide the evidence basis for the zero-new-root [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md). They show that Phi can identify organisms, materials, places, flows, measurements, competing explanations, safety needs, limited interventions, uncertainty, and planned observation while remaining thin in ecological system boundaries, pathways, scale, technical interpretation, monitoring, and several domain terms. The profile organizes shared resources and source-material practice without turning `lorea`, `selu`, `nuri`, `sunoe`, `shelira`, `muila`, or broad solarpunk values into a claim that the ecological relation has already been explained.
 
 ## 15. The wheel, the chisel, and the promised repair
 
-This scenario tests work-sharing after a promised repair. A shared workshop's wheel is needed by a device that carries water. C committed to repair it under community pressure but does not know the chisel method, has hand pain, and cannot carry the heavy hammer. A knows the method but initially imposes sharp-tool work on apprentice B, who refuses. The speakers must separate commitment, method knowledge, learning, permission, bodily capacity, selected work, exact specifications, and responsibility for safe return to use. None is introduced as an employer, master, owner, or final inspector.
+This scenario tests work-sharing after a promised repair. A shared workshop's wheel is needed by a device that carries water. C committed to repair it under community pressure but does not know the chisel method, has hand pain, and cannot carry the heavy hammer. A knows the method but initially imposes sharp-tool work on apprentice B, who refuses. The speakers must separate commitment, method knowledge, learning, permission, bodily capacity, selected work, source specifications, and responsibility for safe return to use. None is introduced as an employer, master, owner, or final inspector.
+
+Source records outside Phi: specification `axle opening: 24 mm`; warning `DO NOT MOVE UNTIL INSPECTED`; technical term `inspection`.
 
 ```
 A: laenu keritha rolu to pukate.
@@ -1064,13 +1082,13 @@ C: mia mena mia ha rolu pheo ta philo so shiroka meno to seru.
 1SG DECL.COMP 1SG PROX wheel POST one day FUT repair DECL.COMP.CLOSE PST commit.
 (I committed that I would repair this wheel in one day.)
 
-A: ha rolu patha axle opening: 24 mm patho phelona.
-PROX wheel EXT.EXACT [axle opening: 24 mm] EXT.EXACT.CLOSE require.
-(This wheel requires "axle opening: 24 mm.")
+A: ha rolu ha masue phelona.
+PROX wheel PROX measure require.
+(This wheel requires this measurement.)
 
-A: ha keli patha DO NOT MOVE UNTIL INSPECTED patho siru phelu.
-PROX device EXT.EXACT [DO NOT MOVE UNTIL INSPECTED] EXT.EXACT.CLOSE marker hold.
-(This device has a marker reading "DO NOT MOVE UNTIL INSPECTED.")
+A: ha keli ha siru phelu.
+PROX device PROX marker hold.
+(This device has this marker.)
 
 A: mia shiroka norae sano. mia theko to thole.
 1SG repair method know. 1SG craft PST practice.
@@ -1164,9 +1182,9 @@ A: lo mia ma sano. pheo shiroka lo mia rolu so masue. lo mia rolu so somela.
 PL 1SG NEG know. POST repair PL 1SG wheel FUT measure. PL 1SG wheel FUT observe.
 (We do not know. After the repair, we will measure the wheel. We will observe the wheel.)
 
-C: lo mia patha inspection patho reo so shareo.
-PL 1SG EXT.EXACT [inspection] EXT.EXACT.CLOSE meaning FUT discuss.
-(We will discuss what "inspection" means.)
+C: lo mia ha phelui reo so shareo.
+PL 1SG PROX word meaning FUT discuss.
+(We will discuss the meaning of this source term.)
 
 B: mia ha kanu kelomi. whekai mia mena ha rolu shurano nai meno ma sano.
 1SG PROX choose accept. CONTR 1SG DECL.COMP PROX wheel safe be DECL.COMP.CLOSE NEG know.
@@ -1182,8 +1200,8 @@ B: mia ha kanu kelomi. whekai mia mena ha rolu shurano nai meno ma sano.
 - **Consent to learning is bounded and compositional.** B asks to observe, accepts observation and learning, and separately refuses touching the chisel now. The clauses distinguish practical possibility, a polite request, acceptance, and refusal, but Phi has no conventional term for training consent, supervised use, revocation, or scope of permission.
 - **A prior commitment does not create capacity.** C committed under community need but lacks the method, reports hand pain, refuses the heavy hammer, and cannot carry it. `seru`, `phelona`, `kipona`, `po ma`, and `naweri` preserve those facts without defining workload, fatigue, accommodation, urgency pressure, or whether the original commitment should be revised.
 - **Self-selected work is possible without a role system.** Each person chooses a different contribution and the group writes the choices. This does not establish coordination authority, order, dependencies, supervision, substitution, accountability for omission, or a handoff between learning, shaping, measuring, and repair.
-- **Exact specification and warning remain external.** The axle dimension and uppercase safety instruction preserve source form. They do not establish provenance, applicability, access, interpretation, tolerance, method, responsible role, or compliance.
-- **Measurement and observation are not inspection.** The group can measure and observe after repair, but neither action defines defect detection, test conditions, acceptance criteria, independent review, or safe return to use. Carrying `patha inspection patho` exposes rather than solves the gap.
+- **The specification and warning remain separate source records.** The axle dimension and uppercase safety instruction preserve source form outside the Phi passage. The Phi references do not establish provenance, applicability, access, interpretation, tolerance, method, responsible role, or compliance.
+- **Measurement and observation are not inspection.** The group can measure and observe after repair, but neither action defines defect detection, test conditions, acceptance criteria, independent review, or safe return to use. Discussing the separately presented source term `inspection` exposes rather than solves the gap.
 - **The language's positive work semantics are under pressure.** B calls the imposed sharp-tool action `riola` while also naming it dangerous and refusing it. This preserves the immediate facts, but the root's purposeful-contribution framing may still dignify work that the participant does not accept.
 
 No new root follows from this scenario. It demonstrates enough existing craft language for a zero-new-root profile while exposing relational and institutional gaps that another transformed or non-workshop case must test before any vocabulary proposal.
@@ -1197,7 +1215,7 @@ No new root follows from this scenario. It demonstrates enough existing craft la
 | Can Phi preserve refusal and capacity? | B refuses sharp-tool work; C reports pain, refuses a heavy task, and states inability. | **Demonstrated in one case.** Scope, workload, accommodation, and retaliation remain untested. |
 | Can Phi distinguish learning from authorization? | B is an apprentice, lacks method knowledge, asks to observe, accepts learning, and refuses touching the tool. | **Compositional.** Skill, qualification, supervision, and training consent remain thin. |
 | Can Phi state responsibility? | C's prior commitment, A's method knowledge and error, and the group's choices remain separate. | **Compositional.** Assigned duty, final approval, omission, and institutional responsibility remain unresolved. |
-| Can Phi preserve technical precision? | Exact dimension and safety wording remain intact. | **External bridge.** Provenance, tolerance, applicability, and interpretation are not supplied. |
+| Can Phi preserve technical precision? | The exact dimension and safety wording remain intact in separate source records. | **Source-material bridge.** Provenance, tolerance, applicability, and interpretation are not supplied. |
 | Can Phi establish safe completion? | The group plans measurement and observation but cannot identify who will know the wheel is safe. | **Gap.** Inspection, testing, acceptance criteria, sign-off, and safe return to use remain unconventionalized. |
 | Do positive labor roots cover unwanted work neutrally? | Dangerous imposed work can be refused, but `riola` still frames it as purposeful contribution. | **Semantic pressure confirmed.** The profile needs and now states an explicit boundary against romanticizing labor. |
 

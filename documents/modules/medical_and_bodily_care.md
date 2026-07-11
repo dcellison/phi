@@ -15,7 +15,7 @@ The profile gives priority to a person's own report, explicit explanation, sourc
 - Heat, cold, smoke, contaminated water, food conditions, and other environmental exposures overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). An ecological finding does not establish an individual diagnosis, and a bodily report does not by itself establish an ecological source or system effect.
 - Pain, fatigue, rest, capacity, safety, assistance, and changed participation in work overlap [Work, Craft, and Repair](work_craft_and_repair.md). A work role, task, commitment, method claim, or exact safety instruction does not establish diagnosis, bodily capacity, consent, clinical interpretation, or fitness for work.
 - Mental and emotional care may overlap with bodily care, but this profile does not claim that current bodily vocabulary adequately covers mental health practice.
-- Reproductive health, sexuality, gender, abuse, coercion, and testimony require their own respectful scenarios before this profile can state how much belongs in shared core, another profile, or marked external material.
+- Reproductive health, sexuality, gender, abuse, coercion, and testimony require their own respectful scenarios before this profile can state how much belongs in shared core, another profile, or source material outside the Phi passage.
 - No word listed here grants a person a professional role, expertise, authority, or permission to act on someone else.
 
 ## Shared Core Dependencies
@@ -28,11 +28,11 @@ These are existing Phi roots and function words. The profile indexes them withou
 | Care and safety | `theama` care, `theala` heal, `nepha` medicine, `naphe` help, `panoru` support, `shorupo` protect, `shurano` safe, `pukea` danger, `phelona` require | Speakers can request care, distinguish support from a particular intervention, and discuss safety in broad terms. |
 | Autonomy and interaction | `palo` touch, `loa` give, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `nawea` respect, `hasi` wait, `pi` politeness, `wa` question | Speakers can ask before an action, refuse it, acknowledge the refusal, pause, and continue explanation. These resources do not yet encode full informed consent. |
 | Explanation and understanding | `reo` meaning, `lilea` clarify, `shelomui` understand, `sano` know, `nohero` believe, `nila` see, `hea` hear | A person can distinguish receiving information, understanding it, believing it, and asking for clarification. |
-| Evidence, precision, and modality | `masue` measure, `siru` marker, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `patha ... patho` exact material | Phi can preserve source data and mark how a claim was obtained, but a source marker does not establish expertise, validity, or clinical significance. |
+| Evidence, precision, and modality | `masue` measure, `siru` marker, `siranomi` record, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, and separately preserved source material | Phi can discuss a source record and mark how a claim was obtained, but a source marker does not establish expertise, validity, or clinical significance. |
 
 ## Optional Cross-Module Dependencies
 
-The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `hisophira` contaminant, `pelokira` toxic, `nomiraki` concentration, `pelorawi` expose, `phisumari` sample, `mothanomi` baseline, `helurani` trend, `reloteru` model, and `somethiru` monitor. Medical speakers may use these ordinary Phi words wherever their definitions fit, but a contaminant is not automatically an infection, toxicity is not an observed effect, exposure is not dose or uptake, an ecological sample is not automatically a clinical specimen, and monitoring does not authorize observation of a person. Exact medical classifications, methods, values, and source terms remain external when their identity or precision matters.
+The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `hisophira` contaminant, `pelokira` toxic, `nomiraki` concentration, `pelorawi` expose, `phisumari` sample, `mothanomi` baseline, `helurani` trend, `reloteru` model, and `somethiru` monitor. Medical speakers may use these ordinary Phi words wherever their definitions fit, but a contaminant is not automatically an infection, toxicity is not an observed effect, exposure is not dose or uptake, an ecological sample is not automatically a clinical specimen, and monitoring does not authorize observation of a person. Exact medical classifications, methods, values, and source terms remain outside the Phi passage when their identity or precision matters.
 
 The established [Commons and Collective Governance module](commons_and_collective_governance.md) supplies `shanelori` represent, `silathora` role, `kanorami` authority, `kanuloa` authorize, `nasholu` rule, `kanusholu` decision, `naserumi` obligation, `lonathoni` accountable, `shaneweli` notify, `siranomi` record, `turekiro` review, `kanuwhera` coerce, and `whekapelo` retaliate. Medical speakers may use these words for institutional relations, but authorization is not informed consent, a professional role is not competence, a record is not accurate or accessible by default, obligation does not override bodily refusal, and no governance decision establishes an individual diagnosis or suitable care.
 
@@ -43,7 +43,7 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 | Report a sensation | Compose a bodily location or state with `phaelo`, `kipona`, `mokela`, or another existing root. | Phi has no conventional distinction among symptom, sign, condition, injury, disease, or diagnosis. |
 | Ask before touch or transfer | Use a polite whole-clause question with `pi wa`, the possible action, and `po`. | `po` also expresses practical possibility, so permission remains contextual. |
 | Refuse and acknowledge | Use `naweri` or `ma nawo`, then `thekao`; state the stopped action explicitly where needed. | Scope, duration, withdrawal, alternatives, and informed consent are not conventionalized. |
-| Preserve a reading or instruction | Carry the complete source form in `patha ... patho`. | Exact carriage preserves data but does not interpret it or make it safe to act upon. |
+| Preserve a reading or instruction | Keep the complete artifact in a separate source record and use Phi to identify, explain, or question it. | Exact preservation does not interpret the record or make it safe to act upon. |
 | State uncertainty | Use `ma sano`, `ho`, `ke`, `po`, and explicit source clauses. | These forms do not express calibrated probability, clinical risk, or confidence intervals. |
 | Discuss care | Use `theama`, `theala`, `naphe`, `panoru`, safety vocabulary, ordinary decisions, and Commons terms for general roles, records, obligations, and accountability where they fit. | Phi still lacks conventional clinical roles, handoffs, care plans, medical accountability standards, and the distinctions needed for informed consent. |
 
@@ -54,13 +54,13 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 
 These scenarios establish useful compositions and a before-state for vocabulary development. They do not establish a medical standard, but the profile's vocabulary pass may coin terms from this inventory according to usefulness, semantic care, and Phi's design.
 
-## External Register Guidance
+## Source Material Guidance
 
-Use `patha ... patho` whenever spelling, script, value, unit, identifier, medicine label, source instruction, quotation, or other health record must remain exact. Preserve the payload as source material; do not silently convert, round, translate, or normalize it. A Phi explanation may accompany the exact form, but the explanation must not be presented as equivalent when it omits a medically relevant distinction.
+Keep spelling, script, values, units, identifiers, medicine labels, source instructions, quotations, and health records outside the Phi passage whenever their exact form matters. Preserve the artifact through the surrounding document, interface, or conversation without silent conversion, rounding, translation, or normalization. A Phi explanation may accompany it but must not be presented as equivalent when it omits a medically relevant distinction.
 
-Use `hasha ... hasho` only for a temporary speakable adaptation whose source form need not remain authoritative. An adapted name or technical term remains a guest, not a diagnosis or core Phi category.
+Use a valid Phi word, transparent expression, or module term when Phi needs the concept. Use `ne` plus a bearer-approved two- or three-syllable onym for a name inside Phi. A source name or technical term that does not fit those choices remains outside the Phi passage rather than becoming a temporary lexical class.
 
-Neither external frame supplies clinical interpretation. If speakers do not understand an exact reading, instruction, or term, Phi should state that lack of understanding rather than infer a recommendation from the payload.
+Separate preservation supplies no clinical interpretation. If speakers do not understand a reading, instruction, or term, Phi should state that lack of understanding rather than infer a recommendation from the artifact.
 
 ## Vocabulary Pass Inventory
 

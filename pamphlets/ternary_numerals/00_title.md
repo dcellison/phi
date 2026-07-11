@@ -34,4 +34,4 @@ This pamphlet assumes the particle system (manual ch9) and basic noun phrases (c
 
 ---
 
-*Core Phi makes long strings of figures conspicuous and asks what they measure. Exact external notation remains available when the figures themselves must survive.*
+*Core Phi makes long strings of figures conspicuous and asks what they measure. Exact notation remains available in source material outside the Phi passage when the figures themselves must survive.*

@@ -6,7 +6,7 @@
 
 Phi is a serious, unusually coherent philosophical constructed language. It is best classified as a blend of **artlang**, **engineered language**, and **contemplative practice**, rather than a neutral international auxiliary language.
 
-Its strongest achievements are regularity, thematic unity, extensive documentation, a complete teaching path, and enough grammar for sophisticated narrative and philosophical writing. Since the original assessment, Phi has added marked external registers, productive Phi-form names, and optional Philosophical Reasoning, Systems and Shared Infrastructure, Ecological Systems and Material Life, and Commons and Collective Governance vocabulary modules. Its principal remaining weaknesses are lexical and phonological crowding, thin coverage of several modern domains, limited original use of its new specialist vocabulary, and the absence of real learner or conversational evidence.
+Its strongest achievements are regularity, thematic unity, extensive documentation, a complete teaching path, and enough grammar for sophisticated narrative and philosophical writing. Since the original assessment, Phi has added productive Phi-form names and optional Philosophical Reasoning, Systems and Shared Infrastructure, Ecological Systems and Material Life, and Commons and Collective Governance vocabulary modules. It subsequently removed its guest and exact external frames in favor of keeping source artifacts outside Phi and began replacing every inherited four-syllable word under an absolute three-syllable ceiling. Its principal remaining weaknesses are lexical and phonological crowding, thin coverage of several modern domains, limited original use of its new specialist vocabulary, and the absence of real learner or conversational evidence.
 
 **Overall judgment:** basic Phi should be relatively easy to learn; fluent spontaneous Phi would be substantially harder than the project's introductory claims suggest. It is complete for its chosen literary and contemplative domain, but not yet general-purpose.
 
@@ -41,9 +41,9 @@ SOV itself is common: WALS records 564 SOV languages against 488 SVO languages. 
 
 ## Foundations Added Since the Initial Assessment
 
-Phi now has three distinct identity and interoperability mechanisms. `ne` licenses productive two- through four-syllable Phi-form names; `hasha ... hasho` carries pronounceable adapted guest material; and `patha ... patho` preserves exact opaque spelling, scripts, notation, measurements, identifiers, and quotations. These mechanisms remove the former structural dead end without making outside material unmarked core vocabulary.
+Phi now draws a firmer boundary around identity and interoperability. `ne` licenses productive two- or three-syllable Phi-form names accepted by the bearer or naming community. Longer, multi-token, non-Phi-shaped, and source-script names remain outside Phi passages, as do exact spellings, scripts, notation, measurements, identifiers, and quotations. Vocabulary, transparent expressions, and optional modules carry concepts that Phi chooses to express.
 
-The new mechanisms establish carriage, not demonstrated usability. Exact data still needs a Phi explanation of its role, guest adaptations still require shared pronunciation, and productive names still need learner and listening evidence. The Systems module supplies terms for state, capacity, calibration, specifications, hazards, and other technical relations; the Ecological module supplies samples, baselines, trends, models, concentrations, exposures, and monitoring; and the Commons module supplies institutions, authority, rules, decisions, entitlements, ownership, accountability, records, review, coercion, and retaliation. None interprets an exact source or replaces domain expertise.
+These mechanisms establish a design boundary, not demonstrated usability. Exact data still needs a Phi explanation of its role, source pronunciation remains an outside convention, and productive names still need learner and listening evidence. The Systems module supplies terms for state, capacity, calibration, specifications, hazards, and other technical relations; the Ecological module supplies samples, baselines, trends, models, concentrations, exposures, and monitoring; and the Commons module supplies institutions, authority, rules, decisions, entitlements, ownership, accountability, records, review, coercion, and retaliation. None interprets a source artifact or replaces domain expertise.
 
 ## What Remains Missing
 
@@ -82,7 +82,7 @@ Likewise, the five pillars are a strong artistic identity, not cultural neutrali
 | Recommendation | Status | Next criterion |
 |---|---|---|
 | State Phi's primary identity rather than treating it as an auxlang | **Done** | Revisit only if actual use changes the purpose. |
-| Add marked mechanisms for names, guest material, and exact outside material | **Done** | Preserve the distinction among productive names, guest adaptation, and exact carriage. |
+| Establish clear handling for names and outside source material | **Done** | Preserve the distinction between productive Phi-form names and source material that remains outside Phi passages. |
 | Add phoneme-aware collision analysis | **Partial** | The audit and baseline exist; prioritize only collisions confirmed by listening evidence. |
 | Define acceptable accented and conversational pronunciation | **Ready for evidence** | Record careful and conversational speech, then test listeners across language backgrounds. |
 | Test real scenarios and sustained philosophical discussion | **Partial** | Fifteen regression dialogues and eight profiles exist; transformation, repair, independent-reader, and longer-form tests remain. |

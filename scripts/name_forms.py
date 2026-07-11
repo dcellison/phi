@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Productive Phi-form proper names licensed by ``ne``.
 
-Name-forms are deliberately narrower than guest payload: one lowercase
-content-shaped token of two through four ordinary Phi syllables. They are not
-lexicon entries, so lexical collision checks do not apply.
+Name-forms are one lowercase content-shaped token of two or three ordinary
+Phi syllables. They are not lexicon entries, so lexical collision checks do
+not apply, but retired Phi forms remain unavailable for reassignment.
 """
 
 import re
+from pathlib import Path
 
 
 CONSONANTS = set("hklmnprstw")
@@ -16,7 +17,23 @@ PHI_LETTERS = CONSONANTS | VOWELS
 
 NAME_MARKER = "ne"
 HONORIFICS = {"sa", "ni", "le"}
-EXTERNAL_OPENERS = {"hasha", "patha"}
+
+RETIRED_FORMS_FILE = (
+    Path(__file__).resolve().parent.parent / "documents" / "retired_forms.txt"
+)
+
+
+def load_retired_forms():
+    """Return forms that historical Phi used but current Phi must not reuse."""
+    forms = set()
+    for raw in RETIRED_FORMS_FILE.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if line and not line.startswith("#"):
+            forms.add(line.split()[0])
+    return frozenset(forms)
+
+
+RETIRED_FORMS = load_retired_forms()
 
 
 def syllabify(word):
@@ -47,6 +64,8 @@ def form_errors(word):
     errors = []
     if not word:
         return ["empty name-form"]
+    if word in RETIRED_FORMS:
+        errors.append("is a retired Phi form")
     if word != word.lower():
         errors.append("must be lowercase")
     bad = set(word) - PHI_LETTERS
@@ -61,8 +80,8 @@ def form_errors(word):
     if syllables is None:
         errors.append("cannot be parsed into Phi open syllables")
         return errors
-    if len(syllables) not in (2, 3, 4):
-        errors.append("must contain two, three, or four syllables")
+    if len(syllables) not in (2, 3):
+        errors.append("must contain two or three syllables")
     onset_syllables = [s for s in syllables if len(s) >= 2]
     duplicates = sorted({
         syllable for syllable in onset_syllables
@@ -77,8 +96,7 @@ def marked_atom_indices(tokens):
     """Return token indices used as name atoms after ``ne`` or an honorific.
 
     Honorific-only marking remains available in established conversational
-    register. External openers are returned as the atom and handled by the
-    external-register parser rather than the productive-name validator.
+    register.
     """
     indices = set()
     expecting_name = False

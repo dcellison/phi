@@ -18,9 +18,6 @@ jobs:
       - name: Validate lexicon and examples
         run: python3 scripts/validate_examples.py
 
-      - name: Test external register parser
-        run: python3 scripts/test_external_register.py
-
       - name: Test productive name forms
         run: python3 scripts/test_name_forms.py
 

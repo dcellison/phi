@@ -17,7 +17,7 @@
 | ! | `ru` on the word; the interjections; `su` for the wish | ch9 §5, Part 6 |
 | … and — (the written pause) | nothing, pauses are free and unwritten | canon |
 | . | the period (the one silent mark) | canon |
-| arbitrary source marks | preserve inside `patha … patho` | ch24, external-register pamphlet |
+| arbitrary source marks | preserve outside the Phi passage in the source medium | ch24, source-material pamphlet |
 
 ### The one-liners
 
@@ -28,11 +28,11 @@
 - English's busiest comma (after the if-clause) is Phi's one silent mark, promoted to a period.
 - The closer is the comma you can hear. It is never optional.
 - Volume is not information: `ru` says what is intense, the interjection says what is felt, `su` says what is hoped.
-- The core dictation test asks whether lexical punctuation survives a specific careful transmission; exact payload requires its own external spelling or display convention.
+- The Phi dictation test asks whether lexical punctuation survives a specific careful transmission; a source artifact requires its own spelling, citation, or display convention.
 
 ### What the validator holds
 
-The page side is enforced outside exact payload: periods only, no capitals, no `,` `?` `!` `;`. Inside `patha … patho`, the validator preserves arbitrary source content and resumes every core check at the closer. The voice side remains a practice to test rather than a machine-verifiable guarantee.
+The validator enforces periods only, no capitals, and no `,` `?` `!` `;` throughout Phi text. Source artifacts remain outside the checked Phi passage. The voice side remains a practice to test rather than a machine-verifiable guarantee.
 
 ### The connectives of this pamphlet
 
@@ -46,7 +46,7 @@ The page side is enforced outside exact payload: periods only, no capitals, no `
 
 ### Cross-references
 
-- Canon: the *Punctuation*, *Letters*, and *External register* rulings.
+- Canon: the *Punctuation*, *Letters*, and *Source material* rulings.
 - The quick reference: `manual/part7_reference/quick_reference_grammar.md`, the one-line summary.
 - Doctrine: manual ch9 §3 (Slot 0); ch10 §5 (questions); ch17 (coordination); ch19 (subordination, speech, adverbials); ch21 §1 (the vocative).
 - Sibling pamphlets: 2 (the closers, drilled); 3 (what the frame copies and never adds); 5 (the spoken capital, whole); 6 (recitation, where the free pauses earn their keep).

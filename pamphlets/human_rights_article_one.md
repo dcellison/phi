@@ -38,7 +38,7 @@ udhr: "and should act towards one another in a spirit of brotherhood."
 
 ### theula miona kolo rolia phelu.
 
-*…and equal in dignity and rights.* Here the transmutation begins. Core Phi has no established legal term for rights, and its value-explicit design declines to invent one from a single translation. What this transmutation protects, it states as worth held equally. Exact legal wording remains available in `patha … patho` whenever analysis, advocacy, or citation requires it.
+*…and equal in dignity and rights.* Here the transmutation begins. Phi has no established legal term for rights, and its value-explicit design declines to invent one from a single translation. What this transmutation protects, it states as worth held equally. Exact legal wording remains separately available as source material whenever analysis, advocacy, or citation requires it.
 
 **Notes:** "dignity and rights" → `kolo rolia`, equal worth. The gap log's honest entry: a right, in Phi, is not a possession but a fact about worth that others are bound to see. Whether Phi ever needs a legal vocabulary is a question for another decade.
 

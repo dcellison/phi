@@ -28,14 +28,9 @@ The single validation tool for the Phi project. Checks:
   2. Documentation examples (documents/, manual/, pamphlets/, CLAUDE.md):
      - every Phi token inside fenced code blocks exists in the lexicon,
        except a productive name-form licensed directly by `ne`
-     - adapted payload inside hasha...hasho follows guest phonotactics
-       without requiring a lexicon entry
-     - opaque payload inside patha...patho preserves arbitrary source
-       text while boundaries, escaping, and surrounding Phi are checked
      - gloss lines beneath Phi lines render each word by its lexicon
        gloss, verbatim (names after ne/honorifics gloss as themselves;
-       register names accept either reading; translation lines and
-       marked-wrong teaching examples are exempt)
+       translation lines and marked-wrong teaching examples are exempt)
      - a small whitelist covers deliberate error and contrast forms
 
   3. Phi quoted inside lexicon prose fields:
@@ -57,16 +52,19 @@ Exit code 0 = no errors (warnings allowed), 1 = errors found.
 """
 
 import argparse
+import csv
 import json
 import re
 import sys
 from pathlib import Path
 
-import external_register
 import name_forms
 
 PROJECT_ROOT = Path(__file__).parent.parent
 MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "minimal_pairs_baseline.txt"
+FOUR_SYLLABLE_MIGRATION_FILE = (
+    PROJECT_ROOT / "documents" / "four_syllable_migration.tsv"
+)
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 
 DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md"]
@@ -75,6 +73,76 @@ CONSONANTS = set("hklmnprstw")
 DIGRAPHS = ("ph", "th", "sh", "wh")
 VOWELS = set("aeiou")
 PHI_LETTERS = CONSONANTS | VOWELS
+
+
+MIGRATION_FIELDS = ["old_form", "new_form", "gloss", "scope", "status"]
+MIGRATION_SCOPES = {
+    "base",
+    "philosophical-reasoning",
+    "systems-and-shared-infrastructure",
+    "ecological-systems-and-material-life",
+    "commons-and-collective-governance",
+}
+MIGRATION_ROW_COUNT = 112
+
+
+def load_four_syllable_migration():
+    """Load and structurally validate the finite breaking-change ledger."""
+    errors = []
+    with FOUR_SYLLABLE_MIGRATION_FILE.open(
+        encoding="utf-8", newline=""
+    ) as handle:
+        reader = csv.DictReader(handle, delimiter="\t")
+        if reader.fieldnames != MIGRATION_FIELDS:
+            return [], [
+                f"{FOUR_SYLLABLE_MIGRATION_FILE.relative_to(PROJECT_ROOT)}: "
+                f"expected columns {MIGRATION_FIELDS}, found {reader.fieldnames}"
+            ]
+        rows = list(reader)
+
+    if len(rows) != MIGRATION_ROW_COUNT:
+        errors.append(
+            f"{FOUR_SYLLABLE_MIGRATION_FILE.relative_to(PROJECT_ROOT)}: "
+            f"expected the fixed {MIGRATION_ROW_COUNT}-form ledger, found "
+            f"{len(rows)} rows"
+        )
+
+    seen = set()
+    seen_replacements = set()
+    for lineno, row in enumerate(rows, 2):
+        old_form = row["old_form"]
+        new_form = row["new_form"]
+        status = row["status"]
+        prefix = (
+            f"{FOUR_SYLLABLE_MIGRATION_FILE.relative_to(PROJECT_ROOT)}:"
+            f"{lineno}"
+        )
+        if not all(row[field] for field in MIGRATION_FIELDS):
+            errors.append(f"{prefix}: every migration field must be nonempty")
+        if old_form in seen:
+            errors.append(f"{prefix}: duplicate old form '{old_form}'")
+        seen.add(old_form)
+        if row["scope"] not in MIGRATION_SCOPES:
+            errors.append(f"{prefix}: unknown migration scope '{row['scope']}'")
+        if status not in {"pending", "replaced"}:
+            errors.append(f"{prefix}: status must be pending or replaced")
+        elif status == "pending" and new_form != "-":
+            errors.append(f"{prefix}: pending row must use '-' for new_form")
+        elif status == "replaced" and new_form == "-":
+            errors.append(f"{prefix}: replaced row must name its new form")
+        elif status == "replaced":
+            if new_form in seen_replacements:
+                errors.append(f"{prefix}: duplicate replacement '{new_form}'")
+            seen_replacements.add(new_form)
+    return rows, errors
+
+
+FOUR_SYLLABLE_MIGRATION, MIGRATION_ERRORS = load_four_syllable_migration()
+PENDING_FOUR_SYLLABLE_FORMS = frozenset(
+    row["old_form"]
+    for row in FOUR_SYLLABLE_MIGRATION
+    if row["status"] == "pending"
+)
 
 REQUIRED_FIELDS = [
     "word", "gloss", "ipa", "syllables", "pos", "concept",
@@ -326,7 +394,7 @@ def load_lexicon():
 
 
 def check_lexicon(entries):
-    errors = []
+    errors = list(MIGRATION_ERRORS)
     warnings = []
     by_word = {}
     by_gloss = {}
@@ -334,6 +402,9 @@ def check_lexicon(entries):
     for rel, data in entries:
         word = data.get("word", "")
         cls = rel.parts[1] if len(rel.parts) > 1 else ""
+
+        if word in name_forms.RETIRED_FORMS:
+            errors.append(f"{rel}: word '{word}' is a retired Phi form")
 
         for field in REQUIRED_FIELDS:
             if field not in data or data[field] in ("", [], {}):
@@ -353,6 +424,12 @@ def check_lexicon(entries):
 
         canonical = syllabify(word)
         stored = data.get("syllables")
+        if (canonical is not None and len(canonical) > 3
+                and word not in PENDING_FOUR_SYLLABLE_FORMS):
+            errors.append(
+                f"{rel}: word '{word}' exceeds the three-syllable ceiling "
+                "and is not in the finite migration ledger"
+            )
         if canonical is not None and stored is not None and stored != canonical:
             errors.append(
                 f"{rel}: syllables array {stored} does not match canonical "
@@ -502,8 +579,6 @@ def check_lexicon(entries):
                 name_indices = name_forms.marked_atom_indices(tokens)
                 for index, t in enumerate(tokens):
                     if index in name_indices:
-                        if t in name_forms.EXTERNAL_OPENERS:
-                            continue
                         atom_errors = name_atom_errors(
                             t, lexicon_words, content_words
                         )
@@ -575,6 +650,43 @@ def check_lexicon(entries):
         if len(files) > 1:
             errors.append(
                 f"DUPLICATE WORD '{word}' in: " + "; ".join(str(f) for f in files)
+            )
+    stale_pending = PENDING_FOUR_SYLLABLE_FORMS - set(by_word)
+    if stale_pending:
+        errors.append(
+            "four-syllable migration ledger has pending forms absent from "
+            f"the lexicon: {sorted(stale_pending)}"
+        )
+    for row in FOUR_SYLLABLE_MIGRATION:
+        old_form = row["old_form"]
+        old_syllables = syllabify(old_form)
+        if old_syllables is None or len(old_syllables) != 4:
+            errors.append(
+                "four-syllable migration ledger old form must contain "
+                f"exactly four Phi syllables: '{old_form}'"
+            )
+        if row["status"] != "replaced":
+            continue
+        new_form = row["new_form"]
+        if old_form in by_word:
+            errors.append(
+                f"replaced migration form remains in the lexicon: '{old_form}'"
+            )
+        if old_form not in name_forms.RETIRED_FORMS:
+            errors.append(
+                "replaced migration form is missing from retired_forms.txt: "
+                f"'{old_form}'"
+            )
+        if new_form not in by_word:
+            errors.append(
+                f"migration replacement is missing from the lexicon: "
+                f"'{new_form}'"
+            )
+        new_syllables = syllabify(new_form)
+        if new_syllables is None or len(new_syllables) > 3:
+            errors.append(
+                "migration replacement must be a Phi form of at most three "
+                f"syllables: '{new_form}'"
             )
     for gloss, items in sorted(by_gloss.items()):
         if len(items) > 1:
@@ -750,11 +862,9 @@ def is_phi_line(raw_line, lexicon_words, strict=False):
     strict=True (used for *italic* spans in prose, where short English
     fragments like "point to" can collide with Phi particles) requires a
     strict majority of known tokens instead of at-least-half."""
-    external = external_register.analyze(raw_line)
-    core_line = external.core_text
-    if GLOSS_HINTS.search(core_line):
+    if GLOSS_HINTS.search(raw_line):
         return False
-    stripped = strip_brackets(core_line)
+    stripped = strip_brackets(raw_line)
     tokens = stripped.split()
     if not tokens:
         return False
@@ -772,8 +882,7 @@ def is_phi_line(raw_line, lexicon_words, strict=False):
 
 
 def phi_tokens(raw_line):
-    core_line = external_register.analyze(raw_line).core_text
-    return strip_brackets(core_line).split()
+    return strip_brackets(raw_line).split()
 
 
 # Household-corpus words that recur as names and gloss as themselves when
@@ -823,54 +932,17 @@ def expected_gloss_stream(phi_line, gloss_of):
                 expecting_name = False
         return True
 
-    external = external_register.analyze(phi_line)
-    if external.errors:
-        return None
-    cursor = 0
-    for span in external.spans:
-        if not append_core(phi_line[cursor:span.payload_start]):
-            return None
-        payload = phi_line[span.payload_start:span.payload_end].strip()
-        if not payload:
-            return None
-        for token in f"[{payload}]".split():
-            out.append({token})
-        closer = (external_register.GUEST_CLOSE if span.kind == "guest"
-                  else external_register.EXACT_CLOSE)
-        if not append_core(closer):
-            return None
-        expecting_name = False
-        cursor = span.end
-    if not append_core(phi_line[cursor:]):
+    if not append_core(phi_line):
         return None
     return out
 
 
 def gloss_line_tokens(gloss_line):
-    """Split a gloss line without altering opaque payload notation.
-
-    Gloss lines spell an external payload as ``[payload]``. Punctuation inside
-    that bracketed representation belongs to the source payload, so stripping
-    ordinary line punctuation from every token would silently change it.
-    """
-    tokens = []
-    in_payload = False
-    for raw in gloss_line.split():
-        if in_payload or raw.startswith("["):
-            # A period after a closing bracket ends the gloss sentence. Any
-            # punctuation before that bracket belongs to the quoted source
-            # material and must remain intact.
-            token = raw
-            close = token.rfind("]")
-            if close >= 0 and token[close + 1:].strip(".,;:!?\"'") == "":
-                token = token[:close + 1]
-            tokens.append(token)
-            in_payload = not token.endswith("]")
-        else:
-            token = raw.strip(".,;:!?\"'")
-            if token:
-                tokens.append(token)
-    return tokens
+    """Split a gloss line and discard ordinary sentence punctuation."""
+    return [
+        token for raw in gloss_line.split()
+        if (token := raw.strip(".,;:!?\"'"))
+    ]
 
 
 def check_gloss_lines(rel, text, lexicon_words, gloss_of):
@@ -980,17 +1052,9 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                 # detection is case-blind so capitalized Phi cannot hide
                 if not is_phi_line(cand.lower(), lexicon_words, strict=strict):
                     continue
-                external = external_register.analyze(cand)
-                for error in external.errors:
-                    errors.append(
-                        f"{rel}:{lineno}: external register: {error}"
-                    )
-                # Exact payload deliberately retains source case.  Guest
-                # payload remains in this view and its stricter lowercase
-                # rule is reported by the shared parser above.
                 visible_tokens = [
                     tok.strip(".,;:!?\"'()*")
-                    for tok in external.punctuation_text.split()
+                    for tok in cand.split()
                 ]
                 visible_name_indices = name_forms.marked_atom_indices(
                     [token.lower() for token in visible_tokens]
@@ -1007,15 +1071,13 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                 # only on fenced lines (prose cites Phi words inside English
                 # sentences whose commas are English), with parenthetical
                 # annotations stripped first
-                bare = re.sub(r"\([^)]*\)", "", external.punctuation_text)
+                bare = re.sub(r"\([^)]*\)", "", cand)
                 if "?" in bare or "!" in bare or ";" in bare or (not excuse_commas and "," in bare):
                     errors.append(f"{rel}:{lineno}: punctuation in Phi text: periods only (no commas or question marks)")
                 tokens = phi_tokens(cand.lower())
                 name_indices = name_forms.marked_atom_indices(tokens)
                 for index, tok in enumerate(tokens):
                     if index in name_indices:
-                        if tok in name_forms.EXTERNAL_OPENERS:
-                            continue
                         atom_errors = name_atom_errors(
                             tok, lexicon_words, content_words
                         )

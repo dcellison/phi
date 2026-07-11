@@ -32,7 +32,7 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 
 The profile begins with [primer chapter 1](../../primer/01_the_household.md), which already introduces the word for home, family and friendship roles, and a small scene. It then moves from naming a dwelling to ordinary shared acts: prepare food, eat, rest, clean, repair, and decide what needs tending.
 
-When a local food, material, appliance, building rule, address, quantity, or source label must remain exact, use `patha ... patho`. A familiar external term that needs a speakable temporary adaptation uses `hasha ... hasho`. Neither frame is a substitute for explaining a safety-critical instruction in shared Phi.
+When a local food, material, appliance, building rule, address, quantity, or source label must remain exact, preserve it outside the Phi passage in the surrounding medium. Use existing vocabulary, a transparent expression, a module term, or a fully admitted new word when Phi needs the concept itself. Separate preservation is not a substitute for explaining a safety-critical instruction in shared Phi.
 
 Material sourcing, heat and cooling, water use, food cultivation, reuse, and waste overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). Domestic labor, practical learning, tools, maintenance, and repair overlap [Work, Craft, and Repair](work_craft_and_repair.md). Listing wood, cloth, food, water, fire, or repair in a household description does not establish that the arrangement is ecologically sustainable, safe, accessible, fairly governed, voluntarily shared, or complete.
 
@@ -74,7 +74,7 @@ PL 1SG rest.
 Write or review a description of a dwelling or shared daily routine, then compare it with the dependency map and record:
 
 1. Roots that were available but not findable.
-2. Concepts that required an external frame or a composition.
+2. Concepts that required a separate source artifact or a composition.
 3. English rescue words that could not be expressed faithfully.
 4. Any profile grouping that encouraged an inaccurate social assumption.
 

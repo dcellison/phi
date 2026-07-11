@@ -9,12 +9,18 @@ import html as html_module
 import json
 from pathlib import Path
 
-import external_register
-
 ROOT = Path(__file__).resolve().parent.parent
 FIELDS = ["word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
           "description", "sound_symbolism", "grammatical_notes", "pillars", "tags",
           "modules"]
+
+
+def prepare_html_output(path):
+    """Create a generated HTML directory and remove obsolete pages."""
+    path.mkdir(parents=True, exist_ok=True)
+    for generated in path.glob("*.html"):
+        generated.unlink()
+
 
 entries = []
 for p in sorted((ROOT / "vocabulary").rglob("*.json")):
@@ -32,35 +38,6 @@ print(f"wrote {out.relative_to(ROOT)}: {len(entries)} entries, {out.stat().st_si
 import re
 
 
-def external_markup(line):
-    """Escape one source line and mark complete external frames safely."""
-    parsed = external_register.analyze(line)
-    if parsed.errors or not parsed.spans:
-        return html_module.escape(line, quote=False)
-    out = []
-    cursor = 0
-    for span in parsed.spans:
-        out.append(html_module.escape(line[cursor:span.start], quote=False))
-        opener = (external_register.GUEST_OPEN if span.kind == "guest"
-                  else external_register.EXACT_OPEN)
-        out.append(f'<span class="external-frame external-{span.kind}">')
-        out.append(
-            f'<span class="external-boundary">{opener}</span>'
-        )
-        out.append(
-            f'<span class="external-payload">'
-            f'{html_module.escape(line[span.payload_start:span.payload_end], quote=False)}'
-            f'</span>'
-        )
-        closer = line[span.payload_end:span.end]
-        out.append(
-            f'<span class="external-boundary">'
-            f'{html_module.escape(closer, quote=False)}</span></span>'
-        )
-        cursor = span.end
-    out.append(html_module.escape(line[cursor:], quote=False))
-    return "".join(out)
-
 def md_to_html(md):
     """Convert the repo's constrained Markdown (headings, paragraphs,
     blockquotes, tables, lists, fenced code, hr, inline marks) to HTML."""
@@ -68,7 +45,9 @@ def md_to_html(md):
     fences = []
     def lift(m):
         inner = m.group(1).strip("\n")
-        inner = "\n".join(external_markup(line) for line in inner.splitlines())
+        inner = "\n".join(
+            html_module.escape(line, quote=False) for line in inner.splitlines()
+        )
         fences.append(f"<pre>{inner}</pre>")
         return f"\x00FENCE{len(fences)-1}\x00"
     md = re.sub(r"```[a-z]*\n(.*?)```", lift, md, flags=re.S)
@@ -141,7 +120,7 @@ landing = f"""<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Phi is a philosophical constructed language organized by modifier-first grammar and an unhurried practice of communication.">
 <meta property="og:title" content="Phi — a language built to slow you down">
-<meta property="og:description" content="A modifier-first organizing principle, regular forms, marked external material, nine hundred words, a primer, a manual, and literature already on the shelf.">
+<meta property="og:description" content="A modifier-first organizing principle, regular forms, clear source boundaries, more than a thousand words, a primer, a manual, and literature already on the shelf.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://dcellison.github.io/phi/">
 <title>Phi — kia</title>
@@ -205,7 +184,7 @@ def add_gloss_popovers(html):
 
 PRIMER_SRC = ROOT / "primer"
 PRIMER_OUT = ROOT / "web" / "primer"
-PRIMER_OUT.mkdir(parents=True, exist_ok=True)
+prepare_html_output(PRIMER_OUT)
 
 def title_of(md):
     for line in md.splitlines():
@@ -272,7 +251,7 @@ print(f"wrote web/primer/: {len(chapters)} chapters + contents")
 # ---- manual reader: manual/**.md rendered to web/manual/ ----
 MANUAL_SRC = ROOT / "manual"
 MANUAL_OUT = ROOT / "web" / "manual"
-MANUAL_OUT.mkdir(parents=True, exist_ok=True)
+prepare_html_output(MANUAL_OUT)
 
 def pretty(name, kind):
     m = re.match(r"(?:part|ch|appendix_)?(\w+?)_(.*)", name) if kind != "part" else re.match(r"part(\d+)_(.*)", name)
@@ -386,13 +365,9 @@ def tengwarize_dual(html):
     def do_pre(m):
         out = []
         for line in m.group(1).split("\n"):
-            # md_to_html has already added safe span markup around external
-            # frames.  Recover only those spans' source text for Tengwar;
-            # keep the escaped, marked-up line for Roman display below it.
-            source = re.sub(r"</?span(?:\s+[^>]*)?>", "", line)
-            source = html_module.unescape(source).strip()
+            source = html_module.unescape(line).strip()
             if tengwar.phi_line(source, PHI_WORDS):
-                rendered = tengwar.render_mixed_line(source)
+                rendered = tengwar.render_line(source)
                 if rendered:
                     out.append(f'<span class="teng-dual">{rendered}</span>')
             out.append(line)
@@ -400,7 +375,7 @@ def tengwarize_dual(html):
     return re.sub(r"<pre>(.*?)</pre>", do_pre, html, flags=re.S)
 
 TEXTS_OUT = ROOT / "web" / "texts"
-TEXTS_OUT.mkdir(parents=True, exist_ok=True)
+prepare_html_output(TEXTS_OUT)
 NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def texts_page(body, title):
@@ -459,7 +434,7 @@ print(f"wrote web/texts/: {len(TEXTS)} texts + contents")
 
 # ---- the pamphlets: deep-dive companions rendered to web/pamphlets/ ----
 PAMPH_OUT = ROOT / "web" / "pamphlets"
-PAMPH_OUT.mkdir(parents=True, exist_ok=True)
+prepare_html_output(PAMPH_OUT)
 NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def pamphlet_page(body, title, footer_nav=""):
@@ -501,8 +476,8 @@ PAMPHLETS = [
      "A name is a word someone carries: ne the spoken capital, kona the raised hand, three honorifics that announce relationship rather than rank — and the family register, where a name at rest is proof of presence."),
     ("spoken_punctuation", "Punctuation you can hear",
      "Core Phi writes one mark and lexicalizes the rest: wa the question, shola and sholo the quotation boundary, kona the address, ne the name, and a dictation practice whose limits are stated explicitly."),
-    ("external_register", "The marked external register",
-     "Two audible boundaries for what Phi carries without adopting: a pronounceable guest layer for names and terms, and an exact opaque layer for scripts, notation, precision, testimony, and critique."),
+    ("source_material", "Source material beside Phi",
+     "How Phi uses vocabulary, transparent expressions, modules, and productive names while exact records, scripts, notation, testimony, and quotations remain in their own medium."),
     ("three_slots", "The three slots",
      "The whole grammar is thirty-five small words that never change: the frame, the stack, and the word's dress, drilled to reflex — with the interaction tables, the ruled readings, and the evening question where every particle costs what it claims."),
     ("tengwar_mode", "How Phi is written in Tengwar",
@@ -514,7 +489,7 @@ pamph_pages = 0
 for dirname, title, blurb in PAMPHLETS:
     pfiles = sorted((ROOT / "pamphlets" / dirname).glob("*.md"))
     ptitles = [title_of(f.read_text()) for f in pfiles]
-    dual = dirname in ("tengwar_mode", "external_register")
+    dual = dirname == "tengwar_mode"
     for i, f in enumerate(pfiles):
         html = md_to_html(f.read_text())
         body = tengwarize_dual(html) if dual else html

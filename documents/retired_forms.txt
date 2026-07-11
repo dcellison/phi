@@ -1,0 +1,5 @@
+# Forms removed from current Phi and unavailable for reassignment.
+hasha
+hasho
+patha
+patho

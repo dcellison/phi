@@ -106,7 +106,7 @@ POL Q 2SG word POT speak.
 (Could you say the word?)
 ```
 
-If spelling, script, or notation matters, the response should use `patha … patho` in writing. Phi does not yet have a core verb meaning *spell*; repeated need for finer requests belongs in the capability log rather than an immediate coinage.
+If spelling, script, or notation matters, present the source artifact separately in writing or establish an outside spelling convention in conversation. Phi does not yet have a core verb meaning *spell*; repeated need for finer requests belongs in the capability log and may motivate ordinary coinage.
 
 ## Argument practice
 
