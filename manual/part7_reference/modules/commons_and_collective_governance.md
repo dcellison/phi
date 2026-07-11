@@ -13,7 +13,7 @@ The module does not replace Phi's existing language of community, meetings, part
 | Community and shared life | `sila` community, `laenu` commons, `punoa` society, `wema` belong, `miona` person, `lo` plural, `nuawe` together, `wesoma` mutual |
 | Deliberation and dialogue | `kowela` council, `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `thorae` facilitator, `thereo` mediator, `whakeru` object |
 | Participation and stance | `pawela` participate, `shorema` contribute, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `ralu` free, `nawea` respect |
-| Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panumori` resource, `theula` all, `theli` each |
+| Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panuri` resource, `theula` all, `theli` each |
 | Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility |
 | Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
@@ -120,7 +120,7 @@ PROX institution DAT PROX member PROX system inspect authorize.
 `noruwela` draws the claimed reach of an authority across people, places, matters, resources, cases, or time. Overlapping or disputed jurisdiction is ordinary rather than a parsing problem.
 
 ```
-ha kanorami noruwela ha luphanori pharune.
+ha kanorami noruwela ha luphano pharune.
 PROX authority jurisdiction PROX watershed include.
 (This authority's jurisdiction includes the watershed.)
 ```
@@ -210,7 +210,7 @@ PROX member PROX grain entitlement hold.
 `phelunori` names socially defined powers and claims over something. Holding, using, caring for, making, storing, inheriting, governing, or being affected by something does not automatically establish ownership.
 
 ```
-ha miona ha mueralo phelunori sherewa.
+ha miona ha muralo phelunori sherewa.
 PROX person PROX material ownership claim.
 (This person claims ownership of this material.)
 ```

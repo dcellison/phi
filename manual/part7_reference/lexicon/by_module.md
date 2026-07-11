@@ -51,36 +51,36 @@
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
-| `helurani` | trend | noun | Trend |
-| `hisophira` | contaminant | noun | Contaminant |
-| `howenari` | weather | noun | Weather |
-| `kurathimo` | drought | noun | Drought |
-| `limakori` | species | noun | Species |
-| `limaloni` | population | noun | Population |
-| `limatero` | ecosystem | noun | Ecosystem |
-| `limaweso` | ecological community | noun | Ecological Community |
-| `lumeraki` | nutrient | noun | Nutrient |
-| `luphanori` | watershed | noun | Watershed |
-| `melunaro` | climate | noun | Climate |
-| `menulora` | habitat | noun | Habitat |
-| `moralume` | decompose | verb | Decompose |
-| `mothanomi` | baseline | noun | Baseline |
-| `mueralo` | material | noun | Material |
-| `muhenari` | sediment | noun | Sediment |
-| `nomiraki` | concentration | noun | Concentration |
-| `panumori` | resource | noun | Resource |
-| `pelokira` | toxic | adjective | Toxic |
-| `pelorawi` | expose | verb | Expose |
-| `pelosenu` | pollute | verb | Pollute |
-| `phaluwero` | flood | verb | Flood |
-| `phiralima` | biodiversity | noun | Biodiversity |
-| `phisumari` | sample | noun | Sample |
-| `reloteru` | model | noun | Model |
-| `somethiru` | monitor | verb | Monitor |
-| `turekelu` | recycle | verb | Recycle |
-| `whemorali` | waste | noun | Waste |
-| `wherakelu` | erode | verb | Erode |
-| `wiraselu` | runoff | noun | Runoff |
+| `herani` | trend | noun | Trend |
+| `hisophi` | contaminant | noun | Contaminant |
+| `howenu` | weather | noun | Weather |
+| `kuramo` | drought | noun | Drought |
+| `likori` | species | noun | Species |
+| `liloni` | population | noun | Population |
+| `litero` | ecosystem | noun | Ecosystem |
+| `liweso` | ecological community | noun | Ecological Community |
+| `luphano` | watershed | noun | Watershed |
+| `lurepa` | nutrient | noun | Nutrient |
+| `meluri` | climate | noun | Climate |
+| `menuro` | habitat | noun | Habitat |
+| `morume` | decompose | verb | Decompose |
+| `mothami` | baseline | noun | Baseline |
+| `munari` | sediment | noun | Sediment |
+| `muralo` | material | noun | Material |
+| `nomiki` | concentration | noun | Concentration |
+| `panuri` | resource | noun | Resource |
+| `pekira` | toxic | adjective | Toxic |
+| `perawi` | expose | verb | Expose |
+| `pesenu` | pollute | verb | Pollute |
+| `phaluwe` | flood | verb | Flood |
+| `philima` | biodiversity | noun | Biodiversity |
+| `phisuri` | sample | noun | Sample |
+| `reteru` | model | noun | Model |
+| `somethi` | monitor | verb | Monitor |
+| `tukelu` | recycle | verb | Recycle |
+| `whemori` | waste | noun | Waste |
+| `wheraku` | erode | verb | Erode |
+| `wiralu` | runoff | noun | Runoff |
 
 ## Philosophical Reasoning
 

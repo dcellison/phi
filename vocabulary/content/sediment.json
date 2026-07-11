@@ -1,10 +1,9 @@
 {
-  "word": "muhenari",
+  "word": "munari",
   "gloss": "sediment",
-  "ipa": "/mu.he̞.ˈn̪ä.ri/",
+  "ipa": "/mu.ˈn̪ä.ri/",
   "syllables": [
     "mu",
-    "he",
     "na",
     "ri"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Sediment / Transported or Deposited Particulate Material",
   "description": "Loose mineral, organic, or mixed particles transported or deposited by water, wind, ice, gravity, or another stated process. Sediment may be suspended, moving, or settled and may support habitat, record change, obstruct flow, or carry contaminants. The word does not mean soil in general, dust in general, one particle-size class, pollution, erosion, or proof of where the material originated.",
-  "sound_symbolism": "Earthy 'mu' opens into light 'he', then grounded 'nari' lets particles settle after movement. The alternating weight and breath suits material that can be suspended or deposited.",
-  "grammatical_notes": "A mass or countable noun: 'ha wiraselu muhenari kolua.' (The runoff carries sediment.) Exact grain size, chemistry, mass, and sample identity remain in a separate source record. Distinct from 'muila' (earth or soil), 'muhena' (dust), 'kirua' (sand), and the process 'wherakelu' (erode).",
+  "sound_symbolism": "Earthy 'mu' gives the particles material weight, while the grounded sequence 'na.ri' lets them settle after movement and remain traceable to a transport process. The form suits material that may still be suspended, moving, or deposited.",
+  "grammatical_notes": "A mass or countable noun: 'ha wiralu munari kolua.' (The runoff carries sediment.) Exact grain size, chemistry, mass, and sample identity remain in a separate source record. Distinct from 'muila' (earth or soil), 'muhena' (dust), 'kirua' (sand), and the process 'wheraku' (erode).",
   "pillars": {
     "solarpunk-values": "Sediment can be discussed as habitat material, transported matter, or a burden without assigning it one universal value.",
     "pre-industrial-wisdom": "River color, deposited silt, shifting banks, and settled particles have long been practical signs of land and water change."

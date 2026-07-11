@@ -1,11 +1,10 @@
 {
-  "word": "phisumari",
+  "word": "phisuri",
   "gloss": "sample",
-  "ipa": "/ɸi.su.ˈmä.ri/",
+  "ipa": "/ɸi.ˈsu.ri/",
   "syllables": [
     "phi",
     "su",
-    "ma",
     "ri"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Sample / Selected Portion or Observation for Examination",
   "description": "A selected portion of material, one or more organisms, places, times, records, or observations taken for examination and potentially used to support claims about a larger stated source or population. A sample has a selection method, identity, time, condition, and scope. The word does not mean example, evidence by itself, representative sample, complete inventory, extracted ownership, or permission to generalize beyond the selection.",
-  "sound_symbolism": "Example-like 'phisu' opens into measured 'mari', moving from one selected case toward careful examination without promising that it represents the whole. The cadence pauses between selection and inference.",
-  "grammatical_notes": "A countable noun commonly modified by source or material: 'mia ha phialu phisumari masue.' (I measure this water sample.) Preserve exact site, identifier, time, method, and chain-of-custody details in a separate source record. Distinct from 'phisuwa' (example), 'thesori' (evidence), population, and a complete body of material.",
+  "sound_symbolism": "The example-like opening 'phisu' marks a selected case, while final 'ri' gives that selection a traceable path into examination. The movement stops before inference, refusing to promise that the sample represents its larger source.",
+  "grammatical_notes": "A countable noun commonly modified by source or material: 'mia ha phialu phisuri masue.' (I measure this water sample.) Preserve exact site, identifier, time, method, and chain-of-custody details in a separate source record. Distinct from 'phisuwa' (example), 'thesori' (evidence), population, and a complete body of material.",
   "pillars": {
     "secular-buddhist-philosophy": "A sample makes partial access explicit and resists turning one observed portion into certainty about a larger whole.",
     "peace-linguistics-practices": "Selection, custody, permission, and generalization remain visible instead of being hidden behind the authority of a scientific-sounding object."

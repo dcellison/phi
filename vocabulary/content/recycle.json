@@ -1,10 +1,9 @@
 {
-  "word": "turekelu",
+  "word": "tukelu",
   "gloss": "recycle",
-  "ipa": "/t̪u.re̞.ˈke̞.lu/",
+  "ipa": "/t̪u.ˈke̞.lu/",
   "syllables": [
     "tu",
-    "re",
     "ke",
     "lu"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Recycle / Process Discarded Material Into New Input or Material",
   "description": "To process material assigned as waste or recovered after use so that some of it becomes input or material for another making, repair, storage, or use process. Through the event-noun rule the word also names recycling. Recycling may require energy and new material and may produce loss, contamination, lower quality, or new waste; it is not direct reuse, complete recovery, a closed cycle, harmless disposal, or proof of sustainability.",
-  "sound_symbolism": "Returning 'ture' meets changing 'kelu', so the word requires both recovery and transformation rather than merely going around a circle. The open ending acknowledges outputs and losses beyond the returned material.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha whemorali turekelu.' (We recycle this waste.) State the process, recovered portion, inputs, outputs, losses, and next use where relevant. The event-noun rule supplies recycling. Distinct from 'turema' (return), direct reuse, 'moralume' (decompose), and 'nuri' (cycle).",
+  "sound_symbolism": "Returning 'tu', shared with the opening of 'turema' (return), meets the complete verb 'kelu' (become). The word therefore requires both recovery and transformation rather than merely going around a circle, while its open ending leaves outputs and losses visible.",
+  "grammatical_notes": "A transitive verb: 'lo mia ha whemori tukelu.' (We recycle this waste.) State the process, recovered portion, inputs, outputs, losses, and next use where relevant. The event-noun rule supplies recycling. Distinct from 'turema' (return), direct reuse, 'morume' (decompose), and 'nuri' (cycle).",
   "pillars": {
     "solarpunk-values": "Recycling is available as a practical material strategy without being treated as a moral absolution or a substitute for reducing harm and tracing outputs.",
     "pre-industrial-wisdom": "Recovering and reworking material extends use through skilled transformation while acknowledging labor, loss, and limits."
