@@ -1,0 +1,29 @@
+{
+  "word": "rimawu",
+  "gloss": "drudgery",
+  "ipa": "/ri.ˈmä.wu/",
+  "syllables": [
+    "ri",
+    "ma",
+    "wu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Drudgery / Work Experienced or Structured as Depleting and Denied Meaning",
+  "description": "Work experienced or structured as tedious, exhausting, unwanted, degrading, deprived of agency, or disconnected from intelligible purpose. The speaker should identify whose experience or analysis grounds the claim and which conditions produce it. The word does not condemn all repetitive work, prove exploitation, deny that another participant values the activity, or replace a specific account of coercion, fatigue, harm, or unfair distribution.",
+  "sound_symbolism": "Labor-linked 'ri' enters a heavy medial 'ma', while final 'wu' lets the effort trail away without satisfying closure. The form carries depletion but leaves its causes open to explicit analysis.",
+  "grammatical_notes": "A mass or countable noun according to context: 'mia ha rimawu naweri.' (I refuse the drudgery.) Name the affected person, activity, conditions, source of the judgment, and desired change where relevant. Distinct from 'riola' (purposeful labor), 'ritako' (workload), 'pilora' (exploit), bodily fatigue, and simple repetition.",
+  "pillars": {
+    "solarpunk-values": "Communities seeking meaningful and sustainable labor need language for work whose organization drains agency, attention, health, or purpose.",
+    "peace-linguistics-practices": "Locating the judgment in a person's experience or a stated analysis avoids declaring an activity inherently degrading while still giving oppressive work conditions a direct name."
+  },
+  "tags": {
+    "activity": "work structured or experienced as depleting",
+    "community": "labor conditions shaped by social distribution and power",
+    "emotion": "the experienced tedium, aversion, or loss of meaning"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1040 words.*
+*1070 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -18,6 +18,7 @@
 | `haoni` | voice | /hä.ˈo̞.n̪i/ | noun |
 | `haowu` | air | /hä.ˈo̞.wu/ | noun |
 | `hasi` | wait | /ˈhä.si/ | verb |
+| `hasoru` | pending | /hä.ˈso̞.ru/ | adjective |
 | `he` | IRR | /ˈhe̞/ | particle |
 | `hea` | hear | /ˈhe̞.ä/ | verb |
 | `hei` | hey | /ˈhe̞.i/ | interjection |
@@ -75,6 +76,7 @@
 | `karami` | authority | /kä.ˈrä.mi/ | noun |
 | `kasira` | vote | /kä.ˈsi.rä/ | verb |
 | `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
+| `katemu` | offcut | /kä.ˈt̪e̞.mu/ | noun |
 | `kathu` | seal | /ˈkä.θu/ | noun |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
 | `katiru` | knife | /kä.ˈt̪i.ru/ | noun |
@@ -122,8 +124,10 @@
 | `kipona` | pain | /ki.ˈpo̞.n̪ä/ | noun |
 | `kira` | key | /ˈki.rä/ | noun |
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
+| `kiranu` | qualified | /ki.ˈrä.n̪u/ | adjective |
 | `kire` | shape | /ˈki.re̞/ | verb |
 | `kirema` | criterion | /ki.ˈre̞.mä/ | noun |
+| `kirero` | quality | /ki.ˈre̞.ro̞/ | noun |
 | `kirethu` | legitimate | /ki.ˈre̞.θu/ | adjective |
 | `kiro` | precise | /ˈki.ro̞/ | adjective |
 | `kiroa` | sign | /ki.ˈro̞.ä/ | noun |
@@ -133,6 +137,7 @@
 | `kirua` | sand | /ki.ˈru.ä/ | noun |
 | `kisholu` | specification | /ki.ˈʃo̞.lu/ | noun |
 | `kishu` | thirsty | /ˈki.ʃu/ | adjective |
+| `kisome` | assess | /ki.ˈso̞.me̞/ | verb |
 | `kithela` | valid | /ki.ˈθe̞.lä/ | adjective |
 | `kiwate` | bite | /ki.ˈwä.t̪e̞/ | verb |
 | `ko` | FOC | /ˈko̞/ | particle |
@@ -250,6 +255,7 @@
 | `lumani` | family | /lu.ˈmä.n̪i/ | noun |
 | `lumeo` | die | /lu.ˈme̞.o̞/ | verb |
 | `lumera` | nourish | /lu.ˈme̞.rä/ | verb |
+| `lumethi` | deadline | /lu.ˈme̞.θi/ | noun |
 | `lumira` | descendant | /lu.ˈmi.rä/ | noun |
 | `lumishe` | mentor | /lu.ˈmi.ʃe̞/ | noun |
 | `lumoi` | lantern | /lu.ˈmo̞.i/ | noun |
@@ -263,6 +269,7 @@
 | `lureko` | fruit | /lu.ˈre̞.ko̞/ | noun |
 | `lurepa` | nutrient | /lu.ˈre̞.pä/ | noun |
 | `luroi` | nervous | /lu.ˈro̞.i/ | adjective |
+| `luseri` | provenance | /lu.ˈse̞.ri/ | noun |
 | `luwae` | graceful | /lu.ˈwä.e̞/ | adjective |
 | `luwi` | flexible | /ˈlu.wi/ | adjective |
 | `ma` | NEG | /ˈmä/ | particle |
@@ -358,6 +365,7 @@
 | `munari` | sediment | /mu.ˈn̪ä.ri/ | noun |
 | `muo` | INTO | /ˈmu.o̞/ | preposition |
 | `mupelo` | vomit | /mu.ˈpe̞.lo̞/ | verb |
+| `muphera` | stock | /mu.ˈɸe̞.rä/ | noun |
 | `muphia` | mud | /mu.ˈɸi.ä/ | noun |
 | `muraki` | harvest | /mu.ˈrä.ki/ | verb |
 | `muralo` | material | /mu.ˈrä.lo̞/ | noun |
@@ -424,7 +432,9 @@
 | `nophe` | ABST.CLF | /ˈn̪o̞.ɸe̞/ | classifier |
 | `nophei` | loyal | /n̪o̞.ˈɸe̞.i/ | adjective |
 | `nophi` | story | /ˈn̪o̞.ɸi/ | noun |
+| `noporu` | design | /n̪o̞.ˈpo̞.ru/ | verb |
 | `norae` | method | /n̪o̞.ˈrä.e̞/ | noun |
+| `noraku` | blocked | /n̪o̞.ˈrä.ku/ | adjective |
 | `norathu` | procedure | /n̪o̞.ˈrä.θu/ | noun |
 | `norawhi` | dusk | /n̪o̞.ˈrä.ʍi/ | noun |
 | `norea` | soul | /n̪o̞.ˈre̞.ä/ | noun |
@@ -446,6 +456,7 @@
 | `nuhe` | sadness | /ˈn̪u.he̞/ | noun |
 | `nuhemi` | grieve | /n̪u.ˈhe̞.mi/ | verb |
 | `nuhewa` | weep | /n̪u.ˈhe̞.wä/ | verb |
+| `nukesa` | expert | /n̪u.ˈke̞.sä/ | adjective |
 | `nuko` | black | /ˈn̪u.ko̞/ | adjective |
 | `nulae` | sleep | /n̪u.ˈlä.e̞/ | verb |
 | `nulo` | deep | /ˈn̪u.lo̞/ | adjective |
@@ -585,12 +596,14 @@
 | `pilewa` | make | /pi.ˈle̞.wä/ | verb |
 | `piloe` | spot | /pi.ˈlo̞.e̞/ | noun |
 | `pilomu` | sycamore | /pi.ˈlo̞.mu/ | noun |
+| `pilora` | exploit | /pi.ˈlo̞.rä/ | verb |
 | `pilu` | take | /ˈpi.lu/ | verb |
 | `pina` | sew | /ˈpi.n̪ä/ | verb |
 | `pio` | hehe | /ˈpi.o̞/ | interjection |
 | `piru` | trader | /ˈpi.ru/ | noun |
 | `pisha` | split | /ˈpi.ʃä/ | verb |
 | `po` | POT | /ˈpo̞/ | particle |
+| `pokera` | competent | /po̞.ˈke̞.rä/ | adjective |
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun |
@@ -627,7 +640,12 @@
 | `reteru` | model | /re̞.ˈt̪e̞.ru/ | noun |
 | `rewa` | oar | /ˈre̞.wä/ | noun |
 | `rihe` | rise | /ˈri.he̞/ | verb |
+| `rilowa` | assign | /ri.ˈlo̞.wä/ | verb |
+| `rimawu` | drudgery | /ri.ˈmä.wu/ | noun |
+| `rinoka` | project | /ri.ˈn̪o̞.kä/ | noun |
 | `riola` | labor | /ri.ˈo̞.lä/ | verb |
+| `riporu` | task | /ri.ˈpo̞.ru/ | noun |
+| `ritako` | workload | /ri.ˈt̪ä.ko̞/ | noun |
 | `ro` | HAB | /ˈro̞/ | particle |
 | `roa` | AROUND | /ˈro̞.ä/ | preposition |
 | `roe` | INS | /ˈro̞.e̞/ | preposition |
@@ -669,9 +687,11 @@
 | `senao` | same | /se̞.ˈn̪ä.o̞/ | adjective |
 | `seniku` | smile | /se̞.ˈn̪i.ku/ | verb |
 | `sepho` | send | /ˈse̞.ɸo̞/ | verb |
+| `sephori` | supply | /se̞.ˈɸo̞.ri/ | verb |
 | `serao` | old | /se̞.ˈrä.o̞/ | adjective |
 | `seroli` | mature | /se̞.ˈro̞.li/ | adjective |
 | `seru` | commit | /ˈse̞.ru/ | verb |
+| `sethoni` | handoff | /se̞.ˈθo̞.n̪i/ | verb |
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
@@ -742,6 +762,7 @@
 | `shuroa` | shelter | /ʃu.ˈro̞.ä/ | noun |
 | `si` | IPFV | /ˈsi/ | particle |
 | `sihewa` | breeze | /si.ˈhe̞.wä/ | noun |
+| `sikanu` | certify | /si.ˈkä.n̪u/ | verb |
 | `sila` | community | /ˈsi.lä/ | noun |
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |
@@ -753,6 +774,7 @@
 | `siora` | joy | /si.ˈo̞.rä/ | adjective |
 | `sirami` | record | /si.ˈrä.mi/ | verb |
 | `siru` | marker | /ˈsi.ru/ | noun |
+| `sitawi` | inventory | /si.ˈt̪ä.wi/ | noun |
 | `sithora` | role | /si.ˈθo̞.rä/ | noun |
 | `siwe` | sweat | /ˈsi.we̞/ | noun |
 | `so` | FUT | /ˈso̞/ | particle |
@@ -765,7 +787,9 @@
 | `soleha` | luck | /so̞.ˈle̞.hä/ | noun |
 | `soli` | SOME | /ˈso̞.li/ | quantifier |
 | `soliru` | hope | /so̞.ˈli.ru/ | verb |
+| `somaki` | test | /so̞.ˈmä.ki/ | verb |
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb |
+| `someru` | supervise | /so̞.ˈme̞.ru/ | verb |
 | `somethi` | monitor | /so̞.ˈme̞.θi/ | verb |
 | `sone` | value | /ˈso̞.n̪e̞/ | verb |
 | `soneho` | tradeoff | /so̞.ˈn̪e̞.ho̞/ | noun |
@@ -863,6 +887,7 @@
 | `theru` | thick | /ˈθe̞.ru/ | adjective |
 | `therua` | eager | /θe̞.ˈru.ä/ | adjective |
 | `thesa` | careful | /ˈθe̞.sä/ | adjective |
+| `thesani` | skill | /θe̞.ˈsä.n̪i/ | noun |
 | `thesori` | evidence | /θe̞.ˈso̞.ri/ | noun |
 | `thesua` | mindful | /θe̞.ˈsu.ä/ | adjective |
 | `theula` | UNIV | /θe̞.ˈu.lä/ | quantifier |
@@ -870,6 +895,7 @@
 | `thiku` | small | /ˈθi.ku/ | adjective |
 | `thilonu` | prepare | /θi.ˈlo̞.n̪u/ | verb |
 | `thilou` | inquire | /θi.ˈlo̞.u/ | verb |
+| `thimora` | schedule | /θi.ˈmo̞.rä/ | noun |
 | `thimu` | time | /ˈθi.mu/ | noun |
 | `thinoe` | seed | /θi.ˈn̪o̞.e̞/ | noun |
 | `thinu` | put | /ˈθi.n̪u/ | verb |
@@ -909,6 +935,7 @@
 | `thumela` | teach | /θu.ˈme̞.lä/ | verb |
 | `thumiro` | smoke | /θu.ˈmi.ro̞/ | noun |
 | `thunai` | student | /θu.ˈn̪ä.i/ | noun |
+| `thunaro` | train | /θu.ˈn̪ä.ro̞/ | verb |
 | `thunepa` | sacred place | /θu.ˈn̪e̞.pä/ | noun |
 | `thuni` | intuitive | /ˈθu.n̪i/ | adjective |
 | `thunoa` | dignified | /θu.ˈn̪o̞.ä/ | adjective |
@@ -982,7 +1009,9 @@
 | `wenu` | tonic | /ˈwe̞.n̪u/ | noun |
 | `weoli` | reed | /we̞.ˈo̞.li/ | noun |
 | `wepanu` | redundant | /we̞.ˈpä.n̪u/ | adjective |
+| `wephari` | coordinate | /we̞.ˈɸä.ri/ | verb |
 | `wepu` | go | /ˈwe̞.pu/ | verb |
+| `wepuri` | progress | /we̞.ˈpu.ri/ | verb |
 | `wero` | honest | /ˈwe̞.ro̞/ | adjective |
 | `weru` | poet | /ˈwe̞.ru/ | noun |
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
@@ -1027,6 +1056,7 @@
 | `wilao` | long-for | /wi.ˈlä.o̞/ | verb |
 | `wile` | play | /ˈwi.le̞/ | verb |
 | `wilemo` | toy | /wi.ˈle̞.mo̞/ | noun |
+| `winora` | plan | /wi.ˈn̪o̞.rä/ | verb |
 | `wipha` | restless | /ˈwi.ɸä/ | adjective |
 | `wira` | window | /ˈwi.rä/ | noun |
 | `wirae` | spring (season) | /wi.ˈrä.e̞/ | noun |

@@ -1,0 +1,29 @@
+{
+  "word": "nukesa",
+  "gloss": "expert",
+  "ipa": "/n̪u.ˈke̞.sä/",
+  "syllables": [
+    "nu",
+    "ke",
+    "sa"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Expert / Possessing Deep Domain Practice and Understanding",
+  "description": "Possessing deep knowledge and skill in a stated domain, supported by sustained practice, study, contribution, or other named evidence. Expertise is scoped and revisable: a person may be expert in one method or condition and not another. The word does not imply infallibility, institutional authority, formal qualification, permission to act, representation of others, or greater human worth.",
+  "sound_symbolism": "Opening 'nu' suggests accumulated depth, 'ke' gives that depth a tested practical edge, and final 'sa' keeps it connected to continuing learning. The form carries weight without closing inquiry.",
+  "grammatical_notes": "An adjective: 'shia nukesa nai.' (They are expert.) State the domain and basis of the claim where relevant. The quality-noun rule supplies expertise as a state. Distinct from 'sano' (know), 'thesani' (skill), 'pokera' (competent), 'kiranu' (qualified), and 'wheo' (elder).",
+  "pillars": {
+    "peace-linguistics-practices": "Scoping expertise and separating it from authority allows communities to value knowledge while continuing to question claims and distribute decisions.",
+    "pre-industrial-wisdom": "Deep practice can reside in craftspeople, maintainers, growers, and local knowledge holders rather than only in formal institutions."
+  },
+  "tags": {
+    "activity": "deeply practiced capacity within a stated domain",
+    "cognition": "extensive domain understanding supported by evidence",
+    "wisdom": "knowledge refined through sustained practice and reflection"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

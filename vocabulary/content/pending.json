@@ -1,0 +1,28 @@
+{
+  "word": "hasoru",
+  "gloss": "pending",
+  "ipa": "/hä.ˈso̞.ru/",
+  "syllables": [
+    "ha",
+    "so",
+    "ru"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Pending / Awaiting a Needed Action or Condition",
+  "description": "Awaiting a stated action, decision, item, time, answer, or condition before its status can change. Pending says that something remains open; it does not say that work has begun, that delay is justified, that anyone accepted responsibility, or that the expected event will occur.",
+  "sound_symbolism": "Breathy 'ha' opens an unresolved space, 'so' points toward what may come, and final 'ru' holds the matter in its current state. The form can recall waiting without making delay passive, patient, or harmless.",
+  "grammatical_notes": "An adjective: 'ha riporu hasoru nai.' (This task is pending.) State what is awaited and who controls or is affected by the wait where relevant. The quality-noun rule supplies pending status. Distinct from 'noraku' (blocked), 'hasi' (wait), 'sholu' (complete), and future marking with 'so'.",
+  "pillars": {
+    "peace-linguistics-practices": "Explicit pending status can expose unanswered requests and delayed decisions without blaming the person waiting or pretending the matter is resolved.",
+    "pre-industrial-wisdom": "Material, weather, drying, curing, growth, and shared availability can all require waiting; naming the state leaves its practical cause open."
+  },
+  "tags": {
+    "activity": "work or decision status awaiting a condition",
+    "temporal": "remaining unresolved until a later event"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

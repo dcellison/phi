@@ -1,16 +1,18 @@
 # Work, Craft, and Repair Vocabulary Audit
 
-**Status:** Evidence-gate audit underlying the active [Work, Craft, and Repair profile](modules/work_craft_and_repair.md), current to 2026-07-10. `archive/` excluded. No vocabulary proposal.
+**Status:** Preserved before-state audit underlying the established [Work, Craft, and Repair module](modules/work_craft_and_repair.md), conducted 2026-07-10. `archive/` excluded. The findings describe the pre-module lexicon; the later vocabulary pass is summarized below.
 
 ## Purpose and Method
 
-This audit was conducted against Phi's 937-entry pre-module inventory to determine what could support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It now serves as the before-state and concept inventory for a future vocabulary pass.
+This audit was conducted against Phi's 937-entry pre-module inventory to determine what could support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It now serves as the before-state and concept inventory for the completed first vocabulary pass.
 
-The later [Systems and Shared Infrastructure module](modules/systems_and_shared_infrastructure.md) now supplies optional terms for components, functions, states, dependencies, capacity, technical load, calibration, faults, failures, inspection, reliability, hazards, and specifications. Those additions resolve several lexical absences recorded below but do not settle work-specific questions of tasks, authority, competence, consent, acceptance, safe return to use, labor conditions, or responsibility. The active Work profile records the current cross-module division.
+The later [Systems and Shared Infrastructure module](modules/systems_and_shared_infrastructure.md) supplies optional terms for components, functions, states, dependencies, capacity, technical load, calibration, faults, failures, inspection, reliability, hazards, and specifications. The subsequent Work module supplies 30 terms for work structure, coordination, practical standing, evaluation, labor conditions, and material traceability. The profile records the current cross-module division while this audit intentionally preserves the earlier gaps that motivated it.
 
 The audit is not a list of English headwords to translate. A missing term matters only when connected Phi use cannot preserve the needed distinction through ordinary clauses, an existing conversion, separately presented source material, or a deliberate refusal to conventionalize it.
 
 ## Findings at a Glance
+
+These findings are historical claims about the audited 937-entry inventory, not claims that the corresponding distinctions remain absent after the module pass.
 
 - Concrete craft is one of Phi's strongest lexical domains. Speakers can name a workshop, general and specific tools, many materials, numerous making processes, physical qualities, measurement, teaching, learning, repair, restoration, and maintenance.
 - Work organization is much thinner than material craft. Phi lacks conventional distinctions for task, project, assignment, delegation, supervision, handoff, progress, completion criterion, inspection, qualification, schedule, workload, and institutional responsibility.
@@ -80,6 +82,6 @@ The scenario confirms that concrete craft, refusal, capacity, teaching, measurem
 
 ## Audit Conclusion
 
-The inventory and scenario together supplied the before-state and boundaries for the zero-new-root [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). Existing vocabulary is dense enough to organize and teach, while its idealized work semantics and thin organizational relations now provide clear opportunities for transparent compounds and module coinage.
+The inventory and scenario together supplied the before-state and boundaries for the initial [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). Existing vocabulary was dense enough to organize and teach, while its idealized work semantics and thin organizational relations provided clear opportunities for transparent compounds and module coinage.
 
-No root follows from this audit. The profile indexes current resources, preserves coercive or institutional source language exactly, refuses to treat meaningful craft as the only kind of work, and makes work-sharing, consent, capacity, safety, authority, and completion visible in clauses. Vocabulary should remain closed until the same distinction fails in this scenario and an independent transformed or non-workshop case.
+The completed pass admits `riporu`, `rinoka`, `winora`, `wepuri`, `hasoru`, `noraku`, `lumethi`, `thimora`, `rilowa`, `wephari`, `someru`, `sethoni`, `thesani`, `pokera`, `nukesa`, `kiranu`, `thunaro`, `kisome`, `sikanu`, `noporu`, `somaki`, `kirero`, `ritako`, `rimawu`, `pilora`, `muphera`, `sitawi`, `sephori`, `katemu`, and `luseri`. The module retains compositional and source-material handling for requests, exact credentials, technical artifacts, economic and legal terms, bodily and access relations, safe approval, and final responsibility. These choices arise from maintainer judgment under the full vocabulary quality protocol, not from an external evidence gate.

@@ -1,0 +1,30 @@
+{
+  "word": "noporu",
+  "gloss": "design",
+  "ipa": "/n̪o̞.ˈpo̞.ru/",
+  "syllables": [
+    "no",
+    "po",
+    "ru"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Design / Specify Intended Form, Relations, and Function",
+  "description": "To intentionally specify the form, relations, function, material, behavior, or making process of an artifact, system, or intervention. A design may be partial, collaborative, provisional, embodied in a pattern, or expressed through source material. The word does not mean a schedule, general plan, exact specification, drawing, aesthetic merit, feasibility, safety, or permission to build.",
+  "sound_symbolism": "Opening 'no' holds an intended form in view, possibility-bearing 'po' keeps alternatives available, and final 'ru' gives the chosen relations enough boundary to guide making. The form balances imagination with practical definition.",
+  "grammatical_notes": "A transitive verb: 'mia ha rolu noporu.' (I design the wheel.) The event-noun rule supplies a design. State intended function, users, materials, constraints, evidence, and revision status where relevant. Distinct from 'norelu' (form), 'sena' (pattern), 'winora' (plan), 'kisholu' (specification), and 'pilewa' (make).",
+  "pillars": {
+    "solarpunk-values": "Repairable and ecologically situated systems require design choices whose users, materials, dependencies, and consequences can be named and revised.",
+    "art-nouveau-aesthetics": "Design can integrate function, material, structure, and living form rather than treating ornament as an afterthought."
+  },
+  "tags": {
+    "activity": "specifying an intended artifact, system, or intervention",
+    "aesthetic": "shaping form in relation to material and use",
+    "cognition": "developing and selecting among possible relations",
+    "creation": "guiding making through an intentional specification"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

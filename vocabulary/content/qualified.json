@@ -1,0 +1,28 @@
+{
+  "word": "kiranu",
+  "gloss": "qualified",
+  "ipa": "/ki.ˈrä.n̪u/",
+  "syllables": [
+    "ki",
+    "ra",
+    "nu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Qualified / Meeting Stated Prerequisites for a Role or Activity",
+  "description": "Meeting stated prerequisites, credentials, or eligibility conditions for a particular role or activity according to a named source or system. The source, scope, validity period, and exact credential may be stated outside Phi when necessary. Being qualified does not prove present competence, authorization, consent, legitimacy of the criteria, safety, or moral worth.",
+  "sound_symbolism": "Criterion-bearing 'ki' opens the judgment, 'ra' keeps its application contextual and revisable, and final 'nu' points toward the accumulated prerequisites behind the claim. The form sounds measured rather than celebratory.",
+  "grammatical_notes": "An adjective: 'shia kiranu nai.' (They are qualified.) State the role or activity, qualifying source, scope, and validity period where relevant. The quality-noun rule supplies qualification as a state. Distinct from 'pokera' (competent), 'kanuwa' (authorized), 'sikanu' (certify), and 'sithora' (role).",
+  "pillars": {
+    "peace-linguistics-practices": "Separating qualification from competence, authority, consent, and worth prevents an institutional status from silently answering several different social questions."
+  },
+  "tags": {
+    "activity": "eligibility for a stated role or activity",
+    "cognition": "a judgment against named prerequisites",
+    "community": "a status created by a stated social or institutional source"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

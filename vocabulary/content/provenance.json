@@ -1,0 +1,31 @@
+{
+  "word": "luseri",
+  "gloss": "provenance",
+  "ipa": "/lu.ˈse̞.ri/",
+  "syllables": [
+    "lu",
+    "se",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Provenance / Claimed Source and Custody or Transformation History",
+  "description": "The documented or claimed source and history of custody, transfer, transformation, or contribution associated with a material, artifact, record, or body of knowledge. A provenance account should identify its sources, gaps, confidence, and relevant stages. The word does not prove authenticity, ownership, ethical sourcing, legitimacy, complete history, or authority over the thing described.",
+  "sound_symbolism": "Source-facing 'lu' looks backward, 'se' carries the thing through successive transfers or transformations, and final 'ri' brings that history into its present practical context. The form traces a path without claiming that every stage is known.",
+  "grammatical_notes": "A countable or mass noun according to context: 'ha muralo luseri se sirami.' (The material's provenance is recorded.) Name the object, sources, stages, gaps, confidence, and exact identifiers where relevant. Distinct from 'lue' (from), 'sirami' (record), ownership, authenticity, and a complete historical narrative.",
+  "pillars": {
+    "solarpunk-values": "Material and knowledge provenance supports ecological accounting, repair, reuse, attribution, and scrutiny of hidden social or environmental costs.",
+    "peace-linguistics-practices": "Treating provenance as a sourced and incomplete account prevents a lineage claim from automatically establishing ownership, purity, legitimacy, or unquestionable truth."
+  },
+  "tags": {
+    "activity": "the traced movement and transformation of a thing",
+    "cognition": "a sourced account with explicit gaps and confidence",
+    "community": "custody, contribution, and transfer among participants",
+    "creation": "the source history of materials and artifacts",
+    "temporal": "a sequence of prior stages leading to a present state"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

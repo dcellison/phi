@@ -1,0 +1,29 @@
+{
+  "word": "sikanu",
+  "gloss": "certify",
+  "ipa": "/si.ˈkä.n̪u/",
+  "syllables": [
+    "si",
+    "ka",
+    "nu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Certify / Issue a Formal Claim That Criteria Were Met",
+  "description": "For a named person or institution to issue or maintain a formal claim or record that stated criteria have been met within a stated scope and validity period. Exact certificates, identifiers, legal terms, and issuing names remain outside-Phi source material when precision requires them. Certification does not prove that the claim is true, establish present competence, grant authority, guarantee safety, or supply consent.",
+  "sound_symbolism": "Community-bearing 'si' locates the act in a social source, 'ka' gives the claim a marked formal boundary, and final 'nu' points toward the accumulated record behind it. The form emphasizes an issued status rather than inherent truth.",
+  "grammatical_notes": "A transitive verb: 'punoki shia sikanu.' (The institution certifies them.) State the issuing source, criteria, scope, date, validity period, and record where relevant. The event-noun rule supplies certification. Distinct from 'sirami' (record), 'kanuwa' (authorize), 'kiranu' (qualified), 'kisome' (assess), and 'tukiro' (review).",
+  "pillars": {
+    "peace-linguistics-practices": "Treating certification as a sourced institutional claim prevents a credential from becoming unquestionable truth or a general claim of authority and worth."
+  },
+  "tags": {
+    "activity": "issuing or maintaining a formal criteria claim",
+    "cognition": "a recorded conclusion based on stated criteria",
+    "community": "a status attributed by a named person or institution",
+    "dialogue": "a formal claim whose source and scope can be challenged"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

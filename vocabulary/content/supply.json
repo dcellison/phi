@@ -1,0 +1,29 @@
+{
+  "word": "sephori",
+  "gloss": "supply",
+  "ipa": "/se̞.ˈɸo̞.ri/",
+  "syllables": [
+    "se",
+    "pho",
+    "ri"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Supply / Make a Resource Available for a Stated Use",
+  "description": "To make a material, tool, item, information set, or other resource available to a recipient, process, or place for a stated purpose, commonly through transfer or delivery. Supplying does not establish ownership, adequate quantity or quality, ethical provenance, receipt, acceptance, continued availability, or authority to decide how the supplied thing will be used.",
+  "sound_symbolism": "Outgoing 'se' begins the provision, 'pho' opens the resource toward another place or process, and final 'ri' carries it into practical activity. The form emphasizes enabling movement rather than possession.",
+  "grammatical_notes": "A transitive verb: 'shia wei keritha muralo sephori.' (They supply material to the workshop.) Use 'wei' for a recipient and state the source, amount, condition, purpose, restrictions, and receipt where relevant. The event-noun rule supplies supply as an activity. Distinct from 'loa' (give), 'sekaru' (transfer), 'sepho' (send), 'panuri' (resource), and 'muphera' (stock).",
+  "pillars": {
+    "solarpunk-values": "Distributed repair and production depend on visible resource flows whose sources, constraints, and ecological consequences can be examined.",
+    "peace-linguistics-practices": "Separating supply from receipt, adequacy, ownership, and authority prevents an offered resource from becoming a hidden claim over the recipient's choices."
+  },
+  "tags": {
+    "activity": "making a resource available for practical use",
+    "community": "provision between participants, processes, or places",
+    "creation": "supporting making and repair through resource flow"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

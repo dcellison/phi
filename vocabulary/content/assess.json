@@ -1,0 +1,27 @@
+{
+  "word": "kisome",
+  "gloss": "assess",
+  "ipa": "/ki.ˈso̞.me̞/",
+  "syllables": [
+    "ki",
+    "so",
+    "me"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Assess / Evaluate Evidence Against a Stated Criterion",
+  "description": "To evaluate evidence, performance, a condition, or a result against a stated criterion for a stated purpose. An assessment may be formal or informal and should distinguish observation, inference, uncertainty, and the consequences attached to its finding. It does not itself approve, certify, rank human worth, prove a claim, or establish authority to impose consequences.",
+  "sound_symbolism": "Criterion-bearing 'ki' opens the evaluation, 'so' gathers the relevant evidence, and final 'me' holds attention on the particular object and purpose. The form is deliberate without suggesting final judgment.",
+  "grammatical_notes": "A transitive verb: 'shia ha theko kisome.' (They assess the craft.) State the criterion, evidence, assessor, purpose, uncertainty, and consequences where relevant. The event-noun rule supplies assessment. Distinct from 'somela' (observe), 'nilaki' (inspect), 'somaki' (test), 'tukiro' (review), and 'kirema' (criterion).",
+  "pillars": {
+    "peace-linguistics-practices": "Explicit criteria and evidence make an assessment contestable and prevent a finding about one performance from becoming an unspoken judgment of the whole person."
+  },
+  "tags": {
+    "activity": "evaluating a performance, state, or result",
+    "cognition": "comparing evidence with a stated criterion"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "noraku",
+  "gloss": "blocked",
+  "ipa": "/n̪o̞.ˈrä.ku/",
+  "syllables": [
+    "no",
+    "ra",
+    "ku"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Blocked / Currently Unable to Proceed",
+  "description": "Currently unable to proceed because a stated condition, dependency, material, decision, access need, or other obstacle is unmet. A blocked task may later resume. The word does not identify fault or blame, imply technical failure, deny refusal, or prove that removing the named obstacle is sufficient or appropriate.",
+  "sound_symbolism": "The firm 'no' halts the expected motion, 'ra' places an obstacle before it, and closed-sounding 'ku' keeps the path from continuing. The sequence gives a stoppage shape without presenting it as permanent.",
+  "grammatical_notes": "An adjective: 'lao muralo to ma shua ha riporu noraku nai.' (Because the material did not come, this task is blocked.) Name the obstacle and evidence rather than using the status as a complete explanation. Distinct from 'hasoru' (pending), 'thonuki' (technical failure), 'naweri' (refuse), and 'te' (cease).",
+  "pillars": {
+    "solarpunk-values": "Visible blockers help communities address missing materials, access, care, information, and dependencies instead of hiding them behind individual productivity judgments.",
+    "peace-linguistics-practices": "A non-blaming status word separates inability to proceed from laziness, disobedience, incompetence, or fault."
+  },
+  "tags": {
+    "activity": "a work state unable to proceed under current conditions",
+    "cognition": "an obstacle-based status requiring explanation",
+    "temporal": "a potentially temporary stoppage"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

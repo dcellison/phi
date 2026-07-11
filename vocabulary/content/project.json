@@ -1,0 +1,29 @@
+{
+  "word": "rinoka",
+  "gloss": "project",
+  "ipa": "/ri.ˈn̪o̞.kä/",
+  "syllables": [
+    "ri",
+    "no",
+    "ka"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Project / Bounded Coordinated Undertaking",
+  "description": "A bounded undertaking organized around a stated purpose or outcome and potentially containing several tasks, participants, materials, dependencies, and stages. Its boundary may change during use. A project is not automatically collaborative, authorized, funded, beneficial, feasible, complete, or accepted by the people affected.",
+  "sound_symbolism": "The labor-associated 'ri' opens a field of activity. Center 'no' gathers separate actions into an organized undertaking, while final 'ka' gives the selected boundary a decisive edge without suggesting that the boundary is permanent.",
+  "grammatical_notes": "A countable noun: 'lo mia ha rinoka winora.' (We plan this project.) State its purpose, boundary, participants, source, tasks, dependencies, and expected result where relevant. Distinct from 'riporu' (task), 'terura' (system), 'punoki' (institution), and 'seru' (commitment).",
+  "pillars": {
+    "solarpunk-values": "Community projects can coordinate repair, care, construction, and ecological work while remaining open to revision and criticism.",
+    "peace-linguistics-practices": "Separating the undertaking from its authority and participation relations keeps a shared purpose from being treated as blanket consent."
+  },
+  "tags": {
+    "activity": "a bounded undertaking containing related work",
+    "community": "a possible frame for coordinated participation",
+    "creation": "an undertaking directed toward a stated result"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

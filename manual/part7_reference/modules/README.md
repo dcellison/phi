@@ -10,5 +10,6 @@ Every module word remains part of the canonical lexicon in `vocabulary/content/`
 | Systems and Shared Infrastructure | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | 25 module words established |
 | Ecological Systems and Material Life | [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | 30 module words established |
 | Commons and Collective Governance | [Commons and Collective Governance](commons_and_collective_governance.md) | 30 module words established |
+| Work, Craft, and Repair | [Work, Craft, and Repair](work_craft_and_repair.md) | 30 module words established |
 
 The other recorded profiles remain available in `documents/modules/` as development profiles. Their speaker-facing chapters will be added when each receives its first vocabulary pass.
