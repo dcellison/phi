@@ -58,6 +58,8 @@ import re
 import sys
 from pathlib import Path
 
+import compound_registry
+import generate_reference
 import name_forms
 
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -66,6 +68,7 @@ FOUR_SYLLABLE_MIGRATION_FILE = (
     PROJECT_ROOT / "documents" / "four_syllable_migration.tsv"
 )
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
+GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
 DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
 
@@ -1200,6 +1203,37 @@ def name_report(entries, candidate):
 # Main
 # ---------------------------------------------------------------------------
 
+def check_compound_registry(lexicon_words):
+    """The compound registry stays in step with the lexicon and its
+    generated Part VII page: every member word exists, no row repeats,
+    and the reference page matches what the registry would generate."""
+    errors = []
+    compounds = compound_registry.load_compounds()
+    if not compounds:
+        errors.append("documents/compounds.md: no registry rows parsed")
+    seen = set()
+    for c in compounds:
+        if c["compound"] in seen:
+            errors.append(
+                f"documents/compounds.md: duplicate registry row for `{c['compound']}`"
+            )
+        seen.add(c["compound"])
+        for token in c["tokens"]:
+            if token not in lexicon_words:
+                errors.append(
+                    f"documents/compounds.md: compound `{c['compound']}` "
+                    f"uses '{token}', which is not in the lexicon"
+                )
+    expected = generate_reference.compounds_reference(compounds)
+    if (not GENERATED_COMPOUNDS_FILE.exists()
+            or GENERATED_COMPOUNDS_FILE.read_text(encoding="utf-8") != expected):
+        errors.append(
+            "manual/part7_reference/compounds.md is stale; "
+            "rerun: python3 scripts/generate_reference.py"
+        )
+    return errors
+
+
 def main():
     parser = argparse.ArgumentParser(description="Phi language validator")
     parser.add_argument("command", nargs="?", default="check",
@@ -1250,6 +1284,8 @@ def main():
         ))
         if not args.paths:
             errors.extend(check_citations())
+        if not args.paths or "documents/compounds.md" in args.paths:
+            errors.extend(check_compound_registry(lexicon_words))
 
     for e in errors:
         print(f"ERROR   {e}")

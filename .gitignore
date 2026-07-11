@@ -8,6 +8,7 @@ __pycache__/
 *$py.class
 .idx/
 web/lexicon.json
+web/compounds.json
 lexicon.db
 web/index.html
 web/primer/

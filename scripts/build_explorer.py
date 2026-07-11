@@ -7,7 +7,10 @@ Generated output; not committed. Run before serving web/ locally:
 """
 import html as html_module
 import json
+import re
 from pathlib import Path
+
+from compound_registry import load_compounds
 
 ROOT = Path(__file__).resolve().parent.parent
 FIELDS = ["word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
@@ -34,9 +37,37 @@ out = ROOT / "web" / "lexicon.json"
 out.write_text(json.dumps(entries, ensure_ascii=False, separators=(",", ":")))
 print(f"wrote {out.relative_to(ROOT)}: {len(entries)} entries, {out.stat().st_size // 1024} KB")
 
-# ---- landing page: kia.md rendered to web/index.html ----
-import re
+# ---- compound registry: documents/compounds.md to web/compounds.json ----
+ALL_WORDS = {e["word"] for e in entries}
+CELL_MD = re.compile(r"`([^`]+)`|\*([^*]+)\*")
 
+def cell_html(text):
+    """A registry cell as safe HTML: backticked Phi becomes a .phi span
+    (clickable when it is one lexicon word), *emphasis* becomes <em>."""
+    def sub(m):
+        if m.group(1) is not None:
+            tok = html_module.escape(m.group(1))
+            link = f' data-w="{tok}" role="link" tabindex="0"' if m.group(1) in ALL_WORDS else ""
+            return f'<span class="phi"{link}>{tok}</span>'
+        return f"<em>{html_module.escape(m.group(2))}</em>"
+    parts, last = [], 0
+    for m in CELL_MD.finditer(text):
+        parts.append(html_module.escape(text[last:m.start()]))
+        parts.append(sub(m))
+        last = m.end()
+    parts.append(html_module.escape(text[last:]))
+    return "".join(parts)
+
+compounds = [
+    {"compound": c["compound"], "tokens": c["tokens"], "literal": c["literal"],
+     "meaning": c["meaning"], "section": c["section"], "why_html": cell_html(c["why"])}
+    for c in load_compounds()
+]
+comp_out = ROOT / "web" / "compounds.json"
+comp_out.write_text(json.dumps(compounds, ensure_ascii=False, separators=(",", ":")))
+print(f"wrote {comp_out.relative_to(ROOT)}: {len(compounds)} compounds")
+
+# ---- landing page: kia.md rendered to web/index.html ----
 
 def md_to_html(md):
     """Convert the repo's constrained Markdown (headings, paragraphs,
@@ -217,6 +248,10 @@ def link_text_citations(html):
         r'href="\.\./lexicon/by_module\.md#([a-z0-9-]+)"',
         lambda match: f'href="../explore.html?module={match.group(1)}"',
         html,
+    )
+    html = html.replace(
+        "<code>documents/compounds.md</code>",
+        '<a href="../manual/part7_reference__compounds.html"><code>documents/compounds.md</code></a>',
     )
     return html
 
