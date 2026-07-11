@@ -5,13 +5,13 @@ Precision now lives where the exact artifact lives. Values, units, dates, identi
 Source record outside Phi: `body temperature: 38.7 C`
 
 ```
-ha siranomi ha masue phelu.
+ha sirami ha masue phelu.
 PROX record PROX measure hold.
 (This record contains this measurement.)
 ```
 
 ```
-mia ha masue turekiro.
+mia ha masue tukiro.
 1SG PROX measure review.
 (I review this measurement.)
 ```

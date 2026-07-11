@@ -32,7 +32,7 @@ These existing resources remain available to every Phi speaker and keep their or
 | Energy, water, and land | `kenua` energy, `sorae` sun, `phialu` water, `luphore` river, `muila` earth, `phelu` hold, `phelona` require | Supply concrete materials and needs for infrastructure discussion without defining technical units, storage models, or ecological consequences. |
 | Maintenance and continuity | `shiroka` repair, `talome` restore, `thiranu` maintain, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect | Keep repair, restoration, upkeep, continuity, regeneration, and protection distinct from inspection, calibration, fault, failure, reliability, and redundancy. |
 | Shared use and responsibility | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible | Describe shared use and care while leaving ownership, authority, allocation, accountability, labor assignment, and obligation to their relevant modules and explicit clauses. |
-| Evidence, precision, and reasoning | `masue` measure, `siru` marker, `siranomi` record, `kiro` precise, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `sano` know, `nohero` believe, `lilea` clarify, `kirema` criterion, `natheri` entail, and separately preserved source material | Discuss readings and distinguish source, inference, criteria, and logical relations from technical state, calibration, specification, inspection, and reliability. |
+| Evidence, precision, and reasoning | `masue` measure, `siru` marker, `sirami` record, `kiro` precise, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `sano` know, `nohero` believe, `lilea` clarify, `kirema` criterion, `natheri` entail, and separately preserved source material | Discuss readings and distinguish source, inference, criteria, and logical relations from technical state, calibration, specification, inspection, and reliability. |
 
 ## First Vocabulary Pass
 
@@ -66,7 +66,7 @@ The pass keeps several expressions compositional because their parts expose anal
 | Failure mode | `thonuki norelu`, failure form | Names how a required function can fail without treating the mode as its cause. |
 | Compliance | `kisholu heno`, satisfy a specification | Says which stated requirements are met without silently granting legitimacy, authority, certification, or safety. |
 | Standard, formula, exact conversion, and feedforward terminology | Preserve the source artifact outside the Phi passage, then explain criteria and relations in core or module Phi | Exact identity, version, notation, and source authority matter more than an approximate lexical substitution. |
-| Ownership, operator authority, allocation, public obligation, and accountability | Use Commons terms such as `phelunori`, `kanorami`, `phanokelu`, `naserumi`, and `lonathoni`, with Work terms or explicit clauses where the labor relation matters | A technical role or system relation must not settle social authority, legitimacy, obligation, or responsibility. |
+| Ownership, operator authority, allocation, public obligation, and accountability | Use Commons terms such as `phenori`, `karami`, `phanuli`, `naseru`, and `lothoni`, with Work terms or explicit clauses where the labor relation matters | A technical role or system relation must not settle social authority, legitimacy, obligation, or responsibility. |
 
 ## Scenario Connections
 

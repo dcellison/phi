@@ -1,20 +1,19 @@
 {
-  "word": "naserumi",
+  "word": "naseru",
   "gloss": "obligation",
-  "ipa": "/n̪ä.se̞.ˈru.mi/",
+  "ipa": "/n̪ä.ˈse̞.ru/",
   "syllables": [
     "na",
     "se",
-    "ru",
-    "mi"
+    "ru"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Obligation / Requirement Borne by an Agent Under a Stated Source",
   "description": "A requirement attributed to a stated person, role, group, or institution to act, refrain, provide, answer, or accept a consequence under a stated rule, commitment, relationship, authority, event, or claimed norm. An obligation may be accepted, imposed, inherited, disputed, impossible, conflicting, fulfilled, or breached. The word does not mean grammatical necessity, voluntary commitment, willingness, consent, present capacity, causal responsibility, legitimacy, or proof that enforcement is justified.",
-  "sound_symbolism": "Necessity 'na' passes through commitment-bearing 'seru' into relational 'mi', giving duty a source and bearer without pretending it was freely chosen. The cadence carries weight while leaving refusal and conflict speakable.",
-  "grammatical_notes": "A countable or mass noun commonly possessed by its bearer or role: 'ha silathora ha naserumi phelu.' (This role has this obligation.) State source, required action, bearer, conditions, duration, conflict, capacity, and consequence. Distinct from 'na' (necessity), 'seru' (commit), 'thonai' (willingly responsible), permission, and 'lonathoni' (accountable).",
+  "sound_symbolism": "Necessity 'na' enters the complete commitment-bearing form 'seru', giving the required action continuity without pretending the bearer chose it freely. The open ending carries duty while leaving conflict, refusal, incapacity, and disputed source speakable.",
+  "grammatical_notes": "A countable or mass noun commonly possessed by its bearer or role: 'ha sithora ha naseru phelu.' (This role has this obligation.) State source, required action, bearer, conditions, duration, conflict, capacity, and consequence. Distinct from 'na' (necessity), 'seru' (commit), 'thonai' (willingly responsible), permission, and 'lothoni' (accountable).",
   "pillars": {
     "secular-buddhist-philosophy": "Obligations are treated as conditioned relations with sources, conflicts, capacities, and consequences rather than as permanent essences of a person.",
     "peace-linguistics-practices": "Naming imposed or role-based obligation separately from commitment and consent prevents institutional demands from borrowing the language of voluntary care."

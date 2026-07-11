@@ -336,7 +336,7 @@ B: mia thia naweri thekao. mia thia weloni ma palo.
 1SG 2SG refuse acknowledge. 1SG 2SG body NEG touch.
 (I acknowledge your refusal. I do not touch your body.)
 
-A: ha siranomi ha masue thelima.
+A: ha sirami ha masue thelima.
 PROX record PROX measure describe.
 (This record describes this measurement.)
 

@@ -87,7 +87,7 @@ The pass keeps several expressions compositional because their parts expose scop
 | Forecast | `wireo mirela kethira`, infer a future state, with model, evidence, and uncertainty stated | Exposes prediction as an inference rather than a guaranteed future. |
 | Monitoring interval | `somethi mosha` | Names the monitoring practice and its period without hiding duration or frequency. |
 | Precaution | State the possible `pemaru` hazard, uncertainty, limited protective action, burdens, refusal, and review | Keeps precaution as a reasoned practice rather than a word that automatically authorizes intervention. |
-| Environmental justice, land or water authority, rights, and restoration obligations | Use Commons terms for `kanorami` authority, `noruwela` jurisdiction, `sherenori` entitlement, `naserumi` obligation, `lonathoni` accountability, and `helokelu` redress with Philosophical Reasoning resources and exact source terms | Ecological terminology must not settle legitimacy, rights, remedy, responsibility, or justice by itself. |
+| Environmental justice, land or water authority, rights, and restoration obligations | Use Commons terms for `karami` authority, `norulo` jurisdiction, `shereni` entitlement, `naseru` obligation, `lothoni` accountability, and `helolu` redress with Philosophical Reasoning resources and exact source terms | Ecological terminology must not settle legitimacy, rights, remedy, responsibility, or justice by itself. |
 
 ## Scenario Connections
 

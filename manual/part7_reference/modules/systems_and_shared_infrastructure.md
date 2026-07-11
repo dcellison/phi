@@ -142,7 +142,7 @@ PROX feedback PROX control change.
 Source record outside Phi: `20 kWh`
 
 ```
-ha siranomi ha terura henora thelima.
+ha sirami ha terura henora thelima.
 PROX record PROX system capacity describe.
 (This record describes this system's capacity.)
 ```

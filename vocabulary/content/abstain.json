@@ -1,10 +1,9 @@
 {
-  "word": "mawokelu",
+  "word": "makelu",
   "gloss": "abstain",
-  "ipa": "/mä.wo̞.ˈke̞.lu/",
+  "ipa": "/mä.ˈke̞.lu/",
   "syllables": [
     "ma",
-    "wo",
     "ke",
     "lu"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Abstain / Formally Register No Selection",
   "description": "To deliberately register no selection or to refrain from casting a vote within a stated procedure while preserving that procedural stance. Through the event-noun rule the word also names abstention. Abstention does not mean absence, exclusion, inability to participate, indifference, refusal of the institution, objection, agreement, consent, or a vote for any side, and its effect depends on the counting rule.",
-  "sound_symbolism": "Negating 'ma' opens into a changed stance with 'kelu', making non-selection an explicit procedural act rather than an empty space. The rounded middle holds the place where a choice could have been registered.",
-  "grammatical_notes": "An intransitive verb, often with the vote or procedure in a locative phrase: 'mia mua ha kanusira mawokelu.' (I abstain in this vote.) State whether the abstention counts toward participation, thresholds, or records. The event-noun rule supplies abstention. Distinct from 'naweri' (refuse), 'whakeru' (object), absence, exclusion, and inability.",
+  "sound_symbolism": "Negating 'ma' opens directly into the complete verb 'kelu' (become), making non-selection an explicit registered stance rather than an empty space. The open ending lets the procedure determine how that stance affects participation and counting.",
+  "grammatical_notes": "An intransitive verb, often with the vote or procedure in a locative phrase: 'mia mua ha kasira makelu.' (I abstain in this vote.) State whether the abstention counts toward participation, thresholds, or records. The event-noun rule supplies abstention. Distinct from 'naweri' (refuse), 'whakeru' (object), absence, exclusion, and inability.",
   "pillars": {
     "secular-buddhist-philosophy": "Abstention makes deliberate non-selection possible without forcing uncertainty, reservation, or principled withholding into a false binary stance.",
     "peace-linguistics-practices": "Recording abstention separately from agreement and absence protects dissent while preventing others from assigning the silent participant a position."

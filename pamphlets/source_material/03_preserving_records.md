@@ -5,13 +5,13 @@ An exact artifact stays exact by remaining where its medium can preserve it. A M
 Source record outside Phi: `nitrate: 18 mg/L`
 
 ```
-mia ha siranomi theo.
+mia ha sirami theo.
 1SG PROX record read.
 (I read this record.)
 ```
 
 ```
-mia ha masue turekiro.
+mia ha masue tukiro.
 1SG PROX measure review.
 (I review this measurement.)
 ```

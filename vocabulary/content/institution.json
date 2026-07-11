@@ -1,11 +1,10 @@
 {
-  "word": "punoraki",
+  "word": "punoki",
   "gloss": "institution",
-  "ipa": "/pu.n̪o̞.ˈrä.ki/",
+  "ipa": "/pu.ˈn̪o̞.ki/",
   "syllables": [
     "pu",
     "no",
-    "ra",
     "ki"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Institution / Continuing Organized Social Arrangement",
   "description": "A continuing organized social arrangement or body maintained through stated roles, practices, procedures, records, resources, and relationships beyond one event or current participant. An institution may be formal or informal, temporary or long-lived, beneficial or harmful, and recognized differently by different sources. The word does not mean a building, society as a whole, government, legal person, legitimate authority, harmonious community, or technical system.",
-  "sound_symbolism": "Society-bearing 'puno' settles into structured 'raki', giving continuity and organization a firm but revisable form. The ending is grounded enough to persist beyond one meeting without sounding eternal.",
-  "grammatical_notes": "A countable noun: 'ha punoraki lo silathora phelu.' (This institution has roles.) Name participants, continuity, roles, procedures, resources, and source recognition where relevant. Distinct from 'punoa' (society), 'sila' (community), 'kowela' (council), 'lona' (meeting), and 'terura' (technical system).",
+  "sound_symbolism": "The society-bearing opening 'puno' is shared with 'punoa' (society), while final 'ki' gives continuing roles, practices, and records a clear but revisable structure. The firm ending persists beyond one meeting without sounding eternal.",
+  "grammatical_notes": "A countable noun: 'ha punoki lo sithora phelu.' (This institution has roles.) Name participants, continuity, roles, procedures, resources, and source recognition where relevant. Distinct from 'punoa' (society), 'sila' (community), 'kowela' (council), 'lona' (meeting), and 'terura' (technical system).",
   "pillars": {
     "solarpunk-values": "Durable commons require institutions that can be maintained, criticized, repaired, and replaced rather than relying on permanent goodwill or invisible labor.",
     "peace-linguistics-practices": "Naming an institution without granting it legitimacy keeps its procedures, exclusions, authority claims, and harms available for direct examination."

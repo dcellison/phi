@@ -211,7 +211,7 @@ PL fish PROX contaminant expose.
 Source record outside Phi: `18 mg/L`
 
 ```
-ha siranomi ha hisophi nomiki thelima.
+ha sirami ha hisophi nomiki thelima.
 PROX record PROX contaminant concentration describe.
 (This record describes this contaminant concentration.)
 ```

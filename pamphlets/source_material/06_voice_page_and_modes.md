@@ -3,7 +3,7 @@
 A Romanized Phi passage and its Tengwar rendering carry the same Phi sounds and words. Separate source material may use Latin text, another script, digits, mathematical notation, diagrams, or any other medium without requiring the Phi passage to reproduce it.
 
 ```
-mia ha siranomi theo.
+mia ha sirami theo.
 1SG PROX record read.
 (I read this record.)
 ```
