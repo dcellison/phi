@@ -1,0 +1,30 @@
+{
+  "word": "moralume",
+  "gloss": "decompose",
+  "ipa": "/mo̞.rä.ˈlu.me̞/",
+  "syllables": [
+    "mo",
+    "ra",
+    "lu",
+    "me"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Decompose / Break Down Through Biological or Chemical Processes",
+  "description": "For organic or other stated material to break down through biological, chemical, or combined processes into different and often simpler materials over time. Through the event-noun rule the word also names decomposition. Decomposition may involve organisms, oxygen, water, heat, or other conditions and does not by itself mean rot, disappearance, nutrient return, composting, pollution, complete recycling, or ecological benefit.",
+  "sound_symbolism": "Grounded 'mora' enters the soft ending of 'lume', letting a held form loosen into other material without a single sharp break. The descending cadence suits gradual transformation after life or use.",
+  "grammatical_notes": "An intransitive verb: 'ha wolea si moralume.' (The wood is decomposing.) State material, organisms, conditions, time, products, and evidence where needed. The event-noun rule supplies decomposition. Distinct from 'pukate' (break), 'lumeo' (die), 'kelu' (become), decay as a value judgment, and managed composting.",
+  "pillars": {
+    "solarpunk-values": "Decomposition supports honest material-afterlife discussion without promising that every discarded material returns safely or usefully.",
+    "secular-buddhist-philosophy": "The word presents material form as conditioned and changing while preserving the specific processes and consequences of that change."
+  },
+  "tags": {
+    "activity": "biological or chemical breakdown of material",
+    "nature": "a transformation often mediated by organisms and environmental conditions",
+    "physical": "material changing into different constituent forms over time"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

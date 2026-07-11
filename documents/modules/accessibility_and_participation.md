@@ -32,6 +32,10 @@ These are existing Phi roots and function words. The profile indexes them withou
 | Support and shared action | `naphe` help, `panoru` support, `theama` care, `shorupo` protect, `keli` device, `loa` give, `howela` receive, `phowe` share, `nua` accompaniment, `nuawe` together | Speakers can offer or receive help, use a device, and act with others. The vocabulary does not by itself distinguish accommodation from ordinary help, assistance from control, or shared activity from dependence. |
 | Evidence, modality, and exact information | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `masue` measure, `siru` marker, `patha ... patho` exact material | Speakers can mark a claimed source, preserve specifications, and state possibility or necessity. Evidence markers do not establish another person's need, `po` does not inherently mean permission, and exact carriage does not establish practical access. |
 
+## Optional Cross-Module Dependencies
+
+The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `howenari` weather, `melunaro` climate, `phaluwero` flood, `kurathimo` drought, `hisophira` contaminant, `pelokira` toxic, `pelorawi` expose, `mueralo` material, and `somethiru` monitor. Access speakers may use these words to state environmental conditions and changes precisely, but none identifies an access barrier, another person's need, an acceptable burden, a suitable intervention, or authority to monitor people. Keep bodily reports, requested changes, refusal, participation, and environmental analysis separate.
+
 ## Current Practices and Limits
 
 | Need | Current Phi strategy | Important limit |

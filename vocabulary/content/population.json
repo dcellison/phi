@@ -1,0 +1,30 @@
+{
+  "word": "limaloni",
+  "gloss": "population",
+  "ipa": "/li.mä.ˈlo̞.n̪i/",
+  "syllables": [
+    "li",
+    "ma",
+    "lo",
+    "ni"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Population / Organisms of One Kind in a Place and Time",
+  "description": "The organisms treated as belonging to one species or other stated biological category within a selected area and time. Population claims may concern count, density, age, movement, reproduction, or change, but the word itself states none of those measures. It does not mean every member of a species everywhere, a human polity, a sample, an ecological community, or a group whose boundary is naturally obvious.",
+  "sound_symbolism": "Living 'lima' moves into spacious 'lo' and bounded 'ni', gathering many organisms without turning them into an undifferentiated mass. The shared family opening links population to species while the ending marks place and time.",
+  "grammatical_notes": "A countable noun: 'ha limaloni mua ha menulora thuroa.' (This population grows in the habitat.) State the category, place, time, and measurement method where needed. Distinct from 'limakori' (species), 'limaweso' (ecological community), `sila` (human community), and 'phisumari' (sample).",
+  "pillars": {
+    "solarpunk-values": "Population language helps track how decisions affect living groups across place and time without reducing ecological value to a single count.",
+    "peace-linguistics-practices": "The term keeps biological description separate from a political population, a claim of representation, or a judgment of worth."
+  },
+  "tags": {
+    "nature": "organisms of a stated biological category within a selected scope",
+    "spatial": "a living group bounded by an area",
+    "temporal": "a living group described for a stated time or period"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

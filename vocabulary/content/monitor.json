@@ -1,0 +1,30 @@
+{
+  "word": "somethiru",
+  "gloss": "monitor",
+  "ipa": "/so̞.me̞.ˈθi.ru/",
+  "syllables": [
+    "so",
+    "me",
+    "thi",
+    "ru"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Monitor / Repeatedly Observe and Record for Stated Change or Decision",
+  "description": "To observe, measure, sample, or record stated indicators repeatedly across a stated time and place in order to detect change, compare with a baseline or criterion, or inform a stated decision. Through the event-noun rule the word also names monitoring. Monitoring does not establish causation, complete coverage, neutral indicator choice, publication, correct interpretation, successful protection, or authority to surveil people.",
+  "sound_symbolism": "Observing 'some' stretches into temporal 'thiru', carrying attention across repeated occasions instead of stopping at one look. The steady four-syllable rhythm suits planned return without implying constant watching.",
+  "grammatical_notes": "A transitive verb: 'lo mia ha luphore somethiru.' (We monitor the river.) State indicators, sites, methods, interval, duration, baseline, record, decision rule, and responsible participants where needed. The event-noun rule supplies monitoring. Distinct from 'somela' (observe), 'masue' (measure), surveillance of people, and `nilakiro` (inspect).",
+  "pillars": {
+    "solarpunk-values": "Monitoring connects interventions to revisable observation rather than treating good intention or one favorable result as proof of ecological success.",
+    "peace-linguistics-practices": "The definition separates ecological monitoring from unmarked surveillance and requires purpose, scope, indicators, and authority to remain explicit."
+  },
+  "tags": {
+    "activity": "planned repeated observation, measurement, sampling, or recording",
+    "cognition": "a practice for detecting change and informing a stated decision",
+    "temporal": "attention repeated across a stated interval and duration"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

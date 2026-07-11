@@ -1,0 +1,30 @@
+{
+  "word": "wiraselu",
+  "gloss": "runoff",
+  "ipa": "/wi.rä.ˈse̞.lu/",
+  "syllables": [
+    "wi",
+    "ra",
+    "se",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Runoff / Water Flowing Across Land",
+  "description": "Water from rain, snowmelt, irrigation, overflow, or another stated source that moves across a land or built surface toward a channel, low place, water body, or drainage system rather than entering the ground at that location. Runoff may carry materials but is not inherently polluted, harmful, rapid, natural, or caused by one source. The word does not include all stream flow, groundwater, drainage infrastructure, or a complete source pathway.",
+  "sound_symbolism": "Wet 'wira' opens into the smooth movement of 'selu', making water-over-surface audible without adding dirt or danger to the word itself. The continuous ending follows the water beyond the named patch of land.",
+  "grammatical_notes": "A mass or countable noun: 'ha wiraselu lue ha kosha wea ha luphore selu.' (This runoff flows from the field toward the river.) State source, surface, timing, carried material, and destination separately. Distinct from 'pheralu' (rain), 'selu' (flow), stream water, wastewater, and 'pelosenu' (pollute).",
+  "pillars": {
+    "solarpunk-values": "Runoff makes the material consequences of fields, roofs, paths, and streets traceable without presuming either contamination or blame.",
+    "pre-industrial-wisdom": "Reading surface water links soil, slope, cultivation, settlement, and downstream conditions in practical land knowledge."
+  },
+  "tags": {
+    "nature": "water moving across land or built surfaces",
+    "physical": "a mobile body of surface water that may carry material",
+    "spatial": "movement from a source surface toward a lower or receiving place"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

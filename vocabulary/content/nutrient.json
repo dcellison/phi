@@ -1,0 +1,29 @@
+{
+  "word": "lumeraki",
+  "gloss": "nutrient",
+  "ipa": "/lu.me̞.ˈrä.ki/",
+  "syllables": [
+    "lu",
+    "me",
+    "ra",
+    "ki"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Nutrient / Material Required or Used for Growth and Function",
+  "description": "A substance or material that a stated organism or living process requires or uses for growth, maintenance, reproduction, metabolism, or another stated biological function. Nutrient status depends on organism, amount, form, access, and conditions; the same material may be insufficient, excessive, unavailable, or harmful elsewhere. The word does not mean food in general, fertilizer, nourishment as an action, beneficial material in every amount, or proof of a closed nutrient cycle.",
+  "sound_symbolism": "Nourishing 'lume' moves into grounded and precise 'raki', giving sustenance a material form and a particular biological relation. The firm ending resists treating more as automatically better.",
+  "grammatical_notes": "A countable or mass noun: 'ha lumeraki ha shiro thuroa panoru.' (This nutrient supports the tree's growth.) Name organism, function, form, amount, and conditions where they matter. Distinct from 'lumera' (nourish), 'nuora' (food), medicine, fertilizer, and an exact chemical name.",
+  "pillars": {
+    "solarpunk-values": "Nutrient language supports soil, water, food, compost, and ecological discussion while making excess and harmful movement as speakable as deficiency.",
+    "pre-industrial-wisdom": "Cultivation and land care attend to which materials feed which beings, in what form, season, place, and amount."
+  },
+  "tags": {
+    "nature": "material used or required by an organism or living process",
+    "physical": "a substance whose biological role depends on form, amount, and conditions"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

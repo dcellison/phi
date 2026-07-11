@@ -22,6 +22,10 @@ These are existing core roots. Their appearance here is an index for this profil
 
 The profile deliberately retains broad terms such as `theama` (care), `palo` (touch), `nawo` (agree), and `naweri` (refuse) in the shared core. They are as important to access, bodily autonomy, community life, and dialogue as they are to a household.
 
+## Optional Cross-Module Dependencies
+
+The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `mueralo` material, `panumori` resource, `whemorali` waste, `moralume` decompose, `lumeraki` nutrient, `turekelu` recycle, `howenari` weather, `melunaro` climate, `phaluwero` flood, and `kurathimo` drought. Household speakers may use these terms when the ecological distinction matters, but none makes a domestic object inherently waste, grants access to a resource, proves recycling harmless, or decides how household burdens should be shared.
+
 ## Existing Practice
 
 The profile begins with [primer chapter 1](../../primer/01_the_household.md), which already introduces the word for home, family and friendship roles, and a small scene. It then moves from naming a dwelling to ordinary shared acts: prepare food, eat, rest, clean, repair, and decide what needs tending.

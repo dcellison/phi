@@ -1,0 +1,29 @@
+{
+  "word": "phiralima",
+  "gloss": "biodiversity",
+  "ipa": "/ɸi.rä.ˈli.mä/",
+  "syllables": [
+    "phi",
+    "ra",
+    "li",
+    "ma"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Biodiversity / Living Variation Within a Selected Scope",
+  "description": "Variation among living beings within a stated place, time, scale, and measure, potentially including genetic, species, population, community, or ecosystem differences. A biodiversity claim must identify what variation is counted or compared when that affects the conclusion. The word does not mean a mere list of organisms, abundance alone, ecological health, native status, moral worth, stability, or proof that an intervention protects life.",
+  "sound_symbolism": "Difference-bearing 'phira' comes before living 'lima', making variation the explicit subject rather than decorative variety. The mirrored cadence holds distinction and shared life together without collapsing either.",
+  "grammatical_notes": "A mass noun commonly possessed by a place, habitat, or ecosystem: 'ha menulora phiralima simoe nai.' (This habitat's biodiversity is rich.) State scope and measure for scientific comparison, and preserve exact indices in 'patha ... patho'. Distinct from 'phirae' (different), species count, abundance, and ecological condition.",
+  "pillars": {
+    "solarpunk-values": "Biodiversity vocabulary supports discussion of living variation while preventing a green label from substituting for a stated measure or actual ecological consequence.",
+    "secular-buddhist-philosophy": "The concept values difference without turning a selected classification or momentary inventory into a permanent essence of a place."
+  },
+  "tags": {
+    "cognition": "a scoped and measured account of living variation",
+    "nature": "variation among living beings across one or more biological levels"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

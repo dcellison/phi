@@ -1,0 +1,30 @@
+{
+  "word": "pelorawi",
+  "gloss": "expose",
+  "ipa": "/pe̞.lo̞.ˈrä.wi/",
+  "syllables": [
+    "pe",
+    "lo",
+    "ra",
+    "wi"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Expose / Come Into Relevant Contact With an Agent",
+  "description": "For an organism, population, place, or system to come into contact with a stated material, organism, energy form, or hazard through a stated route and over a stated duration. Through the event-noun rule the word also names exposure. Exposure does not establish uptake, dose, toxicity, harm, awareness, consent, cause, or that every member of a group had the same contact.",
+  "sound_symbolism": "Potential-harm 'pelo' opens into relational 'rawi', bringing two previously separate conditions into contact without sounding like injury has already occurred. The final glide keeps route and duration open.",
+  "grammatical_notes": "A transitive verb with the exposed entity as subject and the contacted agent as object: 'lo shalu ha hisophira pelorawi.' (The fish are exposed to this contaminant.) The event-noun rule supplies exposure. Distinct from 'palo' (touch), 'pelokira' (toxic), 'pelomaru' (hazard), uptake, dose, and observed harm.",
+  "pillars": {
+    "solarpunk-values": "Exposure vocabulary connects sources and pathways to affected beings while leaving amount, duration, inequality, and actual effect explicit.",
+    "peace-linguistics-practices": "The term can report contact without blaming an exposed person or implying consent, weakness, or identical experience across a group."
+  },
+  "tags": {
+    "activity": "contact between an entity and a stated environmental agent",
+    "nature": "an ecological relation among organisms, places, materials, and energy",
+    "physical": "contact through a route over a duration"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "luphanori",
+  "gloss": "watershed",
+  "ipa": "/lu.ɸä.ˈn̪o̞.ri/",
+  "syllables": [
+    "lu",
+    "pha",
+    "no",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Watershed / Land Area Draining to a Shared Outlet",
+  "description": "A land area selected by the way surface water drains toward a shared stream, river, lake, wetland, sea, or other stated outlet. Its boundary follows drainage rather than ownership or political borders and may depend on scale, terrain, infrastructure, and the water path being studied. The word does not mean a water body itself, every source of water entering it, a jurisdiction, a complete groundwater model, or proof of causal connection.",
+  "sound_symbolism": "The river-like opening 'lupha' spreads into boundary-bearing 'nori', tracing water across land toward a common receiving place. The contour rises and settles like drainage over uneven ground.",
+  "grammatical_notes": "A countable noun: 'ha luphanori ha luphore panoru.' (This watershed supports the river.) Use 'luphanori norui' for the selected drainage boundary and name the outlet and scale where needed. Distinct from 'luphore' (river), 'thula' (spring), a political territory, and an exact catchment definition from a source.",
+  "pillars": {
+    "solarpunk-values": "Watershed language connects upstream land choices with shared downstream water while leaving governance, evidence, and responsibility explicit.",
+    "pre-industrial-wisdom": "Communities have long read slopes, channels, soils, and seasonal water together rather than treating a river as isolated from its land."
+  },
+  "tags": {
+    "nature": "land organized by drainage toward a shared water outlet",
+    "spatial": "an area bounded by selected water-flow relations"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

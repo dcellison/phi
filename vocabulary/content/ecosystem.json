@@ -1,0 +1,29 @@
+{
+  "word": "limatero",
+  "gloss": "ecosystem",
+  "ipa": "/li.mä.ˈt̪e̞.ro̞/",
+  "syllables": [
+    "li",
+    "ma",
+    "te",
+    "ro"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Ecosystem / Bounded Relations Among Living Beings and Environment",
+  "description": "A selected ecological system in which living beings, nonliving materials, energy, water, place, and their interactions are analyzed together across a stated space and time. An ecosystem boundary is chosen for a question and may cross named places or change with scale. The word does not mean every landscape, forest, community, harmonious whole, or self-sufficient cycle, and naming an ecosystem does not explain its relations or establish ecological health.",
+  "sound_symbolism": "Living 'lima' opens into the ordered unfolding of 'tero', placing life inside a wider process rather than above it. Four balanced syllables give both beings and surroundings room within the selected whole.",
+  "grammatical_notes": "A countable noun: 'ha limatero lo lima nela lo mueralo lorea.' (This ecosystem connects living beings and materials.) Use 'limatero norui' for an ecosystem boundary and state place, time, scale, and included relations when they matter. Distinct from 'terulora' (system), 'shelira' (forest), 'sila' (human community), and 'nuri' (cycle).",
+  "pillars": {
+    "solarpunk-values": "Ecosystem language supports situated accounts of infrastructure, material use, care, and restoration without assuming that preferred ecological imagery proves a good outcome.",
+    "art-nouveau-aesthetics": "The concept treats living and nonliving forms through their interwoven relations, while refusing to mistake visual harmony for ecological explanation."
+  },
+  "tags": {
+    "cognition": "a bounded analytical whole selected for ecological explanation",
+    "nature": "relations among living beings, materials, energy, water, and place"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

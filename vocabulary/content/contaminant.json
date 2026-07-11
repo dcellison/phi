@@ -1,0 +1,30 @@
+{
+  "word": "hisophira",
+  "gloss": "contaminant",
+  "ipa": "/hi.so̞.ˈɸi.rä/",
+  "syllables": [
+    "hi",
+    "so",
+    "phi",
+    "ra"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Contaminant / Agent Present Outside a Stated Expected Condition",
+  "description": "A material, substance, organism, or other stated agent present in a medium, place, sample, or process where its presence, amount, identity, or source is under investigation or outside a stated expected condition. A contaminant may be harmless, beneficial, harmful, naturally occurring, or introduced depending on context. The word does not itself mean pollutant, toxin, impurity, waste, infection, foreign being, or regulatory violation.",
+  "sound_symbolism": "Clean-condition 'hiso' meets difference-bearing 'phira', marking departure from an expected relation without declaring disgust or harm. The ending keeps the contrast analytical rather than moral.",
+  "grammatical_notes": "A countable or mass noun: 'ha tinoa ha phialu hisophira nai.' (The dye is a contaminant in this water.) Name medium, expected condition, amount, source, and effect separately. Distinct from 'pelosenu' (pollute), 'pelokira' (toxic), 'whemorali' (waste), and a source-specific analyte name.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Contamination is framed as a conditioned relation to a medium and expectation, not as an inherent essence of a substance or being.",
+    "peace-linguistics-practices": "The definition prevents technical contamination language from becoming a metaphor that dehumanizes outsiders, migrants, cultures, or disliked life."
+  },
+  "tags": {
+    "cognition": "an agent classified relative to a stated expected condition",
+    "nature": "a material or organism investigated within an environmental medium",
+    "physical": "a substance, organism, or agent present in a sample, place, or process"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

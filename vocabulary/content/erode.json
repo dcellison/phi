@@ -1,0 +1,30 @@
+{
+  "word": "wherakelu",
+  "gloss": "erode",
+  "ipa": "/ʍe̞.rä.ˈke̞.lu/",
+  "syllables": [
+    "whe",
+    "ra",
+    "ke",
+    "lu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Erode / Detach and Transport Earth or Rock",
+  "description": "For water, wind, ice, gravity, organisms, or human activity to detach and move soil, sediment, or rock from a surface or landform over time. Through the event-noun rule the word also names erosion. Erosion may be slow or rapid and beneficial, harmful, or neither under a particular value frame; it is not every form of weathering, excavation, collapse, soil loss, or deposited sediment.",
+  "sound_symbolism": "Breathy 'whera' brushes across the surface before changing 'kelu' carries material away. The word feels gradual and mobile rather than like a single violent break.",
+  "grammatical_notes": "A transitive verb with the moving agent as subject and affected material or place as object: 'phialu ha muila wherakelu.' (Water erodes the soil.) The event-noun rule supplies erosion. Distinct from 'muholi' (dig), 'pukate' (break), weathering in place, and 'muhenari' (sediment).",
+  "pillars": {
+    "solarpunk-values": "Erosion vocabulary supports discussion of land use and restoration without treating every movement of soil as damage or every intervention as repair.",
+    "pre-industrial-wisdom": "Embodied land practice observes how water, wind, roots, paths, and cultivation move earth across seasons."
+  },
+  "tags": {
+    "activity": "detachment and movement of earth or rock",
+    "nature": "a geomorphic process driven by water, wind, ice, gravity, organisms, or people",
+    "physical": "transport of soil, sediment, or rock from a surface"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

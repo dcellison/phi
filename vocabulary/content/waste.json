@@ -1,0 +1,29 @@
+{
+  "word": "whemorali",
+  "gloss": "waste",
+  "ipa": "/ʍe̞.mo̞.ˈrä.li/",
+  "syllables": [
+    "whe",
+    "mo",
+    "ra",
+    "li"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Waste / Material or Energy Assigned No Further Intended Use",
+  "description": "Material or energy that a stated holder, process, or institution does not intend to use further in its present relation and may release, store, transform, transfer, or discard. Waste is a social and system-relative status, not an inherent emptiness: another being, process, place, or future use may relate to it differently. The word does not mean harmless, worthless, contaminated, polluted, legally disposable, abandoned property, or permission to move a burden elsewhere.",
+  "sound_symbolism": "Hollow 'whemo' recalls apparent emptiness before relational 'rali' turns the remainder toward another possible life. The word begins with absence of intended use but does not end in annihilation.",
+  "grammatical_notes": "A countable or mass noun: 'ha mueralo whemorali ma nai.' (This material is not waste.) State whose process assigns the status, present condition, intended next action, and affected place or beings. Distinct from 'whemoa' (empty), 'holume' (loss), 'hisophira' (contaminant), and 'panumori' (resource).",
+  "pillars": {
+    "solarpunk-values": "Waste is made discussable without treating disposal as disappearance or assuming that another use automatically makes a material safe or sustainable.",
+    "secular-buddhist-philosophy": "The definition resists an inherent waste essence and makes the designation dependent on changing relations, intentions, and conditions."
+  },
+  "tags": {
+    "community": "a status assigned by a holder, process, or institution with consequences for others",
+    "physical": "material or energy lacking further intended use in its present relation"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}

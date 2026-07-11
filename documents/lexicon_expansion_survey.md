@@ -1,6 +1,6 @@
 # Lexicon Expansion Survey (2026-07-10)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 984 entries: 850 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,014 entries: 880 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or the guest/exact external registers. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -27,7 +27,7 @@ The previous survey described a 906-word snapshot and must not be used as a curr
 
 Phi is rich enough to write substantial material about household life, craft, food preparation, nature-as-place, weather, bodies, relationships, emotion, ritual, repair, reflection, and ordinary community life. It also already has strong solarpunk anchors: `laenu` (commons), `shiroka` (repair), `sunoe` (regenerate), `thenoki` (sustain), `theluo` (steward), `phaliso` (network), `kowela` (council), `theloma` (justice), and `thonai` (responsible).
 
-The basic thermal field is covered. `sulae` spans warm through hot, `neri` is cool, and `pelui` is cold. A separate word for hot is unnecessary while that range feels natural, but dangerous heat, fever, heatwave, overheating, or thermal safety may still deserve dedicated terms in an ecological or medical module.
+The basic thermal field is covered. `sulae` spans warm through hot, `neri` is cool, and `pelui` is cold. A separate word for hot remains unnecessary while that range feels natural. The Ecological Systems and Material Life module keeps heatwave compositional as `sharoi sulae mosha`, an exceeding-warm period whose place, duration, reference, and exact threshold must be stated; fever, overheating, and bodily thermal safety remain available to a medical vocabulary pass.
 
 Likewise, several apparent English gaps already have honest Phi resources: `phelona` for requiring or needing, `phelu` for holding or having, `riola` for labor/work, `laniru` for journey/travel, and `ruela` for a path or route. A vocabulary pass should begin from those meanings so any new term adds a wanted distinction rather than accidentally duplicating one.
 
@@ -47,11 +47,11 @@ The [Systems and Shared Infrastructure module](modules/systems_and_shared_infras
 
 The pass retains system boundary, subsystem, shared infrastructure, infrastructure service, pathway, technical threshold, tolerance, maintenance interval, service state, failure mode, and compliance as transparent compositions. Standards, formulas, exact conversions, versioned specifications, and feedforward terminology remain exact external material when source identity matters. Ownership, authority, allocation, public obligation, operator roles, and accountability remain coordinated with Commons and Work rather than being smuggled into technical definitions.
 
-### Ecological systems and material life
+### Ecological systems and material life: first pass complete
 
-Phi has earth/soil, water, forest, garden, energy, repair, regeneration, stewardship, and commons. Shared core still lacks climate, pollution, waste, habitat, biodiversity, infrastructure, and electricity, while the optional Systems module now supplies system, input, output, transfer, storage, capacity, feedback, hazard, and related technical distinctions without turning them into required general vocabulary.
+The [Ecological Systems and Material Life module](modules/ecological_systems_and_material_life.md) now establishes 30 optional terms for ecosystems, habitats, species, populations, ecological communities, biodiversity, watersheds, runoff, erosion, sediment, weather, climate, floods, drought, pollution, contaminants, toxicity, concentration, exposure, materials, resources, waste, decomposition, nutrients, recycling, samples, baselines, trends, models, and monitoring.
 
-The corpus explores this frontier through a watershed source scenario and a fallen-tree material-return scenario. The [Ecological Systems and Material Life profile](modules/ecological_systems_and_material_life.md) now supplies the starting inventory for a vocabulary pass over watershed, pollution, runoff, habitat, decomposition, biodiversity, ecological boundaries, pathways, scale, monitoring, climate, heat and cooling, waste streams, habitat change, and technical interpretation while reusing the Systems module where its definitions fit.
+The pass keeps ecosystem boundaries, ecological niches, species ranges, abundance, groundwater, wetlands, upstream and downstream relations, infiltration, heatwaves, emissions, pollutants, organic matter, compost, reuse, food webs, ecological carrying capacity, indicators, forecasts, monitoring intervals, precaution, environmental justice, and land or water authority compositional. Exact taxonomies, chemical names, measurements, sites, methods, datasets, model identities, standards, legal categories, and knowledge-tradition terms remain external when source form or provenance matters. Systems vocabulary supplies general technical relations, while Commons, Work, Medical, Accessibility, and Philosophical Reasoning preserve authority, labor, bodily effect, access, and evaluative boundaries.
 
 ### Civic, economic, and institutional life
 
@@ -93,7 +93,7 @@ This matters to a journal-practice culture. A message might remain a telling car
 
 `napa` (bread) is present. Rice, tea, and nut lack dedicated roots; chair, spoon, broom, bag, box, and bottle are also currently unlisted. These are not automatically omissions: some are culturally specific and some are ordinary descriptions of shape, use, or material.
 
-Use the Household and Daily Life profile to decide which objects are clearer as compounds and which deserve ordinary roots. Flood and drought may likewise remain weather descriptions or become ecological words according to the vocabulary pass.
+Use the Household and Daily Life profile to decide which objects are clearer as compounds and which deserve ordinary roots.
 
 ## Vocabulary pass method
 

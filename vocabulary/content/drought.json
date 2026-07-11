@@ -1,0 +1,29 @@
+{
+  "word": "kurathimo",
+  "gloss": "drought",
+  "ipa": "/ku.rä.ˈθi.mo̞/",
+  "syllables": [
+    "ku",
+    "ra",
+    "thi",
+    "mo"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Drought / Prolonged Water Deficit",
+  "description": "A prolonged shortage of precipitation, soil moisture, streamflow, stored water, or another stated water condition relative to the usual or required condition for a place, population, activity, or system. Drought type, extent, threshold, and impact depend on the comparison being made. The word does not mean every dry day, arid climate, thirst, empty storage, crop failure, disaster, or proof of climate attribution.",
+  "sound_symbolism": "Dry 'kura' stretches through temporal 'thimo', making duration part of the condition rather than treating dryness as a single moment. The grounded ending holds the deficit against a particular need or usual pattern.",
+  "grammatical_notes": "A countable or mass noun: 'ha thepalu kurathimo phelu.' (The garden has a drought.) State the affected water condition, place, period, reference, and impacts where relevant. Distinct from 'kurathi' (dry), 'kishu' (thirsty), 'melunaro' (climate), and an exact drought classification.",
+  "pillars": {
+    "solarpunk-values": "Drought vocabulary supports discussion of water limits, competing needs, adaptation, and unequal burdens without treating one dry observation as the whole condition.",
+    "pre-industrial-wisdom": "Long memory of rainfall, soil, wells, streams, crops, and stored water gives drought meaning relative to a lived place."
+  },
+  "tags": {
+    "nature": "a sustained water deficit relative to a stated reference or need",
+    "temporal": "a condition defined partly by prolonged duration"
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
+}
