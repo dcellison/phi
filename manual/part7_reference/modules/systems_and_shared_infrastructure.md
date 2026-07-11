@@ -14,7 +14,7 @@ The module does not replace Phi's existing language of devices, movement, repair
 | Boundaries and relations | `norui` boundary, `shuna` edge, `pharune` include, `lorea` connect, `phaliso` network, `ruela` path, `shoeka` route |
 | Movement and recurrence | `selu` flow, `roke` move, `kolua` carry, `sepho` send, `nuri` cycle, `turema` return |
 | Upkeep and renewal | `thiranu` maintain, `shiroka` repair, `talome` restore, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect |
-| Limits and evidence | `phelona` require, `henoi` enough, `sharoi` exceed, `thenoi` fall short, `masue` measure, `siru` marker, `kiremoa` criterion, `hi` direct evidence, `ke` inference |
+| Limits and evidence | `phelona` require, `henoi` enough, `sharoi` exceed, `thenoi` fall short, `masue` measure, `siru` marker, `kirema` criterion, `hi` direct evidence, `ke` inference |
 | Shared life | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible |
 
 ## Module vocabulary

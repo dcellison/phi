@@ -1,20 +1,19 @@
 {
-  "word": "soneholu",
+  "word": "soneho",
   "gloss": "tradeoff",
-  "ipa": "/so̞.n̪e̞.ˈho̞.lu/",
+  "ipa": "/so̞.ˈn̪e̞.ho̞/",
   "syllables": [
     "so",
     "ne",
-    "ho",
-    "lu"
+    "ho"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Tradeoff / Gain Joined to Valued Loss",
   "description": "A relation in which gaining, protecting, or improving one valued outcome requires accepting less of another valued outcome under the available conditions. A tradeoff is not merely a choice between options and does not imply that the losses are equal, acceptable, unavoidable in every future, or fairly distributed. Naming the tradeoff should make both the gain and the burden visible.",
-  "sound_symbolism": "The opening 'sone' is carried in the first two syllables, placing value at the front. 'Ho' and 'lu' echo the beginning of 'holume' (loss), so the word moves from what is valued into what must be relinquished. Four syllables hold both sides without compressing one out of hearing.",
-  "grammatical_notes": "A countable noun: 'ha kanu soneholu phelu.' (This choice has a tradeoff.) The affected values, people, or outcomes should be stated in surrounding clauses rather than assumed. Distinct from 'kanu' (choose), 'holume' (loss), and the event noun of 'malonawi' (compromise); a tradeoff may exist even when no participants negotiate.",
+  "sound_symbolism": "The complete 'sone' (value) is carried in the first two syllables, placing what matters at the front. Final 'ho' opens 'holume' (loss), so the word moves from a valued outcome into the cost accepted beside it and leaves that burden audible rather than resolved away.",
+  "grammatical_notes": "A countable noun: 'ha kanu soneho phelu.' (This choice has a tradeoff.) The affected values, people, or outcomes should be stated in surrounding clauses rather than assumed. Distinct from 'kanu' (choose), 'holume' (loss), and the event noun of 'manawi' (compromise); a tradeoff may exist even when no participants negotiate.",
   "pillars": {
     "solarpunk-values": "Ecological and communal choices often distribute benefits and burdens unevenly; naming the tradeoff keeps regenerative ideals connected to material consequences.",
     "secular-buddhist-philosophy": "Tradeoffs foreground conditions and impermanence: the available choice is situated, and neither gain nor loss should be treated as isolated or eternal.",

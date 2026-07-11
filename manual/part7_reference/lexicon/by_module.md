@@ -89,27 +89,27 @@
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `kethira` | infer | verb | Infer |
-| `kiremoa` | criterion | noun | Criterion |
+| `kirema` | criterion | noun | Criterion |
 | `kirothe` | define | verb | Define |
 | `kithela` | valid | adjective | Valid |
 | `letharo` | consistent | adjective | Consistent |
-| `malonawi` | compromise | verb | Compromise |
+| `manawi` | compromise | verb | Compromise |
 | `mothare` | premise | noun | Premise |
 | `natheri` | entail | verb | Entail |
 | `norethi` | confident | adjective | Confident |
-| `phiraketu` | contradict | verb | Contradict |
+| `phiketu` | contradict | verb | Contradict |
 | `phisuwa` | example | noun | Example |
-| `phiwhekira` | counterexample | noun | Counterexample |
-| `remolea` | concept | noun | Concept |
-| `remoluma` | conclusion | noun | Conclusion |
+| `phiwheki` | counterexample | noun | Counterexample |
+| `remole` | concept | noun | Concept |
 | `remotha` | reason | noun | Reason |
+| `remuma` | conclusion | noun | Conclusion |
 | `sherewa` | claim | verb | Claim |
-| `soneholu` | tradeoff | noun | Tradeoff |
-| `theremola` | argument | noun | Argument |
+| `soneho` | tradeoff | noun | Tradeoff |
+| `themore` | argument | noun | Argument |
 | `thesori` | evidence | noun | Evidence |
 | `whakeru` | object | verb | Object |
-| `wharemoi` | doubt | verb | Doubt |
-| `whekatelu` | refute | verb | Refute |
+| `whamoi` | doubt | verb | Doubt |
+| `whekate` | refute | verb | Refute |
 
 ## Systems and Shared Infrastructure
 

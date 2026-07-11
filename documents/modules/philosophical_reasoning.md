@@ -40,13 +40,13 @@ The first pass admits words where an existing phrase would be cumbersome, ambigu
 
 | Family | Established module words | What the pass now distinguishes |
 |---|---|---|
-| Argument structure | `sherewa` claim, `mothare` premise, `remoluma` conclusion, `theremola` argument, `whakeru` object | Public claim versus belief; premise and conclusion as roles; argument versus quarrel; objection versus refusal or refutation. |
+| Argument structure | `sherewa` claim, `mothare` premise, `remuma` conclusion, `themore` argument, `whakeru` object | Public claim versus belief; premise and conclusion as roles; argument versus quarrel; objection versus refusal or refutation. |
 | Support and inference | `thesori` evidence, `remotha` reason, `kethira` infer, `natheri` entail | Evidence versus evidential source; justificatory reason versus cause or purpose; inference act versus `ke`; entailment versus ordinary support. |
-| Logical assessment | `kithela` valid, `phiraketu` contradict, `letharo` consistent | Validity versus truth; contradiction versus difference; consistency versus sameness or truth. |
-| Cases and challenge | `phisuwa` example, `phiwhekira` counterexample, `whekatelu` refute | Example noun versus discourse marker; counterexample versus surprising case; refutation versus disagreement or objection. |
-| Definition and abstraction | `kirothe` define, `kiremoa` criterion, `remolea` concept | Definition versus description; criterion versus method or measure; concept versus word, symbol, meaning, definition, or example. |
-| Epistemic stance | `wharemoi` doubt, `norethi` confident | Doubt versus denial; confidence versus knowledge, truth, certainty, or authority. |
-| Competing values | `soneholu` tradeoff, `malonawi` compromise | Tradeoff versus mere choice; compromise versus negotiation, agreement, fairness, or consent. |
+| Logical assessment | `kithela` valid, `phiketu` contradict, `letharo` consistent | Validity versus truth; contradiction versus difference; consistency versus sameness or truth. |
+| Cases and challenge | `phisuwa` example, `phiwheki` counterexample, `whekate` refute | Example noun versus discourse marker; counterexample versus surprising case; refutation versus disagreement or objection. |
+| Definition and abstraction | `kirothe` define, `kirema` criterion, `remole` concept | Definition versus description; criterion versus method or measure; concept versus word, symbol, meaning, definition, or example. |
+| Epistemic stance | `whamoi` doubt, `norethi` confident | Doubt versus denial; confidence versus knowledge, truth, certainty, or authority. |
+| Competing values | `soneho` tradeoff, `manawi` compromise | Tradeoff versus mere choice; compromise versus negotiation, agreement, fairness, or consent. |
 
 All 22 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `philosophical-reasoning` module classification, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit.
 
@@ -58,18 +58,18 @@ The pass keeps several expressions compositional because their parts provide a u
 |---|---|---|
 | Priority | `sone noa`, value-position | Keeps ranking connected to the value and context being prioritized. |
 | Standpoint or perspective | `remo noa`, thought-position | Presents perspective as situated thinking rather than an invisible universal view. |
-| Sound argument | `kithela theremola` plus explicitly true premises | Prevents validity from silently implying factual truth. |
-| Necessary and sufficient conditions | Use the direction of `natheri` between membership and a `kiremoa` | Makes the two relations visible without adding labels that speakers may reverse. |
+| Sound argument | `kithela themore` plus explicitly true premises | Prevents validity from silently implying factual truth. |
+| Necessary and sufficient conditions | Use the direction of `natheri` between membership and a `kirema` | Makes the two relations visible without adding labels that speakers may reverse. |
 | Suspension of judgment | `mena ... meno nohero ma kanu`, decline to choose the framed belief | States what the speaker withholds while leaving inquiry open. |
 | Reason for a claim | `sherewa remotha` | Ordinary modifier-first order exposes the justificatory relation. |
 
 ## Scenario Connections
 
-- [Water for the garden](../philosophical_test_corpus.md#1-water-for-the-garden) can now name its `soneholu` tradeoff and any `malonawi` compromise without implying that the settlement is just.
-- [Rain and the river](../philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a `mothare` premise, the act `kethira` of inferring, and a revisable `remoluma` conclusion.
-- [Definition under pressure](../philosophical_test_corpus.md#5-definition-under-pressure) can separate a `remolea` concept, the act `kirothe` of defining, a `kiremoa` criterion, a `phisuwa` example, and a `phiwhekira` counterexample.
-- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can now discuss `kithela` validity, `natheri` entailment, and `whekatelu` refutation directly.
-- [Grain for hunger and seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed), the ecological cases, and the work-sharing case can use `remotha` reasons, `wharemoi` doubt, `norethi` confidence, and `soneholu` tradeoffs while preserving their domain-specific vocabulary needs.
+- [Water for the garden](../philosophical_test_corpus.md#1-water-for-the-garden) can now name its `soneho` tradeoff and any `manawi` compromise without implying that the settlement is just.
+- [Rain and the river](../philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a `mothare` premise, the act `kethira` of inferring, and a revisable `remuma` conclusion.
+- [Definition under pressure](../philosophical_test_corpus.md#5-definition-under-pressure) can separate a `remole` concept, the act `kirothe` of defining, a `kirema` criterion, a `phisuwa` example, and a `phiwheki` counterexample.
+- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can now discuss `kithela` validity, `natheri` entailment, and `whekate` refutation directly.
+- [Grain for hunger and seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed), the ecological cases, and the work-sharing case can use `remotha` reasons, `whamoi` doubt, `norethi` confidence, and `soneho` tradeoffs while preserving their domain-specific vocabulary needs.
 
 The existing [transformation packet](../philosophical_reasoning_transformation_prompts.md) remains optional practice material and a before-state for comparison. It is not a gate on using or extending the module, and no delay is required before a learner who has not seen its proposition key works through it with or without reference materials.
 

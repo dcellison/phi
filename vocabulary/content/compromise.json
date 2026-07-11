@@ -1,10 +1,9 @@
 {
-  "word": "malonawi",
+  "word": "manawi",
   "gloss": "compromise",
-  "ipa": "/mä.lo̞.ˈn̪ä.wi/",
+  "ipa": "/mä.ˈn̪ä.wi/",
   "syllables": [
     "ma",
-    "lo",
     "na",
     "wi"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Compromise / Reach Agreement Through Mutual Concession",
   "description": "For participants with differing aims or claims to reach an agreement by each accepting some outcome they did not initially prefer or by yielding part of what they sought. Compromise does not guarantee justice, equal sacrifice, free consent, wisdom, or lasting agreement; a harmful or coerced compromise may properly be refused. The word names the process and its resulting settlement through the event-noun rule.",
-  "sound_symbolism": "Grounded 'ma' and flowing 'lo' echo the movement of 'malomi' (balance), while 'na' and relational 'wi' bring distinct participants toward a shared but not identical result. Four syllables give room to the concessions on both sides rather than celebrating agreement alone.",
-  "grammatical_notes": "An intransitive verb used with plural participants or a comitative phrase: 'lo mia to malonawi.' (We compromised.); 'mia nua thia to malonawi.' (I compromised with you.) The event-noun rule supplies a compromise. Distinct from 'numike' (negotiate), the process of discussing terms, and 'nawo' (agree), which does not imply concession.",
+  "sound_symbolism": "Grounded 'ma' begins with the situation the participants still share. 'Na' places deliberate concession at the center, and relational 'wi' closes with the participants still linked despite accepting nonidentical outcomes. The alternating nasals keep distinct positions audible without pretending they have become the same.",
+  "grammatical_notes": "An intransitive verb used with plural participants or a comitative phrase: 'lo mia to manawi.' (We compromised.); 'mia nua thia to manawi.' (I compromised with you.) The event-noun rule supplies a compromise. Distinct from 'numike' (negotiate), the process of discussing terms, and 'nawo' (agree), which does not imply concession.",
   "pillars": {
     "solarpunk-values": "Communities building shared futures need language for settlements that preserve cooperation while still exposing unequal costs and unresolved needs.",
     "peace-linguistics-practices": "Compromise is available as one outcome of dialogue without being treated as morally required, inherently fair, or preferable to a clear refusal.",
