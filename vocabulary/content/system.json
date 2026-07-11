@@ -1,11 +1,10 @@
 {
-  "word": "terulora",
+  "word": "terura",
   "gloss": "system",
-  "ipa": "/t̪e̞.ru.ˈlo̞.rä/",
+  "ipa": "/t̪e̞.ˈru.rä/",
   "syllables": [
     "te",
     "ru",
-    "lo",
     "ra"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "System / Bounded Whole of Interacting Components",
   "description": "An organized whole selected for analysis in which components and their relations produce, maintain, or constrain behavior over time. A system has a stated or assumed boundary, but the boundary and scale may be chosen differently for different questions. The word does not mean any collection, network, device, institution, or harmonious whole, and naming a system does not explain how it works.",
-  "sound_symbolism": "The opening 'teru' recalls a process unfolding through ordered steps. Flowing 'lo' connects those steps, and grounded 'ra' closes a boundary around the selected whole without suggesting that the boundary is natural or permanent.",
-  "grammatical_notes": "A countable noun: 'ha terulora lo monakeli lorea.' (This system connects the components.) Use 'terulora norui' for a system boundary and 'monakeli terulora' for a component that is itself analyzed as a system. Distinct from 'phaliso' (network), 'keli' (device), 'teru' (process), and 'whoa' (whole).",
+  "sound_symbolism": "The complete opening 'teru' recalls a process unfolding through ordered steps. Grounded 'ra' closes a boundary around the selected whole without suggesting that the boundary is natural, permanent, or the only scale at which the parts can be analyzed.",
+  "grammatical_notes": "A countable noun: 'ha terura lo monaki lorea.' (This system connects the components.) Use 'terura norui' for a system boundary and 'monaki terura' for a component that is itself analyzed as a system. Distinct from 'phaliso' (network), 'keli' (device), 'teru' (process), and 'whoa' (whole).",
   "pillars": {
     "solarpunk-values": "Systems vocabulary helps communities trace material, energy, and information relations while keeping boundaries, purposes, and consequences open to examination.",
     "art-nouveau-aesthetics": "The concept treats a whole through the living relations among its parts rather than as an inert sum of isolated pieces."

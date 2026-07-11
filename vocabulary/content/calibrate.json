@@ -1,11 +1,10 @@
 {
-  "word": "masukiro",
+  "word": "masuro",
   "gloss": "calibrate",
-  "ipa": "/mä.su.ˈki.ro̞/",
+  "ipa": "/mä.ˈsu.ro̞/",
   "syllables": [
     "ma",
     "su",
-    "ki",
     "ro"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Calibrate / Compare and Relate an Instrument to a Reference",
   "description": "To compare a measuring or signaling device with a stated reference and establish, check, or adjust the relation between its indication and the reference under stated conditions. The event-noun rule supplies calibration. Calibration does not certify every measurement, remove uncertainty, establish traceability without a source chain, or prove that the reference, method, or device suits the intended decision.",
-  "sound_symbolism": "Measured 'masu' recalls laying one thing alongside another, while precise 'kiro' brings the comparison into a clear relation. The balanced halves suit a practice that always requires both instrument and reference.",
-  "grammatical_notes": "A transitive verb: 'mia ha keli masukiro.' (I calibrate this device.) Name the reference, conditions, date, and exact result separately where required. The event-noun rule supplies calibration. Distinct from 'masue' (measure), 'theali' (fitting), 'telua' (accurate), and 'nilakiro' (inspect).",
+  "sound_symbolism": "The measured opening 'masu' recalls laying a device's indication alongside a stated reference. Final 'ro' resolves that comparison into an enduring relation that can be checked again. The movement from comparison to stable relation suits calibration without implying perfect accuracy.",
+  "grammatical_notes": "A transitive verb: 'mia ha keli masuro.' (I calibrate this device.) Name the reference, conditions, date, and exact result separately where required. The event-noun rule supplies calibration. Distinct from 'masue' (measure), 'theali' (fitting), 'telua' (accurate), and 'nilaki' (inspect).",
   "pillars": {
     "secular-buddhist-philosophy": "Calibration treats measurement as a maintained relation with conditions and uncertainty rather than an unconditioned revelation of fact.",
     "pre-industrial-wisdom": "Reliable craft has long depended on checking tools against known references and recording when that relation changes."

@@ -17,7 +17,7 @@ The module does not replace Phi's existing language of land, water, weather even
 | Care and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
 | Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneho` tradeoff |
 
-The Systems and Shared Infrastructure module supplies useful shared terms such as `terulora` system, `nomirela` state, `phelorani` dependency, `koemari` input, `thirulo` output, `selokaru` transfer, `turekali` feedback, `henoraki` capacity, `pelomaru` hazard, and `kirosholu` specification. These technical relations remain available without becoming ecological conclusions by themselves.
+The Systems and Shared Infrastructure module supplies useful shared terms such as `terura` system, `mirela` state, `pherami` dependency, `koewi` input, `thirulo` output, `sekaru` transfer, `turelo` feedback, `henora` capacity, `pemaru` hazard, and `kisholu` specification. These technical relations remain available without becoming ecological conclusions by themselves.
 
 ## Module vocabulary
 
@@ -281,7 +281,7 @@ mia ha phialu phisumari masue.
 `mothanomi` is a chosen reference for comparison. A baseline may be historical, modeled, reconstructed, or administratively selected. It is not necessarily the earliest, healthiest, fairest, or most natural state.
 
 ```
-ha nomirela ha mothanomi senao ma nai.
+ha mirela ha mothanomi senao ma nai.
 PROX state PROX baseline same NEG be.
 (This state is not the same as this baseline.)
 ```
@@ -331,11 +331,11 @@ Some ecological expressions remain clearer as combinations because their parts e
 | `pelosenu mueralo` | pollutant; polluting material | Requires an actual pollution relation rather than contamination alone. |
 | `shaemu mueralo` | organic matter | Reuses existing organic vocabulary while exact fractions remain in source material outside the Phi passage. |
 | `thepalu moralume mueralo` | compost; garden decomposing material | Keeps management, condition, and maturity distinct from decomposition generally. |
-| `turema koemari` | reused material; returned input | Separates direct reuse from recycling through processing. |
+| `turema koewi` | reused material; returned input | Separates direct reuse from recycling through processing. |
 | `nuola phaliso` | food web; eating network | Keeps organisms and feeding directions available for explanation. |
-| `limatero henoraki` or `menulora henoraki` | ecological carrying capacity | Requires the population, function, time, and conditions to be stated. |
-| `nomirela siru` | indicator; state marker | Separates a marker from the condition inferred through it. |
-| `wireo nomirela kethira` | forecast; infer a future state | Makes prediction an evidence-bounded inference rather than a guaranteed future. |
+| `limatero henora` or `menulora henora` | ecological carrying capacity | Requires the population, function, time, and conditions to be stated. |
+| `mirela siru` | indicator; state marker | Separates a marker from the condition inferred through it. |
+| `wireo mirela kethira` | forecast; infer a future state | Makes prediction an evidence-bounded inference rather than a guaranteed future. |
 | `somethiru mosha` | monitoring interval | Names both the practice and its period. |
 
 ## Source ecological information

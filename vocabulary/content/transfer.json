@@ -1,10 +1,9 @@
 {
-  "word": "selokaru",
+  "word": "sekaru",
   "gloss": "transfer",
-  "ipa": "/se̞.lo̞.ˈkä.ru/",
+  "ipa": "/se̞.ˈkä.ru/",
   "syllables": [
     "se",
-    "lo",
     "ka",
     "ru"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Transfer / Move Matter, Energy, or Information Between Systems",
   "description": "To move matter, energy, information, or responsibility for a technical item from a stated source to a stated recipient, component, place, or system. Transfer identifies a source-to-recipient relation and may occur through flow, carrying, signaling, or another process. It does not establish conservation, successful receipt, ownership, consent, or an uninterrupted pathway.",
-  "sound_symbolism": "Flowing 'selo' begins with motion, 'ka' marks directed effect, and rolling 'ru' carries the transferred thing onward. The word feels continuous while retaining a clear source-to-recipient structure.",
-  "grammatical_notes": "A transitive verb with the transferred item as object; a goal phrase precedes it: 'ha monakeli wea ra monakeli phialu selokaru.' (This component transfers water to that component.) The event-noun rule supplies transfer. Distinct from 'selu' (flow), 'kolua' (carry), 'sepho' (send), and 'wisola' (exchange).",
+  "sound_symbolism": "Flowing 'se' begins with motion, 'ka' marks a directed crossing from source toward recipient, and rolling 'ru' carries the transferred thing onward. The word feels continuous while retaining a clear source-to-recipient structure.",
+  "grammatical_notes": "A transitive verb with the transferred item as object; a goal phrase precedes it: 'ha monaki wea ra monaki phialu sekaru.' (This component transfers water to that component.) The event-noun rule supplies transfer. Distinct from 'selu' (flow), 'kolua' (carry), 'sepho' (send), and 'wisola' (exchange).",
   "pillars": {
     "solarpunk-values": "Tracing transfers reveals where shared materials, energy, information, and burdens actually move through infrastructure.",
     "pre-industrial-wisdom": "Practical systems are understood by following substances and work from source through handoff to recipient."

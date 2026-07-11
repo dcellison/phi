@@ -1,11 +1,10 @@
 {
-  "word": "poruseli",
+  "word": "poruli",
   "gloss": "efficient",
-  "ipa": "/po̞.ru.ˈse̞.li/",
+  "ipa": "/po̞.ˈru.li/",
   "syllables": [
     "po",
     "ru",
-    "se",
     "li"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Efficient / High Useful Output Relative to Selected Input",
   "description": "Of a process or system, producing a high proportion of a selected useful output relative to a selected input, resource, loss, or cost under stated conditions and within a stated boundary. By the quality-noun rule the word also names efficiency. Efficiency does not mean fast, productive, inexpensive, sustainable, fair, safe, sufficient, or good; changing what counts as useful or where the boundary is drawn may change the assessment.",
-  "sound_symbolism": "The productive opening 'poru' moves into flowing 'seli', suggesting results carried from resources without the hard finality of perfection. Four syllables leave room for both sides of the comparison.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'poruseli terulora' (an efficient system); 'ha terulora poruseli nai.' (This system is efficient.) The quality-noun rule supplies efficiency. State the selected input, useful output, boundary, and conditions when the claim could mislead. Distinct from 'poru' (productive), 'thenoki' (sustain), and 'welao' (good).",
+  "sound_symbolism": "The complete productive opening 'poru' places useful output first, while final 'li' carries that result lightly onward from the resources used. The bright close suggests a favorable relation without the hard finality of perfection or goodness in every other sense.",
+  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'poruli terura' (an efficient system); 'ha terura poruli nai.' (This system is efficient.) The quality-noun rule supplies efficiency. State the selected input, useful output, boundary, and conditions when the claim could mislead. Distinct from 'poru' (productive), 'thenoki' (sustain), and 'welao' (good).",
   "pillars": {
     "solarpunk-values": "Efficiency can reduce resource use, but the word explicitly keeps system boundaries, excluded harms, and chosen benefits available for ethical examination.",
     "secular-buddhist-philosophy": "The definition resists attachment to a favorable metric by asking what was counted, what was omitted, and under which conditions."

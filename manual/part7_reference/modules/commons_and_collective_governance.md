@@ -112,7 +112,7 @@ PROX institution authority hold.
 `kanuloa` records a grant of permission or decision power. The source, recipient, action, scope, duration, conditions, revocation, competence, and affected-person consent should not be inferred from the verb alone.
 
 ```
-ha punoraki wei ha wemakori ha terulora nilakiro kanuloa.
+ha punoraki wei ha wemakori ha terura nilaki kanuloa.
 PROX institution DAT PROX member PROX system inspect authorize.
 (The institution authorizes the member to inspect the system.)
 ```

@@ -1,11 +1,10 @@
 {
-  "word": "kolutheri",
+  "word": "koluri",
   "gloss": "reliable",
-  "ipa": "/ko̞.lu.ˈθe̞.ri/",
+  "ipa": "/ko̞.ˈlu.ri/",
   "syllables": [
     "ko",
     "lu",
-    "the",
     "ri"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Reliable / Consistently Performing a Required Function",
   "description": "Of a component or system, consistently performing a stated required function for a stated duration and under stated conditions at the claimed level of likelihood or evidence. By the quality-noun rule the word names technical reliability. Reliability does not mean certainty, safety, accuracy, durability, redundancy, trustworthiness of a person, or successful performance outside the tested conditions.",
-  "sound_symbolism": "Steady 'kolu' carries even performance through time, while deliberate 'theri' brings the claim to a precise but revisable assessment. The long form resists turning repeated success into an absolute promise.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'kolutheri monakeli' (a reliable component); 'ha terulora kolutheri nai.' (This system is reliable.) The quality-noun rule supplies reliability. State function, duration, conditions, evidence, and uncertainty where relevant. Distinct from 'kolu' (steady), 'mureo' (stable), 'telua' (accurate), and 'theomi' (trust).",
+  "sound_symbolism": "The complete steady form 'kolu' carries even performance through time, while final 'ri' closes on a traceable and revisable assessment. The word sounds sustained without turning repeated success into certainty or an absolute promise.",
+  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'koluri monaki' (a reliable component); 'ha terura koluri nai.' (This system is reliable.) The quality-noun rule supplies reliability. State function, duration, conditions, evidence, and uncertainty where relevant. Distinct from 'kolu' (steady), 'mureo' (stable), 'telua' (accurate), and 'theomi' (trust).",
   "pillars": {
     "solarpunk-values": "Reliable shared infrastructure depends on maintained evidence about actual function, not faith in a favored technology or institution.",
     "peace-linguistics-practices": "The technical term avoids treating a machine's repeatable performance and a person's relational trustworthiness as the same judgment."

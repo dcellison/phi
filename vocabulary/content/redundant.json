@@ -1,10 +1,9 @@
 {
-  "word": "wesopanu",
+  "word": "wepanu",
   "gloss": "redundant",
-  "ipa": "/we̞.so̞.ˈpä.n̪u/",
+  "ipa": "/we̞.ˈpä.n̪u/",
   "syllables": [
     "we",
-    "so",
     "pa",
     "nu"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Redundant / Having Independent Alternative Means for a Function",
   "description": "Of a technical arrangement, having two or more sufficiently independent components, paths, stores, or methods intended to preserve a stated function when one is unavailable or fails. By the quality-noun rule the word names protective redundancy. Redundancy does not mean needless repetition, identical duplication, guaranteed reliability, spare capacity, diversity, or resilience under every shared cause.",
-  "sound_symbolism": "Relational 'weso' opens toward more than one path, while 'panu' layers support beneath a shared function. The syllables remain distinct, reflecting alternatives that should not collapse into one point of failure.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'wesopanu terulora' (a redundant system); 'ha terulora wesopanu nai.' (This system is redundant.) The quality-noun rule supplies redundancy. State the preserved function and independence assumptions. Distinct from 'phowe' (share), 'thuroi' (resilient), and unnecessary duplication.",
+  "sound_symbolism": "Relational 'we' opens toward more than one path, while 'pa.nu' layers support beneath a shared function. The three syllables remain distinct, reflecting alternatives that should stay sufficiently independent rather than collapse into one point of failure.",
+  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'wepanu terura' (a redundant system); 'ha terura wepanu nai.' (This system is redundant.) The quality-noun rule supplies redundancy. State the preserved function and independence assumptions. Distinct from 'phowe' (share), 'thuroi' (resilient), and unnecessary duplication.",
   "pillars": {
     "solarpunk-values": "Independent alternatives can preserve essential shared functions through repair, scarcity, and changing conditions without promising invulnerability.",
     "pre-industrial-wisdom": "Communities often maintain several routes, tools, stores, or skills so one loss does not erase a necessary practice."
