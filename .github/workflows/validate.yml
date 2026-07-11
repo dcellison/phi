@@ -29,4 +29,4 @@ jobs:
       - name: Check generated reference is in sync with vocabulary
         run: |
           python3 scripts/generate_reference.py
-          git diff --exit-code manual/part7_reference/lexicon
+          git diff --exit-code manual/part7_reference/lexicon manual/part7_reference/compounds.md

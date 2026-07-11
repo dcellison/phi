@@ -1,16 +1,16 @@
-# Phi Compound Registry
+<!-- GENERATED FILE — do not edit.
+     Source of truth: documents/compounds.md
+     Regenerate with: python3 scripts/generate_reference.py -->
 
-Canonized compound idioms: multi-word expressions whose meaning is a
-stable part of the language, not one-off improvisations. Each entry
-here is a deliberate design decision — the compound was judged *better*
-than a coined word because the composition itself carries the insight
-(see the criterion in `pamphlets/metta_sutta.md`, "What the corpus test
-showed").
 
-New compounds should be added here when a text or lesson establishes
-them; words inside a compound must all exist in the lexicon.
+# The Compound Registry
 
-This registry is machine-checked and machine-published: `python3 scripts/validate_examples.py` verifies every member word against the lexicon, and after any edit here `python3 scripts/generate_reference.py` regenerates the Part VII compound reference while `python3 scripts/build_explorer.py` refreshes the explorer's compound data.
+*44 canonized compounds.*
+
+Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not one-off improvisations. Each stays compositional because the composition itself carries the insight a coined label would hide.
+
+Reach for these before composing fresh, and before proposing a new word: registry first, then free composition, then, deliberately and by the protocol, a coinage. Every word inside a compound is an ordinary lexicon word; the explorer shows each compound on its member words' entries.
+
 
 ## Emotional and mental states
 
@@ -95,9 +95,3 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 | `halemu womu` | remembering-house | museum | The institution named by what it does: a house where a community keeps its remembering. Canonized from News from Nowhere. |
 | `whelina sholei` | grass-gathering | hay-harvest, haymaking | The event noun of `sholei` (gather) over the standing grass; the year's communal work named as the act itself. Canonized from News from Nowhere. |
 | `lona lokue` | meeting-place | hall | A building's great room named by what happens in it: the guest-house receives, feeds, and bids farewell in its `lona lokue`. Canonized from News from Nowhere. |
-
----
-
-**Related:** word-creation rules in `documents/development_protocol.md`; the compositional
-principle in `documents/language_guide.md` §2.5; the coin-vs-compose
-criterion in `pamphlets/metta_sutta.md`.

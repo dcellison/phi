@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Generate the Part VII lexicon reference from the vocabulary JSON.
+Generate the Part VII lexicon reference from the vocabulary JSON,
+and the Part VII compound reference from the compound registry.
 
 Writes four markdown files under manual/part7_reference/lexicon/:
   - alphabetical.md   every word, A-Z: word, gloss, IPA, part of speech
@@ -10,9 +11,12 @@ Writes four markdown files under manual/part7_reference/lexicon/:
   - by_module.md      optional module vocabulary grouped by module
   - by_pos.md         all words grouped by part of speech / function class
 
-The vocabulary JSON remains the single source of truth; these files are
-GENERATED artifacts. Never edit them by hand — rerun this script after
-any vocabulary change:
+and one under manual/part7_reference/:
+  - compounds.md      every canonized compound idiom, from documents/compounds.md
+
+The vocabulary JSON and the compound registry remain the single sources
+of truth; these files are GENERATED artifacts. Never edit them by hand —
+rerun this script after any vocabulary or registry change:
 
     python3 scripts/generate_reference.py
 """
@@ -21,12 +25,21 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
+from compound_registry import load_compounds
+
 PROJECT_ROOT = Path(__file__).parent.parent
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 OUT_DIR = PROJECT_ROOT / "manual" / "part7_reference" / "lexicon"
+COMPOUNDS_OUT = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
 HEADER = """<!-- GENERATED FILE — do not edit.
      Source of truth: vocabulary/*.json
+     Regenerate with: python3 scripts/generate_reference.py -->
+
+"""
+
+COMPOUNDS_HEADER = """<!-- GENERATED FILE — do not edit.
+     Source of truth: documents/compounds.md
      Regenerate with: python3 scripts/generate_reference.py -->
 
 """
@@ -142,6 +155,22 @@ def by_pos(entries):
     return "\n".join(lines) + "\n"
 
 
+def compounds_reference(compounds):
+    lines = [COMPOUNDS_HEADER, "# The Compound Registry\n"]
+    lines.append(f"*{len(compounds)} canonized compounds.*\n")
+    lines.append("Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not one-off improvisations. Each stays compositional because the composition itself carries the insight a coined label would hide.\n")
+    lines.append("Reach for these before composing fresh, and before proposing a new word: registry first, then free composition, then, deliberately and by the protocol, a coinage. Every word inside a compound is an ordinary lexicon word; the explorer shows each compound on its member words' entries.\n")
+    section = None
+    for c in compounds:
+        if c["section"] != section:
+            section = c["section"]
+            lines.append(f"\n## {section}\n")
+            lines.append("| Compound | Literal | Meaning | Why compositional |")
+            lines.append("|---|---|---|---|")
+        lines.append(f"| `{c['compound']}` | {c['literal']} | {c['meaning']} | {c['why']} |")
+    return "\n".join(lines) + "\n"
+
+
 def main():
     entries = load_entries()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -149,7 +178,10 @@ def main():
     (OUT_DIR / "by_domain.md").write_text(by_domain(entries), encoding="utf-8")
     (OUT_DIR / "by_module.md").write_text(by_module(entries), encoding="utf-8")
     (OUT_DIR / "by_pos.md").write_text(by_pos(entries), encoding="utf-8")
+    compounds = load_compounds()
+    COMPOUNDS_OUT.write_text(compounds_reference(compounds), encoding="utf-8")
     print(f"Generated 4 reference files from {len(entries)} entries into {OUT_DIR}")
+    print(f"Generated {COMPOUNDS_OUT.relative_to(PROJECT_ROOT)} from {len(compounds)} registry rows")
 
 
 if __name__ == "__main__":
