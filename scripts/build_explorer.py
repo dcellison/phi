@@ -135,13 +135,42 @@ landing = f"""<!doctype html>
 </main>
 <footer>
   <p>The lexicon is the single source of truth &mdash; this site is a view over
-     <a href="https://github.com/dcellison/phi">the repository</a>. This page is kia.md, rendered.</p>
+     <a href="https://github.com/dcellison/phi">the repository</a>. This page is kia.md, rendered.
+     The <a href="colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
 </html>
 """
 (ROOT / "web" / "index.html").write_text(landing)
 print(f"wrote web/index.html from kia.md ({len(body.splitlines())} blocks)")
+
+# ---- colophon: colophon.md rendered to web/colophon.html ----
+
+colophon_body = md_to_html((ROOT / "colophon.md").read_text())
+colophon_page = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="How Phi is made: the designer, the instrument, and the rules between them.">
+<title>Phi — colophon</title>
+<script src="theme.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
+<main>
+{colophon_body}
+</main>
+<footer>
+  <p>Signed at the end, in the old way. This page is colophon.md, rendered from
+     <a href="https://github.com/dcellison/phi">the repository</a>.</p>
+</footer>
+</body>
+</html>
+"""
+(ROOT / "web" / "colophon.html").write_text(colophon_page)
+print("wrote web/colophon.html from colophon.md")
 
 # ---- primer reader: primer/*.md rendered to web/primer/ ----
 
@@ -217,7 +246,8 @@ def primer_page(body, title, footer_nav=""):
 </main>
 <footer>
   <p>The primer is written in the repository and rendered here at build time &mdash;
-     <a href="https://github.com/dcellison/phi/tree/main/primer">the source</a> is the book.</p>
+     <a href="https://github.com/dcellison/phi/tree/main/primer">the source</a> is the book.
+     The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
 </html>
@@ -287,7 +317,8 @@ def manual_page(body, title, footer_nav=""):
 </main>
 <footer>
   <p>The manual is written in the repository and rendered here at build time &mdash;
-     <a href="https://github.com/dcellison/phi/tree/main/manual">the source</a> is the reference.</p>
+     <a href="https://github.com/dcellison/phi/tree/main/manual">the source</a> is the reference.
+     The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
 </html>
@@ -316,8 +347,14 @@ app = MANUAL_SRC / "appendices"
 if app.is_dir():
     for f in sorted(app.glob("*.md")):
         sections.append(("Appendices", None, f))
+# back matter: the colophon signs the book, rendered from the root file
+colo = ROOT / "colophon.md"
+if colo.exists():
+    sections.append(("Colophon", None, colo))
 
 def slug(path):
+    if MANUAL_SRC not in path.parents:
+        return path.stem + ".html"
     rel = path.relative_to(MANUAL_SRC)
     return str(rel.with_suffix("")).replace("/", "__") + ".html"
 
@@ -398,7 +435,8 @@ def texts_page(body, title):
 </main>
 <footer>
   <p>Transmutations, not translations: each text is rebuilt from Phi's own
-     concepts. Written in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, rendered at build time.</p>
+     concepts. Written in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, rendered at build time.
+     The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
 </html>
@@ -457,7 +495,8 @@ def pamphlet_page(body, title, footer_nav=""):
 </main>
 <footer>
   <p>The pamphlets are deep-dive companions to the manual &mdash; where they disagree,
-     the manual wins. Written in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, rendered at build time.</p>
+     the manual wins. Written in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, rendered at build time.
+     The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
 </html>

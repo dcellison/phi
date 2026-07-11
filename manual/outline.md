@@ -231,3 +231,9 @@
 - Appendix A: Glossary of Linguistic Terms
 - Appendix B: Comparison with Natural Languages
 - Appendix C: Resources for Further Study
+
+---
+
+## Colophon
+
+- How Phi is made: the maker's signature, rendered into the manual as back matter from the repository's root colophon.md.

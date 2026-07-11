@@ -25,6 +25,7 @@ Four shelves, four jobs: `documents/` is what the language **is** (the specifica
 | [documents/modules/](documents/modules/) | Experimental practice and domain profiles that organize shared core vocabulary and record gaps without creating separate grammars or lexicons. |
 | [pamphlets/](pamphlets/) | The sources for the texts shelf (eight transmutations, the Metta Sutta through *The Velveteen Rabbit*, plus the Ring Verse refusal) and the two study pamphlets. |
 | [canon.md](canon.md) | The authority order when documents disagree, and every settled design decision. |
+| [colophon.md](colophon.md) | How Phi is made: the designer, the instrument, and the rules between them. Signed at the end, in the old way. |
 | [web/](web/) | The lexicon explorer — a static, searchable view over the vocabulary. Build and serve locally with `python3 scripts/build_explorer.py && python3 -m http.server -d web`. |
 
 ## Working on the repository
