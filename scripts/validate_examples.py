@@ -67,7 +67,7 @@ FOUR_SYLLABLE_MIGRATION_FILE = (
 )
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 
-DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md"]
+DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
 
 CONSONANTS = set("hklmnprstw")
 DIGRAPHS = ("ph", "th", "sh", "wh")
