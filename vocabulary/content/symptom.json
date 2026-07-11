@@ -1,0 +1,29 @@
+{
+  "word": "phamori",
+  "gloss": "symptom",
+  "ipa": "/ɸä.ˈmo̞.ri/",
+  "syllables": [
+    "pha",
+    "mo",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Symptom / Bodily or Mental Experience Reported by a Person",
+  "description": "A bodily or mental experience noticed by a person and relevant to health, care, or a change from their expected condition. A symptom may include pain, nausea, fatigue, altered sensation, or another self-reported experience, and the person's wording remains primary. A symptom is not a clinical finding, diagnosis, disease, proof of cause, measure of severity, request for intervention, or judgment about the person's reliability.",
+  "sound_symbolism": "Breathy 'pha' opens from felt experience, 'mo' locates it in the lived body, and final 'ri' carries the report into care and inquiry. The form begins within the person rather than with an observer's instrument.",
+  "grammatical_notes": "A countable noun: 'mia ha phamori thelima.' (I describe this symptom.) Preserve the person's own report and state location, onset, duration, change, and context where relevant. Distinct from 'phaelo' (feel), 'kipona' (pain), 'mokela' (sick), 'hisaro' (clinical finding), and 'kithero' (diagnose).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Attending carefully to present bodily experience can support honest observation without turning the experience into an identity or predetermined explanation.",
+    "peace-linguistics-practices": "Separating a person's symptom report from an observer's finding protects testimony from being overwritten by measurement or authority."
+  },
+  "tags": {
+    "cognition": "a noticed and reported health-relevant experience",
+    "dialogue": "the person's own account of bodily or mental experience",
+    "physical": "a health-relevant experience located in or through the body"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

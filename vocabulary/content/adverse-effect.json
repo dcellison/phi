@@ -1,0 +1,27 @@
+{
+  "word": "whekaro",
+  "gloss": "adverse effect",
+  "ipa": "/ʍe̞.ˈkä.ro̞/",
+  "syllables": [
+    "whe",
+    "ka",
+    "ro"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Adverse Effect / Harmful or Burdensome Effect Associated With an Intervention",
+  "description": "A harmful, dangerous, or materially burdensome bodily or health effect associated or suspected to be associated with an intervention, substance, device, or exposure. The source, timing, evidence, severity, and causal confidence remain explicit. An adverse effect is not every side effect, allergy, treatment failure, symptom of the underlying condition, negligence, proof of causation, or automatic instruction to stop an intervention.",
+  "sound_symbolism": "Disruptive 'whe' opens into impact-bearing 'ka', and final 'ro' leaves the causal account open for investigation. The form marks harm without pretending that timing proves cause.",
+  "grammatical_notes": "A countable noun: 'mia ha whekaro thelima.' (I describe this adverse effect.) State the person's report, intervention or exposure, time, evidence, severity, alternatives, and response where relevant. Distinct from 'porewi' (side effect), 'whemaki' (allergy), 'peloma' (harmful), 'phamori' (symptom), and 'kanelu' (err).",
+  "pillars": {
+    "peace-linguistics-practices": "Directly naming an adverse effect supports testimony and accountability while keeping harm, causation, error, and remedy as separate claims."
+  },
+  "tags": {
+    "cognition": "a harm attribution with stated evidence and uncertainty",
+    "physical": "a harmful or burdensome bodily effect"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

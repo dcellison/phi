@@ -1,0 +1,25 @@
+{
+  "word": "lesawi",
+  "gloss": "consent",
+  "ipa": "/le̞.ˈsä.wi/",
+  "syllables": [
+    "le",
+    "sa",
+    "wi"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Consent / Freely and Specifically Agree to an Affecting Action",
+  "description": "To freely and specifically agree to a proposed action, participation, contact, disclosure, or use that affects oneself or a relation one may decide. Consent has a stated scope and may be conditional, withheld, or withdrawn. Naming consent does not prove adequate explanation, understanding, practical freedom, capacity under an applicable standard, absence of coercion, legal validity, continued agreement, or permission for any action outside the stated scope.",
+  "sound_symbolism": "Opening 'le' gives the decision a clear outward edge, 'sa' settles on a specific proposal, and final 'wi' keeps the person's agency moving beyond the present answer. The form is deliberate without sounding like permanent surrender.",
+  "grammatical_notes": "A transitive or complement-taking verb: 'mia ha phoa lesawi.' (I consent to this action.) State the action, participants, scope, conditions, relevant explanation, and withdrawal when they matter. The event-noun rule supplies consent as an act or relation. Distinct from 'nawo' (agree), 'kelomi' (accept), 'naweri' (refuse), 'kanuwa' (authorize), and 'kawhera' (coerce). This is shared-core vocabulary because consent is not optional medical knowledge.",
+  "pillars": {
+    "peace-linguistics-practices": "A dedicated consent verb makes a bounded yes discussable without treating agreement, silence, dependence, authority, or lack of resistance as permission."
+  },
+  "tags": {
+    "cognition": "a specific decision whose understanding and conditions remain examinable",
+    "community": "a permission relation among affected participants",
+    "dialogue": "a freely given, withheld, or withdrawn answer to a proposal"
+  }
+}

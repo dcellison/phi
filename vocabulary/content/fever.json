@@ -1,0 +1,27 @@
+{
+  "word": "suloru",
+  "gloss": "fever",
+  "ipa": "/su.ˈlo̞.ru/",
+  "syllables": [
+    "su",
+    "lo",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Fever / Elevated Bodily Temperature State Under a Stated Reference",
+  "description": "An elevated bodily temperature state understood relative to a stated person, site, method, time, reference, or clinical threshold. A fever may be reported, measured, suspected, or changing. It is not warmth in general, environmental heat exposure, infection, danger, severity, diagnosis, or an instruction to use a particular intervention.",
+  "sound_symbolism": "Warmth-associated 'su' rises into open 'lo', while final 'ru' bounds the elevated state for observation. The form carries heat without making its cause or danger inherent.",
+  "grammatical_notes": "A countable or mass noun according to context: 'mia suloru phelu.' (I have a fever.) Preserve exact readings, units, sites, devices, and thresholds in source material. Distinct from 'sulae' (warm), 'siwe' (sweat), 'peshiro' (infection), 'pelaku' (severity), and 'pukea' (danger).",
+  "pillars": {
+    "peace-linguistics-practices": "A bounded fever term lets a person report a familiar bodily state without allowing one reading to become an automatic diagnosis or command."
+  },
+  "tags": {
+    "physical": "an elevated bodily temperature state",
+    "temporal": "a temperature state observed over a stated time"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

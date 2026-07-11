@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (181)
+## adjective (186)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -22,6 +22,7 @@
 | `kaelo` | sweet | Sweet |
 | `kaeshu` | bold | Bold |
 | `kasuno` | selfish | Selfish |
+| `katheo` | acute | Acute |
 | `keloa` | rough | Rough |
 | `kema` | strong | Strong |
 | `keru` | bright | Bright |
@@ -71,6 +72,7 @@
 | `mureo` | stable | Stable |
 | `muro` | stubborn | Stubborn |
 | `muroa` | fertile | Fertile |
+| `nathoku` | contraindicated | Contraindicated |
 | `nemo` | grateful | Grateful |
 | `neri` | cool | Cool |
 | `newai` | fresh | Fresh |
@@ -90,6 +92,7 @@
 | `nuko` | black | Black |
 | `nulo` | deep | Deep |
 | `nuloe` | content | Content |
+| `nurawi` | chronic | Chronic |
 | `nuwi` | clear | Clear |
 | `pekira` | toxic | Toxic |
 | `peloma` | harmful | Harmful |
@@ -132,6 +135,7 @@
 | `shiloa` | pure | Pure |
 | `shilu` | blue | Blue |
 | `sholu` | complete | Complete |
+| `shorenu` | immune | Immune |
 | `shoru` | dull | Dull |
 | `shorui` | weary | Weary |
 | `shurano` | safe | Safe |
@@ -175,6 +179,7 @@
 | `waora` | wondrous | Wondrous |
 | `weilo` | balanced | Balanced |
 | `welao` | good | Good |
+| `welathi` | contagious | Contagious |
 | `welua` | fragile | Fragile |
 | `wepanu` | redundant | Redundant |
 | `wero` | honest | Honest |
@@ -277,7 +282,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (457)
+## noun (471)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -292,6 +297,7 @@
 | `heru` | herb | Herb |
 | `hesura` | ash | Ash |
 | `hisae` | skin | Skin |
+| `hisaro` | clinical finding | Clinical Finding |
 | `hisophi` | contaminant | Contaminant |
 | `holia` | festival | Festival |
 | `holume` | loss | Loss |
@@ -307,6 +313,7 @@
 | `katemu` | offcut | Offcut |
 | `kathu` | seal | Seal |
 | `katiru` | knife | Knife |
+| `kaworu` | injury | Injury |
 | `keiro` | way | Way |
 | `keli` | device | Device |
 | `kelo` | frame | Frame |
@@ -420,6 +427,7 @@
 | `menua` | counselor | Counselor |
 | `menuro` | habitat | Habitat |
 | `mera` | net | Net |
+| `mikasu` | dose | Dose |
 | `milura` | milk | Milk |
 | `miona` | person | Person |
 | `mioru` | beauty | Beauty |
@@ -431,6 +439,7 @@
 | `moeli` | hearth | Hearth |
 | `moenu` | culture | Culture |
 | `moesu` | wax | Wax |
+| `mokanu` | disease | Disease |
 | `mokura` | belly | Belly |
 | `mola` | island | Island |
 | `molira` | hill | Hill |
@@ -505,6 +514,7 @@
 | `palowe` | shoe | Shoe |
 | `palu` | plate | Plate |
 | `panuri` | resource | Resource |
+| `pelaku` | severity | Severity |
 | `pelio` | arm | Arm |
 | `pelori` | bird | Bird |
 | `peloru` | flower | Flower |
@@ -512,10 +522,12 @@
 | `pelua` | paper | Paper |
 | `pemaru` | hazard | Hazard |
 | `perola` | rose | Rose |
+| `peshiro` | infection | Infection |
 | `phaeno` | week | Week |
 | `phaero` | transit | Transit |
 | `phaewi` | studio | Studio |
 | `phaliso` | network | Network |
+| `phamori` | symptom | Symptom |
 | `phanu` | canvas | Canvas |
 | `phao` | parent | Parent |
 | `pharea` | adult | Adult |
@@ -560,6 +572,7 @@
 | `pilomu` | sycamore | Sycamore |
 | `piru` | trader | Trader |
 | `ponu` | door | Door |
+| `porewi` | side effect | Side Effect |
 | `porua` | purpose | Purpose |
 | `powea` | egg | Egg |
 | `pukea` | danger | Danger |
@@ -638,6 +651,7 @@
 | `sulai` | musician | Musician |
 | `suliwa` | snake | Snake |
 | `sulopa` | soup | Soup |
+| `suloru` | fever | Fever |
 | `sunai` | health | Health |
 | `suro` | rope | Rope |
 | `takori` | load | Load |
@@ -667,6 +681,7 @@
 | `themore` | argument | Argument |
 | `thena` | thing | Thing |
 | `thepalu` | garden | Garden |
+| `thephaku` | inflammation | Inflammation |
 | `therema` | tradition | Tradition |
 | `thereo` | mediator | Mediator |
 | `theriko` | frost | Frost |
@@ -719,11 +734,14 @@
 | `wenu` | tonic | Tonic |
 | `weoli` | reed | Reed |
 | `weru` | poet | Poet |
+| `weshaku` | outbreak | Outbreak |
 | `wetha` | cloth | Cloth |
 | `wethalu` | garment | Garment |
 | `wheiru` | mist | Mist |
+| `whekaro` | adverse effect | Adverse Effect |
 | `whekelu` | magic | Magic |
 | `whelina` | grass | Grass |
+| `whemaki` | allergy | Allergy |
 | `whemori` | waste | Waste |
 | `wheo` | elder | Elder |
 | `whila` | hair | Hair |
@@ -732,6 +750,7 @@
 | `wira` | window | Window |
 | `wirae` | spring (season) | Spring (Season) |
 | `wiralu` | runoff | Runoff |
+| `wireki` | prognosis | Prognosis |
 | `wireo` | future | Future |
 | `wiru` | basket | Basket |
 | `wolea` | wood | Wood |
@@ -843,7 +862,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (299)
+## verb (311)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -853,6 +872,7 @@
 | `hea` | hear | Hear |
 | `hekawi` | find | Find |
 | `helaki` | amend | Amend |
+| `helanu` | recover | Recover |
 | `helolu` | redress | Redress |
 | `helui` | change | Change |
 | `heno` | satisfy | Satisfy |
@@ -885,6 +905,8 @@
 | `kire` | shape | Shape |
 | `kirothe` | define | Define |
 | `kisome` | assess | Assess |
+| `kithawu` | triage | Triage |
+| `kithero` | diagnose | Diagnose |
 | `kiwate` | bite | Bite |
 | `koema` | enter | Enter |
 | `kolua` | carry | Carry |
@@ -897,6 +919,7 @@
 | `lei` | harmony | Harmony |
 | `leiro` | release | Release |
 | `lepa` | fall | Fall |
+| `lesawi` | consent | Consent |
 | `lilea` | clarify | Clarify |
 | `liona` | live | Live |
 | `loa` | give | Give |
@@ -928,6 +951,7 @@
 | `molei` | evolve | Evolve |
 | `moluki` | transform | Transform |
 | `morae` | sense | Sense |
+| `morashi` | relapse | Relapse |
 | `moreko` | articulate | Articulate |
 | `morume` | decompose | Decompose |
 | `muholi` | dig | Dig |
@@ -943,6 +967,7 @@
 | `nawo` | agree | Agree |
 | `nelore` | preserve | Preserve |
 | `nelu` | revere | Revere |
+| `nephoru` | treat | Treat |
 | `nila` | see | See |
 | `nilaki` | inspect | Inspect |
 | `nohero` | believe | Believe |
@@ -1027,6 +1052,7 @@
 | `sephori` | supply | Supply |
 | `seru` | commit | Commit |
 | `sethoni` | handoff | Handoff |
+| `sewaro` | transmit | Transmit |
 | `shalori` | represent | Represent |
 | `shane` | tell | Tell |
 | `shanewi` | notify | Notify |
@@ -1049,6 +1075,7 @@
 | `shorema` | contribute | Contribute |
 | `shorupo` | protect | Protect |
 | `shua` | come | Come |
+| `shuneki` | vaccinate | Vaccinate |
 | `sikanu` | certify | Certify |
 | `sirami` | record | Record |
 | `soki` | settle | Settle |
@@ -1058,7 +1085,9 @@
 | `somela` | observe | Observe |
 | `someru` | supervise | Supervise |
 | `somethi` | monitor | Monitor |
+| `sonari` | isolate | Isolate |
 | `sone` | value | Value |
+| `soranu` | screen | Screen |
 | `sorila` | cultivate | Cultivate |
 | `sunoe` | regenerate | Regenerate |
 | `talome` | restore | Restore |
@@ -1066,10 +1095,12 @@
 | `tawi` | count | Count |
 | `temoe` | tend | Tend |
 | `teru` | process | Process |
+| `teshori` | quarantine | Quarantine |
 | `thalo` | walk | Walk |
 | `thape` | burn | Burn |
 | `theala` | heal | Heal |
 | `theama` | care | Care |
+| `thekamu` | intervene | Intervene |
 | `thekao` | acknowledge | Acknowledge |
 | `thekiro` | write | Write |
 | `theko` | craft | Craft |

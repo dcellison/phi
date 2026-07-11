@@ -1,0 +1,27 @@
+{
+  "word": "welathi",
+  "gloss": "contagious",
+  "ipa": "/we̞.ˈlä.θi/",
+  "syllables": [
+    "we",
+    "la",
+    "thi"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Contagious / Capable of Transmission Between Hosts Under Stated Conditions",
+  "description": "Capable of transmission between hosts through one or more stated pathways under stated biological and environmental conditions. Contagiousness may vary by stage, intervention, behavior, setting, and agent. The word does not mean that every contact transmits, that a person is infected, visibly sick, blameworthy, or dangerous in every context, or that isolation and coercion are justified.",
+  "sound_symbolism": "Relational 'we' opens toward another host, 'la' traces the pathway, and final 'thi' locates capability in conditions and time. The form names connection without turning the person into the hazard.",
+  "grammatical_notes": "An adjective: 'ha mokanu welathi nai.' (This disease is contagious.) State the agent, pathway, stage, conditions, evidence, and uncertainty where relevant. The quality-noun rule supplies contagiousness. Distinct from 'sewaro' (transmit), 'peshiro' (infection), 'perawi' (expose), 'pekira' (toxic), and 'pukea' (danger).",
+  "pillars": {
+    "peace-linguistics-practices": "Separating transmission capability from personal identity, blame, and authority supports protection without stigma or automatic exclusion."
+  },
+  "tags": {
+    "nature": "a biological capacity for transmission between hosts",
+    "physical": "transmission capability under stated bodily and environmental conditions"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

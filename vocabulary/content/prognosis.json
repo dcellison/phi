@@ -1,0 +1,28 @@
+{
+  "word": "wireki",
+  "gloss": "prognosis",
+  "ipa": "/wi.ˈre̞.ki/",
+  "syllables": [
+    "wi",
+    "re",
+    "ki"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Prognosis / Conditional Claim About an Expected Health Course",
+  "description": "A conditional, evidence-based claim about the expected course, duration, recurrence, function, survival, recovery, or other outcome of a health condition under stated assumptions and available care. A prognosis may be qualitative, probabilistic, uncertain, or revised. It is not destiny, diagnosis, promise, exact probability, value judgment about a life, instruction, or proof that group evidence determines one person's outcome.",
+  "sound_symbolism": "Future-facing 'wi' opens toward possible courses, 're' branches among outcomes, and final 'ki' returns each claim to its evidence and conditions. The form looks ahead without closing possibility.",
+  "grammatical_notes": "A countable or mass noun according to context: 'shia ha wireki lilea.' (They clarify the prognosis.) State the condition, time horizon, evidence, assumptions, alternatives, and uncertainty where relevant. Distinct from 'kithero' (diagnose), 'kethira' (infer), 'remuma' (conclusion), 'reteru' (model), and a guaranteed future.",
+  "pillars": {
+    "secular-buddhist-philosophy": "A prognosis describes conditioned possibilities rather than a fixed self or certain future, leaving room for change without denying present evidence.",
+    "peace-linguistics-practices": "Explicit uncertainty and assumptions prevent population estimates or professional authority from becoming destiny for one person."
+  },
+  "tags": {
+    "cognition": "a conditional inference about a health course",
+    "temporal": "an expected course or outcome over time"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

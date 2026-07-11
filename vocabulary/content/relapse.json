@@ -1,0 +1,28 @@
+{
+  "word": "morashi",
+  "gloss": "relapse",
+  "ipa": "/mo̞.ˈrä.ʃi/",
+  "syllables": [
+    "mo",
+    "ra",
+    "shi"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Relapse / Return or Worsening After Improvement in the Same Course",
+  "description": "For a symptom, disease, condition, or impaired function to return or worsen after a period of improvement, response, or remission within what is understood as the same course. The relation and prior improvement should be stated. Relapse is not moral failure, lack of effort, treatment failure by definition, a new condition, every recurrence, proof of cause, or a fixed prognosis.",
+  "sound_symbolism": "Body-linked 'mo' moves through reopening 'ra' into sharp 'shi', giving the course a felt return without sounding like blame. The form turns back but does not close the future.",
+  "grammatical_notes": "An intransitive verb: 'shia to morashi.' (They relapsed.) The event-noun rule supplies a relapse. State the returning condition, prior improvement, timing, evidence, and uncertainty where relevant. Distinct from 'helanu' (recover), 'turema' (return), 'nurawi' (chronic), an ordinary setback, and a new diagnosis.",
+  "pillars": {
+    "secular-buddhist-philosophy": "A changing course can turn without making prior effort meaningless or defining the person by recurrence.",
+    "peace-linguistics-practices": "Removing blame from relapse supports honest reporting, continued care, and revision rather than punishment or shame."
+  },
+  "tags": {
+    "physical": "return or worsening of a health condition after improvement",
+    "temporal": "a reversal within an ongoing health course"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

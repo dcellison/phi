@@ -1,0 +1,27 @@
+{
+  "word": "nurawi",
+  "gloss": "chronic",
+  "ipa": "/n̪u.ˈrä.wi/",
+  "syllables": [
+    "nu",
+    "ra",
+    "wi"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Chronic / Persisting or Recurring Over a Stated Clinical Duration",
+  "description": "Persisting, recurring, or requiring ongoing attention over a stated duration in a stated clinical context. The applicable duration depends on the condition and source. Chronic does not mean constant, severe, incurable, permanent, contagious, disabling, morally defining, or unchanged over time, and it must not make a condition the person's identity.",
+  "sound_symbolism": "Deep 'nu' opens into continuing 'ra', and final 'wi' carries the course onward through time. The form persists without closing into permanence.",
+  "grammatical_notes": "An adjective: 'ha mokanu nurawi nai.' (This disease is chronic.) State duration, recurrence, change, and source criteria where relevant. The quality-noun rule supplies chronic status. Distinct from 'katheo' (acute), 'mureo' (stable), 'pelaku' (severity), and permanence.",
+  "pillars": {
+    "peace-linguistics-practices": "A chronic classification remains a description of course, not a reduction of the person to illness, dependence, burden, or fixed prognosis."
+  },
+  "tags": {
+    "cognition": "a clinical classification under a stated duration",
+    "temporal": "a persisting, recurring, or ongoing course"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1070 words.*
+*1101 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -24,6 +24,7 @@
 | `hei` | hey | /ˈhe̞.i/ | interjection |
 | `hekawi` | find | /he̞.ˈkä.wi/ | verb |
 | `helaki` | amend | /he̞.ˈlä.ki/ | verb |
+| `helanu` | recover | /he̞.ˈlä.n̪u/ | verb |
 | `helia` | youth | /he̞.ˈli.ä/ | noun |
 | `heloa` | remedy | /he̞.ˈlo̞.ä/ | noun |
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
@@ -45,6 +46,7 @@
 | `hinolu` | adapt | /hi.ˈn̪o̞.lu/ | verb |
 | `hiru` | intuit | /ˈhi.ru/ | verb |
 | `hisae` | skin | /hi.ˈsä.e̞/ | noun |
+| `hisaro` | clinical finding | /hi.ˈsä.ro̞/ | noun |
 | `hiso` | clean | /ˈhi.so̞/ | adjective |
 | `hisophi` | contaminant | /hi.ˈso̞.ɸi/ | noun |
 | `ho` | ASSUM | /ˈho̞/ | particle |
@@ -77,12 +79,14 @@
 | `kasira` | vote | /kä.ˈsi.rä/ | verb |
 | `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
 | `katemu` | offcut | /kä.ˈt̪e̞.mu/ | noun |
+| `katheo` | acute | /kä.ˈθe̞.o̞/ | adjective |
 | `kathu` | seal | /ˈkä.θu/ | noun |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
 | `katiru` | knife | /kä.ˈt̪i.ru/ | noun |
 | `kau` | ALL | /ˈkä.u/ | preposition |
 | `kawepa` | catch | /kä.ˈwe̞.pä/ | verb |
 | `kawhera` | coerce | /kä.ˈʍe̞.rä/ | verb |
+| `kaworu` | injury | /kä.ˈwo̞.ru/ | noun |
 | `ke` | INFER | /ˈke̞/ | particle |
 | `kealo` | create | /ke̞.ˈä.lo̞/ | verb |
 | `kehota` | cough | /ke̞.ˈho̞.t̪ä/ | verb |
@@ -138,7 +142,9 @@
 | `kisholu` | specification | /ki.ˈʃo̞.lu/ | noun |
 | `kishu` | thirsty | /ˈki.ʃu/ | adjective |
 | `kisome` | assess | /ki.ˈso̞.me̞/ | verb |
+| `kithawu` | triage | /ki.ˈθä.wu/ | verb |
 | `kithela` | valid | /ki.ˈθe̞.lä/ | adjective |
+| `kithero` | diagnose | /ki.ˈθe̞.ro̞/ | verb |
 | `kiwate` | bite | /ki.ˈwä.t̪e̞/ | verb |
 | `ko` | FOC | /ˈko̞/ | particle |
 | `koema` | enter | /ko̞.ˈe̞.mä/ | verb |
@@ -194,6 +200,7 @@
 | `lepa` | fall | /ˈle̞.pä/ | verb |
 | `leru` | beach | /ˈle̞.ru/ | noun |
 | `lerua` | exterior | /le̞.ˈru.ä/ | noun |
+| `lesawi` | consent | /le̞.ˈsä.wi/ | verb |
 | `letharo` | consistent | /le̞.ˈθä.ro̞/ | adjective |
 | `lewonu` | valley | /le̞.ˈwo̞.n̪u/ | noun |
 | `li` | RESTR | /ˈli/ | particle |
@@ -304,6 +311,7 @@
 | `mera` | net | /ˈme̞.rä/ | noun |
 | `meropi` | cherish | /me̞.ˈro̞.pi/ | verb |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
+| `mikasu` | dose | /mi.ˈkä.su/ | noun |
 | `milau` | drink | /mi.ˈlä.u/ | verb |
 | `milura` | milk | /mi.ˈlu.rä/ | noun |
 | `mio` | mmhm | /ˈmi.o̞/ | interjection |
@@ -323,6 +331,7 @@
 | `moenu` | culture | /mo̞.ˈe̞.n̪u/ | noun |
 | `moesha` | still | /mo̞.ˈe̞.ʃä/ | adjective |
 | `moesu` | wax | /mo̞.ˈe̞.su/ | noun |
+| `mokanu` | disease | /mo̞.ˈkä.n̪u/ | noun |
 | `mokela` | sick | /mo̞.ˈke̞.lä/ | adjective |
 | `mokura` | belly | /mo̞.ˈku.rä/ | noun |
 | `mola` | island | /ˈmo̞.lä/ | noun |
@@ -339,6 +348,7 @@
 | `mophi` | wool | /ˈmo̞.ɸi/ | noun |
 | `mophira` | sheep | /mo̞.ˈɸi.rä/ | noun |
 | `morae` | sense | /mo̞.ˈrä.e̞/ | verb |
+| `morashi` | relapse | /mo̞.ˈrä.ʃi/ | verb |
 | `moreke` | mammal | /mo̞.ˈre̞.ke̞/ | noun |
 | `moreko` | articulate | /mo̞.ˈre̞.ko̞/ | verb |
 | `morilu` | wave | /mo̞.ˈri.lu/ | noun |
@@ -384,6 +394,7 @@
 | `nashaku` | enforce | /n̪ä.ˈʃä.ku/ | verb |
 | `nasholu` | rule | /n̪ä.ˈʃo̞.lu/ | noun |
 | `natheri` | entail | /n̪ä.ˈθe̞.ri/ | verb |
+| `nathoku` | contraindicated | /n̪ä.ˈθo̞.ku/ | adjective |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | verb |
 | `naweri` | refuse | /n̪ä.ˈwe̞.ri/ | verb |
@@ -399,6 +410,7 @@
 | `neo` | FRONT | /ˈn̪e̞.o̞/ | preposition |
 | `neparu` | cloud | /n̪e̞.ˈpä.ru/ | noun |
 | `nepha` | medicine | /ˈn̪e̞.ɸä/ | noun |
+| `nephoru` | treat | /n̪e̞.ˈɸo̞.ru/ | verb |
 | `neri` | cool | /ˈn̪e̞.ri/ | adjective |
 | `newai` | fresh | /n̪e̞.ˈwä.i/ | adjective |
 | `newu` | new | /ˈn̪e̞.wu/ | adjective |
@@ -472,6 +484,7 @@
 | `nuphari` | fog | /n̪u.ˈɸä.ri/ | noun |
 | `nupira` | shame | /n̪u.ˈpi.rä/ | noun |
 | `nurako` | railway | /n̪u.ˈrä.ko̞/ | noun |
+| `nurawi` | chronic | /n̪u.ˈrä.wi/ | adjective |
 | `nuri` | cycle | /ˈn̪u.ri/ | noun |
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
@@ -490,6 +503,7 @@
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pekira` | toxic | /pe̞.ˈki.rä/ | adjective |
+| `pelaku` | severity | /pe̞.ˈlä.ku/ | noun |
 | `pelio` | arm | /pe̞.ˈli.o̞/ | noun |
 | `peloma` | harmful | /pe̞.ˈlo̞.mä/ | adjective |
 | `pelori` | bird | /pe̞.ˈlo̞.ri/ | noun |
@@ -502,6 +516,7 @@
 | `perola` | rose | /pe̞.ˈro̞.lä/ | noun |
 | `pesa` | push | /ˈpe̞.sä/ | verb |
 | `pesenu` | pollute | /pe̞.ˈse̞.n̪u/ | verb |
+| `peshiro` | infection | /pe̞.ˈʃi.ro̞/ | noun |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
 | `phae` | open | /ˈɸä.e̞/ | verb |
 | `phaeli` | tender | /ɸä.ˈe̞.li/ | adjective |
@@ -513,6 +528,7 @@
 | `phaliso` | network | /ɸä.ˈli.so̞/ | noun |
 | `phaluwe` | flood | /ɸä.ˈlu.we̞/ | verb |
 | `phamo` | console | /ˈɸä.mo̞/ | verb |
+| `phamori` | symptom | /ɸä.ˈmo̞.ri/ | noun |
 | `phanoi` | portion | /ɸä.ˈn̪o̞.i/ | verb |
 | `phanu` | canvas | /ˈɸä.n̪u/ | noun |
 | `phanuli` | allocate | /ɸä.ˈn̪u.li/ | verb |
@@ -605,6 +621,7 @@
 | `po` | POT | /ˈpo̞/ | particle |
 | `pokera` | competent | /po̞.ˈke̞.rä/ | adjective |
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
+| `porewi` | side effect | /po̞.ˈre̞.wi/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
 | `porua` | purpose | /po̞.ˈru.ä/ | noun |
 | `poruli` | efficient | /po̞.ˈru.li/ | adjective |
@@ -692,6 +709,7 @@
 | `seroli` | mature | /se̞.ˈro̞.li/ | adjective |
 | `seru` | commit | /ˈse̞.ru/ | verb |
 | `sethoni` | handoff | /se̞.ˈθo̞.n̪i/ | verb |
+| `sewaro` | transmit | /se̞.ˈwä.ro̞/ | verb |
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
@@ -751,12 +769,14 @@
 | `shorai` | commune | /ʃo̞.ˈrä.i/ | verb |
 | `shorela` | REPH | /ʃo̞.ˈre̞.lä/ | discourse |
 | `shorema` | contribute | /ʃo̞.ˈre̞.mä/ | verb |
+| `shorenu` | immune | /ʃo̞.ˈre̞.n̪u/ | adjective |
 | `shoru` | dull | /ˈʃo̞.ru/ | adjective |
 | `shorui` | weary | /ʃo̞.ˈru.i/ | adjective |
 | `shorupo` | protect | /ʃo̞.ˈru.po̞/ | verb |
 | `shua` | come | /ˈʃu.ä/ | verb |
 | `shumu` | moss | /ˈʃu.mu/ | noun |
 | `shuna` | edge | /ˈʃu.n̪ä/ | noun |
+| `shuneki` | vaccinate | /ʃu.ˈn̪e̞.ki/ | verb |
 | `shupi` | plateau | /ˈʃu.pi/ | noun |
 | `shurano` | safe | /ʃu.ˈrä.n̪o̞/ | adjective |
 | `shuroa` | shelter | /ʃu.ˈro̞.ä/ | noun |
@@ -791,12 +811,14 @@
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb |
 | `someru` | supervise | /so̞.ˈme̞.ru/ | verb |
 | `somethi` | monitor | /so̞.ˈme̞.θi/ | verb |
+| `sonari` | isolate | /so̞.ˈn̪ä.ri/ | verb |
 | `sone` | value | /ˈso̞.n̪e̞/ | verb |
 | `soneho` | tradeoff | /so̞.ˈn̪e̞.ho̞/ | noun |
 | `sonu` | alone | /ˈso̞.n̪u/ | adjective |
 | `sophae` | cotton | /so̞.ˈɸä.e̞/ | noun |
 | `sorae` | sun | /so̞.ˈrä.e̞/ | noun |
 | `sorai` | insight | /so̞.ˈrä.i/ | noun |
+| `soranu` | screen | /so̞.ˈrä.n̪u/ | verb |
 | `sorila` | cultivate | /so̞.ˈri.lä/ | verb |
 | `soriu` | yellow | /so̞.ˈri.u/ | adjective |
 | `sorui` | circle | /so̞.ˈru.i/ | noun |
@@ -809,6 +831,7 @@
 | `sulai` | musician | /su.ˈlä.i/ | noun |
 | `suliwa` | snake | /su.ˈli.wä/ | noun |
 | `sulopa` | soup | /su.ˈlo̞.pä/ | noun |
+| `suloru` | fever | /su.ˈlo̞.ru/ | noun |
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |
@@ -833,6 +856,7 @@
 | `teo` | watch out | /ˈt̪e̞.o̞/ | interjection |
 | `teru` | process | /ˈt̪e̞.ru/ | verb |
 | `terura` | system | /t̪e̞.ˈru.rä/ | noun |
+| `teshori` | quarantine | /t̪e̞.ˈʃo̞.ri/ | verb |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |
 | `thaemo` | precious | /θä.ˈe̞.mo̞/ | adjective |
@@ -850,6 +874,7 @@
 | `theama` | care | /θe̞.ˈä.mä/ | verb |
 | `thei` | BETWEEN | /ˈθe̞.i/ | preposition |
 | `theisa` | loud | /θe̞.ˈi.sä/ | adjective |
+| `thekamu` | intervene | /θe̞.ˈkä.mu/ | verb |
 | `thekao` | acknowledge | /θe̞.ˈkä.o̞/ | verb |
 | `thekiro` | write | /θe̞.ˈki.ro̞/ | verb |
 | `theko` | craft | /ˈθe̞.ko̞/ | verb |
@@ -879,6 +904,7 @@
 | `theomi` | trust | /θe̞.ˈo̞.mi/ | verb |
 | `theonu` | attend | /θe̞.ˈo̞.n̪u/ | verb |
 | `thepalu` | garden | /θe̞.ˈpä.lu/ | noun |
+| `thephaku` | inflammation | /θe̞.ˈɸä.ku/ | noun |
 | `therema` | tradition | /θe̞.ˈre̞.mä/ | noun |
 | `thereo` | mediator | /θe̞.ˈre̞.o̞/ | noun |
 | `theriko` | frost | /θe̞.ˈri.ko̞/ | noun |
@@ -992,6 +1018,7 @@
 | `wela` | INT.COMP | /ˈwe̞.lä/ | complementizer |
 | `welamu` | elm | /we̞.ˈlä.mu/ | noun |
 | `welao` | good | /we̞.ˈlä.o̞/ | adjective |
+| `welathi` | contagious | /we̞.ˈlä.θi/ | adjective |
 | `welira` | thrive | /we̞.ˈli.rä/ | verb |
 | `welisha` | color | /we̞.ˈli.ʃä/ | noun |
 | `welo` | INT.COMP.CLOSE | /ˈwe̞.lo̞/ | complementizer |
@@ -1015,6 +1042,7 @@
 | `wero` | honest | /ˈwe̞.ro̞/ | adjective |
 | `weru` | poet | /ˈwe̞.ru/ | noun |
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
+| `weshaku` | outbreak | /we̞.ˈʃä.ku/ | noun |
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
 | `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
@@ -1026,11 +1054,13 @@
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
 | `wheiru` | mist | /ʍe̞.ˈi.ru/ | noun |
 | `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
+| `whekaro` | adverse effect | /ʍe̞.ˈkä.ro̞/ | noun |
 | `whekate` | refute | /ʍe̞.ˈkä.t̪e̞/ | verb |
 | `whekelu` | magic | /ʍe̞.ˈke̞.lu/ | noun |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |
 | `whelina` | grass | /ʍe̞.ˈli.n̪ä/ | noun |
+| `whemaki` | allergy | /ʍe̞.ˈmä.ki/ | noun |
 | `whemoa` | empty | /ʍe̞.ˈmo̞.ä/ | adjective |
 | `whemori` | waste | /ʍe̞.ˈmo̞.ri/ | noun |
 | `whemura` | dream | /ʍe̞.ˈmu.rä/ | verb |
@@ -1061,6 +1091,7 @@
 | `wira` | window | /ˈwi.rä/ | noun |
 | `wirae` | spring (season) | /wi.ˈrä.e̞/ | noun |
 | `wiralu` | runoff | /wi.ˈrä.lu/ | noun |
+| `wireki` | prognosis | /wi.ˈre̞.ki/ | noun |
 | `wireo` | future | /wi.ˈre̞.o̞/ | noun |
 | `wiroa` | hopeful | /wi.ˈro̞.ä/ | adjective |
 | `wiru` | basket | /ˈwi.ru/ | noun |

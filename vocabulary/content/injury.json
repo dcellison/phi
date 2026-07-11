@@ -1,0 +1,26 @@
+{
+  "word": "kaworu",
+  "gloss": "injury",
+  "ipa": "/kä.ˈwo̞.ru/",
+  "syllables": [
+    "ka",
+    "wo",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Injury / Bodily Change or Damage Associated With an Event or Exposure",
+  "description": "A bodily change or damage associated with an event, force, strain, exposure, or repeated condition. An injury may be visible or hidden, painful or painless, recent or ongoing, and its cause may remain uncertain. The word does not establish blame, severity, disability, diagnosis, treatment, negligence, permanence, or that the person experienced the event in the same way an observer describes it.",
+  "sound_symbolism": "Impact-bearing 'ka' marks a change, rounded 'wo' holds the affected bodily relation, and final 'ru' gives the injury a bounded identity for care without making its course permanent.",
+  "grammatical_notes": "A countable or mass noun according to context: 'mia kaworu phelu.' (I have an injury.) State the bodily location, event or exposure, time, evidence, uncertainty, and person's report where relevant. Distinct from 'kipona' (pain), 'peloma' (harmful), 'pukate' (break), 'mokanu' (disease), and 'kiphira' (fault).",
+  "pillars": {
+    "peace-linguistics-practices": "Naming bodily harm without encoding blame keeps care, causation, responsibility, testimony, and remedy available as separate questions."
+  },
+  "tags": {
+    "physical": "a health-relevant bodily change or damage"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

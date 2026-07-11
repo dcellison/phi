@@ -1,0 +1,27 @@
+{
+  "word": "katheo",
+  "gloss": "acute",
+  "ipa": "/kä.ˈθe̞.o̞/",
+  "syllables": [
+    "ka",
+    "the",
+    "o"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Acute / Having a Recent, Rapid, or Short Clinical Course",
+  "description": "Having a recent onset, rapid development, or comparatively short course in a stated clinical context. The applicable time scale depends on the condition and source. Acute does not mean severe, painful, dangerous, emergency, curable, temporary in every case, or the opposite of recurring, and an exact source classification remains external when its wording matters.",
+  "sound_symbolism": "Decisive 'ka' gives the onset a clear edge, 'the' directs attention to the course, and final open 'o' leaves its outcome unresolved. The form begins sharply without equating speed with severity.",
+  "grammatical_notes": "An adjective: 'ha kaworu katheo nai.' (This injury is acute.) State the relevant onset and time scale where they matter. The quality-noun rule supplies acute status. Distinct from 'nurawi' (chronic), 'pelaku' (severity), 'pukea' (danger), and 'tiso' (sharp).",
+  "pillars": {
+    "peace-linguistics-practices": "Separating course from severity and danger prevents an acute label from becoming an unexplained urgency claim."
+  },
+  "tags": {
+    "cognition": "a clinical classification under a stated time scale",
+    "temporal": "a recent, rapid, or comparatively short course"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

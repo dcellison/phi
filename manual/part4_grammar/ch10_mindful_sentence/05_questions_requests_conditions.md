@@ -60,6 +60,24 @@ And politeness, when chosen, comes first of all:
 
 The documented combinations put `pi` before the act it softens: *pi no* for gentle requests, *pi wa* for gentle questions.
 
+## A request is not consent
+
+A polite question makes the proposed action visible; it does not supply the other person's answer. Phi names freely and specifically given consent with `lesawi`:
+
+```
+pi wa mia thia weloni po palo.
+POL Q 1SG 2SG body POT touch.
+(May I touch your body?)
+```
+
+```
+mia ha palo lesawi.
+1SG PROX touch consent.
+(I consent to this touch.)
+```
+
+`lesawi` has a stated scope and may be conditional, withheld, or withdrawn. It is not the same as `nawo` agreement, `kelomi` acceptance, silence, lack of resistance, or another person's `kanuwa` authorization. The word also does not prove that the proposal was understood or that the choice was free from pressure; state the explanation, conditions, alternatives, and withdrawal when they matter.
+
 ## What framing buys
 
 The pattern across all four is the same trade Phi makes everywhere: the speaker declares intent up front, and in exchange the listener never has to decode motive from tone. A question is a question, a request is a request, a hypothesis is a hypothesis, labeled before delivery, every time.

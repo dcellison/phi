@@ -1,0 +1,30 @@
+{
+  "word": "teshori",
+  "gloss": "quarantine",
+  "ipa": "/t̪e̞.ˈʃo̞.ri/",
+  "syllables": [
+    "te",
+    "sho",
+    "ri"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Quarantine / Restrict Contact After Possible Exposure During Uncertainty",
+  "description": "To restrict or modify the movement, contact, or participation of a person, animal, or group after possible exposure and during uncertainty about infection, for a stated period and transmission-reduction purpose. Quarantine may be voluntary or imposed and requires material and communication support. It is not isolation of a known infectious source, diagnosis, imprisonment, punishment, consent, legitimate authority, proof of danger, or justification for stigma and abandonment.",
+  "sound_symbolism": "Boundary-bearing 'te' meets protective 'sho', and final 'ri' carries the affected person's life and relations through the temporary restriction. The form limits contact without closing community.",
+  "grammatical_notes": "A transitive or reflexive verb: 'ha punoki shia teshori.' (The institution quarantines them.) State the exposure, evidence, restriction, place, duration, support, consent, authority, alternatives, and review where relevant. The event-noun rule supplies quarantine. Distinct from 'sonari' (isolate), 'perawi' (expose), 'kawhera' (coerce), 'nasholu' (rule), and imprisonment.",
+  "pillars": {
+    "solarpunk-values": "A community that asks people to limit contact must also organize food, shelter, communication, care, access, and protection from lost livelihood.",
+    "peace-linguistics-practices": "Explicit authority, support, uncertainty, and review prevent quarantine from being disguised punishment or exclusion."
+  },
+  "tags": {
+    "activity": "restricting contact after possible exposure",
+    "community": "a public-health relation with material and social obligations",
+    "spatial": "a temporary boundary around contact and movement",
+    "temporal": "a restriction during a stated uncertainty period"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

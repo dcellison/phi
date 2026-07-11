@@ -1,0 +1,27 @@
+{
+  "word": "sewaro",
+  "gloss": "transmit",
+  "ipa": "/se̞.ˈwä.ro̞/",
+  "syllables": [
+    "se",
+    "wa",
+    "ro"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Transmit / Pass an Infectious Agent Between Hosts or Reservoirs",
+  "description": "For an infectious agent to pass from a host, reservoir, source, or environment to another possible host through a stated pathway under stated conditions. Transmission may be direct, indirect, suspected, interrupted, or unsuccessful in establishing infection. It does not mean exposure, infection, disease, contagiousness in every setting, intent, blame, moral contamination, or proof of the exact source.",
+  "sound_symbolism": "Outgoing 'se' begins the passage, 'wa' crosses an open relation, and final 'ro' leaves infection and outcome unresolved. The form follows a pathway without assigning fault to a host.",
+  "grammatical_notes": "A transitive or intransitive verb: 'ha peshiro thue phialu po sewaro.' (The infection may transmit through water.) State the agent, source, recipient, pathway, conditions, evidence, and uncertainty where relevant. The event-noun rule supplies transmission. Distinct from 'perawi' (expose), 'peshiro' (infection), 'welathi' (contagious), 'sekaru' (transfer), and 'welura' (spread).",
+  "pillars": {
+    "peace-linguistics-practices": "A pathway-centered transmission verb supports prevention without treating an infected person as blameworthy, impure, or inherently dangerous."
+  },
+  "tags": {
+    "nature": "movement of an infectious agent through a biological pathway",
+    "physical": "passage between hosts, reservoirs, or environments"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

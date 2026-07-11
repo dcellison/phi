@@ -1,0 +1,27 @@
+{
+  "word": "porewi",
+  "gloss": "side effect",
+  "ipa": "/po̞.ˈre̞.wi/",
+  "syllables": [
+    "po",
+    "re",
+    "wi"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Side Effect / Additional Effect Beyond an Intervention's Stated Target",
+  "description": "An effect associated with an intervention that occurs in addition to its stated target or intended effect. A side effect may be expected or unexpected, beneficial, neutral, burdensome, or harmful, and the causal relation may be suspected rather than certain. It is not automatically an adverse effect, allergy, symptom of the underlying condition, error, contraindication, or proof that treatment should continue or stop.",
+  "sound_symbolism": "Possibility-bearing 'po' opens beyond the intended path, 're' branches toward an additional effect, and final 'wi' carries that effect alongside the intervention's course. The form stays lateral rather than condemning the result.",
+  "grammatical_notes": "A countable noun: 'ha nepha porewi phelu.' (The medicine has a side effect.) State the intervention, effect, timing, evidence, burden, and uncertainty where relevant. Distinct from 'whekaro' (adverse effect), 'whemaki' (allergy), 'phamori' (symptom), 'thirulo' (output), and 'kiphira' (fault).",
+  "pillars": {
+    "peace-linguistics-practices": "A neutral additional-effect term permits benefit and burden to be discussed without minimizing harm or presuming causation."
+  },
+  "tags": {
+    "cognition": "an attributed additional effect with stated uncertainty",
+    "physical": "a bodily effect beyond an intervention's stated target"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}

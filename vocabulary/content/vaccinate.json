@@ -1,0 +1,29 @@
+{
+  "word": "shuneki",
+  "gloss": "vaccinate",
+  "ipa": "/ʃu.ˈn̪e̞.ki/",
+  "syllables": [
+    "shu",
+    "ne",
+    "ki"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Vaccinate / Administer a Vaccine Intended to Induce Protection",
+  "description": "To administer a vaccine product through a stated route and schedule with the intention of inducing or strengthening protection against a specified infectious agent, disease, or outcome. The exact product, formulation, lot, dose, route, schedule, and record remain source material when their identity matters. Vaccination does not prove consent, immunity, effectiveness for one person, safety, absence of adverse effects, authorization, or completion of a course.",
+  "sound_symbolism": "Protective 'shu' opens toward medicine-linked 'ne', and final 'ki' returns the action to exact criteria and records. The form points toward protection without claiming its result.",
+  "grammatical_notes": "A transitive verb: 'shia mia shuneki.' (They vaccinate me.) State the product source, target, dose, route, schedule, consent, and record where relevant. The event-noun rule supplies vaccination. Distinct from 'shorenu' (immune), 'nephoru' (treat), 'nepha' (medicine), 'mikasu' (dose), and 'kanuwa' (authorize).",
+  "pillars": {
+    "solarpunk-values": "Shared preventive care can protect communities when material access, evidence, bodily autonomy, and unequal burdens remain visible.",
+    "peace-linguistics-practices": "Separating vaccination from consent, immunity, and authority permits clear advocacy, refusal, uncertainty, and accountability without semantic shortcuts."
+  },
+  "tags": {
+    "activity": "administering a vaccine for a stated protective purpose",
+    "community": "a preventive action with individual and collective relations",
+    "physical": "an intervention intended to induce bodily protection"
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
+}
