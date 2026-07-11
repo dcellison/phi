@@ -1,0 +1,29 @@
+{
+  "word": "lumethi",
+  "gloss": "deadline",
+  "ipa": "/lu.ˈme̞.θi/",
+  "syllables": [
+    "lu",
+    "me",
+    "thi"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Deadline / Claimed Latest Time for an Action or Result",
+  "description": "A stated latest time or event boundary by which an action, decision, transfer, or result is expected or required under a named source. A deadline can be negotiated, revised, refused, missed, or impossible. Naming one does not establish authority, consent, feasibility, urgency, fairness, or an obligation to meet it.",
+  "sound_symbolism": "The ending-bearing 'lu' recalls the approach to 'lumae' (end), 'me' narrows the interval, and final 'thi' places the boundary in time. The sound closes toward a point without making the pressure legitimate.",
+  "grammatical_notes": "A countable noun: 'ha riporu lumethi pheo wi philo nai.' (This task's deadline is in two days.) Preserve an exact calendar or clock value in source material when its form matters. Distinct from 'thimora' (schedule), 'lumae' (end), 'naseru' (obligation), and temporal necessity with 'na'.",
+  "pillars": {
+    "peace-linguistics-practices": "Naming a deadline as a sourced claim keeps time pressure open to questions about authority, capacity, access, safety, and negotiation.",
+    "pre-industrial-wisdom": "Seasons, weather, material behavior, and shared events impose real time boundaries, while institutions also create deadlines whose necessity must not be assumed."
+  },
+  "tags": {
+    "activity": "a time boundary attached to an expected action or result",
+    "community": "a potentially negotiated or imposed coordination point",
+    "temporal": "the stated latest time under a named source"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

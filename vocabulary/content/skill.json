@@ -1,0 +1,31 @@
+{
+  "word": "thesani",
+  "gloss": "skill",
+  "ipa": "/θe̞.ˈsä.n̪i/",
+  "syllables": [
+    "the",
+    "sa",
+    "ni"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Skill / Learned Repeatable Practical Capacity",
+  "description": "A learned and repeatable practical capacity to perform a stated kind of activity under relevant conditions. A skill may be developing, narrow, broad, embodied, collaborative, or dependent on tools and access. Naming a skill does not establish permission, formal qualification, present readiness, expert status, moral worth, or a guaranteed result.",
+  "sound_symbolism": "Opening 'the' places attention on a shaped practice, 'sa' gives the form a learned and repeatable center, and final 'ni' situates the capacity in a particular practitioner or community. The form feels cultivated rather than innate or ranked.",
+  "grammatical_notes": "A countable or mass noun according to context: 'mia ha thesani phelu.' (I have the skill.) Name the domain, conditions, tools, and claimed level when they matter. Distinct from 'sano' (know), 'thole' (practice), 'pokera' (competent), 'nukesa' (expert), and 'kiranu' (qualified).",
+  "pillars": {
+    "art-nouveau-aesthetics": "Craft skill joins disciplined technique with sensitivity to material, form, and use without reducing beauty to decoration.",
+    "peace-linguistics-practices": "Separating skill from worth, authority, and credentials permits precise recognition without turning ability into social supremacy.",
+    "pre-industrial-wisdom": "Learned practical capacities preserve repair, cultivation, making, and embodied knowledge across generations and communities."
+  },
+  "tags": {
+    "activity": "a learned capacity for practical action",
+    "cognition": "procedural knowledge developed through learning and repetition",
+    "creation": "capacity used in making, repair, and transformation",
+    "wisdom": "practical understanding refined through experience"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

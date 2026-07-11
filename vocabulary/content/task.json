@@ -1,0 +1,28 @@
+{
+  "word": "riporu",
+  "gloss": "task",
+  "ipa": "/ri.ˈpo̞.ru/",
+  "syllables": [
+    "ri",
+    "po",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Task / Bounded Unit of Intended Activity",
+  "description": "A bounded unit of activity identified by a stated action, object, purpose, condition, or expected result. A task may be proposed, self-chosen, assigned, refused, pending, or complete. Naming a task does not identify who must perform it, establish authority or obligation, prove acceptance or competence, or imply that the activity is useful, safe, paid, or meaningful.",
+  "sound_symbolism": "Opening 'ri' recalls 'riola' (purposeful labor) without inheriting its positive evaluation. 'Po' gives the activity a possible or proposed scope, and final 'ru' closes that scope firmly enough to discuss one unit while leaving its boundaries revisable.",
+  "grammatical_notes": "A countable noun: 'mia ha riporu kelomi.' (I accept this task.) Name the action, object, conditions, source, performer, and completion criterion when they matter. Distinct from 'riola' (purposeful labor), 'sithora' (role), 'naseru' (obligation), and 'pherami' (functional dependency).",
+  "pillars": {
+    "solarpunk-values": "Naming bounded tasks can make shared maintenance and invisible practical work available for discussion without treating every activity as a job or commodity.",
+    "peace-linguistics-practices": "A neutral task noun lets speakers distinguish the work unit from the separate questions of request, choice, authority, refusal, and responsibility."
+  },
+  "tags": {
+    "activity": "a bounded unit of intended or discussed activity",
+    "cognition": "a selected scope for planning and status description"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

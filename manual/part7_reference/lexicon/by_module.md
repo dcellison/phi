@@ -142,3 +142,40 @@
 | `thonuki` | fail | verb | Fail |
 | `turelo` | feedback | noun | Feedback |
 | `wepanu` | redundant | adjective | Redundant |
+
+## Work, Craft, and Repair
+
+*30 module words.*
+
+| Word | Gloss | Part of speech | Concept |
+|---|---|---|---|
+| `hasoru` | pending | adjective | Pending |
+| `katemu` | offcut | noun | Offcut |
+| `kiranu` | qualified | adjective | Qualified |
+| `kirero` | quality | noun | Quality |
+| `kisome` | assess | verb | Assess |
+| `lumethi` | deadline | noun | Deadline |
+| `luseri` | provenance | noun | Provenance |
+| `muphera` | stock | noun | Stock |
+| `noporu` | design | verb | Design |
+| `noraku` | blocked | adjective | Blocked |
+| `nukesa` | expert | adjective | Expert |
+| `pilora` | exploit | verb | Exploit |
+| `pokera` | competent | adjective | Competent |
+| `rilowa` | assign | verb | Assign |
+| `rimawu` | drudgery | noun | Drudgery |
+| `rinoka` | project | noun | Project |
+| `riporu` | task | noun | Task |
+| `ritako` | workload | noun | Workload |
+| `sephori` | supply | verb | Supply |
+| `sethoni` | handoff | verb | Handoff |
+| `sikanu` | certify | verb | Certify |
+| `sitawi` | inventory | noun | Inventory |
+| `somaki` | test | verb | Test |
+| `someru` | supervise | verb | Supervise |
+| `thesani` | skill | noun | Skill |
+| `thimora` | schedule | noun | Schedule |
+| `thunaro` | train | verb | Train |
+| `wephari` | coordinate | verb | Coordinate |
+| `wepuri` | progress | verb | Progress |
+| `winora` | plan | verb | Plan |

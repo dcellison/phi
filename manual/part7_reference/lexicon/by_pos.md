@@ -8,10 +8,11 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (176)
+## adjective (181)
 
 | Word | Gloss | Concept |
 |---|---|---|
+| `hasoru` | pending | Pending |
 | `heloi` | generous | Generous |
 | `helu` | smooth | Smooth |
 | `hieru` | narrow | Narrow |
@@ -27,6 +28,7 @@
 | `keruko` | sturdy | Sturdy |
 | `kesu` | determined | Determined |
 | `kethua` | hard | Hard |
+| `kiranu` | qualified | Qualified |
 | `kirethu` | legitimate | Legitimate |
 | `kiro` | precise | Precise |
 | `kishu` | thirsty | Thirsty |
@@ -79,10 +81,12 @@
 | `noemi` | authentic | Authentic |
 | `noetha` | essential | Essential |
 | `nophei` | loyal | Loyal |
+| `noraku` | blocked | Blocked |
 | `norethi` | confident | Confident |
 | `noshi` | near (adj) | Near |
 | `nuawe` | together | Together |
 | `nuelo` | dark | Dark |
+| `nukesa` | expert | Expert |
 | `nuko` | black | Black |
 | `nulo` | deep | Deep |
 | `nuloe` | content | Content |
@@ -103,6 +107,7 @@
 | `phisoe` | creative | Creative |
 | `pholuo` | luminous | Luminous |
 | `phue` | wise | Wise |
+| `pokera` | competent | Competent |
 | `poru` | productive | Productive |
 | `poruli` | efficient | Efficient |
 | `puko` | bitter | Bitter |
@@ -272,7 +277,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (445)
+## noun (457)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -299,6 +304,7 @@
 | `kalora` | horse | Horse |
 | `kanuro` | decision | Decision |
 | `karami` | authority | Authority |
+| `katemu` | offcut | Offcut |
 | `kathu` | seal | Seal |
 | `katiru` | knife | Knife |
 | `keiro` | way | Way |
@@ -324,6 +330,7 @@
 | `kira` | key | Key |
 | `kirae` | crystal | Crystal |
 | `kirema` | criterion | Criterion |
+| `kirero` | quality | Quality |
 | `kiroa` | sign | Sign |
 | `kirowi` | signal | Signal |
 | `kiru` | chisel | Chisel |
@@ -387,6 +394,7 @@
 | `luma` | lamp | Lamp |
 | `lumae` | end | End |
 | `lumani` | family | Family |
+| `lumethi` | deadline | Deadline |
 | `lumira` | descendant | Descendant |
 | `lumishe` | mentor | Mentor |
 | `lumoi` | lantern | Lantern |
@@ -398,6 +406,7 @@
 | `luphore` | river | River |
 | `lureko` | fruit | Fruit |
 | `lurepa` | nutrient | Nutrient |
+| `luseri` | provenance | Provenance |
 | `maewo` | threshold | Threshold |
 | `manuwe` | hand | Hand |
 | `meipa` | seat | Seat |
@@ -444,6 +453,7 @@
 | `muhena` | dust | Dust |
 | `muila` | earth | Earth |
 | `munari` | sediment | Sediment |
+| `muphera` | stock | Stock |
 | `muphia` | mud | Mud |
 | `muralo` | material | Material |
 | `muriwe` | worm | Worm |
@@ -566,6 +576,10 @@
 | `repha` | bridge | Bridge |
 | `reteru` | model | Model |
 | `rewa` | oar | Oar |
+| `rimawu` | drudgery | Drudgery |
+| `rinoka` | project | Project |
+| `riporu` | task | Task |
+| `ritako` | workload | Workload |
 | `roela` | scroll | Scroll |
 | `roena` | copper | Copper |
 | `rokai` | back | Back |
@@ -608,6 +622,7 @@
 | `silero` | star | Star |
 | `sima` | thread | Thread |
 | `siru` | marker | Marker |
+| `sitawi` | inventory | Inventory |
 | `sithora` | role | Role |
 | `siwe` | sweat | Sweat |
 | `soeli` | cup | Cup |
@@ -656,7 +671,9 @@
 | `thereo` | mediator | Mediator |
 | `theriko` | frost | Frost |
 | `thero` | fire | Fire |
+| `thesani` | skill | Skill |
 | `thesori` | evidence | Evidence |
+| `thimora` | schedule | Schedule |
 | `thimu` | time | Time |
 | `thinoe` | seed | Seed |
 | `thirulo` | output | Output |
@@ -826,7 +843,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (286)
+## verb (299)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -867,6 +884,7 @@
 | `ketora` | control | Control |
 | `kire` | shape | Shape |
 | `kirothe` | define | Define |
+| `kisome` | assess | Assess |
 | `kiwate` | bite | Bite |
 | `koema` | enter | Enter |
 | `kolua` | carry | Carry |
@@ -932,6 +950,7 @@
 | `noluha` | swallow | Swallow |
 | `nomela` | encourage | Encourage |
 | `nomira` | collect | Collect |
+| `noporu` | design | Design |
 | `norelu` | form | Form |
 | `nowae` | awaken | Awaken |
 | `nuhemi` | grieve | Grieve |
@@ -974,6 +993,7 @@
 | `phowe` | share | Sharing |
 | `phuro` | renew | Renew |
 | `pilewa` | make | Make |
+| `pilora` | exploit | Exploit |
 | `pilu` | take | Take |
 | `pina` | sew | Sew |
 | `pisha` | split | Split |
@@ -988,6 +1008,7 @@
 | `reo` | meaning | Meaning |
 | `repora` | propose | Propose |
 | `rihe` | rise | Rise |
+| `rilowa` | assign | Assign |
 | `riola` | labor | Labor |
 | `rohi` | rub | Rub |
 | `roke` | move | Move |
@@ -1003,7 +1024,9 @@
 | `selu` | flow | Flow |
 | `seniku` | smile | Smile |
 | `sepho` | send | Send |
+| `sephori` | supply | Supply |
 | `seru` | commit | Commit |
+| `sethoni` | handoff | Handoff |
 | `shalori` | represent | Represent |
 | `shane` | tell | Tell |
 | `shanewi` | notify | Notify |
@@ -1026,11 +1049,14 @@
 | `shorema` | contribute | Contribute |
 | `shorupo` | protect | Protect |
 | `shua` | come | Come |
+| `sikanu` | certify | Certify |
 | `sirami` | record | Record |
 | `soki` | settle | Settle |
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
+| `somaki` | test | Test |
 | `somela` | observe | Observe |
+| `someru` | supervise | Supervise |
 | `somethi` | monitor | Monitor |
 | `sone` | value | Value |
 | `sorila` | cultivate | Cultivate |
@@ -1075,6 +1101,7 @@
 | `thueli` | intend | Intend |
 | `thuleni` | comfort | Comfort |
 | `thumela` | teach | Teach |
+| `thunaro` | train | Train |
 | `thuo` | prosper | Prosper |
 | `thuroa` | grow | Grow |
 | `tiripe` | quiver | Quiver |
@@ -1092,7 +1119,9 @@
 | `wema` | belong | Belong |
 | `weni` | imagine | Imagine |
 | `wenola` | collaborate | Collaborate |
+| `wephari` | coordinate | Coordinate |
 | `wepu` | go | Go |
+| `wepuri` | progress | Progress |
 | `wesho` | locate | Locate |
 | `whakeru` | object | Object |
 | `whaline` | thank | Thank |
@@ -1113,6 +1142,7 @@
 | `whunei` | breathe | Breath |
 | `wilao` | long-for | Long For |
 | `wile` | play | Play |
+| `winora` | plan | Plan |
 | `wishe` | swim | Swim |
 | `wisola` | exchange | Exchange |
 | `woraka` | appreciate | Appreciate |

@@ -1,0 +1,28 @@
+{
+  "word": "somaki",
+  "gloss": "test",
+  "ipa": "/so̞.ˈmä.ki/",
+  "syllables": [
+    "so",
+    "ma",
+    "ki"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Test / Apply a Defined Procedure to Gather Evidence",
+  "description": "To carry out a defined procedure under stated conditions in order to gather evidence about a claim, function, property, or criterion. A test should distinguish its method, object, conditions, observations, interpretation, and limits. Testing does not itself prove a claim, approve a result, establish safety, certify a person or artifact, or guarantee that the tested conditions represent future use.",
+  "sound_symbolism": "Opening 'so' gathers attention around the observed trial, 'ma' marks a deliberate intervention, and final 'ki' gives the procedure and criterion a clean edge. The form ends in inquiry rather than certainty.",
+  "grammatical_notes": "A transitive verb: 'mia ha rolu somaki.' (I test the wheel.) The event-noun rule supplies a test. State the procedure, conditions, criterion, observations, and uncertainty where relevant. Distinct from 'nilaki' (inspect), 'somela' (observe), 'kisome' (assess), 'tukiro' (review), and 'masuro' (calibrate).",
+  "pillars": {
+    "solarpunk-values": "Repairable tools and shared infrastructure require tests whose conditions and limits remain visible to maintainers and users.",
+    "peace-linguistics-practices": "Separating a test from proof, approval, and safety discourages speakers from overstating what one procedure can establish."
+  },
+  "tags": {
+    "activity": "performing a defined evidential procedure",
+    "cognition": "gathering bounded evidence about a claim or criterion"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

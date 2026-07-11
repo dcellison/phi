@@ -1,0 +1,29 @@
+{
+  "word": "ritako",
+  "gloss": "workload",
+  "ipa": "/ri.ˈt̪ä.ko̞/",
+  "syllables": [
+    "ri",
+    "ta",
+    "ko"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Workload / Work Expected or Undertaken Over an Interval",
+  "description": "The amount, intensity, timing, complexity, interruption, and coordination burden of work expected or undertaken by a person or group over a stated interval and under stated conditions. A workload claim may include paid, unpaid, assigned, chosen, visible, and invisible work. The word does not mean technical load, bodily capacity, obligation, fairness, consent, fatigue, or harm.",
+  "sound_symbolism": "Labor-linked 'ri' opens the practical field, 'ta' marks accumulated units and demands, and final 'ko' gathers them within an interval and set of conditions. The form feels measurable while resisting reduction to a single count.",
+  "grammatical_notes": "A countable or mass noun according to context: 'mia ha ritako ma kelomi.' (I do not accept the workload.) State the person or group, interval, tasks, conditions, and hidden coordination burden where relevant. Distinct from 'riola' (purposeful labor), 'riporu' (task), 'naseru' (obligation), 'henora' (capacity), and a technical load.",
+  "pillars": {
+    "solarpunk-values": "Naming workload makes maintenance, care, coordination, and other easily hidden labor available for equitable planning and redesign.",
+    "peace-linguistics-practices": "Separating workload from obligation and consent allows a person to describe what is being demanded without conceding that the demand is fair or accepted."
+  },
+  "tags": {
+    "activity": "the combined demands of work under stated conditions",
+    "community": "work distributed among people or groups",
+    "temporal": "work considered over a stated interval"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

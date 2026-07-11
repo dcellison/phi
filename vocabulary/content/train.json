@@ -1,0 +1,30 @@
+{
+  "word": "thunaro",
+  "gloss": "train",
+  "ipa": "/θu.ˈn̪ä.ro̞/",
+  "syllables": [
+    "thu",
+    "na",
+    "ro"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Train / Guide Structured Practice Toward a Skill",
+  "description": "To guide a participant through structured instruction and practice toward a stated skill or performance criterion. Training may include demonstration, repetition, feedback, adaptation, and supervised attempts. It does not imply coercive discipline, successful learning, assessment, certification, consent to every exercise, or authority beyond the named learning relationship.",
+  "sound_symbolism": "Opening 'thu' begins with directed but breathable guidance, 'na' marks repeated practice and necessity, and final 'ro' carries the learner into continued action. The form suggests a path of practice rather than passive transfer.",
+  "grammatical_notes": "A transitive verb: 'mia thia thunaro.' (I train you.) State the skill, method, conditions, consent, and criterion where relevant. The event-noun rule supplies training. Distinct from 'thumela' (teach), 'shonela' (learn), 'thole' (practice), 'shimalo' (discipline oneself), and 'someru' (supervise).",
+  "pillars": {
+    "peace-linguistics-practices": "Keeping training distinct from discipline and certification leaves the learner's agency, the method's legitimacy, and the result open to separate discussion.",
+    "pre-industrial-wisdom": "Structured practice supports apprenticeship and the transmission of embodied skills without requiring a school or credentialing institution."
+  },
+  "tags": {
+    "activity": "guided practice toward a stated practical capacity",
+    "cognition": "structured learning through instruction and feedback",
+    "community": "a bounded relationship between trainer and participant",
+    "temporal": "practice developed through a sequence of attempts"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

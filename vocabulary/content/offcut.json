@@ -1,0 +1,29 @@
+{
+  "word": "katemu",
+  "gloss": "offcut",
+  "ipa": "/kä.ˈt̪e̞.mu/",
+  "syllables": [
+    "ka",
+    "te",
+    "mu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Offcut / Material Separated Outside the Intended Main Form",
+  "description": "A piece separated from stock or material during cutting, trimming, or shaping that is not part of the intended main form. An offcut may be reusable stock, input to another process, recyclable material, hazardous residue, or waste depending on its properties and context. The word does not decide usefulness, ownership, contamination, disposal status, or whether the separation was efficient.",
+  "sound_symbolism": "Cutting 'ka' opens with a clean separation, 'te' marks the resulting edge, and locative 'mu' lets the separated piece settle as material in its own place. The form turns a remainder into something that can be noticed and reconsidered.",
+  "grammatical_notes": "A countable noun: 'mia lo katemu phelure.' (I store the offcuts.) State the source material, dimensions, condition, hazards, and intended disposition where relevant. Distinct from 'kati' (cut), 'muralo' (material), 'muphera' (stock), and 'whemori' (waste).",
+  "pillars": {
+    "solarpunk-values": "Naming offcuts before classifying them as waste supports reuse, material accounting, and design choices that reduce avoidable loss.",
+    "pre-industrial-wisdom": "Craft practice often treats separated pieces as usable material whose grain, size, and condition remain worth knowing."
+  },
+  "tags": {
+    "activity": "a remainder produced during cutting or shaping",
+    "creation": "material available for possible reuse in another making process",
+    "physical": "a separated piece with its own dimensions and condition"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

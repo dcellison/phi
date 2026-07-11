@@ -1,0 +1,29 @@
+{
+  "word": "someru",
+  "gloss": "supervise",
+  "ipa": "/so̞.ˈme̞.ru/",
+  "syllables": [
+    "so",
+    "me",
+    "ru"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Supervise / Attend to Work Under Claimed Responsibility",
+  "description": "To observe, direct, or support another participant's performance within a stated scope under a claimed responsibility for the work. Supervision may include checking conditions, answering questions, coordinating dependencies, or intervening under defined rules. The word does not establish legitimate authority, competence, consent, liability, ownership of the result, or approval of the person or work.",
+  "sound_symbolism": "Opening 'so' gathers sustained attention, medial 'me' keeps that attention near a particular activity, and final 'ru' gives the claimed scope a firm boundary. The form suggests watchful continuity without making rank or command inherent in the word.",
+  "grammatical_notes": "A transitive verb: 'shia ha shiroka someru.' (They supervise the repair.) State the activity, participants, scope, claimed responsibility, and source of authority when these matter. The event-noun rule supplies supervision. Distinct from 'somela' (observe), 'wephari' (coordinate), 'ketora' (technical control), and 'thorae' (facilitator).",
+  "pillars": {
+    "peace-linguistics-practices": "Requiring speakers to identify the scope and claimed basis of supervision discourages silent expansion from attending to one task into authority over a whole person.",
+    "pre-industrial-wisdom": "Apprenticeship and shared craft often require close guidance, but the word keeps that practical relationship separate from permanent rank or ownership of another person's labor."
+  },
+  "tags": {
+    "activity": "attending to another participant's work within a stated scope",
+    "cognition": "observing conditions and responding to performance",
+    "community": "a bounded work relationship whose authority remains separately stated"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}
