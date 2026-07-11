@@ -1,11 +1,10 @@
 {
-  "word": "panumori",
+  "word": "panuri",
   "gloss": "resource",
-  "ipa": "/pä.n̪u.ˈmo̞.ri/",
+  "ipa": "/pä.ˈn̪u.ri/",
   "syllables": [
     "pa",
     "nu",
-    "mo",
     "ri"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Resource / Something Considered Available for a Purpose",
   "description": "A material, energy source, place, capacity, organism-derived product, body of information, or other stated thing considered available or potentially available for a stated purpose. Resource status is a relation among purpose, claimant, access, condition, time, and authority; it is not an inherent essence. The word does not establish ownership, entitlement, abundance, renewability, harmless extraction, consent, or that ecological and cultural relations may be ignored.",
-  "sound_symbolism": "Supporting 'panu' meets grounded 'mori', presenting usefulness as a relation carried by matter rather than a claim of possession. The word offers support without sounding like seizure.",
-  "grammatical_notes": "A countable or mass noun commonly modified by purpose or user: 'ha phialu ha thepalu panumori nai.' (The water is a resource for the garden.) State who treats it as available, for what purpose, under which access and authority. Distinct from 'mueralo' (material), 'laenu' (commons), 'phelu' (hold), and inherent worth 'rolia'.",
+  "sound_symbolism": "The supporting sequence 'pa.nu' presents possible usefulness, while final 'ri' makes that usefulness a relation to a stated purpose, claimant, time, and access. The word offers support without sounding like possession or seizure.",
+  "grammatical_notes": "A countable or mass noun commonly modified by purpose or user: 'ha phialu ha thepalu panuri nai.' (The water is a resource for the garden.) State who treats it as available, for what purpose, under which access and authority. Distinct from 'muralo' (material), 'laenu' (commons), 'phelu' (hold), and inherent worth 'rolia'.",
   "pillars": {
     "solarpunk-values": "Resource language remains available for planning while explicitly refusing the idea that usefulness grants ownership or erases ecological and cultural relationships.",
     "peace-linguistics-practices": "The definition requires claimants and authority to remain visible instead of turning land, beings, knowledge, or labor into anonymous available stock."

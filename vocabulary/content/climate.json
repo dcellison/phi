@@ -1,20 +1,19 @@
 {
-  "word": "melunaro",
+  "word": "meluri",
   "gloss": "climate",
-  "ipa": "/me̞.lu.ˈn̪ä.ro̞/",
+  "ipa": "/me̞.ˈlu.ri/",
   "syllables": [
     "me",
     "lu",
-    "na",
-    "ro"
+    "ri"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Climate / Long-Term Distribution and Pattern of Weather",
   "description": "The long-term distribution, variability, and recurring pattern of atmospheric conditions for a stated region, period, and set of measures. Climate can change and may be described at local, regional, or planetary scales. The word does not mean today's weather, one unusual event, a season, a climate model, a forecast, or proof that a particular event had one cause.",
-  "sound_symbolism": "Seasonal 'meluna' is reshaped into 'melunaro', extending repeated weather beyond one turning while grounding it in an analyzed pattern. The long middle gives time room to accumulate before the open conclusion.",
-  "grammatical_notes": "A mass or countable noun: 'ha melunaro ha howenari senao ma nai.' (This climate is not the same as this weather.) State region, period, variables, evidence, and model where relevant. Distinct from 'howenari' (weather), 'meluna' (season), and exact source terms for climate classifications or model outputs.",
+  "sound_symbolism": "The opening 'melu' echoes 'meluna' (season) while refusing to stop at one seasonal turn. Final 'ri' traces recurrence and variability across the accumulated record, making climate a long analyzed pattern rather than a fixed background.",
+  "grammatical_notes": "A mass or countable noun: 'ha meluri ha howenu senao ma nai.' (This climate is not the same as this weather.) State region, period, variables, evidence, and model where relevant. Distinct from 'howenu' (weather), 'meluna' (season), and exact source terms for climate classifications or model outputs.",
   "pillars": {
     "solarpunk-values": "Climate vocabulary lets communities discuss long-term conditions and adaptation without using one hot day or favored intervention as sufficient evidence.",
     "secular-buddhist-philosophy": "Climate is framed as a changing distribution across conditions and time, not a fixed essence of a place."

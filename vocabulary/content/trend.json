@@ -1,10 +1,9 @@
 {
-  "word": "helurani",
+  "word": "herani",
   "gloss": "trend",
-  "ipa": "/he̞.lu.ˈrä.n̪i/",
+  "ipa": "/he̞.ˈrä.n̪i/",
   "syllables": [
     "he",
-    "lu",
     "ra",
     "ni"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Trend / Direction or Pattern Across Ordered Observations",
   "description": "A direction or recurring pattern identified across a stated series of observations, measurements, states, places, or times. A trend may increase, decrease, fluctuate, persist, or change and depends on the selected period, variables, method, and uncertainty. The word does not mean one difference, a cause, correlation by itself, a prediction, a goal, fashion, popularity, or proof that the pattern will continue.",
-  "sound_symbolism": "Changing 'helu' extends through relational 'rani', drawing a path across observations rather than leaping from one point to a conclusion. The flowing middle leaves room for reversal and variation.",
-  "grammatical_notes": "A countable noun: 'ha helurani ha nomiraki thuroa shelo.' (This trend indicates increasing concentration.) State series, period, scale, method, and uncertainty where relevant. Distinct from 'helui' (change), 'shoeka' (route), causal explanation, correlation, and `wireo mirela kethira` (infer a future state).",
+  "sound_symbolism": "The opening 'he' is shared with 'helui' (change), while relational 'ra.ni' draws a bounded path across observations rather than leaping from one point to a conclusion. The open movement leaves room for reversal, persistence, and variation.",
+  "grammatical_notes": "A countable noun: 'ha herani ha nomiki thuroa shelo.' (This trend indicates increasing concentration.) State series, period, scale, method, and uncertainty where relevant. Distinct from 'helui' (change), 'shoeka' (route), causal explanation, correlation, and `wireo mirela kethira` (infer a future state).",
   "pillars": {
     "secular-buddhist-philosophy": "A trend names patterned change without turning continuity into certainty or one selected time window into an essence.",
     "peace-linguistics-practices": "Explicit scope and uncertainty make trend claims available for challenge instead of using apparent direction as unquestionable authority."

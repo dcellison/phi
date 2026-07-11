@@ -1,20 +1,19 @@
 {
-  "word": "howenari",
+  "word": "howenu",
   "gloss": "weather",
-  "ipa": "/ho̞.we̞.ˈn̪ä.ri/",
+  "ipa": "/ho̞.ˈwe̞.n̪u/",
   "syllables": [
     "ho",
     "we",
-    "na",
-    "ri"
+    "nu"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Weather / Atmospheric Conditions at a Place and Time",
   "description": "The atmospheric conditions and events occurring at a stated place and time or over a short stated period, potentially including temperature, wind, precipitation, cloud, humidity, pressure, visibility, and storms. Weather may be directly observed, measured, reported, or forecast. The word does not mean climate, a season, every environmental condition, a value judgment such as good weather, or proof of a long-term pattern.",
-  "sound_symbolism": "Wind-bearing 'howe' moves into grounded 'nari', joining changing air with a particular place and moment. The four syllables pass quickly enough to feel temporary without sounding trivial.",
-  "grammatical_notes": "A mass noun: 'ha howenari sulae nai.' (This weather is warm.) Name place, time, source, and exact variables when they matter. Distinct from individual roots such as 'pheralu' (rain) and 'kurisha' (storm), from 'meluna' (season), and from 'melunaro' (climate).",
+  "sound_symbolism": "The complete wind-bearing opening 'howe', shared with 'howeli' (wind), brings changing air into motion. Final 'nu' closes a temporary episode at a stated place and time, making weather transient without making it trivial.",
+  "grammatical_notes": "A mass noun: 'ha howenu sulae nai.' (This weather is warm.) Name place, time, source, and exact variables when they matter. Distinct from individual roots such as 'pheralu' (rain) and 'kurisha' (storm), from 'meluna' (season), and from 'meluri' (climate).",
   "pillars": {
     "solarpunk-values": "Weather language supports practical care, work, access, shelter, water, and energy decisions while keeping one event distinct from climate evidence.",
     "pre-industrial-wisdom": "Close attention to immediate sky, wind, rain, heat, and cold remains a situated practice rather than an abstract forecast alone."

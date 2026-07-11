@@ -1,11 +1,10 @@
 {
-  "word": "mothanomi",
+  "word": "mothami",
   "gloss": "baseline",
-  "ipa": "/mo̞.θä.ˈn̪o̞.mi/",
+  "ipa": "/mo̞.ˈθä.mi/",
   "syllables": [
     "mo",
     "tha",
-    "no",
     "mi"
   ],
   "pos": [
@@ -13,8 +12,8 @@
   ],
   "concept": "Baseline / Stated Reference Condition for Comparison",
   "description": "A documented state, measurement set, period, place, population, or other stated condition chosen as a reference for later or alternative comparison. A baseline may be historical, measured, modeled, reconstructed, or administratively selected and may itself contain change or uncertainty. The word does not mean original nature, ideal condition, target, average, cause, moral norm, or proof that the reference is fair or complete.",
-  "sound_symbolism": "Foundation-bearing 'motha' meets state-like 'nomi', setting a comparison point beneath later observations without pretending it is the beginning of the world. The grounded middle supports revision when the reference changes.",
-  "grammatical_notes": "A countable noun: 'ha mirela ha mothanomi senao ma nai.' (This state is not the same as this baseline.) State variables, place, period, method, source, and uncertainty where relevant. Distinct from 'motha' (foundation), `mirela` (state), target condition, ordinary past, and an exact reference dataset.",
+  "sound_symbolism": "The complete foundation-bearing form 'motha' sets a reference beneath later comparisons without pretending it is the beginning of the world. Final 'mi' gathers the selected state, measurements, or period into one held comparison point that can still be revised.",
+  "grammatical_notes": "A countable noun: 'ha mirela ha mothami senao ma nai.' (This state is not the same as this baseline.) State variables, place, period, method, source, and uncertainty where relevant. Distinct from 'motha' (foundation), `mirela` (state), target condition, ordinary past, and an exact reference dataset.",
   "pillars": {
     "solarpunk-values": "Baselines make restoration and monitoring claims accountable while preventing a preferred past or selected dataset from becoming an unquestioned natural ideal.",
     "secular-buddhist-philosophy": "The reference is acknowledged as selected, conditioned, and revisable rather than an eternal original state."

@@ -1,10 +1,9 @@
 {
-  "word": "limaweso",
+  "word": "liweso",
   "gloss": "ecological community",
-  "ipa": "/li.mä.ˈwe̞.so̞/",
+  "ipa": "/li.ˈwe̞.so̞/",
   "syllables": [
     "li",
-    "ma",
     "we",
     "so"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Ecological Community / Co-Occurring Populations in Relation",
   "description": "Two or more populations of different species or source-defined living groups considered together within a selected place and time because their presence or interactions matter to an ecological question. The word does not assert harmony, mutual benefit, complete inclusion, stable membership, a food web, or a human social community. The chosen organisms, boundary, relations, and omissions remain part of the analysis.",
-  "sound_symbolism": "Living 'lima' opens into mutual 'weso', letting several populations meet without merging their differences. The rounded ending suggests coexistence while leaving competition, predation, and absence equally speakable.",
-  "grammatical_notes": "A countable noun: 'ha limaweso lo limaloni lorea.' (This ecological community connects populations.) State the selected place, time, populations, and relation where ambiguity matters. Distinct from 'sila' (human community), 'phaliso' (network), 'limatero' (ecosystem), and a simple list of species.",
+  "sound_symbolism": "Living 'li' opens into the complete mutual form 'weso', letting several populations meet without merging their differences. The rounded ending suggests coexistence while leaving competition, predation, asymmetry, and absence equally speakable.",
+  "grammatical_notes": "A countable noun: 'ha liweso lo liloni lorea.' (This ecological community connects populations.) State the selected place, time, populations, and relation where ambiguity matters. Distinct from 'sila' (human community), 'phaliso' (network), 'litero' (ecosystem), and a simple list of species.",
   "pillars": {
     "solarpunk-values": "The word makes multispecies consequences available to community decisions without assuming that ecological relations are peaceful or self-balancing.",
     "art-nouveau-aesthetics": "Different living forms are understood through their patterned coexistence, while aesthetic interweaving remains distinct from ecological function."

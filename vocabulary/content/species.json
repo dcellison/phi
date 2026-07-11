@@ -1,10 +1,9 @@
 {
-  "word": "limakori",
+  "word": "likori",
   "gloss": "species",
-  "ipa": "/li.mä.ˈko̞.ri/",
+  "ipa": "/li.ˈko̞.ri/",
   "syllables": [
     "li",
-    "ma",
     "ko",
     "ri"
   ],
@@ -13,8 +12,8 @@
   ],
   "concept": "Species / Source-Defined Biological Kind",
   "description": "A biological category whose members are treated as one kind under a stated scientific, practical, or knowledge-tradition account. Different species concepts may use reproduction, descent, form, ecology, genetics, or other criteria, so the word does not choose one universal definition. It does not rank kinds of life, replace an exact taxonomic name, establish identity from appearance, or grant authority over the beings classified.",
-  "sound_symbolism": "Living 'lima' meets the clear kind-edge of 'kori', gathering resemblance without closing it into an eternal essence. The firm middle invites the speaker to state the criterion being used.",
-  "grammatical_notes": "A countable noun: 'lo ha limakori nolika phirae nai.' (The animals of this species are different.) Exact scientific names, ranks, authorities, and source-community categories remain in separate source material. Distinct from 'limoe' (creature), ordinary kind descriptions, population, and a taxonomic name itself.",
+  "sound_symbolism": "Living 'li' meets the clear kind-edge of 'ko.ri', gathering resemblance without closing it into an eternal essence. The firm middle invites the speaker to state which scientific, practical, or traditional criterion is being used.",
+  "grammatical_notes": "A countable noun: 'lo ha likori nolika phirae nai.' (The animals of this species are different.) Exact scientific names, ranks, authorities, and source-community categories remain in separate source material. Distinct from 'limoe' (creature), ordinary kind descriptions, population, and a taxonomic name itself.",
   "pillars": {
     "secular-buddhist-philosophy": "The definition treats a species as a useful conditioned category rather than an unchanging essence whose boundary is independent of purpose and evidence.",
     "peace-linguistics-practices": "Classification is kept separate from hierarchy, possession, and the authority to erase a community or tradition's own distinctions."
