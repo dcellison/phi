@@ -1,0 +1,29 @@
+{
+  "word": "kanuloa",
+  "gloss": "authorize",
+  "ipa": "/kä.n̪u.ˈlo̞.ä/",
+  "syllables": [
+    "ka",
+    "nu",
+    "lo",
+    "a"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Authorize / Grant Bounded Permission or Decision Power",
+  "description": "To grant or recognize a stated person, role, group, or institution as permitted or empowered to perform a specified action or make a specified decision within a stated scope, time, source, and condition. Through the event-noun rule the word also names authorization. Authorization does not establish competence, consent of affected people, practical possibility, ownership, legitimacy, success, or authority beyond the grant.",
+  "sound_symbolism": "Choosing 'kanu' moves into open giving 'loa', making authorization a grant rather than an inherent property of the recipient. The final hiatus leaves the limits of that grant exposed.",
+  "grammatical_notes": "A transitive verb with the authorizing source as subject, recipient in a dative phrase, and action or role as object: 'ha punoraki wei ha wemakori ha terulora nilakiro kanuloa.' (The institution authorizes the member to inspect the system.) The event-noun rule supplies authorization. Distinct from permission inferred through 'po', 'loathora' (delegate), competence, consent, and legitimate authority.",
+  "pillars": {
+    "solarpunk-values": "Explicit authorization allows communities to distribute action while recording limits, revocation, and the source of decision power.",
+    "peace-linguistics-practices": "A named grant prevents permission, capacity, consent, and institutional power from being inferred from silence, role labels, or technical knowledge."
+  },
+  "tags": {
+    "activity": "granting bounded permission or decision power",
+    "community": "institutional authorization with a stated source and scope"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

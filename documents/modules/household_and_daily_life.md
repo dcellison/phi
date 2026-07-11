@@ -26,6 +26,8 @@ The profile deliberately retains broad terms such as `theama` (care), `palo` (to
 
 The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `mueralo` material, `panumori` resource, `whemorali` waste, `moralume` decompose, `lumeraki` nutrient, `turekelu` recycle, `howenari` weather, `melunaro` climate, `phaluwero` flood, and `kurathimo` drought. Household speakers may use these terms when the ecological distinction matters, but none makes a domestic object inherently waste, grants access to a resource, proves recycling harmless, or decides how household burdens should be shared.
 
+The established [Commons and Collective Governance module](commons_and_collective_governance.md) supplies `wemakori` member, `silathora` role, `kanorami` authority, `nasholu` rule, `kanusholu` decision, `phanokelu` allocate, `sherenori` entitlement, `phelunori` ownership, `naserumi` obligation, `siranomi` record, `kanuwhera` coerce, and `whekapelo` retaliate. Household speakers may use these terms where institutional relations actually apply, but a home is not automatically an institution, domestic roles and obligations may be contested, ownership does not establish safety or belonging, and collective vocabulary must not conceal coercion or unequal labor.
+
 ## Existing Practice
 
 The profile begins with [primer chapter 1](../../primer/01_the_household.md), which already introduces the word for home, family and friendship roles, and a small scene. It then moves from naming a dwelling to ordinary shared acts: prepare food, eat, rest, clean, repair, and decide what needs tending.

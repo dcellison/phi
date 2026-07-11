@@ -1,0 +1,28 @@
+{
+  "word": "lonathoni",
+  "gloss": "accountable",
+  "ipa": "/lo̞.n̪ä.ˈθo̞.n̪i/",
+  "syllables": [
+    "lo",
+    "na",
+    "tho",
+    "ni"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Accountable / Required to Answer and Undergo Review",
+  "description": "Of a person, role, group, or institution, required under a stated relationship or source to give an account of an action, omission, decision, resource, or outcome and to undergo a stated review or response. Accountability may concern explanation, correction, redress, removal, or another specified consequence. By the quality-noun rule the word also names accountability. It does not establish causation, guilt, blame, voluntary responsibility, legitimacy, punishment, or which response is justified.",
+  "sound_symbolism": "Responding 'lonae' meets duty-bearing 'thoni', making accountability an answerable relationship rather than a moral weight hidden inside the person. The firm final syllable returns the account to a stated recipient.",
+  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'lonathoni silathora' (an accountable role); 'ha woru lonathoni nai.' (This keeper is accountable.) State accountable to whom, for what, under which source, through which review, and with which possible response. The quality-noun rule supplies accountability. Distinct from 'thonai' (willingly responsible), causation, 'naserumi' (obligation), blame, and punishment.",
+  "pillars": {
+    "solarpunk-values": "Accountability lets shared institutions carry maintenance, ecological consequences, access, and resource decisions beyond personal goodwill or informal memory.",
+    "peace-linguistics-practices": "Requiring an account without presuming guilt keeps explanation, evidence, affected testimony, response, and repair separate from accusation or automatic punishment."
+  },
+  "tags": {
+    "community": "answerability for a stated matter under a review relationship"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

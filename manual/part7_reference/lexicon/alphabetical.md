@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1014 words.*
+*1044 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -27,8 +27,10 @@
 | `helia` | youth | /he̞.ˈli.ä/ | noun |
 | `heloa` | remedy | /he̞.ˈlo̞.ä/ | noun |
 | `heloi` | generous | /he̞.ˈlo̞.i/ | adjective |
+| `helokelu` | redress | /he̞.lo̞.ˈke̞.lu/ | verb |
 | `helu` | smooth | /ˈhe̞.lu/ | adjective |
 | `helui` | change | /he̞.ˈlu.i/ | verb |
+| `helunari` | amend | /he̞.lu.ˈn̪ä.ri/ | verb |
 | `helurani` | trend | /he̞.lu.ˈrä.n̪i/ | noun |
 | `hemilo` | honey | /he̞.ˈmi.lo̞/ | noun |
 | `heno` | satisfy | /ˈhe̞.n̪o̞/ | verb |
@@ -68,7 +70,12 @@
 | `kalora` | horse | /kä.ˈlo̞.rä/ | noun |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
 | `kanelu` | err | /kä.ˈn̪e̞.lu/ | verb |
+| `kanorami` | authority | /kä.n̪o̞.ˈrä.mi/ | noun |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
+| `kanuloa` | authorize | /kä.n̪u.ˈlo̞.ä/ | verb |
+| `kanusholu` | decision | /kä.n̪u.ˈʃo̞.lu/ | noun |
+| `kanusira` | vote | /kä.n̪u.ˈsi.rä/ | verb |
+| `kanuwhera` | coerce | /kä.n̪u.ˈʍe̞.rä/ | verb |
 | `kapura` | shout | /kä.ˈpu.rä/ | verb |
 | `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
 | `kathu` | seal | /ˈkä.θu/ | noun |
@@ -119,6 +126,7 @@
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
 | `kire` | shape | /ˈki.re̞/ | verb |
 | `kiremoa` | criterion | /ki.re̞.ˈmo̞.ä/ | noun |
+| `kirethua` | legitimate | /ki.re̞.ˈθu.ä/ | adjective |
 | `kiro` | precise | /ˈki.ro̞/ | adjective |
 | `kiroa` | sign | /ki.ˈro̞.ä/ | noun |
 | `kirosholu` | specification | /ki.ro̞.ˈʃo̞.lu/ | noun |
@@ -208,6 +216,7 @@
 | `lo` | PL | /ˈlo̞/ | particle |
 | `loa` | give | /ˈlo̞.ä/ | verb |
 | `loamira` | gift | /lo̞.ä.ˈmi.rä/ | noun |
+| `loathora` | delegate | /lo̞.ä.ˈθo̞.rä/ | verb |
 | `loesi` | oil | /lo̞.ˈe̞.si/ | noun |
 | `loetha` | open (receptive) | /lo̞.ˈe̞.θä/ | adjective |
 | `lohau` | dog | /lo̞.ˈhä.u/ | noun |
@@ -218,6 +227,7 @@
 | `lona` | meeting | /ˈlo̞.n̪ä/ | noun |
 | `lonae` | respond | /lo̞.ˈn̪ä.e̞/ | verb |
 | `lonai` | width | /lo̞.ˈn̪ä.i/ | noun |
+| `lonathoni` | accountable | /lo̞.n̪ä.ˈθo̞.n̪i/ | adjective |
 | `lopha` | vessel | /ˈlo̞.ɸä/ | noun |
 | `lophae` | storyteller | /lo̞.ˈɸä.e̞/ | noun |
 | `lopia` | child | /lo̞.ˈpi.ä/ | noun |
@@ -267,6 +277,7 @@
 | `masue` | measure | /mä.ˈsu.e̞/ | verb |
 | `masukiro` | calibrate | /mä.su.ˈki.ro̞/ | verb |
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
+| `mawokelu` | abstain | /mä.wo̞.ˈke̞.lu/ | verb |
 | `mea` | thanks | /ˈme̞.ä/ | interjection |
 | `meilo` | sit | /me̞.ˈi.lo̞/ | verb |
 | `meilopa` | seat | /me̞.i.ˈlo̞.pä/ | noun |
@@ -362,11 +373,15 @@
 | `napa` | bread | /ˈn̪ä.pä/ | noun |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
+| `naserumi` | obligation | /n̪ä.se̞.ˈru.mi/ | noun |
+| `nashakelu` | enforce | /n̪ä.ʃä.ˈke̞.lu/ | verb |
+| `nasholu` | rule | /n̪ä.ˈʃo̞.lu/ | noun |
 | `natheri` | entail | /n̪ä.ˈθe̞.ri/ | verb |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
 | `nawea` | respect | /n̪ä.ˈwe̞.ä/ | verb |
 | `naweri` | refuse | /n̪ä.ˈwe̞.ri/ | verb |
 | `nawo` | agree | /ˈn̪ä.wo̞/ | verb |
+| `nawoweso` | consensus | /n̪ä.wo̞.ˈwe̞.so̞/ | noun |
 | `ne` | NAME | /ˈn̪e̞/ | particle |
 | `nea` | aha | /ˈn̪e̞.ä/ | interjection |
 | `nekuma` | meat | /n̪e̞.ˈku.mä/ | noun |
@@ -412,6 +427,7 @@
 | `nophei` | loyal | /n̪o̞.ˈɸe̞.i/ | adjective |
 | `nophi` | story | /ˈn̪o̞.ɸi/ | noun |
 | `norae` | method | /n̪o̞.ˈrä.e̞/ | noun |
+| `norathume` | procedure | /n̪o̞.rä.ˈθu.me̞/ | noun |
 | `norawhi` | dusk | /n̪o̞.ˈrä.ʍi/ | noun |
 | `norawiso` | interface | /n̪o̞.rä.ˈwi.so̞/ | noun |
 | `norea` | soul | /n̪o̞.ˈre̞.ä/ | noun |
@@ -420,6 +436,7 @@
 | `noru` | bowl | /ˈn̪o̞.ru/ | noun |
 | `norui` | boundary | /n̪o̞.ˈru.i/ | noun |
 | `noruwa` | generation | /n̪o̞.ˈru.wä/ | noun |
+| `noruwela` | jurisdiction | /n̪o̞.ru.ˈwe̞.lä/ | noun |
 | `nosa` | now | /ˈn̪o̞.sä/ | noun |
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
 | `nowae` | awaken | /n̪o̞.ˈwä.e̞/ | verb |
@@ -490,6 +507,7 @@
 | `phaluwero` | flood | /ɸä.lu.ˈwe̞.ro̞/ | verb |
 | `phamo` | console | /ˈɸä.mo̞/ | verb |
 | `phanoi` | portion | /ɸä.ˈn̪o̞.i/ | verb |
+| `phanokelu` | allocate | /ɸä.n̪o̞.ˈke̞.lu/ | verb |
 | `phanu` | canvas | /ˈɸä.n̪u/ | noun |
 | `phao` | parent | /ˈɸä.o̞/ | noun |
 | `pharea` | adult | /ɸä.ˈre̞.ä/ | noun |
@@ -509,6 +527,7 @@
 | `phelu` | hold | /ˈɸe̞.lu/ | verb |
 | `phelui` | word | /ɸe̞.ˈlu.i/ | noun |
 | `pheluka` | lightning | /ɸe̞.ˈlu.kä/ | noun |
+| `phelunori` | ownership | /ɸe̞.lu.ˈn̪o̞.ri/ | noun |
 | `pheluremi` | store | /ɸe̞.lu.ˈre̞.mi/ | verb |
 | `phemi` | guest | /ˈɸe̞.mi/ | noun |
 | `phemila` | host | /ɸe̞.ˈmi.lä/ | noun |
@@ -587,6 +606,7 @@
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
+| `punoraki` | institution | /pu.n̪o̞.ˈrä.ki/ | noun |
 | `puro` | strength | /ˈpu.ro̞/ | noun |
 | `puse` | spit | /ˈpu.se̞/ | verb |
 | `ra` | DIST | /ˈrä/ | particle |
@@ -602,6 +622,7 @@
 | `remo` | think | /ˈre̞.mo̞/ | verb |
 | `remolea` | concept | /re̞.mo̞.ˈle̞.ä/ | noun |
 | `remoluma` | conclusion | /re̞.mo̞.ˈlu.mä/ | noun |
+| `remopora` | propose | /re̞.mo̞.ˈpo̞.rä/ | verb |
 | `remotha` | reason | /re̞.ˈmo̞.θä/ | noun |
 | `rena` | REL | /ˈre̞.n̪ä/ | complementizer |
 | `renoa` | liberate | /re̞.ˈn̪o̞.ä/ | verb |
@@ -662,6 +683,8 @@
 | `shalu` | fish | /ˈʃä.lu/ | noun |
 | `shalumi` | salmon | /ʃä.ˈlu.mi/ | noun |
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
+| `shanelori` | represent | /ʃä.n̪e̞.ˈlo̞.ri/ | verb |
+| `shaneweli` | notify | /ʃä.n̪e̞.ˈwe̞.li/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
 | `sharoi` | exceed | /ʃä.ˈro̞.i/ | verb |
@@ -685,6 +708,7 @@
 | `sheno` | ADD | /ˈʃe̞.n̪o̞/ | discourse |
 | `sheo` | THAN | /ˈʃe̞.o̞/ | preposition |
 | `sheori` | communicate | /ʃe̞.ˈo̞.ri/ | verb |
+| `sherenori` | entitlement | /ʃe̞.re̞.ˈn̪o̞.ri/ | noun |
 | `sherewa` | claim | /ʃe̞.ˈre̞.wä/ | verb |
 | `shero` | night | /ˈʃe̞.ro̞/ | noun |
 | `sheru` | slow | /ˈʃe̞.ru/ | adjective |
@@ -723,6 +747,7 @@
 | `si` | IPFV | /ˈsi/ | particle |
 | `siheloa` | breeze | /si.he̞.ˈlo̞.ä/ | noun |
 | `sila` | community | /ˈsi.lä/ | noun |
+| `silathora` | role | /si.lä.ˈθo̞.rä/ | noun |
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |
 | `silero` | star | /si.ˈle̞.ro̞/ | noun |
@@ -731,6 +756,7 @@
 | `simoe` | rich | /si.ˈmo̞.e̞/ | adjective |
 | `sio` | BESIDE | /ˈsi.o̞/ | preposition |
 | `siora` | joy | /si.ˈo̞.rä/ | adjective |
+| `siranomi` | record | /si.rä.ˈn̪o̞.mi/ | verb |
 | `siru` | marker | /ˈsi.ru/ | noun |
 | `siwe` | sweat | /ˈsi.we̞/ | noun |
 | `so` | FUT | /ˈso̞/ | particle |
@@ -923,6 +949,7 @@
 | `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
 | `turekali` | feedback | /t̪u.re̞.ˈkä.li/ | noun |
 | `turekelu` | recycle | /t̪u.re̞.ˈke̞.lu/ | verb |
+| `turekiro` | review | /t̪u.re̞.ˈki.ro̞/ | verb |
 | `turema` | return | /t̪u.ˈre̞.mä/ | verb |
 | `wa` | Q | /ˈwä/ | particle |
 | `waeli` | conscious | /wä.ˈe̞.li/ | adjective |
@@ -950,6 +977,7 @@
 | `welua` | fragile | /we̞.ˈlu.ä/ | adjective |
 | `welura` | spread | /we̞.ˈlu.rä/ | verb |
 | `wema` | belong | /ˈwe̞.mä/ | verb |
+| `wemakori` | member | /we̞.mä.ˈko̞.ri/ | noun |
 | `wemi` | ally | /ˈwe̞.mi/ | noun |
 | `wemo` | plain | /ˈwe̞.mo̞/ | noun |
 | `weni` | imagine | /ˈwe̞.n̪i/ | verb |
@@ -973,7 +1001,9 @@
 | `wharemoi` | doubt | /ʍä.re̞.ˈmo̞.i/ | verb |
 | `wheiluro` | mist | /ʍe̞.i.ˈlu.ro̞/ | noun |
 | `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
+| `whekapelo` | retaliate | /ʍe̞.kä.ˈpe̞.lo̞/ | verb |
 | `whekatelu` | refute | /ʍe̞.kä.ˈt̪e̞.lu/ | verb |
+| `whekatuma` | appeal | /ʍe̞.kä.ˈt̪u.mä/ | verb |
 | `whekelua` | magic | /ʍe̞.ke̞.ˈlu.ä/ | noun |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |
 | `wheli` | ANY | /ˈʍe̞.li/ | quantifier |

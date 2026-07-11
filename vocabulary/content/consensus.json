@@ -1,0 +1,29 @@
+{
+  "word": "nawoweso",
+  "gloss": "consensus",
+  "ipa": "/n̪ä.wo̞.ˈwe̞.so̞/",
+  "syllables": [
+    "na",
+    "wo",
+    "we",
+    "so"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Consensus / Stated Collective Decision Condition",
+  "description": "A collective decision condition in which the defined participants had the stated opportunity to take part and no unresolved objection blocks the proposal under the stated consensus rule. Consensus may allow reservations, abstention, limited participation, or later review depending on the procedure. The word does not mean private unanimity, silence, absence of conflict, universal inclusion, consent to every action, legitimacy, truth, justice, or harmony.",
+  "sound_symbolism": "Agreement 'nawo' opens into mutual 'weso', gathering public stances without pretending that minds or interests have become identical. The paired middle vowels keep reservation and relationship present together.",
+  "grammatical_notes": "A countable or mass noun: 'ha kanusholu nawoweso phelu.' (This decision has consensus.) State participants, opportunity, blocking rule, reservations, abstentions, exclusions, and review conditions. Distinct from 'nawo' (agree), unanimity, consent, 'lei' (harmony), majority vote, and legitimacy.",
+  "pillars": {
+    "solarpunk-values": "Consensus can support cooperative self-governance when participation, blocking conditions, exclusions, urgency, and unequal burdens remain visible.",
+    "peace-linguistics-practices": "A bounded term prevents silence, exhaustion, compliance, or the absence of a recorded objection from being celebrated automatically as shared agreement."
+  },
+  "tags": {
+    "community": "a defined collective decision condition",
+    "dialogue": "public stances considered under a stated consensus rule"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

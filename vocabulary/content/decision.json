@@ -1,0 +1,29 @@
+{
+  "word": "kanusholu",
+  "gloss": "decision",
+  "ipa": "/kä.n̪u.ˈʃo̞.lu/",
+  "syllables": [
+    "ka",
+    "nu",
+    "sho",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Decision / Choice Given Settled or Actionable Status",
+  "description": "A choice or determination treated by a stated person, group, role, institution, or procedure as settled, operative, or actionable for a stated scope and time. A decision may be provisional, contested, ignored, amended, reversed, or made under urgency. The word does not mean the act of choosing, proposal, preference, consensus, agreement, consent, legitimacy, implementation, outcome, or source-specific judgment.",
+  "sound_symbolism": "Choosing 'kanu' enters a defined and continuing contour, turning one selection into a status that others may act on or contest. The weight of four syllables distinguishes an institutional decision from an ordinary moment of preference.",
+  "grammatical_notes": "A countable noun: 'ha kowela ha kanusholu to phoa.' (The council made this decision.) Name decision maker, procedure, scope, effective time, objections, and review status where needed. Distinct from 'kanu' (choose), 'remopora' (propose), 'nawoweso' (consensus), agreement, implementation, and exact adjudicative terms.",
+  "pillars": {
+    "solarpunk-values": "Collective projects need decisions that remain traceable to participants, resources, conditions, and future review rather than dissolving into vague communal intention.",
+    "peace-linguistics-practices": "Separating decision from agreement, consent, legitimacy, and compliance preserves dissent after a group begins to act."
+  },
+  "tags": {
+    "cognition": "a choice assigned settled or actionable status",
+    "community": "a collective or institutional decision with stated scope"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

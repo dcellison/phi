@@ -8,6 +8,43 @@
 *Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study.*
 
 
+## Commons and Collective Governance
+
+*30 module words.*
+
+| Word | Gloss | Part of speech | Concept |
+|---|---|---|---|
+| `helokelu` | redress | verb | Redress |
+| `helunari` | amend | verb | Amend |
+| `kanorami` | authority | noun | Authority |
+| `kanuloa` | authorize | verb | Authorize |
+| `kanusholu` | decision | noun | Decision |
+| `kanusira` | vote | verb | Vote |
+| `kanuwhera` | coerce | verb | Coerce |
+| `kirethua` | legitimate | adjective | Legitimate |
+| `loathora` | delegate | verb | Delegate |
+| `lonathoni` | accountable | adjective | Accountable |
+| `mawokelu` | abstain | verb | Abstain |
+| `naserumi` | obligation | noun | Obligation |
+| `nashakelu` | enforce | verb | Enforce |
+| `nasholu` | rule | noun | Rule |
+| `nawoweso` | consensus | noun | Consensus |
+| `norathume` | procedure | noun | Procedure |
+| `noruwela` | jurisdiction | noun | Jurisdiction |
+| `phanokelu` | allocate | verb | Allocate |
+| `phelunori` | ownership | noun | Ownership |
+| `punoraki` | institution | noun | Institution |
+| `remopora` | propose | verb | Propose |
+| `shanelori` | represent | verb | Represent |
+| `shaneweli` | notify | verb | Notify |
+| `sherenori` | entitlement | noun | Entitlement |
+| `silathora` | role | noun | Role |
+| `siranomi` | record | verb | Record |
+| `turekiro` | review | verb | Review |
+| `wemakori` | member | noun | Member |
+| `whekapelo` | retaliate | verb | Retaliate |
+| `whekatuma` | appeal | verb | Appeal |
+
 ## Ecological Systems and Material Life
 
 *30 module words.*

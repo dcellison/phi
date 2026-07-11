@@ -1,0 +1,29 @@
+{
+  "word": "whekapelo",
+  "gloss": "retaliate",
+  "ipa": "/ʍe̞.kä.ˈpe̞.lo̞/",
+  "syllables": [
+    "whe",
+    "ka",
+    "pe",
+    "lo"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Retaliate / Impose Harm in Response to Protected or Contested Action",
+  "description": "To harm, threaten, exclude, burden, remove opportunity from, or otherwise disadvantage a person or group in response to their report, refusal, criticism, claim, appeal, participation, association, or other stated action, especially through an unequal power relation. Through the event-noun rule the word also names retaliation. Retaliation does not mean every response, disagreement, defense, consequence, sanction, loss of trust, or independently justified action; the triggering act, harm, agent, authority, and causal evidence must be stated.",
+  "sound_symbolism": "Challenge-bearing 'wheka' turns into harmful 'pelo', tracing injury back to a prior act without making every later consequence retaliatory. The falling ending gives the response weight rather than triumph.",
+  "grammatical_notes": "A transitive verb with the retaliating agent as subject and the targeted person or group as object: 'ha silathora miona ha wemakori whekapelo.' (The role holder retaliates against the member.) State the triggering action, disadvantage, timing, power relation, evidence, and alternative explanation. The event-noun rule supplies retaliation. Distinct from ordinary response, disagreement, defense, enforcement, redress, and a source-specific sanction.",
+  "pillars": {
+    "solarpunk-values": "Commons cannot remain participatory when reporting hazards, refusing work, appealing decisions, or criticizing stewardship exposes people to hidden institutional punishment.",
+    "peace-linguistics-practices": "Naming retaliation makes delayed and indirect harm discussable without presuming that every adverse consequence was intentional or causally connected."
+  },
+  "tags": {
+    "activity": "imposing a disadvantage in response to a stated prior action",
+    "community": "retaliation through a social or institutional power relation"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

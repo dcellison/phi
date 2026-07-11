@@ -1,0 +1,29 @@
+{
+  "word": "phanokelu",
+  "gloss": "allocate",
+  "ipa": "/ɸä.n̪o̞.ˈke̞.lu/",
+  "syllables": [
+    "pha",
+    "no",
+    "ke",
+    "lu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Allocate / Assign Resources, Access, Time, or Burdens",
+  "description": "To assign a stated quantity, resource, access opportunity, time, task, benefit, burden, or capacity among stated recipients, purposes, places, or periods under a stated criterion and decision source. Through the event-noun rule the word also names allocation. Allocation does not itself divide material, deliver it, establish ownership or entitlement, satisfy need, obtain consent, or prove that the criterion or result is equal, fair, sufficient, efficient, or legitimate.",
+  "sound_symbolism": "Portioning 'phanoi' enters changing 'kelu', marking a change in assigned relation rather than praising the distribution. The four syllables slow the move from available whole to selected recipients.",
+  "grammatical_notes": "A transitive verb with the allocating agent as subject and the assigned resource or burden as object: 'ha kowela napuro phanokelu.' (The council allocates grain.) State recipients, uses, amounts, timing, criterion, rejected claims, and source separately. The event-noun rule supplies allocation. Distinct from 'phanoi' (portion), 'phowe' (share), delivery, 'sherenori' (entitlement), and fair distribution.",
+  "pillars": {
+    "solarpunk-values": "Commons governance requires explicit allocation of scarce and abundant resources across present needs, future regeneration, maintenance, and unequal burdens.",
+    "peace-linguistics-practices": "A value-neutral allocation term keeps the criterion and rejected claims visible instead of allowing words for sharing or fairness to endorse the outcome in advance."
+  },
+  "tags": {
+    "activity": "assigning a resource, opportunity, or burden under a criterion",
+    "community": "collective allocation among stated recipients or purposes"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

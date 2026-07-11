@@ -1,0 +1,29 @@
+{
+  "word": "kanusira",
+  "gloss": "vote",
+  "ipa": "/kä.n̪u.ˈsi.rä/",
+  "syllables": [
+    "ka",
+    "nu",
+    "si",
+    "ra"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Vote / Formally Register a Choice or Stance",
+  "description": "To formally register a selection, ranking, approval, rejection, or other stated stance within a defined decision procedure. Through the event-noun rule the word also names a vote. Voting does not define who is eligible, how votes are weighted or counted, whether a ballot is secret, what threshold applies, whether the outcome becomes a decision, or whether the procedure is inclusive, legitimate, fair, binding, or consented to.",
+  "sound_symbolism": "Choosing 'kanu' meets marker-like 'sira', turning a stance into a recorded procedural act without making the mark sovereign. The firm ending suits countable registration while leaving the counting rule external.",
+  "grammatical_notes": "A transitive verb with the voter as subject and the proposal, candidate, option, or stance as object: 'lo wemakori ha remopora kanusira.' (The members vote on this proposal.) The event-noun rule supplies a vote. Preserve exact ballot and counting rules in 'patha ... patho'. Distinct from 'kanu' (choose), 'nawo' (agree), 'mawokelu' (abstain), polling, and a decision outcome.",
+  "pillars": {
+    "solarpunk-values": "Voting is one available coordination tool whose access, weighting, thresholds, ecological stakes, and institutional consequences must remain design choices.",
+    "peace-linguistics-practices": "The word separates a recorded procedural stance from personal agreement, consent, voice, legitimacy, and the treatment of people who lose or abstain."
+  },
+  "tags": {
+    "activity": "formally registering a choice or stance",
+    "community": "a vote within a defined collective procedure"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}
