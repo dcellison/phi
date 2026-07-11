@@ -15,7 +15,7 @@ The module does not replace Phi's existing language of land, water, weather even
 | Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `tokemi` fungus |
 | Relations and transformations | `menui` dwell, `nuola` eat, `lumera` nourish, `panoru` support, `lorea` connect, `selu` flow, `kelu` become, `thuroa` grow, `lumeo` die, `nuri` cycle, `turema` return |
 | Care and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
-| Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneholu` tradeoff |
+| Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneho` tradeoff |
 
 The Systems and Shared Infrastructure module supplies useful shared terms such as `terulora` system, `nomirela` state, `phelorani` dependency, `koemari` input, `thirulo` output, `selokaru` transfer, `turekali` feedback, `henoraki` capacity, `pelomaru` hazard, and `kirosholu` specification. These technical relations remain available without becoming ecological conclusions by themselves.
 

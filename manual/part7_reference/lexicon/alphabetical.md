@@ -123,7 +123,7 @@
 | `kira` | key | /ˈki.rä/ | noun |
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
 | `kire` | shape | /ˈki.re̞/ | verb |
-| `kiremoa` | criterion | /ki.re̞.ˈmo̞.ä/ | noun |
+| `kirema` | criterion | /ki.ˈre̞.mä/ | noun |
 | `kirethua` | legitimate | /ki.re̞.ˈθu.ä/ | adjective |
 | `kiro` | precise | /ˈki.ro̞/ | adjective |
 | `kiroa` | sign | /ki.ˈro̞.ä/ | noun |
@@ -269,7 +269,7 @@
 | `maeli` | quiet | /mä.ˈe̞.li/ | adjective |
 | `maewo` | threshold | /mä.ˈe̞.wo̞/ | noun |
 | `malomi` | balance | /mä.ˈlo̞.mi/ | verb |
-| `malonawi` | compromise | /mä.lo̞.ˈn̪ä.wi/ | verb |
+| `manawi` | compromise | /mä.ˈn̪ä.wi/ | verb |
 | `manolu` | stay | /mä.ˈn̪o̞.lu/ | verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
 | `masue` | measure | /mä.ˈsu.e̞/ | verb |
@@ -539,6 +539,7 @@
 | `phewo` | sage | /ˈɸe̞.wo̞/ | noun |
 | `phialu` | water | /ɸi.ˈä.lu/ | noun |
 | `phielo` | glass | /ɸi.ˈe̞.lo̞/ | noun |
+| `phiketu` | contradict | /ɸi.ˈke̞.t̪u/ | verb |
 | `philea` | feather | /ɸi.ˈle̞.ä/ | noun |
 | `philo` | day | /ˈɸi.lo̞/ | noun |
 | `philu` | candle | /ˈɸi.lu/ | noun |
@@ -546,7 +547,6 @@
 | `phina` | FEW | /ˈɸi.n̪ä/ | quantifier |
 | `phiora` | spirit | /ɸi.ˈo̞.rä/ | noun |
 | `phirae` | different | /ɸi.ˈrä.e̞/ | adjective |
-| `phiraketu` | contradict | /ɸi.rä.ˈke̞.t̪u/ | verb |
 | `phirali` | blossom | /ɸi.ˈrä.li/ | noun |
 | `phiralima` | biodiversity | /ɸi.rä.ˈli.mä/ | noun |
 | `phiremo` | relate | /ɸi.ˈre̞.mo̞/ | verb |
@@ -560,7 +560,7 @@
 | `phisuwa` | example | /ɸi.ˈsu.wä/ | noun |
 | `phitura` | well (water) | /ɸi.ˈt̪u.rä/ | noun |
 | `phiwapi` | butterfly | /ɸi.ˈwä.pi/ | noun |
-| `phiwhekira` | counterexample | /ɸi.ʍe̞.ˈki.rä/ | noun |
+| `phiwheki` | counterexample | /ɸi.ˈʍe̞.ki/ | noun |
 | `phoa` | do | /ˈɸo̞.ä/ | verb |
 | `phoe` | ANT | /ˈɸo̞.e̞/ | conjunction |
 | `phoemu` | midnight | /ɸo̞.ˈe̞.mu/ | noun |
@@ -616,10 +616,10 @@
 | `reloteru` | model | /re̞.lo̞.ˈt̪e̞.ru/ | noun |
 | `relua` | mirror | /re̞.ˈlu.ä/ | noun |
 | `remo` | think | /ˈre̞.mo̞/ | verb |
-| `remolea` | concept | /re̞.mo̞.ˈle̞.ä/ | noun |
-| `remoluma` | conclusion | /re̞.mo̞.ˈlu.mä/ | noun |
+| `remole` | concept | /re̞.ˈmo̞.le̞/ | noun |
 | `remopora` | propose | /re̞.mo̞.ˈpo̞.rä/ | verb |
 | `remotha` | reason | /re̞.ˈmo̞.θä/ | noun |
+| `remuma` | conclusion | /re̞.ˈmu.mä/ | noun |
 | `rena` | REL | /ˈre̞.n̪ä/ | complementizer |
 | `renoa` | liberate | /re̞.ˈn̪o̞.ä/ | verb |
 | `reo` | meaning | /ˈre̞.o̞/ | verb |
@@ -768,7 +768,7 @@
 | `somela` | observe | /so̞.ˈme̞.lä/ | verb |
 | `somethiru` | monitor | /so̞.me̞.ˈθi.ru/ | verb |
 | `sone` | value | /ˈso̞.n̪e̞/ | verb |
-| `soneholu` | tradeoff | /so̞.n̪e̞.ˈho̞.lu/ | noun |
+| `soneho` | tradeoff | /so̞.ˈn̪e̞.ho̞/ | noun |
 | `sonu` | alone | /ˈso̞.n̪u/ | adjective |
 | `sophae` | cotton | /so̞.ˈɸä.e̞/ | noun |
 | `sorae` | sun | /so̞.ˈrä.e̞/ | noun |
@@ -845,6 +845,7 @@
 | `themio` | reflect | /θe̞.ˈmi.o̞/ | verb |
 | `themo` | THING.CLF | /ˈθe̞.mo̞/ | classifier |
 | `themoka` | treasure | /θe̞.ˈmo̞.kä/ | noun |
+| `themore` | argument | /θe̞.ˈmo̞.re̞/ | noun |
 | `themui` | faith | /θe̞.ˈmu.i/ | verb |
 | `thena` | thing | /ˈθe̞.n̪ä/ | noun |
 | `thenoi` | falls-short | /θe̞.ˈn̪o̞.i/ | verb |
@@ -855,7 +856,6 @@
 | `theonu` | attend | /θe̞.ˈo̞.n̪u/ | verb |
 | `thepalu` | garden | /θe̞.ˈpä.lu/ | noun |
 | `therema` | tradition | /θe̞.ˈre̞.mä/ | noun |
-| `theremola` | argument | /θe̞.re̞.ˈmo̞.lä/ | noun |
 | `thereo` | mediator | /θe̞.ˈre̞.o̞/ | noun |
 | `theriko` | frost | /θe̞.ˈri.ko̞/ | noun |
 | `therilu` | rest | /θe̞.ˈri.lu/ | verb |
@@ -993,12 +993,12 @@
 | `whakeru` | object | /ʍä.ˈke̞.ru/ | verb |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
+| `whamoi` | doubt | /ʍä.ˈmo̞.i/ | verb |
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
-| `wharemoi` | doubt | /ʍä.re̞.ˈmo̞.i/ | verb |
 | `wheiru` | mist | /ʍe̞.ˈi.ru/ | noun |
 | `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
 | `whekapelo` | retaliate | /ʍe̞.kä.ˈpe̞.lo̞/ | verb |
-| `whekatelu` | refute | /ʍe̞.kä.ˈt̪e̞.lu/ | verb |
+| `whekate` | refute | /ʍe̞.ˈkä.t̪e̞/ | verb |
 | `whekatuma` | appeal | /ʍe̞.kä.ˈt̪u.mä/ | verb |
 | `whekelu` | magic | /ʍe̞.ˈke̞.lu/ | noun |
 | `whelani` | welcome | /ʍe̞.ˈlä.n̪i/ | verb |

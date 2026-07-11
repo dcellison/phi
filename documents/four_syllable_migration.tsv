@@ -5,7 +5,7 @@ ruelami	rulami	adventure	base	replaced
 phanokelu	-	allocate	commons-and-collective-governance	pending
 helunari	-	amend	commons-and-collective-governance	pending
 whekatuma	-	appeal	commons-and-collective-governance	pending
-theremola	-	argument	philosophical-reasoning	pending
+theremola	themore	argument	philosophical-reasoning	replaced
 kanorami	-	authority	commons-and-collective-governance	pending
 kanuloa	-	authorize	commons-and-collective-governance	pending
 mothanomi	-	baseline	ecological-systems-and-material-life	pending
@@ -18,22 +18,22 @@ henoraki	-	capacity	systems-and-shared-infrastructure	pending
 melunaro	-	climate	ecological-systems-and-material-life	pending
 kanuwhera	-	coerce	commons-and-collective-governance	pending
 monakeli	-	component	systems-and-shared-infrastructure	pending
-malonawi	-	compromise	philosophical-reasoning	pending
+malonawi	manawi	compromise	philosophical-reasoning	replaced
 nomiraki	-	concentration	ecological-systems-and-material-life	pending
-remolea	-	concept	philosophical-reasoning	pending
-remoluma	-	conclusion	philosophical-reasoning	pending
+remolea	remole	concept	philosophical-reasoning	replaced
+remoluma	remuma	conclusion	philosophical-reasoning	replaced
 nawoweso	-	consensus	commons-and-collective-governance	pending
 hisophira	-	contaminant	ecological-systems-and-material-life	pending
-phiraketu	-	contradict	philosophical-reasoning	pending
+phiraketu	phiketu	contradict	philosophical-reasoning	replaced
 ketorami	-	control	systems-and-shared-infrastructure	pending
-phiwhekira	-	counterexample	philosophical-reasoning	pending
-kiremoa	-	criterion	philosophical-reasoning	pending
+phiwhekira	phiwheki	counterexample	philosophical-reasoning	replaced
+kiremoa	kirema	criterion	philosophical-reasoning	replaced
 kanusholu	-	decision	commons-and-collective-governance	pending
 moralume	-	decompose	ecological-systems-and-material-life	pending
 loathora	-	delegate	commons-and-collective-governance	pending
 phelorani	-	depend	systems-and-shared-infrastructure	pending
 suiloe	suilo	dew	base	replaced
-wharemoi	-	doubt	philosophical-reasoning	pending
+wharemoi	whamoi	doubt	philosophical-reasoning	replaced
 kurathimo	-	drought	ecological-systems-and-material-life	pending
 limaweso	-	ecological community	ecological-systems-and-material-life	pending
 limatero	-	ecosystem	ecological-systems-and-material-life	pending
@@ -82,7 +82,7 @@ siranomi	-	record	commons-and-collective-governance	pending
 turekelu	-	recycle	ecological-systems-and-material-life	pending
 helokelu	-	redress	commons-and-collective-governance	pending
 wesopanu	-	redundant	systems-and-shared-infrastructure	pending
-whekatelu	-	refute	philosophical-reasoning	pending
+whekatelu	whekate	refute	philosophical-reasoning	replaced
 kolutheri	-	reliable	systems-and-shared-infrastructure	pending
 shanelori	-	represent	commons-and-collective-governance	pending
 panumori	-	resource	ecological-systems-and-material-life	pending
@@ -101,7 +101,7 @@ pheluremi	-	store	systems-and-shared-infrastructure	pending
 kuenora	kuewa	strange	base	replaced
 terulora	-	system	systems-and-shared-infrastructure	pending
 pelokira	-	toxic	ecological-systems-and-material-life	pending
-soneholu	-	tradeoff	philosophical-reasoning	pending
+soneholu	soneho	tradeoff	philosophical-reasoning	replaced
 selokaru	-	transfer	systems-and-shared-infrastructure	pending
 moreluki	moluki	transform	base	replaced
 helurani	-	trend	ecological-systems-and-material-life	pending

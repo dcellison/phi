@@ -323,7 +323,7 @@
 | `kipona` | pain | Pain |
 | `kira` | key | Key |
 | `kirae` | crystal | Crystal |
-| `kiremoa` | criterion | Criterion |
+| `kirema` | criterion | Criterion |
 | `kiroa` | sign | Sign |
 | `kirosholu` | specification | Specification |
 | `kiroweli` | signal | Signal |
@@ -534,7 +534,7 @@
 | `phisuwa` | example | Example |
 | `phitura` | well (water) | Well |
 | `phiwapi` | butterfly | Butterfly |
-| `phiwhekira` | counterexample | Counterexample |
+| `phiwheki` | counterexample | Counterexample |
 | `phoemu` | midnight | Midnight |
 | `phoi` | nine-group | Nine-Unit |
 | `phoka` | lens | Lens |
@@ -561,9 +561,9 @@
 | `relo` | symbol | Symbol |
 | `reloteru` | model | Model |
 | `relua` | mirror | Mirror |
-| `remolea` | concept | Concept |
-| `remoluma` | conclusion | Conclusion |
+| `remole` | concept | Concept |
 | `remotha` | reason | Reason |
+| `remuma` | conclusion | Conclusion |
 | `repha` | bridge | Bridge |
 | `rewa` | oar | Oar |
 | `roela` | scroll | Scroll |
@@ -613,7 +613,7 @@
 | `soeli` | cup | Cup |
 | `solai` | gold | Gold |
 | `soleha` | luck | Luck |
-| `soneholu` | tradeoff | Tradeoff |
+| `soneho` | tradeoff | Tradeoff |
 | `sophae` | cotton | Cotton |
 | `sorae` | sun | Sun |
 | `sorai` | insight | Insight |
@@ -649,10 +649,10 @@
 | `theluo` | steward | Steward |
 | `thema` | guardian | Guardian |
 | `themoka` | treasure | Treasure |
+| `themore` | argument | Argument |
 | `thena` | thing | Thing |
 | `thepalu` | garden | Garden |
 | `therema` | tradition | Tradition |
-| `theremola` | argument | Argument |
 | `thereo` | mediator | Mediator |
 | `theriko` | frost | Frost |
 | `thero` | fire | Fire |
@@ -892,7 +892,7 @@
 | `lumera` | nourish | Nourish |
 | `lupho` | float | Float |
 | `malomi` | balance | Balance |
-| `malonawi` | compromise | Compromise |
+| `manawi` | compromise | Compromise |
 | `manolu` | stay | Stay |
 | `masue` | measure | Measure |
 | `masukiro` | calibrate | Calibrate |
@@ -965,8 +965,8 @@
 | `pheluremi` | store | Store |
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
+| `phiketu` | contradict | Contradict |
 | `phimela` | kiss | Kiss |
-| `phiraketu` | contradict | Contradict |
 | `phiremo` | relate | Relate |
 | `phirena` | meditate | Meditate |
 | `phoa` | do | Do |
@@ -1096,10 +1096,10 @@
 | `wesho` | locate | Locate |
 | `whakeru` | object | Object |
 | `whaline` | thank | Thank |
+| `whamoi` | doubt | Doubt |
 | `whano` | stand | Stand |
-| `wharemoi` | doubt | Doubt |
 | `whekapelo` | retaliate | Retaliate |
-| `whekatelu` | refute | Refute |
+| `whekate` | refute | Refute |
 | `whekatuma` | appeal | Appeal |
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |

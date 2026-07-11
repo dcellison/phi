@@ -23,32 +23,32 @@ The module does not replace Phi's existing language of thought and dialogue. It 
 |---|---|---|---|
 | `sherewa` | verb | claim; present a proposition for assessment | A claim is public; `nohero` is belief. |
 | `mothare` | noun | premise; a starting claim in an argument | A premise is a role and need not be true or evidential. |
-| `remoluma` | noun | conclusion; the claim reached by reasoning | A conclusion is not merely `lumae`, the final point in time or sequence. |
-| `theremola` | noun | argument; premises organized to support a conclusion | An argument is not a quarrel or a dialogue. |
+| `remuma` | noun | conclusion; the claim reached by reasoning | A conclusion is not merely `lumae`, the final point in time or sequence. |
+| `themore` | noun | argument; premises organized to support a conclusion | An argument is not a quarrel or a dialogue. |
 | `whakeru` | verb | object; raise a specific problem for response | An objection is not necessarily refusal, disagreement, or refutation. |
 | `thesori` | noun | evidence; material offered for or against a claim | Evidence is not an evidential particle and is not automatically reliable. |
 | `remotha` | noun | reason; a justificatory ground | A reason is distinct from cause, purpose, motivation, and evidence. |
 | `kethira` | verb | infer; reach a conclusion from premises | The act of inference is distinct from inferential evidential `ke`. |
 | `natheri` | verb | entail; imply by necessity | Entailment is stronger than support, sequence, or causal consequence. |
 | `kithela` | adjective | valid; having premises that entail the conclusion | Validity does not establish that the premises are true. |
-| `phiraketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is stronger than difference, contrast, or disagreement. |
+| `phiketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is stronger than difference, contrast, or disagreement. |
 | `letharo` | adjective | consistent; able to be true together | Consistency does not establish truth or sameness. |
 | `phisuwa` | noun | example; a particular illustrating case | The noun names the case; `phisu` announces one in discourse. |
-| `phiwhekira` | noun | counterexample; a case defeating a general claim | A surprising or irrelevant case is not necessarily a counterexample. |
-| `whekatelu` | verb | refute; show that a claim or inference fails | Refutation requires more than objection or disagreement. |
+| `phiwheki` | noun | counterexample; a case defeating a general claim | A surprising or irrelevant case is not necessarily a counterexample. |
+| `whekate` | verb | refute; show that a claim or inference fails | Refutation requires more than objection or disagreement. |
 | `kirothe` | verb | define; state meaning or conditions of application | Definition is narrower than description or clarification. |
-| `kiremoa` | noun | criterion; a standard used in judgment or classification | A criterion is not merely a measurement or method. |
-| `remolea` | noun | concept; an organized idea | A concept is distinct from its word, symbol, definition, and examples. |
-| `wharemoi` | verb | doubt; remain unsettled about a proposition | Doubt is not denial or refutation. |
+| `kirema` | noun | criterion; a standard used in judgment or classification | A criterion is not merely a measurement or method. |
+| `remole` | noun | concept; an organized idea | A concept is distinct from its word, symbol, definition, and examples. |
+| `whamoi` | verb | doubt; remain unsettled about a proposition | Doubt is not denial or refutation. |
 | `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is not knowledge, truth, boldness, or authority. |
-| `soneholu` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff is more than having several options. |
-| `malonawi` | verb | compromise; agree through mutual concession | Compromise is not automatically fair, free, wise, or required. |
+| `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff is more than having several options. |
+| `manawi` | verb | compromise; agree through mutual concession | Compromise is not automatically fair, free, wise, or required. |
 
-Verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekatelu` a refutation, `kirothe` a definition, `wharemoi` doubt, and `malonawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries remain verb-only or adjective-only as required by the lexicon schema.
+Verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries remain verb-only or adjective-only as required by the lexicon schema.
 
 ## Claims, premises, and conclusions
 
-`sherewa` names the act of putting a proposition forward. A speaker may claim something they believe, claim it only provisionally, or state it for examination without endorsing it. `mothare` and `remoluma` name roles inside a `theremola`: premises are offered as support, and the conclusion is what the argument reaches.
+`sherewa` names the act of putting a proposition forward. A speaker may claim something they believe, claim it only provisionally, or state it for examination without endorsing it. `mothare` and `remuma` name roles inside a `themore`: premises are offered as support, and the conclusion is what the argument reaches.
 
 ```
 mia mena ha ruela welao nai meno sherewa.
@@ -57,13 +57,13 @@ mia mena ha ruela welao nai meno sherewa.
 ```
 
 ```
-lo mothare ha remoluma panoru.
+lo mothare ha remuma panoru.
 PL premise PROX conclusion support.
 (The premises support this conclusion.)
 ```
 
 ```
-ha theremola kithela nai.
+ha themore kithela nai.
 PROX argument valid be.
 (This argument is valid.)
 ```
@@ -87,7 +87,7 @@ PROX evidence PROX claim support.
 ```
 
 ```
-mia lue lo mothare ha remoluma kethira.
+mia lue lo mothare ha remuma kethira.
 1SG ABL PL premise PROX conclusion infer.
 (I infer this conclusion from the premises.)
 ```
@@ -95,17 +95,17 @@ mia lue lo mothare ha remoluma kethira.
 `natheri` is deliberately stronger than support. It says that the first proposition cannot be true under the stated interpretation while the second is false.
 
 ```
-ha mothare ha remoluma natheri.
+ha mothare ha remuma natheri.
 PROX premise PROX conclusion entail.
 (This premise entails this conclusion.)
 ```
 
 ## Validity, contradiction, and refutation
 
-A `kithela theremola` is structurally valid even when one of its premises is false. Claims are `letharo` when they can be true together and `phiraketu` when they cannot both be true under the same interpretation and relevant conditions.
+A `kithela themore` is structurally valid even when one of its premises is false. Claims are `letharo` when they can be true together and `phiketu` when they cannot both be true under the same interpretation and relevant conditions.
 
 ```
-ha sherewa ra sherewa phiraketu.
+ha sherewa ra sherewa phiketu.
 PROX claim DIST claim contradict.
 (This claim contradicts that claim.)
 ```
@@ -116,17 +116,17 @@ PL claim consistent be.
 (The claims are consistent.)
 ```
 
-A `phiwhekira` is a case within a general claim's scope that does not have the property assigned to every such case. It can therefore `whekatelu` the general claim as stated.
+A `phiwheki` is a case within a general claim's scope that does not have the property assigned to every such case. It can therefore `whekate` the general claim as stated.
 
 ```
-ha phiwhekira ra sherewa whekatelu.
+ha phiwheki ra sherewa whekate.
 PROX counterexample DIST claim refute.
 (This counterexample refutes that claim.)
 ```
 
 ## Concepts, definitions, and criteria
 
-`remolea` separates an organized idea from the `phelui` that names it, the `relo` that symbolizes it, the `reo` it carries, and any one `phisuwa` used to illustrate it. `kirothe` proposes a boundary or account of application; `kiremoa` names a standard used when applying that boundary.
+`remole` separates an organized idea from the `phelui` that names it, the `relo` that symbolizes it, the `reo` it carries, and any one `phisuwa` used to illustrate it. `kirothe` proposes a boundary or account of application; `kirema` names a standard used when applying that boundary.
 
 ```
 mia shea kirothe.
@@ -141,7 +141,7 @@ PROX example define clarify.
 ```
 
 ```
-ha remolea ruka nai.
+ha remole ruka nai.
 PROX concept complex be.
 (This concept is complex.)
 ```
@@ -150,10 +150,10 @@ Necessary and sufficient conditions do not require two more roots. Direction mak
 
 ## Doubt and confidence
 
-`wharemoi` lets a speaker remain unsettled without denying a claim. `norethi` reports the strength of a stance while leaving truth, knowledge, and authority as separate questions.
+`whamoi` lets a speaker remain unsettled without denying a claim. `norethi` reports the strength of a stance while leaving truth, knowledge, and authority as separate questions.
 
 ```
-mia mena ha remoluma kithela nai meno wharemoi.
+mia mena ha remuma kithela nai meno whamoi.
 1SG DECL.COMP PROX conclusion valid be DECL.COMP.CLOSE doubt.
 (I doubt that this conclusion is valid.)
 ```
@@ -168,16 +168,16 @@ Principled suspension can remain compositional: `mena ... meno nohero ma kanu` s
 
 ## Tradeoffs and compromise
 
-`soneholu` keeps a valued gain and a valued loss in the same concept. It should be followed by enough explanation to show which outcomes matter and who bears each burden. `malonawi` names agreement reached through concession, but the word does not bless the settlement as fair or voluntary.
+`soneho` keeps a valued gain and a valued loss in the same concept. It should be followed by enough explanation to show which outcomes matter and who bears each burden. `manawi` names agreement reached through concession, but the word does not bless the settlement as fair or voluntary.
 
 ```
-ha kanu soneholu phelu.
+ha kanu soneho phelu.
 PROX choose tradeoff hold.
 (This choice has a tradeoff.)
 ```
 
 ```
-mia nua thia to malonawi.
+mia nua thia to manawi.
 1SG COM 2SG PST compromise.
 (I compromised with you.)
 ```
@@ -191,8 +191,8 @@ Some useful philosophical expressions remain clearer as combinations because the
 | `sherewa remotha` | reason for a claim | Keeps the justificatory relation explicit. |
 | `sone noa` | priority; value-position | Allows priorities to be compared without treating one ranking as universal. |
 | `remo noa` | standpoint or perspective; thought-position | Keeps a perspective connected to a situated act of thinking. |
-| `kithela theremola` | valid argument | Uses the ordinary modifier-first relation. |
-| `noetha kiremoa` | essential criterion | Names importance without silently claiming logical sufficiency. |
+| `kithela themore` | valid argument | Uses the ordinary modifier-first relation. |
+| `noetha kirema` | essential criterion | Names importance without silently claiming logical sufficiency. |
 | `mena ... meno nohero ma kanu` | suspend judgment; decline to choose the framed belief | States exactly what the speaker is withholding. |
 
 ## Source philosophical vocabulary

@@ -1,20 +1,19 @@
 {
-  "word": "kiremoa",
+  "word": "kirema",
   "gloss": "criterion",
-  "ipa": "/ki.re̞.ˈmo̞.ä/",
+  "ipa": "/ki.ˈre̞.mä/",
   "syllables": [
     "ki",
     "re",
-    "mo",
-    "a"
+    "ma"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Criterion / Standard for a Judgment or Classification",
   "description": "A stated feature, test, or standard used to decide whether something belongs to a category, satisfies a requirement, or merits a judgment. A criterion may be necessary, sufficient, both, or neither; its use and authority must be stated rather than assumed. Criteria can be practical and revisable without being arbitrary.",
-  "sound_symbolism": "Clear 'ki' draws a testable boundary, 're' relates the candidate to that boundary, and 'mo' brings the judgment inward for consideration. Final open 'a' keeps the criterion visible and revisable. Four syllables give the larger act of classification room to disclose its standard.",
-  "grammatical_notes": "A countable noun: 'ha kiremoa noetha nai.' (This criterion is essential.) Use 'natheri' in the appropriate direction to distinguish necessary from sufficient relations rather than treating those labels as interchangeable. Distinct from 'masue' (measure), which compares extent, and 'keiro' (way), which names a method rather than a standard of application.",
+  "sound_symbolism": "Clear 'ki' draws a testable boundary, and 're' relates the candidate to that boundary. Final 'ma' grounds the judgment in a stated standard rather than hidden authority, while its open vowel keeps that standard available for examination and revision.",
+  "grammatical_notes": "A countable noun: 'ha kirema noetha nai.' (This criterion is essential.) Use 'natheri' in the appropriate direction to distinguish necessary from sufficient relations rather than treating those labels as interchangeable. Distinct from 'masue' (measure), which compares extent, and 'keiro' (way), which names a method rather than a standard of application.",
   "pillars": {
     "secular-buddhist-philosophy": "Criteria make category boundaries visible while allowing speakers to examine how those boundaries depend on purposes and changing conditions.",
     "peace-linguistics-practices": "Stating a criterion prevents hidden standards from being imposed as though every participant had already accepted them.",

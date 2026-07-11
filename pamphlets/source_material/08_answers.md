@@ -15,7 +15,7 @@ mia ha siranomi theo.
 ```
 
 ```
-mia ha remoluma whakeru.
+mia ha remuma whakeru.
 1SG PROX conclusion object.
 (I object to this conclusion.)
 ```

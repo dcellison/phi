@@ -14,7 +14,7 @@ The module does not replace Phi's existing language of community, meetings, part
 | Deliberation and dialogue | `kowela` council, `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `thorae` facilitator, `thereo` mediator, `whakeru` object |
 | Participation and stance | `pawela` participate, `shorema` contribute, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `ralu` free, `nawea` respect |
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panumori` resource, `theula` all, `theli` each |
-| Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kiremoa` criterion, `soneholu` tradeoff, `malonawi` compromise |
+| Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility |
 | Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
 
@@ -323,10 +323,10 @@ Some governance expressions remain clearer as combinations because their parts e
 |---|---|---|
 | explicit affected being plus action, exposure, burden, benefit, or change | affected party | Keeps being affected independent of whether an institution grants standing. |
 | represented `wemakori` members or other named people plus `shanelori` scope | constituency | Prevents the representative from silently defining whom they represent. |
-| `kiremoa` criteria for claiming, participating, voting, objecting, or appealing | standing | Ties standing to a forum and matter instead of an inherent status. |
+| `kirema` criteria for claiming, participating, voting, objecting, or appealing | standing | Ties standing to a forum and matter instead of an inherent status. |
 | institution, authority, jurisdiction, procedure, decision, and accountability clauses | governance | Keeps the actual arrangement visible rather than turning it into one actor. |
 | ordered proposals, questions, reports, and decisions recorded for a meeting | agenda | Makes control over inclusion, order, and amendment explicit. |
-| participation `kiremoa` plus exact count or proportion | quorum | Preserves the applicable threshold and who counts toward it. |
+| participation `kirema` plus exact count or proportion | quorum | Preserves the applicable threshold and who counts toward it. |
 | quantifiers and exact counts around `kanusira` | majority or minority result | Avoids assuming binary factions, equal weights, or one voting system. |
 | exact source category plus `nasholu` in the surrounding analysis | law, policy, bylaw, treaty, contract, or custom | Preserves source force and wording while identifying the generic rule role. |
 | exact rights claim plus `sherenori` only where its definition fits | a recognized entitlement within a rights analysis | Prevents entitlement from exhausting moral, collective, inalienable, or source-tradition dimensions. |
@@ -334,7 +334,7 @@ Some governance expressions remain clearer as combinations because their parts e
 | stated insufficiency with `henoi ma` | scarcity | Makes scarcity relative to resource, use, claimant, place, and time. |
 | `sone noa` plus a stated criterion | priority | Keeps ranking connected to the value and decision context. |
 | `nasholu heno` or its explicit negation | compliance or noncompliance | Says whether a stated rule is satisfied without inferring legitimacy, harm, guilt, or response. |
-| `thilou` inquiry plus scope, method, evidence, participants, and recorded `remoluma` conclusion | investigation and finding | Separates inquiry, evidence, conclusion, official status, truth, and response. |
+| `thilou` inquiry plus scope, method, evidence, participants, and recorded `remuma` conclusion | investigation and finding | Separates inquiry, evidence, conclusion, official status, truth, and response. |
 | meeting `siranomi` record | minutes | Identifies the event recorded while leaving exact format, approval, and official status external. |
 | `kanusholu` decision plus conditions, duration, and scheduled `turekiro` review | provisional decision | Keeps temporary operation, implementation, objections, and review visible. |
 | explicit end of applicability, authority, date, replacement, and retained record | repeal or revocation | Distinguishes ending a matter from `helunari` amendment of a continuing one. |
