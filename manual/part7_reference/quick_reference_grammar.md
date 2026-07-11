@@ -20,7 +20,7 @@ One page of the whole system. Details: `documents/grammar/`; authority order: `/
 | Wish | su + statement | `su sila towe nai.` (May the community be well.) |
 | Need not | S lila V ralu nai | `thia lila wepu ralu nai.` (You need not go.) |
 
-Core and guest material use periods only: no commas, question marks, or exclamation marks; the punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Exact payload inside `patha … patho` preserves source punctuation and case. Topic-drop: an established subject may be omitted.
+Phi uses periods only: no commas, question marks, or exclamation marks. Punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Source material outside a Phi passage retains the script, punctuation, and case of its own medium. Topic-drop: an established subject may be omitted.
 
 ## The three slots
 
@@ -39,13 +39,11 @@ Core and guest material use periods only: no commas, question marks, or exclamat
 | `mena … meno` | S mena [clause] meno V | that-clause (reported content) |
 | `wela … welo` | S wela [clause] welo V | embedded yes/no question |
 | `shola … sholo` | S shola [quote] sholo V | direct quotation (exact words) |
-| `hasha … hasho` | [Phi grammar] hasha [adapted payload] hasho | pronounceable external guest atom |
-| `patha … patho` | [Phi grammar] patha [opaque payload] patho | exact external atom |
 | `rena …` + NOUN | [rena clause] NOUN | relative clause (no closer; the head noun bounds it) |
-| `ne NAME` | before one name atom | listed content word, productive two/three/four-syllable onym, or external frame |
+| `ne NAME` | before one name atom | listed content word or productive two/three-syllable onym |
 | `kona [ne] NAME` | extra-clausal | vocative address |
 
-Embedded clauses carry their own tense. Clause frames nest in matched pairs. Guest frames cannot nest; exact payload is opaque. Both external frames occupy one nominal position, keep Phi particles outside, and remain marked on every occurrence. A productive onym is not an elided guest frame: `ne` directly licenses its single Phi-shaped token.
+Embedded clauses carry their own tense, and clause frames nest in matched pairs. `shola ... sholo` quotes grammatical Phi speech. Foreign wording, source-script names, exact values, identifiers, formulas, and other unassimilated material remain outside Phi syntax in the surrounding medium.
 
 ## Noun phrase order
 

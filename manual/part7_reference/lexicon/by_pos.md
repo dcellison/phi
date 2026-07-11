@@ -198,16 +198,12 @@
 | `nophe` | ABST.CLF | Abstract concept classifier |
 | `themo` | THING.CLF | Physical matter classifier |
 
-## complementizer (11)
+## complementizer (7)
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `hasha` | EXT.GUEST | Open adapted external material |
-| `hasho` | EXT.GUEST.CLOSE | Close adapted external material |
 | `mena` | DECL.COMP | That |
 | `meno` | DECL.COMP.CLOSE | End declarative clause |
-| `patha` | EXT.EXACT | Open exact opaque external material |
-| `patho` | EXT.EXACT.CLOSE | Close exact opaque external material |
 | `rena` | REL | Which |
 | `shola` | QUOT.COMP | Quote |
 | `sholo` | QUOT.COMP.CLOSE | End quote |

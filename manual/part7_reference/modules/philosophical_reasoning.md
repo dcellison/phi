@@ -195,6 +195,6 @@ Some useful philosophical expressions remain clearer as combinations because the
 | `noetha kiremoa` | essential criterion | Names importance without silently claiming logical sufficiency. |
 | `mena ... meno nohero ma kanu` | suspend judgment; decline to choose the framed belief | States exactly what the speaker is withholding. |
 
-## External philosophical vocabulary
+## Source philosophical vocabulary
 
-Tradition-specific terms, formal notation, exact quotations, and concepts whose source form matters still use the external register. Use `patha ... patho` when the exact form must be preserved and `hasha ... hasho` for a temporary Phi-pronounceable adaptation. A module word may help explain the outside concept, but it should not be presented as an exhaustive translation unless the relevant distinctions genuinely match.
+Tradition-specific terms, formal notation, exact quotations, and concepts whose source form matters remain outside the Phi passage in the surrounding medium. A module word may help explain the source concept, but it should not be presented as an exhaustive translation unless the relevant distinctions genuinely match. A pronunciation aid remains an outside conversational convention rather than a temporary class of Phi word.

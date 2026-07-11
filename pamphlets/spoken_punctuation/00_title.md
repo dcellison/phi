@@ -2,7 +2,7 @@
 
 ## A practice companion to the manual
 
-Core Phi writes exactly one mark: the period. Everything else English draws on the page, Phi says out loud: the question mark is a word, both quotation marks are words, the comma of address is a word, the capital letter of a core name is a word. The exact external register is the explicit boundary of this claim: arbitrary payload keeps source punctuation and case between the audible `patha` and `patho` markers. Manual chapter 24 and the external-register pamphlet teach that layer in full.
+Phi writes exactly one mark: the period. Everything else English draws on the page, Phi says out loud: the question mark is a word, both quotation marks are words, the comma of address is a word, and the capital letter of a Phi name is a word. Source artifacts outside a Phi passage retain their own punctuation and case because they are not Phi text. Manual chapter 24 and the source-material pamphlet teach that boundary in full.
 
 Two skills interleave throughout. The first is mechanical: hearing and saying the marks: reflexively fronting `wa`, closing every `shola`, letting verbs shut their own clauses. The second is the writer's restraint: leaving the page bare where an English-trained hand itches, and trusting the words to have already done the work.
 
@@ -14,7 +14,7 @@ By the end of this pamphlet, you will:
 - Pass the core dictation test: carry a message holding a question, a Phi quotation, and a core name through careful speech
 - Write Phi with one silent mark, and read period-only prose with every mark sounding
 
-This pamphlet assumes the particle system (manual ch9) and the mindful sentence (ch10). It is a companion to the canon punctuation and external-register rulings and to ch10 §5, ch17, ch19, ch21 §1, and ch24.
+This pamphlet assumes the particle system (manual ch9) and the mindful sentence (ch10). It is a companion to the canon punctuation and source-material rulings and to ch10 §5, ch17, ch19, ch21 §1, and ch24.
 
 ---
 
@@ -33,4 +33,4 @@ This pamphlet assumes the particle system (manual ch9) and the mindful sentence 
 
 ---
 
-*Core punctuation lives in words. Exact external material keeps an audible boundary and makes no promise that an arbitrary payload survives speech letter for letter.*
+*Phi punctuation lives in words. A source artifact remains in its own medium and makes no promise that ordinary speech reproduces it letter for letter.*

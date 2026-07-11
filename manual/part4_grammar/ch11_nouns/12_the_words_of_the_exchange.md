@@ -34,7 +34,7 @@ A trade is one of the places exactness is owed: the counted thing is leaving you
 
 ## The refusal, third of three
 
-That core absence is settled canon. Phi coins no money, price, buying, selling, debt, or wage vocabulary; ordinary Phi prefers to describe the transfer, labor, need, gift, or institution under discussion. Exact amounts and source economic terms remain available inside `patha … patho` for history, labor rights, contracts, critique, testimony, and practical coordination. Marked carriage prevents a core refusal from becoming an inability to describe exploitation or keep an accurate record.
+That lexical absence is settled canon for now. Phi coins no money, price, buying, selling, debt, or wage vocabulary; ordinary Phi prefers to describe the transfer, labor, need, gift, or institution under discussion. Exact amounts and source economic terms remain available in separate source records for history, labor rights, contracts, critique, testimony, and practical coordination. Separate preservation prevents a lexical refusal from becoming an inability to describe exploitation or keep an accurate record.
 
 ## Work and worth
 

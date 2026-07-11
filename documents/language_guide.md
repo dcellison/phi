@@ -24,7 +24,7 @@ Phi draws from five core wisdom traditions:
 
 ### 1.2. Values-Based Design
 
-Phi is built around explicit values rather than claiming neutrality or universality. Speakers may map those values differently, reject parts of them, or expose needs the current design burdens. Marked external material and case-by-case review keep the project open to faithful disagreement.
+Phi is built around explicit values rather than claiming neutrality or universality. Speakers may map those values differently, reject parts of them, or expose needs the current design burdens. Separately preserved source material and case-by-case review keep the project open to faithful disagreement.
 
 ## 2. What Makes Phi Special
 
@@ -115,7 +115,7 @@ Use it to:
 
 ## 6. The Art of Transmutation: Thinking in Phi
 
-Phi is more than a system of substitutions; it offers its own ways of analyzing and structuring ideas. Rebuilding an idea through those resources is called **transmutation**. Exact external framing remains available whenever rebuilding would falsify or erase something that must be preserved.
+Phi is more than a system of substitutions; it offers its own ways of analyzing and structuring ideas. Rebuilding an idea through those resources is called **transmutation**. Exact source material remains outside the Phi passage whenever rebuilding would falsify or erase something that must be preserved.
 
 The goal is not to find a word-for-word equivalent for a sentence. The goal is to understand the core *idea* behind the sentence and then re-build that idea from the ground up using the concepts, grammar, and philosophy of Phi.
 

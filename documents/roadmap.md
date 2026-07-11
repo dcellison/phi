@@ -22,7 +22,7 @@ Success would mean that speakers can:
 ## Non-goals
 
 - Turning Phi into an international auxiliary language.
-- Making Phi cover every domain without marked external material.
+- Making Phi contain every outside artifact instead of acknowledging source material outside the language.
 - Eliminating ordinary ambiguity, shared names, dialect, repair, or variation.
 - Claiming that Phi makes speakers peaceful, rational, mindful, sustainable, or culturally neutral.
 - Coining a core root whenever an English word lacks a one-word equivalent.
@@ -50,10 +50,11 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | Workstream | Status | Current position |
 |---|---|---|
 | Purpose, scope, and solo governance | **DONE** | Philosophy-first scope and honest-claims policy are canonical. |
-| External interoperability | **DONE** | Guest and exact registers are canonical, taught, rendered, and validated. |
-| Productive proper names | **DONE** | `ne` licenses validated two- through four-syllable Phi-form onyms. |
+| Source-material interoperability | **DONE** | Unassimilated source material remains outside Phi passages; active teaching and tooling no longer parse guest or exact frames. |
+| Productive proper names | **DONE** | `ne` licenses validated two- or three-syllable Phi-form onyms. |
+| Three-syllable lexical ceiling | **PARTIAL** | New long forms are prohibited and all 112 inherited four-syllable entries are recorded in a finite staged migration ledger. |
 | Philosophical capability | **PARTIAL** | Matrix, repair conventions, and fifteen test dialogues exist; several operations remain gaps. |
-| Solo evaluation | **NEXT** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain. |
+| Solo evaluation | **READY** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain available after the breaking migration. |
 | Speech and listening evidence | **READY** | Audit tooling and protocols exist; recordings and perception results do not. |
 | Evidence-led semantic growth | **PARTIAL** | Philosophical Reasoning, Systems and Shared Infrastructure, Ecological Systems and Material Life, and Commons and Collective Governance have completed full vocabulary passes; the remaining profiles still await theirs. |
 | Practice and domain profiles | **PARTIAL** | Eight active profiles and a recorded proposed-profile catalogue exist; four are established vocabulary modules with speaker chapters, while four remain organizational profiles. |
@@ -73,31 +74,31 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | FND-04 | **DONE** | Establish verified release manifests and CI-backed internal consistency. | `documents/releases/phi_2026_1.md`; `documents/releases/phi_2026_2.md`; `.github/workflows/validate.yml` | Every release states what machine checks do and do not establish. |
 | FND-05 | **DONE** | Reconstruct the long plan as a status-tracked roadmap. | This document | Update statuses and evidence links in the same PR as future roadmap work. |
 
-## Phase 1: External interoperability
+## Phase 1: Source-material interoperability
 
-**Objective:** Let Phi preserve identity, precision, quotation, and analytically necessary outside concepts without weakening the distinction between core choices and external material.
+**Objective:** Preserve identity, precision, quotation, and analytically necessary source material without pretending that outside strings occupy Phi syntax or work in every Phi writing mode.
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| EXT-01 | **DONE** | Adapted guest frame `hasha ... hasho`. | `canon.md`; complementizer reference; four lexicon entries | Guest payload remains pronounceable, bounded, and non-lexical. |
-| EXT-02 | **DONE** | Exact opaque frame `patha ... patho`, including literal-closer escaping. | `canon.md`; `scripts/external_register.py` | Exact source material remains opaque and safely bounded. |
-| EXT-03 | **DONE** | Nominal-atom syntax and ethical reporting policy. | Canon rulings on external syntax and reporting | Source grammar never silently enters Phi; provenance does not imply approval. |
-| EXT-04 | **DONE** | Validator, gloss, HTML-escaping, and mixed-Tengwar support. | `scripts/validate_examples.py`; `scripts/tengwar.py`; external tests | CI continues to cover malformed, opaque, escaped, and injection-like payloads. |
-| EXT-05 | **DONE** | Advanced teaching material. | Manual chapter 24; `pamphlets/external_register/` | Examples stay synchronized with canon and validation. |
-| EXT-06 | **OPTIONAL** | Human layer-choice exercise across core composition, registered compounds, productive names, guest forms, and exact forms. | `documents/solo_evaluation_tasks.md` section 2 | Complete any useful prompts immediately or later; record ambiguous cases and revise teaching where helpful. |
-| EXT-07 | **EVIDENCE** | Outside-reader interpretation of the boundary as provenance rather than stigma or approval. | No outside result yet | Collect qualitative responses from multiple consenting readers with different backgrounds. |
+| EXT-01 | **DONE** | Remove adapted guest frames from current Phi. | D003 superseded by D012; boundary entries and parser removed | Recurring useful concepts become vocabulary or transparent expressions; temporary adaptations do not become a third lexical class. |
+| EXT-02 | **DONE** | Remove exact opaque frames from current Phi. | D004 superseded by D012; mixed-script rendering removed | Exact artifacts remain in their source medium rather than breaking Phi script parity. |
+| EXT-03 | **DONE** | Establish source-material separation and ethical reporting policy. | Canon ruling and `documents/word_shape_and_external_boundaries.md` | Phi may point to, translate, and analyze a separately preserved source without importing its grammar or claiming to exhaust it. |
+| EXT-04 | **DONE** | Simplify validation, glossing, HTML generation, Tengwar rendering, and phonetic auditing. | Current scripts and retired-form tests | Tooling accepts Phi text only and blocks reassignment of the four historical boundaries. |
+| EXT-05 | **DONE** | Replace frame teaching with source-material practice. | Manual chapter 24 and source-material pamphlet | Examples keep Phi passages and source artifacts visibly separate. |
+| EXT-06 | **OPTIONAL** | Human choice exercise across core vocabulary, modules, transparent expressions, productive names, translation, and separate source presentation. | `documents/solo_evaluation_tasks.md` section 2 | Record cases where the intended boundary or referent remains unclear and revise teaching where useful. |
+| EXT-07 | **EVIDENCE** | Outside-reader interpretation of source separation as honest scope rather than stigma or approval. | No outside result yet | Collect qualitative responses from consenting readers if Phi gains other users. |
 
 ## Phase 2: Productive identity and naming
 
-**Objective:** Let people and communities retain or choose usable names without requiring semantic reassignment or permanent guest framing.
+**Objective:** Let people and communities retain or choose usable Phi-form names without semantic reassignment while leaving non-Phi preferred forms intact outside Phi passages.
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
 | NAM-01 | **DONE** | Redefine `ne` as a proper-designation marker rather than a personhood marker. | `canon.md`; naming pamphlet | Applies consistently to people, animals, places, communities, works, events, and artifacts. |
-| NAM-02 | **DONE** | Productive two-, three-, or four-syllable Phi-form onyms with duplicate syllables prohibited. | `scripts/name_forms.py`; Phi 2026.2 release manifest | Charter remains synchronized across canon, teaching, and validator. |
+| NAM-02 | **DONE** | Productive two- or three-syllable Phi-form onyms with duplicate syllables prohibited. | `scripts/name_forms.py`; retired-form regression tests | Charter remains synchronized across canon, teaching, and validator. |
 | NAM-03 | **DONE** | Strictly reserve every listed non-content form from productive onym use. | `validate_examples.py name FORM`; whole-inventory regression test | CI fails if any non-content entry becomes acceptable as a standalone productive onym. |
-| NAM-04 | **DONE** | Preserve content-word names, guest names, exact names, and bearer authority. | Naming pamphlet and canon | No adaptation is assigned against a bearer's preference. |
-| NAM-05 | **READY** | Repeated-name narrative trial comparing `ne` plus onym with full guest framing. | Solo evaluation name prompts | Write and read a short narrative with at least ten mentions; record burden and ambiguity. |
+| NAM-04 | **DONE** | Preserve content-word names, productive onyms, separate source names, and bearer authority. | Naming pamphlet and canon | No adaptation is assigned against a bearer's preference, and a preferred source form is not forced into Phi phonology. |
+| NAM-05 | **READY** | Repeated-name narrative trial using `ne` plus a bearer-approved onym. | Solo evaluation name prompts | Write and read a short narrative with at least ten mentions; record burden and ambiguity. |
 | NAM-06 | **EVIDENCE** | Test shared names, changed names, multi-part names, and preferred forms with actual users. | No outside result yet | Record whether clarification conventions suffice before adding more name grammar. |
 
 ## Phase 3: Philosophical reasoning and vocabulary
@@ -122,13 +123,13 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| EVA-01 | **DONE** | Structural regression for lexicon, examples, external frames, productive names, generated references, and rendering. | CI and release verification | Continue on every relevant change. |
-| EVA-02 | **OPTIONAL** | External-layer and name-choice prompt set. | Protocol in `documents/solo_evaluation_tasks.md` | Use the prompts when they would improve teaching or reveal a practical burden; no delay is required. |
-| EVA-03 | **DONE** | Exact-payload safety trial with script, case, notation, URL, closer escaping, and HTML-looking material. | External-register tests and generated-site inspection | Repeat whenever rendering architecture changes. |
+| EVA-01 | **DONE** | Structural regression for lexicon, examples, productive names, retired forms, generated references, and rendering. | CI and release verification | Continue on every relevant change. |
+| EVA-02 | **OPTIONAL** | Source-material and name-choice prompt set. | Protocol in `documents/solo_evaluation_tasks.md` | Use the prompts when they would improve teaching or reveal a practical burden; no delay is required. |
+| EVA-03 | **DONE** | Source-material separation and rendering trial with script, case, notation, URL, and HTML-looking material. | Source Material teaching and generated-site inspection | Repeat whenever rendering architecture changes. |
 | EVA-04 | **OPTIONAL** | Open-reference philosophical paraphrase. | Phi-only transformation packet with a separate key | A learner who has not seen the key may work through a prompt immediately with or without the lexicon; treat difficulty as learning feedback, not a gate on vocabulary. |
 | EVA-05 | **OPTIONAL** | Argument transformation practice. | Six controlled prompts cover premise and conclusion variation for three baseline dialogues; proposition key exists | Use or expand the packet when it serves learning, writing, or revision; no delay is required. |
 | EVA-06 | **OPTIONAL** | Conversation-repair practice. | Repair reference and authored clarification, evidence-challenge, retraction, and understood-disagreement probes | Use the probes during dialogue practice and record only observations that are useful to future teaching or revision. |
-| EVA-07 | **READY** | Productive-name burden trial. | NAM-05 | Compare repeated onym and guest-frame versions without changing the underlying referent. |
+| EVA-07 | **READY** | Productive-name burden trial. | NAM-05 | Test repeated onym use while preserving the source name separately and without changing the referent. |
 | EVA-08 | **READY** | Consolidated evaluation record. | Result table in `documents/solo_evaluation_tasks.md` | Add dated results, material, failures, and follow-up; never replace a pending row with an undocumented impression. |
 
 ## Phase 5: Speech, phonology, and listening
@@ -139,12 +140,12 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 |---|---|---|---|---|
 | SPH-01 | **DONE** | Separate careful reference pronunciation from accepted conversational and accented variants. | Canon pronunciation ruling; phonetics documents | New teaching avoids moralizing accent or tempo. |
 | SPH-02 | **DONE** | Phoneme-aware, feature-weighted neighbor audit and reproducible baseline. | `scripts/audit_phonetic_neighbors.py`; phonetic baseline | Baseline regenerates exactly and remains advisory. |
-| SPH-03 | **DONE** | Rename gate requiring repeated observed confusion rather than distance alone. | `documents/listening_audit.md` | No breaking rename bypasses the gate. |
-| SPH-04 | **READY** | Maintainer ABX recordings for high-priority function pairs and external boundaries. | Listening-audit protocol and prompt generator | Record careful and conversational sessions on three nonconsecutive days, in quiet and moderate noise. |
-| SPH-05 | **READY** | Record observations and replay/confidence data. | Pending observation table | Fill actual trials for `hasha/hasho`, `patha/patho`, and prioritized dense pairs. |
-| SPH-06 | **EVIDENCE** | Outside-listener results across accents and language backgrounds. | No outside result yet | Begin with function words and boundary pairs; preserve consent and keep raw voice private by default. |
+| SPH-03 | **DONE** | Rename gate requiring repeated observed confusion rather than distance alone. | `documents/listening_audit.md` | No discretionary or collision-driven rename bypasses the gate; an independently accepted structural migration records and validates its separate reason. |
+| SPH-04 | **READY** | Maintainer ABX recordings for high-priority function pairs. | Listening-audit protocol and prompt generator | Record careful and conversational sessions on three nonconsecutive days, in quiet and moderate noise. |
+| SPH-05 | **READY** | Record observations and replay/confidence data. | Pending observation table | Fill actual trials for valid productive names, retired-form rejection, and prioritized dense pairs. |
+| SPH-06 | **EVIDENCE** | Outside-listener results across accents and language backgrounds. | No outside result yet | Begin with function words, productive names, retired-form rejection, and dense pairs; preserve consent and keep raw voice private by default. |
 | SPH-07 | **EVIDENCE** | Learner-facing reference recordings and accepted-variation examples. | No curated audio set yet | Publish only reviewed recordings whose speaker consent and purpose are recorded. |
-| SPH-08 | **DEFERRED** | Broad lexical renaming campaign. | Explicitly excluded from Phi 2026.1 | Reconsider only after repeated, high-impact perceptual confusion survives careful-production review. |
+| SPH-08 | **DEFERRED** | Broad collision-driven lexical renaming campaign. | Explicitly excluded from Phi 2026.1 | Reconsider only after repeated, high-impact perceptual confusion survives careful-production review; the accepted three-syllable migration is a separate structural change. |
 
 ## Phase 6: Semantic growth and optional modules
 
@@ -153,17 +154,23 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
 | SEM-01 | **DONE** | Establish the coinage quality protocol: compare composition and coinage, choose freely, then require complete semantics, schema, sound, examples, and references. | Development protocol and four completed vocabulary passes | Apply the same quality standard without treating it as an external burden of proof. |
-| SEM-01A | **NEXT** | Develop practice and domain profiles as optional lexical organization under one grammar. | Eight active profiles; Philosophical Reasoning has 22 module words, Systems and Shared Infrastructure has 25, Ecological Systems and Material Life has 30, and Commons and Collective Governance has 30, each with generated indexing and a speaker chapter | Apply the established vocabulary-pass pattern to the next selected profile. |
+| SEM-01A | **READY** | Develop practice and domain profiles as optional lexical organization under one grammar. | Eight active profiles; Philosophical Reasoning has 22 module words, Systems and Shared Infrastructure has 25, Ecological Systems and Material Life has 30, and Commons and Collective Governance has 30, each with generated indexing and a speaker chapter | Resume the established vocabulary-pass pattern after the breaking word-shape migration. |
 | SEM-01B | **DONE** | Record the intended profile catalogue. | `documents/modules/README.md`; eight active profiles and preserved future explorations | Add another profile when its organizational purpose is clear; no audience or external evidence gate is required. |
 | SEM-02 | **PARTIAL** | Map weak modern domains: technology, science, government, law, work, disability, reproductive health, sexuality, and institutions. | Assessment, survey, established Systems, Ecological, and Commons vocabulary modules, two access scenarios and profile, and the work/craft audit, scenario, and profile | Test non-workshop work relations, inhabited-place heat and cooling, accessibility outside meetings, and a standing institution outside councils while keeping sensitive domains scenario-gated. |
 | SEM-03 | **PARTIAL** | Solarpunk philosophical scenario corpus. | Original regression corpus and the established Ecological and Commons modules now cover ecology, energy, care, consent, accessibility, allocation, collective procedure, authority, accountability, watershed evidence, habitat, material return, shared craft, work refusal, and repair safety | Continue with mutual aid, institutional failure beyond one council, climate and heat, and conflicting visions of a good future. |
-| SEM-04 | **READY** | Tradition-specific philosophy protocol. | Exact-first/explain-in-core pattern in the capability matrix | Test several traditions without claiming one Phi paraphrase exhausts the source concept. |
+| SEM-04 | **READY** | Tradition-specific philosophy protocol. | Separate-source-first and explain-in-Phi pattern in the capability matrix | Test several traditions without claiming one Phi paraphrase exhausts the source concept. |
 | SEM-05 | **DONE** | Complete implementation standard for each new word. | Development protocol and 107 entries across the first four established modules | Require full schema fields, bounded scope, semantic contrasts, examples, phonetic checks, appropriate module placement, and generated references. |
-| SEM-06 | **PARTIAL** | Case-by-case review of core refusals. | Canon refusal and external-reporting rulings | Reconsider any refusal that obstructs care, identity, consent, safety, testimony, or analysis; document the result whether admitted or retained. |
+| SEM-06 | **PARTIAL** | Case-by-case review of core refusals. | Canon refusal and source-material rulings | Reconsider any refusal that obstructs care, identity, consent, safety, testimony, or analysis; preserve necessary source material separately whether the concept is admitted or retained outside the lexicon. |
 | SEM-07 | **DONE** | First philosophical vocabulary expansion. | 22 Philosophical Reasoning module words and Part VII teaching chapter | Continue through original writing and future vocabulary passes; no delayed evaluation prerequisite remains. |
 | SEM-07A | **DONE** | First systems and shared infrastructure vocabulary expansion. | 25 Systems and Shared Infrastructure module words, retained compositions, generated index, and Part VII teaching chapter | Use the module in original technical and infrastructure writing and revise any term or composition that feels inadequate. |
 | SEM-07B | **DONE** | First ecological systems and material life vocabulary expansion. | 30 Ecological Systems and Material Life module words, retained compositions, generated index, and Part VII teaching chapter | Use the module in original ecological and material writing and revise any term or composition that feels inadequate. |
 | SEM-07C | **DONE** | First commons and collective governance vocabulary expansion. | 30 Commons and Collective Governance module words, retained compositions, generated index, and Part VII teaching chapter | Use the module in original governance and institutional writing and revise any term or composition that feels inadequate. |
+| SEM-08 | **PARTIAL** | Enforce a universal three-syllable lexical ceiling. | D013; finite migration ledger; validator rejects any unlisted four-syllable addition | Complete the six-stage migration and replace all inherited forms without aliases. |
+| SEM-08A | **NEXT** | Replace 19 four-syllable base-vocabulary forms. | Migration ledger scope `base` | Select collision-safe three-syllable forms, update every active use, and retire each prior form. |
+| SEM-08B | **PENDING** | Replace 10 Philosophical Reasoning forms. | Depends on merged SEM-08A | Preserve the module's semantic families, examples, and speaker chapter under the new forms. |
+| SEM-08C | **PENDING** | Replace 24 Systems and Shared Infrastructure forms. | Depends on merged SEM-08B | Preserve technical contrasts and rerun complete listening-neighbor audits. |
+| SEM-08D | **PENDING** | Replace 30 Ecological Systems and Material Life forms. | Depends on merged SEM-08C | Preserve ecological distinctions and update all scenario and profile use. |
+| SEM-08E | **PENDING** | Replace 29 Commons and Collective Governance forms and close the migration. | Depends on merged SEM-08D | Retire the final old forms, remove the temporary ledger allowance, and require every lexicon entry to have at most three syllables. |
 
 ### Default coinage checklist
 
@@ -191,7 +198,7 @@ This checklist protects implementation quality. It does not require external app
 | COR-05 | **EVIDENCE** | Transcripts or reconstructions of spontaneous Phi conversation. | No spontaneous corpus yet | With consent, preserve normalized text and an error/repair log; do not publish raw voice by default. |
 | COR-06 | **PARTIAL** | Corpus-attestation data for phonetic and lexical decisions. | Phonetic audit counts documentation examples | Separate authored Phi usage from mentions in explanation as the corpus grows. |
 | PED-01 | **DONE** | Complete primer, reference manual, pamphlet shelf, quick reference, and generated explorer. | `primer/`; `manual/`; `pamphlets/`; `web/` build | Keep generated outputs synchronized. |
-| PED-02 | **DONE** | Advanced teaching for external registers and productive names. | Manual chapter 24 and relevant pamphlets | Maintain exercises and answers as rules evolve. |
+| PED-02 | **DONE** | Advanced teaching for source-material boundaries and productive names. | Manual chapter 24 and relevant pamphlets | Maintain exercises and answers as rules evolve. |
 | PED-03 | **PARTIAL** | Claims about learning burden aligned with actual grammar. | Revised introductory and manual prose | Continue auditing “one rule,” speed, and ease language. |
 | PED-04 | **EVIDENCE** | First complete outside learner walkthrough. | No result yet | Record chapter time, errors, questions, abandoned points, and prior language background. |
 | PED-05 | **EVIDENCE** | Curriculum pacing and retention evidence. | No result yet | Re-test selected material after a delay; revise ordering before adding explanations. |
@@ -231,7 +238,19 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The current priority is optional module vocabulary and original philosophical use. Evaluation and speech work remain available later, but neither is a prerequisite for coinage.
+The current priority is the accepted breaking migration to a universal three-syllable lexical ceiling. Optional module growth, original philosophical use, evaluation, and speech work remain available afterward; none is a prerequisite for the migration.
+
+### Work package 0: Three-syllable lexical migration
+
+**Roadmap items:** SEM-08A through SEM-08E.
+
+1. Replace the 19 base-vocabulary forms and merge that pass before touching module forms.
+2. Replace Philosophical Reasoning, Systems and Shared Infrastructure, Ecological Systems and Material Life, and Commons and Collective Governance in that order, one reviewable pull request per scope.
+3. For every replacement, preserve the semantic carve and full vocabulary schema, choose a collision-safe form of at most three syllables, update every active use and filename, append the old form to the retired list, and mark its ledger row `replaced` with the new form.
+4. Regenerate lexical references and the phonetic-neighbor baseline, then run lexicon, documentation, name, rendering, and generated-reference checks in every pass.
+5. In the final pass, verify that no lexicon entry exceeds three syllables and remove the temporary ledger allowance from the validator and active policy text.
+
+**Exit criterion:** all 112 inherited forms have collision-safe replacements, every old form is retired without an alias, the migration ledger is complete, and the absolute three-syllable validator passes without an exception list.
 
 ### Work package A: Next vocabulary module pass
 
@@ -276,9 +295,9 @@ The current priority is optional module vocabulary and original philosophical us
 2. Record careful and conversational versions on three nonconsecutive days.
 3. Test quiet and moderate-noise conditions without visible spelling.
 4. Enter trials, errors, replays, and confidence in the listening audit.
-5. Open a rename candidate only if the existing rename gate is met.
+5. Open a discretionary or collision-driven rename candidate only if the existing rename gate is met.
 
-**Exit criterion:** the two external boundary pairs and a prioritized function-word set have actual observation rows; automated scores alone trigger no rename.
+**Exit criterion:** a prioritized function-word set has actual observation rows; automated scores alone trigger no rename.
 
 ### Work package E: First outside-reader packet
 
@@ -286,7 +305,7 @@ The current priority is optional module vocabulary and original philosophical us
 
 Prepare this when an outside reader exists and participation would be useful; solo tasks are not a prerequisite.
 
-The packet should contain a short consent statement, pronunciation reference, a small primer segment, one external-register task, one philosophical dialogue, one repair task, and open-ended questions. Collect language background and qualitative observations. Do not claim percentages from a handful of participants.
+The packet should contain a short consent statement, pronunciation reference, a small primer segment, one source-material boundary task, one philosophical dialogue, one repair task, and open-ended questions. Collect language background and qualitative observations. Do not claim percentages from a handful of participants.
 
 **Exit criterion:** at least one outside reader completes the packet, their consent and conditions are recorded, and the roadmap distinguishes their observation from maintainer inference.
 
@@ -298,7 +317,8 @@ These labels describe logical milestones, not promised dates.
 |---|---|---|
 | Phi 2026.1: external register and honest scope | **DONE** | FND-01 through FND-04; EXT-01 through EXT-05; initial PHL and SPH tooling. |
 | Phi 2026.2: productive names | **DONE** | NAM-01 through NAM-04 and strict name validation. |
-| Solo evidence baseline | **NEXT** | Work packages A through D. |
+| Three-syllable lexical migration | **NEXT** | SEM-08A through SEM-08E, in merge sequence. |
+| Solo evidence baseline | **READY** | Work packages A through D. |
 | First evidence-led philosophical expansion | **PENDING** | Work package E and one narrowly justified release. |
 | Outside-reader pilot | **EVIDENCE** | Work package F. |
 | Recurring community practice | **EVIDENCE** | COM-03 through COM-06. |
@@ -323,7 +343,7 @@ The long plan is not complete when every gap has a word. It is complete when Phi
 
 1. original use exposes a specific failure;
 2. solo evaluation reproduces and describes it;
-3. the smallest justified change is made or the external bridge is retained;
+3. the smallest justified change is made or the source material remains separately preserved;
 4. teaching and tooling agree with the decision;
 5. the motivating task improves on re-test;
 6. outside users can report different results without those results being absorbed into a predetermined claim;

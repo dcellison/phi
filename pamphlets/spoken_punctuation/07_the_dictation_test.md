@@ -1,6 +1,6 @@
 # Part 7: The dictation test
 
-One scene, everything at once, and this time the scene is also an experiment. The narrower claim of this pamphlet is that core Phi punctuation has no silent contrast to lose. The test uses only core words: build a message containing a question, a Phi quotation, a core name, a wish, and an address, then pass it through careful speech. Exact external payload is a separate control condition, not part of the claim.
+One scene, everything at once, and this time the scene is also an experiment. The narrower claim of this pamphlet is that Phi punctuation has no silent contrast to lose. The test builds a message containing a question, a Phi quotation, a Phi name, a wish, and an address, then passes it through careful speech. Separately presented source artifacts are not part of that dictation claim.
 
 ### The question arrives
 
@@ -34,10 +34,10 @@ Read it slowly, naming the parts: the request announced (`no`), the recipient an
 
 The full round trip is designed to test whether the audible core markers survive transcription. English would need quotation marks, colons, a question mark, capitals, and a vocative comma; Phi supplies words for their grammatical work. A successful transcription is evidence about this message and speaker, not proof that every listener or channel will be error-free.
 
-This is what the core ruling means in practice: its punctuation is lexical rather than typographic. Exact external payload deliberately falls outside it. In `patha DOI:10.1000/182 patho`, the boundary is recoverable as Phi, but the identifier may need to be shown, spelled, or transmitted separately.
+This is what the ruling means in practice: Phi punctuation is lexical rather than typographic. An identifier such as `DOI:10.1000/182` remains outside the Phi passage and must be shown, spelled, cited, or transmitted through a convention appropriate to that artifact.
 
 ### Drill: run the test
 
 With a partner: read this part's two core framed sentences aloud at recitation pace while they transcribe, then compare against the page. Record every difference instead of treating mismatch as learner failure. Then trade roles with a message containing at least `wa`, one `shola … sholo`, one `ne`, and one `su`.
 
-Alone: record the reply sentence, wait until tomorrow, transcribe it without looking, and record every difference. For the external control, record `patha DOI:10.1000/182 patho` by any oral method you choose; notice that the frame survives while exact recovery depends on an additional spelling convention.
+Alone: record the reply sentence, wait until tomorrow, transcribe it without looking, and record every difference. As a separate comparison, transmit the source identifier `DOI:10.1000/182` by an agreed oral method and notice that exact recovery depends on a spelling or citation convention outside Phi grammar.

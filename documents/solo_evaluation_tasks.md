@@ -4,23 +4,23 @@ These tasks let one maintainer gather disciplined observations without disguisin
 
 ## 1. Structural regression
 
-Run the standalone validator plus the external-register and productive-name unit tests. Then read every example added since the previous release and verify its free translation against the lexicon gloss line. Machine agreement establishes internal consistency only.
+Run the standalone validator plus the productive-name unit tests. Then read every example added since the previous release and verify its free translation against the lexicon gloss line. Machine agreement establishes internal consistency only.
 
-## 2. External-layer choice
+## 2. Expression and source-layer choice
 
-Create twenty prompts divided evenly among core composition, registered compound, productive Phi-form name, adapted guest, and exact external material. Shuffle them and classify them immediately or later without consulting the key, recording any prompt for which two layers remain defensible. Ambiguity in the task may reveal a documentation problem rather than a wrong answer.
+Create twenty-four prompts divided evenly among canonical vocabulary, transparent composition, module vocabulary, productive Phi-form names, explicit translation, and separately presented source material. Shuffle them and classify them immediately or later without consulting the key, recording any prompt for which two choices remain defensible. Ambiguity in the task may reveal a documentation problem rather than a wrong answer.
 
 Required prompt domains are personal names, place names, tradition-specific philosophy, source quotation, historical harmful terminology, exact time, medical quantity, scientific notation, URL or identifier, community practice, and a recurring semantic gap.
 
-For the name prompts, include a two-syllable onym, a three-syllable onym, a four-syllable onym, a five-or-more-syllable guest adaptation, a multi-token name, an exact non-Latin form, two people sharing one name, and a source name whose preferred adaptation is unknown. Repeat one chosen onym at least ten times in a short narrative and compare its burden with the fully framed guest equivalent.
+For the name prompts, include a two-syllable onym, a three-syllable onym, a rejected four-syllable proposal, a multi-token source name, a non-Latin source form, two people sharing one onym, and a source name whose preferred adaptation is unknown. Repeat one chosen onym at least ten times in a short narrative and record its burden while keeping the source name separately available.
 
-## 3. Boundary recognition
+## 3. Function-word boundary recognition
 
-Use `scripts/audit_phonetic_neighbors.py` to generate fixed-seed ABX prompts for `hasha/hasho`, `patha/patho`, and other dense function-word pairs. Follow `documents/listening_audit.md`. Keep results separated by careful and conversational production.
+Use `scripts/audit_phonetic_neighbors.py` to generate fixed-seed ABX prompts for dense function-word pairs. Follow `documents/listening_audit.md`. Keep results separated by careful and conversational production.
 
-## 4. Exact-payload safety
+## 4. Source-separation and rendering safety
 
-Build the site with payloads containing mixed case, non-Latin script, punctuation, a URL, mathematical notation, doubled `patho`, and HTML-looking text. Inspect generated source to confirm that payload is escaped, visually marked, excluded from the lexicon, and retained as source text in mixed Tengwar output.
+Build the site with surrounding source examples containing mixed case, non-Latin script, punctuation, a URL, mathematical notation, and HTML-looking text. Confirm that none appears inside a Phi code block, that the Markdown renderer escapes it safely, and that Tengwar rendering is attempted only for complete Phi lines.
 
 ## 5. Open-reference philosophical paraphrase
 
@@ -42,7 +42,7 @@ Read both roles of one dialogue aloud without rehearsal. At each artificial misu
 | 2026-07-10 | 2026.2 candidate | structural regression | productive name forms | 937 entries; 0 errors; 0 warnings; 12 name-form tests passed | no structural failure found | run repeated-name narrative task |
 | 2026-07-10 | post-2026.2 main | argument transformation | Rain and the River; Grain for Hunger and Seed; Definition Under Pressure | six Phi-only prompts and a separate proposition key authored and structurally validated | no human interpretation recorded; the intended learner has not viewed the key | use any prompt immediately with the key closed and record whether references were used |
 | pending | post-2026.2 main | open-reference paraphrase | philosophical transformation prompt packet | available immediately | no Phi-only paraphrase has been recorded | interpret one unread prompt without viewing the key, using the lexicon and grammar as needed |
-| pending | 2026.1 candidate | boundary recognition | recorded ABX prompts | no recordings yet | maintainer audio unavailable in repository work | record in a separate session |
+| pending | post-frame-removal main | function-word boundary recognition | recorded ABX prompts | no recordings yet | maintainer audio unavailable in repository work | record in a separate session |
 
 ## External evidence boundary
 

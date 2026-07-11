@@ -30,7 +30,7 @@ These are existing Phi roots and function words. The profile indexes them withou
 | Timing, pacing, and preparation | `thimu` time, `wireo` future, `phoe` before, `pheo` after, `weno` when, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow | Speakers can order events, wait, rest, prepare, and describe slower action. They cannot conventionally distinguish advance notice, processing time, a break, postponement, predictable scheduling, and delay used as exclusion. |
 | Space, movement, and safety | `ponu` door, `ruela` path, `shoeka` route, `lokue` place, `lona` meeting, `koema` enter, `wepu` go, `losha` wide, `hieru` narrow, `shurano` safe, `pukea` danger | Speakers can state environmental conditions and whether a route or action is possible and safe, but current Phi has no general access relation connecting a person, environment, activity, and requirement. |
 | Support and shared action | `naphe` help, `panoru` support, `theama` care, `shorupo` protect, `keli` device, `loa` give, `howela` receive, `phowe` share, `nua` accompaniment, `nuawe` together | Speakers can offer or receive help, use a device, and act with others. The vocabulary does not by itself distinguish accommodation from ordinary help, assistance from control, or shared activity from dependence. |
-| Evidence, modality, and exact information | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `masue` measure, `siru` marker, `patha ... patho` exact material | Speakers can mark a claimed source, preserve specifications, and state possibility or necessity. Evidence markers do not establish another person's need, `po` does not inherently mean permission, and exact carriage does not establish practical access. |
+| Evidence, modality, and exact information | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `masue` measure, `siru` marker, `siranomi` record, and separately preserved source material | Speakers can mark a claimed source, discuss specifications, and state possibility or necessity. Evidence markers do not establish another person's need, `po` does not inherently mean permission, and source preservation does not establish practical access. |
 
 ## Optional Cross-Module Dependencies
 
@@ -48,7 +48,7 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 | Refuse and preserve agency | Use `naweri` or explicit non-agreement, acknowledge with `thekao`, and state which action will stop or change. | Refusal of an action, disagreement with a proposal, refusal of a person, and withdrawal of prior permission may require additional clauses to remain distinct. |
 | Allow time and preparation | Use `phoe`, `hasi`, `therilu`, `thilonu`, and explicit future clauses to place information and thought before participation or decision. | Waiting has no inherent ethical direction. It may enable access, defer responsibility, create another burden, or exclude someone through delay. |
 | Contribute without agreeing | State understanding, contribution, participation, and agreement or disagreement in separate clauses or proposition frames. | The strategy is transparent but not compact; presence, consultation, participation, endorsement, consent, and decision authority remain unconventionalized relations. |
-| Preserve exact access information | Carry the complete source term, dimension, specification, instruction, standard, identity wording, or record in `patha ... patho`. | Exact material remains opaque to Phi grammar and may still be unavailable in practice if its format, explanation, or timing does not serve the recipient. |
+| Preserve exact access information | Keep the complete source term, dimension, specification, instruction, standard, identity wording, or record outside the Phi passage. | Exact material may still be unavailable in practice if its format, explanation, or timing does not serve the recipient. |
 
 ## Scenario Evidence
 
@@ -72,15 +72,15 @@ These are scripted regression texts by one maintainer. They demonstrate useful c
 | Speaking to, assisting, and representing someone are distinct relations | **Provisional**, exposed by `wei` in one scenario | Preserve the ambiguity in the gap inventory and test another proxy or interpretation case before proposing a convention. |
 | Asynchronous contribution may enable participation | **Provisional**, one written-response case | Test outside a meeting before treating asynchronous participation as a stable profile practice. |
 
-## External Register Guidance
+## Source Material Guidance
 
-Use `patha ... patho` when the exact source form matters: a person's disability or identity wording, the name of a signed language or communication system, a legal or institutional term, an access plan, a technical standard, a dimension or device specification, an identifier, a source instruction, or testimony under analysis. Preserve spelling, script, notation, and wording without silent normalization or translation.
+Keep a person's disability or identity wording, the name of a signed language or communication system, legal or institutional terms, access plans, technical standards, dimensions, device specifications, identifiers, source instructions, and testimony outside the Phi passage when exact source form matters. Preserve spelling, script, notation, and wording without silent normalization or translation.
 
-Use `hasha ... hasho` only for a temporary Phi-pronounceable adaptation when the source form is not authoritative and participants need a speakable external term. A guest adaptation does not become a diagnosis, identity assignment, professional category, or core definition.
+Use existing vocabulary, a transparent expression, a module term, or a fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not become a diagnosis, identity assignment, professional category, or Phi definition.
 
-After either frame, describe the practical relation in core Phi where useful: who intends to do what, which environmental or procedural condition blocks it, what change is requested, what was accepted or refused, and whether participation became possible. Do not claim that this analysis exhausts the source term.
+Describe the practical relation in Phi where useful: who intends to do what, which environmental or procedural condition blocks it, what change is requested, what was accepted or refused, and whether participation became possible. Do not claim that this analysis exhausts the separately preserved source term.
 
-An exact label such as `patha accessibility patho` or `patha reasonable accommodation patho` preserves a category but does not identify a route, communication practice, time requirement, authority relation, or implementation. Exact carriage is necessary when wording matters and insufficient when action matters.
+A separately presented label such as `accessibility` or `reasonable accommodation` preserves a source category but does not identify a route, communication practice, time requirement, authority relation, or implementation. Exact preservation is necessary when wording matters and insufficient when action matters.
 
 ## Vocabulary Pass Inventory
 

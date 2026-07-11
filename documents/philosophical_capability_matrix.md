@@ -1,20 +1,20 @@
 # Phi Philosophical Capability Matrix
 
-This matrix is a development instrument, not a claim of philosophical completeness. It asks whether Phi can perform recurring operations in connected argument, identifies the current mechanism, and records when the honest answer is composition, an external term, or an unresolved gap.
+This matrix is a development instrument, not a claim of philosophical completeness. It asks whether Phi can perform recurring operations in connected argument, identifies the current mechanism, and records when the honest answer is composition, separately preserved source material, or an unresolved gap.
 
 ## Status key
 
 - **Demonstrated**: current grammar and vocabulary support the operation in validated connected text.
 - **Compositional**: possible, but no single conventional construction yet carries the operation reliably.
-- **External bridge**: exact or guest material is currently the most faithful carrier for a tradition-specific term.
-- **Gap**: current material does not yet support the operation clearly enough; the maintainer may respond with clearer composition, coinage, external treatment, or more writing according to the concept's value and fit.
+- **Source bridge**: a separately preserved source artifact plus Phi analysis is currently the most faithful treatment for a tradition-specific term.
+- **Gap**: current material does not yet support the operation clearly enough; the maintainer may respond with clearer composition, coinage, separate source treatment, or more writing according to the concept's value and fit.
 
 ## Matrix
 
 | Operation | Status | Current resources | Failure to watch | Next solo test |
 |---|---|---|---|---|
 | Definition and signification | Demonstrated | `reo`, `relo`, `lilea`, `remolea`, `kirothe`, `kiremoa`, predicate `nai` | Reference, extension, and criteria still require careful scope | Use examples, criteria, and entailment direction in original definitions |
-| Asking for a definition | Demonstrated | content interrogative `hina`, `reo`, polite imperative | A request for meaning may be heard as a request for translation | Contrast a core analysis with an exact source term |
+| Asking for a definition | Demonstrated | content interrogative `hina`, `reo`, polite imperative | A request for meaning may be heard as a request for translation | Contrast a Phi analysis with a separately presented source term |
 | Identity and predication | Demonstrated | `nai`, `senao`, deictics | Class membership, numerical identity, and qualitative sameness are not separately grammaticalized | Write cases where two descriptions share one referent but are not interchangeable |
 | Distinction and comparison | Demonstrated | `phirae`, `senao`, `sheo`, `mo`, `ko` | Comparison may imply a value ranking not intended by the speaker | Compare magnitudes, kinds, and values in separate examples |
 | Factual truth | Demonstrated | `shewo`, `theloa`, evidentials | Truth, sincerity, and authenticity have neighboring vocabulary that can blur | Contrast factual accuracy with sincere but mistaken belief |
@@ -37,15 +37,15 @@ This matrix is a development instrument, not a claim of philosophical completene
 | Values and competing goods | Compositional | `sone`, `rolia`, `noetha`, `soneholu`, `malonawi`, `sone noa`, `whekai`; Commons terms for allocation, entitlement, ownership, legitimacy, decision, and redress; scenario 11 | Tradeoff, compromise, and governance relations are named, while acceptable loss and the grounds for fair distribution still require explanation | Use the terms in decisions where no option preserves every value and no procedure settles the moral question by itself |
 | Responsibility and obligation | Compositional | `thonai`, `na`, `seru`; Commons terms `naserumi`, `lonathoni`, `silathora`, `helokelu`, and `nashakelu`; scenarios 12 and 15 | Voluntary responsibility, imposed obligation, role, accountability, redress, and enforcement are distinguishable, while causation, competence, capacity, liability, and final approval still require explicit relations | Transform both repair cases by independently changing causation, warning knowledge, commitment, role, obligation, competence, capacity, authority, accountability, and safe-completion responsibility |
 | Agency and collective action | Demonstrated | ordinary transitivity, `ka`, `nua`, plural pronouns; Commons terms for member, representation, institution, role, delegation, authority, procedure, and decision; scenarios 11, 12, and 15 | The module makes institutional agency analyzable, but no sustained after-state passage yet demonstrates all participants, affected people, authority claims, representation limits, and decision roles | Write an original collective action in which the acting group, institution, members, representatives, role holders, affected people, and dissenters are not the same set |
-| Governance and institutional criticism | Compositional | Commons and Collective Governance module: `punoraki`, `kanorami`, `noruwela`, `kirethua`, `nasholu`, `norathume`, `kanusholu`, `phanokelu`, `sherenori`, `lonathoni`, `helokelu`, `turekiro`, `kanuwhera`, `whekapelo`; exact external source material | Membership, authority, procedure, allocation, accountability, revision, coercion, and retaliation are named, but the source scenarios remain before-state texts and source-specific legal or political force remains external | Write one sustained allocation decision and one institutional-failure account that preserve authority, legitimacy, dissent, notice, records, accountability, redress, appeal, and unresolved criticism |
+| Governance and institutional criticism | Compositional | Commons and Collective Governance module: `punoraki`, `kanorami`, `noruwela`, `kirethua`, `nasholu`, `norathume`, `kanusholu`, `phanokelu`, `sherenori`, `lonathoni`, `helokelu`, `turekiro`, `kanuwhera`, `whekapelo`; separately preserved source material | Membership, authority, procedure, allocation, accountability, revision, coercion, and retaliation are named, but the source scenarios remain before-state texts and source-specific legal or political force remains outside Phi | Write one sustained allocation decision and one institutional-failure account that preserve authority, legitimacy, dissent, notice, records, accountability, redress, appeal, and unresolved criticism |
 | Systems and feedback | Compositional | Systems and Shared Infrastructure module: `terulora`, `monakeli`, `nomirela`, `phelorani`, `koemari`, `thirulo`, `selokaru`, `kiroweli`, `ketorami`, `turekali`; Ecological Systems and Material Life module: `limatero`, `limaweso`, `mothanomi`, `helurani`, `reloteru`, `somethiru`; existing process and flow vocabulary | The terms make technical and ecological relations available, but no sustained original passage yet demonstrates a complete system explanation or preserves every boundary, scale, and causal qualification | Write an original infrastructure or ecological explanation that identifies boundary, components or populations, state, inputs and outputs, dependencies, feedback, evidence, scale, and uncertainty without using the terms as unexplained labels |
-| Emergence | Gap | `terulora`, `limatero`, `limaweso`, `kelu`, component, population, interaction, and state descriptions, exact external terminology | A changed whole or ecological community may be described without distinguishing emergence from aggregation, interaction, feedback, surprise, or an observer's chosen scale | Decide through original systems or ecological writing whether transparent component-state and population-interaction clauses suffice or a bounded module word would improve the analysis |
-| Ecological evidence and material pathways | Compositional | `luphanori`, `wiraselu`, `wherakelu`, `hisophira`, `nomiraki`, `pelorawi`, `mueralo`, `whemorali`, `moralume`, `turekelu`, `phisumari`, `mothanomi`, `helurani`, `reloteru`, `somethiru`; exact external source material | The module separates several ecological entities, processes, evidential roles, and material statuses, but its scenario sources remain before-state texts and no sustained after-state passage yet demonstrates the complete analysis | Write one connected watershed analysis and one material-afterlife analysis that preserve boundary, path, scale, sample identity, baseline, trend, model limits, exposure, value judgments, authority, and planned review |
+| Emergence | Gap | `terulora`, `limatero`, `limaweso`, `kelu`, component, population, interaction, and state descriptions, and separately preserved source terminology | A changed whole or ecological community may be described without distinguishing emergence from aggregation, interaction, feedback, surprise, or an observer's chosen scale | Decide through original systems or ecological writing whether transparent component-state and population-interaction clauses suffice or a bounded module word would improve the analysis |
+| Ecological evidence and material pathways | Compositional | `luphanori`, `wiraselu`, `wherakelu`, `hisophira`, `nomiraki`, `pelorawi`, `mueralo`, `whemorali`, `moralume`, `turekelu`, `phisumari`, `mothanomi`, `helurani`, `reloteru`, `somethiru`; separately preserved source material | The module separates several ecological entities, processes, evidential roles, and material statuses, but its scenario sources remain before-state texts and no sustained after-state passage yet demonstrates the complete analysis | Write one connected watershed analysis and one material-afterlife analysis that preserve boundary, path, scale, sample identity, baseline, trend, model limits, exposure, value judgments, authority, and planned review |
 | Change and revision | Demonstrated | `helui`, `kelu`, perfective and past marking | Change of belief versus change of evidence must be stated explicitly | Narrate one justified and one unjustified revision |
 | Uncertainty and suspended judgment | Compositional | `wharemoi`, `norethi`, `ho`, `ma sano`, embedded questions, `mena ... meno nohero ma kanu` | Doubt and confidence are named, while degrees and principled suspension remain compositional | Use the vocabulary in a dialogue that ends without agreement or conclusion |
-| Testimony and harmful categories | External bridge | `ti`, `shola … sholo`, `patha … patho` | Transmutation may erase the wording or category being examined | Preserve the source exactly, then provide a separate core analysis |
-| Technical and institutional precision | External bridge | `patha … patho`; Systems terms for state, capacity, calibration, specification, inspection, reliability, and hazard; Ecological terms for sample, baseline, trend, model, concentration, exposure, and monitoring; Commons terms for rule, notice, record, jurisdiction, entitlement, ownership, and review | Module words explain the role of exact material but cannot replace values, units, notation, wording, version, provenance, representativeness, source authority, legal force, or qualified interpretation | Test formulas, dates, units, citations, identifiers, specifications, sample records, model versions, exact rules, rights claims, notices, records, and judgments in each writing mode |
-| Tradition-specific philosophy | External bridge | exact first mention, guest pronunciation, core paraphrase | Premature coinage can import a whole framework under one opaque root | Use exact term plus explicit Phi analysis across several texts |
+| Testimony and harmful categories | Source bridge | `ti`, `shola … sholo` for Phi speech, separate source preservation | Transmutation may erase the wording or category being examined | Preserve the source artifact exactly, then provide a separate Phi analysis |
+| Technical and institutional precision | Source bridge | Separate source records; Systems terms for state, capacity, calibration, specification, inspection, reliability, and hazard; Ecological terms for sample, baseline, trend, model, concentration, exposure, and monitoring; Commons terms for rule, notice, record, jurisdiction, entitlement, ownership, and review | Module words explain the role of exact material but cannot replace values, units, notation, wording, version, provenance, representativeness, source authority, legal force, or qualified interpretation | Test formulas, dates, units, citations, identifiers, specifications, sample records, model versions, exact rules, rights claims, notices, records, and judgments across writing modes |
+| Tradition-specific philosophy | Source bridge | separately presented exact term, outside pronunciation convention, Phi paraphrase | Premature coinage can import a whole framework under one opaque root | Use a preserved source term plus explicit Phi analysis across several texts |
 
 ## Validated operation bank
 
@@ -133,12 +133,14 @@ PL 1SG peace value. CONTR PL 1SG free value.
 (We value peace. However, we value freedom.)
 ```
 
-### Exact term and core analysis
+### Source term and Phi analysis
+
+Source phrase outside Phi: `growth at any cost`
 
 ```
-lo mia patha growth at any cost patho to hea.
-PL 1SG EXT.EXACT [growth at any cost] EXT.EXACT.CLOSE PST hear.
-(We heard the phrase "growth at any cost.")
+lo mia ha shane to hea.
+PL 1SG PROX tell PST hear.
+(We heard this saying.)
 
 lo mia ha reo shareo.
 PL 1SG PROX meaning discuss.
@@ -147,4 +149,4 @@ PL 1SG PROX meaning discuss.
 
 ## Acceptance rule for additions
 
-A missing operation does not automatically justify a new root or particle. First place the operation in at least two dialogues and one sustained argument, try existing grammar and discourse markers, record where readers could misinterpret it, and compare core paraphrase with exact terminology. Add vocabulary only when the same failure recurs and a proposed form improves several contexts without hiding an important distinction.
+A missing operation may justify vocabulary when the concept is useful, valued, or worth making easy to express. Compare existing grammar, transparent expressions, possible coinage, and separate source treatment; then give any new word a bounded definition, complete schema, collision audit, examples, and synchronized teaching. No repeated-failure threshold is required.

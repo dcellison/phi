@@ -10,9 +10,9 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **classifier**: A word that names the *kind* of thing being counted. Phi's four: `himo` (people), `lipha` (living things), `themo` (objects), `nophe` (abstractions). Optional, and used as an act of acknowledgment.
 
-**complementizer**: A framing function word. Phi's clause frames include `mena…meno` (that-clauses), `wela…welo` (embedded questions), and `shola…sholo` (Phi quotations). The same opener/closer shape also marks the nominal external atoms `hasha…hasho` (adapted guest) and `patha…patho` (exact opaque material).
+**complementizer**: A framing function word. Phi's clause frames include `mena…meno` (that-clauses), `wela…welo` (embedded questions), and `shola…sholo` (Phi quotations).
 
-**external register**: Two explicitly bounded ways to carry non-core material. Guest payload is adapted to Phi pronunciation; exact payload retains source spelling, script, punctuation, notation, or terminology. Neither becomes core vocabulary through use.
+**source material**: Foreign wording, source-script names, exact records, formulas, identifiers, quotations, and other unassimilated artifacts preserved outside a Phi passage in the surrounding medium. Phi may point to, translate, or analyze that material without treating its tokens as Phi syntax.
 
 **copula**: The verb *to be* linking a subject to a description. Phi's `nai`; the predicate comes before it (`shelira phelora nai` — the forest is beautiful).
 
@@ -36,7 +36,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **particle**: A short, invariant grammatical word. In Phi, always a single CV syllable, assigned to one of three slots: sentence-frame (Slot 0), verb-phrase (Slot 1), word-level (Slot 2).
 
-**phonotactics**: The rules for how sounds may combine. Core Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, and no repeated syllable within a word. Guest payload follows these rules except that syllables may repeat; exact payload is opaque and exempt.
+**phonotactics**: The rules for how sounds may combine. Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, no repeated onset-bearing syllable within a word, and an absolute three-syllable lexical ceiling.
 
 **pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[rena mia to nila] shelu` — the [that I saw] book. Phi's relativizer `rena` opens the clause; the head noun itself closes it.
 
@@ -50,7 +50,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **tense**: When an action happens relative to now. Phi: past `to`, future `so`, present unmarked.
 
-**transmutation**: Rebuilding an idea from Phi's own concepts rather than mapping words across. Use exact external form instead when rebuilding would falsify a source, erase an identity, or lose required precision. See chapters 22 and 24.
+**transmutation**: Rebuilding an idea from Phi's own concepts rather than mapping words across. Preserve the source artifact outside the Phi passage when rebuilding would falsify wording, erase an identity, or lose required precision. See chapters 22 and 24.
 
 **vocative**: The grammar of calling someone. Phi's `kona`, standing outside the sentence it introduces.
 
@@ -78,10 +78,6 @@ Click or hover on a row for a longer explanation of that gloss.
 | DECL.COMP.CLOSE | meno | that-clause (closer) | Closes a `mena` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
 | DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
 | DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
-| EXT.EXACT | patha | exact external opener | Opens opaque source material whose spelling, script, punctuation, notation, or terminology is preserved rather than interpreted as Phi. |
-| EXT.EXACT.CLOSE | patho | exact external closer | Closes a `patha` atom. Doubled standalone `patho patho` inside payload represents a literal occurrence. |
-| EXT.GUEST | hasha | adapted external opener | Opens external material adapted to Phi pronunciation without adding it to the lexicon. |
-| EXT.GUEST.CLOSE | hasho | adapted external closer | Closes a `hasha` atom. A guest payload cannot contain standalone `hasho`. |
 | FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomui` singles out love, not other things, as what is understood. |
 | FUT | so | future | The future tense particle. Present tense carries no particle at all. |
 | HAB | ro | habitual | The aspect for a recurring or characteristic action, distinct from `si` (mid-flow, happening now): `mia ro theo` is I read regularly. |
@@ -96,7 +92,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | IRR | he | irrealis | Paired with `lu` as `lu he`, an unreal or counterfactual conditional, for a condition that did not or cannot hold. |
 | LIFE.CLF | lipha | living-thing classifier | The classifier for non-human living things: animals, plants, fungi, grouped by their shared vitality. |
 | LOC | mua | in/at | In, at, inside, marking where an action happens. It is never a motion endpoint itself; going toward a destination uses `kau`. |
-| NAME | ne | proper-name atom | Announces that the following atom is a proper designation. The atom may be a content word, a productive two-, three-, or four-syllable Phi-form onym with no lexicon meaning, or a complete guest/exact frame. |
+| NAME | ne | proper-name token | Announces that the following Phi token is a proper designation. The token may be a content word or a productive two- or three-syllable Phi-form onym with no lexicon meaning. |
 | NEC | na | necessity | Marks that an action is necessary or obligatory: `mia na naphe` is I must help. |
 | NEG | ma | negation | Negation. It always comes last in a stack of Slot 1 particles, after tense, aspect, voice, evidentiality, and modality. |
 | OPT | su | optative | Announces a wish, hope, or prayer: `su sila towe nai` is may the community be well. |

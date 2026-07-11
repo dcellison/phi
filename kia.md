@@ -26,7 +26,7 @@ Every syllable is open — a consonant, then a vowel, nothing after. Every vowel
 
 ## You can hear the punctuation
 
-Core Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens the exact Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new two-, three-, or four-syllable Phi-form name without adding it to the dictionary. This makes core punctuation recoverable in careful dictation. Advanced Phi also has a visibly and audibly bounded exact register for external spellings, scripts, numbers, and notation; its payload keeps the source form and therefore makes no letter-perfect oral promise.
+Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens verbatim Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new two- or three-syllable Phi-form name without adding it to the dictionary. This makes Phi punctuation recoverable in careful dictation. Source spellings, scripts, numbers, records, and notation remain outside Phi passages in their own medium.
 
 ## The slowing is the practice
 
@@ -34,7 +34,7 @@ Why teach a language at an unhurried pace? Because every Phi sentence can rehear
 
 ## Some words are missing on purpose
 
-Core Phi has no word for any weapon. It has no word for *bad* — things are harmful, broken, or unwell, and the speaker must say which. It has no gendered person-words: *miona* is a person, *tewema* a partner, *phao* a parent. It has no core vocabulary of domination — no *lord*, no *throne*, no *to rule*. These are value-explicit design choices, not a ban on testimony or analysis: the exact external register can carry any source term inside audible boundaries, and a core refusal must be reconsidered if it obstructs care, identity, consent, safety, or critique.
+Phi has no word for any weapon. It has no word for *bad* — things are harmful, broken, or unwell, and the speaker must say which. It has no gendered person-words: *miona* is a person, *tewema* a partner, *phao* a parent. Some vocabulary of domination remains deliberately absent. These are value-explicit design choices, not a ban on testimony or analysis: a source term can remain separately visible while Phi describes or critiques it, and any lexical refusal must be reconsidered if it obstructs care, identity, consent, safety, testimony, or critique.
 
 ## Honesty is grammatical
 
@@ -51,7 +51,7 @@ There is no "you need not go." Phi states the absence of obligation as the prese
 
 ## It is not a sketch
 
-The lexicon holds about nine hundred words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts — eight so far, transmuted rather than translated: the loving-kindness meditation, the old fable of the wind and the sun, the first article of the Universal Declaration of Human Rights (which needed no new words at all), the Babel story, Schleicher's sheep and horses, the fox's secret from *The Little Prince*, the whole of *The Velveteen Rabbit* — where *Real* turned out to be a piece of grammar the language already had — and the Ring Verse, refused. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
+The lexicon holds more than one thousand words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts — eight so far, transmuted rather than translated: the loving-kindness meditation, the old fable of the wind and the sun, the first article of the Universal Declaration of Human Rights (which needed no new words at all), the Babel story, Schleicher's sheep and horses, the fox's secret from *The Little Prince*, the whole of *The Velveteen Rabbit* — where *Real* turned out to be a piece of grammar the language already had — and the Ring Verse, refused. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
 
 ## Five doors
 
@@ -63,7 +63,7 @@ The lexicon holds about nine hundred words, every one validated by machine again
 
 **Read** — the texts. Phi has a shelf of literature already: eight works rebuilt in the language rather than translated into it, from a loving-kindness meditation to a velveteen rabbit — and one famous verse it would not say.
 
-**Practice** — the pamphlets. A growing shelf on the structures learners find hardest — from relative clauses and the external register to ternary numbers, names, spoken punctuation, and the particle system: each explained carefully, with exercises and answers.
+**Practice** — the pamphlets. A growing shelf on the structures learners find hardest — from relative clauses and source-material boundaries to ternary numbers, names, spoken punctuation, and the particle system: each explained carefully, with exercises and answers.
 
 ---
 

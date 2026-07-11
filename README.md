@@ -1,6 +1,6 @@
 # Phi
 
-**kia** — hello. Phi is a philosophical constructed language built around one modifier-first organizing principle, regular forms, and a practice of unhurried communication. Its shelf of literature includes the Ring Verse, which the core language refused to translate and can now carry only as clearly marked external material.
+**kia** — hello. Phi is a philosophical constructed language built around one modifier-first organizing principle, regular forms, and a practice of unhurried communication. Its shelf of literature includes the Ring Verse, whose source remains visibly separate from Phi's refusal to translate it.
 
 **If you are new, do not start here.** Start with **[kia.md](kia.md)** — five minutes, and it will tell you whether Phi is for you. Or start with the language alive: everything below is rendered to **[dcellison.github.io/phi](https://dcellison.github.io/phi/)** on every merge. This page is the map of the repository for whoever comes back.
 
@@ -10,7 +10,7 @@
 |---|---|---|
 | **The invitation** | [kia.md](kia.md) | Five minutes of contact with the language. The front door. |
 | **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, twenty-four graded chapters about one household, and a capstone. No prior knowledge assumed. |
-| **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social and external registers, transmutation. For verification and depth. |
+| **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, and transmutation. For verification and depth. |
 | **The texts** | [texts on the site](https://dcellison.github.io/phi/texts/) | Phi's literature: eight transmutations, from the Metta Sutta to the whole of *The Velveteen Rabbit* — and the Ring Verse, refused, with the refusal shown line by line. |
 | **The pamphlets** | [pamphlets on the site](https://dcellison.github.io/phi/pamphlets/) | Deep-dive companions to the manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys. |
 
@@ -20,7 +20,7 @@ Four shelves, four jobs: `documents/` is what the language **is** (the specifica
 
 | | |
 |---|---|
-| [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. About nine hundred words. |
+| [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. More than one thousand entries. |
 | [documents/](documents/) | Current language references and development evidence, indexed by purpose. This includes the [language assessment](documents/language_assessment.md), [lexicon expansion survey](documents/lexicon_expansion_survey.md), [status roadmap](documents/roadmap.md), and solo-maintainer development log. |
 | [documents/modules/](documents/modules/) | Experimental practice and domain profiles that organize shared core vocabulary and record gaps without creating separate grammars or lexicons. |
 | [pamphlets/](pamphlets/) | The sources for the texts shelf (eight transmutations, the Metta Sutta through *The Velveteen Rabbit*, plus the Ring Verse refusal) and the two study pamphlets. |

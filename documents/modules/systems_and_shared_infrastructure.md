@@ -14,7 +14,7 @@ The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/par
 
 - Phi retains one grammar. The module adds no systems syntax, technical operator, particle, inflection, parser mode, or incompatible construction.
 - A module word is ordinary Phi vocabulary. Speakers outside the module may ask for a core paraphrase and are not obliged to learn its specialized terms.
-- Exact specifications, units, formulas, identifiers, standards, source instructions, and measurement records remain exact external material even when a module word identifies their role.
+- Exact specifications, units, formulas, identifiers, standards, source instructions, and measurement records remain in source material outside the Phi passage even when a module word identifies their role.
 - Infrastructure affects bodies, access, labor, land, and collective authority. Those consequences remain shared with [Medical and Bodily Care](medical_and_bodily_care.md), [Accessibility and Participation](accessibility_and_participation.md), [Commons and Collective Governance](commons_and_collective_governance.md), [Household and Daily Life](household_and_daily_life.md), [Ecological Systems and Material Life](ecological_systems_and_material_life.md), and [Work, Craft, and Repair](work_craft_and_repair.md).
 - A person's value, effort, capacity, reliability, or needs are never treated as system metrics by default. The technical senses of `talukori`, `henoraki`, `kolutheri`, and `ketorami` do not license their unmarked application to people.
 - `ketorami` names technical control of a process or variable, not command, coercion, government, ownership, or authority over people.
@@ -32,11 +32,11 @@ These existing resources remain available to every Phi speaker and keep their or
 | Energy, water, and land | `kenua` energy, `sorae` sun, `phialu` water, `luphore` river, `muila` earth, `phelu` hold, `phelona` require | Supply concrete materials and needs for infrastructure discussion without defining technical units, storage models, or ecological consequences. |
 | Maintenance and continuity | `shiroka` repair, `talome` restore, `thiranu` maintain, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect | Keep repair, restoration, upkeep, continuity, regeneration, and protection distinct from inspection, calibration, fault, failure, reliability, and redundancy. |
 | Shared use and responsibility | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible | Describe shared use and care while leaving ownership, authority, allocation, accountability, labor assignment, and obligation to their relevant modules and explicit clauses. |
-| Evidence, precision, and reasoning | `masue` measure, `siru` marker, `kiro` precise, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `sano` know, `nohero` believe, `lilea` clarify, `kiremoa` criterion, `natheri` entail, `patha ... patho` exact material | Preserve readings and distinguish source, inference, criteria, and logical relations from technical state, calibration, specification, inspection, and reliability. |
+| Evidence, precision, and reasoning | `masue` measure, `siru` marker, `siranomi` record, `kiro` precise, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `sano` know, `nohero` believe, `lilea` clarify, `kiremoa` criterion, `natheri` entail, and separately preserved source material | Discuss readings and distinguish source, inference, criteria, and logical relations from technical state, calibration, specification, inspection, and reliability. |
 
 ## First Vocabulary Pass
 
-The first pass admits words for recurrent technical relations whose ordinary paraphrases would be cumbersome, ambiguous, or unable to make the relation itself available for sustained discussion. Four-syllable forms are used freely for broad or internally layered concepts. The pass does not attempt to minimize coinage, and its choices may be revised through actual technical explanation, stories, maintenance records, or infrastructure discussion.
+The first pass admits words for recurrent technical relations whose ordinary paraphrases would be cumbersome, ambiguous, or unable to make the relation itself available for sustained discussion. The original pass used four-syllable forms for many broad or internally layered concepts; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through actual technical explanation, stories, maintenance records, or infrastructure discussion.
 
 | Family | Established module words | What the pass now distinguishes |
 |---|---|---|
@@ -59,18 +59,18 @@ The pass keeps several expressions compositional because their parts expose anal
 | Shared infrastructure | `sila panoru terulora`, community-support system | Keeps the supported community and supporting function visible instead of treating infrastructure as a neutral object or automatic public good. |
 | Infrastructure service | `panoru kelithora`, support function | Identifies the function provided without silently asserting ownership, authority, entitlement, or adequate access. |
 | Pathway | `selu shoeka` plus explicit source, goal, and `selokaru` clauses | Prevents a route label from silently claiming direction, continuity, conservation, or cause. |
-| Technical threshold | `masue maewo` or `kirosholu maewo`, with the exact value in `patha ... patho` | Reuses the existing transition point while requiring speakers to identify what is measured and what changes at the threshold. |
+| Technical threshold | `masue maewo` or `kirosholu maewo`, with the exact value in a separate source record | Reuses the existing transition point while requiring speakers to identify what is measured and what changes at the threshold. |
 | Tolerance | `kirosholu norui` plus an exact range | Keeps a permitted boundary tied to a particular specification instead of making tolerance an undefined virtue. |
 | Maintenance interval | `thiranu mosha`, maintenance period | States the repeated upkeep activity and its duration directly. |
 | Service state | `kelithora nomirela`, function state | Keeps availability, degradation, interruption, and approval as separate claims about a function. |
 | Failure mode | `thonureki norelu`, failure form | Names how a required function can fail without treating the mode as its cause. |
 | Compliance | `kirosholu heno`, satisfy a specification | Says which stated requirements are met without silently granting legitimacy, authority, certification, or safety. |
-| Standard, formula, exact conversion, and feedforward terminology | Preserve the source form with `patha ... patho`, then explain criteria and relations in core or module Phi | Exact identity, version, notation, and source authority matter more than an approximate unmarked label. |
+| Standard, formula, exact conversion, and feedforward terminology | Preserve the source artifact outside the Phi passage, then explain criteria and relations in core or module Phi | Exact identity, version, notation, and source authority matter more than an approximate lexical substitution. |
 | Ownership, operator authority, allocation, public obligation, and accountability | Use Commons terms such as `phelunori`, `kanorami`, `phanokelu`, `naserumi`, and `lonathoni`, with Work terms or explicit clauses where the labor relation matters | A technical role or system relation must not settle social authority, legitimacy, obligation, or responsibility. |
 
 ## Scenario Connections
 
-- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) can now identify a `terulora`, its `monakeli` components, `koemari` input, `thirulo` output, `nomirela` state, `kiroweli` signal, `ketorami` control, and `turekali` feedback while retaining the exact voltage in the external register.
+- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) can now identify a `terulora`, its `monakeli` components, `koemari` input, `thirulo` output, `nomirela` state, `kiroweli` signal, `ketorami` control, and `turekali` feedback while retaining the exact voltage in a separate source record.
 - [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can distinguish stored energy with `pheluremi`, `henoraki` capacity, `talukori` load, `poruseli` efficiency, and `kolutheri` reliability without treating any favorable metric as proof that the design is good or sufficient.
 - [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) can use `norawiso` for a person-device or route-system interface, but accessibility, consent, communication format, and participation remain independent claims.
 - [The marker that was not reported](../philosophical_test_corpus.md#12-the-marker-that-was-not-reported) can distinguish a `keliphira` fault, `thonureki` failure, `seluwhera` outage, `pelomaru` hazard, `nilakiro` inspection, and `kirosholu` specification, while Commons terms now name notice, authority, obligation, accountability, records, redress, and review; repair labor, competence, approval, and safe return remain unresolved.
@@ -79,15 +79,15 @@ The pass keeps several expressions compositional because their parts expose anal
 
 The original dialogues remain valid before-state regression texts; they need not be rewritten merely to display the new words. New systems prose should use the module naturally and revise any term whose scope, sound, or composition feels inadequate.
 
-## External Register Guidance
+## Source Material Guidance
 
-Use `patha ... patho` for exact measurements, units, formulas, specifications, standards, identifiers, source labels, dates, instructions, technical quotations, and versioned terminology. Preserve the source payload without rounding, translation, normalization, or conversion unless a separately identified source supplies the transformed form.
+Keep exact measurements, units, formulas, specifications, standards, identifiers, source labels, dates, instructions, technical quotations, and versioned terminology outside the Phi passage. Preserve the source artifact without rounding, translation, normalization, or conversion unless a separately identified source supplies the transformed form.
 
-Use `hasha ... hasho` for a temporary Phi-pronounceable adaptation when source spelling is not authoritative and participants need a speakable external term. A guest technical label remains external and must not silently acquire a Phi definition.
+Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs a technical concept. A source label that is not Phi vocabulary remains outside the passage and does not silently acquire a Phi definition through repetition.
 
-An exact or guest term may introduce a concept, but the surrounding Phi analysis must still state the relevant system, boundary, components, variables, conditions, evidence, and consequences. The frame preserves terminology; it does not prove that the speaker has explained the system, interpreted a reading correctly, or established authority to act.
+A separately presented term may introduce a concept, but the Phi analysis must still state the relevant system, boundary, components, variables, conditions, evidence, and consequences. Preservation does not prove that the speaker has explained the system, interpreted a reading correctly, or established authority to act.
 
-Exact content belongs outside `kirosholu`: the module word identifies a specification as a role, while `patha ... patho` preserves its actual values, notation, wording, identifier, and version. Likewise, `masukiro` names calibration without replacing its reference record, and `nilakiro` names inspection without replacing its criteria or findings.
+Exact content remains outside the Phi passage: `kirosholu` identifies a specification as a role, while a separate source record preserves its actual values, notation, wording, identifier, and version. Likewise, `masukiro` names calibration without replacing its reference record, and `nilakiro` names inspection without replacing its criteria or findings.
 
 ## Continued Development
 

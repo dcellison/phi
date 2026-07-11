@@ -8,12 +8,10 @@ romen, internal r = ore; s = silme nuquerna throughout (every Phi s carries a
 tehta, which is what the nuquerna form is for); plain word spacing; the
 period is the tengwar double pusta.
 """
-import html
 import json
 import re
 from pathlib import Path
 
-import external_register
 import name_forms
 
 _DATA = json.loads((Path(__file__).resolve().parent.parent /
@@ -149,48 +147,11 @@ def render_line(line):
             f'<g transform="scale(1,-1)">{"".join(parts)}</g></svg>')
 
 
-def render_mixed_line(line):
-    """Render Phi and guest material, preserving exact payload as text."""
-    parsed = external_register.analyze(line)
-    if parsed.errors:
-        return None
-    exact = [span for span in parsed.spans if span.kind == "exact"]
-    if not exact:
-        return render_line(line)
-
-    out = []
-    cursor = 0
-    for span in exact:
-        phi = line[cursor:span.payload_start].strip()
-        if phi:
-            rendered = render_line(phi)
-            if rendered is None:
-                return None
-            out.append(rendered)
-        payload = line[span.payload_start:span.payload_end].strip()
-        out.append(
-            '<span class="external-exact-payload">'
-            + html.escape(payload, quote=False) + '</span>'
-        )
-        cursor = span.payload_end
-    phi = line[cursor:].strip()
-    if phi:
-        rendered = render_line(phi)
-        if rendered is None:
-            return None
-        out.append(rendered)
-    return '<span class="teng-mixed">' + "".join(out) + '</span>'
-
-
 def phi_line(line, words):
     """Heuristic: is this (fenced, unescaped) line a Phi line?"""
-    parsed = external_register.analyze(line)
-    if parsed.errors:
-        return False
-    toks = [t.strip("[].,") for t in parsed.core_text.split()]
+    toks = [t.strip("[].,") for t in line.split()]
     toks = [t for t in toks if t]
-    visible = [t.strip("[].,") for t in parsed.punctuation_text.split()]
-    if len(toks) < 2 or any(t != t.lower() for t in visible):
+    if len(toks) < 2 or any(t != t.lower() for t in toks):
         return False
     name_indices = name_forms.marked_atom_indices(toks)
     known = sum(

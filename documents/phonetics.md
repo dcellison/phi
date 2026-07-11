@@ -72,6 +72,6 @@ Use the lexicon IPA for teaching, deliberate reading, citation, and canonical re
 
 These variants describe an initial acceptance policy to test, not a complete catalogue of future accents. A listener's repeated difficulty belongs in `documents/listening_audit.md`; it should not be dismissed as incorrect accent or converted directly into a rename.
 
-### 5.3. Guest and exact material
+### 5.3. Source material
 
-Adapted guest payload follows the same pronunciation contract, including penultimate stress. Exact payload follows its source pronunciation or an explicitly shared spelling or description convention; only `patha` and `patho` retain Phi pronunciation.
+Unassimilated source material remains outside Phi and follows its own pronunciation, spelling, or description convention. A valid Phi-form name or newly admitted vocabulary item follows this document in full; no temporary outside token acquires Phi pronunciation merely by appearing beside a Phi passage.

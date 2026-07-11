@@ -34,21 +34,18 @@ python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 
 3. Repeat on at least three nonconsecutive days and include one quiet and one moderate-background-noise condition.
 4. Randomize playback names so the written word is not visible during identification.
 5. Record the response, condition, confidence, and whether replay was needed.
-6. Test the external boundary pairs `hasha/hasho` and `patha/patho` in every session because their final-vowel contrast is structural.
-7. Keep raw recordings private by default. Publish only deliberately selected examples with explicit consent from every recorded speaker.
+6. Keep raw recordings private by default. Publish only deliberately selected examples with explicit consent from every recorded speaker.
 
 ## Observation table
 
 | Date | Pair | Register | Condition | Trials | Errors | Replays | Notes |
 |---|---|---|---|---:|---:|---:|---|
-| pending | `hasha/hasho` | careful | quiet | 0 | 0 | 0 | recording not yet made |
-| pending | `patha/patho` | careful | quiet | 0 | 0 | 0 | recording not yet made |
 
 ## Rename gate
 
-A similarity score never renames a word. During solo development, record a rename candidate only when the same confusion recurs across three sessions, the pair is structurally or corpus-prominent, and the problem remains after careful-production review. Prefer changing the less established and less attested member. A replacement must pass ordinary validation, character-neighbor checks, this phonetic audit, corpus-wide replacement, and a migration note.
+A similarity score never renames a word. For a discretionary or collision-driven rename during solo development, record a candidate only when the same confusion recurs across three sessions, the pair is structurally or corpus-prominent, and the problem remains after careful-production review. Prefer changing the less established and less attested member. A separately accepted structural migration, such as D013's universal three-syllable ceiling, may authorize replacement for its recorded reason without manufacturing confusion evidence. Every replacement still must pass ordinary validation, character-neighbor checks, this phonetic audit, corpus-wide replacement, retirement of the old form, and a migration note.
 
-Without independent listeners, even a repeated maintainer confusion remains limited evidence. Nonurgent renames should wait. The first outside feedback should prioritize function words, frequent content words, high-degree neighborhoods, and the two external boundary pairs.
+Without independent listeners, even a repeated maintainer confusion remains limited evidence. Nonurgent renames should wait. The first outside feedback should prioritize function words, frequent content words, valid productive names, retired-form rejection, and high-degree neighborhoods.
 
 ## Claims this protocol does not license
 

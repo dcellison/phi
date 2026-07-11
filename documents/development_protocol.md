@@ -31,7 +31,7 @@ This "announce then deliver" principle creates transparent communication where a
 - [ ] **Maintains vowel hiatus**: Each vowel = separate syllable (no diphthongs)
 - [ ] **Vowel hiatus transcription**: Always show syllable breaks with dots: au=/a.u/, not /au/
 - [ ] **Respects three-vowel constraint**: Never VVV+ sequences
-- [ ] **No duplicate syllables in core lexicon words**: Adapted guest payload is explicitly exempt because its frame already prevents lexical confusion
+- [ ] **No duplicate syllables in lexicon words**: Every proposed word satisfies the rule; source material outside Phi is not a lexical exception
 - [ ] **Begins with consonant**: All words start with C or F
 - [ ] **Ends with vowel**: All syllables are open
 - [ ] **Dental articulation**: /t/ and /n/ are dental, not alveolar
@@ -49,7 +49,7 @@ The full function-word shape charter is a canon ruling (see `/canon.md`); the ch
 - [ ] **Nasals (m,n)**: Grounding, stability, internality
 - [ ] **Stops (p,t,k)**: Clear boundaries, definition (use sparingly)
 - [ ] **Vowel progression**: Consider emotional arc (e.g., closed→open = restriction→freedom)
-- [ ] **Word length**: Length is part of the symbolism. Two syllables suit the everyday and near-at-hand (the household's words: womu, melu, nila); three syllables are the lexicon's broad middle; four syllables are for what is vast, slow, gentle, or worth lingering on (toremoa, thaeluro, shelomui, loamira). Phi spends breath where breath is deserved — never shorten a word at the cost of its meaning's weight
+- [ ] **Word length**: Every lexical word has at most three syllables. Two syllables remain premium space for the everyday and high-frequency; three syllables are the normal content-word range. Semantic weight never licenses a fourth syllable.
 
 ## Philosophical Consistency
 
@@ -63,12 +63,12 @@ Each new word must explicitly connect to at least one pillar:
 
 ### Semantic Principles
 - [ ] **Keep the core value-explicit**: Record what a choice favors, what it makes difficult, and whose needs it may fail to serve
-- [ ] **Analyze violence and domination without normalizing them**: Prefer core descriptions when they expose a mechanism; use marked exact material when faithful report is required
+- [ ] **Analyze violence and domination without normalizing them**: Prefer Phi descriptions when they expose a mechanism; preserve source testimony separately when faithful wording is required
 - [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., womu = house+belonging, the dwelling-heart)
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
 - [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
 - [ ] **Review refusals case by case**: A refusal must not obstruct care, self-identification, consent, safety, testimony, or philosophical critique
-- [ ] **Mark external provenance**: Use `hasha … hasho` for adapted guest material and `patha … patho` for exact opaque material
+- [ ] **Keep source artifacts outside Phi syntax**: Preserve foreign wording, exact records, scripts, values, formulas, and identifiers in the surrounding medium while Phi points to, translates, or analyzes them
 - [ ] **Create semantic families**: Build interconnected word networks where shared roots illuminate meanings (mycelial approach)
 
 ## Word Creation Protocol
@@ -81,7 +81,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - What experience, relation, object, quality, or practice does this represent?
 - Can it be expressed by existing words, and would a transparent compound make the idea clearer than a new root?
 - Would coinage make an important or recurring concept easier, more precise, more beautiful, or more natural to discuss?
-- Does the word belong in the general teaching path, one or more optional vocabulary modules, or marked external material?
+- Does the concept belong in the general teaching path, one or more optional vocabulary modules, a transparent expression, or a separate source-material explanation?
 - What is the intended semantic scope, and which neighboring concepts must the definition distinguish?
 - Which values does the choice express, and what legitimate use or interpretation might it burden?
 
@@ -90,10 +90,10 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Ensure phonological rules are met
 - **Run the collision check**: `python3 scripts/validate_examples.py neighbors <candidate>`
   - REJECT any candidate at edit distance 1 from an existing word of the same part-of-speech class (content vs. the same function class)
-  - The designed opener/closer paradigms are the sole same-class exception: each paired frame shares its first syllable and contrasts final `a` with `o`. Evaluate the pair as one proposal, require that neither form has any additional distance-1 neighbor in its class, and prioritize the contrast in listening review
+  - The designed opener/closer paradigms are the sole same-class exception: each grammatical clause pair shares its first syllable and contrasts final `a` with `o`. Evaluate a new pair as one proposal, require that neither form has any additional distance-1 neighbor in its class, and prioritize the contrast in listening review
   - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word) — note them in `grammatical_notes`
   - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
-  - Prefer three or more syllables unless the concept truly belongs to the daily round: the two-syllable space is the most collision-congested (≈5,200 legal forms, heavily grandfathered), while three syllables offer ≈377,000 and four are effectively inexhaustible
+  - Prefer three syllables unless the concept truly belongs to the daily round: the two-syllable space is the most collision-congested (approximately 5,200 legal forms, heavily grandfathered), while three syllables offer approximately 377,000 legal forms and remain the absolute lexical maximum
 
 ### Step 3: Hiatus Check
 - Map all syllable breaks (use dots: CV.V.CV)
@@ -120,26 +120,26 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Regenerate the Part VII alphabetical, domain, module, and part-of-speech references
 - Add or update a speaker-facing module chapter when the word belongs to an established vocabulary module
 
-## External Register Checklist
+## Source Material Checklist
 
-- [ ] `hasha … hasho` payload is lowercase and Phi-pronounceable, but is not added to the lexicon or used bare
-- [ ] `patha … patho` payload is preserved exactly and treated as opaque by Phi grammar and tooling
-- [ ] Every occurrence carries both boundaries; guest frames do not nest and exact payload uses doubled `patho patho` for a literal closer token
-- [ ] `ne` and other Phi particles stand outside the complete external atom
-- [ ] Exact reporting is described as provenance, not approval, condemnation, or core adoption
-- [ ] A proposed promotion from guest material passes the complete word-creation protocol independently of frequency
+- [ ] The Phi passage contains only Phi vocabulary, grammatical Phi clauses, and valid Phi-form names
+- [ ] Foreign wording, source-script names, exact records, formulas, identifiers, and quotations remain visibly outside the Phi passage
+- [ ] The source artifact retains its own spelling, script, punctuation, notation, version, and provenance where those properties matter
+- [ ] The Phi account identifies what it is pointing to and does not claim that its analysis exhausts the source concept
+- [ ] Separate presentation is described as a boundary of language, not approval, condemnation, stigma, or loss of precision
+- [ ] A recurring concept proposed for Phi passes the complete word-creation protocol rather than entering through repeated unmarked use
 
 ## Productive Name-Form Checklist
 
 - [ ] The bearer or naming community accepts the form
-- [ ] The form is one lowercase token with two, three, or four Phi syllables
+- [ ] The form is one lowercase token with two or three Phi syllables
 - [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no onset-bearing syllable
 - [ ] It is not a function word, interjection, complementizer, or other grammatical boundary
 - [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
 - [ ] It receives no lexicon file, gloss, part of speech, sound-symbolism rationale, pillar claim, or automatic core status
 - [ ] It is not rejected merely for lexical edit-distance proximity; real referential confusion is handled by clarification, as with shared human names
-- [ ] A five-or-more-syllable, multi-token, or otherwise non-onym adaptation uses `hasha … hasho`; source-exact spelling or script uses `patha … patho`
-- [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it is not a reserved non-content form
+- [ ] A longer, multi-token, non-Phi-shaped, or source-script preferred name remains outside the Phi passage unless the bearer or naming community accepts another valid onym
+- [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it is neither a reserved non-content form nor a retired form
 
 ## Grammar Extension Rules
 
@@ -190,7 +190,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Treating efficiency or slowness as an unconditional virtue
 - Breaking core vowel hiatus or adding consonant clusters beyond the four digraphs
 - Creating words without testing composition and semantic-family relationships first
-- Using unmarked word-for-word translation where transmutation or an external frame would be more honest
+- Presenting a word-for-word substitution as Phi where transmutation, explicit translation, or separate source presentation would be more honest
 - Creating particles that violate slot positioning rules
 
 ## Core Philosophy Reminder
@@ -201,7 +201,7 @@ Every addition to Phi should make the following practices available without clai
 - Attention to ecological relationships and natural cycles
 - Semantic families that expose interconnection
 - Transmutation rather than automatic word substitution
-- Faithful marked reporting when core Phi is not the right carrier
+- Faithful separate source presentation when Phi is not the right carrier
 
 **The constraints are part of the teaching. Their difficulty must earn its place in use.**
 

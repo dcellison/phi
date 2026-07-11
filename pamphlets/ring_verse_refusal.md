@@ -1,6 +1,6 @@
 # naweri — the Ring Verse, refused
 
-*Among people who build languages, translating Tolkien's Ring Verse is a beloved custom. This is Phi's core transmutation in that custom, and it is a refusal. The exact register can faithfully carry source words such as* lord *inside `patha … patho`, but carrying them is not the same as giving Phi the concepts needed to recreate the verse unmarked. The ways core Phi declines the transmutation teach more about this language than a substituted translation would. The verse is J.R.R. Tolkien's, from* The Lord of the Rings.
+*Among people who build languages, translating Tolkien's Ring Verse is a beloved custom. This is Phi's transmutation in that custom, and it is a refusal. The source verse remains separately available with words such as* lord *intact, but preserving the source is not the same as giving Phi the concepts needed to recreate it. The ways Phi declines the transmutation teach more about this language than a substituted translation would. The verse is J.R.R. Tolkien's, from* The Lord of the Rings.
 
 ---
 
@@ -46,7 +46,7 @@ Grammatical, fluent, and the menace has evaporated. Substitute Phi's nearest wor
 
 ## Why this is the entry
 
-A language cannot stop anyone from doing harm, and a missing core word is not a wall. Phi can quote, testify about, and analyze every source term through the exact boundary. What it declines is making domination the unmarked path of its own lexicon. The refusal is recorded in canon beside the marked reporting channel: no core *rule*, *lord*, *throne*, or binding that is not mutual.
+A language cannot stop anyone from doing harm, and a missing core word is not a wall. Phi can testify about and analyze every source term while preserving its wording outside the Phi passage. What it declines is making domination the unmarked path of its own lexicon. The refusal is recorded in canon beside that source-material boundary: no core *rule*, *lord*, *throne*, or binding that is not mutual.
 
 Phi keeps the custom, then: here is its Ring Verse. Four lines, one circle, everyone gathered, no one ruled.
 

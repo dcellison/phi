@@ -138,57 +138,11 @@ PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 
 ---
 
-## External register
+## Source material and names
 
-A proper name does not require an external frame merely because it is absent from the lexicon. `ne` directly licenses one productive lowercase name-form of two, three, or four legal Phi syllables (`ne samira`). The guest frame remains useful for five-or-more-syllable, multi-token, or explicitly external adaptations; the exact frame preserves source form.
+Complementizers frame Phi clauses only. Foreign wording, source-script names, exact values, identifiers, formulas, and other unassimilated artifacts remain outside Phi syntax and appear separately through the surrounding document, interface, or conversation. Phi can refer to a separately presented record, translate it with `mena ... meno`, or quote grammatical Phi with `shola ... sholo`, but no outside token occupies a nominal position merely because it is printed beside Phi.
 
-### `hasha` / `hasho` - Adapted Guest Frame (EXT.GUEST / EXT.GUEST.CLOSE)
-
-**Function**: Carries a five-or-more-syllable, multi-token, or explicitly external name or term adapted to Phi pronunciation and romanization without making it a lexicon word
-**IPA**: /ˈhä.ʃä/ and /ˈhä.ʃo̞/
-**Position**: The complete frame occupies one nominal position; `ne`, prepositions, and other Phi particles remain outside it
-**Structure**: `[Phi function words] hasha [adapted payload] hasho`
-
-Guest payload uses Phi's permitted sounds and open syllables, begins with an onset, remains lowercase, and takes penultimate stress. Unlike a core lexicon word, it may repeat syllables and may extend across several adapted tokens. It is not looked up in the lexicon, and every occurrence remains framed.
-
-```
-mia ne hasha toronoto hasho nila
-1SG NAME EXT.GUEST [toronoto] EXT.GUEST.CLOSE see
-(I see Toronto.)
-```
-
-`hasho` cannot appear as a standalone guest token because it closes the frame. Choose a different adaptation if one would produce it. Guest frames cannot nest.
-
-### `patha` / `patho` - Exact Opaque Frame (EXT.EXACT / EXT.EXACT.CLOSE)
-
-**Function**: Preserves external material exactly without subjecting it to Phi spelling, punctuation, phonology, or vocabulary rules
-**IPA**: /ˈpä.θä/ and /ˈpä.θo̞/
-**Position**: The complete frame occupies one nominal position; all Phi grammar remains outside it
-**Structure**: `[Phi function words] patha [opaque payload] patho`
-
-Exact payload may contain any script, case, punctuation, numeral, unit, formula, URL, identifier, quotation, or external term. The Phi boundary words remain present in every writing mode; the payload remains in its source form.
-
-```
-mia ne patha Toronto patho nila
-1SG NAME EXT.EXACT [Toronto] EXT.EXACT.CLOSE see
-(I see Toronto.)
-
-mia patha E = mc² patho theo
-1SG EXT.EXACT [E = mc²] EXT.EXACT.CLOSE read
-(I read "E = mc².")
-
-shia patha lord patho to haolu
-3SG EXT.EXACT [lord] EXT.EXACT.CLOSE PST speak
-(They said the word "lord.")
-```
-
-A single standalone `patho` closes the frame. To preserve a literal standalone occurrence inside payload, double it as `patho patho`; the next single `patho` closes. Exact payload is opaque, so apparent frame words inside it have no Phi syntax. Written exact payload is authoritative. A speaker may reproduce, spell, or describe it through a shared external convention, but Phi makes no letter-perfect oral-recovery claim for that payload.
-
-### External frames as atoms
-
-Both external frames are nominal atoms. They may be a subject, object, preposition object, possessive or noun modifier, or predicate before `nai`. They do not import source-language verbs, adjectives, agreement, or word order. `ne` precedes the whole atom for a proper name, and any Phi particle scopes over the whole frame.
-
-The frame marks provenance, not judgment. Exact material may faithfully report a concept that core Phi declines to lexicalize when testimony, history, critique, identity, consent, safety, quotation, or precision requires it. Repeated guest use never grants core status; core admission follows the ordinary word-creation protocol.
+`ne` directly licenses one lowercase name-form of two or three legal Phi syllables (`ne samira`) or a listed content word borne as a name. Longer, multi-token, non-Phi-shaped, and source-script names remain outside the Phi passage unless the bearer or naming community accepts a valid Phi-form onym.
 
 ---
 
@@ -233,10 +187,6 @@ VOC NAME HON.INTIM moli. 1SG 2SG love
 | `meno` | DECL.COMP.CLOSE | Closes embedded statements | — |
 | `wela` | INT.COMP | Opens embedded yes/no questions | `welo` (required) |
 | `welo` | INT.COMP.CLOSE | Closes embedded yes/no questions | — |
-| `hasha` | EXT.GUEST | Opens adapted external material | `hasho` (required) |
-| `hasho` | EXT.GUEST.CLOSE | Closes adapted external material | none |
-| `patha` | EXT.EXACT | Opens exact opaque material | `patho` (required) |
-| `patho` | EXT.EXACT.CLOSE | Closes exact opaque material | none |
 | `kona` | VOC | Marks direct address | none (extra-clausal) |
 
 ---

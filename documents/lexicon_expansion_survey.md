@@ -1,12 +1,12 @@
 # Lexicon Expansion Survey (2026-07-10)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,044 entries: 910 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,040 entries: 910 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
-A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or the guest/exact external registers. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
+A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
 This refresh checks the current `vocabulary/` inventory and its documented concepts; it excludes `archive/`. It records lexical absence, available compositions, and possible areas for coinage without claiming that every English lexical distinction belongs in Phi.
 
-The practical rule is to inspect before coining, not to be shy about coining. Preserve a transparent compound when its parts improve the idea; create a complete word when lexical presence serves Phi better. Prefer three or four syllables for new domain vocabulary unless a concept truly belongs in the everyday two-syllable space.
+The practical rule is to inspect before coining, not to be shy about coining. Preserve a transparent compound when its parts improve the idea; create a complete word when lexical presence serves Phi better. Prefer three syllables for new domain vocabulary unless a concept truly belongs in the everyday two-syllable space; no lexical word may exceed three syllables.
 
 ## Corrections to the 2026-07-06 survey
 
@@ -45,13 +45,13 @@ The pass retains priority, standpoint, soundness, necessary and sufficient condi
 
 The [Systems and Shared Infrastructure module](modules/systems_and_shared_infrastructure.md) now establishes 25 optional terms for systems, components, interfaces, functions, states, dependencies, inputs, outputs, transfers, signals, technical control, feedback, capacity, load, storage, efficiency, calibration, faults, failures, outages, redundancy, inspection, reliability, hazards, and specifications.
 
-The pass retains system boundary, subsystem, shared infrastructure, infrastructure service, pathway, technical threshold, tolerance, maintenance interval, service state, failure mode, and compliance as transparent compositions. Standards, formulas, exact conversions, versioned specifications, and feedforward terminology remain exact external material when source identity matters. Ownership, authority, allocation, public obligation, operator roles, and accountability remain coordinated with Commons and Work rather than being smuggled into technical definitions.
+The pass retains system boundary, subsystem, shared infrastructure, infrastructure service, pathway, technical threshold, tolerance, maintenance interval, service state, failure mode, and compliance as transparent compositions. Standards, formulas, exact conversions, versioned specifications, and feedforward terminology remain in source material outside the Phi passage when source identity matters. Ownership, authority, allocation, public obligation, operator roles, and accountability remain coordinated with Commons and Work rather than being smuggled into technical definitions.
 
 ### Ecological systems and material life: first pass complete
 
 The [Ecological Systems and Material Life module](modules/ecological_systems_and_material_life.md) now establishes 30 optional terms for ecosystems, habitats, species, populations, ecological communities, biodiversity, watersheds, runoff, erosion, sediment, weather, climate, floods, drought, pollution, contaminants, toxicity, concentration, exposure, materials, resources, waste, decomposition, nutrients, recycling, samples, baselines, trends, models, and monitoring.
 
-The pass keeps ecosystem boundaries, ecological niches, species ranges, abundance, groundwater, wetlands, upstream and downstream relations, infiltration, heatwaves, emissions, pollutants, organic matter, compost, reuse, food webs, ecological carrying capacity, indicators, forecasts, monitoring intervals, precaution, environmental justice, and land or water authority compositional. Exact taxonomies, chemical names, measurements, sites, methods, datasets, model identities, standards, legal categories, and knowledge-tradition terms remain external when source form or provenance matters. Systems vocabulary supplies general technical relations, while Commons, Work, Medical, Accessibility, and Philosophical Reasoning preserve authority, labor, bodily effect, access, and evaluative boundaries.
+The pass keeps ecosystem boundaries, ecological niches, species ranges, abundance, groundwater, wetlands, upstream and downstream relations, infiltration, heatwaves, emissions, pollutants, organic matter, compost, reuse, food webs, ecological carrying capacity, indicators, forecasts, monitoring intervals, precaution, environmental justice, and land or water authority compositional. Exact taxonomies, chemical names, measurements, sites, methods, datasets, model identities, standards, legal categories, and knowledge-tradition terms remain in source material outside the Phi passage when source form or provenance matters. Systems vocabulary supplies general technical relations, while Commons, Work, Medical, Accessibility, and Philosophical Reasoning preserve authority, labor, bodily effect, access, and evaluative boundaries.
 
 ### Civic, economic, and institutional life: governance first pass complete
 
@@ -69,9 +69,9 @@ This domain also exposes a semantic risk rather than a simple absence: `riola`, 
 
 ### Care, access, and bodily autonomy
 
-Phi has medicine, health, healing, sickness, pain, support, protection, agreement, and refusal. It lacks conventional core terms for injury, disease, infection, fever, disability, accessibility, consent, coercion, and abuse. Reproductive health, sexuality, and gender require a deliberate case-by-case decision about core analysis versus marked external material; their absence must never prevent faithful testimony, identity, care, or safety.
+Phi has medicine, health, healing, sickness, pain, support, protection, agreement, and refusal. It lacks conventional core terms for injury, disease, infection, fever, disability, accessibility, consent, coercion, and abuse. Reproductive health, sexuality, and gender require a deliberate case-by-case decision about Phi vocabulary versus source material outside the passage; their absence must never prevent faithful testimony, identity, care, or safety.
 
-The [Accessibility and Participation profile](modules/accessibility_and_participation.md) organizes route, format, timing, rephrasing, proxy refusal, and participation needs; the [Medical and Bodily Care profile](modules/medical_and_bodily_care.md) organizes symptoms, care, consent, and safety. Their vocabulary passes may confidently consider injury, disease, infection, fever, disability, accessibility, consent, coercion, abuse, barriers, formats, and changing capacity while preserving respectful scope and exact external reporting where needed.
+The [Accessibility and Participation profile](modules/accessibility_and_participation.md) organizes route, format, timing, rephrasing, proxy refusal, and participation needs; the [Medical and Bodily Care profile](modules/medical_and_bodily_care.md) organizes symptoms, care, consent, and safety. Their vocabulary passes may confidently consider injury, disease, infection, fever, disability, accessibility, consent, coercion, abuse, barriers, formats, and changing capacity while preserving respectful scope and exact source records outside Phi where needed.
 
 ## Priority 2: Additional vocabulary opportunities
 

@@ -208,11 +208,11 @@
 4. Finding or Building Community
 5. The Ongoing Journey
 
-### Chapter 24: The External Register
-1. Why an External Boundary Exists
-2. The Guest Frame: hasha … hasho
-3. The Exact Frame: patha … patho
-4. Grammar and Responsibility
+### Chapter 24: Source Material
+1. Where Source Material Lives
+2. Names Across Languages
+3. Exact Records and Technical Material
+4. Translation and Responsibility
 
 ---
 

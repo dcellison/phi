@@ -43,12 +43,14 @@ Notice the last sentence drops `ti`. The first three are received knowledge; the
 
 ## What happened to the $2.3 million?
 
-The core summary omitted it, and that omission is a choice rather than a recovery of all information. A budget reporter, aid coordinator, auditor, or resident may need the exact amount. The external register carries it without making money vocabulary core:
+The Phi summary omitted it, and that omission is a choice rather than a recovery of all information. A budget reporter, aid coordinator, auditor, or resident may need the exact amount. Preserve that amount in the source record outside Phi while the Phi sentence identifies what the record reports.
+
+Source record outside Phi: `$2.3 million`
 
 ```
-patha $2.3 million patho ti haolu.
-EXT.EXACT [$2.3 million] EXT.EXACT.CLOSE REP speak.
-(The source reports "$2.3 million.")
+ha siranomi ha wisola ti thelima.
+PROX record PROX exchange REP describe.
+(The report describes this exchange.)
 ```
 
-News therefore has two legitimate outputs. A transmutation may foreground homes, safety, labor, and repair while explaining what it omits. A faithful report preserves names, counts, money, dates, and source wording in exact frames. Neither should impersonate the other.
+News therefore has two legitimate outputs. A transmutation may foreground homes, safety, labor, and repair while explaining what it omits. A faithful report preserves names, counts, money, dates, and source wording in their own records beside the Phi account. Neither should impersonate the other.

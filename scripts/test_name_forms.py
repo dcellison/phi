@@ -29,9 +29,16 @@ class ProductiveNameFormTests(unittest.TestCase):
         self.assertEqual(name_forms.form_errors("samira"), [])
         self.assertNotIn("samira", self.words)
 
-    def test_four_syllable_form_is_valid(self):
-        self.assertEqual(name_forms.form_errors("saweriko"), [])
-        self.assertNotIn("saweriko", self.words)
+    def test_four_syllable_form_is_invalid(self):
+        self.assertTrue(name_forms.form_errors("saweriko"))
+
+    def test_retired_external_boundaries_cannot_be_names(self):
+        for form in ("hasha", "hasho", "patha", "patho"):
+            with self.subTest(form=form):
+                self.assertEqual(
+                    name_forms.form_errors(form),
+                    ["is a retired Phi form"],
+                )
 
     def test_form_must_be_content_shaped(self):
         self.assertTrue(name_forms.form_errors("sa"))
@@ -77,7 +84,7 @@ class ProductiveNameFormTests(unittest.TestCase):
     def test_name_report_is_supported_validation_mechanism(self):
         output = io.StringIO()
         with contextlib.redirect_stdout(output):
-            valid = validate_examples.name_report(self.entries, "saweriko")
+            valid = validate_examples.name_report(self.entries, "samira")
             reserved = validate_examples.name_report(self.entries, "wa")
         self.assertEqual(valid, 0)
         self.assertEqual(reserved, 1)
@@ -99,8 +106,34 @@ class ProductiveNameFormTests(unittest.TestCase):
 
     def test_productive_name_renders_in_tengwar(self):
         self.assertTrue(tengwar.phi_line("ne samira.", self.words))
-        rendered = tengwar.render_mixed_line("ne samira.")
+        rendered = tengwar.render_line("ne samira.")
         self.assertIn("teng-svg", rendered)
+
+
+class MigrationPolicyTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.entries, errors = validate_examples.load_lexicon()
+        if errors:
+            raise AssertionError("\n".join(errors))
+
+    def test_fixed_migration_ledger_is_structurally_valid(self):
+        self.assertEqual(validate_examples.MIGRATION_ERRORS, [])
+        self.assertEqual(
+            len(validate_examples.FOUR_SYLLABLE_MIGRATION),
+            validate_examples.MIGRATION_ROW_COUNT,
+        )
+
+    def test_pending_ledger_exactly_matches_long_lexicon_forms(self):
+        long_forms = {
+            data["word"]
+            for _rel, data in self.entries
+            if len(data["syllables"]) > 3
+        }
+        self.assertEqual(
+            long_forms,
+            set(validate_examples.PENDING_FOUR_SYLLABLE_FORMS),
+        )
 
 
 if __name__ == "__main__":

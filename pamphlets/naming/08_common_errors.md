@@ -71,7 +71,7 @@ In an established conversation, this may be clear. In a message to someone outsi
 
 **Wrong:** `Ne siora shua.` And *Siora arrives* in the narration beside it.
 
-No capitals in core, productive-name, or guest material, in any mode or position: not sentence-start in romanized Phi, not Phi-form names in gloss lines, not Phi-form names visiting English narration. Exact payload may retain source case only between `patha` and `patho`. The validator holds that boundary.
+No capitals in Phi, in any mode or position: not sentence-start in romanization, not Phi-form names in gloss lines, and not Phi-form names visiting English narration. A separately presented source name retains its own script and case because it is not part of the Phi passage. The validator holds the Phi boundary.
 
 ### Error 7: policing another's register
 

@@ -1,6 +1,6 @@
 # Part 1: One silent mark
 
-The core ruling stands on one principle: a silent mark is justified only where no word is visible to do its work. Phi audited the marks English writes, and each fell to a word already on duty: the period alone survived, because sentence-end is the one boundary the language gives no word. Core and guest material therefore show periods, lowercase letters, and nothing else. Exact payload may retain any source mark, but `patha` and `patho` announce that exception in every mode.
+The ruling stands on one principle: a silent mark is justified only where no word is visible to do its work. Phi audited the marks English writes, and each fell to a word already on duty: the period alone survived, because sentence-end is the one boundary the language gives no word. Phi therefore shows periods, lowercase letters, and nothing else. Source material outside a Phi passage follows the punctuation of its own medium without creating an exception inside Phi.
 
 | English writes | Phi says | The doctrine lives |
 |---|---|---|
@@ -32,7 +32,7 @@ No pause can change a Phi sentence's meaning: the words carry every distinction,
 
 ### Every mode can say a word
 
-The deeper reason is the one the Letters ruling gave for capitals (the naming pamphlet, part 6): romanization is one writing mode among peers, and core meaning may depend only on signals every mode can carry. A *word* is the mark every mode shares. Exact payload is carried rather than interpreted; its source marks may be mode-specific, while the Phi boundary never is.
+The deeper reason is the one the Letters ruling gave for capitals (the naming pamphlet, part 6): romanization is one writing mode among peers, and Phi meaning may depend only on signals every mode can carry. A *word* is the mark every mode shares. Exact source material remains outside the Phi passage, where its own medium may preserve marks that Phi writing modes do not share.
 
 ### Drill: name the silent marks
 

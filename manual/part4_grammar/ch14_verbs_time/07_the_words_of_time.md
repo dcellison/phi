@@ -37,7 +37,7 @@ mia mua shero sheluo.
 (I listen in the night.)
 ```
 
-Core Phi keeps eight natural stations and coins nothing finer. This is a preference for shared, embodied reference, not a claim that a minute is inherently harmful or that natural stations meet every coordination need. When an exact time matters for travel, care, accessibility, testimony, or interoperability, carry the complete source time in `patha … patho`: the precision remains exact and its external status remains audible.
+Phi keeps eight natural stations and coins nothing finer for now. This is a preference for shared, embodied reference, not a claim that a minute is inherently harmful or that natural stations meet every coordination need. When an exact time matters for travel, care, accessibility, testimony, or interoperability, preserve the complete source time outside the Phi passage: the precision remains exact and its source status remains explicit.
 
 ## The calendar
 

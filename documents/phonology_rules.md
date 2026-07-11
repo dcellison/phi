@@ -2,7 +2,7 @@
 
 This document outlines the complete and formal phonological system for the Phi language. It serves as the single source of truth for all sound-related and structural rules.
 
-These word-form rules govern the core lexicon. Adapted payload inside `hasha … hasho` uses the same inventory, onset, open-syllable, hiatus, and three-vowel rules but may repeat a syllable. Opaque payload inside `patha … patho` is external and exempt; the four Phi boundary words remain fully governed by this document.
+These word-form rules govern every Phi lexical token and productive name-form. Canonical words have at most three syllables; productive names have two or three. The finite migration ledger temporarily identifies inherited four-syllable content words awaiting replacement and permits no new long form. Unassimilated source material remains outside Phi and is not governed by this document.
 
 ## 1. Core Phonetic Inventories
 
@@ -77,8 +77,8 @@ As stated in 1.4, all Vowel Pairs (`P`) are pronounced in hiatus. This means the
 
 ## 4. Word-Level Constraints
 
-### 4.1. No Duplicate Syllables in Core Words
-A core lexicon word cannot contain the same syllable twice. Adapted guest payload is exempt because its audible frame prevents it from being mistaken for an unmarked lexical form.
+### 4.1. No Duplicate Syllables in Lexicon Words
+A lexicon word cannot contain the same syllable twice. Source material outside Phi is not a Phi word and therefore creates no lexical exception.
 - **Allowed:** `kala`
 - **Forbidden:** `kaka` 
 
