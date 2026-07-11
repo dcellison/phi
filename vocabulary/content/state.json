@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "State / Relevant Conditions of a System at a Time",
-  "description": "The set of properties or conditions selected to describe a component or system at a particular time. A state may be observed, inferred, measured, or assigned by a model, and the selected variables must be stated when ambiguity matters. The word does not mean a government, territory, emotional condition, moral status, or every fact about the thing.",
+  "description": "The selected conditions of a system at a given time. A state is a chosen description built for a purpose, never the whole truth of the thing it describes, and a different question can select different conditions to describe.",
   "sound_symbolism": "'Mi' gathers the selected properties and conditions, 're' relates them within one analytical description, and open 'la' lays the snapshot out for comparison. The ending leaves room for the state to change and for a different model to select different variables.",
   "grammatical_notes": "A noun commonly possessed by the system or component described: 'ha terura mirela mureo nai.' (This system's state is stable.) Use time expressions and evidentials to identify when and how the state is known. Distinct from 'norelu' (form), 'noa' (position), and a temporary adjective used without an analytical state description.",
   "pillars": {

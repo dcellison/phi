@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Capacity / Conditioned Limit of Holding, Processing, or Delivery",
-  "description": "The maximum or otherwise specified amount or rate that a component or system can hold, process, transmit, or provide under stated conditions and over a stated time. Capacity is not current contents, actual output, efficiency, human ability, permission, or a promise of performance. Its object, conditions, duration, and source should be stated when they affect interpretation.",
+  "description": "The conditioned limit of what a system can hold, process, or deliver under stated conditions. Capacity is the ceiling, not what the system currently holds, which is a separate and often much smaller number.",
   "sound_symbolism": "Open 'he' begins with room, 'no' establishes a limit, and 'ra' grounds that limit in stated conditions. The word expands and then settles rather than sounding boundless, keeping capacity tied to a defined system and circumstance.",
   "grammatical_notes": "A mass or countable noun commonly possessed by a system: 'ha terura henora henoi nai.' (This system's capacity is sufficient.) Preserve exact values and units in a separate source record. Distinct from 'puro' (strength), 'phelu' (hold), 'pheno' (full), and a person's ability or legal capacity.",
   "pillars": {

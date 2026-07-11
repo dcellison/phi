@@ -11,7 +11,7 @@
     "verb"
   ],
   "concept": "Fail / Lose or Not Perform a Required Technical Function",
-  "description": "For a component or system to lose, cease, or be unable to perform a stated required function under stated conditions. Through the event-noun rule the word also names a technical failure. Failure may occur without physical breakage and does not by itself identify a fault, cause, responsible person, unsafe condition, or permanent loss.",
+  "description": "To not perform a stated required function. Failure names the missed function plainly, without saying anything yet about what caused it, whether something physically broke, or who is responsible for the fix.",
   "sound_symbolism": "Deliberate 'tho' opens on an expected operation, 'nu' turns away from its continuation, and precise 'ki' marks the boundary where the stated requirement is not met. The word is firm about function but carries no judgment of a person.",
   "grammatical_notes": "An intransitive verb: 'ha monaki to thonuki.' (This component failed.) State the required function and conditions where context does not supply them. The event-noun rule supplies failure. Distinct from 'pukate' (break), 'kiphira' (fault), 'kanelu' (err), and any judgment that a person is a failure.",
   "pillars": {
