@@ -68,8 +68,8 @@
 | `rohi` | rub | Friction as care |
 | `roke` | move | fundamental human activity of moveing |
 | `rotiku` | dance | fundamental human activity of dancing |
-| `ruelami` | adventure | The journey into the unknown |
 | `ruemi` | lie down | Lowering the body to rest |
+| `rulami` | adventure | The journey into the unknown |
 | `sawa` | wash | Water-cleansing as daily craft |
 | `selokaru` | transfer | directed movement from a source to a recipient |
 | `selomi` | weave | fundamental human activity of weaving |
@@ -165,7 +165,7 @@
 | `shonuwa` | sound | The medium of music and speech |
 | `shumu` | moss | Soft ancient growth |
 | `shuna` | edge | Defining line |
-| `siheloa` | breeze | Soft atmospheric touch |
+| `sihewa` | breeze | Soft atmospheric touch |
 | `sileo` | silk | Luxurious material |
 | `siloma` | simple | elegance and beauty of minimal forms |
 | `simoe` | rich | Full of quality |
@@ -180,7 +180,7 @@
 | `welisha` | color | What the hues have in common |
 | `weloa` | loom | Pattern maker |
 | `weru` | poet | Word craft |
-| `wheiluro` | mist | Ethereal obscuring |
+| `wheiru` | mist | Ethereal obscuring |
 | `whilaru` | comb | The tool worth carving |
 | `whilo` | white | visual quality of maximum light |
 | `whoa` | whole | harmony and completeness |
@@ -223,7 +223,7 @@
 | `koma` | head | seat of mental processes |
 | `korei` | fulfill | Realization |
 | `kuelo` | curious | Wonder-seeking |
-| `kuenora` | strange | The unfamiliar, named without verdict |
+| `kuewa` | strange | The unfamiliar, named without verdict |
 | `kupela` | secret | The known and untold |
 | `lau` | twenty-seven-group | Represents the cognitive boundary where enumeration becomes impossible, where the mind must shift from counting to experiencing magnitude. 'Lau' embodies the limit of numerical cognition at human scale. |
 | `leiro` | release | Mathematical operation requiring deliberate mental processing |
@@ -275,7 +275,6 @@
 | `phelorani` | depend | an analyzed requirement relation between system elements |
 | `phelui` | word | the carrier of meaning between minds |
 | `phenui` | thoughtful | Considered thinking |
-| `philuewa` | butterfly | Change made visible and winged |
 | `phiora` | spirit | Inner animation |
 | `phirae` | different | the perception of distinction |
 | `phiraketu` | contradict | logical incompatibility between claims under shared conditions |
@@ -285,6 +284,7 @@
 | `phisoe` | creative | Inventive capacity |
 | `phisumari` | sample | a selected portion whose relation to a larger source must be justified |
 | `phisuwa` | example | a particular case used to illuminate a broader idea |
+| `phiwapi` | butterfly | Change made visible and winged |
 | `phiwhekira` | counterexample | a scoped case that disproves a general claim as stated |
 | `phoi` | nine-group | Represents the cognitive threshold where counting becomes approximation, where the mind shifts from enumeration to estimation. 'Phoi' embodies the natural limit of subitizing and easy counting. |
 | `phoka` | lens | Focusing clarity |
@@ -316,7 +316,7 @@
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
-| `shelomui` | understand | Grasping meaning and significance |
+| `shelomu` | understand | Grasping meaning and significance |
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
 | `sheluo` | listen | requires mental processing and active understanding |
 | `sheori` | communicate | connects minds across the illusion of separation |
@@ -369,7 +369,7 @@
 | `turekiro` | review | reassessment under stated evidence and criteria |
 | `waeli` | conscious | Awareness state |
 | `wakomi` | surprise | The mind caught open |
-| `waolia` | wondrous | What outruns what was looked for |
+| `waora` | wondrous | What outruns what was looked for |
 | `welura` | spread | Mathematical operation requiring deliberate mental processing |
 | `weni` | imagine | Creative mental image formation |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
@@ -377,7 +377,7 @@
 | `whakeru` | object | identifying a specific problem in reasoning |
 | `wharemoi` | doubt | an unsettled stance toward a proposition or its support |
 | `whekatelu` | refute | demonstrating that a claim or inference fails |
-| `whekelua` | magic | Change beyond explanation |
+| `whekelu` | magic | Change beyond explanation |
 | `whemura` | dream | Mental imagery during sleep or imagination |
 | `whinu` | smell | Direct pathway to memory and emotion |
 | `whoa` | whole | holistic thinking and systems understanding |
@@ -390,7 +390,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `haoluma` | language | What a people holds in common |
+| `haluma` | language | What a people holds in common |
 | `helia` | youth | the energy that renews collective life |
 | `heloi` | generous | Sharing |
 | `helokelu` | redress | redress shaped by affected parties and remaining loss |
@@ -415,7 +415,7 @@
 | `koluma` | unite | Bringing together into wholeness |
 | `koru` | harmonious | Working together |
 | `kowela` | council | gathers collective voices for communal decisions |
-| `kuenora` | strange | The not-yet-met |
+| `kuewa` | strange | The not-yet-met |
 | `kulo` | guide | Leading others along paths |
 | `kuma` | drum | Collective voice |
 | `kumoli` | hungry | What the shared table answers |
@@ -423,7 +423,7 @@
 | `lau` | twenty-seven-group | As the measure of crowd-scale abundance, 'lau' inherently relates to collective gathering, community resources, and shared plenty. It represents the scale at which individual counting yields to collective experience. |
 | `lei` | harmony | weaves diverse voices into collective resonance |
 | `loa` | give | creating bonds through sharing |
-| `loamira` | gift | What changes hands unowed |
+| `loami` | gift | What changes hands unowed |
 | `loathora` | delegate | delegation with stated scope, duration, and reporting |
 | `lohau` | dog | The first interspecies friendship |
 | `lokue` | place | places as sites of gathering and meaning |
@@ -669,7 +669,7 @@
 | `lorima` | build | Constructing structures |
 | `luma` | lamp | Light source |
 | `lumoi` | lantern | Portable light |
-| `lurekoi` | fruit | Natural abundance |
+| `lureko` | fruit | Natural abundance |
 | `manuwe` | hand | the instrument of craft and giving |
 | `masukiro` | calibrate | maintenance of measuring and signaling tools |
 | `meliho` | sing | Musical vocal expression |
@@ -776,8 +776,8 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `haluma` | language | The shared whole of speech |
 | `haolu` | speak | speaking is fundamental to communication |
-| `haoluma` | language | The shared whole of speech |
 | `haoni` | voice | fundamental medium for spoken communication |
 | `hea` | hear | provides foundational reception for verbal exchange |
 | `howela` | receive | receiving is fundamental to exchange and reciprocity |
@@ -835,7 +835,7 @@
 | `shaneweli` | notify | information offered without presuming receipt or understanding |
 | `shareo` | discuss | explores topics through detailed communicative exchange |
 | `shelo` | signify | Meaningful indication |
-| `shelomui` | understand | Foundation for genuine communication |
+| `shelomu` | understand | Foundation for genuine communication |
 | `shelu` | book | asynchronous communication between writer and reader across time |
 | `sheluo` | listen | fundamental to communication and meaningful exchange |
 | `shemui` | utter | fundamental act of verbal communication |
@@ -925,7 +925,7 @@
 | `nuhemi` | grieve | The sustained carrying of sadness after loss |
 | `nuhewa` | weep | Sadness flowing out |
 | `nuloe` | content | Peaceful satisfaction |
-| `numelia` | nestle | Trust performed in the muscles |
+| `numea` | nestle | Trust performed in the muscles |
 | `nupira` | shame | The inward fold of being seen |
 | `phaeli` | tender | Gentle feeling |
 | `phaelo` | feel | the subjective experience of emotional states |
@@ -974,7 +974,7 @@
 | `towe` | well | Wellness |
 | `tumoa` | heavy | Burdened |
 | `wakomi` | surprise | The felt jolt of the unexpected |
-| `waolia` | wondrous | The lift of exceeded expectation |
+| `waora` | wondrous | The lift of exceeded expectation |
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
 | `wesha` | lazy | Unwilling to work |
@@ -1015,11 +1015,11 @@
 | `keshoa` | reptile | Ancient cold-blooded creatures |
 | `kirae` | crystal | Geometric mineral |
 | `kirua` | sand | Granular earth material |
-| `koashira` | grove | Small woodland |
 | `kolai` | pigment | Color source |
 | `koremu` | bark | Tree outer covering |
 | `kori` | leather | Animal material |
 | `kosha` | field | Cultivation area |
+| `koshira` | grove | Small woodland |
 | `kurathi` | dry | the condition after water's departure |
 | `kurathimo` | drought | a sustained water deficit relative to a stated reference or need |
 | `kurisha` | storm | Violent weather |
@@ -1055,7 +1055,7 @@
 | `luphanori` | watershed | land organized by drainage toward a shared water outlet |
 | `lupho` | float | Borne on water |
 | `luphore` | river | Flowing waterway |
-| `lurekoi` | fruit | Plant reproductive structure |
+| `lureko` | fruit | Plant reproductive structure |
 | `malomi` | balance | learns from organic forms like spirals and waves |
 | `melothe` | pond | Small still water body |
 | `meluna` | season | Annual rhythm pattern |
@@ -1119,12 +1119,12 @@
 | `phialu` | water | fundamental natural element essential to all ecosystems and life |
 | `philea` | feather | Flight's fabric |
 | `philo` | day | Solar rhythm |
-| `philuewa` | butterfly | The garden's transformed flyer |
 | `phiora` | spirit | Breath essence |
-| `phiralea` | blossom | Plant flowering |
+| `phirali` | blossom | Plant flowering |
 | `phiralima` | biodiversity | variation among living beings across one or more biological levels |
 | `phirenu` | snow | Frozen precipitation |
 | `phireo` | plant | Photosynthesizing rooted life |
+| `phiwapi` | butterfly | The garden's transformed flyer |
 | `pholui` | bamboo | Giant grass |
 | `phora` | sail | Natural power |
 | `phuliro` | stream | Small waterway |
@@ -1157,7 +1157,7 @@
 | `shomelu` | shadow | The dark that light casts |
 | `shumu` | moss | Non-vascular plant |
 | `shupi` | plateau | Elevated flat land |
-| `siheloa` | breeze | Gentle air movement |
+| `sihewa` | breeze | Gentle air movement |
 | `sileo` | silk | Insect fiber |
 | `silero` | star | Celestial body |
 | `simoe` | rich | Deeply fertile |
@@ -1166,7 +1166,7 @@
 | `sorae` | sun | the star that gives us life |
 | `sorila` | cultivate | Working land for growth |
 | `soriu` | yellow | the color of sun and ripe grain |
-| `suiloe` | dew | Condensed atmospheric moisture |
+| `suilo` | dew | Condensed atmospheric moisture |
 | `sulae` | warm | energy from sun and fire |
 | `suliwa` | snake | The flowing legless animal |
 | `sunai` | health | Body wholeness |
@@ -1175,8 +1175,8 @@
 | `teluno` | amphibian | Transforming dual-world creatures |
 | `temoe` | tend | Regular care of growing things |
 | `tesu` | iron | Strong metal |
-| `thaeluro` | ocean | Global saltwater body |
 | `thaeso` | midday | Solar zenith |
+| `thaluro` | ocean | Global saltwater body |
 | `thape` | burn | Fire's action in the world |
 | `theala` | heal | follows natural processes and organic cycles of recovery |
 | `thelomi` | lake | Freshwater body |
@@ -1193,7 +1193,7 @@
 | `thuroa` | grow | Organic increase and development |
 | `tiripe` | quiver | The leaf's and the whisker's shared verb |
 | `tokemi` | fungus | Decomposers and network beings |
-| `toremoa` | mountain | Major land elevation |
+| `tomora` | mountain | Major land elevation |
 | `torua` | year | Seasonal completion |
 | `tuko` | sour | Fermentation quality |
 | `tulira` | tail | The creature's trailing end |
@@ -1207,8 +1207,8 @@
 | `welura` | spread | Frames multiplication as organic growth and spreading |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
-| `wheiluro` | mist | Suspended water droplets |
-| `whekelua` | magic | The world's unforced transforming |
+| `wheiru` | mist | Suspended water droplets |
+| `whekelu` | magic | The world's unforced transforming |
 | `whelina` | grass | Ground-covering plant |
 | `wherakelu` | erode | a geomorphic process driven by water, wind, ice, gravity, organisms, or people |
 | `whesu` | blow | The motion of wind and air |
@@ -1303,7 +1303,7 @@
 | `manuwe` | hand | the body member of grasping and making |
 | `masue` | measure | Size taken against the body |
 | `meilo` | sit | fundamental bodily position and experience of supported rest |
-| `meilopa` | seat | Made for sitting |
+| `meipa` | seat | Made for sitting |
 | `menoa` | face | The front of the head bearing features |
 | `milau` | drink | bodily act of receiving liquid |
 | `milura` | milk | The drink before all others |
@@ -1348,7 +1348,7 @@
 | `nuhewa` | weep | The body's release of grief |
 | `nulae` | sleep | fundamentally a bodily process of physical restoration and repair |
 | `nulomi` | guts | The belly's inner workings |
-| `numelia` | nestle | The settling into warmth |
+| `numea` | nestle | The settling into warmth |
 | `nuola` | eat | the bodily act of taking nourishment |
 | `nuora` | food | what sustains bodily life |
 | `nuwera` | bed | The household place of sleep |
@@ -1508,14 +1508,14 @@
 | `hewe` | wipe | Care's smallest gesture |
 | `holia` | festival | Celebration gathering |
 | `keluro` | honor | Formal expressions of respect |
-| `koashira` | grove | Sacred tree-space |
+| `koshira` | grove | Sacred tree-space |
 | `kowela` | council | creates sacred space through formal deliberation processes |
-| `loamira` | gift | The ledger kept closed |
+| `loami` | gift | The ledger kept closed |
 | `lopha` | vessel | Sacred receptacle |
 | `lumeo` | die | The event around which mourning gathers |
 | `maewo` | threshold | Liminal space |
 | `meilo` | sit | ceremonial significance in meditation, councils, and traditional gatherings |
-| `meilopa` | seat | What receives the practice |
+| `meipa` | seat | What receives the practice |
 | `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | Devotional act |
 | `nelu` | revere | Honoring practice |
@@ -1646,9 +1646,9 @@
 | `sorui` | circle | Round form |
 | `tapu` | close | The boundary completed |
 | `teku` | short | limited dimensional extent |
-| `thaeluro` | ocean | Boundless expanse |
 | `thaeru` | distant | Far away |
 | `thalo` | walk | enables traversal of distance and exploration of place |
+| `thaluro` | ocean | Boundless expanse |
 | `thelui` | sanctuary | Sacred refuge |
 | `thenoi` | falls-short | Frames relative position in numerical space—one quantity does not extend to another |
 | `thenui` | direct | Guiding toward |
@@ -1661,7 +1661,7 @@
 | `tholu` | space | Open area |
 | `thunepa` | sacred place | Holy site |
 | `tomae` | floor | Ground surface |
-| `toremoa` | mountain | Earth reaching skyward |
+| `tomora` | mountain | Earth reaching skyward |
 | `toru` | roof | Overhead cover |
 | `tupi` | jump | Across and over |
 | `turema` | return | Coming back to origin |
@@ -1734,7 +1734,7 @@
 | `melunaro` | climate | conditions analyzed over an explicitly long period |
 | `moenu` | culture | Living inheritance |
 | `molei` | evolve | Gradual change |
-| `moreluki` | transform | Fundamental change over time |
+| `moluki` | transform | Fundamental change over time |
 | `mosha` | period | Time span |
 | `mothanomi` | baseline | often a documented earlier period or state against which change is assessed |
 | `mu` | zero | cycles' beginning and end, pauses between |
@@ -1761,7 +1761,7 @@
 | `pheluremi` | store | holding something across time for later use |
 | `pheru` | endure | Lasting through |
 | `philo` | day | Light-dark cycle |
-| `phiralea` | blossom | Emergence into beauty |
+| `phirali` | blossom | Emergence into beauty |
 | `phirenu` | snow | Winter's presence |
 | `phoemu` | midnight | Night's center |
 | `pholeni` | depart | Beginning of journey or separation |
@@ -1771,7 +1771,7 @@
 | `reshi` | fast | High speed |
 | `rihe` | rise | The shape of beginnings |
 | `rolu` | wheel | Cyclical motion |
-| `ruelami` | adventure | Days given to the unmapped |
+| `rulami` | adventure | Days given to the unmapped |
 | `runae` | resin | Preserving substance |
 | `sahu` | forget | What time does to the unrehearsed |
 | `selu` | flow | transforms time experience into rhythmic continuous phenomena |
@@ -1789,7 +1789,7 @@
 | `soliru` | hope | orients toward future transformation and change |
 | `somethiru` | monitor | attention repeated across a stated interval and duration |
 | `sorae` | sun | marker of day and seasonal cycles |
-| `suiloe` | dew | Ephemeral morning phenomenon |
+| `suilo` | dew | Ephemeral morning phenomenon |
 | `sunoe` | regenerate | Renewal cycle |
 | `talome` | restore | Bridging past and present through recovery |
 | `teku` | short | brief duration |
@@ -1877,7 +1877,7 @@
 | `meilo` | sit | sitting meditation as practice for cultivating mindful awareness |
 | `menua` | counselor | Advisory presence |
 | `moesha` | still | Calm presence |
-| `moreluki` | transform | Understanding deep change as possible |
+| `moluki` | transform | Understanding deep change as possible |
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | Right-sized self |

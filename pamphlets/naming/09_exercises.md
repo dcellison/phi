@@ -7,7 +7,7 @@ Answers follow at the end. Where an exercise asks for judgment, the key gives th
 Translate each sentence; where a cast-word appears, say whether it is vocabulary or a person, and what decided it.
 
 1. `keruko lopha mua womu nai.`
-2. `ne moli wei mia loamira to loa.`
+2. `ne moli wei mia loami to loa.`
 3. `mia moli haolu.`
 4. `ne keruko kau silawo to thalo.`
 5. `thinoe mua muila nulae.`

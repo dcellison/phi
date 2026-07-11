@@ -49,7 +49,7 @@ Translate each Phi sentence into natural English.
 
 23. **thia shola mia so turema sholo to haolu**
 
-24. **lo mia mena shia to naphe meno shelomui**
+24. **lo mia mena shia to naphe meno shelomu**
 
 25. **mia wela nophi shewo nai welo ma sano**
 
@@ -69,7 +69,7 @@ Translate each Phi sentence into natural English.
 
 Each sentence contains an error. Find and correct it.
 
-31. *mia mena shia to wepu shelomui
+31. *mia mena shia to wepu shelomu
 
 32. *mia wela shia to wepu wela phaelo
 
@@ -77,7 +77,7 @@ Each sentence contains an error. Find and correct it.
 
 34. *rena nophi kealo reno miona
 
-35. *mia shelomui mena shia to wepu meno
+35. *mia shelomu mena shia to wepu meno
 
 36. *mia mena shia towe meno sano
 
@@ -95,7 +95,7 @@ Each sentence contains an error. Find and correct it.
 
 Complete each sentence with the appropriate complementizer(s).
 
-41. mia _____ shia to wepu _____ shelomui
+41. mia _____ shia to wepu _____ shelomu
     (I understand that they left.)
 
 42. shia _____ mia so turema _____ to haolu
@@ -116,7 +116,7 @@ Complete each sentence with the appropriate complementizer(s).
 47. shia _____ wa thia wepu _____ to thilou
     (They asked: "Are you leaving?")
 
-48. mia _____ thia _____ shia towe nai _____ phaelo _____ shelomui
+48. mia _____ thia _____ shia towe nai _____ phaelo _____ shelomu
     (I understand that you feel that they are well.)
 
 ---
@@ -201,7 +201,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 4. **melu mena mia to naphe meno to haolu**
    friend DECL.COMP 1SG PST help DECL.COMP.CLOSE PST say
 
-5. **lo mia mena shia to wepu meno shelomui**
+5. **lo mia mena shia to wepu meno shelomu**
    1PL DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 
 6. **shia mena thia towe nai meno remo**
@@ -273,7 +273,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ## Part C: Error Correction
 
-31. **mia mena shia to wepu meno shelomui**
+31. **mia mena shia to wepu meno shelomu**
     (Missing `meno`)
 
 32. **mia wela shia to wepu welo phaelo**
@@ -285,7 +285,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 34. **rena nophi kealo miona**
     (Removed `reno`: `rena` has no closer)
 
-35. **mia mena shia to wepu meno shelomui**
+35. **mia mena shia to wepu meno shelomu**
     (Reordered: embedded clause before main verb)
 
 36. **mia mena shia towe nai meno sano**
@@ -305,7 +305,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ## Part D: Gap Fill
 
-41. mia **mena** shia to wepu **meno** shelomui
+41. mia **mena** shia to wepu **meno** shelomu
 
 42. shia **shola** mia so turema **sholo** to haolu
 
@@ -319,7 +319,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 47. shia **shola** wa thia wepu **sholo** to thilou
 
-48. mia **mena** thia **mena** shia towe nai **meno** phaelo **meno** shelomui
+48. mia **mena** thia **mena** shia towe nai **meno** phaelo **meno** shelomu
 
 ## Part E: Transformation
 

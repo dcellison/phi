@@ -1,20 +1,19 @@
 {
-  "word": "lurekoi",
+  "word": "lureko",
   "gloss": "fruit",
-  "ipa": "/lu.re̞.ˈko̞.i/",
+  "ipa": "/lu.ˈre̞.ko̞/",
   "syllables": [
     "lu",
     "re",
-    "ko",
-    "i"
+    "ko"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Fruit / Plant's Offering / Ripened Gift",
-  "description": "The mature seed-bearing structure of a flowering plant, often edible and sweet. 'Lurekoi' names nature's generosity made tangible—the gift that plants offer freely, containing seeds of continuity within sweetness meant to attract and nourish.",
-  "sound_symbolism": "The word ripens into offering. 'Lu' begins with flowing growth, the liquid movement of sap becoming sweetness. 'Re' continues the process. 'Koi' arrives with rounded fullness. Fruit as nature's gift, flowing from growth to abundance.",
-  "grammatical_notes": "Functions as a noun: 'lurekoi' (the fruit). Counted with the living classifier 'lipha'. Includes all botanical fruits whether sweet or not. Often used metaphorically for results, outcomes, and the harvest of effort.",
+  "description": "The mature seed-bearing structure of a flowering plant, often edible and sweet. 'Lureko' names nature's generosity made tangible—the gift that plants offer freely, containing seeds of continuity within sweetness meant to attract and nourish.",
+  "sound_symbolism": "The word ripens into offering. 'Lu' begins with flowing growth, the liquid movement of sap becoming sweetness. 'Re' carries that growth through ripening, and the rounded 'ko' closes on the fruit's full, contained form.",
+  "grammatical_notes": "Functions as a noun: 'lureko' (the fruit). Counted with the living classifier 'lipha'. Includes all botanical fruits whether sweet or not. Often used metaphorically for results, outcomes, and the harvest of effort.",
   "pillars": {
     "solarpunk-values": "Fruit represents abundance without extraction—plants offer freely what they create, modeling gift economy.",
     "pre-industrial-wisdom": "Fruit was seasonal treasure, preserved and celebrated, teaching patience for nature's timing and gratitude for its gifts."

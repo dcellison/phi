@@ -27,7 +27,7 @@ Here "the thing" or "the work" is implied. The relative clause `rena thia to kea
 Headless relatives are particularly useful for expressing general truths or philosophical observations:
 
 ```
-rena lothea shelomui phue nai.
+rena lothea shelomu phue nai.
 REL love understand wise be.
 (One who understands love is wise.)
 ```
@@ -47,12 +47,12 @@ The parallel structure works naturally without explicit nouns.
 Headless relatives can sometimes drop `rena` entirely when the structure is clear:
 
 ```
-lothea shelomui phue nai.
+lothea shelomu phue nai.
 love understand wise be.
 (One who understands love is wise.)
 ```
 
-The clause `lothea shelomui` ("understand love") is a nominal phrase meaning "one who understands love." This works because the clause occupies a position where a noun is expected, and the meaning is unambiguous.
+The clause `lothea shelomu` ("understand love") is a nominal phrase meaning "one who understands love." This works because the clause occupies a position where a noun is expected, and the meaning is unambiguous.
 
 However, `rena` adds clarity, especially in longer sentences:
 

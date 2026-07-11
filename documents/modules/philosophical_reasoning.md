@@ -27,7 +27,7 @@ These existing resources remain available to every Phi speaker and keep their or
 | Area | Existing resources | Continuing role |
 |---|---|---|
 | Meaning and reference | `reo` meaning, `relo` symbol, `shelo` signify, `lilea` clarify, `solae` explain, `thelima` describe, `phelui` word | Support ordinary questions about meaning, expression, and explanation. |
-| Thought and revision | `remo` think, `nohero` believe, `sano` know, `shelomui` understand, `hiru` intuit, `kanelu` err, `helui` change | Preserve distinctions between mental acts and make revision sayable. |
+| Thought and revision | `remo` think, `nohero` believe, `sano` know, `shelomu` understand, `hiru` intuit, `kanelu` err, `helui` change | Preserve distinctions between mental acts and make revision sayable. |
 | Truth and accuracy | `shewo` true, `theloa` truth, `telua` accurate, `phelira` mistaken | Assess correspondence and error independently of argument structure. |
 | Source and modality | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `mena ... meno` proposition frame | State source, possibility, necessity, negation, and propositional content with ordinary grammar. |
 | Cause and purpose | `ka` cause, `lao` because, `porua` purpose, `thueli` intend, `thelao` consequence | Keep causal, purposive, motivational, and discourse relations distinct from justification and entailment. |

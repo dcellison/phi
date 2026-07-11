@@ -49,7 +49,7 @@ Growth rarely happens alone; `ka` lets a community say so plainly, and it lets t
 
 Qualities are not verbs in Phi: nothing is "cleaned" or "calmed" in a single word. A state is entered with `kelu` (become), the quality standing before it, and caused with the same machinery every other verb uses:
 
-> **lurekoi seroli kelu**
+> **lureko seroli kelu**
 > fruit mature become
 > "The fruit ripens"
 

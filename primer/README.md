@@ -48,7 +48,7 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 | 14 | Can *po*; must *na* | The rules of the house |
 | 15 | Counting: *ta*, *wi*, *shao* and the classifiers | At the market |
 | 16 | Names with *ne*; calling with *kona*; politeness *pi* | Visitors |
-| 17 | The gift noun *loamira*; sharing *phowe* | The gift |
+| 17 | The gift noun *loami*; sharing *phowe* | The gift |
 | 18 | And, or, also: *nela*, *sola*, *we* | Together |
 
 **Part IV: Saying and thinking**

@@ -27,11 +27,11 @@ The key states intended readings so the transformation controls can be audited a
 | 1A-P2 | B directly sees the river. | `hi nila` | Observational premise. |
 | 1A-P3 | The river is not clean. | `ma hiso nai` | Observed-state premise with negation. |
 | 1A-C1 | A believes by inference that rain caused the river to become harmful. | `ke nohero`; embedded causative proposition | Principal conclusion, unchanged from the source dialogue. |
-| 1A-S1 | B understands A's claim but does not agree. | `shelomui`; `whekai`; `ma nawo` | Understood disagreement. |
+| 1A-S1 | B understands A's claim but does not agree. | `shelomu`; `whekai`; `ma nawo` | Understood disagreement. |
 | 1A-E1 | B grants that A directly knows rain fell. | `hi sano` | Evidence challenge preserves P1. |
 | 1A-E2 | B grants that A directly knows the river is unclean. | `hi sano`; embedded negation | Evidence challenge preserves P2 and P3. |
 | 1A-E3 | B denies that A directly knows the causal proposition. | `hi ma sano` | Evidence challenge distinguishes direct premises from inferred causation. |
-| 1A-S2 | A understands the challenge but retains the causal proposition only as inferential belief. | `shelomui`; `whekai`; `ke nohero` | Final stance preserves the conclusion and its weaker source. |
+| 1A-S2 | A understands the challenge but retains the causal proposition only as inferential belief. | `shelomu`; `whekai`; `ke nohero` | Final stance preserves the conclusion and its weaker source. |
 
 **Expected plain paraphrase.** A directly knows that rain fell; B directly observes an unclean river; A infers a causal relation. B understands but disputes the inference, explicitly granting direct access to the two observations while denying direct causal knowledge. A understands the challenge and retains the causal claim as belief based on inference.
 
@@ -48,7 +48,7 @@ The key states intended readings so the transformation controls can be audited a
 | 1B-E1 | B does not know the cause and offers an old device as another thing that may be harmful. | `ma sano`; `phisu`; `po peloma nai` | Evidence challenge and alternative example, not a claim that the device affected the river. |
 | 1B-R1 | A withdraws the prior formulation. | `phelui naweri` | Provisional retraction convention whose strength remains under test. |
 | 1B-C1 | A rephrases the final stance as not knowing what caused the river to become harmful. | `shorela`; embedded question; `ma sano` | Changed principal conclusion: suspended judgment. |
-| 1B-S1 | B understands, and both pause. | `shelomui`; plural `therilu` | Repair acknowledgement and topic suspension. |
+| 1B-S1 | B understands, and both pause. | `shelomu`; plural `therilu` | Repair acknowledgement and topic suspension. |
 
 **Expected plain paraphrase.** The rainfall report and direct river observation remain unchanged. A first makes the baseline causal inference. B presents non-knowledge and an old device as another possibly harmful thing without connecting it explicitly to the river. A withdraws the causal formulation and ends without a causal conclusion; B understands, and the speakers pause.
 
@@ -116,7 +116,7 @@ The key states intended readings so the transformation controls can be audited a
 | 3A-D1 | B says the symbol means peace. | `reo` | Proposed meaning. |
 | 3A-R1 | A requests clarification of the meaning. | polite imperative | Clarification probe. |
 | 3A-P1 | B characterizes peace as connecting people. | unmarked assertion | Characterization offered as clarification, not explicitly marked as a definition. |
-| 3A-S1 | A understands but does not agree. | `shelomui`; `whekai`; `ma nawo` | Understood disagreement. |
+| 3A-S1 | A understands but does not agree. | `shelomu`; `whekai`; `ma nawo` | Understood disagreement. |
 | 3A-P2 | B gives as an example that some people do not feel peace. | `phisu`; `soli`; negation | Changed counterexample premise. |
 | 3A-C1 | A rephrases the conclusion as peace not connecting every person. | `shorela`; universal quantifier under negation | Principal conclusion preserved from the source dialogue. |
 | 3A-S2 | B agrees. | `nawo` | Final stance preserved. |

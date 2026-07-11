@@ -4,10 +4,10 @@ The last of the words-of sections is about what changes hands. Phi conducts its 
 
 ## The hands' verbs
 
-Giving, receiving, sharing, taking, exchanging: *loa*, *howela*, *phowe*, *pilu*, *wisola*. The gift is *loamira*, and the giving sentence uses the dative you know:
+Giving, receiving, sharing, taking, exchanging: *loa*, *howela*, *phowe*, *pilu*, *wisola*. The gift is *loami*, and the giving sentence uses the dative you know:
 
 ```
-mia wei thia loamira loa.
+mia wei thia loami loa.
 1SG DAT 2SG gift give.
 (I give you a gift.)
 ```
@@ -58,4 +58,4 @@ mia thia rolia nila.
 
 ## The gift closes the circle
 
-The Prophet's teaching on giving lives on the texts shelf with reward rendered as *loamira*, because this economy has no wages, and the Tao's counsel hands kindness back for harm. The grammar was on their side all along: *wisola* wants the reciprocal, *sone* wants a subject who does the valuing, and the dative gift sentence is among the first a learner builds. What changes hands in Phi changes hands the way everything else in the language moves, announced, counted honestly, and offered with both hands visible.
+The Prophet's teaching on giving lives on the texts shelf with reward rendered as *loami*, because this economy has no wages, and the Tao's counsel hands kindness back for harm. The grammar was on their side all along: *wisola* wants the reciprocal, *sone* wants a subject who does the valuing, and the dative gift sentence is among the first a learner builds. What changes hands in Phi changes hands the way everything else in the language moves, announced, counted honestly, and offered with both hands visible.

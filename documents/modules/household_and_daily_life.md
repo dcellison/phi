@@ -15,7 +15,7 @@ These are existing core roots. Their appearance here is an index for this profil
 | Area | Existing roots | What the profile can already discuss |
 |---|---|---|
 | Belonging and co-presence | `womu` home, `shuroa` shelter, `lumani` family, `melu` friend, `phao` parent, `lopia` child, `wheo` elder, `sila` community | A dwelling and the people or relations around it, without assuming that any one relation defines the home. |
-| Rooms, boundaries, and furnishings | `nuroa` kitchen, `nuwera` bed, `wonepa` table, `meilopa` seat, `ponu` door, `wira` window, `moru` wall, `tomae` floor, `toru` roof | Places to sleep, gather, prepare food, enter, and maintain. |
+| Rooms, boundaries, and furnishings | `nuroa` kitchen, `nuwera` bed, `wonepa` table, `meipa` seat, `ponu` door, `wira` window, `moru` wall, `tomae` floor, `toru` roof | Places to sleep, gather, prepare food, enter, and maintain. |
 | Light, warmth, and materials | `luma` lamp, `phelo` light, `moeli` hearth, `thero` fire, `wolea` wood, `wetha` cloth, `wethalu` garment, `palowe` shoe | Everyday material conditions without treating warmth or shelter as luxuries. |
 | Food and vessels | `nuora` food, `napa` bread, `phialu` water, `nuola` eat, `milau` drink, `pharelo` cook, `noru` bowl, `soeli` cup, `tomi` pot, `lopha` vessel | Preparing, sharing, eating, drinking, and carrying ordinary food and water. |
 | Rest, upkeep, and repair | `nulae` sleep, `therilu` rest, `sawa` wash, `hiso` clean, `shiroka` repair, `talome` restore, `tenoa` tool, `thepalu` garden, `thinoe` seed | Resting, cleaning, tending, making do, and repairing rather than discarding. |

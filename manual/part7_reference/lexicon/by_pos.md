@@ -36,7 +36,7 @@
 | `kolutheri` | reliable | Reliable |
 | `koru` | harmonious | Harmonious |
 | `kuelo` | curious | Curious |
-| `kuenora` | strange | Strange |
+| `kuewa` | strange | Strange |
 | `kumoli` | hungry | Hungry |
 | `kurathi` | dry | Dry |
 | `laeno` | long | Long |
@@ -167,7 +167,7 @@
 | `tumoa` | heavy | Heavy |
 | `waeli` | conscious | Conscious |
 | `waeshi` | wild | Wild |
-| `waolia` | wondrous | Wondrous |
+| `waora` | wondrous | Wondrous |
 | `weilo` | balanced | Balanced |
 | `welao` | good | Good |
 | `welua` | fragile | Fragile |
@@ -276,7 +276,7 @@
 
 | Word | Gloss | Concept |
 |---|---|---|
-| `haoluma` | language | Language |
+| `haluma` | language | Language |
 | `haoni` | voice | Voice |
 | `haowu` | air | Air |
 | `helia` | youth | Youth |
@@ -329,7 +329,6 @@
 | `kiroweli` | signal | Signal |
 | `kiru` | chisel | Chisel |
 | `kirua` | sand | Sand |
-| `koashira` | grove | Grove |
 | `koemari` | input | Input |
 | `kohura` | noise | Noise |
 | `kolai` | pigment | Pigment |
@@ -338,6 +337,7 @@
 | `kori` | leather | Leather |
 | `korua` | heart | Heart |
 | `kosha` | field | Field |
+| `koshira` | grove | Grove |
 | `kowela` | council | Council |
 | `kulai` | tooth | Tooth |
 | `kuma` | drum | Drum |
@@ -367,7 +367,7 @@
 | `lioru` | life | Life |
 | `lirowa` | leaf | Leaf |
 | `liru` | fabric | Fabric |
-| `loamira` | gift | Gift |
+| `loami` | gift | Gift |
 | `loesi` | oil | Oil |
 | `lohau` | dog | Dog |
 | `lokue` | place | Place |
@@ -397,10 +397,10 @@
 | `luphanori` | watershed | Watershed |
 | `luphonu` | boat | Boat |
 | `luphore` | river | River |
-| `lurekoi` | fruit | Fruit |
+| `lureko` | fruit | Fruit |
 | `maewo` | threshold | Threshold |
 | `manuwe` | hand | Hand |
-| `meilopa` | seat | Seat |
+| `meipa` | seat | Seat |
 | `meliphe` | music | Music |
 | `melira` | song | Song |
 | `melothe` | pond | Pond |
@@ -525,15 +525,15 @@
 | `philea` | feather | Feather |
 | `philo` | day | Day |
 | `philu` | candle | Candle |
-| `philuewa` | butterfly | Butterfly |
 | `phiora` | spirit | Spirit |
-| `phiralea` | blossom | Blossom |
+| `phirali` | blossom | Blossom |
 | `phiralima` | biodiversity | Biodiversity |
 | `phirenu` | snow | Snow |
 | `phireo` | plant | Plant |
 | `phisumari` | sample | Sample |
 | `phisuwa` | example | Example |
 | `phitura` | well (water) | Well |
+| `phiwapi` | butterfly | Butterfly |
 | `phiwhekira` | counterexample | Counterexample |
 | `phoemu` | midnight | Midnight |
 | `phoi` | nine-group | Nine-Unit |
@@ -575,7 +575,7 @@
 | `rolutha` | wagon | Wagon |
 | `ronua` | south | South |
 | `ruela` | path | Path |
-| `ruelami` | adventure | Adventure |
+| `rulami` | adventure | Adventure |
 | `runae` | resin | Resin |
 | `seluwhera` | outage | Outage |
 | `sena` | pattern | Pattern |
@@ -601,7 +601,7 @@
 | `shuna` | edge | Edge |
 | `shupi` | plateau | Plateau |
 | `shuroa` | shelter | Shelter |
-| `siheloa` | breeze | Breeze |
+| `sihewa` | breeze | Breeze |
 | `sila` | community | Community |
 | `silathora` | role | Role |
 | `silawo` | village | Village |
@@ -618,7 +618,7 @@
 | `sorae` | sun | Sun |
 | `sorai` | insight | Insight |
 | `sorui` | circle | Circle |
-| `suiloe` | dew | Dew |
+| `suilo` | dew | Dew |
 | `sukima` | fear | Fear |
 | `sulai` | musician | Musician |
 | `suliwa` | snake | Snake |
@@ -636,10 +636,10 @@
 | `terulora` | system | System |
 | `tesu` | iron | Iron |
 | `tewema` | partner | Partner |
-| `thaeluro` | ocean | Ocean |
 | `thaeso` | midday | Midday |
 | `thalume` | ancestor | Ancestor |
 | `thaluni` | kin | Kin |
+| `thaluro` | ocean | Ocean |
 | `thelai` | balm | Balm |
 | `theloa` | truth | Truth |
 | `theloma` | justice | Justice |
@@ -683,7 +683,7 @@
 | `tolu` | staff | Staff |
 | `tomae` | floor | Floor |
 | `tomi` | pot | Pot |
-| `toremoa` | mountain | Mountain |
+| `tomora` | mountain | Mountain |
 | `toru` | roof | Roof |
 | `torua` | year | Year |
 | `tulira` | tail | Tail |
@@ -704,8 +704,8 @@
 | `weru` | poet | Poet |
 | `wetha` | cloth | Cloth |
 | `wethalu` | garment | Garment |
-| `wheiluro` | mist | Mist |
-| `whekelua` | magic | Magic |
+| `wheiru` | mist | Mist |
+| `whekelu` | magic | Magic |
 | `whelina` | grass | Grass |
 | `whemorali` | waste | Waste |
 | `wheo` | elder | Elder |
@@ -908,10 +908,10 @@
 | `mishoa` | express | Express |
 | `molawi` | cooperate | Cooperate |
 | `molei` | evolve | Evolve |
+| `moluki` | transform | Transform |
 | `morae` | sense | Sense |
 | `moralume` | decompose | Decompose |
 | `moreko` | articulate | Articulate |
-| `moreluki` | transform | Transform |
 | `muholi` | dig | Dig |
 | `mupelo` | vomit | Vomit |
 | `muraki` | harvest | Harvest |
@@ -937,7 +937,7 @@
 | `nuhemi` | grieve | Grieve |
 | `nuhewa` | weep | Weep |
 | `nulae` | sleep | Sleep |
-| `numelia` | nestle | Nestle |
+| `numea` | nestle | Nestle |
 | `numelo` | nurture | Nurture |
 | `numike` | negotiate | Negotiate |
 | `nuola` | eat | Eat |
@@ -1011,7 +1011,7 @@
 | `sharoi` | exceed | Exceeds |
 | `shelo` | signify | Signify |
 | `sheloa` | bloom | Bloom |
-| `shelomui` | understand | Understand |
+| `shelomu` | understand | Understand |
 | `sheluo` | listen | Listen |
 | `shemoli` | harmonize | Harmonize |
 | `shemui` | utter | Utter |

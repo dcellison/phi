@@ -32,7 +32,7 @@ The optative version does not even ask. It hopes aloud, and lets the listener vo
 Disagreement in Phi leans on the evidentials and the observation-feeling pattern from the transmutation chapter. Mark your knowledge honestly (`ho` if you are assuming), state the difference as two observations rather than one correction, and never skip the closer of a frame you opened:
 
 ```
-thia mena sorae sulae nai meno haolu. mia ho ma shelomui.
+thia mena sorae sulae nai meno haolu. mia ho ma shelomu.
 2SG DECL.COMP sun warm be DECL.COMP.CLOSE speak. 1SG ASSUM NEG understand.
 (You say the sun is warm. I, assuming, do not understand.)
 ```

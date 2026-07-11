@@ -23,7 +23,7 @@ NAME sulae come. NAME siora ALSO come.
 At the table, where both referents remain active, the names rest bare:
 
 ```
-sulae loamira kolua.
+sulae loami kolua.
 sulae gift carry.
 (sulae carries a gift.)
 
@@ -64,7 +64,7 @@ For each line, identify whether `ne` is present for portable clarity, first ment
 
 ```
 1. ne sulae ha ma nai.
-2. sulae loamira kolua.
+2. sulae loami kolua.
 3. wa ne thinoe welao miona to nai.
 4. kona ni moli.
 5. ne siora pao.

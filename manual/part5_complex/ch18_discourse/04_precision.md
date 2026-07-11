@@ -49,7 +49,7 @@ sun warm be. PL flower grow. river peaceful be. SUMM forest good be.
 ```
 
 ```
-mia to theo nela to shonela. shelao mia shelomui.
+mia to theo nela to shonela. shelao mia shelomu.
 1SG PST read COORD PST learn. SUMM 1SG understand.
 (I read and learned. In summary I understand.)
 ```

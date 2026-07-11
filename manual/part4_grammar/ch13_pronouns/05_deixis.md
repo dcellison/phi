@@ -20,7 +20,7 @@ The distal particle *ra* marks something as far from the speaker.
 
 **ra** — there (as a location)  
 **ra melu** — that friend (over there)  
-**ra toremoa** — that mountain (in the distance)
+**ra tomora** — that mountain (in the distance)
 
 **shia ra nai.** — They are there.  
 **ra shiro ru whalo nai.** — That tree is very large.  

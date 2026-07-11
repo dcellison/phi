@@ -56,7 +56,7 @@ English "ship," "shine," and "hush" all contain this sound. In Phi, **sh** often
 - `shea` /ˈʃe̞.ä/ (peace)
 - `shiro` /ˈʃi.ro̞/ (tree)
 - `shelira` /ʃe̞.ˈli.rä/ (forest)
-- `shelomui` /ʃe̞.lo̞.ˈmu.i/ (understand)
+- `shelomu` /ʃe̞.ˈlo̞.mu/ (understand)
 
 ## The labio-velar breath: wh
 

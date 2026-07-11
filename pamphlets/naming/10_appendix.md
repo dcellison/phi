@@ -52,7 +52,7 @@
 | mea | thanks |
 | pao | goodbye |
 | seniku | smile |
-| loamira | gift |
+| loami | gift |
 | sulopa | soup |
 | milura | milk |
 | nemo | grateful |

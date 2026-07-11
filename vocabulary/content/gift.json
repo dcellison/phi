@@ -1,20 +1,19 @@
 {
-  "word": "loamira",
+  "word": "loami",
   "gloss": "gift",
-  "ipa": "/lo̞.ä.ˈmi.rä/",
+  "ipa": "/lo̞.ˈä.mi/",
   "syllables": [
     "lo",
     "a",
-    "mi",
-    "ra"
+    "mi"
   ],
   "pos": [
     "noun"
   ],
   "concept": "Gift / The Given Thing",
   "description": "The gift: what changes hands with nothing owed back. The verb 'loa' (give) opens the word, so the noun carries its verb visibly. Distinct from a trade; the gift's whole meaning is that the ledger stays closed.",
-  "sound_symbolism": "'loa' begins it, already giving, and 'mi'-'ra' carries the thing away small and warm.",
-  "grammatical_notes": "Noun: 'mia loamira loa.' (I give a gift.) 'lopia loamira howela.' (The child receives a gift.)",
+  "sound_symbolism": "The complete verb 'loa' (give) begins the word, already enacting the open-handed transfer. Closing 'mi' makes the thing intimate and held, a gift received into someone's keeping without opening a ledger.",
+  "grammatical_notes": "Noun: 'mia loami loa.' (I give a gift.) 'lopia loami howela.' (The child receives a gift.)",
   "pillars": {
     "secular-buddhist-philosophy": "Generosity is the first perfection in the old lists, and the gift is its object: giving practiced until the hand opens before the mind counts.",
     "pre-industrial-wisdom": "Gift economies are older than markets. Whole societies ran on what this word names: obligation converted into relationship."

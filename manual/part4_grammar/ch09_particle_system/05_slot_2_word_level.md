@@ -80,7 +80,7 @@ The particle *ha* marks something as near the speaker, equivalent to "this" or "
 The particle *ra* marks something as far from the speaker, equivalent to "that" or "those."
 
 **ra melu** — that friend  
-**ra toremoa** — that mountain  
+**ra tomora** — that mountain
 **ra philo** — that day
 
 **wa thia ra womu sano.** — Do you know that home?

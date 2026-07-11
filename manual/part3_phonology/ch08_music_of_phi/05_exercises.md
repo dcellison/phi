@@ -92,11 +92,11 @@ Mark stress on these words, then read aloud:
 | lothea | 3 | lo-THE-a |
 | lumani | 3 | lu-MA-ni |
 | phelora | 3 | phe-LO-ra |
-| shelomui | 4 | she-lo-MU-i |
+| shelomu | 3 | she-LO-mu |
 
 Read sentences applying consistent penultimate stress:
 - lo phelora shiro (the beautiful tree)
-- mia shelomui (I understand)
+- mia shelomu (I understand)
 
 ## Exercise 7: Complete words
 

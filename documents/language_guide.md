@@ -95,7 +95,7 @@ lo mia thesua sila lorima
 
 **Peaceful Communication:**
 ```
-pi mia thia shelomui
+pi mia thia shelomu
 POL 1SG 2SG understand
 (I seek to understand you with respect)
 ```

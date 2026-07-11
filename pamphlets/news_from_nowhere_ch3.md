@@ -131,7 +131,7 @@ LOC PROX place one three-group young person TOWARD PROX TOWARD DIST PST IPFV fas
 (In it three young people were flitting here and there.)
 morris: "three young women were flitting to and fro."
 
-ha ta shao himo phea rena mia mua ha waolia kelua to ki nila lo miona to ma nai. thelao mia lo miona to ru thesa nila.
+ha ta shao himo phea rena mia mua ha waora kelua to ki nila lo miona to ma nai. thelao mia lo miona to ru thesa nila.
 PROX one three-group HUM.CLF AS REL 1SG LOC PROX wondrous morning PST PFV see PL person PST NEG be. CONS 1SG PL person PST INTS careful see.
 (These three were not like any I had yet seen on this morning of wonders, so I looked at them very attentively.)
 morris: "As they were the first of the sex I had seen on this eventful morning, I naturally looked at them very attentively,"
@@ -146,12 +146,12 @@ mia lo miona wethalu we to thesa nila. wetha lo miona to moli lomare. sheloi thi
 (I also took careful note of their dress. Cloth wrapped them gently; no heap of small things wrapped them heavily.)
 morris: "As to their dress, which of course I took note of, I should say that they were decently veiled with drapery, and not bundled up with millinery;"
 
-wethalu lo miona phea lima miona to lomare. mu miona lo miona phea meilopa pheno to ka kelu.
+wethalu lo miona phea lima miona to lomare. mu miona lo miona phea meipa pheno to ka kelu.
 garment PL person AS alive person PST embrace. zero person PL person AS seat full PST CAUS become.
 (Their garments clothed them like living people; no one had stuffed them full, the way a seat is stuffed.)
 morris: "that they were clothed like women, not upholstered like armchairs,"
 
-mua mia punoa sheloi miona phea meilopa pheno ro kelu.
+mua mia punoa sheloi miona phea meipa pheno ro kelu.
 LOC 1SG society MANY person AS seat full HAB become.
 (In my own world, many people habitually become as full-stuffed as seats.)
 morris: "as most women of our time are."
@@ -202,7 +202,7 @@ BECAUSE 1SG LOC past night garment PST IPFV embrace. ADD 1SG AROUND garment NONE
 morris: "for I had on my clothes of last night, and at the best was never a dressy person."
 ```
 
-**Notes:** this section carries the chapter's deepest refusal, and it should be named plainly. Morris's narrator sorts the hall by sex: these are "the first of the sex I had seen," clothed "like women," compared against "the male men." Canon refuses gendered person-words outright, so none of that sorting can be said, and the transmutation does not smuggle it back in through a composed workaround. What survives is everything the sentence actually observes: the newness of these three among everyone met so far, the close and deliberate attention, the judgment that gardens, buildings, and friends could be no better. The armchair joke survives whole because `meilopa` (seat) was already in the lexicon: no one had stuffed these people full the way a seat is stuffed, though in the narrator's own world many people habitually are. The dress stands between two old worlds' shapes and follows neither, the fourteenth century dissolving into `serao punoa` exactly as the last chapter's costume note did. The handshake scene keeps its simile at full length, a friend only now returned from a long journey, and the glance at the narrator's clothes is what askance honestly is, inquiring eyes he could not help sensing.
+**Notes:** this section carries the chapter's deepest refusal, and it should be named plainly. Morris's narrator sorts the hall by sex: these are "the first of the sex I had seen," clothed "like women," compared against "the male men." Canon refuses gendered person-words outright, so none of that sorting can be said, and the transmutation does not smuggle it back in through a composed workaround. What survives is everything the sentence actually observes: the newness of these three among everyone met so far, the close and deliberate attention, the judgment that gardens, buildings, and friends could be no better. The armchair joke survives whole because `meipa` (seat) was already in the lexicon: no one had stuffed these people full the way a seat is stuffed, though in the narrator's own world many people habitually are. The dress stands between two old worlds' shapes and follows neither, the fourteenth century dissolving into `serao punoa` exactly as the last chapter's costume note did. The handshake scene keeps its simile at full length, a friend only now returned from a long journey, and the glance at the narrator's clothes is what askance honestly is, inquiring eyes he could not help sensing.
 
 ## kelua nuora — The breakfast
 
@@ -262,7 +262,7 @@ ANT 1SG PST rise 1SG PROX PST think.
 (I thought of this before I got up this morning.)
 morris: "I thought of that before I got up this morning;"
 
-whekai kona ne kulo. mia mena ha kuenora miona muo thia luphonu kalei meno to nila. ha remo lue mia koma to lepa.
+whekai kona ne kulo. mia mena ha kuewa miona muo thia luphonu kalei meno to nila. ha remo lue mia koma to lepa.
 CONTR VOC NAME kulo. 1SG DECL.COMP PROX strange person INTO 2SG boat climb DECL.COMP.CLOSE PST see. PROX think ABL 1SG head PST fall.
 (But, Guide, I watched this stranger climbing into your boat, and the thought fell out of my head.)
 morris: "but looking at the stranger here getting into your boat, Dick, put it out of my head;"
@@ -409,7 +409,7 @@ CONS 1SG long moment PST take. 1SG one lie PST careful create. small true PROX l
 (So I took time and carefully made a lie; a little truth was that lie's guardian; and I said:)
 morris: "so I took time to invent a lie with circumstance, guarded by a little truth, and said:"
 
-mia shola mia lue ha lo muila ru laeno thimu to wuero nai. thelao lo thena wei mia nosa kuenora ke nai. sholo to haolu.
+mia shola mia lue ha lo muila ru laeno thimu to wuero nai. thelao lo thena wei mia nosa kuewa ke nai. sholo to haolu.
 1SG QUOT.COMP 1SG ABL PROX PL earth INTS long time PST far be. CONS PL thing DAT 1SG now strange INFER be. QUOT.COMP.CLOSE PST speak.
 ("You see, I have been away from these lands so long a time that things seem strange to me now.")
 morris: "\"You see, I have been such a long time away from Europe that things seem strange to me now;"
@@ -485,7 +485,7 @@ PROX herb strong sweet smell DAT 1SG 1SG child time ORD one PL day PST CAUS reme
 (Its strong sweet smell brought back to me the very first days of my child-time.)
 morris: "its strong sweet smell brought back to my mind my very early days"
 
-mia ra nuora thepalu we to halemu. mia rena noe kaelo heru phanoi leo moru ruloi lo whalo shilu lurekoi we to halemu.
+mia ra nuora thepalu we to halemu. mia rena noe kaelo heru phanoi leo moru ruloi lo whalo shilu lureko we to halemu.
 1SG DIST food garden ALSO PST remember. 1SG REL BEHIND sweet herb portion ABOVE wall flourish PL large blue fruit ALSO PST remember.
 (I remembered the kitchen-garden too, and the great blue fruits that grew on the wall beyond the sweet-herb bed.)
 morris: "in the kitchen-garden at Woodford, and the large blue plums which grew on the wall beyond the sweet-herb patch,"
@@ -530,7 +530,7 @@ CONTR 1SG LOC MANY past year DIST place PST NEG see. one moment different PST be
 (But for many years now I had not seen the place; one time was different, when we of the alliance went for pleasure to that high place.)
 morris: "But I have not seen the place now for many years, except once, when we Leaguers went a pleasuring to High Beech."
 
-mua ra shemu mia mena lo miona leo theula ra lokue to ki lorima meno to nila. ra lokue to ki ru moreluki. ha nila mia to ru wakomi.
+mua ra shemu mia mena lo miona leo theula ra lokue to ki lorima meno to nila. ra lokue to ki ru moluki. ha nila mia to ru wakomi.
 LOC DIST moment 1SG DECL.COMP PL person ABOVE UNIV DIST place PST PFV build DECL.COMP.CLOSE PST see. DIST place PST PFV INTS transform. PROX see 1SG PST INTS surprise.
 (Then I saw that people had built over the whole place; it was utterly altered; and that sight shocked me deeply.)
 morris: "I was very much shocked then to see how it was built-over and altered;"
@@ -571,7 +571,7 @@ NAME kulo COORD DIST beautiful person PST INCH loud laugh.
 (Dick and the pretty girl both burst out laughing.)
 morris: "Dick and the pretty girl both burst out laughing,"
 
-ne selomi kuenora ha keno pukate moli to ka ke kelu.
+ne selomi kuewa ha keno pukate moli to ka ke kelu.
 NAME selomi strange PROX custom break gentle PST CAUS INFER become.
 (Weaver's strangeness, it seemed, made the breach a gentle one.)
 morris: "as if Robert's conduct were excusable on the grounds of eccentricity;"
@@ -1033,7 +1033,7 @@ shia roe seniku menoa wea lo mia wonepa to shua. shia mua wonepa to meilo.
 (He came to our table with a smiling face and sat down at it.)
 morris: "He came and sat down at our table with a smiling face,"
 
-shia lo laeno tolae to welura. shia pelio leo meilopa to ka ruemi.
+shia lo laeno tolae to welura. shia pelio leo meipa to ka ruemi.
 3SG PL long leg PST spread. 3SG arm ABOVE seat PST CAUS lie down.
 (He stretched out his long legs and hung his arm over the chair.)
 morris: "stretching out his long legs and hanging his arm over the chair"
@@ -1118,7 +1118,7 @@ mia ne kulo to ru nila. shia wei ha thoru kire miona phea serao melu to haolu. s
 (I stared at Guide: he spoke to so dignified-looking a personage as to an old friend, and shortly at that; and this astonished me.)
 morris: "I stared at Dick; for I wondered at his speaking to such a dignified-looking personage so familiarly, not to say curtly;"
 
-shai shia nomei lue lo serao nophi shua mia mena ha miona ha lo kuenora miona wheo kowela miona nai meno to remo.
+shai shia nomei lue lo serao nophi shua mia mena ha miona ha lo kuewa miona wheo kowela miona nai meno to remo.
 CONC 3SG name ABL PL old story come 1SG DECL.COMP PROX person PROX PL strange person elder council person be DECL.COMP.CLOSE PST think.
 (For though his name came out of the old stories, I thought this man must be at the least an elder-councillor of these strange people.)
 morris: "for I thought that this Mr. Boffin, in spite of his well-known name out of Dickens, must be at the least a senator of these strange people."
@@ -1164,7 +1164,7 @@ shia nomei mia rena mia lo serao nophi theo sheloi loshi thimu ka halemu.
 (His name, by the way, makes me remember many pleasant hours I passed reading the old stories.)
 morris: "whose name, by the way, reminds me of many pleasant hours passed in reading Dickens.\""
 
-ne kulo to hola. shia shola lia. lia. wei lo mia we ha phoa. sholo to haolu. mia mena thia ha nomei shelomui meno nila.
+ne kulo to hola. shia shola lia. lia. wei lo mia we ha phoa. sholo to haolu. mia mena thia ha nomei shelomu meno nila.
 NAME kulo PST laugh. 3SG QUOT.COMP yes. yes. DAT PL 1SG ALSO PROX do. QUOT.COMP.CLOSE PST speak. 1SG DECL.COMP 2SG PROX name understand DECL.COMP.CLOSE see.
 (Dick laughed. "Yes, yes," said he, "it does the same for us. I see you take the name's meaning.")
 morris: "Dick laughed.  \"Yes, yes,\" said he, \"as it does us.  I see you take the allusion."
@@ -1311,6 +1311,6 @@ morris: "Dick shook the reins, and we were off."
 
 *The names land at Morris's own naming moments, under the ratified policy: the narrator himself becomes `ne phemi` (Guest), the family name that is also his condition, chosen in the same breath in which Morris chose it, with "add William to it if you please" kept as the offer of a second name and released as the author's untranslatable self-portrait; Annie is `ne luwae` (Graceful), named in Boffin's mouth; Boffin is `ne solai` (Gold), the joke, over `ne keruko` (Sturdy), the plain true name standing where "Henry Johnson" stands; Jim the horse-keeper is `ne woru` (Keeper). Places dissolve into their functions as ruled: Epping Forest into the great forest at whose edge the narrator was born, Walthamstow and Woodford into villages the sentence never needed, Queen Elizabeth's Lodge and High Beech into the very old house and the high place, the Corporation of London into the great city's council, Bloomsbury into the great town's middle, Turin into a far southern town, Crosby Hall into the great halls the narrator had known, Oxford's High Table into the elders' table, Europe into these lands. Dickens becomes the old stories, Scott an old storyteller, and Morris's Latin tag "Ne quid nimis" an old saying that happens to be Phi's own doctrine: nothing must be too much.*
 
-*Three refusals carry structural weight. The gendered sorting of the hall, "the first of the sex," "clothed like women," "the male men," "a woman is as old as she looks," "well, lads," "both men and women," cannot be said in a language that refuses gendered person-words, and it is not smuggled back in: what survives is the newness of these three among all yet met, the deliberate attention, the armchair joke (which needed only `meilopa`), and a proverb told of persons. The ranks fall with the genders: the "fine lady" becomes the behavior she names (some people never tell their years), the baron a gold-wrapped man of a far older world, the senator an elder-councillor, the "sir" a courtesy Phi's grammar carries in `pi` instead. And the dates go the way of the refused calendar: 1955 becomes a count of years spoken roundly (`pai ta rei wi lau torua`, near a hundred and thirty-five), twenty-five years becomes near one twenty-seven (`pai ta lau torua`), the ages run in ternary (fifty-six as two twenty-sevens and two; forty-two as twenty-seven, nine, and two threes; twenty as two nines and two; eighty as the round `ta rei`), and the inscription's "May 1962" keeps only what an inscription can say in this language, `mua wirae lumae`, at spring's end.*
+*Three refusals carry structural weight. The gendered sorting of the hall, "the first of the sex," "clothed like women," "the male men," "a woman is as old as she looks," "well, lads," "both men and women," cannot be said in a language that refuses gendered person-words, and it is not smuggled back in: what survives is the newness of these three among all yet met, the deliberate attention, the armchair joke (which needed only `meipa`), and a proverb told of persons. The ranks fall with the genders: the "fine lady" becomes the behavior she names (some people never tell their years), the baron a gold-wrapped man of a far older world, the senator an elder-councillor, the "sir" a courtesy Phi's grammar carries in `pi` instead. And the dates go the way of the refused calendar: 1955 becomes a count of years spoken roundly (`pai ta rei wi lau torua`, near a hundred and thirty-five), twenty-five years becomes near one twenty-seven (`pai ta lau torua`), the ages run in ternary (fifty-six as two twenty-sevens and two; forty-two as twenty-seven, nine, and two threes; twenty as two nines and two; eighty as the round `ta rei`), and the inscription's "May 1962" keeps only what an inscription can say in this language, `mua wirae lumae`, at spring's end.*
 
 *Disclosed simplifications, each a real loss taken knowingly: machine printing and composing flatten into device-work for books, a craft distinction with no Phi press vocabulary yet; the "radical" of the radical cobblers is absorbed into the trampling of custom the sentence itself describes; hornbeam and holly generalize into head-cut trees and dense small growth, lavender into sweet-smelling herbs, the plums into great blue fruits, the balm into an herb whose name the narrator's boyhood knew, since the naming-memory, not the species, is what the scene turns on (the species test holds: none of the five recurs doing image-work); ivory becomes smooth bone, cheeks and lips become face and mouth, the wrist becomes the hand, all body-words Phi deliberately keeps few; and Morris's "eventful morning" is carried as the morning of wonders the chapter has already earned. The fighting whose approach the weaver's book skirts is rendered the only way Phi will ever render it, by the deed: before the time when people did harm to one another. That sentence is the novel's first step toward the war chapters, and the language did not need a single weapon to take it.*

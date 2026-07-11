@@ -131,7 +131,7 @@ REL 3SG PST receive flower beautiful be
 ### With multiple actors
 
 ```
-mia rena thia wei mia to haolu nophi shelomui
+mia rena thia wei mia to haolu nophi shelomu
 1SG REL 2SG DAT 1SG PST speak story understand
 (i understand the story that you told me.)
 ```
@@ -233,7 +233,7 @@ REL old be book complex be
 ```
 
 ```
-rena mia to shelomui nophi mia ka phaelo
+rena mia to shelomu nophi mia ka phaelo
 REL 1SG PST understand story 1SG CAUS feel
 (the story that i understood moves me.)
 ```
@@ -347,7 +347,7 @@ mia rena shia to kealo shelu theo. ruka nai.
 1SG REL 3SG PST create book read. complex be.
 (i read the book that they created. [it] is complex.)
 
-rena mia to shelomui nophi mia phaelo.
+rena mia to shelomu nophi mia phaelo.
 REL 1SG PST understand story 1SG feel.
 (the story that i understood moves me.)
 ```

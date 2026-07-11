@@ -12,7 +12,7 @@ The module does not replace Phi's existing language of land, water, weather even
 |---|---|
 | Land and water | `muila` earth or soil, `phialu` water, `luphore` river, `phuliro` stream, `thelomi` lake, `moriwhe` sea, `thula` spring, `kosha` field |
 | Sky and immediate conditions | `pheralu` rain, `sorae` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
-| Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koashira` grove, `thepalu` garden, `tokemi` fungus |
+| Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `tokemi` fungus |
 | Relations and transformations | `menui` dwell, `nuola` eat, `lumera` nourish, `panoru` support, `lorea` connect, `selu` flow, `kelu` become, `thuroa` grow, `lumeo` die, `nuri` cycle, `turema` return |
 | Care and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
 | Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneholu` tradeoff |
@@ -73,7 +73,7 @@ One named forest, lake, farm, garden, or city may contain several useful ecosyst
 `menulora` joins place with the conditions that matter to a stated organism or living group. A place can be habitat for one life stage or season and not another. Observation at a place does not establish that the place supplies food, shelter, reproduction, movement, or any other required condition.
 
 ```
-ha koashira ha teluno menulora nai.
+ha koshira ha teluno menulora nai.
 PROX grove PROX amphibian habitat be.
 (This grove is a habitat for this amphibian.)
 ```

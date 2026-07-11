@@ -10,7 +10,7 @@ Particles appear in a fixed order based on their slot:
 
 Example:
 ```
-pi mia so ki po shelomui.
+pi mia so ki po shelomu.
 POL 1SG FUT PFV POT understand.
 (Politely, I will be able to have understood.)
 ```
@@ -101,7 +101,7 @@ Each rank admits at most one particle per clause; the single ruled pairing is vo
 **Function**: Announces action occurred in the past
 **Example**:
 ```
-mia to shelomui.
+mia to shelomu.
 1SG PST understand.
 (I understood.)
 ```
@@ -110,7 +110,7 @@ mia to shelomui.
 **Function**: Announces action will occur in the future
 **Example**:
 ```
-mia so shelomui.
+mia so shelomu.
 1SG FUT understand.
 (I will understand.)
 ```
@@ -123,7 +123,7 @@ mia so shelomui.
 **Function**: Announces completion at the tense's reference time: `ki` have done, `to ki` had done, `so ki` will have done
 **Example**:
 ```
-mia to ki shelomui.
+mia to ki shelomu.
 1SG PST PFV understand.
 (I had understood.)
 ```
@@ -132,7 +132,7 @@ mia to ki shelomui.
 **Function**: Announces ongoing, progressive action — in mid-flow; habits take `ro`
 **Example**:
 ```
-mia si shelomui.
+mia si shelomu.
 1SG IPFV understand.
 (I am understanding.)
 ```
@@ -141,7 +141,7 @@ mia si shelomui.
 **Function**: Announces the beginning of an action
 **Example**:
 ```
-mia pa shelomui.
+mia pa shelomu.
 1SG INCH understand.
 (I begin to understand / I am starting to understand.)
 ```
@@ -150,7 +150,7 @@ mia pa shelomui.
 **Function**: Announces the ending of an action
 **Example**:
 ```
-mia te shelomui.
+mia te shelomu.
 1SG CESS understand.
 (I stop understanding / I cease to understand.)
 ```
@@ -183,8 +183,8 @@ Passive: nophi se kealo.     (The story is created.)
 Base:      lopia nulae.           (The child sleeps.)
 Causative: mia lopia ka nulae.    (I make the child sleep.)
 
-Base:      thia nophi shelomui.      (You understand the story.)
-Causative: mia thia nophi ka shelomui. (I make you understand the story.)
+Base:      thia nophi shelomu.      (You understand the story.)
+Causative: mia thia nophi ka shelomu. (I make you understand the story.)
 ```
 **Combinations**: the voice pair is fixed `se ka` (`lopia se ka nulae.` — The child is made to sleep.); with modals, voice precedes modality (`ka na` must make, `ka po` can make); `ka ma` denies the causation itself.
 
@@ -224,7 +224,7 @@ PL person PST REP help.
 **Function**: Announces that the speaker is assuming or supposing rather than knowing
 **Example**:
 ```
-thia ho shelomui.
+thia ho shelomu.
 2SG ASSUM understand.
 (You understand [I assume].)
 ```
@@ -235,7 +235,7 @@ thia ho shelomui.
 **Function**: Announces that the action is possible or that the subject has ability
 **Example**:
 ```
-mia po shelomui.
+mia po shelomu.
 1SG POT understand.
 (I can understand / I am able to understand.)
 ```
@@ -256,11 +256,11 @@ mia na naphe.
 **Position**: After all other Slot 1 particles
 **Example**:
 ```
-mia ma shelomui.
+mia ma shelomu.
 1SG NEG understand.
 (I do not understand.)
 
-mia so ki po ma shelomui.
+mia so ki po ma shelomu.
 1SG FUT PFV POT NEG understand.
 (I will not be able to have understood.)
 ```
@@ -278,7 +278,7 @@ mia so ki po ma shelomui.
 
 When multiple Slot 1 particles combine, they follow strict ordering:
 ```
-mia to si ke po ma shelomui.
+mia to si ke po ma shelomu.
 1SG PST IPFV INFER POT NEG understand.
 (I was not being able to understand [I infer].)
 ```
@@ -338,7 +338,7 @@ ORD two day.
 **Function**: Announces emphatic focus on a particular element
 **Example**:
 ```
-mia ko lothea shelomui.
+mia ko lothea shelomu.
 1SG FOC love understand.
 (I understand *love* [specifically, not other things].)
 ```
@@ -358,7 +358,7 @@ ALSO 1SG come.
 **Function**: Announces that the statement holds for the marked element alone ("only")
 **Example**:
 ```
-li shia shelomui.
+li shia shelomu.
 RESTR 3SG understand.
 (Only they understand.)
 ```
@@ -480,11 +480,11 @@ While not technically particles, these function words occupy argument positions 
 
 **Examples**:
 ```
-sua lothea shelomui.
+sua lothea shelomu.
 who love understand.
 (Who understands love?)
 
-mia hina shelomui.
+mia hina shelomu.
 1SG what understand.
 (What do I understand?)
 
@@ -508,7 +508,7 @@ These announce how the current sentence relates to prior discourse. They appear 
 
 **Example**:
 ```
-mia lothea shelomui. whekai shia ma shelomui.
+mia lothea shelomu. whekai shia ma shelomu.
 1SG love understand. CONTR 3SG NEG understand.
 (I understand love. However, they do not understand.)
 ```

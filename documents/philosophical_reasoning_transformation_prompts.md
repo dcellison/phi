@@ -28,11 +28,11 @@ B: mia luphore hi nila. luphore ma hiso nai.
 
 A: mia mena pheralu luphore ka peloma kelu meno ke nohero.
 
-B: mia shelomui. whekai mia ma nawo.
+B: mia shelomu. whekai mia ma nawo.
 
 B: thia mena pheralu to lepa meno hi sano. thia mena luphore ma hiso nai meno hi sano. whekai thia mena pheralu luphore ka peloma kelu meno hi ma sano.
 
-A: mia shelomui. whekai mia mena pheralu luphore ka peloma kelu meno ke nohero.
+A: mia shelomu. whekai mia mena pheralu luphore ka peloma kelu meno ke nohero.
 ```
 
 ## 1B. Rain and the River: Conclusion Variation
@@ -48,7 +48,7 @@ B: mia ma sano. phisu serao keli po peloma nai.
 
 A: mia phelui naweri. shorela mia wela hina luphore to ka peloma kelu welo ma sano.
 
-B: mia shelomui. lo mia therilu.
+B: mia shelomu. lo mia therilu.
 ```
 
 ## 2A. Grain for Hunger and Seed: Premise Variation
@@ -148,7 +148,7 @@ A: pi no reo lilea.
 
 B: shea miona lorea.
 
-A: mia shelomui. whekai mia ma nawo.
+A: mia shelomu. whekai mia ma nawo.
 
 B: phisu soli miona shea ma phaelo.
 
@@ -168,7 +168,7 @@ A: pi no reo lilea.
 
 B: shea miona lorea.
 
-A: mia shelomui. whekai mia ma nawo.
+A: mia shelomu. whekai mia ma nawo.
 
 B: phisu sila shea ma phaelo.
 

@@ -30,7 +30,7 @@ The stops create brief, clean moments of closure before releasing breath.
 **Practice words:**
 - `wepu` /ˈwe̞.pu/ (go)
 - `thomari` /θo̞.ˈmä.ri/ (courage)
-- `shelomui` /ʃe̞.lo̞.ˈmu.i/ (understand)
+- `shelomu` /ʃe̞.ˈlo̞.mu/ (understand)
 
 ## The nasals: m and n
 

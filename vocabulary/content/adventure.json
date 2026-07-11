@@ -1,10 +1,9 @@
 {
-  "word": "ruelami",
+  "word": "rulami",
   "gloss": "adventure",
-  "ipa": "/ru.e̞.ˈlä.mi/",
+  "ipa": "/ru.ˈlä.mi/",
   "syllables": [
     "ru",
-    "e",
     "la",
     "mi"
   ],
@@ -12,9 +11,9 @@
     "noun"
   ],
   "concept": "Adventure / The Path Taken Into the Unknown",
-  "description": "A journey undertaken without knowing where it leads: the road accepted before it is mapped, the days that follow a door left open. 'Ruelami' names the venture itself, not its dangers; in Phi an adventure is measured by how much it changes the traveler, not by what the traveler overcomes. It is what surprise ('wakomi') feels like when it is welcomed and walked into rather than merely met.",
-  "sound_symbolism": "The word opens on 'ruela' (path) whole, the road itself laid down first, then steps past it: the hiatus 'u.e' is a stride into open air held mid-word, and the closing 'mi' turns the road inward to the one who walks it, the same settling nasal that closes 'wakomi' (surprise), its sibling. Four syllables spend the breath a long road deserves.",
-  "grammatical_notes": "Functions as a noun: 'lo ruelami' (adventures), 'thue lo ruelami wepu' (to go through adventures). What an adventure does to its traveler arrives through its own verbs: it surprises ('wakomi'), it transforms ('moreluki'). Related to 'ruela' (path), the road that stays, where 'ruelami' is the road that changes you.",
+  "description": "A journey undertaken without knowing where it leads: the road accepted before it is mapped, the days that follow a door left open. 'Rulami' names the venture itself, not its dangers; in Phi an adventure is measured by how much it changes the traveler, not by what the traveler overcomes. It is what surprise ('wakomi') feels like when it is welcomed and walked into rather than merely met.",
+  "sound_symbolism": "'Ru' sets the word in forward motion, an opening shared with 'ruela' (path) without repeating the path-word whole. 'La' bends that motion into a winding course, and the closing 'mi' turns the journey inward to the one who walks it, the same settling nasal that closes 'wakomi' (surprise), its sibling.",
+  "grammatical_notes": "Functions as a noun: 'lo rulami' (adventures), 'thue lo rulami wepu' (to go through adventures). What an adventure does to its traveler arrives through its own verbs: it surprises ('wakomi'), it transforms ('moluki'). Related to 'ruela' (path), the road that stays, where 'rulami' is the road that changes you.",
   "pillars": {
     "solarpunk-values": "The adventure Phi names is exploratory and regenerative, setting out to meet the world rather than to take it; the traveler returns as a gift-bearer, not a conqueror.",
     "secular-buddhist-philosophy": "An adventure is impermanence walked willingly: the traveler agrees in advance not to know, which is the practice itself.",

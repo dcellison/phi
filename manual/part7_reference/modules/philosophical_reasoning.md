@@ -10,7 +10,7 @@ The module does not replace Phi's existing language of thought and dialogue. It 
 
 | Area | Core Phi resources |
 |---|---|
-| Thought and stance | `remo` think, `nohero` believe, `sano` know, `shelomui` understand, `hiru` intuit, `kanelu` err |
+| Thought and stance | `remo` think, `nohero` believe, `sano` know, `shelomu` understand, `hiru` intuit, `kanelu` err |
 | Truth and accuracy | `shewo` true, `theloa` truth, `telua` accurate, `phelira` mistaken |
 | Meaning and explanation | `reo` meaning, `relo` symbol, `shelo` signify, `lilea` clarify, `solae` explain, `thelima` describe |
 | Sources and modality | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation |

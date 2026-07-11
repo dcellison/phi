@@ -9,7 +9,7 @@ tree beautiful be ADVRS small be.
 ```
 
 ```
-mia shelomui thona thia ma shelomui.
+mia shelomu thona thia ma shelomu.
 1SG understand ADVRS 2SG NEG understand.
 (I understand, but you do not.)
 ```
@@ -43,7 +43,7 @@ A single observation that holds both truths together and lets the listener feel 
 At the clause level, `thona` is particularly useful for presenting balanced perspectives:
 
 ```
-mia to theo thona to ma shelomui.
+mia to theo thona to ma shelomu.
 1SG PST read ADVRS PST NEG understand.
 (I read, but did not understand.)
 ```

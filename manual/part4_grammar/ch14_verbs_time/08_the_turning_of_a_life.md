@@ -17,7 +17,7 @@ mia mua womu liona.
 Age is a built three-step: *limu* (young), *seroli* (mature), *serao* (old), and none of the three is an insult. Ripening is becoming:
 
 ```
-lurekoi seroli kelu.
+lureko seroli kelu.
 fruit mature become.
 (The fruit matures.)
 ```

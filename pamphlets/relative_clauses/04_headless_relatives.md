@@ -29,7 +29,7 @@ The head noun `shelu` is implied; the clause specifies which one.
 When you want to speak about anyone or anything that fits a description, not a specific individual:
 
 ```
-rena lothea shelomui phue nai
+rena lothea shelomu phue nai
 REL love understand wise be
 (one who understands love is wise.)
 ```
@@ -75,7 +75,7 @@ REL 1SG PST see PROX be
 ```
 
 ```
-mia rena thia to haolu shelomui
+mia rena thia to haolu shelomu
 1SG REL 2SG PST speak understand
 (i understand what you said.)
 ```
@@ -109,12 +109,12 @@ Q 2SG REL 1SG PST create see
 In some cases, `rena` can be dropped when the clause clearly functions as a noun and no ambiguity results:
 
 ```
-lothea shelomui phue nai
+lothea shelomu phue nai
 love understand wise be
 (one who understands love is wise.)
 ```
 
-The clause `lothea shelomui` ("understand love") occupies the subject position. No verb competes for attention; the structure is clear.
+The clause `lothea shelomu` ("understand love") occupies the subject position. No verb competes for attention; the structure is clear.
 
 In object position, though, dropping `rena` is unsafe: the clause's verb lands directly against the main verb, with no boundary between them:
 
@@ -150,7 +150,7 @@ Headless relatives are natural for expressing wisdom, proverbs, and general trut
 ### On character
 
 ```
-rena lothea shelomui phue nai
+rena lothea shelomu phue nai
 REL love understand wise be
 (one who understands love is wise.)
 ```
@@ -162,7 +162,7 @@ REL peace long-for peace see
 ```
 
 ```
-rena ma shelomui ma sano
+rena ma shelomu ma sano
 REL NEG understand NEG know
 (one who doesn't understand doesn't know.)
 ```
@@ -260,11 +260,11 @@ Context usually makes the distinction clear. If a specific referent has been est
 ### The wise one
 
 ```
-mia phue miona wilao. rena phue nai shelomui.
+mia phue miona wilao. rena phue nai shelomu.
 1SG wise person long-for. REL wise be understand.
 (i long for a wise person. one who is wise understands.)
 
-rena shelomui thumela. rena thumela shonela.
+rena shelomu thumela. rena thumela shonela.
 REL understand teach. REL teach learn.
 (one who understands teaches. one who teaches learns.)
 ```
@@ -272,11 +272,11 @@ REL understand teach. REL teach learn.
 ### What matters
 
 ```
-mia rena thia to haolu shelomui.
+mia rena thia to haolu shelomu.
 1SG REL 2SG PST speak understand.
 (i understand what you said.)
 
-rena thia to haolu ruka nai. mia si shelomui.
+rena thia to haolu ruka nai. mia si shelomu.
 REL 2SG PST speak complex be. 1SG IPFV understand.
 (what you said is complex. i am understanding [it].)
 ```
