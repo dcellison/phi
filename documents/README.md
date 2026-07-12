@@ -11,6 +11,7 @@ This directory contains Phi's current language references, development methods, 
 | [Phonology rules](phonology_rules.md) and [phonetics](phonetics.md) | Word-form rules, pronunciation, stress, and boundary behavior. |
 | [Compound registry](compounds.md) | Established compositions and their documented interpretations. |
 | [Taught patterns](taught_patterns.md) | Indexed inventory of constructions taught across the learning materials. |
+| [The voice, for models](voice_for_models.md) | Self-contained guide for any model writing Phi documentation: the stance, the rules, countable anti-patterns, exemplars, real before-and-after pairs, and the mandatory self-audit protocol. |
 | [Vocabulary schema](schema.json) | Machine-readable requirements for lexicon entries. |
 
 ## Development and Evaluation
