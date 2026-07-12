@@ -12,7 +12,7 @@
   ],
   "concept": "Specification / Explicit Set of Technical Requirements",
   "description": "An explicit set of technical requirements. A specification states what is required; the exact values, wording, and version belong in the source record, and meeting the requirements says nothing yet about whether they were wise ones.",
-  "sound_symbolism": "Precise 'ki' draws the required boundaries and details, while the complete 'sholu' (complete) gathers them into an inspectable set. The word joins exactness with wholeness without claiming that the specification is correct, sufficient, or legitimately issued.",
+  "sound_symbolism": "Crisp 'ki' places one bright point before the rest of the word unfolds. Stressed 'sho' spreads a soft hush into round 'o' and widens that point into a field. 'Lu' releases the tongue, lets the field continue in deep 'u', and joins exact contact, broad quiet, and liquid continuation in a set with both detail and extent.",
   "grammatical_notes": "A countable noun: 'ha kisholu ha henora thelima.' (This specification describes the capacity.) Preserve exact values, units, identifiers, versions, standards, and quoted requirements in a separate source record. A system satisfies a specification with ordinary 'heno'; this does not itself certify compliance. Distinct from 'kirema' (criterion), 'norae' (method), and 'kirothe' (define).",
   "pillars": {
     "solarpunk-values": "Open specifications can make shared infrastructure understandable and repairable while leaving authorship, authority, access, and consequences open to challenge.",

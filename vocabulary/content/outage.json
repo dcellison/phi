@@ -12,7 +12,7 @@
   ],
   "concept": "Outage / Period of Unavailable Infrastructure Service",
   "description": "A bounded period during which an infrastructure service is unavailable, felt from the outside as absence. A single component can fail with no outage following, and an outage can happen with no component failing at all: planned work or a missing input can take a service down just as surely.",
-  "sound_symbolism": "The complete flowing form 'selu' begins with expected continuity, then hollow 'whe' opens the service's absence. The sound moves from availability into interruption while stopping short of naming a cause, destruction, or permanent end.",
+  "sound_symbolism": "A narrow hiss begins 'se', flows directly into stressed liquid 'lu', and recalls the uninterrupted movement of 'selu' (flow). 'Whe' rounds the lips and replaces that current with unvoiced breath. The service disappears audibly: motion, then a hollow shaped by its absence.",
   "grammatical_notes": "A countable noun: 'ha seluwhe mosha teku nai.' (The outage period is short.) Name the service, affected place or participants, beginning, duration, and source separately where needed. Distinct from 'thonuki' (fail), 'whemoa' (empty), and any brief interruption that does not make a service unavailable.",
   "pillars": {
     "solarpunk-values": "Shared infrastructure must be discussable when it is absent as well as when it works, including unequal consequences and restoration priorities.",

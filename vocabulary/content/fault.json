@@ -12,7 +12,7 @@
   ],
   "concept": "Fault / Abnormal Technical Condition",
   "description": "An abnormal technical condition that may or may not go on to cause trouble. Naming a fault is not yet naming blame, a broken part, or even a failure; those are each their own separate claims.",
-  "sound_symbolism": "Clear 'ki' locates a precise technical boundary. The 'phira' movement heard in 'phirae' (different) then carries the condition away from what was required, with final 'ra' keeping that divergence grounded and inspectable rather than accusatory.",
+  "sound_symbolism": "Crisp 'ki' places a bright, exact point at the beginning. Stressed 'phi' breaks that stop into air between the lips, and the change is immediately audible. 'Ra' rolls away into open 'a'. It completes the contour heard in 'phirae' (different) and lets the fault sound like a departure from the point first set.",
   "grammatical_notes": "A countable noun: 'ha monaki kiphira phelu.' (This component has a fault.) State observed signs, evidence, location, and causal hypotheses separately. Distinct from 'pukate' (break), 'phelira' (mistaken), 'thonuki' (fail), and personal or moral fault.",
   "pillars": {
     "solarpunk-values": "Specific fault language supports diagnosis, repair, and transparent maintenance of shared infrastructure.",
