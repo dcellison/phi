@@ -2,7 +2,7 @@
 
 Dye runs from a workshop into a stream, and a fish downstream carries it in its blood. Naming that whole chain honestly needs more than one word for pollution: an agent, a concentration, an exposure, a threshold someone measured against, and a claim about harm that has to earn its place with evidence. These thirty words carry the chain link by link.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them confers nothing: not scientific authority, not land rights, not permission to act.
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
 The complete machine-generated list is also available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
@@ -43,7 +43,7 @@ Systems lends its own vocabulary for the mechanics underneath: `terura` system, 
 | `hisophi` | noun | contaminant; agent outside a stated expected condition | A contaminant is simply outside the expected condition; harm is 'pesenu''s stronger claim. |
 | `pekira` | adjective | toxic; capable of biological harm under exposure | Toxic is a capability under exposure, not proof that harm actually occurred. |
 | `nomiki` | noun | concentration; amount of an agent per stated medium | Concentration is always a ratio against a named medium, never a bare total. |
-| `perawi` | verb | expose; come into relevant contact with an agent | Exposure is contact; dose and harm are separate facts that contact alone does not supply. |
+| `perawi` | verb | expose; come into relevant contact with an agent | Exposure is contact; contact alone supplies neither dose nor harm. |
 | `muralo` | noun | material; physical matter considered in use or transformation | Material is matter under discussion, neutral on whether it is resource or waste. |
 | `panuri` | noun | resource; something considered available for a purpose | Being a resource is a relation to a purpose, not a fact the material carries on its own. |
 | `whemori` | noun | waste; material or energy assigned no further intended use | Waste is relational too: the same fallen branch can be waste to one process and habitat to another. |
@@ -192,7 +192,7 @@ PROX dye PROX stream pollute.
 (The dye pollutes the stream.)
 ```
 
-`pekira` is a capacity for harm under a stated exposure; `perawi` is the simpler fact of contact. A toxic agent that no one is exposed to causes nothing, and exposure alone says nothing yet about dose or effect.
+`pekira` is a capacity for harm under a stated exposure; `perawi` is the simpler fact of contact. A toxic agent that no one is exposed to causes nothing, and exposure alone determines neither dose nor effect.
 
 ```
 ha hisophi pekira nai.
@@ -258,7 +258,7 @@ PROX nutrient PROX tree grow support.
 (This nutrient supports the tree's growth.)
 ```
 
-`tukelu` requires real processing, discarded material actually remade into another input. Simple reuse, repair, and decomposition are each their own separate afterlife for a material, distinct from recycling.
+`tukelu` requires real processing, discarded material actually remade into another input. Simple reuse, repair, and decomposition are other afterlives a material can have; none of them is recycling.
 
 ```
 lo mia ha whemori tukelu.
@@ -304,7 +304,7 @@ A model's exact name, version, and equations belong to the source record; Phi ca
 
 ## Monitoring and revision
 
-`somethi` is repeated observation tied to a stated purpose across time. A monitoring plan is worth naming in full: what it watches, where, how often, for how long, and against what baseline.
+`somethi` is repeated observation tied to a stated purpose across time. A monitoring plan should say in full what it watches, where, how often, for how long, and against what baseline.
 
 ```
 lo mia ha luphore somethi.
