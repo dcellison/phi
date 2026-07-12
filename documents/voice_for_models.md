@@ -44,6 +44,8 @@ The voice is one voice in three registers, plus a class of text you must never t
 
 **Boilerplate** (navigation pointers, regeneration notes, the module-mechanics paragraph that recurs across module guides): deliberately uniform. Humanize boilerplate when it is first written or deliberately revised, then preserve the approved sentence wherever it recurs. A policy sentence that appears in six files should be the same sentence six times; that uniformity is honest, like a license line.
 
+When adding an artifact to an existing series, inherit the series' furniture exactly before writing anything new: the shared section headings, the table column headers, and every standing sentence the series carries in each instance. A module guide, for example, always names the reader's right to ask for a core paraphrase, because canon grants it; omitting that sentence is a content gap, not a style choice. Read one or two siblings first and copy their scaffolding verbatim. Newness belongs in the prose between the furniture, never in the furniture itself.
+
 **Untouchable text**: existing validated Phi example blocks (the fenced four-line blocks of Phi sentence, gloss line, parenthetical English, and source line), gloss lines anywhere, source quotations, and the protected formatting conventions listed under mechanics below. Humanizer does not turn a reuse task into a rewrite. When a task creates a new block, its ordinary English receives the pass before validation, while its Phi and exact gloss stay governed by the lexicon. Existing blocks are never edited for style, and several of them contain em dashes that are part of the convention, not a defect.
 
 ## The rules
@@ -127,6 +129,8 @@ The rules that follow from this:
 A flourish used once is spent for the batch. If you write a striking closer or a pointed triple in one artifact, the next artifact may not reuse its shape.
 
 When producing more than one artifact, scan the whole batch for repeated sentence shapes, repeated openers, repeated closers, and any phrase of three or more words appearing in more than one artifact. Vary or flatten what you find. The uniform-boilerplate exemption applies only to text that is boilerplate on the register map.
+
+Tics also live at the single-word scale. Count your workhorse verbs across the batch, and when one of them ("names," "carries," "remains") starts appearing every few sentences, it has become a pet word; rotate real synonyms or recast the sentences so the verb changes because the thought does. A pet word is invisible to phrase-level scans and just as loud to a reader.
 
 Do not let a table cell and its expanding prose paragraph share sentences verbatim. The cell compresses; the prose teaches; they should read as two acts, not one act twice.
 
