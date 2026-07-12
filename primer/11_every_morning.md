@@ -37,7 +37,7 @@
 
 > **lopia rihe.**
 > **lo miona pa nuola.**
-> **sorae phelo pa loa.**
+> **sorae keru pa loa.**
 > **philo pa shua.** *One new word early:* philo, *day. The day begins to arrive. Chapter twelve will make much of it.*
 
 *Breakfast begins; the light begins; the day begins. Three beginnings, one particle, and the household is underway.*

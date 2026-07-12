@@ -1,6 +1,6 @@
 # nitho howeli nela sorae — The North Wind and the Sun
 
-*Aesop's fable of the wind, the sun, and the traveler's cloak is the story linguists traditionally use to display a language's sounds and structures, and it asks of Phi everything the Metta Sutta does not: narrative past-tense chains, sequenced events, dialogue, the causative, indirect questions, and comparison. The text transmuted here is the 1919 Aesop for Children. `whuo lureko`, without fruit, carries "in vain" and the moral alike, and the famous correlative ("the harder... the tighter...") becomes paired `mo` sentences, since Phi has no correlatives by design. Canon's refusals shape the telling without thinning it: the quarrel cools to `shareo` (discuss), no one wins or loses anywhere in the telling, and the moral lands as a statement about what bears fruit.*
+*Aesop's fable of the wind, the sun, and the traveler's cloak is the story linguists traditionally use to display a language's sounds and structures. Beside the Metta Sutta, it opens another side of Phi. Past-tense narration carries a sequence of events; dialogue brings causation, indirect questions, and comparison. The text here is transmuted from the 1919 Aesop for Children. `whuo lureko`, without fruit, carries "in vain" and the moral alike. The famous correlative ("the harder... the tighter...") becomes paired `mo` sentences because Phi has no correlatives by design. Phi's lexical boundaries change the telling without thinning it: the quarrel cools to `shareo` (discuss), no generic verb for winning or losing enters the moral, and the result is known by its fruit.*
 
 *Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and the original wording, so a reader can see exactly what the transmutation kept and what it changed.*
 
@@ -30,7 +30,7 @@ shia roe wethalu to se lomare.
 aesop: "wrapped in a cloak."
 ```
 
-**Notes:** Phi has no word for quarreling, so the two great powers of the sky hold a `shareo`, a discussion, and the fable changes temperature in its first sentence; what the quarrel felt like survives anyway, `roe sheloi thero nela theisa haoni`, with much fire and loud voice, which is "heat and bluster" said plainly, and quietly names the two contestants' own natures. "Which of them was the stronger" embeds on the bare question-word: `sua mo kema nai`, who is more strong, sitting in the object position with no complementizer needed. The traveler is `rena laniru miona`, one who journeys, the relative clause outperforming a category noun as it always has; the cloak is `wethalu`, the garment-word whose own entry lists the cloak first; and "wrapped in" is the passive embrace, `roe wethalu se lomare`, the same idiom that wraps a sick child in a shawl elsewhere on this shelf.
+**Notes:** Phi has no word for quarreling. The two great powers of the sky hold a `shareo`, a discussion, and the fable changes temperature in its first sentence. What the quarrel felt like survives in `roe sheloi thero nela theisa haoni`, with much fire and loud voice. It is "heat and bluster" said plainly, with fire and voice drawn from the contestants' own natures. "Which of them was the stronger" embeds on the bare question-word: `sua mo kema nai`, who is more strong. The clause sits in the object position with no complementizer. The traveler is `rena laniru miona`, one who journeys, while the cloak is `wethalu`, the garment word whose entry lists cloak first. The passive `lomare` wraps the person in the garment's embrace, the same image used for a sick child and shawl elsewhere on this shelf.
 
 ## nawo — The wager
 
@@ -81,24 +81,24 @@ north wind INS heart fire garment PST pull.
 (The North Wind tore at the cloak with heart-fire.)
 aesop: "The North Wind tore angrily at the cloak,"
 
-whekai theula shia theko whuo lureko to nai.
-CONTR UNIV 3SG craft WITHOUT fruit PST be.
-(But all his work was without fruit.)
+whekai theula rena shia to phoa whuo lureko to nai.
+CONTR UNIV REL 3SG PST do WITHOUT fruit PST be.
+(But all that he did was without fruit.)
 aesop: "but all his efforts were in vain."
 ```
 
-**Notes:** the whipping cloak-ends ride `tiripe`, the quiver-verb, cloth in a gale being exactly the fast involuntary motion that verb was made for; the traveler answers with `noshi phelu`, holding near, the steady-pressure hold that carries every clasping on this shelf. The famous correlative has no construction in Phi, which refuses correlatives by design, so it stands as two parallel `mo` sentences whose escalation the listener feels in the repetition: the wind more strongly blew, the person more strongly held. The blowing itself is `whesu`, the wind's own verb. The Wind's anger is the registry's `korua thero`, heart-fire, riding as instrument on `natu` (pull), which is what tearing at something is; and the verdict on all of it is `whuo lureko`, without fruit, effort measured by harvest, a phrase the moral is waiting to use again.
+**Notes:** the whipping cloak ends ride `tiripe`, the quiver verb, because cloth in a gale makes exactly the fast, involuntary motion the word describes. The traveler answers with `noshi phelu`, holding near, the steady pressure of a close grip. Phi has no correlative construction, so the famous escalation takes two parallel `mo` sentences: the wind more strongly blew, the person more strongly held. The blowing itself is `whesu`, the wind's own verb. The Wind's anger is the registry's `korua thero`, heart fire, carried as the instrument of `natu` (pull). The source's "all his efforts" is `theula rena shia to phoa`, all that he did. Neither `theko` (craft) nor `riola` (labor) fits work aimed at tearing away a cloak. The result is `whuo lureko`, without fruit, the phrase the moral uses again.
 
 ## sorae — The sun
 
 ```
-pheo thena sorae to pa phelo loa.
-POST thing sun PST INCH light give.
+pheo thena sorae to pa keru loa.
+POST thing sun PST INCH bright give.
 (Then the Sun began to give light.)
 aesop: "Then the Sun began to shine."
 
-mua thorui shia phelo loa moli to nai.
-LOC beginning 3SG light give gentle PST be.
+mua thorui shia keru loa moli to nai.
+LOC beginning 3SG bright give gentle PST be.
 (At first his light-giving was gentle.)
 aesop: "At first his beams were gentle,"
 
@@ -117,8 +117,8 @@ garment ON 3SG shoulder PST flexible stay.
 (It stayed loose upon his shoulders.)
 aesop: "and let it hang loosely from his shoulders."
 
-sorae phelo loa mo sulae to kelu. shia mo sulae to kelu.
-sun light give CMPR warm PST become. 3SG CMPR warm PST become.
+sorae keru loa mo sulae to kelu. shia mo sulae to kelu.
+sun bright give CMPR warm PST become. 3SG CMPR warm PST become.
 (The sun's light grew warmer, and warmer again.)
 aesop: "The Sun's rays grew warmer and warmer."
 
@@ -132,8 +132,8 @@ POST long moment 3SG INTS warm PST become. CONS 3SG REFL garment PST release.
 (At last he became so heated that he released his cloak.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-shia phei rena thape sorae phelo loa to wepu.
-3SG AWAY REL burn sun light give PST go.
+shia phei rena thape sorae keru loa to wepu.
+3SG AWAY REL burn sun bright give PST go.
 (He went away from the sun's burning light.)
 aesop: "and, to escape the blazing sunshine,"
 
@@ -143,7 +143,7 @@ BESIDE path one tree PST stand. person INTO REL welcome shadow REFL PST throw.
 aesop: "threw himself down in the welcome shade of a tree by the roadside."
 ```
 
-**Notes:** the sun does not perform at the traveler; he gives, `phelo loa`, the registry's shine-compound, whose event noun carries "beams" and "rays" without a dedicated word: the gentle light-giving, the light-giving grown warmer. The warming escalates the way the blowing did, in paired `mo` sentences, so the two contestants' efforts stand in the same grammatical shape and the listener can measure them fairly. The disrobing keeps the source's two stages: first `phae`, the cloak opened, hanging `luwi`, loose, on the shoulders; only later `leiro`, released entirely, the same verb the wager named, so the Sun wins the exact contest that was set. The cap is `koma wethalu`, the head-garment, built like the stocking's foot-garment; the brow softens to `menoa` (face), which is where a brow lives. "To escape" is `phei`, away-from, motion doing what English does with a fear-word, and the shade that receives him is a relative clause with a warm verb inside it: `rena whelani shomelu`, the shade that welcomes.
+**Notes:** the sun gives brightness: `keru loa`. The quality noun of `keru` (bright) supplies what is given; `phelo` means light in weight and belongs with baskets and burdens instead. The event noun covers the source's "beams" and "rays" without a dedicated root. At first the giving is gentle; later it grows warmer. The warming escalates as the blowing did, in paired `mo` sentences, so both efforts have the same grammatical shape. The disrobing keeps the source's two stages. First `phae` opens the cloak, which stays `luwi`, loose, on the shoulders. Only later is it `leiro`, released entirely, and the wager's stated condition is met. The cap is `koma wethalu`, the head garment, while the brow broadens to `menoa` (face), where the wiping happens. "To escape" is `phei`, away from, and motion does the work English gives a fear word. The receiving shade is a relative clause with a warm verb inside it: `rena whelani shomelu`, the shade that welcomes.
 
 ## lureko — The moral
 
@@ -159,7 +159,7 @@ strength COORD loud WITHOUT fruit be.
 aesop: "where force and bluster fail."
 ```
 
-**Notes:** the moral keeps both of Aesop's pairs and none of his scoreboard. "Persuasion" is `phena haolu`, kind speech, the act itself rather than its effect on the listener; "bluster" is `theisa`, loudness, the quality the quarrel opened with. Winning and failing are contest words canon refuses, so the moral states what each pair yields: fruit, or no fruit, in the tenseless present of things that are simply true. The judgment was already delivered inside the story, in the same words: all the Wind's work was `whuo lureko`. Aesop's point is Phi's point; the language just removes the bluster from the telling, which is what the Sun does in the story.
+**Notes:** the moral keeps both of Aesop's pairs and leaves out the scoreboard. "Persuasion" is `phena haolu`, kind speech, the act rather than its effect on the listener. "Bluster" is `theisa`, loudness, the quality heard in the opening quarrel. `thonuki` (fail) is deliberately narrow: it says that a component did not perform a required technical function. It would turn this moral into a systems diagnosis, and Phi still has no generic verb for winning or losing. The moral therefore states what each pair yields, fruit or no fruit, in the tenseless present. The same judgment has already appeared inside the story: all that the Wind did was `whuo lureko`. Aesop's point survives, but the telling has lowered its voice.
 
 ---
 
@@ -172,9 +172,9 @@ nitho howeli nela sorae sua mo kema nai to shareo. lo shia roe sheloi thero nela
 
 sorae shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. shia nosa wea laniru miona ta pelui theisa howeli to sepho.
 
-roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia nosa roa miso wethalu to noshi phelu. howeli mo kema to whesu. miona wethalu mo kema to phelu. nitho howeli roe korua thero wethalu to natu. whekai theula shia theko whuo lureko to nai.
+roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia nosa roa miso wethalu to noshi phelu. howeli mo kema to whesu. miona wethalu mo kema to phelu. nitho howeli roe korua thero wethalu to natu. whekai theula rena shia to phoa whuo lureko to nai.
 
-pheo thena sorae to pa phelo loa. mua thorui shia phelo loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. wethalu nia shia talua to luwi manolu. sorae phelo loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro. shia phei rena thape sorae phelo loa to wepu. sio ruela ta shiro to whano. miona muo rena whelani shomelu miso to wapho.
+pheo thena sorae to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. wethalu nia shia talua to luwi manolu. sorae keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro. shia phei rena thape sorae keru loa to wepu. sio ruela ta shiro to whano. miona muo rena whelani shomelu miso to wapho.
 
 moli nela phena haolu lureko thola. puro nela theisa whuo lureko nai.
 ```
@@ -183,4 +183,4 @@ moli nela phena haolu lureko thola. puro nela theisa whuo lureko nai.
 
 ## What the transmutation changed
 
-*Gap log: quarrel and disputing → `shareo` (discuss), canon's refusal of quarrel-words, with the scene's heat kept as `roe sheloi thero nela theisa haoni`, with much fire and loud voice; traveler → `rena laniru miona`, one who journeys; cloak → `wethalu`, the garment-word, worn as `roe wethalu se lomare`, wrapped in its embrace; "Let us agree" → the optative with `nawo`, agreement's own verb; strip → `leiro` (release), the letting-go verb, inside the wager's causative relative; growled → `roe keloa haoni`, with a rough voice, and "Very well" → `lia`, yes; blast → `ta pelui theisa howeli`, one cold loud wind, sent (`sepho`) rather than hurled; gust → `nu ta howeli`, the first wind; whipped → `tiripe` (quiver); the harder/the tighter → paired `mo` sentences, since Phi has no correlatives by design, and the Sun's warmer-and-warmer takes the identical shape; tore angrily → `roe korua thero ... natu`, pulled with heart-fire; in vain → `whuo lureko`, without fruit; shine → `phelo loa`, the registry's give-light, its event noun carrying beams and rays; unfastened and hanging loose → `phae` (open) then `luwi manolu` (stayed loose), keeping the two-stage disrobing distinct from the final `leiro`; cap → `koma wethalu`, the head-garment; brow → `menoa` (face); escape → `phei`, motion away; the welcome shade → `rena whelani shomelu`, the shade that welcomes; win and fail → refused with the rest of the contest vocabulary, the moral stated as what bears fruit and what is without it. Nothing was coined; every word was already in the lexicon.*
+*Gap log: quarrel and disputing → `shareo` (discuss), since Phi has no dedicated quarrel root, with the scene's heat kept as `roe sheloi thero nela theisa haoni`, with much fire and loud voice; traveler → `rena laniru miona`, one who journeys; cloak → `wethalu`, the garment word, worn as `roe wethalu se lomare`, wrapped in its embrace; "Let us agree" → the optative with `nawo`, agreement's own verb; strip → `leiro` (release), the letting go verb, inside the wager's causative relative; growled → `roe keloa haoni`, with a rough voice, and "Very well" → `lia`, yes; blast → `ta pelui theisa howeli`, one cold loud wind, sent (`sepho`) rather than hurled; gust → `nu ta howeli`, the first wind; whipped → `tiripe` (quiver); the harder/the tighter → paired `mo` sentences, since Phi has no correlatives by design, and the Sun's warmer and warmer takes the identical shape; tore angrily → `roe korua thero ... natu`, pulled with heart fire; all his efforts → `theula rena shia to phoa`, all that he did; in vain → `whuo lureko`, without fruit; shine → `keru loa`, give brightness, with its event noun carrying beams and rays; unfastened and hanging loose → `phae` (open) then `luwi manolu` (stayed loose), keeping the two-stage disrobing distinct from the final `leiro`; cap → `koma wethalu`, the head garment; brow → `menoa` (face); escape → `phei`, motion away; the welcome shade → `rena whelani shomelu`, the shade that welcomes; win and generic fail → what bears fruit and what is without it, since `thonuki` is technical failure rather than a contest result. Nothing was coined, and every word in the Phi passage belongs to base vocabulary.*

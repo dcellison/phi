@@ -10,7 +10,7 @@
 > **lo mia muila so muholi.**
 > **lo mia wei muila thinoe so loa.**
 > **pheralu so lepa.**
-> **sorae phelo so loa.**
+> **sorae keru so loa.**
 > **lo peloru so rihe.**
 
 | new word | say it | it means |

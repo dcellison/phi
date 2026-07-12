@@ -10,16 +10,16 @@
   "pos": [
     "noun"
   ],
-  "concept": "Lightning / Light That Cracks",
-  "description": "Lightning: the storm's sudden light. Built on 'phelo' (light) and finished with the stop 'ka', which Phi spends sparingly; the sky's one hard consonant belongs to its one instantaneous event. Thunder ('horuma') follows it.",
-  "sound_symbolism": "The 'phel-' of light runs into 'ka' and stops dead. The word does what the flash does: brightness, then the crack.",
+  "concept": "Lightning / Sudden Storm Flash",
+  "description": "The sudden electrical flash of a storm, branching or spreading in a sheet across the sky before thunder arrives. 'pheluka' names the flash; 'horuma' (thunder) is the sound that follows.",
+  "sound_symbolism": "The lips begin with the narrow breath of /ɸ/, and 'phe' flashes open on a bright front vowel. Stress gathers in 'lu'; the tongue touches for /l/ while the vowel rounds and darkens, stretching the flash across the mouth. Final 'ka' closes at the velum and releases hard. The contour travels, then breaks, like light followed by thunder.",
   "grammatical_notes": "Noun: 'pheluka lue waero lepa.' (Lightning falls from the sky.) 'kurisha pheluka phelu.' (The storm holds lightning.)",
   "pillars": {
-    "secular-buddhist-philosophy": "The classical image of transience: here entirely, then gone entirely, with no stage in between. A phenomenon the length of a single mindful breath's beginning.",
-    "pre-industrial-wisdom": "Reading the flash taught weather-sense: where the storm stood, where it was going, and when to bring the animals in."
+    "secular-buddhist-philosophy": "A flash is present and gone before a breath completes. It makes impermanence visible without pretending the change happened slowly.",
+    "pre-industrial-wisdom": "The interval between flash and thunder helps place a storm; its direction tells a household when people and animals need shelter."
   },
   "tags": {
-    "nature": "The storm's sudden light",
-    "physical": "Brightness with a crack in it"
+    "nature": "A storm's sudden flash",
+    "physical": "Electrical light across the sky"
   }
 }

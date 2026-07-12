@@ -62,7 +62,7 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 | 23 | If: *lu* and *lu he* | Weather plans |
 | 24 | How you know: *hi*, *ke*, *ti*, *ho* | The news |
 
-**Capstone**: read [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md) unassisted. Every element in it will be familiar. Then begin [the Metta Sutta](../pamphlets/metta_sutta.md), which is where the language stops being practice and starts being itself.
+**Capstone**: read [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md) as an annotated bridge into the full corpus. Its four-line blocks support vocabulary and grammar beyond the graded chapters. Then begin [the Metta Sutta](../pamphlets/metta_sutta.md), which is where the language stops being practice and starts being itself.
 
 ## Status
 

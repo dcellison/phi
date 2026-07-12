@@ -25,21 +25,21 @@
 
 > **phao sulopa to pilewa.**
 > **lopia sulopa to nuola.**
-> **thero phelo to loa.**
+> **thero keru to loa.**
 > **misheko phialu to milau.**
 
 | new word | say it | it means |
 |---|---|---|
 | thero | the · ro | fire |
 
-*Soup was made and eaten while the storm worked. The third line deserves a slow look: the fire gave light (*phelo to loa*), and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
+*Soup was made and eaten while the storm worked. The third line deserves a slow look: the fire gave light (*keru to loa*), and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
 
 ## III
 
 *And today:*
 
 > **sorae rihe.**
-> **sorae phelo loa.**
+> **sorae keru loa.**
 > **waero welao nai.**
 > **lopia mua thepalu thalo.**
 > **lohau mua thepalu thalo.**
