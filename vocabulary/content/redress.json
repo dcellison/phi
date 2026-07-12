@@ -23,6 +23,7 @@
     "community": "redress shaped by affected parties and remaining loss"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

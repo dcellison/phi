@@ -24,6 +24,7 @@
     "temporal": "movement distributed through time"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "work-craft-and-repair"
   ]
 }

@@ -24,6 +24,8 @@
     "temporal": "later placement without cancellation"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance",
+    "work-craft-and-repair"
   ]
 }

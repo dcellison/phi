@@ -1,6 +1,6 @@
 # Systems and Shared Infrastructure
 
-**Status:** **Established vocabulary module** with 25 roots coined here and 34 current memberships; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 25 roots coined here and 37 current memberships; ordinary Phi grammar.
 
 ## Charter
 

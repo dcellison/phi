@@ -24,6 +24,8 @@
     "creation": "a comparative quality of designed processes and systems"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "ecological-systems-and-material-life",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

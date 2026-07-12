@@ -22,6 +22,7 @@
     "community": "answerability for a stated matter under a review relationship"
   },
   "modules": [
-    "commons-and-collective-governance"
+    "commons-and-collective-governance",
+    "work-craft-and-repair"
   ]
 }

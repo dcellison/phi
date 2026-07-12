@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 22 roots coined here and 22 current memberships; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 22 roots coined here and 23 current memberships; ordinary Phi grammar.
 
 ## Charter
 

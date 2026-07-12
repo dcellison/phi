@@ -10,13 +10,15 @@
 
 ## Accessibility and Participation
 
-*43 words in this learning path.*
+*45 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `hasenu` | recess | noun | Recess |
+| `helolu` | redress | verb | Redress |
 | `hewasu` | audible | adjective | Audible |
 | `hinawu` | accommodate | verb | Accommodate |
+| `kanuro` | decision | noun | Decision |
 | `kelasu` | usable | adjective | Usable |
 | `koluri` | reliable | adjective | Reliable |
 | `kopharu` | barrier | noun | Barrier |
@@ -60,10 +62,11 @@
 
 ## Commons and Collective Governance
 
-*40 words in this learning path.*
+*44 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
+| `hasenu` | recess | noun | Recess |
 | `helaki` | amend | verb | Amend |
 | `helolu` | redress | verb | Redress |
 | `kanuro` | decision | noun | Decision |
@@ -89,6 +92,7 @@
 | `pilora` | exploit | verb | Exploit |
 | `punoki` | institution | noun | Institution |
 | `repora` | propose | verb | Propose |
+| `rilowa` | assign | verb | Assign |
 | `shalori` | represent | verb | Represent |
 | `shanewi` | notify | verb | Notify |
 | `shaweri` | advocate | verb | Advocate |
@@ -100,14 +104,16 @@
 | `thunesi` | asynchronous | adjective | Asynchronous |
 | `tukiro` | review | verb | Review |
 | `wemari` | member | noun | Member |
+| `whakeru` | object | verb | Object |
 | `wheparu` | discriminate | verb | Discriminate |
 | `whepelo` | retaliate | verb | Retaliate |
 | `whetuma` | appeal | verb | Appeal |
+| `wiresu` | postpone | verb | Postpone |
 | `womuri` | household | noun | Household |
 
 ## Ecological Systems and Material Life
 
-*40 words in this learning path.*
+*42 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -125,6 +131,7 @@
 | `luseri` | provenance | noun | Provenance |
 | `meluri` | climate | noun | Climate |
 | `menuro` | habitat | noun | Habitat |
+| `mirela` | state | noun | State |
 | `monaki` | component | noun | Component |
 | `morume` | decompose | verb | Decompose |
 | `mothami` | baseline | noun | Baseline |
@@ -140,6 +147,7 @@
 | `pherami` | depend | verb | Depend |
 | `philima` | biodiversity | noun | Biodiversity |
 | `phisuri` | sample | noun | Sample |
+| `poruli` | efficient | adjective | Efficient |
 | `reteru` | model | noun | Model |
 | `sekaru` | transfer | verb | Transfer |
 | `somethi` | monitor | verb | Monitor |
@@ -154,7 +162,7 @@
 
 ## Household and Daily Life
 
-*38 words in this learning path.*
+*39 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -178,6 +186,7 @@
 | `pheomu` | leftovers | noun | Leftovers |
 | `phurewa` | sweep | verb | Sweep |
 | `phurilo` | broom | noun | Broom |
+| `rilowa` | assign | verb | Assign |
 | `rimawu` | drudgery | noun | Drudgery |
 | `riporu` | task | noun | Task |
 | `ritako` | workload | noun | Workload |
@@ -251,7 +260,7 @@
 
 ## Philosophical Reasoning
 
-*22 words in this learning path.*
+*23 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -270,6 +279,7 @@
 | `remole` | concept | noun | Concept |
 | `remotha` | reason | noun | Reason |
 | `remuma` | conclusion | noun | Conclusion |
+| `samethu` | equivalent | adjective | Equivalent |
 | `sherewa` | claim | verb | Claim |
 | `soneho` | tradeoff | noun | Tradeoff |
 | `themore` | argument | noun | Argument |
@@ -280,7 +290,7 @@
 
 ## Systems and Shared Infrastructure
 
-*34 words in this learning path.*
+*37 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -302,11 +312,14 @@
 | `noporu` | design | verb | Design |
 | `nowiso` | interface | noun | Interface |
 | `pemaru` | hazard | noun | Hazard |
+| `phelotu` | format | noun | Format |
 | `phelure` | store | verb | Store |
 | `pherami` | depend | verb | Depend |
 | `poruli` | efficient | adjective | Efficient |
 | `pushali` | overload | verb | Overload |
 | `reteru` | model | noun | Model |
+| `samethu` | equivalent | adjective | Equivalent |
+| `sanowu` | predictable | adjective | Predictable |
 | `sekaru` | transfer | verb | Transfer |
 | `seluwhe` | outage | noun | Outage |
 | `somaki` | test | verb | Test |
@@ -321,13 +334,15 @@
 
 ## Work, Craft, and Repair
 
-*48 words in this learning path.*
+*55 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `hasoru` | pending | adjective | Pending |
 | `hisophi` | contaminant | noun | Contaminant |
+| `kanuwa` | authorize | verb | Authorize |
 | `katemu` | offcut | noun | Offcut |
+| `kelitho` | function | verb | Function |
 | `kiphira` | fault | noun | Fault |
 | `kiranu` | qualified | adjective | Qualified |
 | `kirero` | quality | noun | Quality |
@@ -335,11 +350,13 @@
 | `kisome` | assess | verb | Assess |
 | `koluri` | reliable | adjective | Reliable |
 | `loatho` | delegate | verb | Delegate |
+| `lothoni` | accountable | adjective | Accountable |
 | `lumethi` | deadline | noun | Deadline |
 | `luseri` | provenance | noun | Provenance |
 | `masuro` | calibrate | verb | Calibrate |
 | `monaki` | component | noun | Component |
 | `muphera` | stock | noun | Stock |
+| `naseru` | obligation | noun | Obligation |
 | `nilaki` | inspect | verb | Inspect |
 | `nomiki` | concentration | noun | Concentration |
 | `noporu` | design | verb | Design |
@@ -350,6 +367,7 @@
 | `perawi` | expose | verb | Expose |
 | `pilora` | exploit | verb | Exploit |
 | `pokera` | competent | adjective | Competent |
+| `poruli` | efficient | adjective | Efficient |
 | `pushali` | overload | verb | Overload |
 | `rilowa` | assign | verb | Assign |
 | `rimawu` | drudgery | noun | Drudgery |
@@ -364,6 +382,7 @@
 | `somaki` | test | verb | Test |
 | `someru` | supervise | verb | Supervise |
 | `thesani` | skill | noun | Skill |
+| `thimelo` | pace | noun | Pace |
 | `thimora` | schedule | noun | Schedule |
 | `thonuki` | fail | verb | Fail |
 | `thunaro` | train | verb | Train |
@@ -373,3 +392,4 @@
 | `wepuri` | progress | verb | Progress |
 | `whemori` | waste | noun | Waste |
 | `winora` | plan | verb | Plan |
+| `wiresu` | postpone | verb | Postpone |

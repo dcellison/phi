@@ -23,6 +23,7 @@
     "creation": "the role for which a component or system is arranged"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

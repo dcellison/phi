@@ -4,7 +4,7 @@ The meeting notice arrives after the meeting has begun. The doorway opens, but t
 
 Accessibility and Participation gives Phi speakers optional words for that route: what can be reached or used, what gets in the way, how information arrives, how time is arranged, and whose direction governs support. It uses ordinary Phi grammar throughout, and a speaker who has not learned it can always ask for a core paraphrase.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 43 words; the complete machine-generated list is available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 45 words; the complete machine-generated list is available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 

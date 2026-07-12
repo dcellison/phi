@@ -23,6 +23,7 @@
     "community": "institutional authorization with a stated source and scope"
   },
   "modules": [
-    "commons-and-collective-governance"
+    "commons-and-collective-governance",
+    "work-craft-and-repair"
   ]
 }

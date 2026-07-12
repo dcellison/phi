@@ -1,6 +1,6 @@
 # Work, Craft, and Repair
 
-**Status:** **Established vocabulary module** with 30 roots coined here and 48 current memberships; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here and 55 current memberships; ordinary Phi grammar.
 
 ## Charter
 

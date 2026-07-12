@@ -23,6 +23,7 @@
     "community": "a collective or institutional decision with stated scope"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

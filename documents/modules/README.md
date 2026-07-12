@@ -40,20 +40,20 @@ Every new profile should contain:
 
 Core versus module placement is an organizational judgment about what a general learner is expected to study, not a difference in grammar or lexical legitimacy. Broad everyday concepts normally belong to the core teaching path; specialized terms may carry one or more validated `modules` classifications in their canonical JSON entries. A word may move into broader teaching later if use makes that natural.
 
-The [Module overlap assessment](module_overlap_assessment.md) accounts for all 227 current module entries. Sixty-one words now have shared membership, 29 still need a closer boundary decision, and eleven may belong in base vocabulary instead.
+The [Module overlap assessment](module_overlap_assessment.md) accounts for all 227 current module entries. Seventy-seven words now have shared membership; 137 keep one module, and thirteen await base-vocabulary review.
 
 ## Active Profiles
 
 | Profile | Status | Roots coined here | Current memberships | Shared-core addition | Purpose |
 |---|---|---:|---:|---|---|
-| [Household and Daily Life](household_and_daily_life.md) | **Established vocabulary module** | 30 | 38 | `mirewu` private | Domestic relations, storage, cleaning, cloth, meals, and food preparation. |
+| [Household and Daily Life](household_and_daily_life.md) | **Established vocabulary module** | 30 | 39 | `mirewu` private | Domestic relations, storage, cleaning, cloth, meals, and food preparation. |
 | [Medical and Bodily Care](medical_and_bodily_care.md) | **Established vocabulary module** | 30 | 45 | `lesawi` consent | Symptoms, findings, health conditions, clinical evaluation, intervention effects, illness course, transmission, and public health. |
-| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Established vocabulary module** | 25 | 34 | None | System structure, inputs and outputs, control, feedback, technical state, upkeep, reliability, hazards, and specifications. |
-| [Philosophical Reasoning](philosophical_reasoning.md) | **Established vocabulary module** | 22 | 22 | None | Argument structure, evidence, inference, validity, definition, epistemic stance, and competing values. |
-| [Accessibility and Participation](accessibility_and_participation.md) | **Established vocabulary module** | 30 | 43 | `sowelu` disabled | Access relations, communication forms, timing, technical fit, support, exclusion, and advocacy. |
-| [Commons and Collective Governance](commons_and_collective_governance.md) | **Established vocabulary module** | 30 | 40 | None | Membership, institutions, authority, collective procedure, allocation, accountability, records, review, and institutional harm. |
-| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | **Established vocabulary module** | 30 | 40 | None | Ecological organization, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. |
-| [Work, Craft, and Repair](work_craft_and_repair.md) | **Established vocabulary module** | 30 | 48 | None | Work units and status, coordination, skill and qualification, training and evaluation, labor conditions, design, and material traceability. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Established vocabulary module** | 25 | 37 | None | System structure, inputs and outputs, control, feedback, technical state, upkeep, reliability, hazards, and specifications. |
+| [Philosophical Reasoning](philosophical_reasoning.md) | **Established vocabulary module** | 22 | 23 | None | Argument structure, evidence, inference, validity, definition, epistemic stance, and competing values. |
+| [Accessibility and Participation](accessibility_and_participation.md) | **Established vocabulary module** | 30 | 45 | `sowelu` disabled | Access relations, communication forms, timing, technical fit, support, exclusion, and advocacy. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | **Established vocabulary module** | 30 | 44 | None | Membership, institutions, authority, collective procedure, allocation, accountability, records, review, and institutional harm. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | **Established vocabulary module** | 30 | 42 | None | Ecological organization, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. |
+| [Work, Craft, and Repair](work_craft_and_repair.md) | **Established vocabulary module** | 30 | 55 | None | Work units and status, coordination, skill and qualification, training and evaluation, labor conditions, design, and material traceability. |
 
 ## Proposed Profile Catalogue
 

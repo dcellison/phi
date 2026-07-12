@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** with 30 roots coined here and 40 current memberships; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here and 44 current memberships; ordinary Phi grammar.
 
 ## Charter
 

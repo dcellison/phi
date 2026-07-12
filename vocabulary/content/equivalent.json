@@ -23,6 +23,8 @@
     "dialogue": "comparison between different expressions or formats"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "philosophical-reasoning",
+    "systems-and-shared-infrastructure"
   ]
 }
