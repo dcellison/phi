@@ -1,12 +1,14 @@
 # Commons and Collective Governance
 
-The Commons and Collective Governance module gives Phi speakers optional vocabulary for discussing membership, institutions, roles, authority, collective procedure, allocation, accountability, records, review, and institutional harm. The words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning this module does not confer public authority, legal knowledge, institutional standing, ownership, or permission to decide for another person or community.
+A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. That question, and the thirty words that let a speaker answer it precisely, are what this module holds: membership and role, authority and its limits, proposal and decision, record and review, and the harder words for when an institution fails the people it claims to serve.
+
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
 The complete machine-generated list is also available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
-The module does not replace Phi's existing language of community, meetings, participation, choice, refusal, fairness, shared resources, commitment, repair, or evidence. It adds narrower institutional relations around those familiar resources.
+The module does not replace what Phi already says about community and shared life. It adds narrower institutional relations around these familiar resources.
 
 | Area | Core Phi resources |
 |---|---|
@@ -18,48 +20,48 @@ The module does not replace Phi's existing language of community, meetings, part
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility |
 | Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
 
-The Systems and Shared Infrastructure module supplies technical system, state, capacity, dependency, inspection, hazard, and specification terms. The Ecological Systems and Material Life module supplies resource, pollution, exposure, baseline, trend, model, and monitoring terms. The Philosophical Reasoning module supplies claims, evidence, criteria, logical assessment, uncertainty, and competing-value terms. None of those technical, ecological, or philosophical relations establishes who may decide or whether a governance action is legitimate.
+Systems lends the technical state behind an institution's tools, Ecological the resource and pollution facts a decision may turn on, Philosophical Reasoning the claim and evidence a legitimacy argument needs. None of them says who may decide.
 
 ## Module vocabulary
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
-| `wemari` | noun | member; recognized participant under stated criteria | Membership is not residence, participation in one event, representation, agreement, or proof of legitimate inclusion. |
-| `shalori` | verb | represent; act or communicate on behalf of another | Representation is not description, resemblance, consent, accurate transmission, or unlimited authority. |
-| `punoki` | noun | institution; continuing organized social arrangement | An institution is not a building, society, government, technical system, or legitimate authority by definition. |
-| `sithora` | noun | role; defined institutional or social position | A role is not its holder, competence, employment, authority, office title, or responsibility for every outcome. |
-| `loatho` | verb | delegate; entrust bounded action or authority | Delegation is not authorization alone, abandonment, ownership transfer, representation, or imposed work. |
-| `karami` | noun | authority; claimed or recognized power to decide or act | Authority is not force, ability, technical control, ownership, expertise, consent, or legitimacy. |
-| `kanuwa` | verb | authorize; grant bounded permission or power | Authorization is not competence, affected-person consent, practical possibility, legitimacy, or unlimited authority. |
-| `norulo` | noun | jurisdiction; claimed scope of authority | Jurisdiction is not territory alone, ownership, actual control, universal reach, or legitimate authority. |
-| `kirethu` | adjective | legitimate; justified under stated criteria | Legitimacy is not legality, popularity, effectiveness, truth, fairness, justice, consent, or harmlessness. |
-| `nasholu` | noun | rule; normative requirement, permission, or prohibition | A rule is not fact, method, custom, technical specification, exact law, legitimacy, compliance, or enforcement. |
-| `repora` | verb | propose; present a possible collective action | A proposal is not a claim of truth, request, promise, decision, authorization, or implementation. |
-| `norathu` | noun | procedure; specified ordered collective process | Procedure is not method generally, one meeting, actual performance, outcome, compliance, or legitimacy. |
-| `kanuro` | noun | decision; choice given settled or actionable status | A decision is not choosing itself, proposal, agreement, consensus, consent, implementation, or outcome. |
-| `naweso` | noun | consensus; stated collective decision condition | Consensus is not silence, private unanimity, universal inclusion, consent, harmony, legitimacy, or justice. |
-| `kasira` | verb | vote; formally register a choice or stance | Voting does not define eligibility, weights, counting, thresholds, outcome, consent, fairness, or legitimacy. |
-| `makelu` | verb | abstain; formally register no selection | Abstention is not absence, exclusion, inability, indifference, refusal, objection, agreement, or a vote for a side. |
-| `phanuli` | verb | allocate; assign resources, access, time, or burdens | Allocation is not physical division, delivery, sharing, entitlement, ownership, fairness, sufficiency, or consent. |
-| `shereni` | noun | entitlement; recognized and scoped claim | Entitlement is not need, ability, ownership, universal right, fairness, legitimacy, or actual receipt. |
-| `phenori` | noun | ownership; socially defined powers and claims over something | Ownership is not possession, custody, use, stewardship, creation, unrestricted control, or legitimacy. |
-| `naseru` | noun | obligation; requirement borne under a stated source | Obligation is not grammatical necessity, voluntary commitment, consent, capacity, causal responsibility, or legitimacy. |
-| `lothoni` | adjective | accountable; required to answer and undergo review | Accountability is not causation, guilt, blame, voluntary responsibility, punishment, or justified response. |
-| `helolu` | verb | redress; act to address institutional or social harm | Redress is not erasure, repair alone, reconciliation, forgiveness, punishment, or proof that justice is complete. |
-| `nashaku` | verb | enforce; act in relation to compliance with a rule or decision | Enforcement is not the rule, legitimacy, proof of violation, coercion, punishment, consent, or guaranteed compliance. |
-| `shanewi` | verb | notify; formally direct information to a recipient | Notification is not delivery, receipt, accessible format, understanding, publication, agreement, or legal sufficiency. |
-| `sirami` | verb | record; create or preserve a durable account | A record is not writing alone, truth, completeness, authenticity, official status, notice, or access. |
-| `tukiro` | verb | review; systematically reconsider a prior matter | Review is not reading, discussion, technical inspection, appeal, reversal, independence, or guaranteed fairness. |
-| `whetuma` | verb | appeal; request formal reconsideration | Appeal is not objection, refusal, review itself, proof of error, automatic pause, or guaranteed reversal. |
-| `helaki` | verb | amend; formally change part of a continuing matter | Amendment is not generic change, correction, improvement, repeal, replacement, implementation, or erased history. |
-| `kawhera` | verb | coerce; constrain practical choice through power or threat | Coercion is not every rule, obligation, persuasion, urgency, consequence, influence, or necessity. |
-| `whepelo` | verb | retaliate; impose disadvantage in response to a prior action | Retaliation is not every response, disagreement, defense, enforcement, redress, sanction, or adverse outcome. |
+| `wemari` | noun | member; recognized participant under stated criteria | Membership is recognized under a criterion; belonging (`wema`) needs none. |
+| `shalori` | verb | represent; act or communicate on behalf of another | Representing someone is not resembling them, and the standing always has a scope. |
+| `punoki` | noun | institution; continuing organized social arrangement | An institution outlives any one meeting; a label does not make it just. |
+| `sithora` | noun | role; defined institutional or social position | A role is a position, never the person who currently fills it. |
+| `loatho` | verb | delegate; entrust bounded action or authority | Delegation entrusts a bounded task; the accountability stays with whoever entrusted it. |
+| `karami` | noun | authority; claimed or recognized power to decide or act | Authority is claimed power; `kirethu` (legitimate) asks whether the claim holds. |
+| `kanuwa` | verb | authorize; grant bounded permission or power | Authorization grants a scope; it neither proves competence nor asks the affected person. |
+| `norulo` | noun | jurisdiction; claimed scope of authority | Jurisdiction is the reach an authority claims, not the reach it actually has. |
+| `kirethu` | adjective | legitimate; justified under stated criteria | Legitimacy asks by whose criteria, which is why the question is worth asking aloud. |
+| `nasholu` | noun | rule; normative requirement, permission, or prohibition | A rule says what should happen; whether it does is a separate fact. |
+| `repora` | verb | propose; present a possible collective action | A proposal is only ever a possibility on the table. |
+| `norathu` | noun | procedure; specified ordered collective process | A procedure is the steps; following every one proves nothing about the outcome. |
+| `kanuro` | noun | decision; choice given settled or actionable status | A decision can be contested and still be a decision. |
+| `naweso` | noun | consensus; stated collective decision condition | Consensus is a bounded procedural fact, not a feeling of harmony in the room. |
+| `kasira` | verb | vote; formally register a choice or stance | A vote is one registered stance; `makelu` (abstain) registers none at all. |
+| `makelu` | verb | abstain; formally register no selection | Abstaining is a choice to register nothing, distinct from refusal or absence. |
+| `phanuli` | verb | allocate; assign resources, access, time, or burdens | Allocation assigns; whether the assignment is fair is `thua`'s question, not this word's. |
+| `shereni` | noun | entitlement; recognized and scoped claim | An entitlement is recognized and scoped; it is not yet in anyone's hands. |
+| `phenori` | noun | ownership; socially defined powers and claims over something | Ownership is a bundle of social powers, wider than merely holding something. |
+| `naseru` | noun | obligation; requirement borne under a stated source | An obligation has a source, and the source is what tells it apart from a wish. |
+| `lothoni` | adjective | accountable; required to answer and undergo review | Accountable means owing an answer, not the same as having caused the harm. |
+| `helolu` | verb | redress; act to address institutional or social harm | Redress answers a harm; it need not erase the loss to count. |
+| `nashaku` | verb | enforce; act in relation to compliance with a rule or decision | Enforcement acts on a rule; it proves neither the rule's justice nor its success. |
+| `shanewi` | verb | notify; formally direct information to a recipient | Notifying sends word; whether it was understood is a further question. |
+| `sirami` | verb | record; create or preserve a durable account | A record preserves an account; truth and completeness stay open questions. |
+| `tukiro` | verb | review; systematically reconsider a prior matter | Review reconsiders; it promises neither independence nor a changed outcome. |
+| `whetuma` | verb | appeal; request formal reconsideration | An appeal asks for review; the review itself is a separate act. |
+| `helaki` | verb | amend; formally change part of a continuing matter | Amendment changes a living rule while keeping its history, unlike `helolu`'s repair of a harm. |
+| `kawhera` | verb | coerce; constrain practical choice through power or threat | Coercion narrows real choice through power, not every rule or urgent need. |
+| `whepelo` | verb | retaliate; impose disadvantage in response to a prior action | Retaliation answers a prior act with disadvantage; timing alone does not prove it happened. |
 
 The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `shalori` can name representation, `loatho` delegation, `kanuwa` authorization, `repora` a proposal, `kasira` a vote, `makelu` abstention, `phanuli` allocation, `helolu` redress, `nashaku` enforcement, `shanewi` notice, `sirami` a record, `tukiro` review, `whetuma` appeal, `helaki` amendment, `kawhera` coercion, and `whepelo` retaliation. The adjective `kirethu` likewise names legitimacy and `lothoni` accountability through the quality-noun rule.
 
 ## Membership, representation, institutions, and roles
 
-`wemari` names recognized membership under a stated criterion and source. A person may belong through `wema` without being an institutional member, participate in one event without membership, or be classified as a member while contesting that classification.
+`wemari` is membership under a criterion someone can name. A person may `wema` belong to a place without carrying that institutional status, and a single event's participant is not yet a member.
 
 ```
 ha sila wemari mua kowela pawela.
@@ -67,7 +69,7 @@ PROX community member LOC council participate.
 (This community member participates in the council.)
 ```
 
-`shalori` names acting or communicating for another party. The representative, represented people, matter, authorization, instructions, duration, correction path, and reporting relation remain separate parts of the claim.
+`shalori` is speaking or acting for someone else, and the shape of that standing matters: who authorized it, on what matter, for how long, and how it can be corrected if it goes wrong.
 
 ```
 mia ha sila shalori.
@@ -75,7 +77,7 @@ mia ha sila shalori.
 (I represent this community.)
 ```
 
-`punoki` persists beyond one meeting or current participant through roles, practices, procedures, records, and relationships. A label does not establish that the institution functions, represents anyone, or deserves obedience.
+`punoki` is what outlives any single meeting: the roles, the practices, the records, the relationships that keep functioning when any one person steps away. Calling something an institution does not yet say it works, or that it deserves anyone's obedience.
 
 ```
 ha punoki lo sithora phelu.
@@ -83,7 +85,7 @@ PROX institution PL role hold.
 (This institution has roles.)
 ```
 
-`sithora` separates a defined position from the person who holds it. Name selection, functions, permissions, obligations, authority, duration, removal, and handoff where those relations matter.
+`sithora` separates a position from whoever currently holds it, which is what makes it possible to ask who selected them, what they may do, and how the position passes on.
 
 ```
 lo mia ha sithora kirothe.
@@ -91,7 +93,7 @@ PL 1SG PROX role define.
 (We define this role.)
 ```
 
-`loatho` entrusts a bounded role or action. It should state the recipient's acceptance, the retained authority and accountability, reporting, revocation, and what happens if the recipient cannot act.
+`loatho` entrusts a bounded task or a piece of authority to someone else. The one who delegates keeps the accountability; it does not travel with the task.
 
 ```
 mia wei thia ha sithora loatho.
@@ -101,7 +103,7 @@ mia wei thia ha sithora loatho.
 
 ## Authority, authorization, jurisdiction, legitimacy, and rules
 
-`karami` names a socially claimed or recognized power to decide or act. Authority can exist without legitimacy, practical control, expertise, ownership, or affected-person consent.
+`karami` is power that is claimed or recognized to decide or act, and it can exist without deserving to: without legitimacy, without real control, without the consent of those it touches.
 
 ```
 ha punoki karami phelu.
@@ -109,7 +111,7 @@ PROX institution authority hold.
 (This institution holds authority.)
 ```
 
-`kanuwa` records a grant of permission or decision power. The source, recipient, action, scope, duration, conditions, revocation, competence, and affected-person consent should not be inferred from the verb alone.
+`kanuwa` is the grant itself, a scope handed to a recipient for a stated action. It proves neither the recipient's competence nor the consent of whoever it affects.
 
 ```
 ha punoki wei ha wemari ha terura nilaki kanuwa.
@@ -117,7 +119,7 @@ PROX institution DAT PROX member PROX system inspect authorize.
 (The institution authorizes the member to inspect the system.)
 ```
 
-`norulo` draws the claimed reach of an authority across people, places, matters, resources, cases, or time. Overlapping or disputed jurisdiction is ordinary rather than a parsing problem.
+`norulo` draws the reach an authority claims, across people, places, or time, and an overlapping or disputed jurisdiction is the ordinary case, not an error to resolve before speaking.
 
 ```
 ha karami norulo ha luphano pharune.
@@ -125,7 +127,7 @@ PROX authority jurisdiction PROX watershed include.
 (This authority's jurisdiction includes the watershed.)
 ```
 
-`kirethu` asks how authority, rules, decisions, procedures, or institutions are grounded. State the criteria, source, affected parties, history, and standpoint rather than using the adjective as a final verdict.
+`kirethu` is the question underneath all the others: by what criteria, by whose account, is this authority, this rule, this decision grounded? It is a question to keep asking, not a stamp to settle once.
 
 ```
 wa ha kanuro kirethu nai.
@@ -133,7 +135,7 @@ Q PROX decision legitimate be.
 (Is this decision legitimate?)
 ```
 
-`nasholu` gives Phi a neutral word for a normative rule. Exact laws, policies, bylaws, constitutions, contracts, treaties, regulations, and customary formulations remain in source material outside the Phi passage when their wording or source force matters.
+`nasholu` is a neutral word for a normative rule. The exact law, bylaw, or treaty that carries the rule's force stays in the source record, since its precise wording is often exactly what a dispute turns on.
 
 ```
 ha nasholu ha phoa phelona.
@@ -143,7 +145,7 @@ PROX rule PROX do require.
 
 ## Proposals, procedures, decisions, consensus, and voting
 
-`repora` places a possible action into consideration. A proposal may be ignored, withdrawn, amended, rejected, or adopted; none of those outcomes follows from the act of proposing.
+`repora` puts a possible action on the table, no more. What happens next, ignored, amended, adopted, rejected, is not decided by the proposing.
 
 ```
 mia mena lo mia napuro phanuli meno repora.
@@ -151,7 +153,7 @@ mia mena lo mia napuro phanuli meno repora.
 (I propose that we allocate grain.)
 ```
 
-`norathu` names the specified organization of participants, steps, timing, decision conditions, records, exceptions, and review. Following every formal step does not prove meaningful participation or legitimate outcome.
+`norathu` names the steps themselves: who participates, in what order, under what timing, toward what decision condition. A procedure followed to the letter can still produce a hollow or unjust result.
 
 ```
 ha norathu lo phoa phelu.
@@ -159,7 +161,7 @@ PROX procedure PL do hold.
 (This procedure has actions.)
 ```
 
-`kanuro` is a choice with stated settled or actionable status. It can be provisional, contested, unimplemented, amended, appealed, or reviewed while remaining identifiable as a decision.
+`kanuro` is a choice that has reached settled or actionable status, and it can be that while still contested, unimplemented, or under appeal.
 
 ```
 ha kowela ha kanuro to phoa.
@@ -167,7 +169,7 @@ PROX council PROX decision PST do.
 (The council made this decision.)
 ```
 
-`naweso` is a procedure-bounded condition, not a feeling of harmony. Name who counted as a participant, the opportunity to participate, blocking rule, reservations, abstentions, exclusions, urgency, and review.
+`naweso` is a bounded procedural condition, not a mood in the room. An honest report of consensus says who counted as a participant, what the blocking rule was, and what reservations remained.
 
 ```
 ha kanuro naweso phelu.
@@ -175,7 +177,7 @@ PROX decision consensus hold.
 (This decision has consensus.)
 ```
 
-`kasira` records a procedural stance, while `makelu` explicitly records no selection. Exact ballot form, eligibility, weights, counting, thresholds, secrecy, and effect on the outcome remain separate.
+`kasira` registers a stance; `makelu` registers the deliberate choice to register none. Neither word says anything about the ballot's form, its weights, or its threshold, which stay their own questions.
 
 ```
 lo wemari ha repora kasira.
@@ -191,7 +193,7 @@ mia mua ha kasira makelu.
 
 ## Allocation, entitlement, and ownership
 
-`phanuli` assigns resources, access, opportunities, time, tasks, benefits, or burdens under a stated criterion. It is deliberately neutral: an allocation can be unequal, insufficient, inaccessible, wasteful, coerced, or legitimate under one standard and rejected under another.
+`phanuli` assigns resources, time, or burdens under a stated criterion, and it stays neutral on purpose: an allocation can be unequal, coerced, or legitimate by one standard and rejected by another.
 
 ```
 ha kowela napuro phanuli.
@@ -199,7 +201,7 @@ PROX council grain allocate.
 (The council allocates grain.)
 ```
 
-`shereni` is a recognized institutional claim to receive, use, access, participate, exclude, or act. It is narrower than many source traditions of rights, which should remain exact and receive their own Phi analysis.
+`shereni` is a recognized claim, scoped to what it actually covers, and it is narrower than many source traditions call rights. Where a source tradition's rights language matters exactly, it belongs in its own analysis rather than folded into this one word.
 
 ```
 ha wemari ha napuro shereni phelu.
@@ -207,7 +209,7 @@ PROX member PROX grain entitlement hold.
 (This member holds this entitlement to grain.)
 ```
 
-`phenori` names socially defined powers and claims over something. Holding, using, caring for, making, storing, inheriting, governing, or being affected by something does not automatically establish ownership.
+`phenori` is a bundle of socially defined powers over something, wider than simply holding it. Caring for a thing, using it, or being affected by it does not by itself make it owned.
 
 ```
 ha miona ha muralo phenori sherewa.
@@ -215,11 +217,11 @@ PROX person PROX material ownership claim.
 (This person claims ownership of this material.)
 ```
 
-Scarcity remains an explicit insufficiency claim with `henoi ma`; priority remains `sone noa` under a criterion. Public, private, communal, legal, customary, intellectual, land, and other source-specific property categories remain exact when their identity matters.
+Scarcity stays an honest claim, `henoi ma` (not enough), and priority stays `sone noa` under a stated criterion. Where a source tradition's property category, public, private, communal, has its own force, it keeps its exact name.
 
 ## Obligation, accountability, redress, and enforcement
 
-`naseru` makes imposed, inherited, rule-based, role-based, relational, and disputed duties speakable without pretending they were voluntary commitments. State source, bearer, required action, conditions, capacity, conflicts, and consequence.
+`naseru` gives Phi a way to speak of a duty someone did not choose: inherited, imposed, tied to a role. Naming its source is what separates an obligation from a mere wish.
 
 ```
 ha sithora ha naseru phelu.
@@ -227,7 +229,7 @@ PROX role PROX obligation hold.
 (This role has this obligation.)
 ```
 
-`lothoni` requires an answer and review relation. A person may be causally involved without being accountable under a procedure, accountable without causing the event, or voluntarily `thonai` responsible without holding an institutional role.
+`lothoni` is the duty to answer and to stand review, which is not the same as having caused the harm. A person can be accountable under a procedure without being its cause, or voluntarily `thonai` responsible without holding any office at all.
 
 ```
 ha woru lothoni nai.
@@ -235,7 +237,7 @@ PROX keeper accountable be.
 (This keeper is accountable.)
 ```
 
-`helolu` addresses institutional or social harm through a stated response such as acknowledgment, restoration, changed conditions, return, compensation, or protection. Redress need not erase loss or compel reconciliation and forgiveness.
+`helolu` acts on an institutional or social harm, through acknowledgment, restoration, or another stated response, and it does not need to erase the loss to be real redress.
 
 ```
 ha punoki ha peloma helolu.
@@ -243,7 +245,7 @@ PROX institution PROX harmful redress.
 (The institution redresses this harm.)
 ```
 
-`nashaku` names institutional action related to compliance. State the rule or decision, authority, evidence, affected parties, method, consequence, uncertainty, and review rather than allowing enforcement to imply legitimacy or justified punishment.
+`nashaku` is institutional action tied to compliance. The rule being enforced, the evidence for a violation, and the fairness of the response are each their own claim, never assumed from the act of enforcing.
 
 ```
 ha punoki ha nasholu nashaku.
@@ -251,11 +253,11 @@ PROX institution PROX rule enforce.
 (The institution enforces this rule.)
 ```
 
-Compliance can remain `nasholu heno`, satisfying a stated rule. A failure to satisfy a rule does not itself establish harm, guilt, liability, or which response follows.
+Compliance itself can be said plainly: `nasholu heno`, the rule is satisfied. Failing to satisfy one rule proves nothing yet about guilt or what should follow.
 
 ## Notification, records, review, appeal, and amendment
 
-`shanewi` means that an identified source formally directed information toward a recipient. Delivery, access, format, timing, attention, understanding, and agreement remain separate claims.
+`shanewi` is a source formally sending word to a recipient. Whether the message arrived, was understood, or was acted on stays open past the sending.
 
 ```
 ha punoki wei lo wemari ha kanuro shanewi.
@@ -263,7 +265,7 @@ PROX institution DAT PL member PROX decision notify.
 (The institution notifies the members of this decision.)
 ```
 
-`sirami` creates or preserves a durable account. Name source, recorder, time, provenance, version, access, any exact source artifact outside the Phi passage, amendment history, and conflicts with testimony where those matter.
+`sirami` preserves an account, and a careful one names its source, its time, and its provenance, since a record's authority rests on those details rather than on the act of writing alone.
 
 ```
 lo mia ha kanuro sirami.
@@ -271,7 +273,7 @@ PL 1SG PROX decision record.
 (We record this decision.)
 ```
 
-`tukiro` reopens a prior matter for structured reconsideration. It may confirm, amend, reverse, suspend, or leave the matter unresolved; the word does not promise independence or fairness.
+`tukiro` reopens a prior matter for structured reconsideration. It may confirm what stood before, reverse it, or leave it unresolved, and the word promises neither independence nor fairness in how that goes.
 
 ```
 ha kowela ha kanuro tukiro.
@@ -279,7 +281,7 @@ PROX council PROX decision review.
 (The council reviews this decision.)
 ```
 
-`whetuma` requests that a stated recipient perform a review under a procedure. Standing, deadline, grounds, interim effect, available outcomes, access, and authority should be stated rather than inferred.
+`whetuma` asks a stated recipient to review something again, under a procedure with its own standing, deadline, and grounds. The review that follows is `tukiro`, a second and separate act.
 
 ```
 ha wemari ha kanuro whetuma.
@@ -287,7 +289,7 @@ PROX member PROX decision appeal.
 (The member appeals this decision.)
 ```
 
-`helaki` changes part of a continuing rule, decision, record, proposal, procedure, or institutional arrangement while preserving identity and history. Exact old and new wording remains in a separate source record.
+`helaki` changes part of something still living, a rule, a decision, an institutional arrangement, while keeping its history intact. The exact old and new wording belongs in a source record beside the Phi.
 
 ```
 ha kowela ha nasholu helaki.
@@ -297,7 +299,7 @@ PROX council PROX rule amend.
 
 ## Coercion and retaliation
 
-`kawhera` centers constrained practical choice. State the demand, force, threat, withheld resource or access, authority claim, realistic alternatives, power relation, and affected person's account. A rule or urgent need is not automatically coercive, but neither makes coercion impossible.
+`kawhera` names a real narrowing of choice through power or threat, and the claim owes its details: the demand, the alternatives that actually existed, and the account of the person on the receiving end. A rule or an urgent need is not automatically coercive, and neither does it rule coercion out.
 
 ```
 ha miona thia kawhera.
@@ -305,7 +307,7 @@ PROX person 2SG coerce.
 (This person coerces you.)
 ```
 
-`whepelo` identifies a disadvantage imposed in response to a report, refusal, criticism, claim, appeal, participation, association, or other stated action. Timing alone does not prove retaliation; state the triggering act, harm, agent, authority, evidence, and alternative explanation.
+`whepelo` names a disadvantage imposed because of something the person did before it: a report, a refusal, a claim. Timing alone never proves it; the triggering act, the harm, and who held the power to impose it all have to be shown.
 
 ```
 ha sithora miona ha wemari whepelo.
@@ -313,7 +315,7 @@ PROX role person PROX member retaliate.
 (The role holder retaliates against the member.)
 ```
 
-Coercion and retaliation are ordinary module words because governance vocabulary must support criticism of valued communities and institutions. Exact legal definitions, protected categories, evidentiary standards, and remedies remain source material.
+Coercion and retaliation are ordinary module words, not exceptions, because a language for governance has to let a speaker criticize the institutions they belong to, not only praise them. The exact legal definitions and remedies a case may carry stay in source material.
 
 ## Useful transparent compositions
 
@@ -321,31 +323,31 @@ Some governance expressions remain clearer as combinations because their parts e
 
 | Phi expression or strategy | Practical meaning | Why it remains compositional |
 |---|---|---|
-| explicit affected being plus action, exposure, burden, benefit, or change | affected party | Keeps being affected independent of whether an institution grants standing. |
-| represented `wemari` members or other named people plus `shalori` scope | constituency | Prevents the representative from silently defining whom they represent. |
-| `kirema` criteria for claiming, participating, voting, objecting, or appealing | standing | Ties standing to a forum and matter instead of an inherent status. |
-| institution, authority, jurisdiction, procedure, decision, and accountability clauses | governance | Keeps the actual arrangement visible rather than turning it into one actor. |
-| ordered proposals, questions, reports, and decisions recorded for a meeting | agenda | Makes control over inclusion, order, and amendment explicit. |
-| participation `kirema` plus exact count or proportion | quorum | Preserves the applicable threshold and who counts toward it. |
-| quantifiers and exact counts around `kasira` | majority or minority result | Avoids assuming binary factions, equal weights, or one voting system. |
-| exact source category plus `nasholu` in the surrounding analysis | law, policy, bylaw, treaty, contract, or custom | Preserves source force and wording while identifying the generic rule role. |
-| exact rights claim plus `shereni` only where its definition fits | a recognized entitlement within a rights analysis | Prevents entitlement from exhausting moral, collective, inalienable, or source-tradition dimensions. |
-| `phenori` ownership separated from protective `phelu`, access, use, stewardship, and obligations | custody or property relation | Keeps possession, care, ownership, authority, and exact property categories distinct. |
-| stated insufficiency with `henoi ma` | scarcity | Makes scarcity relative to resource, use, claimant, place, and time. |
-| `sone noa` plus a stated criterion | priority | Keeps ranking connected to the value and decision context. |
-| `nasholu heno` or its explicit negation | compliance or noncompliance | Says whether a stated rule is satisfied without inferring legitimacy, harm, guilt, or response. |
-| `thilou` inquiry plus scope, method, evidence, participants, and recorded `remuma` conclusion | investigation and finding | Separates inquiry, evidence, conclusion, official status, truth, and response. |
-| meeting `sirami` record | minutes | Identifies the event recorded while leaving exact format, approval, and official status external. |
-| `kanuro` decision plus conditions, duration, and scheduled `tukiro` review | provisional decision | Keeps temporary operation, implementation, objections, and review visible. |
-| explicit end of applicability, authority, date, replacement, and retained record | repeal or revocation | Distinguishes ending a matter from `helaki` amendment of a continuing one. |
-| role, authority, benefit, concealment, exclusion, coercion, retaliation, harm, and accountability clauses | corruption, capture, domination, or abuse of office | Preserves the concrete power relations while exact critical frameworks remain source-faithful. |
+| explicit affected being plus action, exposure, burden, benefit, or change | affected party | Being affected does not wait on an institution's permission to say so. |
+| represented `wemari` members or other named people plus `shalori` scope | constituency | The representative does not get to silently define who they speak for. |
+| `kirema` criteria for claiming, participating, voting, objecting, or appealing | standing | Ties standing to a forum and a matter rather than an inherent status. |
+| institution, authority, jurisdiction, procedure, decision, and accountability clauses | governance | Keeps the actual arrangement visible instead of collapsing it into one actor. |
+| ordered proposals, questions, reports, and decisions recorded for a meeting | agenda | Makes who controls inclusion, order, and amendment explicit. |
+| participation `kirema` plus exact count or proportion | quorum | Preserves the threshold and who counts toward it. |
+| quantifiers and exact counts around `kasira` | majority or minority result | Assumes no binary factions, no equal weights, no single voting system. |
+| exact source category plus `nasholu` in the surrounding analysis | law, policy, bylaw, treaty, contract, or custom | Preserves the source's own force and wording alongside the generic rule role. |
+| exact rights claim plus `shereni` only where its definition fits | a recognized entitlement within a rights analysis | Keeps this narrower word from swallowing a source tradition's fuller concept of rights. |
+| `phenori` ownership separated from protective `phelu`, access, use, stewardship, and obligations | custody or property relation | Keeps possession, care, and ownership from blurring into each other. |
+| stated insufficiency with `henoi ma` | scarcity | Makes scarcity relative to a resource, a use, and a place, not absolute. |
+| `sone noa` plus a stated criterion | priority | Keeps ranking tied to the value doing the ranking. |
+| `nasholu heno` or its explicit negation | compliance or noncompliance | States whether a rule is satisfied without implying legitimacy, guilt, or harm. |
+| `thilou` inquiry plus scope, method, evidence, participants, and recorded `remuma` conclusion | investigation and finding | Separates the inquiry, the evidence, and the conclusion into their own claims. |
+| meeting `sirami` record | minutes | Names the event recorded, leaving exact format and approval as separate questions. |
+| `kanuro` decision plus conditions, duration, and scheduled `tukiro` review | provisional decision | Keeps a temporary decision's conditions and review date visible in the sentence. |
+| explicit end of applicability, authority, date, replacement, and retained record | repeal or revocation | Distinguishes ending a matter outright from `helaki`, the amendment of one still living. |
+| role, authority, benefit, concealment, exclusion, coercion, retaliation, harm, and accountability clauses | corruption, capture, domination, or abuse of office | Keeps the concrete power relations visible while a source tradition's own critical framework stays faithful. |
 
 ## Source governance information
 
-Names and wording of peoples, nations, governments, states, communities, institutions, offices, jurisdictions, laws, constitutions, policies, bylaws, regulations, treaties, contracts, customary rules, rights claims, property categories, decision rules, ballots, budgets, currencies, dates, deadlines, identifiers, records, testimony, judgments, sanctions, and contested political, legal, or economic concepts remain outside the Phi passage when source identity or force matters. The module supplies relations around source material; it does not normalize or translate the artifact.
+Names and wording belonging to peoples, governments, institutions, laws, treaties, contracts, ballots, budgets, and other governance artifacts stay outside the Phi passage wherever their exact identity or force matters. The module supplies the relations around such material; it does not translate the artifact itself.
 
-Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not acquire a Phi authority, role, jurisdiction, or entitlement merely because speakers use it repeatedly.
+Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a grant of Phi authority, role, or entitlement, no matter how often speakers reach for it.
 
-State the analysis in Phi where useful: which people, institutions, roles, authority, jurisdiction, rules, entitlements, ownership claims, obligations, and procedures are involved; who proposed, decided, acted, refused, or was affected; which notice, record, evidence, coercion, retaliation, redress, appeal, and review relations matter; and what remains disputed.
+State the analysis where Phi can carry it: which people and institutions are involved, who proposed and who decided, which notice, record, and review relations matter, and what remains disputed.
 
-Exact preservation does not make a law applicable, an office authorized, a right recognized, a contract voluntary, a vote valid, a record authentic, a sanction legitimate, a government representative, or an institution just. Preserve source histories, identities, and restrictions when a Phi paraphrase would erase them.
+Preserving a source document exactly does not make its law applicable, its office authorized, or its institution just. What preservation buys is honesty: the history and the identity that a paraphrase would otherwise erase.
