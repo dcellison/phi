@@ -76,9 +76,9 @@ Reach for these before composing fresh, and before proposing a new word: registr
 
 | Compound | Literal | Meaning | Why compositional |
 |---|---|---|---|
-| `theula [rena lima nai]` | all [that is alive] | all beings | The headless relative refuses to flatten living things into a category noun — the grammar itself practices respect. First canonized in the Metta Sutta refrain. |
-| `wea lioru shua` | coming toward life | the not-yet-born | Conscious poetry retained from the Metta Sutta. For the plain event, use `thowia` (born). |
-| `shea menui` | peace-dwelling | the sustained abiding in peace (Pali: brahmavihāra) | A transmutation, not a translation; canonized from the Metta Sutta. |
+| `wea thowia shua` | come toward birth | seeking birth; the not-yet-born | Birth lies ahead, but nothing in the phrase says that the approach was chosen. The Metta Sutta fixes this reading. |
+| `thowia phao` | birth parent | the parent in the birth relation | Birth names the relevant parent without assigning gender to parenthood as a whole. The sutta's parent and child simile gives the phrase its first home. |
+| `mawha norui lothea korua` | no-boundary love-heart | a boundless friendly mind | No boundary modifies the loving heart itself, the disposition cultivated throughout the Metta Sutta. |
 | `shero phiwapi` | night butterfly | moth | The moth is the butterfly's night sibling, and saying so places the creature exactly; provided by `phiwapi`'s own entry, canonized from The Velveteen Rabbit. |
 | `nuko pelori` | black bird | blackbird | The garden's bold singer named by its plain color, the color rule doing species work; the bird that races the household to the first berries. Canonized from News from Nowhere. |
 

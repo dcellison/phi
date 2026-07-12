@@ -1,14 +1,8 @@
 # Phi Compound Registry
 
-Canonized compound idioms: multi-word expressions whose meaning is a
-stable part of the language, not one-off improvisations. Each entry
-here is a deliberate design decision — the compound was judged *better*
-than a coined word because the composition itself carries the insight
-(see the criterion in `pamphlets/metta_sutta.md`, "What the corpus test
-showed").
+Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not a one-off improvisation. Each entry records a deliberate choice to keep the composition because its visible parts do useful work. The Metta Sutta's "What the transmutation changed" section shows that judgment in practice.
 
-New compounds should be added here when a text or lesson establishes
-them; words inside a compound must all exist in the lexicon.
+New compounds belong here when a text or lesson establishes them; every word inside one must exist in the lexicon.
 
 This registry is machine-checked and machine-published: `python3 scripts/validate_examples.py` verifies every member word against the lexicon, and after any edit here `python3 scripts/generate_reference.py` regenerates the Part VII compound reference while `python3 scripts/build_explorer.py` refreshes the explorer's compound data.
 
@@ -76,9 +70,9 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 
 | Compound | Literal | Meaning | Why compositional |
 |---|---|---|---|
-| `theula [rena lima nai]` | all [that is alive] | all beings | The headless relative refuses to flatten living things into a category noun — the grammar itself practices respect. First canonized in the Metta Sutta refrain. |
-| `wea lioru shua` | coming toward life | the not-yet-born | Conscious poetry retained from the Metta Sutta. For the plain event, use `thowia` (born). |
-| `shea menui` | peace-dwelling | the sustained abiding in peace (Pali: brahmavihāra) | A transmutation, not a translation; canonized from the Metta Sutta. |
+| `wea thowia shua` | come toward birth | seeking birth; the not-yet-born | Birth lies ahead, but nothing in the phrase says that the approach was chosen. The Metta Sutta fixes this reading. |
+| `thowia phao` | birth parent | the parent in the birth relation | Birth names the relevant parent without assigning gender to parenthood as a whole. The sutta's parent and child simile gives the phrase its first home. |
+| `mawha norui lothea korua` | no-boundary love-heart | a boundless friendly mind | No boundary modifies the loving heart itself, the disposition cultivated throughout the Metta Sutta. |
 | `shero phiwapi` | night butterfly | moth | The moth is the butterfly's night sibling, and saying so places the creature exactly; provided by `phiwapi`'s own entry, canonized from The Velveteen Rabbit. |
 | `nuko pelori` | black bird | blackbird | The garden's bold singer named by its plain color, the color rule doing species work; the bird that races the household to the first berries. Canonized from News from Nowhere. |
 
@@ -98,6 +92,4 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 
 ---
 
-**Related:** word-creation rules in `documents/development_protocol.md`; the compositional
-principle in `documents/language_guide.md` §2.5; the coin-vs-compose
-criterion in `pamphlets/metta_sutta.md`.
+Word-creation rules live in `documents/development_protocol.md`. The compositional principle is in `documents/language_guide.md` §2.5, and the Metta Sutta gap log shows its judgments in use.

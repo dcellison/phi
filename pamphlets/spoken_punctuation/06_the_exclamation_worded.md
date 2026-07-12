@@ -36,7 +36,7 @@ OPT UNIV well be.
 (May all be well.)
 ```
 
-The quick reference's own example, and the register of every wish in the Metta Sutta: twenty-three of them, not one exclaimed.
+The quick reference's own example, and the register of every wish in the Metta Sutta: thirty-one of them, not one exclaimed.
 
 ### What this refuses
 
