@@ -20,5 +20,9 @@
   "tags": {
     "community": "Craft association",
     "creation": "Skill organization"
-  }
+  },
+  "modules": [
+    "commons-and-collective-governance",
+    "work-craft-and-repair"
+  ]
 }

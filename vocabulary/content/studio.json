@@ -21,5 +21,8 @@
   "tags": {
     "aesthetic": "Art place",
     "spatial": "Creative space"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

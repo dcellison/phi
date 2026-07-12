@@ -21,5 +21,8 @@
   "tags": {
     "aesthetic": "Growth-shaped form",
     "nature": "Life-derived quality"
-  }
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
 }

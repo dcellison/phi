@@ -4,7 +4,7 @@ Yesterday's soup is in a jar on the shelf. Before anyone calls it waste, somebod
 
 The Household and Daily Life module gives Phi speakers optional vocabulary for the small arrangements that keep a dwelling usable: rooms and storage, the work of washing, things kept on the bed, and the path from recipe to leftovers. These words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning the module does not decide who belongs in a home or who owes its work.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 39 words; the complete machine-generated list is available under [Household and Daily Life in the module lexicon](../lexicon/by_module.md#household-and-daily-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Current classifications bring the learning list to 42 words; the complete machine-generated list is available under [Household and Daily Life in the module lexicon](../lexicon/by_module.md#household-and-daily-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -23,6 +23,16 @@ The new words enter a crowded house. Phi already names the dwelling, the people 
 | Pressure and reprisal | `kawhera` coerce, `whepelo` retaliate |
 
 Work, Craft, and Repair can identify a domestic task and show who carries its burden. Ecological Systems and Material Life follows what happens to matter after household use. Commons and Collective Governance handles claims of property and institutional authority inside a home, while Accessibility and Participation tests whether the actual arrangement works for the person using it. The base rows keep those ordinary facts outside optional study. None of those module relations turns a household into an institution or a person into an assigned domestic role.
+
+## Additional roots in this learning path
+
+Three more roots put a fire, a grooming tool, and one form of shared living into the household path.
+
+| Phi | Working sense | Why it belongs here |
+|---|---|---|
+| `moeli` | hearth; the fireplace at the center of a dwelling | A hearth is a particular domestic fixture, while home and fire remain base words. |
+| `whilaru` | comb; a toothed tool used to untangle or arrange hair | The comb belongs among repeated household tools, with hair and bodily care still available outside the module. |
+| `shorai` | commune; live communally with shared resources and duties | The domestic relation joins this module to Commons without treating every household as a commune. |
 
 ## Privacy belongs to shared core
 

@@ -40,20 +40,20 @@ Every new profile should contain:
 
 Core versus module placement is an organizational judgment about what a general learner is expected to study, not a difference in grammar or lexical legitimacy. Broad everyday concepts normally belong to the core teaching path; specialized terms may carry one or more validated `modules` classifications in their canonical JSON entries. A word may move into broader teaching later if use makes that natural.
 
-The [Module overlap assessment](module_overlap_assessment.md) accounts for the 227 roots initially classified for optional study. Seventy-seven now have shared membership, 137 keep one module, and thirteen belong in base vocabulary. The current optional layer therefore contains 214 roots and 317 memberships.
+The [Module overlap assessment](module_overlap_assessment.md) accounts for the 227 roots established during the eight vocabulary passes. Seventy-seven of those have shared membership, 137 keep one module, and thirteen belong in base vocabulary. The [Base vocabulary placement assessment](base_vocabulary_placement_assessment.md) then checks the other 819 content roots and classifies thirty older roots where their lexical center is specialized. The current optional layer contains 244 roots and 352 memberships.
 
 ## Active Profiles
 
 | Profile | Status | Module roots coined here | Current memberships | Base vocabulary established here | Purpose |
 |---|---|---:|---:|---|---|
-| [Household and Daily Life](household_and_daily_life.md) | **Established vocabulary module** | 30 | 39 | `mirewu` private | Domestic relations, storage, cleaning, cloth, meals, and food preparation. |
-| [Medical and Bodily Care](medical_and_bodily_care.md) | **Established vocabulary module** | 30 | 45 | `lesawi` consent | Symptoms, findings, health conditions, clinical evaluation, intervention effects, illness course, transmission, and public health. |
-| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Established vocabulary module** | 24 | 36 | `phelure` store | System structure, inputs and outputs, control, feedback, technical state, upkeep, reliability, hazards, and specifications. |
+| [Household and Daily Life](household_and_daily_life.md) | **Established vocabulary module** | 30 | 42 | `mirewu` private | Domestic relations, storage, cleaning, cloth, meals, and food preparation. |
+| [Medical and Bodily Care](medical_and_bodily_care.md) | **Established vocabulary module** | 30 | 48 | `lesawi` consent | Symptoms, findings, health conditions, clinical evaluation, intervention effects, illness course, transmission, and public health. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Established vocabulary module** | 24 | 37 | `phelure` store | System structure, inputs and outputs, control, feedback, technical state, upkeep, reliability, hazards, and specifications. |
 | [Philosophical Reasoning](philosophical_reasoning.md) | **Established vocabulary module** | 18 | 19 | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion | Argument structure, evidence, inference, validity, definition, epistemic stance, and competing values. |
 | [Accessibility and Participation](accessibility_and_participation.md) | **Established vocabulary module** | 30 | 45 | `sowelu` disabled | Access relations, communication forms, timing, technical fit, support, exclusion, and advocacy. |
-| [Commons and Collective Governance](commons_and_collective_governance.md) | **Established vocabulary module** | 27 | 41 | `sirami` record, `kawhera` coerce, `whepelo` retaliate | Membership, institutions, authority, collective procedure, allocation, accountability, records, review, and institutional harm. |
-| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | **Established vocabulary module** | 27 | 39 | `howenu` weather, `muralo` material, `panuri` resource | Ecological organization, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. |
-| [Work, Craft, and Repair](work_craft_and_repair.md) | **Established vocabulary module** | 28 | 53 | `winora` plan, `hasoru` pending | Work units and status, coordination, skill and qualification, training and evaluation, labor conditions, design, and material traceability. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | **Established vocabulary module** | 27 | 50 | `sirami` record, `kawhera` coerce, `whepelo` retaliate | Membership, institutions, authority, collective procedure, allocation, accountability, records, review, and institutional harm. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | **Established vocabulary module** | 27 | 46 | `howenu` weather, `muralo` material, `panuri` resource | Ecological organization, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. |
+| [Work, Craft, and Repair](work_craft_and_repair.md) | **Established vocabulary module** | 28 | 65 | `winora` plan, `hasoru` pending | Work units and status, coordination, skill and qualification, training and evaluation, labor conditions, design, and material traceability. |
 
 ## Proposed Profile Catalogue
 

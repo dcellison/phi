@@ -21,5 +21,8 @@
   "tags": {
     "nature": "Ancient cold-blooded creatures",
     "temporal": "Deep time lineage"
-  }
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
 }

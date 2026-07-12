@@ -21,5 +21,9 @@
   "tags": {
     "community": "Shared living",
     "spatial": "Collective dwelling"
-  }
+  },
+  "modules": [
+    "commons-and-collective-governance",
+    "household-and-daily-life"
+  ]
 }

@@ -22,5 +22,8 @@
     "activity": "oriented toward sustained collective action, not one decision",
     "cognition": "held together by a shared conviction, an idea before it is a bond",
     "community": "a bound group of people, not a single occasion of meeting"
-  }
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
 }

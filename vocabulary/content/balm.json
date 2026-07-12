@@ -21,5 +21,8 @@
   "tags": {
     "creation": "Soothing salve",
     "physical": "External comfort"
-  }
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
 }

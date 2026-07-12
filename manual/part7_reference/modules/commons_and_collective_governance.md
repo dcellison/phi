@@ -4,7 +4,7 @@ A council votes to allocate the season's grain, one member abstains, and someone
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 27 module roots. Shared classifications bring the optional learning list to 41 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 27 module roots. Current classifications bring the optional learning list to 50 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -12,8 +12,8 @@ The module does not replace what Phi already says about community and shared lif
 
 | Area | Core Phi resources |
 |---|---|
-| Community and shared life | `sila` community, `laenu` commons, `punoa` society, `wema` belong, `miona` person, `lo` plural, `nuawe` together, `wesoma` mutual |
-| Deliberation and dialogue | `kowela` council, `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `thorae` facilitator, `thereo` mediator, `whakeru` object |
+| Community and shared life | `sila` community, `punoa` society, `wema` belong, `miona` person, `lo` plural, `nuawe` together, `wesoma` mutual |
+| Deliberation and dialogue | `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `whakeru` object |
 | Participation and stance | `pawela` participate, `shorema` contribute, `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `ralu` free, `nawea` respect |
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panuri` resource, `theula` all, `theli` each |
 | Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise |
@@ -22,6 +22,22 @@ The module does not replace what Phi already says about community and shared lif
 | Power and safety | `kawhera` coerce, `whepelo` retaliate |
 
 Systems lends the technical state behind an institution's tools, Ecological supplies pollution relations, and Philosophical Reasoning adds inference and validity. Base vocabulary already provides resource, claim, and evidence. None of them says who may decide.
+
+## Additional roots in this learning path
+
+Nine established words give the path its concrete collective forms and group roles.
+
+| Phi | Working sense | Why it belongs here |
+|---|---|---|
+| `kathu` | seal; an authenticating mark or the device that makes it | Official authentication belongs near records, roles, and institutional claims. The same word can still describe closure. |
+| `kowela` | council; a deliberative collective body | A council is more specific than a meeting: it persists as a body and may claim a decision role. |
+| `laenu` | commons; land, space, or resources held for a community | Shared holding raises membership, allocation, stewardship, and authority questions without answering them. |
+| `shalimo` | alliance; a chosen group organized around a shared cause | The alliance is the continuing bond, not the meeting where its members speak. |
+| `shorai` | commune; share daily life, resources, and responsibilities | The collective relation belongs here. Its domestic life gives it another place in Household and Daily Life. |
+| `temu` | guild; an association formed around a craft or profession | A guild is both an institutional body and a home for shared craft, so Work teaches it too. |
+| `theluo` | steward; one entrusted with care for shared land, resources, or community | The role raises collective responsibility and ecological care together. |
+| `thereo` | mediator; a third party helping people in conflict reach understanding | Mediation is a stated group role and does not grant power to impose an outcome. |
+| `thorae` | facilitator; a person who supports group process | The role concerns how a group works through a meeting, not which decision it should reach. |
 
 ## Records, coercion, and retaliation belong to base vocabulary
 

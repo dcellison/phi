@@ -21,5 +21,8 @@
   "tags": {
     "aesthetic": "Pattern maker",
     "creation": "Weaving device"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

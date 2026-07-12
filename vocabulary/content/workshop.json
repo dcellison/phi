@@ -21,5 +21,8 @@
   "tags": {
     "creation": "Craft place",
     "spatial": "Making space"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

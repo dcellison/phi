@@ -4,7 +4,7 @@ The pump that fills the cistern draws power from the same line as the mill, and 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-The chapter table below introduces 24 module roots. Shared classifications bring the optional learning list to 36 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 24 module roots. Current classifications bring the optional learning list to 37 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -17,8 +17,16 @@ The module does not replace what Phi already says about devices, movement, and r
 | Movement and recurrence | `selu` flow, `roke` move, `kolua` carry, `sepho` send, `nuri` cycle, `turema` return |
 | Upkeep and renewal | `thiranu` maintain, `shiroka` repair, `talome` restore, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect |
 | Limits and evidence | `phelona` require, `henoi` enough, `sharoi` exceed, `thenoi` fall short, `masue` measure, `siru` marker, `kirema` criterion, `hi` direct evidence, `ke` inference |
-| Shared life | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible |
+| Shared life | `sila` community, `phowe` share, `panoru` support, `thonai` responsible |
 | Storage | `phelure` store |
+
+## Additional roots in this learning path
+
+The Systems path also includes one dedicated infrastructure noun.
+
+| Phi | Working sense | Why it belongs here |
+|---|---|---|
+| `nurako` | railway; an iron route made for wheeled transport | A railway is infrastructure in its own right. A speaker who has not learned the noun can still describe its metal, path, wheels, and carrying. |
 
 ## Storage belongs to base vocabulary
 

@@ -23,5 +23,8 @@
     "dialogue": "transforms governance through deep listening and patient dialogue",
     "ritual": "creates sacred space through formal deliberation processes",
     "wisdom": "cultivates patient consensus through collective insight"
-  }
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
 }

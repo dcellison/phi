@@ -20,5 +20,8 @@
   "tags": {
     "creation": "Strengthening drink",
     "physical": "Vitality"
-  }
+  },
+  "modules": [
+    "medical-and-bodily-care"
+  ]
 }

@@ -1,6 +1,6 @@
 # Medical and Bodily Care
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 45 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here, 48 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for reporting bodily experien
 
 The module gives priority to a person's own report, explicit explanation, source fidelity, and consent. It does not imply that sickness reduces personhood, that measurement replaces care, that a helper possesses authority, or that Phi vocabulary can replace qualified interpretation of medical information.
 
-The speaker-facing guide is [Medical and Bodily Care](../../manual/part7_reference/modules/medical_and_bodily_care.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#medical-and-bodily-care). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Medical and Bodily Care](../../manual/part7_reference/modules/medical_and_bodily_care.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#medical-and-bodily-care). The vocabulary table below records the roots coined for this profile; the generated inventory also includes older roots classified after the profile pass and words shared with other learning paths. A module classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -36,6 +36,10 @@ These are existing Phi roots and function words. The module indexes them without
 | Explanation and understanding | `reo` meaning, `lilea` clarify, `shelomu` understand, `sano` know, `nohero` believe, `nila` see, `hea` hear | A person can distinguish receiving information, understanding it, believing it, and asking for clarification. |
 | Evidence, precision, and modality | `masue` measure, `siru` marker, `sirami` record, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, and separately preserved source material | A record can carry the claim and its evidence, while the criterion keeps a clinical judgment's standard open to examination. |
 | Planning and status | `winora` plan, `hasoru` pending | A care plan or pending result can be named before any specialist work term enters the discussion. |
+
+## Earlier roots classified here
+
+`heloa` remedy, `thelai` balm, and `wenu` tonic now appear in the Medical learning path. Each names a particular preparation or curative relation. Medicine and healing stay in base vocabulary, alongside care and bodily self-report. A speaker can still describe pain or sickness and ask for help before learning these narrower nouns.
 
 ## Optional Cross-Module Dependencies
 

@@ -21,5 +21,9 @@
   "tags": {
     "community": "Gathering role",
     "nature": "Wild harvesting"
-  }
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "work-craft-and-repair"
+  ]
 }

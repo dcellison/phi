@@ -21,5 +21,8 @@
   "tags": {
     "aesthetic": "Visual material",
     "nature": "Color source"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

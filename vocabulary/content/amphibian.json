@@ -21,5 +21,8 @@
   "tags": {
     "nature": "Transforming dual-world creatures",
     "temporal": "Beings of metamorphosis"
-  }
+  },
+  "modules": [
+    "ecological-systems-and-material-life"
+  ]
 }
