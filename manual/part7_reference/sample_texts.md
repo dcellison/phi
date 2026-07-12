@@ -82,9 +82,13 @@ phialu haoni.
 
 ## The texts shelf
 
-The complete texts live in `pamphlets/`, one file per text. Each carries its Phi with glosses, back-translations, and source citations, and each ends in a gap log: the record of what was built where the lexicon had no word. Two of them are the manual's own touchstones.
+The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Aesop's contest ends differently in Phi: gentleness and kind speech bring fruit, while force and loudness do not. The first text protects a source claim; the second deliberately changes one.
 
-***lothea thole*** (The Practice of Love) is the Karaniya Metta Sutta, the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
+A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
+
+The complete texts live in `pamphlets/`, one file per text. Each carries its Phi with glosses, back-translations, source citations where publication permits them, and a record of the choices made. Two of them are the manual's own touchstones.
+
+***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
 ```
 su theula limoe siora korua phelu.
@@ -92,19 +96,19 @@ OPT UNIV creature joy heart hold.
 (May every creature hold a joyful heart.)
 ```
 
-***nitho howeli nela sileta*** (The North Wind and the Sun) is Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit.
+***nitho howeli nela sileta*** (The North Wind and the Sun) is a transmutation of Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit.
 
 The rest of the shelf:
 
-| Phi title | Text |
-|---|---|
-| `mophira nela lo kalora` | Schleicher's fable, transmuted from the 1868 German |
-| `ta haluma` | the Babel story, Genesis 11:1-9, its scattering retold as sowing |
-| `theula miona` | Article 1 of the Universal Declaration of Human Rights |
-| `thiku miona lue silero` | three moments from *The Little Prince*: the request, the secret, the responsibility |
-| `phewo phelui` | from *The Prophet*: on love, on children, on giving |
-| `keiro` | five chapters of the Tao Te Ching |
-| `nulo sano korua` | the Heart Sutra |
-| `naweri` | the Ring Verse, refused: an essay on a text Phi cannot say, and why |
-| `wuloe wetha tupiwa` | *The Velveteen Rabbit*, entire |
-| `nophi lue mawha lokue` | *News from Nowhere*, chapters 1 and 2: the opening of a novel-length project |
+| Phi title | Method | Text |
+|---|---|---|
+| `mophira nela lo kalora` | Transmutation | Schleicher's fable, worked from the 1868 German |
+| `ta haluma` | Transmutation | the Babel story, Genesis 11:1-9, with its scattering retold as sowing |
+| `theula miona` | Transmutation | Article 1 of the Universal Declaration of Human Rights |
+| `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |
+| `phewo phelui` | Transmutation | from *The Prophet*: on love, on children, on giving |
+| `keiro` | Transmutation | five chapters of the Tao Te Ching |
+| `nulo sano korua` | Transmutation | the Heart Sutra |
+| `naweri` | Transmutation | the Ring Verse, refused: an essay on a text Phi cannot say, and why |
+| `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire |
+| `nophi lue mawha lokue` | Transmutation | *News from Nowhere*, chapters 1 through 3: the opening of a novel-length project |

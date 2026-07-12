@@ -455,7 +455,7 @@ if open_list: toc.append("</ol>")
 (MANUAL_OUT / "index.html").write_text(manual_page("\n".join(toc), "contents"))
 print(f"wrote web/manual/: {len(sections)} sections + contents")
 
-# ---- the texts: transmuted literature rendered to web/texts/ ----
+# ---- the texts: translated and transmuted literature rendered to web/texts/ ----
 import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
@@ -487,7 +487,7 @@ def texts_page(body, title):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Phi's literature: transmutations from the Metta Sutta to News from Nowhere — and the Ring Verse, refused.">
+<meta name="description" content="Phi's literature in close translation and transmutation, from the Metta Sutta to News from Nowhere and the Ring Verse refusal.">
 <title>Phi texts &mdash; {title}</title>
 <script src="../theme.js"></script>
 <script src="../reader.js" defer></script>
@@ -500,8 +500,7 @@ def texts_page(body, title):
 <div class="chapnav"><a href="index.html">all texts</a></div>
 </main>
 <footer>
-  <p>Transmutations, not translations: each text is rebuilt from Phi's own
-     concepts. Written in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, rendered at build time.
+  <p>Each text identifies itself as a translation or a transmutation. The source files live in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, and the site renders them at build time.
      The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
@@ -509,11 +508,11 @@ def texts_page(body, title):
 """
 
 TEXTS = [
-    ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text ever written in Phi: the Metta Sutta, the loving-kindness meditation, rebuilt from the language's own concepts. Where the language's heart is."),
+    ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text written in Phi: the Metta Sutta followed through all ten verses, with each source claim and image given a place in the language."),
     ("north_wind_and_sun", "nitho howeli nela sileta \u2014 The North Wind and the Sun", "Phi's first story: the fable told in a thousand languages to show what each sounds like. The primer's capstone sends its readers here."),
     ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "The most-translated document in history, in the language that needed no new words to say it \u2014 and no gendered ones to exclude with."),
     ("babel_text", "ta haluma \u2014 the Babel text", "The conlang community's handshake, done the Phi way: the scattering as sowing, every language a garden \u2014 and the first time Phi names its own kind."),
-    ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "The one entry on this shelf that is not a translation: what a language without domination vocabulary cannot say \u2014 and the hearth-poem that comes out when it tries."),
+    ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "A transmutation that becomes a refusal: what a language without domination vocabulary cannot say, and the hearth-poem that comes out when it tries."),
     ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "The historical linguists' test-text since 1868. Phi's telling keeps the sting and withholds one word: the master, who can only be described as the one who takes."),
     ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts, zero new words \u2014 and two transmutations that see through the original: the prince who was never a rank, and the taming that was always a bond."),
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "The longest transmutation: a full story in eight scenes, two coins, and the discovery that Real was the habitual aspect all along."),
@@ -524,15 +523,41 @@ TEXTS = [
     ("news_from_nowhere_ch2", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 2 (in progress)", "The utopia's first morning: the Thames clear enough for salmon, a bridge standing on stone rainbows, and the book's first attempt to pay for a service, made in a language that cannot say it. The waterman takes his Phi name here: ne kulo, the Guide."),
     ("news_from_nowhere_ch3", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 3 (in progress)", "Breakfast in the Guest House: bread and roses take their words (napa, perola), the narrator takes his name (ne phemi, Guest), and a carved inscription stands exactly where his own past stood. The hosts Morris sorts by sex arrive unsorted, in a language that keeps his attention and refuses the sorting."),
 ]
+
+TEXT_METHODS = {
+    "metta_sutta": "Translation",
+    "north_wind_and_sun": "Transmutation",
+    "human_rights_article_one": "Transmutation",
+    "babel_text": "Transmutation",
+    "ring_verse_refusal": "Transmutation",
+    "schleicher_fable": "Transmutation",
+    "little_prince_excerpts": "Transmutation",
+    "velveteen_rabbit": "Transmutation",
+    "prophet_excerpts": "Transmutation",
+    "tao_te_ching": "Transmutation",
+    "heart_sutra": "Transmutation",
+    "news_from_nowhere_ch1": "Transmutation",
+    "news_from_nowhere_ch2": "Transmutation",
+    "news_from_nowhere_ch3": "Transmutation",
+}
+
+
+def text_method(stem):
+    return TEXT_METHODS[stem]
+
+
 for stem, title, blurb in TEXTS:
     md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
-    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(md_to_html(md), title))
+    method = text_method(stem)
+    rendered = md_to_html(md).replace("</h1>", f'</h1>\n<p class="text-method">{method}</p>', 1)
+    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
 
 toc = ["<h1>The texts</h1>",
-       "<p>Phi's literature so far. Each is a transmutation &mdash; not a translation word for word, but the idea rebuilt from Phi's own concepts, with notes recording every adaptation the language asked for.</p>"]
+       "<p>The Metta Sutta keeps all ten verses of its source. Its final claim about return to a mother's womb remains explicit. The North Wind and the Sun changes Aesop's contest into a judgment about what brings fruit. The first is a translation; the second is a transmutation.</p>",
+       "<p>A translation preserves the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Its notes show what changed. Both use Phi grammar rather than word-for-word substitution, and every entry below names its method.</p>"]
 for stem, title, blurb in TEXTS:
-    toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p>{blurb}</p>')
-toc.append("<hr><p><em>More transmutations are coming; the shelf is built to grow.</em></p>")
+    toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
+toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")
 (TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents"))
 print(f"wrote web/texts/: {len(TEXTS)} texts + contents")
 

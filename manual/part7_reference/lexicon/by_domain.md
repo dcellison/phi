@@ -1169,7 +1169,7 @@
 | `siora` | joy | embodies radiant happiness and celebratory feeling states |
 | `soliru` | hope | embodies confident expectation and positive feeling about possibilities |
 | `sonu` | alone | The felt state of being by oneself |
-| `sukima` | fear | The body's alarm, named gently |
+| `sukima` | fear | The body's alarm before danger |
 | `thaemo` | precious | Cherished value |
 | `thaemu` | sincere | Heartfelt authenticity |
 | `thaluni` | kin | embodies deep bonds of love and connection |

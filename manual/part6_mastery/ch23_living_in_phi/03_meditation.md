@@ -28,7 +28,7 @@ Slot 1 is a map of the meditating mind. Sitting, notice a thought and tag it sil
 
 ## The metta recitation
 
-The language now possesses its own complete loving-kindness text: *lothea thole*, the Metta Sutta transmutation (in the pamphlets). Its refrain was built for recitation:
+The language has its own complete loving-kindness text: *lothea thole*, the Metta Sutta translation in the pamphlets. Its refrain was built for recitation:
 
 ```
 su theula limoe siora korua phelu.

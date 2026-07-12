@@ -1,6 +1,6 @@
 # lothea thole — The Practice of Love
 
-*A source-led transmutation of the Karaniya Metta Sutta into Phi, and the language's first complete text. This version follows each claim and image into Phi. When Phi must compose a source term or narrows a distinction, the notes and gap log say so.*
+*This close translation of the Karaniya Metta Sutta into Phi follows V. Fausböll's 1881 English and is the language's first complete text. Every claim and image in that English source has a place in Phi. When a source term must be composed or a distinction narrows, the notes and gap log say so.*
 
 *The source is the Pali Karaniya Metta Sutta (Sn 1.8). The English ground truth is V. Fausböll's translation of the Sutta-Nipâta (Sacred Books of the East, volume X, part II, second edition; first published 1881), stored verbatim in `pamphlets/sources/`. Its scan spellings, broken words, and punctuation remain in the citations. All ten verses are represented.*
 
@@ -320,7 +320,7 @@ pheo shia lo weloni siora te ru wilao shia mawha thimu muo thowia phao mokura so
 
 ---
 
-## What the transmutation changed
+## Translation gap log
 
 The gap log records each place where Phi composes or narrows Fausböll's wording.
 
