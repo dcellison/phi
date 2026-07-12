@@ -20,5 +20,8 @@
   },
   "tags": {
     "creation": "The iron road, before the turning"
-  }
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
 }

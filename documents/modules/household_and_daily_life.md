@@ -1,6 +1,6 @@
 # Household and Daily Life
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 39 current memberships, and shared-core `mirewu` private.
+**Status:** **Established vocabulary module** with 30 roots coined here, 42 current memberships, and shared-core `mirewu` private.
 
 ## Charter
 
@@ -8,7 +8,7 @@ Household language begins where things are used repeatedly: the room that change
 
 The module adds vocabulary only. Phi keeps one grammar and one particle system, and every new word follows the ordinary event-noun or quality-noun rule where its part of speech permits.
 
-The speaker-facing guide is [Household and Daily Life](../../manual/part7_reference/modules/household_and_daily_life.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#household-and-daily-life). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Household and Daily Life](../../manual/part7_reference/modules/household_and_daily_life.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#household-and-daily-life). The vocabulary table below records the roots coined for this profile; the generated inventory also includes older roots classified after the profile pass and words shared with other learning paths. A module classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -37,6 +37,10 @@ The profile uses these ordinary Phi resources without moving them into the modul
 | Plans and open matters | `winora` plan, `hasoru` pending, `sirami` record | A household can organize an intended action, leave a request unresolved, or keep a durable account without treating daily life as specialist work or governance. |
 | Materials and conditions | `muralo` material, `panuri` resource, `howenu` weather, `phelure` store | Matter, availability for a purpose, present weather, and storage all have ordinary domestic uses before ecological or systems analysis begins. |
 | Pressure and reprisal | `kawhera` coerce, `whepelo` retaliate | Harmful pressure and reprisal can be named inside intimate or domestic relations without requiring an institution as the setting. |
+
+## Earlier roots classified here
+
+The Household path now includes three older roots: `moeli` hearth, `whilaru` comb, and `shorai` commune. Hearth and comb are particular domestic things. Commune names shared living and therefore also belongs to Commons and Collective Governance.
 
 ## Cross-module dependencies
 

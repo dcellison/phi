@@ -4,7 +4,7 @@ Dye runs from a workshop into a stream, and a fish downstream carries it in its 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 27 module roots. Shared classifications bring the optional learning list to 39 words; base weather, material, and resource are taught alongside it. The complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 27 module roots. Current classifications bring the optional learning list to 46 words; base weather, material, and resource are taught alongside it. The complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -16,11 +16,25 @@ The module does not replace what Phi already says about land, water, weather, an
 | Sky and immediate conditions | `pheralu` rain, `sorae` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `howenu` weather, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
 | Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `tokemi` fungus |
 | Relations and transformations | `menui` dwell, `nuola` eat, `lumera` nourish, `panoru` support, `lorea` connect, `selu` flow, `kelu` become, `thuroa` grow, `lumeo` die, `nuri` cycle, `turema` return |
-| Care and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
+| Care and renewal | `theama` care, `shorupo` protect, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
 | Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneho` tradeoff |
 | Matter and use | `muralo` material, `panuri` resource |
 
 Systems lends its own vocabulary for the mechanics underneath: `terura` system, `mirela` state, `pherami` dependency, `koewi` input, `thirulo` output, `sekaru` transfer, `turelo` feedback, `henora` capacity, `pemaru` hazard, `kisholu` specification. Borrowing a technical word does not by itself hand over an ecological conclusion.
+
+## Additional roots in this learning path
+
+Seven roots widen the path beyond systems, processes, and observation.
+
+| Phi | Working sense | Why it belongs here |
+|---|---|---|
+| `keshoa` | reptile; a scaled ectothermic animal class | The word makes a biological classification rather than naming one familiar animal. |
+| `moreke` | mammal; an endothermic animal class whose members nurse young with milk | Its definition identifies a class through bodily traits and includes humans without replacing `miona` person. |
+| `teluno` | amphibian; an animal class whose life commonly crosses water and land | The class is useful when a habitat or life cycle matters, while frog and salamander names may remain exact source terms. |
+| `shaemu` | organic; living-derived or growth-formed | It describes matter and form through their relation to life; `woeli` natural remains broader. |
+| `nunoa` | forager; a gatherer of food from uncultivated land | Foraging joins ecological knowledge to practical work. Work, Craft, and Repair teaches the labor side of the same role. |
+| `telo` | farmer; a cultivator of land and food crops | Land, seasons, and living growth shape the role; its sustained labor places it in the Work module as well. |
+| `theluo` | steward; one who tends land, resources, or communities for others and the future | Stewardship crosses ecological care and collective responsibility, which also places the word in Commons. |
 
 ## Weather, material, and resources belong to base vocabulary
 

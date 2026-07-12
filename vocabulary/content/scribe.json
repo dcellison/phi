@@ -20,5 +20,8 @@
   "tags": {
     "community": "Recording role",
     "creation": "Written preservation"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

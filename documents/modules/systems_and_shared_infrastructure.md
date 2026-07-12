@@ -1,6 +1,6 @@
 # Systems and Shared Infrastructure
 
-**Status:** **Established vocabulary module** with 24 module roots coined here, 36 current memberships, and base-vocabulary `phelure` store; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 24 module roots coined here, 37 current memberships, and base-vocabulary `phelure` store; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for identifying systems and c
 
 The module is not an engineering standard, safety certification, unit system, infrastructure-governance model, or competence credential. It does not authorize a speaker to infer safety, performance, ownership, obligation, accessibility, or legitimacy from a device, measurement, specification, or technical role.
 
-The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/part7_reference/modules/systems_and_shared_infrastructure.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#systems-and-shared-infrastructure). The vocabulary table below records every root established for this profile, including base-vocabulary `phelure` store. The generated inventory also includes words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/part7_reference/modules/systems_and_shared_infrastructure.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#systems-and-shared-infrastructure). The vocabulary table below records every root established for this profile, including base-vocabulary `phelure` store. The generated inventory also includes older roots classified after the profile pass and words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -32,8 +32,12 @@ These existing resources remain available to every Phi speaker and keep their or
 | Energy, water, and land | `kenua` energy, `sorae` sun, `phialu` water, `luphore` river, `muila` earth, `phelu` hold, `phelona` require | Supply concrete materials and needs for infrastructure discussion without defining technical units, storage models, or ecological consequences. |
 | Storage | `phelure` store | Retain food, water, energy, or information for later retrieval without requiring a systems analysis. |
 | Maintenance and continuity | `shiroka` repair, `talome` restore, `thiranu` maintain, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect | Keep repair, restoration, upkeep, continuity, regeneration, and protection distinct from inspection, calibration, fault, failure, reliability, and redundancy. |
-| Shared use and responsibility | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible | Describe shared use and care while leaving ownership, authority, allocation, accountability, labor assignment, and obligation to their relevant modules and explicit clauses. |
+| Shared use and responsibility | `sila` community, `phowe` share, `panoru` support, `thonai` responsible | Describe shared use and care while leaving ownership, authority, allocation, accountability, labor assignment, and obligation to their relevant modules and explicit clauses. |
 | Evidence, precision, and reasoning | `masue` measure, `siru` marker, `sirami` record, `kiro` precise, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `sano` know, `nohero` believe, `lilea` clarify, `kirema` criterion, `natheri` entail, and separately preserved source material | Discuss readings and distinguish source, inference, criteria, and logical relations from technical state, calibration, specification, inspection, and reliability. |
+
+## Earlier roots classified here
+
+The base vocabulary placement review adds `nurako` railway to this module as an existing infrastructure noun. Its entry predates the systems vocabulary pass, and its meaning has not changed. A learner can still describe an iron path that carries people on wheels.
 
 ## First Vocabulary Pass
 

@@ -21,5 +21,8 @@
   "tags": {
     "community": "Learning role",
     "creation": "Craft training"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

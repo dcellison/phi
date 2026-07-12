@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** with 27 module roots coined here, 39 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 27 module roots coined here, 46 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for describing ecological org
 
 The module is not a scientific ontology, environmental standard, conservation doctrine, climate model, land-management plan, professional credential, or claim that solarpunk values settle an ecological question. It does not certify that an action is sustainable, regenerative, harmless, just, or effective merely because a valued Phi word describes its intention.
 
-The speaker-facing guide is [Ecological Systems and Material Life](../../manual/part7_reference/modules/ecological_systems_and_material_life.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#ecological-systems-and-material-life). The vocabulary table below records every root established for this profile, including three that belong in base vocabulary. The generated inventory also includes words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Ecological Systems and Material Life](../../manual/part7_reference/modules/ecological_systems_and_material_life.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#ecological-systems-and-material-life). The vocabulary table below records every root established for this profile, including three that belong in base vocabulary. The generated inventory also includes older roots classified after the profile pass and words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -35,9 +35,13 @@ These existing resources remain available to every Phi speaker and keep their or
 | Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `kosha` field, `tokemi` fungus, `nireku` insect, `pelori` bird, `shalu` fish, `menui` dwell, `lokue` place | Identify beings and places while the module adds ecosystem, habitat, species, population, ecological community, and biodiversity. |
 | Materials and physical change | `wolea` wood, `kerou` stone, `mueri` clay, `keluo` metal, `phielo` glass, `wetha` cloth, `linua` fiber, `tinoa` dye, `loesi` oil, `hesura` ash, `muralo` material, `panuri` resource, `whoa` whole, `whemoa` empty, `pukate` break, `pisha` split, `nomira` collect, `kolua` carry, `thinu` put | Name familiar substances, matter under discussion, and what is available for a purpose while the module distinguishes waste, decomposition, nutrients, recycling, sediment, and contaminants. |
 | Connection, growth, and transformation | `lorea` connect, `phaliso` network, `selu` flow, `teru` process, `norae` method, `nuri` cycle, `turema` return, `kelu` become, `thuroa` grow, `welura` spread, `nuola` eat, `lumera` nourish, `panoru` support, `lumeo` die | State local relations and transformations without automatically claiming a pathway, dependency, food web, material conservation, closed cycle, cumulative effect, or emergence. |
-| Care, protection, and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair, `phelu` hold, `phowe` share, `laenu` commons | Express care and intended renewal while keeping baseline, target, evidence, effect, authority, burden, and judgment of success separate. |
+| Care, protection, and renewal | `theama` care, `shorupo` protect, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair, `phelu` hold, `phowe` share | Express care and intended renewal while keeping baseline, target, evidence, effect, authority, burden, and judgment of success separate. |
 | Limits, safety, and values | `phelona` require, `henoi` enough, `sharoi` exceed, `thenoi` fall short, `peloma` harmful, `pukea` danger, `shurano` safe, `sone` value, `rolia` worth, `thua` fair, `theloma` justice, `po` possibility, `na` necessity, `ma` negation, `lu` condition | State needs, comparison, harm, safety, values, fairness, possibility, and conditions without defining ecological limits, acceptable loss, precaution, authority, or environmental justice. |
 | Evidence, precision, and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `masue` measure, `siru` marker, `kiro` precise, `sano` know, `nohero` believe, `lilea` clarify, `nila` see, `somela` observe, `shane` tell, `thekiro` write, `helui` change, `thimu` time, `wireo` future, and separately preserved source material | Discuss evidence, measurements, observations, records, and change while the module adds sample, baseline, trend, model, and monitoring. |
+
+## Earlier roots classified here
+
+Seven older roots now sit in this learning path. `keshoa` reptile, `moreke` mammal, and `teluno` amphibian name biological classes; `shaemu` organic describes living-derived or growth-formed matter. `nunoa` forager and `telo` farmer join ecology to the Work module, while `theluo` steward joins it to Commons. Their canonical meanings remain unchanged.
 
 ## Optional Cross-Module Dependencies
 

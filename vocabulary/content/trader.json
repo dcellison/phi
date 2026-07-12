@@ -20,5 +20,8 @@
   "tags": {
     "community": "Exchange role",
     "creation": "Goods movement"
-  }
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
 }

@@ -23,5 +23,8 @@
     "community": "essential role in maintaining social harmony",
     "dialogue": "facilitates communication and understanding between parties",
     "wisdom": "requires seeing all perspectives and finding middle way"
-  }
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
 }

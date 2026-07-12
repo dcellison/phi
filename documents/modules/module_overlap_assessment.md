@@ -1,6 +1,8 @@
 # Module overlap assessment
 
-**Status:** Complete. Seventy-seven words carry shared module classifications, 137 keep one module, and thirteen belong in base vocabulary.
+**Status:** Complete for the 227 roots established during the eight profile passes. Seventy-seven carry shared module classifications, 137 keep one module, and thirteen belong in base vocabulary.
+
+The later [base vocabulary placement assessment](base_vocabulary_placement_assessment.md) classifies thirty older roots that were outside this review's source set. Current whole-lexicon totals live there and in the profile index; the counts below describe the 227 profile-pass roots.
 
 A speaker who selects Medical and Bodily Care in the lexicon explorer now sees forty-five words. The list includes the thirty roots coined for care and shared entries such as `hisophi` contaminant, `nomiki` concentration, `perawi` expose, and `mothami` baseline. That is the practical result of this review: words that belong to care are now taught there even when another profile first gave them a lexical home.
 
@@ -23,7 +25,7 @@ A high-confidence recommendation passes all four. A second-pass candidate passes
 
 ## Corpus snapshot
 
-The eight profile passes established 227 roots for possible module study. The completed review leaves 214 of them in the optional layer, with 317 memberships across the eight learning paths. Seventy-seven words belong to more than one path and 137 keep one module; the remaining thirteen have no `modules` field and appear under the explorer's base-vocabulary filter. Of the original 227 roots, 102 are cited in at least one profile document outside their original profile. Many of those citations still mark dependencies rather than shared lexical homes.
+The eight profile passes established 227 roots for possible module study. This review leaves 214 of them in the optional layer, with 317 memberships across the eight learning paths. Seventy-seven words belong to more than one path and 137 keep one module; the remaining thirteen have no `modules` field and appear under the explorer's base-vocabulary filter. Of the original 227 roots, 102 are cited in at least one profile document outside their original profile. Many of those citations still mark dependencies rather than shared lexical homes.
 
 | Disposition | Words | Meaning |
 |---|---:|---|
@@ -213,4 +215,4 @@ The canonical entries, generated reference, module profiles, and Part VII index 
 4. [x] Re-read the expanded module lists and resolve all 29 second-pass candidates without using a target count.
 5. [x] Review the thirteen base candidates separately and remove their module fields where broad use makes optional study the wrong home.
 
-The membership review is complete. The active corpus can now be read again with the full module vocabulary and its final learning paths in place.
+This review settles the 227 profile-pass roots. The [base vocabulary placement assessment](base_vocabulary_placement_assessment.md) completes the wider inventory, after which the active corpus can be read again with the full learning paths in place.

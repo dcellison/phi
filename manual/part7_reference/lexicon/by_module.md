@@ -62,7 +62,7 @@
 
 ## Commons and Collective Governance
 
-*41 words in this learning path.*
+*50 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -73,7 +73,10 @@
 | `kanuwa` | authorize | verb | Authorize |
 | `karami` | authority | noun | Authority |
 | `kasira` | vote | verb | Vote |
+| `kathu` | seal | noun | Seal |
 | `kirethu` | legitimate | adjective | Legitimate |
+| `kowela` | council | noun | Council |
+| `laenu` | commons | noun | Commons |
 | `loatho` | delegate | verb | Delegate |
 | `lothoni` | accountable | adjective | Accountable |
 | `makelu` | abstain | verb | Abstain |
@@ -92,13 +95,19 @@
 | `punoki` | institution | noun | Institution |
 | `repora` | propose | verb | Propose |
 | `rilowa` | assign | verb | Assign |
+| `shalimo` | alliance | noun | Alliance |
 | `shalori` | represent | verb | Represent |
 | `shanewi` | notify | verb | Notify |
 | `shaweri` | advocate | verb | Advocate |
 | `shereni` | entitlement | noun | Entitlement |
+| `shorai` | commune | verb | Commune |
 | `sirelu` | disclose | verb | Disclose |
 | `sithora` | role | noun | Role |
 | `soneho` | tradeoff | noun | Tradeoff |
+| `temu` | guild | noun | Guild |
+| `theluo` | steward | noun | Steward |
+| `thereo` | mediator | noun | Mediator |
+| `thorae` | facilitator | noun | Facilitator |
 | `thunesi` | asynchronous | adjective | Asynchronous |
 | `tukiro` | review | verb | Review |
 | `wemari` | member | noun | Member |
@@ -110,12 +119,13 @@
 
 ## Ecological Systems and Material Life
 
-*39 words in this learning path.*
+*46 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `herani` | trend | noun | Trend |
 | `hisophi` | contaminant | noun | Contaminant |
+| `keshoa` | reptile | noun | Reptile |
 | `koewi` | input | noun | Input |
 | `kuramo` | drought | noun | Drought |
 | `likori` | species | noun | Species |
@@ -129,10 +139,12 @@
 | `menuro` | habitat | noun | Habitat |
 | `mirela` | state | noun | State |
 | `monaki` | component | noun | Component |
+| `moreke` | mammal | noun | Mammal |
 | `morume` | decompose | verb | Decompose |
 | `mothami` | baseline | noun | Baseline |
 | `munari` | sediment | noun | Sediment |
 | `nomiki` | concentration | noun | Concentration |
+| `nunoa` | forager | noun | Forager |
 | `pekira` | toxic | adjective | Toxic |
 | `pemaru` | hazard | noun | Hazard |
 | `perawi` | expose | verb | Expose |
@@ -144,9 +156,13 @@
 | `poruli` | efficient | adjective | Efficient |
 | `reteru` | model | noun | Model |
 | `sekaru` | transfer | verb | Transfer |
+| `shaemu` | organic | adjective | Organic |
 | `somethi` | monitor | verb | Monitor |
 | `soneho` | tradeoff | noun | Tradeoff |
+| `telo` | farmer | noun | Farmer |
+| `teluno` | amphibian | noun | Amphibian |
 | `terura` | system | noun | System |
+| `theluo` | steward | noun | Steward |
 | `thirulo` | output | noun | Output |
 | `tukelu` | recycle | verb | Recycle |
 | `turelo` | feedback | noun | Feedback |
@@ -156,7 +172,7 @@
 
 ## Household and Daily Life
 
-*39 words in this learning path.*
+*42 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -167,6 +183,7 @@
 | `lophani` | bottle | noun | Bottle |
 | `lupaki` | fold | verb | Fold |
 | `lurepa` | nutrient | noun | Nutrient |
+| `moeli` | hearth | noun | Hearth |
 | `molupa` | box | noun | Box |
 | `mukesi` | spoil | verb | Spoil |
 | `muneki` | latrine | noun | Latrine |
@@ -186,6 +203,7 @@
 | `ritako` | workload | noun | Workload |
 | `sawathi` | soap | noun | Soap |
 | `seluto` | pour | verb | Pour |
+| `shorai` | commune | verb | Commune |
 | `sitawi` | inventory | noun | Inventory |
 | `tapulo` | jar | noun | Jar |
 | `tapuri` | lid | noun | Lid |
@@ -198,15 +216,17 @@
 | `wethamo` | blanket | noun | Blanket |
 | `wethate` | laundry | noun | Laundry |
 | `whemori` | waste | noun | Waste |
+| `whilaru` | comb | noun | Comb |
 | `womuri` | household | noun | Household |
 
 ## Medical and Bodily Care
 
-*45 words in this learning path.*
+*48 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `helanu` | recover | verb | Recover |
+| `heloa` | remedy | noun | Remedy |
 | `herani` | trend | noun | Trend |
 | `hisaro` | clinical finding | noun | Clinical Finding |
 | `hisophi` | contaminant | noun | Contaminant |
@@ -245,8 +265,10 @@
 | `suloru` | fever | noun | Fever |
 | `teshori` | quarantine | verb | Quarantine |
 | `thekamu` | intervene | verb | Intervene |
+| `thelai` | balm | noun | Balm |
 | `thephaku` | inflammation | noun | Inflammation |
 | `welathi` | contagious | adjective | Contagious |
+| `wenu` | tonic | noun | Tonic |
 | `weshaku` | outbreak | noun | Outbreak |
 | `whekaro` | adverse effect | noun | Adverse Effect |
 | `whemaki` | allergy | noun | Allergy |
@@ -280,7 +302,7 @@
 
 ## Systems and Shared Infrastructure
 
-*36 words in this learning path.*
+*37 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -301,6 +323,7 @@
 | `nilaki` | inspect | verb | Inspect |
 | `noporu` | design | verb | Design |
 | `nowiso` | interface | noun | Interface |
+| `nurako` | railway | noun | Railway |
 | `pemaru` | hazard | noun | Hazard |
 | `phelotu` | format | noun | Format |
 | `pherami` | depend | verb | Depend |
@@ -323,7 +346,7 @@
 
 ## Work, Craft, and Repair
 
-*53 words in this learning path.*
+*65 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -331,17 +354,22 @@
 | `kanuwa` | authorize | verb | Authorize |
 | `katemu` | offcut | noun | Offcut |
 | `kelitho` | function | verb | Function |
+| `keritha` | workshop | noun | Workshop |
+| `kima` | scribe | noun | Scribe |
 | `kiphira` | fault | noun | Fault |
 | `kiranu` | qualified | adjective | Qualified |
 | `kirero` | quality | noun | Quality |
+| `kiru` | chisel | noun | Chisel |
 | `kisholu` | specification | noun | Specification |
 | `kisome` | assess | verb | Assess |
+| `kolai` | pigment | noun | Pigment |
 | `koluri` | reliable | adjective | Reliable |
 | `loatho` | delegate | verb | Delegate |
 | `lothoni` | accountable | adjective | Accountable |
 | `lumethi` | deadline | noun | Deadline |
 | `luseri` | provenance | noun | Provenance |
 | `masuro` | calibrate | verb | Calibrate |
+| `moloi` | apprentice | noun | Apprentice |
 | `monaki` | component | noun | Component |
 | `muphera` | stock | noun | Stock |
 | `naseru` | obligation | noun | Obligation |
@@ -350,10 +378,14 @@
 | `noporu` | design | verb | Design |
 | `noraku` | blocked | adjective | Blocked |
 | `nukesa` | expert | adjective | Expert |
+| `nunoa` | forager | noun | Forager |
 | `pekira` | toxic | adjective | Toxic |
 | `pemaru` | hazard | noun | Hazard |
 | `perawi` | expose | verb | Expose |
+| `phaewi` | studio | noun | Studio |
+| `phanu` | canvas | noun | Canvas |
 | `pilora` | exploit | verb | Exploit |
+| `piru` | trader | noun | Trader |
 | `pokera` | competent | adjective | Competent |
 | `poruli` | efficient | adjective | Efficient |
 | `pushali` | overload | verb | Overload |
@@ -369,6 +401,8 @@
 | `sithora` | role | noun | Role |
 | `somaki` | test | verb | Test |
 | `someru` | supervise | verb | Supervise |
+| `telo` | farmer | noun | Farmer |
+| `temu` | guild | noun | Guild |
 | `thesani` | skill | noun | Skill |
 | `thimelo` | pace | noun | Pace |
 | `thimora` | schedule | noun | Schedule |
@@ -376,6 +410,7 @@
 | `thunaro` | train | verb | Train |
 | `thunesi` | asynchronous | adjective | Asynchronous |
 | `tukelu` | recycle | verb | Recycle |
+| `weloa` | loom | noun | Loom |
 | `wephari` | coordinate | verb | Coordinate |
 | `wepuri` | progress | verb | Progress |
 | `whemori` | waste | noun | Waste |

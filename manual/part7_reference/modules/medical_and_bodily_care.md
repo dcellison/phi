@@ -4,7 +4,7 @@ Someone wakes with a fever and says so, in their own words. Everything this modu
 
 Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 45 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Current classifications bring the learning list to 48 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -20,6 +20,16 @@ The module does not replace what Phi already says about bodies and their care. I
 | Planning and status | `winora` plan, `hasoru` pending |
 
 The sibling modules lend their tools where care meets their ground: Systems for the monitor at the bedside, Work for the shift handoff, Commons for who may decide what, and Ecological for the contaminant in the water. Base `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion support the discussion before Philosophical Reasoning adds its sharper argument terms.
+
+## Additional roots in this learning path
+
+The Medical path also includes three particular preparations.
+
+| Phi | Working sense | Why it belongs here |
+|---|---|---|
+| `heloa` | remedy; a treatment or medicine intended to answer a particular ailment | A remedy is narrower than medicine in general because it is matched to the problem it is meant to resolve. |
+| `thelai` | balm; a soothing ointment applied to the body | Balm names an external preparation and the relief intended through touch. |
+| `wenu` | tonic; a medicinal drink intended to restore strength | The drink is a particular care preparation; health, medicine, drinking, and strength remain separate base words. |
 
 ## Shared-core consent
 

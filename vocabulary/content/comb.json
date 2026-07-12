@@ -21,5 +21,8 @@
   "tags": {
     "aesthetic": "The tool worth carving",
     "physical": "Teeth that untangle"
-  }
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
 }

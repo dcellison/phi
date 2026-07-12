@@ -20,5 +20,9 @@
   "tags": {
     "community": "Growing role",
     "nature": "Land cultivation"
-  }
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "work-craft-and-repair"
+  ]
 }

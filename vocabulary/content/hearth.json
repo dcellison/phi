@@ -21,5 +21,8 @@
   "tags": {
     "community": "Gathering place",
     "spatial": "Home center"
-  }
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
 }

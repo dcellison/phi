@@ -22,5 +22,9 @@
     "community": "caring for collective resources and future generations",
     "nature": "often involves tending land and ecosystems",
     "wisdom": "requires understanding of long-term impacts"
-  }
+  },
+  "modules": [
+    "commons-and-collective-governance",
+    "ecological-systems-and-material-life"
+  ]
 }

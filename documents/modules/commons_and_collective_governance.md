@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** with 27 module roots coined here, 41 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 27 module roots coined here, 50 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for describing membership, in
 
 The module is not a constitution, legal system, property regime, economic doctrine, institutional template, or claim that one form of governance fits every community. It does not infer legitimacy from a council label, plural action, necessity, consensus, voting, stewardship, fairness, justice, compliance, or a practical outcome.
 
-The speaker-facing guide is [Commons and Collective Governance](../../manual/part7_reference/modules/commons_and_collective_governance.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#commons-and-collective-governance). The vocabulary table below records every root established for this profile, including three that belong in base vocabulary. The generated inventory also includes words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Commons and Collective Governance](../../manual/part7_reference/modules/commons_and_collective_governance.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#commons-and-collective-governance). The vocabulary table below records every root established for this profile, including three that belong in base vocabulary. The generated inventory also includes older roots classified after the profile pass and words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -33,14 +33,18 @@ These existing resources remain available to every Phi speaker and keep their or
 
 | Area | Existing resources | Continuing role |
 |---|---|---|
-| Community and common life | `sila` community, `laenu` commons, `punoa` society, `wema` belong, `miona` person, `lo` plural, `nuawe` together, `wesoma` mutual | Name communities, shared resources, social order, belonging, people, and collective action while the module adds membership, institutions, roles, representation, and authority. |
-| Assembly and dialogue | `kowela` council, `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `thorae` facilitate, `thereo` mediate, `whakeru` object | Support deliberation, questions, repair, negotiation, facilitation, mediation, and objections while the module adds proposals, procedures, decisions, consensus, votes, and appeals. |
+| Community and common life | `sila` community, `punoa` society, `wema` belong, `miona` person, `lo` plural, `nuawe` together, `wesoma` mutual | Name communities, social order, belonging, people, and collective action while the module adds narrower membership, institutional, representation, and authority relations. |
+| Assembly and dialogue | `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `whakeru` object | Support deliberation, questions, repair, negotiation, and objections before a speaker names a council or a group-process role. |
 | Participation and stance | `pawela` participate, `shorema` contribute, `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `ralu` free, `nawea` respect | Preserve participation, bounded consent, choice, agreement, refusal, acceptance, acknowledgment, freedom, and respect while keeping them distinct from membership, representation, abstention, compliance, and decision authority. |
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panuri` resource, `muralo` material, `theula` all, `theli` each, `shelami` most, `soli` some | State holding, sharing, transfer, need, sufficiency, resources, materials, and quantities while the module adds allocation, entitlement, and ownership. |
 | Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `weilo` balanced, `sone` value, `rolia` worth, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise | Evaluate governance claims and competing goods without allowing a value word, argument, or compromise to determine legitimacy, authority, allocation, or remedy automatically. |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility, `ma` negation | State voluntary commitment, responsibility, error, material repair, restoration, reconciliation, forgiveness, causation, and modality while the module adds imposed obligation, accountability, redress, and enforcement. |
 | Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `sirami` record, `siru` marker, `masue` measure, `sano` know, `phoe` before, `pheo` after, `hasi` wait, `helui` change, and separately preserved source material | Keep a durable account beside its source and time while the module adds notification, review, appeal, and amendment. |
 | Power and safety | `kawhera` coerce, `whepelo` retaliate | Name constrained choice and harm imposed after a prior act without requiring an institution to be the setting. |
+
+## Earlier roots classified here
+
+Nine existing roots now appear in the Commons learning path: `kathu` seal, `kowela` council, `laenu` commons, `shalimo` alliance, `shorai` commune, `temu` guild, `theluo` steward, `thereo` mediator, and `thorae` facilitator. Commune also belongs to Household. Guild belongs to Work, and steward to Ecological Systems. The labels make these roots easier to find without adding authority to their definitions.
 
 ## Optional Cross-Module Dependencies
 

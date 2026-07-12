@@ -4,7 +4,7 @@ A chair comes back from the workshop with one leg pale and new. Whoever sits in 
 
 Like every module, its specialized vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 28 module roots. Shared classifications bring the optional learning list to 53 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 28 module roots. Current classifications bring the optional learning list to 65 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -12,16 +12,35 @@ The module does not replace what Phi already says about making and mending. It a
 
 | Area | Core Phi resources |
 |---|---|
-| Work and making | `riola` purposeful labor, `theko` craft, `pilewa` make, `kealo` create, `lorima` build, `phoa` do, `porua` purpose, `keritha` workshop |
+| Work and making | `riola` purposeful labor, `theko` craft, `pilewa` make, `kealo` create, `lorima` build, `phoa` do, `porua` purpose |
 | Repair and continuity | `shiroka` repair, `whori` mend, `talome` restore, `thiranu` maintain, `thenoki` sustain, `whoa` whole, `pukate` break, `helui` change |
-| Tools and materials | `tenoa` tool, `keli` device, `toka` hammer, `kiru` chisel, `katiru` knife, `tisu` needle, `weloa` loom, `rolu` wheel, `wolea` wood, `kerou` stone, `mueri` clay, `keluo` metal |
-| Learning and knowledge | `norae` method, `thole` practice, `thumela` teach, `shonela` learn, `moloi` apprentice, `thunai` student, `solae` explain, `somela` observe, `shelomu` understand, `sano` know |
+| Tools and materials | `tenoa` tool, `keli` device, `toka` hammer, `katiru` knife, `tisu` needle, `rolu` wheel, `wolea` wood, `kerou` stone, `mueri` clay, `keluo` metal |
+| Learning and knowledge | `norae` method, `thole` practice, `thumela` teach, `shonela` learn, `thunai` student, `solae` explain, `somela` observe, `shelomu` understand, `sano` know |
 | Choice and responsibility | `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `seru` commit, `thonai` willingly responsible, `ralu` free |
 | Shared activity | `shorema` contribute, `wenola` collaborate, `molawi` cooperate, `naphe` help, `panoru` support, `phowe` share, `pheloma` serve |
 | Evidence and conditions | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `masue` measure, `somela` observe, `siru` marker, `kiro` precise, `lu` condition, `po` possibility, `na` necessity, `ma` negation |
 | Planning and open status | `winora` plan, `hasoru` pending |
 
 The sibling modules lend their own tools when work touches their ground: Systems for the technical object under repair, Commons for authority and its limits, Ecological for materials and what becomes of them, Philosophical Reasoning for the argument about whether the work is good.
+
+## Additional roots in this learning path
+
+Twelve familiar roots place the module's task and evaluation vocabulary in actual workshops, studios, and working roles.
+
+| Phi | Working sense | Why it belongs here |
+|---|---|---|
+| `keritha` | workshop; a place arranged for making or repair | The room is defined by the practical work done there. |
+| `phaewi` | studio; a place arranged for artistic work | A studio gathers tools and material around a creative practice; light often shapes the room. |
+| `kiru` | chisel; an edged tool for shaping wood, stone, or metal | Its work is narrower than cutting in general and often depends on learned handling. |
+| `weloa` | loom; a frame or machine that holds threads for weaving | The loom is a dedicated textile device, while thread and weaving remain available in base Phi. |
+| `kolai` | pigment; material that supplies color | Pigment is the substance before a maker turns it into paint or dye. |
+| `phanu` | canvas; strong cloth used as a painting surface | Canvas names a particular material in a particular artistic use. |
+| `moloi` | apprentice; a person learning a craft through guided practice | Apprenticeship combines a learning role with work done by hand. |
+| `kima` | scribe; a person who writes or copies records | The role is narrower than writer and carries the practical work of preserving documents. |
+| `piru` | trader; a person who exchanges goods | Trader names a work role; exchange itself remains in base vocabulary. |
+| `nunoa` | forager; a worker who gathers food from the wild | Practical knowledge of land grounds the work; Ecological Systems teaches the same role through its living relations. |
+| `telo` | farmer; a person whose work is growing food on cultivated land | Farming is sustained work in living material systems, which gives the word its ecological classification. |
+| `temu` | guild; a craft or professional association | A guild connects practical learning with collective organization, which gives it a second home in Commons. |
 
 ## Planning and pending status belong to base vocabulary
 
