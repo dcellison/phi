@@ -35,7 +35,7 @@ Privacy is a chosen limit on access or attention. It can belong to a room with a
 
 ## Module vocabulary
 
-| Phi | Part of speech | Speaker's sense | Closest distinction |
+| Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
 | `womuri` | noun | household sharing the keeping of a dwelling | `womu` is the home; `womuri` is the domestic unit living around it. |
 | `tholupi` | noun | bounded interior room | `tholu` is space in general; a room has the practical edge of an interior. |
