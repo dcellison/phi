@@ -592,7 +592,7 @@ morris: "which I supposed to be booths or shops,"
 
 nia lo womu sheloi rena kolai nela solai phelu rato keli nela thiku raelu lorima to whano.
 ON PL home MANY REL pigment COORD gold hold turn device COORD small tall build PST stand.
-(On them stood many pigment-and-gold-bearing vanes and little spire-works.)
+(On them stood many painted and gilded vanes and little spire-works.)
 morris: "beset with painted and gilded vanes and spirelets."
 
 lo meluna nela pheralu kerou thiku to ki moluki. whekai mu thumiro piloe nia kerou to nai.

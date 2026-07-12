@@ -121,7 +121,7 @@ The particle `ne` marks the following token as a proper name so it is not interp
 **ne samira** — samira (a productive name-form, not a lexicon word)
 **mia ne sulae nila.** — I see sulae.
 
-A productive name-form is one lowercase token of two or three legal Phi syllables. It follows the sound rules, including the ban on duplicated onset-bearing syllables, but it needs no dictionary entry and receives no lexical meaning. Every listed non-content form and every retired form is reserved. A longer, multi-token, non-Phi-shaped, or source-script preferred name remains outside the Phi passage unless its bearer or naming community accepts a valid onym. Check a proposed form with `python3 scripts/validate_examples.py name FORM`.
+A productive name-form is one lowercase token of two or three legal Phi syllables. It follows the sound rules, including the ban on duplicated syllables that have an onset, but it needs no dictionary entry and receives no lexical meaning. Every listed non-content form and every retired form is reserved. A longer, multi-token, non-Phi-shaped, or source-script preferred name remains outside the Phi passage unless its bearer or naming community accepts a valid onym. Check a proposed form with `python3 scripts/validate_examples.py name FORM`.
 
 Formal and neutral speech keep `ne` at every mention. Once a referent is established, conversational speech may omit it while reference remains unambiguous; keeping it is always correct. When an honorific is present, established conversational speech may let the honorific carry the name expectation. When `ne` is used, it precedes the honorific.
 

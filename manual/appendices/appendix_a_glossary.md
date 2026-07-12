@@ -36,7 +36,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **particle**: A short, invariant grammatical word. In Phi, always a single CV syllable, assigned to one of three slots: sentence-frame (Slot 0), verb-phrase (Slot 1), word-level (Slot 2).
 
-**phonotactics**: The rules for how sounds may combine. Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, no repeated onset-bearing syllable within a word, and an absolute three-syllable lexical ceiling.
+**phonotactics**: The rules for how sounds may combine. Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, no repeated syllable with an onset within a word, and an absolute three-syllable lexical ceiling.
 
 **pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[rena mia to nila] shelu` — the [that I saw] book. Phi's relativizer `rena` opens the clause; the head noun itself closes it.
 

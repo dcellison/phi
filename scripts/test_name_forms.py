@@ -136,5 +136,22 @@ class MigrationPolicyTests(unittest.TestCase):
         )
 
 
+class ProsePolicyTests(unittest.TestCase):
+    def test_hyphen_plus_bearing_construction_is_rejected(self):
+        for prefix in ("method", "Fur", "pigment-and-gold"):
+            with self.subTest(prefix=prefix):
+                prohibited = prefix + "-" + "bearing"
+                self.assertTrue(
+                    validate_examples.contains_prohibited_hyphenated_construction(
+                        f"A {prohibited} form."
+                    )
+                )
+        self.assertFalse(
+            validate_examples.contains_prohibited_hyphenated_construction(
+                "A form that carries the method."
+            )
+        )
+
+
 if __name__ == "__main__":
     unittest.main()

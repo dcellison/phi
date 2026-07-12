@@ -1,6 +1,6 @@
 # Names across languages
 
-`ne` introduces one Phi name token. The token may be a listed content word borne as a name or a productive lowercase onym of two or three legal Phi syllables. Productive onyms duplicate no onset-bearing syllable and gain no dictionary meaning merely by being chosen.
+`ne` introduces one Phi name token. The token may be a listed content word borne as a name or a productive lowercase onym of two or three legal Phi syllables. Productive onyms duplicate no syllable that has an onset and gain no dictionary meaning merely by being chosen.
 
 ```
 mia nomei ne samira nai.

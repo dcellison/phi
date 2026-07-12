@@ -46,7 +46,7 @@ mia nomei ne samira nai.
 
 `samira` has three legal open syllables, begins with a Phi onset, stays lowercase, and duplicates no syllable. It has no dictionary gloss or part of speech. A bearer may hold personal associations with its sounds, but listeners cannot treat those associations as shared lexical meaning. Outside an established conversational context, bare `samira` is not a Phi word; `ne` is what licenses it as a proper designation.
 
-The charter is deliberately narrow: one token, two or three syllables, ordinary Phi phonotactics, and no duplicated onset-bearing syllable. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
+The charter is deliberately narrow: one token, two or three syllables, ordinary Phi phonotactics, and no duplicated syllable with an onset. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
 
 ## A preferred source name
 
