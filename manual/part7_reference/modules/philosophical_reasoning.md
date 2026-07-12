@@ -2,7 +2,7 @@
 
 Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. These twenty-two words are that toolkit, for constructing arguments, testing them, and being honest about where certainty runs out.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them confers nothing: not authority, not expertise, not correctness.
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
 The complete machine-generated list is also available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
@@ -32,7 +32,7 @@ The module does not replace what Phi already says about thought and dialogue. It
 | `remotha` | noun | reason; a justificatory ground | A reason justifies; it stands apart from a cause, a purpose, or a motive, each its own separate thing. |
 | `kethira` | verb | infer; reach a conclusion from premises | Inferring is the act of reasoning itself, distinct from the inferential evidential particle `ke`. |
 | `natheri` | verb | entail; imply by necessity | Entailment is necessity, stronger than mere support or a chain of causes. |
-| `kithela` | adjective | valid; having premises that entail the conclusion | Validity is a structural fact about the argument's form; it says nothing about whether the premises are true. |
+| `kithela` | adjective | valid; having premises that entail the conclusion | Validity is a structural fact about the argument's form; the premises can still be false. |
 | `phiketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is impossibility together, stronger than disagreement or plain difference. |
 | `letharo` | adjective | consistent; able to be true together | Consistency says two claims can coexist; it never says they are true, only that they do not clash. |
 | `phisuwa` | noun | example; a particular illustrating case | The noun names the case itself, where `phisu` is the discourse marker that introduces one aloud. |
