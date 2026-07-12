@@ -4,6 +4,10 @@ This document teaches a language model to write Phi documentation in the project
 
 The voice is one third of a trust system. This document carries the taste. The validator (`python3 scripts/validate_examples.py`, run standalone, zero errors and zero warnings) machine-checks the correctness of every Phi example, gloss, and lexicon entry. The maintainer's review is the final gate, and nothing in this document overrides it. For decisions about the language itself, the authority order is `/canon.md`; this document governs prose, not grammar.
 
+Humanizer belongs inside the writing method, not at the edge of it. Write the complete and accurate text first, then apply the installed skill as a separate revision to everything the model generated. No prose category is exempt: a lexicon entry gets the same second look as a chapter or report, and so do table cells and boilerplate.
+
+The skill's generic advice about neutral reference prose does not create an exception here. Phi reference writing keeps its definitions tight, but the sentences still need a person in them.
+
 A model that follows this document should expect to land most of the voice and to be corrected on the remainder. That is the intended outcome, not a failure. What this document prevents is the expensive kind of miss: a whole body of work delivered in the wrong register.
 
 ## The stance
@@ -36,11 +40,11 @@ The voice is one voice in three registers, plus a class of text you must never t
 
 **Teaching prose** (manual chapters, pamphlets, primer): opens on something concrete the reader can check, a scene, a contrast, a problem. Philosophy arrives afterward as payoff. Sections end on a turn: a consequence, an image, a Phi line. Never a summary, never generic uplift.
 
-**Reference prose** (tables, lexicon entries, grammar notes, quick references): plain, concrete, compact. One earned distinction per slot. No scenes required, no opinions wanted. If a general style guide tells you to "add personality" to writing, that advice is fenced out of this register entirely; neutral and plain is the correct human voice here.
+**Reference prose** (tables, lexicon entries, grammar notes, quick references): stays close to the thing it defines. It is compact without sounding poured from a template. One earned distinction per slot. Humanizer is mandatory here too. Personality comes through exact word choice and a rhythm that does not repeat from entry to entry. The best detail could belong only to this definition.
 
-**Boilerplate** (navigation pointers, regeneration notes, the module-mechanics paragraph that recurs across module guides): deliberately uniform. Do not "improve" boilerplate into variety. A policy sentence that appears in six files should be the same sentence six times; that uniformity is honest, like a license line.
+**Boilerplate** (navigation pointers, regeneration notes, the module-mechanics paragraph that recurs across module guides): deliberately uniform. Humanize boilerplate when it is first written or deliberately revised, then preserve the approved sentence wherever it recurs. A policy sentence that appears in six files should be the same sentence six times; that uniformity is honest, like a license line.
 
-**Untouchable text**: validated Phi example blocks (the fenced four-line blocks of Phi sentence, gloss line, parenthetical English, and source line), gloss lines anywhere, source quotations, and the protected formatting conventions listed under mechanics below. These are never edited for style, and several of them contain em dashes that are part of the convention, not a defect.
+**Untouchable text**: existing validated Phi example blocks (the fenced four-line blocks of Phi sentence, gloss line, parenthetical English, and source line), gloss lines anywhere, source quotations, and the protected formatting conventions listed under mechanics below. Humanizer does not turn a reuse task into a rewrite. When a task creates a new block, its ordinary English receives the pass before validation, while its Phi and exact gloss stay governed by the lexicon. Existing blocks are never edited for style, and several of them contain em dashes that are part of the convention, not a defect.
 
 ## The rules
 
@@ -74,7 +78,7 @@ These are the manual's own rules, each stated with its reason. The exemplar chap
 
 ## The lexicon register
 
-Vocabulary entries are reference entries with their own discipline. The rules above apply, plus the following per field.
+Vocabulary entries are reference entries with their own discipline. The schema sets the work each field must do; it cannot write the sentence for you. The completed entry gets a Humanizer pass everywhere it carries prose. That includes the concept label, description, sound symbolism, and grammatical notes. Pillar and tag rationales get the same treatment, as does ordinary English example text. The rules above apply, plus the following per field.
 
 **description**: the word's actual range of use in two to four sentences. What it covers, one earned distinction from its nearest neighbor, and concrete situations over abstract scope-lists. A neighbor word is cited with its exact gloss, in the form 'word' (gloss). The failed pattern to avoid: a definitional range list followed by a tail of five to nine denials ("It does not establish ownership, entitlement, abundance, renewability, harmless use..."). Fold the denials into the one distinction that teaches, and let the rest go.
 
@@ -230,11 +234,12 @@ Even a warning can end on a turn. The nine-item litany kept its three strongest 
 Run this loop on everything you produce. It is not advice; deliverables arrive pre-audited or not at all.
 
 1. Draft in the correct register from the register map.
-2. Mechanical pass: count every row of the anti-pattern table against your draft. Scan for em dashes, curly quotes, and banned vocabulary explicitly.
-3. Batch pass, when producing more than one artifact: scan across artifacts for repeated shapes and migrating phrases, and vary or flatten them.
-4. Read the draft aloud, or as close as you can come, and apply the four verdicts. If it sounds like a brochure, cut the adjectives. If it sounds like a committee, cut the hedges. If it sounds like a sermon, move the philosophy after the example. If it sounds like a contract, state each boundary once and trust the reader.
-5. Validate any Phi content, or if you cannot, confine yourself to existing validated blocks.
-6. Deliver with a short note of what the audit found and changed. Claiming the audit ran without naming a single finding is the most common way to skip it.
+2. Humanizer pass: take the complete draft through the installed skill's draft, audit, and final loop. Apply it to every generated prose field, even in reference and technical work. Meaning, schema, and protected elements stay put.
+3. Mechanical pass: count every row of the anti-pattern table against the humanized draft. Scan for em dashes, curly quotes, and banned vocabulary explicitly.
+4. Batch pass, when producing more than one artifact: scan across artifacts for repeated shapes and migrating phrases, and vary or flatten them.
+5. Read the draft aloud, or as close as you can come, and apply the four verdicts. If it sounds like a brochure, cut the adjectives. If it sounds like a committee, cut the hedges. If it sounds like a sermon, move the philosophy after the example. If it sounds like a contract, state each boundary once and trust the reader.
+6. Validate any Phi content, or if you cannot, confine yourself to existing validated blocks.
+7. Deliver with a short note of what the audit found and changed. Claiming the audit ran without naming a single finding is the most common way to skip it.
 
 ## What this document cannot do
 
