@@ -22,8 +22,5 @@
   "tags": {
     "cognition": "a standard used in classification or judgment",
     "wisdom": "an explicit and revisable basis for deciding fit"
-  },
-  "modules": [
-    "philosophical-reasoning"
-  ]
+  }
 }

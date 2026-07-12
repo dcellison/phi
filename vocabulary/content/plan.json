@@ -22,8 +22,5 @@
     "activity": "organizing intended actions and conditions",
     "cognition": "forming a revisable structure for future action",
     "temporal": "relating intended actions across future order"
-  },
-  "modules": [
-    "work-craft-and-repair"
-  ]
+  }
 }

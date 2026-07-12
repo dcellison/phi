@@ -14,11 +14,12 @@ The module does not replace what Phi already says about bodies and their care. I
 |---|---|
 | Body and experience | `weloni` body, `phaelo` feel, `morae` sense, `kipona` pain, `mokela` sick, `mokura` belly, `lorika` blood, `whunei` breathe, `kehota` cough, `mupelo` vomit, `siwe` sweat, `nulae` sleep, `therilu` rest |
 | Health and care | `sunai` health, `wolu` healthy, `theama` care, `theala` heal, `nepha` medicine, `naphe` help, `panoru` support, `thuleni` comfort, `shorupo` protect, `shurano` safe, `pukea` danger |
-| Autonomy and interaction | `lesawi` consent, `palo` touch, `loa` give, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `nawea` respect, `hasi` wait, `pi` politeness, `wa` question |
+| Autonomy and interaction | `lesawi` consent, `palo` touch, `loa` give, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `nawea` respect, `kawhera` coerce, `whepelo` retaliate, `hasi` wait, `pi` politeness, `wa` question |
 | Explanation and understanding | `reo` meaning, `thelima` describe, `solae` explain, `lilea` clarify, `shelomu` understand, `sano` know, `nohero` believe, `nila` see, `hea` hear |
-| Evidence and modality | `masue` measure, `siru` marker, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, and separately preserved source material |
+| Evidence and modality | `masue` measure, `siru` marker, `sirami` record, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, and separately preserved source material |
+| Planning and status | `winora` plan, `hasoru` pending |
 
-The sibling modules lend their tools where care meets their ground: Systems for the monitor at the bedside, Work for the shift handoff, Commons for who may decide what, Ecological for the contaminant in the water, Philosophical Reasoning for the argument over what the evidence shows.
+The sibling modules lend their tools where care meets their ground: Systems for the monitor at the bedside, Work for the shift handoff, Commons for who may decide what, and Ecological for the contaminant in the water. Base `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion support the discussion before Philosophical Reasoning adds its sharper argument terms.
 
 ## Shared-core consent
 

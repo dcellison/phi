@@ -1,10 +1,10 @@
 # Commons and Collective Governance
 
-A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. Thirty governance roots let a speaker follow the decision from proposal to review and ask what happens when an institution fails the people it claims to serve.
+A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. Twenty-seven module roots let a speaker follow the decision from proposal to review. The same account can outgrow the council: `sirami` record, `kawhera` coerce, and `whepelo` retaliate belong to base vocabulary because none requires an institution.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
+Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 44 words; the complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 27 module roots. Shared classifications bring the optional learning list to 41 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -18,11 +18,16 @@ The module does not replace what Phi already says about community and shared lif
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panuri` resource, `theula` all, `theli` each |
 | Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility |
-| Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
+| Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `sirami` record, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
+| Power and safety | `kawhera` coerce, `whepelo` retaliate |
 
-Systems lends the technical state behind an institution's tools, Ecological the resource and pollution facts a decision may turn on, Philosophical Reasoning the claim and evidence a legitimacy argument needs. None of them says who may decide.
+Systems lends the technical state behind an institution's tools, Ecological supplies pollution relations, and Philosophical Reasoning adds inference and validity. Base vocabulary already provides resource, claim, and evidence. None of them says who may decide.
 
-## Roots introduced in this chapter
+## Records, coercion, and retaliation belong to base vocabulary
+
+Their canonical entries have no `modules` field. A person may write down what happened before any institution sees the page. Coercion can occur in a private relationship, and retaliation may follow an ordinary refusal. Governance gives these acts institutional forms, but no institution is required before a speaker can name them.
+
+## Module roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
@@ -50,14 +55,11 @@ Systems lends the technical state behind an institution's tools, Ecological the 
 | `helolu` | verb | redress; act to address institutional or social harm | Redress answers a harm; it need not erase the loss to count. |
 | `nashaku` | verb | enforce; act in relation to compliance with a rule or decision | Enforcement acts on a rule; it proves neither the rule's justice nor its success. |
 | `shanewi` | verb | notify; formally direct information to a recipient | Notifying sends word; whether it was understood is a further question. |
-| `sirami` | verb | record; create or preserve a durable account | A record preserves an account; truth and completeness stay open questions. |
 | `tukiro` | verb | review; systematically reconsider a prior matter | Review reconsiders; it promises neither independence nor a changed outcome. |
 | `whetuma` | verb | appeal; request formal reconsideration | An appeal asks for review; the review itself is a separate act. |
 | `helaki` | verb | amend; formally change part of a continuing matter | Amendment changes a living rule while keeping its history, unlike `helolu`'s repair of a harm. |
-| `kawhera` | verb | coerce; constrain practical choice through power or threat | Coercion narrows real choice through power, not every rule or urgent need. |
-| `whepelo` | verb | retaliate; impose disadvantage in response to a prior action | Retaliation answers a prior act with disadvantage; timing alone does not prove it happened. |
 
-The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `shalori` can name representation, `loatho` delegation, `kanuwa` authorization, `repora` a proposal, `kasira` a vote, `makelu` abstention, `phanuli` allocation, `helolu` redress, `nashaku` enforcement, `shanewi` notice, `sirami` a record, `tukiro` review, `whetuma` appeal, `helaki` amendment, `kawhera` coercion, and `whepelo` retaliation. The adjective `kirethu` likewise names legitimacy and `lothoni` accountability through the quality-noun rule.
+The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `shalori` can name representation, `loatho` delegation, `kanuwa` authorization, `repora` a proposal, `kasira` a vote, `makelu` abstention, `phanuli` allocation, `helolu` redress, `nashaku` enforcement, `shanewi` notice, `sirami` a record, `tukiro` review, `whetuma` appeal, `helaki` amendment, `kawhera` coercion, and `whepelo` retaliation. The adjective `kirethu` likewise names legitimacy and `lothoni` accountability through the quality-noun rule.
 
 ## Membership, representation, institutions, and roles
 

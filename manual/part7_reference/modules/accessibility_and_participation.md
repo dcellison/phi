@@ -12,14 +12,15 @@ The module begins with the words already in the room: a new access term does not
 
 | Area | Core Phi resources |
 |---|---|
-| Agency | `kanu` choose, `lesawi` consent, `naweri` refuse, `nawo` agree, `kelomi` accept, `thekao` acknowledge, `ralu` free, `phelona` require |
+| Agency | `kanu` choose, `lesawi` consent, `naweri` refuse, `nawo` agree, `kelomi` accept, `thekao` acknowledge, `ralu` free, `phelona` require, `kawhera` coerce, `whepelo` retaliate |
 | Participation | `pawela` participate, `shorema` contribute, `pharune` include, `nuawe` together, `panoru` support, `naphe` help |
 | Communication | `sheori` communicate, `haolu` speak, `hea` hear, `thekiro` write, `theo` read, `shelomu` understand, `lilea` clarify, `shorela` rephrase, `shelao` summarize |
-| Time | `thimu` time, `phoe` before, `pheo` after, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow |
+| Time | `thimu` time, `phoe` before, `pheo` after, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow, `winora` plan, `hasoru` pending |
 | Movement and place | `ponu` door, `ruela` path, `shoeka` route, `lokue` place, `koema` enter, `wepu` go, `losha` wide, `hieru` narrow |
-| Safety and evidence | `shurano` safe, `pukea` danger, `masue` measure, `siru` marker, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption |
+| Safety and evidence | `shurano` safe, `pukea` danger, `masue` measure, `siru` marker, `sirami` record, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption |
+| Material conditions | `howenu` weather, `muralo` material, `panuri` resource |
 
-Commons and Collective Governance supplies representation, roles, authority, authorization, procedure, decisions, notice, review, coercion, and retaliation. Work, Craft, and Repair supplies plans, schedules, deadlines, design, specifications, testing, capacity, and workload. Systems and Shared Infrastructure supplies interfaces, reliability, redundancy, and technical state. Medical and Bodily Care supplies health vocabulary when health is actually the subject. An access need does not have to become a medical claim before any of those words can be used.
+Commons and Collective Governance supplies representation, roles, authority, authorization, procedure, decisions, notice, and review. Work, Craft, and Repair supplies schedules, deadlines, design, specifications, testing, capacity, and workload. Systems and Shared Infrastructure supplies interfaces, reliability, redundancy, and technical state. Medical and Bodily Care supplies health vocabulary when health is actually the subject. The base table already holds ordinary planning, records, material conditions, and abuses of power. An access need does not have to become a medical claim before any of those words can be used.
 
 ## Disabled belongs to shared core
 

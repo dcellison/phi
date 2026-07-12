@@ -62,7 +62,7 @@
 
 ## Commons and Collective Governance
 
-*44 words in this learning path.*
+*41 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -73,7 +73,6 @@
 | `kanuwa` | authorize | verb | Authorize |
 | `karami` | authority | noun | Authority |
 | `kasira` | vote | verb | Vote |
-| `kawhera` | coerce | verb | Coerce |
 | `kirethu` | legitimate | adjective | Legitimate |
 | `loatho` | delegate | verb | Delegate |
 | `lothoni` | accountable | adjective | Accountable |
@@ -97,7 +96,6 @@
 | `shanewi` | notify | verb | Notify |
 | `shaweri` | advocate | verb | Advocate |
 | `shereni` | entitlement | noun | Entitlement |
-| `sirami` | record | verb | Record |
 | `sirelu` | disclose | verb | Disclose |
 | `sithora` | role | noun | Role |
 | `soneho` | tradeoff | noun | Tradeoff |
@@ -106,20 +104,18 @@
 | `wemari` | member | noun | Member |
 | `whakeru` | object | verb | Object |
 | `wheparu` | discriminate | verb | Discriminate |
-| `whepelo` | retaliate | verb | Retaliate |
 | `whetuma` | appeal | verb | Appeal |
 | `wiresu` | postpone | verb | Postpone |
 | `womuri` | household | noun | Household |
 
 ## Ecological Systems and Material Life
 
-*42 words in this learning path.*
+*39 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `herani` | trend | noun | Trend |
 | `hisophi` | contaminant | noun | Contaminant |
-| `howenu` | weather | noun | Weather |
 | `koewi` | input | noun | Input |
 | `kuramo` | drought | noun | Drought |
 | `likori` | species | noun | Species |
@@ -136,9 +132,7 @@
 | `morume` | decompose | verb | Decompose |
 | `mothami` | baseline | noun | Baseline |
 | `munari` | sediment | noun | Sediment |
-| `muralo` | material | noun | Material |
 | `nomiki` | concentration | noun | Concentration |
-| `panuri` | resource | noun | Resource |
 | `pekira` | toxic | adjective | Toxic |
 | `pemaru` | hazard | noun | Hazard |
 | `perawi` | expose | verb | Expose |
@@ -260,12 +254,11 @@
 
 ## Philosophical Reasoning
 
-*23 words in this learning path.*
+*19 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
 | `kethira` | infer | verb | Infer |
-| `kirema` | criterion | noun | Criterion |
 | `kirothe` | define | verb | Define |
 | `kithela` | valid | adjective | Valid |
 | `letharo` | consistent | adjective | Consistent |
@@ -277,20 +270,17 @@
 | `phisuwa` | example | noun | Example |
 | `phiwheki` | counterexample | noun | Counterexample |
 | `remole` | concept | noun | Concept |
-| `remotha` | reason | noun | Reason |
 | `remuma` | conclusion | noun | Conclusion |
 | `samethu` | equivalent | adjective | Equivalent |
-| `sherewa` | claim | verb | Claim |
 | `soneho` | tradeoff | noun | Tradeoff |
 | `themore` | argument | noun | Argument |
-| `thesori` | evidence | noun | Evidence |
 | `whakeru` | object | verb | Object |
 | `whamoi` | doubt | verb | Doubt |
 | `whekate` | refute | verb | Refute |
 
 ## Systems and Shared Infrastructure
 
-*37 words in this learning path.*
+*36 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -313,7 +303,6 @@
 | `nowiso` | interface | noun | Interface |
 | `pemaru` | hazard | noun | Hazard |
 | `phelotu` | format | noun | Format |
-| `phelure` | store | verb | Store |
 | `pherami` | depend | verb | Depend |
 | `poruli` | efficient | adjective | Efficient |
 | `pushali` | overload | verb | Overload |
@@ -334,11 +323,10 @@
 
 ## Work, Craft, and Repair
 
-*55 words in this learning path.*
+*53 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
-| `hasoru` | pending | adjective | Pending |
 | `hisophi` | contaminant | noun | Contaminant |
 | `kanuwa` | authorize | verb | Authorize |
 | `katemu` | offcut | noun | Offcut |
@@ -391,5 +379,4 @@
 | `wephari` | coordinate | verb | Coordinate |
 | `wepuri` | progress | verb | Progress |
 | `whemori` | waste | noun | Waste |
-| `winora` | plan | verb | Plan |
 | `wiresu` | postpone | verb | Postpone |

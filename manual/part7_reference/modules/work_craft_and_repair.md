@@ -2,9 +2,9 @@
 
 A chair comes back from the workshop with one leg pale and new. Whoever sits in it tonight may want to know who cut that leg, whether the wood came from the elm the storm took, and when the chair can stand in the hall again. This module is the vocabulary those questions run on: tasks and projects, skill and its proof, stock and its story, and plain words for work that wears a person down.
 
-Like every module, its vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
+Like every module, its specialized vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 55 words; the complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 28 module roots. Shared classifications bring the optional learning list to 53 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -19,18 +19,21 @@ The module does not replace what Phi already says about making and mending. It a
 | Choice and responsibility | `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `seru` commit, `thonai` willingly responsible, `ralu` free |
 | Shared activity | `shorema` contribute, `wenola` collaborate, `molawi` cooperate, `naphe` help, `panoru` support, `phowe` share, `pheloma` serve |
 | Evidence and conditions | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `masue` measure, `somela` observe, `siru` marker, `kiro` precise, `lu` condition, `po` possibility, `na` necessity, `ma` negation |
+| Planning and open status | `winora` plan, `hasoru` pending |
 
 The sibling modules lend their own tools when work touches their ground: Systems for the technical object under repair, Commons for authority and its limits, Ecological for materials and what becomes of them, Philosophical Reasoning for the argument about whether the work is good.
 
-## Roots introduced in this chapter
+## Planning and pending status belong to base vocabulary
+
+Neither entry has a `modules` field. Someone can plan tomorrow's meal or a journey; a request can remain pending without becoming a work project. The chapter keeps both words close because organized work uses them constantly, not because work owns them.
+
+## Module roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
 | `riporu` | noun | task; bounded unit of intended activity | A task is one bounded piece of work; `riola` is the labor that fills it. |
 | `rinoka` | noun | project; bounded coordinated undertaking | A project gathers tasks toward one result; it is not yet anyone's promise. |
-| `winora` | verb | plan; organize intended future actions | Planning arranges intentions; `seru` commits to them. |
 | `wepuri` | verb | progress; move toward a stated work criterion | Progress is movement toward a named stage, not mere change. |
-| `hasoru` | adjective | pending; awaiting a needed action or condition | Pending waits its turn; `noraku` cannot move. |
 | `noraku` | adjective | blocked; currently unable to proceed because of an obstacle | Blocked names an obstacle and invites the question of what it is. |
 | `lumethi` | noun | deadline; claimed latest time for an action or result | A deadline is a claimed time, and someone claimed it. |
 | `thimora` | noun | schedule; planned arrangement across time | A schedule arranges the work across days; a deadline is one point on it. |
@@ -57,7 +60,7 @@ The sibling modules lend their own tools when work touches their ground: Systems
 | `katemu` | noun | offcut; material separated outside the intended main form | An offcut is what the cut set aside; whether it is waste is a later question. |
 | `luseri` | noun | provenance; claimed source and custody or transformation history | Provenance is the story a material carries, told with its gaps. |
 
-The verbs receive event or result nouns through Phi's ordinary event-noun rule: `winora` can name a plan, `wepuri` progress, `rilowa` an assignment, `wephari` coordination, `someru` supervision, `sethoni` a handoff, `thunaro` training, `kisome` an assessment, `sikanu` certification, `noporu` a design, `somaki` a test, `pilora` exploitation, and `sephori` supply as an activity. The adjectives `hasoru`, `noraku`, `pokera`, `nukesa`, and `kiranu` likewise name their states through the quality-noun rule.
+The verbs used in this chapter receive event or result nouns through Phi's ordinary event-noun rule: `winora` can name a plan, `wepuri` progress, `rilowa` an assignment, `wephari` coordination, `someru` supervision, `sethoni` a handoff, `thunaro` training, `kisome` an assessment, `sikanu` certification, `noporu` a design, `somaki` a test, `pilora` exploitation, and `sephori` supply as an activity. The adjectives `hasoru`, `noraku`, `pokera`, `nukesa`, and `kiranu` likewise name their states through the quality-noun rule.
 
 ## Tasks, projects, plans, and status
 
@@ -257,7 +260,7 @@ mia ha rimawu naweri.
 (I refuse the drudgery.)
 ```
 
-`pilora` makes a claim about power: someone takes disproportionate benefit through another's labor, need, or dependency. It is an analysis, not a mood, and it asks for its evidence the way any strong claim in Phi does. Beside it stand commons `kawhera` (coerce) and `whepelo` (retaliate), so criticism of work can be exact instead of vague.
+`pilora` makes a claim about power: someone takes disproportionate benefit through another's labor, need, or dependency. It is an analysis, not a mood, and it asks for its evidence the way any strong claim in Phi does. Beside it stand base `kawhera` (coerce) and `whepelo` (retaliate), so criticism of work can be exact instead of vague.
 
 ```
 punoki lo miona pilora.

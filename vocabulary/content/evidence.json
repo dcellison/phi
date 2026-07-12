@@ -22,8 +22,5 @@
   "tags": {
     "cognition": "information offered in support of or against a claim",
     "wisdom": "material whose source, relevance, and limits can be examined"
-  },
-  "modules": [
-    "philosophical-reasoning"
-  ]
+  }
 }

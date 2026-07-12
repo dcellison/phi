@@ -1,6 +1,6 @@
 # Module overlap assessment
 
-**Status:** Second implementation complete. Seventy-seven words now carry shared module classifications; thirteen base-vocabulary decisions remain open.
+**Status:** Complete. Seventy-seven words carry shared module classifications, 137 keep one module, and thirteen belong in base vocabulary.
 
 A speaker who selects Medical and Bodily Care in the lexicon explorer now sees forty-five words. The list includes the thirty roots coined for care and shared entries such as `hisophi` contaminant, `nomiki` concentration, `perawi` expose, and `mothami` baseline. That is the practical result of this review: words that belong to care are now taught there even when another profile first gave them a lexical home.
 
@@ -23,15 +23,15 @@ A high-confidence recommendation passes all four. A second-pass candidate passes
 
 ## Corpus snapshot
 
-The lexicon contains 227 module-classified entries and 330 memberships. The profiles originally coined 22 Philosophical Reasoning roots, 25 Systems and Shared Infrastructure roots, and 30 roots in each of the other six modules. Seventy-seven words now belong to more than one learning path. Of the 150 with one module classification, 137 stay there and thirteen await base-vocabulary review. Of the 227 words, 102 are cited in at least one profile document outside their original profile. Many of those citations still mark dependencies rather than shared lexical homes.
+The eight profile passes established 227 roots for possible module study. The completed review leaves 214 of them in the optional layer, with 317 memberships across the eight learning paths. Seventy-seven words belong to more than one path and 137 keep one module; the remaining thirteen have no `modules` field and appear under the explorer's base-vocabulary filter. Of the original 227 roots, 102 are cited in at least one profile document outside their original profile. Many of those citations still mark dependencies rather than shared lexical homes.
 
 | Disposition | Words | Meaning |
 |---|---:|---|
 | First-pass shared membership | 61 | Implemented with 83 additional classifications. |
 | Second-pass shared membership | 16 | Implemented with 20 additional classifications. |
-| Base-vocabulary review | 13 | Decide whether the module field should disappear instead of multiplying. |
+| Base vocabulary | 13 | Implemented by removing the module field. |
 | Retain one module | 137 | Cross-use does not move the word's lexical center. |
-| **Total** | **227** | Every current module entry has a disposition. |
+| **Total** | **227** | Every root established through the eight profile passes has a disposition. |
 
 The largest first-pass corridors were Ecological and Systems with twelve assignments, Accessibility and Commons with eleven, Systems and Work with ten, and Ecological and Medical with nine. A contaminant belongs in ecological and medical study; an interface belongs in systems and access. The counts catch that kind of overlap, not mere thematic kinship.
 
@@ -105,15 +105,15 @@ The largest first-pass corridors were Ecological and Systems with twelve assignm
 
 ## Current module sizes
 
-The two implementations create 103 additional classifications across 77 words. The vocabulary still contains 227 specialized entries; the generated module views contain 330 memberships because shared words appear wherever speakers need to find them.
+The two overlap implementations create 103 additional classifications across 77 words. Base promotion removes thirteen original classifications, so the generated module views contain 317 memberships across 214 specialized entries.
 
-| Module | Roots coined here | First-pass incoming | Second-pass incoming | Current memberships |
+| Module | Module roots coined here | First-pass incoming | Second-pass incoming | Current memberships |
 |---|---:|---:|---:|---:|
-| Philosophical Reasoning | 22 | 0 | 1 | 23 |
-| Systems and Shared Infrastructure | 25 | 9 | 3 | 37 |
-| Ecological Systems and Material Life | 30 | 10 | 2 | 42 |
-| Commons and Collective Governance | 30 | 10 | 4 | 44 |
-| Work, Craft, and Repair | 30 | 18 | 7 | 55 |
+| Philosophical Reasoning | 18 | 0 | 1 | 19 |
+| Systems and Shared Infrastructure | 24 | 9 | 3 | 36 |
+| Ecological Systems and Material Life | 27 | 10 | 2 | 39 |
+| Commons and Collective Governance | 27 | 10 | 4 | 41 |
+| Work, Craft, and Repair | 28 | 18 | 7 | 53 |
 | Medical and Bodily Care | 30 | 15 | 0 | 45 |
 | Accessibility and Participation | 30 | 13 | 2 | 45 |
 | Household and Daily Life | 30 | 8 | 1 | 39 |
@@ -122,7 +122,7 @@ Work grows the most because it sits between technical systems, household labor, 
 
 ## Second-pass decisions
 
-The expanded learning paths resolve all 29 candidates: 16 words gain 20 classifications, 11 stay in their original module, and 2 move to base-vocabulary review. Shared terms pass all four tests; retained terms describe a consequence or setting outside the second module's lexical center. For the final two, another optional label would avoid the larger question.
+The expanded learning paths resolve all 29 candidates: 16 words gain 20 classifications, 11 stay in their original module, and 2 advance to the separate base-vocabulary decision resolved below. Shared terms pass all four tests; retained terms describe a consequence or setting outside the second module's lexical center. For the final two, another optional label would avoid the larger question.
 
 ### Shared after the second pass
 
@@ -155,28 +155,28 @@ The expanded learning paths resolve all 29 candidates: 16 words gain 20 classifi
 | Household and Daily Life | `mukesi` spoil | Ecological Systems and Material Life | Spoilage names practical loss of intended use. Ecological decomposition and material change answer different questions about the same food. |
 | Household and Daily Life | `muneki` latrine | Medical and Bodily Care; Systems and Shared Infrastructure | A latrine is the daily place or fixture. Medical and Systems vocabulary describes the health consequences or treatment system around it. |
 
-## Base-vocabulary review
+## Base-vocabulary decisions
 
-Multiple labels are the wrong answer when a word is too general or too important to hide behind every relevant optional filter. These thirteen entries need a separate decision about removing their `modules` field entirely.
+Multiple labels are the wrong answer when a word is ordinary across settings or needed for safety, testimony, and basic deliberation. Base placement also requires a domain-neutral definition: a broad word does not qualify if its meaning still presupposes a specialist method or institution. All thirteen candidates meet that boundary, while their narrower neighbors remain optional.
 
-| Current module | Words | Why base placement deserves review |
+| Former module | Words | Why base placement fits |
 |---|---|---|
-| Philosophical Reasoning | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion | Phi is intended for philosophical discussion, and these four distinctions also organize ecological, medical, technical, and governance claims. Their present definitions are not tradition-specific. |
+| Philosophical Reasoning | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion | People make claims, offer evidence and reasons, and judge by criteria in ordinary disagreement as well as sustained philosophy. Premise, entailment, validity, and refutation keep the sharper optional boundary. |
 | Systems and Shared Infrastructure | `phelure` store | Someone stores food in a cupboard or water in a cistern without treating either act as systems study. The verb names ordinary retention for later retrieval. |
 | Commons and Collective Governance | `sirami` record | A durable account is ordinary vocabulary for a clinic, a workbench, a household, or a person's own memory before an institution gives it status. |
 | Commons and Collective Governance | `kawhera` coerce, `whepelo` retaliate | A speaker may need these words to discuss a coerced choice or retaliation after reporting harm, even outside formal governance study. The core invariant already protects vocabulary needed for safety. |
-| Ecological Systems and Material Life | `muralo` material, `panuri` resource | Both are broad relational nouns used throughout work, households, infrastructure, and commons decisions. The question is whether their analytical precision is specialized enough to justify optional study. |
+| Ecological Systems and Material Life | `muralo` material, `panuri` resource | Both are broad relational nouns used throughout work, households, infrastructure, and commons decisions. Their definitions ask what matter is under discussion and what is available for a purpose; neither assumes ecological study. |
 | Ecological Systems and Material Life | `howenu` weather | Weather shapes ordinary decisions about travel and shelter. Climate is the clearly specialized neighbor. |
 | Work, Craft, and Repair | `hasoru` pending | A request or result can remain pending in care, household life, or a collective process. The definition is not limited to organized work. |
 | Work, Craft, and Repair | `winora` plan | A person can plan a meal, a journey, care, or collective action without entering the Work module. The current definition is not limited to organized work. |
 
-Base promotion changes what a general learner is expected to know. It deserves its own review rather than being folded into an overlap implementation.
+Base promotion changes what a general learner is expected to know, which is why these decisions were kept separate from overlap tagging. The canonical meanings do not change; only the learning path does.
 
 ## Why the other words stay single
 
 The 137 retained entries are not isolated. They remain available to every speaker and may appear in every profile. Their one module label still names the best learning home.
 
-| Home module | First-pass shared | Second-pass shared | Base review | Retain one module |
+| Home module | First-pass shared | Second-pass shared | Moved to base | Retain one module |
 |---|---:|---:|---:|---:|
 | Philosophical Reasoning | 2 | 1 | 4 | 15 |
 | Systems and Shared Infrastructure | 16 | 3 | 1 | 5 |
@@ -203,14 +203,14 @@ The complete retained set is below. Each word may be used anywhere; the table re
 | Accessibility and Participation | `hewasu` audible, `hinawu` accommodate, `kelasu` usable, `kopharu` barrier, `lokane` accessible, `naphelu` assistive, `palethu` tactile, `ralemi` independent, `runaki` wayfind, `ruweli` access, `shoraku` interpret, `sitheku` transcribe, `thekasi` caption, `thewuni` legible | Access relations and communication forms are the point of this group. A system or institution may use the words, but access is what each definition asks the learner to notice. |
 | Household and Daily Life | `kirato` lock, `kolupe` bucket, `komalu` pillow, `lirupa` bag, `lophani` bottle, `lupaki` fold, `molupa` box, `mukesi` spoil, `muneki` latrine, `napako` bake, `norupe` spoon, `nurome` meal, `phareme` ingredient, `phelasi` shelf, `phemiru` visit, `pheomu` leftovers, `phurewa` sweep, `phurilo` broom, `sawathi` soap, `seluto` pour, `tapulo` jar, `tapuri` lid, `thekopa` recipe, `therapi` boil, `tholupi` room, `welotu` mix, `wethaki` towel, `wethamo` blanket, `wethate` laundry | A clinic or workshop may have a bottle or broom. The objects and daily actions do not become specialist vocabulary there. |
 
-## Remaining review
+## Completion and next work
 
-The canonical entries, generated reference, module profiles, and Part VII index now distinguish roots coined for a profile from the larger set classified for its learning path. The explorer reads the same `modules` arrays and shows a shared word under every applicable filter.
+The canonical entries, generated reference, module profiles, and Part VII index distinguish module roots from base vocabulary taught in the same chapters. The explorer reads the same metadata: a shared word appears under each applicable module filter, while a word without `modules` appears under base vocabulary.
 
 1. [x] Apply the high-confidence classifications with exact membership counts.
 2. [x] Regenerate the module reference and verify every shared word against the explorer's filter rule.
 3. [x] Distinguish profile coinage from current membership in profiles and speaker guides.
 4. [x] Re-read the expanded module lists and resolve all 29 second-pass candidates without using a target count.
-5. [ ] Review the thirteen base candidates separately because removing a module field changes the general learning path.
+5. [x] Review the thirteen base candidates separately and remove their module fields where broad use makes optional study the wrong home.
 
-The overlap decisions are complete. The next review asks a different question of thirteen words: whether any optional label belongs on them at all.
+The membership review is complete. The active corpus can now be read again with the full module vocabulary and its final learning paths in place.

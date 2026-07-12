@@ -21,8 +21,5 @@
   "tags": {
     "cognition": "a durable account with source and version",
     "community": "an institutional or shared record with access conditions"
-  },
-  "modules": [
-    "commons-and-collective-governance"
-  ]
+  }
 }

@@ -18,8 +18,11 @@ The new words enter a crowded house. Phi already names the dwelling, the people 
 | Cloth and rest | `wetha` cloth, `liru` fabric, `wethalu` garment, `nulae` sleep, `therilu` rest, `sulae` warm, `wuloe` soft, `kurathi` dry, `wirua` wet |
 | Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `muhena` dust, `phuri` brush, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold |
 | Choice and relations | `mirewu` private, `kanu` choose, `lesawi` consent, `nawo` agree, `naweri` refuse, `theama` care, `phowe` share, `nuawe` together |
+| Plans and open matters | `winora` plan, `hasoru` pending, `sirami` record |
+| Materials and conditions | `muralo` material, `panuri` resource, `howenu` weather, `phelure` store |
+| Pressure and reprisal | `kawhera` coerce, `whepelo` retaliate |
 
-Work, Craft, and Repair can identify a domestic task and show who carries its burden. Ecological Systems and Material Life follows household materials as they become resources, waste, or another use. Commons and Collective Governance handles claims of property and power inside a home, while Accessibility and Participation tests whether the actual arrangement works for the person using it. None of those modules turns a household into an institution or a person into an assigned domestic role.
+Work, Craft, and Repair can identify a domestic task and show who carries its burden. Ecological Systems and Material Life follows what happens to matter after household use. Commons and Collective Governance handles claims of property and institutional authority inside a home, while Accessibility and Participation tests whether the actual arrangement works for the person using it. The base rows keep those ordinary facts outside optional study. None of those module relations turns a household into an institution or a person into an assigned domestic role.
 
 ## Privacy belongs to shared core
 

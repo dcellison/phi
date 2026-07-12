@@ -21,8 +21,5 @@
   "tags": {
     "cognition": "a proposition deliberately put forward for assessment",
     "dialogue": "the public act of offering a proposition to others"
-  },
-  "modules": [
-    "philosophical-reasoning"
-  ]
+  }
 }
