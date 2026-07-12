@@ -1,0 +1,29 @@
+{
+  "word": "sirelu",
+  "gloss": "disclose",
+  "ipa": "/si.ˈre̞.lu/",
+  "syllables": [
+    "si",
+    "re",
+    "lu"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Disclose / Make Previously Bounded Information Known",
+  "description": "To make information known beyond the person or boundary that previously held it. Disclosure can be chosen, requested, compelled, accidental, or unauthorized, with each condition stated separately. 'Shane' (tell) carries an account to a listener; 'sirelu' turns on the change in who may now know it.",
+  "sound_symbolism": "Precise 'si' marks the information before 're' turns it outward. Final 'lu' lets what was held move into a wider field where it cannot simply be called back.",
+  "grammatical_notes": "A transitive verb: 'mia ha sirami sirelu.' (I disclose this record.) The recipient may take 'wei', while the source, scope, consent, and authority remain separate relations. The event-noun rule supplies disclosure.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Speech changes a secret's conditions once another person receives it. Careful attention belongs before that change, because regret cannot call the words back.",
+    "peace-linguistics-practices": "A person can discuss whether disability, health, or access information crossed a boundary without treating the request for support as permission to reveal it."
+  },
+  "tags": {
+    "cognition": "movement of previously held knowledge",
+    "community": "changing who may know bounded information",
+    "dialogue": "making information known to a new recipient"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

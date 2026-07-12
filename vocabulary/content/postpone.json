@@ -1,0 +1,29 @@
+{
+  "word": "wiresu",
+  "gloss": "postpone",
+  "ipa": "/wi.ˈre̞.su/",
+  "syllables": [
+    "wi",
+    "re",
+    "su"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Postpone / Move a Planned Activity or Decision Later",
+  "description": "To move a planned activity, action, or decision to a later time without canceling it. Postponement changes the plan itself, while 'hasi' (wait) can occur inside an unchanged plan. The new time, decision source, and effects on participants remain separate facts.",
+  "sound_symbolism": "Future-facing 'wi' sends the event forward, and 're' turns it away from the present slot. The closing 'su' sets it down at a later place in the plan.",
+  "grammatical_notes": "A transitive verb: 'lo mia ha lona wiresu.' (We postpone this meeting.) The event-noun rule supplies a postponement. A future phrase can name the new time, while Commons authority terms can identify who made or contested the change.",
+  "pillars": {
+    "solarpunk-values": "Shared plans remain answerable to weather, care, access, and material conditions instead of treating the first calendar entry as immovable.",
+    "peace-linguistics-practices": "Postponement can protect participation when a group needs more time, and the same word leaves room to name when delay shifts the burden onto someone else."
+  },
+  "tags": {
+    "activity": "moving a planned action to a later time",
+    "community": "a schedule change affecting shared participation",
+    "temporal": "later placement without cancellation"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

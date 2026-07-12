@@ -1,0 +1,29 @@
+{
+  "word": "runaki",
+  "gloss": "wayfind",
+  "ipa": "/ru.ˈn̪ä.ki/",
+  "syllables": [
+    "ru",
+    "na",
+    "ki"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Wayfind / Establish and Maintain Direction Through a Place",
+  "description": "To establish and maintain one's location and direction while moving through a physical or informational place. Wayfinding may draw on landmarks and markers, memory or touch, sound or assistance. 'Kulo' (guide) names leading by an agent; 'runaki' keeps the traveler as the one finding the way.",
+  "sound_symbolism": "Moving 'ru' enters the route, while grounded 'na' holds the traveler's present position. Final 'ki' is the small clear point of a marker found in time.",
+  "grammatical_notes": "An intransitive verb that may take an instrumental phrase: 'mia roe lo siru runaki.' (I find my way using the markers.) A route or destination can appear in the usual spatial phrases. The event-noun rule supplies wayfinding as an activity.",
+  "pillars": {
+    "solarpunk-values": "A public path works differently when its turns can be found without requiring one familiar guide beside every traveler.",
+    "peace-linguistics-practices": "The verb preserves the traveler's direction over the act even when another person or device supplies information."
+  },
+  "tags": {
+    "activity": "maintaining orientation while moving",
+    "cognition": "using cues to establish location and direction",
+    "spatial": "finding a route through a physical or informational place"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

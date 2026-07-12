@@ -1,0 +1,29 @@
+{
+  "word": "naphelu",
+  "gloss": "assistive",
+  "ipa": "/n̪ä.ˈɸe̞.lu/",
+  "syllables": [
+    "na",
+    "phe",
+    "lu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Assistive / Supporting a Chosen Function or Access Need",
+  "description": "Designed or used to support a person's chosen activity, function, or access requirement. A device, communication practice, or arrangement may be assistive in one context and ordinary in another; 'naphe' (help) names an act of aid, while 'naphelu' marks the supporting role something has.",
+  "sound_symbolism": "The first two syllables carry the full sound of 'naphe' (help). 'Lu' settles that momentary action into a continuing property of a tool or practice.",
+  "grammatical_notes": "A predicative or attributive adjective: 'ha keli naphelu nai.' (This device is assistive.) It commonly modifies 'keli' (device), 'norae' (method), or 'phelotu' (format). The quality-noun rule supplies assistiveness when the property itself is discussed.",
+  "pillars": {
+    "solarpunk-values": "A tool earns the description through the function and access it supports, whether it is handmade, digital, shared, or personal.",
+    "peace-linguistics-practices": "Calling a device assistive describes its role without making its user passive or granting anyone authority over its use."
+  },
+  "tags": {
+    "activity": "supporting a chosen function or action",
+    "creation": "a device or practice shaped for an access purpose",
+    "physical": "support for bodily or sensory access"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

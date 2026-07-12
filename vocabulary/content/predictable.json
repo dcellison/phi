@@ -1,0 +1,28 @@
+{
+  "word": "sanowu",
+  "gloss": "predictable",
+  "ipa": "/sä.ˈn̪o̞.wu/",
+  "syllables": [
+    "sa",
+    "no",
+    "wu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Predictable / Reasonably Anticipated From Available Information",
+  "description": "Able to be reasonably anticipated from information available before the event. A schedule, sequence, interface, or recurring practice may be predictable enough for preparation without being certain or unchangeable. 'Koluri' (reliable) concerns repeated function; 'sanowu' concerns what a person can know ahead of time.",
+  "sound_symbolism": "The first two syllables echo 'sano' (know) and put an intelligible pattern before the event. 'Wu' opens that knowledge toward what has not happened yet.",
+  "grammatical_notes": "A predicative or attributive adjective: 'ha thimora sanowu nai.' (This schedule is predictable.) The information source, observer, time horizon, and remaining uncertainty can appear separately. The quality-noun rule supplies predictability.",
+  "pillars": {
+    "peace-linguistics-practices": "Predictable timing lets a participant prepare instead of discovering every demand at the moment another person expects an answer.",
+    "pre-industrial-wisdom": "Seasonal work relied on patterns that could be read without pretending weather, birth, harvest, or illness would obey a perfect clock."
+  },
+  "tags": {
+    "cognition": "an event or pattern that can be anticipated from available information",
+    "temporal": "advance knowability of timing or sequence"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

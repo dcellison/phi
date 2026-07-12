@@ -8,6 +8,43 @@
 *Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study.*
 
 
+## Accessibility and Participation
+
+*30 module words.*
+
+| Word | Gloss | Part of speech | Concept |
+|---|---|---|---|
+| `hasenu` | recess | noun | Recess |
+| `hewasu` | audible | adjective | Audible |
+| `hinawu` | accommodate | verb | Accommodate |
+| `kelasu` | usable | adjective | Usable |
+| `kopharu` | barrier | noun | Barrier |
+| `lokane` | accessible | adjective | Accessible |
+| `loshenu` | clearance | noun | Clearance |
+| `misharo` | consult | verb | Consult |
+| `murethi` | impairment | noun | Impairment |
+| `naphelu` | assistive | adjective | Assistive |
+| `palethu` | tactile | adjective | Tactile |
+| `pharomu` | exclude | verb | Exclude |
+| `phelotu` | format | noun | Format |
+| `pushali` | overload | verb | Overload |
+| `ralemi` | independent | adjective | Independent |
+| `runaki` | wayfind | verb | Wayfind |
+| `ruweli` | access | verb | Access |
+| `samethu` | equivalent | adjective | Equivalent |
+| `sanowu` | predictable | adjective | Predictable |
+| `shaweri` | advocate | verb | Advocate |
+| `shoraku` | interpret | verb | Interpret |
+| `sirelu` | disclose | verb | Disclose |
+| `sitheku` | transcribe | verb | Transcribe |
+| `thekasi` | caption | verb | Caption |
+| `thewuni` | legible | adjective | Legible |
+| `thimelo` | pace | noun | Pace |
+| `thosami` | compatible | adjective | Compatible |
+| `thunesi` | asynchronous | adjective | Asynchronous |
+| `wheparu` | discriminate | verb | Discriminate |
+| `wiresu` | postpone | verb | Postpone |
+
 ## Commons and Collective Governance
 
 *30 module words.*

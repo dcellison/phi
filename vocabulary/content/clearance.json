@@ -1,0 +1,29 @@
+{
+  "word": "loshenu",
+  "gloss": "clearance",
+  "ipa": "/lo̞.ˈʃe̞.n̪u/",
+  "syllables": [
+    "lo",
+    "she",
+    "nu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Clearance / Free Space Needed for Passage or Operation",
+  "description": "The free room available for a stated passage or operation, whether the relevant measure is width, height, depth, or space to turn. Clearance belongs to an object and action together. A doorway may be wide enough for one device and still lack turning room beyond it. Exact dimensions and source specifications remain separately presented when their notation matters.",
+  "sound_symbolism": "Broad 'lo' opens the space. Quiet 'she' lets movement pass without collision. 'Nu' gives the opening a measurable edge.",
+  "grammatical_notes": "A mass or countable noun according to context: 'ha ponu loshenu phelu.' (This door has clearance.) Measurements, direction, and the moving object can appear in surrounding clauses. Distinct from general 'tholu' (space) and the adjective 'losha' (wide).",
+  "pillars": {
+    "solarpunk-values": "Clearance turns a drawing's empty patch into a question about a real body or device moving through the built place.",
+    "pre-industrial-wisdom": "Builders long worked from the sweep of a door, the reach of a hand, and the turning of a cart. A bare dimension never told the whole story of usable room."
+  },
+  "tags": {
+    "activity": "free room for a stated movement or operation",
+    "creation": "a designed spatial allowance around an object",
+    "spatial": "width, height, depth, or turning room kept clear"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "thimelo",
+  "gloss": "pace",
+  "ipa": "/θi.ˈme̞.lo̞/",
+  "syllables": [
+    "thi",
+    "me",
+    "lo"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Pace / Rate and Rhythm at Which an Activity Proceeds",
+  "description": "The rate and rhythm at which an activity, exchange, or sequence proceeds. Pace can change within one event and can be too fast, too slow, or uneven for a stated participant and purpose. 'Thimu' (time) names the broader dimension; 'thimelo' names how movement is distributed through it.",
+  "sound_symbolism": "Time-associated 'thi' begins the measure, and centered 'me' holds an interval. Final 'lo' opens into continued movement rather than a fixed endpoint.",
+  "grammatical_notes": "A noun often modified by speed or comparison words: 'ha thimelo sheru nai.' (This pace is slow.) A possessor may name the meeting, task, speech, or route whose pace is being discussed. Distinct from 'thimora' (schedule) and 'lumethi' (deadline).",
+  "pillars": {
+    "secular-buddhist-philosophy": "Attention has a pace; forcing every perception or decision into the same interval can hide what slower notice would reveal.",
+    "peace-linguistics-practices": "Naming pace makes speed negotiable instead of treating the fastest speaker or process as the natural clock for everyone."
+  },
+  "tags": {
+    "activity": "rate and rhythm of a continuing action",
+    "dialogue": "speed at which an exchange proceeds",
+    "temporal": "movement distributed through time"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

@@ -1,107 +1,103 @@
 # Accessibility and Participation
 
-**Status:** **Profile** - cross-domain experimental organization, zero new roots.
+**Status:** **Established vocabulary module** with 30 optional roots and shared-core `sowelu` disabled.
 
 ## Charter
 
-This profile gathers existing Phi resources for identifying environmental and procedural barriers, requesting changes, choosing communication practices, preserving autonomy, and participating in shared activity. Accessibility is treated as a relationship among a person, an activity, an environment, a communication form, and a decision process, not as a defect located in a body.
+A doorway, document, meeting pace, or offer of help can change whether a person reaches an activity and keeps direction over their part in it. This module gathers the words needed to describe that relation without requiring a diagnosis. Accessibility remains a relation among a person, an activity, an environment, a communication form, and time.
 
-The profile is not a diagnosis system, disability taxonomy, legal-compliance standard, professional credential, or universal design specification. It does not claim that access has been achieved merely because help was offered, exact information was carried, a person was physically present, or a meeting reached a decision.
+The module adds vocabulary only. Phi keeps one grammar and one particle system, and every new word follows the ordinary event-noun or quality-noun rules where its part of speech permits.
 
 ## Boundaries
 
-- Disability and accessibility are not subsets of sickness or medicine. No diagnosis, impairment label, medical record, or personal disclosure is required before someone can state what they need, refuse an offer, or participate.
-- A person's own identity term or exact account must not be replaced by a supposedly simpler core paraphrase. Preserve source wording when changing it would erase identity, testimony, legal force, or a relevant distinction.
-- Help, support, interpretation, representation, and authority are not interchangeable. An offer to assist does not license touching, carrying, speaking for, deciding for, or disclosing information about another person.
-- Presence, reception of words, understanding, contribution, participation, agreement, endorsement, `lesawi` consent, and readiness to decide remain distinct even where Phi expresses several through clauses and context. [Commons and Collective Governance](commons_and_collective_governance.md) organizes the decision-process side without treating meeting presence as inclusion or authority.
-- One route, format, device, schedule, or form of assistance must not be presented as serving everyone. Access needs may conflict, change, or impose burdens that require an explicit decision rather than a ceremonial promise of inclusion.
-- Heat, weather, water, vegetation, terrain, smoke, and material changes overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). An intervention described as green, natural, protective, or regenerative does not establish that a route, place, schedule, warning, or participation process became accessible.
-- Work tasks, tools, learning, assistance, bodily capacity, safety instructions, and participation overlap [Work, Craft, and Repair](work_craft_and_repair.md). A role, skill claim, prior commitment, or offered task does not remove the need for an accessible environment, bounded permission, refusal, rest, or a changed way to participate.
-- Phi retains one grammar. This profile adds no accessibility particle, consent syntax, parser mode, professional register, or incompatible construction.
+| Boundary | Module handling |
+|---|---|
+| Disability and medicine | `sowelu` disabled can name identity or lived relation without implying disease. `murethi` impairment remains distinct from Medical symptoms, findings, diagnosis, treatment, and recovery. |
+| Assistance and direction | `naphelu` assistive and `hinawu` accommodate describe support and change. `ralemi` independent keeps direction over the act with the person, even when tools or other people are involved. |
+| Participation and decisions | `pawela` participate, `shorema` contribute, `nawo` agree, `lesawi` consent, and Commons decision authority remain separate. A person can participate, disagree, and need more time in the same account. |
+| Identity and testimony | Broad `sowelu` does not replace a person's chosen identity term or exact account. Source wording stays beside the Phi passage when changing it would erase the distinction the person meant. |
+| Environment and ecology | Heat, smoke, terrain, weather, water, and material conditions can become access barriers. Ecological evidence identifies those conditions; this module identifies their relation to access and participation. |
+| Technical claims | `kelasu` usable, `thosami` compatible, `loshenu` clearance, and `sanowu` predictable are bounded claims. Exact values, versions, test methods, and standards retain their source form. |
 
-## Shared Core Dependencies
+## Shared core dependencies
 
-These are existing Phi roots and function words. The profile indexes them without moving them from the shared lexicon, restricting their use elsewhere, or assigning them technical accessibility meanings.
+The profile uses these ordinary Phi resources without moving them into the module.
 
-| Area | Existing resources | Current reach |
+| Area | Existing resources | Work they already do |
 |---|---|---|
-| Participation and agency | `pawela` participate, `shorema` contribute, `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `nawea` respect, `ralu` free, `phelona` require | Speakers can take part, contribute, choose, give or withdraw bounded consent, accept or refuse, and state a requirement. These resources do not conventionalize supported decision-making, proxy authority, independent access, or the conditions that make a consent process informed and free. |
-| Communication and understanding | `phelui` word, `haolu` speak, `hea` hear, `sheluo` listen, `thekiro` write, `theo` read, `shelomu` understand, `lilea` clarify, `shorela` rephrase, `shekoi` specify, `shelao` summarize | Speakers can change between broad spoken and written practices and request repair, but Phi does not identify a communication format, guarantee semantic equivalence, or distinguish receiving content from being able to use it. |
-| Timing, pacing, and preparation | `thimu` time, `wireo` future, `phoe` before, `pheo` after, `weno` when, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow | Speakers can order events, wait, rest, prepare, and describe slower action. They cannot conventionally distinguish advance notice, processing time, a break, postponement, predictable scheduling, and delay used as exclusion. |
-| Space, movement, and safety | `ponu` door, `ruela` path, `shoeka` route, `lokue` place, `lona` meeting, `koema` enter, `wepu` go, `losha` wide, `hieru` narrow, `shurano` safe, `pukea` danger | Speakers can state environmental conditions and whether a route or action is possible and safe, but current Phi has no general access relation connecting a person, environment, activity, and requirement. |
-| Support and shared action | `naphe` help, `panoru` support, `theama` care, `shorupo` protect, `keli` device, `loa` give, `howela` receive, `phowe` share, `nua` accompaniment, `nuawe` together | Speakers can offer or receive help, use a device, and act with others. The vocabulary does not by itself distinguish accommodation from ordinary help, assistance from control, or shared activity from dependence. |
-| Evidence, modality, and exact information | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `masue` measure, `siru` marker, `sirami` record, and separately preserved source material | Speakers can mark a claimed source, discuss specifications, and state possibility or necessity. Evidence markers do not establish another person's need, `po` does not inherently mean permission, and source preservation does not establish practical access. |
+| Agency | `kanu` choose, `lesawi` consent, `naweri` refuse, `nawo` agree, `kelomi` accept, `thekao` acknowledge, `ralu` free, `phelona` require | A person can choose, refuse, name a requirement, and keep consent attached to one affecting action. |
+| Participation | `pawela` participate, `shorema` contribute, `pharune` include, `nuawe` together | Participation, contribution, inclusion, and shared action remain separate enough to describe an outcome rather than promise one. |
+| Communication | `sheori` communicate, `haolu` speak, `hea` hear, `thekiro` write, `theo` read, `shelomu` understand, `lilea` clarify, `shorela` rephrase, `shelao` summarize | Speakers can repair meaning and move between speech and writing before choosing a specialized format word. |
+| Time | `thimu` time, `phoe` before, `pheo` after, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow | Clauses can place information before action and make room for thought or rest. |
+| Movement and safety | `ponu` door, `ruela` path, `shoeka` route, `koema` enter, `wepu` go, `losha` wide, `hieru` narrow, `shurano` safe, `pukea` danger | The environment can be described before the access relation is named. |
+| Support and evidence | `naphe` help, `panoru` support, `keli` device, `masue` measure, `siru` marker, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption | Help, tools, measurements, and evidence remain visible around any claim that access was achieved. |
 
-## Optional Cross-Module Dependencies
+`sowelu` joins this shared core. Disability is identity and ordinary life vocabulary before it is a specialist subject.
 
-The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `howenu` weather, `meluri` climate, `phaluwe` flood, `kuramo` drought, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `muralo` material, and `somethi` monitor. Access speakers may use these words to state environmental conditions and changes precisely, but none identifies an access barrier, another person's need, an acceptable burden, a suitable intervention, or authority to monitor people. Keep bodily reports, requested changes, refusal, participation, and environmental analysis separate.
+## Cross-module dependencies
 
-The established [Commons and Collective Governance module](commons_and_collective_governance.md) supplies `wemari` member, `shalori` represent, `sithora` role, `loatho` delegate, `karami` authority, `kanuwa` authorize, `norathu` procedure, `kanuro` decision, `makelu` abstain, `shanewi` notify, `sirami` record, `tukiro` review, `whetuma` appeal, `kawhera` coerce, and `whepelo` retaliate. These words can identify governance relations around access, but authorization is not consent, notification is not accessible receipt, representation is not faithful interpretation, procedure is not participation, and a decision does not establish that access was achieved.
-
-The established [Medical and Bodily Care module](medical_and_bodily_care.md) supplies `phamori` symptom, `hisaro` clinical finding, `kaworu` injury, `mokanu` disease, `pelaku` severity, `kithero` diagnose, `nephoru` treat, `thekamu` intervene, `helanu` recover, and public-health terms. Access speakers may use these words wherever their definitions fit, but no symptom, finding, diagnosis, treatment, severity claim, or recovery goal is required before a person can name an environmental barrier, request a change, refuse assistance, consent to one action, or participate.
-
-## Current Practices and Limits
-
-| Need | Current Phi strategy | Important limit |
+| Module | Resources used here | Boundary kept visible |
 |---|---|---|
-| Describe an environmental mismatch | State the relevant condition, the intended activity, and whether the action is possible, required, or safe. | A blocked action does not identify whether the cause is a barrier, an access rule, missing support, danger, or an unrelated practical limitation. |
-| Request a communication change | Ask speakers to write, speak, repeat through rephrasing, clarify, specify, summarize, wait, or provide words before an activity. | Spoken and written practices are broad categories; current Phi lacks conventional terms for format, captioning, description, tactile material, a named signed language, or interpretation. |
-| Ask before assisting | Use a polite whole-clause question with `pi wa`, state the proposed action, and receive explicit `lesawi` consent or another answer before acting. | `lesawi` has a bounded scope but does not by itself state duration, conditions, understanding, withdrawal, or whether the helper would gain representational authority. |
-| Refuse and preserve agency | Use `naweri` or explicit non-agreement, acknowledge with `thekao`, and state which action will stop or change; identify withdrawn `lesawi` consent where relevant. | Refusal of an action, disagreement with a proposal, refusal of a person, and withdrawal of prior consent may still require additional clauses to remain distinct. |
-| Allow time and preparation | Use `phoe`, `hasi`, `therilu`, `thilonu`, and explicit future clauses to place information and thought before participation or decision. | Waiting has no inherent ethical direction. It may enable access, defer responsibility, create another burden, or exclude someone through delay. |
-| Contribute without agreeing | State understanding, contribution, participation, agreement or disagreement, `lesawi` consent, and decision authority in separate clauses or proposition frames. | The strategy is transparent but not compact; naming one relation does not establish any of the others. |
-| Preserve exact access information | Keep the complete source term, dimension, specification, instruction, standard, identity wording, or record outside the Phi passage. | Exact material may still be unavailable in practice if its format, explanation, or timing does not serve the recipient. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | `shalori` represent, `loatho` delegate, `karami` authority, `kanuwa` authorize, `norathu` procedure, `kanuro` decision, `shanewi` notify, `tukiro` review, `kawhera` coerce | Representation, authority, notice, and procedure can shape access without proving participation or consent. |
+| [Work, Craft, and Repair](work_craft_and_repair.md) | `winora` plan, `thimora` schedule, `lumethi` deadline, `noporu` design, `kisholu` specification, `somaki` test, `ritako` workload | A design or schedule can be exact and still fail a person in use. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `nowiso` interface, `koluri` reliable, `sherani` redundant, `henora` capacity, `kiphira` fault | Technical performance and access answer different questions about the same tool or service. |
+| [Medical and Bodily Care](medical_and_bodily_care.md) | `phamori` symptom, `hisaro` clinical finding, `mokanu` disease, `kithero` diagnose, `nephoru` treat, `helanu` recover | Medical words remain available when health is the subject; no medical claim is the price of asking for access. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `howenu` weather, `phaluwe` flood, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `somethi` monitor | Environmental conditions can create barriers, while an access report alone does not establish their ecological cause. |
+| [Philosophical Reasoning](philosophical_reasoning.md) | definitions, criteria, evidence, inference, uncertainty, tradeoffs, and compromise | Access claims can be examined without turning a negotiated compromise into a universal solution. |
 
-## Scenario Evidence
+## First vocabulary pass
 
-- [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) places barriers in a doorway and spoken meeting format, tests refusal of being carried, supplies two different changes, and connects access to participation.
-- [Words before the meeting](../philosophical_test_corpus.md#10-words-before-the-meeting) moves the barrier into timing and decision procedure, tests advance material, reading and thought, rephrasing, proxy refusal, written contribution, and participation without agreement.
-- [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care), now organized by [Medical and Bodily Care](medical_and_bodily_care.md), supplies boundary evidence: consent, refusal, explanation, and exact information also matter in bodily care, but access must not be absorbed into a medical category.
-- [The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair), now organized by [Work, Craft, and Repair](work_craft_and_repair.md), supplies boundary evidence: pain, inability, refusal, method explanation, and a choice to observe rather than touch a tool keep bodily capacity and participation separate from diagnosis or compulsory assistance.
+The first pass admits 30 optional words. It also places `sowelu` disabled in shared core so identity does not disappear behind an optional module selector.
 
-These are scripted regression texts by one maintainer. They demonstrate useful compositions and recurring failures, not the experience of disabled people generally, legal adequacy, or successful access for another reader. The craft-repair scenario does not complete this profile's next-use test because it includes only one explicit bodily access need, no requested environmental change, and no preparation or rest interval.
-
-## Comparative Findings
-
-| Finding | Evidence status | Consequence for this profile |
+| Family | Established words | New reach |
 |---|---|---|
-| Barriers may be architectural, communicative, temporal, semantic, or procedural rather than bodily | **Recurring** across scenarios 9 and 10 | Organize descriptions around the person-activity-environment relation and avoid requiring medical vocabulary. |
-| Different people and activities require different changes | **Recurring** across routes, written reception, advance material, and written contribution | Keep route, format, timing, and support resources separate; do not define one generic intervention as sufficient. |
-| Consent, refusal, and acknowledgement protect autonomy across domains | **Recurring** in bodily care and both access scenarios | Use shared-core `lesawi` for bounded consent while keeping explanation, freedom, scope, withdrawal, refusal, and the action that follows explicit. |
-| Communication must support contribution, not merely reception | **Recurring**, with greater depth in scenario 10 | Distinguish hearing or reading words from understanding, contributing, and participating. |
-| Participation does not imply agreement or readiness to decide | **Demonstrated** directly in scenario 10 and supported by philosophical repair practice | Teach separate clauses for each stance and preserve endings with understood disagreement. |
-| Advance notice, processing time, and a held decision are distinct access practices | **Provisional**, one scenario | Include them in retrieval guidance and the next test, but do not treat them as established lexical gaps. |
-| Speaking to, assisting, and representing someone are distinct relations | **Provisional**, exposed by `wei` in one scenario | Preserve the ambiguity in the gap inventory and test another proxy or interpretation case before proposing a convention. |
-| Asynchronous contribution may enable participation | **Provisional**, one written-response case | Test outside a meeting before treating asynchronous participation as a stable profile practice. |
+| Access relation | `ruweli` access, `lokane` accessible, `kopharu` barrier, `hinawu` accommodate | Reach and use can be distinguished from participation; a barrier can sit in architecture, communication, timing, or procedure; an accommodation names the particular change. |
+| Function and direction | `murethi` impairment, `ralemi` independent, `naphelu` assistive | Functional difference stays separate from disability, independence can include support, and a tool can be described by the chosen function it assists. |
+| Practical fit | `kelasu` usable, `thosami` compatible, `loshenu` clearance, `runaki` wayfind | A person can challenge provision at the point of use, compare technical fit, name movement room, and describe finding a route without surrendering direction to a guide. |
+| Communication | `phelotu` format, `thekasi` caption, `sitheku` transcribe, `shoraku` interpret | Content can change form, follow an event in timed text, become a stable transcript, or cross a language or mode boundary. |
+| Perceptual properties | `palethu` tactile, `samethu` equivalent, `thewuni` legible, `hewasu` audible | Touch, reading, hearing, and bounded equivalence become properties that can be tested for a stated person and purpose. |
+| Time and demand | `thimelo` pace, `hasenu` recess, `wiresu` postpone, `thunesi` asynchronous, `sanowu` predictable, `pushali` overload | An activity's speed, an internal pause, a moved event, participation across different times, advance knowability, and excess demand no longer share the single verb `hasi` wait. |
+| Participation and power | `misharo` consult, `pharomu` exclude, `wheparu` discriminate, `sirelu` disclose, `shaweri` advocate | Speakers can say whether an affected view informed action, who was kept out, how a category shaped harm, where private information traveled, and whose position received active support. |
 
-## Source Material Guidance
+All 30 module entries carry `accessibility-and-participation`. `sowelu` carries no module field and appears in the base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
-Keep a person's disability or identity wording, the name of a signed language or communication system, legal or institutional terms, access plans, technical standards, dimensions, device specifications, identifiers, source instructions, and testimony outside the Phi passage when exact source form matters. Preserve spelling, script, notation, and wording without silent normalization or translation.
+## Concepts kept compositional or external
 
-Use existing vocabulary, a transparent expression, a module term, or a fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not become a diagnosis, identity assignment, professional category, or Phi definition.
-
-Describe the practical relation in Phi where useful: who intends to do what, which environmental or procedural condition blocks it, what change is requested, what was accepted or refused, and whether participation became possible. Do not claim that this analysis exhausts the separately preserved source term.
-
-A separately presented label such as `accessibility` or `reasonable accommodation` preserves a source category but does not identify a route, communication practice, time requirement, authority relation, or implementation. Exact preservation is necessary when wording matters and insufficient when action matters.
-
-## Vocabulary Pass Inventory
-
-| Vocabulary family | Concepts to review | Useful examples or considerations |
+| Concept | Phi strategy | Reason to keep the parts visible |
 |---|---|---|
-| Access relation | barrier, accessible or inaccessible, access requirement, independent access, environmental fit | A non-meeting scenario that holds the person and activity constant while changing environmental conditions. |
-| Communication practice | format, captioning, description, tactile material, interpretation, named signed language, communication preference | Respectful scenarios involving communication practices beyond generic speech and writing, with source-specific terms carried exactly where needed. |
-| Timing and cognitive access | processing time, predictable sequence, break, postponement, decision deadline; reuse `shanewi` for notice while stating how far in advance it occurs | Repeated cases where `phoe`, `hasi`, `therilu`, `thilonu`, and notification still fail to distinguish the relevant timing relation. |
-| Support and authority | accommodation, assistance, decision support, interpreter role, proxy; reuse `shalori`, `sithora`, `loatho`, `karami`, and `kanuwa` for representation and authority where their definitions fit | Independent cases contrasting help, faithful interpretation, speaking for someone, and deciding for someone. |
-| Participation and governance | consultation, asynchronous contribution, exclusion, decision hold, participation without presence, authority to close a decision; reuse the Commons procedure and decision terms | Collective decisions with several contributors and no assumption that presence, voting, or consensus settles access. |
-| Technical environment | dimension, clearance, compatibility, wayfinding, alert, reliability, applicable standard | Exact source specifications paired with core descriptions showing how the data changes practical access and safety. |
-| Identity, testimony, and harm | disability, impairment, access identity, discrimination, denial of access, coercive disclosure; reuse `kawhera` for coercion where its definition fits | First-person or source-faithful scenarios reviewed for whether a core paraphrase erases identity, agency, responsibility, or harm. |
+| Access requirement | Use `ruweli` or `lokane` with `phelona` and the exact activity | The requirement remains attached to a person, action, and set of conditions. |
+| Advance notice | Use `shanewi` notify with an explicit clause placing the notice before the event | The actual interval and the information delivered do more work than a label. |
+| Processing time | Use `theo`, `remo`, `hasi`, and `thimu` in ordinary clauses | Reading, thought, waiting, and readiness to decide remain separately answerable. |
+| Decision support | Use `panoru` support with `kanuro` decision and the chosen action | Support does not quietly become proxy authority. |
+| Proxy or interpreter role | Use Commons role, representation, delegation, and authorization words around `shoraku` interpret | Language mediation, speaking for someone, and deciding for them keep different sources. |
+| Assistive device or technology | Use `naphelu keli` with Systems interface and compatibility terms where useful | The supporting function, actual device, and technical relation stay visible. |
+| Accessible or universal design | Use `lokane` with `noporu` design and the people and activities considered | Exact source doctrines keep their own wording, while Phi states whose use informed the design. |
+| Spoken description and text alternative | Use `haolu` or `thekiro` with `thelima` describe | The source content, chosen format, timing, and intended recipient remain explicit. |
+| Communication preference | Use `phelotu` with `kaeli` like or `kanu` choose | Preference does not claim that a format is accessible or available. |
+| Reasonable accommodation | Use `hinawu` for the practical action and preserve the exact legal phrase externally | The source term carries a jurisdiction-specific test that the general Phi verb does not reproduce. |
+| Named signed language, Braille system, standard, or file format | Preserve the source name beside the Phi passage and describe the relevant `phelotu` format | Exact identity, script, version, and technical force survive the explanation. |
+| Exact dimensions and access plans | Preserve the source artifact and use `loshenu`, `kisholu`, `masue`, or `winora` around it | A Phi account can explain what the value changes without replacing the value or plan. |
 
-Barrier, format, access requirement, independent participation, timing, support, authority, and environmental fit are leading candidates for the accessibility vocabulary pass. Core versus module placement remains an organizational choice, and every definition must preserve consent, safety, identity, testimony, and communication without medicalizing disability.
+## Scenario evidence
 
-## Vocabulary Pass Starting Point
+[A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) places one barrier in a narrow entrance and another in a loud meeting. A refuses being carried. A wider route and written words produce two different access changes, then `pawela` records the result.
 
-An original shared-workshop scenario outside a meeting can provide examples for the first accessibility module terms. It may include two participants who require different environmental, communication, or timing changes; one exact safety instruction or specification; one offer of help that is refused or modified; one change of communication practice; time to prepare or rest; and an outcome in which each person can choose whether and how to participate without disclosing a diagnosis.
+[Words before the meeting](../philosophical_test_corpus.md#10-words-before-the-meeting) moves the barrier into timing and procedure. A participant needs the words early, time to read and think, clarification, and a written way to contribute. They refuse proxy speech, participate, and remain in disagreement.
 
-Use the scenario and existing profile to identify every participant, intended activity, barrier, requested change, evidence source, permission, refusal, timing relation, and participation outcome that needs a clear expression.
+[A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) keeps the medical boundary visible. Consent, explanation, refusal, and exact information recur in care, but an access need does not become a symptom or treatment decision.
 
-Retain compositions that expose the access relation clearly and coin complete module entries wherever dedicated terms improve participation. No delayed reading or repeated-failure prerequisite is required.
+[The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) keeps the work boundary visible. Pain, changed method, rest, observation, and refusal affect participation without turning a craft role into authority over another person's body.
+
+The dialogues remain before-state regression texts. Their compositions are still grammatical, and the later corpus review can decide where a module word makes the exchange more direct.
+
+## Source material guidance
+
+Keep a person's chosen identity wording, the name of a language or communication system, a legal category, an access plan, a technical standard, a device model, a source instruction, and an exact measurement outside the Phi passage when source form matters. Phi can point to the artifact, explain it, and name the access relation around it.
+
+The module words carry no professional credential or compliance result. `Thekasi` says caption; a source standard says which captions satisfy that standard. `Hinawu` says accommodate; a law or policy supplies its own test. `Sowelu` says disabled; the person supplies the identity they mean.
+
+## Continued development
+
+Use the module wherever access becomes part of an ordinary activity: a workshop or home, a public route, a digital system, a care conversation, or a collective decision. Later use may expose missing words for orientation and fatigue, communication and sensory conditions, or institutional harm. Coin them when Phi needs them instead of forcing every new experience through this first set.
+
+Household and Daily Life remains the final active profile without a vocabulary pass. After it is established, assess genuine multi-module membership and then revisit the active corpus as one body of writing.

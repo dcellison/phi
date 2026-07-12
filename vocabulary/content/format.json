@@ -1,0 +1,29 @@
+{
+  "word": "phelotu",
+  "gloss": "format",
+  "ipa": "/ɸe̞.ˈlo̞.t̪u/",
+  "syllables": [
+    "phe",
+    "lo",
+    "tu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Format / Chosen Form in Which Content Is Presented",
+  "description": "The chosen sensory, linguistic, spatial, or technical form in which content is presented and received. The same message may be spoken, written, captioned, or made tactile, yet its wording and practical effect can still differ. Exact file types, encodings, and named communication systems remain source terms when their identity matters.",
+  "sound_symbolism": "Breathy 'phe' places expressed content at the front of the word. Open 'lo' gives it a form to occupy, and dental 'tu' closes the edge around that presentation.",
+  "grammatical_notes": "A countable noun: 'mia ha phelotu kanu.' (I choose this format.) A possessor may name the content, while adjectives can identify tactile, legible, audible, or accessible properties. Distinct from 'haluma' (language), 'phelui' (word), and 'norae' (method).",
+  "pillars": {
+    "art-nouveau-aesthetics": "Form changes how information is encountered; a page under the fingers and a voice in a room ask different things of the body.",
+    "peace-linguistics-practices": "Naming the format makes it possible to ask whether communication reached someone in a form they could use."
+  },
+  "tags": {
+    "creation": "the shaped presentation of content",
+    "dialogue": "a communication form selected for sending and receiving meaning",
+    "physical": "a sensory form such as audible, visual, or tactile presentation"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

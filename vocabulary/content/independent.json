@@ -1,0 +1,28 @@
+{
+  "word": "ralemi",
+  "gloss": "independent",
+  "ipa": "/rä.ˈle̞.mi/",
+  "syllables": [
+    "ra",
+    "le",
+    "mi"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Independent / Acting Under One's Own Direction",
+  "description": "Acting under one's own direction without another person substituting their will or withholding permission needed for the act. Independence can include a device, chosen assistance, or interdependence with others. 'Sonu' (alone) describes company; 'ralemi' describes control over the action.",
+  "sound_symbolism": "Open 'ra' recalls the room carried by 'ralu' (free). Liquid 'le' keeps connection available, and final 'mi' returns the direction of action to the person at its center.",
+  "grammatical_notes": "A predicative or attributive adjective: 'shia ralemi nai.' (They are independent.) The surrounding phrase can name the activity and the support involved. The quality-noun rule supplies independence without implying isolation.",
+  "pillars": {
+    "solarpunk-values": "Shared tools and mutual aid can increase independence when the person using them keeps direction over the act.",
+    "peace-linguistics-practices": "The word denies helpers an easy equation between receiving assistance and surrendering choice."
+  },
+  "tags": {
+    "activity": "acting under one's own direction",
+    "community": "agency that can coexist with chosen support"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

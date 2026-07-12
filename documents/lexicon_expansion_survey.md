@@ -1,6 +1,6 @@
 # Lexicon Expansion Survey (2026-07-10)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,101 entries: 971 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,132 entries: 1,002 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -73,9 +73,11 @@ The [Medical and Bodily Care module](modules/medical_and_bodily_care.md) now est
 
 The pass keeps informed consent as an explicit process; tests, thresholds, risk, false results, exact procedures and therapies, prescriptions and medicine identities, remission and recurrence, clinical roles, care plans, handoffs, specimens, urgency, prevention, and exact public-health categories compositional, cross-module, or external as appropriate. Mental health, reproductive health, sexuality, gender, abuse, and coercive care remain scenario-gated, while disability and environmental access remain coordinated with Accessibility rather than absorbed into disease vocabulary.
 
-### Accessibility and participation
+### Accessibility and participation: first pass complete
 
-The [Accessibility and Participation profile](modules/accessibility_and_participation.md) organizes route, format, timing, rephrasing, proxy refusal, environmental barriers, decision support, and participation needs. Its vocabulary pass may now reuse shared-core `lesawi` and carefully distinguish disability and accessibility from Medical symptoms, diagnoses, treatment, recovery, and clinical authority.
+The [Accessibility and Participation module](modules/accessibility_and_participation.md) now establishes 30 optional terms. Its access family names access, accessibility, barriers, accommodation, impairment, independence, and assistive support. Practical terms address whether tools or routes can be used, fitted, cleared, and navigated. Communication terms distinguish format, captioning, transcription, interpretation, tactile presentation, equivalence, legibility, and audibility. Timing words cover pace, recess, postponement, asynchronous contribution, predictability, and overload. The participation family names consultation, exclusion, discrimination, disclosure, and advocacy.
+
+The pass also adds `sowelu` disabled to shared core because a person should not need an optional module to name disability identity. It keeps requirements, advance notice, processing time, decision support, and proxy relations compositional. Assistive devices, accessible design, communication preference, and spoken or written descriptions also remain transparent combinations. Named languages and communication systems, legal accommodation categories, technical standards, device identities, access plans, and exact measurements remain in source material when their source form matters.
 
 ## Priority 2: Additional vocabulary opportunities
 

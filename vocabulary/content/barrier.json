@@ -1,0 +1,29 @@
+{
+  "word": "kopharu",
+  "gloss": "barrier",
+  "ipa": "/ko̞.ˈɸä.ru/",
+  "syllables": [
+    "ko",
+    "pha",
+    "ru"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Barrier / Condition That Blocks or Burdens Access",
+  "description": "A physical feature, communication practice, rule, or arrangement that blocks access or makes participation materially harder for a stated person and activity. A barrier belongs to the relation, not to the person's body: 'norui' (boundary) marks a limit, while 'kopharu' is the condition that gets in the way.",
+  "sound_symbolism": "The closed contact of 'ko' meets breathy resistance in 'pha'. The rolling 'ru' recalls the movement or activity that meets the barrier.",
+  "grammatical_notes": "A countable noun: 'ha ponu kopharu nai.' (This door is a barrier.) A clause may name who encounters it, which action it blocks, and under what conditions. Distinct from 'norui' (boundary), 'pukea' (danger), and an ordinary technical 'kiphira' (fault).",
+  "pillars": {
+    "solarpunk-values": "A stair, meeting rule, or unreadable notice becomes discussable as something the shared environment can change.",
+    "peace-linguistics-practices": "Naming the barrier prevents a blocked action from being recast as personal failure."
+  },
+  "tags": {
+    "activity": "a condition obstructing a stated action",
+    "community": "an arrangement that restricts participation",
+    "spatial": "a physical obstruction in a route or place"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}
