@@ -1,12 +1,14 @@
 # Medical and Bodily Care
 
-The Medical and Bodily Care module gives Phi speakers optional vocabulary for discussing bodily experience, health observations, clinical conclusions, interventions, illness course, and public-health relations. The words use ordinary Phi grammar. A speaker who has not learned them can still report pain, sickness, refusal, need, and care in core Phi, and learning this module does not confer medical knowledge, a professional role, authority, or permission to act on another person.
+Someone wakes with a fever and says so, in their own words. Everything this module adds begins in that sentence: the report belongs to the person, the finding to a stated method, the conclusion to someone with a name, and consent to the one whose body it is. Thirty words hold the space between "I feel" and "we act."
+
+Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
 The complete machine-generated list is also available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
-The module does not replace Phi's existing language of bodies, sensation, pain, sickness, health, care, medicine, touch, choice, refusal, explanation, evidence, or uncertainty. It adds narrower medical distinctions around those familiar resources.
+The module does not replace what Phi already says about bodies and their care. It adds narrower medical distinctions around these familiar resources.
 
 | Area | Core Phi resources |
 |---|---|
@@ -16,11 +18,11 @@ The module does not replace Phi's existing language of bodies, sensation, pain, 
 | Explanation and understanding | `reo` meaning, `thelima` describe, `solae` explain, `lilea` clarify, `shelomu` understand, `sano` know, `nohero` believe, `nila` see, `hea` hear |
 | Evidence and modality | `masue` measure, `siru` marker, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, and separately preserved source material |
 
-Systems and Shared Infrastructure supplies technical state, capacity, calibration, inspection, reliability, hazard, and specification terms. Work, Craft, and Repair supplies plans, schedules, handoffs, competence, qualification, assessment, and testing. Commons and Collective Governance supplies roles, representation, authority, authorization, obligation, accountability, records, review, coercion, and retaliation. Ecological Systems and Material Life supplies contaminants, toxicity, exposure, concentration, samples, baselines, trends, models, and monitoring. Philosophical Reasoning supplies claims, evidence, criteria, inference, uncertainty, and tradeoffs. None of these cross-module relations establishes diagnosis, suitable care, bodily consent, clinical validity, or professional authority by itself.
+The sibling modules lend their tools where care meets their ground: Systems for the monitor at the bedside, Work for the shift handoff, Commons for who may decide what, Ecological for the contaminant in the water, Philosophical Reasoning for the argument over what the evidence shows.
 
 ## Shared-core consent
 
-`lesawi` is not a Medical module word. It belongs to base vocabulary because consent matters in bodily care, accessibility, work, relationships, information use, research, governance, and ordinary contact. It names a freely and specifically given agreement to an affecting action, with a stated scope that may be conditional, withheld, or withdrawn.
+`lesawi` is not a module word, and that is the point. Consent lives in base vocabulary because it matters everywhere: in care, in touch, in work, in research, in ordinary contact. It names an agreement freely and specifically given, with a scope, and it can be conditional, withheld, or withdrawn at any moment.
 
 ```
 mia ha phoa lesawi.
@@ -28,50 +30,50 @@ mia ha phoa lesawi.
 (I consent to this action.)
 ```
 
-The word does not make consent valid merely because someone says it occurred. State the proposal, participants, scope, conditions, explanation, opportunity to ask questions, practical freedom, and withdrawal when those matter. `nawo` agreement with a person or proposition, `kelomi` acceptance, silence, dependence, lack of resistance, institutional `kanuwa` authorization, and a recorded signature are not substitutes for `lesawi`.
+Saying that consent occurred does not make it real. What was proposed, what was explained, what the person understood, whether they could actually say no: these are the questions that make `lesawi` true or hollow. Agreement (`nawo`), acceptance (`kelomi`), silence, dependence, a signature, an institution's `kanuwa` authorization: none of these is consent, and Phi will not let any of them stand in for it.
 
-Informed consent remains a process rather than a compound that proves its own conditions. A careful account states what information was offered, what the person understood, what alternatives and expected benefits or burdens were discussed, whether practical choice was free, which action was accepted, and whether consent remains current.
+Informed consent stays a process, not a compound that proves its own conditions. A careful account says what was offered, what was understood, what the alternatives were, and whether the yes is still current.
 
 ## Module vocabulary
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
-| `phamori` | noun | symptom; bodily or mental experience reported by a person | A symptom is not a clinical finding, diagnosis, disease, proof of cause, severity judgment, or challenge to the person's reliability. |
-| `hisaro` | noun | clinical finding; health-relevant observation produced by a stated method | A finding is not a symptom, diagnosis, clinical significance, recommendation, or proof that the method and interpretation were valid. |
-| `kaworu` | noun | injury; bodily change or damage associated with an event or exposure | Injury is not pain, blame, disease, disability, severity, permanence, or a technical fault. |
-| `mokanu` | noun | disease; classified pattern or process affecting health | Disease is not sickness experience, infection, disability, moral impurity, diagnosis itself, contagiousness, or the person's identity. |
-| `peshiro` | noun | infection; infectious agent present and active in a host | Infection is not exposure, contamination, inflammation, disease in every case, transmissibility, source proof, or personal impurity. |
-| `thephaku` | noun | inflammation; local or systemic bodily response pattern | Inflammation is not infection, swelling alone, fever, pain, diagnosis, or proof of cause. |
-| `suloru` | noun | fever; elevated bodily temperature under a stated reference | Fever is not warmth, environmental heat exposure, infection, danger, severity, diagnosis, or an instruction. |
-| `katheo` | adjective | acute; recent, rapid, or comparatively short clinical course | Acute is not severe, dangerous, painful, emergency, curable, or guaranteed to be temporary. |
-| `nurawi` | adjective | chronic; persisting or recurring over a stated duration | Chronic is not constant, severe, incurable, permanent, contagious, disabling, or identity-defining. |
-| `pelaku` | noun | severity; degree of health effect under stated criteria | Severity is not urgency, probability, prognosis, priority, moral importance, or human worth. |
-| `kithero` | verb | diagnose; form or state a clinical conclusion | Diagnosis is not a finding, disease itself, certainty, prognosis, treatment, authorization, or consent. |
-| `wireki` | noun | prognosis; conditional claim about expected health course | Prognosis is not destiny, diagnosis, promise, exact probability, instruction, or a value judgment about a life. |
-| `soranu` | verb | screen; apply a health check to identify possible need for evaluation | Screening is not testing alone, diagnosis, proof of absence, monitoring, surveillance authority, benefit, or obligation to participate. |
-| `nephoru` | verb | treat; undertake care intended to change a health condition | Treatment is not care generally, healing, cure, consent, benefit, safety, access, or correct diagnosis. |
-| `thekamu` | verb | intervene; deliberately act on a health state or care process | Intervention is not necessarily treatment, surgery, benefit, consent, authorization, or a source-specific procedure. |
-| `mikasu` | noun | dose; specified amount at a stated administration | Dose is not concentration, total course, cumulative exposure, frequency, effect, accuracy, safety, receipt, or understanding. |
-| `porewi` | noun | side effect; additional effect beyond an intervention's target | A side effect is not automatically harmful, adverse, allergic, an error, a contraindication, or proof that treatment should stop. |
-| `whekaro` | noun | adverse effect; harmful or burdensome effect associated with an intervention | An adverse effect is not every side effect, allergy, treatment failure, negligence, proof of causation, or an automatic stop instruction. |
-| `whemaki` | noun | allergy; immune-mediated hypersensitivity to a stated agent | Allergy is not dislike, every intolerance, toxicity, infection, contamination, or every adverse effect. |
-| `nathoku` | adjective | contraindicated; advised against under a stated clinical reason | Contraindicated is not impossible, universally harmful, refused, unauthorized, illegal, allergic, or certain to cause harm. |
-| `helanu` | verb | recover; move toward a prior or desired health state | Recovery is not cure, complete healing, independence, full function, permanence, or return to a socially preferred body. |
-| `morashi` | verb | relapse; return or worsening after improvement in the same course | Relapse is not moral failure, lack of effort, treatment failure by definition, a new condition, or every recurrence. |
-| `sewaro` | verb | transmit; pass an infectious agent between hosts or reservoirs | Transmission is not exposure, infection, disease, blame, intent, contagiousness in every setting, or proof of exact source. |
-| `welathi` | adjective | contagious; capable of transmission between hosts under conditions | Contagious does not mean every contact transmits, a person is infected or dangerous, or coercive separation is justified. |
-| `weshaku` | noun | outbreak; cluster or excess of related health cases | Outbreak is not proof of shared cause, exact epidemic category, emergency, surveillance authority, or a label for every nearby person. |
-| `shorenu` | adjective | immune; having conditioned protection or reduced susceptibility | Immune is not invulnerable, uninfected, noncontagious, vaccinated, permanently protected, or safe in every exposure. |
-| `shuneki` | verb | vaccinate; administer a vaccine intended to induce protection | Vaccination is not consent, immunity, effectiveness, safety, authorization, absence of effects, or completion of a course. |
-| `sonari` | verb | isolate; separate a known or suspected infectious source | Isolation is not quarantine, solitude, punishment, imprisonment, abandonment, diagnosis, legitimate authority, or adequate care. |
-| `teshori` | verb | quarantine; restrict contact after possible exposure during uncertainty | Quarantine is not isolation, diagnosis, punishment, consent, legitimate authority, proof of danger, or justification for stigma. |
-| `kithawu` | verb | triage; prioritize assessment or care under constraints | Triage is not diagnosis, refusal of care, fairness, legitimate criteria, guaranteed benefit, exclusion authority, or ranking human worth. |
+| `phamori` | noun | symptom; bodily or mental experience reported by a person | A symptom belongs to the person who feels it; `hisaro` is what a method observed. |
+| `hisaro` | noun | clinical finding; health-relevant observation produced by a stated method | A finding carries its method with it; without the method it is just a number. |
+| `kaworu` | noun | injury; bodily change or damage associated with an event or exposure | Injury names the body's change, not who is to blame for it. |
+| `mokanu` | noun | disease; classified pattern or process affecting health | A disease is a classification; the person is never the classification. |
+| `peshiro` | noun | infection; infectious agent present and active in a host | Infection means the agent is present and active; exposure alone is not it. |
+| `thephaku` | noun | inflammation; local or systemic bodily response pattern | Inflammation is the body's response, not the invader. |
+| `suloru` | noun | fever; elevated bodily temperature under a stated reference | A fever is elevated against a stated reference; the exact reading lives in the record. |
+| `katheo` | adjective | acute; recent, rapid, or comparatively short clinical course | Acute is about time course, not danger. |
+| `nurawi` | adjective | chronic; persisting or recurring over a stated duration | Chronic means persisting, not permanent, and never who the person is. |
+| `pelaku` | noun | severity; degree of health effect under stated criteria | Severity sits on someone's stated scale; urgency is a different question. |
+| `kithero` | verb | diagnose; form or state a clinical conclusion | A diagnosis is a conclusion someone drew; it can be provisional, revised, or wrong. |
+| `wireki` | noun | prognosis; conditional claim about expected health course | A prognosis is conditional, never a sentence passed on a life. |
+| `soranu` | verb | screen; apply a health check to identify possible need for evaluation | Screening looks for who may need evaluation; it neither diagnoses nor obliges. |
+| `nephoru` | verb | treat; undertake care intended to change a health condition | Treatment intends change; benefit and consent stand apart from it. |
+| `thekamu` | verb | intervene; deliberately act on a health state or care process | An intervention is any deliberate act on a health state; treatment is the narrower intention. |
+| `mikasu` | noun | dose; specified amount at a stated administration | A dose is one amount at one administration; unit and schedule stay exact in the record. |
+| `porewi` | noun | side effect; additional effect beyond an intervention's target | A side effect is anything beyond the target, harmful or not. |
+| `whekaro` | noun | adverse effect; harmful or burdensome effect associated with an intervention | An adverse effect claims harm; it does not yet claim cause. |
+| `whemaki` | noun | allergy; immune-mediated hypersensitivity to a stated agent | An allergy is immune-mediated; not every intolerance qualifies. |
+| `nathoku` | adjective | contraindicated; advised against under a stated clinical reason | Contraindicated reports a source's advice against, not an impossibility. |
+| `helanu` | verb | recover; move toward a prior or desired health state | Recovery is movement the person gets to define; it need not mean an earlier body. |
+| `morashi` | verb | relapse; return or worsening after improvement in the same course | Relapse is the same course returning, and it is nobody's moral failure. |
+| `sewaro` | verb | transmit; pass an infectious agent between hosts or reservoirs | Transmission traces a pathway, not a blame. |
+| `welathi` | adjective | contagious; capable of transmission between hosts under conditions | Contagious is a capability under conditions, not a verdict on a person. |
+| `weshaku` | noun | outbreak; cluster or excess of related health cases | An outbreak is an excess against an expectation, not yet a cause. |
+| `shorenu` | adjective | immune; having conditioned protection or reduced susceptibility | Immunity is scoped protection, not invulnerability. |
+| `shuneki` | verb | vaccinate; administer a vaccine intended to induce protection | Vaccination is the act; immunity and consent are each their own fact. |
+| `sonari` | verb | isolate; separate a known or suspected infectious source | Isolation separates a known source; `teshori` waits out an uncertainty. |
+| `teshori` | verb | quarantine; restrict contact after possible exposure during uncertainty | Quarantine restricts contact during uncertainty; it justifies no stigma. |
+| `kithawu` | verb | triage; prioritize assessment or care under constraints | Triage orders care under scarcity; it never ranks human worth. |
 
 The verbs receive event or result nouns through Phi's ordinary event-noun rule: `kithero` can name a diagnosis, `soranu` screening, `nephoru` treatment, `thekamu` an intervention, `helanu` recovery, `morashi` relapse, `sewaro` transmission, `shuneki` vaccination, `sonari` isolation, `teshori` quarantine, and `kithawu` triage. The adjectives `katheo`, `nurawi`, `nathoku`, `welathi`, and `shorenu` likewise name their qualities or states through the quality-noun rule.
 
 ## Symptoms, findings, and bodily conditions
 
-`phamori` begins with the person's experienced and reported condition. Preserve their own wording, including uncertainty and changes over time. Another person may ask questions or record the report, but the module does not convert observation into ownership of the experience.
+`phamori` begins with the person: what they feel, in their words, with their uncertainty and their changes over time kept intact. Someone else may ask questions or write the report down, but observation never becomes ownership of the experience.
 
 ```
 mia ha phamori thelima.
@@ -79,7 +81,7 @@ mia ha phamori thelima.
 (I describe this symptom.)
 ```
 
-`hisaro` begins with a stated observation or method. A measurement, elicited response, image interpretation, examination result, or test result can become a clinical finding, but the source, method, conditions, uncertainty, and exact artifact remain part of its meaning.
+`hisaro` begins with a method: a measurement, an examination, an image read by someone. The method, its conditions, and its exact artifact travel with the finding, because a finding that has shed its method is just a number with confidence it has not earned.
 
 ```
 shia ha hisaro sirami.
@@ -87,9 +89,9 @@ shia ha hisaro sirami.
 (They record this clinical finding.)
 ```
 
-A symptom and finding may support one another, conflict, or concern different dimensions. Neither automatically outranks the other, and disagreement is not proof that the person or observer is dishonest.
+A symptom and a finding can support each other, conflict, or talk past each other entirely. Neither outranks the other by kind, and their disagreement accuses no one of lying.
 
-`kaworu` names bodily damage or change associated with an event, force, strain, exposure, or repeated condition. It does not answer who caused the event or whether the person is disabled, in pain, or likely to recover.
+`kaworu` names the body's change after an event, a force, a strain, an exposure. Who caused the event, and what the change will mean, are questions the word leaves open on purpose.
 
 ```
 mia kaworu phelu.
@@ -97,7 +99,7 @@ mia kaworu phelu.
 (I have an injury.)
 ```
 
-`mokanu` is a sourced classification of a health-affecting pattern or process. Exact disease names and classifications remain outside Phi when identity matters. `peshiro` is narrower: an infectious agent is present and active in or on a host. Infection may exist without symptoms or disease, and exposure does not prove infection.
+`mokanu` is a sourced classification of a health-affecting pattern; the exact disease name, when its identity matters, stays in the record beside the Phi. `peshiro` is narrower: an agent, present and active, in or on a host. Infection can exist without symptoms, and exposure does not prove it.
 
 ```
 ha mokanu nurawi nai.
@@ -111,7 +113,7 @@ PROX infection POT NEG contagious be.
 (This infection may not be contagious.)
 ```
 
-`thephaku` names a response pattern, not an invading agent. Infection can cause inflammation, but injury, immune activity, and other processes can also be involved.
+`thephaku` is the body answering, not the invader: infection can raise it, but so can injury and the immune system's own work.
 
 ```
 ha kaworu thephaku phelu.
@@ -119,7 +121,7 @@ PROX injury inflammation hold.
 (The injury has inflammation.)
 ```
 
-`suloru` names fever relative to a person, site, method, time, or clinical reference. Keep the exact reading, unit, device, and threshold outside Phi when they matter.
+`suloru` is fever against a stated reference, for this person, at this site, by this method. The exact reading and its threshold belong to the record.
 
 ```
 mia suloru phelu.
@@ -129,7 +131,7 @@ mia suloru phelu.
 
 ## Course and severity
 
-`katheo` and `nurawi` describe time course rather than danger or intensity. The same condition can be acute and severe, acute and mild, chronic and stable, chronic and changing, or classified differently under different source criteria.
+`katheo` and `nurawi` speak of time, not of danger. A condition can be acute and mild, acute and severe, chronic and steady, chronic and shifting; the pair refuses to smuggle intensity inside duration.
 
 ```
 ha kaworu katheo nai.
@@ -137,7 +139,7 @@ PROX injury acute be.
 (This injury is acute.)
 ```
 
-`pelaku` is always severity under stated dimensions and criteria. Pain intensity, functional effect, physiological instability, threat to life, and burden may disagree. State whose scale and evidence support the judgment.
+`pelaku` is severity on someone's stated scale, and the scales can disagree with each other: pain, function, physiological danger, and daily burden are different dimensions, and a person can score high on one and low on another.
 
 ```
 lo mia ha pelaku kisome.
@@ -145,11 +147,11 @@ PL 1SG PROX severity assess.
 (We assess the severity.)
 ```
 
-Urgency is not a synonym for severity. A mild condition can require prompt action under one time-sensitive risk, while a severe chronic burden may not require the same immediate response. State the time relation and proposed action rather than letting `pelaku` decide them.
+Urgency is yet another question. A mild condition can demand action within the hour; a severe chronic burden can wait years for anyone to take it seriously. Naming the time relation keeps `pelaku` from quietly deciding it.
 
 ## Diagnosis, prognosis, and screening
 
-`kithero` is an act of clinical conclusion under criteria. It can take a complement clause so the proposition being diagnosed remains visible.
+`kithero` is a conclusion drawn by someone, under criteria. It can take a complement clause, so the proposition being concluded stays visible in the sentence.
 
 ```
 shia mena mia ha mokanu phelu meno kithero.
@@ -157,9 +159,9 @@ shia mena mia ha mokanu phelu meno kithero.
 (They diagnose that I have this disease.)
 ```
 
-A diagnosis may be provisional, differential, revised, or disputed. Preserve the exact source label, author, date, criteria, and record externally when those matter. A diagnosis does not make a person consent to treatment or determine their future.
+A diagnosis can be provisional, differential, revised, or disputed, and the exact label with its author and date belongs to the record. What a diagnosis never does is consent on the person's behalf or decide their future for them.
 
-`wireki` looks forward conditionally. State the condition, time horizon, evidence, assumptions, available care, possible courses, and uncertainty. Population evidence may inform one person's prognosis without dictating it.
+`wireki` looks forward, conditionally. It rests on a condition, a time horizon, available care, and honest uncertainty, and evidence from many people can inform one person's prognosis without dictating it.
 
 ```
 shia ha wireki lilea.
@@ -167,7 +169,7 @@ shia ha wireki lilea.
 (They clarify the prognosis.)
 ```
 
-`soranu` checks for possible need for further evaluation, often before diagnosis. Screening requires a stated population, purpose, method, possible outcomes, access, consent, and follow-up path.
+`soranu` looks across people for possible need, usually before any diagnosis. A screening has a purpose, a method, and a follow-up path, and taking part in one remains a choice.
 
 ```
 shia lo miona soranu.
@@ -175,11 +177,11 @@ shia lo miona soranu.
 (They screen people.)
 ```
 
-Work `somaki` testing names a defined evidential procedure. The exact test produces source data; `hisaro` identifies a clinical finding; `kithero` identifies a diagnostic conclusion. Keeping all three separate makes false, uncertain, incidental, and changing results easier to discuss.
+The work module's `somaki` (test) runs the procedure; `hisaro` names what it found; `kithero` draws the conclusion. Three acts, three words, which is what makes a false, incidental, or changing result discussable instead of catastrophic.
 
 ## Treatment, intervention, and dose
 
-`nephoru` has a health-changing intention. It may describe medicine, therapy, support, environmental change, or another care action, but treatment does not promise cure or benefit.
+`nephoru` carries a health-changing intention: medicine, therapy, support, a changed room, whatever the care is. Intention is all it carries; cure and benefit are hopes, not parts of the verb.
 
 ```
 shia mia nephoru.
@@ -187,7 +189,7 @@ shia mia nephoru.
 (They treat me.)
 ```
 
-`thekamu` is broader and more neutral. Diagnostic, preventive, therapeutic, supportive, and palliative actions can all be interventions. Exact procedure, surgery, therapy, device, and technique names remain source material.
+`thekamu` is broader and cooler: any deliberate act on a health state, diagnostic or preventive, therapeutic or palliative. The exact procedure name, where one exists, stays in the record beside the Phi.
 
 ```
 shia ha thekamu phoa.
@@ -195,7 +197,7 @@ shia ha thekamu phoa.
 (They perform this intervention.)
 ```
 
-`mikasu` identifies one specified amount at an administration. It does not contain its unit, formulation, route, schedule, or source instruction; those remain exact externally.
+`mikasu` is one amount at one administration. Its unit, route, and schedule are exactly the kind of detail Phi refuses to approximate: they stay in the source instruction, precise and checkable.
 
 ```
 mia ha mikasu reo ma shelomu.
@@ -203,11 +205,11 @@ mia ha mikasu reo ma shelomu.
 (I do not understand the meaning of this dose.)
 ```
 
-A care conversation should therefore separate the exact source artifact, what it means, the intervention being proposed, its intended effect, dose and schedule, known uncertainty, alternatives, the person's questions, and `lesawi` consent or refusal.
+A care conversation, in Phi, unfolds in parts that stay visible: the record itself, what it means, what is proposed, what it is expected to do, what is uncertain, what else could be done, the person's questions, and their `lesawi` or their `naweri`. The grammar deliberately keeps room for every one of those parts.
 
 ## Effects, allergy, and contraindication
 
-`porewi` is an additional effect beyond an intervention's stated target. It can be useful, neutral, burdensome, or harmful. `whekaro` specifically marks harm or material burden associated or suspected to be associated with an intervention or exposure.
+`porewi` is anything an intervention does beyond its target, and it can be a gift, a nuisance, or a harm. `whekaro` makes the harm claim specifically, while leaving cause an open question.
 
 ```
 ha nepha porewi phelu.
@@ -221,7 +223,7 @@ mia ha whekaro thelima.
 (I describe this adverse effect.)
 ```
 
-`whemaki` is an immune-mediated hypersensitivity claim tied to a stated agent and clinical criteria. Preserve exact allergy records and uncertainty. A dislike, intolerance, toxic effect, infection, and ordinary side effect are not allergies merely because they are unwanted.
+`whemaki` is a claim about the immune system, tied to a stated agent. A dislike, an intolerance, or an ordinary side effect does not become an allergy by being unwanted, and the exact allergy record deserves preservation with all its uncertainty.
 
 ```
 mia whemaki phelu.
@@ -229,7 +231,7 @@ mia whemaki phelu.
 (I have an allergy.)
 ```
 
-`nathoku` says a source advises against an intervention under a stated condition, interaction, risk, or expected burden. State whether the contraindication is absolute, relative, temporary, uncertain, or source-specific and what alternatives exist.
+`nathoku` reports that a source advises against, under a stated reason. Whether the advice is absolute or relative, current or stale, and what the alternatives are: those questions stay askable, because the word claims advice and nothing stronger.
 
 ```
 ha nepha nathoku nai.
@@ -237,11 +239,11 @@ PROX medicine contraindicated be.
 (This medicine is contraindicated.)
 ```
 
-Side effects, adverse effects, allergies, contraindications, refusals, and treatment failures answer different questions. None should be inferred merely from the presence of another.
+Side effect, adverse effect, allergy, contraindication, refusal, failure: six different answers to six different questions, and none of them may be inferred from another's presence.
 
 ## Recovery and relapse
 
-`helanu` allows the person and context to define movement toward a desired health, comfort, energy, or functional state. Recovery may involve adaptation and continuing care rather than restoration to an earlier body.
+`helanu` moves toward a state the person and their life get to define. Recovery can mean adaptation and continuing care rather than the body of an earlier year, and the word holds that door open.
 
 ```
 shia helanu.
@@ -249,7 +251,7 @@ shia helanu.
 (They recover.)
 ```
 
-`morashi` names return or worsening after improvement within the same understood course. It does not blame the person or make earlier progress meaningless.
+`morashi` is the same course returning after improvement. It blames no one, and it does not erase the ground already gained.
 
 ```
 shia to morashi.
@@ -257,11 +259,11 @@ shia to morashi.
 (They relapsed.)
 ```
 
-Remission, recurrence, improvement, worsening, cure, and treatment response remain explicit claims about conditions, findings, criteria, and time. Use `morashi` only when the same-course relation is intended.
+Remission, recurrence, cure, and response remain explicit claims about findings, criteria, and time. `morashi` is only for the same road doubling back.
 
 ## Transmission, protection, and public health
 
-`sewaro` follows an infectious agent through a stated pathway. `welathi` describes capability under conditions. Neither word turns a host into a moral or social danger.
+`sewaro` follows an agent along a pathway; `welathi` says the pathway is open under conditions. Neither word turns a host into a moral or social danger.
 
 ```
 ha peshiro thue phialu po sewaro.
@@ -275,7 +277,7 @@ PROX disease contagious be.
 (This disease is contagious.)
 ```
 
-`weshaku` identifies a cluster or excess relative to a case definition, population, place, period, and expectation. Exact outbreak, epidemic, pandemic, reportable-condition, and emergency categories remain source material.
+`weshaku` is a cluster or excess against a case definition, a population, a place, a period. The exact epidemic, pandemic, or emergency category, when one applies, stays outside the Phi passage.
 
 ```
 ha lokue weshaku phelu.
@@ -283,7 +285,7 @@ PROX place outbreak hold.
 (This place has an outbreak.)
 ```
 
-`shorenu` is conditioned and scoped protection. It may differ for infection, symptoms, severe disease, or transmission and may change over time.
+`shorenu` is protection that is scoped and can change: strong against symptoms, weaker against transmission, different next season.
 
 ```
 shia shorenu nai.
@@ -291,7 +293,7 @@ shia shorenu nai.
 (They are immune.)
 ```
 
-`shuneki` names administration of a vaccine for a protective purpose. Exact product, lot, dose, route, schedule, and record remain external, while consent and result remain separate.
+`shuneki` names the act of giving a vaccine for a protective purpose. The exact product, lot, and schedule stay in the record, and neither the consent before the act nor the immunity after it rides along in the verb.
 
 ```
 shia mia shuneki.
@@ -299,7 +301,7 @@ shia mia shuneki.
 (They vaccinate me.)
 ```
 
-`sonari` separates a known or suspected infectious source. `teshori` restricts contact after possible exposure during uncertainty. Both require explicit duration, material support, communication, access, authority, consent, alternatives, and review.
+`sonari` separates a source already known or suspected. `teshori` restricts contact while the picture is still uncertain. Both need a stated duration, and both owe the person support, communication, and a way back.
 
 ```
 shia miso sonari.
@@ -313,7 +315,7 @@ PROX institution 3SG quarantine.
 (The institution quarantines them.)
 ```
 
-`kithawu` prioritizes assessment or care under constraints and stated criteria. It must not turn scarcity into a natural law or people into a ranking of worth.
+`kithawu` orders care under real constraints, and the ordering answers to stated criteria that can be examined and argued with. What it must never become is a ranking of who deserves to live.
 
 ```
 shia lo miona kithawu.
@@ -321,34 +323,34 @@ shia lo miona kithawu.
 (They triage people.)
 ```
 
-Public-health protection may require collective action, but medical vocabulary supplies no automatic authority. Use Commons words for rules, jurisdiction, authorization, coercion, accountability, review, and redress; Accessibility words and practices for communication and participation; Work words for staffing and handoff; and exact source protocols for operative details.
+Public health can call for collective action, but no medical word grants authority by itself. Commons carries rules, jurisdiction, and accountability; Accessibility carries communication and participation; Work carries staffing and handoff; and the operative details stay in exact source protocols.
 
 ## Useful transparent compositions and source boundaries
 
 | Phi expression or strategy | Practical meaning | Why it remains compositional or external |
 |---|---|---|
-| `lesawi` plus explicit information, understanding, alternatives, freedom, scope, and withdrawal | informed consent process | No modifier, signature, or institutional record proves the process was sufficient or remains current. |
-| exact method and result plus Work `somaki` and `hisaro` | clinical test and finding | Separates procedure, raw artifact, interpretation, threshold, and diagnosis. |
-| `kirema` criterion plus exact value, unit, population, and method | clinical threshold | Keeps source and purpose visible instead of making one number universal. |
-| possible `peloma` harm plus time, evidence, uncertainty, severity, and exact probability externally | clinical risk | Prevents possibility, probability, severity, value, and acceptable burden from collapsing into one warning. |
-| result, later evidence, and applicable criterion stated in clauses | false-positive or false-negative result | Makes the claimed error and reference standard explicit. |
-| general `thekamu` or `nephoru` around an exact source name | procedure, surgery, therapy, or named treatment | Preserves technical identity without importing a catalogue of opaque labels. |
-| exact product and prescription artifact plus `nepha`, `mikasu`, `thimora`, and action clauses | medicine, formulation, route, course, and prescription | These details are safety-relevant source information rather than approximate Phi labels. |
-| `miona` person plus `sithora`, competence, qualification, representation, and exact title where needed | patient, clinician, caregiver, interpreter, and other care roles | Keeps personhood separate from temporary role, credential, authority, dependence, and consent. |
-| `theama winora` with actions, goals, consent, uncertainty, and review | care plan | A plan does not authorize its interventions or guarantee available support. |
-| Work `sethoni` with information, unresolved needs, receipt, understanding, and accountability | clinical handoff | Passing a record does not establish continuity, acceptance, or responsibility. |
-| Ecological `phisuri` plus bodily source, collection, handling, and identifier | clinical specimen | Keeps exact source and integrity separate from representativeness and diagnostic meaning. |
-| harm, time sensitivity, bodily state, available care, and necessary action | urgency or emergency | Urgency is not severity alone and does not silently grant unlimited authority. |
-| agent or uncertainty, pathway, protective action, burden, consent, authority, support, and review | prevention and infection control | Keeps protection from becoming blanket justification for surveillance, separation, exclusion, or coercion. |
+| `lesawi` plus explicit information, understanding, alternatives, freedom, scope, and withdrawal | informed consent process | No signature or record proves by itself that the process was real or still current. |
+| exact method and result plus Work `somaki` and `hisaro` | clinical test and finding | Keeps the procedure, the raw result, and the interpretation as three separate things. |
+| `kirema` criterion plus exact value, unit, population, and method | clinical threshold | Keeps a number tied to the purpose it was set for, instead of universal. |
+| possible `peloma` harm plus time, evidence, uncertainty, severity, and exact probability externally | clinical risk | Keeps possibility, probability, and how bad the outcome would be from blurring into one warning. |
+| result, later evidence, and applicable criterion stated in clauses | false-positive or false-negative result | Makes the error and the standard it is measured against both explicit. |
+| general `thekamu` or `nephoru` around an exact source name | procedure, surgery, therapy, or named treatment | Keeps the technical name precise without importing a whole catalogue of borrowed labels. |
+| exact product and prescription artifact plus `nepha`, `mikasu`, `thimora`, and action clauses | medicine, formulation, route, course, and prescription | These are safety details worth their own exactness, not a Phi approximation. |
+| `miona` person plus `sithora`, competence, qualification, representation, and exact title where needed | patient, clinician, caregiver, interpreter, and other care roles | Keeps the person separate from whatever temporary role or credential they hold. |
+| `theama winora` with actions, goals, consent, uncertainty, and review | care plan | A plan does not authorize its own interventions or guarantee the support behind it. |
+| Work `sethoni` with information, unresolved needs, receipt, understanding, and accountability | clinical handoff | Passing a record along does not by itself make anyone responsible for what happens next. |
+| Ecological `phisuri` plus bodily source, collection, handling, and identifier | clinical specimen | Keeps the sample's origin and integrity separate from how representative or diagnostic it turns out to be. |
+| harm, time sensitivity, bodily state, available care, and necessary action | urgency or emergency | Urgency is not severity by another name, and it grants no unlimited authority. |
+| agent or uncertainty, pathway, protective action, burden, consent, authority, support, and review | prevention and infection control | Keeps protection from becoming an excuse for surveillance or exclusion. |
 
-Source material remains outside the Phi passage. Preserve exact values, units, dates, medicine and vaccine names, formulations, lots, routes, schedules, device identities, test names, specimen identifiers, diagnoses, classifications, probabilities, thresholds, instructions, records, credentials, protocols, rules, laws, quotations, and source-script names with their original spelling, notation, version, and provenance.
+Source material stays outside the Phi passage here as everywhere: exact values, units, dates, medicine and vaccine names, formulations, lots, routes, schedules, device identities, test names, specimen identifiers, diagnoses, classifications, thresholds, records, credentials, protocols, and source-script names keep their own spelling, notation, and version.
 
 ## Using the module well
 
-Begin with the person and concrete relation: who experiences, reports, observes, measures, explains, proposes, consents, refuses, treats, receives, records, reviews, or is affected by which action. Add the relevant symptom, finding, condition, time course, evidence, uncertainty, source artifact, alternatives, expected effects, access needs, authority claim, and follow-up. Do not let a module label replace those relations.
+Start with the person and the concrete relation: who felt something, who observed it, who is proposing what, who consented or refused. Add the symptom, the finding, the time course, the evidence, and the uncertainty as they matter, and let a module word gather that detail rather than replace it.
 
-Use person-first clauses when a role or diagnosis would dominate the sentence. A person may be sick, injured, disabled, chronically ill, contagious under stated conditions, receiving care, working, caring for others, refusing an intervention, or participating in a community without any one classification exhausting who they are.
+Write person-first when a diagnosis or a role would otherwise swallow the sentence. Someone can be sick, injured, chronically ill, contagious under stated conditions, receiving care, and giving care to someone else, all at once, and no single classification is the whole of who they are.
 
-Ask for a core paraphrase when a module word is unfamiliar. A useful paraphrase can expose the person's report, observed evidence, proposed action, source, conditions, and uncertainty rather than recreating a dictionary definition in one sentence.
+Ask for a core paraphrase when a module word is unfamiliar. A paraphrase does not need to recreate a dictionary entry; naming the report, the evidence, and the proposed action is usually enough.
 
-Keep testing the vocabulary in care conversations, recovery accounts, chronic-care narratives, uncertain diagnoses, medication decisions, adverse-effect reports, emergency communication, infection-control support, and public-health disagreement. Mental health, reproductive health, sexuality, gender, abuse, and coercive care require respectful scenario work rather than automatic absorption into this module.
+Keep testing the vocabulary in care conversations, recovery accounts, chronic-care narratives, uncertain diagnoses, medication decisions, and public-health disagreement. Mental health, reproductive health, sexuality, gender, and coercive care deserve their own careful scenario work rather than being folded into this module by default.

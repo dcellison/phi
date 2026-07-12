@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Clinical Finding / Health-Relevant Observation Produced by a Stated Method",
-  "description": "A health-relevant observation, elicited response, measurement, image interpretation, or test result produced by a stated person, instrument, or method. A clinical finding may be normal, uncertain, incidental, or disputed. It is not a symptom, diagnosis, disease, proof of cause, clinical significance, recommendation, or permission to intervene, and its exact source artifact remains separately preserved when identity or precision matters.",
+  "description": "A health-relevant observation produced by a stated method: a measurement, an image, an examination result. The finding carries its method, its conditions, and its uncertainty along with it, because a number that has shed its method is not yet evidence of anything. It can support, conflict with, or simply run alongside a person's own reported 'phamori' (symptom), and neither one silently outranks the other.",
   "sound_symbolism": "Direct-evidence 'hi' opens with what was observed, 'sa' gives the observation a situated form, and final 'ro' leaves its interpretation open. The sound records contact without closing the clinical conclusion.",
   "grammatical_notes": "A countable noun: 'shia ha hisaro sirami.' (They record this clinical finding.) Name the observer, method, conditions, time, uncertainty, and source record where relevant. Distinct from 'siru' (marker), 'masue' (measure), 'phamori' (symptom), 'somaki' (test), and 'kithero' (diagnose).",
   "pillars": {

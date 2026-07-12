@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Dose / Specified Amount of an Intervention at a Stated Administration",
-  "description": "A specified amount of a medicine, substance, radiation, energy, or other measurable intervention intended or delivered at a stated administration, route, time, or interval. A dose is distinct from concentration, total course, cumulative exposure, frequency, and effect. The word does not establish accuracy, receipt, absorption, safety, suitability, consent, or that the source instruction was understood.",
+  "description": "One specified amount given at one administration. A dose carries no unit, route, or schedule of its own; those live in the exact source instruction, precise in a way Phi's grammar is not built to approximate.",
   "sound_symbolism": "Bounded 'mi' gathers one administration, 'ka' marks its specified amount, and final 'su' carries it into a larger course without confusing the two. The form is compact but requires its exact source.",
   "grammatical_notes": "A countable noun: 'mia ha mikasu reo ma shelomu.' (I do not understand the meaning of this dose.) Preserve exact amount, unit, route, timing, formulation, and source instruction outside Phi. Distinct from 'nepha' (medicine), 'nomiki' (concentration), 'thimora' (schedule), 'masue' (measure), and total treatment.",
   "pillars": {
