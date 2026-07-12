@@ -1,10 +1,10 @@
 # Commons and Collective Governance
 
-A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. That question, and the thirty words that let a speaker answer it precisely, are what this module holds: membership and role, authority and its limits, proposal and decision, record and review, and the harder words for when an institution fails the people it claims to serve.
+A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. Thirty governance roots let a speaker follow the decision from proposal to review and ask what happens when an institution fails the people it claims to serve.
 
 Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The complete machine-generated list is also available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 40 words; the complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -22,7 +22,7 @@ The module does not replace what Phi already says about community and shared lif
 
 Systems lends the technical state behind an institution's tools, Ecological the resource and pollution facts a decision may turn on, Philosophical Reasoning the claim and evidence a legitimacy argument needs. None of them says who may decide.
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

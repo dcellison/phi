@@ -24,6 +24,8 @@
     "physical": "a substance, organism, or agent present in a sample, place, or process"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "work-craft-and-repair"
   ]
 }

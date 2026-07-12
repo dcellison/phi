@@ -23,6 +23,9 @@
     "cognition": "gathering bounded evidence about a claim or criterion"
   },
   "modules": [
+    "accessibility-and-participation",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure",
     "work-craft-and-repair"
   ]
 }

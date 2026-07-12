@@ -1,10 +1,10 @@
 # Systems and Shared Infrastructure
 
-The pump that fills the cistern draws power from the same line as the mill, and on the hottest afternoon of the year both draw at once. Whether the line holds is a question about capacity and load; whether either machine is working right is a question about function and state; whether the whole arrangement is wise is a question these twenty-six words let a speaker ask cleanly, one relation at a time.
+The pump that fills the cistern draws power from the same line as the mill, and on the hottest afternoon of the year both draw at once. Capacity and load ask whether the line holds; function and state ask whether either machine works. The wisdom of the whole arrangement remains a different question.
 
 Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-The complete machine-generated list is also available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 25 roots. Shared classifications bring the current learning list to 34 words; the complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -19,7 +19,7 @@ The module does not replace what Phi already says about devices, movement, and r
 | Limits and evidence | `phelona` require, `henoi` enough, `sharoi` exceed, `thenoi` fall short, `masue` measure, `siru` marker, `kirema` criterion, `hi` direct evidence, `ke` inference |
 | Shared life | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible |
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

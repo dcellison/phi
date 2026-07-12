@@ -24,6 +24,8 @@
     "dialogue": "making information known to a new recipient"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance",
+    "medical-and-bodily-care"
   ]
 }

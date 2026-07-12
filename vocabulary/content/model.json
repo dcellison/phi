@@ -23,6 +23,7 @@
     "creation": "a deliberately constructed representation with selected features and relations"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "systems-and-shared-infrastructure"
   ]
 }

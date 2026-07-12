@@ -23,6 +23,8 @@
     "physical": "a substance whose biological role depends on form, amount, and conditions"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "household-and-daily-life",
+    "medical-and-bodily-care"
   ]
 }

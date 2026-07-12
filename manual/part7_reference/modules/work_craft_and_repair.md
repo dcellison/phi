@@ -2,9 +2,9 @@
 
 A chair comes back from the workshop with one leg pale and new. Whoever sits in it tonight may want to know who cut that leg, whether the wood came from the elm the storm took, and when the chair can stand in the hall again. This module is the vocabulary those questions run on: tasks and projects, skill and its proof, stock and its story, and plain words for work that wears a person down.
 
-Like every module, these thirty words are optional. They use ordinary Phi grammar, and a speaker who has not learned them can always ask for a core paraphrase. Learning them confers nothing: not skill, not authority, not anyone's consent. The words describe work; they do not hand it out.
+Like every module, its vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The complete machine-generated list is also available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 48 words; the complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -22,7 +22,7 @@ The module does not replace what Phi already says about making and mending. It a
 
 The sibling modules lend their own tools when work touches their ground: Systems for the technical object under repair, Commons for authority and its limits, Ecological for materials and what becomes of them, Philosophical Reasoning for the argument about whether the work is good.
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

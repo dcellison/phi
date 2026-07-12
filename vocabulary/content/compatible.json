@@ -24,6 +24,7 @@
     "dialogue": "communication formats that can be exchanged or rendered together"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure"
   ]
 }

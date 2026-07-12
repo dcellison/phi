@@ -1,10 +1,10 @@
 # Medical and Bodily Care
 
-Someone wakes with a fever and says so, in their own words. Everything this module adds begins in that sentence: the report belongs to the person, the finding to a stated method, the conclusion to someone with a name, and consent to the one whose body it is. Thirty words hold the space between "I feel" and "we act."
+Someone wakes with a fever and says so, in their own words. Everything this module adds begins in that sentence: the report belongs to the person, the finding to a stated method, the conclusion to someone with a name, and consent to the one whose body it is. Thirty care-specific roots hold the space between "I feel" and "we act."
 
 Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
-The complete machine-generated list is also available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 45 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -34,7 +34,7 @@ Saying that consent occurred does not make it real. What was proposed, what was 
 
 Informed consent stays a process, not a compound that proves its own conditions. A careful account says what was offered, what was understood, what the alternatives were, and whether the yes is still current.
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

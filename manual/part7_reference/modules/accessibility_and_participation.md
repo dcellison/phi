@@ -4,7 +4,7 @@ The meeting notice arrives after the meeting has begun. The doorway opens, but t
 
 Accessibility and Participation gives Phi speakers optional words for that route: what can be reached or used, what gets in the way, how information arrives, how time is arranged, and whose direction governs support. It uses ordinary Phi grammar throughout, and a speaker who has not learned it can always ask for a core paraphrase.
 
-The complete machine-generated list is also available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 43 words; the complete machine-generated list is available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -33,7 +33,7 @@ mia sowelu nai.
 
 The word leaves the choice of identity with the person. It can sit beside a more exact community, cultural, legal, or personal term preserved in its source form, and it does not turn disability into sickness. `murethi` impairment is narrower and belongs to the module; it names a stated functional difference without deciding identity or participation.
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

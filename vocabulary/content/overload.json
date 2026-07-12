@@ -24,6 +24,8 @@
     "physical": "bodily burden produced by excessive input or demand"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

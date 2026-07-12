@@ -24,6 +24,7 @@
     "temporal": "a record explicitly bounded to a time"
   },
   "modules": [
+    "household-and-daily-life",
     "work-craft-and-repair"
   ]
 }

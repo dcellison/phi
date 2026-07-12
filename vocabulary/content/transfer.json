@@ -24,6 +24,7 @@
     "spatial": "a source-to-goal relation across a boundary"
   },
   "modules": [
+    "ecological-systems-and-material-life",
     "systems-and-shared-infrastructure"
   ]
 }

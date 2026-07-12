@@ -9,7 +9,7 @@ Profiles may begin as zero-new-root inventories and later receive a straightforw
 Every profile follows these rules:
 
 1. Phi has one grammar. A module adds no particles, syntax, inflection, parser mode, or incompatible construction.
-2. Existing roots remain in the shared lexicon. A profile lists them as dependencies; it does not move their JSON entries or claim exclusive ownership. Module words also remain ordinary canonical entries but are optional as a learning focus.
+2. Existing roots remain in the shared lexicon. When another profile needs one, the word may stay a listed dependency or gain another module classification if it belongs in both learning paths. Neither choice changes its definition or gives a profile exclusive ownership.
 3. A root may appear in several profiles. `theama` belongs in care, household, access, and community discussion whenever it is useful; no profile gets to narrow its meaning by listing it.
 4. Core resources needed for ordinary life, identity, consent, safety, testimony, or communication stay available outside every profile.
 5. Foreign wording, source-script names, exact records, formulas, identifiers, and other unassimilated artifacts remain outside Phi passages. A domain profile may describe or translate source material without turning its tokens into Phi words.
@@ -40,18 +40,20 @@ Every new profile should contain:
 
 Core versus module placement is an organizational judgment about what a general learner is expected to study, not a difference in grammar or lexical legitimacy. Broad everyday concepts normally belong to the core teaching path; specialized terms may carry one or more validated `modules` classifications in their canonical JSON entries. A word may move into broader teaching later if use makes that natural.
 
+The [Module overlap assessment](module_overlap_assessment.md) accounts for all 227 current module entries. Sixty-one words now have shared membership, 29 still need a closer boundary decision, and eleven may belong in base vocabulary instead.
+
 ## Active Profiles
 
-| Profile | Status | New roots | Purpose |
-|---|---|---:|---|
-| [Household and Daily Life](household_and_daily_life.md) | **Established vocabulary module** | 31 | Add 30 optional terms for domestic relations, storage, cleaning, cloth, meals, and food preparation while adding privacy to shared core. |
-| [Medical and Bodily Care](medical_and_bodily_care.md) | **Established vocabulary module** | 31 | Add 30 optional terms for symptoms, findings, health conditions, clinical evaluation, intervention effects, illness course, transmission, and public health while adding consent to shared core. |
-| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Established vocabulary module** | 25 | Add optional terminology for system structure, inputs and outputs, control, feedback, technical state, upkeep, reliability, hazards, and specifications. |
-| [Philosophical Reasoning](philosophical_reasoning.md) | **Established vocabulary module** | 22 | Add optional terminology for argument structure, evidence, inference, validity, definition, epistemic stance, and competing values. |
-| [Accessibility and Participation](accessibility_and_participation.md) | **Established vocabulary module** | 31 | Add 30 optional terms for access relations, communication forms, timing, technical fit, support, exclusion, and advocacy while adding disabled identity to shared core. |
-| [Commons and Collective Governance](commons_and_collective_governance.md) | **Established vocabulary module** | 30 | Add optional terminology for membership, institutions, authority, collective procedure, allocation, accountability, records, review, and institutional harm. |
-| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | **Established vocabulary module** | 30 | Add optional terminology for ecological organization, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. |
-| [Work, Craft, and Repair](work_craft_and_repair.md) | **Established vocabulary module** | 30 | Add optional terminology for work units and status, coordination, skill and qualification, training and evaluation, labor conditions, design, and material traceability. |
+| Profile | Status | Roots coined here | Current memberships | Shared-core addition | Purpose |
+|---|---|---:|---:|---|---|
+| [Household and Daily Life](household_and_daily_life.md) | **Established vocabulary module** | 30 | 38 | `mirewu` private | Domestic relations, storage, cleaning, cloth, meals, and food preparation. |
+| [Medical and Bodily Care](medical_and_bodily_care.md) | **Established vocabulary module** | 30 | 45 | `lesawi` consent | Symptoms, findings, health conditions, clinical evaluation, intervention effects, illness course, transmission, and public health. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | **Established vocabulary module** | 25 | 34 | None | System structure, inputs and outputs, control, feedback, technical state, upkeep, reliability, hazards, and specifications. |
+| [Philosophical Reasoning](philosophical_reasoning.md) | **Established vocabulary module** | 22 | 22 | None | Argument structure, evidence, inference, validity, definition, epistemic stance, and competing values. |
+| [Accessibility and Participation](accessibility_and_participation.md) | **Established vocabulary module** | 30 | 43 | `sowelu` disabled | Access relations, communication forms, timing, technical fit, support, exclusion, and advocacy. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | **Established vocabulary module** | 30 | 40 | None | Membership, institutions, authority, collective procedure, allocation, accountability, records, review, and institutional harm. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | **Established vocabulary module** | 30 | 40 | None | Ecological organization, land and water processes, weather and climate, pollution and exposure, material afterlives, and repeated ecological observation. |
+| [Work, Craft, and Repair](work_craft_and_repair.md) | **Established vocabulary module** | 30 | 48 | None | Work units and status, coordination, skill and qualification, training and evaluation, labor conditions, design, and material traceability. |
 
 ## Proposed Profile Catalogue
 

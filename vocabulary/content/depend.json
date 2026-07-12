@@ -23,6 +23,7 @@
     "cognition": "an analyzed requirement relation between system elements"
   },
   "modules": [
+    "ecological-systems-and-material-life",
     "systems-and-shared-infrastructure"
   ]
 }

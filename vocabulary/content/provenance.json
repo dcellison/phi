@@ -26,6 +26,7 @@
     "temporal": "a sequence of prior stages leading to a present state"
   },
   "modules": [
+    "ecological-systems-and-material-life",
     "work-craft-and-repair"
   ]
 }

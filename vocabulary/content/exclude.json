@@ -24,6 +24,7 @@
     "spatial": "denying entry to a place or route"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance"
   ]
 }

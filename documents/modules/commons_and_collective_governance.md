@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** - 30 module words, ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here and 40 current memberships; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for describing membership, in
 
 The module is not a constitution, legal system, property regime, economic doctrine, institutional template, or claim that one form of governance fits every community. It does not infer legitimacy from a council label, plural action, necessity, consensus, voting, stewardship, fairness, justice, compliance, or a practical outcome.
 
-The speaker-facing guide is [Commons and Collective Governance](../../manual/part7_reference/modules/commons_and_collective_governance.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#commons-and-collective-governance). Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Commons and Collective Governance](../../manual/part7_reference/modules/commons_and_collective_governance.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#commons-and-collective-governance). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -53,7 +53,7 @@ The established [Ecological Systems and Material Life module](ecological_systems
 
 The first pass admits words for recurring governance relations whose ordinary paraphrases would be cumbersome, value-loaded, or unable to keep institutional distinctions stable across a discussion. The original pass used four-syllable forms for nearly every broad or internally layered concept; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through collective-decision stories, institutional criticism, commons practice, political philosophy, or source-faithful legal discussion.
 
-| Family | Established module words | What the pass now distinguishes |
+| Family | Roots coined for this profile | What the pass now distinguishes |
 |---|---|---|
 | Membership and institutional structure | `wemari` member, `shalori` represent, `punoki` institution, `sithora` role, `loatho` delegate | Membership versus belonging or participation; representation versus description or consent; institution versus society, building, council, or technical system; role versus holder, competence, or authority; delegation versus authorization, abandonment, or imposed work. |
 | Authority and normative scope | `karami` authority, `kanuwa` authorize, `norulo` jurisdiction, `kirethu` legitimate, `nasholu` rule | Authority versus force, capacity, control, ownership, or legitimacy; authorization versus consent or competence; jurisdiction versus territory; legitimacy versus legality, popularity, fairness, or effectiveness; rule versus fact, method, specification, or exact law. |
@@ -63,7 +63,7 @@ The first pass admits words for recurring governance relations whose ordinary pa
 | Notice, records, and revision | `shanewi` notify, `sirami` record, `tukiro` review, `whetuma` appeal, `helaki` amend | Notification versus receipt, access, understanding, or publication; record versus writing, truth, official status, or notice; review versus discussion or inspection; appeal versus objection or review itself; amendment versus generic change, repeal, replacement, or erased history. |
 | Power and institutional harm | `kawhera` coerce, `whepelo` retaliate | Coercion versus every obligation, urgency, persuasion, or consequence; retaliation versus ordinary response, enforcement, defense, redress, or an independently justified adverse action. |
 
-All 30 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `commons-and-collective-governance` module classification, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit.
+All 30 roots coined in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `commons-and-collective-governance` module classification, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit.
 
 ## Concepts Kept Compositional
 

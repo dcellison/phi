@@ -23,6 +23,7 @@
     "community": "an institutional appeal with stated recipient and standing"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

@@ -23,6 +23,8 @@
     "temporal": "direction or recurrence assessed across time or ordered states"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure"
   ]
 }

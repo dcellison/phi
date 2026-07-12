@@ -24,6 +24,7 @@
     "temporal": "a later state or output affects a continuing or subsequent process"
   },
   "modules": [
+    "ecological-systems-and-material-life",
     "systems-and-shared-infrastructure"
   ]
 }

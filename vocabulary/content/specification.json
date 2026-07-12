@@ -24,6 +24,7 @@
     "dialogue": "a shareable statement of requirements that may still be disputed or revised"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

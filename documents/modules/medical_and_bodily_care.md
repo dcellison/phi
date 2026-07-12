@@ -1,6 +1,6 @@
 # Medical and Bodily Care
 
-**Status:** **Established vocabulary module** - 30 module words plus shared-core `lesawi` consent, ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here, 45 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for reporting bodily experien
 
 The module gives priority to a person's own report, explicit explanation, source fidelity, and consent. It does not imply that sickness reduces personhood, that measurement replaces care, that a helper possesses authority, or that Phi vocabulary can replace qualified interpretation of medical information.
 
-The speaker-facing guide is [Medical and Bodily Care](../../manual/part7_reference/modules/medical_and_bodily_care.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#medical-and-bodily-care). Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Medical and Bodily Care](../../manual/part7_reference/modules/medical_and_bodily_care.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#medical-and-bodily-care). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -52,7 +52,7 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 
 The first pass admits 30 optional medical words for recurring distinctions whose ordinary paraphrases were cumbersome, ambiguous, or unable to sustain health-focused discussion. It also admits `lesawi` consent to shared core because consent is a general autonomy relation rather than optional medical knowledge. The pass does not reproduce a diagnostic catalogue, professional hierarchy, public-health code, or pharmacological reference; exact names, values, products, protocols, classifications, credentials, and legal terms remain outside Phi when their source identity matters.
 
-| Family | Established module words | What the pass now distinguishes |
+| Family | Roots coined for this profile | What the pass now distinguishes |
 |---|---|---|
 | Experience and observation | `phamori` symptom, `hisaro` clinical finding | A person's experienced and reported symptom from a method-produced observation, measurement, response, image interpretation, or test result; neither from diagnosis or proof of cause. |
 | Condition and course | `kaworu` injury, `mokanu` disease, `peshiro` infection, `thephaku` inflammation, `suloru` fever, `katheo` acute, `nurawi` chronic, `pelaku` severity | Bodily damage from disease classification; infection from exposure, contamination, inflammation, and contagiousness; fever from warmth and exact measurement; clinical course from severity, danger, prognosis, and human worth. |
@@ -61,7 +61,7 @@ The first pass admits 30 optional medical words for recurring distinctions whose
 | Change over time | `helanu` recover, `morashi` relapse | Person-defined and potentially partial recovery from cure, restoration to a social norm, and independence; relapse from blame, a new condition, every recurrence, and proof of treatment failure. |
 | Transmission and public health | `sewaro` transmit, `welathi` contagious, `weshaku` outbreak, `shorenu` immune, `shuneki` vaccinate, `sonari` isolate, `teshori` quarantine, `kithawu` triage | Transmission from exposure and infection; contagiousness from personal danger or blame; outbreak from exact epidemic category; immunity from invulnerability or vaccination; protective actions from consent, authority, legitimacy, coercion, abandonment, and human-worth ranking. |
 
-All 30 module entries and the shared-core consent entry follow the complete vocabulary schema, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit. The module entries carry `medical-and-bodily-care`; `lesawi` deliberately carries no module field and remains in base vocabulary.
+All 30 roots coined in the medical pass and the shared-core consent entry follow the complete vocabulary schema, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit. The 30 roots carry `medical-and-bodily-care`; `lesawi` deliberately carries no module field and remains in base vocabulary.
 
 ## Concepts Kept Compositional or External
 
@@ -108,4 +108,4 @@ Use the module in care conversations, health narratives, recovery accounts, sour
 
 Future use should particularly test mental and emotional care, reproductive and sexual health, chronic care outside institutions, emergency communication, uncertain diagnosis, medication changes, disability boundaries, adverse-effect reporting, infection-control support, and public-health disagreement. These are opportunities for careful development, not evidence gates or permission to classify identities and testimony without respectful scenarios.
 
-All eight active profiles now have vocabulary passes. Assess genuine multi-module membership next, then revisit the existing dialogues and scenarios. Stories, teaching texts, and translations follow in the same pass. Update a text when expanded vocabulary makes its meaning clearer, safer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema and phonology, along with collision and semantic checks. Its examples and generated references must remain in sync.
+Once the remaining classification decisions are settled, revisit the existing corpus as a whole. Update a text when expanded vocabulary makes its meaning clearer, safer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema and phonology, along with collision and semantic checks. Its examples and generated references must remain in sync.

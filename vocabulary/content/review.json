@@ -23,6 +23,7 @@
     "cognition": "reassessment under stated evidence and criteria"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

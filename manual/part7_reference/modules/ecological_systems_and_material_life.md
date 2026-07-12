@@ -1,10 +1,10 @@
 # Ecological Systems and Material Life
 
-Dye runs from a workshop into a stream, and a fish downstream carries it in its blood. Naming that whole chain honestly needs more than one word for pollution: an agent, a concentration, an exposure, a threshold someone measured against, and a claim about harm that has to earn its place with evidence. These thirty words carry the chain link by link.
+Dye runs from a workshop into a stream, and a fish downstream carries it in its blood. Naming that chain needs more than one word: what entered the water, how much, who was exposed, and what evidence supports the claim of harm. The chapter's ecological roots carry it link by link.
 
 Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The complete machine-generated list is also available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 40 words; the complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -21,7 +21,7 @@ The module does not replace what Phi already says about land, water, weather, an
 
 Systems lends its own vocabulary for the mechanics underneath: `terura` system, `mirela` state, `pherami` dependency, `koewi` input, `thirulo` output, `sekaru` transfer, `turelo` feedback, `henora` capacity, `pemaru` hazard, `kisholu` specification. Borrowing a technical word does not by itself hand over an ecological conclusion.
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

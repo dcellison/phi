@@ -24,6 +24,7 @@
     "creation": "a structure whose relations can be designed, maintained, and revised"
   },
   "modules": [
+    "ecological-systems-and-material-life",
     "systems-and-shared-infrastructure"
   ]
 }

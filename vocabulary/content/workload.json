@@ -24,6 +24,8 @@
     "temporal": "work considered over a stated interval"
   },
   "modules": [
+    "accessibility-and-participation",
+    "household-and-daily-life",
     "work-craft-and-repair"
   ]
 }

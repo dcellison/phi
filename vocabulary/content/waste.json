@@ -23,6 +23,8 @@
     "physical": "material or energy lacking further intended use in its present relation"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "household-and-daily-life",
+    "work-craft-and-repair"
   ]
 }

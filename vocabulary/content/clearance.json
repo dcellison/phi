@@ -24,6 +24,7 @@
     "spatial": "width, height, depth, or turning room kept clear"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure"
   ]
 }

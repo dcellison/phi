@@ -23,6 +23,7 @@
     "physical": "a material, organism, place, or record portion taken for examination"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care"
   ]
 }

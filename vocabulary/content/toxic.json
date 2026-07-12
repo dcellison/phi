@@ -24,6 +24,8 @@
     "physical": "a property of substances, mixtures, materials, or agents under exposure"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "work-craft-and-repair"
   ]
 }

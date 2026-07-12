@@ -24,6 +24,9 @@
     "physical": "a material, energy source, condition, or process capable of harm"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

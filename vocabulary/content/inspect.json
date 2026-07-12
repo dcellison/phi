@@ -24,6 +24,7 @@
     "creation": "a practice supporting maintenance, repair, and checked workmanship"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

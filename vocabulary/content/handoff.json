@@ -24,6 +24,7 @@
     "temporal": "movement from one stage or custodian to the next"
   },
   "modules": [
+    "medical-and-bodily-care",
     "work-craft-and-repair"
   ]
 }
