@@ -13,5 +13,6 @@ Every module word remains part of the canonical lexicon in `vocabulary/content/`
 | Work, Craft, and Repair | [Work, Craft, and Repair](work_craft_and_repair.md) | 30 module words established |
 | Medical and Bodily Care | [Medical and Bodily Care](medical_and_bodily_care.md) | 30 module words established; `lesawi` consent added to shared core |
 | Accessibility and Participation | [Accessibility and Participation](accessibility_and_participation.md) | 30 module words established; `sowelu` disabled added to shared core |
+| Household and Daily Life | [Household and Daily Life](household_and_daily_life.md) | 30 module words established; `mirewu` private added to shared core |
 
-Household and Daily Life remains available in `documents/modules/` as the final development profile. Its speaker-facing chapter will be added with its first vocabulary pass.
+All eight active profiles now have speaker-facing chapters. Their development records remain in `documents/modules/`.

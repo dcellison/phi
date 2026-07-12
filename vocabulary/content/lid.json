@@ -1,0 +1,27 @@
+{
+  "word": "tapuri",
+  "gloss": "lid",
+  "ipa": "/t̪ä.ˈpu.ri/",
+  "syllables": [
+    "ta",
+    "pu",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Lid / Removable Cover for an Opening",
+  "description": "A removable cover fitted over the opening of a container. Whether it rests loosely, seals tightly, or fastens through a mechanism, 'tapu' (close) names the action and 'tapuri' is the separate thing that meets the rim.",
+  "sound_symbolism": "The full verb 'tapu' (close) arrives before anything else. Liquid 'ri' carries that closure around the opening it fits.",
+  "grammatical_notes": "A countable noun: 'ha tapuri tomi tapu.' (This lid closes the pot.) Its container precedes it as possessor when needed. Exact seals, caps, and fitted closures keep their source names when design matters.",
+  "pillars": {
+    "pre-industrial-wisdom": "The right lid kept steam in the pot, dust out of grain, and mice away from the winter store."
+  },
+  "tags": {
+    "creation": "a fitted removable cover",
+    "physical": "a separate object meeting the rim of a container"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

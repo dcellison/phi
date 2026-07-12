@@ -1,0 +1,29 @@
+{
+  "word": "phelasi",
+  "gloss": "shelf",
+  "ipa": "/ɸe̞.ˈlä.si/",
+  "syllables": [
+    "phe",
+    "la",
+    "si"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Shelf / Raised Surface for Keeping Things",
+  "description": "A level surface fixed to or supported by a wall, frame, or piece of furniture for keeping things above the floor. A table invites work or gathering around it; a shelf gives stored objects a visible place along an edge. The word covers a single shelf rather than the whole cupboard or shelving unit around it.",
+  "sound_symbolism": "Breathy 'phe' begins with room beneath the object. Broad 'la' lays out the supporting plane. Fine 'si' draws its visible edge.",
+  "grammatical_notes": "A countable noun: 'ha phelasi shelu phelu.' (This shelf holds a book.) Material, height, and support fit surrounding phrases. Distinct from 'wonepa' (table) and general 'molu' (container).",
+  "pillars": {
+    "solarpunk-values": "On an open shelf, reusable tools and shared goods are easier to find, return, and use again.",
+    "pre-industrial-wisdom": "A board set into a wall or hung from pegs made storage from little material and kept food or tools off a damp floor."
+  },
+  "tags": {
+    "creation": "a made surface supported above the floor",
+    "physical": "a level support for kept objects",
+    "spatial": "storage arranged along a raised edge"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "word": "thekopa",
+  "gloss": "recipe",
+  "ipa": "/θe̞.ˈko̞.pä/",
+  "syllables": [
+    "the",
+    "ko",
+    "pa"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Recipe / Instructions for Preparing Food",
+  "description": "A set of instructions for preparing a particular food or drink. Recipes live in speech, memory, demonstration, and writing, and some leave quantities to practiced judgment. 'norae' (method) is a way of doing any activity; 'thekopa' ties the method to ingredients and a prepared result.",
+  "sound_symbolism": "Reading-associated 'the' begins the instruction. 'Ko' shapes the ordered work, while flat 'pa' lays the recipe where a cook returns to it.",
+  "grammatical_notes": "A countable noun: 'mia ha thekopa theo.' (I read this recipe.) Instructions, ingredients, sequence, and intended result can be described in Phi. Exact quantities, temperatures, timings, and source wording stay with the source recipe when their notation matters.",
+  "pillars": {
+    "pre-industrial-wisdom": "Many recipes lived in hands and memory, with the written line arriving later than the smell, texture, and timing it tried to preserve."
+  },
+  "tags": {
+    "cognition": "remembered or recorded knowledge for preparing food",
+    "creation": "instructions relating ingredients to a prepared result",
+    "temporal": "an ordered sequence of preparation steps"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

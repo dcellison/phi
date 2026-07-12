@@ -1,0 +1,29 @@
+{
+  "word": "muneki",
+  "gloss": "latrine",
+  "ipa": "/mu.ˈn̪e̞.ki/",
+  "syllables": [
+    "mu",
+    "ne",
+    "ki"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Latrine / Place or Fixture for Bodily Waste",
+  "description": "A place or fixture arranged to receive bodily waste. Designs include pits, composting systems, and water-carried fixtures. The noun identifies the daily place without claiming how treatment works. Exact sanitation instructions and infrastructure keep their source form when the details matter.",
+  "sound_symbolism": "Grounded 'mu' starts close to earth and the body. 'Ne' settles the place. Clear 'ki' gives the arrangement a definite physical edge.",
+  "grammatical_notes": "A countable noun: 'ha womu muneki phelu.' (This home has a latrine.) Nearby clauses identify location, access, water use, maintenance, and sanitation method. The term covers a practical class rather than one technical fixture.",
+  "pillars": {
+    "solarpunk-values": "Sanitation belongs in material-cycle discussion because water and nutrients meet pathogens, labor, and access at this ordinary household place.",
+    "pre-industrial-wisdom": "Pit placement and dry cover carried practical knowledge about keeping household waste away from drinking water. Cleaning routines carried the rest."
+  },
+  "tags": {
+    "community": "a sanitation place used within shared or solitary daily life",
+    "physical": "a fixture or place receiving bodily waste",
+    "spatial": "a bounded sanitation area in or near a dwelling"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

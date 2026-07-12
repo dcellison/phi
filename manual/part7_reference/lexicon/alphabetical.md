@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1132 words.*
+*1163 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -133,6 +133,7 @@
 | `kira` | key | /ˈki.rä/ | noun |
 | `kirae` | crystal | /ki.ˈrä.e̞/ | noun |
 | `kiranu` | qualified | /ki.ˈrä.n̪u/ | adjective |
+| `kirato` | lock | /ki.ˈrä.t̪o̞/ | noun |
 | `kire` | shape | /ˈki.re̞/ | verb |
 | `kirema` | criterion | /ki.ˈre̞.mä/ | noun |
 | `kirero` | quality | /ki.ˈre̞.ro̞/ | noun |
@@ -159,8 +160,10 @@
 | `kolu` | steady | /ˈko̞.lu/ | adjective |
 | `kolua` | carry | /ko̞.ˈlu.ä/ | verb |
 | `koluma` | unite | /ko̞.ˈlu.mä/ | verb |
+| `kolupe` | bucket | /ko̞.ˈlu.pe̞/ | noun |
 | `koluri` | reliable | /ko̞.ˈlu.ri/ | adjective |
 | `koma` | head | /ˈko̞.mä/ | noun |
+| `komalu` | pillow | /ko̞.ˈmä.lu/ | noun |
 | `kona` | VOC | /ˈko̞.n̪ä/ | vocative |
 | `kopharu` | barrier | /ko̞.ˈɸä.ru/ | noun |
 | `korei` | fulfill | /ko̞.ˈre̞.i/ | verb |
@@ -226,6 +229,7 @@
 | `liroa` | playful | /li.ˈro̞.ä/ | adjective |
 | `lirowa` | leaf | /li.ˈro̞.wä/ | noun |
 | `liru` | fabric | /ˈli.ru/ | noun |
+| `lirupa` | bag | /li.ˈru.pä/ | noun |
 | `litero` | ecosystem | /li.ˈt̪e̞.ro̞/ | noun |
 | `liweso` | ecological community | /li.ˈwe̞.so̞/ | noun |
 | `lo` | PL | /ˈlo̞/ | particle |
@@ -245,6 +249,7 @@
 | `lonai` | width | /lo̞.ˈn̪ä.i/ | noun |
 | `lopha` | vessel | /ˈlo̞.ɸä/ | noun |
 | `lophae` | storyteller | /lo̞.ˈɸä.e̞/ | noun |
+| `lophani` | bottle | /lo̞.ˈɸä.n̪i/ | noun |
 | `lopia` | child | /lo̞.ˈpi.ä/ | noun |
 | `lorea` | connect | /lo̞.ˈre̞.ä/ | verb |
 | `loremi` | branch | /lo̞.ˈre̞.mi/ | noun |
@@ -276,6 +281,7 @@
 | `lunai` | vision | /lu.ˈn̪ä.i/ | noun |
 | `lunei` | moon | /lu.ˈn̪e̞.i/ | noun |
 | `lunoa` | month | /lu.ˈn̪o̞.ä/ | noun |
+| `lupaki` | fold | /lu.ˈpä.ki/ | verb |
 | `luphano` | watershed | /lu.ˈɸä.n̪o̞/ | noun |
 | `lupho` | float | /ˈlu.ɸo̞/ | verb |
 | `luphonu` | boat | /lu.ˈɸo̞.n̪u/ | noun |
@@ -327,6 +333,7 @@
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
 | `mirela` | state | /mi.ˈre̞.lä/ | noun |
+| `mirewu` | private | /mi.ˈre̞.wu/ | adjective |
 | `mirulo` | berry | /mi.ˈru.lo̞/ | noun |
 | `misa` | why | /ˈmi.sä/ | interrogative |
 | `misharo` | consult | /mi.ˈʃä.ro̞/ | verb |
@@ -350,6 +357,7 @@
 | `moloi` | apprentice | /mo̞.ˈlo̞.i/ | noun |
 | `molu` | container | /ˈmo̞.lu/ | noun |
 | `moluki` | transform | /mo̞.ˈlu.ki/ | verb |
+| `molupa` | box | /mo̞.ˈlu.pä/ | noun |
 | `monae` | integral | /mo̞.ˈn̪ä.e̞/ | adjective |
 | `monaki` | component | /mo̞.ˈn̪ä.ki/ | noun |
 | `monelu` | amused | /mo̞.ˈn̪e̞.lu/ | adjective |
@@ -378,9 +386,11 @@
 | `muhena` | dust | /mu.ˈhe̞.n̪ä/ | noun |
 | `muholi` | dig | /mu.ˈho̞.li/ | verb |
 | `muila` | earth | /mu.ˈi.lä/ | noun |
+| `mukesi` | spoil | /mu.ˈke̞.si/ | verb |
 | `muko` | careless | /ˈmu.ko̞/ | adjective |
 | `mulu` | low | /ˈmu.lu/ | adjective |
 | `munari` | sediment | /mu.ˈn̪ä.ri/ | noun |
+| `muneki` | latrine | /mu.ˈn̪e̞.ki/ | noun |
 | `muo` | INTO | /ˈmu.o̞/ | preposition |
 | `mupelo` | vomit | /mu.ˈpe̞.lo̞/ | verb |
 | `muphera` | stock | /mu.ˈɸe̞.rä/ | noun |
@@ -397,6 +407,7 @@
 | `na` | NEC | /ˈn̪ä/ | particle |
 | `nai` | be | /ˈn̪ä.i/ | verb |
 | `napa` | bread | /ˈn̪ä.pä/ | noun |
+| `napako` | bake | /n̪ä.ˈpä.ko̞/ | verb |
 | `naphe` | help | /ˈn̪ä.ɸe̞/ | verb |
 | `naphelu` | assistive | /n̪ä.ˈɸe̞.lu/ | adjective |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
@@ -465,6 +476,7 @@
 | `noru` | bowl | /ˈn̪o̞.ru/ | noun |
 | `norui` | boundary | /n̪o̞.ˈru.i/ | noun |
 | `norulo` | jurisdiction | /n̪o̞.ˈru.lo̞/ | noun |
+| `norupe` | spoon | /n̪o̞.ˈru.pe̞/ | noun |
 | `noruwa` | generation | /n̪o̞.ˈru.wä/ | noun |
 | `nosa` | now | /ˈn̪o̞.sä/ | noun |
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
@@ -497,6 +509,7 @@
 | `nurawi` | chronic | /n̪u.ˈrä.wi/ | adjective |
 | `nuri` | cycle | /ˈn̪u.ri/ | noun |
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
+| `nurome` | meal | /n̪u.ˈro̞.me̞/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
 | `nuwera` | bed | /n̪u.ˈwe̞.rä/ | noun |
 | `nuwi` | clear | /ˈn̪u.wi/ | adjective |
@@ -546,6 +559,7 @@
 | `phao` | parent | /ˈɸä.o̞/ | noun |
 | `pharea` | adult | /ɸä.ˈre̞.ä/ | noun |
 | `pharelo` | cook | /ɸä.ˈre̞.lo̞/ | verb |
+| `phareme` | ingredient | /ɸä.ˈre̞.me̞/ | noun |
 | `phari` | pen | /ˈɸä.ri/ | noun |
 | `pharoe` | chest | /ɸä.ˈro̞.e̞/ | noun |
 | `pharomu` | exclude | /ɸä.ˈro̞.mu/ | verb |
@@ -553,6 +567,7 @@
 | `pharune` | include | /ɸä.ˈru.n̪e̞/ | verb |
 | `phea` | AS | /ˈɸe̞.ä/ | preposition |
 | `phei` | AWAY | /ˈɸe̞.i/ | preposition |
+| `phelasi` | shelf | /ɸe̞.ˈlä.si/ | noun |
 | `phelira` | mistaken | /ɸe̞.ˈli.rä/ | adjective |
 | `phelo` | light | /ˈɸe̞.lo̞/ | adjective |
 | `pheloma` | serve | /ɸe̞.ˈlo̞.mä/ | verb |
@@ -565,11 +580,13 @@
 | `phelure` | store | /ɸe̞.ˈlu.re̞/ | verb |
 | `phemi` | guest | /ˈɸe̞.mi/ | noun |
 | `phemila` | host | /ɸe̞.ˈmi.lä/ | noun |
+| `phemiru` | visit | /ɸe̞.ˈmi.ru/ | verb |
 | `phena` | kind | /ˈɸe̞.n̪ä/ | adjective |
 | `pheno` | full | /ˈɸe̞.n̪o̞/ | adjective |
 | `phenori` | ownership | /ɸe̞.ˈn̪o̞.ri/ | noun |
 | `phenui` | thoughtful | /ɸe̞.ˈn̪u.i/ | adjective |
 | `pheo` | POST | /ˈɸe̞.o̞/ | conjunction |
+| `pheomu` | leftovers | /ɸe̞.ˈo̞.mu/ | noun |
 | `pheralu` | rain | /ɸe̞.ˈrä.lu/ | noun |
 | `pherami` | depend | /ɸe̞.ˈrä.mi/ | verb |
 | `phero` | fern | /ˈɸe̞.ro̞/ | noun |
@@ -618,7 +635,9 @@
 | `phulae` | mouth | /ɸu.ˈlä.e̞/ | noun |
 | `phuliro` | stream | /ɸu.ˈli.ro̞/ | noun |
 | `phuo` | phew | /ˈɸu.o̞/ | interjection |
+| `phurewa` | sweep | /ɸu.ˈre̞.wä/ | verb |
 | `phuri` | brush | /ˈɸu.ri/ | noun |
+| `phurilo` | broom | /ɸu.ˈri.lo̞/ | noun |
 | `phuro` | renew | /ˈɸu.ro̞/ | verb |
 | `phuwai` | lung | /ɸu.ˈwä.i/ | noun |
 | `pi` | POL | /ˈpi/ | particle |
@@ -712,12 +731,14 @@
 | `sanowu` | predictable | /sä.ˈn̪o̞.wu/ | adjective |
 | `saphei` | shallow | /sä.ˈɸe̞.i/ | adjective |
 | `sawa` | wash | /ˈsä.wä/ | verb |
+| `sawathi` | soap | /sä.ˈwä.θi/ | noun |
 | `se` | PASS | /ˈse̞/ | particle |
 | `sekaru` | transfer | /se̞.ˈkä.ru/ | verb |
 | `seloi` | insightful | /se̞.ˈlo̞.i/ | adjective |
 | `selomi` | weave | /se̞.ˈlo̞.mi/ | verb |
 | `selu` | flow | /ˈse̞.lu/ | verb |
 | `selua` | aware | /se̞.ˈlu.ä/ | adjective |
+| `seluto` | pour | /se̞.ˈlu.t̪o̞/ | verb |
 | `seluwhe` | outage | /se̞.ˈlu.ʍe̞/ | noun |
 | `sena` | pattern | /ˈse̞.n̪ä/ | noun |
 | `senao` | same | /se̞.ˈn̪ä.o̞/ | adjective |
@@ -864,6 +885,8 @@
 | `talome` | restore | /t̪ä.ˈlo̞.me̞/ | verb |
 | `talua` | shoulder | /t̪ä.ˈlu.ä/ | noun |
 | `tapu` | close | /ˈt̪ä.pu/ | verb |
+| `tapulo` | jar | /t̪ä.ˈpu.lo̞/ | noun |
+| `tapuri` | lid | /t̪ä.ˈpu.ri/ | noun |
 | `tawi` | count | /ˈt̪ä.wi/ | verb |
 | `tawimo` | foolish | /t̪ä.ˈwi.mo̞/ | adjective |
 | `te` | CESS | /ˈt̪e̞/ | particle |
@@ -903,6 +926,7 @@
 | `thekasi` | caption | /θe̞.ˈkä.si/ | verb |
 | `thekiro` | write | /θe̞.ˈki.ro̞/ | verb |
 | `theko` | craft | /ˈθe̞.ko̞/ | verb |
+| `thekopa` | recipe | /θe̞.ˈko̞.pä/ | noun |
 | `thela` | how | /ˈθe̞.lä/ | interrogative |
 | `thelai` | balm | /θe̞.ˈlä.i/ | noun |
 | `thelao` | CONS | /θe̞.ˈlä.o̞/ | discourse |
@@ -930,6 +954,7 @@
 | `theonu` | attend | /θe̞.ˈo̞.n̪u/ | verb |
 | `thepalu` | garden | /θe̞.ˈpä.lu/ | noun |
 | `thephaku` | inflammation | /θe̞.ˈɸä.ku/ | noun |
+| `therapi` | boil | /θe̞.ˈrä.pi/ | verb |
 | `therema` | tradition | /θe̞.ˈre̞.mä/ | noun |
 | `thereo` | mediator | /θe̞.ˈre̞.o̞/ | noun |
 | `theriko` | frost | /θe̞.ˈri.ko̞/ | noun |
@@ -965,6 +990,7 @@
 | `tholira` | forgive | /θo̞.ˈli.rä/ | verb |
 | `tholu` | space | /ˈθo̞.lu/ | noun |
 | `tholua` | ancient | /θo̞.ˈlu.ä/ | adjective |
+| `tholupi` | room | /θo̞.ˈlu.pi/ | noun |
 | `thomari` | courage | /θo̞.ˈmä.ri/ | noun |
 | `thona` | ADVRS | /ˈθo̞.n̪ä/ | conjunction |
 | `thonai` | responsible | /θo̞.ˈn̪ä.i/ | adjective |
@@ -1053,6 +1079,7 @@
 | `welo` | INT.COMP.CLOSE | /ˈwe̞.lo̞/ | complementizer |
 | `weloa` | loom | /we̞.ˈlo̞.ä/ | noun |
 | `weloni` | body | /we̞.ˈlo̞.n̪i/ | noun |
+| `welotu` | mix | /we̞.ˈlo̞.t̪u/ | verb |
 | `welua` | fragile | /we̞.ˈlu.ä/ | adjective |
 | `welura` | spread | /we̞.ˈlu.rä/ | verb |
 | `wema` | belong | /ˈwe̞.mä/ | verb |
@@ -1075,7 +1102,10 @@
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
 | `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
+| `wethaki` | towel | /we̞.ˈθä.ki/ | noun |
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
+| `wethamo` | blanket | /we̞.ˈθä.mo̞/ | noun |
+| `wethate` | laundry | /we̞.ˈθä.t̪e̞/ | noun |
 | `whakeru` | object | /ʍä.ˈke̞.ru/ | verb |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
@@ -1136,6 +1166,7 @@
 | `wolea` | wood | /wo̞.ˈle̞.ä/ | noun |
 | `wolu` | healthy | /ˈwo̞.lu/ | adjective |
 | `womu` | home | /ˈwo̞.mu/ | noun |
+| `womuri` | household | /wo̞.ˈmu.ri/ | noun |
 | `wonepa` | table | /wo̞.ˈn̪e̞.pä/ | noun |
 | `woraka` | appreciate | /wo̞.ˈrä.kä/ | verb |
 | `woru` | keeper | /ˈwo̞.ru/ | noun |

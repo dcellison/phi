@@ -1,6 +1,6 @@
 # Lexicon Expansion Survey (2026-07-10)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,132 entries: 1,002 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,163 entries: 1,033 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -79,6 +79,12 @@ The [Accessibility and Participation module](modules/accessibility_and_participa
 
 The pass also adds `sowelu` disabled to shared core because a person should not need an optional module to name disability identity. It keeps requirements, advance notice, processing time, decision support, and proxy relations compositional. Assistive devices, accessible design, communication preference, and spoken or written descriptions also remain transparent combinations. Named languages and communication systems, legal accommodation categories, technical standards, device identities, access plans, and exact measurements remain in source material when their source form matters.
 
+### Household and daily life: first pass complete
+
+The [Household and Daily Life module](modules/household_and_daily_life.md) now establishes 30 optional terms across household boundaries, storage and fixtures, cleaning and cloth, and meals and preparation. The new roots make recurring objects and actions direct, from shelves and laundry to leftovers and pouring.
+
+The pass adds `mirewu` private to shared core because privacy matters beyond the household. It belongs in care and friendship as readily as it does in governance or questions of access. Solitude needs the word too. Chair remains within `meipa` seat, while general container and basket remain `molu` and `wiru`. Cupboards and meal times stay compositional, as do chores, unnamed cooking methods, and bathing fixtures. Source material retains exact tenancy, address, and culturally specific food terms.
+
 ## Priority 2: Additional vocabulary opportunities
 
 These candidates may be coined whenever they suit an active text, a planned module, or the desired texture of Phi.
@@ -97,9 +103,9 @@ This matters to a journal-practice culture. A message might remain a telling car
 
 ### Staples and household implements
 
-`napa` (bread) is present. Rice, tea, and nut lack dedicated roots; chair, spoon, broom, bag, box, and bottle are also currently unlisted. These are not automatically omissions: some are culturally specific and some are ordinary descriptions of shape, use, or material.
+`napa` (bread) is present, while rice, tea, and nut still lack dedicated roots. The Household module now covers several ordinary implements directly, including the spoon, broom, and portable containers. Chair remains covered by `meipa` (seat), which already includes chairs, stools, benches, and sitting cushions.
 
-Use the Household and Daily Life profile to decide which objects are clearer as compounds and which deserve ordinary roots.
+Culturally situated foods may receive ordinary roots whenever Phi wants them. Other implements can remain descriptions of shape, use, or material until a direct word feels better.
 
 ## Vocabulary pass method
 

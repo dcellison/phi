@@ -1,0 +1,29 @@
+{
+  "word": "phemiru",
+  "gloss": "visit",
+  "ipa": "/ɸe̞.ˈmi.ru/",
+  "syllables": [
+    "phe",
+    "mi",
+    "ru"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Visit / Spend Bounded Time as a Guest",
+  "description": "To spend a bounded period with a person or at a place as a guest. Departure is still part of the understood visit. The reason for coming belongs in the surrounding clause rather than the verb. 'menui' (dwell) makes a continuing home in a place; 'phemiru' crosses the threshold for a time.",
+  "sound_symbolism": "All of 'phemi' (guest) comes first. Rolling 'ru' carries the guest onward, so the word includes both arrival and eventual departure.",
+  "grammatical_notes": "A transitive verb: 'mia ha womu phemiru.' (I visit this home.) The object may be a person or place, and time phrases can give the visit its duration. The event-noun rule supplies a visit.",
+  "pillars": {
+    "peace-linguistics-practices": "A visit places company inside a chosen interval. Welcome and departure both stay available to the people sharing the space.",
+    "pre-industrial-wisdom": "Visits carried news, labor, food, and kinship along paths where guest and host might reverse roles on the next journey."
+  },
+  "tags": {
+    "activity": "spending a bounded time with a person or at a place",
+    "community": "company held through the guest relation",
+    "temporal": "a stay with an understood end"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

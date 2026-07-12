@@ -1,0 +1,29 @@
+{
+  "word": "wethate",
+  "gloss": "laundry",
+  "ipa": "/we̞.ˈθä.t̪e̞/",
+  "syllables": [
+    "we",
+    "tha",
+    "te"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Laundry / Cloth Gathered Through the Washing Cycle",
+  "description": "Garments and household cloth gathered for washing or moving through drying and folding afterward. The noun refers to one load or to the material waiting at a particular stage. 'wethalu' (garment) names something worn; 'wethate' gathers the cloth by the domestic work currently being done to it.",
+  "sound_symbolism": "The full cloth sound 'wetha' begins the word. Dental 'te' sets an edge around one gathered load before the pieces return to their separate uses.",
+  "grammatical_notes": "A mass or countable noun according to context: 'mia ha wethate sawa.' (I wash this laundry.) Work terms such as 'riporu' (task), 'rilowa' (assign), or 'ritako' (workload) may describe its labor without changing the household noun.",
+  "pillars": {
+    "peace-linguistics-practices": "Calling the gathered cloth laundry puts the repeated work where people can share, assign, refuse, or appreciate it.",
+    "pre-industrial-wisdom": "Washing day followed water, weather, fuel, and the time needed for cloth to dry before night."
+  },
+  "tags": {
+    "activity": "cloth moving through washing, drying, or folding",
+    "community": "a recurring domestic workload within a household",
+    "physical": "garments and household cloth gathered as one load"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

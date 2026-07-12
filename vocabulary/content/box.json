@@ -1,0 +1,27 @@
+{
+  "word": "molupa",
+  "gloss": "box",
+  "ipa": "/mo̞.ˈlu.pä/",
+  "syllables": [
+    "mo",
+    "lu",
+    "pa"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Box / Rigid Sided Container",
+  "description": "A rigid container shaped by flat sides, usually with a distinct opening or lid. It may hold tools under a bench, letters on a shelf, or food during a journey; 'molu' (container) covers every receptacle, while 'molupa' adds panels and a shape that stays when empty.",
+  "sound_symbolism": "The word keeps all of 'molu' (container) and adds 'pa'. That closing syllable sets a flat panel against the curved general holder.",
+  "grammatical_notes": "A countable noun: 'ha molupa lo tenoa phelu.' (This box holds tools.) A surrounding phrase gives its material or lid. A box stays a box whether open or closed.",
+  "pillars": {
+    "pre-industrial-wisdom": "A fitted wooden box protected letters, seed, medicines, and edge tools from damp or careless handling."
+  },
+  "tags": {
+    "creation": "a rigid container assembled from flat sides",
+    "physical": "a holder that retains its shape when empty"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

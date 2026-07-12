@@ -1,0 +1,29 @@
+{
+  "word": "seluto",
+  "gloss": "pour",
+  "ipa": "/se̞.ˈlu.t̪o̞/",
+  "syllables": [
+    "se",
+    "lu",
+    "to"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Pour / Cause Material to Flow from a Container",
+  "description": "To cause liquid or loose material to flow from a container into another place. The vessel's tilt and opening usually begin the pour. A spatial phrase gives its destination. 'selu' (flow) is the material's movement; 'seluto' is the deliberate act that begins and directs it.",
+  "sound_symbolism": "The opening 'selu' repeats the whole sound of 'selu' (flow). Dental 'to' puts a controlled edge on that movement at the lip of the vessel.",
+  "grammatical_notes": "A transitive verb: 'mia phialu seluto.' (I pour water.) Source and destination can appear in ordinary spatial phrases, and a vessel may appear with 'roe'. The event-noun rule supplies pouring.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Pouring makes the change of container visible: the hand directs the flow but cannot call back what has already crossed the lip.",
+    "pre-industrial-wisdom": "A practiced pour saved oil, milk, seed, and water from a spill when every carried measure had cost labor."
+  },
+  "tags": {
+    "activity": "directing material out of a container",
+    "physical": "a controlled flow across the lip of a vessel",
+    "spatial": "movement from a source container toward a destination"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

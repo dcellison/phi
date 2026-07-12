@@ -8,7 +8,7 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (198)
+## adjective (199)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -62,6 +62,7 @@
 | `luwae` | graceful | Graceful |
 | `luwi` | flexible | Flexible |
 | `maeli` | quiet | Quiet |
+| `mirewu` | private | Private |
 | `moesha` | still | Still |
 | `mokela` | sick | Sick |
 | `moli` | gentle | Gentle |
@@ -294,7 +295,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (477)
+## noun (499)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -349,6 +350,7 @@
 | `kipona` | pain | Pain |
 | `kira` | key | Key |
 | `kirae` | crystal | Crystal |
+| `kirato` | lock | Lock |
 | `kirema` | criterion | Criterion |
 | `kirero` | quality | Quality |
 | `kiroa` | sign | Sign |
@@ -359,7 +361,9 @@
 | `koewi` | input | Input |
 | `kohura` | noise | Noise |
 | `kolai` | pigment | Pigment |
+| `kolupe` | bucket | Bucket |
 | `koma` | head | Head |
+| `komalu` | pillow | Pillow |
 | `kopharu` | barrier | Barrier |
 | `koremu` | bark | Bark |
 | `kori` | leather | Leather |
@@ -393,6 +397,7 @@
 | `lioru` | life | Life |
 | `lirowa` | leaf | Leaf |
 | `liru` | fabric | Fabric |
+| `lirupa` | bag | Bag |
 | `litero` | ecosystem | Ecosystem |
 | `liweso` | ecological community | Ecological Community |
 | `loami` | gift | Gift |
@@ -405,6 +410,7 @@
 | `lonai` | width | Width |
 | `lopha` | vessel | Vessel |
 | `lophae` | storyteller | Storyteller |
+| `lophani` | bottle | Bottle |
 | `lopia` | child | Child |
 | `loremi` | branch | Branch |
 | `lorika` | blood | Blood |
@@ -460,6 +466,7 @@
 | `molira` | hill | Hill |
 | `moloi` | apprentice | Apprentice |
 | `molu` | container | Container |
+| `molupa` | box | Box |
 | `monaki` | component | Component |
 | `mophi` | wool | Wool |
 | `mophira` | sheep | Sheep |
@@ -477,6 +484,7 @@
 | `muhena` | dust | Dust |
 | `muila` | earth | Earth |
 | `munari` | sediment | Sediment |
+| `muneki` | latrine | Latrine |
 | `muphera` | stock | Stock |
 | `muphia` | mud | Mud |
 | `muralo` | material | Material |
@@ -510,6 +518,7 @@
 | `noru` | bowl | Bowl |
 | `norui` | boundary | Boundary |
 | `norulo` | jurisdiction | Jurisdiction |
+| `norupe` | spoon | Spoon |
 | `noruwa` | generation | Generation |
 | `nosa` | now | Now |
 | `nowhu` | cave | Cave |
@@ -523,6 +532,7 @@
 | `nurako` | railway | Railway |
 | `nuri` | cycle | Cycle |
 | `nuroa` | kitchen | Kitchen |
+| `nurome` | meal | Meal |
 | `nusho` | depth | Depth |
 | `nuwera` | bed | Bed |
 | `nuwoe` | stage | Stage |
@@ -547,14 +557,17 @@
 | `phanu` | canvas | Canvas |
 | `phao` | parent | Parent |
 | `pharea` | adult | Adult |
+| `phareme` | ingredient | Ingredient |
 | `phari` | pen | Pen |
 | `pharoe` | chest | Chest |
+| `phelasi` | shelf | Shelf |
 | `phelotu` | format | Format |
 | `phelui` | word | Word |
 | `pheluka` | lightning | Lightning |
 | `phemi` | guest | Guest |
 | `phemila` | host | Host |
 | `phenori` | ownership | Ownership |
+| `pheomu` | leftovers | Leftovers |
 | `pheralu` | rain | Rain |
 | `phero` | fern | Fern |
 | `phewani` | neighbor | Neighbor |
@@ -584,6 +597,7 @@
 | `phulae` | mouth | Mouth |
 | `phuliro` | stream | Stream |
 | `phuri` | brush | Brush |
+| `phurilo` | broom | Broom |
 | `phuwai` | lung | Lung |
 | `piloe` | spot | Spot |
 | `pilomu` | sycamore | Sycamore |
@@ -621,6 +635,7 @@
 | `ruela` | path | Path |
 | `rulami` | adventure | Adventure |
 | `runae` | resin | Resin |
+| `sawathi` | soap | Soap |
 | `seluwhe` | outage | Outage |
 | `sena` | pattern | Pattern |
 | `shalimo` | alliance | Alliance |
@@ -673,6 +688,8 @@
 | `suro` | rope | Rope |
 | `takori` | load | Load |
 | `talua` | shoulder | Shoulder |
+| `tapulo` | jar | Jar |
+| `tapuri` | lid | Lid |
 | `teli` | bell | Bell |
 | `telo` | farmer | Farmer |
 | `telui` | rhythm | Rhythm |
@@ -686,6 +703,7 @@
 | `thalume` | ancestor | Ancestor |
 | `thaluni` | kin | Kin |
 | `thaluro` | ocean | Ocean |
+| `thekopa` | recipe | Recipe |
 | `thelai` | balm | Balm |
 | `theloa` | truth | Truth |
 | `theloma` | justice | Justice |
@@ -712,6 +730,7 @@
 | `thirulo` | output | Output |
 | `tholau` | bone | Bone |
 | `tholu` | space | Space |
+| `tholupi` | room | Room |
 | `thomari` | courage | Courage |
 | `thonua` | scholar | Scholar |
 | `thorae` | facilitator | Facilitator |
@@ -754,7 +773,10 @@
 | `weru` | poet | Poet |
 | `weshaku` | outbreak | Outbreak |
 | `wetha` | cloth | Cloth |
+| `wethaki` | towel | Towel |
 | `wethalu` | garment | Garment |
+| `wethamo` | blanket | Blanket |
+| `wethate` | laundry | Laundry |
 | `wheiru` | mist | Mist |
 | `whekaro` | adverse effect | Adverse Effect |
 | `whekelu` | magic | Magic |
@@ -773,6 +795,7 @@
 | `wiru` | basket | Basket |
 | `wolea` | wood | Wood |
 | `womu` | home | Home |
+| `womuri` | household | Household |
 | `wonepa` | table | Table |
 | `woru` | keeper | Keeper |
 
@@ -880,7 +903,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (324)
+## verb (332)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -950,6 +973,7 @@
 | `lothea` | love | Love |
 | `lumeo` | die | Die |
 | `lumera` | nourish | Nourish |
+| `lupaki` | fold | Fold |
 | `lupho` | float | Float |
 | `makelu` | abstain | Abstain |
 | `malomi` | balance | Balance |
@@ -975,9 +999,11 @@
 | `moreko` | articulate | Articulate |
 | `morume` | decompose | Decompose |
 | `muholi` | dig | Dig |
+| `mukesi` | spoil | Spoil |
 | `mupelo` | vomit | Vomit |
 | `muraki` | harvest | Harvest |
 | `nai` | be | Be |
+| `napako` | bake | Bake |
 | `naphe` | help | Help |
 | `nashaku` | enforce | Enforce |
 | `natheri` | entail | Entail |
@@ -1027,6 +1053,7 @@
 | `phelona` | require | Require |
 | `phelu` | hold | Hold |
 | `phelure` | store | Store |
+| `phemiru` | visit | Visit |
 | `pherami` | depend | Depend |
 | `pheru` | endure | Endure |
 | `phesua` | inspire | Inspire |
@@ -1037,6 +1064,7 @@
 | `phoa` | do | Do |
 | `pholeni` | depart | Depart |
 | `phowe` | share | Sharing |
+| `phurewa` | sweep | Sweep |
 | `phuro` | renew | Renew |
 | `pilewa` | make | Make |
 | `pilora` | exploit | Exploit |
@@ -1071,6 +1099,7 @@
 | `sekaru` | transfer | Transfer |
 | `selomi` | weave | Weave |
 | `selu` | flow | Flow |
+| `seluto` | pour | Pour |
 | `seniku` | smile | Smile |
 | `sepho` | send | Send |
 | `sephori` | supply | Supply |
@@ -1142,6 +1171,7 @@
 | `theo` | read | Read |
 | `theomi` | trust | Trust |
 | `theonu` | attend | Attend |
+| `therapi` | boil | Boil |
 | `therilu` | rest | Rest |
 | `thilonu` | prepare | Prepare |
 | `thilou` | inquire | Inquire |
@@ -1175,6 +1205,7 @@
 | `wapi` | fly | Fly |
 | `warosha` | reconcile | Reconcile |
 | `welira` | thrive | Thrive |
+| `welotu` | mix | Mix |
 | `welura` | spread | Spread |
 | `wema` | belong | Belong |
 | `weni` | imagine | Imagine |

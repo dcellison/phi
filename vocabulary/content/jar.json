@@ -1,0 +1,27 @@
+{
+  "word": "tapulo",
+  "gloss": "jar",
+  "ipa": "/t̪ä.ˈpu.lo̞/",
+  "syllables": [
+    "ta",
+    "pu",
+    "lo"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Jar / Wide-Mouthed Storage Vessel",
+  "description": "A rigid, wide-mouthed vessel used to keep food or other small material. A jar often takes a lid, though its exact closure and preservation method remain separate. A bottle pours through a narrow neck; 'tapulo' opens wide enough for a hand or spoon.",
+  "sound_symbolism": "The opening is the full sound of 'tapu' (close), which recalls the well-fitted closure many jars carry. Rounded 'lo' leaves a broad hollow space beneath it.",
+  "grammatical_notes": "A countable noun: 'ha tapulo morisa phelu.' (This jar holds salt.) Ordinary phrases give its contents, material, and closure. Preservation safety depends on condition, closure, and method rather than the noun.",
+  "pillars": {
+    "pre-industrial-wisdom": "The household jar kept salt near the hearth and grain from mice. Another jar carried preserves through the cold months."
+  },
+  "tags": {
+    "creation": "a rigid storage vessel with a broad mouth",
+    "physical": "a holder reached through an opening wider than a bottle neck"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

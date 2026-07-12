@@ -1,44 +1,80 @@
 # Household and Daily Life
 
-**Status:** **Profile** - experimental organization, zero new roots.
+**Status:** **Established vocabulary module** with 30 optional roots and shared-core `mirewu` private.
 
 ## Charter
 
-This profile gathers existing Phi material for dwelling, shared daily life, food preparation, rest, upkeep, and small repair. It is the first domain profile because the vocabulary is already dense enough to test organization without inventing a technical extension or making a high-stakes claim.
+Household language begins where things are used repeatedly: the room that changes purpose by the hour, the bucket between the water source and the kitchen, the laundry waiting through rain, and the food left after a meal. This module adds words for those daily relations without defining one proper way to live together.
 
-It does not define a household as a nuclear family, owned dwelling, permanent address, or harmonious place. A home can be solitary, shared, temporary, chosen, unsafe, incomplete, or in need of repair. The profile names useful resources; it does not prescribe a social arrangement.
+The module adds vocabulary only. Phi keeps one grammar and one particle system, and every new word follows the ordinary event-noun or quality-noun rule where its part of speech permits.
 
-## Shared Core Dependencies
+## Boundaries
 
-These are existing core roots. Their appearance here is an index for this profile, not a transfer of ownership or a restriction on their use elsewhere.
+| Boundary | Module handling |
+|---|---|
+| Home, family, and household | `womu` home is a place of dwelling and belonging; `lumani` family is a family relation; `womuri` household identifies the person or group sharing domestic arrangements. None substitutes for the others. |
+| Privacy and secrecy | Shared-core `mirewu` private concerns chosen access or attention. `kupe` hide and `kupela` secret remain available for concealment and deliberately untold information. |
+| Domestic labor | Cleaning, cooking, and laundry can be described without assigning them. Work terms identify tasks, workload, assignment, drudgery, or exploitation when those relations matter. |
+| Ownership and authority | Ownership, obligation, authority, and consent require their own Commons or core clauses. Sharing a dwelling proves none of them by itself. |
+| Food and culture | The module names a meal, recipe, ingredient, leftovers, and several preparation actions. Local foods and named culinary traditions keep their source identities unless Phi later coins them on their own terms. |
+| Sanitation and health | `muneki` latrine identifies a practical household place. Exact maintenance and health instructions remain with their source; Medical vocabulary handles symptoms, infection, and care when those become the subject. |
+| Materials and ecology | Reuse, repair, and low-energy tools may support ecological aims. Ecological terms track the actual material and environmental relations instead of treating age or handwork as proof. |
 
-| Area | Existing roots | What the profile can already discuss |
+## Shared core dependencies
+
+The profile uses these ordinary Phi resources without moving them into the module.
+
+| Area | Existing resources | Work they already do |
 |---|---|---|
-| Belonging and co-presence | `womu` home, `shuroa` shelter, `lumani` family, `melu` friend, `phao` parent, `lopia` child, `wheo` elder, `sila` community | A dwelling and the people or relations around it, without assuming that any one relation defines the home. |
-| Rooms, boundaries, and furnishings | `nuroa` kitchen, `nuwera` bed, `wonepa` table, `meipa` seat, `ponu` door, `wira` window, `moru` wall, `tomae` floor, `toru` roof | Places to sleep, gather, prepare food, enter, and maintain. |
-| Light, warmth, and materials | `luma` lamp, `phelo` light, `moeli` hearth, `thero` fire, `wolea` wood, `wetha` cloth, `wethalu` garment, `palowe` shoe | Everyday material conditions without treating warmth or shelter as luxuries. |
-| Food and vessels | `nuora` food, `napa` bread, `phialu` water, `nuola` eat, `milau` drink, `pharelo` cook, `noru` bowl, `soeli` cup, `tomi` pot, `lopha` vessel | Preparing, sharing, eating, drinking, and carrying ordinary food and water. |
-| Rest, upkeep, and repair | `nulae` sleep, `therilu` rest, `sawa` wash, `hiso` clean, `shiroka` repair, `talome` restore, `tenoa` tool, `thepalu` garden, `thinoe` seed | Resting, cleaning, tending, making do, and repairing rather than discarding. |
+| Dwelling and company | `womu` home, `menui` dwell, `manolu` stay, `shuroa` shelter, `lumani` family, `melu` friend, `phemi` guest, `phemila` host, `phewani` neighbor | Speakers can describe a place of belonging and the people who live, stay, or arrive there before choosing the narrower household word. |
+| Interior and furniture | `nuroa` kitchen, `nuwera` bed, `wonepa` table, `meipa` seat, `ponu` door, `wira` window, `moru` wall, `tomae` floor, `toru` roof, `tholu` space | The main parts and furnishings of a dwelling already have direct words. |
+| Food and vessels | `nuora` food, `napa` bread, `sulopa` soup, `phialu` water, `nuola` eat, `milau` drink, `pharelo` cook, `noru` bowl, `soeli` cup, `palu` plate, `tomi` pot, `lopha` vessel, `molu` container, `wiru` basket | General eating, cooking, and holding remain core; the module adds recurring forms and preparation distinctions around them. |
+| Cloth and rest | `wetha` cloth, `liru` fabric, `wethalu` garment, `nulae` sleep, `therilu` rest, `sulae` warm, `wuloe` soft, `kurathi` dry, `wirua` wet | Cloth and bodily conditions remain available beyond any domestic object made from them. |
+| Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `muhena` dust, `phuri` brush, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold | The core already carries the ordinary actions around which the module objects gather. |
+| Choice and relations | `mirewu` private, `kanu` choose, `lesawi` consent, `nawo` agree, `naweri` refuse, `theama` care, `phowe` share, `nuawe` together | Privacy, consent, refusal, care, and sharing remain independent of family, ownership, and domestic role. |
 
-The profile deliberately retains broad terms such as `theama` (care), `palo` (touch), `nawo` (agree), and `naweri` (refuse) in the shared core. They are as important to access, bodily autonomy, community life, and dialogue as they are to a household.
+## Cross-module dependencies
 
-## Optional Cross-Module Dependencies
+| Module | Resources used here | Boundary kept visible |
+|---|---|---|
+| [Work, Craft, and Repair](work_craft_and_repair.md) | `riporu` task, `winora` plan, `rilowa` assign, `ritako` workload, `rimawu` drudgery, `muphera` stock, `sitawi` inventory | Household work can be organized or criticized without treating the work as naturally assigned. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `muralo` material, `panuri` resource, `whemori` waste, `morume` decompose, `tukelu` recycle, `howenu` weather | The household uses materials and produces effects; the domestic word alone does not establish a sound ecological relation. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | `wemari` member, `sithora` role, `karami` authority, `phenori` ownership, `naseru` obligation, `kawhera` coerce, `whepelo` retaliate | Membership, role, property, and power remain claims that may be absent or contested in a household. |
+| [Accessibility and Participation](accessibility_and_participation.md) | `ruweli` access, `lokane` accessible, `kopharu` barrier, `hinawu` accommodate, `kelasu` usable, `loshenu` clearance | A room or tool can belong to a household and still fail someone in movement or use. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `phelure` store, `henora` capacity, `koluri` reliable, `kiphira` fault, `seluwhe` outage | Storage, water, heat, and household devices can be discussed as systems when function and failure become the question. |
+| [Medical and Bodily Care](medical_and_bodily_care.md) | `peshiro` infection, `thephaku` inflammation, `suloru` fever, `nephoru` treat, `teshori` quarantine | Food, sanitation, sleep, and care can affect health without turning daily life into a clinical account. |
 
-The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `muralo` material, `panuri` resource, `whemori` waste, `morume` decompose, `lurepa` nutrient, `tukelu` recycle, `howenu` weather, `meluri` climate, `phaluwe` flood, and `kuramo` drought. Household speakers may use these terms when the ecological distinction matters, but none makes a domestic object inherently waste, grants access to a resource, proves recycling harmless, or decides how household burdens should be shared.
+## First vocabulary pass
 
-The established [Commons and Collective Governance module](commons_and_collective_governance.md) supplies `wemari` member, `sithora` role, `karami` authority, `nasholu` rule, `kanuro` decision, `phanuli` allocate, `shereni` entitlement, `phenori` ownership, `naseru` obligation, `sirami` record, `kawhera` coerce, and `whepelo` retaliate. Household speakers may use these terms where institutional relations actually apply, but a home is not automatically an institution, domestic roles and obligations may be contested, ownership does not establish safety or belonging, and collective vocabulary must not conceal coercion or unequal labor.
+The first pass admits 30 optional words and places `mirewu` private in shared core.
 
-## Existing Practice
+| Family | Established words | New reach |
+|---|---|---|
+| Household and boundaries | `womuri` household, `tholupi` room, `phemiru` visit, `kirato` lock | Speakers can distinguish the domestic unit from home or family, name an interior room, bound a guest stay, and identify the mechanism holding a closure. |
+| Storage and fixtures | `phelasi` shelf, `lirupa` bag, `molupa` box, `lophani` bottle, `tapulo` jar, `kolupe` bucket, `tapuri` lid, `muneki` latrine | General containers now divide by flexible sides, rigid panels, openings, carrying handles, fitted covers, and household function. |
+| Cleaning and cloth | `phurilo` broom, `phurewa` sweep, `sawathi` soap, `wethaki` towel, `wethate` laundry, `lupaki` fold, `wethamo` blanket, `komalu` pillow | Upkeep can name its tools, gathered cloth, repeated motions, and the coverings that return to the bed. |
+| Meals and preparation | `norupe` spoon, `nurome` meal, `phareme` ingredient, `thekopa` recipe, `pheomu` leftovers, `mukesi` spoil, `therapi` boil, `napako` bake, `welotu` mix, `seluto` pour | Food can be followed from instructions and ingredients through preparation, eating, remaining portions, and loss of use. |
 
-The profile begins with [primer chapter 1](../../primer/01_the_household.md), which already introduces the word for home, family and friendship roles, and a small scene. It then moves from naming a dwelling to ordinary shared acts: prepare food, eat, rest, clean, repair, and decide what needs tending.
+All 30 module entries carry `household-and-daily-life`. `mirewu` carries no module field and appears in base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
-When a local food, material, appliance, building rule, address, quantity, or source label must remain exact, preserve it outside the Phi passage in the surrounding medium. Use existing vocabulary, a transparent expression, a module term, or a fully admitted new word when Phi needs the concept itself. Separate preservation is not a substitute for explaining a safety-critical instruction in shared Phi.
+## Concepts kept compositional or external
 
-Material sourcing, heat and cooling, water use, food cultivation, reuse, and waste overlap [Ecological Systems and Material Life](ecological_systems_and_material_life.md). Domestic labor, practical learning, tools, maintenance, and repair overlap [Work, Craft, and Repair](work_craft_and_repair.md). Listing wood, cloth, food, water, fire, or repair in a household description does not establish that the arrangement is ecologically sustainable, safe, accessible, fairly governed, voluntarily shared, or complete.
+| Concept | Phi strategy | Reason to keep the parts visible |
+|---|---|---|
+| Chair, stool, bench, or sitting cushion | Use `meipa` seat with material, height, back, or shape where useful | The existing root already covers whatever is made for sitting. |
+| General container | Use `molu` container | A dedicated form matters only when a bag, box, bottle, jar, bucket, or another named vessel is intended. |
+| Basket | Use `wiru` basket | Its woven, self-supporting construction already has a direct core word. |
+| Cupboard, pantry, or closet | Use `tholupi`, `phelasi`, `molupa`, and `tapu` around the actual arrangement | Rooms, shelves, boxes, and closures combine differently across dwellings. |
+| Morning or evening meal | Use `nurome` with `kelua` morning, `howai` evening, or another time phrase | The meal remains available without imposing a universal daily schedule. |
+| Household chore | Use Work `riporu` task with the concrete action | Assignment, acceptance, workload, and drudgery stay separate from the cleaning or cooking itself. |
+| Frying, roasting, steaming, or another cooking method | Use `pharelo` with a Phi description or preserve the exact source method | Heat source, vessel, liquid, and movement may matter more than an approximate inherited label. |
+| Bathing place or washing fixture | Use `sawa`, `tholupi`, `noru`, `molu`, and source information where needed | Action, room, basin, water path, and exact fixture remain separately describable. |
+| Rent, tenancy, lease, or exact address | Use Commons relations and preserve the source document or address | Legal force, exact terms, and place identity belong to the source artifact. |
+| Rice, tea, nuts, and other culturally situated staples | Use `nuora` food with the source name until a dedicated Phi word is wanted | A familiar food may be coined later without pretending one household's staple is universal. |
 
-## Profile Scenario: The Old Table
+## Before-state scenario: The old table
 
-This short scenario is a regression text for the profile, not a model of every household. It checks that the profile can move from noticing a worn object to repair, shared food, and rest without adding vocabulary.
+This short dialogue remains a regression text for the dense core vocabulary that existed before the module pass.
 
 ```
 A: ha wonepa serao nai.
@@ -62,20 +98,10 @@ PL 1SG rest.
 (We rest.)
 ```
 
-## Gap Log
+The scene still works without a module word. It moves from noticing wear to repair, eating, and rest in five short exchanges. The later vocabulary can ask whether the people are one `womuri` household, whether the food is a `nurome` meal, what remains as `pheomu` leftovers, and which `riporu` task follows, but none of those questions makes the original composition obsolete.
 
-- **The profile is already useful without claiming completeness.** It can describe shared dwelling, food, material upkeep, and repair in a short connected scene using ordinary core roots.
-- **Many familiar object names remain absent.** A spoon, bottle, chair, storage container, and numerous culturally specific staples may remain transparent descriptions or receive roots during the household vocabulary pass according to usefulness and fit.
-- **Household language must not naturalize ownership or hierarchy.** Current core terms can describe home, family, friendship, and community, but they do not themselves express tenancy, property, domestic labor allocation, coercion, or household decision procedures. Those questions overlap [Commons and Collective Governance](commons_and_collective_governance.md), [Work, Craft, and Repair](work_craft_and_repair.md), and care scenarios rather than a quiet word-list expansion.
-- **The profile is ready for a vocabulary pass.** Its dependency map and connected scene provide a before-state; a retrieval exercise remains optional learning feedback rather than a prerequisite for adding household terms.
+## Continued development
 
-## Vocabulary Pass Starting Point
+Use the module in solitary or shared dwellings and temporary shelters. Let it follow ordinary meals, guest stays, cleaning days, and disputes over domestic work. Later use may ask for another utensil, fixture, staple, or relation, and Phi can coin it without reopening the grammar.
 
-Write or review a description of a dwelling or shared daily routine, then compare it with the dependency map and record:
-
-1. Roots that were available but not findable.
-2. Concepts that required a separate source artifact or a composition.
-3. English rescue words that could not be expressed faithfully.
-4. Any profile grouping that encouraged an inaccurate social assumption.
-
-Retain descriptions and compounds that feel natural, and coin complete household module words wherever dedicated vocabulary would make daily life easier or more enjoyable to discuss.
+All eight active profiles now have vocabulary passes and speaker chapters. The next review can assess genuine multi-module membership before revisiting the active corpus with the whole expanded lexicon.

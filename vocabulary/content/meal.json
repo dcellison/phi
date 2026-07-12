@@ -1,0 +1,29 @@
+{
+  "word": "nurome",
+  "gloss": "meal",
+  "ipa": "/n̪u.ˈro̞.me̞/",
+  "syllables": [
+    "nu",
+    "ro",
+    "me"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Meal / Food Eaten in One Occasion",
+  "description": "Food prepared or gathered for one eating occasion, and by extension the occasion itself. The company, pace, formality, and amount all vary; 'nuora' (food) names what nourishes, while 'nurome' gathers some of it into a particular sitting.",
+  "sound_symbolism": "Nourishing 'nu' starts in the same grounded region as 'nuora' (food) and 'nuola' (eat). Rounded 'ro' gathers the dishes. Quiet 'me' settles the occasion at the table.",
+  "grammatical_notes": "A countable noun: 'lo mia ha nurome nuola.' (We eat this meal.) Time words identify a morning or evening meal without requiring separate breakfast or dinner roots. Context distinguishes the eating occasion from the food offered.",
+  "pillars": {
+    "peace-linguistics-practices": "A meal gives sharing a concrete object: who prepared it, who can eat it, and who has not yet been served can all remain visible.",
+    "pre-industrial-wisdom": "Meals followed work, light, season, and available fuel more often than a fixed clock."
+  },
+  "tags": {
+    "activity": "an occasion of eating",
+    "community": "food gathered for solitary or shared eating",
+    "physical": "a bounded preparation of food"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

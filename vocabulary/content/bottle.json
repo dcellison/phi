@@ -1,0 +1,28 @@
+{
+  "word": "lophani",
+  "gloss": "bottle",
+  "ipa": "/lo̞.ˈɸä.n̪i/",
+  "syllables": [
+    "lo",
+    "pha",
+    "ni"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Bottle / Narrow-Necked Vessel",
+  "description": "A portable vessel with a narrow neck, usually made to hold and pour liquid; its closure varies with the vessel and use. 'lopha' (vessel) covers liquid containers broadly, while 'lophani' narrows the opening so the contents travel with less spilling.",
+  "sound_symbolism": "'Lopha' (vessel) remains intact until the final syllable. Small 'ni' draws its open body into a narrow neck.",
+  "grammatical_notes": "A countable noun: 'ha lophani phialu phelu.' (This bottle holds water.) Material, closure, and contents may precede or surround it. 'soeli' (cup) is open for drinking, while a bottle is shaped for keeping and pouring.",
+  "pillars": {
+    "solarpunk-values": "A refillable bottle keeps water portable without making a new disposable vessel for every drink.",
+    "pre-industrial-wisdom": "Clay, skin, wood, and glass bottles carried oil or drink through workdays and long roads."
+  },
+  "tags": {
+    "creation": "a vessel made with a narrowed neck",
+    "physical": "a portable holder for liquid"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "lupaki",
+  "gloss": "fold",
+  "ipa": "/lu.ˈpä.ki/",
+  "syllables": [
+    "lu",
+    "pa",
+    "ki"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Fold / Lay One Part Over Another",
+  "description": "To bend flexible material so one part lies over another, usually along a deliberate line. Cloth, paper, and soft coverings fold for keeping or use; 'lupaki' describes the placement of the layers rather than damage to the material.",
+  "sound_symbolism": "Liquid 'lu' lets the material yield. Flat 'pa' brings one surface onto another. 'Ki' draws the crease where they meet.",
+  "grammatical_notes": "A transitive verb: 'mia ha wethalu lupaki.' (I fold this garment.) The number, direction, or purpose of folds may appear separately. The event-noun rule supplies a fold or the act of folding according to context.",
+  "pillars": {
+    "art-nouveau-aesthetics": "A fold changes how a flat material catches light and shadow without cutting away any part of it.",
+    "pre-industrial-wisdom": "Folded cloth fit a chest, protected a finished edge, and made the next morning's work easier to begin."
+  },
+  "tags": {
+    "activity": "laying one part of flexible material over another",
+    "creation": "forming layers and a deliberate crease",
+    "physical": "repositioning material without separating it"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "word": "pheomu",
+  "gloss": "leftovers",
+  "ipa": "/ɸe̞.ˈo̞.mu/",
+  "syllables": [
+    "phe",
+    "o",
+    "mu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Leftovers / Prepared Food Remaining After a Meal",
+  "description": "Prepared food remaining after a meal or serving, still held for a later decision or use. Some leftovers become another meal or an ingredient. Others are given away, composted, or discarded according to their condition and the household's choice. 'whemori' (waste) begins when someone assigns no further intended use; 'pheomu' begins simply because food remains.",
+  "sound_symbolism": "'Pheo' (after) puts the food beyond the meal that first gathered it. Grounded 'mu' keeps the remainder physically present instead of letting it vanish with the plates.",
+  "grammatical_notes": "A mass or plural noun by context: 'ha pheomu mua tapulo nai.' (These leftovers are in the jar.) Nearby clauses can place them in time and describe their storage or next use. Condition and handling determine whether the food remains safe.",
+  "pillars": {
+    "solarpunk-values": "Leftovers make the next use of prepared food visible before the household calls it waste.",
+    "pre-industrial-wisdom": "Yesterday's grain, broth, or bread often began today's pot rather than a separate category of disposable food."
+  },
+  "tags": {
+    "physical": "prepared food remaining after an eating occasion",
+    "temporal": "food carried beyond the meal that first served it"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}
