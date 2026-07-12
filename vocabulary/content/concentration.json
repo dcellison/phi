@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Concentration / Amount of an Agent per Stated Medium",
-  "description": "The amount of a stated substance, material, organism, or agent relative to a stated quantity of medium, volume, mass, area, or other denominator. A concentration claim requires its agent, basis, unit, method, and source when they matter. The word does not mean total amount, technical load, toxicity, exposure, dose, purity, a mental act of attention, or proof that a threshold has been exceeded.",
+  "description": "The amount of an agent measured against a stated medium, always a ratio rather than a bare total. It answers a narrower question than total load, dose, or toxicity, each of which needs its own word and its own evidence.",
   "sound_symbolism": "Grounded 'no' establishes the medium or denominator, 'mi' gathers the stated agent within it, and precise 'ki' closes the relative measurement. The compact form holds amount against medium rather than presenting an isolated number.",
   "grammatical_notes": "A countable or mass noun commonly possessed by the agent or medium: 'ha phialu ha hisophi nomiki phelu.' (This water has this contaminant concentration.) Preserve exact values and units in a separate source record. Distinct from 'masue' (measure), 'takori' (load), total quantity, and a psychological concentration of attention.",
   "pillars": {

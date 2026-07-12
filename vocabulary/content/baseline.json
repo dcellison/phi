@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Baseline / Stated Reference Condition for Comparison",
-  "description": "A documented state, measurement set, period, place, population, or other stated condition chosen as a reference for later or alternative comparison. A baseline may be historical, measured, modeled, reconstructed, or administratively selected and may itself contain change or uncertainty. The word does not mean original nature, ideal condition, target, average, cause, moral norm, or proof that the reference is fair or complete.",
+  "description": "A stated reference condition chosen for comparison, which can be historical, modeled, or administratively set. A baseline need not be the earliest, healthiest, or most natural state a place has held; it is simply the point everything else gets measured against.",
   "sound_symbolism": "The complete foundation-bearing form 'motha' sets a reference beneath later comparisons without pretending it is the beginning of the world. Final 'mi' gathers the selected state, measurements, or period into one held comparison point that can still be revised.",
   "grammatical_notes": "A countable noun: 'ha mirela ha mothami senao ma nai.' (This state is not the same as this baseline.) State variables, place, period, method, source, and uncertainty where relevant. Distinct from 'motha' (foundation), `mirela` (state), target condition, ordinary past, and an exact reference dataset.",
   "pillars": {
