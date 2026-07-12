@@ -2,7 +2,7 @@
 
 A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. That question, and the thirty words that let a speaker answer it precisely, are what this module holds: membership and role, authority and its limits, proposal and decision, record and review, and the harder words for when an institution fails the people it claims to serve.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them confers nothing: not public authority, not legal knowledge, not permission to decide for anyone else.
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
 The complete machine-generated list is also available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
@@ -27,7 +27,7 @@ Systems lends the technical state behind an institution's tools, Ecological the 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
 | `wemari` | noun | member; recognized participant under stated criteria | Membership is recognized under a criterion; belonging (`wema`) needs none. |
-| `shalori` | verb | represent; act or communicate on behalf of another | Representing someone is not resembling them, and its scope stays worth naming. |
+| `shalori` | verb | represent; act or communicate on behalf of another | Representing someone is not resembling them, and the standing always has a scope. |
 | `punoki` | noun | institution; continuing organized social arrangement | An institution outlives any one meeting; a label does not make it just. |
 | `sithora` | noun | role; defined institutional or social position | A role is a position, never the person who currently fills it. |
 | `loatho` | verb | delegate; entrust bounded action or authority | Delegation entrusts a bounded task; the accountability stays with whoever entrusted it. |
@@ -45,7 +45,7 @@ Systems lends the technical state behind an institution's tools, Ecological the 
 | `phanuli` | verb | allocate; assign resources, access, time, or burdens | Allocation assigns; whether the assignment is fair is `thua`'s question, not this word's. |
 | `shereni` | noun | entitlement; recognized and scoped claim | An entitlement is recognized and scoped; it is not yet in anyone's hands. |
 | `phenori` | noun | ownership; socially defined powers and claims over something | Ownership is a bundle of social powers, wider than merely holding something. |
-| `naseru` | noun | obligation; requirement borne under a stated source | An obligation has a source worth naming; that is what tells it apart from a wish. |
+| `naseru` | noun | obligation; requirement borne under a stated source | An obligation has a source, and the source is what tells it apart from a wish. |
 | `lothoni` | adjective | accountable; required to answer and undergo review | Accountable means owing an answer, not the same as having caused the harm. |
 | `helolu` | verb | redress; act to address institutional or social harm | Redress answers a harm; it need not erase the loss to count. |
 | `nashaku` | verb | enforce; act in relation to compliance with a rule or decision | Enforcement acts on a rule; it proves neither the rule's justice nor its success. |
@@ -69,7 +69,7 @@ PROX community member LOC council participate.
 (This community member participates in the council.)
 ```
 
-`shalori` is speaking or acting for someone else, and the shape of that standing is worth stating: who authorized it, on what matter, for how long, and how it can be corrected if it goes wrong.
+`shalori` is speaking or acting for someone else, and the shape of that standing matters: who authorized it, on what matter, for how long, and how it can be corrected if it goes wrong.
 
 ```
 mia ha sila shalori.
@@ -169,7 +169,7 @@ PROX council PROX decision PST do.
 (The council made this decision.)
 ```
 
-`naweso` is a bounded procedural condition, not a mood in the room. Naming it well means naming who counted as a participant, what the blocking rule was, and what reservations remained.
+`naweso` is a bounded procedural condition, not a mood in the room. An honest report of consensus says who counted as a participant, what the blocking rule was, and what reservations remained.
 
 ```
 ha kanuro naweso phelu.
@@ -299,7 +299,7 @@ PROX council PROX rule amend.
 
 ## Coercion and retaliation
 
-`kawhera` names a real narrowing of choice through power or threat. Naming it well means naming the demand, the alternatives that actually existed, and the account of the person on the receiving end; a rule or an urgent need is not automatically coercive, and neither does it rule coercion out.
+`kawhera` names a real narrowing of choice through power or threat, and the claim owes its details: the demand, the alternatives that actually existed, and the account of the person on the receiving end. A rule or an urgent need is not automatically coercive, and neither does it rule coercion out.
 
 ```
 ha miona thia kawhera.
