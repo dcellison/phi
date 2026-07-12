@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Inventory / Time-Bounded Record of Held Items and Their Status",
-  "description": "A recorded enumeration of items, materials, quantities, locations, or conditions within a stated scope at a stated time and by a stated method. An inventory is a representation of stock rather than the stock itself. It does not establish ownership, current availability, accuracy, provenance, authority to allocate, or the continued truth of the record after conditions change.",
+  "description": "A record of what is held: items, quantities, places, conditions, within a scope, at a time. An inventory represents the stock, 'muphera' (stock), without being it; the shelf keeps its own truth, and the record's accuracy ends the moment conditions change without it.",
   "sound_symbolism": "Community-bearing 'si' locates the record within shared practice, 'ta' counts or marks its entries, and final 'wi' leaves the list open to movement and update. The form is orderly without implying permanence.",
   "grammatical_notes": "A countable noun: 'mia ha sitawi tukiro.' (I review the inventory.) State the scope, time, method, recorder, units, and uncertainty where relevant. Distinct from 'muphera' (stock), 'sirami' (record), 'tawi' (count), 'phelure' (store), and ownership documentation.",
   "pillars": {
