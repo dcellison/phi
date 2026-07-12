@@ -1333,7 +1333,7 @@
 | `phelora` | beautiful | celebrates organic forms and flowing natural patterns |
 | `pheluka` | lightning | The storm's sudden light |
 | `pheralu` | rain | Atmospheric water cycle |
-| `phero` | fern | Spore-bearing plant |
+| `phero` | fern | A vascular plant that reproduces through spores |
 | `phialu` | water | fundamental natural element essential to all ecosystems and life |
 | `philea` | feather | Flight's fabric |
 | `philima` | biodiversity | variation among living beings across one or more biological levels |

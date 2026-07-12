@@ -24,7 +24,7 @@ The surrounding page preserves `temperature: 38.7 C`; neither Phi sentence attem
 
 ## C. Test a name
 
-`samira` is a valid three-syllable productive onym. `saweriko` is invalid because it has four syllables. `mimimi` duplicates an onset-bearing syllable. The retired boundary forms remain unavailable even though their shapes would otherwise fit the productive-name charter.
+`samira` is a valid three-syllable productive onym. `saweriko` is invalid because it has four syllables. `mimimi` repeats a syllable that has an onset. The retired boundary forms remain unavailable even though their shapes would otherwise fit the productive-name charter.
 
 ## D. Separate source, translation, and analysis
 

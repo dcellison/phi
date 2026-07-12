@@ -1,6 +1,6 @@
 # Part 2: Names and adaptation
 
-A Phi sentence can name a referent with `ne` plus one valid Phi token. The token may be a listed content word or a productive onym with two or three legal syllables and no duplicated onset-bearing syllable.
+A Phi sentence can name a referent with `ne` plus one valid Phi token. The token may be a listed content word or a productive onym with two or three legal syllables and no duplicated syllable with an onset.
 
 ```
 mia nomei ne samira nai.

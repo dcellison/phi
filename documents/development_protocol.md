@@ -133,7 +133,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 - [ ] The bearer or naming community accepts the form
 - [ ] The form is one lowercase token with two or three Phi syllables
-- [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no onset-bearing syllable
+- [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no syllable with an onset
 - [ ] It is not a function word, interjection, complementizer, or other grammatical boundary
 - [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
 - [ ] It receives no lexicon file, gloss, part of speech, sound-symbolism rationale, pillar claim, or automatic core status

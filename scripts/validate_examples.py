@@ -38,6 +38,10 @@ The single validation tool for the Phi project. Checks:
      - single-word citations "'word' (gloss)" cite real words, and
        short lowercase parentheticals must contain the cited gloss
 
+  4. Project prose policy:
+     - lexicon prose and active Markdown reject the prohibited
+       hyphenated adjective construction named in the voice guide
+
 Usage:
     python3 scripts/validate_examples.py                # full check
     python3 scripts/validate_examples.py --lexicon-only
@@ -71,6 +75,11 @@ VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
 DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
+ACTIVE_PROSE_ROOTS = ["canon.md", *DOC_ROOTS, "vocabulary"]
+PROHIBITED_HYPHENATED_CONSTRUCTION = re.compile(
+    r"\b[A-Za-z]+-" + "bearing" + r"\b",
+    re.IGNORECASE,
+)
 
 CONSONANTS = set("hklmnprstw")
 DIGRAPHS = ("ph", "th", "sh", "wh")
@@ -250,6 +259,34 @@ def canonical_dump(data):
         ordered[key] = value
     return json.dumps(ordered, indent=2, ensure_ascii=False) + "\n"
 
+
+def iter_string_fields(value, prefix=""):
+    """Yield dotted field paths and strings from nested schema data."""
+    if isinstance(value, str):
+        yield prefix, value
+    elif isinstance(value, dict):
+        for key, item in value.items():
+            child = f"{prefix}.{key}" if prefix else key
+            yield from iter_string_fields(item, child)
+    elif isinstance(value, list):
+        for index, item in enumerate(value):
+            child = f"{prefix}[{index}]"
+            yield from iter_string_fields(item, child)
+
+
+def contains_prohibited_hyphenated_construction(text):
+    """Return whether project prose uses the banned construction."""
+    return PROHIBITED_HYPHENATED_CONSTRUCTION.search(text) is not None
+
+
+def prohibited_prose_errors(rel, text):
+    """Report prohibited construction locations without repeating it."""
+    return [
+        f"{rel}:{lineno}: prohibited hyphenated adjective construction"
+        for lineno, line in enumerate(text.splitlines(), start=1)
+        if contains_prohibited_hyphenated_construction(line)
+    ]
+
 # Tokens that legitimately appear in examples without being lexicon words.
 WHITELIST = {
     # deliberate error form shown in the pamphlets
@@ -405,6 +442,13 @@ def check_lexicon(entries):
     for rel, data in entries:
         word = data.get("word", "")
         cls = rel.parts[1] if len(rel.parts) > 1 else ""
+
+        for field, text in iter_string_fields(data):
+            if contains_prohibited_hyphenated_construction(text):
+                errors.append(
+                    f"{rel}: prohibited hyphenated adjective construction "
+                    f"in {field}"
+                )
 
         if word in name_forms.RETIRED_FORMS:
             errors.append(f"{rel}: word '{word}' is a retired Phi form")
@@ -1125,6 +1169,29 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
     return errors
 
 
+def check_active_prose(paths=None):
+    """Check active Markdown while deliberately leaving archive untouched."""
+    roots = paths or ACTIVE_PROSE_ROOTS
+    files = set()
+    for root in roots:
+        path = PROJECT_ROOT / root
+        if path.is_file() and path.suffix == ".md":
+            files.add(path)
+        elif path.is_dir():
+            files.update(path.rglob("*.md"))
+
+    errors = []
+    for path in sorted(files):
+        rel = path.relative_to(PROJECT_ROOT)
+        try:
+            text = path.read_text(encoding="utf-8")
+        except OSError as error:
+            errors.append(f"{rel}: unreadable: {error}")
+            continue
+        errors.extend(prohibited_prose_errors(rel, text))
+    return errors
+
+
 # ---------------------------------------------------------------------------
 # Collision helper (for new coinages)
 # ---------------------------------------------------------------------------
@@ -1282,6 +1349,7 @@ def main():
         errors.extend(check_docs(
             lexicon_words, args.paths, gloss_of, prepositions, content_words
         ))
+        errors.extend(check_active_prose(args.paths))
         if not args.paths:
             errors.extend(check_citations())
         if not args.paths or "documents/compounds.md" in args.paths:
