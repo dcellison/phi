@@ -1,12 +1,14 @@
 # Systems and Shared Infrastructure
 
-The Systems and Shared Infrastructure module gives Phi speakers optional vocabulary for explaining how components interact, how material, energy, and information move, how a system changes, and how technical work identifies limits, faults, hazards, and requirements. The words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning this module does not confer technical authority, expertise, ownership, or permission to act.
+The pump that fills the cistern draws power from the same line as the mill, and on the hottest afternoon of the year both draw at once. Whether the line holds is a question about capacity and load; whether either machine is working right is a question about function and state; whether the whole arrangement is wise is a question these twenty-six words let a speaker ask cleanly, one relation at a time.
+
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
 The complete machine-generated list is also available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
-The module does not replace Phi's existing language of devices, movement, repair, measurement, or shared care. It adds narrower relations around these familiar resources.
+The module does not replace what Phi already says about devices, movement, and repair. It adds narrower technical relations around these familiar resources.
 
 | Area | Core Phi resources |
 |---|---|
@@ -21,37 +23,37 @@ The module does not replace Phi's existing language of devices, movement, repair
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
-| `terura` | noun | system; bounded whole of interacting components | A system is not merely a collection, network, process, device, or harmonious whole. |
-| `monaki` | noun | component; functionally identified part | A component is not every piece, ingredient, member, or nearby object. |
-| `nowiso` | noun | interface; defined means or place of interaction | An interface is more specific than a boundary or connection and is not only a screen. |
-| `kelitho` | verb | function; perform a system role or operation | Functioning does not establish purpose, efficiency, reliability, safety, or success. |
-| `mirela` | noun | state; selected system conditions at a time | A state is an analytical description, not a permanent essence or every fact about a thing. |
-| `pherami` | verb | depend; require another element for function or state | Dependency is not logical entailment, cause, ownership, control, or personal inferiority. |
-| `koewi` | noun | input; matter, energy, information, or influence entering a system | Not every arrival, cause, resource, instruction, or contribution is an input. |
-| `thirulo` | noun | output; matter, energy, information, or effect leaving a system | An output is not automatically useful, intended, harmless, or evidence of good performance. |
-| `sekaru` | verb | transfer; move something from a source to a recipient | Transfer is more specific than movement or flow and does not prove successful receipt or conservation. |
-| `kirowi` | noun | signal; detectable variation carrying information | A signal is not automatically a command, message, measurement, cause, or reliable evidence. |
-| `ketora` | verb | control; adjust a technical process toward a selected state | Technical control is not authority, command, coercion, ownership, or control of people. |
-| `turelo` | noun | feedback; returned effect that alters an ongoing process | Feedback is more than return, recurrence, circular shape, response, or commentary. |
-| `henora` | noun | capacity; conditioned limit of holding, processing, or delivery | Capacity is not current contents, output, human ability, permission, or guaranteed performance. |
-| `takori` | noun | load; technical demand placed on a system | Load does not unmarkedly mean labor, distress, obligation, cargo, or a burden placed on a person. |
-| `phelure` | verb | store; retain for later retrieval or release | Storage does not establish preservation, security, ownership, capacity, or recoverability. |
-| `poruli` | adjective | efficient; high useful output relative to selected input | Efficiency is not speed, productivity, sustainability, fairness, safety, sufficiency, or goodness. |
-| `masuro` | verb | calibrate; relate an instrument to a stated reference | Calibration is not measurement, inspection, universal accuracy, or proof that a method is suitable. |
-| `kiphira` | noun | fault; abnormal technical condition | A fault is not blame, moral wrongdoing, legal liability, breakage, or necessarily failure. |
-| `thonuki` | verb | fail; not perform a stated required function | Failure need not involve physical breakage and does not identify its cause or responsible person. |
-| `seluwhe` | noun | outage; bounded period of unavailable infrastructure service | An outage is not necessarily total system destruction, an unplanned event, or equally harmful to everyone. |
-| `wepanu` | adjective | redundant; having independent alternative means for a function | Technical redundancy is not needless repetition, identical duplication, or guaranteed reliability. |
-| `nilaki` | verb | inspect; systematically examine condition against criteria | Inspection is not repair, calibration, certification, approval, or a guarantee of safety. |
-| `koluri` | adjective | reliable; consistently performing a required function under conditions | Reliability is not certainty, accuracy, safety, redundancy, or a person's trustworthiness. |
-| `pemaru` | noun | hazard; potential source or condition of harm | A hazard is not actual harm, present danger, blame, prohibition, or a complete risk assessment. |
-| `kisholu` | noun | specification; explicit set of technical requirements | A specification is not a standard, law, design, method, authority, compliance result, or permission for use. |
+| `terura` | noun | system; bounded whole of interacting components | A system is a whole selected for analysis; drawing its boundary is the first act, not an afterthought. |
+| `monaki` | noun | component; functionally identified part | A component is identified by its function within the system, not merely by sitting nearby. |
+| `nowiso` | noun | interface; defined means or place of interaction | An interface is the specific point of interaction, sharper than a boundary and wider than a screen. |
+| `kelitho` | verb | function; perform a system role or operation | Functioning is the act itself; whether it serves the purpose well is a separate question. |
+| `mirela` | noun | state; selected system conditions at a time | A state is a chosen snapshot of conditions, not the whole truth of a thing. |
+| `pherami` | verb | depend; require another element for function or state | Dependency names a real requirement, weaker than cause and never a claim about worth. |
+| `koewi` | noun | input; matter, energy, information, or influence entering a system | An input is defined by the boundary it crosses, and the same thing can be one system's output and another's input. |
+| `thirulo` | noun | output; matter, energy, information, or effect leaving a system | An output leaves the boundary; nothing about leaving makes it useful or intended. |
+| `sekaru` | verb | transfer; move something from a source to a recipient | Transfer names the movement; whether the full amount arrived is a separate fact. |
+| `kirowi` | noun | signal; detectable variation carrying information | A signal carries information; whether that information is read correctly is a further step. |
+| `ketora` | verb | control; adjust a technical process toward a selected state | Control here stays technical, a process adjusted toward a state, never a person commanded. |
+| `turelo` | noun | feedback; returned effect that alters an ongoing process | Feedback is a returned effect that actually changes something; a loop drawn on paper is not yet feedback. |
+| `henora` | noun | capacity; conditioned limit of holding, processing, or delivery | Capacity is the limit under stated conditions, not the same as what a system currently holds. |
+| `takori` | noun | load; technical demand placed on a system | Load is a technical demand on a system, distinct from a burden placed on a person's shoulders. |
+| `phelure` | verb | store; retain for later retrieval or release | Storing retains something for later; whether it stays safe or recoverable is another matter. |
+| `poruli` | adjective | efficient; high useful output relative to selected input | Efficiency always compares a chosen output to a chosen input, and fairness never enters the ratio. |
+| `masuro` | verb | calibrate; relate an instrument to a stated reference | Calibrating relates a device to a reference; `nilaki` (inspect) is the wider examination beside it. |
+| `kiphira` | noun | fault; abnormal technical condition | A fault is an abnormal condition, not yet a claim of blame or even of failure. |
+| `thonuki` | verb | fail; not perform a stated required function | Failure names the missed function; its cause and its responsible party are further questions. |
+| `seluwhe` | noun | outage; bounded period of unavailable infrastructure service | An outage is the service's unavailable stretch, which can happen with or without any single part failing. |
+| `wepanu` | adjective | redundant; having independent alternative means for a function | Redundancy is independent backup for a function, and a shared cause can still take every path down at once. |
+| `nilaki` | verb | inspect; systematically examine condition against criteria | Inspection examines condition against criteria; it repairs nothing and certifies nothing by itself. |
+| `koluri` | adjective | reliable; consistently performing a required function under conditions | Reliability is scoped to a function and its stated conditions, not a blanket guarantee. |
+| `pemaru` | noun | hazard; potential source or condition of harm | A hazard is a potential source of harm, distinct from present danger or an actual injury already done. |
+| `kisholu` | noun | specification; explicit set of technical requirements | A specification states requirements; meeting them is not proof the requirements were wise. |
 
 The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries remain adjective-only as required by the lexicon schema.
 
 ## Systems, components, functions, and states
 
-`terura` names an organized whole selected for analysis. Its `norui` boundary determines which `monaki` components and relations are inside the account. A different question may draw a different boundary or treat one component as a system of its own. Calling something a system therefore begins an explanation; it does not finish one.
+`terura` names a whole selected for analysis, and its `norui` boundary decides which `monaki` components count as inside it. A different question can draw a different boundary, or treat one component as a system in its own right. Calling something a system opens an explanation; it does not close one.
 
 ```
 ha terura lo monaki lorea.
@@ -65,7 +67,7 @@ PROX component LOC PROX system be.
 (This component is in this system.)
 ```
 
-`kelitho` states that a component or system performs a characteristic or required operation. `mirela` gathers the conditions selected to describe it at a time. The function, state variables, time, and evidence remain separate information.
+`kelitho` says a component performs its characteristic operation; `mirela` gathers the chosen conditions describing it at one moment. The function, the timing, and the evidence behind the claim are each worth keeping separate.
 
 ```
 ha monaki kelitho.
@@ -79,7 +81,7 @@ PROX system state stable be.
 (This system's state is stable.)
 ```
 
-`pherami` makes a requirement relation explicit without turning it into cause, entailment, or authority.
+`pherami` states a real requirement between elements, without turning that requirement into a cause, an entailment, or an authority.
 
 ```
 ha terura ra monaki pherami.
@@ -89,7 +91,7 @@ PROX system DIST component depend.
 
 ## Inputs, outputs, and transfers
 
-`koewi` and `thirulo` are always relative to a selected boundary. The same water, energy, material, or information can be one system's output and another system's input. Their forms are deliberately dissimilar so the directional opposition remains easy to hear.
+`koewi` and `thirulo` are always relative to whichever boundary is in question, so the same water, energy, or signal can be one system's output and the next system's input in the very same sentence. Their forms sound deliberately different so the direction is never lost by ear.
 
 ```
 ha phialu ha terura koewi nai.
@@ -103,7 +105,7 @@ PROX energy PROX system output be.
 (The energy is this system's output.)
 ```
 
-`sekaru` identifies movement from a source toward a recipient. Flow, carrying, sending, and transfer can describe different aspects of the same event, but none automatically establishes that the complete amount arrived or remained unchanged.
+`sekaru` is movement from a source toward a recipient. Flowing, carrying, sending, and transferring can all describe pieces of the same event, but none of them alone proves the whole amount arrived unchanged.
 
 ```
 ha monaki wea ra monaki phialu sekaru.
@@ -113,7 +115,7 @@ PROX component TOWARD DIST component water transfer.
 
 ## Signals, control, and feedback
 
-A `kirowi` is a detectable variation interpreted as information. Its source, medium, recipient, and meaning may all matter. A signal can indicate a `mirela` state without being a command or proof that the state interpretation is correct.
+A `kirowi` is a detectable variation read as information, and its source, medium, and meaning are each worth naming, since a signal can point at a `mirela` state without commanding anything or guaranteeing that the reading is correct.
 
 ```
 ha kirowi ha terura mirela shelo.
@@ -121,7 +123,7 @@ PROX signal PROX system state signify.
 (This signal indicates the system's state.)
 ```
 
-`ketora` is restricted to technical control of a process or variable. It does not make control of people sound like neutral engineering. `turelo` requires a returned effect: something about a later output or state alters an input, control, or continuing process. A circular diagram or chain of connections alone is not feedback.
+`ketora` stays inside the technical fence: adjusting a process or a variable, never a person. `turelo` needs a real return: something about a later output or state has to reach back and change what came before it. A circular diagram is not yet feedback until something actually loops back and shifts course.
 
 ```
 ha monaki phialu selu ketora.
@@ -137,7 +139,7 @@ PROX feedback PROX control change.
 
 ## Capacity, load, storage, and efficiency
 
-`henora` states how much or how quickly a system can hold, process, transmit, or provide under stated conditions. `takori` states the demand placed on that function. The affected function, duration, and exact units must be supplied when they change the claim.
+`henora` is how much a system can hold, process, or deliver under stated conditions; `takori` is the demand actually placed on it. The exact units belong in the record whenever they change what the claim means.
 
 Source record outside Phi: `20 kWh`
 
@@ -153,7 +155,7 @@ PROX load COORD PROX capacity exceed.
 (This load exceeds the capacity.)
 ```
 
-`phelure` retains something for later retrieval or release. It does not say that the store has enough capacity, prevents loss, preserves the contents, or belongs to anyone in particular.
+`phelure` retains something for later retrieval, and the verb alone leaves open whether the store has room, keeps its contents safe, or belongs to anyone in particular.
 
 ```
 ha terura kenua phelure.
@@ -161,7 +163,7 @@ PROX system energy store.
 (This system stores energy.)
 ```
 
-`poruli` compares selected useful output with selected input, loss, resource, or cost. Every efficiency claim therefore has a boundary and a value choice. A process can be efficient while harmful, inaccessible, insufficient, or unjust.
+`poruli` compares a chosen useful output against a chosen input, so every efficiency claim carries a boundary and a value choice inside it. A process can be efficient and still be harmful, unjust, or unable to reach the people who need it.
 
 ```
 ha terura poruli nai.
@@ -171,7 +173,7 @@ PROX system efficient be.
 
 ## Faults, failures, and outages
 
-A `kiphira` is an abnormal condition that may contribute to a failure. `thonuki` says that a required function was not performed. The fault, observed signs, failure, cause, responsibility, repair, and future safety are separate claims.
+A `kiphira` is an abnormal condition that may or may not go on to cause trouble. `thonuki` says a required function simply did not happen. The fault, the failure, its cause, and the person responsible for the fix are four different claims.
 
 ```
 ha monaki kiphira phelu.
@@ -185,7 +187,7 @@ PROX component PST fail.
 (This component failed.)
 ```
 
-A `seluwhe` concerns the unavailable service experienced over a period. One component may fail without an outage, and an outage may occur without component failure. Planned work, missing input, unsafe conditions, or an external interruption can also make a service unavailable.
+A `seluwhe` is the stretch of unavailable service a user actually experiences. A single component can fail with no outage following, and an outage can happen with no component failing at all: planned work, a missing input, or an outside interruption can each take a service down on their own.
 
 ```
 ha seluwhe mosha teku nai.
@@ -195,7 +197,7 @@ PROX outage period short be.
 
 ## Calibration, inspection, and specifications
 
-`masuro` compares a device with a reference and may establish, check, or adjust their relation. `nilaki` examines condition against criteria. A person may calibrate without performing a complete inspection or inspect without calibrating anything.
+`masuro` relates a device to a stated reference and may adjust that relation. `nilaki` examines a condition against criteria more broadly. A person can calibrate a device without inspecting the whole system, or inspect without calibrating anything at all.
 
 ```
 mia ha keli masuro.
@@ -209,7 +211,7 @@ mia ha terura nilaki.
 (I inspect this system.)
 ```
 
-`kisholu` names a set of technical requirements. The module word identifies the role; the actual values, units, wording, identifier, source, and version remain in source material outside the Phi passage. Satisfying a specification does not prove that its requirements are wise, legitimate, sufficient, current, accessible, or safe.
+`kisholu` names a set of technical requirements; the exact values, wording, and version stay in the source record, since precision there is usually the whole point. Meeting a specification says nothing yet about whether its requirements were wise or current.
 
 ```
 ha kisholu ha henora thelima.
@@ -219,7 +221,7 @@ PROX specification PROX capacity describe.
 
 ## Hazards, redundancy, and reliability
 
-`pemaru` names a possible source or condition of harm. Exposure, likelihood, severity, affected people, and response remain separate. `wepanu` says that independent alternatives are intended to preserve a function; shared causes can still defeat them. `koluri` reports consistent performance only for the function, conditions, duration, and evidence stated.
+`pemaru` names a potential source of harm, apart from how likely it is or who it might affect. `wepanu` says independent backups exist for a function, though a shared cause can still take every path down together. `koluri` reports steady performance, but only for the function, the conditions, and the duration actually stated.
 
 ```
 ha phialu selu pemaru nai.
@@ -239,7 +241,7 @@ PROX system reliable be.
 (This system is reliable.)
 ```
 
-These three assessments answer different questions. A redundant system can remain unreliable, a reliable system can contain a hazard, and reducing one hazard does not establish overall safety.
+The three answer different questions, and a system can pass one while failing another: redundant and still unreliable, reliable and still carrying a hazard, one hazard reduced while the system as a whole stays no safer.
 
 ## Useful transparent compositions
 
@@ -247,22 +249,22 @@ Some systems expressions remain clearer as combinations because their parts expo
 
 | Phi expression | Practical meaning | Why it remains compositional |
 |---|---|---|
-| `terura norui` | system boundary | Keeps the selected system and its analytical limit visible. |
-| `monaki terura` | subsystem; component system | Shows the change of scale directly. |
-| `sila panoru terura` | shared infrastructure; community-support system | Names who is supported and preserves the possibility that the system fails, excludes, burdens, or lacks legitimate governance. |
-| `panoru kelitho` | infrastructure service; support function | Identifies the provided function without assuming ownership, authority, entitlement, adequacy, or access. |
-| `selu shoeka` | flow pathway | Keeps pathway connected to actual motion and an explicit route. |
-| `masue maewo` | measurement threshold | Reuses the existing transition point while requiring the measured quantity and consequence to be stated. |
-| `kisholu norui` | specification tolerance or permitted boundary | Keeps the allowed range tied to a stated specification. |
-| `thiranu mosha` | maintenance interval | Names upkeep and its period without hiding either. |
-| `kelitho mirela` | service or function state | Leaves availability, degradation, interruption, and approval as separate possible states. |
-| `thonuki norelu` | failure mode | Names the form of failure without claiming its cause. |
-| `kisholu heno` | satisfy a specification | States that requirements are met without implying certification, legitimacy, or safety. |
+| `terura norui` | system boundary | Keeps the chosen system and its analytical limit visible together. |
+| `monaki terura` | subsystem; component system | Shows the change of scale directly, one word riding inside the other. |
+| `sila panoru terura` | shared infrastructure; community-support system | Names who is supported while leaving room for the system to fail, exclude, or lack real governance. |
+| `panoru kelitho` | infrastructure service; support function | Identifies the function provided without assuming ownership or fair access to it. |
+| `selu shoeka` | flow pathway | Keeps the pathway tied to actual motion along an explicit route. |
+| `masue maewo` | measurement threshold | Reuses the existing transition point while requiring the quantity and consequence to be stated. |
+| `kisholu norui` | specification tolerance or permitted boundary | Keeps the allowed range tied to the specification that set it. |
+| `thiranu mosha` | maintenance interval | Names the upkeep and its period together. |
+| `kelitho mirela` | service or function state | Leaves availability, degradation, and approval as distinct states. |
+| `thonuki norelu` | failure mode | Names the shape a failure took without claiming its cause. |
+| `kisholu heno` | satisfy a specification | States that requirements are met without implying certification or safety. |
 
 ## Source technical information
 
-Measurements, units, formulas, identifiers, standards, exact specifications, source instructions, and versioned technical terminology remain outside the Phi passage in the surrounding medium. The module supplies relations around source material; it does not translate or normalize the artifact.
+Measurements, units, formulas, identifiers, standards, and versioned technical wording stay outside the Phi passage. The module supplies the relations around such material; it does not translate the artifact itself.
 
-Use an existing word, transparent expression, module term, or fully admitted new word when Phi needs the concept. A pronunciation aid remains an outside conversational convention and does not acquire the definition of a module word merely because speakers use it repeatedly.
+Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a claim to a module word's own definition.
 
-State the analysis in Phi where useful: which system and boundary are meant, what enters and leaves, which components and dependencies matter, how a state was observed, what exact condition applies, which hazard is proposed, and who may act. Exact preservation does not prove correct interpretation, technical competence, safety, accessibility, ownership, responsibility, or authority.
+State the analysis where Phi can carry it: which system and boundary are meant, what enters and leaves, which components depend on each other, and what condition was actually observed. Preserving a source record exactly proves neither correct interpretation nor safety; what it buys is precision where precision is the whole point.

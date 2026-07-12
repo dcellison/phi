@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Fault / Abnormal Technical Condition",
-  "description": "A specific abnormal condition in a component, connection, process, or system that can cause or contribute to deviation from a required function or state. A fault may be present without immediate failure and may have several possible causes. The word does not assign blame, moral wrongdoing, legal liability, ownership of a problem, or certainty about what caused it.",
+  "description": "An abnormal technical condition that may or may not go on to cause trouble. Naming a fault is not yet naming blame, a broken part, or even a failure; those are each their own separate claims.",
   "sound_symbolism": "Clear 'ki' locates a precise technical boundary. The 'phira' movement heard in 'phirae' (different) then carries the condition away from what was required, with final 'ra' keeping that divergence grounded and inspectable rather than accusatory.",
   "grammatical_notes": "A countable noun: 'ha monaki kiphira phelu.' (This component has a fault.) State observed signs, evidence, location, and causal hypotheses separately. Distinct from 'pukate' (break), 'phelira' (mistaken), 'thonuki' (fail), and personal or moral fault.",
   "pillars": {

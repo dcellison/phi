@@ -11,7 +11,7 @@
     "verb"
   ],
   "concept": "Depend / Require Another Condition or Component for Function",
-  "description": "For a component, system, function, or state to require another component, resource, condition, or process in order to occur or remain as specified. The event-noun rule supplies dependency. Dependence may be one-way or mutual and does not by itself establish cause, control, ownership, logical entailment, emotional reliance, or human inferiority.",
+  "description": "To require another element for a function or a state to hold. Dependency names a real technical requirement, weaker than cause, and it carries no claim about worth or hierarchy between the two elements.",
   "sound_symbolism": "Breathy 'phe' opens as a need rather than a command. 'Ra' grounds the required condition, and 'mi' binds that condition into the analyzed whole. The soft opening and inward close describe dependence without turning the relation into a hierarchy.",
   "grammatical_notes": "A transitive verb with the dependent system as subject and the required element as object: 'ha terura ra monaki pherami.' (This system depends on that component.) The event-noun rule supplies dependency. Distinct from 'phelona' (require or need), 'natheri' (entail), 'ka' (cause), and 'theomi' (trust).",
   "pillars": {

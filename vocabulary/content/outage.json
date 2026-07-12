@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Outage / Period of Unavailable Infrastructure Service",
-  "description": "A bounded period during which a stated infrastructure service or shared technical function is unavailable, interrupted, or below its stated service condition for an affected place or group. An outage may result from failure, planned work, insufficient input, control, or another cause. The word does not identify the cause, excuse lack of notice, establish equal impact, or imply total system destruction.",
+  "description": "A bounded period during which an infrastructure service is unavailable, felt from the outside as absence. A single component can fail with no outage following, and an outage can happen with no component failing at all: planned work or a missing input can take a service down just as surely.",
   "sound_symbolism": "The complete flowing form 'selu' begins with expected continuity, then hollow 'whe' opens the service's absence. The sound moves from availability into interruption while stopping short of naming a cause, destruction, or permanent end.",
   "grammatical_notes": "A countable noun: 'ha seluwhe mosha teku nai.' (The outage period is short.) Name the service, affected place or participants, beginning, duration, and source separately where needed. Distinct from 'thonuki' (fail), 'whemoa' (empty), and any brief interruption that does not make a service unavailable.",
   "pillars": {

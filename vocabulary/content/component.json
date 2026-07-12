@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Component / Functionally Identified Part of a System",
-  "description": "A material, informational, or procedural part identified by the role it has within a system. A component may contain smaller components or be analyzed as a system at another scale. The word does not mean every fragment, member, ingredient, or merely adjacent object, and component status depends on the selected system boundary and question.",
+  "description": "A part identified by its function within a system. A component is picked out by what it does, not merely by sitting near the other pieces or being made of the same material.",
   "sound_symbolism": "Rounded 'mo' gathers attention to the whole, and 'na' gives the part structural weight within it. Final 'ki' draws the analytical boundary that identifies this part as a component, without limiting components to machinery or treating every fragment as structural.",
   "grammatical_notes": "A countable noun: 'ha monaki muo ha terura nai.' (This component is in this system.) A component's role can be stated with 'kelitho'; a component that is independently complex may be called a 'monaki terura' (component system). Distinct from an arbitrary piece, 'monae' (integral), and 'keli' (device).",
   "pillars": {
