@@ -11,7 +11,7 @@
     "noun"
   ],
   "concept": "Premise / Starting Claim in Reasoning",
-  "description": "A claim taken as a starting point within an argument so that another claim may be considered from it. Calling something a premise identifies its role, not its truth: a premise may be true, false, uncertain, hypothetical, or accepted only for discussion. Evidence may support a premise, but evidence and premise are not the same relation.",
+  "description": "A claim taken as a starting point within an argument, so that another claim can be drawn from it. The word names a role, not a truth: a premise can be true, false, or merely hypothetical, and the same proposition can be a premise in one argument and the conclusion of another.",
   "sound_symbolism": "Grounded 'mo' establishes the place from which reasoning begins. The deliberate breath of 'tha' pauses over what is being granted, and 're' reaches onward to the conclusion that the premise is meant to support.",
   "grammatical_notes": "A countable noun: 'ha mothare shewo nai.' (This premise is true.) Plural premises take 'lo'. In 'lo mothare ha remuma panoru.' (The premises support this conclusion), the role relation is explicit. Distinct from 'thesori' (evidence), which is material offered in support, and from 'thorui' (beginning), which is any starting point.",
   "pillars": {

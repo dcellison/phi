@@ -1,12 +1,14 @@
 # Philosophical Reasoning
 
-The Philosophical Reasoning module gives Phi speakers a precise optional vocabulary for constructing arguments, examining support, defining concepts, identifying logical relations, holding uncertainty, and discussing difficult choices. These words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning this module does not confer authority, expertise, or correctness.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. These twenty-two words are that toolkit, for constructing arguments, testing them, and being honest about where certainty runs out.
+
+Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
 The complete machine-generated list is also available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
-The module does not replace Phi's existing language of thought and dialogue. It adds narrower distinctions around these familiar resources.
+The module does not replace what Phi already says about thought and dialogue. It adds narrower distinctions around these familiar resources.
 
 | Area | Core Phi resources |
 |---|---|
@@ -21,34 +23,34 @@ The module does not replace Phi's existing language of thought and dialogue. It 
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
-| `sherewa` | verb | claim; present a proposition for assessment | A claim is public; `nohero` is belief. |
-| `mothare` | noun | premise; a starting claim in an argument | A premise is a role and need not be true or evidential. |
-| `remuma` | noun | conclusion; the claim reached by reasoning | A conclusion is not merely `lumae`, the final point in time or sequence. |
-| `themore` | noun | argument; premises organized to support a conclusion | An argument is not a quarrel or a dialogue. |
-| `whakeru` | verb | object; raise a specific problem for response | An objection is not necessarily refusal, disagreement, or refutation. |
-| `thesori` | noun | evidence; material offered for or against a claim | Evidence is not an evidential particle and is not automatically reliable. |
-| `remotha` | noun | reason; a justificatory ground | A reason is distinct from cause, purpose, motivation, and evidence. |
-| `kethira` | verb | infer; reach a conclusion from premises | The act of inference is distinct from inferential evidential `ke`. |
-| `natheri` | verb | entail; imply by necessity | Entailment is stronger than support, sequence, or causal consequence. |
-| `kithela` | adjective | valid; having premises that entail the conclusion | Validity does not establish that the premises are true. |
-| `phiketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is stronger than difference, contrast, or disagreement. |
-| `letharo` | adjective | consistent; able to be true together | Consistency does not establish truth or sameness. |
-| `phisuwa` | noun | example; a particular illustrating case | The noun names the case; `phisu` announces one in discourse. |
-| `phiwheki` | noun | counterexample; a case defeating a general claim | A surprising or irrelevant case is not necessarily a counterexample. |
-| `whekate` | verb | refute; show that a claim or inference fails | Refutation requires more than objection or disagreement. |
-| `kirothe` | verb | define; state meaning or conditions of application | Definition is narrower than description or clarification. |
-| `kirema` | noun | criterion; a standard used in judgment or classification | A criterion is not merely a measurement or method. |
-| `remole` | noun | concept; an organized idea | A concept is distinct from its word, symbol, definition, and examples. |
-| `whamoi` | verb | doubt; remain unsettled about a proposition | Doubt is not denial or refutation. |
-| `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is not knowledge, truth, boldness, or authority. |
-| `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff is more than having several options. |
-| `manawi` | verb | compromise; agree through mutual concession | Compromise is not automatically fair, free, wise, or required. |
+| `sherewa` | verb | claim; present a proposition for assessment | A claim is put forward publicly for others to weigh, unlike `nohero`, which is simply held. |
+| `mothare` | noun | premise; a starting claim in an argument | A premise is a role inside an argument, and a role does not by itself guarantee truth. |
+| `remuma` | noun | conclusion; the claim reached by reasoning | A conclusion is reached by an argument, distinct from `lumae`, the plain final point in a sequence. |
+| `themore` | noun | argument; premises organized to support a conclusion | An argument is a structure of support, not a quarrel and not a bare dialogue. |
+| `whakeru` | verb | object; raise a specific problem for response | An objection raises a problem for someone to answer; it is not yet a refusal or a refutation. |
+| `thesori` | noun | evidence; material offered for or against a claim | Evidence is offered material, and offering it is no guarantee that it holds up. |
+| `remotha` | noun | reason; a justificatory ground | A reason justifies; it stands apart from a cause, a purpose, or a motive, each its own separate thing. |
+| `kethira` | verb | infer; reach a conclusion from premises | Inferring is the act of reasoning itself, distinct from the inferential evidential particle `ke`. |
+| `natheri` | verb | entail; imply by necessity | Entailment is necessity, stronger than mere support or a chain of causes. |
+| `kithela` | adjective | valid; having premises that entail the conclusion | Validity is a structural fact about the argument's form; the premises can still be false. |
+| `phiketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is impossibility together, stronger than disagreement or plain difference. |
+| `letharo` | adjective | consistent; able to be true together | Consistency says two claims can coexist; it never says they are true, only that they do not clash. |
+| `phisuwa` | noun | example; a particular illustrating case | The noun names the case itself, where `phisu` is the discourse marker that introduces one aloud. |
+| `phiwheki` | noun | counterexample; a case defeating a general claim | A counterexample defeats a general claim by falling inside its scope and breaking it; a merely surprising case does not. |
+| `whekate` | verb | refute; show that a claim or inference fails | Refuting takes real work: an objection or a disagreement alone does not amount to a refutation. |
+| `kirothe` | verb | define; state meaning or conditions of application | Defining draws a boundary of application, narrower than describing or simply clarifying. |
+| `kirema` | noun | criterion; a standard used in judgment or classification | A criterion is the standard itself, not the act of measuring by it. |
+| `remole` | noun | concept; an organized idea | A concept stands apart from the word that names it, the symbol that points to it, and any one example used to illustrate it. |
+| `whamoi` | verb | doubt; remain unsettled about a proposition | Doubting stays unsettled; it is neither a denial nor a refutation. |
+| `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is a strong stance held with room to revise, and it is not the same as knowledge, truth, or authority. |
+| `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff joins a real gain to a real loss; simply having several options on the table is not yet one. |
+| `manawi` | verb | compromise; agree through mutual concession | Compromising reaches agreement through concession from more than one side; the word alone says nothing about whether the result is fair. |
 
 Verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries remain verb-only or adjective-only as required by the lexicon schema.
 
 ## Claims, premises, and conclusions
 
-`sherewa` names the act of putting a proposition forward. A speaker may claim something they believe, claim it only provisionally, or state it for examination without endorsing it. `mothare` and `remuma` name roles inside a `themore`: premises are offered as support, and the conclusion is what the argument reaches.
+`sherewa` is the act of putting a proposition forward, whether the speaker believes it fully, holds it provisionally, or states it only to have it examined. `mothare` and `remuma` name the two roles a `themore` gives its claims: premises offered as support, and the conclusion the argument reaches for.
 
 ```
 mia mena ha ruela welao nai meno sherewa.
@@ -68,7 +70,7 @@ PROX argument valid be.
 (This argument is valid.)
 ```
 
-An objection identifies a difficulty without pretending that the difficulty has already defeated the claim.
+An objection names a difficulty and leaves it standing for someone to answer, without pretending the difficulty has already won.
 
 ```
 mia mena ha mothare shewo ma nai meno whakeru.
@@ -78,7 +80,7 @@ mia mena ha mothare shewo ma nai meno whakeru.
 
 ## Evidence, reasons, and inference
 
-`thesori` names material offered for assessment. The particles `hi`, `ke`, `ti`, and `ho` still mark how the speaker claims to have access to a verb's content; they do not certify the quality of the evidence. `remotha` names a consideration offered as justification, while `kethira` names the reasoning step from premises to a conclusion.
+`thesori` names material offered for assessment, and offering it is only the first step: the particles `hi`, `ke`, `ti`, and `ho` still mark how the speaker claims to know a verb's content, but none of them certifies that the evidence itself is any good. `remotha` names the justifying ground behind a claim, and `kethira` names the reasoning step that carries premises to a conclusion.
 
 ```
 ha thesori ha sherewa panoru.
@@ -92,7 +94,7 @@ mia lue lo mothare ha remuma kethira.
 (I infer this conclusion from the premises.)
 ```
 
-`natheri` is deliberately stronger than support. It says that the first proposition cannot be true under the stated interpretation while the second is false.
+`natheri` claims something stronger than support: that the first proposition simply cannot be true, under the stated reading, while the second is false.
 
 ```
 ha mothare ha remuma natheri.
@@ -102,7 +104,7 @@ PROX premise PROX conclusion entail.
 
 ## Validity, contradiction, and refutation
 
-A `kithela themore` is structurally valid even when one of its premises is false. Claims are `letharo` when they can be true together and `phiketu` when they cannot both be true under the same interpretation and relevant conditions.
+A `kithela themore` is valid by its structure alone, even when one of its premises turns out false. Claims are `letharo` when they can be true together and `phiketu` when they cannot, under the same interpretation and the same conditions.
 
 ```
 ha sherewa ra sherewa phiketu.
@@ -116,7 +118,7 @@ PL claim consistent be.
 (The claims are consistent.)
 ```
 
-A `phiwheki` is a case within a general claim's scope that does not have the property assigned to every such case. It can therefore `whekate` the general claim as stated.
+A `phiwheki` is a case that falls inside a general claim's own scope and breaks it, which is exactly what lets it `whekate` the claim as stated.
 
 ```
 ha phiwheki ra sherewa whekate.
@@ -126,7 +128,7 @@ PROX counterexample DIST claim refute.
 
 ## Concepts, definitions, and criteria
 
-`remole` separates an organized idea from the `phelui` that names it, the `relo` that symbolizes it, the `reo` it carries, and any one `phisuwa` used to illustrate it. `kirothe` proposes a boundary or account of application; `kirema` names a standard used when applying that boundary.
+`remole` keeps an organized idea separate from the `phelui` that names it, the `relo` that symbolizes it, the `reo` it carries, and any single `phisuwa` used to illustrate it. `kirothe` proposes a boundary of application; `kirema` names the standard applied at that boundary.
 
 ```
 mia shea kirothe.
@@ -146,11 +148,11 @@ PROX concept complex be.
 (This concept is complex.)
 ```
 
-Necessary and sufficient conditions do not require two more roots. Direction makes the distinction: if category membership entails (`natheri`) the criterion, the criterion is necessary; if satisfying the criterion entails category membership, it is sufficient. When both directions hold, the criterion serves as both.
+Necessary and sufficient conditions need no separate roots of their own. Direction does the work: if category membership entails (`natheri`) the criterion, the criterion is necessary; if satisfying the criterion entails membership, it is sufficient. When both directions hold, one criterion is doing both jobs at once.
 
 ## Doubt and confidence
 
-`whamoi` lets a speaker remain unsettled without denying a claim. `norethi` reports the strength of a stance while leaving truth, knowledge, and authority as separate questions.
+`whamoi` lets a speaker stay genuinely unsettled without denying anything. `norethi` reports the strength of a stance while leaving truth, knowledge, and authority as their own separate questions.
 
 ```
 mia mena ha remuma kithela nai meno whamoi.
@@ -164,11 +166,11 @@ mia norethi nai.
 (I am confident.)
 ```
 
-Principled suspension can remain compositional: `mena ... meno nohero ma kanu` says that the speaker does not choose the framed belief. This is more explicit than treating every uncertainty as a special lexical state.
+A principled suspension of judgment stays compositional: `mena ... meno nohero ma kanu` says the speaker declines to choose the framed belief, which is more honest than treating every uncertainty as its own special lexical state.
 
 ## Tradeoffs and compromise
 
-`soneho` keeps a valued gain and a valued loss in the same concept. It should be followed by enough explanation to show which outcomes matter and who bears each burden. `manawi` names agreement reached through concession, but the word does not bless the settlement as fair or voluntary.
+`soneho` holds a valued gain and a valued loss inside one concept, and it earns its keep only when followed by enough explanation to show which outcomes matter and who carries each burden. `manawi` names agreement reached through concession, and the word blesses none of it as fair or freely chosen.
 
 ```
 ha kanu soneho phelu.
@@ -189,12 +191,12 @@ Some useful philosophical expressions remain clearer as combinations because the
 | Phi expression | Practical meaning | Why it remains compositional |
 |---|---|---|
 | `sherewa remotha` | reason for a claim | Keeps the justificatory relation explicit. |
-| `sone noa` | priority; value-position | Allows priorities to be compared without treating one ranking as universal. |
-| `remo noa` | standpoint or perspective; thought-position | Keeps a perspective connected to a situated act of thinking. |
+| `sone noa` | priority; value-position | Lets priorities be compared without treating any one ranking as universal. |
+| `remo noa` | standpoint or perspective; thought-position | Keeps a perspective tied to a situated act of thinking. |
 | `kithela themore` | valid argument | Uses the ordinary modifier-first relation. |
 | `noetha kirema` | essential criterion | Names importance without silently claiming logical sufficiency. |
 | `mena ... meno nohero ma kanu` | suspend judgment; decline to choose the framed belief | States exactly what the speaker is withholding. |
 
 ## Source philosophical vocabulary
 
-Tradition-specific terms, formal notation, exact quotations, and concepts whose source form matters remain outside the Phi passage in the surrounding medium. A module word may help explain the source concept, but it should not be presented as an exhaustive translation unless the relevant distinctions genuinely match. A pronunciation aid remains an outside conversational convention rather than a temporary class of Phi word.
+Tradition-specific terms, formal notation, and exact quotations stay outside the Phi passage in the surrounding medium. A module word may help explain a source concept, but it should never stand in as an exhaustive translation unless the underlying distinctions genuinely match. A pronunciation aid for a foreign term remains an outside conversational convention, not a class of Phi word.
