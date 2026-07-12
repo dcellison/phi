@@ -58,7 +58,7 @@ These are the manual's own rules, each stated with its reason. The exemplar chap
 
 **3. Plain copulas, plain verbs.** "Is," "has," "does." Not "serves as," "stands as," "functions as," "represents." A sentence avoiding "is" is usually avoiding a commitment.
 
-**4. No inflation.** Banned outright, verbatim: testament, pivotal, crucial, vital, profound, vibrant, rich (figurative), stunning, groundbreaking, perfectly embodies, crystal clear, seamless, load-bearing, meaning-bearing. If a feature matters, show the sentence where it matters and let the reader supply the adjective.
+**4. No inflation.** Banned outright, verbatim: testament, pivotal, crucial, vital, profound, vibrant, rich (figurative), stunning, groundbreaking, perfectly embodies, crystal clear, seamless. Phi-authored prose also never forms a hyphenated adjective by attaching "bearing" to another word. If a feature matters, show the sentence where it matters and let the reader supply the adjective.
 
 **5. Kill the -ing tail.** A comma followed by a present participle restating the sentence ("...reflecting the language's commitment to mindfulness") adds fake depth. Either the point deserves its own sentence with a subject and a claim, or it does not deserve to exist.
 
@@ -84,7 +84,7 @@ Vocabulary entries are reference entries with their own discipline. The schema s
 
 **description**: the word's actual range of use in two to four sentences. What it covers, one earned distinction from its nearest neighbor, and concrete situations over abstract scope-lists. A neighbor word is cited with its exact gloss, in the form 'word' (gloss). The failed pattern to avoid: a definitional range list followed by a tail of five to nine denials ("It does not establish ownership, entitlement, abundance, renewability, harmless use..."). Fold the denials into the one distinction that teaches, and let the rest go.
 
-**sound_symbolism**: describes only sounds the word actually contains, named accurately. The job is to show how this word's real phonemes carry its meaning, in two or three sentences. If the sounds are honestly unremarkable, say less rather than inventing.
+**sound_symbolism**: embodied poetic phonesthetics, not semantic decomposition. Name only sounds the word contains, and name them accurately. Begin with breath and contact, including the work of lips and tongue. Then hear the depth and openness of the vowels, the movement of liquids or nasals, and the way stress or hiatus shapes the whole contour. Account for the complete word, normally touching every syllable and sometimes the individual phonemes within it. A related word may be heard as a resonance, but Phi words are not assembled from syllables with fixed dictionary meanings; describe kinship of sound without inventing a hidden derivation. Semantic scope, exclusions, criteria, and institutional cautions belong in `description` or `grammatical_notes`, never here. Three or four sentences often suit a three-syllable word, though an honest shorter account is better than invented symbolism. The older fields for `muila` (earth) and `shiroka` (repair) show the intended embodied attention; their occasional excess is not part of the model.
 
 **grammatical_notes**: working reference. At least one worked example in valid grammar, related words named, genuine contrasts drawn. Not commentary, not philosophy.
 
@@ -107,7 +107,10 @@ You cannot check yourself against "don't be severe" or "be warm." You can check 
 | Em or en dash | any, in new prose | zero, no exceptions; commas, colons, periods, parentheses do the work |
 | Curly quotes | any | zero; straight quotes only |
 | Inflation vocabulary | the banned list under rule 4 | zero |
+| Hyphen plus "bearing" | any hyphenated adjective formed by attaching "bearing" to another word | zero throughout Phi-authored prose |
 | -ing tail | comma plus participle restating the sentence | zero |
+| Semantic syllable label | an abstract concept turned into an adjective and assigned to a syllable as if it were a morpheme | zero in `sound_symbolism` |
+| Definitional spillover | semantic denials, safeguards, or scope qualifications used to finish `sound_symbolism` | zero; move the distinction to `description` or `grammatical_notes` |
 | Copula avoidance | "serves as," "functions as," "stands as" | zero |
 | Rule of three | three parallel items where two or four would be honest | flag every triple; keep only those whose three items are each specific and load different content |
 | Inline-header list | bolded label, colon, sentence | zero; prose or a real table |
