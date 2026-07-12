@@ -23,6 +23,7 @@
     "temporal": "advance knowability of timing or sequence"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure"
   ]
 }

@@ -24,6 +24,7 @@
     "physical": "a sensory form such as audible, visual, or tactile presentation"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure"
   ]
 }

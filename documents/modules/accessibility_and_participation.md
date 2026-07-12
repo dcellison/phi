@@ -1,6 +1,6 @@
 # Accessibility and Participation
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 43 current memberships, and shared-core `sowelu` disabled.
+**Status:** **Established vocabulary module** with 30 roots coined here, 45 current memberships, and shared-core `sowelu` disabled.
 
 ## Charter
 

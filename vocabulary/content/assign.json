@@ -23,6 +23,8 @@
     "community": "a work relation between a source and an assignee"
   },
   "modules": [
+    "commons-and-collective-governance",
+    "household-and-daily-life",
     "work-craft-and-repair"
   ]
 }

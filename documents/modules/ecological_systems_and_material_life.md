@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** with 30 roots coined here and 40 current memberships; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here and 42 current memberships; ordinary Phi grammar.
 
 ## Charter
 

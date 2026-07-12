@@ -4,7 +4,7 @@ Yesterday's soup is in a jar on the shelf. Before anyone calls it waste, somebod
 
 The Household and Daily Life module gives Phi speakers optional vocabulary for the small arrangements that keep a dwelling usable: rooms and storage, the work of washing, things kept on the bed, and the path from recipe to leftovers. These words use ordinary Phi grammar. A speaker who has not learned them can still ask for a core paraphrase, and learning the module does not decide who belongs in a home or who owes its work.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 38 words; the complete machine-generated list is available under [Household and Daily Life in the module lexicon](../lexicon/by_module.md#household-and-daily-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 39 words; the complete machine-generated list is available under [Household and Daily Life in the module lexicon](../lexicon/by_module.md#household-and-daily-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 

@@ -22,6 +22,7 @@
     "community": "a requirement attributed to an agent under a stated source"
   },
   "modules": [
-    "commons-and-collective-governance"
+    "commons-and-collective-governance",
+    "work-craft-and-repair"
   ]
 }

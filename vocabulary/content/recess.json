@@ -24,6 +24,7 @@
     "temporal": "a bounded interval with an expected return"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance"
   ]
 }

@@ -23,6 +23,7 @@
     "dialogue": "placing a challenge into discussion for response"
   },
   "modules": [
+    "commons-and-collective-governance",
     "philosophical-reasoning"
   ]
 }

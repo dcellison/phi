@@ -1,6 +1,6 @@
 # Module overlap assessment
 
-**Status:** First implementation complete. The 61 high-confidence words now carry 83 additional module classifications; the second-pass and base-vocabulary decisions remain open.
+**Status:** Second implementation complete. Seventy-seven words now carry shared module classifications; thirteen base-vocabulary decisions remain open.
 
 A speaker who selects Medical and Bodily Care in the lexicon explorer now sees forty-five words. The list includes the thirty roots coined for care and shared entries such as `hisophi` contaminant, `nomiki` concentration, `perawi` expose, and `mothami` baseline. That is the practical result of this review: words that belong to care are now taught there even when another profile first gave them a lexical home.
 
@@ -23,19 +23,19 @@ A high-confidence recommendation passes all four. A second-pass candidate passes
 
 ## Corpus snapshot
 
-The lexicon contains 227 module-classified entries and 310 memberships. The profiles originally coined 22 Philosophical Reasoning roots, 25 Systems and Shared Infrastructure roots, and 30 roots in each of the other six modules. Sixty-one words now belong to more than one learning path; the other 166 retain one classification. Of the 227 words, 102 are cited in at least one profile document outside their original profile. Most of those citations still mark dependencies rather than shared lexical homes.
+The lexicon contains 227 module-classified entries and 330 memberships. The profiles originally coined 22 Philosophical Reasoning roots, 25 Systems and Shared Infrastructure roots, and 30 roots in each of the other six modules. Seventy-seven words now belong to more than one learning path. Of the 150 with one module classification, 137 stay there and thirteen await base-vocabulary review. Of the 227 words, 102 are cited in at least one profile document outside their original profile. Many of those citations still mark dependencies rather than shared lexical homes.
 
 | Disposition | Words | Meaning |
 |---|---:|---|
-| High-confidence shared membership | 61 | Implemented with 83 additional classifications. |
-| Second-pass candidate | 29 | The overlap is real, but its classification still needs a closer boundary decision. |
-| Base-vocabulary review | 11 | Decide whether the module field should disappear instead of multiplying. |
-| Retain one module | 126 | Cross-use does not move the word's lexical center. |
+| First-pass shared membership | 61 | Implemented with 83 additional classifications. |
+| Second-pass shared membership | 16 | Implemented with 20 additional classifications. |
+| Base-vocabulary review | 13 | Decide whether the module field should disappear instead of multiplying. |
+| Retain one module | 137 | Cross-use does not move the word's lexical center. |
 | **Total** | **227** | Every current module entry has a disposition. |
 
-The largest corridors are Ecological and Systems with twelve high-confidence assignments, Accessibility and Commons with eleven, Systems and Work with ten, and Ecological and Medical with nine. A contaminant belongs in ecological and medical study; an interface belongs in systems and access. The counts catch that kind of overlap, not mere thematic kinship.
+The largest first-pass corridors were Ecological and Systems with twelve assignments, Accessibility and Commons with eleven, Systems and Work with ten, and Ecological and Medical with nine. A contaminant belongs in ecological and medical study; an interface belongs in systems and access. The counts catch that kind of overlap, not mere thematic kinship.
 
-## Implemented shared membership
+## First implementation: high-confidence membership
 
 ### From Philosophical Reasoning
 
@@ -105,96 +105,103 @@ The largest corridors are Ecological and Systems with twelve high-confidence ass
 
 ## Current module sizes
 
-The implemented set creates 83 additional classifications across 61 words. The vocabulary still contains 227 specialized entries; the generated module views contain 310 memberships because shared words appear wherever speakers need to find them.
+The two implementations create 103 additional classifications across 77 words. The vocabulary still contains 227 specialized entries; the generated module views contain 330 memberships because shared words appear wherever speakers need to find them.
 
-| Module | Roots coined here | Incoming classifications | Current memberships |
-|---|---:|---:|---:|
-| Philosophical Reasoning | 22 | 0 | 22 |
-| Systems and Shared Infrastructure | 25 | 9 | 34 |
-| Ecological Systems and Material Life | 30 | 10 | 40 |
-| Commons and Collective Governance | 30 | 10 | 40 |
-| Work, Craft, and Repair | 30 | 18 | 48 |
-| Medical and Bodily Care | 30 | 15 | 45 |
-| Accessibility and Participation | 30 | 13 | 43 |
-| Household and Daily Life | 30 | 8 | 38 |
+| Module | Roots coined here | First-pass incoming | Second-pass incoming | Current memberships |
+|---|---:|---:|---:|---:|
+| Philosophical Reasoning | 22 | 0 | 1 | 23 |
+| Systems and Shared Infrastructure | 25 | 9 | 3 | 37 |
+| Ecological Systems and Material Life | 30 | 10 | 2 | 42 |
+| Commons and Collective Governance | 30 | 10 | 4 | 44 |
+| Work, Craft, and Repair | 30 | 18 | 7 | 55 |
+| Medical and Bodily Care | 30 | 15 | 0 | 45 |
+| Accessibility and Participation | 30 | 13 | 2 | 45 |
+| Household and Daily Life | 30 | 8 | 1 | 39 |
 
 Work grows the most because it sits between technical systems, household labor, accessibility, material practice, medicine, and governance. That is a property of the domain, not a reason to force its count back toward thirty.
 
-## Second-pass candidates
+## Second-pass decisions
 
-These 29 words have real cross-domain use, but a second classification may duplicate a dependency list rather than improve the learning path. They remain open because the expanded lists need to be read as learning paths, not merely counted.
+The expanded learning paths resolve all 29 candidates: 16 words gain 20 classifications, 11 stay in their original module, and 2 move to base-vocabulary review. Shared terms pass all four tests; retained terms describe a consequence or setting outside the second module's lexical center. For the final two, another optional label would avoid the larger question.
 
-| Current module | Words | Possible additional modules | Reason to wait |
+### Shared after the second pass
+
+| Original profile | Words | Also classified in | Reason |
 |---|---|---|---|
-| Philosophical Reasoning | `whakeru` object | Commons and Collective Governance | Commons uses objections often. The open question is whether it should teach the reasoning term itself or list it as a dependency. |
-| Systems and Shared Infrastructure | `kelitho` function | Work, Craft, and Repair | Testing and repair revolve around function. Its definition, however, is explicitly system-relative, so Systems may be the clearer teaching home. |
-| Systems and Shared Infrastructure | `mirela` state | Ecological Systems and Material Life | Ecological state is useful. Keeping it as a dependency would make clear that the analysis comes from general systems work. |
-| Systems and Shared Infrastructure | `poruli` efficient | Ecological Systems and Material Life; Work, Craft, and Repair | Both domains evaluate efficiency, yet the word hides a boundary and a value choice. That may warrant a deliberate Systems dependency rather than two new labels. |
-| Systems and Shared Infrastructure | `phelure` store | Household and Daily Life | Households store things for later retrieval. Because the word is this broad, base review may make more sense than a second optional label. |
-| Systems and Shared Infrastructure | `seluwhe` outage | Accessibility and Participation | A service outage can remove access. The event itself, however, is infrastructural rather than an access relation. |
-| Ecological Systems and Material Life | `morume` decompose | Household and Daily Life | Composting brings decomposition into household practice, while `mukesi` spoil may already cover what the household module needs to teach. |
-| Ecological Systems and Material Life | `pesenu` pollute | Medical and Bodily Care; Work, Craft, and Repair | Pollution reaches bodies and workplaces, but the word names an impaired environmental condition. The resulting exposure and harm already have their own terms. |
-| Ecological Systems and Material Life | `phaluwe` flood | Accessibility and Participation; Systems and Shared Infrastructure | Floods shape access and infrastructure, though those modules usually discuss the resulting barrier, outage, or failure rather than the hydrological event itself. |
-| Commons and Collective Governance | `helolu` redress, `kanuro` decision | Accessibility and Participation | Both matter to access disputes, but their definitions are governance relations used by the access profile. The unresolved question is whether that dependency is enough once Accessibility's 43 words are read together. |
-| Commons and Collective Governance | `kanuwa` authorize, `lothoni` accountable, `naseru` obligation | Work, Craft, and Repair | Work institutions need all three. The question is whether these social and normative relations belong beside the work itself or stay in Commons. |
-| Work, Craft, and Repair | `rilowa` assign | Commons and Collective Governance; Household and Daily Life | Assignment structures labor in both settings. A second pass should decide whether its expected-performer definition belongs there or stays a Work term applied there. |
-| Work, Craft, and Repair | `sephori` supply, `katemu` offcut | Ecological Systems and Material Life | Material movement and remnants have ecological consequences, but neither word by itself makes an ecological claim. |
-| Work, Craft, and Repair | `hasoru` pending | Medical and Bodily Care | Results and care decisions can be pending. This could be ordinary workflow vocabulary that Medicine borrows. |
-| Work, Craft, and Repair | `someru` supervise, `sikanu` certify | Commons and Collective Governance | Both involve institutions and claimed responsibility. Their definitions point first to practical work and formal judgment of it. |
-| Work, Craft, and Repair | `kirero` quality | Systems and Shared Infrastructure | Systems work evaluates criterion-relative quality, but the Systems profile already teaches sharper measures such as function and reliability. Quality may work better there as a dependency. |
-| Accessibility and Participation | `hasenu` recess | Commons and Collective Governance | A recess is common in proceedings, but its access value lies in the bounded pause rather than governance status. |
-| Accessibility and Participation | `phelotu` format, `sanowu` predictable | Systems and Shared Infrastructure | Technical systems have formats and predictable behavior. The current definitions keep both person- and communication-relative concerns close to Accessibility. |
-| Accessibility and Participation | `samethu` equivalent | Philosophical Reasoning; Systems and Shared Infrastructure | Bounded equivalence belongs to comparison and technical fit, but its present examples and contrasts are strongly tied to alternate formats. |
-| Accessibility and Participation | `thimelo` pace | Work, Craft, and Repair | Work has pace, yet the word was coined to keep participation and processing time visible rather than to measure productivity. |
-| Accessibility and Participation | `wiresu` postpone | Commons and Collective Governance; Work, Craft, and Repair | Moving an activity or decision later is common in both fields. The classification question is whether timing makes it an access word shared outward or a general planning word. |
-| Household and Daily Life | `mukesi` spoil | Ecological Systems and Material Life | Spoilage is a material change, but its definition is the household's practical loss of intended use rather than decomposition itself. |
-| Household and Daily Life | `muneki` latrine | Medical and Bodily Care; Systems and Shared Infrastructure | Sanitation touches health and infrastructure, while the word itself names the everyday place or fixture rather than a treatment system or clinical relation. |
+| Philosophical Reasoning | `whakeru` object | Commons and Collective Governance | A council needs to distinguish a reasoned objection to a premise from refusal of the action being proposed. Commons would otherwise need the same verb. |
+| Systems and Shared Infrastructure | `kelitho` function | Work, Craft, and Repair | Repair and testing ask whether a part performs its required role. The system-relative meaning stays exact at the workbench. |
+| Systems and Shared Infrastructure | `mirela` state | Ecological Systems and Material Life | Ecological accounts compare selected system conditions across time, especially around baselines and trends. `mirela` names that selected description without claiming the whole condition of a place. |
+| Systems and Shared Infrastructure | `poruli` efficient | Ecological Systems and Material Life; Work, Craft, and Repair | Ecological resource use and workshop methods both compare useful output with chosen input. The definition keeps the hidden boundary and value choice visible in either field. |
+| Commons and Collective Governance | `helolu` redress, `kanuro` decision | Accessibility and Participation | An appeal asks for review of a decision, while exclusion or discrimination may call for redress. Access needs both relations as more than borrowed institutional scenery. |
+| Commons and Collective Governance | `kanuwa` authorize, `lothoni` accountable, `naseru` obligation | Work, Craft, and Repair | A repairer may be authorized for a task, accountable for a handoff, and bound by an obligation they never accepted. Work needs those distinctions beside assignment and competence. |
+| Work, Craft, and Repair | `rilowa` assign | Commons and Collective Governance; Household and Daily Life | Councils and households both designate expected performers for work. Assignment names that designation while leaving acceptance to the person. |
+| Accessibility and Participation | `hasenu` recess | Commons and Collective Governance | A recess is part of a proceeding's structure, not only an access measure. Collective procedure would need the bounded pause even without the Accessibility profile. |
+| Accessibility and Participation | `phelotu` format, `sanowu` predictable | Systems and Shared Infrastructure | A system presents information in a format, and its behavior may be predictable from what was known beforehand. Both are technical relations even when no access question is being asked. |
+| Accessibility and Participation | `samethu` equivalent | Philosophical Reasoning; Systems and Shared Infrastructure | Philosophical comparison needs bounded equivalence, and systems analysis needs to compare function or effect without claiming identity. The definition does the same work in both. |
+| Accessibility and Participation | `thimelo` pace | Work, Craft, and Repair | Pace is a labor condition as well as an access relation. It names how a task unfolds through time without turning speed into productivity. |
+| Accessibility and Participation | `wiresu` postpone | Commons and Collective Governance; Work, Craft, and Repair | Councils postpone decisions and workshops postpone tasks. In both cases the plan moves later without being canceled. |
+
+### Retained as dependencies
+
+| Home module | Words | Considered for | Why one home remains enough |
+|---|---|---|---|
+| Systems and Shared Infrastructure | `seluwhe` outage | Accessibility and Participation | An outage may remove access, but the noun classifies an unavailable infrastructure service. Accessibility already names the barrier and its effect on use. |
+| Ecological Systems and Material Life | `morume` decompose | Household and Daily Life | A household may compost, but decomposition is the biological or chemical process. `mukesi` spoil carries the household judgment about lost use. |
+| Ecological Systems and Material Life | `pesenu` pollute | Medical and Bodily Care; Work, Craft, and Repair | Pollution claims environmental impairment. Medical and work discussion already has contaminant, toxicity, exposure, and hazard for what reaches a body or workplace. |
+| Ecological Systems and Material Life | `phaluwe` flood | Accessibility and Participation; Systems and Shared Infrastructure | Flooding is the water event. Accessibility and Systems need its barrier, outage, or failure more often than they need to teach hydrology. |
+| Work, Craft, and Repair | `sephori` supply, `katemu` offcut | Ecological Systems and Material Life | Supply and offcut name workshop relations. Ecological discussion can follow the resource, transfer, or waste that results without relocating the craft terms. |
+| Work, Craft, and Repair | `someru` supervise, `sikanu` certify | Commons and Collective Governance | Supervision attends to work, and certification issues a formal claim about criteria. An institution can perform either act without making it a governance relation. |
+| Work, Craft, and Repair | `kirero` quality | Systems and Shared Infrastructure | Systems already offers sharper measures through function, reliability, efficiency, and specification. Criterion-relative quality remains a useful Work dependency. |
+| Household and Daily Life | `mukesi` spoil | Ecological Systems and Material Life | Spoilage names practical loss of intended use. Ecological decomposition and material change answer different questions about the same food. |
+| Household and Daily Life | `muneki` latrine | Medical and Bodily Care; Systems and Shared Infrastructure | A latrine is the daily place or fixture. Medical and Systems vocabulary describes the health consequences or treatment system around it. |
 
 ## Base-vocabulary review
 
-Multiple labels are the wrong answer when a word is too general or too important to hide behind every relevant optional filter. These eleven entries need a separate decision about removing their `modules` field entirely.
+Multiple labels are the wrong answer when a word is too general or too important to hide behind every relevant optional filter. These thirteen entries need a separate decision about removing their `modules` field entirely.
 
 | Current module | Words | Why base placement deserves review |
 |---|---|---|
 | Philosophical Reasoning | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion | Phi is intended for philosophical discussion, and these four distinctions also organize ecological, medical, technical, and governance claims. Their present definitions are not tradition-specific. |
+| Systems and Shared Infrastructure | `phelure` store | Someone stores food in a cupboard or water in a cistern without treating either act as systems study. The verb names ordinary retention for later retrieval. |
 | Commons and Collective Governance | `sirami` record | A durable account is ordinary vocabulary for a clinic, a workbench, a household, or a person's own memory before an institution gives it status. |
 | Commons and Collective Governance | `kawhera` coerce, `whepelo` retaliate | A speaker may need these words to discuss a coerced choice or retaliation after reporting harm, even outside formal governance study. The core invariant already protects vocabulary needed for safety. |
 | Ecological Systems and Material Life | `muralo` material, `panuri` resource | Both are broad relational nouns used throughout work, households, infrastructure, and commons decisions. The question is whether their analytical precision is specialized enough to justify optional study. |
 | Ecological Systems and Material Life | `howenu` weather | Weather shapes ordinary decisions about travel and shelter. Climate is the clearly specialized neighbor. |
+| Work, Craft, and Repair | `hasoru` pending | A request or result can remain pending in care, household life, or a collective process. The definition is not limited to organized work. |
 | Work, Craft, and Repair | `winora` plan | A person can plan a meal, a journey, care, or collective action without entering the Work module. The current definition is not limited to organized work. |
 
-Base promotion changes what a general learner is expected to know. It should not be bundled silently into the mechanical overlap patch.
+Base promotion changes what a general learner is expected to know. It deserves its own review rather than being folded into an overlap implementation.
 
 ## Why the other words stay single
 
-The 126 retained entries are not isolated. They remain available to every speaker and may appear in every profile. Their one module label still names the best learning home.
+The 137 retained entries are not isolated. They remain available to every speaker and may appear in every profile. Their one module label still names the best learning home.
 
-| Home module | High-confidence shared | Second pass | Base review | Retain one module |
+| Home module | First-pass shared | Second-pass shared | Base review | Retain one module |
 |---|---:|---:|---:|---:|
 | Philosophical Reasoning | 2 | 1 | 4 | 15 |
-| Systems and Shared Infrastructure | 16 | 5 | 0 | 4 |
-| Ecological Systems and Material Life | 12 | 3 | 3 | 12 |
+| Systems and Shared Infrastructure | 16 | 3 | 1 | 5 |
+| Ecological Systems and Material Life | 12 | 0 | 3 | 15 |
 | Commons and Collective Governance | 7 | 5 | 3 | 15 |
-| Work, Craft, and Repair | 13 | 7 | 1 | 9 |
+| Work, Craft, and Repair | 13 | 1 | 2 | 14 |
 | Medical and Bodily Care | 0 | 0 | 0 | 30 |
 | Accessibility and Participation | 10 | 6 | 0 | 14 |
-| Household and Daily Life | 1 | 2 | 0 | 27 |
-| **Total** | **61** | **29** | **11** | **126** |
+| Household and Daily Life | 1 | 0 | 0 | 29 |
+| **Total** | **61** | **16** | **13** | **137** |
 
-Medical contributes no words outward in the first recommendation because its coinages are deliberately scoped to bodily care and the course of illness. It still gains fifteen incoming classifications from measurement, access, systems, and work. Household keeps most of its concrete objects and domestic actions singly classified for the opposite reason: a bottle may be used in a clinic or workshop without becoming medical or craft vocabulary.
+Medical contributes no words outward in either implementation because its coinages are deliberately scoped to bodily care and the course of illness. It still gains fifteen incoming classifications from measurement, access, systems, and work. Household keeps most of its concrete objects and domestic actions singly classified for the opposite reason: a bottle may be used in a clinic or workshop without becoming medical or craft vocabulary.
 
 The complete retained set is below. Each word may be used anywhere; the table records only its best learning home.
 
 | Home module | Retain one module | Why |
 |---|---|---|
 | Philosophical Reasoning | `kethira` infer, `kirothe` define, `kithela` valid, `letharo` consistent, `mothare` premise, `natheri` entail, `norethi` confident, `phiketu` contradict, `phisuwa` example, `phiwheki` counterexample, `remole` concept, `remuma` conclusion, `themore` argument, `whamoi` doubt, `whekate` refute | This set names the structure and evaluation of reasoning itself. Other profiles use it without needing a second teaching home. |
-| Systems and Shared Infrastructure | `henora` capacity, `ketora` control, `kirowi` signal, `takori` load | Capacity, control, signal, and load are technical system relations. Other profiles have barrier, workload, or overload when those sharper relations are not intended. |
-| Ecological Systems and Material Life | `kuramo` drought, `likori` species, `liloni` population, `litero` ecosystem, `liweso` ecological community, `luphano` watershed, `meluri` climate, `menuro` habitat, `munari` sediment, `philima` biodiversity, `wheraku` erode, `wiralu` runoff | Here the vocabulary describes ecological entities and processes, rather than a relation merely borrowed by ecological discussion. |
+| Systems and Shared Infrastructure | `henora` capacity, `ketora` control, `kirowi` signal, `seluwhe` outage, `takori` load | Capacity, control, signal, outage, and load are technical system relations. Other profiles name the consequences when those sharper relations are not intended. |
+| Ecological Systems and Material Life | `kuramo` drought, `likori` species, `liloni` population, `litero` ecosystem, `liweso` ecological community, `luphano` watershed, `meluri` climate, `menuro` habitat, `morume` decompose, `munari` sediment, `pesenu` pollute, `phaluwe` flood, `philima` biodiversity, `wheraku` erode, `wiralu` runoff | Here the vocabulary describes ecological entities and processes, rather than a relation merely borrowed by ecological discussion. |
 | Commons and Collective Governance | `helaki` amend, `karami` authority, `kasira` vote, `kirethu` legitimate, `makelu` abstain, `nashaku` enforce, `nasholu` rule, `naweso` consensus, `norulo` jurisdiction, `phanuli` allocate, `phenori` ownership, `punoki` institution, `repora` propose, `shereni` entitlement, `wemari` member | Each word locates action inside collective or institutional relations. Use in work or access does not move that center. |
-| Work, Craft, and Repair | `kiranu` qualified, `noraku` blocked, `nukesa` expert, `pokera` competent, `rinoka` project, `thesani` skill, `thunaro` train, `wephari` coordinate, `wepuri` progress | This group describes practical capacity and the organization or status of work. |
+| Work, Craft, and Repair | `katemu` offcut, `kiranu` qualified, `kirero` quality, `noraku` blocked, `nukesa` expert, `pokera` competent, `rinoka` project, `sephori` supply, `sikanu` certify, `someru` supervise, `thesani` skill, `thunaro` train, `wephari` coordinate, `wepuri` progress | This group describes practical capacity and the organization, judgment, or material practice of work. |
 | Medical and Bodily Care | `helanu` recover, `hisaro` clinical finding, `katheo` acute, `kaworu` injury, `kithawu` triage, `kithero` diagnose, `mikasu` dose, `mokanu` disease, `morashi` relapse, `nathoku` contraindicated, `nephoru` treat, `nurawi` chronic, `pelaku` severity, `peshiro` infection, `phamori` symptom, `porewi` side effect, `sewaro` transmit, `shorenu` immune, `shuneki` vaccinate, `sonari` isolate, `soranu` screen, `suloru` fever, `teshori` quarantine, `thekamu` intervene, `thephaku` inflammation, `welathi` contagious, `weshaku` outbreak, `whekaro` adverse effect, `whemaki` allergy, `wireki` prognosis | Each definition makes a specifically medical or bodily-care distinction. The module gains useful scientific and procedural words from elsewhere, but its own coinages keep their clear home. |
 | Accessibility and Participation | `hewasu` audible, `hinawu` accommodate, `kelasu` usable, `kopharu` barrier, `lokane` accessible, `naphelu` assistive, `palethu` tactile, `ralemi` independent, `runaki` wayfind, `ruweli` access, `shoraku` interpret, `sitheku` transcribe, `thekasi` caption, `thewuni` legible | Access relations and communication forms are the point of this group. A system or institution may use the words, but access is what each definition asks the learner to notice. |
-| Household and Daily Life | `kirato` lock, `kolupe` bucket, `komalu` pillow, `lirupa` bag, `lophani` bottle, `lupaki` fold, `molupa` box, `napako` bake, `norupe` spoon, `nurome` meal, `phareme` ingredient, `phelasi` shelf, `phemiru` visit, `pheomu` leftovers, `phurewa` sweep, `phurilo` broom, `sawathi` soap, `seluto` pour, `tapulo` jar, `tapuri` lid, `thekopa` recipe, `therapi` boil, `tholupi` room, `welotu` mix, `wethaki` towel, `wethamo` blanket, `wethate` laundry | A clinic or workshop may have a bottle or broom. The objects and daily actions do not become specialist vocabulary there. |
+| Household and Daily Life | `kirato` lock, `kolupe` bucket, `komalu` pillow, `lirupa` bag, `lophani` bottle, `lupaki` fold, `molupa` box, `mukesi` spoil, `muneki` latrine, `napako` bake, `norupe` spoon, `nurome` meal, `phareme` ingredient, `phelasi` shelf, `phemiru` visit, `pheomu` leftovers, `phurewa` sweep, `phurilo` broom, `sawathi` soap, `seluto` pour, `tapulo` jar, `tapuri` lid, `thekopa` recipe, `therapi` boil, `tholupi` room, `welotu` mix, `wethaki` towel, `wethamo` blanket, `wethate` laundry | A clinic or workshop may have a bottle or broom. The objects and daily actions do not become specialist vocabulary there. |
 
 ## Remaining review
 
@@ -203,7 +210,7 @@ The canonical entries, generated reference, module profiles, and Part VII index 
 1. [x] Apply the high-confidence classifications with exact membership counts.
 2. [x] Regenerate the module reference and verify every shared word against the explorer's filter rule.
 3. [x] Distinguish profile coinage from current membership in profiles and speaker guides.
-4. [ ] Re-read the expanded module lists and decide the 29 second-pass candidates by what the learning paths now feel like, not by a target count.
-5. [ ] Review the eleven base candidates separately because removing a module field changes the general learning path.
+4. [x] Re-read the expanded module lists and resolve all 29 second-pass candidates without using a target count.
+5. [ ] Review the thirteen base candidates separately because removing a module field changes the general learning path.
 
-The first implementation stops at the 61 high-confidence words. The expanded lists give the next review something concrete to judge: whether each disputed word belongs in the learning path or should remain a dependency.
+The overlap decisions are complete. The next review asks a different question of thirteen words: whether any optional label belongs on them at all.

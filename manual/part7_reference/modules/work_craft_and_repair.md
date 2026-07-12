@@ -4,7 +4,7 @@ A chair comes back from the workshop with one leg pale and new. Whoever sits in 
 
 Like every module, its vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 48 words; the complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 55 words; the complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
