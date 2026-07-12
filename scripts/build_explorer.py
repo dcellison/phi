@@ -500,7 +500,7 @@ def texts_page(body, title):
 <div class="chapnav"><a href="index.html">all texts</a></div>
 </main>
 <footer>
-  <p>Each text identifies itself as a translation or a transmutation. The source files live in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, and the site renders them at build time.
+  <p>Each rendering identifies itself as a translation or a transmutation. The source files live in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, and the site renders them at build time.
      The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
@@ -509,7 +509,7 @@ def texts_page(body, title):
 
 TEXTS = [
     ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text written in Phi: the Metta Sutta followed through all ten verses, with each source claim and image given a place in the language."),
-    ("north_wind_and_sun", "nitho howeli nela sileta \u2014 The North Wind and the Sun", "Phi's first story: the fable told in a thousand languages to show what each sounds like. The primer's capstone sends its readers here."),
+    ("north_wind_and_sun", "nitho howeli nela sileta \u2014 The North Wind and the Sun", "One familiar fable in two Phi renderings: a close translation for hearing the language, followed by a transmutation and a comparison through the five pillars."),
     ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "The most-translated document in history, in the language that needed no new words to say it \u2014 and no gendered ones to exclude with."),
     ("babel_text", "ta haluma \u2014 the Babel text", "The conlang community's handshake, done the Phi way: the scattering as sowing, every language a garden \u2014 and the first time Phi names its own kind."),
     ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "A transmutation that becomes a refusal: what a language without domination vocabulary cannot say, and the hearth-poem that comes out when it tries."),
@@ -526,7 +526,7 @@ TEXTS = [
 
 TEXT_METHODS = {
     "metta_sutta": "Translation",
-    "north_wind_and_sun": "Transmutation",
+    "north_wind_and_sun": "Translation + transmutation",
     "human_rights_article_one": "Transmutation",
     "babel_text": "Transmutation",
     "ring_verse_refusal": "Transmutation",
@@ -553,8 +553,8 @@ for stem, title, blurb in TEXTS:
     (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
 
 toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta keeps all ten verses of its source. Its final claim about return to a mother's womb remains explicit. The North Wind and the Sun changes Aesop's contest into a judgment about what brings fruit. The first is a translation; the second is a transmutation.</p>",
-       "<p>A translation preserves the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Its notes show what changed. Both use Phi grammar rather than word-for-word substitution, and every entry below names its method.</p>"]
+       "<p>The Metta Sutta contains all ten verses of its source. The North Wind and the Sun first states Aesop's claims in a close translation, then retells the fable as a transmutation. Its paired page shows where the methods part.</p>",
+       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and one uses both; every rendering says what it owes the source.</p>"]
 for stem, title, blurb in TEXTS:
     toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")

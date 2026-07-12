@@ -820,14 +820,35 @@ CITATION_SOURCES = {
     ),
 }
 
+PAIRED_CITATION_SCOPES = {
+    "pamphlets/north_wind_and_sun.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
+}
+
+
+def citation_scope(doc_rel, text, position):
+    """Return the paired-rendering section containing a citation."""
+    scopes = PAIRED_CITATION_SCOPES.get(doc_rel)
+    if not scopes:
+        return None
+    candidates = (
+        (text.rfind(heading, 0, position), heading)
+        for heading in scopes
+    )
+    start, heading = max(candidates)
+    return heading if start >= 0 else None
+
 
 def check_citations():
     """Source citations are ground truth: every fragment of every
-    citation line must appear verbatim in the stored source text, and
-    no two units may share the same citation (each unit cites exactly
-    the clause it translates). Ellipses mark omissions and split a
-    citation into independently verified fragments; hyphenated line
-    breaks in the source are rejoined before matching."""
+    citation line must appear verbatim in the stored source text. A
+    source clause normally belongs to exactly one unit. A declared paired
+    work may cite it once in each rendering, but never twice inside one
+    rendering. Ellipses mark omissions and split a citation into
+    independently verified fragments; hyphenated line breaks in the
+    source are rejoined before matching."""
     errors = []
     for doc_rel, (prefix, src_rel) in CITATION_SOURCES.items():
         doc_path = PROJECT_ROOT / doc_rel
@@ -843,14 +864,21 @@ def check_citations():
         for m in pattern.finditer(text):
             cite = m.group(1)
             lineno = text.count("\n", 0, m.start()) + 1
-            if cite in seen:
+            scope = citation_scope(doc_rel, text, m.start())
+            previous = seen.setdefault(cite, [])
+            shared_scope = next(
+                (line for line, prior_scope in previous
+                 if prior_scope == scope),
+                None,
+            )
+            if previous and (scope is None or shared_scope is not None):
+                prior_line = shared_scope or previous[0][0]
                 errors.append(
                     f"{doc_rel}:{lineno}: citation shared with line "
-                    f"{seen[cite]}: \"{cite[:50]}\" (each unit cites "
-                    f"exactly the clause it translates)"
+                    f"{prior_line}: \"{cite[:50]}\" (each rendering "
+                    f"cites a source clause at most once)"
                 )
-            else:
-                seen[cite] = lineno
+            previous.append((lineno, scope))
             for frag in cite.replace('\\"', '"').split("..."):
                 frag_norm = " ".join(frag.split())
                 if frag_norm and frag_norm not in src_norm:

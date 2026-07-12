@@ -117,7 +117,7 @@ Use it to:
 
 Phi carries a source by translation or transmutation. Neither practice substitutes words mechanically; both use Phi's own grammar and concept boundaries.
 
-A close **translation** preserves the source's claims and distinctions, together with its important images and force. When Phi must compose a source term or cannot keep a distinction whole, the notes name the loss. The Metta Sutta on the text shelf is the complete example.
+A close **translation** preserves the source's claims and distinctions, together with its important images and force. When Phi must compose a source term or cannot keep a distinction whole, the notes name the loss. The text shelf offers two complete examples: the Metta Sutta tests philosophical precision, while *The North Wind and the Sun* gives Phi a familiar linguistic benchmark.
 
 A **transmutation** makes a different promise. It understands the source and then rebuilds it through Phi's concepts, grammar, and philosophy, with permission to reframe or refuse what a translation would preserve. Exact source material remains outside the Phi passage whenever rebuilding would falsify wording or erase an identity that the record must keep.
 
