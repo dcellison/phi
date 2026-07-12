@@ -16,7 +16,7 @@ The manual is the teaching path; these are the working documents behind it.
 | `documents/compounds.md` | The canonized compound idioms and why each stays compositional |
 | `documents/modifier_first_philosophy.md` | The organizing principle, argued in full |
 | `documents/psychological_violence_of_measurement.md` | Why the numbers are the way they are |
-| `pamphlets/` | The transmuted texts (the Metta Sutta, the fable, *The Velveteen Rabbit*, and the rest of the shelf), each with notes and a gap log |
+| `pamphlets/` | The text shelf: the close Metta Sutta translation and the transmutations, each with notes and a gap log |
 | `manual/part7_reference/` | The one-page grammar and the generated lexicon listings |
 | `scripts/validate_examples.py` | The validator; also `neighbors <word>` before coining |
 | `archive/` | The language's history, preserved and clearly marked as non-canon |

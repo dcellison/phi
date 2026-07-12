@@ -264,6 +264,8 @@ footer a { color: var(--sage); }
 .primer main { max-width: 38rem; }
 .primer h1 { font-size: 2rem; letter-spacing: .04em; text-align: left; margin-bottom: 1.2rem; }
 .primer h2 { font-size: 1.15rem; }
+.primer .text-method { color: var(--muted); font-size: .78rem; font-weight: 600; letter-spacing: 0; margin: -.7rem 0 1.25rem; text-transform: uppercase; }
+.primer h2 + .text-method { margin: -.35rem 0 .45rem; }
 .primer blockquote strong { font-size: 1.08rem; letter-spacing: .02em; }
 .primer table {
   border-collapse: collapse;

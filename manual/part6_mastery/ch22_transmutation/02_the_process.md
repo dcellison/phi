@@ -6,7 +6,7 @@ Transmutation looks like inspiration from the outside, but it is a craft with st
 
 Before touching the dictionary, ask what the sentence is actually *doing*. Not its words: its work. "The aesthetics of solarpunk merge the practical with the beautiful" is doing this work: it claims that two qualities people usually separate belong together. That claim is what must survive. The vocabulary of the original ("aesthetics," "merge") is scaffolding, and scaffolding does not ship.
 
-This step is where mindfulness earns its place in the method. A sentence read hastily gets translated; a sentence sat with gets transmuted.
+This step is where the methods separate. A translator asks which details make the source's claim exact. A transmuter decides which underlying work to carry and which source details may change. Both decisions require patience.
 
 ## Step 2: Find the Phi concepts
 
@@ -16,7 +16,7 @@ Now open the lexicon, but search by *meaning*, not by dictionary headword. Three
 2. **The compound registry** (`documents/compounds.md`). Canonized idioms like `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of the language. Use them before inventing.
 3. **A new composition.** If neither exists, compose transparently from existing words, the way `nulae nophi` (sleep-story) makes "dream." If your composition is good, it may deserve a place in the registry.
 
-Only when all three fail is a genuinely new word indicated, and that is a separate, deliberate act (see the Word Creation Protocol), never something done casually in the middle of a text.
+Once those places have been checked, choose honestly between composition and coinage. A transmutation also has the option to reframe, which its gap log records. Coinage follows the Word Creation Protocol and is settled before the passage is finished rather than improvised inside a sentence.
 
 ## Step 3: Restructure
 
@@ -40,7 +40,7 @@ Every Phi word in your text must exist in the lexicon with the meaning you are u
 python3 scripts/validate_examples.py
 ```
 
-The Metta Sutta transmutation shipped with zero unknown words. Yours should too. A transmutation that uses words the language does not have is not a transmutation: it is a wish.
+The Metta Sutta translation contains no unknown forms. A transmutation has the same obligation: every Phi word in it must exist. Otherwise the passage is a wish for vocabulary, not a finished text.
 
 ## The five moves
 
@@ -56,7 +56,7 @@ Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's 
 
 **Composition.** Build the missing abstraction from the rules instead of coining: quality-nouns make the soft and the hard, event-nouns make life and death, `mu thena` counts honest emptiness (Tao Te Ching); a dream was always a sleep-story.
 
-Coin only when all five moves fail, and then by the Word Creation Protocol, never mid-text. Four of the shelf's ten texts, including its three whole-teaching transmutations, needed no coin at all.
+Coinage is one of the tools, not a penalty for exhausting the others. When a concept deserves its own root, leave the draft, follow the Word Creation Protocol, and return with a valid word. A shelf text may reach the end without a coin; that is evidence that composition did the work, not a target every text must meet.
 
 ## The process in one breath
 

@@ -12,7 +12,7 @@ A useful first pass stays with the Phi until a sentence resists. The gloss ident
 
 Three roads leave the fable, in whatever order calls to you.
 
-[*The Metta Sutta*](../pamphlets/metta_sutta.md) is the loving-kindness meditation, transmuted rather than translated. It is harder than the fable. A little each day is enough. The Sun's invitation has already introduced optative *su*; here the particle carries a whole practice of wishes and blessings.
+[*The Metta Sutta*](../pamphlets/metta_sutta.md) is a close translation of the loving-kindness meditation. It is harder than the fable. A little each day is enough. The Sun's invitation has already introduced optative *su*; here the particle carries a whole practice of wishes and blessings.
 
 The journal remains chapter twelve's standing request: three fragments a day, dated *ha philo*. This is where the language begins to move from the page into ordinary thought.
 

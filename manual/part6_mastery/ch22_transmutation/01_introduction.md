@@ -1,15 +1,15 @@
-# Thinking in Phi, not translating
+# Thinking in Phi through transmutation
 
 There is a question every learner eventually asks: "How do I say *X* in Phi?" And there is a moment, further along, when the question changes: "What would Phi *do* with this idea?" The distance between those two questions is the subject of this chapter.
 
-Translation carries words across a border. It assumes that for every word here there is a word there, and that a sentence is a wagon that can be unloaded and repacked. For many language pairs this works tolerably well. For Phi it fails: not occasionally but structurally, and the failure is a design feature.
+Translation and transmutation answer different questions. A close translation asks Phi to preserve the source's claims, distinctions, images, and force in sentences natural to the language. A transmutation asks what the source becomes when Phi's concepts and philosophy may change it. Neither practice is word-for-word substitution.
 
-Phi resists automatic word-for-word carriage in three ways. Its analytic, verb-final grammar reorganizes source sentence shapes. Its concept space draws different boundaries: `womu` joins dwelling and belonging, while `kuri` names only the bodily direction covered by one sense of English *right*. Some vocabulary is absent on purpose. A transmuter may treat those absences as invitations to analyze; an exact reporter preserves the source artifact outside the Phi passage when rebuilding would falsify wording, erase identity, or lose necessary precision.
+Both practices meet the same resistance. Phi's analytic, verb-final grammar reorganizes source sentence shapes. Its concept space draws different boundaries: `womu` joins dwelling and belonging, while `kuri` names only the bodily direction covered by one sense of English *right*. Some vocabulary is absent on purpose. A translator treats the resistance as a problem to solve or a loss to name. A transmuter may choose the change, but the source and gap log must make that choice visible.
 
-**Transmutation** is the practice this manual teaches instead: understand the idea beneath the sentence, then rebuild that idea from Phi's own concepts, grammar, and philosophy. The result is not a copy of the original. It is what the original *becomes* when it is thought in Phi.
+**Transmutation** is the practice this chapter teaches: understand the idea beneath the sentence, then rebuild that idea from Phi's own concepts, grammar, and philosophy. The result is not a copy of the original. It is what the original *becomes* when it is thought in Phi.
 
 The word is borrowed from the old alchemists, and the borrowing is honest: transmutation changes the substance, not just the label. Sometimes what comes out is smaller than what went in: a news article loses its statistics. Sometimes it is truer: you will see, in the second case study, that Phi's way of handling anger arrives at the structure of nonviolent communication by grammar alone.
 
-The first complete text in Phi, the Metta Sutta transmutation (*lothea thole*, in the pamphlets), was built entirely with this method, and this chapter draws its examples from that experience. By the end you will have a repeatable process, three worked case studies, and exercises of your own.
+The text shelf keeps the methods apart. The Metta Sutta, *lothea thole*, is a close translation: each claim in its chosen English source remains answerable to the Phi. The other adapted works are transmutations. Their changes are part of the work rather than defects hidden behind a source citation.
 
-One promise before we begin: transmutation is not a workaround for an incomplete language. It is the intended way of using a complete one. The constraints are the teaching, and transmutation is how the teaching is practiced.
+This chapter teaches transmutation. It still draws on choices visible in the Metta Sutta translation because both practices use composition and natural Phi grammar. Their obligations separate at the point of loss: a translation tries to repair it, while a transmutation may keep it and say why.

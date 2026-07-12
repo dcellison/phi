@@ -40,7 +40,7 @@ An observation. A feeling. A request. Speakers of nonviolent communication will 
 
 ## The fire as a source
 
-The Metta Sutta transmutation adds one more instrument: the ablative `lue` (from). When anger drives an act, Phi names the fire as the act's *source*:
+The Metta Sutta translation adds one more instrument: the ablative `lue` (from). When anger drives an act, Phi names the fire as the act's *source*:
 
 ```
 su mawha miona lue korua thero wei shia peloma pula.

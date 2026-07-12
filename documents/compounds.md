@@ -1,6 +1,6 @@
 # Phi Compound Registry
 
-Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not a one-off improvisation. Each entry records a deliberate choice to keep the composition because its visible parts do useful work. The Metta Sutta's "What the transmutation changed" section shows that judgment in practice.
+Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not a one-off improvisation. Each entry records a deliberate choice to keep the composition because its visible parts do useful work. The Metta Sutta's "Translation gap log" shows that judgment in practice.
 
 New compounds belong here when a text or lesson establishes them; every word inside one must exist in the lexicon.
 

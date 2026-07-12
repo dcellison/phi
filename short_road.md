@@ -130,7 +130,9 @@ Every word also arrives with its relatives included. A verb names its own event:
 
 ## The shelf
 
-Phi does not translate texts; it rebuilds them from its own concepts, and publishes the seams: each line of a text carries the original beside it, so you can check what survived. Twelve works stand on the shelf so far: the Metta Sutta, the first text ever written in the language; the fable of the North Wind and the Sun; Article 1 of the Universal Declaration of Human Rights, which needed no new words at all; the Babel story; Schleicher's fable; the fox's secret from The Little Prince; three teachings from The Prophet; five chapters of the Tao Te Ching; the Heart Sutra; the whole of The Velveteen Rabbit; three chapters so far of Morris's News from Nowhere; and one famous refusal: the Ring Verse, which a language without domination vocabulary cannot say, and the essay shows exactly where it breaks and what comes out instead when it tries.
+Phi's shelf uses two methods. A close translation keeps the source's claims intact while letting Phi choose its own grammar. A transmutation allows the source to change as Phi thinks it through. Every text identifies its ground truth and records the choices, so the reader can see what arrived and what did not.
+
+Twelve works stand on the shelf. The Metta Sutta, the first text written in Phi, is a translation. The other eleven are transmutations: the fable of the North Wind and the Sun; Article 1 of the Universal Declaration of Human Rights; the Babel story; Schleicher's fable; the fox's secret from *The Little Prince*; three teachings from *The Prophet*; five chapters of the Tao Te Ching; the Heart Sutra; the whole of *The Velveteen Rabbit*; three chapters of Morris's *News from Nowhere*; and one famous refusal, the Ring Verse, which shows exactly where Phi declines the source and what it makes instead.
 
 ## Where the choices come from
 

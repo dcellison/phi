@@ -1,6 +1,6 @@
 # Phi
 
-**kia** — hello. Phi is a philosophical constructed language built around one modifier-first organizing principle, regular forms, and a practice of unhurried communication. Its shelf of literature includes the Ring Verse, whose source remains visibly separate from Phi's refusal to translate it.
+**kia** — hello. Phi is a philosophical constructed language built around one modifier-first organizing principle, regular forms, and a practice of unhurried communication. Its shelf of literature includes a Ring Verse transmutation whose refusal remains visibly separate from Tolkien's source.
 
 **If you are new, do not start here.** Start with **[kia.md](kia.md)** — five minutes, and it will tell you whether Phi is for you. Or start with the language alive: everything below is rendered to **[dcellison.github.io/phi](https://dcellison.github.io/phi/)** on every merge. This page is the map of the repository for whoever comes back.
 
@@ -11,8 +11,8 @@
 | **The invitation** | [kia.md](kia.md) | Five minutes of contact with the language. The front door. |
 | **The short road** | [short_road.md](short_road.md) | The whole language at walking pace: twenty minutes, one working example per idea. The second door. |
 | **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, twenty-four graded chapters about one household, and a capstone. No prior knowledge assumed. |
-| **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, and transmutation. For verification and depth. |
-| **The texts** | [texts on the site](https://dcellison.github.io/phi/texts/) | Phi's literature: twelve works, from the Metta Sutta to the first chapters of *News from Nowhere* — and the Ring Verse, refused, with the refusal shown line by line. |
+| **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, translation, and transmutation. For verification and depth. |
+| **The texts** | [texts on the site](https://dcellison.github.io/phi/texts/) | Phi's literature: one close translation and eleven transmutations, from the Metta Sutta to the first chapters of *News from Nowhere*, with the Ring Verse refusal shown line by line. |
 | **The pamphlets** | [pamphlets on the site](https://dcellison.github.io/phi/pamphlets/) | Deep-dive companions to the manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys. |
 
 Four shelves, four jobs: `documents/` is what the language **is** (the specification), the manual is how it is **explained**, the primer is how it is **learned**, and the pamphlets are how it is **practiced**.

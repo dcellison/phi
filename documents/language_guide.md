@@ -113,34 +113,42 @@ Use it to:
 
 ---
 
-## 6. The Art of Transmutation: Thinking in Phi
+## 6. Translation and transmutation
 
-Phi is more than a system of substitutions; it offers its own ways of analyzing and structuring ideas. Rebuilding an idea through those resources is called **transmutation**. Exact source material remains outside the Phi passage whenever rebuilding would falsify or erase something that must be preserved.
+Phi carries a source by translation or transmutation. Neither practice substitutes words mechanically; both use Phi's own grammar and concept boundaries.
 
-The goal is not to find a word-for-word equivalent for a sentence. The goal is to understand the core *idea* behind the sentence and then re-build that idea from the ground up using the concepts, grammar, and philosophy of Phi.
+A close **translation** preserves the source's claims and distinctions, together with its important images and force. When Phi must compose a source term or cannot keep a distinction whole, the notes name the loss. The Metta Sutta on the text shelf is the complete example.
 
-### An Example of Transmutation
+A **transmutation** makes a different promise. It understands the source and then rebuilds it through Phi's concepts, grammar, and philosophy, with permission to reframe or refuse what a translation would preserve. Exact source material remains outside the Phi passage whenever rebuilding would falsify wording or erase an identity that the record must keep.
 
-Let's take a complex English sentence that describes the Solarpunk aesthetic:
+### An example of transmutation
+
+Take an English sentence that describes the Solarpunk aesthetic:
 
 > "The aesthetics of solarpunk merge the practical with the beautiful, the well-designed with the green and lush, the bright and colorful with the earthy and solid."
 
-A direct translation would be long, clumsy, and ungrammatical. Instead, we transmute it.
+This exercise does not attempt a close translation. It chooses the relationships it wants to keep, then rebuilds them.
 
-**1. Transmute the Concepts:** First, we find the Phi way of thinking about the key terms.
+#### 1. Choose the concepts
+
+The transmutation rebuilds four source concepts:
+
 *   "Aesthetics" becomes `lei ruela` (the path of harmony).
 *   "Practical" becomes `porua welao` (good for its purpose).
 *   "Lush" becomes `liro lioru` (green life).
 *   "Well-designed" becomes `thesua lorima` (mindful building).
 
-**2. Transmute the Structure:** The English sentence uses a single, complex verb ("merge"). The Phi way is more deliberate and descriptive. It is more natural to break the idea into parallel statements, creating a clear and poetic rhythm.
+#### 2. Rebuild the structure
 
-**3. The Final Transmutation:** The original idea, filtered through the lens of Phi, becomes this:
+The English sentence hangs every pair on the verb "merge." The Phi version gives each pair its own sentence, and repeated `lorea` supplies the rhythm.
+
+#### 3. Read the result
+
 *   **Phi:** `mua lei ruela porua welao nela mioru lorea. thesua lorima nela liro lioru lorea. keru nela muroa lorea.`
 *   **Gloss:** `in harmony path [purpose-good and beauty] connect. [mindful-build and green life] connect. [bright and earthy] connect.`
 *   **Translation:** In the path of harmony, the practical and the beautiful connect. The well-designed and the green and lush connect. The bright and the earthy connect.
 
-This final form is purely Phi. It is grammatical, elegant, and fully expresses the spirit of the original idea while adhering to the language's own unique logic. This is the goal of transmutation.
+The final form is Phi, but it does not claim to preserve every detail of the English sentence. It keeps the relationships the exercise chose and lets the rest fall away. That deliberate change is transmutation.
 
 ---
 

@@ -24,7 +24,7 @@ Transmute something from today's news, one sentence. Requirements: every claim y
 
 ## Exercise 4: A poem (the gap as collaborator)
 
-Choose a short poem you love, two to four lines. Transmute it, and keep a **gap log** as the Metta Sutta did: every missing word, and what you did instead. The exercise is scored, if you like, by a single question: did any gap force an image *better* than the original's? If none did, sit longer.
+Choose a short poem you love, two to four lines. Transmute it, and keep a **gap log** like the one beside the Metta Sutta translation: every missing word, and what you did instead. The exercise is scored, if you like, by a single question: did any gap force an image *better* than the original's? If none did, sit longer.
 
 ## Exercise 5: Your own words (the full arc)
 

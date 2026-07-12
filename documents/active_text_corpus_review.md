@@ -15,7 +15,8 @@ This ledger tracks roadmap item SEM-01C: the active Phi corpus is being reread a
 
 | Check | Question that decides the disposition |
 |---|---|
-| Source and proposition | Does the Phi passage preserve the source's relevant claim, image, event, or deliberate transformation without presenting a transmutation as a quotation? |
+| Declared method | Is the work identified as a translation or a transmutation before the reader reaches the Phi passage? |
+| Source and proposition | In a translation, does every source claim, distinction, image, and relation survive as closely as Phi permits? In a transmutation, is every departure deliberate, visible, and honestly represented by the back-translation? |
 | Lexicon semantics | Does every content word fit its full concept and description rather than merely sharing an English gloss? |
 | Module vocabulary | Does an optional term say the thought more exactly, or would it only advertise a module and burden this text's intended reader? |
 | Composition | Is the existing phrase natural Phi, and does its transparency teach something a dedicated term would hide? |
@@ -25,7 +26,9 @@ This ledger tracks roadmap item SEM-01C: the active Phi corpus is being reread a
 
 Module vocabulary is adopted when its meaning earns the place. A transparent base expression remains when it is natural or better suited to the learning path, and a before-state passage stays unchanged when its limitations are evidence.
 
-## Pilot: The North Wind and the Sun
+The shelf uses two methods. A translation remains answerable to the source at every proposition; composition solves lexical differences without granting permission to rewrite the claim. A transmutation may change the source through the language's concepts and commitments, but its freedom is not vagueness. The Phi line must agree with its exact gloss and back-translation; the citation and gap log must show what shifted. Reviewing a transmutation does not turn it into a translation. It clears accidental loss, misleading back-translations, stale vocabulary, and unexamined approximation while leaving defended choices in place.
+
+## Transmutation pilot: The North Wind and the Sun
 
 The ground truth is the 1919 *Aesop for Children* text stored at `pamphlets/sources/aesop_for_children.txt`. The reviewed Phi passage uses 96 unique forms, all from base vocabulary. At least 56 of those forms do not appear anywhere in the preceding primer chapters: 42 are content words and 14 are non-content forms. This is an attestation count, not a claim about how many a learner could infer.
 
@@ -43,7 +46,7 @@ The ground truth is the 1919 *Aesop for Children* text stored at `pamphlets/sour
 
 The Phi passage adds no module vocabulary. That result is useful: this review is a semantic audit, not a tour arranged to show off the new modules. The larger lexicon can sharpen a text by confirming that an older composition is still the right one.
 
-## Review: The Metta Sutta
+## Translation review: The Metta Sutta
 
 The ground truth is V. Fausböll's 1881 translation stored at `pamphlets/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. This includes the final claim about return to a mother's womb. The text uses two optional roots where ordinary base paraphrase would lose the source's distinction: `thesani`, skill, and `naseru`, obligation.
 
@@ -63,21 +66,21 @@ The English back-translation is deliberately literal. It lets a reader inspect t
 
 ## Literary shelf
 
-| Active text | Status | Note |
-|---|---|---|
-| `pamphlets/north_wind_and_sun.md` | Reviewed | Pilot complete. |
-| `pamphlets/metta_sutta.md` | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
-| `pamphlets/schleicher_fable.md` | Pending | Complete review not begun. |
-| `pamphlets/babel_text.md` | Pending | Complete review not begun. |
-| `pamphlets/human_rights_article_one.md` | Pending | Complete review not begun. |
-| `pamphlets/little_prince_excerpts.md` | Pending | Complete review not begun. |
-| `pamphlets/prophet_excerpts.md` | Pending | Complete review not begun. |
-| `pamphlets/tao_te_ching.md` | Pending | Complete review not begun. |
-| `pamphlets/heart_sutra.md` | Pending | Complete review not begun. |
-| `pamphlets/ring_verse_refusal.md` | Pending | Complete review not begun. |
-| `pamphlets/velveteen_rabbit.md` | Pending | The shine-compound dependency is repaired; the story is not otherwise reviewed. |
-| `pamphlets/news_from_nowhere_ch1.md` | Pending | Complete review not begun. |
-| `pamphlets/news_from_nowhere_ch2.md` | Pending | One illumination line is repaired with the shine compound; the chapter is not otherwise reviewed. |
-| `pamphlets/news_from_nowhere_ch3.md` | Pending | Complete review not begun. |
+| Active text | Method | Status | Note |
+|---|---|---|---|
+| `pamphlets/north_wind_and_sun.md` | Transmutation | Reviewed | Pilot complete. |
+| `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
+| `pamphlets/schleicher_fable.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/babel_text.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/human_rights_article_one.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/little_prince_excerpts.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/prophet_excerpts.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/tao_te_ching.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/heart_sutra.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/ring_verse_refusal.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/velveteen_rabbit.md` | Transmutation | Pending | The shine-compound dependency is repaired; the story is not otherwise reviewed. |
+| `pamphlets/news_from_nowhere_ch1.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/news_from_nowhere_ch2.md` | Transmutation | Pending | One illumination line is repaired with the shine compound; the chapter is not otherwise reviewed. |
+| `pamphlets/news_from_nowhere_ch3.md` | Transmutation | Pending | Complete review not begun. |
 
-The next text begins at its source, then earns every change line by line.
+The next text begins at its source and declared method. A translation earns every narrowing; a transmutation earns every change.
