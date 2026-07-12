@@ -2,13 +2,13 @@
 
 The meeting notice arrives after the meeting has begun. The doorway opens, but there is no room to turn beyond it. Someone offers help before asking what kind would help. None of these facts describes a defective person. They describe the route between a person and an activity, and that route can change.
 
-Accessibility and Participation gives Phi speakers optional words for that route: what can be reached or used, what gets in the way, how information arrives, how time is arranged, and whose direction governs support. It uses ordinary Phi grammar throughout.
+Accessibility and Participation gives Phi speakers optional words for that route: what can be reached or used, what gets in the way, how information arrives, how time is arranged, and whose direction governs support. It uses ordinary Phi grammar throughout, and a speaker who has not learned it can always ask for a core paraphrase.
 
 The complete machine-generated list is also available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
-## The words already in the room
+## Core vocabulary used by the module
 
-The module begins with ordinary words. A new access term does not replace the person, action, place, or choice that gives it sense.
+The module begins with the words already in the room: a new access term does not replace the person, action, place, or choice that gives it sense.
 
 | Area | Core Phi resources |
 |---|---|
@@ -35,7 +35,7 @@ The word leaves the choice of identity with the person. It can sit beside a more
 
 ## Module vocabulary
 
-| Phi | Part of speech | Speaker's sense | Closest distinction |
+| Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
 | `ruweli` | verb | access a place, resource, communication, service, or activity | `pawela` begins with taking part; `ruweli` may end at reaching or using. |
 | `lokane` | adjective | accessible for a stated person and activity | The claim is relational, so a route can work for one journey and fail another. |
@@ -96,7 +96,7 @@ PROX door barrier be.
 (This door is a barrier.)
 ```
 
-An accommodation is one response to that relation. `Hinawu` names the actual change, not a ceremonial offer of help.
+An accommodation is one response to that relation. `hinawu` names the actual change, not a ceremonial offer of help.
 
 ```
 lo mia ha phelona hinawu.
@@ -128,7 +128,7 @@ mia roe ha naphelu keli ralemi nai.
 
 ## Use, fit, and movement
 
-An object can be on the table and still resist the person expected to use it. `Kelasu` names use in practice.
+An object can be on the table and still resist the person expected to use it. `kelasu` names use in practice.
 
 ```
 ha keli kelasu nai.
@@ -136,7 +136,7 @@ PROX device usable be.
 (This device is usable.)
 ```
 
-`Thosami` belongs between things. Two devices, a document and reader, or an interface and input method may be compatible for one task. That pairing can fail after a version change or under another purpose.
+`thosami` belongs between things. Two devices, a document and reader, or an interface and input method may be compatible for one task. That pairing can fail after a version change or under another purpose.
 
 ```
 lo keli thosami nai.
@@ -144,7 +144,7 @@ PL device compatible be.
 (The devices are compatible.)
 ```
 
-`Loshenu` is the room a particular movement needs. The bare measurement matters, but so do the door's swing, the turn beyond it, and the object passing through.
+`loshenu` is the room a particular movement needs. The bare measurement matters, but so do the door's swing, the turn beyond it, and the object passing through.
 
 ```
 ha ponu loshenu phelu.
@@ -152,7 +152,7 @@ PROX door clearance hold.
 (This door has clearance.)
 ```
 
-`Runaki` follows cues through space. Markers may be visual, audible, tactile, or remembered; the verb remains with the traveler.
+`runaki` follows cues through space. Markers may be visual, audible, tactile, or remembered; the verb remains with the traveler.
 
 ```
 mia roe lo siru runaki.
@@ -162,7 +162,7 @@ mia roe lo siru runaki.
 
 ## Communication has a form
 
-`Phelotu` names the form in which content arrives. A format can be spoken, written, tactile, captioned, signed, recorded, or built from several modes. The name of a signed language, Braille system, file type, or technical protocol stays outside the Phi passage when its exact identity matters.
+`phelotu` names the form in which content arrives. A format can be spoken, written, tactile, captioned, signed, recorded, or built from several modes. The name of a signed language, Braille system, file type, or technical protocol stays outside the Phi passage when its exact identity matters.
 
 ```
 mia ha palethu phelotu kanu.
@@ -170,7 +170,7 @@ mia ha palethu phelotu kanu.
 (I choose this tactile format.)
 ```
 
-`Thekasi` and `sitheku` both move language into readable form. Captions keep time with the event and carry meaningful sound beyond dialogue. A transcription can be made during the event or afterward and may stand as its own document.
+`thekasi` and `sitheku` both move language into readable form. Captions keep time with the event and carry meaningful sound beyond dialogue. A transcription can be made during the event or afterward and may stand as its own document.
 
 ```
 lo mia ha haolu thekasi.
@@ -184,7 +184,7 @@ shia ha haolu sitheku.
 (They transcribe this speech.)
 ```
 
-`Shoraku` carries meaning between languages or modes. The interpreter's choices remain open to correction, and interpreting does not turn into representing someone merely because their words pass through another person.
+`shoraku` carries meaning between languages or modes. The interpreter's choices remain open to correction, and interpreting does not turn into representing someone merely because their words pass through another person.
 
 ```
 shia ha phelui shoraku.
@@ -194,7 +194,7 @@ shia ha phelui shoraku.
 
 ## What can be perceived
 
-`Palethu`, `thewuni`, and `hewasu` do not name kinds of people. They name what a format or signal makes available through touch, reading, or hearing under stated conditions.
+`palethu`, `thewuni`, and `hewasu` do not name kinds of people. They name what a format or signal makes available through touch, reading, or hearing under stated conditions.
 
 ```
 ha thekiro thewuni nai.
@@ -220,7 +220,7 @@ Equivalence therefore carries its comparison with it. Meaning, function, effect,
 
 ## Time can open or close participation
 
-`Thimelo` is the pace inside an event. Slower is not always better, but treating one speed as natural can turn reading, interpretation, movement, or thought into a race nobody agreed to enter.
+`thimelo` is the pace inside an event. Slower is not always better, but treating one speed as natural can turn reading, interpretation, movement, or thought into a race nobody agreed to enter.
 
 ```
 ha thimelo sheru nai.
@@ -228,7 +228,7 @@ PROX pace slow be.
 (This pace is slow.)
 ```
 
-`Hasenu` cuts out a bounded interval and leaves the larger event intact. A recess may make room for rest, private discussion, interpretation repair, or a change of format.
+`hasenu` cuts out a bounded interval and leaves the larger event intact. A recess may make room for rest, private discussion, interpretation repair, or a change of format.
 
 ```
 lona hasenu phelu.
@@ -236,7 +236,7 @@ meeting recess hold.
 (The meeting has a recess.)
 ```
 
-`Wiresu` moves the event itself. It can protect participation or become another form of exclusion, depending on who bears the changed time and whether a new plan exists.
+`wiresu` moves the event itself. It can protect participation or become another form of exclusion, depending on who bears the changed time and whether a new plan exists.
 
 ```
 lo mia ha lona wiresu.
@@ -244,7 +244,7 @@ PL 1SG PROX meeting postpone.
 (We postpone this meeting.)
 ```
 
-`Thunesi` lets contributions arrive at different times. `Sanowu` gives participants something stable enough to prepare around. Together they describe a process that need not demand simultaneous presence or surprise.
+`thunesi` lets contributions arrive at different times. `sanowu` gives participants something stable enough to prepare around. Together they describe a process that need not demand simultaneous presence or surprise.
 
 ```
 ha shorema thunesi nai.
@@ -258,7 +258,7 @@ PROX schedule predictable be.
 (This schedule is predictable.)
 ```
 
-`Pushali` names the point where input or demand outruns current capacity. The same person may meet that point sooner in pain, noise, fatigue, or unfamiliar surroundings. The word belongs to the relation between demand and capacity, not to a moral account of endurance.
+`pushali` names the point where input or demand outruns current capacity. The same person may meet that point sooner in pain, noise, fatigue, or unfamiliar surroundings. The word belongs to the relation between demand and capacity, not to a moral account of endurance.
 
 ```
 lo phelui mia pushali.
@@ -268,7 +268,7 @@ PL word 1SG overload.
 
 ## Participation and power
 
-`Misharo` gives an affected person's answer a place before action. It is stronger than asking for appearances and weaker than handing over the decision.
+`misharo` gives an affected person's answer a place before action. It is stronger than asking for appearances and weaker than handing over the decision.
 
 ```
 lo mia thia misharo.
@@ -276,7 +276,7 @@ PL 1SG 2SG consult.
 (We consult you.)
 ```
 
-`Pharomu` names exclusion whether it comes from a locked door, a missing format, a rule, or a decision taken before a contribution arrives. `Wheparu` adds the category-shaped relation of discrimination.
+`pharomu` names exclusion whether it comes from a locked door, a missing format, a rule, or a decision taken before a contribution arrives. `wheparu` adds the category-shaped relation of discrimination.
 
 ```
 shia mia pharomu.
@@ -292,7 +292,7 @@ shia mia wheparu.
 
 Exact legal definitions remain with their jurisdiction and source text. Phi can still name the act, who bore it, the category used, and what access or participation changed.
 
-`Sirelu` matters because asking for access often exposes personal information. A request for a different chair or format does not silently authorize disclosure of disability, health, or identity information.
+`sirelu` matters because asking for access often exposes personal information. A request for a different chair or format does not silently authorize disclosure of disability, health, or identity information.
 
 ```
 mia ha sirami sirelu.
@@ -300,7 +300,7 @@ mia ha sirami sirelu.
 (I disclose this record.)
 ```
 
-`Shaweri` can be first person. It can also describe another person adding support to an expressed position. The word keeps advocacy apart from `shalori` representation, which claims a mandate to act or communicate on someone's behalf.
+`shaweri` can be first person. It can also describe another person adding support to an expressed position. The word keeps advocacy apart from `shalori` representation, which claims a mandate to act or communicate on someone's behalf.
 
 ```
 mia wei thia shaweri.
@@ -328,6 +328,6 @@ Some access ideas read better with their parts showing.
 
 Names of signed languages, Braille systems, devices, standards, software, file formats, legal duties, access plans, identity terms, and exact measurements remain outside the Phi passage when their source form matters. Phi can point to the source item and say that a format is tactile, a route has clearance, a device is compatible, or an accommodation was requested.
 
-The broad word `sowelu` does not replace a person's chosen identity term. `Hinawu` does not reproduce the legal test carried by a source phrase such as *reasonable accommodation*. `Thekasi` does not claim conformance with a captioning standard. The Phi words describe practical relations; the source material keeps its own authority and precision.
+The broad word `sowelu` does not replace a person's chosen identity term. `hinawu` does not reproduce the legal test carried by a source phrase such as *reasonable accommodation*. `thekasi` does not claim conformance with a captioning standard. The Phi words describe practical relations; the source material keeps its own authority and precision.
 
 The document arrives the day before, and the doorway has room for the device to turn. Nobody is carried without being asked. Only then does `pawela` stop being a promise and become what someone can do.
