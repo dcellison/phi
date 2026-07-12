@@ -12,7 +12,7 @@
   ],
   "concept": "Authorize / Grant Bounded Permission or Decision Power",
   "description": "To grant a bounded permission or power to a recipient for a stated action. Authorization is the grant itself; it proves neither that the recipient is competent nor that the people affected by the action agreed to it.",
-  "sound_symbolism": "The complete verb 'kanu' (choose) establishes a deliberate grant, while final 'wa' opens the selected capacity outward toward a recipient. The open close makes authorization relational rather than an inherent property and leaves its limits exposed.",
+  "sound_symbolism": "'Ka.nu' preserves the complete sound of 'kanu' (choose): a clean stop followed by the stressed depth of a dental nasal. Final 'wa' rounds at the lips and opens wide toward someone beyond the word. The chosen act is heard first; then the grant leaves the speaker's mouth and enters shared space.",
   "grammatical_notes": "A transitive verb with the authorizing source as subject, recipient in a dative phrase, and action or role as object: 'ha punoki wei ha wemari ha terura nilaki kanuwa.' (The institution authorizes the member to inspect the system.) The event-noun rule supplies authorization. Distinct from permission inferred through 'po', 'loatho' (delegate), competence, consent, and legitimate authority.",
   "pillars": {
     "solarpunk-values": "Explicit authorization allows communities to distribute action while recording limits, revocation, and the source of decision power.",
