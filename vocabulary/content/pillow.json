@@ -1,0 +1,28 @@
+{
+  "word": "komalu",
+  "gloss": "pillow",
+  "ipa": "/ko̞.ˈmä.lu/",
+  "syllables": [
+    "ko",
+    "ma",
+    "lu"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Pillow / Soft Support for the Head or Body",
+  "description": "A soft or yielding support placed under the head or another part of the body during sleep and rest. 'nuwera' (bed) is the prepared sleeping place; 'komalu' supports the smaller point where the resting body needs it.",
+  "sound_symbolism": "The pillow's familiar place sounds first in 'koma' (head). Liquid 'lu' yields under that weight instead of ending in a hard surface.",
+  "grammatical_notes": "A countable noun: 'mia nia ha komalu koma thinu.' (I put my head on this pillow.) Its fill and firmness belong in ordinary modifiers. A cushion used for sitting remains 'meipa' (seat) when the cushion itself is the seat.",
+  "pillars": {
+    "secular-buddhist-philosophy": "A pillow supports sleep without doing the sleeping; comfort can prepare rest but cannot command it.",
+    "pre-industrial-wisdom": "Straw or wool made a small support from material the household could clean and renew. Feathers, folded cloth, and chaff answered the same need elsewhere."
+  },
+  "tags": {
+    "physical": "a yielding support for the head or body",
+    "spatial": "a small support placed within a resting place"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

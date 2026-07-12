@@ -1,0 +1,29 @@
+{
+  "word": "kirato",
+  "gloss": "lock",
+  "ipa": "/ki.ˈrä.t̪o̞/",
+  "syllables": [
+    "ki",
+    "ra",
+    "to"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Lock / Mechanism Holding a Closure Secure",
+  "description": "A mechanism that holds a door, lid, gate, or other closure until the matching means of release is used. Release may come from a key, latch, code, or another stated design. 'tapu' (close) is the action of shutting something; 'kirato' is the device that keeps the closure in place.",
+  "sound_symbolism": "'Kira' (key) echoes first with its precise fit and turn. Dental 'to' ends in firm contact, the mechanism held shut.",
+  "grammatical_notes": "A countable noun: 'mia roe kira ha kirato phae.' (I open this lock with a key.) The thing secured and the person controlling access remain separate relations. A source term may identify an exact lock design.",
+  "pillars": {
+    "peace-linguistics-practices": "A chosen lock protects a boundary; another clause still says who holds the key and whose entry is affected.",
+    "pre-industrial-wisdom": "Wooden latches and fitted metal locks made privacy a matter of household craft long before standardized hardware."
+  },
+  "tags": {
+    "creation": "a fitted mechanism for holding a closure",
+    "physical": "a device released by a matching key or method",
+    "spatial": "control at a door, lid, or gate"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

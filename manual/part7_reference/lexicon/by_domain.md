@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (147)
+## activity (163)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -35,6 +35,7 @@
 | `kithawu` | triage | assessing and ordering care under constraints |
 | `kiwate` | bite | Eating's first act |
 | `koewi` | input | something entering and participating in a process |
+| `kolupe` | bucket | carrying liquid or loose material by hand |
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `kupe` | hide | Placing out of sight |
 | `kuremi` | grind | The kitchen's oldest transformation |
@@ -42,6 +43,7 @@
 | `lokane` | accessible | practical availability for a stated use |
 | `loshenu` | clearance | free room for a stated movement or operation |
 | `lumethi` | deadline | a time boundary attached to an expected action or result |
+| `lupaki` | fold | laying one part of flexible material over another |
 | `lupho` | float | The swimmer's stillness |
 | `luseri` | provenance | the traced movement and transformation of a thing |
 | `makelu` | abstain | formally registering no selection in a procedure |
@@ -53,7 +55,9 @@
 | `misharo` | consult | seeking a view before a pending action |
 | `morume` | decompose | biological or chemical breakdown of material |
 | `muholi` | dig | Earth-work |
+| `mukesi` | spoil | loss of suitability for an intended practical use |
 | `muphera` | stock | items held for future practical use |
+| `napako` | bake | cooking food through surrounding dry heat |
 | `naphelu` | assistive | supporting a chosen function or action |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
 | `natu` | pull | Inbound force to the body |
@@ -63,8 +67,10 @@
 | `noporu` | design | specifying an intended artifact, system, or intervention |
 | `noraku` | blocked | a work state unable to proceed under current conditions |
 | `norathu` | procedure | an ordered and specified collective process |
+| `norupe` | spoon | a utensil used to scoop, eat, measure, or stir |
 | `nukesa` | expert | deeply practiced capacity within a stated domain |
 | `nuola` | eat | fundamental human activity of eating |
+| `nurome` | meal | an occasion of eating |
 | `palowe` | shoe | The walker's equipment |
 | `panuri` | resource | something considered available for a stated purpose or process |
 | `peki` | squeeze | Compression in the hand |
@@ -74,10 +80,14 @@
 | `phaluwe` | flood | water covering or overflowing beyond a stated usual boundary |
 | `phanuli` | allocate | assigning a resource, opportunity, or burden under a criterion |
 | `pharelo` | cook | fundamental human activity of cooking |
+| `phareme` | ingredient | food selected for use in a preparation |
 | `pharomu` | exclude | preventing or omitting participation in a stated action |
 | `phelure` | store | retention arranged for later retrieval or release |
+| `phemiru` | visit | spending a bounded time with a person or at a place |
 | `pherami` | depend | a function or process conditioned by another element |
 | `phoa` | do | fundamental human activity of doing |
+| `phurewa` | sweep | moving loose material with repeated brush strokes |
+| `phurilo` | broom | an instrument used in sweeping |
 | `pilewa` | make | fundamental human activity of making |
 | `pilora` | exploit | extracting benefit through a structured power relation |
 | `pina` | sew | fundamental human activity of sewing |
@@ -103,8 +113,10 @@
 | `runaki` | wayfind | maintaining orientation while moving |
 | `ruweli` | access | reaching or using a stated activity or resource |
 | `sawa` | wash | Water-cleansing as daily craft |
+| `sawathi` | soap | a material used during washing |
 | `sekaru` | transfer | directed movement from a source to a recipient |
 | `selomi` | weave | fundamental human activity of weaving |
+| `seluto` | pour | directing material out of a container |
 | `seluwhe` | outage | cessation or inadequate provision of a technical function |
 | `sepho` | send | Dispatch and correspondence |
 | `sephori` | supply | making a resource available for practical use |
@@ -130,6 +142,7 @@
 | `thalo` | walk | fundamental form of human locomotion |
 | `thape` | burn | The keeping of flame |
 | `thekamu` | intervene | a deliberate action within bodily care |
+| `therapi` | boil | heating liquid to sustained bubbling |
 | `therilu` | rest | fundamental human activity of resting |
 | `thesani` | skill | a learned capacity for practical action |
 | `thimelo` | pace | rate and rhythm of a continuing action |
@@ -146,10 +159,13 @@
 | `tupi` | jump | The body's spring |
 | `turelo` | feedback | a returned effect that alters an ongoing process |
 | `wapho` | throw | Release into flight |
+| `welotu` | mix | combining materials by moving them together |
 | `wepanu` | redundant | continued function through an alternate component, path, or method |
 | `wephari` | coordinate | arranging dependent work relations |
 | `wepu` | go | basic human action of departure and locomotion |
 | `wepuri` | progress | movement toward a stated practical criterion |
+| `wethaki` | towel | cloth used in wiping or drying |
+| `wethate` | laundry | cloth moving through washing, drying, or folding |
 | `whano` | stand | fundamental human activity of standing |
 | `wheparu` | discriminate | category-shaped treatment producing disadvantage |
 | `whepelo` | retaliate | imposing a disadvantage in response to a stated prior action |
@@ -247,7 +263,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (241)
+## cognition (243)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -312,6 +328,7 @@
 | `mirae` | eye | the bridge between world and awareness |
 | `miratu` | recognize | Connecting perception to memory |
 | `mirela` | state | a selected description used to analyze change |
+| `mirewu` | private | chosen limits on access to attention or information |
 | `mokanu` | disease | a health classification under stated criteria and source |
 | `monae` | integral | Essential connection |
 | `morae` | sense | Fundamental perceptual capacity |
@@ -440,6 +457,7 @@
 | `theali` | fitting | assessment of alignment with reality |
 | `thekao` | acknowledge | requires mindful attention to truly see another |
 | `thekiro` | write | Externalizing thought |
+| `thekopa` | recipe | remembered or recorded knowledge for preparing food |
 | `thelima` | describe | observes mindfully to articulate without projection |
 | `theloa` | truth | discerning and aligning with reality |
 | `themio` | reflect | mental process of examining thoughts and patterns |
@@ -493,7 +511,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (276)
+## community (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -568,6 +586,7 @@
 | `mera` | net | Catching together |
 | `meropi` | cherish | Nurturing what we love |
 | `miona` | person | persons are the fundamental units of social structures |
+| `mirewu` | private | a personal or shared boundary respected by others |
 | `misharo` | consult | considering an affected person's knowledge or experience |
 | `misheko` | cat | The household's quiet companion |
 | `misuki` | mouse | The neighbor underfoot |
@@ -578,6 +597,7 @@
 | `moloi` | apprentice | Learning role |
 | `monae` | integral | Whole-making |
 | `moreke` | mammal | Close animal kin |
+| `muneki` | latrine | a sanitation place used within shared or solitary daily life |
 | `muraki` | harvest | Shared labor and celebration |
 | `muriwe` | worm | The garden's smallest laborer |
 | `napa` | bread | The staple food of the shared table |
@@ -611,6 +631,7 @@
 | `nunoa` | forager | Gathering role |
 | `nupira` | shame | What honest repair must pass through |
 | `nuroa` | kitchen | Nourishment place |
+| `nurome` | meal | food gathered for solitary or shared eating |
 | `nuwera` | bed | The rest a household provides its members |
 | `palu` | plate | Hospitality |
 | `panoru` | support | Providing foundation for others |
@@ -634,6 +655,7 @@
 | `phelu` | hold | supporting others through holding space or providing stability |
 | `phemi` | guest | transforms strangers into temporary family through hospitality bonds |
 | `phemila` | host | creates temporary family through networks of reciprocal care |
+| `phemiru` | visit | company held through the guest relation |
 | `phenori` | ownership | a socially defined set of powers and claims over something |
 | `phewani` | neighbor | fundamental to local social bonds and collective life |
 | `phewo` | sage | Wisdom role |
@@ -724,6 +746,7 @@
 | `thiru` | exit | Departing |
 | `thola` | bring | delivering to others, bringing people and things together |
 | `tholira` | forgive | Enabling healing after harm |
+| `tholupi` | room | an interior place used in shared or solitary daily life |
 | `thonai` | responsible | Accountable role |
 | `thonua` | scholar | Learning role |
 | `thorae` | facilitator | Process role |
@@ -753,6 +776,7 @@
 | `weru` | poet | Creative role |
 | `weshaku` | outbreak | a health pattern within a selected population and place |
 | `wesoma` | mutual | fundamental to social bonds and reciprocal relationships |
+| `wethate` | laundry | a recurring domestic workload within a household |
 | `whaline` | thank | Completing the gift cycle |
 | `whano` | stand | posture of greeting, equality, and standing together |
 | `whelani` | welcome | receiving others and creating belonging |
@@ -771,10 +795,11 @@
 | `woenu` | tame | Human-animal bond |
 | `wolu` | healthy | Well-functioning |
 | `womu` | home | the shelter of family and intimacy |
+| `womuri` | household | a person or group sharing domestic arrangements |
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (152)
+## creation (168)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -799,6 +824,7 @@
 | `kima` | scribe | Written preservation |
 | `kiphira` | fault | a condition relevant to diagnosis, repair, and maintained function |
 | `kira` | key | Opening tool |
+| `kirato` | lock | a fitted mechanism for holding a closure |
 | `kire` | shape | Giving form to material |
 | `kirero` | quality | the assessed character of a made or repaired result |
 | `kiroa` | sign | Communication object |
@@ -811,12 +837,15 @@
 | `lina` | string (instrument) | Vibrating element |
 | `linua` | fiber | Textile source |
 | `liru` | fabric | Woven art |
+| `lirupa` | bag | a flexible container made from cloth, leather, or fiber |
 | `loesi` | oil | Smoothing substance |
 | `lopha` | vessel | Liquid container |
+| `lophani` | bottle | a vessel made with a narrowed neck |
 | `lorima` | build | Constructing structures |
 | `loshenu` | clearance | a designed spatial allowance around an object |
 | `luma` | lamp | Light source |
 | `lumoi` | lantern | Portable light |
+| `lupaki` | fold | forming layers and a deliberate crease |
 | `lureko` | fruit | Natural abundance |
 | `luseri` | provenance | the source history of materials and artifacts |
 | `manuwe` | hand | the instrument of craft and giving |
@@ -828,6 +857,7 @@
 | `molawi` | cooperate | achieves shared goals through coordinated effort |
 | `moloi` | apprentice | Craft training |
 | `molu` | container | Receptacle |
+| `molupa` | box | a rigid container assembled from flat sides |
 | `monaki` | component | a functionally identified part of a designed or analyzed whole |
 | `moru` | wall | Boundary structure |
 | `motha` | foundation | Base structure |
@@ -835,6 +865,7 @@
 | `muphera` | stock | materials and components available to making and repair |
 | `muralo` | material | matter considered for making, repair, transformation, or reuse |
 | `muroa` | fertile | Generative potential |
+| `napako` | bake | turning dough or other food into a baked result |
 | `naphelu` | assistive | a device or practice shaped for an access purpose |
 | `nepha` | medicine | Healing substance |
 | `newu` | new | fresh emergence into being |
@@ -843,6 +874,7 @@
 | `noporu` | design | guiding making through an intentional specification |
 | `norelu` | form | Bringing structure into existence |
 | `noru` | bowl | Vessel |
+| `norupe` | spoon | a handled tool ending in a shallow bowl |
 | `nowiso` | interface | a designed means through which systems or components interact |
 | `nurako` | railway | The iron road, before the turning |
 | `palu` | plate | Serving dish |
@@ -852,7 +884,9 @@
 | `phanu` | canvas | Art surface |
 | `phao` | parent | literally creates and nurtures new life |
 | `pharelo` | cook | Transforming food through heat |
+| `phareme` | ingredient | one material from which a dish or drink is made |
 | `phari` | pen | Writing tool |
+| `phelasi` | shelf | a made surface supported above the floor |
 | `pheloma` | serve | active contribution and building of systems |
 | `phelotu` | format | the shaped presentation of content |
 | `phemila` | host | actively builds welcoming environments and gathering conditions |
@@ -867,6 +901,7 @@
 | `phowe` | share | creates abundance through circulation |
 | `phui` | flute | Wind instrument |
 | `phuri` | brush | Painting tool |
+| `phurilo` | broom | a long-handled brush made for floors or ground |
 | `pilewa` | make | bringing new forms into existence |
 | `pina` | sew | Joining through needle and thread |
 | `piru` | trader | Goods movement |
@@ -882,6 +917,7 @@
 | `riola` | labor | producing and contributing through labor |
 | `roela` | scroll | Document form |
 | `rolu` | wheel | Rotating tool |
+| `sawathi` | soap | a prepared cleansing substance |
 | `selomi` | weave | Interlacing into coherent whole |
 | `sephori` | supply | supporting making and repair through resource flow |
 | `shela` | art | Aesthetic making |
@@ -895,6 +931,8 @@
 | `sorila` | cultivate | Developing through intentional effort |
 | `suro` | rope | Strong cord |
 | `talome` | restore | Returning to original wholeness |
+| `tapulo` | jar | a rigid storage vessel with a broad mouth |
+| `tapuri` | lid | a fitted removable cover |
 | `teli` | bell | Ringing instrument |
 | `temu` | guild | Skill organization |
 | `tenoa` | tool | Implement |
@@ -904,6 +942,7 @@
 | `thekasi` | caption | timed readable text made for a sounding event |
 | `thekiro` | write | Bringing lasting form into being |
 | `theko` | craft | Skilled making |
+| `thekopa` | recipe | instructions relating ingredients to a prepared result |
 | `thelai` | balm | Soothing salve |
 | `thesani` | skill | capacity used in making, repair, and transformation |
 | `thole` | practice | Skill building |
@@ -919,6 +958,7 @@
 | `toru` | roof | Shelter structure |
 | `tukelu` | recycle | transforming prior material for further making or use |
 | `weloa` | loom | Weaving device |
+| `welotu` | mix | distributing ingredients through a preparation |
 | `weni` | imagine | Source of artistic and visionary thinking |
 | `wenola` | collaborate | produces together what none could conceive alone |
 | `wenu` | tonic | Strengthening drink |
@@ -926,6 +966,7 @@
 | `wepanu` | redundant | a design quality based on independent alternative means |
 | `wetha` | cloth | Textile |
 | `wethalu` | garment | Cloth shaped by craft into wearable form |
+| `wethamo` | blanket | a large made cloth covering |
 | `whori` | mend | Restoring broken things to wholeness |
 | `wile` | play | Exploring without stakes |
 | `wiru` | basket | Woven craft |
@@ -1402,7 +1443,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (305)
+## physical (331)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1442,6 +1483,7 @@
 | `kethua` | hard | the quality of solid resistance |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
 | `kipona` | pain | The body's sharp signal |
+| `kirato` | lock | a device released by a matching key or method |
 | `kirowi` | signal | a signal requires a detectable material or symbolic form |
 | `kishu` | thirsty | The dry throat's need |
 | `kiwate` | bite | Teeth closing on |
@@ -1450,7 +1492,9 @@
 | `kolu` | steady | Constant quality |
 | `kolua` | carry | sustained bodily effort of bearing weight while moving |
 | `koluma` | unite | Joining separate elements |
+| `kolupe` | bucket | an open rigid container with a handle |
 | `koma` | head | the anatomical body part |
+| `komalu` | pillow | a yielding support for the head or body |
 | `koremu` | bark | Protective plant structure |
 | `korua` | heart | the pumping organ of blood circulation |
 | `kulai` | tooth | Hard structures for processing food |
@@ -1469,14 +1513,17 @@
 | `lima` | alive | Animate state |
 | `limu` | young | Not yet mature |
 | `liona` | live | State of biological aliveness |
+| `lirupa` | bag | a soft-sided holder that changes shape around its contents |
 | `loa` | give | transferring objects between people |
 | `lomare` | embrace | Bodily expression of care |
 | `lomura` | liver | The inner anatomy's quiet worker |
+| `lophani` | bottle | a portable holder for liquid |
 | `loremi` | branch | Living structure that holds and sways |
 | `lori` | vital | Essential quality |
 | `lorika` | blood | The fluid circulating through the body |
 | `losha` | wide | Great breadth |
 | `lumera` | nourish | Sustaining life through giving |
+| `lupaki` | fold | repositioning material without separating it |
 | `lupho` | float | Rest without sinking |
 | `luphonu` | boat | The built hull |
 | `lurepa` | nutrient | a substance whose biological role depends on form, amount, and conditions |
@@ -1502,6 +1549,7 @@
 | `mokura` | belly | Central body region of digestion and feeling |
 | `moli` | gentle | Mild in force |
 | `molu` | container | Holding space |
+| `molupa` | box | a holder that retains its shape when empty |
 | `monaki` | component | a part that may be material, though the term also permits informational and procedural components |
 | `mophi` | wool | Warmth material |
 | `mophira` | sheep | The fleece that grows back |
@@ -1513,8 +1561,10 @@
 | `muhena` | dust | The dry fine remainder |
 | `muholi` | dig | Working downward |
 | `muila` | earth | the ground we stand upon |
+| `mukesi` | spoil | a perishable thing changing beyond intended use |
 | `mulu` | low | groundedness and stability |
 | `munari` | sediment | loose mineral, organic, or mixed particles |
+| `muneki` | latrine | a fixture or place receiving bodily waste |
 | `mupelo` | vomit | The stomach's refusal |
 | `muphera` | stock | a situated collection of tangible items |
 | `muphia` | mud | The soft give underfoot |
@@ -1522,6 +1572,7 @@
 | `mureo` | stable | Firmly established |
 | `murethi` | impairment | a stated bodily or sensory functional difference |
 | `napa` | bread | Baked grain food |
+| `napako` | bake | heat reaching food from an enclosing chamber |
 | `naphelu` | assistive | support for bodily or sensory access |
 | `nathoku` | contraindicated | a clinical relation between an intervention and bodily conditions |
 | `natu` | pull | Drawing closer |
@@ -1537,6 +1588,7 @@
 | `nomiki` | concentration | an amount of matter, organisms, or another agent per stated medium |
 | `nomira` | collect | Gathering tangible objects |
 | `nophae` | nose | Central facial feature and breath channel |
+| `norupe` | spoon | a small hollow carried at the end of a handle |
 | `nuelo` | dark | Low light |
 | `nuhewa` | weep | The body's release of grief |
 | `nulae` | sleep | fundamentally a bodily process of physical restoration and repair |
@@ -1544,6 +1596,7 @@
 | `numea` | nestle | The settling into warmth |
 | `nuola` | eat | the bodily act of taking nourishment |
 | `nuora` | food | what sustains bodily life |
+| `nurome` | meal | a bounded preparation of food |
 | `nuwera` | bed | The household place of sleep |
 | `nuwi` | clear | Without obstruction |
 | `palethu` | tactile | touch as the relevant sensory channel |
@@ -1566,7 +1619,9 @@
 | `phaeli` | tender | Soft quality |
 | `phaelo` | feel | bodily sensations and somatic awareness |
 | `phamori` | symptom | a health-relevant experience located in or through the body |
+| `phareme` | ingredient | an edible substance before or during preparation |
 | `pharoe` | chest | Upper torso containing heart and lungs |
+| `phelasi` | shelf | a level support for kept objects |
 | `phelo` | light | Low weight |
 | `phelona` | require | bodily requirements for sustenance |
 | `phelotu` | format | a sensory form such as audible, visual, or tactile presentation |
@@ -1574,6 +1629,7 @@
 | `pheluka` | lightning | Brightness with a crack in it |
 | `phelure` | store | storage of matter or energy in a bounded arrangement |
 | `pheno` | full | Containing maximum |
+| `pheomu` | leftovers | prepared food remaining after an eating occasion |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
 | `phimela` | kiss | The lips' brief gift |
@@ -1581,6 +1637,8 @@
 | `phitura` | well (water) | Water at the end of effort |
 | `phoa` | do | performing actions and activities |
 | `phulae` | mouth | the body opening for eating and speaking |
+| `phurewa` | sweep | surface cleaning through bristle contact |
+| `phurilo` | broom | bristles moving loose material across a surface |
 | `phuwai` | lung | Respiratory organs within the chest |
 | `pilewa` | make | transforming materials through action |
 | `piloe` | spot | One small patch of color |
@@ -1612,7 +1670,9 @@
 | `rotiku` | dance | Rhythmic body movement |
 | `ruemi` | lie down | The horizontal resting posture |
 | `sawa` | wash | Restoration to cleanness |
+| `sawathi` | soap | material that loosens oil and dirt in water |
 | `sekaru` | transfer | movement of matter or energy between components or systems |
+| `seluto` | pour | a controlled flow across the lip of a vessel |
 | `seroli` | mature | Ripened state |
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
 | `shalu` | fish | Water-dwelling creatures |
@@ -1640,6 +1700,8 @@
 | `takori` | load | a demand placed on material support, transmission, or processing |
 | `talua` | shoulder | Upper torso joint bearing arms and loads |
 | `tapu` | close | Bringing to a shut, sealed state |
+| `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
+| `tapuri` | lid | a separate object meeting the rim of a container |
 | `tesu` | iron | Enduring strength |
 | `thalo` | walk | requires coordinated use of legs, feet, and balance |
 | `thape` | burn | Heat and light released |
@@ -1651,6 +1713,7 @@
 | `thena` | thing | objects and matters in general |
 | `thepalu` | garden | tangible spaces involving soil, plants, and physical cultivation |
 | `thephaku` | inflammation | a local or systemic bodily response pattern |
+| `therapi` | boil | a liquid state with continuous rising bubbles |
 | `therilu` | rest | the bodily state of stillness and recovery |
 | `theru` | thick | Great depth |
 | `thewuni` | legible | reading conditions involving sight or touch |
@@ -1685,11 +1748,15 @@
 | `welira` | thrive | Healthy, successful development |
 | `welisha` | color | The washed surface of seeing |
 | `weloni` | body | The whole living frame |
+| `welotu` | mix | parts moving through one another in a vessel or space |
 | `welua` | fragile | Easily broken |
 | `wenu` | tonic | Vitality |
 | `wesha` | lazy | Avoiding effort |
 | `wetha` | cloth | Covering |
+| `wethaki` | towel | an absorbent textile receiving moisture |
 | `wethalu` | garment | Worn covering for the body |
+| `wethamo` | blanket | a covering used to retain bodily warmth |
+| `wethate` | laundry | garments and household cloth gathered as one load |
 | `whalo` | large | spatial extent and size |
 | `whano` | stand | fundamental upright bodily posture requiring balance and strength |
 | `whekaro` | adverse effect | a harmful or burdensome bodily effect |
@@ -1756,7 +1823,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (143)
+## spatial (151)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1771,8 +1838,10 @@
 | `keritha` | workshop | Making space |
 | `kerone` | peninsula | Connected reaching land |
 | `kesho` | middle | Center point |
+| `kirato` | lock | control at a door, lid, or gate |
 | `koema` | enter | Inward movement |
 | `kolua` | carry | transport through space while maintaining possession |
+| `komalu` | pillow | a small support placed within a resting place |
 | `kopharu` | barrier | a physical obstruction in a route or place |
 | `kosha` | field | Open land |
 | `kupe` | hide | The enclosed and covered place |
@@ -1802,12 +1871,14 @@
 | `meilo` | sit | establishes presence in a specific location, transforming space into place |
 | `menui` | dwell | relationship between being and place |
 | `menuro` | habitat | a bounded or distributed area understood relative to an organism |
+| `mirewu` | private | a place reserved from uninvited entry or observation |
 | `moeli` | hearth | Home center |
 | `mola` | island | Isolated land mass |
 | `molira` | hill | Accessible rise |
 | `moriwhe` | sea | Bounded oceanic expanse |
 | `moru` | wall | Vertical barrier |
 | `mulu` | low | vertical extent near ground |
+| `muneki` | latrine | a bounded sanitation area in or near a dwelling |
 | `mureo` | stable | Resistant to change |
 | `muwi` | interior | Inner space |
 | `natu` | pull | Motion gathered homeward |
@@ -1831,6 +1902,7 @@
 | `phaewi` | studio | Creative space |
 | `phaluwe` | flood | water extending into a place outside its stated usual extent |
 | `pharomu` | exclude | denying entry to a place or route |
+| `phelasi` | shelf | storage arranged along a raised edge |
 | `phemi` | guest | crosses thresholds entering new domains as honored visitor |
 | `phemila` | host | creates and holds open sanctuary spaces for others |
 | `phewani` | neighbor | defined by proximity and shared physical space |
@@ -1849,6 +1921,7 @@
 | `saphei` | shallow | Depth you can stand in |
 | `sekaru` | transfer | a source-to-goal relation across a boundary |
 | `selu` | flow | traces movement through space along natural trajectories |
+| `seluto` | pour | movement from a source container toward a destination |
 | `senao` | same | the relationship of equivalence |
 | `sepho` | send | Caused travel toward a recipient |
 | `sharoi` | exceed | Frames relative position in numerical space—one quantity extends beyond another |
@@ -1880,6 +1953,7 @@
 | `thiru` | exit | Outward movement |
 | `thola` | bring | directed movement toward specific destination |
 | `tholu` | space | Open area |
+| `tholupi` | room | a bounded space within a building |
 | `thunepa` | sacred place | Holy site |
 | `tomae` | floor | Ground surface |
 | `tomora` | mountain | Earth reaching skyward |
@@ -1902,9 +1976,10 @@
 | `wira` | window | Light opening |
 | `wiralu` | runoff | movement from a source surface toward a lower or receiving place |
 | `womu` | home | the place of dwelling and belonging |
+| `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (167)
+## temporal (171)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1969,6 +2044,7 @@
 | `mothami` | baseline | often a documented earlier period or state against which change is assessed |
 | `mu` | zero | cycles' beginning and end, pauses between |
 | `muero` | autumn | Harvest season |
+| `mukesi` | spoil | condition worsening during storage or delay |
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |
 | `nelore` | preserve | Maintaining across time |
 | `neparu` | cloud | Symbol of impermanence |
@@ -1991,6 +2067,8 @@
 | `pharea` | adult | represents ripened maturity as a life stage |
 | `phelu` | hold | continuous action requiring patient presence over time |
 | `phelure` | store | holding something across time for later use |
+| `phemiru` | visit | a stay with an understood end |
+| `pheomu` | leftovers | food carried beyond the meal that first served it |
 | `pheru` | endure | Lasting through |
 | `philo` | day | Light-dark cycle |
 | `phirali` | blossom | Emergence into beauty |
@@ -2039,6 +2117,7 @@
 | `thaeso` | midday | Day's peak |
 | `thalume` | ancestor | connects present to deep time through generations |
 | `thekasi` | caption | text synchronized with a live or recorded event |
+| `thekopa` | recipe | an ordered sequence of preparation steps |
 | `thelumo` | ritual | marks passages of time and transitions |
 | `thenoki` | sustain | Maintaining through time |
 | `therema` | tradition | bridging time and connecting past to present |

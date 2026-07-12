@@ -1,0 +1,29 @@
+{
+  "word": "mukesi",
+  "gloss": "spoil",
+  "ipa": "/mu.ˈke̞.si/",
+  "syllables": [
+    "mu",
+    "ke",
+    "si"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Spoil / Become Unfit for Intended Eating or Use",
+  "description": "For food or another perishable thing to change until it is no longer fit for the intended eating or use. Direct signs and source evidence may support that practical judgment. 'morume' (decompose) describes material breakdown; 'mukesi' says the household can no longer use the thing as intended.",
+  "sound_symbolism": "Heavy 'mu' starts with material that has sat and changed. Sharp 'ke' breaks the expected use. Fine 'si' leaves the warning easy to notice.",
+  "grammatical_notes": "An intransitive verb: 'ha nuora to mukesi.' (This food spoiled.) The event-noun rule supplies spoilage. Evidence and intended use may appear in nearby clauses, since a bad smell alone does not identify every cause or risk.",
+  "pillars": {
+    "solarpunk-values": "Spoilage can expose a broken path of harvest, storage, energy, or distribution without pretending every loss was avoidable.",
+    "pre-industrial-wisdom": "Hands, eyes, and noses learned the difference between useful fermentation, harmless age, and food that should not be eaten."
+  },
+  "tags": {
+    "activity": "loss of suitability for an intended practical use",
+    "physical": "a perishable thing changing beyond intended use",
+    "temporal": "condition worsening during storage or delay"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

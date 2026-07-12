@@ -100,4 +100,4 @@ The module words carry no professional credential or compliance result. `Thekasi
 
 Use the module wherever access becomes part of an ordinary activity: a workshop or home, a public route, a digital system, a care conversation, or a collective decision. Later use may expose missing words for orientation and fatigue, communication and sensory conditions, or institutional harm. Coin them when Phi needs them instead of forcing every new experience through this first set.
 
-Household and Daily Life remains the final active profile without a vocabulary pass. After it is established, assess genuine multi-module membership and then revisit the active corpus as one body of writing.
+All eight active profiles now have vocabulary passes. Assess genuine multi-module membership next, then revisit the active corpus as one body of writing.

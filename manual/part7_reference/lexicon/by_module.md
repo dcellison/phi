@@ -119,6 +119,43 @@
 | `wheraku` | erode | verb | Erode |
 | `wiralu` | runoff | noun | Runoff |
 
+## Household and Daily Life
+
+*30 module words.*
+
+| Word | Gloss | Part of speech | Concept |
+|---|---|---|---|
+| `kirato` | lock | noun | Lock |
+| `kolupe` | bucket | noun | Bucket |
+| `komalu` | pillow | noun | Pillow |
+| `lirupa` | bag | noun | Bag |
+| `lophani` | bottle | noun | Bottle |
+| `lupaki` | fold | verb | Fold |
+| `molupa` | box | noun | Box |
+| `mukesi` | spoil | verb | Spoil |
+| `muneki` | latrine | noun | Latrine |
+| `napako` | bake | verb | Bake |
+| `norupe` | spoon | noun | Spoon |
+| `nurome` | meal | noun | Meal |
+| `phareme` | ingredient | noun | Ingredient |
+| `phelasi` | shelf | noun | Shelf |
+| `phemiru` | visit | verb | Visit |
+| `pheomu` | leftovers | noun | Leftovers |
+| `phurewa` | sweep | verb | Sweep |
+| `phurilo` | broom | noun | Broom |
+| `sawathi` | soap | noun | Soap |
+| `seluto` | pour | verb | Pour |
+| `tapulo` | jar | noun | Jar |
+| `tapuri` | lid | noun | Lid |
+| `thekopa` | recipe | noun | Recipe |
+| `therapi` | boil | verb | Boil |
+| `tholupi` | room | noun | Room |
+| `welotu` | mix | verb | Mix |
+| `wethaki` | towel | noun | Towel |
+| `wethamo` | blanket | noun | Blanket |
+| `wethate` | laundry | noun | Laundry |
+| `womuri` | household | noun | Household |
+
 ## Medical and Bodily Care
 
 *30 module words.*

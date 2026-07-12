@@ -1,0 +1,29 @@
+{
+  "word": "norupe",
+  "gloss": "spoon",
+  "ipa": "/n̪o̞.ˈru.pe̞/",
+  "syllables": [
+    "no",
+    "ru",
+    "pe"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Spoon / Small Bowl-Ended Utensil",
+  "description": "A utensil with a shallow bowl at the end of a handle, used to scoop, eat, measure, or stir. Size and material range from a carved serving spoon to a small eating spoon. 'noru' (bowl) is the separate dish; 'norupe' carries a little bowl in the hand.",
+  "sound_symbolism": "The first two syllables reproduce 'noru' (bowl). Soft 'pe' draws a handle away from that small hollow without making the tool sound heavy.",
+  "grammatical_notes": "A countable noun: 'mia roe norupe sulopa nuola.' (I eat soup with a spoon.) Ordinary modifiers give its size, material, and use. The spoon acts as an instrument with 'roe'.",
+  "pillars": {
+    "art-nouveau-aesthetics": "The useful line of a spoon runs from the hand into one shallow curve, with little room for ornament that ignores the grip.",
+    "pre-industrial-wisdom": "A household spoon might be carved, worn smooth, repaired at the handle, and shared through more meals than anyone counted."
+  },
+  "tags": {
+    "activity": "a utensil used to scoop, eat, measure, or stir",
+    "creation": "a handled tool ending in a shallow bowl",
+    "physical": "a small hollow carried at the end of a handle"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

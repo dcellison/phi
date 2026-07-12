@@ -1,0 +1,28 @@
+{
+  "word": "womuri",
+  "gloss": "household",
+  "ipa": "/wo̞.ˈmu.ri/",
+  "syllables": [
+    "wo",
+    "mu",
+    "ri"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Household / Person or Group Sharing Domestic Life",
+  "description": "A person or group who shares the keeping of a dwelling and its daily arrangements over time. A person living alone can be a household. Relatives in different homes need not be one. 'womu' (home) is the place of dwelling and belonging, while 'womuri' identifies the domestic unit that keeps life there.",
+  "sound_symbolism": "The word opens with all of 'womu' (home). 'Ri' carries the dwelling into an ongoing relation among the people, work, and things gathered there. The household stays audibly tied to home without becoming its synonym.",
+  "grammatical_notes": "A countable noun: 'lo mia womuri nai.' (We are a household.) A preceding dwelling or member marks possession. Distinct from 'lumani' (family), which names a family relation, and 'sila' (community), whose life need not center on one dwelling.",
+  "pillars": {
+    "solarpunk-values": "A household shares heat, tools, food, and care at the scale where daily use is easiest to see and change.",
+    "peace-linguistics-practices": "The word lets speakers describe who shares domestic life while kinship, ownership, and harmony wait for their own claims."
+  },
+  "tags": {
+    "community": "a person or group sharing domestic arrangements",
+    "spatial": "daily life organized around a dwelling"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}

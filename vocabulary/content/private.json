@@ -1,0 +1,26 @@
+{
+  "word": "mirewu",
+  "gloss": "private",
+  "ipa": "/mi.ˈre̞.wu/",
+  "syllables": [
+    "mi",
+    "re",
+    "wu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Private / Under Chosen Limits of Access or Attention",
+  "description": "Kept from uninvited access or attention by a person or group choosing that boundary. The adjective applies to a place, conversation, record, or stretch of time even when nobody has hidden it. 'kupe' (hide) concerns concealment; 'mirewu' concerns who may enter, observe, or know.",
+  "sound_symbolism": "Personal 'mi' begins at the speaker's own center. 'Re' turns attention back at the boundary, while rounded 'wu' leaves quiet room inside it.",
+  "grammatical_notes": "A predicative or attributive adjective: 'ha lokue mirewu nai.' (This place is private.) The quality-noun rule supplies privacy. Unlike 'kupela' (secret) or 'sonu' (alone), it describes a limit on access rather than hidden information or the absence of company.",
+  "pillars": {
+    "secular-buddhist-philosophy": "Privacy leaves room for rest and reflection without treating solitude as disappearance.",
+    "peace-linguistics-practices": "With 'mirewu', a closed door or withheld record becomes a stated limit rather than a rebuke."
+  },
+  "tags": {
+    "cognition": "chosen limits on access to attention or information",
+    "community": "a personal or shared boundary respected by others",
+    "spatial": "a place reserved from uninvited entry or observation"
+  }
+}

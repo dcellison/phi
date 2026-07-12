@@ -1,0 +1,27 @@
+{
+  "word": "wethaki",
+  "gloss": "towel",
+  "ipa": "/we̞.ˈθä.ki/",
+  "syllables": [
+    "we",
+    "tha",
+    "ki"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Towel / Absorbent Cloth for Wiping or Drying",
+  "description": "An absorbent cloth used to wipe moisture from a body, surface, or object. A towel dries hands beside a basin or wraps washed food before storage. 'wetha' (cloth) names the material broadly; 'wethaki' is the piece kept ready to receive water.",
+  "sound_symbolism": "'Wetha' (cloth) stays whole. Crisp 'ki' picks up the small remaining drops and gives the cloth its particular household use.",
+  "grammatical_notes": "A countable noun: 'mia roe wethaki ha palu hewe.' (I wipe this plate with a towel.) Ordinary modifiers identify size, material, or owner. A towel stays itself whether wet or dry.",
+  "pillars": {
+    "pre-industrial-wisdom": "A towel was washed, wrung, dried, patched, and returned to its peg until the cloth itself could take no more repair."
+  },
+  "tags": {
+    "activity": "cloth used in wiping or drying",
+    "physical": "an absorbent textile receiving moisture"
+  },
+  "modules": [
+    "household-and-daily-life"
+  ]
+}
