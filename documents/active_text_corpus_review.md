@@ -28,9 +28,27 @@ Module vocabulary is adopted when its meaning earns the place. A transparent bas
 
 The shelf uses two methods. A translation remains answerable to the source at every proposition; composition solves lexical differences without granting permission to rewrite the claim. A transmutation may change the source through the language's concepts and commitments, but its freedom is not vagueness. The Phi line must agree with its exact gloss and back-translation; the citation and gap log must show what shifted. Reviewing a transmutation does not turn it into a translation. It clears accidental loss, misleading back-translations, stale vocabulary, and unexamined approximation while leaving defended choices in place.
 
-## Transmutation review: The North Wind and the Sun
+## Paired review: The North Wind and the Sun
 
-The ground truth is the 1919 *Aesop for Children* text stored at `pamphlets/sources/aesop_for_children.txt`. The reviewed Phi passage uses 97 unique forms, all from base vocabulary. At least 57 of those forms do not appear anywhere in the preceding primer chapters: 42 are content words and 15 are non-content forms. This is an attestation count, not a claim about how many a learner could infer.
+The ground truth is the 1919 *Aesop for Children* text stored at `pamphlets/sources/aesop_for_children.txt`. The close translation uses 106 unique forms; at least 62 do not appear in the preceding primer chapters: 46 content words and 16 non-content forms. The transmutation uses 97 unique forms, with at least 57 unattested in those chapters: 42 content words and 15 non-content forms. Both renderings use base vocabulary throughout. These are attestation counts, not claims about what a learner could infer.
+
+### Close translation
+
+| Area | Finding | Disposition |
+|---|---|---|
+| Source coverage | The benchmark role requires Aesop's events and moral to survive rather than merely inspire a Phi retelling. | Every source clause has an aligned Phi block, literal back-translation, and exact adjacent citation. The translation precedes the transmutation on the shared page. |
+| Quarrel and bluster | Phi has no roots for either term, while `themore` is a reasoned argument and does not fit. | Discussion plus failed agreement forms the quarrel. Heart-fire and loud shouting supply the heat and bluster without creating two narrow roots. |
+| Strip and wrap | The transmutation made the winner cause the Traveler's release, which shifted the source's direct removal. Plain `lomare` also lacked the Traveler's agency in wrapping the cloak. | `lue ... wethalu leiro` makes the contestant release the garment from the Traveler. The causative makes the Traveler cause the garment to embrace them closely. |
+| Gust and whipping cloth | Quivering was an intentional softening, not a close transfer of the first gust's force. | `teku kema howeli` is a short, strong wind. Passive `wapho` throws the garment's edges around the Traveler's body. |
+| Loose cloak and anatomy | `luwi` cannot mean loose, and broad `menoa` alone loses the brow's location. | The Traveler causes the garment to stay `ralu`, free, on their shoulders. The brow is the face above the eyes; cap is the transparent head-garment. |
+| Pulling off and throwing down | A single release loses the pull in "pulled off," while `ruemi` replaces the source's abrupt reflexive throw with an ordinary posture. | The garment is pulled from the body and then released. The Traveler throws themself toward the earth into tree-shadow for the stated purpose of escape. |
+| Persuasion | `phena haolu` says kind speech but does not say that one person seeks to move another. Phi could state coercion without its communicative counterpart. | New base verb `sharemi` gives Phi persuasion while leaving refusal available. `phena` supplies the kindness that belongs to Aesop's phrase rather than to every act of persuasion. |
+| Winning and failing | `thonuki` is technical failure and `thenoi` is quantitative falling short. Neither belongs in a fable's general contest result. | `porua korei`, fulfill purpose, states success against the wager's aim; its negation states failure. The translation repeats Aesop's verdict even where the plot complicates it. |
+| Learning role | The fable introduces grammar and vocabulary beyond the graded primer. A second rendering could either support comparison or double the burden without guidance. | The primer sends the learner through the close translation first, then to the transmutation and comparison. Glosses and back-translations are part of the reading method. |
+
+### Transmutation
+
+The companion rendering answers to its own method. Its departures are deliberate, its English follows the Phi rather than repairing it toward Aesop, and the paired comparison now gives each departure a close translation beside it.
 
 | Area | Finding | Disposition |
 |---|---|---|
@@ -48,9 +66,9 @@ The ground truth is the 1919 *Aesop for Children* text stored at `pamphlets/sour
 | Wager and governance vocabulary | `repora` is a proposal put before a collective process. This exchange needs no institution. | The Sun's spoken agreement uses the optative and `nawo`. The note also identifies the missing party: the Traveler. |
 | Active dependencies | The moral appears in two manual chapters, and the fable is the primer's annotated capstone. `keru loa` also reaches the compound registry and other literary texts. | The two manual citations follow the new moral. The capstone still presents the source line and back-translation as part of the reading method. |
 
-Solarpunk and preindustrial values meet in the material scene: a traveler walks through weather, relies on cloth, and finds a roadside tree. Art Nouveau is present in the organic line of wind, sun, fruit, and shadow rather than an added ornament. The secular Buddhist pillar appears in release and in the refusal to freeze anger into identity. Peace linguistics changes the moral most. The text names coercion while leaving strength and loudness neutral. The Traveler's departure answers the contest.
+The comparison follows all five pillars without demanding an artificial change from each. Solarpunk and preindustrial commitments find the source's material scene already close to them. Art Nouveau changes the pressure of the organic line more than its objects. Secular Buddhist attention moves from rank toward consequence. Peace linguistics produces the widest divergence: translation states Aesop's claim, while transmutation leaves strength and volume neutral and lets the Traveler's departure answer the contest.
 
-No module word is required. `kawhera` belongs to base vocabulary because coercion can occur in any domain, and every other revised form is equally general. The fable can remain a capstone without asking a new learner to open a specialist lexicon.
+No module word is required. Persuasion and coercion belong to ordinary social language, and the other compositions use equally general words. The paired page is still a capstone without asking a new learner to open a specialist lexicon.
 
 ## Translation review: The Metta Sutta
 
@@ -74,7 +92,7 @@ The English back-translation is deliberately literal. It lets a reader inspect t
 
 | Active text | Method | Status | Note |
 |---|---|---|---|
-| `pamphlets/north_wind_and_sun.md` | Transmutation | Reviewed | Full source, back-translation, and value pass complete. |
+| `pamphlets/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `pamphlets/schleicher_fable.md` | Transmutation | Pending | Complete review not begun. |
 | `pamphlets/babel_text.md` | Transmutation | Pending | Complete review not begun. |

@@ -82,7 +82,7 @@ phialu haoni.
 
 ## The texts shelf
 
-The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Aesop's contest ends differently in Phi: gentleness and kind speech bring fruit, while force and loudness do not. The first text protects a source claim; the second deliberately changes one.
+The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Aesop's contest now appears twice. Its close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. One work can show both obligations without confusing them.
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
@@ -96,7 +96,7 @@ OPT UNIV creature joy heart hold.
 (May every creature hold a joyful heart.)
 ```
 
-***nitho howeli nela sileta*** (The North Wind and the Sun) is a transmutation of Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its narrative uses past-tense scene chains, and the wager puts a causative inside a relative clause. The moral keeps no scoreboard: `moli nela phena haolu welao lureko thola`, gentleness and kind speech bring good fruit; `keloa haolu nela kawhera pholeni thola`, rough speech and coercion bring departure.
+***nitho howeli nela sileta*** (The North Wind and the Sun) pairs a close translation with a transmutation of Aesop's familiar linguistic benchmark. The translation uses past-tense scene chains and direct removal in a relative clause; `sharemi` (persuade), now in base vocabulary, lets Aesop's moral stay whole. The transmutation has no scoreboard: `moli nela phena haolu welao lureko thola`, gentleness and kind speech bring good fruit; `keloa haolu nela kawhera pholeni thola`, rough speech and coercion bring departure. A comparison after both renderings follows the change through Phi's five pillars.
 
 The rest of the shelf:
 

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1163 words.*
+*1164 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -760,6 +760,7 @@
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shanewi` | notify | /ʃä.ˈn̪e̞.wi/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
+| `sharemi` | persuade | /ʃä.ˈre̞.mi/ | verb |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
 | `sharoi` | exceed | /ʃä.ˈro̞.i/ | verb |
 | `shaweri` | advocate | /ʃä.ˈwe̞.ri/ | verb |

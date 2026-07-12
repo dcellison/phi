@@ -263,7 +263,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (243)
+## cognition (244)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -418,6 +418,7 @@
 | `seru` | commit | Binding decision |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `shao` | three-group | Names a small group that often falls within the adult subitizing range under suitable viewing conditions |
+| `sharemi` | persuade | movement toward a belief or judgment through communication |
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
@@ -972,7 +973,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (109)
+## dialogue (110)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1040,6 +1041,7 @@
 | `shalori` | represent | carrying another party's position under stated scope and authorization |
 | `shane` | tell | Directed recounting to a listener |
 | `shanewi` | notify | information offered without presuming receipt or understanding |
+| `sharemi` | persuade | influence through reasons or communicative appeal |
 | `shareo` | discuss | explores topics through detailed communicative exchange |
 | `shaweri` | advocate | speaking publicly for a position without implied representation authority |
 | `shelo` | signify | Meaningful indication |

@@ -903,7 +903,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (332)
+## verb (333)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -1109,6 +1109,7 @@
 | `shalori` | represent | Represent |
 | `shane` | tell | Tell |
 | `shanewi` | notify | Notify |
+| `sharemi` | persuade | Persuade |
 | `shareo` | discuss | Discuss |
 | `sharoi` | exceed | Exceeds |
 | `shaweri` | advocate | Advocate |
