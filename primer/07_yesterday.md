@@ -38,8 +38,8 @@
 
 *And today:*
 
-> **sorae rihe.**
-> **sorae keru loa.**
+> **sileta rihe.**
+> **sileta keru loa.**
 > **waero welao nai.**
 > **lopia mua thepalu thalo.**
 > **lohau mua thepalu thalo.**

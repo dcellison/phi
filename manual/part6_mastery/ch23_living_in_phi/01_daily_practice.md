@@ -12,7 +12,7 @@ day come. 1SG PROX be.
 (The day comes. I am here.)
 ```
 
-The bare present and the plain copula do the whole work of arrival. Change the sentence with the weather, the light, the mood: `sorae shua` (the sun comes), `pheralu shua` (the rain comes), `mia shorui nai` (I am weary). The point is not variety. The point is that the day's first grammar was deliberate.
+The bare present and the plain copula do the whole work of arrival. Change the sentence with the weather, the light, the mood: `sileta shua` (the sun comes), `pheralu shua` (the rain comes), `mia shorui nai` (I am weary). The point is not variety. The point is that the day's first grammar was deliberate.
 
 ## Naming while walking (5 minutes)
 
@@ -23,7 +23,7 @@ Walk anywhere and name what you pass, noun by noun, with the demonstratives: `ha
 At day's end, two sentences: one thing witnessed, one thing felt. The evidential `hi` and the verb `phaelo` keep them honest:
 
 ```
-mia sorae lumae hi nila. mia shea phaelo.
+mia sileta lumae hi nila. mia shea phaelo.
 1SG sun end DIR see. 1SG peace feel.
 (I saw the sunset with my own eyes. I feel peace.)
 ```

@@ -1334,7 +1334,7 @@ CONTR PL 3SG NONE time PST return.
 (But they never returned.)
 williams: "But they never returned,"
 
-pheo soli shemu sorae mo mulu to lepa.
+pheo soli shemu sileta mo mulu to lepa.
 POST SOME moment sun CMPR low PST fall.
 (Presently the sun sank lower.)
 williams: "and presently the sun sank lower"
@@ -1350,7 +1350,7 @@ child PST come. 3SG ALL home rabbit PST carry.
 williams: "and the Boy came and carried him home."
 ```
 
-**Notes:** the scene runs on the new small-motion verb: `tiripe` carries the twitching noses twice, the moths' wings once, and the sudden wrinkle of the stranger's nose, one verb for the body's fast involuntary weather. The moth itself is the coined butterfly's night sibling, `shero phiwapi`, exactly as its entry provides, its fluttering split into flying and wing-quiver since Phi gives each verb its own clause. The wild ones' shape-shifting lands on the story's own echo: `theru nela wuloe`, plump and soft, the same pair the opening gave the velveteen body, now something the strangers can turn on and off. Dizziness is a turning head, `koma to pa rato`; the pincushion is `tisu molu`, the needle-holder; "evidently" and "must have been" both live in `ke`, the inference evidential, which is what Williams's words mean: conclusions drawn from seams that do not show. The dreadful question is `ha thilou sukima to thola`, the asking brought fear, `thilou`'s event noun doing "question"; "he said again" counts itself, `nu wi shemu`, the second time; and the wild rabbits' sharp eyes stand in the gnomic present, a fact about wild rabbits rather than a past event. The refusal of the whole exchange to turn cruel in Phi's mouth is not softening: the taunts stay ("A rabbit without any hind legs!"), carried by `wao` and the laugh, but the language reports them as astonishment and mirth, which is faithful to what young wild things actually do. The passing of the strangers leaves the fern dancing gently, `phero to moli rotiku`, in the place they went through, the oblique relative keeping `thue` at its post; the sunset is `sorae mo mulu to lepa`, the sun fell lower; and the section's loneliest sentence is its shortest: `wuloe wetha tupiwa ru sonu to nai.`
+**Notes:** the scene runs on the new small-motion verb: `tiripe` carries the twitching noses twice, the moths' wings once, and the sudden wrinkle of the stranger's nose, one verb for the body's fast involuntary weather. The moth itself is the coined butterfly's night sibling, `shero phiwapi`, exactly as its entry provides, its fluttering split into flying and wing-quiver since Phi gives each verb its own clause. The wild ones' shape-shifting lands on the story's own echo: `theru nela wuloe`, plump and soft, the same pair the opening gave the velveteen body, now something the strangers can turn on and off. Dizziness is a turning head, `koma to pa rato`; the pincushion is `tisu molu`, the needle-holder; "evidently" and "must have been" both live in `ke`, the inference evidential, which is what Williams's words mean: conclusions drawn from seams that do not show. The dreadful question is `ha thilou sukima to thola`, the asking brought fear, `thilou`'s event noun doing "question"; "he said again" counts itself, `nu wi shemu`, the second time; and the wild rabbits' sharp eyes stand in the gnomic present, a fact about wild rabbits rather than a past event. The refusal of the whole exchange to turn cruel in Phi's mouth is not softening: the taunts stay ("A rabbit without any hind legs!"), carried by `wao` and the laugh, but the language reports them as astonishment and mirth, which is faithful to what young wild things actually do. The passing of the strangers leaves the fern dancing gently, `phero to moli rotiku`, in the place they went through, the oblique relative keeping `thue` at its post; the sunset is `sileta mo mulu to lepa`, the sun fell lower; and the section's loneliest sentence is its shortest: `wuloe wetha tupiwa ru sonu to nai.`
 
 ## serao kelu — Growing old
 
@@ -1562,7 +1562,7 @@ williams: "And one day, they let him get up and dress."
 ## moriwhe remo — The seaside plan
 
 ```
-keru sorae kelua to nai.
+keru sileta kelua to nai.
 bright sun morning PST be.
 (It was a bright, sun-filled morning.)
 williams: "It was a bright, sunny morning,"
@@ -1813,7 +1813,7 @@ LOC PL 3SG shadow rabbit COM child LOC PL past morning PST PFV play.
 (In their shadow he had played with the child on bygone mornings.)
 williams: "in whose shadow he had played with the Boy on bygone mornings."
 
-shia mua thepalu lo laeno sorae shemu to remo.
+shia mua thepalu lo laeno sileta shemu to remo.
 3SG LOC garden PL long sun moment PST think.
 (He thought of those long sun-lit hours in the garden.)
 williams: "He thought of those long sunlit hours in the garden-"

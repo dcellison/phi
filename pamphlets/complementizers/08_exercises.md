@@ -155,7 +155,7 @@ Transform each pair of sentences into a single sentence with embedding.
 
 For each sentence, identify which complementizer type is used and what it embeds.
 
-57. **mia mena sorae phelora nai meno nila**
+57. **mia mena sileta phelora nai meno nila**
     Type: _____ Embeds: _____
 
 58. **shia wela melu so turema welo phaelo**
@@ -189,7 +189,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ## Part A: Translation (English to Phi)
 
-1. **mia mena sorae phelora nai meno sano**
+1. **mia mena sileta phelora nai meno sano**
    1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE know
 
 2. **shia mena pheralu so shua meno nohero**
@@ -237,7 +237,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 16. **shia shola mia wepu sholo to haolu**
     3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
 
-17. **melu shola sorae phelora nai sholo to haolu**
+17. **melu shola sileta phelora nai sholo to haolu**
     friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE PST say
 
 18. **shia shola wa thia towe nai sholo to thilou**
@@ -362,7 +362,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 (Sample answers, many correct answers possible)
 
-61. **mia mena sorae ro shua meno sano**
+61. **mia mena sileta ro shua meno sano**
     I know that the sun regularly comes.
 
 62. **mia wela melu so shua welo phaelo**

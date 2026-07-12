@@ -6,7 +6,7 @@ The past tense particle *to* marks actions that have already occurred. Its crisp
 
 When we say *mia to theo* (I read [past]), we do more than report that reading occurred: we mark the action as finished, a discrete unit of experience. The particle *to* transforms the timeless concept *theo* into a bounded past event with clear temporal edges.
 
-> *mia sorae to nila*
+> *mia sileta to nila*
 > "I saw the sun."
 
 This creates a psychological shift. Present-tense actions feel fluid, connected to the moment of speaking. Past-tense actions feel settled and definitive. They become part of established personal history rather than current experience.

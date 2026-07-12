@@ -102,7 +102,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | IRR | he | irrealis | Paired with `lu` as `lu he`, an unreal or counterfactual conditional, for a condition that did not or cannot hold. |
 | LIFE.CLF | lipha | living-thing classifier | The optional classifier for non-human living beings, living parts, and forms treated as life in waiting. |
 | LOC | mua | in/at | In, at, inside, marking where an action happens. It is never a motion endpoint itself; going toward a destination uses `kau`. |
-| NAME | ne | proper-name token | Announces that the following Phi token is a proper designation. The token may be a content word or a productive two- or three-syllable Phi-form onym with no lexicon meaning. |
+| NAME | ne | proper-name token | Announces that the following Phi token is a proper designation. The token may be a content word or a productive Phi-form onym of two, three, or four syllables with no lexicon meaning. |
 | NEC | na | necessity | Marks that an action is necessary or obligatory: `mia na naphe` is I must help. |
 | NEG | ma | negation | Negation. It always comes last in a stack of Slot 1 particles, after tense, aspect, voice, evidentiality, and modality. |
 | OPT | su | optative | Announces a wish, hope, or prayer: `su sila towe nai` is may the community be well. |

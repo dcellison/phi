@@ -36,7 +36,7 @@ The inchoative particle *pa* catches the precise moment when something emerges i
 
 *mia pa theo* (I begin to read) puts the attention on the threshold: the moment an action comes into being, before any of its content has happened.
 
-> *sorae pa shua*
+> *sileta pa shua*
 > "The sun begins to arrive."
 
 This particle applies to both actions and states: it marks the transition point into new conditions. How something begins shapes how it unfolds.

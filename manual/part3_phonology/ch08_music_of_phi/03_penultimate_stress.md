@@ -40,7 +40,7 @@ For three-syllable words, stress the second syllable:
 - `lumani` → lu-**ma**-ni
 - `thomari` → tho-**ma**-ri
 
-Current Phi word formation stops at three syllables. During the finite migration only, any inherited four-syllable form still listed in the migration ledger follows the same penultimate rule until its replacement lands; speakers should not model new words on that temporary shape.
+Vocabulary formation stops at three syllables, but a productive name may have four. The stress rule does not change: a four-syllable name stresses its third syllable.
 
 ## What stress sounds like
 

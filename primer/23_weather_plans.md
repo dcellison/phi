@@ -5,7 +5,7 @@
 ## I
 
 > **lu pheralu lepa. lo mia mua womu therilu.**
-> **lu sorae keru loa. lo mia kau luphore wepu.**
+> **lu sileta keru loa. lo mia kau luphore wepu.**
 > **lu howeli shua. lo mia mua womu nuora pilewa.**
 
 | new word | say it | it means |
@@ -38,7 +38,7 @@
 ## IV
 
 > lopia: **lu he thia pelori nai. wa thia wapi.**
-> phao: **lia. mia wapi. mia kau sorae wapi.**
+> phao: **lia. mia wapi. mia kau sileta wapi.**
 > **lohau lue phialu shua.**
 
 *If you were a bird, would you fly? To the sun itself, says the parent, who has been saving that answer for years. And the dog exits the river and shakes, in the universal language (the only weather anyone did not plan for).*

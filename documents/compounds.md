@@ -30,8 +30,8 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 
 | Compound | Literal | Meaning | Why compositional |
 |---|---|---|---|
-| `sorae thorui` | sun's beginning | east | Everyone on Earth agrees where the sun rises; no new word needed. Pairs with `nitho`/`ronua` (north/south), which are atomic because no sun-anchor is hemisphere-neutral. |
-| `sorae lumae` | sun's end | west | As above. |
+| `sileta thorui` | sun's beginning | east | Everyone on Earth agrees where the sun rises; no new word needed. Pairs with `nitho`/`ronua` (north/south), which are atomic because no sun-anchor is hemisphere-neutral. |
+| `sileta lumae` | sun's end | west | As above. |
 | `keru loa` | give brightness | to shine | Brightness is something the sun gives. Canonized from *The North Wind and the Sun*. |
 
 ## Body

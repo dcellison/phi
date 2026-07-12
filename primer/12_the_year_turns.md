@@ -23,7 +23,7 @@
 
 ## II
 
-> **theula philo. sorae rihe. shero shua.**
+> **theula philo. sileta rihe. shero shua.**
 > **theula miona ro rihe.**
 > **theula pelori ro meliho.**
 

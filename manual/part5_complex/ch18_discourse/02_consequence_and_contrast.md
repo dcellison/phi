@@ -7,7 +7,7 @@ These two markers handle the most fundamental moves in reasoning: drawing a conc
 `thelao` signals that what follows is a logical result of what preceded it. It is Phi's "therefore," "so," "consequently."
 
 ```
-sorae sulae nai. thelao lo peloru thuroa.
+sileta sulae nai. thelao lo peloru thuroa.
 sun warm be. CONS PL flower grow.
 (The sun is warm. Therefore the flowers grow.)
 ```
@@ -55,7 +55,7 @@ Where `thona` (but) contrasts elements within a single sentence, `whekai` contra
 `thelao` and `whekai` often appear in extended reasoning, where a speaker builds a case and then qualifies it:
 
 ```
-sorae sulae nai. thelao lo peloru thuroa. whekai pheralu ma nai.
+sileta sulae nai. thelao lo peloru thuroa. whekai pheralu ma nai.
 sun warm be. CONS PL flower grow. CONTR rain NEG be.
 (The sun is warm. Therefore the flowers grow. However there is no rain.)
 ```

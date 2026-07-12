@@ -52,7 +52,7 @@ The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`) or of rec
 
 **Examples**:
 ```
-shia shola sorae phelora nai sholo haolu
+shia shola sileta phelora nai sholo haolu
 3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE speak
 (They say, "The sun is beautiful.")
 
@@ -84,7 +84,7 @@ shia mena thia to wepu meno to haolu
 3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
 (They said that you left.)
 
-mia mena sorae sulae nai meno phaelo
+mia mena sileta sulae nai meno phaelo
 1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel
 (I feel that the sun is warm.)
 ```
@@ -121,7 +121,7 @@ shia wela mia to nila welo to thilou
 3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
 (They asked whether I had seen.)
 
-lo mia wela sorae phelora nai welo ma shelomu
+lo mia wela sileta phelora nai welo ma shelomu
 PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 (We don't know whether the sun is beautiful.)
 ```
@@ -142,7 +142,7 @@ PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 
 Complementizers frame Phi clauses only. Foreign wording, source-script names, source-form exact values and records, identifiers, formulas, and other unassimilated artifacts remain outside Phi syntax and appear separately through the surrounding document, interface, or conversation. Exact integers from 0 through 242 may also be rendered with internal Phi numerals when that representation is adequate. Phi can refer to a separately presented record, translate its meaning with `mena ... meno`, or quote grammatical Phi with `shola ... sholo`, but no outside token occupies a nominal position merely because it is printed beside Phi.
 
-`ne` directly licenses one lowercase name-form of two or three legal Phi syllables (`ne samira`) or a listed content word borne as a name. Longer, multi-token, non-Phi-shaped, and source-script names remain outside the Phi passage unless the bearer or naming community accepts a valid Phi-form onym.
+`ne` directly licenses one lowercase name-form of two, three, or four legal Phi syllables (`ne samira`) or a listed content word borne as a name. A preferred name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script remains outside the Phi passage unless the bearer or naming community accepts a valid Phi-form onym.
 
 ---
 

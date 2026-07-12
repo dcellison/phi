@@ -129,17 +129,19 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - [ ] Separate presentation is described as a boundary of language, not approval, condemnation, stigma, or loss of precision
 - [ ] A recurring concept proposed for Phi passes the complete word-creation protocol rather than entering through repeated unmarked use
 
-## Productive Name-Form Checklist
+## Productive name-form checklist
 
 - [ ] The bearer or naming community accepts the form
-- [ ] The form is one lowercase token with two or three Phi syllables
+- [ ] The form is one lowercase token with two, three, or four Phi syllables
 - [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no syllable with an onset
-- [ ] It is not a function word, interjection, complementizer, or other grammatical boundary
+- [ ] If it matches a current lexicon entry, that entry is a content word rather than a function or other non-content word
 - [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
 - [ ] It receives no lexicon file, gloss, part of speech, sound-symbolism rationale, pillar claim, or automatic core status
+- [ ] A retired content form may be chosen as a name without regaining its former gloss or returning to the lexicon
+- [ ] Any otherwise valid four-syllable form is accepted without consulting lexical retirement or migration history
 - [ ] It is not rejected merely for lexical edit-distance proximity; real referential confusion is handled by clarification, as with shared human names
-- [ ] A longer, multi-token, non-Phi-shaped, or source-script preferred name remains outside the Phi passage unless the bearer or naming community accepts another valid onym
-- [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it is neither a reserved non-content form nor a retired form
+- [ ] A preferred name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script remains outside the Phi passage unless the bearer or naming community accepts another valid onym
+- [ ] Run `python3 scripts/validate_examples.py name <form>` before publishing the name; the command must accept its shape and confirm that it does not match a current function or other non-content word
 
 ## Grammar Extension Rules
 

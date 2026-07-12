@@ -1,12 +1,12 @@
 # Language Assessment
 
-**Status:** Current development assessment, updated 2026-07-11 after Phi 2026.1 and Phi 2026.2.
+**Status:** Current development assessment, updated 2026-07-12 after Phi 2026.1 and Phi 2026.2.
 
 ## Executive assessment
 
 Phi is a serious, unusually coherent philosophical constructed language. It is best classified as a blend of **artlang**, **engineered language**, and **contemplative practice**, rather than a neutral international auxiliary language.
 
-Phi's strongest achievements are regularity and thematic unity. Extensive documentation supports a complete teaching path, and the grammar can carry sophisticated narrative and philosophical writing. Since the original assessment, Phi has added productive Phi-form names and eight optional vocabulary modules. Together they cover philosophy and systems, ecology and governance, and work and care. Accessibility and daily household life each have their own modules as well. Phi subsequently removed its guest and exact external frames in favor of keeping source artifacts outside the language, then began replacing every inherited four-syllable word under an absolute three-syllable ceiling. Its principal remaining weaknesses are lexical and phonological crowding, thin coverage of several modern domains, limited original use of its new specialist vocabulary, and the absence of real learner or conversational evidence.
+Phi's strongest achievements are regularity and thematic unity. Extensive documentation supports a complete teaching path, and the grammar can carry sophisticated narrative and philosophical writing. Since the original assessment, Phi has added productive Phi-form names and eight optional vocabulary modules. Together they cover philosophy and systems, ecology and governance, and work and care. Accessibility and daily household life each have their own modules as well. Phi subsequently removed its guest and exact external frames, kept source artifacts outside the language, and replaced every inherited four-syllable lexicon word under an absolute three-syllable lexical ceiling. Its principal remaining weaknesses are lexical and phonological crowding, thin coverage of several modern domains, limited original use of its new specialist vocabulary, and the absence of real learner or conversational evidence.
 
 **Overall judgment:** basic Phi should be relatively easy to learn; fluent spontaneous Phi would be substantially harder than the project's introductory claims suggest. It is complete for its chosen literary and contemplative domain, but not yet general-purpose.
 
@@ -39,9 +39,9 @@ English speakers gain familiar prepositions and simple morphology but must inter
 
 SOV itself is common: WALS records 564 SOV languages against 488 SVO languages. Phi's combination of OV order with prepositions is rare, however: WALS records only 14 OV-plus-preposition languages out of 1,142 surveyed. See [WALS basic order](https://wals.info/chapter/81) and [WALS adposition correlation](https://wals.info/chapter/95).
 
-## Foundations Added Since the Initial Assessment
+## Foundations added since the initial assessment
 
-Phi now draws a firmer boundary around identity and interoperability. `ne` licenses productive two- or three-syllable Phi-form names accepted by the bearer or naming community. Longer, multi-token, non-Phi-shaped, and source-script names remain outside Phi passages, as do exact spellings, scripts, notation, measurements, identifiers, and quotations. Vocabulary, transparent expressions, and optional modules carry concepts that Phi chooses to express.
+Phi now draws a firmer boundary around identity and interoperability. `ne` licenses productive Phi-form names of two, three, or four syllables when the bearer or naming community accepts them. Names with five or more syllables, multiple tokens, non-Phi shapes, and source-script forms remain outside Phi passages, as do exact spellings, scripts, notation, measurements, identifiers, and quotations. Vocabulary, transparent expressions, and optional modules carry concepts that Phi chooses to express.
 
 These mechanisms establish a design boundary, not demonstrated usability. Exact data still needs a Phi explanation of its role, source pronunciation remains an outside convention, and productive names still need learner and listening evidence. The Systems module supplies technical relations around state and function; the Ecological module follows evidence and material pathways; Commons names institutional power; Work covers organized activity and labor criticism; Medical separates bodily reports from clinical conclusions; Accessibility names barriers and participation harm; Household fills practical gaps in domestic life. None interprets a source artifact or replaces domain expertise.
 

@@ -131,7 +131,7 @@ mia wela shia towe nai welo sano
 ```
 
 ```
-lo mia wela sorae so shua welo ma sano
+lo mia wela sileta so shua welo ma sano
 PL 1SG INT.COMP sun FUT come INT.COMP.CLOSE NEG know
 (We do not know whether the sun will come.)
 ```
@@ -187,7 +187,7 @@ PL 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE feel
 ### Habitual aspect (`ro`)
 
 ```
-shia wela sorae ro shua welo sano
+shia wela sileta ro shua welo sano
 3SG INT.COMP sun HAB come INT.COMP.CLOSE know
 (They know whether the sun regularly comes.)
 ```
@@ -371,7 +371,7 @@ mia wela pheralu so shua welo ma sano
 ```
 
 ```
-mia wela pheralu so shua welo ma phaelo. sorae ha nai
+mia wela pheralu so shua welo ma phaelo. sileta ha nai
 1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG feel. sun PROX be
 (I don't care whether rain will come. The sun is here.)
 ```

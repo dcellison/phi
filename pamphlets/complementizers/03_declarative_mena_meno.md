@@ -42,7 +42,7 @@ Declarative embedding works with several categories of verbs:
 ### Cognitive verbs (knowing, believing, understanding)
 
 ```
-mia mena sorae sulae nai meno sano
+mia mena sileta sulae nai meno sano
 1SG DECL.COMP sun warm be DECL.COMP.CLOSE know
 (I know that the sun is warm.)
 ```
@@ -68,7 +68,7 @@ thia mena mia to naphe meno remo
 ### Perception verbs (seeing, hearing, feeling)
 
 ```
-mia mena sorae phelora nai meno nila
+mia mena sileta phelora nai meno nila
 1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE see
 (I see that the sun is beautiful.)
 ```
@@ -138,7 +138,7 @@ shia mena thia to nila meno sano
 ### Future tense (`so`)
 
 ```
-mia mena sorae so shua meno nohero
+mia mena sileta so shua meno nohero
 1SG DECL.COMP sun FUT come DECL.COMP.CLOSE believe
 (I believe that the sun will come.)
 ```
@@ -158,7 +158,7 @@ mia mena melu ro naphe meno sano
 ```
 
 ```
-shia mena sorae ro shua meno nila
+shia mena sileta ro shua meno nila
 3SG DECL.COMP sun HAB come DECL.COMP.CLOSE see
 (They see that the sun habitually comes.)
 ```
@@ -270,7 +270,7 @@ shia mena melu mua womu nai meno sano
 Many embedded statements are copular sentences using `nai`:
 
 ```
-mia mena sorae phelora nai meno nila
+mia mena sileta phelora nai meno nila
 1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE see
 (I see that the sun is beautiful.)
 ```
@@ -356,7 +356,7 @@ mia mena pheralu so shua meno nohero
 ```
 
 ```
-mia mena pheralu so ma shua meno remo. sorae ha nai
+mia mena pheralu so ma shua meno remo. sileta ha nai
 1SG DECL.COMP rain FUT NEG come DECL.COMP.CLOSE think. sun PROX be
 (I think that rain will not come. The sun is here.)
 ```

@@ -1,10 +1,10 @@
 # The music of vowel hiatus
 
-Listen to these words: *lothea*, *shea*, *mia*, *thia*, *sorae*. Every one contains two vowels standing side by side. What Phi does at that meeting point is the single most important fact about how it sounds.
+Listen to these words: *lothea*, *shea*, *mia*, *thia*, *soriu*. Every one contains two vowels standing side by side. What Phi does at that meeting point is the single most important fact about how it sounds.
 
 Most languages, when two vowels meet, blend them. English turns *a+i* into the glide of "eye"; Spanish fuses *ue* into a single flowing syllable. Phi never does. When vowels meet in Phi, **each one keeps its own syllable**: a full beat for the first, a small clean break, a full beat for the second. This is *vowel hiatus*: vowels in sequence, never in fusion.
 
-Say *mia* slowly: *mee-ah*. Two beats, not one. Now *lothea*: *lo-theh-ah*. Three beats, with the border between *eh* and *ah* kept crisp, like two notes played separately rather than slurred. And *sorae*: *so-rah-eh*. The word ends on its own quiet third step.
+Say *mia* slowly: *mee-ah*. Two beats, not one. Now *lothea*: *lo-theh-ah*. Three beats, with the border between *eh* and *ah* kept crisp, like two notes played separately rather than slurred. And *soriu*: *so-ree-oo*. The final *i.u* takes two clear steps.
 
 Stepping stones, not a slide. That is the rule, and it has no exceptions anywhere in the language.
 
@@ -20,8 +20,8 @@ Third, it gives listeners a regular syllable structure to follow through an unfa
 
 Read these aloud, giving every vowel its full beat and keeping every border clean:
 
-**phialu sorae nila.** — The water sees the sun.
-*fee-ah-loo so-rah-eh nee-lah*
+**phialu sileta nila.** — The water sees the sun.
+*fee-ah-loo see-leh-tah nee-lah*
 
 **shea womu nai.** — Peace is home.
 *sheh-ah woh-moo nah-ee*

@@ -51,8 +51,8 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 |---|---|---|
 | Purpose, scope, and solo governance | **DONE** | Philosophy-first scope and honest-claims policy are canonical. |
 | Source-material interoperability | **DONE** | Unassimilated source material remains outside Phi passages; active teaching and tooling no longer parse guest or exact frames. |
-| Productive proper names | **DONE** | `ne` licenses validated two- or three-syllable Phi-form onyms. |
-| Three-syllable lexical ceiling | **PARTIAL** | New long forms are prohibited and all 112 inherited four-syllable entries are recorded in a finite staged migration ledger. |
+| Productive proper names | **DONE** | `ne` licenses validated Phi-form onyms of two, three, or four syllables. |
+| Three-syllable lexical ceiling | **DONE** | All 112 inherited four-syllable entries have replacements, and the validator permits no lexical exception. |
 | Philosophical capability | **PARTIAL** | Matrix, repair conventions, and fifteen test dialogues exist; several operations remain gaps. |
 | Solo evaluation | **READY** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain available after the breaking migration. |
 | Speech and listening evidence | **READY** | Audit tooling and protocols exist; recordings and perception results do not. |
@@ -83,7 +83,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | EXT-01 | **DONE** | Remove adapted guest frames from current Phi. | D003 superseded by D012; boundary entries and parser removed | Recurring useful concepts become vocabulary or transparent expressions; temporary adaptations do not become a third lexical class. |
 | EXT-02 | **DONE** | Remove exact opaque frames from current Phi. | D004 superseded by D012; mixed-script rendering removed | Exact artifacts remain in their source medium rather than breaking Phi script parity. |
 | EXT-03 | **DONE** | Establish source-material separation and ethical reporting policy. | Canon ruling and `documents/word_shape_and_external_boundaries.md` | Phi may point to, translate, and analyze a separately preserved source without importing its grammar or claiming to exhaust it. |
-| EXT-04 | **DONE** | Simplify validation, glossing, HTML generation, Tengwar rendering, and phonetic auditing. | Current scripts and retired-form tests | Tooling accepts Phi text only and blocks reassignment of the four historical boundaries. |
+| EXT-04 | **DONE** | Simplify validation, glossing, HTML generation, Tengwar rendering, and phonetic auditing. | Current scripts and whole-inventory non-content tests | Tooling accepts Phi text only and blocks lexical reassignment of the four historical boundaries. |
 | EXT-05 | **DONE** | Replace frame teaching with source-material practice. | Manual chapter 24 and source-material pamphlet | Examples keep Phi passages and source artifacts visibly separate. |
 | EXT-06 | **OPTIONAL** | Human choice exercise across core vocabulary, modules, transparent expressions, productive names, translation, and separate source presentation. | `documents/solo_evaluation_tasks.md` section 2 | Record cases where the intended boundary or referent remains unclear and revise teaching where useful. |
 | EXT-07 | **EVIDENCE** | Outside-reader interpretation of source separation as honest scope rather than stigma or approval. | No outside result yet | Collect qualitative responses from consenting readers if Phi gains other users. |
@@ -95,9 +95,9 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
 | NAM-01 | **DONE** | Redefine `ne` as a proper-designation marker rather than a personhood marker. | `canon.md`; naming pamphlet | Applies consistently to people, animals, places, communities, works, events, and artifacts. |
-| NAM-02 | **DONE** | Productive two- or three-syllable Phi-form onyms with duplicate syllables prohibited. | `scripts/name_forms.py`; retired-form regression tests | Charter remains synchronized across canon, teaching, and validator. |
-| NAM-03 | **DONE** | Strictly reserve every listed non-content form from productive onym use. | `validate_examples.py name FORM`; whole-inventory regression test | CI fails if any non-content entry becomes acceptable as a standalone productive onym. |
-| NAM-04 | **DONE** | Preserve content-word names, productive onyms, separate source names, and bearer authority. | Naming pamphlet and canon | No adaptation is assigned against a bearer's preference, and a preferred source form is not forced into Phi phonology. |
+| NAM-02 | **DONE** | Productive Phi-form onyms of two, three, or four syllables with duplicate syllables prohibited. | `scripts/name_forms.py`; name-form regression tests | Charter remains synchronized across canon, teaching, and validator. |
+| NAM-03 | **DONE** | Exclude every current non-content lexicon form from productive onym use. | `validate_examples.py name FORM`; whole-inventory regression test | CI fails if any current function or other non-content entry becomes acceptable as a name. |
+| NAM-04 | **DONE** | Preserve content-word names, retired-content names, productive onyms, separate source names, and bearer authority. | Naming pamphlet and canon | Name use gives a retired form no gloss, no adaptation is assigned against a bearer's preference, and a preferred source form is not forced into Phi phonology. |
 | NAM-05 | **READY** | Repeated-name narrative trial using `ne` plus a bearer-approved onym. | Solo evaluation name prompts | Write and read a short narrative with at least ten mentions; record burden and ambiguity. |
 | NAM-06 | **EVIDENCE** | Test shared names, changed names, multi-part names, and preferred forms with actual users. | No outside result yet | Record whether clarification conventions suffice before adding more name grammar. |
 
@@ -142,8 +142,8 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SPH-02 | **DONE** | Phoneme-aware, feature-weighted neighbor audit and reproducible baseline. | `scripts/audit_phonetic_neighbors.py`; phonetic baseline | Baseline regenerates exactly and remains advisory. |
 | SPH-03 | **DONE** | Rename gate requiring repeated observed confusion rather than distance alone. | `documents/listening_audit.md` | No discretionary or collision-driven rename bypasses the gate; an independently accepted structural migration records and validates its separate reason. |
 | SPH-04 | **READY** | Maintainer ABX recordings for high-priority function pairs. | Listening-audit protocol and prompt generator | Record careful and conversational sessions on three nonconsecutive days, in quiet and moderate noise. |
-| SPH-05 | **READY** | Record observations and replay/confidence data. | Pending observation table | Fill actual trials for valid productive names, retired-form rejection, and prioritized dense pairs. |
-| SPH-06 | **EVIDENCE** | Outside-listener results across accents and language backgrounds. | No outside result yet | Begin with function words, productive names, retired-form rejection, and dense pairs; preserve consent and keep raw voice private by default. |
+| SPH-05 | **READY** | Record observations and replay/confidence data. | Pending observation table | Fill actual trials for valid productive names, current-function rejection, and prioritized dense pairs. |
+| SPH-06 | **EVIDENCE** | Outside-listener results across accents and language backgrounds. | No outside result yet | Begin with function words, productive names, current-function rejection, and dense pairs; preserve consent and keep raw voice private by default. |
 | SPH-07 | **EVIDENCE** | Learner-facing reference recordings and accepted-variation examples. | No curated audio set yet | Publish only reviewed recordings whose speaker consent and purpose are recorded. |
 | SPH-08 | **DEFERRED** | Broad collision-driven lexical renaming campaign. | Explicitly excluded from Phi 2026.1 | Reconsider only after repeated, high-impact perceptual confusion survives careful-production review; the accepted three-syllable migration is a separate structural change. |
 
@@ -172,12 +172,12 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-07E | **DONE** | First medical and bodily care vocabulary expansion. | 30 Medical and Bodily Care module words, shared-core `lesawi` consent, retained compositions and source boundaries, generated index, and Part VII teaching chapter | Use the module in original care, recovery, intervention, and public-health writing and revise any term or composition that feels inadequate. |
 | SEM-07F | **DONE** | First accessibility and participation vocabulary expansion. | 30 Accessibility and Participation module words, shared-core `sowelu` disabled, retained compositions and source boundaries, generated index, and Part VII teaching chapter | Use the module in routes, communication, timing, support, and collective participation, then revise any term or composition that feels inadequate. |
 | SEM-07G | **DONE** | First household and daily life vocabulary expansion. | 30 Household and Daily Life module words, shared-core `mirewu` private, retained core coverage and compositions, generated index, and Part VII teaching chapter | Use the module in solitary and shared dwellings, meal preparation, upkeep, visits, and domestic-work disagreements, then revise any term or composition that feels inadequate. |
-| SEM-08 | **PARTIAL** | Enforce a universal three-syllable lexical ceiling. | D013; finite migration ledger; validator rejects any unlisted four-syllable addition | Complete the six-stage migration and replace all inherited forms without aliases. |
-| SEM-08A | **NEXT** | Replace 19 four-syllable base-vocabulary forms. | Migration ledger scope `base` | Select collision-safe three-syllable forms, update every active use, and retire each prior form. |
-| SEM-08B | **PENDING** | Replace 10 Philosophical Reasoning forms. | Depends on merged SEM-08A | Preserve the module's semantic families, examples, and speaker chapter under the new forms. |
-| SEM-08C | **PENDING** | Replace 24 Systems and Shared Infrastructure forms. | Depends on merged SEM-08B | Preserve technical contrasts and rerun complete listening-neighbor audits. |
-| SEM-08D | **PENDING** | Replace 30 Ecological Systems and Material Life forms. | Depends on merged SEM-08C | Preserve ecological distinctions and update all scenario and profile use. |
-| SEM-08E | **PENDING** | Replace 29 Commons and Collective Governance forms and close the migration. | Depends on merged SEM-08D | Retire the final old forms, remove the temporary ledger allowance, and require every lexicon entry to have at most three syllables. |
+| SEM-08 | **DONE** | Enforce a universal three-syllable lexical ceiling. | D013 and D016; completed 112-row migration ledger; unconditional validator rule | No lexicon entry exceeds three syllables, and four-syllable forms need no individual retirement record. |
+| SEM-08A | **DONE** | Replace 19 four-syllable base-vocabulary forms. | Migration ledger scope `base`; synchronized active corpus | Reopen only if an active use of an old form is found. |
+| SEM-08B | **DONE** | Replace 10 Philosophical Reasoning forms. | Completed ledger scope and regenerated speaker references | Reopen only if an active use of an old form is found. |
+| SEM-08C | **DONE** | Replace 24 Systems and Shared Infrastructure forms. | Completed ledger scope and phonetic-neighbor baseline | Reopen only if an active use of an old form is found. |
+| SEM-08D | **DONE** | Replace 30 Ecological Systems and Material Life forms. | Completed ledger scope, scenarios, profile, and generated reference | Reopen only if an active use of an old form is found. |
+| SEM-08E | **DONE** | Replace 29 Commons and Collective Governance forms and close the migration. | Completed ledger scope; validator has no long-form exception | Reopen only if an active use of an old form is found. |
 
 ### Default coinage checklist
 
@@ -245,19 +245,21 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The current priority is the accepted breaking migration to a universal three-syllable lexical ceiling. Optional module growth, original philosophical use, evaluation, and speech work remain available afterward; none is a prerequisite for the migration.
+The three-syllable lexical migration is complete. Current work has returned to the active text corpus review in SEM-01C; original philosophical use, evaluation, and speech work remain available alongside it.
 
-### Work package 0: Three-syllable lexical migration
+### Completed work package 0: Three-syllable lexical migration
 
 **Roadmap items:** SEM-08A through SEM-08E.
 
-1. Replace the 19 base-vocabulary forms and merge that pass before touching module forms.
-2. Replace Philosophical Reasoning, Systems and Shared Infrastructure, Ecological Systems and Material Life, and Commons and Collective Governance in that order, one reviewable pull request per scope.
-3. For every replacement, preserve the semantic carve and full vocabulary schema, choose a collision-safe form of at most three syllables, update every active use and filename, append the old form to the retired list, and mark its ledger row `replaced` with the new form.
-4. Regenerate lexical references and the phonetic-neighbor baseline, then run lexicon, documentation, name, rendering, and generated-reference checks in every pass.
-5. In the final pass, verify that no lexicon entry exceeds three syllables and remove the temporary ledger allowance from the validator and active policy text.
+| Scope | Replacements |
+|---|---:|
+| Base vocabulary | 19 |
+| Philosophical Reasoning | 10 |
+| Systems and Shared Infrastructure | 24 |
+| Ecological Systems and Material Life | 30 |
+| Commons and Collective Governance | 29 |
 
-**Exit criterion:** all 112 inherited forms have collision-safe replacements, every old form is retired without an alias, the migration ledger is complete, and the absolute three-syllable validator passes without an exception list.
+All 112 replacements preserve the vocabulary schema and active uses under forms of no more than three syllables. The ledger records the old-to-new mappings, generated references and phonetic baselines agree with the current lexicon, and the validator now applies the ceiling without an exception list. Old four-syllable forms are absent from vocabulary by class rather than copied into the short-form retirement list.
 
 ### Work package A: Continue vocabulary module passes
 
@@ -324,7 +326,7 @@ These labels describe logical milestones, not promised dates.
 |---|---|---|
 | Phi 2026.1: external register and honest scope | **DONE** | FND-01 through FND-04; EXT-01 through EXT-05; initial PHL and SPH tooling. |
 | Phi 2026.2: productive names | **DONE** | NAM-01 through NAM-04 and strict name validation. |
-| Three-syllable lexical migration | **NEXT** | SEM-08A through SEM-08E, in merge sequence. |
+| Three-syllable lexical migration | **DONE** | SEM-08A through SEM-08E; 112 replacements and an unconditional lexical ceiling. |
 | Solo evidence baseline | **READY** | Work packages A through D. |
 | First evidence-led philosophical expansion | **PENDING** | Work package E and one narrowly justified release. |
 | Outside-reader pilot | **EVIDENCE** | Work package F. |

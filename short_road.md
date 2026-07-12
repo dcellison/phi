@@ -120,13 +120,13 @@ CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST
 
 ## Meanings compose, and every word comes with gifts
 
-Beyond seven coined color words, hues keep their source visible: `kerou welisha`, stone color, is gray; `horathe welisha`, dawn color, is pink. East is `sorae thorui`, the sun's beginning, and west is `sorae lumae`, its end. Anger is `korua thero`, heart-fire. Contempt is `thiku nila`, seeing-small. The lexicon is a web, and pulling one word teaches you three more.
+Beyond seven coined color words, hues keep their source visible: `kerou welisha`, stone color, is gray; `horathe welisha`, dawn color, is pink. East is `sileta thorui`, the sun's beginning, and west is `sileta lumae`, its end. Anger is `korua thero`, heart-fire. Contempt is `thiku nila`, seeing-small. The lexicon is a web, and pulling one word teaches you three more.
 
 Every word also arrives with its relatives included. A verb names its own event: `remo` (think) is also a thought, `thalo` (walk) is also a walk. An adjective names its own quality: `siloma` (simple) is also simplicity. No derivation tables, no suffixes to memorize. The rule does the work once, for every word in the dictionary.
 
 ## A name is a word
 
-`ne` is a capital letter you can hear: it announces that the next word is someone's name. A name can be any content word carried as a name, `ne sulae` is a person called Warm, or a new two- or three-syllable Phi-shaped word that belongs to its bearer alone. Either way a Phi name means something, and the language says so out loud every time.
+`ne` is a capital letter you can hear: it announces that the next word is someone's name. A name can be any content word carried as a name, `ne sulae` is a person called Warm, or a new Phi-shaped word of two, three, or four syllables that belongs to its bearer alone. The first kind has a dictionary meaning; the second identifies its bearer without acquiring one. Phi says aloud every time that the next token is a name.
 
 ## The shelf
 

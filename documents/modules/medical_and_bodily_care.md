@@ -103,7 +103,7 @@ These scenarios supplied useful compositions and a before-state for vocabulary d
 
 Keep spelling, script, values, units, identifiers, medicine labels, source instructions, quotations, and health records outside the Phi passage whenever their exact form matters. Preserve the artifact through the surrounding document, interface, or conversation without silent conversion, rounding, translation, or normalization. A Phi explanation may accompany it but must not be presented as equivalent when it omits a medically relevant distinction.
 
-Use a valid Phi word, transparent expression, or module term when Phi needs the concept. Use `ne` plus a bearer-approved two- or three-syllable onym for a name inside Phi. A source name or technical term that does not fit those choices remains outside the Phi passage rather than becoming a temporary lexical class.
+Use a valid Phi word, transparent expression, or module term when Phi needs the concept. Use `ne` plus a bearer-approved onym of two, three, or four syllables for a name inside Phi. A source name or technical term that does not fit those choices remains outside the Phi passage rather than becoming a temporary lexical class.
 
 Separate preservation supplies no clinical interpretation. If speakers do not understand a reading, instruction, or term, Phi should state that lack of understanding rather than infer a recommendation from the artifact.
 

@@ -24,7 +24,7 @@ The surrounding page preserves `temperature: 38.7 C`; neither Phi sentence attem
 
 ## C. Test a name
 
-`samira` is a valid three-syllable productive onym. `saweriko` is invalid because it has four syllables. `mimimi` repeats a syllable that has an onset. The retired boundary forms remain unavailable even though their shapes would otherwise fit the productive-name charter.
+`samira` is a valid three-syllable productive onym, and `saweriko` is valid with four. `sawerikona` is invalid because it has five syllables, while `mimimi` repeats a syllable that has an onset. `sorae` and `hasha` are absent from the current lexicon, so their legal shapes are enough for `ne` to carry them as names without glosses. `mena` has a legal shape but remains unavailable because it is a current complementizer, not a content word.
 
 ## D. Separate source, translation, and analysis
 

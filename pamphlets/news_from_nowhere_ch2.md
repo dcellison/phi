@@ -24,7 +24,7 @@ place INTS warm PST be.
 (The room was very hot.)
 morris: "for it was hot"
 
-sorae keru to keru loa.
+sileta keru to keru loa.
 sun bright PST bright give.
 (The sun gave bright light.)
 morris: "and the sun shining brightly."
@@ -108,7 +108,7 @@ beautiful bright morning PST be. morning ABL summer beginning PST INFER be.
 (It was a beautiful, bright morning, seemingly from the beginning of summer.)
 morris: "a beautiful bright morning seemingly of early June."
 
-whekai luphore to manolu. luphore phou sorae to keru tiripe. luphore pai pheno to nai.
+whekai luphore to manolu. luphore phou sileta to keru tiripe. luphore pai pheno to nai.
 CONTR river PST stay. river BELOW sun PST bright quiver. river NEAR full PST be.
 (But the river stayed. The river quivered brightly under the sun, near its fullness.)
 morris: "However, there was still the Thames sparkling under the sun, and near high water,"
@@ -347,7 +347,7 @@ LOC PROX morning time UNIV place joyful be.
 (At this hour of the morning, everywhere is jolly.)
 morris: "it's jolly everywhere this time in the morning."
 
-thia mua kelua thorui to te nulae. mia siora phaelo. sorae li nosa ki rihe.
+thia mua kelua thorui to te nulae. mia siora phaelo. sileta li nosa ki rihe.
 2SG LOC morning beginning PST CESS sleep. 1SG joy feel. sun RESTR now PFV rise.
 (I'm glad you woke at the morning's very beginning: the sun has only just risen.)
 morris: "I'm glad you got up early; it's barely five o'clock yet.\""
@@ -520,7 +520,7 @@ CONTR 1SG LOC wondrous PST quiet stay.
 (But I held my peace in my wonder.)
 morris: "but held my peace in my wonder,"
 
-mia wea sorae thorui lo mirae to rato. mia repha we to nila. pheo thena mia luphore lo kerime to nila.
+mia wea sileta thorui lo mirae to rato. mia repha we to nila. pheo thena mia luphore lo kerime to nila.
 1SG TOWARD sun beginning PL eye PST turn. 1SG bridge ALSO PST see. POST thing 1SG river PL shore PST see.
 (I turned my bewildered eyes eastward, looked at the bridge again, and thence at the shores of the river.)
 morris: "and turned my bewildered eyes eastward to look at the bridge again, and thence to the shores of the London river;"
@@ -550,7 +550,7 @@ PL device labor home PST NEG stay. PL heavy metal labor home ALSO PST NEG stay.
 (The engine-works did not remain; the heavy-metal works did not remain either.)
 morris: "the engineer's works gone; the lead-works gone;"
 
-keluo kohura nua sorae lumae howeli to ma kamo.
+keluo kohura nua sileta lumae howeli to ma kamo.
 metal noise COM sun end wind PST NEG arrive.
 (And no metal-noise came down on the west wind.)
 morris: "and no sound of rivetting and hammering came down the west wind from Thorneycroft's."

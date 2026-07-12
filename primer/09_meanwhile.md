@@ -44,7 +44,7 @@
 
 ## IV
 
-> **sorae lepa.**
+> **sileta lepa.**
 > **lo pelori shua.**
 > **lopia lue luphore shua.**
 > **lohau lue luphore shua.**

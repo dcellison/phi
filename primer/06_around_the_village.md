@@ -54,13 +54,13 @@
 > **lopia mua womu nai.**
 > **lopia wei phao peloru loa.**
 > **phao peloru howela.**
-> **sorae keru loa.**
+> **sileta keru loa.**
 
 | new word | say it | it means |
 |---|---|---|
 | keru | ke · ru | bright |
 
-*Home again, and the flower is given onward: received at the well, delivered to the parent, worth more at each handing. And the last line is the language showing you its heart: Phi does not say the sun shines. It says* sorae keru loa *— the sun gives light. The day's last giver is the biggest one.*
+*Home again, and the flower is given onward: received at the well, delivered to the parent, worth more at each handing. And the last line is the language showing you its heart: Phi does not say the sun shines. It says* sileta keru loa *— the sun gives light. The day's last giver is the biggest one.*
 
 > **lopia nulae. lohau nulae. phao nulae. wheo nulae.**
 > **misheko rihe.**

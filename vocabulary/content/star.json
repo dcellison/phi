@@ -10,16 +10,16 @@
   "pos": [
     "noun"
   ],
-  "concept": "Star / Celestial Light / Night's Guide",
-  "description": "A luminous celestial body visible as a point of light in the night sky. 'Silero' names the distant fires that pattern the darkness—navigational guides, story-holders, reminders of vastness beyond our world.",
-  "sound_symbolism": "The word glimmers in darkness. 'Si' begins with sibilant shimmer, light piercing night. Then 'le' gleams with liquid brightness, the steady glow. Finally 'ro' holds position, the star's fixed presence in the turning sky.",
-  "grammatical_notes": "Noun: 'lo silero' (stars). A star is neither a detached or crafted object nor one of the other classifier categories, so a counted star has no canonical classifier. Stars give light as the sun does: 'silero keru loa.' (The star gives light.) Used in navigation, storytelling, and expressions of aspiration. Compare 'sorae' (sun) and 'lunei' (moon).",
+  "concept": "Star / Distant Sun / Night-Sky Light",
+  "description": "A luminous celestial body, especially one seen as a point of light after dark. In Phi, 'silero' covers the class that includes 'sileta' (sun), while ordinary use often turns toward the distant lights used for navigation, seasonal reckoning, and stories.",
+  "sound_symbolism": "In 'si', the tongue narrows the airstream to a thin sibilance before high 'i' lifts it. At stressed 'le', the tongue releases laterally into the same opening heard in 'sileta' (sun), so the two words part only at their endings. The ending 'ro' taps or rolls and settles into round 'o', a small light held in the turning dark.",
+  "grammatical_notes": "Noun: 'lo silero' (stars). A counted star has no canonical classifier. Stars give light: 'silero keru loa.' (The star gives light.) The sun is one star: 'sileta silero nai.' (The sun is a star.) Compare 'lunei' (moon), Earth's companion rather than a star.",
   "pillars": {
-    "secular-buddhist-philosophy": "Stars teach perspective—each light traveled years to reach us, connecting present sight to distant past.",
-    "pre-industrial-wisdom": "Stars were humanity's first maps and calendars—guiding travelers, marking seasons, holding stories of ancestors and heroes."
+    "secular-buddhist-philosophy": "A star seen tonight may have sent that light years ago. The gap between origin and arrival makes the present sky an encounter with the past.",
+    "pre-industrial-wisdom": "Stars marked routes and seasons before instruments made either abstract. Their patterns also held stories that could travel with the people who knew them."
   },
   "tags": {
-    "nature": "Celestial body",
-    "wisdom": "Guide and aspiration"
+    "nature": "luminous celestial body",
+    "wisdom": "guide for routes and seasons"
   }
 }

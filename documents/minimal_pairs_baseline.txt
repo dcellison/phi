@@ -56,7 +56,6 @@ hola whola
 holia rolia
 horae morae
 horae norae
-horae sorae
 horae thorae
 howela howeli
 howela kowela
@@ -340,7 +339,6 @@ molu wolu
 monae morae
 mophi nophi
 morae norae
-morae sorae
 moreke moreko
 moru motu
 moru noru
@@ -386,7 +384,6 @@ nophae sophae
 nophei nophi
 nophi noshi
 norae nowae
-norae sorae
 noru norui
 noru poru
 noru toru
@@ -617,13 +614,11 @@ sileo silero
 siru wiru
 soeli woeli
 solae solai
-solae sorae
 solae sulae
 solae tolae
 solai sorai
 solai sulai
 sone sonu
-sorae sorai
 sorai sorui
 sulae sulai
 sulai sunai

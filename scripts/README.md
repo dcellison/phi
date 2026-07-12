@@ -9,8 +9,8 @@ Checks the entire language for internal consistency, and runs in CI on every pul
 - **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar, semantic-domain, and optional-module classifications, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
 - **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/minimal_pairs_baseline.txt`, which may only shrink.
 - **Documentation examples**: every Phi word quoted in `documents/`, `manual/`, `pamphlets/`, `primer/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
-- **Productive names**: unlisted name-forms after `ne` must be lowercase, two or three syllables, content-shaped, and absent from the retired-form list; every listed non-content form remains strictly unavailable as a name.
-- **Three-syllable ceiling**: every new lexical form must have at most three syllables; the finite migration ledger is the only temporary allowance for inherited four-syllable entries.
+- **Productive names**: after `ne`, a name-form absent from the current lexicon must be lowercase, content-shaped, and two, three, or four syllables. Any legal four-syllable candidate is accepted without consulting lexical history. A name may match a current lexicon entry only when that entry is a content word; every current function and other non-content form remains unavailable.
+- **Three-syllable ceiling**: every lexical form must have at most three syllables, with no exception. The finite migration ledger records completed replacements rather than authorizing old forms.
 - **Compound registry**: every member word of a compound in `documents/compounds.md` must exist in the lexicon, no registry row repeats, and the generated Part VII compound reference must match what the registry would generate.
 - **Collision check for new coinages**: `neighbors WORD` lists every existing word within edit distance 1 of a candidate.
 
@@ -28,7 +28,7 @@ Exit code 0 means no errors. Run the full check — as its own command, so the e
 
 Known limitation: single-word *italic* mentions in prose are not checked (the English/Phi heuristic needs at least two tokens). When retiring or renaming a word, grep for it explicitly.
 
-The focused regression suite covers the productive-name open class, retired-form reservation, and exact agreement between the fixed migration ledger and inherited long forms:
+The focused regression suite covers the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
 
 ```bash
 python3 scripts/test_name_forms.py

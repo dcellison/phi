@@ -10,7 +10,17 @@ Present the source record `temperature: 38.7 C` outside a Phi passage. Then writ
 
 ## C. Test a name
 
-Run `python3 scripts/validate_examples.py name samira`, then test `saweriko`, `mimimi`, and each retired boundary form. Explain whether rejection concerns word shape, duplicated syllables, or historical reservation.
+Run `python3 scripts/validate_examples.py name FORM` for each of these candidates:
+
+- `samira`
+- `saweriko`
+- `sawerikona`
+- `sorae`
+- `hasha`
+- `mena`
+- `mimimi`
+
+Explain why four syllables and absence from the current lexicon do not reject a name, while five syllables, duplicated syllables, and a match with a current function word do.
 
 ## D. Separate source, translation, and analysis
 

@@ -36,7 +36,7 @@
 > **pheralu lepa.**
 > **pheralu te lepa.**
 > **howeli te shua.**
-> **sorae keru loa.**
+> **sileta keru loa.**
 
 | new word | say it | it means |
 |---|---|---|

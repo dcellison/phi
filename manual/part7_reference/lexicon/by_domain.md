@@ -245,7 +245,7 @@
 | `siloma` | simple | elegance and beauty of minimal forms |
 | `simoe` | rich | Full of quality |
 | `solai` | gold | Solar beauty |
-| `soriu` | yellow | visual quality of bright warmth |
+| `soriu` | yellow | bright warm hue |
 | `sulai` | musician | Sound creation |
 | `telui` | rhythm | Regular beat |
 | `theriko` | frost | Crystalline natural pattern |
@@ -1379,13 +1379,13 @@
 | `shupi` | plateau | Elevated flat land |
 | `sihewa` | breeze | Gentle air movement |
 | `sileo` | silk | Insect fiber |
-| `silero` | star | Celestial body |
+| `silero` | star | luminous celestial body |
+| `sileta` | sun | the star that gives Earth daylight |
 | `simoe` | rich | Deeply fertile |
 | `solai` | gold | Precious metal |
 | `sophae` | cotton | Plant fiber |
-| `sorae` | sun | the star that gives us life |
 | `sorila` | cultivate | Working land for growth |
-| `soriu` | yellow | the color of sun and ripe grain |
+| `soriu` | yellow | color of ripe grain and many flowers |
 | `suilo` | dew | Condensed atmospheric moisture |
 | `sulae` | warm | energy from sun and fire |
 | `suliwa` | snake | The flowing legless animal |
@@ -2098,13 +2098,13 @@
 | `sheru` | slow | Unhurried pace |
 | `shila` | winter | Rest season |
 | `shimalo` | discipline | shapes growth through sustained gentle effort |
+| `sileta` | sun | marker of days and seasons |
 | `sitawi` | inventory | a record explicitly bounded to a time |
 | `sitheku` | transcribe | preserving passing language for later use |
 | `soleha` | luck | The way things fall |
 | `soliru` | hope | orients toward future transformation and change |
 | `somethi` | monitor | attention repeated across a stated interval and duration |
 | `sonari` | isolate | separation for a stated period |
-| `sorae` | sun | marker of day and seasonal cycles |
 | `suilo` | dew | Ephemeral morning phenomenon |
 | `suloru` | fever | a temperature state observed over a stated time |
 | `sunoe` | regenerate | Renewal cycle |
@@ -2290,7 +2290,7 @@
 | `shoeka` | route | Way chosen |
 | `sholu` | complete | Nothing lacking |
 | `shonela` | learn | involves understanding and transformation of perspective |
-| `silero` | star | Guide and aspiration |
+| `silero` | star | guide for routes and seasons |
 | `siloma` | simple | knowing what is enough and seeing clearly |
 | `sima` | thread | Connection |
 | `siru` | marker | Path guide |
