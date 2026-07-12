@@ -96,7 +96,7 @@ OPT UNIV creature joy heart hold.
 (May every creature hold a joyful heart.)
 ```
 
-***nitho howeli nela sileta*** (The North Wind and the Sun) is a transmutation of Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit.
+***nitho howeli nela sileta*** (The North Wind and the Sun) is a transmutation of Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its narrative uses past-tense scene chains, and the wager puts a causative inside a relative clause. The moral keeps no scoreboard: `moli nela phena haolu welao lureko thola`, gentleness and kind speech bring good fruit; `keloa haolu nela kawhera pholeni thola`, rough speech and coercion bring departure.
 
 The rest of the shelf:
 
