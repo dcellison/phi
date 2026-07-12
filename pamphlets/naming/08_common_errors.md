@@ -65,7 +65,7 @@ siora kau silawo so shua.
 siora ALL village FUT come.
 ```
 
-In an established conversation, this may be clear. In a message to someone outside that discourse, the reader receives *joy* rather than the intended person. Formal and portable Phi re-announces at every mention because announcement makes the sentence self-contained. Productive unlisted forms have the additional problem of looking like unknown words, so machine-validated text always keeps `ne`.
+In an established conversation, this may be clear. In a message to someone outside that discourse, the reader receives *joy* rather than the intended person. Formal and portable Phi re-announces at every mention because announcement makes the sentence self-contained. Productive forms absent from the current lexicon have the additional problem of looking like unknown words, so machine-validated text always keeps `ne`.
 
 ### Error 6: the rescued capital
 

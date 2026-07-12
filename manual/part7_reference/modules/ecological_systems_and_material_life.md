@@ -13,7 +13,7 @@ The module does not replace what Phi already says about land, water, weather, an
 | Area | Core Phi resources |
 |---|---|
 | Land and water | `muila` earth or soil, `phialu` water, `luphore` river, `phuliro` stream, `thelomi` lake, `moriwhe` sea, `thula` spring, `kosha` field |
-| Sky and immediate conditions | `pheralu` rain, `sorae` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `howenu` weather, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
+| Sky and immediate conditions | `pheralu` rain, `sileta` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `howenu` weather, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
 | Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `tokemi` fungus |
 | Relations and transformations | `menui` dwell, `nuola` eat, `lumera` nourish, `panoru` support, `lorea` connect, `selu` flow, `kelu` become, `thuroa` grow, `lumeo` die, `nuri` cycle, `turema` return |
 | Care and renewal | `theama` care, `shorupo` protect, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |

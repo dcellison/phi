@@ -47,7 +47,7 @@ This honesty serves communication. A listener who hears *ti* knows not to ask "H
 
 Not every secondhand claim needs to be marked. For general knowledge or well-established facts, evidential marking may be unnecessary:
 
-**sorae ru whalo nai.** — The sun is very large.
+**sileta ru whalo nai.** — The sun is very large.
 
 This is technically something you learned from others (unless you measured it yourself), but marking it with *ti* would be odd. Use *ti* for information where the secondhand nature matters.
 

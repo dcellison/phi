@@ -245,19 +245,19 @@ This independent scenario tests whether the problems in the water-device discuss
 Source records outside Phi: technical reading `48 V`; technical term `feedback loop`.
 
 ```
-A: ha sorae kenua keli sila panoru.
+A: ha sileta kenua keli sila panoru.
 PROX sun energy device community support.
 (This solar-energy device supports the community.)
 
-B: ha sorae kenua keli ha masue phelona.
+B: ha sileta kenua keli ha masue phelona.
 PROX sun energy device PROX measure require.
 (This solar-energy device requires this measurement.)
 
-A: ha sorae kenua keli ha masue phelu.
+A: ha sileta kenua keli ha masue phelu.
 PROX sun energy device PROX measure hold.
 (This solar-energy device has this measurement.)
 
-A: thelao ha sorae kenua keli welao nai.
+A: thelao ha sileta kenua keli welao nai.
 CONS PROX sun energy device good be.
 (Therefore, this solar-energy device is functioning well.)
 
@@ -265,7 +265,7 @@ B: mia ma nawo.
 1SG NEG agree.
 (I do not agree.)
 
-B: phisu ha sorae kenua keli ha masue phelu. whekai ha sorae kenua keli po ma welao nai.
+B: phisu ha sileta kenua keli ha masue phelu. whekai ha sileta kenua keli po ma welao nai.
 EXMP PROX sun energy device PROX measure hold. CONTR PROX sun energy device POT NEG good be.
 (For example, this solar-energy device has this measurement and yet may not function well.)
 
@@ -289,7 +289,7 @@ A: pi no ha phelui reo lilea.
 POL IMP PROX word meaning clarify.
 (Please clarify the meaning of this term.)
 
-B: sorae kenua ha keli lorea. ha keli sila lorea. sila sorae kenua lorea.
+B: sileta kenua ha keli lorea. ha keli sila lorea. sila sileta kenua lorea.
 sun energy PROX device connect. PROX device community connect. community sun energy connect.
 (Solar energy connects to this device. This device connects to the community. The community connects to solar energy.)
 

@@ -55,7 +55,7 @@ mia theo nela thia sheluo.
 ```
 
 ```
-sorae sulae nai nela howeli phaelu nai.
+sileta sulae nai nela howeli phaelu nai.
 sun warm be COORD wind peaceful be.
 (The sun is warm, and the wind is peaceful.)
 ```

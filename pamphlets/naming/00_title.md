@@ -2,14 +2,14 @@
 
 ## A practice companion to the manual
 
-A Phi name is one token announced by `ne`. It may be an ordinary content word someone bears (*warm*, *joy*, *seed*) or a single Phi-shaped onym someone chooses without adding it to the dictionary. Longer, multi-token, non-Phi-shaped, and source-script names remain outside Phi passages unless their bearer or naming community accepts a valid adaptation.
+A Phi name is one token announced by `ne`. It may be an ordinary content word someone bears (*warm*, *joy*, *seed*) or a single Phi-shaped onym someone chooses without adding it to the dictionary. Names with five or more syllables, multiple tokens, non-Phi shapes, and source-script forms remain outside Phi passages unless their bearer or naming community accepts a valid adaptation.
 
 Two skills interleave throughout. The first is mechanical: placing `ne`, `kona`, and the honorifics in their fixed order, at speaking pace, without thought. The second is the one Phi actually cares about: telling the truth with them: announcing only the relationships you have, resting a name only where presence has earned it, and never once making a person taller than the words around them.
 
 By the end of this pamphlet, you will:
 
 - Hear the difference between a word and a name at the speed of a single particle
-- Assemble and validate a personal two- or three-syllable Phi-form name without inventing a dictionary meaning for it
+- Assemble and validate a personal Phi-form name of two, three, or four syllables without inventing a dictionary meaning for it
 - Introduce yourself with the `nomei` formula, introduce someone else, and ask a name back
 - Call to someone by name, by role, or with nothing but the call itself
 - Choose among `sa`, `ni`, and `le` honestly, or decline all three without coldness

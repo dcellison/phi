@@ -23,7 +23,7 @@ ANT 1SG listen 1SG prepare.
 ```
 
 ```
-pheo sorae to kamo lo peloru thuroa.
+pheo sileta to kamo lo peloru thuroa.
 POST sun PST arrive PL flower grow.
 (After the sun arrived the flowers grow.)
 ```

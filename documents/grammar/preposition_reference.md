@@ -29,7 +29,7 @@ Prepositions over clauses are the four clause-relators `lao` (BECAUSE), `pheo` (
 |---|---|---|---|
 | `kau` | ALL | to, the goal of motion (arrival promised) | `mia kau silawo wepu.` (I go to the village.) |
 | `lue` | ABL | from, source | `melu lue nitho shua.` (The friend comes from the north.) |
-| `wea` | TOWARD | toward, without promised arrival | `mia wea sorae thorui thalo.` (I walk toward the east.) |
+| `wea` | TOWARD | toward, without promised arrival | `mia wea sileta thorui thalo.` (I walk toward the east.) |
 | `phei` | AWAY | away from, receding | `lohau phei thero thalo.` (The dog walks away from the fire.) |
 | `muo` | INTO | into, entering | `mia muo shelira wepu.` (I go into the forest.) |
 | `mue` | OUT.OF | out of, exiting | `mia mue womu wepu.` (I go out of the house.) |
@@ -68,4 +68,4 @@ With the day-cycle nouns these are Phi's time-telling; see the natural-clock rul
 
 ## The compass, for reference
 
-Direction words are nouns, not prepositions, and ride inside preposition phrases: `nitho` (north) and `ronua` (south) are atomic and value-neutral; east and west are the registry compounds `sorae thorui` and `sorae lumae`, anchored to the sun because no sun-anchor is hemisphere-neutral for north and south. Usage: `wea nitho` (northward), `lue ronua` (from the south), `mua sorae thorui` (in the east).
+Direction words are nouns, not prepositions, and ride inside preposition phrases: `nitho` (north) and `ronua` (south) are atomic and value-neutral; east and west are the registry compounds `sileta thorui` and `sileta lumae`, anchored to the sun because no sun-anchor is hemisphere-neutral for north and south. Usage: `wea nitho` (northward), `lue ronua` (from the south), `mua sileta thorui` (in the east).

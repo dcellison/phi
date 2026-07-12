@@ -35,7 +35,7 @@ Canon makes the closers required, and the complementizers pamphlet drills them t
 Coordination needs no comma because the conjunction is the boundary (manual ch17): the first clause's verb arrives, the door closes, and `nela`, `thona`, or `sola` announces another clause is coming.
 
 ```
-sorae sulae nai nela howeli phaelu nai.
+sileta sulae nai nela howeli phaelu nai.
 sun warm be COORD wind peaceful be.
 (The sun is warm, and the wind is peaceful.)
 ```

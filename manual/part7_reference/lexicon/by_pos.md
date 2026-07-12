@@ -665,6 +665,7 @@
 | `silawo` | village | Village |
 | `sileo` | silk | Silk |
 | `silero` | star | Star |
+| `sileta` | sun | Sun |
 | `sima` | thread | Thread |
 | `siru` | marker | Marker |
 | `sitawi` | inventory | Inventory |
@@ -675,7 +676,6 @@
 | `soleha` | luck | Luck |
 | `soneho` | tradeoff | Tradeoff |
 | `sophae` | cotton | Cotton |
-| `sorae` | sun | Sun |
 | `sorai` | insight | Insight |
 | `sorui` | circle | Circle |
 | `suilo` | dew | Dew |
@@ -826,7 +826,7 @@
 | `ma` | NEG | Not |
 | `mo` | CMPR | More |
 | `na` | NEC | Must |
-| `ne` | NAME | Proper name atom marker |
+| `ne` | NAME | Proper Name Marker |
 | `ni` | HON.INTIM | Beloved |
 | `no` | IMP | Request |
 | `nu` | ORD | Ordinal Particle |

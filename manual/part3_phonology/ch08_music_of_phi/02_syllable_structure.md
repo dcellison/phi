@@ -19,7 +19,7 @@ Boundaries fall before each consonant and between adjacent vowels:
 | `thesua` | the.su.a | u.a is hiatus |
 | `thomari` | tho.ma.ri | courage, three even steps |
 
-Counting syllables is therefore trivial: count the vowels. `phelona` (require) has three vowels (e, o, a), so three syllables: `phe.lo.na`. Current Phi words have no more than three syllables; the finite migration ledger temporarily records inherited longer forms until their replacements are complete.
+Counting syllables is therefore trivial: count the vowels. `phelona` (require) has three vowels (e, o, a), so three syllables: `phe.lo.na`. Vocabulary words stop at three syllables. Productive names may have four because they designate a particular bearer rather than joining the shared lexicon.
 
 ## Two more word-level rules
 

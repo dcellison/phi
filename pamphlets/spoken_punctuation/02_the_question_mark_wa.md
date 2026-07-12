@@ -35,7 +35,7 @@ thia nomei hina nai.
 Even embedded, the question mark stays a word. The pair `wela … welo` wraps an embedded yes/no question (ch19 §2; the complementizers pamphlet drills it), and an embedded content question needs only its gap-word:
 
 ```
-mia wela sorae sulae nai welo nila.
+mia wela sileta sulae nai welo nila.
 1SG INT.COMP sun warm be INT.COMP.CLOSE see.
 (I see whether the sun is warm.)
 

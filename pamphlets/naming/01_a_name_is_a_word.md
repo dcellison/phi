@@ -32,7 +32,7 @@ Nothing about the syllables changed. What changed is the sentence's population: 
 
 ### What follows from this
 
-The word remains in the dictionary with its ordinary meaning. `ne` selects its proper-name reading. Any listed content word may be borne this way; function words and grammatical boundaries are reserved.
+The word remains in the dictionary with its ordinary meaning. `ne` selects its proper-name reading. Any listed content word may be borne this way; a current function or other non-content word cannot also be a name.
 
 ## A productive Phi-form name
 
@@ -44,9 +44,9 @@ mia nomei ne samira nai.
 (My name is samira.)
 ```
 
-`samira` has three legal open syllables, begins with a Phi onset, stays lowercase, and duplicates no syllable. It has no dictionary gloss or part of speech. A bearer may hold personal associations with its sounds, but listeners cannot treat those associations as shared lexical meaning. Outside an established conversational context, bare `samira` is not a Phi word; `ne` is what licenses it as a proper designation.
+`samira` has three legal open syllables, begins with a Phi onset, stays lowercase, and duplicates no syllable. It has no dictionary gloss or part of speech. The four-syllable `saweriko` is equally valid because an onym is a designation, not a shared vocabulary item. A bearer may hold personal associations with either form, but listeners cannot treat those associations as shared lexical meaning. Outside an established conversational context, a bare productive onym is not a Phi word; `ne` is what licenses it as a proper designation.
 
-The charter is deliberately narrow: one token, two or three syllables, ordinary Phi phonotactics, and no duplicated syllable with an onset. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
+The charter is deliberately narrow: one token, two, three, or four syllables, ordinary Phi phonotactics, and no duplicated syllable with an onset. The form does not enter the minimal-pair baseline because names are an open class. Similar or shared names are clarified in conversation rather than solved by pretending every person can have a globally unique word.
 
 ## A preferred source name
 

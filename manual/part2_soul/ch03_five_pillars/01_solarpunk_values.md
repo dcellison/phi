@@ -34,6 +34,6 @@ Phi treats goodness (`welao`) and beauty (`phelora`) as deeply connected. Things
 
 Phi is a language for the people doing this work: builders, gardeners, organizers.
 
-The word for tool, `tenoa`, names something designed for human hands and human understanding. The sun, `sorae`, provides brightness (`keru`) and energy (`kenua`) as common gift, not scarce commodity.
+The word for tool, `tenoa`, names something designed for human hands and human understanding. The sun, `sileta`, provides brightness (`keru`) and energy (`kenua`) as common gift, not scarce commodity.
 
 This is a language for a world that's thriving, not just surviving.

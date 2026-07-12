@@ -52,7 +52,7 @@
 > **ta nophe philo. wi nophe philo. ta shao nophe philo.**
 > lopia: **wireo philo. wa lo mia mua silawo nai.**
 > phao: **tua. lo mia mua womu so nai.**
-> **lo mia kau womu wepu. sorae lepa.**
+> **lo mia kau womu wepu. sileta lepa.**
 
 | new word | say it | it means |
 |---|---|---|

@@ -24,7 +24,7 @@ NAME HON.ROLE siora FUT come.
 
 ## Placement
 
-Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. Formal, neutral, and portable speech keeps `ne` (`ne keruko`, `ne ni moli`). Once a referent is established, conversational speech may let either the honorific (`kona ni moli`) or unambiguous context (`sulae shua`) carry the expectation. The primer's household uses that shorter pattern at its table, but the license comes from established discourse rather than a grammatical measure of intimacy or presence. Keeping `ne` is correct in every register. Productive unlisted name-forms use `ne` in machine-validated writing so the validator never has to guess whether an unknown token is a name.
+Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. Formal, neutral, and portable speech keeps `ne` (`ne keruko`, `ne ni moli`). Once a referent is established, conversational speech may let either the honorific (`kona ni moli`) or unambiguous context (`sulae shua`) carry the expectation. The primer's household uses that shorter pattern at its table, but the license comes from established discourse rather than a grammatical measure of intimacy or presence. Keeping `ne` is correct in every register. Productive name-forms absent from the current lexicon use `ne` in machine-validated writing so the validator never has to guess whether an unknown token is a name.
 
 ## Relationship, not rank
 

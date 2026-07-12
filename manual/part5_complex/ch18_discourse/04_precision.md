@@ -43,7 +43,7 @@ Where `phisu` (for example) introduces one case among many possible illustration
 `shelao` signals that what follows distills or concludes the preceding discussion. It is Phi's "in summary," "to conclude," "in short."
 
 ```
-sorae sulae nai. lo peloru thuroa. luphore phaelu nai. shelao shelira welao nai.
+sileta sulae nai. lo peloru thuroa. luphore phaelu nai. shelao shelira welao nai.
 sun warm be. PL flower grow. river peaceful be. SUMM forest good be.
 (The sun is warm. The flowers grow. The river is peaceful. In summary the forest is good.)
 ```

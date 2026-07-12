@@ -829,6 +829,7 @@
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |
 | `silero` | star | /si.ˈle̞.ro̞/ | noun |
+| `sileta` | sun | /si.ˈle̞.t̪ä/ | noun |
 | `siloma` | simple | /si.ˈlo̞.mä/ | adjective |
 | `sima` | thread | /ˈsi.mä/ | noun |
 | `simoe` | rich | /si.ˈmo̞.e̞/ | adjective |
@@ -860,7 +861,6 @@
 | `soneho` | tradeoff | /so̞.ˈn̪e̞.ho̞/ | noun |
 | `sonu` | alone | /ˈso̞.n̪u/ | adjective |
 | `sophae` | cotton | /so̞.ˈɸä.e̞/ | noun |
-| `sorae` | sun | /so̞.ˈrä.e̞/ | noun |
 | `sorai` | insight | /so̞.ˈrä.i/ | noun |
 | `soranu` | screen | /so̞.ˈrä.n̪u/ | verb |
 | `sorila` | cultivate | /so̞.ˈri.lä/ | verb |

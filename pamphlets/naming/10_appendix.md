@@ -15,16 +15,16 @@
 - Call by name: `kona [ne] [honorific] [name].` By role: `kona [role].` (no `ne`, ever, on a role)
 - The chain order: `kona`, then `ne`, then the honorific, then the name; an honorific present makes `ne` optional.
 - Introduce a content-word name: `[whose] nomei ne [content word] nai.` Example: `mia nomei ne keruko nai.`
-- Introduce a productive name: `[whose] nomei ne [two/three-syllable onym] nai.` Example: `mia nomei ne samira nai.`
-- Preserve a longer, multi-token, non-Phi-shaped, or source-script preferred name outside the Phi passage unless its bearer or naming community accepts a valid onym.
+- Introduce a productive name: `[whose] nomei ne [onym of two to four syllables] nai.` Example: `mia nomei ne samira nai.`
+- Preserve a preferred name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script outside the Phi passage unless its bearer or naming community accepts a valid onym.
 - Ask: `thia nomei hina nai.` More politely: `pi thia nomei hina nai.`
 - The call alone is a complete utterance: `kona ni moli.`
 
 ### The register rules, one line each
 
 - A Phi name token may be a listed content word or one productive Phi-form onym.
-- A productive onym is lowercase, one token, two or three legal Phi syllables, and has no lexicon meaning; every listed non-content form and every retired form is strictly reserved.
-- Validate a proposed form with `python3 scripts/validate_examples.py name FORM`; acceptance confirms shape and reservation status, not bearer consent.
+- A productive onym is lowercase, one token, has two, three, or four legal Phi syllables, and has no lexicon meaning. If it matches a current lexicon entry, that entry must be a content word; a form absent from the current lexicon follows the ordinary charter.
+- Validate a proposed form with `python3 scripts/validate_examples.py name FORM`; acceptance confirms shape and current lexical status, not bearer consent.
 - Formal, neutral, portable, and validated Phi announces every mention; conversation may omit `ne` after the referent is established and while reference remains unambiguous.
 - The primer household's threshold pattern is an optional cultural style built on that discourse license.
 - Keeping `ne` is never cold; dropping it is a license, not a duty.

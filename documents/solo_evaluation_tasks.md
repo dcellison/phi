@@ -12,7 +12,19 @@ Create twenty-four prompts divided evenly among canonical vocabulary, transparen
 
 Required prompt domains are personal names, place names, tradition-specific philosophy, source quotation, historical harmful terminology, exact time, medical quantity, scientific notation, URL or identifier, community practice, and a recurring semantic gap.
 
-For the name prompts, include a two-syllable onym, a three-syllable onym, a rejected four-syllable proposal, a multi-token source name, a non-Latin source form, two people sharing one onym, and a source name whose preferred adaptation is unknown. Repeat one chosen onym at least ten times in a short narrative and record its burden while keeping the source name separately available.
+For the name prompts, include:
+
+- Valid onyms with two, three, and four syllables
+- A five-syllable proposal that the charter rejects
+- A retired content form used as a name without its former meaning
+- A current function word that cannot also be a name
+- A former form absent from the current lexicon that follows the ordinary onym charter
+- A multi-token source name
+- A non-Latin source form
+- Two people who share one onym
+- A source name whose preferred adaptation is unknown
+
+Repeat one chosen onym at least ten times in a short narrative and record its burden while keeping the source name separately available.
 
 ## 3. Function-word boundary recognition
 

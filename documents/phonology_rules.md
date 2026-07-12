@@ -2,7 +2,7 @@
 
 This document outlines the complete and formal phonological system for the Phi language. It serves as the single source of truth for all sound-related and structural rules.
 
-These word-form rules govern every Phi lexical token and productive name-form. Canonical words have at most three syllables; productive names have two or three. The finite migration ledger temporarily identifies inherited four-syllable content words awaiting replacement and permits no new long form. Unassimilated source material remains outside Phi and is not governed by this document.
+These word-form rules govern every Phi lexical token and productive name-form. Canonical lexicon words have at most three syllables, with no exception; productive names have two, three, or four. A legal four-syllable name needs no lexical-retirement or migration check because four-syllable forms cannot enter the vocabulary. Unassimilated source material remains outside Phi and is not governed by this document.
 
 ## 1. Core Phonetic Inventories
 

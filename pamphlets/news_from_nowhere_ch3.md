@@ -831,7 +831,7 @@ shia roe manuwe wei lo mia kiroa to loa. shia thue lona lokue to phelo thalo.
 (She waved a hand to us, and stepped lightly down the hall.)
 morris: "She waved a hand to us, and stepped lightly down the hall,"
 
-sui shia wepu shia lue lo mia wonepa sorae keru phanoi to pilu. ta serao lophae roa ha kire pilu to ki thekiro.
+sui shia wepu shia lue lo mia wonepa sileta keru phanoi to pilu. ta serao lophae roa ha kire pilu to ki thekiro.
 DUR 3SG go 3SG ABL PL 1SG table sun bright portion PST take. one old storyteller AROUND PROX shape take PST PFV write.
 (As she went, she took part of the sun's light from our table; an old storyteller has written of this kind of taking.)
 morris: "taking (as Scott says) at least part of the sun from our table as she went."
@@ -993,7 +993,7 @@ morris: "\"Here, Boffin,\" he cried out, after a pause; \"here we are, if you mu
 ## ne solai — Gold
 
 ```
-mia leo talua to rato. mua rena thue lona lokue ruemi sorae keru soli thena to keru tiripe. mia ha to nila.
+mia leo talua to rato. mua rena thue lona lokue ruemi sileta keru soli thena to keru tiripe. mia ha to nila.
 1SG ABOVE shoulder PST turn. LOC REL THROUGH meeting place lie down sun bright SOME thing PST bright quiver. 1SG PROX PST see.
 (I looked over my shoulder, and saw something flash and gleam in the sunlight that lay across the hall.)
 morris: "I looked over my shoulder, and saw something flash and gleam in the sunlight that lay across the hall;"
@@ -1008,7 +1008,7 @@ shia leo wethalu roe ru sheloi solai sima to se phiro selomi.
 (His surcoat was embroidered, elegantly and most copiously, with gold thread.)
 morris: "a man whose surcoat was embroidered most copiously as well as elegantly,"
 
-thelao sorae lue shia to keru tiripe. shia phea rena roe solai wethalu se lomare miona to nai.
+thelao sileta lue shia to keru tiripe. shia phea rena roe solai wethalu se lomare miona to nai.
 CONS sun ABL 3SG PST bright quiver. 3SG AS REL INS gold garment PASS embrace person PST be.
 (So that the sun flashed back from him, as if he were a man wrapped all in garments of gold.)
 morris: "so that the sun flashed back from him as if he had been clad in golden armour."

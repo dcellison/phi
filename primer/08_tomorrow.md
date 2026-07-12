@@ -10,7 +10,7 @@
 > **lo mia muila so muholi.**
 > **lo mia wei muila thinoe so loa.**
 > **pheralu so lepa.**
-> **sorae keru so loa.**
+> **sileta keru so loa.**
 > **lo peloru so rihe.**
 
 | new word | say it | it means |
@@ -26,7 +26,7 @@
 
 *Morning. The future starts arriving:*
 
-> **sorae rihe. melu shua.**
+> **sileta rihe. melu shua.**
 > melu: **kia. wa lo mia muila so muholi.**
 > phao: **lia. whelani.**
 > **phao muila muholi. melu muila muholi.**

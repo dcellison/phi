@@ -10,16 +10,16 @@
   "pos": [
     "adjective"
   ],
-  "concept": "Yellow / Sun-Color / Bright-Hue",
-  "description": "The adjective naming the bright hue of sun, ripe grain, and flowers that face the light. In Phi, yellow carries associations with radiance, warmth, and the generous outpouring of solar energy. This word names the color of sunlight that means life-energy, of ripe wheat that means nourishment, of candle flame that means hope in darkness.",
-  "sound_symbolism": "The word opens with 'so', the same syllable as 'sorae' (sun), and the family link does the work: yellow is the sun's color. The bright 'i' of 'ri' suits the hue, and the final 'u' closes the word on a warmer, deeper note.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'soriu peloru' (yellow flower). Can describe objects, light, or the quality of brightness and warmth.",
+  "concept": "Yellow / Warm Bright Hue",
+  "description": "The adjective for yellow, the hue of ripe grain, many flowers, and lamplight. The word 'soriu' covers pale and saturated yellows; mixtures and narrower shades use the ordinary color constructions when their source matters.",
+  "sound_symbolism": "Rounded 'so' sends a fine hiss across open 'o'. The quick tongue tap of stressed 'ri' narrows toward high 'i', then the final hiatus lets that brightness sink separately into deep 'u'. The word flashes at its center and keeps a little warmth after it.",
+  "grammatical_notes": "Adjective before a noun: 'soriu peloru' (yellow flower). It may describe an object, reflected light, or a color sample; 'welisha' (color) names color itself.",
   "pillars": {
-    "solarpunk-values": "Yellow is the color of solar energy, of the sun that powers sustainable futures. 'Soriu' names the hue of abundant, renewable light.",
-    "pre-industrial-wisdom": "Yellow marked ripe grain, ready harvest, the golden abundance of successful growing. 'Soriu' carries this association with fulfilled growth."
+    "solarpunk-values": "Yellow appears on solar diagrams, warning paint, and flowers planted for pollinators. The hue can mark both gathered energy and the living systems around it.",
+    "pre-industrial-wisdom": "Ripe grain and dry straw make yellow a harvest color, read in the field before the crop reaches the hand."
   },
   "tags": {
-    "aesthetic": "visual quality of bright warmth",
-    "nature": "the color of sun and ripe grain"
+    "aesthetic": "bright warm hue",
+    "nature": "color of ripe grain and many flowers"
   }
 }

@@ -52,7 +52,7 @@ mia kua ne sulae nai ma sano.
 (I do not know where sulae is.)
 ```
 
-Productive unlisted name-forms especially keep the marker in validated text. `samira` has no dictionary entry, so the validator needs `ne samira` to distinguish an intentional onym from an accidental unknown word. Conversation can use a bare established form because human listeners carry discourse state; the repository validator deliberately does not guess it.
+Productive name-forms absent from the current lexicon especially keep the marker in validated text. `samira` has no dictionary entry, so the validator needs `ne samira` to distinguish an intentional onym from an accidental unknown word. Conversation can use a bare established form because human listeners carry discourse state; the repository validator deliberately does not guess it.
 
 ## Remembered and absent people
 

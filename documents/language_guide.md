@@ -49,7 +49,7 @@ Phi's vocabulary is designed to reflect an interconnected worldview. Rather than
 Phi is designed to build complex ideas from simple, core concepts. Rather than creating a unique word for every possible noun, the language encourages the creation of intuitive compounds that are instantly understandable.
 
 - **Example: The concept of "east"**
-  - Rather than coining an atomic direction, Phi composes `sorae thorui`: the sun's beginning.
+  - Rather than coining an atomic direction, Phi composes `sileta thorui`: the sun's beginning.
   - The expression keeps its natural anchor visible instead of asking the learner to memorize another root.
   - Composition can reduce arbitrary vocabulary and expose Phi's analysis, though whether it is easier to learn remains an empirical question.
 

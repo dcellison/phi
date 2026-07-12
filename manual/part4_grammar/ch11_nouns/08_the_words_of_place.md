@@ -8,8 +8,8 @@ Chapter 13 §5 gives you here and there (*ha* and *ra*, standing alone with *nai
 |-----|-------|---------------|
 | *nitho* | north | atomic, value-neutral |
 | *ronua* | south | atomic, value-neutral |
-| *sorae thorui* | sun's beginning | east |
-| *sorae lumae* | sun's end | west |
+| *sileta thorui* | sun's beginning | east |
+| *sileta lumae* | sun's end | west |
 
 East and west compose from the sun because everyone on Earth agrees where it rises; north and south are their own words because no sun-anchor is hemisphere-neutral. All four are ordinary nouns, value-neutral by design: north is not up, south is not down, and no direction outranks another. They ride inside preposition phrases like any noun:
 
@@ -20,7 +20,7 @@ friend ABL north come.
 ```
 
 ```
-mia wea sorae thorui thalo.
+mia wea sileta thorui thalo.
 1SG TOWARD sun beginning walk.
 (I walk toward the east.)
 ```

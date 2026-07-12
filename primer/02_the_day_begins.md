@@ -1,10 +1,10 @@
-# 2 · sorae rihe
+# 2 · sileta rihe
 
 *Chapter one told you what things are. This chapter shows what they do. One shape carries all of it: the doer first, then (if something is acted on) the acted-on, and the doing itself always last. The verb closes the sentence the way* nai *did. Wait for it; that waiting is the language.*
 
 ## I
 
-> **sorae rihe.**
+> **sileta rihe.**
 > **lopia rihe.**
 > **phao rihe.**
 > **lohau rihe.**
@@ -12,7 +12,7 @@
 
 | new word | say it | it means |
 |---|---|---|
-| sorae | so · ra · e | sun |
+| sileta | si · le · ta | sun |
 | rihe | ri · he | rise |
 | nulae | nu · la · e | sleep |
 

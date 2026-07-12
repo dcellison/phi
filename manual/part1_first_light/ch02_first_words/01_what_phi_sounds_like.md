@@ -22,8 +22,7 @@ Here are a few more:
 **phialu** (water)  
 *fee-ah-loo*. Flowing from breath to depth, the sound of water itself.
 
-**sorae** (sun)  
-*so-rah-eh*. Radiant as light streaming.
+**sileta** (sun), *see-leh-tah*. The middle flows, and the final *a* opens like warmth reaching skin.
 
 Do you hear it? Phi was designed to sound peaceful: no guttural sounds, no clusters, nothing to bark. The language leans toward calm: these syllables are hard to spit and easy to flow. Anger will still find a way; anger always does. But the sounds will not help it.
 

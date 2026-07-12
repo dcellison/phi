@@ -71,6 +71,7 @@ MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "minimal_pairs_baseline.txt"
 FOUR_SYLLABLE_MIGRATION_FILE = (
     PROJECT_ROOT / "documents" / "four_syllable_migration.tsv"
 )
+RETIRED_FORMS_FILE = PROJECT_ROOT / "documents" / "retired_forms.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
@@ -136,13 +137,11 @@ def load_four_syllable_migration():
         seen.add(old_form)
         if row["scope"] not in MIGRATION_SCOPES:
             errors.append(f"{prefix}: unknown migration scope '{row['scope']}'")
-        if status not in {"pending", "replaced"}:
-            errors.append(f"{prefix}: status must be pending or replaced")
-        elif status == "pending" and new_form != "-":
-            errors.append(f"{prefix}: pending row must use '-' for new_form")
-        elif status == "replaced" and new_form == "-":
+        if status != "replaced":
+            errors.append(f"{prefix}: completed ledger row must be replaced")
+        elif new_form == "-":
             errors.append(f"{prefix}: replaced row must name its new form")
-        elif status == "replaced":
+        else:
             if new_form in seen_replacements:
                 errors.append(f"{prefix}: duplicate replacement '{new_form}'")
             seen_replacements.add(new_form)
@@ -150,11 +149,19 @@ def load_four_syllable_migration():
 
 
 FOUR_SYLLABLE_MIGRATION, MIGRATION_ERRORS = load_four_syllable_migration()
-PENDING_FOUR_SYLLABLE_FORMS = frozenset(
-    row["old_form"]
-    for row in FOUR_SYLLABLE_MIGRATION
-    if row["status"] == "pending"
-)
+
+
+def load_retired_forms():
+    """Return short forms barred from lexical reassignment."""
+    forms = set()
+    for raw in RETIRED_FORMS_FILE.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if line and not line.startswith("#"):
+            forms.add(line.split()[0])
+    return frozenset(forms)
+
+
+RETIRED_FORMS = load_retired_forms()
 
 REQUIRED_FIELDS = [
     "word", "gloss", "ipa", "syllables", "pos", "concept",
@@ -365,7 +372,7 @@ def name_atom_errors(token, lexicon_words, content_words):
     if token in lexicon_words:
         if token in content_words:
             return []
-        return ["is a reserved function or non-content word"]
+        return ["matches a current function or non-content word"]
     return name_forms.form_errors(token)
 
 
@@ -450,7 +457,7 @@ def check_lexicon(entries):
                     f"in {field}"
                 )
 
-        if word in name_forms.RETIRED_FORMS:
+        if word in RETIRED_FORMS:
             errors.append(f"{rel}: word '{word}' is a retired Phi form")
 
         for field in REQUIRED_FIELDS:
@@ -471,11 +478,10 @@ def check_lexicon(entries):
 
         canonical = syllabify(word)
         stored = data.get("syllables")
-        if (canonical is not None and len(canonical) > 3
-                and word not in PENDING_FOUR_SYLLABLE_FORMS):
+        if canonical is not None and len(canonical) > 3:
             errors.append(
-                f"{rel}: word '{word}' exceeds the three-syllable ceiling "
-                "and is not in the finite migration ledger"
+                f"{rel}: word '{word}' exceeds the universal "
+                "three-syllable lexical ceiling"
             )
         if canonical is not None and stored is not None and stored != canonical:
             errors.append(
@@ -698,11 +704,15 @@ def check_lexicon(entries):
             errors.append(
                 f"DUPLICATE WORD '{word}' in: " + "; ".join(str(f) for f in files)
             )
-    stale_pending = PENDING_FOUR_SYLLABLE_FORMS - set(by_word)
-    if stale_pending:
+    redundant_long_retirements = sorted(
+        form for form in RETIRED_FORMS
+        if len(syllabify(form) or []) > 3
+    )
+    if redundant_long_retirements:
         errors.append(
-            "four-syllable migration ledger has pending forms absent from "
-            f"the lexicon: {sorted(stale_pending)}"
+            "retired_forms.txt must not list four-syllable forms; the "
+            "universal lexical ceiling already excludes them: "
+            f"{redundant_long_retirements}"
         )
     for row in FOUR_SYLLABLE_MIGRATION:
         old_form = row["old_form"]
@@ -712,17 +722,10 @@ def check_lexicon(entries):
                 "four-syllable migration ledger old form must contain "
                 f"exactly four Phi syllables: '{old_form}'"
             )
-        if row["status"] != "replaced":
-            continue
         new_form = row["new_form"]
         if old_form in by_word:
             errors.append(
                 f"replaced migration form remains in the lexicon: '{old_form}'"
-            )
-        if old_form not in name_forms.RETIRED_FORMS:
-            errors.append(
-                "replaced migration form is missing from retired_forms.txt: "
-                f"'{old_form}'"
             )
         if new_form not in by_word:
             errors.append(
@@ -933,7 +936,8 @@ def phi_tokens(raw_line):
 
 
 # Household-corpus words that recur as names and gloss as themselves when
-# used bare. Productive unlisted onyms are handled structurally after `ne`;
+# used bare. Productive onyms absent from the current lexicon are handled
+# structurally after `ne`;
 # they do not belong in this set.
 NAMES = {"sulae", "siora", "keruko", "thinoe", "misheko", "lohau"}
 HONORIFIC_GLOSSES = {"HON.RESPECT", "HON.INTIM", "HON.ROLE"}
@@ -944,7 +948,7 @@ def expected_gloss_stream(phi_line, gloss_of):
     acceptable-token sets: each word's lexicon gloss verbatim with
     parenthetical disambiguators dropped (the gloss-lines ruling); a
     name after 'ne' or an honorific glossing as itself; a productive
-    unlisted onym after the marker also glossing as itself; and a bare
+    onym absent from the current lexicon also glossing as itself; and a bare
     register name glossing as itself or as its word. None if any other
     token is unknown — those are reported by the unknown-word check."""
     out = []

@@ -49,7 +49,7 @@ mia to theo thona to ma shelomu.
 ```
 
 ```
-sorae sulae nai thona howeli pelui nai.
+sileta sulae nai thona howeli pelui nai.
 sun warm be ADVRS wind cold be.
 (The sun is warm, but the wind is cold.)
 ```

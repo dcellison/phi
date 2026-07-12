@@ -11,4 +11,4 @@
 | Translation | Show the source separately and label the Phi rendering as a translation |
 | Verbatim Phi speech | Use `shola ... sholo` |
 
-The old guest and exact boundary forms are retired and cannot be reused as vocabulary or productive names. Separate presentation marks a language boundary, not approval, stigma, or imprecision.
+A name may match a current lexicon entry only when that entry is a content word. A form absent from the current lexicon follows the ordinary onym charter. Separate presentation marks a language boundary, not approval, stigma, or imprecision.

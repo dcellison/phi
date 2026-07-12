@@ -92,7 +92,7 @@ Quotative embedding works with verbs of speaking and communication:
 ### Saying
 
 ```
-shia shola sorae phelora nai sholo to haolu
+shia shola sileta phelora nai sholo to haolu
 3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE PST speak
 (They said: "The sun is beautiful.")
 ```
@@ -146,7 +146,7 @@ shia shola shewo sholo to haolu
 ### Phrases
 
 ```
-melu shola phelora sorae sholo to haolu
+melu shola phelora sileta sholo to haolu
 friend QUOT.COMP beautiful sun QUOT.COMP.CLOSE PST speak
 (The friend said: "Beautiful sun.")
 ```

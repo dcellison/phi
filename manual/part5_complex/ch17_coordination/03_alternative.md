@@ -29,7 +29,7 @@ Q 2SG read DISJ listen.
 ```
 
 ```
-wa sorae sulae nai sola howeli pelui nai.
+wa sileta sulae nai sola howeli pelui nai.
 Q sun warm be DISJ wind cold be.
 (Is the sun warm or the wind cold?)
 ```

@@ -1,4 +1,4 @@
-# nitho howeli nela sorae — The North Wind and the Sun
+# nitho howeli nela sileta — The North Wind and the Sun
 
 *Aesop's fable of the wind, the sun, and the traveler's cloak is the story linguists traditionally use to display a language's sounds and structures. Beside the Metta Sutta, it opens another side of Phi. Past-tense narration carries a sequence of events; dialogue brings causation, indirect questions, and comparison. The text here is transmuted from the 1919 Aesop for Children. `whuo lureko`, without fruit, carries "in vain" and the moral alike. The famous correlative ("the harder... the tighter...") becomes paired `mo` sentences because Phi has no correlatives by design. Phi's lexical boundaries change the telling without thinning it: the quarrel cools to `shareo` (discuss), no generic verb for winning or losing enters the moral, and the result is known by its fruit.*
 
@@ -9,7 +9,7 @@
 ## shareo — The quarrel
 
 ```
-nitho howeli nela sorae sua mo kema nai to shareo.
+nitho howeli nela sileta sua mo kema nai to shareo.
 north wind COORD sun who CMPR strong be PST discuss.
 (The North Wind and the Sun discussed who was the stronger.)
 aesop: "The North Wind and the Sun had a quarrel about which of them was the stronger."
@@ -35,7 +35,7 @@ aesop: "wrapped in a cloak."
 ## nawo — The wager
 
 ```
-sorae shola su lo mia nawo sholo to haolu.
+sileta shola su lo mia nawo sholo to haolu.
 sun QUOT.COMP OPT PL 1SG agree QUOT.COMP.CLOSE PST speak.
 (The Sun said: "Let us agree.")
 aesop: "\"Let us agree,\" said the Sun,"
@@ -89,10 +89,10 @@ aesop: "but all his efforts were in vain."
 
 **Notes:** the whipping cloak ends ride `tiripe`, the quiver verb, because cloth in a gale makes exactly the fast, involuntary motion the word describes. The traveler answers with `noshi phelu`, holding near, the steady pressure of a close grip. Phi has no correlative construction, so the famous escalation takes two parallel `mo` sentences: the wind more strongly blew, the person more strongly held. The blowing itself is `whesu`, the wind's own verb. The Wind's anger is the registry's `korua thero`, heart fire, carried as the instrument of `natu` (pull). The source's "all his efforts" is `theula rena shia to phoa`, all that he did. Neither `theko` (craft) nor `riola` (labor) fits work aimed at tearing away a cloak. The result is `whuo lureko`, without fruit, the phrase the moral uses again.
 
-## sorae — The sun
+## sileta — The sun
 
 ```
-pheo thena sorae to pa keru loa.
+pheo thena sileta to pa keru loa.
 POST thing sun PST INCH bright give.
 (Then the Sun began to give light.)
 aesop: "Then the Sun began to shine."
@@ -117,7 +117,7 @@ garment ON 3SG shoulder PST flexible stay.
 (It stayed loose upon his shoulders.)
 aesop: "and let it hang loosely from his shoulders."
 
-sorae keru loa mo sulae to kelu. shia mo sulae to kelu.
+sileta keru loa mo sulae to kelu. shia mo sulae to kelu.
 sun bright give CMPR warm PST become. 3SG CMPR warm PST become.
 (The sun's light grew warmer, and warmer again.)
 aesop: "The Sun's rays grew warmer and warmer."
@@ -132,7 +132,7 @@ POST long moment 3SG INTS warm PST become. CONS 3SG REFL garment PST release.
 (At last he became so heated that he released his cloak.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-shia phei rena thape sorae keru loa to wepu.
+shia phei rena thape sileta keru loa to wepu.
 3SG AWAY REL burn sun bright give PST go.
 (He went away from the sun's burning light.)
 aesop: "and, to escape the blazing sunshine,"
@@ -166,15 +166,15 @@ aesop: "where force and bluster fail."
 ## The complete text
 
 ```
-nitho howeli nela sorae
+nitho howeli nela sileta
 
-nitho howeli nela sorae sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
+nitho howeli nela sileta sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
-sorae shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. shia nosa wea laniru miona ta pelui theisa howeli to sepho.
+sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. shia nosa wea laniru miona ta pelui theisa howeli to sepho.
 
 roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia nosa roa miso wethalu to noshi phelu. howeli mo kema to whesu. miona wethalu mo kema to phelu. nitho howeli roe korua thero wethalu to natu. whekai theula rena shia to phoa whuo lureko to nai.
 
-pheo thena sorae to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. wethalu nia shia talua to luwi manolu. sorae keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro. shia phei rena thape sorae keru loa to wepu. sio ruela ta shiro to whano. miona muo rena whelani shomelu miso to wapho.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. wethalu nia shia talua to luwi manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro. shia phei rena thape sileta keru loa to wepu. sio ruela ta shiro to whano. miona muo rena whelani shomelu miso to wapho.
 
 moli nela phena haolu lureko thola. puro nela theisa whuo lureko nai.
 ```

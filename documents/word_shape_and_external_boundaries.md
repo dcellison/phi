@@ -2,21 +2,23 @@
 
 ## Summary
 
-Phi no longer needs four-syllable words or guest/exact boundary frames. The language has enough usable word space in one-, two-, and three-syllable forms, and vocabulary modules now provide a cleaner way to expand domain coverage without giving Phi an unlimited escape hatch.
+Phi no longer needs four-syllable lexicon words or guest/exact boundary frames. The language has enough usable vocabulary space in one-, two-, and three-syllable forms, and vocabulary modules now provide a cleaner way to expand domain coverage without giving Phi an unlimited escape hatch. Productive names remain a separate open class and may have four syllables.
 
 The combined direction is simple: Phi should have a firmer edge. It can expand through curated vocabulary, transparent compounds, modules, and productive Phi-shaped names, but it does not need to absorb every outside string as if the string had become Phi.
 
-## Decision 1: No Four-Syllable Phi Words
+## Decision 1: No four-syllable lexicon words
 
-Every canonical Phi lexicon entry is limited to one, two, or three syllables. Module words receive no exception. Productive name-forms after `ne` are limited to two or three syllables. Multiword expressions may be longer in total, but every Phi token within them obeys the same lexical ceiling.
+Every canonical Phi lexicon entry is limited to one, two, or three syllables. Module words receive no exception. Productive name-forms after `ne` may have two, three, or four syllables because they are proper designations rather than lexical entries. Multiword expressions may be longer in total, but every lexical token within them obeys the three-syllable ceiling.
 
-All existing four-syllable entries will be removed from current Phi rather than retained as aliases. The migration is divided into reviewable stages so each replacement can preserve meaning, sound symbolism, lexical relationships, and listening contrast. Staging controls implementation risk; it does not weaken the destination or indefinitely grandfather any form.
+All 112 inherited four-syllable entries have been replaced rather than retained as aliases. The migration ledger preserves each old-to-new mapping as project history, but it grants no lexical exception and reserves no name.
 
 The capacity argument supports the rule. With the current phonotactic constraints, Phi has 376,740 legal three-syllable forms. After applying the practical close-neighbor gate for content coinage, plus exact duplicate blocking across the lexicon, about 355,428 three-syllable forms remain available. That excludes the remaining two-syllable space, which should stay premium territory for grammar, very basic vocabulary, and compact high-frequency forms.
 
 The stronger reason is cognitive and aesthetic. Three syllables are enough for ordinary content words while keeping Phi compact, speakable, and easy to scan by ear. Four-syllable roots make the lexicon feel less disciplined, especially when compounds and modules can already carry heavier semantic work.
 
-The productive-name charter follows the same ceiling. A bearer-approved Phi-form adaptation may have two or three syllables; a longer or otherwise non-Phi preferred name remains outside the Phi passage rather than receiving an exception.
+The productive-name charter answers a different need. A bearer-approved Phi-form adaptation may have two, three, or four syllables without adding a word to the shared vocabulary. Every otherwise valid four-syllable form is available here automatically; the lexical ceiling does not turn old vocabulary forms into forbidden names. A name with five or more syllables, multiple tokens, or a non-Phi shape remains outside the Phi passage unless its bearer accepts another valid adaptation.
+
+Lexical retirement and name eligibility are also separate. A retired shorter form cannot return to the dictionary or recover its old role through use as a name, but its sound shape remains available to a bearer. Four-syllable forms need no retirement record because the lexical ceiling excludes the entire class. If a name matches a current lexicon entry, that entry must be a content word; forms absent from the current lexicon follow the ordinary onym charter regardless of their history.
 
 ## Decision 2: Remove Guest and Exact Frames
 
@@ -36,7 +38,7 @@ Vocabulary modules change the tradeoff. Instead of saying that Phi can carry any
 
 This is not a loss of precision. It is a change in where precision lives. A medical dosage, legal clause, species name, URL, historical term, or source quotation can still be preserved in the document, interface, citation, or conversation. Phi can point to it, describe it, contextualize it, or translate its role, but it should not pretend that the source payload has become part of Phi.
 
-## Replacement Behavior
+## Replacement behavior
 
 For names, prefer `ne` plus a productive Phi-shaped onym when the bearer or naming community accepts the form. If the preferred form is not Phi-shaped, keep the source name outside the Phi run and use ordinary surrounding-language or typographic convention.
 
@@ -46,9 +48,9 @@ For source-form exact values, identifiers, formulas, source quotations, legal wo
 
 For alternate scripts such as Tengwar, this avoids mixed-mode failure. A Phi passage in Tengwar remains Phi. Non-Phi source material appears as non-Phi source material, not as an opaque object smuggled through Phi boundary words.
 
-## Implementation Implications
+## Implementation implications
 
-Remove `hasha`, `hasho`, `patha`, and `patho` from the lexicon and grammar references. Keep them on the retired-form denylist so neither the lexicon nor productive-name mechanism can reassign them.
+Remove `hasha`, `hasho`, `patha`, and `patho` from the lexicon and grammar references. Keep them on the lexical retirement list so they cannot recover their former grammatical roles. They need no separate name restriction because forms absent from the current lexicon are judged by the ordinary onym charter.
 
 Retire the external-register validator path, including guest payload validation, exact payload masking, closer escaping, and external-frame tests.
 
@@ -58,9 +60,9 @@ Revise the name-form documentation so it no longer presents guest or exact frame
 
 Keep `shola ... sholo` conceptually separate. It quotes Phi speech as Phi speech; it is not an external-material container.
 
-Add a word-shape gate to the coinage workflow: every lexicon proposal must fit the one-, two-, or three-syllable system, with three syllables as the normal maximum for content vocabulary. During the staged purge, only entries recorded in the finite migration ledger may remain longer; the final stage removes that temporary allowance.
+Keep a word-shape gate in the coinage workflow: every lexicon proposal must fit the one-, two-, or three-syllable system, with three syllables as the absolute maximum for content vocabulary. The completed migration ledger records replacements but creates no exception to this gate.
 
-## Procedural Check
+## Procedural check
 
 Before coining a word, find a form of no more than three syllables that preserves the needed contrast. Use the normal close-neighbor gate, and try a transparent multiword expression or clearer semantic carve when one short root would hide too much. A longer lexical root is not an available fallback.
 

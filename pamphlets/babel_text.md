@@ -14,7 +14,7 @@ UNIV earth one language COORD one speak PST hold.
 (The whole earth held one language, and one speech.)
 kjv: "And the whole earth was of one language, and of one speech."
 
-lo miona lue sorae thorui to laniru.
+lo miona lue sileta thorui to laniru.
 PL person ABL sun beginning PST journey.
 (The people journeyed from the east.)
 kjv: "And it came to pass, as they journeyed from the east,"
@@ -25,7 +25,7 @@ PL 3SG plain PST find. PL 3SG LOC plain PST settle.
 kjv: "that they found a plain in the land of Shinar; and they dwelt there."
 ```
 
-**Notes:** the opening keeps both of the verse's terms: `ta haluma nela ta haolu`, one language and one speech, the coined word beside the plain event noun of speaking, as the King James keeps both. The journey is `laniru`, purposeful travel across distance, and "the east" is the compound the registry has always held, `sorae thorui`, the sun's beginning. Shinar is the one thing the verse loses: the name carries no meaning Phi can translate, and this text's custom, like the Babel name itself below, is to keep only the names that mean.
+**Notes:** the opening keeps both of the verse's terms: `ta haluma nela ta haolu`, one language and one speech, the coined word beside the plain event noun of speaking, as the King James keeps both. The journey is `laniru`, purposeful travel across distance, and "the east" is the compound the registry has always held, `sileta thorui`, the sun's beginning. Shinar is the one thing the verse loses: the name carries no meaning Phi can translate, and this text's custom, like the Babel name itself below, is to keep only the names that mean.
 
 ## whalo silawo — The great village
 

@@ -36,7 +36,6 @@
 0.47	1	welao	good	content	wilao	long-for	content	92
 0.47	1	solae	explain	content	sulae	warm	content	90
 0.47	1	sulai	musician	content	sulae	warm	content	90
-0.47	1	sorai	insight	content	sorae	sun	content	82
 0.47	1	philo	day	content	phelo	light	content	80
 0.47	1	philu	candle	content	philo	day	content	74
 0.47	1	shelu	book	content	shelo	signify	content	67
@@ -175,8 +174,6 @@
 0.50	1	thinu	put	content	thimu	time	content	95
 0.50	1	phulae	mouth	content	sulae	warm	content	94
 0.50	1	shao	three-group	content	hao	pardon	interjection	90
-0.50	1	horae	radiant	content	sorae	sun	content	89
-0.50	1	thorae	facilitator	content	sorae	sun	content	82
 0.50	1	korua	heart	content	torua	year	content	81
 0.50	1	siora	joy	content	phiora	spirit	content	80
 0.50	1	noshi	near (adj)	content	nophi	story	content	79
@@ -250,3 +247,6 @@
 0.50	1	thorae	facilitator	content	horae	radiant	content	7
 0.50	1	nuko	black	content	muko	careless	content	6
 0.50	1	thelu	dialogue	content	helu	smooth	content	6
+0.50	1	thinu	put	content	whinu	smell	content	6
+0.50	1	kesu	determined	content	tesu	iron	content	5
+0.50	1	koru	harmonious	content	toru	roof	content	5

@@ -92,7 +92,7 @@ OPT UNIV [REL alive be] joy heart hold.
 (May all that lives hold a joyful heart.)
 ```
 
-***nitho howeli nela sorae*** (The North Wind and the Sun) is Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit.
+***nitho howeli nela sileta*** (The North Wind and the Sun) is Aesop's fable, the text linguists traditionally use to display a language's sounds and structures. Its telling exercises the narrative machinery (past-tense scene chains, dialogue, a wager built on a causative inside a relative clause), and its moral keeps no scoreboard: `moli nela phena haolu lureko thola`, gentleness and kind speech bring fruit.
 
 The rest of the shelf:
 

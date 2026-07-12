@@ -26,7 +26,7 @@ Every syllable is open — a consonant, then a vowel, nothing after. Every vowel
 
 ## You can hear the punctuation
 
-Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is a word — **wa**, standing first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens verbatim Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new two- or three-syllable Phi-form name without adding it to the dictionary. This makes Phi punctuation recoverable in careful dictation. Source spellings, scripts, numbers, records, and notation remain outside Phi passages in their own medium.
+Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is the word **wa**. It stands first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens verbatim Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new Phi-form name of two, three, or four syllables without adding it to the dictionary. This makes Phi punctuation recoverable in careful dictation. Source spellings, scripts, numbers, records, and notation remain outside Phi passages in their own medium.
 
 ## The slowing is the practice
 
@@ -47,7 +47,7 @@ There is one for inference and one for assumption too. Phi does not ask you to b
 
 ## Some things it says differently
 
-There is no "you need not go." Phi states the absence of obligation as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. The sun does not shine; **sorae keru loa** — the sun gives light. Planting is **wei muila thinoe loa** — giving seeds to the earth. These are not poetic flourishes on top of the language. They are the plain way to say it.
+There is no "you need not go." Phi states the absence of obligation as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. The sun does not shine; **sileta keru loa** — the sun gives light. Planting is **wei muila thinoe loa** — giving seeds to the earth. These are not poetic flourishes on top of the language. They are the plain way to say it.
 
 ## It is not a sketch
 
