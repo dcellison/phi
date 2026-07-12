@@ -1,0 +1,29 @@
+{
+  "word": "sitheku",
+  "gloss": "transcribe",
+  "ipa": "/si.ˈθe̞.ku/",
+  "syllables": [
+    "si",
+    "the",
+    "ku"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Transcribe / Render Spoken or Recorded Language in Writing",
+  "description": "To render spoken, signed, or recorded language in writing or another stable textual form. A transcription may be verbatim, edited, delayed, partial, or uncertain according to its stated method. 'Thekasi' (caption) travels in time with an event; 'sitheku' can stand afterward as a document.",
+  "sound_symbolism": "Fine 'si' follows the stream of language into reading-associated 'the'. Final 'ku' gives the passing expression a held textual shape.",
+  "grammatical_notes": "A transitive verb: 'shia ha haolu sitheku.' (They transcribe this speech.) The event-noun rule supplies a transcription or the act of transcribing. The source, editor, completeness, and relation to exact wording remain available as separate facts.",
+  "pillars": {
+    "peace-linguistics-practices": "The verb separates making a record of expression from agreeing with it, interpreting it, or speaking for its author.",
+    "pre-industrial-wisdom": "A scribe could hold words beyond the breath that carried them, but the written line still bore the scribe's hearing and choices."
+  },
+  "tags": {
+    "creation": "making a stable textual rendering of language",
+    "dialogue": "carrying spoken or signed expression into writing",
+    "temporal": "preserving passing language for later use"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "word": "sowelu",
+  "gloss": "disabled",
+  "ipa": "/so̞.ˈwe̞.lu/",
+  "syllables": [
+    "so",
+    "we",
+    "lu"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Disabled / Disability as Identity or Lived Relation",
+  "description": "Describing a person who identifies with disability or whose participation is restricted through the interaction of personal characteristics and barriers. The word may name an identity, a lived condition, or both, and the person's own wording controls its use; disability does not require sickness or a treatment goal.",
+  "sound_symbolism": "Soft 'so' opens into the relational middle 'we'. 'Lu' gives the word a grounded place to stand without making a person's body sound broken or incomplete.",
+  "grammatical_notes": "An adjective that may also name disability through the quality-noun rule: 'mia sowelu nai.' (I am disabled.) It can modify 'miona' (person) when relevant. Exact community, legal, cultural, or personal identity terms remain separately preserved when this broad word would lose their meaning.",
+  "pillars": {
+    "solarpunk-values": "Designing common life around varied bodies and minds begins by allowing disability to be named without locating every barrier inside the person.",
+    "peace-linguistics-practices": "A core word lets a person name disability directly instead of accepting a diagnosis-shaped paraphrase or another speaker's euphemism."
+  },
+  "tags": {
+    "cognition": "disability involving cognitive access or identity",
+    "community": "an identity and relation shaped by participation barriers",
+    "physical": "disability involving bodily or sensory access"
+  }
+}

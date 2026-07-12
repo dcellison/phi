@@ -1,0 +1,29 @@
+{
+  "word": "thewuni",
+  "gloss": "legible",
+  "ipa": "/θe̞.ˈwu.n̪i/",
+  "syllables": [
+    "the",
+    "wu",
+    "ni"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Legible / Visually or Tactually Distinguishable for Reading",
+  "description": "Clear enough for a stated reader to distinguish and read under the relevant visual or tactile conditions. Legibility may depend on size, spacing, contrast, surface, script familiarity, or display quality. 'Theo' (read) is the reader's act; 'thewuni' is a property of what meets that reader.",
+  "sound_symbolism": "Reading-associated 'the' puts written form first. Rounded 'wu' opens room around its marks, and final 'ni' brings each one into a distinct point.",
+  "grammatical_notes": "A predicative or attributive adjective: 'ha thekiro thewuni nai.' (This writing is legible.) The reader and conditions may appear in surrounding clauses. The quality-noun rule supplies legibility without claiming that the text is understood or accurate.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Letterform, spacing, surface, and contrast meet their purpose when a reader can follow them rather than merely admire them.",
+    "peace-linguistics-practices": "A legibility claim remains answerable to the reader instead of allowing the maker's intention to settle whether the words can be read."
+  },
+  "tags": {
+    "aesthetic": "distinguishable visual or tactile form",
+    "cognition": "written marks available for reading",
+    "physical": "reading conditions involving sight or touch"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

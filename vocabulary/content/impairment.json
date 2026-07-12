@@ -1,0 +1,29 @@
+{
+  "word": "murethi",
+  "gloss": "impairment",
+  "ipa": "/mu.ˈre̞.θi/",
+  "syllables": [
+    "mu",
+    "re",
+    "thi"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Impairment / Stated Difference or Limitation in Function",
+  "description": "A stated difference or limitation in bodily, sensory, or cognitive function. It may be temporary, lasting, variable, or understood differently by the person and a source framework. 'Murethi' can matter to access, but it does not determine disability or diagnosis by itself.",
+  "sound_symbolism": "Deep 'mu' gives the word bodily weight, while 're' turns toward a changed function. Dental 'thi' closes on a precise edge rather than spreading the claim across the whole person.",
+  "grammatical_notes": "A countable or mass noun according to context: 'mia ha murethi thelima.' (I describe this impairment.) The possessor or source may precede it. Distinct from 'sowelu' (disabled), 'mokanu' (disease), 'kaworu' (injury), and a temporary inability stated with 'po ma'.",
+  "pillars": {
+    "secular-buddhist-philosophy": "A function can vary across time and conditions without becoming a fixed account of the person who experiences it.",
+    "peace-linguistics-practices": "Separating impairment from disability prevents one functional description from deciding a person's identity, participation, or need for care."
+  },
+  "tags": {
+    "cognition": "a stated difference in cognitive function",
+    "physical": "a stated bodily or sensory functional difference",
+    "temporal": "a function that may be temporary, lasting, or variable"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

@@ -8,13 +8,14 @@
 *Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
 
 
-## adjective (186)
+## adjective (198)
 
 | Word | Gloss | Concept |
 |---|---|---|
 | `hasoru` | pending | Pending |
 | `heloi` | generous | Generous |
 | `helu` | smooth | Smooth |
+| `hewasu` | audible | Audible |
 | `hieru` | narrow | Narrow |
 | `hiso` | clean | Clean |
 | `horae` | radiant | Radiant |
@@ -23,6 +24,7 @@
 | `kaeshu` | bold | Bold |
 | `kasuno` | selfish | Selfish |
 | `katheo` | acute | Acute |
+| `kelasu` | usable | Usable |
 | `keloa` | rough | Rough |
 | `kema` | strong | Strong |
 | `keru` | bright | Bright |
@@ -50,6 +52,7 @@
 | `liro` | green | Green |
 | `liroa` | playful | Playful |
 | `loetha` | open (receptive) | Open (Receptive) |
+| `lokane` | accessible | Accessible |
 | `lori` | vital | Vital |
 | `lorua` | abundant | Abundant |
 | `losha` | wide | Wide |
@@ -72,6 +75,7 @@
 | `mureo` | stable | Stable |
 | `muro` | stubborn | Stubborn |
 | `muroa` | fertile | Fertile |
+| `naphelu` | assistive | Assistive |
 | `nathoku` | contraindicated | Contraindicated |
 | `nemo` | grateful | Grateful |
 | `neri` | cool | Cool |
@@ -94,6 +98,7 @@
 | `nuloe` | content | Content |
 | `nurawi` | chronic | Chronic |
 | `nuwi` | clear | Clear |
+| `palethu` | tactile | Tactile |
 | `pekira` | toxic | Toxic |
 | `peloma` | harmful | Harmful |
 | `pelui` | cold | Cold |
@@ -115,11 +120,14 @@
 | `poruli` | efficient | Efficient |
 | `puko` | bitter | Bitter |
 | `raelu` | tall | Tall |
+| `ralemi` | independent | Independent |
 | `ralu` | free | Free |
 | `reshi` | fast | Fast |
 | `ruesha` | compassionate | Compassionate |
 | `ruka` | complex | Complex |
 | `rulo` | red | Red |
+| `samethu` | equivalent | Equivalent |
+| `sanowu` | predictable | Predictable |
 | `saphei` | shallow | Shallow |
 | `seloi` | insightful | Insightful |
 | `selua` | aware | Aware |
@@ -144,6 +152,7 @@
 | `siora` | joy | Joy |
 | `sonu` | alone | Alone |
 | `soriu` | yellow | Yellow |
+| `sowelu` | disabled | Disabled |
 | `sulae` | warm | Warm |
 | `tawimo` | foolish | Foolish |
 | `teku` | short | Short |
@@ -159,13 +168,16 @@
 | `therua` | eager | Eager |
 | `thesa` | careful | Careful |
 | `thesua` | mindful | Mindful |
+| `thewuni` | legible | Legible |
 | `thiku` | small | Small |
 | `thiro` | serene | Serene |
 | `thoepa` | sacred | Sacred |
 | `tholua` | ancient | Ancient |
 | `thonai` | responsible | Responsible |
 | `thoru` | proud | Proud |
+| `thosami` | compatible | Compatible |
 | `thua` | fair | Fair |
+| `thunesi` | asynchronous | Asynchronous |
 | `thuni` | intuitive | Intuitive |
 | `thunoa` | dignified | Dignified |
 | `thurai` | vibrant | Vibrant |
@@ -282,13 +294,14 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (471)
+## noun (477)
 
 | Word | Gloss | Concept |
 |---|---|---|
 | `haluma` | language | Language |
 | `haoni` | voice | Voice |
 | `haowu` | air | Air |
+| `hasenu` | recess | Recess |
 | `helia` | youth | Youth |
 | `heloa` | remedy | Remedy |
 | `hemilo` | honey | Honey |
@@ -347,6 +360,7 @@
 | `kohura` | noise | Noise |
 | `kolai` | pigment | Pigment |
 | `koma` | head | Head |
+| `kopharu` | barrier | Barrier |
 | `koremu` | bark | Bark |
 | `kori` | leather | Leather |
 | `korua` | heart | Heart |
@@ -396,6 +410,7 @@
 | `lorika` | blood | Blood |
 | `loriphi` | rainbow | Rainbow |
 | `lorui` | afternoon | Afternoon |
+| `loshenu` | clearance | Clearance |
 | `lowi` | vine | Vine |
 | `luera` | past | Past |
 | `luma` | lamp | Lamp |
@@ -465,6 +480,7 @@
 | `muphera` | stock | Stock |
 | `muphia` | mud | Mud |
 | `muralo` | material | Material |
+| `murethi` | impairment | Impairment |
 | `muriwe` | worm | Worm |
 | `muwi` | interior | Interior |
 | `napa` | bread | Bread |
@@ -533,6 +549,7 @@
 | `pharea` | adult | Adult |
 | `phari` | pen | Pen |
 | `pharoe` | chest | Chest |
+| `phelotu` | format | Format |
 | `phelui` | word | Word |
 | `pheluka` | lightning | Lightning |
 | `phemi` | guest | Guest |
@@ -688,6 +705,7 @@
 | `thero` | fire | Fire |
 | `thesani` | skill | Skill |
 | `thesori` | evidence | Evidence |
+| `thimelo` | pace | Pace |
 | `thimora` | schedule | Schedule |
 | `thimu` | time | Time |
 | `thinoe` | seed | Seed |
@@ -862,7 +880,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (311)
+## verb (324)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -877,6 +895,7 @@
 | `helui` | change | Change |
 | `heno` | satisfy | Satisfy |
 | `hewe` | wipe | Wipe |
+| `hinawu` | accommodate | Accommodate |
 | `hinolu` | adapt | Adapt |
 | `hiru` | intuit | Intuit |
 | `hola` | laugh | Laugh |
@@ -946,6 +965,7 @@
 | `meropi` | cherish | Cherish |
 | `milau` | drink | Drink |
 | `miratu` | recognize | Recognize |
+| `misharo` | consult | Consult |
 | `mishoa` | express | Express |
 | `molawi` | cooperate | Cooperate |
 | `molei` | evolve | Evolve |
@@ -1000,6 +1020,7 @@
 | `phanoi` | portion | Portion |
 | `phanuli` | allocate | Allocate |
 | `pharelo` | cook | Cook |
+| `pharomu` | exclude | Exclude |
 | `pharuki` | celebrate | Celebrate |
 | `pharune` | include | Include |
 | `pheloma` | serve | Serve |
@@ -1026,6 +1047,7 @@
 | `pukate` | break | Break |
 | `pula` | wish | Wish |
 | `puse` | spit | Spit |
+| `pushali` | overload | Overload |
 | `rashelo` | run | Run |
 | `rato` | turn | Turn |
 | `remo` | think | Think |
@@ -1041,6 +1063,8 @@
 | `rotiku` | dance | Dance |
 | `ruemi` | lie down | Lie Down |
 | `ruloi` | flourish | Flourish |
+| `runaki` | wayfind | Wayfind |
+| `ruweli` | access | Access |
 | `sahu` | forget | Forget |
 | `sano` | know | Know |
 | `sawa` | wash | Wash |
@@ -1058,6 +1082,7 @@
 | `shanewi` | notify | Notify |
 | `shareo` | discuss | Discuss |
 | `sharoi` | exceed | Exceeds |
+| `shaweri` | advocate | Advocate |
 | `shelo` | signify | Signify |
 | `sheloa` | bloom | Bloom |
 | `shelomu` | understand | Understand |
@@ -1072,12 +1097,15 @@
 | `sholei` | gather | Gather |
 | `shonela` | learn | Learn |
 | `shorai` | commune | Commune |
+| `shoraku` | interpret | Interpret |
 | `shorema` | contribute | Contribute |
 | `shorupo` | protect | Protect |
 | `shua` | come | Come |
 | `shuneki` | vaccinate | Vaccinate |
 | `sikanu` | certify | Certify |
 | `sirami` | record | Record |
+| `sirelu` | disclose | Disclose |
+| `sitheku` | transcribe | Transcribe |
 | `soki` | settle | Settle |
 | `solae` | explain | Explain |
 | `soliru` | hope | Hope |
@@ -1102,6 +1130,7 @@
 | `theama` | care | Care |
 | `thekamu` | intervene | Intervene |
 | `thekao` | acknowledge | Acknowledge |
+| `thekasi` | caption | Caption |
 | `thekiro` | write | Write |
 | `theko` | craft | Craft |
 | `thelima` | describe | Describe |
@@ -1162,6 +1191,7 @@
 | `whelani` | welcome | Welcome |
 | `whemura` | dream | Dream |
 | `whenola` | wander | Wander |
+| `wheparu` | discriminate | Discriminate |
 | `whepelo` | retaliate | Retaliate |
 | `wheraku` | erode | Erode |
 | `whesu` | blow | Blow |
@@ -1174,6 +1204,7 @@
 | `wilao` | long-for | Long For |
 | `wile` | play | Play |
 | `winora` | plan | Plan |
+| `wiresu` | postpone | Postpone |
 | `wishe` | swim | Swim |
 | `wisola` | exchange | Exchange |
 | `woraka` | appreciate | Appreciate |

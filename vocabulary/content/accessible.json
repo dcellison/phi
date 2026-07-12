@@ -1,0 +1,29 @@
+{
+  "word": "lokane",
+  "gloss": "accessible",
+  "ipa": "/lo̞.ˈkä.n̪e̞/",
+  "syllables": [
+    "lo",
+    "ka",
+    "ne"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Accessible / Practically Available to a Stated Person and Activity",
+  "description": "Having conditions under which a stated person can reach, understand, use, or participate in something. The adjective is relational. A route may be accessible for one journey and fail another. 'Kelasu' (usable) describes whether something works once it is available; 'lokane' also asks whether the person can get to that use.",
+  "sound_symbolism": "Open 'lo' gives the word room. 'Ka' marks an actual point of contact, and 'ne' settles the opening into a relation someone can inhabit.",
+  "grammatical_notes": "A predicative or attributive adjective: 'ha shoeka lokane nai.' (This route is accessible.) The surrounding clause can name the person, activity, conditions, and time for which the claim holds. The quality-noun rule supplies accessibility as a stated condition.",
+  "pillars": {
+    "solarpunk-values": "A place built for shared life must be judged where bodies, tools, routes, and activities actually meet. A drawing alone cannot settle the question.",
+    "peace-linguistics-practices": "A relational adjective leaves speakers room to correct a broad accessibility claim with the person and activity it overlooked."
+  },
+  "tags": {
+    "activity": "practical availability for a stated use",
+    "community": "conditions that permit participation in shared life",
+    "spatial": "a route or place reachable under stated conditions"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "word": "hewasu",
+  "gloss": "audible",
+  "ipa": "/he̞.ˈwä.su/",
+  "syllables": [
+    "he",
+    "wa",
+    "su"
+  ],
+  "pos": [
+    "adjective"
+  ],
+  "concept": "Audible / Distinguishable Through Hearing Under Stated Conditions",
+  "description": "Clear enough for a stated listener to distinguish through hearing under the relevant conditions. Volume alone does not settle audibility when distance, competing sound, frequency, equipment, or the listener's hearing changes the result. 'Hea' (hear) is the act of reception; 'hewasu' describes what is available to that act.",
+  "sound_symbolism": "Open 'he' recalls the start of 'hea' (hear), while broad 'wa' lets the sound arrive. Final 'su' gives it an edge that can be picked out from what surrounds it.",
+  "grammatical_notes": "A predicative or attributive adjective: 'ha haolu hewasu nai.' (This speech is audible.) The listener, distance, device, and surrounding sound may be named separately. The quality-noun rule supplies audibility.",
+  "pillars": {
+    "art-nouveau-aesthetics": "Voice, room, distance, and material surface shape whether sound arrives as a line that can be followed or a blur.",
+    "peace-linguistics-practices": "The word lets a listener say that speech did not reach them without inviting a judgment about attention or willingness."
+  },
+  "tags": {
+    "aesthetic": "sound distinguishable within an acoustic setting",
+    "dialogue": "speech available to a stated listener",
+    "physical": "hearing under particular bodily and environmental conditions"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}

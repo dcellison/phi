@@ -1,0 +1,29 @@
+{
+  "word": "thekasi",
+  "gloss": "caption",
+  "ipa": "/θe̞.ˈkä.si/",
+  "syllables": [
+    "the",
+    "ka",
+    "si"
+  ],
+  "pos": [
+    "verb"
+  ],
+  "concept": "Caption / Present Timed Text for Speech and Meaningful Sound",
+  "description": "To present synchronized text or another readable display for speech and meaningful sound in a live or recorded event. Captions can identify the speaker and report relevant non-speech sound. 'Sitheku' (transcribe) preserves verbal content in writing without requiring synchronization.",
+  "sound_symbolism": "The opening 'the' recalls reading and writing; 'ka' marks contact with the sounding event, and 'si' keeps the text moving beside speech through time.",
+  "grammatical_notes": "A transitive verb: 'lo mia ha haolu thekasi.' (We caption this speech.) The event-noun rule supplies captions or captioning according to context. The clause may name whether the event is live, recorded, complete, delayed, or edited.",
+  "pillars": {
+    "solarpunk-values": "A community meeting can change its communication practice without requiring every participant to use the same sense.",
+    "peace-linguistics-practices": "Captions let speech remain available when hearing it is not, and they expose whether laughter, alarms, or speaker identity carried meaning that words alone missed."
+  },
+  "tags": {
+    "creation": "timed readable text made for a sounding event",
+    "dialogue": "speech and meaningful sound presented in a readable form",
+    "temporal": "text synchronized with a live or recorded event"
+  },
+  "modules": [
+    "accessibility-and-participation"
+  ]
+}
