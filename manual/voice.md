@@ -33,11 +33,7 @@ principle, link to the chapter that owns it.
 as," "stands as," "functions as," "represents." A sentence that avoids
 "is" is usually avoiding a commitment.
 
-**4. No inflation.** Banned outright: *testament, pivotal, crucial,
-vital, profound, vibrant, rich (figurative), stunning, groundbreaking,
-perfectly embodies, crystal clear, seamless, load-bearing,
-meaning-bearing*. If a feature matters, show the sentence where it
-matters; the reader will supply the adjective.
+**4. No inflation.** Banned outright: *testament, pivotal, crucial, vital, profound, vibrant, rich (figurative), stunning, groundbreaking, perfectly embodies, crystal clear, seamless*. Phi-authored prose also never forms a hyphenated adjective by attaching "bearing" to another word. If a feature matters, show the sentence where it matters; the reader will supply the adjective.
 
 **5. Kill the -ing tail.** "…, reflecting the language's commitment to
 mindfulness" and its cousins (*highlighting, underscoring, fostering,
@@ -103,11 +99,7 @@ four sentences — what it covers, what it does not, what neighbors it
 has. Concrete situations beat abstract praise. If the word belongs to
 a family, say so.
 
-**Sound symbolism**: describes only sounds the word actually
-contains, named accurately (a word with `th` has /θ/, not 't'). The
-job is to show how this word's real phonemes carry its meaning — not
-to prove that every word is perfect. Two to three sentences; if the
-sounds are honestly unremarkable, say less rather than inventing.
+**Sound symbolism**: embodied poetic phonesthetics, not semantic decomposition. Name only sounds the word contains, and name them accurately. Begin with breath and contact, including the work of lips and tongue. Then hear the depth and openness of the vowels, the movement of liquids or nasals, and the way stress or hiatus shapes the whole contour. Account for the complete word, normally touching every syllable and sometimes the individual phonemes within it. A related word may be heard as a resonance, but Phi words are not assembled from syllables with fixed dictionary meanings; describe kinship of sound without inventing a hidden derivation. Semantic scope, exclusions, criteria, and institutional cautions belong in the description or grammatical notes, never here. Three or four sentences often suit a three-syllable word, though an honest shorter account is better than invented symbolism. The older fields for `muila` (earth) and `shiroka` (repair) show the intended embodied attention; their occasional excess is not part of the model.
 
 **Grammatical notes**: at least one worked example using only real
 vocabulary in valid grammar (SOV, correct slot order, predicate
