@@ -912,8 +912,8 @@ shia mirae palowe kerou to nai.
 (His eyes were boot-buttons.)
 williams: "And into his boot-button eyes,"
 
-lo shia phoe laeno thimu to te phelo loa.
-PL 3SG ANT long time PST CESS light give.
+lo shia phoe laeno thimu to te keru loa.
+PL 3SG ANT long time PST CESS bright give.
 (They had long ago ceased giving light.)
 williams: "that had long ago lost their polish,"
 
@@ -1279,8 +1279,8 @@ child NEAR PL 3SG PST run.
 (The child ran past, near them.)
 williams: "and the Boy ran past near them,"
 
-roe paloi kohura nela whilo tulira phelo loa wi kuewa tupiwa lue nila to wepu.
-INS foot noise COORD white tail light give two strange rabbit ABL see PST go.
+roe paloi kohura nela whilo tulira keru loa wi kuewa tupiwa lue nila to wepu.
+INS foot noise COORD white tail bright give two strange rabbit ABL see PST go.
 (With a noise of feet and a flash of white tails, the two strange rabbits went from sight.)
 williams: "and with a stamp of feet and a flash of white tails the two strange rabbits disappeared."
 
@@ -2045,8 +2045,8 @@ UNIV forest beautiful PST be.
 (All the forest was beautiful.)
 williams: "All the forest was beautiful,"
 
-lo phero phea theriko shioli to phelo loa.
-PL fern AS frost silver PST light give.
+lo phero phea theriko shioli to keru loa.
+PL fern AS frost silver PST bright give.
 (And the fronds of the bracken shone like frost-silver.)
 williams: "and the fronds of the bracken shone like frosted silver."
 

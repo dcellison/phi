@@ -42,7 +42,7 @@ Each item is grammatical. Decide whether it is also honest; if not, repair it.
 18. `pheralu to hi lepa.`: said by someone who woke to wet ground.
 19. `suliwa ti nai.`: said by the child who saw the snake.
 20. `thia siora phaelo.`: said to a friend whose smile you have just noticed.
-21. `sorae ti phelo loa.`: offered as a remark about the sun.
+21. `sorae ti keru loa.`: offered as a remark about the sun.
 
 ## Part F: The braided week
 
@@ -88,6 +88,6 @@ There is no key for Part F. Read your six lines aloud a day later; you will know
 18. Not honest as marked: wet ground is a trace. `pheralu to ke lepa. muila lue phialu nai.`
 19. Under-claimed: the child is the witness and may say so. `mia suliwa hi nila.` Modesty about sourcing is a virtue, but false modesty garbles the chain for everyone downstream.
 20. Trespass as marked, however kind. The smile is evidence: `thia ke siora phaelo.` Or, the better move entirely, `wa thia siora phaelo.`
-21. The `ti` is technically defensible and socially strange: the sun's giving of light is settled knowledge, and marking it implies doubt where none exists. Unmarked is correct: `sorae phelo loa.`
+21. The `ti` is technically defensible and socially strange: the sun's giving of light is settled knowledge, and marking it implies doubt where none exists. Unmarked is correct: `sorae keru loa.`
 
 **A note on 19.** It is the key's only *under*-marking repair, and worth a pause: evidentiality is not a humility contest. The system wants accuracy in both directions: claim no more than you know, and no less. The child who says `ti` about their own witnessing has not been humble; they have misfiled the household's only firsthand report.

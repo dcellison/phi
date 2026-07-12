@@ -66,7 +66,7 @@ Each speaker marks their own distance and no one else's. The child owes `hi` and
 
 ### When `ti` would insult the obvious
 
-The manual is clear that general knowledge goes unmarked, and the boundary is social as much as grammatical. `sorae phelo loa.` (The sun gives light.) needs no `ti`, though someone once taught you. Marking the commonplace implies your listener might doubt it, or that you do. Save `ti` for the news, where the chain is short enough to matter.
+The manual is clear that general knowledge goes unmarked, and the boundary is social as much as grammatical. `sorae keru loa.` (The sun gives light.) needs no `ti`, though someone once taught you. Marking the commonplace implies your listener might doubt it, or that you do. Save `ti` for the news, where the chain is short enough to matter.
 
 ### Drill: keep the chain honest
 

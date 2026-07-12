@@ -24,9 +24,9 @@ place INTS warm PST be.
 (The room was very hot.)
 morris: "for it was hot"
 
-sorae phelo to keru loa.
-sun light PST bright give.
-(The sun gave its light brightly.)
+sorae keru to keru loa.
+sun bright PST bright give.
+(The sun gave bright light.)
 morris: "and the sun shining brightly."
 
 thelao ha mu wakomi to nai.
@@ -1183,9 +1183,9 @@ shia wethalu kire phea rewa miona wethalu kire to nai. whekai wethalu mo keru we
 (His dress was of the same cut as the first man's, though somewhat gayer.)
 morris: "His dress also was of the same cut as the first man's, though somewhat gayer,"
 
-leo wethalu phelo liro to nai. nia pharoe roe solai sima sheloa loremi kire se selomi to nai.
-ABOVE garment light green PST be. ON chest INS gold thread bloom branch shape PASS weave PST be.
-(The surcoat was light green, and on the breast a blooming spray was worked in gold thread.)
+leo wethalu whilo liro to nai. nia pharoe roe solai sima sheloa loremi kire se selomi to nai.
+ABOVE garment white green PST be. ON chest INS gold thread bloom branch shape PASS weave PST be.
+(The surcoat was pale green, and on the breast a blooming spray was worked in gold thread.)
 morris: "the surcoat being light green with a golden spray embroidered on the breast,"
 
 shia tiwa shioli to nai. shioli phea lo lemi sima se kati to nai.

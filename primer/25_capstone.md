@@ -1,22 +1,22 @@
 # Capstone · the fable
 
-There is no new grammar on this page. There is a door.
+There is a door at the end of the primer, but the rest of the language is not already behind you.
 
-Behind it is [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md): the story told in a thousand languages to show what each one sounds like. When it was written, it was a demonstration. For you, today, it is something better: a story in a language you read.
+Behind it is [*The North Wind and the Sun*](../pamphlets/north_wind_and_sun.md), the story told in a thousand languages to show what each one sounds like. Each block has four lines: a Phi sentence, its exact gloss, a natural English reading, and Aesop's source line.
 
-Go read it. Aloud, slowly, the way you learned. Every particle in it is yours; every sentence shape in it, you have met in a garden or a kitchen or at a well. You will not need the gloss lines. That is the point of the last twenty-four chapters, and you will feel it happen somewhere in the second paragraph: the moment the sentences stop being exercises and start being weather, wind, a traveler, warmth.
+The household has prepared several shapes you will recognize: past `to`, coordination with `nela`, and the relative announcer `rena`. The fable sets unfamiliar forms beside them from its first sentence. Comparative `mo`, causative `ka`, passive `se`, and optative `su` are new, as are several relators and discourse words. The glosses belong to the reading; they are not an answer key you were supposed to outgrow.
 
-When you finish, its moral will be waiting for you, and you will notice that you did not translate it. You read it. Those are different things, and the difference is everything this book was for.
+A useful first pass stays with the Phi until a sentence resists. The gloss identifies its pieces, the back-translation confirms the whole, and the source line shows what transmutation changed. On a second pass, you may reach for the back-translation one sentence later than before. That is the change this page is meant to make.
 
 ## After the fable
 
-Three roads from here, in whatever order calls to you:
+Three roads leave the fable, in whatever order calls to you.
 
-**[The Metta Sutta](../pamphlets/metta_sutta.md)** — the first text, and the language's heart: the loving-kindness meditation, transmuted rather than translated. It is harder than the fable. Read it the way the household reads (a little each day) and let the optative *su*, the particle of wishes and blessings, teach you the one mood this primer left for the texts.
+[*The Metta Sutta*](../pamphlets/metta_sutta.md) is the loving-kindness meditation, transmuted rather than translated. It is harder than the fable. A little each day is enough. The Sun's invitation has already introduced optative *su*; here the particle carries a whole practice of wishes and blessings.
 
-**The journal** — chapter twelve's standing request. Three fragments a day, dated *ha philo*. It is the oldest Phi practice, and it is how the language stops being something you read and becomes something you think in.
+The journal remains chapter twelve's standing request: three fragments a day, dated *ha philo*. This is where the language begins to move from the page into ordinary thought.
 
-**The manual** — every "machinery" pointer in this book leads there, and it holds what the primer deliberately left out: the ternary arithmetic, the full politeness registers, transmutation itself. You are no longer a beginner in it. You are a speaker checking the reference, which is what it was written for.
+The manual is where every "machinery" pointer in this book leads. It holds the grammar and practices the primer deliberately leaves out. You enter it as a reader checking the reference, which is what it was written for.
 
 ---
 

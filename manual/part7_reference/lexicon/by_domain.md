@@ -1331,7 +1331,7 @@
 | `peshiro` | infection | an infectious agent acting in relation to a host |
 | `phaluwe` | flood | an event involving rivers, coasts, rain, melt, drainage, or storage |
 | `phelora` | beautiful | celebrates organic forms and flowing natural patterns |
-| `pheluka` | lightning | The storm's sudden light |
+| `pheluka` | lightning | A storm's sudden flash |
 | `pheralu` | rain | Atmospheric water cycle |
 | `phero` | fern | A vascular plant that reproduces through spores |
 | `phialu` | water | fundamental natural element essential to all ecosystems and life |
@@ -1626,7 +1626,7 @@
 | `phelona` | require | bodily requirements for sustenance |
 | `phelotu` | format | a sensory form such as audible, visual, or tactile presentation |
 | `phelu` | hold | sustained bodily action of grasping and maintaining possession |
-| `pheluka` | lightning | Brightness with a crack in it |
+| `pheluka` | lightning | Electrical light across the sky |
 | `phelure` | store | storage of matter or energy in a bounded arrangement |
 | `pheno` | full | Containing maximum |
 | `pheomu` | leftovers | prepared food remaining after an eating occasion |

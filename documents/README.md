@@ -20,6 +20,7 @@ This directory contains Phi's current language references, development methods, 
 |---|---|
 | [Language assessment](language_assessment.md) | Current assessment of learnability, expressive coverage, comparisons, and remaining risks. |
 | [Status roadmap](roadmap.md) | Status-tracked long plan, evidence dependencies, and solo work packages. |
+| [Active text corpus review](active_text_corpus_review.md) | Review method, completed decisions, narrow dependency repairs, and status for each work on the literary shelf. |
 | [Development log](development_log.md) | Lightweight record of proposed, experimental, accepted, deferred, and rejected decisions. |
 | [Development protocol](development_protocol.md) | Evidence and validation requirements for language changes. |
 | [Lexicon expansion survey](lexicon_expansion_survey.md) | Current vocabulary coverage review and corpus-led admission priorities. |

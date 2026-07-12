@@ -47,7 +47,7 @@ There is one for inference and one for assumption too. Phi does not ask you to b
 
 ## Some things it says differently
 
-There is no "you need not go." Phi states the absence of obligation as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. The sun does not shine; **sorae phelo loa** — the sun gives light. Planting is **wei muila thinoe loa** — giving seeds to the earth. These are not poetic flourishes on top of the language. They are the plain way to say it.
+There is no "you need not go." Phi states the absence of obligation as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. The sun does not shine; **sorae keru loa** — the sun gives light. Planting is **wei muila thinoe loa** — giving seeds to the earth. These are not poetic flourishes on top of the language. They are the plain way to say it.
 
 ## It is not a sketch
 

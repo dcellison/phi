@@ -831,8 +831,8 @@ shia roe manuwe wei lo mia kiroa to loa. shia thue lona lokue to phelo thalo.
 (She waved a hand to us, and stepped lightly down the hall.)
 morris: "She waved a hand to us, and stepped lightly down the hall,"
 
-sui shia wepu shia lue lo mia wonepa sorae phelo phanoi to pilu. ta serao lophae roa ha kire pilu to ki thekiro.
-DUR 3SG go 3SG ABL PL 1SG table sun light portion PST take. one old storyteller AROUND PROX shape take PST PFV write.
+sui shia wepu shia lue lo mia wonepa sorae keru phanoi to pilu. ta serao lophae roa ha kire pilu to ki thekiro.
+DUR 3SG go 3SG ABL PL 1SG table sun bright portion PST take. one old storyteller AROUND PROX shape take PST PFV write.
 (As she went, she took part of the sun's light from our table; an old storyteller has written of this kind of taking.)
 morris: "taking (as Scott says) at least part of the sun from our table as she went."
 ```
@@ -993,8 +993,8 @@ morris: "\"Here, Boffin,\" he cried out, after a pause; \"here we are, if you mu
 ## ne solai — Gold
 
 ```
-mia leo talua to rato. mua rena thue lona lokue ruemi sorae phelo soli thena to keru tiripe. mia ha to nila.
-1SG ABOVE shoulder PST turn. LOC REL THROUGH meeting place lie down sun light SOME thing PST bright quiver. 1SG PROX PST see.
+mia leo talua to rato. mua rena thue lona lokue ruemi sorae keru soli thena to keru tiripe. mia ha to nila.
+1SG ABOVE shoulder PST turn. LOC REL THROUGH meeting place lie down sun bright SOME thing PST bright quiver. 1SG PROX PST see.
 (I looked over my shoulder, and saw something flash and gleam in the sunlight that lay across the hall.)
 morris: "I looked over my shoulder, and saw something flash and gleam in the sunlight that lay across the hall;"
 
