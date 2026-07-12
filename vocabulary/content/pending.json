@@ -21,8 +21,5 @@
   "tags": {
     "activity": "work or decision status awaiting a condition",
     "temporal": "remaining unresolved until a later event"
-  },
-  "modules": [
-    "work-craft-and-repair"
-  ]
+  }
 }

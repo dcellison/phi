@@ -22,8 +22,5 @@
     "activity": "retention arranged for later retrieval or release",
     "physical": "storage of matter or energy in a bounded arrangement",
     "temporal": "holding something across time for later use"
-  },
-  "modules": [
-    "systems-and-shared-infrastructure"
-  ]
+  }
 }

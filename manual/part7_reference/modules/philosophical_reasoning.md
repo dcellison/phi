@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. These twenty-two roots are that toolkit. They let speakers build and test an argument while staying honest about where certainty runs out.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Eighteen narrower roots form the optional toolkit around them.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
+Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 22 roots. Shared classification brings the current learning list to 23 words; the complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 18 module roots. Shared classification brings the optional learning list to 19 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -18,18 +18,20 @@ The module does not replace what Phi already says about thought and dialogue. It
 | Sources and modality | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation |
 | Dialogue and repair | `shareo` discuss, `nawo` agree, `naweri` refuse, `thekao` acknowledge, `shorela` rephrase, `shekoi` specify, `shelao` summarize |
 | Values and choice | `sone` value, `rolia` worth, `noetha` essential, `kanu` choose, `kelomi` accept, `numike` negotiate, `seru` commit, `thonai` responsible |
+| Claims and judgment | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion |
 
-## Roots introduced in this chapter
+## Claims, evidence, reasons, and criteria belong to base vocabulary
+
+The canonical entries for `sherewa`, `thesori`, `remotha`, and `kirema` have no `modules` field. A household disagreement may need a claim and a reason; a care decision may turn on evidence and a criterion. Neither setting requires specialist philosophy, though the module gives each word sharper company.
+
+## Module roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
-| `sherewa` | verb | claim; present a proposition for assessment | A claim is put forward publicly for others to weigh, unlike `nohero`, which is simply held. |
 | `mothare` | noun | premise; a starting claim in an argument | A premise is a role inside an argument, and a role does not by itself guarantee truth. |
 | `remuma` | noun | conclusion; the claim reached by reasoning | A conclusion is reached by an argument, distinct from `lumae`, the plain final point in a sequence. |
 | `themore` | noun | argument; premises organized to support a conclusion | An argument is a structure of support, not a quarrel and not a bare dialogue. |
 | `whakeru` | verb | object; raise a specific problem for response | An objection raises a problem for someone to answer; it is not yet a refusal or a refutation. |
-| `thesori` | noun | evidence; material offered for or against a claim | Evidence is offered material, and offering it is no guarantee that it holds up. |
-| `remotha` | noun | reason; a justificatory ground | A reason justifies; it stands apart from a cause, a purpose, or a motive, each its own separate thing. |
 | `kethira` | verb | infer; reach a conclusion from premises | Inferring is the act of reasoning itself, distinct from the inferential evidential particle `ke`. |
 | `natheri` | verb | entail; imply by necessity | Entailment is necessity, stronger than mere support or a chain of causes. |
 | `kithela` | adjective | valid; having premises that entail the conclusion | Validity is a structural fact about the argument's form; the premises can still be false. |
@@ -39,14 +41,13 @@ The module does not replace what Phi already says about thought and dialogue. It
 | `phiwheki` | noun | counterexample; a case defeating a general claim | A counterexample defeats a general claim by falling inside its scope and breaking it; a merely surprising case does not. |
 | `whekate` | verb | refute; show that a claim or inference fails | Refuting takes real work: an objection or a disagreement alone does not amount to a refutation. |
 | `kirothe` | verb | define; state meaning or conditions of application | Defining draws a boundary of application, narrower than describing or simply clarifying. |
-| `kirema` | noun | criterion; a standard used in judgment or classification | A criterion is the standard itself, not the act of measuring by it. |
 | `remole` | noun | concept; an organized idea | A concept stands apart from the word that names it, the symbol that points to it, and any one example used to illustrate it. |
 | `whamoi` | verb | doubt; remain unsettled about a proposition | Doubting stays unsettled; it is neither a denial nor a refutation. |
 | `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is a strong stance held with room to revise, and it is not the same as knowledge, truth, or authority. |
 | `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff joins a real gain to a real loss; simply having several options on the table is not yet one. |
 | `manawi` | verb | compromise; agree through mutual concession | Compromising reaches agreement through concession from more than one side; the word alone says nothing about whether the result is fair. |
 
-Verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries remain verb-only or adjective-only as required by the lexicon schema.
+Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries remain verb-only or adjective-only as required by the lexicon schema.
 
 ## Claims, premises, and conclusions
 

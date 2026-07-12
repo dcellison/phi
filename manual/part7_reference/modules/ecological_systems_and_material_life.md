@@ -2,9 +2,9 @@
 
 Dye runs from a workshop into a stream, and a fish downstream carries it in its blood. Naming that chain needs more than one word: what entered the water, how much, who was exposed, and what evidence supports the claim of harm. The chapter's ecological roots carry it link by link.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
+Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 42 words; the complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 27 module roots. Shared classifications bring the optional learning list to 39 words; base weather, material, and resource are taught alongside it. The complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -13,15 +13,20 @@ The module does not replace what Phi already says about land, water, weather, an
 | Area | Core Phi resources |
 |---|---|
 | Land and water | `muila` earth or soil, `phialu` water, `luphore` river, `phuliro` stream, `thelomi` lake, `moriwhe` sea, `thula` spring, `kosha` field |
-| Sky and immediate conditions | `pheralu` rain, `sorae` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
+| Sky and immediate conditions | `pheralu` rain, `sorae` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `howenu` weather, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
 | Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `tokemi` fungus |
 | Relations and transformations | `menui` dwell, `nuola` eat, `lumera` nourish, `panoru` support, `lorea` connect, `selu` flow, `kelu` become, `thuroa` grow, `lumeo` die, `nuri` cycle, `turema` return |
 | Care and renewal | `theama` care, `shorupo` protect, `theluo` steward, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
 | Evidence and decisions | `masue` measure, `somela` observe, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `sone` value, `soneho` tradeoff |
+| Matter and use | `muralo` material, `panuri` resource |
 
 Systems lends its own vocabulary for the mechanics underneath: `terura` system, `mirela` state, `pherami` dependency, `koewi` input, `thirulo` output, `sekaru` transfer, `turelo` feedback, `henora` capacity, `pemaru` hazard, `kisholu` specification. Borrowing a technical word does not by itself hand over an ecological conclusion.
 
-## Roots introduced in this chapter
+## Weather, material, and resources belong to base vocabulary
+
+None of these three entries has a `modules` field. Weather decides whether a trip leaves now. A broken chair still has material in it, and stored water may be a resource for a garden. The ecological module sharpens the consequences without owning the ordinary words.
+
+## Module roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
@@ -35,7 +40,6 @@ Systems lends its own vocabulary for the mechanics underneath: `terura` system, 
 | `wiralu` | noun | runoff; water flowing across land or built surface | Runoff is water in motion across a surface, and it carries no verdict about pollution on its own. |
 | `wheraku` | verb | erode; detach and transport earth or rock | Erosion is the detaching and carrying; `munari` is what it leaves behind. |
 | `munari` | noun | sediment; transported or deposited particles | Sediment is the particle, not the process that moved it, and not pollution by default. |
-| `howenu` | noun | weather; atmospheric conditions at a place and time | Weather is today's conditions; `meluri` (climate) is the long pattern they belong to. |
 | `meluri` | noun | climate; long-term distribution and pattern of weather | Climate is the pattern across years, never one day's weather standing in for it. |
 | `phaluwe` | verb | flood; water cover or overflow beyond usual bounds | A flood is water beyond its usual bounds; whether it is a disaster is a further claim. |
 | `kuramo` | noun | drought; prolonged water deficit | Drought is a prolonged deficit, not merely a dry day or a naturally arid place. |
@@ -44,8 +48,6 @@ Systems lends its own vocabulary for the mechanics underneath: `terura` system, 
 | `pekira` | adjective | toxic; capable of biological harm under exposure | Toxic is a capability under exposure, not proof that harm actually occurred. |
 | `nomiki` | noun | concentration; amount of an agent per stated medium | Concentration is always a ratio against a named medium, never a bare total. |
 | `perawi` | verb | expose; come into relevant contact with an agent | Exposure is contact; contact alone supplies neither dose nor harm. |
-| `muralo` | noun | material; physical matter considered in use or transformation | Material is matter under discussion, neutral on whether it is resource or waste. |
-| `panuri` | noun | resource; something considered available for a purpose | Being a resource is a relation to a purpose, not a fact the material carries on its own. |
 | `whemori` | noun | waste; material or energy assigned no further intended use | Waste is relational too: the same fallen branch can be waste to one process and habitat to another. |
 | `morume` | verb | decompose; break down through biological or chemical processes | Decomposition is breakdown itself, not disappearance, and not the same as death. |
 | `lurepa` | noun | nutrient; material required or used for biological function | A nutrient is defined by biological function, narrower than food in general. |

@@ -34,16 +34,19 @@ The profile uses these ordinary Phi resources without moving them into the modul
 | Cloth and rest | `wetha` cloth, `liru` fabric, `wethalu` garment, `nulae` sleep, `therilu` rest, `sulae` warm, `wuloe` soft, `kurathi` dry, `wirua` wet | Cloth and bodily conditions remain available beyond any domestic object made from them. |
 | Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `muhena` dust, `phuri` brush, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold | The core already carries the ordinary actions around which the module objects gather. |
 | Choice and relations | `mirewu` private, `kanu` choose, `lesawi` consent, `nawo` agree, `naweri` refuse, `theama` care, `phowe` share, `nuawe` together | Privacy, consent, refusal, care, and sharing remain independent of family, ownership, and domestic role. |
+| Plans and open matters | `winora` plan, `hasoru` pending, `sirami` record | A household can organize an intended action, leave a request unresolved, or keep a durable account without treating daily life as specialist work or governance. |
+| Materials and conditions | `muralo` material, `panuri` resource, `howenu` weather, `phelure` store | Matter, availability for a purpose, present weather, and storage all have ordinary domestic uses before ecological or systems analysis begins. |
+| Pressure and reprisal | `kawhera` coerce, `whepelo` retaliate | Harmful pressure and reprisal can be named inside intimate or domestic relations without requiring an institution as the setting. |
 
 ## Cross-module dependencies
 
 | Module | Resources used here | Boundary kept visible |
 |---|---|---|
-| [Work, Craft, and Repair](work_craft_and_repair.md) | `riporu` task, `winora` plan, `rilowa` assign, `ritako` workload, `rimawu` drudgery, `muphera` stock, `sitawi` inventory | Household work can be organized or criticized without treating the work as naturally assigned. |
-| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `muralo` material, `panuri` resource, `whemori` waste, `morume` decompose, `tukelu` recycle, `howenu` weather | The household uses materials and produces effects; the domestic word alone does not establish a sound ecological relation. |
-| [Commons and Collective Governance](commons_and_collective_governance.md) | `wemari` member, `sithora` role, `karami` authority, `phenori` ownership, `naseru` obligation, `kawhera` coerce, `whepelo` retaliate | Membership, role, property, and power remain claims that may be absent or contested in a household. |
+| [Work, Craft, and Repair](work_craft_and_repair.md) | `riporu` task, `rilowa` assign, `ritako` workload, `rimawu` drudgery, `muphera` stock, `sitawi` inventory | Household work can be organized or criticized without treating the work as naturally assigned. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `whemori` waste, `morume` decompose, `tukelu` recycle | The household uses materials and produces effects; the domestic word alone does not establish a sound ecological relation. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | `wemari` member, `sithora` role, `karami` authority, `phenori` ownership, `naseru` obligation | Membership, role, property, and power remain claims that may be absent or contested in a household. |
 | [Accessibility and Participation](accessibility_and_participation.md) | `ruweli` access, `lokane` accessible, `kopharu` barrier, `hinawu` accommodate, `kelasu` usable, `loshenu` clearance | A room or tool can belong to a household and still fail someone in movement or use. |
-| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `phelure` store, `henora` capacity, `koluri` reliable, `kiphira` fault, `seluwhe` outage | Storage, water, heat, and household devices can be discussed as systems when function and failure become the question. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `henora` capacity, `koluri` reliable, `kiphira` fault, `seluwhe` outage | Storage, water, heat, and household devices can be discussed as systems when function and failure become the question. |
 | [Medical and Bodily Care](medical_and_bodily_care.md) | `peshiro` infection, `thephaku` inflammation, `suloru` fever, `nephoru` treat, `teshori` quarantine | Food, sanitation, sleep, and care can affect health without turning daily life into a clinical account. |
 
 ## First vocabulary pass

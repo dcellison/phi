@@ -27,25 +27,26 @@ The profile uses these ordinary Phi resources without moving them into the modul
 
 | Area | Existing resources | Work they already do |
 |---|---|---|
-| Agency | `kanu` choose, `lesawi` consent, `naweri` refuse, `nawo` agree, `kelomi` accept, `thekao` acknowledge, `ralu` free, `phelona` require | A person can choose, refuse, name a requirement, and keep consent attached to one affecting action. |
+| Agency | `kanu` choose, `lesawi` consent, `naweri` refuse, `nawo` agree, `kelomi` accept, `thekao` acknowledge, `ralu` free, `phelona` require, `kawhera` coerce, `whepelo` retaliate | Consent stays with the affecting action, while coercion and retaliation can be named without first naming an institution. |
 | Participation | `pawela` participate, `shorema` contribute, `pharune` include, `nuawe` together | Participation, contribution, inclusion, and shared action remain separate enough to describe an outcome rather than promise one. |
 | Communication | `sheori` communicate, `haolu` speak, `hea` hear, `thekiro` write, `theo` read, `shelomu` understand, `lilea` clarify, `shorela` rephrase, `shelao` summarize | Speakers can repair meaning and move between speech and writing before choosing a specialized format word. |
-| Time | `thimu` time, `phoe` before, `pheo` after, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow | Clauses can place information before action and make room for thought or rest. |
+| Time | `thimu` time, `phoe` before, `pheo` after, `hasi` wait, `therilu` rest, `thilonu` prepare, `sheru` slow, `winora` plan, `hasoru` pending | Clauses can place information before action and make room to plan. `hasoru` names what still awaits its turn. |
 | Movement and safety | `ponu` door, `ruela` path, `shoeka` route, `koema` enter, `wepu` go, `losha` wide, `hieru` narrow, `shurano` safe, `pukea` danger | The environment can be described before the access relation is named. |
-| Support and evidence | `naphe` help, `panoru` support, `keli` device, `masue` measure, `siru` marker, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption | Help, tools, measurements, and evidence remain visible around any claim that access was achieved. |
+| Support and evidence | `naphe` help, `panoru` support, `keli` device, `masue` measure, `siru` marker, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `sirami` record, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption | A claimed access result can be checked against its measure, evidence, criterion, and record. |
+| Material conditions | `howenu` weather, `muralo` material, `panuri` resource | A route or activity may depend on present weather, the material actually used, or something available for a stated purpose. |
 
-`sowelu` joins this shared core. Disability is identity and ordinary life vocabulary before it is a specialist subject.
+`sowelu` joins this shared core. Disability is identity and ordinary life vocabulary before it is a specialist subject. The other base words above likewise remain available without a module label.
 
 ## Cross-module dependencies
 
 | Module | Resources used here | Boundary kept visible |
 |---|---|---|
-| [Commons and Collective Governance](commons_and_collective_governance.md) | `shalori` represent, `loatho` delegate, `karami` authority, `kanuwa` authorize, `norathu` procedure, `kanuro` decision, `shanewi` notify, `tukiro` review, `kawhera` coerce | Representation, authority, notice, and procedure can shape access without proving participation or consent. |
-| [Work, Craft, and Repair](work_craft_and_repair.md) | `winora` plan, `thimora` schedule, `lumethi` deadline, `noporu` design, `kisholu` specification, `somaki` test, `ritako` workload | A design or schedule can be exact and still fail a person in use. |
+| [Commons and Collective Governance](commons_and_collective_governance.md) | `shalori` represent, `loatho` delegate, `karami` authority, `kanuwa` authorize, `norathu` procedure, `kanuro` decision, `shanewi` notify, `tukiro` review | Representation, authority, notice, and procedure can shape access without proving participation or consent. |
+| [Work, Craft, and Repair](work_craft_and_repair.md) | `thimora` schedule, `lumethi` deadline, `noporu` design, `kisholu` specification, `somaki` test, `ritako` workload | A design or schedule can be exact and still fail a person in use. |
 | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `nowiso` interface, `koluri` reliable, `wepanu` redundant, `henora` capacity, `kiphira` fault | Technical performance and access answer different questions about the same tool or service. |
 | [Medical and Bodily Care](medical_and_bodily_care.md) | `phamori` symptom, `hisaro` clinical finding, `mokanu` disease, `kithero` diagnose, `nephoru` treat, `helanu` recover | Medical words remain available when health is the subject; no medical claim is the price of asking for access. |
-| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `howenu` weather, `phaluwe` flood, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `somethi` monitor | Environmental conditions can create barriers, while an access report alone does not establish their ecological cause. |
-| [Philosophical Reasoning](philosophical_reasoning.md) | definitions, criteria, evidence, inference, uncertainty, tradeoffs, and compromise | Access claims can be examined without turning a negotiated compromise into a universal solution. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `phaluwe` flood, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `somethi` monitor | Environmental conditions can create barriers, while an access report alone does not establish their ecological cause. |
+| [Philosophical Reasoning](philosophical_reasoning.md) | definitions, inference, uncertainty, tradeoffs, and compromise | Access claims can be examined without turning a negotiated compromise into a universal solution. |
 
 ## First vocabulary pass
 

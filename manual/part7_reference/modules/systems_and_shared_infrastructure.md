@@ -2,9 +2,9 @@
 
 The pump that fills the cistern draws power from the same line as the mill, and on the hottest afternoon of the year both draw at once. Capacity and load ask whether the line holds; function and state ask whether either machine works. The wisdom of the whole arrangement remains a different question.
 
-Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
+Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-The chapter table below introduces 25 roots. Shared classifications bring the current learning list to 37 words; the complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 24 module roots. Shared classifications bring the optional learning list to 36 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -18,8 +18,13 @@ The module does not replace what Phi already says about devices, movement, and r
 | Upkeep and renewal | `thiranu` maintain, `shiroka` repair, `talome` restore, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect |
 | Limits and evidence | `phelona` require, `henoi` enough, `sharoi` exceed, `thenoi` fall short, `masue` measure, `siru` marker, `kirema` criterion, `hi` direct evidence, `ke` inference |
 | Shared life | `laenu` commons, `sila` community, `phowe` share, `panoru` support, `theluo` steward, `thonai` responsible |
+| Storage | `phelure` store |
 
-## Roots introduced in this chapter
+## Storage belongs to base vocabulary
+
+`phelure` has no `modules` field. A jar stores food and a cistern stores water before either becomes a system under analysis. The Systems chapter keeps the verb close because capacity and retrieval conditions often make storage technical, but the act itself is ordinary.
+
+## Module roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
@@ -37,7 +42,6 @@ The module does not replace what Phi already says about devices, movement, and r
 | `turelo` | noun | feedback; returned effect that alters an ongoing process | Feedback is a returned effect that actually changes something; a loop drawn on paper is not yet feedback. |
 | `henora` | noun | capacity; conditioned limit of holding, processing, or delivery | Capacity is the limit under stated conditions, not the same as what a system currently holds. |
 | `takori` | noun | load; technical demand placed on a system | Load is a technical demand on a system, distinct from a burden placed on a person's shoulders. |
-| `phelure` | verb | store; retain for later retrieval or release | Storing retains something for later; whether it stays safe or recoverable is another matter. |
 | `poruli` | adjective | efficient; high useful output relative to selected input | Efficiency always compares a chosen output to a chosen input, and fairness never enters the ratio. |
 | `masuro` | verb | calibrate; relate an instrument to a stated reference | Calibrating relates a device to a reference; `nilaki` (inspect) is the wider examination beside it. |
 | `kiphira` | noun | fault; abnormal technical condition | A fault is an abnormal condition, not yet a claim of blame or even of failure. |
@@ -49,7 +53,7 @@ The module does not replace what Phi already says about devices, movement, and r
 | `pemaru` | noun | hazard; potential source or condition of harm | A hazard is a potential source of harm, distinct from present danger or an actual injury already done. |
 | `kisholu` | noun | specification; explicit set of technical requirements | A specification states requirements; meeting them is not proof the requirements were wise. |
 
-The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries remain adjective-only as required by the lexicon schema.
+The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries remain adjective-only as required by the lexicon schema.
 
 ## Systems, components, functions, and states
 

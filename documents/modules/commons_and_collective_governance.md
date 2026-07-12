@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** with 30 roots coined here and 44 current memberships; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 27 module roots coined here, 41 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for describing membership, in
 
 The module is not a constitution, legal system, property regime, economic doctrine, institutional template, or claim that one form of governance fits every community. It does not infer legitimacy from a council label, plural action, necessity, consensus, voting, stewardship, fairness, justice, compliance, or a practical outcome.
 
-The speaker-facing guide is [Commons and Collective Governance](../../manual/part7_reference/modules/commons_and_collective_governance.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#commons-and-collective-governance). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Commons and Collective Governance](../../manual/part7_reference/modules/commons_and_collective_governance.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#commons-and-collective-governance). The vocabulary table below records every root established for this profile, including three that belong in base vocabulary. The generated inventory also includes words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -39,21 +39,22 @@ These existing resources remain available to every Phi speaker and keep their or
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panuri` resource, `muralo` material, `theula` all, `theli` each, `shelami` most, `soli` some | State holding, sharing, transfer, need, sufficiency, resources, materials, and quantities while the module adds allocation, entitlement, and ownership. |
 | Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `weilo` balanced, `sone` value, `rolia` worth, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise | Evaluate governance claims and competing goods without allowing a value word, argument, or compromise to determine legitimacy, authority, allocation, or remedy automatically. |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility, `ma` negation | State voluntary commitment, responsibility, error, material repair, restoration, reconciliation, forgiveness, causation, and modality while the module adds imposed obligation, accountability, redress, and enforcement. |
-| Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `siru` marker, `masue` measure, `sano` know, `phoe` before, `pheo` after, `hasi` wait, `helui` change, and separately preserved source material | Discuss sources, telling, writing, measurements, knowledge, time, and change while the module adds notification, durable records, review, appeal, and amendment. |
+| Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `sirami` record, `siru` marker, `masue` measure, `sano` know, `phoe` before, `pheo` after, `hasi` wait, `helui` change, and separately preserved source material | Keep a durable account beside its source and time while the module adds notification, review, appeal, and amendment. |
+| Power and safety | `kawhera` coerce, `whepelo` retaliate | Name constrained choice and harm imposed after a prior act without requiring an institution to be the setting. |
 
 ## Optional Cross-Module Dependencies
 
-The established [Philosophical Reasoning module](philosophical_reasoning.md) supplies claims, evidence, reasons, inference, validity, contradiction, definitions, criteria, doubt, confidence, tradeoffs, and compromise. Governance speakers may use these terms to assess proposals, authority, legitimacy, allocation, accountability, and review, but a sound argument does not itself enact a decision or establish jurisdiction.
+Governance already has base words for a claim, its evidence, the reasons offered, and the criterion applied. The established [Philosophical Reasoning module](philosophical_reasoning.md) adds inference, validity, contradiction, definitions, doubt, confidence, tradeoffs, and compromise. Speakers may use these terms to assess proposals, authority, legitimacy, allocation, accountability, and review, but a sound argument does not itself enact a decision or establish jurisdiction.
 
-The established [Systems and Shared Infrastructure module](systems_and_shared_infrastructure.md) supplies system, component, interface, function, state, dependency, input, output, transfer, control, feedback, capacity, load, storage, inspection, reliability, hazard, and specification. These terms explain infrastructure without assigning ownership, operator authority, public obligation, labor, notice, accountability, or legitimacy.
+The established [Systems and Shared Infrastructure module](systems_and_shared_infrastructure.md) supplies system, component, interface, function, state, dependency, input, output, transfer, control, feedback, capacity, load, inspection, reliability, hazard, and specification. Base `phelure` storage remains available for infrastructure and ordinary stores alike. These terms explain the infrastructure; ownership and authority over people remain separate governance claims.
 
-The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies ecosystem, habitat, watershed, resource, waste, pollution, exposure, baseline, trend, model, and monitoring terminology. These terms identify ecological stakes and evidence without deciding standing, allocation, acceptable burden, land or water authority, entitlement, environmental justice, or redress.
+The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies ecosystem, habitat, watershed, waste, pollution, exposure, baseline, trend, model, and monitoring terminology. Base `muralo` material and `panuri` resource remain available wherever collective decisions concern matter or availability for a purpose. These terms identify the ecological stakes and evidence. Governance still has to settle authority and burden; redress is another question.
 
 ## First Vocabulary Pass
 
-The first pass admits words for recurring governance relations whose ordinary paraphrases would be cumbersome, value-loaded, or unable to keep institutional distinctions stable across a discussion. The original pass used four-syllable forms for nearly every broad or internally layered concept; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through collective-decision stories, institutional criticism, commons practice, political philosophy, or source-faithful legal discussion.
+The first pass admits 27 optional roots for recurring governance relations and places record, coerce, and retaliate in base vocabulary. It does not attempt to minimize coinage, and its choices may be revised through collective-decision stories, institutional criticism, commons practice, political philosophy, or source-faithful legal discussion.
 
-| Family | Roots coined for this profile | What the pass now distinguishes |
+| Family | Roots established for this profile | What the pass now distinguishes |
 |---|---|---|
 | Membership and institutional structure | `wemari` member, `shalori` represent, `punoki` institution, `sithora` role, `loatho` delegate | Membership versus belonging or participation; representation versus description or consent; institution versus society, building, council, or technical system; role versus holder, competence, or authority; delegation versus authorization, abandonment, or imposed work. |
 | Authority and normative scope | `karami` authority, `kanuwa` authorize, `norulo` jurisdiction, `kirethu` legitimate, `nasholu` rule | Authority versus force, capacity, control, ownership, or legitimacy; authorization versus consent or competence; jurisdiction versus territory; legitimacy versus legality, popularity, fairness, or effectiveness; rule versus fact, method, specification, or exact law. |
@@ -63,7 +64,7 @@ The first pass admits words for recurring governance relations whose ordinary pa
 | Notice, records, and revision | `shanewi` notify, `sirami` record, `tukiro` review, `whetuma` appeal, `helaki` amend | Notification versus receipt, access, understanding, or publication; record versus writing, truth, official status, or notice; review versus discussion or inspection; appeal versus objection or review itself; amendment versus generic change, repeal, replacement, or erased history. |
 | Power and institutional harm | `kawhera` coerce, `whepelo` retaliate | Coercion versus every obligation, urgency, persuasion, or consequence; retaliation versus ordinary response, enforcement, defense, redress, or an independently justified adverse action. |
 
-All 30 roots coined in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `commons-and-collective-governance` module classification, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit.
+All 30 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit. Twenty-seven carry `commons-and-collective-governance`; `sirami`, `kawhera`, and `whepelo` carry no module field and remain in base vocabulary.
 
 ## Concepts Kept Compositional
 
