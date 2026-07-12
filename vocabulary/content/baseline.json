@@ -23,6 +23,8 @@
     "temporal": "often a documented earlier period or state against which change is assessed"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure"
   ]
 }

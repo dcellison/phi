@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** - 22 module words, ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 22 roots coined here and 22 current memberships; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module supports defining, questioning, comparing, supporting, challenging, 
 
 The module does not claim that Phi makes speakers rational, truthful, peaceful, or philosophically insightful. It supplies distinctions that speakers may use well or badly. It is not a formal logic, a doctrine, a competence credential, or a substitute for knowledge of any philosophical tradition.
 
-The speaker-facing guide is [Philosophical Reasoning](../../manual/part7_reference/modules/philosophical_reasoning.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#philosophical-reasoning). Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Philosophical Reasoning](../../manual/part7_reference/modules/philosophical_reasoning.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#philosophical-reasoning). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -38,7 +38,7 @@ These existing resources remain available to every Phi speaker and keep their or
 
 The first pass admits words where an existing phrase would be cumbersome, ambiguous, or unable to treat a recurring philosophical relation as a concept in its own right. The original pass used four-syllable forms for some broad or internally layered concepts; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through actual writing and discussion.
 
-| Family | Established module words | What the pass now distinguishes |
+| Family | Roots coined for this profile | What the pass now distinguishes |
 |---|---|---|
 | Argument structure | `sherewa` claim, `mothare` premise, `remuma` conclusion, `themore` argument, `whakeru` object | Public claim versus belief; premise and conclusion as roles; argument versus quarrel; objection versus refusal or refutation. |
 | Support and inference | `thesori` evidence, `remotha` reason, `kethira` infer, `natheri` entail | Evidence versus evidential source; justificatory reason versus cause or purpose; inference act versus `ke`; entailment versus ordinary support. |
@@ -48,7 +48,7 @@ The first pass admits words where an existing phrase would be cumbersome, ambigu
 | Epistemic stance | `whamoi` doubt, `norethi` confident | Doubt versus denial; confidence versus knowledge, truth, certainty, or authority. |
 | Competing values | `soneho` tradeoff, `manawi` compromise | Tradeoff versus mere choice; compromise versus negotiation, agreement, fairness, or consent. |
 
-All 22 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `philosophical-reasoning` module classification, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit.
+All 22 roots coined in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `philosophical-reasoning` module classification, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit.
 
 ## Concepts Kept Compositional
 

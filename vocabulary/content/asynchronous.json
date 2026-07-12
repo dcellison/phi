@@ -24,6 +24,8 @@
     "temporal": "participation separated across time"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance",
+    "work-craft-and-repair"
   ]
 }

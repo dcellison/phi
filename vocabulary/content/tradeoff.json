@@ -25,6 +25,8 @@
     "wisdom": "attention to what every available option preserves and relinquishes"
   },
   "modules": [
+    "commons-and-collective-governance",
+    "ecological-systems-and-material-life",
     "philosophical-reasoning"
   ]
 }

@@ -24,6 +24,7 @@
     "emotion": "the experienced tedium, aversion, or loss of meaning"
   },
   "modules": [
+    "household-and-daily-life",
     "work-craft-and-repair"
   ]
 }

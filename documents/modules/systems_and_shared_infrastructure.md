@@ -1,6 +1,6 @@
 # Systems and Shared Infrastructure
 
-**Status:** **Established vocabulary module** - 25 module words, ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 25 roots coined here and 34 current memberships; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for identifying systems and c
 
 The module is not an engineering standard, safety certification, unit system, infrastructure-governance model, or competence credential. It does not authorize a speaker to infer safety, performance, ownership, obligation, accessibility, or legitimacy from a device, measurement, specification, or technical role.
 
-The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/part7_reference/modules/systems_and_shared_infrastructure.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#systems-and-shared-infrastructure). Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/part7_reference/modules/systems_and_shared_infrastructure.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#systems-and-shared-infrastructure). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -38,7 +38,7 @@ These existing resources remain available to every Phi speaker and keep their or
 
 The first pass admits words for recurrent technical relations whose ordinary paraphrases would be cumbersome, ambiguous, or unable to make the relation itself available for sustained discussion. The original pass used four-syllable forms for many broad or internally layered concepts; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through actual technical explanation, stories, maintenance records, or infrastructure discussion.
 
-| Family | Established module words | What the pass now distinguishes |
+| Family | Roots coined for this profile | What the pass now distinguishes |
 |---|---|---|
 | System structure | `terura` system, `monaki` component, `nowiso` interface, `kelitho` function, `mirela` state, `pherami` depend | System versus collection, network, or device; component versus arbitrary piece; interface versus boundary; function versus purpose; state versus essence; dependency versus cause, entailment, or authority. |
 | Flow and control | `koewi` input, `thirulo` output, `sekaru` transfer, `kirowi` signal, `ketora` control, `turelo` feedback | Boundary-relative input and output; source-to-recipient transfer; signal versus sign or evidence; technical control versus causation or command; feedback versus return or recurrence. |
@@ -46,7 +46,7 @@ The first pass admits words for recurrent technical relations whose ordinary par
 | Operation and upkeep | `masuro` calibrate, `kiphira` fault, `thonuki` fail, `seluwhe` outage, `wepanu` redundant, `nilaki` inspect, `koluri` reliable | Calibration versus measurement; fault versus blame or failure; failure versus breakage; outage versus system destruction; redundancy versus waste; inspection versus approval; reliability versus trust or certainty. |
 | Safety and requirements | `pemaru` hazard, `kisholu` specification | Potential source of harm versus present danger or a full risk judgment; explicit technical requirements versus standards, methods, authority, or proof of compliance. |
 
-All 25 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `systems-and-shared-infrastructure` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. The deliberately dissimilar `koewi` and `thirulo` forms keep the natural opposite pair input and output acoustically separate.
+All 25 roots coined in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `systems-and-shared-infrastructure` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. The deliberately dissimilar `koewi` and `thirulo` forms keep the natural opposite pair input and output acoustically separate.
 
 ## Concepts Kept Compositional
 

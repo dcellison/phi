@@ -24,6 +24,7 @@
     "creation": "an event relevant to design, maintenance, and repair"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

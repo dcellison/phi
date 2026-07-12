@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** - 30 module words, ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here and 40 current memberships; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for describing ecological org
 
 The module is not a scientific ontology, environmental standard, conservation doctrine, climate model, land-management plan, professional credential, or claim that solarpunk values settle an ecological question. It does not certify that an action is sustainable, regenerative, harmless, just, or effective merely because a valued Phi word describes its intention.
 
-The speaker-facing guide is [Ecological Systems and Material Life](../../manual/part7_reference/modules/ecological_systems_and_material_life.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#ecological-systems-and-material-life). Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Ecological Systems and Material Life](../../manual/part7_reference/modules/ecological_systems_and_material_life.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#ecological-systems-and-material-life). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -51,7 +51,7 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 
 The first pass admits words for recurring ecological distinctions whose ordinary paraphrases would be cumbersome, ambiguous, or unable to make the relation itself available for sustained discussion. The original pass used four-syllable forms throughout; those forms are now recorded in the finite migration ledger and will receive three-syllable replacements without changing the semantic inventory. The pass does not attempt to minimize coinage, and its choices may be revised through ecological writing, observation, land and water discussion, or material practice.
 
-| Family | Established module words | What the pass now distinguishes |
+| Family | Roots coined for this profile | What the pass now distinguishes |
 |---|---|---|
 | Ecological organization | `litero` ecosystem, `menuro` habitat, `likori` species, `liloni` population, `liweso` ecological community, `philima` biodiversity | Ecosystem versus named place or harmony; habitat versus observed location; species versus exact taxon; population versus species; ecological versus human community; biodiversity versus list, abundance, or health. |
 | Land, water, weather, and climate | `luphano` watershed, `wiralu` runoff, `wheraku` erode, `munari` sediment, `howenu` weather, `meluri` climate, `phaluwe` flood, `kuramo` drought | Drainage area versus water body; surface flow versus rain or stream; erosion versus weathering or excavation; sediment versus soil or pollution; weather versus climate; flood and drought versus their exact thresholds or consequences. |
@@ -59,7 +59,7 @@ The first pass admits words for recurring ecological distinctions whose ordinary
 | Material life and afterlives | `muralo` material, `panuri` resource, `whemori` waste, `morume` decompose, `lurepa` nutrient, `tukelu` recycle | Material versus thing or substance grade; resource and waste as relational statuses; decomposition versus breakage, death, or composting; nutrient versus food or fertilizer; recycling versus return, reuse, or a closed cycle. |
 | Observation and interpretation | `phisuri` sample, `mothami` baseline, `herani` trend, `reteru` model, `somethi` monitor | Sample versus example or evidence; baseline versus original or ideal state; trend versus cause or forecast; model versus represented reality; monitoring versus one observation, inspection, proof, or surveillance. |
 
-All 30 entries follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `ecological-systems-and-material-life` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit.
+All 30 roots coined in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, carry the `ecological-systems-and-material-life` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit.
 
 ## Concepts Kept Compositional
 

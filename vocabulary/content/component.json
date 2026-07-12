@@ -23,6 +23,8 @@
     "physical": "a part that may be material, though the term also permits informational and procedural components"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "ecological-systems-and-material-life",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

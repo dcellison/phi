@@ -24,6 +24,7 @@
     "dialogue": "an exchange intended to inform later action"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance"
   ]
 }

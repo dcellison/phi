@@ -1,12 +1,14 @@
 # Household and Daily Life
 
-**Status:** **Established vocabulary module** with 30 optional roots and shared-core `mirewu` private.
+**Status:** **Established vocabulary module** with 30 roots coined here, 38 current memberships, and shared-core `mirewu` private.
 
 ## Charter
 
 Household language begins where things are used repeatedly: the room that changes purpose by the hour, the bucket between the water source and the kitchen, the laundry waiting through rain, and the food left after a meal. This module adds words for those daily relations without defining one proper way to live together.
 
 The module adds vocabulary only. Phi keeps one grammar and one particle system, and every new word follows the ordinary event-noun or quality-noun rule where its part of speech permits.
+
+The speaker-facing guide is [Household and Daily Life](../../manual/part7_reference/modules/household_and_daily_life.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#household-and-daily-life). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -48,14 +50,14 @@ The profile uses these ordinary Phi resources without moving them into the modul
 
 The first pass admits 30 optional words and places `mirewu` private in shared core.
 
-| Family | Established words | New reach |
+| Family | Roots coined for this profile | New reach |
 |---|---|---|
 | Household and boundaries | `womuri` household, `tholupi` room, `phemiru` visit, `kirato` lock | Speakers can distinguish the domestic unit from home or family, name an interior room, bound a guest stay, and identify the mechanism holding a closure. |
 | Storage and fixtures | `phelasi` shelf, `lirupa` bag, `molupa` box, `lophani` bottle, `tapulo` jar, `kolupe` bucket, `tapuri` lid, `muneki` latrine | General containers now divide by flexible sides, rigid panels, openings, carrying handles, fitted covers, and household function. |
 | Cleaning and cloth | `phurilo` broom, `phurewa` sweep, `sawathi` soap, `wethaki` towel, `wethate` laundry, `lupaki` fold, `wethamo` blanket, `komalu` pillow | Upkeep can name its tools, gathered cloth, repeated motions, and the coverings that return to the bed. |
 | Meals and preparation | `norupe` spoon, `nurome` meal, `phareme` ingredient, `thekopa` recipe, `pheomu` leftovers, `mukesi` spoil, `therapi` boil, `napako` bake, `welotu` mix, `seluto` pour | Food can be followed from instructions and ingredients through preparation, eating, remaining portions, and loss of use. |
 
-All 30 module entries carry `household-and-daily-life`. `mirewu` carries no module field and appears in base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
+All 30 roots coined in this pass carry `household-and-daily-life`. `mirewu` carries no module field and appears in base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
 ## Concepts kept compositional or external
 
@@ -103,5 +105,3 @@ The scene still works without a module word. It moves from noticing wear to repa
 ## Continued development
 
 Use the module in solitary or shared dwellings and temporary shelters. Let it follow ordinary meals, guest stays, cleaning days, and disputes over domestic work. Later use may ask for another utensil, fixture, staple, or relation, and Phi can coin it without reopening the grammar.
-
-All eight active profiles now have vocabulary passes and speaker chapters. The next review can assess genuine multi-module membership before revisiting the active corpus with the whole expanded lexicon.

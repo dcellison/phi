@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. These twenty-two words are that toolkit, for constructing arguments, testing them, and being honest about where certainty runs out.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. These twenty-two roots are that toolkit. They let speakers build and test an argument while staying honest about where certainty runs out.
 
 Like every module, these words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The complete machine-generated list is also available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces all 22 roots in the current learning list. The machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -19,7 +19,7 @@ The module does not replace what Phi already says about thought and dialogue. It
 | Dialogue and repair | `shareo` discuss, `nawo` agree, `naweri` refuse, `thekao` acknowledge, `shorela` rephrase, `shekoi` specify, `shelao` summarize |
 | Values and choice | `sone` value, `rolia` worth, `noetha` essential, `kanu` choose, `kelomi` accept, `numike` negotiate, `seru` commit, `thonai` responsible |
 
-## Module vocabulary
+## Roots introduced in this chapter
 
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|

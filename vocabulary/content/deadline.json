@@ -24,6 +24,7 @@
     "temporal": "the stated latest time under a named source"
   },
   "modules": [
+    "accessibility-and-participation",
     "work-craft-and-repair"
   ]
 }

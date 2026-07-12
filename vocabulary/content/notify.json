@@ -23,6 +23,7 @@
     "dialogue": "information offered without presuming receipt or understanding"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

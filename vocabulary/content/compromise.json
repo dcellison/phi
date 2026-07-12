@@ -25,6 +25,7 @@
     "wisdom": "a practical but morally nonautomatic response to conflict"
   },
   "modules": [
+    "commons-and-collective-governance",
     "philosophical-reasoning"
   ]
 }

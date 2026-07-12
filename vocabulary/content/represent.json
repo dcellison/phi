@@ -23,6 +23,7 @@
     "dialogue": "carrying another party's position under stated scope and authorization"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

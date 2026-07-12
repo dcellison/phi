@@ -22,6 +22,7 @@
     "cognition": "comparing evidence with a stated criterion"
   },
   "modules": [
+    "medical-and-bodily-care",
     "work-craft-and-repair"
   ]
 }

@@ -24,6 +24,7 @@
     "creation": "maintenance of measuring and signaling tools"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

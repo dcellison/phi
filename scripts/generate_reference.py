@@ -112,14 +112,14 @@ def by_module(entries):
         for module in d.get("modules", []):
             modules[module].append(d)
     lines = [HEADER, "# The Phi Lexicon — By Optional Module\n"]
-    lines.append("*Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study.*\n")
+    lines.append("*Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study. A word with several module classifications appears in every learning path where it belongs.*\n")
     if not modules:
         lines.append("No module-specific words have been recorded yet.\n")
     for module in sorted(modules, key=lambda item: MODULE_TITLES.get(item, item)):
         words = sorted(modules[module], key=lambda d: d["word"])
         title = MODULE_TITLES.get(module, module.replace("-", " ").title())
         lines.append(f"\n## {title}\n")
-        lines.append(f"*{len(words)} module words.*\n")
+        lines.append(f"*{len(words)} words in this learning path.*\n")
         lines.append("| Word | Gloss | Part of speech | Concept |")
         lines.append("|---|---|---|---|")
         for d in words:

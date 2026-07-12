@@ -24,6 +24,8 @@
     "temporal": "attention repeated across a stated interval and duration"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure"
   ]
 }

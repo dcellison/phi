@@ -24,6 +24,7 @@
     "temporal": "planned relations among times and stages"
   },
   "modules": [
+    "accessibility-and-participation",
     "work-craft-and-repair"
   ]
 }

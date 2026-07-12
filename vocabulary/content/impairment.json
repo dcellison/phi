@@ -24,6 +24,7 @@
     "temporal": "a function that may be temporary, lasting, or variable"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "medical-and-bodily-care"
   ]
 }

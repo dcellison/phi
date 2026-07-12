@@ -1,6 +1,6 @@
 # Work, Craft, and Repair
 
-**Status:** **Established vocabulary module** - 30 module words, ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here and 48 current memberships; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module gives Phi speakers optional vocabulary for labor, work organization,
 
 The module is not an employment system, occupational classification, apprenticeship contract, safety standard, quality-management system, professional credential, guild charter, or economic doctrine. It does not define which work is valuable, who must perform it, who owns its materials or result, how anyone should be compensated, or who has authority to assign, inspect, accept, or reject it.
 
-The speaker-facing guide is [Work, Craft, and Repair](../../manual/part7_reference/modules/work_craft_and_repair.md), and the complete generated inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#work-craft-and-repair). Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Work, Craft, and Repair](../../manual/part7_reference/modules/work_craft_and_repair.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#work-craft-and-repair). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -55,7 +55,7 @@ The established [Commons and Collective Governance module](commons_and_collectiv
 
 The first pass admits 30 words for recurring distinctions whose ordinary paraphrases were cumbersome, ambiguous, or unable to sustain work-focused discussion. The pass does not attempt to reproduce an English employment vocabulary or catalogue every tool. It concentrates on work structure, practical capacity, evaluation, labor conditions, and material traceability while retaining exact economic, legal, safety, technical, and credential artifacts outside Phi when their source form matters.
 
-| Family | Established module words | What the pass now distinguishes |
+| Family | Roots coined for this profile | What the pass now distinguishes |
 |---|---|---|
 | Work units and status | `riporu` task, `rinoka` project, `winora` plan, `wepuri` progress, `hasoru` pending, `noraku` blocked, `lumethi` deadline, `thimora` schedule | A task from labor or obligation; a project from an institution or indefinite aspiration; a plan from a promise, design, schedule, or specification; progress from generic improvement; pending from unstarted; blocked from refusal or failure; deadlines and schedules from exact source timestamps and accepted commitments. |
 | Coordination and transition | `rilowa` assign, `wephari` coordinate, `someru` supervise, `sethoni` handoff | Assignment from authority, acceptance, and obligation; coordination from control or supervision; supervision from legitimate rank or ownership of labor; handoff from receipt, acceptance, ownership transfer, and abandonment of accountability. |
@@ -65,7 +65,7 @@ The first pass admits 30 words for recurring distinctions whose ordinary paraphr
 | Labor conditions and power | `ritako` workload, `rimawu` drudgery, `pilora` exploit | Workload from technical load, obligation, capacity, fairness, fatigue, and harm; drudgery from all repetitive work or proven exploitation; exploitation from every use, exchange, inequality, error, or disliked result. |
 | Materials and logistics | `muphera` stock, `sitawi` inventory, `sephori` supply, `katemu` offcut, `luseri` provenance | Held material from ownership, availability, and inventory; a time-bounded inventory record from the physical stock; supplying from giving, adequate provision, receipt, and control; offcuts from inherent waste; provenance from proof, ownership, authenticity, or ethical approval. |
 
-All 30 entries follow the complete vocabulary schema, carry the `work-craft-and-repair` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit.
+All 30 roots coined in this pass follow the complete vocabulary schema, carry the `work-craft-and-repair` module classification, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit.
 
 ## Concepts Kept Compositional or External
 
@@ -131,4 +131,4 @@ Use the module in craft narratives, repair records, project discussions, learnin
 
 Future use should particularly test non-workshop coordination, source-faithful wage and contract disputes, household and care labor, software and automated work, protective systems, learner exit, contested certification, and material provenance across more than one community. These are opportunities for development, not admission gates for vocabulary.
 
-After the current intended module set is established, assess genuine multi-module membership and then revisit the existing dialogues, scenarios, stories, and teaching texts together. Update a text when the expanded vocabulary makes its meaning clearer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation.
+Once the remaining classification decisions are settled, revisit the existing corpus as a whole. Update a text when the expanded vocabulary makes its meaning clearer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation.

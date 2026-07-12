@@ -23,6 +23,7 @@
     "cognition": "a selected scope for planning and status description"
   },
   "modules": [
+    "household-and-daily-life",
     "work-craft-and-repair"
   ]
 }

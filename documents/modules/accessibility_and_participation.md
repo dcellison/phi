@@ -1,12 +1,14 @@
 # Accessibility and Participation
 
-**Status:** **Established vocabulary module** with 30 optional roots and shared-core `sowelu` disabled.
+**Status:** **Established vocabulary module** with 30 roots coined here, 43 current memberships, and shared-core `sowelu` disabled.
 
 ## Charter
 
 A doorway, document, meeting pace, or offer of help can change whether a person reaches an activity and keeps direction over their part in it. This module gathers the words needed to describe that relation without requiring a diagnosis. Accessibility remains a relation among a person, an activity, an environment, a communication form, and time.
 
 The module adds vocabulary only. Phi keeps one grammar and one particle system, and every new word follows the ordinary event-noun or quality-noun rules where its part of speech permits.
+
+The speaker-facing guide is [Accessibility and Participation](../../manual/part7_reference/modules/accessibility_and_participation.md), and the complete current inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#accessibility-and-participation). The vocabulary table below records the roots coined for this profile; the generated inventory also includes words shared with other learning paths. A shared classification changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -40,7 +42,7 @@ The profile uses these ordinary Phi resources without moving them into the modul
 |---|---|---|
 | [Commons and Collective Governance](commons_and_collective_governance.md) | `shalori` represent, `loatho` delegate, `karami` authority, `kanuwa` authorize, `norathu` procedure, `kanuro` decision, `shanewi` notify, `tukiro` review, `kawhera` coerce | Representation, authority, notice, and procedure can shape access without proving participation or consent. |
 | [Work, Craft, and Repair](work_craft_and_repair.md) | `winora` plan, `thimora` schedule, `lumethi` deadline, `noporu` design, `kisholu` specification, `somaki` test, `ritako` workload | A design or schedule can be exact and still fail a person in use. |
-| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `nowiso` interface, `koluri` reliable, `sherani` redundant, `henora` capacity, `kiphira` fault | Technical performance and access answer different questions about the same tool or service. |
+| [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `nowiso` interface, `koluri` reliable, `wepanu` redundant, `henora` capacity, `kiphira` fault | Technical performance and access answer different questions about the same tool or service. |
 | [Medical and Bodily Care](medical_and_bodily_care.md) | `phamori` symptom, `hisaro` clinical finding, `mokanu` disease, `kithero` diagnose, `nephoru` treat, `helanu` recover | Medical words remain available when health is the subject; no medical claim is the price of asking for access. |
 | [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `howenu` weather, `phaluwe` flood, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `somethi` monitor | Environmental conditions can create barriers, while an access report alone does not establish their ecological cause. |
 | [Philosophical Reasoning](philosophical_reasoning.md) | definitions, criteria, evidence, inference, uncertainty, tradeoffs, and compromise | Access claims can be examined without turning a negotiated compromise into a universal solution. |
@@ -49,7 +51,7 @@ The profile uses these ordinary Phi resources without moving them into the modul
 
 The first pass admits 30 optional words. It also places `sowelu` disabled in shared core so identity does not disappear behind an optional module selector.
 
-| Family | Established words | New reach |
+| Family | Roots coined for this profile | New reach |
 |---|---|---|
 | Access relation | `ruweli` access, `lokane` accessible, `kopharu` barrier, `hinawu` accommodate | Reach and use can be distinguished from participation; a barrier can sit in architecture, communication, timing, or procedure; an accommodation names the particular change. |
 | Function and direction | `murethi` impairment, `ralemi` independent, `naphelu` assistive | Functional difference stays separate from disability, independence can include support, and a tool can be described by the chosen function it assists. |
@@ -59,7 +61,7 @@ The first pass admits 30 optional words. It also places `sowelu` disabled in sha
 | Time and demand | `thimelo` pace, `hasenu` recess, `wiresu` postpone, `thunesi` asynchronous, `sanowu` predictable, `pushali` overload | An activity's speed, an internal pause, a moved event, participation across different times, advance knowability, and excess demand no longer share the single verb `hasi` wait. |
 | Participation and power | `misharo` consult, `pharomu` exclude, `wheparu` discriminate, `sirelu` disclose, `shaweri` advocate | Speakers can say whether an affected view informed action, who was kept out, how a category shaped harm, where private information traveled, and whose position received active support. |
 
-All 30 module entries carry `accessibility-and-participation`. `sowelu` carries no module field and appears in the base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
+All 30 roots coined in this pass carry `accessibility-and-participation`. `sowelu` carries no module field and appears in the base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
 ## Concepts kept compositional or external
 
@@ -99,5 +101,3 @@ The module words carry no professional credential or compliance result. `Thekasi
 ## Continued development
 
 Use the module wherever access becomes part of an ordinary activity: a workshop or home, a public route, a digital system, a care conversation, or a collective decision. Later use may expose missing words for orientation and fatigue, communication and sensory conditions, or institutional harm. Coin them when Phi needs them instead of forcing every new experience through this first set.
-
-All eight active profiles now have vocabulary passes. Assess genuine multi-module membership next, then revisit the active corpus as one body of writing.

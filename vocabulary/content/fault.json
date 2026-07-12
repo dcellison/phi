@@ -24,6 +24,7 @@
     "physical": "an abnormal condition in a technical component or relation"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }

@@ -23,6 +23,7 @@
     "community": "a governance procedure with participants and decision conditions"
   },
   "modules": [
+    "accessibility-and-participation",
     "commons-and-collective-governance"
   ]
 }

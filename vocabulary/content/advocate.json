@@ -24,6 +24,7 @@
     "dialogue": "speaking publicly for a position without implied representation authority"
   },
   "modules": [
-    "accessibility-and-participation"
+    "accessibility-and-participation",
+    "commons-and-collective-governance"
   ]
 }

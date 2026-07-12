@@ -24,6 +24,7 @@
     "physical": "a situated collection of tangible items"
   },
   "modules": [
+    "household-and-daily-life",
     "work-craft-and-repair"
   ]
 }

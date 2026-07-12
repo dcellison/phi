@@ -24,6 +24,7 @@
     "creation": "a design quality based on independent alternative means"
   },
   "modules": [
+    "accessibility-and-participation",
     "systems-and-shared-infrastructure"
   ]
 }

@@ -25,6 +25,8 @@
     "creation": "guiding making through an intentional specification"
   },
   "modules": [
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure",
     "work-craft-and-repair"
   ]
 }

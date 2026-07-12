@@ -24,6 +24,8 @@
     "physical": "a material process with inputs, outputs, losses, and changed properties"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "household-and-daily-life",
+    "work-craft-and-repair"
   ]
 }

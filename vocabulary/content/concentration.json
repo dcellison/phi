@@ -23,6 +23,8 @@
     "physical": "an amount of matter, organisms, or another agent per stated medium"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "work-craft-and-repair"
   ]
 }

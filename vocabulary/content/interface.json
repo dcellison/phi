@@ -24,6 +24,7 @@
     "spatial": "a boundary or contact location across which exchange occurs"
   },
   "modules": [
+    "accessibility-and-participation",
     "systems-and-shared-infrastructure"
   ]
 }

@@ -24,6 +24,8 @@
     "physical": "contact through a route over a duration"
   },
   "modules": [
-    "ecological-systems-and-material-life"
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "work-craft-and-repair"
   ]
 }

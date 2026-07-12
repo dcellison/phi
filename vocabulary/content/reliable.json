@@ -24,6 +24,8 @@
     "temporal": "consistent performance across a stated duration"
   },
   "modules": [
-    "systems-and-shared-infrastructure"
+    "accessibility-and-participation",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
   ]
 }
