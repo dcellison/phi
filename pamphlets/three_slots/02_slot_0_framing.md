@@ -42,7 +42,7 @@ Two boundary notes worth fixing early. First, the intents do not stack with each
 
 ### Deep coverage elsewhere
 
-Each frame has its own literature now: `wa` and the questions that need no `wa` are the punctuation pamphlet, part 2; `su` has `lothea thole` entirely to itself (one text, twenty-three `su`); `no`'s gentleness is ch10 §5. This part's job is only the system: five intents, one dress, politeness first, absence meaningful.
+Each frame has its own literature now: `wa` and the questions that need no `wa` are the punctuation pamphlet, part 2; `su` has `lothea thole` entirely to itself, with thirty-one wishes in one text; `no`'s gentleness is ch10 §5. This part's job is only the system: five intents, one dress, politeness first, absence meaningful.
 
 ### Drill: one thought, five frames
 

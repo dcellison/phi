@@ -31,9 +31,9 @@ Slot 1 is a map of the meditating mind. Sitting, notice a thought and tag it sil
 The language now possesses its own complete loving-kindness text: *lothea thole*, the Metta Sutta transmutation (in the pamphlets). Its refrain was built for recitation:
 
 ```
-su theula [rena lima nai] siora korua phelu.
-OPT UNIV [REL alive be] joy heart hold.
-(May all that lives hold a joyful heart.)
+su theula limoe siora korua phelu.
+OPT UNIV creature joy heart hold.
+(May every creature hold a joyful heart.)
 ```
 
 The full text, read aloud with complete hiatus, takes about four minutes: a sitting in itself. Reciting it does double duty that no other practice in this manual can match: every repetition deepens both the metta and the Phi. The tradition that gave Phi its mindfulness pillar always taught in this way: meaning carried on rhythm, rhythm carried on breath. The language has come home to the method.
