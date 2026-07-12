@@ -2,7 +2,7 @@
 
 Someone wakes with a fever and says so, in their own words. Everything this module adds begins in that sentence: the report belongs to the person, the finding to a stated method, the conclusion to someone with a name, and consent to the one whose body it is. Thirty words hold the space between "I feel" and "we act."
 
-Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it confers nothing: not medical knowledge, not a role, not permission to act on another person.
+Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
 The complete machine-generated list is also available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
@@ -51,7 +51,7 @@ Informed consent stays a process, not a compound that proves its own conditions.
 | `kithero` | verb | diagnose; form or state a clinical conclusion | A diagnosis is a conclusion someone drew; it can be provisional, revised, or wrong. |
 | `wireki` | noun | prognosis; conditional claim about expected health course | A prognosis is conditional, never a sentence passed on a life. |
 | `soranu` | verb | screen; apply a health check to identify possible need for evaluation | Screening looks for who may need evaluation; it neither diagnoses nor obliges. |
-| `nephoru` | verb | treat; undertake care intended to change a health condition | Treatment intends change; benefit and consent are separate facts. |
+| `nephoru` | verb | treat; undertake care intended to change a health condition | Treatment intends change; benefit and consent stand apart from it. |
 | `thekamu` | verb | intervene; deliberately act on a health state or care process | An intervention is any deliberate act on a health state; treatment is the narrower intention. |
 | `mikasu` | noun | dose; specified amount at a stated administration | A dose is one amount at one administration; unit and schedule stay exact in the record. |
 | `porewi` | noun | side effect; additional effect beyond an intervention's target | A side effect is anything beyond the target, harmful or not. |
@@ -181,7 +181,7 @@ The work module's `somaki` (test) runs the procedure; `hisaro` names what it fou
 
 ## Treatment, intervention, and dose
 
-`nephoru` carries a health-changing intention: medicine, therapy, support, a changed room, whatever the care is. Intention is all it carries; cure and benefit are hopes with their own sentences.
+`nephoru` carries a health-changing intention: medicine, therapy, support, a changed room, whatever the care is. Intention is all it carries; cure and benefit are hopes, not parts of the verb.
 
 ```
 shia mia nephoru.
@@ -205,7 +205,7 @@ mia ha mikasu reo ma shelomu.
 (I do not understand the meaning of this dose.)
 ```
 
-A care conversation, in Phi, unfolds in parts that stay visible: the record itself, what it means, what is proposed, what it is expected to do, what is uncertain, what else could be done, the person's questions, and their `lesawi` or their `naweri`. The grammar has room for all of it, and the room is the point.
+A care conversation, in Phi, unfolds in parts that stay visible: the record itself, what it means, what is proposed, what it is expected to do, what is uncertain, what else could be done, the person's questions, and their `lesawi` or their `naweri`. The grammar deliberately keeps room for every one of those parts.
 
 ## Effects, allergy, and contraindication
 
@@ -293,7 +293,7 @@ shia shorenu nai.
 (They are immune.)
 ```
 
-`shuneki` names the act of giving a vaccine for a protective purpose. The exact product, lot, and schedule stay in the record; consent and result each keep their own sentence.
+`shuneki` names the act of giving a vaccine for a protective purpose. The exact product, lot, and schedule stay in the record, and neither the consent before the act nor the immunity after it rides along in the verb.
 
 ```
 shia mia shuneki.
