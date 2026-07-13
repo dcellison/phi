@@ -12,19 +12,19 @@ UNIV person free born.
 (All people are born free.)
 udhr: "All human beings are born free"
 
-theula miona kolo rolia phelu.
-UNIV person equal worth hold.
-(All people hold equal worth.)
+theula miona kolo rolia nela lo kolo shereni phelu.
+UNIV person equal worth COORD PL equal entitlement hold.
+(All people hold equal worth and equal entitlements.)
 udhr: "and equal in dignity and rights."
 
-theula miona remo nela korua sano phelu.
-UNIV person think COORD heart know hold.
-(All people hold thought, and the heart's knowing.)
+theula miona po remo. lo shia korua sano phelu.
+UNIV person POT think. PL 3SG heart know hold.
+(All people can think. They hold the heart's knowing.)
 udhr: "They are endowed with reason and conscience"
 
-theula miona phea lomea wiso na lothea.
-UNIV person AS sibling RECP NEC love.
-(All people, as siblings, must love one another.)
+theula miona phea lomea wiso phena na phoa.
+UNIV person AS sibling RECP kind NEC do.
+(All people, as siblings, must act kindly toward one another.)
 udhr: "and should act towards one another in a spirit of brotherhood."
 ```
 
@@ -36,28 +36,28 @@ udhr: "and should act towards one another in a spirit of brotherhood."
 
 **Notes:** Phi's freedom is not isolation; the `ralu` entry defines it as freedom from harmful constraint, which is precisely the article's sense.
 
-### theula miona kolo rolia phelu.
+### theula miona kolo rolia nela lo kolo shereni phelu.
 
-*…and equal in dignity and rights.* Here the transmutation begins. Phi has no established legal term for rights, and its value-explicit design declines to invent one from a single translation. What this transmutation protects, it states as worth held equally. Exact legal wording remains separately available as source material whenever analysis, advocacy, or citation requires it.
+*...and equal in dignity and rights.* Here the transmutation uses two different resources. Equal worth, `kolo rolia`, gives dignity an inherent basis. Equal entitlements, `lo kolo shereni`, uses the Commons word for recognized claims to express the practical side of rights. The source citation retains the legal term because an entitlement and a human right are not identical.
 
-**Notes:** "dignity and rights" → `kolo rolia`, equal worth. The gap log's honest entry: a right, in Phi, is not a possession but a fact about worth that others are bound to see. Whether Phi ever needs a legal vocabulary is a question for another decade.
+**Notes:** dignity and the claims made upon society are separate noun phrases, joined by `nela` and held equally by every person. Worth does not have to swallow rights.
 
-### theula miona remo nela korua sano phelu.
+### theula miona po remo. lo shia korua sano phelu.
 
-*They are endowed with reason and conscience.* Reason is `remo`: a thought, the event-noun of thinking. Conscience is composed, not coined: `korua sano`, the heart's knowing, knowledge that lives in the chest rather than the head. And "endowed with" is simply `phelu`, hold: what you are endowed with, you hold.
+*They are endowed with reason and conscience.* A stored thought is not the human capacity the article names. The phrase `po remo` states that people can think. Conscience is `korua sano`, the heart's knowing, held rather than reduced to a single judgment.
 
-**Notes:** `korua sano` follows the compound registry's pattern (heart-fire, sleep-story) but is used here as an open possessive phrase, not a registered idiom; if it recurs in future texts, it earns a registry entry.
+**Notes:** `korua sano` is an open possessive phrase rather than a registered compound. The two sentences also separate a capacity from an inward faculty instead of forcing both into one coordinated object.
 
-### theula miona phea lomea wiso na lothea.
+### theula miona phea lomea wiso phena na phoa.
 
-*…and should act towards one another in a spirit of brotherhood.* The equative `phea` frames the relation (as siblings) before the reciprocal `wiso` names one another, and the verse ends on the language's strongest verb. Where English hedges with "should act in a spirit of," Phi says what the spirit is and marks it necessary: `na lothea`, must love.
+*...and should act towards one another in a spirit of brotherhood.* The equative `phea` frames people as siblings before `wiso` makes the conduct reciprocal. Kind action, `phena phoa`, puts the source's emphasis on conduct. Love cannot be commanded into existence, but action can answer an obligation.
 
-**Notes:** two transmutations here. "Brotherhood" becomes `lomea`, sibling: core Phi has no gendered person-words, so this version chooses an ungendered relation. That is an interpretation, not a claim that the source wording vanished or that Phi automatically corrects it. "Should" becomes `na`, must: this version reads the article as obligation rather than wish.
+**Notes:** "Brotherhood" becomes `lomea`, sibling, an ungendered relation. "Should" becomes `na`, must, because this transmutation reads Article 1 as an obligation. The modal governs conduct rather than feeling.
 
 ## What the text demonstrates
 
-Four lines, one shape: `theula miona` opens every verse (*all people*), the way the original repeats its universal subject. No word in the text is new. The differences remain visible as translation choices: a legal concept rendered as equal worth, a gendered source metaphor rendered as siblinghood, and a modal rendered as necessity. An exact citation would preserve all three source forms instead.
+Four units open with `theula miona`, all people, so the universal subject returns with each claim. The Commons word `shereni` is the only module term: it lets worth and recognized entitlement remain distinct. Siblinghood changes the source's gendered metaphor, while `na` reads its moral "should" as obligation. The citation keeps the legal wording beside those choices.
 
 ---
 
-*Gap log: dignity/rights → `kolo rolia` (equal worth, held); endowed → `phelu` (hold); conscience → `korua sano` (the heart's knowing, composed); brotherhood → `lomea` (sibling, ungendered); should → `na` (necessity, deliberately stronger than the English). New words coined: none.*
+*Gap log: dignity → `kolo rolia` (equal inherent worth); rights → `lo kolo shereni` (equal recognized entitlements, with the exact legal category retained in the citation); endowed with reason → `po remo` (the capacity to think); conscience → `korua sano` (the heart's knowing); brotherhood → `lomea` (siblinghood without gender); should → `na` (obligation); act in a spirit → `phena phoa` (act kindly). New words coined: none.*

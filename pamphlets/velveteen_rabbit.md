@@ -145,9 +145,9 @@ shia li wuloe wetha to nai.
 (He was only velveteen.)
 williams: "and being only made of velveteen,"
 
-thelao soli mo horae wilemo shia to thiku nila.
-CONS SOME CMPR radiant toy 3SG PST small see.
-(And so some of the finer toys looked down on him.)
+thelao soli rena lo miona mo sone wilemo shia to thiku nila.
+CONS SOME REL PL person CMPR value toy 3SG PST small see.
+(And so some toys that people valued more looked down on him.)
 williams: "some of the more expensive toys quite snubbed him."
 
 lo keli wilemo ru thoru to nai.
@@ -215,9 +215,9 @@ ALSO wood large cat proud PST be.
 (Even the wooden great-cat put on pride.)
 williams: "Even Timothy, the jointed wooden lion, ... put on airs"
 
-lo rena kipona ki howela miona shia to pilewa.
-PL REL pain PFV receive person 3SG PST make.
-(The people who had received pain had made him.)
+lo sowelu miona shia to pilewa.
+PL disabled person 3SG PST make.
+(Disabled people had made him.)
 williams: "who was made by the disabled soldiers,"
 
 thelao shia na mo whalo remo phelu.
@@ -225,14 +225,14 @@ CONS 3SG NEC CMPR large think hold.
 (So he ought to hold larger thoughts.)
 williams: "and should have had broader views,"
 
-whekai shia shola mia nua lo kulo miona nolami nai sholo ro haolu.
-CONTR 3SG QUOT.COMP 1SG COM PL guide person bond be QUOT.COMP.CLOSE HAB speak.
-(But he kept saying: "I am bonded with the guiding people.")
+whekai shia shola mia whalo punoki wemari nai sholo ro haolu.
+CONTR 3SG QUOT.COMP 1SG large institution member be QUOT.COMP.CLOSE HAB speak.
+(But he kept saying: "I am a member of the great institution.")
 williams: "put on airs and pretended he was connected with Government."
 
-thoa lo shia thiku tupiwa miso ru thiku nela siloma to phaelo.
-AMONG PL 3SG small rabbit REFL INTS small COORD simple PST feel.
-(Among them all, the little rabbit felt himself very small and plain.)
+lo shia thiku tupiwa ru thiku nela siloma to ka phaelo.
+PL 3SG small rabbit INTS small COORD simple PST CAUS feel.
+(Together they made the little rabbit feel very small and plain.)
 williams: "Between them all the poor little Rabbit was made to feel himself very insignificant and commonplace,"
 
 li kori kalora wei shia phena to nai.
@@ -241,7 +241,7 @@ RESTR leather horse DAT 3SG kind PST be.
 williams: "and the only person who was kind to him at all was the Skin Horse."
 ```
 
-**Notes:** canon refuses money, price, and wage, so "the more expensive toys" cannot be ranked by cost; they are `mo horae`, the more radiant ones, which is what expense looks like from the nursery floor, and the snobbery survives intact. The snubbing and the looking-down are both `thiku nila`, the registry's see-small compound, contempt named as an act of seeing. Pretending stays what the earlier telling made it: a habitual quotative, `shola lo mia shewo nai sholo ro haolu`, they kept saying "We are real," since pretending is repetition, and the language gives them no way to rank themselves above anyone while they do it. The boat's "two seasons" are named rather than counted, `sui keloi nela muero`, through a summer and an autumn, because Phi counts moments and names seasons; his "rigging in technical terms" is `shia suro nela phora`, his ropes and sails, described `roe theko haluma`, in craft language. "A model of anything" leans on `relo` (symbol): the thing that stands for another thing, which is exactly the boat's boast and the rabbit's lack. Williams's "disabled soldiers" and "Government" both fall under canon's refusals of war and rule; the makers become `lo rena kipona ki howela miona`, the people who had received pain, which is the truth the word "disabled soldiers" politely wraps, and the great-cat's pretended connection is `nua lo kulo miona`, with the guiding people, the same `kulo` canon already uses where others say rule. The lion himself is `wolea whalo misheko`, the wooden great-cat, built like the registry's big-finger thumb; his name, like every name in this text, dissolves into what he is. "Made to feel" softens to plain feeling, `miso ru thiku nela siloma to phaelo`, felt himself very small and plain: Phi will not make the toys the agents of his smallness even where Williams's passive hints at it, and the pity of "poor" lives in the smallness itself.
+**Notes:** the expensive toys become the toys people valued more, `rena lo miona mo sone wilemo`. This preserves the social ranking that feeds their contempt without inventing a price. Their snubbing is `thiku nila`, see-small. The mechanical toys repeat "We are real" under the habitual, which gives their pretense its tiresome rhythm. The model boat has its two named seasons, ropes, sails, and craft language. The wooden great-cat was made by `lo sowelu miona`, disabled people. Their military role stays in the citation, but disability is named directly rather than hidden behind pain. The great-cat claims membership in `whalo punoki`, the great institution, using Commons vocabulary instead of laundering Government into guidance. The other toys also take part in the rabbit's humiliation: `to ka phaelo`, made him feel, preserves the pressure Williams placed on him.
 
 ## kori kalora — The Skin Horse
 
@@ -347,9 +347,9 @@ QUOT.COMP true REL DAT 2SG become thing be QUOT.COMP.CLOSE.
 ("Real is a thing that happens to you.")
 williams: "It's a thing that happens to you."
 
-shola lu lopia thia ro lothea sholo.
-QUOT.COMP COND child 2SG HAB love QUOT.COMP.CLOSE.
-("If a child loves you, habitually, the way mornings happen.")
+shola lu lopia sui ru laeno thimu thia lothea sholo.
+QUOT.COMP COND child DUR INTS long time 2SG love QUOT.COMP.CLOSE.
+("When a child loves you for a very long time,")
 williams: "When a child loves you for a long, long time,"
 
 shola lu shia thia li wilemo ma nila. lu shia thia ru lothea sholo.
@@ -377,9 +377,9 @@ shia theula thimu wero to nai.
 (He was always honest.)
 williams: "for he was always truthful."
 
-shola lu thia shewo nai. kipona thiku nai sholo.
-QUOT.COMP COND 2SG true be. pain small be QUOT.COMP.CLOSE.
-("Once you are Real, hurting is a small thing.")
+shola lu thia shewo nai. kipona thia ma kulo sholo.
+QUOT.COMP COND 2SG true be. pain 2SG NEG guide QUOT.COMP.CLOSE.
+("When you are Real, pain does not guide you.")
 williams: "\"When you are Real you don't mind being hurt.\""
 
 shia shola wa ha mua ta shemu kelu phea keli rato. sola wa ha roe lo thiku helui kelu sholo to thilou.
@@ -443,7 +443,7 @@ CONTR leather horse RESTR PST smile.
 williams: "But the Skin Horse only smiled."
 ```
 
-**Notes:** the story's heart keeps the shape the corpus already cites: `lu lopia thia ro lothea`, if a child loves you as a habit, the way mornings happen, and `thia shewo kelu`, you become Real. The habitual `ro` carries "for a long, long time" without a single added word, because habit is duration in Phi's grammar. Williams's "not just to play with, but REALLY loves you" stands as its own condition pair: `li wilemo ma nila`, does not see you as a toy merely, the same depictive frame canon cites from this text's mercy-line, and `ru lothea`, truly loves. The Rabbit's naive question is answered item by item, `lo rena kohura pilewa thena`, things that make a noise, `kohura` being noise as sound-without-pattern, and `keli manuwe`, the device-hand, which is all a winding key is to someone made of cloth. "I suppose you are real?" wears its supposing where Phi wears all its knowing, in the evidential: `thia shewo ho nai`, marked as assumption, so the question's shy hedge is grammar rather than phrasing. Fragility is `reshi pukate`, breaking quickly, the new verb's second scene; "carefully kept" is `se na moli phelu`, must be gently held, with `phelu`'s own steady-pressure gentleness doing the caring. And the answer to what love costs is exact: `pai theula thia whila lue lothea ki wepu`, nearly all your hair has gone from love, the `lue` of source marking love as the direction the hair went.
+**Notes:** the Skin Horse gives love its full duration: `sui ru laeno thimu`, for a very long time. Her contrast between play and love is a condition pair, first refusing to see the rabbit merely as a toy and then naming `ru lothea`, true love. The Rabbit asks whether Real means noisy machinery and a winding handle, all described from the body of a cloth toy. Assumption marks his shy "I suppose," while `reshi pukate` and `se na moli phelu` distinguish toys that break quickly from toys that must be held gently. The Skin Horse does not call pain small. The line `kipona thia ma kulo`, pain does not guide you, leaves hurt real while describing the freedom love has made possible. The cost follows in Williams's own image: nearly all the hair has gone `lue lothea`, from love.
 
 ## kori kalora nophi — The Skin Horse's story
 
@@ -968,9 +968,9 @@ shia nua miso wuloe wetha tupiwa to ro thola.
 (He would bring the velveteen rabbit along with him.)
 williams: "He took the Velveteen Rabbit with him,"
 
-phoe peloru muraki nela waeshi wile lopia theula thimu thoa phero wei tupiwa ta thiku nuwera to pilewa.
-ANT flower harvest COORD wild play child UNIV time AMONG fern DAT rabbit one small bed PST make.
-(Before the flower-gathering and the wild play, the child always made the rabbit a little nest among the bracken.)
+phoe peloru muraki nela kawhera wile lopia theula thimu thoa phero wei tupiwa ta thiku nuwera to pilewa.
+ANT flower harvest COORD coerce play child UNIV time AMONG fern DAT rabbit one small bed PST make.
+(Before gathering flowers and playing at coercion, the child always made the rabbit a little nest among the bracken.)
 williams: "and before he wandered off to pick flowers, or play at brigands among the trees, he always made the Rabbit a little nest somewhere among the bracken,"
 
 mua ha nuwera tupiwa sulae nela nuloe to nai.
@@ -1004,7 +1004,7 @@ shia mena wi kuewa limoe mue raelu phero maeli shua meno to nila.
 williams: "he saw two strange beings creep out of the tall bracken near him."
 ```
 
-**Notes:** the summer earns the coined adjective outright: `ru waora`, truly wondrous, `wao` standing still long enough to describe a season. June is carried as `keloi thorui`, summer's beginning, the month-name dissolved into the season the way this text dissolves person-names into offices; tea is `howai nuola`, the evening eating, and the picnic the same eating taken together on the grass. The nest is `ta thiku nuwera`, a little bed, made `thoa phero`, among the fern, `phero` being bracken's own word; "before he wandered off" is `phoe` standing over the two event nouns the wandering was for, the flower-harvest and the wild play. That wild play is also where Williams's "brigands" goes: canon refuses outlaw-romance no further than it refuses violence, so the game is `waeshi wile`, playing wild, which is what the game actually is. The ants walk in as `lo thiku nireku`, the small insects, Phi's insect-word covering the colony the story never particularizes further; and the strangers arrive on `kuewa`'s first narrative work, two strange creatures coming `maeli`, quietly, out of the tall fern, creeping carried by the quiet.
+**Notes:** `ru waora`, truly wondrous, gives summer its first judgment. June becomes `keloi thorui`, summer's beginning; tea is the evening meal, and the picnic is eating together on the grass. The rabbit's nest is a little bed among the fern. Coercion-play, `kawhera wile`, preserves both halves of Williams's brigand game: the children imitate power, but they are still playing. Ants remain small insects because their species does no later work, and the two strange creatures creep out of the tall fern under `maeli`, quietly.
 
 ## waeshi tupiwa — The wild rabbits
 
@@ -1416,9 +1416,9 @@ COND 2SG true be. old become small thing be.
 williams: "and when you are Real shabbiness doesn't matter."
 ```
 
-**Notes:** the whole section is built to rhyme with what came before, because Williams builds it that way: the whiskers go `lue lothea`, from love, the Skin Horse's exact preposition of source; the ears' dawn-color turns to the registry's stone-color, pink to gray in two compounds; the coined spots nearly go from sight; and the section closes on the gnomic that answers `kipona thiku nai` from the hearth-side dialogue: `serao kelu thiku thena nai`, growing shabby is a small thing. "He scarcely looked like a rabbit any more" runs `phea` through the passive with `po ma`, could scarcely be seen as a rabbit, and the exception Williams grants is `li wei lopia`, only to the child, the restriction and the dative carrying "except." How-he-looked-to-others embeds on the bare question-word `thela`, how, no complementizer needed, and what the rabbit does with that question is Phi's plainest negation: he did not think it.
+**Notes:** Williams makes this section echo the Skin Horse's lesson. The whiskers go `lue lothea`, from love; dawn-colored ears become stone-colored, and the coined spots almost vanish. The section closes with its own judgment, `serao kelu thiku thena nai`, growing shabby is a small thing. That claim concerns appearance, not pain. The rabbit can scarcely be seen as a rabbit except `li wei lopia`, only by the child, and he gives no thought to how anyone else sees him.
 
-## thero mokela — The fire-sickness
+## rulo suloru — The scarlet fever
 
 ```
 pheo thena ta philo lopia mokela to kelu.
@@ -1531,9 +1531,9 @@ shia muo lopia shonui lo ha thena to whishela.
 (And whispered these things into his ear.)
 williams: "and whispered them in his ear."
 
-pheo soli shemu thero mokela to rato.
-POST SOME moment fire sick PST turn.
-(Presently the fire-sickness turned.)
+pheo soli shemu rulo suloru to rato.
+POST SOME moment red fever PST turn.
+(Presently the scarlet fever turned.)
 williams: "And presently the fever turned,"
 
 lopia towe to pa kelu.
@@ -1557,7 +1557,7 @@ one day child PST POT stand. 3SG REFL garment PST POT receive.
 williams: "And one day, they let him get up and dress."
 ```
 
-**Notes:** scarlet fever keeps the name this text long ago gave it, `thero mokela`, the fire-sickness, and the fever's body is described the only way a cloth animal would describe it: `phea thero`, like fire, so that Williams's "it burned the Rabbit" follows as plain fact. The vigil under the bedclothes is all posture and negation: he lay, was hidden from sight, never once moved, and the fear that keeps him still is held, `sukima to phelu`, with its reason unfolded inside the thought. The waiting is the coined nestling done `hurao`, patiently, and the daydream runs on the future particle through the garden, the flowers, the coined butterflies in their proper daylight, and the berry-cane thicket `phea luera`, as in the past. What he does with the dreams is the whisper-verb's tenderest work: `muo lopia shonui lo ha thena to whishela`, he whispered these things into the child's ear, the sickroom's one-listener speech exactly. The fever "turned" in Phi as in English, `rato`, the same verb that winds the mechanical toys; and the picture-books are `welisha shelu`, color-books, which is what a picture-book is to the child reading it.
+**Notes:** `rulo suloru`, red fever, gives the illness the color and bodily state in its source name while leaving the exact diagnosis in the citation. The rabbit still experiences the child's heat `phea thero`, like fire. Under the bedclothes he lies hidden and motionless, holding fear as he waits. His future-marked daydream moves through garden, flowers, butterflies, and the berry canes as they were before. He whispers those images into the child's ear. When the fever turns, `rato` is the same verb that winds the mechanical toys, a small echo inside the sickroom.
 
 ## moriwhe remo — The seaside plan
 
@@ -1617,9 +1617,9 @@ RESTR 3SG head OUT.OF cloth PST stand. 3SG PST listen.
 (Only his head peeped out of the cloth, and he listened.)
 williams: "with just his head peeping out, and listened."
 
-tholu lue mokela thinoe se na hiso ka kelu.
-space ABL sick seed PASS NEC clean CAUS become.
-(The room must be made clean of the sickness-seeds.)
+tholu lue rulo suloru hisophi se na hiso ka kelu.
+space ABL red fever contaminant PASS NEC clean CAUS become.
+(The room must be cleaned of scarlet-fever contamination.)
 williams: "The room was to be disinfected,"
 
 theula rena lopia mua nuwera nua to wile shelu nela wilemo se na thape.
@@ -1662,9 +1662,9 @@ REL heal person QUOT.COMP Q PROX QUOT.COMP.CLOSE PST inquire.
 (The healer said: "That?")
 williams: "\"That?\" said the doctor."
 
-shola ha sheloi thero mokela thinoe phelu sholo.
-QUOT.COMP PROX MANY fire sick seed hold QUOT.COMP.CLOSE.
-("It holds a mass of fire-sickness seeds!")
+shola ha sheloi rulo suloru hisophi phelu sholo.
+QUOT.COMP PROX MANY red fever contaminant hold QUOT.COMP.CLOSE.
+("It holds a mass of scarlet-fever contamination!")
 williams: "\"Why, it's a mass of scarlet fever germs!-"
 
 shola no ha nosa thape sholo.
@@ -1683,7 +1683,7 @@ QUOT.COMP 3SG PROX NONE time NEC NEG hold QUOT.COMP.CLOSE.
 williams: "He mustn't have that any more!\""
 ```
 
-**Notes:** the disinfection is the section's own composition: `mokela thinoe`, the sickness-seeds, germs named as what they do, so the room is cleaned `lue mokela thinoe`, of them, by canon's own cleaning causative. The healer keeps the epithet this text coined for him, `rena theala miona`, the one who heals, and his orders are only `haolu`, words, that must be carried through, `teru`, since Phi grants no one the vocabulary of command; the terrible authority survives entirely in `na`, the necessity stacked into every sentence of the scene. His verdict compresses Williams's rhythm rather than his content: the seeds, the burning, the foolish-talk dismissal, the new rabbit, and the never, each its own quoted sentence. Against all this stand the rabbit's plans: the waves arrive as `lo rena shua whalo morilu`, the big waves that come, the crabs as `ru thiku moriwhe limoe`, the very small sea-creatures, named by their world rather than their species, and the sand castles as `kirua womu`, sand-homes, which is what a child builds. `hoi`, the onward-interjection, is the rabbit's hurrah, and its misplaced hope is the scene's whole grief.
+**Notes:** the medical module gives the disinfection scene an exact phrase. Scarlet-fever contamination, `rulo suloru hisophi`, fits the rabbit as an object outside the host. The disease and the doctor's wording stay in the citation. His instructions use repeated `na`, necessity, and Williams's rhythm is a run of short verdicts. Against them stand the rabbit's plans for waves, tiny sea creatures, and sand houses. The interjection `hoi`, onward, is his hurrah, spoken just before the sack arrives.
 
 ## molu — The sack
 
@@ -2117,7 +2117,7 @@ williams: "He did not know that when the Fairy kissed him that last time she had
 
 shia ru nilua to nai. lu he mawha thena shia nophae thiku palo. shia sui laeno thimu po meilo.
 3SG INTS shy PST be. COND IRR NONE thing 3SG nose small touch. 3SG DUR long time POT sit.
-(He was very shy; and had nothing just then small-touched his nose, he might have sat there a long time.)
+(He was very shy. If nothing had lightly touched his nose, he might have sat there a long time.)
 williams: "And he might have sat there a long time, too shy to move, if just then something hadn't tickled his nose,"
 
 phoe remo shia roe miso rokai paloi thumai miso nophae to rohi.
@@ -2246,9 +2246,9 @@ AROUND 3SG small soft nose COORD 3SG black eye one know thing PST be.
 (About his little soft nose and his black eyes there was a known thing.)
 williams: "And about his little soft nose and his round black eyes there was something familiar,"
 
-lopia wei miso shola wao. shia phea rena mua mia thero mokela shemu lue mia wepu mia serao tupiwa nai sholo to haolu.
-child DAT REFL QUOT.COMP wow. 3SG AS REL LOC 1SG fire sick moment ABL 1SG go 1SG old rabbit be QUOT.COMP.CLOSE PST speak.
-(The child said to himself: "Why, he looks just like my old rabbit, the one that went from me when I had the fire-sickness!")
+lopia wei miso shola wao. shia phea rena mua mia rulo suloru shemu lue mia wepu mia serao tupiwa nai sholo to haolu.
+child DAT REFL QUOT.COMP wow. 3SG AS REL LOC 1SG red fever moment ABL 1SG go 1SG old rabbit be QUOT.COMP.CLOSE PST speak.
+(The child said to himself: "Why, he looks just like my old rabbit, the one that went from me when I had scarlet fever!")
 williams: "so that the Boy thought to himself: \"Why, he looks just like my old Bunny that was lost when I had scarlet fever!\""
 
 whekai shia mena ha hi miso tupiwa nai meno mawha thimu to sano.
@@ -2256,16 +2256,20 @@ CONTR 3SG DECL.COMP PROX DIR REFL rabbit be DECL.COMP.CLOSE NONE time PST know.
 (But he never knew that it truly was his own rabbit.)
 williams: "But he never knew that it really was his own Bunny,"
 
-tupiwa wei rena nu ta shemu miso shewo ka kelu lopia nila to turema.
-rabbit DAT REL ORD one moment REFL true CAUS become child see PST return.
-(The rabbit had come back to look at the child who had first made him Real.)
+tupiwa wei rena mua nu ta shemu tupiwa shewo kelu to naphe lopia nila to turema.
+rabbit DAT REL LOC ORD one moment rabbit true become PST help child see PST return.
+(The rabbit had come back to look at the child who had first helped him become Real.)
 williams: "come back to look at the child who had first helped him to be Real."
 ```
 
-**Notes:** the coda closes on the coinage the text plants in its first scene: `lo kuewa piloe`, the strange spots, still showing through the wild fur, the marking by which the child almost knows him. The almost is the grammar's: the child's guess rides `phea`, like, and `wao`, and a relative clause that names the loss without naming the knowledge; the narrator's correction rides `hi`, the direct evidential, inside what the child never knew, `hi miso tupiwa nai`, it truly was his own rabbit. The seasons pass in three words each, autumn, winter, spring, and the last sentence gives the return its reason in Williams's own order: back, `turema`, for the seeing of the child who first, `nu ta shemu`, made him Real.
+**Notes:** the coda returns to `lo kuewa piloe`, the strange spots that still show through the wild fur. The child almost knows him through `phea`, like, and `wao`; the narrator answers with `hi`, direct evidence, inside the truth the child never learns. Autumn, winter, and spring pass in three compact scenes. Williams's gentler causation closes the story: the child did not make the rabbit Real alone, but first helped his becoming, `tupiwa shewo kelu to naphe`.
 
 ---
 
 ## What the transmutation changed
 
-*Gap log: magic → `whekelu`, coined, the breath of becoming, with `kelu` whole inside it; strange → `kuewa`, coined on `kuelo`'s curiosity; wondrous → `waora`, coined as `wao`'s adjective; kiss → `phimela`, coined on the lips' own fricative; whisper → `whishela`, coined from breath and hush; quiver/twitch/shiver/flutter → `tiripe`, one coined verb for the body's small fast motions; spot → `piloe`, coined for the markings that carry the coda's recognition; butterfly → `phiwapi`, coined, with the moth as `shero phiwapi`; berry → `mirulo`, coined with `rulo` (red) inside, the raspberry canes standing as `mirulo loremi`; mouse → `misuki`, coined for the clockwork mouse and every fable after it; nestle → `numea`, coined beside `numelo` (nurture); break → `pukate`, coined for the mainsprings, the fragile, and the almost-bursting heart. Twelve coinages in all. Compositions: velveteen → `wuloe wetha` and sawdust → `wolea muhena`, kept; Christmas → `shila holia`, kept, its morning `shila holia kelua`; the Skin Horse → `kori kalora`, kept; scarlet fever → `thero mokela`, kept, with germs as `mokela thinoe`, sickness-seeds; nursery → `lopia tholu`, kept; the doctor → `rena theala miona`, kept; stocking → `lopia paloi wethalu`, the foot-garment; holly → `shila liro loremi`, the winter's green branch; nut → `kerou lureko`, stone-fruit; orange → `thero welisha lureko`, by the registry's fire-color; mainspring → `keli korua`, the device's heart; seam → `pina`, the sewing itself; bead necklace → `nolue kerou`, neck-stones; pillow → `koma nuwera`, the head's bed; whiskers → `menoa whila`, kept; hind legs → `rokai tolae`; toe → `paloi thumai`; wheelbarrow → `manuwe rolutha`, the hand-wagon; picnic → eating together on the grass; burrow → `nowhu`, the cave; pincushion → `tisu molu`, the needle-holder; dizzy → the head turning; fowl-house → `pelori womu`; gardener → `thepalu woru`; potatoes and peas → `tumeki nuora` and `liro thinoe`, root-foods and green seeds; picture-book → `welisha shelu`, the color-book; balcony → the house's high outside place; sand castle → `kirua womu`; crab → the very small sea-creature; emerald → `keru liro kerou`, bright green stone; pearl → `moriwhe kerou`, the sea's stone; moonlight hours → `lunei shemu`; glade → `shelira pelowa`, the forest's meadow; lion → `wolea whalo misheko`, the wooden great-cat. Refusals, all canon's: money leaves the expensive toys as `mo horae`, the more radiant; clock time leaves the two hours as one long moment and June as summer's beginning; gendered person-words leave the Aunts and Uncles as `lo thaluni`, kinfolk, and the Uncle as `lopia lumani wheo`, the family's elder; rule leaves Nana guiding, not ruling, and Government as `lo kulo miona`, the guiding people; war leaves the disabled soldiers as `lo rena kipona ki howela miona`, the people who had received pain; violence leaves brigands as `waeshi wile`, playing wild; and hate has no word, so the toys' hatred of tidying is `korua thero`, the registry's heart-fire. Names dissolve into offices by the Babel custom: Nana is the keeper of the nursery, Timothy is the wooden great-cat, and the fairy is `whekelu miona`, the magic person, keeper of loved toys. Real stays `shewo`, defined by the Skin Horse and carried to the coda's `hi`: it truly was his own rabbit.*
+*Gap log, coined roots: magic → `whekelu`; strange → `kuewa`; wondrous → `waora`; kiss → `phimela`; whisper → `whishela`; quiver, twitch, shiver, and flutter → `tiripe`; spot → `piloe`; butterfly → `phiwapi`; berry → `mirulo`; mouse → `misuki`; nestle → `numea`; break → `pukate`. These twelve roots recur across the story rather than solving one sentence each.*
+
+*The material world mostly composes: velveteen → `wuloe wetha`; sawdust → `wolea muhena`; Christmas → `shila holia`; Skin Horse → `kori kalora`; nursery → `lopia tholu`; stocking → `lopia paloi wethalu`; holly → `shila liro loremi`; nut → `kerou lureko`; orange → `thero welisha lureko`; mainspring → `keli korua`; bead necklace → `nolue kerou`; pillow → `koma nuwera`; wheelbarrow → `manuwe rolutha`; picture-book → `welisha shelu`; sand castle → `kirua womu`; emerald → `keru liro kerou`; pearl → `moriwhe kerou`; glade → `shelira pelowa`; lion → `wolea whalo misheko`. Medical supplies `rulo suloru` for scarlet fever and `rulo suloru hisophi` for its contamination.*
+
+*The social changes are deliberate. Expensive toys become toys people value more, which preserves their nursery status without a price. Aunts and Uncles become kinfolk, while the Uncle becomes a family elder. The citation still calls the disabled makers soldiers; Phi calls them `lo sowelu miona`, disabled people. Government becomes `whalo punoki`, the great institution, and the lion's supposed connection becomes claimed membership. Brigand-play becomes `kawhera wile`, coercion-play. Tidying still brings `korua thero`, heart-fire, because the emotion system composes anger and hatred from the same heat. Nana is the nursery's keeper, Timothy the wooden great-cat, and the fairy `whekelu miona`, the magic person. Real is `shewo`, defined by the Skin Horse and confirmed by the coda's `hi`: the wild rabbit truly is the child's old companion.*

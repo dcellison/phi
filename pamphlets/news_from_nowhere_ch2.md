@@ -1,6 +1,6 @@
-# nophi lue mawha lokue — News from Nowhere, ch. 2: A Morning Bath (in progress)
+# nophi lue mawha lokue — News from Nowhere, ch. 2: A Morning Bath
 
-*The narrator wakes into the world the first chapter only wished for. This chapter is where Morris's utopia begins to show itself: a winter's night has become a June morning, the Thames runs clear enough for salmon, a waterman rows for the love of the work, and the book's first attempt to pay for a service breaks against a world that has forgotten what payment is. That last scene needed no adaptation to fit Phi: canon refuses money, price, and wage as vocabulary, so the narrator's "How much?" comes out as the bare quantity question `wia.`, and the grammar itself performs Dick's puzzlement. Two words were coined: `shalumi` (salmon) and `pilomu` (sycamore), both riverside nature the whole novel will keep meeting. The waterman and the weaver take content-word names, one of the name-atom choices canon permits: the waterman is `ne kulo` (Guide), for the role the whole novel gives him, and the weaver is `ne selomi` (Weaver), who is walking around being his own trade; the neighbor mentioned once is `ne keru` (Bright). Names land exactly where Morris lands them, in the two friends' greetings.*
+*The narrator wakes hot under his bedclothes and finds winter replaced by an early summer morning. The river is clear, salmon nets wait along the bank, and a waterman rows him through a neighborhood whose workshops and smoke have vanished. Their first hard misunderstanding comes after the service: the narrator offers metal pieces, while the waterman sees old coins and cannot understand the expected payment. Phi keeps that mismatch concrete. The question word `wia`, how many, asks the quantity without importing money into the lexicon. Two riverside roots, `shalumi` (salmon) and `pilomu` (sycamore), recur beyond the scene. The waterman is `ne kulo`, Guide, the weaver `ne selomi`, Weaver, and the neighbor mentioned once `ne keru`, Bright.*
 
 *Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Morris's own original wording, so a reader can see exactly what the transmutation kept and what it changed.*
 
@@ -931,9 +931,9 @@ PROX COM labor gift take think DAT 3SG INTS amused story PST INFER be.
 (As if the idea of being given things for his work were a very funny tale.)
 morris: "as if the idea of being paid for his work was a very funny joke."
 
-mia to pa sukima phaelo. mia mena ha miona korua mokela phelu meno to remo. shai shia henoi waeli to ke nai.
-1SG PST INCH fear feel. 1SG DECL.COMP PROX person heart sick hold DECL.COMP.CLOSE PST think. CONC 3SG ENOUGH conscious PST INFER be.
-(I confess I began to be afraid that the man carried a sickness of the mind, though he looked sound enough.)
+mia to pa sukima phaelo. mia mena ha miona phelira remo phelu meno to remo. shai shia nuwi remo phelu to ke nai.
+1SG PST INCH fear feel. 1SG DECL.COMP PROX person mistaken think hold DECL.COMP.CLOSE PST think. CONC 3SG clear think hold PST INFER be.
+(I began to fear that the man held mistaken thoughts, though his thinking seemed clear.)
 morris: "I confess I began to be afraid that the man was mad, though he looked sane enough;"
 
 lao lo mia pai nulo reshi luphore to nai mia mena mia welao wishe miona nai meno to siora remo.
@@ -941,9 +941,9 @@ BECAUSE PL 1SG NEAR deep fast river PST be 1SG DECL.COMP 1SG good swim person be
 (And since we were close to a deep swift river, I was rather glad to think that I was a good swimmer.)
 morris: "and I was rather glad to think that I was a good swimmer, since we were so close to a deep swift stream."
 
-whekai shia phea rena korua mokela phelu miona to ma haolu.
-CONTR 3SG AS REL heart sick hold person PST NEG speak.
-(However, he went on by no means like one mind-sick.)
+whekai shia phea rena phelira remo phelu miona to ma haolu.
+CONTR 3SG AS REL mistaken think hold person PST NEG speak.
+(However, he did not go on like a person holding mistaken thoughts.)
 morris: "However, he went on by no means like a madman:"
 
 thia lo thiku keluo thena kuelo nai. whekai lo thena ru serao ma nai. theula thena lue ta newu luera thimu ke nai.
@@ -987,7 +987,7 @@ INS gold COORD PL thin metal labor DAT 1SG joyful be. PROX close 1SG young labor
 morris: "\"I am fond of working in gold and fine metals; this buckle here is an early piece of mine.\""
 ```
 
-**Notes:** this is the scene Phi was waiting for, and the language needed no bending: canon refuses money, price, and wage, so the narrator's "How much?" can only come out as `wia.`, the bare how-many, a question with its object missing. Dick's misunderstanding then builds itself: offered a count with nothing counted, he reaches for the one thing on the river a person might honestly ask the quantity of, the rising water. What the narrator "ought to pay" arrives as `wei thia hina na loa`, what must I give you, obligation (`na`) riding a gift-verb, which is what payment looks like from inside a gift economy; his thought of hiring a guide dissolves the same way, into wondering whether Dick could become his guide, the hire-verb having nothing to grab. Coins are `lo thiku keluo thena`, small metal things, described and never named, and the museum is `halemu womu`, a remembering-house. The reign of Victoria and Edward III fall to the same carve that took the fable's win and lose: the coins are of one recent age, the older piece shows a man standing in a ship, the kingship left off the record while every leopard (`thiku whalo misheko`, little great-cats) and fleur-de-lys (`lo peloru kire`, flower-shapes) stays. Dick's own economics take three particles: he has only heard of payment (`ti`), neighbors giving would look strange, and the mementos-of-friendship joke keeps its full shape down to not knowing where he would keep them all. The narrator's fear composes as `korua mokela`, a sickness of the mind, the illness-framing being the only one Phi's compassion owns, and his backup plan, being a good swimmer near a deep swift river, survives complete. His class-anxiety about tipping a gentleman becomes what it really is under the fear: the feeling that giving these things to this man might be `kanelu`, a wrong step. The blackleaded-stove simile is the chapter's one dropped image, a Victorian hearth fixture with no purchase in Phi's world; the oxidized silver keeps its blackness plainly.
+**Notes:** `wia`, how many, leaves its counted object unstated, so Guide answers with the quantity he can see: the rising water. The narrator tries again with `wei thia hina na loa`, what must I give you, putting obligation on a gift verb because payment has no Phi root. Coins become small metal things and the museum a remembering-house. The rulers on the coins remain in Morris's lines; Phi describes a recent age, a person in a ship, little great-cats, and flower-shapes. Guide has only heard of payment, and his joke about storing endless friendship-remembrances leaves the awkwardness unresolved. The narrator fears that Guide holds mistaken thoughts, rather than assigning sickness to his heart. His escape plan, confidence in his swimming, and fear that the offer may be a social mistake all remain. Only the blackleaded-stove simile stays outside the Phi scene.
 
 ## kulo — The guide
 
@@ -1027,14 +1027,14 @@ CONC PROX RESTR 2SG kind gift FUT be. NEAR UNIV person AS 1SG good guide person 
 (Though it will be a mere kindness on your part: almost anyone would make as good a guide as I, and many a much better one.)
 morris: "Though indeed it will be a mere kindness on your part, for almost anybody would make as good a guide, and many much better.\""
 
-mu korua mokela kiroa mua shia to ke nai.
-zero heart sick sign LOC 3SG PST INFER be.
-(There certainly seemed no sign of mind-sickness about him.)
+mu phelira remo kiroa mua shia to ke nai.
+zero mistaken think sign LOC 3SG PST INFER be.
+(There seemed to be no sign of mistaken thinking in him.)
 morris: "There certainly seemed no flavour in him of Colney Hatch;"
 
-sheno mia mena lu shia shewo korua mokela phelu mia phei shia po siloma wepu meno to remo.
-ADD 1SG DECL.COMP COND 3SG true heart sick hold 1SG AWAY 3SG POT simple go DECL.COMP.CLOSE PST think.
-(And besides, I thought I could easily get away from him if it turned out he really was mind-sick.)
+sheno mia mena lu shia phelira remo phelu mia phei shia po siloma wepu meno to remo.
+ADD 1SG DECL.COMP COND 3SG mistaken think hold 1SG AWAY 3SG POT simple go DECL.COMP.CLOSE PST think.
+(And besides, I thought I could easily get away if he held mistaken thoughts.)
 morris: "and besides I thought I could easily shake him off if it turned out that he really was mad;"
 
 thia loa ru phena nai. whekai mia ha po ma siloma kelomi.
@@ -1047,9 +1047,9 @@ mia mena mia shola li lu thia lo thiku keluo thena kelomi sholo haolu meno to pa
 (I was going to say: "Only if you will accept the metal pieces.")
 morris: "I was going to say, Unless you will let me pay you properly;"
 
-whekai lao mia mo korua mokela haolu to sukima phaelo mia haolu to moluki.
-CONTR BECAUSE 1SG CMPR heart sick speak PST fear feel 1SG speak PST transform.
-(But fearing to stir up the mind-sickness again, I transformed my sentence.)
+whekai mia mena mia shia phelira remo so ka turema meno sukima to phaelo. mia haolu to moluki.
+CONTR 1SG DECL.COMP 1SG 3SG mistaken think FUT CAUS return DECL.COMP.CLOSE fear PST feel. 1SG speak PST transform.
+(But I feared that I might bring his mistaken thinking back, so I changed my sentence.)
 morris: "but fearing to stir up Colney Hatch again, I changed the sentence into,"
 
 mia mena mia thia lue riola sola lue siora natu meno sukima phaelo.
@@ -1128,7 +1128,7 @@ shia phea thia mua phemi womu menui. lu shia si nulae shia mua ha phelora keloi 
 morris: "he is living in the Guest House like you, and if he isn't up yet, he ought to be this fine summer morning.\""
 ```
 
-**Notes:** the unsayable sentence is the section's center: Morris's narrator censors "Unless you will let me pay you properly" for fear of the madhouse, and the Phi narrator's aborted words are the closest his new grammar can come to a payment, only if you accept the metal things. What Colney Hatch guards in Morris, the fear of talking like a madman, is here the fear of more mind-sickness talk, and the proper noun gives up nothing but its postcode. Dick's offer keeps every joint: the showman is `rena wei thia lo mia newu punoa ka nila miona`, the one who causes you to see our new society, "stumbled on me first" is luck (`soleha`) doing the finding, and his self-effacement stands whole, nearly anyone as good, many better. Knowledge is drunk in small portions (`roe lo thiku phanoi milau`), which is Morris's own eating metaphor moved to the vessel Phi already keeps its sufficiency in. The weaver's mathematics is `tawi remo`, counting-thought, work of the same indoors as his loom; work itself changes hands like anything else given, wanted (`riola pilu pula`) rather than begged, the gift economy visible in a single verb pair. And "that's settled" is `lo mia ki nawo`, we have agreed, agreement's own verb in the perfective, with a promise already made carried by `seru`, commitment, the word Phi ranks above mere accord.
+**Notes:** the narrator begins "Unless you will let me pay you properly" but can only form the condition that Guide accept the metal things. He then fears that the question may revive what he has judged mistaken thinking and changes course. The proper asylum name stays in Morris's citation; Phi makes the judgment belong to the narrator. Guide offers to show the new society, jokes that nearly anyone could do as well, and asks the stranger to take knowledge in small draughts. Weaver's mathematics is `tawi remo`, counting-thought, while work is something a person may want and receive. The exchange closes with perfective agreement, `lo mia ki nawo`, followed by a commitment already made.
 
 ## ne selomi — The weaver
 
@@ -1168,14 +1168,14 @@ shia wea lo mia to kamo. shia to seniku.
 (As he came up toward us, smiling--)
 morris: "As he came up smiling towards us,"
 
-mia roe siora mena mia korua mokela remo na leiro meno to nila.
-1SG INS joy DECL.COMP 1SG heart sick think NEC release DECL.COMP.CLOSE PST see.
-(I saw with pleasure that I must give up the mind-sickness theory.)
+mia roe siora mena mia mena shia remo phelira nai meno sherewa na leiro meno to nila.
+1SG INS joy DECL.COMP 1SG DECL.COMP 3SG think mistaken be DECL.COMP.CLOSE claim NEC release DECL.COMP.CLOSE PST see.
+(I saw with pleasure that I must release my claim that his thinking was mistaken.)
 morris: "I saw with pleasure that I must give up the Colney Hatch theory as to the waterman,"
 
-lao wi rena korua mokela phelu miona neo waeli miona phea ha mawha thimu phoa.
-BECAUSE two REL heart sick hold person FRONT conscious person AS PROX NONE time do.
-(For no two mind-sick people ever behaved like this in front of a sound one.)
+lao wi rena phelira remo phelu miona neo nuwi remo miona phea ha mawha thimu phoa.
+BECAUSE two REL mistaken think hold person FRONT clear think person AS PROX NONE time do.
+(For two people who held mistaken thoughts would never act like this before a clear-minded person.)
 morris: "for no two madmen ever behaved as they did before a sane man."
 
 shia wethalu kire phea rewa miona wethalu kire to nai. whekai wethalu mo keru welisha to nai.
@@ -1285,10 +1285,10 @@ morris: "And we all three turned toward the door of the Guest House."
 
 ## What the transmutation changed
 
-*Gap log: two new words, both cleared of collisions before coining. `shalumi` (salmon), opening on `shalu` (fish) whole and closing on the light `-mi` of `loremi` and `wakomi`: the great silver returner whose presence is a river's own testimony of health, coined because the healed Thames's first proof is salmon-nets and the novel will keep meeting the fish itself. `pilomu` (sycamore), opening on the `pi-lo` of `piloe` (spot) for the dappled bark that is the tree's signature, closing on the `-mu` of `welamu` (elm) and `koremu` (bark), the tree family's own nasal: the settlement's companion tree, coined by the elm's precedent that a landscape's species deserve real words. Everything else composes: the landing-stage is `kamo lokue` (arriving-place); bedclothes are `lo nuwera wethalu` (the bed's garments); the tide is the water that rises (`rena rihe phialu`) and falls, its turn `rato`'s own event noun; brick is Babel's `mueri kerou` (clay-stone); the lake is `whalo melothe` (a great pond); the museum is `halemu womu` (remembering-house); the Guest House is `phemi womu`, the guest's house; mathematics is `tawi remo` (counting-thought); the belt is `kori tiwa` (a leather tie); damascened steel holds flow-shapes (`lo selu kire`); the arches are `kerou loriphi` (stone rainbows, the rainbow's own entry already being a bridge); blush is the face becoming red; the half-smile is `kesho seniku`; the smirk is `thiku thoru seniku`, a small proud smile; dizziness is `koma rato` (head-turning), felt as the body's states are felt; puzzlement is `remo tiwa`, thoughts tied, the first chapter's threads knotted; madness is `korua mokela`, a sickness of the mind, named the way Phi names every illness, without contempt; hay-harvest is `whelina sholei` (grass-gathering); the works are `riola womu` (labor-houses), soap's by its wash-things, the engineer's by its devices, lead's by the heavy metal; leopards are little great-cats; fleurs-de-lys are flower-shapes; sandy and pale and berry-brown and mud-colored all compose by the color rule (`kirua welisha`, `thiku welisha`, `mirulo welisha`, `muphia welisha`).*
+*This chapter follows Morris almost line for line: waking, swim, boat journey, bridge, houses, failed payment, and the arrival of the weaver. The citations cover the chapter's wording while the back-translations show every substitution. Exact London place names and the year 2003 stay in those source lines. Phi reads the morning through the sun and seasons, so five o'clock becomes the sun just risen and June becomes summer's beginning.*
 
-*The proper nouns dissolve by the first chapter's policy into what they do: Biffin's into the carrying-person expected there, Chiswick and Putney into upstream and downstream (toward the river's beginning, toward its end), the Tay into that great northern river, Barn Elms into the elm-place, Yorkshire into the north, Oxfordshire into that land, London into the great village the narrator knew, Thorneycroft's into the metal-noise that no longer arrives, Colney Hatch into the mind-sickness it stood for, and the Ponte Vecchio into the most beautiful bridges the narrator had known. The people, by contrast, take real Phi names under canon's naming ruling, placed exactly at Morris's own naming moments: `ne kulo` (Guide) for Dick, `ne selomi` (Weaver) for Bob, `ne keru` (Bright) for George Brightling.*
+*The river brings two roots: \`shalumi\` (salmon) and \`pilomu\` (sycamore). Landing-stage, salmon-net, suspension bridge, red-brick house, and river traffic compose from existing words. The vanished engineer's and lead works stay as kinds of work rather than proper businesses. The bridge's age is relative in Phi, while Morris's exact date appears beside it.*
 
-*Three refusals carry the chapter's heaviest weight. The refused clock: "barely five o'clock" becomes the sun only now risen, and the fourteenth century becomes a far older world. The refused calendar: "built or at least opened in 2003" becomes the bridge's own age, opened a hundred years ago (`phoe ta rei wi phoi ta torua`), with Dick's hedge kept, and the stun on the narrator, a century of standing for a bridge that did not exist last night, works unchanged; the reign of Victoria becomes one recent age, and Edward III's coin keeps its ship, its little leopards, and its flower-shapes while the king becomes a man standing in a boat, the same title-refusal that withholds *master* in Schleicher's transmutation while leaving its power visible. The refused money: "How much?" is `wia.`, a count with nothing to count; "what ought I to pay you" is what must I give you, necessity on a gift; "hire him as a guide" collapses into whether he could become my guide; coins are small metal things throughout. The scene about a world that cannot understand payment is told in a language that cannot say it, and nothing else in the chapter needed to change for that to work.*
+*Money is the chapter's central lexical refusal. The narrator expects compensation, offers small metal pieces, and asks \`wia\`, how many. Guide identifies the pieces as old coins and explains that work and gifts no longer form a transaction. The transmutation does not turn payment into generosity before the misunderstanding occurs; it lets the narrator's expectation make the scene awkward.*
 
-*One image is dropped: the oxidized silver "like a blackleaded stove in colour," a Victorian hearth fixture with no reusable value in Phi's world; the silver goes plainly black. The interjections "Well," "H'm," and "O" leave no residue, since Phi opens its sentences with their content instead. Everything else in the chapter, the kicked bedclothes, the two-moment waking, the witness-trees, the quivering river, the flood-tide misunderstanding, the salmon sufficiency, the stone rainbows, the giving-and-taking booths, the padlocked mouth, the threads that tie the over-talker, the living houses, the unbroken garden, the hand-rubbing, the doubted story, survives at Morris's own weight.*
+*Morris repeatedly reaches for an asylum name and the opposition between mad and sane. Phi puts that prejudice in the narrator's inference rather than diagnosing either man. He searches for signs of \`phelira remo\`, mistaken thinking, fears that his own question may bring it back, then releases the claim when the two friends meet. The source's harsher categories remain visible in the citations. Guide, Weaver, and Bright are Phi-form names marked with \`ne\`. New words coined for this transmutation: none.*

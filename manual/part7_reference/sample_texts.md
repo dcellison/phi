@@ -86,7 +86,7 @@ The Metta Sutta's final verse still predicts that the practitioner will never re
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
-The complete texts live in `pamphlets/`, one file per text. Each carries its Phi with glosses, back-translations, source citations where publication permits them, and a record of the choices made. Three of them are the manual's touchstones.
+The complete texts live in `pamphlets/`, one file per short work and one file per completed novel chapter. Each presents the Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Three of them are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -113,11 +113,11 @@ The rest of the shelf:
 | Phi title | Method | Text |
 |---|---|---|
 | `ta haluma` | Transmutation | the Babel story, Genesis 11:1-9, with its scattering retold as sowing |
-| `theula miona` | Transmutation | Article 1 of the Universal Declaration of Human Rights |
+| `theula miona` | Transmutation | Article 1 of the Universal Declaration of Human Rights, with equal worth and entitlements kept distinct |
 | `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |
 | `phewo phelui` | Transmutation | from *The Prophet*: on love, on children, on giving |
 | `keiro` | Transmutation | five chapters of the Tao Te Ching |
 | `nulo sano korua` | Transmutation | the Heart Sutra |
-| `naweri` | Transmutation | the Ring Verse, refused: an essay on a text Phi cannot say, and why |
-| `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire |
-| `nophi lue mawha lokue` | Transmutation | *News from Nowhere*, chapters 1 through 3: the opening of a novel-length project |
+| `naweri` | Transmutation | the Ring Verse, refused: coercion named without granting it a neutral ruler |
+| `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire, with Medical, Accessibility, and Commons distinctions where the story needs them |
+| `nophi lue mawha lokue` | Transmutation | *News from Nowhere*, chapters 1 through 3, reviewed against Morris chapter by chapter |

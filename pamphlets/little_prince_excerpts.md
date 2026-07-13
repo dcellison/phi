@@ -2,7 +2,7 @@
 
 *Antoine de Saint-Exupéry's Le Petit Prince is the most-translated book outside scripture, and language-builders have a particular affection for it: the fox's secret may be the most-rendered sentence in constructed languages. These are Phi's excerpts: three short passages from Katherine Woods's 1943 translation, each transmuted with notes. The book remains in copyright, so the units carry no source-citation lines and the English appears only in these short quoted excerpts.*
 
-*One transmutation happens before the first line: the title. A prince is rank, and Phi refused the vocabulary of rank; it cannot say what the boy is called, only what he is: `thiku miona lue silero`, the small person from the stars. He was never really a prince anyway: a child alone on a small world, tending it. The language sees through the title, which is what it does.*
+*The first choice is in the title. "Prince" stays in the source as a rank Phi does not lexicalize. The Phi title describes the figure within the story instead: `thiku miona lue silero`, the small person from the stars, a child tending a small world alone.*
 
 ---
 
@@ -43,15 +43,15 @@ PL eye REL essential be POT NEG see.
 > *"You become responsible, forever, for what you have tamed."*
 
 ```
-theula thimu. thia wei rena thia to nolami thonai kelu.
-UNIV time. 2SG DAT REL 2SG PST bond responsible become.
-(Forever: you become responsible for what you have bonded with.)
+theula thimu. thia wei rena thia nua to nolami thonai kelu.
+UNIV time. 2SG DAT REL 2SG COM PST bond responsible become.
+(Forever: you become responsible for the one with whom you have bonded.)
 ```
 
-**Notes:** the deepest transmutation is the quiet one. The fox explains that to tame means *to create ties*. Phi does not need to borrow the French word's history of mastering animals, because the fox's own definition already exists in the lexicon: `nolami`, to bond, a verb whose canonical example is *we bond with each other* and which cannot be done to someone, only with them. Taming, in Phi, was never domestication; it was always the tie. The time-phrase stands first as its own fragment (`theula thimu`, all time), the way the journal dates its permanent truths, and `thonai kelu` closes the sentence the way responsibility arrives: as something you become.
+**Notes:** the fox explains taming as the creation of ties, so the transmutation chooses `nolami`, bond, rather than a verb of mastery. Its comitative relation must remain audible: `rena thia nua ___ to nolami`, the one with whom you bonded. All time, `theula thimu`, stands first as its own fragment, and `thonai kelu` closes on responsibility as something a person becomes.
 
 ---
 
 ## What the transmutation changed
 
-*Gap log: prince → refused as rank; the title describes instead: `thiku miona lue silero`, the small person from the stars; draw → `kire` (shape); a very simple secret → `ru mueli kupela`, the intensifier on plainness; see rightly → `theali` (fitting), seeing aligned with what is really there, under the ability modal `po`; tame → `nolami` (bond: the fox's own definition, already in the dictionary); everything else (secret, heart, eye, essential, responsible, forever) the lexicon already held. New words coined: none. The text keeps good company on the shelf beside the Declaration of Human Rights: the rights of all people, and the duties of one heart.*
+*Gap log: prince → retained in the source title while the Phi title becomes `thiku miona lue silero`, the small person from the stars; draw → `kire` (shape); a very simple secret → `ru mueli kupela`, plainness under the intensifier; see rightly → `theali` (fitting) under the possibility modal `po`; tame → `nolami` (bond), using the fox's own explanation and retaining its comitative grammar. Secret, heart, eye, essential, responsible, and forever use existing vocabulary. New words coined: none.*
