@@ -116,7 +116,7 @@ CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST
 (So I put my hand into my garment, and said, "How many?")
 ```
 
-"How much?" comes out as `wia.`, a count with nothing to count, and the boatman's baffled reply in the novel, "Do you mean the tide?", is exactly the confusion the grammar produces on its own. The scene needed no adaptation at all. The language and the book had already agreed.
+"How much?" comes out as `wia.`, a count with nothing to count, and the boatman's baffled reply in the novel, "Do you mean the tide?", is exactly the confusion the grammar produces on its own. Nothing in the scene needed changing. Morris and the language had come to the same conclusion, more than a century apart.
 
 ## Meanings compose, and every word comes with gifts
 
