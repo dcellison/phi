@@ -1,6 +1,6 @@
 # keiro — from the Tao Te Ching
 
-*The Tao Te Ching has been in the public domain for twenty-four centuries, and no book was ever a more natural guest here: a short text about water, emptiness, quiet guidance, and the strength of the soft, written by a sage who would have recognized every one of Phi's refusals. These are Phi's excerpts: five chapters (8, 11, 17, 63, 76), each transmuted with notes. The ground truth for the English is James Legge's translation, The Tao Teh King (Sacred Books of the East, volume XXXIX, 1891), stored verbatim in `pamphlets/sources/`; each section says what it takes and what it leaves, and every unit cites Legge's own words.*
+*The Tao Te Ching repeatedly teaches through water, empty vessels, quiet government, and the strength of what yields. These are Phi's excerpts: five chapters (8, 11, 17, 63, 76), each transmuted with notes. The ground truth for the English is James Legge's translation, The Tao Teh King (Sacred Books of the East, volume XXXIX, 1891), stored verbatim in `pamphlets/sources/`; each section says what it takes and what it leaves, and every unit cites Legge's own words.*
 
 *The title is a single word. The Tao is the Way, and the lexicon's path-carve made the choice before the text arrived: `ruela` the walked ground, `shoeka` the chosen course, `keiro` the way in its guiding sense. The Tao is `keiro`.*
 
@@ -39,7 +39,7 @@ CONS water NEAR way be.
 legge: "Hence (its way) is near to (that of) the Tao."
 ```
 
-**Notes:** two moves. First, *the reframe*: Legge's simile ("the highest excellence is *like* water") becomes Phi's observing mood (`no phialu nila`, look at water) because Phi prefers to point at the teacher rather than assert the resemblance; the reader does the comparing, which was always the simile's job. Second, *the refusal doing the philosophy*: Phi has no word for striving against, so "without striving" cannot be said head-on, and does not need to be. What the language offers instead is `mawha pilu`, takes nothing, the same virtue stated from the giving side. When a refusal blocks a line, ask what the line's virtue looks like in Phi's own economy; it is usually already there. "All men dislike" the low place, and Phi observes the dislike as behavior: `miona ra ma menui`, people will not dwell there. The consequence marker `thelao` then does the "hence": a discourse adverb, standing before the subject where the ruled position puts it.
+**Notes:** Legge's simile, "the highest excellence is like water," becomes the invitation `no phialu nila`, look at water. The reader performs the comparison. "Without striving" changes more sharply: `mawha pilu`, takes nothing, moves from contention to acquisition and states the water's conduct through Phi's gift economy. That is an interpretation, not a lexical equivalence. "All men dislike" the low place becomes observable behavior, `miona ra ma menui`, people will not dwell there. The consequential `thelao` then links Legge's "hence" to the final relation between water and the way.
 
 ## Chapter 11 — the use of what is not there
 
@@ -152,7 +152,7 @@ legge: "Therefore the sage, while he never does what is great, is able on that a
 
 ## Chapter 76 — the soft outlasts the hard
 
-The excerpt is the chapter entire, except the clause about the strength of forces, which Phi refuses by design and the gap log records.
+The excerpt is the chapter entire. Its military warning is recast as fruitless reliance on strength before the tree gives the same lesson in the wind.
 
 ```
 miona mua thowia thimu luwi nela welua nai. miona mua lumeo thimu kethua nela kema nai.
@@ -180,6 +180,11 @@ hard COORD strong die friend be. soft COORD fragile live friend be.
 (The hard and the strong are death's companions; the soft and the fragile are life's companions.)
 legge: "2. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life."
 
+rena li kema theomi miona mawha lureko thola.
+REL RESTR strong trust person NONE fruit bring.
+(The person who trusts only strength brings no fruit.)
+legge: "Hence he who (relies on) the strength of his forces does not conquer;"
+
 lu whalo howeli shua. rena kethua nai shiro lepa. rena luwi nai shiro manolu.
 COND large wind come. REL hard be tree fall. REL flexible be tree stay.
 (When the great wind comes, the tree that is hard falls, and the tree that is flexible stays.)
@@ -191,14 +196,14 @@ hard COORD strong position low be. soft COORD fragile position tall be.
 legge: "4. Therefore the place of what is firm and strong is below, and that of what is soft and weak is above."
 ```
 
-**Notes:** Legge writes in pairs, supple and weak, firm and strong, soft and brittle, and Phi keeps the pairs on `nela`: `luwi nela welua`, flexible and fragile, `kethua nela kema`, hard and strong, each life-stage a two-word predicate standing at its time, `mua thowia thimu`, at the time of birth, the event noun and `thimu` composing the season the way the giving-season did. "Dry and withered" share one word, `kurathi`, whose entry is water-departed, which is what withering is. The companions couplet seats the pairs beside `lumeo` and `liona`, death and life by the event-noun rule: abstractions everywhere, abstract vocabulary nowhere. Legge's felled tree is softened by *the reframe*: no feller arrives, because none is needed: the great wind was always the better teacher, and it lets the supple tree demonstrate `manolu`, to stay, the staying that is an action and not an absence. And the chapter ends where Legge ends it, on position: the hard and strong low, the soft and fragile high, the crown of the tree explaining the trunk.
+**Notes:** Legge's pairs stay on `nela`: `luwi nela welua`, flexible and fragile, and `kethua nela kema`, hard and strong. Each pair belongs to a life-stage composed with `thimu`. The word `kurathi`, dry, also suggests withering through its image of departed water. The military warning is stated before the tree image: trust in strength alone, `li kema theomi`, brings no fruit, `mawha lureko thola`. A hard tree then falls in the great wind while the flexible tree stays. The feller is gone, but reliance on force is still visible before Legge's final positions, low and high.
 
 ---
 
 ## What the transmutation changed
 
-*Gap log: the Tao → `keiro`, by the path-carve (the guiding way, not the walked ground). The highest excellence like water → the observing mood, `no phialu nila`. Without striving → unsayable head-on and unneeded; the virtue restated as `mawha pilu`, takes nothing. All men dislike the low place → `miona ra ma menui`, people will not dwell there: the dislike observed as behavior. The thirty spokes → left behind; the pot and the door, the argument's own household examples, carry the emptiness teaching. Windows → `wira`, whose emptiness lets the sky enter. Useful → `po`, possibility: emptiness opens rather than adds. Rulers → `rena kulo miona`, the one who guides, per the domination refusal, and the chapter agrees. The four ages → the ordinal `nu` with ternary numerals, each age in the past tense. Praised → `keluro`, honor. Faith in the Tao → `keiro ma theomi`, trusting the way, mirrored by the people's trust. Irresolute reticence → they spoke little and cherished their own words, `meropi`. Undertakings successful → `sholu`, complete. 'We are as we are, of ourselves!' → quoted whole in `shola ... sholo`. Wu wei → `no maeli phoa`, and a note that Phi's grammar is already wu wei. Recompense injury → the gift economy: a harmful thing handed over, kindness handed back. Sure-to-arise difficulties → left behind with the flavors and the promises; the excerpt's declared moments carry the chapter's center. Is able → `po`; the greatest → `mo ko whalo`. Supple and weak, firm and strong, soft and brittle → kept as pairs on `nela`. Withered → folded into `kurathi`, dry, water-departed. Plants → `whelina`, grass, the ground's own green. The strength of forces → refused by design, uncited. The feller → the great wind, with the supple tree's virtue as `manolu`, staying. Firm and strong below, soft and weak above → `noa mulu`, `noa raelu`, the positions said plainly. New words coined: none, and `mu` counts in literature.*
+*Gap log: the Tao → `keiro`, the way in its guiding sense; the highest excellence like water → `no phialu nila`, look at water; without striving → `mawha pilu`, takes nothing, an economic reframe rather than an equivalent; dislike of the low place → refusal to dwell there; thirty spokes → omitted while pot, door, and window carry the argument; useful → possibility under `po`; rulers → `rena kulo miona`, people who guide; four ages → ordinals with ternary numerals; praised → `keluro` (honor); faith in the Tao → trust in `keiro`; irresolute reticence → speaking little and cherishing words; undertakings successful → complete work; wu wei → `no maeli phoa`, do quietly; recompense injury → return kindness for a harmful thing; flavors, promises, and sure-to-arise difficulties → omitted from the selected moments of chapter 63; supple and weak, firm and strong, soft and brittle → paired on `nela`; withered → `kurathi`; strength of forces and conquest → trust in strength alone bringing no fruit; feller → great wind; below and above → `noa mulu` and `noa raelu`. New words coined: none.*
 
 ## The moves, for transmuters working by hand
 
-*Gathered from this text's notes and the shelf around it: **the refusal**: when Phi cannot say a line, ask what the line's virtue looks like in Phi's own economy (striving → taking nothing; the ruler → the guide; the forces clause → left behind, and the wind teaching what the feller taught). **The reframe**: replace the source's imagery with imagery Phi already owns, at the same depth (simile → the observing mood; the wheel → the pot; the feller → the wind; the archer → the tree, in the Prophet's excerpts). **The carve**: when several Phi words cover one English word, the lexicon's carve notes decide (`keiro`, not `ruela`). **The grammar-led choice**: let a ruling shape the sentence (possession through `phelu`; usefulness through `po`; manner before the verb; the ages on `nu`; the hedge and the hearsay on their particles). **Composition**: build the missing abstraction from rules instead of coining (quality-nouns for the soft and the hard; event-nouns for life and death; `thowia thimu` for the time of birth; `mu thena` for honest emptiness). Coin only when all five moves fail, and then by the full protocol.*
+*The notes use five working moves. A refusal leaves a source image outside Phi when carrying it would build the wrong unmarked concept. A reframe finds another image at the same depth, such as the wind teaching what the feller taught. A carve chooses among existing Phi neighbors, here `keiro` rather than `ruela`. A grammar-led choice lets `po`, `nu`, or an event noun do work English assigns to another lexical item. Composition builds the needed phrase from ordinary words, as in `thowia thimu`, the time of birth. Coinage begins only when those resources cannot carry the concept without distortion.*

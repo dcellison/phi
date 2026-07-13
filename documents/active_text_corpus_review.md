@@ -119,6 +119,24 @@ The ground truth is V. Fausböll's 1881 translation stored at `pamphlets/sources
 
 The English back-translation is deliberately literal. It lets a reader inspect the Phi without already knowing the language. Where the source still narrows in Phi, the notes name the loss: upright becomes honest, mean becomes harmful, and a womb is a birth parent's belly.
 
+## Transmutation review: the remaining shelf
+
+The nine pending works were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
+
+| Work | Source and decision | Material repairs | Pillar disposition |
+|---|---|---|---|
+| Babel | Complete KJV Genesis 11:1-9; repaired | Earth and sowing remain the chosen transmutation. Notes now describe that choice without claiming Phi is incapable of telling the punitive reading. | Solarpunk and Art Nouveau support the garden coda; preindustrial knowledge supports sowing; Buddhist and peace readings refuse punishment as the only account of diversity. The builders' fear and failed city remain. |
+| UDHR Article 1 | Complete 1948 English Article 1; materially rebuilt | Dignity and rights no longer collapse into worth alone. Commons `shereni` adds equal entitlements, `po remo` restores a capacity to think, and kind reciprocal conduct replaces compulsory love. | Peace linguistics leaves feeling free from command while preserving obligation in conduct. Solarpunk supports durable entitlement; Buddhist thought supports equal worth. The aesthetic and preindustrial pillars require no separate change. |
+| *The Little Prince* excerpts | Three short Katherine Woods excerpts; repaired | The title describes the small person from the stars while the source keeps prince. The responsibility line now retains the comitative gap required by bonding with another. | Buddhist and peace readings support mutual bond and chosen responsibility. The request and heart-seeing need no ecological or aesthetic rewrite beyond their existing images. |
+| *The Prophet* excerpts | Gibran's 1923 text; repaired | The sage-title is presented as a transmutation rather than a lexical incapacity. The tree, seed, and wind express parent-child release without an armory. | Solarpunk and preindustrial practice meet in planting; Art Nouveau favors the bending tree and moving seed; Buddhist and peace readings separate love and parenthood from possession. The citation still shows the source's bow. |
+| Tao Te Ching selections | Five chapters from Legge 1891; repaired | Chapter 76 includes the warning about relying on forces: trust in strength alone brings no fruit. Notes distinguish a reframe from an equivalent. | Water, vessel, wind, and yielding give all five pillars material to examine. Peace linguistics changes conquest into fruitlessness without hiding reliance on force; the other chapters retain their quiet, practical images. |
+| Heart Sutra | Müller's complete smaller sutra, apart from his own abridgment and colophon; repaired | The opening now names all five aggregates instead of expanding them prematurely to all things. Release is the transmutation of annihilation, and the source term Nirvana stays beside deep peace. | Buddhist analysis governs the work. Peace linguistics shapes release without denying negation. The remaining pillars do not justify added ecological, craft, or decorative imagery. |
+| Ring Verse refusal | Tolkien's quoted couplet; central Phi passage rebuilt | Rule becomes an explicit analysis as coercion; bind becomes physical `tiwa` used metaphorically. Guidance and mutual `nolami` no longer sanitize the Ring. | Peace linguistics makes the decisive change by naming constrained choice. Buddhist attention separates acts from permanent moral identities. The other pillars do not soften the source or invent a replacement moral. |
+| *The Velveteen Rabbit* | Complete Williams story; repaired | Accessibility names disabled makers directly. Commons names institution and membership. Medical vocabulary distinguishes fever from contamination. Brigand-play becomes coercion-play, pain is not called small, and the child helps rather than single-handedly makes the rabbit Real. | Care, repair, natural transformation, material craft, and the story's organic beauty already engage all five pillars. Peace linguistics chiefly restores agency and names power; it does not remove fever, burning, loss, or grief. |
+| *News from Nowhere*, chapters 1-3 | Complete Morris chapters; repaired chapter by chapter | Representation replaces a generic council, the railway wagon stops, mental-health judgments belong to the narrator, commoners' rights use commons entitlement, institutional authority replaces benevolent care, revenge becomes retaliation, and reactionary novels regain their political direction. | Solarpunk and preindustrial commitments are native to Morris's work; Art Nouveau lives in architecture, clothing, and craft. Buddhist attention clarifies the narrator's inference. Peace linguistics names authority and stigma without cleaning the argument, coercion, or social contempt from the story. |
+
+The source citations and gap logs in each pamphlet hold the detailed decisions. The table records why the text remained a transmutation and whether repair or replacement was warranted.
+
 ## Literary shelf
 
 | Active text | Method | Status | Note |
@@ -126,16 +144,16 @@ The English back-translation is deliberately literal. It lets a reader inspect t
 | `pamphlets/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `pamphlets/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
-| `pamphlets/babel_text.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/human_rights_article_one.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/little_prince_excerpts.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/prophet_excerpts.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/tao_te_ching.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/heart_sutra.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/ring_verse_refusal.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/velveteen_rabbit.md` | Transmutation | Pending | The shine-compound dependency is repaired; the story is not otherwise reviewed. |
-| `pamphlets/news_from_nowhere_ch1.md` | Transmutation | Pending | Complete review not begun. |
-| `pamphlets/news_from_nowhere_ch2.md` | Transmutation | Pending | One illumination line is repaired with the shine compound; the chapter is not otherwise reviewed. |
-| `pamphlets/news_from_nowhere_ch3.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/babel_text.md` | Transmutation | Reviewed | Complete KJV alignment preserved; Earth, sowing, and garden departures are explicit choices. |
+| `pamphlets/human_rights_article_one.md` | Transmutation | Reviewed | Entitlement, reasoning capacity, and reciprocal conduct restore distinctions the first rendering collapsed. |
+| `pamphlets/little_prince_excerpts.md` | Transmutation | Reviewed | Three source excerpts checked; the responsibility line gives mutual bonding its required oblique grammar. |
+| `pamphlets/prophet_excerpts.md` | Transmutation | Reviewed | Three teachings checked; the planting reframe is deliberate and the gap log names its costs. |
+| `pamphlets/tao_te_ching.md` | Transmutation | Reviewed | Five Legge chapters checked; the strength-of-forces warning is restored through an explicit reframe. |
+| `pamphlets/heart_sutra.md` | Transmutation | Reviewed | Complete selected source checked; the opening restores all five aggregates. |
+| `pamphlets/ring_verse_refusal.md` | Transmutation | Reviewed | Central refusal rebuilt so coercion and imposed tying remain audible. |
+| `pamphlets/velveteen_rabbit.md` | Transmutation | Reviewed | Full story and 430 source units checked; module vocabulary repairs disability, fever, institution, and agency. |
+| `pamphlets/news_from_nowhere_ch1.md` | Transmutation | Reviewed | Full chapter checked; representation, the stopped train, and source-facing gap log repaired. |
+| `pamphlets/news_from_nowhere_ch2.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
+| `pamphlets/news_from_nowhere_ch3.md` | Transmutation | Reviewed | Full chapter checked; Commons and Work vocabulary restore authority, entitlement, retaliation, and political direction. |
 
-The next text begins at its source and declared method. A translation earns every narrowing; a transmutation earns every change.
+The transmutation shelf is now reviewed. The next corpus decision is selective: which short works gain enough from a close Phi translation to justify carrying both versions.
