@@ -513,7 +513,7 @@ TEXTS = [
     ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "The most-translated document in history, in the language that needed no new words to say it \u2014 and no gendered ones to exclude with."),
     ("babel_text", "ta haluma \u2014 the Babel text", "The conlang community's handshake, done the Phi way: the scattering as sowing, every language a garden \u2014 and the first time Phi names its own kind."),
     ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "A transmutation that becomes a refusal: what a language without domination vocabulary cannot say, and the hearth-poem that comes out when it tries."),
-    ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "The historical linguists' test-text since 1868. Phi's telling keeps the sting and withholds one word: the master, who can only be described as the one who takes."),
+    ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "Schleicher's 1868 test text in two Phi renderings: a close translation retains the master claim, while a transmutation names coercion and exploitation without granting the title."),
     ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts, zero new words \u2014 and two transmutations that see through the original: the prince who was never a rank, and the taming that was always a bond."),
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "The longest transmutation: a full story in eight scenes, two coins, and the discovery that Real was the habitual aspect all along."),
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran's counsel on love, children, and giving \u2014 the archer become the tree and the wind, the reward become a gift, and not one new word needed across three whole teachings."),
@@ -530,7 +530,7 @@ TEXT_METHODS = {
     "human_rights_article_one": "Transmutation",
     "babel_text": "Transmutation",
     "ring_verse_refusal": "Transmutation",
-    "schleicher_fable": "Transmutation",
+    "schleicher_fable": "Translation + transmutation",
     "little_prince_excerpts": "Transmutation",
     "velveteen_rabbit": "Transmutation",
     "prophet_excerpts": "Transmutation",
@@ -553,8 +553,8 @@ for stem, title, blurb in TEXTS:
     (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
 
 toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta contains all ten verses of its source. The North Wind and the Sun first states Aesop's claims in a close translation, then retells the fable as a transmutation. Its paired page shows where the methods part.</p>",
-       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and one uses both; every rendering says what it owes the source.</p>"]
+       "<p>The Metta Sutta contains all ten verses of its source. The North Wind and Schleicher fables each place a close translation before a transmutation, then show where the methods part.</p>",
+       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and two use both; every rendering says what it owes the source.</p>"]
 for stem, title, blurb in TEXTS:
     toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")

@@ -10,15 +10,15 @@
     "noun"
   ],
   "concept": "Wool / Sheep Fiber / Warm Textile",
-  "description": "The soft curly hair forming the coat of sheep; the warmest natural fiber. 'Mophi' names what sheep give—the gift of warmth, renewable each year.",
-  "sound_symbolism": "The word warms soft. 'Mo' masses with insulating bulk, warmth held. Then 'phi' /ɸi/ breathes with soft airiness, fiber gentle.",
-  "grammatical_notes": "Functions as a noun; a mass noun, so it rarely takes 'lo' (PL). The warmest natural fiber, sheared from sheep. Becomes 'sima' (thread) and then 'wetha' (cloth).",
+  "description": "The soft, crimped hair that forms a sheep's fleece and can be spun into textile. It insulates the living animal before it warms a garment. Shearing is one event; transfer and use follow in their own clauses.",
+  "sound_symbolism": "The lips close around the nasal at the start of 'mo', and rounded 'o' gives the first syllable depth. In 'phi', the lips approach again but leave a narrow path for breath before bright 'i'. Two soft contacts move from a full chamber to a fine, airy edge.",
+  "grammatical_notes": "A mass noun, so it rarely takes 'lo' (PL): 'mophira mophi phelu.' (The sheep has wool.) 'Mophi se kati.' (The wool is cut.) Related to 'mophira' (sheep), 'sima' (thread), 'wetha' (cloth), and 'wethalu' (garment).",
   "pillars": {
-    "secular-buddhist-philosophy": "Gentleness as warmth—wool as soft protection, care made material.",
-    "pre-industrial-wisdom": "Wool warmed humanity—the renewable fiber sheared each spring, warmth without killing."
+    "solarpunk-values": "Wool can provide durable insulation, but material usefulness does not answer how the sheep, land, labor, or processing were treated.",
+    "pre-industrial-wisdom": "Spinning and weaving begin with a fleece that first kept an animal warm. Good material knowledge remembers both uses of the fiber."
   },
   "tags": {
-    "nature": "Animal fiber",
-    "physical": "Warmth material"
+    "nature": "the fiber forming a sheep's fleece",
+    "physical": "a crimped insulating fiber that can be spun"
   }
 }

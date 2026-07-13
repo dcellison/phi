@@ -10,15 +10,16 @@
   "pos": [
     "noun"
   ],
-  "concept": "Sheep / The Wool-Bearer",
-  "description": "The sheep: the flock animal whose fleece clothes the household. Built directly on 'mophi' (wool) — the wool-one — so a learner who knows the fleece reads the animal at sight. A counted sheep may take optional 'lipha'.",
-  "sound_symbolism": "'mophi' arrives whole and soft, and 'ra' opens it outward, the way a fleece opens under the shears. There is nothing hard in the word to snag on.",
-  "grammatical_notes": "Noun: 'lo mophira mua wemo nai.' (The sheep are on the plain.) From Schleicher's fable: 'mophira mophi ma phelu.' (The sheep had no wool.) Related: 'mophi' (wool), 'wethalu' (garment).",
+  "concept": "Sheep / Woolly Grazing Flock Animal",
+  "description": "A domesticated grazing animal with a thick fleece, commonly kept in flocks. The form echoes 'mophi' (wool), its most visible coat, while the noun refers to the whole living animal rather than a supply of fiber. A counted sheep may take optional 'lipha'.",
+  "sound_symbolism": "Closed lips begin 'mo' with a nasal hum inside rounded 'o'. Stressed 'phi' brings the lips close again without sealing them and lets breath sharpen into bright 'i'. Final 'ra' turns on the tongue and opens into broad 'a'. The word passes from contained warmth through airy friction to an open finish.",
+  "grammatical_notes": "A noun: 'lo mophira mua kosha nai.' (The sheep are in the field.) 'Mophira mophi phelu.' (The sheep has wool.) Related to 'mophi' (wool) by deliberate sound kinship; compare 'kalora' (horse) and 'tupiwa' (rabbit).",
   "pillars": {
-    "pre-industrial-wisdom": "Wool was the pre-industrial world's renewable harvest: the animal that could be harvested without being harmed, shorn each spring and walking away whole."
+    "peace-linguistics-practices": "'Mophira' stays the subject when a sentence turns to fleece or shearing. Shelter and trade can then say who benefits and what the sheep experiences.",
+    "pre-industrial-wisdom": "Pastoral knowledge followed the flock through weather and pasture. It guided birth and illness as closely as shearing, and the usefulness of wool never guaranteed good care."
   },
   "tags": {
-    "nature": "The flock's wool-bearer",
-    "physical": "The fleece that grows back"
+    "nature": "a grazing animal commonly living in flocks",
+    "physical": "a woolly fleece on a living animal"
   }
 }

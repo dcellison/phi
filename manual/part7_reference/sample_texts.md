@@ -82,11 +82,11 @@ phialu haoni.
 
 ## The texts shelf
 
-The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Aesop's contest now appears twice. Its close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. One work can show both obligations without confusing them.
+The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Two familiar fables now appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it.
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
-The complete texts live in `pamphlets/`, one file per text. Each carries its Phi with glosses, back-translations, source citations where publication permits them, and a record of the choices made. Two of them are the manual's own touchstones.
+The complete texts live in `pamphlets/`, one file per text. Each carries its Phi with glosses, back-translations, source citations where publication permits them, and a record of the choices made. Three of them are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -98,11 +98,20 @@ OPT UNIV creature joy heart hold.
 
 ***nitho howeli nela sileta*** (The North Wind and the Sun) pairs a close translation with a transmutation of Aesop's familiar linguistic benchmark. The translation uses past-tense scene chains and direct removal in a relative clause; `sharemi` (persuade), now in base vocabulary, lets Aesop's moral stay whole. The transmutation has no scoreboard: `moli nela phena haolu welao lureko thola`, gentleness and kind speech bring good fruit; `keloa haolu nela kawhera pholeni thola`, rough speech and coercion bring departure. A comparison after both renderings follows the change through Phi's five pillars.
 
+***mophira nela lo kalora*** (The Sheep and the Horses) begins from a controlled English translation of Schleicher's 1868 German. The close rendering preserves the constricted heart, the horses' knowledge, the master claim, and both descriptions of the sheep's flight. The transmutation names coercion and exploitation, then declines to rank the unlike burdens:
+
+```
+shola lo kalora nela lo mophira lo phirae tupeka kolua sholo.
+QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE.
+("The horses and the sheep carry different burdens.")
+```
+
+`tupeka` (burden) and `phesari` (flee) belong to base vocabulary. The close translation reaches into Commons for `phenori` (ownership); the transmutation uses shared Work and Commons `pilora` (exploit) where the sharper analysis earns the specialist word.
+
 The rest of the shelf:
 
 | Phi title | Method | Text |
 |---|---|---|
-| `mophira nela lo kalora` | Transmutation | Schleicher's fable, worked from the 1868 German |
 | `ta haluma` | Transmutation | the Babel story, Genesis 11:1-9, with its scattering retold as sowing |
 | `theula miona` | Transmutation | Article 1 of the Universal Declaration of Human Rights |
 | `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |

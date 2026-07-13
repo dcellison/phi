@@ -798,7 +798,7 @@ CITATION_SOURCES = {
         "aesop", "pamphlets/sources/aesop_for_children.txt"
     ),
     "pamphlets/schleicher_fable.md": (
-        "schleicher", "pamphlets/sources/schleicher_1868.txt"
+        "schleicher-en", "pamphlets/sources/schleicher_1868_english.txt"
     ),
     "pamphlets/babel_text.md": (
         "kjv", "pamphlets/sources/kjv_genesis.txt"
@@ -822,6 +822,10 @@ CITATION_SOURCES = {
 
 PAIRED_CITATION_SCOPES = {
     "pamphlets/north_wind_and_sun.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
+    "pamphlets/schleicher_fable.md": (
         "## Close translation",
         "## Transmutation",
     ),
