@@ -4,7 +4,7 @@
 
 *The close translation follows every proposition in James Legge's chapters 8, 11, 17, 63, and 76. The transmutation selects moments and lets Phi alter their movement: a ruler gives way to a guide, conquest ends in fruitlessness, and the tree meets wind instead of a feller. The labels matter. The first rendering shows what Phi can say near the source; the second shows what Phi chooses to carry into its own literature.*
 
-*The ground truth is Legge's 1891 translation in The Sacred Books of the East, volume XXXIX, stored verbatim in `pamphlets/sources/tao_teh_king_1891.txt`. Each block carries the Phi sentence, its word-by-word gloss, a literal English back-translation, and Legge's wording. The citations preserve his claims where a Phi description remains approximate.*
+*The ground truth is Legge's 1891 translation in The Sacred Books of the East, volume XXXIX, stored verbatim in `texts/sources/tao_teh_king_1891.txt`. Each block carries the Phi sentence, its word-by-word gloss, a literal English back-translation, and Legge's wording. The citations preserve his claims where a Phi description remains approximate.*
 
 *The title is `keiro`, way, heard here in its guiding sense. `ruela` is walked ground and `shoeka` a chosen course. Neither has the range Legge gives Tao here.*
 

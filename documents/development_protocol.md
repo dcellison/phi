@@ -229,6 +229,7 @@ All vocabulary entries must include:
 - Grammar documentation → `/documents/grammar/`
 - Python scripts → `/scripts/`
 - Manual content → `/manual/`
+- Literary translations and transmutations → `/texts/`
 - Focused deep-dives → `/pamphlets/`
 - Historical material → `/archive/` (never a reference for current canon)
 

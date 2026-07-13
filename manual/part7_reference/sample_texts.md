@@ -88,7 +88,7 @@ The five Tao chapters bring the comparison into a workshop. One version describe
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
-The complete texts live in `pamphlets/`, one file per short work and one file per completed novel chapter. Each presents the Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Eight of them are the manual's touchstones.
+The complete texts live in `texts/`. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Every rendering presents Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Eight are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 

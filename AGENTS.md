@@ -19,6 +19,16 @@ Use this order for every prose task:
 
 Humanizer reviews the whole artifact, but accuracy does not move: Phi forms and lexicon glosses stay exact, while source quotations and previously validated examples remain as found. New English prose inside an example receives the pass before validation, and schema data stays intact. When reporting completed prose work, name at least one concrete pattern found and corrected during the Humanizer or voice audit.
 
+## Completed-work PR publication
+
+After requested repository work is complete and every applicable check passes, use this sequence unless the user explicitly asks to keep the work local or pause for review:
+
+1. Commit only the files that belong to the task on the current feature branch.
+2. Push that feature branch to `origin`.
+3. Create a detailed pull request against `main` with a clear summary and the checks that passed.
+
+Treat commit, push, and pull-request creation as the customary finish to completed repository work. Leave unrelated tracked changes and untracked files out of the commit and pull request.
+
 ## Post-merge PR cleanup
 
 After a pull request has been confirmed as merged:

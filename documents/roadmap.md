@@ -198,13 +198,13 @@ This checklist protects implementation quality. It does not require external app
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| COR-01 | **DONE** | A validated shelf of eight close translations, eleven transmuted works, and extensive teaching examples; seven works appear in both forms. | `pamphlets/`; manual; primer | Keep every rendering labeled by method and continue to distinguish deliberate transmutation choices from Phi's general expressive capacity. |
+| COR-01 | **DONE** | A validated shelf of eight close translations, eleven transmuted works, and extensive teaching examples; seven works appear in both forms. | `texts/`; manual; primer | Keep every rendering labeled by method and continue to distinguish deliberate transmutation choices from Phi's general expressive capacity. |
 | COR-02 | **DONE** | Fifteen original philosophical regression dialogues. | `documents/philosophical_test_corpus.md` | Preserve as baseline tests rather than polished doctrine. |
 | COR-03 | **READY** | Sustained original philosophical essays in Phi. | Depends on PHL-05/06 scenario selection | Write at least three essays with claims, objections, revision, and unresolved tension; maintain proposition and gap logs. |
 | COR-04 | **READY** | Dialogue set whose successful outcome is disagreement, suspension, or revised framing rather than consensus. | Repair conventions | Add validated dialogues and re-run repair tests. |
 | COR-05 | **EVIDENCE** | Transcripts or reconstructions of spontaneous Phi conversation. | No spontaneous corpus yet | With consent, preserve normalized text and an error/repair log; do not publish raw voice by default. |
 | COR-06 | **PARTIAL** | Corpus-attestation data for phonetic and lexical decisions. | Phonetic audit counts documentation examples | Separate authored Phi usage from mentions in explanation as the corpus grows. |
-| PED-01 | **DONE** | Complete primer, reference manual, pamphlet shelf, quick reference, and generated explorer. | `primer/`; `manual/`; `pamphlets/`; `web/` build | Keep generated outputs synchronized. |
+| PED-01 | **DONE** | Complete primer, reference manual, text shelf, pamphlet shelf, quick reference, and generated explorer. | `primer/`; `manual/`; `texts/`; `pamphlets/`; `web/` build | Keep generated outputs synchronized. |
 | PED-02 | **DONE** | Advanced teaching for source-material boundaries and productive names. | Manual chapter 24 and relevant pamphlets | Maintain exercises and answers as rules evolve. |
 | PED-03 | **PARTIAL** | Claims about learning burden aligned with actual grammar. | Revised introductory and manual prose | Continue auditing “one rule,” speed, and ease language. |
 | PED-04 | **EVIDENCE** | First complete outside learner walkthrough. | No result yet | Record chapter time, errors, questions, abandoned points, and prior language background. |

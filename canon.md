@@ -16,12 +16,13 @@ the list must be corrected to match anything higher.
    the grammatical system: particle inventory and slot order,
    complementizer pairs, numeral structure.
 3. **`manual/`** — the teaching text. Must agree with (1)–(2).
-4. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
-5. **Philosophy documents** — `documents/language_guide.md`,
+4. **`texts/`** — translations and transmutations. Must agree with (1)–(3).
+5. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
+6. **Philosophy documents** — `documents/language_guide.md`,
    `modifier_first_philosophy.md`, and
    `psychological_violence_of_measurement.md`. Authoritative for *why*, not for word forms
    or grammar details.
-6. **`archive/`** — historical record only. Never a reference for the
+7. **`archive/`** — historical record only. Never a reference for the
    current language. (The six narrative grammar chapters were dissolved
    into the manual, July 2026.)
 
@@ -77,7 +78,7 @@ These were explicitly decided and should not silently fork again:
   timbre is `haoni welisha`; loneliness composes as `sonu` + `nuhe`;
   greeting is `kia`/`whelani`. The full gap-campaign record, with
   all fourteen rulings, is preserved in `archive/GAP_INVENTORY.md`.
-- **Refused in the core lexicon** (extended 2026-07-10): universal gendered person classes such as *woman/man* are not currently admitted; `miona` (person), `tewema` (partner), and `phao` (parent) remain the unmarked terms, while a person's exact self-description may remain in source material outside Phi and any future core proposal receives case-by-case review. Also currently refused: *hunt*; generic *bad* (things are harmful, broken, or unwell); *blade* as weapon-part (knife exists only as a kitchen or craft tool); *marriage* as institution; and the vocabulary of domination, including *to rule*, *lord/master*, *throne*, and *bind-as-captivity*. The Ring Verse refusal (`pamphlets/ring_verse_refusal.md`) uses `kulo` (guide), `theluo` (steward), and `nolami` (mutual bond) instead. These decisions govern unmarked core vocabulary; faithful source material remains outside Phi and the case-by-case review standard remains controlling.
+- **Refused in the core lexicon** (extended 2026-07-10): universal gendered person classes such as *woman/man* are not currently admitted; `miona` (person), `tewema` (partner), and `phao` (parent) remain the unmarked terms, while a person's exact self-description may remain in source material outside Phi and any future core proposal receives case-by-case review. Also currently refused: *hunt*; generic *bad* (things are harmful, broken, or unwell); *blade* as weapon-part (knife exists only as a kitchen or craft tool); *marriage* as institution; and the vocabulary of domination, including *to rule*, *lord/master*, *throne*, and *bind-as-captivity*. The Ring Verse refusal (`texts/ring_verse_refusal.md`) uses `kulo` (guide), `theluo` (steward), and `nolami` (mutual bond) instead. These decisions govern unmarked core vocabulary; faithful source material remains outside Phi and the case-by-case review standard remains controlling.
 - **Classifiers** (settled 2026-07; clarified 2026-07-11): four only (`himo`, `lipha`, `themo`, `nophe`), always optional after a numeral or `wia`; ordinary quantifiers modify the noun directly and do not take a classifier. Nature-now rule: living parts of living beings take `lipha`; time units and events take `nophe`; `themo` is for detached and crafted objects. Classifier use foregrounds a category but does not encode respect or mindfulness. The superlative is `mo ko`; the particle `mi` is retired. Subordinating conjunctions: `pheo`, `phoe`, `lao`, `shai`, `lila`.
 - **Embedded clauses** carry their own tense marking; closers
   (`meno`, `welo`, `sholo`) are required.

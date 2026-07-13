@@ -2,7 +2,7 @@
 
 *This close translation of the Karaniya Metta Sutta into Phi follows V. Fausböll's 1881 English and is the language's first complete text. Every claim and image in that English source has a place in Phi. When a source term must be composed or a distinction narrows, the notes and gap log say so.*
 
-*The source is the Pali Karaniya Metta Sutta (Sn 1.8). The English ground truth is V. Fausböll's translation of the Sutta-Nipâta (Sacred Books of the East, volume X, part II, second edition; first published 1881), stored verbatim in `pamphlets/sources/`. Its scan spellings, broken words, and punctuation remain in the citations. All ten verses are represented.*
+*The source is the Pali Karaniya Metta Sutta (Sn 1.8). The English ground truth is V. Fausböll's translation of the Sutta-Nipâta (Sacred Books of the East, volume X, part II, second edition; first published 1881), stored verbatim in `texts/sources/sutta_nipata_fausboll.txt`. Its scan spellings, broken words, and punctuation remain in the citations. All ten verses are represented.*
 
 *Each block has four lines: the Phi sentence, its word-by-word gloss, a literal English back-translation, and the exact part of Fausböll behind it. The back-translation stays close to the Phi so that a reader can judge the transfer without first knowing the language.*
 

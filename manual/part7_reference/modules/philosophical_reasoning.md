@@ -171,7 +171,7 @@ mia sharino mia phoa whakeru.
 (My conscience objects to my action.)
 ```
 
-The paired [Article 1](../../../pamphlets/human_rights_article_one.md) tests both distinctions in adjacent claims. Its translation grants all people thought and conscience as faculties; its transmutation gives them the capacity to think and the heart's knowing.
+The paired [Article 1](../../../texts/human_rights_article_one.md) tests both distinctions in adjacent claims. Its translation grants all people thought and conscience as faculties; its transmutation gives them the capacity to think and the heart's knowing.
 
 ## Doubt and confidence
 

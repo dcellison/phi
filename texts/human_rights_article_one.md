@@ -2,7 +2,7 @@
 
 *The United Nations' 1948 Article 1 makes three moves in two sentences: human beings enter life free and equal in dignity and rights; they possess reason and conscience; they owe one another conduct shaped by brotherhood. This page gives that compact argument two Phi renderings. The close translation retains the rights claim, the endowment metaphor, and the source's spirit language beside Phi's unavoidable ungendering of brotherhood. The transmutation turns dignity and rights toward equal worth and recognized entitlement. Reason, conscience, and brotherhood become capacity, heart-knowing, and kind reciprocal action.*
 
-*The ground truth is the official English text stored verbatim in `pamphlets/sources/udhr_1948.txt`. Each rendering uses four-line blocks: the Phi sentence, its word-by-word gloss, a literal English back-translation, and the exact source wording.*
+*The ground truth is the official English text stored verbatim in `texts/sources/udhr_1948.txt`. Each rendering uses four-line blocks: the Phi sentence, its word-by-word gloss, a literal English back-translation, and the exact source wording.*
 
 ---
 

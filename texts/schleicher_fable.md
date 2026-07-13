@@ -1,6 +1,6 @@
 # mophira nela lo kalora — Schleicher's fable
 
-*A sheep sees three horses at work. The horses answer by showing the sheep what its missing wool has become. August Schleicher wrote this small fable in reconstructed Proto-Indo-European in 1868 and supplied his own German rendering beside it. That German is stored in `pamphlets/sources/schleicher_1868.txt`; the controlled English at `pamphlets/sources/schleicher_1868_english.txt` contains every claim and explanatory parenthesis used here.*
+*A sheep sees three horses at work. The horses answer by showing the sheep what its missing wool has become. August Schleicher wrote this small fable in reconstructed Proto-Indo-European in 1868 and supplied his own German rendering beside it. That German is stored in `texts/sources/schleicher_1868.txt`; the controlled English at `texts/sources/schleicher_1868_english.txt` contains every claim and explanatory parenthesis used here.*
 
 *This page gives that English source two Phi renderings. The close translation comes first. A new transmutation follows, written from the same source rather than repaired from an earlier Phi version. Each block has the Phi sentence, its exact gloss, a literal English back-translation, and the aligned source wording.*
 

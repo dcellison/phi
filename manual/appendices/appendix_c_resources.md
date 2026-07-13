@@ -16,7 +16,8 @@ The manual is the teaching path; these are the working documents behind it.
 | `documents/compounds.md` | The canonized compound idioms and why each stays compositional |
 | `documents/modifier_first_philosophy.md` | The organizing principle, argued in full |
 | `documents/psychological_violence_of_measurement.md` | Why the numbers are the way they are |
-| `pamphlets/` | The text shelf: a close translation of the Metta Sutta; paired translations and transmutations of two benchmark fables, UDHR Article 1, the Babel story, the Heart Sutra, five Tao chapters, and On Children from *The Prophet*; and the remaining transmuted works |
+| [`texts/`](https://github.com/dcellison/phi/tree/main/texts) | The literary shelf: the Metta Sutta translation, seven paired works, three further transmutations, and *News from Nowhere* in its own book directory |
+| `pamphlets/` | Focused companions to the manual, with extended teaching, exercises, and answer keys |
 | `manual/part7_reference/` | The one-page grammar and the generated lexicon listings |
 | `scripts/validate_examples.py` | The validator; also `neighbors <word>` before coining |
 | `archive/` | The language's history, preserved and clearly marked as non-canon |
