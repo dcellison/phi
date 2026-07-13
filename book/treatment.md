@@ -168,6 +168,8 @@ Opens on the reader closing the book with one word in their pocket; ends on the 
 
 The book is drafted chapter by chapter, one branch and one pull request each, in treatment order unless review reorders them. Every draft follows documents/voice_for_models.md end to end: register identified first, the humanizer skill invoked on the complete draft, the counting pass run against the anti-pattern table, a batch pass across finished chapters for stamping and pet words, and each delivery naming what its audit found. Phi content is quoted from validated texts or validated fresh; this pull request adds book/ to the validator's document roots so every Phi word and citation in the book is machine-checked from the first file onward. External sources are cited by author and year in the text, with a references list at each chapter's end and a consolidated bibliography closing the book. Chapters that owe targeted research name it in their receipts.
 
+The book's Phi examples do more than serve the local point: they put the language's abilities on display. Across the chapters they collectively exercise the full grammar: complementizer frames, relative clauses, quotative frames, complete Slot 1 stacks including the evidentials, voice and causative, numerals, and classifiers. A chapter that quotes only short declaratives is under-drafted.
+
 After the treatment is ratified, drafting begins with a trial: the cold open plus chapter 11. Chapter 11 is the hardest register in the book, science writing in the established voice with claims at exact size. If that chapter works, the book works; if it fails, the treatment gets revised before anything else is written.
 
 ## Open decisions
