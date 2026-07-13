@@ -518,7 +518,7 @@ TEXTS = [
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "Williams's full story, with Real learned through love and the hard scenes of disability, fever, contamination, coercion, burning, and return stated plainly."),
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Gibran on love, children, and giving, with the archer recast as tree and wind and the reward recast as a gift."),
     ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five Legge chapters on water, useful emptiness, unnoticed guidance, small beginnings, and yielding strength. The text includes the warning about trusting force."),
-    ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The emptiness teaching through five named aggregates, a zero litany over body and path, and an optative passage toward the far shore."),
+    ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The smaller Heart Sutra in Müller's 1894 English, rendered twice in Phi: completed crossing in the translation and a communal wish in the transmutation."),
     ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1", "Morris's political argument, railway journey, winter walk, sleepless reckoning, and first-person handoff, carried under an opening reportative frame."),
     ("news_from_nowhere_ch2", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 2", "The first morning beside a clear river, with salmon nets, a bridge on stone rainbows, and a failed attempt to pay for a service."),
     ("news_from_nowhere_ch3", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 3", "Breakfast in the Guest House, followed by bread, roses, forest history, commons entitlement, handwork, mathematics, and the arrival of Gold."),
@@ -535,7 +535,7 @@ TEXT_METHODS = {
     "velveteen_rabbit": "Transmutation",
     "prophet_excerpts": "Transmutation",
     "tao_te_ching": "Transmutation",
-    "heart_sutra": "Transmutation",
+    "heart_sutra": "Translation + transmutation",
     "news_from_nowhere_ch1": "Transmutation",
     "news_from_nowhere_ch2": "Transmutation",
     "news_from_nowhere_ch3": "Transmutation",
@@ -553,8 +553,8 @@ for stem, title, blurb in TEXTS:
     (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
 
 toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta contains all ten verses of its source. On the North Wind, Schleicher, Article 1, and Babel pages, a close translation comes first and a transmutation follows; each page then shows where the methods part.</p>",
-       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and four use both; every rendering says what it owes the source.</p>"]
+       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel and the Heart Sutra apply the same order to longer pieces; each paired page then shows where the methods part.</p>",
+       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and five use both; every rendering says what it owes the source.</p>"]
 for stem, title, blurb in TEXTS:
     toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")

@@ -837,6 +837,10 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
+    "pamphlets/heart_sutra.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
 }
 
 
