@@ -833,6 +833,10 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
+    "pamphlets/babel_text.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
 }
 
 

@@ -12,7 +12,7 @@
 | **The short road** | [short_road.md](short_road.md) | The whole language at walking pace: twenty minutes, one working example per idea. The second door. |
 | **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, twenty-four graded chapters about one household, and a capstone. No prior knowledge assumed. |
 | **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, translation, and transmutation. For verification and depth. |
-| **The texts** | [texts on the site](https://dcellison.github.io/phi/texts/) | Phi's literature: four close translations and eleven transmutations, with three works appearing in both forms, alongside the first chapters of *News from Nowhere* and the Ring Verse refusal. |
+| **The texts** | [texts on the site](https://dcellison.github.io/phi/texts/) | Phi's literature: five close translations and eleven transmutations, with four works appearing in both forms, alongside the first chapters of *News from Nowhere* and the Ring Verse refusal. |
 | **The pamphlets** | [pamphlets on the site](https://dcellison.github.io/phi/pamphlets/) | Deep-dive companions to the manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys. |
 
 Four shelves, four jobs: `documents/` is what the language **is** (the specification), the manual is how it is **explained**, the primer is how it is **learned**, and the pamphlets are how it is **practiced**.

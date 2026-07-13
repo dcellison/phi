@@ -132,7 +132,7 @@ Every word also arrives with its relatives included. A verb names its own event:
 
 Phi's shelf uses two methods. A close translation keeps the source's claims intact while letting Phi choose its own grammar. A transmutation allows the source to change as Phi thinks it through. Every text identifies its ground truth and records the choices, so the reader can see what arrived and what did not.
 
-Twelve works stand on the shelf. The Metta Sutta is a translation. The North Wind and the Sun, Schleicher's fable, and Article 1 of the Universal Declaration of Human Rights each place a close translation beside a transmutation, so the reader can watch the methods part in a fable, a reconstructed-language test, and a declaration of rights. The other eight are transmutations: the Babel story; the fox's secret from *The Little Prince*; three teachings from *The Prophet*; five chapters of the Tao Te Ching; the Heart Sutra; the whole of *The Velveteen Rabbit*; three chapters of Morris's *News from Nowhere*; and the Ring Verse refusal.
+Twelve works stand on the shelf. The Metta Sutta is a translation. The North Wind and the Sun, Schleicher's fable, Article 1 of the Universal Declaration of Human Rights, and the Babel story each have both a close translation and a transmutation. In Babel, the reader can watch divine punishment become languages cast like seed by the earth. The other seven works are transmutations: the fox's secret from *The Little Prince*; three teachings from *The Prophet*; five chapters of the Tao Te Ching; the Heart Sutra; the whole of *The Velveteen Rabbit*; three chapters of Morris's *News from Nowhere*; and the Ring Verse refusal.
 
 ## Where the choices come from
 

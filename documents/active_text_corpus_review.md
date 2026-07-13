@@ -133,9 +133,26 @@ The ground truth is the complete 1948 English Article 1 stored in `pamphlets/sou
 
 The five-pillar comparison does not force five rewrites. Solarpunk thought tests whether a right survives institutional denial and whether an entitlement has practical form. Secular Buddhist attention shifts endowed faculties toward conditioned acts in the transmutation. Art Nouveau affects the line and repetition rather than the concepts. Peace linguistics moves the transmutation from prescribed feeling to accountable conduct. Preindustrial wisdom finds kinship and heart-knowing already present, without adding a village or tradition absent from the source.
 
-## Transmutation review: the remaining shelf
+## Paired review: Babel
 
-The nine pending works were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
+The ground truth is KJV Genesis 11:1-9 stored in `pamphlets/sources/kjv_genesis.txt`. The repaired transmutation is intact as one half of the page. The new close translation covers every verse without using its seed-shaped reading of dispersal.
+
+| Area | Close translation | Transmutation |
+|---|---|---|
+| Source names | Shinar and Babel stay exact beside the Phi. The passage gives the land relation and naming event without assigning adaptations. | Shinar is dropped. Babel becomes `lo haluma`, Many Languages, a semantic place-name made for this retelling. |
+| LORD | The KJV title stays beside the Phi. Inside the passage, `karami` identifies the actor's authority. Legitimacy and nature are separate questions. | `muila`, the earth, replaces the source actor and needs no descent. |
+| Materials | Brick is clay-stone. The KJV's bitumen becomes thick black oil whose masonry work is making stones one. | Brick stays clay-stone, while bitumen becomes mud and mortar borrows `nolami`, a mental bond. |
+| Building | The builders' benefit, the tower's top, and their fear of dispersal survive. | The settlement's scale and upward reach receive more attention than benefit or top; the fear survives. |
+| Human possibility | Actions the builders have imagined face no `noraku`, block. | Everything imagined can become for the builders. |
+| Confounding | Language is deliberately made unfamiliar so speech from one another cannot be understood. | One language is not enough for the earth and becomes many. |
+| Dispersal | Authority sends the people out from the settlement along diverging paths. | The earth uses `thiwera` to scatter people like seed. |
+| Ending | The source's final explanation and repeated dispersal close the account. | Two uncited lines call every language a garden and place Phi among them. |
+
+The lexical decision at the center of the pair is restraint. `thiwera` is not an innocent synonym for every scattering: its entry promises seed, breadth, and somewhere to grow. Translation therefore uses caused motion and leaves punishment severe. Transmutation chooses the hopeful word and accepts the change it brings. The five-pillar comparison tests peace linguistics honestly here: refusing violence in Phi cannot mean concealing violence in a source.
+
+## Transmutation review: the original shelf pass
+
+Before selective pairing began, the nine pending transmutations were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
 
 | Work | Source and decision | Material repairs | Pillar disposition |
 |---|---|---|---|
@@ -158,7 +175,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `pamphlets/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `pamphlets/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
-| `pamphlets/babel_text.md` | Transmutation | Reviewed | Complete KJV alignment preserved; Earth, sowing, and garden departures are explicit choices. |
+| `pamphlets/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `pamphlets/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
 | `pamphlets/little_prince_excerpts.md` | Transmutation | Reviewed | Three source excerpts checked; the responsibility line gives mutual bonding its required oblique grammar. |
 | `pamphlets/prophet_excerpts.md` | Transmutation | Reviewed | Three teachings checked; the planting reframe is deliberate and the gap log names its costs. |
@@ -170,4 +187,4 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `pamphlets/news_from_nowhere_ch2.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
 | `pamphlets/news_from_nowhere_ch3.md` | Transmutation | Reviewed | Full chapter checked; Commons and Work vocabulary restore authority, entitlement, retaliation, and political direction. |
 
-The transmutation shelf is now reviewed. The next corpus decision is selective: which short works gain enough from a close Phi translation to justify carrying both versions.
+The full transmutation shelf has been reviewed. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation.
