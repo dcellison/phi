@@ -4,7 +4,7 @@ A council votes to allocate the season's grain, one member abstains, and someone
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 27 module roots. Current classifications bring the optional learning list to 50 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 27 module roots. Current classifications bring the optional learning list to 51 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -25,7 +25,7 @@ Systems lends the technical state behind an institution's tools, Ecological supp
 
 ## Additional roots in this learning path
 
-Nine established words give the path its concrete collective forms and group roles.
+Ten established words give the path its concrete collective forms, group roles, and general word for a normative right.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -33,6 +33,7 @@ Nine established words give the path its concrete collective forms and group rol
 | `kowela` | council; a deliberative collective body | A council is more specific than a meeting: it persists as a body and may claim a decision role. |
 | `laenu` | commons; land, space, or resources held for a community | Shared holding raises membership, allocation, stewardship, and authority questions without answering them. |
 | `shalimo` | alliance; a chosen group organized around a shared cause | The alliance is the continuing bond, not the meeting where its members speak. |
+| `sherelo` | right; a normative claim that can bind conduct or institutions | A right can remain live under denial, unlike an entitlement whose definition begins with recognition. |
 | `shorai` | commune; share daily life, resources, and responsibilities | The collective relation belongs here. Its domestic life gives it another place in Household and Daily Life. |
 | `temu` | guild; an association formed around a craft or profession | A guild is both an institutional body and a home for shared craft, so Work teaches it too. |
 | `theluo` | steward; one entrusted with care for shared land, resources, or community | The role raises collective responsibility and ecological care together. |
@@ -209,7 +210,7 @@ mia mua ha kasira makelu.
 (I abstain in this vote.)
 ```
 
-## Allocation, entitlement, and ownership
+## Allocation, rights, entitlement, and ownership
 
 `phanuli` assigns resources, time, or burdens under a stated criterion, and it stays neutral on purpose: an allocation can be unequal, coerced, or legitimate by one standard and rejected by another.
 
@@ -217,6 +218,14 @@ mia mua ha kasira makelu.
 ha kowela napuro phanuli.
 PROX council grain allocate.
 (The council allocates grain.)
+```
+
+`sherelo` is a normative claim that remains sayable when recognition or fulfillment is disputed. A source tradition can narrow it to a human, legal, customary, or collective right; when the exact category carries force, it stays in the surrounding source record.
+
+```
+theula miona lo kolo sherelo phelu.
+UNIV person PL equal right hold.
+(All people hold equal rights.)
 ```
 
 `shereni` is a recognized claim, scoped to what it actually covers, and it is narrower than many source traditions call rights. Where a source tradition's rights language matters exactly, it belongs in its own analysis rather than folded into this one word.
@@ -349,7 +358,7 @@ Some governance expressions remain clearer as combinations because their parts e
 | participation `kirema` plus exact count or proportion | quorum | Preserves the threshold and who counts toward it. |
 | quantifiers and exact counts around `kasira` | majority or minority result | Assumes no binary factions, no equal weights, no single voting system. |
 | exact source category plus `nasholu` in the surrounding analysis | law, policy, bylaw, treaty, contract, or custom | Preserves the source's own force and wording alongside the generic rule role. |
-| exact rights claim plus `shereni` only where its definition fits | a recognized entitlement within a rights analysis | Keeps this narrower word from swallowing a source tradition's fuller concept of rights. |
+| `sherelo` plus an exact source category when its force matters | a normative right under a stated tradition | Keeps the right sayable in Phi while the source record preserves whether it is human, legal, customary, collective, or another exact kind. |
 | `phenori` ownership separated from protective `phelu`, access, use, stewardship, and obligations | custody or property relation | Keeps possession, care, and ownership from blurring into each other. |
 | stated insufficiency with `henoi ma` | scarcity | Makes scarcity relative to a resource, a use, and a place, not absolute. |
 | `sone noa` plus a stated criterion | priority | Keeps ranking tied to the value doing the ranking. |

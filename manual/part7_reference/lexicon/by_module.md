@@ -62,7 +62,7 @@
 
 ## Commons and Collective Governance
 
-*50 words in this learning path.*
+*51 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -99,6 +99,7 @@
 | `shalori` | represent | verb | Represent |
 | `shanewi` | notify | verb | Notify |
 | `shaweri` | advocate | verb | Advocate |
+| `sherelo` | right (normative) | noun | Right |
 | `shereni` | entitlement | noun | Entitlement |
 | `shorai` | commune | verb | Commune |
 | `sirelu` | disclose | verb | Disclose |
@@ -276,7 +277,7 @@
 
 ## Philosophical Reasoning
 
-*19 words in this learning path.*
+*21 words in this learning path.*
 
 | Word | Gloss | Part of speech | Concept |
 |---|---|---|---|
@@ -294,6 +295,8 @@
 | `remole` | concept | noun | Concept |
 | `remuma` | conclusion | noun | Conclusion |
 | `samethu` | equivalent | adjective | Equivalent |
+| `sharino` | conscience | noun | Conscience |
+| `sherelo` | right (normative) | noun | Right |
 | `soneho` | tradeoff | noun | Tradeoff |
 | `themore` | argument | noun | Argument |
 | `whakeru` | object | verb | Object |

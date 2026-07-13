@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1166 words.*
+*1168 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -763,6 +763,7 @@
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
 | `sharemi` | persuade | /ʃä.ˈre̞.mi/ | verb |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
+| `sharino` | conscience | /ʃä.ˈri.n̪o̞/ | noun |
 | `sharoi` | exceed | /ʃä.ˈro̞.i/ | verb |
 | `shaweri` | advocate | /ʃä.ˈwe̞.ri/ | verb |
 | `shea` | peace | /ˈʃe̞.ä/ | noun |
@@ -785,6 +786,7 @@
 | `sheno` | ADD | /ˈʃe̞.n̪o̞/ | discourse |
 | `sheo` | THAN | /ˈʃe̞.o̞/ | preposition |
 | `sheori` | communicate | /ʃe̞.ˈo̞.ri/ | verb |
+| `sherelo` | right (normative) | /ʃe̞.ˈre̞.lo̞/ | noun |
 | `shereni` | entitlement | /ʃe̞.ˈre̞.n̪i/ | noun |
 | `sherewa` | claim | /ʃe̞.ˈre̞.wä/ | verb |
 | `shero` | night | /ˈʃe̞.ro̞/ | noun |

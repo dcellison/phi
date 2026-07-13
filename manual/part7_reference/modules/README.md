@@ -6,10 +6,10 @@ Every module word remains part of the canonical lexicon in `vocabulary/content/`
 
 | Module | Chapter | Module roots introduced | Current memberships | Base vocabulary taught here |
 |---|---|---:|---:|---|
-| Philosophical Reasoning | [Philosophical Reasoning](philosophical_reasoning.md) | 18 | 19 | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion |
+| Philosophical Reasoning | [Philosophical Reasoning](philosophical_reasoning.md) | 18 | 21 | `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion |
 | Systems and Shared Infrastructure | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | 24 | 37 | `phelure` store |
 | Ecological Systems and Material Life | [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | 27 | 46 | `howenu` weather, `muralo` material, `panuri` resource |
-| Commons and Collective Governance | [Commons and Collective Governance](commons_and_collective_governance.md) | 27 | 50 | `sirami` record, `kawhera` coerce, `whepelo` retaliate |
+| Commons and Collective Governance | [Commons and Collective Governance](commons_and_collective_governance.md) | 27 | 51 | `sirami` record, `kawhera` coerce, `whepelo` retaliate |
 | Work, Craft, and Repair | [Work, Craft, and Repair](work_craft_and_repair.md) | 28 | 65 | `winora` plan, `hasoru` pending |
 | Medical and Bodily Care | [Medical and Bodily Care](medical_and_bodily_care.md) | 30 | 48 | `lesawi` consent |
 | Accessibility and Participation | [Accessibility and Participation](accessibility_and_participation.md) | 30 | 45 | `sowelu` disabled |

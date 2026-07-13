@@ -119,6 +119,20 @@ The ground truth is V. Fausböll's 1881 translation stored at `pamphlets/sources
 
 The English back-translation is deliberately literal. It lets a reader inspect the Phi without already knowing the language. Where the source still narrows in Phi, the notes name the loss: upright becomes honest, mean becomes harmful, and a womb is a birth parent's belly.
 
+## Paired review: UDHR Article 1
+
+The ground truth is the complete 1948 English Article 1 stored in `pamphlets/sources/udhr_1948.txt`. The close translation and transmutation now share one page. Two source-facing roots do work that composition could not do cleanly: `sherelo` is a normative right that can survive denial, and `sharino` is conscience as moral self-appraisal.
+
+| Area | Close translation | Transmutation |
+|---|---|---|
+| Birth and equality | A second Phi sentence says that equal worth and rights are held from birth and therefore preserves the scope of the English coordination. | Freedom stays tied to birth, while equality becomes a separate standing universal claim. |
+| Dignity and rights | `rolia` supplies inherent worth or dignity; `sherelo` leaves a right sayable before recognition or fulfillment. | Equal worth remains, but rights narrow to recognized `shereni` entitlements. |
+| Reason and conscience | Passive `se loa` retains the endowment metaphor. Event-noun `remo` supplies a broad faculty of thought, and `sharino` states conscience directly. | `po remo` gives a capacity to think, while `korua sano` turns conscience into the heart's knowing. |
+| Brotherhood and conduct | `lomea phiora` retains a sibling spirit, and reciprocal `wiso` directs the action toward one another. | People act as siblings, and `phena` makes kindness part of the observable conduct. |
+| Remaining limits | `remo` is broader than rational faculty, `phiora` is less idiomatic than English "spirit," `lomea` ungenders brotherhood, and `na` is stronger than "should." | The gap log records each deliberate change, including the loss of birth scope on equality and the narrowing from rights to entitlements. |
+
+The five-pillar comparison does not force five rewrites. Solarpunk thought tests whether a right survives institutional denial and whether an entitlement has practical form. Secular Buddhist attention shifts endowed faculties toward conditioned acts in the transmutation. Art Nouveau affects the line and repetition rather than the concepts. Peace linguistics moves the transmutation from prescribed feeling to accountable conduct. Preindustrial wisdom finds kinship and heart-knowing already present, without adding a village or tradition absent from the source.
+
 ## Transmutation review: the remaining shelf
 
 The nine pending works were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
@@ -145,7 +159,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `pamphlets/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
 | `pamphlets/babel_text.md` | Transmutation | Reviewed | Complete KJV alignment preserved; Earth, sowing, and garden departures are explicit choices. |
-| `pamphlets/human_rights_article_one.md` | Transmutation | Reviewed | Entitlement, reasoning capacity, and reciprocal conduct restore distinctions the first rendering collapsed. |
+| `pamphlets/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
 | `pamphlets/little_prince_excerpts.md` | Transmutation | Reviewed | Three source excerpts checked; the responsibility line gives mutual bonding its required oblique grammar. |
 | `pamphlets/prophet_excerpts.md` | Transmutation | Reviewed | Three teachings checked; the planting reframe is deliberate and the gap log names its costs. |
 | `pamphlets/tao_te_ching.md` | Transmutation | Reviewed | Five Legge chapters checked; the strength-of-forces warning is restored through an explicit reframe. |

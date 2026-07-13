@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 18 module roots coined here, 19 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, 21 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
 
 ## Charter
 
@@ -8,7 +8,7 @@ This module supports defining, questioning, comparing, supporting, challenging, 
 
 The module does not claim that Phi makes speakers rational, truthful, peaceful, or philosophically insightful. It supplies distinctions that speakers may use well or badly. It is not a formal logic, a doctrine, a competence credential, or a substitute for knowledge of any philosophical tradition.
 
-The speaker-facing guide is [Philosophical Reasoning](../../manual/part7_reference/modules/philosophical_reasoning.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#philosophical-reasoning). The vocabulary table below records every root established for this profile, including four that belong in base vocabulary. The generated inventory also includes words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
+The speaker-facing guide is [Philosophical Reasoning](../../manual/part7_reference/modules/philosophical_reasoning.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#philosophical-reasoning). The vocabulary tables below cover the module's dedicated roots and four base words taught beside them. The generated inventory also includes words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
 ## Boundaries
 
@@ -50,6 +50,17 @@ The first pass admits eighteen optional roots for specialized reasoning and four
 | Competing values | `soneho` tradeoff, `manawi` compromise | Tradeoff versus mere choice; compromise versus negotiation, agreement, fairness, or consent. |
 
 All 22 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit. Eighteen carry `philosophical-reasoning`; `sherewa`, `thesori`, `remotha`, and `kirema` carry no module field and remain in base vocabulary.
+
+## Rights and conscience
+
+Article 1 of the Universal Declaration of Human Rights brings two further distinctions into sustained philosophical use. They belong beside the argument vocabulary because a discussion of moral or political claims may need to ask what a right is, where it comes from, and whether a person's conscience gives a sound judgment.
+
+| Phi | Working sense | Essential contrast |
+|---|---|---|
+| `sherelo` | right; a normative claim that can bind conduct or institutions | A right can remain under dispute or denial. `shereni` entitlement begins with social recognition and a defined scope. |
+| `sharino` | conscience; moral self-appraisal | Conscience weighs one's own conduct. `waeli` consciousness is the wider fact of subjective awareness. |
+
+Both roots use ordinary nouns and ordinary Phi clauses. The paired [Article 1](../../pamphlets/human_rights_article_one.md) sets the close translation's faculties of reason and conscience beside the transmutation's capacity and heart-knowing.
 
 ## Concepts Kept Compositional
 
