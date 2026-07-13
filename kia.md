@@ -53,19 +53,21 @@ There is no "you need not go." Phi states the absence of obligation as the prese
 
 The lexicon holds more than one thousand words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts — twelve so far, transmuted rather than translated: the loving-kindness meditation, the old fable of the wind and the sun, the first article of the Universal Declaration of Human Rights (which needed no new words at all), the Babel story, Schleicher's sheep and horses, the fox's secret from *The Little Prince*, three teachings from *The Prophet*, five chapters of the Tao Te Ching, the Heart Sutra, the whole of *The Velveteen Rabbit* (where *Real* turned out to be a piece of grammar the language already had), the first chapters of Morris's *News from Nowhere*, and the Ring Verse, refused. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
 
-## Six doors
+## Seven doors
 
-**Walk** — the short road. The whole language at walking pace: one rule, one working example per idea, and twenty minutes to the far door.
+**Walk**: the short road. The whole language at walking pace: one rule, one working example per idea, and twenty minutes to the far door.
 
-**Wander** — the lexicon explorer, where every word carries its sounds, its meaning, and the reasoning behind it.
+**Wander**: the lexicon explorer, where every word carries its sounds, its meaning, and the reasoning behind it.
 
-**Begin** — the primer. Chapter one is fourteen sentences long and you already know the first word of the language.
+**Begin**: the primer. Chapter one is fourteen sentences long and you already know the first word of the language.
 
-**Verify** — the manual, for the reader who wants the machinery: the phonology, the particle system, the ternary numbers, all of it.
+**Verify**: the manual, for the reader who wants the machinery: the phonology, the particle system, the ternary numbers, all of it.
 
-**Read** — the texts. Phi has a shelf of literature already: twelve works rebuilt in the language rather than translated into it, from a loving-kindness meditation to an unfinished utopian novel — and one famous verse it would not say.
+**Consider**: the Phi book, which asks why the language was made this way and puts its claims beside the evidence. It is being written in public.
 
-**Practice** — the pamphlets. A growing shelf on the structures learners find hardest — from relative clauses and source-material boundaries to ternary numbers, names, spoken punctuation, and the particle system: each explained carefully, with exercises and answers.
+**Read**: the texts. Phi has a shelf of literature, with close translations beside preferred transmutations and one famous verse the language would not say.
+
+**Practice**: the pamphlets. Each takes one of the structures learners find hardest and gives it room to breathe, with exercises and answers.
 
 ---
 

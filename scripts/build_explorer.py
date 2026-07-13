@@ -142,6 +142,8 @@ body = body.replace("<strong>Begin</strong>",
                     '<strong><a href="primer/index.html">Begin</a></strong>')
 body = body.replace("<strong>Verify</strong>",
                     '<strong><a href="manual/index.html">Verify</a></strong>')
+body = body.replace("<strong>Consider</strong>",
+                    '<strong><a href="book/index.html">Consider</a></strong>')
 body = body.replace("<strong>Read</strong>",
                     '<strong><a href="texts/index.html">Read</a></strong>')
 body = body.replace("<strong>Practice</strong>",
@@ -161,7 +163,7 @@ landing = f"""<!doctype html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body class="landing">
-<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
+<nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {body}
 <p class="doorlink"><a href="explore.html">Enter the lexicon &rarr;</a></p>
@@ -191,7 +193,7 @@ colophon_page = f"""<!DOCTYPE html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
+<nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {colophon_body}
 </main>
@@ -219,7 +221,7 @@ short_road_page = f"""<!DOCTYPE html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a class="here" href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
+<nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a class="here" href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {short_road_body}
 </main>
@@ -306,7 +308,7 @@ def title_of(md):
             return re.sub(r"[*`]", "", line[3:]).strip()
     return "untitled"
 
-NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a class="here" href="index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a class="here" href="index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def primer_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -377,7 +379,7 @@ def pretty(name, kind):
         return name.replace("_", " ")
     return name.replace("_", " ")
 
-NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a class="here" href="index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a class="here" href="index.html">manual</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def manual_page(body, title, footer_nav=""):
     return f"""<!doctype html>
@@ -471,6 +473,73 @@ if open_list: toc.append("</ol>")
 (MANUAL_OUT / "index.html").write_text(manual_page("\n".join(toc), "contents"))
 print(f"wrote web/manual/: {len(sections)} sections + contents")
 
+# ---- the Phi book: available chapters rendered as a work in progress ----
+BOOK_SRC = ROOT / "book"
+BOOK_OUT = ROOT / "web" / "book"
+prepare_html_output(BOOK_OUT)
+NAV_BOOK = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">book</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+
+
+def book_page(body, title, footer_nav=""):
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The book about why Phi was made this way and what the evidence permits it to claim. Work in progress.">
+<title>Phi book: {title}</title>
+<script src="../theme.js"></script>
+<script src="../reader.js" defer></script>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body class="landing primer">
+{NAV_BOOK}
+<main>
+{body}
+{footer_nav}
+</main>
+<footer>
+  <p>The book is being written in public. Its source chapters live in
+     <a href="https://github.com/dcellison/phi/tree/main/book">the repository</a>, and the site renders them at build time.
+     The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
+</footer>
+</body>
+</html>
+"""
+
+
+book_chapters = sorted(BOOK_SRC.glob("[0-9][0-9]_*.md"))
+book_titles = {chapter.name: title_of(chapter.read_text()) for chapter in book_chapters}
+for i, chapter in enumerate(book_chapters):
+    body = link_text_citations(md_to_html(chapter.read_text()))
+    prev_link = (
+        f'<a href="{book_chapters[i - 1].stem}.html">'
+        f'&lsaquo; {book_titles[book_chapters[i - 1].name]}</a>'
+        if i > 0 else ""
+    )
+    next_link = (
+        f'<a href="{book_chapters[i + 1].stem}.html">'
+        f'{book_titles[book_chapters[i + 1].name]} &rsaquo;</a>'
+        if i + 1 < len(book_chapters) else ""
+    )
+    chapter_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
+    (BOOK_OUT / f"{chapter.stem}.html").write_text(
+        book_page(body, book_titles[chapter.name], chapter_nav)
+    )
+
+book_readme = md_to_html((BOOK_SRC / "README.md").read_text())
+book_readme = book_readme.replace(
+    "<p><strong>Work in progress</strong></p>",
+    '<p class="text-method">Work in progress</p>',
+)
+book_readme = re.sub(
+    r'href="([0-9][0-9]_[a-z0-9_]+)\.md"',
+    r'href="\1.html"',
+    book_readme,
+)
+(BOOK_OUT / "index.html").write_text(book_page(book_readme, "contents"))
+print(f"wrote web/book/: {len(book_chapters)} chapters + contents")
+
 # ---- the texts: translated and transmuted literature rendered to web/texts/ ----
 import tengwar
 
@@ -500,7 +569,7 @@ prepare_html_output(TEXTS_OUT)
 def texts_nav(depth):
     root_prefix = "../" * depth
     texts_index = "index.html" if depth == 1 else "../index.html"
-    return f'<nav class="topnav"><a href="{root_prefix}index.html">kia</a> <span class="sep">&middot;</span> <a href="{root_prefix}short_road.html">short road</a> <span class="sep">&middot;</span> <a href="{root_prefix}explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="{root_prefix}primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="{root_prefix}manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="{texts_index}">texts</a> <span class="sep">&middot;</span> <a href="{root_prefix}pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+    return f'<nav class="topnav"><a href="{root_prefix}index.html">kia</a> <span class="sep">&middot;</span> <a href="{root_prefix}short_road.html">short road</a> <span class="sep">&middot;</span> <a href="{root_prefix}explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="{root_prefix}primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="{root_prefix}manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="{root_prefix}book/index.html">book</a> <span class="sep">&middot;</span> <a class="here" href="{texts_index}">texts</a> <span class="sep">&middot;</span> <a href="{root_prefix}pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 
 def texts_page(body, title, depth=1, footer_nav=None):
@@ -636,7 +705,7 @@ print(f"wrote web/texts/: {len(TEXTS) + 1} works, {len(news_chapters)} News from
 # ---- the pamphlets: deep-dive companions rendered to web/pamphlets/ ----
 PAMPH_OUT = ROOT / "web" / "pamphlets"
 prepare_html_output(PAMPH_OUT)
-NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 def pamphlet_page(body, title, footer_nav=""):
     return f"""<!doctype html>

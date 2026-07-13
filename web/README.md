@@ -1,6 +1,8 @@
 # Phi lexicon explorer
 
-A static, read-only view over the repository, which stays the single source of truth. The pages: `index.html` (the landing — kia.md rendered at build time), `explore.html` (the searchable lexicon), `primer/` (the full primer, one page per chapter), and `manual/` (every manual section with a grouped contents page; the lexicon reference is excluded because the explorer is that content). Everything generated — `index.html`, `lexicon.json`, `compounds.json`, `primer/`, `manual/`, `texts/`, `pamphlets/` — comes from the build script and is gitignored.
+This directory is a static, read-only view over the repository, which stays the single source of truth. `index.html` is the landing page rendered from `kia.md`, and `explore.html` is the searchable lexicon. The `primer/`, `manual/`, `book/`, `texts/`, and `pamphlets/` directories hold the longer reading sections; the manual leaves its lexicon reference to the explorer.
+
+The build script generates `index.html`, `lexicon.json`, `compounds.json`, and all five reading directories. Those outputs are gitignored.
 
 Local preview:
 

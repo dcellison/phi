@@ -1,11 +1,11 @@
-/* Reading memory for the manual, primer, texts, and pamphlets:
+/* Reading memory for the manual, primer, book, texts, and pamphlets:
    remembers where you left off in each section, and lets you bookmark
    any heading. Everything lives in this browser's localStorage, like
    the theme choice; nothing is sent anywhere. */
 (function () {
   "use strict";
 
-  var SECTIONS = { manual: 1, primer: 1, texts: 1, pamphlets: 1 };
+  var SECTIONS = { manual: 1, primer: 1, book: 1, texts: 1, pamphlets: 1 };
 
   var parts = location.pathname.split("/").filter(function (p) { return p; });
   var file = parts[parts.length - 1] || "index.html";
