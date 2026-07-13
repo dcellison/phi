@@ -40,6 +40,6 @@ For now, one scene carries the whole argument. A designer wrote his values into 
 
 ## References
 
-Morris, William. 1890. News from Nowhere; or, An Epoch of Rest. Serialized in Commonweal; revised book edition 1891. The passages above follow the book text.
+Morris, William. 1891. News from Nowhere; or, An Epoch of Rest. London: Reeves and Turner. First serialized in Commonweal in 1890. The passages above follow the book text.
 
 The Phi rendering of News from Nowhere, with word-by-word glosses and source alignment, is on the project's texts shelf.

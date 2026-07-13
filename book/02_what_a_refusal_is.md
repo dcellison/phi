@@ -8,7 +8,7 @@ mia sui kelua theo.
 (I read during the morning.)
 ```
 
-So the meeting is set for during the morning, and both of you know what that means: it means the morning. The appointment is with a stretch of sky, not a coordinate on a dial, and whichever of you arrives first will wait the way people waited for most of human history, without a number to resent. The language did not mislay the hour. It looked at the hour and said no.
+So the meeting is set for during the morning, and both of you know what that means: it means the morning. The appointment is with a stretch of sky, not a coordinate on a dial, and whichever of you arrives first will wait as people wait wherever no dial is running, without a number to resent. The language did not mislay the hour. It looked at the hour and said no.
 
 That distinction is the subject of this chapter. Every language has gaps, and in a natural language a gap is an accident: nobody decided English should lack a word for the parents of your child's spouse; the gap is just there, unchosen. Phi's absences are not like that. Each one is a ruling, written down in the language's canon with a date and a reason, under a phrase that recurs there like a refrain: refused by design. A gap is silence. A refusal is a sentence with its own paper trail, and paper trails can be followed.
 
@@ -44,7 +44,7 @@ A refusal, then, is not an absence at all. It is a stated position holding a pla
 
 A fair reader should press the obvious worry: languages are used by people in trouble, and a dictionary of refusals could price its aesthetics in other people's silence. The design answers with a standing rule, stated in the language's protocol as a review test every refusal must survive: a refusal must never obstruct care, self-identification, consent, safety, testimony, or critique. The rulings above each carry their carve. The clock refusal ends with a sentence admitting exact time back in through source records whenever coordination, testimony, or safety depends on it. The gendered-class ruling keeps a person's own words for themselves available and reviewable. The measurement family keeps the exact figures beside the text, quotable and untranslated, whenever they matter.
 
-The strongest test on the shelf is the oldest custom in language invention. People who build languages translate Tolkien's Ring Verse the way climbers attempt a famous face, and Phi's shelf answers the custom with a page titled the Ring Verse, refused. The page takes the couplet word by word, honestly. Nearly all of it turns out to be ordinary vocabulary the language holds without complaint: ring composes as finger-circle, and one, all, find, bring, darkness are all present and willing. What fails is the offices. To rule has no root, and the nearest words, `kulo` (guide) and `theluo` (steward), would falsify the line by replacing power with care. Lord has no one set above; the throne finds only furniture for resting.
+The strongest test on the shelf is a familiar custom among language builders. People who invent languages translate Tolkien's Ring Verse the way climbers attempt a famous face, and Phi's shelf answers the custom with a page titled the Ring Verse, refused. The page takes the couplet word by word, honestly. Nearly all of it turns out to be ordinary vocabulary the language holds without complaint: ring composes as finger-circle, and one, all, find, bring, darkness are all present and willing. What fails is the offices. To rule has no root, and the nearest words, `kulo` (guide) and `theluo` (steward), would falsify the line by replacing power with care. Lord has no one set above; the throne finds only furniture for resting.
 
 So the page does something better than translate. It names the acts beneath the offices:
 
@@ -66,6 +66,6 @@ That is what a refusal is, and why the word gap never fits. A gap can be filled 
 
 ## References
 
-Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen and Unwin. The Ring Verse couplet is quoted and refused on the Phi texts shelf.
+Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse stands as the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2; the couplet is quoted and refused on the Phi texts shelf.
 
 The rulings cited in this chapter are recorded in the Phi project's canon under its refused-by-design entries: the natural clock; the natural ruler; the economy is a gift; refused in the core lexicon; states are worn, sensations are felt; and death is named plainly. The design essay referenced is the project's paper on the psychological violence of measurement. The worked example is texts/ring_verse_refusal.md; the day-station and distance examples are from the manual's words-of-time chapter and the language's reference pages.
