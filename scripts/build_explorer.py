@@ -511,7 +511,7 @@ TEXTS = [
     ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text written in Phi: the Metta Sutta followed through all ten verses, with each source claim and image given a place in the language."),
     ("north_wind_and_sun", "nitho howeli nela sileta \u2014 The North Wind and the Sun", "One familiar fable in two Phi renderings: a close translation for hearing the language, followed by a transmutation and a comparison through the five pillars."),
     ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "Article 1 in two Phi renderings: a close translation preserves rights and conscience, then a transmutation turns toward recognized entitlement and reciprocal kind conduct."),
-    ("babel_text", "ta haluma \u2014 the Babel text", "The conlang community's customary text, with scattering read as sowing and every language as a garden."),
+    ("babel_text", "ta haluma \u2014 the Babel text", "Genesis 11:1-9 in two Phi renderings: a close translation preserves confounding and forced dispersal, while the transmutation reads scattering as sowing and every language as a garden."),
     ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "A refusal that names coercion and imposed tying while declining to make ruler or lord ordinary Phi roles."),
     ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "Schleicher's 1868 test text in two Phi renderings: a close translation retains the master claim, while a transmutation names coercion and exploitation without granting the title."),
     ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts in which the source title keeps its prince, the Phi title describes a small person from the stars, and taming becomes mutual bond."),
@@ -528,7 +528,7 @@ TEXT_METHODS = {
     "metta_sutta": "Translation",
     "north_wind_and_sun": "Translation + transmutation",
     "human_rights_article_one": "Translation + transmutation",
-    "babel_text": "Transmutation",
+    "babel_text": "Translation + transmutation",
     "ring_verse_refusal": "Transmutation",
     "schleicher_fable": "Translation + transmutation",
     "little_prince_excerpts": "Transmutation",
@@ -553,8 +553,8 @@ for stem, title, blurb in TEXTS:
     (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
 
 toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages each place a close translation before a transmutation, then show where the methods part.</p>",
-       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and three use both; every rendering says what it owes the source.</p>"]
+       "<p>The Metta Sutta contains all ten verses of its source. On the North Wind, Schleicher, Article 1, and Babel pages, a close translation comes first and a transmutation follows; each page then shows where the methods part.</p>",
+       "<p>A translation is answerable to the source's claims and distinctions in natural Phi. A transmutation may reframe them as Phi understands them. Some works use one method and four use both; every rendering says what it owes the source.</p>"]
 for stem, title, blurb in TEXTS:
     toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")
