@@ -535,6 +535,7 @@ def texts_page(body, title, depth=1, footer_nav=None):
 
 TEXTS = [
     ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text written in Phi: the Metta Sutta followed through all ten verses, with each source claim and image given a place in the language."),
+    ("solarpunk_manifesto", "sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto", "The Solarpunk Community's five opening paragraphs and 22 propositions in close Phi translation. Political claims, aesthetic references, and practical proposals stay aligned to the licensed source."),
     ("north_wind_and_sun", "nitho howeli nela sileta \u2014 The North Wind and the Sun", "One familiar fable in two Phi renderings: a close translation for hearing the language, followed by a transmutation and a comparison through the five pillars."),
     ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "Article 1 in two Phi renderings: a close translation preserves rights and conscience, then a transmutation turns toward recognized entitlement and reciprocal kind conduct."),
     ("babel_text", "ta haluma \u2014 the Babel text", "Genesis 11:1-9 in two Phi renderings: a close translation preserves confounding and forced dispersal, while the transmutation reads scattering as sowing and every language as a garden."),
@@ -549,6 +550,7 @@ TEXTS = [
 
 TEXT_METHODS = {
     "metta_sutta": "Translation",
+    "solarpunk_manifesto": "Translation",
     "north_wind_and_sun": "Translation + transmutation",
     "human_rights_article_one": "Translation + transmutation",
     "babel_text": "Translation + transmutation",

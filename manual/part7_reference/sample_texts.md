@@ -82,13 +82,13 @@ phialu haoni.
 
 ## The texts shelf
 
-The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Two familiar fables appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it. Article 1 receives the same paired reading at the scale of two sentences. Babel carries it across nine verses: punishment and forced dispersal stand beside the earth sowing languages. The Heart Sutra puts Müller's solitary completed crossing beside Phi's communal wish to go. On Children lets Gibran draw his bow before Phi turns the arrow into seed.
+The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. The Solarpunk Manifesto follows five opening paragraphs and 22 propositions. Where the lexicon has no exact political or aesthetic term, each source label sits beside an analytic Phi description. Two familiar fables appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it. Article 1 receives the same paired reading at the scale of two sentences. Babel carries it across nine verses: punishment and forced dispersal stand beside the earth sowing languages. The Heart Sutra puts Müller's solitary completed crossing beside Phi's communal wish to go. On Children lets Gibran draw his bow before Phi turns the arrow into seed.
 
 The five Tao chapters bring the comparison into a workshop. One version describes the wheel and follows a tree cutter to the broad trunk; the other stays with an empty vessel until a great wind arrives.
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
-The complete texts live in `texts/`. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Every rendering presents Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Eight are the manual's touchstones.
+The complete texts live in `texts/`. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Every rendering presents Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Nine are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -97,6 +97,8 @@ su theula limoe siora korua phelu.
 OPT UNIV creature joy heart hold.
 (May every creature hold a joyful heart.)
 ```
+
+***sileta kenua wireo moenu lo sherewa*** (Claims of a Solar-Energy Future Culture) translates *A Solarpunk Manifesto* across all five opening paragraphs, 22 propositions, and both nested lists. Political labels such as post-capitalism and decolonialism, identity categories, and named aesthetic references stay exact in the licensed English source; the Phi lines state the relations the current lexicon can defend. No new root was coined. The long analytic phrases show both reach and strain in the first text aimed squarely at solarpunk readers.
 
 ***nitho howeli nela sileta*** (The North Wind and the Sun) pairs a close translation with a transmutation of Aesop's familiar linguistic benchmark. The translation uses past-tense scene chains and direct removal in a relative clause; `sharemi` (persuade), now in base vocabulary, lets Aesop's moral stay whole. The transmutation has no scoreboard: `moli nela phena haolu welao lureko thola`, gentleness and kind speech bring good fruit; `keloa haolu nela kawhera pholeni thola`, rough speech and coercion bring departure. A comparison after both renderings follows the change through Phi's five pillars.
 

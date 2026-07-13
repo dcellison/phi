@@ -9,6 +9,7 @@ Short works each have one Markdown file. A book gets its own directory, where it
 | Work | Method | Text |
 |---|---|---|
 | The Metta Sutta | Translation | [Read](metta_sutta.md) |
+| A Solarpunk Manifesto | Translation | [Read](solarpunk_manifesto.md) |
 | The North Wind and the Sun | Translation + transmutation | [Read](north_wind_and_sun.md) |
 | Universal Declaration of Human Rights, Article 1 | Translation + transmutation | [Read](human_rights_article_one.md) |
 | The Babel text | Translation + transmutation | [Read](babel_text.md) |

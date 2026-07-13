@@ -16,7 +16,7 @@ The manual is the teaching path; these are the working documents behind it.
 | `documents/compounds.md` | The canonized compound idioms and why each stays compositional |
 | `documents/modifier_first_philosophy.md` | The organizing principle, argued in full |
 | `documents/psychological_violence_of_measurement.md` | Why the numbers are the way they are |
-| [`texts/`](https://github.com/dcellison/phi/tree/main/texts) | The literary shelf: the Metta Sutta translation, seven paired works, three further transmutations, and *News from Nowhere* in its own book directory |
+| [`texts/`](https://github.com/dcellison/phi/tree/main/texts) | The literary shelf: the Metta Sutta and Solarpunk Manifesto translations, seven paired works, three further transmutations, and *News from Nowhere* in its own book directory |
 | `pamphlets/` | Focused companions to the manual, with extended teaching, exercises, and answer keys |
 | `manual/part7_reference/` | The one-page grammar and the generated lexicon listings |
 | `scripts/validate_examples.py` | The validator; also `neighbors <word>` before coining |
@@ -37,7 +37,7 @@ The manual is the teaching path; these are the working documents behind it.
 - **Natural Semantic Metalanguage** (Wierzbicka & Goddard) — the semantic-primes research that shaped Phi's early vocabulary planning.
 - On peace linguistics: the field founded around Francisco Gomes de Matos's work on communicative peace.
 - On sufficiency and scale: E.F. Schumacher's *Small Is Beautiful*; on the critique of quantification, the literature on Goodhart's law and audit culture pairs well with `psychological_violence_of_measurement.md`.
-- On solarpunk: *A Solarpunk Manifesto* — an excerpt of which was the language guide's original transmutation exercise.
+- On solarpunk: *A Solarpunk Manifesto* by The Solarpunk Community. The literary shelf translates its complete 2019 English text proposition by proposition, while the language guide retains one paragraph as an earlier compositional exercise.
 
 ## Practicing
 

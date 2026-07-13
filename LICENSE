@@ -2,7 +2,7 @@ Phi — Licensing
 
 Copyright (c) 2026 Daniel Ellison
 
-This repository contains three kinds of thing, licensed accordingly.
+This repository contains four licensing categories, set out below.
 
 1. THE LANGUAGE ITSELF IS FREE.
 
@@ -32,6 +32,22 @@ This repository contains three kinds of thing, licensed accordingly.
    noncommercial purposes, keeping derivatives under the same license.
    Commercial use requires separate permission from the copyright
    holder. Full text: LICENSES/CC-BY-NC-SA-4.0.txt
+
+4. SOLARPUNK MANIFESTO MATERIAL: Creative Commons
+   Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+   texts/sources/solarpunk_manifesto.txt preserves the English wording
+   of "A Solarpunk Manifesto," credited to The Solarpunk Community, in
+   a plain-text layout. It adds source and license metadata. The work was
+   originally published at http://www.re-des.org/a-solarpunk-manifesto/.
+   texts/solarpunk_manifesto.md is a Phi translation with
+   segmentation, glosses, back-translations, notes, and a
+   translation-limits table by Daniel Ellison. Both files are excluded
+   from section 3 and licensed under CC BY-SA 4.0 in keeping with the
+   source license. Attribution must identify The Solarpunk Community as
+   the original author, note the Phi translation and its changes, and
+   preserve the same license for adaptations. Full text:
+   https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
 
 FONTS. The font files under web/fonts/ are third-party works under the
 SIL Open Font License 1.1; see the OFL-*.txt files alongside them. The
