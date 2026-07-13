@@ -1,6 +1,6 @@
 # ta haluma — the Babel text
 
-*For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11:1-9 tells how one speech became many, and Jeffrey Henning proposed it as a standard conlang text in 1996. Phi uses the King James Version, the customary reference for this exercise, as its ground truth. The wording is stored in `pamphlets/sources/kjv_genesis.txt` and cited below clause by clause.*
+*For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11:1-9 tells how one speech became many, and Jeffrey Henning proposed it as a standard conlang text in 1996. Phi uses the King James Version, the customary reference for this exercise, as its ground truth. The wording is stored in `texts/sources/kjv_genesis.txt` and cited below clause by clause.*
 
 *This page gives the passage two Phi renderings. In the close translation, the builders still fear dispersal, and the LORD confounds their speech and drives them abroad. The transmutation gives those acts to `muila`, the earth, and reads scattering as sowing. `haluma` names language, while `thiwera` hears seed in something cast wide. The translation needs no further root.*
 

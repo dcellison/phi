@@ -4,7 +4,7 @@
 
 *This page gives Müller's English two Phi renderings. The close translation follows every proposition he prints. Where Müller writes "till we come to," the gap belongs to the ground truth. The transmutation turns the zero litany toward Phi's ordinary body words and makes the mantra a communal wish. Neither rendering claims to settle the Sanskrit behind this Victorian English text.*
 
-*The ground truth is Müller's 1894 translation in Buddhist Mahâyâna Texts, Sacred Books of the East, volume XLIX. It is stored verbatim in `pamphlets/sources/buddhist_mahayana_texts_1894.txt`, and the citations retain the scan's spellings and broken words. The citations alone carry the personal names Avalokiteshvara and Sariputra. They also carry Prajnaparamita, Nirvana, and Svaha wherever a Phi description would falsely claim equivalence.*
+*The ground truth is Müller's 1894 translation in Buddhist Mahâyâna Texts, Sacred Books of the East, volume XLIX. It is stored verbatim in `texts/sources/buddhist_mahayana_texts_1894.txt`, and the citations retain the scan's spellings and broken words. The citations alone carry the personal names Avalokiteshvara and Sariputra. They also carry Prajnaparamita, Nirvana, and Svaha wherever a Phi description would falsely claim equivalence.*
 
 *Each block carries the Phi sentence, its word-by-word gloss, a literal English back-translation, and the source wording. The close rendering uses `nulo sholu sano`, deep complete knowing, for Prajnaparamita and `[rena wea nowae thalo] miona`, a person walking toward awakening, for Bodhisattva. They show how Phi approaches each relation; the source terms do the rest.*
 

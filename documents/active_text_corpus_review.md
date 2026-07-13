@@ -30,7 +30,7 @@ The shelf uses two methods. A translation remains answerable to the source at ev
 
 ## Paired review: The North Wind and the Sun
 
-The ground truth is the 1919 *Aesop for Children* text stored at `pamphlets/sources/aesop_for_children.txt`. The close translation uses 106 unique forms; at least 62 do not appear in the preceding primer chapters: 46 content words and 16 non-content forms. The transmutation uses 97 unique forms, with at least 57 unattested in those chapters: 42 content words and 15 non-content forms. Both renderings use base vocabulary throughout. These are attestation counts, not claims about what a learner could infer.
+The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The close translation uses 106 unique forms; at least 62 do not appear in the preceding primer chapters: 46 content words and 16 non-content forms. The transmutation uses 97 unique forms, with at least 57 unattested in those chapters: 42 content words and 15 non-content forms. Both renderings use base vocabulary throughout. These are attestation counts, not claims about what a learner could infer.
 
 ### Close translation
 
@@ -72,7 +72,7 @@ No module word is required. Persuasion and coercion belong to ordinary social la
 
 ## Paired review: Schleicher's fable
 
-The source chain begins with Schleicher's 1868 German rendering in `pamphlets/sources/schleicher_1868.txt`. The controlled English source at `pamphlets/sources/schleicher_1868_english.txt` translates the complete German wording and every explanatory parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. The close translation uses 63 unique Phi forms; the transmutation uses 60. The first uses Commons `phenori` (ownership), and the second uses `pilora` (exploit), shared by Work and Commons.
+The source chain begins with Schleicher's 1868 German rendering in `texts/sources/schleicher_1868.txt`. The controlled English source at `texts/sources/schleicher_1868_english.txt` translates the complete German wording and every explanatory parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. The close translation uses 63 unique Phi forms; the transmutation uses 60. The first uses Commons `phenori` (ownership), and the second uses `pilora` (exploit), shared by Work and Commons.
 
 ### Close translation
 
@@ -103,7 +103,7 @@ The page gives all five pillars their own material question. The widest changes 
 
 ## Translation review: The Metta Sutta
 
-The ground truth is V. Fausböll's 1881 translation stored at `pamphlets/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. This includes the final claim about return to a mother's womb. The text uses two optional roots where ordinary base paraphrase would lose the source's distinction: `thesani`, skill, and `naseru`, obligation.
+The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. This includes the final claim about return to a mother's womb. The text uses two optional roots where ordinary base paraphrase would lose the source's distinction: `thesani`, skill, and `naseru`, obligation.
 
 | Area | Finding | Disposition |
 |---|---|---|
@@ -121,7 +121,7 @@ The English back-translation is deliberately literal. It lets a reader inspect t
 
 ## Paired review: UDHR Article 1
 
-The ground truth is the complete 1948 English Article 1 stored in `pamphlets/sources/udhr_1948.txt`. The close translation and transmutation now share one page. Two source-facing roots do work that composition could not do cleanly: `sherelo` is a normative right that can survive denial, and `sharino` is conscience as moral self-appraisal.
+The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. The close translation and transmutation now share one page. Two source-facing roots do work that composition could not do cleanly: `sherelo` is a normative right that can survive denial, and `sharino` is conscience as moral self-appraisal.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
@@ -135,7 +135,7 @@ The five-pillar comparison does not force five rewrites. Solarpunk thought tests
 
 ## Paired review: Babel
 
-The ground truth is KJV Genesis 11:1-9 stored in `pamphlets/sources/kjv_genesis.txt`. The repaired transmutation is intact as one half of the page. The new close translation covers every verse without using its seed-shaped reading of dispersal.
+The ground truth is KJV Genesis 11:1-9 stored in `texts/sources/kjv_genesis.txt`. The repaired transmutation is intact as one half of the page. The new close translation covers every verse without using its seed-shaped reading of dispersal.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
@@ -152,7 +152,7 @@ The lexical decision at the center of the pair is restraint. `thiwera` is not an
 
 ## Paired review: Heart Sutra
 
-The ground truth is F. Max Müller's 1894 Smaller Pragñâ-pâramitâ-hridaya-sûtra stored in `pamphlets/sources/buddhist_mahayana_texts_1894.txt`. The close translation follows the complete printed text and its colophon, but does not reconstruct the lists Müller abbreviates with "till we come to." Names and tradition-specific terms follow Phi's external-source rule when no accepted form or exhaustive equivalent exists.
+The ground truth is F. Max Müller's 1894 Smaller Pragñâ-pâramitâ-hridaya-sûtra stored in `texts/sources/buddhist_mahayana_texts_1894.txt`. The close translation follows the complete printed text and its colophon, but does not reconstruct the lists Müller abbreviates with "till we come to." Names and tradition-specific terms follow Phi's external-source rule when no accepted form or exhaustive equivalent exists.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
@@ -168,7 +168,7 @@ No new root is needed. Philosophical `remole`, concept, separates conception fro
 
 ## Paired review: The Prophet, On Children
 
-The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `pamphlets/sources/the_prophet.txt`. The established excerpt begins with Gibran's first paradox rather than the woman's request for the teaching. The close translation covers every proposition from that line through the stable bow.
+The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/sources/the_prophet.txt`. The established excerpt begins with Gibran's first paradox rather than the woman's request for the teaching. The close translation covers every proposition from that line through the stable bow.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
@@ -183,7 +183,7 @@ Existing vocabulary is enough. Commons `phenori` makes the social ownership clai
 
 ## Paired review: Tao Te Ching selections
 
-The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `pamphlets/sources/tao_teh_king_1891.txt`. The close translation covers every proposition in those chapters. The transmutation remains a selected reading: chapters 17 and 76 cite every source proposition, while chapters 8, 11, and 63 leave material behind.
+The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `texts/sources/tao_teh_king_1891.txt`. The close translation covers every proposition in those chapters. The transmutation remains a selected reading: chapters 17 and 76 cite every source proposition, while chapters 8, 11, and 63 leave material behind.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
@@ -218,19 +218,19 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 
 | Active text | Method | Status | Note |
 |---|---|---|---|
-| `pamphlets/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
-| `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
-| `pamphlets/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
-| `pamphlets/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
-| `pamphlets/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
-| `pamphlets/little_prince_excerpts.md` | Transmutation | Reviewed | Three source excerpts checked; the responsibility line gives mutual bonding its required oblique grammar. |
-| `pamphlets/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children now has complete source alignment, translation limits, and a five-pillar comparison. |
-| `pamphlets/tao_te_ching.md` | Translation + transmutation | Reviewed | Five complete Legge chapters, translation limits, selected transmutation, and five-pillar comparison complete. |
-| `pamphlets/heart_sutra.md` | Translation + transmutation | Reviewed | Complete Müller alignment, translation limits, explicit transmutation omissions, and five-pillar comparison complete. |
-| `pamphlets/ring_verse_refusal.md` | Transmutation | Reviewed | Central refusal rebuilt so coercion and imposed tying remain audible. |
-| `pamphlets/velveteen_rabbit.md` | Transmutation | Reviewed | Full story and 430 source units checked; module vocabulary repairs disability, fever, institution, and agency. |
-| `pamphlets/news_from_nowhere_ch1.md` | Transmutation | Reviewed | Full chapter checked; representation, the stopped train, and source-facing gap log repaired. |
-| `pamphlets/news_from_nowhere_ch2.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
-| `pamphlets/news_from_nowhere_ch3.md` | Transmutation | Reviewed | Full chapter checked; Commons and Work vocabulary restore authority, entitlement, retaliation, and political direction. |
+| `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
+| `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
+| `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
+| `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
+| `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
+| `texts/little_prince_excerpts.md` | Transmutation | Reviewed | Three source excerpts checked; the responsibility line gives mutual bonding its required oblique grammar. |
+| `texts/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children now has complete source alignment, translation limits, and a five-pillar comparison. |
+| `texts/tao_te_ching.md` | Translation + transmutation | Reviewed | Five complete Legge chapters, translation limits, selected transmutation, and five-pillar comparison complete. |
+| `texts/heart_sutra.md` | Translation + transmutation | Reviewed | Complete Müller alignment, translation limits, explicit transmutation omissions, and five-pillar comparison complete. |
+| `texts/ring_verse_refusal.md` | Transmutation | Reviewed | Central refusal rebuilt so coercion and imposed tying remain audible. |
+| `texts/velveteen_rabbit.md` | Transmutation | Reviewed | Full story and 430 source units checked; module vocabulary repairs disability, fever, institution, and agency. |
+| `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | Full chapter checked; representation, the stopped train, and source-facing gap log repaired. |
+| `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
+| `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | Full chapter checked; Commons and Work vocabulary restore authority, entitlement, retaliation, and political direction. |
 
 The full transmutation shelf has been reviewed. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation.

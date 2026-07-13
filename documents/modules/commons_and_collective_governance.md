@@ -74,7 +74,7 @@ All 30 roots established in this pass follow the complete vocabulary schema, inc
 
 A `sherelo` is a normative right whose recognition or fulfillment may be contested. A `shereni` is a recognized and scoped entitlement. A denied human right therefore remains sayable as `sherelo`, while an institution's grain allotment may be a `shereni`; either claim still needs its source and circumstances.
 
-The paired [Article 1](../../pamphlets/human_rights_article_one.md) puts the contrast in one place.
+The paired [Article 1](../../texts/human_rights_article_one.md) puts the contrast in one place.
 
 Its close translation uses equal `sherelo` rights from birth. Its transmutation uses equal `shereni` entitlements and records the narrower choice in its gap log.
 

@@ -25,7 +25,8 @@ The single validation tool for the Phi project. Checks:
      - duplicate glosses (warning; case-sensitive — uppercase function
        labels never clash with lowercase content glosses)
 
-  2. Documentation examples (documents/, manual/, pamphlets/, CLAUDE.md):
+  2. Documentation examples (documents/, manual/, pamphlets/, primer/,
+     texts/, CLAUDE.md):
      - every Phi token inside fenced code blocks exists in the lexicon,
        except a productive name-form licensed directly by `ne`
      - gloss lines beneath Phi lines render each word by its lexicon
@@ -75,7 +76,7 @@ RETIRED_FORMS_FILE = PROJECT_ROOT / "documents" / "retired_forms.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
-DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
+DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "texts", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
 ACTIVE_PROSE_ROOTS = ["canon.md", *DOC_ROOTS, "vocabulary"]
 PROHIBITED_HYPHENATED_CONSTRUCTION = re.compile(
     r"\b[A-Za-z]+-" + "bearing" + r"\b",
@@ -788,64 +789,67 @@ def slot1_misorders(tokens):
 
 
 CITATION_SOURCES = {
-    "pamphlets/news_from_nowhere_ch1.md": (
-        "morris", "pamphlets/sources/news_from_nowhere.txt"
+    "texts/velveteen_rabbit.md": (
+        "williams", "texts/sources/velveteen_rabbit.txt"
     ),
-    "pamphlets/velveteen_rabbit.md": (
-        "williams", "pamphlets/sources/velveteen_rabbit.txt"
+    "texts/north_wind_and_sun.md": (
+        "aesop", "texts/sources/aesop_for_children.txt"
     ),
-    "pamphlets/north_wind_and_sun.md": (
-        "aesop", "pamphlets/sources/aesop_for_children.txt"
+    "texts/schleicher_fable.md": (
+        "schleicher-en", "texts/sources/schleicher_1868_english.txt"
     ),
-    "pamphlets/schleicher_fable.md": (
-        "schleicher-en", "pamphlets/sources/schleicher_1868_english.txt"
+    "texts/babel_text.md": (
+        "kjv", "texts/sources/kjv_genesis.txt"
     ),
-    "pamphlets/babel_text.md": (
-        "kjv", "pamphlets/sources/kjv_genesis.txt"
+    "texts/prophet_excerpts.md": (
+        "gibran", "texts/sources/the_prophet.txt"
     ),
-    "pamphlets/prophet_excerpts.md": (
-        "gibran", "pamphlets/sources/the_prophet.txt"
+    "texts/metta_sutta.md": (
+        "fausboll", "texts/sources/sutta_nipata_fausboll.txt"
     ),
-    "pamphlets/metta_sutta.md": (
-        "fausboll", "pamphlets/sources/sutta_nipata_fausboll.txt"
+    "texts/tao_te_ching.md": (
+        "legge", "texts/sources/tao_teh_king_1891.txt"
     ),
-    "pamphlets/tao_te_ching.md": (
-        "legge", "pamphlets/sources/tao_teh_king_1891.txt"
+    "texts/heart_sutra.md": (
+        "muller", "texts/sources/buddhist_mahayana_texts_1894.txt"
     ),
-    "pamphlets/heart_sutra.md": (
-        "muller", "pamphlets/sources/buddhist_mahayana_texts_1894.txt"
-    ),
-    "pamphlets/human_rights_article_one.md": (
-        "udhr", "pamphlets/sources/udhr_1948.txt"
+    "texts/human_rights_article_one.md": (
+        "udhr", "texts/sources/udhr_1948.txt"
     ),
 }
+for chapter in sorted(
+    (PROJECT_ROOT / "texts" / "news_from_nowhere").glob("chapter_*.md")
+):
+    CITATION_SOURCES[chapter.relative_to(PROJECT_ROOT).as_posix()] = (
+        "morris", "texts/news_from_nowhere/source.txt"
+    )
 
 PAIRED_CITATION_SCOPES = {
-    "pamphlets/north_wind_and_sun.md": (
+    "texts/north_wind_and_sun.md": (
         "## Close translation",
         "## Transmutation",
     ),
-    "pamphlets/schleicher_fable.md": (
+    "texts/schleicher_fable.md": (
         "## Close translation",
         "## Transmutation",
     ),
-    "pamphlets/human_rights_article_one.md": (
+    "texts/human_rights_article_one.md": (
         "## Close translation",
         "## Transmutation",
     ),
-    "pamphlets/babel_text.md": (
+    "texts/babel_text.md": (
         "## Close translation",
         "## Transmutation",
     ),
-    "pamphlets/heart_sutra.md": (
+    "texts/heart_sutra.md": (
         "## Close translation",
         "## Transmutation",
     ),
-    "pamphlets/tao_te_ching.md": (
+    "texts/tao_te_ching.md": (
         "## Close translation",
         "## Transmutation",
     ),
-    "pamphlets/prophet_excerpts.md": (
+    "texts/prophet_excerpts.md": (
         "## On children: close translation",
         "## On children: transmutation",
     ),

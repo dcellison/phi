@@ -236,14 +236,30 @@ print("wrote web/short_road.html from short_road.md")
 
 # ---- primer reader: primer/*.md rendered to web/primer/ ----
 
+TEXT_SITE_PATHS = {
+    path.relative_to(ROOT).as_posix(): f"{path.stem}.html"
+    for path in sorted((ROOT / "texts").glob("*.md"))
+    if path.name != "README.md"
+}
+for chapter in sorted((ROOT / "texts" / "news_from_nowhere").glob("chapter_*.md")):
+    repo_path = chapter.relative_to(ROOT).as_posix()
+    TEXT_SITE_PATHS[repo_path] = f"news_from_nowhere/{chapter.stem}.html"
+
+
 def link_text_citations(html):
     """Repo-path citations of the texts become on-site links (pages
     using this all live one directory below web/)."""
-    for stem in ("metta_sutta", "north_wind_and_sun", "human_rights_article_one", "babel_text", "ring_verse_refusal", "schleicher_fable", "little_prince_excerpts", "velveteen_rabbit"):
-        html = html.replace(f"<code>pamphlets/{stem}.md</code>",
-                            f'<a href="../texts/{stem}.html"><code>pamphlets/{stem}.md</code></a>')
-        html = html.replace(f'href="../pamphlets/{stem}.md"',
-                            f'href="../texts/{stem}.html"')
+    for repo_path, site_path in TEXT_SITE_PATHS.items():
+        site_href = f"../texts/{site_path}"
+        html = html.replace(
+            f"<code>{repo_path}</code>",
+            f'<a href="{site_href}"><code>{repo_path}</code></a>',
+        )
+        html = re.sub(
+            rf'href="(?:\.\./)+{re.escape(repo_path)}"',
+            f'href="{site_href}"',
+            html,
+        )
     html = re.sub(
         r'href="\.\./lexicon/by_module\.md#([a-z0-9-]+)"',
         lambda match: f'href="../explore.html?module={match.group(1)}"',
@@ -479,9 +495,19 @@ def tengwarize_dual(html):
 
 TEXTS_OUT = ROOT / "web" / "texts"
 prepare_html_output(TEXTS_OUT)
-NAV_TEXTS = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
-def texts_page(body, title):
+
+def texts_nav(depth):
+    root_prefix = "../" * depth
+    texts_index = "index.html" if depth == 1 else "../index.html"
+    return f'<nav class="topnav"><a href="{root_prefix}index.html">kia</a> <span class="sep">&middot;</span> <a href="{root_prefix}short_road.html">short road</a> <span class="sep">&middot;</span> <a href="{root_prefix}explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="{root_prefix}primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="{root_prefix}manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="{texts_index}">texts</a> <span class="sep">&middot;</span> <a href="{root_prefix}pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
+
+
+def texts_page(body, title, depth=1, footer_nav=None):
+    root_prefix = "../" * depth
+    texts_index = "index.html" if depth == 1 else "../index.html"
+    if footer_nav is None:
+        footer_nav = f'<div class="chapnav"><a href="{texts_index}">all texts</a></div>'
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -489,19 +515,19 @@ def texts_page(body, title):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Phi's literature in close translation and transmutation, from the Metta Sutta to News from Nowhere and the Ring Verse refusal.">
 <title>Phi texts &mdash; {title}</title>
-<script src="../theme.js"></script>
-<script src="../reader.js" defer></script>
-<link rel="stylesheet" href="../style.css">
+<script src="{root_prefix}theme.js"></script>
+<script src="{root_prefix}reader.js" defer></script>
+<link rel="stylesheet" href="{root_prefix}style.css">
 </head>
 <body class="landing primer">
-{NAV_TEXTS}
+{texts_nav(depth)}
 <main>
 {body}
-<div class="chapnav"><a href="index.html">all texts</a></div>
+{footer_nav}
 </main>
 <footer>
-  <p>Each rendering identifies itself as a translation or a transmutation. The source files live in <a href="https://github.com/dcellison/phi/tree/main/pamphlets">the repository</a>, and the site renders them at build time.
-     The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
+  <p>Each rendering identifies itself as a translation or a transmutation. The source files live in <a href="https://github.com/dcellison/phi/tree/main/texts">the repository</a>, and the site renders them at build time.
+     The <a href="{root_prefix}colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
 </html>
@@ -519,9 +545,6 @@ TEXTS = [
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Three selected teachings by Gibran. On Children appears in two forms: the close translation retains the bow and arrow, while the transmutation gives their motion to a tree and its wind-carried seed."),
     ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five Legge chapters in two Phi renderings. The close translation covers every proposition in those chapters; the transmutation stays with household images and recasts authority and force."),
     ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The smaller Heart Sutra in Müller's 1894 English, rendered twice in Phi: completed crossing in the translation and a communal wish in the transmutation."),
-    ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1", "Morris's political argument, railway journey, winter walk, sleepless reckoning, and first-person handoff, carried under an opening reportative frame."),
-    ("news_from_nowhere_ch2", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 2", "The first morning beside a clear river, with salmon nets, a bridge on stone rainbows, and a failed attempt to pay for a service."),
-    ("news_from_nowhere_ch3", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 3", "Breakfast in the Guest House, followed by bread, roses, forest history, commons entitlement, handwork, mathematics, and the arrival of Gold."),
 ]
 
 TEXT_METHODS = {
@@ -536,9 +559,6 @@ TEXT_METHODS = {
     "prophet_excerpts": "Translation + transmutation",
     "tao_te_ching": "Translation + transmutation",
     "heart_sutra": "Translation + transmutation",
-    "news_from_nowhere_ch1": "Transmutation",
-    "news_from_nowhere_ch2": "Transmutation",
-    "news_from_nowhere_ch3": "Transmutation",
 }
 
 
@@ -547,10 +567,58 @@ def text_method(stem):
 
 
 for stem, title, blurb in TEXTS:
-    md = (ROOT / "pamphlets" / f"{stem}.md").read_text()
+    md = (ROOT / "texts" / f"{stem}.md").read_text()
     method = text_method(stem)
     rendered = md_to_html(md).replace("</h1>", f'</h1>\n<p class="text-method">{method}</p>', 1)
     (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
+
+NEWS_SRC = ROOT / "texts" / "news_from_nowhere"
+NEWS_OUT = TEXTS_OUT / "news_from_nowhere"
+prepare_html_output(NEWS_OUT)
+news_chapters = sorted(NEWS_SRC.glob("chapter_*.md"))
+for i, chapter in enumerate(news_chapters):
+    chapter_number = int(chapter.stem.split("_")[1])
+    chapter_title = title_of(chapter.read_text())
+    rendered = md_to_html(chapter.read_text()).replace(
+        "</h1>", '</h1>\n<p class="text-method">Transmutation</p>', 1
+    )
+    prev_number = (
+        int(news_chapters[i - 1].stem.split("_")[1]) if i > 0 else None
+    )
+    next_number = (
+        int(news_chapters[i + 1].stem.split("_")[1])
+        if i + 1 < len(news_chapters)
+        else None
+    )
+    prev_link = (
+        f'<a href="{news_chapters[i - 1].stem}.html">'
+        f'&lsaquo; Chapter {prev_number}</a>'
+        if prev_number is not None else ""
+    )
+    next_link = (
+        f'<a href="{news_chapters[i + 1].stem}.html">'
+        f'Chapter {next_number} &rsaquo;</a>'
+        if next_number is not None else ""
+    )
+    chapter_nav = f'<div class="chapnav">{prev_link}<a href="index.html">book contents</a>{next_link}</div>'
+    (NEWS_OUT / f"{chapter.stem}.html").write_text(
+        texts_page(rendered, chapter_title, depth=2, footer_nav=chapter_nav)
+    )
+
+news_readme = md_to_html((NEWS_SRC / "README.md").read_text())
+news_readme = news_readme.replace(
+    "</h1>", '</h1>\n<p class="text-method">Transmutation</p>', 1
+)
+news_readme = re.sub(
+    r'href="(chapter_[0-9]+)\.md"', r'href="\1.html"', news_readme
+)
+news_readme = news_readme.replace(
+    'href="source.txt"',
+    'href="https://github.com/dcellison/phi/blob/main/texts/news_from_nowhere/source.txt"',
+)
+(NEWS_OUT / "index.html").write_text(
+    texts_page(news_readme, "News from Nowhere", depth=2)
+)
 
 toc = ["<h1>The texts</h1>",
        "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel, the Heart Sutra, and five Tao chapters apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page. Each paired text then shows where the methods part.</p>",
@@ -558,9 +626,10 @@ toc = ["<h1>The texts</h1>",
        "<p>Transmutation is Phi's preferred method because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. This is how transmutation preserves the heart of Phi. Seven works put both methods side by side so a reader can see what changed and why.</p>"]
 for stem, title, blurb in TEXTS:
     toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
+toc.append('<h2><a href="news_from_nowhere/index.html">nophi lue mawha lokue &mdash; News from Nowhere</a></h2><p class="text-method">Transmutation</p><p>Morris\'s novel is one work in 32 chapters. The chapters on the shelf carry its political argument from a winter meeting into a changed London and cite the source witness stored beside them.</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")
-(TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents"))
-print(f"wrote web/texts/: {len(TEXTS)} texts + contents")
+(TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents", footer_nav=""))
+print(f"wrote web/texts/: {len(TEXTS) + 1} works, {len(news_chapters)} News from Nowhere chapters + contents")
 
 # ---- the pamphlets: deep-dive companions rendered to web/pamphlets/ ----
 PAMPH_OUT = ROOT / "web" / "pamphlets"

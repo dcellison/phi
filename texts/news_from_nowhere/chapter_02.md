@@ -743,7 +743,7 @@ morris: "and looking down the water there were the reaches towards Putney almost
 mia phea wei miso to theisa haolu. mia shola mia mena lo miona leo ra welamu lokue to ma lorima meno siora phaelo. sholo to haolu.
 1SG AS DAT REFL PST loud speak. 1SG QUOT.COMP 1SG DECL.COMP PL person ABOVE DIST elm place PST NEG build DECL.COMP.CLOSE joy feel. QUOT.COMP.CLOSE PST speak.
 (I said aloud, but as if to myself: "Well, I'm glad they have not built over the elm-grounds.")
-morris: "and I said aloud, but as if to myself--\"Well, I'm glad that they have not built over Barn Elms.\""
+morris: "and I said aloud, but as if to myself-- \"Well, I'm glad that they have not built over Barn Elms.\""
 
 lo haolu mue mia phulae to lepa. lao mia tawimo to nai mia menoa rulo to kelu.
 PL speak OUT.OF 1SG mouth PST fall. BECAUSE 1SG foolish PST be 1SG face red PST become.

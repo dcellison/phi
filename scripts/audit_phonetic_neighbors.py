@@ -14,7 +14,7 @@ import re
 
 ROOT = Path(__file__).resolve().parent.parent
 VOCAB = ROOT / "vocabulary"
-DOC_ROOTS = ("documents", "manual", "pamphlets", "primer")
+DOC_ROOTS = ("documents", "manual", "pamphlets", "primer", "texts")
 SEGMENT = re.compile(r"ph|th|sh|wh|[hklmnprstwaeiou]")
 VOWELS = set("aeiou")
 

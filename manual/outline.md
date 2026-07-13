@@ -221,7 +221,7 @@
 - Quick Reference Grammar: the whole system on one page
 - The Complete Lexicon: alphabetical, by domain, by module, and by part of speech (generated from the vocabulary JSON; never edited by hand)
 - Domain Modules: optional vocabulary indexed by module, with a speaker-facing chapter for each established module
-- Sample Texts: dialogues, the Bashō transmutation, and the guide to the complete texts on the shelf in `pamphlets/`
+- Sample Texts: dialogues, the Bashō transmutation, and the guide to the complete shelf in `texts/`
 - Writing is taught in chapter 8 §6: the romanization, the Tengwar mode, and the reserved glyph mode. The Tengwar mode in full is the `tengwar_mode` pamphlet.
 
 ---

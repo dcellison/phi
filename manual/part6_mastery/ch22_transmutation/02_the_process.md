@@ -44,7 +44,7 @@ The Metta Sutta translation contains no unknown forms. A transmutation has the s
 
 ## The five moves
 
-Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's texts were built with. The Tao Te Ching text (`pamphlets/tao_te_ching.md`) names them inline as a worked guide; here is the repertoire itself, each move with the shelf's clearest demonstrations.
+Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's texts were built with. The Tao Te Ching text (`texts/tao_te_ching.md`) names them inline as a worked guide; here is the repertoire itself, each move with the shelf's clearest demonstrations.
 
 **The refusal.** When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism looks like in Phi's own economy. *Contend* became takes-nothing and *leader* became the one-who-guides (Tao Te Ching); *master* became the separate acts of coercion and exploitation (Schleicher's fable); the Ring Verse's refusal became its text. If the source wording itself matters, preserve it outside the Phi passage rather than presenting transmutation as quotation.
 
