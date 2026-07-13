@@ -76,7 +76,7 @@ RETIRED_FORMS_FILE = PROJECT_ROOT / "documents" / "retired_forms.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
-DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "texts", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
+DOC_ROOTS = ["documents", "manual", "pamphlets", "primer", "texts", "book", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
 ACTIVE_PROSE_ROOTS = ["canon.md", *DOC_ROOTS, "vocabulary"]
 PROHIBITED_HYPHENATED_CONSTRUCTION = re.compile(
     r"\b[A-Za-z]+-" + "bearing" + r"\b",
