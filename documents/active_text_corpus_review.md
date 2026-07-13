@@ -220,6 +220,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 |---|---|---|---|
 | `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
+| `texts/solarpunk_manifesto.md` | Translation | Reviewed | Thirty-eight aligned units cover the complete licensed text; political and cultural source terms remain exact beside transparent Phi analyses. |
 | `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
@@ -233,4 +234,4 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | Full chapter checked; Commons and Work vocabulary restore authority, entitlement, retaliation, and political direction. |
 
-The full transmutation shelf has been reviewed. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation.
+The full transmutation shelf has been reviewed. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The complete Solarpunk Manifesto now tests the current lexicon against the project's first intended community audience at paragraph and proposition scale.

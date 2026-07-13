@@ -816,6 +816,9 @@ CITATION_SOURCES = {
     "texts/human_rights_article_one.md": (
         "udhr", "texts/sources/udhr_1948.txt"
     ),
+    "texts/solarpunk_manifesto.md": (
+        "solarpunk", "texts/sources/solarpunk_manifesto.txt"
+    ),
 }
 for chapter in sorted(
     (PROJECT_ROOT / "texts" / "news_from_nowhere").glob("chapter_*.md")

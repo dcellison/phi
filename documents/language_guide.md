@@ -117,7 +117,7 @@ Use it to:
 
 Phi carries a source by translation or transmutation. Neither practice substitutes words mechanically; both use Phi's own grammar and concept boundaries.
 
-A close **translation** preserves the source's claims and distinctions, together with its important images and force. When Phi must compose a source term or cannot keep a distinction whole, the notes name the loss. The text shelf has three complete examples: the Metta Sutta tests philosophical precision, while Aesop's fable and Schleicher's fable give Phi two familiar linguistic benchmarks.
+A close **translation** preserves the source's claims and distinctions, together with its important images and force. When Phi must compose a source term or cannot keep a distinction whole, the notes name the loss. On the text shelf, the Metta Sutta tests philosophical precision, the Solarpunk Manifesto tests sustained political and cultural prose, and Aesop's fable and Schleicher's fable give Phi two familiar linguistic benchmarks.
 
 A **transmutation** makes a different promise. It understands the source and then rebuilds it through Phi's concepts, grammar, and philosophy, with permission to reframe or refuse what a translation would preserve. Exact source material remains outside the Phi passage whenever rebuilding would falsify wording or erase an identity that the record must keep.
 
