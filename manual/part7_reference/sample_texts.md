@@ -82,11 +82,11 @@ phialu haoni.
 
 ## The texts shelf
 
-The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Two familiar fables now appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it.
+The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Two familiar fables now appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it. Article 1 of the Universal Declaration of Human Rights now receives the same paired reading at the scale of two sentences.
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
-The complete texts live in `pamphlets/`, one file per short work and one file per completed novel chapter. Each presents the Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Three of them are the manual's touchstones.
+The complete texts live in `pamphlets/`, one file per short work and one file per completed novel chapter. Each presents the Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Four of them are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -108,12 +108,13 @@ QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE.
 
 `tupeka` (burden) and `phesari` (flee) belong to base vocabulary. The close translation reaches into Commons for `phenori` (ownership); the transmutation uses shared Work and Commons `pilora` (exploit) where the sharper analysis earns the specialist word.
 
+***theula miona*** (All People) pairs a close translation and transmutation of Article 1 of the Universal Declaration of Human Rights. The translation uses `sherelo` for a normative right that remains sayable under denial and `sharino` for conscience as moral self-appraisal. It also retains the source's passive endowment and sibling spirit. The transmutation answers with equal recognized entitlements and the capacity to think; the heart's knowing replaces conscience, and kind reciprocal action replaces sibling spirit. Its comparison asks what changes when an abstract declaration is made answerable to conduct.
+
 The rest of the shelf:
 
 | Phi title | Method | Text |
 |---|---|---|
 | `ta haluma` | Transmutation | the Babel story, Genesis 11:1-9, with its scattering retold as sowing |
-| `theula miona` | Transmutation | Article 1 of the Universal Declaration of Human Rights, with equal worth and entitlements kept distinct |
 | `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |
 | `phewo phelui` | Transmutation | from *The Prophet*: on love, on children, on giving |
 | `keiro` | Transmutation | five chapters of the Tao Te Ching |

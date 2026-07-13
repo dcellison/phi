@@ -295,7 +295,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (500)
+## noun (502)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -642,11 +642,13 @@
 | `shalu` | fish | Fish |
 | `shalumi` | salmon | Salmon |
 | `shao` | three-group | Three-Group |
+| `sharino` | conscience | Conscience |
 | `shea` | peace | Peace |
 | `shela` | art | Art |
 | `shelira` | forest | Forest |
 | `shelu` | book | Book |
 | `shemu` | moment | Moment |
+| `sherelo` | right (normative) | Right |
 | `shereni` | entitlement | Entitlement |
 | `shero` | night | Night |
 | `shila` | winter | Winter |

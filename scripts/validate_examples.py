@@ -829,6 +829,10 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
+    "pamphlets/human_rights_article_one.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
 }
 
 

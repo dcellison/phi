@@ -266,7 +266,7 @@
 | `wira` | window | View portal |
 | `wuloe` | soft | Comfortable quality |
 
-## cognition (244)
+## cognition (245)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -423,6 +423,7 @@
 | `shao` | three-group | Names a small group that often falls within the adult subitizing range under suitable viewing conditions |
 | `sharemi` | persuade | movement toward a belief or judgment through communication |
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
+| `sharino` | conscience | the faculty of judging one's own conduct against held values |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
 | `shelomu` | understand | Grasping meaning and significance |
@@ -515,7 +516,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (283)
+## community (284)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -699,6 +700,7 @@
 | `shelira` | forest | Tree community gathering |
 | `shemoli` | harmonize | Bringing differences into accord |
 | `shemui` | utter | connecting people through shared words |
+| `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
 | `shereni` | entitlement | a recognized and scoped claim under a stated source |
 | `shiwolu` | integrate | Creating functional unity |
 | `sholei` | gather | Offers gathering as a metaphor for combined quantities |
@@ -976,7 +978,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (110)
+## dialogue (111)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1053,6 +1055,7 @@
 | `sheluo` | listen | fundamental to communication and meaningful exchange |
 | `shemui` | utter | fundamental act of verbal communication |
 | `sheori` | communicate | creates bridges of understanding through exchange |
+| `sherelo` | right (normative) | a claim whose source and fulfillment can be examined |
 | `sherewa` | claim | the public act of offering a proposition to others |
 | `shonui` | ear | Essential for receiving communication |
 | `shoraku` | interpret | carrying meaning between languages or communication modes |
@@ -2162,7 +2165,7 @@
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
 
-## wisdom (202)
+## wisdom (203)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2285,6 +2288,7 @@
 | `serao` | old | accumulated experience and endurance |
 | `shaelo` | brave | Facing difficulty |
 | `shao` | three-group | Makes triadic grouping available as a design association rather than a universal claim |
+| `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `shea` | peace | requires understanding and active cultivation |
 | `sheluo` | listen | involves mindful awareness and receptive presence |
 | `shemu` | moment | Present experience |

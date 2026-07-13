@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** with 27 module roots coined here, 50 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 27 module roots coined here, 51 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
 
 ## Charter
 
@@ -20,7 +20,7 @@ The speaker-facing guide is [Commons and Collective Governance](../../manual/par
 - `kirethu` legitimacy is an evaluation under stated criteria and standpoints. It does not mean legal, popular, effective, true, fair, just, harmless, or accepted by every affected person.
 - `nasholu` identifies a generic normative rule. Exact laws, constitutions, policies, bylaws, treaties, contracts, regulations, customary rules, rights instruments, and operative wording remain in source material outside the Phi passage when source identity or force matters.
 - `kanuro` decision, `naweso` consensus, `kasira` vote, `makelu` abstention, agreement, consent, compliance, and implementation remain distinct.
-- `shereni` names an institutionally recognized entitlement. It does not replace source-specific moral, legal, treaty, constitutional, customary, collective, or human-rights terminology, and `phenori` ownership does not make one property regime universal or legitimate.
+- `sherelo` is a normative right without a built-in verdict on validity or source. Exact rights terminology remains beside the Phi analysis when its category or wording matters. `shereni` is an institutionally recognized entitlement, while `phenori` ownership does not make one property regime universal or legitimate.
 - `naseru` obligation may be imposed or disputed; `thonai` remains willingly carried responsibility; `lothoni` accountability requires an answer and review relation. None establishes guilt, blame, causation, capacity, consent, punishment, or justified enforcement.
 - `kawhera` coercion and `whepelo` retaliation make institutional harm directly discussable. They require stated mechanisms, power relations, affected testimony, timing, and evidence rather than being inferred from mere disagreement or consequence.
 - Collective choice never overrides bodily refusal or authorizes examination, touch, treatment, disclosure, assistance, relocation, or care by implication. Those relations remain shared with [Medical and Bodily Care](medical_and_bodily_care.md) and [Accessibility and Participation](accessibility_and_participation.md).
@@ -48,7 +48,7 @@ Nine existing roots now appear in the Commons learning path: `kathu` seal, `kowe
 
 ## Optional Cross-Module Dependencies
 
-Governance already has base words for a claim, its evidence, the reasons offered, and the criterion applied. The established [Philosophical Reasoning module](philosophical_reasoning.md) adds inference, validity, contradiction, definitions, doubt, confidence, tradeoffs, and compromise. Speakers may use these terms to assess proposals, authority, legitimacy, allocation, accountability, and review, but a sound argument does not itself enact a decision or establish jurisdiction.
+Governance already has base words for a claim, its evidence, the reasons offered, and the criterion applied. The established [Philosophical Reasoning module](philosophical_reasoning.md) adds inference, validity, contradiction, definitions, doubt, confidence, tradeoffs, compromise, rights, and conscience. Speakers may use these terms to assess proposals, authority, legitimacy, allocation, accountability, and review, but a sound argument does not itself enact a decision or establish jurisdiction.
 
 The established [Systems and Shared Infrastructure module](systems_and_shared_infrastructure.md) supplies system, component, interface, function, state, dependency, input, output, transfer, control, feedback, capacity, load, inspection, reliability, hazard, and specification. Base `phelure` storage remains available for infrastructure and ordinary stores alike. These terms explain the infrastructure; ownership and authority over people remain separate governance claims.
 
@@ -70,6 +70,14 @@ The first pass admits 27 optional roots for recurring governance relations and p
 
 All 30 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit. Twenty-seven carry `commons-and-collective-governance`; `sirami`, `kawhera`, and `whepelo` carry no module field and remain in base vocabulary.
 
+## Rights and entitlements
+
+A `sherelo` is a normative right whose recognition or fulfillment may be contested. A `shereni` is a recognized and scoped entitlement. A denied human right therefore remains sayable as `sherelo`, while an institution's grain allotment may be a `shereni`; either claim still needs its source and circumstances.
+
+The paired [Article 1](../../pamphlets/human_rights_article_one.md) puts the contrast in one place.
+
+Its close translation uses equal `sherelo` rights from birth. Its transmutation uses equal `shereni` entitlements and records the narrower choice in its gap log.
+
 ## Concepts Kept Compositional
 
 The pass keeps several expressions compositional because their parts expose participants, scope, source, thresholds, and contested status that a single label could hide. These are current recommendations rather than prohibitions against later coinage.
@@ -87,7 +95,7 @@ The pass keeps several expressions compositional because their parts expose part
 | Quorum and decision threshold | State the participation `kirema` criterion and preserve the exact count, proportion, or rule in a separate source record | Thresholds differ by procedure and do not establish inclusion, representation, or legitimacy. |
 | Majority, minority, and counting method | Use Phi quantifiers and exact counts around `kasira`, while preserving the source counting rule and weights exactly | Avoids importing binary factions or one electoral system into every collective decision. |
 | Law, constitution, policy, bylaw, regulation, treaty, contract, and custom | Preserve the exact source category, title, wording, identifier, and version; use `nasholu` only for its generic rule role in the Phi analysis | Exact force, provenance, parties, interpretation, and jurisdiction matter more than an approximate unmarked translation. |
-| Moral, legal, treaty, constitutional, customary, collective, and human rights | Preserve the exact source claim and use `shereni` only when its bounded recognized-entitlement definition actually fits | A generic entitlement must not exhaust a rights tradition, erase collective or inalienable dimensions, or make recognition the source of human worth. |
+| Moral, legal, treaty, constitutional, customary, collective, and human rights | Use `sherelo` for the normative right; preserve the exact source category or wording when it matters, and use `shereni` only for a recognized scoped entitlement | A general right keeps the claim sayable under denial, while the source record carries the force and distinctions of its particular tradition. |
 | Property category and custody | Use exact property terminology where needed; state `phenori` ownership claims separately from protective `phelu` holding, access, stewardship, obligations, and transfer | Keeps ownership, possession, custody, care, use, and authority from collapsing into one relation. |
 | Scarcity and priority | State what is insufficient with `henoi ma`, identify claimants and time, and use `sone noa` with an explicit allocation criterion | Makes scarcity relative to a purpose and priority relative to a stated value rather than natural facts. |
 | Compliance and violation | Use `nasholu heno` for satisfying a stated rule and explicit negation for not satisfying it; preserve exact source findings and categories | Compliance does not establish legitimacy or safety, and noncompliance does not establish harm, guilt, or justified enforcement. |

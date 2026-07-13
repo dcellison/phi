@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Eighteen narrower roots form the optional toolkit around them.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty narrower roots form the optional toolkit around them.
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 18 module roots. Shared classification brings the optional learning list to 19 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 20 module roots. Shared classification brings the optional learning list to 21 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -42,6 +42,8 @@ The canonical entries for `sherewa`, `thesori`, `remotha`, and `kirema` have no 
 | `whekate` | verb | refute; show that a claim or inference fails | Refuting takes real work: an objection or a disagreement alone does not amount to a refutation. |
 | `kirothe` | verb | define; state meaning or conditions of application | Defining draws a boundary of application, narrower than describing or simply clarifying. |
 | `remole` | noun | concept; an organized idea | A concept stands apart from the word that names it, the symbol that points to it, and any one example used to illustrate it. |
+| `sherelo` | noun | right; a normative claim that can bind conduct or institutions | A right can remain live while denied; `shereni` entitlement begins with recognition and scope. |
+| `sharino` | noun | conscience; moral self-appraisal | Conscience weighs one's own conduct, while `waeli` consciousness names subjective awareness more broadly. |
 | `whamoi` | verb | doubt; remain unsettled about a proposition | Doubting stays unsettled; it is neither a denial nor a refutation. |
 | `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is a strong stance held with room to revise, and it is not the same as knowledge, truth, or authority. |
 | `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff joins a real gain to a real loss; simply having several options on the table is not yet one. |
@@ -150,6 +152,26 @@ PROX concept complex be.
 ```
 
 Necessary and sufficient conditions need no separate roots of their own. Direction does the work: if category membership entails (`natheri`) the criterion, the criterion is necessary; if satisfying the criterion entails membership, it is sufficient. When both directions hold, one criterion is doing both jobs at once.
+
+## Rights and conscience
+
+A council recognizes an entitlement. A person claims a right that the council has denied. `shereni` and `sherelo` keep those sentences apart: recognition is part of the first word's definition, while the second leaves recognition open to challenge.
+
+```
+theula miona lo kolo sherelo phelu.
+UNIV person PL equal right hold.
+(All people hold equal rights.)
+```
+
+`sharino` turns the examination inward. It is the faculty that weighs one's own conduct against what one takes to be right, and it may object without becoming an infallible voice.
+
+```
+mia sharino mia phoa whakeru.
+1SG conscience 1SG do object.
+(My conscience objects to my action.)
+```
+
+The paired [Article 1](../../../pamphlets/human_rights_article_one.md) tests both distinctions in adjacent claims. Its translation grants all people thought and conscience as faculties; its transmutation gives them the capacity to think and the heart's knowing.
 
 ## Doubt and confidence
 
