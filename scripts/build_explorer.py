@@ -517,7 +517,7 @@ TEXTS = [
     ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts in which the source title keeps its prince, the Phi title describes a small person from the stars, and taming becomes mutual bond."),
     ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "Williams's full story, with Real learned through love and the hard scenes of disability, fever, contamination, coercion, burning, and return stated plainly."),
     ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Three selected teachings by Gibran. On Children appears in two forms: the close translation retains the bow and arrow, while the transmutation gives their motion to a tree and its wind-carried seed."),
-    ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five Legge chapters on water, useful emptiness, unnoticed guidance, small beginnings, and yielding strength. The text includes the warning about trusting force."),
+    ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five Legge chapters in two Phi renderings. The close translation covers every proposition in those chapters; the transmutation stays with household images and recasts authority and force."),
     ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The smaller Heart Sutra in Müller's 1894 English, rendered twice in Phi: completed crossing in the translation and a communal wish in the transmutation."),
     ("news_from_nowhere_ch1", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 1", "Morris's political argument, railway journey, winter walk, sleepless reckoning, and first-person handoff, carried under an opening reportative frame."),
     ("news_from_nowhere_ch2", "nophi lue mawha lokue \u2014 News from Nowhere, ch. 2", "The first morning beside a clear river, with salmon nets, a bridge on stone rainbows, and a failed attempt to pay for a service."),
@@ -534,7 +534,7 @@ TEXT_METHODS = {
     "little_prince_excerpts": "Transmutation",
     "velveteen_rabbit": "Transmutation",
     "prophet_excerpts": "Translation + transmutation",
-    "tao_te_ching": "Transmutation",
+    "tao_te_ching": "Translation + transmutation",
     "heart_sutra": "Translation + transmutation",
     "news_from_nowhere_ch1": "Transmutation",
     "news_from_nowhere_ch2": "Transmutation",
@@ -553,9 +553,9 @@ for stem, title, blurb in TEXTS:
     (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
 
 toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel and the Heart Sutra apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page; each paired text then shows where the methods part.</p>",
+       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel, the Heart Sutra, and five Tao chapters apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page. Each paired text then shows where the methods part.</p>",
        "<p>A close translation answers to the source's claims and distinctions in natural Phi. Its purpose here is practical: to show that Phi can handle any source on its own terms and produce a close analogue, even when Phi would tell it differently. Every rendering says what it owes the source.</p>",
-       "<p>Transmutation is Phi's preferred method because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. This is how transmutation preserves the heart of Phi. Six works put both methods side by side so a reader can see what changed and why.</p>"]
+       "<p>Transmutation is Phi's preferred method because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. This is how transmutation preserves the heart of Phi. Seven works put both methods side by side so a reader can see what changed and why.</p>"]
 for stem, title, blurb in TEXTS:
     toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")

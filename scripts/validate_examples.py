@@ -841,6 +841,10 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
+    "pamphlets/tao_te_ching.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
     "pamphlets/prophet_excerpts.md": (
         "## On children: close translation",
         "## On children: transmutation",
