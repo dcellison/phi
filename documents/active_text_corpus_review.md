@@ -70,6 +70,37 @@ The comparison follows all five pillars without demanding an artificial change f
 
 No module word is required. Persuasion and coercion belong to ordinary social language, and the other compositions use equally general words. The paired page is still a capstone without asking a new learner to open a specialist lexicon.
 
+## Paired review: Schleicher's fable
+
+The source chain begins with Schleicher's 1868 German rendering in `pamphlets/sources/schleicher_1868.txt`. The controlled English source at `pamphlets/sources/schleicher_1868_english.txt` translates the complete German wording and every explanatory parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. The close translation uses 63 unique Phi forms; the transmutation uses 60. The first uses Commons `phenori` (ownership), and the second uses `pilora` (exploit), shared by Work and Commons.
+
+### Close translation
+
+| Area | Finding | Disposition |
+|---|---|---|
+| English ground truth | The common short English rendering omits Schleicher's explanations of shearing, grief, knowledge, comparative suffering, and the sheep making off. | A direct controlled translation from the German preserves all of them and supplies the aligned citation source for both Phi renderings. |
+| Constricted heart | `korua se peki` carried the bodily image but silently absorbed the parenthetical grief, while conditional `lu` turned simultaneous seeing into "if." | A duration phrase makes the seeing simultaneous. Intense `nuhe` states the emotional explanation in its own sentence. |
+| Great load | Plural large things lost both the singular object and the living bearer under its weight. Technical `takori` and interval-based `ritako` do not fit cargo on a horse. | New base noun `tupeka` names a burden borne by a living being and contrasts with both specialist load terms. |
+| The master | Canon refuses *master* as ordinary Phi vocabulary but does not allow translation to erase source power. Current Commons vocabulary can analyze one practical relation inside the title. | The exact title stays in English; `rena lo mophira phenori phelu miona` renders a person who holds ownership of the sheep. The limit is stated plainly. |
+| Worse off | `kipona` narrowed a general comparison of condition to pain. Phi still has no generic *bad* or *worse*. | The close translation reverses the comparison: the horses are more `towe`, well, than the sheep. The source's extra emphasis is recorded as a limit. |
+| Field and flight | `wemo` followed the common English *plain* rather than German *Feld*, and `rashelo` contradicted its own exclusion of flight from danger. | Existing `kosha` restores the field. New base verb `phesari` names flight; `rato` and fast `pholeni` retain Schleicher's other two motion descriptions. |
+| Sheep, wool, and carrying | The entries treated wool as a harmless gift, sheep as a fiber supply, and carrying as willing service. Those meanings prejudged the fable. | `mophira`, `mophi`, and `kolua` now describe the animal, material, and transport neutrally while leaving benefit, harm, and power to their own clauses. |
+
+### Transmutation
+
+The transmutation was written again from the controlled English source. Its source coverage matches the close translation, but each deliberate change now appears in the gap log and in the side-by-side comparison.
+
+| Area | Finding | Disposition |
+|---|---|---|
+| Driving and power | Neutral causative `ka` made the horses go but could not itself judge consent or method. The earlier notes incorrectly claimed that it did. | The transmutation uses base `kawhera` (coerce) for the horses and optional `pilora` (exploit) for the sheep. Both judgments are supported by the actions that follow. |
+| Refusal of the title | Simply replacing *master* with `pilu` both erased the rank and invoked a verb for receptive, mindful taking. | The title disappears from Phi but stays in the citation. Coercion and exploitation expose the relations without turning the human being into a fixed moral identity. |
+| Repeated shearing | The German says the sheep no longer have wool and are shorn; habitual repetition is an interpretation rather than an inflection hidden in the source. | The transmutation deliberately adds `ro` and records the amplification. The close translation stays with unmarked passive shearing. |
+| Ranking suffering | Schleicher says sheep fare worse than horses, although the animals bear different forms of labor and loss. | `lo phirae tupeka`, different burdens, refuses a common scale without denying either experience. This is the transmutation's clearest secular Buddhist and peace-linguistic change. |
+| Ending | The sheep still leaves alone, while the horses stay at work. A repaired ending could easily have invented solidarity or rescue. | Flight is an unresolved response rather than a moral failure or a solution to the scene. |
+| Learning role | Two optional power terms could burden an elementary reader, but replacing either with a soft base paraphrase would undo the text's central analysis. | Glosses, back-translations, and the module labels appear on the page. Base paraphrases are available through the ordinary module convention. |
+
+The page gives all five pillars their own material question. The widest changes come from peace linguistics and the secular Buddhist refusal to rank suffering. Solarpunk, Art Nouveau, and preindustrial sections stay anchored to the wagon, fleece, garment, and living bodies.
+
 ## Translation review: The Metta Sutta
 
 The ground truth is V. Fausböll's 1881 translation stored at `pamphlets/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. This includes the final claim about return to a mother's womb. The text uses two optional roots where ordinary base paraphrase would lose the source's distinction: `thesani`, skill, and `naseru`, obligation.
@@ -94,7 +125,7 @@ The English back-translation is deliberately literal. It lets a reader inspect t
 |---|---|---|---|
 | `pamphlets/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `pamphlets/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
-| `pamphlets/schleicher_fable.md` | Transmutation | Pending | Complete review not begun. |
+| `pamphlets/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
 | `pamphlets/babel_text.md` | Transmutation | Pending | Complete review not begun. |
 | `pamphlets/human_rights_article_one.md` | Transmutation | Pending | Complete review not begun. |
 | `pamphlets/little_prince_excerpts.md` | Transmutation | Pending | Complete review not begun. |

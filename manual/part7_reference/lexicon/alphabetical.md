@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1164 words.*
+*1166 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -591,6 +591,7 @@
 | `pherami` | depend | /ɸe̞.ˈrä.mi/ | verb |
 | `phero` | fern | /ˈɸe̞.ro̞/ | noun |
 | `pheru` | endure | /ˈɸe̞.ru/ | verb |
+| `phesari` | flee | /ɸe̞.ˈsä.ri/ | verb |
 | `phesua` | inspire | /ɸe̞.ˈsu.ä/ | verb |
 | `phewani` | neighbor | /ɸe̞.ˈwä.n̪i/ | noun |
 | `phewo` | sage | /ˈɸe̞.wo̞/ | noun |
@@ -1052,6 +1053,7 @@
 | `tulira` | tail | /t̪u.ˈli.rä/ | noun |
 | `tumeki` | root | /t̪u.ˈme̞.ki/ | noun |
 | `tumoa` | heavy | /t̪u.ˈmo̞.ä/ | adjective |
+| `tupeka` | burden | /t̪u.ˈpe̞.kä/ | noun |
 | `tupi` | jump | /ˈt̪u.pi/ | verb |
 | `tupiwa` | rabbit | /t̪u.ˈpi.wä/ | noun |
 | `turelo` | feedback | /t̪u.ˈre̞.lo̞/ | noun |

@@ -11,18 +11,16 @@
     "verb"
   ],
   "concept": "Carry / Transport / Bear",
-  "description": "The act of bearing and transporting something while supporting it continuously through the movement. 'Kolua' covers physical loads, messages, and metaphorical burdens alike; its emphasis falls on the sustained support, not the weight. What is carried is kept safe for the whole journey.",
-  "sound_symbolism": "The word holds with movement. 'Ko' keeps with complete grasp, secure hold established. 'Lu' lifts with flowing motion, carrying in progress. Then 'a' opens along the journey, transport sustained. Together, 'kolua' embodies the complete experience of carrying—the secure grip combined with continuous movement, creating a sound portrait of sustained, careful transport.",
-  "grammatical_notes": "Functions as a transitive verb requiring a direct object - the thing being carried ('mia [object] kolua' - I carry [object]). Word order follows Phi's SOV pattern. Unlike 'thola' (bring), which implies movement toward a destination, 'kolua' emphasizes the sustained act of bearing throughout movement, regardless of direction. Can take directional complements with prepositions to indicate path or destination. The verb extends naturally to metaphorical uses - carrying memories, traditions, or responsibilities.",
+  "description": "To support something while moving it from one place toward another. 'Kolua' covers bodies, objects, messages, and figurative burdens; it says how they move. 'Tumoa' (heavy) gives the weight, 'tupeka' (burden) gives the bearer's difficulty, and a separate power word tells whether the work was imposed.",
+  "sound_symbolism": "The back of the tongue closes for 'k' and releases into rounded 'o'. Stressed 'lu' lets the tongue flow while deep 'u' holds the sound low, then the final hiatus opens cleanly into 'a'. The mouth supports one continuous contour but must carry it across all three syllables.",
+  "grammatical_notes": "A transitive verb with the carried being or thing as object: 'mia tupeka kolua.' (I carry the burden.) Directional phrases may name the route or destination. 'Thola' (bring) includes movement toward a destination; 'kolua' attends to support during transport. The event-noun rule supplies carrying.",
   "pillars": {
-    "secular-buddhist-philosophy": "Carrying teaches the practice of sustained mindfulness - maintaining awareness of our burden without becoming attached to setting it down. The continuous nature of carrying develops patience and presence, teaching us to be with what we bear rather than rushing toward relief. Each step while carrying becomes a meditation on acceptance and appropriate effort.",
-    "peace-linguistics-practices": "The word 'kolua' reframes carrying from burden to supportive action. Rather than focusing on weight or difficulty, it emphasizes the care and responsibility inherent in transport. This linguistic choice shapes how speakers think about bearing loads - not as hardship but as acts of service, support, and careful stewardship of what we're entrusted to transport.",
-    "pre-industrial-wisdom": "Before mechanized transport, human carrying was essential for survival and community functioning. Traditional cultures developed sophisticated carrying techniques, tools, and practices - from head-carrying to pole-carrying to baby-wearing. This knowledge recognized carrying as fundamental human capability that builds both physical strength and social bonds through shared labor."
+    "peace-linguistics-practices": "A neutral carrying verb does not rename imposed transport as service. The bearer, burden, purpose, and surrounding power can each receive their own clause.",
+    "pre-industrial-wisdom": "Carrying craft joined trained posture to containers or harness. Its skill mattered because bodies still bore the load."
   },
   "tags": {
-    "community": "bearing loads for others, sharing transport responsibilities",
-    "physical": "sustained bodily effort of bearing weight while moving",
-    "spatial": "transport through space while maintaining possession",
-    "wisdom": "patient, mindful bearing as practice of presence"
+    "activity": "supporting something through movement",
+    "physical": "bearing a body or object while moving",
+    "spatial": "transport through space under continuous support"
   }
 }

@@ -50,7 +50,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **tense**: When an action happens relative to now. Phi: past `to`, future `so`, present unmarked.
 
-**translation**: Carrying a source's claims and distinctions into natural Phi while preserving its important images, relationships, and force. Close translation follows the source without copying its word order. The shelf shows the method at full length in the Metta Sutta and in the paired *North Wind and the Sun* page.
+**translation**: Carrying a source's claims and distinctions into natural Phi while preserving its important images, relationships, and force. Close translation follows the source without copying its word order. The shelf shows the method at full length in the Metta Sutta and in the paired Aesop and Schleicher fables.
 
 **transmutation**: Rebuilding a source through Phi's concepts and values, with permission to change what a translation would preserve. Its source citations and gap log show what shifted. See chapters 22 and 24.
 

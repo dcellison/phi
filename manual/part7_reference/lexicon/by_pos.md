@@ -295,7 +295,7 @@
 | `weno` | when | When |
 | `wia` | how many | How Many |
 
-## noun (499)
+## noun (500)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -757,6 +757,7 @@
 | `torua` | year | Year |
 | `tulira` | tail | Tail |
 | `tumeki` | root | Root |
+| `tupeka` | burden | Burden |
 | `tupiwa` | rabbit | Rabbit |
 | `turelo` | feedback | Feedback |
 | `waero` | sky | Sky |
@@ -903,7 +904,7 @@
 | `theula` | UNIV | All |
 | `wheli` | ANY | Any |
 
-## verb (333)
+## verb (334)
 
 | Word | Gloss | Concept |
 |---|---|---|
@@ -1056,6 +1057,7 @@
 | `phemiru` | visit | Visit |
 | `pherami` | depend | Depend |
 | `pheru` | endure | Endure |
+| `phesari` | flee | Flee |
 | `phesua` | inspire | Inspire |
 | `phiketu` | contradict | Contradict |
 | `phimela` | kiss | Kiss |

@@ -1,0 +1,27 @@
+{
+  "word": "tupeka",
+  "gloss": "burden",
+  "ipa": "/t̪u.ˈpe̞.kä/",
+  "syllables": [
+    "tu",
+    "pe",
+    "ka"
+  ],
+  "pos": [
+    "noun"
+  ],
+  "concept": "Burden / Weight or Demand Borne by a Living Being",
+  "description": "A weight, demand, or difficult responsibility borne by a living being. The word centers the bearer: the same object may be a technical 'takori' (load) for a structure, a 'ritako' (workload) across time, and a 'tupeka' for the horse or person under it. A second sentence can tell whether someone chose it and whether its distribution causes harm.",
+  "sound_symbolism": "Dental 't' touches firmly before deep 'u' settles the first syllable low in the mouth. Stressed 'pe' closes the lips and releases them into a narrower vowel, then final 'ka' adds a second closure farther back before opening wide. The word asks the mouth to lift twice: once at the lips, once at the tongue, with the weight audible between them.",
+  "grammatical_notes": "A countable or mass noun: 'kalora ta whalo tupeka kolua.' (The horse carries a great burden.) A burden may be physical or figurative. Compare 'tumoa' (heavy), which describes weight; 'takori' (load), which measures demand on a technical system; and 'ritako' (workload), which gathers work over an interval.",
+  "pillars": {
+    "solarpunk-values": "A plan can distribute materials efficiently and still place its hardest burden on one body or community. 'Tupeka' keeps that bearer inside the account.",
+    "peace-linguistics-practices": "Calling something a burden reports what must be borne without deciding that the demand was accepted or deserved.",
+    "pre-industrial-wisdom": "People and working animals carried the weight that roads, harnesses, poles, and wheels redistributed. The old techniques changed how a burden rested; they did not make the bearer disappear."
+  },
+  "tags": {
+    "activity": "a difficult demand borne through action or responsibility",
+    "community": "weight or demand located on an affected bearer",
+    "physical": "a weight supported by a living body"
+  }
+}

@@ -46,7 +46,7 @@ The Metta Sutta translation contains no unknown forms. A transmutation has the s
 
 Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's texts were built with. The Tao Te Ching text (`pamphlets/tao_te_ching.md`) names them inline as a worked guide; here is the repertoire itself, each move with the shelf's clearest demonstrations.
 
-**The refusal.** When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism looks like in Phi's own economy. *Contend* became takes-nothing and *leader* became the one-who-guides (Tao Te Ching); *master* became the one who takes (Schleicher's fable); the Ring Verse's refusal became its text. If the source wording itself matters, preserve it outside the Phi passage rather than presenting transmutation as quotation.
+**The refusal.** When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism looks like in Phi's own economy. *Contend* became takes-nothing and *leader* became the one-who-guides (Tao Te Ching); *master* became the separate acts of coercion and exploitation (Schleicher's fable); the Ring Verse's refusal became its text. If the source wording itself matters, preserve it outside the Phi passage rather than presenting transmutation as quotation.
 
 **The reframe.** Replace the source's imagery with imagery Phi already owns, at the same depth. The archer, bow, and arrows became the wind, the tree, and living seeds (The Prophet); the felled tree became the tree in the great wind (Tao Te Ching); the scattering of Babel became a sowing (the Babel text).
 

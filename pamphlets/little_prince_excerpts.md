@@ -16,7 +16,7 @@ POL IMP DAT 1SG one sheep shape.
 (Please, shape me a sheep.)
 ```
 
-**Notes:** the book's most famous request. The sheep is `mophira`, the wool-bearer, the same flock the Schleicher fable shears. Drawing is `kire`, to shape: what the narrator does with a pencil, the verb does with anything. The politeness stack `pi no` is the canonical gentle imperative, and Woods's "If you please" is its anchor in the source: the small person is insistent, but never rude.
+**Notes:** the book's most famous request. The sheep is `mophira`, whose sound echoes `mophi`, wool, without reducing the animal to its fleece. It is the same animal Schleicher's fable finds shorn. Drawing is `kire`, to shape: what the narrator does with a pencil, the verb does with anything. The politeness stack `pi no` is the canonical gentle imperative, and Woods's "If you please" is its anchor in the source: the small person is insistent, but never rude.
 
 ## The secret
 

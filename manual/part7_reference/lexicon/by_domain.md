@@ -8,7 +8,7 @@
 *Content words grouped by domain tag. Words with several tags appear in each of their domains.*
 
 
-## activity (163)
+## activity (166)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -35,6 +35,7 @@
 | `kithawu` | triage | assessing and ordering care under constraints |
 | `kiwate` | bite | Eating's first act |
 | `koewi` | input | something entering and participating in a process |
+| `kolua` | carry | supporting something through movement |
 | `kolupe` | bucket | carrying liquid or loose material by hand |
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `kupe` | hide | Placing out of sight |
@@ -85,6 +86,7 @@
 | `phelure` | store | retention arranged for later retrieval or release |
 | `phemiru` | visit | spending a bounded time with a person or at a place |
 | `pherami` | depend | a function or process conditioned by another element |
+| `phesari` | flee | departure in response to danger or constraint |
 | `phoa` | do | fundamental human activity of doing |
 | `phurewa` | sweep | moving loose material with repeated brush strokes |
 | `phurilo` | broom | an instrument used in sweeping |
@@ -156,6 +158,7 @@
 | `tiwa` | tie | Fastening with cord |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
 | `tukiro` | review | systematically reconsidering a prior matter |
+| `tupeka` | burden | a difficult demand borne through action or responsibility |
 | `tupi` | jump | The body's spring |
 | `turelo` | feedback | a returned effect that alters an ongoing process |
 | `wapho` | throw | Release into flight |
@@ -541,7 +544,6 @@
 | `kithawu` | triage | distribution of care timing and resources among affected people |
 | `koema` | enter | Joining |
 | `kolo` | equal | Same standing |
-| `kolua` | carry | bearing loads for others, sharing transport responsibilities |
 | `koluma` | unite | Bringing together into wholeness |
 | `kopharu` | barrier | an arrangement that restricts participation |
 | `koru` | harmonious | Working together |
@@ -765,6 +767,7 @@
 | `tokemi` | fungus | Underground connectors |
 | `toloi` | messenger | Connecting role |
 | `tomi` | pot | Daily nourishment |
+| `tupeka` | burden | weight or demand located on an affected bearer |
 | `warosha` | reconcile | Healing relationships after conflict |
 | `welao` | good | what serves collective wellbeing |
 | `welira` | thrive | Collective wellness |
@@ -1289,8 +1292,8 @@
 | `mola` | island | Water-surrounded land |
 | `molei` | evolve | Developmental transformation |
 | `molira` | hill | Gentle land elevation |
-| `mophi` | wool | Animal fiber |
-| `mophira` | sheep | The flock's wool-bearer |
+| `mophi` | wool | the fiber forming a sheep's fleece |
+| `mophira` | sheep | a grazing animal commonly living in flocks |
 | `moreke` | mammal | Warm-blooded nursing creatures |
 | `morilu` | wave | The sea's moving shape |
 | `morisa` | salt | What the sea leaves behind |
@@ -1445,7 +1448,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (331)
+## physical (332)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1492,7 +1495,7 @@
 | `koewi` | input | matter or energy crossing into a selected system |
 | `kohura` | noise | Sound carrying no shape |
 | `kolu` | steady | Constant quality |
-| `kolua` | carry | sustained bodily effort of bearing weight while moving |
+| `kolua` | carry | bearing a body or object while moving |
 | `koluma` | unite | Joining separate elements |
 | `kolupe` | bucket | an open rigid container with a handle |
 | `koma` | head | the anatomical body part |
@@ -1553,8 +1556,8 @@
 | `molu` | container | Holding space |
 | `molupa` | box | a holder that retains its shape when empty |
 | `monaki` | component | a part that may be material, though the term also permits informational and procedural components |
-| `mophi` | wool | Warmth material |
-| `mophira` | sheep | The fleece that grows back |
+| `mophi` | wool | a crimped insulating fiber that can be spun |
+| `mophira` | sheep | a woolly fleece on a living animal |
 | `morae` | sense | Body receiving information from world |
 | `morashi` | relapse | return or worsening of a health condition after improvement |
 | `morilu` | wave | Water briefly standing up |
@@ -1740,6 +1743,7 @@
 | `tuko` | sour | Acidic taste |
 | `tulira` | tail | Anatomy past the body |
 | `tumoa` | heavy | Great weight |
+| `tupeka` | burden | a weight supported by a living body |
 | `tupi` | jump | Leaving the ground |
 | `tupiwa` | rabbit | Softness at speed |
 | `wapho` | throw | The arm's arc and letting go |
@@ -1825,7 +1829,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (151)
+## spatial (152)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1842,7 +1846,7 @@
 | `kesho` | middle | Center point |
 | `kirato` | lock | control at a door, lid, or gate |
 | `koema` | enter | Inward movement |
-| `kolua` | carry | transport through space while maintaining possession |
+| `kolua` | carry | transport through space under continuous support |
 | `komalu` | pillow | a small support placed within a resting place |
 | `kopharu` | barrier | a physical obstruction in a route or place |
 | `kosha` | field | Open land |
@@ -1907,6 +1911,7 @@
 | `phelasi` | shelf | storage arranged along a raised edge |
 | `phemi` | guest | crosses thresholds entering new domains as honored visitor |
 | `phemila` | host | creates and holds open sanctuary spaces for others |
+| `phesari` | flee | movement away from a threatening or intolerable situation |
 | `phewani` | neighbor | defined by proximity and shared physical space |
 | `phirae` | different | the relationship of non-equivalence |
 | `pholeni` | depart | Leaving a place |
@@ -2157,7 +2162,7 @@
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
 
-## wisdom (203)
+## wisdom (202)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2182,7 +2187,6 @@
 | `kirothe` | define | examining both the usefulness and limits of categories |
 | `kithela` | valid | a precise assessment kept distinct from truth and persuasion |
 | `kolo` | equal | Balanced recognition |
-| `kolua` | carry | patient, mindful bearing as practice of presence |
 | `koma` | head | dwelling of understanding and awareness |
 | `kowela` | council | cultivates patient consensus through collective insight |
 | `kuelo` | curious | Openness to learning |

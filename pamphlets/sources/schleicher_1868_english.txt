@@ -1,0 +1,11 @@
+Controlled English translation of August Schleicher's German rendering in "Eine fabel in indogermanischer Ursprache," Beiträge zur vergleichenden Sprachforschung 5 (1868), pp. 207-208. Parentheses reproduce Schleicher's own explanatory parentheses. The German file `schleicher_1868.txt` retains his square brackets for words absent from the Proto-Indo-European text; this English source translates the complete German wording.
+
+THE SHEEP AND THE HORSES
+
+A sheep on which there was no wool (a shorn sheep) saw horses: one pulling a heavy wagon, one carrying a great load, and one swiftly carrying a human being.
+
+The sheep said to the horses: "My heart is constricted in me (I am deeply grieved) as I see the human being driving the horses."
+
+The horses said: "Listen, sheep. The heart is constricted in us who have seen (we are deeply grieved, because we know): the human being, the master, makes the sheep's wool into a warm garment for himself, and the sheep have no wool. (The sheep, however, no longer have any wool; they are shorn; they fare even worse than the horses.)"
+
+Having heard this, the sheep turned aside (escaped) into the field. (It made off.)
