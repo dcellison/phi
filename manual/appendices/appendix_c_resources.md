@@ -16,7 +16,7 @@ The manual is the teaching path; these are the working documents behind it.
 | `documents/compounds.md` | The canonized compound idioms and why each stays compositional |
 | `documents/modifier_first_philosophy.md` | The organizing principle, argued in full |
 | `documents/psychological_violence_of_measurement.md` | Why the numbers are the way they are |
-| `pamphlets/` | The text shelf: a close translation of the Metta Sutta; paired translations and transmutations of two benchmark fables, UDHR Article 1, and the Babel story; and the remaining transmuted works |
+| `pamphlets/` | The text shelf: a close translation of the Metta Sutta; paired translations and transmutations of two benchmark fables, UDHR Article 1, the Babel story, and the Heart Sutra; and the remaining transmuted works |
 | `manual/part7_reference/` | The one-page grammar and the generated lexicon listings |
 | `scripts/validate_examples.py` | The validator; also `neighbors <word>` before coining |
 | `archive/` | The language's history, preserved and clearly marked as non-canon |
