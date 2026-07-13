@@ -1,14 +1,14 @@
 # phewo phelui — from The Prophet
 
-*Kahlil Gibran's The Prophet (1923) has counseled a century of readers in twenty-six short teachings, and it enters the public domain speaking freely. These are Phi's excerpts: three of the teachings (on love, on children, on giving), each transmuted with notes. The ground truth is the 1923 text itself, stored verbatim, and every unit cites the lines it stands against; each section says where its excerpt begins and ends, and the gap log names what stayed behind.*
+*Kahlil Gibran's The Prophet (1923) has counseled a century of readers in twenty-six short teachings, and it enters the public domain speaking freely. These are Phi's excerpts: transmutations of the teachings on love, children, and giving, with a close translation beside the transmutation of On Children. The ground truth is the 1923 text itself, stored verbatim, and every unit cites the lines it stands against. Each section says where its excerpt begins and ends, and the gap log names what stayed behind.*
 
 *The title makes the first choice. Gibran calls Almustafa a prophet, and the source keeps that office. The Phi title says what the figure does in these excerpts: `phewo phelui`, the sage's words. The people of Orphalese gather to hear him speak, so the teaching rather than the office becomes the title of this rendering.*
 
-*Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Gibran's own wording, so a reader can see exactly what the transmutation kept and what it changed.*
+*Each block below has four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Gibran's own wording. The close translation answers to each claim and image in On Children. The transmutations let those sources pass through Phi's five pillars.*
 
 ---
 
-## On love
+## On love: transmutation
 
 The excerpt runs from "Love gives naught but itself" through the litany of love's desires that closes the teaching.
 
@@ -96,9 +96,140 @@ gibran: "And then to sleep with a prayer for the beloved in your heart and a son
 
 **Notes:** the restrictive `li` does Gibran's "naught but" twice over, fencing the giving and the taking to the self alone; `miso`, the reflexive, is both the gift and the source; and the possession verse is the passive `se` earning its place in literature: love does not hold, love is not held, the same verb turned once. `lothea lothea heno` is three words in the shape Phi loves best, subject, object, verb, and all three of them the same love. Gibran's God speaks here as `liona`, Life, this chapter's own word: a page earlier the teaching promises that love makes the lover "a fragment of Life's heart," so being in the heart of Life is where Gibran himself lands, and Phi simply goes there directly. "Worthy" is `henoi`: love finds that you are enough, the quantifier of sufficiency doing the judging without rank. English directs; Phi guides: the lexicon settled that distinction on principle, so `kulo` arrives pre-transmuted, guidance along a way rather than command of a course. The desires litany then runs whole on the optative `su`, the mood the Metta Sutta runs on, turning Gibran's infinitives into the blessings they always were: the brook kept as `thiku luphore`, the small river, its melting folded into the becoming; too much tenderness as `ru moli kipona`, great gentleness's own pain; the willing blood falling `roe pula nela siora`, with wish and with joy, love's cost self-offered and no violence anywhere in it; the winged heart carried as composition, `wapile korua`, the wing-heart, nouns modifying by position; noon as `philo kesho`, the day's middle, by the natural clock; and the prayer unnamed, as Phi keeps all rites unnamed, standing as `thorai`, a blessing in the heart, beside a song of thanks on the mouth.
 
-## On children
+## On children: close translation
 
-The excerpt is the teaching entire, from "Your children are not your children" to the bow that is stable.
+The excerpt is the teaching entire, from "Your children are not your children" to the bow that is stable. The close translation leaves Gibran's paradox whole and follows him into the weapon metaphor. The transmutation turns that final passage toward growing things without pretending that Gibran did the same.
+
+### Children and ownership
+
+```
+lo thia lopia thia lopia ma nai.
+PL 2SG child 2SG child NEG be.
+(Your children are not your children.)
+gibran: "Your children are not your children."
+
+lo shia liona wei miso wilao lopia nai.
+PL 3SG live DAT REFL long-for child be.
+(They are the children of Life's longing for itself.)
+gibran: "They are the sons and daughters of Life’s longing for itself."
+
+lo shia thue thia shua. lo shia lue thia ma shua.
+PL 3SG THROUGH 2SG come. PL 3SG ABL 2SG NEG come.
+(They come through you, not from you.)
+gibran: "They come through you but not from you,"
+
+lo shia nua thia nai. whekai lo shia mua thia phenori ma nai.
+PL 3SG COM 2SG be. CONTR PL 3SG LOC 2SG ownership NEG be.
+(They are with you. However, they are not within your ownership.)
+gibran: "And though they are with you yet they belong not to you."
+```
+
+**Notes:** The first line repeats `lopia`, child, on both sides of the copula. It leaves Gibran's paradox intact instead of explaining it as possession before he does. Phi has no universal son or daughter classes, so `lo lopia` leaves gender unstated without losing the kin relation. The last line names belonging through `phenori`, ownership, a social relation wider than physical holding.
+
+### Love, thought, body, and soul
+
+```
+thia wei lo shia lothea po loa. thia wei lo shia remo po ma loa.
+2SG DAT PL 3SG love POT give. 2SG DAT PL 3SG think POT NEG give.
+(You may give them your love. You cannot give them your thoughts.)
+gibran: "You may give them your love but not your thoughts,"
+
+lo shia miso remo phelu.
+PL 3SG REFL think hold.
+(They hold their own thoughts.)
+gibran: "For they have their own thoughts."
+
+thia lo shia weloni ka po menui. thia lo shia norea ka po ma menui.
+2SG PL 3SG body CAUS POT dwell. 2SG PL 3SG soul CAUS POT NEG dwell.
+(You may house their bodies. You cannot house their souls.)
+gibran: "You may house their bodies but not their souls,"
+
+lo shia norea mua wireo womu menui. thia ha womu po ma phemiru. we mua thia whemura thia ha womu po ma phemiru.
+PL 3SG soul LOC future home dwell. 2SG PROX home POT NEG visit. ALSO LOC 2SG dream 2SG PROX home POT NEG visit.
+(Their souls dwell in the home of the future. You cannot visit this home. Even in your dreams, you cannot visit it.)
+gibran: "For their souls dwell in the house of tomorrow, which you cannot visit, not even in your dreams."
+```
+
+**Notes:** Giving love and giving thought share one verb, so the source's contrast falls on the two objects. `ka menui`, cause to dwell, lets English house remain an action without turning the noun for home into a verb. `wireo womu` makes the future house a place. The close version restores `phemiru`, visit, where the transmutation says only that the parent cannot be there.
+
+### Becoming and time
+
+```
+thia po meloa lila thia phea lo shia kelu. whekai no mena thia lo shia phea thia ka kelu meno ma thueli.
+2SG POT persevere PURP 2SG AS PL 3SG become. CONTR IMP DECL.COMP 2SG PL 3SG AS 2SG CAUS become DECL.COMP.CLOSE NEG intend.
+(You may persevere so that you become like them. However, do not intend to make them become like you.)
+gibran: "You may strive to be like them, but seek not to make them like you."
+
+liona wea luera ma wepu. shia nua luera philo ma manolu.
+live TOWARD past NEG go. 3SG COM past day NEG stay.
+(Life does not go toward the past. It does not stay with yesterday.)
+gibran: "For life goes not backward nor tarries with yesterday."
+```
+
+**Notes:** Phi has no general verb for trying. `meloa`, persevere, gives striving its sustained effort, while a closed complement under `thueli`, intend, contains the parent's project of making a child alike. `luera philo`, the past day, is Phi's established compound for yesterday. Life neither travels toward the past nor stays beside that day.
+
+### Bow, arrow, and archer
+
+```
+thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia lopia phea [rena wapi] lima tiso wolea thena lue thia se sepho.
+2SG PL [REL cord hold] flexible wood tool be. PL 2SG child AS [REL fly] alive sharp wood thing ABL 2SG PASS send.
+(You are flexible wooden tools that hold a cord. Your children are sent from you as living sharp wooden things that fly.)
+gibran: "You are the bows from which your children as living arrows are sent forth."
+
+mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila.
+LOC [REL NONE end hold] path [REL INS PROX tool do] purpose marker see.
+(On the path that holds no end, the one who acts with this tool sees a marker of purpose.)
+gibran: "The archer sees the mark upon the path of the infinite,"
+
+shia roe shia puro thia luwi ka kelu lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi.
+3SG INS 3SG strength 2SG flexible CAUS become PURP 3SG PL [REL fly] alive sharp wood thing fast COORD far fly.
+(With his strength, he makes you bend so that his living sharp wooden things fly fast and far.)
+gibran: "and He bends you with His might that His arrows may go swift and far."
+
+su mua shia manuwe thia roe siora luwi kelu.
+OPT LOC 3SG hand 2SG INS joy flexible become.
+(May you bend with joy in his hand.)
+gibran: "Let your bending in the Archer’s hand be for gladness;"
+
+shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
+3SG [REL fly] alive sharp wood thing love. 3SG ALSO stable [REL cord hold] flexible wood tool love.
+(He loves the living sharp wooden thing that flies. He also loves the stable flexible wooden tool that holds a cord.)
+gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
+```
+
+**Notes:** Phi has no bow, arrow, or archer root. The close translation therefore gives each object a visible body. A bow is a flexible wooden tool that holds a cord. An arrow is a living sharp wooden thing that flies, alive because Gibran calls it so. The archer is the one who acts with the tool. `puro`, strength, supplies his might; `lila` states his purpose in bending the parent; and the path of the infinite becomes a path that holds no end. The source citations retain the exact weapon terms and Gibran's capitalized divine pronoun.
+
+### Complete translation
+
+```
+lo lopia
+
+lo thia lopia thia lopia ma nai. lo shia liona wei miso wilao lopia nai. lo shia thue thia shua. lo shia lue thia ma shua. lo shia nua thia nai. whekai lo shia mua thia phenori ma nai.
+
+thia wei lo shia lothea po loa. thia wei lo shia remo po ma loa. lo shia miso remo phelu. thia lo shia weloni ka po menui. thia lo shia norea ka po ma menui. lo shia norea mua wireo womu menui. thia ha womu po ma phemiru. we mua thia whemura thia ha womu po ma phemiru.
+
+thia po meloa lila thia phea lo shia kelu. whekai no mena thia lo shia phea thia ka kelu meno ma thueli. liona wea luera ma wepu. shia nua luera philo ma manolu.
+
+thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia lopia phea [rena wapi] lima tiso wolea thena lue thia se sepho. mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila. shia roe shia puro thia luwi ka kelu lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi. su mua shia manuwe thia roe siora luwi kelu. shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
+```
+
+### Translation limits
+
+| Gibran wording | Phi treatment | Remaining difference |
+|---|---|---|
+| your children are not your children | `lo thia lopia` repeated on both sides of `nai` | Bare possession can mark kinship as well as ownership, so the paradox stays open until the later ownership line. |
+| sons and daughters | `lo lopia`, children | Phi has no universal gendered person classes. The child relation remains; the paired gender terms do not. |
+| Life | event noun `liona`, live, followed by `shia` | Phi can personify the living process, but the source alone gives Life a capital letter and theological presence. |
+| belong not to you | outside `thia phenori`, your ownership | Ownership states the relevant social relation more explicitly than Gibran's broad belonging verb. |
+| house their bodies | causative `ka menui`, cause to dwell | Phi treats housing as an act without making the noun for home behave as a verb. |
+| strive; seek not | `meloa`, persevere; negated `thueli`, intend | Perseverance stresses continued effort. Intention names the project but not the searching motion of seek. |
+| backward; yesterday | toward `luera`, the past; `luera philo`, past day | Phi gives backward a temporal destination rather than a directional adverb. |
+| bow; arrow; archer | a cord-holding flexible wooden tool; a living sharp wooden thing that flies; the one who acts with the tool | The material descriptions reconstruct the scene but do not replace the three archery terms as reusable vocabulary. |
+| mark; infinite | `porua siru`, purpose marker; a path that holds no end | The marker makes the target's role explicit. No-end path describes infinity without creating an abstract root. |
+| bends you with His might | caused flexible becoming through `puro`, strength | `luwi kelu` covers bending without naming the drawn curve or the tension stored in the bow. |
+| He; His | `shia`, third person | Phi marks neither gender nor reverential capitalization. Gibran's typography remains visible in the source lines. |
+
+## On children: transmutation
 
 ```
 lo thia lopia thia thena ma nai.
@@ -174,7 +305,42 @@ gibran: "For even as he loves the arrow that flies, so He loves also the bow tha
 
 **Notes:** Gibran's sons and daughters become `lo lopia`, children, so the parent-child relation stays while its gendered pairing does not. "Not your children" becomes not your things, `thia thena ma nai`; the grammar turns the paradox into its claim about ownership. Life's longing is `liona wei miso wilao`, and the prepositions make the harder distinction: they come `thue` you, through you, but not `lue` you, from you. Housing is the causative of dwelling, `ka menui`, possible for bodies and refused for souls in one mirrored pair. The bow passage makes the section a transmutation rather than a translation. Bow, arrow, and archer become tree, living seed, and wind. The tree stays while the seed travels, and its bending in the wind expresses Gibran's gladness without turning parenthood into aim and release from a weapon. Life loves the flying seed and the stable tree alike.
 
-## On giving
+## On children: what changes between the two renderings
+
+The first part of the teaching has much the same skeleton in both renderings. A parent cannot supply a child's thoughts or house their soul. Their future cannot be made to conform. At the bow passage, the methods separate. Translation describes the missing archery terms through wood, cord, flight, and force. Transmutation changes the scene itself. The parent becomes a tree, and the child travels as seed in wind that has no target.
+
+| Moment | Close translation | Transmutation | Why they diverge |
+|---|---|---|---|
+| opening paradox | Children are not their parent's children, with `lopia` repeated literally. | Children are not their parent's things. | Translation lets Gibran's paradox wait for its explanation. Transmutation states the ownership reading at once. |
+| belonging | Children are outside the parent's `phenori`, ownership. | The parent does not `phelu`, hold, the children. | Translation uses the social relation named by belong. Transmutation moves from legal possession to the body's grasp. |
+| effort and future | The parent perseveres toward likeness, does not intend conformity, and cannot visit the future house. | The parent may become like the children, cannot make them alike, and cannot be in the future house. | Translation restores striving and visiting. Transmutation states the boundary in simpler acts. |
+| bow and arrow | A cord-holding wooden tool sends living sharp wooden things into flight. | A tree gives living seeds to the wind. | Translation describes the source's weapon without adding archery roots. Transmutation replaces aimed release with growth and dispersal. |
+| archer's agency | The one who uses the tool sees a purpose marker, bends the parent through strength, and intends speed and distance. | Wind carries the seeds toward tomorrow. | Translation states an external will and its force. Transmutation gives movement to weather rather than a controller. |
+| final love | The archer loves both the flying arrow and the stable bow. | Life loves both the flying seed and the standing tree. | The parallel survives, but the beloved forms no longer belong to a weapon system. |
+
+### Solarpunk values
+
+The close translation sends a child toward a mark chosen by another hand. It does not turn that image into Phi's advice about parenting; it lets Gibran make the claim. The transmutation moves the future out of the archer's sight. A seed still comes from a living parent, but wind and soil take part in what it becomes.
+
+### Secular Buddhist philosophy
+
+Both versions refuse ownership and mental inheritance. The close translation also includes Gibran's souls and personified Life because they belong to the source, even though Phi does not need either claim for its own account of a child. The transmutation's tree and seed make continuity visible without requiring sameness.
+
+### Art Nouveau aesthetics
+
+Gibran's bow already has a long curve held under tension, and the arrow gives that curve a straight line of release. The close translation sets cord and flexible wood against flight. Transmutation lets the curve continue as a trunk bending in wind, with the seed's path left open.
+
+### Peace linguistics
+
+The close translation names the source's weapon through description and states the archer's strength without laundering it into guidance. Accuracy is not approval. Transmutation can make the ethical move that translation cannot: it removes the target and gives the child's motion to wind rather than force from a hand.
+
+### Pre-industrial wisdom
+
+A bow is a hand-built tool of cord and flexible wood, and its presence is older than industrial violence. The close translation shows that craft alongside the purpose for which the tool is drawn. The transmutation chooses another old knowledge. Trees bend and seeds travel; the life that follows is beyond the maker's control.
+
+Translation lets the archer draw the bow. Transmutation gives the child no target at all: the seed enters tomorrow on the wind.
+
+## On giving: transmutation
 
 The excerpt takes five moments from the teaching: the opening distinction, the season of giving, the joyful giver, and the floor the whole chapter rests on.
 
@@ -219,6 +385,6 @@ gibran: "while you, who deem yourself a giver, are but a witness."
 
 ---
 
-## What the transmutation changed
+## What the transmutations changed
 
 *Gap log: prophet → retained in the source title while `phewo phelui` calls the Phi work the sage's words; God → `liona`, Life, following Gibran's own image of Life's heart; sons and daughters → `lo lopia`; Life's longing for itself → `liona wei miso wilao`; belong → `phelu`; bow, arrow, and archer → tree, living seeds, and wind; worthy → `henoi` (enough); direct → `kulo` (guide); reward → `loami` (gift); winged heart → `wapile korua`; melt → becoming the small river; noon → `philo kesho`; prayer → `thorai` (blessing); praise → `woraka meliho` (song of thanks). On Love begins at "Love gives naught but itself" and leaves the earlier sword and baptism images outside the excerpt. On Children is complete. On Giving selects five moments and leaves its wells, coffers, myrtle, and orchard in the source. New words coined: none.*

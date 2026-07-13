@@ -82,11 +82,11 @@ phialu haoni.
 
 ## The texts shelf
 
-The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Two familiar fables appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it. Article 1 receives the same paired reading at the scale of two sentences. Babel carries it across nine verses: punishment and forced dispersal stand beside the earth sowing languages. The Heart Sutra puts Müller's solitary completed crossing beside Phi's communal wish to go.
+The Metta Sutta's final verse still predicts that the practitioner will never return to a birth parent's belly. Two familiar fables appear twice. Aesop's close translation protects the old moral, while its transmutation watches the Traveler flee the winning Sun. Schleicher's close translation leaves the master claim visible; its transmutation withholds the title and names the coercion and exploitation beneath it. Article 1 receives the same paired reading at the scale of two sentences. Babel carries it across nine verses: punishment and forced dispersal stand beside the earth sowing languages. The Heart Sutra puts Müller's solitary completed crossing beside Phi's communal wish to go. On Children lets Gibran draw his bow before Phi turns the arrow into seed.
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
 
-The complete texts live in `pamphlets/`, one file per short work and one file per completed novel chapter. Each presents the Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Six of them are the manual's touchstones.
+The complete texts live in `pamphlets/`, one file per short work and one file per completed novel chapter. Each presents the Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Seven of them are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta and the language's first complete text: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -114,12 +114,13 @@ QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE.
 
 ***nulo sano korua*** (The Heart of Wisdom) pairs a close translation and transmutation of Müller's smaller Heart Sutra. The translation counts five gatherings, restores the source's four knowledge and ignorance terms, and gives the mantra one addressed traveler who has reached another `kerime`, shore. Tradition-specific names are not adapted. The transmutation uses `mu` across the body and path, releases the walker from thought-shapes, then opens the mantra into a wish that gathers everyone.
 
+***phewo phelui*** (The Sage's Words) contains transmutations of Gibran's teachings on love, children, and giving. On Children also has a close translation. It describes the bow through cord and flexible wood, then lets the cited English supply the archery terms Phi does not need as roots. In the transmutation, a tree and a seed carried by wind take the place of aimed release. Their comparison shows what accuracy requires of Phi and what Phi chooses when it tells the passage for itself.
+
 The rest of the shelf:
 
 | Phi title | Method | Text |
 |---|---|---|
 | `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |
-| `phewo phelui` | Transmutation | from *The Prophet*: on love, on children, on giving |
 | `keiro` | Transmutation | five chapters of the Tao Te Ching |
 | `naweri` | Transmutation | the Ring Verse, refused: coercion named without granting it a neutral ruler |
 | `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire, with Medical, Accessibility, and Commons distinctions where the story needs them |

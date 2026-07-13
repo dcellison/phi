@@ -132,7 +132,7 @@ Every word also arrives with its relatives included. A verb names its own event:
 
 Phi's shelf uses two methods. A close translation keeps the source's claims intact while letting Phi choose its own grammar. A transmutation allows the source to change as Phi thinks it through. Every text identifies its ground truth and records the choices, so the reader can see what arrived and what did not.
 
-Twelve works stand on the shelf. The Metta Sutta is a translation. Five works have both forms. The two familiar fables let the methods part over persuasion and exploitation, while Article 1 tests rights and conscience. Babel sets divine punishment beside languages cast like seed by the earth. In the Heart Sutra, one traveler has crossed while a community wishes to set out. Six other works are transmutations. Three are excerpted sets from *The Little Prince*, *The Prophet*, and the Tao Te Ching. The others are *The Velveteen Rabbit*, three chapters of Morris's *News from Nowhere*, and the Ring Verse refusal.
+Twelve works stand on the shelf. The Metta Sutta is a translation. Six works have both forms. The two familiar fables let the methods part over persuasion and exploitation, while Article 1 tests rights and conscience. Babel sets divine punishment beside languages cast like seed by the earth. In the Heart Sutra, one traveler has crossed while a community wishes to set out. On Children's translation retains Gibran's bow; its transmutation lets the arrow become seed. Five other works are transmutations. Two are excerpted sets from *The Little Prince* and the Tao Te Ching. The others are *The Velveteen Rabbit*, three chapters of Morris's *News from Nowhere*, and the Ring Verse refusal.
 
 ## Where the choices come from
 
