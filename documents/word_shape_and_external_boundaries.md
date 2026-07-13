@@ -12,7 +12,7 @@ Every canonical Phi lexicon entry is limited to one, two, or three syllables. Mo
 
 All 112 inherited four-syllable entries have been replaced rather than retained as aliases. The migration ledger preserves each old-to-new mapping as project history, but it grants no lexical exception and reserves no name.
 
-The capacity argument supports the rule. With the current phonotactic constraints, Phi has 376,740 legal three-syllable forms. After applying the practical close-neighbor gate for content coinage, plus exact duplicate blocking across the lexicon, about 355,428 three-syllable forms remain available. That excludes the remaining two-syllable space, which should stay premium territory for grammar, very basic vocabulary, and compact high-frequency forms.
+The capacity argument supports the rule. With the current phonotactic constraints, Phi has 376,740 legal three-syllable forms. The practical close-neighbor gate for content coinage and exact duplicate blocking across the lexicon still leave well over 300,000 available. The inventory count falls as the vocabulary grows; the decision depends on the scale, not a frozen snapshot. That excludes the remaining two-syllable space, which should stay premium territory for grammar, very basic vocabulary, and compact high-frequency forms.
 
 The stronger reason is cognitive and aesthetic. Three syllables are enough for ordinary content words while keeping Phi compact, speakable, and easy to scan by ear. Four-syllable roots make the lexicon feel less disciplined, especially when compounds and modules can already carry heavier semantic work.
 
