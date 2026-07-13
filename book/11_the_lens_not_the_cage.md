@@ -78,15 +78,15 @@ Evidentiality is the right place to test his point, because it is Phi's own terr
 
 Put the two together and you get the strongest grammar-to-cognition claim currently on the market, at its true size: an obligatory grammatical category can tune a habit of memory. A habit is not a virtue, and McWhorter's Bulgarians remain exactly as credulous as their neighbors.
 
-Phi's designers cannot even borrow the Turkish result, and the language's materials do not try. Phi's evidential particles are optional, and by explicit ruling an unmarked sentence claims no source at all. Nothing in the grammar obliges anyone to disclose how they know, which means the Turkish mechanism, obligation wearing a groove into memory, is unavailable by design. What an optional marker offers instead is a practice: a visible place in the sentence where a speaker may choose to say how they know, every time they speak. Phi keeps four of these markers: `hi` for what the speaker witnessed, `ke` for what they inferred, `ti` for what they were told, and `ho` for what they merely assume. They hold a fixed seat among the verb's other particles, and the whole apparatus loads into a single stack when a thought needs it:
+Phi's designers cannot even borrow the Turkish result, and the language's materials do not try. Phi's evidential particles are optional, and by explicit ruling an unmarked sentence claims no source at all. Nothing in the grammar obliges anyone to disclose how they know, which means the Turkish mechanism, obligation wearing a groove into memory, is unavailable by design. What an optional marker offers instead is a practice: a visible place in the sentence where a speaker may choose to say how they know, every time they speak. Phi keeps four of these markers: `hi` for what the speaker witnessed, `ke` for what they inferred, `ti` for what they were told, and `ho` for what they merely assume. In use, an evidential is one soft syllable set before the verb:
 
 ```
-mia to si ke po ma shelomu.
-1SG PST IPFV INFER POT NEG understand.
-(I was not being able to understand [I infer].)
+shia to ke wepu.
+3SG PST INFER go.
+(She left [I infer from evidence].)
 ```
 
-Past, then ongoing, then inferred, then possible, then denied: five relations declared in fixed order before the verb lands. The boatman's narrator in this book's opening pages does the same thing in the wild. His moneyed expectation arrives as `to ho remo`, past tense, assumption admitted, and only then the thinking, so that the sentence discloses its own epistemic weakness on the way in. Whether years of that choosing leave any measurable mark on a speaker is an open question. This book will keep calling it one.
+Past marker, inference marker, verb: she left, and the sentence admits the speaker worked that out from evidence rather than watching it happen. The boatman's narrator in this book's opening pages does the same thing in the wild. His moneyed expectation arrives as `to ho remo`, past tense, assumption admitted, and only then the thinking, so that the sentence discloses its own epistemic weakness on the way in. Whether years of that choosing leave any measurable mark on a speaker is an open question. This book will keep calling it one.
 
 ## An untested instrument
 
