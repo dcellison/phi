@@ -43,6 +43,10 @@ The single validation tool for the Phi project. Checks:
      - lexicon prose and active Markdown reject the prohibited
        hyphenated adjective construction named in the voice guide
 
+  5. Reading-shelf catalogues:
+     - every text and pamphlet appears exactly once
+     - catalogue fields, methods, source paths, and rendering settings are valid
+
 Usage:
     python3 scripts/validate_examples.py                # full check
     python3 scripts/validate_examples.py --lexicon-only
@@ -64,6 +68,7 @@ import sys
 from pathlib import Path
 
 import compound_registry
+import content_catalogues
 import generate_reference
 import name_forms
 
@@ -1337,6 +1342,20 @@ def check_compound_registry(lexicon_words):
     return errors
 
 
+def check_content_catalogues():
+    """The text and pamphlet shelves match their ordered catalogues."""
+    errors = []
+    for loader in (
+        content_catalogues.load_text_catalogue,
+        content_catalogues.load_pamphlet_catalogue,
+    ):
+        try:
+            loader(PROJECT_ROOT)
+        except content_catalogues.CatalogueError as exc:
+            errors.extend(exc.errors)
+    return errors
+
+
 def main():
     parser = argparse.ArgumentParser(description="Phi language validator")
     parser.add_argument("command", nargs="?", default="check",
@@ -1390,6 +1409,12 @@ def main():
             errors.extend(check_citations())
         if not args.paths or "documents/reference/compounds.md" in args.paths:
             errors.extend(check_compound_registry(lexicon_words))
+        if not args.paths or any(
+            Path(path).parts
+            and Path(path).parts[0] in {"texts", "pamphlets"}
+            for path in args.paths
+        ):
+            errors.extend(check_content_catalogues())
 
     for e in errors:
         print(f"ERROR   {e}")

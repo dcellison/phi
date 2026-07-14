@@ -1,0 +1,58 @@
+{
+  "pamphlets": [
+    {
+      "directory": "relative_clauses",
+      "title": "Relative clauses in Phi",
+      "summary": "The whole description before the noun: pre-nominal relative clauses from first principles to nested patterns, the errors English pulls you toward, and exercises with a full answer key.",
+      "dual_script": false
+    },
+    {
+      "directory": "complementizers",
+      "title": "Complementizers and embedded clauses in Phi",
+      "summary": "Thoughts within thoughts: the three opener\u2013closer pairs \u2014 statements, questions, quotations \u2014 why the closers exist, and enough practice to make them reflex.",
+      "dual_script": false
+    },
+    {
+      "directory": "evidentiality",
+      "title": "Evidentiality in Phi",
+      "summary": "Four particles for how you know \u2014 witnessed, inferred, told, assumed \u2014 drilled from the snake at the well to the honest journal. Phi does not ask you to be certain; it asks you to be exact about how you are not.",
+      "dual_script": false
+    },
+    {
+      "directory": "ternary_numerals",
+      "title": "Counting in Phi: the ternary numerals and the four natures",
+      "summary": "Three number-words, four group-words, four kinds of being \u2014 counting drilled to reflex, and then the harder skill: the honest about, where the sentence gets shorter as it gets truer.",
+      "dual_script": false
+    },
+    {
+      "directory": "naming",
+      "title": "How Phi names people",
+      "summary": "A name is a word someone carries: ne the spoken capital, kona the raised hand, three honorifics that announce relationship rather than rank \u2014 and the family register, where a name at rest is proof of presence.",
+      "dual_script": false
+    },
+    {
+      "directory": "spoken_punctuation",
+      "title": "Punctuation you can hear",
+      "summary": "Core Phi writes one mark and lexicalizes the rest: wa the question, shola and sholo the quotation boundary, kona the address, ne the name, and a dictation practice whose limits are stated explicitly.",
+      "dual_script": false
+    },
+    {
+      "directory": "source_material",
+      "title": "Source material beside Phi",
+      "summary": "How Phi uses vocabulary, transparent expressions, modules, and productive names while exact records, scripts, notation, testimony, and quotations remain in their own medium.",
+      "dual_script": false
+    },
+    {
+      "directory": "three_slots",
+      "title": "The three slots",
+      "summary": "The whole grammar is thirty-five small words that never change: the frame, the stack, and the word's dress, drilled to reflex \u2014 with the interaction tables, the ruled readings, and the evening question where every particle costs what it claims.",
+      "dual_script": false
+    },
+    {
+      "directory": "tengwar_mode",
+      "title": "How Phi is written in Tengwar",
+      "summary": "A second hand for the same language: the fifteen consonant tengwar, the vowel tehtar that ride above and below them, and the one true invention \u2014 a hiatus rule that needs no vowel carrier at all, because Phi's own sound rules never leave it needing one.",
+      "dual_script": true
+    }
+  ]
+}

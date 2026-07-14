@@ -12,6 +12,7 @@ import shutil
 from pathlib import Path
 
 from compound_registry import load_compounds
+from content_catalogues import load_pamphlet_catalogue, load_text_catalogue
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE_SRC = ROOT / "site"
@@ -22,6 +23,13 @@ VOCABULARY_ENTRY_DIRS = tuple(
 )
 SCHEMA = json.loads((VOCABULARY_DIR / "schema.json").read_text(encoding="utf-8"))
 FIELDS = list(SCHEMA["properties"])
+TEXT_CATALOGUE = load_text_catalogue(ROOT)
+PAMPHLET_CATALOGUE = load_pamphlet_catalogue(ROOT)
+TEXTS = [work for work in TEXT_CATALOGUE if work["kind"] == "short"]
+BOOKS = [work for work in TEXT_CATALOGUE if work["kind"] == "book"]
+if len(BOOKS) != 1:
+    raise ValueError("the site renderer currently expects exactly one catalogued book")
+NEWS_WORK = BOOKS[0]
 
 
 def prepare_site_output():
@@ -263,11 +271,13 @@ print("wrote build/site/short_road.html from short_road.md")
 # ---- primer reader: primer/*.md rendered to build/site/primer/ ----
 
 TEXT_SITE_PATHS = {
-    path.relative_to(ROOT).as_posix(): f"{path.stem}.html"
-    for path in sorted((ROOT / "texts").glob("*.md"))
-    if path.name != "README.md"
+    f"texts/{work['path']}": f"{Path(work['path']).stem}.html"
+    for work in TEXT_CATALOGUE
+    if work["kind"] == "short"
 }
-for chapter in sorted((ROOT / "texts" / "news_from_nowhere").glob("chapter_*.md")):
+for chapter in sorted(
+    (ROOT / "texts" / NEWS_WORK["path"]).glob("chapter_*.md")
+):
     repo_path = chapter.relative_to(ROOT).as_posix()
     TEXT_SITE_PATHS[repo_path] = f"news_from_nowhere/{chapter.stem}.html"
 
@@ -650,56 +660,23 @@ def texts_page(body, title, depth=1, footer_nav=None):
 </html>
 """
 
-TEXTS = [
-    ("metta_sutta", "lothea thole \u2014 The Practice of Love", "The first text written in Phi: the Metta Sutta followed through all ten verses, with each source claim and image given a place in the language."),
-    ("solarpunk_manifesto", "sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto", "The Solarpunk Community's five opening paragraphs and 22 propositions in close Phi translation. Political claims, aesthetic references, and practical proposals stay aligned to the licensed source."),
-    ("north_wind_and_sun", "nitho howeli nela sileta \u2014 The North Wind and the Sun", "One familiar fable in two Phi renderings: a close translation for hearing the language, followed by a transmutation and a comparison through the five pillars."),
-    ("human_rights_article_one", "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights", "Article 1 in two Phi renderings: a close translation preserves rights and conscience, then a transmutation turns toward recognized entitlement and reciprocal kind conduct."),
-    ("babel_text", "ta haluma \u2014 the Babel text", "Genesis 11:1-9 in two Phi renderings: a close translation preserves confounding and forced dispersal, while the transmutation reads scattering as sowing and every language as a garden."),
-    ("ring_verse_refusal", "naweri \u2014 the Ring Verse, refused", "A refusal that names coercion and imposed tying while declining to make ruler or lord ordinary Phi roles."),
-    ("schleicher_fable", "mophira nela lo kalora \u2014 Schleicher's fable", "Schleicher's 1868 test text in two Phi renderings: a close translation retains the master claim, while a transmutation names coercion and exploitation without granting the title."),
-    ("little_prince_excerpts", "thiku miona lue silero \u2014 from The Little Prince", "Three excerpts in which the source title keeps its prince, the Phi title describes a small person from the stars, and taming becomes mutual bond."),
-    ("velveteen_rabbit", "wuloe wetha tupiwa \u2014 The Velveteen Rabbit", "Williams's full story, with Real learned through love and the hard scenes of disability, fever, contamination, coercion, burning, and return stated plainly."),
-    ("prophet_excerpts", "phewo phelui \u2014 from The Prophet", "Three selected teachings by Gibran. On Children appears in two forms: the close translation retains the bow and arrow, while the transmutation gives their motion to a tree and its wind-carried seed."),
-    ("tao_te_ching", "keiro \u2014 from the Tao Te Ching", "Five Legge chapters in two Phi renderings. The close translation covers every proposition in those chapters; the transmutation stays with household images and recasts authority and force."),
-    ("heart_sutra", "nulo sano korua \u2014 the Heart Sutra", "The smaller Heart Sutra in Müller's 1894 English, rendered twice in Phi: completed crossing in the translation and a communal wish in the transmutation."),
-]
-
-TEXT_METHODS = {
-    "metta_sutta": "Translation",
-    "solarpunk_manifesto": "Translation",
-    "north_wind_and_sun": "Translation + transmutation",
-    "human_rights_article_one": "Translation + transmutation",
-    "babel_text": "Translation + transmutation",
-    "ring_verse_refusal": "Transmutation",
-    "schleicher_fable": "Translation + transmutation",
-    "little_prince_excerpts": "Transmutation",
-    "velveteen_rabbit": "Transmutation",
-    "prophet_excerpts": "Translation + transmutation",
-    "tao_te_ching": "Translation + transmutation",
-    "heart_sutra": "Translation + transmutation",
-}
-
-
-def text_method(stem):
-    return TEXT_METHODS[stem]
-
-
-for stem, title, blurb in TEXTS:
-    md = (ROOT / "texts" / f"{stem}.md").read_text()
-    method = text_method(stem)
+for work in TEXTS:
+    source = ROOT / "texts" / work["path"]
+    stem = source.stem
+    md = source.read_text()
+    method = work["method"]
     rendered = md_to_html(md).replace("</h1>", f'</h1>\n<p class="text-method">{method}</p>', 1)
-    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, title))
+    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, work["title"]))
 
-NEWS_SRC = ROOT / "texts" / "news_from_nowhere"
-NEWS_OUT = TEXTS_OUT / "news_from_nowhere"
+NEWS_SRC = ROOT / "texts" / NEWS_WORK["path"]
+NEWS_OUT = TEXTS_OUT / NEWS_WORK["path"]
 prepare_html_output(NEWS_OUT)
 news_chapters = sorted(NEWS_SRC.glob("chapter_*.md"))
 for i, chapter in enumerate(news_chapters):
     chapter_number = int(chapter.stem.split("_")[1])
     chapter_title = title_of(chapter.read_text())
     rendered = md_to_html(chapter.read_text()).replace(
-        "</h1>", '</h1>\n<p class="text-method">Transmutation</p>', 1
+        "</h1>", f'</h1>\n<p class="text-method">{NEWS_WORK["method"]}</p>', 1
     )
     prev_number = (
         int(news_chapters[i - 1].stem.split("_")[1]) if i > 0 else None
@@ -726,7 +703,7 @@ for i, chapter in enumerate(news_chapters):
 
 news_readme = md_to_html((NEWS_SRC / "README.md").read_text())
 news_readme = news_readme.replace(
-    "</h1>", '</h1>\n<p class="text-method">Transmutation</p>', 1
+    "</h1>", f'</h1>\n<p class="text-method">{NEWS_WORK["method"]}</p>', 1
 )
 news_readme = re.sub(
     r'href="(chapter_[0-9]+)\.md"', r'href="\1.html"', news_readme
@@ -743,12 +720,14 @@ toc = ["<h1>The texts</h1>",
        "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel, the Heart Sutra, and five Tao chapters apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page. Each paired text then shows where the methods part.</p>",
        "<p>A close translation answers to the source's claims and distinctions in natural Phi. Its purpose here is practical: to show that Phi can handle any source on its own terms and produce a close analogue, even when Phi would tell it differently. Every rendering says what it owes the source.</p>",
        "<p>Transmutation is Phi's preferred method because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. This is how transmutation preserves the heart of Phi. Seven works put both methods side by side so a reader can see what changed and why.</p>"]
-for stem, title, blurb in TEXTS:
-    toc.append(f'<h2><a href="{stem}.html">{title}</a></h2><p class="text-method">{text_method(stem)}</p><p>{blurb}</p>')
-toc.append('<h2><a href="news_from_nowhere/index.html">nophi lue mawha lokue &mdash; News from Nowhere</a></h2><p class="text-method">Transmutation</p><p>Morris\'s novel is one work in 32 chapters. The chapters on the shelf carry its political argument from a winter meeting into a changed London and cite the source witness stored beside them.</p>')
+for work in TEXTS:
+    stem = Path(work["path"]).stem
+    toc.append(f'<h2><a href="{stem}.html">{work["title"]}</a></h2><p class="text-method">{work["method"]}</p><p>{work["summary"]}</p>')
+news_toc_title = NEWS_WORK["title"].replace("—", "&mdash;")
+toc.append(f'<h2><a href="{NEWS_WORK["path"]}/index.html">{news_toc_title}</a></h2><p class="text-method">{NEWS_WORK["method"]}</p><p>{NEWS_WORK["summary"]}</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")
 (TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents", footer_nav=""))
-print(f"wrote build/site/texts/: {len(TEXTS) + 1} works, {len(news_chapters)} News from Nowhere chapters + contents")
+print(f"wrote build/site/texts/: {len(TEXT_CATALOGUE)} works, {len(news_chapters)} News from Nowhere chapters + contents")
 
 # ---- the pamphlets: deep-dive companions rendered to build/site/pamphlets/ ----
 PAMPH_OUT = BUILD_SITE / "pamphlets"
@@ -782,33 +761,17 @@ def pamphlet_page(body, title, footer_nav=""):
 </html>
 """
 
-PAMPHLETS = [
-    ("relative_clauses", "Relative clauses in Phi",
-     "The whole description before the noun: pre-nominal relative clauses from first principles to nested patterns, the errors English pulls you toward, and exercises with a full answer key."),
-    ("complementizers", "Complementizers and embedded clauses in Phi",
-     "Thoughts within thoughts: the three opener–closer pairs — statements, questions, quotations — why the closers exist, and enough practice to make them reflex."),
-    ("evidentiality", "Evidentiality in Phi",
-     "Four particles for how you know — witnessed, inferred, told, assumed — drilled from the snake at the well to the honest journal. Phi does not ask you to be certain; it asks you to be exact about how you are not."),
-    ("ternary_numerals", "Counting in Phi: the ternary numerals and the four natures",
-     "Three number-words, four group-words, four kinds of being — counting drilled to reflex, and then the harder skill: the honest about, where the sentence gets shorter as it gets truer."),
-    ("naming", "How Phi names people",
-     "A name is a word someone carries: ne the spoken capital, kona the raised hand, three honorifics that announce relationship rather than rank — and the family register, where a name at rest is proof of presence."),
-    ("spoken_punctuation", "Punctuation you can hear",
-     "Core Phi writes one mark and lexicalizes the rest: wa the question, shola and sholo the quotation boundary, kona the address, ne the name, and a dictation practice whose limits are stated explicitly."),
-    ("source_material", "Source material beside Phi",
-     "How Phi uses vocabulary, transparent expressions, modules, and productive names while exact records, scripts, notation, testimony, and quotations remain in their own medium."),
-    ("three_slots", "The three slots",
-     "The whole grammar is thirty-five small words that never change: the frame, the stack, and the word's dress, drilled to reflex — with the interaction tables, the ruled readings, and the evening question where every particle costs what it claims."),
-    ("tengwar_mode", "How Phi is written in Tengwar",
-     "A second hand for the same language: the fifteen consonant tengwar, the vowel tehtar that ride above and below them, and the one true invention — a hiatus rule that needs no vowel carrier at all, because Phi's own sound rules never leave it needing one."),
-]
+PAMPHLETS = PAMPHLET_CATALOGUE
 toc = ["<h1>The pamphlets</h1>",
        "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]
 pamph_pages = 0
-for dirname, title, blurb in PAMPHLETS:
+for pamphlet in PAMPHLETS:
+    dirname = pamphlet["directory"]
+    title = pamphlet["title"]
+    blurb = pamphlet["summary"]
     pfiles = sorted((ROOT / "pamphlets" / dirname).glob("*.md"))
     ptitles = [title_of(f.read_text()) for f in pfiles]
-    dual = dirname == "tengwar_mode"
+    dual = pamphlet["dual_script"]
     for i, f in enumerate(pfiles):
         html = md_to_html(f.read_text())
         body = tengwarize_dual(html) if dual else html

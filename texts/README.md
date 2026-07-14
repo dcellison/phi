@@ -6,18 +6,22 @@ Short works each have one Markdown file. A book gets its own directory, where it
 
 ## Works
 
-| Work | Method | Text |
-|---|---|---|
-| The Metta Sutta | Translation | [Read](metta_sutta.md) |
-| A Solarpunk Manifesto | Translation | [Read](solarpunk_manifesto.md) |
-| The North Wind and the Sun | Translation + transmutation | [Read](north_wind_and_sun.md) |
-| Universal Declaration of Human Rights, Article 1 | Translation + transmutation | [Read](human_rights_article_one.md) |
-| The Babel text | Translation + transmutation | [Read](babel_text.md) |
-| The Ring Verse | Transmutation | [Read](ring_verse_refusal.md) |
-| Schleicher's fable | Translation + transmutation | [Read](schleicher_fable.md) |
-| The Little Prince, selections | Transmutation | [Read](little_prince_excerpts.md) |
-| The Velveteen Rabbit | Transmutation | [Read](velveteen_rabbit.md) |
-| The Prophet, selections | Translation + transmutation | [Read](prophet_excerpts.md) |
-| Tao Te Ching, selections | Translation + transmutation | [Read](tao_te_ching.md) |
-| The Heart Sutra | Translation + transmutation | [Read](heart_sutra.md) |
-| News from Nowhere | Transmutation | [Open the book](news_from_nowhere/) |
+| Work | Method | Coverage | Text |
+|---|---|---|---|
+| The Metta Sutta | Translation | All ten verses in Fausböll's English. | [Read](metta_sutta.md) |
+| A Solarpunk Manifesto | Translation | Five opening paragraphs and all 22 propositions. | [Read](solarpunk_manifesto.md) |
+| The North Wind and the Sun | Translation + transmutation | The complete fable in two renderings, followed by their comparison. | [Read](north_wind_and_sun.md) |
+| Universal Declaration of Human Rights, Article 1 | Translation + transmutation | Both sentences in two renderings, followed by their comparison. | [Read](human_rights_article_one.md) |
+| The Babel text | Translation + transmutation | Genesis 11:1-9 in two renderings. | [Read](babel_text.md) |
+| The Ring Verse | Transmutation | The familiar four lines answered with a refusal. | [Read](ring_verse_refusal.md) |
+| Schleicher's fable | Translation + transmutation | The complete fable in two renderings. | [Read](schleicher_fable.md) |
+| The Little Prince, selections | Transmutation | Three short passages from Katherine Woods's translation. | [Read](little_prince_excerpts.md) |
+| The Velveteen Rabbit | Transmutation | The complete story. | [Read](velveteen_rabbit.md) |
+| The Prophet, selections | Translation + transmutation | Three teachings, with On Children rendered both ways. | [Read](prophet_excerpts.md) |
+| Tao Te Ching, selections | Translation + transmutation | Legge's chapters 8, 11, 17, 63, and 76 rendered both ways. | [Read](tao_te_ching.md) |
+| The Heart Sutra | Translation + transmutation | Müller's smaller Heart Sutra in two renderings. | [Read](heart_sutra.md) |
+| News from Nowhere | Transmutation | The first three chapters of a planned 32. | [Open the book](news_from_nowhere/) |
+
+## Maintaining the shelf
+
+The machine-readable [catalogue](catalogue.json) owns the website order, method labels, display titles, and summaries. Every short work and book directory appears there once. The site build stops when the catalogue and the shelf disagree.
