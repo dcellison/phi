@@ -78,6 +78,7 @@ import compound_registry
 import content_catalogues
 import generate_reference
 import name_forms
+import vocabulary_prose_coverage
 
 PROJECT_ROOT = Path(__file__).parent.parent
 MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "validation" / "minimal_pairs_baseline.txt"
@@ -91,6 +92,9 @@ VOCABULARY_ENTRY_DIRS = tuple(
 )
 VOCABULARY_SCHEMA_FILE = VOCABULARY_DIR / "schema.json"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
+VOCABULARY_PROSE_COVERAGE_FILE = (
+    PROJECT_ROOT / "documents" / "validation" / "vocabulary_prose_coverage.json"
+)
 
 DOC_ROOTS = ["documents", "project", "manual", "pamphlets", "primer", "texts", "book", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
 ACTIVE_PROSE_ROOTS = ["canon.md", *DOC_ROOTS, "vocabulary"]
@@ -550,8 +554,8 @@ def check_lexicon(entries):
 
     # Phi examples quoted inside JSON prose fields must use real words
     # in canon Slot 1 order, and single-word citations "'word' (gloss)"
-    # must cite real words with their real glosses; sound-symbolism text
-    # may only claim sounds the word contains.
+    # must cite real words with their real glosses. Articulatory and
+    # sound-symbolism text may only claim sounds the word contains.
     lexicon_words = {d.get("word", "") for _, d in entries}
     content_words = {
         d.get("word", "") for rel, d in entries
@@ -572,12 +576,17 @@ def check_lexicon(entries):
             if len(s) >= 2:
                 own_units.add(s[:-1])
         prose_fields = {
+            "concept": data.get("concept", ""),
             "description": data.get("description", ""),
+            "articulatory_notes": data.get("articulatory_notes", ""),
             "sound_symbolism": data.get("sound_symbolism", ""),
             "grammatical_notes": data.get("grammatical_notes", ""),
+            "usage_notes": data.get("usage_notes", ""),
         }
         for k, v in data.get("pillars", {}).items():
             prose_fields[f"pillars.{k}"] = v
+        for k, v in data.get("semantic_domains", {}).items():
+            prose_fields[f"semantic_domains.{k}"] = v
         for field, text in prose_fields.items():
             for span in QUOTED.findall(text):
                 tokens = [t.strip(".?!") for t in span.split()]
@@ -639,27 +648,70 @@ def check_lexicon(entries):
                         errors.append(
                             f"{rel}: {field} cites unknown word '{cited}' ({paren})"
                         )
-        # sound-symbolism claims: quoted 1-2 letter units must be sounds
-        # or syllables the word actually has
+        examples = data.get("examples", [])
+        for index, example in enumerate(examples):
+            errors.extend(structured_example_errors(
+                rel,
+                index,
+                example.get("phi", ""),
+                lexicon_words,
+                content_words,
+                prepositions,
+                slot1_rank,
+            ))
+        if examples and not structured_examples_use_word(word, examples):
+            errors.append(
+                f"{rel}: structured examples do not use entry word '{word}'"
+            )
+
+        # Articulation and sound-symbolism claims: quoted short units must
+        # be sounds or syllables the word actually has.
         syls = syllabify(word) or []
         units = set(syls)
         for s in syls:
             if len(s) >= 2:
                 units.add(s[:-1])  # onset
             units.add(s[-1])       # nucleus
-        for claim in re.findall(
-            r"(?<![A-Za-z])'([a-z]{1,3})'(?![A-Za-z])",
-            data.get("sound_symbolism", ""),
-        ):
-            if set(claim) <= PHI_LETTERS and (
-                claim in {"ph", "th", "sh", "wh"}
-                or len(claim) <= 2
+        for field in ("articulatory_notes", "sound_symbolism"):
+            for claim in re.findall(
+                r"(?<![A-Za-z])'([a-z]{1,3})'(?![A-Za-z])",
+                data.get(field, ""),
             ):
-                if claim not in units and claim not in word:
-                    warnings.append(
-                        f"{rel}: sound_symbolism claims '{claim}' but "
-                        f"'{word}' contains no such unit"
-                    )
+                if set(claim) <= PHI_LETTERS and (
+                    claim in {"ph", "th", "sh", "wh"}
+                    or len(claim) <= 2
+                ):
+                    if claim not in units and claim not in word:
+                        warnings.append(
+                            f"{rel}: {field} claims '{claim}' but "
+                            f"'{word}' contains no such unit"
+                        )
+
+    coverage_entries = [
+        (rel.parts[1], data) for rel, data in entries if len(rel.parts) > 1
+    ]
+    expected_coverage = vocabulary_prose_coverage.build_report(coverage_entries)
+    if not VOCABULARY_PROSE_COVERAGE_FILE.exists():
+        errors.append(
+            "documents/validation/vocabulary_prose_coverage.json is missing; "
+            "rerun: python3 scripts/vocabulary_prose_coverage.py"
+        )
+    else:
+        try:
+            recorded_coverage = json.loads(
+                VOCABULARY_PROSE_COVERAGE_FILE.read_text(encoding="utf-8")
+            )
+        except json.JSONDecodeError as error:
+            errors.append(
+                "documents/validation/vocabulary_prose_coverage.json: "
+                f"JSON parse error: {error}"
+            )
+        else:
+            if recorded_coverage != expected_coverage:
+                errors.append(
+                    "documents/validation/vocabulary_prose_coverage.json is "
+                    "stale; rerun: python3 scripts/vocabulary_prose_coverage.py"
+                )
 
     for word, files in sorted(by_word.items()):
         if len(files) > 1:
@@ -952,6 +1004,70 @@ def is_phi_line(raw_line, lexicon_words, strict=False):
 
 def phi_tokens(raw_line):
     return strip_brackets(raw_line).split()
+
+
+def structured_example_errors(
+    rel,
+    index,
+    phi,
+    lexicon_words,
+    content_words,
+    prepositions,
+    slot1_rank,
+):
+    """Validate one target-contract example beyond its JSON shape."""
+    label = f"{rel}: examples[{index}].phi"
+    errors = []
+    if phi != phi.lower():
+        errors.append(f"{label}: Phi examples use lowercase only")
+    if not re.fullmatch(
+        r"[a-z]+(?: [a-z]+)*\.(?: [a-z]+(?: [a-z]+)*\.)*", phi
+    ):
+        errors.append(
+            f"{label}: use complete lowercase Phi sentences with single "
+            "spaces and periods only"
+        )
+        return errors
+
+    for sentence_index, sentence in enumerate(phi.split(".")[:-1], 1):
+        sentence_label = (
+            label if phi.count(".") == 1
+            else f"{label} sentence {sentence_index}"
+        )
+        tokens = sentence.split()
+        name_indices = name_forms.marked_atom_indices(tokens)
+        for token_index, token in enumerate(tokens):
+            if token_index in name_indices:
+                atom_errors = name_atom_errors(token, lexicon_words, content_words)
+                if atom_errors:
+                    errors.append(
+                        f"{sentence_label}: invalid productive name-form "
+                        f"'{token}': {'; '.join(atom_errors)}"
+                    )
+                continue
+            if token not in lexicon_words and token not in WHITELIST:
+                errors.append(f"{sentence_label}: unknown Phi word '{token}'")
+        for run in slot1_misorders(tokens, slot1_rank):
+            errors.append(
+                f"{sentence_label}: Slot 1 order violation '{run}' "
+                "(canon: Tense > Aspect > Voice > Evidentiality > Modality > "
+                "Negation)"
+            )
+        for run in preposition_misplacements(
+            sentence, prepositions, slot1_rank
+        ):
+            errors.append(
+                f"{sentence_label}: postposed preposition near '{run}' "
+                "(canon: every preposition precedes its object)"
+            )
+    return errors
+
+
+def structured_examples_use_word(word, examples):
+    """Return whether at least one structured example demonstrates the entry."""
+    return any(
+        word in phi_tokens(example.get("phi", "")) for example in examples
+    )
 
 
 # Household-corpus words that recur as names and gloss as themselves when

@@ -43,12 +43,11 @@ The full function-word shape charter is a canon ruling (see `/canon.md`); the ch
 - [ ] **Plain disyllable (CV.CV)**: The frame shape — complementizers (openers -a, closers -o), frame conjunctions, classifiers, the vocative, and the -so pronoun pair (miso, wiso)
 - [ ] **Multi-syllable**: Required for content words; quantifiers, discourse markers (fricative-initial — the breath before reframing), and interrogatives are content-shaped (2-3 syllables)
 
-### Sound Symbolism Alignment
-- [ ] **Fricatives (ph,th,sh,wh)**: Abstract, philosophical, or gentle concepts
-- [ ] **Liquids (l,r,w)**: Flow, connection, continuity
-- [ ] **Nasals (m,n)**: Grounding, stability, internality
-- [ ] **Stops (p,t,k)**: Clear boundaries, definition (use sparingly)
-- [ ] **Vowel progression**: Consider emotional arc (e.g., closed→open = restriction→freedom)
+### Sound and articulation review
+- [ ] **Complete spoken path**: `articulatory_notes` follows the word from its opening airflow through contact and release, vowel shape, stress, and any hiatus
+- [ ] **Physical accuracy**: The note describes sounds the word contains and keeps semantic interpretation out of the mechanics
+- [ ] **Ease and distinction**: The whole form remains comfortable enough for its intended frequency and distinct from crowded neighbours
+- [ ] **Optional sound symbolism**: Record a phonesthetic association only when it feels genuine in Phi, and state it as an interpretation rather than a universal sound law or hidden morphology
 - [ ] **Word length**: Every lexical word has at most three syllables. Two syllables remain premium space for the everyday and high-frequency; three syllables are the normal content-word range. Semantic weight never licenses a fourth syllable.
 
 ## Philosophical Consistency
@@ -60,7 +59,7 @@ Phi draws openly on Buddhist mindfulness and Right Speech. Mindfulness concerns 
 "Unhurried" describes freedom from needless haste, not a required speaking speed. A speaker may use a slower pace to learn pronunciation or make room for reflection, but fluent Phi may be quick when urgency or ordinary conversation calls for it. Review whether the design keeps these practices available and audible rather than treating elapsed time as proof of them.
 
 ### Five Pillars Integration
-Each new word must explicitly connect to at least one pillar:
+A new word records a pillar only when its connection is direct and specific. A word may have no pillar field. When a connection does fit, test it against the relevant question:
 - [ ] **Solarpunk**: Sustainability, regeneration, positive futures
 - [ ] **Buddhist concepts**: Mindfulness, impermanence, non-violence
 - [ ] **Art Nouveau**: Organic forms, natural beauty, flowing patterns
@@ -92,12 +91,12 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Which values does the choice express, and what legitimate use or interpretation might it burden?
 
 ### Step 2: Sound Selection
-- Choose sounds that embody the concept's feeling
+- Choose a legal, speakable form whose rhythm and phonetic character suit its intended use
 - Ensure phonological rules are met
 - **Run the collision check**: `python3 scripts/validate_examples.py neighbors <candidate>`
   - REJECT any candidate at edit distance 1 from an existing word of the same part-of-speech class (content vs. the same function class)
   - The designed opener/closer paradigms are the sole same-class exception: each grammatical clause pair shares its first syllable and contrasts final `a` with `o`. Evaluate a new pair as one proposal, require that neither form has any additional distance-1 neighbor in its class, and prioritize the contrast in listening review
-  - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word) — note them in `grammatical_notes`
+  - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word); note a useful warning in `usage_notes`
   - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
   - Prefer three syllables unless the concept truly belongs to the daily round: the two-syllable space is the most collision-congested (approximately 5,200 legal forms, heavily grandfathered), while three syllables offer approximately 377,000 legal forms and remain the absolute lexical maximum
 
@@ -106,10 +105,11 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Verify no VVV sequences
 - Confirm pronunciation maintains pure vowels
 
-### Step 4: Philosophical and Relational Alignment
-- Write explicit connections to relevant pillars
-- Craft sound_symbolism description
-- Ensure grammatical_notes explain usage
+### Step 4: Prose and Relational Alignment
+- Write an accurate `articulatory_notes` account of the complete word
+- Decide whether an honest `sound_symbolism` association exists; omit the field when it does not
+- Record only direct pillar connections, with a rationale specific to this word
+- Add `usage_notes` only when the entry needs guidance beyond its definition and examples
 - **Identify semantic family**: What roots does this share? What words does it illuminate?
 - **Check transmutation quality**: Does this enable reframing concepts, not just renaming?
 
@@ -120,9 +120,10 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Does it improve the intended expressions without creating a broader ambiguity?
 
 ### Step 6: Canonical Entry and Teaching
-- Fill every required vocabulary field with substantive content and serialize it in canonical schema order
+- Fill the target vocabulary fields with substantive content and serialize them in canonical schema order
 - Give every content word accurate `semantic_domains` assignments and add validated `modules` membership when it belongs to optional domain vocabulary
-- Include grammatical examples that pass `python3 scripts/validate_examples.py`
+- Store at least one natural Phi and English example pair that passes `python3 scripts/validate_examples.py`
+- Refresh `documents/validation/vocabulary_prose_coverage.json` with `python3 scripts/vocabulary_prose_coverage.py`
 - Regenerate the Part VII alphabetical, domain, module, and part-of-speech references
 - Add or update a speaker-facing module chapter when the word belongs to an established vocabulary module
 
@@ -142,7 +143,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - [ ] It begins with a permitted onset, keeps every syllable open, has no VVV sequence, and duplicates no syllable with an onset
 - [ ] If it matches a current lexicon entry, that entry is a content word rather than a function or other non-content word
 - [ ] It appears after `ne` in formal, neutral, portable, and machine-validated Phi
-- [ ] It receives no lexicon file, gloss, part of speech, sound-symbolism rationale, pillar claim, or automatic core status
+- [ ] It receives no lexicon file, gloss, part of speech, articulatory note, sound-symbolism rationale, pillar claim, or automatic core status
 - [ ] A retired content form may be chosen as a name without regaining its former gloss or returning to the lexicon
 - [ ] Any otherwise valid four-syllable form is accepted without consulting lexical retirement or migration history
 - [ ] It is not rejected merely for lexical edit-distance proximity; real referential confusion is handled by clarification, as with shared human names
@@ -184,7 +185,8 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Can it report or criticize a disfavored framing faithfully when needed?
 
 ### Learnability Test
-- Is the sound-meaning association teachable without presenting symbolism as universal?
+- Does the articulatory note make the spoken form teachable and accurate?
+- If sound symbolism is claimed, is it useful without being presented as universal?
 - Can the concept be understood compositionally?
 - Does it follow all established patterns?
 - Is it distinguishable from nearby high-frequency words in recorded self-review?
@@ -217,7 +219,9 @@ Every addition to Phi should make the following practices available without clai
 ## Technical Implementation Notes
 
 ### When Using JSON Schema
-[`vocabulary/schema.json`](../vocabulary/schema.json) is the executable entry contract. Every entry has `word`, `gloss`, `ipa`, `syllables`, one scalar `pos`, `concept`, `description`, `sound_symbolism`, `grammatical_notes`, and `pillars`. Content entries also have a `semantic_domains` object and may list one or more `modules`.
+[`vocabulary/schema.json`](../vocabulary/schema.json) is the executable entry contract. Stable fields identify the `word`, `gloss`, `ipa`, `syllables`, one scalar `pos`, and `description`. The target prose contract adds required `articulatory_notes` and structured `examples`; optional `search_terms`, `usage_notes`, `sound_symbolism`, and `pillars` appear only when useful. Content entries also have a `semantic_domains` object and may list one or more `modules`.
+
+During the lexicon prose migration, the schema accepts legacy `sound_symbolism` in place of `articulatory_notes` and legacy `grammatical_notes` in place of `examples`. The deprecated `concept` and `grammatical_notes` fields are not used for new or fully revised entries. The committed coverage report measures the remaining legacy, partial, dual, and target entries.
 
 Particles alone have `slot`. A Slot 1 particle also has `slot1_rank`, whose value places it in the canonical sequence of tense, aspect, voice, evidentiality, modality, and negation. The validator reads that ordering from the entries themselves.
 

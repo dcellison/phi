@@ -80,15 +80,25 @@ These are the manual's own rules, each stated with its reason. The exemplar chap
 
 ## The lexicon register
 
-Vocabulary entries are reference entries with their own discipline. The schema sets the work each field must do; it cannot write the sentence for you. The completed entry gets a Humanizer pass everywhere it carries prose. That includes the concept label, description, sound symbolism, and grammatical notes. Pillar and semantic-domain rationales get the same treatment, as does ordinary English example text. The rules above apply, plus the following per field.
+Vocabulary entries are reference entries with their own discipline. The schema sets the work each field must do; it cannot write the sentence for you. Every English string gets the Humanizer pass. Short search terms and rationales are not exemptions. The rules above apply, plus the following per field.
 
-**description**: the word's actual range of use in two to four sentences. What it covers, one earned distinction from its nearest neighbor, and concrete situations over abstract scope-lists. A neighbor word is cited with its exact gloss, in the form 'word' (gloss). The failed pattern to avoid: a definitional range list followed by a tail of five to nine denials ("It does not establish ownership, entitlement, abundance, renewability, harmless use..."). Fold the denials into the one distinction that teaches, and let the rest go.
+**search_terms**: optional handles for discovery. Add an ordinary synonym or phrase only when a reader might search for it and the gloss does not already supply it. This field stays short; padding it with every conceivable synonym makes search worse.
 
-**sound_symbolism**: embodied poetic phonesthetics, not semantic decomposition. Name only sounds the word contains, and name them accurately. Begin with breath and contact, including the work of lips and tongue. Then hear the depth and openness of the vowels, the movement of liquids or nasals, and the way stress or hiatus shapes the whole contour. Account for the complete word, normally touching every syllable and sometimes the individual phonemes within it. A related word may be heard as a resonance, but Phi words are not assembled from syllables with fixed dictionary meanings; describe kinship of sound without inventing a hidden derivation. Semantic scope, exclusions, criteria, and institutional cautions belong in `description` or `grammatical_notes`, never here. Three or four sentences often suit a three-syllable word, though an honest shorter account is better than invented symbolism. The older fields for `muila` (earth) and `shiroka` (repair) show the intended embodied attention; their occasional excess is not part of the model.
+**description**: the word's actual range of use in two to four sentences. What it covers, one earned distinction from its nearest neighbour, and concrete situations over abstract scope-lists. A neighbouring word is cited with its exact gloss, in the form 'word' (gloss). The failed pattern to avoid: a definitional range list followed by a tail of five to nine denials ("It does not establish ownership, entitlement, abundance, renewability, harmless use..."). Fold the denials into the one distinction that teaches, and let the rest go.
 
-**grammatical_notes**: working reference. At least one worked example in valid grammar, related words named, genuine contrasts drawn. Not commentary, not philosophy.
+**articulatory_notes**: a physical account of the complete word. Follow the air and the speaking organs through each syllable. Name the contacts and releases, then attend to vowel shape, stress, or hiatus where they matter. Accuracy comes before atmosphere. The note tells a speaker how the form moves through the mouth; it does not assign meanings to its parts or finish the definition by metaphor.
 
-**pillars**: a word carries exactly the pillars that genuinely fit it, whether that is one or five. There is no target number. Each rationale must pass the paste test below.
+**sound_symbolism**: optional embodied phonesthetics. Use it when the sound offers a genuine mnemonic, felt contour, or audible kinship within Phi. Present that connection as an interpretation, never as a universal property of a phoneme or a dictionary meaning hidden in a syllable. It need not account for every segment merely to justify the field. Semantic boundaries belong in `description`; physical pronunciation belongs in `articulatory_notes`.
+
+**usage_notes**: optional working reference. Use it for syntax, collocations, contrasts, or a related-word distinction that the definition and examples do not make plain. It is not a second description, commentary, or a philosophy paragraph.
+
+**examples**: one or more structured pairs, each with a complete lowercase Phi sentence and a natural English translation. At least one pair uses the entry word. The Phi uses periods only and must pass the language validator. The explorer derives its gloss line from the canonical lexicon, so the entry does not store a duplicate gloss that could drift.
+
+**pillars**: optional direct connections. A word carries only the pillars that genuinely fit it, and each rationale must pass the paste test below. A neutral word needs no decorative philosophy.
+
+**semantic_domains**: required classification for content words. Each rationale says why this word belongs in that domain rather than repeating the domain's title.
+
+**Migration-only fields**: `concept` and `grammatical_notes` remain readable while old entries move to the target contract. Do not add them to a new entry or retain them after a complete prose revision.
 
 **Never in an entry**: "beautifully," "perfectly embodies," "reminds us," rhetorical questions, or philosophy that repeats what the project's protocol documents already say. An entry's philosophy lives in its specifics.
 
@@ -110,7 +120,7 @@ You cannot check yourself against "don't be severe" or "be warm." You can check 
 | Hyphen plus "bearing" | any hyphenated adjective formed by attaching "bearing" to another word | zero throughout Phi-authored prose |
 | -ing tail | comma plus participle restating the sentence | zero |
 | Semantic syllable label | an abstract concept turned into an adjective and assigned to a syllable as if it were a morpheme | zero in `sound_symbolism` |
-| Definitional spillover | semantic denials, safeguards, or scope qualifications used to finish `sound_symbolism` | zero; move the distinction to `description` or `grammatical_notes` |
+| Definitional spillover | semantic denials, safeguards, or scope qualifications used to finish `sound_symbolism` | zero; move the distinction to `description` or `usage_notes` |
 | Copula avoidance | "serves as," "functions as," "stands as" | zero |
 | Rule of three | three parallel items where two or four would be honest | flag every triple; keep only those whose three items are each specific and load different content |
 | Inline-header list | bolded label, colon, sentence | zero; prose or a real table |

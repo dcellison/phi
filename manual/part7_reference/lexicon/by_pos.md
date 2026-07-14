@@ -10,1243 +10,1243 @@
 
 ## adjective (199)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `hasoru` | pending | Pending |
-| `heloi` | generous | Generous |
-| `helu` | smooth | Smooth |
-| `hewasu` | audible | Audible |
-| `hieru` | narrow | Narrow |
-| `hiso` | clean | Clean |
-| `horae` | radiant | Radiant |
-| `hurao` | patient | Patient |
-| `kaelo` | sweet | Sweet |
-| `kaeshu` | bold | Bold |
-| `kasuno` | selfish | Selfish |
-| `katheo` | acute | Acute |
-| `kelasu` | usable | Usable |
-| `keloa` | rough | Rough |
-| `kema` | strong | Strong |
-| `keru` | bright | Bright |
-| `keruko` | sturdy | Sturdy |
-| `kesu` | determined | Determined |
-| `kethua` | hard | Hard |
-| `kiranu` | qualified | Qualified |
-| `kirethu` | legitimate | Legitimate |
-| `kiro` | precise | Precise |
-| `kishu` | thirsty | Thirsty |
-| `kithela` | valid | Valid |
-| `kolo` | equal | Equal |
-| `kolu` | steady | Steady |
-| `koluri` | reliable | Reliable |
-| `koru` | harmonious | Harmonious |
-| `kuelo` | curious | Curious |
-| `kuewa` | strange | Strange |
-| `kumoli` | hungry | Hungry |
-| `kurathi` | dry | Dry |
-| `laeno` | long | Long |
-| `lemi` | thin | Thin |
-| `letharo` | consistent | Consistent |
-| `lima` | alive | Alive |
-| `limu` | young | Young |
-| `liro` | green | Green |
-| `liroa` | playful | Playful |
-| `loetha` | open (receptive) | Open (Receptive) |
-| `lokane` | accessible | Accessible |
-| `lori` | vital | Vital |
-| `lorua` | abundant | Abundant |
-| `losha` | wide | Wide |
-| `loshi` | joyful | Joyful |
-| `lothoni` | accountable | Accountable |
-| `luroi` | nervous | Nervous |
-| `luwae` | graceful | Graceful |
-| `luwi` | flexible | Flexible |
-| `maeli` | quiet | Quiet |
-| `mirewu` | private | Private |
-| `moesha` | still | Still |
-| `mokela` | sick | Sick |
-| `moli` | gentle | Gentle |
-| `monae` | integral | Integral |
-| `monelu` | amused | Amused |
-| `motu` | humble | Humble |
-| `mueli` | plain (unadorned) | Plain |
-| `muko` | careless | Careless |
-| `mulu` | low | Low |
-| `mureli` | brown | Brown |
-| `mureo` | stable | Stable |
-| `muro` | stubborn | Stubborn |
-| `muroa` | fertile | Fertile |
-| `naphelu` | assistive | Assistive |
-| `nathoku` | contraindicated | Contraindicated |
-| `nemo` | grateful | Grateful |
-| `neri` | cool | Cool |
-| `newai` | fresh | Fresh |
-| `newu` | new | New |
-| `nilua` | shy | Shy |
-| `noalu` | tranquil | Tranquil |
-| `noeli` | warm (emotional) | Warm (Emotional) |
-| `noemi` | authentic | Authentic |
-| `noetha` | essential | Essential |
-| `nophei` | loyal | Loyal |
-| `noraku` | blocked | Blocked |
-| `norethi` | confident | Confident |
-| `noshi` | near (adj) | Near |
-| `nuawe` | together | Together |
-| `nuelo` | dark | Dark |
-| `nukesa` | expert | Expert |
-| `nuko` | black | Black |
-| `nulo` | deep | Deep |
-| `nuloe` | content | Content |
-| `nurawi` | chronic | Chronic |
-| `nuwi` | clear | Clear |
-| `palethu` | tactile | Tactile |
-| `pekira` | toxic | Toxic |
-| `peloma` | harmful | Harmful |
-| `pelui` | cold | Cold |
-| `phaeli` | tender | Tender |
-| `phaelu` | peaceful | Peaceful |
-| `phelira` | mistaken | Mistaken |
-| `phelo` | light | Light (Weight) |
-| `phelora` | beautiful | Beautiful |
-| `phena` | kind | Kind |
-| `pheno` | full | Full |
-| `phenui` | thoughtful | Thoughtful |
-| `phirae` | different | Different |
-| `phiro` | elegant | Elegant |
-| `phisoe` | creative | Creative |
-| `pholuo` | luminous | Luminous |
-| `phue` | wise | Wise |
-| `pokera` | competent | Competent |
-| `poru` | productive | Productive |
-| `poruli` | efficient | Efficient |
-| `puko` | bitter | Bitter |
-| `raelu` | tall | Tall |
-| `ralemi` | independent | Independent |
-| `ralu` | free | Free |
-| `reshi` | fast | Fast |
-| `ruesha` | compassionate | Compassionate |
-| `ruka` | complex | Complex |
-| `rulo` | red | Red |
-| `samethu` | equivalent | Equivalent |
-| `sanowu` | predictable | Predictable |
-| `saphei` | shallow | Shallow |
-| `seloi` | insightful | Insightful |
-| `selua` | aware | Aware |
-| `senao` | same | Same |
-| `serao` | old | Old |
-| `seroli` | mature | Mature |
-| `shaelo` | brave | Brave |
-| `shaemu` | organic | Organic |
-| `sheli` | impatient | Impatient |
-| `shena` | calm | Calm |
-| `sheru` | slow | Slow |
-| `shewo` | true | True |
-| `shiloa` | pure | Pure |
-| `shilu` | blue | Blue |
-| `sholu` | complete | Complete |
-| `shorenu` | immune | Immune |
-| `shoru` | dull | Dull |
-| `shorui` | weary | Weary |
-| `shurano` | safe | Safe |
-| `siloma` | simple | Simple |
-| `simoe` | rich | Rich |
-| `siora` | joy | Joy |
-| `sonu` | alone | Alone |
-| `soriu` | yellow | Yellow |
-| `sowelu` | disabled | Disabled |
-| `sulae` | warm | Warm |
-| `tawimo` | foolish | Foolish |
-| `teku` | short | Short |
-| `telua` | accurate | Accurate |
-| `thaemo` | precious | Precious |
-| `thaemu` | sincere | Sincere |
-| `thaeru` | distant | Distant |
-| `thasu` | modest | Modest |
-| `theali` | fitting | Fitting |
-| `theisa` | loud | Loud |
-| `thenui` | direct | Direct |
-| `theru` | thick | Thick |
-| `therua` | eager | Eager |
-| `thesa` | careful | Careful |
-| `thesua` | mindful | Mindful |
-| `thewuni` | legible | Legible |
-| `thiku` | small | Small |
-| `thiro` | serene | Serene |
-| `thoepa` | sacred | Sacred |
-| `tholua` | ancient | Ancient |
-| `thonai` | responsible | Responsible |
-| `thoru` | proud | Proud |
-| `thosami` | compatible | Compatible |
-| `thua` | fair | Fair |
-| `thunesi` | asynchronous | Asynchronous |
-| `thuni` | intuitive | Intuitive |
-| `thunoa` | dignified | Dignified |
-| `thurai` | vibrant | Vibrant |
-| `thuroi` | resilient | Resilient |
-| `tiso` | sharp | Sharp |
-| `towe` | well | Well |
-| `tuko` | sour | Sour |
-| `tumoa` | heavy | Heavy |
-| `waeli` | conscious | Conscious |
-| `waeshi` | wild | Wild |
-| `waora` | wondrous | Wondrous |
-| `weilo` | balanced | Balanced |
-| `welao` | good | Good |
-| `welathi` | contagious | Contagious |
-| `welua` | fragile | Fragile |
-| `wepanu` | redundant | Redundant |
-| `wero` | honest | Honest |
-| `wesha` | lazy | Lazy |
-| `wesoma` | mutual | Mutual |
-| `whalo` | large | Large |
-| `whemoa` | empty | Empty |
-| `whilo` | white | White |
-| `whoa` | whole | Whole |
-| `wiero` | imaginative | Imaginative |
-| `wipha` | restless | Restless |
-| `wiroa` | hopeful | Hopeful |
-| `wirua` | wet | Wet |
-| `woeli` | natural | Natural |
-| `woenu` | tame | Tame |
-| `wolu` | healthy | Healthy |
-| `wuero` | far (adj) | Far |
-| `wuloe` | soft | Soft |
+| Word | Gloss |
+|---|---|
+| `hasoru` | pending |
+| `heloi` | generous |
+| `helu` | smooth |
+| `hewasu` | audible |
+| `hieru` | narrow |
+| `hiso` | clean |
+| `horae` | radiant |
+| `hurao` | patient |
+| `kaelo` | sweet |
+| `kaeshu` | bold |
+| `kasuno` | selfish |
+| `katheo` | acute |
+| `kelasu` | usable |
+| `keloa` | rough |
+| `kema` | strong |
+| `keru` | bright |
+| `keruko` | sturdy |
+| `kesu` | determined |
+| `kethua` | hard |
+| `kiranu` | qualified |
+| `kirethu` | legitimate |
+| `kiro` | precise |
+| `kishu` | thirsty |
+| `kithela` | valid |
+| `kolo` | equal |
+| `kolu` | steady |
+| `koluri` | reliable |
+| `koru` | harmonious |
+| `kuelo` | curious |
+| `kuewa` | strange |
+| `kumoli` | hungry |
+| `kurathi` | dry |
+| `laeno` | long |
+| `lemi` | thin |
+| `letharo` | consistent |
+| `lima` | alive |
+| `limu` | young |
+| `liro` | green |
+| `liroa` | playful |
+| `loetha` | open (receptive) |
+| `lokane` | accessible |
+| `lori` | vital |
+| `lorua` | abundant |
+| `losha` | wide |
+| `loshi` | joyful |
+| `lothoni` | accountable |
+| `luroi` | nervous |
+| `luwae` | graceful |
+| `luwi` | flexible |
+| `maeli` | quiet |
+| `mirewu` | private |
+| `moesha` | still |
+| `mokela` | sick |
+| `moli` | gentle |
+| `monae` | integral |
+| `monelu` | amused |
+| `motu` | humble |
+| `mueli` | plain (unadorned) |
+| `muko` | careless |
+| `mulu` | low |
+| `mureli` | brown |
+| `mureo` | stable |
+| `muro` | stubborn |
+| `muroa` | fertile |
+| `naphelu` | assistive |
+| `nathoku` | contraindicated |
+| `nemo` | grateful |
+| `neri` | cool |
+| `newai` | fresh |
+| `newu` | new |
+| `nilua` | shy |
+| `noalu` | tranquil |
+| `noeli` | warm (emotional) |
+| `noemi` | authentic |
+| `noetha` | essential |
+| `nophei` | loyal |
+| `noraku` | blocked |
+| `norethi` | confident |
+| `noshi` | near (adj) |
+| `nuawe` | together |
+| `nuelo` | dark |
+| `nukesa` | expert |
+| `nuko` | black |
+| `nulo` | deep |
+| `nuloe` | content |
+| `nurawi` | chronic |
+| `nuwi` | clear |
+| `palethu` | tactile |
+| `pekira` | toxic |
+| `peloma` | harmful |
+| `pelui` | cold |
+| `phaeli` | tender |
+| `phaelu` | peaceful |
+| `phelira` | mistaken |
+| `phelo` | light |
+| `phelora` | beautiful |
+| `phena` | kind |
+| `pheno` | full |
+| `phenui` | thoughtful |
+| `phirae` | different |
+| `phiro` | elegant |
+| `phisoe` | creative |
+| `pholuo` | luminous |
+| `phue` | wise |
+| `pokera` | competent |
+| `poru` | productive |
+| `poruli` | efficient |
+| `puko` | bitter |
+| `raelu` | tall |
+| `ralemi` | independent |
+| `ralu` | free |
+| `reshi` | fast |
+| `ruesha` | compassionate |
+| `ruka` | complex |
+| `rulo` | red |
+| `samethu` | equivalent |
+| `sanowu` | predictable |
+| `saphei` | shallow |
+| `seloi` | insightful |
+| `selua` | aware |
+| `senao` | same |
+| `serao` | old |
+| `seroli` | mature |
+| `shaelo` | brave |
+| `shaemu` | organic |
+| `sheli` | impatient |
+| `shena` | calm |
+| `sheru` | slow |
+| `shewo` | true |
+| `shiloa` | pure |
+| `shilu` | blue |
+| `sholu` | complete |
+| `shorenu` | immune |
+| `shoru` | dull |
+| `shorui` | weary |
+| `shurano` | safe |
+| `siloma` | simple |
+| `simoe` | rich |
+| `siora` | joy |
+| `sonu` | alone |
+| `soriu` | yellow |
+| `sowelu` | disabled |
+| `sulae` | warm |
+| `tawimo` | foolish |
+| `teku` | short |
+| `telua` | accurate |
+| `thaemo` | precious |
+| `thaemu` | sincere |
+| `thaeru` | distant |
+| `thasu` | modest |
+| `theali` | fitting |
+| `theisa` | loud |
+| `thenui` | direct |
+| `theru` | thick |
+| `therua` | eager |
+| `thesa` | careful |
+| `thesua` | mindful |
+| `thewuni` | legible |
+| `thiku` | small |
+| `thiro` | serene |
+| `thoepa` | sacred |
+| `tholua` | ancient |
+| `thonai` | responsible |
+| `thoru` | proud |
+| `thosami` | compatible |
+| `thua` | fair |
+| `thunesi` | asynchronous |
+| `thuni` | intuitive |
+| `thunoa` | dignified |
+| `thurai` | vibrant |
+| `thuroi` | resilient |
+| `tiso` | sharp |
+| `towe` | well |
+| `tuko` | sour |
+| `tumoa` | heavy |
+| `waeli` | conscious |
+| `waeshi` | wild |
+| `waora` | wondrous |
+| `weilo` | balanced |
+| `welao` | good |
+| `welathi` | contagious |
+| `welua` | fragile |
+| `wepanu` | redundant |
+| `wero` | honest |
+| `wesha` | lazy |
+| `wesoma` | mutual |
+| `whalo` | large |
+| `whemoa` | empty |
+| `whilo` | white |
+| `whoa` | whole |
+| `wiero` | imaginative |
+| `wipha` | restless |
+| `wiroa` | hopeful |
+| `wirua` | wet |
+| `woeli` | natural |
+| `woenu` | tame |
+| `wolu` | healthy |
+| `wuero` | far (adj) |
+| `wuloe` | soft |
 
 ## classifier (4)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `himo` | HUM.CLF | Human Classifier |
-| `lipha` | LIFE.CLF | Living Classifier |
-| `nophe` | ABST.CLF | Abstract Classifier |
-| `themo` | THING.CLF | Thing Classifier |
+| Word | Gloss |
+|---|---|
+| `himo` | HUM.CLF |
+| `lipha` | LIFE.CLF |
+| `nophe` | ABST.CLF |
+| `themo` | THING.CLF |
 
 ## complementizer (7)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `mena` | DECL.COMP | That |
-| `meno` | DECL.COMP.CLOSE | End declarative clause |
-| `rena` | REL | Which |
-| `shola` | QUOT.COMP | Quote |
-| `sholo` | QUOT.COMP.CLOSE | End quote |
-| `wela` | INT.COMP | Whether |
-| `welo` | INT.COMP.CLOSE | End embedded question |
+| Word | Gloss |
+|---|---|
+| `mena` | DECL.COMP |
+| `meno` | DECL.COMP.CLOSE |
+| `rena` | REL |
+| `shola` | QUOT.COMP |
+| `sholo` | QUOT.COMP.CLOSE |
+| `wela` | INT.COMP |
+| `welo` | INT.COMP.CLOSE |
 
 ## conjunction (8)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `lao` | BECAUSE | Because of |
-| `lila` | PURP | For |
-| `nela` | COORD | And |
-| `pheo` | POST | After |
-| `phoe` | ANT | Before |
-| `shai` | CONC | Despite |
-| `sola` | DISJ | Or |
-| `thona` | ADVRS | But |
+| Word | Gloss |
+|---|---|
+| `lao` | BECAUSE |
+| `lila` | PURP |
+| `nela` | COORD |
+| `pheo` | POST |
+| `phoe` | ANT |
+| `shai` | CONC |
+| `sola` | DISJ |
+| `thona` | ADVRS |
 
 ## discourse (7)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `phisu` | EXMP | For Example |
-| `shekoi` | SPEC | Specifically |
-| `shelao` | SUMM | In Summary |
-| `sheno` | ADD | Furthermore |
-| `shorela` | REPH | In Other Words |
-| `thelao` | CONS | Consequent |
-| `whekai` | CONTR | Contrasting |
+| Word | Gloss |
+|---|---|
+| `phisu` | EXMP |
+| `shekoi` | SPEC |
+| `shelao` | SUMM |
+| `sheno` | ADD |
+| `shorela` | REPH |
+| `thelao` | CONS |
+| `whekai` | CONTR |
 
 ## interjection (20)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `halu` | aww | Aww |
-| `hao` | pardon | What? |
-| `hei` | hey | Hey |
-| `hoi` | onward | Go On |
-| `kia` | hello | Hello |
-| `lia` | yes | Yes |
-| `lua` | lovely | How Nice |
-| `mea` | thanks | Thanks |
-| `mio` | mmhm | Mm-hm |
-| `nea` | aha | Oh! |
-| `nuo` | um | Um |
-| `pao` | goodbye | Goodbye |
-| `phuo` | phew | Phew |
-| `pio` | hehe | Hehe |
-| `sai` | ouch | Ouch |
-| `shiu` | shh | Shh |
-| `soa` | sorry | Sorry |
-| `teo` | watch out | Careful |
-| `tua` | no | No |
-| `wao` | wow | Wow |
+| Word | Gloss |
+|---|---|
+| `halu` | aww |
+| `hao` | pardon |
+| `hei` | hey |
+| `hoi` | onward |
+| `kia` | hello |
+| `lia` | yes |
+| `lua` | lovely |
+| `mea` | thanks |
+| `mio` | mmhm |
+| `nea` | aha |
+| `nuo` | um |
+| `pao` | goodbye |
+| `phuo` | phew |
+| `pio` | hehe |
+| `sai` | ouch |
+| `shiu` | shh |
+| `soa` | sorry |
+| `teo` | watch out |
+| `tua` | no |
+| `wao` | wow |
 
 ## interrogative (7)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `hina` | what | What |
-| `kua` | where | Where |
-| `misa` | why | Why |
-| `sua` | who | Who |
-| `thela` | how | How |
-| `weno` | when | When |
-| `wia` | how many | How Many |
+| Word | Gloss |
+|---|---|
+| `hina` | what |
+| `kua` | where |
+| `misa` | why |
+| `sua` | who |
+| `thela` | how |
+| `weno` | when |
+| `wia` | how many |
 
 ## noun (502)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `haluma` | language | Language |
-| `haoni` | voice | Voice |
-| `haowu` | air | Air |
-| `hasenu` | recess | Recess |
-| `helia` | youth | Youth |
-| `heloa` | remedy | Remedy |
-| `hemilo` | honey | Honey |
-| `henora` | capacity | Capacity |
-| `herani` | trend | Trend |
-| `heru` | herb | Herb |
-| `hesura` | ash | Ash |
-| `hisae` | skin | Skin |
-| `hisaro` | clinical finding | Clinical Finding |
-| `hisophi` | contaminant | Contaminant |
-| `holia` | festival | Festival |
-| `holume` | loss | Loss |
-| `horathe` | dawn | Dawn |
-| `horuma` | thunder | Thunder |
-| `howai` | evening | Evening |
-| `howeli` | wind | Wind |
-| `howenu` | weather | Weather |
-| `kaero` | phase | Phase |
-| `kalora` | horse | Horse |
-| `kanuro` | decision | Decision |
-| `karami` | authority | Authority |
-| `katemu` | offcut | Offcut |
-| `kathu` | seal | Seal |
-| `katiru` | knife | Knife |
-| `kaworu` | injury | Injury |
-| `keiro` | way | Way |
-| `keli` | device | Device |
-| `kelo` | frame | Frame |
-| `keloe` | companion | Companion |
-| `keloi` | summer | Summer |
-| `kelua` | morning | Morning |
-| `keluo` | metal | Metal |
-| `keno` | custom | Custom |
-| `kenoa` | hemp | Hemp |
-| `kenua` | energy | Energy |
-| `kerime` | shore | Shore |
-| `keritha` | workshop | Workshop |
-| `kerithe` | ice | Ice |
-| `kerone` | peninsula | Peninsula |
-| `kerou` | stone | Stone |
-| `kesho` | middle | Middle |
-| `keshoa` | reptile | Reptile |
-| `kima` | scribe | Scribe |
-| `kiphira` | fault | Fault |
-| `kipona` | pain | Pain |
-| `kira` | key | Key |
-| `kirae` | crystal | Crystal |
-| `kirato` | lock | Lock |
-| `kirema` | criterion | Criterion |
-| `kirero` | quality | Quality |
-| `kiroa` | sign | Sign |
-| `kirowi` | signal | Signal |
-| `kiru` | chisel | Chisel |
-| `kirua` | sand | Sand |
-| `kisholu` | specification | Specification |
-| `koewi` | input | Input |
-| `kohura` | noise | Noise |
-| `kolai` | pigment | Pigment |
-| `kolupe` | bucket | Bucket |
-| `koma` | head | Head |
-| `komalu` | pillow | Pillow |
-| `kopharu` | barrier | Barrier |
-| `koremu` | bark | Bark |
-| `kori` | leather | Leather |
-| `korua` | heart | Heart |
-| `kosha` | field | Field |
-| `koshira` | grove | Grove |
-| `kowela` | council | Council |
-| `kulai` | tooth | Tooth |
-| `kuma` | drum | Drum |
-| `kumoe` | stomach | Stomach |
-| `kunoa` | knee | Knee |
-| `kupela` | secret | Secret |
-| `kuramo` | drought | Drought |
-| `kuri` | right | Right |
-| `kurisha` | storm | Storm |
-| `kuroi` | muscle | Muscle |
-| `kurona` | horn | Horn |
-| `laenu` | commons | Commons |
-| `lathoe` | tongue | Tongue |
-| `lau` | twenty-seven-group | Twenty-Seven-Group |
-| `lawe` | left | Left |
-| `leko` | surface | Surface |
-| `leru` | beach | Beach |
-| `lerua` | exterior | Exterior |
-| `lewonu` | valley | Valley |
-| `likori` | species | Species |
-| `liloni` | population | Population |
-| `limoe` | creature | Creature |
-| `lina` | string (instrument) | String (Instrument) |
-| `linua` | fiber | Fiber |
-| `lioru` | life | Life |
-| `lirowa` | leaf | Leaf |
-| `liru` | fabric | Fabric |
-| `lirupa` | bag | Bag |
-| `litero` | ecosystem | Ecosystem |
-| `liweso` | ecological community | Ecological Community |
-| `loami` | gift | Gift |
-| `loesi` | oil | Oil |
-| `lohau` | dog | Dog |
-| `lokue` | place | Place |
-| `lomea` | sibling | Sibling |
-| `lomura` | liver | Liver |
-| `lona` | meeting | Meeting |
-| `lonai` | width | Width |
-| `lopha` | vessel | Vessel |
-| `lophae` | storyteller | Storyteller |
-| `lophani` | bottle | Bottle |
-| `lopia` | child | Child |
-| `loremi` | branch | Branch |
-| `lorika` | blood | Blood |
-| `loriphi` | rainbow | Rainbow |
-| `lorui` | afternoon | Afternoon |
-| `loshenu` | clearance | Clearance |
-| `lowi` | vine | Vine |
-| `luera` | past | Past |
-| `luma` | lamp | Lamp |
-| `lumae` | end | End |
-| `lumani` | family | Family |
-| `lumethi` | deadline | Deadline |
-| `lumira` | descendant | Descendant |
-| `lumishe` | mentor | Mentor |
-| `lumoi` | lantern | Lantern |
-| `lunai` | vision | Vision |
-| `lunei` | moon | Moon |
-| `lunoa` | month | Month |
-| `luphano` | watershed | Watershed |
-| `luphonu` | boat | Boat |
-| `luphore` | river | River |
-| `lureko` | fruit | Fruit |
-| `lurepa` | nutrient | Nutrient |
-| `luseri` | provenance | Provenance |
-| `maewo` | threshold | Threshold |
-| `manuwe` | hand | Hand |
-| `meipa` | seat | Seat |
-| `meliphe` | music | Music |
-| `melira` | song | Song |
-| `melothe` | pond | Pond |
-| `melu` | friend | Friend |
-| `meluna` | season | Season |
-| `meluri` | climate | Climate |
-| `menoa` | face | Face |
-| `menua` | counselor | Counselor |
-| `menuro` | habitat | Habitat |
-| `mera` | net | Net |
-| `mikasu` | dose | Dose |
-| `milura` | milk | Milk |
-| `miona` | person | Person |
-| `mioru` | beauty | Beauty |
-| `mirae` | eye | Eye |
-| `mirela` | state | State |
-| `mirulo` | berry | Berry |
-| `misheko` | cat | Cat |
-| `misuki` | mouse | Mouse |
-| `moeli` | hearth | Hearth |
-| `moenu` | culture | Culture |
-| `moesu` | wax | Wax |
-| `mokanu` | disease | Disease |
-| `mokura` | belly | Belly |
-| `mola` | island | Island |
-| `molira` | hill | Hill |
-| `moloi` | apprentice | Apprentice |
-| `molu` | container | Container |
-| `molupa` | box | Box |
-| `monaki` | component | Component |
-| `mophi` | wool | Wool |
-| `mophira` | sheep | Sheep |
-| `moreke` | mammal | Mammal |
-| `morilu` | wave | Wave |
-| `morisa` | salt | Salt |
-| `moriwhe` | sea | Sea |
-| `moru` | wall | Wall |
-| `mosha` | period | Period |
-| `motha` | foundation | Foundation |
-| `mothami` | baseline | Baseline |
-| `mothare` | premise | Premise |
-| `mueri` | clay | Clay |
-| `muero` | autumn | Autumn |
-| `muhena` | dust | Dust |
-| `muila` | earth | Earth |
-| `munari` | sediment | Sediment |
-| `muneki` | latrine | Latrine |
-| `muphera` | stock | Stock |
-| `muphia` | mud | Mud |
-| `muralo` | material | Material |
-| `murethi` | impairment | Impairment |
-| `muriwe` | worm | Worm |
-| `muwi` | interior | Interior |
-| `napa` | bread | Bread |
-| `napuro` | grain | Grain |
-| `naseru` | obligation | Obligation |
-| `nasholu` | rule | Rule |
-| `naweso` | consensus | Consensus |
-| `nekuma` | meat | Meat |
-| `neparu` | cloud | Cloud |
-| `nepha` | medicine | Medicine |
-| `nira` | cord | Cord |
-| `nireku` | insect | Insect |
-| `niro` | web | Web |
-| `nitho` | north | North |
-| `noa` | position | Position |
-| `nolika` | animal | Animal |
-| `nolue` | neck | Neck |
-| `nomei` | name | Name |
-| `nomi` | present | Present |
-| `nomiki` | concentration | Concentration |
-| `nophae` | nose | Nose |
-| `nophi` | story | Story |
-| `norae` | method | Method |
-| `norathu` | procedure | Procedure |
-| `norawhi` | dusk | Dusk |
-| `norea` | soul | Soul |
-| `noru` | bowl | Bowl |
-| `norui` | boundary | Boundary |
-| `norulo` | jurisdiction | Jurisdiction |
-| `norupe` | spoon | Spoon |
-| `noruwa` | generation | Generation |
-| `nosa` | now | Now |
-| `nowhu` | cave | Cave |
-| `nowiso` | interface | Interface |
-| `nuhe` | sadness | Sadness |
-| `nulomi` | guts | Guts |
-| `nunoa` | forager | Forager |
-| `nuora` | food | Food |
-| `nuphari` | fog | Fog |
-| `nupira` | shame | Shame |
-| `nurako` | railway | Railway |
-| `nuri` | cycle | Cycle |
-| `nuroa` | kitchen | Kitchen |
-| `nurome` | meal | Meal |
-| `nusho` | depth | Depth |
-| `nuwera` | bed | Bed |
-| `nuwoe` | stage | Stage |
-| `paloi` | foot | Foot |
-| `palowe` | shoe | Shoe |
-| `palu` | plate | Plate |
-| `panuri` | resource | Resource |
-| `pelaku` | severity | Severity |
-| `pelio` | arm | Arm |
-| `pelori` | bird | Bird |
-| `peloru` | flower | Flower |
-| `pelowa` | meadow | Meadow |
-| `pelua` | paper | Paper |
-| `pemaru` | hazard | Hazard |
-| `perola` | rose | Rose |
-| `peshiro` | infection | Infection |
-| `phaeno` | week | Week |
-| `phaero` | transit | Transit |
-| `phaewi` | studio | Studio |
-| `phaliso` | network | Network |
-| `phamori` | symptom | Symptom |
-| `phanu` | canvas | Canvas |
-| `phao` | parent | Parent |
-| `pharea` | adult | Adult |
-| `phareme` | ingredient | Ingredient |
-| `phari` | pen | Pen |
-| `pharoe` | chest | Chest |
-| `phelasi` | shelf | Shelf |
-| `phelotu` | format | Format |
-| `phelui` | word | Word |
-| `pheluka` | lightning | Lightning |
-| `phemi` | guest | Guest |
-| `phemila` | host | Host |
-| `phenori` | ownership | Ownership |
-| `pheomu` | leftovers | Leftovers |
-| `pheralu` | rain | Rain |
-| `phero` | fern | Fern |
-| `phewani` | neighbor | Neighbor |
-| `phewo` | sage | Sage |
-| `phialu` | water | Water |
-| `phielo` | glass | Glass |
-| `philea` | feather | Feather |
-| `philima` | biodiversity | Biodiversity |
-| `philo` | day | Day |
-| `philu` | candle | Candle |
-| `phiora` | spirit | Spirit |
-| `phirali` | blossom | Blossom |
-| `phirenu` | snow | Snow |
-| `phireo` | plant | Plant |
-| `phisuri` | sample | Sample |
-| `phisuwa` | example | Example |
-| `phitura` | well (water) | Well |
-| `phiwapi` | butterfly | Butterfly |
-| `phiwheki` | counterexample | Counterexample |
-| `phoemu` | midnight | Midnight |
-| `phoi` | nine-group | Nine-Group |
-| `phoka` | lens | Lens |
-| `pholui` | bamboo | Bamboo |
-| `phomila` | offspring | Offspring |
-| `phora` | sail | Sail |
-| `phui` | flute | Flute |
-| `phulae` | mouth | Mouth |
-| `phuliro` | stream | Stream |
-| `phuri` | brush | Brush |
-| `phurilo` | broom | Broom |
-| `phuwai` | lung | Lung |
-| `piloe` | spot | Spot |
-| `pilomu` | sycamore | Sycamore |
-| `piru` | trader | Trader |
-| `ponu` | door | Door |
-| `porewi` | side effect | Side Effect |
-| `porua` | purpose | Purpose |
-| `powea` | egg | Egg |
-| `pukea` | danger | Danger |
-| `punoa` | society | Society |
-| `punoki` | institution | Institution |
-| `puro` | strength | Strength |
-| `raeli` | height | Height |
-| `rei` | eighty-one-group | Eighty-One-Group |
-| `relo` | symbol | Symbol |
-| `relua` | mirror | Mirror |
-| `remole` | concept | Concept |
-| `remotha` | reason | Reason |
-| `remuma` | conclusion | Conclusion |
-| `repha` | bridge | Bridge |
-| `reteru` | model | Model |
-| `rewa` | oar | Oar |
-| `rimawu` | drudgery | Drudgery |
-| `rinoka` | project | Project |
-| `riporu` | task | Task |
-| `ritako` | workload | Workload |
-| `roela` | scroll | Scroll |
-| `roena` | copper | Copper |
-| `rokai` | back | Back |
-| `rokili` | spine | Spine |
-| `rolia` | worth | Worth |
-| `rolu` | wheel | Wheel |
-| `rolutha` | wagon | Wagon |
-| `ronua` | south | South |
-| `ruela` | path | Path |
-| `rulami` | adventure | Adventure |
-| `runae` | resin | Resin |
-| `sawathi` | soap | Soap |
-| `seluwhe` | outage | Outage |
-| `sena` | pattern | Pattern |
-| `shalimo` | alliance | Alliance |
-| `shalu` | fish | Fish |
-| `shalumi` | salmon | Salmon |
-| `shao` | three-group | Three-Group |
-| `sharino` | conscience | Conscience |
-| `shea` | peace | Peace |
-| `shela` | art | Art |
-| `shelira` | forest | Forest |
-| `shelu` | book | Book |
-| `shemu` | moment | Moment |
-| `sherelo` | right (normative) | Right |
-| `shereni` | entitlement | Entitlement |
-| `shero` | night | Night |
-| `shila` | winter | Winter |
-| `shioli` | silver | Silver |
-| `shiro` | tree | Tree |
-| `shoeka` | route | Route |
-| `shomelu` | shadow | Shadow |
-| `shonui` | ear | Ear |
-| `shonuwa` | sound | Sound |
-| `shumu` | moss | Moss |
-| `shuna` | edge | Edge |
-| `shupi` | plateau | Plateau |
-| `shuroa` | shelter | Shelter |
-| `sihewa` | breeze | Breeze |
-| `sila` | community | Community |
-| `silawo` | village | Village |
-| `sileo` | silk | Silk |
-| `silero` | star | Star |
-| `sileta` | sun | Sun |
-| `sima` | thread | Thread |
-| `siru` | marker | Marker |
-| `sitawi` | inventory | Inventory |
-| `sithora` | role | Role |
-| `siwe` | sweat | Sweat |
-| `soeli` | cup | Cup |
-| `solai` | gold | Gold |
-| `soleha` | luck | Luck |
-| `soneho` | tradeoff | Tradeoff |
-| `sophae` | cotton | Cotton |
-| `sorai` | insight | Insight |
-| `sorui` | circle | Circle |
-| `suilo` | dew | Dew |
-| `sukima` | fear | Fear |
-| `sulai` | musician | Musician |
-| `suliwa` | snake | Snake |
-| `sulopa` | soup | Soup |
-| `suloru` | fever | Fever |
-| `sunai` | health | Health |
-| `suro` | rope | Rope |
-| `takori` | load | Load |
-| `talua` | shoulder | Shoulder |
-| `tapulo` | jar | Jar |
-| `tapuri` | lid | Lid |
-| `teli` | bell | Bell |
-| `telo` | farmer | Farmer |
-| `telui` | rhythm | Rhythm |
-| `teluno` | amphibian | Amphibian |
-| `temu` | guild | Guild |
-| `tenoa` | tool | Tool |
-| `terura` | system | System |
-| `tesu` | iron | Iron |
-| `tewema` | partner | Partner |
-| `thaeso` | midday | Midday |
-| `thalume` | ancestor | Ancestor |
-| `thaluni` | kin | Kin |
-| `thaluro` | ocean | Ocean |
-| `thekopa` | recipe | Recipe |
-| `thelai` | balm | Balm |
-| `theloa` | truth | Truth |
-| `theloma` | justice | Justice |
-| `thelomi` | lake | Lake |
-| `thelui` | sanctuary | Sanctuary |
-| `thelumo` | ritual | Ritual |
-| `theluo` | steward | Steward |
-| `thema` | guardian | Guardian |
-| `themoka` | treasure | Treasure |
-| `themore` | argument | Argument |
-| `thena` | thing | Thing |
-| `thepalu` | garden | Garden |
-| `thephaku` | inflammation | Inflammation |
-| `therema` | tradition | Tradition |
-| `thereo` | mediator | Mediator |
-| `theriko` | frost | Frost |
-| `thero` | fire | Fire |
-| `thesani` | skill | Skill |
-| `thesori` | evidence | Evidence |
-| `thimelo` | pace | Pace |
-| `thimora` | schedule | Schedule |
-| `thimu` | time | Time |
-| `thinoe` | seed | Seed |
-| `thirulo` | output | Output |
-| `tholau` | bone | Bone |
-| `tholu` | space | Space |
-| `tholupi` | room | Room |
-| `thomari` | courage | Courage |
-| `thonua` | scholar | Scholar |
-| `thorae` | facilitator | Facilitator |
-| `thorea` | ceremony | Ceremony |
-| `thorui` | beginning | Beginning |
-| `thula` | spring | Spring |
-| `thumai` | finger | Finger |
-| `thumiro` | smoke | Smoke |
-| `thunai` | student | Student |
-| `thunepa` | sacred place | Sacred Place |
-| `tinoa` | dye | Dye |
-| `tipika` | fingernail | Fingernail |
-| `tiroe` | instant | Instant |
-| `tisu` | needle | Needle |
-| `toka` | hammer | Hammer |
-| `tokemi` | fungus | Fungus |
-| `tolae` | leg | Leg |
-| `toloi` | messenger | Messenger |
-| `tolu` | staff | Staff |
-| `tomae` | floor | Floor |
-| `tomi` | pot | Pot |
-| `tomora` | mountain | Mountain |
-| `toru` | roof | Roof |
-| `torua` | year | Year |
-| `tulira` | tail | Tail |
-| `tumeki` | root | Root |
-| `tupeka` | burden | Burden |
-| `tupiwa` | rabbit | Rabbit |
-| `turelo` | feedback | Feedback |
-| `waero` | sky | Sky |
-| `wapile` | wing | Wing |
-| `welamu` | elm | Elm |
-| `welisha` | color | Color |
-| `weloa` | loom | Loom |
-| `weloni` | body | Body |
-| `wemari` | member | Member |
-| `wemi` | ally | Ally |
-| `wemo` | plain | Plain |
-| `wenu` | tonic | Tonic |
-| `weoli` | reed | Reed |
-| `weru` | poet | Poet |
-| `weshaku` | outbreak | Outbreak |
-| `wetha` | cloth | Cloth |
-| `wethaki` | towel | Towel |
-| `wethalu` | garment | Garment |
-| `wethamo` | blanket | Blanket |
-| `wethate` | laundry | Laundry |
-| `wheiru` | mist | Mist |
-| `whekaro` | adverse effect | Adverse Effect |
-| `whekelu` | magic | Magic |
-| `whelina` | grass | Grass |
-| `whemaki` | allergy | Allergy |
-| `whemori` | waste | Waste |
-| `wheo` | elder | Elder |
-| `whila` | hair | Hair |
-| `whilaru` | comb | Comb |
-| `wilemo` | toy | Toy |
-| `wira` | window | Window |
-| `wirae` | spring (season) | Spring (Season) |
-| `wiralu` | runoff | Runoff |
-| `wireki` | prognosis | Prognosis |
-| `wireo` | future | Future |
-| `wiru` | basket | Basket |
-| `wolea` | wood | Wood |
-| `womu` | home | Home |
-| `womuri` | household | Household |
-| `wonepa` | table | Table |
-| `woru` | keeper | Keeper |
+| Word | Gloss |
+|---|---|
+| `haluma` | language |
+| `haoni` | voice |
+| `haowu` | air |
+| `hasenu` | recess |
+| `helia` | youth |
+| `heloa` | remedy |
+| `hemilo` | honey |
+| `henora` | capacity |
+| `herani` | trend |
+| `heru` | herb |
+| `hesura` | ash |
+| `hisae` | skin |
+| `hisaro` | clinical finding |
+| `hisophi` | contaminant |
+| `holia` | festival |
+| `holume` | loss |
+| `horathe` | dawn |
+| `horuma` | thunder |
+| `howai` | evening |
+| `howeli` | wind |
+| `howenu` | weather |
+| `kaero` | phase |
+| `kalora` | horse |
+| `kanuro` | decision |
+| `karami` | authority |
+| `katemu` | offcut |
+| `kathu` | seal |
+| `katiru` | knife |
+| `kaworu` | injury |
+| `keiro` | way |
+| `keli` | device |
+| `kelo` | frame |
+| `keloe` | companion |
+| `keloi` | summer |
+| `kelua` | morning |
+| `keluo` | metal |
+| `keno` | custom |
+| `kenoa` | hemp |
+| `kenua` | energy |
+| `kerime` | shore |
+| `keritha` | workshop |
+| `kerithe` | ice |
+| `kerone` | peninsula |
+| `kerou` | stone |
+| `kesho` | middle |
+| `keshoa` | reptile |
+| `kima` | scribe |
+| `kiphira` | fault |
+| `kipona` | pain |
+| `kira` | key |
+| `kirae` | crystal |
+| `kirato` | lock |
+| `kirema` | criterion |
+| `kirero` | quality |
+| `kiroa` | sign |
+| `kirowi` | signal |
+| `kiru` | chisel |
+| `kirua` | sand |
+| `kisholu` | specification |
+| `koewi` | input |
+| `kohura` | noise |
+| `kolai` | pigment |
+| `kolupe` | bucket |
+| `koma` | head |
+| `komalu` | pillow |
+| `kopharu` | barrier |
+| `koremu` | bark |
+| `kori` | leather |
+| `korua` | heart |
+| `kosha` | field |
+| `koshira` | grove |
+| `kowela` | council |
+| `kulai` | tooth |
+| `kuma` | drum |
+| `kumoe` | stomach |
+| `kunoa` | knee |
+| `kupela` | secret |
+| `kuramo` | drought |
+| `kuri` | right |
+| `kurisha` | storm |
+| `kuroi` | muscle |
+| `kurona` | horn |
+| `laenu` | commons |
+| `lathoe` | tongue |
+| `lau` | twenty-seven-group |
+| `lawe` | left |
+| `leko` | surface |
+| `leru` | beach |
+| `lerua` | exterior |
+| `lewonu` | valley |
+| `likori` | species |
+| `liloni` | population |
+| `limoe` | creature |
+| `lina` | string (instrument) |
+| `linua` | fiber |
+| `lioru` | life |
+| `lirowa` | leaf |
+| `liru` | fabric |
+| `lirupa` | bag |
+| `litero` | ecosystem |
+| `liweso` | ecological community |
+| `loami` | gift |
+| `loesi` | oil |
+| `lohau` | dog |
+| `lokue` | place |
+| `lomea` | sibling |
+| `lomura` | liver |
+| `lona` | meeting |
+| `lonai` | width |
+| `lopha` | vessel |
+| `lophae` | storyteller |
+| `lophani` | bottle |
+| `lopia` | child |
+| `loremi` | branch |
+| `lorika` | blood |
+| `loriphi` | rainbow |
+| `lorui` | afternoon |
+| `loshenu` | clearance |
+| `lowi` | vine |
+| `luera` | past |
+| `luma` | lamp |
+| `lumae` | end |
+| `lumani` | family |
+| `lumethi` | deadline |
+| `lumira` | descendant |
+| `lumishe` | mentor |
+| `lumoi` | lantern |
+| `lunai` | vision |
+| `lunei` | moon |
+| `lunoa` | month |
+| `luphano` | watershed |
+| `luphonu` | boat |
+| `luphore` | river |
+| `lureko` | fruit |
+| `lurepa` | nutrient |
+| `luseri` | provenance |
+| `maewo` | threshold |
+| `manuwe` | hand |
+| `meipa` | seat |
+| `meliphe` | music |
+| `melira` | song |
+| `melothe` | pond |
+| `melu` | friend |
+| `meluna` | season |
+| `meluri` | climate |
+| `menoa` | face |
+| `menua` | counselor |
+| `menuro` | habitat |
+| `mera` | net |
+| `mikasu` | dose |
+| `milura` | milk |
+| `miona` | person |
+| `mioru` | beauty |
+| `mirae` | eye |
+| `mirela` | state |
+| `mirulo` | berry |
+| `misheko` | cat |
+| `misuki` | mouse |
+| `moeli` | hearth |
+| `moenu` | culture |
+| `moesu` | wax |
+| `mokanu` | disease |
+| `mokura` | belly |
+| `mola` | island |
+| `molira` | hill |
+| `moloi` | apprentice |
+| `molu` | container |
+| `molupa` | box |
+| `monaki` | component |
+| `mophi` | wool |
+| `mophira` | sheep |
+| `moreke` | mammal |
+| `morilu` | wave |
+| `morisa` | salt |
+| `moriwhe` | sea |
+| `moru` | wall |
+| `mosha` | period |
+| `motha` | foundation |
+| `mothami` | baseline |
+| `mothare` | premise |
+| `mueri` | clay |
+| `muero` | autumn |
+| `muhena` | dust |
+| `muila` | earth |
+| `munari` | sediment |
+| `muneki` | latrine |
+| `muphera` | stock |
+| `muphia` | mud |
+| `muralo` | material |
+| `murethi` | impairment |
+| `muriwe` | worm |
+| `muwi` | interior |
+| `napa` | bread |
+| `napuro` | grain |
+| `naseru` | obligation |
+| `nasholu` | rule |
+| `naweso` | consensus |
+| `nekuma` | meat |
+| `neparu` | cloud |
+| `nepha` | medicine |
+| `nira` | cord |
+| `nireku` | insect |
+| `niro` | web |
+| `nitho` | north |
+| `noa` | position |
+| `nolika` | animal |
+| `nolue` | neck |
+| `nomei` | name |
+| `nomi` | present |
+| `nomiki` | concentration |
+| `nophae` | nose |
+| `nophi` | story |
+| `norae` | method |
+| `norathu` | procedure |
+| `norawhi` | dusk |
+| `norea` | soul |
+| `noru` | bowl |
+| `norui` | boundary |
+| `norulo` | jurisdiction |
+| `norupe` | spoon |
+| `noruwa` | generation |
+| `nosa` | now |
+| `nowhu` | cave |
+| `nowiso` | interface |
+| `nuhe` | sadness |
+| `nulomi` | guts |
+| `nunoa` | forager |
+| `nuora` | food |
+| `nuphari` | fog |
+| `nupira` | shame |
+| `nurako` | railway |
+| `nuri` | cycle |
+| `nuroa` | kitchen |
+| `nurome` | meal |
+| `nusho` | depth |
+| `nuwera` | bed |
+| `nuwoe` | stage |
+| `paloi` | foot |
+| `palowe` | shoe |
+| `palu` | plate |
+| `panuri` | resource |
+| `pelaku` | severity |
+| `pelio` | arm |
+| `pelori` | bird |
+| `peloru` | flower |
+| `pelowa` | meadow |
+| `pelua` | paper |
+| `pemaru` | hazard |
+| `perola` | rose |
+| `peshiro` | infection |
+| `phaeno` | week |
+| `phaero` | transit |
+| `phaewi` | studio |
+| `phaliso` | network |
+| `phamori` | symptom |
+| `phanu` | canvas |
+| `phao` | parent |
+| `pharea` | adult |
+| `phareme` | ingredient |
+| `phari` | pen |
+| `pharoe` | chest |
+| `phelasi` | shelf |
+| `phelotu` | format |
+| `phelui` | word |
+| `pheluka` | lightning |
+| `phemi` | guest |
+| `phemila` | host |
+| `phenori` | ownership |
+| `pheomu` | leftovers |
+| `pheralu` | rain |
+| `phero` | fern |
+| `phewani` | neighbor |
+| `phewo` | sage |
+| `phialu` | water |
+| `phielo` | glass |
+| `philea` | feather |
+| `philima` | biodiversity |
+| `philo` | day |
+| `philu` | candle |
+| `phiora` | spirit |
+| `phirali` | blossom |
+| `phirenu` | snow |
+| `phireo` | plant |
+| `phisuri` | sample |
+| `phisuwa` | example |
+| `phitura` | well (water) |
+| `phiwapi` | butterfly |
+| `phiwheki` | counterexample |
+| `phoemu` | midnight |
+| `phoi` | nine-group |
+| `phoka` | lens |
+| `pholui` | bamboo |
+| `phomila` | offspring |
+| `phora` | sail |
+| `phui` | flute |
+| `phulae` | mouth |
+| `phuliro` | stream |
+| `phuri` | brush |
+| `phurilo` | broom |
+| `phuwai` | lung |
+| `piloe` | spot |
+| `pilomu` | sycamore |
+| `piru` | trader |
+| `ponu` | door |
+| `porewi` | side effect |
+| `porua` | purpose |
+| `powea` | egg |
+| `pukea` | danger |
+| `punoa` | society |
+| `punoki` | institution |
+| `puro` | strength |
+| `raeli` | height |
+| `rei` | eighty-one-group |
+| `relo` | symbol |
+| `relua` | mirror |
+| `remole` | concept |
+| `remotha` | reason |
+| `remuma` | conclusion |
+| `repha` | bridge |
+| `reteru` | model |
+| `rewa` | oar |
+| `rimawu` | drudgery |
+| `rinoka` | project |
+| `riporu` | task |
+| `ritako` | workload |
+| `roela` | scroll |
+| `roena` | copper |
+| `rokai` | back |
+| `rokili` | spine |
+| `rolia` | worth |
+| `rolu` | wheel |
+| `rolutha` | wagon |
+| `ronua` | south |
+| `ruela` | path |
+| `rulami` | adventure |
+| `runae` | resin |
+| `sawathi` | soap |
+| `seluwhe` | outage |
+| `sena` | pattern |
+| `shalimo` | alliance |
+| `shalu` | fish |
+| `shalumi` | salmon |
+| `shao` | three-group |
+| `sharino` | conscience |
+| `shea` | peace |
+| `shela` | art |
+| `shelira` | forest |
+| `shelu` | book |
+| `shemu` | moment |
+| `sherelo` | right (normative) |
+| `shereni` | entitlement |
+| `shero` | night |
+| `shila` | winter |
+| `shioli` | silver |
+| `shiro` | tree |
+| `shoeka` | route |
+| `shomelu` | shadow |
+| `shonui` | ear |
+| `shonuwa` | sound |
+| `shumu` | moss |
+| `shuna` | edge |
+| `shupi` | plateau |
+| `shuroa` | shelter |
+| `sihewa` | breeze |
+| `sila` | community |
+| `silawo` | village |
+| `sileo` | silk |
+| `silero` | star |
+| `sileta` | sun |
+| `sima` | thread |
+| `siru` | marker |
+| `sitawi` | inventory |
+| `sithora` | role |
+| `siwe` | sweat |
+| `soeli` | cup |
+| `solai` | gold |
+| `soleha` | luck |
+| `soneho` | tradeoff |
+| `sophae` | cotton |
+| `sorai` | insight |
+| `sorui` | circle |
+| `suilo` | dew |
+| `sukima` | fear |
+| `sulai` | musician |
+| `suliwa` | snake |
+| `sulopa` | soup |
+| `suloru` | fever |
+| `sunai` | health |
+| `suro` | rope |
+| `takori` | load |
+| `talua` | shoulder |
+| `tapulo` | jar |
+| `tapuri` | lid |
+| `teli` | bell |
+| `telo` | farmer |
+| `telui` | rhythm |
+| `teluno` | amphibian |
+| `temu` | guild |
+| `tenoa` | tool |
+| `terura` | system |
+| `tesu` | iron |
+| `tewema` | partner |
+| `thaeso` | midday |
+| `thalume` | ancestor |
+| `thaluni` | kin |
+| `thaluro` | ocean |
+| `thekopa` | recipe |
+| `thelai` | balm |
+| `theloa` | truth |
+| `theloma` | justice |
+| `thelomi` | lake |
+| `thelui` | sanctuary |
+| `thelumo` | ritual |
+| `theluo` | steward |
+| `thema` | guardian |
+| `themoka` | treasure |
+| `themore` | argument |
+| `thena` | thing |
+| `thepalu` | garden |
+| `thephaku` | inflammation |
+| `therema` | tradition |
+| `thereo` | mediator |
+| `theriko` | frost |
+| `thero` | fire |
+| `thesani` | skill |
+| `thesori` | evidence |
+| `thimelo` | pace |
+| `thimora` | schedule |
+| `thimu` | time |
+| `thinoe` | seed |
+| `thirulo` | output |
+| `tholau` | bone |
+| `tholu` | space |
+| `tholupi` | room |
+| `thomari` | courage |
+| `thonua` | scholar |
+| `thorae` | facilitator |
+| `thorea` | ceremony |
+| `thorui` | beginning |
+| `thula` | spring |
+| `thumai` | finger |
+| `thumiro` | smoke |
+| `thunai` | student |
+| `thunepa` | sacred place |
+| `tinoa` | dye |
+| `tipika` | fingernail |
+| `tiroe` | instant |
+| `tisu` | needle |
+| `toka` | hammer |
+| `tokemi` | fungus |
+| `tolae` | leg |
+| `toloi` | messenger |
+| `tolu` | staff |
+| `tomae` | floor |
+| `tomi` | pot |
+| `tomora` | mountain |
+| `toru` | roof |
+| `torua` | year |
+| `tulira` | tail |
+| `tumeki` | root |
+| `tupeka` | burden |
+| `tupiwa` | rabbit |
+| `turelo` | feedback |
+| `waero` | sky |
+| `wapile` | wing |
+| `welamu` | elm |
+| `welisha` | color |
+| `weloa` | loom |
+| `weloni` | body |
+| `wemari` | member |
+| `wemi` | ally |
+| `wemo` | plain |
+| `wenu` | tonic |
+| `weoli` | reed |
+| `weru` | poet |
+| `weshaku` | outbreak |
+| `wetha` | cloth |
+| `wethaki` | towel |
+| `wethalu` | garment |
+| `wethamo` | blanket |
+| `wethate` | laundry |
+| `wheiru` | mist |
+| `whekaro` | adverse effect |
+| `whekelu` | magic |
+| `whelina` | grass |
+| `whemaki` | allergy |
+| `whemori` | waste |
+| `wheo` | elder |
+| `whila` | hair |
+| `whilaru` | comb |
+| `wilemo` | toy |
+| `wira` | window |
+| `wirae` | spring (season) |
+| `wiralu` | runoff |
+| `wireki` | prognosis |
+| `wireo` | future |
+| `wiru` | basket |
+| `wolea` | wood |
+| `womu` | home |
+| `womuri` | household |
+| `wonepa` | table |
+| `woru` | keeper |
 
 ## numeral (3)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `mu` | zero | Zero |
-| `ta` | one | One |
-| `wi` | two | Two |
+| Word | Gloss |
+|---|---|
+| `mu` | zero |
+| `ta` | one |
+| `wi` | two |
 
 ## particle (35)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `ha` | PROX | This |
-| `he` | IRR | Irrealis |
-| `hi` | DIR | Direct Evidence |
-| `ho` | ASSUM | Assumptive Evidence |
-| `ka` | CAUS | Cause to |
-| `ke` | INFER | Inferential Evidence |
-| `ki` | PFV | Perfective |
-| `ko` | FOC | Focus |
-| `le` | HON.ROLE | Role Holder |
-| `li` | RESTR | Only |
-| `lo` | PL | Plural |
-| `lu` | COND | If |
-| `ma` | NEG | Not |
-| `mo` | CMPR | More |
-| `na` | NEC | Must |
-| `ne` | NAME | Proper Name Marker |
-| `ni` | HON.INTIM | Beloved |
-| `no` | IMP | Request |
-| `nu` | ORD | Ordinal Particle |
-| `pa` | INCH | Beginning |
-| `pi` | POL | Politeness |
-| `po` | POT | Can |
-| `ra` | DIST | That |
-| `ro` | HAB | Habitual |
-| `ru` | INTS | Very |
-| `sa` | HON.RESPECT | Respected Elder/Mentor |
-| `se` | PASS | Passive Voice |
-| `si` | IPFV | Imperfective |
-| `so` | FUT | Future |
-| `su` | OPT | Wish |
-| `te` | CESS | Stopping |
-| `ti` | REP | Reportative Evidence |
-| `to` | PST | Past |
-| `wa` | Q | Question |
-| `we` | ALSO | Also |
+| Word | Gloss |
+|---|---|
+| `ha` | PROX |
+| `he` | IRR |
+| `hi` | DIR |
+| `ho` | ASSUM |
+| `ka` | CAUS |
+| `ke` | INFER |
+| `ki` | PFV |
+| `ko` | FOC |
+| `le` | HON.ROLE |
+| `li` | RESTR |
+| `lo` | PL |
+| `lu` | COND |
+| `ma` | NEG |
+| `mo` | CMPR |
+| `na` | NEC |
+| `ne` | NAME |
+| `ni` | HON.INTIM |
+| `no` | IMP |
+| `nu` | ORD |
+| `pa` | INCH |
+| `pi` | POL |
+| `po` | POT |
+| `ra` | DIST |
+| `ro` | HAB |
+| `ru` | INTS |
+| `sa` | HON.RESPECT |
+| `se` | PASS |
+| `si` | IPFV |
+| `so` | FUT |
+| `su` | OPT |
+| `te` | CESS |
+| `ti` | REP |
+| `to` | PST |
+| `wa` | Q |
+| `we` | ALSO |
 
 ## preposition (27)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `kau` | ALL | To |
-| `leo` | ABOVE | Above |
-| `lue` | ABL | From |
-| `mua` | LOC | In |
-| `mue` | OUT.OF | Out Of |
-| `muo` | INTO | Into |
-| `neo` | FRONT | In Front Of |
-| `nia` | ON | On |
-| `noe` | BEHIND | Behind |
-| `nua` | COM | With |
-| `pai` | NEAR | Near |
-| `phea` | AS | As |
-| `phei` | AWAY | Away from |
-| `phou` | BELOW | Under |
-| `roa` | AROUND | Around |
-| `roe` | INS | With |
-| `sheo` | THAN | Than |
-| `sio` | BESIDE | Beside |
-| `sui` | DUR | During |
-| `tei` | UNTIL | Until |
-| `thei` | BETWEEN | Between |
-| `thoa` | AMONG | Among |
-| `thue` | THROUGH | Through |
-| `wea` | TOWARD | Toward |
-| `wei` | DAT | To |
-| `whuo` | WITHOUT | Without |
-| `woe` | FAR | Far from |
+| Word | Gloss |
+|---|---|
+| `kau` | ALL |
+| `leo` | ABOVE |
+| `lue` | ABL |
+| `mua` | LOC |
+| `mue` | OUT.OF |
+| `muo` | INTO |
+| `neo` | FRONT |
+| `nia` | ON |
+| `noe` | BEHIND |
+| `nua` | COM |
+| `pai` | NEAR |
+| `phea` | AS |
+| `phei` | AWAY |
+| `phou` | BELOW |
+| `roa` | AROUND |
+| `roe` | INS |
+| `sheo` | THAN |
+| `sio` | BESIDE |
+| `sui` | DUR |
+| `tei` | UNTIL |
+| `thei` | BETWEEN |
+| `thoa` | AMONG |
+| `thue` | THROUGH |
+| `wea` | TOWARD |
+| `wei` | DAT |
+| `whuo` | WITHOUT |
+| `woe` | FAR |
 
 ## pronoun (5)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `mia` | 1SG | I |
-| `miso` | REFL | Self |
-| `shia` | 3SG | They |
-| `thia` | 2SG | You |
-| `wiso` | RECP | Each Other |
+| Word | Gloss |
+|---|---|
+| `mia` | 1SG |
+| `miso` | REFL |
+| `shia` | 3SG |
+| `thia` | 2SG |
+| `wiso` | RECP |
 
 ## quantifier (9)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `henoi` | ENOUGH | Enough |
-| `mawha` | NONE | None |
-| `phina` | FEW | Few |
-| `shelami` | MOST | Most |
-| `sheloi` | MANY | Many |
-| `soli` | SOME | Some |
-| `theli` | EACH | Each |
-| `theula` | UNIV | All |
-| `wheli` | ANY | Any |
+| Word | Gloss |
+|---|---|
+| `henoi` | ENOUGH |
+| `mawha` | NONE |
+| `phina` | FEW |
+| `shelami` | MOST |
+| `sheloi` | MANY |
+| `soli` | SOME |
+| `theli` | EACH |
+| `theula` | UNIV |
+| `wheli` | ANY |
 
 ## verb (334)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `halemu` | remember | Remember |
-| `haolu` | speak | Speak |
-| `hasi` | wait | Wait |
-| `hea` | hear | Hear |
-| `hekawi` | find | Find |
-| `helaki` | amend | Amend |
-| `helanu` | recover | Recover |
-| `helolu` | redress | Redress |
-| `helui` | change | Change |
-| `heno` | satisfy | Satisfy |
-| `hewe` | wipe | Wipe |
-| `hinawu` | accommodate | Accommodate |
-| `hinolu` | adapt | Adapt |
-| `hiru` | intuit | Intuit |
-| `hola` | laugh | Laugh |
-| `howela` | receive | Receive |
-| `kaeli` | like | Like |
-| `kalei` | climb | Climb |
-| `kamo` | arrive | Arrive |
-| `kanelu` | err | Err |
-| `kanu` | choose | Choose |
-| `kanuwa` | authorize | Authorize |
-| `kapura` | shout | Shout |
-| `kasira` | vote | Vote |
-| `kati` | cut | Cut |
-| `kawepa` | catch | Catch |
-| `kawhera` | coerce | Coerce |
-| `kealo` | create | Create |
-| `kehota` | cough | Cough |
-| `kela` | rejoice | Rejoice |
-| `kelai` | equals | Become (Result) |
-| `kelitho` | function | Function |
-| `kelomi` | accept | Accept |
-| `kelu` | become | Become |
-| `keluro` | honor | Honor |
-| `kethira` | infer | Infer |
-| `ketora` | control | Control |
-| `kire` | shape | Shape |
-| `kirothe` | define | Define |
-| `kisome` | assess | Assess |
-| `kithawu` | triage | Triage |
-| `kithero` | diagnose | Diagnose |
-| `kiwate` | bite | Bite |
-| `koema` | enter | Enter |
-| `kolua` | carry | Carry |
-| `koluma` | unite | Unite |
-| `korei` | fulfill | Fulfill |
-| `kulo` | guide | Guide |
-| `kupe` | hide | Hide |
-| `kuremi` | grind | Grind |
-| `laniru` | journey | Journey |
-| `lei` | harmony | Harmony |
-| `leiro` | release | Release |
-| `lepa` | fall | Fall |
-| `lesawi` | consent | Consent |
-| `lilea` | clarify | Clarify |
-| `liona` | live | Live |
-| `loa` | give | Give |
-| `loatho` | delegate | Delegate |
-| `lomare` | embrace | Embrace |
-| `lonae` | respond | Respond |
-| `lorea` | connect | Connect |
-| `lorima` | build | Build |
-| `lothea` | love | Love |
-| `lumeo` | die | Die |
-| `lumera` | nourish | Nourish |
-| `lupaki` | fold | Fold |
-| `lupho` | float | Float |
-| `makelu` | abstain | Abstain |
-| `malomi` | balance | Balance |
-| `manawi` | compromise | Compromise |
-| `manolu` | stay | Stay |
-| `masue` | measure | Measure |
-| `masuro` | calibrate | Calibrate |
-| `meilo` | sit | Sit |
-| `meliho` | sing | Sing |
-| `meloa` | persevere | Persevere |
-| `menai` | dedicate | Dedicate |
-| `menui` | dwell | Dwell |
-| `meropi` | cherish | Cherish |
-| `milau` | drink | Drink |
-| `miratu` | recognize | Recognize |
-| `misharo` | consult | Consult |
-| `mishoa` | express | Express |
-| `molawi` | cooperate | Cooperate |
-| `molei` | evolve | Evolve |
-| `moluki` | transform | Transform |
-| `morae` | sense | Sense |
-| `morashi` | relapse | Relapse |
-| `moreko` | articulate | Articulate |
-| `morume` | decompose | Decompose |
-| `muholi` | dig | Dig |
-| `mukesi` | spoil | Spoil |
-| `mupelo` | vomit | Vomit |
-| `muraki` | harvest | Harvest |
-| `nai` | be | Be |
-| `napako` | bake | Bake |
-| `naphe` | help | Help |
-| `nashaku` | enforce | Enforce |
-| `natheri` | entail | Entail |
-| `natu` | pull | Pull |
-| `nawea` | respect | Respect |
-| `naweri` | refuse | Refuse |
-| `nawo` | agree | Agree |
-| `nelore` | preserve | Preserve |
-| `nelu` | revere | Revere |
-| `nephoru` | treat | Treat |
-| `nila` | see | See |
-| `nilaki` | inspect | Inspect |
-| `nohero` | believe | Believe |
-| `nolami` | bond | Bond |
-| `noluha` | swallow | Swallow |
-| `nomela` | encourage | Encourage |
-| `nomira` | collect | Collect |
-| `noporu` | design | Design |
-| `norelu` | form | Form |
-| `nowae` | awaken | Awaken |
-| `nuhemi` | grieve | Grieve |
-| `nuhewa` | weep | Weep |
-| `nulae` | sleep | Sleep |
-| `numea` | nestle | Nestle |
-| `numelo` | nurture | Nurture |
-| `numike` | negotiate | Negotiate |
-| `nuola` | eat | Eat |
-| `palo` | touch | Touch |
-| `panoru` | support | Support |
-| `pawela` | participate | Participate |
-| `peki` | squeeze | Squeeze |
-| `perawi` | expose | Expose |
-| `pesa` | push | Push |
-| `pesenu` | pollute | Pollute |
-| `peshu` | lie | Lie |
-| `phae` | open | Open |
-| `phaelo` | feel | Feel |
-| `phaluwe` | flood | Flood |
-| `phamo` | console | Console |
-| `phanoi` | portion | Portion |
-| `phanuli` | allocate | Allocate |
-| `pharelo` | cook | Cook |
-| `pharomu` | exclude | Exclude |
-| `pharuki` | celebrate | Celebrate |
-| `pharune` | include | Include |
-| `pheloma` | serve | Serve |
-| `phelona` | require | Require |
-| `phelu` | hold | Hold |
-| `phelure` | store | Store |
-| `phemiru` | visit | Visit |
-| `pherami` | depend | Depend |
-| `pheru` | endure | Endure |
-| `phesari` | flee | Flee |
-| `phesua` | inspire | Inspire |
-| `phiketu` | contradict | Contradict |
-| `phimela` | kiss | Kiss |
-| `phiremo` | relate | Relate |
-| `phirena` | meditate | Meditate |
-| `phoa` | do | Do |
-| `pholeni` | depart | Depart |
-| `phowe` | share | Sharing |
-| `phurewa` | sweep | Sweep |
-| `phuro` | renew | Renew |
-| `pilewa` | make | Make |
-| `pilora` | exploit | Exploit |
-| `pilu` | take | Take |
-| `pina` | sew | Sew |
-| `pisha` | split | Split |
-| `pothu` | stink | Stink |
-| `pukate` | break | Break |
-| `pula` | wish | Wish |
-| `puse` | spit | Spit |
-| `pushali` | overload | Overload |
-| `rashelo` | run | Run |
-| `rato` | turn | Turn |
-| `remo` | think | Think |
-| `renoa` | liberate | Liberate |
-| `reo` | meaning | Meaning |
-| `repora` | propose | Propose |
-| `rihe` | rise | Rise |
-| `rilowa` | assign | Assign |
-| `riola` | labor | Labor |
-| `rohi` | rub | Rub |
-| `roke` | move | Move |
-| `romishe` | contemplate | Contemplate |
-| `rotiku` | dance | Dance |
-| `ruemi` | lie down | Lie Down |
-| `ruloi` | flourish | Flourish |
-| `runaki` | wayfind | Wayfind |
-| `ruweli` | access | Access |
-| `sahu` | forget | Forget |
-| `sano` | know | Know |
-| `sawa` | wash | Wash |
-| `sekaru` | transfer | Transfer |
-| `selomi` | weave | Weave |
-| `selu` | flow | Flow |
-| `seluto` | pour | Pour |
-| `seniku` | smile | Smile |
-| `sepho` | send | Send |
-| `sephori` | supply | Supply |
-| `seru` | commit | Commit |
-| `sethoni` | handoff | Handoff |
-| `sewaro` | transmit | Transmit |
-| `shalori` | represent | Represent |
-| `shane` | tell | Tell |
-| `shanewi` | notify | Notify |
-| `sharemi` | persuade | Persuade |
-| `shareo` | discuss | Discuss |
-| `sharoi` | exceed | Exceeds |
-| `shaweri` | advocate | Advocate |
-| `shelo` | signify | Signify |
-| `sheloa` | bloom | Bloom |
-| `shelomu` | understand | Understand |
-| `sheluo` | listen | Listen |
-| `shemoli` | harmonize | Harmonize |
-| `shemui` | utter | Utter |
-| `sheori` | communicate | Communicate |
-| `sherewa` | claim | Claim |
-| `shimalo` | discipline | Discipline |
-| `shiroka` | repair | Repair |
-| `shiwolu` | integrate | Integrate |
-| `sholei` | gather | Gather |
-| `shonela` | learn | Learn |
-| `shorai` | commune | Commune |
-| `shoraku` | interpret | Interpret |
-| `shorema` | contribute | Contribute |
-| `shorupo` | protect | Protect |
-| `shua` | come | Come |
-| `shuneki` | vaccinate | Vaccinate |
-| `sikanu` | certify | Certify |
-| `sirami` | record | Record |
-| `sirelu` | disclose | Disclose |
-| `sitheku` | transcribe | Transcribe |
-| `soki` | settle | Settle |
-| `solae` | explain | Explain |
-| `soliru` | hope | Hope |
-| `somaki` | test | Test |
-| `somela` | observe | Observe |
-| `someru` | supervise | Supervise |
-| `somethi` | monitor | Monitor |
-| `sonari` | isolate | Isolate |
-| `sone` | value | Value |
-| `soranu` | screen | Screen |
-| `sorila` | cultivate | Cultivate |
-| `sunoe` | regenerate | Regenerate |
-| `talome` | restore | Restore |
-| `tapu` | close | Close |
-| `tawi` | count | Count |
-| `temoe` | tend | Tend |
-| `teru` | process | Process |
-| `teshori` | quarantine | Quarantine |
-| `thalo` | walk | Walk |
-| `thape` | burn | Burn |
-| `theala` | heal | Heal |
-| `theama` | care | Care |
-| `thekamu` | intervene | Intervene |
-| `thekao` | acknowledge | Acknowledge |
-| `thekasi` | caption | Caption |
-| `thekiro` | write | Write |
-| `theko` | craft | Craft |
-| `thelima` | describe | Describe |
-| `thelu` | dialogue | Dialogue |
-| `themio` | reflect | Reflect |
-| `themui` | faith | Faith |
-| `thenoi` | falls-short | Falls Short |
-| `thenoki` | sustain | Sustain |
-| `theo` | read | Read |
-| `theomi` | trust | Trust |
-| `theonu` | attend | Attend |
-| `therapi` | boil | Boil |
-| `therilu` | rest | Rest |
-| `thilonu` | prepare | Prepare |
-| `thilou` | inquire | Inquire |
-| `thinu` | put | Put |
-| `thiranu` | maintain | Maintain |
-| `thiru` | exit | Exit |
-| `thiwera` | scatter | Scatter |
-| `thola` | bring | Bring |
-| `thole` | practice | Practice |
-| `tholira` | forgive | Forgive |
-| `thonuki` | fail | Fail |
-| `thophe` | sow | Sow |
-| `thorai` | bless | Bless |
-| `thorelu` | converse | Converse |
-| `thorima` | taste | Taste |
-| `thowia` | born | Born |
-| `thueli` | intend | Intend |
-| `thuleni` | comfort | Comfort |
-| `thumela` | teach | Teach |
-| `thunaro` | train | Train |
-| `thuo` | prosper | Prosper |
-| `thuroa` | grow | Grow |
-| `tiripe` | quiver | Quiver |
-| `tiwa` | tie | Tie |
-| `tukelu` | recycle | Recycle |
-| `tukiro` | review | Review |
-| `tupi` | jump | Jump |
-| `turema` | return | Return |
-| `wakomi` | surprise | Surprise |
-| `wapho` | throw | Throw |
-| `wapi` | fly | Fly |
-| `warosha` | reconcile | Reconcile |
-| `welira` | thrive | Thrive |
-| `welotu` | mix | Mix |
-| `welura` | spread | Spread |
-| `wema` | belong | Belong |
-| `weni` | imagine | Imagine |
-| `wenola` | collaborate | Collaborate |
-| `wephari` | coordinate | Coordinate |
-| `wepu` | go | Go |
-| `wepuri` | progress | Progress |
-| `wesho` | locate | Locate |
-| `whakeru` | object | Object |
-| `whaline` | thank | Thank |
-| `whamoi` | doubt | Doubt |
-| `whano` | stand | Stand |
-| `whekate` | refute | Refute |
-| `whelani` | welcome | Welcome |
-| `whemura` | dream | Dream |
-| `whenola` | wander | Wander |
-| `wheparu` | discriminate | Discriminate |
-| `whepelo` | retaliate | Retaliate |
-| `wheraku` | erode | Erode |
-| `whesu` | blow | Blow |
-| `whetuma` | appeal | Appeal |
-| `whinu` | smell | Smell |
-| `whishela` | whisper | Whisper |
-| `whola` | invite | Invite |
-| `whori` | mend | Mend |
-| `whunei` | breathe | Breath |
-| `wilao` | long-for | Long For |
-| `wile` | play | Play |
-| `winora` | plan | Plan |
-| `wiresu` | postpone | Postpone |
-| `wishe` | swim | Swim |
-| `wisola` | exchange | Exchange |
-| `woraka` | appreciate | Appreciate |
+| Word | Gloss |
+|---|---|
+| `halemu` | remember |
+| `haolu` | speak |
+| `hasi` | wait |
+| `hea` | hear |
+| `hekawi` | find |
+| `helaki` | amend |
+| `helanu` | recover |
+| `helolu` | redress |
+| `helui` | change |
+| `heno` | satisfy |
+| `hewe` | wipe |
+| `hinawu` | accommodate |
+| `hinolu` | adapt |
+| `hiru` | intuit |
+| `hola` | laugh |
+| `howela` | receive |
+| `kaeli` | like |
+| `kalei` | climb |
+| `kamo` | arrive |
+| `kanelu` | err |
+| `kanu` | choose |
+| `kanuwa` | authorize |
+| `kapura` | shout |
+| `kasira` | vote |
+| `kati` | cut |
+| `kawepa` | catch |
+| `kawhera` | coerce |
+| `kealo` | create |
+| `kehota` | cough |
+| `kela` | rejoice |
+| `kelai` | equals |
+| `kelitho` | function |
+| `kelomi` | accept |
+| `kelu` | become |
+| `keluro` | honor |
+| `kethira` | infer |
+| `ketora` | control |
+| `kire` | shape |
+| `kirothe` | define |
+| `kisome` | assess |
+| `kithawu` | triage |
+| `kithero` | diagnose |
+| `kiwate` | bite |
+| `koema` | enter |
+| `kolua` | carry |
+| `koluma` | unite |
+| `korei` | fulfill |
+| `kulo` | guide |
+| `kupe` | hide |
+| `kuremi` | grind |
+| `laniru` | journey |
+| `lei` | harmony |
+| `leiro` | release |
+| `lepa` | fall |
+| `lesawi` | consent |
+| `lilea` | clarify |
+| `liona` | live |
+| `loa` | give |
+| `loatho` | delegate |
+| `lomare` | embrace |
+| `lonae` | respond |
+| `lorea` | connect |
+| `lorima` | build |
+| `lothea` | love |
+| `lumeo` | die |
+| `lumera` | nourish |
+| `lupaki` | fold |
+| `lupho` | float |
+| `makelu` | abstain |
+| `malomi` | balance |
+| `manawi` | compromise |
+| `manolu` | stay |
+| `masue` | measure |
+| `masuro` | calibrate |
+| `meilo` | sit |
+| `meliho` | sing |
+| `meloa` | persevere |
+| `menai` | dedicate |
+| `menui` | dwell |
+| `meropi` | cherish |
+| `milau` | drink |
+| `miratu` | recognize |
+| `misharo` | consult |
+| `mishoa` | express |
+| `molawi` | cooperate |
+| `molei` | evolve |
+| `moluki` | transform |
+| `morae` | sense |
+| `morashi` | relapse |
+| `moreko` | articulate |
+| `morume` | decompose |
+| `muholi` | dig |
+| `mukesi` | spoil |
+| `mupelo` | vomit |
+| `muraki` | harvest |
+| `nai` | be |
+| `napako` | bake |
+| `naphe` | help |
+| `nashaku` | enforce |
+| `natheri` | entail |
+| `natu` | pull |
+| `nawea` | respect |
+| `naweri` | refuse |
+| `nawo` | agree |
+| `nelore` | preserve |
+| `nelu` | revere |
+| `nephoru` | treat |
+| `nila` | see |
+| `nilaki` | inspect |
+| `nohero` | believe |
+| `nolami` | bond |
+| `noluha` | swallow |
+| `nomela` | encourage |
+| `nomira` | collect |
+| `noporu` | design |
+| `norelu` | form |
+| `nowae` | awaken |
+| `nuhemi` | grieve |
+| `nuhewa` | weep |
+| `nulae` | sleep |
+| `numea` | nestle |
+| `numelo` | nurture |
+| `numike` | negotiate |
+| `nuola` | eat |
+| `palo` | touch |
+| `panoru` | support |
+| `pawela` | participate |
+| `peki` | squeeze |
+| `perawi` | expose |
+| `pesa` | push |
+| `pesenu` | pollute |
+| `peshu` | lie |
+| `phae` | open |
+| `phaelo` | feel |
+| `phaluwe` | flood |
+| `phamo` | console |
+| `phanoi` | portion |
+| `phanuli` | allocate |
+| `pharelo` | cook |
+| `pharomu` | exclude |
+| `pharuki` | celebrate |
+| `pharune` | include |
+| `pheloma` | serve |
+| `phelona` | require |
+| `phelu` | hold |
+| `phelure` | store |
+| `phemiru` | visit |
+| `pherami` | depend |
+| `pheru` | endure |
+| `phesari` | flee |
+| `phesua` | inspire |
+| `phiketu` | contradict |
+| `phimela` | kiss |
+| `phiremo` | relate |
+| `phirena` | meditate |
+| `phoa` | do |
+| `pholeni` | depart |
+| `phowe` | share |
+| `phurewa` | sweep |
+| `phuro` | renew |
+| `pilewa` | make |
+| `pilora` | exploit |
+| `pilu` | take |
+| `pina` | sew |
+| `pisha` | split |
+| `pothu` | stink |
+| `pukate` | break |
+| `pula` | wish |
+| `puse` | spit |
+| `pushali` | overload |
+| `rashelo` | run |
+| `rato` | turn |
+| `remo` | think |
+| `renoa` | liberate |
+| `reo` | meaning |
+| `repora` | propose |
+| `rihe` | rise |
+| `rilowa` | assign |
+| `riola` | labor |
+| `rohi` | rub |
+| `roke` | move |
+| `romishe` | contemplate |
+| `rotiku` | dance |
+| `ruemi` | lie down |
+| `ruloi` | flourish |
+| `runaki` | wayfind |
+| `ruweli` | access |
+| `sahu` | forget |
+| `sano` | know |
+| `sawa` | wash |
+| `sekaru` | transfer |
+| `selomi` | weave |
+| `selu` | flow |
+| `seluto` | pour |
+| `seniku` | smile |
+| `sepho` | send |
+| `sephori` | supply |
+| `seru` | commit |
+| `sethoni` | handoff |
+| `sewaro` | transmit |
+| `shalori` | represent |
+| `shane` | tell |
+| `shanewi` | notify |
+| `sharemi` | persuade |
+| `shareo` | discuss |
+| `sharoi` | exceed |
+| `shaweri` | advocate |
+| `shelo` | signify |
+| `sheloa` | bloom |
+| `shelomu` | understand |
+| `sheluo` | listen |
+| `shemoli` | harmonize |
+| `shemui` | utter |
+| `sheori` | communicate |
+| `sherewa` | claim |
+| `shimalo` | discipline |
+| `shiroka` | repair |
+| `shiwolu` | integrate |
+| `sholei` | gather |
+| `shonela` | learn |
+| `shorai` | commune |
+| `shoraku` | interpret |
+| `shorema` | contribute |
+| `shorupo` | protect |
+| `shua` | come |
+| `shuneki` | vaccinate |
+| `sikanu` | certify |
+| `sirami` | record |
+| `sirelu` | disclose |
+| `sitheku` | transcribe |
+| `soki` | settle |
+| `solae` | explain |
+| `soliru` | hope |
+| `somaki` | test |
+| `somela` | observe |
+| `someru` | supervise |
+| `somethi` | monitor |
+| `sonari` | isolate |
+| `sone` | value |
+| `soranu` | screen |
+| `sorila` | cultivate |
+| `sunoe` | regenerate |
+| `talome` | restore |
+| `tapu` | close |
+| `tawi` | count |
+| `temoe` | tend |
+| `teru` | process |
+| `teshori` | quarantine |
+| `thalo` | walk |
+| `thape` | burn |
+| `theala` | heal |
+| `theama` | care |
+| `thekamu` | intervene |
+| `thekao` | acknowledge |
+| `thekasi` | caption |
+| `thekiro` | write |
+| `theko` | craft |
+| `thelima` | describe |
+| `thelu` | dialogue |
+| `themio` | reflect |
+| `themui` | faith |
+| `thenoi` | falls-short |
+| `thenoki` | sustain |
+| `theo` | read |
+| `theomi` | trust |
+| `theonu` | attend |
+| `therapi` | boil |
+| `therilu` | rest |
+| `thilonu` | prepare |
+| `thilou` | inquire |
+| `thinu` | put |
+| `thiranu` | maintain |
+| `thiru` | exit |
+| `thiwera` | scatter |
+| `thola` | bring |
+| `thole` | practice |
+| `tholira` | forgive |
+| `thonuki` | fail |
+| `thophe` | sow |
+| `thorai` | bless |
+| `thorelu` | converse |
+| `thorima` | taste |
+| `thowia` | born |
+| `thueli` | intend |
+| `thuleni` | comfort |
+| `thumela` | teach |
+| `thunaro` | train |
+| `thuo` | prosper |
+| `thuroa` | grow |
+| `tiripe` | quiver |
+| `tiwa` | tie |
+| `tukelu` | recycle |
+| `tukiro` | review |
+| `tupi` | jump |
+| `turema` | return |
+| `wakomi` | surprise |
+| `wapho` | throw |
+| `wapi` | fly |
+| `warosha` | reconcile |
+| `welira` | thrive |
+| `welotu` | mix |
+| `welura` | spread |
+| `wema` | belong |
+| `weni` | imagine |
+| `wenola` | collaborate |
+| `wephari` | coordinate |
+| `wepu` | go |
+| `wepuri` | progress |
+| `wesho` | locate |
+| `whakeru` | object |
+| `whaline` | thank |
+| `whamoi` | doubt |
+| `whano` | stand |
+| `whekate` | refute |
+| `whelani` | welcome |
+| `whemura` | dream |
+| `whenola` | wander |
+| `wheparu` | discriminate |
+| `whepelo` | retaliate |
+| `wheraku` | erode |
+| `whesu` | blow |
+| `whetuma` | appeal |
+| `whinu` | smell |
+| `whishela` | whisper |
+| `whola` | invite |
+| `whori` | mend |
+| `whunei` | breathe |
+| `wilao` | long-for |
+| `wile` | play |
+| `winora` | plan |
+| `wiresu` | postpone |
+| `wishe` | swim |
+| `wisola` | exchange |
+| `woraka` | appreciate |
 
 ## vocative (1)
 
-| Word | Gloss | Concept |
-|---|---|---|
-| `kona` | VOC | Vocative |
+| Word | Gloss |
+|---|---|
+| `kona` | VOC |
