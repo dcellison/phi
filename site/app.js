@@ -1,5 +1,5 @@
-/* Phi lexicon explorer — read-only search over web/lexicon.json,
-   with the compound registry (web/compounds.json) beside it */
+/* Phi lexicon explorer: read-only search over the generated lexicon.json,
+   with the generated compound registry beside it. */
 (async function () {
   const $ = (id) => document.getElementById(id);
   const PAGE = 50;
@@ -28,7 +28,7 @@
   try {
     lexicon = await (await fetch("lexicon.json")).json();
   } catch {
-    $("status").textContent = "lexicon.json not found — run: python3 scripts/build_explorer.py";
+    $("status").textContent = "lexicon.json not found. Run: python3 scripts/build_site.py";
     return;
   }
   try {

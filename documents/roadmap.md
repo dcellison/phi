@@ -204,7 +204,7 @@ This checklist protects implementation quality. It does not require external app
 | COR-04 | **READY** | Dialogue set whose successful outcome is disagreement, suspension, or revised framing rather than consensus. | Repair conventions | Add validated dialogues and re-run repair tests. |
 | COR-05 | **EVIDENCE** | Transcripts or reconstructions of spontaneous Phi conversation. | No spontaneous corpus yet | With consent, preserve normalized text and an error/repair log; do not publish raw voice by default. |
 | COR-06 | **PARTIAL** | Corpus-attestation data for phonetic and lexical decisions. | Phonetic audit counts documentation examples | Separate authored Phi usage from mentions in explanation as the corpus grows. |
-| PED-01 | **DONE** | Complete primer, reference manual, text shelf, pamphlet shelf, quick reference, and generated explorer. | `primer/`; `manual/`; `texts/`; `pamphlets/`; `web/` build | Keep generated outputs synchronized. |
+| PED-01 | **DONE** | Complete primer, reference manual, text shelf, pamphlet shelf, quick reference, and generated explorer. | `primer/`; `manual/`; `texts/`; `pamphlets/`; `build/site/` output | Keep generated outputs synchronized. |
 | PED-02 | **DONE** | Advanced teaching for source-material boundaries and productive names. | Manual chapter 24 and relevant pamphlets | Maintain exercises and answers as rules evolve. |
 | PED-03 | **PARTIAL** | Claims about learning burden aligned with actual grammar. | Revised introductory and manual prose | Continue auditing “one rule,” speed, and ease language. |
 | PED-04 | **EVIDENCE** | First complete outside learner walkthrough. | No result yet | Record chapter time, errors, questions, abandoned points, and prior language background. |
@@ -234,7 +234,7 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| PUB-01 | **DONE** | Web explorer, primer, manual, texts, and pamphlets build from repository sources. | `scripts/build_explorer.py` | Builds remain reproducible and safe. |
+| PUB-01 | **DONE** | Web explorer, primer, manual, texts, and pamphlets build from repository sources. | `scripts/build_site.py` | Builds remain reproducible and safe. |
 | PUB-02 | **DONE** | Public hosting and a canonical public URL. | `.github/workflows/pages.yml`; public URL in `README.md` | Keep deployment reproducible and update the documented URL if hosting changes. |
 | PUB-03 | **DEFERRED** | Automated print/PDF pipeline from the same Markdown and lexicon sources. | Strategy in `publishing.md` | Begin after content and learner evidence stabilize enough for page design. |
 | PUB-04 | **DEFERRED** | Circulated review PDF. | Depends on PUB-03 and outside readers | Gather corrections before physical production. |

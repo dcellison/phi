@@ -1,21 +1,34 @@
-"""Build the explorer's generated files: web/lexicon.json from the
-vocabulary, and web/index.html (the landing page) from kia.md.
+"""Build the complete Phi website under build/site.
 
-Generated output; not committed. Run before serving web/ locally:
-    python3 scripts/build_explorer.py
-    python3 -m http.server -d web
+Maintained website assets live under site/. Generated output is not committed.
+Run before serving the site locally:
+    python3 scripts/build_site.py
+    python3 -m http.server -d build/site
 """
 import html as html_module
 import json
 import re
+import shutil
 from pathlib import Path
 
 from compound_registry import load_compounds
 
 ROOT = Path(__file__).resolve().parent.parent
+SITE_SRC = ROOT / "site"
+BUILD_SITE = ROOT / "build" / "site"
 FIELDS = ["word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
           "description", "sound_symbolism", "grammatical_notes", "pillars", "tags",
           "modules"]
+
+
+def prepare_site_output():
+    """Create a clean deployment tree and copy maintained site assets into it."""
+    if BUILD_SITE.exists():
+        shutil.rmtree(BUILD_SITE)
+    BUILD_SITE.mkdir(parents=True)
+    for name in ("app.js", "explore.html", "reader.js", "style.css", "theme.js"):
+        shutil.copy2(SITE_SRC / name, BUILD_SITE / name)
+    shutil.copytree(SITE_SRC / "fonts", BUILD_SITE / "fonts")
 
 
 def prepare_html_output(path):
@@ -23,6 +36,9 @@ def prepare_html_output(path):
     path.mkdir(parents=True, exist_ok=True)
     for generated in path.glob("*.html"):
         generated.unlink()
+
+
+prepare_site_output()
 
 
 entries = []
@@ -33,11 +49,11 @@ for p in sorted((ROOT / "vocabulary").rglob("*.json")):
     entries.append(e)
 
 entries.sort(key=lambda e: e["word"])
-out = ROOT / "web" / "lexicon.json"
+out = BUILD_SITE / "lexicon.json"
 out.write_text(json.dumps(entries, ensure_ascii=False, separators=(",", ":")))
 print(f"wrote {out.relative_to(ROOT)}: {len(entries)} entries, {out.stat().st_size // 1024} KB")
 
-# ---- compound registry: documents/compounds.md to web/compounds.json ----
+# ---- compound registry: documents/compounds.md to build/site/compounds.json ----
 ALL_WORDS = {e["word"] for e in entries}
 CELL_MD = re.compile(r"`([^`]+)`|\*([^*]+)\*")
 
@@ -63,11 +79,11 @@ compounds = [
      "meaning": c["meaning"], "section": c["section"], "why_html": cell_html(c["why"])}
     for c in load_compounds()
 ]
-comp_out = ROOT / "web" / "compounds.json"
+comp_out = BUILD_SITE / "compounds.json"
 comp_out.write_text(json.dumps(compounds, ensure_ascii=False, separators=(",", ":")))
 print(f"wrote {comp_out.relative_to(ROOT)}: {len(compounds)} compounds")
 
-# ---- landing page: kia.md rendered to web/index.html ----
+# ---- landing page: kia.md rendered to build/site/index.html ----
 
 def md_to_html(md):
     """Convert the repo's constrained Markdown (headings, paragraphs,
@@ -176,10 +192,10 @@ landing = f"""<!doctype html>
 </body>
 </html>
 """
-(ROOT / "web" / "index.html").write_text(landing)
-print(f"wrote web/index.html from kia.md ({len(body.splitlines())} blocks)")
+(BUILD_SITE / "index.html").write_text(landing)
+print(f"wrote build/site/index.html from kia.md ({len(body.splitlines())} blocks)")
 
-# ---- colophon: colophon.md rendered to web/colophon.html ----
+# ---- colophon: colophon.md rendered to build/site/colophon.html ----
 
 colophon_body = md_to_html((ROOT / "colophon.md").read_text())
 colophon_page = f"""<!DOCTYPE html>
@@ -204,10 +220,10 @@ colophon_page = f"""<!DOCTYPE html>
 </body>
 </html>
 """
-(ROOT / "web" / "colophon.html").write_text(colophon_page)
-print("wrote web/colophon.html from colophon.md")
+(BUILD_SITE / "colophon.html").write_text(colophon_page)
+print("wrote build/site/colophon.html from colophon.md")
 
-# ---- the short road: short_road.md rendered to web/short_road.html ----
+# ---- the short road: short_road.md rendered to build/site/short_road.html ----
 
 short_road_body = md_to_html((ROOT / "short_road.md").read_text())
 short_road_page = f"""<!DOCTYPE html>
@@ -233,10 +249,10 @@ short_road_page = f"""<!DOCTYPE html>
 </body>
 </html>
 """
-(ROOT / "web" / "short_road.html").write_text(short_road_page)
-print("wrote web/short_road.html from short_road.md")
+(BUILD_SITE / "short_road.html").write_text(short_road_page)
+print("wrote build/site/short_road.html from short_road.md")
 
-# ---- primer reader: primer/*.md rendered to web/primer/ ----
+# ---- primer reader: primer/*.md rendered to build/site/primer/ ----
 
 TEXT_SITE_PATHS = {
     path.relative_to(ROOT).as_posix(): f"{path.stem}.html"
@@ -250,7 +266,7 @@ for chapter in sorted((ROOT / "texts" / "news_from_nowhere").glob("chapter_*.md"
 
 def link_text_citations(html):
     """Repo-path citations of the texts become on-site links (pages
-    using this all live one directory below web/)."""
+    using this all live one directory below the deployed site root)."""
     for repo_path, site_path in TEXT_SITE_PATHS.items():
         site_href = f"../texts/{site_path}"
         html = html.replace(
@@ -296,7 +312,7 @@ def add_gloss_popovers(html):
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
 
 PRIMER_SRC = ROOT / "primer"
-PRIMER_OUT = ROOT / "web" / "primer"
+PRIMER_OUT = BUILD_SITE / "primer"
 prepare_html_output(PRIMER_OUT)
 
 def title_of(md):
@@ -360,11 +376,11 @@ for f in chapters:
 start_end = (f'<p>Start with <a href="{chapters[0].stem}.html">{titles[chapters[0].name]}</a>; '
              f'the ladder above links every chapter; end with <a href="{chapters[-1].stem}.html">the capstone</a>.</p>')
 (PRIMER_OUT / "index.html").write_text(primer_page(link_text_citations(readme_body) + "\n" + start_end, "contents"))
-print(f"wrote web/primer/: {len(chapters)} chapters + contents")
+print(f"wrote build/site/primer/: {len(chapters)} chapters + contents")
 
-# ---- manual reader: manual/**.md rendered to web/manual/ ----
+# ---- manual reader: manual/**.md rendered to build/site/manual/ ----
 MANUAL_SRC = ROOT / "manual"
-MANUAL_OUT = ROOT / "web" / "manual"
+MANUAL_OUT = BUILD_SITE / "manual"
 prepare_html_output(MANUAL_OUT)
 
 def pretty(name, kind):
@@ -442,6 +458,29 @@ def slug(path):
     rel = path.relative_to(MANUAL_SRC)
     return str(rel.with_suffix("")).replace("/", "__") + ".html"
 
+
+MANUAL_SITE_PATHS = {path.resolve(): slug(path) for _, _, path in sections}
+MODULE_LEXICON = (MANUAL_SRC / "part7_reference" / "lexicon" / "by_module.md").resolve()
+
+
+def link_manual_pages(html, source):
+    """Point relative manual Markdown links at their flattened site pages."""
+    def rewrite(match):
+        href = match.group(1)
+        path, separator, fragment = href.partition("#")
+        target = (source.parent / path).resolve()
+        if target == MODULE_LEXICON:
+            suffix = f"?module={fragment}" if separator else ""
+            return f'href="../explore.html{suffix}"'
+        site_path = MANUAL_SITE_PATHS.get(target)
+        if site_path:
+            suffix = f"#{fragment}" if separator else ""
+            return f'href="{site_path}{suffix}"'
+        return match.group(0)
+
+    return re.sub(r'href="([^"]+\.md(?:#[^"]*)?)"', rewrite, html)
+
+
 sec_titles = [title_of(f.read_text()) for _, _, f in sections]
 for i, (part, ch, f) in enumerate(sections):
     crumb_bits = [part] + ([ch] if ch else [])
@@ -452,7 +491,8 @@ for i, (part, ch, f) in enumerate(sections):
     prev_link = f'<a href="{slug(sections[i-1][2])}">&lsaquo; {sec_titles[i-1]}</a>' if i > 0 else ""
     next_link = f'<a href="{slug(sections[i+1][2])}">{sec_titles[i+1]} &rsaquo;</a>' if i + 1 < len(sections) else ""
     footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
-    (MANUAL_OUT / slug(f)).write_text(manual_page(link_text_citations(body), sec_titles[i], footer_nav))
+    linked_body = link_manual_pages(link_text_citations(body), f)
+    (MANUAL_OUT / slug(f)).write_text(manual_page(linked_body, sec_titles[i], footer_nav))
 
 # contents page grouped by part and chapter
 toc = ["<h1>The Phi manual</h1>",
@@ -471,11 +511,11 @@ for i, (part, ch, f) in enumerate(sections):
     toc.append(f'<li><a href="{slug(f)}">{sec_titles[i]}</a></li>')
 if open_list: toc.append("</ol>")
 (MANUAL_OUT / "index.html").write_text(manual_page("\n".join(toc), "contents"))
-print(f"wrote web/manual/: {len(sections)} sections + contents")
+print(f"wrote build/site/manual/: {len(sections)} sections + contents")
 
 # ---- the Phi book: available chapters rendered as a work in progress ----
 BOOK_SRC = ROOT / "book"
-BOOK_OUT = ROOT / "web" / "book"
+BOOK_OUT = BUILD_SITE / "book"
 prepare_html_output(BOOK_OUT)
 NAV_BOOK = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">book</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
@@ -538,9 +578,9 @@ book_readme = re.sub(
     book_readme,
 )
 (BOOK_OUT / "index.html").write_text(book_page(book_readme, "contents"))
-print(f"wrote web/book/: {len(book_chapters)} chapters + contents")
+print(f"wrote build/site/book/: {len(book_chapters)} chapters + contents")
 
-# ---- the texts: translated and transmuted literature rendered to web/texts/ ----
+# ---- the texts: translated and transmuted literature rendered to build/site/texts/ ----
 import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
@@ -562,7 +602,7 @@ def tengwarize_dual(html):
         return "<pre>" + "\n".join(out) + "</pre>"
     return re.sub(r"<pre>(.*?)</pre>", do_pre, html, flags=re.S)
 
-TEXTS_OUT = ROOT / "web" / "texts"
+TEXTS_OUT = BUILD_SITE / "texts"
 prepare_html_output(TEXTS_OUT)
 
 
@@ -700,10 +740,10 @@ for stem, title, blurb in TEXTS:
 toc.append('<h2><a href="news_from_nowhere/index.html">nophi lue mawha lokue &mdash; News from Nowhere</a></h2><p class="text-method">Transmutation</p><p>Morris\'s novel is one work in 32 chapters. The chapters on the shelf carry its political argument from a winter meeting into a changed London and cite the source witness stored beside them.</p>')
 toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")
 (TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents", footer_nav=""))
-print(f"wrote web/texts/: {len(TEXTS) + 1} works, {len(news_chapters)} News from Nowhere chapters + contents")
+print(f"wrote build/site/texts/: {len(TEXTS) + 1} works, {len(news_chapters)} News from Nowhere chapters + contents")
 
-# ---- the pamphlets: deep-dive companions rendered to web/pamphlets/ ----
-PAMPH_OUT = ROOT / "web" / "pamphlets"
+# ---- the pamphlets: deep-dive companions rendered to build/site/pamphlets/ ----
+PAMPH_OUT = BUILD_SITE / "pamphlets"
 prepare_html_output(PAMPH_OUT)
 NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">short road</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
@@ -772,4 +812,4 @@ for dirname, title, blurb in PAMPHLETS:
     toc.append(f'<h2><a href="{dirname}__{pfiles[0].stem}.html">{title}</a></h2><p>{blurb}</p>')
 toc.append("<hr><p><em>More pamphlets are coming; the shelf is built to grow.</em></p>")
 (PAMPH_OUT / "index.html").write_text(pamphlet_page("\n".join(toc), "contents"))
-print(f"wrote web/pamphlets/: {pamph_pages} pages + contents")
+print(f"wrote build/site/pamphlets/: {pamph_pages} pages + contents")

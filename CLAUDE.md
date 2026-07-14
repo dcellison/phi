@@ -10,7 +10,7 @@ Authority order when documents disagree: `canon.md`. Settled decisions there are
 
 - All work happens on branches, opened as pull requests; the owner reviews and merges every PR himself. Never commit to main.
 - Run `python3 scripts/validate_examples.py` as a standalone command (never piped, so the exit code is visible) before any commit that touches vocabulary or documentation. Zero errors is the bar.
-- After vocabulary changes, regenerate derived artifacts: `python3 scripts/generate_reference.py` and `python3 scripts/build_explorer.py`.
+- After vocabulary changes, regenerate derived artifacts: `python3 scripts/generate_reference.py` and `python3 scripts/build_site.py`.
 - No AI attribution anywhere: no "Generated with" footers in PRs, no Co-Authored-By trailers in commits. Contributors are not singled out.
 - Self-generated filenames are lowercase snake_case; `README.md`, `CLAUDE.md`, and license files are the only exceptions.
 - Markdown paragraphs are single lines — never hard-wrap prose; renderers break on it.

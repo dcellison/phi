@@ -7,12 +7,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idx/
-web/lexicon.json
-web/compounds.json
 lexicon.db
-web/index.html
-web/primer/
-web/manual/
-web/book/
-web/texts/
-web/pamphlets/
+build/
+web/

@@ -2,7 +2,7 @@ name: retry flaky deploy
 
 on:
   workflow_run:
-    workflows: ["deploy explorer"]
+    workflows: ["deploy site"]
     types: [completed]
 
 permissions:
