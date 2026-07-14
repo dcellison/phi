@@ -7,12 +7,22 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "Very / Really / Intensely / Truly",
-  "description": "A word-level particle that intensifies the degree of the quality or state it precedes. Where 'mo' compares and 'mi' marks superlatives, 'ru' amplifies without comparison—not 'more beautiful than' or 'most beautiful of' but simply 'very beautiful.' It is the grammar of sincere emphasis, of saying 'I mean this strongly.'",
-  "sound_symbolism": "The particle begins with 'r', the rolling liquid that builds momentum—intensity that gathers and amplifies like a wave. This dynamic consonant meets 'u', the rounded back vowel of fullness and depth, suggesting amplification that fills rather than sharpens. Speaking 'ru' creates the sound of gathering intensity: the rolling onset building to resonant fullness. The sound teaches that true intensity comes from momentum and depth rather than mere volume.",
-  "grammatical_notes": "Occupies Slot 2, appearing immediately before adjectives or adverbs to intensify them: 'ru welao' (very good), 'ru reshi' (very fast). Distinguished from comparative 'mo' which requires comparison and superlative 'mi' which requires a reference set. 'Ru' marks absolute rather than relative intensity. Can stack with other modifiers: 'ru mo welao' (very much better). Cannot modify nouns directly—use with their qualities instead.",
+  "search_terms": [
+    "very",
+    "really",
+    "intensifier"
+  ],
+  "description": "Intensifier 'ru' raises the degree of the descriptor or verb it precedes. The forms 'ru welao' and 'ru reshi' mean very good and very fast. Comparison belongs to 'mo' (CMPR).",
+  "articulatory_notes": "A tongue-tip tap or short trill at the alveolar ridge leads into high-back 'u'. The lips round for the vowel, and the complete particle carries full stress.",
+  "sound_symbolism": "The tap or trill adds a flick of motion before the deep rounded vowel. Its contour may sound like a compact swell.",
+  "usage_notes": "The particle sits in the degree position nearest the word it modifies. It can precede comparative 'mo', so 'ru mo welao' means much better.",
+  "examples": [
+    {
+      "phi": "ha peloru ru phelora nai.",
+      "translation": "This flower is very beautiful."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Strong feelings are part of human experience and deserve clear expression. 'Ru' provides language for acknowledging the intensity of experience, and its rolling onset asks for a moment of deliberate articulation—enough to keep even emphasis mindful.",
-    "peace-linguistics-practices": "By building intensity from the liquid 'r' and rounded 'u' rather than harsh stops, Phi keeps emphatic speech gentle. 'Ru' allows speakers to express strong feelings without the aggressive sounds that can turn emphasis into verbal attack."
+    "peace-linguistics-practices": "The particle puts degree into the grammar. A strongly felt claim remains free to use conversational volume."
   }
 }

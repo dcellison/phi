@@ -7,12 +7,22 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "Focus / Emphasis / Gentle Highlighting",
-  "description": "A word-level particle placed immediately before the element to be emphasized. It marks contrastive or new-information focus explicitly, so emphasis is carried by a word rather than by volume or stress.",
-  "sound_symbolism": "The particle consists of 'k', the voiceless velar stop that creates a clear, clean boundary—like a frame around what matters. This decisive consonant meets 'o', the rounded vowel of wholeness and completeness. Together, 'ko' creates acoustic highlighting through definition rather than volume: the crisp 'k' draws a line around what is focused while the rounded 'o' holds it in a complete circle of attention. The sound teaches that emphasis can be achieved through clarity rather than force.",
-  "grammatical_notes": "Occupies Slot 2, appearing immediately before any word requiring focus—nouns, verbs, adjectives, or even other particles. Creates contrastive or new-information focus depending on context: 'mia ko lothea shelomu' (I understand love, specifically—not other things). Unlike stress-based focus in many languages, 'ko' makes emphasis visible in writing and consistent in speech. Can combine with other Slot 2 particles when focusing modified elements: 'ko lo melu' (the friends, with focus on the plurality).",
+  "search_terms": [
+    "focus",
+    "contrastive focus",
+    "emphasis"
+  ],
+  "description": "Focus 'ko' points the listener to the constituent carrying contrastive or new information. It highlights one alternative and keeps the others available; 'li' (RESTR) marks exclusion. Because focus has its own particle, it remains visible in writing and need not depend on louder stress.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for 'k' and releases into rounded true-mid 'o'. Full stress falls on this one syllable.",
+  "sound_symbolism": "The complete velar closure gives 'ko' a clear edge before the rounded vowel. That short boundary can cue the item brought into focus.",
+  "usage_notes": "The particle 'ko' stands immediately before the focused word. It follows plural or numeral material and precedes ordinary degree marking in the Slot 2 cline. The superlative uses the fixed pair 'mo ko' as a local exception.",
+  "examples": [
+    {
+      "phi": "ko mia thia nila.",
+      "translation": "I am the one who sees you."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Like the way Art Nouveau design guides the eye through subtle emphasis—a slightly thicker line, a gentle curve—'ko' creates linguistic emphasis through grace rather than force. It makes focus itself beautiful.",
-    "peace-linguistics-practices": "By using soft sounds for emphasis, 'ko' enables speakers to direct attention without aggression. This transforms potential verbal violence—the harsh emphasis that can feel like attack—into gentle guidance that respects the listener's attention as a gift rather than something to be seized."
+    "peace-linguistics-practices": "A speaker can put contrast into 'ko' instead of sharper volume. A correction can therefore locate its point at an ordinary speaking level."
   }
 }
