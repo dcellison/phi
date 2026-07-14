@@ -7,12 +7,23 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "That / There / Far from Speaker",
-  "description": "A word-level particle marking spatial or conceptual distance from the speaker—'that' rather than 'this'. It points to what lies beyond immediate reach: a far mountain, a past day, an idea mentioned earlier in the conversation.",
-  "sound_symbolism": "The particle begins with 'r', the liquid consonant that rolls outward—reaching, extending, pointing toward what lies beyond. This reaching consonant meets 'a', the open vowel that acknowledges space. Together, 'ra' sounds like distance made audible: the rolling 'r' suggests extension toward what is far while the open 'a' creates the acoustic space that separation requires. The continuous flow in 'r' mirrors the spanning of distance, connecting speaker to distant referent.",
-  "grammatical_notes": "Occupies Slot 2, appearing immediately before nouns to create distal demonstrative expressions. Functions as a deictic particle marking distance in space ('that mountain'), time ('that day'), or discourse ('that idea mentioned earlier'). Maintains the same form for singular and plural referents. Forms a minimal pair with proximal 'ha', distinguished only by the initial consonant. Can combine with other particles: 'ra lo' (those, plural). The distance marked is relative to context—'that' star versus 'that' book. Also stands alone as a predicative locative with 'nai': 'shia ra nai' (they are there) — the deictic itself is the location predicate, as the manual's deixis section teaches.",
-  "pillars": {
-    "peace-linguistics-practices": "'Ra' makes pointing at distant things an explicit, conscious act rather than a casual gesture. This guards against the easy othering that comes from marking things as 'over there,' separate from us.",
-    "pre-industrial-wisdom": "Traditional awareness includes what lies beyond reach—weather approaching from a distance, far communities connected by trade routes. 'Ra' keeps the distant present in speech: far, but still part of the shared world."
-  }
+  "search_terms": [
+    "that",
+    "there",
+    "distal demonstrative"
+  ],
+  "description": "With distal 'ra', the speaker points beyond the immediate frame: that person, that place, that time, or an earlier matter in the discourse. It selects the farther referent before a noun. Used alone with 'nai' (be), it supplies there as a location predicate; 'ha' (PROX) is the near counterpart.",
+  "articulatory_notes": "The tongue tip taps or briefly trills at the alveolar ridge for 'r', then lowers into unrounded open-central 'a'. Full stress rests on this single syllable.",
+  "sound_symbolism": "The tap or trill briefly reaches forward before the open vowel. A speaker may hear a little distance in that motion.",
+  "usage_notes": "Wider Slot 2 particles 'we' (ALSO) and 'li' (RESTR) stand before 'ra'; plurality, numerals, focus, and degree come after it. Number leaves the form unchanged: 'ra melu' means that friend, while 'ra lo melu' means those friends. A locational phrase supplies any finer distance than Phi's proximal and distal contrast.",
+  "examples": [
+    {
+      "phi": "ra shiro ru whalo nai.",
+      "translation": "That tree is very large."
+    },
+    {
+      "phi": "shia ra nai.",
+      "translation": "They are there."
+    }
+  ]
 }

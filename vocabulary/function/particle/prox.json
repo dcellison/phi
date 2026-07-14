@@ -7,12 +7,26 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "This / Here / Near Speaker",
-  "description": "A word-level particle marking nearness to the speaker: this, here. The nearness can be spatial, temporal, or discursive: this stone, this moment, the idea just mentioned.",
-  "sound_symbolism": "The particle consists of 'h', pure breath without obstruction—the most immediate, intimate consonant, present before any word can form. This breathy openness meets 'a', the open vowel that creates space for presence. Together, 'ha' sounds like proximity itself: the aspirate 'h' suggests the closeness of shared breath while the open 'a' acknowledges what fills that nearness. The sound requires speakers to exhale gently, appropriate for indicating what needs no shouting to reach.",
-  "grammatical_notes": "Occupies Slot 2, appearing immediately before nouns to create demonstrative expressions. Functions as a deictic particle marking proximity in space ('this book'), time ('this moment'), or discourse ('this idea just mentioned'). Does not inflect for number—'ha' serves for both singular and plural referents. Can combine with other Slot 2 particles: 'ha lo' (these, plural). The proximal/distal distinction is binary—no medial demonstrative exists. Also stands alone as a predicative locative with 'nai': 'mia ha nai' (I am here) — the deictic itself is the location predicate, as the manual's deixis section teaches.",
+  "search_terms": [
+    "this",
+    "here",
+    "proximal demonstrative"
+  ],
+  "description": "Proximal 'ha' points to what the speaker treats as near: this person, this place, this time, or the matter at hand. Before a noun it selects a nearby or current referent. Standing with 'nai' (be), it is the location predicate here; its partner 'ra' (DIST) points beyond the immediate frame.",
+  "articulatory_notes": "Air passes through an open glottis for 'h' and continues into unrounded open-central 'a'. Full stress covers the one syllable.",
+  "sound_symbolism": "Because the breath and vowel arrive almost together, 'ha' can feel immediate. The association makes a modest mnemonic for the nearer form.",
+  "usage_notes": "Within Slot 2, 'ha' follows 'we' (ALSO) or 'li' (RESTR) and precedes plurality, numerals, focus, and degree. The same form covers number: 'ha melu' means this friend, while 'ha lo melu' means these friends. Phi divides deixis into proximal and distal, without a separate medial form.",
+  "examples": [
+    {
+      "phi": "ha shiro phelora nai.",
+      "translation": "This tree is beautiful."
+    },
+    {
+      "phi": "mia ha nai.",
+      "translation": "I am here."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies the practice of presence—acknowledging what is here and now rather than losing ourselves in distant abstractions. Like mindfulness that returns attention to this breath, this moment, 'ha' grammaticalizes immediate awareness.",
-    "pre-industrial-wisdom": "Survival depends on intimate knowledge of the immediate environment—this plant is edible, this water is safe. 'Ha' carries the wisdom of proximity, the deep knowing that comes from direct encounter rather than distant report."
+    "secular-buddhist-philosophy": "The phrase 'ha philo' (today) uses the same particle as 'mia ha nai' (I am here). Present day and present place meet in ordinary speech."
   }
 }
