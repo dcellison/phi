@@ -123,6 +123,7 @@ main { max-width: 44rem; margin: 0 auto; padding: 1.75rem 1.25rem 4rem; }
   padding: .3rem .55rem;
 }
 .filters select:focus, .filters button:hover { border-color: var(--sage); outline: none; }
+.filters select:disabled { color: var(--muted); cursor: not-allowed; opacity: .5; }
 .filters button { color: var(--muted); cursor: pointer; margin-left: auto; }
 
 .vine { color: var(--sage); margin: 1.6rem auto 1rem; max-width: 26rem; opacity: .8; }
