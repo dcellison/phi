@@ -17,10 +17,22 @@
 
 <main>
   <div class="searchbar">
-    <input id="q" type="search" placeholder="search word, gloss, or meaning&hellip;  ( / to focus )" autocomplete="off" autofocus>
+    <input id="q" type="search" aria-label="search query" placeholder="search the lexicon&hellip;" autocomplete="off" autofocus>
   </div>
 
   <div class="filters">
+    <label class="search-field" for="f-field"><span>search in</span>
+      <select id="f-field">
+        <option value="all">all fields</option>
+        <option value="word">Phi word</option>
+        <option value="gloss">gloss</option>
+        <option value="pronunciation">pronunciation</option>
+        <option value="concept">concept</option>
+        <option value="description">description</option>
+        <option value="sound_symbolism">sound symbolism</option>
+        <option value="grammatical_notes">usage notes</option>
+      </select>
+    </label>
     <select id="f-pos"><option value="">any part of speech</option></select>
     <select id="f-tag"><option value="">any tag</option></select>
     <select id="f-module"><option value="">any module</option><option value="base-vocabulary">base vocabulary</option></select>

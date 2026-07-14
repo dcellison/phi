@@ -78,7 +78,25 @@
       return `<span class="phi"${link ? ` data-w="${tok}" role="link" tabindex="0"` : ""}>${inner}</span>`;
     });
 
-  const score = (e, q) => {
+  const textScore = (value, q) => {
+    const text = (value || "").normalize("NFC").toLowerCase();
+    if (text === q) return 0;
+    if (text.startsWith(q)) return 1;
+    if (text.includes(q)) return 2;
+    return -1;
+  };
+
+  const fieldScore = (e, q, field) => {
+    if (field === "pronunciation") {
+      const values = [e.ipa, e.syllables.join(" "), e.syllables.join(" · ")];
+      const scores = values.map((value) => textScore(value, q)).filter((s) => s >= 0);
+      return scores.length ? Math.min(...scores) : -1;
+    }
+    return textScore(e[field], q);
+  };
+
+  const score = (e, q, field) => {
+    if (field !== "all") return fieldScore(e, q, field);
     if (e.word === q || e.gloss.toLowerCase() === q) return 0;
     if (e.word.startsWith(q)) return 1;
     if (e.gloss.toLowerCase().includes(q)) return 2;
@@ -86,10 +104,16 @@
     if (e.concept.toLowerCase().includes(q)) return 4;
     if (e.description.toLowerCase().includes(q)) return 5;
     if ((e.grammatical_notes || "").toLowerCase().includes(q)) return 6;
+    if ((e.sound_symbolism || "").toLowerCase().includes(q)) return 7;
+    if (fieldScore(e, q, "pronunciation") >= 0) return 8;
     return -1;
   };
 
-  const compScore = (c, q) => {
+  const compScore = (c, q, field) => {
+    if (field === "word") return textScore(c.compound, q);
+    if (field === "gloss") return textScore(c.meaning, q);
+    if (field === "concept") return textScore(c.literal, q);
+    if (field !== "all") return -1;
     if (c.compound === q || c.meaning.toLowerCase() === q) return 0;
     if (c.meaning.toLowerCase().includes(q)) return 1;
     if (c.compound.includes(q)) return 2;
@@ -107,11 +131,12 @@
     }).join(" ");
 
   function search() {
-    const q = $("q").value.trim().toLowerCase();
+    const q = $("q").value.trim().normalize("NFC").toLowerCase();
+    const field = $("f-field").value;
     const fp = $("f-pos").value, ft = $("f-tag").value;
     const fm = $("f-module").value, fl = $("f-pillar").value;
     current = lexicon
-      .map((e) => ({ e, s: q ? score(e, q) : 7 }))
+      .map((e) => ({ e, s: q ? score(e, q, field) : 9 }))
       .filter(({ e, s }) =>
         s >= 0 &&
         (!fp || e.pos.includes(fp)) &&
@@ -123,7 +148,7 @@
     // registered compounds answer plain searches; the filters are word facets
     const compMatches = (q && !fp && !ft && !fm && !fl)
       ? compounds
-          .map((c) => ({ c, s: compScore(c, q) }))
+          .map((c) => ({ c, s: compScore(c, q, field) }))
           .filter(({ s }) => s >= 0)
           .sort((a, b) => a.s - b.s || a.c.compound.localeCompare(b.c.compound))
           .map(({ c }) => c)
@@ -232,15 +257,22 @@
   // cross-reference clicks
   document.addEventListener("click", (ev) => {
     const w = ev.target?.dataset?.w;
-    if (w) { $("q").value = w; search(); window.scrollTo({ top: 0, behavior: "smooth" }); }
+    if (w) {
+      $("q").value = w;
+      $("f-field").value = "word";
+      search();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
   });
 
   // wiring
   let t;
   $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(search, 120); });
-  for (const id of ["f-pos", "f-tag", "f-module", "f-pillar"]) $(id).addEventListener("change", search);
+  for (const id of ["f-field", "f-pos", "f-tag", "f-module", "f-pillar"]) $(id).addEventListener("change", search);
   $("clear").addEventListener("click", () => {
-    $("q").value = ""; for (const id of ["f-pos", "f-tag", "f-module", "f-pillar"]) $(id).value = "";
+    $("q").value = "";
+    $("f-field").value = "all";
+    for (const id of ["f-pos", "f-tag", "f-module", "f-pillar"]) $(id).value = "";
     search();
   });
   $("more").addEventListener("click", renderMore);
