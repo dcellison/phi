@@ -68,7 +68,7 @@ Dryer, Matthew S. 2013. Order of subject, object and verb. In The World Atlas of
 
 Dryer, Matthew S. 2013. Relationship between the order of object and verb and the order of adposition and noun phrase. In The World Atlas of Language Structures Online, edited by Matthew S. Dryer and Martin Haspelmath. wals.info/chapter/95.
 
-Gibran, Kahlil. 1923. The Prophet. New York: Alfred A. Knopf. The lines are from the teaching On Giving; the Phi rendering is on the project's texts shelf.
+Gibran, Kahlil. 1923. The Prophet. New York: Alfred A. Knopf. The lines are from the teaching On Giving.
 
 Goldin-Meadow, Susan, Wing Chee So, Aslı Özyürek, and Carolyn Mylander. 2008. The natural order of events: how speakers of different languages represent events nonverbally. Proceedings of the National Academy of Sciences 105(27): 9163-9168.
 
@@ -82,4 +82,6 @@ Ketrez, F. Nihan. 2012. A Student Grammar of Turkish. Cambridge: Cambridge Unive
 
 Slobin, Dan I. 1996. From "thought and language" to "thinking for speaking." In Rethinking Linguistic Relativity, edited by John J. Gumperz and Stephen C. Levinson, 70-96. Cambridge: Cambridge University Press.
 
-The chisel sentence and the one-rule statement are from the project's short road; the principle's full account is the manual's mindful-sentence chapter and the project's modifier-first philosophy paper; the Gibran lines are from the texts shelf's rendering of The Prophet's teaching on giving.
+### Phi sources
+
+The Phi material in this chapter comes from `short_road.md`, `documents/modifier_first_philosophy.md`, and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`. The Gibran example is in `texts/prophet_excerpts.md`.

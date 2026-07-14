@@ -171,3 +171,7 @@ Winawer, Jonathan, Nathan Witthoft, Michael C. Frank, Lisa Wu, Alex R. Wade, and
 Witzel, Christoph, and Karl R. Gegenfurtner. 2011. Is there a lateralized category effect for color? Journal of Vision 11(12): 16.
 
 Wolff, Phillip, and Kevin J. Holmes. 2011. Linguistic relativity. WIREs Cognitive Science 2: 253-265.
+
+### Phi sources
+
+The Phi material in this chapter comes from the number and evidential rulings in `canon.md`, the number chapters under `manual/part4_grammar/ch12_numbers/`, and the evidential chapters under `manual/part4_grammar/ch16_evidentiality/`. Its boundary on claims follows `documents/development_protocol.md`, especially the rule that design intentions must be tested in use rather than presented as guarantees.

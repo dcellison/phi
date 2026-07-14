@@ -66,6 +66,8 @@ That is what a refusal is, and why the word gap never fits. A gap can be filled 
 
 ## References
 
-Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2; the couplet is quoted and refused on the Phi texts shelf.
+Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2.
 
-The rulings cited in this chapter are recorded in the Phi project's canon under its refused-by-design entries: the natural clock; the natural ruler; the economy is a gift; refused in the core lexicon; states are worn, sensations are felt; and death is named plainly. The design essay referenced is the project's paper on the psychological violence of measurement. The worked example is texts/ring_verse_refusal.md; the day-station and distance examples are from the manual's words-of-time chapter and the language's reference pages.
+### Phi sources
+
+The Phi material in this chapter comes from the refused-by-design rulings in `canon.md`, the safeguards in `documents/development_protocol.md`, and `documents/psychological_violence_of_measurement.md`. Its worked examples draw on `short_road.md`, `manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md`, `manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md`, and `texts/ring_verse_refusal.md`.

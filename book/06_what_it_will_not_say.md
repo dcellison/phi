@@ -95,8 +95,10 @@ Return to the line at the top of the page. Tolkien's title and threat are still 
 
 ## References
 
-Tolkien, J. R. R. 1954. *The Fellowship of the Ring*. London: George Allen & Unwin. The quoted couplet is spoken in Book I, chapter 2, "The Shadow of the Past"; Phi's transmutation appears in `texts/ring_verse_refusal.md`.
+Tolkien, J. R. R. 1954. *The Fellowship of the Ring*. London: George Allen & Unwin. The quoted couplet is spoken in Book I, chapter 2, "The Shadow of the Past."
 
-United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. Resolution 217 A (III), adopted 10 December 1948. https://www.un.org/en/about-us/universal-declaration-of-human-rights/. The exact Article 1 witness used by the Phi text is stored in `texts/sources/udhr_1948.txt`.
+United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. Resolution 217 A (III), adopted 10 December 1948. https://www.un.org/en/about-us/universal-declaration-of-human-rights/.
 
-The Phi rules discussed here are in `canon.md`, especially *Refused in the core lexicon*, *Source material remains outside Phi*, *ne licenses a name atom*, *Productive Phi-form onyms*, and *Name register and source names*. The working checks are in `documents/development_protocol.md`; the source-boundary rationale is in `documents/word_shape_and_external_boundaries.md`; the teaching evidence is in the manual's source-material chapter and the naming pamphlet. The two worked literary sources are `texts/ring_verse_refusal.md` and `texts/human_rights_article_one.md`.
+### Phi sources
+
+The Phi material in this chapter comes from `canon.md`, `documents/development_protocol.md`, and `documents/word_shape_and_external_boundaries.md`. Source-boundary teaching is in `manual/part6_mastery/ch24_source_material/` and `pamphlets/source_material/`. Name teaching is in `pamphlets/naming/`, with the productive form checker in `scripts/name_forms.py`. The worked passages are in `texts/ring_verse_refusal.md` and `texts/human_rights_article_one.md`, with the exact UDHR witness in `texts/sources/udhr_1948.txt`.

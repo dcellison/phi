@@ -96,4 +96,6 @@ Toki Pona census. 2024. Results of the 2024 Toki Pona census. tokiponacensus.git
 
 Wandel, Amri. 2015. How many people speak Esperanto? Esperanto on the web. Interdisciplinary Description of Complex Systems 13(2): 318-321.
 
-The claims about Phi in the closing section rest on the project's own repository rather than on outside literature: the license, which declares the language itself free as a system; the development protocol, which disclaims universal ambition in its opening paragraph; and the validated texts shelf.
+### Phi sources
+
+The Phi material in this chapter comes from `LICENSE`, the opening of `documents/development_protocol.md`, and the catalog in `texts/README.md`.
