@@ -2,16 +2,16 @@
 
 To feel what verb-final order does, take one thought through both grammars.
 
-English: "The parent reads the book." Subject, then immediately the verb: the event is defined before the book has even been mentioned. English is a grammar of doers and doing; the action leads, and everything after it is elaboration. That design is fast, and its speed has a side effect: it lets a sentence commit to an action before the speaker has finished picturing the scene.
+English: "The parent reads the book." The verb arrives before its object, so the action is known while the book is still on its way. That ordering says nothing about whether the speaker is careful; English has carried more than its share of reflection. It simply places the action earlier in the stream.
 
 Now the same thought in Phi: *phao shelu theo.*
 
 First *phao*, a parent. A person appears, and the scene centers on them. Then *shelu*, a book. The scene gains a second element, not yet acted on, simply present. The listener now holds a complete still image: a parent, a book, and a quiet space of possibility between them. Only then comes *theo* (reads), and the image resolves. The verb does not drive the sentence; it completes it.
 
-## What the pacing does
+## What the order offers
 
-For the speaker, the structure imposes a small discipline: you must assemble the whole scene in mind before you commit to the action that binds it. A reactive sentence is still possible in Phi (no grammar can prevent one), but the shape of the language does not cooperate with it. The verb-slot at the end functions like a held breath.
+For the speaker, the structure offers a small repeated practice: keep the participants and their relations present until the verb connects them. It does not require the whole sentence to be planned before speech begins. A reactive sentence can move through Phi quickly, and a careful one can take its time. When a speaker takes up the practice, the scene remains present while it is still being spoken.
 
-For the listener, the effect is closer to courtesy. Nothing must be revised: every element arrives already labeled by its position, and the action lands on a scene both parties have finished building. A Phi sentence is not an assertion delivered so much as a space constructed together, with the verb as the moment the construction closes.
+For the listener, early particles and relators announce much of the structure, while the final verb requires the participants to be held in memory. Ambiguity and reinterpretation have not vanished; grammar rarely grants such favours. What Phi supplies is a recurring order in which relations can become audible before the event is complete.
 
-Neither of these effects is mystical. They are byproducts of word order, available to any verb-final language: Japanese and Turkish speakers know the held breath well. What Phi adds is intention: it chose this order *for* the pause, and then built the rest of its grammar (the next section) so that the pause is never confusing, only slow.
+None of this is mystical, and the memory cost is familiar to speakers of other verb-final languages. Phi's particular choice is to use that order as one place where mindful speech may be practised. The interval before the verb may be long or barely felt. What matters to the practice is the speaker's attention, not the elapsed time.

@@ -26,13 +26,21 @@ Phi draws from five core wisdom traditions:
 
 Phi is built around explicit values rather than claiming neutrality or universality. Speakers may map those values differently, reject parts of them, or expose needs the current design burdens. Separately preserved source material and case-by-case review keep the project open to faithful disagreement.
 
+### 1.3. Mindfulness, Right Speech, and tempo
+
+Phi is a philosophical constructed language for practising mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
+
+Its Buddhist influence is explicit: mindfulness returns attention to the present utterance, while Right Speech brings truthfulness, kindness, benefit, and nonviolence into the choice of words. Peace linguistics carries the same attention into questions of relationship, agency, domination, refusal, and repair.
+
+A learner may speak slowly while finding each vowel, and a difficult conversation may need silence around its words; urgent care may be both rapid and fully attentive. Tempo cannot prove that a speaker is present.
+
 ## 2. What Makes Phi Special
 
 ### 2.1. Sound as Meaning
 Phi's lexicon uses recurring sound-symbolic associations: liquids often suggest connection, fricatives often accompany reflective concepts, and nasals often suggest grounding. These are project-internal mnemonic and aesthetic choices, not universal facts about sound or meaning.
 
 ### 2.2. Structure for Mindfulness
-The Subject-Object-Verb order places arguments before the action, while the three-slot particle system announces many grammatical relationships early. This can support deliberate composition, but verb-final order also asks listeners to retain material until the predicate arrives.
+The Subject-Object-Verb order places arguments before the action, while the three-slot particle system announces many grammatical relationships early. Evidential particles let a speaker name how a claim is known when its source matters. These structures can become occasions for deliberate composition, but they do not force reflection, and verb-final order also requires listeners to retain material until the predicate arrives.
 
 ### 2.3. Accessibility by Design
 Phi uses a small sound inventory and consistent analytic patterns, but several contrasts, dense function words, thirty-five particles, clause frames, and ternary numerals still require study. No claim about universal ease or speed is justified until people with differing first languages have learned it.

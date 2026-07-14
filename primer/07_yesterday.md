@@ -32,7 +32,7 @@
 |---|---|---|
 | thero | the · ro | fire |
 
-*Soup was made and eaten while the storm worked. The third line deserves a slow look: the fire gave light (*keru to loa*), and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
+*Soup was made and eaten while the storm worked. The third line deserves a close look: the fire gave light (*keru to loa*), and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
 
 ## III
 

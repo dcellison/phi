@@ -1,37 +1,37 @@
 # Pillar Four: Peace linguistics
 
-## The grammar of nonviolence
+## What speech does between people
 
-The fourth pillar provides practical engineering for Phi's ideals. It draws from Peace Linguistics, an academic field studying how language can perpetuate conflict or, when reshaped, help build peace.
+Right Speech directs attention toward truth, kindness, and benefit. Peace linguistics adds another question: what does an utterance do to the relationship in which it lands?
 
-This discipline goes beyond advocating polite words. It analyzes the grammar of violence and asks: what would a grammar of nonviolence look like? Phi applies this research directly.
+The field studies how language can rehearse conflict, hide power, or help people build peace. Phi draws on that work in its metaphors, clause frames, and vocabulary. None of those features can make a peaceful speaker. They can make agency, harm, and the possibility of repair easier to discuss without treating domination as ordinary.
 
 ## Dismantling the war metaphor
 
-One key finding, pioneered by cognitive linguists like George Lakoff, is that abstract concepts are understood through physical metaphor. In many languages, especially Western ones, the dominant metaphor for intellectual disagreement is war.
+Cognitive linguistics examines how physical metaphors help people organise abstract thought. English often casts intellectual disagreement as war.
 
-We don't discuss ideas; we battle. An argument is territory to be won or lost. Positions get attacked, defended, demolished. We shoot down theories, find weak points, stick to our guns. This isn't just colorful language. It's a metaphorical system that structures our entire approach to discourse and funnels us into adversarial mindsets where the goal is victory, not understanding.
+Arguments are won or lost. Positions are attacked and defended. A theory gets shot down. These expressions do not force every English discussion into combat, but they keep the equipment close at hand and can make victory sound like the natural purpose of disagreement.
 
-Phi's vocabulary systematically avoids war metaphors. Disagreement becomes exploration of different paths. Persuasion becomes invitation. The metaphors shift from combat to collaboration.
+Phi does not make the war metaphor its ordinary account of discussion. A disagreement can be approached as different paths through a problem, and persuasion as an invitation to examine another path. Violence can still be reported, translated, or criticised; refusing it as the default metaphor must never make testimony harder to state.
 
-## Requests over commands
+## Requests and commands
 
-Peace Linguistics examines the relationship between grammar and social hierarchy. In many languages, the imperative mood is grammatically simple. "Go!" or "Help!" often requires just the bare verb root. This makes issuing hierarchical orders easy.
+Phi marks a directive with the clause-initial particle `no`. The form identifies a command or request before its content arrives. With `pi no`, the speaker also marks politeness.
 
-Phi subverts this pattern. There's no bare-verb imperative. To instruct someone, you use the request particle `no`, which frames the instruction as a cooperative suggestion between equals rather than a command from superior to subordinate. The cultural expectation is to soften this further with the politeness particle `pi`. The natural way to ask someone to do something is `pi no...`, "Please, would you..."
+That is useful clarity, not an ethical conversion. A polite order from someone holding power remains an order, and a gentle voice can still leave no safe room to refuse. The grammar makes the directive audible. Right Speech leaves the speaker responsible for respecting the listener's agency and hearing the listener's answer.
 
-By making polite, cooperative requests the grammatical default and hard commands more complex, the language promotes a culture of asking over ordering.
+Phi therefore teaches `pi no` as the ordinary form for a considerate request without pretending that two particles can establish equality between the people using them.
 
-## The de-escalating passive
+## Observation and accountability
 
-The passive voice, marked by the particle `se`, is another tool for nonviolent communication. In interpersonal conflict, immediate blame assignment often escalates things. The active voice centers the actor: "You broke the pot." That's a direct accusation that puts the other person on the defensive.
+A pot lies in pieces on the floor. One possible first sentence is `tomi ma sholu nai`, "the pot is not complete." It names the shared condition without deciding, in the same breath, why it happened or who must answer for it. That can make room for care before accusation.
 
-Phi offers an alternative. It has no word for "break," so the observation stands without an actor: `tomi ma sholu nai`, "the pot is not whole." True, observable, non-accusatory. It creates shared understanding around the problem and opens conversation about what to do next rather than a fight about fault.
+Phi also has `pukate` (break). When cause, responsibility, or danger matters, Right Speech does not require anyone to hide the actor. The passive marker `se` may be useful when an actor is unknown or genuinely beside the point; it may also be used to evade accountability. Peace does not live in one voice construction. It lies in choosing the construction that tells enough truth for this relationship and this moment.
 
 ## Justice as restoration
 
-This philosophy of restoration over punishment extends into the lexicon. Phi avoids words that frame justice as retribution. Instead, justice is defined through a restorative lens.
+The lexicon gives justice a restorative centre. `theloma` names the process of restoring balance and mending relationships after disharmony, with healing and reintegration preferred to punishment.
 
-The word for justice, `theloma`, doesn't rush: the breathed `th` asks for deliberation, and the word settles into its balanced center before it ever closes. A transgression isn't a crime to punish but a disharmony to guide back into balance. `tholira` (forgive) doesn't imply pardoning a debt; say it and feel the release instead, the gentle breath that opens it, the burden lifting through the liquid `li`, the warm outward reach of the closing `ra`. Forgiveness, spoken this way, sounds like exactly what it is: a letting go, not a transaction.
+Restoration still needs an account of what happened. `tholira` (forgive) names releasing resentment without condoning harm, while `warosha` (reconcile) names work on the relationship itself. A person may forgive without returning, reconcile without forgetting, or decline either while seeking justice. Phi keeps those acts separate because peace made from a blurred boundary is not much of a peace.
 
-These features work together: grammar defaulting to polite requests, passive voice that de-escalates blame, vocabulary defining justice as restoration. The language can't prevent someone from expressing harmful ideas. But it makes them work harder to do so. Peaceful communication becomes the path of least resistance.
+Peaceful speech is not merely soft speech. A refusal may need to be plain, testimony exact, and repair demanding. Phi's contribution is to keep source, agency, boundaries, and relationship in view. The speaker still has to look.

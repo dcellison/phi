@@ -39,6 +39,6 @@ Stress the second-to-last syllable, always: **lo · PI · a**, **mi · SHE · ko
 
 ## The one instruction
 
-Read aloud, and read slowly. Phi is deliberately unhurried: the pace is not a beginner's allowance, it is how the language is meant to sound in a fluent mouth. If you feel yourself speeding up, that is the signal to begin the sentence again.
+Read aloud, and give each word its full shape. A beginner may need to go slowly; a fluent speaker need not. Give enough attention to keep every vowel distinct and the utterance present to its listener. If haste blurs the sentence, begin it again. If it does not, let the occasion set the pace.
 
 Now turn the page. From here on, the language will teach you itself.

@@ -22,7 +22,7 @@ Public access removes the technical gate, but it does not supply recurring reade
 
 **The object.** In this niche, the physical book sells as an object. People buy gorgeous language and writing-system books who will never learn the contents. Phi's owner is a graphic designer, and the design language already exists: Art Nouveau by principle, Fraunces and Gentium, bone paper and green-black ink, one vine of ornament. A print manual in that dress gets bought for its beauty and read for its ideas.
 
-**The angle.** Phi has a positioning no other conlang holds cleanly: a language designed to make you slow down. That pitch reaches meditation, mindfulness, and slow-living readers who would never visit a conlang forum. The mindfulness angle is the bridge out of the niche, and it is not marketing spin — it is literally the design brief the language was built to.
+**The angle.** Phi is a language for practising mindful and compassionate speech. That can reach readers interested in meditation, mindfulness, peace linguistics, and slow living who would never visit a conlang forum, but it is not a promise to make them speak slowly. The connection is not marketing spin: mindfulness and Right Speech belong to the design brief, and Phi gives their questions recurring places in grammar and vocabulary. Its unhurried quality is freedom from needless haste, not a tempo imposed on every conversation.
 
 ## Production: one source of truth, in print too
 

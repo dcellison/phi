@@ -1,6 +1,10 @@
 # Phi
 
-**kia** — hello. Phi is a philosophical constructed language built around one modifier-first organizing principle, regular forms, and a practice of unhurried communication. Its shelf of literature includes a Ring Verse transmutation whose refusal remains visibly separate from Tolkien's source.
+**kia** — hello.
+
+Phi is a philosophical constructed language for practising mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
+
+The language has one modifier-first organising principle, regular forms, and a shelf of literature that includes a Ring Verse transmutation whose refusal remains visibly separate from Tolkien's source.
 
 **If you are new, do not start here.** Start with **[kia.md](kia.md)** — five minutes, and it will tell you whether Phi is for you. Or start with the language alive: everything below is rendered to **[dcellison.github.io/phi](https://dcellison.github.io/phi/)** on every merge. This page is the map of the repository for whoever comes back.
 

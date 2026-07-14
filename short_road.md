@@ -152,7 +152,7 @@ The shelf distinguishes translation from transmutation. A close translation rema
 
 Phi names five pillars rather than presenting its choices as neutral. The sky stations and walking-distance measure draw on pre-industrial wisdom, while the moneyless Morris scene looks towards solarpunk.
 
-*Announce, then deliver* owes part of its patience to secular Buddhist practice, though grammar promises no automatic mindfulness. Art Nouveau appears in meanings grown through relation: grey from stone, pink from dawn. Peace linguistics asks whether an utterance sustains relationship or rehearses domination. That is why the Ring Verse receives a refusal.
+*Announce, then deliver* owes part of its attention to Buddhist mindfulness and Right Speech, the practices of staying present to an utterance and considering what it will do. Grammar promises neither automatically. Art Nouveau appears in meanings grown through relation: grey from stone, pink from dawn. Peace linguistics asks whether an utterance sustains relationship or rehearses domination. That is why the Ring Verse receives a refusal.
 
 These commitments make Phi culturally situated and value-explicit. Speakers remain responsible for what they do with it.
 

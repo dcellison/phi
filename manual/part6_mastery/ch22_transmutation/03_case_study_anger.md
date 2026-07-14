@@ -4,7 +4,7 @@ Take the most ordinary of hard sentences:
 
 > "I am angry at you because you lied to me."
 
-A translator reaches for the word "angry" and finds nothing. Phi has no word for anger. The absence is deliberate, but the feeling is real, and a language for peace that cannot voice hard feelings would be a language for pretending. So what does Phi do?
+A translator reaches for the word "angry" and finds no single Phi word with that gloss. The feeling is still speakable, and a language for peace that could not voice hard feelings would be a language for pretending. The question here is what this transmutation chooses to do with it.
 
 ## Step 1: What is the sentence doing?
 
@@ -16,11 +16,11 @@ The compound registry provides the feeling: **`korua thero`**, *heart-fire*. Not
 
 The cause is plain vocabulary: `peshu` (lie), `to` for the past.
 
-And the "at"? Here the language resists, and the resistance is the lesson. Phi has no way to aim a feeling at a person: there is no "angry *at*" construction, because the fire is in *your* heart, not in them. The grammar refuses the accusation, and in refusing it, forces the sentence apart into what is actually true.
+Phi has no lexicalised "angry *at*" construction, but that does not prevent a speaker from accusing someone or assigning a cause. Ordinary clauses can do both. This transmutation chooses to separate the reported lie, the speaker's feeling, and the requested change. The fire remains in the speaker's heart while responsibility for the lie remains available to state.
 
 ## Step 3: Rebuild
 
-What is actually true is two facts and, if we are honest about what the speaker wants, a request:
+The rendering uses two statements and a request. It states the accusation directly, then gives the feeling and desired change their own clauses:
 
 ```
 thia wei mia to peshu.
@@ -36,7 +36,7 @@ POL IMP DAT 1SG true speak.
 (Please speak truth to me.)
 ```
 
-An observation. A feeling. A request. Speakers of nonviolent communication will recognize this triad: it is the structure NVC teaches people to build deliberately, against the grain of their language. Phi's grammar produces it as the path of least resistance. There was no way to say the accusing version, so the honest version is what came out.
+An observation. A feeling. A request. Speakers of nonviolent communication will recognise the structure, and Phi has concise ways to express each part. The transmuter still chose it. A close translation could preserve more of the source's accusatory force; this rendering instead shows what happens when the sentence passes through Phi's commitment to nonviolent speech.
 
 ## The fire as a source
 
@@ -48,8 +48,8 @@ OPT NONE person ABL heart fire DAT 3SG harmful wish.
 (May no one, from the fire of the heart, wish harm upon another.)
 ```
 
-*From* the fire, not *as* the fire. The person and the anger remain distinct, which is precisely the distinction that makes both compassion and change possible.
+*From* the fire, not *as* the fire. The person and the anger remain distinct, a distinction that can leave room for both compassion and change.
 
 ## What transmutation preserved and what it transformed
 
-Preserved: the feeling, its intensity, its cause, the speaker's need. Transformed: the aim. English loaded the feeling onto the other person; Phi returned it to its owner. Nothing true was lost. What was lost was not true.
+Preserved: the feeling, its intensity, its stated cause, the speaker's need. Transformed: the aim. English presents the addressee as the target of the feeling; this transmutation returns the feeling to the speaker while retaining the accusation as a separate clause. That is an interpretive choice. A close translation would owe the source its accusatory force; a transmutation owes the reader an account of why it changed it.

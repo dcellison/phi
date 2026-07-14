@@ -185,8 +185,8 @@ landing = f"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Phi is a philosophical constructed language organized by modifier-first grammar and an unhurried practice of communication.">
-<meta property="og:title" content="Phi — a language built to slow you down">
+<meta name="description" content="Phi is a philosophical constructed language for practising mindful and compassionate speech.">
+<meta property="og:title" content="Phi: a language for mindful and compassionate speech">
 <meta property="og:description" content="A modifier-first organizing principle, regular forms, clear source boundaries, more than a thousand words, a primer, a manual, and literature already on the shelf.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://dcellison.github.io/phi/">
@@ -350,7 +350,7 @@ def primer_page(body, title, footer_nav=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="The Phi primer: learn a language built to slow you down, one household chapter at a time.">
+<meta name="description" content="The Phi primer: learn a language for mindful and compassionate speech, one household chapter at a time.">
 <title>Phi primer &mdash; {title}</title>
 <script src="../theme.js"></script>
 <script src="../reader.js" defer></script>

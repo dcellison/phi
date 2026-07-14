@@ -6,7 +6,7 @@ Phi suits this method unusually well. There are no irregular forms, so every wor
 
 ## How to read
 
-Aloud, always, and slowly. Phi is built to be spoken with unhurried care: every syllable open, every vowel pure, stress on the second-to-last syllable. Read each scene twice: once for the shape, once for the meaning. If a sentence resists, do not stop to analyze it; read on, and let the next three sentences teach it. The margin gives you new words; everything else you already have.
+Aloud, always, and with attention. Keep every syllable open, every vowel pure, and the stress on the second-to-last syllable. Read at the pace that lets you hear those things; fluency may quicken the sentence without merging its sounds. Read each scene twice: once for the shape, once for the meaning. If a sentence resists, do not stop to analyse it; read on, and let the next few sentences teach it. The margin gives you new words; everything else you already have.
 
 Each chapter ends with a single pointer into the manual for readers who want the machinery named. Following it is never required.
 

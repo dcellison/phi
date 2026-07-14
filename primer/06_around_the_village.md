@@ -30,7 +30,7 @@
 | shua | shu · a | come |
 | kolua | ko · lu · a | carry |
 
-*A friend at the village well (where friends are usually found), and the child carries water from it. Read that last sentence slowly: who, from where, what, and only then the doing. By now your ear waits for the verb without being told to.*
+*A friend at the village well (where friends are usually found), and the child carries water from it. Read that last sentence once with its relations in view: who, from where, what, and only then the doing. By now your ear waits for the verb without being told to.*
 
 ## III
 
@@ -69,6 +69,6 @@
 
 ---
 
-*Part I is complete. Read all six chapters again in one slow sitting; it will take you twenty minutes, and this time none of it will resist you. You can say what things are and do, make them many, describe them, ask and answer, greet and part, say whose and where, and hand a flower from one person to another with the grammar announcing every step. That is a life, in miniature. Part II adds time to it.*
+*Part I is complete. Read all six chapters again in one attentive sitting; it will take you twenty minutes, and this time little of it should resist you. You can say what things are and do, make them many, describe them, ask and answer, greet and part, say whose and where, and hand a flower from one person to another with the grammar announcing every step. That is a life, in miniature. Part II adds time to it.*
 
 *The machinery, when you want it: the prepositions live in the manual's Part IV; giving-sentences with* wei *appear in chapter 21's social patterns.*

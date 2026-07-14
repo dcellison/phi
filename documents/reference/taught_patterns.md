@@ -300,7 +300,7 @@ COND IRR 1SG bird be. 1SG fly.
 
 ## X. Evidence
 
-**P37 · How you know.** `hi` witnessed · `ke` inferred · `ti` told · `ho` assumed — the evidentials stand in the Slot 1 block and make every statement honest about its source; the unmarked sentence claims no source at all. Taught in ch. 24.
+**P37 · How you know.** `hi` witnessed · `ke` inferred · `ti` told · `ho` assumed — the evidentials stand in the Slot 1 block and make a claimed source explicit; the unmarked sentence claims no source at all. Taught in ch. 24.
 
 ```
 mia suliwa hi nila.

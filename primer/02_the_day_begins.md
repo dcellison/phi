@@ -68,6 +68,6 @@
 
 ---
 
-*Read the chapter once more, aloud and unhurried. You now hold both of Phi's great shapes: what things are, and what things do.*
+*Read the chapter once more aloud and give every vowel its own place. You now hold both of Phi's great shapes: what things are, and what things do.*
 
 *The machinery, when you want it: word order and the verb-final principle are the manual's Part IV, chapter 10.*

@@ -1,30 +1,30 @@
 # Pillar Two: Buddhist concepts
 
-## A science of the mind
+## A practice of attention
 
-If Solarpunk maps the outer world, this second pillar maps the inner one. Phi draws from Buddhist philosophy as psychology: a long-tested method for understanding consciousness, requiring no faith and no metaphysics.
+If Solarpunk maps the outer world, this second pillar attends to inner life and the speech that emerges from it. Phi draws openly from Buddhist philosophy and practice without requiring faith or metaphysical agreement.
 
-For over two thousand years, Buddhist thinkers have investigated the mind with rigor and precision. The result: practical tools for cultivating clarity, compassion, and equanimity. Phi borrows these tools and embeds them directly into grammar and vocabulary.
+The borrowed tools are practical: mindfulness, compassion, equanimity, and attention to the conditions from which an action arises. Phi gives them places in grammar and vocabulary.
 
-The goal is simply to make beneficial mental states the path of least resistance: grammar as a gentle slope.
+The aim is practice, not conversion. A sentence cannot confer a mental state, but it can offer a speaker another place to notice one.
 
 ## Mindfulness as grammar
 
-Central to this pillar is mindfulness, what Phi calls `thesua`. Not vague "awareness" but the active practice of paying deliberate, non-judgmental attention to present experience: thoughts, feelings, sensations as they arise.
+Central to this pillar is mindfulness, what Phi calls `thesua`. Here it means deliberate, non-judgmental attention to present experience, including the act of speaking while it is still happening.
 
-This isn't just vocabulary. It's woven into syntax.
+Phi gives that attention recurring work.
 
-The strict Subject-Object-Verb word order is a direct application. Before stating what happened, speakers must build the full context: who acted, what was affected. The grammar interrupts reactive patterns and forces a more considered pace. You think before you speak, because the structure requires it.
+In a Subject-Object-Verb clause, participants and circumstances arrive before the action that joins them. A speaker can use that order as a small practice of keeping the scene present until the verb comes. The grammar does not require a long pause or a completed thought before speech begins; a fluent sentence may be quick, and an impulsive one remains possible. Its value is the occasion for attention, not the delay.
 
-The evidential particles deepen this practice. Speakers must consider the source of their knowledge. Did I witness it directly (`hi`)? Did I infer it from evidence (`ke`)? Did someone tell me (`ti`)? Am I only assuming (`ho`)? This constant, subtle nudge to observe before asserting is Phi's primary tool for training attention.
+The evidential particles make another choice available. When a source matters, `hi` marks direct witness, `ke` inference, `ti` report, and `ho` assumption. Choosing one invites the speaker to inspect a claim before presenting it; leaving them off remains grammatical and makes no source claim. Mindfulness here is not silence for its own sake. It is knowing what one is doing with the sentence in hand.
 
 ## Right speech
 
-From mindfulness comes a commitment to compassionate expression. In Buddhist tradition, this appears as Right Speech: communication chosen for truthfulness, kindness, and benefit to all involved.
+Attention alone is ethically unfinished. In Buddhist tradition, Right Speech brings truthfulness, kindness, and benefit into the choice of an utterance. Phi carries that concern into the moment before words enter a relationship.
 
-Phi makes Right Speech the path of least resistance. Not by forbidding harmful speech, but by redirecting it. The lexicon reframes volatile emotions and turns destructive impulses into signals for constructive action.
+Source markers help a speaker distinguish witness from assumption. Clause-initial frames make questions and directives audible. The lexicon gives ordinary words to pain, consent, refusal, forgiveness, and repair. None of these makes an utterance right, but each keeps a relevant choice within reach.
 
-Where other languages might offer words that escalate conflict, Phi offers words that illuminate underlying needs. The vocabulary becomes a guide for navigating difficult feelings with greater skill. You can still express frustration, but the language encourages you to articulate what you actually need rather than attacking who offended you.
+Compassion does not require a pleasant answer. Phi can state pain, refuse contact, name harm, and preserve exact testimony. Right Speech calls for truth without turning truth into permission to dominate. In conflict, Phi's native vocabulary often turns toward needs, consequences, boundaries, and what repair would require rather than borrowing the metaphors of combat.
 
 ## Interconnectedness
 
@@ -36,8 +36,8 @@ This insight inspires Phi's compositional lexicon, though the composition runs t
 
 ## The natural path
 
-These elements work together: syntax that encourages deliberate thought, vocabulary that reframes difficult emotions, compositional words that reveal connection.
+Mindfulness supplies attention to the present utterance. Right Speech considers what that utterance will do. Interconnectedness keeps the speaker from pretending that words end at the lips.
 
-Phi is not a "Buddhist language," and nothing here asks for belief. It borrows the tradition's practical toolkit so that mindfulness and compassion arrive as the natural way to communicate rather than as ideals to strain toward.
+Buddhist belief is not required. Phi names this source because hiding it would turn an inheritance into an invention, and because the practice becomes thinner when mindfulness is reduced to a fashionable synonym for calm.
 
-The language doesn't force you to be mindful. It just makes mindfulness the easiest path.
+A Phi sentence can still be heedless or cruel. The speaker, not the grammar, undertakes Right Speech. Phi's part is to keep attention, evidence, boundaries, and repair close enough to choose.
