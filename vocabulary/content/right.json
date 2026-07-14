@@ -6,9 +6,7 @@
     "ku",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Right / The Right Side / Rightward",
   "description": "The right side of the body and, by extension, the right side of anything oriented: the right hand, the right path, the right bank. Body-relative direction, the partner of 'lawe' (left). Names direction only — Phi deliberately does not use this word for correctness or entitlement.",
   "sound_symbolism": "The firm 'ku' plants itself, and the bright 'ri' points outward — the steadying hand and the indicating finger. Deliberately shares no sounds with its partner 'lawe' (left), so the two directions can never be confused, spoken or written.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "By refusing the English conflation of 'right' (direction) with 'right' (correct), Phi keeps direction value-neutral: no side is privileged.",
     "pre-industrial-wisdom": "Direction reckoned from the body, the way a river is read from its banks and a tool from the hand that holds it."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Side of the body",
     "spatial": "Body-relative direction"
   }

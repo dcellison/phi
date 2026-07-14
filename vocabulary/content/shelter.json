@@ -7,9 +7,7 @@
     "ro",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Shelter / Protection from Elements / Refuge",
   "description": "A place giving temporary protection from bad weather or danger; to provide such protection. 'Shuroa' names the protective space—roof over head, walls against wind, safety from exposure.",
   "sound_symbolism": "The word covers and protects. 'Shu' /ʃu/ begins with soft enclosure, protection forming. 'Ro' surrounds steadily. Finally 'a' opens to safety within, shelter complete.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Shelter enables other needs—without safety and protection, higher concerns cannot be addressed.",
     "pre-industrial-wisdom": "Shelter was first necessity—protection from elements before all other concerns."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Refuge",
     "spatial": "Protective space"
   }

@@ -7,9 +7,7 @@
     "no",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Portion / Distribute / Divide (Mathematical)",
   "description": "The verb of portioning a whole among recipients or groups, and Phi's word for arithmetic division. The metaphor makes distribution and its consequences visible rather than presenting division only as abstract splitting. In arithmetic, 'phanoi' identifies a quotient and, when necessary, a remainder. Equal numerical portions do not by themselves establish that a distribution is fair, sufficient, consensual, or responsive to different needs.",
   "sound_symbolism": "The word begins with 'pha', where the bilabial fricative 'ɸ' suggests an abstract operation and echoes 'phoi' (nine-group). The open 'a' suggests space receiving what is distributed. The nasal 'n' in 'no' grounds the movement, while 'o' evokes the whole from which portions come. The final 'i' marks the quotient coming into focus. Three syllables give the operation a distinct audible shape without claiming that pronunciation makes the distribution fair or the calculation mindful.",
@@ -20,7 +18,7 @@
     "peace-linguistics-practices": "By framing division as portioning, 'phanoi' keeps the ethical question of distribution visible. It does not embed equity into arithmetic or guarantee that equal portions produce justice.",
     "pre-industrial-wisdom": "Communities have carefully portioned meals, harvests, and the fruits of shared labor. 'Phanoi' can evoke that practical knowledge while leaving the fairness of any particular allocation open to examination."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Names arithmetic division through a portioning metaphor",
     "community": "Relates a total to recipients or groups without asserting fairness"
   }

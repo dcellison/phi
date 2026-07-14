@@ -6,9 +6,7 @@
     "le",
     "mi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Thin / Of Little Thickness / Slender",
   "description": "With opposite sides or surfaces close together; not thick or dense. 'Lemi' names the quality of thinness—minimal depth, slender form.",
   "sound_symbolism": "The word slips through. 'Le' begins with light ease, substance minimal. Then 'mi' completes delicately, thinness achieved.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Thin lines created delicacy—fine strokes suggesting lightness and grace.",
     "pre-industrial-wisdom": "Thin materials required skill—working with minimal substance demanded precise technique."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Little thickness",
     "spatial": "Slender form"
   }

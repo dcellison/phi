@@ -7,9 +7,7 @@
     "the",
     "la"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Valid / Structurally Entailing",
   "description": "Having a structure in which the premises entail the conclusion. Validity is a fact about the argument's shape, and a valid argument can still rest on a false premise, since truth and structure are two separate questions.",
   "sound_symbolism": "Crisp 'ki' gives the word a narrow, bright beginning. 'The' receives the stress and replaces the stop with sustained air along the teeth. 'La' releases the tongue into a broad vowel. From one exact point, the contour breathes through its relation and lays the whole pattern open.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Validity separates structural relation from attachment to a preferred conclusion, allowing form and factual premises to be examined independently.",
     "peace-linguistics-practices": "Calling an argument valid need not endorse its premises, while calling it invalid need not condemn its speaker."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the quality of an argument whose premises entail its conclusion",
     "wisdom": "a precise assessment kept distinct from truth and persuasion"
   },

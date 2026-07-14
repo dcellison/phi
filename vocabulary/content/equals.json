@@ -7,9 +7,7 @@
     "la",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Become (Result) / Equal / Transform Into",
   "description": "The verb that announces the result of an arithmetic operation or states equality between two quantities. In a result clause it can evoke an outcome becoming explicit after a process; in a comparison clause it states an ordinary mathematical equality without requiring a temporal change. Related to 'kelu' (become), 'kelai' specializes result and equality relations for mathematical contexts.",
   "sound_symbolism": "The word begins with 'ke', echoing 'kelu' (become) and announcing transformation—the crisp 'k' marks a clear moment of change. The liquid 'l' in 'la' flows the transformation smoothly forward, connecting operation to outcome. The open 'a' receives the result with spaciousness. The final 'i' crystallizes into clear presence, bright and defined—the result now manifest. The progression from decisive 'k' through flowing 'la' to crystallized 'i' traces the journey from operation through process to outcome. The word sounds like arrival, like emergence into clarity.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "A separate result clause can make the claimed outcome easy to locate and question. 'Kelai' announces that a result or equality is being asserted; it does not ensure that the assertion is correct, complete, or honestly used.",
     "pre-industrial-wisdom": "Cycles complete: seeds become harvests, labor becomes craft, ingredients become meal. 'Kelai' preserves the understanding that results mark the completion of process, the fruition of work done."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Announces mathematical results through explicit statement",
     "temporal": "Can mark an operation's stated outcome; pure equality is not temporal"
   }

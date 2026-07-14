@@ -7,9 +7,7 @@
     "ru",
     "po"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Protect / Guard Safely / Shield from Harm",
   "description": "To keep safe from harm, providing shelter and defense through peaceful means. 'Shorupo' is protection without violence—shielding the vulnerable, standing between danger and what needs safeguarding, using presence and care rather than force.",
   "sound_symbolism": "The word shelters like a protective presence. 'Sho' /ʃo/ begins with hushing comfort, creating safe space. Then 'ru' rolls with steady watchfulness, guardian alertness. Finally 'po' holds with labial firmness, boundary maintained gently.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Protecting ecosystems and communities requires vigilance and care—stewardship is active protection of what sustains life.",
     "peace-linguistics-practices": "Peaceful protection guards without aggression—standing with the vulnerable rather than against perceived enemies."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Guarding the vulnerable",
     "physical": "Creating safety through presence"
   }

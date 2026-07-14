@@ -7,9 +7,7 @@
     "re",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "State / Relevant Conditions of a System at a Time",
   "description": "The selected conditions of a system at a given time. A state is a chosen description built for a purpose, never the whole truth of the thing it describes, and a different question can select different conditions to describe.",
   "sound_symbolism": "'Mi' begins behind closed lips and keeps the first sound close. Stressed 're' rolls across the center and sets the held details in relation. 'La' lays the tongue down into broad 'a' and moves the contour from inward gathering through arrangement to a state spread out where it can be seen.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Tracking system states supports transparent maintenance and adaptation while exposing which conditions a design chooses to notice.",
     "secular-buddhist-philosophy": "A state is presented as a conditioned description at a time, not as a permanent essence."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a selected description used to analyze change",
     "physical": "the term can describe measurable material and operational conditions",
     "temporal": "conditions attributed to a particular time"

@@ -6,9 +6,7 @@
     "ro",
     "hi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Rub / Work with Friction / Stroke Repeatedly with Pressure",
   "description": "To rub: warmth into cold hands, oil into wood, the ache from a shoulder. Repeated pressured strokes — friction as care. Firmer than 'hewe' (wipe), warmer than 'peki' (squeeze).",
   "sound_symbolism": "The rolling 'r' is the repetition itself, 'hi' the heat-breath friction makes. The word warms.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Warmth rubbed into a tired limb is compassion at skin level — care that needs no words to be understood.",
     "pre-industrial-wisdom": "Fire from friction, shine from friction, warmth from friction — rubbing was heat before matches and medicine before pills."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Friction as care",
     "physical": "Repeated pressured strokes"
   }

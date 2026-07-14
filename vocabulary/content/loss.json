@@ -7,9 +7,7 @@
     "lu",
     "me"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Loss / The After of Holding",
   "description": "Loss: the state after what was held is gone — a person, a place, a possibility. It pairs with 'nuhemi' (grieve), which is what a person does with it, and with 'phelu' (hold), which is what came before it.",
   "sound_symbolism": "'ho' opens on the emptiness, 'lu' remembers the holding, 'me' settles quietly where it was.",
@@ -17,7 +15,7 @@
   "pillars": {
     "secular-buddhist-philosophy": "Everything held will be lost; this is not pessimism but arithmetic. The word makes the fact sayable soon enough to soften it."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "The gone made nameable",
     "emotion": "What remains of holding"
   }

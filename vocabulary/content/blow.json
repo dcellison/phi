@@ -6,9 +6,7 @@
     "whe",
     "su"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Blow / Move as Air / Stream of Breath or Wind",
   "description": "The action of moving air: wind blowing across the land, breath blown to cool tea or coax a fire. The verb the air family was missing — 'haowu' (air), 'howeli' (wind), 'whunei' (breathe) name the substances; 'whesu' is what they do.",
   "sound_symbolism": "The voiceless 'whe' IS the sound of blowing — air shaped by lips without voice, the word performing its own meaning. The soft 'su' is the stream continuing past. Say 'whesu' aloud and you have already done the thing it names.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "The breath blown out and gone: the most available teacher of impermanence. The word for blowing is the meditation object in motion.",
     "pre-industrial-wisdom": "Breath on embers, wind read for weather, air moved by bellows — the working knowledge of moving air in a world without machines."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The motion of wind and air",
     "physical": "Moving air with breath or weather"
   }

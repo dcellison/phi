@@ -7,9 +7,7 @@
     "o",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Trust / A Deliberate Opening of the Self",
   "description": "The confident reliance on the integrity and goodwill of another. It is a courageous and considered choice to make one's inner self vulnerable and whole in relation to another.",
   "sound_symbolism": "The thoughtful 'the' makes trust a choice, not naivety - wisdom deciding when vulnerability serves connection. This deliberation opens to 'o', the wholeness that refuses to hide parts of self in shadow. Finally 'mi' brings the intimate core forward, offering what is usually protected. Three syllables trace trust's brave journey: careful consideration, complete presence, personal revelation - the courage to be known.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Trust forms the foundation upon which peaceful communication stands - without basic faith in others' humanity and good intentions, dialogue becomes impossible. This practice requires vulnerability and courage, choosing to believe in the possibility of understanding even when past experience counsels caution. Trust given often creates trust returned."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "essential for building social bonds",
     "dialogue": "foundation for genuine communication",
     "emotion": "emotional vulnerability and courage"

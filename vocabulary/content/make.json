@@ -7,9 +7,7 @@
     "le",
     "wa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Make / Create / Craft",
   "description": "The fundamental verb of creation and crafting, expressing the act of bringing something new into existence through intentional effort and skill. Unlike 'do' which performs actions, 'make' transforms materials, ideas, or situations into new forms. It encompasses both physical crafting and abstract creation - making objects, making peace, making meaning. In Phi, making is understood as participation in the ongoing creation of the world, where human creativity works in harmony with natural patterns. The word acknowledges that to make is to take responsibility for what we bring into being, understanding that our creations outlive the moment of their making and become part of the world's fabric.",
   "sound_symbolism": "The word begins with 'pi', where the stop 'p' is the maker's touch—the precise point where hand meets material—and the bright, focused 'i' holds concentrated intention. This touch releases into 'le', the liquid heart of the word, where skill streams through the hands like water finding its channel: the long middle of the work. The word completes in 'wa', where the glide 'w' turns the work outward and the open 'a' releases the finished thing into the world. The vowel journey from closed 'i' through mid 'e' to open 'a' enacts the whole arc of creation—focused intention, flowing craft, open-handed release. The single stop is spent exactly where making spends it: at the first decisive contact with the material.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "Making embodies the Art Nouveau principle that beauty and function are inseparable - that human creativity should work with natural forms to create objects that are both useful and beautiful. 'Whea' carries the movement's dedication to craftsmanship, to the hand-made over the mass-produced, celebrating the unique character that emerges when human creativity meets natural materials.",
     "pre-industrial-wisdom": "Traditional making carries deep knowledge of materials gained through generations of working with them. This wisdom understands that true craftsmanship creates objects meant to last, to be mended, to carry stories. 'Whea' preserves the understanding that making is a dialogue with materials, not domination of them."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental human activity of making",
     "creation": "bringing new forms into existence",
     "physical": "transforming materials through action"

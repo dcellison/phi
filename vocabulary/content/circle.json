@@ -7,9 +7,7 @@
     "ru",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Circle / Round Form / Gathering Shape",
   "description": "A round shape where all points are equal distance from center; a group arranged in this form. 'Sorui' names the shape of equality—where no one sits at the head.",
   "sound_symbolism": "The word curves complete. 'So' sweeps with enclosing motion, circle forming. 'Ru' runs around the perimeter, form continuing. Then 'i' rises to completion, the circle closed.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Circle as wholeness—the mandala form, complete and containing.",
     "pre-industrial-wisdom": "Circle as equality—the ancient form where all can see each other, none elevated."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Equal arrangement",
     "spatial": "Round form"
   }

@@ -7,9 +7,7 @@
     "na",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Width / Distance Across / Horizontal Extent",
   "description": "The measurement from side to side; the quality of being wide. 'Lonai' names horizontal extent—how far something spans, how broad something stretches.",
   "sound_symbolism": "The word spans level. 'Lo' opens with horizontal extent, span beginning. 'Na' extends across with stable reach. Then 'i' completes the measurement, width known.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Width of view sees more—broad perspective recognizes connection and context.",
     "art-nouveau-aesthetics": "Width created flow—horizontal designs that guided the eye across surfaces."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Breadth",
     "spatial": "Horizontal extent"
   }

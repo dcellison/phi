@@ -7,9 +7,7 @@
     "e",
     "ka"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Route / Course of Travel / Way Taken",
   "description": "A way or course taken in getting from a starting point to a destination. 'Shoeka' names the specific path chosen—the actual course traveled, the way selected among options.",
   "sound_symbolism": "The word traces a course. 'Sho' /ʃo/ begins with purposeful movement, journey starting. The vowel 'e' opens to the way. Then 'ka' marks points along, route defined.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The route matters—how we travel shapes who we become, the path itself is the teaching.",
     "pre-industrial-wisdom": "Routes encoded knowledge—traditional paths that avoided danger, found water, led to safety."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Course of travel",
     "wisdom": "Way chosen"
   }

@@ -7,9 +7,7 @@
     "ri",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Broom / Long Brush for Sweeping",
   "description": "A long brush made for moving dust and loose material across a floor or ground surface. 'phuri' (brush) covers the hand tool used for paint, grooming, or close cleaning; 'phurilo' gives that brush the reach and breadth of sweeping.",
   "sound_symbolism": "Deep bilabial breath in 'phu' flows into the stressed bright tongue tap of 'ri'. Before final 'lo', 'phuri' (brush) is heard whole. That last syllable releases the tongue and rounds into a longer, lower chamber.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A broom of replaceable fibers and a mended handle works through hand force and can clean for years.",
     "pre-industrial-wisdom": "Twig, straw, reed, and palm brooms matched the plants at hand and wore down where the floor recorded every stroke."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "an instrument used in sweeping",
     "creation": "a long-handled brush made for floors or ground",
     "physical": "bristles moving loose material across a surface"

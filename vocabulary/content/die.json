@@ -7,9 +7,7 @@
     "me",
     "o"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Die / Death / The Ending of a Life",
   "description": "To die. The second threshold of the life-arc, partnered with 'thowia' (born/birth). Deliberately kin to 'lumae' (end): dying named as a kind of ending, within the same gentle sound-family, so the word is unblinking about what it names while carrying no harshness.",
   "sound_symbolism": "The liquid 'lu' flows downward into depth, 'me' settles like breath growing quiet, and the final 'o' closes the circle — whole, complete, rounded shut. Nothing sharp, nothing violent: a life arriving at its own edge. The 'lum-' opening it shares with 'lumae' (end) teaches the word's meaning through family resemblance.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Grief that can be spoken plainly does not have to become anger. Plain words for death make honest mourning — and honest condolence — possible.",
     "pre-industrial-wisdom": "Traditional cultures kept death visible: washed, sung, buried by hand. Naming it directly is older and kinder than hiding it."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The universal ending of living things",
     "ritual": "The event around which mourning gathers",
     "temporal": "The second threshold of a life"

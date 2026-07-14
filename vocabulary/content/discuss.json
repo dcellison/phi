@@ -7,9 +7,7 @@
     "re",
     "o"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Discuss / To Build a Shared Bridge",
   "description": "The act of talking about something in detail, exploring it from multiple perspectives to build a more complete and shared understanding of the whole.",
   "sound_symbolism": "The word opens with the soft 'sha', creating shared space from the first breath—discussion as invitation, not debate. The bridging 're' in the middle creates the back-and-forth movement, the gentle volley of ideas passing between minds. The final 'o' opens into wholeness, suggesting that discussion aims not to win but to arrive somewhere together. This progression—from shared beginning through reciprocal exchange to unified understanding—transforms discussion from intellectual combat into collaborative exploration.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "To discuss skillfully requires releasing attachment to our own views while maintaining commitment to truth-seeking. It embodies the practice of holding perspectives lightly - strong enough to share them clearly, loose enough to let them evolve through encounter with others' insights. Discussion becomes a practice ground for recognizing the partial nature of all individual perspectives.",
     "peace-linguistics-practices": "Discussion as collaborative exploration transforms potential conflict into shared inquiry. Rather than defending positions, participants build understanding together, using differences in perspective as resources for creating more complete pictures. This practice prevents the violence of silencing or dismissing viewpoints, creating space where all contributions can enrich collective understanding."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "builds understanding by examining multiple perspectives",
     "dialogue": "explores topics through detailed communicative exchange"
   }

@@ -6,9 +6,7 @@
     "sha",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Three-Group / First Ternary Scale",
   "description": "A noun representing a group of three, the first scale in Phi's ternary numeral system. Exact forms count it with 'ta' or 'wi'; a bare 'shao' before a noun gives an approximate magnitude around three. Three commonly falls within the small range adults can identify without serial counting under suitable viewing conditions, but the word makes no claim that every triad is perceptually immediate or naturally complete.",
   "sound_symbolism": "The two syllables 'sha.o' offer a mnemonic image of gathering. The sustained fricative 'sh' /ʃ/ can suggest separate grains moving together, the open 'a' releases the sound, and the final rounded 'o' suggests a bounded group. These associations support recall; they do not describe a universal cognitive response to the sound.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Triads such as the Three Jewels and Three Marks of Existence give 'shao' useful mnemonic associations for Buddhist discussion. Those doctrinal triads do not establish base three as a natural or spiritually privileged numeral system.",
     "pre-industrial-wisdom": "Triadic patterns such as beginning, middle, and end occur in storytelling and practical organization. 'Shao' can evoke that familiar grouping without claiming that all traditional societies counted in threes or that triads are universally complete."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Names a small group that often falls within the adult subitizing range under suitable viewing conditions",
     "wisdom": "Makes triadic grouping available as a design association rather than a universal claim"
   }

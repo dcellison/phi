@@ -6,9 +6,7 @@
     "lo",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Give / Offer / Share",
   "description": "To pass something from oneself to another: material gifts, help, knowledge, time, attention. 'Loa' is the general transfer verb of generosity; the recipient is marked with 'wei'. Its neighbors are 'howela' (receive), 'phowe' (share), and 'wisola' (exchange).",
   "sound_symbolism": "The word begins with 'lo', where the liquid consonant 'l' flows like the gesture of offering - smooth, continuous, connecting giver to receiver without break. This flowing movement meets 'o', the round vowel of wholeness and completion, suggesting the fullness of what is offered. The hiatus between 'o' and 'a' creates a moment of release - the space where possession transforms into gift, where holding becomes letting go. The final 'a' opens completely, the most open vowel expressing total release and acceptance. The whole word flows like the act of giving itself: 'lo' extends the offering, the vowel sequence 'o.a' completes the transfer from fullness to openness. It sounds like water poured from vessel to vessel, unbroken flow.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Giving embodies dāna, the first of the six perfections (paramitas) - generosity without attachment or expectation. True giving recognizes we are temporary custodians, not owners, practicing non-clinging through release. 'Loa' grammaticalizes the understanding that what we give freely enriches us more than what we grasp, that letting go is the path to abundance.",
     "pre-industrial-wisdom": "Traditional cultures measure wealth by what one gives away - the potlatch, the gift circle, the understanding that generosity creates social wealth. 'Loa' preserves reciprocal economies where giving establishes relationships and maintains community bonds, where the gift carries the spirit of the giver."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "creating bonds through sharing",
     "physical": "transferring objects between people"
   }

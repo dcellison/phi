@@ -7,9 +7,7 @@
     "na",
     "wi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Compromise / Reach Agreement Through Mutual Concession",
   "description": "For people with different aims to reach agreement, each accepting less than they first sought. The word names the process and its settlement together; it promises nothing about whether the result is just, and a coerced compromise can rightly be refused.",
   "sound_symbolism": "'Ma' begins with lips closed together, then opens fully on 'a'. At the word's center, stressed 'na' repeats the nasal steadiness farther forward, so two similar sounds occupy distinct places. The glide of 'wi' rounds the lips and narrows toward bright 'i'. Those positions join in one slender path while their shared resonance continues.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Compromise is available as one outcome of dialogue without being treated as morally required, inherently fair, or preferable to a clear refusal.",
     "pre-industrial-wisdom": "Long-lived communal arrangements often depend on revisable settlements among people who must continue living and working together after disagreement."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a settlement reached through concessions among participants",
     "dialogue": "an outcome of negotiating differing aims",
     "wisdom": "a practical but morally nonautomatic response to conflict"

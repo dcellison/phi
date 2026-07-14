@@ -6,9 +6,7 @@
     "pha",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Parent / A Generative Source of Wholeness",
   "description": "One who nurtures new life into being, whether through biological, adoptive, or community bonds. The role is defined by the act of providing a generative, whole, and open space for another to grow.",
   "sound_symbolism": "'Pha' opens with the bilabial fricative /ɸ/, breath given outward—the sustaining breath a parent lends to new life. The final 'o' rounds into the circle of protection a parent forms around the young. Two open syllables keep the word soft: stewardship, not ownership.",
@@ -16,7 +14,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Traditional parenting was a communal practice where biological parents were supported by extended family, neighbors, and elders in raising children. This distributed care system ensured no parent bore the burden alone and children learned from multiple wisdom keepers. The village that raises the child also sustains the parent."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamental to family bonds and social structure",
     "creation": "literally creates and nurtures new life"
   }

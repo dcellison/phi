@@ -7,9 +7,7 @@
     "hu",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Noise / Sound Without Pattern",
   "description": "Noise: sound without pattern or address — the clatter, the din, the hum that means nothing. Phi names it structurally, not morally: noise is not 'bad sound', it is sound that carries no shape. Contrast 'meliphe' (music), which is nothing but shape.",
   "sound_symbolism": "Hard 'ko' knocks, 'hu' rumbles, 'ra' scatters. Three syllables that decline to make a melody.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Keeping noise structural rather than evaluative matters: one person's noise is another's living sounds, and the word refuses to pick that fight."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Sound carrying no shape"
   }
 }

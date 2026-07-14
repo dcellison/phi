@@ -7,9 +7,7 @@
     "ne",
     "pa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sacred Place / Holy Site / Place of Reverence",
   "description": "A place regarded with reverence and respect; a site of spiritual significance. 'Thunepa' names where the sacred dwells—temples, groves, mountains, any place treated with ultimate care.",
   "sound_symbolism": "The word honors place. 'Thu' /θu/ begins with reverent breath, sacredness present. 'Ne' settles with grounded presence. Then 'pa' completes with gentle affirmation, sacred place confirmed.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Any place can become sacred—through attention, care, and reverence, the ordinary transforms.",
     "pre-industrial-wisdom": "Sacred places anchored communities—sites where the holy was honored, where important rituals occurred."
   },
-  "tags": {
+  "semantic_domains": {
     "ritual": "Place of reverence",
     "spatial": "Holy site"
   }

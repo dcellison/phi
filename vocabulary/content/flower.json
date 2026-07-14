@@ -7,9 +7,7 @@
     "lo",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Flower / Bloom-Gift / The Opening Beauty",
   "description": "The noun naming the reproductive structure of flowering plants, understood in Phi as nature's generous display of beauty. Flowers embody the principle of giving without expectation—offering color, scent, and sweetness to the world. This word names the ephemeral beauty that exists not for itself but for connection, pollination, and the continuation of life.",
   "sound_symbolism": "The word opens with 'pe', where the soft labial 'p' begins with gentle opening while 'e' clarifies the emergence. This flows through 'lo', where the liquid spreads petals outward in the characteristic unfolding motion. The final 'ru' rolls with life force while 'u' settles into the flower's round, centered presence. The arc traces flowering: emergence, opening, presence.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "Flowers are central to Art Nouveau's organic forms—the iris, lily, and rose as templates for beauty. 'Peloru' names the natural form that art celebrates.",
     "pre-industrial-wisdom": "Flowers marked seasons, announced spring, and served as medicine, dye, and food. 'Peloru' honors the flower as teacher and gift."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "embodiment of natural beauty",
     "nature": "the blooming structure of plants"
   }

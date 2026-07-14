@@ -7,9 +7,7 @@
     "ne",
     "ki"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Latrine / Place or Fixture for Bodily Waste",
   "description": "A place or fixture arranged to receive bodily waste. Designs include pits, composting systems, and water-carried fixtures. The noun identifies the daily place without claiming how treatment works. Exact sanitation instructions and infrastructure keep their source form when the details matter.",
   "sound_symbolism": "Closed lips give 'mu' a deep nasal opening. Stressed 'ne' moves the contact to the teeth and balances the center in 'e'. Final 'ki' closes farther back and rises to bright 'i'. From a low chamber, the sound climbs through two increasingly crisp points.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Sanitation belongs in material-cycle discussion because water and nutrients meet pathogens, labor, and access at this ordinary household place.",
     "pre-industrial-wisdom": "Pit placement and dry cover carried practical knowledge about keeping household waste away from drinking water. Cleaning routines carried the rest."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a sanitation place used within shared or solitary daily life",
     "physical": "a fixture or place receiving bodily waste",
     "spatial": "a bounded sanitation area in or near a dwelling"

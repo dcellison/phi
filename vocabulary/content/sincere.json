@@ -7,9 +7,7 @@
     "e",
     "mu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Sincere / Genuinely Felt / Without Pretense",
   "description": "Free from pretense or deceit; proceeding from genuine feelings. 'Thaemu' names the quality of heartfelt authenticity—expression that matches inner experience.",
   "sound_symbolism": "The word speaks from the heart. 'Tha' /θa/ begins with gentle breath, intention forming. The vowel 'e' opens to expression, feeling emerging. Then 'mu' grounds in truth, sincerity confirmed.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Sincere practice engages wholeheartedly—half-hearted effort cannot bring transformation.",
     "peace-linguistics-practices": "Sincere communication expresses actual feeling—pretense blocks connection while genuineness enables it."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Genuine expression",
     "emotion": "Heartfelt authenticity"
   }

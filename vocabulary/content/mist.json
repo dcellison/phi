@@ -7,9 +7,7 @@
     "i",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Mist / Light Fog / Suspended Moisture",
   "description": "A cloud of tiny water droplets suspended near the ground, lighter than fog. 'Wheiru' names the ethereal veil—moisture suspended between rain and air, softening edges, creating mystery, touching skin with invisible wet.",
   "sound_symbolism": "The word drifts in suspension. 'Whe' /ʍe/ begins with whispered moisture, breath becoming visible. The vowel hiatus 'e.i' holds that breath in air, neither falling nor rising, and 'ru' carries the veil onward in quiet movement.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Mist teaches the insubstantial nature of perception—what seems solid dissolves on approach, what obscures also reveals.",
     "art-nouveau-aesthetics": "Mist creates the soft-focus beauty beloved by Art Nouveau—edges dissolved, forms suggested rather than declared, mystery in the visible."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Ethereal obscuring",
     "nature": "Suspended water droplets"
   }

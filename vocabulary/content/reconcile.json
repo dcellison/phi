@@ -7,9 +7,7 @@
     "ro",
     "sha"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Reconcile / Restore Relationship / Heal Division",
   "description": "To restore harmony after conflict, healing the breach between people or within oneself. 'Warosha' names the courageous work of coming back together—acknowledging hurt, offering repair, and rebuilding trust across the divide that conflict created.",
   "sound_symbolism": "The word bridges division. 'Wa' begins with labial openness, willingness to approach. Then 'ro' rolls with warming connection, relationship rebuilding. Finally 'sha' /ʃä/ breathes with gentle resolution, peace restored.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Reconciliation practices letting go of grievance without denying harm—holding both truth and compassion.",
     "peace-linguistics-practices": "Reconciliation requires both parties choosing relationship over righteousness—prioritizing connection over being right."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Healing relationships after conflict",
     "emotion": "Processing hurt toward restoration"
   }

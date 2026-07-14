@@ -6,9 +6,7 @@
     "we",
     "mi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ally / One Who Joins the Collective Self",
   "description": "One who joins another's struggle for justice as their own. An ally stands with a community, aligning their personal self with the collective.",
   "sound_symbolism": "'We' announces collective identity while 'mi' grounds it in personal commitment. The nasal 'm' bridges the two syllables, joining group and self within one short word — an ally in two open syllables, quickly given.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Allyship embodies the solarpunk ethos of collective action and mutual aid. It represents the understanding that individual liberation is bound to collective liberation, and that building a sustainable future requires standing together across differences to challenge systems of oppression.",
     "peace-linguistics-practices": "The concept of allyship is central to nonviolent resistance and conflict transformation. True allies practice deep listening, amplify marginalized voices rather than speaking over them, and understand that peace requires actively confronting injustice alongside those who experience it."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "joins personal identity with collective struggle"
   }
 }

@@ -7,9 +7,7 @@
     "lo",
     "mu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Understand / Comprehend / Grasp Meaning",
   "description": "To grasp the meaning, significance, or nature of something—to move from confusion to clarity, from outside to inside a concept. 'Shelomu' names the moment when scattered information coheres into comprehension, when what was opaque becomes transparent. It is knowing that includes relationship, not mere data acquisition.",
   "sound_symbolism": "The word unfolds gradually, as understanding itself does. 'She' /ʃe/ begins softly, approaching gently. Then 'lo' flows as the mind reaches toward meaning, and 'mu' turns inward with nasal depth, integrating new knowledge until it coheres with what is already known.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Right understanding (samma ditthi) is the first factor of the eightfold path. True comprehension sees things as they are, including impermanence and interdependence.",
     "peace-linguistics-practices": "Understanding precedes peaceful resolution. To understand another's perspective—not just hear it—is the foundation of dialogue."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Grasping meaning and significance",
     "dialogue": "Foundation for genuine communication"
   }

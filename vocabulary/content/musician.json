@@ -7,9 +7,7 @@
     "la",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Musician / Music Maker / Sound Artist",
   "description": "One who creates music; a person skilled in producing melody and rhythm. 'Sulai' names who brings music—hands or voice making what moves the heart.",
   "sound_symbolism": "The word sounds with beauty. 'Su' sustains with flowing tone, music beginning. 'La' lifts with melodic rise, song soaring. Then 'i' rises to bright beauty.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Musician as artist—beauty created through organized sound.",
     "pre-industrial-wisdom": "Musician as bard—keeper of songs that carry culture and memory."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Sound creation",
     "community": "Creative role"
   }

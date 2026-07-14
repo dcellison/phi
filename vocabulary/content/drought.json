@@ -7,9 +7,7 @@
     "ra",
     "mo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Drought / Prolonged Water Deficit",
   "description": "A prolonged deficit of water relative to what a place normally expects, not merely one dry day or a climate that is naturally arid. Its severity and cause each need their own evidence.",
   "sound_symbolism": "Velar 'ku' starts with a firm closure and releases into the deepest vowel. 'Ra' carries the stress across open 'a'; together 'ku.ra' recalls the dry contour of 'kurathi' (dry). Final 'mo' closes the lips and holds the round vowel inside. The word opens across bare space, then ends with the mouth shut around what remains.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Drought vocabulary supports discussion of water limits, competing needs, adaptation, and unequal burdens without treating one dry observation as the whole condition.",
     "pre-industrial-wisdom": "Long memory of rainfall, soil, wells, streams, crops, and stored water gives drought meaning relative to a lived place."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "a sustained water deficit relative to a stated reference or need",
     "temporal": "a condition defined partly by prolonged duration"
   },

@@ -6,9 +6,7 @@
     "thu",
     "ni"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Intuitive / Knowing Directly / Understanding Without Reasoning",
   "description": "Using or based on what one feels to be true without conscious reasoning. 'Thuni' names the quality of direct knowing—understanding that arrives whole, perception that bypasses analysis.",
   "sound_symbolism": "The word knows directly. 'Thu' /θu/ begins with inner breath, knowing from within. Then 'ni' arrives with immediate certainty, understanding complete.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Intuitive wisdom arises from practice—the trained mind perceives directly what reasoning approaches slowly.",
     "pre-industrial-wisdom": "Traditional knowledge included intuitive understanding—the feel for weather, soil, animals that comes from deep familiarity."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Direct knowing",
     "wisdom": "Non-analytical understanding"
   }

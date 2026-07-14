@@ -7,9 +7,7 @@
     "pho",
     "re"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "River / Flowing Waterway / Living Current",
   "description": "A large natural stream of water flowing toward sea, lake, or another river. 'Luphore' names the living arteries of the land—paths of water that carve valleys, carry life, and connect mountains to sea in endless flowing journey.",
   "sound_symbolism": "The word flows like water over stones. 'Lu' begins with liquid pooling, water gathering. Then 'pho' /ɸo/ softens the flow, the gentle continuous current. Finally 're' runs onward, the river's endless journey.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Rivers teach that one cannot step in the same water twice—constant change within apparent continuity, the nature of all phenomena.",
     "pre-industrial-wisdom": "Rivers were the original highways, sources of food, boundaries of territories, and sacred presences honored by settlements along their banks."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Flowing waterway",
     "temporal": "Symbol of continuous change"
   }

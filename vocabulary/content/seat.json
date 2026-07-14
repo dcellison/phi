@@ -7,9 +7,7 @@
     "i",
     "pa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Seat / The Sit-Thing",
   "description": "The seat: chair, stool, bench, cushion — whatever is made for sitting. Its opening 'me.i' echoes the first two syllables of 'meilo' (sit), then 'pa' turns the action into a supporting thing, so a learner can read the relation without treating the noun as a transparent compound.",
   "sound_symbolism": "'Me.i' begins with the settling movement heard in 'meilo' (sit), while the closing 'pa' places a firm surface beneath it. The action is given somewhere to land.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The practice is called sitting, and this is what receives it. A cushion in a quiet corner is 'meipa' in its oldest job.",
     "pre-industrial-wisdom": "The stool by the fire, the bench by the door: seats accumulated where the work and the talk were, and mapped both."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Made for sitting",
     "ritual": "What receives the practice"
   }

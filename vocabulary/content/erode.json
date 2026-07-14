@@ -7,9 +7,7 @@
     "ra",
     "ku"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Erode / Detach and Transport Earth or Rock",
   "description": "To detach and carry away earth or rock, through water, wind, or another force. Erosion is the detaching and the carrying; the particles it leaves behind are 'munari', a separate and equally namable thing.",
   "sound_symbolism": "Rounded, unvoiced 'whe' brushes a surface with moving air. Stressed 'ra' rolls that contact along open 'a', a grain beginning to travel. 'Ku' catches at the soft palate and releases into deep 'u'. The last stop is the moment of detachment after the longer breath and roll have loosened the ground.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Erosion vocabulary supports discussion of land use and restoration without treating every movement of soil as damage or every intervention as repair.",
     "pre-industrial-wisdom": "Embodied land practice observes how water, wind, roots, paths, and cultivation move earth across seasons."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "detachment and movement of earth or rock",
     "nature": "a geomorphic process driven by water, wind, ice, gravity, organisms, or people",
     "physical": "transport of soil, sediment, or rock from a surface"

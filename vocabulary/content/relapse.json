@@ -7,9 +7,7 @@
     "ra",
     "shi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Relapse / Return or Worsening After Improvement in the Same Course",
   "description": "A return or worsening after improvement, within the same understood course. The word names a road doubling back; it carries no blame, and it does not erase whatever ground was gained before the return.",
   "sound_symbolism": "Low 'mo' hums behind closed lips before stressed 'ra' rolls the tongue into broad 'a'. Final 'shi' narrows that openness to a hush and bright 'i'. The word swells in its center and returns to a finer, sharper stream at the end.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A changing course can turn without making prior effort meaningless or defining the person by recurrence.",
     "peace-linguistics-practices": "Removing blame from relapse supports honest reporting, continued care, and revision rather than punishment or shame."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "return or worsening of a health condition after improvement",
     "temporal": "a reversal within an ongoing health course"
   },

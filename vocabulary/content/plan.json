@@ -7,9 +7,7 @@
     "no",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Plan / Organize Intended Future Actions",
   "description": "To organize intended actions before or during an undertaking: order, dependencies, resources, conditions, participants. A plan may be partial, conditional, disputed, or abandoned, and none of that is failure. Planning arranges intentions; 'seru' (commit) binds them.",
   "sound_symbolism": "Bright 'wi' begins with a small rounding of the lips and a quick glide inward. Stressed 'no' gathers the middle into a dental nasal and round 'o'. Final 'ra' rolls out into broad 'a'; together the last two syllables repeat the opening of 'norae' (method). The contour starts narrow, holds briefly, then opens into motion.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Regenerative work benefits from plans that expose dependencies, material needs, maintenance, and opportunities for revision rather than relying on optimism alone.",
     "peace-linguistics-practices": "A plan can coordinate action without silently turning proposed participation into assigned or compulsory labor."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "organizing intended actions and conditions",
     "cognition": "forming a revisable structure for future action",
     "temporal": "relating intended actions across future order"

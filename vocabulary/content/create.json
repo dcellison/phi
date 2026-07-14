@@ -7,9 +7,7 @@
     "a",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Create / An Open Spark",
   "description": "The fundamental act of bringing something into existence from a point of inspiration. It is the emergence of a new form or idea into open possibility. Where 'theko' (craft) is skilled making and 'lorima' (build) is structural assembly, 'kealo' names the whole arc from inspiration to new existence.",
   "sound_symbolism": "The word ignites with 'ke', the sharp spark of inspiration. This opens into the spacious 'a', the breath of possibility where ideas expand and take form. The liquid 'lo' then flows outward, carrying creation into the world. Spark, space, flow—the three syllables trace the creative process: insight, exploration, manifestation.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "To create in the solarpunk paradigm means to generate solutions that regenerate rather than deplete, that open possibilities rather than close them. This is creation as positive intervention - making art, technology, and systems that heal damaged ecosystems and communities while imagining abundance beyond scarcity narratives.",
     "art-nouveau-aesthetics": "Creation in the Art Nouveau spirit celebrates the artist as channel for natural forces, bringing forth forms that echo organic growth patterns. This philosophy sees creation not as imposing human will but as participating in nature's own creative impulse, allowing beauty to emerge through patient craft and deep observation of natural forms."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "brings new forms into existence through inspiration"
   }
 }

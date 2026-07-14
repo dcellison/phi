@@ -7,9 +7,7 @@
     "me",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Pace / Rate and Rhythm at Which an Activity Proceeds",
   "description": "The rate and rhythm at which an activity, exchange, or sequence proceeds. Pace can change within one event and can be too fast, too slow, or uneven for a stated participant and purpose. 'thimu' (time) names the broader dimension; 'thimelo' names how movement is distributed through it.",
   "sound_symbolism": "Bright 'thi' sends a fine breath past the teeth. Stressed 'me' closes softly at the lips, then final 'lo' releases the tongue into round 'o'. At its center the sound pauses, then opens into a low liquid ending.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Attention has a pace; forcing every perception or decision into the same interval can hide what slower notice would reveal.",
     "peace-linguistics-practices": "Naming pace makes speed negotiable instead of treating the fastest speaker or process as the natural clock for everyone."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "rate and rhythm of a continuing action",
     "dialogue": "speed at which an exchange proceeds",
     "temporal": "movement distributed through time"

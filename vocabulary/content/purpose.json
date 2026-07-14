@@ -7,9 +7,7 @@
     "ru",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Purpose / Aim / Reason For",
   "description": "The reason behind action; the goal that gives meaning to effort. 'Porua' names what we move toward—the why that organizes the how.",
   "sound_symbolism": "The word points forward. 'Po' begins with directed force, purpose pointing. 'Ru' runs with movement toward. Then 'a' opens to the goal arrived at.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared purpose—communities organized around common aims for flourishing.",
     "secular-buddhist-philosophy": "Purpose as direction—not grasping at outcomes but orienting toward beneficial ends."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Goal orientation",
     "wisdom": "Meaningful direction"
   }

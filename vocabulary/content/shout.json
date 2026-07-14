@@ -7,9 +7,7 @@
     "pu",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Shout / Roar / Forceful Vocalization",
   "description": "To cry out with sudden force, the voice breaking past its ordinary bounds under the pressure of feeling, anger, warning, or joy alike. 'Kapura' names the body's oldest communication: the call that carries beyond conversation, urgent and unmistakable.",
   "sound_symbolism": "The word opens on 'ka', a stop consonant striking like a sudden intake before the cry. 'Pu' repeats the plosive attack, a second burst, the voice pushing past its usual shape. The word settles into 'ra', liquid and open, the sound radiating outward once released. Two stops in succession embody the shout's suddenness; the open ending lets it carry.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Naming the raised voice honestly, without condemning the one who raises it, gives mindful speech something to recognize itself against. A word for the shout is not an invitation to it.",
     "pre-industrial-wisdom": "Before any device could carry a voice across distance, the raised call did that work: warning of danger, gathering the scattered, reaching a field's far end. 'Kapura' keeps that oldest use alive."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "forceful or urgent vocalization",
     "emotion": "intensity breaking into voice"
   }

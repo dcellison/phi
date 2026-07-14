@@ -7,9 +7,7 @@
     "lu",
     "pi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Room / Bounded Interior Space",
   "description": "A bounded interior part of a dwelling or other building. Its use can change through the day: the same room may hold sleep, meals, work, or guests. 'tholu' (space) is open extent in general; 'tholupi' has the practical boundary of an interior room.",
   "sound_symbolism": "Rounded dental breath in 'tho' flows into stressed liquid 'lu' and deep 'u'. The low opening preserves 'tholu' (space) intact. Final 'pi' closes the lips and lifts into bright 'i'. Broad and low at first, the word ends at one small, crisp point.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "A room is encountered through its light, openings, surfaces, and the paths a body can take through it.",
     "pre-industrial-wisdom": "A single room often changed work with the hour: eating place, workshop, guest room, and sleeping place under one roof."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "an interior place used in shared or solitary daily life",
     "spatial": "a bounded space within a building"
   },

@@ -7,9 +7,7 @@
     "lo",
     "me"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Restore / Return to Original State / Bring Back",
   "description": "To return something to its original or proper condition—not just fixing function but recovering wholeness, bringing back what was lost to time, damage, or neglect. 'Talome' carries the sense of reaching backward to recover and forward to renew.",
   "sound_symbolism": "The word begins with 'ta', the dental reaching back—one, the original, the starting point. The open 'a' receives what was. Then 'lo' flows forward, carrying what was recovered. Finally 'me' makes present with nasal grounding, the restored thing here again.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Restoration applies to ecosystems, communities, and cultures as well as objects—returning damaged systems toward health and wholeness.",
     "pre-industrial-wisdom": "Traditional crafts include restoration—the knowledge to return old things to service, honoring what ancestors made."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Returning to original wholeness",
     "temporal": "Bridging past and present through recovery"
   }

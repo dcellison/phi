@@ -7,9 +7,7 @@
     "mi",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Offspring / Those Who Spring Forth",
   "description": "The children or descendants of a person, family, or community, understood not as possessions but as new growth emerging from established roots. Offspring embody both continuity and change, carrying forward essential wisdom while bringing fresh perspectives. They represent the future that springs from the present, the promise that life renews itself through each generation.",
   "sound_symbolism": "The breath of 'pho' carries the generative force of parents, that same energy flowing into new form. It meets 'mi', the emerging individual, and the final 'la' carries new life forward in liquid continuity. Three syllables trace inherited life, individual emergence, forward flow.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Offspring embody the future that solarpunk designs for - they are the seventh generation whose thriving guides today's decisions. Every regenerative system, every circular economy, every rewilding project ultimately serves offspring who will inherit either abundance or scarcity. They represent hope made tangible, the possibility that each generation can heal more than it harms.",
     "pre-industrial-wisdom": "Traditional societies understood offspring as the living bridge between ancestors and descendants, carrying forward not just genes but stories, skills, and sacred responsibilities. Children belonged to the whole community, raised by many hands, ensuring cultural knowledge survived beyond any single keeper. This wisdom sees offspring as both gift and duty - the future entrusted to the present."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamental to family bonds and social continuity",
     "temporal": "represents future generations and continuity through time"
   }

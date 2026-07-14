@@ -7,9 +7,7 @@
     "re",
     "thu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Legitimate / Justifiably Grounded Under Stated Criteria",
   "description": "Justified under stated criteria, which is why the honest form of the word is a question: legitimate by whose account, on what grounds? Legality, popularity, and effectiveness can each miss the mark, and none of them settles it alone.",
   "sound_symbolism": "Crisp 'ki' places a narrow bright edge at the beginning. Stressed 're' turns that edge on the tongue and recalls the first two syllables of 'kirema' (criterion). In final 'thu', the contact becomes dental breath and deep 'u', also heard in 'thua' (fair). The word draws a line, turns it, and breathes through the judgment once more.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Legitimacy is treated as conditioned by relationships, criteria, effects, and continuing examination rather than as an essence possessed by an office.",
     "peace-linguistics-practices": "The word allows speakers to question authority directly while requiring them to state whose criteria and whose acceptance ground the judgment."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an evaluation of how an authority or decision is grounded",
     "community": "contested legitimacy under stated social criteria"
   },

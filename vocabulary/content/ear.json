@@ -7,9 +7,7 @@
     "nu",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ear / Hearing Organ / Listening Spiral",
   "description": "The spiral-shaped organ of hearing that gathers sound from the world and channels it inward. The ear is passive yet alert, receiving without grasping. Its spiral form echoes natural patterns from shells to galaxies.",
   "sound_symbolism": "The word opens with 'sh' /ʃ/, the soft fricative of quieting—the sound we make when asking for silence so we can hear. The open 'o' creates space for sound to enter. Then 'nu' draws inward with its nasal quality, sound traveling through the canal. Finally 'i' rises bright and alert, the moment of perception when sound becomes meaning.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Deep listening is a core practice—receiving fully without immediately reacting. The ear's passive receptivity models non-grasping awareness.",
     "peace-linguistics-practices": "Communication requires reception as much as expression. Honoring the ear honors the role of the listener in dialogue."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Essential for receiving communication",
     "physical": "Organ of hearing"
   }

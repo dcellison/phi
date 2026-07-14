@@ -6,9 +6,7 @@
     "the",
     "mo"
   ],
-  "pos": [
-    "classifier"
-  ],
+  "pos": "classifier",
   "concept": "Thing Classifier / Detached or Crafted Object Category",
   "description": "The optional classifier for detached and crafted physical objects: a stone, fallen branch, book, tool, building, or vessel. It does not serve as a universal classifier for water, rivers, clouds, places, or all physical matter. 'Themo' distinguishes its object category from living beings ('lipha') and abstractions or events ('nophe').",
   "sound_symbolism": "The word begins with fricative 'the', which can suggest attention settling on a boundary, and moves into grounded nasal, rounded 'mo', which can suggest a bounded physical object. The image is mnemonic rather than a claim that articulation creates conscious engagement with matter.",

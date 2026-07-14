@@ -7,9 +7,7 @@
     "e",
     "li"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Warm (Emotional) / Welcoming / Kind in Manner",
   "description": "Having or showing enthusiasm, affection, or kindness; emotionally welcoming. 'Noeli' names the quality of emotional warmth—the heart that welcomes, the manner that makes others feel at ease.",
   "sound_symbolism": "The word grounds and glows. 'No' begins with nasal presence, the grounded nearness of someone who is simply, fully here with you. The open 'e' breathes warmth outward, a heart unguarded. Then 'li' settles with connective light, the gentle bond that warmth creates between people. The whole word feels like what it names: close, present, kind.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Warm-heartedness (metta) radiates goodwill—the open heart that wishes well for all beings.",
     "peace-linguistics-practices": "Warm communication creates safety—the welcoming manner that helps others feel heard and valued."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Interpersonal warmth",
     "emotion": "Welcoming kindness"
   }

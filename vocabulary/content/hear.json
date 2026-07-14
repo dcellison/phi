@@ -6,9 +6,7 @@
     "he",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Hear / The Passive Reception of Sound",
   "description": "To perceive sound passively and physically: the simple reception of auditory vibration, without the necessary layer of mindful attention that defines listening.",
   "sound_symbolism": "The breathy 'h' opens the word like ears opening to sound, creating immediate receptivity. The vowel sequence 'e.a' forms an acoustic chamber - the focused 'e' channeling sound inward, expanding into the open 'a' where vibrations resonate. This two-syllable simplicity mirrors hearing's fundamental nature: not active listening but the basic physiological gift of perceiving sound waves as they wash over us.",
@@ -16,7 +14,7 @@
   "pillars": {
     "secular-buddhist-philosophy": "Hearing represents the foundational awareness that precedes deeper listening - the simple acknowledgment that sounds arise and pass away in consciousness. This basic receptivity teaches us about the nature of experience itself: how phenomena appear in awareness without our choosing, inviting us to notice what is present before we add interpretation or judgment."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "processes auditory information through mental reception",
     "dialogue": "provides foundational reception for verbal exchange",
     "nature": "connects to environmental awareness through natural soundscapes",

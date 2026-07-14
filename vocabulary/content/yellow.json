@@ -7,9 +7,7 @@
     "ri",
     "u"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Yellow / Warm Bright Hue",
   "description": "The adjective for yellow, the hue of ripe grain, many flowers, and lamplight. The word 'soriu' covers pale and saturated yellows; mixtures and narrower shades use the ordinary color constructions when their source matters.",
   "sound_symbolism": "Rounded 'so' sends a fine hiss across open 'o'. The quick tongue tap of stressed 'ri' narrows toward high 'i', then the final hiatus lets that brightness sink separately into deep 'u'. The word flashes at its center and keeps a little warmth after it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Yellow appears on solar diagrams, warning paint, and flowers planted for pollinators. The hue can mark both gathered energy and the living systems around it.",
     "pre-industrial-wisdom": "Ripe grain and dry straw make yellow a harvest color, read in the field before the crop reaches the hand."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "bright warm hue",
     "nature": "color of ripe grain and many flowers"
   }

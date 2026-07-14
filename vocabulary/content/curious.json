@@ -7,9 +7,7 @@
     "e",
     "lo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Curious / Eager to Learn / Drawn to Wonder",
   "description": "Eager to know or learn; showing interest in exploring the unknown. 'Kuelo' names the quality of wonder-driven attention—the mind that delights in questions and seeks understanding.",
   "sound_symbolism": "The word reaches toward mystery. 'Ku' begins with quiet focus, attention gathering. The vowel 'e' opens to the unknown, wonder awakening. Then 'lo' moves forward into exploration, curiosity in motion.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Curious minds discover solutions—the willingness to question assumptions enables innovation.",
     "secular-buddhist-philosophy": "Curiosity opens the mind to investigation—the quality that asks 'what is this?' rather than assuming knowledge."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Wonder-seeking",
     "wisdom": "Openness to learning"
   }

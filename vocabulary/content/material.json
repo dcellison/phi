@@ -7,9 +7,7 @@
     "ra",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Material / Physical Matter Considered in Use or Transformation",
   "description": "Physical matter considered in the context of use or transformation. The word is neutral about whether the material counts as a resource, a waste, or neither; that status depends on the purpose asking the question.",
   "sound_symbolism": "Deep 'mu' begins behind closed lips with palpable weight. Under stress, 'ra' rolls that weight into broad 'a' and gives it room to change shape. Low liquid 'lo' lets the tongue move on while round 'o' keeps the matter substantial. The word can be held, turned, and carried through the mouth like material through a pair of hands.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Material is understood through grain, flow, transformation, and relation rather than as an invisible carrier of form.",
     "pre-industrial-wisdom": "Practical knowledge begins with the actual matter at hand, its condition, source, affordances, limits, and possible afterlives."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "matter considered for making, repair, transformation, or reuse",
     "physical": "physical matter described through composition, condition, and movement"
   }

@@ -7,9 +7,7 @@
     "wi",
     "mo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Foolish / Acting Without Pause / Sense Left Behind",
   "description": "Acting or speaking without the pause proper thought needs: a hasty word, a plan not looked at twice, a step taken before the ground was checked. The natural opposite of phue (wise), built with a deliberately different sound rather than a negation of it, since a language of mindful speech needs its own word for the thing mindfulness is not, not just 'not-wise'.",
   "sound_symbolism": "'Ta' opens on a stop, a decision cut short before it was finished. 'Wi' is quick and closed, the haste itself. 'Mo' trails open, the consequence left hanging where a pause would have caught it.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Mindfulness is defined as much by what it is not as by what it is; a word for hasty, unconsidered action sharpens the word for its opposite by real contrast.",
     "peace-linguistics-practices": "Naming one's own haste plainly, rather than reaching for a vague 'bad', is honest self-correction, which mindful communication depends on."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "The pause thought needed and did not get"
   }
 }

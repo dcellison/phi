@@ -7,9 +7,7 @@
     "ra",
     "pi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Boil / Heat Liquid to Sustained Bubbling",
   "description": "To heat a liquid, or food in liquid, until bubbles form and rise continuously through it. The verb also describes the liquid reaching that state without naming an outside agent. 'pharelo' (cook) covers heat preparation broadly; 'therapi' identifies the moving liquid state.",
   "sound_symbolism": "Soft dental breath carries 'the' into balanced 'e'. Stressed 'ra' rolls the tongue through broad 'a', then final 'pi' closes the lips and rises to bright 'i'. A swelling center breaks into a small sharp finish.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The sound and motion of a pot told a cook when water had reached a boil long before a numbered instrument stood beside the hearth."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "heating liquid to sustained bubbling",
     "physical": "a liquid state with continuous rising bubbles"
   },

@@ -7,9 +7,7 @@
     "ri",
     "no"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Conscience / Moral Self-Appraisal",
   "description": "The inward faculty by which a person weighs their own intended or completed conduct against what they take to be right. Conscience may trouble, forbid, permit, or acquit, and it can be mistaken or shaped by harmful teaching. 'Waeli' (conscious) names awareness itself; 'sharino' names moral self-appraisal within that awareness.",
   "sound_symbolism": "Hushed 'sha' begins with the tongue holding the breath just behind the teeth before broad 'a' opens it. Stressed 'ri' flicks sharply at the center. Dental 'n' then settles into the rounded depth of 'o', and the word moves from a broad opening through that quick medial flick to a low, quiet close.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Conscience is a conditioned faculty that a person can observe and correct rather than an unchanging moral essence.",
     "peace-linguistics-practices": "A speaker can name the inward check on their own conduct without assigning permanent guilt or virtue to the whole person."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the faculty of judging one's own conduct against held values",
     "wisdom": "moral self-appraisal that remains open to examination and correction"
   },

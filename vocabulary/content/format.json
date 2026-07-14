@@ -7,9 +7,7 @@
     "lo",
     "tu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Format / Chosen Form in Which Content Is Presented",
   "description": "The chosen sensory, linguistic, spatial, or technical form in which content is presented and received. The same message may be spoken, written, captioned, or made tactile, yet its wording and practical effect can still differ. Exact file types, encodings, and named communication systems remain source terms when their identity matters.",
   "sound_symbolism": "Fine bilabial breath opens 'phe' into balanced 'e'. The tongue flows through stressed 'lo', then final 'tu' sets a clean dental stop before deep 'u'. A soft opening rounds at its center and ends on a small firm contact.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Form changes how information is encountered; a page under the fingers and a voice in a room ask different things of the body.",
     "peace-linguistics-practices": "Naming the format makes it possible to ask whether communication reached someone in a form they could use."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "the shaped presentation of content",
     "dialogue": "a communication form selected for sending and receiving meaning",
     "physical": "a sensory form such as audible, visual, or tactile presentation"

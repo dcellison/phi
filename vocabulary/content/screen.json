@@ -7,9 +7,7 @@
     "ra",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Screen / Apply a Health Check to Identify Possible Need for Evaluation",
   "description": "To apply a health check across a population to identify who might need closer evaluation, often before any diagnosis. A screening has a stated purpose, a method, and a path for what happens after, and taking part in one is a choice, not an obligation.",
   "sound_symbolism": "A fine hiss rounds into 'so'. Stressed 'ra' rolls the tongue and opens the word across broad 'a', then final 'nu' settles at the teeth in deep nasal resonance. One central turn widens the sound before it closes low and steady.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Separating screening from diagnosis, surveillance, and obligation keeps a preventive offer from silently becoming institutional control."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a systematic health check with a stated follow-up path",
     "cognition": "identifying possible need for further evaluation",
     "community": "a health practice applied to stated participants or populations"

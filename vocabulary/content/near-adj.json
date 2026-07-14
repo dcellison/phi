@@ -6,9 +6,7 @@
     "no",
     "shi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Near / Close By / Not Far",
   "description": "Located a short distance away; close in space. 'Noshi' names the quality of closeness—proximity that requires little effort to bridge, nearness that enables easy reaching.",
   "sound_symbolism": "The word stays close. 'No' grounds with present nearness, proximity established. Then 'shi' /ʃi/ settles close, nearness confirmed.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "What is near is available—the present moment, the immediate situation, what can actually be engaged.",
     "peace-linguistics-practices": "Near presence enables connection—physical proximity supports emotional closeness."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Proximity",
     "spatial": "Close by"
   }

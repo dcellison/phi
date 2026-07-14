@@ -7,9 +7,7 @@
     "ro",
     "mu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Exclude / Keep or Leave Outside an Activity or Group",
   "description": "To keep or leave a person or thing outside a stated group, activity, place, resource, or process. Exclusion may be deliberate or produced by an arrangement whose effect was ignored. The opening shared with 'pharune' (include) keeps both words about the same boundary; their endings tell which way the boundary moves.",
   "sound_symbolism": "Bilabial breath spreads through broad 'pha'. Stressed 'ro' interrupts that open air with a tongue roll and round 'o'. Final 'mu' closes the lips around deep nasal 'u'. From a wide breath, the sound draws inward through a turn to a fully closed ending.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A commons fails at its own edge when the people most affected cannot enter, contribute, or use what is held in common.",
     "peace-linguistics-practices": "The verb makes exclusion reportable even when nobody announced it and the closed door was a rule, format, or deadline."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "preventing or omitting participation in a stated action",
     "community": "keeping someone outside a group or shared process",
     "spatial": "denying entry to a place or route"

@@ -7,9 +7,7 @@
     "pho",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Supply / Make a Resource Available for a Stated Use",
   "description": "To make a material, tool, or other resource available for a stated use, usually by transfer or delivery. Supplying moves the thing, not the questions around it: condition, sufficiency, receipt, and whose it remains each take their own sentence.",
   "sound_symbolism": "Fine 'se' sends breath through a narrow hiss, then stressed 'pho' brings that air to the lips and rounds it in a fuller chamber. Final 'ri' taps the tongue and brightens sharply. Breath expands at the center before the word leaves on a quick precise contact.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Distributed repair and production depend on visible resource flows whose sources, constraints, and ecological consequences can be examined.",
     "peace-linguistics-practices": "Separating supply from receipt, adequacy, ownership, and authority prevents an offered resource from becoming a hidden claim over the recipient's choices."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "making a resource available for practical use",
     "community": "provision between participants, processes, or places",
     "creation": "supporting making and repair through resource flow"

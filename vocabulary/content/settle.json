@@ -6,9 +6,7 @@
     "so",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Settle / Establish Residence / Come to Rest",
   "description": "To establish oneself in a place, to stop traveling and put down roots. 'Soki' names the transition from motion to rest, from journeying to dwelling. It implies intention to stay—not a pause in travel but a choice of home, a commitment to place.",
   "sound_symbolism": "The word comes to rest as settling does. 'So' begins with sibilant softness, movement slowing. The open 'o' surveys the chosen place. Then 'ki' places with velar definition, the decision made, roots beginning.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Settling sustainably means committing to place—learning its ecology, building community, thinking in generations.",
     "pre-industrial-wisdom": "Settlement creates culture—knowledge of local seasons, relationships with land and neighbors, traditions rooted in place."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Committing to location and relationships",
     "spatial": "Establishing dwelling place"
   }

@@ -7,9 +7,7 @@
     "lu",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Carry / Transport / Bear",
   "description": "To support something while moving it from one place toward another. 'Kolua' covers bodies, objects, messages, and figurative burdens; it says how they move. 'Tumoa' (heavy) gives the weight, 'tupeka' (burden) gives the bearer's difficulty, and a separate power word tells whether the work was imposed.",
   "sound_symbolism": "The back of the tongue closes for 'k' and releases into rounded 'o'. Stressed 'lu' lets the tongue flow while deep 'u' holds the sound low, then the final hiatus opens cleanly into 'a'. The mouth supports one continuous contour but must carry it across all three syllables.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A neutral carrying verb does not rename imposed transport as service. The bearer, burden, purpose, and surrounding power can each receive their own clause.",
     "pre-industrial-wisdom": "Carrying craft joined trained posture to containers or harness. Its skill mattered because bodies still bore the load."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "supporting something through movement",
     "physical": "bearing a body or object while moving",
     "spatial": "transport through space under continuous support"

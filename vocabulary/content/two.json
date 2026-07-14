@@ -5,9 +5,7 @@
   "syllables": [
     "wi"
   ],
-  "pos": [
-    "numeral"
-  ],
+  "pos": "numeral",
   "concept": "Two / Balance / Relationship",
   "description": "The numeral two. Beyond counting, 'wi' carries duality and pairing: the first plural, the minimum for dialogue, the point where 'I' meets 'you'.",
   "sound_symbolism": "The glide into 'w' and the bright final 'i' offer Phi a mnemonic image of movement into relation. This is a designed association with pairing, not a claim that the sounds inherently encode duality or produce awareness of relationship.",
@@ -16,7 +14,7 @@
     "secular-buddhist-philosophy": "Phi can use two as an image for apparent duality and interdependence: self and other, or paired concepts that define one another. The numeral does not summarize Buddhist accounts of nonduality or establish that every pair is balanced.",
     "pre-industrial-wisdom": "Day and night, paired hands, and reciprocal tasks provide practical images of pairing. 'Wi' can evoke those relations without claiming that completeness always requires a pair or that traditional cultures share one symbolism of two."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "fundamental concept for understanding plurality and relationship",
     "community": "the beginning of social connection, the first 'we'",
     "dialogue": "the minimum number for conversation, exchange, and reciprocity"

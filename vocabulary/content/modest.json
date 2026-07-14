@@ -6,9 +6,7 @@
     "tha",
     "su"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Modest / Unassuming / Not Boastful",
   "description": "Unassuming in the estimation of one's abilities or achievements; not given to showing off. 'Thasu' names the quality of modesty—presenting oneself without exaggeration or display.",
   "sound_symbolism": "The word steps back. 'Tha' /θa/ begins with gentle breath, presence understated. Then 'su' settles quietly, modesty embodied.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Modest speech avoids boasting—presenting achievements without diminishing others or inflating self.",
     "pre-industrial-wisdom": "Modest claims were trusted—communities valued those who let their work speak rather than their words."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Not boastful",
     "wisdom": "Unassuming"
   }

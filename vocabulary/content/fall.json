@@ -6,9 +6,7 @@
     "le",
     "pa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Fall / Drop / Descend by Gravity",
   "description": "To fall: leaves from branches, rain from clouds, a cup from a hand. Downward motion surrendered to rather than made. Distinct from 'thenoi' (falls-short, of magnitudes) and from 'muero' (autumn, the season of falling).",
   "sound_symbolism": "The liquid 'l' lets go, glides down through 'e', and lands on the open 'a' — the release, the descent, the arrival at ground, in three sounds.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Falling is the body's plainest lesson in non-clinging: what is released descends, and resisting the descent changes nothing. The leaf's fall is the classic meditation image.",
     "pre-industrial-wisdom": "Rain falls, seed falls, fruit falls when ripe — agriculture is the craft of working with what falls and when."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "What leaves, rain, and ripe fruit do",
     "physical": "Downward motion under gravity",
     "spatial": "Movement from high to low"

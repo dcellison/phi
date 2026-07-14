@@ -7,9 +7,7 @@
     "li",
     "wa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Snake / The Legless Flowing One",
   "description": "The snake: the animal that is all curve and no limb, moving as water moves. A counted snake may take optional 'lipha'. Phi carries none of the snake's inherited villainy — it is simply the flowing one, reader of ground-warmth, shedder of skins.",
   "sound_symbolism": "Sinuous 's' into the liquid run of 'li'–'wa' — the word moves the way its animal does, without a single stop consonant to interrupt the glide.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "The style's signature line — the whiplash curve — is the snake's path drawn; no animal is more Art Nouveau.",
     "pre-industrial-wisdom": "The snake read the seasons before farmers did — first warmth, first shedding — and its skin-leaving made it the oldest emblem of renewal."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The flowing legless animal",
     "physical": "Motion as pure curve"
   }

@@ -7,9 +7,7 @@
     "ma",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Test / Apply a Defined Procedure to Gather Evidence",
   "description": "To run a defined procedure under stated conditions and record what happened. A test gathers evidence; reading that evidence against a criterion is 'kisome' (assess), a second act. A passed test proves the procedure's own conditions and nothing wider.",
   "sound_symbolism": "Round 'so' starts with a controlled hiss. Stressed 'ma' closes the lips and opens broadly, so the center grows fuller and warmer. Final 'ki' closes sharply at the velum and ends on bright 'i'. The contour gathers, expands, and finishes at its most exact point.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Repairable tools and shared infrastructure require tests whose conditions and limits remain visible to maintainers and users.",
     "peace-linguistics-practices": "Separating a test from proof, approval, and safety discourages speakers from overstating what one procedure can establish."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "performing a defined evidential procedure",
     "cognition": "gathering bounded evidence about a claim or criterion"
   },

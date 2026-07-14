@@ -7,9 +7,7 @@
     "la",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Recover / Move Toward a Prior or Desired Health State",
   "description": "To move toward a health, comfort, or functional state that the person and their situation get to define. Recovery can mean adaptation and continuing care as easily as it can mean an earlier body, and the word leaves that choice where it belongs.",
   "sound_symbolism": "Light breath opens 'he' and gives way to the broad stressed liquid of 'la'. Final 'nu' settles the tongue at the teeth while resonance drops into deep 'u'. The word moves from air through openness to a low, steady close.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Recovery is a conditioned process of change rather than restoration of a fixed self or proof that difficulty has ended.",
     "peace-linguistics-practices": "Letting the person and context define recovery resists imposing one normal body, pace, function, or endpoint."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "movement toward a prior or desired health state",
     "temporal": "an uneven health course unfolding over time"
   },

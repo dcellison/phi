@@ -7,9 +7,7 @@
     "na",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Isolate / Separate a Known or Suspected Infectious Source",
   "description": "To separate a source already known or suspected of carrying infection. Isolation asks for a stated duration and real support behind it; its cousin 'teshori' (quarantine) is for uncertainty rather than a known source.",
   "sound_symbolism": "Rounded 'so' begins with a controlled hiss. Stressed 'na' replaces breath with a dental nasal and opens into broad 'a'. Final 'ri' loosens that contact into a tap and bright 'i'. Three distinct textures meet around the clear opening at the center.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Protective separation requires material support, communication, care, and shared responsibility rather than merely removing a person from community life.",
     "peace-linguistics-practices": "Separating isolation from punishment, authority, and abandonment makes both protection and coercion available for explicit scrutiny."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "separating a possible infectious source from transmission pathways",
     "community": "a protective relation requiring support and review",
     "spatial": "a bounded separation between a source and possible hosts",

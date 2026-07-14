@@ -7,9 +7,7 @@
     "tu",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Well / The Built Water-Place",
   "description": "The dug well: the built counterpart of 'thula' (spring). Where earth gives no water on its own, people go down and find it, then wall the finding for everyone after. Distinct from 'towe' (well as wellness), which shares the English word and nothing else.",
   "sound_symbolism": "The 'phi' of 'phialu' (water) reached through 'tu' to 'ra': water at the end of made effort.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A well is infrastructure as commons: dug once, owned by no one, maintained because everyone drinks.",
     "pre-industrial-wisdom": "The well was the village's anchor and its news exchange; settlements formed around water the way conversations formed around the well."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The shared water-place",
     "physical": "Water at the end of effort"
   }

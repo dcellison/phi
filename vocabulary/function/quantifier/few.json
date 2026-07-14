@@ -6,9 +6,7 @@
     "phi",
     "na"
   ],
-  "pos": [
-    "quantifier"
-  ],
+  "pos": "quantifier",
   "concept": "Few / A Small Number / Sparse",
   "description": "The quantifier marking a contextually small indefinite quantity. It has no fixed numerical boundary and does not imply that the amount is inadequate. It contrasts with 'sheloi' (many), while 'soli' (some) leaves relative size unstated.",
   "sound_symbolism": "The gentle bilabial breath 'phi' barely stirs the air — a quantity almost too small to disturb anything. The grounding 'na' settles it into fact. A small number, softly stated and firmly present.",

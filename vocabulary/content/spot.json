@@ -7,9 +7,7 @@
     "lo",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Spot / Fleck / The Small Round Marking",
   "description": "A spot: a small patch of one color resting on another. The fawn's dapple, the egg's speckle, the petal's fleck, the brown-and-white of a patterned coat. 'Piloe' names the mark itself, one unit of the world's spotting, and takes its color as a describer: 'mureli piloe', a brown spot. What wears its spots is patterned by them, and can be known by them long after everything else has changed.",
   "sound_symbolism": "'pi' is the smallest of the stops on the narrowest of the vowels: a dot of sound. 'lo.e' rounds it and sets it down softly, the hiatus holding the spot's edge distinct from its ground, the way the marking sits distinct on the coat.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Pattern is the style's native tongue: the dapple, the speckle, the repeated small mark that makes a surface sing.",
     "pre-industrial-wisdom": "Herders and foragers know their animals and their eggs spot by spot; the marking is the name the eye uses."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The dapple and the speckle",
     "physical": "One small patch of color"
   }

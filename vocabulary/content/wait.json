@@ -6,9 +6,7 @@
     "ha",
     "si"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Wait / Remain in Readiness / Stay for What Comes",
   "description": "To wait: for a friend, for rain, for the bread to rise. Remaining present while time does its work. Kin to 'hurao' (patient, the quality) and 'manolu' (stay, the location) — waiting is staying with attention still on.",
   "sound_symbolism": "The quiet 'h' is held breath, the open 'a' is duration itself, and 'si' continues — the same syllable that marks ongoing aspect, fittingly, since waiting is pure ongoingness.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Waiting is the layperson's meditation: presence without action, attention without object. A culture's relationship to waiting is its relationship to time.",
     "pre-industrial-wisdom": "Bread, seeds, seasons, births — the old crafts are mostly skilled waiting. Hurry was the industrial invention."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The stillness that stays ready",
     "temporal": "Presence across an interval"
   }

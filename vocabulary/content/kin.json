@@ -7,9 +7,7 @@
     "lu",
     "ni"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Kin / Deep Family Bond",
   "description": "The bonds of connection that create a sense of family, whether through blood, choice, or shared experience. It is the deep, flowing current of belonging that runs through generations and communities.",
   "sound_symbolism": "The thoughtful 'th' honors the sacred nature of family bonds. The flowing 'lu' suggests the bloodlines and story-streams that connect generations, while the intimate 'ni' brings this vast connection into personal, heartfelt space. This creates a word that feels both ancient and intimate - like the moment you recognize your grandmother's eyes in your own child's face.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Kin embodies the teaching of interdependence at its most intimate level - we literally would not exist without the web of relationships that created and sustain us. This understanding extends beyond blood to recognize kinship wherever deep connection and mutual care arise, seeing all beings as potential family in the great web of existence.",
     "pre-industrial-wisdom": "Kinship in traditional societies extends far beyond nuclear family to encompass complex networks of mutual obligation and support. This understanding sees kin as the primary social safety net, where belonging is both birthright and responsibility. Kinship creates identity through relationship, teaching that we exist not as isolated individuals but as part of an ongoing story."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamental to social structure and networks of belonging",
     "emotion": "embodies deep bonds of love and connection"
   }

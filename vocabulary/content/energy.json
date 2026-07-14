@@ -7,9 +7,7 @@
     "nu",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Energy / Active Force / Power to Act",
   "description": "The capacity for action and work; the force that enables movement and change. 'Kenua' names what powers activity—the resource that transforms intention into action.",
   "sound_symbolism": "The word kindles with force. 'Ke' activates with kindling spark, energy gathering. 'Nu' nurtures with sustained momentum, power building. Then 'a' opens to available flow.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Renewable energy—sustainable power from sun, wind, and living systems.",
     "secular-buddhist-philosophy": "Effort and vitality observed as changing conditions—energy rises and fades like any phenomenon, to be worked with rather than forced."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Active force",
     "physical": "Power capacity"
   }

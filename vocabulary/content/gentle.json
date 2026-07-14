@@ -6,9 +6,7 @@
     "mo",
     "li"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Gentle / Tender / Mild in Action",
   "description": "Having or showing a mild, kind, or tender temperament; not harsh or severe. 'Moli' names the quality of soft strength—power that does not harm, touch that does not bruise, presence that does not overwhelm.",
   "sound_symbolism": "The word touches softly. 'Mo' begins with nasal gentleness, lips meeting without force. Then 'li' lightens further, liquid and delicate.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Gentle action (ahimsa in practice) touches the world without leaving wounds.",
     "peace-linguistics-practices": "Gentleness in speech and action is core to non-violent communication—strength expressed without harm."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Tender quality",
     "physical": "Mild in force"
   }

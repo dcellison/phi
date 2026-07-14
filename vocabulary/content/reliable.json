@@ -7,9 +7,7 @@
     "lu",
     "ri"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Reliable / Consistently Performing a Required Function",
   "description": "Consistently performing a required function under stated conditions, and the word is only ever as strong as the function, the conditions, and the duration actually named alongside it. It says nothing about a person's trustworthiness, which stays its own separate quality.",
   "sound_symbolism": "Crisp 'ko' starts with a clean stop and measured round vowel. Stressed 'lu' releases the tongue into a long, even flow. 'Ri' adds a light repeated contact before ending on bright 'i', so one firm beginning supports two liquid movements and the feel of performance that can be heard again.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Reliable shared infrastructure depends on maintained evidence about actual function, not faith in a favored technology or institution.",
     "peace-linguistics-practices": "The technical term avoids treating a machine's repeatable performance and a person's relational trustworthiness as the same judgment."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an evidence-bounded claim about performance under conditions",
     "creation": "a quality of designed and maintained technical function",
     "temporal": "consistent performance across a stated duration"

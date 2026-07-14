@@ -7,9 +7,7 @@
     "li",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Arm / Upper Limb / Reaching Member",
   "description": "The upper limbs extending from shoulders to hands, enabling reaching, holding, working, and embracing. Arms are the body's bridges to the world—they bring things close and extend ourselves outward. They carry, create, comfort, and connect, in labor and in love.",
   "sound_symbolism": "The word begins with 'p', the active bilabial that suggests purposeful action—arms ready to work. The vowel 'e' engages with direction. Then 'li' flows with liquid grace, the arm's reaching motion, extending outward. Finally 'o' rounds into embrace, the arm circling to hold what it has reached.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Arms can harm or hold, strike or embrace. Peace-oriented language emphasizes the arm's capacity for nurture, work, and welcome over its potential for violence.",
     "pre-industrial-wisdom": "Arms carry the knowledge of craft—the rhythm of weaving, the arc of throwing, the pressure of kneading. Skill lives in the arm's memory."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Upper limbs for reaching and working"
   }
 }

@@ -7,7 +7,7 @@ and the Part VII compound reference from the compound registry.
 
 Writes four markdown files under manual/part7_reference/lexicon/:
   - alphabetical.md   every word, A-Z: word, gloss, IPA, part of speech
-  - by_domain.md      content words grouped by semantic-domain tag
+  - by_domain.md      content words grouped by semantic domain
   - by_module.md      optional module vocabulary grouped by module
   - by_pos.md         all words grouped by part of speech / function class
 
@@ -85,7 +85,7 @@ def alphabetical(entries):
     lines.append("| Word | Gloss | IPA | Part of speech |")
     lines.append("|---|---|---|---|")
     for d, _, _ in sorted(entries, key=lambda e: e[0]["word"]):
-        pos = ", ".join(d.get("pos", []))
+        pos = d.get("pos", "")
         lines.append(f"| `{d['word']}` | {d['gloss']} | {d['ipa']} | {pos} |")
     return "\n".join(lines) + "\n"
 
@@ -95,20 +95,21 @@ def by_domain(entries):
     for d, cls, _ in entries:
         if cls != "content":
             continue
-        for tag in d.get("tags", {}):
-            domains[tag].append(d)
+        for domain in d.get("semantic_domains", {}):
+            domains[domain].append(d)
     lines = [HEADER, "# The Phi Lexicon — By Semantic Domain\n"]
     lines.append(
-        "*Content words grouped by domain tag. Words with several tags "
-        "appear in each of their domains.*\n"
+        "*Content words grouped by semantic domain. Words in several domains "
+        "appear under each one.*\n"
     )
-    for tag in sorted(domains):
-        words = sorted(domains[tag], key=lambda d: d["word"])
-        lines.append(f"\n## {tag} ({len(words)})\n")
+    for domain in sorted(domains):
+        words = sorted(domains[domain], key=lambda d: d["word"])
+        lines.append(f"\n## {domain} ({len(words)})\n")
         lines.append("| Word | Gloss | In this domain |")
         lines.append("|---|---|---|")
         for d in words:
-            lines.append(f"| `{d['word']}` | {d['gloss']} | {d['tags'][tag]} |")
+            rationale = d["semantic_domains"][domain]
+            lines.append(f"| `{d['word']}` | {d['gloss']} | {rationale} |")
     return "\n".join(lines) + "\n"
 
 
@@ -131,7 +132,7 @@ def by_module(entries):
         lines.append("| Word | Gloss | Part of speech | Concept |")
         lines.append("|---|---|---|---|")
         for d in words:
-            pos = ", ".join(d.get("pos", []))
+            pos = d.get("pos", "")
             concept = d.get("concept", "").split(" / ")[0]
             lines.append(f"| `{d['word']}` | {d['gloss']} | {pos} | {concept} |")
     return "\n".join(lines) + "\n"
@@ -141,8 +142,7 @@ def by_pos(entries):
     groups = defaultdict(list)
     for d, cls, subclass in entries:
         if cls == "content":
-            for p in d.get("pos", ["(unspecified)"]):
-                groups[p].append(d)
+            groups[d.get("pos", "(unspecified)")].append(d)
         else:
             groups[subclass].append(d)
     lines = [HEADER, "# The Phi Lexicon — By Part of Speech\n"]

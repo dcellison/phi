@@ -7,9 +7,7 @@
     "i",
     "sa"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Loud / Producing Strong Sound / High Volume",
   "description": "Producing or capable of producing much noise; strongly audible. 'Theisa' names the quality of loudness—sound that carries, volume that demands attention.",
   "sound_symbolism": "The word projects. 'The' /θe/ begins with breath released, sound forming. The vowel 'i' rises with intensity, volume building. Then 'sa' sustains outward, loudness complete.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Loud speech can overwhelm—awareness of volume respects others' auditory space.",
     "pre-industrial-wisdom": "Loud sounds served community—drums calling gatherings, bells marking time, voices carrying news."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Strong sound",
     "physical": "High volume"
   }

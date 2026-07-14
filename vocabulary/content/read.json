@@ -6,9 +6,7 @@
     "the",
     "o"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Read / Decode wisdom / Receive written voice",
   "description": "To turn written symbols into meaning. 'Theo' applies to any written material: books, signs, letters. What it names is reception, hearing the recorded voice of a writer who may be distant, absent, or long dead.",
   "sound_symbolism": "The word begins with 'the', where the thoughtful fricative 'θ' captures the contemplative act of decoding meaning—the careful consideration required to transform symbols into understanding—meeting 'e', the balanced vowel of measured comprehension. This flows through hiatus into 'o', the round vowel of wholeness and completed understanding. Together, 'theo' creates reading's essence: thoughtful decoding ('the'), complete reception ('o')—the mind's gentle transformation of written marks into living wisdom.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Reading is fundamentally an act of listening to another's voice through time and space—a peaceful reception of ideas that requires patience, openness, and the willingness to understand perspectives beyond our own. Unlike spoken debate which can escalate, reading allows for pause, reflection, and the careful consideration of challenging ideas without immediate reaction. It represents the non-violent exchange of knowledge, where understanding precedes response.",
     "pre-industrial-wisdom": "Before widespread literacy, reading was a sacred act—monks illuminating manuscripts, scribes preserving cultural memory, storytellers 'reading' pictographic histories. Traditional societies understood written knowledge as powerful magic requiring reverence and responsibility. Even today, indigenous communities recognize that some knowledge should be 'read' only by those prepared to honor its teachings. Reading connects us to this lineage of careful knowledge preservation."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "fundamentally a cognitive process of decoding and comprehension",
     "dialogue": "receptive communication receiving encoded messages from another consciousness"
   }

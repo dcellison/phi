@@ -7,9 +7,7 @@
     "ne",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Vaccinate / Administer a Vaccine Intended to Induce Protection",
   "description": "To administer a vaccine intended to induce protection. The verb names the act; the exact product, lot, and schedule belong in the record, and neither the immunity that follows nor the consent that came before it is contained in the act.",
   "sound_symbolism": "Deep 'shu' begins as a rounded hush. The stress rests on 'ne', where the tongue meets the teeth and resonance enters balanced 'e'. Final 'ki' closes farther back and lifts into bright 'i'. From dark breath, the sound rises steadily to a crisp final edge.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared preventive care can protect communities when material access, evidence, bodily autonomy, and unequal burdens remain visible.",
     "peace-linguistics-practices": "Separating vaccination from consent, immunity, and authority permits clear advocacy, refusal, uncertainty, and accountability without semantic shortcuts."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "administering a vaccine for a stated protective purpose",
     "community": "a preventive action with individual and collective relations",
     "physical": "an intervention intended to induce bodily protection"

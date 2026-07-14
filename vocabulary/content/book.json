@@ -6,9 +6,7 @@
     "she",
     "lu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Book / Written vessel / Knowledge container",
   "description": "A physical or conceptual vessel that holds written language, stories, and knowledge. A book preserves thought in portable form: it can outlive its writer and travel beyond where it was made. The word covers bound volumes and, by extension, other durable carriers of written work.",
   "sound_symbolism": "The word opens with the fricative /ʃ/, a sound close to the rustle of a turned page. The liquid 'l' joins the two syllables smoothly, and the vowels fall from mid 'e' to deep 'u', the word settling the way attention settles into reading.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Books represent the Art Nouveau ideal of democratizing beauty and knowledge—making art and wisdom accessible through mass production while maintaining craftsmanship. The movement's illustrated books, with their integration of text and organic imagery, showed how knowledge could be both functional and beautiful. 'Shelu' carries this vision of the book as art object and wisdom vessel.",
     "pre-industrial-wisdom": "Before print, books were sacred objects, hand-copied repositories of accumulated knowledge. Each book represented countless hours of human attention, making them precious bridges between generations. 'Shelu' honors this understanding of books as vessels for ancestral wisdom, carrying forward what must not be forgotten."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "tools for thought extending memory and enabling complex reasoning",
     "dialogue": "asynchronous communication between writer and reader across time",
     "physical": "tangible objects that can be held, carried, and preserved"

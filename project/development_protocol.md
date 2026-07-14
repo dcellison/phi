@@ -121,7 +121,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 ### Step 6: Canonical Entry and Teaching
 - Fill every required vocabulary field with substantive content and serialize it in canonical schema order
-- Give every content word accurate semantic-domain tags and add validated `modules` membership when it belongs to optional domain vocabulary
+- Give every content word accurate `semantic_domains` assignments and add validated `modules` membership when it belongs to optional domain vocabulary
 - Include grammatical examples that pass `python3 scripts/validate_examples.py`
 - Regenerate the Part VII alphabetical, domain, module, and part-of-speech references
 - Add or update a speaker-facing module chapter when the word belongs to an established vocabulary module
@@ -217,17 +217,11 @@ Every addition to Phi should make the following practices available without clai
 ## Technical Implementation Notes
 
 ### When Using JSON Schema
-All vocabulary entries must include:
-- `word`: The Phi word
-- `gloss`: 1-2 word English equivalent
-- `ipa`: Full IPA transcription with syllable breaks
-- `syllables`: Array of CV units
-- `pos`: Array of possible parts of speech
-- `concept`: Full conceptual description
-- `description`: Detailed semantic explanation
-- `sound_symbolism`: How phonetics embody meaning
-- `pillars`: Explicit connections to Five Pillars
-- `tags`: Add tags after deep assessment
+[`vocabulary/schema.json`](../vocabulary/schema.json) is the executable entry contract. Every entry has `word`, `gloss`, `ipa`, `syllables`, one scalar `pos`, `concept`, `description`, `sound_symbolism`, `grammatical_notes`, and `pillars`. Content entries also have a `semantic_domains` object and may list one or more `modules`.
+
+Particles alone have `slot`. A Slot 1 particle also has `slot1_rank`, whose value places it in the canonical sequence of tense, aspect, voice, evidentiality, modality, and negation. The validator reads that ordering from the entries themselves.
+
+Install the pinned validation dependency with `python3 -m pip install --requirement project/requirements.txt`, then run the validator as a standalone command. JSON Schema checks the entry's structure before the custom Phi checks inspect phonology, canonical serialization, cross-entry relations, and cited examples.
 
 ### File Organization
 - Content words → `/vocabulary/content/`

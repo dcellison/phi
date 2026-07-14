@@ -7,9 +7,7 @@
     "nu",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Dwell / Inhabit / Make Home In Place",
   "description": "The verb of residing in relationship, naming the ongoing presence that makes somewhere home. In Phi, dwelling reframes residence as reciprocal—we are shaped by where we live as the land is shaped by our presence. This word names not mere location but belonging, not just staying but becoming part of a place. To dwell is to enter into relationship with specific land, water, air, and the beings who share that place. It is the rooted existence that contrasts with passing through.",
   "sound_symbolism": "The word opens with the nasal 'm', lips together and breath contained, and deepens through a second nasal in 'nu': two nasals, doubled rootedness. The final 'i' narrows to a point, this place rather than anywhere.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Dwelling mindfully means being fully present where we are rather than constantly wishing to be elsewhere. 'Menui' supports the practice of contentment with place, making home in present location.",
     "pre-industrial-wisdom": "Traditional cultures understood dwelling as sacred bond with land—knowing the plants, honoring the waters, belonging to place as place belongs to you. 'Menui' preserves this relational understanding against rootless transience."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "belonging to local place and connections",
     "spatial": "relationship between being and place"
   }

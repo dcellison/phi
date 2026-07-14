@@ -6,9 +6,7 @@
     "tho",
     "le"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Practice / Repeated Action / Intentional Doing",
   "description": "Repeated action done to develop skill or as part of routine; intentional doing. 'Thole' names the doing that shapes—action repeated until it becomes capacity.",
   "sound_symbolism": "The word breathes with repetition. 'Tho' opens with thoughtful beginning, practice starting. 'Le' lifts with ongoing effort, skill developing.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Practice as path—the repeated action that transforms, not the destination.",
     "pre-industrial-wisdom": "Practice as craft—the doing that builds mastery over time."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Skill building",
     "temporal": "Repeated action"
   }

@@ -6,9 +6,7 @@
     "ne",
     "ri"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Cool / Moderately Cold / Refreshingly Not Warm",
   "description": "Of a fairly low temperature; giving relief from heat. 'Neri' names the quality of coolness—temperature that refreshes, air that soothes.",
   "sound_symbolism": "The word refreshes. 'Ne' settles with calm presence, heat fading. Then 'ri' flows with crisp ease, coolness achieved.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Cool design reduces energy—passive cooling through shade and airflow rather than mechanical systems.",
     "pre-industrial-wisdom": "Cool spaces provided refuge—shade, water, and evening air offered relief from heat."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Refreshing quality",
     "physical": "Low temperature"
   }

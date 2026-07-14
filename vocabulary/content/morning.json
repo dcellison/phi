@@ -7,9 +7,7 @@
     "lu",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Morning / Early Part of Day / Time of Awakening",
   "description": "The period of time from sunrise to noon; the beginning of the day's light. 'Kelua' names the time of awakening—fresh energy, new beginning, the day opening.",
   "sound_symbolism": "The word awakens. 'Ke' begins with clear alertness, consciousness stirring. 'Lu' flows into wakefulness. Finally 'a' opens to the new day, morning arrived.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Morning light enables activity without artificial energy—aligning work with natural illumination.",
     "secular-buddhist-philosophy": "Morning practice sets the day's direction—awakening to awareness before the mind fills with tasks."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Awakening time",
     "temporal": "Early day"
   }

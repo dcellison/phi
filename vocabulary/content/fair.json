@@ -6,9 +6,7 @@
     "thu",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Fair / The Path of the Collective",
   "description": "The practice of treating all beings with equitable consideration, recognizing different needs to create a just outcome for the collective. It is a dynamic process of restoring balance.",
   "sound_symbolism": "The word opens with 'thu', where the dental fricative 'th' requires careful, deliberate articulation—the mindful attention that fairness demands. The deep 'u' grounds this awareness in substance, in real consideration of all involved. The final 'a' opens outward to the collective, fairness extending to embrace all perspectives. Speaking 'thua' feels like the pause before a just decision: awareness gathering, then opening to include everyone affected.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Fairness creates peace by addressing root causes of conflict - inequity, exclusion, and unmet needs. When we practice fairness, we prevent the violence that emerges from systematic injustice, creating conditions where all can thrive. This requires the courage to name imbalances and the commitment to restore equilibrium through action, not just intention.",
     "pre-industrial-wisdom": "Traditional societies understand fairness through collective deliberation and restorative justice - not punitive systems but practices that restore community balance. This wisdom recognizes that true fairness considers context, relationship, and long-term harmony, not abstract rules applied without regard for lived reality."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "restores collective balance through equitable practice"
   }
 }

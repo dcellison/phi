@@ -7,9 +7,7 @@
     "ri",
     "sha"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Storm / Tempest / Weather's Power",
   "description": "A violent disturbance of atmosphere with strong winds, rain, thunder, or snow. 'Kurisha' names the sky's release of gathered power—when weather speaks loudly, transforming and cleansing through dramatic force.",
   "sound_symbolism": "The word gathers and releases. 'Ku' begins with sudden velar force, power building. Then 'ri' rushes forward, wind and rain driving. Finally 'sha' /ʃa/ releases in sweeping sound, the storm passing through.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Storms teach equanimity—like difficult emotions, they arise, peak, and pass. Resisting prolongs suffering; allowing brings peace.",
     "pre-industrial-wisdom": "Traditional cultures respected storms as necessary forces—cleansing the air, filling the waters, reminding humans of nature's power beyond control."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Violent weather",
     "temporal": "Transformative force"
   }

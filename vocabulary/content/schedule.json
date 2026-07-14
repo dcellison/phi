@@ -7,9 +7,7 @@
     "mo",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Schedule / Planned Arrangement Across Time",
   "description": "A planned arrangement of activities across time: stages, availability, the order of days. A schedule records intention and coordination, and it can change; it is not itself a promise, and it does not make anyone available who has not agreed to be.",
   "sound_symbolism": "Fine dental breath rises through bright 'thi'. Stressed 'mo' closes the lips around a low hum and rounded 'o', so the center gains weight. Final 'ra' rolls the tongue and opens into broad 'a'. The word drops into its middle, then unrolls into an open ending.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared schedules can coordinate maintenance, care, access, and seasonal work while making dependencies and rest visible.",
     "peace-linguistics-practices": "A schedule must not be treated as proof that every listed person agreed, remains available, or can participate under unchanged conditions."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "an intended arrangement of actions or events",
     "community": "a coordination artifact affecting participants",
     "temporal": "planned relations among times and stages"

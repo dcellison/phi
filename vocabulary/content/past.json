@@ -7,9 +7,7 @@
     "e",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Past / Time Gone By / What Has Already Happened",
   "description": "The time before the present; events that have already occurred. 'Luera' names time that has flowed away—memory's domain, history's realm, what cannot be changed.",
   "sound_symbolism": "The word flows backward. 'Lu' begins with receding flow, time moving away. The vowel 'e' opens to memory. Then 'ra' reaches back, the past recalled.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The past exists only in present memory—clinging to it causes suffering, learning from it brings wisdom.",
     "pre-industrial-wisdom": "The past taught through memory—ancestral knowledge, seasonal patterns, accumulated experience."
   },
-  "tags": {
+  "semantic_domains": {
     "temporal": "Before now",
     "wisdom": "Memory's domain"
   }

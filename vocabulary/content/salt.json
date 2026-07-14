@@ -7,9 +7,7 @@
     "ri",
     "sa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Salt / The Sea's Crystal",
   "description": "Salt: the seasoning and the preserver. Built on the 'mori' of 'moriwhe' (sea), because that is where it comes from: what the water leaves when it goes. Covers table salt and the salt of preservation alike.",
   "sound_symbolism": "The sea-syllables 'mo'-'ri' end in crisp 's' plus open 'a': the wide water reduced to a small sharp taste.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Before cold storage, salt was how the harvest crossed the winter. Roads, trades, and whole towns existed because of it."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "What the sea leaves behind",
     "physical": "The sharp taste that preserves"
   }

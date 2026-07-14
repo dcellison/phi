@@ -6,9 +6,7 @@
     "lo",
     "ri"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Vital / Essential to Life / Full of Energy",
   "description": "Having the quality of life-sustaining importance; full of living energy. 'Lori' names what is essential to life—the irreducible core without which living cannot continue.",
   "sound_symbolism": "The word pulses with life force. 'Lo' opens with life-giving presence, essence flowing. 'Ri' rises with vital energy, life asserting itself.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Vital systems—recognizing what is essential to sustaining life and community.",
     "secular-buddhist-philosophy": "'Lori' names the quality of being fully alive in the present moment, aliveness treated as something to cultivate rather than assume."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Life essence",
     "physical": "Essential quality"
   }

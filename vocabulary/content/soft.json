@@ -7,9 +7,7 @@
     "lo",
     "e"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Soft / Yielding / Not Hard",
   "description": "Easy to mold, compress, or yield to pressure; not hard or firm. 'Wuloe' names the quality of yielding—surfaces that give way, textures that comfort, resistance that accepts rather than fights.",
   "sound_symbolism": "The word yields gently. 'Wu' begins with rounded yielding, lips giving way. Then 'lo' flows low, pressure released. Finally 'e' opens and releases, the softness complete.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Softness in texture and form was beloved by Art Nouveau—the yielding curve, the gentle surface.",
     "peace-linguistics-practices": "Soft speech, soft approach—the quality that de-escalates and welcomes."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Comfortable quality",
     "physical": "Yielding texture"
   }

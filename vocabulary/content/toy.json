@@ -7,9 +7,7 @@
     "le",
     "mo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Toy / The Play-Thing",
   "description": "A toy: the object made for play. 'wile' (play) closes on 'mo', echoing 'themo', the classifier of crafted things — the play-thing, readable at sight. What a toy is for is in its first syllable; what it is made of is in its last.",
   "sound_symbolism": "'wi'-'le' is light as its purpose, and 'mo' gives it just enough object-weight to be picked up and put down.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Carved, sewn, stuffed, handed down: the pre-industrial toy was made by someone the child knew, and mended by them too, which is half of how it became beloved."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Made for a child's hands",
     "physical": "The crafted companion"
   }

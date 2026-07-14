@@ -7,9 +7,7 @@
     "ru",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "System / Bounded Whole of Interacting Components",
   "description": "A bounded whole of interacting components, selected for a particular analysis. The boundary is drawn for a question, not found in nature, and the same components can belong to a smaller system or a larger one depending on where the line falls.",
   "sound_symbolism": "Dental 'te' makes a clean first contact. Stressed 'ru' rolls away from it into deep 'u', and final 'ra' repeats the liquid motion while opening into broad 'a'. The two related rolls gather separate movement into one contour. A system sounds bounded at its first edge, active within, and wide enough at the end to hold the parts together.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Systems vocabulary helps communities trace material, energy, and information relations while keeping boundaries, purposes, and consequences open to examination.",
     "art-nouveau-aesthetics": "The concept treats a whole through the living relations among its parts rather than as an inert sum of isolated pieces."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "an organized whole whose components participate in processes",
     "cognition": "a bounded unit selected for analysis and explanation",
     "creation": "a structure whose relations can be designed, maintained, and revised"

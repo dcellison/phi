@@ -6,9 +6,7 @@
     "he",
     "we"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Wipe / Stroke Clean / Clear a Surface",
   "description": "To wipe: the table after the meal, the tears from a face, the mist from the window. A light stroke that clears. Finer than 'sawa' (wash — water's work) and gentler than 'rohi' (rub — friction's work).",
   "sound_symbolism": "Light 'he' breath, 'we' the stroke across — the sound barely touches the surface, as the act barely does.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Wiping the surface is the humble sibling of polishing the mirror — the old metaphor for practice itself, one pass at a time.",
     "pre-industrial-wisdom": "The wiped bowl, the wiped blade of the scythe, the wiped brow: maintenance in its smallest, most frequent form."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The clearing stroke",
     "physical": "Surface made clean",
     "ritual": "Care's smallest gesture"

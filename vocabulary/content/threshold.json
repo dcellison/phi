@@ -7,9 +7,7 @@
     "e",
     "wo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Threshold / Doorway / Point of Transition",
   "description": "The point of entering or beginning; the place of crossing between spaces. 'Maewo' names the liminal—the doorway where one realm meets another, the moment of crossing.",
   "sound_symbolism": "The word crosses over. 'Ma' grounds at the entrance, position marked. The vowel 'e' opens to crossing. Then 'wo' rounds into the new space, threshold passed.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Life is lived at thresholds—the constant crossing from one moment, one state, one understanding to the next.",
     "pre-industrial-wisdom": "Thresholds were guarded—doorways as vulnerable points requiring protection, blessing, or ritual."
   },
-  "tags": {
+  "semantic_domains": {
     "ritual": "Liminal space",
     "spatial": "Crossing point"
   }

@@ -6,9 +6,7 @@
     "ko",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Head / The Crown of Consciousness",
   "description": "The uppermost part of the body, housing the brain and the primary sense organs—eyes that gather light, ears that collect sound, nose and mouth that taste, smell, and speak. In Phi the head is understood as a meeting place where inner awareness encounters the outer world, honored as one part of an integrated whole rather than the body's ruler; wisdom resides in the integration of head, heart, and body.",
   "sound_symbolism": "The word begins with 'ko', where the velar stop 'k' creates a moment of gathering at the back of the mouth - the place where thought forms before speech, where consciousness collects itself. This moment of crystallization flows into 'o', the round vowel of wholeness and completion, suggesting the skull's protective dome. The transition to 'ma' brings the bilabial nasal 'm', humming with the resonance of mind, the vibration of thought made manifest. The final 'a' opens in awareness, the clear vowel of presence and understanding. The whole word moves from back to front, from internal to external, tracing the journey of thought becoming expression. 'Ko' holds and protects, 'ma' manifests and connects. It sounds like the gentle percussion of understanding, the rhythmic pulse of consciousness itself.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The head as 'koma' embodies the Art Nouveau fascination with organic forms - the skull's elegant dome, the graceful curve of the neck, the delicate architecture of features. Like Mucha's portraits that crown heads with flowing hair and botanical halos, 'koma' celebrates the head as nature's sculpture, where form and function unite in beautiful purpose.",
     "pre-industrial-wisdom": "Traditional cultures recognize the head as sacred but not supreme - it is one part of an integrated whole. Many indigenous practices involve head coverings, adornments, and rituals that honor the head while maintaining bodily wholeness. 'Koma' preserves this holistic view where the head is respected as the dwelling of consciousness without becoming the tyrannical ruler of the body that modern Western thought often makes it."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "seat of mental processes",
     "physical": "the anatomical body part",
     "wisdom": "dwelling of understanding and awareness"

@@ -7,9 +7,7 @@
     "ne",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Moon / Night-Light / The Reflected Presence",
   "description": "The noun naming Earth's companion, the silver presence that illuminates night and governs tides. In Phi, moon is understood as the patient teacher of cycles—waxing and waning, appearing and disappearing, modeling impermanence without drama. This word names both the physical satellite and the quality of reflected light, gentler illumination, and cyclical change. The moon presides over rest, dreams, and the wisdom that emerges in darkness.",
   "sound_symbolism": "The word opens with 'lu', where the flowing liquid 'l' creates silvery light—soft, continuous, reflected rather than generated. The deep 'u' holds the mystery of night. This grounds through 'ne', where the nasal brings the moon near, familiar, grounding even in darkness—the 'e' clear as moonlight on water. The final 'i' crystallizes bright, the point of light in darkness, the moon's presence piercing night. The arc traces moonlight: flowing silver, grounded nearness, focused presence.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The moon's phases model impermanence visibly—constant change that is also constant return. 'Lunei' supports contemplation of change as natural, cyclical, and beautiful.",
     "pre-industrial-wisdom": "Traditional cultures used lunar cycles for planting, fishing, ceremonies, and calendars. 'Lunei' preserves this relationship with moon as teacher of rhythms, guide of natural timing."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Earth's companion satellite",
     "temporal": "marker of monthly cycles and tides"
   }

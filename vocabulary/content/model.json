@@ -7,9 +7,7 @@
     "te",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Model / Purpose-Bounded Representation of a System",
   "description": "A representation of a system, built and bounded by a stated purpose. A model can be useful and still remain a representation, never mistaken for the system, the future, or the ecosystem it stands in for.",
   "sound_symbolism": "Rolling 're' begins as a line drawn toward something beyond the word. Stressed 'te' gives that line one clear dental point. 'Ru' rolls onward into deep 'u' and echoes the last two syllables of 'teru' (process) in altered rhythm, like a relation given a small working shape and set in motion.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Models can support long-term ecological choices while their assumptions, omissions, authority, and unequal consequences remain open to examination.",
     "secular-buddhist-philosophy": "The word makes representation distinct from reality and treats every model as conditioned by purpose, scale, and available evidence."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a structured representation used for explanation, comparison, exploration, or prediction",
     "creation": "a deliberately constructed representation with selected features and relations"
   },

@@ -6,9 +6,7 @@
     "ki",
     "shu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Thirsty / Dry-Throated / In Need of Water",
   "description": "Thirsty: the dry counterpart of 'kumoli' (hungry), answered by 'phialu' (water) and 'milau' (drink).",
   "sound_symbolism": "'ki' catches dry in the throat and 'shu' is the parched whisper — the word sounds like needing water.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Water offered to the thirsty is hospitality's first act in every tradition; the adjective is its request form.",
     "pre-industrial-wisdom": "Wells, springs, and carried gourds — settlement followed the answers to thirst; the word walked ahead of every path to water."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "The dry throat's need"
   }
 }

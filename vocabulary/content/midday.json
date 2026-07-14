@@ -7,9 +7,7 @@
     "e",
     "so"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Midday / Noon / Peak of Day",
   "description": "The middle of the day; when the sun is highest. 'Thaeso' names the day's peak—maximum light, fullest energy, the hinge between morning and afternoon.",
   "sound_symbolism": "The word stands at zenith. 'Tha' /θa/ begins with steady breath, presence established. The vowel 'e' opens to fullness. Then 'so' sustains at the peak, midday held.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Midday offers peak solar energy—the time when sun-powered systems generate most.",
     "pre-industrial-wisdom": "Midday rest preserved energy—working around the heat, pausing when the sun was strongest."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Solar zenith",
     "temporal": "Day's peak"
   }

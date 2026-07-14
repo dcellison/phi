@@ -6,9 +6,7 @@
     "si",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Community / Living collective / Interwoven whole",
   "description": "A group of beings bound together by shared place, purpose, values, or circumstance. 'Sila' names the middle scale of human organization, larger than a family and smaller than a society, where relationships are face-to-face and responsibility is mutual. At this scale the wellbeing of the members and of the whole are not separable.",
   "sound_symbolism": "The word begins with 'si', where the soft sibilant 's' suggests the continuous flow of social energy—like streams converging—meeting 'i', the bright vowel of collective awareness and shared vision. This flows into 'la', where the liquid 'l' creates pathways of connection, opening to 'a', the most fundamental vowel of existence and presence. Together, 'sila' creates the sound of community itself: flowing awareness ('si') becoming shared paths ('la')—individual streams joining to form a river of collective life.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The Sangha (community) forms one of Buddhism's Three Jewels, recognizing that awakening happens in relationship, not isolation. 'Sila' reflects the understanding that spiritual development requires the mirror of community—others who challenge, support, and witness our growth toward wisdom and compassion.",
     "pre-industrial-wisdom": "Traditional societies understood community as the natural unit of human survival and thriving—not an optional association but the essential context for human life. 'Sila' carries this ancient recognition that humans are inherently communal beings, that individual identity emerges from and returns to collective belonging."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamentally about social relationships and collective organization"
   }
 }

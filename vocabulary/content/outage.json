@@ -7,9 +7,7 @@
     "lu",
     "whe"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Outage / Period of Unavailable Infrastructure Service",
   "description": "A bounded period during which an infrastructure service is unavailable, felt from the outside as absence. A single component can fail with no outage following, and an outage can happen with no component failing at all: planned work or a missing input can take a service down just as surely.",
   "sound_symbolism": "A narrow hiss begins 'se', flows directly into stressed liquid 'lu', and recalls the uninterrupted movement of 'selu' (flow). 'Whe' rounds the lips and replaces that current with unvoiced breath. The service disappears audibly: motion, then a hollow shaped by its absence.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared infrastructure must be discussable when it is absent as well as when it works, including unequal consequences and restoration priorities.",
     "peace-linguistics-practices": "The word permits a neutral report of service loss while leaving notice, accountability, access, and harm open to explicit discussion."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "cessation or inadequate provision of a technical function",
     "community": "loss of a stated shared or infrastructure service for affected participants",
     "temporal": "a bounded period of unavailability or interruption"

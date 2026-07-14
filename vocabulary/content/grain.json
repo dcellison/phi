@@ -7,9 +7,7 @@
     "pu",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Grain / The Staple",
   "description": "Grain: the seed-crop that feeds the year. Wheat, rice, barley, oats: Phi does not distinguish, since the role is the same everywhere. Bread, porridge, and their cousins are grain plus 'pharelo' (cook); the language reaches them by composition rather than a separate word.",
   "sound_symbolism": "Plain syllables for the plain food: 'na' grounded, 'pu' compact as the kernel, 'ro' rolling like poured grain.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Agriculture is mostly the story of grain: what was planted, stored against winter, and ground for bread. The staple set the calendar for everything else."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The staple that sets the table",
     "nature": "The seed-crop of the year"
   }

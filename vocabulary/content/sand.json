@@ -7,9 +7,7 @@
     "ru",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sand / Fine Particles / Time's Dust",
   "description": "Loose granular material formed from broken rock, found on beaches and in deserts. 'Kirua' names the countless tiny fragments—what remains when stone surrenders to time and water, the soft accumulation of ages.",
   "sound_symbolism": "The word shifts and settles. 'Ki' strikes with countless fine grains, particles beyond number. 'Ru' shifts and runs, sand in motion. Then 'a' settles into temporary stillness, grains coming to rest.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Sand teaches impermanence through accumulation—each grain was once mountain, and time transforms all solidity to particles.",
     "pre-industrial-wisdom": "Sand marked time in hourglasses and provided material for glassmaking—the tiny grains serving human needs through transformation."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Granular earth material",
     "temporal": "Product of deep time"
   }

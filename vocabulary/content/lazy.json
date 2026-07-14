@@ -6,9 +6,7 @@
     "we",
     "sha"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Lazy / Unwilling to Work / Avoiding Effort",
   "description": "Unwilling to work or use energy; avoiding exertion. 'Wesha' names the quality of laziness—the reluctance to engage effort, the preference for ease over activity.",
   "sound_symbolism": "The word slumps. 'We' begins with soft opening, energy low. Then 'sha' /ʃa/ exhales without force, effort avoided.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Sloth (thina) is a hindrance—but sometimes what appears lazy is needed rest, requiring discernment.",
     "pre-industrial-wisdom": "Laziness threatened survival—communities depended on each member's contribution."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Unwilling to work",
     "physical": "Avoiding effort"
   }

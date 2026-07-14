@@ -7,9 +7,7 @@
     "tha",
     "wu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Triage / Prioritize Assessment or Care Under Stated Constraints",
   "description": "To order assessment or care under real constraints, by stated criteria that can be examined and argued with. Triage decides who is seen first under scarcity; it must never become a ranking of who deserves to live.",
   "sound_symbolism": "Bright 'ki' begins with one crisp velar contact. In stressed 'tha', the tongue reaches the teeth and lets breath spread through broad 'a'. Final 'wu' rounds the lips and sinks into deep 'u'. A narrow opening widens at the center, then gathers into a low breathy close.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared care under scarcity requires visible criteria, constraints, burdens, and responsibility to expand capacity rather than treating shortage as natural.",
     "peace-linguistics-practices": "Separating triage from worth, refusal, and fairness keeps painful prioritization open to explanation, dissent, revision, and accountability."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "assessing and ordering care under constraints",
     "cognition": "a revisable priority judgment under stated criteria",
     "community": "distribution of care timing and resources among affected people"

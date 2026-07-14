@@ -7,9 +7,7 @@
     "pha",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Storyteller / Tale Keeper / Narrative Voice",
   "description": "One who tells stories; a keeper and sharer of narratives. 'Lophae' names who carries tales—voice weaving worlds from words.",
   "sound_symbolism": "The word opens with narrative. 'Lo' opens with story-space, tale beginning. 'Pha' breathes with gentle weaving, narrative flowing. Then 'e' eases into shared wonder.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Storyteller as teacher—wisdom transmitted through tale and parable.",
     "pre-industrial-wisdom": "Storyteller as memory—carrier of culture through narrative tradition."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Narrative role",
     "dialogue": "Tale sharing"
   }

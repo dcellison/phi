@@ -7,9 +7,7 @@
     "ru",
     "pe"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Spoon / Small Bowl-Ended Utensil",
   "description": "A utensil with a shallow bowl at the end of a handle, used to scoop, eat, measure, or stir. Size and material range from a carved serving spoon to a small eating spoon. 'noru' (bowl) is the separate dish; 'norupe' carries a little bowl in the hand.",
   "sound_symbolism": "Round 'no' begins with a dental nasal. Stressed 'ru' rolls the tongue into deep 'u', and 'noru' (bowl) becomes audible intact. Final 'pe' brings a small closure to the lips and releases into balanced 'e'. The sound leaves its low hollow through a lighter final edge.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The useful line of a spoon runs from the hand into one shallow curve, with little room for ornament that ignores the grip.",
     "pre-industrial-wisdom": "A household spoon might be carved, worn smooth, repaired at the handle, and shared through more meals than anyone counted."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a utensil used to scoop, eat, measure, or stir",
     "creation": "a handled tool ending in a shallow bowl",
     "physical": "a small hollow carried at the end of a handle"

@@ -7,9 +7,7 @@
     "lo",
     "tu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Mix / Combine Materials Through Movement",
   "description": "To combine two or more materials by moving them through one another until they are distributed for the intended preparation. The parts sometimes remain visible and sometimes become difficult to distinguish. 'pharune' (include) says that something belongs within a set; 'welotu' performs the physical combining.",
   "sound_symbolism": "Rounded 'we' glides from the lips into balanced 'e'. Stressed 'lo' releases the tongue inside a low round chamber, then final 'tu' closes at the teeth and drops into deep 'u'. Two smooth openings meet one clean stop at the end.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Mixing can leave a marbled boundary visible or carry separate colors into a new field; the intended result decides when the hand stops.",
     "pre-industrial-wisdom": "Dough, plaster, dye, and clay each taught a different resistance through the same circling arm."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "combining materials by moving them together",
     "creation": "distributing ingredients through a preparation",
     "physical": "parts moving through one another in a vessel or space"

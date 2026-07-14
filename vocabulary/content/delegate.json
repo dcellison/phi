@@ -7,9 +7,7 @@
     "a",
     "tho"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Delegate / Entrust Bounded Action or Authority",
   "description": "To entrust a bounded task or piece of authority to someone else. The one who delegates keeps the accountability; it does not travel along with the task, and what happens if the delegate cannot act should be settled up front.",
   "sound_symbolism": "Liquid 'lo' rounds into a stressed standalone 'a' across clear hiatus. Those first two beats repeat the full sound of 'loa' (give), and the open middle rings plainly between them. Final 'tho' brings tongue and teeth close enough for breath to pass before the lips round the word into a held shape.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Bounded delegation supports distributed stewardship and rotating work without requiring every participant to decide or perform every action.",
     "peace-linguistics-practices": "Explicit scope, consent, and retained responsibility prevent delegation from disguising command, abandonment, proxy overreach, or imposed labor."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "entrusting a bounded role or action to a recipient",
     "community": "delegation with stated scope, duration, and reporting"
   },

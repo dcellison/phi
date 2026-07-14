@@ -7,9 +7,7 @@
     "wa",
     "pi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Butterfly / The Transformed Flyer",
   "description": "The butterfly: the insect that lives twice, crawling first and flying after. Its second body drifts through gardens on wings like petals, drinking from flowers, weighing nothing. Phi's own word for transformation reaches for this creature to explain itself; 'phiwapi' is transformation with wings on, proof carried through the summer air that a finished change can be gentler than what it changed. The moth, its night sibling, is 'shero phiwapi'.",
   "sound_symbolism": "Soft breath 'phi' gives the creature gentleness and lightness; the complete verb 'wapi' (fly) follows, carrying it immediately into open air. The form names a transformed flyer through its defining movement rather than through its earlier body.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "The teaching insect: impermanence that ends in wings. Every transformation lesson borrows it sooner or later.",
     "art-nouveau-aesthetics": "The movement's own emblem, wings drawn into lamps and combs and doorways: pattern, flight, and flower in one body."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Change made visible and winged",
     "nature": "The garden's transformed flyer"
   }

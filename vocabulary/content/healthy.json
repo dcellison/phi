@@ -6,9 +6,7 @@
     "wo",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Healthy / In Good Health / Functioning Well",
   "description": "In good physical or mental condition; functioning well. 'Wolu' names the quality of well-being—bodies that work as they should, minds that function clearly, systems that operate in balance.",
   "sound_symbolism": "The word flows with well-being. 'Wo' begins with rounded wholeness, wellness present. Then 'lu' flows with life-force, health moving through.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Healthy ecosystems, healthy communities, healthy individuals—all connected, each supporting the others.",
     "secular-buddhist-philosophy": "Health of body supports health of mind—the Buddha taught care for the body as foundation for practice."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Well-functioning",
     "physical": "Good condition"
   }

@@ -7,9 +7,7 @@
     "lu",
     "o"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Luminous / Softly Glowing / Full of Light",
   "description": "Full of or shedding light; bright and shining, especially in the dark. 'Pholuo' names the quality of gentle radiance—the moon's glow, the firefly's signal, light that illuminates without overwhelming.",
   "sound_symbolism": "The word glows softly. 'Pho' /ɸo/ begins with soft breath, gentle light forming. Then 'lu' carries liquid luminescence, light flowing. Finally 'o' opens with fullness, the glow complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Luminous awareness is mind's natural state—clear light that illuminates all experience without distortion.",
     "art-nouveau-aesthetics": "Luminous quality was prized in Art Nouveau—glass, jewels, and surfaces that held and released soft light."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Soft light quality",
     "wisdom": "Inner illumination"
   }

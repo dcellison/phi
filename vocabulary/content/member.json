@@ -7,9 +7,7 @@
     "ma",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Member / Recognized Participant in a Group or Institution",
   "description": "Recognized participation in a group under a stated criterion and source. A person can belong to a place ('wema') without carrying this institutional status, and taking part in one event does not by itself make anyone a member.",
   "sound_symbolism": "'We.ma' repeats the full sound of 'wema' (belong): a rounded glide into the stressed closure and broad release of 'ma'. 'Ri' adds a quick returning contact of the tongue and brightens the end. Belonging is heard first; membership gives that relation one further mark in the shared record.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Membership can make shared stewardship and decision participation visible while keeping entry, exclusion, burden, and institutional power open to criticism.",
     "peace-linguistics-practices": "Naming membership separately from agreement, consent, representation, and worth prevents a group label from speaking over the person who bears it."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "recognized membership in a stated group or institution"
   },
   "modules": [

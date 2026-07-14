@@ -6,9 +6,7 @@
     "so",
     "nu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Alone / Solitude / Settled Aloneness",
   "description": "Being by oneself — as a state, not a wound. Phi frames aloneness first as solitude: the settled, chosen quality of being singly present, as in meditation, a walk without company, a house at rest. Painful isolation is expressed by pairing it with feeling-words ('sonu nuhe', the sadness of aloneness) rather than built into the word itself.",
   "sound_symbolism": "The soft 's' of quiet air, the whole round 'o' of a complete circle drawn around one person, then 'nu' — the grounding nasal turned inward to the deep 'u'. The sound settles downward into stillness: one being, sufficient, at rest.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A culture that honors chosen solitude does not read withdrawal as offense; naming aloneness as a settled state protects the quiet from social suspicion.",
     "pre-industrial-wisdom": "The shepherd's watch, the fisher's dawn, the forager's quiet path: traditional life honored productive solitude as a rhythm, not an affliction."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "The felt state of being by oneself",
     "wisdom": "Solitude as contemplative ground"
   }

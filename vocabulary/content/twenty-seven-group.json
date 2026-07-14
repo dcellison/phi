@@ -6,9 +6,7 @@
     "la",
     "u"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Twenty-Seven-Group / Third Ternary Scale",
   "description": "A noun representing a group of twenty-seven (3³), the third scale in Phi's ternary numeral system. Exact forms count it with 'ta' or 'wi'; bare 'lau' gives an approximate magnitude around twenty-seven and often has the pragmatic force of 'many.' Twenty-seven is not a perceptual or universal human-scale boundary, and exact counting remains available above it through 242.",
   "sound_symbolism": "The two syllables of 'lau' provide a mnemonic image of flow across a larger grouping. The lateral 'l' opens a channel around the tongue, 'a' gives the form space, and the separate rounded 'u' closes it with a sense of extent. The image can evoke abundance, but the sound does not make a quantity abundant or beyond comprehension.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Bare 'lau' makes an approximate register readily available, while exact forms through 242 remain possible. Neither choice prevents wealth comparison, accumulation, or hoarding; peaceful distribution requires explicit decisions and institutions.",
     "pre-industrial-wisdom": "Communities have used embodied groups, containers, tallies, and natural cycles for practical quantity. 'Lau' can evoke grouped abundance without assigning one counting philosophy to traditional or Indigenous societies."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Names three groups of nine; exact recognition normally requires counting or learned grouping",
     "community": "Can estimate a gathering or shared stock without claiming sufficiency",
     "nature": "Can estimate grouped natural quantities such as trees or birds",

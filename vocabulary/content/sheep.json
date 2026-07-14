@@ -7,9 +7,7 @@
     "phi",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sheep / Woolly Grazing Flock Animal",
   "description": "A domesticated grazing animal with a thick fleece, commonly kept in flocks. The form echoes 'mophi' (wool), its most visible coat, while the noun refers to the whole living animal rather than a supply of fiber. A counted sheep may take optional 'lipha'.",
   "sound_symbolism": "Closed lips begin 'mo' with a nasal hum inside rounded 'o'. Stressed 'phi' brings the lips close again without sealing them and lets breath sharpen into bright 'i'. Final 'ra' turns on the tongue and opens into broad 'a'. The word passes from contained warmth through airy friction to an open finish.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "'Mophira' stays the subject when a sentence turns to fleece or shearing. Shelter and trade can then say who benefits and what the sheep experiences.",
     "pre-industrial-wisdom": "Pastoral knowledge followed the flock through weather and pasture. It guided birth and illness as closely as shearing, and the usefulness of wool never guaranteed good care."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "a grazing animal commonly living in flocks",
     "physical": "a woolly fleece on a living animal"
   }

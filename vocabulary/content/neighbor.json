@@ -7,9 +7,7 @@
     "wa",
     "ni"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Neighbor / One Who Shares Daily Life",
   "description": "Those who share an immediate, core space and the daily rhythms of life. The relationship is defined by proximity and the potential for mutual, everyday support.",
   "sound_symbolism": "The word opens with the soft fricative /ɸ/, a breath rather than a call, the register of everyday greeting. The glide of 'wa' opens the middle of the word, and the close vowel of the final 'ni' brings it back to something small and near. That last syllable is also the intimacy honorific 'ni', which the word takes naturally: 'ni phewani' (dear neighbor).",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Neighbors form the foundation of resilient communities through hyperlocal mutual aid, tool sharing, and collective care. This isn't just living near each other but actively cultivating relationships that reduce individual resource needs while increasing collective abundance. Neighborly connections create the village-scale networks essential for sustainable futures.",
     "pre-industrial-wisdom": "Traditional neighborhoods functioned as extended support networks where proximity created obligation and care. Before isolated nuclear families, neighbors shared childcare, celebrated harvests together, and provided first-response aid. This wisdom recognizes that those physically nearest often become our most reliable safety net."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamental to local social bonds and collective life",
     "spatial": "defined by proximity and shared physical space"
   }

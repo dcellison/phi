@@ -7,9 +7,7 @@
     "po",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Design / Specify Intended Form, Relations, and Function",
   "description": "To specify what a thing should be: its form, its relations, its function, its way of being made. A design can be partial, provisional, or shared, and the exact drawing that carries its dimensions is source material beside the Phi. A design is not yet the made thing; 'pilewa' (make) is the second act.",
   "sound_symbolism": "Rounded 'no' starts with a dental nasal, and stressed 'po' repeats its round vowel after a full closure of the lips. A rolling tongue breaks the paired enclosures in final 'ru' before the sound sinks into deep 'u'. Twice the word gathers itself; only at the end does it move.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Repairable and ecologically situated systems require design choices whose users, materials, dependencies, and consequences can be named and revised.",
     "art-nouveau-aesthetics": "Design can integrate function, material, structure, and living form rather than treating ornament as an afterthought."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "specifying an intended artifact, system, or intervention",
     "aesthetic": "shaping form in relation to material and use",
     "cognition": "developing and selecting among possible relations",

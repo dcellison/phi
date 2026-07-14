@@ -7,9 +7,7 @@
     "sa",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Flee / Move Away from Danger, Constraint, or Pursuit",
   "description": "To leave or move away because remaining carries danger, constraint, or intolerable pressure. The verb centers the departure rather than its speed: someone may flee on foot, by boat, or through a quiet exit. 'Pholeni' (depart) names leaving without this motive; 'rashelo' (run) names a bodily gait.",
   "sound_symbolism": "The lips nearly close for 'ph' but let breath escape into mid 'e'. Stressed 'sa' narrows that breath along the tongue, then opens it across broad 'a'. Final 'ri' flicks once and recedes into bright 'i'. The contour moves from held breath through open urgency and leaves on a quick turn of the tongue.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Leaving danger can be clear perception rather than aversion mistaken for wisdom. The motive and conditions determine the act; staying is not a virtue by itself.",
     "peace-linguistics-practices": "A dedicated verb lets a speaker name departure under danger or constraint without recasting it as cowardice or as ordinary travel."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "departure in response to danger or constraint",
     "spatial": "movement away from a threatening or intolerable situation"
   }

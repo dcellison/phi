@@ -7,9 +7,7 @@
     "lo",
     "wa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Assign / Designate an Expected Performer for a Task",
   "description": "To designate someone as the expected performer of a task. The verb reports the designation and stops there: whether the assigner had standing, and whether the person accepts, are the next sentences, not this one. Refusal, 'naweri' (refuse), remains a full answer.",
   "sound_symbolism": "Bright 'ri' taps the tongue and moves quickly into liquid 'lo'. The stress rests in that low rounded middle, where the two liquids give the word a smooth reach. Final 'wa' rounds at the lips before opening into broad 'a'. The contour travels easily and ends with space around it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared work remains sustainable only when task designation is separated from capacity, consent, care, and the authority claimed for the assignment.",
     "peace-linguistics-practices": "A neutral assignment verb makes imposed expectations reportable without laundering them as voluntary commitment or accepted responsibility."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "designating an expected performer for a task",
     "community": "a work relation between a source and an assignee"
   },

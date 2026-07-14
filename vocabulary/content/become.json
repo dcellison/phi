@@ -6,9 +6,7 @@
     "ke",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Become / Transformation / Change",
   "description": "The verb of change of state, expressing the process of moving from one condition to another. 'Kelu' covers both sudden shifts and gradual unfoldings—a seed becoming a plant, a student becoming a mentor—and treats becoming as the ordinary work of impermanence rather than a departure from a stable norm.",
   "sound_symbolism": "The word begins with 'ke', where the crisp consonant 'k' creates a moment of opening - like a seed cracking or a door unlatching, the decisive moment when transformation begins. This opens into 'e', the bright vowel of expansion and possibility. Together 'ke' captures the precise instant of change initiating. This flows into 'lu', where the liquid 'l' suggests the fluidity of transformation itself - the graceful flow between what was and what emerges - while 'u' grounds this change in depth and wholeness. The progression from the sharp clarity of 'k' to the flowing 'l' mirrors the journey of becoming: first the decisive break with what was, then the fluid emergence into new form.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Becoming embodies the Buddhist principle of anicca (impermanence) - the recognition that all phenomena are in constant flux. Nothing remains static; existence is process, not stasis. 'Kelu' grammaticalizes the understanding that we are not fixed beings but continuous becomings, arising through dependent origination and transforming moment by moment.",
     "pre-industrial-wisdom": "Traditional wisdom recognizes becoming as the natural order - seasons transform into each other, seeds become plants, children become elders. This cyclical understanding sees transformation not as disruption but as the fundamental pattern of life, where all things participate in endless cycles of becoming."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "developing understanding and awareness",
     "nature": "participating in natural cycles of change",
     "temporal": "transforming through time and process"

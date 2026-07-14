@@ -7,9 +7,7 @@
     "pi",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Child / A Being of Gentle Purpose",
   "description": "A new being in the process of becoming, held as a sacred trust by the community. The focus is on their inherent potential and the gentle purpose unfolding within them.",
   "sound_symbolism": "The liquid 'l' of 'lo' rolls and the light stop 'p' of 'pi' pops: quick, playful movement in two syllables. The final 'a' stands alone in hiatus, open like a child's wide-eyed attention.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Children exemplify beginner's mind - approaching each moment with fresh curiosity and wonder. Their wellbeing depends entirely on the care of others, a plain fact of interdependence, and in nurturing children we practice compassion and recognize that their becoming is inseparable from our own continued growth.",
     "pre-industrial-wisdom": "Traditional societies understand children as held in trust by the entire community, not owned by individual parents. This collective responsibility for nurturing the young reflects deep wisdom about how human potential unfolds through relationship and that a child's wellbeing is inseparable from the community's future vitality."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "held as sacred trust by collective responsibility",
     "nature": "unfolds inherent potential through organic growth",
     "temporal": "embodies process of becoming and living future"

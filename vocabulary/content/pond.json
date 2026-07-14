@@ -7,9 +7,7 @@
     "lo",
     "the"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Pond / Small Still Water / Contained Pool",
   "description": "A small body of still water, often shallow enough to support rooted plants throughout. 'Melothe' names the intimate waters—smaller than lakes, often created or maintained, places where water rests in quiet containment.",
   "sound_symbolism": "The word rests in stillness. 'Me' begins with mirror-still nasal, the reflecting surface. Then 'lo' holds the liquid contained, water at rest. Finally 'the' /θe/ breathes soft tranquility, the pond's quiet presence.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Ponds offer accessible stillness—small enough to comprehend yet deep enough to reflect, teaching meditation through contained presence.",
     "art-nouveau-aesthetics": "Ponds were beloved in Art Nouveau gardens—water lilies, reflections, and the interplay of surface and depth."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Contemplative water feature",
     "nature": "Small still water body"
   }

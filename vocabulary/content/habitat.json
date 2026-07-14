@@ -7,9 +7,7 @@
     "nu",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Habitat / Place and Conditions Supporting an Organism",
   "description": "A place together with the conditions that support a stated organism or living group. The same grove can be habitat in one season and not the next, and an animal seen at a place may only be passing through; whether the place feeds and shelters it is a further question.",
   "sound_symbolism": "Soft 'me' closes gently at the lips and moves into stressed dental 'nu'. Together 'me.nu' preserve the first two syllables of 'menui' (dwell), a familiar sheltered resonance. 'Ro' rolls around that center and rounds the ending into a place where the mouth can enter, settle, and turn.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Habitat vocabulary makes the material conditions of other beings visible in decisions about land, infrastructure, work, and restoration.",
     "pre-industrial-wisdom": "Situated knowledge attends to where beings feed, shelter, reproduce, rest, and move rather than treating land as empty background."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "the place and conditions in which a living group dwells",
     "spatial": "a bounded or distributed area understood relative to an organism"
   },

@@ -6,9 +6,7 @@
     "shi",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Tree / Standing-One / The Rooted Reach",
   "description": "The noun naming the great standing plants that bridge earth and sky, whose roots grip soil while branches reach sunward. In Phi, tree is understood as elder, as connector, as patient teacher of slow growth and long life. This word names the being that makes forests possible, that transforms air and light into wood and fruit, that provides shelter, fuel, medicine, and material. Trees model the wisdom of staying while still growing, of rootedness that enables reaching.",
   "sound_symbolism": "The word opens with 'shi', where the gentle fricative 'sh' creates the sound of wind through leaves—the tree's constant voice, breath of the forest. The bright 'i' rises like sap through trunk. This grounds into 'ro', where the rolling 'r' captures the tree's continuous life—growth rings accumulating, seasons turning—while 'o' rounds into the fullness of trunk and crown. Two syllables keep tree accessible, a being we encounter daily, addressed simply.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The organic forms of trees—branching, flowing, reaching—inspire Art Nouveau's essential patterns. 'Shiro' names the beings whose forms teach us about beauty.",
     "pre-industrial-wisdom": "Traditional cultures often understood trees as ancestors, as spirits, as beings deserving respect. 'Shiro' preserves this relationship where trees are honored as elders of the land."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "provider of materials, shelter, and breath",
     "nature": "the great standing plants bridging earth and sky"
   }

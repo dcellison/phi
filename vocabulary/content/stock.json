@@ -7,9 +7,7 @@
     "phe",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Stock / Materials or Items Held for Future Use",
   "description": "Materials, components, and tools held for future use in a place or practice. Stock can be shared, reserved, perishable, or awaiting inspection, and holding it settles nothing about ownership or sufficiency. Its record is 'sitawi' (inventory), which can drift from the shelf's truth.",
   "sound_symbolism": "'Mu' begins behind closed lips, where the nasal hum deepens into 'u'. Stressed 'phe' opens those lips just enough for unvoiced breath to pass. Final 'ra' brings the tongue into a quick roll and releases the word through broad 'a'. A held opening becomes breath, then opens fully.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Separating held stock from ownership and allocation authority supports transparent stewardship of shared material capacity.",
     "pre-industrial-wisdom": "Maintaining useful stocks of materials and components supports seasonal work, repair, reuse, and local resilience."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "items held for future practical use",
     "creation": "materials and components available to making and repair",
     "physical": "a situated collection of tangible items"

@@ -7,9 +7,7 @@
     "re",
     "o"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Stable / Not Likely to Change / Firmly Established",
   "description": "Not likely to give way, become unbalanced, or change; firmly established. 'Mureo' names the quality of secure foundation—structures that hold, systems that persist, conditions that can be relied upon.",
   "sound_symbolism": "The word grounds and holds. 'Mu' begins with grounded earth, foundation set. Then 're' remains firm, structure maintained. Finally 'o' opens with solidity, stability complete.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Stable communities can plan for futures—social stability enables long-term thinking and sustainable choices.",
     "pre-industrial-wisdom": "Stable structures lasted generations—traditional building created stability through understanding materials and forces."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Firmly established",
     "spatial": "Resistant to change"
   }

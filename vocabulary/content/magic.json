@@ -7,9 +7,7 @@
     "ke",
     "lu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Magic / Wonder-working / The Breath of Becoming",
   "description": "Magic: the working by which one thing becomes another and no one can say how. The seed already holds the tree, the loved thing slowly turns real, the tear becomes a flower: 'whekelu' names the change itself when its craft is hidden, wonder's own handiwork. It is not power over anything. Phi refuses command-magic along with every other command; what this word names moves the way spring moves, unforced, unexplained, and on time.",
   "sound_symbolism": "'Whe' is the unseen breath that starts the change. The complete verb 'kelu' (become) follows it, so the form is literally a becoming preceded by what cannot be seen: hidden change flowing into presence.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "The style's whole claim: that organic form is enchantment, the lily and the vine already halfway to another world.",
     "pre-industrial-wisdom": "Every hearth culture keeps a word for the change no craft explains — the bread that rises, the spring that returns; naming it keeps wonder in the daily round."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Change beyond explanation",
     "nature": "The world's unforced transforming"
   }

@@ -5,9 +5,7 @@
   "syllables": [
     "mu"
   ],
-  "pos": [
-    "numeral"
-  ],
+  "pos": "numeral",
   "concept": "Zero / Emptiness / Pure Potential",
   "description": "The numeral for absence of quantity. Phi also uses 'mu' as a metaphor for emptiness, open space, and a pause before beginning; those associations are philosophical extensions of the numerical meaning, not properties proved by zero.",
   "sound_symbolism": "The labial nasal 'm' closes the mouth completely, suggesting enclosure and internality. The back rounded vowel 'u' is the darkest, most withdrawn vowel, resonating low in the throat. One closed syllable for the quantity that contains nothing.",
@@ -16,7 +14,7 @@
     "secular-buddhist-philosophy": "Phi places the numeral beside Buddhist reflection on emptiness as a mnemonic and design analogy. Numerical zero is not a translation or proof of śūnyatā, and the word does not make absence spiritually beneficial.",
     "pre-industrial-wisdom": "Fallow fields, rests between tasks, and pauses in seasonal work provide practical images for a useful absence. Phi draws on those images without claiming that every absence is preparation or assigning one doctrine of zero to traditional cultures."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "mathematical concept of absence and identity",
     "temporal": "cycles' beginning and end, pauses between",
     "wisdom": "supports a Phi-specific metaphor of emptiness as potential"

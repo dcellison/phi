@@ -7,9 +7,7 @@
     "mu",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Household / Person or Group Sharing Domestic Life",
   "description": "A person or group who shares the keeping of a dwelling and its daily arrangements over time. A person living alone can be a household. Relatives in different homes need not be one. 'womu' (home) is the place of dwelling and belonging, while 'womuri' identifies the domestic unit that keeps life there.",
   "sound_symbolism": "Rounded 'wo' enters the stressed lip closure and deep nasal vowel of 'mu'. The rounded opening is 'womu' (home) heard intact. Final 'ri' releases the mouth with a quick tongue tap and bright 'i'.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A household shares heat, tools, food, and care at the scale where daily use is easiest to see and change.",
     "peace-linguistics-practices": "The word lets speakers describe who shares domestic life while kinship, ownership, and harmony wait for their own claims."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a person or group sharing domestic arrangements",
     "spatial": "daily life organized around a dwelling"
   },

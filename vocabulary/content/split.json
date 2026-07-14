@@ -6,9 +6,7 @@
     "pi",
     "sha"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Split / Divide in Two / Part Along the Grain",
   "description": "To split: firewood along its grain, the seed case at sprouting, the path where it forks. Division into parts — where 'kati' (cut) uses an edge, 'pisha' follows the thing's own line of parting.",
   "sound_symbolism": "Fine 'pi' finds the seam, 'sha' shears it open — the sound of clean parting.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "What parts along its own seam parts without violence; the verb distinguishes natural division from forced breaking.",
     "pre-industrial-wisdom": "Wood splits true along its grain and ruins the blade against it — splitting is the craft of working with a thing's nature, not against it."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Division along the grain",
     "nature": "How seeds and paths divide",
     "physical": "Parting in two"

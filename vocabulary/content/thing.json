@@ -6,9 +6,7 @@
     "the",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Thing / Object / Some-Being",
   "description": "The noun of general reference, naming any object, matter, or being when specific terms are unavailable or unnecessary. In Phi, 'thing' serves as the humble workhorse of reference, the word we use when we point and haven't yet learned the proper name, or when the category matters less than the presence. This word acknowledges that the world is full of thingness before it is full of specific kinds.",
   "sound_symbolism": "The word opens with 'the', where the gentle dental fricative 'th' creates abstract pointing—the breath of indicating without grasping, of acknowledging presence. The clear 'e' focuses attention. This grounds into 'na', where the nasal provides substance and stability—things have weight, they exist, they occupy space. The open 'a' allows the word to encompass anything. Two syllables keep the word accessible for its frequent work of general reference.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "All things arise dependently, all things pass—objects are processes, with no fixed inherent essence. 'Thena' names the arising presence before categories fix it.",
     "peace-linguistics-practices": "Sometimes humble reference serves better than precise categorization. 'Thena' provides the gentle word for pointing without claiming to fully know."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "general reference in thought and speech",
     "physical": "objects and matters in general"
   }

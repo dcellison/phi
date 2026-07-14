@@ -7,9 +7,7 @@
     "ke",
     "sa"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Expert / Possessing Deep Domain Practice and Understanding",
   "description": "Having deep knowledge and skill in a domain, built by sustained practice and study. Expertise is scoped and revisable: expert in one method, a beginner in the next. It grants no authority and ranks no one; it is the kind of practice that has opinions about the grain of the wood.",
   "sound_symbolism": "Deep 'nu' holds the tongue at the teeth and resonance in the nose; stressed 'ke' then makes a crisp closure farther back. Final 'sa' releases through a fine hiss and opens broadly. The word rises from depth through a clear edge and finishes in open air.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Scoping expertise and separating it from authority allows communities to value knowledge while continuing to question claims and distribute decisions.",
     "pre-industrial-wisdom": "Deep practice can reside in craftspeople, maintainers, growers, and local knowledge holders rather than only in formal institutions."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "deeply practiced capacity within a stated domain",
     "cognition": "extensive domain understanding supported by evidence",
     "wisdom": "knowledge refined through sustained practice and reflection"

@@ -7,9 +7,7 @@
     "ri",
     "tha"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Workshop / Place of Making / Craft Space",
   "description": "A room or building where things are made or repaired; a space dedicated to craft. 'Keritha' names where making happens—tools arranged, materials ready, work in progress.",
   "sound_symbolism": "The word shapes with purpose. 'Ke' begins with velar precision, the craftsperson's decisive hand selecting a tool. 'Ri' focuses with clear intention, effort directed and purposeful. Then 'tha' closes with the mindful awareness that good craft requires: attention, patience, thought. The arc from decisive action through focused effort to thoughtful finish mirrors the rhythm of making itself.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Workshops enable making—spaces where communities repair, build, and create rather than just consume.",
     "pre-industrial-wisdom": "Workshops transmitted knowledge—apprentices learning beside masters, skills passing hand to hand."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Craft place",
     "spatial": "Making space"
   },

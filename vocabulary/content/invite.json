@@ -6,9 +6,7 @@
     "who",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Invite / To Open a Path into a Space",
   "description": "The act of creating an opening for another to join a space, activity, or community. It is a gesture of inclusion and welcome.",
   "sound_symbolism": "The breathy 'wh' opens expansively, creating immediate space where none existed before - the generous gesture that makes room for another. This spaciousness flows into 'la', forming the path that guides entry, making approach both possible and welcoming. In just two syllables, the word performs its meaning: opening space, creating passage. The breath and flow together embody invitation's dual nature - both the space made and the path offered.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Invitation serves as powerful peace practice by actively countering exclusion and isolation - root causes of conflict. When we invite, we create belonging before it's demanded, offering inclusion as gift rather than extracted right. This proactive practice of making space prevents the violence that emerges from feeling unwelcome or unseen.",
     "pre-industrial-wisdom": "The act of invitation carries ancient sacred weight - the understanding that opening one's space to another creates bonds of reciprocal obligation and care. Traditional societies knew that today's guest becomes tomorrow's host, weaving networks of mutual support through cycles of invitation. This wisdom sees the invited guest as potential blessing, teaching that generosity in welcome creates abundance in community."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "creates and strengthens bonds through inclusive gestures",
     "ritual": "involves ceremonial protocols and formal gestures of welcome",
     "spatial": "explicitly opens spaces and creates paths for others to enter"

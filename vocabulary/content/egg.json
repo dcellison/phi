@@ -7,9 +7,7 @@
     "we",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Egg / The Round Case of Beginning",
   "description": "The egg: life's sealed, self-contained beginning — the bird's, the fish's, the snake's. With 'thowia' (born) and 'thinoe' (seed) it completes the vocabulary of starts: seed for plants, egg for creatures, birth for the moment itself.",
   "sound_symbolism": "Rounded 'po' is the shell, and 'we'–'a' opens outward from it — the word hatches as it is spoken.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Potential made visible: everything the bird will be, resting complete and unhurried in the shell. The egg is patience with a future inside.",
     "pre-industrial-wisdom": "The egg was the household's most honest measure of a season's health — counted gently, borrowed against never."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Life's sealed beginning",
     "physical": "The round self-contained case"
   }

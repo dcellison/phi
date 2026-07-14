@@ -7,9 +7,7 @@
     "ka",
     "te"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Refute / Show a Claim or Argument Fails",
   "description": "To show, through reasoning, evidence, or a counterexample, that a claim is false or that an argument fails to reach its conclusion. Refuting takes real work: an objection, a disagreement, or ridicule falls short of it on its own.",
   "sound_symbolism": "Voiceless, rounded 'whe' begins with breath shaped at the lips. Stress and a firm velar closure meet in 'ka' before open 'a'. A lighter stop follows in dental 'te' before balanced 'e'. Diffuse difficulty becomes two audible points of contact, the last one clean enough to end the failed line.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Refutation applies to a claim or inference that fails; it need not become an attack on a fixed self or a contest for permanent victory.",
     "peace-linguistics-practices": "The word reserves decisive language for an actual showing of failure and keeps ordinary disagreement or objection from being overstated."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "demonstrating that a claim or inference fails",
     "dialogue": "a decisive challenge supported by reasons or evidence"
   },

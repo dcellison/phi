@@ -7,9 +7,7 @@
     "lu",
     "to"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Pour / Cause Material to Flow from a Container",
   "description": "To cause liquid or loose material to flow from a container into another place. The vessel's tilt and opening usually begin the pour. A spatial phrase gives its destination. 'selu' (flow) is the material's movement; 'seluto' is the deliberate act that begins and directs it.",
   "sound_symbolism": "Fine 'se' flows into the stressed low liquid of 'lu'. Before final 'to', the opening gives 'selu' (flow) in full. That last syllable places a dental stop at the end and gathers the movement into round 'o'.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Pouring makes the change of container visible: the hand directs the flow but cannot call back what has already crossed the lip.",
     "pre-industrial-wisdom": "A practiced pour saved oil, milk, seed, and water from a spill when every carried measure had cost labor."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "directing material out of a container",
     "physical": "a controlled flow across the lip of a vessel",
     "spatial": "movement from a source container toward a destination"

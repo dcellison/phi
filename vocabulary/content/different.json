@@ -7,9 +7,7 @@
     "ra",
     "e"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Different / Distinction-Present / This-Not-That",
   "description": "The adjective naming the quality of being not the same, the relationship of distinction between things. In Phi, difference is understood not as opposition but as the diversity that enriches—the way distinct things create possibility through their variety. This word names the space between things that allows each to be itself.",
   "sound_symbolism": "The word opens with 'phi', where the bilabial fricative breathes with abstract quality—difference as perception, as recognition of non-identity. This moves through 'ra', where the rolling 'r' adds the dynamic quality of distinction, the movement between different things. The final 'e' opens with clarity—difference clearly seen. The arc traces difference: abstract recognition, dynamic distinction, clear perception.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Biodiversity depends on difference—each species distinct, each contributing. 'Phirae' names the variety that creates resilience.",
     "secular-buddhist-philosophy": "Recognizing difference without judgment is equanimity. 'Phirae' names distinction without hierarchy."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the perception of distinction",
     "spatial": "the relationship of non-equivalence"
   }

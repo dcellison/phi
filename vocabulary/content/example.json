@@ -7,9 +7,7 @@
     "su",
     "wa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Example / Particular Illustrating Case",
   "description": "A particular case presented to illustrate, clarify, teach, or test a broader idea. An example may help someone understand a claim without proving it, and a single favorable example does not establish a universal conclusion. The word names the case itself; the discourse marker 'phisu' announces that an example is about to be given.",
   "sound_symbolism": "'Phi.su' repeats the full sound of the familiar discourse marker 'phisu', so the noun arrives with an audible family resemblance. The lips breathe through bright 'phi', and stressed 'su' narrows to a hiss before settling into deep 'u'. Final 'wa' rounds and opens wide. The marker's quick gesture gains a broad last vowel with room to be held and examined.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Examples make abstract claims easier to examine together, while the lexical distinction discourages treating illustration as proof.",
     "pre-industrial-wisdom": "Particular stories, cases, and demonstrations often carry practical understanding that a bare generalization cannot provide."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a particular case used to illuminate a broader idea",
     "dialogue": "a case speakers can offer, compare, and discuss explicitly"
   },

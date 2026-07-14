@@ -7,9 +7,7 @@
     "ki",
     "ro"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Review / Systematically Reconsider a Prior Matter",
   "description": "To systematically reconsider a prior matter. A review can confirm what stood before, reverse it, or leave it unresolved, and the word promises neither independence from the original decision nor a fair process.",
   "sound_symbolism": "Dental 'tu' repeats the opening contact of 'turema' (return). Stressed 'ki' answers with a crisp closure farther back, and 'ro' rolls away into a round ending; together the last two syllables preserve 'kiro' (precise). The mouth returns through two exact points before attention opens around the matter again.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Review lets institutions adapt resource decisions, infrastructure rules, and ecological interventions as conditions and evidence change.",
     "peace-linguistics-practices": "A defined review path keeps criticism actionable after an initial decision and distinguishes reconsideration from ceremonial listening or delay."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "systematically reconsidering a prior matter",
     "cognition": "reassessment under stated evidence and criteria"
   },

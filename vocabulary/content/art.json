@@ -6,9 +6,7 @@
     "she",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Art / Creative Expression / Aesthetic Making",
   "description": "The expression of creativity through skilled making; works that embody beauty and meaning. 'Shela' names what humans make that transcends utility—creation for its own sake.",
   "sound_symbolism": "The word shapes with beauty. 'She' softly opens with gentle creation, form emerging. 'La' flows with expressive beauty, art speaking.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Art as practice—the making itself as meditation, not only the result.",
     "art-nouveau-aesthetics": "Art as life—beauty integrated into daily existence, not separated into museums."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Expressive form",
     "creation": "Aesthetic making"
   }

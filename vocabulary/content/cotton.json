@@ -7,9 +7,7 @@
     "pha",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Cotton / Plant Fiber / Soft White",
   "description": "A soft white fibrous substance surrounding seeds of the cotton plant; the breath-able cloth fiber. 'Sophae' names what plants give for covering—soft, light, kind to skin.",
   "sound_symbolism": "The word softens airy. 'So' touches with gentle softness, fiber yielding. 'Pha' /ɸa/ breathes with airy lightness. Then 'e' opens to comfortable coolness.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Renewable fiber—organically grown cotton as sustainable textile source.",
     "pre-industrial-wisdom": "Cotton clothed civilizations—the plant fiber of light covering, breathable comfort."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Plant fiber",
     "physical": "Soft covering"
   }

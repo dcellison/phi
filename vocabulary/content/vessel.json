@@ -6,9 +6,7 @@
     "lo",
     "pha"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Vessel / Container for Liquids / Sacred Receptacle",
   "description": "A hollow container for liquids; also a craft for traveling on water. 'Lopha' names what holds the flowing—water, wine, meaning itself.",
   "sound_symbolism": "The word opens to receive. 'Lo' curves in welcome, space prepared. Then 'ha' /ɸa/ breathes with gentle purpose, vessel alive with potential.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Form following flow—vessels shaped by what they hold, curved like water itself.",
     "pre-industrial-wisdom": "Vessels carried life—water jugs, wine amphorae, the boat that crosses waters."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Liquid container",
     "ritual": "Sacred receptacle"
   }

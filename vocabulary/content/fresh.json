@@ -7,9 +7,7 @@
     "wa",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Fresh / Recently Made / Not Yet Faded",
   "description": "Recently made, produced, or harvested; not stale, spoiled, or faded. 'Newai' names the quality of recent vitality—bread just baked, air after rain, energy not yet depleted.",
   "sound_symbolism": "'Ne' opens gently and 'wa' glides forward, a waking movement. The final 'i' stands alone in hiatus, bright and light.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Fresh local food reduces transport and storage—freshness as both quality and sustainable practice.",
     "pre-industrial-wisdom": "Fresh food, fresh water—traditional life depended on knowing freshness, preserving what could be preserved, using what must be used."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Not depleted",
     "temporal": "Recently made or harvested"
   }

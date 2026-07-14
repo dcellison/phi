@@ -7,9 +7,7 @@
     "lo",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Loom / Weaving Frame / Textile Device",
   "description": "A frame or machine for weaving cloth; the structure that holds threads for interlacing. 'Weloa' names what enables weaving—the frame where warp meets weft.",
   "sound_symbolism": "The word weaves complete. 'We' interlaces in relationship, threads crossing. 'Lo' opens the frame wide. Then 'a' completes with open vowel, cloth emerging.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Pattern emerging—the loom reveals design through repetition, mathematics made visible.",
     "pre-industrial-wisdom": "The loom as heart of home—where cloth for family was made thread by thread."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Pattern maker",
     "creation": "Weaving device"
   },

@@ -7,9 +7,7 @@
     "mo",
     "re"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Argument / Organized Support for a Conclusion",
   "description": "Premises organized to support a conclusion, whether spoken aloud, written down, or worked out in private thought. The word names the structure of the reasoning, never a quarrel or raised voices, and an argument can be valid while unpersuasive, or persuasive while resting on a false premise.",
   "sound_symbolism": "Soft dental breath begins 'the', with the tongue near the teeth and air still moving. The stress gathers in 'mo' as the lips close around a rounded vowel and give the word a resonant center. A rolling 're' releases that enclosure and sends the contour outward, from patient breath through concentration into an offered connection.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "An argument is treated as an organized form whose value depends on the relations among its parts, much as a living design depends on structure rather than isolated decoration.",
     "peace-linguistics-practices": "Separating argument from quarrel makes rigorous disagreement compatible with collaborative and non-hostile dialogue."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an organized relation of premises to a conclusion",
     "dialogue": "a reasoning structure shared for examination",
     "wisdom": "a form through which beliefs can be tested and revised"

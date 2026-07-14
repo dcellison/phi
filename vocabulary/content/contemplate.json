@@ -7,9 +7,7 @@
     "mi",
     "she"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Contemplate / Consider Deeply / Ponder",
   "description": "To think about something with sustained attention and depth—not quick analysis but slow consideration that circles around its object, viewing from many angles. 'Romishe' implies taking time, letting understanding develop gradually rather than grasping for quick conclusions.",
   "sound_symbolism": "The word moves in circles like contemplative thought itself. 'Ro' rolls with the round vowel, thought turning. Then 'mi' brings the mind explicitly into play, focused and present. Finally 'she' softens into seeing, the gentle clarity that emerges from patient attention.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Contemplation deepens understanding beyond intellectual knowing—sitting with a truth until it becomes lived experience.",
     "art-nouveau-aesthetics": "The contemplative gaze sees beauty that hurried glances miss. Art rewards those who linger."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Deep, sustained thinking",
     "wisdom": "Patient approach to understanding"
   }

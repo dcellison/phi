@@ -7,9 +7,7 @@
     "me",
     "thi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Monitor / Repeatedly Observe and Record for Stated Change or Decision",
   "description": "To repeatedly observe and record something for the sake of change or decision, across a stated time. Monitoring proves neither cause nor successful protection on its own, and it authorizes no watching of people.",
   "sound_symbolism": "Hissing 'so' rounds into the stressed nasal balance of 'me' and preserves the audible opening of 'somela' (observe). Final 'thi' sends a fine stream of air along the teeth and ends on bright 'i'. The word watches, settles, and looks again; its last breath points beyond one observation toward the next.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Monitoring connects interventions to revisable observation rather than treating good intention or one favorable result as proof of ecological success.",
     "peace-linguistics-practices": "The definition separates ecological monitoring from unmarked surveillance and requires purpose, scope, indicators, and authority to remain explicit."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "planned repeated observation, measurement, sampling, or recording",
     "cognition": "a practice for detecting change and informing a stated decision",
     "temporal": "attention repeated across a stated interval and duration"

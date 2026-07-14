@@ -7,9 +7,7 @@
     "e",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Lie Down / Recline / Lower the Body to Rest",
   "description": "To lie down or recline: the body lowered into horizontal rest. Completes Phi's set of the four postures — 'whano' (stand), 'thalo' (walk), 'meilo' (sit), 'ruemi' (lie down) — the traditional postures in which mindfulness is sustained. Distinct from 'nulae' (sleep, the state) and 'therilu' (rest, the pause): 'ruemi' is the posture itself.",
   "sound_symbolism": "The liquid 'ru' begins the easing downward, the open hiatus 'u.e' is the slow fall of the body giving its weight away, and the inward 'mi' arrives at stillness — the self, settled flat. Spoken with full hiatus, the word takes exactly as long as lying down should.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The fourth posture of practice: mindfulness sustained even lying down. The sutta's instruction needed this word, and now has it.",
     "pre-industrial-wisdom": "Rest honored as bodily wisdom — lying down at midday, with the sun, without shame."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Lowering the body to rest",
     "physical": "The horizontal resting posture"
   }

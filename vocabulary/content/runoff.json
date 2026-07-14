@@ -7,9 +7,7 @@
     "ra",
     "lu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Runoff / Water Flowing Across Land",
   "description": "Water moving across land or a built surface. It can carry sediment, warmth, or nothing worth noting, and its presence alone proves neither pollution nor where any pollution came from.",
   "sound_symbolism": "Rounded 'wi' glides into bright 'i', the first quick movement of water over a surface. Across open 'a', stressed 'ra' rolls into the wet resonance of 'wirua' (wet). Liquid 'lu' carries the sound downhill into deep 'u'. Uninterrupted movement gathers speed and traces water along the fall of the land.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Runoff makes the material consequences of fields, roofs, paths, and streets traceable without presuming either contamination or blame.",
     "pre-industrial-wisdom": "Reading surface water links soil, slope, cultivation, settlement, and downstream conditions in practical land knowledge."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "water moving across land or built surfaces",
     "physical": "a mobile body of surface water that may carry material",
     "spatial": "movement from a source surface toward a lower or receiving place"

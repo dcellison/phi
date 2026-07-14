@@ -7,9 +7,7 @@
     "ke",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Object / Raise an Objection",
   "description": "To raise a specific problem with a claim, a premise, or an inference, and put that problem into the discussion for someone to answer. An objection stops short of rejecting the whole argument or proving anything false; it opens a question rather than closing one.",
   "sound_symbolism": "The rounded breath of 'wha' arrives before any hard contact, like the intake before someone speaks against a point. Stress gives 'ke' a clean velar stop and the concern an edge. 'Ru' rolls away from that contact into deep 'u' and checks the flow for one beat before its energy returns to the discussion.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A named objection can target a specific part of reasoning while preserving respect, relationship, and the possibility of repair.",
     "pre-industrial-wisdom": "Collective deliberation depends on allowing a concern to be raised before a shared decision hardens into custom or action."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "identifying a specific problem in reasoning",
     "dialogue": "placing a challenge into discussion for response"
   },

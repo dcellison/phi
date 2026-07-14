@@ -6,9 +6,8 @@
     "na"
   ],
   "slot": 1,
-  "pos": [
-    "particle"
-  ],
+  "slot1_rank": "modality",
+  "pos": "particle",
   "concept": "Must / Need / Necessity",
   "description": "A modal particle marking the verb's action as necessary, required, or needed. The necessity can be physical, logical, moral, or practical; 'na' marks that it holds, and context says what kind and how strong.",
   "sound_symbolism": "The particle consists of 'n', the grounding nasal consonant that resonates through bone, creating connection between speaker and earth. This rooted sound meets 'a', the most open and fundamental vowel. Together, 'na' sounds like necessity itself: the 'n' grounds us in what cannot be avoided while the 'a' opens to accept what must be. The nasal resonance creates a sense of deep recognition—not surface rules but bone-deep requirements.",

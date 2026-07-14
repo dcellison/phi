@@ -7,9 +7,7 @@
     "ru",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Output / Matter, Energy, or Information Leaving a System",
   "description": "Matter, energy, information, or effect leaving a system across its boundary. An output is simply what crosses out; whether it is useful, intended, or a sign of good performance is a further and separate question.",
   "sound_symbolism": "Bright 'thi' begins with air escaping along the teeth. Stress rolls through 'ru' and gives that departure a direction. Low 'lo' lets the tongue release while round 'o' carries the result beyond the word: breath becomes motion and then open flow, a compact outward contour beside the broken hiatus of 'koewi' (input).",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Output language makes useful products, waste, heat, emissions, and information equally available for accounting rather than noticing only desired results.",
     "pre-industrial-wisdom": "A process is understood through everything that leaves it, including remnants and side effects as well as the intended work."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "something produced or released by a process",
     "cognition": "information or effect classified relative to an analytical boundary",
     "physical": "matter or energy crossing out of a selected system"

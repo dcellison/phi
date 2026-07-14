@@ -7,9 +7,7 @@
     "mo",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Heavy / Of Great Weight / Weighty",
   "description": "Of great weight; difficult to lift or move. 'Tumoa' names the quality of heaviness—physical mass that resists movement, metaphorical weight of significance or burden.",
   "sound_symbolism": "The word settles with weight. 'Tu' begins with solid presence, mass established. 'Mo' grounds deeply, weight pressing down. Finally 'a' opens to the earth, heaviness complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Heavy hearts carry accumulated grief—acknowledging weight is the first step to easing it.",
     "pre-industrial-wisdom": "Heavy materials required community—lifting stones, moving timber called for collective effort."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Burdened",
     "physical": "Great weight"
   }

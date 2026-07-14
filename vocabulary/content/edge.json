@@ -6,9 +6,7 @@
     "shu",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Edge / Border / Where Things Meet",
   "description": "The outside limit of an object, area, or surface; the line where something ends. 'Shuna' names the meeting point—where one thing stops and another begins, the line of transition.",
   "sound_symbolism": "The word marks the limit. 'Shu' /ʃu/ begins with soft precision, boundary sensed. Then 'na' settles at the line, edge defined.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Edges are where awareness lives—the boundary between self and other, inner and outer.",
     "art-nouveau-aesthetics": "Edges defined form—the flowing lines that separated figure from ground, creating shape through boundary."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Defining line",
     "spatial": "Outer limit"
   }

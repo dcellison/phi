@@ -7,9 +7,7 @@
     "se",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Pollute / Cause Environmental Impairment Through an Introduced Agent",
   "description": "To cause environmental impairment through an agent, a stronger claim than an agent's mere presence. Calling something pollution means being ready to name the evidence and the criteria the impairment is measured against.",
   "sound_symbolism": "A small lip closure begins 'pe' and releases into balanced 'e'. Stressed 'se' sharpens the air into a narrow hiss that moves through the middle. Dental nasal 'nu' draws that movement into deep 'u', where the agent enters quietly, spreads, and settles into the place it changes.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Pollution can be named directly while source, evidence, unequal exposure, responsibility, repair, and alternatives remain available for analysis.",
     "peace-linguistics-practices": "The word describes an environmental relation rather than using purity language to stigmatize people, cultures, or organisms as pollutants."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "an introduced agent causing or contributing to environmental impairment",
     "nature": "harmful change in ecological media, conditions, or use",
     "physical": "movement or presence of matter, organisms, or energy with harmful effects"

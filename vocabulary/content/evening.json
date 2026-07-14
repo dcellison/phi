@@ -7,9 +7,7 @@
     "wa",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Evening / End of Day / Time of Gathering",
   "description": "The period from sunset to bedtime; the day's closing hours. 'Howai' names the time of return—gathering home, sharing meals, the transition from work to rest.",
   "sound_symbolism": "The word settles homeward. 'Ho' breathes with day's release, settling complete. 'Wa' flows with gentle transition, light fading. Then 'i' rests into stillness, evening arrived.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Evening conversation differs from day—slower, more reflective, suited to connection rather than task.",
     "pre-industrial-wisdom": "Evening gathered families—the time when scattered members returned, stories were shared, bonds renewed."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Gathering time",
     "temporal": "Day's end"
   }

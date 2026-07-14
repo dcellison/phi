@@ -7,9 +7,7 @@
     "su",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ash / What the Fire Leaves",
   "description": "Ash: what stays when burning is over. Gray, fine, nearly weightless. The possessive phrase 'thero hesura' (the fire's ash) is its natural habitat.",
   "sound_symbolism": "Breath-soft 'he' and hushed 'su' carry almost no weight, which is accurate, and 'ra' lets the word end open, like ash lifting.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "What remains when the burning is complete. Sitting with ash is sitting with the honest end of every fire, including the ones we tend in ourselves.",
     "pre-industrial-wisdom": "Lye for soap, alkali for the garden, a scouring powder, a preservative bed for roots: the hearth's leavings were the household's chemistry."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The fire's gray remainder",
     "physical": "Weight almost gone"
   }

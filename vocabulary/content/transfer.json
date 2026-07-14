@@ -7,9 +7,7 @@
     "ka",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Transfer / Move Matter, Energy, or Information Between Systems",
   "description": "To move something from a source to a recipient. Transfer is more specific than a general flow, and naming it does not by itself prove that the full amount arrived unchanged at the other end.",
   "sound_symbolism": "Hissing 'se' begins in continuous motion. The stress meets a firm velar closure in 'ka', the audible instant of crossing from one side to another. 'Ru' rolls free of that contact and settles into deep 'u', so the word approaches, touches, and departs along the path of a transfer.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Tracing transfers reveals where shared materials, energy, information, and burdens actually move through infrastructure.",
     "pre-industrial-wisdom": "Practical systems are understood by following substances and work from source through handoff to recipient."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "directed movement from a source to a recipient",
     "physical": "movement of matter or energy between components or systems",
     "spatial": "a source-to-goal relation across a boundary"

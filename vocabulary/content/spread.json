@@ -7,9 +7,7 @@
     "lu",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Spread / Replicate / Multiply (Mathematical)",
   "description": "The verb of spreading or replicating, and Phi's word for arithmetic multiplication. It can evoke seeds becoming groves, stories circulating through communities, or a pattern repeated across a surface. In arithmetic, 'welura' combines a counted quantity with a factor to identify the product. The metaphor does not imply biological growth, generosity, abundance, or a beneficial result in every use.",
   "sound_symbolism": "The word begins with 'we', evoking community and togetherness—the social context where spreading naturally occurs. The liquid 'l' in 'lu' flows the growth forward, continuous and organic. The 'u' provides depth and grounding, the rootedness from which spreading begins. The trill/tap 'r' in 'ra' suggests gentle repetition, iteration without mechanical harshness. The final 'a' opens to the expanded result, the most spacious vowel receiving the abundance of growth. The overall flow suggests organic spreading—mycelium beneath forests, knowledge through generations.",
@@ -20,7 +18,7 @@
     "art-nouveau-aesthetics": "Natural patterns replicate with organic variation—the spiral of a nautilus, the branching of ferns, the fractal beauty of snowflakes. 'Welura' captures this aesthetic of multiplication as beauty unfolding.",
     "pre-industrial-wisdom": "Seeds can become harvests, stories can become traditions, and taught skills can extend a craft. 'Welura' can evoke those processes without treating multiplication as their inevitable or exclusively generous cause."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Names arithmetic multiplication through a spreading metaphor",
     "nature": "Offers spreading as a metaphor for multiplication"
   }

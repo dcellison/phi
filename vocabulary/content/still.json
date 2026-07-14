@@ -7,9 +7,7 @@
     "e",
     "sha"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Still / Not Moving / Motionless",
   "description": "Not moving or making a sound; calm and tranquil. 'Moesha' names the quality of stillness—the absence of movement, the presence of calm.",
   "sound_symbolism": "The word rests completely. 'Mo' grounds with settled presence, movement ceased. The vowel 'e' opens to spacious calm. Then 'sha' /ʃa/ breathes softly, stillness complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Stillness enables insight—the unmoving mind perceives what agitation obscures.",
     "peace-linguistics-practices": "Still presence supports others—not rushing to fill silence, allowing space for what needs to emerge."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Motionless",
     "wisdom": "Calm presence"
   }

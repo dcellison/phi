@@ -7,9 +7,7 @@
     "sha",
     "ro"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Consult / Seek and Consider Someone's View Before Acting",
   "description": "To seek a person's knowledge, experience, or view about a stated matter and give the response genuine consideration before acting. Consultation creates a place for an answer but does not assign final decision authority. 'thilou' (inquire) seeks understanding; 'misharo' also names the answer's relation to a pending action.",
   "sound_symbolism": "Closed lips hold 'mi' in a small bright nasal chamber. Stressed 'sha' opens that chamber into a broad hush and full 'a'. Final 'ro' turns the tongue inside round 'o'. A sharp expansion at the center leaves on a lower rolling note.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Design for a shared place begins with the people who will move, work, rest, and communicate there rather than treating them as a later inspection.",
     "peace-linguistics-practices": "Consultation asks an affected person before a plan hardens, while leaving enough language to test whether anyone listened to the answer."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "seeking a view before a pending action",
     "community": "considering an affected person's knowledge or experience",
     "dialogue": "an exchange intended to inform later action"

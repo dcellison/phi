@@ -7,9 +7,7 @@
     "lu",
     "ha"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Swallow / Send Down the Throat",
   "description": "To swallow: food, medicine, the words one thinks better of. The downward completion of eating and drinking.",
   "sound_symbolism": "'no'–'lu' descends into the deep, 'ha' is the open throat it passes through.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The swallowed word is restraint's most bodily metaphor — the verb serves the figurative wisdom as well as the meal.",
     "pre-industrial-wisdom": "Medicine's oldest instruction: swallow this. Healing needed the verb before it needed the pharmacy."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Eating's completion",
     "physical": "The throat's downward act"
   }

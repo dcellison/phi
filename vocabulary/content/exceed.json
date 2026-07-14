@@ -7,9 +7,7 @@
     "ro",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Exceeds / Greater Than / Surpasses in Magnitude",
   "description": "The verb of magnitude comparison announcing that one quantity surpasses another in amount. It states a quantitative relation without lexically saying that the larger quantity is better or preferable. Context still determines the relevant measure, whether the quantities are comparable, and whether the comparison is being used responsibly. A comparison may state both quantities or leave a reference threshold recoverable from context.",
   "sound_symbolism": "The flowing 'sha' rises like water over a brim, the liquid 'ro' carries the overflow onward, and the high 'i' marks the point passed. Magnitude surpassed without triumph — a fact of flow, not of victory. Keeps the '-oi' shape of the magnitude verbs while sharing nothing else with its partner 'thenoi' (falls-short), so the two comparisons can never be confused.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "'Sharoi' supports communication that distinguishes a factual magnitude claim from a claim about worth. Speakers must still examine the selected measure, the purpose of comparison, and its effects.",
     "pre-industrial-wisdom": "Practical comparisons such as one basket holding more grain than another can remain descriptive rather than evaluative. 'Sharoi' supports that distinction without claiming that traditional measurement was uniformly non-hierarchical."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Announces magnitude relationship requiring mental comparison",
     "spatial": "Frames relative position in numerical space—one quantity extends beyond another"
   }

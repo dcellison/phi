@@ -6,9 +6,7 @@
     "li",
     "mu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Young / Early in Life / Not Yet Mature",
   "description": "Having lived or existed for only a short time; in an early stage of life or development. 'Limu' names the quality of being near the beginning—full of potential, not yet formed by time, carrying the energy of new life.",
   "sound_symbolism": "The word springs with new life. 'Li' begins with liquid aliveness, life starting. Then 'mu' holds new form, being not yet hardened.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Young people inherit the future we create—their perspective and energy essential to building sustainable worlds.",
     "pre-industrial-wisdom": "Youth was both protected and prepared—the young carried forward the knowledge and practices of their people."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Not yet mature",
     "temporal": "Early in life"
   }

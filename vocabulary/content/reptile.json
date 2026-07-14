@@ -7,9 +7,7 @@
     "sho",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Reptile / Scaled Cold-Blooded Creature / Ancient Lineage Being",
   "description": "A cold-blooded, scaly animal that typically lays eggs on land. 'Keshoa' names the ancient lineage of snakes, lizards, turtles, and crocodilians—beings whose ancestors walked the earth long before mammals, carrying deep time in their patient presence.",
   "sound_symbolism": "The word moves with reptilian patience. 'Ke' begins with velar contact, scales touching earth. Then 'sho' /ʃo/ slides with hushing stealth, the reptile's quiet movement. Finally 'a' opens to stillness, the patient wait.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The reptile's stillness and patience offer a teaching—not all action requires speed, not all presence requires motion.",
     "pre-industrial-wisdom": "Reptiles represent ancient lineages and earth connection—beings that bask in sun and move with patient deliberation."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Ancient cold-blooded creatures",
     "temporal": "Deep time lineage"
   },

@@ -7,9 +7,7 @@
     "o",
     "li"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Silver / Moon Metal / Precious White",
   "description": "A precious white metal with highest conductivity and reflectivity; the moon's metal. 'Shioli' names what shimmers—the bright metal of reflection and purity.",
   "sound_symbolism": "The word shimmers lunar. 'Shi' /ʃi/ gleams with soft shimmer, light catching. The vowel 'o' rounds like full moon. Then 'li' flows with liquid light.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Silver's luster—the soft white gleam favored in Art Nouveau jewelry and decoration.",
     "pre-industrial-wisdom": "Silver was moon-metal—associated with feminine, night, reflection across cultures."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Lunar beauty",
     "nature": "Precious metal"
   }

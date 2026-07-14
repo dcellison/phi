@@ -6,9 +6,7 @@
     "se",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Flow / Unimpeded Movement",
   "description": "To move smoothly and without impediment, whether the mover is water, action, or consciousness. The word reaches from rivers to the psychological state of effortless action, and to the Art Nouveau ideal of the natural, graceful line.",
   "sound_symbolism": "The word begins with 'se', a sibilant that streams like water over stones, creating the very sound of smooth movement. This glides into 'lu', a liquid consonant that deepens the flow, pulling it into currents that run beneath the surface. Together, these two syllables perform their meaning—the 's' cannot be spoken without air flowing, the 'l' requires the tongue to move in liquid motion. The vowel progression from bright 'e' to deep 'u' mirrors how streams gather into rivers. Speaking 'selu' requires no effort, no harsh stops or resistance—the mouth itself enters a state of flow, making the word a perfect marriage of sound and meaning.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Flow embodies the central Art Nouveau principle of the whiplash line - the sinuous, organic curve that captures life force in motion. This aesthetic celebrates how nature moves without rigid angles, how water finds its path, how vines climb and hair falls. It sees beauty in allowing forces to express their natural trajectories without imposed constraint.",
     "pre-industrial-wisdom": "Traditional cultures understood flow through observing water courses, seasonal rhythms, and natural cycles. Knowledge of flow patterns was essential for irrigation, navigation, and understanding weather patterns. This embodied knowledge of how things naturally move informed everything from architecture to agriculture."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "creates mental state of optimal experience and effortless concentration",
     "nature": "embodies natural phenomena of water currents and organic movement patterns",
     "spatial": "traces movement through space along natural trajectories",

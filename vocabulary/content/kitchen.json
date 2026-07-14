@@ -7,9 +7,7 @@
     "ro",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Kitchen / Place of Food Preparation / Nourishment Space",
   "description": "A room where food is prepared and cooked; the space dedicated to nourishment. 'Nuroa' names where food transforms—ingredients becoming meals, raw becoming nourishing.",
   "sound_symbolism": "The word nurtures. 'Nu' grounds with sustaining presence, nourishment forming. 'Ro' stirs and transforms. Finally 'a' opens to completion, food ready.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Kitchen work is care made visible—the labor of feeding others as expression of love.",
     "pre-industrial-wisdom": "Kitchens sustained life—where food was transformed from ingredient to nourishment through skill and care."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Nourishment place",
     "spatial": "Food space"
   }

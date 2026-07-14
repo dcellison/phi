@@ -7,9 +7,7 @@
     "sa",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Skin / Covering / Boundary Surface",
   "description": "The body's largest organ, wrapping every surface as boundary between self and world. Skin is membrane and messenger—protecting what is within while constantly sensing what is without. It breathes, heals, ages, and communicates through flush, pallor, and gooseflesh the states words cannot capture.",
   "sound_symbolism": "The word begins with 'h', the lightest consonant—mere breath touching surface, as air touches skin. The high 'i' captures the skin's thinness, its fine sensitivity. Then 'sa' spreads with the soft sibilant, covering and sensing in all directions. Finally 'e' perceives, the skin's constant awareness of touch, temperature, and texture.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Skin defines the boundary of self, yet that boundary is permeable, constantly exchanging with environment. Contemplating skin reveals the self's fluid edges.",
     "pre-industrial-wisdom": "Skin reads the world—weather, danger, health of self and other. Traditional knowledge lives in skin's sensitivity, the first teacher before language."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Body's outer covering and sensing organ"
   }
 }

@@ -7,9 +7,7 @@
     "e",
     "li"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Quiet / Making Little Sound / Peaceful Stillness",
   "description": "Making little or no noise; characterized by calm and silence. 'Maeli' names the quality of soft presence—the stillness that allows listening, the calm that enables peace.",
   "sound_symbolism": "The word settles into stillness. 'Ma' grounds with gentle presence, noise fading. The vowel 'e' opens to silence, space clearing. Then 'li' rests lightly, quiet complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Quiet enables listening—to others, to self, to what arises in stillness.",
     "peace-linguistics-practices": "Quiet presence supports others' expression—not filling space allows others to speak."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Low sound",
     "wisdom": "Enabling stillness"
   }

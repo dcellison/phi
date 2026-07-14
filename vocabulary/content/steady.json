@@ -6,9 +6,7 @@
     "ko",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Steady / Constant / Even and Regular",
   "description": "Firmly fixed, supported, or balanced; regular, even, and continuous. 'Kolu' names the quality of constancy—the hand that doesn't shake, the pace that doesn't vary, the presence that remains reliable.",
   "sound_symbolism": "The word holds constant. 'Ko' begins with firm contact, stability established. Then 'lu' flows evenly, the same quality continuing.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Steady practice builds over time—not dramatic efforts but consistent, daily attention.",
     "pre-industrial-wisdom": "Steady hands and steady hearts—traditional crafts required the constancy that produces quality."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Constant quality",
     "temporal": "Even and continuous"
   }

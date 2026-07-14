@@ -6,9 +6,7 @@
     "no",
     "whu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Cave / Earth Hollow / Inner Dark",
   "description": "A natural underground chamber or hollow in rock or earth. 'Nowhu' names the spaces within—where earth opens to shelter, where darkness holds secrets, where humans found first refuge and left first art.",
   "sound_symbolism": "The word enters darkness. 'No' begins with nasal inwardness, moving inside. Then 'whu' /ʍu/ hollows with breathy depth, the cave's dark breath.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Caves have long been retreat spaces for meditation—the outer darkness enabling inner light, withdrawal enabling insight.",
     "pre-industrial-wisdom": "Caves were humanity's first shelters and first galleries—places of refuge, ceremony, and the earliest surviving art."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Underground hollow",
     "spatial": "Sheltered inner space"
   }

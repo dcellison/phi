@@ -7,9 +7,7 @@
     "la",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Amend / Formally Change Part of a Continuing Matter",
   "description": "To formally change part of something still living, a rule, a decision, an institutional arrangement, while keeping its history and identity intact. The exact old and new wording belongs in a source record beside the Phi.",
   "sound_symbolism": "Light 'he' begins with the same moving breath heard in 'helui' (change). At the stressed middle, 'la' lays the tongue into broad 'a' and opens the word wide. Crisp 'ki' makes one exact contact at the end. The whole contour breathes, spreads across the open center, and leaves a clear final mark.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Amendment treats institutional forms as conditioned and revisable while preserving the causal and ethical history of earlier versions.",
     "peace-linguistics-practices": "Named amendment prevents authorities from presenting a changed rule as timeless or quietly erasing the wording under which people previously acted."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "formally changing part of a continuing rule or record",
     "community": "institutional revision with preserved history"
   },

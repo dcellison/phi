@@ -6,9 +6,7 @@
     "phe",
     "no"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Full / Containing All / Nothing Lacking",
   "description": "Containing or holding as much or as many as possible; having no empty space. 'Pheno' names the quality of completeness—vessels that cannot take more, lives that lack nothing essential, states of satisfaction.",
   "sound_symbolism": "The word fills completely. 'Phe' /ɸe/ begins with breath filling, space occupied. Then 'no' closes with nothing lacking, fullness complete.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Fullness of presence—when fully here, nothing is lacking. The present moment is always complete.",
     "pre-industrial-wisdom": "Full barns meant survival—the satisfaction of provision, the security of enough."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Complete satisfaction",
     "physical": "Containing maximum"
   }

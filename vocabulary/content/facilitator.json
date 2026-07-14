@@ -7,9 +7,7 @@
     "ra",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Facilitator / Process Enabler / Group Guide",
   "description": "One who enables group process without controlling outcome; a guide for collective work. 'Thorae' names who makes easy—smoothing the path for others to find their way.",
   "sound_symbolism": "The word breathes with enabling. 'Tho' opens with thoughtful space, room made. 'Ra' radiates with process support, energy flowing. Then 'e' eases into smooth progress.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Process support—helping groups make decisions without dominating them.",
     "peace-linguistics-practices": "Facilitation as enabling—creating conditions for all voices to be heard."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Process role",
     "dialogue": "Group enabling"
   },

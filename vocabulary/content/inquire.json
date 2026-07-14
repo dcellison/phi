@@ -7,9 +7,7 @@
     "lo",
     "u"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Inquire / Seek Through Asking / Open Question",
   "description": "The verb of asking in order to understand. 'Thilou' covers the child's endless questions, the seeker's wondering, and a community's inquiry into how to live well together. To inquire is to admit incompleteness and to treat the other person as a source of what you lack.",
   "sound_symbolism": "The word opens with 'thi', where the gentle dental fricative 'th' carries the abstract quality of thought itself—the air of wondering, the breath of curiosity seeking shape. The bright 'i' focuses this wondering into specific question. This flows through 'lo', where the liquid carries inquiry outward, gathering possibilities like the plural marker gathers many. The final standalone 'u' opens into deep receptivity—the round vowel of uncertainty waiting to be filled, the space held open for response. The arc traces authentic inquiry: abstract wondering, flowing outward, opening to receive.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Beginner's mind approaches experience with genuine not-knowing. 'Thilou' embodies this practice—asking from authentic curiosity rather than testing or trapping, seeking to understand rather than to prove.",
     "peace-linguistics-practices": "Asking rather than assuming prevents conflict. 'Thilou' provides the verb for seeking clarification, checking understanding, and approaching others' perspectives with openness rather than judgment."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the mind's movement in curiosity and seeking",
     "dialogue": "verbal reaching toward understanding"
   }

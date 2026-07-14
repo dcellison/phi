@@ -7,9 +7,7 @@
     "lo",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Insightful / Seeing Deeply / Perceiving Truth",
   "description": "Having or showing an accurate and deep understanding; perceiving the inner nature of things. 'Seloi' names the quality of penetrating vision—seeing past surface to structure, understanding what lies beneath.",
   "sound_symbolism": "The word sees through. 'Se' begins with sensing attention, perception reaching. Then 'lo' goes deep, penetrating below surface. Finally 'i' pierces to the core, insight complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Insight (vipassana) sees things as they are—penetrating the three marks of impermanence, unsatisfactoriness, and non-self.",
     "peace-linguistics-practices": "Insightful listening perceives what's beneath words—the feelings, needs, and meanings that speech often obscures."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Deep perception",
     "wisdom": "Penetrating understanding"
   }

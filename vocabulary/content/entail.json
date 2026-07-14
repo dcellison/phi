@@ -7,9 +7,7 @@
     "the",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Entail / Necessarily Imply",
   "description": "For one claim to make another necessary: the first cannot be true, under the stated reading, while the second is false. Entailment is a relation between propositions alone, sharper than what caused an event or what a listener happens to find persuasive.",
   "sound_symbolism": "'Na' starts with the tongue settled at the teeth and opens on full 'a'. 'The' holds the stress in a softer stream of air across that contact. 'Ri' flicks forward and narrows into bright 'i'. It adds one last direction to the path already moving through the mouth.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Precise entailment makes the conditions and interpretation of necessity visible rather than turning a forceful intuition into an absolute claim.",
     "peace-linguistics-practices": "Participants can distinguish a necessary relation from persuasion, status, or insistence, reducing pressure disguised as logic."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a necessary truth-preserving relation between propositions"
   },
   "modules": [

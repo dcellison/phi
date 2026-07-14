@@ -6,9 +6,7 @@
     "pha",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Pen / Writing Implement / Mark-Making Tool",
   "description": "An instrument for writing or drawing with ink; the tool that makes thought visible. 'Phari' names what traces meaning—ink flowing into word.",
   "sound_symbolism": "The word breathes expression. 'Pha' /ɸa/ opens with creative breath, intention forming. Then 'ri' traces the line, marks appearing.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Writing as practice—the pen slows thought, making intention visible and considered.",
     "pre-industrial-wisdom": "The pen preserves—knowledge, story, wisdom recorded for future minds."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Writing tool",
     "wisdom": "Recording thought"
   }

@@ -7,9 +7,7 @@
     "la",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Comb / The Hair's Tool",
   "description": "The comb: 'whila' (hair) finished with the '-ru' that ends 'kiru' (chisel) and 'katiru' (knife). The tool family grows to three, and this is its gentlest member: teeth that untangle instead of cutting.",
   "sound_symbolism": "'whila' flows in first, all breath and liquid, and 'ru' marks it as a tool. The softest word in the tool family, correctly.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The ornamental comb was one of the movement's signature objects: horn and enamel carved into dragonflies and vines, a daily tool made worth looking at.",
     "pre-industrial-wisdom": "Carved from wood, bone, or horn, and often the most personal object a person owned. Grooming was daily care made visible."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "The tool worth carving",
     "physical": "Teeth that untangle"
   },

@@ -26,7 +26,7 @@ The open question is whether every foreign expression must stay outside a comple
 
 Status: Parked for a dedicated vocabulary pass.
 
-The existing workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). Older canonical JSON entries are uneven. Descriptions, grammatical notes, pillar rationales, and tag rationales need the same examination; concept labels, ordinary English examples, and other schema values that contain prose belong in the pass as well.
+The existing workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). Older canonical JSON entries are uneven. Descriptions, grammatical notes, pillar rationales, and semantic-domain rationales need the same examination; concept labels, ordinary English examples, and other schema values that contain prose belong in the pass as well.
 
 Sound symbolism needs particular care. The field should follow the word through the mouth. It begins with breath and obstruction, then notices what the lips and tongue touch. Vowel depth, openness, stress, and hiatus shape the contour that reaches the ear. Poetic attention can sharpen that description, but syllables do not carry hidden dictionary meanings or require a grand story.
 

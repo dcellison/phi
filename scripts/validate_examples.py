@@ -7,9 +7,7 @@ Phi Language Validator
 The single validation tool for the Phi project. Checks:
 
   1. Lexicon integrity (the three vocabulary entry directories):
-     - required schema fields present
-     - no undeclared fields (schema has additionalProperties: false)
-     - pillar keys are the five canonical keys
+     - every entry satisfies the executable Draft 2020-12 JSON Schema
      - phonotactic legality of every word:
          * only permitted letters
          * decomposable into (C)CV syllables (digraphs ph/th/sh/wh count
@@ -66,6 +64,15 @@ import json
 import re
 import sys
 from pathlib import Path
+
+try:
+    from jsonschema import Draft202012Validator
+    from jsonschema.exceptions import SchemaError
+except ModuleNotFoundError as error:
+    raise SystemExit(
+        "Missing validator dependency. Run: "
+        "python3 -m pip install -r project/requirements.txt"
+    ) from error
 
 import compound_registry
 import content_catalogues
@@ -176,16 +183,23 @@ RETIRED_FORMS = load_retired_forms()
 with VOCABULARY_SCHEMA_FILE.open(encoding="utf-8") as handle:
     VOCABULARY_SCHEMA = json.load(handle)
 
+try:
+    Draft202012Validator.check_schema(VOCABULARY_SCHEMA)
+except SchemaError as error:
+    raise SystemExit(f"Invalid vocabulary/schema.json: {error.message}") from error
+
+SCHEMA_VALIDATOR = Draft202012Validator(VOCABULARY_SCHEMA)
 SCHEMA_PROPERTIES = VOCABULARY_SCHEMA["properties"]
-REQUIRED_FIELDS = VOCABULARY_SCHEMA["required"]
-ALLOWED_FIELDS = set(SCHEMA_PROPERTIES)
 # JSON object order in schema.json is the canonical entry serialization order.
 FIELD_ORDER = list(SCHEMA_PROPERTIES)
 PILLAR_ORDER = list(SCHEMA_PROPERTIES["pillars"]["properties"])
-PILLAR_KEYS = set(PILLAR_ORDER)
-POS_VALUES = set(SCHEMA_PROPERTIES["pos"]["items"]["enum"])
-CANONICAL_TAGS = set(SCHEMA_PROPERTIES["tags"]["propertyNames"]["enum"])
-CANONICAL_MODULES = set(SCHEMA_PROPERTIES["modules"]["items"]["enum"])
+POS_VALUES = set(SCHEMA_PROPERTIES["pos"]["enum"])
+CONTENT_POS = {"noun", "verb", "adjective", "numeral"}
+FUNCTION_POS = POS_VALUES - CONTENT_POS - {"interjection"}
+SLOT1_ORDER = {
+    rank: index
+    for index, rank in enumerate(SCHEMA_PROPERTIES["slot1_rank"]["enum"])
+}
 
 IPA_CONSONANTS = {
     "h": "h", "k": "k", "l": "l", "m": "m", "n": "n̪", "p": "p",
@@ -220,8 +234,8 @@ def gloss_filename(gloss):
 
 def canonical_dump(data):
     """The canonical serialization of a lexicon entry: schema field
-    order, canonical pillar order, alphabetical tags, 2-space indent,
-    trailing newline."""
+    order, canonical pillar order, alphabetical semantic domains,
+    2-space indent, trailing newline."""
     ordered = {}
     for key in FIELD_ORDER:
         if key not in data:
@@ -233,12 +247,29 @@ def canonical_dump(data):
             value = {k: value[k] for k in PILLAR_ORDER if k in value} | {
                 k: v for k, v in value.items() if k not in PILLAR_ORDER
             }
-        elif key == "tags":
+        elif key == "semantic_domains":
             value = {k: value[k] for k in sorted(value)}
         elif key == "modules":
             value = sorted(value)
         ordered[key] = value
     return json.dumps(ordered, indent=2, ensure_ascii=False) + "\n"
+
+
+def schema_error_path(error):
+    """Render a JSON Schema error path in a compact, readable form."""
+    path = "$"
+    for part in error.absolute_path:
+        path += f"[{part}]" if isinstance(part, int) else f".{part}"
+    return path
+
+
+def entry_schema_errors(data):
+    """Return every Draft 2020-12 validation error for one entry."""
+    errors = sorted(
+        SCHEMA_VALIDATOR.iter_errors(data),
+        key=lambda error: tuple(str(part) for part in error.absolute_path),
+    )
+    return [f"{schema_error_path(error)}: {error.message}" for error in errors]
 
 
 def iter_string_fields(value, prefix=""):
@@ -355,7 +386,7 @@ def name_atom_errors(token, lexicon_words, content_words):
 # ---------------------------------------------------------------------------
 
 def load_lexicon():
-    """Load every vocabulary JSON entry. Returns (entries, load_errors)."""
+    """Load and structurally validate every vocabulary JSON entry."""
     entries = []
     errors = []
     paths = sorted(
@@ -371,20 +402,23 @@ def load_lexicon():
         except json.JSONDecodeError as e:
             errors.append(f"{rel}: JSON parse error: {e}")
             continue
-        pos = data.get("pos", [])
-        if "noun" in pos and "verb" in pos:
-            errors.append(f"{rel}: pos lists both noun and verb - refused by ruling: a deed names its event; a thing does not name its deed")
-        if "adjective" in pos and "noun" in pos:
-            errors.append(f"{rel}: pos lists both adjective and noun - refused by ruling: a quality names itself (quality-noun rule); a thing describes by position")
-        if "adjective" in pos and "verb" in pos:
-            errors.append(f"{rel}: pos lists both adjective and verb - refused by ruling: qualities do not name their acts")
-        if "content" in path.parts and len(pos) != 1:
-            errors.append(f"{rel}: content entries carry exactly one part of speech (one word, one class)")
+        for error in entry_schema_errors(data):
+            errors.append(f"{rel}: schema {error}")
+
+        pos = data.get("pos")
+        cls = pos if isinstance(pos, str) else None
+        kind = rel.parts[1] if len(rel.parts) > 1 else None
+        if kind == "content" and cls not in CONTENT_POS:
+            errors.append(f"{rel}: content directory requires a content part of speech")
+        elif kind == "function" and cls not in FUNCTION_POS:
+            errors.append(f"{rel}: function directory requires a function part of speech")
+        elif kind == "interjection" and cls != "interjection":
+            errors.append(f"{rel}: interjection directory requires pos 'interjection'")
+
         # the function-word shape charter (canon, settled 2026-07-06)
         syls = syllabify(data.get("word", "")) or []
         n = len(syls)
         hiatus2 = n == 2 and len(syls[1]) == 1
-        cls = pos[0] if len(pos) == 1 else None
         charter_violation = None
         if cls in ("particle", "numeral"):
             if n != 1 or len(syls[0]) != 2:
@@ -424,6 +458,7 @@ def check_lexicon(entries):
     warnings = []
     by_word = {}
     by_gloss = {}
+    slot1_rank = slot1_rank_map(entries)
 
     for rel, data in entries:
         word = data.get("word", "")
@@ -438,19 +473,6 @@ def check_lexicon(entries):
 
         if word in RETIRED_FORMS:
             errors.append(f"{rel}: word '{word}' is a retired Phi form")
-
-        for field in REQUIRED_FIELDS:
-            if field not in data or data[field] in ("", [], {}):
-                errors.append(f"{rel}: missing/empty required field '{field}'")
-        extra = set(data.keys()) - ALLOWED_FIELDS
-        if extra:
-            errors.append(
-                f"{rel}: undeclared field(s) {sorted(extra)} "
-                f"(schema has additionalProperties: false)"
-            )
-        bad_pillars = set(data.get("pillars", {}).keys()) - PILLAR_KEYS
-        if bad_pillars:
-            errors.append(f"{rel}: invalid pillar key(s): {sorted(bad_pillars)}")
 
         for e in check_word_phonology(word):
             errors.append(f"{rel}: word '{word}': {e}")
@@ -475,47 +497,6 @@ def check_lexicon(entries):
                 f"{rel}: ipa {data.get('ipa')} != canonical {want_ipa}"
             )
 
-        # pos values must come from the closed set
-        bad_pos = set(data.get("pos", [])) - POS_VALUES
-        if bad_pos:
-            errors.append(f"{rel}: invalid pos value(s): {sorted(bad_pos)}")
-
-        # slot: required for particles (0/1/2), forbidden otherwise
-        is_particle = "particle" in data.get("pos", [])
-        if is_particle and data.get("slot") not in (0, 1, 2):
-            errors.append(f"{rel}: particle must have slot 0, 1, or 2")
-        if not is_particle and "slot" in data:
-            errors.append(f"{rel}: non-particle must not have a slot field")
-
-        # tags: required for content words with canonical keys only;
-        # forbidden for function words and interjections
-        if cls == "content":
-            tags = data.get("tags")
-            if not tags:
-                errors.append(f"{rel}: content word missing tags")
-            else:
-                bad_tags = set(tags) - CANONICAL_TAGS
-                if bad_tags:
-                    errors.append(f"{rel}: non-canonical tag(s): {sorted(bad_tags)}")
-        elif "tags" in data:
-            errors.append(f"{rel}: {cls} entry must not have tags")
-
-        modules = data.get("modules")
-        if modules is not None:
-            if cls != "content":
-                errors.append(f"{rel}: {cls} entry must not have modules")
-            elif not isinstance(modules, list) or not modules:
-                errors.append(f"{rel}: modules must be a non-empty list")
-            elif any(not isinstance(module, str) for module in modules):
-                errors.append(f"{rel}: every module must be a string")
-            else:
-                duplicates = sorted({module for module in modules if modules.count(module) > 1})
-                if duplicates:
-                    errors.append(f"{rel}: duplicate module(s): {duplicates}")
-                bad_modules = set(modules) - CANONICAL_MODULES
-                if bad_modules:
-                    errors.append(f"{rel}: non-canonical module(s): {sorted(bad_modules)}")
-
         # filename must equal the lowercased gloss
         want_name = gloss_filename(data.get("gloss", "")) + ".json"
         if rel.name != want_name:
@@ -528,7 +509,7 @@ def check_lexicon(entries):
 
         by_word.setdefault(word, []).append(rel)
         gloss = data.get("gloss", "")
-        pos = ",".join(data.get("pos", []))
+        pos = data.get("pos", "")
         # exact case: function words gloss as uppercase labels (gloss-line
         # ruling), so case is the disambiguator, not an accident
         by_gloss.setdefault(gloss, []).append((word, pos, rel))
@@ -579,7 +560,7 @@ def check_lexicon(entries):
     gloss_by_word = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
     prepositions = {
         d.get("word", "") for _, d in entries
-        if "preposition" in (d.get("pos") or [])
+        if d.get("pos") == "preposition"
     }
     QUOTED = re.compile(r"(?<![A-Za-z])['`]([a-z][a-z .?!]*?)['`](?![A-Za-z])")
     CITED = re.compile(r"(?<![A-Za-z])'([a-z]{3,})' \(([^)]+)\)")
@@ -625,13 +606,15 @@ def check_lexicon(entries):
                         errors.append(
                             f"{rel}: unknown Phi word '{t}' in {field}"
                         )
-                for run in slot1_misorders(tokens):
+                for run in slot1_misorders(tokens, slot1_rank):
                     errors.append(
                         f"{rel}: Slot 1 order violation '{run}' in {field} "
                         f"(canon: Tense > Aspect > Voice > Evidentiality > "
                         f"Modality > Negation)"
                     )
-                for run in preposition_misplacements(span, prepositions):
+                for run in preposition_misplacements(
+                    span, prepositions, slot1_rank
+                ):
                     errors.append(
                         f"{rel}: postposed preposition near '{run}' in "
                         f"{field} (canon: every preposition precedes its "
@@ -729,17 +712,16 @@ def check_lexicon(entries):
 # Documentation example checks
 # ---------------------------------------------------------------------------
 
-SLOT1_RANK = {
-    "to": 1, "so": 1,                             # tense
-    "ki": 2, "si": 2, "pa": 2, "te": 2, "ro": 2,  # aspect
-    "se": 3, "ka": 3,                             # voice (canon: ka is voice)
-    "hi": 4, "ke": 4, "ti": 4, "ho": 4,           # evidentiality
-    "po": 5, "na": 5,                             # modality
-    "ma": 6,                                      # negation
-}
+def slot1_rank_map(entries):
+    """Build the Slot 1 word-order map from particle entry metadata."""
+    return {
+        data.get("word", ""): SLOT1_ORDER[data["slot1_rank"]]
+        for _rel, data in entries
+        if data.get("slot") == 1 and data.get("slot1_rank") in SLOT1_ORDER
+    }
 
 
-def slot1_misorders(tokens):
+def slot1_misorders(tokens, slot1_rank):
     """Runs of adjacent Slot 1 particles that violate the canon order
     (Tense > Aspect > Voice > Evidentiality > Modality > Negation) or the
     one-per-rank rule. The single licensed same-rank pairing is voice's
@@ -747,12 +729,12 @@ def slot1_misorders(tokens):
     bad = []
     i = 0
     while i < len(tokens):
-        if tokens[i] in SLOT1_RANK:
+        if tokens[i] in slot1_rank:
             j = i
-            while j < len(tokens) and tokens[j] in SLOT1_RANK:
+            while j < len(tokens) and tokens[j] in slot1_rank:
                 j += 1
             run = tokens[i:j]
-            ranks = [SLOT1_RANK[t] for t in run]
+            ranks = [slot1_rank[t] for t in run]
             reversed_ = any(b < a for a, b in zip(ranks, ranks[1:]))
             doubled = any(
                 a == b and (run[k], run[k + 1]) != ("se", "ka")
@@ -898,7 +880,7 @@ def check_citations():
     return errors
 
 
-def preposition_misplacements(raw_line, prepositions):
+def preposition_misplacements(raw_line, prepositions, slot1_rank):
     """The detectable half of the postposed-relator error. Canon rules
     that every preposition precedes its object and never moves, so a
     preposition followed by a Slot 1 particle, or standing last in its
@@ -926,7 +908,7 @@ def preposition_misplacements(raw_line, prepositions):
             if tok not in prepositions or rena_seen:
                 continue
             nxt = tokens[i + 1] if i + 1 < len(tokens) else None
-            if nxt is None or nxt in SLOT1_RANK:
+            if nxt is None or nxt in slot1_rank:
                 bad.append(" ".join(tokens[max(0, i - 1):i + 2]))
     return bad
 
@@ -1095,10 +1077,11 @@ def check_gloss_lines(rel, text, lexicon_words, gloss_of):
 
 
 def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
-               content_words=None):
+               content_words=None, slot1_rank=None):
     errors = []
     prepositions = prepositions or set()
     content_words = content_words or set()
+    slot1_rank = slot1_rank or {}
     roots = paths or DOC_ROOTS
     files = []
     for root in roots:
@@ -1182,9 +1165,11 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                 # Slot 1 order is canon-fixed; lines prefixed with '*' are
                 # deliberately ill-formed teaching examples and are skipped.
                 if not cand.lstrip().startswith("*"):
-                    for run in slot1_misorders(tokens):
+                    for run in slot1_misorders(tokens, slot1_rank):
                         errors.append(f"{rel}:{lineno}: Slot 1 order violation '{run}' (canon: Tense > Aspect > Voice > Evidentiality > Modality > Negation)")
-                    for run in preposition_misplacements(cand.lower(), prepositions):
+                    for run in preposition_misplacements(
+                        cand.lower(), prepositions, slot1_rank
+                    ):
                         errors.append(f"{rel}:{lineno}: postposed preposition near '{run}' (canon: every preposition precedes its object)")
             # IPA citations: a line that names a known word in backticks
             # and quotes exactly one /.../ transcription must quote that
@@ -1270,7 +1255,7 @@ def neighbors_report(entries, candidate):
     for rel, data in entries:
         w = data.get("word", "")
         if edit_distance_leq1(candidate, w):
-            hits.append((w, data.get("gloss", ""), ",".join(data.get("pos", [])), rel))
+            hits.append((w, data.get("gloss", ""), data.get("pos", ""), rel))
     if not hits:
         print(f"'{candidate}' is legal and has no edit-distance-1 neighbors. Clear to coin.")
         return 0
@@ -1399,10 +1384,12 @@ def main():
         gloss_of = {d.get("word", ""): d.get("gloss", "") for _, d in entries}
         prepositions = {
             d.get("word", "") for _, d in entries
-            if "preposition" in (d.get("pos") or [])
+            if d.get("pos") == "preposition"
         }
+        slot1_rank = slot1_rank_map(entries)
         errors.extend(check_docs(
-            lexicon_words, args.paths, gloss_of, prepositions, content_words
+            lexicon_words, args.paths, gloss_of, prepositions, content_words,
+            slot1_rank
         ))
         errors.extend(check_active_prose(args.paths))
         if not args.paths:

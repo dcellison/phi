@@ -7,9 +7,7 @@
     "re",
     "thi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Impairment / Stated Difference or Limitation in Function",
   "description": "A stated difference or limitation in bodily, sensory, or cognitive function. It may be temporary, lasting, variable, or understood differently by the person and a source framework. 'murethi' can matter to access, but it does not determine disability or diagnosis by itself.",
   "sound_symbolism": "Deep 'mu' hums behind closed lips. The stressed roll of 're' lightens the middle, and final 'thi' carries a fine dental breath into bright 'i'. From a low enclosed opening, the word turns once and rises to a thin clear edge.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A function can vary across time and conditions without becoming a fixed account of the person who experiences it.",
     "peace-linguistics-practices": "Separating impairment from disability prevents one functional description from deciding a person's identity, participation, or need for care."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a stated difference in cognitive function",
     "physical": "a stated bodily or sensory functional difference",
     "temporal": "a function that may be temporary, lasting, or variable"

@@ -7,9 +7,7 @@
     "la",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Gold / Sun Metal / Precious Yellow",
   "description": "A precious yellow metal that doesn't tarnish; the sun's metal. 'Solai' names what never fades—the eternal gleam of incorruptible beauty.",
   "sound_symbolism": "The word glows solar. 'So' shines with warm radiance, sun captured. 'La' radiates outward in rays. Then 'i' rises to precious height.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The precious within—gold as metaphor for buddha-nature, the incorruptible essence.",
     "pre-industrial-wisdom": "Gold was sun-metal—incorruptible, eternal, the standard of lasting value across cultures."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Solar beauty",
     "nature": "Precious metal"
   }

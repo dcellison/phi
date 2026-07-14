@@ -7,9 +7,7 @@
     "ro",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Chest / Thorax / Breath Chamber",
   "description": "The upper torso containing heart and lungs, bounded by ribs and centered by sternum. The chest expands with breath, resonates with voice, and shields the organs it holds. It moves with every breath and every word.",
   "sound_symbolism": "The word begins with 'pha' /ɸa/, the bilabial fricative of breath itself—air moving from the lungs outward through the space it names. The open 'a' creates the chamber's fullness. Then 'ro' rolls with breadth, the chest's span from shoulder to shoulder. Finally 'e' lifts, the chest rising with inspiration.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The chest opens in metta practice—heart space expanding to hold all beings. Breath fills this chamber as awareness expands.",
     "peace-linguistics-practices": "The chest is where voice resonates before becoming speech. Peaceful communication begins with breath filling this space, slowing and grounding expression."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Upper torso containing heart and lungs"
   }
 }

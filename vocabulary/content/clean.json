@@ -6,9 +6,7 @@
     "hi",
     "so"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Clean / Free from Dirt / Purified",
   "description": "Free from dirt, marks, or unwanted matter; having been washed or purified. 'Hiso' names the quality of cleanliness—surfaces without soil, water without pollution, states of being without contamination.",
   "sound_symbolism": "The word clears and refreshes. 'Hi' begins with open breath, air clean. Then 'so' sweeps smoothly, dirt removed.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Clean water, clean air, clean soil—the foundations of healthy ecosystems and communities.",
     "secular-buddhist-philosophy": "Clean surroundings support clean mind—environment and awareness influence each other."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Free from dirt",
     "wisdom": "Clarity of state"
   }

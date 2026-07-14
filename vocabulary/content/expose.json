@@ -7,9 +7,7 @@
     "ra",
     "wi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Expose / Come Into Relevant Contact With an Agent",
   "description": "For relevant contact with an agent to occur. Exposure is the fact of contact alone; dose, toxicity, and harm are each further facts that contact by itself does not supply.",
   "sound_symbolism": "Small 'pe' begins with a light closure of the lips. The center rolls through stressed 'ra' and crosses the distance between separate things on broad 'a'. 'Wi' rounds the lips, glides toward bright 'i', and brings the movement into a fine point of contact: approach, passage, and touch are all felt in the word.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Exposure vocabulary connects sources and pathways to affected beings while leaving amount, duration, inequality, and actual effect explicit.",
     "peace-linguistics-practices": "The term can report contact without blaming an exposed person or implying consent, weakness, or identical experience across a group."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "contact between an entity and a stated environmental agent",
     "nature": "an ecological relation among organisms, places, materials, and energy",
     "physical": "contact through a route over a duration"

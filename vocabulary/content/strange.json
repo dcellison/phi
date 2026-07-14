@@ -7,9 +7,7 @@
     "e",
     "wa"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Strange / Unfamiliar / Outside the Known",
   "description": "Strange: standing outside what is known, and known to be standing there. A sound the night has never made before, a visitor whose ways are new, a marking no one can account for. 'Kuewa' carries no verdict; the strange thing is not wrong, only unmet. In Phi the strange is first of all an invitation, the exact thing 'kuelo' (curious) exists to answer.",
   "sound_symbolism": "The word opens on the 'kue' of 'kuelo' (curious): strangeness and curiosity are two ends of one meeting. The closed 'u' is the unknown still held apart, the hiatus steps carefully across 'e', and 'wa' glides outward into an encounter rather than closing in judgment.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Beginner's mind greets the strange without flinching; a value-neutral word for the unfamiliar is that greeting built into grammar.",
     "peace-linguistics-practices": "Languages often let 'strange' slide toward 'wrong'; carving the word clean of verdict keeps the stranger safe inside it."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "The unfamiliar, named without verdict",
     "community": "The not-yet-met"
   }

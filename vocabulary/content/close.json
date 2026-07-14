@@ -6,9 +6,7 @@
     "ta",
     "pu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Close / Shut / Bring to a Sealed State",
   "description": "To close: a door against the cold, a jar for keeping, a day at its end. The opposite of 'phae' (open) — deliberately sharing not one sound with it, so the two states can never be misheard. Closing in Phi is completion and keeping, not exclusion.",
   "sound_symbolism": "The dental 't̪' makes contact, and 'pu' seals it — lips actually closing on the final syllable. The word performs its meaning at the mouth.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "A practice session, a day, a grief — each needs its conscious closing. The word honors endings as acts, not lapses.",
     "pre-industrial-wisdom": "Keeping is closing: the jar sealed for winter, the gate shut at dusk, the hive closed against rain. Preservation is a craft of good closings."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The keeper's daily verb",
     "physical": "Bringing to a shut, sealed state",
     "spatial": "The boundary completed"

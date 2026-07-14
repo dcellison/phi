@@ -7,9 +7,7 @@
     "me",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Nourish / Feed / Provide Sustenance",
   "description": "To provide what is needed for life and growth—food, care, attention, or whatever sustains. 'Lumera' names the active giving that enables flourishing, whether feeding a child, watering a plant, or supporting a friend through difficulty. It is care made tangible through provision.",
   "sound_symbolism": "The word flows like sustenance itself. 'Lu' begins with liquid life-giving, nourishment flowing outward. Then 'me' meets the recipient with nasal warmth, care offered personally. Finally 'ra' reaches into growth, the nourished one strengthened.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Nourishing communities and ecosystems sustains life across generations. What we feed grows; what we starve withers.",
     "secular-buddhist-philosophy": "Nourishing others practices generosity and loving-kindness—transforming resources into care, meeting need with response."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Providing for others' needs",
     "physical": "Sustaining life through giving"
   }

@@ -7,9 +7,7 @@
     "re",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Persuade / Move Another Toward Belief or Voluntary Action Through Communication",
   "description": "To move someone toward a belief, judgment, or voluntary action through reasons or another communicative appeal. The word describes influence rather than truth: a person can be persuaded by an honest explanation or a deceptive promise. 'Kawhera' (coerce) narrows practical choice through power or threat; 'sharemi' addresses the listener as someone who may still refuse.",
   "sound_symbolism": "Unvoiced 'sh' begins as breath spread along the tongue, gentle enough to approach without striking. Open 'a' gives the first syllable room; stressed 're' sets the tongue briefly in motion and lets the middle ring forward. The lips close on 'm' only near the end, then open to bright 'i'. The word moves from open breath through a liquid turn to a soft human closure, a voice trying to reach another without taking hold of them.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Persuasion leaves its intention and effect open to examination, along with the conditions around them. Gentle delivery does not make a claim true, and conviction still arises from causes a listener may need time to notice.",
     "peace-linguistics-practices": "The contrast with 'kawhera' (coerce) separates communicative influence from power that closes practical alternatives. Refusal is still part of the listener's answer."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "movement toward a belief or judgment through communication",
     "dialogue": "influence through reasons or communicative appeal"
   }

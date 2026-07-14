@@ -7,9 +7,7 @@
     "pa",
     "nu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Redundant / Having Independent Alternative Means for a Function",
   "description": "Having independent alternative means for a function, built so one failure does not by itself end the function. A shared cause, a fire under both wires, a flood over both roads, can still take every alternative down together, which is why redundancy alone never guarantees reliability.",
   "sound_symbolism": "The glide of 'we' rounds into open 'e' and leaves more than one direction available. Stressed 'pa' makes a firm lip contact in the middle. Dental nasal 'nu' supplies a second kind of closure at the end, deeper and farther forward. The two supports answer the same opening from separate places in the mouth.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Independent alternatives can preserve essential shared functions through repair, scarcity, and changing conditions without promising invulnerability.",
     "pre-industrial-wisdom": "Communities often maintain several routes, tools, stores, or skills so one loss does not erase a necessary practice."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "continued function through an alternate component, path, or method",
     "community": "a resilience practice for shared infrastructure and services",
     "creation": "a design quality based on independent alternative means"

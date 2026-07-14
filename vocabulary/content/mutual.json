@@ -7,9 +7,7 @@
     "so",
     "ma"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Mutual / Shared Between",
   "description": "The state of deep interdependence where each supports and is supported by the other. It is the recognition that individual and collective wellbeing are inseparably linked.",
   "sound_symbolism": "The communal 'we' establishes the foundation of togetherness. The sustained 'so' holds that togetherness steady—the soft fricative like breath shared between beings, belonging to neither alone. The grounding 'ma' anchors this connection in stable truth. This progression from togetherness through sustained holding to grounded reality captures mutuality—not just being together, but being interwoven in ways that support and strengthen all. Its audible kinship with 'wiso' (each other) and 'wisola' (exchange) places it in the small family of sounds where Phi keeps reciprocity.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Mutuality embodies the fundamental teaching of interdependence - that nothing exists in isolation but only through reciprocal relationships. This understanding sees individual wellbeing as inseparable from collective thriving, recognizing that what harms one ultimately harms all, and what heals one contributes to universal healing.",
     "peace-linguistics-practices": "Mutual relationships create conditions for peace by establishing equality and shared investment in outcomes. When relationships are truly mutual rather than hierarchical, domination becomes impossible and cooperation becomes natural. This practice transforms power dynamics from 'over' to 'with', creating sustainable foundations for peaceful coexistence."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamental to social bonds and reciprocal relationships",
     "wisdom": "understanding interdependence requires deep insight"
   }

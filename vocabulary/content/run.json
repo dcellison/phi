@@ -7,9 +7,7 @@
     "she",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Run / Swift Movement on Foot",
   "description": "Swift movement on foot: rhythmic strides with a moment of suspension between footfalls. In Phi the word covers joyful exertion and helpful haste, rushing to help someone, racing with children, quickening the pace because the situation asks for it. It is not framed as flight from danger or pursuit in anger; the speed answers a real need, not a manufactured urgency.",
   "sound_symbolism": "The word begins with 'ra', the liquid 'r' rolling forward like the first spring of acceleration, the open 'a' drawing the needed breath. At its center is 'she', where the fricative 'sh' rushes—wind through grass, quick breathing, fabric swishing with speed—carried on the bright forward 'e'. The word lands on 'lo', the liquid stride rolling through, the round 'o' completing each footfall. Momentum, rush, stride: the three syllables are the three phases of a runner's gait. And because Phi is always spoken unhurried, even the word for running becomes a small practice in mindful speed—the swiftness held inside a slow and even breath.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Running in Phi emphasizes helpful urgency and joyful movement rather than aggression or fear. The word reframes swift movement as rushing to assist, playing together through racing, or expressing bodily vitality - never as pursuit in anger or flight from danger. This linguistic choice shapes how speakers conceptualize urgency itself, promoting responsiveness over reactiveness.",
     "pre-industrial-wisdom": "Running represents humanity's original swift locomotion, requiring nothing but the body's own capacity. Before mechanized transport, running served as the primary means of urgent communication across distances, with message runners connecting communities. Traditional cultures celebrate running through ceremonial races and games that build community bonds rather than individual dominance."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental human activity of running",
     "community": "rushing to help, playing together through racing",
     "physical": "intense bodily exertion and cardiovascular activity",

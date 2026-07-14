@@ -7,9 +7,7 @@
     "tha",
     "re"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Premise / Starting Claim in Reasoning",
   "description": "A claim taken as a starting point within an argument, so that another claim can be drawn from it. The word names a role, not a truth: a premise can be true, false, or merely hypothetical, and the same proposition can be a premise in one argument and the conclusion of another.",
   "sound_symbolism": "'Mo' begins behind closed lips and opens into a rounded chamber that gives the word a quiet starting place. 'Tha' receives the stress in a stream of dental breath and broad 'a'. 'Re' sets the tongue rolling toward what follows. A premise sounds gathered at first, opened for inspection, then sent onward along a line of thought.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Naming a premise encourages attention to what has been provisionally taken up rather than treating the whole argument as an indivisible certainty.",
     "peace-linguistics-practices": "Speakers can challenge a starting claim while preserving the rest of an exchange and without implying hostility toward its author."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a proposition serving as a starting point in inference",
     "dialogue": "a claim participants can grant, question, or revise explicitly"
   },

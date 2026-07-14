@@ -6,9 +6,7 @@
     "hi",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Intuit / Know Directly / Perceive Without Reasoning",
   "description": "To know or understand without conscious reasoning; direct perception of truth. 'Hiru' names knowing that arrives whole—not built from pieces but received complete.",
   "sound_symbolism": "The word knows directly. 'Hi' breathes with inner perception, knowing arising. 'Ru' runs with immediate flow, understanding arriving without steps.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Direct knowing—prajna that arises from practice, not intellectual analysis.",
     "pre-industrial-wisdom": "Intuitive knowing—the wisdom that comes from deep experience, beyond words."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Direct perception",
     "wisdom": "Immediate knowing"
   }

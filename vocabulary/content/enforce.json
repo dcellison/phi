@@ -7,9 +7,7 @@
     "sha",
     "ku"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Enforce / Apply Authority to Produce or Respond to Compliance",
   "description": "To act on compliance with a rule or decision. Enforcement acts on the rule; it proves neither that the rule itself is just nor that a violation actually occurred, and both stay open questions worth their own evidence.",
   "sound_symbolism": "Dental 'na' begins with a settled nasal contact. Stressed 'sha' changes that inward resonance into a broad hush moving through shared air. 'Ku' ends with a firm velar closure and deep release. A rule travels from held form into public action and finally meets the world at a hard point.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared commitments may need implementation and response mechanisms, but their ecological cost, unequal burden, effectiveness, and authority remain accountable choices.",
     "peace-linguistics-practices": "A neutral enforcement word exposes the actor and method instead of letting passive language make coercion, exclusion, or punishment appear automatic."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "applying authority or procedure in relation to compliance",
     "community": "institutional enforcement with stated methods and review"
   },

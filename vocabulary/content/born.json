@@ -7,9 +7,7 @@
     "wi",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Born / Birth / One Becomes Two",
   "description": "To be born. The first threshold of the life-arc, partnered with 'lumeo' (die) at the other end. The word carries its own teaching: its heart is the syllable 'wi' (two); birth is the moment one life becomes two, the mother and the child, the world and its newest member.",
   "sound_symbolism": "The wisdom-breath 'tho' opens the passage, the pair-syllable 'wi' holds the moment of becoming-two, and the fully open 'a' is arrival itself — the first cry, the open air. The vowels travel from the rounded interior 'o' through the focused 'i' to the widest openness: the whole journey of being born, sounded. Shares almost nothing with 'lumeo' (die), so the two great thresholds can never be mistaken for each other.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Impermanence begins here: everything that arises, arises. Naming birth plainly honors the first noble fact of any life — that it started, and so will end. The word stands with 'lumeo' as the two thresholds mindfulness must be able to speak.",
     "pre-industrial-wisdom": "Birth was the village's central event — attended, sung, counted by seasons. A language of embodied life names its beginning without euphemism."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The arrival of a new member",
     "nature": "The universal beginning of living things",
     "temporal": "The first threshold of a life"

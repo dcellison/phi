@@ -7,9 +7,7 @@
     "ni",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Journey / Travel / Make a Trip",
   "description": "To travel from one place to another, especially over significant distance or time. 'Laniru' implies purpose and duration—not a quick errand but a passage that takes time, crosses boundaries, and transforms the traveler. Every journey leaves home and seeks arrival.",
   "sound_symbolism": "The word stretches like a long road. 'La' flows outward, departure beginning. Then 'ni' continues with nasal persistence, the middle miles. Finally 'ru' rolls toward destination, arrival approaching but not yet reached.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Life itself is journey—the path from birth toward death, from confusion toward clarity. Every journey teaches impermanence.",
     "pre-industrial-wisdom": "Traditional cultures marked journeys as transformative passages—pilgrimage, walkabout, the hero's journey. Travel changes the traveler."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Purposeful travel over distance",
     "temporal": "Extended movement through time"
   }

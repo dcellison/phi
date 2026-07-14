@@ -7,9 +7,7 @@
     "me",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Nestle / Snuggle / Settling Close and Soft",
   "description": "To nestle: to settle the body close against warmth and stay there. The child against the shoulder, the cat into the blanket's fold, the toy tucked under a sleeping chin. 'Numea' is the body's way of saying it is home: small adjustments toward closeness until nothing more adjusts, trust performed in the muscles.",
   "sound_symbolism": "'Nu' is the night-soft opening of 'nulae' (sleep) and 'nuwera' (bed), the household's darkest, warmest sounds. 'Me' makes the small settling adjustment, and final 'a' opens into rest. The first two syllables remain shared with 'numelo' (nurture) on purpose: nestling is nurture answered from inside the arms.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Safety has a posture, and this is its verb: closeness sought and granted without a word exchanged.",
     "pre-industrial-wisdom": "One hearth, shared warmth, bodies arranged around it on a winter night: the oldest architecture of comfort."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Trust performed in the muscles",
     "physical": "The settling into warmth"
   }

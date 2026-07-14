@@ -7,9 +7,7 @@
     "mo",
     "le"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Concept / Organized Idea",
   "description": "An organized idea through which someone groups or relates experiences and possibilities. A concept stands apart from the word that names it, the symbol that points to it, and any single example used to illustrate it, and its boundaries can shift with use.",
   "sound_symbolism": "A light roll begins 're' and sets the word in motion. Closed lips and round 'o' make the stressed 'mo' a small resonant chamber. 'Le' lets the tongue release along the palate, so the word leaves its gathered middle and extends a line toward whatever may belong with it.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Separating concepts from their labels helps participants discover genuine agreement beneath different words and genuine difference beneath apparent translation.",
     "pre-industrial-wisdom": "Communities may organize experience through concepts grown from local practice, landscape, craft, and memory rather than through one universal taxonomy."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an organized idea used to relate or classify experience",
     "wisdom": "a revisable mental pattern whose boundaries can be examined"
   },

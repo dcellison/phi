@@ -7,9 +7,7 @@
     "o",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Attend / Pay Attention / Direct Focus",
   "description": "To direct one's awareness toward something; to give focused presence. 'Theonu' names what attention does—the active turning of mind toward object.",
   "sound_symbolism": "The word focuses gently. 'The' breathes with thoughtful opening, attention beginning. 'O' opens with receptive space, making room. Then 'nu' settles with grounded presence, attention landing.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Right attention—the skillful directing of awareness that is foundation of practice.",
     "peace-linguistics-practices": "Attending to others—the respect shown through genuine attention in communication."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Directed focus",
     "dialogue": "Attentive presence"
   }

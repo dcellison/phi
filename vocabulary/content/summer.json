@@ -7,9 +7,7 @@
     "lo",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Summer / Season of Abundance / Time of Fullness",
   "description": "The warmest season of the year; time of growth and abundance. 'Keloi' names the full season—long days, warm nights, life at its peak.",
   "sound_symbolism": "The word expands in warmth. 'Ke' begins with clear energy, vitality present. 'Lo' flows with ease, abundance spreading. Finally 'i' rises to the peak, summer arrived.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Summer offers maximum solar energy—the season when sun-based systems can generate surplus.",
     "pre-industrial-wisdom": "Summer was work season—long days for tending crops, building, traveling while conditions allowed."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Peak growth",
     "temporal": "Abundance season"
   }

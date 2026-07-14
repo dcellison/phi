@@ -7,9 +7,7 @@
     "e",
     "li"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Like / Prefer-Toward / The Gentle Choosing",
   "description": "The verb naming the experience of preference, the inclination toward something that pleases or suits. In Phi, liking is understood as gentle affinity rather than possessive desire—a recognition that something resonates with one's nature. This word sits between mere tolerance and consuming passion, naming the comfortable warmth of appreciation.",
   "sound_symbolism": "The word opens with 'ka', where the velar stop makes gentle contact—the moment of recognition, the touch of preference. This opens through 'e', clarifying the quality of liking, before flowing into 'li', where the liquid 'l' connects self to liked object with warmth while 'i' brightens with pleasure. The arc traces liking's nature: recognition, clarity, warm connection.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The cultivation of taste, the development of aesthetic preference, begins with liking. 'Kaeli' honors the gentle 'yes' of attraction.",
     "peace-linguistics-practices": "Liking without needing teaches non-attachment. 'Kaeli' names appreciation that doesn't demand possession."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the mental state of favorable regard",
     "emotion": "the feeling of preference and affinity"
   }

@@ -6,9 +6,8 @@
     "po"
   ],
   "slot": 1,
-  "pos": [
-    "particle"
-  ],
+  "slot1_rank": "modality",
+  "pos": "particle",
   "concept": "Can / May / Possibility",
   "description": "A modal particle marking an action as possible rather than certain—ability, permission, or potential, with context deciding which. It covers the ground between the impossible and the necessary.",
   "sound_symbolism": "The particle begins with 'p', the softest plosive that opens gently—lips parting to release possibility rather than forcing certainty. This opening meets 'o', the round vowel of spaciousness and wholeness. Together, 'po' sounds like potential itself: the gentle 'p' suggests emergence without insistence while the open 'o' creates room for various outcomes. The sound's softness reflects possibility's nature—present but not pressing, available but not demanding.",

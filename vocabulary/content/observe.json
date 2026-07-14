@@ -7,9 +7,7 @@
     "me",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Observe / To See with Mindful Presence",
   "description": "The act of watching something carefully and with attention, noticing details and patterns without judgment. It is a mindful seeing that leads to insight.",
   "sound_symbolism": "The clear 'so' brings the light of awareness to what is being observed. The personal 'me' acknowledges that observation is never purely objective but involves the observer's presence. The flowing 'la' allows perception to move naturally, following what emerges rather than forcing interpretation. This creates a word that embodies contemplative observation - clear, present, and flowing with what is.",
@@ -17,7 +15,7 @@
   "pillars": {
     "secular-buddhist-philosophy": "Observation as mindfulness practice means seeing clearly without the distortion of judgment or expectation. This witnessing awareness notices what arises - thoughts, sensations, phenomena - without grasping or rejecting. Through patient observation, we discover the patterns of change and interconnection that underlie all experience."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "involves mental processing and focused awareness",
     "wisdom": "leads to insight through mindful seeing"
   }

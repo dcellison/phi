@@ -7,9 +7,7 @@
     "we",
     "so"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ecological Community / Co-Occurring Populations in Relation",
   "description": "Co-occurring populations considered in relation to each other. An ecological community holds predation and disease as readily as mutual support, and plenty of its organisms never directly meet; it is a different thing from 'sila', the human community.",
   "sound_symbolism": "Liquid 'li' begins lightly and bright. The stress glides through 'we', rounds at the lips, and opens into balanced 'e'. Hissing 'so' supplies another voice and settles it into round 'o'; liquid, glide, and hiss share one contour while each keeps its own place.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "The word makes multispecies consequences available to community decisions without assuming that ecological relations are peaceful or self-balancing.",
     "art-nouveau-aesthetics": "Different living forms are understood through their patterned coexistence, while aesthetic interweaving remains distinct from ecological function."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "several living populations considered together in ecological relation",
     "spatial": "co-occurrence within a selected place or distributed area"
   },

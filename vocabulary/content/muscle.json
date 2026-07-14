@@ -7,9 +7,7 @@
     "ro",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Muscle / Flesh-fiber / Movement Tissue",
   "description": "The fibrous tissue that contracts to create movement, the body's engines of action. Muscles translate intention into motion—thought becoming gesture, will becoming work. They grow with use, atrophy with neglect, and hold patterns of both tension and skill in their fibers.",
   "sound_symbolism": "The word works like muscle itself. 'Ku' begins with velar solidity, the dense fiber of tissue ready to act. 'Roi' rolls with powerful motion, contraction and release. The whole word feels taut and capable, built for effort.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Body scanning meditation discovers muscles holding unconscious tension. Awareness brings release; muscles teach what the mind forgets to notice.",
     "pre-industrial-wisdom": "Muscles carry skill memory—the potter's hands know clay, the archer's arms know the bow. Traditional craft lives in trained muscle, passed through apprenticeship."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Movement tissue creating action"
   }
 }

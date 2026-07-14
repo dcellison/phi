@@ -7,9 +7,7 @@
     "mo",
     "li"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Harmonize / Bring Into Accord / Create Unity from Difference",
   "description": "To bring different elements into pleasing accord, creating coherence without erasing distinction. 'Shemoli' names the art of making differences work together—voices blending in song, perspectives joining in understanding, communities finding shared rhythm while honoring individual notes.",
   "sound_symbolism": "The word blends like harmonies joining. 'She' /ʃe/ begins with hushing gentleness, differences quieting to hear each other. Then 'mo' holds with nasal depth, voices meeting in shared space. Finally 'li' lifts with liquid brightness, harmony achieved.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Harmony in nature shows how diverse elements create beauty together—the forest's many species in ecological concert.",
     "peace-linguistics-practices": "Harmonizing perspectives in dialogue means finding where different views can coexist and complement rather than conflict."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Creating pleasing unity from diversity",
     "community": "Bringing differences into accord"
   }

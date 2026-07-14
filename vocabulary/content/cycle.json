@@ -6,9 +6,7 @@
     "nu",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Cycle / Recurring Pattern / Endless Return",
   "description": "A series of events that are regularly repeated in the same order. 'Nuri' names the great returns—the patterns that circle back, seasons and moons and generations, endings that become beginnings.",
   "sound_symbolism": "The word turns and returns. 'Nu' begins with grounded nasal, the starting point. Then 'ri' rolls back around, returning to begin again.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Cycles (samsara) are central to Buddhist teaching—the wheel of becoming that turns until wisdom breaks the pattern.",
     "pre-industrial-wisdom": "Traditional life was structured by cycles—lunar, seasonal, generational. Understanding cycles meant understanding time itself."
   },
-  "tags": {
+  "semantic_domains": {
     "temporal": "Recurring pattern",
     "wisdom": "Understanding of return"
   }

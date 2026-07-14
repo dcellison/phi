@@ -6,9 +6,7 @@
     "ke",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Rejoice / Feel Great Joy / Exult",
   "description": "To feel and express great happiness, to experience joy so full it must be expressed. 'Kela' names the inner surge of gladness—the heart lifting, spirits soaring, gratitude overflowing into expression. It is joy that cannot stay contained.",
   "sound_symbolism": "The word bursts with joy. 'Ke' begins with velar brightness, joy springing forth. Then 'la' flows with liquid release, gladness overflowing, expression inevitable.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Mudita—sympathetic joy—rejoices in others' happiness. 'Kela' supports this practice of finding joy in joy wherever it appears.",
     "peace-linguistics-practices": "Expressing joy openly invites others into gladness. Rejoicing together multiplies happiness."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Expressing joy to others",
     "emotion": "Experiencing deep gladness"
   }

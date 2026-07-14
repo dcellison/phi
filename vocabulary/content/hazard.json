@@ -7,9 +7,7 @@
     "ma",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Hazard / Potential Source or Condition of Harm",
   "description": "A potential source or condition of harm, apart from how likely it is to cause that harm or how severe the result might be. Naming a hazard is the first step of a risk assessment, not the whole of one.",
   "sound_symbolism": "Soft 'pe' begins with a small lip closure and balanced 'e', quiet enough to be noticed before alarm. Stressed 'ma' closes more fully, opens wide, and gives the center physical weight. 'Ru' rolls that weight forward into deep 'u', a path the mouth can feel approaching before harm arrives.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Hazard language supports prevention and transparent design while keeping exposure, unequal vulnerability, and proposed protections visible.",
     "peace-linguistics-practices": "Naming a potential source of harm does not automatically blame a person or authorize coercive action."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a potential-harm classification kept distinct from likelihood and outcome",
     "community": "a condition whose exposure and consequences may be shared or unequal",
     "physical": "a material, energy source, condition, or process capable of harm"

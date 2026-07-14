@@ -7,9 +7,7 @@
     "le",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Star / Distant Sun / Night-Sky Light",
   "description": "A luminous celestial body, especially one seen as a point of light after dark. In Phi, 'silero' covers the class that includes 'sileta' (sun), while ordinary use often turns toward the distant lights used for navigation, seasonal reckoning, and stories.",
   "sound_symbolism": "In 'si', the tongue narrows the airstream to a thin sibilance before high 'i' lifts it. At stressed 'le', the tongue releases laterally into the same opening heard in 'sileta' (sun), so the two words part only at their endings. The ending 'ro' taps or rolls and settles into round 'o', a small light held in the turning dark.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A star seen tonight may have sent that light years ago. The gap between origin and arrival makes the present sky an encounter with the past.",
     "pre-industrial-wisdom": "Stars marked routes and seasons before instruments made either abstract. Their patterns also held stories that could travel with the people who knew them."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "luminous celestial body",
     "wisdom": "guide for routes and seasons"
   }

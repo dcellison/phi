@@ -6,9 +6,7 @@
     "to",
     "ka"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Hammer / Striking Tool / To Strike for Shaping",
   "description": "A tool with a heavy head for striking; to strike with force for shaping. 'Toka' names what shapes through impact—controlled force building and forming.",
   "sound_symbolism": "The word strikes defined. 'To' lands with clear impact, hammer falling. Then 'ka' marks the result, shape emerging from strike.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Building community—hammer as tool of construction, creating shelter and infrastructure.",
     "pre-industrial-wisdom": "The hammer builds—from blacksmith to carpenter, shaping material through patient striking."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Striking tool",
     "physical": "Shaping force"
   }

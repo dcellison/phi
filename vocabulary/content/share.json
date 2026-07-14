@@ -6,9 +6,7 @@
     "pho",
     "we"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Sharing / A Generative Offering to the Collective",
   "description": "The act of making what is one's own available for the use and benefit of others. It is a foundational act of community building, based on abundance rather than scarcity.",
   "sound_symbolism": "The breath of 'pho' releases rather than holds - that generous exhalation when hands open to give. This offering flows directly into 'we', acknowledging that sharing creates community, transforms 'mine' into 'ours'. The word teaches its own lesson: sharing happens when breath meets collective.",
@@ -16,7 +14,7 @@
   "pillars": {
     "solarpunk-values": "Sharing forms the economic foundation of solarpunk futures - from open-source designs to community land trusts to gift economies. This practice proves that abundance emerges not through hoarding but through circulation, that wealth shared multiplies rather than diminishes. Sharing transforms scarcity mindset into recognition of collective plenty."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "foundational act of community building",
     "creation": "creates abundance through circulation",
     "dialogue": "sharing is exchange and reciprocity"

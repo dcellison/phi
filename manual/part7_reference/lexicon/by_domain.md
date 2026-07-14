@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — By Semantic Domain
 
-*Content words grouped by domain tag. Words with several tags appear in each of their domains.*
+*Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
 ## activity (166)

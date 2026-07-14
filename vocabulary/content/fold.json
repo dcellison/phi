@@ -7,9 +7,7 @@
     "pa",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Fold / Lay One Part Over Another",
   "description": "To bend flexible material so one part lies over another, usually along a deliberate line. Cloth, paper, and soft coverings fold for keeping or use; 'lupaki' describes the placement of the layers rather than damage to the material.",
   "sound_symbolism": "Deep 'lu' begins with a liquid release of the tongue. Stressed 'pa' closes the lips and opens the center through broad 'a'. Final 'ki' moves the closure to the velum and lifts into bright 'i'. Low and flowing at first, the word opens once and ends on a crisp edge.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "A fold changes how a flat material catches light and shadow without cutting away any part of it.",
     "pre-industrial-wisdom": "Folded cloth fit a chest, protected a finished edge, and made the next morning's work easier to begin."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "laying one part of flexible material over another",
     "creation": "forming layers and a deliberate crease",
     "physical": "repositioning material without separating it"

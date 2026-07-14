@@ -7,9 +7,7 @@
     "lu",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Neck / Throat / Connecting Passage",
   "description": "The narrow passage connecting head and body, carrying breath, voice, and blood between them. The neck is the body's isthmus: exposed and easy to harm, yet everything the head needs passes through it. It turns the head to see, bows in humility, and stretches toward what calls us.",
   "sound_symbolism": "The word begins with 'n', the nasal that travels through the passage it names—sound resonating through the throat. The round 'o' suggests the column's circumference. Then 'lu' flows with liquid ease, breath and blood moving through. Finally 'e' lifts upward toward the head this passage serves.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The neck carries the voice of right speech, the breath of mindfulness. Its vulnerability teaches care—we protect what is precious and exposed.",
     "pre-industrial-wisdom": "The neck holds the head that holds knowledge, connecting embodied wisdom below to conscious thought above. Traditional healers attend to the neck as conduit."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Connecting passage between head and body"
   }
 }

@@ -7,9 +7,7 @@
     "e",
     "tha"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Essential / Fundamental / Core Quality",
   "description": "The quality of being absolutely necessary or constituting the core nature of something. 'Noetha' names what cannot be removed without losing identity—the irreducible heart.",
   "sound_symbolism": "The word centers on core. 'No' settles with grounding presence, foundation found. 'E' opens to essence revealed. Then 'tha' breathes with philosophical depth, the soft dental fricative naming the abstract with gentle precision.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Essence seeking—the practice of discerning what truly matters from what is decoration.",
     "pre-industrial-wisdom": "Essential tools—traditional knowledge of what is truly needed versus what clutters."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Core recognition",
     "wisdom": "Fundamental understanding"
   }

@@ -7,9 +7,7 @@
     "re",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Snow / Frozen Precipitation / Winter's Blanket",
   "description": "Atmospheric water vapor frozen into ice crystals that fall as soft white flakes. 'Phirenu' names the quiet transformation of rain into white silence—the blanket that covers and protects, the season's rest made visible.",
   "sound_symbolism": "The word falls softly. 'Phi' /ɸi/ begins with soft breath, crystals forming. Then 're' descends gently, the quiet falling. Finally 'nu' settles and stays, the ground covered in nasal stillness.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Snow teaches equanimity—it covers all equally, high and low, beautiful and plain, without discrimination.",
     "art-nouveau-aesthetics": "Snow creates crystalline beauty in endless unique patterns—each flake a masterwork of natural geometry."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Frozen precipitation",
     "temporal": "Winter's presence"
   }

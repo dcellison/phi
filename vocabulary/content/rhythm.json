@@ -7,9 +7,7 @@
     "lu",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Rhythm / Regular Pattern / Recurring Beat",
   "description": "A strong, regular, repeated pattern of movement or sound. 'Telui' names the pulse beneath—the beat that structures time, the pattern that repeats and carries.",
   "sound_symbolism": "The word pulses steadily. 'Te' marks the beat, rhythm starting. 'Lu' flows to the next pulse. Finally 'i' rises to repeat, the pattern continuing.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Rhythm structured ornament—repeating motifs that carried the eye through designs in regular flow.",
     "pre-industrial-wisdom": "Life followed rhythms—seasonal, lunar, daily patterns that structured activity and expectation."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Regular beat",
     "temporal": "Recurring pattern"
   }

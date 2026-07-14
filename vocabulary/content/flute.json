@@ -6,9 +6,7 @@
     "phu",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Flute / Wind Instrument / Breath Music",
   "description": "A wind instrument producing sound from air blown across an opening; music made from breath. 'Phui' names what sings breath—air becoming melody.",
   "sound_symbolism": "The word breathes high. 'Phu' /ɸu/ blows with gentle breath, air moving. Then 'i' rises clear and high, note ascending.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Breath as art—the flute transforms exhale into beauty, body becoming instrument.",
     "pre-industrial-wisdom": "Flutes were first music—bone, reed, bamboo, the oldest instruments found in human sites."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Breath music",
     "creation": "Wind instrument"
   }

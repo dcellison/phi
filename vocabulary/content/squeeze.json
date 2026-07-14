@@ -6,9 +6,7 @@
     "pe",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Squeeze / Press Together / Compress in the Hand",
   "description": "To squeeze: the fruit for its juice, the sponge dry, a hand in reassurance. Pressure brought inward from both sides. With 'pesa' (push) and 'natu' (pull) it completes the hand's basic mechanics.",
   "sound_symbolism": "'pe' presses, 'ki' is the tight point the pressing reaches — compression down to its focus.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "The squeezed hand says what words sometimes cannot — pressure as tenderness, the gentlest use of force the body knows.",
     "pre-industrial-wisdom": "Juice, oil, whey, dye: the press was the quiet engine of the pantry, and the hand was the first press."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Compression in the hand",
     "physical": "Pressure brought inward"
   }

@@ -7,9 +7,7 @@
     "lo",
     "mi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Lake / Still Waters / Contained Depths",
   "description": "A large body of freshwater surrounded by land, often fed by rivers or springs. 'Thelomi' names the still waters held within the land—mirrors of sky, homes to fish and birds, places where water rests before continuing its journey.",
   "sound_symbolism": "The word settles into stillness. 'The' /θe/ begins with soft breath, the gentle surface. Then 'lo' holds liquid rest, water contained. Finally 'mi' closes with nasal intimacy, the lake's quiet depths.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Lakes teach stillness and reflection—when the mind settles like lake water, truth becomes visible like the bottom seen through clear depths.",
     "pre-industrial-wisdom": "Lakes were sacred gathering places, sources of fish and water, mirrors where sky met earth in communities' daily life."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Freshwater body",
     "wisdom": "Symbol of reflective stillness"
   }

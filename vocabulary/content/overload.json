@@ -7,9 +7,7 @@
     "sha",
     "li"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Overload / Exceed Current Capacity With Input or Demand",
   "description": "To exceed a person's or system's current capacity with sensory input, information, tasks, or demand so that receiving, processing, or acting becomes materially harder. Capacity may change with context, time, support, and the kind of input. 'ritako' (workload) counts expected work over an interval; 'pushali' names the point where what arrives becomes too much to carry through.",
   "sound_symbolism": "'Pu' starts with a complete lip closure and releases into deep 'u'. Stressed 'sha' spreads a full hush through broad 'a'. Final 'li' lifts the tongue into a light liquid and bright 'i'. Depth pushes into a breath-filled center, then narrows abruptly.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Attention changes with pain, fatigue, fear, noise, and practice; overload names a condition of the moment rather than a failed character.",
     "peace-linguistics-practices": "A speaker can ask for less input or another pace before inability is mistaken for refusal, indifference, or lack of thought."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "demand exceeding the capacity needed to continue an action",
     "cognition": "information or sensory input exceeding current processing capacity",
     "physical": "bodily burden produced by excessive input or demand"

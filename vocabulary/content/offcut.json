@@ -7,9 +7,7 @@
     "te",
     "mu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Offcut / Material Separated Outside the Intended Main Form",
   "description": "A piece the cut set aside: material separated from the intended main form during cutting, trimming, or shaping. An offcut's afterlife is an open question the noun refuses to answer for it; it may become stock for a smaller task, feed another process, or end as waste, and its handling can matter when the material is hazardous.",
   "sound_symbolism": "'Ka' closes firmly at the velum and releases into broad 'a'; stressed 'te' answers at the teeth with a smaller, brighter contact. The lips take over in final 'mu', where a low nasal hum settles into deep 'u'. Three distinct mouth positions give the word its stepped contour before it comes to rest.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Naming offcuts before classifying them as waste supports reuse, material accounting, and design choices that reduce avoidable loss.",
     "pre-industrial-wisdom": "Craft practice often treats separated pieces as usable material whose grain, size, and condition remain worth knowing."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a remainder produced during cutting or shaping",
     "creation": "material available for possible reuse in another making process",
     "physical": "a separated piece with its own dimensions and condition"

@@ -7,9 +7,7 @@
     "ra",
     "mi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Authority / Claimed or Recognized Power to Decide or Act",
   "description": "A power to decide or act that is claimed or recognized within a group. Authority can exist without deserving to: without legitimacy, without real control over the outcome, without the consent of the people it touches.",
   "sound_symbolism": "Firm 'ka' begins with a velar closure and releases into the broadest vowel. The stressed roll of 'ra' sends that force outward across another open 'a'. Final 'mi' gathers the reach behind closed lips and narrows it to bright 'i'. The contour starts with force, travels on the tongue, and returns to a fine center.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Communities need language for distributed and revisable authority if commons are to be governed without hiding power behind stewardship or technical necessity.",
     "peace-linguistics-practices": "Separating authority from legitimacy, consent, expertise, and force makes commands and institutional claims discussable without accepting their premises."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "claimed or recognized decision power within a stated scope"
   },
   "modules": [

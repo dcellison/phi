@@ -6,9 +6,7 @@
     "pi",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Take / Receive / Accept",
   "description": "The verb of receiving and accepting—bringing something to oneself through conscious reception. Where 'loa' (give) flows outward, 'pilu' draws inward: not seizure or grasping but mindful acceptance, receiving what is offered and taking only what is needed. It covers physical reception, emotional acceptance, and the taking on of responsibilities, completing the circle that giving begins.",
   "sound_symbolism": "The word begins with 'pi', where the soft plosive 'p' releases like hands opening to receive, followed by the high, bright 'i' that lifts in anticipation. The transition to 'lu' brings the movement inward—the liquid 'l' flows like something drawn close, while 'u' rounds and contains, a vessel for what is received.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Taking embodies Right Livelihood and mindful consumption - taking only what is needed, receiving with gratitude rather than greed. The act of receiving requires presence and awareness of the gift being offered. 'Pilu' grammaticalizes the understanding that mindful reception honors both giver and receiver, that taking can be an act of compassion when it allows another to experience the joy of giving.",
     "pre-industrial-wisdom": "Traditional cultures understand that receiving creates bonds of reciprocity and relationship. The act of taking establishes social debts and connections that weave communities together. Many indigenous practices involve formal protocols of receiving that honor the giver and the gift. 'Pilu' preserves this understanding that taking is a social act that creates ongoing relationships."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "creating bonds through reciprocity",
     "physical": "taking objects with one's hands"
   }

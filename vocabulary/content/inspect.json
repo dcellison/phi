@@ -7,9 +7,7 @@
     "la",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Inspect / Systematically Examine Condition Against Criteria",
   "description": "To systematically examine a condition against stated criteria. Inspecting is looking and comparing; it repairs nothing, certifies nothing, and guarantees no safety on its own.",
   "sound_symbolism": "'Ni.la' preserves the complete sound of 'nila' (see), from a close dental nasal into the broad stressed release of 'la'. The gaze seems to travel with that liquid middle. A brief velar contact and focused 'i' finish 'ki', like the eye stopping on one detail after a slow sweep.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Inspection practices deliberate attention while keeping observation separate from certainty, judgment, and permission.",
     "pre-industrial-wisdom": "Careful examination before and after work joins embodied observation to explicit standards of craft and upkeep."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "systematic examination of condition against criteria",
     "cognition": "a structured relation among observations, scope, and assessment",
     "creation": "a practice supporting maintenance, repair, and checked workmanship"

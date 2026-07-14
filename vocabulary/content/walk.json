@@ -6,9 +6,7 @@
     "tha",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Walk / Mindful Journey on Foot",
   "description": "The human act of moving on foot, alternating steps carrying the body forward. Walking is the oldest form of human travel, needing nothing but the body, and it goes at a pace the walker chooses—slow enough to notice the ground and the way.",
   "sound_symbolism": "The word begins with 'tha', where the dental fricative 'th' creates a soft, continuous flow like feet brushing against earth—neither harsh impact nor complete separation, but the gentle friction of movement. This whispered beginning meets 'a', open and grounded like the stable stance between steps. The second syllable 'lo' flows liquid and continuous, the 'l' rolling forward like the perpetual motion of walking, while 'o' rounds out each step's completion. Together, 'thalo' creates a two-beat rhythm that mirrors the alternating footfalls of walking itself—soft contact, flowing continuation, the endless rhythm of human locomotion.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Walking meditation (kinhin) is a fundamental Buddhist practice where each step becomes an opportunity for mindfulness. The rhythm of walking naturally synchronizes with breath, creating a moving meditation that grounds us in the present moment. Each footfall teaches impermanence - the constant arising and passing of contact with earth. Walking shows us that the path itself is the destination.",
     "pre-industrial-wisdom": "Walking is humanity's original and most essential form of transportation, predating all technology and requiring nothing but the body. Traditional cultures measure distance in walking days, understand landscape through footpaths worn by generations, and transmit knowledge through walking songs that map the land. Walking connects us directly to ancestral ways of moving through and knowing the world."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental form of human locomotion",
     "physical": "requires coordinated use of legs, feet, and balance",
     "spatial": "enables traversal of distance and exploration of place"

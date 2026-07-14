@@ -7,9 +7,7 @@
     "ma",
     "ki"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Allergy / Immune-Mediated Hypersensitivity to a Stated Agent",
   "description": "An immune-mediated hypersensitivity to a stated agent, confirmed by clinical criteria. A dislike, an ordinary intolerance, or a rough reaction does not become an allergy just because it is unwanted; the immune system has to be the one answering.",
   "sound_symbolism": "Rounded unvoiced 'whe' opens on a thin stream of air. At stressed 'ma', the lips close and the sound swells into broad nasal 'a'. Final 'ki' shifts the closure to the velum and ends on bright 'i'. Force gathers in the middle and finishes at a clean edge.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A bounded allergy term supports safety and self-report without extending biological sensitivity into judgments about character or purity."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a clinically bounded hypersensitivity claim",
     "physical": "an immune-mediated bodily response to an agent"
   },

@@ -40,10 +40,11 @@ Five shelves divide the work. `documents/` says what the language **is**, the ma
 Everything is validated by machine, and the validation gates every pull request:
 
 ```bash
+python3 -m pip install --requirement project/requirements.txt
 python3 scripts/validate_examples.py
 ```
 
-This checks the lexicon against its [schema](vocabulary/schema.json) and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted in the manual, primer, texts, pamphlets, or invitation uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](project/roadmap.md); the working protocol for creating words lives in [project/development_protocol.md](project/development_protocol.md); the longer-term intentions live in [the publishing strategy](project/publishing.md).
+Install the pinned dependency once for each Python environment. The validator then checks every lexicon entry against the [executable schema](vocabulary/schema.json) before applying Phi's sound, layout, and corpus rules. It also forbids new minimal pairs and verifies that every Phi sentence quoted in the manual, primer, texts, pamphlets, or invitation uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](project/roadmap.md); the working protocol for creating words lives in [project/development_protocol.md](project/development_protocol.md); the longer-term intentions live in [the publishing strategy](project/publishing.md).
 
 ## Licensing
 

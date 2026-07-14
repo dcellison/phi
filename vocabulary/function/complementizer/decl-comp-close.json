@@ -6,9 +6,7 @@
     "me",
     "no"
   ],
-  "pos": [
-    "complementizer"
-  ],
+  "pos": "complementizer",
   "concept": "End declarative clause / Close embedded statement",
   "description": "The required closing counterpart of the declarative complementizer 'mena'. Marks the end of an embedded declarative clause, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'mena...meno' functions as spoken brackets around embedded statements, giving listeners an unambiguous signal of where reported content begins and ends.",
   "sound_symbolism": "Shares the 'me' onset with 'mena', maintaining the acoustic signature of declarative embedding. The final rounded 'o' signals closure, completing the consistent Phi pattern in which openers end open and closers end rounded.",

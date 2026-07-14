@@ -7,9 +7,7 @@
     "tha",
     "mi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Baseline / Stated Reference Condition for Comparison",
   "description": "A stated reference condition chosen for comparison, which can be historical, modeled, or administratively set. A baseline need not be the earliest, healthiest, or most natural state a place has held; it is simply the point everything else gets measured against.",
   "sound_symbolism": "Rounded 'mo' begins behind closed lips and gives the word a quiet point of rest. Stressed 'tha' sends breath across the teeth and opens wide, like laying a line through that point. 'Mi' closes the lips again around bright 'i', so held depth stretches into a reference and returns to one mark the mouth can find again.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Baselines make restoration and monitoring claims accountable while preventing a preferred past or selected dataset from becoming an unquestioned natural ideal.",
     "secular-buddhist-philosophy": "The reference is acknowledged as selected, conditioned, and revisable rather than an eternal original state."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a selected reference condition used for comparison",
     "temporal": "often a documented earlier period or state against which change is assessed"
   },

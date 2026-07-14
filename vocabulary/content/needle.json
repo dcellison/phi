@@ -6,9 +6,7 @@
     "ti",
     "su"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Needle / Sewing Implement / Piercing Tool",
   "description": "A thin pointed piece of metal used in sewing; the tool that draws thread through fabric. 'Tisu' names what pierces and joins—the fine point that creates connection.",
   "sound_symbolism": "The word pierces precise. 'Ti' points with fine accuracy, needle entering. Then 'su' slides through smoothly, thread following.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Precision without force—the needle parts fabric gently, creating without destroying.",
     "pre-industrial-wisdom": "The needle as civilization—tiny tool enabling clothing, shelter, medicine, art."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Sewing tool",
     "wisdom": "Precise craft"
   }

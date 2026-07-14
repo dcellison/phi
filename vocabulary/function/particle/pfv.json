@@ -6,9 +6,8 @@
     "ki"
   ],
   "slot": 1,
-  "pos": [
-    "particle"
-  ],
+  "slot1_rank": "aspect",
+  "pos": "particle",
   "concept": "Perfective / Completed / Whole Action",
   "description": "An aspect particle that marks an action as a complete whole, viewed from outside as a finished event. Some experiences read as single bounded events rather than ongoing processes; 'ki' marks that reading.",
   "sound_symbolism": "The particle begins with 'k', a sharp velar stop that creates clear acoustic boundaries—the back of the tongue briefly blocking airflow completely before release. This decisive consonant meets 'i', the highest, most focused vowel, like a pin marking a precise point. Together, 'ki' sounds like completion itself: sharp, clear, definitive. The sound requires full closure and clean release, training speakers to recognize when actions form complete gestalts rather than flowing processes.",

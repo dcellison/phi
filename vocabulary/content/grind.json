@@ -7,9 +7,7 @@
     "re",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Grind / Reduce to Meal / Break Small Between Surfaces",
   "description": "To grind: grain to flour, herbs to powder, the year's harvest to the winter's bread. Reduction between stone and stone — the kitchen's oldest transformation. Kin to 'kuma' (drum) only in sound; kin to 'pharelo' (cook) in purpose.",
   "sound_symbolism": "'ku' is the firm stone, 're' the turning repetition, 'mi' the fineness it all comes down to. The quern turns inside the word.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "The hand-mill and the water-mill — grinding is the work that renewable power learned first and never forgot.",
     "pre-industrial-wisdom": "The quern-stone's hours were the price of every loaf; grinding was the labor that made agriculture edible."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The kitchen's oldest transformation",
     "creation": "Meal from grain",
     "physical": "Reduction between surfaces"

@@ -6,9 +6,7 @@
     "ne",
     "la"
   ],
-  "pos": [
-    "conjunction"
-  ],
+  "pos": "conjunction",
   "concept": "And / Connection / Coordination",
   "description": "The coordinating conjunction that joins elements of equal grammatical status—words, phrases, or clauses. Each joined element keeps its own character; neither is subordinated to the other.",
   "sound_symbolism": "The nasal 'n' anchors the first element, the liquid 'l' carries across to the next, and both syllables end in open vowels that leave room for what follows. Two light syllables, brief enough not to interrupt what they join.",

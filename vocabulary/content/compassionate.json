@@ -7,9 +7,7 @@
     "e",
     "sha"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Compassionate / Feeling With Others / Moved by Suffering",
   "description": "Feeling or showing concern for others' suffering. 'Ruesha' describes active compassion: being moved to stay present and to help. 'Phena' (kind) is the neighbor for general benevolence; 'ruesha' is specifically a response to suffering.",
   "sound_symbolism": "The word reaches toward suffering. 'Ru' rolls outward, attention extending. The vowel 'e' opens to another's experience. Then 'sha' /ʃa/ softens into gentle response, compassion flowing.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Compassion (karuna) is one of the four sublime states—the heart that trembles in response to suffering and wishes to relieve it.",
     "peace-linguistics-practices": "Compassionate listening receives pain without judgment—creating space for suffering to be witnessed and eased."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Fellow-feeling",
     "wisdom": "Response to suffering"
   }

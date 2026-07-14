@@ -7,9 +7,7 @@
     "na",
     "wu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Accommodate / Make a Particular Change for Access",
   "description": "To make a particular change in an environment, practice, timing, or form of support so a stated person can access or participate. The change answers an access relation, not a supposed diagnosis: 'hinolu' (adapt) can improve any fit, while 'hinawu' answers a person's stated access requirement.",
   "sound_symbolism": "A light current of breath lifts 'hi' into bright 'i'. Stressed 'na' holds the tongue at the teeth and opens across broad 'a', while final 'wu' rounds the lips and descends into deep 'u'. At its center the contour swells, then folds into a low glide.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared spaces remain shared only when their arrangements can change for the people who use them.",
     "peace-linguistics-practices": "The verb makes a requested adjustment discussable without turning help into permission to control the person who asked."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "changing a practice so a stated action becomes possible",
     "community": "a particular response to an access requirement",
     "spatial": "altering an environment or route for access"

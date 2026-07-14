@@ -7,9 +7,7 @@
     "thi",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Infer / Derive a Conclusion",
   "description": "To reach a conclusion from premises, as an act distinct from the inferential evidential particle 'ke', which merely marks how a speaker came to know something. Inferring is the reasoning itself, and a person can infer well or badly, then revise the result later.",
   "sound_symbolism": "Initial 'ke' repeats the inferential evidential exactly, an audible kinship between the source marker and the act of reasoning. Stress moves to 'thi' and replaces the stop with breath at the teeth; the vowel lifts into bright 'i'. 'Ra' releases the tongue into a roll and opens fully. From a familiar clue, the word passes through attentive breath and lets the reached thought out.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Naming inference helps distinguish what was observed from what the mind constructed from observation, supporting awareness of interpretation.",
     "peace-linguistics-practices": "A speaker can expose the step from premises to conclusion for collaborative examination instead of presenting the result as unmediated fact."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "deriving a conclusion from premises",
     "wisdom": "recognizing the mind's movement beyond what was directly given"
   },

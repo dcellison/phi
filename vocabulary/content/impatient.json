@@ -6,9 +6,7 @@
     "she",
     "li"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Impatient / Unable to Wait / Restless for Action",
   "description": "Having or showing a tendency to be quickly irritated or provoked; restlessly eager. 'Sheli' names the quality of impatience—the inability to wait, the urge to rush.",
   "sound_symbolism": "The word pushes forward. 'She' /ʃe/ begins with pressed breath, waiting difficult. Then 'li' moves quickly, patience exhausted.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Impatience is aversion to the present moment—wanting things to be other than they are, faster than they are.",
     "peace-linguistics-practices": "Impatient communication interrupts and rushes—not allowing others time to think or speak fully."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Unable to wait",
     "temporal": "Rushing"
   }

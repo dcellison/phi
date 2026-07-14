@@ -7,9 +7,7 @@
     "su",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Inspire / To Breathe Generative Life Into Being",
   "description": "The act of filling someone with the urge or ability to do or feel something, especially to do something creative. It is the transmission of generative, life-affirming energy.",
   "sound_symbolism": "The skillful breath 'phe' knows exactly how to kindle dormant sparks - not forcing but coaxing flame from ember. This awakening rises through 'su', the hopeful sound of possibility taking wing, potential transforming into flight. The final 'a' releases all limits, creating boundless space for what might emerge. Three syllables trace inspiration's arc: skillful touch, rising hope, infinite opening - the way one candle lights another without diminishing its own flame.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "Art Nouveau artists thought of their organic lines as carrying a life force from nature into the made object. 'Phesua' names that transfer between people: creative energy passing from one maker to another, waking work that was dormant.",
     "peace-linguistics-practices": "To inspire is to motivate through attraction rather than coercion, creating change through awakening desire rather than imposing will. This practice recognizes that sustainable transformation comes from internal motivation, and that our role is to kindle the spark already present in others rather than forcing external change."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "awakens creative potential and generates new expressions",
     "dialogue": "transmits energy between consciousnesses",
     "emotion": "transforms states from dormancy to excitement and urge",

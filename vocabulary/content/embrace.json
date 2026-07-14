@@ -7,9 +7,7 @@
     "ma",
     "re"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Embrace / Hold in Arms / Encircle with Body",
   "description": "To hold another in one's arms, encircling with the body in gesture of affection, comfort, or reunion. 'Lomare' is full-body communication—the hug that says what words cannot, the physical expression of care that transcends language.",
   "sound_symbolism": "The word encircles like arms embracing. 'Lo' reaches with liquid openness, arms extending. Then 'ma' meets with nasal warmth, bodies coming together. Finally 're' receives, the embrace complete, both held.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Embrace communicates acceptance and care beyond words—the held one knows they are valued without speech.",
     "pre-industrial-wisdom": "Traditional greetings and farewells often include embrace—bodies confirming what hearts feel."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Non-verbal communication of acceptance",
     "physical": "Bodily expression of care"
   }

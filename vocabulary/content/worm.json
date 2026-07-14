@@ -7,9 +7,7 @@
     "ri",
     "we"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Worm / The Small Earth-Worker",
   "description": "The worm: the soil's quiet maker, turning earth as it goes. Built on the 'mu' of 'muila' (earth), like 'muholi' (dig) — the earth-family's smallest member and hardest worker.",
   "sound_symbolism": "'mu' is the soil itself, 'ri' the small movement through it, 'we' the soft body doing the moving. The earth-family signature carried by its tiniest bearer.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Soil health is worm health; the regenerative future is built, quite literally, by this animal. Honoring it by name is agricultural realism.",
     "pre-industrial-wisdom": "Farmers judged a field by its worms long before soil science agreed with them."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The garden's smallest laborer",
     "nature": "The soil's quiet maker"
   }

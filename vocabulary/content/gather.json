@@ -7,9 +7,7 @@
     "le",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Gather / Combine / Add (Mathematical)",
   "description": "The verb of bringing quantities or things together, and Phi's word for arithmetic addition. It frames adding as gathering: streams joining, or a community pooling resources. In arithmetic the metaphor presents the operation as combination, but the word itself does not imply cooperation, accumulation, or a beneficial outcome.",
   "sound_symbolism": "The word begins with 'sho', where the soft fricative 'ʃ' suggests quantities flowing toward each other and echoes the 'sh' of 'shao' (three-group). The round 'o' suggests a container receiving what gathers. The liquid 'l' in 'le' creates a smooth connection between elements being joined. The vowel progression from grounded 'o' through transitional 'e' to bright, high 'i' traces an imagined arc from separate parts through joining to a combined quantity. The three-syllable form gives the operation a distinct audible shape; it does not guarantee slower or more conscious reasoning.",
@@ -20,7 +18,7 @@
     "peace-linguistics-practices": "Framing addition as 'gathering together' offers a relational metaphor instead of a metaphor of acquisition. The arithmetic operation remains neutral: what is gathered, by whom, and with what consequences require separate claims.",
     "pre-industrial-wisdom": "Communities have gathered harvests, pooled labor, and combined resources for shared work. 'Sholei' can evoke those practices, while addition also remains available for quantities with no social meaning."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Names arithmetic addition through a gathering metaphor",
     "community": "Offers gathering as a metaphor for combined quantities"
   }

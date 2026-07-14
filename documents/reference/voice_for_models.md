@@ -80,7 +80,7 @@ These are the manual's own rules, each stated with its reason. The exemplar chap
 
 ## The lexicon register
 
-Vocabulary entries are reference entries with their own discipline. The schema sets the work each field must do; it cannot write the sentence for you. The completed entry gets a Humanizer pass everywhere it carries prose. That includes the concept label, description, sound symbolism, and grammatical notes. Pillar and tag rationales get the same treatment, as does ordinary English example text. The rules above apply, plus the following per field.
+Vocabulary entries are reference entries with their own discipline. The schema sets the work each field must do; it cannot write the sentence for you. The completed entry gets a Humanizer pass everywhere it carries prose. That includes the concept label, description, sound symbolism, and grammatical notes. Pillar and semantic-domain rationales get the same treatment, as does ordinary English example text. The rules above apply, plus the following per field.
 
 **description**: the word's actual range of use in two to four sentences. What it covers, one earned distinction from its nearest neighbor, and concrete situations over abstract scope-lists. A neighbor word is cited with its exact gloss, in the form 'word' (gloss). The failed pattern to avoid: a definitional range list followed by a tail of five to nine denials ("It does not establish ownership, entitlement, abundance, renewability, harmless use..."). Fold the denials into the one distinction that teaches, and let the rest go.
 

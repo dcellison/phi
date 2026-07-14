@@ -6,9 +6,7 @@
     "we",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Tonic / Strengthening Drink / Vitality Restorer",
   "description": "A medicinal drink taken to restore health and vigor; what rebuilds strength. 'Wenu' names what revitalizes—the drink that returns energy and wellness.",
   "sound_symbolism": "The word renews strength. 'We' revives with returning energy, vitality stirring. Then 'nu' nourishes with grounded sustenance, strength building.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Strengthening practice—regular practice as tonic for the mind, building resilience.",
     "pre-industrial-wisdom": "Tonics sustained health—herbal preparations drunk regularly to maintain vitality."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Strengthening drink",
     "physical": "Vitality"
   },

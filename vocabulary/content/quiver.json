@@ -7,9 +7,7 @@
     "ri",
     "pe"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Quiver / Tremble / Small Rapid Motion",
   "description": "To quiver: to move in small, fast, repeating beats that were not decided on. The rabbit's nose reading the air, leaves in a rising wind, a moth's wings, shoulders in the cold, a lip before tears. 'Tiripe' covers trembling, twitching, shivering, and fluttering alike: the body of anything, animal or leaf or flame, talking to itself faster than intention.",
   "sound_symbolism": "Three light stops make three tiny beats, 't', 'r' tapped between vowels, 'p': the word itself vibrates when spoken. The narrow 'i.i' keeps every motion small; the final 'e' neither opens nor closes, the tremor simply running off the word's edge.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The body's involuntary weather, observed and named without judgment: what trembles is simply trembling.",
     "pre-industrial-wisdom": "Reading the world means reading its small motions: the nose that quivers, the leaf that shivers before rain. The word keeps that literacy."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The leaf's and the whisker's shared verb",
     "physical": "Small fast involuntary motion"
   }

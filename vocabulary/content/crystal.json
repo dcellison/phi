@@ -7,9 +7,7 @@
     "ra",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Crystal / Structured Mineral / Clear Gem",
   "description": "A solid with atoms arranged in highly ordered structure; nature's geometry made visible. 'Kirae' names what earth grows perfect—the faceted form of ordered beauty.",
   "sound_symbolism": "The word cuts clear. 'Ki' defines with sharp facet, edges precise. 'Ra' refracts light in rainbows. Then 'e' opens to transparent depth.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Clarity as crystal—the clear mind that sees without distortion.",
     "pre-industrial-wisdom": "Crystals held power—used for healing, divination, the earth's perfect geometry."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Geometric mineral",
     "wisdom": "Clarity symbol"
   }

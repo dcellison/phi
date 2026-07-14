@@ -6,9 +6,7 @@
     "tho",
     "ru"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Proud / Feeling Dignified Satisfaction / Self-Respecting",
   "description": "Feeling deep pleasure or satisfaction in one's achievements or qualities; having appropriate self-respect. 'Thoru' names the quality of healthy pride—dignity without arrogance, satisfaction without superiority.",
   "sound_symbolism": "The word stands with awareness. 'Tho' begins with dental breath, the conscious recognition of one's own worth. 'Ru' grounds with depth, dignity rooted rather than performed. Pride as self-aware standing, not arrogance.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Healthy pride acknowledges genuine achievement without inflating self or diminishing others.",
     "peace-linguistics-practices": "Proud communication expresses satisfaction without comparison—celebrating self without competing."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Dignified satisfaction",
     "wisdom": "Appropriate self-respect"
   }

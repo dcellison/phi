@@ -6,9 +6,7 @@
     "si",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Thread / Yarn / Spun Fiber",
   "description": "A long thin strand of cotton, silk, or other fibers used in sewing or weaving. 'Sima' names the single strand—fiber spun into continuous line.",
   "sound_symbolism": "The word spins fine. 'Si' draws out thin and precise, fiber extending. Then 'ma' grounds in material substance, thread ready for use.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Connection as thread—relationships woven strand by strand into fabric of community.",
     "pre-industrial-wisdom": "Spinning thread—the ancient skill of drawing fiber into continuous strand, foundation of all textile."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Spun fiber",
     "wisdom": "Connection"
   }

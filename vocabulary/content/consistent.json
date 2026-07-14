@@ -7,9 +7,7 @@
     "tha",
     "ro"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Consistent / Jointly Possible",
   "description": "Of two or more claims, able to be true together. Consistency says only that the claims do not clash with each other; it says nothing yet about whether any of them is actually true.",
   "sound_symbolism": "Liquid 'le' begins with an easy path along the tongue. The stressed breath of 'tha' passes the teeth, opens wide, and gives different sounds room to meet. Rounded 'ro' follows with a brief roll and settles them into one resonant ending where the parts remain distinct and still travel together.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "Consistency concerns whether distinct parts can inhabit one form together without requiring those parts to become identical.",
     "peace-linguistics-practices": "The term helps distinguish genuine incompatibility from mere difference, reducing pressure for unnecessary uniformity."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the quality of propositions that can be true together",
     "wisdom": "holding plurality without confusing compatibility with truth"
   },

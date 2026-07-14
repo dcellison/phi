@@ -7,9 +7,7 @@
     "nu",
     "li"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Allocate / Assign Resources, Access, Time, or Burdens",
   "description": "To assign resources, access, time, or burdens under a stated criterion. The word stays neutral on purpose: an allocation can be unequal, coerced, wasteful, or perfectly fair by one standard and rejected by another.",
   "sound_symbolism": "Bilabial breath opens 'pha' into broad 'a'. Stressed 'nu' gathers that openness at the teeth and gives it depth, a contour close enough to 'phanoi' (portion) for the ear to hear the family. Final 'li' releases the tongue into a light bright line. One field of breath becomes a held share and then moves toward its place.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Commons governance requires explicit allocation of scarce and abundant resources across present needs, future regeneration, maintenance, and unequal burdens.",
     "peace-linguistics-practices": "A value-neutral allocation term keeps the criterion and rejected claims visible instead of allowing words for sharing or fairness to endorse the outcome in advance."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "assigning a resource, opportunity, or burden under a criterion",
     "community": "collective allocation among stated recipients or purposes"
   },

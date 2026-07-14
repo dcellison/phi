@@ -7,9 +7,7 @@
     "he",
     "wa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Breeze / Gentle Wind / Soft Air Movement",
   "description": "A light, gentle wind that refreshes without force. 'Sihewa' names air's gentlest touch—the cooling movement on a warm day, the whisper through leaves, wind at its most welcoming and kind.",
   "sound_symbolism": "The word sighs gently. 'Si' begins with soft sibilance, air barely moving. Then 'he' breathes with aspirate lightness, the gentlest push, while 'wa' glides open and releases the breeze onward.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Breezes teach subtle awareness—the lightest touch still reaches us when we are present enough to notice.",
     "art-nouveau-aesthetics": "The breeze is nature's gentlest touch—invisible yet felt, animating leaves and hair with effortless grace."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Soft atmospheric touch",
     "nature": "Gentle air movement"
   }

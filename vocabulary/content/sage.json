@@ -6,9 +6,7 @@
     "phe",
     "wo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sage / Wise One / Elder of Wisdom",
   "description": "One whose insight comes from deep experience and reflection; a wise elder. 'Phewo' names wisdom earned through living, not only through study.",
   "sound_symbolism": "The fricative 'phe' opens on a quiet breath, and 'wo' rounds into the open back vowel. Both syllables are soft; the word contains no stops at all.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Sage as awakened—one who has realized through practice what others only study.",
     "pre-industrial-wisdom": "Sage as elder—wisdom that comes from long life lived attentively."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Wisdom role",
     "wisdom": "Insight earned through living"
   }

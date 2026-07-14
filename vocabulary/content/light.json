@@ -6,9 +6,7 @@
     "phe",
     "lo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Light (Weight) / Not Heavy / Easy to Lift",
   "description": "Of little weight; not heavy or burdensome. 'Phelo' names the quality of lightness—physical ease of carrying, metaphorical freedom from weight.",
   "sound_symbolism": "The word lifts easily. 'Phe' /ɸe/ begins with airy breath, weight released. Then 'lo' floats with ease, lightness embodied.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Lightness comes from releasing attachment—the unburdened mind moves freely.",
     "pre-industrial-wisdom": "Light tools enabled sustained work—weight was managed through design and technique."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Low weight",
     "wisdom": "Unburdened"
   }

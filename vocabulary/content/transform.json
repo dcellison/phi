@@ -7,9 +7,7 @@
     "lu",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Transform / Change Form Completely / Metamorphose",
   "description": "To change completely in form, nature, or character: caterpillar to butterfly, grief to acceptance, conflict to reconciliation. Not gradual adjustment but metamorphosis. The original remains connected to the transformed, yet they are not the same.",
   "sound_symbolism": "'Mo' begins nasal and closed, the original form held within itself. 'Lu' releases that form into flowing transition, and the velar stop of 'ki' ends the movement cleanly with the transformed form distinct.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Social transformation is necessary and possible—systems that harm can become systems that heal through committed collective change.",
     "secular-buddhist-philosophy": "Transformation is possible because nothing has fixed essence—the self that suffers can transform into the self that is free."
   },
-  "tags": {
+  "semantic_domains": {
     "temporal": "Fundamental change over time",
     "wisdom": "Understanding deep change as possible"
   }

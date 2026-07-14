@@ -7,9 +7,7 @@
     "phe",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Shallow / Water You Can Stand In",
   "description": "Shallow: of water and vessels, near the bottom of not much. The opposite of 'nulo' (deep), and built maximally unlike it, per Phi's rule for opposites: no minimal pairs between words a wader needs to keep apart.",
   "sound_symbolism": "Open 'sa' and the bright rising 'e'-'i' sit high in the mouth where 'nulo' sits low and closed. The two opposites share no sound at all.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The ford is where the river says yes. Knowing the shallow places was the traveler's map and the parent's rule for where the children may swim."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Water near its floor",
     "spatial": "Depth you can stand in"
   }

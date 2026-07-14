@@ -7,9 +7,7 @@
     "ra",
     "ku"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Interpret / Convey Meaning Between Languages or Communication Modes",
   "description": "To convey meaning between languages or communication modes for an interaction, with the source expression and the new expression remaining distinct. Interpretation may be simultaneous, consecutive, signed, spoken, tactile, or otherwise specified. 'shorela' (rephrase) changes wording within an exchange; 'shoraku' crosses a language or mode boundary.",
   "sound_symbolism": "Rounded 'sho' begins as a low hush. At stressed 'ra', the tongue rolls and the vowel opens fully, then final 'ku' closes the back of the mouth over deep 'u'. A wide middle stretches between two darker rounded edges.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Interpretation can open dialogue across languages without granting the interpreter ownership of the speaker's view or authority to decide for them.",
     "pre-industrial-wisdom": "Multilingual traders, travelers, and neighboring communities relied on people who could carry meaning across speech traditions while every retelling still required trust and correction."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "understanding one expression well enough to convey its meaning",
     "dialogue": "carrying meaning between languages or communication modes",
     "ritual": "interpretation where exact communal or ceremonial wording matters"

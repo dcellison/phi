@@ -7,9 +7,7 @@
     "me",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sibling / One Who Shares the Same Source",
   "description": "A brother or sister; one who shares origins through common parents or communal upbringing. Siblings represent the first experience of equality and peer relationship, teaching cooperation, conflict resolution, and unconditional connection. They are companions on parallel journeys, each unique yet bound by shared roots and mutual understanding that transcends words.",
   "sound_symbolism": "The word flows with shared warmth. 'Lo' begins with liquid connection, the bond that flows between those who share origin. 'Me' meets with intimate nasal closeness, and the final 'a' opens outward—the connection that needs no explanation.",
@@ -17,7 +15,7 @@
   "pillars": {
     "secular-buddhist-philosophy": "Siblings offer the first lived experience of interdependence - separate beings who share origins, whose actions ripple into each other's lives. Through siblings we learn that self and other are neither fully separate nor fully merged. This relationship teaches the essential practice of holding space for another's growth while maintaining our own path, understanding that we can be deeply connected without being identical."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "core family bond and peer relationship"
   }
 }

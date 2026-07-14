@@ -6,9 +6,7 @@
     "ki",
     "ro"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Precise / Exact / Accurately Defined",
   "description": "Marked by exactness and accuracy of expression or detail. 'Kiro' names the quality of exactitude—the clarity that leaves no ambiguity, the definition that marks boundaries clearly.",
   "sound_symbolism": "The word marks exactly. 'Ki' begins with crisp definition, boundary clear. Then 'ro' completes with rolling certainty, precision established.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Precise craftsmanship achieved flowing forms through exact technique—freedom emerged from mastery of precision.",
     "peace-linguistics-practices": "Precise language reduces misunderstanding—clarity in expression supports accurate communication."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Clear definition",
     "cognition": "Exactness"
   }

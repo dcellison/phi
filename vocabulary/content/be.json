@@ -6,9 +6,7 @@
     "na",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Be / Existence / Presence",
   "description": "The fundamental verb of existence and state, expressing that something exists, has a quality, or occupies a role. 'Nai' is presence stated as a verb.",
   "sound_symbolism": "The grounding consonant 'na' roots existence in the here and now - not floating in abstraction but connected to this moment, this place. This foundation opens into 'i', the bright vowel of immediate presence and awareness. Together they create the simplest affirmation: 'na' grounds us while 'i' declares 'here I am.' The hiatus between the vowels creates a gentle pause, like the space between breaths where being simply is.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Being embodies the first noble truth - the simple acknowledgment of what is. Not grasping at becoming something else, not denying current reality, but residing fully in this moment's existence. 'Nai' grammaticalizes the practice of presence and mindfulness.",
     "pre-industrial-wisdom": "Traditional understanding recognizes being as participation in the great web of existence - to be is to be in relationship. One exists not in isolation but as part of the living whole, connected to land, community, and ancestors."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "establishing identity and predication",
     "wisdom": "recognizing and accepting what is"
   }

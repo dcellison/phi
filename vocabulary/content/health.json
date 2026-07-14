@@ -7,9 +7,7 @@
     "na",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Health / Wholeness of Body / Sound Condition",
   "description": "The state of being free from illness; the wholeness of body and mind functioning well. 'Sunai' names the condition of vitality—systems in harmony, life flowing freely.",
   "sound_symbolism": "The word is easy in the mouth: a soft sibilant 's', a grounding nasal 'n', a bright final 'i'. Effortless articulation suits a word for a body working well.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Health as commons—wellbeing supported by community and environment.",
     "secular-buddhist-philosophy": "Health as interdependent—body wellness connected to mind, community, and world."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Body wholeness",
     "physical": "Bodily condition"
   }

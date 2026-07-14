@@ -6,9 +6,7 @@
     "ro",
     "lu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Wheel / Spinning Wheel / Potter's Wheel",
   "description": "A circular object that revolves on an axis; specifically the spinning wheel or potter's wheel. 'Rolu' names what turns in cycles—rotation enabling transformation.",
   "sound_symbolism": "The word rotates round. 'Ro' rolls in continuous motion, wheel turning. Then 'lu' flows onward, cycle unending.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Cycles of change—the wheel turns, nothing remains fixed, transformation is constant.",
     "pre-industrial-wisdom": "The wheel as transformation—spinning fiber to thread, clay to vessel, through patient rotation."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Rotating tool",
     "temporal": "Cyclical motion"
   }

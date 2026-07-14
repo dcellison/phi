@@ -7,9 +7,7 @@
     "o",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Person / A Centered, Grounded Whole",
   "description": "An individual human being, understood as a complete whole with inherent dignity and interconnection to all life. The term emphasizes personhood as both unique individuality and universal humanity.",
   "sound_symbolism": "The word begins with 'mi', the sound of individual identity resonating from within - a personal vibration that declares 'I am'. This opens through 'o' into the rounded wholeness of being, acknowledging the complete sphere of personhood. The final 'na' grounds this wholeness in connection, linking the individual to the web of all existence. Together, these sounds journey from inner self through complete being to interconnected presence, capturing the Buddhist understanding of personhood as both uniquely individual and universally connected.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Personhood embodies the paradox of anatman (non-self) and individual experience - each person is a unique pattern of causes and conditions while lacking fixed, separate essence. This understanding cultivates both self-respect and humility, recognizing our temporary manifestation as conscious beings within the flowing river of existence.",
     "peace-linguistics-practices": "Recognizing personhood in every human creates the foundation for nonviolent communication - when we see others as whole persons rather than roles, categories, or obstacles, compassionate dialogue becomes possible. This practice refuses dehumanization, the first step toward violence, by maintaining awareness of shared personhood even across conflict."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "personhood inherently involves consciousness and self-awareness",
     "community": "persons are the fundamental units of social structures"
   }

@@ -7,9 +7,7 @@
     "lu",
     "ma"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Unite / Join Together / Make One from Many",
   "description": "To bring separate elements together into a unified whole, joining what was apart. 'Koluma' names the act of creating oneness—whether joining hands, communities, or efforts—transforming multiplicity into coherent unity while strengthening rather than diminishing the parts.",
   "sound_symbolism": "The word joins as it speaks. 'Ko' begins with velar contact, elements meeting. Then 'lu' flows with liquid connection, joining becoming continuous. Finally 'ma' grounds with nasal stability, unity established and held.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "United action enables transformation—communities joining together can accomplish what individuals cannot.",
     "peace-linguistics-practices": "Unity in diversity—joining without erasing difference—is the foundation of peaceful coexistence."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Bringing together into wholeness",
     "physical": "Joining separate elements"
   }

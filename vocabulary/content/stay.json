@@ -7,9 +7,7 @@
     "no",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Stay / Remain / Dwell",
   "description": "The verb of remaining: to stay in a place, a state, or a relationship by choice. 'Thalu' covers physical presence and commitment alike—staying with difficulty, staying in awareness, staying true to a path. In Phi it is an action in its own right, not the absence of one: the choice to inhabit rather than flee.",
   "sound_symbolism": "The word rests on the nasals, the grounding consonants. 'Ma' begins with the deep hum of 'm' opening into spacious 'a'—ground with room to live on. 'No' follows with the dental nasal of settling intention, the quiet declaration: here I remain. The word ends in 'lu', where the liquid 'l' carries presence forward without restlessness and the deep 'u' settles into sustained stillness. Where words of motion leap and rush, 'manolu' hums—three low, warm syllables like breath slowing, like someone finding their seat in meditation and choosing, breath after breath, not to leave it.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Staying embodies the commitment to remain present in difficult dialogue, to not abandon conversation when it becomes uncomfortable. 'Thalu' supports the practice of staying with conflict until understanding emerges, recognizing that peace often requires the courage to stay rather than the ease of leaving.",
     "pre-industrial-wisdom": "Traditional wisdom values dwelling deeply in place - indigenous peoples staying with their ancestral lands for generations, developing intimate knowledge through patient presence. This rootedness creates understanding that cannot be gained through wandering, teaching that some wisdom only comes to those who stay long enough to see the full cycle of seasons."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "remaining in place and location",
     "temporal": "continuing through time and duration",
     "wisdom": "patient presence bringing understanding"

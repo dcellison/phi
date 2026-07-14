@@ -7,9 +7,7 @@
     "tha",
     "ki"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Towel / Absorbent Cloth for Wiping or Drying",
   "description": "An absorbent cloth used to wipe moisture from a body, surface, or object. A towel dries hands beside a basin or wraps washed food before storage. 'wetha' (cloth) names the material broadly; 'wethaki' is the piece kept ready to receive water.",
   "sound_symbolism": "Rounded 'we' glides into the stressed dental breath and broad vowel of 'tha'. Those opening syllables are 'wetha' (cloth), heard whole. Final 'ki' closes crisply at the velum and lifts into bright 'i'. From an open breathy center, the word gathers into a fine hard edge.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "A towel was washed, wrung, dried, patched, and returned to its peg until the cloth itself could take no more repair."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "cloth used in wiping or drying",
     "physical": "an absorbent textile receiving moisture"
   },

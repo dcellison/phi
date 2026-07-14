@@ -7,9 +7,7 @@
     "we",
     "pa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Catch / Receive the Moving Thing / Close the Hand on What Arrives",
   "description": "To catch: the thrown rope, the falling cup, the fish in the net ('mera'). Receiving what moves — the completing half of 'wapho' (throw). Between them, things can now cross gaps in both directions.",
   "sound_symbolism": "Three beats of the event: 'ka' the contact, 'we' the incoming thing, 'pa' the hand closing around it. Arrival, met.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Catching is receiving made active: attention extended toward what another sends. The verb of good listening, enacted.",
     "pre-industrial-wisdom": "The catcher completes every throw — harvest tossed from ladder to basket, rope from boat to dock. Cooperation with a gap in the middle."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Receiving the moving thing",
     "community": "The other end of every throw",
     "physical": "The hand closing on arrival"

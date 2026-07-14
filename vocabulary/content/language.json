@@ -7,9 +7,7 @@
     "lu",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Language / The Whole of a People's Speech",
   "description": "A language: the whole system of a people's speech — its words, sounds, and ways. It is built from speech's breath and flow, grounded by 'ma': speaking made a shared whole. Not the tongue: 'lathoe' is anatomy only, and Phi does not copy English's body-metaphor for speech. Phi itself is a haluma, and this word is how the language names its own kind.",
   "sound_symbolism": "'Ha' begins in open breath, the material of speech. 'Lu' lets that breath flow between people, and 'ma' grounds it as a durable shared system. The form remains kin to 'haolu' (speak) without containing the verb whole.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "The field's own object, named at last: a language as a practice a people shares, not an instrument one wields. That the word grounds speech in 'ma' is the claim in miniature."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "What a people holds in common",
     "dialogue": "The shared whole of speech"
   }

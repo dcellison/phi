@@ -7,9 +7,7 @@
     "mo",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Doubt / Withhold Settled Belief",
   "description": "To remain genuinely unsettled about whether a proposition is true or well enough supported. Doubt can be slight or deep, and it stops well short of denying a claim or refuting it; it is a suspended judgment, not a verdict.",
   "sound_symbolism": "Rounded, unvoiced 'wha' begins as breath moving through an uncertain opening. Closed lips hold the stress on 'mo' inside a dark round chamber. After it, a clean hiatus separates 'o' from bright 'i'. The held middle steps across one audible suspension into light.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Doubt can be held as attentive uncertainty without demanding immediate attachment to affirmation or denial.",
     "peace-linguistics-practices": "A speaker can disclose uncertainty directly, reducing pressure to perform certainty or turn hesitation into covert disagreement."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an unsettled stance toward a proposition or its support",
     "wisdom": "recognition that judgment may remain open while inquiry continues"
   },

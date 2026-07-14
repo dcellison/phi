@@ -7,9 +7,7 @@
     "ka",
     "su"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Dose / Specified Amount of an Intervention at a Stated Administration",
   "description": "One specified amount given at one administration. A dose carries no unit, route, or schedule of its own; those live in the exact source instruction, precise in a way Phi's grammar is not built to approximate.",
   "sound_symbolism": "Closed lips give 'mi' a small nasal opening that rises into bright 'i'. Stressed 'ka' shifts the closure back to the velum and releases it through broad 'a'. Final 'su' draws the air into a hiss and drops the vowel into deep 'u'. Three compact contacts give the word a measured pulse.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Separating a dose from its exact record, safety, understanding, and consent prevents a number or instruction from speaking as unquestionable authority."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a specified intervention amount requiring exact source interpretation",
     "physical": "an amount intended or delivered to a body",
     "temporal": "an amount tied to an administration or interval"

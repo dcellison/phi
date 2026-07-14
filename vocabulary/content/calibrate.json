@@ -7,9 +7,7 @@
     "su",
     "ro"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Calibrate / Compare and Relate an Instrument to a Reference",
   "description": "To relate an instrument to a stated reference, and to check or adjust that relation. Calibrating is narrower than a full inspection, and a device can be calibrated without the whole system around it ever being examined.",
   "sound_symbolism": "'Ma' begins with a firm meeting of the lips and opens onto broad 'a', like setting down the reference mark. The hiss of stressed 'su' narrows attention and sinks into deep 'u'. 'Ro' rolls the sound into a rounded finish and takes the word from a fixed point through fine adjustment to a relation that can turn and be checked again.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Calibration treats measurement as a maintained relation with conditions and uncertainty rather than an unconditioned revelation of fact.",
     "pre-industrial-wisdom": "Reliable craft has long depended on checking tools against known references and recording when that relation changes."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "comparison and adjustment of a device against a reference",
     "cognition": "a practice that establishes how an indication relates to a reference",
     "creation": "maintenance of measuring and signaling tools"

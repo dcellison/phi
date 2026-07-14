@@ -6,9 +6,7 @@
     "ro",
     "ke"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Move / Change Position / Be in Motion",
   "description": "To change position in space, to be in motion rather than at rest. 'Roke' is the fundamental verb of locomotion and spatial change—whether walking across a room, shifting weight, or relocating across distances. It names the basic fact of bodies in motion.",
   "sound_symbolism": "The word is brief and kinetic. 'Ro' rolls forward with the liquid consonant, motion already underway. The open 'o' carries momentum. Then 'ke' steps with velar precision, each movement defined yet continuous.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Movement reveals impermanence—nothing stays in place, all is in motion. Mindful movement grounds awareness in the body's shifting position.",
     "pre-industrial-wisdom": "Life is movement—migration, seasonal travel, the body's daily rounds. Stillness is temporary; motion is the norm."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental human activity of moveing",
     "physical": "Bodily change of position",
     "spatial": "Movement through space"

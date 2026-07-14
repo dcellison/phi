@@ -6,9 +6,7 @@
     "ka",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Choose / Select / Settle on One Among Several",
   "description": "To choose: one path among paths, one word among words. The act of settling deliberation into a single selection. Its neighbors are 'remo' (think, the weighing before) and 'seru' (commit, the binding after); choosing is the hinge between them.",
   "sound_symbolism": "The decisive 'ka' is the moment the weighing stops, and 'nu' settles downward into the one chosen thing — deliberation landing.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Futures are chosen, not awaited — choosing is the first act of building the world preferred.",
     "secular-buddhist-philosophy": "Every moment offers a choice between reaction and response; a language of mindfulness needs the verb that names the hinge."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "The act of selecting among alternatives",
     "wisdom": "Where deliberation becomes direction"
   }

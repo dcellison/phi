@@ -6,9 +6,7 @@
     "se",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Pattern / Repeated Design / Recurring Structure",
   "description": "A repeated decorative design; a regular and intelligible form or sequence. 'Sena' names the recognizable structure—what repeats, what can be expected, the order beneath apparent chaos.",
   "sound_symbolism": "The word repeats and sustains. 'Se' begins with sibilant persistence, the energy that runs through recurring forms. 'Na' grounds the structure, making pattern visible. The sibilant evokes the continuity that patterns require.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Pattern was central—organic forms repeated and varied, creating designs that flowed while maintaining structure.",
     "pre-industrial-wisdom": "Patterns taught prediction—recognizing weather patterns, animal behavior patterns, seasonal patterns enabled survival."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Repeated design",
     "cognition": "Recognizable structure"
   }

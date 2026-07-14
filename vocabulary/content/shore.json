@@ -7,9 +7,7 @@
     "ri",
     "me"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Shore / Water's Edge / Meeting Line",
   "description": "The land along the edge of a body of water. 'Kerime' names the meeting place—where land and water touch, where waves reach and retreat, the threshold zone belonging fully to neither element.",
   "sound_symbolism": "The word meets at the edge. 'Ke' begins with contact, land's firm presence. Then 'ri' ripples with water's approach. Finally 'me' holds the meeting, the place where both belong.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Shores teach the fluidity of boundaries—where does water end and land begin? The edge shifts with each wave.",
     "pre-industrial-wisdom": "Shores were rich zones for gathering—shellfish, seaweed, driftwood, the gifts deposited where elements meet."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Water-land boundary",
     "spatial": "Liminal meeting zone"
   }

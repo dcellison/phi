@@ -7,9 +7,7 @@
     "she",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Whisper / Speech Under the Breath",
   "description": "To whisper: to speak in breath instead of voice, so the words reach one listener and let the night alone. Secrets at bedtime, games after the lamp is lit, comfort at a sickbed, the voice's way of standing close. 'Whishela' is the quietest complete speech, talk that has taken off its shoes.",
   "sound_symbolism": "The word is made of the sounds whispering is made of: 'wh' /ʍ/ pure breath, 'sh' /ʃ/ the hush itself, and only then 'la', the small flow of what gets said. Spoken aloud it barely rises above its own meaning; it cannot be shouted without stopping being itself.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Speech practiced at the threshold of silence; the whisper keeps the quiet it enters.",
     "peace-linguistics-practices": "The gentlest register of speech given its own word: communication scaled down to exactly one trusted hearer."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The voice standing close",
     "dialogue": "Speech made of breath"
   }

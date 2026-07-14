@@ -7,9 +7,7 @@
     "ke",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Abstain / Formally Register No Selection",
   "description": "To formally register no selection, a deliberate choice distinct from refusal, from disagreement, and from simply being absent. Abstaining still counts as participating in the vote, just without taking a side.",
   "sound_symbolism": "'Ma' begins with a full meeting of the lips and opens onto broad 'a', an audible stance rather than silence. Stressed 'ke' adds a clean velar contact before liquid 'lu' releases the tongue into deep flow. The last two syllables recall 'kelu' (become), while the whole word gives nonselection a shape the mouth must actively make.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Abstention makes deliberate non-selection possible without forcing uncertainty, reservation, or principled withholding into a false binary stance.",
     "peace-linguistics-practices": "Recording abstention separately from agreement and absence protects dissent while preventing others from assigning the silent participant a position."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "formally registering no selection in a procedure",
     "community": "an abstention distinct from absence, refusal, and exclusion"
   },

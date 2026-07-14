@@ -6,9 +6,7 @@
     "thi",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Put / Place / Position",
   "description": "To place something deliberately in a specific location—the act that completes carrying or holding, setting an object where it belongs. Putting differs from dropping or releasing in that it chooses the place. Related: 'thola' (bring), 'kolua' (carry), 'pilu' (take).",
   "sound_symbolism": "'Thi' opens with the soft dental fricative /θ/—the controlled approach of hand to surface. 'Nu' settles the word: the nasal grounds the object and the closed 'u' ends the motion, release followed by rest.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Placing an object with full attention is a small, repeatable practice: the hand releases, the object rests, the action completes. Putting things down deliberately trains letting go.",
     "peace-linguistics-practices": "'Thinu' frames placement as arrangement rather than disposal—an object is put where it belongs, not discarded. The word favors care over carelessness in the most ordinary of acts."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "deliberate action of positioning objects",
     "spatial": "establishing specific location and arrangement in space",
     "wisdom": "mindful intention in determining proper placement"

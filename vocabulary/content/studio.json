@@ -7,9 +7,7 @@
     "e",
     "wi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Studio / Artist's Workspace / Creative Space",
   "description": "A room where an artist, photographer, or musician works; a space dedicated to creative work. 'Phaewi' names where art emerges—light arranged, materials waiting, creativity invited.",
   "sound_symbolism": "The word opens to creation. 'Pha' /ɸa/ begins with generative breath, creativity stirring. The vowel 'e' opens to possibility. Then 'wi' welcomes with expansive space, studio ready.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Studios nurture vision—spaces where the imagination of better futures takes visible form.",
     "art-nouveau-aesthetics": "Studios birthed beauty—spaces where artists developed the flowing forms and natural motifs of the movement."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Art place",
     "spatial": "Creative space"
   },

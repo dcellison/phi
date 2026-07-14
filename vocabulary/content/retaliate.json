@@ -7,9 +7,7 @@
     "pe",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Retaliate / Impose Harm in Response to Protected or Contested Action",
   "description": "To impose a disadvantage in response to something the person did before it: a report, a refusal, a claim. Timing alone never proves retaliation; the triggering act, the harm, and who held the power to impose it all need to be shown.",
   "sound_symbolism": "Rounded, unvoiced 'whe' begins with breath drawn back through the lips. Stressed 'pe' interrupts it with a small closure, while final 'lo' releases the tongue into a low round flow. Those last two syllables also open 'peloma' (harmful). The contour returns through shaped breath, meets force, and leaves in a darker flow.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Commons cannot remain participatory when reporting hazards, refusing work, appealing decisions, or criticizing stewardship exposes people to hidden institutional punishment.",
     "peace-linguistics-practices": "Naming retaliation makes delayed and indirect harm discussable without presuming that every adverse consequence was intentional or causally connected."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "imposing a disadvantage in response to a stated prior action",
     "community": "retaliation through a social or institutional power relation"
   }

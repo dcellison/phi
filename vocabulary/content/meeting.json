@@ -6,9 +6,7 @@
     "lo",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Meeting / Gathering / Coming Together",
   "description": "An assembly of people for a purpose; the event of coming together. 'Lona' names when paths converge—the moment of shared presence.",
   "sound_symbolism": "The word gathers simply. 'Lo' opens with welcoming space, gathering beginning. 'Na' settles with grounded arrival, people present.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Meeting as presence—coming together with full attention to one another.",
     "peace-linguistics-practices": "Meeting as dialogue—the gathering where voices can be heard and decisions made together."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Assembly event",
     "dialogue": "Shared gathering"
   }

@@ -7,9 +7,7 @@
     "he",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Grieve / Mourn / Carry Sadness Within",
   "description": "To grieve or mourn: the sustained, living form of sadness that follows loss. Built visibly on 'nuhe' (sadness) plus the inward 'mi': grieving as carrying sadness within oneself, over time, as a practice rather than a single feeling. The derivation teaches itself — anyone who knows 'nuhe' can read 'nuhemi'.",
   "sound_symbolism": "It begins as 'nuhe' begins — the grounded nasal sinking into the deepest vowel, the exhale through 'he' — but where sadness breathes out and ends, grief turns inward: the final 'mi' is the self, holding. Sadness carried, not dropped. The word is one syllable longer than 'nuhe' because grief lasts longer than sadness.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Communities that can speak grief can share it. A dedicated word invites condolence, ritual, and accompaniment instead of silence.",
     "pre-industrial-wisdom": "Mourning was structured time — worn, sung, and accompanied. The word honors grief as a season, not an inconvenience."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "The sustained carrying of sadness after loss",
     "ritual": "The practice and season of mourning"
   }

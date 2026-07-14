@@ -6,9 +6,7 @@
     "na",
     "wo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Agree / Reach Accord / Settle Together on One View",
   "description": "To agree: two people arriving at the same position after honest exchange. The verb of accord — stronger than politeness, weaker than promise ('seru', commit). Its natural frame follows discussion: 'shareo' then 'nawo'.",
   "sound_symbolism": "Grounded 'n', open 'a', and 'wo' — a shared settling, two weights coming to rest on the same point.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Agreement is the destination of dialogue, and a language for peace needs the verb that names arrival — distinct from compliance, which Phi deliberately has no word for.",
     "pre-industrial-wisdom": "The village decision was made when the circle agreed — accord as the unit of governance older than any vote."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Accord between people",
     "dialogue": "Where honest exchange arrives"
   }
