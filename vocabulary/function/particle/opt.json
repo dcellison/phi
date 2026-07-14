@@ -7,14 +7,23 @@
   ],
   "slot": 0,
   "pos": "particle",
-  "concept": "Wish / Hope / Prayer",
-  "description": "A clause-initial particle that frames statements as hopes, wishes, or prayers. Unlike commands that impose will or questions that seek information, 'su' releases desires into the world with open hands, acknowledging that the deepest hopes require receptivity rather than force.",
-  "sound_symbolism": "The particle begins with 's', the soft sibilant that flows like a whispered prayer or gentle aspiration. This breath of hope meets 'u', the deep back vowel that resonates in the chest where hopes are held. Together, 'su' creates a sound like a sigh of longing—neither demanding nor grasping, but releasing desire with trust. The acoustic gentleness ensures that even the strongest wishes avoid becoming desperate claims, maintaining the spiritual quality of hope that knows how to wait.",
-  "grammatical_notes": "Occupies Slot 0, transforming entire clauses into optative expressions. Unlike 'he' which marks unreality, 'su' marks desired reality—what the speaker hopes might come to be. Can express wishes for oneself, others, or situations. Often used in blessings, ceremonial language, and expressions of goodwill: 'su sila towe nai' (may the community be well). The particle maintains its hopeful quality regardless of whether the wish seems likely or unlikely to be fulfilled.",
+  "search_terms": [
+    "wish",
+    "hope",
+    "prayer",
+    "blessing"
+  ],
+  "description": "Optative 'su' tells the listener that the clause expresses a wish, hope, prayer, or blessing rather than an assertion. The hope may concern any being or circumstance, regardless of how likely it is. The particle voices desire but assigns no one an action.",
+  "articulatory_notes": "Shape a narrow central groove at the gum ridge for 's', and keep unvoiced air moving. Carry that airflow on as the rear tongue surface lifts and the rounded lips narrow for 'u'. The particle has one stressed syllable.",
+  "sound_symbolism": "The breath runs continuously from 's' into the rounded finish of 'u'. That contour can recall a hope released into speech rather than pressed into a command.",
+  "usage_notes": "A complete optative clause begins with 'su'. Unlike 'no' (IMP), it states what the speaker hopes will occur, while 'no' directs an action. English translations often begin with 'may' or 'I hope'; the clause decides which sounds natural.",
+  "examples": [
+    {
+      "phi": "su sila towe nai.",
+      "translation": "May the community be well."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building better futures requires the ability to imagine and wish for what doesn't yet exist. 'Su' creates grammatical space for aspirational thinking, for expressing the hopes that guide action toward regenerative possibilities.",
-    "secular-buddhist-philosophy": "The particle embodies the practice of aspiration without attachment—expressing hopes while maintaining equanimity about outcomes. Like the bodhisattva vow that aspires to impossible compassion, 'su' enables wishes that inspire action without demanding results.",
-    "peace-linguistics-practices": "By transforming potential demands into wishes, 'su' reduces linguistic violence. Instead of 'you must help me,' we can say 'su thia mia naphe' (may you help me), maintaining dignity while expressing need through hope rather than command.",
-    "pre-industrial-wisdom": "Traditional prayers and blessings understand that speaking hopes aloud has power—not to compel but to align community intention. 'Su' carries this understanding that collective wishes, gently held, can shape reality through patient cultivation rather than force."
+    "peace-linguistics-practices": "The optative keeps hope separate from a directive. A speaker can wish for another person's action or well-being while leaving that wish outside the imperative."
   }
 }

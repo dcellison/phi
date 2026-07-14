@@ -7,13 +7,21 @@
   ],
   "slot": 0,
   "pos": "particle",
-  "concept": "Request / Imperative / Gentle Command",
-  "description": "A clause-initial particle that frames statements as requests or gentle directives. Rather than commanding through force, 'no' transforms potential demands into invitations for cooperative action, acknowledging the agency of the listener even while expressing need or desire.",
-  "sound_symbolism": "The particle begins with 'n', a grounding nasal that creates connection through resonance—vibrating through bone to link speaker and listener. This connective beginning opens into 'o', the round vowel of wholeness and inclusion. Together, the sounds create a request that includes rather than imposes: the 'n' establishes relationship while the 'o' leaves space for response. The combination avoids the harsh stops or sibilants that might make commands feel like attacks, instead creating a sound that feels like an opening hand rather than a pointing finger.",
-  "grammatical_notes": "Occupies Slot 0, appearing at the beginning of clauses to mark imperative mood: 'no lumani naphe' (Help the family.) Unlike true imperative forms that exist in many languages, 'no' maintains the full sentence structure—the verb remains in its base form and subjects can be explicitly stated. Can combine with 'pi' (politeness), which comes first, for especially gentle requests: 'pi no lumani naphe' (Please help the family.) The particle's scope extends over the entire clause, transforming all that follows into a request.",
+  "search_terms": [
+    "imperative",
+    "command",
+    "request"
+  ],
+  "description": "Imperative 'no' makes the following clause a directive, either a command or a request for action. It makes that force audible; whether the act is gentle still depends on who speaks to whom and under what circumstances. The separate particle 'pi' (POL) adds politeness in the order 'pi no'.",
+  "articulatory_notes": "Set the tongue tip against the back surfaces of the upper teeth and keep voicing through the nose for dental 'n'. Release the contact, lower it, and add lip rounding for true-mid 'o'. Stress covers the whole particle.",
+  "usage_notes": "An ordinary directive begins with 'no', and the verb keeps its usual form. The subject may be spoken when it matters. Adding 'pi' changes the courtesy, not the directive force.",
+  "examples": [
+    {
+      "phi": "no lumani naphe.",
+      "translation": "Help the family."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies Right Speech in its most practical form—acknowledging that we must sometimes ask others to act while respecting their autonomy. The grounding 'n' reminds speakers that requests arise from interconnection, not hierarchy.",
-    "peace-linguistics-practices": "By requiring a particle for imperatives rather than having a special verb form, Phi makes commands structurally marked and therefore more conscious. The soft sounds of 'no' ensure that even urgent requests avoid verbal violence, transforming potential commands into invitations for collaboration.",
-    "pre-industrial-wisdom": "Traditional communities often framed necessary actions as collective needs rather than individual commands. 'No' carries this wisdom, making requests that acknowledge shared purpose rather than imposing individual will."
+    "peace-linguistics-practices": "The particle puts directive force in the grammar rather than leaving it to tone. That clarity makes a command easier to recognise and answer, while leaving its ethics to the relationship and situation."
   }
 }

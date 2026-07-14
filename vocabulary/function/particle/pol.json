@@ -7,13 +7,26 @@
   ],
   "slot": 0,
   "pos": "particle",
-  "concept": "Politeness / Respect / Mindful Care",
-  "description": "A clause-initial particle that adds a layer of conscious care to an utterance. 'Pi' marks consideration for the listener, a politeness of attention rather than rank, and softens whatever follows.",
-  "sound_symbolism": "The particle begins with 'p', a soft plosive that creates the gentlest possible burst of sound—lips meeting briefly before releasing breath with care. This meets 'i', the highest, brightest vowel, lifted and light like a smile in sound. Together, 'pi' creates an acoustic gesture of consideration: the careful release of 'p' shows restraint while the bright 'i' adds warmth. The sound itself performs politeness, requiring speakers to shape their mouths into something approaching a smile.",
-  "grammatical_notes": "Occupies Slot 0, appearing at the beginning of clauses to mark politeness. Can combine with other Slot 0 particles, most commonly 'no' to create 'pi no' (polite requests). Unlike honorific systems that encode social hierarchy, 'pi' marks universal consideration—used regardless of relative status. The particle's scope extends over the entire utterance, softening whatever follows.",
+  "search_terms": [
+    "politeness",
+    "please",
+    "respectful speech"
+  ],
+  "description": "The politeness particle 'pi' marks the whole utterance as considerate or respectful. It can soften a statement, question, or directive while preserving that clause's basic force. Phi uses the same particle across relationships rather than encoding a rank between speaker and listener.",
+  "articulatory_notes": "Bring the lips together for unvoiced 'p', then release them into high-front unrounded 'i'. The sole syllable is stressed.",
+  "sound_symbolism": "The brief closure gives the speaker a tiny preparation before the clean release. In Phi, the movement recalls the care taken before an utterance.",
+  "usage_notes": "When Slot 0 markers combine, 'pi' leads: 'pi wa' makes a polite question and 'pi no' a polite directive. It may also soften a declaration on its own. Courtesy describes the speaker's manner; the other person's consent and the speaker's authority remain separate questions.",
+  "examples": [
+    {
+      "phi": "pi no thepalu naphe.",
+      "translation": "Please help with the garden."
+    },
+    {
+      "phi": "pi wa thia po shua.",
+      "translation": "Could you please come?"
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies Right Speech through structural mindfulness. Like adding a moment of meditation before speaking, 'pi' creates a pause for intention, reminding speakers that words have power and should be offered with care.",
-    "peace-linguistics-practices": "By providing a universal politeness marker rather than hierarchical honorifics, 'pi' makes respect egalitarian. Every use reinforces the practice of mindful communication, making consideration a conscious choice rather than automatic social reflex.",
-    "pre-industrial-wisdom": "Traditional communities maintained harmony through elaborate courtesy protocols—greetings, acknowledgments, ritual phrases. 'Pi' carries this wisdom that social fabric requires constant gentle maintenance through mindful speech."
+    "peace-linguistics-practices": "The particle makes courtesy available to every listener, with no above or below encoded between them and the speaker. Since it preserves clause force, a polite proposal still waits for an answer."
   }
 }

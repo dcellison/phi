@@ -7,14 +7,22 @@
   ],
   "slot": 0,
   "pos": "particle",
-  "concept": "If / Conditional / Possibility",
-  "description": "A clause-initial particle that introduces conditional clauses: 'if'. It marks the situation described as dependent on circumstances, and the condition is stated before the outcome that hangs on it.",
-  "sound_symbolism": "The particle consists of 'l', the most fluid consonant—the tongue barely touching, allowing sound to flow around it like water finding its path. This liquid quality meets 'u', the deep back vowel that suggests hidden depths and unexplored possibilities. Together, 'lu' sounds like possibility itself: fluid, deep, able to flow in multiple directions. The sound avoids the sharpness of certainty, instead creating an acoustic space where alternatives can coexist until conditions resolve them.",
-  "grammatical_notes": "Occupies Slot 0, marking the beginning of conditional clauses. Introduces realis conditions by default—situations that could actually occur. Combines with 'he' to form 'lu he' for irrealis/counterfactual conditions. Following the modifier-first principle, the conditional clause always precedes the main clause: 'lu thia naphe. mia towe phaelo.' (If you help, I feel well.) Creates a grammatical space for exploring consequences without committing to their reality.",
+  "search_terms": [
+    "conditional",
+    "if",
+    "realis condition"
+  ],
+  "description": "Conditional 'lu' opens an if-clause treated as a live possibility. Phi places that condition in its own sentence before the consequence. Conditions contrary to fact take the pair 'lu he' (COND IRR).",
+  "articulatory_notes": "Touch the alveolar ridge with the tip of the tongue for voiced lateral 'l'. Let voice travel around both sides. For 'u', lift the tongue body towards the soft palate while rounding the lips. Stress sits on this monosyllable.",
+  "sound_symbolism": "Because 'l' never closes the airflow, the voice runs cleanly into 'u'. The continuous motion is a useful Phi mnemonic for an if-clause whose consequence remains open.",
+  "usage_notes": "At the absolute beginning, 'lu' scopes over the condition alone. Its final verb closes that sentence, and the consequence begins another with ordinary word order.",
+  "examples": [
+    {
+      "phi": "lu pheralu lepa. lo mia mua womu therilu.",
+      "translation": "If rain falls, we rest at home."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Adaptive design requires conditional thinking—if climate patterns shift, if resources become scarce, if communities grow. 'Lu' enables scenario planning essential for resilient systems that can respond to changing conditions rather than breaking under them.",
-    "secular-buddhist-philosophy": "The particle embodies the Buddhist understanding of dependent origination—nothing exists independently but arises from conditions. 'Lu' grammaticalizes this teaching, making every conditional statement a reminder that reality emerges from interconnected circumstances rather than absolute causes.",
-    "peace-linguistics-practices": "Conditional statements create space for negotiation—'if we can agree on this, then we can move forward.' 'Lu' transforms ultimatums into possibilities, enabling dialogue that explores options rather than demanding submission.",
-    "pre-industrial-wisdom": "Traditional knowledge systems excel at conditional thinking—if the rains come early, if the birds migrate south, if the ice holds. 'Lu' carries this practical wisdom of living with uncertainty, planning for possibilities rather than demanding guarantees."
+    "secular-buddhist-philosophy": "With 'lu', the circumstance is spoken before the outcome attributed to it. The order keeps dependence visible yet claims no inevitability."
   }
 }
