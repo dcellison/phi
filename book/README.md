@@ -8,7 +8,7 @@ Phi already has a primer for learning and a manual for checking the machinery. T
 
 The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word. Where the research says "small," this book says small too.
 
-Seven chapters are available now. Chapter 11 has arrived before chapter 6, which is deliberate if slightly discourteous: the language-and-thought chapter was drafted early because it tests the book's hardest empirical claims. The gaps are unwritten chapters, and every published chapter may still change as the rest of the argument takes shape.
+Eight chapters are available now. Chapter 11 has arrived before chapter 7, which is deliberate if slightly discourteous: the language-and-thought chapter was drafted early because it tests the book's hardest empirical claims. The gaps are unwritten chapters, and every published chapter may still change as the rest of the argument takes shape.
 
 ## Read the current chapters
 
@@ -18,6 +18,7 @@ Seven chapters are available now. Chapter 11 has arrived before chapter 6, which
 - [Chapter 3: The invented century](03_the_invented_century.md)
 - [Chapter 4: Announce, then deliver](04_announce_then_deliver.md)
 - [Chapter 5: The web](05_the_web.md)
+- [Chapter 6: What it will not say](06_what_it_will_not_say.md)
 - [Chapter 11: The lens, not the cage](11_the_lens_not_the_cage.md)
 
 Start at the river to read in order. Start with chapter 11 if you would rather inspect the evidence before trusting the premise; the boatman will wait.
