@@ -45,7 +45,7 @@ python3 scripts/generate_reference.py
 
 ## build_site.py
 
-Builds the complete deployment tree under `build/site/`. It copies the maintained assets from `site/`, generates the explorer's vocabulary and compound data, and renders the primer, manual, book, texts, and pamphlets. Optional module metadata powers the explorer's module filter, nested Part VII module chapters appear in the manual site, and registered compounds appear in search results and on their member words' entries.
+Builds the complete deployment tree under `build/site/`. It copies the maintained assets from `site/`, generates the explorer's vocabulary and compound data, and renders the primer, manual, book, texts, and pamphlets. Optional module metadata powers the explorer's module filter, nested Part VII module chapters appear in the manual site, and registered compounds appear in search results and on their member words' entries. The ordered reading shelves and their display metadata come from `texts/catalogue.json` and `pamphlets/catalogue.json`; the build rejects catalogue entries that drift from the content directories.
 
 ```bash
 python3 scripts/build_site.py

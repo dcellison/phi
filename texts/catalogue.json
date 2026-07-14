@@ -1,0 +1,95 @@
+{
+  "works": [
+    {
+      "path": "metta_sutta.md",
+      "kind": "short",
+      "title": "lothea thole \u2014 The Practice of Love",
+      "method": "Translation",
+      "summary": "The first text written in Phi: the Metta Sutta followed through all ten verses, with each source claim and image given a place in the language."
+    },
+    {
+      "path": "solarpunk_manifesto.md",
+      "kind": "short",
+      "title": "sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto",
+      "method": "Translation",
+      "summary": "The Solarpunk Community's five opening paragraphs and 22 propositions in close Phi translation. Political claims, aesthetic references, and practical proposals stay aligned to the licensed source."
+    },
+    {
+      "path": "north_wind_and_sun.md",
+      "kind": "short",
+      "title": "nitho howeli nela sileta \u2014 The North Wind and the Sun",
+      "method": "Translation + transmutation",
+      "summary": "One familiar fable in two Phi renderings: a close translation for hearing the language, followed by a transmutation and a comparison through the five pillars."
+    },
+    {
+      "path": "human_rights_article_one.md",
+      "kind": "short",
+      "title": "theula miona \u2014 Article 1 of the Universal Declaration of Human Rights",
+      "method": "Translation + transmutation",
+      "summary": "Article 1 in two Phi renderings: a close translation preserves rights and conscience, then a transmutation turns toward recognized entitlement and reciprocal kind conduct."
+    },
+    {
+      "path": "babel_text.md",
+      "kind": "short",
+      "title": "ta haluma \u2014 the Babel text",
+      "method": "Translation + transmutation",
+      "summary": "Genesis 11:1-9 in two Phi renderings: a close translation preserves confounding and forced dispersal, while the transmutation reads scattering as sowing and every language as a garden."
+    },
+    {
+      "path": "ring_verse_refusal.md",
+      "kind": "short",
+      "title": "naweri \u2014 the Ring Verse, refused",
+      "method": "Transmutation",
+      "summary": "A refusal that names coercion and imposed tying while declining to make ruler or lord ordinary Phi roles."
+    },
+    {
+      "path": "schleicher_fable.md",
+      "kind": "short",
+      "title": "mophira nela lo kalora \u2014 Schleicher's fable",
+      "method": "Translation + transmutation",
+      "summary": "Schleicher's 1868 test text in two Phi renderings: a close translation retains the master claim, while a transmutation names coercion and exploitation without granting the title."
+    },
+    {
+      "path": "little_prince_excerpts.md",
+      "kind": "short",
+      "title": "thiku miona lue silero \u2014 from The Little Prince",
+      "method": "Transmutation",
+      "summary": "Three excerpts in which the source title keeps its prince, the Phi title describes a small person from the stars, and taming becomes mutual bond."
+    },
+    {
+      "path": "velveteen_rabbit.md",
+      "kind": "short",
+      "title": "wuloe wetha tupiwa \u2014 The Velveteen Rabbit",
+      "method": "Transmutation",
+      "summary": "Williams's full story, with Real learned through love and the hard scenes of disability, fever, contamination, coercion, burning, and return stated plainly."
+    },
+    {
+      "path": "prophet_excerpts.md",
+      "kind": "short",
+      "title": "phewo phelui \u2014 from The Prophet",
+      "method": "Translation + transmutation",
+      "summary": "Three selected teachings by Gibran. On Children appears in two forms: the close translation retains the bow and arrow, while the transmutation gives their motion to a tree and its wind-carried seed."
+    },
+    {
+      "path": "tao_te_ching.md",
+      "kind": "short",
+      "title": "keiro \u2014 from the Tao Te Ching",
+      "method": "Translation + transmutation",
+      "summary": "Five Legge chapters in two Phi renderings. The close translation covers every proposition in those chapters; the transmutation stays with household images and recasts authority and force."
+    },
+    {
+      "path": "heart_sutra.md",
+      "kind": "short",
+      "title": "nulo sano korua \u2014 the Heart Sutra",
+      "method": "Translation + transmutation",
+      "summary": "The smaller Heart Sutra in M\u00fcller's 1894 English, rendered twice in Phi: completed crossing in the translation and a communal wish in the transmutation."
+    },
+    {
+      "path": "news_from_nowhere",
+      "kind": "book",
+      "title": "nophi lue mawha lokue \u2014 News from Nowhere",
+      "method": "Transmutation",
+      "summary": "Morris's novel is one work in 32 chapters. The chapters on the shelf carry its political argument from a winter meeting into a changed London and cite the source witness stored beside them."
+    }
+  ]
+}
