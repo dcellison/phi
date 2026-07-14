@@ -7,13 +7,21 @@
     "no"
   ],
   "pos": "interrogative",
-  "concept": "When / Which Time",
-  "description": "The interrogative for inquiring about temporal location—when something occurs, occurred, or will occur. Rather than demanding precise timestamps, 'weno' opens inquiry into the flowing nature of time, acknowledging that 'when' often matters less as quantity than as quality, season, and readiness.",
-  "sound_symbolism": "The word begins with 'we', where the flowing 'w' embodies time's liquid nature—not rigid segments but continuous flow. The mid-front vowel 'e' suggests a specific point within this flow, like noting a leaf's position in a stream. This flows into 'no', with its grounding nasal 'n' and open 'o', acknowledging that temporal points exist within larger cycles and contexts. The sound progression from flow to point to cycle mirrors how temporal questions seek specific moments while recognizing their embeddedness in larger patterns.",
-  "grammatical_notes": "Functions as an interrogative adverb of time, covering past, present, and future temporal inquiries without modification. Can ask about point-in-time, duration, or frequency depending on context. Often appears with aspect particles to clarify the temporal relationship being queried. Does not distinguish between clock-time and event-time. Example: 'thia weno shua' (When do you come?).",
-  "pillars": {
-    "solarpunk-values": "Sustainable futures require temporal awareness—when to plant, when to rest, when systems regenerate. 'Weno' serves this ecological timing that aligns human activity with natural rhythms rather than imposing industrial schedules.",
-    "secular-buddhist-philosophy": "In Buddhist analysis, time is empty of inherent existence yet is where karma unfolds. 'Weno' asks for a moment without treating the moment as a real boundary—a point named for convenience within continuous flow.",
-    "pre-industrial-wisdom": "Before mechanical clocks, 'when' was answered by natural rhythms—dawn, harvest, moon phases, migrations. 'Weno' carries this organic temporality, asking about time in relation to natural cycles rather than arbitrary divisions."
-  }
+  "search_terms": [
+    "what time",
+    "time question"
+  ],
+  "description": "'weno' asks when an event happens or a state holds. Its answer might name a moment, a season, a period, or another event that locates it in time. Questions of duration and frequency need quantity expressions instead.",
+  "articulatory_notes": "Give 'w' voice while the lips round and the rear tongue rises. Unround for the pure front vowel 'e'. The tongue stays midway between high and low. For dental 'n' set the tip against the upper teeth and continue its voice through the nasal cavity; finish with true-mid back 'o' and renewed lip rounding. Accent falls on 'we'.",
+  "usage_notes": "'weno' takes the temporal expression's place. The yes-or-no marker 'wa' (Q) stays out. Tense and aspect remain with the predicate; the same interrogative works for past, present, and future.",
+  "examples": [
+    {
+      "phi": "thia weno shua.",
+      "translation": "When do you come?"
+    },
+    {
+      "phi": "shia weno to wepu.",
+      "translation": "When did they leave?"
+    }
+  ]
 }

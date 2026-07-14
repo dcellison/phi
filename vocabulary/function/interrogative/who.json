@@ -7,13 +7,22 @@
     "a"
   ],
   "pos": "interrogative",
-  "concept": "Who / Which Person",
-  "description": "The interrogative for inquiring about personal identity, seeking to know which individual or individuals are involved. Unlike demanding identification, 'sua' opens a space for self-revelation, transforming the potential violence of 'who goes there?' into the gentleness of 'who are you?'",
-  "sound_symbolism": "The soft sibilant 's' makes a searching sound, awareness reaching out into social space. The back vowel 'u' sits deep in the mouth while the other person is still unknown. Then 'a' opens fully, leaving acoustic room for the answer. The word moves from closed to open, from not knowing to receiving.",
-  "grammatical_notes": "Functions as an interrogative pronoun, able to serve as subject, object, or within prepositional phrases. Unlike English, does not distinguish between subjective 'who' and objective 'whom'—maintaining grammatical equality regardless of syntactic position. Can refer to singular or plural referents without modification. In indirect questions, maintains the same form without the interrogative particle 'wa'. Example: 'sua lothea shelomu' (Who understands love?).",
-  "pillars": {
-    "solarpunk-values": "In communities of mutual aid and collaboration, knowing who participates becomes less about surveillance and more about connection. 'Sua' serves this collaborative knowing, asking about identity to build relationship rather than establish hierarchy.",
-    "secular-buddhist-philosophy": "Asking 'who' presumes a self, and Buddhist analysis treats the self as constructed. 'Sua' keeps the question practical: one can ask which person is involved without fixing who they are.",
-    "peace-linguistics-practices": "By beginning with soft sounds rather than harsh stops, 'sua' makes inquiry gentle rather than aggressive. It embodies the practice of asking about identity in ways that invite rather than interrogate, that honor the sovereignty of others to name themselves."
-  }
+  "search_terms": [
+    "whom",
+    "which person"
+  ],
+  "description": "'sua' fills the unknown person's place in a question. English translates it as who or whom, whether that person acts, receives an action, or follows a preposition. For a non-person, Phi asks with 'hina' (what).",
+  "articulatory_notes": "For 's', raise the tongue blade toward the gum ridge without contact; unvoiced air hisses along the centre. Round both lips around high-back 'u'. Break the vowel sequence by dropping the jaw onto central 'a' after the syllable boundary. Accent 'su'.",
+  "sound_symbolism": "A narrow hiss and rounded vowel open onto 'a' in its own syllable. The widening can help a learner remember that the clause has made room for a person.",
+  "usage_notes": "The word occupies exactly the position its answer would take. Its presence makes the clause a content question. 'wa' (Q) belongs only to a yes-or-no question and never joins it. Context or the answer supplies number, while 'sua' stays unchanged.",
+  "examples": [
+    {
+      "phi": "sua shua.",
+      "translation": "Who comes?"
+    },
+    {
+      "phi": "thia sua nila.",
+      "translation": "Whom do you see?"
+    }
+  ]
 }

@@ -7,14 +7,24 @@
     "a"
   ],
   "pos": "interrogative",
-  "concept": "How Many / How Much / What Quantity",
-  "description": "The interrogative for asking what quantity is at issue, whether the referent is countable or a mass. 'Wia' does not demand an exact answer: the response may be an exact numeral, a bare-scale estimate, a quantifier, or a statement that the quantity is unknown or unavailable.",
-  "sound_symbolism": "The word begins with 'wi', echoing the numeral 'wi' (two), and opens into a separate 'a'. That link to the numeral inventory and the open final vowel can serve as a mnemonic for a quantity question; the sounds do not make the request precise, gentle, or non-coercive.",
-  "grammatical_notes": "Functions as an interrogative for quantity, typically preceding classifiers or nouns: 'wia himo miona' (how many people?), 'wia lipha shiro' (how many trees?). With mass nouns, asks about amount rather than count: 'wia phialu' (how much water?). Can stand alone when context makes the referent clear. Answers may be precise numerals, quantifiers (sheloi, soli), or approximations. Does not distinguish between countable 'how many' and uncountable 'how much'—context and the noun determine interpretation.",
-  "pillars": {
-    "solarpunk-values": "Questions about material and energy flows can inform regenerative design and ecological limits. 'Wia' supplies the quantity question, while units, methods, uncertainty, ownership of data, and consequences must be stated or examined separately.",
-    "secular-buddhist-philosophy": "A quantity question can open discussion of sufficiency, consumption, and accumulation. It does not make the inquiry mindful or establish what is enough.",
-    "peace-linguistics-practices": "Quantity questions can support planning and fair distribution, but they can also function as demands or surveillance. 'Wia' is neutral about the questioner's authority and the respondent's obligation or right to answer.",
-    "pre-industrial-wisdom": "Planting, harvesting, storing, building, and provisioning all require practical judgments about quantity. 'Wia' names the question without reducing diverse traditional systems to one method of counting or planning."
-  }
+  "search_terms": [
+    "how much",
+    "what quantity",
+    "quantity question",
+    "number question"
+  ],
+  "description": "'wia' leaves a quantity gap for countable things and masses alike. An exact numeral, a bare-scale estimate, a quantifier, or a statement that the quantity is unknown can answer it. Before a noun, 'hina' (what) asks which one or kind; 'wia' asks how many or how much.",
+  "articulatory_notes": "Round the lips as voiced 'w' begins; the back of the tongue remains high. Glide forward to unrounded high 'i'. Preserve the hiatus with a direct opening into central 'a' as a new syllable. Accent 'wi'.",
+  "sound_symbolism": "The opening syllable is also the complete numeral 'wi' (two), a useful audible mnemonic for a quantity question. The final 'a' opens away from the numeral's high front vowel.",
+  "usage_notes": "'wia' comes before the noun being counted or measured. One of Phi's four classifiers may appear between them, though the classifier remains optional. The word can occur alone when the referent is already clear. It cannot share its clause with 'wa' (Q).",
+  "examples": [
+    {
+      "phi": "thia wia torua phelu.",
+      "translation": "How old are you?"
+    },
+    {
+      "phi": "thia wia phialu phelu.",
+      "translation": "How much water do you have?"
+    }
+  ]
 }
