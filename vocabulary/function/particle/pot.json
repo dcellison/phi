@@ -8,13 +8,18 @@
   "slot": 1,
   "slot1_rank": "modality",
   "pos": "particle",
-  "concept": "Can / May / Possibility",
-  "description": "A modal particle marking an action as possible rather than certain—ability, permission, or potential, with context deciding which. It covers the ground between the impossible and the necessary.",
-  "sound_symbolism": "The particle begins with 'p', the softest plosive that opens gently—lips parting to release possibility rather than forcing certainty. This opening meets 'o', the round vowel of spaciousness and wholeness. Together, 'po' sounds like potential itself: the gentle 'p' suggests emergence without insistence while the open 'o' creates room for various outcomes. The sound's softness reflects possibility's nature—present but not pressing, available but not demanding.",
-  "grammatical_notes": "Occupies Slot 1 in the modality position: after tense, aspect, voice, and evidential particles, before negation. Expresses various types of possibility: ability ('can do'), permission ('may do'), and potential ('might happen'). Context distinguishes between these meanings. Combines with other particles for nuanced modality: 'to po' (could have/was able to), 'so po' (will be able to). Maintains positive possibility—impossibility uses negation after the modal: 'po ma' (cannot).",
-  "pillars": {
-    "solarpunk-values": "Building better futures requires believing in possibility—that current systems can change, that regeneration can happen. 'Po' creates grammatical space for hope grounded in capability rather than mere wishes.",
-    "secular-buddhist-philosophy": "The particle embodies the Middle Way between extremes of determinism and randomness. Like the Buddhist understanding that phenomena arise when conditions align, 'po' acknowledges that possibility depends on circumstances—neither guaranteed nor forbidden.",
-    "peace-linguistics-practices": "By expressing capability without compulsion, 'po' enables empowering communication. Instead of commanding what must be done, we can explore what could be done, inviting agency rather than imposing obligation."
-  }
+  "search_terms": [
+    "possibility",
+    "can",
+    "may"
+  ],
+  "description": "Modal 'po' presents an event as something that can or may occur. Context decides whether the opening comes from ability, permission, or circumstances. The modal 'na' (NEC) asserts necessity instead.",
+  "articulatory_notes": "Closed lips release 'p' into rounded true-mid 'o'. The entire particle fits in one stressed syllable.",
+  "usage_notes": "The modal rank lies between evidentiality and negation. 'To po' moves possibility into the past, 'so po' into the future, and 'po ma' denies possibility: cannot. Only one modal particle belongs in a clause.",
+  "examples": [
+    {
+      "phi": "mia po theo.",
+      "translation": "I can read."
+    }
+  ]
 }
