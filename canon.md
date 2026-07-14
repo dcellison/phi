@@ -26,9 +26,7 @@ the list must be corrected to match anything higher.
    current language. (The six narrative grammar chapters were dissolved
    into the manual, July 2026.)
 
-`documents/development_protocol.md` is the working protocol for language
-development and should always reflect (1)–(3); `CLAUDE.md` is a thin
-tool shim that points at it.
+`project/development_protocol.md` is the working protocol for language development and should always reflect (1) through (3); `CLAUDE.md` is a thin tool shim that points at it.
 
 ## Settled decisions (2026-07 / Phi 2026.2)
 

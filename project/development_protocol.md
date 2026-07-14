@@ -3,7 +3,7 @@
 ## Overview
 Phi is a philosophical constructed language for reflective writing and discussion. It is not intended as a universal auxiliary language. Its phonology, grammar, lexicon, and teaching practices invite deliberate, cooperative communication; these are design intentions to test in use, not guarantees about what the language does to a speaker.
 
-This protocol binds the maintainer and anyone contributing to the language: coining words, extending grammar, or writing its documents. The authority order for every claim is `/canon.md`. While Phi has one maintainer, significant choices are recorded in `documents/development_log.md`; a public RFC process is deferred until recurring users make one useful.
+This protocol binds the maintainer and anyone contributing to the language: coining words, extending grammar, or writing its documents. The authority order for every claim is `/canon.md`. While Phi has one maintainer, significant choices are recorded in `project/development_log.md`; a public RFC process is deferred until recurring users make one useful.
 
 ## The Organizing Principle: Modifier-First
 
@@ -231,6 +231,7 @@ All vocabulary entries must include:
 - Manual content → `/manual/`
 - Literary translations and transmutations → `/texts/`
 - Focused deep-dives → `/pamphlets/`
+- Project operations and release records → `/project/`
 - Historical material → `/archive/` (never a reference for current canon)
 
 ### Reference Documentation

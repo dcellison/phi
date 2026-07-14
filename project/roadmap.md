@@ -1,6 +1,6 @@
 # Phi Development Roadmap
 
-This document reconstructs the long improvement plan for Phi as a status-tracked roadmap. It is the execution view of the project: `canon.md` says what Phi is, `documents/development_log.md` records accepted decisions, release manifests say what shipped, and this roadmap says what remains to be done.
+This document reconstructs the long improvement plan for Phi as a status-tracked roadmap. It is the execution view of the project: `canon.md` says what Phi is, `project/development_log.md` records accepted decisions, release manifests say what shipped, and this roadmap says what remains to be done.
 
 The roadmap is written for one maintainer. It uses no RFC queue, voting process, fixed release calendar, or imaginary community roles. Work that can be completed inside the repository is separated from work that requires elapsed time, recorded speech, another reader, or recurring speakers.
 
@@ -68,10 +68,10 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| FND-01 | **DONE** | Classify Phi as a philosophy-first artlang/engineered contemplative practice, not an auxlang. | `documents/language_assessment.md`; `documents/development_log.md` D001 | Revisit only if actual use changes the project's purpose. |
+| FND-01 | **DONE** | Classify Phi as a philosophy-first artlang/engineered contemplative practice, not an auxlang. | `documents/language_assessment.md`; `project/development_log.md` D001 | Revisit only if actual use changes the project's purpose. |
 | FND-02 | **DONE** | Replace deterministic claims about peace, cognition, pace, precision, neutrality, and ease with design intentions or hypotheses. | `canon.md`; revised manual and philosophy documents | Future claims continue to identify their evidence level. |
-| FND-03 | **DONE** | Establish a solo-maintainer decision record rather than an RFC process. | `documents/development_log.md` D002 | Every consequential change records rationale and consequences. |
-| FND-04 | **DONE** | Establish verified release manifests and CI-backed internal consistency. | `documents/releases/phi_2026_1.md`; `documents/releases/phi_2026_2.md`; `.github/workflows/validate.yml` | Every release states what machine checks do and do not establish. |
+| FND-03 | **DONE** | Establish a solo-maintainer decision record rather than an RFC process. | `project/development_log.md` D002 | Every consequential change records rationale and consequences. |
+| FND-04 | **DONE** | Establish verified release manifests and CI-backed internal consistency. | `project/releases/phi_2026_1.md`; `project/releases/phi_2026_2.md`; `.github/workflows/validate.yml` | Every release states what machine checks do and do not establish. |
 | FND-05 | **DONE** | Reconstruct the long plan as a status-tracked roadmap. | This document | Update statuses and evidence links in the same PR as future roadmap work. |
 
 ## Phase 1: Source-material interoperability
@@ -156,7 +156,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-01 | **DONE** | Establish the coinage quality protocol: compare composition and coinage, choose freely, then require complete semantics, schema, sound, examples, and references. | Development protocol and eight completed vocabulary passes | Apply the same quality standard without treating it as an external burden of proof. |
 | SEM-01A | **DONE** | Develop practice and domain profiles as optional lexical organization under one grammar. | Eight established profiles with 246 optional roots, 355 memberships, generated indexing, speaker chapters, and sixteen base words established through profile passes | Revise an established profile through use, or add another only when its organization would help. |
 | SEM-01B | **DONE** | Record the intended profile catalogue. | `documents/modules/README.md`; eight active profiles and preserved future explorations | Add another profile when its organizational purpose is clear; no audience or external evidence gate is required. |
-| SEM-01C | **IN PROGRESS** | Revisit active Phi texts after the current module set and classification reviews are complete. | The [active text corpus review](active_text_corpus_review.md) records completed reviews of all thirteen literary works: nine close translations and eleven transmuted works | Inventory scenarios, dialogues, and teaching texts; repair accidental loss and stale vocabulary without rewriting before-state evidence. |
+| SEM-01C | **IN PROGRESS** | Revisit active Phi texts after the current module set and classification reviews are complete. | The [active text corpus review](../documents/active_text_corpus_review.md) records completed reviews of all thirteen literary works: nine close translations and eleven transmuted works | Inventory scenarios, dialogues, and teaching texts; repair accidental loss and stale vocabulary without rewriting before-state evidence. |
 | SEM-01D | **DONE** | Assess genuine multi-module vocabulary membership after all current modules are established. | Complete overlap assessment; 77 shared roots, 137 roots with one module, thirteen promoted to base vocabulary, regenerated indexes, and corrected profile and speaker counts | Reopen the assessment when later vocabulary or sustained use exposes another genuine learning-path overlap. |
 | SEM-01E | **DONE** | Review base vocabulary for older roots whose lexical center belongs in an existing module. | Complete base-placement assessment; thirty roots receive 35 memberships, 789 content roots remain base, and all generated and speaker-facing counts agree | Reopen placement when new modules give an older base word a genuine specialist home or when use shows that a classified word belongs in general study. |
 | SEM-02 | **PARTIAL** | Map weak modern domains: technology, science, government, law, work, disability, reproductive health, sexuality, and institutions. | Assessment, survey, eight established vocabulary modules, two access scenarios, and work and care scenarios | Test the Work, Medical, Accessibility, and Household modules beyond their source scenarios, inhabited-place heat and cooling, and a standing institution outside councils while keeping sensitive domains scenario-gated. |
@@ -230,13 +230,13 @@ This checklist protects implementation quality. It does not require external app
 
 **Objective:** Make Phi durable and accessible without allowing publication machinery to outrun language use.
 
-This phase is adjacent to the linguistic improvement plan and follows the order recorded in `publishing.md`.
+This phase is adjacent to the linguistic improvement plan and follows the order recorded in `project/publishing.md`.
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
 | PUB-01 | **DONE** | Web explorer, primer, manual, texts, and pamphlets build from repository sources. | `scripts/build_site.py` | Builds remain reproducible and safe. |
 | PUB-02 | **DONE** | Public hosting and a canonical public URL. | `.github/workflows/pages.yml`; public URL in `README.md` | Keep deployment reproducible and update the documented URL if hosting changes. |
-| PUB-03 | **DEFERRED** | Automated print/PDF pipeline from the same Markdown and lexicon sources. | Strategy in `publishing.md` | Begin after content and learner evidence stabilize enough for page design. |
+| PUB-03 | **DEFERRED** | Automated print/PDF pipeline from the same Markdown and lexicon sources. | Strategy in `project/publishing.md` | Begin after content and learner evidence stabilize enough for page design. |
 | PUB-04 | **DEFERRED** | Circulated review PDF. | Depends on PUB-03 and outside readers | Gather corrections before physical production. |
 | PUB-05 | **DEFERRED** | Physical publication. | Depends on a waiting audience, not projected demand | Print when the book is an artifact of existing use rather than its substitute. |
 | GOV-01 | **DONE** | Versioned canon, development log, release manifests, CI, and post-merge branch hygiene. | Repository practice | Continue for every merged milestone. |
@@ -339,7 +339,7 @@ These labels describe logical milestones, not promised dates.
 2. Link evidence to a repository artifact or dated result record; conversation memory alone is not completion evidence.
 3. Keep at most one solo work package marked **NEXT**.
 4. Do not mark an empirical item **DONE** when only its tooling or protocol is complete.
-5. Record accepted language decisions in `documents/development_log.md`; do not turn this roadmap into a second canon.
+5. Record accepted language decisions in `project/development_log.md`; do not turn this roadmap into a second canon.
 6. Add release verification to a release manifest, not to every roadmap row.
 7. Split new work rather than expanding a work item until its exit criterion becomes meaningless.
 8. Preserve negative results. A failed construction, ambiguous prompt, or abandoned coinage is evidence.

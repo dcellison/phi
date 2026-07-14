@@ -12,9 +12,11 @@ The worry is books stagnating on shelves. Books stagnate when the shelf is the f
 
 So the funnel is already mostly built, and it is free by design: the web explorer for wandering the lexicon, the primer readable online, curious people working through chapter one and wanting more. The book is not the introduction to Phi. It is the keepsake for people the website already converted.
 
-## The first domino: going public
+## The first domino has fallen
 
-A publishing ambition implies Phi eventually goes public — the explorer live at a real URL, the primer readable by strangers, a path in for the curious. The hosting decision (currently deferred; the repo is private, which blocks GitHub Pages — see the options already laid out: public repo, split public site repo, GitHub Pro, or external hosting) is therefore not a small infrastructure question. It is the first domino: community, then audience, then print all hang from it. No urgency — but everything downstream waits on it.
+Phi is now public. The repository is open, GitHub Pages builds the site from every merge to `main`, and the explorer and primer are available at [dcellison.github.io/phi](https://dcellison.github.io/phi/).
+
+Public access removes the technical gate, but it does not supply recurring readers. Community, audience, and print still depend on use rather than availability alone.
 
 ## Two structural advantages
 
@@ -28,10 +30,10 @@ The repo is already the single source of truth, validated in CI. The print pipel
 
 ## The order of operations
 
-1. **Finish the primer**, chapter by chapter, with the owner as first learner and register test.
-2. **Make the hosting call** when it feels right; put the explorer and primer where strangers can find them.
+1. **Finish the primer.** Complete: the graded chapters and capstone are published on the site.
+2. **Make the hosting call.** Complete: the public repository deploys to GitHub Pages.
 3. **Let the community form** around the free material. This is the marketing. It cannot be rushed and does not need to be.
 4. **Build the print pipeline** from the repo when the material stabilizes; circulate the PDF.
-5. **Print** when there are people waiting for the object — the book as keepsake, not introduction.
+5. **Print** when there are people waiting for the object, with the book as keepsake rather than introduction.
 
-The vision is sound. It just wants to happen in this order.
+The sequence now waits at the third step: recurring use.

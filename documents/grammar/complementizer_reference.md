@@ -194,4 +194,4 @@ VOC NAME HON.INTIM moli. 1SG 2SG love
 **Related Documentation:**
 - Particles: `documents/grammar/particle_reference.md`
 - Complex constructions: the manual, Part V (`manual/part5_complex/`)
-- Main instructions: `documents/development_protocol.md`
+- Main instructions: `project/development_protocol.md`

@@ -98,4 +98,4 @@ Wandel, Amri. 2015. How many people speak Esperanto? Esperanto on the web. Inter
 
 ### Phi sources
 
-The Phi material in this chapter comes from `LICENSE`, the opening of `documents/development_protocol.md`, and the catalog in `texts/README.md`.
+The Phi material in this chapter comes from `LICENSE`, the opening of `project/development_protocol.md`, and the catalog in `texts/README.md`.

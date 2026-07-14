@@ -23,11 +23,12 @@ This repository contains four licensing categories, set out below.
 3. CONTENT — Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International (CC BY-NC-SA 4.0).
 
-   Everything else — the lexicon entries (vocabulary/), the manual
+   Everything else, including the lexicon entries (vocabulary/), the manual
    (manual/), the primer (primer/), the texts (texts/), the pamphlets
    (pamphlets/), the invitation (kia.md), the specification and
-   philosophy documents (documents/), the archive (archive/), and the
-   remaining prose of this repository — is licensed under
+   philosophy documents (documents/), the project records (project/),
+   the archive (archive/), and the remaining prose of this repository,
+   is licensed under
    CC BY-NC-SA 4.0: share and adapt freely, with attribution, for
    noncommercial purposes, keeping derivatives under the same license.
    Commercial use requires separate permission from the copyright

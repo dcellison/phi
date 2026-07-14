@@ -23,7 +23,7 @@ Every profile follows these rules:
 | **Vocabulary pass** | Active review of which domain concepts compose naturally and which deserve coinage. |
 | **Established vocabulary module** | Module-oriented content words have complete canonical entries, a generated module index, and a speaker-facing guide. Module membership is a learning aid, not a second parser or grammar. |
 
-Every module-oriented word follows the complete [word-creation protocol](../development_protocol.md#word-creation-protocol), including full schema fields, semantic scope and contrasts, phonology, collision checks, natural examples, and generated references. Corpus evidence may inspire or improve a word, but a personal language does not need an external burden of proof before its maintainer coins a useful or valued concept.
+Every module-oriented word follows the complete [word-creation protocol](../../project/development_protocol.md#word-creation-protocol), including full schema fields, semantic scope and contrasts, phonology, collision checks, natural examples, and generated references. Corpus evidence may inspire or improve a word, but a personal language does not need an external burden of proof before its maintainer coins a useful or valued concept.
 
 ## Required Contents
 

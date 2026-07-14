@@ -118,7 +118,7 @@ For each profile, maintain a concise decision table with:
 5. Complete schema fields, phonological and collision checks, and validated examples for every coinage.
 6. The Part VII chapter and generated module index through which speakers can learn the result.
 
-The [roadmap coinage checklist](roadmap.md#default-coinage-checklist) protects implementation quality without demanding repeated failure or outside approval. The [philosophical capability matrix](philosophical_capability_matrix.md) remains a descriptive map of reasoning operations, not an admission authority.
+The [roadmap coinage checklist](../project/roadmap.md#default-coinage-checklist) protects implementation quality without demanding repeated failure or outside approval. The [philosophical capability matrix](philosophical_capability_matrix.md) remains a descriptive map of reasoning operations, not an admission authority.
 
 ## Next refresh trigger
 

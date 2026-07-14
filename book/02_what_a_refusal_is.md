@@ -70,4 +70,4 @@ Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin
 
 ### Phi sources
 
-The Phi material in this chapter comes from the refused-by-design rulings in `canon.md`, the safeguards in `documents/development_protocol.md`, and `documents/psychological_violence_of_measurement.md`. Its worked examples draw on `short_road.md`, `manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md`, `manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md`, and `texts/ring_verse_refusal.md`.
+The Phi material in this chapter comes from the refused-by-design rulings in `canon.md`, the safeguards in `project/development_protocol.md`, and `documents/psychological_violence_of_measurement.md`. Its worked examples draw on `short_road.md`, `manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md`, `manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md`, and `texts/ring_verse_refusal.md`.

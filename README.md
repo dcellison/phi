@@ -22,8 +22,9 @@ Five shelves divide the work. `documents/` says what the language **is**, the ma
 | | |
 |---|---|
 | [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. More than one thousand entries. |
-| [documents/](documents/) | Current language references and development evidence, indexed by purpose. This includes the [language assessment](documents/language_assessment.md), [lexicon expansion survey](documents/lexicon_expansion_survey.md), [status roadmap](documents/roadmap.md), and solo-maintainer development log. |
+| [documents/](documents/) | Current language references and evaluation evidence, including the [language assessment](documents/language_assessment.md) and [lexicon expansion survey](documents/lexicon_expansion_survey.md). |
 | [documents/modules/](documents/modules/) | Experimental practice and domain profiles that organize shared core vocabulary and record gaps without creating separate grammars or lexicons. |
+| [project/](project/) | Operational records: the development protocol, decision log, status roadmap, publication strategy, and release manifests. |
 | [texts/](texts/) | The literary shelf: twelve short works and *News from Nowhere*, whose 32 chapters have their own book directory. The source witnesses live there too. |
 | [pamphlets/](pamphlets/) | Focused teaching companions with extended explanation, exercises, and answer keys. |
 | [canon.md](canon.md) | The authority order when documents disagree, and every settled design decision. |
@@ -38,11 +39,11 @@ Everything is validated by machine, and the validation gates every pull request:
 python3 scripts/validate_examples.py
 ```
 
-This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted anywhere — manual, primer, texts, pamphlets, the invitation — uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](documents/roadmap.md); the working protocol for creating words lives in [documents/development_protocol.md](documents/development_protocol.md); the longer-term intentions live in [publishing.md](publishing.md).
+This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted in the manual, primer, texts, pamphlets, or invitation uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](project/roadmap.md); the working protocol for creating words lives in [project/development_protocol.md](project/development_protocol.md); the longer-term intentions live in [the publishing strategy](project/publishing.md).
 
 ## Licensing
 
-Three answers for three things. **The language itself is free.** Phi's words, sounds, and grammar may be used, spoken, written, and built on by anyone, forever, with no permission needed. **The code** in `scripts/`, `site/`, and `.github/` is Apache 2.0. **The content** in the lexicon, manual, primer, texts, pamphlets, and documents uses [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt): share and adapt it with attribution for noncommercial purposes, and keep derivatives under the same license. The Solarpunk Manifesto source and translation retain the source's CC BY-SA 4.0 license. [LICENSE](LICENSE) has the details.
+Three answers for three things. **The language itself is free.** Phi's words, sounds, and grammar may be used, spoken, written, and built on by anyone, forever, with no permission needed. **The code** in `scripts/`, `site/`, and `.github/` is Apache 2.0. **The content** in the lexicon, manual, primer, texts, pamphlets, documents, and project records uses [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt): share and adapt it with attribution for noncommercial purposes, and keep derivatives under the same license. The Solarpunk Manifesto source and translation retain the source's CC BY-SA 4.0 license. [LICENSE](LICENSE) has the details.
 
 ---
 
