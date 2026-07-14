@@ -6,9 +6,7 @@
     "ni",
     "tho"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "North / The Still Axis Direction",
   "description": "The cardinal direction toward the world's turning axis, the still point around which the sky appears to wheel. Phi coins 'nitho' and 'ronua' (south) as its two cardinal anchors; east and west follow the sun's path in 'sileta thorui' (sun's beginning, east) and 'sileta lumae' (sun's end, west).",
   "sound_symbolism": "The grounded dental 'n' plants the axis, the focused 'i' narrows to the single still point, and the wisdom-breath 'tho' opens to the wholeness of the turning sky around it. A fixed point, calmly held. Deliberately shares almost nothing with its partner 'ronua' (south), or with 'lawe'/'kuri' (left/right), so the four directions can never be confused.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Phi's cardinal terms carry no hierarchy: no direction is 'up', none is primary. The compass is a circle of equals.",
     "pre-industrial-wisdom": "Navigators of every tradition found the still point of the turning sky and steered by it. 'Nitho' names that anchor — knowledge older than maps."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The still point of the wheeling sky",
     "spatial": "Cardinal direction of the turning axis"
   }

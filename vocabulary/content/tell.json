@@ -6,9 +6,7 @@
     "sha",
     "ne"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Tell / Recount / Give an Account to Someone",
   "description": "To tell: recounting news, a story, what happened — speech directed at a listener with content to deliver. Sits between 'haolu' (speak, the general act) and 'lophae' (storyteller, the role): telling is speaking that carries an account to someone. Reported content takes the 'mena…meno' frame.",
   "sound_symbolism": "The flowing 'sha' is the voice underway, and 'ne' settles the account into its listener — the same grounding syllable that ends 'shane' begins the proper-name particle, fittingly: telling is always telling *someone*.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Telling is speech with a receiver held in mind — the grammar's dative makes the listener explicit, and explicit listeners are treated more carefully.",
     "pre-industrial-wisdom": "News, weather, and warning traveled by telling long before writing; the teller's accuracy was the village's safety."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "How news and stories move between people",
     "dialogue": "Directed recounting to a listener"
   }

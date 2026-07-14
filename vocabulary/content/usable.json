@@ -7,9 +7,7 @@
     "la",
     "su"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Usable / Able to Perform a Stated Purpose in Practice",
   "description": "Able to be operated or used for a stated purpose by a stated person under the relevant conditions. Something can be available yet confusing, painful, unreliable, or otherwise unusable in practice. 'lokane' (accessible) includes reaching the opportunity for use; 'kelasu' begins at the point of use itself.",
   "sound_symbolism": "Crisp 'ke' releases at the velum into balanced 'e'. The tongue flows through stressed 'la' and the word's broadest vowel. Final 'su' narrows the air to a hiss before dropping into deep 'u'. A clean opening loosens in the middle, then gathers at the end.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Repairable community tools matter only when people can operate them for the work they actually need to do.",
     "peace-linguistics-practices": "The adjective gives a person a plain way to challenge the claim that provision alone solved the problem."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "practical use for a stated person and purpose",
     "cognition": "use that remains understandable enough to carry through",
     "creation": "a designed object or process that can be operated in practice"

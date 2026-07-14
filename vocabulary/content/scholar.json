@@ -7,9 +7,7 @@
     "nu",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Scholar / Learned One / Deep Student",
   "description": "One devoted to learning and study; a person of deep knowledge. 'Thonua' names who studies deeply—mind given to understanding.",
   "sound_symbolism": "The word contemplates deeply. 'Tho' begins with sustained dental awareness, the focused attention of long study. 'Nua' grounds with accumulated presence. A scholar as someone whose awareness has deepened into wisdom.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Scholar as seeker—devoted to understanding, not attached to being right.",
     "pre-industrial-wisdom": "Scholar as keeper—maintaining and transmitting accumulated knowledge."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Deep study",
     "community": "Learning role"
   }

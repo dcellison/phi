@@ -7,9 +7,7 @@
     "a",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Tranquil / Deeply Peaceful / Undisturbed",
   "description": "Free from disturbance or turmoil; deeply peaceful. 'Noalu' names the still lake without ripple, the mind without wave—the state where nothing disturbs the underlying quiet.",
   "sound_symbolism": "The word rests in deep stillness. 'No' begins with inward nasal, turning within. The vowel hiatus 'o.a' opens inner space, vast and still. Then 'lu' settles into liquid rest, the depths undisturbed.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Tranquility is the fruit of practice—the deep peace that remains undisturbed even when surface conditions change.",
     "pre-industrial-wisdom": "Traditional peoples sought tranquil places for healing and ceremony—the settled quiet that restores."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Deep peace",
     "wisdom": "Undisturbed state"
   }

@@ -6,9 +6,7 @@
     "wa",
     "pi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Fly / Move Through Air on Wings or Wind",
   "description": "To fly: the bird ('pelori'), the seed on the wind, the kite. Motion through air. Deliberately kin in sound to 'wapho' (throw) — thrown things and flying things share the air — but a full syllable apart.",
   "sound_symbolism": "'wa' is the air-glide, 'pi' the small lift-point of a wingbeat. Light sounds for weightless motion.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Flight without combustion — bird, seed, kite — is the aesthetic of the possible future: lift borrowed from wind.",
     "pre-industrial-wisdom": "The farmer read the year in what flew: first swallows, seed-drift, the geese going south — flight as calendar."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The motion of birds and wind-borne things",
     "physical": "Lift and wingbeat",
     "spatial": "Travel through air"

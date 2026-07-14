@@ -6,9 +6,7 @@
     "ne"
   ],
   "slot": 2,
-  "pos": [
-    "particle"
-  ],
+  "pos": "particle",
   "concept": "Proper Name Marker / Announced Designation",
   "description": "A Slot 2 particle placed before one Phi token to say that the token is a proper designation. The following form may be a content word borne as a name or a productive onym of two, three, or four syllables with no dictionary entry. The particle tells the listener to carry the token as a name; the bearer's kind and status come from elsewhere.",
   "sound_symbolism": "The tongue meets the teeth for 'n', while nasal resonance keeps the one-syllable marker gentle. Balanced 'e' opens forward into the name that follows. The particle clears a small threshold without competing with the name itself.",

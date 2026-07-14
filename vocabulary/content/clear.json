@@ -6,9 +6,7 @@
     "nu",
     "wi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Clear / Transparent / Without Obstruction",
   "description": "Easy to perceive, understand, or see through; free from obstruction or confusion. 'Nuwi' names the quality of transparency—water one can see through, thoughts one can follow, communication without ambiguity.",
   "sound_symbolism": "The word sees through cleanly. 'Nu' begins with nasal openness, nothing blocking. Then 'wi' passes through, vision unobstructed.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Clear mind is the goal of practice—perception undistorted by craving, aversion, or delusion.",
     "peace-linguistics-practices": "Clear communication prevents misunderstanding—speaking so meaning passes through without distortion."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Transparent quality",
     "physical": "Without obstruction"
   }

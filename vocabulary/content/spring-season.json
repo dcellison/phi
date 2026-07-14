@@ -7,9 +7,7 @@
     "ra",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Spring (Season) / Season of Renewal / Time of Awakening",
   "description": "The season after winter when plants begin to grow; time of renewal and rebirth. 'Wirae' names the awakening season—life returning, growth beginning, the world greening.",
   "sound_symbolism": "The word opens to new life. 'Wi' begins with expansive breath, possibility awakening. 'Ra' reaches outward, growth extending. Finally 'e' opens to the new, spring arriving.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Spring represents renewal—the proof that systems can regenerate, that life returns after dormancy.",
     "pre-industrial-wisdom": "Spring determined survival—the season when stored food ran low but new growth offered hope."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Growth beginning",
     "temporal": "Renewal season"
   }

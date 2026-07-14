@@ -7,9 +7,7 @@
     "ta",
     "wi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Inventory / Time-Bounded Record of Held Items and Their Status",
   "description": "A record of what is held: items, quantities, places, conditions, within a scope, at a time. An inventory represents the stock, 'muphera' (stock), without being it; the shelf keeps its own truth, and the record's accuracy ends the moment conditions change without it.",
   "sound_symbolism": "Hissing 'si' draws a fine bright opening, and stressed 'ta' answers at the teeth with a broad firm beat. Final 'wi' rounds the lips and glides back toward bright 'i'. Wide at its center, the word folds neatly inward at the end.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared inventories make material capacity visible for repair, reuse, mutual aid, and ecological planning while keeping records distinct from physical reality.",
     "peace-linguistics-practices": "A time-bounded inventory invites correction and prevents an old or incomplete record from being treated as unquestionable proof of what exists or who controls it."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "recording and reviewing held items",
     "cognition": "a structured representation of material state",
     "temporal": "a record explicitly bounded to a time"

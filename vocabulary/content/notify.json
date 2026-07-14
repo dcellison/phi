@@ -7,9 +7,7 @@
     "ne",
     "wi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Notify / Formally Direct Information to a Recipient",
   "description": "For a source to formally direct information toward a recipient. Notifying sends the word; whether it arrived, was understood, or was acted on remains open past the sending itself.",
   "sound_symbolism": "Hushed 'sha' enters the stressed dental balance of 'ne'. Together those syllables repeat the complete sound of 'shane' (tell). Final 'wi' rounds the lips and glides into bright 'i'. That narrowing glide gives the word a clear path outward.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Durable commons need traceable notice about resource changes, hazards, meetings, maintenance, and decisions without assuming one communication channel serves everyone.",
     "peace-linguistics-practices": "Separating notification from receipt and understanding prevents institutions from blaming excluded people merely because information was sent or posted."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "formal notice directed to identified recipients",
     "dialogue": "information offered without presuming receipt or understanding"
   },

@@ -7,9 +7,7 @@
     "ru",
     "pa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Bag / Flexible Container for Carrying or Keeping",
   "description": "A flexible container with an opening, used to carry or keep objects. Cloth, leather, fiber, or another yielding material lets a bag change shape around what it holds. 'molu' (container) is general, while empty 'lirupa' folds nearly flat.",
   "sound_symbolism": "Light 'li' releases the tongue into bright 'i'. Stressed 'ru' follows with a rolling contact and deep 'u'; the pair is also 'liru' (fabric), intact before the last syllable. Final 'pa' closes the lips and opens across broad 'a'. A low liquid middle ends with the mouth wide.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A mended reusable bag keeps its usefulness through many errands instead of becoming single-use wrapping.",
     "pre-industrial-wisdom": "Sacks and pouches moved seed, flour, tools, and personal goods while folding almost flat for the return journey."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "a flexible container made from cloth, leather, or fiber",
     "physical": "a soft-sided holder that changes shape around its contents"
   },

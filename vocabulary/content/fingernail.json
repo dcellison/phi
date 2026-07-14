@@ -7,9 +7,7 @@
     "pi",
     "ka"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Fingernail / The Finger's Hard Tip",
   "description": "The fingernail: the small hard shield at the finger's ('thumai') end. The last piece of the hand.",
   "sound_symbolism": "'ti' the tip, 'pi' the smallness, 'ka' the hardness — the object built syllable by syllable.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The nail grows without being asked — the body's quietest demonstration of impermanence and renewal, trimmed away and returning.",
     "pre-industrial-wisdom": "Grooming was the original hygiene and the original tenderness — nails trimmed by a parent's careful hand."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "The finger's hard tip"
   }
 }

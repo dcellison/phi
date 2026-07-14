@@ -7,9 +7,7 @@
     "e",
     "ru"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Distant / Far Away / Remote in Space",
   "description": "Far away in space or time; not close. 'Thaeru' names the quality of remoteness—separation by space, the far that requires journey to reach.",
   "sound_symbolism": "The breathy fricative /θ/ opens the word, and the hiatus 'a.e' stretches its middle across two separate vowels—a small distance to cross before 'ru'. The close back 'u' ends the word low and far.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "What seems distant may be near—enlightenment is not far, only obscured by confusion.",
     "pre-industrial-wisdom": "Distant places required journey—remoteness meant time, effort, and risk to reach."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Far away",
     "wisdom": "Remote"
   }

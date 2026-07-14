@@ -6,9 +6,7 @@
     "lo",
     "shi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Joyful / Full of Joy / Experiencing Deep Happiness",
   "description": "Feeling, expressing, or causing great pleasure and happiness. 'Loshi' names the quality of deep gladness—not mere pleasure but the wholehearted experience of joy.",
   "sound_symbolism": "The word radiates gladness. 'Lo' flows with ease, happiness moving. Then 'shi' /ʃi/ lifts with lightness, joy complete.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Sympathetic joy (mudita) celebrates others' happiness—joy that multiplies through sharing.",
     "art-nouveau-aesthetics": "Joyful art celebrates life's beauty—forms that express delight in existence."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Deep happiness",
     "wisdom": "Wholehearted gladness"
   }

@@ -7,9 +7,7 @@
     "whe",
     "ki"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Counterexample / Case That Defeats a General Claim",
   "description": "A case that falls within a general claim's own stated scope and lacks the property the claim says every such case has. A genuine counterexample refutes the claim as stated; a case outside the scope, or one that merely surprises, does not.",
   "sound_symbolism": "The breath and bright vowel of 'phi' recall the beginning of 'phisuwa' (example), a kinship the ear can catch at once. Under stress, 'whe' changes that breath into a rounded voiceless glide and widens the middle of the word. A sharp velar contact in 'ki' releases into focused 'i'. The breathy opening passes through resistance to one precise point.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A single encountered case can loosen attachment to an overgeneralized view and invite a more conditional understanding.",
     "peace-linguistics-practices": "Counterexamples let participants challenge universality through a case rather than through force, status, or personal dismissal."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a scoped case that disproves a general claim as stated",
     "dialogue": "a concrete way to challenge overgeneralization",
     "wisdom": "attention to particulars that resist an overly broad rule"

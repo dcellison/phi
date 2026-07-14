@@ -7,9 +7,7 @@
     "ru",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Weary / Tired / Depleted of Energy",
   "description": "Feeling or showing tiredness, especially from sustained effort. 'Shorui' names the quality of weariness—the body and mind calling for rest.",
   "sound_symbolism": "The word droops with fatigue. 'Sho' /ʃo/ begins with soft exhale, energy fading. 'Ru' rolls slowly, momentum lost. Finally 'i' arrives weakly, weariness complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Acknowledging weariness enables care—the tired body teaches us to rest rather than push through.",
     "pre-industrial-wisdom": "Weary workers rested—traditional rhythms included time for recovery, not endless productivity."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Need for rest",
     "physical": "Depleted energy"
   }

@@ -7,9 +7,7 @@
     "sa",
     "ni"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Skill / Learned Repeatable Practical Capacity",
   "description": "A learned, repeatable capacity for a kind of practical work. A skill belongs to the person who built it, whatever the conditions and whoever approves; it may be narrow or broad, embodied or tool-bound, still growing. Whether it meets today's criterion is 'pokera' (competent), a separate and smaller question.",
   "sound_symbolism": "Dental breath opens 'the' softly between tongue and teeth. Stressed 'sa' shifts that stream into a fine hiss and broad 'a'. Final 'ni' returns the tongue to the teeth, changes airflow into nasal resonance, and lifts to bright 'i'. The contour moves from breath through openness to a small, steady finish.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Separating skill from worth, authority, and credentials permits precise recognition without turning ability into social supremacy.",
     "pre-industrial-wisdom": "Learned practical capacities preserve repair, cultivation, making, and embodied knowledge across generations and communities."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a learned capacity for practical action",
     "cognition": "procedural knowledge developed through learning and repetition",
     "creation": "capacity used in making, repair, and transformation",

@@ -7,9 +7,7 @@
     "mi",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Visit / Spend Bounded Time as a Guest",
   "description": "To spend a bounded period with a person or at a place as a guest. Departure is still part of the understood visit. The reason for coming belongs in the surrounding clause rather than the verb. 'menui' (dwell) makes a continuing home in a place; 'phemiru' crosses the threshold for a time.",
   "sound_symbolism": "Bilabial breath in 'phe' meets the stressed lip closure and bright nasal vowel of 'mi'. Before the last turn, 'phemi' (guest) sounds in full. Final 'ru' releases the tongue in a roll and drops into deep 'u'. A compact center leaves in a low flowing motion.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A visit places company inside a chosen interval. Welcome and departure both stay available to the people sharing the space.",
     "pre-industrial-wisdom": "Visits carried news, labor, food, and kinship along paths where guest and host might reverse roles on the next journey."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "spending a bounded time with a person or at a place",
     "community": "company held through the guest relation",
     "temporal": "a stay with an understood end"

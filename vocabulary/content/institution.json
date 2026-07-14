@@ -7,9 +7,7 @@
     "no",
     "ki"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Institution / Continuing Organized Social Arrangement",
   "description": "A continuing organized social arrangement that outlives any one meeting or participant, built from roles, practices, records, and relationships. Calling something an institution does not yet say it functions well or deserves anyone's obedience; that is a separate, harder claim.",
   "sound_symbolism": "A small lip closure in 'pu' releases into deep 'u'. Stressed 'no' answers with a dental nasal and a rounder chamber. Together they repeat the opening contour of 'punoa' (society), while crisp 'ki' gives the ending one bright structural point. Two settled enclosures support the word before its final clean contact.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Durable commons require institutions that can be maintained, criticized, repaired, and replaced rather than relying on permanent goodwill or invisible labor.",
     "peace-linguistics-practices": "Naming an institution without granting it legitimacy keeps its procedures, exclusions, authority claims, and harms available for direct examination."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a continuing organized social arrangement with roles and procedures"
   },
   "modules": [

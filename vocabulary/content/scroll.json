@@ -7,9 +7,7 @@
     "e",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Scroll / Rolled Document / Ancient Text",
   "description": "A roll of paper or parchment for writing; document that unfurls to reveal. 'Roela' names what unrolls wisdom—teaching revealed through patient unfolding.",
   "sound_symbolism": "The word unrolls. 'Ro' turns in rolling motion, scroll opening. The vowel 'e' opens to revelation. Then 'la' extends long, text continuing.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Teaching unfolds—understanding comes gradually, like a scroll revealing line by line.",
     "pre-industrial-wisdom": "Scrolls held wisdom—Torah, sutras, classics, knowledge preserved in rolled form."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Document form",
     "wisdom": "Preserved teaching"
   }

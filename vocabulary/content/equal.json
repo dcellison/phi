@@ -6,9 +6,7 @@
     "ko",
     "lo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Equal / Same Standing / Balanced Measure",
   "description": "Having the same value, measure, or status; balanced in worth. 'Kolo' names the recognition of same standing—not identical but equivalent in dignity.",
   "sound_symbolism": "The word balances evenly. 'Ko' completes with measured wholeness, equality recognized. 'Lo' opens with same standing, balance held.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Equal worth—all beings possess same fundamental dignity.",
     "peace-linguistics-practices": "Equal voice—communication where all participants have same standing to speak."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Same standing",
     "wisdom": "Balanced recognition"
   }

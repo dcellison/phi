@@ -7,9 +7,7 @@
     "li",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Forest / Woodland / Tree Community",
   "description": "A large area densely covered with trees and undergrowth, forming an interconnected ecosystem. 'Shelira' names the community rather than its members: canopy sheltering the beings beneath it, roots trading nutrients through fungal threads. A single tree is 'shiro'; a small stand is 'koshira' (grove).",
   "sound_symbolism": "The word rustles through the trees. 'She' /ʃe/ begins with the whisper of wind through leaves. Then 'li' flows with the liquid life within, sap and streams. Finally 'ra' reaches upward, the canopy opening to light.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "The forest teaches interconnection—no tree stands alone, each depends on and supports the whole community.",
     "pre-industrial-wisdom": "Traditional cultures recognized forests as sacred homes, sources of medicine, food, and spiritual connection."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Tree community gathering",
     "nature": "Woodland ecosystem"
   }

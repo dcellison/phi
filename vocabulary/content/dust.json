@@ -7,9 +7,7 @@
     "he",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Dust / Earth Gone Fine",
   "description": "Dust: earth ground fine enough to ride the air. Third member of the 'mu-' earth family after 'muila' and 'muphia', and the drought's version of what mud is to rain. On the road, on the shelf, in the light through a window.",
   "sound_symbolism": "'mu' keeps the earth-family signature and 'he' is the dry whisper it moves with. Nothing in the word presses down.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Dust was read like an instrument: a traveler's approach on the road, a dry season's warning in the field, a house's account of time passing."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Earth riding the air",
     "physical": "The dry fine remainder"
   }

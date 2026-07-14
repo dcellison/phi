@@ -7,9 +7,7 @@
     "ru",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Jurisdiction / Claimed Scope of Authority",
   "description": "The reach an authority claims, across people, places, or matters. Two authorities claiming the same ground is the ordinary case here, not an error waiting to be resolved, and a claimed reach is not the same as an actual one.",
   "sound_symbolism": "'No.ru' begins with a dental nasal enclosure, then rolls the tongue through stressed deep 'u'. The same two syllables also open 'norui' (boundary). Final 'lo' releases that contact and rounds into a wider reach. The contour begins within an edge and flows outward across it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Watersheds, infrastructures, and communities cross inherited borders, so jurisdiction must be named as a chosen and contestable governance relation.",
     "peace-linguistics-practices": "Stating who and what a power claim reaches helps affected people challenge overreach without treating a map, office, or rule as self-authorizing."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "the claimed social scope of an authority or institution",
     "spatial": "a jurisdiction may include stated places without being only territorial"
   },

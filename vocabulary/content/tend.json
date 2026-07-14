@@ -7,9 +7,7 @@
     "mo",
     "e"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Tend / Care For / Attend To",
   "description": "To regularly care for something, giving it needed attention—watering plants, checking on the sick, maintaining what requires upkeep. 'Temoe' emphasizes the ongoing, attentive quality of care rather than dramatic intervention. It is the quiet, consistent presence that keeps things well.",
   "sound_symbolism": "The word begins with 't', the clear dental of attention—precise, directed, focused. The 'e' engages with what needs care. Then 'mo' softens with nasal gentleness, hands moving carefully. Finally 'e' returns with quiet awareness, the tender remaining present.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Tending is the daily practice of stewardship—small, consistent acts that maintain healthy systems over time.",
     "secular-buddhist-philosophy": "Tending cultivates mindfulness through attention to what is present, what needs care, what is changing."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Regular care of growing things",
     "wisdom": "Attentive, ongoing presence"
   }

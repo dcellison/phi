@@ -7,9 +7,7 @@
     "ru",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Abundant / Plentiful / More Than Enough",
   "description": "Existing or available in large quantities; plentiful beyond need. 'Lorua' names the quality of overflow—harvests that exceed need, generosity that keeps giving, life that produces more than it consumes.",
   "sound_symbolism": "The word overflows with plenty. 'Lo' begins laden, already holding much. Then 'ru' rolls with more arriving, overflow building. Finally 'a' opens to expansion, abundance spreading.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Abundance thinking replaces scarcity—nature produces abundantly when systems are healthy, and human systems can too.",
     "pre-industrial-wisdom": "Abundant harvests were celebrated—the overflow that allowed feasting, sharing, and provision for hard times."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "More than enough",
     "nature": "Plentiful supply"
   }

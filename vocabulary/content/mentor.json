@@ -7,9 +7,7 @@
     "mi",
     "she"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Mentor / One Who Illuminates the Path",
   "description": "A guide who shares wisdom gained through experience, helping others navigate their own journeys. Mentorship in Phi emphasizes mutual learning rather than hierarchical teaching, recognizing that mentor and mentee both grow through their relationship. The mentor illuminates possibilities rather than dictating directions, offering insight while honoring the mentee's autonomy.",
   "sound_symbolism": "The liquid 'l' of 'lu' opens the word with continuous flow—knowledge passed along, not handed down. 'Mi' adds the nasal warmth of personal contact, and the fricative 'she' closes quietly, a voice that suggests rather than commands.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Mentorship embodies the teaching tradition where wisdom passes from experienced to seeking, yet both are transformed in the exchange. This isn't hierarchical transmission but mutual awakening - the mentor sees with fresh eyes through the student's questions while offering the clarity of experience. True mentoring requires letting go of attachment to how the student uses the teaching.",
     "pre-industrial-wisdom": "Traditional mentorship preserved cultural knowledge through direct relationship - master craftspeople guiding apprentices, elders initiating youth, healers passing plant wisdom to chosen students. This intimate transmission carried not just information but embodied understanding, the thousand subtle lessons that can only be learned through patient observation and practice over time."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "builds knowledge continuity across generations",
     "dialogue": "happens through communication and mutual exchange",
     "wisdom": "core function of sharing insight and understanding"

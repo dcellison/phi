@@ -7,9 +7,7 @@
     "ro",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Horn / The Hard Grown Crown",
   "description": "The horn: hard growth from a living head — the ram's spiral, the ox's sweep, the deer's branching pride (antler included by extension). Growth, not weapon: Phi names what the animal grew, and has no vocabulary for what violence would make of it.",
   "sound_symbolism": "Hard 'ku' at the root, growing outward through 'ro' to settled 'na' — solidity extending, the way horn grows: slowly, from the living base.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The ram's spiral is the style's beloved logarithmic curve grown in keratin — ornament and structure in one, straight from the animal.",
     "pre-industrial-wisdom": "Cup, button, comb-stock, and signal-sound: horn was the pre-industrial plastic, harvested without harm from the herd's natural deaths."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The head's hard growth",
     "physical": "Living solidity extended"
   }

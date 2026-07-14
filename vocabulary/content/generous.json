@@ -7,9 +7,7 @@
     "lo",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Generous / Giving Freely / Abundant in Sharing",
   "description": "Ready to give more than is necessary or expected; showing kindness in sharing. 'Heloi' names the quality of open-handed giving—the heart that finds joy in sharing abundance.",
   "sound_symbolism": "The word gives freely. 'He' breathes outward, offering begun. 'Lo' flows with ease, giving without grasping. Finally 'i' completes with lightness, generosity fulfilled.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Generous systems share abundance rather than hoarding—communities where surplus flows to need.",
     "secular-buddhist-philosophy": "Generosity (dana) is the first perfection—the practice that loosens attachment and creates connection through giving."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Sharing",
     "emotion": "Open-heartedness"
   }

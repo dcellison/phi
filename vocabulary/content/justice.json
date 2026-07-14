@@ -7,9 +7,7 @@
     "lo",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Justice / Balanced Truth",
   "description": "The process of restoring balance and mending relationships within a community after a disharmony has occurred. It focuses on healing and reintegration rather than punishment.",
   "sound_symbolism": "The thoughtful 'th' requires deliberation - justice cannot be rushed. The resonant 'lo' creates the balanced center where all perspectives can be heard and weighed. The grounding 'ma' anchors justice in immutable truth and practical wisdom. Together they form a word that feels both gentle and strong, like scales finding their perfect balance through patient adjustment rather than force.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Justice as restoration rather than retribution transforms conflict into opportunity for deeper understanding and stronger relationships. This approach focuses on healing harm, addressing root causes, and reintegrating all parties into community wholeness. True justice creates peace not through punishment but through accountability, understanding, and systemic change.",
     "pre-industrial-wisdom": "Traditional justice systems often emphasized restoration of community harmony over individual punishment. Through practices like peace circles, talking circles, and community reconciliation, these systems understood that lasting justice comes from healing relationships and addressing root causes, not from isolation or retribution."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "focuses on wholeness and reintegration of all parties",
     "dialogue": "involves hearing all perspectives and facilitating reconciliation",
     "wisdom": "requires understanding root causes and skillful responses"

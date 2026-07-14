@@ -7,9 +7,7 @@
     "li",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Tail / The Body's Trailing End",
   "description": "The tail: the body's continuation past itself — the dog's flag, the fish's engine, the snake's ending-that-never-quite-ends. Anatomy for every creature that has one.",
   "sound_symbolism": "'tu' marks the body's end and 'li'–'ra' trails away from it, tapering open — the word thins as a tail does.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The herder read the flock by tails — health, mood, and weather-sense all signaled at the animal's far end."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The creature's trailing end",
     "physical": "Anatomy past the body"
   }

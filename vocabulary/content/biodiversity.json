@@ -7,9 +7,7 @@
     "li",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Biodiversity / Living Variation Within a Selected Scope",
   "description": "Living variation within a stated scope, and the scope always has to be named: species richness, abundance, and genetic variation measure different things and rarely move together. A claim that biodiversity is rich or declining is only as strong as the place, time, and measure behind it.",
   "sound_symbolism": "Bilabial breath and bright 'i' begin 'phi' and recall the airy difference heard at the start of 'phirae' (different). The stress flows through liquid 'li' before final 'ma' closes at the lips and opens onto broad 'a'. The whole contour also brushes against 'lima' (alive), but as resonance rather than assembly. Difference breathes first, life moves through the center, and the living field settles into matter.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Biodiversity vocabulary supports discussion of living variation while preventing a green label from substituting for a stated measure or actual ecological consequence.",
     "secular-buddhist-philosophy": "The concept values difference without turning a selected classification or momentary inventory into a permanent essence of a place."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a scoped and measured account of living variation",
     "nature": "variation among living beings across one or more biological levels"
   },

@@ -7,9 +7,7 @@
     "pho",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Treat / Undertake Care Intended to Change a Health Condition",
   "description": "To undertake care meant to change a health condition, whether through medicine, therapy, support, or a changed environment. The verb carries the intention and nothing more; whether the treatment helps, and whether the person consents to it, are questions it leaves open.",
   "sound_symbolism": "Balanced 'ne' begins with the tongue resting at the teeth. In stressed 'pho', unvoiced breath moves between the lips and rounds into a fuller chamber. Final 'ru' answers with a tongue roll and deep 'u'. Roundness and depth increase from one syllable to the next.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Treatment is an intentional response to suffering and conditions, not a guarantee that all suffering can or should be eliminated.",
     "peace-linguistics-practices": "Separating treatment from consent, cure, and authority keeps care actions available for evaluation and refusal."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "care intended to alter a health condition or course",
     "community": "an intervention relation among a person and care participants",
     "physical": "an action directed toward bodily or health change"

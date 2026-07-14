@@ -7,9 +7,7 @@
     "la",
     "mi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Adventure / The Path Taken Into the Unknown",
   "description": "A journey undertaken without knowing where it leads: the road accepted before it is mapped, the days that follow a door left open. 'Rulami' names the venture itself, not its dangers; in Phi an adventure is measured by how much it changes the traveler, not by what the traveler overcomes. It is what surprise ('wakomi') feels like when it is welcomed and walked into rather than merely met.",
   "sound_symbolism": "'Ru' sets the word in forward motion, an opening shared with 'ruela' (path) without repeating the path-word whole. 'La' bends that motion into a winding course, and the closing 'mi' turns the journey inward to the one who walks it, the same settling nasal that closes 'wakomi' (surprise), its sibling.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "An adventure is impermanence walked willingly: the traveler agrees in advance not to know, which is the practice itself.",
     "art-nouveau-aesthetics": "The winding line that will not run straight, the path drawn for the beauty of its turning, is the adventure's own shape."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The journey into the unknown",
     "temporal": "Days given to the unmapped"
   }

@@ -6,9 +6,7 @@
     "li",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Fabric / Textile / Woven Material",
   "description": "Cloth produced by weaving or knitting; material with texture and drape. 'Liru' names the flowing textile—threads interlaced into continuous surface.",
   "sound_symbolism": "The word flows in threads. 'Li' moves with liquid continuity, fibers streaming. Then 'ru' rolls onward, fabric extending endlessly.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Flowing fabric—drape and movement, textile as living form.",
     "pre-industrial-wisdom": "Fabric as art—the weaver's skill creating texture, pattern, beauty in daily material."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Texture",
     "creation": "Woven art"
   }

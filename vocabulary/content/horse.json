@@ -7,9 +7,7 @@
     "lo",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Horse / The Striding Companion",
   "description": "The horse: strength and speed lent willingly or not — the plow's partner, the road's engine, the fable's laborer. Named by sound rather than family: the word strides. A counted horse may take optional 'lipha'.",
   "sound_symbolism": "A hard 'ka' strikes off, 'lo' rolls through the stride, and open 'ra' finishes at a run — hoofbeat rhythm at speaking pace, which is the only speed Phi permits even its fastest animal.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Before engines, the horse was the engine: field, road, and mill all turned on its patience. Every pre-industrial mile owed it something."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Strength at a stride",
     "physical": "The road's living engine"
   }

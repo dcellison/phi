@@ -7,9 +7,7 @@
     "sa",
     "mi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Compatible / Able to Work Together for a Stated Purpose",
   "description": "Able to work together for a stated purpose and under stated interface conditions. Compatible devices or formats need not be identical, accessible, or reliable outside that pairing; 'nowiso' (interface) names where interaction occurs, while 'thosami' says the selected parts can cooperate there.",
   "sound_symbolism": "Rounded 'tho' begins with breath along the teeth. Stressed 'sa' shifts that stream into a fine hiss and broad 'a'. Final 'mi' closes the lips around a bright nasal ending. Three places of contact meet cleanly, with the widest vowel held at the center.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Open, repairable systems depend on parts that can meet across generations of tools instead of trapping every user inside one vendor or design.",
     "peace-linguistics-practices": "Compatibility keeps a technical fit claim separate from the human questions of access, consent, and usefulness."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "components working together for a selected purpose",
     "creation": "designed fit across an interface",
     "dialogue": "communication formats that can be exchanged or rendered together"

@@ -7,9 +7,7 @@
     "na",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sediment / Transported or Deposited Particulate Material",
   "description": "Particles that have been transported or deposited, the residue of an erosion process rather than the process itself. Sediment is not soil in general, and its presence does not by itself mean pollution.",
   "sound_symbolism": "Deep 'mu' starts with matter enclosed behind the lips. Stressed 'na' brings the contact forward to the teeth and opens onto broad 'a', like particles spreading as motion slows. 'Ri' gives the tongue one last small turn before bright 'i'. The heavier beginning settles, but a trace of the journey remains in the final movement.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Sediment can be discussed as habitat material, transported matter, or a burden without assigning it one universal value.",
     "pre-industrial-wisdom": "River color, deposited silt, shifting banks, and settled particles have long been practical signs of land and water change."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "particulate material moved or deposited by environmental processes",
     "physical": "loose mineral, organic, or mixed particles"
   },

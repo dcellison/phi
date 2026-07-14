@@ -15,8 +15,14 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install validation dependencies
+        run: python3 -m pip install --requirement project/requirements.txt
+
       - name: Validate lexicon and examples
         run: python3 scripts/validate_examples.py
+
+      - name: Test vocabulary schema
+        run: python3 scripts/test_vocabulary_schema.py
 
       - name: Test productive name forms
         run: python3 scripts/test_name_forms.py

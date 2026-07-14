@@ -7,9 +7,7 @@
     "e",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Phase / Stage in a Cycle / Part of Process",
   "description": "A distinct period or stage in a process of change or development. 'Kaero' names the segment within cycles—the waxing moon, the sprouting seed, the stage within transformation.",
   "sound_symbolism": "The word moves through change. 'Ka' marks with clarity, phase defined. The vowel 'e' opens to transition. Then 'ro' rolls into what comes next, phase shifting.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Recognizing phases prevents panic—this is a phase, it will change, nothing stays fixed.",
     "pre-industrial-wisdom": "Moon phases marked time—waxing for planting, waning for harvest, each phase with its appropriate activities."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Process stage",
     "temporal": "Cycle segment"
   }

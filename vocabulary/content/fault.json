@@ -7,9 +7,7 @@
     "phi",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Fault / Abnormal Technical Condition",
   "description": "An abnormal technical condition that may or may not go on to cause trouble. Naming a fault is not yet naming blame, a broken part, or even a failure; those are each their own separate claims.",
   "sound_symbolism": "Crisp 'ki' places a bright, exact point at the beginning. Stressed 'phi' breaks that stop into air between the lips, and the change is immediately audible. 'Ra' rolls away into open 'a'. It completes the contour heard in 'phirae' (different) and lets the fault sound like a departure from the point first set.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Specific fault language supports diagnosis, repair, and transparent maintenance of shared infrastructure.",
     "peace-linguistics-practices": "A technical fault can be named without smuggling in blame for a person, allowing evidence and responsibility to be examined separately."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a fault claim remains distinct from its evidence and proposed cause",
     "creation": "a condition relevant to diagnosis, repair, and maintained function",
     "physical": "an abnormal condition in a technical component or relation"

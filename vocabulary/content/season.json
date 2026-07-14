@@ -7,9 +7,7 @@
     "lu",
     "na"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Season / Cyclical Time / Nature's Quarter",
   "description": "One of the four divisions of the year marked by weather patterns and daylight changes. 'Meluna' names the great rhythms—the quarters of the cycle that bring warmth and cold, growth and rest, each flowing into the next in endless return.",
   "sound_symbolism": "The word turns through time. 'Me' begins with measured nasal, time marked. Then 'lu' flows with liquid passage, one season into the next. Finally 'na' grounds in natural rhythm, the cycle earth-bound and reliable.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Seasons teach cyclical impermanence—nothing stays, yet everything returns. Each season contains seeds of the next.",
     "pre-industrial-wisdom": "Seasons structured all traditional life—planting and harvest, migration and return, ceremony and celebration aligned with nature's timing."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Annual rhythm pattern",
     "temporal": "Cyclical time division"
   }

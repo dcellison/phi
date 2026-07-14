@@ -7,9 +7,7 @@
     "le",
     "mi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Independent / Acting Under One's Own Direction",
   "description": "Acting under one's own direction without another person substituting their will or withholding permission needed for the act. Independence can include a device, chosen assistance, or interdependence with others. 'sonu' (alone) describes company; 'ralemi' describes control over the action.",
   "sound_symbolism": "Open 'ra' rolls the tongue through broad 'a'. Stressed 'le' continues that liquid motion in a quieter, balanced vowel before final 'mi' closes the lips and rises to bright 'i'. Two flowing syllables lead to one small, centered finish.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared tools and mutual aid can increase independence when the person using them keeps direction over the act.",
     "peace-linguistics-practices": "The word denies helpers an easy equation between receiving assistance and surrendering choice."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "acting under one's own direction",
     "community": "agency that can coexist with chosen support"
   },

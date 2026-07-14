@@ -6,9 +6,7 @@
     "ne",
     "pha"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Medicine / Healing Substance / Curative Treatment",
   "description": "A substance used in treating disease or illness; what heals the body. 'Nepha' names what restores—the treatment that returns health.",
   "sound_symbolism": "The word nurtures healing. 'Ne' nestles with internal care, medicine entering. Then 'ha' /ɸa/ breathes with healing breath, restoration beginning.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Medicine for suffering—addressing the root cause, not just symptoms, true healing.",
     "pre-industrial-wisdom": "Medicine from nature—plants, minerals, preparations passed through generations of healers."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Healing substance",
     "physical": "Restoration"
   }

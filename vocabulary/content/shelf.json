@@ -7,9 +7,7 @@
     "la",
     "si"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Shelf / Raised Surface for Keeping Things",
   "description": "A level surface fixed to or supported by a wall, frame, or piece of furniture for keeping things above the floor. A table invites work or gathering around it; a shelf gives stored objects a visible place along an edge. The word covers a single shelf rather than the whole cupboard or shelving unit around it.",
   "sound_symbolism": "Fine bilabial breath opens 'phe' into balanced 'e'. Stressed 'la' releases the tongue and spreads across broad 'a', while final 'si' draws the air into a bright hiss. Soft at the opening, the sound widens fully and ends in a thin clear line.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "On an open shelf, reusable tools and shared goods are easier to find, return, and use again.",
     "pre-industrial-wisdom": "A board set into a wall or hung from pegs made storage from little material and kept food or tools off a damp floor."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "a made surface supported above the floor",
     "physical": "a level support for kept objects",
     "spatial": "storage arranged along a raised edge"

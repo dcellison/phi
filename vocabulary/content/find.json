@@ -7,9 +7,7 @@
     "ka",
     "wi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Find / Discover / Come Upon the Sought or Unsought",
   "description": "To find: the key that was lost, the path through the forest, the word that was wanted. Discovery, whether after long search or by grace of accident. Pairs with 'thilou' (inquire — seeking by asking) and 'sahu' (forget) as its shadow.",
   "sound_symbolism": "Three syllables trace the whole event: 'he', the searching breath; 'ka', the click of contact; 'wi', the brightness of the found thing in the hand. The word arrives the way finding does.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "What is sought with grasping hides; what is sought with open attention is found. The word's own arc — breath before click — keeps the order honest.",
     "pre-industrial-wisdom": "The forager's whole craft: knowing where to look, and recognizing the found thing when it appears."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The forager's and searcher's verb",
     "cognition": "The moment of discovery",
     "spatial": "Coming upon what was elsewhere"

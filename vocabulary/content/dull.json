@@ -6,9 +6,7 @@
     "sho",
     "ru"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Dull / Lacking Sharpness / Blunt",
   "description": "Lacking a sharp edge or point; not keen or acute. 'Shoru' names the quality of dullness—edges that don't cut, points that don't pierce.",
   "sound_symbolism": "The word slides past. 'Sho' /ʃo/ begins with soft pressure, edge absent. Then 'ru' rolls without cutting, dullness confirmed.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Dull awareness misses subtlety—the unsharpened mind overlooks what's present.",
     "pre-industrial-wisdom": "Dull tools taught maintenance—the consequence of neglect reminded craftspeople to care for their instruments."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Not acute",
     "physical": "Lacking edge"
   }

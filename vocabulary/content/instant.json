@@ -7,9 +7,7 @@
     "ro",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Instant / Immediate Point / Flash of Time",
   "description": "An infinitely brief period of time; a point without duration. 'Tiroe' names the mathematical point of time—the flash, the immediate, the absolutely now.",
   "sound_symbolism": "The word flashes past. 'Ti' begins with crisp precision, point defined. 'Ro' rolls through instantly. Finally 'e' opens and vanishes, the instant gone.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Each instant arises and passes—the flash of existence that constitutes reality.",
     "pre-industrial-wisdom": "Instants of decision shaped fate—the flash when choice was made, action taken."
   },
-  "tags": {
+  "semantic_domains": {
     "temporal": "Infinitely brief",
     "wisdom": "Immediate point"
   }

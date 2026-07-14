@@ -7,9 +7,7 @@
     "po",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Propose / Present a Possible Collective Action for Consideration",
   "description": "To place a possible collective action into consideration. A proposal can be ignored, amended, rejected, or adopted, and none of those outcomes is decided by the act of proposing itself.",
   "sound_symbolism": "Rolling 're' reaches outward at once. Stressed 'po' gives that movement a brief lip closure and a rounded chamber. In 'ra', the tongue rolls again and the final vowel opens fully. The contour travels through one formed center and returns to open motion.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Proposals let communities make possible futures concrete enough to compare, revise, resource, and reject without treating imagination as implementation.",
     "peace-linguistics-practices": "Separating proposal from decision and obligation preserves genuine deliberation and prevents a powerful speaker's suggestion from silently becoming a command."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "presenting a collective action or rule for consideration",
     "dialogue": "a proposal remains open to response, amendment, and refusal"
   },

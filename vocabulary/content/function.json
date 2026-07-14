@@ -7,9 +7,7 @@
     "li",
     "tho"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Function / Perform a System Role or Operation",
   "description": "To perform a role or operation within a system. Functioning is the act itself; whether that act serves its intended purpose well, safely, or efficiently is a separate claim with its own evidence.",
   "sound_symbolism": "The first two syllables echo the full sound of 'keli' (device): a clean 'ke' followed by stressed liquid 'li'. The tongue moves from the velar stop into a bright, easy line. Final 'tho' breathes across the teeth and settles into round 'o'. A made thing is heard first; then the word exhales into the work it performs.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Clear function language supports repairable, understandable infrastructure instead of treating technology as an opaque authority.",
     "pre-industrial-wisdom": "Practical knowledge often distinguishes what a part is meant to do from whether it currently does it well, safely, or durably."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "performance of a characteristic or required system operation",
     "creation": "the role for which a component or system is arranged"
   },

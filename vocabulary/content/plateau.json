@@ -6,9 +6,7 @@
     "shu",
     "pi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Plateau / High Flat Land / Elevated Plain",
   "description": "An area of relatively level high ground. 'Shupi' names the elevated flats—where land rises to create high plains, offering both the openness of lowlands and the perspective of heights.",
   "sound_symbolism": "The word rises to level height. 'Shu' /ʃu/ lifts with soft breath, the ascent. Then 'pi' flattens at the top, the level high ground.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Plateaus teach stability at height—having risen, one finds level ground, perspective without continued striving.",
     "pre-industrial-wisdom": "High plateaus offered unique ecosystems and refuge—places where communities found both isolation and prospect."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Elevated flat land",
     "spatial": "High level ground"
   }

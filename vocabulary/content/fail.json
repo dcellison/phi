@@ -7,9 +7,7 @@
     "nu",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Fail / Lose or Not Perform a Required Technical Function",
   "description": "To not perform a stated required function. Failure names the missed function plainly, without saying anything yet about what caused it, whether something physically broke, or who is responsible for the fix.",
   "sound_symbolism": "Dental breath begins 'tho' and rounds into an expectation of continued motion. Stressed 'nu' closes that path in a deep nasal chamber. The smaller, sharper velar contact of 'ki' ends on bright 'i' and narrows the sound a second time, until the expected movement has nowhere further to go.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Failure is treated as a conditioned event that can be observed and investigated, not as a permanent essence.",
     "peace-linguistics-practices": "The word names unmet technical function without converting a system event into condemnation of a worker, user, or community."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "loss or absence of a required technical function",
     "cognition": "a classification that requires a stated function and conditions",
     "creation": "an event relevant to design, maintenance, and repair"

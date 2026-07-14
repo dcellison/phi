@@ -7,9 +7,7 @@
     "re",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Connect / To Weave a Relational Bridge",
   "description": "The act of bringing two or more things into a relationship, creating a link or bridge between them. It is the fundamental process of weaving the web of interconnection.",
   "sound_symbolism": "The word opens with 'lo', an embracing sound that reaches outward to gather what it finds. This flows into the bridging 're', creating a pathway between separate points. The final vowel sequence 'e.a' opens into spacious possibility, allowing the connection to breathe and evolve. This three-part journey—reaching, bridging, opening—mirrors the very act of connecting: first we extend ourselves, then we build the bridge, finally we create space for relationship to flourish. The liquid and vowel sounds flow together like streams converging into a river.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Connection embodies the fundamental teaching of interdependence - that nothing exists in isolation but only through relationships with all else. To connect is to recognize and strengthen the web of relationships that already exists, making visible the truth that separation is an illusion created by limited perception.",
     "peace-linguistics-practices": "The act of connecting prevents the violence of isolation and othering by actively building bridges between people, ideas, and communities. Peace linguistics understands that naming and nurturing connections creates a reality where conflict becomes less likely, as we cannot easily harm those with whom we recognize our connection."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "weaves relationships into visible interdependence",
     "spatial": "bridges separate points into unified relationship"
   }

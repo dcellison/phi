@@ -7,9 +7,7 @@
     "i",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Sit / Rest in Seated Position",
   "description": "To lower oneself into a supported resting position, the body's weight moving from feet to seat. The verb covers both the act of sitting down and the state of being seated. In Phi it is also the posture of deliberate stillness, of councils, students, and meditation: choosing to stop moving and stay.",
   "sound_symbolism": "The word begins with 'mei', where the labial nasal 'm' creates the most grounded consonant - lips together, sound resonating through bone, the body's weight settling into earth. This grounding flows into the vowel pair 'ei' pronounced in hiatus as /e.i/, creating Phi's distinctive two-beat rhythm within a single written syllable. The 'e' begins the lowering motion, then 'i' represents the slight adjustment as we find our center. The final syllable 'lo' flows liquid and continuous, the 'l' rolling into settled stability while 'o' rounds out in complete rest, whole and centered. 'Meilo' captures the full journey of sitting - grounding, adjusting, settling into supported stillness.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Sitting together is a universal gesture of peace - we sit to show we come without aggression, to indicate readiness for dialogue, to demonstrate commitment to remaining present through difficult conversations. The seated position naturally slows speech and encourages thoughtful response rather than reactive confrontation.",
     "pre-industrial-wisdom": "Traditional cultures worldwide recognize sitting in circles as essential for council, storytelling, and decision-making. The equality of the circle, where no position dominates, emerges naturally when people sit together. Sitting connects us to ancestral practices of gathering around fires, sharing wisdom, and building community through patient presence."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental human activity of sitting",
     "community": "essential posture for gatherings, councils, and shared activities",
     "physical": "fundamental bodily position and experience of supported rest",

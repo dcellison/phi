@@ -7,9 +7,7 @@
     "lu",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Milk / The First Drink",
   "description": "Milk: the first food of every mammal, and the household drink after. The word echoes 'milau' (drink) on purpose; milk is the drink before all others. Ungendered like everything in Phi: it belongs to nourishment, not to any word for who provides it.",
   "sound_symbolism": "Soft 'mi' into liquid 'lu'-'ra', with no stop consonant anywhere. The word pours.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The household animal that gave milk was wealth that renewed daily. Whole cuisines are built on the ways people kept milk from spoiling."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The first nourishment",
     "physical": "The drink before all others"
   }

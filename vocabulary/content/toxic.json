@@ -7,9 +7,7 @@
     "ki",
     "ra"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Toxic / Capable of Biological Harm Under Exposure",
   "description": "Capable of biological harm under a stated exposure, route, and organism. Toxicity is a capacity, not a guarantee: an agent can be toxic and still cause no harm where no relevant exposure occurs.",
   "sound_symbolism": "Soft 'pe' begins with a small closure that gives little warning. Stressed 'ki' tightens suddenly at the soft palate and releases into bright 'i'. 'Ra' rolls that sharp point outward into broad 'a'. The danger enters quietly, concentrates in the middle, and travels into the body of the word.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Toxicity language supports material accountability while requiring the affected organisms, exposure route, amount, and uncertainty to remain visible.",
     "peace-linguistics-practices": "The specialist sense applies to biological effects of agents and must not become an unmarked condemnation of people, relationships, cultures, or speech."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a conditioned assessment of biological harm capability",
     "nature": "potential biological effects on organisms or living groups",
     "physical": "a property of substances, mixtures, materials, or agents under exposure"

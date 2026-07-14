@@ -6,9 +6,7 @@
     "wo",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Keeper / Guardian / One Who Maintains",
   "description": "One who guards, maintains, or preserves something; a protector of what matters. 'Woru' names who holds safe—maintaining what must not be lost.",
   "sound_symbolism": "The word watches with care. 'Wo' opens with watchful attention, vigilance awake. 'Ru' holds with steady guardianship, protection maintained.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Keeper as protector—guarding what supports flourishing without grasping.",
     "pre-industrial-wisdom": "Keeper of knowledge—those who guard traditions and pass them on."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Guardian role",
     "temporal": "Maintaining presence"
   }

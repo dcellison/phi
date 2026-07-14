@@ -7,9 +7,7 @@
     "sho",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Express / To Make the Inner Self Open",
   "description": "The act of conveying a thought or feeling in a perceivable form. It is the fundamental process of making the inner world manifest in the outer world.",
   "sound_symbolism": "The word begins with 'mi', a soft nasal that resonates from deep within, where authentic expression originates. This inner vibration flows through 'sho', a gentle fricative that transforms internal feeling into external form—the breath that carries truth outward. The final 'a' opens completely, releasing what was held inside into the shared world. This three-part movement—from inner resonance through transformative breath to complete opening—mirrors the courage of true expression. The sound progression feels like a flower unfolding: first the bud ('mi'), then the gentle unfurling ('sho'), finally the full bloom ('a').",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "Expression embodies the Art Nouveau principle that inner essence must find outer form - that beauty emerges when natural forces are allowed to manifest without artificial constraint. Like the flowing lines that express the life force of plants, human expression at its best allows inner truth to shape external form organically.",
     "peace-linguistics-practices": "Expression serves peace by making the invisible visible, allowing others to understand our inner reality rather than guess at it. When we express authentically, we prevent the violence of misunderstanding and create opportunities for genuine connection. This practice transforms potential conflict into shared understanding through the courage of vulnerability."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "conveys inner truth through perceivable forms",
     "emotion": "manifests feelings from inner to outer world"
   }

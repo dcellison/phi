@@ -7,9 +7,7 @@
     "pu",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Progress / Move Toward a Stated Work Criterion",
   "description": "To move toward a stated stage or completion criterion. Progress is always relative to that criterion: it can pause, reverse, or become irrelevant when the plan changes, and change alone is not progress. The word carries no moral improvement and no inevitability.",
   "sound_symbolism": "A rounded glide carries 'we' into open 'e', then stressed 'pu' closes the lips completely and releases into deep 'u'. Final 'ri' flicks the tongue and rises to bright 'i'. The contour narrows, deepens, then lifts in one last quick motion.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Progress can be evaluated against repair, access, ecological effect, and human need instead of being assumed from growth or activity alone.",
     "secular-buddhist-philosophy": "A relative progress word keeps attention on changing conditions and chosen criteria rather than treating improvement as an inherent property of time."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "movement toward a stated practical criterion",
     "cognition": "an interpreted relation between current and intended states",
     "temporal": "change across stages of an undertaking"

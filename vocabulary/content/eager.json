@@ -7,9 +7,7 @@
     "ru",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Eager / Keen and Enthusiastic / Ready to Begin",
   "description": "Strongly wanting to do or have something; keenly expectant. 'Therua' names the quality of eagerness—energy gathered and ready, enthusiasm pointing toward action.",
   "sound_symbolism": "The word leans forward. 'The' /θe/ begins with ready breath, anticipation forming. 'Ru' rolls with gathered energy, momentum building. Finally 'a' opens to what's coming, eagerness complete.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Eager engagement drives change—enthusiasm that wants to begin building better futures.",
     "secular-buddhist-philosophy": "Eager practice approaches meditation with energy—not passive waiting but active engagement."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Keen enthusiasm",
     "temporal": "Ready to begin"
   }

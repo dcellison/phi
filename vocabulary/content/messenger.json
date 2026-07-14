@@ -7,9 +7,7 @@
     "lo",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Messenger / Message Carrier / News Bringer",
   "description": "One who carries messages between people or places; a bearer of communication. 'Toloi' names who bridges distance—carrying words across space.",
   "sound_symbolism": "The word carries with purpose. 'To' touches with contact made, message received. 'Lo' opens with delivered content, meaning arriving. Then 'i' rises to understanding received.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Messenger as bridge—enabling communication across distance and difference.",
     "pre-industrial-wisdom": "Messenger as connector—linking distant people through carried words."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Connecting role",
     "dialogue": "Message carrying"
   }

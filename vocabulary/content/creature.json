@@ -7,9 +7,7 @@
     "mo",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Creature / Living Being / Any Animate Entity",
   "description": "Any living being, especially an animal; a general term for animate life of any kind. 'Limoe' names the broadest category of living things that move and sense—when the specific type is unknown, unimportant, or when emphasizing the shared quality of animate existence.",
   "sound_symbolism": "The word breathes with general life. 'Li' begins with liquid aliveness, life flowing. Then 'mo' holds with nasal presence, being embodied. Finally 'e' opens to possibility, any form of life.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "All creatures share the quality of sentient existence—'limoe' names this shared ground before distinctions of type.",
     "pre-industrial-wisdom": "Traditional stories speak of 'creatures' when the exact form matters less than the animate presence—the being encountered in forest or dream."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "General category for life",
     "nature": "Any living animate being"
   }

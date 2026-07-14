@@ -7,9 +7,7 @@
     "ru",
     "me"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Decompose / Break Down Through Biological or Chemical Processes",
   "description": "To break down through biological or chemical processes. Decomposition can release nutrients, bind them, or move them elsewhere, and it is a distinct process from death, disappearance, or the closing of any particular cycle.",
   "sound_symbolism": "'Mo' holds the first sound behind closed lips in a rounded form. Stressed 'ru' rolls that form apart and carries it through deep 'u'. Soft 'me' brings the lips together again with a lighter vowel and a changed shape; material has passed through motion and settled differently.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Decomposition supports honest material-afterlife discussion without promising that every discarded material returns safely or usefully.",
     "secular-buddhist-philosophy": "The word presents material form as conditioned and changing while preserving the specific processes and consequences of that change."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "biological or chemical breakdown of material",
     "nature": "a transformation often mediated by organisms and environmental conditions",
     "physical": "material changing into different constituent forms over time"

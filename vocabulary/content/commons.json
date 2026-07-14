@@ -7,9 +7,7 @@
     "e",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Commons / Shared Space / Collective Resource",
   "description": "Land or resources belonging to or affecting the whole of a community; shared space. 'Laenu' names what belongs to all—the shared meadow, the community well, resources held in common.",
   "sound_symbolism": "The word shares openly. 'La' begins with open release, sharing initiated. The vowel 'e' opens to all. Then 'nu' grounds in collective holding, commons established.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Commons enable sustainability—shared resources managed for collective benefit rather than private extraction.",
     "pre-industrial-wisdom": "Commons sustained communities—shared lands for grazing, foraging, gathering that belonged to all."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Collective resource",
     "spatial": "Shared space"
   },

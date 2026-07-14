@@ -7,9 +7,7 @@
     "lu",
     "me"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ancestor / The Deep Flow Before the Self",
   "description": "Those who came before, whose lives and choices form the deep, flowing current out of which the present self emerges. They are honored as the source of the river of kinship.",
   "sound_symbolism": "The word begins with the reverent fricative 'th', requiring a pause of breath that mirrors the respectful pause we take when invoking those who came before. The deep 'a' grounds us in ancient time, flowing into the liquid 'lu' that carries the stream of lineage forward. The final 'me' brings this flow into personal connection—acknowledging that we are the continuation of their story. This three-syllable journey from reverent breath through flowing time to personal presence creates a sound that feels both ancient and intimate, honoring those whose lives made ours possible.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The concept embodies the Buddhist understanding of interdependence and continuity - that our present existence arises from countless causes and conditions set in motion by those before us. It reflects the teaching that nothing exists in isolation, and that honoring ancestors is recognizing the web of connections that made our life possible.",
     "pre-industrial-wisdom": "Ancestor veneration is fundamental to traditional societies worldwide, recognizing that wisdom accumulates across generations and that the living have sacred obligations to those who came before. This understanding of deep time and intergenerational connection stands in contrast to modern individualism and historical amnesia."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "forms the deep current of kinship and lineage",
     "ritual": "honored through sacred obligations and veneration",
     "temporal": "connects present to deep time through generations"

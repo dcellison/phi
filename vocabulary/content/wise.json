@@ -6,9 +6,7 @@
     "phu",
     "e"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Wise / Having Wisdom / Deeply Understanding",
   "description": "Having or showing experience, knowledge, and good judgment. 'Phue' names the quality of deep understanding—not mere cleverness but genuine insight, the knowing that comes from experience and reflection.",
   "sound_symbolism": "The word breathes insight. 'Phu' /ɸu/ begins with thoughtful breath, wisdom gathering. Then 'e' opens to clarity, understanding revealed.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Wisdom (prajna) is one of the three trainings—seeing clearly the nature of reality, impermanence, and interconnection.",
     "pre-industrial-wisdom": "Elders were honored as wisdom-keepers—those whose experience had distilled into genuine understanding."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Mature insight",
     "wisdom": "Deep understanding"
   }

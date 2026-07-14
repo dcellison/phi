@@ -6,9 +6,7 @@
     "so",
     "li"
   ],
-  "pos": [
-    "quantifier"
-  ],
+  "pos": "quantifier",
   "concept": "Some / Indefinite Subset or Amount",
   "description": "The quantifier expressing an indefinite nonempty subset or amount: some people, some days, or some water. 'Soli' has no fixed numerical lower or upper boundary and does not by itself mean few, enough, or a particular proportion. It is appropriate when identifying an unspecified part is more relevant than giving its exact size.",
   "sound_symbolism": "The word begins with 's', a soft sibilant suggesting elements scattered from a larger set. The round 'o' gathers an unspecified portion, and the liquid 'l' flows into bright 'i' without closing that portion into a fixed count. The image supports an indefinite subset; it does not encode fewness or sufficiency.",

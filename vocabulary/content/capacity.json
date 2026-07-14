@@ -7,9 +7,7 @@
     "no",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Capacity / Conditioned Limit of Holding, Processing, or Delivery",
   "description": "The conditioned limit of what a system can hold, process, or deliver under stated conditions. Capacity is the ceiling, not what the system currently holds, which is a separate and often much smaller number.",
   "sound_symbolism": "A light breath in 'he' gives the word room at once. Stressed 'no' meets that openness with a dental nasal and a rounded chamber, the first sense of an edge. 'Ra' rolls out into full 'a' and tests how far the chamber can extend: capacity becomes space encountered, held, and measured by the mouth.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Capacity language makes material and infrastructural limits explicit instead of promising limitless provision or hiding scarcity behind aspiration.",
     "pre-industrial-wisdom": "Tools, stores, waterways, and shared works are understood through the conditions and rates they can actually bear."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a specified limit whose interpretation depends on object, conditions, and time",
     "creation": "a design property used in sizing and comparing infrastructure",
     "physical": "a conditioned amount or rate a material system can hold or handle"

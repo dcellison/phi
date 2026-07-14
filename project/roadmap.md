@@ -187,7 +187,7 @@ A new philosophical or module word should normally satisfy all of the following:
 2. Consider whether a transparent compound makes the idea clearer than a new root.
 3. Coin freely when the concept deserves lexical presence or a compound would be cumbersome, ambiguous, or aesthetically wrong for Phi.
 4. Give the proposal a bounded meaning and explicit contrasts with neighboring words or constructions.
-5. Fill every canonical schema field accurately, including natural grammatical examples and appropriate semantic tags or module membership.
+5. Fill every canonical schema field accurately, including natural grammatical examples and appropriate semantic domains or module membership.
 6. Run structural, phonetic-neighbor, gloss, reference-generation, and documentation checks.
 
 This checklist protects implementation quality. It does not require external approval, repeated failure, or proof that no alternative word could have been avoided.

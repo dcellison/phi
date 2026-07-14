@@ -6,9 +6,7 @@
     "pe",
     "shu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Lie / Recline / Rest Horizontally",
   "description": "To speak what one knows to be false with the intent to mislead. 'Peshu' covers spoken and enacted deception—false words, false silence, truth withheld to create a wrong belief. It contrasts with 'phelira' (mistaken): the mistaken speaker is wrong without knowing it, while the liar knows and chooses. Phi keeps this word not to enable deception but to let speakers name it plainly.",
   "sound_symbolism": "The stop 'p' erects a hard false front — the surface presented to the listener. Behind it, 'shu' is the whisper closing over the closed vowel 'u': the truth pushed down into concealment. The word shares no sounds with 'theloa' (truth); the two cannot be mistaken for each other.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Peaceful speech does not mean avoiding hard words for wrong acts. A plain word for lying lets communities address deception directly and repair trust, instead of letting it hide behind softer terms.",
     "pre-industrial-wisdom": "Oral cultures ran on the reliability of the spoken word—agreements, boundaries, and histories lived in speech alone, so the liar endangered the community's shared memory. The word carried real weight."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "False speech; the breaking of communicative trust",
     "wisdom": "What truthfulness is defined against"
   }

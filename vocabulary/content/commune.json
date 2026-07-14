@@ -7,9 +7,7 @@
     "ra",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Commune / Shared Community / Live Together",
   "description": "To live in shared relationship, resources and responsibilities held in common. 'Shorai' names the deep sharing—not just proximity but intertwined lives.",
   "sound_symbolism": "The word shares outward. 'Sho' opens with collective spirit, sharing beginning. 'Ra' radiates with community spreading, bonds extending. Then 'i' rises to unified belonging.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Communal living—sharing resources, reducing waste, building solidarity.",
     "pre-industrial-wisdom": "Village life—the traditional pattern of interwoven households and shared labor."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Shared living",
     "spatial": "Collective dwelling"
   },

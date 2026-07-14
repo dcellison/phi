@@ -6,9 +6,7 @@
     "sho",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Complete / Having All Parts / Whole and Finished",
   "description": "Having all necessary parts, elements, or steps; entire and whole. 'Sholu' names the quality of completeness—nothing missing, nothing more needed.",
   "sound_symbolism": "The word finishes fully. 'Sho' /ʃo/ gathers with soft certainty, parts assembling. Then 'lu' settles into wholeness, completion achieved.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Each moment is complete—nothing needs to be added for this moment to be fully itself.",
     "pre-industrial-wisdom": "Complete crafts needed nothing added—traditional work achieved fullness through sufficiency."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "All parts present",
     "wisdom": "Nothing lacking"
   }

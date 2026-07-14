@@ -5,9 +5,7 @@
   "syllables": [
     "ta"
   ],
-  "pos": [
-    "numeral"
-  ],
+  "pos": "numeral",
   "concept": "One / Unity / Wholeness",
   "description": "The first numeral. As a quantity it counts one thing; as a concept it names unity: wholeness rather than isolation, the seed that holds the tree.",
   "sound_symbolism": "The single syllable 'ta' embodies singularity through its crisp clarity. The dental stop 't' makes definite contact—a clear point of articulation that establishes presence with gentle certainty. The open vowel 'a' that follows is the most basic, primal vowel—the first sound, the beginning of voice itself. Together, 'ta' creates the sound of definitive singularity: one clear point opening into infinite possibility.",
@@ -16,7 +14,7 @@
     "secular-buddhist-philosophy": "The numeral embodies the teaching of non-duality—that apparent separation is illusion, that all phenomena arise from and return to fundamental unity. Like the understanding that self and other are not two, 'ta' represents wholeness before division.",
     "pre-industrial-wisdom": "The concept of 'one' as the beginning, the seed, the individual that contains the whole—found in traditional counting systems that begin with unity rather than zero."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "fundamental cognitive concept for counting and establishing singular identity"
   }
 }

@@ -7,9 +7,7 @@
     "so",
     "phi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Contaminant / Agent Present Outside a Stated Expected Condition",
   "description": "An agent present outside a stated expected condition. A contaminant may turn out harmless or even naturally occurring; the stronger claim of actual impairment belongs to 'pesenu' (pollute), a separate word for a separate finding.",
   "sound_symbolism": "Light 'hi' enters the narrow hiss and stressed round vowel of 'so' and preserves the complete sound of 'hiso' (clean). 'Phi' changes that settled ending into breath pressed between the lips and released toward bright 'i'. The word begins with a familiar clear condition, then its last syllable becomes newly audible in the air around it.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Contamination is framed as a conditioned relation to a medium and expectation, not as an inherent essence of a substance or being.",
     "peace-linguistics-practices": "The definition prevents technical contamination language from becoming a metaphor that dehumanizes outsiders, migrants, cultures, or disliked life."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an agent classified relative to a stated expected condition",
     "nature": "a material or organism investigated within an environmental medium",
     "physical": "a substance, organism, or agent present in a sample, place, or process"

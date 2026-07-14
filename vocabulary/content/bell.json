@@ -6,9 +6,7 @@
     "te",
     "li"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Bell / Ringing Instrument / Calling Sound",
   "description": "A hollow metal object that rings when struck; instrument of calling and awareness. 'Teli' names what calls to presence—the clear tone that awakens attention.",
   "sound_symbolism": "The word rings clear. 'Te' taps with sharp contact, striker meeting metal. Then 'li' rings bright and clear, tone spreading.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Bell as awakener—the mindfulness bell calls attention to present moment, interrupting distraction.",
     "pre-industrial-wisdom": "Bells organized community—calling to worship, marking time, warning of danger."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Ringing instrument",
     "ritual": "Calling presence"
   }

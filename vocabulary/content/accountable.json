@@ -7,9 +7,7 @@
     "tho",
     "ni"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Accountable / Required to Answer and Undergo Review",
   "description": "Required to answer for something and to stand review, which is not the same as having caused the harm in question. A person can be accountable under a procedure without being its cause, or 'thonai' responsible by choice without holding any office at all.",
   "sound_symbolism": "Liquid 'lo' begins in a low rounded flow that reaches beyond itself. Stressed 'tho' turns that flow into breath along the teeth and gives the center a deliberate weight. Dental 'ni' closes the word at the same place with a steadier nasal contact and bright 'i'. The answer travels outward, meets review, and returns to one person or body waiting to hear it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Accountability lets shared institutions carry maintenance, ecological consequences, access, and resource decisions beyond personal goodwill or informal memory.",
     "peace-linguistics-practices": "Requiring an account without presuming guilt keeps explanation, evidence, affected testimony, response, and repair separate from accusation or automatic punishment."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "answerability for a stated matter under a review relationship"
   },
   "modules": [

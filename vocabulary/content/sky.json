@@ -7,9 +7,7 @@
     "e",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sky / Heavens / Atmospheric Expanse",
   "description": "The region of atmosphere and space visible from earth, stretching from horizon to horizon. 'Waero' names the great openness above—the canvas of clouds and stars, the blue vastness that holds weather and wonder, connecting all who stand beneath it in shared witness.",
   "sound_symbolism": "The word opens to infinite space. 'Wa' begins with breathy wonder, the gasp of looking upward. The vowel 'e' stretches between syllables like the sky itself, unhurried and vast. Finally 'ro' holds the space, the dome that contains all above.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The sky teaches spaciousness—vast, unchanging awareness that holds all weather without being disturbed by it.",
     "pre-industrial-wisdom": "Traditional peoples read the sky for weather, navigation, and seasonal timing—the original calendar and compass."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Atmospheric expanse",
     "spatial": "The great above"
   }

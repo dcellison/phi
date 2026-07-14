@@ -6,9 +6,7 @@
     "shi",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Blue / Sky-Color / Water-Hue",
   "description": "The adjective naming the cool hue of sky, water, and distant mountains. In Phi, blue carries associations with vastness, depth, and calm—the infinite overhead, the depths below, the far horizon. This word names the color of clear sky that means openness, of deep water that means mystery, of twilight that means transition.",
   "sound_symbolism": "The fricative 'sh' opens the word on a hushed note, and the bright 'i' suits the clarity of open sky. 'Lu' follows with the liquid 'l' moving like water and the close 'u' settling toward depth.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Blue appears throughout Art Nouveau—the blue of irises, of peacock feathers, of stained glass skies. 'Shilu' names this cooling, calming hue.",
     "pre-industrial-wisdom": "Many traditional languages combined blue with green or black—the separate naming of blue came relatively late. 'Shilu' names the distinct sky-water hue."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "visual quality of cool hue",
     "nature": "the color of sky and water"
   }

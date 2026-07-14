@@ -6,9 +6,7 @@
     "ne",
     "mo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Grateful / Feeling Thankfulness / Appreciating Gifts",
   "description": "Feeling or showing appreciation for something done or received. 'Nemo' names the quality of thankfulness—the heart that recognizes and appreciates what has been given.",
   "sound_symbolism": "The word receives with thanks. 'Ne' settles into presence, gift recognized. Then 'mo' grounds in appreciation, gratitude embodied.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Gratitude counters taking for granted—the practice of noticing and appreciating what supports our lives.",
     "pre-industrial-wisdom": "Traditional cultures practiced gratitude ritually—thanksgiving for harvest, rain, and the gifts of existence."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Thankfulness",
     "wisdom": "Appreciating gifts"
   }

@@ -10,15 +10,15 @@ The JSON entries in this directory are Phi's canonical lexicon. Each file record
 | [`function/`](function/) | Grammatical words, divided into their function classes. |
 | [`interjection/`](interjection/) | Conventional whole utterances such as greetings and reactions. |
 | [`schema.json`](schema.json) | The machine-readable entry contract and the canonical identifiers for fields, parts of speech, pillars, semantic domains, and modules. |
-| [`semantic_domains.md`](semantic_domains.md) | The thirteen semantic tags, with the reasoning and practical guidance behind them. |
+| [`semantic_domains.md`](semantic_domains.md) | The thirteen semantic domains and the guidance for assigning them. |
 
 Module membership does not create a second lexicon. A content entry may name several optional learning paths in its `modules` array, while the absence of that field places the word in base vocabulary. Either way, the word follows the same grammar.
 
 ## The entry contract
 
-An entry's filename comes from its English gloss, and the JSON keeps the field order declared in [`schema.json`](schema.json). Content entries have one lexical part of speech and at least one semantic-domain tag. A definition draws the useful boundary. Sound symbolism attends to the whole spoken form, while grammatical notes show the word at work.
+An entry's filename comes from its English gloss, and the JSON keeps the field order declared in [`schema.json`](schema.json). The `pos` field holds one lexical class. Every content entry maps at least one `semantic_domains` identifier to a reason that belongs to that word. A definition draws the useful boundary. Sound symbolism attends to the whole spoken form, while grammatical notes show the word at work.
 
-The validator reads the schema's classifications directly and then checks the rules that JSON Schema cannot settle neatly. It verifies the spoken form, the file layout, and the word's place in the lexicon. Run it after every lexicon change.
+The validator first runs the complete entry through Draft 2020-12 JSON Schema. It then checks the rules the schema cannot settle: the spoken form, cross-entry collisions, canonical file layout, Phi examples, and the word's place in the lexicon. Slot 1 ordering comes from each particle's `slot1_rank` metadata rather than a second list hidden in the validator.
 
 ## Working on an entry
 
@@ -27,5 +27,7 @@ The validator reads the schema's classifications directly and then checks the ru
 3. Fill every required field and keep the entry in canonical serialization.
 4. Rebuild the manual's derived lexicon with `python3 scripts/generate_reference.py`.
 5. Run `python3 scripts/validate_examples.py` as a standalone command and resolve every error and warning.
+
+Install the validator dependency in a new Python environment with `python3 -m pip install --requirement project/requirements.txt` from the repository root.
 
 The website build writes its lexicon view to `build/site/lexicon.json`. The optional SQLite lookup tool writes `build/lexicon.db`. Both are disposable: when either disagrees with a vocabulary entry, rebuild the generated file and believe the JSON.

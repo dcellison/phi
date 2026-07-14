@@ -6,9 +6,7 @@
     "ni",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Web / Interconnected Network / Woven Connections",
   "description": "A network of interconnected strands; the pattern of relationships that link things together. 'Niro' names the mesh of connection—where pulling one strand moves all.",
   "sound_symbolism": "The word knits with structure. 'Ni' weaves with fine connection, threads crossing. 'Ro' grounds with networked stability, structure holding.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Web of interdependence—Indra's net where each jewel reflects all others.",
     "pre-industrial-wisdom": "Spider's teaching—the patient weaving that creates from within."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Woven pattern",
     "spatial": "Networked structure"
   }

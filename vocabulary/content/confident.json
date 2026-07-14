@@ -7,9 +7,7 @@
     "re",
     "thi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Confident / Holding a Strong but Revisable Stance",
   "description": "Holding a strong stance while staying open to revising it. Confidence describes how firmly a person holds a belief, never whether the belief is true, and it grants no authority to override anyone else's account.",
   "sound_symbolism": "Dental 'no' starts with a steady nasal contact and a calm round vowel. 'Re' rolls forward under stress and gives the middle of the word a firm living motion. 'Thi' finishes in a thread of air between tongue and teeth, then focused 'i'. Confidence sounds settled at first, animated at its center, and clear at the edge.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Confidence can support committed action without being mistaken for permanent certainty or immunity from revision.",
     "peace-linguistics-practices": "Separating confidence from truth and authority lets speakers state their stance strongly without using strength of feeling to silence others."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "the experienced strength of a belief or judgment",
     "emotion": "felt steadiness in one's understanding or ability",
     "wisdom": "firmness that remains distinguishable from knowledge and certainty"

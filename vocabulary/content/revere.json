@@ -6,9 +6,7 @@
     "ne",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Revere / Honor Deeply / Venerate",
   "description": "To regard with deep respect and honor; veneration that recognizes worth. 'Nelu' names the honoring gaze—seeing and acknowledging what is worthy of respect.",
   "sound_symbolism": "The word honors from the ground up. 'Ne' begins with grounded clarity, respect rooted in honest recognition. 'Lu' flows with deep feeling. Reverence as deep, grounded honor rather than mere performance.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Reverence without attachment—honoring without grasping or idolizing.",
     "pre-industrial-wisdom": "Reverence for elders—traditional honoring of those who carry wisdom."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Deep respect",
     "ritual": "Honoring practice"
   }

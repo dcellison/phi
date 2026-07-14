@@ -6,9 +6,7 @@
     "he",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Herb / Medicinal Plant / Useful Green",
   "description": "A plant used for flavoring, medicine, or fragrance; the useful green that heals and seasons. 'Heru' names what grows for use—nature's gift for health and taste.",
   "sound_symbolism": "The word breathes green. 'He' exhales with living breath, plant essence. Then 'ru' roots with growing presence, herb thriving.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Natural medicine—local herbs for local ailments, sustainable healing from what grows nearby.",
     "pre-industrial-wisdom": "Herbs sustained communities—kitchen gardens, healing gardens, knowledge of useful plants passed through generations."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Healing source",
     "nature": "Useful plant"
   }

@@ -7,9 +7,7 @@
     "mi",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Host / One Who Creates Open Space",
   "description": "One who creates a warm, receptive space for others. The role is defined by the act of providing welcome, safety, and nourishment.",
   "sound_symbolism": "The soft fricative 'ph' breathes forth gentle welcome, like opening a door to fresh air. The personal 'mi' at the heart centers the act in authentic presence, while the flowing 'la' extends that presence outward like ripples of hospitality. This three-syllable construction creates a rhythm of invitation-presence-extension that mirrors the host's role: first opening space, then being fully present, finally letting that presence flow to embrace all who enter.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "The act of hosting creates immediate conditions for peace by transforming potential strangers into welcomed guests. This practice dissolves the barriers of 'us and them' through shared food, shelter, and story. Skilled hosts know that creating safe, welcoming space allows authentic dialogue to emerge, making hosting itself a form of conflict transformation.",
     "pre-industrial-wisdom": "In traditional societies the host's duty went past food and shelter: a guest became temporary family for the length of the stay, and many cultures held that a stranger at the door might be a god in disguise. Networks of reciprocal hospitality sustained travel and exchange for millennia."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "creates temporary family through networks of reciprocal care",
     "creation": "actively builds welcoming environments and gathering conditions",
     "ritual": "carries sacred responsibility and ceremonial welcome protocols",

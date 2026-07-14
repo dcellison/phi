@@ -113,7 +113,7 @@ def load_entries():
             kind = "interjection"
         entries.append({
             "word": data["word"], "gloss": data["gloss"],
-            "kind": kind, "pos": data["pos"][0],
+            "kind": kind, "pos": data["pos"],
         })
     return entries
 

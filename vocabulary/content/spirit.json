@@ -7,9 +7,7 @@
     "o",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Spirit / Animating Breath / Inner Essence",
   "description": "The non-physical essence that animates being; the breath-like quality of consciousness. 'Phiora' names what moves within—not soul's identity but spirit's animation.",
   "sound_symbolism": "The word breathes ethereal. 'Phi' whispers with spiritual breath, essence stirring. 'O' opens with expansive presence. Then 'ra' radiates with outward expression, spirit manifesting.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Spirit as process—not fixed thing but dynamic unfolding, breath-like and impermanent.",
     "art-nouveau-aesthetics": "Spirit in form—the life-force Art Nouveau sought to capture in its flowing organic lines."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Inner animation",
     "nature": "Breath essence"
   }

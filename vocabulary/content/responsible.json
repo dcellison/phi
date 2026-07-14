@@ -7,9 +7,7 @@
     "na",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Responsible / Accountable / Bearing Duty",
   "description": "Having duty or obligation; being accountable for one's actions and their consequences. 'Thonai' names the weight willingly carried—duty accepted, not imposed.",
   "sound_symbolism": "The word bears with acceptance. 'Tho' breathes with thoughtful weight, responsibility recognized. 'Na' settles with grounded acceptance, duty taken up. Then 'i' rises to accountable standing.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Collective responsibility—each person accountable for community and planet.",
     "secular-buddhist-philosophy": "Responsibility as karma—recognizing that actions have consequences, choosing wisely."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Accountable role",
     "wisdom": "Duty bearing"
   }

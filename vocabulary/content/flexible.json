@@ -6,9 +6,7 @@
     "lu",
     "wi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Flexible / Able to Bend / Adaptable",
   "description": "Capable of bending without breaking; able to adapt to different circumstances. 'Luwi' names the quality of adaptive strength—the willow that bends in wind, the mind that adjusts to change, resilience through yielding.",
   "sound_symbolism": "The word bends and flows. 'Lu' begins with liquid yielding, willingness to move. Then 'wi' winds smoothly, adapting to pressure.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Flexible systems adapt to change—resilient communities can adjust to new conditions without breaking.",
     "secular-buddhist-philosophy": "Flexibility of mind prevents suffering—rigid attachment breaks, while flexible acceptance bends and recovers."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Able to bend",
     "wisdom": "Adaptive quality"
   }

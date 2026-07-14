@@ -7,9 +7,7 @@
     "pho",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Boat / What Rides the Water",
   "description": "The boat: the built thing that floats and carries. 'lupho' (float) plus 'nu', beside 'luphore' (river), which grew from the same verb — the float family holds the moving water and what rides it. Takes 'rewa' (oar) as its natural companion.",
   "sound_symbolism": "The whole verb 'lupho' is the hull, and 'nu' closes it small and buoyant. Say it and the stresses bob.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Wind and current still move freight for free. The sail's return is one of the futures the past already built.",
     "pre-industrial-wisdom": "Rivers were the roads that carried what roads could not. Most old towns stand where a boat could be loaded."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "The built hull",
     "spatial": "The water's vehicle"
   }

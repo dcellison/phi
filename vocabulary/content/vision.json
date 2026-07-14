@@ -7,9 +7,7 @@
     "na",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Vision / Seeing Forward / Inner Sight",
   "description": "The capacity to see what is not yet present; imagination directed toward possibility. 'Lunai' names the seeing that reaches beyond—toward futures, toward meaning, toward what could be.",
   "sound_symbolism": "The word illuminates forward. 'Lu' lights with seeing clarity, vision dawning. 'Na' settles with formed image, possibility taking shape. Then 'i' rises to bright clarity.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Visionary futures—imagining and working toward worlds of flourishing.",
     "art-nouveau-aesthetics": "Artistic vision—the capacity to see beauty before it is created."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Forward seeing",
     "temporal": "Future imagination"
   }

@@ -7,9 +7,7 @@
     "le",
     "thu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Tactile / Perceivable or Distinguished Through Touch",
   "description": "Perceivable, readable, or distinguishable through touch. A tactile format may use shape, texture, movement, pressure, or position to carry information. 'palo' (touch) names contact; 'palethu' says touch can do the relevant perceptual work.",
   "sound_symbolism": "A full lip closure releases 'pa' into broad 'a'. Stressed 'le' lets the tongue flow through balanced 'e', then final 'thu' brings fine breath to the teeth and sinks into deep 'u'. Firm contact becomes liquid motion, then a soft textured close.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Raised line, carved edge, woven change, and warm material let form speak to the hand as deliberately as color speaks to the eye.",
     "peace-linguistics-practices": "The adjective gives touch equal standing as a way to receive information rather than treating it as a lesser copy of sight."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "form and texture encountered through touch",
     "cognition": "information distinguished through tactile perception",
     "physical": "touch as the relevant sensory channel"

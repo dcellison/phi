@@ -7,9 +7,7 @@
     "lu",
     "tha"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Wagon / The Wheel-Carrier",
   "description": "The wagon: wheels made into a carrier — the farm's rolling barn, the road's beast of burden that eats nothing. Built on 'rolu' (wheel), the family doing its usual work: know the wheel, read the wagon.",
   "sound_symbolism": "'rolu' turns twice at the front of the word and 'tha' beds it like a laden floor. Say it slowly and the axle creaks.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The wagon moved whatever the season made — harvest, firewood, households — and market day was measured by what one wagon could hold."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "What moves the harvest to market",
     "physical": "Wheels made a carrier"
   }

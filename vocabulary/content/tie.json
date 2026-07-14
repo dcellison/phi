@@ -6,9 +6,7 @@
     "ti",
     "wa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Tie / Bind / Fasten with Cord",
   "description": "To tie: the boat to the post, the bundle for carrying, the vine to the stake. Fastening with rope or cord ('suro', 'nira'). With 'pina' (sew) and 'selomi' (weave) it completes the cord-crafts.",
   "sound_symbolism": "The precise dental 't̪i' makes the small exact loop; 'wa' carries the cord around and through. A knot in two syllables.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "The knot is the line's own ornament: cord turned back on itself into pattern and purpose at once.",
     "pre-industrial-wisdom": "Knots were the first technology of trust — the tied gate, the tied load, the tied promise of a boat still there at dawn."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Fastening with cord",
     "creation": "The binding half of cord-craft",
     "physical": "Made fast against slipping"

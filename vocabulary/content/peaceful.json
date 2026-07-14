@@ -7,9 +7,7 @@
     "e",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Peaceful / At Peace / Free from Conflict",
   "description": "Free from disturbance, conflict, or agitation; characterized by peace. 'Phaelu' names the quality Phi seeks to embody—the state of being where harmony prevails, where violence has no purchase, where presence is undisturbed.",
   "sound_symbolism": "The word breathes peace itself. 'Pha' /ɸa/ begins with soft breath, non-violent presence. The vowel hiatus 'a.e' opens spaciousness, room for all. Then 'lu' settles into liquid rest, peace embodied.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Inner peace (shanti) is both path and destination—the peaceful mind sees clearly and acts wisely.",
     "peace-linguistics-practices": "Peacefulness is Phi's core quality—the language exists to cultivate and express this state of being."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "State of harmony",
     "wisdom": "Core Phi quality"
   }

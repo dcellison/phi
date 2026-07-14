@@ -7,9 +7,7 @@
     "ro",
     "me"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Meal / Food Eaten in One Occasion",
   "description": "Food prepared or gathered for one eating occasion, and by extension the occasion itself. The company, pace, formality, and amount all vary; 'nuora' (food) names what nourishes, while 'nurome' gathers some of it into a particular sitting.",
   "sound_symbolism": "Deep 'nu' starts with the tongue at the teeth and resonance in the nose. Stressed 'ro' turns that hold into a roll and round 'o', then final 'me' closes softly at the lips. Low and full throughout, the sound comes to a quiet balanced rest.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A meal gives sharing a concrete object: who prepared it, who can eat it, and who has not yet been served can all remain visible.",
     "pre-industrial-wisdom": "Meals followed work, light, season, and available fuel more often than a fixed clock."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "an occasion of eating",
     "community": "food gathered for solitary or shared eating",
     "physical": "a bounded preparation of food"

@@ -7,9 +7,7 @@
     "mi",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Honey / The Slow Gold",
   "description": "Honey: sweetness with a maker. The bees' concentrated summer, taken with care from the hive. It keeps without spoiling, which made it the pre-industrial world's one durable sweetness.",
   "sound_symbolism": "Breathy 'he', small 'mi', slow round 'lo': light, small-scale, and unhurried, like the work that makes it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Honey is an ecosystem's report card. Where the pollinators thrive, there is honey; a future with hives in it is a future that kept its flowers.",
     "pre-industrial-wisdom": "For most of human history this was the only concentrated sweetness, medicine and preservative both, and it never went bad."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The bees' concentrated summer",
     "physical": "Sweetness that keeps"
   }

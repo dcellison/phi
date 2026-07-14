@@ -7,9 +7,7 @@
     "nu",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Direct / Guide Toward / Straight and Clear",
   "description": "To guide or aim toward a destination; without detour or ambiguity. 'Thenui' names clear guidance—pointing the way, removing confusion, showing the straight path.",
   "sound_symbolism": "The word points clearly. 'The' /θe/ begins with clear breath, direction forming. 'Nu' grounds the aim, target established. Finally 'i' arrives with precision, direction clear.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Direct teaching transmits without obscuring—clear instruction that doesn't confuse with unnecessary complexity.",
     "peace-linguistics-practices": "Direct communication states clearly—saying what is meant without manipulation or hidden agendas."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Clear communication",
     "spatial": "Guiding toward"
   }

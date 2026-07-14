@@ -7,9 +7,7 @@
     "ka",
     "mu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Intervene / Deliberately Act on a Health State or Care Process",
   "description": "To act deliberately on a health state or a care process, more broadly than 'nephoru' (treat): diagnostic, preventive, supportive, and palliative acts all qualify. The exact procedure, when one has a name, stays in the source record beside the Phi.",
   "sound_symbolism": "Quiet dental breath carries 'the' into balanced 'e'. Stressed 'ka' answers with a firm velar closure and broad 'a', while final 'mu' brings the sound to closed lips and deep nasal 'u'. Air gives way to a hard center, then a low contained finish.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A neutral intervention word makes bodily action discussable without building benefit, legitimacy, professional authority, or consent into the verb."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a deliberate action within bodily care",
     "community": "an action affecting a person within a care relation",
     "physical": "an action on a body, health state, or bodily environment"

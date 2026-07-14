@@ -7,9 +7,7 @@
     "re",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Fulfill / Complete / Bring to Fruition",
   "description": "To bring to completion; to realize fully what was intended or promised. 'Korei' names the completing—potential becoming actual, promise becoming reality.",
   "sound_symbolism": "The word completes with resonance. 'Ko' gathers with concentrated wholeness, elements combining. 'Re' resonates with accomplishment spreading. Then 'i' rises to completion achieved.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Fulfilled potential—communities enabling all members to realize their capacities.",
     "secular-buddhist-philosophy": "Fulfillment as process—the completing that comes through practice, not grasping at results."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Realization",
     "temporal": "Completion"
   }

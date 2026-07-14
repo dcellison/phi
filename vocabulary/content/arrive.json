@@ -6,9 +6,7 @@
     "ka",
     "mo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Arrive / Reach Destination / Come to Place",
   "description": "To reach one's destination, to come to the place one was traveling toward. 'Kamo' marks the moment journey becomes presence—the traveler now here rather than there, the movement complete, the arrival achieved. It is both ending and beginning.",
   "sound_symbolism": "The word is compact and conclusive. 'Ka' comes with velar clarity, the definite moment of arrival. The open 'a' announces presence. Then 'mo' meets with nasal grounding, traveler and place coming together.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Each moment is arrival—we are always already here. Recognizing arrival ends the suffering of perpetual seeking.",
     "peace-linguistics-practices": "Welcoming arrival creates community—the guest received, the traveler's journey honored, the new presence acknowledged."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Reaching destination",
     "temporal": "Moment of journey's completion"
   }

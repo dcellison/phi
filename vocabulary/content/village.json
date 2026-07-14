@@ -7,9 +7,7 @@
     "la",
     "wo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Village / Homes Gathered",
   "description": "The village: homes gathered into community. 'sila' (community) plus the 'wo' of 'womu' (home): the word assembles the settlement the way the settlement assembled itself. Smaller than a city wants to be, larger than one household can be.",
   "sound_symbolism": "'sila' opens it as the people, and 'wo' roofs them. The word ends on the home-syllable because that is what a village is made of.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Human-scale settlement is a design target again: walkable, food-adjacent, sized so that neighbors are neighbors.",
     "pre-industrial-wisdom": "For most of human history, this was the size a life came in: everyone known, everything walkable, the fields in sight of the roofs."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The gathered homes",
     "spatial": "The human-scale settlement"
   }

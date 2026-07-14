@@ -7,9 +7,7 @@
     "ri",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Cultivate / Prepare and Develop / Work Toward Growth",
   "description": "To prepare conditions for growth and work systematically toward development—whether tilling soil for planting, developing a skill through practice, or building a relationship through consistent attention. 'Sorila' emphasizes the active, intentional work that creates conditions for flourishing.",
   "sound_symbolism": "The word begins with 's', the systematic sibilant of sustained effort—continuous, directed, purposeful. The 'o' opens space for work. Then 'ri' moves with rolling action, hands working soil or practice repeated. Finally 'la' flows into growth, cultivation bearing fruit.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Cultivation is the heart of regenerative practice—working with natural systems to increase fertility and abundance over time.",
     "pre-industrial-wisdom": "Traditional agriculture understood cultivation as relationship—learning the land, responding to conditions, building soil over generations."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Developing through intentional effort",
     "nature": "Working land for growth"
   }

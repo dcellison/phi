@@ -7,9 +7,7 @@
     "sho",
     "lu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Rule / Stated Normative Requirement, Permission, or Prohibition",
   "description": "A normative requirement, permission, or prohibition, named without importing any one legal tradition. The exact law, bylaw, or custom that gives a rule its force belongs in the source record, since its precise wording is often exactly what a dispute turns on.",
   "sound_symbolism": "Dental 'na' begins with the steady contact of necessity. Stressed 'sho' changes that nasal enclosure into a broad hush and round 'o'. Liquid 'lu' carries the sound into deep 'u'; together the final two syllables repeat 'sholu' (complete). The contour moves from held contact into shaped breath and settles in a low flow.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared systems need explicit rules whose sources, burdens, ecological effects, and revision paths can be inspected rather than left as invisible custom.",
     "peace-linguistics-practices": "Naming a rule as a claim about conduct prevents speakers from presenting institutional demands as facts of nature or proof of moral correctness."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a stated normative prescription with conditions and scope",
     "community": "a rule claimed to apply within a social process"
   },

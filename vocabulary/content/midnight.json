@@ -7,9 +7,7 @@
     "e",
     "mu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Midnight / Middle of Night / Deepest Dark",
   "description": "The middle of the night; twelve o'clock at night. 'Phoemu' names the night's depth—the hinge between one day and the next, the hour of deepest quiet.",
   "sound_symbolism": "The word rests in deep dark. 'Pho' /ɸo/ begins with quiet breath, stillness present. The vowel 'e' opens to the void. Then 'mu' grounds in darkness, midnight held.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Midnight offers the day's deepest quiet, the hour when even a restless mind can settle.",
     "pre-industrial-wisdom": "Midnight marked the deep—the hour when spirits were said to move, when the veil was thin."
   },
-  "tags": {
+  "semantic_domains": {
     "ritual": "Liminal hour",
     "temporal": "Night's center"
   }

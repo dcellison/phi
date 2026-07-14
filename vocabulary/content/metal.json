@@ -7,9 +7,7 @@
     "lu",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Metal / Ore Material / To Work Metal",
   "description": "A solid material that conducts heat and electricity, typically hard and shiny; to work such material. 'Keluo' names what earth hides—ore transformed through fire into strength.",
   "sound_symbolism": "The word rings transformed. 'Ke' clangs with metallic hardness, ore revealed. 'Lu' flows molten in the forge. Then 'o' cools to solid permanence.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Recyclable forever—metal can be reforged endlessly, truly circular material.",
     "pre-industrial-wisdom": "Metal transformed ages—bronze, iron, each discovery changing human capability."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Forged material",
     "nature": "Earth ore"
   }

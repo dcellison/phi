@@ -7,9 +7,7 @@
     "se",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Recess / Bounded Pause Before an Activity Resumes",
   "description": "A bounded pause within an activity or proceeding, with an expectation that it will resume. A recess can provide time for rest, communication repair, private thought, or another stated need. 'therilu' (rest) names restorative ceasing; 'hasenu' belongs to the structure of the larger event.",
   "sound_symbolism": "Light 'ha' opens on unimpeded breath before stressed 'se' narrows the air to a fine, level hiss. Final 'nu' changes that stream into nasal resonance at the teeth and sinks into deep 'u'. Open breath passes through a quiet middle and reaches a low settled close.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A named recess lets a group stop before speed turns confusion, overload, or fatigue into silent exclusion.",
     "pre-industrial-wisdom": "Shared work has long carried pauses shaped by heat, light, meals, prayer, and the body's need to return with steadier hands."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a pause held inside a larger proceeding",
     "community": "shared time for rest or repair before resumption",
     "temporal": "a bounded interval with an expected return"

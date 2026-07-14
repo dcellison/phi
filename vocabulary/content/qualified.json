@@ -7,9 +7,7 @@
     "ra",
     "nu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Qualified / Meeting Stated Prerequisites for a Role or Activity",
   "description": "Meeting stated prerequisites for a role or activity, according to a named source or system. Qualification is a fact about a list: the exact credential, with its issuer and validity, stays in source material when precision matters. A qualified person may still be out of practice; competence is its own question.",
   "sound_symbolism": "Narrow 'ki' starts with a crisp velar contact and bright 'i'. The stress rolls across open 'ra' and gives the center more breadth and motion. In final 'nu', the tongue settles at the teeth while the vowel drops into deep 'u'. A sharp opening becomes expansive, then gathers into a low close.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Separating qualification from competence, authority, consent, and worth prevents an institutional status from silently answering several different social questions."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "eligibility for a stated role or activity",
     "cognition": "a judgment against named prerequisites",
     "community": "a status created by a stated social or institutional source"

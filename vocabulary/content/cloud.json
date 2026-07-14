@@ -7,9 +7,7 @@
     "pa",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Cloud / Floating Vapor / Sky's Gathering",
   "description": "A visible mass of water droplets or ice crystals suspended in atmosphere. 'Neparu' names the floating forms that drift across the sky—carriers of rain, shapers of light, ever-changing sculptures of water and air.",
   "sound_symbolism": "The word drifts like vapor. 'Ne' begins with soft nasal, gentle formation. Then 'pa' puffs outward, the cloud's billowing mass. Finally 'ru' moves onward, drifting across the sky.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Clouds are the classic teaching of impermanence—no cloud remains the same from moment to moment, yet each appears solid.",
     "art-nouveau-aesthetics": "Clouds embody organic, flowing forms—constantly shapeshifting sculptures painted by light and wind."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Atmospheric water vapor",
     "temporal": "Symbol of impermanence"
   }

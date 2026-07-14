@@ -7,9 +7,7 @@
     "re",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Right / Normative Claim That Can Bind Conduct or Institutions",
   "description": "A normative claim that a person or group holds under a moral principle, law, or other stated source, and that places a duty or limit on conduct. A speaker may use the word while recognition or validity is disputed; 'shereni' (entitlement) begins where a claim has been recognized and scoped. Recognition can secure a right in practice, but it is not the source of every right.",
   "sound_symbolism": "Breath narrows through 'she' before the tongue turns into stressed 're', whose light trill sends the middle of the word forward. The final 'lo' releases along the tongue and opens on rounded 'o', leaving the contour spacious rather than shut. The first two syllables let 'sherelo' sit beside 'sherewa' (claim) and 'shereni' (entitlement) by sound; its liquid ending gives this form a more open finish.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A right can place durable limits around access to shared necessities or participation when goodwill fails.",
     "peace-linguistics-practices": "The word keeps a denied claim audible when an institution rejects it; recognition and enforcement remain facts a speaker can state separately."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a normative claim held among people, groups, or institutions",
     "dialogue": "a claim whose source and fulfillment can be examined"
   },

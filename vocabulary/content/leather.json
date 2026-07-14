@@ -6,9 +6,7 @@
     "ko",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Leather / Tanned Hide / Durable Skin",
   "description": "Animal skin preserved by tanning; the transformed hide that endures. 'Kori' names what death becomes—skin made lasting through craft.",
   "sound_symbolism": "The word endures tough. 'Ko' holds complete with lasting strength. Then 'ri' runs continuous, leather enduring through time.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Transformation of death—leather as reminder that all things change form, nothing wasted.",
     "pre-industrial-wisdom": "Leather preserved life—shoes, armor, containers, the durable second skin."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Durable covering",
     "nature": "Animal material"
   }

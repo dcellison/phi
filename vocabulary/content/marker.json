@@ -6,9 +6,7 @@
     "si",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Marker / Indicator / Guiding Sign",
   "description": "An object that indicates position or direction; something that shows the way. 'Siru' names what points forward—the placed indicator that guides journey.",
   "sound_symbolism": "The word signals clear. 'Si' points with precise indication, direction shown. Then 'ru' runs along the route, path marked.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Markers on the path—signs of progress, indicators that practice is moving forward.",
     "pre-industrial-wisdom": "Markers guided travelers—stones, blazes, cairns showing the way through wilderness."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Position indicator",
     "wisdom": "Path guide"
   }

@@ -7,9 +7,7 @@
     "ra",
     "thu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Procedure / Specified Ordered Process for Collective Action",
   "description": "The specified, ordered steps a group follows: who participates, in what order, toward what decision. A procedure followed to the letter can still produce a hollow or unjust result, so following it is not yet the same as the outcome being right.",
   "sound_symbolism": "Dental 'no' begins in a rounded enclosure and stressed 'ra' rolls it forward through open 'a'. Together 'no.ra' recall the first two syllables of 'norae' (method). Final 'thu' sets breath against the teeth and sinks into deep 'u'. A procedure circles through its ordered path, then ends on the contact from which the sequence can begin again.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Visible procedures help shared institutions distribute participation, labor, records, and revision without depending on opaque custom or charismatic authority.",
     "peace-linguistics-practices": "A named procedure lets speakers separate fair access and meaningful voice from mere formal completion of steps."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "an ordered and specified collective process",
     "community": "a governance procedure with participants and decision conditions"
   },

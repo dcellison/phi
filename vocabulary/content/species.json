@@ -7,9 +7,7 @@
     "ko",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Species / Source-Defined Biological Kind",
   "description": "A source-defined biological kind. The word takes no side on which species concept is correct, and the exact taxonomic name, where precision matters, stays exact in the source record rather than folded into the Phi.",
   "sound_symbolism": "Light 'li' begins with liquid motion and bright 'i'. Stressed 'ko' meets that flow with a firm velar closure and a round center. 'Ri' releases the category into a living flick of the tongue. The word moves from life to a clear point of likeness and then beyond any one member.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The definition treats a species as a useful conditioned category rather than an unchanging essence whose boundary is independent of purpose and evidence.",
     "peace-linguistics-practices": "Classification is kept separate from hierarchy, possession, and the authority to erase a community or tradition's own distinctions."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a biological category whose criteria and source must be recoverable",
     "nature": "a source-defined grouping of living organisms"
   },

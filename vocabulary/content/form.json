@@ -7,9 +7,7 @@
     "re",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Form / Create Structure / Bring into Being",
   "description": "To bring something into structured existence—giving it the organization and boundaries that make it a distinct thing. 'Norelu' emphasizes the emergence of pattern from possibility, the moment when what was vague becomes defined, when potential crystallizes into actual.",
   "sound_symbolism": "The word moves from openness to definition. 'No' begins with nasal inwardness, the idea forming within. Then 're' reaches outward, intention becoming expression. Finally 'lu' flows into settled form, liquid finding its container.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Forms arise from conditions and return to formlessness—understanding formation reveals impermanence.",
     "art-nouveau-aesthetics": "Natural forms inspire human forming—the spiral, the branch, the wave teaching the hand what shapes want to exist."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Understanding pattern and organization",
     "creation": "Bringing structure into existence"
   }

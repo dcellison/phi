@@ -7,9 +7,7 @@
     "se",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Provenance / Claimed Source and Custody or Transformation History",
   "description": "The claimed source and history a material or artifact carries: whose hands held it, what was done to it, by what stages it arrived. A provenance account is told honestly with its gaps and confidence showing. It can serve repair, attribution, and safety without proving authenticity or ownership.",
   "sound_symbolism": "Low liquid 'lu' opens a deep chamber, then the stressed hiss of 'se' brightens the middle and sends the air forward. Final 'ri' taps the tongue and finishes on narrow 'i'. Rising from depth through a fine stream, the word leaves one quick mark at the end.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Material and knowledge provenance supports ecological accounting, repair, reuse, attribution, and scrutiny of hidden social or environmental costs.",
     "peace-linguistics-practices": "Treating provenance as a sourced and incomplete account prevents a lineage claim from automatically establishing ownership, purity, legitimacy, or unquestionable truth."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "the traced movement and transformation of a thing",
     "cognition": "a sourced account with explicit gaps and confidence",
     "community": "custody, contribution, and transfer among participants",

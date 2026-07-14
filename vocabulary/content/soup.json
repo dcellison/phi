@@ -7,9 +7,7 @@
     "lo",
     "pa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Soup / Warmth in a Vessel",
   "description": "Soup: the meal made by warm water and patience, holding whatever the day had to offer. Built on the 'su' of 'sulae' (warm). It is the meal that stretches: one more arrival, a little more water.",
   "sound_symbolism": "'su' carries the warmth of 'sulae', 'lo' rounds it, and 'pa' is the pot it sits in.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The pot over the fire fed the household from whatever there was, and its answer to a guest was always yes. Most of the world's comfort food started as this."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The meal that stretches",
     "physical": "Warm water and patience"
   }

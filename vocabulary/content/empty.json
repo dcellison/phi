@@ -7,9 +7,7 @@
     "mo",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Empty / Containing Nothing / Void of Contents",
   "description": "Containing nothing; not filled or occupied. 'Muloe' names the quality of emptiness—space that holds no contents, vessel ready to receive.",
   "sound_symbolism": "The word begins with 'whe', the voiceless breath moving over the void—the most immaterial sound the mouth can make, air shaped by almost nothing. At its center is 'mo', where the nasal 'm' gives the emptiness an interior—a hollow, not an absence—and the round 'o' curves like the inside of an unfilled bowl. The word opens completely in the final 'a': pure space, nothing held, everything possible. Breath, hollow, opening—'whemoa' empties as it is spoken, ending with the mouth at its widest and nothing in the way.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Emptiness (sunyata) is not nothingness but openness—empty of fixed self, full of possibility.",
     "art-nouveau-aesthetics": "Empty space shaped design—negative space as essential as positive form."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Containing nothing",
     "wisdom": "Openness"
   }

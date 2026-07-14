@@ -6,9 +6,7 @@
     "nu"
   ],
   "slot": 2,
-  "pos": [
-    "particle"
-  ],
+  "pos": "particle",
   "concept": "Ordinal Particle / Position Marker",
   "description": "Transforms cardinal numbers into ordinal numbers, marking position within a sequence. As a true particle, 'nu' provides the grammatical function of ordinalization while maintaining Phi's strict CV particle structure. It announces that the following number indicates position rather than quantity.",
   "sound_symbolism": "The nasal 'n' grounds and establishes position—a sound of settling into place. The closed 'u' suggests completion and finality, the sense of a defined point within a continuum. Together, 'nu' creates a brief, decisive sound that marks exact placement without elaboration, perfect for its grammatical role.",

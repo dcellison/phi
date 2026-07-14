@@ -7,9 +7,7 @@
     "so",
     "ru"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Pending / Awaiting a Needed Action or Condition",
   "description": "Awaiting a stated action, decision, item, or condition before its status can change. Pending says only that something remains open and whose move it waits on; work may not have begun, and the expected event may never come. Its neighbor 'noraku' (blocked) is stronger: an obstacle, not a turn in the queue.",
   "sound_symbolism": "Air moves freely through light 'ha' before stressed 'so' draws it into a narrower hiss and round vowel. Final 'ru' flicks the tongue and settles into deep 'u'. The contour opens wide, tightens at its center, then turns once before coming to rest.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Explicit pending status can expose unanswered requests and delayed decisions without blaming the person waiting or pretending the matter is resolved.",
     "pre-industrial-wisdom": "Material, weather, drying, curing, growth, and shared availability can all require waiting; naming the state leaves its practical cause open."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "work or decision status awaiting a condition",
     "temporal": "remaining unresolved until a later event"
   }

@@ -7,9 +7,7 @@
     "me",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Encourage / To Build a Bridge to the Heart",
   "description": "The act of giving support, confidence, or hope to someone. It is the process of building a bridge to another's core to help them find their own strength.",
   "sound_symbolism": "The word begins with 'no', grounding with nasal presence, the solid earth beneath someone who needs to stand. This flows through 'me', acknowledging the personal, heartfelt nature of true encouragement, the mindful connection between two people. The final 'la' carries this support forward as a path opening ahead. The arc from grounded presence through personal connection to flowing path captures how encouragement works: not pushing from behind but walking alongside, offering both steadiness and heart to help another find their way.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "To encourage skillfully means seeing another's Buddha nature - their inherent capacity for wisdom and compassion - especially when they cannot see it themselves. This practice requires setting aside our agenda to truly perceive and reflect back another's authentic strengths, helping them reconnect with their own path.",
     "peace-linguistics-practices": "Encouragement creates peace by affirming another's inherent strength rather than imposing external pressure. This practice recognizes that sustainable change comes from within, and that our role is to reflect back the courage already present in others. By building bridges to hearts, we prevent the violence of despair and isolation."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "builds bridges between hearts for mutual strength",
     "emotion": "gives hope and confidence through heartfelt support"
   }

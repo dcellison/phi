@@ -7,9 +7,7 @@
     "ke",
     "ra"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Competent / Able to Meet a Stated Performance Criterion",
   "description": "Able, now, to perform a stated activity to a stated criterion under the conditions at hand. Competence is the narrowest of the ability words: a claim about this task, these tools, today, with its evidence close by. It says nothing about consent or permission, and 'nukesa' (expert) runs deeper than any one criterion.",
   "sound_symbolism": "Round 'po' starts with a complete meeting of the lips; stressed 'ke' shifts the contact to the velum for a clean, balanced release. Final 'ra' rolls the tongue into broad 'a'. Three different contacts make the word feel practiced and alert, with room at the end.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A bounded competence claim avoids converting one demonstrated capacity into a judgment about the whole person or a grant of authority over others.",
     "pre-industrial-wisdom": "Situated competence recognizes practical ability with particular tools, materials, and conditions instead of treating credentials as the only evidence of capability."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "ability to perform a stated activity to a criterion",
     "cognition": "an evidence-based judgment of situated practical capacity"
   },

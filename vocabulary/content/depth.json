@@ -6,9 +6,7 @@
     "nu",
     "sho"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Depth / Distance Downward / Profundity",
   "description": "The distance from the top or surface to the bottom; the quality of being deep. 'Nusho' names vertical extent downward, how far something goes beneath the surface, and extends to the figurative depth of thought or feeling.",
   "sound_symbolism": "The word descends. 'Nu' grounds with downward pull, depth beginning. Then 'sho' /ʃo/ continues into the deep, extent measured.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Depth of practice penetrates surface—going beneath habit to understanding, beneath reaction to response.",
     "pre-industrial-wisdom": "Depth determined water—wells, lakes, ocean all measured by how far down they extended."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "Downward extent",
     "wisdom": "Profundity"
   }

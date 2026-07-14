@@ -7,9 +7,7 @@
     "lo",
     "ni"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Population / Organisms of One Kind in a Place and Time",
   "description": "The organisms of one kind living in a stated place and time, narrower than the species itself. One species can carry several populations, and a single population can shift without the species definition moving at all.",
   "sound_symbolism": "Bright liquid 'li' starts with one light movement. Stressed 'lo' repeats the liquid but rounds it into a wider space. Final 'ni' changes the open flow into a close dental nasal and focused 'i'. Many lives can sound together in the repeated liquid center, then be counted within the fine edge of the ending.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Population language helps track how decisions affect living groups across place and time without reducing ecological value to a single count.",
     "peace-linguistics-practices": "The term keeps biological description separate from a political population, a claim of representation, or a judgment of worth."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "organisms of a stated biological category within a selected scope",
     "spatial": "a living group bounded by an area",
     "temporal": "a living group described for a stated time or period"

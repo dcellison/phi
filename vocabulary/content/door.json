@@ -6,9 +6,7 @@
     "po",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Door / Entry Portal / Passage Barrier",
   "description": "A hinged or sliding barrier for closing an entrance; the movable boundary between spaces. 'Ponu' names what opens and closes—threshold that can yield or hold.",
   "sound_symbolism": "The word pivots passage. 'Po' swings with pivoting motion, door moving. Then 'nu' grounds the frame, passage defined.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Doors as choice—each door a decision point, what to enter, what to leave.",
     "pre-industrial-wisdom": "Threshold as boundary—the door separates inside from outside, private from public."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Passage control",
     "spatial": "Entry barrier"
   }

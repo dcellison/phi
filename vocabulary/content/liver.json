@@ -7,9 +7,7 @@
     "mu",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Liver / The Quiet Deep Organ",
   "description": "The liver: the body's quiet worker, known to every tradition of medicine and every kitchen. Joins 'korua' (heart), 'kumoe' (stomach), and 'lorika' (blood) in the inner anatomy.",
   "sound_symbolism": "Low 'lo', deep 'mu', open 'ra' — a heavy, quiet, unglamorous word for a heavy, quiet, essential organ.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The organs that work unseen and unthanked are the body's lesson in selfless function — service without announcement.",
     "pre-industrial-wisdom": "Traditional medicine read health in the liver long before chemistry explained why it was right to."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "The inner anatomy's quiet worker"
   }
 }

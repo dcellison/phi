@@ -7,9 +7,7 @@
     "we",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Advocate / Speak or Act in Support of a Stated Position or Person",
   "description": "To speak or act in support of a stated position, change, cause, or person's expressed interests. A person may advocate for themselves, and support from another advocate can follow their direction without replacing their voice. 'shalori' (represent) carries someone else's position under a claimed mandate; 'shaweri' can press for a position without holding that authority.",
   "sound_symbolism": "A broad hush opens 'sha'. Stressed 'we' gathers that breath at rounded lips and glides into balanced 'e'. Final 'ri' brings the tongue forward for a quick tap and bright 'i'. Spread air passes through a smooth center and leaves in one clear outward flick.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared institutions change when people can press together for access, repair, and participation rather than waiting for those in authority to notice every barrier.",
     "peace-linguistics-practices": "Advocacy can add force and company to a person's stated need without claiming the right to rewrite it or decide in their place."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "acting in support of a stated position or change",
     "community": "support for a person's expressed interests or a shared cause",
     "dialogue": "speaking publicly for a position without implied representation authority"

@@ -7,9 +7,7 @@
     "we",
     "la"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Participate / To Join the Flow",
   "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
   "sound_symbolism": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
@@ -17,7 +15,7 @@
   "pillars": {
     "solarpunk-values": "Participatory design and governance lie at the heart of solarpunk organizing - decisions made with those affected, not for them. This active engagement breaks the consumer mindset, transforming people from users to co-creators of their communities. Participation distributes both power and responsibility."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "participation is inherently social and collective",
     "creation": "actively contributing implies co-creation",
     "dialogue": "engaging in collective processes and exchange"

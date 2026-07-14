@@ -6,9 +6,7 @@
     "pu",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Strength / Power / Capacity for Force",
   "description": "The capacity to exert force or withstand pressure; power available for action. 'Puro' names what enables—the resource that makes difficult things possible.",
   "sound_symbolism": "The word gathers with power. 'Pu' pushes with concentrated force, strength gathering. 'Ro' grounds with solid stability, power rooted.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Inner strength—the fortitude that comes from equanimity, not aggression.",
     "pre-industrial-wisdom": "Strength through practice—power built through sustained effort, not given."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Inner fortitude",
     "physical": "Power capacity"
   }

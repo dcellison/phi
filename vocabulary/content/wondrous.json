@@ -7,9 +7,7 @@
     "o",
     "ra"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Wondrous / Wonderful / Exceeding What Was Looked For",
   "description": "Wondrous: exceeding what was looked for, and lifting the looker as it passes. A summer that outgrows every plan for it, a change no story prepared, a morning that makes the sleeper sit up. Where 'phelora' (beautiful) names what satisfies the eye and 'horae' (radiant) what shines outward, 'waora' names what overflows the expectation itself: the quality in things that makes a person say 'wao'.",
   "sound_symbolism": "The word begins with the complete exclamation 'wao' (wow), the same caught-open breath taught to stand still and describe. Final 'ra' lifts that response outward and lets the wonder continue beyond the first instant of surprise.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Wonder is attention caught fully awake; a word for it keeps the practice of being astonishable.",
     "art-nouveau-aesthetics": "The movement built whole doorways to say this word: the ordinary vine, drawn until it exceeds itself."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "What outruns what was looked for",
     "emotion": "The lift of exceeded expectation"
   }

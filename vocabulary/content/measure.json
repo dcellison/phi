@@ -7,9 +7,7 @@
     "su",
     "e"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Measure / Determine Magnitude / Compare With a Standard",
   "description": "To determine or compare a magnitude: cloth against an arm, a doorway against a table, flour by a bowl, or an instrument reading against a defined unit. 'Masue' names the act without deciding whether the method, sample, standard, precision, or interpretation is valid. Exact units, readings, uncertainty, methods, identifiers, and technical records remain source material outside the Phi passage when their form matters.",
   "sound_symbolism": "'Ma' suggests laying one thing alongside another, while 'su' and the final separate 'e' settle into a comparison. The image recalls direct practical measurement but does not restrict the word to body-scaled or non-instrumental methods.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A measurement should expose its standard, purpose, and consequences rather than disguising a judgment as a neutral number. 'Masue' remains available for both caring and coercive practices, which context must distinguish.",
     "pre-industrial-wisdom": "The cubit, hand, pace, and bowlful show how practical measurement can relate directly to bodies, materials, and tasks. Modern instruments extend rather than erase the need to name standards and conditions."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Determining a magnitude for a stated purpose",
     "cognition": "Comparison with an explicit or recoverable standard",
     "physical": "Supports embodied and instrument-based measurement"

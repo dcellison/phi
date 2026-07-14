@@ -1,25 +1,34 @@
 {
-  "$schema": "http://json-schema.org/draft/2020-12/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Phi Lexicon Entry",
   "type": "object",
   "properties": {
     "word": {
       "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-z]+$",
       "description": "The Phi word."
     },
     "gloss": {
       "type": "string",
+      "minLength": 1,
       "description": "A concise, 1-2 word English gloss or a Leipzig abbreviation for grammatical particles."
     },
     "ipa": {
       "type": "string",
+      "minLength": 3,
+      "pattern": "^/.+/$",
       "description": "The International Phonetic Alphabet transcription with stress marks and syllable breaks."
     },
     "syllables": {
       "type": "array",
       "items": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^(?:(?:ph|th|sh|wh|[hklmnprstw])?[aeiou])$"
       },
+      "minItems": 1,
+      "maxItems": 3,
+      "uniqueItems": true,
       "description": "The canonical syllable sequence, with onset-vowel syllables and hiatus vowels stored separately."
     },
     "slot": {
@@ -27,47 +36,57 @@
       "enum": [0, 1, 2],
       "description": "The particle's position in the three-slot system. This field appears only on particles."
     },
+    "slot1_rank": {
+      "type": "string",
+      "enum": [
+        "tense",
+        "aspect",
+        "voice",
+        "evidentiality",
+        "modality",
+        "negation"
+      ],
+      "description": "The particle's category in canonical Slot 1 stacking order. This field appears only on Slot 1 particles."
+    },
     "pos": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "enum": [
-          "noun",
-          "verb",
-          "adjective",
-          "numeral",
-          "particle",
-          "preposition",
-          "pronoun",
-          "conjunction",
-          "complementizer",
-          "interrogative",
-          "discourse",
-          "classifier",
-          "quantifier",
-          "vocative",
-          "interjection"
-        ]
-      },
-      "minItems": 1,
-      "maxItems": 1,
-      "uniqueItems": true,
+      "type": "string",
+      "enum": [
+        "noun",
+        "verb",
+        "adjective",
+        "numeral",
+        "particle",
+        "preposition",
+        "pronoun",
+        "conjunction",
+        "complementizer",
+        "interrogative",
+        "discourse",
+        "classifier",
+        "quantifier",
+        "vocative",
+        "interjection"
+      ],
       "description": "The entry's single lexical class. Rule-supplied uses, such as an event noun formed from a verb, do not add another class."
     },
     "concept": {
       "type": "string",
+      "minLength": 1,
       "description": "A compact name for the entry's semantic concept or grammatical role."
     },
     "description": {
       "type": "string",
+      "minLength": 1,
       "description": "The word's meaning and range of use, with the nearby distinction a speaker is most likely to need."
     },
     "sound_symbolism": {
       "type": "string",
+      "minLength": 1,
       "description": "The poetic description of how the word's sounds embody its meaning through phonetic symbolism."
     },
     "grammatical_notes": {
       "type": "string",
+      "minLength": 1,
       "description": "Usage and syntactic behaviour, with related words and at least one worked example."
     },
     "pillars": {
@@ -75,22 +94,27 @@
       "properties": {
         "solarpunk-values": {
           "type": "string",
+          "minLength": 1,
           "description": "Rationale for how this concept embodies solarpunk values."
         },
         "secular-buddhist-philosophy": {
           "type": "string",
+          "minLength": 1,
           "description": "Rationale for how this concept embodies secular Buddhist philosophy."
         },
         "art-nouveau-aesthetics": {
           "type": "string",
+          "minLength": 1,
           "description": "Rationale for how this concept embodies Art Nouveau aesthetics."
         },
         "peace-linguistics-practices": {
           "type": "string",
+          "minLength": 1,
           "description": "Rationale for how this concept embodies peace linguistics practices."
         },
         "pre-industrial-wisdom": {
           "type": "string",
+          "minLength": 1,
           "description": "Rationale for how this concept embodies pre-industrial wisdom."
         }
       },
@@ -98,7 +122,7 @@
       "additionalProperties": false,
       "description": "The philosophical pillars this concept primarily embodies, with rationales for each."
     },
-    "tags": {
+    "semantic_domains": {
       "type": "object",
       "propertyNames": {
         "enum": [
@@ -122,7 +146,7 @@
         "minLength": 1
       },
       "minProperties": 1,
-      "description": "Semantic domain tags with brief rationales explaining how this word relates to each domain."
+      "description": "Semantic domains with brief rationales explaining how this word relates to each domain."
     },
     "modules": {
       "type": "array",
@@ -140,6 +164,7 @@
         ]
       },
       "minItems": 1,
+      "maxItems": 8,
       "uniqueItems": true,
       "description": "Optional learning paths in which a content word belongs. Several paths may share the same word."
     }
@@ -157,63 +182,78 @@
     "pillars"
   ],
   "additionalProperties": false,
-  "if": {
-    "properties": {
-      "pos": {
-        "contains": {
-          "const": "particle"
-        }
-      }
-    }
-  },
-  "then": {
-    "required": [
-      "slot"
-    ]
-  },
-  "else": {
-    "not": {
-      "required": [
-        "slot"
-      ]
-    }
-  },
   "allOf": [
     {
       "if": {
         "properties": {
           "pos": {
-            "contains": {
-              "enum": [
-                "noun",
-                "verb",
-                "adjective",
-                "numeral"
-              ]
-            }
+            "const": "particle"
           }
         },
-        "required": [
-          "pos"
-        ]
+        "required": ["pos"]
       },
       "then": {
-        "required": [
-          "tags"
-        ]
+        "required": ["slot"]
       },
       "else": {
         "not": {
           "anyOf": [
             {
-              "required": [
-                "tags"
-              ]
+              "required": ["slot"]
             },
             {
-              "required": [
-                "modules"
-              ]
+              "required": ["slot1_rank"]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "pos": {
+            "const": "particle"
+          },
+          "slot": {
+            "const": 1
+          }
+        },
+        "required": ["pos", "slot"]
+      },
+      "then": {
+        "required": ["slot1_rank"]
+      },
+      "else": {
+        "not": {
+          "required": ["slot1_rank"]
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "pos": {
+            "enum": [
+              "noun",
+              "verb",
+              "adjective",
+              "numeral"
+            ]
+          }
+        },
+        "required": ["pos"]
+      },
+      "then": {
+        "required": ["semantic_domains"]
+      },
+      "else": {
+        "not": {
+          "anyOf": [
+            {
+              "required": ["semantic_domains"]
+            },
+            {
+              "required": ["modules"]
             }
           ]
         }

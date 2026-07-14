@@ -6,9 +6,7 @@
     "lo",
     "wi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Vine / Climbing Plant / Winding Growth",
   "description": "A plant with a long stem that trails or climbs by attaching to supports. 'Lowi' names the reaching wanderers—plants that find their way upward through others, winding toward light without standing alone.",
   "sound_symbolism": "The word winds and climbs. 'Lo' begins with liquid lengthening, the stem extending. Then 'wi' winds smoothly, the vine curving around its support.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Vines teach interdependence—they rise by relationship, finding support in others rather than standing rigid and alone.",
     "art-nouveau-aesthetics": "Vines were essential Art Nouveau motifs—the curving line, the organic spiral, growth that decorates as it climbs."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Curving organic line",
     "nature": "Climbing plant"
   }

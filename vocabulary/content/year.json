@@ -7,9 +7,7 @@
     "ru",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Year / Complete Seasonal Cycle / Solar Circuit",
   "description": "The period of time it takes the earth to orbit the sun; a complete cycle of seasons. 'Torua' names the great cycle—all seasons experienced, the circle complete, time returning to its start.",
   "sound_symbolism": "The word completes its circle. 'To' begins with clear definition, cycle starting. 'Ru' rolls through the seasons. Finally 'a' opens to completion, year fulfilled.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Each year offers complete practice—all conditions arise, all challenges appear, nothing is missing.",
     "pre-industrial-wisdom": "The year was life's great rhythm—planting to harvest, birth to death, the cycle that contained all others."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Seasonal completion",
     "temporal": "Full cycle"
   }

@@ -6,9 +6,7 @@
     "no",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Position / Place in Sequence / Rank Without Hierarchy",
   "description": "Position within a sequence, order, or arrangement: first, third, last. 'Noa' names place without rank; a position says where something sits in a pattern, not what it is worth. Positions are relational: first means nothing without second.",
   "sound_symbolism": "The word begins with 'no', where the nasal 'n' grounds and the round 'o' encompasses—together suggesting established position within a whole. This solid placement opens into 'a', the most expansive vowel, acknowledging that each position exists within a larger sequence. The acoustic journey from grounded position to open context mirrors how positional thinking works—specific placement gains meaning from the sequence that contains it.",
@@ -20,7 +18,7 @@
     "peace-linguistics-practices": "By treating position as a neutral relationship rather than a hierarchy, 'noa' enables discussion of order without creating competition or superiority. Each position has its place and purpose within the whole.",
     "pre-industrial-wisdom": "Natural sequences—phases of moon, seasons, life stages—teach that position in cycle matters for practical harmony, not abstract rank. 'Noa' carries this understanding that position is about relationship within wholes."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Enables discussion of roles and places within social structures",
     "spatial": "Represents position within physical or conceptual arrangements",
     "temporal": "Marks place within sequences and cycles",

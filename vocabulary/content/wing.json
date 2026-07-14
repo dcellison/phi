@@ -7,9 +7,7 @@
     "pi",
     "le"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Wing / The Fly-Limb",
   "description": "The wing: the limb flight is made of. Built directly on 'wapi' (fly) — anatomy named by what it does, so a learner who knows the verb reads the noun at sight. The bird ('pelori') finally has its instrument.",
   "sound_symbolism": "'wapi' (fly) extended by 'le', the limb-syllable — the verb grown into a body part. The word is its own etymology.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "The spread wing is the style's favorite fan of lines — structure and ornament identical, nothing added that does not lift.",
     "pre-industrial-wisdom": "Feathered wings taught every tool of air the pre-industrial world had: the fletching, the fan, the sail's cut."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Flight's limb",
     "physical": "The bird's instrument"
   }

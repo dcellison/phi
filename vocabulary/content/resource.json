@@ -7,9 +7,7 @@
     "nu",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Resource / Something Considered Available for a Purpose",
   "description": "Something considered available for a stated purpose. Resource status is a relation to that purpose, not an inherent property; calling water a resource for a garden grants no ownership or claim to it by itself.",
   "sound_symbolism": "'Pa' starts with a firm lip contact and broad release, like a surface placed under the hand. Stressed 'nu' shifts that support to a deep dental nasal. 'Ri' flicks outward and brightens the ending, so something held gains depth in use and moves toward the purpose that calls for it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Resource language remains available for planning while explicitly refusing the idea that usefulness grants ownership or erases ecological and cultural relationships.",
     "peace-linguistics-practices": "The definition requires claimants and authority to remain visible instead of turning land, beings, knowledge, or labor into anonymous available stock."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "something considered available for a stated purpose or process",
     "community": "availability and access may be shared, contested, governed, or refused",
     "physical": "the term often concerns material, energy, land, water, or biological products"

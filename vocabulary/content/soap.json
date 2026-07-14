@@ -7,9 +7,7 @@
     "wa",
     "thi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Soap / Cleansing Material Used with Water",
   "description": "A cleansing material used with water to lift oil and dirt from bodies, cloth, or objects. It may be hard, soft, or liquid according to its making; 'sawa' (wash) is the action, while 'sawathi' is the material added to the water and rubbing.",
   "sound_symbolism": "Fine 'sa' hisses into broad 'a'. Stressed 'wa' rounds the lips and opens fully, so 'sawa' (wash) is heard intact at the opening. Final 'thi' brings a thin stream of breath to the teeth and lifts into bright 'i'. Two open vowels flow toward a clean narrow finish.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Soap invites questions about ingredients, water, packaging, and what leaves through the drain after the washing is done.",
     "pre-industrial-wisdom": "Fat, oil, and alkaline ash became household soap through practiced ratios and patient curing."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a material used during washing",
     "creation": "a prepared cleansing substance",
     "physical": "material that loosens oil and dirt in water"

@@ -7,9 +7,7 @@
     "e",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Tall / High / Vertically Extended",
   "description": "The adjective naming upward extent, the quality of rising high from base to top. In Phi, height is observed as one dimension among many—tall things reach toward sky, but reaching is not inherently superior to grounding. This word names vertical extent without valorizing height above other qualities.",
   "sound_symbolism": "The word opens with 'ra', where the rolling 'r' rises upward—the sound of climbing, of ascending, of growth reaching. The standalone 'e' creates clarity in the ascent. The final 'lu' flows upward to height achieved, the liquid carrying the rise to completion. Three syllables create upward progression.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "High and low are relative to position and perspective. 'Raelu' describes vertical extent while remaining aware of perspective's role.",
     "pre-industrial-wisdom": "Traditional cultures noted height without worshipping it—tall trees offered shade, tall mountains challenged travelers. 'Raelu' names extent without hierarchy."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "height of beings and structures",
     "spatial": "vertical extent upward"
   }

@@ -7,9 +7,7 @@
     "na",
     "ki"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Component / Functionally Identified Part of a System",
   "description": "A part identified by its function within a system. A component is picked out by what it does, not merely by sitting near the other pieces or being made of the same material.",
   "sound_symbolism": "Rounded 'mo' resonates behind closed lips, a whole held briefly in one chamber. The dental nasal of stressed 'na' moves that contact forward and gives one part its own place. Crisp 'ki' ends with a small velar closure and bright release; the mouth has traveled from gathered mass to a single point that can be picked out and touched.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Naming components makes repair, replacement, resource tracing, and shared technical explanation more precise.",
     "art-nouveau-aesthetics": "A component gains meaning through its relation to a larger form, as a line or leaf motif participates in an integrated design."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "a functionally identified part of a designed or analyzed whole",
     "physical": "a part that may be material, though the term also permits informational and procedural components"
   },

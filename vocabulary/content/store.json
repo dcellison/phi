@@ -7,9 +7,7 @@
     "lu",
     "re"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Store / Retain for Later Retrieval or Release",
   "description": "To retain something for later retrieval or release. Storing says only that retention is happening; whether the store has enough room, keeps its contents safe, or belongs to anyone in particular are each their own separate claim.",
   "sound_symbolism": "Bilabial breath in 'phe' enters the stressed liquid depth of 'lu' and preserves the whole audible contour of 'phelu' (hold). The lips shape the sound while liquid 'lu' keeps the air moving. 'Re' rolls outward along a small path left ready for retrieval. What is held settles deep in the middle and still has a way back out.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Storage vocabulary supports discussion of intermittent energy, water reserves, shared records, loss, and later access without treating accumulation as inherently good.",
     "pre-industrial-wisdom": "Seasonal stores and maintained reserves join present work to future need while requiring attention to condition and retrieval."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "retention arranged for later retrieval or release",
     "physical": "storage of matter or energy in a bounded arrangement",
     "temporal": "holding something across time for later use"

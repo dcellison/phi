@@ -7,9 +7,7 @@
     "na",
     "e"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Integral / Essential Part / Whole-Making",
   "description": "Necessary for completeness; being an essential part of a whole. 'Monae' names what cannot be removed without breaking wholeness—the piece that completes.",
   "sound_symbolism": "The word connects from within. 'Mo' begins with nasal wholeness, the inner sense that a part belongs to something larger. 'Nae' grounds with necessary presence. Integral as felt completeness, the mindful recognition that this piece matters.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Integral systems—understanding how parts connect to create functioning wholes.",
     "secular-buddhist-philosophy": "Integral being—recognizing oneself as essential part of larger wholes."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Essential connection",
     "community": "Whole-making"
   }

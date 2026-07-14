@@ -7,9 +7,7 @@
     "tu",
     "ma"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Appeal / Request Formal Reconsideration of a Decision",
   "description": "To request formal reconsideration of a decision, under a procedure with its own standing, deadline, and grounds. The review that follows is a separate act, its own word, its own uncertain outcome.",
   "sound_symbolism": "Rounded, unvoiced 'whe' begins as breath shaped at the lips, the sound of a matter raised again. Stressed dental 'tu' gives that breath a firm turning point and drops into deep 'u'. 'Ma' closes at the lips and opens fully. The request circles back through two places of contact before it is laid down for another hearing.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Appeal gives people and communities a path to challenge durable institutions without requiring every contested decision to collapse immediately.",
     "peace-linguistics-practices": "A specific appeal relation preserves objections beyond the first forum while distinguishing access to review from proof that the original decision was wrong."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "requesting formal reconsideration of a prior matter",
     "community": "an institutional appeal with stated recipient and standing"
   },

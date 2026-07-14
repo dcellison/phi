@@ -7,9 +7,7 @@
     "sho",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Quarantine / Restrict Contact After Possible Exposure During Uncertainty",
   "description": "To restrict contact after a possible exposure, while the picture is still uncertain. The restriction is temporary by its nature, and it justifies no stigma against the person waiting it out.",
   "sound_symbolism": "Dental 'te' places a clean light contact at the opening. Stressed 'sho' turns that edge into a broad hush inside round 'o'. Final 'ri' flicks the tongue and rises to bright 'i'. Soft through its center, the sound ends with a quick release.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A community that asks people to limit contact must also organize food, shelter, communication, care, access, and protection from lost livelihood.",
     "peace-linguistics-practices": "Explicit authority, support, uncertainty, and review prevent quarantine from being disguised punishment or exclusion."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "restricting contact after possible exposure",
     "community": "a public-health relation with material and social obligations",
     "spatial": "a temporary boundary around contact and movement",

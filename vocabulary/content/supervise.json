@@ -7,9 +7,7 @@
     "me",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Supervise / Attend to Work Under Claimed Responsibility",
   "description": "To attend to another participant's work under a claimed responsibility: checking conditions, answering questions, stepping in under defined rules. The word carries the claim of responsibility, not its legitimacy; supervision can be requested and kind, or imposed and contested, and it approves nothing by itself.",
   "sound_symbolism": "A rounded hiss gives 'so' a quiet, attentive opening. Stressed 'me' brings the sound to closed lips and holds it in balanced 'e'. Final 'ru' releases the mouth with a tongue roll and deep 'u'. The word pauses at its center, then turns outward into a lower resonance.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Requiring speakers to identify the scope and claimed basis of supervision discourages silent expansion from attending to one task into authority over a whole person.",
     "pre-industrial-wisdom": "Apprenticeship and shared craft often require close guidance, but the word keeps that practical relationship separate from permanent rank or ownership of another person's labor."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "attending to another participant's work within a stated scope",
     "cognition": "observing conditions and responding to performance",
     "community": "a bounded work relationship whose authority remains separately stated"

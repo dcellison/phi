@@ -7,9 +7,7 @@
     "ka",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Back / Dorsal Surface / Spine Region",
   "description": "The posterior surface of the torso, spanning from neck to hips, centered on the spine. The back is what we cannot see of ourselves yet what supports everything we do. It carries burdens, protects the spine, and presents itself to the world we leave behind as we move forward.",
   "sound_symbolism": "The word begins with 'r', the rolling consonant suggesting the ridge of spine and the breadth it spans. The open 'o' creates the back's broad surface. Then 'ka' structures firmly with the velar stop, the architectural strength of vertebrae and muscle. Finally 'i' rises along the spine's length from base to head.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "In sitting meditation, the back aligns straight yet relaxed, embodying alert ease. The back's posture reflects and shapes mental states.",
     "pre-industrial-wisdom": "The back bears loads, bends to work, straightens with pride. Labor lives in the back's memory—it knows carrying, lifting, and the rest that follows."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Posterior torso surface and spine region"
   }
 }

@@ -6,9 +6,7 @@
     "no",
     "phi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Story / Narrative thread / Living tale",
   "description": "A sequence of events woven with meaning, carrying truth through narrative rather than fact. More than entertainment or record, 'story' in Phi represents humanity's fundamental way of understanding—how we make sense of chaos, transmit wisdom, and create shared reality through the act of telling. Stories are living entities that grow and change with each telling, bridges between teller and listener where meaning emerges in the space between words.",
   "sound_symbolism": "The word begins with 'no', where the nasal 'n' resonates with the internal voice of memory and imagination—stories vibrating within consciousness—opening to 'o', the round vowel of wholeness and cyclic return, like tales told again and again. This flows into 'phi', where the breathy fricative 'φ' whispers like stories passed between generations, secrets shared in confidence, meeting 'i', the bright vowel of insight and awakening—the moment when story becomes understanding. Together, 'nophi' creates the essence of story: inner knowing ('no') breathed into shared wisdom ('phi')—the transformation of experience into narrative light.",
@@ -16,7 +14,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Stories were humanity's first technology for preserving knowledge—oral traditions that encoded survival information, social values, and spiritual teachings in memorable narrative forms. Before writing, entire cultures existed in story, with specialized storytellers serving as living libraries. 'Nophi' carries this understanding that stories are vessels for wisdom that transcends generations, teaching through metaphor what cannot be conveyed through instruction alone. Stories create community through shared narrative, establish identity through origin tales, and transmit complex ecological knowledge through seemingly simple tales."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "cognitive structures for organizing events into meaningful sequences",
     "dialogue": "fundamentally acts of structured transmission from one consciousness to another"
   }

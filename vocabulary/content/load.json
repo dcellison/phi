@@ -7,9 +7,7 @@
     "ko",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Load / Demand Placed on a Technical System",
   "description": "The technical demand placed on a system. The word stays narrowly technical: it does not, without more context, mean the weight on a person's shoulders, an obligation, or cargo in a wagon.",
   "sound_symbolism": "Dental 'ta' strikes the first contact and opens wide. Stressed 'ko' answers with a second stop farther back, its round vowel giving the center weight. 'Ri' flicks away from both closures and carries the pressure into motion. The two stops are the demand; the final liquid is the structure taking it onward.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Comparing load with capacity supports realistic shared planning and exposes when infrastructure is being asked to provide more than its stated conditions allow.",
     "peace-linguistics-practices": "The specialist definition avoids reducing people, care needs, or labor to anonymous technical load."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "required work or throughput relative to a technical function",
     "cognition": "a quantity interpreted in relation to capacity and conditions",
     "physical": "a demand placed on material support, transmission, or processing"

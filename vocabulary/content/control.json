@@ -7,9 +7,7 @@
     "to",
     "ra"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Control / Constrain or Adjust a Technical Process Toward a State",
   "description": "To adjust a technical process or variable toward a selected state. The word stays inside the technical fence on purpose: it names an engineer's hand on a dial, never a person commanding another person.",
   "sound_symbolism": "A clean velar stop begins 'ke', precise as a fingertip finding a dial. Stress lands on dental 'to', another closure made farther forward and released into round 'o'. Rolling 'ra' carries the adjustment onward and opens its range, while the two measured contacts give the word the feel of correction by small deliberate degrees.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Transparent control relations let communities examine how infrastructure responds, who selects its target conditions, and who bears unintended effects.",
     "peace-linguistics-practices": "Restricting the unmarked module sense to technical variables prevents a systems metaphor from making domination of people sound neutral or inevitable."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "adjustment or constraint of a technical process",
     "cognition": "control depends on a selected state or range rather than an unspecified desire",
     "creation": "a designed relation used to influence system behavior"

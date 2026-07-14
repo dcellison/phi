@@ -7,9 +7,7 @@
     "ka",
     "nu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Certify / Issue a Formal Claim That Criteria Were Met",
   "description": "For a named person or institution to issue a formal claim that stated criteria were met, within a scope and a validity. The certificate itself, with its issuer, identifier, and dates, is source material and stays outside the Phi passage. The claim can be wrong; certification is testimony with a name attached, not truth.",
   "sound_symbolism": "Narrow 'si' begins as a bright thread of air. Stressed 'ka' stops that thread at the velum and releases it into broad 'a'. Final 'nu' settles the tongue at the teeth and deepens into a nasal 'u'. The contour passes from fine breath through a clean mark to a low, held close.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Treating certification as a sourced institutional claim prevents a credential from becoming unquestionable truth or a general claim of authority and worth."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "issuing or maintaining a formal criteria claim",
     "cognition": "a recorded conclusion based on stated criteria",
     "community": "a status attributed by a named person or institution",

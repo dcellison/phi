@@ -6,9 +6,7 @@
     "si",
     "we"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sweat / The Skin's Water / To Sweat",
   "description": "Sweat: the skin's water in effort and heat — and the verb of producing it. The honest residue of 'riola' (labor).",
   "sound_symbolism": "'si'+'we': the thinnest water word — skin-water in two light syllables.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Work that produces sweat is work at human scale — the body's own renewable engine, honored rather than engineered away.",
     "pre-industrial-wisdom": "Sweat was the measure of the day's work and the reason for the evening's washing — labor's plainest receipt."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Effort's residue",
     "physical": "The skin's water"
   }

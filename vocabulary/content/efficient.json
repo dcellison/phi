@@ -7,9 +7,7 @@
     "ru",
     "li"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Efficient / High Useful Output Relative to Selected Input",
   "description": "Producing a high useful output relative to a selected input. Every efficiency claim carries a hidden boundary and a value choice inside it, since a process can be efficient by one measure while remaining harmful, unjust, or out of reach for the people who need it.",
   "sound_symbolism": "'Po' starts with a brief closure and a rounded release. The stress rolls through 'ru'; energy remains in continuous motion as light 'li' lets the tongue glide into bright 'i'. The whole word spends one closure and carries the rest of its work through liquids, a compact path from effort to result.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Efficiency can reduce resource use, but the word explicitly keeps system boundaries, excluded harms, and chosen benefits available for ethical examination.",
     "secular-buddhist-philosophy": "The definition resists attachment to a favorable metric by asking what was counted, what was omitted, and under which conditions."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a relation between resources used and useful performance",
     "cognition": "an assessment whose result depends on selected inputs, outputs, and boundaries",
     "creation": "a comparative quality of designed processes and systems"

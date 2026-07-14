@@ -7,9 +7,7 @@
     "ka",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Disease / Classified Pattern or Process Affecting Health",
   "description": "A classified pattern or process affecting health, sourced from wherever the classification comes from. The exact disease name and its criteria belong in the record beside the Phi when precision matters, and the classification is never mistaken for the person who has it.",
   "sound_symbolism": "'Mo' begins in a low nasal hum behind closed lips. The stressed velar release of 'ka' breaks that enclosure and opens the word wide. Final 'nu' returns to nasal resonance at the teeth and settles into deep 'u'. Open only in its middle, the sound closes lower than it began.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Separating a disease category from a person, symptom, disability, and moral judgment reduces stigmatizing inference and keeps contested classifications open to examination."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a health classification under stated criteria and source",
     "physical": "a pattern or process affecting bodily health or function"
   },

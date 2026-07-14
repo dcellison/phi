@@ -6,9 +6,7 @@
     "we",
     "sho"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Locate / Find Position / Discover Where",
   "description": "To discover the exact place or position of; to find. 'Wesho' names the finding of position—determining where something is, establishing location.",
   "sound_symbolism": "The word finds. 'We' opens with searching awareness, looking begun. Then 'sho' /ʃo/ settles on the spot, location found.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Locating oneself in present moment is practice—knowing where you are before deciding where to go.",
     "pre-industrial-wisdom": "Locating was survival skill—finding water, food, shelter, the way home required reading landscape."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Discovery",
     "spatial": "Finding position"
   }

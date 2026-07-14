@@ -7,9 +7,7 @@
     "e",
     "la"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Path / Way / The Line of Going",
   "description": "The noun naming the route traveled, the way found or made through landscape and through life. In Phi, path is understood as accumulated walking, as the trace of many journeys, as the way that opens before us and closes behind. This word names both physical trails through terrain and metaphorical paths through life, practice, and understanding. The path is where we are going and how we get there.",
   "sound_symbolism": "The word opens with 'ru', where the rolling 'r' creates continuous movement—the ongoing journey, step after step along the way. The deep 'u' grounds this movement in purpose. The standalone 'e' brings clarity of direction, knowing where the path leads. The final 'la' flows into open possibility, the path continuing ahead, always more way to go. The arc traces journey: continuous movement, clear direction, open continuation.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The path (magga) is central to Buddhist teaching—the Noble Eightfold Path, the way to liberation. 'Ruela' names both the walking and the direction, the practice and its trajectory.",
     "pre-industrial-wisdom": "Traditional cultures knew their paths intimately—game trails, trade routes, pilgrimage ways. 'Ruela' honors path as accumulated wisdom of many walkers."
   },
-  "tags": {
+  "semantic_domains": {
     "spatial": "routes through physical space",
     "wisdom": "ways of practice and understanding"
   }

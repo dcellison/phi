@@ -7,9 +7,7 @@
     "re",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Mediator / One Who is a Deliberate Bridge",
   "description": "A neutral third party who facilitates dialogue between conflicting parties to help them reach a mutual understanding and agreement. Their role is to build a bridge of communication, not to impose a solution.",
   "sound_symbolism": "The thoughtful 'the' establishes careful consideration - mediation cannot rush, must breathe with deliberation. This patience builds into 're', the bridge-sound that spans chasms between hearts in conflict. Finally 'o' encompasses all parties in wholeness, refusing to take sides while holding space for resolution. Three syllables map the mediator's journey: careful listening, bridge-building, wholeness-seeking - the sacred work of helping others find their way back to each other.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Mediation embodies the highest form of peace practice - creating conditions where parties in conflict can hear each other's humanity. The mediator facilitates dialogue without imposing solutions, understanding that sustainable peace emerges from mutual recognition rather than external judgment. This role transforms conflict into opportunity for deeper understanding.",
     "pre-industrial-wisdom": "Traditional societies have long recognized mediators as essential community roles - those gifted in seeing all sides and weaving resolution from conflict. These peace-weavers understand that broken relationships tear the community fabric, and that restoration matters more than determining who was right. Ancient mediation practices focus on healing the whole rather than punishing parts."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "essential role in maintaining social harmony",
     "dialogue": "facilitates communication and understanding between parties",
     "wisdom": "requires seeing all perspectives and finding middle way"

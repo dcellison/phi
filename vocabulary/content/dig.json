@@ -7,9 +7,7 @@
     "ho",
     "li"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Dig / Open the Earth / Work Downward into Soil",
   "description": "To dig: the planting hole, the well, the root from the ground. Opening the earth with hands or tools. Built on the sound of 'muila' (earth) — digging is earth-work by name.",
   "sound_symbolism": "'mu' is the soil itself (the first syllable of 'muila'), 'ho' the breath of effort, 'li' the passage downward and through. Earth, work, way: the deed in order.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Soil turned by hand at garden scale — the future's agriculture looks like careful digging, not extraction.",
     "pre-industrial-wisdom": "Everything began with digging: the well, the cellar, the grave, the garden. The spade is the honest tool of settlement."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Earth-work",
     "nature": "Opening the soil",
     "physical": "Working downward"

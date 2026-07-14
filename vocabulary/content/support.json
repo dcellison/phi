@@ -7,9 +7,7 @@
     "no",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Support / Uphold / Provide Foundation",
   "description": "To hold up, back, or provide foundation for—whether physical support like a pillar, emotional support like presence during difficulty, or social support like advocacy for another's cause. 'Panoru' names the underlying strength that enables others to stand.",
   "sound_symbolism": "The word provides a base like support itself. 'Pa' plants with bilabial firmness, foundation established. Then 'no' holds with nasal stability, the steady presence beneath. Finally 'ru' rises with what is supported, the structure standing because the base holds.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The sangha (community) provides support for practice—we hold each other up. Interdependence means we all need support and can all provide it.",
     "peace-linguistics-practices": "Supporting others honors their autonomy while providing what they need to stand. Good support empowers rather than creates dependence."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Providing foundation for others",
     "physical": "Holding up, bearing weight"
   }

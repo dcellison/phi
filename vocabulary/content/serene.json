@@ -6,9 +6,7 @@
     "thi",
     "ro"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Serene / Radiantly Calm / Peacefully Clear",
   "description": "Calm, peaceful, and untroubled. 'Thiro' names a stillness that shows: a serene person or scene settles the people around it. It is stronger than 'shena' (calm).",
   "sound_symbolism": "The word radiates stillness. 'Thi' /θi/ begins with breath held still, the serene pause. Then 'ro' opens with quiet radiance, peace glowing outward.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Serenity is calm that has deepened into radiance—the peaceful presence that naturally calms others.",
     "art-nouveau-aesthetics": "Serene beauty was Art Nouveau's highest aim—grace that soothes rather than excites."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Luminous calm",
     "emotion": "Radiant peace"
   }

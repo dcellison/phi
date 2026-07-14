@@ -7,9 +7,7 @@
     "pe",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Vomit / The Body's Reversal / Expel from the Stomach",
   "description": "To vomit: the stomach's emphatic refusal. Coined plainly, per the language's ruling against squeamishness — medicine and care need the word, and euphemism serves no one at a sickbed.",
   "sound_symbolism": "Deep 'mu' rising in reverse through 'pe' to 'lo' — the path backward, said quickly.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Dignity at the sickbed comes from calm words for hard facts; the plain verb is kinder than any euphemism.",
     "pre-industrial-wisdom": "The sickroom's plainest fact, and often its most important one — care runs on unembarrassed reporting."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "The stomach's refusal"
   }
 }

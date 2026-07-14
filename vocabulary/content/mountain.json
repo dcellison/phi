@@ -7,9 +7,7 @@
     "mo",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Mountain / High Peak / Earth Rising",
   "description": "A large natural elevation of earth's surface rising dramatically above surrounding land. 'Tomora' names the great risings of the earth—ancient stone reaching toward sky, holding snow and source-waters, standing as witnesses across generations.",
   "sound_symbolism": "The word rises from earth to sky. 'To' begins with dental grounding, the mountain's foundation. 'Mo' gathers its massive, enduring body, and 'ra' lifts and opens at the summit where stone meets sky.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Mountains teach aspiration and perspective—the climb reveals new vistas, and from the summit one sees the interconnection of all below.",
     "pre-industrial-wisdom": "Mountains were sacred in nearly all traditional cultures—homes of spirits, sources of waters, places where earth touches sky."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Major land elevation",
     "spatial": "Earth reaching skyward"
   }

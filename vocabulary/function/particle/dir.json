@@ -6,9 +6,8 @@
     "hi"
   ],
   "slot": 1,
-  "pos": [
-    "particle"
-  ],
+  "slot1_rank": "evidentiality",
+  "pos": "particle",
   "concept": "Direct Evidence / Witnessed / Sensory",
   "description": "An evidential particle marking information as directly witnessed through the speaker's own senses. An unmarked sentence claims no source, so 'hi' appears when firsthand knowledge is claimed outright: testimony, contrast with other sources, or any moment the witnessing itself is the message. To use it is to claim presence: the speaker was there and paying attention.",
   "sound_symbolism": "The particle begins with 'h', the most open and unobstructed consonant—pure breath flowing without barrier, just as direct perception flows without intermediary. This aspirate meets 'i', the brightest and most forward vowel, associated with clarity, precision, and keen awareness. Together, 'hi' sounds like the gasp of recognition, the clear-eyed 'I see.' The openness of 'h' suggests nothing hidden or filtered, while 'i' brings the sharpness of direct sensory contact.",

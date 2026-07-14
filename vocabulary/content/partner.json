@@ -7,9 +7,7 @@
     "we",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Partner / One Who Joins in Unity",
   "description": "An individual who joins with another in equal measure to create a unified whole. This can apply to romantic, creative, or other forms of close, collaborative relationships.",
   "sound_symbolism": "The word begins with 'te', where the stop consonant 't' creates a moment of contact—two separate entities meeting at a precise point. This meeting opens into 'we', the communal syllable of togetherness: the glide 'w' draws the two into one motion, and the mid vowel 'e' holds them in balance. The word settles in 'ma', where the nasal 'm' grounds the union and the open 'a' gives it room to live. The progression from contact ('te') through togetherness ('we') to ground ('ma') mirrors how partnership forms—first the meeting, then the choice to move as one, then the patient work of building something stable enough to dwell in. The kinship of sound with 'wemi' (ally) quietly teaches that partners are, before all else, allies.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Partnerships form the cellular units of resilient communities - whether in housing cooperatives, work collectives, or creative collaborations. These voluntary associations based on shared values and mutual benefit demonstrate that human relationships can transcend transactional exchange to create regenerative abundance.",
     "peace-linguistics-practices": "Partnership models peaceful relationship through equality and mutual respect - neither dominating nor submitting, but co-creating together. This practice transforms power dynamics from hierarchy to collaboration, proving that strength emerges through voluntary cooperation rather than coercion."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "fundamental social bond and relationship",
     "creation": "partners co-create their shared reality",
     "dialogue": "requires ongoing communication and mutual exchange"

@@ -7,9 +7,7 @@
     "ru",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Thunder / The Rumble After",
   "description": "Thunder: the sound that arrives after the light, slower because sound is slower. Always second, never alone; where there is 'horuma' there was 'pheluka'. Felt in the chest as much as heard.",
   "sound_symbolism": "Open 'ho' for the bigness, rolling 'ru' for the rumble, 'ma' for where it settles: in the ground, and in you.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Counting the gap between flash and rumble told the storm's distance. The sky taught arithmetic to anyone who stood still long enough."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The storm's voice",
     "physical": "Sound felt in the chest"
   }

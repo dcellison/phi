@@ -6,9 +6,7 @@
     "te",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Process / Unfolding Sequence / Method in Action",
   "description": "To carry something through a series of actions or steps toward an end; to unfold a method through time. 'Teru' names what happens between beginning and completion, the journey of transformation.",
   "sound_symbolism": "The word moves through stages. 'Te' touches with each step taken, stages progressing. 'Ru' runs with continuous flow, process unfolding.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Democratic process—collective decision-making that honors all voices.",
     "secular-buddhist-philosophy": "Process over outcome—valuing the journey of transformation, not grasping at results."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Action method",
     "temporal": "Unfolding sequence"
   }

@@ -7,9 +7,7 @@
     "e",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Clay / Moldable Earth / Potter's Material",
   "description": "Fine-grained earth that can be molded when wet and hardened by heat; the shaping earth. 'Mueri' names what yields to hands—earth willing to become vessel.",
   "sound_symbolism": "The word molds yielding. 'Mu' grounds with earthy mass, clay gathered. The vowel 'e' yields to pressure. Then 'ri' shapes with directing hands.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Malleability as beauty—clay accepts any form, inviting organic shapes and flowing lines.",
     "pre-industrial-wisdom": "Clay became vessel—the ancient transformation of earth into storage, cooking, art."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Shaping medium",
     "nature": "Earth material"
   }

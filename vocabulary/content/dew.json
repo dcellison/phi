@@ -7,9 +7,7 @@
     "i",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Dew / Morning Moisture / Night's Gift",
   "description": "Tiny drops of water that form on cool surfaces during the night. 'Suilo' names the quiet gift of darkness—moisture condensing in stillness, decorating grass and web with jewels that greet the dawn.",
   "sound_symbolism": "The word forms drop by drop. 'Su' begins with silent sibilance, moisture gathering. The vowel hiatus 'u.i' suspends each tiny droplet, and 'lo' closes softly around its liquid form as water rests on a surface.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Dew teaches impermanence through beauty—each morning's jewels vanish by noon, yet return again, neither permanent nor truly gone.",
     "art-nouveau-aesthetics": "Dewdrops were beloved Art Nouveau motifs—tiny lenses of light on petal and leaf, nature's diamonds freely given."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Condensed atmospheric moisture",
     "temporal": "Ephemeral morning phenomenon"
   }

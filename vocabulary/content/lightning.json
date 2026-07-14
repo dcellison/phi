@@ -7,9 +7,7 @@
     "lu",
     "ka"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Lightning / Sudden Storm Flash",
   "description": "The sudden electrical flash of a storm, branching or spreading in a sheet across the sky before thunder arrives. 'pheluka' names the flash; 'horuma' (thunder) is the sound that follows.",
   "sound_symbolism": "The lips begin with the narrow breath of /ɸ/, and 'phe' flashes open on a bright front vowel. Stress gathers in 'lu'; the tongue touches for /l/ while the vowel rounds and darkens, stretching the flash across the mouth. Final 'ka' closes at the velum and releases hard. The contour travels, then breaks, like light followed by thunder.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A flash is present and gone before a breath completes. It makes impermanence visible without pretending the change happened slowly.",
     "pre-industrial-wisdom": "The interval between flash and thunder helps place a storm; its direction tells a household when people and animals need shelter."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "A storm's sudden flash",
     "physical": "Electrical light across the sky"
   }

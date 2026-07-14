@@ -7,9 +7,7 @@
     "o",
     "mu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Leftovers / Prepared Food Remaining After a Meal",
   "description": "Prepared food remaining after a meal or serving, still held for a later decision or use. Some leftovers become another meal or an ingredient. Others are given away, composted, or discarded according to their condition and the household's choice. 'whemori' (waste) begins when someone assigns no further intended use; 'pheomu' begins simply because food remains.",
   "sound_symbolism": "Bilabial breath opens 'phe' before a standalone stressed 'o' rings across clear hiatus. Across that hiatus, 'pheo' (after) is heard intact. Final 'mu' closes the lips around a deep nasal ending.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Leftovers make the next use of prepared food visible before the household calls it waste.",
     "pre-industrial-wisdom": "Yesterday's grain, broth, or bread often began today's pot rather than a separate category of disposable food."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "prepared food remaining after an eating occasion",
     "temporal": "food carried beyond the meal that first served it"
   },

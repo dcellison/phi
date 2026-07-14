@@ -7,9 +7,7 @@
     "pa",
     "ru"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Discriminate / Impose Disadvantage Through a Perceived Category",
   "description": "To treat a person or group disadvantageously through an actual, assigned, or perceived trait or category. The act may work through a rule that appears general while its burden falls unevenly. 'pharomu' (exclude) names being kept out; 'wheparu' identifies the category-shaped disadvantage behind that or another harm.",
   "sound_symbolism": "Rounded unvoiced 'whe' draws a thin stream of air through the lips. Stressed 'pa' closes them completely, then releases through broad 'a'. Final 'ru' rolls the tongue and drops into deep 'u'. Constrained breath meets a hard central contact before the sound turns into a darker close.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A cooperative institution needs language for the rule that distributes harm unevenly, including when its designers called the rule neutral.",
     "peace-linguistics-practices": "The word lets a speaker connect unequal treatment to the category used against them instead of reducing the event to private dislike."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "category-shaped treatment producing disadvantage",
     "cognition": "an assigned or perceived category directing action",
     "community": "unequal treatment of a person or group"

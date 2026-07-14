@@ -6,9 +6,7 @@
     "she",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Peace / Harmonious Stillness",
   "description": "A state of harmony characterized by the absence of violence and the presence of justice, understanding, and mutual flourishing. Peace encompasses inner tranquility, social harmony, and the active work of creating conditions where all beings can thrive.",
   "sound_symbolism": "The fricative 'sh' is the hushing sound speakers already use to quiet a room. It opens across a vowel hiatus into 'a', the most open vowel, so the word ends on a held-open breath. The pause of the hiatus puts a small rest inside the word itself.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Peace through language requires active cultivation - choosing words that heal rather than harm, creating space for all voices, and transforming conflict through dialogue. This practice sees peace not as mere absence of conflict but as the presence of justice, understanding, and structures that support mutual thriving.",
     "pre-industrial-wisdom": "Traditional peacemaking focused on restoring relationships rather than punishing wrongdoers - understanding that community harmony matters more than individual vindication. These practices of restorative justice, talking circles, and ritual reconciliation offer time-tested alternatives to cycles of vengeance."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "social harmony and collective thriving",
     "emotion": "peace as fundamental emotional and spiritual state",
     "wisdom": "requires understanding and active cultivation"

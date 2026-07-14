@@ -7,9 +7,7 @@
     "no",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Dignified / Noble Bearing / Honored Presence",
   "description": "Having or showing dignity; a quality of composed, worthy presence. 'Thunoa' names the bearing that commands respect—not through force but through inherent nobility.",
   "sound_symbolism": "The word breathes with noble presence. 'Thu' opens with thoughtful dignity, composure beginning. 'No' settles with grounded bearing, stability found. Then 'a' opens to acceptance of this state.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Dignified presence—the composure that comes from inner peace, not external validation.",
     "peace-linguistics-practices": "Dignified communication—speaking and listening with respect for all participants."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Respected presence",
     "emotion": "Noble bearing"
   }

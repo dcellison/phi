@@ -6,9 +6,7 @@
     "nu",
     "ko"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Black / Dark-Color / Night-Hue",
   "description": "The adjective naming the hue of night, shadow, and light's absence, the presence of all colors absorbed. In Phi, black carries associations with depth, rest, and the fertile darkness from which things emerge. This word names the color of night that means rest, of soil that means fertility, of shadow that means the price of light.",
   "sound_symbolism": "The nasal 'n' and deep back vowel 'u' of 'nu' sit low and closed in the mouth, matching the darkness the word names. The velar stop 'k' of 'ko' gives the color a definite edge, and the rounded 'o' closes the word.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Darkness is where vision rests, where distinctions dissolve, where sleep restores. 'Nuko' names this necessary darkness.",
     "pre-industrial-wisdom": "Black marked night, mystery, and the fertile darkness of soil and womb. 'Nuko' names the generative dark without negative judgment."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "visual quality of light absence",
     "nature": "the color of night and shadow"
   }

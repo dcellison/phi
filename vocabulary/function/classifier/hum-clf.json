@@ -6,9 +6,7 @@
     "hi",
     "mo"
   ],
-  "pos": [
-    "classifier"
-  ],
+  "pos": "classifier",
   "concept": "Human Classifier / Person Category",
   "description": "The optional classifier for people. Placed between a numeral and a human noun, 'himo' explicitly assigns what is counted to the human category. A numeral phrase without it remains complete, and its presence does not establish respect, dignity, consciousness, or ethical treatment.",
   "sound_symbolism": "The word begins with breathy 'hi', whose bright vowel can suggest alert presence, and settles into nasal, rounded 'mo', which can suggest social belonging. This is a mnemonic association with personhood, not a claim that consciousness is unique to humans or encoded by the sound.",

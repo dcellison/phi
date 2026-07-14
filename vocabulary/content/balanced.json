@@ -7,9 +7,7 @@
     "i",
     "lo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Balanced / In Equilibrium / Properly Proportioned",
   "description": "Keeping or showing a steady and even distribution; having different elements in proper proportion. 'Weilo' names the quality of balance—neither excess nor deficiency, all parts in right relation.",
   "sound_symbolism": "The word finds center. 'We' opens with even awareness, attention distributed. The vowel 'i' finds the center point, equilibrium located. Then 'lo' settles into stability, balance held.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Balanced systems sustain themselves—taking only what can be replenished, giving what is needed.",
     "secular-buddhist-philosophy": "The Middle Way seeks balance—avoiding extremes of indulgence and denial."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Equilibrium",
     "wisdom": "Proper proportion"
   }

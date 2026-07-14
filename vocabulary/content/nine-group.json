@@ -6,9 +6,7 @@
     "pho",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Nine-Group / Second Ternary Scale",
   "description": "A noun representing a group of nine (3²), the second scale in Phi's ternary numeral system. Exact forms count it with 'ta' or 'wi'; bare 'phoi' gives an approximate magnitude around nine. Nine lies beyond the usual subitizing range and must ordinarily be counted, estimated, or recognized through a learned arrangement. A three-by-three display can make its triadic structure visible, but not innately exact.",
   "sound_symbolism": "The two syllables 'pho.i' provide a mnemonic image of a larger group. The bilabial fricative 'ph' /ɸ/ releases a sustained breath, the rounded 'o' suggests a filled space, and the final 'i' brings the form to a clear edge. The imagery can suggest fullness without implying that nine is automatically abundant, sufficient, or easy to perceive.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "The visible composition of 'phoi' can prompt a speaker to distinguish exact nine, approximate nine, and the separate judgment 'henoi' (enough). The word cannot prevent competitive counting, hoarding, or harmful comparison.",
     "pre-industrial-wisdom": "People often understand quantities through embodied groupings such as containers, trips, hands, and tasks. 'Phoi' can participate in such descriptions without claiming that traditional societies generally treated nine as the boundary of useful precision."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Names a quantity beyond ordinary subitizing that can be learned as three triads",
     "community": "Can describe a small gathering without defining its cohesion or sufficiency",
     "wisdom": "Keeps exact, approximate, and sufficient quantity as separate claims"

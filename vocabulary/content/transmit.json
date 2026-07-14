@@ -7,9 +7,7 @@
     "wa",
     "ro"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Transmit / Pass an Infectious Agent Between Hosts or Reservoirs",
   "description": "To pass an infectious agent between hosts or through a reservoir like water or air. Transmission traces a pathway a disease actually took, and tracing that pathway assigns no blame to whoever carried it.",
   "sound_symbolism": "Fine 'se' sends air forward through a narrow hiss. At the stressed center, 'wa' rounds the lips and opens wide into 'a'. Final 'ro' brings the movement back to the tongue and a rounder vowel. From a thin stream, the sound crosses openness and reaches a rolling close.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A pathway-centered transmission verb supports prevention without treating an infected person as blameworthy, impure, or inherently dangerous."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "movement of an infectious agent through a biological pathway",
     "physical": "passage between hosts, reservoirs, or environments"
   },

@@ -7,9 +7,7 @@
     "ru",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Exterior / Outside Surface / Outer Part",
   "description": "The outer part or surface of something; what faces outward. 'Lerua' names the outer face—what meets the world, what is seen from outside.",
   "sound_symbolism": "The word faces outward. 'Le' begins with light exposure, outer reached. 'Ru' rolls across the surface. Finally 'a' opens to the world, exterior presented.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Exterior and interior are not separate—what shows outward reflects what lives within.",
     "art-nouveau-aesthetics": "Exterior design shaped buildings—facades that integrated ornament with structure, beauty with function."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Facing out",
     "spatial": "Outer surface"
   }

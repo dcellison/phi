@@ -6,9 +6,7 @@
     "we",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Poet / Verse Maker / Word Artist",
   "description": "One who writes poetry; a crafter of words into rhythmic, meaningful forms. 'Weru' names who shapes language—finding the precise word for the precise feeling.",
   "sound_symbolism": "The word weaves with rhythm. 'We' flows with word-weaving, language shaped. 'Ru' runs with rhythmic flow, verse forming.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Poet as truth-speaker—finding words for what lies beyond words.",
     "art-nouveau-aesthetics": "Poet as beauty-maker—language elevated to art."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Word craft",
     "community": "Creative role"
   }

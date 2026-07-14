@@ -7,9 +7,7 @@
     "li",
     "ho"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Sing / Produce Melody with Voice / Express Through Song",
   "description": "To produce musical sounds with the voice—melody, harmony, rhythm shaped by breath and vocal cords into beauty that enters the ear and touches the heart. 'Meliho' names the transformation of breath into song, the voice's capacity to carry emotion beyond speech.",
   "sound_symbolism": "The word rises like song itself. 'Me' begins with nasal melody, the humming that precedes words. Then 'li' lifts with liquid brightness, the voice ascending. Finally 'ho' breathes out with open release, song given to the air.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Singing together harmonizes literally—voices joining, differences subsumed in shared melody. Song builds unity.",
     "pre-industrial-wisdom": "Song carries culture across generations—work songs, lullabies, ceremonial chants. Communities sing together what matters most."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental human activity of singing",
     "community": "Shared singing traditions",
     "creation": "Musical vocal expression"

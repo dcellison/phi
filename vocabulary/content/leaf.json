@@ -7,9 +7,7 @@
     "ro",
     "wa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Leaf / Foliage / Plant's Breath",
   "description": "A flattened structure of a plant, typically green, where photosynthesis occurs. 'Lirowa' names the breathing organs of plants—solar collectors that transform light to life, seasonal markers that bud, unfurl, and fall in endless cycle.",
   "sound_symbolism": "The word flutters lightly. 'Li' begins with liquid lightness, the delicate blade. Then 'ro' extends from branch, the stem's connection. Finally 'wa' waves gently, the leaf moving in breeze.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Leaves teach impermanence through their cycle—budding, flourishing, changing color, and releasing. Each fallen leaf demonstrates letting go.",
     "art-nouveau-aesthetics": "Leaves were central motifs in Art Nouveau—their organic shapes, veined patterns, and graceful curves embodied natural beauty."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Plant foliage",
     "temporal": "Seasonal cycle marker"
   }

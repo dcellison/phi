@@ -7,9 +7,7 @@
     "lu",
     "ro"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Honor / Show Deep Respect / Acknowledge Worth",
   "description": "To show deep respect and reverence for someone or something, acknowledging their intrinsic worth and dignity. 'Keluro' is the visible expression of recognizing value—through words, gestures, or actions that communicate: you matter, you are seen, your contribution is held sacred.",
   "sound_symbolism": "The word lifts with reverence. 'Ke' begins with velar clarity, attention focusing on what deserves recognition. Then 'lu' flows with liquid grace, respect extending outward. Finally 'ro' rolls with warm acknowledgment, honor given fully.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Honoring others creates relational foundation—when we name someone's worth, we build the ground for authentic dialogue.",
     "pre-industrial-wisdom": "Traditional cultures honor elders, ancestors, and teachers through ritual and daily practice—honor as ongoing relationship, not one-time event."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Acknowledging worth within relationships",
     "ritual": "Formal expressions of respect"
   }

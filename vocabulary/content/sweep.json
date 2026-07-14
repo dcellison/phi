@@ -7,9 +7,7 @@
     "re",
     "wa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Sweep / Move Loose Material with Repeated Strokes",
   "description": "To move dust, crumbs, leaves, or other loose material across a surface with repeated strokes of a broom or brush. Sweeping may gather the material into one place or push it out of the worked area. 'hewe' (wipe) clears through close contact with a cloth or hand; 'phurewa' works through the returning stroke of bristles.",
   "sound_symbolism": "Deep 'phu' starts with soft bilabial breath. Stressed 're' turns the tongue through balanced 'e'. Final 'wa' rounds at the lips and opens into broad 'a'. Low breath changes direction at the center, then sweeps into the widest vowel.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A floor shows the work honestly: each pass clears one strip, and attention returns for the next.",
     "pre-industrial-wisdom": "Sweeping gathered ash for use, crumbs for animals, and dirt for removal before any of it could be called simply gone."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "moving loose material with repeated brush strokes",
     "physical": "surface cleaning through bristle contact"
   },

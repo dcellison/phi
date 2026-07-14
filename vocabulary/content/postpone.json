@@ -7,9 +7,7 @@
     "re",
     "su"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Postpone / Move a Planned Activity or Decision Later",
   "description": "To move a planned activity, action, or decision to a later time without canceling it. Postponement changes the plan itself, while 'hasi' (wait) can occur inside an unchanged plan. The new time, decision source, and effects on participants remain separate facts.",
   "sound_symbolism": "Bright 'wi' glides inward from rounded lips. Stressed 're' turns the tongue through balanced 'e', then final 'su' releases a hiss into deep 'u'. After one quick turn, the sound ends lower than it began.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Shared plans remain answerable to weather, care, access, and material conditions instead of treating the first calendar entry as immovable.",
     "peace-linguistics-practices": "Postponement can protect participation when a group needs more time, and the same word leaves room to name when delay shifts the burden onto someone else."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "moving a planned action to a later time",
     "community": "a schedule change affecting shared participation",
     "temporal": "later placement without cancellation"

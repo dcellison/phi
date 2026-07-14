@@ -7,9 +7,7 @@
     "la",
     "o"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Good / Beneficial / Well-Functioning",
   "description": "The adjective naming positive quality, beneficial nature, and proper functioning. In Phi, goodness combines ethical rightness, functional appropriateness, and contribution to wellbeing. This word refuses the split between moral good and practical good—what truly functions well serves life, and what serves life is morally sound. Goodness is recognized in harmony, in health, in right relationship.",
   "sound_symbolism": "The word opens with 'we', where the flowing glide 'w' creates positive movement—reaching toward the beneficial, opening toward the good. The clear 'e' brings discernment. This flows through 'la', where the liquid carries goodness outward in blessing, in benefit, in positive effect. The final 'o' opens into fullness, the round completion of wellbeing achieved. Three syllables give weight to the claim of goodness.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "What is good reduces suffering and supports liberation. 'Welao' names the quality that Buddhist ethics seek—what benefits self and others, what leads toward awakening.",
     "pre-industrial-wisdom": "Traditional wisdom understood good as what serves life, community, and right relationship. 'Welao' preserves this holistic sense."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "what serves collective wellbeing",
     "wisdom": "discernment of beneficial quality"
   }

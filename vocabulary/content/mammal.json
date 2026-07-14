@@ -7,9 +7,7 @@
     "re",
     "ke"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Mammal / Warm-Blooded Animal / Milk-Nursing Vertebrate",
   "description": "A warm-blooded animal that nurses its young with milk, typically bearing fur or hair. 'Moreke' names the class of creatures most closely related to humans—beings that share our warmth, our nursing bonds, our capacity for complex social life.",
   "sound_symbolism": "The word carries mammalian warmth. 'Mo' begins with nasal closeness, the nursing bond. Then 're' rolls with warm vitality, blood-warmth flowing. Finally 'ke' defines with gentle clarity, kinship recognized.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Recognizing mammals as kin—sharing warmth, nursing, social bonds—extends our circle of compassion to near relatives.",
     "pre-industrial-wisdom": "Mammals have long been human companions—as food, as helpers, as fellow social beings. Our kinship runs deep."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Close animal kin",
     "nature": "Warm-blooded nursing creatures"
   },

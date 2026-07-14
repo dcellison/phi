@@ -7,9 +7,7 @@
     "ra",
     "no"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Safe / Out of Danger / The Sheltered State",
   "description": "The felt state of being out of danger — safety as experienced from within rather than protection performed by another. Joins the shelter family: 'shuroa' (shelter, the structure), 'thelui' (sanctuary, the sacred refuge), 'shorupo' (protect, the act), and 'shurano' (safe, the state). Its opposite is 'pukea' (danger).",
   "sound_symbolism": "Opens with the sheltering hush 'shu' — the same soft roof that covers 'shuroa' — then the open 'ra' of room to breathe, settling on the grounding 'no': feet on known floor. Safety sounded as a hush, a breath, and solid ground. Deliberately shares nothing with 'pukea' (danger), so the two states can never be misheard.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Felt safety is the precondition of every honest conversation — no one speaks truly while afraid. A peace language needs 'safe' as a basic word, because peace begins as the body's sense of it.",
     "pre-industrial-wisdom": "Safety was the village's first shared project: the wall, the watch, the fire kept in — felt security as collective craft."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "What a community owes its members",
     "emotion": "The felt state of being out of danger",
     "physical": "Bodily security"

@@ -6,9 +6,7 @@
     "re",
     "shi"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Fast / Moving Quickly / Happening Rapidly",
   "description": "Moving or capable of moving at high speed; happening in a short time. 'Reshi' names the quality of speed—rapid movement, quick occurrence.",
   "sound_symbolism": "The word moves swiftly. 'Re' releases with quick energy, motion initiated. Then 'shi' /ʃi/ rushes past, speed achieved.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Fast adaptation enables resilience—communities that respond quickly to change can survive disruption.",
     "pre-industrial-wisdom": "Pre-industrial life needed speed in its place: quick action when the river rose, swift help for the hurt. 'Reshi' names that kind of fast."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Rapid movement",
     "temporal": "High speed"
   }

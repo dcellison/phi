@@ -7,9 +7,7 @@
     "so",
     "e"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Creative / Bringing New Things Into Being / Inventive",
   "description": "Relating to or involving the imagination and original ideas; able to create new things. 'Phisoe' names the quality of generative imagination—the capacity to bring forth what did not exist before.",
   "sound_symbolism": "The word shapes the new. 'Phi' /ɸi/ begins with forming breath, creation stirring. Then 'so' shapes with intention, form emerging. Finally 'e' opens to the new, creation complete.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Creative solutions address seemingly impossible challenges—imagination applied to building sustainable futures.",
     "art-nouveau-aesthetics": "Creativity was Art Nouveau's driving force—artists who saw new forms in nature and brought them into human-made objects."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Inventive capacity",
     "creation": "Bringing forth new"
   }

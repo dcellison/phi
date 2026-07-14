@@ -7,9 +7,7 @@
     "ra",
     "ni"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Trend / Direction or Pattern Across Ordered Observations",
   "description": "A direction or pattern across ordered observations. A trend describes what has already happened; it carries no built-in cause and makes no promise that the pattern continues.",
   "sound_symbolism": "Light 'he' begins as moving breath and recalls the opening of 'helui' (change). The word turns on stressed 'ra' and gains a rolling direction across broad 'a'. Dental 'ni' places one fine point at the end, where air has become a path and arrived at its latest mark.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A trend names patterned change without turning continuity into certainty or one selected time window into an essence.",
     "peace-linguistics-practices": "Explicit scope and uncertainty make trend claims available for challenge instead of using apparent direction as unquestionable authority."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a pattern inferred from an ordered series of observations",
     "temporal": "direction or recurrence assessed across time or ordered states"
   },

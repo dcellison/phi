@@ -6,9 +6,7 @@
     "ke",
     "su"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Determined / Firmly Resolved / Unwavering in Purpose",
   "description": "Having made a firm decision and being resolved not to change it. 'Kesu' names the quality of determination—the steadfast will that persists toward its aim.",
   "sound_symbolism": "The word holds firm. 'Ke' begins with clear resolve, decision made. Then 'su' sustains with steady force, determination maintained.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Determined communities persist—the resolve to build better futures despite obstacles.",
     "secular-buddhist-philosophy": "Right effort requires determination—the resolve to continue practice despite difficulty."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Firm resolve",
     "wisdom": "Unwavering purpose"
   }

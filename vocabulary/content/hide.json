@@ -6,9 +6,7 @@
     "ku",
     "pe"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Hide / Conceal / Place Out of Sight",
   "description": "To hide: seeds from the jays, a gift before the festival, oneself in the children's game. Concealment, playful or protective. Converse of 'hekawi' (find); a culture's hiding is mostly its keeping.",
   "sound_symbolism": "'ku' is the enclosed dark of the hiding place, 'pe' the soft cover drawn over it. Small sounds for a small secrecy.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "What is hidden from others is not hidden from oneself; the verb keeps concealment speakable, which keeps it honest.",
     "pre-industrial-wisdom": "The cache, the seed-store, the winter hoard hidden from weather and raiders alike — hiding as husbandry."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Placing out of sight",
     "spatial": "The enclosed and covered place"
   }

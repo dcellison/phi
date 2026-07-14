@@ -7,9 +7,7 @@
     "su",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sample / Selected Portion or Observation for Examination",
   "description": "A selected portion or observation taken for examination. How well a sample stands for something larger rests entirely on how it was selected, never on how precisely it was measured once taken.",
   "sound_symbolism": "Bilabial breath in 'phi' enters the stressed hiss and deep vowel of 'su' and preserves the familiar opening of 'phisuwa' (example). 'Ri' adds a quick contact of the tongue and brightens the end. One case has been lifted from a larger field and given a small audible path into the hand.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "A sample makes partial access explicit and resists turning one observed portion into certainty about a larger whole.",
     "peace-linguistics-practices": "Selection, custody, permission, and generalization remain visible instead of being hidden behind the authority of a scientific-sounding object."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a selected portion whose relation to a larger source must be justified",
     "physical": "a material, organism, place, or record portion taken for examination"
   },

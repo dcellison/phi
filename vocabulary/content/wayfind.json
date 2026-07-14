@@ -7,9 +7,7 @@
     "na",
     "ki"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Wayfind / Establish and Maintain Direction Through a Place",
   "description": "To establish and maintain one's location and direction while moving through a physical or informational place. Wayfinding may draw on landmarks and markers, memory or touch, sound or assistance. 'kulo' (guide) names leading by an agent; 'runaki' keeps the traveler as the one finding the way.",
   "sound_symbolism": "Rolling 'ru' begins in motion and drops into deep 'u'. The stress rests on 'na', where the tongue settles at the teeth before broad 'a'. Final 'ki' closes farther back and rises to bright 'i'. The contour travels from a low turn through a steady center to one crisp point.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A public path works differently when its turns can be found without requiring one familiar guide beside every traveler.",
     "peace-linguistics-practices": "The verb preserves the traveler's direction over the act even when another person or device supplies information."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "maintaining orientation while moving",
     "cognition": "using cues to establish location and direction",
     "spatial": "finding a route through a physical or informational place"

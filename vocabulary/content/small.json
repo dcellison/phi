@@ -6,9 +6,7 @@
     "thi",
     "ku"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Small / Little / Compact",
   "description": "The adjective naming littleness of size, the quality of occupying less space, being contained and compact. In Phi, smallness is observed without implicit inferiority—to be small is simply to be contained, concentrated, requiring less. This word names spatial limitation without judgment, acknowledging that small things can be precious, powerful, and complete.",
   "sound_symbolism": "The word opens with 'thi', where the dental fricative 'th' creates precise, contained sound—breath measured, not expansive. The bright 'i' focuses and narrows, the smallest vowel space. This closes into 'ku', where the stop 'k' creates boundary and the deep 'u' holds compact depth. Two syllables keep the word appropriately contained.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Small-scale solutions often prove most sustainable and appropriate. 'Thiku' supports valuing the small without diminishment.",
     "peace-linguistics-practices": "Separating size from worth enables clear description. 'Thiku' describes extent without implying that smaller is lesser or inadequate."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "spatial extent and containment",
     "spatial": "relationship of scale and dimension"
   }

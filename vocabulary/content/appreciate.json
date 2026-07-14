@@ -7,9 +7,7 @@
     "ra",
     "ka"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Appreciate / Recognize Value / Feel Grateful For",
   "description": "To recognize and value the worth of something or someone, to feel gratitude for what is given or present. 'Woraka' combines perception of value with emotional response—seeing clearly what is good and feeling thankful for it.",
   "sound_symbolism": "The word opens to value. 'Wo' begins with soft wonder, perceiving what deserves recognition. Then 'ra' reaches with rolling acknowledgment, appreciation extending. Finally 'ka' confirms with velar certainty, value recognized and gratitude felt.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Appreciation is mindfulness applied to the good—noticing what supports us rather than fixating on what's lacking.",
     "peace-linguistics-practices": "Expressing appreciation builds relationship—when we name what we value in others, connection deepens."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Perceiving value clearly",
     "emotion": "Feeling gratitude and recognizing worth"
   }

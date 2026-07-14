@@ -7,9 +7,7 @@
     "ha",
     "u"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Dog / The Companion at the Side",
   "description": "The dog: humanity's oldest companion animal, the one who chose us back. Coined by owner ruling — a language of community was incomplete without the species that invented interspecies community. The word carries both halves of the animal: 'lo-' reaching toward 'lothea' (love), and the falling 'a.u' of the howl, the wolf ancestry still audible at the end.",
   "sound_symbolism": "The first syllable leans toward 'lothea' (love); then 'ha' opens wide and 'u' falls away — a howl held in vowel hiatus. Stress lands on the open 'ha', the howl's peak. Say it slowly and let the last vowel drop: the ancestry is right there.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "The dog is proof that trust can cross a species line and hold for ten thousand years — companionship as practiced, wordless nonviolence.",
     "pre-industrial-wisdom": "Herding, guarding, hauling, warming: the dog was the first coworker, paid in belonging — the oldest contract never written."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The first interspecies friendship",
     "nature": "The companion animal"
   }

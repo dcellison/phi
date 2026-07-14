@@ -7,9 +7,7 @@
     "lu",
     "mo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ritual / A Deliberate Path",
   "description": "A sequence of actions or gestures regularly followed by a person or group, often imbued with symbolic value. It is a practice of mindful, repeated action.",
   "sound_symbolism": "The thoughtful 'the' brings consciousness to repetition - ritual requires presence, not mere habit. This deliberation flows into 'lu', the liquid consonant suggesting the smooth, worn path of practice. The word grounds finally in 'mo', a deep, resonant syllable that anchors the sequence in embodied action. Together the three syllables capture ritual's paradox: conscious beginning, flowing middle, grounded completion - ancient yet immediate, repeated yet renewed. The steady rhythm mirrors ritual's essence: mindful practice finding the sacred in deliberate patterns.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Ritual as mindfulness practice transforms routine into presence - each repeated action becomes an opportunity for awakening. Whether lighting incense, walking meditation, or tea ceremony, rituals create containers for attention, using familiar forms to encounter each moment freshly. The practice isn't about belief but about using structure to cultivate awareness.",
     "pre-industrial-wisdom": "Rituals served as the heartbeat of traditional communities - marking seasons, transitions, and shared values through embodied practice. These ceremonies created collective meaning without written doctrine, teaching through repetition what words alone couldn't convey. Ritual knowledge lived in bodies and actions, preserving wisdom through practice rather than text."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "collective practices that create shared meaning",
     "ritual": "this word defines the category",
     "temporal": "marks passages of time and transitions",

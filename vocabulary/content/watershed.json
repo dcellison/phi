@@ -7,9 +7,7 @@
     "pha",
     "no"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Watershed / Land Area Draining to a Shared Outlet",
   "description": "Land that drains toward a shared outlet, defined by the water's own path rather than any political line drawn across it. Its outlet and scale decide which slopes and channels belong to it.",
   "sound_symbolism": "Deep liquid 'lu' begins like water already moving downhill. Stressed 'pha' spreads bilabial breath across broad 'a', the current opening over a wider slope. Dental 'no' closes in a rounded basin where the contour runs, spreads, and settles with many small paths meeting.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Watershed language connects upstream land choices with shared downstream water while leaving governance, evidence, and responsibility explicit.",
     "pre-industrial-wisdom": "Communities have long read slopes, channels, soils, and seasonal water together rather than treating a river as isolated from its land."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "land organized by drainage toward a shared water outlet",
     "spatial": "an area bounded by selected water-flow relations"
   },

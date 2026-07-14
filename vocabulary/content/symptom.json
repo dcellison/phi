@@ -7,9 +7,7 @@
     "mo",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Symptom / Bodily or Mental Experience Reported by a Person",
   "description": "A bodily or mental experience reported by the person living it, in their own words, including their uncertainty and how it changes over time. A symptom is theirs to describe; someone else may listen, ask, and record, but observation never becomes ownership of the experience. Its clinical counterpart is 'hisaro' (clinical finding), what a method observed rather than what a person felt.",
   "sound_symbolism": "Bilabial breath spreads through broad 'pha'. Stressed 'mo' closes the lips into a warm nasal hum and round 'o'. Final 'ri' brings the tongue forward for a light tap and bright 'i'. Air gathers into the deepest chamber, then leaves one quick clear trace.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Attending carefully to present bodily experience can support honest observation without turning the experience into an identity or predetermined explanation.",
     "peace-linguistics-practices": "Separating a person's symptom report from an observer's finding protects testimony from being overwritten by measurement or authority."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a noticed and reported health-relevant experience",
     "dialogue": "the person's own account of bodily or mental experience",
     "physical": "a health-relevant experience located in or through the body"

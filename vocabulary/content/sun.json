@@ -7,9 +7,7 @@
     "le",
     "ta"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Sun / Earth's Star / Source of Daylight",
   "description": "The star nearest Earth, seen as the sun and experienced through daylight and warmth. The word 'sileta' names the particular star of ordinary days; 'silero' (star) names the wider class and the lights seen across the night sky. The word belongs equally in weather talk, seasonal observation, and accounts of solar energy.",
   "sound_symbolism": "Air narrows through 'si' in a fine hiss and rises into bright 'i'. Stress rests on 'le', where the lateral lets the tongue release into a clear line shared with 'silero' (star). Final 'ta' meets the teeth cleanly and opens into broad 'a', so the light that began at a distance arrives as warmth against the body.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Solar power begins with the sun giving energy without a fuel shipment. The expression 'sileta kenua' names that source in discussions of generation and storage.",
     "pre-industrial-wisdom": "Sunrise, shadow, warmth, and season have long told people when to travel, plant, rest, or turn home. The expressions 'sileta thorui' and 'sileta lumae' keep two of those observations inside the ordinary words for east and west."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "the star that gives Earth daylight",
     "temporal": "marker of days and seasons"
   }

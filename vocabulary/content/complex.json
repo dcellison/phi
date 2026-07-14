@@ -6,9 +6,7 @@
     "ru",
     "ka"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Complex / Intricately Connected / Many-Parted",
   "description": "Consisting of many interconnected parts; intricate rather than simple. 'Ruka' names the quality of rich interconnection—systems with many relationships, patterns with multiple layers, wholes made of interlocking parts.",
   "sound_symbolism": "The word weaves connections. 'Ru' begins with rolling intricacy, parts gathering. Then 'ka' clicks into place, elements interlocking.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Complex systems like ecosystems demonstrate resilience through interconnection—complexity as strength.",
     "art-nouveau-aesthetics": "Art Nouveau embraced complex organic patterns—intricate designs that revealed new details on each viewing."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Multi-layered quality",
     "nature": "Interconnected systems"
   }

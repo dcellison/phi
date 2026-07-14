@@ -7,9 +7,7 @@
     "e",
     "su"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Wax / Moldable Seal / Protective Coating",
   "description": "A solid substance that softens when heated, used for sealing and coating; what protects through yielding. 'Moesu' names what yields to warmth—the soft seal that hardens.",
   "sound_symbolism": "The word molds sealing. 'Mo' shapes with moldable mass, wax warming. The vowel 'e' yields to heat. Then 'su' seals with smooth protection.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Protection without hardness—wax seals gently, yields to intention, not rigid.",
     "pre-industrial-wisdom": "Wax sealed and lit—preserving documents, lighting darkness, the bee's gift."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Sealing material",
     "nature": "Organic substance"
   }

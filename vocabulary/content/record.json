@@ -7,9 +7,7 @@
     "ra",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Record / Create or Preserve a Durable Account",
   "description": "To create or preserve a durable account of something. A record's authority rests on its source, its time, and its provenance, not on the mere fact that something was written down.",
   "sound_symbolism": "Hissing 'si' makes a fine bright trace at the beginning. Stressed 'ra' rolls that mark across broad 'a' and gives it a path through time. 'Mi' closes the lips around bright 'i' and holds the trace near. The record moves outward as an account, then settles where another speaker can find it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Records carry maintenance, ecological observation, allocation, commitments, and institutional memory beyond one meeting or office holder.",
     "peace-linguistics-practices": "A bounded record term preserves provenance and competing testimony instead of allowing written form or official status to silence lived accounts."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a durable account with source and version",
     "community": "an institutional or shared record with access conditions"
   }

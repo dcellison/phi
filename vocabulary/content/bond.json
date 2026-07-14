@@ -7,9 +7,7 @@
     "la",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Bond / A Strong Mental Connection",
   "description": "To form an invisible thread between beings through shared experience, thought, and care. The connection it creates is foundational, built on mindful presence.",
   "sound_symbolism": "The word begins with the grounding 'no', establishing shared understanding as the foundation of connection. This flows through the binding liquid 'l', which weaves between souls like thread through fabric. The progression culminates in 'mi', bringing the bond into personal, intimate space. This three-syllable journey—from shared awareness through flowing connection to personal holding—creates a sound that embodies both the strength and tenderness of human bonds. The liquids and nasals make the word itself feel like an embrace.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "The concept embodies the understanding of interdependence - that all beings are connected through networks of cause and effect, mutual influence and shared experience. Bonds represent the recognition of our fundamental non-separation, reflecting the insight that our wellbeing is inextricably linked with the wellbeing of others, and that we exist only in relationship.",
     "peace-linguistics-practices": "Bonds represent the foundation of nonviolent conflict resolution - when we recognize and honor the connections between us, violence becomes impossible. The practice of naming and strengthening bonds creates linguistic reality that affirms our mutual dependence and shared humanity, making it harder to dehumanize or harm those with whom we are connected."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "links beings through invisible threads of connection",
     "emotion": "creates tender embrace through care and presence"
   }

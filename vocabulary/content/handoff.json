@@ -7,9 +7,7 @@
     "tho",
     "ni"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Handoff / Transfer the Next Stage of Work",
   "description": "To pass the next stage of work to other hands: a piece, an information set, a control relation. A good handoff says what moved and in what state, because the verb does not promise that the piece, the knowledge, and the responsibility all traveled together, or that the recipient accepted what arrived.",
   "sound_symbolism": "'Se' opens with a fine hiss; in stressed 'tho', the airflow shifts to the teeth and rounds into 'o'. Final 'ni' keeps the tongue forward but changes breath into nasal resonance before it lifts to bright 'i'. The word crosses the same dental region in two different ways and settles lightly.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Reliable maintenance depends on visible transitions between people and stages, especially when knowledge and responsibility are distributed.",
     "peace-linguistics-practices": "Separating a handoff from acceptance and obligation prevents a speaker from treating the act of passing work onward as proof that another person agreed to carry it."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "transferring a bounded stage of work",
     "community": "a transition between participants without implied acceptance",
     "temporal": "movement from one stage or custodian to the next"

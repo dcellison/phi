@@ -7,9 +7,7 @@
     "e",
     "lo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Dark / With Little or No Light / Shadowed",
   "description": "With little or no light; not illuminated. 'Nuelo' names the quality of darkness—absence of light, presence of shadow.",
   "sound_symbolism": "The word descends into shadow. 'Nu' begins with inward turning, light fading. The vowel 'e' passes through dimness. Then 'lo' settles into darkness, shadow complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Dark times teach patience—sitting with difficulty rather than fleeing from it.",
     "pre-industrial-wisdom": "Darkness structured life—nights for rest, caves for storage, shadow for cooling."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Low light",
     "temporal": "Night quality"
   }

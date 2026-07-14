@@ -7,9 +7,7 @@
     "ne",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Breath / Respiration / Life-air",
   "description": "To draw air in and release it, the rhythm that marks living from its first cry to its last sigh. Breathing is the bridge between voluntary and involuntary, conscious and automatic. It can be held, deepened, or released, yet it continues without attention, sustaining life beneath awareness.",
   "sound_symbolism": "The word begins with 'whu' /ʍu/, the voiceless labial-velar that is almost pure breath itself—air shaped minimally into sound. The deep 'u' draws inward to the lungs' depth. Then 'ne' moves outward with the nasal, breath leaving through the passages it came. Finally 'i' rises with renewed vitality, fresh oxygen reaching awareness.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Conscious breathing precedes peaceful speech. Taking breath before responding creates space for wise words.",
     "pre-industrial-wisdom": "Breath was understood as life-force, spirit, soul in many traditions. The word for breath often meant the animating essence that departs at death."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Air cycle sustaining life",
     "ritual": "Central to meditation practice"
   }

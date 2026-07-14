@@ -7,9 +7,7 @@
     "ra",
     "to"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Lock / Mechanism Holding a Closure Secure",
   "description": "A mechanism that holds a door, lid, gate, or other closure until the matching means of release is used. Release may come from a key, latch, code, or another stated design. 'tapu' (close) is the action of shutting something; 'kirato' is the device that keeps the closure in place.",
   "sound_symbolism": "Crisp 'ki' opens into the stressed tongue roll and broad vowel of 'ra'. The opening is 'kira' (key) heard intact. Final 'to' meets the teeth in a clean stop and rounds into a firm low ending.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "A chosen lock protects a boundary; another clause still says who holds the key and whose entry is affected.",
     "pre-industrial-wisdom": "Wooden latches and fitted metal locks made privacy a matter of household craft long before standardized hardware."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "a fitted mechanism for holding a closure",
     "physical": "a device released by a matching key or method",
     "spatial": "control at a door, lid, or gate"

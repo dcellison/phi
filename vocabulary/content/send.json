@@ -6,9 +6,7 @@
     "se",
     "pho"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Send / Dispatch / Cause to Travel to a Recipient",
   "description": "To send: a letter, a gift, word ahead of one's arrival. Causing a thing to travel where one does not go oneself. Completes the transfer verbs: 'loa' (give, in presence), 'sepho' (give, at distance), 'howela' (receive), 'toloi' (messenger).",
   "sound_symbolism": "'se' releases outward with a hiss of motion, 'pho' is the breath-push of dispatch — letting a thing go with direction.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "A future of distributed communities runs on things well sent: seed stock, knowledge, help dispatched where it is needed.",
     "pre-industrial-wisdom": "The sent thing carried the sender's trust across distance — messenger, letter, and gift were the village's long arms."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "Dispatch and correspondence",
     "community": "Transfer across distance",
     "spatial": "Caused travel toward a recipient"

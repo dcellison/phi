@@ -7,9 +7,7 @@
     "lu",
     "we"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Flood / Water Cover or Overflow Beyond Usual Bounds",
   "description": "For water to cover or overflow beyond its usual bounds. Flooding names the water's extent; whether the event counts as a disaster, and who bears responsibility for it, are separate claims the word leaves open.",
   "sound_symbolism": "Bilabial breath in 'pha' opens wide and enters the stressed liquid depth of 'lu'. The first two syllables swell with the waterlike resonance found across Phi's 'ph' and 'l' words. Final 'we' rounds, glides, and opens again. The contour keeps expanding through breath and liquid until the old edge is somewhere inside the water.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Flood language supports planning for water, shelter, access, ecology, and unequal consequences without making every inundation a moral or technical failure.",
     "pre-industrial-wisdom": "Seasonal floodplains and remembered water marks show that overflow can nourish, displace, renew, and endanger according to place and timing."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "water covering or overflowing beyond a stated usual boundary",
     "nature": "an event involving rivers, coasts, rain, melt, drainage, or storage",
     "spatial": "water extending into a place outside its stated usual extent"

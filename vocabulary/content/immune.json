@@ -7,9 +7,7 @@
     "re",
     "nu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Immune / Having Conditioned Protection or Reduced Susceptibility",
   "description": "Having conditioned protection or reduced susceptibility, scoped rather than absolute. Immunity can be strong against symptoms and weaker against transmission, and it can change with time, which is why the word never claims invulnerability.",
   "sound_symbolism": "Hushed 'sho' fills a rounded opening with soft breath. Stressed 're' clears the air with a tongue roll and balanced 'e'. Final 'nu' settles at the teeth and deepens into nasal 'u'. A broad hush passes through one turn and comes to rest in a low held center.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A qualified immunity term prevents protective status from becoming a binary claim of purity, invulnerability, or social worth."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "a biologically conditioned relation to an agent or outcome",
     "physical": "partial or conditional bodily protection"
   },

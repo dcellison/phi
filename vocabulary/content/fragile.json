@@ -7,9 +7,7 @@
     "lu",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Fragile / Easily Broken / Delicate",
   "description": "Easily broken or damaged; requiring careful handling. 'Welua' names the quality of fragility—the delicacy that calls for gentleness, the vulnerability that demands care.",
   "sound_symbolism": "The word asks for care. 'We' opens with gentle awareness, delicacy present. 'Lu' moves with careful flow, caution maintained. Finally 'a' opens to vulnerability, fragility acknowledged.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Recognizing fragility awakens compassion—seeing how easily things break opens the heart to protection.",
     "pre-industrial-wisdom": "Fragile things taught care—handling delicate objects developed gentleness and attention."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "Easily broken",
     "wisdom": "Requiring care"
   }

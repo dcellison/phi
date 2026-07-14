@@ -7,9 +7,7 @@
     "o",
     "na"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Live / Be Alive / Dwell in Life",
   "description": "To experience the state of being alive—breathing, sensing, changing, participating in the web of existence. 'Liona' encompasses both the biological fact of living and the richer sense of dwelling fully in one's life. It is not mere survival but engaged presence in the world.",
   "sound_symbolism": "The word begins with 'l', the liquid consonant of life flowing—continuous, unbroken, moving forward. The bright 'i' sparks with vitality and awareness. Then 'o' opens into fullness, life expanding into its container. Finally 'na' grounds with nasal stability, life rooted in the present moment.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "To live well requires sustainable relationship with the systems that support life—air, water, soil, community.",
     "secular-buddhist-philosophy": "Mindfulness is practiced in living itself: attention to breathing, sensing, and changing as they happen. 'Liona' is the verb for that attended aliveness."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "State of biological aliveness",
     "wisdom": "Engaged presence in existence"
   }

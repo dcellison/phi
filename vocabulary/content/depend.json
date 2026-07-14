@@ -7,9 +7,7 @@
     "ra",
     "mi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Depend / Require Another Condition or Component for Function",
   "description": "To require another element for a function or a state to hold. Dependency names a real technical requirement, weaker than cause, and it carries no claim about worth or hierarchy between the two elements.",
   "sound_symbolism": "Bilabial 'phe' begins as breath held lightly between the lips. Stressed 'ra' sets the tongue in motion and reaches across the open vowel. 'Mi' returns the mouth to contact around bright 'i' and completes a word that stretches outward at its center and finishes where the lips meet.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Visible dependencies help communities understand shared infrastructure, hidden resource needs, and points where care or alternatives are required.",
     "peace-linguistics-practices": "The definition keeps technical dependence separate from diminished personhood, obedience, or a claim that one participant controls another."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a function or process conditioned by another element",
     "cognition": "an analyzed requirement relation between system elements"
   },

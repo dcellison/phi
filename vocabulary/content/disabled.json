@@ -7,9 +7,7 @@
     "we",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Disabled / Disability as Identity or Lived Relation",
   "description": "Describing a person who identifies with disability or whose participation is restricted through the interaction of personal characteristics and barriers. The word may name an identity, a lived condition, or both, and the person's own wording controls its use; disability does not require sickness or a treatment goal.",
   "sound_symbolism": "Soft 'so' begins with a rounded hiss. The stress falls on 'we', where the lips remain round and the vowel opens into balanced 'e'. Final 'lu' releases the tongue and descends into deep 'u'. Each syllable flows smoothly into the next.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Designing common life around varied bodies and minds begins by allowing disability to be named without locating every barrier inside the person.",
     "peace-linguistics-practices": "A core word lets a person name disability directly instead of accepting a diagnosis-shaped paraphrase or another speaker's euphemism."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "disability involving cognitive access or identity",
     "community": "an identity and relation shaped by participation barriers",
     "physical": "disability involving bodily or sensory access"

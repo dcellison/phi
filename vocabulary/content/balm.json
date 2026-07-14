@@ -7,9 +7,7 @@
     "la",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Balm / Soothing Ointment / Comfort Salve",
   "description": "A fragrant ointment for healing or soothing; what comforts through touch. 'Thelai' names what soothes—the gentle application that eases pain.",
   "sound_symbolism": "The word soothes with gentle breath. 'The' /θe/ whispers with healing touch, comfort approaching. 'La' flows with soothing application, balm spreading. Then 'i' settles into relief, pain easing.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Words as balm—gentle speech that soothes emotional wounds, comfort through communication.",
     "pre-industrial-wisdom": "Balms soothed wounds—herbal preparations applied with care, healing through touch."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Soothing salve",
     "physical": "External comfort"
   },

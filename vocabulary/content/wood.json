@@ -7,9 +7,7 @@
     "le",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Wood / Timber / Tree Material",
   "description": "The hard fibrous material forming trunk and branches of trees; living material transformed for building. 'Wolea' names what trees give—the warm, working material of shelter and craft.",
   "sound_symbolism": "The word warms with life. 'Wo' opens with organic warmth, tree essence. 'Le' lives with cellular structure. Then 'a' opens to grain and growth rings.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Renewable resource—sustainably harvested wood as carbon-storing building material.",
     "pre-industrial-wisdom": "Wood built civilization—homes, tools, ships, the renewable material of human shelter."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Building resource",
     "nature": "Tree material"
   }

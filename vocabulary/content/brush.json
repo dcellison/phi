@@ -6,9 +6,7 @@
     "phu",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Brush / Painting Tool / To Apply with Strokes",
   "description": "A tool with bristles for painting, cleaning, or grooming; to apply or sweep with strokes. 'Phuri' names what flows color—the soft tool that leaves marks of intention.",
   "sound_symbolism": "The word sweeps soft. 'Phu' /φu/ breathes with gentle gesture, bristles touching surface. Then 'ri' runs in continuous stroke, color following.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "The brush as voice—flowing lines, organic forms, the artist's gesture made visible.",
     "pre-industrial-wisdom": "Brush as extension of hand—calligraphy, painting, the ancient mark-making tool."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Flowing marks",
     "creation": "Painting tool"
   }

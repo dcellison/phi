@@ -7,9 +7,7 @@
     "lo",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Companion / Fellow Traveler / Journey Partner",
   "description": "One who accompanies another; a fellow traveler on the path. 'Keloe' names who walks beside—not ahead or behind but alongside.",
   "sound_symbolism": "The word keeps with presence. 'Ke' holds with abiding company, companionship maintained. 'Lo' opens with shared path, journey together. Then 'e' eases into comfortable togetherness.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Kalyana-mitta—the spiritual friend who accompanies on the path.",
     "pre-industrial-wisdom": "Companion as bread-sharer—the original meaning, those who break bread together."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Journey partner",
     "emotion": "Abiding presence"
   }

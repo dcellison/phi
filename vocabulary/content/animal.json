@@ -7,9 +7,7 @@
     "li",
     "ka"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Animal / Living Creature That Moves / Sentient Being",
   "description": "A living being capable of voluntary movement and sensory experience, distinct from plants and fungi. 'Nolika' names the broad category of creatures that move through the world with awareness—from the smallest insect to the largest mammal, all sharing the quality of animate presence.",
   "sound_symbolism": "The word moves with animal vitality. 'No' begins with nasal grounding, life embodied. Then 'li' flows with liquid movement, the creature in motion. Finally 'ka' defines with velar clarity, a distinct being.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "All animals share sentience and the capacity for suffering—recognizing this kinship is the foundation of compassion toward all beings.",
     "pre-industrial-wisdom": "Traditional cultures recognize animals as fellow inhabitants of the world, worthy of respect and often carrying spiritual significance."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Fellow creatures sharing the world",
     "nature": "Living beings with movement and awareness"
   }

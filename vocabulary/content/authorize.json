@@ -7,9 +7,7 @@
     "nu",
     "wa"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Authorize / Grant Bounded Permission or Decision Power",
   "description": "To grant a bounded permission or power to a recipient for a stated action. Authorization is the grant itself; it proves neither that the recipient is competent nor that the people affected by the action agreed to it.",
   "sound_symbolism": "'Ka.nu' preserves the complete sound of 'kanu' (choose): a clean stop followed by the stressed depth of a dental nasal. Final 'wa' rounds at the lips and opens wide toward someone beyond the word. The chosen act is heard first; then the grant leaves the speaker's mouth and enters shared space.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Explicit authorization allows communities to distribute action while recording limits, revocation, and the source of decision power.",
     "peace-linguistics-practices": "A named grant prevents permission, capacity, consent, and institutional power from being inferred from silence, role labels, or technical knowledge."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "granting bounded permission or decision power",
     "community": "institutional authorization with a stated source and scope"
   },

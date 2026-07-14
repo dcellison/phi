@@ -7,9 +7,7 @@
     "tha",
     "te"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Laundry / Cloth Gathered Through the Washing Cycle",
   "description": "Garments and household cloth gathered for washing or moving through drying and folding afterward. The noun refers to one load or to the material waiting at a particular stage. 'wethalu' (garment) names something worn; 'wethate' gathers the cloth by the domestic work currently being done to it.",
   "sound_symbolism": "Rounded 'we' glides into stressed dental 'tha' and broad 'a'. The opening gives 'wetha' (cloth) whole. Final 'te' returns the tongue to the teeth for a clean stop and balanced 'e'. The same place of contact frames the open stressed center in breath first, closure second.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Calling the gathered cloth laundry puts the repeated work where people can share, assign, refuse, or appreciate it.",
     "pre-industrial-wisdom": "Washing day followed water, weather, fuel, and the time needed for cloth to dry before night."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "cloth moving through washing, drying, or folding",
     "community": "a recurring domestic workload within a household",
     "physical": "garments and household cloth gathered as one load"

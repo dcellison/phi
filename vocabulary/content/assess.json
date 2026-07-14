@@ -7,9 +7,7 @@
     "so",
     "me"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Assess / Evaluate Evidence Against a Stated Criterion",
   "description": "To evaluate evidence, a performance, or a condition against a stated criterion, for a stated purpose. An assessment can be formal or a glance across the workshop, and it is only a reading of the evidence: approving, certifying, and deciding consequences are separate acts with their own words.",
   "sound_symbolism": "A clean velar release lifts 'ki' into bright 'i'. Stressed 'so' narrows the airflow to a hiss before rounding it in 'o'. Final 'me' closes softly at the lips and returns to balanced 'e'. The word moves from a precise edge through close attention to a quiet, held ending.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Explicit criteria and evidence make an assessment contestable and prevent a finding about one performance from becoming an unspoken judgment of the whole person."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "evaluating a performance, state, or result",
     "cognition": "comparing evidence with a stated criterion"
   },

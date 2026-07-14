@@ -7,9 +7,7 @@
     "li",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Song / Melody / Voice Given Shape",
   "description": "A shaped piece of singing: melody carried by voice, the thing that is sung. The object companion of 'meliho' (to sing) — together they form the mel- family of voiced music. A song is a story that has learned to flow.",
   "sound_symbolism": "Shares its opening 'me-li' with 'meliho' (sing) — the same melodic rise, the humming nasal opening into the bright liquid 'li'. The verb carries the voice onward; 'melira' closes instead with the open 'ra': the song released, complete, ringing in the air.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "A song is ornament made of time — the voice's flowing line, rising and returning like a vine. 'Melira' names the shape that singing draws.",
     "pre-industrial-wisdom": "Songs are how pre-literate wisdom traveled: planting songs, mourning songs, songs that carry maps and genealogies. The song is the oldest book."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "A made thing of voice and time",
     "emotion": "Feeling given melodic shape",
     "ritual": "Carrier of communal memory and ceremony"

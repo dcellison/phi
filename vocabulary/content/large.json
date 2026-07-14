@@ -6,9 +6,7 @@
     "wha",
     "lo"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Large / Big / Expansive",
   "description": "The adjective naming greatness of size, extent, or scope. In Phi, largeness is observed without implicit superiority—to be large is simply to occupy more space, require more resources, have wider reach. This word names the quality of spatial extent without conflating size with value, importance, or worth.",
   "sound_symbolism": "The word opens with 'wha', where the breathy labiovelar fricative 'wh' creates expansive breath—the sound of space opening, of air filling. The open 'a' suggests amplitude and expanse. This flows into 'lo', where the liquid carries the expansion outward and the rounded 'o' creates a sense of encompassing wholeness. Two syllables create accessible description for common use while the breath-filled opening and rounded closing embody the concept of largeness.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "All sizes arise and pass; large and small are relative. 'Whalo' names the quality without attachment to size as identity or worth.",
     "peace-linguistics-practices": "Separating size from value enables clear observation. 'Whalo' describes extent without implying that larger is better or more important."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "spatial extent and size",
     "spatial": "relationship of scale and dimension"
   }

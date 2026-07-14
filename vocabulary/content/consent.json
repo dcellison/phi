@@ -7,9 +7,7 @@
     "sa",
     "wi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Consent / Freely and Specifically Agree to an Affecting Action",
   "description": "To freely and specifically agree to a proposed action, participation, contact, disclosure, or use that affects oneself or a relation one may decide. Consent has a stated scope and may be conditional, withheld, or withdrawn. Naming consent does not prove adequate explanation, understanding, practical freedom, capacity under an applicable standard, absence of coercion, legal validity, continued agreement, or permission for any action outside the stated scope.",
   "sound_symbolism": "Liquid 'le' lets the tongue release into balanced 'e'. Stressed 'sa' sends a fine hiss through the broadest vowel, then final 'wi' rounds the lips and glides back toward bright 'i'. The word opens at its center and ends lightly, with the breath still moving.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A dedicated consent verb makes a bounded yes discussable without treating agreement, silence, dependence, authority, or lack of resistance as permission."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a specific decision whose understanding and conditions remain examinable",
     "community": "a permission relation among affected participants",
     "dialogue": "a freely given, withheld, or withdrawn answer to a proposal"

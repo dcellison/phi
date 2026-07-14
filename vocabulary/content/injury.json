@@ -7,9 +7,7 @@
     "wo",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Injury / Bodily Change or Damage Associated With an Event or Exposure",
   "description": "Bodily change or damage tied to an event, a force, a strain, or an exposure. The word names the change itself and stops there: who caused it, how much it hurts, and what recovery will look like are each their own question, left open on purpose.",
   "sound_symbolism": "Firm 'ka' strikes at the velum and opens broadly. Stressed 'wo' gathers the middle at rounded lips before final 'ru' turns the tongue into deep 'u'. Hard at first, the sound passes through a full chamber and reaches a darker rolling close.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "Naming bodily harm without encoding blame keeps care, causation, responsibility, testimony, and remedy available as separate questions."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "a health-relevant bodily change or damage"
   },
   "modules": [

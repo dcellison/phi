@@ -7,9 +7,7 @@
     "ro",
     "the"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Define / State the Meaning or Application of a Term",
   "description": "To state what a word or concept means, or what determines when it applies, for the discussion at hand. A definition can use criteria, relations, or stipulated boundaries, and it can be narrow, broad, or contested; merely describing a familiar feature does not amount to defining it.",
   "sound_symbolism": "'Ki' begins with the same clean stop and bright vowel heard in 'kiro' (precise), while stressed 'ro' carries that resonance through a rounded roll. At the end, 'the' changes the solid middle into breath at the teeth. A clear line forms, follows its curve, and lets air pass across it once more.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Definitions are useful constructions for a purpose and context, not proof that changing phenomena possess timeless verbal essences.",
     "peace-linguistics-practices": "Explicit definitions reveal where participants use a term differently and make disagreement available for clarification rather than accusation."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "setting out a term's meaning or conditions of application",
     "dialogue": "making a proposed usage boundary explicit for others",
     "wisdom": "examining both the usefulness and limits of categories"

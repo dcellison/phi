@@ -6,9 +6,7 @@
     "pi",
     "na"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Sew / Stitch / Join with Needle and Thread",
   "description": "To join materials by passing thread through them with a needle—the fundamental act of creating garments, repairing tears, and connecting separate pieces into unified cloth. 'Pina' is precise, repetitive, meditative work that transforms fragments into whole.",
   "sound_symbolism": "The word is small and pointed like the needle itself. 'Pi' pierces with bilabial precision, the needle entering. The high 'i' is the thread's fine line. Then 'na' draws through with nasal continuity, stitch following stitch.",
@@ -17,7 +15,7 @@
     "peace-linguistics-practices": "Sewing repairs rather than discards, joins rather than separates. The stitcher practices patience and restoration.",
     "pre-industrial-wisdom": "Sewing is intimate making—clothing the body, mending what is torn, connecting with tiny repeated acts of care."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "fundamental human activity of sewing",
     "creation": "Joining through needle and thread",
     "wisdom": "Patience in small, repeated acts"

@@ -7,9 +7,7 @@
     "tha",
     "mo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Blanket / Large Cloth Covering for Warmth",
   "description": "A large cloth covering used to hold warmth around a resting person or sleeping place. It may be woven, felted, quilted, or layered from another material. 'wethalu' (garment) moves with the dressed body; 'wethamo' lies over a person or bed as a covering.",
   "sound_symbolism": "Rounded 'we' enters the stressed dental breath and broad vowel of 'tha'. The first two syllables give 'wetha' (cloth) intact. Final 'mo' closes the lips around a low nasal hum and round 'o'. Each syllable settles more deeply than the one before it.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "A blanket carried the hours of spinning, weaving, felting, or quilting that made cold sleep possible."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "a large made cloth covering",
     "physical": "a covering used to retain bodily warmth"
   },

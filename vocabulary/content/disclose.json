@@ -7,9 +7,7 @@
     "re",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Disclose / Make Previously Bounded Information Known",
   "description": "To make information known beyond the person or boundary that previously held it. Disclosure can be chosen, requested, compelled, accidental, or unauthorized, with each condition stated separately. 'shane' (tell) carries an account to a listener; 'sirelu' turns on the change in who may now know it.",
   "sound_symbolism": "Narrow 'si' starts as a bright hiss. Stressed 're' interrupts that stream with a tongue roll and balanced 'e'. Final 'lu' releases into a low liquid and deep 'u'. Across the word, fine air becomes movement and then a broader flowing resonance.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Speech changes a secret's conditions once another person receives it. Careful attention belongs before that change, because regret cannot call the words back.",
     "peace-linguistics-practices": "A person can discuss whether disability, health, or access information crossed a boundary without treating the request for support as permission to reveal it."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "movement of previously held knowledge",
     "community": "changing who may know bounded information",
     "dialogue": "making information known to a new recipient"

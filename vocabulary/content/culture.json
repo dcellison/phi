@@ -7,9 +7,7 @@
     "e",
     "nu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Culture / Shared Ways / Living Tradition",
   "description": "The shared practices, beliefs, and expressions of a community; the living way passed between generations. 'Moenu' names what communities grow—the garden of shared meaning.",
   "sound_symbolism": "The word moves with inheritance. 'Mo' shapes with shared patterns, ways moving. 'E' eases into natural expression, culture breathing. 'Nu' nurtures with passed-down care, tradition tended.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Culture as expression—the flowering of shared creativity and beauty.",
     "pre-industrial-wisdom": "Culture as inheritance—the ways passed down that teach how to live well."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Shared ways",
     "temporal": "Living inheritance"
   }

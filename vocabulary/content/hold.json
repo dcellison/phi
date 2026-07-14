@@ -6,9 +6,7 @@
     "phe",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Hold / Have / Keep Near",
   "description": "To keep something in one's grasp with steady, gentle pressure, neither crushing nor releasing. Holding in Phi is stewardship rather than ownership: one keeps a thing safe and near for its purpose, whether an object, a space held for others, or an idea held in mind. Extended to cover possession: in Phi, to have something is to hold it. 'mia wi themo wiru phelu' (I have two baskets). This deliberate merger reflects the language's view of ownership — what you have is only what you presently hold, kept near rather than abstractly owned. Replaces the retired verb 'tai', which sat one letter from 'nai' (be).",
   "sound_symbolism": "The word begins with 'phe', where the voiceless bilabial fricative 'ph' creates a soft but present pressure - like the gentle firmness of fingers maintaining grasp, breath held steady in concentration. This fricative beginning captures both the delicacy and determination of holding. The 'e' that follows is mid-open, neither tense nor relaxed, representing the balanced state of sustained holding without strain. The second syllable 'lu' flows liquid and continuous, the 'l' suggesting the ongoing nature of holding while 'u' closes slightly, creating a sense of secure containment. Together, 'phelu' embodies the complete experience of holding - gentle pressure flowing into sustained support, creating a sound portrait of protective, continuous grasp.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "The word 'phelu' reframes holding as protective care rather than possessive control. It emphasizes the supportive, safeguarding aspect of holding - we hold to protect, to comfort, to prevent harm, not to dominate or restrict. This linguistic choice shapes how speakers conceptualize possession itself, moving from ownership models to stewardship models of relationship with objects and beings.",
     "pre-industrial-wisdom": "Before mechanization, human hands were the primary tools for all work, and the skill of holding - maintaining grasp without fatigue, adjusting pressure for different materials, knowing when to hold firm and when to hold light - was essential knowledge. Traditional cultures understand holding as fundamental to human capability, from holding tools to holding babies to holding ceremony. This wisdom recognizes the hand's capacity for both strength and gentleness."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "supporting others through holding space or providing stability",
     "physical": "sustained bodily action of grasping and maintaining possession",
     "temporal": "continuous action requiring patient presence over time",

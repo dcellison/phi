@@ -6,9 +6,7 @@
     "re",
     "mo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Think / Mental Contemplation",
   "description": "The basic verb of mental activity: considering, remembering, imagining, following an idea. In Phi's framing, thinking is contemplation rather than grasping: the mind moving through its material without clinging to outcomes. Thoughts arise and pass; 'remo' names the movement, not the conclusions.",
   "sound_symbolism": "The word begins with 're', where the rolling liquid 'r' creates the sound of continuous movement - like thoughts rolling through consciousness, neither stuck nor rushing, but flowing in their natural rhythm. This fluid beginning captures the dynamic nature of thinking - always in motion, always processing. The open 'e' that follows suggests mental clarity and alertness, the bright awareness needed for contemplation. The second syllable 'mo' grounds this mental activity through the labial nasal 'm' - the most embodied consonant, lips together, bringing thought back to the physical self. The rounded 'o' completes the journey inward, creating a sense of wholeness and completion. Together, 'remo' embodies thinking as a cycle - the outward roll of exploration returning to inner understanding, thought as both movement and arrival.",
@@ -16,7 +14,7 @@
   "pillars": {
     "secular-buddhist-philosophy": "Right thinking (samma sankappa) is part of the Noble Eightfold Path. Buddhist practice teaches observing thoughts without attachment, recognizing them as impermanent mental formations that arise and pass. Mindful thinking involves awareness of our thought patterns and their effects on suffering or liberation."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "fundamental mental process of contemplation and analysis",
     "wisdom": "thinking as the path to understanding and awareness"
   }

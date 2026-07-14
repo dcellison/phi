@@ -6,9 +6,7 @@
     "she",
     "na"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Calm / Still / Untroubled",
   "description": "Not showing or feeling nervousness, anger, or other strong emotions; still and tranquil. 'Shena' names the settled state—when inner waters are still, when breath flows easy, when the mind rests in present awareness.",
   "sound_symbolism": "The word settles into stillness. 'She' /ʃe/ begins hushed, like a finger to lips. Then 'na' grounds with nasal stability, resting in earth.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Calm is the foundation of meditation—the settled mind that can observe without reactivity.",
     "peace-linguistics-practices": "Calm communication prevents escalation—speaking from stillness rather than agitation."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Still inner state",
     "physical": "Absence of turbulence"
   }

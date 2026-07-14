@@ -7,9 +7,7 @@
     "lo",
     "lu"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Redress / Respond to Institutional or Social Harm",
   "description": "To act in response to institutional or social harm, through acknowledgment, restoration, or another stated response. Redress does not need to erase the original loss to count as real; it is a response, not an undoing.",
   "sound_symbolism": "Light 'he' moves into stressed liquid 'lo'. The first two syllables repeat the opening of 'heloa' (remedy). The tongue stays in liquid motion for final 'lu' while the vowel deepens from round 'o' into 'u'. The contour flows onward and gathers depth as it goes.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Regenerative institutions must address displaced burdens, exclusion, ecological loss, and broken commitments rather than limiting repair to physical infrastructure.",
     "peace-linguistics-practices": "Redress keeps acknowledgment, affected-person needs, material response, institutional change, reconciliation, and forgiveness from being collapsed into one imposed resolution."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "acting to address a stated institutional or social harm",
     "community": "redress shaped by affected parties and remaining loss"
   },

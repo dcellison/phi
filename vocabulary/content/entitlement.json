@@ -7,9 +7,7 @@
     "re",
     "ni"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Entitlement / Recognized Claim to Receive, Use, Access, or Act",
   "description": "A recognized and scoped claim to receive, use, or act. It is narrower than many source traditions' idea of a right, and where that fuller tradition matters exactly, it deserves its own analysis rather than folding into this one word.",
   "sound_symbolism": "'She.re' preserves the first two syllables of 'sherewa' (claim): shaped breath followed by a stressed roll toward the listener. Dental 'ni' closes that outward motion at a fine bright point. The public claim travels first, then meets the precise place where a group recognizes and holds it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Entitlements can make access to shared necessities and participation durable while remaining distinguishable from ownership, charity, and discretionary goodwill.",
     "peace-linguistics-practices": "The term exposes the source and limits of a recognized claim so institutional access is not confused with inherent worth, moral certainty, or actual delivery."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a recognized and scoped claim under a stated source"
   },
   "modules": [

@@ -7,9 +7,7 @@
     "ho",
     "ta"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Cough / Clear the Throat and Chest",
   "description": "To cough: the body clearing its own airways. Winter's soundtrack, the healer's clue.",
   "sound_symbolism": "'ke' the catch in the throat, 'ho' the breath gathering, 'ta' the burst that clears it — the event in three beats.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Listening to the household's coughs was the family's nightly triage — care begins in the ear."
   },
-  "tags": {
+  "semantic_domains": {
     "physical": "The airway's clearing burst"
   }
 }

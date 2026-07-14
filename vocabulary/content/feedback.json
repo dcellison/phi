@@ -7,9 +7,7 @@
     "re",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Feedback / Returned System Effect That Alters Its Process",
   "description": "A returned effect that actually alters an ongoing process: something about a later output or state reaches back and changes what came before it. A circular diagram drawn on paper is not feedback until something genuinely loops back and shifts course.",
   "sound_symbolism": "Dental 'tu' makes one clean contact and releases into deep 'u'. Stressed 're' turns on the tongue and preserves the audible kinship with 'turema' (return). 'Lo' carries that turn into a low rounded flow, and the word bends through its middle like a line that comes back changed and enters the process again.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Feedback makes adaptive infrastructure discussable while keeping its actual effects and chosen targets open to review.",
     "secular-buddhist-philosophy": "The concept foregrounds conditioned consequences that return into an ongoing process rather than treating action as isolated from later effects."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a returned effect that alters an ongoing process",
     "cognition": "a relation used to explain changing system behavior",
     "temporal": "a later state or output affects a continuing or subsequent process"

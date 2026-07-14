@@ -7,9 +7,7 @@
     "re",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Quality / Character or Degree Relative to Stated Criteria",
   "description": "The character of a thing relative to a purpose: whose use, what conditions, which criteria. Quality's dimensions can conflict honestly, a beautiful thing hard to repair, a durable one wasteful of material, and naming the dimension keeps the argument about the thing. It never grades the maker; Phi has no sentence in which a person is their work's score.",
   "sound_symbolism": "Crisp 'ki' gives the word a fine bright edge; at stressed 're', that edge turns on the tongue. A second roll in final 'ro' enters a rounder chamber, and the paired liquids keep the ending mobile. Brightness at the start passes through balance and settles into open resonance.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Quality can include the relation among form, material, use, repair, and beauty without collapsing those dimensions into one decorative judgment.",
     "peace-linguistics-practices": "Explicit quality criteria make evaluation discussable and prevent a judgment about work from becoming an implicit judgment about its maker's worth."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "a possible dimension of quality when explicitly named",
     "cognition": "a multidimensional evaluation relative to criteria",
     "creation": "the assessed character of a made or repaired result"

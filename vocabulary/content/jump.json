@@ -6,9 +6,7 @@
     "tu",
     "pi"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Jump / Leap / Spring from the Ground",
   "description": "To jump: over the stream, down from the wall, up for joy. The body's spring. Fills the gap the fable's frog first exposed — 'kamo' (arrive) carried the splash, but the leap itself now has its verb.",
   "sound_symbolism": "'tu' loads the spring, 'pi' pops upward off it — compression then release, in the mouth as in the knees.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "The leap is commitment made physical: both feet leave the known at once. A small daily practice of trust.",
     "pre-industrial-wisdom": "The stream jumped rather than bridged, the wall vaulted rather than walked around — the body as its own equipment."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The body's spring",
     "physical": "Leaving the ground",
     "spatial": "Across and over"

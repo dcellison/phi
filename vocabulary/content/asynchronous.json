@@ -7,9 +7,7 @@
     "ne",
     "si"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Asynchronous / Participating at Different Times",
   "description": "Occurring through contributions or actions made at different times rather than through simultaneous presence. An asynchronous exchange can still have order and response expectations. It may also have deadlines or unequal delays. The word describes timing, not lesser participation.",
   "sound_symbolism": "Dental 'thu' breathes into deep 'u'. Stressed 'ne' replaces that air with a steady nasal contact, while final 'si' changes it again to a bright hiss. Low breath climbs through balance to a fine high edge.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Community work need not gather every body around one clock when durable records can carry thought between different daily rhythms.",
     "peace-linguistics-practices": "A person can contribute after reading, resting, or composing carefully without having their words treated as absent from the exchange."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "actions contributing to one process at different times",
     "dialogue": "an exchange without simultaneous presence",
     "temporal": "participation separated across time"

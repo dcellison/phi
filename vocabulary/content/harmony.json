@@ -6,9 +6,7 @@
     "le",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Harmony / Interwoven Balance",
   "description": "To coexist in a balanced, beautiful, interconnected way, as diverse elements in music, society, or an ecosystem do. Harmony is not uniformity but the pleasing resonance that emerges when different parts work together as a whole.",
   "sound_symbolism": "'Le' flows with the liquid 'l', and the hiatus carries it into the bright, bell-clear 'i'—two sounds meeting without merging, each keeping its own character while making something together. The word cannot be hurried; each vowel must be given its moment.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Harmony in Art Nouveau emerges from allowing each element to express its nature while contributing to unified composition. Like stems, leaves, and flowers in a botanical design, each component maintains its identity while participating in the greater pattern. This aesthetic teaches that beauty arises not from imposing rigid symmetry but from finding the natural balance between diverse elements.",
     "peace-linguistics-practices": "Speaking harmony into being requires acknowledging all voices, not silencing discord but weaving it into richer patterns. Peace linguistics understands that forced harmony creates hidden violence, while true harmony emerges when different perspectives are heard, valued, and integrated into solutions that honor all participants."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "creates beauty through balance and pleasing resonance",
     "community": "weaves diverse voices into collective resonance",
     "emotion": "creates feelings of peace and rightness when elements unite",

@@ -7,9 +7,7 @@
     "she",
     "ko"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Cat / The Quiet Complete Animal",
   "description": "The cat: the household's self-possessed companion — affectionate on its own schedule, silent on its feet, entirely finished as a creature. The second of the companion animals coined by owner ruling, and the one that would have demanded it eventually anyway.",
   "sound_symbolism": "Small 'mi', hushed 'she', self-contained 'ko' — a word that enters the room the way its animal does: quietly, and on its own terms.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Every meditation tradition eventually notices the cat: present, unhurried, complete in itself — the practice, furred.",
     "pre-industrial-wisdom": "The granary hired the cat and the household kept it; grain storage and cats are a single invention told as two."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The household's quiet companion",
     "nature": "The self-possessed animal"
   }

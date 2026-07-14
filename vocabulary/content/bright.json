@@ -6,9 +6,7 @@
     "ke",
     "ru"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Bright / Giving Off Much Light / Vivid",
   "description": "Giving off or reflecting much light; vivid and bold. 'Keru' names simple, strong light—the quality of clear illumination, colors that stand out, visibility without shadow.",
   "sound_symbolism": "The word strikes with clarity. 'Ke' begins with crisp contact, light appearing. Then 'ru' radiates strongly, brightness filling space.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Bright futures are possible futures—light as metaphor for hope, clarity, and positive vision.",
     "secular-buddhist-philosophy": "Bright awareness sees clearly—the quality of mind that perceives without distortion."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Strong light",
     "physical": "High luminosity"
   }

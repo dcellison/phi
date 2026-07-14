@@ -7,9 +7,7 @@
     "no",
     "wu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Predictable / Reasonably Anticipated From Available Information",
   "description": "Able to be reasonably anticipated from information available before the event. A schedule, sequence, interface, or recurring practice may be predictable enough for preparation without being certain or unchangeable. 'koluri' (reliable) concerns repeated function; 'sanowu' concerns what a person can know ahead of time.",
   "sound_symbolism": "Fine 'sa' opens broadly before stressed 'no' gathers the sound into round nasal resonance. Those two syllables repeat the complete sound of 'sano' (know). Final 'wu' keeps the rounding at the lips and sinks into deep 'u'. The word ends in a long low glide.",
@@ -18,7 +16,7 @@
     "peace-linguistics-practices": "Predictable timing lets a participant prepare instead of discovering every demand at the moment another person expects an answer.",
     "pre-industrial-wisdom": "Seasonal work relied on patterns that could be read without pretending weather, birth, harvest, or illness would obey a perfect clock."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "an event or pattern that can be anticipated from available information",
     "temporal": "advance knowability of timing or sequence"
   },

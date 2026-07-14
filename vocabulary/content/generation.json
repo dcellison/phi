@@ -7,9 +7,7 @@
     "ru",
     "wa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Generation / The Age-Cohort",
   "description": "A generation: the people moving through life together, and the interval between parents and children. The word covers both, as most languages let it: 'mia noruwa' (my generation), 'wi noruwa' (two generations).",
   "sound_symbolism": "'no' grounds it in people, 'ru' rolls it forward, 'wa' opens to the ones after. The word moves in one direction, as its meaning does.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Seventh-generation thinking needs the word: decisions weighed against people who do not exist yet, counted in noruwa.",
     "pre-industrial-wisdom": "Where nothing was written, a generation was the unit of memory: what the old taught the young was the whole library."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "The cohort moving together",
     "temporal": "The interval of inheritance"
   }

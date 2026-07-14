@@ -10,5 +10,6 @@ This directory records how Phi is maintained. The index below gathers its workin
 | [Deferred questions](deferred_questions.md) | Parked questions and decisions, with the condition for returning to each one. |
 | [Publishing strategy](publishing.md) | Order of operations for public access and eventual print publication. |
 | [Release manifests](releases/) | Versioned records of what each release contained and claimed at the time. |
+| [`requirements.txt`](requirements.txt) | Pinned Python dependencies used by repository validation. |
 
 Release manifests preserve their original scope even when later decisions supersede a feature. Historical studies and retired working material live in [`archive/`](../archive/).

@@ -6,9 +6,7 @@
     "we",
     "ro"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Honest / Truthful / Free from Deception",
   "description": "Free from deceit; truthful and sincere. 'Wero' names the quality of straightforward truthfulness—speaking and acting without deception or hidden motives.",
   "sound_symbolism": "The word speaks straight. 'We' opens with clear intention, nothing hidden. Then 'ro' rolls forward directly, honesty complete.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Right speech includes honesty—truth-telling that serves understanding and avoids harm.",
     "peace-linguistics-practices": "Honest communication builds trust—relationships founded on truthfulness can weather difficulty."
   },
-  "tags": {
+  "semantic_domains": {
     "dialogue": "Truthfulness",
     "wisdom": "Without deception"
   }

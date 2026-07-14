@@ -7,9 +7,7 @@
     "ra",
     "ku"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Blocked / Currently Unable to Proceed",
   "description": "Unable to proceed until a named obstacle moves: a missing material, an unmade decision, a door not yet opened. Saying a task is blocked invites the question of what stands in the way; it assigns no blame and does not promise that clearing the named obstacle will be enough.",
   "sound_symbolism": "Dental 'no' enters a rounded chamber with a low nasal resonance. Stressed 'ra' breaks that enclosure with a rolling tongue and broad 'a'. Final 'ku' closes firmly at the velum and drops into deep 'u'. The contour opens only in the middle before its last hard contact.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Visible blockers help communities address missing materials, access, care, information, and dependencies instead of hiding them behind individual productivity judgments.",
     "peace-linguistics-practices": "A non-blaming status word separates inability to proceed from laziness, disobedience, incompetence, or fault."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a work state unable to proceed under current conditions",
     "cognition": "an obstacle-based status requiring explanation",
     "temporal": "a potentially temporary stoppage"

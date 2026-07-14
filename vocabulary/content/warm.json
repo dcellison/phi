@@ -7,9 +7,7 @@
     "la",
     "e"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Warm / Hot / Heat-Having",
   "description": "The adjective naming elevated temperature, the quality of heat presence. In Phi, warmth is understood as fundamental to life—the warmth of sun that drives growth, of bodies that signal vitality, of hearths that gather community. This word names thermal presence from comfortable warmth through to intense heat, the continuum of fire's influence.",
   "sound_symbolism": "The sibilant 's' of 'su' is heat's hiss, the sound of fire and steam, and the deep 'u' holds the intensity in. The liquid 'l' of 'la' spreads the warmth outward. The final 'e' ends on the felt sensation, light and clear.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Sustainable warmth from sun, from insulation, from community design is fundamental. 'Sulae' names the quality that sustainable systems must provide.",
     "pre-industrial-wisdom": "Traditional life revolved around warmth—fire tending, sun seeking, body heat sharing. 'Sulae' honors warmth as precious resource requiring relationship."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "energy from sun and fire",
     "physical": "thermal sensation of heat"
   }

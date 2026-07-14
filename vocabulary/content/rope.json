@@ -6,9 +6,7 @@
     "su",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Rope / Thick Cord / Binding Line",
   "description": "Thick cord made by twisting fibers together; strong flexible line for pulling or binding. 'Suro' names what connects with strength—fibers twisted into reliable bond.",
   "sound_symbolism": "The word coils strong. 'Su' slides continuous in length, rope extending. Then 'ro' coils round, strength through twisting.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Connection through strength—many strands twisted together become unbreakable bond.",
     "pre-industrial-wisdom": "Rope enabled work—sailing, building, farming, the strong line that pulls and secures."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Binding connection",
     "creation": "Strong cord"
   }

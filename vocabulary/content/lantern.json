@@ -7,9 +7,7 @@
     "mo",
     "i"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Lantern / Portable Light / Guiding Lamp",
   "description": "A lamp with protective case for carrying; portable light for journeys. 'Lumoi' names what guides through darkness—light held and carried.",
   "sound_symbolism": "The word lights the way. 'Lu' glows with warm light. 'Mo' holds with stable grip, case protecting. Then 'i' rises to guide, path illuminated.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Guidance through darkness—the lantern as dharma, teaching that illuminates the path.",
     "pre-industrial-wisdom": "Lanterns lit journeys—the carried light enabling travel after dark, finding the way."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Portable light",
     "wisdom": "Guiding illumination"
   }

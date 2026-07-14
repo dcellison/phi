@@ -5,7 +5,7 @@
   const PAGE = 50;
   const BASE_VOCABULARY = "base-vocabulary";
   const REGISTERED_COMPOUNDS = "registered-compounds";
-  const WORD_FILTERS = ["f-pos", "f-tag", "f-module", "f-pillar"];
+  const WORD_FILTERS = ["f-pos", "f-domain", "f-module", "f-pillar"];
   let lexicon = [], compounds = [], words = new Set(), shown = 0, current = [];
 
   const PILLAR_NAMES = {
@@ -48,10 +48,10 @@
   $("count").textContent = lexicon.length;
 
   // filter options from the data
-  const opts = { pos: new Set(), tag: new Set(), module: new Set(), pillar: new Set() };
+  const opts = { pos: new Set(), domain: new Set(), module: new Set(), pillar: new Set() };
   for (const e of lexicon) {
-    e.pos.forEach((p) => opts.pos.add(p));
-    Object.keys(e.tags || {}).forEach((t) => opts.tag.add(t));
+    opts.pos.add(e.pos);
+    Object.keys(e.semantic_domains || {}).forEach((domain) => opts.domain.add(domain));
     (e.modules || []).forEach((m) => opts.module.add(m));
     Object.keys(e.pillars || {}).forEach((p) => opts.pillar.add(p));
   }
@@ -64,7 +64,7 @@
     }
   };
   fill($("f-pos"), opts.pos);
-  fill($("f-tag"), opts.tag);
+  fill($("f-domain"), opts.domain);
   fill($("f-module"), opts.module, (v) => MODULE_NAMES[v] || v);
   fill($("f-pillar"), opts.pillar, (v) => PILLAR_NAMES[v] || v);
   const requestedModule = new URLSearchParams(window.location.search).get("module");
@@ -133,21 +133,21 @@
     const q = $("q").value.trim().normalize("NFC").toLowerCase();
     const field = $("f-field").value;
     const compoundOnly = field === REGISTERED_COMPOUNDS;
-    const fp = $("f-pos").value, ft = $("f-tag").value;
+    const fp = $("f-pos").value, fd = $("f-domain").value;
     const fm = $("f-module").value, fl = $("f-pillar").value;
     current = lexicon
       .map((e) => ({ e, s: q ? score(e, q, field) : (compoundOnly ? -1 : 9) }))
       .filter(({ e, s }) =>
         s >= 0 &&
-        (!fp || e.pos.includes(fp)) &&
-        (!ft || (e.tags && ft in e.tags)) &&
+        (!fp || e.pos === fp) &&
+        (!fd || (e.semantic_domains && fd in e.semantic_domains)) &&
         (!fm || (fm === BASE_VOCABULARY ? (e.modules || []).length === 0 : (e.modules || []).includes(fm))) &&
         (!fl || (e.pillars && fl in e.pillars)))
       .sort((a, b) => a.s - b.s || a.e.word.localeCompare(b.e.word))
       .map(({ e }) => e);
     // Registered compounds answer all-field searches or their own scope.
     // Word facets stay available for lexicon entries only.
-    const showCompounds = compoundOnly || (field === "all" && q && !fp && !ft && !fm && !fl);
+    const showCompounds = compoundOnly || (field === "all" && q && !fp && !fd && !fm && !fl);
     const compMatches = showCompounds
       ? compounds
           .map((c) => ({ c, s: q ? compScore(c, q, field) : 4 }))
@@ -190,7 +190,7 @@
     head.innerHTML =
       `<span class="w">${esc(e.word)}</span>` +
       `<span class="g">${esc(e.gloss)}</span>` +
-      `<span class="pos">${e.pos.join(" · ")}</span>` +
+      `<span class="pos">${esc(e.pos)}</span>` +
       `<span class="ipa-line">${esc(e.ipa)}<span class="syll">${e.syllables.join(" · ")}</span></span>`;
     head.addEventListener("click", () => {
       const open = li.querySelector(".entry-body");
@@ -236,7 +236,7 @@
     div.className = "entry-body";
     let h = `<p class="concept">${esc(e.concept)}</p>`;
     h += `<p>${phiify(e.description)}</p>`;
-    if (e.pos.includes("verb") && !e.pos.includes("noun"))
+    if (e.pos === "verb")
       h += `<p class="rule-note">Also its own noun, the act or its result, by the event-noun rule.</p>`;
     if (e.sound_symbolism) h += `<h3>Sound</h3><p>${phiify(e.sound_symbolism)}</p>`;
     if (e.grammatical_notes) h += `<h3>Usage</h3><p>${phiify(e.grammatical_notes)}</p>`;
@@ -252,9 +252,9 @@
       for (const [k, v] of pillars)
         h += `<p class="pillar"><b>${esc(PILLAR_NAMES[k] || k)}</b>${phiify(v)}</p>`;
     }
-    const tags = Object.keys(e.tags || {});
-    if (tags.length)
-      h += `<p class="tagrow">${tags.map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</p>`;
+    const domains = Object.keys(e.semantic_domains || {});
+    if (domains.length)
+      h += `<p class="tagrow">${domains.map((domain) => `<span class="tag">${esc(domain)}</span>`).join("")}</p>`;
     const modules = e.modules || [];
     if (modules.length)
       h += `<p class="tagrow">${modules.map((m) => `<span class="tag">module: ${esc(MODULE_NAMES[m] || m)}</span>`).join("")}</p>`;

@@ -6,9 +6,7 @@
     "li",
     "pha"
   ],
-  "pos": [
-    "classifier"
-  ],
+  "pos": "classifier",
   "concept": "Living Classifier / Non-Human Life Category",
   "description": "The optional classifier for non-human living beings, living parts of living beings, and forms canonically treated as life in waiting. Animals, plants, fungi, a living ear, a seed, and an egg can take 'lipha'; people take 'himo'. The classifier states a category without proving the referent's biological status or preventing it from being treated as inventory.",
   "sound_symbolism": "The word opens with liquid 'li', which can evoke sap or blood in motion, and moves into breathy 'pha', which can evoke respiration and exchange. These are mnemonic images of living processes, not a claim that all life shares one visible force or sound.",

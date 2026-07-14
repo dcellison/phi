@@ -7,9 +7,7 @@
     "no",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Month / Lunar Cycle / Moon's Journey",
   "description": "A period of approximately four weeks; originally based on the moon's cycle. 'Lunoa' names the monthly rhythm—the moon's complete journey from new to full to new again.",
   "sound_symbolism": "The word follows the moon. 'Lu' begins with flowing change, cycle starting. 'No' grounds at each phase. Finally 'a' opens to completion, month fulfilled.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Monthly rhythms invite reflection—each cycle an opportunity to notice change and impermanence.",
     "pre-industrial-wisdom": "Months followed the moon—the visible cycle in the sky that marked time for those without calendars."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Moon rhythm",
     "temporal": "Lunar cycle"
   }

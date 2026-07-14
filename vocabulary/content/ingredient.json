@@ -7,9 +7,7 @@
     "re",
     "me"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ingredient / Food Material Chosen for a Preparation",
   "description": "A food material chosen as one part of a dish or drink being prepared. The same onion is ordinary food in a basket and an ingredient once the cook relates it to a particular recipe or meal. 'nuora' (food) covers nourishment generally; 'phareme' identifies the part before and during preparation.",
   "sound_symbolism": "Bilabial breath opens 'pha' through broad 'a'. Stressed 're' gives the middle a tongue roll and balanced vowel. Final 'me' closes gently at the lips and keeps the same quiet vowel. Wide at first, the sound turns once and settles into a soft held ending.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Naming an ingredient keeps the route from garden, market, store, or gift available beside the finished dish.",
     "pre-industrial-wisdom": "A practiced cook knew which handful, pinch, or seasonal substitute would still let the meal come together."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "food selected for use in a preparation",
     "creation": "one material from which a dish or drink is made",
     "physical": "an edible substance before or during preparation"

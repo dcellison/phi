@@ -7,9 +7,7 @@
     "lo",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Flourish / Thrive Abundantly / Grow Vigorously",
   "description": "To grow with full health and vigor, the way a garden does when every condition aligns. 'Ruloi' names abundance: growth past what survival requires. It applies to gardens, communities, arts, and individuals alike.",
   "sound_symbolism": "The word begins with 'r', the rolling consonant of richness and abundance—sound spilling forward continuously. The deep 'u' holds reserves of strength. Then 'lo' flows with liquid ease, growth spreading in all directions. Finally 'i' rises bright and visible, flourishing in full display.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Flourishing is the goal of regenerative systems—not mere sustainability but active thriving, life becoming more abundant through wise stewardship.",
     "art-nouveau-aesthetics": "Flourishing is beauty in motion, the ornamental exuberance of life expressing its full capacity."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Collective thriving",
     "nature": "Vigorous, abundant growth"
   }

@@ -7,9 +7,7 @@
     "no",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Seed / Potential-Kernel / The Beginning-Within",
   "description": "The noun naming the reproductive unit of plants containing embryo and stored nourishment, understood in Phi as concentrated potential, the future folded into small present form. Seeds embody patience, trust, and the mystery of dormancy—life waiting for its moment. This word names what holds tomorrow within today.",
   "sound_symbolism": "The word opens with 'thi', where the dental fricative whispers of hidden things, abstract potential, while 'i' sharpens to the concentrated smallness of seeds. This grounds through 'no', where the nasal anchors in earthen presence—the seed in soil. The final 'e' opens with emergence, the seed's destiny of becoming. The arc traces seeding: potential, grounding, emergence.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Seeds teach impermanence and interdependence—the tree within the seed, the seed within the tree. 'Thinoe' names this teaching.",
     "pre-industrial-wisdom": "Seeds were sacred—saved, shared, and stewarded across generations. 'Thinoe' honors the seed as ancestor gift and future trust."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "the reproductive kernel of plants",
     "temporal": "the present form of future growth"
   }

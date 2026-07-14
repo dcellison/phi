@@ -7,9 +7,7 @@
     "lo",
     "re"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Preserve / Keep Intact / Maintain Over Time",
   "description": "To keep something in its current state, protecting it from decay or change over time. 'Nelore' names the practice of conservation—maintaining what is valuable, whether traditions, ecosystems, relationships, or physical things, so they continue into the future.",
   "sound_symbolism": "The word holds time gently. 'Ne' begins with nasal steadiness, continuity affirmed. Then 'lo' flows with liquid care, ongoing attention. Finally 're' receives with rolling patience, preservation as sustained practice.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Preservation of ecosystems, biodiversity, and sustainable practices ensures futures worth living.",
     "pre-industrial-wisdom": "Traditional cultures preserve knowledge, seeds, and practices—carrying forward what sustains communities across time."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Conserving what sustains life",
     "temporal": "Maintaining across time"
   }

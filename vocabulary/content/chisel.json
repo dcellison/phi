@@ -6,9 +6,7 @@
     "ki",
     "ru"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Chisel / Carving Tool / To Carve with Precision",
   "description": "A tool with a cutting edge for shaping wood, stone, or metal; to carve with precision. 'Kiru' names what reveals form—removing material to find shape within.",
   "sound_symbolism": "The word cuts clear. 'Ki' bites with sharp precision, edge entering. Then 'ru' carves the channel, form emerging from material.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "Detail and precision—the chisel creates the fine lines, the delicate relief, beauty in small scale.",
     "pre-industrial-wisdom": "Carving reveals—the chisel finds form hidden in wood and stone, subtractive art."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Revealing form",
     "creation": "Carving tool"
   },

@@ -6,9 +6,8 @@
     "ka"
   ],
   "slot": 1,
-  "pos": [
-    "particle"
-  ],
+  "slot1_rank": "voice",
+  "pos": "particle",
   "concept": "Cause to / Make / Enable Action",
   "description": "A voice particle marking that the subject causes someone or something else to perform the verb's action. It covers the whole range of causation, from direct instruction to gentle enabling to the removal of obstacles; context supplies the means.",
   "sound_symbolism": "The particle begins with 'k', a clear velar stop that creates definite acoustic events—the back of tongue briefly blocking then releasing airflow like the decisive moment of causation. This active consonant meets 'a', the open vowel that provides space for effect to follow cause. Together, 'ka' sounds like causation itself: the sharp 'k' initiates while the open 'a' allows consequences to unfold. The sound's clarity reflects the transparency needed when one being influences another's actions.",

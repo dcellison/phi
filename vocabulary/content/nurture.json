@@ -7,9 +7,7 @@
     "me",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Nurture / Nourish / Care for Growth",
   "description": "To care for and encourage the growth and development of another—feeding, protecting, and supporting what is young or developing. 'Numelo' combines physical nourishment with emotional care, the full spectrum of what growing things need to thrive. It is the active side of what allows thriving to occur.",
   "sound_symbolism": "The word begins with 'nu', the nasal of nourishment—sound resonating inward as food nourishes from within. The 'u' holds and contains. Then 'me' offers with gentle nasal care, the caregiver present. Finally 'lo' flows outward with liquid continuity, nurture becoming sustained growth.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Nurturing embodies loving-kindness in action—not just wishing well but actively supporting another's flourishing.",
     "pre-industrial-wisdom": "Traditional child-rearing and plant-tending share this wisdom: growth cannot be forced but must be nurtured with patience and attentiveness."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Supporting growth of others",
     "wisdom": "Patient, attentive care"
   }

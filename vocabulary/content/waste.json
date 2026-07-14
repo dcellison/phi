@@ -7,9 +7,7 @@
     "mo",
     "ri"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Waste / Material or Energy Assigned No Further Intended Use",
   "description": "Material or energy assigned no further intended use. The status is relational, not inherent: the same fallen branch can be waste to one process and, in the same afternoon, habitat material to another.",
   "sound_symbolism": "Rounded, unvoiced 'whe' enters the stressed enclosure of 'mo' and preserves the hollow contour heard in 'whemoa' (empty). The lips close around round 'o', but 'ri' gives the tongue a new movement and brightens the end. What seemed empty of purpose remains present in the mouth and turns toward another relation.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Waste is made discussable without treating disposal as disappearance or assuming that another use automatically makes a material safe or sustainable.",
     "secular-buddhist-philosophy": "The definition resists an inherent waste essence and makes the designation dependent on changing relations, intentions, and conditions."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "a status assigned by a holder, process, or institution with consequences for others",
     "physical": "material or energy lacking further intended use in its present relation"
   },

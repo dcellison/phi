@@ -7,9 +7,7 @@
     "pa",
     "lu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Garden / Cultivated sanctuary / Co-created paradise",
   "description": "A space where human intention and natural growth collaborate to produce food, beauty, and sanctuary. 'Thepalu' covers the kitchen plot, the community garden, and the ornamental ground alike—land tended rather than wild, smaller and more intimate than 'kosha' (field). It names the working partnership between gardener and earth, not only the place.",
   "sound_symbolism": "'The' /θe̞/ opens with the soft dental fricative of deliberate care—the gardener's considering breath. 'Pa' presses like a seed set firmly into soil, the one stop in the word. 'Lu' flows out liquid as water reaching roots, settling into the deep 'u' of fruition.",
@@ -19,7 +17,7 @@
     "art-nouveau-aesthetics": "Garden design exemplified the movement's principle that functional spaces should be beautiful—the garden as living artwork where utility and beauty are inseparable.",
     "pre-industrial-wisdom": "Traditional gardens were pharmacy, grocery, and sanctuary combined—observing plant relationships and seasonal cycles passed practical knowledge through generations."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "spaces where human culture and natural processes interweave",
     "physical": "tangible spaces involving soil, plants, and physical cultivation",
     "spatial": "defined location transformed through intentional relationship with land"

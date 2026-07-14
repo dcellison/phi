@@ -7,9 +7,7 @@
     "pu",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Jar / Wide-Mouthed Storage Vessel",
   "description": "A rigid, wide-mouthed vessel used to keep food or other small material. A jar often takes a lid, though its exact closure and preservation method remain separate. A bottle pours through a narrow neck; 'tapulo' opens wide enough for a hand or spoon.",
   "sound_symbolism": "Dental 'ta' releases into the stressed lip closure and deep vowel of 'pu'. The two stops and vowels give 'tapu' (close) intact. Final 'lo' releases the tongue into a broad rounded chamber. Two firm contacts sit above that low liquid ending.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The household jar kept salt near the hearth and grain from mice. Another jar carried preserves through the cold months."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "a rigid storage vessel with a broad mouth",
     "physical": "a holder reached through an opening wider than a bottle neck"
   },

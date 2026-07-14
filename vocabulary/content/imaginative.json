@@ -7,9 +7,7 @@
     "e",
     "ro"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Imaginative / Having Creative Vision / Seeing Possibilities",
   "description": "Having or showing creativity and inventiveness in thought; able to envision what does not yet exist. 'Wiero' names the quality of inner vision—the mind that sees beyond what is to what could be.",
   "sound_symbolism": "The word opens inner vision. 'Wi' begins with wonder, attention turning inward. The vowel hiatus 'i.e' opens to inner space, imagination's realm. Then 'ro' forms the vision, possibility taking shape.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Imagination serves liberation—the ability to envision different ways of being opens paths to change.",
     "art-nouveau-aesthetics": "Imaginative vision saw beauty where others saw ordinary—artists who reimagined everyday objects as works of art."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Creative vision",
     "wisdom": "Seeing possibility"
   }

@@ -7,9 +7,7 @@
     "sa",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Clinical Finding / Health-Relevant Observation Produced by a Stated Method",
   "description": "A health-relevant observation produced by a stated method: a measurement, an image, an examination result. The finding carries its method, its conditions, and its uncertainty along with it, because a number that has shed its method is not yet evidence of anything. It can support, conflict with, or simply run alongside a person's own reported 'phamori' (symptom), and neither one silently outranks the other.",
   "sound_symbolism": "A light current of air lifts 'hi' into bright 'i'. At the stressed center, 'sa' narrows that breath to a hiss before opening onto broad 'a'. Final 'ro' turns the tongue inside a rounder chamber. From a fine opening, the sound spreads clearly and ends in motion.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A finding word that retains source and method prevents an observation from silently becoming a diagnosis or overriding the person's own account."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a method-bounded observation available for interpretation",
     "physical": "an observation concerning bodily or health condition"
   },

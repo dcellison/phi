@@ -7,9 +7,7 @@
     "ri",
     "ma"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Build / Construct / Erect Structure",
   "description": "To construct something by assembling parts into a larger whole—raising structures, creating systems, bringing components together into functional unity. 'Lorima' emphasizes the progressive assembly, layer upon layer, piece joined to piece until the whole stands.",
   "sound_symbolism": "The word begins with 'lo', the liquid of laying foundations—smooth, flowing placement. Then 'ri' rises with rolling energy, structure climbing upward. Finally 'ma' makes solid with nasal grounding, the built thing standing firm.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Building sustainably means constructing with future generations in mind—materials that return to earth, structures that serve communities.",
     "pre-industrial-wisdom": "Traditional building worked with local materials and inherited techniques, structures rising from and suited to their place."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Creating shelter and shared spaces",
     "creation": "Constructing structures"
   }

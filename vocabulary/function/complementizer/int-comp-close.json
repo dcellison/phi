@@ -6,9 +6,7 @@
     "we",
     "lo"
   ],
-  "pos": [
-    "complementizer"
-  ],
+  "pos": "complementizer",
   "concept": "End embedded question / Close interrogative clause",
   "description": "The required closing counterpart of the interrogative complementizer 'wela'. Marks the end of an embedded yes/no question, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'wela...welo' functions as spoken brackets around embedded questions.",
   "sound_symbolism": "Shares the 'we' onset with 'wela', maintaining the acoustic signature of questioning. The final rounded 'o' signals closure, following the consistent Phi pattern in which openers end open and closers end rounded, resolving the openness of the question's frame.",

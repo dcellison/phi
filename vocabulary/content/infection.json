@@ -7,9 +7,7 @@
     "shi",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Infection / Presence and Activity of an Infectious Agent in a Host",
   "description": "An infectious agent present and active in or on a host. Infection is narrower than exposure, which merely places the agent nearby, and it can exist with or without symptoms or the wider disease it may go on to cause.",
   "sound_symbolism": "Soft 'pe' opens with a brief meeting of the lips. Stressed 'shi' turns the airflow into a narrow hush and bright 'i'. Final 'ro' interrupts that fine stream with a tongue roll inside round 'o'. After a quiet opening, the sound tightens to its brightest point before it turns and deepens.",
@@ -17,7 +15,7 @@
   "pillars": {
     "peace-linguistics-practices": "A biologically bounded infection term discourages speakers from extending contamination and purity language to people, cultures, or moral status."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "an infectious agent acting in relation to a host",
     "physical": "a biological process in or on a body"
   },

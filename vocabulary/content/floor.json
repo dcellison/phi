@@ -7,9 +7,7 @@
     "ma",
     "e"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Floor / Ground Surface / Walking Level",
   "description": "The lower surface of a room on which one walks; the prepared ground inside. 'Tomae' names what supports standing—the level surface of habitation.",
   "sound_symbolism": "The word grounds with contact. 'To' touches with feet meeting surface. 'Ma' stabilizes with solid foundation. Then 'e' extends flat and level, floor spreading.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Ground of practice—the floor we sit on, walk on, the support for daily life.",
     "pre-industrial-wisdom": "Floor as foundation—the prepared surface separating dweller from bare earth."
   },
-  "tags": {
+  "semantic_domains": {
     "creation": "Support structure",
     "spatial": "Ground surface"
   }

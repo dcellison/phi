@@ -7,9 +7,7 @@
     "tho",
     "ra"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Role / Defined Position in a Group or Institution",
   "description": "A defined position within an institution or a social arrangement, kept separate from whoever currently holds it. A role is defined well when someone can say who selects its holder, what it permits, and how it passes to someone else.",
   "sound_symbolism": "Fine 'si' begins with a narrow hiss and focused vowel, one place marked inside a larger sound. Stressed 'tho' breathes along the teeth and rounds the center. 'Ra' rolls outward into broad 'a'. The role starts as a small position, gains a voiced shape, and opens into the activity around it.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Explicit roles make maintenance, coordination, and care visible while allowing rotation, shared responsibility, and institutional redesign.",
     "peace-linguistics-practices": "Separating a role from its holder prevents office, expertise, status, or assigned duty from becoming a claim about the person's inherent value or authority."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "a defined position associated with stated functions and obligations",
     "community": "a social or institutional role with bounded scope"
   },

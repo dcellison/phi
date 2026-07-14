@@ -7,9 +7,7 @@
     "lu",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Steward / One Who Cares for the Deep Flow",
   "description": "One who practices stewardship, caring for land, resources, and communities as a sacred trust for the whole and for future generations.",
   "sound_symbolism": "The thoughtful 'the' brings careful consideration to caretaking - stewardship requires wisdom, not just action. This wisdom flows through 'lu', understanding the deep currents of life that run beneath surface needs. The encompassing 'o' holds all in sacred trust - land, creatures, future generations. Three syllables embody stewardship's calling: thinking carefully, flowing deeply, holding wholly - the honor of tending what belongs to all.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Stewardship replaces ownership with caretaking - land trusts instead of property deeds, tool libraries instead of hoarding, seed saving instead of patents. This practice recognizes that we are temporary custodians of resources that must flourish for generations beyond us. Stewards design for the seventh generation, not the quarterly report.",
     "pre-industrial-wisdom": "Traditional stewardship understood that humans were caretakers, not masters - tending forests that would shelter great-grandchildren, maintaining water systems used by the whole village, preserving seeds selected over centuries. This wisdom saw abundance as something cultivated through patient tending, not extracted through force."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "caring for collective resources and future generations",
     "nature": "often involves tending land and ecosystems",
     "wisdom": "requires understanding of long-term impacts"

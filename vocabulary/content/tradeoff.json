@@ -7,9 +7,7 @@
     "ne",
     "ho"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Tradeoff / Gain Joined to Valued Loss",
   "description": "A relation in which gaining or protecting one valued outcome costs some of another, under the conditions actually available. Naming a tradeoff means naming both the gain and the burden, and it says nothing about whether the loss is fair or shared equally.",
   "sound_symbolism": "The first two syllables sound exactly like 'sone' (value): rounded 'so' moves into the stressed dental nasal of 'ne'. 'Ho' turns that held contact into an open breath and recalls the beginning of 'holume' (loss). Both resonances remain audible in the same contour. Value begins the word; the exhalation of cost ends it.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Tradeoffs foreground conditions and impermanence: the available choice is situated, and neither gain nor loss should be treated as isolated or eternal.",
     "peace-linguistics-practices": "The term supports honest deliberation by requiring speakers to name what a favored proposal costs and who may bear that cost."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a constrained relation between competing valued outcomes",
     "community": "a choice structure whose gains and burdens may fall on different people",
     "wisdom": "attention to what every available option preserves and relinquishes"

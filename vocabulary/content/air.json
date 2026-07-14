@@ -7,9 +7,7 @@
     "o",
     "wu"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Air / Breath-Space / The Invisible Sustainer",
   "description": "The noun naming the invisible element we breathe, the atmosphere that connects all breathing beings in continuous exchange. In Phi, air is understood as the great connector—what leaves one body enters another, what trees release we inhale, what we exhale plants consume. This word names both the physical atmosphere and the quality of openness, spaciousness, and possibility that air represents. It is the element we most take for granted until it fails.",
   "sound_symbolism": "The word opens with 'ha', where the breathy 'h' enacts air itself—the sound made by breath alone, no constriction, pure flow. The standalone 'o' opens into the spaciousness air creates, the room for movement and life. The final 'wu' rounds outward with the gliding 'w', breath reaching into space, while 'u' settles deep like air filling lungs. The arc traces breathing: breath released, space opened, air received.",
@@ -19,7 +17,7 @@
     "secular-buddhist-philosophy": "Air element in Buddhist analysis represents movement, lightness, and the breath that meditation observes. 'Haowu' supports breath awareness practice by naming what we mindfully attend.",
     "pre-industrial-wisdom": "Traditional cultures understood air as spirit, as life-breath, as the invisible connector. 'Haowu' preserves this awareness that air is sacred commons shared by all breathing beings."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "elemental connector of all breath",
     "physical": "the medium we breathe"
   }

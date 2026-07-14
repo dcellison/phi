@@ -7,9 +7,7 @@
     "ri",
     "the"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Ice / Frozen Water / Solid Cold",
   "description": "Water frozen into solid form, whether as surface ice, glaciers, or frost. 'Kerithe' names water's crystalline transformation—the solid state that preserves, that bridges waters in winter, that holds time still in glacial depths.",
   "sound_symbolism": "The word crystallizes into stillness. 'Ke' begins with velar hardness, the solid state. Then 'ri' holds rigid structure, frozen in place. Finally 'the' /θe/ breathes cold stillness, the held breath of winter.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Ice teaches transformation through stillness—water becoming solid, movement becoming rest, change through apparent unchanging.",
     "pre-industrial-wisdom": "Ice preserved food, bridged waters in winter, and shaped landscapes through glacial patience—a force both useful and dangerous."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Frozen water",
     "temporal": "Winter's solid form"
   }

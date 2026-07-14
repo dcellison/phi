@@ -6,9 +6,8 @@
     "to"
   ],
   "slot": 1,
-  "pos": [
-    "particle"
-  ],
+  "slot1_rank": "tense",
+  "pos": "particle",
   "concept": "Past / Before Now / Completed Time",
   "description": "A verb phrase particle that places actions and states in the past, before the present moment. Present tense is unmarked in Phi, so 'to' is a deliberate step out of the present: the particle for memory, history, and completed experience.",
   "sound_symbolism": "The dental stop /t̪/ makes a clean point of contact, a definite moment marked. The rounded 'o' closes the syllable with a sense of completion. A stop and a back vowel: brief, final, done.",

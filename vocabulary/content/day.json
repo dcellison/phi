@@ -6,9 +6,7 @@
     "phi",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Day / One Light-Dark Cycle / Period of Waking",
   "description": "The period of light between sunrise and sunset; a complete cycle of light and dark. 'Philo' names the fundamental unit of lived time—the rhythm of waking and sleeping, working and resting.",
   "sound_symbolism": "The word opens to light. 'Phi' /ɸi/ begins with gentle breath, dawn arriving. Then 'lo' flows through the hours, the day unfolding.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Day-aligned living reduces energy use—matching human activity to solar availability.",
     "pre-industrial-wisdom": "The day was life's natural unit—work with light, rest with dark, each day complete in itself."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Solar rhythm",
     "temporal": "Light-dark cycle"
   }

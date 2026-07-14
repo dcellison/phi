@@ -6,9 +6,7 @@
     "pu",
     "se"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Spit / Expel from the Mouth",
   "description": "To spit: the seed, the bad water, the taste that warns. Plain expulsion from the mouth — the mouth's own refusal, coined without squeamishness.",
   "sound_symbolism": "'pu' bursts outward from closed lips, 'se' carries it away. Brief, like the act.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "The body knows refusal before the mind does; the verb records its plainest form.",
     "pre-industrial-wisdom": "Spitting out the bitter and the spoiled was the palate's veto — a survival reflex with its own etiquette in every culture."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The palate's veto",
     "physical": "The mouth's expulsion"
   }

@@ -7,9 +7,7 @@
     "no",
     "a"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Society / Organized Community / Social Order",
   "description": "An organized group of people living together with shared customs and institutions. 'Punoa' names the larger weave—the fabric of relationships that makes collective life possible.",
   "sound_symbolism": "The word gathers with structure. 'Pu' collects with gathering presence, people assembling. 'No' settles with organized form, structure emerging. Then 'a' opens to inclusive belonging.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Sangha writ large—society as extended community of practice and mutual support.",
     "peace-linguistics-practices": "Society as conversation—social order maintained through ongoing dialogue and agreement."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Social organization",
     "wisdom": "Collective order"
   }

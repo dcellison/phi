@@ -7,9 +7,7 @@
     "ka",
     "ne"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Accessible / Practically Available to a Stated Person and Activity",
   "description": "Having conditions under which a stated person can reach, understand, use, or participate in something. The adjective is relational. A route may be accessible for one journey and fail another. 'kelasu' (usable) describes whether something works once it is available; 'lokane' also asks whether the person can get to that use.",
   "sound_symbolism": "Low liquid 'lo' releases the tongue into round 'o'. Stressed 'ka' places a clean velar contact in the middle and opens through broad 'a'. Final 'ne' settles at the teeth with a soft nasal and balanced 'e'. Flowing openness passes through one firm point and reaches a quiet resting place.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "A place built for shared life must be judged where bodies, tools, routes, and activities actually meet. A drawing alone cannot settle the question.",
     "peace-linguistics-practices": "A relational adjective leaves speakers room to correct a broad accessibility claim with the person and activity it overlooked."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "practical availability for a stated use",
     "community": "conditions that permit participation in shared life",
     "spatial": "a route or place reachable under stated conditions"

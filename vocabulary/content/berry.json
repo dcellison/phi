@@ -7,9 +7,7 @@
     "ru",
     "lo"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Berry / The Small Soft Fruit",
   "description": "The berry: the small soft fruit that grows within arm's reach, on bramble, bush, and low branch. Eaten where it is picked, staining the fingers that gather it, ripening a handful at a time through the warm months. 'Mirulo' is the forager's fruit and the child's, abundance in its smallest coin; a thicket of its canes is a landmark any garden knows.",
   "sound_symbolism": "'mi' is the smallness, 'rulo' is red sitting whole inside the word: the little red one, named for the color most of its family turns when ready. The liquids 'r' and 'l' roll like the fruit itself between the fingers.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "The edible landscape's smallest yield; a garden with berry canes feeds whoever passes.",
     "pre-industrial-wisdom": "The first harvest anyone learns: what ripens free at hand height, and when, and which. Foraging knowledge starts here."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The bramble's small yield",
     "physical": "Fruit at its smallest"
   }

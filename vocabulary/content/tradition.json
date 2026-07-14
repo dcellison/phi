@@ -7,9 +7,7 @@
     "re",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Tradition / A Deliberate, Grounded Bridge",
   "description": "A specific custom, belief, or practice passed down through generations. 'Therema' names one such practice at a time; the whole inheritance a community carries is 'moenu' (culture).",
   "sound_symbolism": "The thoughtful 'the' honors tradition as conscious choice - not blind repetition but deliberate preservation of what matters. This consideration builds 're', the bridge across generations where ancestors meet descendants. The grounding 'ma' ensures traditions root in earth rather than floating as mere nostalgia. Three syllables span centuries: thoughtful selection, bridging time, grounding wisdom - the art of carrying forward what deserves to live.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "Traditions served as living libraries before written records - encoding survival knowledge, social bonds, and spiritual wisdom in repeated practices. These customs weren't arbitrary but time-tested responses to recurring challenges, preserving collective learning through embodied ritual rather than abstract documentation."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "social bonds and collective customs",
     "ritual": "often expressed through repeated ceremonial practices",
     "temporal": "bridging time and connecting past to present",

@@ -6,9 +6,7 @@
     "ra",
     "lu"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Free / Unbound / At Liberty",
   "description": "Not confined, restricted, or imprisoned; able to act or move without constraint. 'Ralu' names the quality of liberation—freedom from what binds, openness to what calls.",
   "sound_symbolism": "The word moves without constraint. 'Ra' releases with ease, bonds loosened. Then 'lu' flows freely, liberty embodied.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Freedom includes freedom from exploitation—communities where all can flourish without domination.",
     "secular-buddhist-philosophy": "True freedom is liberation from craving and aversion—the mind unbound by reactive patterns."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Liberation",
     "wisdom": "Unbound state"
   }

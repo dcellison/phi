@@ -6,9 +6,7 @@
     "lu",
     "pho"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Float / Rest on Water / Be Borne Up",
   "description": "To float: the leaf on the pond, the boat at anchor, the swimmer resting. Being borne by water without effort — the still counterpart of 'wishe' (swim) and 'selu' (flow).",
   "sound_symbolism": "Light 'lu' rests on the surface, 'pho' is the breath that keeps it there — floating as the water's exhale under a thing.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Floating is trust demonstrated: the body that struggles sinks, the body that rests is held. Most meditation instruction is this verb.",
     "pre-industrial-wisdom": "The ferryman read the river by what floated on it; driftwood and leaf-rafts were the water's own reports."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The swimmer's stillness",
     "nature": "Borne on water",
     "physical": "Rest without sinking"

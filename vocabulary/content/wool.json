@@ -6,9 +6,7 @@
     "mo",
     "phi"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Wool / Sheep Fiber / Warm Textile",
   "description": "The soft, crimped hair that forms a sheep's fleece and can be spun into textile. It insulates the living animal before it warms a garment. Shearing is one event; transfer and use follow in their own clauses.",
   "sound_symbolism": "The lips close around the nasal at the start of 'mo', and rounded 'o' gives the first syllable depth. In 'phi', the lips approach again but leave a narrow path for breath before bright 'i'. Two soft contacts move from a full chamber to a fine, airy edge.",
@@ -17,7 +15,7 @@
     "solarpunk-values": "Wool can provide durable insulation, but material usefulness does not answer how the sheep, land, labor, or processing were treated.",
     "pre-industrial-wisdom": "Spinning and weaving begin with a fleece that first kept an animal warm. Good material knowledge remembers both uses of the fiber."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "the fiber forming a sheep's fleece",
     "physical": "a crimped insulating fiber that can be spun"
   }

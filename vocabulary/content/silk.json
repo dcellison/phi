@@ -7,9 +7,7 @@
     "le",
     "o"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Silk / Worm Fiber / Luxurious Cloth",
   "description": "A fine soft lustrous fiber produced by silkworms; the smoothest natural textile. 'Sileo' names what worms weave—the liquid thread that becomes luxury.",
   "sound_symbolism": "The word slides smooth. 'Si' slips with silken glide, fiber sliding. 'Le' flows with liquid drape. Then 'o' opens to soft fullness.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Silk as flowing luxury—the draping fabric of Art Nouveau fashion and decoration.",
     "pre-industrial-wisdom": "Silk connected worlds—the trade routes named for this precious thread."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "Luxurious material",
     "nature": "Insect fiber"
   }

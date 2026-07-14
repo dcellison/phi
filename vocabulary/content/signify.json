@@ -6,9 +6,7 @@
     "she",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Signify / Indicate / Point To Meaning",
   "description": "To indicate or point toward meaning; to carry significance. 'Shelo' names what signs do—the pointing that connects symbol to substance.",
   "sound_symbolism": "The word indicates gently. 'She' softly opens with subtle gesture, sign appearing. 'Lo' opens with clear direction, meaning indicated.",
@@ -17,7 +15,7 @@
     "secular-buddhist-philosophy": "Signs as empty—signifiers point but have no inherent meaning, only conventional.",
     "peace-linguistics-practices": "Clear signification—communicating so meaning reaches the listener accurately."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Semantic pointing",
     "dialogue": "Meaningful indication"
   }

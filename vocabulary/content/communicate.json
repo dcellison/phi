@@ -7,9 +7,7 @@
     "o",
     "ri"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Communicate / To Bridge Understanding",
   "description": "The art of creating a bridge of understanding between minds and hearts. It is a two-way, collaborative process of sharing and receiving meaning that transforms all participants.",
   "sound_symbolism": "The word begins with the soft fricative 'sh', creating the gentle, receptive space that true communication requires—like the hush before deep listening. This breath flows into the open vowel sequence 'e.o', a sonic bridge that spans from one openness to another, embodying how communication connects separate beings. The word culminates in 'ri', whose rolling liquid carries the message forward to its destination, completing the circuit of understanding. When spoken, it creates the very quality it names: a soft opening, a bridge, and a gentle arrival—the full arc of true communication.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Communication embodies Right Speech - speaking truthfully, harmoniously, and with beneficial intent. It requires mindful presence to both express our truth and receive others' perspectives without the filters of ego and assumption. True communication is a practice of setting aside the illusion of separation to touch the shared ground of understanding.",
     "peace-linguistics-practices": "Communication is the primary tool for creating understanding across difference and preventing the violence that arises from misunderstanding. Peace linguistics recognizes that how we communicate - with deep listening, clear expression, and genuine care for mutual comprehension - shapes whether our interactions build connection or create division."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "connects minds across the illusion of separation",
     "dialogue": "creates bridges of understanding through exchange"
   }

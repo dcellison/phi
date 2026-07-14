@@ -7,9 +7,7 @@
     "wa",
     "su"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Audible / Distinguishable Through Hearing Under Stated Conditions",
   "description": "Clear enough for a stated listener to distinguish through hearing under the relevant conditions. Volume alone does not settle audibility when distance, competing sound, frequency, equipment, or the listener's hearing changes the result. 'hea' (hear) is the act of reception; 'hewasu' describes what is available to that act.",
   "sound_symbolism": "Breathy 'he' repeats the opening of 'hea' (hear). Stressed 'wa' rounds at the lips and opens fully into broad 'a'. Final 'su' draws that openness into a fine hiss and deep 'u'. From light air to a wide center and a darker edge, each part remains clear.",
@@ -18,7 +16,7 @@
     "art-nouveau-aesthetics": "Voice, room, distance, and material surface shape whether sound arrives as a line that can be followed or a blur.",
     "peace-linguistics-practices": "The word lets a listener say that speech did not reach them without inviting a judgment about attention or willingness."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "sound distinguishable within an acoustic setting",
     "dialogue": "speech available to a stated listener",
     "physical": "hearing under particular bodily and environmental conditions"

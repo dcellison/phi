@@ -7,9 +7,7 @@
     "no",
     "i"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Falls Short / Less Than / Does Not Reach",
   "description": "The verb of magnitude comparison announcing that one quantity does not reach another in amount. It states a quantitative relation without lexically saying that the smaller quantity is inadequate or worse. Context still determines the relevant measure, whether the quantities are comparable, and whether the comparison is being used responsibly. A comparison may state both quantities or leave a reference threshold recoverable from context.",
   "sound_symbolism": "The word offers a mnemonic image of a gap. 'The' begins with a sustained dental fricative, and 'noi' closes the comparison with a distinct contour. The association can help recall the direction of the relation; it does not make a comparison honest, mindful, or free of value judgment.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "'Thenoi' supports communication that distinguishes a factual magnitude claim from a claim of inadequacy. Speakers must still examine the selected measure, the purpose of comparison, and its effects.",
     "pre-industrial-wisdom": "Practical comparisons such as one plot yielding less grain than another can remain descriptive rather than evaluative. 'Thenoi' supports that distinction without claiming that traditional measurement was uniformly free of hierarchy or judgment."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "Announces magnitude relationship requiring mental comparison",
     "spatial": "Frames relative position in numerical space—one quantity does not extend to another"
   }

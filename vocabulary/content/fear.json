@@ -7,9 +7,7 @@
     "ki",
     "ma"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Fear / Bodily Alarm / Tightening Before Danger",
   "description": "Fear is the tightening that rises before danger, whether the danger is real or imagined. 'pukea' (danger) names what threatens; 'sukima' names the body's alarm in answer. The noun sits beside 'shaelo' (brave) and 'thomari' (courage), neither of which means much without it.",
   "sound_symbolism": "'su' begins as a narrow stream behind the teeth, then draws the lips into dark, rounded 'u'. At the stressed center, the back of the tongue seals against the soft palate for 'k' and releases into bright 'i'. The lips meet for 'm' before the jaw opens into final 'a'; the word gathers its pressure in the middle and lets it go at the end.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Naming fear makes it available to attention before bodily alarm turns into reflex.",
     "peace-linguistics-practices": "A speaker can name fear before it hardens into a threat or accusation."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "The body's alarm before danger",
     "physical": "The tightening before danger"
   }

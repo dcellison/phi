@@ -7,9 +7,7 @@
     "ro",
     "a"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Playful / Full of Fun / Lighthearted",
   "description": "Fond of games and amusement; lighthearted and full of fun. 'Liroa' names the quality of playfulness—the spirit that finds joy in play, that approaches life with lightness.",
   "sound_symbolism": "The word dances lightly. 'Li' begins with bright ease, lightness present. 'Ro' rolls with joyful energy, play in motion. Finally 'a' opens to delight, playfulness complete.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Playful mind releases grasping—the lightness of play dissolves the heaviness of attachment.",
     "pre-industrial-wisdom": "Play taught essential skills—children's games prepared them for adult work and cooperation."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Lighthearted joy",
     "wisdom": "Fun-loving spirit"
   }

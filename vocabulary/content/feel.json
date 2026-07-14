@@ -7,9 +7,7 @@
     "e",
     "lo"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Feel / Sensory-Emotional Experience",
   "description": "The fundamental human capacity to experience both physical sensations and emotional states through embodied awareness. Feeling encompasses the full spectrum of somatic experience - from the touch of wind on skin to the warmth of joy in the chest, from the taste of honey to the ache of longing. In Phi's framework, feeling is understood as a unified field of experience where body and emotion are not separate but interwoven aspects of consciousness. This holistic understanding recognizes that we \"feel\" sadness as much as we feel texture, that emotions manifest somatically and physical sensations carry emotional resonance. The word bridges what many languages artificially divide, acknowledging that all feeling - whether labeled physical or emotional - arises through the same fundamental capacity for sentient experience and aware presence with what is.",
   "sound_symbolism": "The word begins with 'pha', where the gentle fricative /φ/ creates the softest possible onset - like a breath of awareness touching consciousness, neither forceful nor intrusive but present and real. This bilabial fricative, made with just the lips, embodies the delicate interface between inner experience and outer world. The vowel sequence 'a.e' creates a journey from openness to focused attention - the broad 'a' welcoming all sensation, then moving through hiatus to 'e', which brings alert presence to what is felt. The final syllable 'lo' combines the liquid 'l' - flowing, connecting, continuous - with the rounded 'o' that contains and holds experience.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Vedanā (feeling-tone) is one of the Five Aggregates and a key focus of mindfulness practice. Buddhist teaching emphasizes awareness of feelings as they arise in body and mind, observing their impermanent nature without attachment. This awareness of feeling is essential for understanding the roots of suffering and liberation.",
     "art-nouveau-aesthetics": "Art Nouveau celebrated sensory experience and emotional response to beauty. The movement emphasized texture, touch, and the synaesthetic experience where visual forms evoke tactile and emotional feelings, creating art meant to be felt as much as seen."
   },
-  "tags": {
+  "semantic_domains": {
     "aesthetic": "sensory appreciation of texture, beauty, and harmony",
     "cognition": "embodied knowing through sensory-emotional experience",
     "emotion": "the subjective experience of emotional states",

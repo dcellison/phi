@@ -7,9 +7,7 @@
     "ro",
     "i"
   ],
-  "pos": [
-    "adjective"
-  ],
+  "pos": "adjective",
   "concept": "Nervous / Anxious / Uneasy",
   "description": "Easily agitated or apprehensive; feeling worry or unease. 'Luroi' names the quality of nervousness—the body's alert to perceived threat, energy unsettled.",
   "sound_symbolism": "The word trembles slightly. 'Lu' begins with uncertain flow, stability wavering. 'Ro' rolls with uneasy energy. Finally 'i' arrives tense, nervousness present.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Noticing nervousness without judgment begins its release—awareness of anxiety is the first step toward calm.",
     "peace-linguistics-practices": "Nervous speakers need patience—rushing them increases anxiety while spaciousness allows settling."
   },
-  "tags": {
+  "semantic_domains": {
     "emotion": "Anxious state",
     "physical": "Uneasy energy"
   }

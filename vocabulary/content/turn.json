@@ -6,9 +6,7 @@
     "ra",
     "to"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Turn / Rotate / Change Facing or Direction",
   "description": "To turn: the head toward a voice, the boat toward shore, the wheel on its axle. Rotation and redirection, of oneself or of things. With 'lawe' and 'kuri' it gives Phi full navigation: 'turn to the left' is now speakable.",
   "sound_symbolism": "The rolling 'r' is rotation itself, carried through the arc from open 'a' to rounded 'o' — the sound sweeps the curve it names.",
@@ -17,7 +15,7 @@
     "art-nouveau-aesthetics": "The turn is where a line becomes a curve; every whiplash arc in the style is a committed turning.",
     "pre-industrial-wisdom": "The turning wheel, the turned soil, the turning of the year — rotation is the oldest machine and the oldest metaphor."
   },
-  "tags": {
+  "semantic_domains": {
     "activity": "The navigator's correction",
     "physical": "The body's and the wheel's motion",
     "spatial": "Rotation and change of facing"

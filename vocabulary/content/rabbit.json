@@ -7,9 +7,7 @@
     "pi",
     "wa"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Rabbit / The Jumper",
   "description": "The rabbit: the soft quick animal of meadow and garden edge, wild or kept. Built on 'tupi' (jump) — the jumper, opened wide by 'wa' — so the animal is named by its signature motion, as 'mophira' is named by its wool. A counted rabbit may take optional 'lipha'.",
   "sound_symbolism": "'tupi' springs and 'wa' lands it open — the word performs one hop. All light sounds; nothing in it heavier than the animal.",
@@ -17,7 +15,7 @@
   "pillars": {
     "pre-industrial-wisdom": "The hedgerow neighbor every garden knew: quick to raid, quick to vanish, the wild's small ambassador at the edge of the tended world."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "The meadow's jumper",
     "physical": "Softness at speed"
   }

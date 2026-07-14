@@ -7,9 +7,7 @@
     "lu",
     "no"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Amphibian / Dual-Life Creature / Water-and-Land Being",
   "description": "A cold-blooded animal that typically begins life in water with gills before transforming to breathe air on land. 'Teluno' names the creatures of transformation—frogs, salamanders, and their kin who embody the mystery of metamorphosis, belonging fully to neither water nor land alone.",
   "sound_symbolism": "The word bridges two worlds. 'Te' lands with a firm dental stop, solid ground. 'Lu' flows with liquid transition. 'No' grounds again on earth. The word itself moves from firm to fluid to firm.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Amphibians embody transformation—the capacity to fundamentally change form while remaining oneself, a teaching about impermanence and adaptation.",
     "pre-industrial-wisdom": "Creatures of both water and land hold liminal wisdom—they know the secrets of two worlds and the passage between them."
   },
-  "tags": {
+  "semantic_domains": {
     "nature": "Transforming dual-world creatures",
     "temporal": "Beings of metamorphosis"
   },

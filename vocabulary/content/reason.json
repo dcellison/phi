@@ -7,9 +7,7 @@
     "mo",
     "tha"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Reason / Justificatory Ground",
   "description": "A consideration offered to justify a claim, a choice, or an action. A reason answers why something should be accepted, and it stands apart from a cause, a purpose, and a private motive, though any of those can also serve as a reason once someone actually offers it as one.",
   "sound_symbolism": "Rolling 're' begins in relation and immediately reaches beyond itself. Closed lips hold the stressed 'mo' in a deep rounded center. 'Tha' lets that sound out as breath and broad 'a'; the inward turn a reason takes before it is offered becomes audible.",
@@ -19,7 +17,7 @@
     "peace-linguistics-practices": "Speakers can request and examine reasons while keeping the person who offers them distinct from the claim under discussion.",
     "pre-industrial-wisdom": "A reason may arise from practical experience and communal memory as well as abstract analysis, provided its supporting role is made clear."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a consideration that supports acceptance or action",
     "dialogue": "a ground offered so others can examine a claim or choice",
     "wisdom": "deliberative support whose relevance and limits can be considered"

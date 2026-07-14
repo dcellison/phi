@@ -1,12 +1,16 @@
 # Phi Vocabulary Management Scripts
 
-The entry JSON under `vocabulary/content/`, `vocabulary/function/`, and `vocabulary/interjection/` is the single source of truth. [`vocabulary/schema.json`](../vocabulary/schema.json) owns the shared field and classification metadata. These scripts validate the entries, keep derived artifacts in sync, and support coining. All of them are pure standard-library Python.
+The entry JSON under `vocabulary/content/`, `vocabulary/function/`, and `vocabulary/interjection/` is the single source of truth. [`vocabulary/schema.json`](../vocabulary/schema.json) owns the shared field and classification metadata. These scripts validate the entries, keep derived artifacts in sync, and support coining. Install the validator's pinned dependency once in each Python environment:
+
+```bash
+python3 -m pip install --requirement project/requirements.txt
+```
 
 ## validate_examples.py — the main validator
 
 Checks the entire language for internal consistency, and runs in CI on every pull request:
 
-- **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar, semantic-domain, and optional-module classifications, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
+- **Lexicon integrity**: complete Draft 2020-12 schema validation, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, and duplicate glosses (warning).
 - **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/validation/minimal_pairs_baseline.txt`, which may only shrink.
 - **Documentation examples**: every Phi word quoted in `documents/`, `project/`, `manual/`, `pamphlets/`, `primer/`, `texts/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
 - **Source citations**: every labeled literary citation must occur verbatim in its stored source. A source clause belongs to one aligned unit, except on a declared paired page where it may appear once in each named rendering.
@@ -29,9 +33,10 @@ Exit code 0 means no errors. Run the full check — as its own command, so the e
 
 Known limitation: single-word *italic* mentions in prose are not checked (the English/Phi heuristic needs at least two tokens). When retiring or renaming a word, grep for it explicitly.
 
-The focused regression suite covers the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
+The focused regression suites cover the executable vocabulary contract, Slot 1 metadata, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
 
 ```bash
+python3 scripts/test_vocabulary_schema.py
 python3 scripts/test_name_forms.py
 ```
 

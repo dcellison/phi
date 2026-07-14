@@ -7,9 +7,7 @@
     "the",
     "a"
   ],
-  "pos": [
-    "verb"
-  ],
+  "pos": "verb",
   "concept": "Love / Deep Affection / Active Care",
   "description": "To feel and express deep affection, care, and commitment toward another being. 'Lothea' covers the full range of love, from tender caring to devotion, and treats love as practice rather than feeling alone: to love is to act with love.",
   "sound_symbolism": "The word flows with warmth and openness. 'Lo' reaches with liquid extension, heart extending toward another. Then 'the' /θe/ breathes with gentle intimacy, the sacred softness of connection. Finally 'a' opens fully, love given without reservation.",
@@ -18,7 +16,7 @@
     "secular-buddhist-philosophy": "Metta (loving-kindness) is love without condition or possession—wishing well for all beings, starting with those close to us.",
     "peace-linguistics-practices": "Love expressed through language creates connection—naming affection strengthens bonds and affirms relationship."
   },
-  "tags": {
+  "semantic_domains": {
     "community": "Foundation of relationship",
     "emotion": "Deep affection and care"
   }

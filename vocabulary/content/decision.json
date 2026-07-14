@@ -7,9 +7,7 @@
     "nu",
     "ro"
   ],
-  "pos": [
-    "noun"
-  ],
+  "pos": "noun",
   "concept": "Decision / Choice Given Settled or Actionable Status",
   "description": "A choice that has reached settled or actionable status. It can still be provisional, contested, or under appeal and remain, in this sense, a decision; settled status is not the same as final status.",
   "sound_symbolism": "The first two syllables repeat 'kanu' (choose), from a crisp velar stop into the stressed depth of 'nu'. 'Ro' adds a rolling contact and a round chamber at the end. Choice turns once more in the mouth and settles into a form others can hear and act around.",
@@ -18,7 +16,7 @@
     "solarpunk-values": "Collective projects need decisions that remain traceable to participants, resources, conditions, and future review rather than dissolving into vague communal intention.",
     "peace-linguistics-practices": "Separating decision from agreement, consent, legitimacy, and compliance preserves dissent after a group begins to act."
   },
-  "tags": {
+  "semantic_domains": {
     "cognition": "a choice assigned settled or actionable status",
     "community": "a collective or institutional decision with stated scope"
   },
