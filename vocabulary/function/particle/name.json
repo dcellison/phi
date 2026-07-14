@@ -7,12 +7,20 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "Proper Name Marker / Announced Designation",
-  "description": "A Slot 2 particle placed before one Phi token to say that the token is a proper designation. The following form may be a content word borne as a name or a productive onym of two, three, or four syllables with no dictionary entry. The particle tells the listener to carry the token as a name; the bearer's kind and status come from elsewhere.",
-  "sound_symbolism": "The tongue meets the teeth for 'n', while nasal resonance keeps the one-syllable marker gentle. Balanced 'e' opens forward into the name that follows. The particle clears a small threshold without competing with the name itself.",
-  "grammatical_notes": "Slot 2 particle before a proper-name token. It precedes an honorific when both appear: 'ne sa sulae' (NAME HON.RESPECT sulae). Formal, neutral, portable, and machine-validated Phi keeps 'ne' at every mention; established conversation may omit it while reference remains unambiguous. A productive onym is one lowercase token of two, three, or four legal Phi syllables with no duplicated syllable that has an onset, and it is not a lexicon entry. If its form matches a current lexicon entry, that entry must be a content word. A form absent from the current lexicon needs no history check: 'ne sorae shua.' (sorae comes.) The name receives no gloss. A preferred name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script remains outside the Phi passage unless its bearer or naming community accepts a valid onym. The construction applies to every proper designation, not only people. Validate a proposed form with 'python3 scripts/validate_examples.py name FORM'.",
+  "search_terms": [
+    "proper name",
+    "name marker"
+  ],
+  "description": "A Slot 2 particle announcing that the next Phi token is a proper designation. The token may be a content word borne as a name or a productive onym with no dictionary entry. The marker changes how the listener receives the form; it assigns no meaning or kind to the bearer.",
+  "articulatory_notes": "For 'n', the tongue rests against the upper teeth while voice resonates through the nose. The contact releases into the mid-front vowel 'e', all within one stressed syllable.",
+  "usage_notes": "The particle comes before any honorific and then the name atom. Published and machine-validated Phi keeps 'ne' at every mention; established conversation may omit it while the referent remains clear. A productive onym has two, three, or four legal Phi syllables, while a source name outside that shape remains outside the Phi passage unless its bearer accepts an adaptation.",
+  "examples": [
+    {
+      "phi": "ne sulae shua.",
+      "translation": "Sulae comes."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The marker separates a designation from the qualities a vocabulary word names. In 'ne thinoe', the bearer comes forward while the ordinary meaning 'seed' steps aside.",
-    "peace-linguistics-practices": "The listener hears before the name lands that the next token identifies rather than describes. This leaves room for bearer-chosen forms without assigning them a shared meaning."
+    "peace-linguistics-practices": "The listener hears before the name arrives that the token identifies rather than describes. This lets a chosen designation remain distinct from any ordinary lexical meaning."
   }
 }

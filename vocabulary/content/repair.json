@@ -8,16 +8,26 @@
     "ka"
   ],
   "pos": "verb",
-  "concept": "Repair / Fix / Restore Function",
-  "description": "To restore something to working condition by fixing what is broken or worn. 'Shiroka' emphasizes the technical work of identifying problems and implementing solutions—the diagnostic eye and skilled hand that return function to what had lost it.",
-  "sound_symbolism": "The word begins with 'shi' /ʃi/, the focused attention of examination—what needs fixing? The high 'i' locates the problem precisely. Then 'ro' rolls into action, work underway. Finally 'ka' concludes with velar completion, the repair finished, function restored.",
-  "grammatical_notes": "'mia keli shiroka.' (I repair the device.) The result noun is licensed by the event-noun rule: 'welao shiroka' (a good repair). Related to 'whori' (mend) but emphasizes technical restoration of function.",
+  "search_terms": [
+    "fix",
+    "restore function"
+  ],
+  "description": "To restore a damaged or worn thing to working condition through diagnosis and technical work. The general verb 'whori' (mend) covers mending; 'shiroka' centres on recovering function, especially in a device or system.",
+  "articulatory_notes": "With 'shi', the blade of the tongue approaches the postalveolar region and lets air pass into high 'i'. Stress falls on trilled 'ro'; final 'ka' closes at the soft palate before releasing into open 'a'.",
+  "sound_symbolism": "The word travels from sustained friction through a trilled centre to the clean release of 'ka'. That movement can recall technical work carried through to a definite finish.",
+  "usage_notes": "The verb is transitive, and its event noun is the resulting repair. Its objects are commonly devices or larger structures and systems whose function can be restored.",
+  "examples": [
+    {
+      "phi": "mia keli shiroka.",
+      "translation": "I repair the device."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Repair extends useful life, honors embedded energy and materials, builds practical skills. Repair cafes and skill-sharing embody this value.",
-    "pre-industrial-wisdom": "When everything was made by hand, everything was repaired by hand. Repair knowledge was survival knowledge."
+    "solarpunk-values": "Technical repair keeps a device, its materials, and the work already in it available for further use.",
+    "pre-industrial-wisdom": "A tool or household object once had to be understood well enough to fix. The verb 'shiroka' names that skilled return to function."
   },
   "semantic_domains": {
-    "creation": "Restoring function to broken things",
-    "wisdom": "Technical skill applied to preservation"
+    "creation": "technical restoration of a damaged object's function",
+    "wisdom": "the diagnosis and skilled work needed to make a device usable again"
   }
 }

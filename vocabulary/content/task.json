@@ -8,16 +8,25 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Task / Bounded Unit of Intended Activity",
-  "description": "One bounded piece of work, named by its action and what it acts on. A task can be proposed, self-chosen, assigned, refused, pending, or complete, and the noun takes no side in any of that: who must do it, and whether it is worth doing, are further sentences. The labor that fills a task is 'riola' (labor), which carries the warmth this neutral noun deliberately lacks.",
-  "sound_symbolism": "The bright tongue tap of 'ri' also opens 'riola' (labor). Stressed 'po' closes the lips and rounds the word into a compact center. Final 'ru' releases that closure with another tongue movement and deep 'u'. Between its two quick liquids, the middle syllable feels like one held piece.",
-  "grammatical_notes": "A countable noun: 'mia ha riporu kelomi.' (I accept this task.) Name the action, object, conditions, source, performer, and completion criterion when they matter. Distinct from 'riola' (purposeful labor), 'sithora' (role), 'naseru' (obligation), and 'pherami' (functional dependency).",
+  "search_terms": [
+    "work item"
+  ],
+  "description": "One bounded piece of work, identified by the action and what it acts on. Whether anyone assigned or accepted it, and whether it is worth doing, belongs in further clauses. Purposeful work is 'riola' (labor); 'riporu' is the unit that can be planned or tracked.",
+  "articulatory_notes": "A tongue tap carries 'ri' into high 'i'. Stressed 'po' closes at the lips and rounds; final 'ru' returns to tongue contact before deep 'u'.",
+  "sound_symbolism": "The word shares 'ri' with 'riola' (labor), an intentional family resemblance. That echo gives the two work words a small aid to memory.",
+  "usage_notes": "The noun is countable. A performer can be designated with 'rilowa' (assign), while 'kelomi' (accept) records acceptance; neither relation is built into the task itself.",
+  "examples": [
+    {
+      "phi": "mia ha riporu kelomi.",
+      "translation": "I accept this task."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Naming bounded tasks can make shared maintenance and invisible practical work available for discussion without treating every activity as a job or commodity.",
-    "peace-linguistics-practices": "A neutral task noun lets speakers distinguish the work unit from the separate questions of request, choice, authority, refusal, and responsibility."
+    "solarpunk-values": "Shared maintenance can be divided into tasks while useful activity remains wider than jobs and commodities.",
+    "peace-linguistics-practices": "Separating a task from its assignment and acceptance keeps an expected action from being mistaken for consent."
   },
   "semantic_domains": {
-    "activity": "a bounded unit of intended or discussed activity",
+    "activity": "one bounded unit of intended or discussed work",
     "cognition": "a selected scope for planning and status description"
   },
   "modules": [

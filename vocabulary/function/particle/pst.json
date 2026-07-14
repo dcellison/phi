@@ -8,12 +8,16 @@
   "slot": 1,
   "slot1_rank": "tense",
   "pos": "particle",
-  "concept": "Past / Before Now / Completed Time",
-  "description": "A verb phrase particle that places actions and states in the past, before the present moment. Present tense is unmarked in Phi, so 'to' is a deliberate step out of the present: the particle for memory, history, and completed experience.",
-  "sound_symbolism": "The dental stop /t̪/ makes a clean point of contact, a definite moment marked. The rounded 'o' closes the syllable with a sense of completion. A stop and a back vowel: brief, final, done.",
-  "grammatical_notes": "Occupies Slot 1, appearing immediately before the verb or verb phrase it modifies. Present tense is unmarked (zero), making past explicitly marked and therefore more conscious. Can combine with other Slot 1 particles following the strict ordering Tense > Aspect > Voice > Evidentiality > Modality > Negation. Thus 'to ki' marks past perfective, 'to si' marks past imperfective. The particle's scope extends only over the verb phrase, not the entire clause.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies the Buddhist understanding of impermanence while acknowledging the reality of karma—what has been done cannot be undone, yet the past exists only in its effects on the present. The crisp 't' marks the past as definite yet gone.",
-    "pre-industrial-wisdom": "Oral traditions understand the past not as abstract timeline but as the accumulation of stories, seasons, and cycles. 'To' carries this sense of the past as what has been gathered and completed, available for wisdom but not for change."
-  }
+  "search_terms": [
+    "past tense"
+  ],
+  "description": "A Slot 1 tense particle that places the clause's event or state before the present moment. Present time is unmarked. The particle marks time rather than completion; aspect particles such as 'ki' (PFV) make the event's internal shape explicit.",
+  "articulatory_notes": "A dental closure at the tongue tip releases directly into mid rounded 'o'. The monosyllable takes full stress.",
+  "usage_notes": "Tense is the first Slot 1 rank, so 'to' precedes any aspect, voice, evidential, modal, or negative particle in the same clause. An embedded clause carries its own 'to' when its event is past relative to the matrix event.",
+  "examples": [
+    {
+      "phi": "shia to wepu.",
+      "translation": "They left."
+    }
+  ]
 }

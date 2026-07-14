@@ -7,12 +7,18 @@
     "su"
   ],
   "pos": "discourse",
-  "concept": "For Example / To Illustrate / As Instance",
-  "description": "Discourse marker introducing a concrete example or specific illustration of a general statement. 'Phisu' moves the sentence from principle to instance—an offered case, not a proof.",
-  "sound_symbolism": "The word begins with 'phi', where the soft bilabial fricative /ɸ/ breathes outward like a gentle offering—no harsh stops or demands, just breath shaped into meaning. The high vowel 'i' focuses attention precisely. This opens into 'su', where the sibilant 's' streams continuously and 'u' grounds the offering. Together, 'phisu' sounds like showing something with open hands: the gentle 'ph' presents, the focused 'i' points, and the flowing 'su' lets understanding settle.",
-  "grammatical_notes": "As a discourse marker, appears sentence-initially to introduce specific examples or concrete illustrations. When sentence-initial, follows Slot 0 particles but precedes the subject. Transitions from abstract or general statements to concrete instances. Example: 'phisu shiro lima nai' (For example, a tree is alive).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Teaching through examples embodies skillful means (upaya)—meeting learners where they are with concrete instances that illuminate abstract truth.",
-    "peace-linguistics-practices": "Provides gentle illustration to support understanding without imposing interpretation. The soft sounds make examples feel like invitations rather than proofs."
-  }
+  "search_terms": [
+    "for example",
+    "instance"
+  ],
+  "description": "A discourse marker introducing a concrete example of a general statement. It offers one case that helps the listener inspect the claim. An example can illustrate or challenge a generalisation; 'phisu' does not label it as proof.",
+  "articulatory_notes": "For 'ph', the lips narrow without closing before high-front 'i'. A tongue groove directs the air through 's', and the lips round for final 'u'; stress falls on the first syllable.",
+  "sound_symbolism": "Its opening fricative places 'phisu' in Phi's designed family of discourse markers. The audible breath comes before the example redirects attention from a general claim to one case.",
+  "usage_notes": "The marker normally stands at the beginning of the sentence it introduces. Any Slot 0 particle comes first, followed by 'phisu' and then the subject.",
+  "examples": [
+    {
+      "phi": "phisu shiro lima nai.",
+      "translation": "For example, a tree is alive."
+    }
+  ]
 }
