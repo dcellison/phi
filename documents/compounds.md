@@ -4,7 +4,7 @@ Canonized compound idioms are multi-word expressions whose meaning is a stable p
 
 New compounds belong here when a text or lesson establishes them; every word inside one must exist in the lexicon.
 
-This registry is machine-checked and machine-published: `python3 scripts/validate_examples.py` verifies every member word against the lexicon, and after any edit here `python3 scripts/generate_reference.py` regenerates the Part VII compound reference while `python3 scripts/build_explorer.py` refreshes the explorer's compound data.
+This registry is machine-checked and machine-published: `python3 scripts/validate_examples.py` verifies every member word against the lexicon, and after any edit here `python3 scripts/generate_reference.py` regenerates the Part VII compound reference while `python3 scripts/build_site.py` refreshes the explorer's compound data.
 
 ## Emotional and mental states
 

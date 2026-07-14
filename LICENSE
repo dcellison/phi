@@ -16,7 +16,7 @@ This repository contains four licensing categories, set out below.
 2. CODE — Apache License 2.0.
 
    The software in this repository — everything under scripts/ and
-   web/ (excluding the fonts, see below), and the workflow files under
+   site/ (excluding the fonts, see below), and the workflow files under
    .github/ — is licensed under the Apache License, Version 2.0.
    Full text: LICENSES/Apache-2.0.txt
 
@@ -49,7 +49,7 @@ This repository contains four licensing categories, set out below.
    preserve the same license for adaptations. Full text:
    https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
 
-FONTS. The font files under web/fonts/ are third-party works under the
+FONTS. The font files under site/fonts/ are third-party works under the
 SIL Open Font License 1.1; see the OFL-*.txt files alongside them. The
 Tengwar Telcontar font under writing_systems/fonts/, used only to
 generate the Tengwar glyph outlines in writing_systems/tengwar_glyphs.json,

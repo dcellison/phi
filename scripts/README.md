@@ -43,13 +43,13 @@ Regenerates the Part VII alphabetical, semantic-domain, optional-module, and par
 python3 scripts/generate_reference.py
 ```
 
-## build_explorer.py
+## build_site.py
 
-Bundles the vocabulary into `web/lexicon.json` and the compound registry into `web/compounds.json` (both generated, gitignored) for the lexicon explorer, and renders the primer, manual, texts, and pamphlets. Optional module metadata powers the explorer's module filter, nested Part VII module chapters are included in the manual site, and the explorer surfaces registered compounds in search results and on their member words' entries.
+Builds the complete deployment tree under `build/site/`. It copies the maintained assets from `site/`, generates the explorer's vocabulary and compound data, and renders the primer, manual, book, texts, and pamphlets. Optional module metadata powers the explorer's module filter, nested Part VII module chapters appear in the manual site, and registered compounds appear in search results and on their member words' entries.
 
 ```bash
-python3 scripts/build_explorer.py
-python3 -m http.server -d web        # then open http://localhost:8000
+python3 scripts/build_site.py
+python3 -m http.server -d build/site  # then open http://localhost:8000
 ```
 
 ## lexicon_tool_simple.py

@@ -8,7 +8,7 @@ description: |
   coining or composing over compressing away imagery or settling for
   a near-word. Structure the result as validated example blocks with
   a gap log. Use for any new or revised file on the texts shelf
-  (pamphlets/*.md rendered to web/texts/), whether a whole chapter or
+  (texts/*.md and texts/news_from_nowhere/*.md, rendered under build/site/texts/), whether a whole chapter or
   a single-line correction.
 compatibility: phi-repo (Claude Code)
 allowed-tools:
@@ -139,7 +139,7 @@ Notes and gap logs state the transmutation's current reasoning. They are never a
 - Reread every back-translation against the lexicon entry of its own Phi words, not just its citation (see the check in step 7); a back-translation can be a technically correct gloss and still flatten a word chosen for its intensity, or claim a stronger meaning than a plain word actually has, and the validator has no way to catch either direction.
 - Reread every sentence in grammar order (step 6); the validator's postposed-preposition net is narrow by design and the Slot 1 check only sees adjacent runs, so neither replaces the read-back.
 - Before coining, run `python3 scripts/validate_examples.py neighbors <candidate>`.
-- If any vocabulary JSON or `documents/compounds.md` changed, regenerate: `python3 scripts/generate_reference.py` and `python3 scripts/build_explorer.py`.
+- If any vocabulary JSON or `documents/compounds.md` changed, regenerate: `python3 scripts/generate_reference.py` and `python3 scripts/build_site.py`.
 - Invoke the actual humanizer skill (the tool call, not a hand-applied summary of its pattern list) on any new or changed prose, intro, notes, gap log, before committing. Never touch the Phi example blocks, gloss lines, or source-quote lines.
 - Work on a branch, open a PR, flag judgment calls explicitly in the body, and wait for merge before cleaning up.
 

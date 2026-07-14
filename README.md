@@ -28,7 +28,7 @@ Five shelves divide the work. `documents/` says what the language **is**, the ma
 | [pamphlets/](pamphlets/) | Focused teaching companions with extended explanation, exercises, and answer keys. |
 | [canon.md](canon.md) | The authority order when documents disagree, and every settled design decision. |
 | [colophon.md](colophon.md) | How Phi is made: the designer, the instrument, and the rules between them. Signed at the end, in the old way. |
-| [web/](web/) | The lexicon explorer — a static, searchable view over the vocabulary. Build and serve locally with `python3 scripts/build_explorer.py && python3 -m http.server -d web`. |
+| [site/](site/) | Maintained website assets for the lexicon explorer and reading shelves. Build the deployable site with `python3 scripts/build_site.py`; generated output goes to ignored `build/site/`. |
 
 ## Working on the repository
 
@@ -42,7 +42,7 @@ This checks the lexicon against the schema and the sound rules, forbids new mini
 
 ## Licensing
 
-Three answers for three things. **The language itself is free.** Phi's words, sounds, and grammar may be used, spoken, written, and built on by anyone, forever, with no permission needed. **The code** in `scripts/`, `web/`, and `.github/` is Apache 2.0. **The content** in the lexicon, manual, primer, texts, pamphlets, and documents uses [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt): share and adapt it with attribution for noncommercial purposes, and keep derivatives under the same license. The Solarpunk Manifesto source and translation retain the source's CC BY-SA 4.0 license. [LICENSE](LICENSE) has the details.
+Three answers for three things. **The language itself is free.** Phi's words, sounds, and grammar may be used, spoken, written, and built on by anyone, forever, with no permission needed. **The code** in `scripts/`, `site/`, and `.github/` is Apache 2.0. **The content** in the lexicon, manual, primer, texts, pamphlets, and documents uses [CC BY-NC-SA 4.0](LICENSES/CC-BY-NC-SA-4.0.txt): share and adapt it with attribution for noncommercial purposes, and keep derivatives under the same license. The Solarpunk Manifesto source and translation retain the source's CC BY-SA 4.0 license. [LICENSE](LICENSE) has the details.
 
 ---
 
