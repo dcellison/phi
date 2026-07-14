@@ -7,15 +7,26 @@
     "a"
   ],
   "pos": "pronoun",
-  "concept": "You / Second Person Singular",
-  "description": "The second-person singular pronoun, marking the one addressed in discourse. More than pointing at another, 'thia' creates the sacred space of dialogue, acknowledging the other as a full participant whose presence transforms monologue into conversation, whose response completes meaning.",
-  "sound_symbolism": "The word begins with 'thi', where the interdental fricative 'θ' requires the tongue's most thoughtful placement—neither fully in nor out, but carefully positioned between teeth. This deliberate articulation honors the care required in addressing another. The high vowel 'i' focuses attention precisely on the addressed one. This focused attention then opens into 'a', acknowledging the other's wholeness beyond the role of listener. The acoustic journey from careful address through focused attention to open recognition mirrors ethical encounter—approaching the other with care, seeing them clearly, then honoring their fullness.",
-  "grammatical_notes": "Functions as the second-person singular pronoun without case marking, maintaining the same form whether subject, object, or within prepositional phrases. No distinction between formal and informal address—all beings deserve the same thoughtful recognition. Gender-neutral, allowing the addressed to exist beyond imposed categories. Creates the foundational I-thou relationship that makes all other grammar meaningful. Plural: 'lo thia' (you all). Example: 'wa thia towe nai' (Are you well?).",
+  "search_terms": [
+    "you",
+    "second person singular",
+    "addressee"
+  ],
+  "description": "The pronoun 'thia' is Phi's second-person singular: the one addressed, English you. It works unchanged as subject or object and can also possess a noun or follow a preposition. Plural address is 'lo thia'; politeness, when wanted, belongs to the separate particle 'pi' (POL).",
+  "articulatory_notes": "Place the tongue tip lightly between the upper and lower teeth for unvoiced 'th'. Air passes along it into high-front unrounded 'i'. Keep 'i' and the following open-central 'a' in separate syllables, with stress on 'thi'.",
+  "sound_symbolism": "The tongue shows briefly between the teeth for 'th', then the two vowels open the mouth. In Phi, that visible beginning can recall the plainness of direct address.",
+  "usage_notes": "A bare 'thia' that opens a predicate clause means you as subject. A following noun becomes possessive only when the larger sentence rules out subjecthood; predicative possession uses 'phelu' (hold). The unquantified plural is 'lo thia'.",
+  "examples": [
+    {
+      "phi": "mia thia whaline.",
+      "translation": "I thank you."
+    },
+    {
+      "phi": "wa lo thia shea nai.",
+      "translation": "Are you all at peace?"
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Direct address creates the accountability and connection necessary for collaborative futures. 'Thia' enables the face-to-face relationships where trust builds, where mutual aid becomes possible, where community solutions emerge through dialogue.",
-    "secular-buddhist-philosophy": "The pronoun treats the addressed one as another self—different yet equal, separate yet connected. Its slow interdental onset gives the speaker a moment to mean that.",
-    "art-nouveau-aesthetics": "Like the movement's attention to the viewer's experience, 'thia' creates beauty through relationship. The careful articulation becomes an aesthetic act, making every address a small artwork of human recognition, every 'you' a crafted acknowledgment.",
-    "peace-linguistics-practices": "The thoughtful fricative 'θ' makes addressing another a considered act rather than a thrown demand. This phonetic choice shapes every conversation toward care—we cannot say 'you' in Phi without the tongue performing attention. Such built-in mindfulness reduces verbal violence.",
-    "pre-industrial-wisdom": "Traditional cultures developed complex address systems reflecting kinship, age, achievement, and relationship. 'Thia' carries this understanding that how we say 'you' shapes the relationship, that address is never neutral but always creates connection."
+    "peace-linguistics-practices": "The pronoun identifies the addressee, while separate 'pi' marks a polite manner. The same you works across formal and familiar relationships."
   }
 }
