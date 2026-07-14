@@ -8,12 +8,19 @@
   "slot": 1,
   "slot1_rank": "voice",
   "pos": "particle",
-  "concept": "Passive Voice / Receiving Action / Patient Focus",
-  "description": "A voice particle that shifts focus from the doer to the receiver of action, allowing events to be described from the perspective of what undergoes rather than what causes. More than hiding agency, 'se' acknowledges that sometimes the experience of receiving matters more than the act of doing.",
-  "sound_symbolism": "The particle begins with 's', the soft sibilant that flows without aggression—appropriate for marking the gentleness of receiving rather than acting. This receptive consonant meets 'e', a neutral mid vowel that neither rises with effort nor sinks with weight. Together, 'se' creates a sound of allowing: the flowing 's' accepts what comes while the balanced 'e' maintains equilibrium. The acoustic gentleness ensures that even in describing actions done to others, the language maintains its peaceful character.",
-  "grammatical_notes": "Occupies Slot 1 in the voice position: after tense and aspect, before evidential and modal particles. Promotes the patient (object) to subject position while demoting or omitting the agent. The agent, if expressed, requires a prepositional phrase. Creates patient-focused sentences: active 'mia nophi kealo' (I create the story) becomes passive 'nophi se kealo' (the story is created). Does not imply negativity about receiving action—maintains neutrality about whether the experienced action is beneficial or harmful. The voice rank's pair is fixed 'se ka': the passive of a causative ('lopia se ka nulae', the child is made to sleep).",
+  "search_terms": [
+    "passive voice"
+  ],
+  "description": "In a passive clause, 'se' promotes the patient of an action to subject position and allows the agent to go unexpressed. Attention stays with the affected participant or the result.",
+  "articulatory_notes": "A central groove in the tongue directs air through 's', then the tongue relaxes into true-mid front 'e'. The complete form is a fully stressed monosyllable.",
+  "usage_notes": "Voice follows aspect and precedes evidentiality. Within that rank, 'se ka' is the only permitted pair and its order is fixed. Apart from this pairing, a clause uses a single voice particle.",
+  "examples": [
+    {
+      "phi": "nophi se kealo.",
+      "translation": "The story is created."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies the teaching of non-self in grammar—actions arise from conditions rather than autonomous agents. Sometimes wisdom means acknowledging effects without fixating on causes, experiencing results without seeking someone to praise or blame.",
-    "peace-linguistics-practices": "By making passive voice easily available, 'se' enables speakers to discuss harmful actions without focusing on blame. Instead of 'who did this?', we can explore 'what was experienced?'—shifting from accusation to understanding, from perpetrator-focus to healing-focus."
+    "peace-linguistics-practices": "The passive can centre the person or thing affected before a conversation turns to who acted. Because it may leave the agent unsaid, responsibility sometimes needs its own next sentence."
   }
 }

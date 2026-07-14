@@ -8,12 +8,18 @@
   "slot": 1,
   "slot1_rank": "aspect",
   "pos": "particle",
-  "concept": "Perfective / Completed / Whole Action",
-  "description": "An aspect particle that marks an action as a complete whole, viewed from outside as a finished event. Some experiences read as single bounded events rather than ongoing processes; 'ki' marks that reading.",
-  "sound_symbolism": "The particle begins with 'k', a sharp velar stop that creates clear acoustic boundaries—the back of the tongue briefly blocking airflow completely before release. This decisive consonant meets 'i', the highest, most focused vowel, like a pin marking a precise point. Together, 'ki' sounds like completion itself: sharp, clear, definitive. The sound requires full closure and clean release, training speakers to recognize when actions form complete gestalts rather than flowing processes.",
-  "grammatical_notes": "Occupies Slot 1, appearing after tense markers but before voice/modality particles. Combines with tenses to create specific temporal-aspectual meanings: 'to ki' (had completed), 'so ki' (will have completed). Unmarked verbs are aspectually neutral, making perfective explicitly marked and conscious. Views events from outside, as bounded wholes—contrasting with imperfective 'si' which views events from within. Often used for achievements, accomplishments, and any action conceived as a complete unit.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies the teaching that some experiences must be allowed their completion—like meditation sessions that have beginning and end, or the full cycle of breath. 'Ki' acknowledges that wisdom includes knowing when something is finished.",
-    "pre-industrial-wisdom": "Living by natural cycles teaches recognition of completion—harvest finished, journey ended, season turned. 'Ki' carries this understanding that some processes must be seen as wholes to be properly understood, like knowing a crop cycle from seed to harvest."
-  }
+  "search_terms": [
+    "perfective aspect",
+    "completed event"
+  ],
+  "description": "Perfective 'ki' presents an event as a completed whole at its tense's reference time. The counterpart 'si' (IPFV) shows the event from within while it is still in progress; an unmarked verb commits to neither view.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for 'k', then opens onto high-front unrounded 'i'. The particle has one syllable, under full stress.",
+  "sound_symbolism": "The complete velar closure and quick release give 'ki' a clipped contour. That small boundary can help a learner remember the complete-event reading.",
+  "usage_notes": "Aspect occupies the rank between tense and voice. Bare 'ki' means have done, 'to ki' means had done, and 'so ki' means will have done. No clause carries two aspect particles.",
+  "examples": [
+    {
+      "phi": "mia to ki theo.",
+      "translation": "I had read."
+    }
+  ]
 }

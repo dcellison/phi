@@ -8,13 +8,20 @@
   "slot": 1,
   "slot1_rank": "evidentiality",
   "pos": "particle",
-  "concept": "Direct Evidence / Witnessed / Sensory",
-  "description": "An evidential particle marking information as directly witnessed through the speaker's own senses. An unmarked sentence claims no source, so 'hi' appears when firsthand knowledge is claimed outright: testimony, contrast with other sources, or any moment the witnessing itself is the message. To use it is to claim presence: the speaker was there and paying attention.",
-  "sound_symbolism": "The particle begins with 'h', the most open and unobstructed consonant—pure breath flowing without barrier, just as direct perception flows without intermediary. This aspirate meets 'i', the brightest and most forward vowel, associated with clarity, precision, and keen awareness. Together, 'hi' sounds like the gasp of recognition, the clear-eyed 'I see.' The openness of 'h' suggests nothing hidden or filtered, while 'i' brings the sharpness of direct sensory contact.",
-  "grammatical_notes": "Occupies Slot 1 in the evidentiality position: after voice, before modality. Stacking order: Tense > Aspect > Voice > Evidentiality > Modality > Negation. An unmarked sentence is a plain assertion claiming no source; 'hi' adds the witness claim explicitly, and takes on its accountability. Example: 'mia hi nila' (I see [I directly witness this]) emphasizes the directness when it might otherwise be questioned. Combines naturally with sensory verbs but can mark any directly witnessed event.",
+  "search_terms": [
+    "direct evidence",
+    "witnessed evidence"
+  ],
+  "description": "The direct evidential 'hi' explicitly claims that the speaker perceived the event through their own senses. An unmarked assertion names no source, so 'hi' is chosen when witnesshood itself matters. The inferential 'ke' (INFER) instead signals a conclusion drawn from signs.",
+  "articulatory_notes": "Breath passes freely through the open glottis for 'h' and moves into high-front 'i'. Stress falls across the whole particle.",
+  "usage_notes": "The Slot 1 sequence puts evidentiality after voice and before modality. One evidential particle is the limit for a clause, and past witnesshood keeps tense first in the sequence 'to hi'.",
+  "examples": [
+    {
+      "phi": "shia to hi wepu.",
+      "translation": "They left; I witnessed it."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Direct experience is the foundation of Buddhist epistemology—the Buddha encouraged practitioners to verify teachings through their own experience rather than accepting them on faith. 'Hi' grammaticalizes this emphasis on firsthand knowing, honoring the irreplaceable value of what we witness ourselves.",
-    "peace-linguistics-practices": "By making evidence source explicit, 'hi' supports honest communication. It prevents the subtle violence of presenting secondhand information as witnessed fact. When speakers mark their direct experiences, listeners can calibrate their trust appropriately.",
-    "pre-industrial-wisdom": "Oral traditions distinguish carefully between what was witnessed and what was heard. Elders who saw events carry different authority than those who learned of them later. 'Hi' honors this distinction, acknowledging that presence matters."
+    "peace-linguistics-practices": "In testimony or disagreement, 'hi' puts the speaker on record as a witness before the evidence is weighed."
   }
 }

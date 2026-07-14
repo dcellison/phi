@@ -8,14 +8,21 @@
   "slot": 1,
   "slot1_rank": "modality",
   "pos": "particle",
-  "concept": "Must / Need / Necessity",
-  "description": "A modal particle marking the verb's action as necessary, required, or needed. The necessity can be physical, logical, moral, or practical; 'na' marks that it holds, and context says what kind and how strong.",
-  "sound_symbolism": "The particle consists of 'n', the grounding nasal consonant that resonates through bone, creating connection between speaker and earth. This rooted sound meets 'a', the most open and fundamental vowel. Together, 'na' sounds like necessity itself: the 'n' grounds us in what cannot be avoided while the 'a' opens to accept what must be. The nasal resonance creates a sense of deep recognition—not surface rules but bone-deep requirements.",
-  "grammatical_notes": "Occupies Slot 1 in the modality position: after tense, aspect, voice, and evidential particles, before negation. Expresses various types of necessity: physical needs ('must breathe'), logical requirements ('must be true'), moral obligations ('must help'), and practical necessities ('must leave now'). Context determines the source and strength of necessity. Combines with other particles: 'to na' (had to/needed to), 'na ma' (must not—the necessity is to refrain). Absence of obligation ('need not') is never expressed by reordering; it uses the freedom periphrasis: 'thia lila wepu ralu nai' (you need not go).",
+  "search_terms": [
+    "necessity",
+    "must",
+    "need"
+  ],
+  "description": "Modal 'na' presents a predicate as necessary. The source may be a physical constraint, logical conclusion, stated obligation, or practical need; context supplies the reading. The modal 'po' (POT) concerns possibility instead.",
+  "articulatory_notes": "For dental 'n', the tongue tip rests against the backs of the upper teeth while voice passes through the nose. The contact releases as the tongue lowers into open-central 'a', and stress covers the resulting syllable.",
+  "usage_notes": "Evidentiality precedes the modal rank, and negation follows it. 'Na ma' means must not, with the necessity applied to refraining. Absence of obligation uses the freedom expression 'thia lila wepu ralu nai' (you need not go), not a reordered particle stack.",
+  "examples": [
+    {
+      "phi": "mia na nulae.",
+      "translation": "I need to sleep."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Understanding ecological limits means recognizing real necessities—carbon must be sequestered, soil must be rebuilt, communities must adapt. 'Na' enables clear communication about what regenerative systems require, distinguishing urgent needs from optional enhancements.",
-    "secular-buddhist-philosophy": "The particle embodies the first noble truth—acknowledging what cannot be avoided. Like recognizing that all beings must face aging, illness, and death, 'na' creates grammatical honesty about necessity while maintaining equanimity rather than despair.",
-    "peace-linguistics-practices": "By grounding necessity in the body ('n') rather than harsh commands, 'na' expresses requirements without violence. It acknowledges what must be done while maintaining the speaker's and listener's dignity.",
-    "pre-industrial-wisdom": "Living close to natural cycles teaches real necessity—seeds must be planted in season, water must be found, shelter must be maintained. 'Na' carries this practical wisdom that distinguishes true needs from mere wants."
+    "peace-linguistics-practices": "Because 'na' makes necessity audible, a listener can ask what creates it. In an instruction, the particle records the necessity claim without turning it into consent."
   }
 }

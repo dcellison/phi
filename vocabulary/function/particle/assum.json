@@ -8,13 +8,21 @@
   "slot": 1,
   "slot1_rank": "evidentiality",
   "pos": "particle",
-  "concept": "Assumptive Evidence / Supposed / Presumed",
-  "description": "An evidential particle that marks information as assumed or supposed rather than known through direct evidence or report. 'Ho' signals epistemic humility—the speaker is working from general expectations, background knowledge, or reasonable presumption rather than specific evidence. It creates space for uncertainty while still allowing meaningful communication about what is likely or expected.",
-  "sound_symbolism": "The particle begins with 'h', the softest consonant—pure breath without obstruction, suggesting tentativeness and openness rather than assertion. This gentle aspirate meets 'o', the rounded back vowel of containment and holding. Together, 'ho' sounds like a thoughtful exhalation, the breath of contemplation before committing to a claim. The 'h' suggests the speaker holds this knowledge lightly, while the rounded 'o' creates a sense of something held in possibility rather than grasped as certain.",
-  "grammatical_notes": "Occupies Slot 1 in the evidentiality position: after voice, before modality. Stacking order: Tense > Aspect > Voice > Evidentiality > Modality > Negation. Used for assumptions, presumptions, and expectations not based on specific evidence. Example: 'thia ho shelomu' (You understand [I assume]) expresses a reasonable expectation without claiming direct knowledge. Distinct from possibility 'po' (which marks what could happen) and inferential 'ke' (which marks conclusions from evidence). 'Ho' marks claims based on general expectation or supposition.",
+  "search_terms": [
+    "assumptive evidence",
+    "presumption"
+  ],
+  "description": "Assumptive 'ho' rests on background expectation rather than evidence specific to the present case. The inferential 'ke' (INFER) starts from particular signs. The form 'ho' gives the basis of the claim, while 'po' (POT) concerns the possibility of the event itself.",
+  "articulatory_notes": "An open glottis lets breath form 'h' before the tongue draws back and the lips round for true-mid 'o'. Stress covers the monosyllable.",
+  "sound_symbolism": "The breath-led onset and rounded finish give 'ho' a lightly held contour. That softness can serve as a mnemonic for assumption.",
+  "usage_notes": "The evidential rank comes after voice and before modality. Future 'so' can combine with 'ho', but one clause cannot carry a second evidential source.",
+  "examples": [
+    {
+      "phi": "shia ho womu nai.",
+      "translation": "They are probably home."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Buddhism emphasizes examining our assumptions rather than mistaking them for knowledge. 'Ho' creates grammatical mindfulness about the difference between what we know and what we assume—a practice of noticing when we're operating from expectation rather than evidence.",
-    "art-nouveau-aesthetics": "There is beauty in uncertainty honestly held. Like the organic forms of Art Nouveau that suggest rather than define, 'ho' allows statements to breathe, acknowledging the space between what we suppose and what we know. Epistemic humility has its own aesthetic grace.",
-    "peace-linguistics-practices": "Many conflicts arise from unstated assumptions presented as facts. 'Ho' makes assumptions visible, allowing them to be questioned and examined. When speakers mark their suppositions, listeners can offer corrections without the defensive dynamics that come from challenging 'facts.'"
+    "peace-linguistics-practices": "When a claim concerns another person's state, 'ho' keeps the assumption open to that person's correction."
   }
 }

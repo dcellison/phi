@@ -8,13 +8,20 @@
   "slot": 1,
   "slot1_rank": "evidentiality",
   "pos": "particle",
-  "concept": "Inferential Evidence / Deduced / Reasoned",
-  "description": "An evidential particle that marks information as inferred from evidence rather than directly witnessed. 'Ke' signals that the speaker has reasoned toward a conclusion based on observable signs, patterns, or logical deduction. It embodies epistemic honesty—acknowledging that even well-founded conclusions involve interpretive leaps beyond raw perception.",
-  "sound_symbolism": "The particle begins with 'k', a velar stop that requires the tongue to make deliberate contact at the back of the mouth—a sound of mental crystallization, of thought clicking into place. This decisive consonant meets 'e', the mid-front vowel of careful consideration, neither as sharp as the highest vowel nor as open as the lowest. Together, 'ke' sounds like the moment of realization, the quiet 'aha' of inference. The clean stop of 'k' suggests the definiteness of a conclusion reached, while 'e' maintains thoughtful reserve.",
-  "grammatical_notes": "Occupies Slot 1 in the evidentiality position: after voice, before modality. Stacking order: Tense > Aspect > Voice > Evidentiality > Modality > Negation. Used when the speaker has evidence but did not directly witness the event. Example: 'shia to ke wepu' (She left [I infer]) might be said upon finding an empty room and a goodbye note. Combines naturally with reasoning contexts and explanatory discourse.",
+  "search_terms": [
+    "inferential evidence",
+    "deduction"
+  ],
+  "description": "With inferential 'ke', the speaker presents a claim as a conclusion from specific evidence rather than a witnessed event. The wording leaves the step between observed signs and claim in view. General expectation instead takes 'ho' (ASSUM).",
+  "articulatory_notes": "A velar closure at the back of the tongue releases 'k' into true-mid front 'e'. The complete word is monosyllabic and stressed.",
+  "usage_notes": "The particle occupies the evidential rank after voice and before modality. Only one source particle appears in a clause, so competing grounds for a claim require separate sentences.",
+  "examples": [
+    {
+      "phi": "shia to ke wepu.",
+      "translation": "It appears that they left."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building sustainable futures requires reasoning about complex systems—inferring consequences, tracing causes, projecting outcomes. 'Ke' validates this essential cognitive work while maintaining humility about the gap between evidence and conclusion.",
-    "secular-buddhist-philosophy": "Buddhist epistemology values inference (anumana) as a valid source of knowledge, distinct from direct perception but still reliable when properly grounded. 'Ke' honors this distinction—inference is neither dismissed nor conflated with direct knowing, but given its proper place.",
-    "peace-linguistics-practices": "Marking inferences explicitly prevents the violence of presenting conclusions as witnessed facts. When speakers acknowledge 'I infer this,' listeners can engage with the reasoning rather than simply accepting or rejecting claims. This opens space for collaborative truth-seeking."
+    "peace-linguistics-practices": "With 'ke', a conclusion can be stated while the gap between observed sign and inferred event stays audible. A listener has room to ask about the evidence rather than contest an implied eyewitness claim."
   }
 }
