@@ -39,13 +39,13 @@ The central argument can remain. Phi orders relations before the heads they modi
 
 #### Verified
 
-The chisel example is reproduced exactly from [`short_road.md`](short_road.md), and `canon.md` gives the same sentence as the model for S PP O V order. The lexical forms and glosses pass `python3 scripts/validate_examples.py`; the validator reported 1,168 entries checked with zero errors and zero warnings.
+The chisel example is reproduced exactly from [`short_road.md`](../short_road.md), and `canon.md` gives the same sentence as the model for S PP O V order. The lexical forms and glosses pass `python3 scripts/validate_examples.py`; the validator reported 1,168 entries checked with zero errors and zero warnings.
 
-The statement that whatever modifies, specifies, or relates comes before what it affects is also reproduced faithfully from `short_road.md`. The manual's chapter on the modifier-first principle and `documents/modifier_first_philosophy.md` give the fuller account named in the final source note. The adjective, possessor, preposition, interrogative, and dependent-clause examples are consistent with those sources.
+The statement that whatever modifies, specifies, or relates comes before what it affects is also reproduced faithfully from `short_road.md`. The manual's chapter on the modifier-first principle and `documents/design/modifier_first_philosophy.md` give the fuller account named in the final source note. The adjective, possessor, preposition, interrogative, and dependent-clause examples are consistent with those sources.
 
-The Gibran passage at lines 18 to 20 is copied exactly from [`texts/prophet_excerpts.md`](texts/prophet_excerpts.md). Its source line corresponds to the sentence in the "On Giving" section of the [1923 Project Gutenberg text](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm). [WorldCat's first-edition record](https://search.worldcat.org/title/283875) confirms Kahlil Gibran, New York, Alfred A. Knopf, and 1923. Calling the Phi line a rendering is correct.
+The Gibran passage at lines 18 to 20 is copied exactly from [`texts/prophet_excerpts.md`](../texts/prophet_excerpts.md). Its source line corresponds to the sentence in the "On Giving" section of the [1923 Project Gutenberg text](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm). [WorldCat's first-edition record](https://search.worldcat.org/title/283875) confirms Kahlil Gibran, New York, Alfred A. Knopf, and 1923. Calling the Phi line a rendering is correct.
 
-The boatman sentence summarized at line 25 appears exactly in [`book/00_the_boatman.md`](book/00_the_boatman.md). That chapter supports the account of `mena`, `meno`, `to ho`, and the final verb `remo`.
+The boatman sentence summarized at line 25 appears exactly in [`book/00_the_boatman.md`](../book/00_the_boatman.md). That chapter supports the account of `mena`, `meno`, `to ho`, and the final verb `remo`.
 
 #### Qualification worth preserving
 

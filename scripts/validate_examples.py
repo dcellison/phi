@@ -68,11 +68,11 @@ import generate_reference
 import name_forms
 
 PROJECT_ROOT = Path(__file__).parent.parent
-MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "minimal_pairs_baseline.txt"
+MINIMAL_PAIRS_FILE = PROJECT_ROOT / "documents" / "validation" / "minimal_pairs_baseline.txt"
 FOUR_SYLLABLE_MIGRATION_FILE = (
-    PROJECT_ROOT / "documents" / "four_syllable_migration.tsv"
+    PROJECT_ROOT / "documents" / "validation" / "four_syllable_migration.tsv"
 )
-RETIRED_FORMS_FILE = PROJECT_ROOT / "documents" / "retired_forms.txt"
+RETIRED_FORMS_FILE = PROJECT_ROOT / "documents" / "validation" / "retired_forms.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
@@ -557,7 +557,7 @@ def check_lexicon(entries):
 
     # Minimal-pair ratchet: no two content words may sit at edit
     # distance 1 unless the pair is grandfathered in the committed
-    # baseline (documents/minimal_pairs_baseline.txt). The baseline
+    # baseline (documents/validation/minimal_pairs_baseline.txt). The baseline
     # may only shrink: new pairs are errors, resolved pairs become
     # stale lines to prune.
     baseline = set()
@@ -581,12 +581,12 @@ def check_lexicon(entries):
         errors.append(
             f"minimal pair: content words '{pair[0]}' and '{pair[1]}' are "
             f"at edit distance 1 and not in the grandfathered baseline; "
-            f"rename one (see documents/minimal_pairs_baseline.txt)"
+            f"rename one (see documents/validation/minimal_pairs_baseline.txt)"
         )
     for pair in sorted(baseline - live_pairs):
         warnings.append(
             f"stale baseline line: '{pair[0]} {pair[1]}' is no longer a "
-            f"minimal pair; prune it from minimal_pairs_baseline.txt"
+            f"minimal pair; prune it from documents/validation/minimal_pairs_baseline.txt"
         )
 
     # Phi examples quoted inside JSON prose fields must use real words
@@ -711,7 +711,7 @@ def check_lexicon(entries):
     )
     if redundant_long_retirements:
         errors.append(
-            "retired_forms.txt must not list four-syllable forms; the "
+            "documents/validation/retired_forms.txt must not list four-syllable forms; the "
             "universal lexical ceiling already excludes them: "
             f"{redundant_long_retirements}"
         )
@@ -1340,18 +1340,18 @@ def check_compound_registry(lexicon_words):
     errors = []
     compounds = compound_registry.load_compounds()
     if not compounds:
-        errors.append("documents/compounds.md: no registry rows parsed")
+        errors.append("documents/reference/compounds.md: no registry rows parsed")
     seen = set()
     for c in compounds:
         if c["compound"] in seen:
             errors.append(
-                f"documents/compounds.md: duplicate registry row for `{c['compound']}`"
+                f"documents/reference/compounds.md: duplicate registry row for `{c['compound']}`"
             )
         seen.add(c["compound"])
         for token in c["tokens"]:
             if token not in lexicon_words:
                 errors.append(
-                    f"documents/compounds.md: compound `{c['compound']}` "
+                    f"documents/reference/compounds.md: compound `{c['compound']}` "
                     f"uses '{token}', which is not in the lexicon"
                 )
     expected = generate_reference.compounds_reference(compounds)
@@ -1415,7 +1415,7 @@ def main():
         errors.extend(check_active_prose(args.paths))
         if not args.paths:
             errors.extend(check_citations())
-        if not args.paths or "documents/compounds.md" in args.paths:
+        if not args.paths or "documents/reference/compounds.md" in args.paths:
             errors.extend(check_compound_registry(lexicon_words))
 
     for e in errors:

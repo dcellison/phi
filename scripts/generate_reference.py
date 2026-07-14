@@ -12,7 +12,7 @@ Writes four markdown files under manual/part7_reference/lexicon/:
   - by_pos.md         all words grouped by part of speech / function class
 
 and one under manual/part7_reference/:
-  - compounds.md      every canonized compound idiom, from documents/compounds.md
+  - compounds.md      every canonized compound idiom, from documents/reference/compounds.md
 
 The vocabulary JSON and the compound registry remain the single sources
 of truth; these files are GENERATED artifacts. Never edit them by hand —
@@ -39,7 +39,7 @@ HEADER = """<!-- GENERATED FILE — do not edit.
 """
 
 COMPOUNDS_HEADER = """<!-- GENERATED FILE — do not edit.
-     Source of truth: documents/compounds.md
+     Source of truth: documents/reference/compounds.md
      Regenerate with: python3 scripts/generate_reference.py -->
 
 """

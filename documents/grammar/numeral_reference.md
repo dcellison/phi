@@ -289,7 +289,7 @@ Three is within the small range adults can commonly identify without serial coun
 
 Base three is a coherent compositional design but unusual among documented natural numeral systems. A small base does not by itself make a numeral system unlearnable, while unfamiliar grouping, longer number words, operand syntax, and conversion from a familiar base add learning and working-memory demands. Phi treats that cost as acceptable but does not present it as cognitively universal or morally transformative.
 
-The numeral system can make some exact counts longer and some approximate or sufficiency expressions readily available. It cannot by grammar alone cause contentment, sharing, equality, ecological care, or nonviolence. Those are values speakers may pursue through institutions, choices, and explicit discussion. See `documents/psychological_violence_of_measurement.md` for the design argument and its evidence boundaries.
+The numeral system can make some exact counts longer and some approximate or sufficiency expressions readily available. It cannot by grammar alone cause contentment, sharing, equality, ecological care, or nonviolence. Those are values speakers may pursue through institutions, choices, and explicit discussion. See `documents/design/psychological_violence_of_measurement.md` for the design argument and its evidence boundaries.
 
 ## Quick reference
 
@@ -308,5 +308,5 @@ The numeral system can make some exact counts longer and some approximate or suf
 
 - Manual teaching chapter: `manual/part4_grammar/ch12_numbers/`
 - Particle inventory: `documents/grammar/particle_reference.md`
-- Design argument and evidence boundaries: `documents/psychological_violence_of_measurement.md`
+- Design argument and evidence boundaries: `documents/design/psychological_violence_of_measurement.md`
 - Canonical grammar rulings: `canon.md`

@@ -84,4 +84,4 @@ Slobin, Dan I. 1996. From "thought and language" to "thinking for speaking." In 
 
 ### Phi sources
 
-The Phi material in this chapter comes from `short_road.md`, `documents/modifier_first_philosophy.md`, and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`. The Gibran example is in `texts/prophet_excerpts.md`.
+The Phi material in this chapter comes from `short_road.md`, `documents/design/modifier_first_philosophy.md`, and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`. The Gibran example is in `texts/prophet_excerpts.md`.

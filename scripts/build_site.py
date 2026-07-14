@@ -53,7 +53,7 @@ out = BUILD_SITE / "lexicon.json"
 out.write_text(json.dumps(entries, ensure_ascii=False, separators=(",", ":")))
 print(f"wrote {out.relative_to(ROOT)}: {len(entries)} entries, {out.stat().st_size // 1024} KB")
 
-# ---- compound registry: documents/compounds.md to build/site/compounds.json ----
+# ---- compound registry: documents/reference/compounds.md to build/site/compounds.json ----
 ALL_WORDS = {e["word"] for e in entries}
 CELL_MD = re.compile(r"`([^`]+)`|\*([^*]+)\*")
 
@@ -284,8 +284,8 @@ def link_text_citations(html):
         html,
     )
     html = html.replace(
-        "<code>documents/compounds.md</code>",
-        '<a href="../manual/part7_reference__compounds.html"><code>documents/compounds.md</code></a>',
+        "<code>documents/reference/compounds.md</code>",
+        '<a href="../manual/part7_reference__compounds.html"><code>documents/reference/compounds.md</code></a>',
     )
     return html
 

@@ -28,7 +28,7 @@ Repeat one chosen onym at least ten times in a short narrative and record its bu
 
 ## 3. Function-word boundary recognition
 
-Use `scripts/audit_phonetic_neighbors.py` to generate fixed-seed ABX prompts for dense function-word pairs. Follow `documents/listening_audit.md`. Keep results separated by careful and conversational production.
+Use `scripts/audit_phonetic_neighbors.py` to generate fixed-seed ABX prompts for dense function-word pairs. Follow `documents/evaluation/listening_audit.md`. Keep results separated by careful and conversational production.
 
 ## 4. Source-separation and rendering safety
 

@@ -36,7 +36,7 @@ Phi is a constructed language, but almost every one of its features lives somewh
 
 ## Numbers
 
-**Numeral systems vary**, although decimal systems dominate the WALS typological sample. Vigesimal, mixed, other-base, extended body-part, and restricted systems are also documented. Labels such as “one, two, many” and claims about particular communities require language-specific evidence and should not be turned into claims about cognitive capacity or social values. Phi's finite pure ternary system expresses exact integers from 0 through 242 and uses bare scales for approximation; this manual has not established a natural-language precedent with that same package. See `documents/psychological_violence_of_measurement.md` for the evidence and learning boundaries.
+**Numeral systems vary**, although decimal systems dominate the WALS typological sample. Vigesimal, mixed, other-base, extended body-part, and restricted systems are also documented. Labels such as “one, two, many” and claims about particular communities require language-specific evidence and should not be turned into claims about cognitive capacity or social values. Phi's finite pure ternary system expresses exact integers from 0 through 242 and uses bare scales for approximation; this manual has not established a natural-language precedent with that same package. See `documents/design/psychological_violence_of_measurement.md` for the evidence and learning boundaries.
 
 ## The honest summary
 

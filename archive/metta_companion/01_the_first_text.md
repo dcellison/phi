@@ -4,7 +4,7 @@ The primer's capstone calls the texts shelf a door, and this text the language's
 
 ### It is a transmutation, not a translation
 
-The text rebuilds the Karaniya Metta Sutta from Phi concepts rather than mapping English words onto Phi ones: the doctrine of that method lives in `documents/language_guide.md` §6 and manual ch22, and its receipts live at the bottom of the text itself, in the gap log. Read the gap log as part of the text, not as an apology appended to it: every place the lexicon had no word, the log records what was built instead (heart-fire for anger, *coming toward life* for the unborn) and every place the source's doctrine sits outside Phi's worldview, the log says so plainly. The text ends on the path of peace instead of rebirth, and tells you it chose to. Honesty about how you know is this language's oldest habit; the gap log is that habit applied to how a text knows.
+The text rebuilds the Karaniya Metta Sutta from Phi concepts rather than mapping English words onto Phi ones: the doctrine of that method lives in `documents/reference/language_guide.md` §6 and manual ch22, and its receipts live at the bottom of the text itself, in the gap log. Read the gap log as part of the text, not as an apology appended to it: every place the lexicon had no word, the log records what was built instead (heart-fire for anger, *coming toward life* for the unborn) and every place the source's doctrine sits outside Phi's worldview, the log says so plainly. The text ends on the path of peace instead of rebirth, and tells you it chose to. Honesty about how you know is this language's oldest habit; the gap log is that habit applied to how a text knows.
 
 ### How to use this companion
 

@@ -18,10 +18,7 @@ the list must be corrected to match anything higher.
 3. **`manual/`** — the teaching text. Must agree with (1)–(2).
 4. **`texts/`** — translations and transmutations. Must agree with (1)–(3).
 5. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
-6. **Philosophy documents** — `documents/language_guide.md`,
-   `modifier_first_philosophy.md`, and
-   `psychological_violence_of_measurement.md`. Authoritative for *why*, not for word forms
-   or grammar details.
+6. **Design rationale:** `documents/reference/language_guide.md`, `documents/design/modifier_first_philosophy.md`, and `documents/design/psychological_violence_of_measurement.md`. Authoritative for *why*, not for word forms or grammar details.
 7. **`archive/`** — historical record only. Never a reference for the
    current language. (The six narrative grammar chapters were dissolved
    into the manual, July 2026.)
@@ -219,7 +216,7 @@ These were explicitly decided and should not silently fork again:
   `tei howai` (until evening), `mua shero` (in the night). Hour,
   minute, second, and clock-time are refused as unmarked core vocabulary — the
   counted minute is exactly the precise measurement the language
-  declines (`documents/psychological_violence_of_measurement.md`);
+  declines (`documents/design/psychological_violence_of_measurement.md`);
   the day is read from the sky, not sliced into units. A required clock time remains in an exact source record outside the Phi passage when coordination, testimony, or safety depends on it.
 - **Age is held, not been** (settled 2026-07-06): age is said with
   predicative possession — `mia [numeral] torua phelu.` (I hold N
@@ -265,7 +262,7 @@ These were explicitly decided and should not silently fork again:
   words: no meter, no mile, no kilogram, no liter, and none will
   be coined. This extends the clock refusal to the ruler and the
   scale, on the same grounds
-  (`documents/psychological_violence_of_measurement.md`). Extent
+  (`documents/design/psychological_violence_of_measurement.md`). Extent
   is said by comparison and by the world: `masue` (measure) means
   gauging against a shared standard, not counting units (`shia
   sheo pelio wetha masue.`, they measure the cloth against an
@@ -358,7 +355,7 @@ These were explicitly decided and should not silently fork again:
   Selection ("which cup") is `hina` before the noun, what-kind
   being Phi's honest which. `wia`'s gloss is corrected from
   "which" to "how many" to match its designed and attested use.
-- **The economy is a gift** (settled 2026-07-06): money, coin, price, pay, buy, sell, debt, wage, wealth, and poor are refused by design, completing the measurement family: the clock, ruler, and price tag fall on the same grounds (`documents/psychological_violence_of_measurement.md`). What changes hands is said with the hands' verbs: `loa` (give), `howela` (receive), `phowe` (share), and `wisola` (exchange), whose grammar leans mutual (`lo mia wiso wisola.`, we exchange with each other), with `loami` (gift) and `piru` (trader) beside them. An exchange uses exact counts when the difference affects what participants give or receive, while agreed estimates remain possible and exact economic source records stay outside the Phi passage. Worth stays carved: `rolia` is inherent, `sone` is a verb because valuing is something someone does, `simoe` (rich) enriches soil and colors but ranks no one, and scarcity is described with `phina`, `whemoa`, or `henoi` rather than named as a class of person. A market place, if one ever needs naming, composes by the nouns-describe rule.
+- **The economy is a gift** (settled 2026-07-06): money, coin, price, pay, buy, sell, debt, wage, wealth, and poor are refused by design, completing the measurement family: the clock, ruler, and price tag fall on the same grounds (`documents/design/psychological_violence_of_measurement.md`). What changes hands is said with the hands' verbs: `loa` (give), `howela` (receive), `phowe` (share), and `wisola` (exchange), whose grammar leans mutual (`lo mia wiso wisola.`, we exchange with each other), with `loami` (gift) and `piru` (trader) beside them. An exchange uses exact counts when the difference affects what participants give or receive, while agreed estimates remain possible and exact economic source records stay outside the Phi passage. Worth stays carved: `rolia` is inherent, `sone` is a verb because valuing is something someone does, `simoe` (rich) enriches soil and colors but ranks no one, and scarcity is described with `phina`, `whemoa`, or `henoi` rather than named as a class of person. A market place, if one ever needs naming, composes by the nouns-describe rule.
 
 - **The unmarked sentence claims no source** (settled 2026-07-05): an
   unmarked sentence is a plain assertion — it states the fact and names

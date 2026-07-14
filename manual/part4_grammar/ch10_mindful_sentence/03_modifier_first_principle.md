@@ -4,7 +4,7 @@ Verb-final order is one case of something larger, and this is the right place to
 
 **In Phi, everything that modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Possessors before the possessed. Prepositions before their objects. Particles before the words they mark. Clauses before the nouns they describe. One principle, no exceptions: this is the "announce, then deliver" pattern you will now see at every scale of the language.
 
-A linguist would reach for the term *head-final* here, and would be half right. Head-final languages like Japanese put modifiers before nouns and verbs at the end, but they use postpositions, relators that come *after* their nouns. Phi uses prepositions, because a relator is a modifier too, and modifiers come first. Phi is not head-final or head-initial; it is modifier-first, which is a different and stricter idea. (The full argument lives in `documents/modifier_first_philosophy.md`.)
+A linguist would reach for the term *head-final* here, and would be half right. Head-final languages like Japanese put modifiers before nouns and verbs at the end, but they use postpositions, relators that come *after* their nouns. Phi uses prepositions, because a relator is a modifier too, and modifiers come first. Phi is not head-final or head-initial; it is modifier-first, which is a different and stricter idea. (The full argument lives in `documents/design/modifier_first_philosophy.md`.)
 
 ## The principle at phrase level
 

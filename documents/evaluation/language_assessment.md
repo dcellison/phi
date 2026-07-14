@@ -23,13 +23,13 @@ Phi's strongest achievements are regularity and thematic unity. Extensive docume
 | Listening | Potentially hard | Many words and grammatical particles differ by only one sound. |
 | General fluency | Unknown | There is no recorded speech corpus, learner study, or spontaneous speaker community. |
 
-The "one grammatical rule" is an excellent mnemonic, but not a literal account of the learning burden. The curriculum contains [38 taught patterns](taught_patterns.md), 35 particles, fixed internal orders, clause frames, classifiers, conversion rules, and a separate numeral system.
+The "one grammatical rule" is an excellent mnemonic, but not a literal account of the learning burden. The curriculum contains [38 taught patterns](../reference/taught_patterns.md), 35 particles, fixed internal orders, clause frames, classifiers, conversion rules, and a separate numeral system.
 
 Phi should still benefit greatly from its systematicity. Experimental artificial-language research found that highly systematic languages were learned faster and generalized more accurately by adults, although the relationship was not simply "less grammar equals easier." See [Raviv, de Heer Kloots, and Meyer](https://www.sciencedirect.com/science/article/pii/S0010027721000391).
 
 ### The hidden listening problem
 
-The lexicon is much more crowded than the project's minimal-pair language initially implies. The current [grandfathered baseline](minimal_pairs_baseline.txt) contains **771 edit-distance-one content-word pairs involving 470 of 1,033 content entries**. Not all are equally confusable. One cluster begins with `helu`, `kelu`, and `melu`, then continues through `phelu`, `shelu`, and `thelu`; together they create substantial lexical competition.
+The lexicon is much more crowded than the project's minimal-pair language initially implies. The current [grandfathered baseline](../validation/minimal_pairs_baseline.txt) contains **771 edit-distance-one content-word pairs involving 470 of 1,033 content entries**. Not all are equally confusable. One cluster begins with `helu`, `kelu`, and `melu`, then continues through `phelu`, `shelu`, and `thelu`; together they create substantial lexical competition.
 
 The short function words are denser still: `to`, `so`, `ro`, `po`, `no`, `lo`, `ko`, and `mo` carry sharply different meanings through a single consonant. Syntactic position helps, but noise, accents, and learner errors will expose the weakness. A perceptual collision model is needed in addition to character-level edit distance.
 

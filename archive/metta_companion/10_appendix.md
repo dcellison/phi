@@ -25,9 +25,9 @@ One `na` (verse 1) → nineteen `su` (verses 1–9) → none (verse 10): the tex
 
 | Compound | Built from | Reads as | Status |
 |---|---|---|---|
-| `korua thero` | heart + fire | anger as a source one acts from | canonized, `documents/compounds.md` |
-| `thiku nila` | small + see | contempt as an act of the seer | canonized, `documents/compounds.md` |
-| `remo kire` | think + shape | fixed views as things a heart holds | canonized, `documents/compounds.md` |
+| `korua thero` | heart + fire | anger as a source one acts from | canonized, `documents/reference/compounds.md` |
+| `thiku nila` | small + see | contempt as an act of the seer | canonized, `documents/reference/compounds.md` |
+| `remo kire` | think + shape | fixed views as things a heart holds | canonized, `documents/reference/compounds.md` |
 
 ### The gap log's afterlives
 
@@ -57,7 +57,7 @@ Words the lexicon later coined where the text once composed: `thowia` (born), `s
 
 - The text itself: `pamphlets/metta_sutta.md`, verses, notes, complete text, gap log, corpus-test findings. This companion replaces none of it.
 - The door you came through: primer chapter 25, the capstone.
-- Doctrine: manual ch9 §3 (Slot 0 and `su`); ch15 §1 and §4 (`se`, `na`); ch20 (relative clauses); ch21 §5 (requests as wishes); ch22 (transmutation); `documents/language_guide.md` §6.
+- Doctrine: manual ch9 §3 (Slot 0 and `su`); ch15 §1 and §4 (`se`, `na`); ch20 (relative clauses); ch21 §5 (requests as wishes); ch22 (transmutation); `documents/reference/language_guide.md` §6.
 - Sibling pamphlets: 1 (relative clauses, especially Part 4); 3 (evidentiality, the unmarked register and the journal this text should share a shelf with); 5 (names, for Part D's first wish).
-- The compounds: `documents/compounds.md`.
+- The compounds: `documents/reference/compounds.md`.
 - When the romanization is easy: the texts shelf's tengwar toggle, and the same text with nothing taller than anything else.

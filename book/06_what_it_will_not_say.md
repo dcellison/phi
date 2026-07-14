@@ -101,4 +101,4 @@ United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. 
 
 ### Phi sources
 
-The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/word_shape_and_external_boundaries.md`. Source-boundary teaching is in `manual/part6_mastery/ch24_source_material/` and `pamphlets/source_material/`. Name teaching is in `pamphlets/naming/`, with the productive form checker in `scripts/name_forms.py`. The worked passages are in `texts/ring_verse_refusal.md` and `texts/human_rights_article_one.md`, with the exact UDHR witness in `texts/sources/udhr_1948.txt`.
+The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/design/word_shape_and_external_boundaries.md`. Source-boundary teaching is in `manual/part6_mastery/ch24_source_material/` and `pamphlets/source_material/`. Name teaching is in `pamphlets/naming/`, with the productive form checker in `scripts/name_forms.py`. The worked passages are in `texts/ring_verse_refusal.md` and `texts/human_rights_article_one.md`, with the exact UDHR witness in `texts/sources/udhr_1948.txt`.
