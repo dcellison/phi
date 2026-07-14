@@ -1,8 +1,14 @@
 # The short road
 
-The primer teaches Phi gently, over twenty-four chapters. The manual explains all of it, in seven parts. This page is neither. It is the whole language at walking pace: twenty minutes, one working example per idea, and the door at the end. Everything here is real and current; nothing is simplified beyond what the manual would say.
+The primer takes the gentle road through one household. The manual stops to name every moving part. This page keeps walking. In about twenty minutes, it follows Phi from its first open vowel to the text shelf. It does not replace either longer work; it gives the main systems one working example apiece and leaves the door open.
 
-## One rule
+## Let the vowels finish
+
+Phi has five vowels, each kept full in careful speech. Its syllables are open, and adjacent vowels remain separate: `kia` is **ki · a**, while `lohau` is **lo · ha · u**. Stress falls on the next-to-last syllable, so `lohau` leans on **ha**.
+
+Careful speech also distinguishes `ph`, `th`, `sh`, and `wh`. Conversational Phi may move faster and carry an accent. Enough of each word's shape must remain for a listener to recover it.
+
+## One organising principle
 
 Here is an ordinary Phi sentence.
 
@@ -12,13 +18,13 @@ mia roe kiru wolea kati.
 (I cut the wood with the chisel.)
 ```
 
-Read it in order: I, with a chisel, the wood, cut. The instrument is declared before the material, the material before the act. Nothing arrives unannounced, and by the time the verb lands, everything it needs is already on the table.
+Read it in order: I, with a chisel, the wood, cut. The preposition announces the instrument before the chisel arrives, and the object stands before the act. By the time the verb lands, its surroundings are already on the table.
 
-That is the language's one structural rule: whatever modifies, specifies, or relates comes before what it affects. Adjective before noun. Possessor before possessed. The if before the then. The question word before anything else. There are no exceptions, anywhere, which means that once you can read the sentence above, you already know the shape of every sentence in the language.
+Phi calls this *announce, then deliver*. A modifier precedes its head, a possessor precedes what is possessed, and a condition precedes its consequence. The principle does not abolish the rest of the grammar, but it gives that grammar a dependable direction.
 
-## The whole grammar is thirty-five small words
+## Thirty-five particles keep their places
 
-Phi words never change form. No conjugation, no plural endings, no case. Grammar is done by thirty-five particles that stand in fixed places, and a word learned once is owned forever. Watch a sentence grow:
+Phi content words keep one shape: there is no conjugation, declension, plural ending, or grammatical case ending. Thirty-five one-syllable particles carry much of the grammar in three fixed positions. Prepositions, complementisers, pronouns, and classifiers work beside them. A content word learned once does not change. Watch a sentence grow:
 
 ```
 misheko nulae.
@@ -38,7 +44,7 @@ cat HAB sleep.
 (The cat sleeps; it is what she does.)
 ```
 
-The little words before the verb stack in one fixed order: tense, then aspect, then voice, then evidence, then modality, then negation. One from each rank at most, and the stack reads out like a setting on an instrument:
+The Slot 1 particles immediately before the verb follow one order: tense > aspect > voice > evidentiality > modality > negation. Each rank admits at most one particle, with one ruled exception inside voice: passive `se` may pair with causative `ka`.
 
 ```
 lopia se ka nulae.
@@ -46,11 +52,11 @@ child PASS CAUS sleep.
 (The child is made to sleep.)
 ```
 
-The primer hides a running joke in this system: its household cat sleeps through all twenty-four chapters, and somewhere around the middle you realize she has been the habitual aspect the whole time.
+By the time the primer introduces habitual `ro`, the cat has already made a persuasive case for it. This is among her more strenuous household duties.
 
 ## The question stands where the answer will
 
-A yes-or-no question is one word, `wa`, standing first, so a question can never impersonate a statement:
+A yes-or-no question begins with `wa`, so the listener knows the sentence is a question before its claim arrives:
 
 ```
 wa misheko to nulae.
@@ -58,7 +64,7 @@ Q cat PST sleep.
 (Did the cat sleep?)
 ```
 
-A content question puts its asking word exactly where the answer will sit. Nothing else moves.
+A content question puts its asking word exactly where the answer would stand. Nothing else moves.
 
 ```
 thia hina nila.
@@ -70,7 +76,7 @@ dog where be.
 (Where is the dog?)
 ```
 
-Ask someone's age and the pattern hands you a whole worldview in five words:
+The ordinary question about age shows what this answer-shaped grammar can do:
 
 ```
 thia wia torua phelu.
@@ -78,11 +84,11 @@ thia wia torua phelu.
 (How old are you?)
 ```
 
-Not how old are you. How many years do you hold. In Phi, age is something a person carries, not something a person is.
+The literal form asks, "How many years do you hold?" Age appears as something carried through life, not an identity assigned to the person.
 
 ## Count in threes
 
-The numerals are ternary. Three digits, `mu ta wi` (zero, one, two), combine with named powers of three: `shao` is a three-group, `phoi` a nine-group, `lau` a twenty-seven-group, and `rei` an eighty-one-group. Exact numbers compose from the top down through 242; larger exact values remain source material outside the Phi passage:
+Phi's numerals are ternary. The three digits are `mu ta wi`: zero, one, two. `shao` names a three-group and `phoi` a nine-group; `lau` and `rei` name groups of twenty-seven and eighty-one. Exact numbers compose from the largest group down through 242. A larger exact value stays in source notation outside the Phi passage.
 
 ```
 mia wi phoi ta shao torua phelu.
@@ -90,13 +96,15 @@ mia wi phoi ta shao torua phelu.
 (I hold twenty-one years.)
 ```
 
-Two nines and a three: twenty-one. The transparent grouping makes the composition audible, but an unfamiliar base and longer forms require practice. Ordinary competence begins through eight and grows through twenty-six; rapid conversion from decimal is not required.
+Two nines and a three make twenty-one. The grouping is audible, but familiarity still takes practice; most learners will not greet base three as a long-lost relation. The foundation runs from zero through eight, the working range through twenty-six, and the extended exact range through 242. Conversational competence does not require quick conversion from decimal or memorisation of every possible form.
 
-## The day belongs to the sky
+## The day follows the sky
 
-Phi has no hour, no minute, and no o'clock, by decision rather than by gap. The day is told by the sun's eight stations: `horathe` (dawn), `kelua` (morning), `thaeso` (midday), `lorui` (afternoon), `howai` (evening), `norawhi` (dusk), `shero` (night), `phoemu` (midnight). You meet a friend during the morning, not at 9:40.
+Phi has no word for *hour*, *minute*, or *o'clock*. Ordinary time follows eight stations of the sun. From first light to afternoon they are `horathe` (dawn), `kelua` (morning), `thaeso` (midday), and `lorui` (afternoon). Then come `howai` (evening), `norawhi` (dusk), `shero` (night), and `phoemu` (midnight). A friend may arrive during the morning rather than at 9:40.
 
-The ruler is refused along with the clock. There are no unit words at all, no meter and no mile, and extent is stated by comparison or by the world itself:
+When clock time matters, a medicine schedule, transport record, or scientific observation retains the exact figure in its surrounding medium. Phi has chosen not to turn that notation into ordinary vocabulary.
+
+The same boundary applies to measurement. Phi has no unit words such as *metre* or *mile*. Everyday extent can rest on comparison or lived reference:
 
 ```
 ruela wi philo thalo nai.
@@ -104,11 +112,13 @@ path two day walk be.
 (The path is a two-day walk.)
 ```
 
+Technical dimensions retain their source notation. The missing unit word is no reason to mislay the number.
+
 ## The question with nothing to count
 
-The refusals go one deeper: Phi has no words for money, price, pay, buy, sell, or wage. What changes hands is said with the hands' own verbs: `loa` (give), `howela` (receive), `phowe` (share), `wisola` (exchange). This is not an oversight to be patched later; it is the same design that refused the clock and the ruler, applied to the price tag.
+Phi has no words for money, price, or wage, nor verbs meaning pay, buy, or sell. What changes hands can be said through the acts themselves: `loa` (give), `howela` (receive), `phowe` (share), and `wisola` (exchange). A financial source can retain its own terms and figures when speakers need to report, study, or criticise them.
 
-The language's literature already tests it. Phi's longest project is William Morris's News from Nowhere, an 1890 novel about a world without money, and in its second chapter a time-traveler tries to tip his boatman:
+The text shelf puts this refusal to work. In the second chapter of the *News from Nowhere* transmutation, William Morris's time traveller tries to tip his boatman:
 
 ```
 thelao mia muo wethalu manuwe to sepho. mia shola wia. sholo to haolu.
@@ -116,31 +126,39 @@ CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST
 (So I put my hand into my garment, and said, "How many?")
 ```
 
-"How much?" comes out as `wia.`, a count with nothing to count, and the boatman's baffled reply in the novel, "Do you mean the tide?", is exactly the confusion the grammar produces on its own. Nothing in the scene needed changing. Morris and the language had come to the same conclusion, more than a century apart.
+Morris wrote "How much?" Phi's `wia.` means "how many", but the sentence supplies nothing to count. The boatman guesses that the stranger means the tide. This is a transmutation rather than a close translation: Morris supplies the moneyless society, Phi's lexical refusal reshapes the question, and the misunderstanding survives.
 
-## Meanings compose, and every word comes with gifts
+## Meanings can stay in view
 
-Beyond seven coined color words, hues keep their source visible: `kerou welisha`, stone color, is gray; `horathe welisha`, dawn color, is pink. East is `sileta thorui`, the sun's beginning, and west is `sileta lumae`, its end. Anger is `korua thero`, heart-fire. Contempt is `thiku nila`, seeing-small. The lexicon is a web, and pulling one word teaches you three more.
+Phi has seven coined colour adjectives. Other hues show their source in registered compounds: `kerou welisha`, stone colour, is grey; `horathe welisha`, dawn colour, is pink.
 
-Every word also arrives with its relatives included. A verb names its own event: `remo` (think) is also a thought, `thalo` (walk) is also a walk. An adjective names its own quality: `siloma` (simple) is also simplicity. No derivation tables, no suffixes to memorize. The rule does the work once, for every word in the dictionary.
+The same method reaches beyond colour. East is `sileta thorui`, the sun's beginning, and west is `sileta lumae`, its end. `korua thero`, heart-fire, names anger; `thiku nila`, seeing-small, names contempt. These are canonical expressions made from lexicon words, not extra dictionary entries hiding under the floorboards.
 
-## A name is a word
+Two conversion rules widen the vocabulary without changing a word's shape. A verb can name its event: `remo` means *think* and also *a thought*, while `thalo` means *walk* and *a walk*. An adjective can name its quality, so `siloma` means *simple* and *simplicity*. Position and surrounding grammar tell the readings apart.
 
-`ne` is a capital letter you can hear: it announces that the next word is someone's name. A name can be any content word carried as a name, `ne sulae` is a person called Warm, or a new Phi-shaped word of two, three, or four syllables that belongs to its bearer alone. The first kind has a dictionary meaning; the second identifies its bearer without acquiring one. Phi says aloud every time that the next token is a name.
+## A name announces itself
 
-## The shelf
+`ne` is a capital letter that can be heard: it announces a proper designation. A speaker may carry an existing content word as a name, as in `ne sulae`, a person called Warm, or choose a new Phi-shaped onym of two, three, or four syllables. A new onym may not duplicate a syllable with an onset, and a current function word cannot also be a name.
 
-Phi's shelf uses two methods. A close translation keeps the source's claims intact while letting Phi choose its own grammar. A transmutation allows the source to change as Phi thinks it through. Every text identifies its ground truth and records the choices, so the reader can see what arrived and what did not.
+A content-word name retains its lexical association. A new onym can identify a person, place, work, or other referent without acquiring a shared dictionary gloss. In either case, Phi says aloud that the next form is a name.
 
-Twelve works stand on the shelf. The Metta Sutta is a translation. Seven works have both forms. The two familiar fables let the methods part over persuasion and exploitation, while Article 1 tests rights and conscience. Babel sets divine punishment beside languages cast like seed by the earth. In the Heart Sutra, one traveler has crossed while a community wishes to set out. On Children's translation retains Gibran's bow; its transmutation lets the arrow become seed. The Tao translation carries five complete chapters with both wheel and feller. Its transmutation stays with the empty vessel and lets wind replace deliberate cutting. Four other works are transmutations: *The Little Prince* excerpts, *The Velveteen Rabbit*, three chapters of Morris's *News from Nowhere*, and the Ring Verse refusal.
+## Two ways through a text
+
+The shelf distinguishes translation from transmutation. A close translation remains answerable to the source's claims and distinctions while using Phi grammar. A transmutation permits the work to change under Phi's five pillars. Phi prefers transmutation, but paired renderings show both the language's reach and the consequences of its values.
+
+*The North Wind and the Sun* gives the clearest comparison: its translation preserves the contest, while its transmutation asks what remains after coercion stops being the lesson. Article 1, Babel, and the Heart Sutra also stand in pairs. The Metta Sutta and *A Solarpunk Manifesto* are close translations; the Ring Verse refusal and the opening chapters of *News from Nowhere* use transmutation alone. The shelf catalogue holds the rest.
 
 ## Where the choices come from
 
-None of this is accidental taste. Phi states its commitments openly, five of them, and by now you have seen each reflected in design choices. Solarpunk values shape how the language approaches Morris's moneyless future. Secular Buddhist attention motivates conspicuous grouping and resistance to hurried assumptions, without claiming that grammar creates mindfulness. Art Nouveau's organic line guides a lexicon that grows by relationships, gray from stone and pink from dawn. Peace linguistics motivates refusals such as the Ring Verse response, while speakers remain responsible for what their words do. Pre-industrial rhythm motivates sky-based day stations and paths described by walking. Phi is value-explicit and culturally situated; it has never claimed to be a neutral language for everyone.
+Phi names five pillars rather than presenting its choices as neutral. The sky stations and walking-distance measure draw on pre-industrial wisdom, while the moneyless Morris scene looks towards solarpunk.
+
+*Announce, then deliver* owes part of its patience to secular Buddhist practice, though grammar promises no automatic mindfulness. Art Nouveau appears in meanings grown through relation: grey from stone, pink from dawn. Peace linguistics asks whether an utterance sustains relationship or rehearses domination. That is why the Ring Verse receives a refusal.
+
+These commitments make Phi culturally situated and value-explicit. Speakers remain responsible for what they do with it.
 
 ## The door
 
-If this was your pace, the primer is the gentler road: one household, twenty-four short chapters, and that sleeping cat. The manual holds the machinery, the lexicon explorer holds every word with its reasoning attached, and the texts are waiting.
+If this was your pace, the primer is the gentler road: a pronunciation prelude, one household, twenty-four short chapters, and a capstone text. The manual holds the full machinery. The lexicon explorer shows dictionary entries and registered compounds separately, and the text shelf is waiting.
 
 **pi no shua.**
 POL IMP come.
