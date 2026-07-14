@@ -1,5 +1,5 @@
 <!-- GENERATED FILE — do not edit.
-     Source of truth: documents/compounds.md
+     Source of truth: documents/reference/compounds.md
      Regenerate with: python3 scripts/generate_reference.py -->
 
 

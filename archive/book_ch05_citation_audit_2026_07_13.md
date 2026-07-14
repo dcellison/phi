@@ -22,7 +22,7 @@ Three smaller changes would improve precision. The bouba/kiki result should repo
 
 | Priority | Chapter location | Finding | Required response |
 |---|---|---|---|
-| High | Lines 47-49 | The stable total of 376,740 legal three-syllable forms is correct. The available-form count of 355,428 describes the lexicon at commit `d5f93aaa5`, not the current lexicon. The current count is 347,268. | Replace the stale figure in the chapter and in `documents/word_shape_and_external_boundaries.md`, or make the book use a rounded, explicitly dynamic figure. A small reproducible counting script would prevent the source document from aging silently again. |
+| High | Lines 47-49 | The stable total of 376,740 legal three-syllable forms is correct. The available-form count of 355,428 describes the lexicon at commit `d5f93aaa5`, not the current lexicon. The current count is 347,268. | Replace the stale figure in the chapter and in `documents/design/word_shape_and_external_boundaries.md`, or make the book use a rounded, explicitly dynamic figure. A small reproducible counting script would prevent the source document from aging silently again. |
 | High | Lines 23-31 | `sileta` and `silero` are presented as an example of systematicity. Dingemanse et al. define systematicity as a statistical relation between forms and usage across a group of words. Their definition of relative iconicity fits a relation between two forms that echoes a relation between two meanings. | Recast the pair as relative iconicity. Discuss systematicity separately and say that Phi would need a lexicon-wide analysis before claiming it. |
 | Medium | Line 13, Ćwiek et al. | "Held strongly across the whole sample" is defensible as a pooled statement but can sound as though every language group showed the effect. The pooled estimate was 72 percent; 17 of 25 language groups were reliably above the conservative 50 percent baseline. | Give the pooled result and the 17-of-25 qualification. Describe the study as an online opportunity sample if space permits. |
 | Medium | Line 13, Blasi et al. | The 6,447 word lists represented 4,298 languages and covered 62 percent of the world's languages, but most lists contained only 28 to 40 concepts. Only 328 lists extended toward 100 concepts. `nose` and `tongue` belonged to the broad core; `small` belonged to the extended set, and its `i` association was supported across 78 lineages and three of five adequately covered macroareas. | Keep the three examples, but do not let their placement imply equal coverage. Replace the loose "controlled for inheritance and geography" with the study's actual safeguards: genealogical balancing, two classifications, macroarea screening, and a spatial analysis. |
@@ -86,7 +86,7 @@ These paragraphs agree with the compound registry and with the word-creation pro
 
 ### Lines 47-55: word space and collision checks
 
-The three-syllable lexical ceiling and four-syllable name exception match `canon.md`, `documents/phonology_rules.md`, and the validator. The stable 376,740 total reproduces from the 14 permitted onsets, five vowels, later hiatus vowels, the ban on repeating a syllable that has an onset, and the three-vowel constraint.
+The three-syllable lexical ceiling and four-syllable name exception match `canon.md`, `documents/reference/phonology_rules.md`, and the validator. The stable 376,740 total reproduces from the 14 permitted onsets, five vowels, later hiatus vowels, the ban on repeating a syllable that has an onset, and the three-vowel constraint.
 
 The second number is stale rather than invented. At commit `d5f93aaa5`, the repository contained 1,040 lexical entries and 910 content words. Independent enumeration finds 376,740 legal three-syllable forms, blocks 21,312 forms through exact duplication or character-distance-one proximity to a content word, and leaves exactly 355,428. The current repository contains 1,168 lexical entries and 1,038 content words. The same calculation blocks 29,472 forms and leaves 347,268.
 
@@ -113,17 +113,17 @@ The module paragraph agrees with `documents/modules/README.md`. Modules add voca
 
 | Chapter material | Repository source | Verdict |
 |---|---|---|
-| `welisha`, `haoni welisha`, `kerou welisha`, `horathe welisha` | [`vocabulary/content/color.json`](../vocabulary/content/color.json), [`documents/compounds.md`](../documents/compounds.md), and the entries for voice, stone, and dawn | All forms and readings check out. |
+| `welisha`, `haoni welisha`, `kerou welisha`, `horathe welisha` | [`vocabulary/content/color.json`](../vocabulary/content/color.json), [`documents/reference/compounds.md`](../documents/reference/compounds.md), and the entries for voice, stone, and dawn | All forms and readings check out. |
 | `muila` sound account | [`vocabulary/content/earth.json`](../vocabulary/content/earth.json) | Faithful paraphrase of the entry. |
 | Manual quotation and intended sound-symbolism boundary | [`manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/02_sound_as_symbol.md`](../manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/02_sound_as_symbol.md) | Exact quotation; the surrounding argument is represented fairly. |
 | `sileta` and `silero` lexical family | [`vocabulary/content/sun.json`](../vocabulary/content/sun.json), [`vocabulary/content/star.json`](../vocabulary/content/star.json), and [`canon.md`](../canon.md) | Meanings and designed resemblance are accurate. Canon supplies the explicit ruling that the shared opening is not a productive affix. |
 | `nulae`, `nuwera`, `whemura` learning cluster | [`manual/part2_soul/ch06_philosophy_of_learning/03_patience_with_process.md`](../manual/part2_soul/ch06_philosophy_of_learning/03_patience_with_process.md) | Present verbatim as a recommended learning cluster. This source is missing from the closing note. |
-| Three-syllable ceiling and capacity count | [`documents/word_shape_and_external_boundaries.md`](../documents/word_shape_and_external_boundaries.md), [`documents/phonology_rules.md`](../documents/phonology_rules.md), and [`canon.md`](../canon.md) | Structural rule accurate; current availability count stale in the first document. |
+| Three-syllable ceiling and capacity count | [`documents/design/word_shape_and_external_boundaries.md`](../documents/design/word_shape_and_external_boundaries.md), [`documents/reference/phonology_rules.md`](../documents/reference/phonology_rules.md), and [`canon.md`](../canon.md) | Structural rule accurate; current availability count stale in the first document. |
 | Character and phonetic collision tools | [`scripts/validate_examples.py`](../scripts/validate_examples.py), [`scripts/audit_phonetic_neighbors.py`](../scripts/audit_phonetic_neighbors.py), and [`scripts/README.md`](../scripts/README.md) | Implementation matches the chapter. |
-| Solo listening and rename limit | [`documents/listening_audit.md`](../documents/listening_audit.md) | Present and accurately summarized. |
+| Solo listening and rename limit | [`documents/evaluation/listening_audit.md`](../documents/evaluation/listening_audit.md) | Present and accurately summarized. |
 | Word-creation process | [`project/development_protocol.md`](../project/development_protocol.md) | The chapter keeps the protocol's meaning without copying its checklist voice. |
 | Optional module behavior | [`documents/modules/README.md`](../documents/modules/README.md) | The summary is sound; this source is missing from the closing note. |
-| `sileta thorui` | [`documents/compounds.md`](../documents/compounds.md) and entries for sun and beginning | The words, order, literal reading, and registered direction all match. |
+| `sileta thorui` | [`documents/reference/compounds.md`](../documents/reference/compounds.md) and entries for sun and beginning | The words, order, literal reading, and registered direction all match. |
 
 ## Suggested replacement language
 

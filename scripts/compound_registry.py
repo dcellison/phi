@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Parse the compound registry (documents/compounds.md).
+"""Parse the compound registry (documents/reference/compounds.md).
 
 The registry's markdown tables are the single source of truth for
 canonized compound idioms. The validator, the reference generator, and
@@ -13,7 +13,7 @@ import re
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
-REGISTRY_FILE = PROJECT_ROOT / "documents" / "compounds.md"
+REGISTRY_FILE = PROJECT_ROOT / "documents" / "reference" / "compounds.md"
 
 ROW = re.compile(r"^\| `([^`]+)` \| (.+?) \| (.+?) \| (.+?) \|$")
 

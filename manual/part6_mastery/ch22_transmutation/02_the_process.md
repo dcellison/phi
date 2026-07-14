@@ -13,7 +13,7 @@ This step is where the methods separate. A translator asks which details make th
 Now open the lexicon, but search by *meaning*, not by dictionary headword. Three places to look, in order:
 
 1. **A single word.** Phi's holistic vocabulary often covers with one word what English needs a phrase for: `womu` (house+belonging), `henoi` (enough, as a knowable thing), `thowia` (born, one becomes two).
-2. **The compound registry** (`documents/compounds.md`). Canonized idioms like `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of the language. Use them before inventing.
+2. **The compound registry** (`documents/reference/compounds.md`). Canonized idioms like `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of the language. Use them before inventing.
 3. **A new composition.** If neither exists, compose transparently from existing words, the way `nulae nophi` (sleep-story) makes "dream." If your composition is good, it may deserve a place in the registry.
 
 Once those places have been checked, choose honestly between composition and coinage. A transmutation also has the option to reframe, which its gap log records. Coinage follows the Word Creation Protocol and is settled before the passage is finished rather than improvised inside a sentence.

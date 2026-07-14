@@ -1,12 +1,12 @@
 # Work, Craft, and Repair Vocabulary Audit
 
-**Status:** Preserved before-state audit underlying the established [Work, Craft, and Repair module](modules/work_craft_and_repair.md), conducted 2026-07-10. `archive/` excluded. The findings describe the pre-module lexicon; the later vocabulary pass is summarized below.
+**Status:** Preserved before-state audit underlying the established [Work, Craft, and Repair module](../modules/work_craft_and_repair.md), conducted 2026-07-10. `archive/` excluded. The findings describe the pre-module lexicon; the later vocabulary pass is summarized below.
 
 ## Purpose and Method
 
 This audit was conducted against Phi's 937-entry pre-module inventory to determine what could support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It remains the before-state and concept inventory for the completed first vocabulary pass.
 
-The later [Systems and Shared Infrastructure module](modules/systems_and_shared_infrastructure.md) supplies optional terms for components, functions, states, dependencies, capacity, technical load, calibration, faults, failures, inspection, reliability, hazards, and specifications. The subsequent Work profile establishes 28 optional terms for work structure, coordination, practical standing, evaluation, labor conditions, and material traceability, while `winora` plan and `hasoru` pending belong in base vocabulary. The profile records the current cross-module division while this audit intentionally preserves the earlier gaps that motivated it.
+The later [Systems and Shared Infrastructure module](../modules/systems_and_shared_infrastructure.md) supplies optional terms for components, functions, states, dependencies, capacity, technical load, calibration, faults, failures, inspection, reliability, hazards, and specifications. The subsequent Work profile establishes 28 optional terms for work structure, coordination, practical standing, evaluation, labor conditions, and material traceability, while `winora` plan and `hasoru` pending belong in base vocabulary. The profile records the current cross-module division while this audit intentionally preserves the earlier gaps that motivated it.
 
 The audit is not a list of English headwords to translate. A missing term matters only when connected Phi use cannot preserve the needed distinction through ordinary clauses, an existing conversion, separately presented source material, or a deliberate refusal to conventionalize it.
 
@@ -82,6 +82,6 @@ The scenario confirms that concrete craft, refusal, capacity, teaching, measurem
 
 ## Audit Conclusion
 
-The inventory and scenario together supplied the before-state and boundaries for the initial [Work, Craft, and Repair profile](modules/work_craft_and_repair.md). Existing vocabulary was dense enough to organize and teach, while its idealized work semantics and thin organizational relations provided clear opportunities for transparent compounds and module coinage.
+The inventory and scenario together supplied the before-state and boundaries for the initial [Work, Craft, and Repair profile](../modules/work_craft_and_repair.md). Existing vocabulary was dense enough to organize and teach, while its idealized work semantics and thin organizational relations provided clear opportunities for transparent compounds and module coinage.
 
 The completed pass admits `riporu`, `rinoka`, `winora`, `wepuri`, `hasoru`, `noraku`, `lumethi`, `thimora`, `rilowa`, `wephari`, `someru`, `sethoni`, `thesani`, `pokera`, `nukesa`, `kiranu`, `thunaro`, `kisome`, `sikanu`, `noporu`, `somaki`, `kirero`, `ritako`, `rimawu`, `pilora`, `muphera`, `sitawi`, `sephori`, `katemu`, and `luseri`. The profile retains compositional and source-material handling for requests, exact credentials, technical artifacts, economic and legal terms, bodily and access relations, safe approval, and final responsibility. These choices arise from maintainer judgment under the full vocabulary quality protocol, not from an external evidence gate.

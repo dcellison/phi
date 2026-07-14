@@ -94,8 +94,8 @@ The pass keeps several expressions compositional because their parts expose info
 
 ## Scenario Evidence
 
-- [A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) is the primary before-state scenario. The module can now distinguish its symptom, clinical finding, possible severity, diagnosis, prognosis, treatment, intervention, dose, effects, and consent relations while retaining the exact temperature record, uncertainty, refusal, explanation, and difference between data and care.
-- [A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) supplies boundary evidence: consent and support recur in access work, but disability and participation must not be absorbed into a medical category.
+- [A reading, a boundary, and care](../evaluation/philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) is the primary before-state scenario. The module can now distinguish its symptom, clinical finding, possible severity, diagnosis, prognosis, treatment, intervention, dose, effects, and consent relations while retaining the exact temperature record, uncertainty, refusal, explanation, and difference between data and care.
+- [A doorway, a route, and written words](../evaluation/philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) supplies boundary evidence: consent and support recur in access work, but disability and participation must not be absorbed into a medical category.
 
 These scenarios supplied useful compositions and a before-state for vocabulary development. They do not establish a medical standard, and the original dialogues remain valid before-state regression texts rather than being rewritten merely to display the new words. They remain available for the planned active-corpus revisit.
 

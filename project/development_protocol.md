@@ -227,6 +227,11 @@ All vocabulary entries must include:
 - Function words → `/vocabulary/function/`
 - Interjection words → `/vocabulary/interjection/`
 - Grammar documentation → `/documents/grammar/`
+- Language and writing references → `/documents/reference/`
+- Design rationale → `/documents/design/`
+- Evaluation material → `/documents/evaluation/`
+- Practice and domain profiles → `/documents/modules/`
+- Validator evidence and ledgers → `/documents/validation/`
 - Python scripts → `/scripts/`
 - Manual content → `/manual/`
 - Literary translations and transmutations → `/texts/`
@@ -240,12 +245,13 @@ All vocabulary entries must include:
 Validate vocabulary and examples before committing with `python3 scripts/validate_examples.py`.
 
 For detailed information, consult:
-- **Sound system**: `documents/phonology_rules.md`, `documents/phonetics.md`
+- **Sound system**: `documents/reference/phonology_rules.md`, `documents/reference/phonetics.md`
 - **Complete grammar**: the manual, Parts IV-V (ch9-ch20); inventories in `documents/grammar/`
 - **Particle inventory**: `documents/grammar/particle_reference.md`
-- **Compound idioms**: `documents/compounds.md`
+- **Compound idioms**: `documents/reference/compounds.md`
 - **Numeral system**: `documents/grammar/numeral_reference.md`
-- **Philosophy**: `documents/language_guide.md`
+- **Language overview**: `documents/reference/language_guide.md`
+- **Design rationale**: `documents/design/`
 
 ## Final Reminder
 Phi is both a language and a proposed practice of conscious communication. Every design decision should support philosophical expression, compassion, ecological relationship, and honest disagreement while remaining open to correction by actual use. The language offers the practice; speakers do the work.

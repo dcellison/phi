@@ -7,12 +7,12 @@ The vocabulary JSON files under `vocabulary/` are the single source of truth. Th
 Checks the entire language for internal consistency, and runs in CI on every pull request:
 
 - **Lexicon integrity**: required schema fields, no undeclared fields, valid pillar, semantic-domain, and optional-module classifications, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, duplicate glosses (warning).
-- **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/minimal_pairs_baseline.txt`, which may only shrink.
+- **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/validation/minimal_pairs_baseline.txt`, which may only shrink.
 - **Documentation examples**: every Phi word quoted in `documents/`, `project/`, `manual/`, `pamphlets/`, `primer/`, `texts/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
 - **Source citations**: every labeled literary citation must occur verbatim in its stored source. A source clause belongs to one aligned unit, except on a declared paired page where it may appear once in each named rendering.
 - **Productive names**: after `ne`, a name-form absent from the current lexicon must be lowercase, content-shaped, and two, three, or four syllables. Any legal four-syllable candidate is accepted without consulting lexical history. A name may match a current lexicon entry only when that entry is a content word; every current function and other non-content form remains unavailable.
 - **Three-syllable ceiling**: every lexical form must have at most three syllables, with no exception. The finite migration ledger records completed replacements rather than authorizing old forms.
-- **Compound registry**: every member word of a compound in `documents/compounds.md` must exist in the lexicon, no registry row repeats, and the generated Part VII compound reference must match what the registry would generate.
+- **Compound registry**: every member word of a compound in `documents/reference/compounds.md` must exist in the lexicon, no registry row repeats, and the generated Part VII compound reference must match what the registry would generate.
 - **Collision check for new coinages**: `neighbors WORD` lists every existing word within edit distance 1 of a candidate.
 
 ```bash
@@ -37,7 +37,7 @@ python3 scripts/test_name_forms.py
 
 ## generate_reference.py
 
-Regenerates the Part VII alphabetical, semantic-domain, optional-module, and part-of-speech lexicon references under `manual/part7_reference/lexicon/`, and the Part VII compound reference (`manual/part7_reference/compounds.md`) from `documents/compounds.md`. Must run after any vocabulary or compound-registry change; the validator fails if a committed reference drifts from its source. The registry parser the validator and both build scripts share lives in `compound_registry.py`.
+Regenerates the Part VII alphabetical, semantic-domain, optional-module, and part-of-speech lexicon references under `manual/part7_reference/lexicon/`, and the Part VII compound reference (`manual/part7_reference/compounds.md`) from `documents/reference/compounds.md`. Must run after any vocabulary or compound-registry change; the validator fails if a committed reference drifts from its source. The registry parser the validator and both build scripts share lives in `compound_registry.py`.
 
 ```bash
 python3 scripts/generate_reference.py
@@ -71,7 +71,7 @@ Note: `find` exits 1 when the term EXISTS (i.e. "not available for coinage") and
 Ranks lexicon pairs by phoneme-unit and feature-weighted similarity, with function-word and corpus-attestation context. It complements the validator's character-distance rule; it never makes an automatic rename decision.
 
 ```bash
-python3 scripts/audit_phonetic_neighbors.py --output documents/phonetic_neighbors_baseline.txt
+python3 scripts/audit_phonetic_neighbors.py --output documents/validation/phonetic_neighbors_baseline.txt
 python3 scripts/audit_phonetic_neighbors.py --candidate proposed_word
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```

@@ -22,7 +22,7 @@ Five shelves divide the work. `documents/` says what the language **is**, the ma
 | | |
 |---|---|
 | [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. More than one thousand entries. |
-| [documents/](documents/) | Current language references and evaluation evidence, including the [language assessment](documents/language_assessment.md) and [lexicon expansion survey](documents/lexicon_expansion_survey.md). |
+| [documents/](documents/) | Current language documentation, indexed and separated by purpose. |
 | [documents/modules/](documents/modules/) | Experimental practice and domain profiles that organize shared core vocabulary and record gaps without creating separate grammars or lexicons. |
 | [project/](project/) | Operational records: the development protocol, decision log, status roadmap, publication strategy, and release manifests. |
 | [texts/](texts/) | The literary shelf: twelve short works and *News from Nowhere*, whose 32 chapters have their own book directory. The source witnesses live there too. |

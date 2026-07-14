@@ -1,5 +1,5 @@
 /* The transmutation teacher: a deterministic pattern engine over the
-   lexicon and the primer's taught patterns (documents/taught_patterns.md).
+   lexicon and the primer's taught patterns (documents/reference/taught_patterns.md).
    No model runs here — every step is a rule, authored and reviewed like
    everything else in the repository, so every step can be explained. */
 

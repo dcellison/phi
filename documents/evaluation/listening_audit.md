@@ -4,14 +4,14 @@ This protocol turns lexical-density concerns into reproducible maintainer observ
 
 ## Two complementary audits
 
-The existing `documents/minimal_pairs_baseline.txt` records grandfathered character edit-distance-one pairs among content words. `scripts/audit_phonetic_neighbors.py` adds phoneme-unit edit distance, feature-weighted substitutions, function-word priority, and corpus attestations. Neither score predicts confusion by itself.
+The existing `documents/validation/minimal_pairs_baseline.txt` records grandfathered character edit-distance-one pairs among content words. `scripts/audit_phonetic_neighbors.py` adds phoneme-unit edit distance, feature-weighted substitutions, function-word priority, and corpus attestations. Neither score predicts confusion by itself.
 
 Productive proper-name forms are an open class and do not enter either lexical baseline. `ne` marks their grammatical role, while shared or similar personal names are handled through ordinary clarification. A bearer may still use this audit when choosing among acceptable forms, but an automated neighbor score cannot invalidate their name.
 
 Generate the current ranked baseline:
 
 ```bash
-python3 scripts/audit_phonetic_neighbors.py --output documents/phonetic_neighbors_baseline.txt
+python3 scripts/audit_phonetic_neighbors.py --output documents/validation/phonetic_neighbors_baseline.txt
 ```
 
 Check a proposed coin against the phonetic inventory as well as the validator's spelling check:

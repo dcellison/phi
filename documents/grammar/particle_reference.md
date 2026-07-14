@@ -571,6 +571,6 @@ PL 1SG RECP love.
 ---
 
 **Related Documentation:**
-- Complete grammar: `documents/grammar/01-principles.md` through `06-numerals.md`
-- The three-slot system: `documents/grammar/02-particles.md`
+- Grammar reference index: `documents/grammar/README.md`
+- The three-slot system: `manual/part4_grammar/ch09_particle_system/`
 - Main instructions: `project/development_protocol.md`

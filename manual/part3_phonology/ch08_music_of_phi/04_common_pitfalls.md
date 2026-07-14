@@ -105,4 +105,4 @@ Record yourself reading Phi text, then listen critically:
 3. Are vowel sequences separate or merged?
 4. Is stress consistent and penultimate?
 
-Recording makes repeated production patterns easier to notice. Compare several sessions rather than treating one take or one accent difference as an error, and record genuine confusions in `documents/listening_audit.md`.
+Recording makes repeated production patterns easier to notice. Compare several sessions rather than treating one take or one accent difference as an error, and record genuine confusions in `documents/evaluation/listening_audit.md`.

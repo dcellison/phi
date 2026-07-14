@@ -70,7 +70,7 @@ Use the lexicon IPA for teaching, deliberate reading, citation, and canonical re
 - `/θ/` may be mildly affricated [t̪θ], but it remains distinct from `t`, `s`, and `ph`.
 - Vowels may be shorter and may vary within recognizable five-vowel regions, but adjacent vowels remain separate syllables and no vowel contrast may merge.
 
-These variants describe an initial acceptance policy to test, not a complete catalogue of future accents. A listener's repeated difficulty belongs in `documents/listening_audit.md`; it should not be dismissed as incorrect accent or converted directly into a rename.
+These variants describe an initial acceptance policy to test, not a complete catalogue of future accents. A listener's repeated difficulty belongs in `documents/evaluation/listening_audit.md`; it should not be dismissed as incorrect accent or converted directly into a rename.
 
 ### 5.3. Source material
 

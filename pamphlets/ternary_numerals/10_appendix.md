@@ -78,5 +78,5 @@ Before choosing a form, ask: *Do I know the exact value? Does the difference aff
 
 - Doctrine: the manual, Part IV ch12 (foundation, building, approximation, position and kind, conscious calculation); `documents/grammar/numeral_reference.md` for the full inventory.
 - The classifier ruling and the nature-now rule: `canon.md`, Classifiers.
-- Measurement, power, and numeral design: `documents/psychological_violence_of_measurement.md`.
+- Measurement, power, and numeral design: `documents/design/psychological_violence_of_measurement.md`.
 - The scenes this pamphlet drills: primer ch15, *ta wi shao*, market day; ch24's `lau`-counted news; the journal dates of manual ch23.

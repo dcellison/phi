@@ -77,13 +77,13 @@ The pass keeps several expressions compositional because their parts provide a u
 
 ## Scenario Connections
 
-- [Water for the garden](../philosophical_test_corpus.md#1-water-for-the-garden) can now name its `soneho` tradeoff and any `manawi` compromise without implying that the settlement is just.
-- [Rain and the river](../philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a `mothare` premise, the act `kethira` of inferring, and a revisable `remuma` conclusion.
-- [Definition under pressure](../philosophical_test_corpus.md#5-definition-under-pressure) can separate a `remole` concept, the act `kirothe` of defining, a `kirema` criterion, a `phisuwa` example, and a `phiwheki` counterexample.
-- [The water device, the number, and the loop](../philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../philosophical_test_corpus.md#7-the-shared-energy-device) can now discuss `kithela` validity, `natheri` entailment, and `whekate` refutation directly.
-- [Grain for hunger and seed](../philosophical_test_corpus.md#11-grain-for-hunger-and-seed), the ecological cases, and the work-sharing case can use `remotha` reasons, `whamoi` doubt, `norethi` confidence, and `soneho` tradeoffs while preserving their domain-specific vocabulary needs.
+- [Water for the garden](../evaluation/philosophical_test_corpus.md#1-water-for-the-garden) can now name its `soneho` tradeoff and any `manawi` compromise without implying that the settlement is just.
+- [Rain and the river](../evaluation/philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a `mothare` premise, the act `kethira` of inferring, and a revisable `remuma` conclusion.
+- [Definition under pressure](../evaluation/philosophical_test_corpus.md#5-definition-under-pressure) can separate a `remole` concept, the act `kirothe` of defining, a `kirema` criterion, a `phisuwa` example, and a `phiwheki` counterexample.
+- [The water device, the number, and the loop](../evaluation/philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../evaluation/philosophical_test_corpus.md#7-the-shared-energy-device) can now discuss `kithela` validity, `natheri` entailment, and `whekate` refutation directly.
+- [Grain for hunger and seed](../evaluation/philosophical_test_corpus.md#11-grain-for-hunger-and-seed), the ecological cases, and the work-sharing case can use `remotha` reasons, `whamoi` doubt, `norethi` confidence, and `soneho` tradeoffs while preserving their domain-specific vocabulary needs.
 
-The existing [transformation packet](../philosophical_reasoning_transformation_prompts.md) remains optional practice material and a before-state for comparison. It is not a gate on using or extending the module, and no delay is required before a learner who has not seen its proposition key works through it with or without reference materials.
+The existing [transformation packet](../evaluation/philosophical_reasoning_transformation_prompts.md) remains optional practice material and a before-state for comparison. It is not a gate on using or extending the module, and no delay is required before a learner who has not seen its proposition key works through it with or without reference materials.
 
 ## Source Material Guidance
 

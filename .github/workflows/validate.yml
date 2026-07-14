@@ -24,7 +24,7 @@ jobs:
       - name: Check phonetic-neighbor baseline is in sync
         run: |
           python3 scripts/audit_phonetic_neighbors.py --output /tmp/phonetic_neighbors_baseline.txt
-          diff -u documents/phonetic_neighbors_baseline.txt /tmp/phonetic_neighbors_baseline.txt
+          diff -u documents/validation/phonetic_neighbors_baseline.txt /tmp/phonetic_neighbors_baseline.txt
 
       - name: Check generated reference is in sync with vocabulary
         run: |

@@ -87,7 +87,7 @@ The 2021 mode met current Phi, and Daniel ruled on every gap:
 
 1. **k = calma (U+E002)** — the classical [k], keeping quessë free.
 2. **u-initial hiatus pairs** (*lue*, *mua*, *muila*, *nuola* …) are confirmed mechanical: u above, second vowel below; the 2021 pair table is superseded by the general rule.
-3. **The r-rule stays positional in writing**: word-initial r is always rómen, internal r always órë — the written mode is stricter than the free trill/tap variation `documents/phonetics.md` allows in speech.
+3. **The r-rule stays positional in writing**: word-initial r is always rómen, internal r always órë — the written mode is stricter than the free trill/tap variation `documents/reference/phonetics.md` allows in speech.
 4. **Plain spacing between words.** The ⸱ separator remains a documented calligraphic option; the site renders bare space. The double pusta remains the period.
 5. **The silmë choice is resolved by structure**: every Phi s carries a tehta (all syllables are open), so the rendered mode uses silmë nuquerna throughout — plain silmë remains for calligraphy.
 

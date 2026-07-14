@@ -83,13 +83,13 @@ All 30 roots coined in this pass carry `accessibility-and-participation`. `sowel
 
 ## Scenario evidence
 
-[A doorway, a route, and written words](../philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) places one barrier in a narrow entrance and another in a loud meeting. A refuses being carried. A wider route and written words produce two different access changes, then `pawela` records the result.
+[A doorway, a route, and written words](../evaluation/philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) places one barrier in a narrow entrance and another in a loud meeting. A refuses being carried. A wider route and written words produce two different access changes, then `pawela` records the result.
 
-[Words before the meeting](../philosophical_test_corpus.md#10-words-before-the-meeting) moves the barrier into timing and procedure. A participant needs the words early, time to read and think, clarification, and a written way to contribute. They refuse proxy speech, participate, and remain in disagreement.
+[Words before the meeting](../evaluation/philosophical_test_corpus.md#10-words-before-the-meeting) moves the barrier into timing and procedure. A participant needs the words early, time to read and think, clarification, and a written way to contribute. They refuse proxy speech, participate, and remain in disagreement.
 
-[A reading, a boundary, and care](../philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) keeps the medical boundary visible. Consent, explanation, refusal, and exact information recur in care, but an access need does not become a symptom or treatment decision.
+[A reading, a boundary, and care](../evaluation/philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) keeps the medical boundary visible. Consent, explanation, refusal, and exact information recur in care, but an access need does not become a symptom or treatment decision.
 
-[The wheel, the chisel, and the promised repair](../philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) keeps the work boundary visible. Pain, changed method, rest, observation, and refusal affect participation without turning a craft role into authority over another person's body.
+[The wheel, the chisel, and the promised repair](../evaluation/philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) keeps the work boundary visible. Pain, changed method, rest, observation, and refusal affect participation without turning a craft role into authority over another person's body.
 
 The dialogues remain before-state regression texts. Their compositions are still grammatical, and the later corpus review can decide where a module word makes the exchange more direct.
 

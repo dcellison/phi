@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This packet begins the [Philosophical Reasoning profile](modules/philosophical_reasoning.md) next-use test with three different operations: evidential revision, competing values, and definition under pressure. Each source dialogue has one transformation that changes a premise while preserving its principal conclusion and one that preserves its premises while changing its principal conclusion.
+This packet begins the [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) next-use test with three different operations: evidential revision, competing values, and definition under pressure. Each source dialogue has one transformation that changes a premise while preserving its principal conclusion and one that preserves its premises while changing its principal conclusion.
 
 The prompts contain no glosses or free translations. The separate [transformation key](philosophical_reasoning_transformation_key.md) records the controlled changes, proposition inventory, expected sources, modality, negation, participants, discourse relations, and scoring form. A learner who wants to compare an independent interpretation should keep the key closed until that interpretation is complete.
 

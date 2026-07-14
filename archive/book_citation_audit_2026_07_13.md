@@ -4,7 +4,7 @@
 
 This is a source audit, not a revision of the chapters. It covers every formal reference in the four chapter files currently under `book/`, checks the existence and authorship of each work, follows the one external link printed in the references, compares the chapter's claims with the cited findings, and checks the chapters' internal references against the Phi repository. No fabricated publication or falsely attributed author was found. That good bibliographic result does not make every use of the sources sound: several passages draw conclusions broader or more causal than the cited work permits.
 
-The four chapter files contain 39 formal references: one in [The boatman](00_the_boatman.md), twelve in [The hurried tongue](01_the_hurried_tongue.md), one in [What a refusal is](02_what_a_refusal_is.md), and twenty-five in [The lens, not the cage](11_the_lens_not_the_cage.md). `treatment.md` is a planning document rather than a chapter, so its abbreviated research receipts are outside this audit. They will need a separate bibliography check if they enter the book's prose.
+The four chapter files contain 39 formal references: one in [The boatman](../book/00_the_boatman.md), twelve in [The hurried tongue](../book/01_the_hurried_tongue.md), one in [What a refusal is](../book/02_what_a_refusal_is.md), and twenty-five in [The lens, not the cage](../book/11_the_lens_not_the_cage.md). `treatment.md` is a planning document rather than a chapter, so its abbreviated research receipts are outside this audit. They will need a separate bibliography check if they enter the book's prose.
 
 ## Summary
 
@@ -88,7 +88,7 @@ The synthesis in the paragraph beginning "The diffusion studies found the advant
 
 George Allen & Unwin is the publisher's usual printed style. The current "George Allen and Unwin" is recognizable but should be normalized. The [Tolkien bibliography](https://forodrim.org/bibliography/tbchron.html) confirms the three-volume publication sequence, and [WorldCat](https://search.worldcat.org/title/1487587) confirms the work and publisher.
 
-The chapter's internal receipts are present. `texts/ring_verse_refusal.md` contains the cited refusal and the displayed Phi lines. `documents/psychological_violence_of_measurement.md` exists. The named canon rulings, the examples `ruela wi philo thalo nai.` and `lo mia wiso wisola.`, and the cited vocabulary forms all exist in the repository with the meanings the chapter gives them.
+The chapter's internal receipts are present. `texts/ring_verse_refusal.md` contains the cited refusal and the displayed Phi lines. `documents/design/psychological_violence_of_measurement.md` exists. The named canon rulings, the examples `ruela wi philo thalo nai.` and `lo mia wiso wisola.`, and the cited vocabulary forms all exist in the repository with the meanings the chapter gives them.
 
 ### Unsupported historical claims
 

@@ -86,4 +86,4 @@ Vosoughi, Soroush, Deb Roy, and Sinan Aral. 2018. The spread of true and false n
 
 ### Phi sources
 
-The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/modifier_first_philosophy.md`. Its discussion of sound and sentence order also draws on `manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md` and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`.
+The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/design/modifier_first_philosophy.md`. Its discussion of sound and sentence order also draws on `manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md` and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`.
