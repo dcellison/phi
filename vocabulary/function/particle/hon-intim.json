@@ -7,13 +7,22 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "Beloved / Close Friend / Heart Connection",
-  "description": "A word-level particle that precedes names to mark deep personal bonds of friendship, love, or family intimacy. More than casual familiarity, 'ni' acknowledges those rare connections where hearts recognize each other, where formal distance would be a kind of dishonesty.",
-  "sound_symbolism": "The particle begins with 'n', the nasal that resonates through bone—the most internal, connected consonant, felt in the body rather than just heard. This meets 'i', the close high vowel formed with the smallest space, like intimacy itself requiring nearness. Together, 'ni' creates a sound of closeness: the connecting 'n' bonds speaker to named while the intimate 'i' maintains the tender space of near ones. The sound cannot be shouted—it requires the quiet voice we use with those we hold dear.",
-  "grammatical_notes": "Occupies Slot 2, appearing before names of close friends, family members, or intimate partners, after the name marker when present: 'ne ni moli' (dear moli). Expresses emotional closeness rather than social hierarchy. Reciprocal usage is common but not required—one person may use 'ni' while the other uses unmarked forms or different honorifics, reflecting different feelings or relationship stages. Age-neutral and status-neutral, used purely for emotional marking.",
+  "search_terms": [
+    "intimacy honorific",
+    "dear",
+    "close relationship"
+  ],
+  "description": "The honorific 'ni' states the speaker's close bond with the person named, such as a dear friend, family member, or intimate partner. It claims an existing relationship, not generic friendliness or rank.",
+  "articulatory_notes": "The tongue tip makes dental contact for 'n' while voice passes through the nose. It releases into high-front unrounded 'i', with full stress on the monosyllable.",
+  "sound_symbolism": "Nasal resonance stays behind the tongue's close contact until the release into narrow 'i'. A speaker may hear that compact contour as fitting a private bond.",
+  "usage_notes": "With the name marker, the order is 'ne ni' followed by the name. Once conversation has established the referent, the honorific may carry the name expectation without 'ne'. The form reports the speaker's perspective; reciprocity is not assumed, and an unmarked name is neutral.",
+  "examples": [
+    {
+      "phi": "kona ne ni moli. kia.",
+      "translation": "Dear Moli. Hello."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The particle embodies metta (loving-kindness) in its most personal form—the recognition of deep spiritual friendship. Like the Buddhist concept of kalyana-mittata extended to its most intimate level, 'ni' acknowledges those who share our deepest journey.",
-    "peace-linguistics-practices": "By providing grammatical recognition for intimate bonds, 'ni' validates the importance of personal connection in creating peaceful communities. It makes love speakable in daily language without embarrassment or exaggeration—normalizing the expression of healthy attachment.",
-    "pre-industrial-wisdom": "Traditional communities understood that some relationships transcend category—the friend who becomes family, the elder who becomes heart-parent. 'Ni' carries this recognition that the deepest bonds often defy simple labels, requiring their own grammatical space."
+    "peace-linguistics-practices": "The honorific makes affection speakable, but no relationship requires it. Because 'ni' claims real closeness, an unearned use is inaccurate rather than merely friendly."
   }
 }

@@ -7,14 +7,21 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "Role Holder / Community Function / Service Recognition",
-  "description": "A word-level particle that precedes names or titles to acknowledge someone's current service role within the community. More than job titles, 'le' recognizes those who take on responsibilities for collective wellbeing, honoring function without creating permanent hierarchy.",
-  "sound_symbolism": "The liquid 'l' flows rather than stops, and 'e' is the neutral mid vowel, neither high nor low. One light syllable suits a marker for roles worn temporarily: easy to put on, easy to set down.",
-  "grammatical_notes": "Occupies Slot 2, appearing before names or titles when acknowledging current community function, after the name marker when present: 'ne le siora' (respected siora, in their role). Crucially, this honorific is tied to active role rather than permanent status—someone may be 'ne le siora' while serving as mediator but return to unmarked 'ne siora' when the role ends. Can be used for both formal roles (council member) and informal functions (the one who tends the garden). Self-application is discouraged—roles are recognized by community, not claimed.",
+  "search_terms": [
+    "role honorific",
+    "community role"
+  ],
+  "description": "The honorific 'le' recognizes a person in a current community function. Its respect belongs to the work being undertaken and ends with the role; the person's ordinary name remains. A council facilitator and someone tending a shared garden can both receive 'le' while doing that work.",
+  "articulatory_notes": "For 'l', the tongue tip meets the alveolar ridge and voiced air escapes along the sides. Contact eases into true-mid front 'e', and the one syllable takes full stress.",
+  "sound_symbolism": "The lateral releases easily into the mid-front vowel, and 'le' stays light on the tongue. That ease can recall a role taken up and set down.",
+  "usage_notes": "With the name marker, the order is 'ne le' followed by the name. Once conversation has established the referent, the honorific may carry the name expectation without 'ne'. Formal offices and informal functions both qualify; the speaker recognizes service, not superior rank.",
+  "examples": [
+    {
+      "phi": "ne le siora so shua.",
+      "translation": "Siora will come in their community role."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "The particle embodies the solarpunk understanding of rotating responsibilities and skill-sharing. By marking roles as temporary and functional, 'le' supports systems where leadership and service rotate rather than calcify, where everyone contributes their gifts without becoming trapped in single functions.",
-    "secular-buddhist-philosophy": "The particle embodies the teaching of non-self (anatta)—we are not our roles. By marking community functions as temporary, 'le' prevents identification with position, reminding speakers and listeners alike that roles are worn lightly, like robes that can be set aside.",
-    "peace-linguistics-practices": "By acknowledging service without creating permanent hierarchy, 'le' enables communities to recognize necessary roles while preventing the ossification of power. It makes gratitude for service speakable without creating subservience or permanent elevation.",
-    "pre-industrial-wisdom": "Traditional communities understood that different seasons require different leaders—the harvest coordinator, the storm watcher, the seed keeper. 'Le' carries this wisdom that roles serve community needs and should flow as those needs change."
+    "solarpunk-values": "Rotating community responsibilities need a way to thank the person doing them. The particle honours the role while leaving it ready for someone else."
   }
 }

@@ -7,13 +7,18 @@
   ],
   "slot": 2,
   "pos": "particle",
-  "concept": "Plural / Multiple / More Than One",
-  "description": "A word-level particle that marks the following unquantified noun as plural: 'lo melu' (friends). A bare noun is number-neutral, while a numeral or quantifier supplies its own quantity information and excludes 'lo'.",
-  "sound_symbolism": "The particle begins with 'l', the liquid consonant that flows and connects—tongue creating a channel for sound to stream around it like water gathering streams. This collecting consonant meets 'o', the round vowel of wholeness and inclusion. Together, 'lo' sounds like gathering itself: the flowing 'l' collects individuals while the encompassing 'o' holds them as a group. The sound's fluidity reflects how plurality emerges—not by breaking unities but by allowing them to flow together.",
-  "grammatical_notes": "Occupies Slot 2 immediately before the noun phrase it pluralizes. It marks unquantified plurality without distinguishing dual, paucal, or larger groups. Never combine it with a numeral or quantifier: use 'lo melu' (friends, unquantified), 'wi melu' (two friends), and 'sheloi melu' (many friends), not '*wi lo melu' or '*sheloi lo melu'. A bare noun may be singular or plural by context; explicit singularity uses 'ta'. In poetic usage, 'lo' may mark multiple kinds or instances of a mass noun. Verbs do not agree in number.",
-  "pillars": {
-    "solarpunk-values": "Discussion of resilient systems often needs unquantified plurals such as solutions, backups, participants, and responses. 'Lo' supplies that grammatical form without making a system diverse or resilient.",
-    "secular-buddhist-philosophy": "Plural reference can support reflection on multiplicity within apparent wholes, such as trees in a forest or people in a community. 'Lo' marks plurality; it does not encode a doctrine of aggregates or interdependence.",
-    "pre-industrial-wisdom": "Collective nouns and practical group descriptions can foreground relations among members rather than an exact count. 'Lo' supplies unquantified plurality without claiming that all traditional counting treated plurality this way."
-  }
+  "search_terms": [
+    "plural",
+    "unquantified plural"
+  ],
+  "description": "Plural 'lo' makes an otherwise unquantified noun explicitly more than one. A bare noun leaves number to context, while a numeral or quantifier makes its own quantity claim.",
+  "articulatory_notes": "Voiced air passes around the sides of the tongue for alveolar 'l'. The tongue then draws back as the lips round for true-mid 'o', with stress on the whole form.",
+  "sound_symbolism": "The lateral opens into rounded 'o' with no closure between them. That broad release can suggest several referents gathered under one noun.",
+  "usage_notes": "A noun phrase takes 'lo' only when it has neither a numeral nor a quantifier. The particle gives no finer count than plurality and triggers no agreement on the verb. In the Slot 2 cline it follows a deictic and precedes focus or degree.",
+  "examples": [
+    {
+      "phi": "mia lo melu nila.",
+      "translation": "I see friends."
+    }
+  ]
 }
