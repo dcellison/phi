@@ -247,18 +247,18 @@ short_road_page = f"""<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="The whole of Phi at walking pace: one rule, thirty-five particles, ternary numbers, the sun's clock, and a shelf of literature, in twenty minutes.">
+<meta name="description" content="A twenty-minute walk through Phi, from its first open vowel and modifier-first grammar to the choices its text shelf puts into practice.">
 <title>Phi — the short road</title>
 <script src="theme.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="landing primer">
 <nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a class="here" href="short_road.html">short road</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {short_road_body}
 </main>
 <footer>
-  <p>The whole language at walking pace. This page is short_road.md, rendered from
+  <p>A twenty-minute walk from Phi's first open vowel to its text shelf. This page is short_road.md, rendered from
      <a href="https://github.com/dcellison/phi">the repository</a>.
      The <a href="colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
