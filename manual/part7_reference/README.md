@@ -11,7 +11,7 @@
 | `modules/` | Speaker-facing explanations and usage guides for optional domain vocabulary |
 | `sample_texts.md` | Dialogues, a poem, and the guide to the texts shelf |
 
-The four lexicon files are generated from `vocabulary/*.json` and `compounds.md` from `documents/reference/compounds.md` (in each case the single source of truth); none of the five may be edited by hand. After any vocabulary or registry change:
+The four lexicon files are generated from the entry JSON under `vocabulary/`, and `compounds.md` comes from `documents/reference/compounds.md`. These five files are views of their source material and should not be edited by hand. After any vocabulary or registry change:
 
 ```bash
 python3 scripts/generate_reference.py

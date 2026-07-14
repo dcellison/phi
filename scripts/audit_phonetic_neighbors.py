@@ -14,6 +14,9 @@ import re
 
 ROOT = Path(__file__).resolve().parent.parent
 VOCAB = ROOT / "vocabulary"
+VOCAB_ENTRY_DIRS = tuple(
+    VOCAB / name for name in ("content", "function", "interjection")
+)
 DOC_ROOTS = ("documents", "manual", "pamphlets", "primer", "texts")
 SEGMENT = re.compile(r"ph|th|sh|wh|[hklmnprstwaeiou]")
 VOWELS = set("aeiou")
@@ -95,7 +98,12 @@ def unit_edit_distance(a, b):
 
 def load_entries():
     entries = []
-    for path in sorted(VOCAB.rglob("*.json")):
+    paths = sorted(
+        path
+        for directory in VOCAB_ENTRY_DIRS
+        for path in directory.rglob("*.json")
+    )
+    for path in paths:
         data = json.loads(path.read_text(encoding="utf-8"))
         if "content" in path.parts:
             kind = "content"

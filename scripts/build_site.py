@@ -16,9 +16,12 @@ from compound_registry import load_compounds
 ROOT = Path(__file__).resolve().parent.parent
 SITE_SRC = ROOT / "site"
 BUILD_SITE = ROOT / "build" / "site"
-FIELDS = ["word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
-          "description", "sound_symbolism", "grammatical_notes", "pillars", "tags",
-          "modules"]
+VOCABULARY_DIR = ROOT / "vocabulary"
+VOCABULARY_ENTRY_DIRS = tuple(
+    VOCABULARY_DIR / name for name in ("content", "function", "interjection")
+)
+SCHEMA = json.loads((VOCABULARY_DIR / "schema.json").read_text(encoding="utf-8"))
+FIELDS = list(SCHEMA["properties"])
 
 
 def prepare_site_output():
@@ -42,7 +45,12 @@ prepare_site_output()
 
 
 entries = []
-for p in sorted((ROOT / "vocabulary").rglob("*.json")):
+entry_paths = sorted(
+    path
+    for directory in VOCABULARY_ENTRY_DIRS
+    for path in directory.rglob("*.json")
+)
+for p in entry_paths:
     d = json.loads(p.read_text())
     e = {k: d[k] for k in FIELDS if k in d}
     e["kind"] = p.parent.name if p.parent.name != "content" else "content"

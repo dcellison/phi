@@ -21,7 +21,7 @@ Five shelves divide the work. `documents/` says what the language **is**, the ma
 
 | | |
 |---|---|
-| [vocabulary/](vocabulary/) | The lexicon — one JSON file per word, the single source of truth for every form, meaning, and design rationale. More than one thousand entries. |
+| [vocabulary/](vocabulary/) | The lexicon: one JSON file per word, with its schema and semantic-domain catalogue beside it. More than one thousand entries. |
 | [documents/](documents/) | Current language documentation, indexed and separated by purpose. |
 | [documents/modules/](documents/modules/) | Experimental practice and domain profiles that organize shared core vocabulary and record gaps without creating separate grammars or lexicons. |
 | [project/](project/) | Operational records: the development protocol, decision log, status roadmap, publication strategy, and release manifests. |
@@ -39,7 +39,7 @@ Everything is validated by machine, and the validation gates every pull request:
 python3 scripts/validate_examples.py
 ```
 
-This checks the lexicon against the schema and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted in the manual, primer, texts, pamphlets, or invitation uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](project/roadmap.md); the working protocol for creating words lives in [project/development_protocol.md](project/development_protocol.md); the longer-term intentions live in [the publishing strategy](project/publishing.md).
+This checks the lexicon against its [schema](vocabulary/schema.json) and the sound rules, forbids new minimal pairs, and verifies that every Phi sentence quoted in the manual, primer, texts, pamphlets, or invitation uses real words. If you change the vocabulary, regenerate the derived reference with `python3 scripts/generate_reference.py`. Design decisions live in [canon.md](canon.md); active work and evidence gates live in the [status roadmap](project/roadmap.md); the working protocol for creating words lives in [project/development_protocol.md](project/development_protocol.md); the longer-term intentions live in [the publishing strategy](project/publishing.md).
 
 ## Licensing
 

@@ -226,6 +226,7 @@ All vocabulary entries must include:
 - Content words → `/vocabulary/content/`
 - Function words → `/vocabulary/function/`
 - Interjection words → `/vocabulary/interjection/`
+- Vocabulary schema and semantic domains → `/vocabulary/schema.json`, `/vocabulary/semantic_domains.md`
 - Grammar documentation → `/documents/grammar/`
 - Language and writing references → `/documents/reference/`
 - Design rationale → `/documents/design/`

@@ -15,7 +15,6 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Compound registry](reference/compounds.md) | Established compositions and their documented interpretations. |
 | [Taught patterns](reference/taught_patterns.md) | Indexed inventory of constructions taught across the learning materials. |
 | [The voice, for models](reference/voice_for_models.md) | Writing reference for Phi's register, mechanics, Humanizer pass, and final audit. |
-| [Vocabulary schema](reference/schema.json) | Machine-readable requirements for lexicon entries. |
 
 ## Design rationale
 
