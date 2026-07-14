@@ -4,6 +4,8 @@
   const $ = (id) => document.getElementById(id);
   const PAGE = 50;
   const BASE_VOCABULARY = "base-vocabulary";
+  const REGISTERED_COMPOUNDS = "registered-compounds";
+  const WORD_FILTERS = ["f-pos", "f-tag", "f-module", "f-pillar"];
   let lexicon = [], compounds = [], words = new Set(), shown = 0, current = [];
 
   const PILLAR_NAMES = {
@@ -110,10 +112,7 @@
   };
 
   const compScore = (c, q, field) => {
-    if (field === "word") return textScore(c.compound, q);
-    if (field === "gloss") return textScore(c.meaning, q);
-    if (field === "concept") return textScore(c.literal, q);
-    if (field !== "all") return -1;
+    if (field !== "all" && field !== REGISTERED_COMPOUNDS) return -1;
     if (c.compound === q || c.meaning.toLowerCase() === q) return 0;
     if (c.meaning.toLowerCase().includes(q)) return 1;
     if (c.compound.includes(q)) return 2;
@@ -133,10 +132,11 @@
   function search() {
     const q = $("q").value.trim().normalize("NFC").toLowerCase();
     const field = $("f-field").value;
+    const compoundOnly = field === REGISTERED_COMPOUNDS;
     const fp = $("f-pos").value, ft = $("f-tag").value;
     const fm = $("f-module").value, fl = $("f-pillar").value;
     current = lexicon
-      .map((e) => ({ e, s: q ? score(e, q, field) : 9 }))
+      .map((e) => ({ e, s: q ? score(e, q, field) : (compoundOnly ? -1 : 9) }))
       .filter(({ e, s }) =>
         s >= 0 &&
         (!fp || e.pos.includes(fp)) &&
@@ -145,20 +145,28 @@
         (!fl || (e.pillars && fl in e.pillars)))
       .sort((a, b) => a.s - b.s || a.e.word.localeCompare(b.e.word))
       .map(({ e }) => e);
-    // registered compounds answer plain searches; the filters are word facets
-    const compMatches = (q && !fp && !ft && !fm && !fl)
+    // Registered compounds answer all-field searches or their own scope.
+    // Word facets stay available for lexicon entries only.
+    const showCompounds = compoundOnly || (field === "all" && q && !fp && !ft && !fm && !fl);
+    const compMatches = showCompounds
       ? compounds
-          .map((c) => ({ c, s: compScore(c, q, field) }))
+          .map((c) => ({ c, s: q ? compScore(c, q, field) : 4 }))
           .filter(({ s }) => s >= 0)
           .sort((a, b) => a.s - b.s || a.c.compound.localeCompare(b.c.compound))
           .map(({ c }) => c)
       : [];
     const wordCount = `${current.length} ${current.length === 1 ? "word" : "words"}`;
-    $("status").textContent =
-      current.length === lexicon.length ? "" :
-      current.length === 0 && compMatches.length === 0 ? "nothing found — the lexicon may simply not have it yet" :
-      compMatches.length === 0 ? wordCount :
-      `${wordCount}, ${compMatches.length} ${compMatches.length === 1 ? "compound" : "compounds"}`;
+    if (compoundOnly) {
+      $("status").textContent = compMatches.length === 0
+        ? "nothing found: the compound registry may simply not have it yet"
+        : `${compMatches.length} registered ${compMatches.length === 1 ? "compound" : "compounds"}`;
+    } else {
+      $("status").textContent =
+        current.length === lexicon.length ? "" :
+        current.length === 0 && compMatches.length === 0 ? "nothing found: the lexicon may simply not have it yet" :
+        compMatches.length === 0 ? wordCount :
+        `${wordCount}, ${compMatches.length} ${compMatches.length === 1 ? "compound" : "compounds"}`;
+    }
     $("results").innerHTML = "";
     shown = 0;
     for (const c of compMatches) $("results").appendChild(compRow(c));
@@ -254,12 +262,21 @@
     return div;
   }
 
+  function updateWordFilters() {
+    const disabled = $("f-field").value === REGISTERED_COMPOUNDS;
+    for (const id of WORD_FILTERS) {
+      if (disabled) $(id).value = "";
+      $(id).disabled = disabled;
+    }
+  }
+
   // cross-reference clicks
   document.addEventListener("click", (ev) => {
     const w = ev.target?.dataset?.w;
     if (w) {
       $("q").value = w;
       $("f-field").value = "word";
+      updateWordFilters();
       search();
       window.scrollTo({ top: 0, behavior: "smooth" });
     }
@@ -268,11 +285,13 @@
   // wiring
   let t;
   $("q").addEventListener("input", () => { clearTimeout(t); t = setTimeout(search, 120); });
-  for (const id of ["f-field", "f-pos", "f-tag", "f-module", "f-pillar"]) $(id).addEventListener("change", search);
+  $("f-field").addEventListener("change", () => { updateWordFilters(); search(); });
+  for (const id of WORD_FILTERS) $(id).addEventListener("change", search);
   $("clear").addEventListener("click", () => {
     $("q").value = "";
     $("f-field").value = "all";
-    for (const id of ["f-pos", "f-tag", "f-module", "f-pillar"]) $(id).value = "";
+    for (const id of WORD_FILTERS) $(id).value = "";
+    updateWordFilters();
     search();
   });
   $("more").addEventListener("click", renderMore);
@@ -280,5 +299,6 @@
     if (ev.key === "/" && document.activeElement !== $("q")) { ev.preventDefault(); $("q").focus(); }
   });
 
+  updateWordFilters();
   search();
 })();
