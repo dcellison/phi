@@ -7,15 +7,25 @@
     "mo"
   ],
   "pos": "verb",
-  "concept": "Think / Mental Contemplation",
-  "description": "The basic verb of mental activity: considering, remembering, imagining, following an idea. In Phi's framing, thinking is contemplation rather than grasping: the mind moving through its material without clinging to outcomes. Thoughts arise and pass; 'remo' names the movement, not the conclusions.",
-  "sound_symbolism": "The word begins with 're', where the rolling liquid 'r' creates the sound of continuous movement - like thoughts rolling through consciousness, neither stuck nor rushing, but flowing in their natural rhythm. This fluid beginning captures the dynamic nature of thinking - always in motion, always processing. The open 'e' that follows suggests mental clarity and alertness, the bright awareness needed for contemplation. The second syllable 'mo' grounds this mental activity through the labial nasal 'm' - the most embodied consonant, lips together, bringing thought back to the physical self. The rounded 'o' completes the journey inward, creating a sense of wholeness and completion. Together, 'remo' embodies thinking as a cycle - the outward roll of exploration returning to inner understanding, thought as both movement and arrival.",
-  "grammatical_notes": "'mia remo' (I think). Content of thought takes the 'mena … meno' frame. A thought, by the event-noun rule, is a specific mental formation or the general faculty of contemplation: 'mia remo' (my thought), 'welao remo' (a good thought), 'lo remo' (thoughts). Emphasizes process rather than fixed conclusions.",
+  "search_terms": [
+    "contemplate",
+    "thought"
+  ],
+  "description": "To think: to consider, remember, imagine, or follow an idea. The verb covers mental activity; certainty and a settled conclusion are separate claims.",
+  "articulatory_notes": "A tap or short trill opens the word and leads into stressed mid-front 'e'. Closing the lips for 'm' moves the voice through the nose before final rounded 'o'.",
+  "sound_symbolism": "The little roll at the opening makes 'remo' easy to associate with turning an idea over. The lips gather that motion into a quieter second syllable.",
+  "usage_notes": "The content of a thought takes the 'mena ... meno' declarative frame. In a noun position, the event-noun rule supplies either one thought or thinking considered as an activity.",
+  "examples": [
+    {
+      "phi": "mia mena shia to wepu meno remo.",
+      "translation": "I think that they left."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right thinking (samma sankappa) is part of the Noble Eightfold Path. Buddhist practice teaches observing thoughts without attachment, recognizing them as impermanent mental formations that arise and pass. Mindful thinking involves awareness of our thought patterns and their effects on suffering or liberation."
+    "secular-buddhist-philosophy": "Buddhist practice examines thoughts as events that arise and pass. 'remo' names the thinking under examination without treating its conclusions as fixed."
   },
   "semantic_domains": {
-    "cognition": "fundamental mental process of contemplation and analysis",
-    "wisdom": "thinking as the path to understanding and awareness"
+    "cognition": "considering, remembering, imagining, and following ideas",
+    "wisdom": "thinking examined as a revisable activity rather than a settled answer"
   }
 }

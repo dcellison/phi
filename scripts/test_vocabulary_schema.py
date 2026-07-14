@@ -54,6 +54,17 @@ class VocabularySchemaTests(unittest.TestCase):
         entry.pop("grammatical_notes", None)
         return entry
 
+    def legacy_entry(self, word="sileta"):
+        entry = copy.deepcopy(self.by_word[word])
+        entry.pop("articulatory_notes", None)
+        entry.pop("examples", None)
+        entry.pop("search_terms", None)
+        entry.pop("usage_notes", None)
+        entry["concept"] = "Legacy discovery label"
+        entry["sound_symbolism"] = "A legacy account of the word's sounds."
+        entry["grammatical_notes"] = "A legacy account of grammar and examples."
+        return entry
+
     def test_schema_uses_and_satisfies_draft_2020_12(self):
         self.assertEqual(
             validate_examples.VOCABULARY_SCHEMA["$schema"],
@@ -135,23 +146,23 @@ class VocabularySchemaTests(unittest.TestCase):
         for word in ("sileta", "to", "kia"):
             with self.subTest(word=word):
                 entry = self.target_entry(word)
-                entry.pop("sound_symbolism")
-                entry.pop("pillars")
+                entry.pop("sound_symbolism", None)
+                entry.pop("pillars", None)
                 self.assertEqual(validate_examples.entry_schema_errors(entry), [])
 
     def test_legacy_prose_contract_remains_valid_during_migration(self):
-        entry = copy.deepcopy(self.by_word["sileta"])
+        entry = self.legacy_entry()
         self.assertNotIn("articulatory_notes", entry)
         self.assertNotIn("examples", entry)
         self.assertEqual(validate_examples.entry_schema_errors(entry), [])
 
     def test_articulatory_or_legacy_sound_field_is_required(self):
-        entry = copy.deepcopy(self.by_word["sileta"])
+        entry = self.legacy_entry()
         del entry["sound_symbolism"]
         self.assert_invalid(entry, "not valid under any of the given schemas")
 
     def test_structured_examples_or_legacy_grammar_field_is_required(self):
-        entry = copy.deepcopy(self.by_word["sileta"])
+        entry = self.legacy_entry()
         del entry["grammatical_notes"]
         self.assert_invalid(entry, "not valid under any of the given schemas")
 
@@ -176,7 +187,7 @@ class VocabularySchemaTests(unittest.TestCase):
         self.assert_invalid(entry, "should be non-empty")
 
     def test_prose_coverage_states(self):
-        legacy = copy.deepcopy(self.by_word["sileta"])
+        legacy = self.legacy_entry()
         partial = copy.deepcopy(legacy)
         partial["articulatory_notes"] = "A physical pronunciation note."
         dual = self.target_entry()

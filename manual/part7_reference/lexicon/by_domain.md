@@ -105,7 +105,7 @@
 | `rimawu` | drudgery | work structured or experienced as depleting |
 | `rinoka` | project | a bounded undertaking containing related work |
 | `riola` | labor | fundamental human activity of laboring |
-| `riporu` | task | a bounded unit of intended or discussed activity |
+| `riporu` | task | one bounded unit of intended or discussed work |
 | `ritako` | workload | the combined demands of work under stated conditions |
 | `rohi` | rub | Friction as care |
 | `roke` | move | fundamental human activity of moveing |
@@ -338,7 +338,7 @@
 | `moreko` | articulate | Translating inner experience to speech |
 | `mothami` | baseline | a selected reference condition used for comparison |
 | `mothare` | premise | a proposition serving as a starting point in inference |
-| `mu` | zero | mathematical concept of absence and identity |
+| `mu` | zero | the exact mathematical value for absence of quantity |
 | `muko` | careless | Inattentive |
 | `murethi` | impairment | a stated difference in cognitive function |
 | `nai` | be | establishing identity and predication |
@@ -399,7 +399,7 @@
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
 | `rei` | eighty-one-group | Names a learned group of eighty-one, not a perceptual or cognitive limit |
 | `relo` | symbol | Representation |
-| `remo` | think | fundamental mental process of contemplation and analysis |
+| `remo` | think | considering, remembering, imagining, and following ideas |
 | `remole` | concept | an organized idea used to relate or classify experience |
 | `remotha` | reason | a consideration that supports acceptance or action |
 | `remuma` | conclusion | the proposition reached from stated premises |
@@ -759,7 +759,7 @@
 | `thorea` | ceremony | gathers collective presence for shared transformation |
 | `thorelu` | converse | Building connection through speech |
 | `thowia` | born | The arrival of a new member |
-| `thua` | fair | restores collective balance through equitable practice |
+| `thua` | fair | equitable treatment assessed in relation to needs and circumstances |
 | `thuleni` | comfort | Caring for those who suffer |
 | `thumela` | teach | deeply relational act between teacher and student |
 | `thunai` | student | Learning role |
@@ -800,7 +800,7 @@
 | `wisola` | exchange | weaves relationships through reciprocal giving and receiving |
 | `woenu` | tame | Human-animal bond |
 | `wolu` | healthy | Well-functioning |
-| `womu` | home | the shelter of family and intimacy |
+| `womu` | home | the felt relation that turns a dwelling into a place of rest and return |
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
@@ -928,7 +928,7 @@
 | `sephori` | supply | supporting making and repair through resource flow |
 | `shela` | art | Aesthetic making |
 | `shiro` | tree | provider of materials, shelter, and breath |
-| `shiroka` | repair | Restoring function to broken things |
+| `shiroka` | repair | technical restoration of a damaged object's function |
 | `shorema` | contribute | Building collective goods |
 | `sima` | thread | Spun fiber |
 | `sitheku` | transcribe | making a stable textual rendering of language |
@@ -1388,7 +1388,7 @@
 | `sihewa` | breeze | Gentle air movement |
 | `sileo` | silk | Insect fiber |
 | `silero` | star | luminous celestial body |
-| `sileta` | sun | the star that gives Earth daylight |
+| `sileta` | sun | the particular star that gives Earth daylight |
 | `simoe` | rich | Deeply fertile |
 | `solai` | gold | Precious metal |
 | `sophae` | cotton | Plant fiber |
@@ -1985,7 +1985,7 @@
 | `whola` | invite | explicitly opens spaces and creates paths for others to enter |
 | `wira` | window | Light opening |
 | `wiralu` | runoff | movement from a source surface toward a lower or receiving place |
-| `womu` | home | the place of dwelling and belonging |
+| `womu` | home | a dwelling understood as home rather than location alone |
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | Great distance |
 
@@ -2052,7 +2052,7 @@
 | `morashi` | relapse | a reversal within an ongoing health course |
 | `mosha` | period | Time span |
 | `mothami` | baseline | often a documented earlier period or state against which change is assessed |
-| `mu` | zero | cycles' beginning and end, pauses between |
+| `mu` | zero | zero in a counted span and metaphorical pauses between events |
 | `muero` | autumn | Harvest season |
 | `mukesi` | spoil | condition worsening during storage or delay |
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |
@@ -2108,7 +2108,7 @@
 | `sheru` | slow | Unhurried pace |
 | `shila` | winter | Rest season |
 | `shimalo` | discipline | shapes growth through sustained gentle effort |
-| `sileta` | sun | marker of days and seasons |
+| `sileta` | sun | an observable marker of days and seasons |
 | `sitawi` | inventory | a record explicitly bounded to a time |
 | `sitheku` | transcribe | preserving passing language for later use |
 | `soleha` | luck | The way things fall |
@@ -2219,7 +2219,7 @@
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | Right-sized self |
-| `mu` | zero | supports a Phi-specific metaphor of emptiness as potential |
+| `mu` | zero | a Phi-specific comparison between numerical zero and an empty interval |
 | `mueli` | plain (unadorned) | Simple sufficiency |
 | `muko` | careless | Lacking care |
 | `muro` | stubborn | Resistant to change |
@@ -2272,7 +2272,7 @@
 | `ralu` | free | Unbound state |
 | `rei` | eighty-one-group | Keeps exact eighty-one, approximate eighty-one-scale, and literal uncountability distinct |
 | `relua` | mirror | Self-seeing |
-| `remo` | think | thinking as the path to understanding and awareness |
+| `remo` | think | thinking examined as a revisable activity rather than a settled answer |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
 | `remotha` | reason | deliberative support whose relevance and limits can be considered |
 | `reo` | meaning | requires understanding context and relationship |
@@ -2296,7 +2296,7 @@
 | `shewo` | true | Reality correspondence |
 | `shiloa` | pure | requires understanding of essential nature |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
-| `shiroka` | repair | Technical skill applied to preservation |
+| `shiroka` | repair | the diagnosis and skilled work needed to make a device usable again |
 | `shoeka` | route | Way chosen |
 | `sholu` | complete | Nothing lacking |
 | `shonela` | learn | involves understanding and transformation of perspective |

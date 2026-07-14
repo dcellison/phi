@@ -7,14 +7,21 @@
     "a"
   ],
   "pos": "pronoun",
-  "concept": "I / Self / First Person Singular",
-  "description": "The first-person singular pronoun, marking the speaker in discourse. 'Mia' is the plain 'I', with no gender, rank, or case distinctions built in.",
-  "sound_symbolism": "The word begins with 'mi', where the labial nasal 'm' resonates within—the most internal consonant, formed with closed lips, vibrating through bone. This self-contained sound meets the high vowel 'i', the thinnest, most focused vowel, like consciousness aware of itself. This precise self-awareness then opens into 'a', the most expansive vowel, acknowledging that even as we say 'I,' we exist in relationship to all that is not-I. The journey from internal resonance through focused awareness to open acknowledgment mirrors the movement from self-centeredness to self-in-relationship.",
-  "grammatical_notes": "Functions as the first-person singular pronoun without case marking—the same form serves as subject, object, or within prepositional phrases. This case neutrality reflects Phi's egalitarian grammar where syntactic position rather than morphological marking indicates grammatical role. Cannot be modified by adjectives or determiners. Gender-neutral, refusing the violence of imposed binary categories. Plural: 'lo mia' (we). Example: 'mia thia nila' (I see you).",
-  "pillars": {
-    "solarpunk-values": "Individual agency within collective flourishing requires healthy self-concept without toxic individualism. 'Mia' enables speakers to claim their place in community systems—taking responsibility without taking over, contributing without controlling.",
-    "secular-buddhist-philosophy": "The word embodies the teaching of anatman (non-self) even while enabling self-reference. The progression from 'mi' to 'a' reminds speakers that 'I' is a useful convention for communication while remaining empty of fixed essence—a process rather than a thing.",
-    "peace-linguistics-practices": "By using soft sounds (nasal and vowels) without harsh stops, 'mia' makes self-reference gentle rather than aggressive. This phonetic choice shapes how speakers present themselves—with presence but not dominance, with clarity but not harshness.",
-    "pre-industrial-wisdom": "Traditional cultures understood self as inherently relational—'I am because we are' expresses the Ubuntu wisdom that individual identity emerges from community connection. 'Mia' carries this understanding that saying 'I' always implies the web of relationships that make selfhood possible."
-  }
+  "search_terms": [
+    "I",
+    "first person singular"
+  ],
+  "description": "The first-person singular pronoun: the speaker as subject, object, possessor, or prepositional object. It carries no gender, rank, or case distinction. Syntactic position supplies the role.",
+  "articulatory_notes": "Nasal voice begins behind closed lips and opens onto high-front 'i'. A separate unstressed 'a' follows stressed 'mi', and the hiatus remains audible.",
+  "usage_notes": "A bare clause-initial 'mia' is the subject. Possession uses ordinary noun order or the verb 'phelu'; plural reference is 'lo mia'.",
+  "examples": [
+    {
+      "phi": "mia thia nila.",
+      "translation": "I see you."
+    },
+    {
+      "phi": "thia mia nila.",
+      "translation": "You see me."
+    }
+  ]
 }

@@ -8,16 +8,26 @@
     "ta"
   ],
   "pos": "noun",
-  "concept": "Sun / Earth's Star / Source of Daylight",
-  "description": "The star nearest Earth, seen as the sun and experienced through daylight and warmth. The word 'sileta' names the particular star of ordinary days; 'silero' (star) names the wider class and the lights seen across the night sky. The word belongs equally in weather talk, seasonal observation, and accounts of solar energy.",
-  "sound_symbolism": "Air narrows through 'si' in a fine hiss and rises into bright 'i'. Stress rests on 'le', where the lateral lets the tongue release into a clear line shared with 'silero' (star). Final 'ta' meets the teeth cleanly and opens into broad 'a', so the light that began at a distance arrives as warmth against the body.",
-  "grammatical_notes": "Noun: 'sileta keru nai.' (The sun is bright.) The wider noun 'silero' names any star, while 'sileta' names the one Earth orbits and may stand without a determiner in ordinary reference. It forms the registered directions 'sileta thorui' (sun's beginning, east) and 'sileta lumae' (sun's end, west), and appears in 'sileta kenua' (solar energy).",
+  "search_terms": [
+    "solar",
+    "day star"
+  ],
+  "description": "The particular star Earth orbits, encountered in ordinary life as daylight and warmth. The wider word 'silero' (star) names any member of the class; 'sileta' is used bare for the sun.",
+  "articulatory_notes": "Air passes along a narrow tongue groove for 's' before the tongue rises into 'i'. Stress rests on 'le', where the tongue releases along its sides; final 'ta' closes at the teeth and opens into 'a'.",
+  "sound_symbolism": "The shared 'sile' opening makes the relationship with 'silero' (star) easy to hear. The final dental stop gives 'sileta' a sharper ending than its sibling, which helps keep the two words distinct.",
+  "usage_notes": "The compound registry uses 'sileta thorui' for east and 'sileta lumae' for west. 'Sileta kenua' is the ordinary composition for solar energy.",
+  "examples": [
+    {
+      "phi": "sileta keru nai.",
+      "translation": "The sun is bright."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Solar power begins with the sun giving energy without a fuel shipment. The expression 'sileta kenua' names that source in discussions of generation and storage.",
-    "pre-industrial-wisdom": "Sunrise, shadow, warmth, and season have long told people when to travel, plant, rest, or turn home. The expressions 'sileta thorui' and 'sileta lumae' keep two of those observations inside the ordinary words for east and west."
+    "solarpunk-values": "In 'sileta kenua' (solar energy), the sun remains audible as the source under discussion.",
+    "pre-industrial-wisdom": "The registered east and west expressions use the sun's daily passage, while 'sileta' also remains available for seasonal observation."
   },
   "semantic_domains": {
-    "nature": "the star that gives Earth daylight",
-    "temporal": "marker of days and seasons"
+    "nature": "the particular star that gives Earth daylight",
+    "temporal": "an observable marker of days and seasons"
   }
 }

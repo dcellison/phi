@@ -7,13 +7,21 @@
     "mo"
   ],
   "pos": "classifier",
-  "concept": "Human Classifier / Person Category",
-  "description": "The optional classifier for people. Placed between a numeral and a human noun, 'himo' explicitly assigns what is counted to the human category. A numeral phrase without it remains complete, and its presence does not establish respect, dignity, consciousness, or ethical treatment.",
-  "sound_symbolism": "The word begins with breathy 'hi', whose bright vowel can suggest alert presence, and settles into nasal, rounded 'mo', which can suggest social belonging. This is a mnemonic association with personhood, not a claim that consciousness is unique to humans or encoded by the sound.",
-  "grammatical_notes": "Functions as an optional classifier between a numeral and a human noun. Examples: 'wi himo melu' (two friends) and 'ta phoi himo miona' (nine people). 'Wi melu' and 'ta phoi miona' are equally grammatical. 'Wia' may also precede it in a quantity question: 'wia himo miona' (how many people?). Ordinary quantifiers such as 'soli' and 'sheloi' modify the noun directly and do not take a classifier. Never use 'himo' with a non-human noun. A numeral or quantifier already marks quantity, so the phrase never also takes plural 'lo'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Choosing 'himo' can serve as a reminder that a numerical statement concerns people. The classifier does not itself recognize Buddha-nature, produce mindfulness, or prevent abstraction.",
-    "peace-linguistics-practices": "A dedicated human category can keep personhood lexically visible in a count. Because the classifier is optional and can appear in coercive records, it cannot encode dignity or make dehumanization grammatically impossible.",
-    "pre-industrial-wisdom": "Languages and communities use many different systems for person categories, relationships, roles, and respect. 'Himo' is Phi's own broad human classifier, not a claim that any one traditional practice licenses it."
-  }
+  "search_terms": [
+    "human classifier",
+    "people classifier"
+  ],
+  "description": "The optional classifier for people. Between a numeral and a human noun, 'himo' makes the human category explicit; the same numeral phrase remains complete without it. The classification says what is being counted, not how those people are regarded.",
+  "articulatory_notes": "A light stream of breath through 'h' opens stressed 'hi'. Nasal 'm' closes the lips before the second syllable rounds into mid-back 'o'.",
+  "usage_notes": "The order is numeral, optional 'himo', human noun. The quantity interrogative 'wia' may take the numeral position. Ordinary quantifiers modify the noun directly, and a quantified phrase does not also take plural 'lo'.",
+  "examples": [
+    {
+      "phi": "wi himo melu ha nai.",
+      "translation": "Two friends are here."
+    },
+    {
+      "phi": "thia wia himo miona nila.",
+      "translation": "How many people do you see?"
+    }
+  ]
 }
