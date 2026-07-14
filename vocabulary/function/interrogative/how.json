@@ -7,14 +7,26 @@
     "la"
   ],
   "pos": "interrogative",
-  "concept": "How / In What Way",
-  "description": "The interrogative for inquiring about manner, method, process, or quality. More than seeking mere procedure, 'thela' asks about the way things unfold, the quality of their becoming, the path taken rather than just the destination reached.",
-  "sound_symbolism": "The word begins with 'the', where the interdental fricative 'θ' requires the most thoughtful articulation—the tongue must carefully position itself to create this sound, embodying the careful attention that 'how' questions require. This deliberate beginning, focused through 'e', flows into 'la', the liquid sound of smooth movement and continuous process. The progression from careful consideration to flowing movement mirrors the nature of method itself: thoughtful attention yielding to practiced flow. Speaking 'thela' teaches that understanding 'how' requires both precision and fluidity.",
-  "grammatical_notes": "Functions as an interrogative adverb of manner with notably broad application. Can inquire about method, quality, or state ('how are you?'). This semantic breadth reflects Phi's understanding that manner and quality are aspects of a unified inquiry into the nature of processes. Quantity questions belong to 'wia' (how many / how much). Does not require additional particles for these various functions. Example: 'thia thela kealo' (How do you create?).",
+  "search_terms": [
+    "in what way",
+    "manner question",
+    "method question"
+  ],
+  "description": "'thela' seeks the manner or method of an action. With a state predicate, it asks how someone or something is. Quantity belongs to 'wia' (how many), not to 'thela'.",
+  "articulatory_notes": "Let the tongue tip protrude lightly between the teeth for unvoiced 'th'. The airflow passes into unrounded 'e' at true-mid height. For 'l', contact the alveolar ridge with the tip but leave both sides open; finish with 'a' open and central. Stress the opening 'the'.",
+  "sound_symbolism": "The careful interdental opening releases into the lateral flow of 'l'. That movement from friction to flow offers an embodied mnemonic for asking how a process makes its way.",
+  "usage_notes": "'thela' sits where the manner or method would appear in an answer. The word already signals an open question, so 'wa' (Q) is absent.",
+  "examples": [
+    {
+      "phi": "thia thela kealo.",
+      "translation": "How do you create?"
+    },
+    {
+      "phi": "thia thela nai.",
+      "translation": "How are you?"
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainable transition runs on how-questions: how to shift a system, how to build resilience, how to carry out a repair. 'Thela' is the word those questions start with.",
-    "secular-buddhist-philosophy": "Buddhist practice attends to how, not just what: how one sits, speaks, eats. 'Thela' is the question that turns attention to manner.",
-    "art-nouveau-aesthetics": "Like artisans who understand that how something is made matters as much as what is made, 'thela' honors process as integral to outcome. It's the linguistic tool for exploring technique, for understanding the gestures that create beauty.",
-    "pre-industrial-wisdom": "Traditional knowledge preservation depends on understanding how—how to work with materials, how to read seasons, how to maintain balance. 'Thela' serves this pedagogical need, facilitating the transfer of embodied knowledge across generations."
+    "pre-industrial-wisdom": "Craft knowledge often lives in demonstrated manner rather than in the finished object. 'thela' lets a learner ask for the process itself."
   }
 }
