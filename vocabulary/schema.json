@@ -13,19 +13,19 @@
     },
     "ipa": {
       "type": "string",
-      "description": "The International Phonetic Alphabet transcription, including stress marks and syllable breaks."
+      "description": "The International Phonetic Alphabet transcription with stress marks and syllable breaks."
     },
     "syllables": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "description": "The word broken down into its constituent CV syllables for rule validation."
+      "description": "The canonical syllable sequence, with onset-vowel syllables and hiatus vowels stored separately."
     },
     "slot": {
       "type": "integer",
       "enum": [0, 1, 2],
-      "description": "The particle's position in the three-slot system. REQUIRED for particles; FORBIDDEN for every other part of speech."
+      "description": "The particle's position in the three-slot system. This field appears only on particles."
     },
     "pos": {
       "type": "array",
@@ -50,15 +50,17 @@
         ]
       },
       "minItems": 1,
-      "description": "Lexically listed senses only \u2014 the senses that must be learned per word. Every verb's event/result noun is supplied by the event-noun rule (canon.md) and is NOT listed here; a listed noun+verb combination therefore always signals an idiosyncratic pairing (instrument, role, phenomenon, substance, entity) explained in the entry."
+      "maxItems": 1,
+      "uniqueItems": true,
+      "description": "The entry's single lexical class. Rule-supplied uses, such as an event noun formed from a verb, do not add another class."
     },
     "concept": {
       "type": "string",
-      "description": "The full concept name from the unified concepts document or grammar role."
+      "description": "A compact name for the entry's semantic concept or grammatical role."
     },
     "description": {
       "type": "string",
-      "description": "The detailed description of the concept's meaning and nuance."
+      "description": "The word's meaning and range of use, with the nearby distinction a speaker is most likely to need."
     },
     "sound_symbolism": {
       "type": "string",
@@ -66,7 +68,7 @@
     },
     "grammatical_notes": {
       "type": "string",
-      "description": "Cross-linguistic context explaining the word's grammatical flexibility and syntactic patterns."
+      "description": "Usage and syntactic behaviour, with related words and at least one worked example."
     },
     "pillars": {
       "type": "object",
@@ -92,15 +94,54 @@
           "description": "Rationale for how this concept embodies pre-industrial wisdom."
         }
       },
+      "minProperties": 1,
       "additionalProperties": false,
       "description": "The philosophical pillars this concept primarily embodies, with rationales for each."
     },
     "tags": {
       "type": "object",
-      "additionalProperties": {
-        "type": "string"
+      "propertyNames": {
+        "enum": [
+          "nature",
+          "community",
+          "wisdom",
+          "creation",
+          "dialogue",
+          "temporal",
+          "aesthetic",
+          "emotion",
+          "physical",
+          "ritual",
+          "cognition",
+          "spatial",
+          "activity"
+        ]
       },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minProperties": 1,
       "description": "Semantic domain tags with brief rationales explaining how this word relates to each domain."
+    },
+    "modules": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "household-and-daily-life",
+          "medical-and-bodily-care",
+          "systems-and-shared-infrastructure",
+          "philosophical-reasoning",
+          "accessibility-and-participation",
+          "commons-and-collective-governance",
+          "ecological-systems-and-material-life",
+          "work-craft-and-repair"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Optional learning paths in which a content word belongs. Several paths may share the same word."
     }
   },
   "required": [
@@ -136,5 +177,47 @@
         "slot"
       ]
     }
-  }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "pos": {
+            "contains": {
+              "enum": [
+                "noun",
+                "verb",
+                "adjective",
+                "numeral"
+              ]
+            }
+          }
+        },
+        "required": [
+          "pos"
+        ]
+      },
+      "then": {
+        "required": [
+          "tags"
+        ]
+      },
+      "else": {
+        "not": {
+          "anyOf": [
+            {
+              "required": [
+                "tags"
+              ]
+            },
+            {
+              "required": [
+                "modules"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
 }

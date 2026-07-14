@@ -29,11 +29,14 @@ from compound_registry import load_compounds
 
 PROJECT_ROOT = Path(__file__).parent.parent
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
+VOCABULARY_ENTRY_DIRS = tuple(
+    VOCABULARY_DIR / name for name in ("content", "function", "interjection")
+)
 OUT_DIR = PROJECT_ROOT / "manual" / "part7_reference" / "lexicon"
 COMPOUNDS_OUT = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
 HEADER = """<!-- GENERATED FILE — do not edit.
-     Source of truth: vocabulary/*.json
+     Source of truth: vocabulary entry JSON
      Regenerate with: python3 scripts/generate_reference.py -->
 
 """
@@ -58,7 +61,12 @@ MODULE_TITLES = {
 
 def load_entries():
     entries = []
-    for path in sorted(VOCABULARY_DIR.rglob("*.json")):
+    paths = sorted(
+        path
+        for directory in VOCABULARY_ENTRY_DIRS
+        for path in directory.rglob("*.json")
+    )
+    for path in paths:
         with open(path, encoding="utf-8") as f:
             d = json.load(f)
         cls = path.relative_to(VOCABULARY_DIR).parts[0]  # content/function/interjection
@@ -139,10 +147,9 @@ def by_pos(entries):
             groups[subclass].append(d)
     lines = [HEADER, "# The Phi Lexicon — By Part of Speech\n"]
     lines.append(
-        "*Content words appear under every part of speech they can "
-        "serve as (Phi's analytic grammar lets many words work as "
-        "noun, verb, and adjective). Function words are grouped by "
-        "their class.*\n"
+        "*Content words appear under their listed lexical class. A "
+        "rule-supplied event or quality noun does not add another class "
+        "to the entry. Function words are grouped by grammatical class.*\n"
     )
     for group in sorted(groups):
         words = sorted(groups[group], key=lambda d: d["word"])

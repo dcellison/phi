@@ -1,11 +1,11 @@
 <!-- GENERATED FILE — do not edit.
-     Source of truth: vocabulary/*.json
+     Source of truth: vocabulary entry JSON
      Regenerate with: python3 scripts/generate_reference.py -->
 
 
 # The Phi Lexicon — By Part of Speech
 
-*Content words appear under every part of speech they can serve as (Phi's analytic grammar lets many words work as noun, verb, and adjective). Function words are grouped by their class.*
+*Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
 ## adjective (199)

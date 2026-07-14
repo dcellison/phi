@@ -6,7 +6,7 @@ Phi Language Validator
 
 The single validation tool for the Phi project. Checks:
 
-  1. Lexicon integrity (vocabulary/*.json):
+  1. Lexicon integrity (the three vocabulary entry directories):
      - required schema fields present
      - no undeclared fields (schema has additionalProperties: false)
      - pillar keys are the five canonical keys
@@ -74,6 +74,10 @@ FOUR_SYLLABLE_MIGRATION_FILE = (
 )
 RETIRED_FORMS_FILE = PROJECT_ROOT / "documents" / "validation" / "retired_forms.txt"
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
+VOCABULARY_ENTRY_DIRS = tuple(
+    VOCABULARY_DIR / name for name in ("content", "function", "interjection")
+)
+VOCABULARY_SCHEMA_FILE = VOCABULARY_DIR / "schema.json"
 GENERATED_COMPOUNDS_FILE = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
 DOC_ROOTS = ["documents", "project", "manual", "pamphlets", "primer", "texts", "book", "CLAUDE.md", "kia.md", "README.md", "short_road.md"]
@@ -164,55 +168,19 @@ def load_retired_forms():
 
 RETIRED_FORMS = load_retired_forms()
 
-REQUIRED_FIELDS = [
-    "word", "gloss", "ipa", "syllables", "pos", "concept",
-    "description", "sound_symbolism", "grammatical_notes", "pillars",
-]
-ALLOWED_FIELDS = set(REQUIRED_FIELDS) | {"slot", "tags", "modules"}
-# Canonical key order for serialization (optional classification fields
-# appear after the semantic content they classify).
-FIELD_ORDER = [
-    "word", "gloss", "ipa", "syllables", "slot", "pos", "concept",
-    "description", "sound_symbolism", "grammatical_notes", "pillars",
-    "tags", "modules",
-]
-PILLAR_KEYS = {
-    "solarpunk-values",
-    "secular-buddhist-philosophy",
-    "art-nouveau-aesthetics",
-    "peace-linguistics-practices",
-    "pre-industrial-wisdom",
-}
-PILLAR_ORDER = [
-    "solarpunk-values",
-    "secular-buddhist-philosophy",
-    "art-nouveau-aesthetics",
-    "peace-linguistics-practices",
-    "pre-industrial-wisdom",
-]
-POS_VALUES = {
-    "noun", "verb", "adjective", "numeral", "particle", "preposition",
-    "pronoun", "conjunction", "complementizer", "interrogative",
-    "discourse", "classifier", "quantifier", "vocative", "interjection",
-}
-# The 13 canonical semantic domains (vocabulary/semantic_domains.md).
-CANONICAL_TAGS = {
-    "nature", "community", "wisdom", "creation", "dialogue", "temporal",
-    "aesthetic", "emotion", "physical", "ritual", "cognition", "spatial",
-    "activity",
-}
-# Optional lexical modules recorded in documents/modules/README.md. Module
-# membership changes what a learner may choose to study, never how Phi parses.
-CANONICAL_MODULES = {
-    "household-and-daily-life",
-    "medical-and-bodily-care",
-    "systems-and-shared-infrastructure",
-    "philosophical-reasoning",
-    "accessibility-and-participation",
-    "commons-and-collective-governance",
-    "ecological-systems-and-material-life",
-    "work-craft-and-repair",
-}
+with VOCABULARY_SCHEMA_FILE.open(encoding="utf-8") as handle:
+    VOCABULARY_SCHEMA = json.load(handle)
+
+SCHEMA_PROPERTIES = VOCABULARY_SCHEMA["properties"]
+REQUIRED_FIELDS = VOCABULARY_SCHEMA["required"]
+ALLOWED_FIELDS = set(SCHEMA_PROPERTIES)
+# JSON object order in schema.json is the canonical entry serialization order.
+FIELD_ORDER = list(SCHEMA_PROPERTIES)
+PILLAR_ORDER = list(SCHEMA_PROPERTIES["pillars"]["properties"])
+PILLAR_KEYS = set(PILLAR_ORDER)
+POS_VALUES = set(SCHEMA_PROPERTIES["pos"]["items"]["enum"])
+CANONICAL_TAGS = set(SCHEMA_PROPERTIES["tags"]["propertyNames"]["enum"])
+CANONICAL_MODULES = set(SCHEMA_PROPERTIES["modules"]["items"]["enum"])
 
 IPA_CONSONANTS = {
     "h": "h", "k": "k", "l": "l", "m": "m", "n": "n̪", "p": "p",
@@ -385,7 +353,12 @@ def load_lexicon():
     """Load every vocabulary JSON entry. Returns (entries, load_errors)."""
     entries = []
     errors = []
-    for path in sorted(VOCABULARY_DIR.rglob("*.json")):
+    paths = sorted(
+        path
+        for directory in VOCABULARY_ENTRY_DIRS
+        for path in directory.rglob("*.json")
+    )
+    for path in paths:
         rel = path.relative_to(PROJECT_ROOT)
         try:
             with open(path, encoding="utf-8") as f:

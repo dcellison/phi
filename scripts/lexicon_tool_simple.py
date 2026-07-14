@@ -15,14 +15,12 @@ import sqlite3
 from pathlib import Path
 import sys
 
-# --- Database Configuration ---
-DB_FILE = "lexicon.db"
 PROJECT_ROOT = Path(__file__).parent.parent
 VOCABULARY_DIR = PROJECT_ROOT / "vocabulary"
 CONTENT_DIR = VOCABULARY_DIR / "content"
 FUNCTION_DIR = VOCABULARY_DIR / "function"
 INTERJECTION_DIR = VOCABULARY_DIR / "interjection"
-DB_PATH = PROJECT_ROOT / DB_FILE
+DB_PATH = PROJECT_ROOT / "build" / "lexicon.db"
 
 # --- Main Application ---
 
@@ -128,6 +126,7 @@ def init_db(args):
     print(f"Found {len(json_files)} JSON files to index.")
 
     # 2. Create fresh database
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     if DB_PATH.exists():
         DB_PATH.unlink()
         

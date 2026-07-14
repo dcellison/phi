@@ -1,5 +1,5 @@
 <!-- GENERATED FILE — do not edit.
-     Source of truth: vocabulary/*.json
+     Source of truth: vocabulary entry JSON
      Regenerate with: python3 scripts/generate_reference.py -->
 
 

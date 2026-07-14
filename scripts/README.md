@@ -1,6 +1,6 @@
 # Phi Vocabulary Management Scripts
 
-The vocabulary JSON files under `vocabulary/` are the single source of truth. These scripts validate them, keep the derived artifacts in sync, and support coining. All of them are pure standard-library Python.
+The entry JSON under `vocabulary/content/`, `vocabulary/function/`, and `vocabulary/interjection/` is the single source of truth. [`vocabulary/schema.json`](../vocabulary/schema.json) owns the shared field and classification metadata. These scripts validate the entries, keep derived artifacts in sync, and support coining. All of them are pure standard-library Python.
 
 ## validate_examples.py — the main validator
 
@@ -54,7 +54,7 @@ python3 -m http.server -d build/site  # then open http://localhost:8000
 
 ## lexicon_tool_simple.py
 
-Lightweight SQLite index (`lexicon.db`) over the JSON files, for fast lookups. Scans `vocabulary/content/`, `vocabulary/function/` (recursive), and `vocabulary/interjection/`. Glosses may repeat; words may not.
+Lightweight SQLite index (`build/lexicon.db`) over the JSON files, for fast lookups. Scans `vocabulary/content/`, `vocabulary/function/` (recursive), and `vocabulary/interjection/`. Glosses may repeat; words may not.
 
 ```bash
 python3 scripts/lexicon_tool_simple.py init     # rebuild from JSON
