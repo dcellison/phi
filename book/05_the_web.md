@@ -84,4 +84,6 @@ Dingemanse, Mark, Damián E. Blasi, Gary Lupyan, Morten H. Christiansen, and Pad
 
 Sapir, Edward. 1929. A study in phonetic symbolism. Journal of Experimental Psychology 12(3): 225-239. https://doi.org/10.1037/h0070931.
 
-The account of Phi draws on `canon.md`; the manual's chapters on sound as practice, sound as symbol, and patience with process; and the entries for `muila`, `welisha`, `kerou`, `horathe`, `sileta`, `silero`, and `thorui`. Its procedural sources are the compound registry, the word-creation protocol, the module profile rules in `documents/modules/README.md`, the three-syllable word-shape ruling, and the solo listening audit with its phonetic-neighbor instrument.
+### Phi sources
+
+The Phi material in this chapter comes from `documents/compounds.md`, `documents/development_protocol.md`, and `documents/word_shape_and_external_boundaries.md`. Module scope follows `documents/modules/README.md`. The listening procedure is documented in `documents/listening_audit.md` and implemented by `scripts/audit_phonetic_neighbors.py`. The sound-symbolism account draws on `manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/02_sound_as_symbol.md`, and the word examples use their entries under `vocabulary/`.

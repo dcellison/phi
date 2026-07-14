@@ -83,3 +83,7 @@ Rathje, Steve, Jay J. Van Bavel, and Sander van der Linden. 2021. Out-group anim
 Slow Food. Our history. slowfood.com/our-history. Accessed July 2026.
 
 Vosoughi, Soroush, Deb Roy, and Sinan Aral. 2018. The spread of true and false news online. Science 359(6380): 1146-1151.
+
+### Phi sources
+
+The Phi material in this chapter comes from `canon.md`, `documents/development_protocol.md`, and `documents/modifier_first_philosophy.md`. Its discussion of sound and sentence order also draws on `manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md` and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`.

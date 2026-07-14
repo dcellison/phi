@@ -44,4 +44,6 @@ For now, one scene is enough. A man thinks he knows why a boatman waits, and his
 
 Morris, William. 1891. News from Nowhere; or, An Epoch of Rest. London: Reeves and Turner. First serialized in Commonweal in 1890. The passages above follow the book text.
 
-The Phi rendering of News from Nowhere, with word-by-word glosses and source alignment, is on the project's texts shelf.
+### Phi sources
+
+The Phi material in this chapter comes from `texts/news_from_nowhere/chapter_02.md` and its source witness, `texts/news_from_nowhere/source.txt`. The `wia` entry is in `vocabulary/function/interrogative/how-many.json`, while the exchange ruling is in `canon.md`.
