@@ -1,73 +1,89 @@
 # kia
 
-That word is *hello*. Say it aloud, unhurried: **ki · a**, two syllables, the second one open like a door.
+That word means *hello*. Say it aloud without hurrying: **ki · a**. The final vowel is its own syllable, left open like a door.
 
-Phi is a philosophical constructed language with a single design goal: to make unhurried attention available as a practice. Its sounds, grammar, and vocabulary invite care without pretending that a language can compel mindfulness or peaceful conduct. What follows is not an argument for it. It is a few minutes of contact with it. Decide for yourself.
+Phi is a philosophical constructed language for practising unhurried attention in speech. It cannot make a speaker mindful or kind; grammar has never been good at supervising people. It can make certain choices audible and give a speaker time to notice them. Spend a few minutes with it and decide what you hear.
 
-## The grammar has one organizing principle
+## The grammar has one organising principle
 
-Here is a Phi sentence, arriving the way it arrives for a listener:
+Here is a Phi sentence in the order a listener receives it:
 
 > **lopia** — a child —
 > **thiku pelori** — a small bird —
 > **nila.** — sees.
 
-Everything that modifies, specifies, or relates comes before what it affects. The describing word before the noun. The object before the verb. The question-mark word before the question. The *if* before the *then*. One principle, applied throughout the language, and you have just watched it work: the relation is announced before its head arrives.
+Read it in order: a child, a small bird, sees. Everything that modifies, specifies, or relates comes before what it affects. A describing word precedes its noun, and the object precedes the verb. A yes-or-no question identifies itself before the statement begins; a condition arrives before its consequence.
 
-Phi calls this *announce, then deliver*. It organizes the syntax; learners still meet particles, clause frames, classifiers, conversion rules, and ternary numerals, but those systems repeatedly return to the same orientation.
+Phi calls this *announce, then deliver*. The principle does not replace the rest of the grammar. Learners still meet particles and clause frames, along with classifiers and ternary numbers. Those systems keep returning to the same direction: the relation comes first, then the thing it relates.
 
-## A word learned once is owned forever
+## Words keep their shape
 
-Phi has no conjugations, no declensions, no plural endings, no irregular anything. Words never change shape. Time, mood, and number are separate little words that stand where the one rule says they stand. If you have ever fought a verb table at midnight, read that sentence again.
+Phi words do not conjugate or decline. Time and number are carried by separate words; so are possibility and negation. Each stands in a fixed place.
 
-## Careful speech is the reference
+The verb does not change its coat when past time arrives. This is considerate of it, particularly around midnight. Grammar has not disappeared, however: the particles have an order, clauses have frames, and ternary numbers remain ternary. A word learned today simply keeps the same shape tomorrow.
 
-Every syllable is open — a consonant, then a vowel, nothing after. Every vowel is taught as pure and full. Try the word for dog: **lo · ha · u**. The first syllable begins *lothea*, the word for love. The last two vowels, said separately as Phi requires, are a howl — the wolf still audible at the end of the word. Phi teaches this careful form first. Conversational speech may move faster, but it must preserve the contrasts and syllables that carry meaning.
+## A dog in three syllables
 
-## You can hear the punctuation
+Try the word for dog: **lo · ha · u**. Each syllable is open, with no consonant closing it, and the final two vowels remain separate. The opening **lo** leans toward *lothea*, love; the final **a · u** falls away like a howl. The wolf is still audible at the end of the word.
 
-Phi writes exactly one mark: the period. Everything else English draws in silence, Phi says aloud. The question mark is the word **wa**. It stands first, so no question can impersonate a statement for even a syllable. The quotation marks are words: **shola** opens verbatim Phi words and **sholo** closes them. The comma of address is **kona**; the proper-name marker is **ne**. After `ne`, a speaker may use a content word as a name or choose a new Phi-form name of two, three, or four syllables without adding it to the dictionary. This makes Phi punctuation recoverable in careful dictation. Source spellings, scripts, numbers, records, and notation remain outside Phi passages in their own medium.
+The lexicon records this careful pronunciation, with every vowel full and every syllable recoverable. Conversational Phi may move faster and carry an accent. It still preserves the contrasts that keep one word from becoming another.
 
-## The slowing is the practice
+## Punctuation speaks
 
-Why teach a language at an unhurried pace? Because every Phi sentence can rehearse the same small discipline: announce a relation, then deliver its head. Say what relates before what is related, how you know before it matters, the condition before the consequence. This is an offered practice, not a promised effect. Phi draws openly from five traditions — solarpunk's livable futures, secular Buddhist attention, Art Nouveau's organic line, peace linguistics, and pre-industrial rhythm — and remains a value-explicit, culturally situated project rather than a neutral language for everyone.
+Phi writes one visible mark of its own: the period. A yes-or-no question begins with **wa**, so the listener knows what sort of sentence is coming before the claim arrives.
 
-## Some words are missing on purpose
+Verbatim Phi quotation begins with **shola** and closes with **sholo**. **kona** marks direct address, and **ne** announces a proper designation. After **ne**, a speaker may carry an existing content word as a name or choose a new Phi-shaped name of two, three, or four syllables. The new name identifies its referent without becoming a dictionary word.
 
-Phi has no word for any weapon. It has no word for *bad* — things are harmful, broken, or unwell, and the speaker must say which. It has no gendered person-words: *miona* is a person, *tewema* a partner, *phao* a parent. Some vocabulary of domination remains deliberately absent. These are value-explicit design choices, not a ban on testimony or analysis: a source term can remain separately visible while Phi describes or critiques it, and any lexical refusal must be reconsidered if it obstructs care, identity, consent, safety, testimony, or critique.
+A listener can recover the core punctuation of careful Phi from dictation. Material outside Phi keeps the writing conventions of its own medium. Source spellings, scripts, exact records, and notation do not enter Phi grammar.
 
-## Honesty is grammatical
+## What the pause can do
 
-Four small, optional particles mark how you know what you are saying:
+By the time a Phi clause reaches its head, the speaker has already placed the surrounding relations. That small delay can become a practice of attention. It is an invitation, not a mechanism that manufactures virtue.
+
+Phi names five pillars openly. Its solarpunk values look toward liveable futures, while secular Buddhist practice supplies the discipline of attention. Art Nouveau brings the organic line. Peace linguistics asks what speech does between people; pre-industrial wisdom keeps daylight and handwork in view, along with distance measured on foot. These pillars make Phi a situated language with declared preferences, not a neutral language intended for everyone.
+
+## Some absences are deliberate
+
+Ask Phi for a single word meaning *bad* and it makes you choose: harmful, broken, or unwell. People are named without a universal gender class: *miona* is a person, *tewema* a partner, and *phao* a parent. The core lexicon also declines a general weapon category and several roles of domination.
+
+These absences do not prevent testimony or analysis. An exact source term can remain visible beside Phi while Phi describes what happened and who was affected. If a lexical refusal makes care or honest testimony harder, it must be reconsidered.
+
+## How do you know?
+
+Four optional particles let a speaker name the source of a claim:
 
 > **pheralu to hi lepa.** — rain fell; I saw it myself.
 > **pheralu to ti lepa.** — rain fell; someone told me.
 
-There is one for inference and one for assumption too. Phi does not ask you to be certain. It asks you to be exact about how you are not.
+The other two mark inference and assumption. An unmarked sentence remains a plain assertion. Phi does not ask you to be certain. It asks you to be exact about how you are not.
 
-## Some things it says differently
+## You need not go
 
-There is no "you need not go." Phi states the absence of obligation as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. The sun does not shine; **sileta keru loa** — the sun gives light. Planting is **wei muila thinoe loa** — giving seeds to the earth. These are not poetic flourishes on top of the language. They are the plain way to say it.
+Phi expresses "you need not go" as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. The sun does not shine; **sileta keru loa** — the sun gives light. Planting is **wei muila thinoe loa** — giving seeds to the earth. These are not poetic decorations added after the sentence is built. They are ordinary ways to say ordinary things.
 
-## It is not a sketch
+## The shelf is already occupied
 
-The lexicon holds more than one thousand words, every one validated by machine against the sound rules and against every other word. There is a full reference manual. There are texts — twelve so far, transmuted rather than translated: the loving-kindness meditation, the old fable of the wind and the sun, the first article of the Universal Declaration of Human Rights (which needed no new words at all), the Babel story, Schleicher's sheep and horses, the fox's secret from *The Little Prince*, three teachings from *The Prophet*, five chapters of the Tao Te Ching, the Heart Sutra, the whole of *The Velveteen Rabbit* (where *Real* turned out to be a piece of grammar the language already had), the first chapters of Morris's *News from Nowhere*, and the Ring Verse, refused. And there is a primer — twenty-four short chapters that teach the language through one household, its garden, its well, its dog, and a cat who sleeps through the entire book and turns out to be a grammar lesson.
+The lexicon holds more than one thousand words. A validator checks each entry's structure and sound shape, then refuses new close collisions. The manual explains the grammar those words share.
+
+The primer begins in one household, between its garden and its well. Its dog appears often; its cat contributes little to the housework but does a great deal for the habitual aspect.
+
+The text shelf holds both methods. The Metta Sutta and *A Solarpunk Manifesto* are close translations. *The North Wind and the Sun* is told both ways and compares what changes; Article 1, Babel, and the Heart Sutra receive the same treatment. Other works use transmutation alone. They include the Ring Verse refusal and the opening chapters of *News from Nowhere*.
 
 ## Seven doors
 
-**Walk**: the short road. The whole language at walking pace: one rule, one working example per idea, and twenty minutes to the far door.
+**Walk** takes the short road through the whole language at a steady pace, with one working example for each idea and about twenty minutes to the far door.
 
-**Wander**: the lexicon explorer, where every word carries its sounds, its meaning, and the reasoning behind it.
+Open **Wander** when you want the lexicon itself. Each word brings its sound and meaning, with its relations close at hand.
 
-**Begin**: the primer. Chapter one is fourteen sentences long and you already know the first word of the language.
+**Begin** enters the primer through a small home and lets the grammar arrive one scene at a time.
 
-**Verify**: the manual, for the reader who wants the machinery: the phonology, the particle system, the ternary numbers, all of it.
+The machinery waits behind **Verify**. The manual covers the sound system and the full grammar, with ternary numbers and clause frames in their proper places.
 
-**Consider**: the Phi book, which asks why the language was made this way and puts its claims beside the evidence. It is being written in public.
+Choose **Consider** for the Phi book, which asks why the language works this way and tests its claims against linguistic evidence. The book is being written in public.
 
-**Read**: the texts. Phi has a shelf of literature, with close translations beside preferred transmutations and one famous verse the language would not say.
+**Read** opens the text shelf, where close translations sit beside Phi's preferred transmutations and one famous verse receives a refusal.
 
-**Practice**: the pamphlets. Each takes one of the structures learners find hardest and gives it room to breathe, with exercises and answers.
+For a construction that will not settle after one explanation, **Practice** opens the pamphlets, with longer lessons and exercises followed by their answers.
 
 ---
 
