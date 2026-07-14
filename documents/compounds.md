@@ -90,4 +90,4 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 
 ---
 
-Word-creation rules live in `documents/development_protocol.md`. The compositional principle is in `documents/language_guide.md` §2.5, and the Metta Sutta gap log shows its judgments in use.
+Word-creation rules live in `project/development_protocol.md`. The compositional principle is in `documents/language_guide.md` §2.5, and the Metta Sutta gap log shows its judgments in use.

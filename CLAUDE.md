@@ -2,7 +2,7 @@
 
 You are working on Phi, a constructed language and Daniel Ellison's long-term project. The development rules are project documentation, not tool configuration — read and follow them exactly:
 
-@documents/development_protocol.md
+@project/development_protocol.md
 
 Authority order when documents disagree: `canon.md`. Settled decisions there are never reopened silently.
 

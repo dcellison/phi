@@ -101,7 +101,7 @@ The description of the tools is accurate. `validate_examples.py` computes charac
 
 ### Lines 59-67: the price of a root and optional modules
 
-The word-creation questions are accurate paraphrases of `documents/development_protocol.md`: existing expression, composition, core or module placement, semantic neighbors, values, and burdens all appear there. The protocol explicitly calls itself a quality checklist rather than a burden-of-proof process and allows coinage because a concept is useful, valued, beautiful, or worth making easy to express. The chapter's less procedural wording preserves that point. One phrase needs tightening: an entry records its relationships to the relevant pillars, not necessarily to all five.
+The word-creation questions are accurate paraphrases of `project/development_protocol.md`: existing expression, composition, core or module placement, semantic neighbors, values, and burdens all appear there. The protocol explicitly calls itself a quality checklist rather than a burden-of-proof process and allows coinage because a concept is useful, valued, beautiful, or worth making easy to express. The chapter's less procedural wording preserves that point. One phrase needs tightening: an entry records its relationships to the relevant pillars, not necessarily to all five.
 
 The module paragraph agrees with `documents/modules/README.md`. Modules add vocabulary, not grammar; a speaker may ask for a core paraphrase; and one word may belong to several modules. The closing source note should name the module document because this paragraph depends on it directly.
 
@@ -121,7 +121,7 @@ The module paragraph agrees with `documents/modules/README.md`. Modules add voca
 | Three-syllable ceiling and capacity count | [`documents/word_shape_and_external_boundaries.md`](../documents/word_shape_and_external_boundaries.md), [`documents/phonology_rules.md`](../documents/phonology_rules.md), and [`canon.md`](../canon.md) | Structural rule accurate; current availability count stale in the first document. |
 | Character and phonetic collision tools | [`scripts/validate_examples.py`](../scripts/validate_examples.py), [`scripts/audit_phonetic_neighbors.py`](../scripts/audit_phonetic_neighbors.py), and [`scripts/README.md`](../scripts/README.md) | Implementation matches the chapter. |
 | Solo listening and rename limit | [`documents/listening_audit.md`](../documents/listening_audit.md) | Present and accurately summarized. |
-| Word-creation process | [`documents/development_protocol.md`](../documents/development_protocol.md) | The chapter keeps the protocol's meaning without copying its checklist voice. |
+| Word-creation process | [`project/development_protocol.md`](../project/development_protocol.md) | The chapter keeps the protocol's meaning without copying its checklist voice. |
 | Optional module behavior | [`documents/modules/README.md`](../documents/modules/README.md) | The summary is sound; this source is missing from the closing note. |
 | `sileta thorui` | [`documents/compounds.md`](../documents/compounds.md) and entries for sun and beginning | The words, order, literal reading, and registered direction all match. |
 

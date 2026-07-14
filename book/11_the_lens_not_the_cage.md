@@ -192,4 +192,4 @@ Wolff, Phillip, and Kevin J. Holmes. 2011. Linguistic relativity. WIREs Cognitiv
 
 ### Phi sources
 
-The Phi material in this chapter comes from the number and evidential rulings in `canon.md`, the number chapters under `manual/part4_grammar/ch12_numbers/`, and the evidential chapters under `manual/part4_grammar/ch16_evidentiality/`. Its boundary on claims follows `documents/development_protocol.md`, especially the rule that design intentions must be tested in use rather than presented as guarantees.
+The Phi material in this chapter comes from the number and evidential rulings in `canon.md`, the number chapters under `manual/part4_grammar/ch12_numbers/`, and the evidential chapters under `manual/part4_grammar/ch16_evidentiality/`. Its boundary on claims follows `project/development_protocol.md`, especially the rule that design intentions must be tested in use rather than presented as guarantees.

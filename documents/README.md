@@ -1,6 +1,6 @@
 # Phi Documents
 
-This directory contains Phi's current language references, development methods, evaluation evidence, and experimental practice profiles. It excludes historical material in `archive/`. The authority order remains defined in [`canon.md`](../canon.md); a working assessment or profile does not override the grammar, lexicon, or settled canon.
+This directory contains Phi's current language references, evaluation evidence, and experimental practice profiles. Operational records and release manifests live in [`project/`](../project/); historical material lives in `archive/`. The authority order remains defined in [`canon.md`](../canon.md); a working assessment or profile does not override the grammar, lexicon, or settled canon.
 
 ## Language Reference
 
@@ -14,15 +14,12 @@ This directory contains Phi's current language references, development methods, 
 | [The voice, for models](voice_for_models.md) | Self-contained guide for any model writing Phi documentation: the stance, the rules, countable anti-patterns, exemplars, real before-and-after pairs, and the mandatory self-audit protocol. |
 | [Vocabulary schema](schema.json) | Machine-readable requirements for lexicon entries. |
 
-## Development and Evaluation
+## Evaluation and Development Evidence
 
 | Resource | Purpose |
 |---|---|
 | [Language assessment](language_assessment.md) | Current assessment of learnability, expressive coverage, comparisons, and remaining risks. |
-| [Status roadmap](roadmap.md) | Status-tracked long plan, evidence dependencies, and solo work packages. |
 | [Active text corpus review](active_text_corpus_review.md) | Review method, completed decisions, narrow dependency repairs, and status for each work on the literary shelf. |
-| [Development log](development_log.md) | Lightweight record of proposed, experimental, accepted, deferred, and rejected decisions. |
-| [Development protocol](development_protocol.md) | Evidence and validation requirements for language changes. |
 | [Lexicon expansion survey](lexicon_expansion_survey.md) | Current vocabulary coverage review and corpus-led admission priorities. |
 | [Work, Craft, and Repair vocabulary audit](work_craft_repair_vocabulary_audit.md) | Before-state review of concrete craft coverage, work relations, semantic pressure, and source-material handling. |
 | [Philosophical capability matrix](philosophical_capability_matrix.md) | Operation-level classification of demonstrated abilities, compositions, source-material bridges, and gaps. |
@@ -35,6 +32,6 @@ This directory contains Phi's current language references, development methods, 
 
 [Phi profiles](modules/) organize shared resources, transparent compounds, and optional domain vocabulary without adding grammar or parser modes. The [profile catalogue](modules/README.md) records active profiles and vocabulary status, while [Potential Profile Explorations](modules/potential_profile_explorations.md) preserves future ideas. Speaker-facing established modules live in the manual's [Domain Modules](../manual/part7_reference/modules/) section.
 
-## Releases and Baselines
+## Baselines
 
-The [release manifests](releases/) state what shipped and what each release does not claim. Minimal-pair and phonetic-neighbor baseline files support validator and audit reproducibility; they are evidence artifacts, not vocabulary recommendations.
+Minimal-pair and phonetic-neighbor baseline files support validator and audit reproducibility; they are evidence artifacts, not vocabulary recommendations. The [project index](../project/) holds Phi's operational records and release manifests.
