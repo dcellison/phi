@@ -4,7 +4,7 @@ Take one sentence about the climate and write it twice. The first version report
 
 That expectation is measurable. In 2017, a team at New York University analyzed 563,312 tweets about gun control, same-sex marriage, and climate change. Each additional moral-emotional word in a message, a word that joins moral judgment to feeling, went with roughly twenty percent more retweets (Brady et al. 2017). A single such word went with roughly one-fifth more reach. Add another and the heated sentence was already pulling away from its plainer twin. The study was observational, so it recorded what spread without proving what made it spread. The association also held within ideological communities more than across them. The loaded sentence was running laps around its own neighborhood.
 
-This chapter is about the environment that finding describes, because every new practice of communication has to enter it. The case for a slow language begins with an honest look at the fast one already in our pockets. Almost everyone feels that public conversation has become hurried and hot, but every generation has suspected that civilization ended shortly after its own childhood. Feelings of decline are cheap. Recent, specific measurements give us more to work with.
+This chapter is about the environment that finding describes, because every new practice of communication has to enter it. The case for a language of mindful speech begins with an honest look at instruments that reward reaction before attention. Almost everyone feels that public conversation has become hurried and hot, but every generation has suspected that civilization ended shortly after its own childhood. Feelings of decline are cheap. Recent, specific measurements give us more to work with.
 
 ## What the feed selects for
 
@@ -24,7 +24,7 @@ Two accidental experiments suggest that the growing tilt belongs partly to the m
 
 The first arrived when Twitter did something rare for an internet platform: it accidentally made a rather good experiment. In 2017 it doubled the character limit from 140 to 280. The change created a natural test of what compression does to conversation, with the same platform, twice the room, and a before and after to compare. Researchers studied 358,242 tweet replies to American politicians on either side of the change. The longer limit led to less uncivil, more polite, and more constructive discussion, although empathy and respectfulness declined across the whole period regardless of the limit (Jaidka, Zhou and Lelkes 2019). Given twice the space, people spent some of it on courtesy and reasons. They did not spend all of it that way, naturally; Twitter remained Twitter.
 
-The result cuts against the easy slogan that less is more. A slow language need not want short messages for their own sake. The problem is compression: the pressure to peel away context and qualification until only the hot center remains. Room for nuance turned out to be room that people used.
+The result cuts against the easy slogan that less is more. A language built for attention need not want short messages for their own sake. The problem is compression: the pressure to peel away context and qualification until only the hot centre remains. Room for nuance turned out to be room that people used.
 
 The second experiment measured what happened when people left. Economists paid a randomized group of Facebook users to deactivate their accounts for four weeks ending just after the 2018 American midterm elections, then compared them with a control group (Allcott et al. 2020). The four weeks away produced a small but real gain in self-reported wellbeing, about a tenth of a standard deviation. Participants also spent more time with friends and family, reported lower polarization on policy issues, and used Facebook less after the experiment ended and the payments stopped.
 
@@ -32,7 +32,7 @@ The effect was modest, and the authors treated it that way. A tenth of a standar
 
 Around these measurements sits a broader cultural argument. Jenny Odell's *How to Do Nothing* and Cal Newport's *Digital Minimalism* gave the decade much of its vocabulary for the attention economy and disciplined retreat from it (Odell 2019; Newport 2019). They are essays of persuasion rather than reports of findings. That is no insult. A book can help us name a problem without first randomizing its readers into a control group. This one leans on Odell and Newport for names, not numbers.
 
-## The slow lineage
+## A neighbouring slow lineage
 
 People have noticed cultural acceleration before. In this telling, they first organized against it near lunch.
 
@@ -46,15 +46,17 @@ Put these writers beside one another and the family resemblance is clear. They d
 
 Each project also stops in roughly the same place. Slow Food rebuilt the kitchen. The Slow Media Manifesto rebuilt the editorial calendar. Freeman asked for fewer and longer letters, while Honoré asked for the right tempo in activities from medicine to music lessons. All of them treated language itself, the material of communication, as given. The words received an alibi. They were assumed to work equally well at any speed, while slowness was applied around them through when we publish, how often we check, and how much room a message gets. The lineage walks all the way to the instrument and asks the player to hold it differently.
 
+Phi begins elsewhere. Buddhist mindfulness returns attention to present experience, including the act of speaking while it is still happening. Right Speech brings truthfulness, kindness, and benefit into the choice of words; peace linguistics examines what those words do to relationship and power. The Slow Movement offers Phi useful company in resisting needless haste, especially through Honoré's *tempo giusto*. It does not supply the reason for the language.
+
 ## The instrument itself
 
 The studies above did not set out to argue for Phi; the language is not hiding in their conclusions. Still, their findings point toward form and medium from several directions.
 
-The diffusion studies found an advantage for heat in the wording itself: within their corpora, a sentence with shame in it outran a plainer twin. The character-limit study found civility responding to the size of the writing space, on that platform in that season. The deactivation study found a small refund that required leaving; its design located no slower room inside the building. These are bounded findings, not pieces of a proof that grammar can rescue public life. That would be heroic arithmetic. They do, however, make one question reasonable: what happens when the material of communication is designed with slowness in mind?
+The diffusion studies found an advantage for heat in the wording itself: within their corpora, a sentence with shame in it outran a plainer twin. The character-limit study found civility responding to the size of the writing space, on that platform in that season. The deactivation study found a small refund that required leaving; it tested departure rather than any more attentive practice inside the platform. These are bounded findings, not pieces of a proof that grammar can rescue public life. That would be heroic arithmetic. They do, however, make one question reasonable: what happens when the material of communication is designed to keep source, intention, and relationship available for notice?
 
-The slow lineage knows how to approach that sort of question because it already did so with dinner. Grammar poses a harder problem: languages usually arrive as inheritances, and nobody chooses an inheritance. A language can be built, though. Its sound system can make haste uncomfortable. Its sentences can ask a thought to lay out its relations before delivering its point. Its dictionary can decline, on purpose, to stock the words that fast systems run on. Whether those choices would help anyone speak more slowly or carefully remains an open question, and this book will keep it open. Design intentions are invitations to test, not results smuggled in ahead of the experiment.
+The Slow Movement knows something about protecting a practice from haste because it already did so with dinner. Grammar poses a harder problem: languages usually arrive as inheritances, and nobody chooses an inheritance. A language can be built, though. Its sound system can make breath and full vowels easy to notice. Its grammar can give evidence, relation, and intention audible places. Its dictionary can keep care, refusal, and repair near at hand. Whether those choices help anyone attend more closely remains an open question, and this book will keep it open. Design intentions are invitations to test, not results smuggled in ahead of the experiment.
 
-What would a language built against hurry even look like?
+What would a language built for mindful and compassionate speech look like?
 
 ## References
 
@@ -86,4 +88,4 @@ Vosoughi, Soroush, Deb Roy, and Sinan Aral. 2018. The spread of true and false n
 
 ### Phi sources
 
-The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/design/modifier_first_philosophy.md`. Its discussion of sound and sentence order also draws on `manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md` and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`.
+The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/design/modifier_first_philosophy.md`. Its account of mindfulness, Right Speech, and peace linguistics draws on `manual/part2_soul/ch03_five_pillars/02_buddhist_concepts.md` and `manual/part2_soul/ch03_five_pillars/04_peace_linguistics.md`; its discussion of sound and sentence order also draws on `manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md` and `manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md`.

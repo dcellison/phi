@@ -1,33 +1,33 @@
 # Why evidentiality matters for peace
 
-The evidentiality system might seem like a technical detail, a grammatical feature of interest mainly to linguists. But it embodies one of Phi's core commitments: that how we communicate affects how we relate to each other and to truth.
+Evidentiality may look like a technical detail, but it is one of the clearest places where Phi turns mindful speech into a grammatical choice. When a source matters, a speaker can say whether a claim comes from witness, inference, report, or assumption. An unmarked sentence remains a plain assertion and makes no source claim.
 
-## Reducing conflict through epistemic honesty
+## Locating a disagreement
 
-Many conflicts arise from competing claims presented as certainties. "This is what happened." "No, that's what happened." When both speakers assert their version without qualification, there's no room for exploration. The conversation becomes a zero-sum contest of claims.
+Some conflicts begin with competing accounts. "This is what happened." "No, that's what happened." Evidentials do not reconcile the speakers, but they can show whether each account claims witness, inference, report, or assumption.
 
-Evidentiality changes this dynamic. When speakers mark their knowledge source, they implicitly acknowledge the limits of their perspective:
+The four markers give those claims different shapes:
 
 **mia hi nila.** — I saw it. (But you might have seen something different.)  
 **mia ke sano.** — I believe I understand. (But I'm reasoning from evidence, not certainty.)  
 **mia ti haolu.** — I heard this. (But reports can be wrong.)  
 **mia ho sano.** — I assume this is true. (But I'm not sure.)
 
-Each evidential creates space for other perspectives without requiring the speaker to abandon their own. The grammar enables epistemic coexistence.
+Each marker gives the listener a more precise place to question the claim. A false `hi` remains false, and an assumption marked `ho` can still be delivered with great confidence. The grammar cannot create epistemic coexistence. It can help speakers state the basis on which they disagree.
 
 ## Making accountability visible
 
-Without evidentiality, speakers can hide behind unmarked assertions. "It happened." Who says? Based on what? The sentence gives no clues.
+An unmarked assertion is not an evasion by definition. It simply makes no source claim. When provenance matters, an evidential puts the speaker's claimed relationship to the statement into the sentence.
 
-Evidentiality makes the speaker's relationship to their claim visible. This creates natural accountability. If you mark something with *hi*, you're committing to having witnessed it. If you mark it with *ho*, you're acknowledging it's an assumption. The grammar exposes what would otherwise be hidden.
+With *hi*, the speaker claims to have witnessed the event. With *ho*, the speaker presents it as an assumption. Those markings give another person something specific to confirm, challenge, or remember. Accountability still depends on what the people do next.
 
-This exposure discourages careless speech. Knowing that you'll mark your knowledge source encourages reflection before speaking. "Do I actually know this? Or am I assuming?"
+Choosing a marker may prompt a useful pause: do I know this directly, or am I assuming? Nothing in the syllable itself prevents carelessness.
 
-## Training epistemic awareness
+## Practising epistemic awareness
 
-Regular use of evidentiality trains speakers in habits of epistemic awareness. Every sentence becomes an opportunity to ask: How do I know this? What's my evidence? Am I inferring or assuming?
+Regular use of evidentials can become an exercise in epistemic awareness. Before choosing a particle, a speaker can inspect the path by which the claim arrived. Because marking is optional, this is a practice the speaker takes up rather than a demand attached to every sentence.
 
-Over time, this practice shapes thought patterns. Speakers become more attuned to the difference between knowledge and belief, evidence and assumption, direct experience and hearsay. The grammar becomes a form of cognitive training.
+Phi has no speech evidence showing that this exercise changes anyone's thought patterns over time. The design intention is modest: make the distinction between knowledge, inference, report, and assumption easy to state, then see what speakers do with it.
 
 ## Evidentiality in practice
 
@@ -38,7 +38,7 @@ Consider a disagreement about what happened at an event:
 **Speaker A:** thia hina ke nila. — What did you infer from?  
 **Speaker B:** mia shia wiru to nila. — I saw their basket.
 
-This exchange demonstrates how evidentiality facilitates rather than prevents disagreement. Both speakers maintain their positions, but the markers clarify what kind of claims are being made. The conversation can explore the evidence rather than devolving into "Yes they did" / "No they didn't."
+The exchange remains a disagreement. The markers clarify the claimed basis of each position, so the next question can concern evidence rather than merely repeat the conclusion.
 
 ## Summary of evidentials
 
@@ -53,6 +53,6 @@ This exchange demonstrates how evidentiality facilitates rather than prevents di
 
 Remember that evidentiality is optional in Phi. Unmarked sentences are plain assertions: they claim no source. The choice to include or omit evidentials is itself meaningful.
 
-Marking shows care for epistemic precision. Omitting shows confidence or simplicity. Both have their place. The point is not to mark everything but to have the tools available when they matter.
+Marking states a source when that precision is useful. Omitting leaves the source unstated. Neither choice proves confidence, care, honesty, or neglect; context supplies the reason.
 
-Evidentiality gives Phi speakers a way to be honest about knowledge while still communicating effectively. It's grammar in service of truth.
+Evidentiality gives Phi speakers a concise way to state the claimed basis of knowledge. Right Speech depends on what the speaker does with that precision and how the listener is allowed to answer.

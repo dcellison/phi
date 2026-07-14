@@ -25,10 +25,15 @@ the list must be corrected to match anything higher.
 
 `project/development_protocol.md` is the working protocol for language development and should always reflect (1) through (3); `CLAUDE.md` is a thin tool shim that points at it.
 
+## Governing description
+
+Phi is a philosophical constructed language for practising mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
+
 ## Settled decisions (2026-07 / Phi 2026.2)
 
 These were explicitly decided and should not silently fork again:
 
+- **Mindful speech, not mandatory slowness** (settled 2026-07-14): the governing description above draws openly on Buddhist mindfulness and Right Speech, while peace linguistics extends its attention to relationship, power, repair, and nonviolence. Slow speech may be a useful exercise or a natural result of careful articulation, but fluent Phi may be quick when the occasion calls for it; tempo is neither a virtue nor evidence of mindfulness. Grammar can make choices available and audible, but it cannot undertake the practice for the speaker.
 - **Aspect inventory**: `ki` (PFV), `si` (IPFV), `pa` (INCH), `te`
   (CESS), `ro` (HAB). There is no `tha`.
 - **Slot 1 order**: Tense > Aspect > Voice > Evidentiality > Modality >

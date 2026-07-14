@@ -49,4 +49,4 @@ The last one is worth noticing. A bare future would be a prediction; `po` makes 
 
 Because `po` is optional, omitting it is also a statement. An unmarked sentence claims the plain fact; a `po`-marked one claims a possibility. A speaker who says `pheralu nai` from the sound on the roof has, by Phi's lights, overspoken. Nothing forbids it, but the language keeps the honest version one syllable away, which is close enough that reaching past it gets noticed.
 
-That is the whole design: not a rule against overconfidence, just a grammar in which accuracy is always the easier sentence.
+That is the design: not a rule against overconfidence, but a grammar in which possibility has a short explicit form. Accuracy remains the speaker's work.

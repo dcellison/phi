@@ -2,7 +2,9 @@
 
 That word means *hello*. Say it aloud without hurrying: **ki · a**. The final vowel is its own syllable, left open like a door.
 
-Phi is a philosophical constructed language for practising unhurried attention in speech. It cannot make a speaker mindful or kind; grammar has never been good at supervising people. It can make certain choices audible and give a speaker time to notice them. Spend a few minutes with it and decide what you hear.
+Phi is a philosophical constructed language for practising mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
+
+It cannot make a speaker mindful or kind; grammar has never been good at supervising people. It can make certain choices audible and give a speaker a chance to notice them. Spend a few minutes with it and decide what you hear.
 
 ## The grammar has one organising principle
 
@@ -39,7 +41,7 @@ The other two mark inference and assumption. An unmarked sentence is a plain ass
 
 Ask Phi for a single word meaning *bad* and it makes you choose: harmful, broken, or unwell. It expresses "you need not go" as the presence of freedom: **thia lila wepu ralu nai** — you are free as to going. These are ordinary phrases, not decorations laid over the language afterward.
 
-Solarpunk and peace linguistics keep the future and the relationship in view. Secular Buddhist practice contributes attention, while Art Nouveau and pre-industrial wisdom bring organic relation, daylight, and handwork. Phi states these preferences openly. It has never claimed to be neutral or meant for everyone.
+Solarpunk keeps the future in view. Buddhist mindfulness and Right Speech contribute present attention, truthfulness, and compassion; peace linguistics keeps the relationship in view. Art Nouveau and pre-industrial wisdom bring organic relation, daylight, and handwork. Phi states these preferences openly. It has never claimed to be neutral or meant for everyone.
 
 ## The shelf is occupied
 

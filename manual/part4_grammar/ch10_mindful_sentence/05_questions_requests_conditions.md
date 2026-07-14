@@ -46,7 +46,7 @@ The same holds for the imperative:
 
 *no thepalu naphe.* — Help with the garden.
 
-`no` is Phi's entire command apparatus: there is no verb mutation, no clipped special form. And because it is announced, a request can never masquerade as an observation ("someone should really water this garden…") the way English lets it. If you want something done, the grammar asks you to say so, in front.
+`no` is Phi's imperative marker: there is no verb mutation or clipped special form. It marks a command or request before the clause begins, so a speaker choosing the direct form makes its directive force audible. The particle does not make the request gentle or remove authority from the situation; those remain facts about the people and the context.
 
 Conditions work the same way:
 
@@ -80,6 +80,6 @@ mia ha palo lesawi.
 
 ## What framing buys
 
-The pattern across all four is the same trade Phi makes everywhere: the speaker declares intent up front, and in exchange the listener never has to decode motive from tone. A question is a question, a request is a request, a hypothesis is a hypothesis, labeled before delivery, every time.
+The pattern across all four is the same trade Phi makes elsewhere: a speaker can declare clause type up front, so less of that work is left to tone alone. A marked question, directive, or condition is labelled before its content arrives.
 
-That transparency has a social edge worth naming honestly: you cannot hint in Phi. The grammar has no room for the deniable request or the statement-shaped question, and speakers coming from languages that do their social maneuvering through indirection will feel the loss before they feel the relief. The relief does come. It is the relief of never having to guess.
+That transparency does not abolish implication. Phi speakers can still hint, evade, flatter, or misuse a polite form; a language cannot confiscate subtext at the border. The marked forms offer a direct route when clarity matters. Right Speech begins with choosing that route honestly, not with mistaking a particle for consent or goodwill.

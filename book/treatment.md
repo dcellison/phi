@@ -20,7 +20,7 @@ Strong linguistic determinism is dead, and the book says so early and plainly. T
 
 ## Working title
 
-Leading candidate: A Language You Cannot Hurry. Alternates: The Slowest Artifact; Announce, Then Deliver. Decision open.
+Leading candidate: A Language You Cannot Hurry, where hurry means attention discarded under pressure rather than quick speech. Alternate: Announce, Then Deliver. Decision open.
 
 ## Shape and length
 
@@ -40,11 +40,11 @@ Opens on the hand going into the garment; ends on the sentence "the language and
 
 ### 1. The hurried tongue
 
-The communicative environment the book's reader lives in rewards speed and outrage, and this is measured, not felt: moral-emotional words raise a message's diffusion by about twenty percent per word (Brady et al. 2017, PNAS), out-group animosity predicts sharing better than emotion itself (Rathje et al. 2021, PNAS), and when Twitter doubled its character limit, political replies became measurably more civil and constructive (Jaidka et al. 2019, Journal of Communication). A month off the feed buys a tenth of a standard deviation of wellbeing (Allcott et al. 2020, American Economic Review). The chapter sets this out, then draws its boundary: none of this shows that a language fixes anything. It shows what the current instruments select for. The slow lineage (Petrini's Slow Food, Honoré's tempo giusto, the Slow Media Manifesto, Freeman's slow communication) insists that slowness is chosen, modern, and selective, and every one of those authors stopped at habits and formats. Nobody carried the idea into grammar itself.
+The communicative environment the book's reader lives in rewards speed and outrage, and this is measured, not felt: moral-emotional words raise a message's diffusion by about twenty percent per word (Brady et al. 2017, PNAS), out-group animosity predicts sharing better than emotion itself (Rathje et al. 2021, PNAS), and when Twitter doubled its character limit, political replies became measurably more civil and constructive (Jaidka et al. 2019, Journal of Communication). A month off the feed buys a tenth of a standard deviation of wellbeing (Allcott et al. 2020, American Economic Review). The chapter sets this out, then draws its boundary: none of this shows that a language fixes anything. The Slow Movement supplies a useful neighbouring account of resisting cultural acceleration, with Honoré's *tempo giusto* keeping the right pace distinct from slowness as a virtue. Phi's centre lies in Buddhist mindfulness and Right Speech, extended by peace linguistics into attention to relationship and power. The chapter examines what grammar and vocabulary can make available to that practice without claiming to manufacture it.
 
-Receipts: Brady et al. 2017; Rathje et al. 2021; Crockett 2017 (flagged as commentary, not data); Jaidka et al. 2019; Allcott et al. 2020; Honoré 2004; Slow Media Manifesto 2010; Freeman 2009; Odell 2019 and Newport 2019 as cultural vocabulary only.
+Receipts: Brady et al. 2017; Rathje et al. 2021; Crockett 2017 (flagged as commentary, not data); Jaidka et al. 2019; Allcott et al. 2020; Honoré 2004; Slow Media Manifesto 2010; Freeman 2009; Odell 2019 and Newport 2019 as cultural vocabulary only; the Buddhist-concepts and peace-linguistics pillar chapters for Phi's own direction.
 
-Opens on the twenty-percent finding made concrete in a single feed morning; ends on the question the book exists to take seriously: what would a language built against hurry even look like.
+Opens on the twenty-percent finding made concrete in a single feed morning; ends on the question the book exists to take seriously: what would a language built for mindful and compassionate speech look like.
 
 ### 2. What a refusal is
 
@@ -102,7 +102,7 @@ How Phi is made, told the way the colophon tells it: one designer with a veto on
 
 Receipts: colophon.md as the primary document; the validator and CI; the project's own history of corrections as evidence of the veto. Targeted research owed during drafting: current disclosure norms for generative tools in creative work, and a historical accuracy check on the Morris and Co. workshop analogy.
 
-Opens on the colophon's first sentence, "Phi is my language"; ends on its last trade: a fast tool used to build the slowest artifact its maker could imagine.
+Opens on the colophon's first sentence, "Phi is my language"; ends on its last trade: a fast tool used to build an artifact of attention whose human designer remains answerable for it.
 
 ### Part III: What it can honestly do now
 

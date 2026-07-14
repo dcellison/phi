@@ -14,7 +14,7 @@
 | meno | me · no | (closes it) |
 | shane | sha · ne | tell |
 
-*siora comes to the house and tells: tells that sulae will come. Read the long sentence slowly, watching the brackets:* siora … shane *is the frame, and inside it, whole and untouched, sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
+*siora comes to the house and tells: tells that sulae will come. Read the long sentence once while watching the brackets:* siora … shane *is the frame, and inside it, whole and untouched, sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
 
 ## II
 

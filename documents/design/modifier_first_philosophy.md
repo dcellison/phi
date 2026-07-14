@@ -53,6 +53,8 @@ The requirement to announce many grammatical relationships before their heads cr
 
 This can be used as an analogy to Buddhist-inspired mindful speech: becoming aware of an intention while expressing it. A learner may treat grammar as meditation practice, but the structure does not force awareness or establish a Buddhist interpretation as universal.
 
+Mindfulness here concerns presence, not duration. A fluent clause may pass quickly, and an emergency may require it. The practice lies in noticing a linguistic choice while making it, not in stretching the interval before the head arrives.
+
 ### Solarpunk Values: Transparent Systems
 
 Just as solarpunk technology makes its workings visible and comprehensible, Phi's modifier-first grammar makes linguistic structure transparent:
@@ -88,9 +90,9 @@ Like Art Nouveau's rejection of stark geometric divisions in favor of flowing na
 ### For Speakers
 
 The modifier-first principle asks speakers to:
-1. **Plan ahead**: Know your grammatical relationships before speaking
-2. **Be explicit**: All modifications must be announced
-3. **Think structurally**: Consider how elements relate before expressing them
+1. **Place relations early**: Put modifying, specifying, and relating material before the element it affects
+2. **Use marked intentions plainly**: Let particles and clause frames identify the work they are doing
+3. **Attend to the structure in progress**: Treat the recurring order as an occasion for attention without mistaking it for compulsory reflection
 
 ### For Listeners  
 

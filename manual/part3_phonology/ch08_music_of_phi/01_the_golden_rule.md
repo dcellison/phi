@@ -59,4 +59,4 @@ This constraint ensures that while hiatus adds richness to Phi's sound system, i
 
 Vowel hiatus creates Phi's characteristic flowing quality. Words breathe. Syllables don't crowd each other. The language sounds like what it means: spacious, clear, unhurried.
 
-When you master this rule, you're not just pronouncing correctly. You're embodying the values Phi was designed to carry.
+Mastering this rule is pronunciation, not moral achievement. It keeps words recoverable as tempo changes. If the physical attention becomes a cue for mindful speech as well, that is a practice the speaker undertakes.

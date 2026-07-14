@@ -1,7 +1,7 @@
 # The Phi Development Protocol
 
 ## Overview
-Phi is a philosophical constructed language for reflective writing and discussion. It is not intended as a universal auxiliary language. Its phonology, grammar, lexicon, and teaching practices invite deliberate, cooperative communication; these are design intentions to test in use, not guarantees about what the language does to a speaker.
+Phi is a philosophical constructed language for practising mindful and compassionate speech, reflective writing, and discussion. It is not intended as a universal auxiliary language. Its phonology, grammar, lexicon, and teaching practices invite attention to the present utterance, evidential care, and cooperative communication; these are design intentions to test in use, not guarantees about what the language does to a speaker.
 
 This protocol binds the maintainer and anyone contributing to the language: coining words, extending grammar, or writing its documents. The authority order for every claim is `/canon.md`. While Phi has one maintainer, significant choices are recorded in `project/development_log.md`; a public RFC process is deferred until recurring users make one useful.
 
@@ -52,6 +52,12 @@ The full function-word shape charter is a canon ruling (see `/canon.md`); the ch
 - [ ] **Word length**: Every lexical word has at most three syllables. Two syllables remain premium space for the everyday and high-frequency; three syllables are the normal content-word range. Semantic weight never licenses a fourth syllable.
 
 ## Philosophical Consistency
+
+### Mindful speech and tempo
+
+Phi draws openly on Buddhist mindfulness and Right Speech. Mindfulness concerns attention to the present act of speaking and listening; Right Speech gives that attention an ethical direction through truthfulness, kindness, benefit, and nonviolence. Peace linguistics extends the practice by asking how an utterance affects relationship, agency, and power.
+
+"Unhurried" describes freedom from needless haste, not a required speaking speed. A speaker may use a slower pace to learn pronunciation or make room for reflection, but fluent Phi may be quick when urgency or ordinary conversation calls for it. Review whether the design keeps these practices available and audible rather than treating elapsed time as proof of them.
 
 ### Five Pillars Integration
 Each new word must explicitly connect to at least one pillar:
@@ -197,7 +203,8 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 ## Core Philosophy Reminder
 Every addition to Phi should make the following practices available without claiming that grammar compels them:
-- Careful, deliberate speech
+- Present, attentive speech at the pace the occasion permits
+- Truthful, compassionate, and nonviolent speech understood as a practice rather than a grammatical achievement
 - Explicit reflection on word choice and evidential stance
 - Communication approached as collaborative art
 - Attention to ecological relationships and natural cycles

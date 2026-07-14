@@ -60,6 +60,6 @@ This could describe reading happening now, or express a general truth about the 
 
 ## The complete palette
 
-Together, tense and aspect particles provide a precise vocabulary for temporal expression. By requiring explicit marking, Phi ensures that every statement about action becomes a moment of reflection about the nature of time itself.
+Together, tense and aspect particles provide a precise vocabulary for temporal expression. Past and future require explicit marking, while present and neutral aspect remain unmarked. Choosing among them can become a moment of attention to time; the grammar cannot ensure that it does.
 
-The present remains the foundation. Every departure into past or future requires conscious choice. And within each temporal location, aspect particles reveal whether we view the action from inside its flow, at its boundaries, or across its repetitions.
+The present remains the unmarked foundation. Every departure into past or future requires a grammatical choice. Within each temporal location, aspect particles show whether the speaker presents the action from inside its flow, at its boundaries, or across its repetitions.
