@@ -72,22 +72,68 @@
     "concept": {
       "type": "string",
       "minLength": 1,
-      "description": "A compact name for the entry's semantic concept or grammatical role."
+      "deprecated": true,
+      "description": "A legacy discovery label retained only while entries move to the target prose contract."
+    },
+    "search_terms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Optional English synonyms or lookup terms not already supplied by the gloss."
     },
     "description": {
       "type": "string",
       "minLength": 1,
       "description": "The word's meaning and range of use, with the nearby distinction a speaker is most likely to need."
     },
+    "articulatory_notes": {
+      "type": "string",
+      "minLength": 1,
+      "description": "How the complete word is physically articulated, with relevant contact, airflow, stress, and hiatus."
+    },
     "sound_symbolism": {
       "type": "string",
       "minLength": 1,
-      "description": "The poetic description of how the word's sounds embody its meaning through phonetic symbolism."
+      "description": "An optional Phi-specific sound-meaning association stated as phonesthetic interpretation rather than universal fact or hidden morphology."
     },
     "grammatical_notes": {
       "type": "string",
       "minLength": 1,
-      "description": "Usage and syntactic behaviour, with related words and at least one worked example."
+      "deprecated": true,
+      "description": "Legacy usage prose retained only while its examples and useful distinctions move to structured fields."
+    },
+    "usage_notes": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional syntax, contrasts, collocations, or usage guidance not evident from the definition and examples."
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "phi": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[a-z]+(?: [a-z]+)*\\.(?: [a-z]+(?: [a-z]+)*\\.)*$",
+            "description": "One or more complete Phi sentences using periods as their only punctuation."
+          },
+          "translation": {
+            "type": "string",
+            "minLength": 1,
+            "description": "A natural English translation of the Phi example."
+          }
+        },
+        "required": ["phi", "translation"],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Worked examples that use the entry word, stored separately from usage commentary so they can be validated and rendered directly."
     },
     "pillars": {
       "type": "object",
@@ -95,32 +141,32 @@
         "solarpunk-values": {
           "type": "string",
           "minLength": 1,
-          "description": "Rationale for how this concept embodies solarpunk values."
+          "description": "A specific direct connection between this word and solarpunk values."
         },
         "secular-buddhist-philosophy": {
           "type": "string",
           "minLength": 1,
-          "description": "Rationale for how this concept embodies secular Buddhist philosophy."
+          "description": "A specific direct connection between this word and secular Buddhist philosophy."
         },
         "art-nouveau-aesthetics": {
           "type": "string",
           "minLength": 1,
-          "description": "Rationale for how this concept embodies Art Nouveau aesthetics."
+          "description": "A specific direct connection between this word and Art Nouveau aesthetics."
         },
         "peace-linguistics-practices": {
           "type": "string",
           "minLength": 1,
-          "description": "Rationale for how this concept embodies peace linguistics practices."
+          "description": "A specific direct connection between this word and peace linguistics practices."
         },
         "pre-industrial-wisdom": {
           "type": "string",
           "minLength": 1,
-          "description": "Rationale for how this concept embodies pre-industrial wisdom."
+          "description": "A specific direct connection between this word and pre-industrial wisdom."
         }
       },
       "minProperties": 1,
       "additionalProperties": false,
-      "description": "The philosophical pillars this concept primarily embodies, with rationales for each."
+      "description": "Optional direct connections between this word and Phi's philosophical pillars, with a specific rationale for each."
     },
     "semantic_domains": {
       "type": "object",
@@ -175,11 +221,7 @@
     "ipa",
     "syllables",
     "pos",
-    "concept",
-    "description",
-    "sound_symbolism",
-    "grammatical_notes",
-    "pillars"
+    "description"
   ],
   "additionalProperties": false,
   "allOf": [
@@ -258,6 +300,26 @@
           ]
         }
       }
+    },
+    {
+      "anyOf": [
+        {
+          "required": ["articulatory_notes"]
+        },
+        {
+          "required": ["sound_symbolism"]
+        }
+      ]
+    },
+    {
+      "anyOf": [
+        {
+          "required": ["examples"]
+        },
+        {
+          "required": ["grammatical_notes"]
+        }
+      ]
     }
   ]
 }

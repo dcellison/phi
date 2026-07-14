@@ -24,13 +24,13 @@ The open question is whether every foreign expression must stay outside a comple
 
 ### Legacy vocabulary prose audit
 
-Status: Parked for a dedicated vocabulary pass.
+Status: Active, with the lexicon prose contract established.
 
-The existing workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). Older canonical JSON entries are uneven. Descriptions, grammatical notes, pillar rationales, and semantic-domain rationales need the same examination; concept labels, ordinary English examples, and other schema values that contain prose belong in the pass as well.
+The existing workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). Older canonical JSON entries remain uneven. Their required prose now has a destination in `description`, `articulatory_notes`, structured `examples`, and accurate semantic-domain rationales. Search terms, usage notes, sound symbolism, and direct pillar connections remain optional.
 
-Sound symbolism needs particular care. The field should follow the word through the mouth. It begins with breath and obstruction, then notices what the lips and tongue touch. Vowel depth, openness, stress, and hiatus shape the contour that reaches the ear. Poetic attention can sharpen that description, but syllables do not carry hidden dictionary meanings or require a grand story.
+Articulatory notes follow the word through the mouth and describe breath, contact, release, stress, and hiatus accurately. Sound symbolism has a narrower optional role: it may preserve a genuine Phi-specific association, but it cannot turn a syllable into a hidden morpheme or treat a phoneme's meaning as universal.
 
-The audit works in `vocabulary/`, the canonical source, and generated lexicon references follow through regeneration. It may rewrite English prose while leaving Phi forms and exact glosses fixed. Each batch ends with reference generation and full validation.
+The audit works in `vocabulary/`, the canonical source, and generated lexicon references follow through regeneration. It may rewrite English prose while leaving Phi forms and exact glosses fixed. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) divides the inventory into legacy, partial, dual, and target states. Each batch refreshes that report, regenerates references, and passes full validation.
 
 ### Tengwar renderer verification
 

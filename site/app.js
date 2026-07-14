@@ -6,7 +6,8 @@
   const BASE_VOCABULARY = "base-vocabulary";
   const REGISTERED_COMPOUNDS = "registered-compounds";
   const WORD_FILTERS = ["f-pos", "f-domain", "f-module", "f-pillar"];
-  let lexicon = [], compounds = [], words = new Set(), shown = 0, current = [];
+  const HONORIFIC_GLOSSES = new Set(["HON.RESPECT", "HON.INTIM", "HON.ROLE"]);
+  let lexicon = [], compounds = [], words = new Set(), glosses = new Map(), shown = 0, current = [];
 
   const PILLAR_NAMES = {
     "solarpunk-values": "solarpunk",
@@ -39,6 +40,7 @@
     compounds = []; // the explorer stands without the registry file
   }
   words = new Set(lexicon.map((e) => e.word));
+  glosses = new Map(lexicon.map((e) => [e.word, e.gloss]));
   const compoundsOf = new Map();
   for (const c of compounds)
     for (const w of new Set(c.tokens)) {
@@ -88,12 +90,29 @@
     return -1;
   };
 
+  const valuesScore = (values, q) => {
+    const scores = values.map((value) => textScore(value, q)).filter((s) => s >= 0);
+    return scores.length ? Math.min(...scores) : -1;
+  };
+
+  const exampleValues = (e) => (e.examples || []).flatMap((example) => [
+    example.phi,
+    example.translation,
+  ]);
+
   const fieldScore = (e, q, field) => {
     if (field === "pronunciation") {
       const values = [e.ipa, e.syllables.join(" "), e.syllables.join(" · ")];
-      const scores = values.map((value) => textScore(value, q)).filter((s) => s >= 0);
-      return scores.length ? Math.min(...scores) : -1;
+      return valuesScore(values, q);
     }
+    if (field === "keywords")
+      return valuesScore([...(e.search_terms || []), e.concept], q);
+    if (field === "usage_and_examples")
+      return valuesScore([
+        e.usage_notes,
+        e.grammatical_notes,
+        ...exampleValues(e),
+      ], q);
     return textScore(e[field], q);
   };
 
@@ -103,11 +122,12 @@
     if (e.word.startsWith(q)) return 1;
     if (e.gloss.toLowerCase().includes(q)) return 2;
     if (e.word.includes(q)) return 3;
-    if (e.concept.toLowerCase().includes(q)) return 4;
-    if (e.description.toLowerCase().includes(q)) return 5;
-    if ((e.grammatical_notes || "").toLowerCase().includes(q)) return 6;
-    if ((e.sound_symbolism || "").toLowerCase().includes(q)) return 7;
-    if (fieldScore(e, q, "pronunciation") >= 0) return 8;
+    if (fieldScore(e, q, "keywords") >= 0) return 4;
+    if (textScore(e.description, q) >= 0) return 5;
+    if (fieldScore(e, q, "usage_and_examples") >= 0) return 6;
+    if (textScore(e.articulatory_notes, q) >= 0) return 7;
+    if (textScore(e.sound_symbolism, q) >= 0) return 8;
+    if (fieldScore(e, q, "pronunciation") >= 0) return 9;
     return -1;
   };
 
@@ -234,12 +254,21 @@
   function body(e) {
     const div = document.createElement("div");
     div.className = "entry-body";
-    let h = `<p class="concept">${esc(e.concept)}</p>`;
+    let h = e.concept ? `<p class="concept">${esc(e.concept)}</p>` : "";
     h += `<p>${phiify(e.description)}</p>`;
     if (e.pos === "verb")
       h += `<p class="rule-note">Also its own noun, the act or its result, by the event-noun rule.</p>`;
-    if (e.sound_symbolism) h += `<h3>Sound</h3><p>${phiify(e.sound_symbolism)}</p>`;
-    if (e.grammatical_notes) h += `<h3>Usage</h3><p>${phiify(e.grammatical_notes)}</p>`;
+    if (e.articulatory_notes) h += `<h3>Articulation</h3><p>${phiify(e.articulatory_notes)}</p>`;
+    if (e.sound_symbolism) h += `<h3>Sound symbolism</h3><p>${phiify(e.sound_symbolism)}</p>`;
+    const usage = e.usage_notes || e.grammatical_notes;
+    if (usage) h += `<h3>Usage</h3><p>${phiify(usage)}</p>`;
+    if ((e.examples || []).length) {
+      h += `<h3>Examples</h3>`;
+      for (const example of e.examples)
+        h += `<div class="example"><p class="phi-line">${esc(example.phi)}</p>` +
+          `<p class="gloss-line">${esc(exampleGloss(example.phi))}</p>` +
+          `<p class="translation">${esc(example.translation)}</p></div>`;
+    }
     const comps = compoundsOf.get(e.word) || [];
     if (comps.length) {
       h += `<h3>Compounds</h3>`;
@@ -260,6 +289,21 @@
       h += `<p class="tagrow">${modules.map((m) => `<span class="tag">module: ${esc(MODULE_NAMES[m] || m)}</span>`).join("")}</p>`;
     div.innerHTML = h;
     return div;
+  }
+
+  function exampleGloss(phi) {
+    let expectingName = false;
+    return phi.split(" ").map((token) => {
+      const core = token.replace(/\.$/, "");
+      const stop = token.endsWith(".") ? "." : "";
+      const gloss = (glosses.get(core) || core).replace(/\s*\([^)]*\)/g, "");
+      const isLabel = gloss === gloss.toUpperCase();
+      const shown = expectingName && !isLabel ? core : gloss;
+      if (core === "ne" || HONORIFIC_GLOSSES.has(gloss)) expectingName = true;
+      else if (!isLabel) expectingName = false;
+      if (stop) expectingName = false;
+      return shown + stop;
+    }).join(" ");
   }
 
   function updateWordFilters() {

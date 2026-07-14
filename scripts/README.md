@@ -10,7 +10,7 @@ python3 -m pip install --requirement project/requirements.txt
 
 Checks the entire language for internal consistency, and runs in CI on every pull request:
 
-- **Lexicon integrity**: complete Draft 2020-12 schema validation, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, duplicate words, and duplicate glosses (warning).
+- **Lexicon integrity**: complete Draft 2020-12 schema validation, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, structured Phi examples, prose-contract coverage, duplicate words, and duplicate glosses (warning).
 - **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/validation/minimal_pairs_baseline.txt`, which may only shrink.
 - **Documentation examples**: every Phi word quoted in `documents/`, `project/`, `manual/`, `pamphlets/`, `primer/`, `texts/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
 - **Source citations**: every labeled literary citation must occur verbatim in its stored source. A source clause belongs to one aligned unit, except on a declared paired page where it may appear once in each named rendering.
@@ -33,11 +33,19 @@ Exit code 0 means no errors. Run the full check — as its own command, so the e
 
 Known limitation: single-word *italic* mentions in prose are not checked (the English/Phi heuristic needs at least two tokens). When retiring or renaming a word, grep for it explicitly.
 
-The focused regression suites cover the executable vocabulary contract, Slot 1 metadata, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
+The focused regression suites cover the executable vocabulary contract, its transitional and target prose shapes, Slot 1 metadata, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
 
 ```bash
 python3 scripts/test_vocabulary_schema.py
 python3 scripts/test_name_forms.py
+```
+
+## vocabulary_prose_coverage.py
+
+Writes the committed migration report at `documents/validation/vocabulary_prose_coverage.json`. Each entry is classified as legacy, partial, dual, or target according to its prose fields. The main validator compares the report with the live lexicon and fails when a vocabulary edit leaves it stale.
+
+```bash
+python3 scripts/vocabulary_prose_coverage.py
 ```
 
 ## generate_reference.py

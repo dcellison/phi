@@ -129,12 +129,11 @@ def by_module(entries):
         title = MODULE_TITLES.get(module, module.replace("-", " ").title())
         lines.append(f"\n## {title}\n")
         lines.append(f"*{len(words)} words in this learning path.*\n")
-        lines.append("| Word | Gloss | Part of speech | Concept |")
-        lines.append("|---|---|---|---|")
+        lines.append("| Word | Gloss | Part of speech |")
+        lines.append("|---|---|---|")
         for d in words:
             pos = d.get("pos", "")
-            concept = d.get("concept", "").split(" / ")[0]
-            lines.append(f"| `{d['word']}` | {d['gloss']} | {pos} | {concept} |")
+            lines.append(f"| `{d['word']}` | {d['gloss']} | {pos} |")
     return "\n".join(lines) + "\n"
 
 
@@ -154,11 +153,10 @@ def by_pos(entries):
     for group in sorted(groups):
         words = sorted(groups[group], key=lambda d: d["word"])
         lines.append(f"\n## {group} ({len(words)})\n")
-        lines.append("| Word | Gloss | Concept |")
-        lines.append("|---|---|---|")
+        lines.append("| Word | Gloss |")
+        lines.append("|---|---|")
         for d in words:
-            concept = d.get("concept", "").split(" / ")[0]
-            lines.append(f"| `{d['word']}` | {d['gloss']} | {concept} |")
+            lines.append(f"| `{d['word']}` | {d['gloss']} |")
     return "\n".join(lines) + "\n"
 
 

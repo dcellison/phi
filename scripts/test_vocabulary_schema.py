@@ -7,6 +7,7 @@ import unittest
 from jsonschema import Draft202012Validator
 
 import validate_examples
+import vocabulary_prose_coverage
 
 
 class VocabularySchemaTests(unittest.TestCase):
@@ -25,6 +26,33 @@ class VocabularySchemaTests(unittest.TestCase):
                 any(message_part in error for error in errors),
                 f"{message_part!r} not found in {errors}",
             )
+
+    def target_entry(self, word="sileta"):
+        entry = copy.deepcopy(self.by_word[word])
+        notes = {
+            "sileta": (
+                "The word opens with a narrow 'si', rests its stress on 'le', "
+                "and closes with dental contact in 'ta'."
+            ),
+            "to": "The tongue meets the teeth for 't', then releases into rounded 'o'.",
+            "kia": (
+                "The back of the tongue closes for 'k', releases into 'i', "
+                "and keeps final 'a' in a separate syllable."
+            ),
+        }
+        examples = {
+            "sileta": {
+                "phi": "sileta keru nai.",
+                "translation": "The sun is bright.",
+            },
+            "to": {"phi": "mia to nai.", "translation": "I was."},
+            "kia": {"phi": "kia.", "translation": "Hello."},
+        }
+        entry["articulatory_notes"] = notes[word]
+        entry["examples"] = [examples[word]]
+        entry.pop("concept", None)
+        entry.pop("grammatical_notes", None)
+        return entry
 
     def test_schema_uses_and_satisfies_draft_2020_12(self):
         self.assertEqual(
@@ -102,6 +130,98 @@ class VocabularySchemaTests(unittest.TestCase):
         entry = copy.deepcopy(self.by_word["sileta"])
         entry["description"] = ""
         self.assert_invalid(entry, "should be non-empty")
+
+    def test_target_prose_contract_is_valid(self):
+        for word in ("sileta", "to", "kia"):
+            with self.subTest(word=word):
+                entry = self.target_entry(word)
+                entry.pop("sound_symbolism")
+                entry.pop("pillars")
+                self.assertEqual(validate_examples.entry_schema_errors(entry), [])
+
+    def test_legacy_prose_contract_remains_valid_during_migration(self):
+        entry = copy.deepcopy(self.by_word["sileta"])
+        self.assertNotIn("articulatory_notes", entry)
+        self.assertNotIn("examples", entry)
+        self.assertEqual(validate_examples.entry_schema_errors(entry), [])
+
+    def test_articulatory_or_legacy_sound_field_is_required(self):
+        entry = copy.deepcopy(self.by_word["sileta"])
+        del entry["sound_symbolism"]
+        self.assert_invalid(entry, "not valid under any of the given schemas")
+
+    def test_structured_examples_or_legacy_grammar_field_is_required(self):
+        entry = copy.deepcopy(self.by_word["sileta"])
+        del entry["grammatical_notes"]
+        self.assert_invalid(entry, "not valid under any of the given schemas")
+
+    def test_structured_example_shape_is_closed(self):
+        entry = self.target_entry()
+        del entry["examples"][0]["translation"]
+        self.assert_invalid(entry, "translation")
+        entry = self.target_entry()
+        entry["examples"][0]["gloss"] = "sun bright COP"
+        self.assert_invalid(entry, "Additional properties")
+
+    def test_structured_example_phi_shape_is_restricted(self):
+        entry = self.target_entry()
+        entry["examples"][0]["phi"] = "Sileta keru nai!"
+        self.assert_invalid(entry, "does not match")
+
+    def test_search_terms_are_nonempty_and_unique(self):
+        entry = self.target_entry()
+        entry["search_terms"] = ["day star", "day star"]
+        self.assert_invalid(entry, "non-unique")
+        entry["search_terms"] = [""]
+        self.assert_invalid(entry, "should be non-empty")
+
+    def test_prose_coverage_states(self):
+        legacy = copy.deepcopy(self.by_word["sileta"])
+        partial = copy.deepcopy(legacy)
+        partial["articulatory_notes"] = "A physical pronunciation note."
+        dual = self.target_entry()
+        dual["concept"] = legacy["concept"]
+        target = self.target_entry()
+        self.assertEqual(vocabulary_prose_coverage.entry_state(legacy), "legacy")
+        self.assertEqual(vocabulary_prose_coverage.entry_state(partial), "partial")
+        self.assertEqual(vocabulary_prose_coverage.entry_state(dual), "dual")
+        self.assertEqual(vocabulary_prose_coverage.entry_state(target), "target")
+
+    def test_target_structured_example_passes_phi_validation(self):
+        lexicon_words = set(self.by_word)
+        content_words = {
+            data["word"] for rel, data in self.entries if rel.parts[1] == "content"
+        }
+        prepositions = {
+            data["word"] for _rel, data in self.entries
+            if data.get("pos") == "preposition"
+        }
+        ranks = validate_examples.slot1_rank_map(self.entries)
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "sileta keru nai.", lexicon_words,
+                content_words, prepositions, ranks
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "mia ma nai. mia to nai.", lexicon_words,
+                content_words, prepositions, ranks
+            ),
+            [],
+        )
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "sileta notaword nai.", lexicon_words,
+            content_words, prepositions, ranks
+        )
+        self.assertTrue(any("unknown Phi word 'notaword'" in error for error in errors))
+        self.assertTrue(validate_examples.structured_examples_use_word(
+            "sileta", [{"phi": "sileta keru nai."}]
+        ))
+        self.assertFalse(validate_examples.structured_examples_use_word(
+            "sileta", [{"phi": "mia to nai."}]
+        ))
 
 
 if __name__ == "__main__":

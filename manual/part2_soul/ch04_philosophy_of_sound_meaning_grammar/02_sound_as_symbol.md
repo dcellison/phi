@@ -1,19 +1,19 @@
 # Sound as symbol
 
-There is an old human intuition that sound and meaning are connected by more than convention. English speakers feel it in "smooth," whose consonants slide, and "sharp," whose vowel cuts. Sanskrit tradition speaks of *nāda brahma*: reality as vibration. Children playing with language reach instinctively for words that sound like what they mean.
+There is an old human intuition that sound and meaning are connected by more than convention. English speakers may feel it in "smooth," whose consonants slide, or "sharp," which stops more abruptly. Children playing with language reach for sounds that seem to fit what they mean. The fit can feel immediate, but it is not always shared.
 
-Most constructed languages, chasing logical purity, discard this intuition. Phi builds on it. When meaning arrives through the body (breath, tongue, ear), the sounds that carry an idea can support the idea or fight it, and Phi's lexicon was coined, word by word, so that they support it.
+Phi leaves room for that intuition without making a law of it. A sound may help a word settle into memory, and a family resemblance may make related words easier to hear. Neither effect gives a phoneme one universal meaning. Languages, communities, and individual ears make different associations.
 
-## The palette
+## The mouth before the metaphor
 
-The five vowels set a word's emotional ground: `a` open and accepting, `i` bright and focused, `u` deep and grounding, `e` and `o` balanced in the middle. The consonants shape its posture: nasals `m` and `n` for stability and inwardness, liquids `l`, `r`, `w` for flow and connection, the soft stops `p`, `t`, `k` for clean definition, used sparingly. And the four fricative digraphs (`ph`, `th`, `sh`, `wh`) are reserved for the abstract, the contemplative, the gently social: breath-sounds for breath-sized ideas.
+The body gives Phi a firmer place to begin. Air narrows or stops. The lips meet, the tongue touches the teeth or the roof of the mouth, and each vowel changes the shape of the passage. Stress gives one syllable more weight. Hiatus asks adjacent vowels to remain two distinct syllables.
 
-## The palette at work
+These are observable facts about saying a word. An entry's `articulatory_notes` follows the complete form through the mouth so a speaker can reproduce it. The note may still have rhythm and warmth, but it does not need to make the tongue's every movement stand for an idea.
 
-These are not rules a learner must memorize; they are patterns the lexicon keeps, and you can test every claim against real words.
+## Symbolism when it earns its place
 
-Say *remo* (think) and feel the rolling `r`: thought as continuous inner motion. Say *thua* (fair) and follow the soft breathed `th` down into `u` and out through the open `a`: judgment held gently, weighed deeply, released evenly. Say *ruela* (path) and the word itself travels. *nulae* (sleep) settles on the grounding nasal and the deepest vowel; *kira* (key) turns on the one clean stop it needs; *thelui* (sanctuary) breathes its th- and encloses the bright `u`: an interior kept safe.
+Sound symbolism begins after that physical account, and only when there is something honest to hear. A speaker might hear the trill at the opening of *remo* (think) as thought in motion. That image can be a useful mnemonic without becoming the meaning of `r`. Another speaker may remember the word differently and lose nothing.
 
-The correspondence pays a practical dividend: unfamiliar words often half-introduce themselves. Meet *shorui* (weary) or *siora* (joy) cold, and the sounds lean toward their meanings before the gloss confirms them. It pays a poetic one too: in Phi, a word's music is part of its definition, which is why every entry in the lexicon carries a `sound_symbolism` field explaining exactly this.
+Deliberate lexical kinship is more concrete. *sileta* (sun) and *silero* (star) share their opening because the sun is a star. The resemblance belongs to those words; `sile` is not a reusable root hidden inside every form that happens to contain it.
 
-Not every word fits the pattern perfectly; a lexicon of nine hundred words coined across years has its mavericks. The claim is not perfection. The claim is intent: in this language, when sound and meaning agree, it is because someone listened before they coined.
+The optional `sound_symbolism` field records associations of this kind. Omitting it is more accurate than inventing a story after the word already exists. Phi listens for sound and meaning together, but it does not require them to pretend they have always agreed.
