@@ -8,16 +8,31 @@
     "no"
   ],
   "pos": "adjective",
-  "concept": "Selfish / Concerned Only with Self / Lacking Generosity",
-  "description": "Lacking consideration for others; concerned chiefly with one's own personal profit or pleasure. 'Kaesu' names the quality of selfishness—the contracted heart that takes without giving.",
-  "sound_symbolism": "The word grasps inward. 'Ka' begins with sharp claiming, the stop seizing what it touches, the open 'a' a hand opened only to grab. 'Su' sustains the self-focus, the hiss of the fricative circling back to the deep 'u' of the hoard. Then 'no' closes the door: the nasal turned away from others, the round 'o' sealing the circle shut. The vowels narrow from open 'a' through inward 'u' to closed-off 'o'—a movement of contraction, the shape of a heart that takes without giving.",
-  "grammatical_notes": "Functions as an adjective: 'kasuno miona' (selfish person). Opposite of 'heloi' (generous). Names state that harms community and self.",
+  "search_terms": [
+    "self-centred",
+    "self-serving",
+    "inconsiderate of others"
+  ],
+  "description": "'kasuno' applies when a choice or pattern gives one's own gain priority in a matter where another person's needs or claims also count. Caring for oneself, resting, keeping privacy, or refusing a request is not selfish merely because it protects the speaker. 'heloi' (generous) concerns readiness to give, while 'kasuno' asks whose interests were allowed to matter.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release it into open central 'a'. Raise the tongue blade near the alveolar ridge and direct unvoiced air through its central groove for 's', then round the lips around stressed high-back 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with rounded true-mid back 'o'.",
+  "sound_symbolism": "The broad opening narrows through sustained 's' into stressed 'u', then the final nasal settles into rounded 'o'. That contraction through the middle gives the word a memorable inward contour before the mouth opens again.",
+  "usage_notes": "The quality-noun rule supplies selfishness. Attaching the adjective to a particular choice or pattern keeps one decision from hardening into a permanent account of a person.",
+  "examples": [
+    {
+      "phi": "ha kanu kasuno nai.",
+      "translation": "This choice is selfish."
+    },
+    {
+      "phi": "shia miso theama. ha kasuno ma nai.",
+      "translation": "They care for themselves. This is not selfish."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Selfishness arises from illusion of separate self—seeing through this illusion naturally opens to generosity.",
-    "peace-linguistics-practices": "Selfish communication takes without giving—monologue that doesn't listen, speech that doesn't care for impact."
+    "secular-buddhist-philosophy": "'kasuno' is useful where attachment to one's own gain excludes needs that are genuinely present. It does not turn the ordinary care of one's body and boundaries into a fault.",
+    "peace-linguistics-practices": "A refusal may protect consent and still be generous towards the relationship. The word therefore belongs to the distribution of regard, not to the mere fact that someone said no."
   },
   "semantic_domains": {
-    "community": "Lacking generosity",
-    "emotion": "Self-centered"
+    "community": "a choice or pattern that discounts other people's relevant needs or claims",
+    "wisdom": "judgement of whose interests a decision allowed to count"
   }
 }

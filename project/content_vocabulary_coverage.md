@@ -28,7 +28,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Sensory and perceptual qualities | **DONE** | Fifteen inherited entries now use the target prose contract. `pothu` (stink) remains unchanged while its lexical framing is reviewed. |
 | Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Applied ornament remains a review question rather than a hurried coinage. |
 | Awareness and epistemic qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
-| Resume inherited content prose migration | **NEXT** | Continue after the awareness and epistemic qualities batch. Each semantic group passes through this coverage gate. |
+| Ethics, care, and candour | **DONE** | Eleven inherited entries now use the target prose contract, with `thua` (fair) as an already-migrated anchor. Deliberate or callous infliction of suffering remains a lexical review question. |
+| Resume inherited content prose migration | **NEXT** | Continue after the ethics, care, and candour batch. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -43,6 +44,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Sensory and perceptual qualities | [PR #362](https://github.com/dcellison/phi/pull/362) | **REVIEW** | The channels and ordinary qualities are covered. `pothu` remains under review as the dedicated strongly unpleasant odour verb. |
 | Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
+| Ethics, care, and candour | This batch | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
 
 ## Audit method
 
@@ -226,6 +228,28 @@ A person can be conscious without attending, aware without understanding, and co
 
 The fifteen inherited entries in this batch now use the target prose contract. No new root follows from the coverage pass. The most tempting apparent gaps already have a stable compound, a direct contrast, or a construction that says more precisely what happened. Connected use can reopen any of those decisions, but none is being kept off the page as an unexamined absence.
 
+## Ethics, care, and candour
+
+A person can be honest and mistaken, sincere and harmful, generous and intrusive, or responsible without holding an accountable office. This field keeps those judgements apart. It also keeps self-care from becoming selfishness and technical performance from quietly becoming goodness.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Broad favourable judgement | `welao` (good), with `theali` (fitting), `poruli` (efficient), `thua` (fair), and `towe` (well) for narrower tests | **COVERED** | `welao` can evaluate a meal, day, tool, act, or person, but the context supplies the grounds. Fit, efficiency, fairness, and wellbeing do not automatically settle that wider judgement. |
+| Generic bad or worse | Negated `welao`, `peloma` (harmful), `phelira` (mistaken), `pukea` (danger), failure and fault vocabulary, or the actual comparison at issue | **COMPOSITIONAL** | English *bad* gathers unrelated failures under one adjective. The Schleicher translation already reverses a wellbeing comparison rather than inventing a generic worse, and other contexts can name the property that failed. |
+| Harmful effect and its absence | `peloma` (harmful), negated `peloma`, and `shurano` (safe) | **COVERED** | Harmfulness concerns effect under stated conditions. Harmless means that this harmful quality is absent; safety is the separate claim that someone or something is out of danger. |
+| Kindness, compassion, and gentleness | `phena` (kind), `ruesha` (compassionate), `moli` (gentle), and `theama` (care) | **COVERED** | Kindness is benevolent regard in conduct, compassion responds to suffering, gentleness concerns force or manner, and care is work done for wellbeing or maintenance. |
+| Deliberate or callous infliction of suffering | `peloma` (harmful), `kipona` (pain), `kaworu` (injury), `thueli` (intend), clauses of causation, and absent compassion | **REVIEW** | Existing clauses can state the facts, but they do not gather the ethical pattern commonly called cruelty or malice. The manual already needs this distinction when it says that Phi grammar cannot prevent cruel speech, and later chapters of *News from Nowhere* use both cruelty and malice. |
+| Harshness | `keloa` (rough), `theisa` (loud), `moli` (gentle) with negation or degree, `peloma` (harmful), and a stated speech act or condition | **COMPOSITIONAL** | Harsh speech, weather, light, punishment, and texture fail different tests. The relevant force, roughness, pain, or severity says more than one portable adjective would. |
+| Generosity, selfishness, and self-care | `heloi` (generous), `kasuno` (selfish), `theama` (care), reflexive `miso`, `naweri` (refuse), and ordinary boundary clauses | **COVERED** | Selfishness discounts another person's relevant needs or claims. Rest, privacy, refusal, and care for oneself remain available without moral suspicion, while generosity describes readiness to give or share. |
+| Careful and careless attention | `thesa` (careful), `muko` (careless), `theonu` (attend), and `theama` (care) | **COVERED** | Careful and careless judge the attention given to avoiding error or harm. They do not replace care as practical work or kindness as regard for another person. |
+| Truth, honesty, sincerity, and authenticity | `shewo` (true), `wero` (honest), `thaemu` (sincere), `noemi` (authentic), `telua` (accurate), and `peshu` (lie) | **COVERED** | Truth belongs to the claim, honesty to the absence of knowing deception, sincerity to the match with present feeling or intention, and authenticity to fidelity with lived commitments. Accuracy remains a comparison with a reference. |
+| Unkind, dishonest, and irresponsible conduct | Negation of `phena`, `wero`, or `thonai`, with `peshu` for deliberate lying and the particular act stated | **COMPOSITIONAL** | The negative quality forms are ordinary Phi. A specific verb is better when the speaker means lying, refusing care, abandoning accepted work, or causing harm. |
+| Trustworthy character | `theomi` (trust), `wero` (honest), evidence about conduct, and `koluri` (reliable) only for technical function | **COMPOSITIONAL** | Phi can state who trusts whom and why without presenting trustworthiness as an inherent property. Technical reliability deliberately stays with devices and systems rather than supplying a judgement about a person. |
+| Respectful speech or conduct | `nawea` (respect), politeness particle `pi`, and the concrete act that recognizes another person's dignity or boundary | **COVERED** | Respect is directly sayable as a relation or practice, while `pi` frames an utterance as respectful. Neither form proves that the effect matched the speaker's intention. |
+| Responsibility, commitment, obligation, and accountability | `thonai` (responsible), `seru` (commit), `naseru` (obligation), `lothoni` (accountable), and module terms for assignment or role | **COVERED** | `thonai` is willingly taken responsibility whose source and scope remain open. Commitment is self-binding, obligation may be imposed, and accountability adds an answer-and-review relation. |
+
+The eleven inherited adjectives in this batch now use the target prose contract, with already-migrated `thua` as the fairness anchor. No new root is coined here. Only cruelty remains under review. Harmfulness alone does not cover a person who recognizes suffering yet chooses to cause it or let it continue. The next step is a short scenario that varies intention, indifference, power, and effect before Phi decides whether that pattern deserves a base word.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -266,4 +290,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, and awareness and epistemic qualities. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu` and applied ornament remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, awareness and epistemic qualities, and ethics, care, and candour. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu`, applied ornament, and deliberate or callous infliction of suffering remain recorded review questions rather than hidden gaps.

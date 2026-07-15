@@ -8,17 +8,32 @@
     "ma"
   ],
   "pos": "adjective",
-  "concept": "Harmful / Damage-Causing / That Which Diminishes",
-  "description": "The adjective naming the quality of causing harm, damage, or diminishment to beings or systems. Unlike a simple negative judgment ('bad'), this word focuses on effect—what actually causes suffering or degradation. In Phi, harmfulness is understood as consequence rather than moral category, enabling discussion of difficult realities without accusation. Something can be peloma without malice, like a storm or an honest mistake with painful results.",
-  "sound_symbolism": "The word opens with 'pe', where the soft labial begins gently—harm in Phi is named softly, not shouted. This flows through 'lo', where the liquid spreads the quality outward, as harm ripples through systems. The final 'ma' grounds in the nasal's stability, acknowledging harm as real rather than dramatizing it. Three syllables give weight without heaviness. The word itself demonstrates how to speak of difficult things: directly but without violence.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'peloma thena' (harmful thing). Describes actions, substances, situations, or patterns that cause damage. Can be used with degree markers. Explicitly does NOT carry moral condemnation—it describes effect, not intent or character. Contrasted with 'welao' (good) and paired with 'theali' (fitting) in discussions of appropriate action.",
+  "search_terms": [
+    "damaging",
+    "detrimental",
+    "hurtful"
+  ],
+  "description": "Something is 'peloma' when it causes damage, suffering, or a loss of capacity under the conditions being discussed. A storm, design, medicine, or well-meant choice may be harmful without malice because the adjective attends to effect. 'pukea' (danger) concerns the possibility of harm before it occurs; 'peloma' belongs to a harmful tendency, act, or result.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and let air pass along its sides into stressed true-mid back 'o'. Close the lips again for voiced nasal 'm', carry the voice through the nose, and finish with open central 'a'.",
+  "sound_symbolism": "A firm lip release gives way to stressed 'lo', then the mouth returns to the lips for 'm' and opens broadly on 'a'; the form has gravity without the bite of a final closure.",
+  "usage_notes": "The quality-noun rule supplies harmfulness. The affected person or system, conditions, evidence, and degree are separate facts, available when they matter.",
+  "examples": [
+    {
+      "phi": "ha phoa peloma nai.",
+      "translation": "This action is harmful."
+    },
+    {
+      "phi": "ha phialu po peloma nai.",
+      "translation": "This water may be harmful."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainable design requires honest assessment of what damages ecosystems and communities. 'Peloma' serves the clarity needed to identify and transform harmful systems without demonizing those caught within them.",
-    "secular-buddhist-philosophy": "Recognizing harm without adding aversion is skillful perception. 'Peloma' names what causes suffering clearly enough to respond wisely, without the reactivity that compounds harm with more harm.",
-    "peace-linguistics-practices": "By focusing on effect rather than blame, 'peloma' enables discussion of harmful actions without attacking persons. This supports accountability without dehumanization—we can address what hurts without declaring anyone 'bad.'"
+    "secular-buddhist-philosophy": "The word keeps attention on suffering and diminished capacity, including harm that occurred without hatred or a settled moral identity.",
+    "peace-linguistics-practices": "Calling an act 'peloma' identifies its effect without turning the person who acted into a harmful kind of person. Intent and repair then remain open for discussion on their own terms."
   },
   "semantic_domains": {
-    "cognition": "assessment of negative effect",
-    "community": "describes what diminishes wellbeing"
+    "community": "effects that diminish another person's or a community's wellbeing",
+    "physical": "damage, pain, or reduced capacity caused under stated conditions",
+    "wisdom": "ethical assessment grounded in effects rather than personal condemnation"
   }
 }

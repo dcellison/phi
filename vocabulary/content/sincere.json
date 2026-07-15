@@ -8,16 +8,26 @@
     "mu"
   ],
   "pos": "adjective",
-  "concept": "Sincere / Genuinely Felt / Without Pretense",
-  "description": "Free from pretense or deceit; proceeding from genuine feelings. 'Thaemu' names the quality of heartfelt authenticity—expression that matches inner experience.",
-  "sound_symbolism": "The word speaks from the heart. 'Tha' /θa/ begins with gentle breath, intention forming. The vowel 'e' opens to expression, feeling emerging. Then 'mu' grounds in truth, sincerity confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'thaemu phelui' (sincere words). Related to 'noemi' (authentic) but emphasizes the genuineness of expression rather than faithfulness to identity.",
+  "search_terms": [
+    "earnest",
+    "heartfelt",
+    "genuine in feeling"
+  ],
+  "description": "'thaemu' fits words, an apology, a promise, or a gesture that genuinely proceeds from the feeling or intention being expressed. A sincere apology may still misunderstand the harm, and a sincere promise may exceed the speaker's capacity. 'wero' (honest) excludes knowing deception. 'noemi' (authentic) concerns faithfulness to a person's own commitments or way of being.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth and let unvoiced air pass for 'th', then open into central 'a'. Move the tongue forward for stressed true-mid unrounded 'e' in its own syllable across the 'a.e' hiatus. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "Breath passes the teeth into broad 'a', crosses an exposed hiatus to stressed 'e', then gathers at the lips before rounded 'u'. The movement opens before it settles, an audible shape that can recall words rising from an intention actually felt.",
+  "usage_notes": "The quality-noun rule supplies sincerity. Speakers claim their own sincerity directly; a claim about another person's inner match is ordinarily an inference and may be marked or supported accordingly.",
+  "examples": [
+    {
+      "phi": "mia phelui thaemu nai.",
+      "translation": "My words are sincere."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Sincere practice engages wholeheartedly—half-hearted effort cannot bring transformation.",
-    "peace-linguistics-practices": "Sincere communication expresses actual feeling—pretense blocks connection while genuineness enables it."
+    "peace-linguistics-practices": "A sincere apology or promise reports a real intention, but sincerity does not settle effect or repair. Keeping those questions apart protects candour from becoming self-excuse."
   },
   "semantic_domains": {
-    "dialogue": "Genuine expression",
-    "emotion": "Heartfelt authenticity"
+    "dialogue": "expression that matches the feeling or intention it presents",
+    "emotion": "genuine feeling made present in words or gesture"
   }
 }

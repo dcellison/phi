@@ -7,16 +7,28 @@
     "na"
   ],
   "pos": "adjective",
-  "concept": "Kind / Gentle-Hearted Nature",
-  "description": "The quality of being gentle, considerate, and benevolent. Kindness is compassion in action, often expressed through small, mindful gestures that affirm connection and ease suffering.",
-  "sound_symbolism": "The soft breath of 'ph' releases gentleness into the world like a warm sigh. The grounding 'na' anchors this gentleness in consistent presence, creating a word that feels like a gentle hand resting on a shoulder - soft yet substantial, caring yet grounded.",
-  "grammatical_notes": "An adjective: 'phena miona' (kind person). Kindness itself, the noun, comes by the quality-noun rule. Related to 'ruesha' (compassionate), which responds to suffering where 'phena' names general benevolence, and to 'moli' (gentle), manner rather than motive.",
+  "search_terms": [
+    "benevolent",
+    "considerate",
+    "kindly"
+  ],
+  "description": "'phena' is benevolent regard made visible in how someone acts or responds; it fits a small courtesy, patient help, or a choice that takes another person's wellbeing seriously. 'ruesha' (compassionate) is drawn specifically by suffering, while 'moli' (gentle) stays with low force or mild manner whether or not kindness motivated it.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then move into true-mid front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', let the voice continue through the nose, and open into central 'a'. Stress falls on 'phe'.",
+  "sound_symbolism": "The word begins in breath between the lips and settles into the hum of a dental nasal before the mouth opens on 'a'. Its small, even movement suits a quality often known through ordinary gestures rather than display.",
+  "usage_notes": "The quality-noun rule supplies kindness. Before a verb, 'phena' describes the manner of the act, which keeps one considerate response from becoming a permanent claim about the actor's character.",
+  "examples": [
+    {
+      "phi": "shia phena lonae.",
+      "translation": "They respond kindly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Kindness embodies metta (loving-kindness) in action - the practice of wishing well for all beings expressed through concrete gestures. This isn't mere sentiment but trained response, cultivating the habit of meeting whatever arises with gentleness. True kindness includes being kind to ourselves, recognizing that we cannot sustainably offer what we don't possess.",
-    "peace-linguistics-practices": "Kindness disrupts cycles of harm through unexpected gentleness, creating openings where defensiveness might otherwise arise. Each act of kindness, however small, builds the social fabric that makes violence less likely. This practice recognizes that peace is constructed through countless daily choices to respond with care rather than harshness."
+    "secular-buddhist-philosophy": "'phena' gives loving-kindness a place in ordinary conduct: a reply, gift, or refusal may wish another person well without surrendering truth or boundaries.",
+    "peace-linguistics-practices": "Kindness changes how difficult speech is delivered. It appears in timing, wording, tone, or a response that leaves the other person's dignity intact."
   },
   "semantic_domains": {
-    "emotion": "expresses care and compassion through feeling and action",
-    "wisdom": "requires mindful awareness and cultivated response"
+    "community": "benevolent regard expressed through conduct towards another person",
+    "dialogue": "consideration made audible in a reply or choice of words",
+    "emotion": "a disposition that wishes another person well"
   }
 }

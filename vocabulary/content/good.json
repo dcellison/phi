@@ -8,17 +8,30 @@
     "o"
   ],
   "pos": "adjective",
-  "concept": "Good / Beneficial / Well-Functioning",
-  "description": "The adjective naming positive quality, beneficial nature, and proper functioning. In Phi, goodness combines ethical rightness, functional appropriateness, and contribution to wellbeing. This word refuses the split between moral good and practical good—what truly functions well serves life, and what serves life is morally sound. Goodness is recognized in harmony, in health, in right relationship.",
-  "sound_symbolism": "The word opens with 'we', where the flowing glide 'w' creates positive movement—reaching toward the beneficial, opening toward the good. The clear 'e' brings discernment. This flows through 'la', where the liquid carries goodness outward in blessing, in benefit, in positive effect. The final 'o' opens into fullness, the round completion of wellbeing achieved. Three syllables give weight to the claim of goodness.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'welao nuora' (good food). Can be used predicatively and as general positive evaluation. Distinguished from 'mioru' (beautiful) by emphasizing benefit, function, or ethics rather than aesthetic appreciation, though the concepts may overlap.",
+  "search_terms": [
+    "beneficial",
+    "favourable",
+    "worthwhile"
+  ],
+  "description": "'welao' is Phi's broad favourable evaluation. A good meal, choice, tool, or day meets the grounds that matter in the conversation, whether those grounds concern ethics, practical use, bodily wellbeing, or personal experience. 'theali' (fitting) concerns relation to a context or purpose, and 'poruli' (efficient) concerns useful output relative to input; neither automatically makes a thing 'welao'.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then release the rounding as the tongue moves forward into true-mid 'e'. Touch the tongue tip to the alveolar ridge for 'l' and let the voice pass along its sides into stressed open central 'a'. Keep final true-mid back 'o' in a separate syllable, rounding the lips after the 'a.o' hiatus.",
+  "sound_symbolism": "The opening glide loosens into the lateral centre, and the final hiatus lets the mouth open before it rounds. Three unhurried syllables make a favourable judgement sound considered rather than snapped off.",
+  "usage_notes": "The quality-noun rule supplies goodness. Comparative 'mo welao' means better and 'mo ko welao' means best on the contextual scale; the surrounding clause makes that scale explicit when it affects a decision.",
+  "examples": [
+    {
+      "phi": "ha nuora welao nai.",
+      "translation": "This food is good."
+    },
+    {
+      "phi": "ha keli poruli nai. whekai ha keli welao ma nai.",
+      "translation": "This device is efficient. However, this device is not good."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Good in the solarpunk sense serves both people and planet, functions well now and sustainably over time. 'Welao' encompasses this integrated understanding.",
-    "secular-buddhist-philosophy": "What is good reduces suffering and supports liberation. 'Welao' names the quality that Buddhist ethics seek—what benefits self and others, what leads toward awakening.",
-    "pre-industrial-wisdom": "Traditional wisdom understood good as what serves life, community, and right relationship. 'Welao' preserves this holistic sense."
+    "solarpunk-values": "A system may be technically efficient while worsening access or damaging land. 'welao' keeps the broader favourable judgement separate from any single performance measure.",
+    "secular-buddhist-philosophy": "A judgement of good action attends to intention and effect without pretending that one pleasant outcome settles the whole ethical question."
   },
   "semantic_domains": {
-    "community": "what serves collective wellbeing",
-    "wisdom": "discernment of beneficial quality"
+    "wisdom": "a contextual favourable judgement whose grounds remain open to examination"
   }
 }

@@ -270,7 +270,7 @@
 | `whoa` | whole | a form perceived as intact and unified |
 | `wira` | window | View portal |
 
-## cognition (246)
+## cognition (245)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -371,7 +371,6 @@
 | `palethu` | tactile | information distinguished through tactile perception |
 | `pekira` | toxic | a conditioned assessment of biological harm capability |
 | `pelaku` | severity | a criterion-relative judgment of degree |
-| `peloma` | harmful | assessment of negative effect |
 | `pemaru` | hazard | a potential-harm classification kept distinct from likelihood and outcome |
 | `phaelo` | feel | conscious awareness of an internal experience |
 | `phamori` | symptom | a noticed and reported health-relevant experience |
@@ -521,7 +520,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (281)
+## community (282)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -529,7 +528,7 @@
 | `hasenu` | recess | shared time for rest or repair before resumption |
 | `helaki` | amend | institutional revision with preserved history |
 | `helia` | youth | the energy that renews collective life |
-| `heloi` | generous | Sharing |
+| `heloi` | generous | readiness to give or share with regard for others |
 | `helolu` | redress | redress shaped by affected parties and remaining loss |
 | `hinawu` | accommodate | a particular response to an access requirement |
 | `howai` | evening | Gathering time |
@@ -538,7 +537,7 @@
 | `kanuwa` | authorize | institutional authorization with a stated source and scope |
 | `karami` | authority | claimed or recognized decision power within a stated scope |
 | `kasira` | vote | a vote within a defined collective procedure |
-| `kasuno` | selfish | Lacking generosity |
+| `kasuno` | selfish | a choice or pattern that discounts other people's relevant needs or claims |
 | `kawepa` | catch | The other end of every throw |
 | `kawhera` | coerce | coercion within an institutional or social relation |
 | `keloe` | companion | Journey partner |
@@ -644,7 +643,7 @@
 | `panoru` | support | Providing foundation for others |
 | `panuri` | resource | availability and access may be shared, contested, governed, or refused |
 | `pawela` | participate | participation is inherently social and collective |
-| `peloma` | harmful | describes what diminishes wellbeing |
+| `peloma` | harmful | effects that diminish another person's or a community's wellbeing |
 | `pemaru` | hazard | a condition whose exposure and consequences may be shared or unequal |
 | `phaeno` | week | Work rhythm |
 | `phaliso` | network | fundamentally about collective relationships and mutual support |
@@ -663,6 +662,7 @@
 | `phemi` | guest | transforms strangers into temporary family through hospitality bonds |
 | `phemila` | host | creates temporary family through networks of reciprocal care |
 | `phemiru` | visit | company held through the guest relation |
+| `phena` | kind | benevolent regard expressed through conduct towards another person |
 | `phenori` | ownership | a socially defined set of powers and claims over something |
 | `phewani` | neighbor | fundamental to local social bonds and collective life |
 | `phewo` | sage | Wisdom role |
@@ -686,6 +686,7 @@
 | `ritako` | workload | work distributed among people or groups |
 | `rolia` | worth | Universal value |
 | `rolutha` | wagon | What moves the harvest to market |
+| `ruesha` | compassionate | concern for suffering that shapes a response to another person |
 | `ruloi` | flourish | Collective thriving |
 | `ruweli` | access | practical entry into shared services and processes |
 | `sano` | know | knowing others and sharing collective knowledge |
@@ -754,7 +755,7 @@
 | `thola` | bring | delivering to others, bringing people and things together |
 | `tholira` | forgive | Enabling healing after harm |
 | `tholupi` | room | an interior place used in shared or solitary daily life |
-| `thonai` | responsible | Accountable role |
+| `thonai` | responsible | willing acceptance of care or answerability for a shared matter |
 | `thonua` | scholar | Learning role |
 | `thorae` | facilitator | Process role |
 | `thorai` | bless | Wishing wellbeing upon others |
@@ -774,7 +775,6 @@
 | `tomi` | pot | Daily nourishment |
 | `tupeka` | burden | weight or demand located on an affected bearer |
 | `warosha` | reconcile | Healing relationships after conflict |
-| `welao` | good | what serves collective wellbeing |
 | `welira` | thrive | Collective wellness |
 | `wema` | belong | roots in collective identity and mutual acceptance |
 | `wemari` | member | recognized membership in a stated group or institution |
@@ -979,7 +979,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (111)
+## dialogue (114)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1012,6 +1012,7 @@
 | `miratu` | recognize | Acknowledging identity in encounter |
 | `misharo` | consult | an exchange intended to inform later action |
 | `mishoa` | express | conveys inner truth through perceivable forms |
+| `moli` | gentle | speech delivered with mild pressure or force |
 | `moreko` | articulate | Clear verbal expression |
 | `mothare` | premise | a claim participants can grant, question, or revise explicitly |
 | `naphe` | help | Fundamental exchange of mutual aid |
@@ -1019,6 +1020,7 @@
 | `naweri` | refuse | The boundary stated |
 | `naweso` | consensus | public stances considered under a stated consensus rule |
 | `nawo` | agree | Where honest exchange arrives |
+| `noemi` | authentic | a voice or expression faithful to the speaker's lived commitments |
 | `nohero` | believe | Expressing conviction with openness |
 | `nomei` | name | the word that calls and identifies |
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
@@ -1031,6 +1033,7 @@
 | `pharune` | include | Affirming membership |
 | `phelotu` | format | a communication form selected for sending and receiving meaning |
 | `phelui` | word | the basic unit of speech |
+| `phena` | kind | consideration made audible in a reply or choice of words |
 | `phenui` | thoughtful | consideration made visible in speech or response |
 | `phesua` | inspire | transmits energy between consciousnesses |
 | `phiketu` | contradict | a precise conflict that clarification may confirm or dissolve |
@@ -1066,7 +1069,7 @@
 | `sitheku` | transcribe | carrying spoken or signed expression into writing |
 | `solae` | explain | illuminates understanding through detailed communication |
 | `tewema` | partner | requires ongoing communication and mutual exchange |
-| `thaemu` | sincere | Genuine expression |
+| `thaemu` | sincere | expression that matches the feeling or intention it presents |
 | `thasu` | modest | Not boastful |
 | `theisa` | loud | high perceived intensity in a voice or spoken utterance |
 | `thekao` | acknowledge | validates and recognizes others through communication |
@@ -1089,18 +1092,18 @@
 | `thumela` | teach | knowledge transfer through communication |
 | `thunesi` | asynchronous | an exchange without simultaneous presence |
 | `toloi` | messenger | Message carrying |
-| `wero` | honest | Truthfulness |
+| `wero` | honest | speech or conduct free from knowing deception |
 | `whakeru` | object | placing a challenge into discussion for response |
 | `whaline` | thank | Verbal expression of gratitude |
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## emotion (106)
+## emotion (104)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | openness and unguarded feeling |
-| `heloi` | generous | Open-heartedness |
+| `heloi` | generous | an open disposition towards giving |
 | `heno` | satisfy | Contentment |
 | `hola` | laugh | Expressing amusement |
 | `holia` | festival | Communal joy |
@@ -1110,7 +1113,6 @@
 | `kaeli` | like | the feeling of preference and affinity |
 | `kaeshu` | bold | Confident daring |
 | `kapura` | shout | intensity breaking into voice |
-| `kasuno` | selfish | Self-centered |
 | `kela` | rejoice | Experiencing deep gladness |
 | `keloe` | companion | Abiding presence |
 | `kelomi` | accept | Opening to what is present |
@@ -1130,7 +1132,7 @@
 | `menai` | dedicate | Deep commitment |
 | `meropi` | cherish | Tender protective valuing |
 | `mishoa` | express | manifests feelings from inner to outer world |
-| `moli` | gentle | Tender quality |
+| `moli` | gentle | a mild and tender manner in relation to others |
 | `monelu` | amused | The lighter feeling laughter sometimes follows |
 | `motu` | humble | Without arrogance |
 | `muro` | stubborn | Inflexible |
@@ -1139,7 +1141,6 @@
 | `nilua` | shy | Social hesitance |
 | `noalu` | tranquil | Deep peace |
 | `noeli` | warm (emotional) | Welcoming kindness |
-| `noemi` | authentic | Genuine being |
 | `nolami` | bond | creates tender embrace through care and presence |
 | `nomela` | encourage | gives hope and confidence through heartfelt support |
 | `nophei` | loyal | Steadfast commitment |
@@ -1154,7 +1155,7 @@
 | `phaelo` | feel | an emotional state as it is experienced |
 | `phaelu` | peaceful | State of harmony |
 | `phamo` | console | Accompanying grief |
-| `phena` | kind | expresses care and compassion through feeling and action |
+| `phena` | kind | a disposition that wishes another person well |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
 | `phimela` | kiss | Affection made touch |
 | `pula` | wish | Holding hope for outcomes |
@@ -1162,7 +1163,7 @@
 | `ralu` | free | Liberation |
 | `renoa` | liberate | Release from bondage |
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
-| `ruesha` | compassionate | Fellow-feeling |
+| `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
 | `seniku` | smile | Expressing warmth and pleasure |
 | `shaelo` | brave | Courage |
 | `shea` | peace | peace as fundamental emotional and spiritual state |
@@ -1175,7 +1176,7 @@
 | `sonu` | alone | The felt state of being by oneself |
 | `sukima` | fear | The body's alarm before danger |
 | `thaemo` | precious | Cherished value |
-| `thaemu` | sincere | Heartfelt authenticity |
+| `thaemu` | sincere | genuine feeling made present in words or gesture |
 | `thaluni` | kin | embodies deep bonds of love and connection |
 | `theala` | heal | encompasses emotional restoration and returning to balance |
 | `theama` | care | nurtures through open-hearted presence and attention |
@@ -1442,7 +1443,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (348)
+## physical (349)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1550,7 +1551,7 @@
 | `mokanu` | disease | a pattern or process affecting bodily health or function |
 | `mokela` | sick | The body out of accord |
 | `mokura` | belly | Central body region of digestion and feeling |
-| `moli` | gentle | Mild in force |
+| `moli` | gentle | contact or movement kept low in force for its situation |
 | `molu` | container | Holding space |
 | `molupa` | box | a holder that retains its shape when empty |
 | `monaki` | component | a part that may be material, though the term also permits informational and procedural components |
@@ -1613,6 +1614,7 @@
 | `pekira` | toxic | a property of substances, mixtures, materials, or agents under exposure |
 | `pelaku` | severity | degree of bodily or health effect |
 | `pelio` | arm | Upper limbs for reaching and working |
+| `peloma` | harmful | damage, pain, or reduced capacity caused under stated conditions |
 | `pelui` | cold | temperature felt as a strong chill rather than mild coolness |
 | `pemaru` | hazard | a material, energy source, condition, or process capable of harm |
 | `perawi` | expose | contact through a route over a duration |
@@ -2176,11 +2178,12 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (184)
+## wisdom (186)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloa` | remedy | Problem solving |
+| `heloi` | generous | giving that does not confuse generosity with self-erasure |
 | `helui` | change | Recognition of impermanence |
 | `hinolu` | adapt | Responsive flexibility |
 | `hiru` | intuit | Immediate knowing |
@@ -2189,6 +2192,7 @@
 | `hurao` | patient | Enduring quality |
 | `kaeshu` | bold | Willingness to risk |
 | `kanu` | choose | Where deliberation becomes direction |
+| `kasuno` | selfish | judgement of whose interests a decision allowed to count |
 | `kathu` | seal | Confirmation |
 | `keiro` | way | Manner of approach |
 | `keli` | device | Crafted complexity |
@@ -2236,7 +2240,7 @@
 | `nilua` | shy | Sensitive reserve |
 | `noa` | position | Understanding position as relational rather than hierarchical |
 | `noalu` | tranquil | Undisturbed state |
-| `noemi` | authentic | Self-truth |
+| `noemi` | authentic | integrity that permits growth rather than presuming a fixed self |
 | `noetha` | essential | Fundamental understanding |
 | `nomi` | present | Here-and-now quality |
 | `nomira` | collect | Selective accumulation over time |
@@ -2251,6 +2255,7 @@
 | `nuri` | cycle | Understanding of return |
 | `nusho` | depth | Profundity |
 | `nuwoe` | stage | Growth position |
+| `peloma` | harmful | ethical assessment grounded in effects rather than personal condemnation |
 | `pelua` | paper | Receptive potential |
 | `peshu` | lie | What truthfulness is defined against |
 | `phaelu` | peaceful | Core Phi quality |
@@ -2258,7 +2263,6 @@
 | `phelira` | mistaken | recognition of error as an occasion for correction rather than shame |
 | `pheloma` | serve | understanding interdependence and collective wellbeing |
 | `phelu` | hold | knowing how to maintain without clinging |
-| `phena` | kind | requires mindful awareness and cultivated response |
 | `phenui` | thoughtful | reflection on likely effects before action |
 | `pheru` | endure | Persistence |
 | `phesua` | inspire | involves skillful awakening without forcing |
@@ -2280,7 +2284,7 @@
 | `rolia` | worth | Inherent dignity |
 | `romishe` | contemplate | Patient approach to understanding |
 | `ruela` | path | ways of practice and understanding |
-| `ruesha` | compassionate | Response to suffering |
+| `ruesha` | compassionate | attention that remains with suffering without assuming a quick remedy |
 | `sano` | know | accumulated knowledge and experiential understanding |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `selomi` | weave | Understanding interconnection through making |
@@ -2337,7 +2341,7 @@
 | `tholu` | space | Enabling emptiness |
 | `tholua` | ancient | Time-tested quality |
 | `thomari` | courage | faces reality with mindful awareness and integrity |
-| `thonai` | responsible | Duty bearing |
+| `thonai` | responsible | recognition that a matter has become one's own to address |
 | `thoru` | proud | Appropriate self-respect |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |
@@ -2349,9 +2353,9 @@
 | `waeli` | conscious | the experiential field that can be noticed without being treated as a fixed self |
 | `waeshi` | wild | Natural freedom |
 | `weilo` | balanced | workable proportion among competing needs or considerations |
-| `welao` | good | discernment of beneficial quality |
+| `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | The first foundation of mindfulness |
-| `wero` | honest | Without deception |
+| `wero` | honest | truthfulness kept separate from accuracy, certainty, and compulsory disclosure |
 | `wesoma` | mutual | understanding interdependence requires deep insight |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `whano` | stand | standing meditation and practice of mindful presence |
