@@ -42,7 +42,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
 | Sensory and perceptual qualities | [PR #362](https://github.com/dcellison/phi/pull/362) | **REVIEW** | The channels and ordinary qualities are covered. `pothu` remains under review as the dedicated strongly unpleasant odour verb. |
 | Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
-| Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and pending follow-up | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
+| Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 
 ## Audit method
 
