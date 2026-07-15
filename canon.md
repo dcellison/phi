@@ -307,20 +307,7 @@ These were explicitly decided and should not silently fork again:
   kealo.`, the community makes a ceremony for them) and the
   content belongs to whoever holds it. The stance the Prophet
   transmutation stated in passing is hereby canon.
-- **The heart composes** (settled 2026-07-06): the felt basics
-  are the whole coined emotion lexicon: the noun feelings taken
-  by `phaelo` (`shea`, `nuhe`, `sukima`, `nupira`, `thomari`)
-  and the adjective states worn with `nai` (`siora`, `loshi`,
-  `shena`, `phaelu`, `noalu`, `thiro`, `nuloe`, `nemo`, `kuelo`,
-  `phaeli`, `hurao`, `shaelo`, `phena`, `thoru`). Complex and
-  social emotions are not coined; they compose from their
-  mechanisms, as the registry teaches: `korua thero` (anger, and
-  hatred with it), `thiku nila` (contempt), `phelu pula` (envy),
-  `sonu` + `nuhe` (loneliness), and wonder as a question held
-  inside feeling (`wela … welo` under `phaelo`, ch19's own
-  rendering). A root for a complex feeling would hide the
-  mechanism its compound lays open; the envy row's aside is
-  hereby the rule for the class.
+- **The heart names and composes** (settled 2026-07-06; scope clarified 2026-07-15): the noun feelings taken by `phaelo` (`shea`, `nuhe`, `sukima`, `nupira`, `thomari`) and the adjective states worn with `nai` (`siora`, `loshi`, `shena`, `phaelu`, `noalu`, `thiro`, `nuloe`, `nemo`, `kuelo`, `phaeli`, `hurao`, `shaelo`, `phena`, `thoru`) form the core teaching inventory for Phi's feeling grammar. This inventory teaches the two patterns. Phi's affective lexicon extends beyond it, with direct roots such as `monelu` (amused), `wiroa` (hopeful), `luroi` (nervous), and `nilua` (shy). Composition is chosen when the parts reveal a relation worth keeping in view. The registry settles `korua thero` (anger, and hatred with it), `thiku nila` (contempt), `phelu pula` (envy), `sonu` + `nuhe` (loneliness), and wonder as a question held inside feeling (`wela … welo` under `phaelo`, ch19's own rendering). Those expressions keep their settled forms. Other affective states may still receive direct roots when they carry a useful distinction.
 - **A work is its making** (settled 2026-07-06): art-form and
   genre roots (poem, painting, sculpture, novel, and their kin)
   are refused by design; each would name a container where Phi
