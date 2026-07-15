@@ -7,16 +7,21 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Slow / Unhurried / Moving with Deliberation",
-  "description": "Moving or operating at a low speed; not hurried. 'Sheru' names the quality of unhurried pace—movement that takes its time, action that refuses to rush.",
-  "sound_symbolism": "The word moves gently. 'She' /ʃe/ begins with soft breath, haste released. Then 'ru' rolls slowly, deliberation embodied.",
-  "grammatical_notes": "Functions as an adjective: 'sheru riola' (slow work). Central to Phi's philosophy—slowness enables mindfulness, rushing prevents presence.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Slow action enables awareness—rushing through life misses the living of it.",
-    "pre-industrial-wisdom": "Traditional crafts moved slowly—quality emerged from patience, not speed."
-  },
+  "search_terms": [
+    "low speed",
+    "slowly"
+  ],
+  "description": "A person taking time over a path can be 'sheru'. The adjective also suits a process that advances by small steps. The word gives a low rate of movement or change. Mindful attention can accompany any speed.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar region for voiceless 'sh' and move into true-mid front 'e'. A tap or short trill begins the second syllable before rounded high-back 'u'. Stress falls on 'she'.",
+  "usage_notes": "The pattern 'sheru wepu' means go slowly. Choice or conditions may set the pace. 'reshi' (fast) gives a high rate, while 'kolu' (steady) tells whether the pace remains even.",
+  "examples": [
+    {
+      "phi": "miona sheru wepu.",
+      "translation": "The person goes slowly."
+    }
+  ],
   "semantic_domains": {
-    "temporal": "Unhurried pace",
-    "wisdom": "Deliberate movement"
+    "physical": "a low rate of bodily or material movement",
+    "temporal": "an action or change that proceeds slowly"
   }
 }
