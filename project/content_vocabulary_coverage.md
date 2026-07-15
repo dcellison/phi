@@ -29,7 +29,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Applied ornament remains a review question rather than a hurried coinage. |
 | Awareness and epistemic qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
 | Ethics, care, and candour | **DONE** | Eleven inherited entries now use the target prose contract, with `thua` (fair) as an already-migrated anchor. Deliberate or callous infliction of suffering remains a lexical review question. |
-| Semantic-domain contract and target-entry audit | **DONE** | The stable browse catalogue now has fifteen domains. All 133 target-contract content entries have been checked against its retrieval rule. |
+| Semantic-domain contract and target-entry audit | **DONE** | [PR #368](https://github.com/dcellison/phi/pull/368) establishes the fifteen-domain browse catalogue and checks all 133 target-contract content entries against its retrieval rule. |
 | Resume inherited content prose migration | **NEXT** | Continue after the ethics, care, and candour batch. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
