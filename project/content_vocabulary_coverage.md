@@ -24,7 +24,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 |---|---|---|
 | Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
 | Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
-| Test concepts without corpus pressure | **NEXT** | Use small practical scenarios for adhesion, traction, material phase, and neutral measurement vocabulary. |
+| Test concepts without corpus pressure | **NEXT** | The adhesion scenario recommends a base adjective and awaits a maintainer decision; traction, material phase, and neutral measurement still need practical tests. |
 | Resume inherited content prose migration | **READY** | Continue after the review queue and apply the coverage gate to every new semantic batch. |
 
 ## Batch overview
@@ -60,7 +60,7 @@ This field asks how an object responds to force, contact, contents, and light. T
 | Substance across a cross-section | `theru` (thick), `lemi` (thin) | **COVERED** | Width and depth remain separate dimensions. |
 | Contents relative to a boundary or capacity | `pheno` (full), `whemoa` (empty) | **COVERED** | Completeness, sufficiency, zero, and absence remain distinct. |
 | Visibility through matter | `nuwi` (clear), illumination words, and ordinary negation | **COMPOSITIONAL** | A separate transparent or opaque pair would duplicate coverage unless practical use exposes a narrower distinction. |
-| Adhesion to another surface | No dedicated content root | **REVIEW** | Sticky food, paste, resin, and repair materials share a physical behaviour that roughness and wetness do not capture. No current corpus passage has yet forced the issue. |
+| Adhesion to another surface | No dedicated content root | **REVIEW** | The [adhesion scenario](../documents/evaluation/content_vocabulary_scenario_tests.md#1-adhesion-at-the-spoon-bench-and-table) shows that food, repair, and cleaning clauses preserve location or result but lose the shared contact property. It recommends a base adjective for maintainer decision. |
 | Low traction or easy sliding | No dedicated content root | **REVIEW** | Slipperiness matters to handling, routes, and bodily safety. A scenario should test whether a clause about smoothness and movement remains natural enough. |
 | General material phase | `muralo` (material), `mirela` (state), and specific substances | **REVIEW** | Phi has water, air, ice, metal, oil, and many other materials but no general solid, liquid, or gas vocabulary. The distinction may belong in base vocabulary or in Ecological and Systems modules if speakers discuss phase itself. |
 | Interior structure | `whemoa` (empty) covers an unfilled bounded place | **DEFERRED** | Hollow, porous, and dense concern structure rather than the six migrated scales. They belong in a later shape or material structure audit. |
@@ -169,7 +169,7 @@ These four questions have no comparable corpus pressure. A short practical scena
 
 | Review item | Evidence | Likely placement if coined | Decision needed |
 |---|---|---|---|
-| Sticky or adhesive | Common food, resin, paste, and repair situations share adhesion, but no active text has needed a root. | Base vocabulary or Household and Work modules | Test preparation, repair, and cleaning scenes before deciding whether one word covers tackiness and deliberate adhesion. |
+| Sticky or adhesive | The [spoon, bench, and table scenario](../documents/evaluation/content_vocabulary_scenario_tests.md#1-adhesion-at-the-spoon-bench-and-table) finds that current clauses preserve location, application, connection, and cleaning outcome but not the shared surface property. | Base vocabulary | Decide whether to accept one adjective for ordinary tackiness and adhesive behaviour; its quality noun would supply stickiness or adhesion. |
 | Slippery or low traction | Route safety and tool handling can require the distinction, but the active corpus has no physical case. | Base vocabulary or shared Accessibility and Work vocabulary | Test a wet floor, path, and tool grip; keep smoothness separate from low traction. |
 | Material phase categories | Specific materials and state vocabulary exist, but solid, liquid, and gas do not. | Base vocabulary or Ecological and Systems modules | Test whether speakers need general categories rather than naming the material and its observed behaviour. |
 | Neutral size, length, and distance nouns | Height, width, and depth have nouns; the other dimensions rely on adjective quality nouns and context. | Base vocabulary | Test measurement, route, and craft sentences for ambiguity before adding parallel roots. |
@@ -192,4 +192,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective mapping and its four direct lexical decisions are complete. Next come scenario tests for adhesion, traction, material phase, and neutral measurement vocabulary. Once those decisions are recorded, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
+The retrospective mapping and its four direct lexical decisions are complete. The first low-pressure scenario recommends a base adjective for adhesion and awaits a maintainer decision. Traction, material phase, and neutral measurement follow; once those decisions are recorded, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
