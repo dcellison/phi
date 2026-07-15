@@ -24,7 +24,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 |---|---|---|
 | Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
 | Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
-| Test concepts without corpus pressure | **NEXT** | Base `shumeko` resolves adhesion, base `selawi` resolves traction, and base `patoku`, `larewu`, and `heshowa` resolve ordinary material phase; neutral measurement still needs a practical test. |
+| Test concepts without corpus pressure | **NEXT** | Base `shumeko` resolves adhesion, base `selawi` resolves traction, and base `patoku`, `larewu`, and `heshowa` resolve ordinary material phase; the neutral-measurement scenario recommends three coordinated base nouns and awaits a ruling. |
 | Resume inherited content prose migration | **READY** | Continue after the review queue and apply the coverage gate to every new semantic batch. |
 
 ## Batch overview
@@ -33,7 +33,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 |---|---|---|---|
 | Core material qualities | [PR #346](https://github.com/dcellison/phi/pull/346) | **COVERED** | `shumeko` covers surface adhesion, `selawi` covers low traction, and the three base phase nouns classify ordinary material states. |
 | Environmental and spatial qualities | [PR #347](https://github.com/dcellison/phi/pull/347) | **COVERED** | No obvious base vocabulary gap remains after the addition of `sukaro` (hot). |
-| Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348) | **REVIEW** | Neutral nouns for overall size, length, and distance may still be useful. |
+| Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348) | **REVIEW** | The practical scenario recommends neutral nouns for overall size, spatial length, and distance. |
 | Pace, motion, and equilibrium | [PR #349](https://github.com/dcellison/phi/pull/349) | **COVERED** | Changes of rate remain ordinary constructions. |
 | Color | [PR #350](https://github.com/dcellison/phi/pull/350) | **SETTLED** | Canon closes the system at seven adjective roots and an open construction built from a source noun and color. |
 | Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
@@ -95,9 +95,9 @@ Phi divides spatial judgement by the dimension a speaker is actually considering
 | Inward or downward extent | `nulo` (deep), `saphei` (shallow), `nusho` (depth) | **COVERED** | The environmental batch completes this spatial axis. |
 | Proximity | `noshi` (near), `wuero` (far), with established near and far prepositions | **COVERED** | Adjectives describe the quality, while grammar introduces an explicit reference object. |
 | Intermediate or equal extent | Context, comparison, degree, and `kolo` (equal) | **COMPOSITIONAL** | A compulsory medium-sized root would add an English label where an unmarked contextual middle often does the work. |
-| Neutral measurement dimensions | `raeli` (height), `lonai` (width), and `nusho` (depth) exist; quality nouns supply longness, largeness, nearness, and farness | **REVIEW** | Phi has no unambiguous neutral nouns for overall size, length, or distance. A measurement scenario should test whether the adjective quality nouns are read naturally as dimensions or only as marked qualities. |
+| Neutral measurement dimensions | `raeli` (height), `lonai` (width), and `nusho` (depth) exist; quality nouns supply longness, largeness, nearness, and farness | **REVIEW** | The [box, cloth, and road scenario](../documents/evaluation/content_vocabulary_scenario_tests.md#4-the-box-the-cloth-and-the-road-between-villages) finds that the quality nouns remain marked by one end of their scales. It recommends base nouns for overall size, spatial length, and distance. |
 
-The adjective system is complete for ordinary comparison. The remaining question is narrower: whether measurement and craft need neutral dimension nouns parallel to height, width, and depth.
+The adjective system is complete for ordinary comparison. The scenario supports three neutral nouns parallel to height, width, and depth without adding units or exact quantities to Phi.
 
 ## Pace, motion, and equilibrium
 
@@ -173,11 +173,13 @@ Three scenario decisions are complete:
 | Slippery or low traction | Base adjective `selawi`; its quality noun supplies slipperiness or low traction | `helu` remains surface regularity, `wirua` remains moisture, `roke` remains actual movement, and `pukea` remains the practical judgement of danger. |
 | Solid, liquid, and gas | Base nouns `patoku`, `larewu`, and `heshowa` | Substance words identify what the material is; `mirela` selects an analytical state; `kaero` names a stage in a process. Finer categories can enter through connected module use or exact source material. |
 
-One question remains without comparable corpus pressure. A short practical scenario comes before any decision to coin.
+One coordinated recommendation awaits a maintainer decision:
 
-| Review item | Evidence | Likely placement if coined | Decision needed |
+| Concept | Recommendation | Boundary kept visible |
 |---|---|---|---|
-| Neutral size, length, and distance nouns | Height, width, and depth have nouns; the other dimensions rely on adjective quality nouns and context. | Base vocabulary | Test measurement, route, and craft sentences for ambiguity before adding parallel roots. |
+| Overall size | One base noun for a thing's scale considered as a whole | `whalo` and `thiku` remain the contextual large and small qualities; exact dimensions stay in their own nouns or source records. |
+| Spatial length | One base noun for end-to-end extent | `laeno` and `teku` remain long and short, while `mosha` continues to name a bounded duration. |
+| Distance | One base noun for separation between referents | `noshi` and `wuero` remain near and far; route length and travel time remain separate facts. |
 
 Hollow, porous, and dense remain deferred to a later shape and material structure field. They are recorded here so that absence is not mistaken for a completed decision.
 
@@ -197,4 +199,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective mapping and its four direct lexical decisions are complete. Base `shumeko` closes adhesion, base `selawi` closes traction, and base `patoku`, `larewu`, and `heshowa` close material phase. Neutral measurement is the last open scenario; once its decision is recorded, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
+The retrospective mapping and its four direct lexical decisions are complete. Base `shumeko` closes adhesion, base `selawi` closes traction, and base `patoku`, `larewu`, and `heshowa` close material phase. The final scenario recommends base nouns for overall size, spatial length, and distance. Once that ruling is recorded and any accepted terms are implemented, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
