@@ -176,3 +176,94 @@ tool slippery be.
 This belongs in base vocabulary. The need appears at home as soon as a wet floor or dish becomes hard to hold, well before specialist route or tool safety. Accessibility and Work can teach those uses, but neither module owns the need to warn someone before their next step.
 
 `selawi` has no character edit-distance-one neighbour, and the phonetic audit finds no existing entry within its review threshold. The canonical entry follows the word through the mouth and shows the adjective both as a predicate and before a noun.
+
+## 3. Ice, a container, and the closed room
+
+Leave a jar of ice on the bench and the change is easy to name: ice becomes water. Elsewhere, a reusable container awaits contents that have not yet arrived, and a detector warns of an unknown fuel in a closed room. Substance names carry the first account. The label and the warning need a category before anyone knows the substance's name.
+
+### The thawing jar
+
+Phi can follow familiar water through two changes:
+
+```
+kerithe phialu kelu.
+ice water become.
+(Ice becomes water.)
+
+phialu therapi.
+water boil.
+(Water boils.)
+```
+
+These sentences work because `kerithe` (ice), `phialu` (water), and `therapi` (boil) identify the substance or event. They do not say that one material has moved between general categories. The second sentence leaves what rises from the boiling water unnamed.
+
+The analytical vocabulary can report a change while leaving the same gap:
+
+```
+ha muralo mirela helui.
+PROX material state change.
+(This material's state changes.)
+```
+
+`mirela` (state) gives a systems account a place for the relevant condition. A place is not a value. The clause could describe a change in temperature, pressure, colour, or damage just as readily as a change of material phase.
+
+### The container label
+
+A container may be safe for water and oil even when the next substance has no familiar name. Phi can list the known contents:
+
+```
+ha molu phialu nela loesi po phelure.
+PROX container water COORD oil POT store.
+(This container can store water and oil.)
+```
+
+The label works until the next liquid is unfamiliar. Then the list needs another substance word, if anyone knows one. `selu` (flow) does not repair the gap: loose sand and smoke can flow, while a liquid at rest remains a liquid.
+
+Solid material brings the same trouble. Stone, wood, and metal provide examples, but none gives the category. Mechanical qualities cross its boundary freely. A sponge can be soft and solid; molten metal can be liquid without becoming soft in the sense defined by `wuloe`.
+
+### The closed room
+
+A detector signals that an unknown fuel is entering a room. The available words can report the intrusion and exclude two familiar substances:
+
+```
+soli muralo muo tholupi koema.
+SOME material INTO room enter.
+(Some material enters the room.)
+
+shia haowu ma nai. shia thumiro ma nai.
+3SG air NEG be. 3SG smoke NEG be.
+(It is not air. It is not smoke.)
+
+shia po thape.
+3SG POT burn.
+(It can burn.)
+```
+
+The account gives the material's arrival and one dangerous property, yet it cannot say that the fuel is a gas. `haowu` names air, one gaseous mixture. `thumiro` names smoke, a mixture rather than a general phase category. A safety warning should not have to identify every possible fuel before it can say how the material occupies the room.
+
+### Neighbour test
+
+| Existing resource | What it preserves | Why it does not close the question |
+|---|---|---|
+| `kerithe` (ice), `phialu` (water), `loesi` (oil), and `haowu` (air) | Familiar substances in familiar conditions | A category must apply across substances and follow one substance when its phase changes. Air is one gaseous mixture, not the class itself. |
+| `muralo` (material) | Physical matter considered in use or transformation | It identifies what is being classified without giving the classification. |
+| `mirela` (state) | Selected conditions in a systems or ecological account | A state still needs a value, and this optional module word does not provide a base paraphrase for that value. |
+| `kaero` (phase) | A period or stage within a process or cycle | Its English gloss has a technical homonym. The Phi word concerns progression through a process, not a physical category of matter. |
+| `selu` (flow), `welura` (spread), and `norelu` (form) | Observable movement or the production of form | Liquids and gases share some behaviour, while grains can flow and a solid can be reshaped. None of these verbs classifies the material. |
+| `kethua` (hard), `wuloe` (soft), `tinako` (rigid), and `luwi` (flexible) | Responses to pressure, bending, or rearrangement | These qualities distinguish materials within a phase rather than defining the phase. |
+| `kelu` (become) and `therapi` (boil) | A general change or one familiar liquid event | They can narrate a transition without naming its starting and resulting categories. |
+| `pheno` (full) and `whemoa` (empty) | Contents relative to a boundary | A container can be full or empty regardless of the phase of its contents. |
+
+### Decision
+
+The three categories belong together. A speaker needs to distinguish material that retains its own shape during ordinary handling, material that takes the shape of its container while keeping roughly the same volume, and material that spreads through the available volume. Substance names and behaviour clauses can describe examples, but they cannot give the category itself.
+
+Phi should add base nouns for solid, liquid, and gas. Nouns fit because these are kinds of material rather than scalar qualities. Phi's ordinary noun-as-descriptor rule will also let each category modify `muralo` (material), so parallel adjective entries would add nothing.
+
+Their definitions belong at the scale of ordinary handling rather than pocket thermodynamics. The familiar three do not exhaust the phases of matter or settle every gel or plasma. Specialist modules and exact source material can carry finer classifications when the distinction itself becomes the subject.
+
+This distinction reaches daily life before it reaches technical study. Medicine may come as a tablet or a liquid dose; a container label and a fuel warning depend on the same categories. Ecological and Systems material can teach conditions, transitions, and further phases, but speakers should not need an optional module to state the ordinary distinction.
+
+No separate base root for material phase is recommended. Within the analytical modules, `muralo mirela` (material state) can introduce the selected condition, while the proposed category noun supplies its value. `kaero` remains the stage of a process rather than acquiring another English sense.
+
+This recommendation awaits a maintainer ruling before forms are generated. If accepted, the three nouns belong in one coinage pass, where their definitions, contrasts, and phonetic neighbourhoods can be judged together.
