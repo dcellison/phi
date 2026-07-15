@@ -7,13 +7,23 @@
     "li"
   ],
   "pos": "quantifier",
-  "concept": "Some / Indefinite Subset or Amount",
-  "description": "The quantifier expressing an indefinite nonempty subset or amount: some people, some days, or some water. 'Soli' has no fixed numerical lower or upper boundary and does not by itself mean few, enough, or a particular proportion. It is appropriate when identifying an unspecified part is more relevant than giving its exact size.",
-  "sound_symbolism": "The word begins with 's', a soft sibilant suggesting elements scattered from a larger set. The round 'o' gathers an unspecified portion, and the liquid 'l' flows into bright 'i' without closing that portion into a fixed count. The image supports an indefinite subset; it does not encode fewness or sufficiency.",
-  "grammatical_notes": "Functions as a quantifier preceding nouns: 'soli miona' (some people), 'soli philo' (some days), and 'soli phialu' (some water). Never combines with plural 'lo' because the quantifier already marks quantity, and does not take a classifier; classifiers belong to numeral phrases and 'wia' questions. Use 'phina' to assert few, 'sheloi' to assert many, and a bare scale to estimate around a numerical center.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Leaving a subset indefinite can support attention to what is relevant without attachment to an unnecessary count. 'Soli' does not imply that precision causes suffering or that the amount is sufficient.",
-    "peace-linguistics-practices": "'Soli' can avoid unsupported precision, but an indefinite subset can also conceal exclusion or unequal distribution. Context determines whether a count or named group is needed.",
-    "pre-industrial-wisdom": "Everyday practical speech uses indefinite amounts alongside exact counts and measures. 'Soli' supplies one such form without assigning a single counting philosophy to traditional life."
-  }
+  "search_terms": [
+    "several",
+    "unspecified amount",
+    "indefinite subset"
+  ],
+  "description": "An unspecified but nonempty subset or amount takes 'soli': some people, some time, some water. The word makes no small-or-large judgement. 'wheli' (ANY) leaves every member eligible instead of asserting that a subset is at issue.",
+  "articulatory_notes": "For 's', hold the tongue blade near the teeth ridge and let air hiss down the centre; round the lips for true-mid 'o'. For 'l', seal the tongue tip briefly at the tooth ridge; keep voicing as air travels along the sides. End on high unrounded 'i'; stress 'so'.",
+  "sound_symbolism": "The hiss of 's' gathers into rounded 'o', then the tongue touches and releases through 'li'. The brief sequence can suggest taking one loose portion from a larger set.",
+  "usage_notes": "A bare noun comes straight after 'soli'. In 'soli shemu', some moments, the same form receives its canonical frequency reading, sometimes.",
+  "examples": [
+    {
+      "phi": "soli miona to shua.",
+      "translation": "Some people came."
+    },
+    {
+      "phi": "mia soli shemu thalo.",
+      "translation": "I sometimes walk."
+    }
+  ]
 }

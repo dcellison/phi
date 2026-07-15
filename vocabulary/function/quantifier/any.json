@@ -7,13 +7,27 @@
     "li"
   ],
   "pos": "quantifier",
-  "concept": "Any / Unrestricted Choice / Open Selection",
-  "description": "The quantifier expressing unrestricted selection from a set—no preference, no exclusion, complete openness to whatever arises. 'Wheli' marks the absence of constraint in choosing, the freedom that comes when any member of a category will serve equally well. Unlike 'soli' which gestures toward a specific (though unnamed) subset, 'wheli' holds all possibilities open, making no selection while accepting any.",
-  "sound_symbolism": "The word begins with 'wh' /ʍ/, the voiceless labial-velar fricative—pure breath shaped without voice, the most open of all Phi's sounds. This unrestricted airflow embodies the quantifier's meaning: nothing is blocked, all paths remain available. The balanced mid vowel 'e' follows, equidistant from all extremes, showing no preference. Finally, the liquid 'l' flows into 'i', together suggesting ease of movement toward whichever option emerges. 'Wheli' sounds like open possibility—breath finding its own way.",
-  "grammatical_notes": "Functions as a quantifier preceding nouns: 'wheli miona' (any person / anyone), 'wheli philo' (any day), 'wheli thena' (anything). Forms a semantic contrast with 'soli' (some = restricted subset): 'soli' narrows selection to a specific few, while 'wheli' opens selection to unrestricted choice. Never combines with the plural particle 'lo'—the quantifier itself implies plurality. In questions, expresses openness to all answers; in statements, indicates that constraints do not apply.",
+  "search_terms": [
+    "anyone",
+    "anything",
+    "whichever",
+    "no preference"
+  ],
+  "description": "With 'wheli', any member of the available set can satisfy the phrase. 'soli' (SOME) asserts an unspecified nonempty subset; 'wheli' makes no prior selection. The predicate still says what the eventual choice may or must do.",
+  "articulatory_notes": "Shape 'wh' with rounded lips and a high tongue dorsum, but leave the vocal folds still while air passes. Unround to 'e'; bring the tongue forward while you open the jaw halfway. Next, the blade touches the gum ridge behind the front teeth; voice escapes laterally before sliding into high-front unrounded 'i'. Accent 'whe'.",
+  "sound_symbolism": "The voiceless rounded opening releases into the light lateral movement of 'li'. That easy passage can suggest a choice left unobstructed.",
+  "usage_notes": "'wheli' comes directly before an unmarked noun because it supplies the phrase's whole quantity strategy. In an offer or permission, it states that the speaker has left the selection open.",
+  "examples": [
+    {
+      "phi": "thia wheli shelu po kanu.",
+      "translation": "You may choose any book."
+    },
+    {
+      "phi": "wheli miona po naphe.",
+      "translation": "Anyone can help."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Non-attachment to outcome finds expression in 'wheli'—the acceptance that any path may serve, any choice may unfold. This quantifier embodies equanimity toward selection, the wisdom that grasping at specific outcomes creates suffering while openness creates freedom.",
-    "peace-linguistics-practices": "By providing language for genuine openness, 'wheli' supports non-coercive communication. Saying 'any will do' releases the hearer from the burden of guessing the speaker's hidden preference, creating transparency about true flexibility.",
-    "pre-industrial-wisdom": "Traditional hospitality often expresses 'whatever you have is welcome'—the guest accepting any offering, the host providing whatever is available. 'Wheli' carries this wisdom that flexibility and gratitude transcend preference."
+    "peace-linguistics-practices": "During an offer, 'wheli' makes genuine flexibility audible. The listener does not have to hunt for an unstated preferred choice."
   }
 }

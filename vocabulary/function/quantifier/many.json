@@ -8,13 +8,22 @@
     "i"
   ],
   "pos": "quantifier",
-  "concept": "Many / Much / Abundant Quantity",
-  "description": "The quantifier expressing a contextually large but indefinite quantity. 'Sheloi' does not propose a scale estimate, fixed numerical threshold, proportion of a whole, or judgment that the amount is sufficient or desirable. It can be used when an exact count is unknown, irrelevant, withheld, or stated separately.",
-  "sound_symbolism": "The word begins with 'she', where the soft fricative 'sh' spreads like seeds scattering from a pod—numerous individual sounds merging into continuous presence. The mid vowel 'e' opens into 'lo', where the liquid 'l' flows and the round 'o' suggests abundance contained. Finally, 'i' rises bright and high, like many voices joining. Together, 'sheloi' creates the sound of multiplicity becoming magnitude.",
-  "grammatical_notes": "Functions as a quantifier preceding nouns: 'sheloi miona' (many people), 'sheloi philo' (many days). Unlike a bare scale unit, it gives no approximate numerical center. Can modify mass nouns for 'much': 'sheloi phialu' (much water). Never combines with plural 'lo' because the quantifier already marks quantity, and does not take a classifier; classifiers belong to numeral phrases and 'wia' questions.",
-  "pillars": {
-    "secular-buddhist-philosophy": "'Sheloi' permits a speaker to leave a large quantity indefinite when exactness does not serve the discussion. That choice may support non-grasping reflection, but the word does not make enumeration anxious or abundance sufficient.",
-    "peace-linguistics-practices": "An indefinite large-quantity word can avoid an unsupported exact claim. It can also conceal a difference that matters, so speakers must still consider whether precision supports accountability or care.",
-    "pre-industrial-wisdom": "Practical speech in many settings uses broad quantities alongside exact tallies, containers, and measures. 'Sheloi' supplies the broad option without claiming that large quantities are best left uncounted."
-  }
+  "search_terms": [
+    "much",
+    "large quantity",
+    "numerous"
+  ],
+  "description": "A count or amount described by 'sheloi' is contextually large without being numbered. Unlike a bare scale unit, the quantifier suggests no approximate centre. 'shelami' (MOST) compares a portion with its whole, while 'sheloi' only says many or much.",
+  "articulatory_notes": "Lift the blade of the tongue toward the postalveolar area and drive unvoiced air through a central groove for 'sh'; keep the following 'e' unrounded and halfway open near the front. The next syllable sets the apex just behind the incisors for 'l', releases voice around the sides, and gives both lips a rounded shape around mid-back 'o'. Move without a glide into a separate high 'i'. The accent is on 'lo'.",
+  "usage_notes": "Count nouns and mass nouns both follow 'sheloi' directly. The phrase 'sheloi shemu', many moments, is Phi's usual way to say often.",
+  "examples": [
+    {
+      "phi": "sheloi melu to naphe.",
+      "translation": "Many friends helped."
+    },
+    {
+      "phi": "mia sheloi shemu thalo.",
+      "translation": "I often walk."
+    }
+  ]
 }

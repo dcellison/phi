@@ -8,14 +8,27 @@
     "i"
   ],
   "pos": "quantifier",
-  "concept": "Enough / Sufficient / Adequate Quantity",
-  "description": "The quantifier of contextual sufficiency: a quantity judged adequate for a stated or recoverable person, purpose, duration, and condition. 'Henoi' does not identify a numerical threshold, claim that no excess exists, prove that needs were assessed correctly, or establish agreement among affected people.",
-  "sound_symbolism": "The word begins with 'h', open breath that can suggest an exhale after a requirement is met. This settles into 'no', where the grounding nasal 'n' meets rounded 'o', and final 'i' focuses attention on the relevant threshold. The acoustic image is a mnemonic for a sufficiency judgment; it does not determine the threshold or guarantee satisfaction.",
-  "grammatical_notes": "Precedes nouns: 'henoi phialu' (enough water), 'henoi philo' (enough days). Sufficiency requires a standard or purpose—enough for whom or what, for how long, and under which conditions? Context or an explicit purpose supplies it: 'henoi phialu lila thepalu' (enough water for the garden). Can also function predicatively with the copula: 'phialu henoi nai' (the water is enough). Never combines with plural 'lo'. Distinguished from 'sheloi' (many), which asserts contextual largeness without reference to a requirement. An exact amount may be below, at, or above the minimum and still be described as 'henoi'.",
+  "search_terms": [
+    "sufficient",
+    "sufficiency",
+    "adequate quantity"
+  ],
+  "description": "A quantity is 'henoi' when it meets a relevant need. This is a judgement of sufficiency, not a claim that the amount is large: 'sheloi' (MANY) can be insufficient, and a small amount can be enough. The purpose or situation supplies the standard.",
+  "articulatory_notes": "'h' starts as open unvoiced breath and settles on unrounded front 'e'. For 'no', place your tongue tip at the upper front teeth, add nasal voice, and round the mouth for 'o'. Break cleanly before final high 'i'; stress the middle syllable.",
+  "sound_symbolism": "An easy exhale begins the word, and contact at 'n' gives its middle a firm moment before the final vowel lifts away. The settling and lift offer a bodily image of reaching a threshold and stopping.",
+  "usage_notes": "Before a noun, 'henoi' quantifies it directly, as in 'henoi phialu'. It can also predicate with 'nai' in 'phialu henoi nai'. When the quantity is understood, 'henoi.' makes a complete response on its own.",
+  "examples": [
+    {
+      "phi": "henoi sulopa nai.",
+      "translation": "There is enough soup."
+    },
+    {
+      "phi": "phialu henoi nai.",
+      "translation": "The water is enough."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainable futures require economies of enough rather than endless growth. 'Henoi' serves this vision by making sufficiency linguistically available as a positive state, not mere settling. Regenerative design asks 'is this enough?' before asking 'can we have more?'",
-    "secular-buddhist-philosophy": "'Henoi' makes a sufficiency judgment distinct from maximization and can support reflection on the Middle Way. It does not guarantee contentment, non-attachment, or freedom from excess.",
-    "peace-linguistics-practices": "Naming adequacy can support resource discussion, but participants may disagree about needs, standards, burdens, reserves, and risk. 'Henoi' states a judgment rather than resolving that disagreement.",
-    "pre-industrial-wisdom": "Harvest, rest, stored food, and celebration all require contextual judgments of sufficiency. 'Henoi' makes that judgment available without claiming that one threshold fits every community or condition."
+    "solarpunk-values": "'henoi' gives sufficiency its own positive word, so a design discussion can ask whether water or stored food meets a need without treating growth as the only success.",
+    "secular-buddhist-philosophy": "In meditation, 'henoi' can name this breath or this session enough. The judgement stays with the present practice rather than with maximization."
   }
 }
