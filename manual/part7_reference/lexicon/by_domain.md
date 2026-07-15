@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (169)
+## activity (170)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -73,6 +73,7 @@
 | `nukesa` | expert | deeply practiced capacity within a stated domain |
 | `nuola` | eat | fundamental human activity of eating |
 | `nurome` | meal | an occasion of eating |
+| `palo` | touch | the act of making contact with a person or thing |
 | `palowe` | shoe | The walker's equipment |
 | `panuri` | resource | something considered available for a stated purpose or process |
 | `peki` | squeeze | Compression in the hand |
@@ -182,13 +183,14 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (79)
+## aesthetic (82)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | the beauty of new growth |
 | `hewasu` | audible | sound distinguishable within an acoustic setting |
 | `horae` | radiant | Light-emanating |
+| `kaelo` | sweet | sweetness appreciated in flavour, scent, or an established sensory comparison |
 | `keru` | bright | a strongly lit scene or a hue seen at high visual intensity |
 | `kire` | shape | Discovering and creating beauty in form |
 | `kirero` | quality | a possible dimension of quality when explicitly named |
@@ -206,6 +208,7 @@
 | `loriphi` | rainbow | Natural light spectrum |
 | `lowi` | vine | Curving organic line |
 | `luwae` | graceful | Beautiful movement |
+| `maeli` | quiet | quiet or silence used as part of an audible composition |
 | `malomi` | balance | finds beauty in dynamic equilibrium and organic harmony |
 | `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
@@ -220,7 +223,6 @@
 | `pelori` | bird | Beauty in flight and song |
 | `peloru` | flower | embodiment of natural beauty |
 | `pelowa` | meadow | Pastoral beauty |
-| `phaelo` | feel | sensory appreciation of texture, beauty, and harmony |
 | `phaewi` | studio | Art place |
 | `phanu` | canvas | Creative potential |
 | `phelora` | beautiful | embodies harmonious integration evoking deep appreciation |
@@ -231,6 +233,7 @@
 | `phui` | flute | Breath music |
 | `phuliro` | stream | Gentle flowing water |
 | `phuri` | brush | Flowing marks |
+| `puko` | bitter | bitterness encountered and sometimes sought in food, drink, or medicine |
 | `roena` | copper | Aging beauty |
 | `rulo` | red | ordinary reds, whether bright or dark |
 | `sena` | pattern | Repeated design |
@@ -241,7 +244,7 @@
 | `shiloa` | pure | purity as a quality of form and essence |
 | `shilu` | blue | blue on surfaces and in visible light |
 | `shioli` | silver | Lunar beauty |
-| `shonuwa` | sound | The medium of music and speech |
+| `shonuwa` | sound | the audible material of music and other sound art |
 | `shumu` | moss | Soft ancient growth |
 | `shuna` | edge | Defining line |
 | `sihewa` | breeze | Soft atmospheric touch |
@@ -257,6 +260,7 @@
 | `thiro` | serene | Luminous calm |
 | `thurai` | vibrant | Intense vitality |
 | `tinoa` | dye | Color transformation |
+| `tuko` | sour | an acidic taste encountered in food and drink |
 | `welisha` | color | the visual category used to name and compare colors |
 | `weloa` | loom | Pattern maker |
 | `weru` | poet | Word craft |
@@ -266,14 +270,14 @@
 | `whoa` | whole | harmony and completeness |
 | `wira` | window | View portal |
 
-## cognition (245)
+## cognition (246)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `halemu` | remember | Retrieval of past experience |
 | `haolu` | speak | transforming thoughts into words |
 | `haoni` | voice | expression of thoughts and inner states |
-| `hea` | hear | processes auditory information through mental reception |
+| `hea` | hear | sound arriving in perception |
 | `hekawi` | find | The moment of discovery |
 | `henora` | capacity | a specified limit whose interpretation depends on object, conditions, and time |
 | `herani` | trend | a pattern inferred from an ordered series of observations |
@@ -334,7 +338,7 @@
 | `mirewu` | private | chosen limits on access to attention or information |
 | `mokanu` | disease | a health classification under stated criteria and source |
 | `monae` | integral | Essential connection |
-| `morae` | sense | Fundamental perceptual capacity |
+| `morae` | sense | perception noticed before it becomes a conclusion or claim of knowledge |
 | `moreko` | articulate | Translating inner experience to speech |
 | `mothami` | baseline | a selected reference condition used for comparison |
 | `mothare` | premise | a proposition serving as a starting point in inference |
@@ -345,7 +349,7 @@
 | `nasholu` | rule | a stated normative prescription with conditions and scope |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
 | `nathoku` | contraindicated | a source-bounded judgment against a proposed intervention |
-| `nila` | see | perception as gateway to understanding |
+| `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
 | `noetha` | essential | Core recognition |
 | `nohero` | believe | Holding something as true |
@@ -369,7 +373,7 @@
 | `pelaku` | severity | a criterion-relative judgment of degree |
 | `peloma` | harmful | assessment of negative effect |
 | `pemaru` | hazard | a potential-harm classification kept distinct from likelihood and outcome |
-| `phaelo` | feel | embodied knowing through sensory-emotional experience |
+| `phaelo` | feel | conscious awareness of an internal experience |
 | `phamori` | symptom | a noticed and reported health-relevant experience |
 | `phanoi` | portion | Names arithmetic division through a portioning metaphor |
 | `phelira` | mistaken | recognition of error state |
@@ -428,7 +432,7 @@
 | `shelo` | signify | Semantic pointing |
 | `shelomu` | understand | Grasping meaning and significance |
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
-| `sheluo` | listen | requires mental processing and active understanding |
+| `sheluo` | listen | attention deliberately directed towards sound |
 | `sheori` | communicate | connects minds across the illusion of separation |
 | `sherewa` | claim | a proposition deliberately put forward for assessment |
 | `shewo` | true | Truthfulness |
@@ -482,6 +486,7 @@
 | `thirulo` | output | information or effect classified relative to an analytical boundary |
 | `thonua` | scholar | Deep study |
 | `thonuki` | fail | a classification that requires a stated function and conditions |
+| `thorima` | taste | flavour becoming a conscious perception |
 | `thueli` | intend | Directed will |
 | `thunai` | student | Receptive mind |
 | `thunaro` | train | structured learning through instruction and feedback |
@@ -507,7 +512,7 @@
 | `whemaki` | allergy | a clinically bounded hypersensitivity claim |
 | `whemura` | dream | Mental imagery during sleep or imagination |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
-| `whinu` | smell | Direct pathway to memory and emotion |
+| `whinu` | smell | an odour becoming perceptible and recognisable |
 | `whoa` | whole | holistic thinking and systems understanding |
 | `wi` | two | the exact quantity of two and the largest spoken coefficient in ternary numeral composition |
 | `wiero` | imaginative | Creative vision |
@@ -974,14 +979,14 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (111)
+## dialogue (110)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haluma` | language | The shared whole of speech |
 | `haolu` | speak | speaking is fundamental to communication |
 | `haoni` | voice | fundamental medium for spoken communication |
-| `hea` | hear | provides foundational reception for verbal exchange |
+| `hea` | hear | spoken language becoming available to a hearer |
 | `hewasu` | audible | speech available to a stated listener |
 | `howela` | receive | receiving is fundamental to exchange and reciprocity |
 | `kapura` | shout | forceful or urgent vocalization |
@@ -1019,7 +1024,6 @@
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | Structured discussion toward agreement |
-| `palo` | touch | Non-verbal communication through contact |
 | `pawela` | participate | engaging in collective processes and exchange |
 | `peshu` | lie | False speech; the breaking of communicative trust |
 | `phae` | open | fundamental to genuine communication and exchange |
@@ -1049,7 +1053,7 @@
 | `shelo` | signify | Meaningful indication |
 | `shelomu` | understand | Foundation for genuine communication |
 | `shelu` | book | asynchronous communication between writer and reader across time |
-| `sheluo` | listen | fundamental to communication and meaningful exchange |
+| `sheluo` | listen | attentive reception of another person's speech |
 | `shemui` | utter | fundamental act of verbal communication |
 | `sheori` | communicate | creates bridges of understanding through exchange |
 | `sherelo` | right (normative) | a claim whose source and fulfillment can be examined |
@@ -1063,7 +1067,7 @@
 | `tewema` | partner | requires ongoing communication and mutual exchange |
 | `thaemu` | sincere | Genuine expression |
 | `thasu` | modest | Not boastful |
-| `theisa` | loud | Strong sound |
+| `theisa` | loud | high perceived intensity in a voice or spoken utterance |
 | `thekao` | acknowledge | validates and recognizes others through communication |
 | `thekasi` | caption | speech and meaningful sound presented in a readable form |
 | `thelima` | describe | paints pictures with words for shared understanding |
@@ -1090,7 +1094,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## emotion (110)
+## emotion (108)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1103,7 +1107,6 @@
 | `horae` | radiant | Glowing quality |
 | `hurao` | patient | Accepting delay |
 | `kaeli` | like | the feeling of preference and affinity |
-| `kaelo` | sweet | Enjoyable quality |
 | `kaeshu` | bold | Confident daring |
 | `kapura` | shout | intensity breaking into voice |
 | `kasuno` | selfish | Self-centered |
@@ -1148,14 +1151,13 @@
 | `numea` | nestle | Trust performed in the muscles |
 | `nupira` | shame | The inward fold of being seen |
 | `phaeli` | tender | Gentle feeling |
-| `phaelo` | feel | the subjective experience of emotional states |
+| `phaelo` | feel | an emotional state as it is experienced |
 | `phaelu` | peaceful | State of harmony |
 | `phamo` | console | Accompanying grief |
 | `phelora` | beautiful | catches breath with recognition and resonant joy |
 | `phena` | kind | expresses care and compassion through feeling and action |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
 | `phimela` | kiss | Affection made touch |
-| `puko` | bitter | Unpleasant quality |
 | `pula` | wish | Holding hope for outcomes |
 | `puro` | strength | Inner fortitude |
 | `ralu` | free | Liberation |
@@ -1205,12 +1207,11 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (234)
+## nature (232)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haowu` | air | elemental connector of all breath |
-| `hea` | hear | connects to environmental awareness through natural soundscapes |
 | `hemilo` | honey | The bees' concentrated summer |
 | `heru` | herb | Useful plant |
 | `hesura` | ash | The fire's gray remainder |
@@ -1416,7 +1417,6 @@
 | `tokemi` | fungus | Decomposers and network beings |
 | `tomora` | mountain | Major land elevation |
 | `torua` | year | Seasonal completion |
-| `tuko` | sour | Fermentation quality |
 | `tulira` | tail | The creature's trailing end |
 | `tumeki` | root | Underground plant structure |
 | `tupiwa` | rabbit | The meadow's jumper |
@@ -1449,7 +1449,7 @@
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haowu` | air | the medium we breathe |
-| `hea` | hear | involves the bodily sense and physiological perception of sound |
+| `hea` | hear | auditory reception through the body |
 | `helanu` | recover | movement toward a prior or desired health state |
 | `helia` | youth | bodily growth and vitality |
 | `helu` | smooth | an even surface or passage with little catching against touch or motion |
@@ -1468,7 +1468,7 @@
 | `hola` | laugh | Vocal release of joy |
 | `horuma` | thunder | Sound felt in the chest |
 | `huwa` | weak | limited capacity to exert or withstand force in the relevant situation |
-| `kaelo` | sweet | Pleasant taste |
+| `kaelo` | sweet | the taste associated with sugar, honey, and ripe fruit |
 | `kalei` | climb | Grip and pull upward |
 | `kalora` | horse | The road's living engine |
 | `katemu` | offcut | a separated piece with its own dimensions and condition |
@@ -1491,7 +1491,7 @@
 | `kishu` | thirsty | The dry throat's need |
 | `kiwate` | bite | Teeth closing on |
 | `koewi` | input | matter or energy crossing into a selected system |
-| `kohura` | noise | Sound carrying no shape |
+| `kohura` | noise | sound heard as irregular, indistinct, or interfering in context |
 | `kolu` | steady | motion or pressure that varies little while continuing |
 | `kolua` | carry | bearing a body or object while moving |
 | `koluma` | unite | Joining separate elements |
@@ -1534,7 +1534,7 @@
 | `luroi` | nervous | Uneasy energy |
 | `luwae` | graceful | Elegant form |
 | `luwi` | flexible | bending or changing shape without damage |
-| `maeli` | quiet | Low sound |
+| `maeli` | quiet | little or no sound in a source, event, or place |
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
 | `manuwe` | hand | the body member of grasping and making |
 | `masue` | measure | Supports embodied and instrument-based measurement |
@@ -1557,7 +1557,7 @@
 | `monaki` | component | a part that may be material, though the term also permits informational and procedural components |
 | `mophi` | wool | a crimped insulating fiber that can be spun |
 | `mophira` | sheep | a woolly fleece on a living animal |
-| `morae` | sense | Body receiving information from world |
+| `morae` | sense | information received through one or more bodily senses |
 | `morashi` | relapse | return or worsening of a health condition after improvement |
 | `morilu` | wave | Water briefly standing up |
 | `morisa` | salt | The sharp taste that preserves |
@@ -1585,7 +1585,7 @@
 | `nephoru` | treat | an action directed toward bodily or health change |
 | `neri` | cool | temperature below warm but milder than cold |
 | `newai` | fresh | Not depleted |
-| `nila` | see | sensory perception through eyes |
+| `nila` | see | perception through sight |
 | `nira` | cord | Flexible connection |
 | `nolue` | neck | Connecting passage between head and body |
 | `noluha` | swallow | The throat's downward act |
@@ -1604,7 +1604,7 @@
 | `nuwera` | bed | The household place of sleep |
 | `nuwi` | clear | Without obstruction |
 | `palethu` | tactile | touch as the relevant sensory channel |
-| `palo` | touch | Tactile contact and sensation |
+| `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the body member contacting earth |
 | `palowe` | shoe | Between foot and road |
 | `panoru` | support | Holding up, bearing weight |
@@ -1622,7 +1622,7 @@
 | `pesenu` | pollute | movement or presence of matter, organisms, or energy with harmful effects |
 | `peshiro` | infection | a biological process in or on a body |
 | `phaeli` | tender | Soft quality |
-| `phaelo` | feel | bodily sensations and somatic awareness |
+| `phaelo` | feel | bodily sensation such as warmth or pain |
 | `phamori` | symptom | a health-relevant experience located in or through the body |
 | `phareme` | ingredient | an edible substance before or during preparation |
 | `pharoe` | chest | Upper torso containing heart and lungs |
@@ -1658,7 +1658,7 @@
 | `pukate` | break | Wholeness coming apart |
 | `pukea` | danger | The nearness of possible harm |
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
-| `puko` | bitter | Sharp taste |
+| `puko` | bitter | a bitter gustatory quality distinct from acidity |
 | `puro` | strength | Power capacity |
 | `puse` | spit | The mouth's expulsion |
 | `pushali` | overload | bodily burden produced by excessive input or demand |
@@ -1692,7 +1692,7 @@
 | `sheru` | slow | a low rate of bodily or material movement |
 | `sholu` | complete | All parts present |
 | `shonui` | ear | Organ of hearing |
-| `shonuwa` | sound | The heard category |
+| `shonuwa` | sound | an acoustic event or the medium available to hearing |
 | `shorenu` | immune | partial or conditional bodily protection |
 | `shoru` | dull | an edge or point that no longer cuts or pierces readily |
 | `shorui` | weary | Depleted energy |
@@ -1720,7 +1720,7 @@
 | `thape` | burn | Heat and light released |
 | `theala` | heal | involves bodily restoration and tangible recovery processes |
 | `theama` | care | maintains health and protects bodily welfare |
-| `theisa` | loud | High volume |
+| `theisa` | loud | high perceived intensity in a sound or its source |
 | `thekamu` | intervene | an action on a body, health state, or bodily environment |
 | `thelai` | balm | External comfort |
 | `thena` | thing | objects and matters in general |
@@ -1736,7 +1736,7 @@
 | `thirulo` | output | matter or energy crossing out of a selected system |
 | `thola` | bring | bodily effort of carrying objects while moving |
 | `tholau` | bone | Hard internal framework of the body |
-| `thorima` | taste | Gustatory perception |
+| `thorima` | taste | gustatory perception through the mouth |
 | `thumai` | finger | Fine digits for manipulation and touch |
 | `thumiro` | smoke | Gray drift that reports |
 | `thuroi` | resilient | return toward workable form or function after stress |
@@ -1749,7 +1749,7 @@
 | `tolae` | leg | Lower limbs for support and locomotion |
 | `towe` | well | Good state |
 | `tukelu` | recycle | a material process with inputs, outputs, losses, and changed properties |
-| `tuko` | sour | Acidic taste |
+| `tuko` | sour | gustatory acidity such as citrus or vinegar |
 | `tulira` | tail | Anatomy past the body |
 | `tumoa` | heavy | weight that requires substantial force to move or support |
 | `tupeka` | burden | a weight supported by a living body |
@@ -1782,7 +1782,7 @@
 | `whesu` | blow | Moving air with breath or weather |
 | `whila` | hair | Fine body covering that grows and flows |
 | `whilaru` | comb | Teeth that untangle |
-| `whinu` | smell | Olfactory perception |
+| `whinu` | smell | olfactory perception through the nose |
 | `whoa` | whole | bodily and tangible completeness |
 | `whunei` | breathe | Air cycle sustaining life |
 | `wilemo` | toy | The crafted companion |
@@ -1897,7 +1897,7 @@
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
 | `muwi` | interior | Inner space |
 | `natu` | pull | Motion gathered homeward |
-| `nila` | see | visual awareness of space, distance, and form |
+| `nila` | see | visual location and relation among things in view |
 | `niro` | web | Networked structure |
 | `nitho` | north | Cardinal direction of the turning axis |
 | `noa` | position | Represents position within physical or conceptual arrangements |
@@ -2175,7 +2175,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (192)
+## wisdom (188)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2217,7 +2217,6 @@
 | `lumishe` | mentor | core function of sharing insight and understanding |
 | `lumoi` | lantern | Guiding illumination |
 | `luwi` | flexible | plans or responses able to adjust without losing purpose |
-| `maeli` | quiet | Enabling stillness |
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
 | `manolu` | stay | patient presence bringing understanding |
@@ -2234,7 +2233,6 @@
 | `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
 | `nemo` | grateful | Appreciating gifts |
-| `nila` | see | clear seeing as foundation of knowledge |
 | `nilua` | shy | Sensitive reserve |
 | `noa` | position | Understanding position as relational rather than hierarchical |
 | `noalu` | tranquil | Undisturbed state |
@@ -2294,7 +2292,6 @@
 | `shaelo` | brave | Facing difficulty |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `shea` | peace | requires understanding and active cultivation |
-| `sheluo` | listen | involves mindful awareness and receptive presence |
 | `shemu` | moment | Present experience |
 | `shewo` | true | Reality correspondence |
 | `shiloa` | pure | requires understanding of essential nature |
@@ -2344,7 +2341,6 @@
 | `tholua` | ancient | Time-tested quality |
 | `thomari` | courage | faces reality with mindful awareness and integrity |
 | `thonai` | responsible | Duty bearing |
-| `thorima` | taste | Body knowledge guiding nourishment |
 | `thoru` | proud | Appropriate self-respect |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |

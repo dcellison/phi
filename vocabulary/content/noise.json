@@ -8,14 +8,21 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Noise / Sound Without Pattern",
-  "description": "Noise: sound without pattern or address — the clatter, the din, the hum that means nothing. Phi names it structurally, not morally: noise is not 'bad sound', it is sound that carries no shape. Contrast 'meliphe' (music), which is nothing but shape.",
-  "sound_symbolism": "Hard 'ko' knocks, 'hu' rumbles, 'ra' scatters. Three syllables that decline to make a melody.",
-  "grammatical_notes": "Noun: 'mia kohura hea.' (I hear noise.) Related: 'shonuwa' (sound) is the neutral category; 'meliphe' (music) its patterned opposite.",
-  "pillars": {
-    "peace-linguistics-practices": "Keeping noise structural rather than evaluative matters: one person's noise is another's living sounds, and the word refuses to pick that fight."
-  },
+  "search_terms": [
+    "din",
+    "racket"
+  ],
+  "description": "A toy may make 'kohura' gladly, and a room may fall quiet after it. The noun covers sound or a mixture heard as irregular, indistinct, or interfering in the setting at hand. 'shonuwa' (sound) is neutral; 'kohura' records how that sound sits against attention or a recognisable signal.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into rounded true-mid back 'o'. Let unvoiced air pass freely through the open glottis for 'h', followed by stressed high-back rounded 'u'. Begin the last syllable with a tap or short trill and open into central 'a'.",
+  "sound_symbolism": "The opening stop, the bare breath of 'h', and the late tap interrupt the vowel run. Its uneven contour can recall a sound whose parts do not settle into one clear signal.",
+  "usage_notes": "Whether a sound counts as 'kohura' depends on the listening situation. Technical use identifies the relevant signal or system rather than treating every unwanted sound as the same physical kind.",
+  "examples": [
+    {
+      "phi": "mua nuroa kohura nai.",
+      "translation": "There is noise in the kitchen."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Sound carrying no shape"
+    "physical": "sound heard as irregular, indistinct, or interfering in context"
   }
 }

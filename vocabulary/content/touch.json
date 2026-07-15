@@ -7,16 +7,21 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Touch / Make Contact / Tactile Sense",
-  "description": "To make physical contact with something. 'Palo' names the most intimate of senses, requiring proximity and usually intention; it covers the action of touching and the sensation of being touched. Touch confirms reality, offers comfort, and communicates what words cannot.",
-  "sound_symbolism": "The word is brief and direct, like touch itself—immediate contact. 'Pa' begins with the bilabial stop, lips meeting as surfaces meet in touch. The 'a' opens at the moment of contact. Then 'lo' flows gently, the sustained sensation after first contact, pressure becoming information.",
-  "grammatical_notes": "'mia thena palo' (I touch a thing). The event noun appears by rule; in a copular sentence: 'palo welao nai.' (touch is good). Can specify instrument with 'roe': 'mia roe manuwe thena palo' (I touch a thing with the hand).",
-  "pillars": {
-    "peace-linguistics-practices": "Touch communicates care, comfort, and connection beyond words. Consensual touch builds trust and community.",
-    "pre-industrial-wisdom": "Hands learn through touch—the craftsperson knows materials by feel, the healer reads the body through contact."
-  },
+  "search_terms": [
+    "contact"
+  ],
+  "description": "A hand meeting stone and a foot meeting the floor are both instances of 'palo' (touch). The verb names physical contact, whether brief or sustained; texture and temperature are facts learned through that contact. 'phaelo' (feel) reports the resulting sensation, while 'palethu' (tactile) describes information made available through touch.",
+  "articulatory_notes": "Close the lips fully for voiceless 'p' and release into open central 'a'. Place the tongue tip at the alveolar ridge for lateral 'l', pass the voiced air around its sides, and finish with rounded true-mid back 'o'. Stress falls on 'pa'.",
+  "sound_symbolism": "The lips meet for the opening 'p' and part at once. That single closure is a direct tactile mnemonic for contact.",
+  "usage_notes": "The contacted thing stands before the verb. An instrument phrase with 'roe' can name the hand, tool, or other point of contact. Used as a noun, 'palo' is a touch or an instance of contact.",
+  "examples": [
+    {
+      "phi": "mia roe manuwe kerou palo.",
+      "translation": "I touch the stone with my hand."
+    }
+  ],
   "semantic_domains": {
-    "dialogue": "Non-verbal communication through contact",
-    "physical": "Tactile contact and sensation"
+    "activity": "the act of making contact with a person or thing",
+    "physical": "bodily or material contact at a surface"
   }
 }

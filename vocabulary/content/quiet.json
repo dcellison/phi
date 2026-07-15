@@ -8,16 +8,23 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Quiet / Making Little Sound / Peaceful Stillness",
-  "description": "Making little or no noise; characterized by calm and silence. 'Maeli' names the quality of soft presence—the stillness that allows listening, the calm that enables peace.",
-  "sound_symbolism": "The word settles into stillness. 'Ma' grounds with gentle presence, noise fading. The vowel 'e' opens to silence, space clearing. Then 'li' rests lightly, quiet complete.",
-  "grammatical_notes": "Functions as an adjective: 'maeli lokue' (quiet place). Related to 'thiro' (serene) but emphasizes absence of sound rather than inner peace.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Quiet enables listening—to others, to self, to what arises in stillness.",
-    "peace-linguistics-practices": "Quiet presence supports others' expression—not filling space allows others to speak."
-  },
+  "search_terms": [
+    "low volume",
+    "silence",
+    "silent"
+  ],
+  "description": "A kitchen after the work is done may be 'maeli': little or no sound is present at that time. Its people can still be alert and active. 'shena' (calm) concerns agitation, while 'moesha' (still) concerns movement; neither follows from quietness.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and open into central 'a'. Give true-mid front 'e' its own stressed hiatus syllable. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-front 'i'.",
+  "sound_symbolism": "The two hiatus boundaries leave three clean, lightly voiced beats, and final 'li' releases without a stop. The unbroken contour is a quiet mnemonic.",
+  "usage_notes": "The adjective can modify a source, sound, place, or action. Its quality noun supplies quiet or silence, including the established time phrase 'sui maeli' (during the quiet).",
+  "examples": [
+    {
+      "phi": "nuroa maeli nai.",
+      "translation": "The kitchen is quiet."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Low sound",
-    "wisdom": "Enabling stillness"
+    "aesthetic": "quiet or silence used as part of an audible composition",
+    "physical": "little or no sound in a source, event, or place"
   }
 }

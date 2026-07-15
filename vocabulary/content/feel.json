@@ -8,18 +8,29 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Feel / Sensory-Emotional Experience",
-  "description": "The fundamental human capacity to experience both physical sensations and emotional states through embodied awareness. Feeling encompasses the full spectrum of somatic experience - from the touch of wind on skin to the warmth of joy in the chest, from the taste of honey to the ache of longing. In Phi's framework, feeling is understood as a unified field of experience where body and emotion are not separate but interwoven aspects of consciousness. This holistic understanding recognizes that we \"feel\" sadness as much as we feel texture, that emotions manifest somatically and physical sensations carry emotional resonance. The word bridges what many languages artificially divide, acknowledging that all feeling - whether labeled physical or emotional - arises through the same fundamental capacity for sentient experience and aware presence with what is.",
-  "sound_symbolism": "The word begins with 'pha', where the gentle fricative /φ/ creates the softest possible onset - like a breath of awareness touching consciousness, neither forceful nor intrusive but present and real. This bilabial fricative, made with just the lips, embodies the delicate interface between inner experience and outer world. The vowel sequence 'a.e' creates a journey from openness to focused attention - the broad 'a' welcoming all sensation, then moving through hiatus to 'e', which brings alert presence to what is felt. The final syllable 'lo' combines the liquid 'l' - flowing, connecting, continuous - with the rounded 'o' that contains and holds experience.",
-  "grammatical_notes": "Emotional states: 'mia siora phaelo.' (I feel joy.) 'mia nuhe phaelo.' (I feel sadness.) General awareness: 'mia phaelo.' (I feel, I am aware.) The event-noun rule covers the felt experience as noun: 'mia phaelo' (my feeling), 'welao phaelo' (good feeling), 'lo phaelo' (feelings): the sensation or emotion as an object of awareness.",
+  "search_terms": [
+    "experience",
+    "sensation"
+  ],
+  "description": "'phaelo' reports a bodily sensation or emotional state as someone experiences it. Pain and warmth can be felt, as can joy or unease. A 'mena ... meno' clause holds an impression as felt rather than asserted as fact. 'morae' (sense) instead reports what perception detects.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air between them for 'ph', then open into central 'a'. Give the following true-mid front 'e' its own stressed hiatus syllable. Touch the tongue tip to the alveolar ridge for 'l' and finish with rounded true-mid back 'o'.",
+  "usage_notes": "A bodily sensation or emotion can stand directly before the verb. The complement frame 'mena ... meno phaelo' presents a complete proposition as an impression felt by the experiencer. In noun position, 'phaelo' is a feeling or felt experience.",
+  "examples": [
+    {
+      "phi": "mia sulae phaelo.",
+      "translation": "I feel warmth."
+    },
+    {
+      "phi": "mia siora phaelo.",
+      "translation": "I feel joy."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Vedanā (feeling-tone) is one of the Five Aggregates and a key focus of mindfulness practice. Buddhist teaching emphasizes awareness of feelings as they arise in body and mind, observing their impermanent nature without attachment. This awareness of feeling is essential for understanding the roots of suffering and liberation.",
-    "art-nouveau-aesthetics": "Art Nouveau celebrated sensory experience and emotional response to beauty. The movement emphasized texture, touch, and the synaesthetic experience where visual forms evoke tactile and emotional feelings, creating art meant to be felt as much as seen."
+    "secular-buddhist-philosophy": "Naming a sensation or emotion as something felt lets a speaker attend to it without turning it into a claim about the world."
   },
   "semantic_domains": {
-    "aesthetic": "sensory appreciation of texture, beauty, and harmony",
-    "cognition": "embodied knowing through sensory-emotional experience",
-    "emotion": "the subjective experience of emotional states",
-    "physical": "bodily sensations and somatic awareness"
+    "cognition": "conscious awareness of an internal experience",
+    "emotion": "an emotional state as it is experienced",
+    "physical": "bodily sensation such as warmth or pain"
   }
 }

@@ -7,18 +7,21 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "See / Perceive Visually",
-  "description": "The fundamental act of visual perception, where light becomes awareness and form reveals itself to consciousness. More than optical mechanics, seeing embodies the meeting between external reality and internal recognition - the moment when photons transform into meaning. It encompasses both the automatic reception of visual information and the conscious act of looking, the passive arrival of images and the active direction of gaze. In Phi's framework, seeing is understood as witnessing rather than surveillance, as respectful awareness rather than intrusive scrutiny, recognizing that to see another is to acknowledge their presence without claiming ownership of their image.",
-  "sound_symbolism": "The word begins with 'ni', where the dental nasal 'n' creates an inward-drawing sound, like awareness gathering within, consciousness receiving what light offers. The 'n' grounds the act of seeing in the body - tongue touching just behind teeth, the same place where we form words about what we see. The high, bright 'i' that follows suggests alertness and clarity, the sharpness of focused vision. The second syllable 'la' flows liquid and open, the 'l' allowing perception to flow freely while 'a' opens wide in receptive awareness. Together, 'nila' embodies the complete act of seeing - the inward reception flowing into open awareness, creating a sound portrait of vision as both gathering and receiving.",
-  "grammatical_notes": "Functions as a verb that can be either intransitive (describing the ability or state of vision - 'mia nila' - I see/I can see) or transitive (seeing specific objects - 'mia [object] nila' - I see [object]). Word order follows Phi's SOV pattern when transitive. Distinguished from 'somela' (observe) which implies deliberate, sustained watching, 'nila' captures both momentary glimpses and general visual perception. Extends naturally to metaphorical understanding across languages ('I see' = 'I understand').",
-  "pillars": {
-    "secular-buddhist-philosophy": "Seeing as direct perception is fundamental to Buddhist practice. 'Come and see' (ehipassiko) is Buddhism's central invitation - to perceive reality directly rather than through concepts or beliefs. Clear seeing without judgment or attachment forms the foundation of mindfulness. We practice seeing things as they are (yathābhūta), not as we wish them to be, developing the clarity that leads to understanding.",
-    "peace-linguistics-practices": "The word 'nila' frames seeing as respectful witnessing rather than possessive surveillance. It emphasizes awareness that acknowledges presence without claiming ownership of another's image or privacy. This linguistic choice shapes how speakers conceptualize vision itself - not as a tool of control or judgment, but as a gift of connection that honors what is seen while maintaining appropriate boundaries."
-  },
+  "search_terms": [
+    "view"
+  ],
+  "description": "A glance at the sun and a long view down a road both use 'nila' (see). 'somela' (observe) adds deliberate attention to details or patterns, and 'shelomu' (understand) names comprehension. The compound 'thiku nila' (see as small) is established for contempt.",
+  "articulatory_notes": "Place the tongue tip against the back of the upper teeth for voiced dental nasal 'n', carry the sound through the nose, and release into high-front 'i'. Move the tongue tip to the alveolar ridge for lateral 'l', then open into central 'a'. Stress falls on 'ni'.",
+  "usage_notes": "The seen object precedes this verb. Without an object, 'nila' can report visual ability or the occurrence of sight. A descriptor before the verb can state how something is seen, as in the registered 'thiku nila' (see as small).",
+  "examples": [
+    {
+      "phi": "mia sileta nila.",
+      "translation": "I see the sun."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "perception as gateway to understanding",
-    "physical": "sensory perception through eyes",
-    "spatial": "visual awareness of space, distance, and form",
-    "wisdom": "clear seeing as foundation of knowledge"
+    "cognition": "visual information entering awareness",
+    "physical": "perception through sight",
+    "spatial": "visual location and relation among things in view"
   }
 }

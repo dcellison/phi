@@ -8,15 +8,18 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Sound / What the Ear Receives",
-  "description": "Sound: the neutral category of everything heard. Built beside 'shonui' (ear), its receiver; 'hea' (hear) is the act, 'shonuwa' the thing. Music ('meliphe') and noise ('kohura') divide it between them, and most of it belongs to neither.",
-  "sound_symbolism": "Hushed 'sho' opens the air, 'nu' hums in it, 'wa' lets it reach. A quiet word for the medium of all loud ones.",
-  "grammatical_notes": "Noun: 'mia shonuwa hea.' (I hear a sound.) 'shonui shonuwa howela.' (The ear receives sound.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Sound is the classic meditation object after breath: always present, always changing, gone as it arrives. The bell is struck so there is something honest to attend to."
-  },
+  "description": "A voice, a bell, wind in leaves, and a piece of music all produce 'shonuwa'. The noun is the neutral sound available to hearing. 'kohura' (noise) is sound heard as irregular, indistinct, or interfering in a particular setting; 'shonuwa' makes no such judgement.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for voiceless 'sh' and release the narrow airflow into rounded true-mid back 'o'. Place the tongue tip against the back of the upper teeth for voiced dental nasal 'n', then open into stressed high-back rounded 'u'. Round the lips for 'w' and finish with open central 'a'.",
+  "sound_symbolism": "'shonuwa' audibly neighbours 'shonui' (ear). The resemblance links what is heard with its bodily receiver, though it is not a productive derivation.",
+  "usage_notes": "'hea' (hear) names the reception of 'shonuwa'. A particular sound can be counted, while uncounted 'shonuwa' can refer to sound as a medium or field.",
+  "examples": [
+    {
+      "phi": "mia shonuwa hea.",
+      "translation": "I hear a sound."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "The medium of music and speech",
-    "physical": "The heard category"
+    "aesthetic": "the audible material of music and other sound art",
+    "physical": "an acoustic event or the medium available to hearing"
   }
 }
