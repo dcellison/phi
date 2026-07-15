@@ -7,13 +7,19 @@
     "e"
   ],
   "pos": "preposition",
-  "concept": "Out Of / Moving Outward / Exiting",
-  "description": "Marks motion that crosses a boundary to exit an interior space. The directional counterpart to 'muo' (into), 'mue' captures the dynamic crossing outward—emergence, departure, the transition from containment to openness. This preposition honors the significance of leaving: homes, situations, old patterns, confined understanding.",
-  "sound_symbolism": "The word begins with 'mu', the same interior-marking sounds as 'muo' (into) and 'mua' (in)—nasal 'm' grounding and rounded 'u' suggesting the enclosed space being left. But where 'muo' closes rounded for arrival inside, 'mue' opens to 'e', the balanced mid vowel that faces forward and outward. Speaking 'mue' creates the acoustic shape of exit: from grounded interior through the threshold to the 'e' of emergence. The minimal pair with 'muo' through vowel alternation (o→e) mirrors the directional reversal (in→out).",
-  "grammatical_notes": "Functions as a directional preposition indicating motion crossing a boundary outward. Precedes its object: 'mue nuroa' (out of the kitchen), 'mue phialu' (out of the water). Distinguished from 'mua' (in) which marks static location and from 'lue' (from) which marks source without implying interior. Often implies liberation or emergence when used metaphorically: 'mue nuhe' (out of sadness). Can combine with verbs of motion or be implied by context.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Liberation is often described as emergence—out of suffering, out of delusion, out of the cycle. 'Mue' grammaticalizes this understanding that exit can be freedom, that leaving contained states opens possibility.",
-    "peace-linguistics-practices": "Recognizing when to exit—conversations, situations, patterns—supports peaceful living. 'Mue' provides language for departure that acknowledges what is being left rather than merely noting destination.",
-    "pre-industrial-wisdom": "Traditional wisdom includes knowing when to leave—the field, the negotiation, the old ways. 'Mue' carries this understanding that healthy communities and individuals must be able to exit as well as enter."
-  }
+  "search_terms": [
+    "out of",
+    "exiting",
+    "outward motion"
+  ],
+  "description": "Opening a door and stepping outside puts the house after 'mue'. This preposition marks outward passage across the boundary of an interior, which may be a physical space or a state. 'lue' (ABL) can name any source; 'mue' specifically says that the movement began inside it.",
+  "articulatory_notes": "Close the lips for voiced 'm' and carry its resonance through the nose before opening onto high-back rounded 'u'. At the hiatus, release the lip rounding and bring the tongue forward for middle-height front 'e'. Stress 'mu'.",
+  "sound_symbolism": "The shared 'mu' and contrasting final vowels make 'mue' and 'muo' (INTO) an audible pair. The resemblance belongs to these fixed words alone.",
+  "usage_notes": "The interior being left follows 'mue'. 'phei' (AWAY) can continue the scene by describing the distance that grows after the exit.",
+  "examples": [
+    {
+      "phi": "mia mue womu wepu.",
+      "translation": "I go out of the house."
+    }
+  ]
 }

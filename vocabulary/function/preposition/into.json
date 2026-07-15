@@ -7,13 +7,19 @@
     "o"
   ],
   "pos": "preposition",
-  "concept": "Into / Moving Inward / Entering",
-  "description": "Marks motion that crosses a boundary to enter an interior space. Where 'mua' (in) indicates static location within, 'muo' captures the dynamic crossing—the threshold moment of entry, the transition from outside to inside. This preposition honors the significance of entering: homes, communities, states of being, new understanding.",
-  "sound_symbolism": "The word begins with 'mu', sharing the interior-marking sounds of its sibling 'mua' (in)—the nasal 'm' grounding and the rounded 'u' suggesting enclosed space. But where 'mua' ends open and spacious for static containment, 'muo' closes toward 'o', the vowel of completion and arrival. Speaking 'muo' creates the acoustic shape of entry: from grounded beginning through rounded interior to the 'o' of having arrived inside. The minimal pair with 'mue' (out of) through vowel alternation makes directional meaning audible.",
-  "grammatical_notes": "Functions as a directional preposition indicating motion crossing a boundary inward. Precedes its object: 'muo nuroa' (into the kitchen), 'muo phialu' (into the water). Distinguished from 'mua' (in) which marks static location. Often implies transformation or state change when used metaphorically: 'muo nulae' (into sleep). Can combine with verbs of motion or be implied by context.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Entry marks transformation—entering meditation, entering understanding, entering community. 'Muo' grammaticalizes this recognition that crossing thresholds matters, that the moment of entering deserves linguistic attention.",
-    "peace-linguistics-practices": "Entering another's space—physical or metaphorical—requires awareness. 'Muo' marks this crossing explicitly, supporting mindful transitions rather than unreflective intrusion.",
-    "pre-industrial-wisdom": "Traditional cultures marked entries with rituals—entering homes, sacred spaces, new life stages. 'Muo' carries this understanding that boundaries exist to be crossed consciously, not ignored."
-  }
+  "search_terms": [
+    "into",
+    "entering",
+    "inward motion"
+  ],
+  "description": "A traveler who crosses the forest edge and continues inside uses 'muo'. It marks inward passage across a boundary, whereas 'mua' (LOC) locates an action already inside. The interior may also be a state, as in entry into sleep.",
+  "articulatory_notes": "Close the lips for voiced 'm' and let air pass through the nose, then open onto high-back rounded 'u'. Keep the next vowel in its own syllable as the tongue lowers slightly for mid-back 'o' and the lip rounding relaxes. Stress 'mu'.",
+  "sound_symbolism": "'muo', 'mue' (OUT.OF), and 'mua' (LOC) share the opening 'mu'. Their final vowels separate three fixed members of this preposition family. The audible pattern helps memory but coins no new forms.",
+  "usage_notes": "The destination interior comes after 'muo'. The construction requires motion or change; movement that stays within a place takes 'mua' (LOC) instead.",
+  "examples": [
+    {
+      "phi": "mia muo shelira wepu.",
+      "translation": "I go into the forest."
+    }
+  ]
 }

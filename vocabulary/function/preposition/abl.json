@@ -7,12 +7,19 @@
     "e"
   ],
   "pos": "preposition",
-  "concept": "From / Source / Origin Point",
-  "description": "The ablative preposition marking the source or origin of motion, transfer, or derivation: a letter from a friend, walking from the forest, a story from long ago. Announces that what follows is a point of origin, completing the source-family of prepositions: 'mua' (at/in), 'mue' (out of), 'lue' (from).",
-  "sound_symbolism": "The liquid 'l' begins in motion, flowing outward. The deep 'u' rests at the source itself, and the settling 'e' arrives where the movement comes to be. Speaking 'lue' traces the whole arc of departure: from depth, through flow, to presence.",
-  "grammatical_notes": "Follows the modifier-first principle: always precedes its object. 'lue shelira' (from the forest), 'lue melu' (from a friend). Replaces the earlier form 'phoi', which collided with the scale-unit 'phoi' (nine-group). Related prepositions: 'mue' (out of, motion from inside), 'phei' (away, directional), 'lue' (from, source/origin).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Every phenomenon arises from conditions. The ablative makes dependent origination grammatically available: nothing simply is; it is always from somewhere.",
-    "pre-industrial-wisdom": "Knowing where things come from — food, water, stories, kin — is foundational pre-industrial knowledge. 'Lue' keeps origins speakable and honored, resisting the placeless anonymity of industrial supply."
-  }
+  "search_terms": [
+    "from",
+    "source",
+    "origin",
+    "ablative"
+  ],
+  "description": "A traveler can come from the north, and a gift can come from a friend. 'lue' marks the source in both cases and can also ground a derivation or an account from an earlier time. 'mue' (OUT.OF) adds an interior boundary, while 'phei' (AWAY) follows the movement as distance grows.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along its sides as the tongue draws back for high-back rounded 'u'. Keep the vowel break, then unround the lips and advance the tongue into middle-height front 'e'. Stress 'lu'.",
+  "usage_notes": "The source comes directly after 'lue'. In a clause with a direct object, the source phrase keeps the ordinary adjunct position before that object.",
+  "examples": [
+    {
+      "phi": "melu lue nitho shua.",
+      "translation": "The friend comes from the north."
+    }
+  ]
 }
