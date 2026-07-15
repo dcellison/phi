@@ -32,6 +32,16 @@ Articulatory notes follow the word through the mouth and describe breath, contac
 
 The audit works in `vocabulary/`, the canonical source, and generated lexicon references follow through regeneration. It may rewrite English prose while leaving Phi forms and exact glosses fixed. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) divides the inventory into legacy, partial, dual, and target states. Each batch refreshes that report, regenerates references, and passes full validation.
 
+### Lexical relations between content words
+
+Status: Parked while the legacy vocabulary prose audit continues.
+
+Revised definitions already cite the nearest Phi neighbour when the distinction helps a speaker. `thua` (fair) is located against `kolo` (equal), for example. This practice should continue as semantic neighbourhoods are revised, without making every entry recite a family tree. Search terms help English lookup and semantic domains collect broad areas, but neither records a direct relationship between two Phi words.
+
+A future schema revision may add an optional `lexical_relations` array. Each item would name a canonical word and its controlled relationship, with a brief note where the boundary needs explanation. A link might record a contrast or place one word beneath a broader term. Validation can confirm that the target exists and apply reciprocal rules only where the relationship requires them.
+
+This would be a curated lexical graph, not a substitute for vector search. Embeddings could later infer looser similarities from definitions and examples; curated links would preserve distinctions that the lexicon states outright. Revisit the field when the lexicon explorer needs related-word navigation or the project chooses to maintain an explicit lexical graph. The active prose migration does not depend on that decision.
+
 ### Tengwar renderer verification
 
 Status: Parked until Tengwar work resumes or the mode approaches publication-ready status.
