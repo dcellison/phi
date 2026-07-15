@@ -8,16 +8,22 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Eager / Keen and Enthusiastic / Ready to Begin",
-  "description": "Strongly wanting to do or have something; keenly expectant. 'Therua' names the quality of eagerness—energy gathered and ready, enthusiasm pointing toward action.",
-  "sound_symbolism": "The word leans forward. 'The' /θe/ begins with ready breath, anticipation forming. 'Ru' rolls with gathered energy, momentum building. Finally 'a' opens to what's coming, eagerness complete.",
-  "grammatical_notes": "Functions as an adjective: 'therua lopia' (eager child). Related to 'wiroa' (hopeful) but emphasizes readiness for action rather than anticipation of good.",
-  "pillars": {
-    "solarpunk-values": "Eager engagement drives change—enthusiasm that wants to begin building better futures.",
-    "secular-buddhist-philosophy": "Eager practice approaches meditation with energy—not passive waiting but active engagement."
-  },
+  "search_terms": [
+    "keen",
+    "enthusiastic",
+    "ready to begin"
+  ],
+  "description": "'therua' is eagerness gathered before a wanted action or event: a child ready for the door to open, or a speaker keen to answer. 'wiroa' (hopeful) concerns the outcome ahead, while 'kesu' (determined) concerns persistence after a course is chosen.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth and let unvoiced air pass for 'th', then move into true-mid front 'e'. Make a tap or short trill for 'r' and raise the back of the tongue for stressed rounded high-back 'u'. Keep final 'a' separate across the 'u.a' hiatus by unrounding the lips and opening the jaw towards central 'a'.",
+  "usage_notes": "With 'nai' (be), 'therua' describes present eagerness. It can also stand before an action to give it eager manner. Context identifies what the person is ready for.",
+  "examples": [
+    {
+      "phi": "lopia therua nai.",
+      "translation": "The child is eager."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Keen enthusiasm",
-    "temporal": "Ready to begin"
+    "activity": "readiness to begin or join a wanted action",
+    "emotion": "keen anticipation before an action or event"
   }
 }

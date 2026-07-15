@@ -8,16 +8,22 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Playful / Full of Fun / Lighthearted",
-  "description": "Fond of games and amusement; lighthearted and full of fun. 'Liroa' names the quality of playfulness—the spirit that finds joy in play, that approaches life with lightness.",
-  "sound_symbolism": "The word dances lightly. 'Li' begins with bright ease, lightness present. 'Ro' rolls with joyful energy, play in motion. Finally 'a' opens to delight, playfulness complete.",
-  "grammatical_notes": "Functions as an adjective: 'liroa lopia' (playful child). Related to 'loshi' (joyful) but emphasizes the active expression of joy through play; the verb neighbor is 'wile' (play).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Playful mind releases grasping—the lightness of play dissolves the heaviness of attachment.",
-    "pre-industrial-wisdom": "Play taught essential skills—children's games prepared them for adult work and cooperation."
-  },
+  "search_terms": [
+    "playfulness",
+    "lighthearted",
+    "fun-loving"
+  ],
+  "description": "A child inventing rules as the game goes, or an adult answering with a twinkle, may be 'liroa'. The adjective describes a person or manner inclined towards play. 'wile' (play) is the activity itself; 'monelu' (amused) is the response to something entertaining.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along its sides, and move into high-front 'i'. Make a tap or short trill for 'r', then draw the tongue back and round the lips for stressed true-mid 'o'. Keep final 'a' in a separate syllable across the 'o.a' hiatus by unrounding the lips and opening towards central 'a' without inserting a glide.",
+  "usage_notes": "Before a noun, 'liroa' describes a playful person or thing. Before a verb, it describes playful manner, as in 'liroa haolu' (speak playfully).",
+  "examples": [
+    {
+      "phi": "lopia liroa nai.",
+      "translation": "The child is playful."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Lighthearted joy",
-    "wisdom": "Fun-loving spirit"
+    "activity": "a play-seeking manner brought to an action or interaction",
+    "emotion": "lighthearted readiness for play"
   }
 }

@@ -30,8 +30,9 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Awareness and epistemic qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
 | Ethics, care, and candour | **DONE** | Eleven inherited entries now use the target prose contract, with `thua` (fair) as an already-migrated anchor. Deliberate or callous infliction of suffering remains a lexical review question. |
 | Core emotion inventory | **DONE** | The fifteen remaining legacy entries in canon's core teaching inventory now use the target prose contract. Canon distinguishes that lesson set from the wider affective lexicon and treats each registered expression as its own lexical choice. |
+| Affective response, anticipation, and resolve | **DONE** | Ten inherited adjectives now use the target prose contract, with `wipha` (restless) as an already-migrated anchor. Sustained interest or engagement remains a lexical review question. |
 | Semantic-domain contract and target-entry audit | **DONE** | [PR #368](https://github.com/dcellison/phi/pull/368) establishes the fifteen-domain browse catalogue and checks all 133 target-contract content entries against its retrieval rule. |
-| Resume inherited content prose migration | **NEXT** | Continue after the core emotion inventory. Each semantic group passes through this coverage gate. |
+| Resume inherited content prose migration | **NEXT** | Continue after affective response, anticipation, and resolve. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -48,6 +49,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
 | Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **COVERED** | Canon now separates the core feeling lesson from wider affective vocabulary. Each registered expression keeps its settled form; complexity alone does not decide whether a direct root belongs. |
+| Affective response, anticipation, and resolve | Current batch | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
 
 ## Semantic batches and stable domains
 
@@ -68,6 +70,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Awareness and epistemic qualities | `cognition`, `wisdom`, `communication` | Attention is cognitive; sound judgement is wisdom; an account offered to another person is communication. |
 | Ethics, care, and candour | `ethics`, `community`, `communication`, `emotion` | Conduct, social relation, expression, and feeling remain separately retrievable. |
 | Core emotion inventory | `emotion`, `community`, `physical`, `temporal`, `aesthetic` | A feeling, its bodily response, a social condition, willingness through time, and perceivable composure remain separate routes. |
+| Affective response, anticipation, and resolve | `emotion`, `activity`, `temporal`, `cognition`, `community`, `physical` | A felt response, readiness to act, bodily arousal, and a judgement about reconsideration remain distinct. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -301,6 +304,27 @@ This batch follows the core teaching inventory named by canon. Five feeling noun
 
 The fifteen migrated entries now have full target prose and validated examples. Their sound notes separate physical articulation from embodied sound symbolism, and their domain rationales follow the new retrieval rule. No root is added. The old boundary question is resolved: the lesson inventory is core, the broader affective lexicon remains open to useful roots, and the listed expressions keep their case-by-case status.
 
+## Affective response, anticipation, and resolve
+
+This batch follows the wider affective vocabulary recognised by canon. It migrates ten legacy adjectives and uses already-migrated `wipha` (restless) as an anchor. The group contains light response and anticipation. It also reaches the ways a person holds a course under uncertainty. These words share a neighbourhood, but they do not all describe feelings: `muro` (stubborn) can judge a refusal to reconsider, while `kaeshu` (bold) can describe a proposal or act.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Amusement, playfulness, laughter, and joy | `monelu` (amused), `liroa` (playful), `hola` (laugh), `wile` (play), `siora` (joy), and `loshi` (joyful) | **COVERED** | Amusement is the light response to something entertaining. Playfulness is an inclination or manner, laughter is an act, play is the activity, and the joy pair covers felt gladness and joy-giving occasions. |
+| Hope, wish, and hopefulness | `soliru` (hope), `pula` (wish), and `wiroa` (hopeful) | **COVERED** | Hope expects that welcome change remains possible, a wish desires an outcome, and hopefulness is the person's present quality. |
+| Eagerness, impatience, patience, and restlessness | `therua` (eager), `sheli` (impatient), `hurao` (patient), and `wipha` (restless) | **COVERED** | Eagerness gathers before a wanted action. Impatience presses against delay, patience stays with it, and restlessness needs neither a delay nor a goal. |
+| Nervousness, fear, and shyness | `luroi` (nervous), `sukima` (fear), and `nilua` (shy) | **COVERED** | Nervousness anticipates an uncertain or exposed moment, fear answers perceived danger, and shyness keeps other people's attention in the frame. |
+| Boldness, bravery, and courage | `kaeshu` (bold), `shaelo` (brave), and `thomari` (courage) | **COVERED** | Boldness steps forward under uncertainty. Bravery faces fear, danger, or pain already present, while courage names the felt resolve that supports it. |
+| Determination, stubbornness, steadiness, and receptivity | `kesu` (determined), `muro` (stubborn), `kolu` (steady), and `loetha` (open or receptive) | **COVERED** | Determination holds effort to a chosen purpose, stubbornness resists reconsideration, steadiness limits variation through time, and receptivity leaves room to examine what arrives. |
+| Surprise and wonder | `wakomi` (surprise), `waora` (wondrous), and a question inside `phaelo` (feel) | **COVERED** | Surprise is the unexpected arrival, wondrous describes what exceeds expectation, and felt wonder can keep its open question explicit. |
+| Excitement and enthusiasm | Degree-marked `therua` (eager), `siora` (joy), `wipha` (restless), or the corpus pairing `loshi nela kesu` (joyful and determined) | **COMPOSITIONAL** | The Velveteen Rabbit uses intense eagerness for excitement, while the Solarpunk Manifesto joins joy with determination for enthusiasm. The construction says whether the energy is anticipation, pleasure, agitation, or resolve. |
+| Relief | Cessation or `lepa` (fall) clauses with the state that ends, such as fear, pain, heaviness, or restlessness | **COMPOSITIONAL** | Relief depends on what has lifted. In *News from Nowhere*, heaviness falls away joyfully, so the former burden and the change both remain visible. |
+| Frustration | A stated obstacle or `noraku` (blocked), followed by `sheli` (impatient), `wipha` (restless), sadness, or heart-fire when that response is present | **COMPOSITIONAL** | Frustration can come from blockage, failed effort, or repeated interruption. Naming the obstacle and the actual response avoids pretending that every thwarted aim feels alike. |
+| Willingness and reluctance | `kanu` (choose), `kelomi` (accept), `naweri` (refuse), `pula` (wish), `loetha` (open or receptive), `lesawi` (consent), and the action under consideration | **COMPOSITIONAL** | Phi can say whether a person chooses, accepts, wants, considers, consents to, or refuses the action. That supplies more information than a free-standing claim of willingness. |
+| Sustained interest, engagement, and boredom | `kuelo` (curious), `theonu` (attend), `pula` (wish), `shorui` (weary), and clauses describing the activity | **REVIEW** | `kuelo` is defined as interest directed towards learning, yet *News from Nowhere* also uses it for ordinary interest and renders boring as causing weariness. A connected-use test should ask whether one base root for sustained interest or engagement would close both paraphrases without importing a separate English-shaped word for boredom. |
+
+The ten migrated entries now carry the full target contract. Their domain routes separate feeling from action, social exposure, bodily arousal, and reconsideration. This pass also repairs the `hurao` (patient) example: patient waiting now uses `hasi` (wait), not `numea` (nestle). No root is added here. The interest and engagement question remains visible because the corpus has already pressed on it more than once.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -341,4 +365,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, awareness and epistemic qualities, ethics, care, and candour, and the core emotion inventory. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu`, applied ornament, and deliberate or callous infliction of suffering remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, awareness and epistemic qualities, ethics, care, and candour, the core emotion inventory, and affective response, anticipation, and resolve. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

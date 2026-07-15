@@ -7,16 +7,26 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Stubborn / Refusing to Change / Fixed in Position",
-  "description": "Having or showing dogged determination not to change one's attitude or position. 'Muro' names the quality of stubbornness—persistence that can be strength or obstacle.",
-  "sound_symbolism": "The word locks shut. 'Mu' begins with labial closure, the mouth and mind pressed together, refusing entry. 'Ro' rolls but goes nowhere, energy cycling inward. Stubbornness as inner fixedness, a mind closed to change.",
-  "grammatical_notes": "Functions as an adjective: 'muro miona' (stubborn person). Related to 'kesu' (determined) but with connotation of inflexibility rather than purposeful resolve.",
+  "search_terms": [
+    "obstinate",
+    "inflexible",
+    "unwilling to reconsider"
+  ],
+  "description": "'muro' describes persistence in a position or course after reasons to reconsider have appeared. A person may be stubborn about a small preference or a public decision. 'kesu' (determined) keeps effort aimed at a purpose; 'muro' makes resistance to adjustment part of the description.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, then raise the back of the tongue and round the lips for stressed high-back 'u'. Make a tap or short trill at the alveolar ridge for 'r' and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "The lips close at the start, both vowels remain rounded, and the brief tap changes the articulation without opening the form widely. In Phi, that contained motion can echo a position held past the moment of easy adjustment.",
+  "usage_notes": "A speaker can apply 'muro' to their own position as readily as another person's. Context supplies whether the resistance seems useful or costly.",
+  "examples": [
+    {
+      "phi": "shia muro nai.",
+      "translation": "They are stubborn."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Stubbornness can be attachment—clinging to position rather than responding to what is.",
-    "peace-linguistics-practices": "Stubborn communication blocks resolution—flexibility serves understanding better than rigid positions."
+    "secular-buddhist-philosophy": "When someone holds a position after the reasons have changed, 'muro' gives Buddhist practice a plain word for attachment to a view."
   },
   "semantic_domains": {
-    "emotion": "Inflexible",
-    "wisdom": "Resistant to change"
+    "activity": "persistence in a course despite reasons to adjust it",
+    "cognition": "resistance to reconsidering a position or judgement"
   }
 }

@@ -8,16 +8,24 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Shy / Reserved / Hesitant in Social Situations",
-  "description": "Nervous or timid in the company of others; reserved and hesitant. 'Nilua' names the quality of shyness—the holding back that comes from sensitivity, the quietness in unfamiliar company.",
-  "sound_symbolism": "The word draws inward. 'Ni' begins with contained presence, self-protected. 'Lu' flows gently, holding back. Finally 'a' opens slightly, vulnerable but cautious.",
-  "grammatical_notes": "Functions as an adjective: 'nilua lopia' (shy child). Opposite of 'kaeshu' (bold). Shyness in Phi is not flaw but sensitivity—different from fearfulness.",
+  "search_terms": [
+    "reserved",
+    "socially hesitant"
+  ],
+  "description": "'nilua' is the hesitation or reserve that can arise under other people's attention, especially in unfamiliar company. A shy person may still want to join the conversation. 'luroi' (nervous) covers apprehension more broadly; 'nilua' keeps the social setting in view.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental nasal 'n', carry the voice through the nose, and move into high-front 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along its sides, then raise the back of the tongue for stressed rounded high-back 'u'. Final 'a' begins its own syllable after 'u'; unround the lips and open towards the central vowel.",
+  "usage_notes": "The adjective can describe a person or their manner. A separate clause gives the person's next act; shyness itself stops at the hesitation.",
+  "examples": [
+    {
+      "phi": "lopia nilua nai.",
+      "translation": "The child is shy."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Shyness can reflect awareness—sensitivity to how one's presence affects others.",
-    "peace-linguistics-practices": "Shy speakers need space—patient listening draws out those who hesitate to speak."
+    "peace-linguistics-practices": "Patient turn-taking gives a shy speaker room to enter when they are ready. A pause can then remain a pause instead of being guessed into agreement or refusal."
   },
   "semantic_domains": {
-    "emotion": "Social hesitance",
-    "wisdom": "Sensitive reserve"
+    "community": "reserve felt under other people's attention",
+    "emotion": "social hesitation or self-conscious unease"
   }
 }
