@@ -7,14 +7,22 @@
     "i"
   ],
   "pos": "conjunction",
-  "concept": "Despite / Although / In Spite of",
-  "description": "Marks concessive relationships: something occurs contrary to the expectation created by another factor. 'Shai' concedes the opposing condition (the storm, the danger) while the main assertion stands.",
-  "sound_symbolism": "The word begins with 'sha', where the soft fricative 'ʃ' whispers acknowledgment without harsh confrontation—recognizing opposition without creating conflict. The open 'a' holds space for the acknowledged factor. This spacious recognition then focuses to 'i', the precise vowel of specific outcome despite the opposing force. The acoustic journey from soft acknowledgment through spacious holding to precise result mirrors how concession works—recognizing obstacles while maintaining direction.",
-  "grammatical_notes": "Functions as a concessive preposition taking noun phrases or nominalized clauses. Precedes the noun it modifies: 'shai kurisha' (despite the storm), 'shai pukea' (despite the danger), 'shai nuhe' (despite sadness). Marks factors that would normally prevent or oppose the main assertion but fail to do so. Unlike adversative conjunctions that coordinate equal clauses, 'shai' subordinates the conceded factor to the main assertion.",
-  "pillars": {
-    "solarpunk-values": "Building regenerative futures requires acknowledging current challenges without being defeated by them. 'Shai' serves the solarpunk spirit of determined optimism—working for change despite systemic obstacles, maintaining hope despite legitimate reasons for despair.",
-    "secular-buddhist-philosophy": "The word embodies the teaching of perseverance (virya)—progress on the path continues despite obstacles, not through their absence. Like lotus growing through mud, 'shai' acknowledges that difficulty need not prevent flowering.",
-    "peace-linguistics-practices": "By beginning with soft sounds, 'shai' enables speakers to acknowledge obstacles without amplifying their power. It transforms potential conflict—'you tried to stop me!'—into calm recognition—'despite opposition, we continue.' This linguistic choice de-escalates while maintaining truth.",
-    "pre-industrial-wisdom": "Traditional resilience understood that life persists despite hardship—seeds sprout despite drought, communities endure despite scarcity, wisdom survives despite suppression. 'Shai' carries this knowledge that continuance often happens not in absence of obstacles but through them."
-  }
+  "search_terms": [
+    "although",
+    "despite",
+    "concession"
+  ],
+  "description": "'shai' introduces a circumstance that raises an expectation which the main clause overturns: 'although' before a clause and 'despite' before a noun phrase. 'thona' (ADVRS) coordinates contrasting equals; 'shai' makes one circumstance subordinate to the main assertion that still holds.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area and channel unvoiced air along its centre for 'sh', then open the jaw fully into central 'a'. Hold the hiatus before lifting the tongue toward high-front unrounded 'i'. Stress 'sha'.",
+  "usage_notes": "The conceded clause or noun phrase follows 'shai' and precedes the main clause. A full dependent clause ends with its own verb and takes no closer.",
+  "examples": [
+    {
+      "phi": "shai pheralu to ma nai lo peloru thuroa.",
+      "translation": "Although it did not rain, the flowers grow."
+    },
+    {
+      "phi": "shai pheralu lo peloru thuroa.",
+      "translation": "Despite the rain, the flowers grow."
+    }
+  ]
 }

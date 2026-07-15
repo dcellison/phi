@@ -7,13 +7,22 @@
     "la"
   ],
   "pos": "conjunction",
-  "concept": "And / Connection / Coordination",
-  "description": "The coordinating conjunction that joins elements of equal grammatical status—words, phrases, or clauses. Each joined element keeps its own character; neither is subordinated to the other.",
-  "sound_symbolism": "The nasal 'n' anchors the first element, the liquid 'l' carries across to the next, and both syllables end in open vowels that leave room for what follows. Two light syllables, brief enough not to interrupt what they join.",
-  "grammatical_notes": "Functions as a pure coordinating conjunction without additional semantic weight. Unlike English 'and' which can imply sequence ('I fell and hurt myself'), 'nela' maintains strict coordination without temporal or causal implications. Similar to Japanese と (to) in neutrality but broader in application. Can coordinate at all levels: words, phrases, or full clauses. In lists, typically appears between each element rather than just before the final item. It is also the mandatory audible and written boundary between two explicit operands in arithmetic, pure equality, and magnitude comparison: 'ta shao nela wi sholei' (three plus two). 'Nela' never appears inside a numeral. Example of ordinary coordination: 'mia shea nela sila lothea' (I love peace and community).",
-  "pillars": {
-    "solarpunk-values": "The conjunction embodies systems thinking—understanding that resilience emerges from diversity connected, not isolated. 'Nela' serves the solarpunk practice of weaving elements together, recognizing that sustainable futures require collaboration and mutual support rather than competition.",
-    "secular-buddhist-philosophy": "The conjunction manifests the teaching of interdependence—phenomena arise not in isolation but through connections. 'Nela' acknowledges that meaning emerges in relationship; it is the grammatical expression of 'this and that together,' recognizing the mutual arising of all things.",
-    "peace-linguistics-practices": "By treating all coordinated elements as equals, 'nela' embodies non-hierarchical connection. It refuses the violence of subordination, instead creating space where different ideas, beings, or qualities can coexist without one dominating another. This grammatical equality nurtures collaborative thinking."
-  }
+  "search_terms": [
+    "and",
+    "coordination",
+    "operand boundary"
+  ],
+  "description": "'nela' joins words, phrases, or clauses of equal grammatical status: Phi's ordinary 'and'. It says only that the two belong in one coordination; sequence and cause require their own wording. The same conjunction is the required boundary between two explicit operands in arithmetic, equality, and magnitude comparison.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', then open onto unrounded front 'e' at middle height. Move the tip to the alveolar ridge for 'l'. Voice and air pass along the sides of the tongue before the jaw opens fully into central 'a'. Stress 'ne'.",
+  "usage_notes": "A list repeats 'nela' between every pair rather than saving it for the last item. In arithmetic it separates the operands but never occurs inside a numeral.",
+  "examples": [
+    {
+      "phi": "mia shea nela lothea phaelo.",
+      "translation": "I feel peace and love."
+    },
+    {
+      "phi": "ta shao nela wi sholei. ta shao wi kelai.",
+      "translation": "Three plus two results in five."
+    }
+  ]
 }

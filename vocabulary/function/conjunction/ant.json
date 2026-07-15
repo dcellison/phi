@@ -7,13 +7,24 @@
     "e"
   ],
   "pos": "conjunction",
-  "concept": "Before / Preceding / Prior",
-  "description": "A temporal subordinating conjunction that introduces a clause describing an event occurring prior to another. As the mirror of 'pheo', it marks not just temporal precedence but the recognition that every moment is both consequence and cause, both arrival and departure.",
-  "sound_symbolism": "The word begins with 'pho', where the gentle fricative 'ɸ' releases breath like memory itself—intangible yet undeniable. The vowel sequence reverses that of 'pheo': starting with the open 'o' that holds all possibility, then focusing to the precise 'e' of a specific moment. This phonetic reversal is no accident—where 'pheo' shows time expanding from point to possibility, 'phoe' shows time contracting from the vastness of the past to the singular present. The speaker's mouth physically enacts the temporal direction, moving from openness to focus, embodying how the past narrows into now.",
-  "grammatical_notes": "Functions as a subordinating conjunction with perfect structural parallel to 'pheo', but inverse temporal orientation. This minimal pair (distinguished only by vowel order) represents one of Phi's most elegant grammatical symmetries. The subordinate clause introduced by 'phoe' establishes temporal precedence for the main clause and comes first, announcing the temporal frame before the event. Example: 'phoe mia naphe mia remo' (Before I help, I think). Like 'pheo', it also stands over counted time noun phrases (the temporal-distance ruling, settled 2026-07-06): 'melu phoe wi philo to kamo' (the friend arrived two days ago), with past 'to' on the verb pointing the direction. Taught in manual ch15 and ch20.",
-  "pillars": {
-    "solarpunk-values": "The conjunction enables planning and preparation essential to regenerative transitions—understanding what groundwork must be laid before transformation can flourish. 'Phoe' serves the solarpunk practice of patient cultivation, recognizing that sustainable futures require careful tending of conditions before harvest.",
-    "secular-buddhist-philosophy": "The word embodies the Buddhist understanding of time as empty of inherent existence—'before' exists only in relation to 'after', each defining the other. This grammatical pairing with 'pheo' reminds speakers that temporal divisions are conceptual tools, not absolute realities.",
-    "pre-industrial-wisdom": "Like indigenous time-keeping that reads the past in present signs—the shape of trees revealing previous seasons, the land holding memory—'phoe' acknowledges that what came before is never truly gone but continues to shape the present moment."
-  }
+  "search_terms": [
+    "before",
+    "prior",
+    "earlier",
+    "ago"
+  ],
+  "description": "'phoe' orders two events as before. The dependent clause following it supplies the later reference event, and the main clause states what happens earlier. With a counted duration, it places an event that many units in the past.",
+  "articulatory_notes": "Narrow the space between the lips and let unvoiced air pass for 'ph', then round them around mid-back 'o'. Preserve the syllable break while the lips unround and the tongue moves forward into middle-height 'e'. Stress 'pho'.",
+  "sound_symbolism": "'phoe' answers 'pheo' (POST) with the same initial consonant and its vowels in reverse. The small audible turn helps the ear keep before and after apart.",
+  "usage_notes": "In clause use, the verb at the end of the dependent event marks where the main assertion begins; no closer appears. With a counted duration in adjunct position, 'to' (PST) on the main verb points backward from now.",
+  "examples": [
+    {
+      "phi": "phoe mia sheluo mia thilonu.",
+      "translation": "Before I listen, I prepare."
+    },
+    {
+      "phi": "melu phoe wi philo to kamo.",
+      "translation": "The friend arrived two days ago."
+    }
+  ]
 }
