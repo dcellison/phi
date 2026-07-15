@@ -56,7 +56,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | Philosophical capability | **PARTIAL** | Matrix, repair conventions, and fifteen test dialogues exist; several operations remain gaps. |
 | Solo evaluation | **READY** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain available after the breaking migration. |
 | Speech and listening evidence | **READY** | Audit tooling and protocols exist; recordings and perception results do not. |
-| Evidence-led semantic growth | **PARTIAL** | All eight active profiles have completed first vocabulary passes, and the lexicon prose contract now gives the inherited vocabulary a measured revision path. |
+| Evidence-led semantic growth | **PARTIAL** | All eight active profiles have completed first vocabulary passes; six completed base content batches now have a retrospective coverage audit, and the lexicon prose contract gives the inherited vocabulary a measured revision path. |
 | Practice and domain profiles | **DONE** | Eight active profiles are established vocabulary modules with speaker chapters, and further possibilities remain recorded separately. |
 | Original Phi corpus | **PARTIAL** | Fifteen philosophical dialogues exist, and the literary shelf has completed its after-state review. Scenarios, dialogues, and teaching texts remain; sustained essays and spontaneous transcripts do not yet exist. |
 | Learner and community evidence | **EVIDENCE** | Materials exist, but there is no recorded outside learner or recurring speaker evidence. |
@@ -179,6 +179,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-08D | **DONE** | Replace 30 Ecological Systems and Material Life forms. | Completed ledger scope, scenarios, profile, and generated reference | Reopen only if an active use of an old form is found. |
 | SEM-08E | **DONE** | Replace 29 Commons and Collective Governance forms and close the migration. | Completed ledger scope; validator has no long-form exception | Reopen only if an active use of an old form is found. |
 | SEM-09 | **PARTIAL** | Migrate inherited vocabulary prose to the target contract. | D017, transitional JSON Schema, field-aware explorer, and committed coverage report | Revise entries in bounded batches until every entry is target-shaped, with Phi forms and exact glosses held fixed unless a separate lexical decision changes them. |
+| SEM-09A | **NEXT** | Apply a semantic coverage gate to content prose batches and resolve the retrospective review queue. | `project/content_vocabulary_coverage.md` audits the six completed base content groups and separates covered, compositional, review, deferred, and settled concepts. | Review damage, wear, weakness, and rigidity; test the questions without corpus pressure; implement accepted vocabulary; then require a recorded coverage decision before each future content batch closes. |
 
 ### Default coinage checklist
 
