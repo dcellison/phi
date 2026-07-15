@@ -7,14 +7,19 @@
     "i"
   ],
   "pos": "preposition",
-  "concept": "Between / Among (dual) / In the Space Separating",
-  "description": "Marks location in the space that both separates and connects two reference points. The gap between two things is treated as a place in its own right, in space, time, or circumstance.",
-  "sound_symbolism": "The word begins with 'the', where the interdental fricative 'θ' requires the tongue to find the precise space between teeth—physically enacting betweenness in its very articulation. This careful positioning through 'e' focuses into 'i', the thinnest vowel, suggesting the sometimes narrow space between things. The acoustic journey from careful placement to focused thinness mirrors how 'between' often requires precise navigation of tight spaces, whether physical, social, or conceptual. The fricative's breathiness evokes the air that flows between solid things.",
-  "grammatical_notes": "Functions as a spatial preposition requiring exactly two reference points (for more than two, 'thoa' among is used). Precedes the paired nouns it modifies: 'thei tomora nela luphore' (between the mountain and the river), 'thei kelua nela howai' (between morning and evening). The dual requirement reflects Phi's precision in distinguishing binary from multiple relationships. Does not imply equal distance from both reference points—asymmetric betweenness still uses 'thei'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The word embodies the Middle Way—not as compromise but as the creative space between extremes where wisdom emerges. Like the pause between breaths where presence lives, 'thei' marks the fertile void between fixed positions.",
-    "art-nouveau-aesthetics": "Negative space in Art Nouveau design is never empty but charged with potential, defining forms through what lies between them. 'Thei' captures this aesthetic understanding that space between things shapes them as surely as their own boundaries.",
-    "peace-linguistics-practices": "Mediation happens in the space between conflicting positions. 'Thei' honors this liminal zone where differences can be held without resolution, where peace work happens not by choosing sides but by maintaining the productive space between them.",
-    "pre-industrial-wisdom": "Traditional cultures recognized the power of liminal spaces—thresholds between inside and outside, twilight between day and night, tidal zones between land and sea. 'Thei' carries this understanding that between-spaces are often the most transformative."
-  }
+  "search_terms": [
+    "between",
+    "in the space between",
+    "two landmarks"
+  ],
+  "description": "Two trees can bound a place without putting it halfway between them. 'thei' marks that two-sided relation and leaves the exact distances open. The pair may belong to space, time, or a stated set. Three or more surrounding reference points take 'thoa' (AMONG).",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and let unvoiced air pass around it for 'th', then withdraw into middle-height front 'e'. Preserve the hiatus while raising the tongue into high-front unrounded 'i'. Stress 'the'.",
+  "sound_symbolism": "The tongue itself occupies a narrow space between the teeth at the start of 'thei'. Within Phi, that physical placement offers a direct mnemonic for the two-sided relation.",
+  "usage_notes": "A counted plural phrase or two coordinated nouns can supply the reference points. 'thei' precedes that whole expression.",
+  "examples": [
+    {
+      "phi": "womu thei wi shiro nai.",
+      "translation": "The house stands between two trees."
+    }
+  ]
 }

@@ -7,14 +7,19 @@
     "a"
   ],
   "pos": "preposition",
-  "concept": "Among / Amidst / In the Midst Of (plural)",
-  "description": "Marks location within a group of three or more reference points, the plural counterpart to dual 'thei' (between). Where 'thei' navigates the space between two, 'thoa' indicates immersion in multiplicity—surrounded not by two shores but by many, held within a constellation rather than bridging a gap. This preposition acknowledges that being among many differs qualitatively from being between two.",
-  "sound_symbolism": "The word begins with 'th' /θ/, the thoughtful interdental fricative shared with its dual sibling 'thei', physically placing the tongue between teeth to enact being surrounded even as one speaks. This careful articulation opens into 'o', the round vowel of encirclement, of being held within, of the center that all surrounding points create together. Finally, 'a' expands to the most open vowel, acknowledging the multiplicity, the many-ness that distinguishes 'among' from mere 'between'. The progression from considered friction through roundedness to openness mirrors the experience of moving through a crowd or standing in a grove—surrounded yet spacious.",
-  "grammatical_notes": "Functions as a spatial preposition requiring plural reference (three or more). For exactly two reference points, use 'thei' (between-dual). Precedes its object: 'thoa lo miona' (among the people), 'thoa lo shiro' (among the trees). When the reference is obviously plural from context, the plural marker 'lo' may be omitted. Can extend metaphorically to non-spatial uses: being among friends, among options, among possibilities.",
-  "pillars": {
-    "solarpunk-values": "Regenerative systems think in networks and ecologies, not isolated pairs. 'Thoa' serves this understanding of being embedded among many interconnected elements, supporting the systems thinking that sustainable futures require.",
-    "secular-buddhist-philosophy": "To be among is to recognize interdependence with the many, not just relationship with one other. 'Thoa' marks the position of the sangha member, the individual held within community, the self that exists only in relation to countless others.",
-    "peace-linguistics-practices": "By distinguishing dual 'thei' from plural 'thoa', Phi allows precise expression of social position. This precision matters: mediation between two parties differs from facilitation among many. Clear language supports appropriate response to different group dynamics.",
-    "pre-industrial-wisdom": "Traditional life was lived among—among family, among trees, among seasons. 'Thoa' carries this understanding of immersion in multiplicity as the natural human condition, honoring the many relationships that sustain each individual."
-  }
+  "search_terms": [
+    "among",
+    "amidst",
+    "in the midst of"
+  ],
+  "description": "Once the reference points form a group of three or more, 'thoa' places something among them. The group may be physical, like a grove of trees, or conceptual, like a set of options. Exactly two reference points take 'thei' (BETWEEN).",
+  "articulatory_notes": "Place the tongue tip slightly between the teeth and pass unvoiced air around it for 'th', then withdraw the tongue and round the lips for mid-back 'o'. Keep the next vowel in its own syllable as the lips open and the jaw lowers into central 'a'. Stress 'tho'.",
+  "sound_symbolism": "'thoa' shares its interdental opening with 'thei' (BETWEEN), so the two spatial relators remain audible as a pair. Its movement from rounded 'o' into open 'a' gives 'thoa' the broader contour.",
+  "usage_notes": "The group follows 'thoa'. Use the plural marker 'lo' when plurality matters and the surrounding context does not already establish it.",
+  "examples": [
+    {
+      "phi": "wheo thoa lo lopia nai.",
+      "translation": "The elder is among the children."
+    }
+  ]
 }

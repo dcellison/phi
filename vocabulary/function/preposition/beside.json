@@ -7,14 +7,18 @@
     "o"
   ],
   "pos": "preposition",
-  "concept": "Beside / Next to / Alongside",
-  "description": "Marks location adjacent to a reference point: lateral proximity without contact. Each entity keeps its own space while sharing a vicinity. 'Sio' is neutral about the relative size or importance of the two.",
-  "sound_symbolism": "The word begins with 'si', where the soft sibilant 's' creates a sense of gentle proximity, like a whispered presence nearby. The high vowel 'i' suggests the specificity of position—not randomly near but precisely alongside. This specificity opens into 'o', the round vowel that creates space for both entities to exist in their fullness. The acoustic journey from soft approach to spacious coexistence mirrors how being beside requires both closeness and respect for separate space. The sounds flow together smoothly, like two streams running parallel.",
-  "grammatical_notes": "Functions as a spatial preposition marking lateral relationships with proximity but not contact. Precedes the noun it modifies: 'sio luphore' (beside the river), 'sio miona' (beside the person). Unlike touching relationships, 'sio' implies each entity maintains its own space while sharing vicinity. Can mark physical position, social relationships, or metaphorical alignment, though physical uses are primary. Neutral regarding relative size or importance of the entities.",
-  "pillars": {
-    "solarpunk-values": "Mutual aid and companion planting demonstrate how proximity creates resilience—systems beside each other offering reciprocal support. 'Sio' serves the design principle of beneficial adjacency, where diversity thrives through neighborly relationships.",
-    "secular-buddhist-philosophy": "The word manifests the teaching of sangha—spiritual community as parallel practitioners, each on their own path yet walking together. 'Sio' acknowledges that we can be deeply connected while maintaining individual journey.",
-    "peace-linguistics-practices": "By marking position without hierarchy, 'sio' embodies the practice of standing with rather than over or under. It grammaticalizes solidarity—the choice to place oneself alongside others as equals, making linguistic space for non-hierarchical relationships.",
-    "pre-industrial-wisdom": "Traditional placement understood beneficial proximity—which crops grow well beside each other, how buildings shelter one another, where to place workshops near water. 'Sio' carries this knowledge that some things flourish specifically because of what stands beside them."
-  }
+  "search_terms": [
+    "beside",
+    "next to",
+    "alongside"
+  ],
+  "description": "With 'sio', two things occupy neighboring positions side by side without contact. Their lateral arrangement matters more than the precise distance between them. The broader 'pai' (NEAR) gives proximity without choosing that arrangement.",
+  "articulatory_notes": "Raise the tongue blade close to the alveolar ridge and send unvoiced air through its central groove for 's', then lift the tongue into high-front unrounded 'i'. Keep the syllables distinct as the tongue moves back and the lips round for mid-back 'o'. Stress 'si'.",
+  "usage_notes": "The landmark comes immediately after 'sio'. Facing does not affect the beside relation.",
+  "examples": [
+    {
+      "phi": "lo peloru sio ruela thuroa.",
+      "translation": "The flowers grow beside the path."
+    }
+  ]
 }
